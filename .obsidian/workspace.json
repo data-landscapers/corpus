@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6c28ac0e194e2fd",
+        "id": "f93e82b4d6d216da",
         "type": "tabs",
         "children": [
           {
-            "id": "884ee7c4cd35cfbb",
+            "id": "46c3616cd6d57b03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DESIGN.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7ac0aea0a29e03b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "38a359418798f4e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "DESIGN"
             }
           }
         ]
@@ -111,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DESIGN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DESIGN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DESIGN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,7 +188,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "884ee7c4cd35cfbb",
+  "active": "46c3616cd6d57b03",
   "lastOpenFiles": [
     "Welcome.md",
     "build-catalogue-data.py",
