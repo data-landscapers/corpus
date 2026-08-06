@@ -18,6 +18,8 @@ These never clear. They are properties of OSINT the site depends on, recorded so
 
 **Nothing outside `outputs/` is ever read by the build.** The site is a derived view of the reporting layer, not of the vault. If something needs to reach the site, it has to be written into `outputs/` by a pass; there is no second channel.
 
+**A catalogue slug is a permanent public identifier and must never be reissued.** Once the site is up, a slug is the target of a provenance link inside a PDF that a journalist or academic has already downloaded, and that link has to resolve years later (`DESIGN.md` §9). Retiring a slug is survivable — the URL can say the record was withdrawn, and on what date. **Reusing one for a different record is not**, because it silently redirects an old citation to unrelated evidence, which is worse than a dead link and undetectable from the outside. A replaced or corrected source takes a new slug.
+
 ## Unresolved
 
 **1** (2026-08-06) — **`REPORT-TOPIC.md` is not written.** It is named in `wiki/report-layer.md` as still to be written, and the site's Topics section cannot launch without it. `REPORT-REGION.md` has since landed, so this is the last of the two. `DESIGN.md` §2.

@@ -24,8 +24,8 @@ Decisions taken and not to be re-opened without a reason. Each is a decision Bil
 - **The OSINT repo is private and nothing served comes from outside `outputs/`.** The build reads OSINT — that is how data reaches the site (§8) — but it reads committed `outputs/` only, never writes, and nothing else in the vault is published. Access to the full vault, bodies included, is granted individually on request: a named list of researchers who asked and why, which is better grant evidence than a download count.
 - **Corpus is the single site-side repo** *(2026-08-06)*. It manages, prepares and serves the data as well as the site — the CSVs, PDFs and HTML published from `outputs/`, rewritten every time those reports are updated. There is no third repo: OSINT is the store of record and nothing else, Corpus is everything downstream of it.
 - **PDFs are tracked in Corpus** *(2026-08-06)*. This reverses an earlier position and is dealt with in §8.
-- **Every published file carries its build date in the filename**, and earlier editions are retained for re-access. This reverses an earlier position (no retention) and is the right way round: a citation to a dated edition stays checkable. Retain silently, expose only current plus a quiet "earlier editions" affordance — no version picker to maintain.
-- **Everything is open. No account, no registration, no gate on anything** *(Bill, 2026-08-07 — reverses the earlier download wall and the three-field registration)*. Once Corpus both serves the data and is public the wall was a courtesy anyway, and a courtesy that costs every reader a form is a bad trade. There is nothing to log in to and no user record to hold, which also removes a privacy surface a data-governance project would rather not defend.
+- **Every published file carries its build date in the filename**, and earlier editions are retained for re-access. This reverses an earlier position (no retention) and is the right way round: a citation to a dated edition stays checkable. Retain silently, expose only current plus a quiet "earlier editions" affordance — no version picker to maintain. How editions are minted, named and verified is §9.
+- **Everything is open. No account, no registration, no gate on anything** *(Bill, 2026-08-06 — reverses the earlier download wall and the three-field registration)*. Once Corpus both serves the data and is public the wall was a courtesy anyway, and a courtesy that costs every reader a form is a bad trade. There is nothing to log in to and no user record to hold, which also removes a privacy surface a data-governance project would rather not defend.
 - **An API with key control comes later.** Not at launch, but the data shapes should not preclude it.
 
 ## 2. Content at launch
@@ -62,7 +62,7 @@ These are what distinguish the site from every other Africa-digital dashboard. T
 
 **Every figure is one click from its source record.** Already true in the data and true almost nowhere else. Made visible, it answers *where did that number come from* — which is the question the whole project exists to be able to answer.
 
-**Build dates and earlier editions in the open.** Freshness is a fact about the page, stated on the page, in the same idiom as every dated figure in the wiki.
+**Build dates and earlier editions in the open.** Freshness is a fact about the page, stated on the page, in the same idiom as every dated figure in the wiki. §9 makes it checkable as well as stated.
 
 ## 5. Prototypes
 
@@ -75,7 +75,6 @@ The first two live in this repo (Corpus); paths above are relative to it. Moved 
 ## 6. Open
 
 - **Serving shape of the catalogue.** 5.9 MB JSON at 7,770 records; ~23 MB at the 30,000 projected for spring 2027. A single fetch stops being defensible around 15–20k rows. `raw/` is already sharded by year, so sharding the catalogue the same way is nearly free — but the boundary is expensive to move once anything external consumes the file. Decide before launch, not when it breaks.
-- **Whether the status report's re-renders are retained.** §1 settles that every published file carries its build date in the filename and earlier editions are kept. The status report is *live* — `REPORT-UPDATE.md` re-renders it on any night a row moved, and its markdown filename deliberately carries no period. Applying dated retention to it means a new tracked PDF per unit per night its ledger moves, which is the term in §8's volume estimate that could run away. The conservative default, and what to build unless it is overruled: the two dated artefacts (monthly, progress) get retained dated PDFs because those are what a citation points at; the status report is published as one current file, rebuilt in place, carrying its build date on the page rather than in the filename.
 - **The home page.** It has to say what this is, to someone arriving from a link, in about eight seconds, without becoming a dashboard. Hardest page on the site.
 
 ## 7. Preconditions
@@ -150,3 +149,60 @@ The case that prompted this was `outputs/dev/`, holding internal method notes th
 **The build refuses to publish if any staged file carries a source body.** `outputs/` is metadata and compiled prose by construction, so this should never fire — which is precisely why it must be a check that fails the build rather than a comment in a script. A leak into a public repo's history is permanent.
 
 The boundary that matters is bodies, not internal reasoning. This design record and the prototypes sit in the served repo and are therefore public; that is acceptable, and on §3's argument that method is content it is closer to an asset than a cost.
+
+## 9. Editions and verification
+
+*(Settled 2026-08-06. The case: a journalist or academic downloads a report in August, cites a figure from it in November, and is asked to stand it up.)*
+
+**"Verify" is three different questions, and dating a filename answers none of them on its own** — a filename can be typed by anyone.
+
+- **Integrity** — *is this the file you published?*
+- **Currency** — *is what it says still true?*
+- **Provenance** — *where did that figure come from?*
+
+Someone whose reporting has been challenged usually needs all three, so the site owes an answer to each. None is expensive, because the base already holds what they need.
+
+### Integrity — a published manifest
+
+**One CSV at a permanent URL, listing every edition ever published.**
+
+| Column | |
+|---|---|
+| `path` | the file's permanent location |
+| `kind` | `status` · `monthly` · `progress` · `dataset` · `catalogue` |
+| `unit` | ISO3, region or topic slug |
+| `edition` | build date, as in the filename |
+| `osint_commit` | the OSINT SHA the edition was built from |
+| `sha256` | of the file as published |
+| `bytes` | |
+| `superseded_by` | the later edition's `path`, or empty if current |
+
+Verification is then a single instruction anyone can follow: **hash your copy and find it in the manifest.** It works even if the file was renamed, it is machine-readable so the eventual API costs nothing extra, and because the manifest is itself tracked in git it carries its own tamper-evident history.
+
+**`osint_commit` is the column that matters most, and it is nearly free** — the build already records the SHA in `upstream/BUILT-FROM` (§8). Because `upstream/` is committed at every pull, naming the commit takes verification past *"yes, that is our file"* and down to *"and here is the exact state of the base it was derived from"*. Very little published in this field can do that.
+
+### Provenance — URLs are permanent, and never reissued
+
+**`/reports/KEN/KEN-status-2026-08-06.pdf` resolves for ever.** Retention is silent (§1): the reader sees the current edition and a quiet *earlier editions* affordance, not a version picker.
+
+**No undated download URL exists at all.** An undated one invites a citation that changes underneath the person who made it, which is the precise failure this section is here to prevent. Browse the HTML at a stable address; every download hands back a dated file.
+
+This makes catalogue slugs permanent identifiers upstream, since the source links inside a PDF downloaded today must still resolve in 2029. That is a constraint on OSINT rather than on the site, and it is recorded as a standing constraint in `NOTES-FOR-OSINT.md`.
+
+### Currency — every edition says that it is one
+
+**A footer on every page of every PDF: *Edition of 2026-08-06 · current edition at {url}*.** One template line.
+
+Without it the retention policy actively manufactures the risk it exists to remove — a reader who finds a three-year-old status report has no way to know it is not the live one. An old edition that announces itself is an asset; one that does not is a liability.
+
+### How often an edition is minted
+
+**A new edition is cut when the content changes, not when a build runs.** The build hashes the markdown *below the frontmatter* and compares it to the last retained edition; identical means no new edition, only a refreshed *current* pointer.
+
+Hashing below the frontmatter is the whole trick: `compiled:` changes on every render, and so does the PDF's build date, so hashing the rendered file would mint an edition every night for a document that had not moved.
+
+**This resolves what §6 previously held open, and better than the fudge it proposed.** The earlier suggestion was to treat status reports as uncitable, because dating every nightly re-render would have produced thousands of near-identical PDFs a year. With content-change minting the volume tracks real movement instead: a country whose ledger moves twice a year gets two editions, not seven hundred. All three report types are therefore citable, which is the right answer — the status report is the one a reader is most likely to have downloaded.
+
+### Not yet
+
+**DOIs.** Zenodo will mint one per dated edition and it is the academic gold standard, but it adds an external dependency and a deposit step to every publish. The manifest carries most of the credibility without it. Revisit once the site is up.
