@@ -25,8 +25,7 @@ Decisions taken and not to be re-opened without a reason. Each is a decision Bil
 - **Corpus is the single site-side repo** *(2026-08-06)*. It manages, prepares and serves the data as well as the site — the CSVs, PDFs and HTML published from `outputs/`, rewritten every time those reports are updated. There is no third repo: OSINT is the store of record and nothing else, Corpus is everything downstream of it.
 - **PDFs are tracked in Corpus** *(2026-08-06)*. This reverses an earlier position and is dealt with in §8.
 - **Every published file carries its build date in the filename**, and earlier editions are retained for re-access. This reverses an earlier position (no retention) and is the right way round: a citation to a dated edition stays checkable. Retain silently, expose only current plus a quiet "earlier editions" affordance — no version picker to maintain.
-- **All HTML is browsable without an account. All downloads require one.** Now that Corpus both serves the data and is public, the wall is a courtesy — the CSVs and PDFs are one clone away. That is accepted rather than discovered: registration measures interest and gives grant evidence, it was never a control.
-- **Registration takes three fields — name, organisation, email.** Everything else is derived, not asked.
+- **Everything is open. No account, no registration, no gate on anything** *(Bill, 2026-08-07 — reverses the earlier download wall and the three-field registration)*. Once Corpus both serves the data and is public the wall was a courtesy anyway, and a courtesy that costs every reader a form is a bad trade. There is nothing to log in to and no user record to hold, which also removes a privacy surface a data-governance project would rather not defend.
 - **An API with key control comes later.** Not at launch, but the data shapes should not preclude it.
 
 ## 2. Content at launch
@@ -45,11 +44,11 @@ One of the seven does not exist yet: `REPORT-TOPIC.md` is named in `wiki/report-
 
 ## 3. Structure
 
-**Six top-level sections: Countries · Regions · Topics · Catalogue · Data · Method.** Plus account.
+**Six top-level sections: Countries · Regions · Topics · Catalogue · Data · Method.** No seventh — there is no account.
 
 **Lead with place and topic, not document type.** Every artefact on the launch list except the catalogue hangs off a country, a region or a taxonomy slug. Filing by document type — "Reports", "Datasets", "Downloads" — forces a reader to know what they want before they can look, and the audience does not arrive wanting *a progress report*; they arrive working on Algeria, or on data protection.
 
-**The country page is the atomic unit.** Position statement and as-of date; the three reports as dated rows with read (open) and download (gated); the ledger counts including ***Not held***; the finance summary; the source count into a filtered catalogue view. Region and topic pages take the same shape with whatever reports they carry.
+**The country page is the atomic unit.** Position statement and as-of date; the three reports as dated rows, each readable and downloadable without a gate; the ledger counts including ***Not held***; the finance summary; the source count into a filtered catalogue view. Region and topic pages take the same shape with whatever reports they carry.
 
 **`Data` is the tables as tables** — the CSVs for someone who wants the numbers rather than the narrative. It is the same data as the country pages, at a different resolution, and it is the second of the two audiences (policy readers and researchers, weighted equally) getting what they came for without a separate site.
 
