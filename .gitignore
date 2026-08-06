@@ -1,0 +1,4 @@
+# Staging is created outside the repo, but belt and braces.
+.pull-staging/
+__pycache__/
+*.pyc
