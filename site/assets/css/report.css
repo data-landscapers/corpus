@@ -48,6 +48,9 @@
 
 .report-standfirst code { background: rgba(255,255,255,.6); }
 
+/* Print-only, stated once. The screen has the site header for this. */
+.print-masthead, .running-header { display: none; }
+
 /* The status-value key. Reference matter, not prose. */
 .report-key {
   font-size: 0.82rem;
@@ -59,31 +62,61 @@
   margin: 0 0 2.25rem;
 }
 
-/* --- ledger tables ------------------------------------------------------- */
+/* --- tables -------------------------------------------------------------- */
 
-/* The site's .article-body table, with the column proportions a ledger needs
-   and the pagination rules the PDF needs. */
+/* Fixed layout in both media, not just print: without it the declared column
+   widths are advisory and the widest cell wins. */
 .article-body table {
+  table-layout: fixed;
+  width: 100%;
   font-size: 0.82rem;
   line-height: 1.5;
 }
 
 .article-body table thead { display: table-header-group; }
 .article-body table tr    { break-inside: avoid; }
+.article-body table td, .article-body table th { overflow-wrap: break-word; }
 
-.article-body table th:nth-child(1),
-.article-body table td:nth-child(1) { width: 34%; }
-.article-body table th:nth-child(2),
-.article-body table td:nth-child(2) { width: 22%; }
+/* Ledger: instrument | status | as at. */
+table.ledger td:nth-child(1), table.ledger th:nth-child(1) { width: 34%; }
+table.ledger td:nth-child(2), table.ledger th:nth-child(2) { width: 20%; }
+table.ledger td:nth-child(1) { font-weight: 600; }
+table.ledger td:nth-child(3) { color: var(--ink-light); }
 
-.article-body table td:nth-child(1) { font-weight: 600; }
-.article-body table td:nth-child(3) { color: var(--ink-light); }
+/* Gaps: instrument | what would settle it | last probed. The middle column is
+   a paragraph of ordinary prose, so it takes the room and none of the chrome. */
+table.gaps td:nth-child(1), table.gaps th:nth-child(1) { width: 24%; }
+table.gaps td:nth-child(2), table.gaps th:nth-child(2) { width: 62%; }
+table.gaps td:nth-child(3), table.gaps th:nth-child(3) { width: 14%; }
+table.gaps td:nth-child(1) { font-weight: 600; }
+table.gaps td:nth-child(2) { font-family: var(--serif); text-transform: none; letter-spacing: 0; }
+table.gaps td:nth-child(3) { color: var(--ink-faint); font-family: var(--mono); font-size: 0.72rem; }
 
-/* A badge that is also a source link keeps its colour and loses the underline
-   the site gives ordinary links. Every status in the ledger is one click from
-   the record it came from (§4), so nearly all of them are links. */
-a.badge, a.badge:hover { border-bottom: none; text-decoration: none; }
-a.badge:hover { filter: brightness(0.94); }
+/* --- status badges ------------------------------------------------------- */
+
+/* main.css sets .badge to nowrap, which is right for a one-word tag and wrong
+   for "Implemented, expansion in PPP procurement" — it forced the status
+   column as wide as the longest value in the table. */
+.article-body table .badge {
+  white-space: normal;
+  display: inline-block;
+  line-height: 1.35;
+}
+
+/* Nearly every status is also the citation for that status — OSINT attaches
+   the source to the claim, which is the right place for it. But a coloured
+   badge reads as a label, not a link, so the affordance has to be added back
+   explicitly. The arrow is the only cue that survives into print, where there
+   is no hover and no cursor. */
+a.badge { border-bottom: none; text-decoration: none; }
+a.badge::after {
+  content: " \2197";
+  font-size: 0.9em;
+  opacity: 0.75;
+  margin-left: 0.15em;
+}
+a.badge:hover { filter: brightness(0.93); border-bottom: none; }
+a.badge:hover::after { opacity: 1; }
 
 .badge--red { font-weight: 700; }   /* Not held is meant to be seen */
 
@@ -188,9 +221,6 @@ a.badge:hover { filter: brightness(0.94); }
 
   /* Fixed layout makes the declared column percentages binding, so long cell
      text wraps instead of widening the table. */
-  .article-body table { table-layout: fixed; width: 100%; }
-  .article-body table td, .article-body table th { overflow-wrap: break-word; }
-
   h1, h2, h3, h4, .site-logo, .article-list__title, .cv-job__title {
     font-family: "Lato", sans-serif;   /* Trebuchet MS cannot be embedded */
     font-weight: 700;
@@ -200,12 +230,12 @@ a.badge:hover { filter: brightness(0.94); }
      report grows its own, shown once. */
   .print-masthead { display: flex !important; align-items: center; gap: 0.7rem;
     padding-bottom: 0.9rem; border-bottom: 1px solid var(--rule); margin-bottom: 1.5rem; }
-  .print-masthead img { width: 44px; height: 44px; }
-  .print-masthead .wordmark { font-family: "Lato", sans-serif; font-weight: 700; font-size: 0.95rem; }
-  .print-masthead .tagline { font-family: "Lato", sans-serif; font-weight: 300; font-size: 0.7rem;
+  .print-masthead img { width: 40px; height: 40px; }
+  .print-masthead .tagline { font-family: "Lato", sans-serif; font-weight: 300; font-size: 0.72rem;
     color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; }
 
   .running-header {
+    display: block;
     position: running(runningHeader);
     font-family: "JetBrains Mono", monospace;
     font-size: 6.5pt;
@@ -233,6 +263,3 @@ a.badge:hover { filter: brightness(0.94); }
   .report-colophon { break-before: page; }
 }
 
-@media screen {
-  .print-masthead, .running-header { display: none; }
-}

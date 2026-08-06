@@ -100,7 +100,30 @@ def badge_class(text: str) -> str:
     return "badge--grey"
 
 
-def badge_statuses(html: str) -> str:
+def style_tables(html: str) -> str:
+    """Classify each table and badge only the ones that carry statuses.
+
+    A report holds two shapes of table. The ledgers are
+    `System or instrument | Status | As at`; the gaps table is
+    `System or instrument | What would settle it | Last probed`, whose second
+    column is prose. Badging by column position alone put status chrome on
+    paragraphs of explanation, so the header row decides instead.
+    """
+    def do_table(m: re.Match) -> str:
+        table = m.group(0)
+        headers = [
+            re.sub(r"<[^>]+>", "", h).strip().lower()
+            for h in re.findall(r"<th[^>]*>.*?</th>", table, re.S)
+        ]
+        is_ledger = len(headers) > 1 and headers[1].startswith("status")
+        cls = "ledger" if is_ledger else "gaps"
+        table = table.replace("<table>", f'<table class="{cls}">', 1)
+        return badge_rows(table) if is_ledger else table
+
+    return re.sub(r"<table>.*?</table>", do_table, html, flags=re.S)
+
+
+def badge_rows(table: str) -> str:
     """Turn the Status column into the site's badge component.
 
     The cell is normally a source link, so the badge is applied *to* the link
@@ -116,12 +139,12 @@ def badge_statuses(html: str) -> str:
         inner = re.sub(r"^<td[^>]*>|</td>$", "", status, flags=re.S).strip()
         cls = badge_class(inner)
         if inner.startswith("<a "):
-            new = re.sub(r'^<a ', f'<a class="badge {cls}" ', inner, count=1)
+            new = re.sub(r"^<a ", f'<a class="badge {cls}" ', inner, count=1)
         else:
             new = f'<span class="badge {cls}">{inner}</span>'
         return row.replace(status, f"<td>{new}</td>", 1)
 
-    return re.sub(r"<tr>\s*<td.*?</tr>", do_row, html, flags=re.S)
+    return re.sub(r"<tr>\s*<td.*?</tr>", do_row, table, flags=re.S)
 
 
 def strip_leading_h1(html: str) -> tuple[str, str]:
@@ -202,12 +225,9 @@ TEMPLATE = """<!DOCTYPE html>
   <article>
     <div class="container">
 
-      <div class="print-masthead" style="display:none">
-        <img src="{logo}" alt="">
-        <div>
-          <div class="wordmark">Data Landscapers</div>
-          <div class="tagline">Mapping Africa&rsquo;s data landscape</div>
-        </div>
+      <div class="print-masthead">
+        <img src="{logo}" alt="Data Landscapers">
+        <div class="tagline">Mapping Africa&rsquo;s data landscape</div>
       </div>
 
       <header class="article-header">
@@ -287,7 +307,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
     h1, html_body = strip_leading_h1(html_body)
     html_body = promote_standfirst(html_body)
     html_body = promote_key(html_body)
-    html_body = badge_statuses(html_body)
+    html_body = style_tables(html_body)
 
     title = meta.get("title") or h1 or md_path.stem
     stem = f"{md_path.stem}-{edition}"
