@@ -118,9 +118,29 @@ def style_tables(html: str) -> str:
         is_ledger = len(headers) > 1 and headers[1].startswith("status")
         cls = "ledger" if is_ledger else "gaps"
         table = table.replace("<table>", f'<table class="{cls}">', 1)
-        return badge_rows(table) if is_ledger else table
+        if not is_ledger:
+            return table
+        table = label_status_header(table)
+        return badge_rows(table)
 
     return re.sub(r"<table>.*?</table>", do_table, html, flags=re.S)
+
+
+def label_status_header(table: str) -> str:
+    """Name the affordance in the column header.
+
+    Every status that the base can cite is a link to the record behind it, but
+    a coloured badge reads as a label. The arrow marks *which* rows have a
+    source — a Not held row has none — and the header says what the arrow is.
+    """
+    ths = re.findall(r"<th[^>]*>.*?</th>", table, re.S)
+    if len(ths) < 2:
+        return table
+    return table.replace(
+        ths[1],
+        '<th>Status <span class="th-note">&#8599; source</span></th>',
+        1,
+    )
 
 
 def badge_rows(table: str) -> str:
@@ -219,7 +239,7 @@ TEMPLATE = """<!DOCTYPE html>
     </div>
   </header>
 
-  <div class="running-header">Data Landscapers &nbsp;·&nbsp; {short_title} &nbsp;·&nbsp; edition of {edition}</div>
+  <div class="running-header">{current_url}</div>
 
   <main id="main">
   <article>
@@ -233,10 +253,7 @@ TEMPLATE = """<!DOCTYPE html>
       <header class="article-header">
         <div class="article-header__kicker">{kind_label}</div>
         <h1 class="article-header__title">{h1}</h1>
-        <p class="article-header__subtitle">{subtitle}</p>
-        <div class="article-header__byline">
-          Edition of {edition} &nbsp;·&nbsp; derived from source base {commit}
-        </div>
+        <div class="article-header__byline" data-edition="{edition}">Edition of {edition} &nbsp;·&nbsp; {subtitle}</div>
         <div class="screen-only" style="margin-top:1rem;">
           <a href="{permalink_pdf}" class="btn btn--accent" style="font-size:0.8rem;">&darr; Download PDF</a>
         </div>
@@ -316,7 +333,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
     rows, not_held = meta.get("ledger_rows", ""), meta.get("not_held", "")
     subtitle = (
         f"{rows} systems and instruments tracked, {not_held} of them not held"
-        if rows and not_held else "Compiled from the Data Landscapers source base"
+        if rows and not_held else "compiled from the Data Landscapers source base"
     )
 
     css_dir = SITE / "assets" / "css"
