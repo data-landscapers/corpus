@@ -67,11 +67,11 @@ These are what distinguish the site from every other Africa-digital dashboard. T
 
 ## 5. Prototypes
 
-- `catalogue-prototype.html` — working browse-and-filter over all 7,770 real catalogue records. Facet counts recompute against the *other* active filters so a reader never clicks into an empty result; type-ahead inside the long lists (62 places, 38 topics); filter state in the URL hash so a filtered view is citable. Double-click to open; no server.
-- `build-catalogue-data.py` — regenerates the prototype's data file (`catalogue-data.js`). Bespoke scaffolding; delete all three when the real build lands.
+- `prototypes/catalogue-prototype.html` — working browse-and-filter over all 7,770 real catalogue records. Facet counts recompute against the *other* active filters so a reader never clicks into an empty result; type-ahead inside the long lists (62 places, 38 topics); filter state in the URL hash so a filtered view is citable. Double-click to open; no server.
+- `prototypes/build-catalogue-data.py` — regenerates the prototype's data file (`prototypes/catalogue-data.js`). Bespoke scaffolding; delete all three when the real build lands.
 - `prototypes/record-viewer.html`, in the OSINT repo — the earlier record-rendering prototype. Its palette is the working basis for the site's.
 
-The first two live in this repo (Corpus) alongside this file; paths above are relative to it. They move to `prototypes/` when the layout in §8 is created, and are deleted when the real build lands.
+The first two live in this repo (Corpus); paths above are relative to it. Moved into `prototypes/` on 2026-08-06 when the §8 layout was created; deleted when the real build lands.
 
 ## 6. Open
 

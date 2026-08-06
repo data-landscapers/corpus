@@ -18,6 +18,12 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 Reading is unrestricted: read any file, grep the whole tree, run read-only git commands, derive whatever the site needs.
 
+## Committing
+
+**Commit after every change, not at the end of a session** *(Bill, 2026-08-06)*. One commit per coherent change, with a terse subject saying what changed. An uncommitted working tree is the one state that is not reversible, and a session that batches its commits leaves everything since the last one at risk together.
+
+**Deletes on this folder need permission once per session.** The sandbox blocks `unlink` on the Dropbox mount by default, which does not stop a commit but leaves `.git/HEAD.lock` behind — and that stale lock makes *every subsequent* commit fail with `cannot lock ref 'HEAD'`. Call `allow_cowork_file_delete` on any path in Corpus at the start of a session and git behaves normally thereafter. If commits start failing mid-session, look for stale `.lock` and `tmp_obj_*` files under `.git/` first.
+
 ## Writing
 
 **One line per paragraph. Never wrap by hand.** Same rule as the wiki, and for the same reason: a hard-wrapped paragraph diffs badly, because changing one word near the start reflows every line after it and the diff shows a rewritten paragraph instead of a changed word. It does not apply where the break carries meaning — frontmatter, code blocks, tables.
