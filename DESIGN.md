@@ -102,6 +102,8 @@ A third shape — OSINT rendering HTML and PDF and writing them into Corpus — 
 
 **The trigger is a commit, not a clock.** Reading committed state rather than the working tree is what makes this safe against a run in progress: a clock-triggered read of `outputs/` can catch a night mid-write, whereas a half-finished night is simply not yet committed. `git diff --name-only {last-built}..HEAD -- outputs/` is the changed set, and it is cheaper than the bookkeeping a push model would have to carry. Both repos are on the same machine, so the read costs nothing.
 
+**The build assumes nothing about how often OSINT commits, and that is deliberate.** `SWEEP-CYCLE` is started by hand, normally overnight, and is not yet on a schedule because whether Exa functions unattended is unestablished *(Bill, 2026-08-06)*. A session may also be run during the day to force an update on a live issue. A commit trigger absorbs all three cadences identically — a clock trigger would have to be tuned to one of them, and would either miss the daytime run or poll for it. If the sweep is ever scheduled, nothing here changes.
+
 **The build records the SHA it built from** in `upstream/BUILT-FROM`, which doubles as the citation anchor: every page can state which state of the base it was derived from. It is idempotent and reversible, like every other pass. Where the pulled copy lives, and why it is tracked rather than fetched, is the next subsection.
 
 ### Rendering
@@ -200,6 +202,10 @@ Without it the retention policy actively manufactures the risk it exists to remo
 **A new edition is cut when the content changes, not when a build runs.** The build hashes the markdown *below the frontmatter* and compares it to the last retained edition; identical means no new edition, only a refreshed *current* pointer.
 
 Hashing below the frontmatter is the whole trick: `compiled:` changes on every render, and so does the PDF's build date, so hashing the rendered file would mint an edition every night for a document that had not moved.
+
+**Two editions can share a date, so the name has to survive it.** `SWEEP-CYCLE` is normally run overnight, but a session may be run during the day to force an update on a live issue *(Bill, 2026-08-06)* — so a same-date second edition is a normal occurrence, not an edge case. The first edition of a day is unsuffixed and the second takes `-2`: `KEN-status-2026-08-06.pdf`, then `KEN-status-2026-08-06-2.pdf`.
+
+**The first edition is never renamed when a second appears.** Retrospectively making it `-1` for symmetry would break every URL already handed out, which is the one thing this section exists to prevent. Asymmetry in the filenames is the price of permanence, and it is worth paying — most days have one edition, so most names stay clean.
 
 **This resolves what §6 previously held open, and better than the fudge it proposed.** The earlier suggestion was to treat status reports as uncitable, because dating every nightly re-render would have produced thousands of near-identical PDFs a year. With content-change minting the volume tracks real movement instead: a country whose ledger moves twice a year gets two editions, not seven hundred. All three report types are therefore citable, which is the right answer — the status report is the one a reader is most likely to have downloaded.
 
