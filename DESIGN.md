@@ -121,7 +121,7 @@ The cost is real and it compounds, because git does not forget a binary. At full
 ```
 upstream/          pulled from OSINT outputs/, 1:1 — never hand-edited
   BUILT-FROM       the OSINT SHA this copy was taken from
-  budgets/ catalogue/ country-narratives/ dev/ non-state-finance/ reports/
+  budgets/ catalogue/ non-state-finance/ reports/
 build/             the pull, the renderer, the templates — the only authored code
 site/              rendered artefacts: what is served
 prototypes/        disposable scaffolding (§5)
@@ -142,7 +142,9 @@ DESIGN.md · NOTES-FOR-OSINT.md · CLAUDE.md
 
 The cost is 16 MB of duplication — the same files existing in both repos — against the ~400 MB a year of PDFs already accepted above.
 
-**Pull exhaustively; publish selectively.** The pull takes the whole tree with no per-directory logic, so new upstream material can never be missed. The build renders only what it has a renderer for, so that material appears in the repo but is not served until someone writes one. `outputs/dev/report-drafting-method-notes.md` is the live case — internal method notes that should be pulled and not published. The two rules together fail closed, which is the right direction for a public site.
+**Pull exhaustively; publish selectively.** The pull takes the whole tree with no per-directory logic, so new upstream material can never be missed. The build renders only what it has a renderer for, so that material appears in the repo but is not served until someone writes one. The two rules together fail closed, which is the right direction for a public site.
+
+The case that prompted this was `outputs/dev/`, holding internal method notes that should be pulled and not published. Bill removed `dev/` and the empty `country-narratives/` from `outputs/` on 2026-08-06 and moved the notes to `documentation/`, so the example is gone — but the rule stands, because the next directory nobody thought about is the one it exists for. **A directory in `outputs/` is not a decision to publish it**; publication is a renderer, written deliberately.
 
 ### The leak gate
 
