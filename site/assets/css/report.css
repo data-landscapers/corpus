@@ -1,0 +1,238 @@
+/* report.css — the report layer, on top of the site's own main.css.
+ *
+ * This file adds only what a report needs and that the site does not already
+ * have. Everything else — palette, type scale, links, tables, badges, header,
+ * footer — comes from `main.css`, vendored from the website repo (§1: same
+ * family, not a separate identity). An earlier version of this file invented
+ * its own palette and typography, which is precisely the separate identity
+ * that decision forbids.
+ *
+ * One stylesheet, two outputs: the @page and @media print blocks at the foot
+ * turn the same document into the PDF (DESIGN.md §8).
+ */
+
+/* --- fonts, vendored for the PDF ----------------------------------------- *
+ * main.css pulls Lato and JetBrains Mono from Google Fonts, which is right for
+ * the browser and useless for WeasyPrint. Declaring them locally means the PDF
+ * embeds the same faces the page shows, and — the part that matters — that two
+ * builds of one edition are byte-comparable rather than dependent on whatever
+ * fonts the build machine happens to carry (§9).
+ *
+ * Trebuchet MS is the site's display face and is proprietary, so it cannot be
+ * embedded. In print, headings fall to Lato 700. That divergence is deliberate
+ * and is the only one.
+ */
+
+@font-face { font-family: "Lato"; src: url("../../../build/assets/fonts/lato-latin-300-normal.woff2") format("woff2"); font-weight: 300; font-style: normal; }
+@font-face { font-family: "Lato"; src: url("../../../build/assets/fonts/lato-latin-300-italic.woff2") format("woff2"); font-weight: 300; font-style: italic; }
+@font-face { font-family: "Lato"; src: url("../../../build/assets/fonts/lato-latin-400-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "Lato"; src: url("../../../build/assets/fonts/lato-latin-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; }
+@font-face { font-family: "Lato"; src: url("../../../build/assets/fonts/lato-latin-700-normal.woff2") format("woff2"); font-weight: 700; font-style: normal; }
+@font-face { font-family: "JetBrains Mono"; src: url("../../../build/assets/fonts/jetbrains-mono-latin-400-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "JetBrains Mono"; src: url("../../../build/assets/fonts/jetbrains-mono-latin-500-normal.woff2") format("woff2"); font-weight: 500; font-style: normal; }
+
+/* --- report header ------------------------------------------------------- */
+
+/* The standfirst: the *Compiled …* paragraph every report opens with. Same
+   treatment as the site's article subtitle, given a tint so it reads as
+   apparatus rather than argument. */
+.report-standfirst {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--ink-light);
+  background: var(--paper-warm);
+  border-left: 3px solid var(--accent);
+  padding: 1rem 1.25rem;
+  margin: 0 0 1.75rem;
+}
+
+.report-standfirst code { background: rgba(255,255,255,.6); }
+
+/* The status-value key. Reference matter, not prose. */
+.report-key {
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--ink-light);
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  padding: 0.9rem 0;
+  margin: 0 0 2.25rem;
+}
+
+/* --- ledger tables ------------------------------------------------------- */
+
+/* The site's .article-body table, with the column proportions a ledger needs
+   and the pagination rules the PDF needs. */
+.article-body table {
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.article-body table thead { display: table-header-group; }
+.article-body table tr    { break-inside: avoid; }
+
+.article-body table th:nth-child(1),
+.article-body table td:nth-child(1) { width: 34%; }
+.article-body table th:nth-child(2),
+.article-body table td:nth-child(2) { width: 22%; }
+
+.article-body table td:nth-child(1) { font-weight: 600; }
+.article-body table td:nth-child(3) { color: var(--ink-light); }
+
+/* A badge that is also a source link keeps its colour and loses the underline
+   the site gives ordinary links. Every status in the ledger is one click from
+   the record it came from (§4), so nearly all of them are links. */
+a.badge, a.badge:hover { border-bottom: none; text-decoration: none; }
+a.badge:hover { filter: brightness(0.94); }
+
+.badge--red { font-weight: 700; }   /* Not held is meant to be seen */
+
+/* --- colophon ------------------------------------------------------------ */
+
+.report-colophon {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--ink-light);
+}
+
+.report-colophon__label {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+.report-colophon dl {
+  display: grid;
+  grid-template-columns: 10rem 1fr;
+  gap: 0.35rem 1rem;
+  margin: 0 0 1.25rem;
+}
+
+.report-colophon dt {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  padding-top: 0.15rem;
+}
+
+.report-colophon dd { margin: 0; word-break: break-word; }
+.report-colophon dd.edition { color: var(--accent); font-weight: 700; }
+.report-colophon p { font-size: 0.8rem; margin-bottom: 0.75rem; }
+
+@media (max-width: 640px) {
+  .report-colophon dl { grid-template-columns: 1fr; gap: 0 0; }
+  .report-colophon dd { margin-bottom: 0.6rem; }
+}
+
+/* --- print --------------------------------------------------------------- */
+
+@page {
+  size: A4;
+  margin: 18mm 16mm 18mm;
+
+  @top-left { content: element(runningHeader); }
+
+  @bottom-left {
+    content: string(doc-title);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 6.5pt;
+    color: #8a8a80;
+    padding-top: 3mm;
+    border-top: 0.4pt solid #d8d5cc;
+    width: 100%;
+    vertical-align: top;
+  }
+
+  @bottom-right {
+    content: counter(page) " / " counter(pages);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 6.5pt;
+    color: #8a8a80;
+    padding-top: 3mm;
+    border-top: 0.4pt solid #d8d5cc;
+    vertical-align: top;
+    white-space: pre;
+    width: 24mm;
+    text-align: right;
+  }
+}
+
+/* Page one carries the full masthead, so it needs no running header. */
+@page :first { @top-left { content: none; } }
+
+@media print {
+  html { font-size: 10pt; }
+
+  body { background: #fff; }
+
+  .site-header, .site-footer, .screen-only { display: none; }
+
+  /* main.css makes .site-wrap a flex column to pin the footer to the bottom of
+     the viewport — a screen concern with no meaning on paper. Left in place it
+     does real damage: `main` becomes a flex item, flex items refuse to shrink
+     below their min-content width, and the widest ledger table therefore sets
+     the width of the whole document. That is how a 673px page came to hold a
+     2,684px body. */
+  .site-wrap { display: block; }
+  main { min-width: 0; }
+
+  .container, .article-body { max-width: none; padding: 0; }
+
+  /* Fixed layout makes the declared column percentages binding, so long cell
+     text wraps instead of widening the table. */
+  .article-body table { table-layout: fixed; width: 100%; }
+  .article-body table td, .article-body table th { overflow-wrap: break-word; }
+
+  h1, h2, h3, h4, .site-logo, .article-list__title, .cv-job__title {
+    font-family: "Lato", sans-serif;   /* Trebuchet MS cannot be embedded */
+    font-weight: 700;
+  }
+
+  /* The print masthead — the site header does not survive pagination, so the
+     report grows its own, shown once. */
+  .print-masthead { display: flex !important; align-items: center; gap: 0.7rem;
+    padding-bottom: 0.9rem; border-bottom: 1px solid var(--rule); margin-bottom: 1.5rem; }
+  .print-masthead img { width: 44px; height: 44px; }
+  .print-masthead .wordmark { font-family: "Lato", sans-serif; font-weight: 700; font-size: 0.95rem; }
+  .print-masthead .tagline { font-family: "Lato", sans-serif; font-weight: 300; font-size: 0.7rem;
+    color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; }
+
+  .running-header {
+    position: running(runningHeader);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 6.5pt;
+    color: #8a8a80;
+    width: 100%;
+    padding-bottom: 2.5mm;
+    border-bottom: 0.4pt solid #d8d5cc;
+  }
+
+  .article-header { padding-top: 0; }
+  .article-header__title { font-size: 19pt; string-set: doc-title content(); }
+
+  h2 { font-size: 12pt; margin-top: 7mm; break-after: avoid; }
+  h3 { break-after: avoid; }
+  p  { orphans: 3; widows: 3; }
+
+  .article-body table { font-size: 7.4pt; break-inside: auto; }
+  .article-body table th { font-size: 6.4pt; }
+  .article-body table th, .article-body table td { padding: 0.28rem 0.45rem; }
+
+  .badge { font-size: 6pt; padding: 0.1rem 0.3rem; }
+
+  a { color: var(--link); border-bottom: none; }
+
+  .report-colophon { break-before: page; }
+}
+
+@media screen {
+  .print-masthead, .running-header { display: none; }
+}
