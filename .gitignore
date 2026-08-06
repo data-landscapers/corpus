@@ -1,3 +1,7 @@
+# Editor and tool state — local to a machine, never part of the site.
+.obsidian/
+.claude/
+
 # Staging is created outside the repo, but belt and braces.
 .pull-staging/
 __pycache__/
