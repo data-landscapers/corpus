@@ -1,0 +1,11 @@
+﻿origin,unit,subject_slug,subject,2015/16,2016/17,2017/18,2018/19,2019/20,2020/21,2021/22,2022/23,2024/25,2025/26,2026/27,excluded_lines,excluded_usd_m
+non-state,US$m,infra.connect,Connectivity,,28,72,,64,112,,1,70,,,,
+non-state,US$m,gov.policy,"Strategies, plans and policies",,,,,,,14,,80,,,,
+non-state,US$m,digital.localgov,Digitalisation of sub-national government,,,,,,,,,,,80,,
+non-state,US$m,dpi.govtech,Other GovTech and e-Gov,,,,,,,,30,,,,,
+non-state,US$m,dpi.pay,Digital Payments and Fintech,4,,,,,,,21,,,,,
+non-state,US$m,tech.innovate,Innovation ecosystem,,,,,15,,,,,0,,,
+non-state,US$m,data.statistics,National statistics,,,,6,,,,,,,,,
+non-state,US$m,dpi.id,Digital Identity and CRVS,,,,,,,,,6,,,,
+non-state,US$m,include.access,Access to services,,,,,,,,,2,,,,
+non-state,US$m,tech.industry,ICT Industry,,,,,2,,,,,,,,

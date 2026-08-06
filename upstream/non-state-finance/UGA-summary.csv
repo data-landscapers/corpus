@@ -1,0 +1,10 @@
+﻿origin,unit,subject_slug,subject,2015/16,2017/18,2019/20,2020/21,2021/22,2022/23,2023/24,2024/25,2025/26,excluded_lines,excluded_usd_m
+non-state,US$m,infra.connect,Connectivity,17,,,,200,,163,12,,,
+non-state,US$m,capacity.training,Training and skills,,,,200,,,,,,,
+non-state,US$m,dpi.pay,Digital Payments and Fintech,,,,,4,69,,,,,
+non-state,US$m,dpi.govtech,Other GovTech and e-Gov,,34,,,,,,,,,
+non-state,US$m,dpi.mis,"Sectoral management information systems (HMIS, EMIS, etc.)",,,,,,14,,14,,,
+non-state,US$m,include.access,Access to services,,,15,,,,,,,,
+non-state,US$m,tech.innovate,Innovation ecosystem,,,,,,,,,12,,
+non-state,US$m,include.divides,Digital divides,,,,,3,,,,,,
+non-state,US$m,gov.policy,"Strategies, plans and policies",,,,,2,,,,,,

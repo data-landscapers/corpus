@@ -1,0 +1,11 @@
+﻿origin,unit,subject_slug,subject,2016/17,2017/18,2021/22,2022/23,2023/24,2024/25,2025,2025/26,2026,excluded_lines,excluded_usd_m
+non-state,US$m,infra.connect,Connectivity,66,,,,249,300,,10,,,
+non-state,US$m,dpi.registry,"Registries (population, land, address, etc.)",,,,,250,,,,,,
+non-state,US$m,data.satellite,Use of satellite data,,,,,,,,243,,,
+non-state,US$m,dpi.id,Digital Identity and CRVS,,243,,,,,,,,,
+non-state,US$m,infra.cybersec,Cybersecurity,,,,,,,,170,,,
+non-state,US$m,tech.industry,ICT Industry,,,80,,,,,,,,
+non-state,US$m,gov.policy,"Strategies, plans and policies",,,,60,,,,,,,
+domestic-state,US$m (IMF annual avg),infra.connect,Connectivity,,,,,,,251,,173,,
+excluded,,nobase,no enacted baseline (⚠ no appropriated figure — revised/outturn only),,,,,,,,,,8,
+excluded,,nofx,no FX rate held for the currency,,,,,,,,,,1,

@@ -1,0 +1,14 @@
+﻿origin,unit,subject_slug,subject,2015/16,2018/19,2019/20,2020/21,2021/22,2022/23,2023/24,2025/26,2026,2026/27,excluded_lines,excluded_usd_m
+non-state,US$m,infra.connect,Connectivity,68,,,179,,200,,,,1100,,
+non-state,US$m,dpi.pay,Digital Payments and Fintech,,124,,,,221,4,,,,,
+non-state,US$m,capacity.training,Training and skills,,,,290,,,,,,,,
+non-state,US$m,dpi.govtech,Other GovTech and e-Gov,,,224,,1,,,,,,,
+non-state,US$m,tech.industry,ICT Industry,,,,,100,9,14,,,,,
+non-state,US$m,infra.store,Data Storage,,,,,,,50,,,,,
+non-state,US$m,tech.ai,AI,,,,,,,,37,,,,
+non-state,US$m,tech.innovate,Innovation ecosystem,9,,,,3,,,,,,,
+non-state,US$m,dpi.id,Digital Identity and CRVS,5,,,,,,,,,,,
+domestic-state,US$m (IMF annual avg),infra.connect,Connectivity,,,,,,,,,44,,,
+domestic-state,US$m (IMF annual avg),capacity.training,Training and skills,,,,,,,,,7,,,
+domestic-state,US$m (IMF annual avg),data.open,Open data,,,,,,,,,2,,,
+excluded,,scope,partial- or unclear-scope,,,,,,,,,,,3,13

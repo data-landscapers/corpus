@@ -1,0 +1,12 @@
+﻿fy,admin_head_code,admin_head,spending_entity_code,spending_entity,programme_code,programme,sub_programme_code,sub_programme,econ_class,appropriated,revised,actual,audited,exec_vs_voted,exec_vs_revised,baseline_stage,current_stage,scope_confidence,is_transfer,currency,record,programme_line
+2025,,,,Ministério da Justiça e dos Direitos Humanos (Unidade Orçamental),,,,,,,218500000,,,,,revised,revised,whole,false,USD,2025-09-19-ago-2025-minjusdh-bilhete-identidade,Ministério da Justiça e dos Direitos Humanos
+2025,,,,"Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS)",,,,,,229300000000,,,,,,appropriated,appropriated,whole,false,AOA,2025-01-01-ago-2025-minttics-expansao-modernizacao-comunicacoes,Expansão e Modernização das Comunicações\
+2026,,,,,,,,,,,,,,,,unclear,unclear,whole,false,EUR,2026-06-08-ago-2026-agt-fatca-software,ago-2026-agt-fatca-software
+2026,,,,,,,,,,,,,,,,proposed,proposed,partial,false,AOA,2026-01-01-ago-2026-capacitacao-modernizacao-administracao-publica,Capacitação e Modernização da Administração Pública\
+2026,,,,Instituto de Modernização Administrativa (IMA),,,,,,150000000,,,,,,appropriated,appropriated,whole,false,USD,2026-06-17-ago-2026-ima-infra-estruturas-digitais-publicas,Instituto de Modernização Administrativa
+2026,,,,Instituto de Modernização Administrativa (IMA),,,,,,,,,,,,unclear,unclear,whole,false,AOA,2026-01-13-ago-2026-ima-licencas-microsoft,Instituto de Modernização Administrativa
+2026,,,,,,,,,,,275000000,,,,,revised,revised,whole,false,USD,2026-02-26-ago-2026-mat-bdcm-prova-de-vida,ago-2026-mat-bdcm-prova-de-vida
+2026,,,,,,,,,,,,,,,,unclear,unclear,whole,false,AOA,2026-02-17-ago-2026-mindcom-requalificacao-rede-informatica,ago-2026-mindcom-requalificacao-rede-informatica
+2026,,,,Ministério das Finanças,,,,,,,,,,,,unclear,unclear,whole,false,AOA,2026-01-07-ago-2026-minfin-telecomunicacoes-hospedagem,Ministério das Finanças
+2026,,,,"Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS)",,,,,,159200000000,,,,,,appropriated,appropriated,whole,false,AOA,2026-01-01-ago-2026-minttics-expansao-modernizacao-comunicacoes,Expansão e Modernização das Comunicações\
+2026,,,,Ministério da Justiça e dos Direitos Humanos (implied by the programme's subject; not named in the source),,,,,,,,,,,,proposed,proposed,partial,false,AOA,2026-01-01-ago-2026-reforma-modernizacao-administracao-justica,Reforma e Modernização da Administração da Justiça\

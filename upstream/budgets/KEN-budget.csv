@@ -1,0 +1,18 @@
+﻿fy,admin_head_code,admin_head,spending_entity_code,spending_entity,programme_code,programme,sub_programme_code,sub_programme,econ_class,appropriated,revised,actual,audited,exec_vs_voted,exec_vs_revised,baseline_stage,current_stage,scope_confidence,is_transfer,currency,record,programme_line
+2024/25,,,,,,0605000 Migration & Citizen Services,,,,6969014189,,,,,,appropriated,unclear,whole,false,KES,2024-06-01-ken-2024-immigration-migration-citizen-services,0605000 Migration & Citizen Services
+2024/25,,,,,,0626000 Population Management Services,,,,6836307352,,,,,,appropriated,unclear,whole,false,KES,2024-06-01-ken-2024-immigration-population-management,0626000 Population Management Services
+2024/25,1024,,,,,,,,,,2607650722,,,,,revised,revised,whole,false,KES,2025-06-01-ken-2024-vote1024-ecitizen-services,ken-2024-vote1024-ecitizen-services
+2024/25,1071,,,,,,,,,,2270000000,,,,,revised,revised,whole,false,KES,2024-08-01-ken-2024-vote1071-egp-eprocurement,ken-2024-vote1071-egp-eprocurement
+2024/25,1071,,,,,,,,,,0,,,,,revised,revised,whole,false,KES,2024-08-01-ken-2024-vote1071-kra-erp-crm-zeroed,ken-2024-vote1071-kra-erp-crm-zeroed
+2024/25,1122,,,,,0217000 E-Government Services,,,,4687513408,,2408260000,,51.4,51.4,appropriated,actual,whole,false,KES,2024-06-01-ken-2024-vote1122-egovernment,0217000 E-Government Services
+2024/25,1122,,,,,,,,,7823545150,,,,,,appropriated,appropriated,whole,false,KES,2024-06-01-ken-2024-vote1122-ict-bpo,ken-2024-vote1122-ict-bpo
+2024/25,1122,,,,,0210000 ICT Infrastructure Development,,,,9564900000,,6182420000,,64.6,64.6,appropriated,actual,whole,false,KES,2024-06-01-ken-2024-vote1122-ict-connectivity,0210000 ICT Infrastructure Development
+2025/26,1024,,,,,,,,,3897457065,,,,,,appropriated,appropriated,whole,false,KES,2025-06-01-ken-2025-vote1024-ecitizen,ken-2025-vote1024-ecitizen
+2025/26,1024,,,,,,,,,,8668760147,,,,,revised,revised,whole,false,KES,2026-04-01-ken-2025-vote1024-identity-lines-revised-supp-i,ken-2025-vote1024-identity-lines-revised-supp-i
+2025/26,1024,,,,,0626000 Population Management Services,,,,8085560928,,,,,,appropriated,appropriated,whole,false,KES,2025-06-01-ken-2025-vote1024-population-management,0626000 Population Management Services
+2025/26,1122,,,,,,,,,16188789796,,,,,,appropriated,appropriated,whole,false,KES,2025-06-01-ken-2025-vote1122,ken-2025-vote1122
+2025/26,1122,,,,,,,,,,12215127932,,,,,revised,revised,whole,false,KES,2026-04-01-ken-2025-vote1122-revised-supp-i,ken-2025-vote1122-revised-supp-i
+2026/27,1024,,,,,,,,,3612630188,,,,,,appropriated,appropriated,whole,false,KES,2026-06-01-ken-2026-vote1024-ecitizen,ken-2026-vote1024-ecitizen
+2026/27,1024,,,,,0626000 Population Management Services,,,,10992970698,,,,,,appropriated,appropriated,whole,false,KES,2026-06-01-ken-2026-vote1024-population-management,0626000 Population Management Services
+2026/27,1122,,,,,,,,,12763784217,,,,,,appropriated,appropriated,whole,false,KES,2026-06-01-ken-2026-vote1122,ken-2026-vote1122
+2026/27,1122,,,,,,,,,917270000,,,,,,appropriated,appropriated,whole,false,KES,2026-06-01-ken-2026-vote1122-data-protection-services,ken-2026-vote1122-data-protection-services

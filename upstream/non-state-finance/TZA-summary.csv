@@ -1,0 +1,13 @@
+﻿origin,unit,subject_slug,subject,2015/16,2017/18,2018/19,2021/22,2022/23,2023/24,2024/25,2025/26,2026/27,excluded_lines,excluded_usd_m
+non-state,US$m,infra.connect,Connectivity,,,,164,100,16,22,,114,,
+non-state,US$m,dpi.pay,Digital Payments and Fintech,,,10,,,1,11,43,53,,
+non-state,US$m,dpi.id,Digital Identity and CRVS,24,,,70,,,,,,,
+non-state,US$m,data.satellite,Use of satellite data,,,,65,,,,,,,
+non-state,US$m,infra.store,Data Storage,,,,,,,,50,,,
+non-state,US$m,tech.innovate,Innovation ecosystem,,12,,9,8,9,,,,,
+non-state,US$m,gov.policy,"Strategies, plans and policies",,,,13,,,,,,,
+non-state,US$m,capacity.literacy,Literacy,,,,,10,,,,,,
+non-state,US$m,include.access,Access to services,,,,,2,,3,,,,
+non-state,US$m,tech.industry,ICT Industry,4,,,,,,,,,,
+non-state,US$m,include.divides,Digital divides,,,,,,,3,,,,
+non-state,US$m,infra.cybersec,Cybersecurity,,,,2,,,,,,,
