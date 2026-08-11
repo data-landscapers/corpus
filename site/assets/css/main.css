@@ -155,6 +155,27 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
   .site-nav a:last-child { border-bottom: none; }
 }
 
+/* ── CORPUS NAV — sits below the site header on every corpus page, sticky
+   together with it so both stay visible while a long page scrolls. ── */
+.corpus-nav { border-bottom: 1px solid var(--rule); background: var(--paper-warm); position: sticky; top: 88px; z-index: 99; }
+.corpus-nav__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.65rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; }
+.corpus-nav a { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-light); border: none; }
+.corpus-nav a:hover, .corpus-nav a.active { color: var(--accent); border: none; }
+
+/* ── HIGHLIGHTED STAT LINE — total/this-year style figures, or a page's own
+   headline counts, in one row. Used on the home page and on country pages. ── */
+.stat-bar { background: color-mix(in srgb, var(--accent) 10%, var(--paper)); border-bottom: 1px solid var(--rule); }
+.stat-bar__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.7rem 1.5rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.35rem 2rem; }
+.stat-bar__label { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); }
+.stat-bar__item { font-family: var(--serif); font-size: 0.85rem; color: var(--ink-light); }
+.stat-bar__item strong { font-family: var(--display); font-size: 1rem; font-weight: 700; color: var(--accent-dk); margin-left: 0.3rem; }
+
+/* ── SECTION HEADING — the bold, top-ruled h2 used to open a section
+   (Countries/Regions/Topics on the home page; Reports/Sources/Non-state
+   finance on a country page). ── */
+.section-heading { font-size: 1.45rem; margin: 3rem 0 0.6rem; border-top: 2px solid var(--ink); padding-top: 0.85rem; font-family: var(--display); font-weight: 700; color: var(--ink); }
+.section-heading:first-of-type { margin-top: 0; }
+
 /* ── BUTTONS ── */
 .btn { display: inline-block; font-family: var(--serif); font-size: 0.82rem; font-weight: 600; letter-spacing: 0.03em; padding: 0.6rem 1.4rem; border-radius: 2px; border: 1.5px solid var(--ink); color: var(--ink); transition: all 0.15s; text-decoration: none; }
 .btn:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }

@@ -2,9 +2,9 @@
  *
  * Same relation report.css has to main.css: palette, type scale, links and
  * the site chrome all come from main.css (§1: same family, not a separate
- * identity). This file adds only the layout the home page needs — the corpus
- * subnav, the stat bar, the section headings and the country/region/topic
- * box grids — and nothing else. See build/home.py.
+ * identity). This file adds only the layout the home page needs — the
+ * hero, the section intro copy and the country/region/topic box grids —
+ * and nothing else. See build/home.py.
  *
  * Revised 2026-08-11 (Bill's numbered change list): dropped the four-card
  * grid, the two-up "what the base holds" bar tables, and the classes that
@@ -15,29 +15,15 @@
  * stacked on the Countries heading's bold one) and .hero__sub/.n, unused
  * once Bill trimmed the hero to one line; section headings resized to match
  * an article's h2 sub-headings.
+ *
+ * Revised again 2026-08-11: .corpus-nav, .stat-bar and .section-heading
+ * moved to main.css — the country page needs them too, and a class two page
+ * types share belongs in the shared stylesheet, not copied between them.
  */
-
-/* Corpus subnav — sits below the (now mirrored) site header. */
-.corpus-nav { border-bottom: 1px solid var(--rule); background: var(--paper-warm); }
-.corpus-nav__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.65rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; }
-.corpus-nav a { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-light); border: none; }
-.corpus-nav a:hover { color: var(--accent); border: none; }
-
-/* Highlighted stat bar — total / this year / this month. */
-.stat-bar { background: color-mix(in srgb, var(--accent) 10%, var(--paper)); border-bottom: 1px solid var(--rule); }
-.stat-bar__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.7rem 1.5rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.35rem 2rem; }
-.stat-bar__label { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); }
-.stat-bar__item { font-family: var(--serif); font-size: 0.85rem; color: var(--ink-light); }
-.stat-bar__item strong { font-family: var(--display); font-size: 1rem; font-weight: 700; color: var(--accent-dk); margin-left: 0.3rem; }
 
 .hero { padding: 2.5rem 0 2rem; margin-bottom: 2.5rem; }
 .hero p { font-size: 1.32rem; line-height: 1.55; max-width: 46rem; margin-bottom: 0.9rem; }
 
-/* Countries / Regions / Topics sections. Heading size matches the h2
-   sub-headings inside a Writing article (main.css .article-body h2), so the
-   home page and an article read as the same publication (Bill, 2026-08-11). */
-.section-heading { font-size: 1.45rem; margin: 3rem 0 0.6rem; border-top: 2px solid var(--ink); padding-top: 0.85rem; }
-.section-heading:first-of-type { margin-top: 0; }
 .section-intro { font-size: 1rem; line-height: 1.6; color: var(--ink-light); max-width: 46rem; margin-bottom: 1.25rem; }
 .caveat { font-size: 0.76rem; color: var(--ink-faint); line-height: 1.5; margin-top: 0.75rem; }
 
