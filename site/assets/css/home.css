@@ -1,0 +1,60 @@
+/* home.css — the home page, on top of the site's own main.css.
+ *
+ * Same relation report.css has to main.css: palette, type scale, links and
+ * the site chrome all come from main.css (§1: same family, not a separate
+ * identity). This file adds only the layout the home page needs — the card
+ * grid, the bar tables, the country and topic box grids — and nothing else.
+ * See build/home.py.
+ */
+
+.hero { border-bottom: 1px solid var(--rule); padding: 2.5rem 0 2rem; margin-bottom: 2.5rem; }
+.hero p { font-size: 1.32rem; line-height: 1.55; max-width: 46rem; margin-bottom: 0.9rem; }
+.hero .hero__sub { font-size: 0.95rem; color: var(--ink-light); margin-bottom: 0; }
+.hero .n { font-family: var(--display); font-weight: 700; color: var(--accent); }
+
+.cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; margin-bottom: 3rem; }
+.card { border: 1px solid var(--rule); border-radius: 6px; padding: 1.25rem 1.25rem 1.4rem; background: var(--paper); display: flex; flex-direction: column; transition: border-color 0.15s, background 0.15s; }
+.card:hover { border-color: var(--accent); background: #fff; }
+.card h2 { font-size: 1.35rem; margin: 0 0 0.2rem; }
+.card__n { font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.07em; text-transform: uppercase; color: var(--ink-faint); margin-bottom: 0.9rem; }
+.card ul { list-style: none; padding: 0; margin: 0 0 1.1rem; }
+.card li { font-size: 0.82rem; line-height: 1.5; color: var(--ink-light); margin-bottom: 0.55rem; }
+.card__go { margin-top: auto; font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent); }
+.card, .card:hover { border-bottom: 1px solid var(--rule); }
+a.card { color: inherit; }
+a.card:hover { color: inherit; }
+
+.section-label { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-faint); border-top: 2px solid var(--ink); padding-top: 0.6rem; margin: 3rem 0 1rem; }
+
+.two-up { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; }
+table.bars { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+table.bars caption { text-align: left; font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); padding-bottom: 0.5rem; }
+table.bars th { text-align: left; font-weight: 400; white-space: nowrap; padding: 0.3rem 0.75rem 0.3rem 0; width: 6.5rem; }
+table.bars td.barcell { position: relative; padding: 0.3rem 0; }
+table.bars .bar { display: inline-block; height: 0.85rem; background: var(--accent); opacity: 0.22; border-radius: 1px; vertical-align: middle; }
+table.bars .barnum { font-family: var(--mono); font-size: 0.74rem; color: var(--ink-light); margin-left: 0.5rem; vertical-align: middle; }
+.caveat { font-size: 0.76rem; color: var(--ink-faint); line-height: 1.5; margin-top: 0.75rem; }
+
+.boxes { display: grid; grid-template-columns: repeat(auto-fill, minmax(6.2rem, 1fr)); gap: 4px; margin: 1.25rem 0 0.5rem; }
+.box { display: flex; flex-direction: column; align-items: flex-start; justify-content: center; padding: 0.5rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 14%), var(--paper)); color: var(--ink); }
+.box:hover { border-color: var(--accent); color: var(--ink); }
+.box__k { font-family: var(--mono); font-size: 0.8rem; font-weight: 500; letter-spacing: 0.04em; }
+.box__n { font-size: 0.72rem; color: var(--ink-light); }
+
+.tboxes { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; margin: 1.25rem 0 0.5rem; }
+.tbox { display: flex; flex-direction: column; padding: 0.7rem 0.75rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
+.tbox:hover { border-color: var(--accent); color: var(--ink); }
+.tbox__l { font-size: 0.84rem; line-height: 1.3; }
+.tbox__s { font-family: var(--mono); font-size: 0.66rem; color: var(--ink-faint); margin-top: 0.15rem; }
+.tbox__n { font-family: var(--mono); font-size: 0.9rem; margin-top: 0.4rem; }
+
+.colophon { margin: 3.5rem 0 2rem; padding: 1.25rem 1.5rem; background: var(--paper-warm); border: 1px solid var(--rule); font-size: 0.8rem; }
+.colophon dl { display: grid; grid-template-columns: 9rem 1fr; gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
+.colophon dt { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
+.colophon dd { margin: 0; }
+
+@media (max-width: 900px) {
+  .cards { grid-template-columns: repeat(2, 1fr); }
+  .two-up { grid-template-columns: 1fr; gap: 2rem; }
+  .tboxes { grid-template-columns: repeat(2, 1fr); }
+}
