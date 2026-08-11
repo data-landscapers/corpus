@@ -1,0 +1,45 @@
+name: Deploy Corpus to GitHub Pages
+
+# site/ is rendered locally (build/pull.py, build/render.py, build/home.py)
+# and committed — never built in CI. DESIGN.md §8: the render depends on a
+# local checkout of OSINT sitting beside this repo, which a runner does not
+# have, and WeasyPrint's system dependencies (pango, cairo, ...) are a CI
+# cost this repo has no reason to carry. This workflow only ever publishes
+# what is already in site/ at the commit that triggered it.
+
+on:
+  push:
+    branches: ["main"]
+    paths: ["site/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "site"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
