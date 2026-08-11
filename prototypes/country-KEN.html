@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kenya — Data Landscapers</title>
+<meta name="description" content="Kenya: digital transformation and data governance. Reports, non-state finance and sources, from the Data Landscapers base.">
+<link rel="stylesheet" href="../site/assets/css/main.css">
+<style>
+/* Mock-up only — moves to site/assets/css/country.css when the build lands. */
+.country-head { border-bottom: 1px solid var(--rule); padding-bottom: 1.5rem; margin-bottom: 2rem; }
+.crumb { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.09em; color: var(--ink-faint); margin-bottom: 0.6rem; }
+.crumb a { color: var(--ink-faint); }
+.country-head h1 { font-size: 3rem; margin-bottom: 0.35rem; }
+.country-head__meta { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); letter-spacing: 0.03em; }
+
+.counts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--rule); border: 1px solid var(--rule); margin: 0 0 2.5rem; }
+.count { background: var(--paper); padding: 1rem 1.1rem; }
+.count__n { font-family: var(--display); font-size: 1.9rem; font-weight: 700; line-height: 1.1; }
+.count__n--red { color: var(--accent); }
+.count__l { font-family: var(--mono); font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); margin-top: 0.25rem; }
+.count__s { font-size: 0.78rem; color: var(--ink-light); margin-top: 0.3rem; line-height: 1.4; }
+
+.section-label { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-faint); border-top: 2px solid var(--ink); padding-top: 0.6rem; margin: 3rem 0 1rem; }
+.position p { font-size: 1.06rem; line-height: 1.8; }
+.provenance { font-size: 0.8rem; color: var(--ink-faint); font-style: italic; margin-top: -0.5rem; }
+
+.report-row { display: flex; gap: 1.5rem; align-items: center; justify-content: space-between; padding: 1.1rem 0; border-bottom: 1px solid var(--rule); }
+.report-row:first-of-type { border-top: 1px solid var(--rule); }
+.report-row__kind { font-family: var(--display); font-weight: 700; font-size: 1.12rem; }
+.report-row__blurb { font-size: 0.86rem; color: var(--ink-light); margin-top: 0.1rem; }
+.report-row__meta { font-family: var(--serif); font-size: 0.75rem; color: var(--ink-faint); margin-top: 0.4rem; }
+.report-row__meta .nh { color: var(--accent); }
+.report-row__acts { display: flex; gap: 0.5rem; align-items: center; flex-shrink: 0; }
+.report-row__acts .btn { padding: 0.4rem 1rem; }
+a.quiet { font-size: 0.72rem; color: var(--ink-faint); border-bottom: 1px dotted var(--rule); }
+
+table.data-table td.num { text-align: right; }
+table.data-table td.nowrap { white-space: nowrap; }
+.unstated { color: var(--ink-faint); font-style: italic; }
+.table-foot { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: 0.75rem 1rem; border-top: 1px solid var(--rule); background: var(--paper-warm); font-size: 0.75rem; color: var(--ink-faint); }
+
+.callout { border-left: 3px solid var(--accent); padding: 0.2rem 0 0.2rem 1.25rem; margin: 1.5rem 0; font-size: 0.9rem; color: var(--ink-light); }
+.colophon { margin: 3.5rem 0 2rem; padding: 1.25rem 1.5rem; background: var(--paper-warm); border: 1px solid var(--rule); font-size: 0.8rem; }
+.colophon dl { display: grid; grid-template-columns: 9rem 1fr; gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
+.colophon dt { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
+.colophon dd { margin: 0; }
+@media (max-width: 720px) {
+  .counts { grid-template-columns: repeat(2, 1fr); }
+  .report-row { flex-direction: column; align-items: flex-start; }
+}
+</style>
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://corpus.data-landscapers.com/" class="site-logo">
+        <img src="../build/assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.com/countries/" class="active">Countries</a>
+        <a href="https://corpus.data-landscapers.com/regions/">Regions</a>
+        <a href="https://corpus.data-landscapers.com/topics/">Topics</a>
+        <a href="https://corpus.data-landscapers.com/catalogue/">Catalogue</a>
+        <a href="https://corpus.data-landscapers.com/data/">Data</a>
+        <a href="https://corpus.data-landscapers.com/method/">Method</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+  <div class="container">
+
+    <div class="country-head">
+      <div class="crumb"><a href="https://corpus.data-landscapers.com/countries/">Countries</a> &nbsp;/&nbsp; Eastern Africa</div>
+      <h1>Kenya</h1>
+      <div class="country-head__meta">KEN &nbsp;·&nbsp; page built 2026-08-11 &nbsp;·&nbsp; base at commit ea6e045ec0be</div>
+    </div>
+
+    <div class="counts">
+      <div class="count">
+        <div class="count__n">146</div>
+        <div class="count__l">Systems &amp; instruments</div>
+        <div class="count__s">Tracked on Kenya&rsquo;s ledger.</div>
+      </div>
+      <div class="count">
+        <div class="count__n count__n--red">4</div>
+        <div class="count__l">Not held</div>
+        <div class="count__s">Gaps the base states rather than hides.</div>
+      </div>
+      <div class="count">
+        <div class="count__n">605</div>
+        <div class="count__l">Sources held</div>
+        <div class="count__s">Every figure is one click from one of them.</div>
+      </div>
+      <div class="count">
+        <div class="count__n">71</div>
+        <div class="count__l">Non-state commitments</div>
+        <div class="count__s">US$2,573m across 35 financiers, 2014&ndash;2026.</div>
+      </div>
+    </div>
+
+    <div class="section-label">Position</div>
+    <div class="position">
+<p>Kenya has a data-protection statute in force since 2019, a mobile-money rail that moved KES 41.68tn in the year to March 2026, an identity register the Interior Ministry reports as holding more than 42 million digitised records, and a government services platform carrying over 22,000 services. It has no adopted artificial-intelligence instrument, no national count of registered data controllers, and no cloud region in commercial service. The state's own digital spending fell for a second consecutive year, to <a href="https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262">KSh 8.6bn for 2026/27</a> from KSh 16.3bn in 2024/25. The National AI Strategy 2025-2030 is costed at KSh 152bn over five years and <a href="https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/">carries no dedicated allocation</a> in that budget. Service migration onto the eCitizen platform ran at <a href="https://nation.africa/kenya/business/agencies-defy-ruto-s-e-citizen-order-1-695-services-yet-to-be-migrated-5506558">1,695 of a target 11,000</a> in the year to 31 March 2026, against 3,458 the year before.</p>
+    </div>
+    <p class="provenance">Summary of position, from the status report of 2026-08-10. Compiled, not written for this page.</p>
+
+    <div class="section-label">Reports</div>
+
+      <div class="report-row">
+        <div class="report-row__main">
+          <div class="report-row__kind">Status report</div>
+          <div class="report-row__blurb">Where every tracked system and instrument stands, dated.</div>
+          <div class="report-row__meta">Edition of <span class="mono">2026-08-10</span>
+             &nbsp;·&nbsp; 146 tracked, <span class="nh">4 not held</span></div>
+        </div>
+        <div class="report-row__acts">
+          <a class="btn" href="../site/reports/KEN/KEN-status-2026-08-10.html">Read</a>
+          <a class="btn btn--accent" href="../site/reports/KEN/KEN-status-2026-08-10.pdf">&darr; PDF</a>
+          <a class="quiet" href="#">1 earlier edition</a>
+        </div>
+      </div>
+
+      <div class="report-row">
+        <div class="report-row__main">
+          <div class="report-row__kind">Monthly update</div>
+          <div class="report-row__blurb">What moved in the month, and only what moved.</div>
+          <div class="report-row__meta">Edition of <span class="mono">2026-08-05</span> &nbsp;·&nbsp; July 2026
+             &nbsp;·&nbsp; 84 tracked, <span class="nh">11 not held</span></div>
+        </div>
+        <div class="report-row__acts">
+          <a class="btn" href="../site/reports/KEN/KEN-monthly-2026-07-2026-08-05.html">Read</a>
+          <a class="btn btn--accent" href="../site/reports/KEN/KEN-monthly-2026-07-2026-08-05.pdf">&darr; PDF</a>
+          
+        </div>
+      </div>
+
+      <div class="report-row">
+        <div class="report-row__main">
+          <div class="report-row__kind">Twelve-month progress report</div>
+          <div class="report-row__blurb">Position at each end of a year, and the movement between.</div>
+          <div class="report-row__meta">Edition of <span class="mono">2026-08-10</span> &nbsp;·&nbsp; 2025-08-01 &ndash; 2026-08-05
+             &nbsp;·&nbsp; 169 tracked, <span class="nh">6 not held</span></div>
+        </div>
+        <div class="report-row__acts">
+          <a class="btn" href="../site/reports/KEN/KEN-progress-2026-07-2026-08-10.html">Read</a>
+          <a class="btn btn--accent" href="../site/reports/KEN/KEN-progress-2026-07-2026-08-10.pdf">&darr; PDF</a>
+          
+        </div>
+      </div>
+
+    <div class="section-label">Non-state finance</div>
+    <p>Commitments to Kenya&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. One row per commitment, each linked to the record it was read from. Figures are the amount announced, in the currency announced, converted at a dated rate; they are not disbursements.</p>
+
+    <div class="data-table-wrap">
+      <div class="data-table-controls">
+        <input type="search" id="q" placeholder="Search financier, sector, title&hellip;" aria-label="Search the table">
+        <label for="sector">Sector</label>
+        <select id="sector"><option value="">All</option><option>Access to services</option><option>Connectivity</option><option>Cybersecurity</option><option>Data Storage</option><option>Data protection</option><option>Digital Payments and Fintech</option><option>ICT Industry</option><option>Innovation ecosystem</option><option>Rural digital data capture</option><option>Sectoral management information systems (HMIS, EMIS, etc.)</option><option>Strategies, plans and policies</option><option>Training and skills</option><option>Use of satellite data</option></select>
+        <span class="data-table-count" id="count">71 of 71 rows</span>
+      </div>
+      <div class="data-table-scroll">
+        <table class="data-table" id="fin">
+          <thead><tr>
+            <th data-sort="num">Years</th><th>Financier</th><th>Sector</th>
+            <th data-sort="num">US$m</th><th>Basis</th><th>Commitment</th>
+          </tr></thead>
+          <tbody>
+<tr><td class="mono nowrap">2026</td><td>European Union</td><td>Connectivity</td><td class="mono num">118</td><td class="mono">commitment</td><td><a href="https://techafricanews.com/2026/06/09/kenya-secures-ksh-15-3-billion-eu-boost-to-accelerate-digital-transformation/">European Union — Kenya Digital Partnership commitment, 2026</a></td></tr>
+<tr><td class="mono nowrap">2026</td><td>European Union</td><td>Cybersecurity</td><td class="mono num">4</td><td class="mono">commitment</td><td><a href="https://itweb.africa/article/kenya-launches-project-to-boost-cyber-security/LPp6VMrBjoPMDKQz">European Union — Kenya Cyber Resilience (KCR) Project, 2026</a></td></tr>
+<tr><td class="mono nowrap">2026&ndash;2030</td><td>U.S. Department of State</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td class="mono num">175</td><td class="mono">commitment</td><td><a href="https://www.citizen.org/wp-content/uploads/2026-0007QN-Kenya-Health-12.4.2025.pdf">U.S. Department of State — Kenya health data systems under the America First Global Health Strategy Cooperation Framework, 2025</a></td></tr>
+<tr><td class="mono nowrap">2025</td><td>Airtel Africa</td><td>Data Storage</td><td class="mono num">147</td><td class="mono">commitment</td><td><a href="https://www.datacenterdynamics.com/en/news/indias-airtel-breaks-ground-on-44mw-data-center-in-kenya">Airtel Africa (Nxtra) — Kenya 44MW data centre, Tatu City, 2025</a></td></tr>
+<tr><td class="mono nowrap">2025</td><td>Export-Import Bank of China (China Eximbank)</td><td>ICT Industry</td><td class="mono num">185</td><td class="mono">commitment</td><td><a href="https://www.treasury.go.ke/signing-usd-185-million-concessional-loan-agreement-finance-intelligent-transport-system-its https://english.eximbank.gov.cn/News/NewsR/202512/t20251219_71535.html https://businesstoday.co.ke/kenya-secures-ksh23-5b-china-exim-loan/">Nairobi Intelligent Transport System (ITS) Project</a></td></tr>
+<tr><td class="mono nowrap">2025&ndash;2026</td><td>UK FCDO</td><td>Access to services</td><td class="mono num">3</td><td class="mono">commitment</td><td><a href="https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300139/summary">Enhancing Digital Access and Community Resilience (EDACR) \u2014 Kenya ASAL Counties</a></td></tr>
+<tr><td class="mono nowrap">2025&ndash;2030</td><td>KfW Development Bank</td><td>Training and skills</td><td class="mono num">20</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202265189%22">Digitalisierung der Berufsbildung Digitalization of TVET</a></td></tr>
+<tr><td class="mono nowrap">2024&ndash;2029</td><td>US International Development Finance Corporation (DFC)</td><td>Access to services</td><td class="mono num">51</td><td class="mono">commitment</td><td><a href="https://www.dfc.gov/investment-story/bolstering-digital-connectivity-kenya">M-KOPA Kenya \u2014 DFC $51M Digital Connectivity Loan</a></td></tr>
+<tr><td class="mono nowrap">2024&ndash;2028</td><td>European Union</td><td>Strategies, plans and policies</td><td class="mono num">2</td><td class="mono">commitment</td><td><a href="https://d-portal.org/ctrack.html#view=act&amp;aid=XI-IATI-EC_INTPA-2024-PC-36405">Sheria ya Vijana! Empower, Engage, and Connect young people to lead the twin green and digital transition in Kenya and actively participate in policy-design</a></td></tr>
+<tr><td class="mono nowrap">2024&ndash;2027</td><td>UK FCDO</td><td>Access to services</td><td class="mono num">6</td><td class="mono">commitment</td><td><a href="https://devtracker.fcdo.gov.uk/projects/GB-1-204963/summary">UK Digital Access Programme (DAP) \u2014 Kenya Bilateral Phase</a></td></tr>
+<tr><td class="mono nowrap">2024&ndash;2025</td><td>Gates Foundation</td><td>Digital Payments and Fintech</td><td class="mono num">3</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DAC-1601-INV-070953%22">SupTech Enhance Supervisor Capacity to detect CP Market Failures</a></td></tr>
+<tr><td class="mono nowrap">2024&ndash;2025</td><td>Gates Foundation</td><td>Digital Payments and Fintech</td><td class="mono num">1</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DAC-1601-INV-067249%22">Policy Advocacy to Advance Women\u2019s Financial Inclusion</a></td></tr>
+<tr><td class="mono nowrap">2024&ndash;2026</td><td>Gates Foundation</td><td>Digital Payments and Fintech</td><td class="mono num">1</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DAC-1601-INV-073056%22">Kenya: Unified Interoperable Retail Payments Support</a></td></tr>
+<tr><td class="mono nowrap">2024&ndash;2031</td><td>International Finance Corporation (IFC)</td><td>Connectivity</td><td class="mono num">11</td><td class="mono">commitment</td><td><a href="https://disclosures.ifc.org/project-detail/SII/47136/ihs-kenya-project">IHS Kenya Tower Infrastructure \u2014 IFC Equity Investment</a></td></tr>
+<tr><td class="mono nowrap">2024&ndash;2030</td><td>Economic Development Cooperation Fund</td><td>ICT Industry</td><td class="mono num">130</td><td class="mono">commitment</td><td><a href="https://konza.go.ke/kenya-signs-a-financing-agreement-with-republic-of-korea-for-the-development-of-a-digital-media-city-at-konza-technopolis/">Kenya Konza Digital Media City Development Project</a></td></tr>
+<tr><td class="mono nowrap">2023&ndash;2029</td><td>European Union</td><td>Cybersecurity</td><td class="mono num">11</td><td class="mono">commitment</td><td><a href="https://d-portal.org/ctrack.html#view=act&amp;aid=XI-IATI-EC_INTPA-2023-ACT-61794">Strengthening Kenya\u00bfs Security and Cybersecurity</a></td></tr>
+<tr><td class="mono nowrap">2023&ndash;2028</td><td>World Bank</td><td>Connectivity</td><td class="mono num">390</td><td class="mono">commitment</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P170941">Kenya Digital Economy Acceleration Project</a></td></tr>
+<tr><td class="mono nowrap">2023</td><td>Africa Finance Corporation</td><td>Digital Payments and Fintech</td><td class="mono num">8</td><td class="mono">commitment</td><td><a href="https://www.scribd.com/document/911949285/AFC-Africa-Finance-Corporation-Development-Impact-Report-2024-Digital">M-KOPA Convertible Loan Note</a></td></tr>
+<tr><td class="mono nowrap">2023&ndash;2026</td><td>European Union</td><td>Access to services</td><td class="mono num">1</td><td class="mono">commitment</td><td><a href="https://d-portal.org/ctrack.html#view=act&amp;aid=XI-IATI-EC_INTPA-2023-PC-25925">Kenya safe and inclusive digital space (KenSafeSpace)</a></td></tr>
+<tr><td class="mono nowrap">2023&ndash;2028</td><td>European Union</td><td>Training and skills</td><td class="mono num">11</td><td class="mono">commitment</td><td><a href="https://d-portal.org/ctrack.html#view=act&amp;aid=XI-IATI-EC_INTPA-2023-PC-25165">Digitalisation of Technical and Vocational Education Training (D4TVET)</a></td></tr>
+<tr><td class="mono nowrap">2023&ndash;2028</td><td>European Union</td><td>Connectivity</td><td class="mono num">11</td><td class="mono">commitment</td><td><a href="https://d-portal.org/ctrack.html#view=act&amp;aid=XI-IATI-EC_INTPA-2023-PC-25192">Last Mile Connectivity of Schools</a></td></tr>
+<tr><td class="mono nowrap">2023</td><td>FinDev Canada</td><td>Access to services</td><td class="mono num">20</td><td class="mono">commitment</td><td><a href="https://www.findevcanada.ca/en/news/findev-canada-announces-us-20-million-commitment-m-kopa-support-connectivity-and-access">M-KOPA \u2014 Fintech Platform Expansion (Convertible Note 2023)</a></td></tr>
+<tr><td class="mono nowrap">2023</td><td>Norfund</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td class="mono num">17</td><td class="mono">commitment</td><td><a href="https://reports.norfund.no/annualreport-2023/development-mandate/investment-areas/renewable-energy/">Sun King Kenya Sustainable Receivables Securitisation (2023)</a></td></tr>
+<tr><td class="mono nowrap">2023&ndash;2027</td><td>UNICEF</td><td>Connectivity</td><td class="mono num">10</td><td class="mono">commitment</td><td><a href="https://www.the-star.co.ke/siasa/2023-10-06-369400-children-to-benefit-from-unicef-eu-digital-connectivity-project">Scaling Up School Connectivity in Kenya \u2014 EU-UNICEF Giga Programme</a></td></tr>
+<tr><td class="mono nowrap">2023</td><td>US Trade and Development Agency</td><td>Connectivity</td><td class="mono num">1</td><td class="mono">commitment</td><td><a href="https://www.ustda.gov/ustda-supports-expanded-digital-access-in-kenya/">Mombasa to Malaba Fiber and Tower Network - Kenya</a></td></tr>
+<tr><td class="mono nowrap">2022&ndash;2033</td><td>InfraCo Africa</td><td>Connectivity</td><td class="mono num">6</td><td class="mono">commitment</td><td><a href="https://infracoafrica.com/project/mawingu/">Mawingu Telecoms Rural Broadband - InfraCo Africa (Kenya)</a></td></tr>
+<tr><td class="mono nowrap">2022</td><td>Africa50</td><td>Connectivity</td><td class="mono num">20</td><td class="mono">commitment</td><td><a href="https://www.africa50.com/news-insights/news/article/poa-internet-announces-first-close-of-a-28m-financing-round-led-by-africa50-466/">Poa! Internet Series C Equity Investment</a></td></tr>
+<tr><td class="mono nowrap">2022&ndash;2028</td><td>US International Development Finance Corporation (DFC)</td><td>Connectivity</td><td class="mono num">5</td><td class="mono">commitment</td><td><a href="https://ewsdata.rightsindevelopment.org/files/documents/KE/DFC-2022-POAINTERNETKE.pdf">Poa Internet Kenya \u2014 Affordable Broadband Loan</a></td></tr>
+<tr><td class="mono nowrap">2022&ndash;2030</td><td>European Union</td><td>Data protection</td><td class="mono num">29</td><td class="mono">commitment</td><td><a href="https://d-portal.org/ctrack.html#view=act&amp;aid=XI-IATI-EC_INTPA-2022-ACT-60728">Human-Centred Digitalisation #TeamEuropeKenya (AAP-2022)</a></td></tr>
+<tr><td class="mono nowrap">2022</td><td>Helios Investment Partners</td><td>Data Storage</td><td class="mono num">50</td><td class="mono">commitment</td><td><a href="https://ixafrica.co.ke/ixafrica-announces-50-million-investment/">IXAfrica Data Centre \u2014 Helios Growth Capital Investment</a></td></tr>
+<tr><td class="mono nowrap">2022&ndash;2032</td><td>International Finance Corporation (IFC)</td><td>Connectivity</td><td class="mono num">14</td><td class="mono">commitment</td><td><a href="https://www.ifc.org/en/pressroom/2022/ifc-and-atlas-tower-kenya-partner-to-develop-telecoms-towers-expand-digital-access-in-kenya">Atlas Tower Kenya \u2014 IFC Senior Secured Loan (450 Towers)</a></td></tr>
+<tr><td class="mono nowrap">2022</td><td>Norfund</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td class="mono num">4</td><td class="mono">commitment</td><td><a href="https://www.norfund.no/increased-support-for-d-light-solar-home-systems-in-east-africa/">d.light Brighter Life Kenya 2 \u2014 Solar Receivables Facility</a></td></tr>
+<tr><td class="mono nowrap">2022</td><td>Novastar Ventures</td><td>Connectivity</td><td class="mono num">3</td><td class="mono">commitment</td><td><a href="https://www.africaprivateequitynews.com/p/kenya-africa50-and-novastar-ventures-back-poa-internet">Novastar third investment in poa! internet Series C \u2014 low-cost urban broadband Kenya</a></td></tr>
+<tr><td class="mono nowrap">2022</td><td>Novastar Ventures</td><td>Digital Payments and Fintech</td><td class="mono num">3</td><td class="mono">commitment</td><td><a href="https://www.africaprivateequitynews.com/p/africinvest-and-novastar-lead-venture-financing-for-insurtech-platform">Novastar co-leads Turaco Series A \u2014 embedded insurance platform East/West Africa</a></td></tr>
+<tr><td class="mono nowrap">2022</td><td>Partech Africa</td><td>Innovation ecosystem</td><td class="mono num">23</td><td class="mono">commitment</td><td><a href="https://allbusiness.africa/investments?sector=E-Commerce">Partech Africa Series A equity investment in Kyosk</a></td></tr>
+<tr><td class="mono nowrap">2022</td><td>US Trade and Development Agency</td><td>Innovation ecosystem</td><td class="mono num">1</td><td class="mono">commitment</td><td><a href="https://www.ustda.gov/ustda-kenya-partner-on-healthcare-infrastructure/">Kenya Hospital Association (KHA) Medical Center Service Expansion Feasibility Study</a></td></tr>
+<tr><td class="mono nowrap">2021&ndash;2026</td><td>MIGA</td><td>Digital Payments and Fintech</td><td class="mono num">2</td><td class="mono">commitment</td><td><a href="https://www.miga.org/project/airtel-mobile-commerce">Airtel Mobile Money Kenya \u2013 Digital Financial Services Guarantee</a></td></tr>
+<tr><td class="mono nowrap">2021&ndash;2025</td><td>Africa Data Centres</td><td>Data Storage</td><td class="mono num">200</td><td class="mono">commitment</td><td><a href="https://www.africadatacentres.com/africa-data-centres-announces-two-further-facilities-in-nairobi/">Africa Data Centres Kenya \u2014 Nairobi NBO1, NBO2 and NBO3 Data Centres ($200M+ Investment)</a></td></tr>
+<tr><td class="mono nowrap">2021&ndash;2025</td><td>BMZ</td><td>ICT Industry</td><td class="mono num">28</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202021962%22">Digitalzentrum Kenia: F\u00f6rderung der Digital Economy Digital transformation for sustainable economic development (Digital Transformation Center Kenya)</a></td></tr>
+<tr><td class="mono nowrap">2021&ndash;2031</td><td>US International Development Finance Corporation (DFC)</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td class="mono num">10</td><td class="mono">commitment</td><td><a href="https://www.dfc.gov/sites/default/files/media/documents/9000104719.pdf">Apollo Agriculture \u2014 Digital AgTech Loan Kenya</a></td></tr>
+<tr><td class="mono nowrap">2021&ndash;2031</td><td>International Finance Corporation (IFC)</td><td>ICT Industry</td><td class="mono num">3</td><td class="mono">commitment</td><td><a href="https://disclosures.ifc.org/project-detail/SII/43699/savannah-technology-fund-ii">Savannah Technology Fund II \u2014 IFC LP Commitment</a></td></tr>
+<tr><td class="mono nowrap">2021&ndash;2023</td><td>Norfund</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td class="mono num">15</td><td class="mono">commitment</td><td><a href="https://www.norfund.no/innovative-financing-will-provide-electricity-to-1-9-million-people/">d.light Brighter Life Kenya 1 \u2014 Solar Home Systems Receivables Facility</a></td></tr>
+<tr><td class="mono nowrap">2021&ndash;2026</td><td>USAID</td><td>Innovation ecosystem</td><td class="mono num">3</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22US-GOV-1-72061525CA00001%22">USAID Kenya Digital Health Ecosystem Activity (KDHE)</a></td></tr>
+<tr><td class="mono nowrap">2020&ndash;2026</td><td>African Development Bank (AfDB)</td><td>Rural digital data capture</td><td class="mono num">1</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-KE-AA0-022%22">Kenya - Rural Transformation Centres Digital Platform Project</a></td></tr>
+<tr><td class="mono nowrap">2020</td><td>US International Development Finance Corporation (DFC)</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td class="mono num">5</td><td class="mono">commitment</td><td><a href="https://www.dfc.gov/media/press-releases/dfc-disburses-first-tranche-5-million-loan-twiga-foods-improve-food-security">Twiga Foods \u2014 Digital Agricultural Supply Chain Loan</a></td></tr>
+<tr><td class="mono nowrap">2020&ndash;2025</td><td>US Dept of Health and Human Services</td><td>Innovation ecosystem</td><td class="mono num">5</td><td class="mono">commitment</td><td><a href="https://apply07.grants.gov/grantsws/rest/opportunity/att/download/303192">Strengthening National Health Information Systems for HIV/TB - Kenya (CDC/HHS-OGA)</a></td></tr>
+<tr><td class="mono nowrap">2020&ndash;2026</td><td>KfW Development Bank</td><td>Training and skills</td><td class="mono num">6</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-201665298%22">F\u00f6rderung der beruflichen Bildung (IKT) Promotion of TVET (ICT)</a></td></tr>
+<tr><td class="mono nowrap">2019&ndash;2022</td><td>BMZ</td><td>Access to services</td><td class="mono num">3</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-201621846%22">Life Skills und Training f\u00fcr Fl\u00fcchtlinge und aufnehmende Gemeinden Life skills and training for refugees and host communities</a></td></tr>
+<tr><td class="mono nowrap">2019&ndash;2024</td><td>Ministry of Foreign Affairs of the Netherlands</td><td>Access to services</td><td class="mono num">3</td><td class="mono">commitment</td><td><a href="https://www.iatistandard.org/en/">Increased Access To Digital Skills In Dadaab Refugee Camp Kenya</a></td></tr>
+<tr><td class="mono nowrap">2019&ndash;2025</td><td>Economic Development Cooperation Fund</td><td>ICT Industry</td><td class="mono num">100</td><td class="mono">commitment</td><td><a href="https://intl.its.go.kr/file/b144c47d-ffe7-4997-a31a-7c8120d5f519_(%EC%88%98%EC%B6%9C%EC%9E%85%EC%9D%80%ED%96%89)%20%EC%97%B0%EB%8F%84%EB%B3%84_EDCF%20%EC%8A%B9%EC%9D%B8%ED%98%84%ED%99%A9(24.9%EC%9B%94%EB%A7%90%20%EA%B8%B0%EC%A4%80).pdf">Kenya Intelligent Transport System (ITS) Construction Project Phase 2</a></td></tr>
+<tr><td class="mono nowrap">2019</td><td>Export-Import Bank of China (China Eximbank)</td><td>Data Storage</td><td class="mono num">200</td><td class="mono">commitment</td><td><a href="https://constructionreviewonline.com/2019/05/kenya-secures-funds-for-konza-jkia-james-gichuru-expressway-projects/">China Eximbank provides RMB 1.225 billion government concessional loan for Konza Data Centre and and Smart City Project</a></td></tr>
+<tr><td class="mono nowrap">2019&ndash;2022</td><td>IFU</td><td>Digital Payments and Fintech</td><td class="mono num">11</td><td class="mono">commitment</td><td><a href="https://www.africaglobalfunds.com/news/investors/ifu-backs-commercial-bank-in-kenya/">Sidian Bank Kenya Convertible Loan for Digital Expansion</a></td></tr>
+<tr><td class="mono nowrap">2019&ndash;2022</td><td>Norfund</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td class="mono num">11</td><td class="mono">commitment</td><td><a href="https://www.norfund.no/expanding-energy-access-in-africa/">Greenlight Planet (Sun King) Off-Grid Solar PAYG Loan</a></td></tr>
+<tr><td class="mono nowrap">2018</td><td>European Investment Bank (EIB)</td><td>Connectivity</td><td class="mono num">41</td><td class="mono">commitment</td><td><a href="https://www.eib.org/en/projects/all/20170635">KENYA TELECOM EXPANSION (TELKOM KENYA)</a></td></tr>
+<tr><td class="mono nowrap">2018&ndash;2030</td><td>FinDev Canada</td><td>Access to services</td><td class="mono num">12</td><td class="mono">commitment</td><td><a href="https://www.findevcanada.ca/en/news/canadas-new-development-finance-institution-findev-canada-announces-first-transaction">M-KOPA \u2014 Pay-As-You-Go Digital Fintech Platform (Equity 2018)</a></td></tr>
+<tr><td class="mono nowrap">2018</td><td>4DX Ventures</td><td>Innovation ecosystem</td><td class="mono num">2</td><td class="mono">commitment</td><td><a href="https://www.bizcommunity.co.ke/Article/111/394/179998.html">4DX Ventures seed equity investment in Sokowatch (now Wasoko)</a></td></tr>
+<tr><td class="mono nowrap">2018</td><td>TLcom Capital</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td class="mono num">4</td><td class="mono">commitment</td><td><a href="https://nairobigarage.com/twiga-foods-secures-3-million/">TLcom Capital co-lead equity investment in Twiga Foods Series B</a></td></tr>
+<tr><td class="mono nowrap">2018&ndash;2023</td><td>USAID</td><td>Innovation ecosystem</td><td class="mono num">5</td><td class="mono">commitment</td><td><a href="https://www.usaid.gov/global-health/health-areas/digital-health">Kenya Digital Health Investment Support - County Health Information Systems</a></td></tr>
+<tr><td class="mono nowrap">2017&ndash;2023</td><td>British International Investment</td><td>Access to services</td><td class="mono num">20</td><td class="mono">commitment</td><td><a href="https://www.bii.co.uk/en/our-impact/investment/m-kopa-ltd-investment-01/">M-KOPA \u2014 Debt Financing</a></td></tr>
+<tr><td class="mono nowrap">2017</td><td>Export-Import Bank of China (China Eximbank)</td><td>Use of satellite data</td><td class="mono num">75</td><td class="mono">commitment</td><td><a href="https://www.dropbox.com/s/daurh7q3or3cgpx/e-ProMIS%20Kenya%20056234%20Full.pdf?dl=0">China Eximbank provides RMB 438 million government concessional loan for Nation Wide Remote Sensing Airborne Geophysical Survey Project</a></td></tr>
+<tr><td class="mono nowrap">2017&ndash;2023</td><td>FMO</td><td>Access to services</td><td class="mono num">11</td><td class="mono">commitment</td><td><a href="https://www.fmo.nl/project-detail/53657">M-KOPA Pay-As-You-Go Solar And Digital Financial Services Kenya</a></td></tr>
+<tr><td class="mono nowrap">2017&ndash;2022</td><td>USAID</td><td>Innovation ecosystem</td><td class="mono num">36</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22US-GOV-1-AID-615-A-17-00004%22">HPN - Afya Halisi: RMNCH National Core - Kenya Health Information System</a></td></tr>
+<tr><td class="mono nowrap">2016</td><td>British International Investment</td><td>Access to services</td><td class="mono num">34</td><td class="mono">commitment</td><td><a href="https://www.bii.co.uk/en/our-impact/investment/m-kopa-holding-limited-investment-01/">M-KOPA Connected Asset Financing Platform \u2014 Equity Investments</a></td></tr>
+<tr><td class="mono nowrap">2016</td><td>IFU</td><td>Digital Payments and Fintech</td><td class="mono num">12</td><td class="mono">commitment</td><td><a href="https://sidianbank.co.ke/investment/sidian-bank-receives-usd-12-million-tier-2-capital-injection-from-the-investment-fund-for-developing-countries/">Sidian Bank Kenya Digital Banking Tier 2 Capital</a></td></tr>
+<tr><td class="mono nowrap">2016&ndash;2025</td><td>LeapFrog Investments</td><td>Innovation ecosystem</td><td class="mono num">22</td><td class="mono">commitment</td><td><a href="https://www.wsj.com/articles/leapfrog-invests-22-million-in-kenyan-pharmacy-chain-1479877260">LeapFrog $22M controlling stake in Goodlife Pharmacy Kenya \u2014 digital health retail</a></td></tr>
+<tr><td class="mono nowrap">2016</td><td>US International Development Finance Corporation (DFC)</td><td>Connectivity</td><td class="mono num">4</td><td class="mono">commitment</td><td><a href="https://ewsdata.rightsindevelopment.org/files/documents/rk/DFC-2016-mawingunetwork.pdf">Mawingu Networks \u2014 Rural Internet Expansion Kenya</a></td></tr>
+<tr><td class="mono nowrap">2016&ndash;2021</td><td>USAID</td><td>Innovation ecosystem</td><td class="mono num">23</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22US-GOV-1-AID-615-A-16-00013%22">HealthIT: Sustaining Use of District Health Information System II - Kenya</a></td></tr>
+<tr><td class="mono nowrap">2016&ndash;2022</td><td>USAID</td><td>Innovation ecosystem</td><td class="mono num">19</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22US-GOV-1-AID-615-A-16-00011%22">HPN - Afya Uzazi: FP/RMNCAH - Kenya</a></td></tr>
+<tr><td class="mono nowrap">2016&ndash;2021</td><td>USAID</td><td>Innovation ecosystem</td><td class="mono num">17</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22US-GOV-1-AID-615-A-16-00006%22">HPN - SI CMLAP I Western Kenya: Health Management Information System</a></td></tr>
+<tr><td class="mono nowrap">2015&ndash;2021</td><td>USAID</td><td>Innovation ecosystem</td><td class="mono num">19</td><td class="mono">commitment</td><td><a href="https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22US-GOV-1-AID-623-TO-11-00005%22">National HMIS Program / AfyaInfo - Kenya</a></td></tr>
+<tr><td class="mono nowrap">2014</td><td>Export-Import Bank of China (China Eximbank)</td><td>Connectivity</td><td class="mono num">116</td><td class="mono">commitment</td><td><a href="http://e-promis.treasury.go.ke/e-promis-de/frame.jsp?src=deView.faces?sessionid=14980499248632094&amp;MasterID=1&amp;SubModuleID=1&amp;Hierarchy=A1_RT_OP_PROJECT&amp;UserID=13&amp;iLanguageID=1&amp;jsf_sequence=1&amp;projectid=55855&amp;beansKey=14980499248632094_1498054039500">China Eximbank provides supplemental RMB 650 million government concessional loan for Phase 2 of National Optic Fibre Backbone Infrastructure (NOFBI) and E-Government Expansion Project (Linked to Project ID#30384)</a></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="table-foot">
+        <span>Full table, all columns &mdash; 20 fields including instrument, status, recipient organisation and original currency.</span>
+        <a class="btn" href="../upstream/non-state-finance/KEN-nonstate.csv" download>&darr; CSV</a>
+      </div>
+    </div>
+
+    <div class="section-label">Sources</div>
+    <p>The base holds <strong>605 records</strong> for Kenya, of 9,216 in all. The catalogue is metadata &mdash; title, publisher, date, facets and the publisher&rsquo;s own link &mdash; never the source body.</p>
+    <p><a class="btn" href="catalogue-prototype.html#places=KEN">Browse Kenya in the catalogue &rarr;</a></p>
+
+    <div class="callout">
+      Vault access, bodies included, is granted on request. <a href="https://corpus.data-landscapers.com/method/">How this base is built &rarr;</a>
+    </div>
+
+    <div class="colophon">
+      <strong>About this page</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-08-11</dd>
+        <dt>Derived from</dt><dd>Data Landscapers source base, commit <code>ea6e045ec0be</code></dd>
+        <dt>Verify</dt><dd>Hash any file above and look it up in <a href="https://corpus.data-landscapers.com/manifest.csv">manifest.csv</a></dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> 2026 Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+      <div class="site-footer__links">
+        <a href="https://data-landscapers.com/">data-landscapers.com</a>
+        <a href="https://corpus.data-landscapers.com/method/">Method</a>
+        <a href="https://corpus.data-landscapers.com/manifest.csv">Manifest</a>
+      </div>
+    </div>
+  </footer>
+
+</div>
+
+<script>
+// Mock-up behaviour: filter, search and sort in the page. The real build
+// serves the same markup; this script is what the catalogue prototype already
+// does, cut down to one table.
+(function () {
+  var tbody = document.querySelector('#fin tbody');
+  var rows = Array.prototype.slice.call(tbody.rows);
+  var q = document.getElementById('q'), sector = document.getElementById('sector');
+  var count = document.getElementById('count'), total = rows.length;
+
+  function apply() {
+    var term = q.value.toLowerCase(), sec = sector.value, shown = 0;
+    rows.forEach(function (r) {
+      var ok = (!sec || r.cells[2].textContent === sec) &&
+               (!term || r.textContent.toLowerCase().indexOf(term) > -1);
+      r.style.display = ok ? '' : 'none';
+      if (ok) shown++;
+    });
+    count.textContent = shown + ' of ' + total + ' rows';
+  }
+  q.addEventListener('input', apply);
+  sector.addEventListener('change', apply);
+
+  var dir = {};
+  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
+    th.addEventListener('click', function () {
+      var num = th.dataset.sort === 'num';
+      dir[i] = !dir[i];
+      var s = dir[i] ? 1 : -1;
+      rows.sort(function (a, b) {
+        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
+        if (num) return (parseFloat(x.replace(/[^0-9.]/g, '')) || 0) >
+                        (parseFloat(y.replace(/[^0-9.]/g, '')) || 0) ? s : -s;
+        return x.localeCompare(y) * s;
+      });
+      rows.forEach(function (r) { tbody.appendChild(r); });
+      document.querySelectorAll('#fin thead th').forEach(function (o) {
+        o.classList.remove('sort-asc', 'sort-desc');
+      });
+      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
+    });
+  });
+})();
+</script>
+</body>
+</html>
