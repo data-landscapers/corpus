@@ -57,6 +57,21 @@ BADGE = [
     ("discontinued",    "badge--grey"),
 ]
 
+# The progress report's own vocabulary, for its Movement column (see the
+# "Movement values" key each report opens with: Advanced, Stalled, Regressed,
+# Closed, No change, Baseline not held). Kept apart from BADGE rather than
+# merged into it: the two tables share no terms, and a shared list would be
+# one collision away from a status word mis-colouring a movement cell or vice
+# versa.
+BADGE_MOVEMENT = [
+    ("baseline not held", "badge--red"),
+    ("advanced",          "badge--green"),
+    ("stalled",           "badge--amber"),
+    ("regressed",         "badge--red"),
+    ("closed",            "badge--grey"),
+    ("no change",         "badge--grey"),
+]
+
 
 def frontmatter(text: str) -> tuple[dict, str]:
     """Split the frontmatter from the body. The reports use flat scalar keys
@@ -92,36 +107,48 @@ def parse_name(path: Path) -> tuple[str, str]:
     return parts[0], (parts[1] if len(parts) > 1 else "report")
 
 
-def badge_class(text: str) -> str:
+def badge_class(text: str, vocab=BADGE) -> str:
     plain = re.sub(r"<[^>]+>", "", text).strip().lower()
-    for head, cls in BADGE:
+    for head, cls in vocab:
         if plain.startswith(head):
             return cls
     return "badge--grey"
 
 
-def style_tables(html: str) -> str:
-    """Classify each table and badge only the ones that carry statuses.
+def classify_table(headers: list[str]) -> str:
+    """A report holds three shapes of table, told apart by their header row.
 
-    A report holds two shapes of table. The ledgers are
-    `System or instrument | Status | As at`; the gaps table is
-    `System or instrument | What would settle it | Last probed`, whose second
+    The ledgers are `System or instrument | Status | As at`. The progress
+    report's movement tables are `System or instrument | At <date> |
+    At <date> | Movement` — four columns, not three, and the badge belongs on
+    the last one rather than the second. Everything else is gaps-shaped:
+    `System or instrument | What would settle it | Last probed`, whose middle
     column is prose. Badging by column position alone put status chrome on
     paragraphs of explanation, so the header row decides instead.
     """
+    if len(headers) > 1 and headers[1].startswith("status"):
+        return "ledger"
+    if len(headers) == 4 and headers[3].startswith("movement"):
+        return "movement"
+    return "gaps"
+
+
+def style_tables(html: str) -> str:
+    """Classify each table and badge only the ones that carry statuses."""
     def do_table(m: re.Match) -> str:
         table = m.group(0)
         headers = [
             re.sub(r"<[^>]+>", "", h).strip().lower()
             for h in re.findall(r"<th[^>]*>.*?</th>", table, re.S)
         ]
-        is_ledger = len(headers) > 1 and headers[1].startswith("status")
-        cls = "ledger" if is_ledger else "gaps"
+        cls = classify_table(headers)
         table = table.replace("<table>", f'<table class="{cls}">', 1)
-        if not is_ledger:
-            return table
-        table = label_status_header(table)
-        return badge_rows(table)
+        if cls == "ledger":
+            table = label_status_header(table)
+            return badge_rows(table, col=1, vocab=BADGE)
+        if cls == "movement":
+            return badge_rows(table, col=3, vocab=BADGE_MOVEMENT)
+        return table
 
     return re.sub(r"<table>.*?</table>", do_table, html, flags=re.S)
 
@@ -143,26 +170,28 @@ def label_status_header(table: str) -> str:
     )
 
 
-def badge_rows(table: str) -> str:
-    """Turn the Status column into the site's badge component.
+def badge_rows(table: str, col: int, vocab) -> str:
+    """Turn one column into the site's badge component.
 
-    The cell is normally a source link, so the badge is applied *to* the link
-    rather than around it — the status keeps its colour and stays one click
-    from the record it came from.
+    The cell is often a source link (always, for a ledger's Status; never,
+    for a progress report's Movement, which is derived rather than cited),
+    so the badge is applied *to* the link where there is one rather than
+    around it — the status keeps its colour and stays one click from the
+    record it came from.
     """
     def do_row(m: re.Match) -> str:
         row = m.group(0)
         cells = re.findall(r"<td[^>]*>.*?</td>", row, re.S)
-        if len(cells) < 2:
+        if len(cells) <= col:
             return row
-        status = cells[1]
-        inner = re.sub(r"^<td[^>]*>|</td>$", "", status, flags=re.S).strip()
-        cls = badge_class(inner)
+        target = cells[col]
+        inner = re.sub(r"^<td[^>]*>|</td>$", "", target, flags=re.S).strip()
+        cls = badge_class(inner, vocab)
         if inner.startswith("<a "):
             new = re.sub(r"^<a ", f'<a class="badge {cls}" ', inner, count=1)
         else:
             new = f'<span class="badge {cls}">{inner}</span>'
-        return row.replace(status, f"<td>{new}</td>", 1)
+        return row.replace(target, f"<td>{new}</td>", 1)
 
     return re.sub(r"<tr>\s*<td.*?</tr>", do_row, table, flags=re.S)
 

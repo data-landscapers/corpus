@@ -95,6 +95,18 @@ table.gaps td:nth-child(1) { font-weight: 600; }
 table.gaps td:nth-child(2) { font-family: var(--serif); text-transform: none; letter-spacing: 0; }
 table.gaps td:nth-child(3) { color: var(--ink-faint); font-family: var(--mono); font-size: 0.72rem; }
 
+/* Movement (progress reports): instrument | baseline | current | movement.
+   This used to fall through to the gaps widths above, which put 62% on the
+   short retrospective baseline and squeezed the sourced current value —
+   usually the longest cell in the table — into 14%. The current value gets
+   the room instead; the baseline is retrospective, so it is also set light. */
+table.movement td:nth-child(1), table.movement th:nth-child(1) { width: 22%; }
+table.movement td:nth-child(2), table.movement th:nth-child(2) { width: 20%; }
+table.movement td:nth-child(3), table.movement th:nth-child(3) { width: 40%; }
+table.movement td:nth-child(4), table.movement th:nth-child(4) { width: 18%; }
+table.movement td:nth-child(1) { font-weight: 600; }
+table.movement td:nth-child(2) { color: var(--ink-faint); }
+
 .th-note {
   font-weight: 400;
   text-transform: none;
