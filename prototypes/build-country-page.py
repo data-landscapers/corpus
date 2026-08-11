@@ -43,11 +43,12 @@ OUT = CORPUS / "prototypes"
 SITE_BASE = "https://corpus.data-landscapers.com"
 NAMES = {"KEN": "Kenya"}
 REGION = {"KEN": "Eastern Africa"}
+FINANCE_CUTOFF = 2022  # years before this are aggregated into one pivot column
 
 KIND = {
-    "status": ("Status report", "Where every tracked system and instrument stands, dated."),
-    "monthly": ("Monthly update", "What moved in the month, and only what moved."),
-    "progress": ("Twelve-month progress report", "Position at each end of a year, and the movement between."),
+    "status": ("Status report", "A summary of the status of all known systems and instruments"),
+    "monthly": ("Monthly update", "A summary of news reported in the last month"),
+    "progress": ("Twelve-month progress report", "A breakdown of progress recorded over the past twelve months"),
 }
 
 # Column definitions for the dictionary the full table offers, from
@@ -93,8 +94,8 @@ def editions(iso: str) -> list[dict]:
     """The published editions, read off the rendered filenames.
 
     `{ISO3}-{kind}[-{period}]-{edition}.html` — the edition is always the last
-    dated field. Only the newest edition of each kind is offered; the rest are
-    behind the quiet 'earlier editions' affordance (§1).
+    dated field. Only the newest edition of each kind is offered. Read and
+    Download always line up between rows, so nothing else renders in the row.
     """
     found: dict[str, list[tuple[str, str]]] = {}
     for f in sorted((SITE / "reports" / iso).glob(f"{iso}-*.html")):
@@ -110,7 +111,6 @@ def editions(iso: str) -> list[dict]:
         rows.append({
             "kind": kind, "label": KIND[kind][0], "blurb": KIND[kind][1],
             "edition": edition, "html": name, "pdf": name[:-5] + ".pdf",
-            "earlier": len(eds) - 1,
         })
     return rows
 
@@ -163,23 +163,34 @@ def pivot(rows: list[dict]) -> str:
     is left empty rather than zeroed: a zero reads as a measured quantity.
     Sectors are ordered by total, so the table opens with what the money went
     to rather than with an alphabet.
+
+    Years before FINANCE_CUTOFF are aggregated into one leading '-2022'
+    column: those early years each carry few commitments, so a column per
+    year back to a country's first was mostly empty cells (Bill, 2026-08-11).
     """
-    yrs = sorted({r["start_year"] for r in rows if r.get("start_year")})
+    def col(y: str) -> str:
+        return y if int(y) >= FINANCE_CUTOFF else f"-{FINANCE_CUTOFF}"
+
+    yrs = {r["start_year"] for r in rows if r.get("start_year")}
+    cols = ([f"-{FINANCE_CUTOFF}"] if any(int(y) < FINANCE_CUTOFF for y in yrs) else []) \
+        + sorted(y for y in yrs if int(y) >= FINANCE_CUTOFF)
     cell: dict[str, dict[str, float]] = defaultdict(lambda: defaultdict(float))
     for r in rows:
-        cell[r.get("sector") or "(unstated)"][r["start_year"]] += float(r.get("commitment_usd_m") or 0)
+        if not r.get("start_year"):
+            continue
+        cell[r.get("sector") or "(unstated)"][col(r["start_year"])] += float(r.get("commitment_usd_m") or 0)
     order = sorted(cell, key=lambda s: -sum(cell[s].values()))
 
-    head = "".join(f'<th class="num">{y[2:]}</th>' for y in yrs)
+    head = "".join(f'<th class="num">{c}</th>' for c in cols)
     body = []
     for s in order:
         cells = "".join(
-            f'<td class="num">{num(cell[s][y])}</td>' if cell[s].get(y) else '<td class="num zero"></td>'
-            for y in yrs)
+            f'<td class="num">{num(cell[s][c])}</td>' if cell[s].get(c) else '<td class="num zero"></td>'
+            for c in cols)
         body.append(f'<tr><th scope="row">{e(s)}</th>{cells}'
                     f'<td class="num total">{num(sum(cell[s].values()))}</td></tr>')
     foot = "".join(
-        f'<td class="num">{num(sum(cell[s][y] for s in order))}</td>' for y in yrs)
+        f'<td class="num">{num(sum(cell[s][c] for s in order))}</td>' for c in cols)
     grand = num(sum(v for s in order for v in cell[s].values()))
 
     return f"""<table class="pivot">
@@ -241,8 +252,6 @@ def report_rows(rows: list[dict], iso: str) -> str:
                          if meta.get("not_held") else ""))
         label = period_label(r["kind"], meta.get("period", ""))
         period = f' &nbsp;·&nbsp; {label}' if label else ""
-        earlier = (f'<a class="quiet" href="#">{r["earlier"]} earlier edition'
-                   f'{"s" if r["earlier"] > 1 else ""}</a>' if r["earlier"] else "")
         out.append(f"""
       <div class="report-row">
         <div class="report-row__main">
@@ -254,7 +263,6 @@ def report_rows(rows: list[dict], iso: str) -> str:
         <div class="report-row__acts">
           <a class="btn" href="../site/reports/{iso}/{r['html']}">Read</a>
           <a class="btn btn--accent" href="../site/reports/{iso}/{r['pdf']}">&darr; PDF</a>
-          {earlier}
         </div>
       </div>""")
     return "\n".join(out)
@@ -264,19 +272,18 @@ def report_rows(rows: list[dict], iso: str) -> str:
 
 PAGE_CSS = """
 .country-head { border-bottom: 1px solid var(--rule); padding-bottom: 1.5rem; margin-bottom: 2rem; }
-.crumb { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.09em; color: var(--ink-faint); margin-bottom: 0.6rem; }
-.crumb a { color: var(--ink-faint); }
 .country-head h1 { font-size: 3rem; margin-bottom: 0.35rem; }
 .country-head__meta { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); letter-spacing: 0.03em; }
 
-.counts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--rule); border: 1px solid var(--rule); margin: 0 0 2.5rem; }
-.count { background: var(--paper); padding: 1rem 1.1rem; }
-.count__n { font-family: var(--display); font-size: 1.9rem; font-weight: 700; line-height: 1.1; }
-.count__n--red { color: var(--accent); }
-.count__l { font-family: var(--mono); font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); margin-top: 0.25rem; }
-.count__s { font-size: 0.78rem; color: var(--ink-light); margin-top: 0.3rem; line-height: 1.4; }
+/* Still used by the full non-state-finance table's breadcrumb (finance-{iso}.html). */
+.crumb { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.09em; color: var(--ink-faint); margin-bottom: 0.6rem; }
+.crumb a { color: var(--ink-faint); }
 
-.section-label { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-faint); border-top: 2px solid var(--ink); padding-top: 0.6rem; margin: 3rem 0 1rem; }
+/* The shared .stat-bar (main.css) is a full-bleed strip on the home page;
+   here it sits inside the content column, so it takes its own border and
+   corners rather than the home page's border-bottom-only treatment. */
+.stat-bar { margin: 0 0 2.5rem; border: 1px solid var(--rule); border-radius: 3px; }
+.stat-bar__inner { gap: 0.35rem 2.5rem; }
 
 .report-row { display: flex; gap: 1.5rem; align-items: center; justify-content: space-between; padding: 1.1rem 0; border-bottom: 1px solid var(--rule); }
 .report-row:first-of-type { border-top: 1px solid var(--rule); }
@@ -286,7 +293,6 @@ PAGE_CSS = """
 .report-row__meta .nh { color: var(--accent); }
 .report-row__acts { display: flex; gap: 0.5rem; align-items: center; flex-shrink: 0; }
 .report-row__acts .btn { padding: 0.4rem 1rem; }
-a.quiet { font-size: 0.72rem; color: var(--ink-faint); border-bottom: 1px dotted var(--rule); }
 
 table.pivot { width: 100%; border-collapse: collapse; font-size: 0.78rem; margin: 1.5rem 0 0.5rem; }
 table.pivot th, table.pivot td { padding: 0.4rem 0.5rem; border-bottom: 1px solid var(--rule); }
@@ -314,29 +320,40 @@ table.data-table td.num { text-align: right; }
 table.data-table td.wrapcell { min-width: 32rem; white-space: normal; }
 table.data-table td { white-space: nowrap; }
 @media (max-width: 720px) {
-  .counts { grid-template-columns: repeat(2, 1fr); }
   .report-row { flex-direction: column; align-items: flex-start; }
 }
 """
 
 CHROME = """  <header class="site-header">
     <div class="site-header__inner">
-      <a href="{base}/" class="site-logo">
+      <a href="https://data-landscapers.com/" class="site-logo">
         <img src="../build/assets/logo.png" alt="Data Landscapers" class="site-logo__img">
         <span class="site-logo__text">Data Landscapers
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
       <nav class="site-nav" aria-label="Main navigation">
-        <a href="{base}/countries/" class="active">Countries</a>
-        <a href="{base}/regions/">Regions</a>
-        <a href="{base}/topics/">Topics</a>
-        <a href="{base}/catalogue/">Catalogue</a>
-        <a href="{base}/data/">Data</a>
-        <a href="{base}/method/">Method</a>
+        <a href="{base}/" class="active">Corpus</a>
+        <a href="https://data-landscapers.com/writing/">Writing</a>
+        <a href="https://data-landscapers.com/lab/">Lab</a>
+        <a href="https://data-landscapers.com/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.com/about/">About</a>
+        <a href="https://data-landscapers.com/contact/">Contact</a>
+        <a href="https://data-landscapers.com/search/">Search</a>
       </nav>
     </div>
-  </header>"""
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="{base}/countries/" class="active">Countries</a>
+      <a href="{base}/regions/">Regions</a>
+      <a href="{base}/topics/">Topics</a>
+      <a href="{base}/finance/">Finance</a>
+      <a href="{base}/catalogue/">Catalogue</a>
+      <a href="{base}/method/">Method</a>
+    </div>
+  </nav>"""
 
 FOOT = """  <footer class="site-footer">
     <div class="site-footer__inner">
@@ -369,38 +386,22 @@ COUNTRY = """<!DOCTYPE html>
   <div class="container">
 
     <div class="country-head">
-      <div class="crumb"><a href="{base}/countries/">Countries</a> &nbsp;/&nbsp; {region}</div>
       <h1>{name}</h1>
       <div class="country-head__meta">{iso} &nbsp;·&nbsp; page built {built} &nbsp;·&nbsp; base at commit {commit}</div>
     </div>
 
-    <div class="counts">
-      <div class="count">
-        <div class="count__n">{tracked}</div>
-        <div class="count__l">Systems &amp; instruments</div>
-        <div class="count__s">Tracked on {name}&rsquo;s ledger.</div>
-      </div>
-      <div class="count">
-        <div class="count__n count__n--red">{not_held}</div>
-        <div class="count__l">Not held</div>
-        <div class="count__s">Gaps the base states rather than hides.</div>
-      </div>
-      <div class="count">
-        <div class="count__n">{sources}</div>
-        <div class="count__l">Sources held</div>
-        <div class="count__s">Every figure is one click from one of them.</div>
-      </div>
-      <div class="count">
-        <div class="count__n">{fin_n}</div>
-        <div class="count__l">Non-state commitments</div>
-        <div class="count__s">US${fin_total}m across {financiers} financiers, {y0}&ndash;{y1}.</div>
+    <div class="stat-bar">
+      <div class="stat-bar__inner">
+        <span class="stat-bar__item">Systems &amp; instruments <strong>{tracked}</strong></span>
+        <span class="stat-bar__item">Primary sources held <strong>{sources}</strong></span>
+        <span class="stat-bar__item">Financial commitments <strong>{fin_n}</strong></span>
       </div>
     </div>
 
-    <div class="section-label">Reports</div>
+    <h2 class="section-heading">Reports</h2>
 {reports}
 
-    <div class="section-label">Sources</div>
+    <h2 class="section-heading">Sources</h2>
     <p>The base holds <strong>{sources} records</strong> for {name}, of {cat_total} in all. The catalogue is metadata &mdash; title, publisher, date, facets and the publisher&rsquo;s own link &mdash; never the source body. Every figure in the reports above resolves to one of these records.</p>
     <p class="pubs">Most frequent publishers: {publishers}</p>
     <div class="table-acts">
@@ -408,11 +409,11 @@ COUNTRY = """<!DOCTYPE html>
       <a class="btn" href="../upstream/catalogue/raw-catalogue.csv" download>&darr; Catalogue CSV</a>
     </div>
 
-    <div class="section-label">Non-state finance</div>
+    <h2 class="section-heading">Non-state finance</h2>
     <p>Commitments to {name}&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. Figures are the amount announced, in the year announced, converted from the announcing party&rsquo;s own currency at a dated rate. They are commitments, not disbursements, and a multi-year commitment sits wholly in its start year.</p>
 
 {pivot}
-    <p class="table-note">US$m committed, by sector and year of commitment. An empty cell is a year with no commitment recorded, not a zero.</p>
+    <p class="table-note">US$m committed, by sector and year of commitment. &lsquo;-{cutoff}&rsquo; aggregates every year before {cutoff}. An empty cell is a year with no commitment recorded, not a zero.</p>
 
     <div class="table-acts">
       <a class="btn" href="finance-{iso}.html">Full table &mdash; {fin_n} commitments, all {ncols} fields &rarr;</a>
@@ -566,7 +567,7 @@ def build(iso: str) -> list[Path]:
         built=date.today().isoformat(), commit=built_from()[:12],
         fin_n=len(fin), fin_total=f"{sum(amounts):,.0f}",
         financiers=len({r["financier"] for r in fin}),
-        y0=min(ys), y1=max(ys),
+        y0=min(ys), y1=max(ys), cutoff=FINANCE_CUTOFF,
     )
 
     (OUT / f"country-{iso}.html").write_text(COUNTRY.format(
