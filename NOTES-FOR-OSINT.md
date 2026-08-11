@@ -36,6 +36,10 @@ These never clear. They are properties of OSINT the site depends on, recorded so
 
 **7** (2026-08-11) — **`FINANCE-COMPILE.md` documents 18 columns; the CSV carries 20.** `{ISO3}-nonstate.csv` also holds `amount_basis` and `amount_quality`, which the "CSV export" section does not list. The full-table page offers a field dictionary as a download (the cable factsheet's *Download metadata*), and those two rows currently have to be read off the data rather than cited to the spec. Definitions for them would close it.
 
+**8** (2026-08-11) — **The nightly stats want a machine-readable shape, not the markdown report.** `REPO-STATUS.md` writes `reviews/repo-status.md`, which is prose with tables; the home page needs the same counts as data, in `outputs/catalogue/` so the build can reach them (nothing outside `outputs/` is readable — standing constraint above). Proposed as `outputs/catalogue/stats.json`: `generated`, `documents`, `by_year`, `by_month`, `by_place`, `by_topic`. The mock-up counts `raw-catalogue.csv` itself in the meantime and prefers the file the moment it appears, so nothing here blocks. Shape is in `prototypes/build-home-page.py` → `STATS_SHAPE`.
+
+**9** (2026-08-11) — **The site has to duplicate two vocabularies it is not allowed to read.** Country names come from `lookups/countries.csv` and Level-1 subject labels from `lookups/taxonomy.md`, both outside `outputs/`. The home and country pages therefore carry their own copies, which is the two-copies-of-one-mapping failure `DESIGN.md` §8 refuses everywhere else: renaming a category in OSINT would silently leave the site showing the old label. Copying both into `outputs/` — unchanged, as the pull takes them 1:1 — would close it.
+
 ## Resolved
 
 **x6** (2026-08-06, cleared 2026-08-06) — **`build-catalogue.py` was thought to describe a vault that is never republished.** It does not, and never did: its header calls the catalogue public and says the vault "is not a place to republish them. The `url` sends a reader to the publisher." Checked while clearing the §7 precondition; no change needed.
