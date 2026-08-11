@@ -334,12 +334,21 @@ TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[str, str, str]:
-    """Return (html, stem, edition) for one report.
+def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[str, str, str, str]:
+    """Return (html, stem_html, stem_pdf, edition) for one report.
 
     `absolute` swaps relative asset paths for file:// URIs. That is the only
     difference between the page the site serves and the document WeasyPrint
     renders — one function, so the two cannot drift apart.
+
+    The HTML and the PDF carry different names on purpose (Bill, 2026-08-11).
+    The HTML is the browsable page, so its filename never carries an edition —
+    that is what makes it a permanent URL: `KEN-status.html` is overwritten in
+    place at every render, and a citation to it stays live. The PDF is a
+    dated download, retained edition over edition (§9), so its filename keeps
+    the edition it was cut on. `current_url` therefore now names the HTML
+    permalink itself rather than the reports directory it lives in — the
+    stable address §3's "browse the HTML at a stable address" promises.
     """
     raw = md_path.read_text(encoding="utf-8")
     meta, body_md = frontmatter(raw)
@@ -356,8 +365,10 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
     html_body = style_tables(html_body)
 
     title = meta.get("title") or h1 or md_path.stem
-    stem = f"{md_path.stem}-{edition}"
-    rel = f"reports/{unit}/{stem}"
+    stem_html = md_path.stem
+    stem_pdf = f"{md_path.stem}-{edition}"
+    rel_html = f"reports/{unit}/{stem_html}"
+    rel_pdf = f"reports/{unit}/{stem_pdf}"
 
     rows, not_held = meta.get("ledger_rows", ""), meta.get("not_held", "")
     subtitle = (
@@ -385,26 +396,29 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         kind_label=KIND_LABEL.get(kind, kind.title()),
         edition=edition,
-        permalink_html=f"{SITE_BASE}/{rel}.html",
-        permalink_pdf=f"{SITE_BASE}/{rel}.pdf",
-        current_url=f"{SITE_BASE}/reports/{unit}/",
+        permalink_html=f"{SITE_BASE}/{rel_html}.html",
+        permalink_pdf=f"{SITE_BASE}/{rel_pdf}.pdf",
+        current_url=f"{SITE_BASE}/{rel_html}.html",
         manifest_url=f"{SITE_BASE}/manifest.csv",
         commit=built_from()[:12],
         licence=LICENCE, licence_url=LICENCE_URL,
         org=ORG, company=COMPANY, main_site=MAIN_SITE,
         site_base=SITE_BASE, year=edition[:4],
     )
-    return doc, stem, edition
+    return doc, stem_html, stem_pdf, edition
 
 
 def render(md_path: Path, out_dir: Path, edition: str | None = None) -> tuple[Path, Path]:
-    served, stem, edition = build_document(md_path, edition, absolute=False)
-    for_pdf, _, _ = build_document(md_path, edition, absolute=True)
+    served, stem_html, stem_pdf, edition = build_document(md_path, edition, absolute=False)
+    for_pdf, _, _, _ = build_document(md_path, edition, absolute=True)
 
     out_dir.mkdir(parents=True, exist_ok=True)
-    html_path = out_dir / f"{stem}.html"
-    pdf_path = out_dir / f"{stem}.pdf"
-    # Overwriting in place fails on some synced mounts; replace instead.
+    html_path = out_dir / f"{stem_html}.html"
+    pdf_path = out_dir / f"{stem_pdf}.pdf"
+    # Overwriting in place fails on some synced mounts; replace instead. The
+    # HTML is always rewritten (its name never changes); the PDF only
+    # replaces the one matching this edition — earlier-dated PDFs are a
+    # different filename and are left alone, which is what retains them (§9).
     for f in (html_path, pdf_path):
         if f.exists():
             f.unlink()
