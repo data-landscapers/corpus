@@ -1,0 +1,6 @@
+row_id,place,subject,section,name,what_would_settle_it,probe_at,disposition
+ERI-dpi.id-foundational-id,ERI,dpi.id,Digital public infrastructure,National foundational digital ID,"A named programme, pilot or vendor engagement for a foundational digital-ID system distinct from the passport/civil-registration base already on file.",,
+ERI-infra.connect-submarine-cable,ERI,infra.connect,Infrastructure,Submarine fibre-optic cable landing,"A licensing decision, application, or a dated update to the Submarine Networks registry's coastal-state count.",,
+ERI-infra.connect-starlink,ERI,infra.connect,Infrastructure,Starlink satellite internet service,"A licence application, refusal, or an updated Starlink coverage-map entry for Eritrea.",,
+ERI-dpi.pay-none,ERI,dpi.pay,Digital public infrastructure,Mobile money / digital payments service,"A named mobile-money operator, licence or pilot, or a central-bank statement on digital payments distinct from the cash-deposit ultimatum.",,
+ERI-gov.protect-none,ERI,gov.protect,Governance and regulation,Data-protection law,"A published data-protection bill, statute or regulator designation.",,

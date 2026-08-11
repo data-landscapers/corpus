@@ -1,16 +1,16 @@
 ---
 title: Congo — digital transformation and data governance status report
-compiled: 2026-08-06
+compiled: 2026-08-10
 place: COG
-ledger_rows: 79
+ledger_rows: 80
 not_held: 8
 ---
 
 # Congo: status report
 
-*Compiled 2026-08-06 from the Data Landscapers source base, from `outputs/reports/COG/ledger.csv` (79 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/COG/ledger.csv` (80 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
-**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
+**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
 ## Summary of position
 
@@ -24,24 +24,46 @@ The money is legible and the delivery is not: the sector vote is [FCFA 30,139,58
 
 ## Infrastructure
 
+### Connectivity
+
 | System or instrument | Status | As at |
 |---|---|---|
 | Alternative submarine cable connection | [Planned](https://www.connectingafrica.com/connectivity/congo-wants-to-connect-to-new-cable-amidst-wacs-failures) | The regulator stated a connection to another cable could be operational within three weeks after weeks of outages |
-| Audit-provider qualification standard | [In development](https://fr.linkedin.com/posts/anssi-cg_il-sest-tenu-ce-mardi-28-juillet-2026-au-activity-7487929626313486337-A1oT) | The agency validated the consolidated draft at a working session at its headquarters |
-| Co-regulation accord on shared fibre and pylon infrastructure | [Planned](https://www.adiac-congo.com/content/deploiement-de-la-fibre-optique-vers-une-urbanisation-maitrisee-des-reseaux-163787) | The regulator met operators on urban fibre and announced the imminent signature of an accord with the energy regulator |
 | Digital transformation acceleration project | [In development](https://www.journaldebrazza.com/congo-plus-de-21-milliards-fcfa-pour-accelerer-la-transformation-numerique/) | A fifth steering-committee session adopted a balanced 2026 budget of FCFA 21,872,000,000 |
 | National backbone transferred to the state operator | [Implemented](https://sgg.cg/ccm/compte-rendu-conseil-des-ministres1-du-06-mai-2026-bis-1.pdf) | A council of ministers decree contributing the first three phases in kind against a capital increase |
-| National cybersecurity strategy | [In development, out to tender](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | The security agency launched an open international tender for a 24-month mission to draft the strategy, a national training plan and national conferences |
+| Quality-of-service enforcement against the two mobile operators | [Implemented](https://www.adiac-congo.com/content/qualite-de-service-des-reseaux-mobiles-larpce-monte-la-pression-sur-mtn-et-airtel-169708) | Formal notices served on both operators after drive tests in 20 interior localities, with a six-month deadline to the next campaign |
+| Rural broadband site programme | [In development](https://techafricanews.com/2025/10/15/congo-expands-high-speed-internet-access-with-20-operational-connectivity-sites/) | The ministry reported 20 of 76 built-and-equipped sites fully operational at a mid-term review |
+| Universal access and service fund | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Appropriated at FCFA 1,000,000,000 for 2026 as a special treasury account |
+
+### Data Storage
+
+| System or instrument | Status | As at |
+|---|---|---|
 | National data centre | [Implemented, asserted in passing only](https://www.adiac-congo.com/content/intelligence-artificielle-le-congo-pose-les-jalons-dune-regulation-168692) | The minister cited the data centre's inauguration as accomplished at digital-regulation conferences |
+| Regional data centre feasibility study | [Planned](https://www.adiac-congo.com/content/partenariat-le-ceo-et-long-pratic-saccordent-pour-la-souverainete-numerique-170295) | A centre of excellence and a non-governmental body signed a protocol opening a feasibility study |
+| Sovereign data-centre programme | [Planned](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | A ministerial adviser published a roadmap naming national data centres as one of nine structuring programmes |
+
+### Energy
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Co-regulation accord on shared fibre and pylon infrastructure | [Planned](https://www.adiac-congo.com/content/deploiement-de-la-fibre-optique-vers-une-urbanisation-maitrisee-des-reseaux-163787) | The regulator met operators on urban fibre and announced the imminent signature of an accord with the energy regulator |
+
+### Technical Capacity
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Regulator satellite regulatory capacity | [Implemented](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) | The regulator's network-services directorate completed specialist low-orbit training in France and met a satellite operator |
+
+### Cybersecurity
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Audit-provider qualification standard | [In development](https://fr.linkedin.com/posts/anssi-cg_il-sest-tenu-ce-mardi-28-juillet-2026-au-activity-7487929626313486337-A1oT) | The agency validated the consolidated draft at a working session at its headquarters |
+| National cybersecurity strategy | [In development, out to tender](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | The security agency launched an open international tender for a 24-month mission to draft the strategy, a national training plan and national conferences |
 | National information systems security agency | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/congo-strengthens-cybersecurity-through-dual-agency-collaboration) | The 2026 finance law gives the agency a 10% share of a digital-hub charge and a 20% share of a transfers levy |
 | National security operations centre and response team | [Planned](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | The roadmap names them as its sixth programme of nine |
-| Quality-of-service enforcement against the two mobile operators | [Implemented](https://www.adiac-congo.com/content/qualite-de-service-des-reseaux-mobiles-larpce-monte-la-pression-sur-mtn-et-airtel-169708) | Formal notices served on both operators after drive tests in 20 interior localities, with a six-month deadline to the next campaign |
-| Regional data centre feasibility study | [Planned](https://www.adiac-congo.com/content/partenariat-le-ceo-et-long-pratic-saccordent-pour-la-souverainete-numerique-170295) | A centre of excellence and a non-governmental body signed a protocol opening a feasibility study |
-| Regulator satellite regulatory capacity | [Implemented](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) | The regulator's network-services directorate completed specialist low-orbit training in France and met a satellite operator |
-| Rural broadband site programme | [In development](https://techafricanews.com/2025/10/15/congo-expands-high-speed-internet-access-with-20-operational-connectivity-sites/) | The ministry reported 20 of 76 built-and-equipped sites fully operational at a mid-term review |
 | Security label in electronic-invoicing homologation | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf) | A decree of 2026-03-31, published 2026-07-09, puts the security agency into joint homologation of every invoicing terminal, software and enterprise module |
-| Sovereign data-centre programme | [Planned](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | A ministerial adviser published a roadmap naming national data centres as one of nine structuring programmes |
-| Universal access and service fund | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Appropriated at FCFA 1,000,000,000 for 2026 as a special treasury account |
 | Agency annual report on the state of national cybersecurity | ***Not held*** | — |
 
 <!-- narrative: infrastructure -->
@@ -56,55 +78,127 @@ Hosting is asserted rather than evidenced. The national data centre was [reporte
 
 ## Digital public infrastructure
 
+### Data Exchange
+
 | System or instrument | Status | As at |
 |---|---|---|
 | CEMAC interoperable QR-code standard | [Implemented](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | The community standard launched at Douala under an April 2026 regulation |
-| Certified electronic invoicing system | [Implemented, compulsory](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf) | Compulsory connection took effect for all economic agents three months after the enabling decree |
-| Civil-service payroll platform | [Implemented, three failure modes minuted by its operator](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326) | A finance-ministry working session logged data security, recurrent unavailability and a malfunctioning payslip code |
-| Digital roadmap priority services | [In development](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | The roadmap set out publicly in a signed opinion piece by the minister's adviser |
-| European remittance corridor | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/belmoney-digipay-launch-instant-transfer-app-for-congo-and-drc) | An instant-transfer application launched on a remittances-as-a-service model |
-| Forest-revenue information system taxation module | [Implemented](https://www.finances.gouv.cg/fr/articles/le-congo-lance-le-module-fiscalit%C3%A9-du-sivl-pour-renforcer-la-tra%C3%A7abilit%C3%A9-et-la-transparence) | The module launched, the first of the system's three functions to deploy |
-| Integrated civil-status system | [In development, software validated and deployment unfunded](http://www.finances.gouv.cg/fr/articles/cloture-travaux-SIFEC_200226) | A three-day final validation workshop closed with seventeen recommendations validated |
 | Inter-administration data exchange platform | [Planned](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | Named as one of three digital public infrastructure foundations in the published roadmap |
-| Local-authority revenue dematerialisation platform | [In development, build validated but not deployed](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226) | A final validation workshop closed, stated to unlock operational deployment |
-| Low-orbit satellite broadband regulation | [In development](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) | A regulator delegation completed low-orbit regulatory training in France and met a satellite operator |
-| National postal addressing | [In development, adopted by decree and not deployed](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823) | The minister recorded that the regulator has run the addressing project for two years and the ministry has not taken it up for deployment at the postal operator |
-| Payment-aggregator licence | [Implemented](https://techafricanews.com/2026/06/16/pawapay-subsidiary-kerry-payments-secures-vas-payment-aggregator-licence-in-congo/) | A regulator licence secured for a unified interface across mobile operators, banks and microfinance institutions |
-| Public-revenue payment platform | [Implemented, roll-out partial](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) | The platform went live for online payment of taxes, levies and customs duties after the pilot cohort completed |
-| Public-transport insurance data platform | [Implemented, adoption voluntary](https://www.finances.gouv.cg/fr/articles/lancement-de-la-plateforme-num%C3%A9rique-sigas-tpv) | The platform launched in Brazzaville under the financial-institutions directorate |
-| Quarterly labour-market and informal-sector survey | [In development](https://www.adiac-congo.com/content/statistiques-des-donnees-regulieres-pour-mieux-mesurer-le-marche-du-travail-170792) | A regional labour statistician received by the employment minister as the survey entered its preparatory phase |
+
+### Digital Identity and CRVS
+
+| System or instrument | Status | As at |
+|---|---|---|
 | Secure digital identity framework and wallet | [Planned](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | Named among the roadmap's three digital public infrastructure foundations |
-| Tax filing portal | [Implemented](https://www.finances.gouv.cg/fr/download/file/fid/10535) | A user guide published fixing filing regimes, delegation and irreversible submission |
-| Treasury single account at the regional central bank | [In development](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) | The finance ministry stated the account was still being finalised on the day the payment platform went live |
 | Unique identification number biometric card | [Implemented](https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu) | Production of the biometric card relaunched |
 
+### Digital Payments and Fintech
+
+| System or instrument | Status | As at |
+|---|---|---|
+| European remittance corridor | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/belmoney-digipay-launch-instant-transfer-app-for-congo-and-drc) | An instant-transfer application launched on a remittances-as-a-service model |
+| Payment-aggregator licence | [Implemented](https://techafricanews.com/2026/06/16/pawapay-subsidiary-kerry-payments-secures-vas-payment-aggregator-licence-in-congo/) | A regulator licence secured for a unified interface across mobile operators, banks and microfinance institutions |
+| Public-revenue payment platform | [Implemented, roll-out partial](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) | The platform went live for online payment of taxes, levies and customs duties after the pilot cohort completed |
+| Treasury single account at the regional central bank | [In development](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) | The finance ministry stated the account was still being finalised on the day the payment platform went live |
+
+### Registries (population, land, address, etc.)
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Integrated civil-status system | [In development, software validated and deployment unfunded](http://www.finances.gouv.cg/fr/articles/cloture-travaux-SIFEC_200226) | A three-day final validation workshop closed with seventeen recommendations validated |
+| National postal addressing | [In development, adopted by decree and not deployed](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823) | The minister recorded that the regulator has run the addressing project for two years and the ministry has not taken it up for deployment at the postal operator |
+
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Civil-service payroll platform | [Implemented, three failure modes minuted by its operator](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326) | A finance-ministry working session logged data security, recurrent unavailability and a malfunctioning payslip code |
+| Forest-revenue information system taxation module | [Implemented](https://www.finances.gouv.cg/fr/articles/le-congo-lance-le-module-fiscalit%C3%A9-du-sivl-pour-renforcer-la-tra%C3%A7abilit%C3%A9-et-la-transparence) | The module launched, the first of the system's three functions to deploy |
+| Public-transport insurance data platform | [Implemented, adoption voluntary](https://www.finances.gouv.cg/fr/articles/lancement-de-la-plateforme-num%C3%A9rique-sigas-tpv) | The platform launched in Brazzaville under the financial-institutions directorate |
+
+### Other GovTech and e-Gov
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Certified electronic invoicing system | [Implemented, compulsory](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf) | Compulsory connection took effect for all economic agents three months after the enabling decree |
+| Digital roadmap priority services | [In development](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | The roadmap set out publicly in a signed opinion piece by the minister's adviser |
+| Public-administration digitalisation task force | [Implemented, no session on record](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf) | Gazetted 2026-08-06 as decree 2026-261 of 29 July 2026 |
+| Tax filing portal | [Implemented](https://www.finances.gouv.cg/fr/download/file/fid/10535) | A user guide published fixing filing regimes, delegation and irreversible submission |
+
+### Digitalisation of sub-national government
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Local-authority revenue dematerialisation platform | [In development, build validated but not deployed](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226) | A final validation workshop closed, stated to unlock operational deployment |
+
+### National statistics
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Quarterly labour-market and informal-sector survey | [In development](https://www.adiac-congo.com/content/statistiques-des-donnees-regulieres-pour-mieux-mesurer-le-marche-du-travail-170792) | A regional labour statistician received by the employment minister as the survey entered its preparatory phase |
+
+### Use of satellite data
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Low-orbit satellite broadband regulation | [In development](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) | A regulator delegation completed low-orbit regulatory training in France and met a satellite operator |
+
 <!-- narrative: dpi -->
-Payments and tax are the working layer, and both are compulsory. The [public-revenue platform went live on 3 August 2026 on the national payments switch](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), payment following a declaration, reconciled in real time and routed to the treasury against a secured electronic receipt, with all taxpayers targeted by end-2026. The treasury single account intended to centralise those receipts was [still being finalised](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) on the day the platform launched. Certified invoicing runs alongside it under [four orders fixing a four-stage homologation, mandatory cryptographic certification, ten-year invoice retention and real-time tax-directorate data access](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf).
+The [public-revenue platform went live on 3 August 2026 on the national payments switch](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), reconciled in real time and routed to the treasury, with all taxpayers targeted by end-2026. The treasury single account intended to centralise those receipts was [still being finalised](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) on the day the platform launched. Certified invoicing runs alongside it under [four orders fixing a four-stage homologation, ten-year invoice retention and real-time tax-directorate data access](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf).
 
-Identity is the foundation those systems rest on and the least documented. The unique identification number is [the authentication key for the public-revenue platform and for real-time invoice validation, and mandatory for eight economic and five administrative formalities](https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu); production of its biometric card was relaunched in October 2025 after a halt whose date and cause are not on file, and no national coverage figure exists. A [secure digital identity framework and wallet has been named twice in twelve months with no legal instrument or pilot](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
+Identity is the least documented layer. The unique identification number is [the authentication key for the public-revenue platform and mandatory for eight economic and five administrative formalities](https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu); production of its biometric card was relaunched in October 2025 after a halt whose date and cause are not on file, and no national coverage figure exists. A [secure digital identity framework and wallet has been named twice in twelve months with no legal instrument or pilot](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
 
-Registry work is validated and unfunded. The [integrated civil-status system has three modules validated, its principal recommendation being that resources for deployment be made available](http://www.finances.gouv.cg/fr/articles/cloture-travaux-SIFEC_200226); [postal addressing is adopted by decree and still held at the regulator, untransferred to the postal operator](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823); and a [local-authority revenue platform is validated with no deployment recorded](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226).
+The [integrated civil-status system has three modules validated and no funding decision on file](http://www.finances.gouv.cg/fr/articles/cloture-travaux-SIFEC_200226); [postal addressing is adopted by decree and still held at the regulator, untransferred to the postal operator](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823); and a [local-authority revenue platform is validated with no deployment recorded](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226).
 
-The one system the state runs and reports on is failing: its operator has minuted [data security problems, recurrent unavailability and a malfunctioning payslip code on the civil-service payroll platform](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326), with no remediation date. An [inter-administration data exchange platform is a named roadmap foundation with no design or timetable](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
+The ministry that runs the civil-service payroll platform has minuted [data security problems, recurrent unavailability and a malfunctioning payslip code](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326), with no remediation date. An [inter-administration data exchange platform is a named roadmap foundation with no design or timetable](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
+
+A decree [gazetted on 6 August 2026 creates a public-administration digitalisation task force under the Prime Minister, with four organs and interoperability of public information systems as a standing objective](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf); its strategic committee's first listed task is to audit the level of digitisation across the administration. No session is on record.
 <!-- /narrative -->
 
 ## Governance and regulation
 
+### Legislation and regulation
+
 | System or instrument | Status | As at |
 |---|---|---|
-| Bilateral ICT cooperation memorandum with Namibia | [Planned](https://neweralive.na/cabinet-approves-ict-agreement-with-congo-endorses-regional-cooperation/) | Approved by the counterparty's cabinet and its minister authorised to sign; not signed |
 | Certified electronic invoicing decree | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf) | Signed 2026-03-31, gazetted 2026-07-09 and compulsory for every economic agent from 2026-07-01 |
 | Electronic-invoicing implementing orders | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf) | Four orders signed 2026-07-09 and gazetted 2026-07-16 |
-| Loi n. 29-2019 on personal data protection | [Implemented](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/) | Promulgated 2019-10-10 |
-| National artificial intelligence strategy | [In development](https://www.adiac-congo.com/content/intelligence-artificielle-et-langues-nationales-le-congo-lance-les-travaux-de-sa-strategie) | Drafting launched with external support and a technical committee seated 2026-05-06 |
-| National data governance strategy | [In development](https://techreviewafrica.com/news/5882/eca-supports-republic-of-the-congo-in-developing-national-data-governance-strategy) | Consultations and capacity-building held at Brazzaville from 2 to 9 June 2026 under a continental data-governance initiative |
-| National digital strategy 2030 | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/congo-nears-adoption-of-2030-digital-strategy) | Completed with external support and under general-secretariat review awaiting adoption by presidential decree |
-| National personal data protection commission | [Implemented](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/) | Members appointed by decree of 2025-12-31 and the inaugural session held 2026-01-22 |
 | Public-revenue payment order | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-24-2.pdf) | Signed 2026-05-22 and gazetted 2026-06-11, with a 60-day conformity window |
 | Tax on newly imported SIM-capable terminals | [Implemented](https://aden.cg/2026/07/23/taxe-sur-les-nouveaux-terminaux-numeriques-a-cartes-sim-rtn-laden-fait-le-point-de-son-operationnalisation-devant-la-commission-economie-et-finances-de-lassemblee-nationale/) | Instituted by the 2026 finance law and in force from 2026-06-01 |
 | Electronic-communications framework law of 2009 | ***Not held*** | — |
-| National open-data portal or dataset-release policy | ***Not held*** | — |
+
+### Strategies, plans and policies
+
+| System or instrument | Status | As at |
+|---|---|---|
+| National artificial intelligence strategy | [In development](https://www.adiac-congo.com/content/intelligence-artificielle-et-langues-nationales-le-congo-lance-les-travaux-de-sa-strategie) | Drafting launched with external support and a technical committee seated 2026-05-06 |
+| National data governance strategy | [In development](https://techreviewafrica.com/news/5882/eca-supports-republic-of-the-congo-in-developing-national-data-governance-strategy) | Consultations and capacity-building held at Brazzaville from 2 to 9 June 2026 under a continental data-governance initiative |
+| National digital strategy 2030 | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/congo-nears-adoption-of-2030-digital-strategy) | Completed with external support and under general-secretariat review awaiting adoption by presidential decree |
+
+### Regional collaboration
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Bilateral ICT cooperation memorandum with Namibia | [Planned](https://neweralive.na/cabinet-approves-ict-agreement-with-congo-endorses-regional-cooperation/) | Approved by the counterparty's cabinet and its minister authorised to sign; not signed |
+
+### Data protection
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Loi n. 29-2019 on personal data protection | [Implemented](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/) | Promulgated 2019-10-10 |
+| National personal data protection commission | [Implemented](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/) | Members appointed by decree of 2025-12-31 and the inaugural session held 2026-01-22 |
+
+### Public debate and participation in policymaking
+
+| System or instrument | Status | As at |
+|---|---|---|
 | Public debate on data governance and digital rights | ***Not held*** | — |
+
+### Open data
+
+| System or instrument | Status | As at |
+|---|---|---|
+| National open-data portal or dataset-release policy | ***Not held*** | — |
 
 <!-- narrative: governance -->
 Fiscal instruments are the only ones being made. Beyond the invoicing decree and the payment order, a [tax on newly imported SIM-capable terminals has been in force since 1 June 2026](https://www.adiac-congo.com/content/assemblee-nationale-presentation-de-la-taxe-sur-les-nouveaux-terminaux-numeriques-cartes-sim), earmarked for connectivity and infrastructure, with no rate or yield published.
@@ -118,22 +212,54 @@ Enforcement stops short of outcomes: the regulator gave the operators [two furth
 
 ## Artificial intelligence and the technology sector
 
+### AI
+
 | System or instrument | Status | As at |
 |---|---|---|
 | African artificial intelligence research centre | [Implemented](https://techafricanews.com/2026/04/21/congo-and-russia-strengthen-digital-and-ai-cooperation-during-high-level-meeting/) | The centre joined an international alliance, with foreign financing for its third and fourth phases under negotiation |
 | Digital and AI regulation conferences | [Implemented](https://www.adiac-congo.com/content/intelligence-artificielle-le-congo-pose-les-jalons-dune-regulation-168692) | Five days of conferences at Brazzaville closing with agreed priorities |
-| Joint artificial-intelligence laboratory | [Planned](https://techafricanews.com/2025/09/18/congo-showcases-digital-infrastructure-gains-and-ai-ambitions-in-xiamen/) | Announced at an international industrial forum as a component of the research centre |
-| Obstetric digital reference project | [Piloting](https://techreviewafrica.com/news/5456/mtn-congo-launches-digital-obstetric-reference-project-to-enhance-maternal-healthcare) | Launched under the health minister's patronage from one integrated health centre |
-| Private telecom network at an oil field | [In development](https://www.connectingafrica.com/connectivity/airtel-congo-wing-wah-to-deploy-private-telecom-network) | A five-year contract announced for an operator to design and deploy a private network at a Kouilou field |
-| Regional digital transit-hub bid | [In development](https://techreviewafrica.com/news/6002/congo-telecom-reiterates-ambition-to-lead-digital-transit-and-technology-hub-in-central-africa) | A state-operator delegation held meetings in the neighbouring capital on interconnection, wholesale capacity trading and international roaming |
 | Research-centre training platform | [Piloting](https://www.adiac-congo.com/content/digitalisation-une-plateforme-pour-former-des-milliers-de-jeunes-dans-le-numerique-164718) | The platform presented to the minister ahead of official launch |
-| Ride-hailing and delivery platform entry | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/gozem-launches-in-congo-brazzaville-after-30-million-fundraise) | Operations began in Brazzaville, funded from a US$30m round of equity and debt |
-| Satellite navigation on the ocean railway | [Planned](https://techafricanews.com/2026/03/04/congo-modernizes-cfco-with-satellite-technology-in-partnership-with-china/) | A Chinese delegation received at the launch of railway rehabilitation works, with integration of satellite navigation and communications discussed |
-| Startup labelling regime | [Implemented](https://sgg.cg/ccm/compte-rendu-cmd-2025-07-02.pdf) | A council of ministers adopted decrees fixing the label's withdrawal procedure and the labelling commission's powers and composition |
+
+### ICT Industry
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Regional digital transit-hub bid | [In development](https://techreviewafrica.com/news/6002/congo-telecom-reiterates-ambition-to-lead-digital-transit-and-technology-hub-in-central-africa) | A state-operator delegation held meetings in the neighbouring capital on interconnection, wholesale capacity trading and international roaming |
 | State operator quality certification | [Implemented](https://techreviewafrica.com/news/4630/congo-telecom-becomes-first-operator-in-republic-of-congo-to-receive-iso-90012015-certification) | An international standard issued to the state operator, the first telecommunications operator in the country to hold it |
-| Gulf-state technology presence | ***Not held*** | — |
-| Indian technology presence | ***Not held*** | — |
+
+### Innovation ecosystem
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Obstetric digital reference project | [Piloting](https://techreviewafrica.com/news/5456/mtn-congo-launches-digital-obstetric-reference-project-to-enhance-maternal-healthcare) | Launched under the health minister's patronage from one integrated health centre |
+| Ride-hailing and delivery platform entry | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/gozem-launches-in-congo-brazzaville-after-30-million-fundraise) | Operations began in Brazzaville, funded from a US$30m round of equity and debt |
+| Startup labelling regime | [Implemented](https://sgg.cg/ccm/compte-rendu-cmd-2025-07-02.pdf) | A council of ministers adopted decrees fixing the label's withdrawal procedure and the labelling commission's powers and composition |
+
+### US / hyperscaler activities
+
+| System or instrument | Status | As at |
+|---|---|---|
 | United States technology presence | ***Not held*** | — |
+
+### China activities
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Joint artificial-intelligence laboratory | [Planned](https://techafricanews.com/2025/09/18/congo-showcases-digital-infrastructure-gains-and-ai-ambitions-in-xiamen/) | Announced at an international industrial forum as a component of the research centre |
+| Private telecom network at an oil field | [In development](https://www.connectingafrica.com/connectivity/airtel-congo-wing-wah-to-deploy-private-telecom-network) | A five-year contract announced for an operator to design and deploy a private network at a Kouilou field |
+| Satellite navigation on the ocean railway | [Planned](https://techafricanews.com/2026/03/04/congo-modernizes-cfco-with-satellite-technology-in-partnership-with-china/) | A Chinese delegation received at the launch of railway rehabilitation works, with integration of satellite navigation and communications discussed |
+
+### India activities
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Indian technology presence | ***Not held*** | — |
+
+### Gulf/UAE activities
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Gulf-state technology presence | ***Not held*** | — |
 
 <!-- narrative: ai-tech -->
 Artificial intelligence is a research centre and a committee. The [African AI research centre, created by law in May 2024 and built with a Chinese counterpart, has joined an international alliance, with Russian financing for its third and fourth phases under validation through a debt conversion](https://techafricanews.com/2026/04/21/congo-and-russia-strengthen-digital-and-ai-cooperation-during-high-level-meeting/); no research output, staff count or budget is held. Its [training platform holds about 3,000 free online courses against a 10,000-youth target](https://www.adiac-congo.com/content/digitalisation-une-plateforme-pour-former-des-milliers-de-jeunes-dans-le-numerique-164718) and has published no enrolment figure in fourteen months.
@@ -143,26 +269,33 @@ The technology sector is small and its evidence is corporate. The [state operato
 External technology relationships run to China and Russia and stop at announcement: a [joint AI laboratory with no source recording it built, staffed or operating](https://techafricanews.com/2025/09/18/congo-showcases-digital-infrastructure-gains-and-ai-ambitions-in-xiamen/); [satellite navigation on the ocean railway at discussion stage](https://techafricanews.com/2026/03/04/congo-modernizes-cfco-with-satellite-technology-in-partnership-with-china/); a [five-year contract for a private telecom network at an oil field](https://www.connectingafrica.com/connectivity/airtel-congo-wing-wah-to-deploy-private-telecom-network) with no record of the network in service. Nothing is held on United States, Indian or Gulf-state presence.
 <!-- /narrative -->
 
-## Inclusion, capacity and finance
+## Inclusion and capacity
+
+### Access to services
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Universal fund site and multimedia-centre programme | [Implemented](https://techafricanews.com/2026/01/28/congo-advances-digital-inclusion-with-new-connections-in-miaba-and-ehota/) | Two towns connected to the national telecommunications grid and inaugurated |
+
+### Literacy
+
+| System or instrument | Status | As at |
+|---|---|---|
+| National digital-literacy programme | ***Not held*** | — |
+
+### Training and skills
 
 | System or instrument | Status | As at |
 |---|---|---|
 | Development-programme cybersecurity course | [Piloting](https://www.adiac-congo.com/content/congo-pnud-un-nouveau-volet-de-formation-en-intelligence-artificielle-destine-aux-jeunes) | A cybersecurity expert presented to the minister in Brazzaville |
-| Digital acceleration project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P175592) | A 2026 work programme adopted after an October 2025 mid-term review |
-| Energy and digital nexus protocol | [Implemented](https://www.adiac-congo.com/content/partenariat-le-ceo-et-long-pratic-saccordent-pour-la-souverainete-numerique-170295) | An accord signed at Pointe-Noire |
-| European phase of the transformation project | [Implemented](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | The first named procurement launched under the European bank limb |
-| Mobility platform series B round | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/gozem-launches-in-congo-brazzaville-after-30-million-fundraise) | A country launch following the raise |
-| National AI strategy technical committee | [In development](https://www.adiac-congo.com/content/intelligence-artificielle-et-langues-nationales-le-congo-lance-les-travaux-de-sa-strategie) | An inaugural meeting of the technical committee with a six-month mandate |
 | National cybersecurity training plan | [In development, out to tender](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | An open international tender issued with bids closing 2026-09-02 |
-| National data centre financing | [In development, works suspended](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001) | The contractor suspended works for an unreleased state counterpart tranche |
-| Posts, telecommunications and digital economy programme vote | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Appropriated in the 2026 finance law |
 | Project digital-skills target | [In development](https://www.journaldebrazza.com/congo-plus-de-21-milliards-fcfa-pour-accelerer-la-transformation-numerique/) | The target restated in the 2026 work programme |
-| Public-finance information systems special account | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Appropriated unchanged in the 2026 finance law |
-| Rectifying finance law 2026 | [Implemented, adopted but not gazetted](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726) | Adopted unanimously and unamended by both chambers |
-| Research-centre phases three and four financing | [In development](https://techafricanews.com/2026/04/21/congo-and-russia-strengthen-digital-and-ai-cooperation-during-high-level-meeting/) | All documentation submitted, awaiting final technical and administrative validation before disbursement |
-| Treasury banking-function special account | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Appropriated in the 2026 finance law |
-| Universal fund site and multimedia-centre programme | [Implemented](https://techafricanews.com/2026/01/28/congo-advances-digital-inclusion-with-new-connections-in-miaba-and-ehota/) | Two towns connected to the national telecommunications grid and inaugurated |
-| National digital-literacy programme | ***Not held*** | — |
+
+### Research institutions
+
+| System or instrument | Status | As at |
+|---|---|---|
+| National AI strategy technical committee | [In development](https://www.adiac-congo.com/content/intelligence-artificielle-et-langues-nationales-le-congo-lance-les-travaux-de-sa-strategie) | An inaugural meeting of the technical committee with a six-month mandate |
 
 <!-- narrative: inclusion -->
 The domestic vote rose and the spending did not follow. The sector programme is [FCFA 30,139,589,283 for 2026 against FCFA 23,348,037,007 revised for 2025](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), while 2025 execution was FCFA 3,158,525,582 — 13.5% of the revised figure, on a numerator excluding personnel. The [treasury banking-function account more than doubled to FCFA 5,968,000,000](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) while the [dedicated public-finance information-systems account stayed flat at FCFA 3,500,000,000](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf). No audited outturn exists for any digital line: the settlement-law series ends at exercise 2020.
@@ -170,6 +303,37 @@ The domestic vote rose and the spending did not follow. The sector programme is 
 Universal service is funded at a fixed figure and reports in inaugurations. The fund carries [FCFA 1,000,000,000 for 2026, spent entirely as transfers](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), flat for three consecutive fiscal years, against a three-year record of 200 sites connected and 2025 targets whose achievement is not established. What is reported is [two further towns connected in January 2026](https://techafricanews.com/2026/01/28/congo-advances-digital-inclusion-with-new-connections-in-miaba-and-ehota/).
 
 Skills are targets without outturns. The transformation project has carried the same [1,200-young-people training target for two years with no trained figure published](https://www.journaldebrazza.com/congo-plus-de-21-milliards-fcfa-pour-accelerer-la-transformation-numerique/); a [national cybersecurity training plan is being procured with the strategy under a 24-month donor-financed mission](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1). No national digital-literacy programme, target or measured rate is held anywhere in the base.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Digital acceleration project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P175592) | A 2026 work programme adopted after an October 2025 mid-term review |
+| European phase of the transformation project | [Implemented](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | The first named procurement launched under the European bank limb |
+| Mobility platform series B round | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/gozem-launches-in-congo-brazzaville-after-30-million-fundraise) | A country launch following the raise |
+| National data centre financing | [In development, works suspended](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001) | The contractor suspended works for an unreleased state counterpart tranche |
+| Research-centre phases three and four financing | [In development](https://techafricanews.com/2026/04/21/congo-and-russia-strengthen-digital-and-ai-cooperation-during-high-level-meeting/) | All documentation submitted, awaiting final technical and administrative validation before disbursement |
+
+### MoUs and other agreements
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Energy and digital nexus protocol | [Implemented](https://www.adiac-congo.com/content/partenariat-le-ceo-et-long-pratic-saccordent-pour-la-souverainete-numerique-170295) | An accord signed at Pointe-Noire |
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Posts, telecommunications and digital economy programme vote | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Appropriated in the 2026 finance law |
+| Public-finance information systems special account | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Appropriated unchanged in the 2026 finance law |
+| Rectifying finance law 2026 | [Implemented, adopted but not gazetted](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726) | Adopted unanimously and unamended by both chambers |
+| Treasury banking-function special account | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Appropriated in the 2026 finance law |
+
+<!-- narrative: finance -->
+_(narrative not yet written)_
 <!-- /narrative -->
 
 ## Gaps to fill

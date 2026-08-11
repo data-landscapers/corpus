@@ -1,16 +1,16 @@
 ---
 title: Egypt — digital transformation and data governance status report
-compiled: 2026-08-06
+compiled: 2026-08-11
 place: EGY
-ledger_rows: 151
-not_held: 55
+ledger_rows: 156
+not_held: 54
 ---
 
 # Egypt: status report
 
-*Compiled 2026-08-06 from the Data Landscapers source base, from `outputs/reports/EGY/ledger.csv` (151 systems and instruments, 55 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/EGY/ledger.csv` (156 systems and instruments, 54 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
-**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
+**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
 ## Summary of position
 
@@ -24,31 +24,53 @@ Two figures set the frame. Financial inclusion reached 77.6% of adults at end-20
 
 ## Infrastructure
 
+### Connectivity
+
 | System or instrument | Status | As at |
 |---|---|---|
 | 2Africa submarine cable, Egypt transit and Mediterranean segment | [Implemented](https://gate.ahram.org.eg/News/5081510.aspx) | Mediterranean capacity activated on the Port Said-Genoa-Marseille route |
 | 5G mobile service | [Implemented](https://www.ookla.com/articles/5g-north-africa-2026) | Commercial launch by four operators on refarmed 2.6 GHz |
 | AWS CloudFront edge location, Cairo | [Implemented](https://aws.amazon.com/about-aws/whats-new/2024/05/new-edge-location-egypt) | Announced in service 2024-05-22 |
-| EG-CERT national computer emergency readiness centre | [Implemented](https://gate.ahram.org.eg/News/5670246.aspx) | Named as delivery partner in the national cyber-skills academy |
-| Khazna Data Center Egypt expansion | [Planned](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | Named in Africa's 890 MW development pipeline |
 | Mobile tower expansion programme | [In development](https://techafricanews.com/2026/06/02/egypt-invests-over-6-billion-in-telecom-infrastructure-and-digital-connectivity-development-since-2019/) | Target of 40,000 towers by 2028 restated to the Prime Minister |
-| NTRA data-centre licensing regime | [Implemented](https://www.wearetech.africa/en/fils-uk/news/egypt-bets-on-data-centers-and-ai-to-drive-digital-economy-growth) | Tenth licence in two years issued |
-| Renergy green hydrogen and solar project, El-Tor | [Planned](https://gate.ahram.org.eg/News/5579894.aspx) | Executive plan reviewed by the investment and foreign trade minister |
 | Starlink service in Egypt | [Planned, no licence issued](https://www.egypttelegraph.com/article/154808/%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A-%D9%8A%D8%B7%D8%B1%D9%82-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%85%D8%B5%D8%B1-%D8%B3%D8%AA%D8%A7%D8%B1%D9%84%D9%8A%D9%86%D9%83-%D8%AA%D9%86%D8%AA%D8%B8%D8%B1) | Preliminary talks disclosed by a licensed operator, expanded meeting slated for June 2026 |
-| Telecom Egypt Regional Data Hub 2 | [In development](https://ir.te.eg/en/CorporateNews/PressRelease/211/Telecom-Egypt-s-Regional-Data-Hub-2-Awarded-Tier-III-Design-Certification) | Tier III design certification awarded; execution expected complete by end-2025 |
 | 2Africa Egyptian landing stations and ready-for-service dates | ***Not held*** | — |
 | 5G coverage and subscriber base | ***Not held*** | — |
-| Critical information infrastructure protection regulation | ***Not held*** | — |
-| Data-centre energy and water consumption reporting | ***Not held*** | — |
 | Egypt's internet exchange points | ***Not held*** | — |
+| National broadband plan and any universal service obligation or fund | ***Not held*** | — |
+
+### Data Storage
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Khazna Data Center Egypt expansion | [Planned](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | Named in Africa's 890 MW development pipeline |
+| NTRA data-centre licensing regime | [Implemented](https://www.wearetech.africa/en/fils-uk/news/egypt-bets-on-data-centers-and-ai-to-drive-digital-economy-growth) | Tenth licence in two years issued |
+| Telecom Egypt Regional Data Hub 2 | [In development](https://ir.te.eg/en/CorporateNews/PressRelease/211/Telecom-Egypt-s-Regional-Data-Hub-2-Awarded-Tier-III-Design-Certification) | Tier III design certification awarded; execution expected complete by end-2025 |
 | Egypt's total operational data-centre capacity in MW | ***Not held*** | — |
 | Government data centres, location, operator and capacity | ***Not held*** | — |
-| National broadband plan and any universal service obligation or fund | ***Not held*** | — |
+| Regional Data Hub 2 entry into service | ***Not held*** | — |
+
+### Energy
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Renergy green hydrogen and solar project, El-Tor | [Planned](https://gate.ahram.org.eg/News/5579894.aspx) | Executive plan reviewed by the investment and foreign trade minister |
+| Data-centre energy and water consumption reporting | ***Not held*** | — |
+| Power supply arrangements for Egypt's operating data centres | ***Not held*** | — |
+
+### Technical Capacity
+
+| System or instrument | Status | As at |
+|---|---|---|
+| National high-performance computing or public GPU capacity | ***Not held*** | — |
+
+### Cybersecurity
+
+| System or instrument | Status | As at |
+|---|---|---|
+| EG-CERT national computer emergency readiness centre | [Implemented](https://gate.ahram.org.eg/News/5670246.aspx) | Named as delivery partner in the national cyber-skills academy |
+| Critical information infrastructure protection regulation | ***Not held*** | — |
 | National Cybersecurity Strategy, second and third editions, as documents | ***Not held*** | — |
 | National emergency readiness centre incident and advisory record | ***Not held*** | — |
-| National high-performance computing or public GPU capacity | ***Not held*** | — |
-| Power supply arrangements for Egypt's operating data centres | ***Not held*** | — |
-| Regional Data Hub 2 entry into service | ***Not held*** | — |
 | Submarine cable protection regime for Egyptian waters | ***Not held*** | — |
 
 <!-- narrative: infrastructure -->
@@ -61,178 +83,314 @@ Rural fibre is the clearest delivery: more than 1,250 of the 1,450 phase-one Dec
 
 ## Digital public infrastructure
 
+### Data Exchange
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Digital treasury of reusable verified documents | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | First consuming service went live, public-shop licensing on Digital Egypt |
+| Digital trust services, e-signature and e-seal | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | Signature and seal services launched using the security token and integrated with digital identity |
+| Government digital switch | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | 105 connected bodies and 100 linked national databases reported to cabinet |
+| Register of bodies connected to the government digital switch, and its lawful basis | ***Not held*** | — |
+| Relationship between the ministry's digital post box and the postal service's product | ***Not held*** | — |
+
+### Digital Identity and CRVS
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Automated civil-registry kiosks | [Implemented](https://blogs.realestate.gov.eg/civil-registry-machines-in-egypt) | Initial phase of 8 offices expanded to 16 locations |
+| Electronic birth and death registration | [Implemented](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444) | Development plan states registration taken electronic republic-wide |
+| Haweya national digital financial identity | [Implemented](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion) | Launched by the central bank governor at the 12th financial inclusion conference |
+| Mobile line registration regime | [Implemented, regulations under revision](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) | Regulator statement on liability and on moving to biometric subscriber verification |
+| MOIEG-PASS biometric authentication platform | [Piloting](https://english.ahram.org.eg/News/562383.aspx) | Selfie-biometrics pilot widened on Android |
+| National digital identity app | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | Second release adding biometric verification and automated liveness detection, reported to cabinet |
+| Private eKYC and e-signature licence for the non-bank financial sector | [Implemented](https://www.biometricupdate.com/202508/digified-licensed-to-offer-digital-kyc-e-signature-services-in-egypt) | Regulatory clearance granted |
+| Governing instrument for digital identity and biometric processing | ***Not held*** | — |
+| National digital identity enrolment count | ***Not held*** | — |
+
+### Digital Payments and Fintech
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Direct carrier billing licence for government payments | [Implemented](https://tpaymobile.com/tpay-secures-license-to-offer-direct-mobile-payments-for-government-services-in-egypt) | First regulator licence for direct carrier billing signed |
+| Financial Regulatory Authority digital factoring portal | [Implemented](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks) | Phase one launched on the authority's e-portal |
+| Instant Payment Network and InstaPay | [Implemented](https://www.cbe.org.eg/ar/news-publications/news/2024/12/30/12/31/cbe-extending-the-exemption-of-individuals-from-instapay-for-a-renewable-period-of-3-months) | Inbound cross-border remittance receipt activated |
+| InstaPay transfer pricing | [Implemented](https://gate.ahram.org.eg/News/5145456.aspx) | Fees applied from 2025-04-01 at 0.1% of value, minimum EGP 0.50, maximum EGP 20 |
+| onebank digital bank | [In development](https://itweb.africa/article/central-bank-of-egypt-approves-first-digital-bank/Gb3Bw7WaApPq2k6V) | Central bank initial approval to establish Egypt's first wholly digital bank |
+| Pan-African Payment and Settlement System, Cairo headquarters | [Implemented](https://www.trade.gov/market-intelligence/pan-african-payment-and-settlement-system) | Formally launched January 2022, headquartered in Cairo |
+| SoftPOS contactless acceptance | [Implemented](https://www.dailynewsegypt.com/2026/02/01/cbe-launches-soft-pos-service-for-contactless-mobile-payments-to-cut-merchant-costs) | Launched by the central bank after a pilot capped at EGP 600 per transaction |
+| Central bank national payment system statistics | ***Not held*** | — |
+| National card scheme current issuance | ***Not held*** | — |
+
+### Registries (population, land, address, etc.)
+
+| System or instrument | Status | As at |
+|---|---|---|
+| National Platform for Regularising State Lands | [Implemented](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179) | Committee reported intake and completion figures |
+| Rashid state-owned companies platform | [In development](https://gate.ahram.org.eg/News/5849412.aspx) | Hosting and operations protocol signed with the state payments company |
+| Commercial register size and digitisation state | ***Not held*** | — |
+| National land registration coverage | ***Not held*** | — |
+
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+| System or instrument | Status | As at |
+|---|---|---|
+| DHIS2 national health information system | [Implemented](https://dhis2.org/egypt-launches-dhis2-in-health-information-system) | Launched at a high-level meeting with UNICEF Egypt and the Oslo health information systems centre |
+| Social insurance 95-service online catalogue | [In development](https://gate.ahram.org.eg/News/5882131.aspx) | Six-month window from the February 2026 undertaking falls due with the first tranche still forthcoming |
+| Social insurance digital transformation system | [Implemented](https://gate.ahram.org.eg/News/5882131.aspx) | 92% of the accumulated arrears backlog cleared |
+| Takaful and Karama unified social registry | [Implemented](https://english.ahram.org.eg/News/547276.aspx) | Programme's tenth anniversary, figures given in a lender interview |
+| Education management information system | ***Not held*** | — |
+| Universal Health Insurance system enrolment and digital architecture | ***Not held*** | — |
+
+### Other GovTech and e-Gov
+
+| System or instrument | Status | As at |
+|---|---|---|
+| African Financial Stability Committee digital portal | [Implemented](https://english.ahram.org.eg/NewsContent/3/1239/573958/Business/Tech/CBE,-African-central-banks-association-launch-digi.aspx) | Launched by the central bank with the Association of African Central Banks |
+| Digital Egypt platform | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | 242 services live, reported to a cabinet meeting on presidential directives |
+| Digital visa-on-arrival at Cairo International | [Piloting](https://www.almasryalyoum.com/news/details/4327032) | Phase one begins in all Cairo International arrival halls |
+| Economic Entities Platform | [Planned](https://www.dailynewsegypt.com/2026/08/03/government-develops-digital-integration-to-accelerate-companies-capital-increases-investment-minister/) | Named as the ministry's flagship project at the Capital Market Development Package Conference |
+| Egyptian Tax Authority electronic system | [Implemented, contested](https://www.alborsaanews.com/2026/07/29/1982823) | Five-year assessment by eight named practitioners published |
+| Public Prosecution electronic criminal-record enquiry | [Implemented](https://gate.ahram.org.eg/News/5838334.aspx) | Service opened on the Public Prosecution portal |
+| Unified Government Services Card | [Piloting](https://gate.ahram.org.eg/News/5672837.aspx) | Phase one applied in Port Said; phases two and three set for Ismailia and Luxor, then the remaining governorates |
+| Unified investment-licensing platform | [Implemented](https://gate.ahram.org.eg/News/5482679.aspx) | Reported as officially launched; the launch event itself is not dated |
+
+### Rural digital data capture
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Decent Life rural fibre programme | [Implemented](https://www.youm7.com/story/2026/6/30/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D9%84%D9%805-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%B7-%D9%81%D9%89-1250/7465834) | About 5 million fibre lines completed across more than 1,250 of 1,450 phase-one villages |
+| Rural digital service uptake, as distinct from rural connectivity | ***Not held*** | — |
+
+### Digitalisation of sub-national government
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Public shop licensing on Digital Egypt | [Implemented](https://techafricanews.com/2026/07/29/egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform/) | Launched by the ministers of local development and of communications |
+| Governorate-level service platforms and local-government information systems | ***Not held*** | — |
+
+### National statistics
+
 | System or instrument | Status | As at |
 |---|---|---|
 | 2027 Population, Housing and Establishments Census | [In development](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323) | Methodology presented to a cabinet follow-up; presidential decree still pending |
-| Automated civil-registry kiosks | [Implemented](https://blogs.realestate.gov.eg/civil-registry-machines-in-egypt) | Initial phase of 8 offices expanded to 16 locations |
-| Decent Life rural fibre programme | [Implemented](https://www.youm7.com/story/2026/6/30/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D9%84%D9%805-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%B7-%D9%81%D9%89-1250/7465834) | About 5 million fibre lines completed across more than 1,250 of 1,450 phase-one villages |
-| DHIS2 national health information system | [Implemented](https://dhis2.org/egypt-launches-dhis2-in-health-information-system) | Launched at a high-level meeting with UNICEF Egypt and the Oslo health information systems centre |
-| Digital Egypt platform | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | 242 services live, reported to a cabinet meeting on presidential directives |
-| Digital treasury of reusable verified documents | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | First consuming service went live, public-shop licensing on Digital Egypt |
-| Digital trust services, e-signature and e-seal | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | Signature and seal services launched using the security token and integrated with digital identity |
-| Digital visa-on-arrival at Cairo International | [Piloting](https://www.almasryalyoum.com/news/details/4327032) | Phase one begins in all Cairo International arrival halls |
-| Direct carrier billing licence for government payments | [Implemented](https://tpaymobile.com/tpay-secures-license-to-offer-direct-mobile-payments-for-government-services-in-egypt) | First regulator licence for direct carrier billing signed |
-| Egypt-Japan water, artificial intelligence and satellite-data cooperation | [Planned](https://www.youm7.com/story/2026/8/2/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D9%84/7499442) | Trilateral memorandum signed at the close of the water minister's visit to Japan |
-| Egyptian Tax Authority electronic system | [Implemented, contested](https://www.alborsaanews.com/2026/07/29/1982823) | Five-year assessment by eight named practitioners published |
-| Electronic birth and death registration | [Implemented](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444) | Development plan states registration taken electronic republic-wide |
-| Financial Regulatory Authority digital factoring portal | [Implemented](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks) | Phase one launched on the authority's e-portal |
-| Government digital switch | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | 105 connected bodies and 100 linked national databases reported to cabinet |
-| Haweya national digital financial identity | [Implemented](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion) | Launched by the central bank governor at the 12th financial inclusion conference |
-| Instant Payment Network and InstaPay | [Implemented](https://www.cbe.org.eg/ar/news-publications/news/2024/12/30/12/31/cbe-extending-the-exemption-of-individuals-from-instapay-for-a-renewable-period-of-3-months) | Inbound cross-border remittance receipt activated |
-| InstaPay transfer pricing | [Implemented](https://gate.ahram.org.eg/News/5145456.aspx) | Fees applied from 2025-04-01 at 0.1% of value, minimum EGP 0.50, maximum EGP 20 |
-| MOIEG-PASS biometric authentication platform | [Piloting](https://english.ahram.org.eg/News/562383.aspx) | Selfie-biometrics pilot widened on Android |
-| National digital identity app | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | Second release adding biometric verification and automated liveness detection, reported to cabinet |
 | National labour-market data platform | [Planned](https://www.masrawy.com/news/news_egypt/details/2026/7/28/3024561/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82) | Joint coordinating committee met to examine the proposal |
-| National Platform for Regularising State Lands | [Implemented](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179) | Committee reported intake and completion figures |
-| onebank digital bank | [In development](https://itweb.africa/article/central-bank-of-egypt-approves-first-digital-bank/Gb3Bw7WaApPq2k6V) | Central bank initial approval to establish Egypt's first wholly digital bank |
-| Pan-African Payment and Settlement System, Cairo headquarters | [Implemented](https://www.trade.gov/market-intelligence/pan-african-payment-and-settlement-system) | Formally launched January 2022, headquartered in Cairo |
-| Private eKYC and e-signature licence for the non-bank financial sector | [Implemented](https://www.biometricupdate.com/202508/digified-licensed-to-offer-digital-kyc-e-signature-services-in-egypt) | Regulatory clearance granted |
-| Public Prosecution electronic criminal-record enquiry | [Implemented](https://gate.ahram.org.eg/News/5838334.aspx) | Service opened on the Public Prosecution portal |
-| Public shop licensing on Digital Egypt | [Implemented](https://techafricanews.com/2026/07/29/egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform/) | Launched by the ministers of local development and of communications |
-| Rashid state-owned companies platform | [In development](https://gate.ahram.org.eg/News/5849412.aspx) | Hosting and operations protocol signed with the state payments company |
-| Social insurance 95-service online catalogue | [In development](https://gate.ahram.org.eg/News/5882131.aspx) | Six-month window from the February 2026 undertaking falls due with the first tranche still forthcoming |
-| Social insurance digital transformation system | [Implemented](https://gate.ahram.org.eg/News/5882131.aspx) | 92% of the accumulated arrears backlog cleared |
-| SoftPOS contactless acceptance | [Implemented](https://www.dailynewsegypt.com/2026/02/01/cbe-launches-soft-pos-service-for-contactless-mobile-payments-to-cut-merchant-costs) | Launched by the central bank after a pilot capped at EGP 600 per transaction |
-| Takaful and Karama unified social registry | [Implemented](https://english.ahram.org.eg/News/547276.aspx) | Programme's tenth anniversary, figures given in a lender interview |
-| Unified Government Services Card | [Piloting](https://gate.ahram.org.eg/News/5672837.aspx) | Phase one applied in Port Said; phases two and three set for Ismailia and Luxor, then the remaining governorates |
-| Unified investment-licensing platform | [Implemented](https://gate.ahram.org.eg/News/5482679.aspx) | Reported as officially launched; the launch event itself is not dated |
-| Central bank national payment system statistics | ***Not held*** | — |
-| Commercial register size and digitisation state | ***Not held*** | — |
-| Education management information system | ***Not held*** | — |
-| Egypt's own earth-observation and satellite programme | ***Not held*** | — |
-| Governing instrument for digital identity and biometric processing | ***Not held*** | — |
-| Governorate-level service platforms and local-government information systems | ***Not held*** | — |
-| National card scheme current issuance | ***Not held*** | — |
-| National digital identity enrolment count | ***Not held*** | — |
-| National land registration coverage | ***Not held*** | — |
-| Register of bodies connected to the government digital switch, and its lawful basis | ***Not held*** | — |
-| Relationship between the ministry's digital post box and the postal service's product | ***Not held*** | — |
-| Rural digital service uptake, as distinct from rural connectivity | ***Not held*** | — |
 | Statistics agency release programme and publication calendar | ***Not held*** | — |
-| Universal Health Insurance system enrolment and digital architecture | ***Not held*** | — |
+
+### Use of satellite data
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Egypt-Japan water, artificial intelligence and satellite-data cooperation | [Planned](https://www.youm7.com/story/2026/8/2/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D9%84/7499442) | Trilateral memorandum signed at the close of the water minister's visit to Japan |
+| Egypt's own earth-observation and satellite programme | ***Not held*** | — |
 
 <!-- narrative: dpi -->
-Egypt's exchange layer is the strongest position in this report and the least independently verifiable. The government digital switch connects 105 bodies and 100 national databases, the digital treasury holds verified documents for reuse under a once-only principle, and e-signature and e-seal services are live and integrated with digital identity ([cabinet readout](https://gate.ahram.org.eg/News/5813424.aspx)). No published register of the connected bodies exists, no lawful basis for the sharing is stated, and no role for the data-protection regulator is named in any of it. These are 2026 first measurements, not 2026 achievements: the base carries no connection count at all a year earlier.
+No register of the bodies connected to the government digital switch is published, no lawful basis for the sharing is stated, and the data-protection regulator has no named role in it ([cabinet readout](https://gate.ahram.org.eg/News/5813424.aspx)).
 
-Payments are the deepest measured layer: the instant payment network reached 16 million users and carried EGP 4.2tn in the year to June 2025 ([central bank figures](https://gate.ahram.org.eg/News/5541984.aspx)), on pricing that rested on a renewable board decision rather than an instrument, and lapsed.
+The instant payment network reached 16 million users and carried EGP 4.2tn in the year to June 2025 ([central bank figures](https://gate.ahram.org.eg/News/5541984.aspx)), on pricing that rested on a renewable board decision, which lapsed.
 
-Identity has three biometric channels and no enrolment figure for any of them. A central bank identity app launched in November 2025, an interior ministry biometric platform entered pilot in February 2026 described at launch as the country's first unified such platform, and the ministry's own identity app reached a second version in July 2026. Nothing in the base states how many people use any of them, or what instrument authorises the biometric processing.
+The Central Bank of Egypt and the Association of African Central Banks launched a digital portal for the African Financial Stability Committee on 3 August 2026, the channel for the committee's African Financial Stability Report ([central bank statement](https://english.ahram.org.eg/NewsContent/3/1239/573958/Business/Tech/CBE,-African-central-banks-association-launch-digi.aspx)).
+
+Identity has three biometric channels and no enrolment figure for any of them: a central bank identity app (November 2025), an interior ministry biometric platform in pilot (February 2026), and the ministry's own identity app at version two (July 2026). No instrument authorising the biometric processing is stated.
+
+After citizens found mobile lines registered to them without their knowledge through its My NTRA application, the telecoms regulator stated on 8 August 2026 that such a registration does not by itself establish criminal liability, and that it is revising the registration rules towards biometric subscriber verification ([regulator statement](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242)).
 <!-- /narrative -->
 
 ## Governance and regulation
 
+### Legislation and regulation
+
 | System or instrument | Status | As at |
 |---|---|---|
-| Chairmanship of the Arab AI governance and quantum working groups | [Implemented](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/) | Elected chair of two of six working groups |
 | Child national ID card proposal | [Planned](https://www.youm7.com/story/2026/4/19/%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A%D8%A9-%D8%AA%D8%B9%D9%82%D8%AF-%D9%88%D8%B1%D8%B4%D8%AA%D9%8A-%D8%B9%D9%85%D9%84-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%B1%D9%82%D9%85-%D9%82%D9%88%D9%85%D9%8A/7382985) | Two workshops held on the proposal |
-| Cloud sovereignty cooperation with SAP | [Planned](https://techafricanews.com/2026/03/31/egypt-and-sap-deepen-ties-to-boost-ai-cloud-and-outsourcing-growth/) | Ministerial talks, no instrument signed |
-| Council of State digital transformation plan | [In development](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) | Stated as under way, no deliverable named |
-| Data-protection compliance guidelines and templates | [Implemented](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Published January-February 2026 |
-| Digital Egypt service-coverage targets | [Implemented](https://www.undp.org/egypt/stories/5-facts-you-need-know-about-digital-public-infrastructure) | 242 services now, over 270 by end-2026, about 450 by 2030 |
 | Electronic service of judicial notices | [Implemented](https://techafricanews.com/2026/08/05/egypt-post-and-supreme-judicial-council-digitise-judicial-notices-with-bareedi/) | Cooperation protocol signed at the Supreme Judicial Council's headquarters |
-| National Cybersecurity Strategy | [Implemented, second edition](https://gate.ahram.org.eg/News/5670246.aspx) | Third edition under preparation, stated to the Senate |
-| National data-centre strategy | [In development](https://gate.ahram.org.eg/News/5722522.aspx) | Preparation confirmed on presidential directive |
-| National Open Data Policy | [Implemented, no text or date on record](https://gate.ahram.org.eg/News/5356100.aspx) | Named by the ICT minister as a supporting policy |
-| National Spectrum Strategy 2026-2030 and the 410 MHz award | [Implemented](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos) | US$3.5bn agreement signed with the four operators |
+| Financial Regulatory Authority technology sandbox | [Implemented](https://sis.gov.eg/en/media-center/news/fra-approves-testing-first-2-projects-by-sandbox-digital-ecosystem/) | First two projects cleared to live testing 2026-08-08 |
 | PDPL Executive Regulations, Decree 816 of 2025 | [Implemented, grace period to 2026-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl) | Issued by ministerial decree 2025-11-01, circulated December 2025 |
-| Personal Data Protection Center | [Implemented, enforcement powers from 2026-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl) | Confirmed as supervisory authority by the Executive Regulations |
-| Personal Data Protection Law 151 of 2020 | [Implemented, enforcement from 2026-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl) | Executive Regulations issued 2025-11-01 |
 | Property ID Law | [Implemented, implementing decree not on record](https://invest-gate.me/features/egypt-moves-forward-with-property-id-law-to-digitize-real-estate-sector) | Approved by the House of Representatives 2025-04-27 |
 | Real property register conversion, Manshah section, Sohag | [In development](https://www.youm7.com/story/2026/8/4/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D9%8A%D8%A4%D8%AC%D9%84-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%89-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A3%D8%A9-%D9%81%D9%89/7502518) | Deferred to 2027-07-01 |
 | Regulator unit monitoring AI-manipulated social-media content | [Implemented](https://www.youm7.com/story/2026/7/29/وزير-الاتصالات-وحدة-خاصة-بالجهاز-القومي-لرصد-المخالفات-السلبية-لمواقع/7497055) | Existence disclosed to Cabinet |
 | Regulatory framework for foreign satellite operators | [Implemented](https://digitalpolicyalert.org/change/12368-ntra-regulatory-framework-for-foreign-satellite-operators-providing-telecommunications-services-to-earth-stations-terminals-within-egypt) | Entered into force 2024-07-09, adopted 2023-10-08 with a grace period |
 | Social-media legislative review | [In development](https://www.youm7.com/story/2026/7/29/وزير-الاتصالات-وحدة-خاصة-بالجهاز-القومي-لرصد-المخالفات-السلبية-لمواقع/7497055) | Cabinet agreed a legislative review 2026-07-29 |
 | Standalone digital-privacy statute proposal | [Planned, a member's demand only](https://gate.ahram.org.eg/News/5814479.aspx) | Demand put on the parliamentary record |
-| Transfer-pricing guidance | [Implemented, 2018 edition unrevised](https://www.alborsaanews.com/2026/07/29/1982823) | No update since 2018 |
-| VAT credit-refund period reduction | [Planned](https://www.alborsaanews.com/2026/07/29/1982823) | Awaiting completion of legislative steps |
 | Cybercrime Law 175 of 2018 and its enforcement record | ***Not held*** | — |
-| Data-protection regulator enforcement and licensing record | ***Not held*** | — |
-| Egypt's position on the AU Malabo Convention | ***Not held*** | — |
-| Egyptian national open-data portal | ***Not held*** | — |
-| EU-Egypt digital cooperation instrument | ***Not held*** | — |
 | Executive Regulations 816 of 2025, the instrument itself | ***Not held*** | — |
-| National Artificial Intelligence Strategy, second edition, the document | ***Not held*** | — |
-| Public consultation on the data-protection Executive Regulations | ***Not held*** | — |
 | Telecommunication Regulation Law 10 of 2003 | ***Not held*** | — |
 
+### Strategies, plans and policies
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Digital Egypt service-coverage targets | [Implemented](https://www.undp.org/egypt/stories/5-facts-you-need-know-about-digital-public-infrastructure) | 242 services now, over 270 by end-2026, about 450 by 2030 |
+| National Cybersecurity Strategy | [Implemented, second edition](https://gate.ahram.org.eg/News/5670246.aspx) | Third edition under preparation, stated to the Senate |
+| National data-centre strategy | [In development](https://gate.ahram.org.eg/News/5722522.aspx) | Preparation confirmed on presidential directive |
+| National Spectrum Strategy 2026-2030 and the 410 MHz award | [Implemented](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos) | US$3.5bn agreement signed with the four operators |
+| National Artificial Intelligence Strategy, second edition, the document | ***Not held*** | — |
+
+### Regional collaboration
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Chairmanship of the Arab AI governance and quantum working groups | [Implemented](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/) | Elected chair of two of six working groups |
+| Egypt's position on the AU Malabo Convention | ***Not held*** | — |
+
+### Standards
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Transfer-pricing guidance | [Implemented, 2018 edition unrevised](https://www.alborsaanews.com/2026/07/29/1982823) | No update since 2018 |
+
+### Data protection
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Data-protection compliance guidelines and templates | [Implemented](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Published January-February 2026 |
+| Personal Data Protection Center | [Implemented, enforcement powers from 2026-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl) | Confirmed as supervisory authority by the Executive Regulations |
+| Personal Data Protection Law 151 of 2020 | [Implemented, enforcement from 2026-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl) | Executive Regulations issued 2025-11-01 |
+| Data-protection regulator enforcement and licensing record | ***Not held*** | — |
+
+### Public debate and participation in policymaking
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Council of State digital transformation plan | [In development](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) | Stated as under way, no deliverable named |
+| VAT credit-refund period reduction | [Planned](https://www.alborsaanews.com/2026/07/29/1982823) | Awaiting completion of legislative steps |
+| Public consultation on the data-protection Executive Regulations | ***Not held*** | — |
+
+### EU activities
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Cloud sovereignty cooperation with SAP | [Planned](https://techafricanews.com/2026/03/31/egypt-and-sap-deepen-ties-to-boost-ai-cloud-and-outsourcing-growth/) | Ministerial talks, no instrument signed |
+| EU-Egypt digital cooperation instrument | ***Not held*** | — |
+
+### Open data
+
+| System or instrument | Status | As at |
+|---|---|---|
+| National Open Data Policy | [Implemented, no text or date on record](https://gate.ahram.org.eg/News/5356100.aspx) | Named by the ICT minister as a supporting policy |
+| Egyptian national open-data portal | ***Not held*** | — |
+
 <!-- narrative: governance -->
-Egypt operationalised a five-year-old statute inside this period. The Personal Data Protection Law of 2020 had never been given executive regulations; Decree 816 of 2025 issued them on 1 November 2025, establishing the approvals model, a licence for each cross-border transfer, registered data-protection officers and 72-hour breach notification ([regulations summary](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl)). Enforcement is expected from 1 November 2026.
+The Personal Data Protection Law of 2020 had never been given executive regulations; Decree 816 of 2025 issued them on 1 November 2025, establishing the approvals model, a licence for each cross-border transfer, registered data-protection officers and 72-hour breach notification ([regulations summary](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl)). Enforcement is expected from 1 November 2026.
 
-The gap the regulations were meant to close is visible in the one award on record. The Economic Court of Alexandria ordered an operator to pay EGP 10 million in February 2025 for an unconsented SIM replacement, grounding liability in tort and custodian's liability precisely because the regulations were still pending ([judgment note](https://shehatalaw.com/law-update/legal-alert-egyptian-court-judgment-tightens-enforcement-of-privacy-and-data-protection-laws)). No regulator decision, fine, registration figure or transfer licence appears anywhere in the base at any date.
+The Economic Court of Alexandria ordered an operator to pay EGP 10 million in February 2025 for an unconsented SIM replacement, grounding liability in tort and custodian's liability precisely because the regulations were still pending ([judgment note](https://shehatalaw.com/law-update/legal-alert-egyptian-court-judgment-tightens-enforcement-of-privacy-and-data-protection-laws)). No regulator decision, fine, registration figure or transfer licence appears in the base at any date.
 
-A member called on 20 July 2026 for a comprehensive digital-privacy bill criminalising recording and publication without consent and imposing platform takedown duties, arguing that the Cybercrime Law and the Penal Code are insufficient — without referring to the Personal Data Protection Law at any point ([demand](https://gate.ahram.org.eg/News/5814479.aspx)).
+A member called on 20 July 2026 for a comprehensive digital-privacy bill, arguing that the Cybercrime Law and the Penal Code are insufficient — without referring to the Personal Data Protection Law at any point ([demand](https://gate.ahram.org.eg/News/5814479.aspx)).
 
-Capability is also running ahead of authority. The ICT minister told Cabinet on 29 July 2026 that a regulator unit already detects and acts on artificial-intelligence-manipulated video and imagery, and that legislative amendment is still needed to address the practices at root ([cabinet account](https://www.youm7.com/story/2026/7/29/وزير-الاتصالات-وحدة-خاصة-بالجهاز-القومي-لرصد-المخالفات-السلبية-لمواقع/7497055)). The unit's legal basis, method and appeal route are not stated.
+The ICT minister told Cabinet on 29 July 2026 that a regulator unit already detects and acts on artificial-intelligence-manipulated video and imagery, and that legislative amendment is still needed to address the practices at root ([cabinet account](https://www.youm7.com/story/2026/7/29/وزير-الاتصالات-وحدة-خاصة-بالجهاز-القومي-لرصد-المخالفات-السلبية-لمواقع/7497055)). The unit's legal basis, method and appeal route are not stated.
+
+The financial regulator cleared the first two projects in its non-banking technology sandbox to three-month renewable live testing on 8 August 2026, out of seven given preliminary approval in the sandbox's first year, and one verifies foreign nationals' identities by reading electronic passports with NFC-equipped phones ([authority statement](https://sis.gov.eg/en/media-center/news/fra-approves-testing-first-2-projects-by-sandbox-digital-ecosystem/)).
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
 
+### AI
+
 | System or instrument | Status | As at |
 |---|---|---|
 | Cassava AI Factory, Egypt site | [Planned](https://www.ecofinagency.com/news/2809-49064-africa-s-sovereign-ai-play-cassava-technologies-and-zimbabwean-strive-masiyiwa-720-million-bets) | Egypt placed last in the announced four-country build sequence |
-| Chinese-supplied smart-city surveillance in Egypt | [Implemented](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/) | Egypt included in an eleven-country mapping of Chinese smart-city surveillance |
-| Egypt-United Kingdom ICT cooperation | [Planned](https://itweb.africa/article/egypt-uk-strengthen-ict-cooperation/Pero37Z3YmaMQb6m) | Ministerial meeting with the British ambassador |
 | Egyptian Center for Responsible AI | [Implemented](https://gate.ahram.org.eg/News/5670246.aspx) | Established at the ICT ministry at the end of 2025 |
-| Electronics and handset localisation programme | [Implemented](https://gate.ahram.org.eg/News/5814629.aspx) | Output reached 10 million handsets by end-2025 |
-| Fibre-to-the-room service with Telecom Egypt | [Implemented](https://gate.ahram.org.eg/News/5660818.aspx) | Commercial launch agreement signed, stated as a first in Egypt |
-| Google AI Pro free student subscriptions | [Planned](https://developingtelecoms.com/telecom-technology/data-centres-networks/19091-google-plans-to-build-four-subsea-cable-connectivity-hubs-for-africa.html) | Egypt named among the first eight countries |
-| Huawei Cloud Egypt region | [Implemented](https://techafricanews.com/2026/06/15/huawei-cloud-strengthens-egypts-fintech-ecosystem-with-secure-cloud-and-ai-innovations/) | First Huawei public cloud region in Egypt launched 2024 |
-| InfiniLink | [Discontinued](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Acquired by a United States chip manufacturer, November 2025 |
 | Karnak Arabic large language model | [Implemented](https://gate.ahram.org.eg/News/5670246.aspx) | Stated by the ministry as developed by the applied innovation centre and available for startups to build on |
-| Konecta Egypt regional headquarters and generative-AI centre | [Implemented](https://itweb.africa/article/konecta-launches-genai-hub-in-egypt/8OKdWMDXxYOMbznQ) | Facility inaugurated in New Cairo with the ICT minister present |
-| Mediterranean capacity partnership with Cisco | [Implemented](https://gate.ahram.org.eg/News/5081510.aspx) | Partnership announced to activate Port Said-Genoa-Marseille capacity |
 | National Artificial Intelligence Strategy, second edition | [Implemented](https://gate.ahram.org.eg/News/5670246.aspx) | Second edition launched early 2025, covering 2025-2030 |
 | National Council for AI, Quantum Computing and Emerging Technologies | [Implemented](https://gate.ahram.org.eg/News/5670246.aspx) | Remit widened from artificial intelligence to quantum computing and emerging technologies |
 | National quantum computing strategy | [In development](https://gate.ahram.org.eg/News/5670246.aspx) | Under preparation, no publication date |
-| Stakpak | [Discontinued](https://techafricanews.com/2026/07/20/vercel-acquires-talent-behind-egypts-stakpak-to-build-agentic-infrastructure/) | Team joined a United States platform company, announced 2026-07-20 |
-| Systems Limited Egypt delivery centre | [Implemented](https://www.youm7.com/story/2026/7/31/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9/7498718) | New Smart Village headquarters opened; expansion plans put to the ICT ministry |
-| Technology parks programme | [In development](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) | Six parks under development at Minya, Menoufiya, Mansoura, Sohag, Qena and Aswan |
 | Applied Innovation Centre | ***Not held*** | — |
 | Artificial intelligence contribution to Egyptian GDP | ***Not held*** | — |
 | Egypt's AI-specific statute or regulation | ***Not held*** | — |
 | Egyptian Charter for Responsible AI (2023) | ***Not held*** | — |
+
+### ICT Industry
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Egypt-United Kingdom ICT cooperation | [Planned](https://itweb.africa/article/egypt-uk-strengthen-ict-cooperation/Pero37Z3YmaMQb6m) | Ministerial meeting with the British ambassador |
+| Electronics and handset localisation programme | [Implemented](https://gate.ahram.org.eg/News/5814629.aspx) | Output reached 10 million handsets by end-2025 |
+| Konecta Egypt regional headquarters and generative-AI centre | [Implemented](https://itweb.africa/article/konecta-launches-genai-hub-in-egypt/8OKdWMDXxYOMbznQ) | Facility inaugurated in New Cairo with the ICT minister present |
+| Systems Limited Egypt delivery centre | [Implemented](https://www.youm7.com/story/2026/7/31/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9/7498718) | New Smart Village headquarters opened; expansion plans put to the ICT ministry |
+| Technology parks programme | [In development](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) | Six parks under development at Minya, Menoufiya, Mansoura, Sohag, Qena and Aswan |
+| Venduo B2B fashion and textiles marketplace | [Implemented](https://techafricanews.com/2026/08/10/venduo-processes-egp-40m-in-transactions-as-digital-b2b-fashion-marketplace-expands/) | About EGP 40m in platform transactions reported since launch |
+
+### Innovation ecosystem
+
+| System or instrument | Status | As at |
+|---|---|---|
+| InfiniLink | [Discontinued](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Acquired by a United States chip manufacturer, November 2025 |
+| Stakpak | [Discontinued](https://techafricanews.com/2026/07/20/vercel-acquires-talent-behind-egypts-stakpak-to-build-agentic-infrastructure/) | Team joined a United States platform company, announced 2026-07-20 |
+
+### US / hyperscaler activities
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Google AI Pro free student subscriptions | [Planned](https://developingtelecoms.com/telecom-technology/data-centres-networks/19091-google-plans-to-build-four-subsea-cable-connectivity-hubs-for-africa.html) | Egypt named among the first eight countries |
+| Mediterranean capacity partnership with Cisco | [Implemented](https://gate.ahram.org.eg/News/5081510.aspx) | Partnership announced to activate Port Said-Genoa-Marseille capacity |
+
+### China activities
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Chinese-supplied smart-city surveillance in Egypt | [Implemented](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/) | Egypt included in an eleven-country mapping of Chinese smart-city surveillance |
+| Fibre-to-the-room service with Telecom Egypt | [Implemented](https://gate.ahram.org.eg/News/5660818.aspx) | Commercial launch agreement signed, stated as a first in Egypt |
+| Huawei Cloud Egypt region | [Implemented](https://techafricanews.com/2026/06/15/huawei-cloud-strengthens-egypts-fintech-ecosystem-with-secure-cloud-and-ai-innovations/) | First Huawei public cloud region in Egypt launched 2024 |
+
+### India activities
+
+| System or instrument | Status | As at |
+|---|---|---|
+| India-Egypt technology cooperation | [Planned, no instrument signed](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/) | Ministerial meeting on the sidelines of the BRICS Industry Ministers' Meeting, Jaipur |
+
+### Gulf/UAE activities
+
+| System or instrument | Status | As at |
+|---|---|---|
 | Gulf-state technology investment in Egypt | ***Not held*** | — |
-| India-Egypt technology cooperation | ***Not held*** | — |
 
 <!-- narrative: ai-tech -->
-Egypt's artificial intelligence apparatus is institutional rather than documentary. The second edition of the National AI Strategy has been in force since early 2025 on six stated pillars, and a responsible-AI centre was established inside the ICT ministry at the end of 2025; the strategy text itself is not held, so its content is known only from ministerial summaries. The national council that owns it was widened to cover quantum computing and emerging technologies, and is preparing a quantum strategy, on a date and by an instrument neither of which is stated.
+The second edition of the National AI Strategy has been in force since early 2025 on six stated pillars, and a responsible-AI centre was established inside the ICT ministry at the end of 2025; the strategy text itself is not held, so its content is known only from ministerial summaries. The national council that owns it was widened to cover quantum computing and emerging technologies, and is preparing a quantum strategy; the date of the widening and the instrument are not stated.
 
 The state's own model is described but not documented: an Arabic large language model attributed to an applied innovation centre, with no release date, licence or access terms held, and a centre with no establishment date, mandate or funding on file.
 
-Where Egypt has moved furthest is regional position. It was elected on 31 July 2026 to chair both the AI Governance and Quantum Computing working groups of the Arab Permanent Committee for AI and Emerging Technologies ([election account](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/)).
+Egypt was elected on 31 July 2026 to chair both the AI Governance and Quantum Computing working groups of the Arab Permanent Committee for AI and Emerging Technologies ([election account](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/)).
 
-The sector's own measures are ministerial and unreconciled: outsourcing exports for 2025 are stated at US$4.8bn by one minister and US$5.2bn by his successor, neither citing an underlying series ([ministerial briefing](https://gate.ahram.org.eg/News/5814629.aspx)). Nothing at all is held on Gulf or Indian technology engagement with Egypt, which given Gulf capital's documented role in Egyptian infrastructure is a coverage hole rather than a finding.
+The sector's own measures are ministerial and unreconciled: outsourcing exports for 2025 are stated at US$4.8bn by one minister and US$5.2bn by his successor, neither citing an underlying series ([ministerial briefing](https://gate.ahram.org.eg/News/5814629.aspx)).
+
+The industry ministers of Egypt and India agreed on 7 August 2026 to study priority sectors for industrial integration, financial technology among them, and discussed linking the two countries' payment systems and settling trade in local currencies; no instrument was signed ([meeting account](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/)). Nothing is held on Gulf technology engagement with Egypt.
+
+Venduo, described by its founders as Egypt's first digital B2B marketplace for fashion and textiles, has processed about EGP 40m in transactions since launch, EGP 20m of that in the first half of 2026, connecting 8,000 brands and designers with more than 2,000 contract manufacturers; international brands including Zara, Adidas, Nike and Mango account for about 30% of platform brands ([company account](https://techafricanews.com/2026/08/10/venduo-processes-egp-40m-in-transactions-as-digital-b2b-fashion-marketplace-expands/)).
 <!-- /narrative -->
 
-## Inclusion, capacity and finance
+## Inclusion and capacity
+
+### Digital divides
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Presidential initiative on digital accessibility of government websites | [Piloting](https://gate.ahram.org.eg/News/5882651.aspx) | Accessibility toolbar published on the ICT ministry's own website |
+| Affordability of connectivity relative to income | ***Not held*** | — |
+| Gender gap in internet and mobile-internet use | ***Not held*** | — |
+
+### Access to services
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Ration-card grievance data update at post offices | [Implemented](https://www.elwatannews.com/news/details/8325610) | Service began at 500 post offices |
+| Internet use as a share of population | ***Not held*** | — |
+| Postal service digital services and post-office digitisation | ***Not held*** | — |
+| Universal service fund or universal service obligation | ***Not held*** | — |
+
+### Training and skills
 
 | System or instrument | Status | As at |
 |---|---|---|
 | AI Capacity Building Initiative for Universities | [Implemented](https://gate.ahram.org.eg/News/5882834.aspx) | Fourth round closed 2026-08-04 |
-| Blnk consumer lending facility | [Implemented](https://techcabal.com/2026/06/08/egypts-blnk-raises-37-million-to-expand-lending/) | US$37.1m raise announced |
-| Central bank cooperation with Eswatini | [Implemented](https://techafricanews.com/2026/07/21/egypt-and-eswatini-central-banks-deepen-cooperation-on-digital-payments-and-banking/) | Governors' meeting reported; event date not stated |
-| Central bank memorandum with Afreximbank on a pan-African Gold Bank | [Planned](https://www.cbe.org.eg/en/news-publications/news/2025/12/30/08/37/gold-bank-programme-in-egypt) | Memorandum of understanding signed |
 | Cybersecurity SuperHero Academy | [Implemented](https://gate.ahram.org.eg/News/5725761.aspx) | Third edition opened for registration 2026-07-06 |
-| Egypt Startup Charter and unified financing initiative | [Planned](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Framework reported as being prepared |
-| Fawry point-of-sale integration partnership | [Implemented](https://techafricanews.com/2026/07/21/fawry-partners-with-crystal-mind-to-integrate-pos-and-digital-payments/) | Partnership signing announced |
-| Hassan Allam Digital Infrastructure data-centre licence | [In development](https://www.wearetech.africa/en/fils-uk/news/egypt-bets-on-data-centers-and-ai-to-drive-digital-economy-growth) | Regulator licence granted, reported 2026-06-16 |
-| Memorandum on a regional IT outsourcing delivery centre | [Planned](https://techafricanews.com/2026/07/06/ey-mena-chooses-egypt-for-regional-it-outsourcing-delivery-center/) | Memorandum of understanding signed with the IT industry agency |
-| Presidential initiative on digital accessibility of government websites | [Piloting](https://gate.ahram.org.eg/News/5882651.aspx) | Accessibility toolbar published on the ICT ministry's own website |
-| Ration-card grievance data update at post offices | [Implemented](https://www.elwatannews.com/news/details/8325610) | Service began at 500 post offices |
-| Sale of a majority stake in the Regional Data Center Hub | [Discontinued](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale) | Telecom Egypt board withdrew from the agreement |
-| Sinai hyperscale data centre proposal | [Planned](https://gate.ahram.org.eg/News/5579894.aspx) | Proposal put to the investment and foreign trade minister |
-| Affordability of connectivity relative to income | ***Not held*** | — |
+| Enrolment and graduate numbers for the named national training programmes | ***Not held*** | — |
+
+### Research institutions
+
+| System or instrument | Status | As at |
+|---|---|---|
 | Applied Innovation Centre research programme and model documentation | ***Not held*** | — |
 | Compute access for Egyptian researchers | ***Not held*** | — |
-| Economic and Social Development Plan FY2026/2027 | ***Not held*** | — |
-| Enrolment and graduate numbers for the named national training programmes | ***Not held*** | — |
-| Gender gap in internet and mobile-internet use | ***Not held*** | — |
-| Internet use as a share of population | ***Not held*** | — |
 | National research and development spending on artificial intelligence and digital technologies | ***Not held*** | — |
-| Postal service digital services and post-office digitisation | ***Not held*** | — |
-| Startup Charter EGP 50bn financing initiative, appropriation and disbursement | ***Not held*** | — |
-| State appropriation for digital transformation and for the ICT ministry | ***Not held*** | — |
-| Universal service fund or universal service obligation | ***Not held*** | — |
 
 <!-- narrative: inclusion -->
 Egypt's inclusion measures are almost entirely central bank measures, and they are strong. Financial inclusion reached 77.6% of adults at end-2025 — 54.7 million of 70.5 million people — from 27.4% in 2016, with women at 71.4% ([central bank](https://english.ahram.org.eg/NewsContent/3/562552/Business/Egypt-financial-inclusion-rate.aspx)). More than 55.5 million mobile wallet accounts transacted about EGP 1.8tn to June 2025.
@@ -243,7 +401,42 @@ Training is measured by programme rather than nationally. A university artificia
 
 The accessibility position is a demonstration rather than a standard: a toolbar published on the ICT ministry's own site on 4 August 2026 under a presidential initiative, with no deadline, list of bound entities, conformance level or audit route stated ([ministry account](https://gate.ahram.org.eg/News/5882651.aspx)).
 
+Enforcement of ration-card eligibility criteria, applied strictly from June 2026, removed about 850,000 cards from the subsidy system; only 2,600 appeals were filed, about 0.3%, a rate the supply ministry now attributes to document hurdles rather than to accuracy — applicants must obtain proof from other agencies, such as the traffic department certifying they own no vehicle, before an appeal can be assessed, and name collisions or stale records require correction at the agency holding the original data ([ministry account](https://manassa.news/en/news/33209)). A comparable enforcement round in 2019 drew objection that led to about 1.8 million reinstatements under presidential directive.
+
 What Egypt commits in money is unestablished. There is no domestic budget archive for Egypt, and the FY2026/2027 development plan is not held, so no appropriation figure in this report rests on a state budget document.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Blnk consumer lending facility | [Implemented](https://techcabal.com/2026/06/08/egypts-blnk-raises-37-million-to-expand-lending/) | US$37.1m raise announced |
+| Egypt Startup Charter and unified financing initiative | [Implemented, certification launched](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | First Startup Label Certificates issued, one recipient named |
+| Hassan Allam Digital Infrastructure data-centre licence | [In development](https://www.wearetech.africa/en/fils-uk/news/egypt-bets-on-data-centers-and-ai-to-drive-digital-economy-growth) | Regulator licence granted, reported 2026-06-16 |
+| Sale of a majority stake in the Regional Data Center Hub | [Discontinued](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale) | Telecom Egypt board withdrew from the agreement |
+| Sinai hyperscale data centre proposal | [Planned](https://gate.ahram.org.eg/News/5579894.aspx) | Proposal put to the investment and foreign trade minister |
+
+### MoUs and other agreements
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Central bank cooperation with Eswatini | [Implemented](https://techafricanews.com/2026/07/21/egypt-and-eswatini-central-banks-deepen-cooperation-on-digital-payments-and-banking/) | Governors' meeting reported; event date not stated |
+| Central bank memorandum with Afreximbank on a pan-African Gold Bank | [Planned](https://www.cbe.org.eg/en/news-publications/news/2025/12/30/08/37/gold-bank-programme-in-egypt) | Memorandum of understanding signed |
+| Fawry point-of-sale integration partnership | [Implemented](https://techafricanews.com/2026/07/21/fawry-partners-with-crystal-mind-to-integrate-pos-and-digital-payments/) | Partnership signing announced |
+| Memorandum on a regional IT outsourcing delivery centre | [Planned](https://techafricanews.com/2026/07/06/ey-mena-chooses-egypt-for-regional-it-outsourcing-delivery-center/) | Memorandum of understanding signed with the IT industry agency |
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Economic and Social Development Plan FY2026/2027 | ***Not held*** | — |
+| Startup Charter EGP 50bn financing initiative, appropriation and disbursement | ***Not held*** | — |
+| State appropriation for digital transformation and for the ICT ministry | ***Not held*** | — |
+
+<!-- narrative: finance -->
+The Startup Charter's certification track has begun operating, ahead of confirmation on its financing. UMAMI E-Learning Solutions was named as one of the first Egyptian companies awarded the Startup Label Certificate under the Charter, assessed on innovation, technological reliance, scalability and investment readiness ([company account](https://techafricanews.com/2026/08/10/umami-launches-ai-powered-learning-operating-system-for-mena-institutions/)). No cumulative certification count is held, and no appropriation or disbursement record for the stated EGP 50bn unified financing initiative accompanies it.
 <!-- /narrative -->
 
 ## Gaps to fill
@@ -292,7 +485,6 @@ What Egypt commits in money is unestablished. There is no domestic budget archiv
 | Applied Innovation Centre | A founding instrument, budget line or annual report; the centre is named in three sources as the developer of the Arabic model but has no establishment date, mandate or funding on file | not yet probed |
 | Artificial intelligence contribution to Egyptian GDP | The study behind the widely quoted figure of about US$42.7bn or 7.7% of GDP by 2030; no source on file establishes it, and the entity page expressly declines to carry it | not yet probed |
 | Gulf-state technology investment in Egypt | Any source at all; the wiki holds zero Egypt sources on this subject, so no UAE, Saudi or Qatari technology or data-centre commitment can be stated, dated or sized | not yet probed |
-| India-Egypt technology cooperation | Any source at all; the wiki holds zero Egypt sources on this subject, so no bilateral IT, digital-public-infrastructure or outsourcing arrangement with India can be stated | not yet probed |
 | State appropriation for digital transformation and for the ICT ministry | The finance ministry's published FY2026/2027 budget chapters for the communications ministry, or the ICT chapter of the Economic and Social Development Plan; there is no budget archive for Egypt and the plan document is not held | not yet probed |
 | Economic and Social Development Plan FY2026/2027 | The plan document from the planning ministry or as laid before Parliament; the wiki records at 2026-08-04 that it is not held and that the ministry site serves no plan document | not yet probed |
 | Startup Charter EGP 50bn financing initiative, appropriation and disbursement | The cabinet decision or finance law establishing the fund, and the managing body's first disbursement report | not yet probed |

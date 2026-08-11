@@ -1,0 +1,7 @@
+row_id,place,subject,section,name,what_would_settle_it,probe_at,disposition
+SYC-infra.energy-none,SYC,infra.energy,Infrastructure,National policy linking digital infrastructure to energy supply,"A national policy, strategy or programme document connecting power reliability or generation to digital-infrastructure planning.",,
+SYC-digital.rural-none,SYC,digital.rural,Digital public infrastructure,Dedicated rural digital-service programme,"A programme document or budget line for outer-island or rural digital-service delivery, distinct from the Starlink market entry.",,
+SYC-digital.localgov-none,SYC,digital.localgov,Digital public infrastructure,Digitisation of district-administration systems,"A district-administration system specification or digitisation programme document.",,
+SYC-geopol.eu-none,SYC,geopol.eu,Governance and regulation,European Union digital cooperation with Seychelles,"Any EU or European Investment Bank digital financing, programme or memorandum covering Seychelles.",,
+SYC-geopol.gulf-none,SYC,geopol.gulf,Artificial intelligence and the technology sector,Gulf-state digital investment in Seychelles,"Any Gulf-state investment, financing or memorandum covering Seychellois digital infrastructure.",,
+SYC-finance.budget-none,SYC,finance.budget,Finance,Domestic-state digital-transformation budget line,"A Seychelles government budget document or appropriation line for digital transformation.",,

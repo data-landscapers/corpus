@@ -11,3 +11,5 @@ non-state,US$m,include.access,Access to services,,,,,2,,3,,,,
 non-state,US$m,tech.industry,ICT Industry,4,,,,,,,,,,
 non-state,US$m,include.divides,Digital divides,,,,,,,3,,,,
 non-state,US$m,infra.cybersec,Cybersecurity,,,,2,,,,,,,
+excluded,,nobase,no enacted baseline (⚠ no appropriated figure — revised/outturn only),,,,,,,,,,1,
+excluded,,scope,partial- or unclear-scope,,,,,,,,,,1,110
