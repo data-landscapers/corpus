@@ -3,10 +3,12 @@
 
     python build/home.py   ->  site/index.html
 
-Promoted from prototypes/build-home-page.py once the wireframe was agreed.
-The shape, in order: a two-line statement of what the corpus is; four cards
-(Countries, Topics, Finance, Catalogue); documents by year and by the last
-six months; a box per country; a box per Level-1 subject.
+Promoted from prototypes/build-home-page.py once the wireframe was agreed;
+revised 2026-08-11 to Bill's numbered change list. The shape, in order: the
+header mirrors data-landscapers.com's own nav with Corpus added on the left;
+a second nav bar for the corpus sections; a highlighted total/this-year/
+this-month stat bar; a two-line statement of what the corpus is; Countries,
+Regions and Topics as heading, intro text and a box matrix each.
 
 **Where the numbers come from.** `REPO-STATUS.md` will write nightly counts
 into `outputs/catalogue/stats.json` (NOTES-FOR-OSINT.md #8). Until it does,
@@ -14,15 +16,9 @@ this reads `upstream/catalogue/raw-catalogue.csv` and counts the same things
 itself — `load_stats()` prefers the published file and falls back, so the
 page is right today and needs no rewrite when the file lands.
 
-Two caveats are structural rather than decorative, and travel with their
-numbers on the page because they are the numbers a reader would otherwise
-misquote:
-
-- **The month table measures capture, not activity.** Its shape is set by
-  when the sweeps ran, not by how much happened in Africa (`REPO-STATUS.md`).
-- **A document tagged with several places is counted under each**, so the
-  country boxes sum to more than the document total. They measure coverage,
-  not documents.
+**A document tagged with several places is counted under each**, so the
+country and region boxes sum to more than the document total — they measure
+coverage, not documents, and the caveat travels with them on the page.
 
 Country and topic boxes link to `{SITE_BASE}/countries/{ISO3}/` and
 `{SITE_BASE}/topics/{slug}/` regardless of whether those pages exist yet —
@@ -55,7 +51,7 @@ STATS_SHAPE = """{
   "by_topic": {"dpi.id": 0}      # topics facet; roll-up to Level 1 by prefix
 }"""
 
-# Level-1 labels from `lookups/taxonomy.md`, and country names from
+# Level-1 labels from `lookups/taxonomy.md`, and country/region names from
 # `lookups/countries.csv` — both in OSINT, neither in `outputs/`. The build is
 # not allowed to read outside `outputs/` (NOTES-FOR-OSINT.md), so for now they
 # are duplicated here. Two copies of one vocabulary is exactly the failure
@@ -68,32 +64,61 @@ L1 = {
     "data": "Data", "finance": "Finance",
 }
 
-CARDS = [
-    ("Countries", "countries/", [
-        "Fifty-four countries, each with a status report, a monthly update and a twelve-month progress report.",
-        "Every system and instrument carries the date its position was established, because most of them change.",
-        "Where the base holds no reliable statement, the country page says so and counts it.",
-        "Coverage is deliberately uneven. The record goes deep where the work is, and stays thin elsewhere.",
-    ]),
-    ("Topics", "topics/", [
-        "A controlled vocabulary in a strict single-parent tree, so a category rolls up to every topic beneath it.",
-        "A source carries as many topics as it evidences, and is counted under each of them.",
-        "Data protection, digital identity, cross-border data flows, connectivity, artificial intelligence and the rest.",
-        "Each topic resolves to the documents that evidence it, not to a summary of them.",
-    ]),
-    ("Finance", "data/finance/", [
-        "Commitments to the digital sector from financiers other than the state.",
-        "Development finance institutions, foundations, vendors and operators, at one row per commitment.",
-        "Amounts are given as announced, in the currency announced, converted at a dated rate.",
-        "These are commitments rather than disbursements, and nothing here implies the money was spent.",
-    ]),
-    ("Catalogue", "catalogue/", [
-        "Title, publisher, date, facets and the publisher's own link, for every source held.",
-        "Metadata only. The catalogue points at the original and never republishes it.",
-        "Filter by place, topic and year; a filtered view keeps its own address, so it can be cited.",
-        "Access to the full base, source bodies included, is granted on request.",
-    ]),
-]
+# Short display names for the country matrix (Bill, 2026-08-11 — "replace
+# ISO-3 with short country names (eg DRC)"). Full names come from
+# `lookups/countries.csv`; a handful are shortened further so they fit a box
+# the width of a code. The ISO3 stays as a `title` attribute on each box.
+COUNTRY_NAMES = {
+    "AGO": "Angola", "BDI": "Burundi", "BEN": "Benin", "BFA": "Burkina Faso",
+    "BWA": "Botswana", "CAF": "CAR", "CIV": "Côte d'Ivoire", "CMR": "Cameroon",
+    "COD": "DRC", "COG": "Congo", "COM": "Comoros", "CPV": "Cape Verde",
+    "DJI": "Djibouti", "DZA": "Algeria", "EGY": "Egypt", "ERI": "Eritrea",
+    "ETH": "Ethiopia", "GAB": "Gabon", "GHA": "Ghana", "GIN": "Guinea",
+    "GMB": "Gambia", "GNB": "Guinea-Bissau", "GNQ": "Eq. Guinea", "KEN": "Kenya",
+    "LBR": "Liberia", "LBY": "Libya", "LSO": "Lesotho", "MAR": "Morocco",
+    "MDG": "Madagascar", "MLI": "Mali", "MOZ": "Mozambique", "MRT": "Mauritania",
+    "MUS": "Mauritius", "MWI": "Malawi", "NAM": "Namibia", "NER": "Niger",
+    "NGA": "Nigeria", "RWA": "Rwanda", "SDN": "Sudan", "SEN": "Senegal",
+    "SLE": "Sierra Leone", "SOM": "Somalia", "SSD": "South Sudan",
+    "STP": "São Tomé", "SWZ": "Eswatini", "SYC": "Seychelles", "TCD": "Chad",
+    "TGO": "Togo", "TUN": "Tunisia", "TZA": "Tanzania", "UGA": "Uganda",
+    "ZAF": "South Africa", "ZMB": "Zambia", "ZWE": "Zimbabwe",
+}
+
+# Region and bloc codes (the `X`-prefixed places) — same source and caveat.
+REGION_NAMES = {
+    "XAF": "Africa", "XCA": "Central Africa", "XEA": "East Africa",
+    "XGL": "Global", "XNA": "North Africa", "XSA": "Southern Africa",
+    "XSS": "Sub-Saharan Africa", "XWA": "West Africa",
+}
+
+# Intro copy under the Countries and Topics headings is the text that used to
+# sit in those two cards, unchanged, moved rather than rewritten. Regions has
+# no prior card to draw from, so this paragraph is new (Bill should read it).
+COUNTRIES_INTRO = (
+    "Fifty-four countries, each with a status report, a monthly update and a "
+    "twelve-month progress report. Every system and instrument carries the "
+    "date its position was established, because most of them change. Where "
+    "the base holds no reliable statement, the country page says so and "
+    "counts it. Coverage is deliberately uneven: the record goes deep where "
+    "the work is, and stays thin elsewhere."
+)
+REGIONS_INTRO = (
+    "Sources tagged to a region, a bloc or the continent as a whole, rather "
+    "than to a single named country — the African Union, ECOWAS, SADC and "
+    "the other regional bodies, plus the broader continental and cross-"
+    "regional tags. A source is filed under a country whenever it names one; "
+    "these are what is left. Eight groupings are tracked here, from the four "
+    "sub-regions to the continental and global tags."
+)
+TOPICS_INTRO = (
+    "A controlled vocabulary in a strict single-parent tree, so a category "
+    "rolls up to every topic beneath it. A source carries as many topics as "
+    "it evidences, and is counted under each of them. Data protection, "
+    "digital identity, cross-border data flows, connectivity, artificial "
+    "intelligence and the rest. Each topic resolves to the documents that "
+    "evidence it, not to a summary of them."
+)
 
 csv.field_size_limit(10 ** 9)
 
@@ -130,44 +155,10 @@ def load_stats() -> dict:
     }
 
 
-def year_bands(by_year: dict[str, int], cut: int = 2022) -> list[tuple[str, int]]:
-    """The wireframe's bands: everything before 2022, then a column a year.
-    Older material is one band because it is a baseline, not a trend."""
-    older = sum(v for y, v in by_year.items() if y.isdigit() and int(y) < cut)
-    bands = [(f"&le;{cut - 1}", older)]
-    for y in range(cut, max(int(y) for y in by_year if y.isdigit()) + 1):
-        bands.append((str(y), by_year.get(str(y), 0)))
-    return bands
-
-
-def last_months(by_month: dict[str, int], n: int = 6) -> list[tuple[str, int]]:
-    keys = sorted(k for k in by_month if len(k) == 7)[-n:]
-    names = ("January February March April May June July August September "
-             "October November December").split()
-    return [(f"{names[int(k[5:]) - 1]} {k[:4]}", by_month[k]) for k in keys]
-
-
 # ── rendering ─────────────────────────────────────────────────────
 
 def e(s: str) -> str:
     return html.escape(str(s))
-
-
-def bar_table(rows: list[tuple[str, int]], label: str) -> str:
-    """A count table that also shows its own shape. The bar is a background on
-    the row, not a chart: it needs no library and it degrades to a plain table."""
-    top = max(v for _, v in rows) or 1
-    body = "\n".join(
-        f'<tr><th scope="row">{k}</th>'
-        f'<td class="barcell"><span class="bar" style="width:{v / top * 100:.1f}%"></span>'
-        f'<span class="barnum">{v:,}</span></td></tr>'
-        for k, v in rows)
-    return f"""<table class="bars">
-        <caption>{label}</caption>
-        <tbody>
-{body}
-        </tbody>
-      </table>"""
 
 
 def country_boxes(by_place: dict[str, int]) -> str:
@@ -175,13 +166,28 @@ def country_boxes(by_place: dict[str, int]) -> str:
     presenting as even coverage. Every box links to its country page whether or
     not that page is built yet (DESIGN.md §8: pull exhaustively, publish
     selectively) — a live link that 404s until the page lands is honest about
-    what the base holds; hiding it would not be."""
+    what the base holds; hiding it would not be. Labelled with the short name
+    (Bill, 2026-08-11); the ISO3 survives as a `title` attribute."""
     codes = sorted(c for c in by_place if not c.startswith("X"))
     top = max(by_place[c] for c in codes) or 1
     return "\n".join(
-        f'<a class="box" href="{SITE_BASE}/countries/{c}/"'
+        f'<a class="box" href="{SITE_BASE}/countries/{c}/" title="{c}"'
         f' style="--fill:{by_place[c] / top:.3f}">'
-        f'<span class="box__k">{c}</span><span class="box__n">{by_place[c]:,}</span></a>'
+        f'<span class="box__k">{e(COUNTRY_NAMES.get(c, c))}</span>'
+        f'<span class="box__n">{by_place[c]:,}</span></a>'
+        for c in codes)
+
+
+def region_boxes(by_place: dict[str, int]) -> str:
+    """Same shape as country_boxes, over the `X`-prefixed region and bloc
+    codes rather than countries (Bill, 2026-08-11, item 8)."""
+    codes = sorted(c for c in by_place if c.startswith("X"))
+    top = max(by_place[c] for c in codes) or 1
+    return "\n".join(
+        f'<a class="box" href="{SITE_BASE}/regions/{c}/" title="{c}"'
+        f' style="--fill:{by_place[c] / top:.3f}">'
+        f'<span class="box__k">{e(REGION_NAMES.get(c, c))}</span>'
+        f'<span class="box__n">{by_place[c]:,}</span></a>'
         for c in codes)
 
 
@@ -220,22 +226,43 @@ TEMPLATE = """<!DOCTYPE html>
 
   <header class="site-header">
     <div class="site-header__inner">
-      <a href="{base}/" class="site-logo">
+      <a href="{main_site}/" class="site-logo">
         <img src="assets/logo.png" alt="Data Landscapers" class="site-logo__img">
         <span class="site-logo__text">Data Landscapers
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
       <nav class="site-nav" aria-label="Main navigation">
-        <a href="{base}/countries/">Countries</a>
-        <a href="{base}/regions/">Regions</a>
-        <a href="{base}/topics/">Topics</a>
-        <a href="{base}/catalogue/">Catalogue</a>
-        <a href="{base}/data/">Data</a>
-        <a href="{base}/method/">Method</a>
+        <a href="{base}/" class="active">Corpus</a>
+        <a href="{main_site}/writing/">Writing</a>
+        <a href="{main_site}/lab/">Lab</a>
+        <a href="{main_site}/portfolio/">Portfolio</a>
+        <a href="{main_site}/about/">About</a>
+        <a href="{main_site}/contact/">Contact</a>
+        <a href="{main_site}/search/">Search</a>
       </nav>
     </div>
   </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="{base}/#countries/">Countries</a>
+      <a href="{base}/#regions/">Regions</a>
+      <a href="{base}/#topics/">Topics</a>
+      <a href="{base}/finance/">Finance</a>
+      <a href="{base}/catalogue/">Catalogue</a>
+      <a href="{base}/method/">Method</a>
+    </div>
+  </nav>
+
+  <div class="stat-bar">
+    <div class="stat-bar__inner">
+      <span class="stat-bar__label">Primary sources in corpus</span>
+      <span class="stat-bar__item">Total <strong>{docs}</strong></span>
+      <span class="stat-bar__item">Published this year <strong>{docs_year}</strong></span>
+      <span class="stat-bar__item">Published this month <strong>{docs_month}</strong></span>
+    </div>
+  </div>
 
   <main id="main">
   <div class="container">
@@ -245,29 +272,22 @@ TEMPLATE = """<!DOCTYPE html>
       <p class="hero__sub"><span class="n">{docs}</span> sources behind three reports for every country, with every figure dated to when it was true and every gap counted rather than left silent.</p>
     </div>
 
-    <div class="cards">
-{cards}
-    </div>
-
-    <div class="section-label">What the base holds</div>
-    <div class="two-up">
-      <div>
-{by_year}
-        <p class="caveat">Publication year of each source. Everything published before {cut} is held as one band, because it is the baseline the record starts from rather than a trend.</p>
-      </div>
-      <div>
-{by_month}
-        <p class="caveat"><strong>This measures capture, not activity.</strong> The shape of it is set by when the sweeps ran and which countries were being initialised &mdash; a month with more documents is a month the base collected more, not a month in which more happened.</p>
-      </div>
-    </div>
-
-    <div class="section-label">Countries</div>
+    <h2 class="section-heading" id="countries">Countries</h2>
+    <p class="section-intro">{countries_intro}</p>
     <div class="boxes">
 {countries}
     </div>
-    <p class="caveat">Sources held per country. A source tagged to several countries is counted under each, so these sum to more than the total above: they measure coverage, not documents. A further {regional} are tagged to a region or bloc rather than to a country.</p>
+    <p class="caveat">Sources held per country. A source tagged to several countries is counted under each, so these sum to more than the country total above: they measure coverage, not documents.</p>
 
-    <div class="section-label">Topics</div>
+    <h2 class="section-heading" id="regions">Regions</h2>
+    <p class="section-intro">{regions_intro}</p>
+    <div class="boxes">
+{regions}
+    </div>
+    <p class="caveat">{regional} sources are tagged to a region or bloc rather than to a country, and are not counted in the Countries figures above.</p>
+
+    <h2 class="section-heading" id="topics">Topics</h2>
+    <p class="section-intro">{topics_intro}</p>
     <div class="tboxes">
 {topics}
     </div>
@@ -308,29 +328,18 @@ def build() -> Path:
     by_place = s["by_place"]
     regional = sum(v for k, v in by_place.items() if k.startswith("X"))
 
-    cards = "\n".join(
-        f"""      <a class="card" href="{SITE_BASE}/{href}">
-        <h2>{title}</h2>
-        <div class="card__n">{sub}</div>
-        <ul>{"".join(f"<li>{line}</li>" for line in lines)}</ul>
-        <div class="card__go">Browse {title.lower()} &rarr;</div>
-      </a>"""
-        for (title, href, lines), sub in zip(CARDS, (
-            f"{len([c for c in by_place if not c.startswith('X')])} countries",
-            f"{len({t.split('.')[0] for t in s['by_topic']})} categories, "
-            f"{len(s['by_topic'])} topics",
-            "commitments, by country and sector",
-            f"{s['documents']:,} records, metadata only")))
-
     commit = (UPSTREAM / "BUILT-FROM").read_text(encoding="utf-8").strip()[:12]
     built = date.today().isoformat()
+    this_year, this_month = built[:4], built[:7]
     doc = TEMPLATE.format(
         base=SITE_BASE, main_site=MAIN_SITE, built=built, commit=commit,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
-        docs=f"{s['documents']:,}", cut=2022, cards=cards, year=built[:4],
-        by_year=bar_table(year_bands(s["by_year"]), "Sources by publication year"),
-        by_month=bar_table(last_months(s["by_month"]), "Sources by month, last six months"),
-        countries=country_boxes(by_place), topics=topic_boxes(s["by_topic"]),
+        docs=f"{s['documents']:,}", year=built[:4],
+        docs_year=f"{s['by_year'].get(this_year, 0):,}",
+        docs_month=f"{s['by_month'].get(this_month, 0):,}",
+        countries=country_boxes(by_place), countries_intro=e(COUNTRIES_INTRO),
+        regions=region_boxes(by_place), regions_intro=e(REGIONS_INTRO),
+        topics=topic_boxes(s["by_topic"]), topics_intro=e(TOPICS_INTRO),
         regional=f"{regional:,}", ntopics=len(s["by_topic"]),
         counts_from=("<code>outputs/catalogue/stats.json</code>, generated "
                      + s.get("generated", "")
