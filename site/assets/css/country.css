@@ -1,0 +1,59 @@
+/* country.css — the country page and its non-state-finance table, on top of
+ * main.css and home.css (same relation report.css has to main.css: palette,
+ * type scale, links and site chrome come from there — this file adds only
+ * the layout unique to these two pages). See build/country.py.
+ *
+ * .colophon, .caveat and .section-intro already live in home.css, which was
+ * reorganised on 2026-08-11 specifically so the country page could reuse
+ * them rather than redefine them (build/home.css's own header note). Only
+ * what neither main.css nor home.css already carries is here.
+ */
+
+.country-head { border-bottom: 1px solid var(--rule); padding-bottom: 1.5rem; margin-bottom: 2rem; }
+.country-head h1 { font-size: 3rem; margin-bottom: 0.35rem; }
+.country-head__meta { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); letter-spacing: 0.03em; }
+
+/* Used by the full non-state-finance table's breadcrumb (finance.html). */
+.crumb { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.09em; color: var(--ink-faint); margin-bottom: 0.6rem; }
+.crumb a { color: var(--ink-faint); }
+
+/* The shared .stat-bar (main.css) is a full-bleed strip on the home page;
+   here it sits inside the content column, so it takes its own border and
+   corners rather than the home page's border-bottom-only treatment. */
+.stat-bar { margin: 0 0 2.5rem; border: 1px solid var(--rule); border-radius: 3px; }
+.stat-bar__inner { gap: 0.35rem 2.5rem; }
+
+.report-row { display: flex; gap: 1.5rem; align-items: center; justify-content: space-between; padding: 1.1rem 0; border-bottom: 1px solid var(--rule); }
+.report-row:first-of-type { border-top: 1px solid var(--rule); }
+.report-row__kind { font-family: var(--display); font-weight: 700; font-size: 1.12rem; }
+.report-row__blurb { font-size: 0.86rem; color: var(--ink-light); margin-top: 0.1rem; }
+.report-row__meta { font-size: 0.75rem; color: var(--ink-faint); margin-top: 0.4rem; }
+.report-row__meta .nh { color: var(--accent); }
+.report-row__acts { display: flex; gap: 0.5rem; align-items: center; flex-shrink: 0; }
+.report-row__acts .btn { padding: 0.4rem 1rem; }
+
+table.pivot { width: 100%; border-collapse: collapse; font-size: 0.78rem; margin: 1.5rem 0 0.5rem; }
+table.pivot th, table.pivot td { padding: 0.4rem 0.5rem; border-bottom: 1px solid var(--rule); }
+table.pivot thead th { font-family: var(--mono); font-size: 0.66rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); background: var(--paper-warm); border-bottom: 1px solid var(--rule); }
+table.pivot tbody th, table.pivot tfoot th { text-align: left; font-weight: 400; font-size: 0.8rem; }
+table.pivot tfoot th, table.pivot tfoot td { font-weight: 700; border-top: 2px solid var(--ink); border-bottom: none; }
+table.pivot .num { text-align: right; font-family: var(--mono); font-size: 0.74rem; white-space: nowrap; }
+table.pivot .total { color: var(--ink); font-weight: 700; border-left: 1px solid var(--rule); }
+table.pivot tbody tr:hover { background: var(--paper-warm); }
+.table-note { font-size: 0.75rem; color: var(--ink-faint); margin-top: 0.5rem; }
+.table-acts { display: flex; gap: 0.6rem; align-items: center; margin-top: 1.25rem; flex-wrap: wrap; }
+
+.pubs { font-size: 0.82rem; color: var(--ink-light); }
+.pubs span { white-space: nowrap; }
+
+.callout { border-left: 3px solid var(--accent); padding: 0.2rem 0 0.2rem 1.25rem; margin: 1.5rem 0; font-size: 0.9rem; color: var(--ink-light); }
+
+.dt-title { font-family: var(--display); font-weight: 700; font-size: 0.95rem; }
+.dt-rows { font-family: var(--mono); font-size: 0.7rem; color: var(--ink-faint); }
+table.data-table td.num { text-align: right; }
+table.data-table td.wrapcell { min-width: 32rem; white-space: normal; }
+table.data-table td { white-space: nowrap; }
+
+@media (max-width: 720px) {
+  .report-row { flex-direction: column; align-items: flex-start; }
+}
