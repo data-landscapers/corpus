@@ -10,6 +10,11 @@
  * grid, the two-up "what the base holds" bar tables, and the classes that
  * served only them (.cards/.card/.two-up/table.bars) — nothing else in the
  * site used them (checked before removing).
+ *
+ * Revised again 2026-08-11: dropped the hero's own rule (the faint line
+ * stacked on the Countries heading's bold one) and .hero__sub/.n, unused
+ * once Bill trimmed the hero to one line; section headings resized to match
+ * an article's h2 sub-headings.
  */
 
 /* Corpus subnav — sits below the (now mirrored) site header. */
@@ -25,13 +30,13 @@
 .stat-bar__item { font-family: var(--serif); font-size: 0.85rem; color: var(--ink-light); }
 .stat-bar__item strong { font-family: var(--display); font-size: 1rem; font-weight: 700; color: var(--accent-dk); margin-left: 0.3rem; }
 
-.hero { border-bottom: 1px solid var(--rule); padding: 2.5rem 0 2rem; margin-bottom: 2.5rem; }
+.hero { padding: 2.5rem 0 2rem; margin-bottom: 2.5rem; }
 .hero p { font-size: 1.32rem; line-height: 1.55; max-width: 46rem; margin-bottom: 0.9rem; }
-.hero .hero__sub { font-size: 0.95rem; color: var(--ink-light); margin-bottom: 0; }
-.hero .n { font-family: var(--display); font-weight: 700; color: var(--accent); }
 
-/* Countries / Regions / Topics sections. */
-.section-heading { font-size: 1.9rem; margin: 3rem 0 0.6rem; border-top: 2px solid var(--ink); padding-top: 0.85rem; }
+/* Countries / Regions / Topics sections. Heading size matches the h2
+   sub-headings inside a Writing article (main.css .article-body h2), so the
+   home page and an article read as the same publication (Bill, 2026-08-11). */
+.section-heading { font-size: 1.45rem; margin: 3rem 0 0.6rem; border-top: 2px solid var(--ink); padding-top: 0.85rem; }
 .section-heading:first-of-type { margin-top: 0; }
 .section-intro { font-size: 1rem; line-height: 1.6; color: var(--ink-light); max-width: 46rem; margin-bottom: 1.25rem; }
 .caveat { font-size: 0.76rem; color: var(--ink-faint); line-height: 1.5; margin-top: 0.75rem; }

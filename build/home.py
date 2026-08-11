@@ -92,16 +92,15 @@ REGION_NAMES = {
     "XSS": "Sub-Saharan Africa", "XWA": "West Africa",
 }
 
-# Intro copy under the Countries and Topics headings is the text that used to
-# sit in those two cards, unchanged, moved rather than rewritten. Regions has
-# no prior card to draw from, so this paragraph is new (Bill should read it).
+# Intro copy under each heading. Topics still carries the text that used to
+# sit in its card, unchanged. Countries is Bill's rewrite, edited straight in
+# site/index.html on 2026-08-11 and copied back here so a rebuild doesn't
+# revert it. Regions had no prior card to draw from, so that paragraph is CC's.
 COUNTRIES_INTRO = (
-    "Fifty-four countries, each with a status report, a monthly update and a "
-    "twelve-month progress report. Every system and instrument carries the "
-    "date its position was established, because most of them change. Where "
-    "the base holds no reliable statement, the country page says so and "
-    "counts it. Coverage is deliberately uneven: the record goes deep where "
-    "the work is, and stays thin elsewhere."
+    "Each country page contains four reports: A status summary; A breakdown "
+    "of progress recorded over the past twelve months; a summary of news "
+    "reported in the last month; and a financial record of investments or "
+    "commitments made by non-state institutions since 2015."
 )
 REGIONS_INTRO = (
     "Sources tagged to a region, a bloc or the continent as a whole, rather "
@@ -167,8 +166,11 @@ def country_boxes(by_place: dict[str, int]) -> str:
     not that page is built yet (DESIGN.md §8: pull exhaustively, publish
     selectively) — a live link that 404s until the page lands is honest about
     what the base holds; hiding it would not be. Labelled with the short name
-    (Bill, 2026-08-11); the ISO3 survives as a `title` attribute."""
-    codes = sorted(c for c in by_place if not c.startswith("X"))
+    (Bill, 2026-08-11); the ISO3 survives as a `title` attribute. Sorted by
+    that displayed name, not the code (Bill, 2026-08-11) — a code-sorted grid
+    of names reads as shuffled once the box no longer shows the code."""
+    codes = sorted((c for c in by_place if not c.startswith("X")),
+                   key=lambda c: COUNTRY_NAMES.get(c, c))
     top = max(by_place[c] for c in codes) or 1
     return "\n".join(
         f'<a class="box" href="{SITE_BASE}/countries/{c}/" title="{c}"'
@@ -210,7 +212,7 @@ TEMPLATE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Corpus — Data Landscapers</title>
-<meta name="description" content="A working record of digital transformation and data governance across Africa: {docs} sources, country and topic reports, and the finance behind them.">
+<meta name="description" content="A living record of digital transformation and data governance across Africa: {docs} sources, country and topic reports, and the finance behind them.">
 <link rel="canonical" href="{base}/">
 <link rel="stylesheet" href="assets/css/main.css">
 <link rel="stylesheet" href="assets/css/home.css">
@@ -246,9 +248,9 @@ TEMPLATE = """<!DOCTYPE html>
 
   <nav class="corpus-nav" aria-label="Corpus navigation">
     <div class="corpus-nav__inner">
-      <a href="{base}/#countries/">Countries</a>
-      <a href="{base}/#regions/">Regions</a>
-      <a href="{base}/#topics/">Topics</a>
+      <a href="{base}/#countries">Countries</a>
+      <a href="{base}/#regions">Regions</a>
+      <a href="{base}/#topics">Topics</a>
       <a href="{base}/finance/">Finance</a>
       <a href="{base}/catalogue/">Catalogue</a>
       <a href="{base}/method/">Method</a>
@@ -268,8 +270,7 @@ TEMPLATE = """<!DOCTYPE html>
   <div class="container">
 
     <div class="hero">
-      <p>A working record of digital transformation and data governance across Africa, compiled from primary sources and published as it stands.</p>
-      <p class="hero__sub"><span class="n">{docs}</span> sources behind three reports for every country, with every figure dated to when it was true and every gap counted rather than left silent.</p>
+      <p>A living record of digital transformation and data governance across Africa. Compiled from primary sources. Updated daily.</p>
     </div>
 
     <h2 class="section-heading" id="countries">Countries</h2>
