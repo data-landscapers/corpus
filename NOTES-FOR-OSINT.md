@@ -32,6 +32,10 @@ These never clear. They are properties of OSINT the site depends on, recorded so
 
 **5** (2026-08-06) — **REPORT-LINT does not yet cover the reporting layer.** The 2026-08-02 review's finding is that the system's outputs are ahead of its verification. A public site is the largest possible extension of the output surface, and publication raises the cost of a MOZ-class defect by an order of magnitude. `DESIGN.md` §7.
 
+**6** (2026-08-11) — **Two counts of the same ledger.** `outputs/reports/KEN/ledger.csv` holds 171 rows, 6 of them `Not held`; `KEN-status.md` frontmatter says `ledger_rows: 146`, `not_held: 4`; `KEN-progress-2026-07.md` says 169 and 6. The country page publishes a *Not held* count as one of its four headline figures (`DESIGN.md` §4), so which number is the place's ledger size has to be settled before it goes on a page — a site whose selling point is stating its own gaps cannot show two of them. Found while building the country-page mock-up.
+
+**7** (2026-08-11) — **`FINANCE-COMPILE.md` documents 18 columns; the CSV carries 20.** `{ISO3}-nonstate.csv` also holds `amount_basis` and `amount_quality`, which the "CSV export" section does not list. The full-table page offers a field dictionary as a download (the cable factsheet's *Download metadata*), and those two rows currently have to be read off the data rather than cited to the spec. Definitions for them would close it.
+
 ## Resolved
 
 **x6** (2026-08-06, cleared 2026-08-06) — **`build-catalogue.py` was thought to describe a vault that is never republished.** It does not, and never did: its header calls the catalogue public and says the vault "is not a place to republish them. The `url` sends a reader to the publisher." Checked while clearing the §7 precondition; no change needed.
