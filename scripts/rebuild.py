@@ -39,29 +39,45 @@ Stages
 import argparse, csv, glob, json, os, shutil, subprocess, sys
 
 CORPUS = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-OSINT = os.environ.get("OSINT_PATH", "/sessions/dazzling-intelligent-brown/mnt/OSINT")
+OSINT = os.environ.get("OSINT_PATH", r"C:\OSINT")
 TOOLCHAIN = os.path.join(CORPUS, "scripts")           # all .py live here now
 WORK = os.path.join(CORPUS, "scripts", ".workroot")   # gitignored; symlinks + a view onto outputs
 OUTPUTS = os.path.join(CORPUS, "outputs")
 VOCAB = os.path.join(CORPUS, "outputs", "vocab")      # Job 2 reads vocab from outputs/ only
 
 
+def _link_dir(link, target):
+    """Point `link` at directory `target`, replacing whatever is there.
+
+    Windows: a **junction** (`mklink /J`), which needs no privilege — unlike a
+    symlink, which needs Developer Mode or elevation (WinError 1314). POSIX: a
+    symlink, so this still works when run in the Cowork container for testing.
+    Junctions are directory-only and local-disk-only; every link here is both.
+    """
+    if os.path.islink(link) or os.path.exists(link):
+        try:
+            os.rmdir(link)            # junction or empty dir: unlinks, leaves target
+        except OSError:
+            try:
+                os.remove(link)       # symlink
+            except OSError:
+                shutil.rmtree(link, ignore_errors=True)
+    if os.name == "nt":
+        subprocess.run(["cmd", "/c", "mklink", "/J", link, target], check=True,
+                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    else:
+        os.symlink(target, link)
+
+
 def setup_workroot():
     os.makedirs(WORK, exist_ok=True)
     os.makedirs(OUTPUTS, exist_ok=True)
-    for name in ("raw", "index", "lookups"):
-        link, target = os.path.join(WORK, name), os.path.join(OSINT, name)
-        if os.path.islink(link) or os.path.exists(link):
-            if os.path.realpath(link) == os.path.realpath(target):
-                continue
-            os.remove(link)
-        os.symlink(target, link)
-    for name, target in (("scripts", TOOLCHAIN), ("outputs", OUTPUTS)):
-        link = os.path.join(WORK, name)
-        if not (os.path.islink(link) and os.path.realpath(link) == os.path.realpath(target)):
-            if os.path.islink(link) or os.path.exists(link):
-                os.remove(link)
-            os.symlink(target, link)
+    for name, target in (("raw", os.path.join(OSINT, "raw")),
+                         ("index", os.path.join(OSINT, "index")),
+                         ("lookups", os.path.join(OSINT, "lookups")),
+                         ("scripts", TOOLCHAIN),
+                         ("outputs", OUTPUTS)):
+        _link_dir(os.path.join(WORK, name), target)
 
 
 def run(*args):
@@ -145,7 +161,7 @@ def main():
         units = sorted(os.path.basename(p) for p in glob.glob(os.path.join(OUTPUTS, "reports", "*"))
                        if os.path.isdir(p))
     if units:
-        print(f"stage 4 — report tables ({len(units)} units):")
+        print(f"stage 5 — report tables ({len(units)} units):")
         for u in units:
             run("report-render.py", "--unit", u, "--render")
 
