@@ -6,6 +6,11 @@
 # history — the dated one-liner in logs/mirror_log.md is the record.
 logs/mirror-ffs/
 
+# Bill and Cowork work on alphas here while a Claude Code session is running in
+# the repo. Untracked on purpose: it keeps in-progress design out of the history
+# and out of any `git add -A`, so the two can work without colliding.
+prep/
+
 # Staging is created outside the repo, but belt and braces.
 .pull-staging/
 __pycache__/
