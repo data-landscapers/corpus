@@ -63,6 +63,16 @@ Needed only after a format change or to refresh tables outside a unit you alread
 - **Monthly narratives** — some monthly issues carry empty per-subject blocks; authoring them is tracked.
 - **Topics** — the topic-report layer is not built; awaiting Bill's instruction.
 
+## Leak gate — before any commit of outputs/
+
+`outputs/` must carry metadata and compiled prose only, never a verbatim source body. Before **any** commit that includes `outputs/` — the compile commits above and the final one below — run the gate:
+
+```bash
+python scripts/leak-check.py outputs      # exit 0 = clean; exit 1 = a body leaked
+```
+
+If it exits non-zero, **do not commit** — a compiler is wrong; stop and fix it. A leak into public history is permanent (`documentation/design.md` §8), so this is the one check that fails the build rather than warning.
+
 ## Log
 
 On completion or error, append **one terse line** to `logs/log.md`, in the form `YYYY-MM-DD HH:MM · build · what happened`:
@@ -74,9 +84,10 @@ printf '%s · build · %s\n' "$(date '+%Y-%m-%d %H:%M')" \
 
 On failure, log the stage and the error instead (`… errored at stage 3: <message>`) and stop. One line per run — the detail is in git.
 
-Then commit everything, so the build ends with nothing outstanding:
+Then run the leak gate and commit everything, so the build ends clean with nothing outstanding:
 
 ```bash
+python scripts/leak-check.py outputs || exit 1
 git add -A && git diff --cached --quiet || git commit -m "Build run: outputs and log"
 ```
 

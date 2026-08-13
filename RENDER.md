@@ -95,6 +95,8 @@ Per-country non-state finance already renders: `scripts/country.py` writes a `fi
 ## Step 6 — verify, commit, deploy
 
 ```bash
+# leak gate — no verbatim source body may reach the public site or outputs
+python scripts/leak-check.py site outputs || { echo "STOP: leak gate failed"; exit 1; }
 # sanity: no unwritten-narrative placeholder reached the site
 grep -rl 'narrative not yet written' site/ && echo "STOP: a placeholder was published" || echo "clean"
 # every report links only to held sources — spot check a few if desired:
