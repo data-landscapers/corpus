@@ -87,13 +87,19 @@ python scripts/catalogue.py       # -> site/catalogue/index.html, catalogue-data
 
 Expect ~9,400 records. The page carries metadata only; each record links to its publisher. If the place/topic labels look stale, refresh `outputs/vocab/countries.csv` and `outputs/vocab/taxonomy.md` from OSINT's `lookups/` and re-run.
 
-## Non-state finance — what renders and what is still missing
+## Step 6 — build the non-state finance landing
 
-Per-country non-state finance already renders: `scripts/country.py` writes a `finance.html` beside each country's `index.html` from `{ISO3}-nonstate.csv`, and the country page carries a Non-state finance section. Running Step 4 covers it.
+```bash
+python scripts/finance.py         # -> site/finance/index.html + all-nonstate.csv
+```
 
-**Gap:** the top-level `/finance/` landing page that the site nav links to has **no builder yet** — the link currently 404s. Building it (an aggregate view over `all-nonstate.csv`) is a small `scripts/finance.py`, not written. Flagging rather than assuming: say if you want that builder and I'll write it.
+This is the page the site nav's **Finance** link points at; without this step that link 404s. Expect ~1,230 deals and a headline total near US$91,000m.
 
-## Step 6 — verify, commit, deploy
+Per-country finance is separate and already covered by Step 4: `scripts/country.py` writes a `finance.html` beside each country's `index.html` from `{ISO3}-nonstate.csv`.
+
+**The page layout is a shell, deliberately.** `finance.py`'s aggregation is real and its numbers are correct; the presentation is a placeholder awaiting design — headline totals, top financiers, by-sector and by-place tables, links down to each country's finance page. It is wired in because a plain page beats a 404, not because it is finished.
+
+## Step 7 — verify, commit, deploy
 
 ```bash
 # leak gate — no verbatim source body may reach the public site or outputs
