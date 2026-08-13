@@ -25,9 +25,31 @@ Detection (lifted unchanged from the retired pull.py gate):
   - any path under `raw/` — a source page must never be here.
 Adding a prose column to the higher cap is a deliberate edit, which is the point:
 a new prose column should have to be admitted, not discovered.
+
+**HTML and PDF are checked too, and that is the point of the gate** (F10).
+`design.md` §8 rejected a gate that "would check the markdown and not the HTML it
+becomes"; `site/` is 273 HTML and 165 PDF against 107 CSV, so a gate blind to
+those two formats is looking away from almost everything it publishes.
+
+The caps below are calibrated against the real site, not guessed:
+  - longest legitimate HTML block  : 3,238 chars (median 674)  -> cap 8,000
+  - longest legitimate PDF page    : 5,490 chars (median 3,242) -> cap 12,000
+Recalibrate by measuring rather than by raising a cap until the gate goes quiet.
+
+Two deliberate non-rules, because each would fire on correct output:
+  - no check on class/id attributes — the site's own report markup is
+    `class="article-body"`, so anything matching "body" flags every page;
+  - the marker scan looks for `body_completeness:` **with the colon** (leaked
+    frontmatter), since `body_completeness` alone is a legitimate catalogue column.
+
+Known limit, stated rather than papered over: a body long enough to flow across a
+PDF page break is split into per-page chunks that each sit under the page cap, so
+length alone will not catch it there — the marker scan and the CSV/JSON/markdown
+checks upstream of the render are what cover that case.
 """
 from __future__ import annotations
-import csv, json, sys
+import csv, json, re, sys
+from html.parser import HTMLParser
 from pathlib import Path
 
 BODY_COLUMNS = {"body", "text", "content", "full_text", "fulltext",
@@ -35,7 +57,13 @@ BODY_COLUMNS = {"body", "text", "content", "full_text", "fulltext",
 MAX_FIELD = 1000
 PROSE_COLUMNS = {"description", "note", "position_end", "summary"}
 MAX_PROSE_FIELD = 8000
+MAX_HTML_BLOCK = 8000        # observed max legitimate block 3,238
+MAX_PDF_PAGE = 12000         # observed max legitimate page  5,490
 csv.field_size_limit(10 ** 8)
+
+# Frontmatter that only ever belongs to an OSINT source record. Rendered into a
+# page, either one means a source file reached the renderer.
+LEAKED_FRONTMATTER = re.compile(r"\btype:\s*source\b|\bbody_completeness:", re.I)
 
 
 def cap_for(name: str) -> int:
@@ -113,7 +141,82 @@ def check_text(path: Path, rel: str) -> list[str]:
     return []
 
 
-CHECKERS = {".md": check_markdown, ".csv": check_csv, ".json": check_json, ".txt": check_text}
+class _Blocks(HTMLParser):
+    """Text of the page, split at block-level boundaries.
+
+    The block, not the page, is the unit: a report page legitimately runs to
+    70,000 characters of compiled prose, but no single legitimate block passes
+    ~3,200. A pasted source body arrives as one very long run.
+    """
+    SKIP = {"script", "style"}
+    BLOCK = {"p", "li", "td", "th", "h1", "h2", "h3", "h4", "h5", "h6",
+             "blockquote", "div", "section", "article", "header", "footer", "br"}
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.stack, self.buf, self.blocks = [], [], []
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.BLOCK:
+            self._flush()
+        self.stack.append(tag)
+
+    def handle_endtag(self, tag):
+        if tag in self.BLOCK:
+            self._flush()
+        if self.stack:
+            self.stack.pop()
+
+    def handle_data(self, data):
+        if not any(t in self.SKIP for t in self.stack):
+            self.buf.append(data)
+
+    def _flush(self):
+        text = " ".join("".join(self.buf).split())
+        if text:
+            self.blocks.append(text)
+        self.buf = []
+
+    def close(self):
+        super().close()
+        self._flush()
+
+
+def check_html(path: Path, rel: str) -> list[str]:
+    parser = _Blocks()
+    parser.feed(path.read_text(encoding="utf-8", errors="replace"))
+    parser.close()
+    for block in parser.blocks:
+        if LEAKED_FRONTMATTER.search(block):
+            return [f"{rel}: rendered text carries source frontmatter"]
+        if len(block) > MAX_HTML_BLOCK:
+            return [f"{rel}: text block is {len(block)} chars (cap {MAX_HTML_BLOCK})"]
+    return []
+
+
+def check_pdf(path: Path, rel: str) -> list[str]:
+    try:
+        from pypdf import PdfReader
+    except ImportError:
+        # Never pass silently: an unscannable PDF is an unchecked PDF, and this
+        # gate exists to fail rather than to warn.
+        return [f"{rel}: cannot scan PDF — pypdf is not installed (pip install pypdf)"]
+    try:
+        pages = PdfReader(str(path)).pages
+    except Exception as exc:
+        return [f"{rel}: PDF could not be read ({exc})"]
+    for n, page in enumerate(pages, start=1):
+        text = page.extract_text() or ""
+        if LEAKED_FRONTMATTER.search(text):
+            return [f"{rel}: page {n} carries source frontmatter"]
+        if len(text) > MAX_PDF_PAGE:
+            return [f"{rel}: page {n} is {len(text)} chars (cap {MAX_PDF_PAGE})"]
+    return []
+
+
+CHECKERS = {".md": check_markdown, ".csv": check_csv, ".json": check_json,
+            ".txt": check_text, ".html": check_html, ".htm": check_html,
+            ".pdf": check_pdf}
 
 
 def scan(root: Path) -> list[str]:

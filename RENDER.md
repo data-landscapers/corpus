@@ -16,7 +16,8 @@ The existing renderers (`render.py`, `home.py`, `country.py`) were written to re
 
 ## Prerequisites
 
-- Python 3 with WeasyPrint and its system libraries installed (already set up on this machine — the site has deployed before). If a render errors on a missing shared library, that is the WeasyPrint system dependency, not this repo.
+- Python 3 with WeasyPrint and its system libraries installed. On this machine (2026-08-13): MSYS2 at `C:\msys64` provides Pango/Cairo/HarfBuzz, and `C:\msys64\mingw64\bin` sits on the user PATH **after** the Python entries but **before** `C:\Program Files\Tesseract-OCR`. Both halves of that ordering matter: MSYS2 ships its own `python.exe`, so putting it earlier shadows the real interpreter, while Tesseract ships an older copy of the same Pango DLLs, so putting it later makes WeasyPrint fail with `cannot load library … error 0x7f`. If a render errors on a missing or unloadable shared library, check that ordering first.
+- `pypdf`, for the leak gate's PDF text scan (`pip install pypdf`). Without it the gate fails closed on the first PDF rather than skipping it.
 - Run every command from the repo root (`C:\CORPUS`).
 - Commit after each coherent step (repo convention).
 
