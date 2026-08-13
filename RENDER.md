@@ -17,7 +17,7 @@ The existing renderers (`render.py`, `home.py`, `country.py`) were written to re
 ## Prerequisites
 
 - Python 3 with WeasyPrint and its system libraries installed (already set up on this machine — the site has deployed before). If a render errors on a missing shared library, that is the WeasyPrint system dependency, not this repo.
-- Run every command from the repo root (`C:\Users\bill\Dropbox\Github\Corpus`).
+- Run every command from the repo root (`C:\CORPUS`).
 - Commit after each coherent step (repo convention).
 
 ## Step 0 — start from a clean tree
@@ -35,8 +35,8 @@ A no-op if the tree is already clean.
 Quick path (zero code change): mirror `outputs/` into `upstream/`.
 
 ```bash
-rsync -a --delete outputs/ upstream/          # Windows: robocopy outputs upstream /MIR
-printf 'Corpus-authored outputs/ at %s\n' "$(git rev-parse HEAD)" > upstream/BUILT-FROM
+robocopy outputs upstream /MIR /NFL /NDL /NP    # mirror; on *nix use: rsync -a --delete outputs/ upstream/
+git rev-parse HEAD > upstream/BUILT-FROM
 git add upstream && git commit -m "Point build at Corpus-owned outputs (mirror into upstream)"
 ```
 
@@ -46,7 +46,7 @@ Durable path (do later): in `scripts/render.py`, `scripts/home.py`, `scripts/cou
 
 `render.py` takes one markdown file and writes HTML + PDF into `site/reports/…`. Loop it over every report document.
 
-**Skip any monthly that still contains an unwritten-narrative marker** — a few monthlies have empty narrative blocks pending authoring (tracked in Corpus; do not publish a placeholder). Status and progress documents are complete and all render.
+**Skip any monthly that still contains an unwritten-narrative marker** — most monthlies (44 of 54) have empty narrative blocks pending authoring (tracked in Corpus; do not publish a placeholder). Status and progress documents are complete and all render.
 
 ```bash
 for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress-*.md; do
@@ -58,7 +58,7 @@ for md in upstream/reports/*/*-monthly-*.md; do
 done
 ```
 
-Expect ~54 status + 57 progress + ~20 monthly documents rendered (each as HTML and PDF).
+Expect ~54 status + 57 progress + ~10 monthly documents rendered (the other ~44 monthlies are skipped until authored), each as HTML and PDF.
 
 ## Step 3 — build the home page
 
@@ -133,7 +133,7 @@ Then run the repo backup from the root:
 mirror.bat
 ```
 
-It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` for both, and appends a dated line to `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and `logs\mirror-ffs\`.
+It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` (which carries both repos and Bill's `Dropbox\Github`), and appends a dated line to `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and the FreeFileSync log.
 
 ## If something fails
 
