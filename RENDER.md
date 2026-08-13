@@ -109,6 +109,16 @@ printf '%s · render · %s\n' "$(date '+%Y-%m-%d %H:%M')" \
 
 On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). One line per run.
 
+## Mirror — back up the repo (final step)
+
+After the site is rendered, committed and deployed, run the repo backup from the root:
+
+```bat
+mirror.bat
+```
+
+It mirrors the working tree and full git history to Dropbox and to `D:\CORPUS` (three legs — robocopy, `git bundle`, FreeFileSync), and appends its own dated line to `logs\mirror_log.md`. Because RENDER is the last job in the pipeline, this one call backs up everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and `logs\mirror-ffs\`.
+
 ## If something fails
 
 - A single report failing to render should not stop the loop — note it and continue; report the list of failures.
