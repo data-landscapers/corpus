@@ -66,7 +66,12 @@ if not exist "%CORPUS%\logs" mkdir "%CORPUS%\logs"
 
 if "!STATUS!"=="FAIL" (
   echo.
-  echo mirror.bat: FAILED - osint(robocopy=!ORC! bundle=!OGB!) corpus(robocopy=!CRC! bundle=!CGB!) ffs=!FF!
+  rem  Parens MUST be escaped as ^( ^) inside this block: cmd parses the whole
+  rem  if(...) at once, so a bare ) here closes the block early and the rest of
+  rem  the line runs as a command. That made every run exit 255 with
+  rem  "corpus(robocopy was unexpected at this time" - on SUCCESS too, since the
+  rem  block is parsed whether or not the condition is true.
+  echo mirror.bat: FAILED - osint^(robocopy=!ORC! bundle=!OGB!^) corpus^(robocopy=!CRC! bundle=!CGB!^) ffs=!FF!
   echo   see %LOG% and the FreeFileSync log
   endlocal & exit /b 1
 )
