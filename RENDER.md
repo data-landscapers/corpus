@@ -138,11 +138,13 @@ First make sure **all** work is committed — including the log line just writte
 git add -A && git diff --cached --quiet || git commit -m "Render run: reports, site, log"
 ```
 
-Then run the repo backup from the root:
+Then run the repo backup, by absolute path:
 
 ```bat
-mirror.bat
+cmd /c C:\CORPUS\mirror.bat
 ```
+
+**Name the path in full.** Bare `mirror.bat` resolves only if the shell happens to be sitting in the repo root — true when a person types it after working there, false for a shell a session spawns, which is where it failed on 2026-08-13 with *"'mirror.bat' is not recognized"*. That failure is at least loud; the script itself is safe to call from anywhere, since it uses `%~dp0` for the FreeFileSync batch and absolute paths for both repos.
 
 It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` (which carries both repos and Bill's `Dropbox\Github`), and appends a dated line to `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and the FreeFileSync log.
 
