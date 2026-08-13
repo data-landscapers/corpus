@@ -1,0 +1,11 @@
+﻿origin,unit,subject_slug,subject,2017/18,2019/20,2020/21,2021/22,2022/23,2024,2024/25,2025,2025/26,2026,excluded_lines,excluded_usd_m
+non-state,US$m,dpi.govtech,Other GovTech and e-Gov,17,,,24,23,,21,,20,,,
+non-state,US$m,infra.connect,Connectivity,6,25,20,,,,40,,,,,
+non-state,US$m,tech.industry,ICT Industry,,15,,,16,,27,,,,,
+domestic-state,US$m (IMF annual avg),dpi.govtech,Other GovTech and e-Gov,,,,,,6,,6,,5,,
+domestic-state,US$m (IMF annual avg),dpi.id,Digital Identity and CRVS,,,,,,,,3,,3,,
+domestic-state,US$m (IMF annual avg),gov.protect,Data protection,,,,,,0,,0,,,,
+domestic-state,US$m (IMF annual avg),infra.cybersec,Cybersecurity,,,,,,,,,,0,,
+excluded,,nobase,no enacted baseline (⚠ no appropriated figure — revised/outturn only),,,,,,,,,,,5,
+excluded,,scope,partial- or unclear-scope,,,,,,,,,,,6,77
+excluded,,transfer,transfers to a body counted at its own spending end,,,,,,,,,,,5,12

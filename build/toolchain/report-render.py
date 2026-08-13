@@ -1,0 +1,731 @@
+#!/usr/bin/env python3
+"""
+report-render.py — standing. Renders a report from its ledger (`wiki/report-layer.md` §5).
+
+**The script owns everything outside the narrative markers; the model owns everything inside
+them.** A render rebuilds the front matter, the section tables and the gaps table from
+`outputs/reports/{unit}/ledger.csv` and `gaps.csv`, and **carries every existing
+`<!-- narrative: key -->` block across untouched**. That is what makes a format change cost a
+render rather than a redraft.
+
+**Three documents, one ledger** (`wiki/report-layer.md` §1). *Status* renders the current rows,
+*monthly* renders the rows whose `as_at` falls in the window, *progress* renders `prior_*` against
+current over a window (twelve months by default). All three are derived from the same file by
+slicing it, so the second and third cost a render rather than a second reading of the base — which
+is the whole reason the run issues all three at initialisation.
+
+**Both dated windows close on the day of issue, not on the month's last day** (§2). The base is
+swept nightly and that is what these reports are for; a July monthly cut on 4 August that stopped
+at 31 July would hold four days of evidence back for a month. An already-issued document has its
+printed `period:` read back, so a re-render never widens a document a reader may have cited.
+
+**One renderer, a profile per process.** A country unit reads `lookups/report-country-sections.csv`
+and issues all three documents; an `X__` region unit reads `lookups/report-region-sections.csv`,
+calls its objects bodies rather than systems, and issues **the progress report only**
+(`REPORT-REGION.md`). Everything else — the ledger, the markers, the windows, the checks — is the
+same code on the same schema.
+
+Modes:
+  --links     slug -> URL for every source slug in the ledger, resolved through `index/`.
+              Unresolvable slugs are printed as UNRESOLVED and **must not be cited** — a URL
+              reconstructed from a remembered pattern is indistinguishable from a real one.
+  --render    write the document(s) named by --doc (default: status).
+  --doc       status | monthly | progress | all.
+  --month     YYYY-MM — the month the monthly's window opens in, and the month the progress
+              window is counted back from. Default: the last closed month.
+  --end       YYYY-MM-DD — close the window here rather than at the date of issue. Only for
+              re-cutting a document whose printed period is wrong.
+  --window    months in the progress window (default 12 — an annual progress report).
+  --check     REPORT-LINT checks G and I over every rendered document in the folder.
+              G: every http(s) URL is held in `index/`. I: no status or movement value outside
+              the closed vocabularies, and every ***Not held*** row present in `gaps.csv`.
+              Exits non-zero on a miss. A report that fails G is not published.
+
+Usage:
+  python scripts/report-render.py --unit DZA --links
+  python scripts/report-render.py --unit DZA --render --doc all --month 2026-07
+  python scripts/report-render.py --unit DZA --render [--today YYYY-MM-DD]
+  python scripts/report-render.py --unit DZA --check
+"""
+import argparse
+import collections
+import csv
+import datetime
+import importlib.util
+import os
+import re
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import vault_lib  # noqa: E402
+
+ROOT = vault_lib.ROOT
+REPORTS = os.path.join(ROOT, "outputs", "reports")
+COUNTRIES_CSV = os.path.join(ROOT, "lookups", "countries.csv")
+
+# **One renderer, one profile per report process** (`wiki/report-layer.md` §5). What differs
+# between a country report and a region one is its section map, what its object column is called,
+# and which of the three documents it issues — not the rendering. A region issues the **progress
+# report only** for now (`REPORT-REGION.md`); asking for the other two is refused here rather
+# than branched around by every caller, so `REPORT-MONTHLY.md` runs over every initialised unit
+# and a region yields its one document.
+PROFILES = {
+    "country": {"sections": "report-country-sections.csv",
+                "object": "System or instrument", "objects": "systems and instruments",
+                "docs": ("status", "monthly", "progress"),
+                "sections_note": "Sections follow the status report."},
+    "region": {"sections": "report-region-sections.csv",
+               "object": "Body, instrument or system", "objects": "bodies, instruments and systems",
+               "docs": ("progress",),
+               "sections_note": "Sections run from the region's institutions outwards to what "
+                                "funds them."},
+}
+
+
+def profile(unit):
+    return PROFILES["region" if unit.startswith("X") else "country"]
+
+NOT_HELD = "Not held"
+BASELINE_NOT_HELD = "Baseline not held"
+NO_CHANGE = "No change"
+MARKER = re.compile(r"<!-- narrative: ([a-z0-9-]+) -->\n(.*?)\n<!-- /narrative -->", re.S)
+
+# The two vocabularies, wiki/report-layer.md §3. They are STEMS: a value may be followed by a
+# comma and a qualifying clause ("Implemented, under appeal"), and check I tests the stem.
+STATUSES = ("Implemented", "Piloting", "In development", "Planned", "Discontinued", "Enacted",
+            "Under review", NOT_HELD)
+MOVEMENTS = ("Advanced", "Stalled", "Regressed", "Closed", NO_CHANGE, BASELINE_NOT_HELD)
+
+
+def stem(value):
+    """The part of a status or movement value before its qualifying clause."""
+    return (value or "").split(",")[0].strip()
+
+VOCAB = ("**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a "
+         "limited user group or in a controlled environment. *In development* — build or drafting "
+         "under way, not yet operating. *Planned* — announced or provided for, no build or draft on "
+         "record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its "
+         "in-force date. *Under review* — a law or policy currently being reconsidered. "
+         "*Discontinued* — closed or superseded. ***Not held*** — the base carries no "
+         "reliable statement of status; these are the gaps to fill and are listed again at the end.")
+
+MOVE_VOCAB = ("**Movement values.** *Advanced* — a system entered service, a stage was completed or "
+              "an instrument was made. *Stalled* — a stated target passed without delivery. "
+              "*Regressed* — an instrument was withdrawn or neutralised, or a measured position "
+              "worsened. *Closed* — the programme ended. *No change* — the position at both ends is "
+              "the same. ***Baseline not held*** — the base carries no position at the start of the "
+              "period, so no movement can be stated. A value may carry a qualifying clause after a "
+              "comma, as in *Advanced, slipped*.")
+
+
+def sections(unit):
+    """[(order, section, key)] in document order, and {subject: (section, key)}."""
+    by_key, subj = {}, {}
+    path = os.path.join(ROOT, "lookups", profile(unit)["sections"])
+    with open(path, encoding="utf-8", newline="") as fh:
+        for r in csv.DictReader(fh):
+            by_key[r["section_key"]] = (int(r["section_order"]), r["section"])
+            subj[r["subject"]] = (r["section"], r["section_key"])
+    ordered = [(o, s, k) for k, (o, s) in by_key.items()]
+    return sorted(ordered), subj
+
+
+_TAXONOMY = None
+
+
+def taxonomy():
+    """(order, label, l1_of), cached — `vault_lib.load_taxonomy()`, one parse per run."""
+    global _TAXONOMY
+    if _TAXONOMY is None:
+        _TAXONOMY = vault_lib.load_taxonomy()
+    return _TAXONOMY
+
+
+def by_subject(rows):
+    """[(subject, [rows])], grouped and ordered by taxonomy Level-1/Level-2 (§1, §5).
+
+    A subject with no rows is simply absent from the result — which is what keeps an
+    empty subject from printing a sub-heading with nothing under it in either a table
+    section (status, progress) or a narrative one (monthly)."""
+    order, _, _ = taxonomy()
+    groups = collections.defaultdict(list)
+    for r in rows:
+        groups[(r.get("subject") or "").strip()].append(r)
+    return sorted(groups.items(), key=lambda kv: order.get(kv[0], (99, 99)))
+
+
+def resort_ledger(path):
+    """Reorders `ledger.csv` in place by taxonomy Level-1/Level-2, then name — item 1 of
+    the 2026-08-10 report-structure change. A row's position in the file should follow
+    the taxonomy, not the order a run happened to add it in. Content, `row_id`s and the
+    file's column order are untouched; only row order moves, and only when it would
+    actually change — a no-op ledger is not rewritten, so this never manufactures a diff
+    on a file that is already sorted."""
+    if not os.path.exists(path):
+        return False
+    order, _, _ = taxonomy()
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        reader = csv.DictReader(fh)
+        fieldnames = reader.fieldnames
+        rows = [r for r in reader if not vault_lib.blank_csv_row(r)]
+    if not rows:
+        return False
+    key = lambda r: (order.get((r.get("subject") or "").strip(), (99, 99)), (r.get("name") or "").lower())
+    resorted = sorted(rows, key=key)
+    if resorted == rows:
+        return False
+    with open(path, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=fieldnames, lineterminator="\r\n")
+        w.writeheader()
+        w.writerows(resorted)
+    return True
+
+
+def place_name(code):
+    with open(COUNTRIES_CSV, encoding="utf-8-sig", newline="") as fh:
+        for r in csv.DictReader(fh):
+            if (r.get("iso-3") or "").strip() == code:
+                return (r.get("country-name") or code).strip()
+    return code
+
+
+def read_csv(path):
+    """Reads a report-layer CSV (ledger, gaps) — utf-8-sig so a BOM-written file
+    never turns its first column name into `\\ufeffrow_id` and silently drops every
+    keyed lookup on it (fixed 2026-08-10, token review task 7, note 199 — SLE's
+    ledger carried a BOM and `--check` died on `KeyError: 'row_id'`)."""
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        return [r for r in csv.DictReader(fh) if not vault_lib.blank_csv_row(r)]
+
+
+def slug_urls():
+    """slug -> url for every source in the vault, from the index."""
+    out = {}
+    for r in vault_lib.load_index():
+        d, fm = r.get("d") or {}, r.get("fm") or {}
+        if d.get("folder") != "raw":
+            continue
+        url = (fm.get("url") or "").strip()
+        slug = d.get("slug") or os.path.basename(r["path"])[:-3]
+        if url:
+            out[slug] = url
+    return out
+
+
+def ledger_slugs(rows):
+    seen = []
+    for r in rows:
+        for s in (r.get("sources") or "").split("|"):
+            s = s.strip().strip("[]")
+            if s and s not in seen:
+                seen.append(s)
+    return seen
+
+
+def existing_blocks(path):
+    if not os.path.exists(path):
+        return {}
+    return {m.group(1): m.group(2) for m in MARKER.finditer(open(path, encoding="utf-8").read())}
+
+
+def link_target(url):
+    """A URL safe to put inside `[text](...)`.
+
+    A literal parenthesis closes the markdown link early, so `…XRoad%20BJ%20(1).pdf` renders as a
+    dead link to `…XRoad%20BJ%20(1` and reads to check G as a URL the index does not hold. Percent-
+    encoding the parens is lossless and the only difference from the held URL, so `check` compares
+    against both forms rather than treating this as a missing link."""
+    return url.replace("(", "%28").replace(")", "%29")
+
+
+def row_url(r, urls):
+    """The URL the row's current position rests on — its first resolvable source slug.
+
+    Sources are listed with the one that establishes the present status first, so the first
+    that resolves is the citation for the status cell."""
+    for s in (r.get("sources") or "").split("|"):
+        s = s.strip().strip("[]")
+        if s and s in urls:
+            return link_target(urls[s])
+    return ""
+
+
+def cite(value, r, urls):
+    """A status cell, hyperlinked to the source it rests on.
+
+    **The link goes on the status, not on the name.** The name is the object; the status is the
+    claim, and the claim is what a reader wants to check. A ***Not held*** row carries no link
+    because there is nothing behind it to link to — which is the point of the marker."""
+    text = mark(value)
+    if stem(value) in (NOT_HELD, BASELINE_NOT_HELD) or not value:
+        return text
+    url = row_url(r, urls)
+    return f"[{text}]({url})" if url else text
+
+
+def status_table(rows, urls, label="System or instrument"):
+    out = [f"| {label} | Status | As at |", "|---|---|---|"]
+    for r in sorted(rows, key=lambda r: (stem(r["status"]) == NOT_HELD, r["name"].lower())):
+        at = (r.get("milestone") or "").strip() or (r.get("as_at") or "").strip() or "—"
+        out.append(f"| {r['name']} | {cite(r['status'], r, urls)} | {at} |")
+    return "\n".join(out)
+
+
+def mark(value):
+    """The not-held markers are bold italic so they read as a different kind of value (§3)."""
+    return f"***{value}***" if stem(value) in (NOT_HELD, BASELINE_NOT_HELD) else (value or "—")
+
+
+def month_bounds(month, window=1, end=None):
+    """('YYYY-MM-DD', 'YYYY-MM-DD') — the window of `window` months ending with `month`.
+
+    `end` carries the window past the month's last day to the day the issue is cut. The base is
+    swept nightly, so a report that stops at the calendar close throws away its freshest evidence
+    — the run that issues July's monthly on 4 August already holds the first four days of August
+    and would otherwise hold them back a month."""
+    y, m = (int(x) for x in month.split("-"))
+    close = (datetime.date(y + (m == 12), (m % 12) + 1, 1) - datetime.timedelta(days=1)).isoformat()
+    sm = m - window + 1
+    sy = y + (sm - 1) // 12
+    sm = (sm - 1) % 12 + 1
+    return datetime.date(sy, sm, 1).isoformat(), max(end or close, close)
+
+
+def period_end(path):
+    """The closing date an already-issued document was cut with, or None.
+
+    A dated issue is immutable (§9), so a re-render — a format change, an interrupted run — reads
+    its period back rather than silently widening it to the day the re-render happens."""
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as fh:
+        for line in fh.read().split("\n")[:12]:
+            m = re.match(r"period:\s*\d{4}-\d{2}-\d{2}\s+to\s+(\d{4}-\d{2}-\d{2})\s*$", line)
+            if m:
+                return m.group(1)
+    return None
+
+
+def last_closed_month(today):
+    d = datetime.date.fromisoformat(today).replace(day=1) - datetime.timedelta(days=1)
+    return d.isoformat()[:7]
+
+
+def in_window(date, start, end):
+    return bool(date) and start <= date[:10] <= end
+
+
+def moved_in(rows, start, end):
+    """Rows the ledger records as having taken a new position inside the window.
+
+    `as_at` is the date the current status is asserted from, so a row whose `as_at` falls in the
+    window is one the base moved in that window — the script test §2 asks for, not a judgement
+    made afresh."""
+    return [r for r in rows if in_window(r.get("as_at"), start, end)]
+
+
+def unit_slugs(unit, rows_index):
+    """The slugs that are this unit's base, or None where the place tag is the whole rule.
+
+    A region's base is not its place tag alone (`REPORT-REGION.md` -> Scope): an ECOWAS decision
+    reported from Abuja is tagged `NGA`. The scope rule has one implementation and it is imported,
+    never restated — a shape check taken over a different base than the run read is a shape check
+    for a different document."""
+    if not unit.startswith("X"):
+        return None
+    spec = importlib.util.spec_from_file_location(
+        "rri", os.path.join(os.path.dirname(os.path.abspath(__file__)), "report-region-init.py"))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod.slugs_for(unit, rows_index)
+
+
+def source_months(unit, rows_index):
+    """Sources per month for the unit — the shape check (§7), script-emitted so check J holds."""
+    hist = collections.Counter()
+    scoped = unit_slugs(unit, rows_index)
+    for r in rows_index:
+        d, fm = r.get("d") or {}, r.get("fm") or {}
+        if d.get("folder") != "raw" or d.get("kind") != "source":
+            continue
+        if scoped is not None:
+            if (d.get("slug") or os.path.basename(r["path"])[:-3]) not in scoped:
+                continue
+        elif unit not in [str(p) for p in vault_lib.as_list(fm.get("places"))]:
+            continue
+        month = str(fm.get("published") or "")[:7]
+        if re.fullmatch(r"\d{4}-\d{2}", month):
+            hist[month] += 1
+    return hist
+
+
+def shape_line(unit, start, end):
+    """One sentence with the counts, near the top — §7 says record it, not run it after drafting."""
+    hist = source_months(unit, vault_lib.load_index())
+    months = [m for m in sorted(hist) if start[:7] <= m <= end[:7]]
+    if not months:
+        return f"*Shape check: the base holds no dated sources for this place in {start} to {end}.*"
+    half = len(months) // 2
+    early = sum(hist[m] for m in months[:half])
+    late = sum(hist[m] for m in months[half:])
+    total = early + late
+    verdict = (f" **The earlier half of the window is thin: this is a shorter comparison wearing a "
+               f"longer label**, and the movement below rests mostly on the later half."
+               if early == 0 or late / max(early, 1) >= 3.0 else
+               " The two halves are comparable, so the comparison is made over the whole window.")
+    return (f"*Shape check, run before the comparison: {total} sources for this place in the window "
+            f"— {early} in the earlier half ({months[0]} to {months[half - 1] if half else months[0]}), "
+            f"{late} in the later ({months[half]} to {months[-1]}).{verdict}*")
+
+
+def front(title, today, unit, ledger_rows, not_held, period=None):
+    fm = ["---", f"title: {title}", f"compiled: {today}"]
+    if period:
+        fm.append(f"period: {period}")
+    fm += [f"place: {unit}", f"ledger_rows: {ledger_rows}", f"not_held: {not_held}", "---", ""]
+    return fm
+
+
+def blocker(path):
+    """Carry every existing narrative block across by marker id; mint empty ones for the rest."""
+    keep = existing_blocks(path)
+
+    def block(key):
+        return (f"<!-- narrative: {key} -->\n"
+                f"{keep.get(key, '_(narrative not yet written)_')}\n<!-- /narrative -->")
+    return block, keep
+
+
+def gaps_table(gaps, label="System or instrument"):
+    out = [f"| {label} | What would settle it | Last probed |", "|---|---|---|"]
+    for g in gaps:
+        out.append(f"| {g['name']} | {g.get('what_would_settle_it') or '—'} | "
+                   f"{g.get('probe_at') or 'not yet probed'} |")
+    return out
+
+
+def load(unit):
+    folder = os.path.join(REPORTS, unit)
+    ledger_path = os.path.join(folder, "ledger.csv")
+    resort_ledger(ledger_path)
+    return (folder,
+            read_csv(ledger_path),
+            read_csv(os.path.join(folder, "gaps.csv")))
+
+
+def write(path, out, unit, note):
+    with open(path, "w", encoding="utf-8", newline="\n") as fh:
+        fh.write("\n".join(out))
+    print(f"{unit}: wrote {os.path.relpath(path, ROOT)} — {note}")
+    return 0
+
+
+def render(unit, today):
+    """Status — state only, no chronology. The current rows, section by section."""
+    folder, ledger, gaps = load(unit)
+    if not ledger:
+        print(f"{unit}: ledger is empty — nothing to render")
+        return 1
+    ordered, _ = sections(unit)
+    # A measure moves but has no current state to inventory (§1), so the status report omits it.
+    ledger = [r for r in ledger if (r.get("kind") or "instrument") != "measure"]
+    path = os.path.join(folder, f"{unit}-status.md")
+    block, keep = blocker(path)
+    not_held = sum(1 for r in ledger if r["status"] == NOT_HELD)
+    name = place_name(unit)
+    out = front(f"{name} — digital transformation and data governance status report",
+                today, unit, len(ledger), not_held) + [
+        f"# {name}: status report",
+        "",
+        f"*Compiled {today} from the Data Landscapers source base, from `outputs/reports/{unit}/ledger.csv` "
+        f"({len(ledger)} systems and instruments, {not_held} of them ***Not held***). Each section opens with "
+        f"its ledger; specific events are covered in the monthly updates. Figures are dated because most are "
+        f"time-varying.*",
+        "",
+        VOCAB,
+        "",
+        "## Summary of position",
+        "",
+        block("summary"),
+    ]
+    urls = slug_urls()
+    _, tax_label, _ = taxonomy()
+    for _, section, key in ordered:
+        rows = [r for r in ledger if r["section"] == section]
+        out += ["", f"## {section}", ""]
+        if rows:
+            for subject, srows in by_subject(rows):
+                out += [f"### {tax_label.get(subject, subject)}", "", status_table(srows, urls), ""]
+        else:
+            out += [f"_The base holds no {section.lower()} rows for {name}. A thin evidence base is a "
+                    f"finding, not a gap in this document._", ""]
+        out.append(block(key))
+    if gaps:
+        out += ["", "## Gaps to fill", ""] + gaps_table(gaps) + ["", block("gaps")]
+    out.append("")
+    return write(path, out, unit, f"{len(ledger)} rows, {not_held} not held, "
+                 f"{len(keep)} narrative block(s) carried across")
+
+
+def render_monthly(unit, today, month, end=None):
+    """Monthly — what moved in the window, dated. No maturity verdicts; those are the status's.
+
+    Cadence (§2): a month in which no row moved produces **no issue**. The run records
+    `nil, unchanged` and stops — that is what makes the full set affordable."""
+    folder, ledger, _ = load(unit)
+    if not ledger:
+        print(f"{unit}: ledger is empty — nothing to render")
+        return 1
+    path = os.path.join(folder, f"{unit}-monthly-{month}.md")
+    start, end = month_bounds(month, 1, end or period_end(path) or today)
+    changed = moved_in(ledger, start, end)
+    if not changed:
+        print(f"{unit} {month}: nil, unchanged — no row moved in the window, so no issue "
+              f"(wiki/report-layer.md §2)")
+        return 0
+    ordered, _ = sections(unit)
+    block, keep = blocker(path)
+    not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
+    name = place_name(unit)
+    pretty = datetime.date.fromisoformat(start).strftime("%B %Y")
+    # No table: §5. A monthly is developments, dated and cited, section by section — a table of
+    # rows that moved restates the ledger without telling a reader what happened.
+    out = front(f"{name} — monthly update, {pretty}", today, unit, len(changed), not_held,
+                period=f"{start} to {end}") + [
+        f"# {name}: monthly update, {pretty}",
+        "",
+        f"*Developments recorded from artefacts published between {start} and {end} — {pretty} "
+        f"carried forward to the date of issue, so the report holds the nightly catch to the day "
+        f"it was cut. Sections follow the status report.*",
+        "",
+        "## Summary of the month",
+        "",
+        block("summary"),
+    ]
+    _, tax_label, _ = taxonomy()
+    for _, section, key in ordered:
+        srows = [r for r in changed if r["section"] == section]
+        out += ["", f"## {section}", ""]
+        groups = by_subject(srows)
+        if groups:
+            # One narrative block per subject that actually moved this month, in taxonomy
+            # order — item 4 of the 2026-08-10 report-structure change. A subject the
+            # section maps but that had nothing move gets no sub-heading and no block: the
+            # drafter is not handed an empty box to fill for a topic with no news.
+            for subject, _srows in groups:
+                subkey = f"{key}--{subject.replace('.', '-')}"
+                out += [f"### {tax_label.get(subject, subject)}", "", block(subkey)]
+        else:
+            out.append(block(key))
+    out.append("")
+    return write(path, out, unit, f"{len(changed)} row(s) moved in {start} to {end}, "
+                 f"{len(keep)} narrative block(s) carried across")
+
+
+def render_progress(unit, today, month, window, end=None):
+    """Progress — the movement ledger over a window, prior_* against current.
+
+    It is the only one of the three that can honestly say nothing changed, and it must be willing
+    to. A ***Not held*** row has no position at either end, so it is counted rather than tabled."""
+    folder, ledger, gaps = load(unit)
+    if not ledger:
+        print(f"{unit}: ledger is empty — nothing to render")
+        return 1
+    ordered, _ = sections(unit)
+    prof = profile(unit)
+    urls = slug_urls()
+    path = os.path.join(folder, f"{unit}-progress-{month}.md")
+    start, end = month_bounds(month, window, end or period_end(path) or today)
+    block, keep = blocker(path)
+    not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
+    held = [r for r in ledger if stem(r["status"]) != NOT_HELD]
+    name = place_name(unit)
+
+    def ends(r):
+        """(position at start, position at end, movement) — read off the ledger.
+
+        `position_start` and `position_end` carry the **substance** of each position, not its
+        label: "30 branches, five banks (2025-08)" against "296 branches, four banks". Where the
+        base establishes the thing did not exist, `position_start` says so. Only a row that
+        leaves it empty falls back to ***Baseline not held***."""
+        a = (r.get("position_start") or "").strip()
+        b = (r.get("position_end") or "").strip()
+        move = (r.get("movement") or "").strip()
+        # Only the end position is cited: it is the position this run established.
+        b = cite(b, r, urls) if b else f"{mark(r['status'])} ({r.get('as_at') or 'undated'})"
+        if not a:
+            a, move = mark(BASELINE_NOT_HELD), (move or BASELINE_NOT_HELD)
+        return a, b, (move or NO_CHANGE)
+
+    # A row whose position is dated after the window closed belongs to the status report, not to a
+    # comparison it post-dates. Counted, named, and kept out of the movement tables.
+    after = [r for r in held if (r.get("as_at") or "") > end]
+    held = [r for r in held if r not in after]
+    rows_ends = {r["row_id"]: ends(r) for r in held}
+
+    def mv(r):
+        return stem(rows_ends[r["row_id"]][2])
+
+    movers = [r for r in held if mv(r) in ("Advanced", "Stalled", "Regressed", "Closed")]
+    unbased = [r for r in held if mv(r) == BASELINE_NOT_HELD]
+    steady = [r for r in held if mv(r) == NO_CHANGE]
+    out = front(f"{name} — progress report, {start} to {end}", today, unit, len(ledger), not_held,
+                period=f"{start} to {end}") + [
+        f"# {name}: progress report, {start} to {end}",
+        "",
+        f"*Compiled {today} from the Data Landscapers source base. {prof['sections_note']} Each "
+        f"opens with a movement ledger comparing the position at the start and end of the period, "
+        f"which runs to the date of issue rather than to the last month's close.*",
+        "",
+        f"*Of {len(ledger)} {prof['objects']} on this place's ledger, {len(movers)} changed "
+        f"position between {start} and {end}, {len(steady)} did not, {len(unbased)} carry no stated "
+        f"baseline, and {not_held} {'is' if not_held == 1 else 'are'} ***Not held*** at both ends."
+        + (f" A further {len(after)} took a position dated after {end} and are carried in the "
+           f"status report rather than compared here.*" if after else "*"),
+        "",
+        shape_line(unit, start, end),
+        "",
+        MOVE_VOCAB,
+        "",
+        "## Summary of the period",
+        "",
+        block("summary"),
+    ]
+    _, tax_label, _ = taxonomy()
+    # Movement first within a subject group: an unchanged row is reference matter, a moved
+    # one is the report.
+    rank = {NO_CHANGE: 2, BASELINE_NOT_HELD: 3}
+    for _, section, key in ordered:
+        rows = [r for r in held if r["section"] == section]
+        out += ["", f"## {section}", ""]
+        if rows:
+            for subject, srows in by_subject(rows):
+                out += [f"### {tax_label.get(subject, subject)}", "",
+                        f"| {prof['object']} | At {start} | At {end} | Movement |",
+                        "|---|---|---|---|"]
+                for r in sorted(srows, key=lambda r: (rank.get(mv(r), 0), r["name"].lower())):
+                    a, b, m = rows_ends[r["row_id"]]
+                    out.append(f"| {r['name']} | {a} | {b} | {mark(m)} |")
+                out.append("")
+        else:
+            out += [f"_The base holds no {section.lower()} rows for {name} with a position at "
+                    f"either end of this window._", ""]
+        out.append(block(key))
+    if gaps:
+        out += (["", "## Where the record is thin", ""] + gaps_table(gaps, prof["object"])
+                + ["", block("gaps")])
+    out.append("")
+    return write(path, out, unit, f"{len(movers)} moved, {len(steady)} no change, "
+                 f"{len(unbased)} without a baseline, {not_held} not held, "
+                 f"{len(keep)} narrative block(s) carried across")
+
+
+def check(unit):
+    """Check G — every URL in the rendered documents is held in index/ — and check I."""
+    held = set(slug_urls().values())
+    held |= {link_target(u) for u in held}
+    bad = 0
+    folder = os.path.join(REPORTS, unit)
+    for fn in sorted(os.listdir(folder)):
+        if not fn.endswith(".md"):
+            continue
+        text = open(os.path.join(folder, fn), encoding="utf-8").read()
+        urls = set(re.findall(r"\]\((https?://[^)\s]+)\)", text))
+        miss = [u for u in urls if u not in held]
+        print(f"  {fn}: {len(urls)} links, {len(miss)} NOT HELD")
+        for u in miss:
+            print("     NOT HELD:", u)
+        bad += len(miss)
+    print(f"check G: {'PASS' if not bad else 'FAIL — ' + str(bad) + ' link(s) not in index/'}")
+    return (1 if bad else 0) | check_vocab(unit)
+
+
+def check_vocab(unit):
+    """Check I — the two vocabularies are closed, and every Not held row is in gaps.csv."""
+    _, ledger, gaps = load(unit)
+    bad = []
+    # A row whose `section` is not one this unit's map names renders nowhere at all — the section
+    # loop filters on equality, so a typo silently deletes the row from the document rather than
+    # failing. The region map made this reachable: two processes, two sets of section names.
+    known = {s for _, s, _ in sections(unit)[0]}
+    for r in ledger:
+        if (r.get("section") or "").strip() not in known:
+            bad.append(f"{r['row_id']}: section {r.get('section')!r} is not in this unit's section "
+                       f"map — the row would render in no section")
+        if (r.get("kind") or "instrument") == "measure":
+            continue
+        if stem(r["status"]) not in STATUSES:
+            bad.append(f"{r['row_id']}: status {r['status']!r} is outside the vocabulary")
+        move = (r.get("movement") or "").strip()
+        if move and stem(move) not in MOVEMENTS:
+            bad.append(f"{r['row_id']}: movement {move!r} is outside the vocabulary")
+        if stem(r["status"]) != NOT_HELD and not (r.get("milestone") or "").strip():
+            bad.append(f"{r['row_id']}: no milestone — the status table would print a bare date")
+    gap_ids = {g["row_id"] for g in gaps}
+    for r in ledger:
+        if stem(r["status"]) == NOT_HELD and r["row_id"] not in gap_ids:
+            bad.append(f"{r['row_id']}: Not held, but no gaps.csv line")
+    for line in bad:
+        print("     ", line)
+    print(f"check I: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
+    return 1 if bad else 0
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--unit", required=True)
+    ap.add_argument("--links", action="store_true")
+    ap.add_argument("--render", action="store_true")
+    ap.add_argument("--doc", choices=("status", "monthly", "progress", "all"), default="status")
+    ap.add_argument("--month", help="YYYY-MM (default: the last closed month)")
+    ap.add_argument("--end", metavar="YYYY-MM-DD",
+                    help="close the window here instead of at the date of issue. Only for "
+                         "re-cutting a document whose printed period is wrong; an existing "
+                         "issue's period is otherwise read back and kept")
+    ap.add_argument("--window", type=int, default=12, help="months in the progress window")
+    ap.add_argument("--check", action="store_true")
+    ap.add_argument("--today")
+    args = ap.parse_args()
+    unit = args.unit.upper()
+    # Slugs, URLs and the em dash below are not cp1252 — a Windows console kills the run on
+    # the first Arabic URL otherwise, which is a reporting failure, not a rendering one.
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
+
+    if args.links:
+        urls = slug_urls()
+        rows = read_csv(os.path.join(REPORTS, unit, "ledger.csv"))
+        for s in ledger_slugs(rows):
+            print(f"{s}\t{urls.get(s, 'UNRESOLVED — do not cite')}")
+        return 0
+    rc = 0
+    if args.render:
+        today = args.today or datetime.date.today().isoformat()
+        month = args.month or last_closed_month(today)
+        docs = profile(unit)["docs"]
+        # `--doc all` means all of this unit's documents. A region issues the progress report
+        # only, and naming one it does not issue is refused rather than rendered empty — the
+        # caller that asked for it (REPORT-MONTHLY over every initialised unit) is right to ask.
+        want = docs if args.doc == "all" else (args.doc,)
+        for skipped in [d for d in want if d not in docs]:
+            print(f"{unit}: no {skipped} report — this unit issues "
+                  f"{', '.join(docs)} only (REPORT-REGION.md)")
+        if "status" in want and "status" in docs:
+            rc |= render(unit, today)
+        if "monthly" in want and "monthly" in docs:
+            rc |= render_monthly(unit, today, month, args.end)
+        if "progress" in want and "progress" in docs:
+            rc |= render_progress(unit, today, month, args.window, args.end)
+    if args.check:
+        rc |= check(unit)
+    if not (args.render or args.check):
+        ap.print_help()
+    return rc
+
+
+if __name__ == "__main__":
+    sys.exit(main())

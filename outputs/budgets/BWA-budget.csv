@@ -1,0 +1,63 @@
+﻿fy,admin_head_code,admin_head,spending_entity_code,spending_entity,programme_code,programme,sub_programme_code,sub_programme,econ_class,appropriated,revised,actual,audited,exec_vs_voted,exec_vs_revised,baseline_stage,current_stage,scope_confidence,is_transfer,currency,record,programme_line
+NDP 12,,,,,,,,,,,,,,,,proposed,proposed,partial,false,BWP,2025-10-31-bwa-ndp12-burs-modernisation-proposed,bwa-ndp12-burs-modernisation-proposed
+NDP 12,,,,,,,,,,,,,,,,proposed,proposed,whole,false,BWP,2025-10-31-bwa-ndp12-finance-ministry-ict-development-proposed,bwa-ndp12-finance-ministry-ict-development-proposed
+2024/2025,,,,"Ministry for State President, Defence and Security (organisation 0200)",,,,,,156890000,156890000,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-0200-11015,MSP Computerisation
+2024/2025,,,,Ministry of Finance (organisation 0300),,,,,,48739941,35181175,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-0300-11061,MoF Computerisation
+2024/2025,,,,Ministry of Labour and Home Affairs (organisation 0400),,,,,,56500000,22494000,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-0400-11081,Computerisation
+2024/2025,,,,Ministry of Lands and Agriculture (organisation 0500),,,,,,33150000,31150000,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-0500-11116,MoA Computerisation
+2024/2025,,,,Ministry of Child Welfare and Basic Education (organisation 0600),,,,,,120510000,70510000,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-0600-11161,MESD Computerisation
+2024/2025,,,,Ministry of Trade and Entrepreneurship (organisation 0700),,,,,,8000000,8120320,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-0700-11212,MTI Computerisation
+2024/2025,,,,Ministry of Health (organisation 1100),,,,,,33240000,16335935,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-1100-11335,MoH Computerisation
+2024/2025,,,,Administration of Justice (organisation 1200),,,,,,4908495,2849897,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-1200-11382,AoJ Computerisation
+2024/2025,,,,Ministry of Environment and Tourism (organisation 2000),,,,,,7709700,4453000,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-2000-11503,MET Computerisation
+2024/2025,,,,Ministry of Transport and Infrastructure (organisation 2300),,,,,,3657150,19055750,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-2300-11584,Information and Communications
+2024/2025,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,736601447,266648447,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-2400-11631,Information and Communications Technology
+2024/2025,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,983694000,511419000,,,,,appropriated,revised,unclear,false,BWP,2024-04-01-bwa-2024-2400-11637,Research and Development
+2024/2025,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,13246620,13126140,12341893,,93.2,94.0,appropriated,actual,whole,false,BWP,2024-04-01-bwa-2024-2400-2404,"Department of Digital Communications, Infrastructure and Business"
+2024/2025,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,587270280,555644290,487118818,,82.9,87.7,appropriated,actual,whole,false,BWP,2024-04-01-bwa-2024-2400-2406,Department of Shared Digital Services
+2024/2025,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,,,514090181,,,,actual,actual,partial,false,BWP,2025-03-31-bwa-2024-2400-development,Ministry of Communications and Innovation
+2024/2025,,,,Ministry of Justice and Correctional Services (organisation 2900),,,,,,7109454,2800000,,,,,appropriated,revised,whole,false,BWP,2024-04-01-bwa-2024-2900-11832,Computerisation
+2024/2025,,,,Ministry of Entrepreneurship (organisation 3000),,,,,,7338240,,,,,,appropriated,appropriated,whole,false,BWP,2024-04-01-bwa-2024-3000-11861,MoE Computerisation
+2025/2026,,,,"Ministry for State President, Defence and Security (organisation 0200)",,,,,,104080000,64074943,41740940,,40.1,65.1,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-0200-12024,MSP Computerisation
+2025/2026,,,,Ministry of Finance (organisation 0300),,,,,,84571040,84571040,5154933,,6.1,6.1,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-0300-12041,MoF Computerisation
+2025/2026,,,,Ministry of Labour and Home Affairs (organisation 0400),,,,,,18700000,12200000,4425317,,23.7,36.3,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-0400-12061,Computerisation
+2025/2026,,,,Ministry of Lands and Agriculture (organisation 0500),,,,,,25000000,25000000,5100,,0.0,0.0,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-0500-12084,MLA Computerisation
+2025/2026,,,,Ministry of Child Welfare and Basic Education (organisation 0600),,,,,,270000000,38819833,0,,0.0,0.0,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-0600-12104,MCWBE Computerisation
+2025/2026,,,,Ministry of Trade and Entrepreneurship (organisation 0700),,,,,,0,7000000,190992,,,2.7,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-0700-12122,MTE Computerisation
+2025/2026,,,,Ministry of Health (organisation 1100),,,,,,10800000,9500000,1587158,,14.7,16.7,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-1100-12244,MoH Computerisation
+2025/2026,,,,Administration of Justice (organisation 1200),,,,,,4760000,4760000,166931,,3.5,3.5,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-1200-12263,AoJ Computerisation
+2025/2026,,,,Ministry of Environment and Tourism (organisation 2000),,,,,,0,14800000,1000000,,,6.8,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-2000-12403,MET Computerisation
+2025/2026,,,,Ministry of Transport and Infrastructure (organisation 2300),,,,,,27597281,13597281,3663284,,13.3,26.9,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-2300-12461,Information and Communications Technology
+2025/2026,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,369079545,338683428,142712599,,38.7,42.1,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-2400-11631,Information and Communications Technology
+2025/2026,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,477403718,185786978,42771544,,9.0,23.0,appropriated,actual,unclear,false,BWP,2025-03-31-bwa-2025-2400-11637,Research and Development
+2025/2026,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,13737390,,,,,,appropriated,appropriated,whole,false,BWP,2025-03-31-bwa-2025-2400-2404,"Department of Digital Communications, Infrastructure and Business"
+2025/2026,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,594362280,,,,,,appropriated,appropriated,whole,false,BWP,2025-03-31-bwa-2025-2400-2406,Department of Shared Digital Services
+2025/2026,,,,Ministry of Justice and Correctional Services (organisation 2900),,,,,,3654291,3654291,,,,,appropriated,revised,whole,false,BWP,2025-03-31-bwa-2025-2900-12523,MJCS Computerisation
+2025/2026,,,,Office of the Receiver (organisation 3100),,,,,,4564988,500000,0,,0.0,0.0,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-3100-12562,OTR Computerisation
+2025/2026,,,,Ministry of Higher Education (organisation 3300),,,,,,3950000,3950000,3950000,,100.0,100.0,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-3300-12601,MHE Computerisation
+2025/2026,,,,Ministry of Sport and Arts (organisation 3400),,,,,,8751006,8751006,2164874,,24.7,24.7,appropriated,actual,whole,false,BWP,2025-03-31-bwa-2025-3400-12621,MoSA Computerisation
+2025/2026,,,,Botswana Prisons Service (organisation 3500),,,,,,,9158347,,,,,revised,revised,whole,false,BWP,2025-08-01-bwa-2025-3500-12643,Prisons - ICT Development
+2026/2027,,,,Parliament (organisation 0100),,,,,,2000000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-0100-12001-ict,Parliament
+2026/2027,,,,"Ministry for State President, Defence and Security (organisation 0200)",,,,,,148200000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-0200-12024,MSP Computerisation
+2026/2027,,,,Ministry of Finance (organisation 0300),,,,,,123172400,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-0300-12041,MoF Computerisation
+2026/2027,,,,"Ministry of Labour and Home Affairs, Department of Civil and National Registration (organisation 0400, department 0411)",,,,,,108505050,,,,,,appropriated,appropriated,partial,false,BWP,2026-04-01-bwa-2026-0400-0411,"Ministry of Labour and Home Affairs, Department of Civil and National Registration"
+2026/2027,,,,Ministry of Labour and Home Affairs (organisation 0400),,,,,,42019862,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-0400-12061,Computerisation
+2026/2027,,,,Ministry of Lands and Agriculture (organisation 0500),,,,,,124328409,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-0500-12084,MLA Computerisation
+2026/2027,,,,Ministry of Child Welfare and Basic Education (organisation 0600),,,,,,253000000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-0600-12104,MCWBE Computerisation
+2026/2027,,,,Ministry of Trade and Entrepreneurship (organisation 0700),,,,,,12853196,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-0700-12122,MTE Computerisation
+2026/2027,,,,Ministry of Health (organisation 1100),,,,,,28934000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-1100-12244,MoH Computerisation
+2026/2027,,,,Administration of Justice (organisation 1200),,,,,,6250000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-1200-12263,AoJ Computerisation
+2026/2027,,,,Independent Electoral Commission (organisation 1600),,,,,,50000000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-1600-12341-evr,Independent Electoral Commission
+2026/2027,,,,Office of the Ombudsman (organisation 1700),,,,,,0,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-1700-12362,Ombuds ICT Development
+2026/2027,,,,Ministry of Environment and Tourism (organisation 2000),,,,,,10033212,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-2000-12403,MET Computerisation
+2026/2027,,,,Industrial Court (organisation 2100),,,,,,5500000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-2100-12423,Industrial Court-ICT Development
+2026/2027,,,,Ministry of Transport and Infrastructure (organisation 2300),,,,,,107000000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-2300-12461,Information and Communications Technology
+2026/2027,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,251000000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-2400-12481,Information and Communications Technology
+2026/2027,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,213700000,,,,,,appropriated,appropriated,unclear,false,BWP,2026-04-01-bwa-2026-2400-12482,Research and Development
+2026/2027,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,12692280,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-2400-2404,"Department of Digital Communications, Infrastructure and Business"
+2026/2027,,,,Ministry of Communications and Innovation (organisation 2400),,,,,,587310850,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-2400-2406,Department of Shared Digital Services
+2026/2027,,,,Ministry of Justice and Correctional Services (organisation 2900),,,,,,4006530,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-2900-12523,MJCS-ICT Development
+2026/2027,,,,Office of the Receiver (organisation 3100),,,,,,4564988,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-3100-12562,OTR-ICT Development
+2026/2027,,,,Ministry of Higher Education (organisation 3300),,,,,,16000000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-3300-12601,MoHE Computerisation
+2026/2027,,,,Ministry of Sport and Arts (organisation 3400),,,,,,7800000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-3400-12621,MoSA Computerisation
+2026/2027,,,,Botswana Prisons Service (organisation 3500),,,,,,1800000,,,,,,appropriated,appropriated,whole,false,BWP,2026-04-01-bwa-2026-3500-12643,Prisons - ICT Development
