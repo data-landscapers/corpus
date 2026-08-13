@@ -10,7 +10,7 @@ last_reviewed: 2026-08-12
 
 ## What this is
 
-Corpus is the public-site repo for **data-landscapers.com**'s Africa data-governance research. It builds and serves **corpus.data-landscapers.com**: a browsable, downloadable public surface — country reports, regional reports, a source catalogue, budget and non-state-finance data — over a private research base called **OSINT** (`C:\Users\bill\OSINT`, a separate repo Bill maintains).
+Corpus is the public-site repo for **data-landscapers.com**'s Africa data-governance research. It builds and serves **corpus.data-landscapers.com**: a browsable, downloadable public surface — country reports, regional reports, a source catalogue, budget and non-state-finance data — over a private research base called **OSINT** (`C:\OSINT`, a separate repo Bill maintains).
 
 Corpus is a **derived view**. It holds no state of its own and nothing on it is authored by hand except the build code itself. Everything served is generated from a folder called `outputs/` inside OSINT.
 
@@ -26,7 +26,7 @@ Corpus *reads* OSINT freely: grep the tree, read any file, run read-only git com
 
 ## How data actually moves
 
-**Corpus pulls; OSINT never pushes.** `scripts/pull.py` reads OSINT's committed `HEAD` (never its working tree — a run in progress is simply uncommitted, so this is safe), diffs `outputs/` against the last SHA it built, checks the diff for leaked source bodies, and replaces `upstream/` wholesale. The OSINT path defaults to `C:\Users\bill\OSINT` and can be overridden with `$OSINT_PATH`.
+**Corpus pulls; OSINT never pushes.** `scripts/pull.py` reads OSINT's committed `HEAD` (never its working tree — a run in progress is simply uncommitted, so this is safe), diffs `outputs/` against the last SHA it built, checks the diff for leaked source bodies, and replaces `upstream/` wholesale. The OSINT path defaults to `C:\OSINT` and can be overridden with `$OSINT_PATH`.
 
 Then the renderers run over `upstream/` and write `site/`:
 - `scripts/render.py` — one report (status / monthly / progress) → HTML + PDF, both from one template and one stylesheet, via WeasyPrint.

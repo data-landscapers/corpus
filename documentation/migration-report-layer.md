@@ -2,7 +2,7 @@
 type: proposal
 title: Migrating and re-founding the output layer in Corpus
 last_reviewed: 2026-08-13
-status: agreed in principle; editorial register is v0.1, to be developed dialectically
+status: agreed; editorial register v0.3 (light touch), in force
 ---
 
 # Migrating the output layer from OSINT to Corpus — and giving it a voice
@@ -54,7 +54,7 @@ You've said the reports should **analyse, not only report** — that Corpus carr
 This overturns the one thing the OSINT report layer was most careful about. Its §10 register bans first person, verdicts, argumentative headings, and taking any party's framing into the report's voice — on the principle that *"a reader who cannot tell where the evidence stops and the writing starts discounts the evidence too."*
 That principle does not disappear because Corpus takes a position. It has to be **satisfied by other means**, because the evidence is exactly what earns Corpus the right to an opinion. The re-founding below is how.
 
-### Corpus editorial register — v0.2, light touch
+### Corpus editorial register — v0.3, light touch
 
 **One principle: the evidence speaks; the lens decides what gets noticed and connected, and then gets out of the way.**
 
@@ -73,12 +73,12 @@ Worked contrast, on the same facts §10 uses as its model:
 
 **Consequences to handle.** This supersedes §10 for Corpus only — OSINT's internal reports keep it as written. `report-register-check.py`'s tic-scanner still runs, but reports rather than gates; a connecting sentence is not a defect. Checks G–K (links held, prose agrees with the ledger, vocabulary, as-of honesty) bind unchanged — a position, however light, raises the cost of an unchecked figure, it does not lower it.
 
-**This section is v0.2 and the part we develop dialectically.** The right voice is something we find by drafting a real report — South Africa is the test case — and pushing on it, not by settling it on paper.
+**This section is v0.3, the light-touch register now in force** — settled with Bill after the South Africa test case. The earlier intent to keep developing the voice dialectically is closed; the register is evidence-led and non-polemical, the lens carried mostly by selection.
 
 ## The gaps loop still crosses the boundary
 
 Unchanged from the first draft, and still the one hard coupling. A *Not held* row becomes a research brief; OSINT's sweeps are what chase it; Corpus can't write to OSINT.
-Mechanism: Corpus writes a machine-readable **request feed** (`reports/requests-for-osint.csv`) that OSINT reads on its own schedule; OSINT fetches and ingests into `raw/`; Corpus's next scan sees the new source arrive and settles the gap itself, stamping `probe_at` — which moves to Corpus with the ledger. `raw/` is the return channel it already is. Nothing in Corpus blocks on OSINT having acted.
+Mechanism: Corpus writes a machine-readable **request feed** (`logs/requests-for-osint.csv`) that OSINT reads on its own schedule; OSINT fetches and ingests into `raw/`; Corpus's next scan sees the new source arrive and settles the gap itself, stamping `probe_at` — which moves to Corpus with the ledger. `raw/` is the return channel it already is. Nothing in Corpus blocks on OSINT having acted.
 
 ## Standing constraints to agree with the colleague
 
@@ -93,7 +93,7 @@ The mirror of the constraints already atop `logs/notes-for-osint.md`, now that C
 
 **Phase 2a — port and rebuild (before Sunday).** Port the output scripts into `build/`, pointed at OSINT's frozen `raw/`/`index/`/`lookups/` read-only. Rebuild all of `outputs/` into a Corpus-owned tree from the snapshot. This is the proof of independence and the Sunday milestone.
 
-**Phase 2b — re-found the report layer with the new register.** Rebuild the ledgers clean (Note 6 moot), and draft one real report under the v0.1 editorial register — a live test of the voice, the thing we iterate on together. Rewrite the in-flight monthlies to match once the register settles.
+**Phase 2b — re-found the report layer with the new register.** Rebuild the ledgers clean (Note 6 moot), and draft one real report under the v0.3 editorial register — a live test of the voice, the thing we iterate on together. Rewrite the in-flight monthlies to match once the register settles.
 
 **Phase 2c — cut the site over.** Render the site from Corpus-owned state; retire the report/finance/catalogue halves of `scripts/pull.py`. Add the final verification: a full render + A, D, G–K over every unit before anything is called authoritative.
 
