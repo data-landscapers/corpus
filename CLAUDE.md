@@ -24,6 +24,10 @@ Reading is unrestricted: read any file, grep the whole tree, run read-only git c
 
 **Deletes on this folder need permission once per session.** The sandbox blocks `unlink` on the Dropbox mount by default, which does not stop a commit but leaves `.git/HEAD.lock` behind — and that stale lock makes *every subsequent* commit fail with `cannot lock ref 'HEAD'`. Call `allow_cowork_file_delete` on any path in Corpus at the start of a session and git behaves normally thereafter. If commits start failing mid-session, look for stale `.lock` and `tmp_obj_*` files under `.git/` first.
 
+## Communication with Bill
+
+**Do not use the word "honest" (or "honestly").** *(Bill, 2026-08-13.)* A cross-project preference; promote it to the global `~/.claude/CLAUDE.md` for it to apply everywhere.
+
 ## Writing
 
 **One line per paragraph. Never wrap by hand.** Same rule as the wiki, and for the same reason: a hard-wrapped paragraph diffs badly, because changing one word near the start reflows every line after it and the diff shows a rewritten paragraph instead of a changed word. It does not apply where the break carries meaning — frontmatter, code blocks, tables.
