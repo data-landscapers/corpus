@@ -290,9 +290,7 @@ Access is low and improving slowly: the regulator reported internet users rising
 
 Affordability moved backwards. Mobile data was [about US$23.70 per gigabyte in November 2025](https://www.onecitizendaily.com/index.php/2025/11/27/41522/); [MTN cut tariffs by 25% the following month](https://techafricanews.com/2025/12/12/south-sudans-ict-ministry-commends-mtn-for-25-tariff-reduction-urges-further-cuts/), and two exchange-rate adjustments then [raised charges again with no revised rate published](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/).
 
-Skills provision is a costed plan: three centres in Central Equatoria for over 8,000 people at a [stated US$2,806,100, with no financier or start date](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/). The older commitments are Chinese — [US$22,336,740 for the Educational Technical Cooperation Project in 2020](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml) — and the largest is not a digital-services project at all: [US$271,154,617 from China Eximbank for an air traffic management system in 2018](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm). No national budget, annex or appropriation line for the ICT ministry, the National Communication Authority or the Electronic Services Council is held, so what the state itself spends on any of these systems cannot be stated.
-
-The largest external programme is the World Bank's [Eastern Africa Regional Digital Integration Project, at US$162m of IDA after a US$10m partial cancellation in Somalia in April 2026](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt); its mid-term review raised the development-objective rating to Moderately Satisfactory while fiduciary and environmental and social risk stayed High. Private-sector investment mobilised in South Sudan is US$0 against a US$20m target.
+Skills provision is a costed plan: three centres in Central Equatoria for over 8,000 people at a [stated US$2,806,100, with no financier or start date](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/).
 <!-- /narrative -->
 
 ## Finance
@@ -316,7 +314,9 @@ The largest external programme is the World Bank's [Eastern Africa Regional Digi
 | Domestic budget appropriation for digital transformation | ***Not held*** | No budget, annex or appropriation line for the ICT ministry, the NCA or the Electronic Services Council is held |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+External financing commitments sit outside any budget line: China committed [US$22,336,740 for the Educational Technical Cooperation Project's second phase in 2020](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml), and separately extended the largest commitment on record — [US$271,154,617 from China Eximbank for an air traffic management system in 2018](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm), not a digital-services project. No national budget, annex or appropriation line for the ICT ministry, the National Communication Authority or the Electronic Services Council is held, so what the state itself spends on any of these systems cannot be stated.
+
+The largest external programme is the World Bank's [Eastern Africa Regional Digital Integration Project, at US$162m of IDA after a US$10m partial cancellation in Somalia in April 2026](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt); its mid-term review raised the development-objective rating to Moderately Satisfactory while fiduciary and environmental and social risk stayed High. Private-sector investment mobilised in South Sudan is US$0 against a US$20m target.
 <!-- /narrative -->
 
 ## Gaps to fill

@@ -1,14 +1,14 @@
 ---
 title: Congo — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-12
 place: COG
-ledger_rows: 80
+ledger_rows: 81
 not_held: 8
 ---
 
 # Congo: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/COG/ledger.csv` (80 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/COG/ledger.csv` (81 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -17,9 +17,9 @@ not_held: 8
 <!-- narrative: summary -->
 The state's digital effort is concentrated in revenue collection, and there it is compulsory. Certified electronic invoicing has been [mandatory for every economic agent except the state, local authorities on public-service missions and diplomatic bodies since 1 July 2026](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf), with no phase-in by firm size and no assisted route stated; an order of 22 May makes [all public revenue payable exclusively through one national platform, payment outside it void](https://sgg.cg/JO/2026/congo-jo-2026-24-2.pdf).
 
-Against that, the institutions are thin. The data-protection commission was [installed on 22 January 2026 and has produced no decision, sanction, registration regime or guidance since](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/); the country has had a [cybersecurity agency since 2019 and a national strategy now out to international tender](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1), bids closing 2 September 2026.
+Against that, the institutions are thin. The data-protection commission was [installed on 22 January 2026 and has produced no decision, sanction, registration regime or guidance since](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/); the country has had a [cybersecurity agency since 2019 and a national strategy now out to tender](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1), bids closing 2 September 2026.
 
-The money is legible and the delivery is not: the sector vote is [FCFA 30,139,589,283 for 2026, up 30.5%](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), on 2025 execution of FCFA 3,158,525,582, and no audited figure exists for any year. Eight of the rows below are ***Not held***.
+The money is legible and the delivery is not: the sector vote is [FCFA 30,139,589,283 for 2026, up 30.5%](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), on 2025 execution of FCFA 3,158,525,582, and no audited figure exists for any year.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -82,6 +82,7 @@ Hosting is asserted rather than evidenced. The national data centre was [reporte
 
 | System or instrument | Status | As at |
 |---|---|---|
+| AfCFTA customs digitalisation concession | [Implemented](https://www.adiac-congo.com/content/zlecaf-la-digitalisation-des-procedures-douanieres-confiee-au-nigerian-bergmans-171160) | A 20-year, US$3.1bn concession signed at Abuja with Nigerian firm Bergmans Security Consultants and Supplies, via its subsidiary AfriTrade CMP, to digitalise customs procedures across 50 African countries |
 | CEMAC interoperable QR-code standard | [Implemented](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | The community standard launched at Douala under an April 2026 regulation |
 | Inter-administration data exchange platform | [Planned](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | Named as one of three digital public infrastructure foundations in the published roadmap |
 
@@ -152,6 +153,8 @@ The [integrated civil-status system has three modules validated and no funding d
 
 The ministry that runs the civil-service payroll platform has minuted [data security problems, recurrent unavailability and a malfunctioning payslip code](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326), with no remediation date. An [inter-administration data exchange platform is a named roadmap foundation with no design or timetable](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
 
+AfCFTA's secretariat [contracted a Nigerian firm to digitalise customs procedures across 50 African countries](https://www.adiac-congo.com/content/zlecaf-la-digitalisation-des-procedures-douanieres-confiee-au-nigerian-bergmans-171160) under a 20-year, US$3.1bn concession signed 5 August 2026 at Abuja; the country-by-country rollout is not yet published.
+
 A decree [gazetted on 6 August 2026 creates a public-administration digitalisation task force under the Prime Minister, with four organs and interoperability of public information systems as a standing objective](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf); its strategic committee's first listed task is to audit the level of digitisation across the administration. No session is on record.
 <!-- /narrative -->
 
@@ -201,7 +204,7 @@ A decree [gazetted on 6 August 2026 creates a public-administration digitalisati
 | National open-data portal or dataset-release policy | ***Not held*** | — |
 
 <!-- narrative: governance -->
-Fiscal instruments are the only ones being made. Beyond the invoicing decree and the payment order, a [tax on newly imported SIM-capable terminals has been in force since 1 June 2026](https://www.adiac-congo.com/content/assemblee-nationale-presentation-de-la-taxe-sur-les-nouveaux-terminaux-numeriques-cartes-sim), earmarked for connectivity and infrastructure, with no rate or yield published.
+Fiscal instruments are the only ones being made: a [tax on newly imported SIM-capable terminals has been in force since 1 June 2026](https://www.adiac-congo.com/content/assemblee-nationale-presentation-de-la-taxe-sur-les-nouveaux-terminaux-numeriques-cartes-sim), earmarked for connectivity and infrastructure, with no rate or yield published.
 
 Data protection is constituted and inactive. [Loi n° 29-2019 is in force, its institutional framework completed by a decree of 31 December 2025](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/), and the commission's members were appointed and officers elected with powers to advise, warn and sanction. Nothing states whether controllers must register or notify, what fees or deadlines apply, or whether any enforcement has occurred.
 
@@ -298,8 +301,6 @@ External technology relationships run to China and Russia and stop at announceme
 | National AI strategy technical committee | [In development](https://www.adiac-congo.com/content/intelligence-artificielle-et-langues-nationales-le-congo-lance-les-travaux-de-sa-strategie) | An inaugural meeting of the technical committee with a six-month mandate |
 
 <!-- narrative: inclusion -->
-The domestic vote rose and the spending did not follow. The sector programme is [FCFA 30,139,589,283 for 2026 against FCFA 23,348,037,007 revised for 2025](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), while 2025 execution was FCFA 3,158,525,582 — 13.5% of the revised figure, on a numerator excluding personnel. The [treasury banking-function account more than doubled to FCFA 5,968,000,000](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) while the [dedicated public-finance information-systems account stayed flat at FCFA 3,500,000,000](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf). No audited outturn exists for any digital line: the settlement-law series ends at exercise 2020.
-
 Universal service is funded at a fixed figure and reports in inaugurations. The fund carries [FCFA 1,000,000,000 for 2026, spent entirely as transfers](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), flat for three consecutive fiscal years, against a three-year record of 200 sites connected and 2025 targets whose achievement is not established. What is reported is [two further towns connected in January 2026](https://techafricanews.com/2026/01/28/congo-advances-digital-inclusion-with-new-connections-in-miaba-and-ehota/).
 
 Skills are targets without outturns. The transformation project has carried the same [1,200-young-people training target for two years with no trained figure published](https://www.journaldebrazza.com/congo-plus-de-21-milliards-fcfa-pour-accelerer-la-transformation-numerique/); a [national cybersecurity training plan is being procured with the strategy under a 24-month donor-financed mission](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1). No national digital-literacy programme, target or measured rate is held anywhere in the base.
@@ -333,7 +334,7 @@ Skills are targets without outturns. The transformation project has carried the 
 | Treasury banking-function special account | [Implemented](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Appropriated in the 2026 finance law |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The domestic vote rose and the spending did not follow. The sector programme is [FCFA 30,139,589,283 for 2026 against FCFA 23,348,037,007 revised for 2025](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), while 2025 execution was FCFA 3,158,525,582 — 13.5% of the revised figure, on a numerator excluding personnel. The [treasury banking-function account more than doubled to FCFA 5,968,000,000](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) while the [dedicated public-finance information-systems account stayed flat at FCFA 3,500,000,000](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf). No audited outturn exists for any digital line: the settlement-law series ends at exercise 2020.
 <!-- /narrative -->
 
 ## Gaps to fill
@@ -354,9 +355,9 @@ _(narrative not yet written)_
 | National digital-literacy programme | a national digital-literacy programme document, a fund or project training outturn broken out by literacy rather than skills, or a published digital-literacy rate | not yet probed |
 
 <!-- narrative: gaps -->
-Eight instrument rows carry no reliable statement. The [security agency's statutes oblige its director-general to publish an annual report on the state of national cybersecurity before 30 June of the following year](https://sgg.cg/JO/2023/congo-jo-2023-03.pdf); none is on file for any year. The electronic-communications framework law of 2009, diagnosed by an industry report as a brake on the sector, reaches the base with no number, title or text. No open-data portal or dataset-release policy exists at all.
+The [security agency's statutes oblige its director-general to publish an annual report on the state of national cybersecurity before 30 June of the following year](https://sgg.cg/JO/2023/congo-jo-2023-03.pdf); none is on file for any year. The electronic-communications framework law of 2009, diagnosed by an industry report as a brake on the sector, reaches the base with no number, title or text. No open-data portal or dataset-release policy exists.
 
-Three are relationships that return nothing: United States, Indian and Gulf-state technology presence. The remaining two are the absence of any Congolese public argument about data governance or digital rights, and of a national digital-literacy programme.
+United States, Indian and Gulf-state technology presence return nothing, nor does any Congolese public argument about data governance or digital rights, nor a national digital-literacy programme.
 
 Four measures matter for reading this report: no registration, notification or enforcement regime under the data-protection law; no cybersecurity or ICT workforce stock; no energy cost or reliability figure for digital infrastructure; and no audited outturn for any digital line. Each row is in `gaps.csv` with what would settle it; none has yet been probed.
 <!-- /narrative -->

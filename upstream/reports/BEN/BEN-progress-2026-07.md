@@ -357,11 +357,7 @@ One entry in this section is ***Not held***. A government AI super app is counte
 <!-- narrative: inclusion -->
 No position changed band.
 
-The first per-programme execution figures Benin has ever published arrived inside the window, showing the [national digital programme at 0.62% of credits ordonnancé](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf) at 30 April 2026 against 15.43% across all programmes.
-
-The reading of the estimates volumes established a budget line for the data-protection authority, none for the agency running the CSIRT, the data centre and the PKI, none for the identity agency, and no appearance at all by the telecoms regulator.
-
-The delivery rows are all arrivals: a national tele-teaching platform authorised for 2026–27, the skills hub network and a francophone training programme. And two entries here are ***Not held*** for the same reason — the performance reports the organic budget law requires have never been published, and no audited figure exists for any digital line — so nothing here can be checked against outturn.
+The delivery rows are all arrivals: a national tele-teaching platform authorised for 2026–27, the skills hub network and a francophone training programme.
 <!-- /narrative -->
 
 ## Finance
@@ -375,7 +371,11 @@ The delivery rows are all arrivals: a national tele-teaching platform authorised
 | Execution of the national digital budget programme | ***Baseline not held*** | [Programme 111 Numérique at 0.62% of credits ordonnancé (2026-04-30), against 15.43% across all programmes](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The first per-programme execution figures Benin has ever published arrived inside the window, showing the [national digital programme at 0.62% of credits ordonnancé](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf) at 30 April 2026 against 15.43% across all programmes.
+
+The reading of the estimates volumes established a budget line for the data-protection authority, none for the agency running the CSIRT, the data centre and the PKI, none for the identity agency, and no appearance at all by the telecoms regulator.
+
+Two entries are ***Not held*** for the same reason — the performance reports the organic budget law requires have never been published, and no audited figure exists for any digital line — so nothing here can be checked against outturn.
 <!-- /narrative -->
 
 ## Where the record is thin

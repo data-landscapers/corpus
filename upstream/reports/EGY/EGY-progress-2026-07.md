@@ -340,7 +340,7 @@ The acceptance and identity infrastructure widened: debit cards rose from 26.4 m
 
 A unified government services card entered a Port Said pilot reaching 41,500 ration-card households.
 
-Training rose where it is counted by programme and stalled where it is counted nationally: the university artificial-intelligence initiative added 1,090 students in its fourth round ([round account](https://gate.ahram.org.eg/News/5882834.aspx)), while the most recent national ICT training total remains 400,000 trainees for 2023/24. State investment in the sector is stated only in dollars by ministers, at more than US$6bn since 2019 ([ministry account](https://techafricanews.com/2026/06/02/egypt-invests-over-6-billion-in-telecom-infrastructure-and-digital-connectivity-development-since-2019/)), and no Egyptian budget document supports any appropriation figure in this report.
+Training rose where it is counted by programme and stalled where it is counted nationally: the university artificial-intelligence initiative added 1,090 students in its fourth round ([round account](https://gate.ahram.org.eg/News/5882834.aspx)), while the most recent national ICT training total remains 400,000 trainees for 2023/24.
 <!-- /narrative -->
 
 ## Finance
@@ -367,7 +367,7 @@ Training rose where it is counted by programme and stalled where it is counted n
 | Central bank cooperation with Eswatini | The base carries no dated position on the relationship at 2025-08-01, though prior cooperation on capital standards, financial inclusion, small-business finance and climate-related risk is described | [Eswatini seeking to draw on Egypt's continental payment-system accession experience, with Egypt also offering its currency-circulation system, its currency printing house and banking institute training programmes](https://techafricanews.com/2026/07/21/egypt-and-eswatini-central-banks-deepen-cooperation-on-digital-payments-and-banking/) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+State investment in the sector is stated only in dollars by ministers, at more than US$6bn since 2019 ([ministry account](https://techafricanews.com/2026/06/02/egypt-invests-over-6-billion-in-telecom-infrastructure-and-digital-connectivity-development-since-2019/)), and no Egyptian budget document supports any appropriation figure in this report.
 <!-- /narrative -->
 
 ## Where the record is thin

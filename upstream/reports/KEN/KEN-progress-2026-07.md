@@ -353,13 +353,11 @@ The patron layer accreted announcements without delivery. Four bilateral channel
 | Jitume training throughput | ***Baseline not held*** | [More than 140,000 young people trained and more than 41,000 linked to economic opportunity since 2023](https://www.radio47.fm/news/technopolis-launches-ol-kalou-jitume-digital-hub-graduates-106-youths-33109/) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-The direction here is that state financing fell while the externally financed share rose. The digital thematic allocation went KSh 16.3bn, KSh 12.7bn, KSh 8.6bn across three years, and the World Bank acceleration project rose to KSh 4.3bn — half the entire thematic — having disbursed US$33.93m of a US$390m commitment by June 2026. The department's own vote fell from KSh 16,188.8m appropriated for 2025/26 to KSh 12,763.8m for 2026/27, with the intervening year revised down to KSh 12,215.1m.
-
 One programme closed and one opened. The digital-rights coalition ended in July 2026 after 30 months; a successor training programme began the same day. An arid-lands access programme passed its scheduled March 2026 completion with no completion report on file.
 
 Six donor instruments held position all year at their original commitment values because the base holds commitments and no disbursement for any of them. That is not a finding about the programmes; it is a finding about what is published.
 
-The measured positions moved modestly and in one direction. Smartphone connections passed 50 million in March 2026 from 48.7 million in December 2025, with feature phones falling to 28.5 million. Against that, state credit contracted: funding for the flagship lending fund fell from KSh 20bn at launch to KSh 300m in the year to June 2026, and repayment is now accepted in a privately issued loyalty currency at a rate the issuer sets.
+The measured positions moved modestly and in one direction. Smartphone connections passed 50 million in March 2026 from 48.7 million in December 2025, with feature phones falling to 28.5 million. The flagship lending fund's repayment is now accepted in a privately issued loyalty currency at a rate the issuer sets.
 <!-- /narrative -->
 
 ## Finance
@@ -388,7 +386,9 @@ The measured positions moved modestly and in one direction. Smartphone connectio
 | Last-mile county connectivity maintenance appropriation | ***Baseline not held*** | [KSh 528m appropriated for maintenance and rehabilitation](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+State financing fell while the externally financed share rose. The digital thematic allocation went KSh 16.3bn, KSh 12.7bn, KSh 8.6bn across three years, and the World Bank acceleration project rose to KSh 4.3bn — half the entire thematic — having disbursed US$33.93m of a US$390m commitment by June 2026. The department's own vote fell from KSh 16,188.8m appropriated for 2025/26 to KSh 12,763.8m for 2026/27, with the intervening year revised down to KSh 12,215.1m.
+
+State funding for the flagship lending fund fell from KSh 20bn at launch to KSh 300m in the year to June 2026.
 <!-- /narrative -->
 
 ## Where the record is thin

@@ -221,8 +221,6 @@ The state's answer to synthetic media was created within the window and is not a
 | Digital Public Goods university curriculum | Did not exist | [More than 1,100 students taught, 14 campus champions across four universities, and 11 student-built solutions evaluated against the DPG Standard (2026-07)](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | Advanced |
 
 <!-- narrative: inclusion -->
-External finance was committed and domestic finance was announced. The World Bank Board [approved the US$137m WARDIP2 operation on 13 March 2026](https://techafricanews.com/2026/03/13/world-bank-launches-137m-initiative-to-expand-broadband-and-digital-jobs-in-west-africa) covering Benin, Liberia and Sierra Leone, with the Sierra Leone share undisclosed; the [Sierra Leone Innovation Investment Fund appeared in July 2026 as a US$150m five-year target with no amount raised](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent).
-
 Skills capacity was built at both the civil-service and university levels, through a [programme launched in July 2026 with 1,000 places in year one](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) and a Digital Public Goods curriculum that has [taught more than 1,100 students](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent). Access did not move with them: [12 universities remain the reported extent of Starlink connectivity for the sector](https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/), and the last penetration figure held is [20.8% in October 2025](https://www.connectingafrica.com/connectivity/sierra-leone-invests-400m-in-telecoms-60-usage-gap-remains).
 <!-- /narrative -->
 
@@ -236,7 +234,7 @@ Skills capacity was built at both the civil-service and university levels, throu
 | Sierra Leone Innovation Investment Fund | ***Baseline not held*** | [US$150m over five years stated as a mobilisation target, with no amount raised stated (2026-07)](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+External finance was committed and domestic finance was announced within the period. The World Bank Board [approved the US$137m WARDIP2 operation on 13 March 2026](https://techafricanews.com/2026/03/13/world-bank-launches-137m-initiative-to-expand-broadband-and-digital-jobs-in-west-africa) covering Benin, Liberia and Sierra Leone, with the Sierra Leone share undisclosed; the [Sierra Leone Innovation Investment Fund appeared in July 2026 as a US$150m five-year target with no amount raised](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent).
 <!-- /narrative -->
 
 ## Where the record is thin

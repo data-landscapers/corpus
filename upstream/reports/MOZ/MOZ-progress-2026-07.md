@@ -311,8 +311,6 @@ None of it is adopted policy. The strategy was not adopted, the commission's dec
 The composite measure of financial inclusion did not move: 36.4 points in 2024 and 36.4 points in 2025, on the central bank's own index ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). Underneath it, access points rose 36% to 482,359 on a 42% rise in non-bank agents, while automated teller machines and card terminals both fell.
 
 The credit gap moved in the opposite direction to the account gap. Women's participation in credit went from 31% to 34% and men's from 59% to 66%, so the gap widened, while women's mobile money holding rose from 924 to 1,144 per thousand adults.
-
-The financing position changed by one instrument: the European Union's EUR 28m digital transition agreement, signed on 9 June 2026, which did not exist at the start of the window ([delegation announcement](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en)). Everything else in the section — two World Bank operations, two export-credit facilities, two closed civil-registration programmes — is unchanged, and none of it is domestic.
 <!-- /narrative -->
 
 ## Finance
@@ -341,7 +339,7 @@ The financing position changed by one instrument: the European Union's EUR 28m d
 | State budget information technology and digital appropriation lines | ***Baseline not held*** | [FY2026 appropriations: CEDSIF MZN 757,832,010 including MZN 100,000,000 of wholly domestic investment; the civil identification directorate MZN 230,819,650; the statistics institute MZN 211,296,440 centrally with MZN 212,543,130 more across eleven provincial delegations; the e-government institute MZN 93,280,160; INTIC MZN 73,636,370; and the communications and digital transformation ministry's central apparatus MZN 111,260,610 of operating money against a capital budget of MZN 2,637,800,000 that is entirely externally financed. Only CEDSIF and the ministry carry any investment line at all](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The investment portfolio changed by one instrument across the window: the European Union's EUR 28m digital transition agreement, signed on 9 June 2026, which did not exist at the start of the period ([delegation announcement](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en)). Everything else in the portfolio — two World Bank operations, two export-credit facilities and two closed civil-registration programmes — was unchanged across the window, and none of it is domestic.
 <!-- /narrative -->
 
 ## Where the record is thin

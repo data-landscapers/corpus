@@ -295,7 +295,7 @@ Formal financial access reached [96% of adults in 2024 against 48% in 2008](http
 
 [4,184 of 4,996 schools were connected as at March 2026](https://www.ktpress.rw/2026/03/connecting-the-remaining-812-schools-takes-centre-stage-at-edtech-mondays-dialogue/), leaving 812 mostly rural — rural connectivity at about 27% against roughly 75% urban, against an 80% target. Nothing has been published since.
 
-The acceleration project and a regional bank operation both close in 2026, the first last reported 55% complete in July 2025 and the second with no disbursement figure at any date. Capacity money moved in opposite directions inside one budget: an education technology integration line rose 23.1% to RWF 28.96bn while a second fell 34.4%, and the cyber-security standards and skills line sat flat for a second year after spending 11.5% of its 2024/25 vote. A digital-ambassador programme concluded its financing phase in May 2026 having trained 1,567,034 citizens, with no successor financing held. A universal access fund is on the record: a [presidential order of 12 May 2023](https://www.minict.gov.rw/index.php?eID=dumpFile&f=71170&t=f&token=b823ce70150c2240be4a87269bc40c9b8a997ef1) caps each licensee's annual contribution at 2.5% of the turnover of each regulated service category; the rate actually set is a regulatory-board decision the base does not hold. Its latest accounts on file, for 2020/21, report [Frw 3,828,837,334 spent against a Frw 6,372,536,516 budget](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Reports/RURA_ANNUAL_REPORT_2020-2021.pdf).
+A digital-ambassador programme concluded its financing phase in May 2026 having trained 1,567,034 citizens, with no successor financing held.
 <!-- /narrative -->
 
 ## Finance
@@ -308,7 +308,11 @@ The acceleration project and a regional bank operation both close in 2026, the f
 | Regional bank digital acceleration operation | [Implemented](https://www.aiib.org/en/projects/details/2021/approved/Rwanda-Digital-Acceleration-Project-Digital-Investment-for-Recovery-Resilience-and-Connectivity.html) | Board approval 2021, period 2022 to 2026 |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Two external financing instruments both close in 2026 without a clear disbursement record: the digital acceleration project was last reported 55% complete in July 2025, and a regional development bank operation carries no disbursement figure at any date.
+
+Domestic capacity financing moved in opposite directions across a single budget: an education technology integration line rose 23.1% to RWF 28.96bn while a second line fell 34.4%, and the cyber-security standards and skills line sat flat for a second year after spending 11.5% of its 2024/25 vote.
+
+A universal access fund set up by a [presidential order of 12 May 2023](https://www.minict.gov.rw/index.php?eID=dumpFile&f=71170&t=f&token=b823ce70150c2240be4a87269bc40c9b8a997ef1) caps each licensee's annual contribution at 2.5% of the turnover of each regulated service category; the rate actually set is a regulatory-board decision the base does not hold. Its latest accounts on file, for 2020/21, report [Frw 3,828,837,334 spent against a Frw 6,372,536,516 budget](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Reports/RURA_ANNUAL_REPORT_2020-2021.pdf).
 <!-- /narrative -->
 
 ## Gaps to fill

@@ -303,11 +303,9 @@ The sector's financing position also moved from nothing to a proposal: a four-ye
 | Digital skills trained under the foundations project | Over 19,000 young people, 10,000 of them female, trained in digital skills through 10 technology hubs over 2017 to 2024 | [Unchanged; no successor training count is published, and the acceleration project's own training indicators are not reported in the base](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | No change |
 
 <!-- narrative: inclusion -->
-Financing advanced and measurement did not. Parliament ratified an SDR 58.2m grant for local-government service delivery on 29 July 2026, extending coverage to 32 councils from the predecessor's 28 and funding business-process re-engineering ahead of equipment purchase ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)).
+Measurement did not keep pace: no measured internet-penetration figure exists for any date in the period. The most recent value the wiki holds remains around 24 users per 100 inhabitants from a May 2024 appraisal ([appraisal document](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt)), while a presidential directive of February 2026 set a target of 80% internet usage by 2026 with no baseline attached.
 
-Against that, no measured internet-penetration figure exists for any date in the period. The most recent value the wiki holds remains around 24 users per 100 inhabitants from a May 2024 appraisal ([appraisal document](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt)), while a presidential directive of February 2026 set a target of 80% internet usage by 2026 with no baseline attached.
-
-School connectivity was measured for the first time: 85% of Malawi's 9,000 schools have limited or no internet access and about 900 have none, with the 2026/27 budget carrying no dedicated line for it ([landscape analysis](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/)).
+School connectivity was measured for the first time: 85% of Malawi's 9,000 schools have limited or no internet access and about 900 have none ([landscape analysis](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/)).
 
 Council performance moved backwards on the one audited measure available: clean audit opinions fell to 18 in 2024/25 from 22 the year before, announced alongside the launch of a public spending dashboard ([launch account](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/)).
 <!-- /narrative -->
@@ -338,7 +336,9 @@ Council performance moved backwards on the one audited measure available: clean 
 | School connectivity line in the 2026/27 national budget | The base carries no statement about school-connectivity appropriation before 2025-08-01 | [The 2026/27 budget policy statement contains no dedicated line for school internet connectivity or digital infrastructure in primary and secondary schools; education received MWK 1.28tn, 11.7% of the budget, directed at fee abolition, classrooms, teaching materials and university operations, and transport and ICT received MWK 664.4bn directed at roads, rail and aviation](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Parliament ratified an SDR 58.2m grant for local-government service delivery on 29 July 2026, extending coverage to 32 councils from the predecessor's 28 and funding business-process re-engineering ahead of equipment purchase ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)).
+
+The 2026/27 national budget carries no dedicated line for school connectivity ([landscape analysis](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/)).
 <!-- /narrative -->
 
 ## Where the record is thin

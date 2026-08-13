@@ -295,10 +295,6 @@ External technology relationships are narrow. Botswana [acceded to the Artemis A
 | University of Botswana virtual-reality programme | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/university-of-botswana-enters-vr-space-with-new-immersive-initiative) | Launched 2026-04-16 with a partner innovation hub |
 
 <!-- narrative: inclusion -->
-The appropriations are the strongest evidence in this report and they read as retrenchment. For FY2026/27 the [communications ministry ICT project falls to P251,000,000 from P369,079,545, a third consecutive cut from P736.6m in FY2024/25](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf); [basic education computerisation falls to P253,000,000 from P270,000,000, on a FY2025/26 outturn of P0](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf); and the [research and development project falls to P213,700,000 from P477,403,718, on a 9.0% outturn](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf). The [largest single recurrent digital line is essentially flat at P587,310,850](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf), and the only line fully spent in FY2025/26 was [higher education computerisation, which rises to P16,000,000](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf). No audited outturn exists for any of them.
-
-One procurement runs against that: a [P654.4m learning-technology contract awarded by direct procurement on 25 June 2026](https://www.sundaystandard.info/p654-million-tender-adjudicated-awarded-same-day/), its financial evaluation received, adjudicated and approved the same day, out of a vote that spent nothing the previous year.
-
 Universal service delivers per site and publishes no programme total. Two school digital centres were handed over in July at [P1.45m and P1.5m per site, thirty machines each](https://dailynews.gov.bw/news-detail/92351), from a fund financed by a 1% levy on mobile providers whose annual allocation and school target are not held. Community access is a single site: [one Wi-Fi installation at tariffs of P2 to P10 with a free 45-minute daily window](https://techafricanews.com/2025/06/09/botswana-launches-community-wi-fi-in-old-naledi-boosting-digital-inclusion/), with no second recorded. No national digital-literacy measure and no official internet penetration figure are held.
 <!-- /narrative -->
 
@@ -331,7 +327,9 @@ Universal service delivers per site and publishes no programme total. Two school
 | Audited outturn for digital budget lines | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The appropriations are the strongest evidence in this report and they read as retrenchment. For FY2026/27 the [communications ministry ICT project falls to P251,000,000 from P369,079,545, a third consecutive cut from P736.6m in FY2024/25](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf); [basic education computerisation falls to P253,000,000 from P270,000,000, on a FY2025/26 outturn of P0](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf); and the [research and development project falls to P213,700,000 from P477,403,718, on a 9.0% outturn](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf). The [largest single recurrent digital line is essentially flat at P587,310,850](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf), and the only line fully spent in FY2025/26 was [higher education computerisation, which rises to P16,000,000](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf). No audited outturn exists for any of them.
+
+One procurement runs against that retrenchment: a [P654.4m learning-technology contract awarded by direct procurement on 25 June 2026](https://www.sundaystandard.info/p654-million-tender-adjudicated-awarded-same-day/), its financial evaluation received, adjudicated and approved the same day, out of a vote that spent nothing the previous year.
 <!-- /narrative -->
 
 ## Gaps to fill

@@ -1,14 +1,14 @@
 ---
 title: Cape Verde — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-12
 place: CPV
-ledger_rows: 122
+ledger_rows: 123
 not_held: 45
 ---
 
 # Cape Verde: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/CPV/ledger.csv` (122 systems and instruments, 45 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/CPV/ledger.csv` (123 systems and instruments, 45 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -170,6 +170,7 @@ What is missing is the layer beneath. A diploma on interoperability standards fo
 | Diploma regulating data governance in the public administration | [Planned](https://www.governo.cv/ministra-edna-oliveira-ouvida-na-1a-comissao-especializada-no-ambito-da-discussao-na-especialidade-oe2024/) | Named as a 2024 legislative deliverable to the National Assembly's First Committee |
 | General authorisation regime for electronic communications | [Implemented](https://expressodasilhas.cv/economia/2025/09/18/starlink-conquista-02-do-mercado-da-internet-em-9-meses/99028) | Five authorised operators reported in ARME's Q2 2025 indicators |
 | Legal frameworks for digital services, e-commerce and digital banking | [Planned](https://www.governo.cv/cabo-verde-apresenta-estrategia-nacional-para-o-5g-e-ambiciona-ser-hub-digital-regional-ate-2030/) | Declared as a component of the 5G strategy presented 2025-09-10 |
+| Satellite communications regulatory framework (ARME) | [In development](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/) | Public consultation opened by ARME on licensing, spectrum and network-security rules for satellite operators, submissions to 31 August 2026 |
 | Artificial-intelligence statute | ***Not held*** | — |
 | Cybercrime statute and national cybersecurity framework instrument | ***Not held*** | — |
 
@@ -236,6 +237,8 @@ What is missing is the layer beneath. A diploma on interoperability standards fo
 
 <!-- narrative: governance -->
 The digital governance action plan ran 2021 to 2025; no successor plan, extension or evaluation is held, so the 2026 statements about a digital nation run without a current published action plan ([plan presentation](https://www.governo.cv/ministro-eurico-monteiro-apresenta-avancos-de-cabo-verde-em-materia-de-governacao-eletronica-e-modernizacao-dos-sistemas-na-iii-reuniao-interministerial-da-governacao-eletronica-da-cplp/)). The Minister of Economy, Trade, Industry and Digital Transition convened a strategic consultation in Praia on 6 August 2026 to feed a national diagnosis and the priorities of a future digital transformation agenda ([ministry statement](https://www.governo.cv/ministro-da-economia-comercio-industria-e-transicao-digital-promove-consulta-estrategica-sobre-o-futuro-digital-de-cabo-verde/)). No draft, title or adoption date is held.
+
+A first dedicated regulatory framework for satellite communications is under consultation. [ARME opened submissions to 31 August 2026 on licensing, spectrum, frequency coordination, user protection, network security and emergency communications for satellite operators](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/), a direct regulatory response to Starlink's December 2024 entry to the archipelago and distinct from the general authorisation regime under which Starlink was licensed; no draft text or adoption date is published.
 
 Data protection rests on a 2001 statute closely mirroring the European model, last amended in 2021 to require designation of data-protection officers — an obligation the supervisory authority's president said in February 2025 several institutions had not met ([interview](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448)). On the face of its own site the authority has published no genuine activity report since 2016, and its FY2025 appropriation of CVE 36,313,115 — roughly a dozen maximum penalties — sits inside the National Assembly's private budget rather than any ministerial vote. Its FY2026 appropriation is unestablished: the budget volume contains no occurrence of the authority in 266 pages.
 
@@ -346,10 +349,6 @@ Several stated instruments cannot be inspected. A startup law with tax benefits 
 | National research funding line for digital or artificial-intelligence research | ***Not held*** | — |
 
 <!-- narrative: inclusion -->
-Two fee-financed ceilings define the inclusion picture, and neither has been re-estimated. The universal service fund has carried CVE 122,073,633 unchanged to the escudo across FY2024, FY2025 and FY2026, financed by operator contributions and the radio-spectrum fee and appearing in no organic, functional or economic classification ([budget law](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf)). The civil-identification earmark has likewise carried CVE 306,516,802 unchanged across the same three budgets. No expenditure, project or beneficiary record exists for the universal service fund from any date.
-
-Against those, the ministry vote collapsed while spending did not. The digital ministry executed 33.0% of its reprogrammed budget in FY2024 and 37.9% in FY2025 against state-wide rates near 80%, and 10.1% at the first quarter of 2026 against 18.6% state-wide ([quarterly account](https://www.mf.gov.cv/documents/198414/6576107/Mapas_Contas_1%C2%BA_Trim_%202026_Site.xlsx)). Its FY2024 investment line executed a printed zero. The state IT agency's own forecast service revenue of CVE 1,094,297,000 for 2026 is 6.3 times the ministry's entire vote, and no agency accounts have been published since the FY2024 volume.
-
 Training is externally financed and its results unmeasured. A digital-skills programme opened 1,050 first-phase places against a stated 3,000-opportunity target at a reported EUR 400,000, funded by the World Bank ([launch account](https://techreviewafrica.com/news/3789/cabo-verde-launches-skodji-digital-programme-to-expand-youth-access-to-global-digital-economy)); no enrolment, completion or placement figure is held.
 <!-- /narrative -->
 
@@ -382,7 +381,9 @@ Training is externally financed and its results unmeasured. A digital-skills pro
 | Data-protection commission appropriation for FY2026 | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Two fee-financed ceilings sit inside the digital-transformation budget without matching expenditure records. The universal service fund has carried CVE 122,073,633 unchanged to the escudo across FY2024, FY2025 and FY2026, financed by operator contributions and the radio-spectrum fee and appearing in no organic, functional or economic classification ([budget law](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf)); the civil-identification earmark has likewise carried CVE 306,516,802 unchanged across the same three budgets. No expenditure, project or beneficiary record exists for the universal service fund from any date.
+
+Execution tells a starker story than appropriation. The digital ministry executed 33.0% of its reprogrammed budget in FY2024 and 37.9% in FY2025 against state-wide rates near 80%, and 10.1% at the first quarter of 2026 against 18.6% state-wide ([quarterly account](https://www.mf.gov.cv/documents/198414/6576107/Mapas_Contas_1%C2%BA_Trim_%202026_Site.xlsx)); its FY2024 investment line executed a printed zero. The state IT agency's own forecast service revenue of CVE 1,094,297,000 for 2026 is 6.3 times the ministry's entire vote, and no agency accounts have been published since the FY2024 volume.
 <!-- /narrative -->
 
 ## Gaps to fill

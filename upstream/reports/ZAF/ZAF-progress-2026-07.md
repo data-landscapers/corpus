@@ -269,7 +269,7 @@ Funding reversed within the period. South Africa raised [$335.9m across 42 ventu
 <!-- narrative: inclusion -->
 Grant verification widened during the period. Biometric enrolment began on 1 September 2025 and had reached [997,379 of 19.05m recipients by March 2026](https://pmg.org.za/committee-question/37674/), about 5%; 420,000 grants were flagged during 2025/26 and roughly 160,000 beneficiaries did not complete the review, with [child-grant recipients reporting months without payment](https://www.sundaytimes.timeslive.co.za/news/2026-07-31-child-grant-reviews-leave-mothers-stranded-as-payments-dry-up-for-months/). The litigation that would settle the mechanism was neither implemented nor decided within the twelve months.
 
-The department spent R3.61bn of a R3.74bn budget in FY2025/26, with the shortfall attributed to the stalled broadband programme and funded but vacant posts. At the State Information Technology Agency, a Public Service Commission investigation reported [R2.07bn of irregular expenditure across four audited years](https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/) and annual performance plan achievement of 42.86% in FY2024/25; the 30-day deadline for a recovery plan expired within the period, and no plan is recorded.
+At the State Information Technology Agency, a Public Service Commission investigation reported [R2.07bn of irregular expenditure across four audited years](https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/) and annual performance plan achievement of 42.86% in FY2024/25; the 30-day deadline for a recovery plan expired within the period, and no plan is recorded.
 <!-- /narrative -->
 
 ## Finance
@@ -277,7 +277,7 @@ The department spent R3.61bn of a R3.74bn budget in FY2025/26, with the shortfal
 _The base holds no finance rows for South Africa with a position at either end of this window._
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The Department of Communications and Digital Technologies spent [R3.61bn of a R3.74bn budget in FY2025/26](https://www.agsa.co.za/storage/app/media/reporting/pfma/PFMA-GR-2024-25-Interactive.pdf), a shortfall attributed to the stalled broadband programme and funded but vacant posts.
 <!-- /narrative -->
 
 ## Where the record is thin

@@ -1,14 +1,14 @@
 ---
 title: DR Congo — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-12
 place: COD
-ledger_rows: 80
+ledger_rows: 82
 not_held: 9
 ---
 
 # DR Congo: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/COD/ledger.csv` (80 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/COD/ledger.csv` (82 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -115,6 +115,7 @@ The state operator's position is financial: on current finances it [could theore
 | System or instrument | Status | As at |
 |---|---|---|
 | Economic-inspection document authentication platform | [Piloting](https://actualite.cd/2026/06/26/rdc-le-ministere-de-leconomie-nationale-mise-sur-le-numerique-pour-renforcer-la) | Technical training of ministry staff closed after a session running 9 to 24 June 2026 |
+| Facture normalisée (standardised VAT e-invoicing system) | [Implemented](https://actualite.cd/2026/08/06/facture-normalisee-doudou-fwamba-clot-les-cliniques-fiscales-et-annonce-des-sanctions) | Fiscal clinics closed and immediate targeted sanctions ordered against non-compliant taxpayers and DGI staff, 2026-08-06 |
 | Higher-education portal and national digital library | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-centralisation-des-donnees-et-acces-au-savoir-les-enjeux-du-nouveau-portail-numerique-universitaire) | The portal and a first national digital library went live under external financing |
 | Public-enterprise digitalisation plan 2026-2028 | [Planned](https://rdc-monde.com/rdc-finis-les-circuits-lents-ligf-passe-en-mode-numerique-pour-traquer-la-fraude-et-booster-les-entreprises-publiques/) | A dissemination seminar for public managers opened in Kinshasa with digitalisation as the plan's backbone |
 
@@ -151,6 +152,8 @@ Identity is being built twice, in parallel, on different legal bases. The [RDC-P
 Payments are the most active layer and the least measured. A [card-and-wallet interoperability service](https://visa-inc.africa-newsroom.com/press/visa-pay-launches-to-expand-access-to-digital-payments-across-the-democratic-republic-of-the-congo-drc) is live and now carries a [stablecoin settlement of wallet top-ups](https://www.theeastafrican.co.ke/tea/business-tech/visa-tests-stablecoins-in-drc-for-cross-border-payments-5515040), which runs against the central bank's own deadline of [9 April 2027, from which no foreign-cash transaction of any amount is permitted](https://actualite.cd/2026/05/04/inclusion-financiere-en-rdc-58-dacces-contre-25-30-de-bancarisation-la-bcc-parie-sur-la). Account numbers cannot be stated: the base carries [24m, 29m, 30m and 35m across sources](https://www.connectingafrica.com/financial-inclusion/how-onafriq-is-growing-digital-finance-amid-uncertainty-in-drc), none reconcilable and no central-bank series published.
 
 Government platforms are specified on paper. The [digital government platform missed a first-quarter 2026 target with neither launch nor delay announced](https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project); the e-government strategy dated 2025 to 2030 has its master plan and interoperability framework still to be defined by a consultant not yet appointed. Where delivery exists it is narrow: [sole-trader attestations issue in under 48 hours while full online company creation is not possible](https://actualite.cd/2026/07/28/formalisation-des-entreprises-en-rdc-daniel-mukoko-samba-mise-sur-le-numerique-pour).
+
+Tax administration is the sector's most enforced digitisation. The [standardised VAT e-invoicing system, mandatory since 1 December 2025, has closed its transitional "fiscal clinics", and the finance minister has ordered immediate targeted sanctions against non-compliant taxpayers and against DGI staff who validate deductions without a normalised invoice](https://actualite.cd/2026/08/06/facture-normalisee-doudou-fwamba-clot-les-cliniques-fiscales-et-annonce-des-sanctions); quarterly VAT mobilisation has risen from a CFC 280–290bn average to CFC 340bn, which the minister called still "very largely below potential".
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -283,7 +286,7 @@ A Chinese supplier memorandum covers [about 2,100 km along the Congo River at a 
 
 | System or instrument | Status | As at |
 |---|---|---|
-| Universal service fund pilot sites | [Piloting](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) | The first pilot connectivity sites launched in Kongo Central, with the foundation stone laid by the posts and telecommunications minister |
+| Universal service fund pilot sites | [Piloting](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) | Subsidy conventions signed with Airtel, Orange, Vodacom and Africell for a first tranche of 40 localities, targeting about 258,000 people, 8 August 2026 |
 
 ### Access to services
 
@@ -312,9 +315,7 @@ A Chinese supplier memorandum covers [about 2,100 km along the Congo River at a 
 | Domestic public funding for digital and AI research | ***Not held*** | — |
 
 <!-- narrative: inclusion -->
-The digital economy section's domestic appropriation is [FC 81,698,223,741 for FY2026, up 34.8% on FY2025 but 6.2% below FY2024](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf); on the export's own conversion the line has fallen in dollars. No FY2026 execution has been published and no audited outturn is obtainable at section grain.
-
-The universal service fund moved from an instrument civil society described as unavailable to a construction site: the [first pilot connectivity sites were launched in Kongo Central](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) with a community digital-learning centre attached. No site count, budget or appropriation line for the fund is held.
+The universal service fund has moved from an instrument civil society described as unavailable to a first funded national tranche. The [first pilot connectivity sites were launched in Kongo Central](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) with a community digital-learning centre attached, and the fund then [signed subsidy conventions with Airtel, Orange, Vodacom and Africell covering a first tranche of 40 localities, targeting about 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites), against a diagnostic finding nearly 3,000 uncovered localities holding about 4.3m people. A second phase of 300 sites is planned, with a 2030 target of 3,000 localities, 16m people and 100 digital community centres. No per-locality budget or fund appropriation figure is held.
 
 Financial inclusion is stated once and without a trajectory: [about 58% against 25 to 30% bank-account penetration](https://actualite.cd/2026/05/04/inclusion-financiere-en-rdc-58-dacces-contre-25-30-de-bancarisation-la-bcc-parie-sur-la), the gap attributed to mobile-money use without a bank account. No earlier dated rate is held.
 
@@ -327,6 +328,7 @@ Training targets exist without enrolments. The national digital plan sets [250,0
 
 | System or instrument | Status | As at |
 |---|---|---|
+| Eastcastle Debt II (IFC debt facility) | [Planned](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-903-SII-52276%22) | Reported at pipeline/identification stage 2026-07-16 |
 | Tower operator investment convention | [Implemented](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios) | An investment convention of more than US$100m signed with the investment-promotion agency |
 | Tower platform senior facility | [Implemented](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/) | A development fund committed US$32.8m into an upsized US$179m senior secured facility |
 
@@ -345,7 +347,7 @@ Training targets exist without enrolments. The national digital plan sets [250,0
 | Posts and telecommunications section appropriation | [Implemented](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | The 2026 finance law enacted, stripping new technologies from the section title and fixing its domestic credits |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The digital economy section's domestic appropriation is [FC 81,698,223,741 for FY2026, up 34.8% on FY2025 but 6.2% below FY2024](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf); on the export's own conversion the line has fallen in dollars. No FY2026 execution has been published and no audited outturn is obtainable at section grain. The national identification system and posts-and-telecommunications sections were also fixed inside the same 2026 finance law, both renamed or stripped of their old technology framing at enactment.
 <!-- /narrative -->
 
 ## Gaps to fill

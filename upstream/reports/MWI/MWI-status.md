@@ -394,11 +394,7 @@ A statutory copyright body has meanwhile set an authorship rule ahead of the sta
 <!-- narrative: inclusion -->
 The measures that would show whether Malawi's digital systems reach people are largely absent, and where they exist they are unflattering. The most recent national internet-penetration figure the wiki holds is around 24 users per 100 inhabitants, from a May 2024 appraisal on a 2022 baseline ([appraisal document](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt)). No measured value for any date inside the past year is held, against a presidential target of 80% internet usage by 2026 stated without a baseline.
 
-Schools are the clearest case. 85% of Malawi's 9,000 schools have limited or no internet access and about 900 have none at all, with lack of electricity and of devices named as the main barriers; the 2026/27 national budget carries no dedicated line for school connectivity, while the nearest digital allocation is MWK 1.1bn for assembling laptops and tablets at a university ([landscape analysis](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/)).
-
-The universal service fund exists and is stated to be short: its Director General said in March 2026 that existing funding levels remain insufficient ([procurement briefing](https://techafricanews.com/2026/03/26/malawi-moves-to-expand-rural-connectivity-with-90-new-telecom-towers/)), and no income, balance or disbursement figure is held for any year.
-
-What is financed is financed externally. Parliament ratified an SDR 58.2m grant for local-government service delivery on 29 July 2026, of which US$12.8m funds business-process re-engineering, system assessments and a performance dashboard ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)). There is no domestic budget archive for Malawi, so every appropriation figure the wiki carries is a journalist's or a minister's reading.
+Schools are the clearest case. 85% of Malawi's 9,000 schools have limited or no internet access and about 900 have none at all, with lack of electricity and of devices named as the main barriers ([landscape analysis](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/)).
 <!-- /narrative -->
 
 ## Finance
@@ -428,7 +424,11 @@ What is financed is financed externally. Parliament ratified an SDR 58.2m grant 
 | Universal Service Fund accounts | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The 2026/27 national budget carries no dedicated line for school connectivity; the nearest digital allocation is MWK 1.1bn for assembling laptops and tablets at a university ([landscape analysis](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/)).
+
+The universal service fund itself is under-resourced: its Director General said in March 2026 that existing funding levels remain insufficient, and no income, balance or disbursement figure is held for any year ([procurement briefing](https://techafricanews.com/2026/03/26/malawi-moves-to-expand-rural-connectivity-with-90-new-telecom-towers/)).
+
+What is financed is financed externally. Parliament ratified an SDR 58.2m grant for local-government service delivery on 29 July 2026, of which US$12.8m funds business-process re-engineering, system assessments and a performance dashboard ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)). There is no domestic budget archive for Malawi, so every appropriation figure the wiki carries is a journalist's or a minister's reading.
 <!-- /narrative -->
 
 ## Gaps to fill

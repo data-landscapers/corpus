@@ -238,8 +238,6 @@ The external relationships diverged. The [India memorandum](https://publiceyenew
 The government's stated measure of the access problem — [100% broadband coverage against about 50% regular internet use](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9) — was given in July 2026, and the base carries no comparable figure from the start of the period, so the gap cannot be shown to have narrowed or widened.
 
 Training moved once. The [AI Skills Development Programme](https://publiceyenews.com/2026/06/17/lesotho-us-forge-ai-future/) with the US Embassy began in June 2026, and [digital-literacy training](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) is reported across all ten districts without participant numbers. The digital-skills training [pledged with AWS in August 2025](https://techafricanews.com/2025/08/25/vodacom-lesotho-upgrades-network-as-group-ceo-pledges-continued-investment-in-digital-transformation/) has nothing recorded against it in the twelve months since.
-
-No domestic appropriation for digital transformation is held at either end of the period.
 <!-- /narrative -->
 
 ## Finance
@@ -251,7 +249,7 @@ No domestic appropriation for digital transformation is held at either end of th
 | Development-partner support for the data blueprint | ***Baseline not held*** | [Named as supporters at the first workshop; no programme document, terms of reference or amount is held](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+No domestic budget appropriation for digital transformation is held at either end of the period: no budget speech, estimates volume or appropriation act naming a MICSTI vote or a digital-transformation budget line is on record for 2024/25 or later.
 <!-- /narrative -->
 
 ## Where the record is thin

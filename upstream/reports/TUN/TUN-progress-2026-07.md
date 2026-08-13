@@ -226,10 +226,6 @@ The telecommunications market's structure is unchanged: three operators, mobile 
 | Digital skills in the development plan | Did not exist as a statutory commitment | [Artificial intelligence, data analysis, programming and cybersecurity named as the skills base of a digital economy made a pillar of human-capital development; no programme, budget, target or delivery agency is stated (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
 
 <!-- narrative: inclusion -->
-The period's financing movement is disclosure rather than money. The [EBRD facility of up to EUR 190m](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) had been board-approved in July 2024 and unannounced at the start of the window; its announcement in January 2026 is what made its four tranches, its components and its EUR 11m companion grant citable. The [European grant that built the cable landing closed in August 2025](https://digital-strategy.ec.europa.eu/en/news/viatunisia) at EUR 9.6m of a EUR 32m project.
-
-Domestic financing did not move, because there is nothing to move: no appropriation line for the digital programme exists at either end of the period, and the [2027 budget orientations name the digital transition without attaching a figure](https://www.lapresse.tn/2026/08/04/sara-zaafrani-zenzri-devoile-les-grandes-orientations-du-projet-de-loi-de-finances-2027/).
-
 Skills acquired a statutory home. Artificial intelligence, data analysis, programming and cybersecurity are [named in the plan annex](https://www.arp.tn/loi/project/4315) as the skills base of a digital economy made a pillar of human-capital development — a commitment that did not exist a year ago and that still has no budget or delivery agency behind it.
 <!-- /narrative -->
 
@@ -244,7 +240,9 @@ Skills acquired a statutory home. Artificial intelligence, data analysis, progra
 | AfDB economic and social reforms grant | Closed (2025-08) | [Closed; no evaluation or successor operation is held (2026-08)](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-G-TN-I00-ZZZ-002%22) | No change |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The period's financing movement is disclosure rather than money. The [EBRD facility of up to EUR 190m](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) had been board-approved in July 2024 and unannounced at the start of the window; its announcement in January 2026 is what made its four tranches, its components and its EUR 11m companion grant citable. The [European grant that built the cable landing closed in August 2025](https://digital-strategy.ec.europa.eu/en/news/viatunisia) at EUR 9.6m of a EUR 32m project.
+
+Domestic financing did not move, because there is nothing to move: no appropriation line for the digital programme exists at either end of the period, and the [2027 budget orientations name the digital transition without attaching a figure](https://www.lapresse.tn/2026/08/04/sara-zaafrani-zenzri-devoile-les-grandes-orientations-du-projet-de-loi-de-finances-2027/).
 <!-- /narrative -->
 
 ## Where the record is thin

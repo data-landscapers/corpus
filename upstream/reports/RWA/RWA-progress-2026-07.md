@@ -309,9 +309,7 @@ The continental instruments the country hosts have not converted into delivery: 
 <!-- narrative: inclusion -->
 At the window's opening the inclusion layer was infrastructure without a rail. Twelve months on, the rail is mandatory at a flat fee, 4.4 million people are biometrically enrolled including refugees and stateless persons, the third-generation network has a hard retirement date, and an institute of computing opens in September — but every one of those is a switch-on rather than a measured outcome.
 
-The capacity finance moved the other way. The cyber-security skills line has sat flat for two consecutive years after spending 11.5% of its 2024/25 vote; the research line fell 7.3%; and one education-technology line has fallen 74% since 2024/25 while another grew 23%. A digital-ambassador programme concluded its financing phase in May 2026 having trained 1,567,034 citizens, with no successor financing held.
-
-Externally, the picture is instruments ageing out without outturn: the acceleration project and a regional bank operation both close in 2026 with no disbursement figure held since 55% in July 2025, and the successor nine-year framework carries no published envelope.
+A digital-ambassador programme also closed out this window, concluding its financing phase in May 2026 having trained 1,567,034 citizens, with no successor financing held.
 
 The clearest single regression is the second mobile-money operator — market share and agent count both down over exactly the period interoperability was supposed to help. The urban and rural internet-use gap, 57% against 19%, is unchanged because the survey has not been repeated.
 <!-- /narrative -->
@@ -333,7 +331,9 @@ The clearest single regression is the second mobile-money operator — market sh
 | Education technology integration appropriation | RWF 23,522,003,941 appropriated for 2025/26 | [RWF 28,956,710,022 for 2026/27, up 23.1%, with the last outturn at 81.7% of voted](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Domestic capacity financing was uneven across budget lines this window: the cyber-security standards and skills line sat flat for a second consecutive year after spending only 11.5% of its 2024/25 vote, the research line fell 7.3%, and one education-technology line fell 74% since 2024/25 while another grew 23%.
+
+Externally, the picture is instruments ageing out without outturn: the digital acceleration project and a regional bank operation both close in 2026 with no disbursement figure held since 55% in July 2025, and the successor nine-year framework carries no published envelope.
 <!-- /narrative -->
 
 ## Where the record is thin

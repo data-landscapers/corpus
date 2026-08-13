@@ -1,14 +1,14 @@
 ---
 title: Ethiopia — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-12
 place: ETH
-ledger_rows: 80
+ledger_rows: 83
 not_held: 4
 ---
 
 # Ethiopia: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/ETH/ledger.csv` (80 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/ETH/ledger.csv` (83 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -145,6 +145,7 @@ Site power is what makes rural coverage expensive. Ethio Telecom reported [39.72
 | EthioPay national instant payment system | [Implemented](https://www.bpcbt.com/ethiopia-instant-payments-smartvista) | Launched 2026-02-13 |
 | EthSwitch and Mastercard international acceptance | [Implemented](https://shega.co/ethswitch-15-year-vision-mastercard) | Live 2025-11-30 |
 | M-PESA Ethiopia | [Implemented](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles) | 2.58m monthly active users in the quarter to June 2026 |
+| M-PESA Ethiopia cardless ATM withdrawals | [Implemented](https://techafricanews.com/2026/08/11/m-pesa-ethiopia-launches-cardless-atm-withdrawals-with-bank-of-abyssinia/) | Launched with Bank of Abyssinia 2026-08-11 |
 | M-PESA LeHulum telco-agnostic wallet | [Implemented](https://www.connectingafrica.com/mobile-money/m-pesa-ethiopia-debuts-a-fully-telco-agnostic-platform) | Launched 2025-12-02 |
 | Mandatory Fayda integration with bank accounts | [Implemented](https://www.nbe.gov.et/fayda-banking-integration) | Harmonisation deadline 2026-03-30 |
 | Prepaid electricity purchase in the mobile wallet | [Implemented](https://techafricanews.com/2026/07/29/m-pesa-ethiopia-launches-prepaid-electricity-payments-through-super-app/) | Live 2026-07-29 |
@@ -262,6 +263,7 @@ Telebirr moves about 11bn Birr a day across 60.6m users. The October 2025 switch
 | System or instrument | Status | As at |
 |---|---|---|
 | Data sharing arrangement under the health memorandum | [Planned](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Provided for at 2.5.2, still to be negotiated |
+| Development Bank of Ethiopia Information Disclosure Policy | [Implemented](https://www.thereporterethiopia.com/52220/) | Policy adopted classifying client credit information, legal case files, strategy papers, security protocols and third-party contracts as permanently non-disclosable, reported 2026-08-08 |
 | Personal Data Protection Proclamation 1321/2024 | [Implemented](https://www.aln.africa/ethiopia-new-data-protection-law) | In force from 2024-07-24 |
 | Secondary directives under the data-protection law | ***Not held*** | — |
 
@@ -273,6 +275,8 @@ Telebirr moves about 11bn Birr a day across 60.6m users. The October 2025 switch
 
 <!-- narrative: governance -->
 Proclamation 1321/2024 designates the Ethiopian Communications Authority as regulator. A year on, the secondary directives were unissued, public awareness was low and the Authority had yet to enforce — while the identity system it would supervise authenticates about 4m times a day. The America First Global Health Strategy memorandum of 23 December 2025 provides for a [data sharing arrangement to be negotiated](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf), expected to run two years beyond its five-year term and to be compatible with Ethiopia's other agreements; no text is published.
+
+The Development Bank of Ethiopia has moved in the opposite direction on disclosure. Under a new [Information Disclosure Policy adopted as part of a wider reform push led by president Esayas Kassa and Ethiopian Investment Holdings chair Brook Taye](https://www.thereporterethiopia.com/52220/), client credit information joins internal strategy papers, legal case files, security protocols and third-party contracts as permanently exempt from declassification on the ground that disclosure could cause substantial harm to the bank, its stakeholders or national interest; the bank has also gained the right to refuse requests that would require it to create records it does not already hold.
 
 [Critical Infrastructure Cybersecurity Proclamation No. 1426/2026 was signed by President Taye Atske Selassie at Addis Ababa on 21 July 2026](https://www.insa.gov.et/pdf/download/critical-infrastructure-cybersecurity-proclamation-no-14262026-1786083598), after unanimous ratification by the House of People's Representatives, and the Information Network Security Administration presented it publicly on 7 August. It designates 12 critical sectors, places 18 core obligations on owners and operators, and establishes a Critical Infrastructure Cybersecurity Fund. Article 28 sets commencement one year after gazettement, about July 2027, and gives the Council of Ministers and INSA regulation-making powers under articles 26 and 27.
 
@@ -329,10 +333,6 @@ The commercial layer is thin and domestic: the engineering-services sector is yo
 _The base holds no inclusion and capacity rows for Ethiopia. A thin evidence base is a finding, not a gap in this document._
 
 <!-- narrative: inclusion -->
-Thirty-four [budget lines across three fiscal years](https://www.fanamc.com/english/ethiopian-parliament-ratifies-2-34-trillion-birr-federal-budget-for-2026-27-fiscal-year/) show ETB 1.21bn appropriated in FY2024/25 against an outturn of ETB 1.53bn, then ETB 3.75bn and ETB 9.05bn. The rise is largely the birr float rather than real growth, and the FY2026/27 figure is dominated by one capital line.
-
-Execution is published in aggregate. The Ministry of Finance's [mid-year review for 2025/26](https://www.mofed.gov.et/media/filer_public/ee/f5/eef50cc8-4871-425e-b738-33fe9ed649e0/mid_year_review_2025_26_final_2.pdf) reports ETB 704.7bn mobilised over July to December 2025, 48.1% of the annual target, against ETB 798.2bn spent, 48.3% of the approved budget; no digital line is broken out, and direct budget support from development partners ran at ETB 67.8bn, 28.8% of the ETB 235.5bn projected. No audit is available for any year in scope: the Auditor General [presented an EFY 2017 report to parliament](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) in July 2026 and has not published it.
-
 [Mobile connections reached 93.2m at 68.4% of population](https://datareportal.com/reports/digital-2026-ethiopia) in late 2025, up from 85.4m and 63.8% early that year. The [rural mobile-internet gender gap runs at 81% against 29%](https://dial.global/ethiopias-approach-to-use-cases/) in urban areas.
 <!-- /narrative -->
 
@@ -342,6 +342,7 @@ Execution is published in aggregate. The Ministry of Finance's [mid-year review 
 
 | System or instrument | Status | As at |
 |---|---|---|
+| Digitally enabled pluralistic extension services programme (FAO) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-41301-763888%22) | Committed 2026-07-31 |
 | World Bank Digital ID for Inclusion Project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P179040) | US$350m approved 2023-12-13 |
 
 ### Domestic budget appropriations and expenditure
@@ -353,7 +354,7 @@ Execution is published in aggregate. The Ministry of Finance's [mid-year review 
 | Audit of digital spending for any in-scope year | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Thirty-four [budget lines across three fiscal years](https://www.fanamc.com/english/ethiopian-parliament-ratifies-2-34-trillion-birr-federal-budget-for-2026-27-fiscal-year/) show ETB 1.21bn appropriated in FY2024/25 against an outturn of ETB 1.53bn, then ETB 3.75bn and ETB 9.05bn. The rise is largely the birr float rather than real growth, and the FY2026/27 figure is dominated by one capital line. Execution is published in aggregate: the Ministry of Finance's [mid-year review for 2025/26](https://www.mofed.gov.et/media/filer_public/ee/f5/eef50cc8-4871-425e-b738-33fe9ed649e0/mid_year_review_2025_26_final_2.pdf) reports ETB 704.7bn mobilised over July to December 2025, 48.1% of the annual target, against ETB 798.2bn spent, 48.3% of the approved budget; no digital line is broken out, and direct budget support from development partners ran at ETB 67.8bn, 28.8% of the ETB 235.5bn projected. No audit is available for any year in scope: the Auditor General [presented an EFY 2017 report to parliament](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) in July 2026 and has not published it.
 <!-- /narrative -->
 
 ## Gaps to fill

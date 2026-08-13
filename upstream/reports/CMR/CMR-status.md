@@ -303,13 +303,9 @@ The sector is large in revenue and small in venture. Regulator-reported revenue 
 | Sovereign scientific database and digitisation centre | [Planned](https://www.cameroon-tribune.cm/articles/11572/en/artificial-intelligence-govt-engages-on-harnessing) | Cabinet tabled ten priority areas including two research-infrastructure builds |
 
 <!-- narrative: inclusion -->
-The instrument that funded universal service no longer exists. The [Special Telecommunications Development Fund was abolished by the FY2024 finance law](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) and its revenue folded into the general budget, so universal-service money is not separately traceable since; rural connectivity now runs through donor projects. The current one is a [tender for FCFA 55bn targeting 328 unserved localities by 2028](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028), no award held since it opened.
-
-Local government is the largest unfunded programme: [FCFA 92bn announced with no financier or start date](https://www.wearetech.africa/en/fils-uk/news/public-management/cameroon-launches-163-million-push-to-digitize-local-governments), against the government's own baseline that 68.5% of authorities lack structured computer networks. Coverage today is [230 councils, about 64% nationally](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/).
+Local-government digitisation reaches [230 councils today, about 64% nationally](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/), against the government's own baseline that 68.5% of authorities lack structured computer networks.
 
 Skills are announced in tens of thousands and delivered in cohorts. The strategy's target is [60,000 specialists by 2040 including 40% women](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-eyes-60-000-ai-experts-trained-by-2040-but-digital-barriers-remain), with no enrolment or expenditure figure against it at any date. What is delivered is [six operator training centres with 481 young people trained](https://techreviewafrica.com/news/5372), company-reported, and [115 internships across all ten regions](https://techafricanews.com/2026/07/22/camtel-and-minesup-launch-115-internship-opportunities-to-boost-youth-employability/).
-
-Two budget programmes move in opposite directions: the ministry's digital programme is [proposed at FCFA 19,494,457,000 for FY2026](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf), while the [lands cadastre programme is cut 44.2% to FCFA 874,046,000](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf), below its FY2024 level.
 <!-- /narrative -->
 
 ## Finance
@@ -339,7 +335,11 @@ Two budget programmes move in opposite directions: the ministry's digital progra
 | Outturn or audit figure for any digital programme | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The instrument that once funded universal service no longer exists. The [Special Telecommunications Development Fund was abolished by the FY2024 finance law](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) and its revenue folded into the general budget, so universal-service money has not been separately traceable since; rural connectivity now runs through donor-tendered projects, the current one a [tender for FCFA 55bn targeting 328 unserved localities by 2028](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028), no award held since it opened.
+
+Local-government digitisation is the largest unfunded programme on file: [FCFA 92bn announced with no financier or start date](https://www.wearetech.africa/en/fils-uk/news/public-management/cameroon-launches-163-million-push-to-digitize-local-governments).
+
+Two budget lines move in opposite directions at proposal stage: the ministry's own digital programme is [proposed at FCFA 19,494,457,000 for FY2026](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf), up sharply, while the [lands cadastre modernisation programme is cut 44.2% to FCFA 874,046,000](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf), below its FY2024 level.
 <!-- /narrative -->
 
 ## Gaps to fill

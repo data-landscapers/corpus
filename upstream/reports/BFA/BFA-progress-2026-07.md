@@ -279,8 +279,6 @@ What merely accreted detail is the capacity story: training lawmakers, training 
 <!-- narrative: inclusion -->
 Three things changed band, all in the window's second half. Connectivity moved from plan to programme: a year ago the record shows an 800-site rollout with the tender still open and no named programme; today the white-zone drive is launched, financed at a stated FCFA 75bn, with the 2025 operator commitments delivered in full. Payments moved from nothing to a live regional rail with nine domestic institutions authorised. And the unique electronic identifier moved from awareness campaign to legal instrument.
 
-Domestic money moved the other way across the whole period. The six tracked appropriation lines fell from FCFA 13.56bn for 2025 to FCFA 9.61bn for 2026, below even the 2024 level; the digital transformation programme fell 67% as a single chapter named after a foreign software vendor disappeared from the volume; and the data-protection authority's vote fell for a second consecutive year while its remit expanded.
-
 Two substantial operations closed inside the window and neither has a successor: a seven-year financial-inclusion project ending in June 2026 with 81% of indicators met or exceeded, and a gender-and-digital programme ending in 2025 with no evaluation, which was the only such instrument the base holds. Consumer protection improved through the courts rather than the regulator, with 2023 rules becoming enforceable in December 2025 and cutting standard mobile-internet prices by 28 to 45%.
 <!-- /narrative -->
 
@@ -308,7 +306,7 @@ Two substantial operations closed inside the window and neither has a successor:
 | Ministry work-plan execution | 10.80% financial execution at 30 June 2025 against 43.61% physical | [78.05% physical execution at 30 November 2025, with no financial-execution rate published for the full year](https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-7805-du-taux-dexecution-physique-global-des-activites-realisees/) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Domestic money moved the other way across the whole period. The six tracked appropriation lines fell from FCFA 13.56bn for 2025 to FCFA 9.61bn for 2026, below even the 2024 level; the digital transformation programme fell 67% as a single chapter named after a foreign software vendor disappeared from the volume; and the data-protection authority's vote fell for a second consecutive year while its remit expanded.
 <!-- /narrative -->
 
 ## Where the record is thin

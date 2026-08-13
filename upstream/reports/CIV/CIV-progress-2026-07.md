@@ -313,11 +313,9 @@ Everything else sits where it sat. The safe-artificial-intelligence label, the n
 | Cyber-security masters degrees | Did not exist | [Two degrees, in information-systems security and digital forensics, with enrolment stated for the September 2026 academic year](https://www.aip.ci/cote-divoire-aip-lanssi-et-lesatic-valident-les-maquettes-de-deux-masters-pour-renforcer-les-competences-nationales-en-cybersecurite/) | Advanced |
 
 <!-- narrative: inclusion -->
-The single largest change here is not a programme but a load: the domestic fiscal layer arrived in the wiki during the window and now carries 61 budget line-years across three years. That produces the one finding no press account gives — 2024 delivery against the vote was 77.6%, not the near-perfect 99.9% the in-year revision suggests, because the earmarked levy programme was written down by FCFA 8.79bn and then spent to the franc.
-
 Three things changed band. Satellite for rural coverage went from nothing to three live services with published pricing. Cyber-security skills went from no stated target to a costed 1,200-in-three-years programme with two master's degrees in validation. And an education management information system compact closed in August 2025 with no successor and no evaluation.
 
-What merely accreted detail: the rural programme delivered 500 of 575 and the shortfall passed unremarked; the social register and the identification project have published nothing new in sixteen months; and the innovation fund is in exactly the position it was in a year ago, except that its own deadline has now expired. The levies that fund rural coverage shrank across the same period, from FCFA 35.3bn to FCFA 33.0bn, with the only outturn on file showing a 24.3% shortfall in 2024.
+What merely accreted detail: the rural programme delivered 500 of 575 and the shortfall passed unremarked; the social register and the identification project have published nothing new in sixteen months; and the innovation fund is in exactly the position it was in a year ago, except that its own deadline has now expired.
 <!-- /narrative -->
 
 ## Finance
@@ -341,7 +339,9 @@ What merely accreted detail: the rural programme delivered 500 of 575 and the sh
 | Whole-of-government digital appropriation | FCFA 82,227,745,121 across 20 lines for FY2025, no outturn | [FCFA 104,342,019,358 across 20 lines for FY2026](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The single largest change here is not a programme but a load: the domestic fiscal layer arrived in the wiki during the window and now carries 61 budget line-years across three years. That produces the one finding no press account gives — 2024 delivery against the vote was 77.6%, not the near-perfect 99.9% the in-year revision suggests, because the earmarked levy programme was written down by FCFA 8.79bn and then spent to the franc.
+
+The levies that fund rural coverage shrank across the same period, from FCFA 35.3bn to FCFA 33.0bn, with the only outturn on file showing a 24.3% shortfall in 2024.
 <!-- /narrative -->
 
 ## Where the record is thin

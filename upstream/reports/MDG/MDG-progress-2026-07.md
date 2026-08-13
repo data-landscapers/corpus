@@ -198,9 +198,9 @@ Applied artificial intelligence was already in service and did not change: the [
 <!-- narrative: inclusion -->
 Affordability was addressed by agreement and cannot be scored. Operators [agreed in December 2025 to cut mobile internet prices gradually against excise-duty relief](https://www.lexpress.mg/2025/12/connectivite-baisse-annoncee-des-tarifs.html), resolving a standoff; no price schedule or reduction figure has been published since, so the position at the end of the period is an agreement without a number.
 
-Device access moved inside the donor project: the [Fonds DECIM went from a closed call with nothing contracted to nine approved applications and a US$2.5m first call for funds](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf), with two operator contracts still unsigned. Skills sit in the same file and carry no baseline: a [US$15m sub-component with 5,700 people to be trained in advanced digital skills](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf) is stated as a commitment, not as delivery.
+Device access moved inside the donor project: the [Fonds DECIM went from a closed call with nothing contracted to nine approved applications](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf), with two operator contracts still unsigned. Skills sit in the same file and carry no baseline: a sub-component committing to train 5,700 people in advanced digital skills is stated as a commitment, not as delivery.
 
-The state's own capability is being recruited for rather than reported on. The digital ministry [drew 259 applications for ten specialist posts](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/) where no such recruitment stood at the period's start, and a [university connectivity and AI initiative was announced](https://techafricanews.com/2026/01/26/unipod-initiative-aims-to-bring-high-speed-internet-and-ai-to-universities-in-madagascar/) with no campus connected. External finance did not move: the [World Bank identity project closed on 30 June 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P169413) with its identity component continuing, and every other tracked commitment stood as committed at both ends with no implementation record.
+The state's own capability is being recruited for rather than reported on. The digital ministry [drew 259 applications for ten specialist posts](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/) where no such recruitment stood at the period's start, and a [university connectivity and AI initiative was announced](https://techafricanews.com/2026/01/26/unipod-initiative-aims-to-bring-high-speed-internet-and-ai-to-universities-in-madagascar/) with no campus connected.
 <!-- /narrative -->
 
 ## Finance
@@ -217,7 +217,9 @@ The state's own capability is being recruited for rather than reported on. The d
 | WeLight solar mini-grid and rural electrification (Norfund) | Committed | [Committed; no implementation record held](https://www.norfund.no/major-funding-round-secured-for-welight-in-madagascar/) | No change |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The [Fonds DECIM affordable-device facility moved from a closed call with nothing contracted to a US$2.5m first call for funds in November 2025](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf), and its digital-skills sub-component committed US$15m to advanced digital-skills training, though the sub-component carries no baseline against which to measure movement.
+
+External finance did not move over the period: the [World Bank identity project closed on 30 June 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P169413) with its identity component continuing, and every other tracked external commitment stood as committed at both ends with no implementation record.
 <!-- /narrative -->
 
 ## Where the record is thin

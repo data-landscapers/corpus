@@ -313,8 +313,6 @@ Two did not move. A national artificial-intelligence institute recommended by a 
 The one movement the state itself measures is financial inclusion, from 78% in 2017 to 86% in 2025 ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)) — a series whose earlier value a second held source described as current in July 2025, eight years out.
 
 Connectivity commitments were restated rather than delivered against. The 100% coverage target for 2030 stands unchanged with no later official coverage figure ([ministry account](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030)), the tax-relief proposal on fourth-generation devices made in February 2026 has produced no fiscal instrument or ministerial response, and the free-internet undertaking for schools and clinics under new towers still has no list or count of covered sites.
-
-The financing position added one instrument and one commitment: the private mobile network's N$600m of investment in the year to September 2025 ([launch account](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network)) and the Chinese smart-city contribution signed at the end of June 2026 ([Presidency account](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m)). The universal service fund published no accounts at either end.
 <!-- /narrative -->
 
 ## Finance
@@ -327,7 +325,7 @@ The financing position added one instrument and one commitment: the private mobi
 | Universal Service Fund | Operating; N$145,000,000 of seed funding over three years and a N$31,000,000 subsidy already disbursed to the mobile operator for nine network sites (2025-03) | [Operating; priority given to the five regions where 4G coverage is below 80% - Kavango West, Kavango East, Kunene, Ohangwena and Oshikoto - with 16 schools and four clinics selected for uncapped Wi-Fi, and 100 handsets distributed to learners in Kunene in February 2026](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030) | No change |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Two financing commitments entered the record within the window. The private mobile network reported N$600m invested in the year to September 2025 ([launch account](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network)), and China committed CNY 98,000,000, about US$14.4m on the source's 2026 conversion, to the Windhoek smart-city pilot, acknowledged at the end of June 2026 ([Presidency account](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m)). The Universal Service Fund published no accounts at either end of the window.
 <!-- /narrative -->
 
 ## Where the record is thin

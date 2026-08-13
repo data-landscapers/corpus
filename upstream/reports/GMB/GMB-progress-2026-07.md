@@ -213,11 +213,7 @@ On artificial intelligence there is nothing to compare. The base carried no Gamb
 | National Labour Digital Skill programme | Did not exist | [Methodology validated against a target of 280 certified, funded at US$3.35m through the regional digital integration programme; no completion figure published (2025-12)](https://thepoint.gm/africa/gambia/national-news/stakeholders-validate-methodology-labour-digital-skill-dev-report) | Advanced |
 
 <!-- narrative: inclusion -->
-The measured movement here is fiscal and it is the state's own. Total tax collected went from [D11bn in 2022 to D25bn in 2025](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister) and the [ratio of tax to GDP from 9% to 13%](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1); both series were published within this window rather than accruing across it, and both are the collecting side's account of its own performance.
-
 Two programmes arrived where nothing existed: a [digital skills methodology validated in December 2025](https://thepoint.gm/africa/gambia/national-news/stakeholders-validate-methodology-labour-digital-skill-dev-report) against a target of 280 certified, and a [rural digital rights programme that reached 400 women and girls](https://www.apc.org/en/blog/seeding-change-strengthening-digital-rights-rural-women-and-girls-gambia) across four regions.
-
-External financing did not move at all. The [regional programme allocation](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) has published no disbursement or results figure at either end, the [African Development Bank operation is pipeline at both ends](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-GM-GB0-002%22), and the [Gates Foundation pilot was closed before the window opened](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DAC-1601-INV-064577%22) and has produced no evaluation since.
 <!-- /narrative -->
 
 ## Finance
@@ -238,7 +234,9 @@ External financing did not move at all. The [regional programme allocation](http
 | Total tax collected | D11bn (2022) | [D25bn (2025), against a D27.5bn target for 2026](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The clearest movement in the state's own account of the period is fiscal. Total tax collected went from [D11bn in 2022 to D25bn in 2025](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister) and the [ratio of tax to GDP from 9% to 13%](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1); both series were published within this window rather than accruing across it, and both are the collecting side's own account of its performance.
+
+External financing did not move at all. The [World Bank's regional programme allocation](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) has published no disbursement or results figure at either end of the period, the [African Development Bank's digital government project is pipeline at both ends](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-GM-GB0-002%22), and the [Gates Foundation's payment pilot was closed before the window opened](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DAC-1601-INV-064577%22) and has produced no evaluation since.
 <!-- /narrative -->
 
 ## Where the record is thin

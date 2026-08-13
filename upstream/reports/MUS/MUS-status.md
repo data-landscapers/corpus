@@ -268,11 +268,9 @@ What is contracted with the hyperscalers is skills and confidentiality: the [Ama
 | National AI training programme | [Planned](https://lexpress.mu/node/559426) | Target set in the 2026-2027 budget |
 
 <!-- narrative: inclusion -->
-The 2026-2027 budget is where the digital programme has money attached. It names [artificial intelligence 35 times](https://lexpress.mu/node/559426) and funds a 50,000-trainee target, a Rs 25m learning platform, an investment tax credit of 15% a year over three years, a special economic zone of 83 arpents with preferential data-centre power, e-gates, e-visa, e-judiciary and a Rs 13m cyber forensic laboratory. The training target — 25,000 professionals, 12,000 pupils, 8,000 teachers and 5,000 civil servants in one year — carries no published enrolment figure and no measure of the base it starts from.
+The 2026-2027 budget sets the year's clearest training commitment: a [50,000-trainee target](https://lexpress.mu/node/559426) for artificial intelligence skills — 25,000 professionals, 12,000 pupils, 8,000 teachers and 5,000 civil servants in one year — with no published enrolment figure and no measure of the base it starts from.
 
 Inclusion has one named sub-national commitment: a [ministerial mission to Rodrigues in May 2026](https://lexpress.mu/node/558566) set a cybersecurity working framework, a youth awareness project, and integration of the national sign-on through post office agents.
-
-External financing is old: the largest digital-sector commitment on record is a [US$73.7m Chinese preferential buyer's credit from 2018](http://mof.govmu.org/English/PublishingImages/2019/MOFED%20Annual%20Report%20-%20FY%202017-18.pdf), with no repayment or completion statement since. The commercial story runs the other way — money moves through Mauritius rather than into it, and one gateway [reports its Mauritian volume up over 300% year on year](https://itweb.africa/article/mauritius-emerges-as-an-african-payments-hub/), crediting exit from the financial action task force grey list.
 <!-- /narrative -->
 
 ## Finance
@@ -292,7 +290,9 @@ External financing is old: the largest digital-sector commitment on record is a 
 | Budget 2026-2027 tax and revenue measures as enacted | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The 2026-2027 budget is the year's clearest financial commitment to the digital programme: it names [artificial intelligence 35 times](https://lexpress.mu/node/559426), funding a Rs 25m national AI learning platform, an investment tax credit of 15% a year over three years, a special economic zone of 83 arpents with preferential data-centre power, e-gates, e-visa and e-judiciary, and a Rs 13m cyber forensic laboratory.
+
+External financing is old: the largest digital-sector commitment on record is a [US$73.7m Chinese preferential buyer's credit from 2018](http://mof.govmu.org/English/PublishingImages/2019/MOFED%20Annual%20Report%20-%20FY%202017-18.pdf), with no repayment or completion statement published since. The commercial money movement runs the other way: one payments gateway [reports its Mauritian volume up over 300% year on year](https://itweb.africa/article/mauritius-emerges-as-an-african-payments-hub/), crediting the country's exit from the financial action task force grey list.
 <!-- /narrative -->
 
 ## Gaps to fill

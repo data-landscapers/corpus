@@ -1,14 +1,14 @@
 ---
 title: Senegal — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-11
 place: SEN
-ledger_rows: 81
+ledger_rows: 82
 not_held: 9
 ---
 
 # Senegal: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/SEN/ledger.csv` (81 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/SEN/ledger.csv` (82 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -294,11 +294,7 @@ A [sovereign cloud is in testing, to host sensitive national data on Senegalese 
 | Two AI research laboratories | [Implemented](https://techreviewafrica.com/news/1997/senegal-bolsters-ai-development-with-launch-of-alive-and-dicentre4ai-laboratories) | Both laboratories launched 2025-01-31 with three ministers present |
 
 <!-- narrative: inclusion -->
-The financing picture is announcements at the top and nothing at the bottom. The technology strategy states [FCFA 1,105bn across twelve priority programmes to 2034](https://lesoleil.sn/actualites/economie/new-deal-technologique-un-investissement-cle-de-1105-milliards-de-fcfa/) with no breakdown; the [2026 ministry vote is FCFA 81.06bn with FCFA 58.2bn to investment](https://www.ecofinagency.com/news-digital/0912-51246-senegal-allocates-60-of-2026-digital-ministry-budget-to-investment), reported as *set* without stating tabled or enacted, which makes it an announcement rather than an appropriation. No execution, outturn or audit figure exists for any digital line in any year.
-
-External commitments are better documented than domestic ones. The [digital economy acceleration project states FCFA 95.05bn committed](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing) against US$150m at board approval, and the two amounts are not reconciled in the base; a [foundation grant of US$10m](https://www.biometricupdate.com/202509/gates-foundation-fuels-senegals-digital-transformation-with-10m) targets a universal digital identity, an AI hub and a delivery unit; and a [US$50m pre-seed and seed fund](https://techcabal.com/2026/07/07/francophone-weekly-by-techcabal-030/) has no first close or manager on file.
-
-Skills carry the largest unverified commitment in the base: [US$200m announced in 2019 and running to 2030](https://mastercardfdn.org/en/news/mastercard-foundation-to-enable-three-million-youth-to-access-employment-opportunities-in-senegal/), with no disbursement or beneficiary figure held seven years on. A [memorandum to equip 120 primary schools and train 500 women](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-launches-digital-schools-program-with-sonatel-s-support) has produced no count at any date, and [two AI research laboratories launched in January 2025](https://techreviewafrica.com/news/1997/senegal-bolsters-ai-development-with-launch-of-alive-and-dicentre4ai-laboratories) have published no output or headcount. No domestic measurement of the digital divide exists at all.
+A [memorandum to equip 120 primary schools and train 500 women](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-launches-digital-schools-program-with-sonatel-s-support) has produced no count at any date, and [two AI research laboratories launched in January 2025](https://techreviewafrica.com/news/1997/senegal-bolsters-ai-development-with-launch-of-alive-and-dicentre4ai-laboratories) have published no output or headcount. No domestic measurement of the digital divide exists at all.
 <!-- /narrative -->
 
 ## Finance
@@ -307,6 +303,7 @@ Skills carry the largest unverified commitment in the base: [US$200m announced i
 
 | System or instrument | Status | As at |
 |---|---|---|
+| BOAD digital transformation of public services loan | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46021-2026028%22) | Committed 2026-03-26 |
 | Digital economy acceleration project | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing) | A portfolio review realigned the project to the technology strategy and validated first-half 2026 milestones |
 | Foundation grant to the technology strategy | [Implemented](https://www.biometricupdate.com/202509/gates-foundation-fuels-senegals-digital-transformation-with-10m) | US$10m committed at a meeting on the margins of a UN session |
 | Mobile money debt round | [Implemented](https://techcabal.com/2025/06/30/wave-raises-137-milion/) | A US$137m debt raise closed 2025-06-30 |
@@ -320,7 +317,11 @@ Skills carry the largest unverified commitment in the base: [US$200m announced i
 | UN development programme memorandum | [Implemented](https://techafricanews.com/2026/04/16/undp-and-senegal-government-strengthen-ties-on-digital-development-agenda/) | A memorandum signed with the communications and digital ministry |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The financing picture is announcements at the top and nothing at the bottom. The technology strategy states [FCFA 1,105bn across twelve priority programmes to 2034](https://lesoleil.sn/actualites/economie/new-deal-technologique-un-investissement-cle-de-1105-milliards-de-fcfa/) with no breakdown; the [2026 ministry vote is FCFA 81.06bn with FCFA 58.2bn to investment](https://www.ecofinagency.com/news-digital/0912-51246-senegal-allocates-60-of-2026-digital-ministry-budget-to-investment), reported as *set* without stating tabled or enacted, which makes it an announcement rather than an appropriation. No execution, outturn or audit figure exists for any digital line in any year.
+
+External commitments are better documented than domestic ones. The [digital economy acceleration project states FCFA 95.05bn committed](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing) against US$150m at board approval, and the two amounts are not reconciled in the base; a [foundation grant of US$10m](https://www.biometricupdate.com/202509/gates-foundation-fuels-senegals-digital-transformation-with-10m) targets a universal digital identity, an AI hub and a delivery unit; and a [US$50m pre-seed and seed fund](https://techcabal.com/2026/07/07/francophone-weekly-by-techcabal-030/) has no first close or manager on file.
+
+A further commitment funds skills and is the largest unverified in the base: [US$200m announced in 2019 and running to 2030](https://mastercardfdn.org/en/news/mastercard-foundation-to-enable-three-million-youth-to-access-employment-opportunities-in-senegal/), with no disbursement or beneficiary figure held seven years on.
 <!-- /narrative -->
 
 ## Gaps to fill

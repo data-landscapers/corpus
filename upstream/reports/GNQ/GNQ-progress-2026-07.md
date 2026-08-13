@@ -215,7 +215,7 @@ The [AVANTE forum](https://equacom.news/2026/07/23/avante-impulsa-el-debate-sobr
 | Research on public-administration data systems | ***Baseline not held*** | [One piece of national research on record; no research programme, funding line or publication is held](https://equacom.news/2026/07/23/avante-impulsa-el-debate-sobre-la-transformacion-digital-para-acelerar-la-diversificacion-economica-de-guinea-ecuatorial/) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-Nothing measurable changed. No new financing record entered the base — the two the wiki holds are from 2015 and 2019 — no appropriation was published, no training cohort followed the single UNDP programme of August 2025, and no access, literacy or regional-divide figure was produced by any national body during the period.
+Nothing measurable changed. No training cohort followed the single UNDP programme of August 2025, and no access, literacy or regional-divide figure was produced by any national body during the period.
 <!-- /narrative -->
 
 ## Finance
@@ -228,7 +228,7 @@ Nothing measurable changed. No new financing record entered the base — the two
 | China Eximbank credit for the CEIBA-2 cable | Drawn, with the cable in service | [Unchanged; no repayment or restructuring is on record](https://www.pdge-guineaecuatorial.com/la-pareja-presidencial-asiste-a-la-inauguracion-del-cable-de-fibra-optica-ceiba-2/) | No change |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+No new financing record entered the wiki's base during the period — the two it holds for digital-transformation financing in Equatorial Guinea are from 2015 and 2019 — and no budget appropriation for digital transformation was published in the twelve months to 10 August 2026.
 <!-- /narrative -->
 
 ## Where the record is thin

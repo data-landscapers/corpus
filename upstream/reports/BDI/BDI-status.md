@@ -1,6 +1,6 @@
 ---
 title: Burundi — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-12
 place: BDI
 ledger_rows: 64
 not_held: 10
@@ -8,7 +8,7 @@ not_held: 10
 
 # Burundi: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/BDI/ledger.csv` (64 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/BDI/ledger.csv` (64 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -80,7 +80,7 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 | System or instrument | Status | As at |
 |---|---|---|
 | Biometric national identity card | [In development](https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/) | Unveiled as technically ready but awaiting the law or decree governing its use |
-| Digital civil registry platform | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative) | Unveiled with the biometric card; project launched 2021 |
+| Digital civil registry platform | [Piloting](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative) | 13 pilot communes operating biometric enrolment, decentralised to zone level, interoperable with health-facility birth and death records |
 
 ### Digital Payments and Fintech
 
@@ -145,7 +145,7 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 <!-- narrative: dpi -->
 Payments moved furthest. [BurundiPay opened on 23 April 2026](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank), making banks, microfinance institutions and mobile money interoperable on ISO 20022 and USSD at about 1,000 transactions per second; the minister later [named Lumicash, Ecocash, E-noti and Cashtel as the systems it links](https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/). By 4 August 2026, [17 of 78 licensed institutions were live — five banks, ten microfinance institutions, two payment institutions — with about 224,000 users and BIF 4.29 billion cumulative volume](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/); the rest have until 5 September 2026 to integrate, on pain of a BIF 1m-per-month fine. The central bank has also [acceded to PAPSS, the Pan-African Payment and Settlement System, with four banks authorised](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/). What the rail sits on has not moved: [deposits and withdrawals were about 45% of digital-payment value in Q2 2025, and about 1.6m of 7.6m mobile wallets were active](https://www.burunditimes.com/burundi-digital-payments-see-growth-but-cash-still-dominates/). Cross-border within the EAC, governors meeting in Kampala in July 2026 [decided BurundiPay must interconnect with other member states' payment systems](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/); the master plan's own first activities remain work plans, priorities and resource mobilisation.
 
-Identity is the file with the longest slip. The card was [confirmed unavailable for the 2025 voter enrolment](https://burundi-eco.com/enrolement-des-electeurs-de-2025-la-carte-nationale-didentite-biometrique-ne-sera-pas-disponible); by May 2026 the interior ministry [presented the digital civil registry and the card as technically ready to produce, but awaiting the law or decree governing their use](https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/). Every citizen is to re-register afresh, the family code requires amendment, and the [whole-project cost is put at about BIF 15bn](https://burundi-eco.com/la-carte-didentite-biometrique-en-marche-entre-ambitions-et-defis/). The first domestic appropriation followed: [BIF 16.0bn proposed in the draft FY2026/27 budget](https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/).
+Identity is the file with the longest slip. The card was [confirmed unavailable for the 2025 voter enrolment](https://burundi-eco.com/enrolement-des-electeurs-de-2025-la-carte-nationale-didentite-biometrique-ne-sera-pas-disponible); by May 2026 the interior ministry [presented the digital civil registry and the card as technically ready to produce, but awaiting the law or decree governing their use](https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/). Every citizen is to re-register afresh, the family code requires amendment, and the [whole-project cost is put at about BIF 15bn](https://burundi-eco.com/la-carte-didentite-biometrique-en-marche-entre-ambitions-et-defis/). The first domestic appropriation followed: [BIF 16.0bn proposed in the draft FY2026/27 budget](https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/). By 10 August 2026, [13 communes were running biometric civil-registration enrolment, decentralised to zone level and interoperable with health-facility birth and death records, ahead of a planned national unique identifier using fingerprint and facial biometrics](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-l-etat-civil-se-numerise-pour-renforcer-l-identite-des-citoyens); UNICEF figures cited on the same occasion put under-5 birth registration at 84% but birth-certificate holding at only 66%.
 
 Burundi has an enumerated population for the first time since 2008. [Décret n°100/032 of 27 March 2025 published preliminary results of the 2024 census](https://presidence.gov.bi/wp-content/uploads/2025/04/decret-RGPHAE-2024.pdf): 12,332,788 residents, 5,901,069 men and 6,431,719 women, 75.0% rural, against the five provinces of the 2023 territorial reform rather than the eighteen that preceded it — no province series crosses 2008 and 2024. Definitive results remain unpublished.
 
@@ -302,10 +302,6 @@ External cooperation is where the sector's money is. Burundi [opened talks with 
 | University and professional research capacity in AI and data | [In development](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | First documented workshop drew university lecturers, doctors, developers and students |
 
 <!-- narrative: inclusion -->
-One institution dominates the financing. Tracked non-state digital-transformation finance stands at US$117m across four deals for 2021 to 2026, all World Bank, on the wiki's own compilation of the records it holds as of 6 August 2026 — not a published figure. The vehicle is [PAFEN, at 61% committed at mid-term](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program).
-
-Domestic money is unusually well documented for a country this size. The [communications and ICT ministry's vote tripled to BIF 131.7bn in FY2024/25 from BIF 43.1bn](https://lerenouveau.bi/assemblee-nationale-le-projet-de-loi-portant-reglement-et-compte-rendu-budgetaire-2024-2025-adopte-a-lunanimite/), and the [FY2026/27 general budget was adopted at expenditure above BIF 7,020bn against revenue of BIF 6,296.03bn, up 23.76%](https://burundi-eco.com/budget-general-de-letat-exercice-2026-2027-un-budget-de-plus-de-7000-milliards-de-bif-adopte-a-lunanimite/). But the same loi de règlement records revenue realised at BIF 3,234bn, 76.79% of the revised target, and a [mid-year work-plan report showed credits shifted between programmes with a 2.7% overrun](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/). A voted digital line is not a spent one.
-
 Access moved the wrong way on price. The consumer association ABUCO [states that internet package tariffs have more than doubled since January 2025](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/), against an instruction to operators that year to improve quality and accessibility. It proposes états généraux of the sector; no response is on file.
 
 On capacity, [Vietnam reports having supplied 50 desktop computer sets and Master's scholarships in computer science](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). No digital-literacy programme or measurement is held.
@@ -332,7 +328,9 @@ On capacity, [Vietnam reports having supplied 50 desktop computer sets and Maste
 | Execution discipline of voted appropriations | [Under review](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/) | Mid-year work-plan report showed credits shifted between programmes with a 2.7% overrun |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+One institution dominates the financing. Tracked non-state digital-transformation finance stands at US$117m across four deals for 2021 to 2026, all World Bank, on the wiki's own compilation of the records it holds as of 6 August 2026 — not a published figure. The vehicle is [PAFEN, at 61% committed at mid-term](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program).
+
+Domestic money is unusually well documented for a country this size. The [communications and ICT ministry's vote tripled to BIF 131.7bn in FY2024/25 from BIF 43.1bn](https://lerenouveau.bi/assemblee-nationale-le-projet-de-loi-portant-reglement-et-compte-rendu-budgetaire-2024-2025-adopte-a-lunanimite/), and the [FY2026/27 general budget was adopted at expenditure above BIF 7,020bn against revenue of BIF 6,296.03bn, up 23.76%](https://burundi-eco.com/budget-general-de-letat-exercice-2026-2027-un-budget-de-plus-de-7000-milliards-de-bif-adopte-a-lunanimite/). But the same loi de règlement records revenue realised at BIF 3,234bn, 76.79% of the revised target, and a [mid-year work-plan report showed credits shifted between programmes with a 2.7% overrun](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/). A voted digital line is not a spent one.
 <!-- /narrative -->
 
 ## Gaps to fill

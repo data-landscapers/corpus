@@ -2,13 +2,13 @@
 title: Ghana — digital transformation and data governance status report
 compiled: 2026-08-11
 place: GHA
-ledger_rows: 121
+ledger_rows: 124
 not_held: 9
 ---
 
 # Ghana: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/GHA/ledger.csv` (121 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/GHA/ledger.csv` (124 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -157,6 +157,13 @@ The [Cybersecurity Act 2020](https://csa.gov.gh/resources/cybersecurity_Act_2020
 | Governance Series survey | [Implemented](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html) | Wave 3 report launched 2026-08-06 |
 | Quarterly employment statistics | [Planned](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/) | The finance minister asked the statistical service to develop a methodology |
 
+### Use of satellite data
+
+| System or instrument | Status | As at |
+|---|---|---|
+| Ghana Agricultural Information and Monitoring System | [Implemented](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | Named as a live deployment at a Kwame Nkrumah University of Science and Technology lecture, reported 2026-08-10 |
+| National Forest Monitoring System and ForestTrace AI deforestation tracker | [Implemented](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | Named as a live deployment at a Kwame Nkrumah University of Science and Technology lecture, reported 2026-08-10 |
+
 <!-- narrative: dpi -->
 Amendment regulations came into force on 9 June 2026 making biometric matching against the register the only lawful means of verification and barring photocopying, scanning and retention. Banks, telecoms operators and hospitals have [until 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate. The biometric SIM re-registration announced for the first quarter of 2026 has still not begun.
 
@@ -250,6 +257,7 @@ The communications minister named a [National Data Exchange Hub the government p
 | System or instrument | Status | As at |
 |---|---|---|
 | Disaster management AI chatbot | [Implemented](https://www.unesco.org/en/articles/ghanas-disaster-agency-turns-ai-reach-people-water-does) | Handed to the disaster agency 2026-05-26 |
+| Flood Intelligence Agent | [In development](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | Named as in development at a Kwame Nkrumah University of Science and Technology lecture, reported 2026-08-10 |
 | Google Africa applied AI lab | [In development](https://www.googlecloudpresscorner.com/2026-07-01-Google-Cloud-Summit-in-Africa-Highlights-the-Continents-Digital-Transformation-and-Unveils-New-Agentic-AI-and-Infrastructure-Investments) | Applications opened 2026-07-01, close 2026-08-31 |
 | National AI Strategy document | [Implemented](https://www.africadataprotection.org/Ghana-AI-Strategy-2025-2035.pdf) | Published December 2025 by the communications ministry |
 
@@ -337,9 +345,7 @@ The disaster management organisation took ownership on 26 May 2026 of an [AI mul
 <!-- narrative: inclusion -->
 The flagship coders programme, launched in April 2025 against a target of one million trained by 2030, was [embedded permanently in a university curriculum on 29 July 2026](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/), and a youth agency signed for 2,000 vendor-certified microdegree places on 14 July. Fifteen months after launch it has published no cumulative number of people trained. The education trust fund signed a [memorandum with UNESCO on 5 August 2026](https://ghanaiantimes.com.gh/getfund-unesco-sign-mou-ai-programme/) to train technical and vocational teachers in digital and AI skills, with no commitment amount, cohort size or funding split published.
 
-Of the [GHS 591,947,850 domestically funded](https://mofep.gov.gh/sites/default/files/pbb-estimates/2026/2026-PBB-MOCD.pdf) under ICT infrastructure, regulation and capacity building in 2026, GHS 536,745,448 goes to the information technology agency, GHS 25,346,198 to the cyber-security authority, GHS 17,308,560 to the ICT capacity centre and GHS 2,827,244 to the domain registry. The data-protection regulator's GHS 9,720,400 is entirely its own internally generated funds, with no Consolidated Fund allocation at all.
-
-The universal-access fund carries the rural telephony project as its top priority, with the last disbursement figure 60.2% as at May 2022; the draft [development fund bill would convert it](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/) into a wider digital-economy and innovation fund, with the fate of its rural-access earmark unestablished. No dedicated community-network regime exists, and the regulator told a policy dialogue on 29 July 2026 that [an existing hotspot authorisation could found one](https://www.myjoyonline.com/isoc-ghana-urges-policy-reforms-to-expand-community-networks-and-bridge-rural-digital-divide/) — four such authorisations exist, against a [single authorised rural provider that is not operating](https://nca.org.gh/wp-content/uploads/2025/08/Q2-2025-Final-LIST-OF-AUTHORISED-ISPS-IN-GHANA-1.pdf).
+The universal-access fund carries the rural telephony project as its top priority; the draft [development fund bill would convert it](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/) into a wider digital-economy and innovation fund, with the fate of its rural-access earmark unestablished. No dedicated community-network regime exists, and the regulator told a policy dialogue on 29 July 2026 that [an existing hotspot authorisation could found one](https://www.myjoyonline.com/isoc-ghana-urges-policy-reforms-to-expand-community-networks-and-bridge-rural-digital-divide/) — four such authorisations exist, against a [single authorised rural provider that is not operating](https://nca.org.gh/wp-content/uploads/2025/08/Q2-2025-Final-LIST-OF-AUTHORISED-ISPS-IN-GHANA-1.pdf).
 
 An unlimited 100 Mbit/s fibre package [fell from GH¢987 to GH¢299 a month in June 2026](https://www.myjoyonline.com/sam-george-announces-major-reduction-in-mtn-fibre-broadband-prices/), a cut extracted from one operator rather than a licensing change letting others compete. The demand side has not been measured nationally since 2019, when the regulator recorded [16.8% of households with internet access](https://nca.org.gh/wp-content/uploads/2021/12/Household-Survey-on-ICT-in-Ghana-Abridged-NRF.pdf) and smartphone ownership at 58.4% urban against 28.1% rural.
 <!-- /narrative -->
@@ -363,7 +369,9 @@ An unlimited 100 Mbit/s fibre package [fell from GH¢987 to GH¢299 a month in J
 | Multi-year commitment for three revenue platforms | [Implemented](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) | Parliament adopted the finance committee reports 2026-07-28 |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Of the [GHS 591,947,850 domestically funded](https://mofep.gov.gh/sites/default/files/pbb-estimates/2026/2026-PBB-MOCD.pdf) under ICT infrastructure, regulation and capacity building in 2026, GHS 536,745,448 goes to the information technology agency, GHS 25,346,198 to the cyber-security authority, GHS 17,308,560 to the ICT capacity centre and GHS 2,827,244 to the domain registry. The data-protection regulator's GHS 9,720,400 is entirely its own internally generated funds, with no Consolidated Fund allocation at all.
+
+The rural telephony and digital inclusion project, financed by a EUR 140.8m buyer's credit signed 2020-05-13, [last reported a disbursement rate of 60.2% as at May 2022](https://www.graphic.com.gh/news/general-news/ghana-news-improving-rural-telephony-project-remains-top-priority-gifec-ceo.html), with no more recent figure published.
 <!-- /narrative -->
 
 ## Gaps to fill

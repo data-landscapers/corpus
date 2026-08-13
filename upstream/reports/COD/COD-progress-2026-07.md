@@ -291,8 +291,6 @@ External relationships were the section's real movement, all of them from nothin
 <!-- narrative: inclusion -->
 The universal service fund is the strongest movement in this section: from a fund created by law in 2020 and, on a named civil-society officer's account, [still not available at February 2025, to first pilot connectivity sites under construction in Kongo Central](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) with a community digital-learning centre attached. No site count, budget or appropriation line for the fund is held at either end.
 
-Private capital moved with dated figures at both ends. A development fund's commitment went from [US$30m in 2023, when the network stood at 1,072 active towers, to US$32.8m inside an upsized US$179m facility funding 728 new towers to take it to 1,800](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/), 70% of them rural. Separately an [investment convention of more than US$100m](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios) was signed with the investment-promotion agency.
-
 Skills targets appeared where none had been stated. The national digital plan now sets [250,000 young people to be trained in AI, cybersecurity and programming, at least 3,000 in advanced digital skills and about 1,000 teachers, to 2030](https://www.biometricupdate.com/202601/drc-envisages-a-functional-digital-government-platform-by-march). Six months on, no enrolment against any of them is established. The largest cohort recorded in the window is [41 certificates awarded in November 2025](https://actualite.cd/2025/11/05/formation-numerique-en-rdc-femintech-octroie-41-brevets-aux-nouveaux-formes-en) on a programme whose cumulative total is still stated as about 1,000 since 2017.
 <!-- /narrative -->
 
@@ -321,7 +319,7 @@ Skills targets appeared where none had been stated. The national digital plan no
 | National identification system appropriation | ***Baseline not held*** | [FC 20,654,178 appropriated for FY2026](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Private capital moved with dated figures at both ends. A development fund's commitment went from [US$30m in 2023, when the network stood at 1,072 active towers, to US$32.8m inside an upsized US$179m facility funding 728 new towers to take it to 1,800](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/), 70% of them rural. Separately an [investment convention of more than US$100m](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios) was signed with the investment-promotion agency.
 <!-- /narrative -->
 
 ## Where the record is thin

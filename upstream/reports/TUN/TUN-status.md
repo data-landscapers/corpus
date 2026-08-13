@@ -251,9 +251,7 @@ The market is a state incumbent under [European modernisation finance](https://w
 | Digital skills in the development plan | [Planned](https://www.arp.tn/loi/project/4315) | Named in the plan annex approved by law in July 2026 |
 
 <!-- narrative: inclusion -->
-Tunisia's digital financing is European, and it is two instruments routinely read as one. The [EBRD loan of up to EUR 190m to the state operator](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html), announced in January 2026 after board approval in July 2024, is a corporate modernisation programme — a 4G-to-5G upgrade, fibre to 200,000 households, backbone and core work, energy investment, and the operator's connection to the submarine cable. The [landing station itself was built under a separate EUR 9.6m grant](https://digital-strategy.ec.europa.eu/en/news/viatunisia) inside a EUR 32m project, to a different company, on a different timetable, closing in August 2025. Neither is a cable-financing facility, and neither is the other.
-
-Against that external money there is no domestic figure. The [2027 draft budget names the digital transition as a structuring axis](https://www.lapresse.tn/2026/08/04/sara-zaafrani-zenzri-devoile-les-grandes-orientations-du-projet-de-loi-de-finances-2027/) and attaches no allocation, target or programme to it; the [skills commitment in the plan](https://www.arp.tn/loi/project/4315) likewise carries no budget or delivery agency.
+The [skills commitment in the plan](https://www.arp.tn/loi/project/4315) names artificial intelligence, data analysis, programming and cybersecurity as the skills base of a digital economy made a pillar of human-capital development, but carries no budget or delivery agency of its own.
 
 On affordability the regulator, reporting international union data, [puts the digital basket at 1.53% of gross national income per head, about US$5.31 a month](https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/) — under the two-percent international threshold. That is a reference measurement, not a domestic price series.
 <!-- /narrative -->
@@ -275,7 +273,9 @@ On affordability the regulator, reporting international union data, [puts the di
 | Budget allocation for the digital transition | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Tunisia's digital financing is European, and it is two instruments routinely read as one. The [EBRD loan of up to EUR 190m to the state operator](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html), announced in January 2026 after board approval in July 2024, is a corporate modernisation programme — a 4G-to-5G upgrade, fibre to 200,000 households, backbone and core work, energy investment, and the operator's connection to the submarine cable. The [landing station itself was built under a separate EUR 9.6m grant](https://digital-strategy.ec.europa.eu/en/news/viatunisia) inside a EUR 32m project, to a different company, on a different timetable, closing in August 2025. Neither is a cable-financing facility, and neither is the other.
+
+Against that external money there is no domestic figure. The [2027 draft budget names the digital transition as a structuring axis](https://www.lapresse.tn/2026/08/04/sara-zaafrani-zenzri-devoile-les-grandes-orientations-du-projet-de-loi-de-finances-2027/) and attaches no allocation, target or programme to it.
 <!-- /narrative -->
 
 ## Gaps to fill

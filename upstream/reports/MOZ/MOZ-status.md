@@ -341,10 +341,6 @@ The bilateral health memorandum of 15 December 2025 [plans United States support
 
 <!-- narrative: inclusion -->
 Access points grew and the composite measure did not move. The central bank's Financial Inclusion Report 2025 counted 482,359 financial access points, up 36% on 2024, while card terminals fell to 32,236 ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). The Financial Inclusion Index stayed at 36.4 points, and the credit gap widened: women's participation rose from 31% to 34% and men's from 59% to 66%. The National Financial Inclusion Strategy 2025-2031 targets 60% of adults with a bank account by 2031 ([launch account](https://clubofmozambique.com/news/mozambique-e-money-accounts-have-grown-to-109-8-of-the-total-adult-population-government/)).
-
-The domestic side is now readable. The FY2026 budget appropriates MZN 757,832,010 to the financial information systems centre, including MZN 100,000,000 of domestic investment, and MZN 73,636,370 to the information and communication technologies institute, which has no capital allocation ([budget maps](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais)).
-
-External financing is the rest. The World Bank's acceleration project was restructured a second time on 16 January 2026, cutting cybersecurity and data protection from US$18m to US$11m on the stated ground that operationalising the data protection office had been envisaged over six years and the remaining project period no longer allows it ([restructuring paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099012626175535228)). The European Union signed EUR 28m for the digital transition on 9 June 2026, within a package of EUR 178m ([delegation announcement](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en)).
 <!-- /narrative -->
 
 ## Finance
@@ -375,7 +371,9 @@ External financing is the rest. The World Bank's acceleration project was restru
 | Universal Access Service Fund accounts | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The domestic budget is readable for FY2026. The state budget appropriates MZN 757,832,010 to the financial information systems centre, including MZN 100,000,000 of domestic investment, and MZN 73,636,370 to the information and communication technologies institute, which has no capital allocation ([budget maps](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais)).
+
+External financing carries the rest of the load. The World Bank's acceleration project was restructured a second time on 16 January 2026, cutting cybersecurity and data protection from US$18m to US$11m on the stated ground that operationalising the data protection office had been envisaged over six years and the remaining project period no longer allows it ([restructuring paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099012626175535228)). The European Union signed EUR 28m for the digital transition on 9 June 2026, within a package of EUR 178m ([delegation announcement](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en)).
 <!-- /narrative -->
 
 ## Gaps to fill

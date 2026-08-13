@@ -244,11 +244,9 @@ What is announced is partnership rather than capability: AXIAN was [named a foun
 <!-- narrative: inclusion -->
 Affordability is managed by agreement, not regulation. Operators [agreed in December 2025 to cut mobile internet prices gradually, with excise-duty relief conditioned on reinvestment in quality](https://www.lexpress.mg/2025/12/connectivite-baisse-annoncee-des-tarifs.html), resolving a standoff with the state. No price schedule or reduction figure has been published since, so the effect cannot be stated.
 
-Device access and skills run through one donor facility. The [Fonds DECIM approved all nine applications from its April 2025 call and made a US$2.5m first call for funds in November 2025](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf), with two operator contracts unsigned; a US$15m sub-component covers a virtual university, 5,700 people to be trained and US$2.4m for the national research network.
+Device access and skills run through one donor facility. The [Fonds DECIM approved all nine applications from its April 2025 call](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf), with two operator contracts unsigned, and the accompanying skills sub-component covers a virtual university and training for 5,700 people.
 
 The state recruits for capability it says it lacks: the digital ministry [received 259 applications for ten established posts in artificial intelligence, data management, cybersecurity, telecommunications and digital law by 1 August 2026](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/), naming its own gaps through a recruitment notice, with no appointment announced. An [initiative to bring high-speed internet and AI to universities was announced in January 2026](https://techafricanews.com/2026/01/26/unipod-initiative-aims-to-bring-high-speed-internet-and-ai-to-universities-in-madagascar/) with no campus connected on record.
-
-External finance is concentrated and old: [US$143,000,000 from the World Bank for the identity and digital governance project in 2020](https://projects.worldbank.org/en/projects-operations/project-detail/P169413), which closed on 30 June 2026 with its identity component continuing, alongside a [US$54,708,617 Chinese telecommunications loan](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf) and smaller commitments from [Norfund](https://www.norfund.no/major-funding-round-secured-for-welight-in-madagascar/) and [MIGA](https://www.miga.org/project/airtel-mobile-commerce). None has an implementation record on file, and no domestic budget line for the digital ministry, the Digital Governance Unit or the identity office is held.
 <!-- /narrative -->
 
 ## Finance
@@ -271,7 +269,9 @@ External finance is concentrated and old: [US$143,000,000 from the World Bank fo
 | Domestic budget appropriation for digital transformation | ***Not held*** | No loi de finances, annex or appropriation line for the digital ministry, the Digital Governance Unit or the identity office is held |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The [Fonds DECIM affordable-device facility made a US$2.5m first call for funds in November 2025](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf) against its nine approved applications, and the project's digital-skills sub-component carries its own budget line of US$15m, of which US$2.4m is earmarked for the national research network.
+
+External finance is concentrated and old: [US$143,000,000 from the World Bank for the identity and digital governance project in 2020](https://projects.worldbank.org/en/projects-operations/project-detail/P169413), which closed on 30 June 2026 with its identity component continuing, alongside a [US$54,708,617 Chinese telecommunications loan](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf) and smaller commitments from [Norfund](https://www.norfund.no/major-funding-round-secured-for-welight-in-madagascar/) and [MIGA](https://www.miga.org/project/airtel-mobile-commerce). None has an implementation record on file, and no domestic budget line for the digital ministry, the Digital Governance Unit or the identity office is held.
 <!-- /narrative -->
 
 ## Gaps to fill

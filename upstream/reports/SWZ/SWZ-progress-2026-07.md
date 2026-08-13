@@ -275,8 +275,6 @@ The partnerships that carry the sector all sit with foreign parties. The [Google
 | Digitally skilled citizens targeted | Baseline not held | [300,000 targeted, in a population of about 1.2m](https://times.co.sz/lifestyle/readmore.php?bhsadjgfoh=300+000+emaSwati+needed+for+country%E2%80%99s+digital+future&bvhdgsj=Lifestyle&yiphi=2761) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-The window's financing question was settled at its end: the [Digital Eswatini Project's more than E1.06bn was approved on 19 July 2026](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/), E648m for broadband and E450m for the citizen application, against a [US$165m opportunity that a January 2026 column noted had gone unmentioned in the prime minister's year-end statement](https://independentnews.co.sz/38043/opinion/columns/the-absent-agenda-eswatinis-digital-imperative-and-the-prime-ministers-year-end-address/). No domestic appropriation line was held at either end of the window.
-
 Inclusion improved on ownership. Global Findex 2025, cited in August 2025, [put account ownership at 63% against below 50% a decade earlier](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=Mobile+money+drives+financial+inclusion+growth&bvhdgsj=Business+and+Economy&yiphi=435), led by mobile money. Price moved into view rather than down: the [committee report of July 2026](https://times.co.sz/39920/news/cbe-called-to-probe-bank-charges/) is the first dated transaction price the base holds.
 
 Capacity delivery began late in the window and small against the ambition. A target of [300,000 digitally skilled citizens was set in February 2026](https://times.co.sz/lifestyle/readmore.php?bhsadjgfoh=300+000+emaSwati+needed+for+country%E2%80%99s+digital+future&bvhdgsj=Lifestyle&yiphi=2761) in a population of about 1.2m; by August the country had [two community innovation hubs and a third planned](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/), [cross-ministry change agents in training](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/), and a [first cohort of 50 in the UAE-delivered academy](https://times.co.sz/39456/news/eswatini-launches-africas-first-womens-digital-academy/).
@@ -298,7 +296,7 @@ Capacity delivery began late in the window and small against the ambition. A tar
 | Global South Utilities discussions on data-centre power | Did not exist | [In discussion; no capacity, price or timetable stated](https://independentnews.co.sz/40779/news/diplomacy/eswatini-explores-green-energy-for-national-data-centre/) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The window's financing question was settled at its end: the [Digital Eswatini Project's more than E1.06bn was approved on 19 July 2026](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/), E648m for broadband and E450m for the citizen application. That approval sits against a [US$165m opportunity, equivalent to E2.8bn, that a January 2026 column noted had gone unmentioned in the prime minister's year-end statement](https://independentnews.co.sz/38043/opinion/columns/the-absent-agenda-eswatinis-digital-imperative-and-the-prime-ministers-year-end-address/). No domestic appropriation line was held at either end of the window.
 <!-- /narrative -->
 
 ## Where the record is thin

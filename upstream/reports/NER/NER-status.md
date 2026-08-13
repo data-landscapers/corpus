@@ -30,7 +30,7 @@ The telecommunications regulator is the most active institution on the record. I
 
 | System or instrument | Status | As at |
 |---|---|---|
-| Continuous mobile-network monitoring platform | [Implemented](https://www.lesahel.org/regulation-des-telecommunications-larcep-inaugure-une-plateforme-de-controle-continu-des-reseaux-mobiles/) | Inaugurated 2026-01-29 |
+| Continuous mobile-network monitoring platform | [Implemented](https://www.lesahel.org/regulation-des-telecommunications-larcep-inaugure-une-plateforme-de-controle-continu-des-reseaux-mobiles/) | Inaugurated 2026-01-28 |
 | Domestic national fibre backbone | [Implemented](https://china.aiddata.org/projects/58683/) | Completed and handed over to local authorities, Q1 2017 (exact day not stated) |
 | Niamey Internet Exchange Point | [Implemented](https://www.agenceecofin.com/actualites-numerique/2108-130856-le-niger-se-dote-d-un-nouveau-point-d-echange-internet) | Inaugurated 2025-08-19 |
 | Starlink retail service | [Implemented](https://www.actuniger.com/technologie/20854-starlink-enfin-disponible-officiellement-au-niger-lespoir-dune-connexion-fiable-et-rapide-devient-realite.html) | Commercially available from 2025-03-13 |
@@ -281,11 +281,11 @@ Two external relationships are now on record. Huawei — present in Niger since 
 | AfricaCERT Handshake symposium | [Implemented](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | 13th edition hosted at Niamey July 2025 |
 
 <!-- narrative: inclusion -->
-Inclusion is donor-built. Luxembourg [pledged support to close the Sahel's digital gap in January 2025](https://itweb.africa/article/luxembourg-pledges-to-reduce-sahels-digital-gap/KWEBbvyLJjxqmRjO) and the package [widened to Ericsson and Sweden in June 2026](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) with no commitment total published. The World Food Programme [opened a second community digital centre at Tahoua in July 2026](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), with 100 computers and 50 kW of solar power, after one at Diffa.
+Inclusion runs through community infrastructure. The World Food Programme [opened a second community digital centre at Tahoua in July 2026](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), with 100 computers and 50 kW of solar power, after one at Diffa.
 
 Capacity-building follows the same route: Niger [hosted the 13th AfricaCERT Handshake symposium at Niamey in July 2025](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/), where the digital agency proposed an AES regional cyber-defence alliance.
 
-Against the enrolment programme, an [analyst warns of privacy breaches, state surveillance and systemic exclusion](https://www.connectingafrica.com/regulation/niger-s-rollout-of-biometric-ids-gets-a-thumbs-up), with rural communities, migrants and those without foundational identity most exposed. No public budget appropriation for digital government is held.
+Against the enrolment programme, an [analyst warns of privacy breaches, state surveillance and systemic exclusion](https://www.connectingafrica.com/regulation/niger-s-rollout-of-biometric-ids-gets-a-thumbs-up), with rural communities, migrants and those without foundational identity most exposed.
 <!-- /narrative -->
 
 ## Finance
@@ -303,7 +303,7 @@ Against the enrolment programme, an [analyst warns of privacy breaches, state su
 | Public budget allocation to digital government | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Donor commitments are what financing this report can state. Luxembourg [pledged support to close the Sahel's digital gap in January 2025](https://itweb.africa/article/luxembourg-pledges-to-reduce-sahels-digital-gap/KWEBbvyLJjxqmRjO), and the package [widened to Ericsson and Sweden in June 2026](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m), with no commitment total published. No public budget appropriation for digital government is held.
 <!-- /narrative -->
 
 ## Gaps to fill

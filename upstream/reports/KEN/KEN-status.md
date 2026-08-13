@@ -1,14 +1,14 @@
 ---
 title: Kenya — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-11
 place: KEN
-ledger_rows: 146
+ledger_rows: 147
 not_held: 4
 ---
 
 # Kenya: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/KEN/ledger.csv` (146 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/KEN/ledger.csv` (147 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -338,11 +338,9 @@ Deployment is running ahead of the rules that would govern it. A constitutional 
 | Ajira Digital Programme | ***Not held*** | No dated statement on file |
 
 <!-- narrative: inclusion -->
-The digital thematic allocation fell to [KSh 8.6bn for 2026/27](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) from KSh 12.7bn and KSh 16.3bn in the two preceding years, and KSh 4.3bn of it — half the thematic — is the World Bank's Digital Economy Acceleration Project, which had [disbursed US$33.93m of a US$390m commitment](https://projects.worldbank.org/en/projects-operations/project-detail/P170941) at a portal reading of 2026-06-24.
-
 The Jitume digital hub programme [commissioned its 117th hub on 2026-07-20](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) on the ceremony series while its own officials give an installed base of about 350, and no hub register has been published. Six donor programmes carry commitment values and no disbursement or outturn at any date. The universal service fund [connected 20 sub-locations in 2024/25 and 155 cumulatively, reaching about 508,012 people](https://www.ca.go.ke/sites/default/files/2026-07/Annual%20Report%20FY%202024-2025.pdf); the Digital Literacy Programme [installed 1,170,846 devices in 22,891 public primary schools](https://edu-design.co/wp-content/uploads/2019/09/Digital-Literacy-Programme.pdf) but had connected 216 schools to the internet when a government-steered review last reported in 2022.
 
-Smartphone connections [passed 50 million in March 2026](https://nation.africa/kenya/business/smartphones-hit-50m-basic-handsets-ditched-5502650), with feature phones down to 28.5 million. The Hustler Fund has disbursed KSh 83bn against KSh 71bn recovered on a 15% default rate, while state funding fell from KSh 20bn at launch to [KSh 300m in the year to June 2026](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), and repayment is now accepted in privately issued loyalty points. The KenSafeSpace digital-rights coalition [closed on 2026-07-28](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) after 30 months on a EUR 1.3m grant, its 49 members continuing unfunded. The Mastercard Foundation's EdTech Fellowship [moved from eight-month growth-stage cohorts to an 18-month early-stage programme](https://techafricanews.com/2026/07/29/ihub-selects-12-kenyan-edtech-startups-for-mastercard-foundation-fellowship/) in July 2026, selecting 12 Kenyan startups at up to US$100,000 each.
+Smartphone connections [passed 50 million in March 2026](https://nation.africa/kenya/business/smartphones-hit-50m-basic-handsets-ditched-5502650), with feature phones down to 28.5 million. The Hustler Fund has disbursed KSh 83bn against KSh 71bn recovered on a 15% default rate, and repayment is now accepted in privately issued loyalty points. The KenSafeSpace digital-rights coalition [closed on 2026-07-28](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) after 30 months on a EUR 1.3m grant, its 49 members continuing unfunded. The Mastercard Foundation's EdTech Fellowship [moved from eight-month growth-stage cohorts to an 18-month early-stage programme](https://techafricanews.com/2026/07/29/ihub-selects-12-kenyan-edtech-startups-for-mastercard-foundation-fellowship/) in July 2026, selecting 12 Kenyan startups at up to US$100,000 each.
 <!-- /narrative -->
 
 ## Finance
@@ -351,6 +349,7 @@ Smartphone connections [passed 50 million in March 2026](https://nation.africa/k
 
 | System or instrument | Status | As at |
 |---|---|---|
+| Atlas Tower Kenya debt facility (ATK Debt II) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-903-SII-52548%22) | IFC committed US$25m of a US$30m multi-currency debt package, 2026-06-18 |
 | EBRD-Axian Telecom (Yas) senior loan financing, Kenya tranche | [Implemented](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270) | Signed 9 July 2026, advised by White & Case |
 | Kenya Digital Economy Acceleration Project | [Implemented](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | FY2026/27 appropriation of KSh 4.3bn |
 
@@ -370,7 +369,9 @@ Smartphone connections [passed 50 million in March 2026](https://nation.africa/k
 | Vote 1122, State Department for ICT and the Digital Economy | [Implemented](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf) | FY2026/27 original estimates of KSh 12,763.8m |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The digital thematic allocation fell to [KSh 8.6bn for 2026/27](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) from KSh 12.7bn and KSh 16.3bn in the two preceding years, and KSh 4.3bn of it — half the thematic — is the World Bank's Digital Economy Acceleration Project, which had [disbursed US$33.93m of a US$390m commitment](https://projects.worldbank.org/en/projects-operations/project-detail/P170941) at a portal reading of 2026-06-24.
+
+State funding for the Hustler Fund fell from KSh 20bn at launch to [KSh 300m in the year to June 2026](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points).
 <!-- /narrative -->
 
 ## Gaps to fill

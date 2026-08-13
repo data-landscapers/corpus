@@ -19,52 +19,150 @@ July brought the trust layer and the market layer within eight days of each othe
 
 ## Infrastructure
 
-<!-- narrative: infrastructure -->
+### Connectivity
+
+<!-- narrative: infrastructure--infra-connect -->
+A low-orbit satellite operator [went live by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) at XOF 28,746 a month for residential service, with hardware from XOF 148,148, on a twelve-month provisional licence reviewable on service quality. On 31 July the minister said regional satellite capacity would be routed through the universal-service bodies, with a working session on terms due the following week; no terms, tariff or timetable was stated. No 5G launch occurred against the announced July 2026 date. Ministry figures given on 13 July put telecommunications penetration above 130% of population and [about 38,000 km of optical fibre](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation).
+<!-- /narrative -->
+
+### Data Storage
+
+<!-- narrative: infrastructure--infra-store -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
 The cyber agency [commissioned the national public key infrastructure](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/) on an announcement dated 23 July 2026, on the legal basis of the 2013 electronic-transactions law and its 2014 and 2016 decrees. It is the trust anchor for every certification authority operating on Ivorian territory; the agency's own notice is not held, so the technical commissioning date is unestablished.
-
-A low-orbit satellite operator [went live by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) at XOF 28,746 a month for residential service, with hardware from XOF 148,148, on a twelve-month provisional licence reviewable on service quality. On 31 July the minister said regional satellite capacity would be routed through the universal-service bodies, with a working session on terms due the following week; no terms, tariff or timetable was stated.
-
-On 29 July the agency [set a target of 1,200 certified cyber-security specialists in three years](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/), against about 250 trained in the first half of 2026 and 88 auditors certified that day. No 5G launch occurred against the announced July 2026 date.
 <!-- /narrative -->
 
 ## Digital public infrastructure
 
-<!-- narrative: dpi -->
-All 39 first-instance tribunals were [connected to the justice platform on 29 June 2026](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien), completing an arc that began with a two-court pilot in January 2025; nationality certificates and criminal-record extracts are now issued digitally nationwide. The account describes this as completing phase one, with no phase-two scope or date.
+### Data Exchange
 
-The minister told an information-systems seminar on 21 and 22 July that the first services onto the interoperability platform [had been chosen largely by volunteering rather than against user priorities](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite), against targets of 100 services online by end-2026 and 700 within three years. No count of services in production has been published.
+<!-- narrative: dpi--dpi-exchange -->
+The minister told an information-systems seminar on 21 and 22 July that the first services onto the interoperability platform [had been chosen largely by volunteering rather than against user priorities](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite), against targets of 100 services online by end-2026 and 700 within three years. No count of services in production has been published. Fourteen migration bodies met on 30 July to [co-design a single collection and profiling tool for returning migrants](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) and a roadmap for transferring their data into one directorate; no legal basis, data-protection safeguard or timetable for pooling personal data across fourteen bodies is stated.
+<!-- /narrative -->
 
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
 The identification office's director general [put national identification number holders at roughly 11 million](https://digitalmag.ci/identite-numerique-la-cote-divoire-pays-connecte-mais-pas-encore-pleinement-identifie/) on 30 July and named historic duplicate identities inside the register — the disclosure, not the register, is what is new. The office trained sub-prefects on civil registration on 30 and 31 July, after registrars earlier that week.
+<!-- /narrative -->
 
-Fourteen migration bodies met on 30 July to [co-design a single collection and profiling tool for returning migrants](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) and a roadmap for transferring their data into one directorate; no legal basis, data-protection safeguard or timetable for pooling personal data across fourteen bodies is stated. A private schools federation signed a convention on 21 July putting fee collection onto mobile money in a 200-school pilot from August.
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+A private schools federation signed a convention on 21 July putting fee collection onto mobile money in a 200-school pilot from August. The flat FCFA 100 agency fee levied on every mobile-money counter transaction since November 2025 was [documented on 24 July](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html) as authorised by no operator tariff and no regulator, regressive by construction on small transfers.
+<!-- /narrative -->
+
+### Registries (population, land, address, etc.)
+
+<!-- narrative: dpi--dpi-registry -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+All 39 first-instance tribunals were [connected to the justice platform on 29 June 2026](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien), completing an arc that began with a two-court pilot in January 2025; nationality certificates and criminal-record extracts are now issued digitally nationwide. The account describes this as completing phase one, with no phase-two scope or date. The regulator's compliance platform [went live on 2 July 2026](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire), slipping from a 25 June date, replacing about a hundred physical files a month with online submission, real-time tracking and traceability for conformity, processing authorisations and video-surveillance authorisations. It was built over two years and piloted by the identification office and the treasury.
 <!-- /narrative -->
 
 ## Governance and regulation
 
-<!-- narrative: governance -->
-The regulator's compliance platform [went live on 2 July 2026](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire), slipping from a 25 June date, replacing about a hundred physical files a month with online submission, real-time tracking and traceability for conformity, processing authorisations and video-surveillance authorisations. It was built over two years and piloted by the identification office and the treasury.
+### Legislation and regulation
 
+<!-- narrative: governance--gov-legislate -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
 The draft cyber-security strategy for 2026 to 2030 was [put to stakeholder review on 23 July](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) and awaits the Council of Ministers; the 2021 to 2025 text remains the instrument formally in force. The draft extends scope to artificial intelligence, emerging technologies and cloud.
+<!-- /narrative -->
 
-The mobile-money agents' union [wrote to the regulator on 24 July](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html) with four questions on whether kiosk agents may demand, photograph or retain customer identity documents, after four operators required retention. No regulator response is on file. A consumer federation [launched a complaints platform on 30 July](https://news.abidjan.net/articles/748737/cote-divoire-lunion-federale-des-consommateurs-lance-my-signal-une-plateforme-numerique-pour-renforcer-la-protection-des-consommateurs) charging FCFA 150 per report, with eight stages from filing through mediation to published reports.
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+On 29 July the agency [set a target of 1,200 certified cyber-security specialists in three years](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/), with 88 auditors certified that day.
+<!-- /narrative -->
+
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The mobile-money agents' union [wrote to the regulator on 24 July](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html) with four questions on whether kiosk agents may demand, photograph or retain customer identity documents, after four operators required retention. No regulator response is on file.
+<!-- /narrative -->
+
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+A consumer federation [launched a complaints platform on 30 July](https://news.abidjan.net/articles/748737/cote-divoire-lunion-federale-des-consommateurs-lance-my-signal-une-plateforme-numerique-pour-renforcer-la-protection-des-consommateurs) charging FCFA 150 per report, with eight stages from filing through mediation to published reports.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
 
-<!-- narrative: ai-tech -->
-The United States announced on 16 July that a contractor had received [formal Ivorian authorisation for a US$170m export-credit-financed project](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) covering a sovereign national data centre, a government digitisation platform and a smart-border surveillance system, up from US$66m approved in August 2025. The announcement was made by the United States rather than by any Ivorian instrument.
+### AI
 
+<!-- narrative: ai-tech--tech-ai -->
 Six francophone West African states adopted common artificial-intelligence governance guidelines announced on 6 July, non-binding and complementary to national strategies, submitted as a written contribution to a United Nations dialogue. The minister addressed that dialogue in Geneva on 6 and 7 July and proposed a regional African school of artificial intelligence.
-
-The ministry [launched two accelerator cohorts and a state procurement platform on 29 July](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique), fifteen startups and fifteen digital small firms each accompanied for 24 months, applications closing 13 September, against a target of FCFA 5 to 10bn mobilised from banks, funds and donors. Ministry figures given on 13 July put telecommunications penetration above 130% of population and [about 38,000 km of optical fibre](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation). An electric ride-hailing fleet took delivery of 100 vehicles on 18 July.
 <!-- /narrative -->
 
-## Inclusion, capacity and finance
+### ICT Industry
 
-<!-- narrative: inclusion -->
-A guarantee arrangement was the month's only committed money. Two conventions signed on 23 July mobilise [up to FCFA 17bn across two windows](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique) for small and medium enterprises, with stated attention to women's entrepreneurship; it is an envelope rather than a committed sum.
+<!-- narrative: ai-tech--tech-industry -->
+An electric ride-hailing fleet took delivery of 100 vehicles on 18 July.
+<!-- /narrative -->
 
-The civil-service digital-skills programme [closed its thirteenth edition on 29 July](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins), training 192 officials from about thirty public bodies over 40 days, against a cumulative claim of more than 37,500 civil servants funded from the ministry's own budget line. The cyber agency and a technology school validated curricula for two cyber-security master's degrees on 28 July, with enrolment stated for the September 2026 academic year and no intake size or funding published.
+### Innovation ecosystem
 
-The flat FCFA 100 agency fee levied on every mobile-money counter transaction since November 2025 was [documented on 24 July](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html) as authorised by no operator tariff and no regulator, regressive by construction on small transfers.
+<!-- narrative: ai-tech--tech-innovate -->
+The ministry [launched two accelerator cohorts and a state procurement platform on 29 July](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique), fifteen startups and fifteen digital small firms each accompanied for 24 months, applications closing 13 September, against a target of FCFA 5 to 10bn mobilised from banks, funds and donors.
+<!-- /narrative -->
+
+### US / hyperscaler activities
+
+<!-- narrative: ai-tech--geopol-usa -->
+The United States announced on 16 July that a contractor had received [formal Ivorian authorisation for a US$170m export-credit-financed project](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) covering a sovereign national data centre, a government digitisation platform and a smart-border surveillance system, up from US$66m approved in August 2025. The announcement was made by the United States rather than by any Ivorian instrument.
+<!-- /narrative -->
+
+### Gulf/UAE activities
+
+<!-- narrative: ai-tech--geopol-gulf -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+## Inclusion and capacity
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+A guarantee arrangement was the month's only committed money in this section. Two conventions signed on 23 July mobilise [up to FCFA 17bn across two windows](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique) for small and medium enterprises, with stated attention to women's entrepreneurship; it is an envelope rather than a committed sum.
+<!-- /narrative -->
+
+### Literacy
+
+<!-- narrative: inclusion--capacity-literacy -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### Training and skills
+
+<!-- narrative: inclusion--capacity-training -->
+The civil-service digital-skills programme [closed its thirteenth edition on 29 July](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins), training 192 officials from about thirty public bodies over 40 days, against a cumulative claim of more than 37,500 civil servants funded from the ministry's own budget line.
+<!-- /narrative -->
+
+### Research institutions
+
+<!-- narrative: inclusion--capacity-research -->
+The cyber agency and a technology school validated curricula for two cyber-security master's degrees on 28 July, with enrolment stated for the September 2026 academic year and no intake size or funding published.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+_(narrative not yet written)_
 <!-- /narrative -->

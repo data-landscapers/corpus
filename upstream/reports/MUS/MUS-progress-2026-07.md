@@ -236,11 +236,9 @@ The hyperscaler relationship deepened without becoming capacity: an [Amazon memo
 | National AI training programme | Did not exist | [A target of 50,000 people trained in one year — 25,000 professionals, 12,000 ninth-grade pupils, 8,000 teachers and 5,000 civil servants — on a Rs 25m platform; no completion or enrolment figure has been published (2026-06)](https://lexpress.mu/node/559426) | Advanced |
 
 <!-- narrative: inclusion -->
-Skills went from no stated commitment to the most specific one on this record. The [2026-2027 budget](https://lexpress.mu/node/559426) funds a 50,000-trainee target in a single year, a Rs 25m platform, an investment tax credit and a special economic zone with preferential data-centre power. Nothing has yet been published against any of those numbers, and no measure exists of the skills base the target starts from.
+Skills went from no stated commitment to the most specific one on this record: the [2026-2027 budget](https://lexpress.mu/node/559426) sets a 50,000-trainee target for artificial intelligence skills in a single year. Nothing has yet been published against that number, and no measure exists of the skills base the target starts from.
 
 Sub-national inclusion acquired its first named commitment: a [ministerial mission to Rodrigues in May 2026](https://lexpress.mu/node/558566) set a cybersecurity working framework, a youth project and integration of the national sign-on through post office agents.
-
-External financing did not move. The largest digital-sector commitment on the record is still a [2018 buyer's credit](http://mof.govmu.org/English/PublishingImages/2019/MOFED%20Annual%20Report%20-%20FY%202017-18.pdf) with no repayment statement, and the country's growth in this area is as a [conduit for other people's payments](https://itweb.africa/article/mauritius-emerges-as-an-african-payments-hub/) rather than a recipient of investment.
 <!-- /narrative -->
 
 ## Finance
@@ -259,7 +257,9 @@ External financing did not move. The largest digital-sector commitment on the re
 | Digital and AI measures in the 2026-2027 budget | Did not exist | [Artificial intelligence named 35 times, carrying a 50,000-trainee target, a Rs 25m national learning platform, an investment tax credit of 15% a year over three years, a special economic zone of 83 arpents with preferential data-centre power and thirty-year renewable leases, e-gates, e-visa, e-judiciary and a Rs 13m cyber forensic laboratory (2026-06)](https://lexpress.mu/node/559426) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The [2026-2027 budget](https://lexpress.mu/node/559426) carries the year's financial commitment alongside the training target: a Rs 25m national AI learning platform, an investment tax credit and a special economic zone with preferential data-centre power.
+
+External financing did not move: the largest digital-sector commitment on record is still the [2018 China Eximbank buyer's credit](http://mof.govmu.org/English/PublishingImages/2019/MOFED%20Annual%20Report%20-%20FY%202017-18.pdf), with no repayment statement published, and the country's growth in this area continues to run as a [conduit for other people's payments](https://itweb.africa/article/mauritius-emerges-as-an-african-payments-hub/) rather than as a recipient of investment itself.
 <!-- /narrative -->
 
 ## Where the record is thin

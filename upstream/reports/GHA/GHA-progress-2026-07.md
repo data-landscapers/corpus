@@ -316,9 +316,9 @@ Everything else accreted detail on a position already held. The oversight body h
 <!-- narrative: inclusion -->
 The direction here is that capacity grew and its outputs stayed unmeasured. The coders programme was embedded in a university curriculum, an agency signed for 2,000 microdegree places, and a community-media cyber corps launched — and fifteen months after launch the coders programme has published no cumulative number of people trained.
 
-Two things did not move at all. The rural telephony project is described in the same terms in March 2026 as the 2020 loan record describes it, with no disbursement or coverage figure added in between and its last quantified statement a 60.2% disbursement rate as at May 2022. And no dedicated community-network regime exists; the regulator now says an existing authorisation could found one.
+One thing did not move at all: no dedicated community-network regime exists, and the regulator now says an existing authorisation could found one.
 
-Affordability moved once, by ministerial pressure on a single operator rather than by market entry, cutting an unlimited fibre package from GH¢987 to GH¢299 a month in June 2026. Two Chinese distance-learning loans signed in October 2020 passed their expected completion dates during the window with no completion, disbursement or outturn statement on file, one of them flagged for indications of financial underperformance.
+Affordability moved once, by ministerial pressure on a single operator rather than by market entry, cutting an unlimited fibre package from GH¢987 to GH¢299 a month in June 2026.
 <!-- /narrative -->
 
 ## Finance
@@ -339,7 +339,9 @@ Affordability moved once, by ministerial pressure on a single operator rather th
 | Multi-year commitment for three revenue platforms | ***Baseline not held*** | [Approved with published benefit projections and no disclosed cost, contract duration or termination terms](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The rural telephony project's financing is unchanged: it is described in the same terms in March 2026 as the 2020 loan record describes it, with no disbursement or coverage figure added in between, and its last quantified statement remains a 60.2% disbursement rate as at May 2022.
+
+Two Chinese distance-learning loans signed in October 2020 passed their expected completion dates during the window with no completion, disbursement or outturn statement on file, one of them flagged for indications of financial underperformance.
 <!-- /narrative -->
 
 ## Where the record is thin

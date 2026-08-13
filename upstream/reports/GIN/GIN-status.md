@@ -321,8 +321,6 @@ In the sector itself the largest named object is [Cauridor, a Guinea-founded cro
 | Public research programme in digital or data science | ***Not held*** | No source on file |
 
 <!-- narrative: inclusion -->
-Tracked non-state digital-transformation finance stands at US$543m across five deals for 2023 to 2025, on the wiki's own compilation of the deal records it holds as of 6 August 2026 — not a published figure, and carrying no source of its own. The largest instrument inside it is WARDIP, a [US$60m credit under IDA Credit No. 74440GN, from which the RETSSM rescue consultancy was tendered on 27 July 2026](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf). No domestic budget appropriation is held: no Loi de finances line is on file for MCENI, ANDE, ANSSI or the Digital Sovereignty Fund, so this report can state what those bodies have announced but not what they have been given.
-
 The private payments market added three services in the period — [CORIS Money in February 2026](https://techafricanews.com/2026/02/19/guinea-launches-coris-money-to-boost-financial-inclusion-and-digitalization/), [Orange Money to bank interoperability with BNG in March 2026](https://mediaguinee.com/2026/03/orange-money-lance-le-service-acces-a-ma-banque-avec-la-banque-nationale-de-guinee-bng/) and [KS-Wallet in April 2026](https://mediaguinee.com/2026/04/monnaie-electronique-bgb-solutions-s-a-lance-son-application-ks-wallet/) — against six licensed electronic-money institutions in 2024 and eleven by November 2025.
 
 The [ministry's review of 2025 reported more than 10,000 people trained in digital skills and mobile internet costs down 25%](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026), both ministry-reported and unverified elsewhere in the base. [Holberton Guinee opened a software-engineering campus in Conakry on 16 July 2026](https://mediaguinee.com/2026/07/numerique-et-ia-holberton-guinee-officiellement-lancee-a-conakry/).
@@ -349,7 +347,7 @@ The [ministry's review of 2025 reported more than 10,000 people trained in digit
 | Domestic budget appropriation for digital transformation | ***Not held*** | No budget document or appropriation line on file |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Tracked non-state digital-transformation finance stands at US$543m across five deals for 2023 to 2025, on the wiki's own compilation of the deal records it holds as of 6 August 2026 — not a published figure, and carrying no source of its own. The largest instrument inside it is WARDIP, a [US$60m credit under IDA Credit No. 74440GN, from which the RETSSM rescue consultancy was tendered on 27 July 2026](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf). No domestic budget appropriation is held: no Loi de finances line is on file for MCENI, ANDE, ANSSI or the Digital Sovereignty Fund, so this report can state what those bodies have announced but not what they have been given.
 <!-- /narrative -->
 
 ## Gaps to fill

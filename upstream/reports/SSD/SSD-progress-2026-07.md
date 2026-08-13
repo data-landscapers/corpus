@@ -223,7 +223,7 @@ Nothing was built. What changed is external. [Huawei re-engaged after the post-2
 <!-- narrative: inclusion -->
 Use rose and affordability worsened. The regulator reported internet users moving from [1.3 million to 1.9 million and penetration from 12% to 15.7%](https://www.eyeradio.org/nca-reports-huge-internet-growth-in-south-sudan/), the only national measurement in the period. Against that, mobile data was [about US$23.70 per gigabyte in November 2025](https://www.onecitizendaily.com/index.php/2025/11/27/41522/); [MTN then cut tariffs by 25%](https://techafricanews.com/2025/12/12/south-sudans-ict-ministry-commends-mtn-for-25-tariff-reduction-urges-further-cuts/), and two exchange-rate adjustments raised charges twice more with [no revised rate published by anyone](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/). The period therefore ends with no published price for mobile data.
 
-Skills provision produced one costed plan and no delivery: [Central Equatoria's three centres at a stated US$2,806,100](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/), with no financier or start date named. The older commitments — [Chinese education technical cooperation](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml) and the [air traffic management loan](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) — stood as committed at both ends with no implementation record entering the base.
+Skills provision produced one costed plan and no delivery: [Central Equatoria's three centres at a stated US$2,806,100](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/), with no financier or start date named.
 <!-- /narrative -->
 
 ## Finance
@@ -242,7 +242,7 @@ Skills provision produced one costed plan and no delivery: [Central Equatoria's 
 | Air Traffic Management System loan (China Eximbank) | Committed | [Committed; no implementation record held](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) | No change |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+External financing commitments were unchanged over the period: the [Chinese education technical cooperation](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml) commitment and the [air traffic management loan](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) both stood as committed at start and end, with no implementation record entering the base.
 <!-- /narrative -->
 
 ## Where the record is thin

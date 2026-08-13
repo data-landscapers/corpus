@@ -260,7 +260,7 @@ In the sector, [Cauridor](https://techcabal.com/2026/04/14/cauridor-hires-ex-flu
 <!-- narrative: inclusion -->
 The private payments market is where inclusion moved. [CORIS Money entered in February 2026](https://techafricanews.com/2026/02/19/guinea-launches-coris-money-to-boost-financial-inclusion-and-digitalization/), [Orange Money gained wallet-to-bank interoperability with BNG in March](https://mediaguinee.com/2026/03/orange-money-lance-le-service-acces-a-ma-banque-avec-la-banque-nationale-de-guinee-bng/) and [KS-Wallet followed in April](https://mediaguinee.com/2026/04/monnaie-electronique-bgb-solutions-s-a-lance-son-application-ks-wallet/), against six licensed institutions in 2024 and eleven by November 2025. [Visa opened talks toward a central-bank memorandum in April 2026](https://techreviewafrica.com/news/4892/visa-engages-guinea-on-digital-payments-to-accelerate-financial-sector-transformation); nothing has been signed.
 
-On finance, the window's one dated, referenced figure is the [US$60m credit behind WARDIP, named as IDA Credit No. 74440GN in the July 2026 tender](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf). No domestic appropriation line is held at either end of the window. Training capacity gained a private campus with [Holberton Guinée in July 2026](https://mediaguinee.com/2026/07/numerique-et-ia-holberton-guinee-officiellement-lancee-a-conakry/); the [ministry's own review reported more than 10,000 people trained across 2025](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026), a figure with no independent check in the base.
+Training capacity gained a private campus with [Holberton Guinée in July 2026](https://mediaguinee.com/2026/07/numerique-et-ia-holberton-guinee-officiellement-lancee-a-conakry/); the [ministry's own review reported more than 10,000 people trained across 2025](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026), a figure with no independent check in the base.
 <!-- /narrative -->
 
 ## Finance
@@ -279,7 +279,7 @@ On finance, the window's one dated, referenced figure is the [US$60m credit behi
 | Visa-Guinea central bank memorandum | Did not exist | [In discussion; nothing signed on record](https://techreviewafrica.com/news/4892/visa-engages-guinea-on-digital-payments-to-accelerate-financial-sector-transformation) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The window's one dated, referenced financing figure is the [US$60m credit behind WARDIP, named as IDA Credit No. 74440GN in the July 2026 tender](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf) that opened the RETSSM rescue consultancy. No domestic budget appropriation line is held at either end of the window.
 <!-- /narrative -->
 
 ## Where the record is thin

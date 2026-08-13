@@ -262,11 +262,7 @@ Two objects entered the record from nothing: a diaspora initiative launched in M
 | NOSi Akademia | The base carries no position on NOSi Akademia at 2025-08-01 | [Reported by the government at about 3,000 applications and more than 600 internships since 2016; the first Alumni Talk was held inside Semana do Digital, opened by the Finance and Digital Economy Minister](https://www.governo.cv/governo-dispoe-de-cerca-de-10-milhoes-de-contos-para-investir-no-digital-nos-proximos-anos/) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-The clearest movement in this section is downward and it is in the vote. The digital ministry's appropriation fell from CVE 369,781,930 for FY2025 to CVE 174,200,533 for FY2026, an 87.5% fall across two budgets while total state expenditure rose 11.3%, taking the digital vote from 1.62% of state spending in FY2024 to 0.18% ([budget law](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf)). Capital was appropriated at a printed zero for a second consecutive year. By 31 March 2026 the reprogrammed budget stood at CVE 1,614,624,282, including CVE 653,127,161 of investment the law recorded as zero ([quarterly account](https://www.mf.gov.cv/documents/198414/6576107/Mapas_Contas_1%C2%BA_Trim_%202026_Site.xlsx)).
-
-Two fee-financed earmarks did not move at all: the universal service fund at CVE 122,073,633 and the civil-identification earmark at CVE 306,516,802, each identical to the escudo across three budgets.
-
-Training and financing both entered the period as commitments and left it with no measured output. A digital-skills programme opened 1,050 first-phase places in January 2026 against a 3,000 target ([launch account](https://techreviewafrica.com/news/3789/cabo-verde-launches-skodji-digital-programme-to-expand-youth-access-to-global-digital-economy)); the African Development Bank's second-phase e-governance programme was signed on 31 December 2025 ([signature account](https://expressodasilhas.cv/economia/2026/03/18/bad-financia-segunda-fase-da-reforma-electronica-e-da-gestao-publica-com-177-milhoes-de-euros/101939)), with disbursement still recorded as zero at the June 2026 data capture.
+Training entered the period as a commitment and left it with no measured output. A digital-skills programme opened 1,050 first-phase places in January 2026 against a 3,000 target ([launch account](https://techreviewafrica.com/news/3789/cabo-verde-launches-skodji-digital-programme-to-expand-youth-access-to-global-digital-economy)); no enrolment, completion or placement figure is held.
 <!-- /narrative -->
 
 ## Finance
@@ -303,7 +299,11 @@ Training and financing both entered the period as commitments and left it with n
 | Civil-identification earmark | CVE 306,516,802 for FY2025 against the identity-document issue-and-replacement fee, split across electronic passport, identity card, residence permit and running costs | [The same CVE 306,516,802 for FY2026 to the escudo; the only change across three budgets is a label, one sub-line moving to the justice-modernisation institute](https://www.mf.gov.cv/documents/198414/3901074/ANEXO+INFORMATIVO_OE_2024_DEFINITIVO.pdf/bf68c237-a941-fb9c-d290-018e20641a01?version=1.0&t=1696269705355) | No change |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The clearest movement in the whole report is downward and it is in the vote. The digital ministry's appropriation fell from CVE 369,781,930 for FY2025 to CVE 174,200,533 for FY2026, an 87.5% fall across two budgets while total state expenditure rose 11.3%, taking the digital vote from 1.62% of state spending in FY2024 to 0.18% ([budget law](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf)). Capital was appropriated at a printed zero for a second consecutive year. By 31 March 2026 the reprogrammed budget stood at CVE 1,614,624,282, including CVE 653,127,161 of investment the law recorded as zero ([quarterly account](https://www.mf.gov.cv/documents/198414/6576107/Mapas_Contas_1%C2%BA_Trim_%202026_Site.xlsx)).
+
+Two fee-financed earmarks did not move at all: the universal service fund at CVE 122,073,633 and the civil-identification earmark at CVE 306,516,802, each identical to the escudo across three budgets.
+
+Financing commitments entered the period with no matching disbursement. The African Development Bank's second-phase e-governance programme was signed on 31 December 2025 ([signature account](https://expressodasilhas.cv/economia/2026/03/18/bad-financia-segunda-fase-da-reforma-electronica-e-da-gestao-publica-com-177-milhoes-de-euros/101939)), with disbursement still recorded as zero at the June 2026 data capture.
 <!-- /narrative -->
 
 ## Where the record is thin

@@ -300,7 +300,7 @@ A government assistant went live in March 2026 on messaging platforms and a toll
 | Certified cyber-specialist programme | [Implemented](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | Target of 1,200 certified in three years announced 2026-07-29 |
 | Chinese digital education loan | [Implemented](https://www.dropbox.com/s/myashl99hq44wde/Projet%20d%E2%80%99%C3%89ducation%20Num%C3%A9rique_85%25%20English.pdf?dl=0) | Loan agreements signed 2018-08-31, fully disbursed by December 2022 |
 | Civil-service digital-skills programme | [Implemented](https://www.fratmat.info/article/2643657/regions/katiolatic-192-agents-administratifs-formes-dans-le-hambol) | Thirteenth edition closed at Katiola 2026-07-29 |
-| Digital skills programme with a US vendor | [Implemented](https://techafricanews.com/2025/09/19/cybastion-drives-cote-divoires-digital-transformation-with-ambitious-tech-initiatives/) | More than 10,000 trained within months of launch |
+| Digital skills programme with a US vendor | [Implemented](https://techafricanews.com/2025/09/19/cybastion-drives-cote-divoires-digital-transformation-with-ambitious-tech-initiatives/) | Second annual Cote d'Ivoire summer tech camp closed, hundreds trained across 20 cities, reported 2026-08-11 |
 | Digital-skills memorandum with the UN development programme | [Planned](https://techafricanews.com/2026/05/25/undp-partners-with-orange-cote-divoire-to-expand-digital-skills-and-entrepreneurship-in-cote-divoire/) | Memorandum signed 2026-05-21 |
 | Education management information system compact | [Discontinued](https://assets.mcc.gov/content/uploads/partner-country-business-forecast-q3fy22-q2fy23.xlsx) | Compact closed August 2025 |
 | National digital-skills headcount | ***Not held*** | No reconciled national figure exists |
@@ -312,12 +312,6 @@ A government assistant went live in March 2026 on messaging platforms and a toll
 | Cyber-security masters degrees | [In development](https://www.aip.ci/cote-divoire-aip-lanssi-et-lesatic-valident-les-maquettes-de-deux-masters-pour-renforcer-les-competences-nationales-en-cybersecurite/) | Curricula examined and validated at the 2026-07-28 workshop |
 
 <!-- narrative: inclusion -->
-For 2024 the settlement law records [FCFA 69.67bn voted against FCFA 54.05bn spent](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf) — 77.6% against the vote but 99.9% against an in-year revision, because the earmarked levy programme was written down by FCFA 8.79bn and then spent to the franc. No audited stage is recorded for any year.
-
-The universal-service programme was appropriated FCFA 33.0bn for 2026 against FCFA 35.3bn for 2025, and the only outturn on file is 2024, at FCFA 24.44bn executed against FCFA 32.30bn voted, a 24.3% shortfall. The agency publishes no annual report, so the fund has no public account in either direction; the state portfolio report is the nearest published statement, putting the agency at [FCFA 7.9bn of tax receipts in 2023](https://dgpe.gouv.ci/fr/wp-content/uploads/2025/02/Rapport-DGPE-2023-2024.pdf).
-
-An IDA credit of [FCFA 84,356,070,200 (EUR 128.6m) was concluded on 17 October 2025 and ratified by decree on 4 February 2026](https://www.bilan.gouv.ci/actualite/19406), financing phase 1 of a US$330m programme to 2035, fenced to Abidjan, Yamoussoukro and twelve regions, with US$45m for broadband to public institutions.
-
 The cyber-security agency set a target of [1,200 certified specialists in three years](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) on 29 July 2026, against about 250 trained in the first half of 2026 and 88 auditors certified that day; a civil-service programme claims more than 37,500 officials cumulatively; a vendor programme claims more than 10,000 young people against a 200,000 target. No national digital-skills headcount exists. The only sex-disaggregated measurement on record is the regulator's household survey: [81.38% of men against 47.19% of women owned a mobile phone](http://itu.int/en/ITU-D/Regional-Presence/Africa/Documents/ICT%20Indicators%202019/Presentations/session-4-cote-divoire-panorama-des-telecoms-tic-fr.pdf) on 2017 fieldwork (n=2,892 households), and nothing since, although several name women as a target group.
 <!-- /narrative -->
 
@@ -338,7 +332,11 @@ The cyber-security agency set a target of [1,200 certified specialists in three 
 | Published accounts of the universal service fund | ***Not held*** | No account of the levy's use is on file |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+For 2024 the settlement law records [FCFA 69.67bn voted against FCFA 54.05bn spent](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf) — 77.6% against the vote but 99.9% against an in-year revision, because the earmarked levy programme was written down by FCFA 8.79bn and then spent to the franc. No audited stage is recorded for any year.
+
+The universal-service programme was appropriated FCFA 33.0bn for 2026 against FCFA 35.3bn for 2025, and the only outturn on file is 2024, at FCFA 24.44bn executed against FCFA 32.30bn voted, a 24.3% shortfall. The agency publishes no annual report, so the fund has no public account in either direction; the state portfolio report is the nearest published statement, putting the agency at [FCFA 7.9bn of tax receipts in 2023](https://dgpe.gouv.ci/fr/wp-content/uploads/2025/02/Rapport-DGPE-2023-2024.pdf).
+
+An IDA credit of [FCFA 84,356,070,200 (EUR 128.6m) was concluded on 17 October 2025 and ratified by decree on 4 February 2026](https://www.bilan.gouv.ci/actualite/19406), financing phase 1 of a US$330m programme to 2035, fenced to Abidjan, Yamoussoukro and twelve regions, with US$45m for broadband to public institutions.
 <!-- /narrative -->
 
 ## Gaps to fill

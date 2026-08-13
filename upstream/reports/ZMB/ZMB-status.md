@@ -390,13 +390,9 @@ The United States health financing memorandum is not proceeding. The Foreign Min
 | University or national ICT research institute | ***Not held*** | — |
 
 <!-- narrative: inclusion -->
-Zambia has one domestic digital budget line in the entire wiki. ZMW 255,000,000 was approved for fiscal year 2026 to upgrade digital infrastructure and quality of service, particularly rural; the record is built from press reporting rather than an appropriation document, the stage is unclear, and no funding source is named ([approval account](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/)). There is no domestic budget archive for Zambia, where nineteen other countries have one, so no appropriation figure in this report rests on a budget document.
-
-The universal access fund operates without published accounts: no fund size, levy rate, annual disbursement or cumulative tower count is held for any year.
-
 Financial inclusion reached 80.1% of adults in 2025 from 69.4% in 2020, with mobile money use at 76.2% ([survey figures](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)). Internet use did not follow: 33.0% in October 2025, unchanged year on year while user numbers grew with the population ([compiler analysis](https://datareportal.com/reports/digital-2026-zambia)). The wiki holds no rural-urban or gender disaggregation of internet use to explain the gap.
 
-External financing carries the programme: a US$100 million grant board-approved on 11 September 2025, of which US$5 million is for digital skills ([appraisal document](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349)). Against that, the training the base can evidence is 146 public officers in three districts of one province.
+Training on the ground lags what the external financing implies: the base can evidence only 146 public officers trained, in three districts of one province.
 <!-- /narrative -->
 
 ## Finance
@@ -428,7 +424,11 @@ External financing carries the programme: a US$100 million grant board-approved 
 | Universal Access and Service Fund accounts | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Zambia has one domestic digital budget line in the entire wiki: ZMW 255,000,000 approved for fiscal year 2026 to upgrade digital infrastructure and quality of service, particularly rural. The record is built from press reporting rather than an appropriation document, the stage is unclear, and no funding source is named ([approval account](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/)). There is no domestic budget archive for Zambia, where nineteen other countries have one, so no appropriation figure in this report rests on a budget document.
+
+The universal access fund operates without published accounts: no fund size, levy rate, annual disbursement or cumulative tower count is held for any year.
+
+External financing carries the digital programme: a US$100 million grant was board-approved on 11 September 2025, of which US$5 million is earmarked for digital skills ([appraisal document](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349)).
 <!-- /narrative -->
 
 ## Gaps to fill

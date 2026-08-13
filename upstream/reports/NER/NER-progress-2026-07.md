@@ -240,7 +240,7 @@ One position was created: the [training of 140 cadres in AI applied to human sec
 | AfricaCERT Handshake symposium | Did not exist | [Hosted once, with the digital agency proposing an AES regional cyber-defence alliance](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | Advanced |
 
 <!-- narrative: inclusion -->
-Both movements in this section came from outside the state. The Luxembourg support package [widened to Ericsson and Sweden in June 2026](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m), still with no commitment total published, and the World Food Programme [added a second community digital centre, at Tahoua, in July 2026](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html). The [rural inclusion programme opened one centre, at Tabelot](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/). No domestic budget line for any of this is held, so every inclusion movement in the window was funded from outside the country.
+Two access programmes advanced in the window. The World Food Programme [added a second community digital centre, at Tahoua, in July 2026](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html). The [rural inclusion programme opened one centre, at Tabelot](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/).
 <!-- /narrative -->
 
 ## Finance
@@ -252,7 +252,7 @@ Both movements in this section came from outside the state. The Luxembourg suppo
 | Luxembourg-supported Sahel connectivity programme | Pledge announced (2025-01) | [Support package widened to Ericsson and Sweden; no commitment total published](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The window's one financing movement is external. The Luxembourg-backed Sahel connectivity support package [widened to include Ericsson and Sweden in June 2026](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m), still with no commitment total published. No domestic budget line for digital government or digital inclusion is held, so every inclusion movement recorded in the window was funded from outside the country.
 <!-- /narrative -->
 
 ## Where the record is thin

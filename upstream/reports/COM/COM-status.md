@@ -1,14 +1,14 @@
 ---
 title: Comoros — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-12
 place: COM
-ledger_rows: 109
+ledger_rows: 110
 not_held: 31
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (109 systems and instruments, 31 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (110 systems and instruments, 31 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -130,6 +130,7 @@ _(narrative not yet written)_
 
 | System or instrument | Status | As at |
 |---|---|---|
+| Enquete Agricole Annuelle | [In development](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html) | Sensitisation campaign concluded 2026-08-07 and a training-of-trainers workshop held for national instructors, ahead of the survey's rollout |
 | Fifth population and housing census | [In development](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/lancement-du-5%C3%A8me-recensement-g%C3%A9n%C3%A9ral-de-la-population-.html) | Officially launched 2026-06-05 |
 | National open-data or statistical dissemination platform | ***Not held*** | — |
 
@@ -143,6 +144,7 @@ _(narrative not yet written)_
 <!-- narrative: dpi -->
 The systems in operation are concentrated in payments and in identity. The central bank's [KomorPay](https://banque-comores.km/article/show/ceremonie-de-lancement-des-nouveaux-moyens-de-paiement) entered service on 2026-04-23 and settles between banks only, with no retail leg, and [Komor Switch](https://banque-comores.km/article/show/ceremonie-de-lancement-des-nouveaux-moyens-de-paiement) is running the first of its three phases, cross-bank cash withdrawal, with online purchases explicitly not covered; the [government securities market](https://banque-comores.km/uploads/BCC-livret%283%29.pdf) has its regulations in force, its actors trained and its pilot tests passed, and its first operations have not been launched.
 Identity rests on a production concession rather than on a state system: [biometric passport and identity card production](https://alwatwan.net/societe/impression-des-documents-biom%C3%A9triques-i-genkey-remplacera-semlex-%C3%A0-partir-du-mois-d%E2%80%99avril-prochain.html) passed to a new supplier on 2026-03-31, with Comorian biometric data domiciled in the country where the previous concession had stored it in Belgium, while the [personal identification number](https://alwatwan.net/societe/d%C3%A9centralisation/projet-amecc-i-vers-la-%C2%ABmodernisation-de-l%E2%80%99%C3%A9tat-civil%C2%BB.html) and the [Agence Nationale de l'Etat Civil](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/vers-un-d%C3%A9cret-d%E2%80%99application-pour-l%E2%80%99agence-nationale-de-l%E2%80%99%C3%A9tat-civil-.html), both provided for by the law of 27 July 2023, remain in development, the agency existing in law and not in fact. A [biometric driving licence programme](https://finances.gouv.km/actualite_post/expose-des-motifs-du-projet-de-loi-de-finances-2025-ambitions-et-perspectives/) named in the 2025 budget bill carries no appropriation at any grain.
+The statistics institute, INSEED, is building an annual survey cycle on top of one-off exercises: a [sensitisation campaign for a new Enquete Agricole Annuelle](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html) concluded 2026-08-07, and a five-day World Bank-funded (STATCAP) training-of-trainers workshop prepared national instructors on survey methodology and electronic data-collection tools ahead of the survey's rollout; the exercise follows the second General Agricultural Census (RGA-2), whose results were published in April 2026.
 The section's ***Not held*** rows include a national services portal or single window, land and business registry digitisation, an integrated financial management information system and a routine national health information system.
 <!-- /narrative -->
 
@@ -302,8 +304,7 @@ _(narrative not yet written)_
 | Women entrepreneur training programme | [Implemented](https://techreviewafrica.com/news/3822/axian-telecom-advances-next-2030-vision-in-comoros) | Named as a 2025 milestone in the group's own strategy communication |
 
 <!-- narrative: inclusion -->
-The digital ministry's vote for 2026 is [KMF 338,724,932](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) and includes the first appropriated state capital line the ministry has carried in the three-year corpus, at KMF 50,000,000. The largest single digital appropriation sits in another ministry: the [information systems directorate of the finance ministry](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) carries KMF 277,128,000 under a service code the 2025 rectificative had zeroed. The [Chambre du Numerique](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) transfer falls to KMF 50,000,000 from KMF 73,000,000, and the [regulator](https://justice.gouv.km/wp-content/uploads/2025/03/decret-n-24-003pr-du-2-fevrier-2024-portant-promulgation-de-la-loi-n-23-024au-portant-modification-de-la-loi-n-14-031au-du-17-mars-2014-relative-aux-communications-electroniques.pdf) is absent from every Comorian budget instrument and funded by statutory levy, so its size is established from no source held.
-The [Direction de l'Etat Civil et Casier Judiciaire](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf), which holds the population register and the criminal record, has KMF 4,000,000 for 2026, wholly goods and services, against the KMF 324,000,000 of civil-status document revenue the same law books; and the only named digital line the base holds outside the digital ministry, [Site Web et Consommation Internet](https://finances.gouv.km/wp-content/uploads/2025/02/Arrete-2024-PDF-270225-1.32.26.pdf) in common expenditure, stood at KMF 15,000,000 after KMF 30,000,000 of it was transferred to guarding costs in November 2024. The projects themselves are externally financed: the [continental bank's project to support digitisation of the economy](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-KM-G00-001%22) is in execution and the [Islamic bank's project](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46025-COM1026%22) is approved and undisbursed.
+_(narrative not yet written)_
 <!-- /narrative -->
 
 ## Finance
@@ -344,7 +345,7 @@ The [Direction de l'Etat Civil et Casier Judiciaire](https://finances.gouv.km/wp
 | Execution of the 2025 digital vote | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The digital ministry's vote for 2026 is [KMF 338,724,932](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) and includes the first appropriated state capital line the ministry has carried in the three-year corpus, at KMF 50,000,000. The largest single digital appropriation sits in another ministry: the [information systems directorate of the finance ministry](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) carries KMF 277,128,000 under a service code the 2025 rectificative had zeroed. The [Chambre du Numerique](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) transfer falls to KMF 50,000,000 from KMF 73,000,000, and the [regulator](https://justice.gouv.km/wp-content/uploads/2025/03/decret-n-24-003pr-du-2-fevrier-2024-portant-promulgation-de-la-loi-n-23-024au-portant-modification-de-la-loi-n-14-031au-du-17-mars-2014-relative-aux-communications-electroniques.pdf) is absent from every Comorian budget instrument and funded by statutory levy, so its size is established from no source held. The [Direction de l'Etat Civil et Casier Judiciaire](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf), which holds the population register and the criminal record, has KMF 4,000,000 for 2026, wholly goods and services, against the KMF 324,000,000 of civil-status document revenue the same law books; and the only named digital line the base holds outside the digital ministry, [Site Web et Consommation Internet](https://finances.gouv.km/wp-content/uploads/2025/02/Arrete-2024-PDF-270225-1.32.26.pdf) in common expenditure, stood at KMF 15,000,000 after KMF 30,000,000 of it was transferred to guarding costs in November 2024. The projects themselves are externally financed: the [continental bank's project to support digitisation of the economy](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-KM-G00-001%22) is in execution and the [Islamic bank's project](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46025-COM1026%22) is approved and undisbursed.
 <!-- /narrative -->
 
 ## Gaps to fill

@@ -326,10 +326,6 @@ Research and technology cooperation with the United States rests on the two stat
 | National research, development and innovation support programme (PNARDI) 2025-2028 | [Implemented](https://www.maroc.ma/fr/actualites/lancement-officiel-du-programme-national-dappui-la-recherche-developpement-et-linnovation-2025-2028) | First edition's three sub-programmes opened for applications, window 2025-06-03 to 2025-10-15 |
 
 <!-- narrative: inclusion -->
-The largest financing on record is external: a US$250m acceleration programme approved and signed in June 2026, whose entry into force before 23 September 2026 the ministry named as its priority ([ministry account](https://www.moroccoworldnews.com/2026/07/330823/morocco-to-launch-250-million-world-bank-backed-digital-transformation-program/)). A US$70m identity and social-protection operation was approved in December 2024 ([approval account](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems)), and two development-bank grants entered the pipeline in 2026. Domestically the digital ministry's published budget puts its investment appropriation at MAD 1,758.7m in 2024, against MAD 11.7m in 2021, and stops there ([ministry budget](https://www.mmsp.gov.ma/fr/budget-annuel)).
-
-Research funding is domestic and not digital-specific: the programme launched at Benguerir on 7 April 2025 commits MAD 1bn from a joint higher-education ministry and OCP Group fund across four editions to 2028, MAD 200m of it for researchers resident abroad, with no digital or artificial-intelligence share stated ([launch account](https://www.maroc.ma/fr/actualites/lancement-officiel-du-programme-national-dappui-la-recherche-developpement-et-linnovation-2025-2028)).
-
 Skills commitments are frameworks without sums: a memorandum with a consultancy on artificial-intelligence skills was signed in Rabat on 17 July 2026 with no value or target ([memorandum account](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-le-maroc-renforce-son-ecosysteme-avec-lappui-de-capgemini)). The one enrolment figure held is the ministry's own: 21,125 students in public-university digital streams in 2023-24, from 10,712 the year before ([talent brochure](https://mmsp.gov.ma/sites/default/files/2024-09/BrochureTalentNum%C3%A9rique_24092024_Fra.pdf)). No national digital inclusion index exists and no digital literacy programme is named.
 <!-- /narrative -->
 
@@ -361,7 +357,9 @@ Skills commitments are frameworks without sums: a memorandum with a consultancy 
 | Digital ministry appropriation in the 2026 finance law | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The largest financing on record is external: a US$250m acceleration programme was approved and signed in June 2026, with the ministry naming its entry into force before 23 September 2026 as a priority ([ministry account](https://www.moroccoworldnews.com/2026/07/330823/morocco-to-launch-250-million-world-bank-backed-digital-transformation-program/)). A further US$70m identity and social-protection operation was approved in December 2024 ([approval account](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems)), and two more development-bank grants entered the pipeline in 2026. Domestically, the digital ministry's published budget puts its investment appropriation at MAD 1,758.7m in 2024, against MAD 11.7m in 2021, and the published series stops there ([ministry budget](https://www.mmsp.gov.ma/fr/budget-annuel)).
+
+Research funding runs through a separate, domestic and not digital-specific channel: the programme launched at Benguerir on 7 April 2025 commits MAD 1bn from a joint higher-education ministry and OCP Group fund across four editions to 2028, MAD 200m of it earmarked for researchers resident abroad, with no digital or artificial-intelligence share stated ([launch account](https://www.maroc.ma/fr/actualites/lancement-officiel-du-programme-national-dappui-la-recherche-developpement-et-linnovation-2025-2028)).
 <!-- /narrative -->
 
 ## Gaps to fill

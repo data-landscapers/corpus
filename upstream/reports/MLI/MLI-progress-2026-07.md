@@ -248,7 +248,7 @@ The substantive movement was ownership. The state [went from 49% to 56% of SOTEL
 | Orange Digital Center graduates | ***Baseline not held*** | [350 young people placed on the labour market (2026-07)](https://www.maliweb.net/formation-professionnelle/metiers-au-numerique-orange-met-350-jeunes-talents-sur-le-marche-du-travail-3118599.html) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-Universal access financing ends the window smaller than it began it. AGEFAU's 2026 budget was [cut 32%, from FCFA 41,151,471,000 to FCFA 27,886,688,000, on 23 July 2026](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/) after 8% of it was spent in six months, against receipts at 56% of forecast. In the same week the fund [committed to connect every secondary, technical and vocational school by end-2027](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/), a target set three years inside the [2030 universal connectivity date](https://malijet.com/a_la_une_du_mali/310877-semaine-du-numerique-2026-jour-1-panel-1.html) and in the same week as the cut.
+AGEFAU [committed to connect every secondary, technical and vocational school by end-2027](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/), a target set three years inside the [2030 universal connectivity date](https://malijet.com/a_la_une_du_mali/310877-semaine-du-numerique-2026-jour-1-panel-1.html).
 
 Training commitments were made rather than delivered: a [15,000-youth programme whose first cohort opened for recruitment on 1 August 2026](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0), [350 graduates reported by an operator](https://www.maliweb.net/formation-professionnelle/metiers-au-numerique-orange-met-350-jeunes-talents-sur-le-marche-du-travail-3118599.html), [FCFA 88,740,927 of donated equipment for eight teacher-training institutes](https://www.unesco.org/fr/articles/lunesco-remet-des-equipements-et-materiels-informatiques-au-ministere-de-leducation-nationale-au), and a [70%-by-2032 women's training target](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) with no interim figure.
 <!-- /narrative -->
@@ -269,7 +269,7 @@ Training commitments were made rather than delivered: a [15,000-youth programme 
 | Universal access fund budget | FCFA 41,151,471,000 adopted for 2026 | [Cut 32% to FCFA 27,886,688,000 on 23 July 2026, after 8% of the annual budget was spent in the first half](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/) | Regressed |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Universal access financing ends the window smaller than it began it: AGEFAU's 2026 budget was [cut 32%, from FCFA 41,151,471,000 to FCFA 27,886,688,000, on 23 July 2026](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/), after 8% of it was spent in the first six months against receipts at only 56% of forecast, with the cut announced in the same week the fund committed to connect every secondary, technical and vocational school by end-2027.
 <!-- /narrative -->
 
 ## Where the record is thin

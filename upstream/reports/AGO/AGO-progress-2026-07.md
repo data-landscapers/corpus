@@ -304,15 +304,13 @@ The foreign layer is where nothing moved. The US agreement is where it was in Ju
 | Science and technology park | ***Baseline not held*** | [Inaugurated under a US$100m development-bank science and technology project, intended to link academia, research, companies and young entrepreneurs](https://itweb.africa/article/angola-launches-luanda-technology-park/8OKdWqDX2nRqbznQ) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-At the window's opening this section was almost entirely externally financed and almost entirely unmeasured. Four things changed band.
+At the window's opening this section was almost entirely externally financed and almost entirely unmeasured. Two things changed on the inclusion side.
 
-Measurement arrived. The census definitive results of November 2025 put identity-card coverage at 52.4% and birth registration at 63%, replacing a qualitative diagnostic from 2023, and the first per-organ execution table put a number — 3% — where the wiki had recorded that no execution rate was computable.
-
-Domestic money became the story. Three supplementary credits carry the weight — US$218.5m for identity-card universalisation in September 2025, US$275m for the citizen-database update in February 2026, and US$150m for the interoperability build in June 2026 — and all three sit outside the digital ministry's vote, which was itself cut 30.5%.
+Measurement arrived. The census definitive results of November 2025 put identity-card coverage at 52.4% and birth registration at 63%, replacing a qualitative diagnostic from 2023.
 
 The institutional layer filled in: a financial inclusion strategy in December 2025, a startups law in March 2026, a research network in May, a technology park and a readiness assessment in June, none of which existed a year ago.
 
-What merely accreted detail is the satellite-inclusion story, which has produced a steady run of beneficiary announcements with no consistent denominator and no cost per connection, and a vendor training pledge that has stood unchanged and unquantified for fourteen months.
+What merely accreted detail is the satellite-inclusion story, which has produced a steady run of beneficiary announcements with no consistent denominator and no cost per connection, and a vendor training pledge that has stood unchanged and unquantified for fourteen months. The domestic financing picture moved further still — see Finance.
 <!-- /narrative -->
 
 ## Finance
@@ -335,7 +333,7 @@ What merely accreted detail is the satellite-inclusion story, which has produced
 | Ministry budget execution | None published; the wiki held no released, actual or audited line for any digital stem | [3% first-quarter execution, with 20 of 50 programmes below 5%](https://angop.ao/noticias/economia/estado-angolano-encaixa-receitas-de-9-36-bilioes-de-kwanzas-para-oge-2026/) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Domestic money became the period's dominant story, and all of it sits outside the digital ministry's own vote. Three supplementary credits carry the weight — US$218.5m for identity-card universalisation in September 2025, US$275m for the citizen-database update in February 2026, and US$150m for the interoperability build in June 2026 — while the ministry's own communications programme was cut 30.5% over the same period. The first per-organ execution table gave the ministry's own budget execution a number for the first time — 3% in the first quarter of 2026 — where the wiki had previously recorded no computable rate.
 <!-- /narrative -->
 
 ## Where the record is thin

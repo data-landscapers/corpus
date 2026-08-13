@@ -309,11 +309,7 @@ The largest commitment of the period is a memorandum signed in June 2026 coverin
 | Revenue authority research memorandum | Did not exist | [Signed by the Zambia Revenue Authority and an international tax and development research centre, covering research, capacity building and innovation for evidence-based tax administration](https://techafricanews.com/2026/07/17/zambia-revenue-authority-signs-ictd-deal-to-advance-digital-tax-reforms/) | Advanced |
 
 <!-- narrative: inclusion -->
-The period produced Zambia's first domestic digital budget line the wiki holds: ZMW 255,000,000 for fiscal year 2026 for digital infrastructure and quality of service, against no appropriation line found for any earlier year ([approval account](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/)). The record is built from press reporting rather than a budget document.
-
 Financial inclusion rose from 69.4% of adults in 2020 to 80.1% in 2025, with mobile money use at 76.2% ([survey figures](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)). Internet use did not move at all: 33.0% of the population in January 2025 and 33.0% in October 2025, with user numbers growing only with the population, leaving 14.8 million people offline ([compiler analysis](https://datareportal.com/reports/digital-2026-zambia)). Mobile connections rose 5.8% to 23.5 million over the same period, which the publisher warns is not a count of people.
-
-External financing was approved rather than disbursed. The acceleration project moved from appraisal stage to board approval on 11 September 2025, a US$100 million grant within a US$120 million operation closing October 2030, of which US$5 million is for digital skills with no training activity, target or delivery reported under it ([appraisal document](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349)).
 <!-- /narrative -->
 
 ## Finance
@@ -343,7 +339,9 @@ External financing was approved rather than disbursed. The acceleration project 
 | K255 million digital infrastructure and quality-of-service allocation | No appropriation line found for any earlier year; this is the first domestic budget line the wiki holds for Zambia | [ZMW 255,000,000 approved for upgrading digital infrastructure and quality of service, particularly rural, for fiscal year 2026](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The period produced Zambia's first domestic digital budget line the wiki holds: ZMW 255,000,000 for fiscal year 2026 for digital infrastructure and quality of service, against no appropriation line found for any earlier year ([approval account](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/)). The record is built from press reporting rather than a budget document.
+
+External financing was approved rather than disbursed: the acceleration project moved from appraisal stage to board approval on 11 September 2025, a US$100 million grant within a US$120 million operation closing October 2030, of which US$5 million is for digital skills, with no training activity, target or delivery reported under it ([appraisal document](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349)).
 <!-- /narrative -->
 
 ## Where the record is thin

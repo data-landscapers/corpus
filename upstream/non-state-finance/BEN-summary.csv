@@ -2,6 +2,7 @@
 non-state,US$m,infra.connect,Connectivity,89,,38,,,,,,,,
 non-state,US$m,dpi.mis,"Sectoral management information systems (HMIS, EMIS, etc.)",,100,,,,,,,,,
 non-state,US$m,tech.industry,ICT Industry,31,1,,12,,,,,,,
+non-state,US$m,dpi.govtech,Other GovTech and e-Gov,,,,,,,,,32,,
 non-state,US$m,dpi.pay,Digital Payments and Fintech,,,,,10,,,,,,
 non-state,US$m,gov.policy,"Strategies, plans and policies",,,,7,,,,,,,
 non-state,US$m,data.satellite,Use of satellite data,,,,,,,,,2,,

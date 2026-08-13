@@ -546,7 +546,7 @@ The surveillance estate carries no baseline the base can state: the largest AI d
 <!-- narrative: inclusion -->
 The section's one movement is a delivery failure. A state programme to build 260 schools, one in every ward, powered by solar and connected before instruction was layered on, promised full opening of all 260 in January 2026. [By May 2026 many were incomplete and unequipped](https://www.thecable.ng/investigation-in-enugu-smart-schools-get-all-attention-but-concerns-remain-over-work-quality-part-ii/) with pupils already resuming. The stated sequencing was power first, then connectivity, then teaching; the schedule was not met.
 
-Everything else here either arrived or held. Arrivals were a zero-rated education consultation, a startup debt facility, an AI-literacy programme entering schools through teachers and a ministerial declaration on meaningful connectivity; the skills and inclusion programmes all held.
+Everything else here either arrived or held. Arrivals were a zero-rated education consultation, an AI-literacy programme entering schools through teachers and a ministerial declaration on meaningful connectivity; the skills and inclusion programmes all held.
 
 The measurements are baselines rather than movements: [rural access at 23% against 57% urban](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/), women at 38.8% of enrolled identity holders, and correction of register errors routed through a smartphone portal in a country where about 72% of adults have no smartphone. None is re-measured inside the window.
 <!-- /narrative -->
@@ -561,7 +561,7 @@ The measurements are baselines rather than movements: [rural access at 23% again
 | Telecoms foreign direct investment | US$107.46m (2021 low) | [US$392.91m in the first nine months of 2025, the strongest since 2019](https://techcabal.com/2026/02/17/telecoms-foreign-investment-rebounds-to-its-highest-level-since-2019/) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+[iDICE opened US$110m of debt financing for technology startups](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) for applications on 2026-07-30, the section's one financing-instrument arrival in the period.
 <!-- /narrative -->
 
 ## Where the record is thin

@@ -1,6 +1,6 @@
 ---
 title: Eswatini — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-12
 place: SWZ
 ledger_rows: 65
 not_held: 9
@@ -8,7 +8,7 @@ not_held: 9
 
 # Eswatini: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/SWZ/ledger.csv` (65 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/SWZ/ledger.csv` (65 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -160,7 +160,7 @@ The citizen-facing layer shipped ahead of that foundation. [Government In Your H
 
 | System or instrument | Status | As at |
 |---|---|---|
-| National Data Governance Policy | [In development](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy) | Draft validated by stakeholders, with a stated cycle of 2027 to 2031 |
+| National Data Governance Policy | [In development](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy) | ICT minister told the Senate the policy is targeted for completion before end-2026, with government undecided between a standalone data-governance law and amendments to existing legislation |
 
 ### Regional collaboration
 
@@ -208,7 +208,7 @@ The [Data Protection Act 2022 took effect on 4 March 2022](https://www.esccom.or
 
 The authority [ran a campaign with a 31 March 2026 registration deadline for organisations collecting personal data](https://independentnews.co.sz/40549/science-technology/eswatini-launches-data-protection-campaign/), then [opened an investigation into the Ministry of Home Affairs for publishing unblurred national identity documents](https://independentnews.co.sz/45057/news/home-affairs-investigated-for-for-sensitive-data-breach/), which missed the 72-hour notification duty. In July it moved to sectoral rule-making, [beginning validation of advisory guidelines on processing personal health data](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/), to be published as a regulatory instrument under the Act. Eswatini's bilateral health agreement with the United States, and the data-sharing agreement attached to it, are [withheld and in litigation](https://www.citizen.org/wp-content/uploads/2026.04.02-Complaint.pdf) since 2 April 2026.
 
-The National Data Governance Policy followed the same order: procured through a tender in July 2025, a first workshop in April 2026, and [validated on 27 July 2026 with a stated cycle of 2027 to 2031](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy) — text unpublished, no adoption date given.
+The National Data Governance Policy followed the same order: procured through a tender in July 2025, a first workshop in April 2026, and [validated on 27 July 2026 with a stated cycle of 2027 to 2031](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy) — text unpublished. In the Senate on 10 August 2026, a senator warned the country remained exposed for lack of the policy; [the ICT minister said she was targeting completion before end-2026 and that government had yet to decide between a standalone data-governance law and amendments to existing legislation](https://independentnews.co.sz/47187/local-news/this-is-where-the-country-is-most-exposed-senator-lizzy-warns-on-data/).
 
 The same body regulates communications and polices data protection, and the sponsoring ministry [confirmed on the record on 4 August 2026 that implementation, enforcement and oversight do not fall within its mandate](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) but are vested in ESCCOM. In the same answer it said it had completed the Online Media Publishing Guidelines 2026, introducing publisher registration bound to accuracy, privacy protection, child safeguarding and the responsible use of AI. Neither their text nor a commencement date is public.
 <!-- /narrative -->
@@ -296,8 +296,6 @@ Foreign partnerships carry the sector. The [Google Cloud EMEA memorandum was est
 | Public research programme in digital or data science | ***Not held*** | No research programme, centre mandate or published output on file |
 
 <!-- narrative: inclusion -->
-The financing is concentrated. Tracked non-state digital finance stands at US$55m across four deals for 2020 to 2026 on the wiki's own compilation as of 6 August 2026 — not a published figure — and the [Digital Eswatini Project was approved at more than E1.06bn, E648m for broadband and E450m for the citizen application](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/). No domestic appropriation line for the ICT ministry, the regulator or the science park is held.
-
 Access is improving on ownership and unresolved on use: Global Findex 2025, cited in an August 2025 account, [puts account ownership at 63%, up from below 50% a decade earlier, led by mobile money](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=Mobile+money+drives+financial+inclusion+growth&bvhdgsj=Business+and+Economy&yiphi=435).
 
 Capacity is where the ambition is largest relative to the base. The ICT minister set a target of [300,000 digitally skilled citizens in a population of about 1.2m](https://times.co.sz/lifestyle/readmore.php?bhsadjgfoh=300+000+emaSwati+needed+for+country%E2%80%99s+digital+future&bvhdgsj=Lifestyle&yiphi=2761). Delivery so far is a [second community innovation hub, opened at Macetjeni on 6 August 2026](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/) after Pigg's Peak, with a third planned, and [AI, robotics, coding and cybersecurity courses announced there](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) with no start date, provider or cohort size given. No public research programme in digital or data science is held.
@@ -324,7 +322,7 @@ Capacity is where the ambition is largest relative to the base. The ICT minister
 | Domestic budget appropriation for digital transformation | ***Not held*** | No estimates volume or appropriation line on file for the ICT ministry, ESCCOM or RSTP |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Financing is concentrated and overwhelmingly external. The [Digital Eswatini Project was approved at more than E1.06bn, E648m for broadband and E450m for the citizen application](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/), funded by the World Bank. Beyond that loan, tracked non-state digital finance stands at US$55m across four deals for 2020 to 2026, on the wiki's own compilation as of 6 August 2026 — not a published figure. No domestic appropriation line for the ICT ministry, the regulator or the science park is held, so the base cannot say what the state itself puts in against what it borrows.
 <!-- /narrative -->
 
 ## Gaps to fill

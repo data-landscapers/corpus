@@ -281,10 +281,6 @@ The one measured position in the section is a year stale. Offshoring employment 
 | National research, development and innovation support programme (PNARDI) 2025-2028 | In force since 2025-04-07; MAD 1bn committed across four editions to 2028 | [MAD 1bn from a joint higher-education ministry and OCP Group fund across four editions between 2025 and 2028, of which MAD 200m is directed at mobilising Moroccan researchers resident abroad; no digital or artificial-intelligence share is stated](https://www.maroc.ma/fr/actualites/lancement-officiel-du-programme-national-dappui-la-recherche-developpement-et-linnovation-2025-2028) | No change |
 
 <!-- narrative: inclusion -->
-The financing position advanced by two development-bank pipeline entries and one large programme. The merchant payment acquisition fund entered the pipeline in February 2026 and the insurance inclusion programme in April, each at about US$0.5m ([insurance activity](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-MA-H00-029%22)); the US$250m acceleration programme was approved and signed in June 2026 and had not entered force by 6 August ([ministry account](https://www.moroccoworldnews.com/2026/07/330823/morocco-to-launch-250-million-world-bank-backed-digital-transformation-program/)).
-
-Two framework agreements did not move at all across the window: a memorandum signed in April 2025 on smart-city and energy-management solutions has produced no delivery, expansion or sum since ([memorandum account](https://itweb.africa/article/vodafone-maroc-telecom-sign-digital-services-deal/P3gQ2qGAn5W7nRD1)), and the 2020 financial and digital inclusion policy loan has no completion or results report on file.
-
 The measured position added inside the window is an operator's own: 6,000 internet boxes refurbished in Morocco in 2025 at a stated EUR 1.5m in savings, with no Morocco figure held for 2024 to compare it against ([operator report](https://www.wearetech.africa/fr/fils/actualites/telecom/orange-a-reconditionne-164-000-box-internet-en-2025-en-afrique-et-au-moyen-orient)).
 <!-- /narrative -->
 
@@ -316,7 +312,9 @@ The measured position added inside the window is an operator's own: 6,000 intern
 | Digital ministry investment appropriation | MAD 1,758.7m investment appropriation (2024), the latest published (2025-08) | [MAD 1,758.7m investment (2024), against MAD 85.8m personnel and MAD 187.8m materiel; no 2025 or 2026 appropriation published](https://www.mmsp.gov.ma/fr/budget-annuel) | No change, no fresher appropriation published |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The financing position advanced by two development-bank pipeline entries and one large programme: the merchant payment acquisition fund entered the pipeline in February 2026 and the insurance inclusion programme in April, each at about US$0.5m ([insurance activity](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-MA-H00-029%22)); the US$250m acceleration programme was approved and signed in June 2026 and had not entered force by 6 August ([ministry account](https://www.moroccoworldnews.com/2026/07/330823/morocco-to-launch-250-million-world-bank-backed-digital-transformation-program/)).
+
+Two other financing instruments did not move at all across the window: the memorandum signed in April 2025 between Vodafone Business and Maroc Telecom on smart-city and energy-management solutions has produced no delivery, expansion or sum since ([memorandum account](https://itweb.africa/article/vodafone-maroc-telecom-sign-digital-services-deal/P3gQ2qGAn5W7nRD1)), and the 2020 First Financial and Digital Inclusion Development Policy Financing has no completion or results report on file.
 <!-- /narrative -->
 
 ## Where the record is thin

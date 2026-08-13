@@ -210,8 +210,6 @@ Every row in this section was created within the window and none of them is a st
 | University research partnership on official microdata | Did not exist | [A pilot training researchers from three universities on the statistics bureau's household budget and labour force microdata, funded by the Swiss development agency with no amount stated (2026-07)](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/) | Advanced |
 
 <!-- narrative: inclusion -->
-Financing for the identity rollout was restated upward: from the toolset funding held at the start of the window to [digital identity as a pillar of an initiative of more than US$100m](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative), and an official estimate that [about US$125m more is needed to complete it](https://idtechwire.com/somalia-estimates-125-million-needed-to-complete-national-digital-id-rollout), with no source named for the gap.
-
 Access work shifted from the network to the device: a [smartphone financing programme launched in May 2026 targeting 100,000 handsets by the end of the year](https://www.connectingafrica.com/digital-inclusion/hormuud-get-phone-launch-smartphone-financing-program-in-somalia). Capacity work started where none was recorded before, with [certified cybersecurity training for government ICT staff](https://www.wearetech.africa/en/fils-uk/news/somalia-rolls-out-certified-cybersecurity-program-for-government-ict-staff) and a [pilot opening official microdata to domestic researchers](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/), both externally funded.
 <!-- /narrative -->
 
@@ -225,7 +223,7 @@ Access work shifted from the network to the device: a [smartphone financing prog
 | World Bank financing for the digital identity rollout | SCALED-UP funding the identity toolset at US$75m (2025-08) | [Identity a pillar of the SPRING initiative of more than US$100m, with about US$125m more estimated to complete the rollout and no funding source named (2026-01)](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Financing for the identity rollout was restated upward: from the toolset funding held at the start of the window to [digital identity as a pillar of an initiative of more than US$100m](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative), and an official estimate that [about US$125m more is needed to complete it](https://idtechwire.com/somalia-estimates-125-million-needed-to-complete-national-digital-id-rollout), with no source named for the gap.
 <!-- /narrative -->
 
 ## Where the record is thin

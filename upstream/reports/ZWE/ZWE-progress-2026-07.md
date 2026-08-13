@@ -366,8 +366,6 @@ One bilateral position closed. Zimbabwe withdrew from health-funding talks with 
 The two household measures moved in opposite directions between the 2020 and 2025 surveys: internet access up from 50.1% to 75.5% of households, computer ownership down from 14.2% to 11.2% ([survey account](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift)). Access has moved onto handsets, and the urban and rural computer figures of 21.2% and 4.7% are where the gap now sits.
 
 Free public wireless hotspots went from an unnumbered installation programme to 409 deploying against a stated target of 1,000 by end-2026, with no completion count published since April ([hotspot account](https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/)). Satellite kits for rural health facilities went from nothing on record to more than 400 delivered and none activated ([National Assembly account](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription)).
-
-The financing position did not move. The most recent external commitment on the ledger was made in 2023, and the newest infrastructure facility in 2019; nothing was committed, drawn or closed inside the window.
 <!-- /narrative -->
 
 ## Finance
@@ -400,7 +398,7 @@ The financing position did not move. The most recent external commitment on the 
 | Parliamentary budget office | Independence not set in law; staffing and funding judged insufficient for its mandate | [Unchanged](https://internationalbudget.org/sites/default/files/country-surveys-pdfs/2025/open-budget-survey-zimbabwe-2025-en.pdf) | No change |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The financing position did not move over the window. The most recent external commitment on the ledger was made in 2023, and the newest infrastructure facility in 2019; nothing was committed, drawn or closed inside the window.
 <!-- /narrative -->
 
 ## Where the record is thin

@@ -270,7 +270,7 @@ The technology sector outside the state is thin and supplier-shaped. Two banks w
 <!-- narrative: inclusion -->
 Capacity is supplied by multilateral partners rather than by domestic institutions. The Ministry of Planning [launched a professional master's institute in AI and cybersecurity with UNDP in November 2025](https://alwasat.ly/news/libya/496687); UNDP's [data-systems memorandum with the General Information Authority, signed in July 2025](https://www.undp.org/arab-states/press-releases/data-development-undp-and-libyas-gia-partner-drive-human-centered-policy), carries the Seventh National Human Development Report. The Islamic Development Bank [ran an executive programme for central bank officials in Jeddah from 27 to 30 July 2026](https://libyaherald.com/2026/08/isdb-conducts-training-for-cbl-officials-on-sukuk-treasury-operations-and-ai-risk-management/) covering AI-related security risk, four weeks after the bank's own cyber incident, and states no participant numbers, curriculum or standard.
 
-Access is where the record is thinnest. Holders of administrative numbers rather than full national numbers [protested exclusion from national-number-gated services in June 2025](https://alwasat.ly/news/libya/479250), and no resolution is published. Withdrawal limits of [LD 3,000, and LD 4,000 in the south, took effect on 9 August 2026](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase). No national digital-literacy programme and no budget appropriation for digital government are held.
+Access is where the record is thinnest. Holders of administrative numbers rather than full national numbers [protested exclusion from national-number-gated services in June 2025](https://alwasat.ly/news/libya/479250), and no resolution is published. Withdrawal limits of [LD 3,000, and LD 4,000 in the south, took effect on 9 August 2026](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase). No national digital-literacy programme is held.
 <!-- /narrative -->
 
 ## Finance
@@ -282,7 +282,7 @@ Access is where the record is thinnest. Holders of administrative numbers rather
 | Public budget allocation to digital government | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+No budget appropriation for digital government is held for Libya. No Libyan budget or expenditure statement naming an identifiable appropriation for communications, informatics or digital transformation is on file.
 <!-- /narrative -->
 
 ## Gaps to fill

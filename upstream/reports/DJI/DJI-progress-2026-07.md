@@ -237,8 +237,6 @@ The domestic sector acquired institutions on paper: the [LIMO platform](https://
 Three skills and finance instruments appeared in the period and none is operating: the [E-SKILLS Digital Houses initiative announced in May 2026 for five inland regions, 3,000 to be trained by 2029 at a stated EUR 7m](https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative); an [École 42 coding school launched in April 2026](https://techreviewafrica.com/public/news/4771/djibouti-launches-ecole-42-project-to-promote-technological-innovation); and the [Startup Act's fund of funds](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/). None has a published site, intake or committed capital.
 
 The only training programme running at both ends is the one for officials, and it [published no completion figures in the window](https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-launches-digital-skills-program-for-government-officials).
-
-External finance did not move. The [Islamic Development Bank's US$55.7m across two cable projects](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46025-DJI1004%22), the [World Bank's governance project](https://projects.worldbank.org/en/projects-operations/project-detail/P180696), the [French higher-education commitment](https://www.afd.fr/fr/carte-des-projets/numerisation-et-professionnalisation-de-lenseignement-superieur) and the [Chinese monitoring-system grant](https://www.sohu.com/a/257932360_230289) all stood as committed at both ends, with no disbursement or implementation record entering the base in fifteen months. Domestic budget appropriation was unheld at both ends, so the share of any of this the state itself funds cannot be stated for either date.
 <!-- /narrative -->
 
 ## Finance
@@ -254,7 +252,7 @@ External finance did not move. The [Islamic Development Bank's US$55.7m across t
 | Islamic Development Bank submarine cable financing | US$55.7m committed across two projects | [US$55.7m committed across two projects; no disbursement record held](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46025-DJI1004%22) | No change |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+External finance did not move. The [Islamic Development Bank's US$55.7m across two cable projects](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46025-DJI1004%22), the [World Bank's governance project](https://projects.worldbank.org/en/projects-operations/project-detail/P180696), the [French higher-education commitment](https://www.afd.fr/fr/carte-des-projets/numerisation-et-professionnalisation-de-lenseignement-superieur) and the [Chinese monitoring-system grant](https://www.sohu.com/a/257932360_230289) all stood as committed at both ends, with no disbursement or implementation record entering the base in fifteen months. Domestic budget appropriation was unheld at both ends, so the share of any of this the state itself funds cannot be stated for either date.
 <!-- /narrative -->
 
 ## Where the record is thin

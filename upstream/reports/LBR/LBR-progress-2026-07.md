@@ -205,9 +205,7 @@ The technology sector's other movement was a memorandum: the port authority's [n
 | University of Liberia master's programme in artificial intelligence | Did not exist | [Announced as the country's first such programme; no start date, intake or funding amount disclosed (2026-08)](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today) | Advanced |
 
 <!-- narrative: inclusion -->
-Digital financing was committed within the window: [US$50m of a US$125m World Bank package signed in June 2026](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) for broadband, cybersecurity, digital governance and payments. Against it, the [Youth Entrepreneurship Investment Bank was stated at almost US$18m](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) with nothing disbursed on the record.
-
-Education was the area where something reached users: the Ministry of Education's [digital learning platform and radio service for Grades 1 to 3 launched in January 2026](https://techpoint.africa/insight/techpoint-digest-1253/) and did not exist a year earlier. Neither of the two measures on this ledger moved: [account ownership at 52% with more than 11m wallets](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/) and [internet penetration at 32.4%](https://datareportal.com/reports/digital-2025-liberia) are the last figures published, both predating the window's close by more than a year.
+The one place inclusion moved was education: the Ministry of Education's [digital learning platform and radio service for Grades 1 to 3 launched in January 2026](https://techpoint.africa/insight/techpoint-digest-1253/) and did not exist a year earlier. Neither of the two measures on this ledger moved: [account ownership at 52% with more than 11m wallets](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/) and [internet penetration at 32.4%](https://datareportal.com/reports/digital-2025-liberia) are the last figures published, both predating the window's close by more than a year.
 <!-- /narrative -->
 
 ## Finance
@@ -221,7 +219,7 @@ Education was the area where something reached users: the Ministry of Education'
 | Youth Entrepreneurship Investment Bank | ***Baseline not held*** | [Almost US$18m targeting 30,000 youth-led businesses and about 100,000 jobs, with a board being constituted; no disbursement stated (2026-07)](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Two financing commitments entered the ledger without matching disbursement data. The World Bank's WARDIP2 operation [committed US$50m of a US$125m package signed in June 2026](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) for broadband, cybersecurity, digital governance and payments, and the [Youth Entrepreneurship Investment Bank was stated at almost US$18m](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) with nothing disbursed on the record.
 <!-- /narrative -->
 
 ## Where the record is thin

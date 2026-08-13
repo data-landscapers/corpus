@@ -341,11 +341,7 @@ The largest change in the country's external technology relationships was not co
 | KOICA distance-education project, Makerere University | Commitment recorded; US$12.2m, 2025-2030 | [Unchanged; no progress or delivery figure published](https://softpower.ug/muyingo-launches-12-2m-koica-project-to-revolutionise-digital-learning-at-makerere/) | No change |
 
 <!-- narrative: inclusion -->
-The universal service fund's position is unchanged in substance and better documented in fact: the regulator stated in August 2026 that [only half the statutory 2% levy is retained by the fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), the rest going to the Consolidated Fund. No balance or annual total has ever been published.
-
 One-stop service delivery advanced on the government's own July 2026 account from [one operational centre to six of nineteen](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations), although the two held accounts disagree on the early-2026 count. A [Gulu centre begun in March 2026](https://www.newvision.co.ug/category/business/construction-of-sh4b-service-uganda-centre-be-NV_229820_062026) with a stated June completion has nothing on record as delivered.
-
-The three largest tracked commitments in this section — a [US$200m ten-year skills programme](https://mastercardfdn.org/en/news/mastercard-foundation-launches-10-year-plan-to-enable-3-million-young-people-in-uganda-to-access-dignified-work/), a [US$15m rural digital-inclusion facility running to 2026](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-11620%22) and a [EUR 2.25m gender-and-skills project whose stated period has elapsed](https://open.enabel.be/en/UGA/2662/p/digital-for-girls-and-women-uga.html) — carry no progress, disbursement or closure record inside the window.
 <!-- /narrative -->
 
 ## Finance
@@ -357,7 +353,9 @@ The three largest tracked commitments in this section — a [US$200m ten-year sk
 | Uganda Digital Acceleration Project | Active; free public Wi-Fi launched under it at the DRC border (2025-07-13) | [Active; funding the Tororo, Mbarara and Gulu pilots, and named as the affordable-connectivity vehicle](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations) | No change |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The universal service fund's position is unchanged in substance and better documented in fact: the regulator stated in August 2026 that [only half the statutory 2% levy is retained by the fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), the rest going to the Consolidated Fund. No balance or annual total has ever been published.
+
+The three largest tracked external-financing commitments in the inclusion and capacity portfolio — a [US$200m ten-year skills programme](https://mastercardfdn.org/en/news/mastercard-foundation-launches-10-year-plan-to-enable-3-million-young-people-in-uganda-to-access-dignified-work/) (Young Africa Works in Uganda), a [US$15m rural digital-inclusion facility running to 2026](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-11620%22) (Connect Rural Uganda) and a [EUR 2.25m gender-and-skills project whose stated period has elapsed](https://open.enabel.be/en/UGA/2662/p/digital-for-girls-and-women-uga.html) (Digital for Girls and Women Uganda) — carry no progress, disbursement or closure record inside the window.
 <!-- /narrative -->
 
 ## Where the record is thin

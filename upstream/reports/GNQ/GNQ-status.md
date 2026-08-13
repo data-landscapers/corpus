@@ -1,14 +1,14 @@
 ---
 title: Equatorial Guinea — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-12
 place: GNQ
-ledger_rows: 60
+ledger_rows: 61
 not_held: 6
 ---
 
 # Equatorial Guinea: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/GNQ/ledger.csv` (60 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/GNQ/ledger.csv` (61 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -152,6 +152,7 @@ The [fifth population census and a first agricultural census](https://ahoraeg.co
 |---|---|---|
 | Ley 7/2024 on social media and computer crime | [Implemented](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/) | Enacted 23 December 2024 |
 | Reform of Ley 7/2005 General de Telecomunicaciones | [In development](https://ahoraeg.com/tecnologia/2025/06/04/telecomunicaciones-busca-un-gabinete-especializado-para-liderar-los-trabajos-de-reforma-integral-de-la-ley-de-telecomunicaciones/) | International tender opened for a firm to draft a new law, June 2025 |
+| Reform of the Ley de Prensa y Medios Audiovisuales (1997) | [In development](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/) | Information Minister presented the reform bill to the Chamber of Deputies, 6 August 2026, referred to the Public Works and Communication committee |
 
 ### Strategies, plans and policies
 
@@ -191,7 +192,7 @@ The [fifth population census and a first agricultural census](https://ahoraeg.co
 | National open data portal | ***Not held*** | — |
 
 <!-- narrative: governance -->
-Ley 7/2024 of 23 December 2024 regulates social media, computer crime and cybercrime — under-14s may not join social networks without parental consent, personal data may not be published without express written consent, and identity usurpation through false profiles is criminalised — and the full text is not held. It creates ANCIC under the Presidency, and nothing on record shows that agency operating. A quality-of-service regulation, [OM Núm. 4/2018](https://ortelge.com/legislacion/reglamentos/), has stood since 22 August 2018, confirmed only by title and date on ORTEL's own index.
+Ley 7/2024 of 23 December 2024 regulates social media, computer crime and cybercrime — under-14s may not join social networks without parental consent, personal data may not be published without express written consent, and identity usurpation through false profiles is criminalised — and the full text is not held. It creates ANCIC under the Presidency, and nothing on record shows that agency operating. A quality-of-service regulation, [OM Núm. 4/2018](https://ortelge.com/legislacion/reglamentos/), has stood since 22 August 2018, confirmed only by title and date on ORTEL's own index. The government has also proposed [replacing the 1997 Ley de Prensa y Medios Audiovisuales](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), for the first time bringing digital media and cable television within its scope alongside copyright and related-rights provisions aligned with the Berne Convention and the Bangui Agreement; the bill is with parliament's Public Works and Communication committee, with no adoption date or text published.
 
 Treaty position: the Chamber of Deputies [voted on 25 March 2026 to authorise ratification](https://realequatorialguinea.com/destacado/politica/los-diputados-ratifican-convenios-internacionales-para-reforzar-la-ciberseguridad-y-la-mediacion-en-guinea-ecuatorial/) of the Malabo Convention, and the African Union's own register recorded no signature at all as of 2 February 2026. The signature followed on 28 July 2026. The country is a signatory and not a party to the convention adopted in, and named after, its own former capital.
 

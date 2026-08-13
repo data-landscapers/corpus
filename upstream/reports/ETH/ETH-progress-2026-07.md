@@ -329,8 +329,6 @@ Two rows carry no baseline and both bear on dependency. [Chinese model adoption 
 <!-- narrative: inclusion -->
 One position worsened, and it came from outside the country. Donor-funded health and surveillance data systems regressed when the 2025 United States aid freeze suspended livestock and zoonotic surveillance. The national health information system stayed online on local staffing.
 
-Everything else held or arrived. The federal digital appropriation held position as a system while its numbers moved a great deal — ETB 1.21bn to 3.75bn to 9.05bn across three fiscal years. The mechanism is unchanged and most of the rise is the birr float.
-
 Neither headline measurement was re-taken inside the window: [mobile connections at 93.2m and 68.4% penetration](https://datareportal.com/reports/digital-2026-ethiopia) in late 2025, and a [rural mobile-internet gender gap of 81% against 29% urban](https://dial.global/ethiopias-approach-to-use-cases/). The universal-access levy that arrived in March 2026 is the only instrument aimed directly at that gap, and no outcome from it is on record.
 <!-- /narrative -->
 
@@ -350,7 +348,7 @@ Neither headline measurement was re-taken inside the window: [mobile connections
 | Published budget execution for FY2025/26 | None published | [H1 FY2025/26: ETB 704.7bn mobilised, 48.1% of the annual target, against ETB 798.2bn spent, 48.3% of the approved budget](https://www.mofed.gov.et/media/filer_public/ee/f5/eef50cc8-4871-425e-b738-33fe9ed649e0/mid_year_review_2025_26_final_2.pdf) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The federal digital appropriation held position as a system while its numbers moved a great deal — ETB 1.21bn to 3.75bn to 9.05bn across three fiscal years. The mechanism is unchanged and most of the rise is the birr float.
 <!-- /narrative -->
 
 ## Where the record is thin

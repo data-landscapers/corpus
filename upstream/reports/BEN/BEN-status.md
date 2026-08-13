@@ -2,13 +2,13 @@
 title: Benin — digital transformation and data governance status report
 compiled: 2026-08-11
 place: BEN
-ledger_rows: 74
+ledger_rows: 75
 not_held: 4
 ---
 
 # Benin: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/BEN/ledger.csv` (74 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/BEN/ledger.csv` (75 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -322,16 +322,16 @@ The domestic commercial layer is early: a content-verification platform founded 
 | Sèmè City skills hub network | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-higher-education-access-through-e-learning-strategy) | Hub network with a Sorbonne partnership |
 
 <!-- narrative: inclusion -->
-The explanatory note to the 2026 rectifying budget embedded raw financial-system output showing programme 111 *Numérique* at **0.62% ordonnancé** at 30 April 2026 against 15.43% across all programmes. The ministry's own steering programme ran at 20.12% over the same period.
-
-The data-protection authority carries its own budget line across three estimates volumes. The digital agency that runs the CSIRT, the data centre and the PKI has no visible line in any of them. The identity agency likewise carries no programme of its own, and the telecoms regulator never appears in the finance law at all, funded from fees that fell 26.9% between 2024 and 2025.
-
-The annual performance reports the organic budget law requires have never been published for any year, so no full-year executed figure exists for any Benin digital programme.
-
 On access and skills, the state is building the delivery layer: a national tele-teaching platform authorised across four public universities for 2026–27, a hub network with a Sorbonne partnership, and a francophone digital-skills programme. The digital agency's certification course for state information-system security officers [opened a cohort of 25 on 2026-08-03](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi), taking the trained total to about 85 (2026-08) against the agency's own target of 100 by end-2026, with intake now open to local authorities, state enterprises and the private sector.
 <!-- /narrative -->
 
 ## Finance
+
+### New investments
+
+| System or instrument | Status | As at |
+|---|---|---|
+| MEF digitalisation support project (BOAD) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46021-2026008%22) | Committed 2026-05-19, implementation under way |
 
 ### Domestic budget appropriations and expenditure
 
@@ -342,7 +342,11 @@ On access and skills, the state is building the delivery layer: a national tele-
 | Audited figures for any digital budget line | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The explanatory note to the 2026 rectifying budget embedded raw financial-system output showing programme 111 *Numérique* at **0.62% ordonnancé** at 30 April 2026 against 15.43% across all programmes. The ministry's own steering programme ran at 20.12% over the same period.
+
+The data-protection authority carries its own budget line across three estimates volumes. The digital agency that runs the CSIRT, the data centre and the PKI has no visible line in any of them. The identity agency likewise carries no programme of its own, and the telecoms regulator never appears in the finance law at all, funded from fees that fell 26.9% between 2024 and 2025.
+
+The annual performance reports the organic budget law requires have never been published for any year, so no full-year executed figure exists for any Benin digital programme.
 <!-- /narrative -->
 
 ## Gaps to fill

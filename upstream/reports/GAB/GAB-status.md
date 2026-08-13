@@ -1,14 +1,14 @@
 ---
 title: Gabon — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-12
 place: GAB
-ledger_rows: 101
+ledger_rows: 102
 not_held: 27
 ---
 
 # Gabon: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/GAB/ledger.csv` (101 systems and instruments, 27 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/GAB/ledger.csv` (102 systems and instruments, 27 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -68,6 +68,7 @@ The World Bank operation intended to build the digital state had disbursed about
 | Interpol Operation Serengeti 2.0 | [Discontinued](https://www.gabonreview.com/cybercriminalite-le-gabon-renforce-sa-cooperation-avec-interpol-et-recupere-55-milliards-de-fcfa/) | Operation concluded after running June to August 2025 across eighteen African countries |
 | National cybersecurity strategy | [Planned](https://www.gabonreview.com/2e-forum-de-la-cybersecurite-du-gabon-comprendre-les-menaces-et-partager-les-bonnes-pratiques/) | Named as an objective of the second national Cybersecurity Forum |
 | SecBOM security bill of material | [Implemented](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/) | Launched by ANINF under the Presidency, a five-step method with quarterly revisions |
+| SEEG cyberattack and systems recovery | [Implemented, restoration continuing at remaining centres](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/) | Utility's 4 August progress briefing, network described as healthy and secured, with billing and payment restored in Libreville and seven interior centres |
 | United States cybersecurity grant to ANINF | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:US-GOV-11-SGB50025GR0014) | US$1,249,997 committed and US$49,313 disbursed, against a planned end of 2025-12-22 |
 | National computer emergency response team and security operations centre | ***Not held*** | — |
 
@@ -78,7 +79,7 @@ Local interconnection has restarted. The national internet exchange point carrie
 
 Backbone reach is stated at 2,000 km of fibre, with 88 per cent forest cover named as the limit on extending it ([satellite seminar](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/)) — a ministerial figure given at a seminar rather than a regulator or operator return. Satellite service is prohibited: the regulator declared in October 2025 that the low-earth-orbit operator holds no authorisation and that sale, installation and use are illegal ([communique](https://www.gabonreview.com/commercialisation-illegale-de-starlink-larcep-met-en-garde-les-usagers/)), and no seizure, fine or prosecution has followed on the record.
 
-Cybersecurity is institutionally thin. The asset-inventory method launched in June 2025 is designed to feed a national security operations centre and incident response team ([the method](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/)) that no source establishes exists, and architecture work with an external partner has defined twelve priority sectors without a completion date, cost or instrument ([account](https://techreviewafrica.com/news/6029/gabon-advances-cybersecurity-architecture-through-aninf-mitre-cooperation)). No national cybersecurity strategy is published.
+Cybersecurity is institutionally thin. The asset-inventory method launched in June 2025 is designed to feed a national security operations centre and incident response team ([the method](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/)) that no source establishes exists, and architecture work with an external partner has defined twelve priority sectors without a completion date, cost or instrument ([account](https://techreviewafrica.com/news/6029/gabon-advances-cybersecurity-architecture-through-aninf-mitre-cooperation)). No national cybersecurity strategy is published. A sabotage attack on the state water and power utility SEEG collapsed about 95 per cent of its information systems on the night of 14-15 June 2026, taking down the prepaid-meter top-up platform; by its 4 August progress briefing the utility described its network as healthy and secured, with billing and payment restored in Libreville and seven interior centres and restoration continuing elsewhere ([SEEG's progress briefing](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/)). The account is the utility's own; no forensic, criminal or damage-cost finding is on record and the attackers are described only as unidentified.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -314,7 +315,7 @@ The only instrument in the base whose stated subject is artificial intelligence 
 
 | System or instrument | Status | As at |
 |---|---|---|
-| Cybastion training commitment | [Planned](https://www.union.sonapresse.com/fr/souverainete-numerique-le-gabon-se-dote-dun-data-center-national) | Announced with the data-centre convention - 1,000 young people to be trained free of charge |
+| Cybastion training commitment | [Implemented](https://www.union.sonapresse.com/fr/souverainete-numerique-le-gabon-se-dote-dun-data-center-national) | Cisco Networking Academy CCST training under way at Libreville's American Corner, reported 2026-08-11 |
 | Connected schools programme | ***Not held*** | — |
 | Public digital-training institutions under the ministry | ***Not held*** | — |
 
@@ -328,7 +329,7 @@ The only instrument in the base whose stated subject is artificial intelligence 
 <!-- narrative: inclusion -->
 Social protection has a register at first-deliverable stage. Technical work on the unified social register closed in August 2025, and the first deliverable was presented on 29 July 2026 alongside a commitment to full digitalisation of non-contributory social protection under the 2026-2030 development plan ([presentation](https://agpgabon.ga/gabon-protection-sociale-presentation-du-premier-livrable-du-registre-social-unifie-et-du-programme-dacces-aux-agr/)). No beneficiary count, coverage figure or platform is published, and the state's own source uses three different names for it. A second census of economically weak Gabonese runs fieldwork from September 2026 for the stated reason that the existing social file is not reliable enough to target protection ([terms fixed 21 July 2026](https://www.gabonreview.com/gabonais-economiquement-faibles-le-gouvernement-lance-un-nouveau-recensement-en-septembre/)) — a government self-diagnosis, and the sharpest statement on registry quality the base holds.
 
-Financing is announced and rarely drawn. The digital economy ministry's appropriation was presented at XAF 82bn for 2026 against XAF 32bn for 2025, an increase of 156.2 per cent ([presentation to the National Transition Assembly](https://www.wearetech.africa/en/fils-uk/news/public-management/gabon-s-2026-digital-budget-soars-by-156-to-fund-tech-overhaul)); the base holds no enacted finance law. The World Bank operation had disbursed 1.92 per cent, US$1.3m of US$68.5m, at the last published implementation report ([report](https://documents.worldbank.org/curated/en/099121924052032986/pdf/P175987-0914ff29-7941-4230-8202-16cca6789388.pdf)), and the ministry put the rate at 7 per cent of FCFA 44bn in February 2026, up from 3 per cent, saying a great deal of money had not been used for digitalisation ([steering committee](https://www.gabonreview.com/egabon-gabon-digital-bilan-et-perspectives-du-5e-copil/)). A financial-inclusion partnership signed in December 2025 carries no amount, duration or deliverable ([account](https://www.biometricupdate.com/202512/gabon-pens-deal-with-uncdf-to-accelerate-financial-inclusion)). One thousand young people were to be trained free of charge under a data-centre convention of June 2025; thirteen months on, no cohort, curriculum or start date is on record.
+One thousand young people were to be trained free of charge under a data-centre convention of June 2025; thirteen months on, no cohort, curriculum or start date is on record.
 <!-- /narrative -->
 
 ## Finance
@@ -358,7 +359,7 @@ Financing is announced and rarely drawn. The digital economy ministry's appropri
 | Enacted digital appropriation for 2026 | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Financing is announced and rarely drawn. The digital economy ministry's appropriation was presented at XAF 82bn for 2026 against XAF 32bn for 2025, an increase of 156.2 per cent ([presentation to the National Transition Assembly](https://www.wearetech.africa/en/fils-uk/news/public-management/gabon-s-2026-digital-budget-soars-by-156-to-fund-tech-overhaul)); the base holds no enacted finance law. The World Bank operation had disbursed 1.92 per cent, US$1.3m of US$68.5m, at the last published implementation report ([report](https://documents.worldbank.org/curated/en/099121924052032986/pdf/P175987-0914ff29-7941-4230-8202-16cca6789388.pdf)), and the ministry put the rate at 7 per cent of FCFA 44bn in February 2026, up from 3 per cent, saying a great deal of money had not been used for digitalisation ([steering committee](https://www.gabonreview.com/egabon-gabon-digital-bilan-et-perspectives-du-5e-copil/)). A financial-inclusion partnership signed in December 2025 carries no amount, duration or deliverable ([account](https://www.biometricupdate.com/202512/gabon-pens-deal-with-uncdf-to-accelerate-financial-inclusion)).
 <!-- /narrative -->
 
 ## Gaps to fill

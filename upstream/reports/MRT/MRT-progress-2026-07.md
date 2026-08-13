@@ -212,8 +212,6 @@ What changed is the market and the partners. A [fourth operator](https://techafr
 | Youth digital employability programme | Predecessor programme Tech pour la Mauritanie, closed in 2025 | [Running for 2,150 beneficiaries across six cities, about 2,000 of them young people, financed by France's Fonds Equipe France and implemented by Simplon](https://www.ami.mr/archives/264918) | Advanced |
 
 <!-- narrative: inclusion -->
-Financing was where the year was busiest. The [Islamic Development Bank](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal) agreed US$50m in principle in April 2026, which did not exist a year earlier and is still not a signed instrument; the [World Bank's WARDIP programme](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) delivered the national cloud and is still running the unawarded PKI procurement; and [Digital-Y](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202322394%22) and the [EIB cable financing](https://www.eib.org/en/projects/all/20210166) ran unchanged. The one domestic figure to appear in the window is the [digital ministry's 2026 budget at US$24.2m, up 104.6%](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty).
-
 Training changed hands rather than scale: the predecessor programme closed in 2025 and a [2,150-place successor](https://www.ami.mr/archives/264918) launched in July 2026 on French financing. Nothing measured digital literacy at either end of the period, and no national research programme appeared.
 <!-- /narrative -->
 
@@ -242,7 +240,7 @@ Training changed hands rather than scale: the predecessor programme closed in 20
 | Digital ministry budget | ***Baseline not held*** | [US$24.2m for 2026, up 104.6% on the previous year](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Financing was where the period was busiest. The [Islamic Development Bank](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal) agreed US$50m in principle in April 2026, which did not exist a year earlier and is still not a signed instrument; the [World Bank's WARDIP programme](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) delivered the national cloud and is still running the unawarded PKI procurement; and [Digital-Y](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202322394%22) and the [EIB cable financing](https://www.eib.org/en/projects/all/20210166) ran unchanged. The one domestic figure to appear in the window is the [digital ministry's 2026 budget at US$24.2m, up 104.6%](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty).
 <!-- /narrative -->
 
 ## Where the record is thin

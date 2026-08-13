@@ -19,30 +19,90 @@ _(narrative not yet written)_
 
 ## Infrastructure
 
-<!-- narrative: infrastructure -->
+### Connectivity
+
+<!-- narrative: infrastructure--infra-connect -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
 _(narrative not yet written)_
 <!-- /narrative -->
 
 ## Digital public infrastructure
 
-<!-- narrative: dpi -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### Registries (population, land, address, etc.)
+
+<!-- narrative: dpi--dpi-registry -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### Rural digital data capture
+
+<!-- narrative: dpi--digital-rural -->
 _(narrative not yet written)_
 <!-- /narrative -->
 
 ## Governance and regulation
 
-<!-- narrative: governance -->
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### Standards
+
+<!-- narrative: governance--gov-standards -->
 _(narrative not yet written)_
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
 
-<!-- narrative: ai-tech -->
+### AI
+
+<!-- narrative: ai-tech--tech-ai -->
 _(narrative not yet written)_
 <!-- /narrative -->
 
-## Inclusion, capacity and finance
+### ICT Industry
 
-<!-- narrative: inclusion -->
+<!-- narrative: ai-tech--tech-industry -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+## Inclusion and capacity
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+_(narrative not yet written)_
+<!-- /narrative -->
+
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
 _(narrative not yet written)_
 <!-- /narrative -->

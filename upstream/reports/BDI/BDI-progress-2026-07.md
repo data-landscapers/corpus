@@ -253,11 +253,7 @@ Domestic AI capacity showed itself once, at the [July 2026 workshop](https://en.
 | University and professional research capacity in AI and data | Baseline not held | [One workshop on record; no funded programme](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-The financing position is unchanged in kind and larger in amount: [PAFEN reached 61% committed at its mid-term review](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program), and tracked non-state finance stands at US$117m across four deals for 2021 to 2026, all from one lender, on the wiki's own compilation as of 6 August 2026.
-
-Domestic appropriations moved and their execution did not. The [communications and ICT ministry's vote tripled to BIF 131.7bn in FY2024/25](https://lerenouveau.bi/assemblee-nationale-le-projet-de-loi-portant-reglement-et-compte-rendu-budgetaire-2024-2025-adopte-a-lunanimite/) and the [FY2026/27 general budget was adopted 23.76% above its predecessor](https://burundi-eco.com/budget-general-de-letat-exercice-2026-2027-un-budget-de-plus-de-7000-milliards-de-bif-adopte-a-lunanimite/). Against that, the same loi de règlement puts revenue realised at 76.79% of the revised target, and the [mid-year work-plan report showed credits shifted between programmes](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/).
-
-Access is the one measure that moved against the direction of the build: [tariffs more than doubled over the window on the consumer association's account](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/).
+Access is the one inclusion measure that moved this period, and it moved against the direction of the build: [tariffs more than doubled over the window on the consumer association's account](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/).
 <!-- /narrative -->
 
 ## Finance
@@ -284,7 +280,9 @@ Access is the one measure that moved against the direction of the build: [tariff
 | Execution discipline of voted appropriations | Baseline not held | [Credits shifted between programmes; a voted line does not reliably execute](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The financing position is unchanged in kind and larger in amount: [PAFEN reached 61% committed at its mid-term review](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program), and tracked non-state finance stands at US$117m across four deals for 2021 to 2026, all from one lender, on the wiki's own compilation as of 6 August 2026.
+
+Domestic appropriations moved and their execution did not. The [communications and ICT ministry's vote tripled to BIF 131.7bn in FY2024/25](https://lerenouveau.bi/assemblee-nationale-le-projet-de-loi-portant-reglement-et-compte-rendu-budgetaire-2024-2025-adopte-a-lunanimite/) and the [FY2026/27 general budget was adopted 23.76% above its predecessor](https://burundi-eco.com/budget-general-de-letat-exercice-2026-2027-un-budget-de-plus-de-7000-milliards-de-bif-adopte-a-lunanimite/). Against that, the same loi de règlement puts revenue realised at 76.79% of the revised target, and the [mid-year work-plan report showed credits shifted between programmes](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/).
 <!-- /narrative -->
 
 ## Where the record is thin

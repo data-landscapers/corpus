@@ -283,8 +283,6 @@ What did arrive is compute and deployment. A sovereign AI cloud was [launched by
 <!-- narrative: inclusion -->
 The African Startup and Young Innovators Financing Fund and Algeria Venture both entered in October 2025, the vocational AI training programme in April 2026, the national digital-empowerment programme's [enrolment figures](https://www.echoroukonline.com/%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-64-%D8%A3%D9%84%D9%81-%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA) in May, and the [High Council of Scientists](https://www.echoroukonline.com/creation-de-deux-importantes-structures-sous-la-tutelle-de-la-presidence-de-la-republique) in June.
 
-The only externally financed programme moved: UNDP support was agreed in [November 2025](https://techafricanews.com/2025/11/04/algeria-and-undp-sign-agreement-to-accelerate-national-digital-transformation/) and became a funded project with Japanese backing in [May 2026](https://www.echoroukonline.com/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%AF%D8%B9%D9%85-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA), carrying a 2027–2030 executive plan and no published budget figure.
-
 Two programmes carry no baseline — the universal-service build for low-density areas and the information-security officer training, reported as a second cohort. Both are older than their first held source, so neither is recorded as an arrival.
 <!-- /narrative -->
 
@@ -305,7 +303,7 @@ Two programmes carry no baseline — the universal-service build for low-density
 | Oman digital-cooperation track (MTCIT and Oman Investment Authority) | Did not exist | [Partnerships offered across AI, data centres, fintech and space; nothing concluded](https://www.echoroukonline.com/الجزائر-وسلطنة-عمان-تبحثان-تعزيز-التع) | Advanced |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The only externally financed programme moved: UNDP support was agreed in [November 2025](https://techafricanews.com/2025/11/04/algeria-and-undp-sign-agreement-to-accelerate-national-digital-transformation/) and became a funded project with Japanese backing in [May 2026](https://www.echoroukonline.com/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%AF%D8%B9%D9%85-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA), carrying a 2027–2030 executive plan and no published budget figure.
 <!-- /narrative -->
 
 ## Where the record is thin

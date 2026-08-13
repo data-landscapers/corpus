@@ -2,13 +2,13 @@
 title: Nigeria — digital transformation and data governance status report
 compiled: 2026-08-11
 place: NGA
-ledger_rows: 196
+ledger_rows: 198
 not_held: 7
 ---
 
 # Nigeria: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/NGA/ledger.csv` (196 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/NGA/ledger.csv` (198 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -448,6 +448,7 @@ The [health cooperation memorandum](https://www.citizen.org/wp-content/uploads/2
 
 | System or instrument | Status | As at |
 |---|---|---|
+| Bango food-market price data platform | [Implemented](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets) | Reported 2026-08-10, about 2,500 users |
 | Itana digital free zone | [Implemented](https://techcabal.com/2025/06/10/inside-itana-nigerias-first-digital-free-zone/) | Zone live 2025-06-10 |
 | JICA startup hub programme | [In development](https://techafricanews.com/2025/06/19/nigeria-signs-agreement-with-japanese-consortium-for-51-2-million-startup-hub-project/) | US$51.2m programme (2025-06) |
 | Katsina state technology hub | [Planned](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-plans-10bln-tech-hub-in-katsina-to-anchor-national-digital-push) | One of ten planned state hubs (2025-10) |
@@ -532,6 +533,7 @@ An Institute of Development Studies mapping puts [facial-recognition and number-
 | Huawei and NCCE Digital Academy for teacher-training colleges | [In development](https://punchng.com/huawei-ncce-partner-to-expand-ai-digital-education-in-nigeria/) | Memorandum of understanding signed 2026-07-30 |
 | Lagos teacher AI literacy programme | [Implemented](https://techcabal.com/2026/07/18/ness-2026-charts-new-course-for-leading-funding-and-equipping-nigerian-schools/) | Seventy teachers from 40 schools (2026-07) |
 | Mastercard Foundation EdTech Fellowship | [Implemented](https://techcabal.com/2026/08/04/cchub-mastercard-foundation-select-12-startups-for-fourth-edtech-fellowship-cohort/) | Cohort 4 of 12 startups selected 2026-08-04 |
+| NBTE National Diploma curriculum in AI for polytechnics | [Implemented](https://nitda.gov.ng/nitda-commends-nbtes-ai-curriculum-calls-for-broader-integration-of-emerging-technologies-in-technical-education/9679/) | Unveiled at NBTE's Abuja headquarters, welcomed by NITDA, 2026-08-10 |
 | Three-million technology talent programme | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-plans-10bln-tech-hub-in-katsina-to-anchor-national-digital-push) | 1.87m registrations and more than 135,000 trained across three cohorts (2026-08) |
 
 <!-- narrative: inclusion -->
@@ -539,7 +541,7 @@ An Institute of Development Studies mapping puts [facial-recognition and number-
 
 Every eligibility option in the zero-rated education consultation requires registration to control access.
 
-Skills run on state and donor capital: a three-million-talent programme reporting [1.87m registrations and 135,000 trained](https://www.nigeriacommunicationsweek.com.ng/nitda-reaffirms-ai-commitment-launches-msme-training/) against ICT at 22% of GDP by 2027. The commission accrediting teacher-training colleges has [established a Huawei Digital Academy](https://punchng.com/huawei-ncce-partner-to-expand-ai-digital-education-in-nigeria/) and revised the curriculum around the vendor's certification tracks, on a memorandum with no term or value published. One programme is subnational: [260 schools](https://www.thecable.ng/investigation-in-enugu-smart-schools-get-all-attention-but-concerns-remain-over-work-quality-part-ii/) at about ₦1.3–1.5bn each, promised in full for January 2026 and incomplete in May.
+Skills run on state and donor capital: a three-million-talent programme reporting [1.87m registrations and 135,000 trained](https://www.nigeriacommunicationsweek.com.ng/nitda-reaffirms-ai-commitment-launches-msme-training/) against ICT at 22% of GDP by 2027. The commission accrediting teacher-training colleges has [established a Huawei Digital Academy](https://punchng.com/huawei-ncce-partner-to-expand-ai-digital-education-in-nigeria/) and revised the curriculum around the vendor's certification tracks, on a memorandum with no term or value published. One programme is subnational: [260 schools](https://www.thecable.ng/investigation-in-enugu-smart-schools-get-all-attention-but-concerns-remain-over-work-quality-part-ii/), promised in full for January 2026, were incomplete in May.
 
 Donor money goes to named categories rather than open calls: the [fourth Mastercard Foundation EdTech Fellowship cohort](https://techcabal.com/2026/08/04/cchub-mastercard-foundation-select-12-startups-for-fourth-edtech-fellowship-cohort/), selected 2026-08-04, took 12 companies against disability, displacement, gender and education data systems. AI training reaches [about 11,700 teachers across the Federal Unity Colleges](https://www.vanguardngr.com/2026/07/fg-launches-nationwide-ai-training-for-11700-unity-schools-teachers/), with no contract value or funding source stated.
 <!-- /narrative -->
@@ -553,7 +555,7 @@ Donor money goes to named categories rather than open calls: the [fourth Masterc
 | iDICE debt financing for technology startups | [Implemented](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) | US$110m opened for applications 2026-07-30 |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+A subnational programme to build [260 schools](https://www.thecable.ng/investigation-in-enugu-smart-schools-get-all-attention-but-concerns-remain-over-work-quality-part-ii/) is budgeted at about ₦1.3–1.5bn per school.
 <!-- /narrative -->
 
 ## Gaps to fill

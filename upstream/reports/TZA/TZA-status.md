@@ -320,10 +320,6 @@ The council's [2025 reading is 0.83, access 0.87 and usage 0.79, against 0.81 fo
 The universal service fund's [133 completed rural sites](https://techreviewafrica.com/news/4919/) are the only output figure held, and no levy rate or fund balance appears anywhere in the base.
 
 Skills are supplied in cohorts of [110 participants across AI, cybersecurity, personal data protection and emerging technologies](https://dailynews.co.tz/tanzania-builds-cyber-resilience/) in Dar es Salaam; a [second cohort of 129 students, about half from East Africa and 30% women](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-positions-itself-as-africa-s-technology-and-innovation-hub-5518692) at the Zanzibar postgraduate campus, institution-reported; and [sixteen graduates studying AI and data science overseas with 34 expected](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884). None carries a budget, and no national ICT or AI research programme or fund is held. The telecoms regulator reports [800 digital clubs established from nursery to university level](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/), with no per-club spend or outcome measure published.
-
-The largest single commitment is the [US$150m Digital Tanzania Project for 2021 to 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P160766), with nothing in the base marking its scheduled closure.
-
-The communications ministry's own vote is [proposed at TZS 222,589,451,000 for 2026/27 against TZS 291,533,139,000 approved for 2025/26](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf); domestic development finance is unchanged at TZS 98.48bn and the whole reduction falls on external finance, which drops from TZS 178.57bn to TZS 110.96bn. TZS 147,768,795,247 of the 2025/26 vote had been released by March 2026, 50.6%.
 <!-- /narrative -->
 
 ## Finance
@@ -350,7 +346,9 @@ The communications ministry's own vote is [proposed at TZS 222,589,451,000 for 2
 | Domestic state appropriation for digital transformation | [Implemented](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf) | Estimates for Vote 68 presented to Parliament 2026-04-30 |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The largest external commitment on file is the [US$150m Digital Tanzania Project for 2021 to 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P160766), with nothing in the base marking its scheduled closure.
+
+The communications ministry's own vote is [proposed at TZS 222,589,451,000 for 2026/27 against TZS 291,533,139,000 approved for 2025/26](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf); domestic development finance is unchanged at TZS 98.48bn and the whole reduction falls on external finance, which drops from TZS 178.57bn to TZS 110.96bn. TZS 147,768,795,247 of the 2025/26 vote had been released by March 2026, 50.6%.
 <!-- /narrative -->
 
 ## Gaps to fill

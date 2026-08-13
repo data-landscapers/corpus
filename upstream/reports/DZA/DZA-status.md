@@ -1,6 +1,6 @@
 ---
 title: Algeria — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-12
 place: DZA
 ledger_rows: 102
 not_held: 7
@@ -8,7 +8,7 @@ not_held: 7
 
 # Algeria: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/DZA/ledger.csv` (102 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/DZA/ledger.csv` (102 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -126,7 +126,7 @@ Presidential Decree 26-07, gazetted in [*Journal officiel* n° 04 of 2026-01-18]
 | Notaries e-services (Algerie Telecom MoU) | [Planned](https://techafricanews.com/2025/07/15/algeria-strengthens-e-governance-with-new-notarial-sector-digital-partnership/) | MoU signed 2025-07-15 |
 | SME economic information system | [Implemented](https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AE%D8%A7%D8%B5-%D8%A8) | Live 2026-05-17 |
 | Social cartography on the national services portal | [In development](https://www.elmoudjahid.dz/fr/actualite/retour-sur-le-conseil-des-ministres-cartographie-sociale-et-portail-national-des-services-numeriques-une-revolution-silencieuse-en-marche-254255) | Tasked to the High Commission 2026-06 |
-| Tax-data integration (Djibayatic, Moussahamatic) | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) | Djibayatic and Moussahamatic integrated 2025-03-11 |
+| Tax-data integration (Djibayatic, Moussahamatic) | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) | DGI published its first user guide for e-payment on the Jibayatic platform, detailing 17 rejection reasons, reported 2026-08-05 |
 | Unified market-supply monitoring system | [Implemented](https://www.echoroukonline.com/%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A-%D9%85%D9%88%D8%AD%D8%AF-%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%AA%D9%85%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%88) | Live 2026-04-27 |
 
 ### Other GovTech and e-Gov
@@ -160,7 +160,7 @@ Presidential Decree 26-07, gazetted in [*Journal officiel* n° 04 of 2026-01-18]
 <!-- narrative: dpi -->
 The national single window [launched 2025-10-17](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-launches-dzair-services-to-centralize-public-digital-platforms) held 21 live services in 2026-07 against targets of 62 by end-2027 and 350 by 2028.
 
-Land titles went nationwide in [2026-01](https://www.ecofinagency.com/news-digital/1301-51891-algeria-launches-nationwide-rollout-of-amlak-electronic-land-system); eleven further sectoral management systems are in operation and not one publishes an adoption or usage figure.
+Land titles went nationwide in [2026-01](https://www.ecofinagency.com/news-digital/1301-51891-algeria-launches-nationwide-rollout-of-amlak-electronic-land-system); eleven further sectoral management systems are in operation and not one publishes an adoption or usage figure. The tax administration has now published its first user guide for [e-payment on the Jibayatic platform](https://www.echoroukonline.com/bank-cards-and-transfers-introduced-for-tax-payments), mandatory for taxpayers under the Directorate of Large Enterprises and optional for others, listing seventeen reasons a transaction can be rejected and barring electronic retry after a rejection.
 
 Decree 25-320 makes the interoperability system the only permitted channel for inter-agency exchange, on a network kept [physically separate from the internet](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf), and the trade ministry announced the services-import platform [in operation from 2026-08-01](https://drive.google.com/file/d/1_UovYiTOhikpGJ7QiOUNQJsAoYu6xqw_/view) as the exclusive route for those applications. The digital-identity and trust-services law was [before the National People's Assembly](https://www.elmoudjahid.dz/fr/actualite/le-projet-de-loi-sur-les-services-de-confiance-numeriques-a-l-apn-la-securite-des-systemes-d-information-nationaux-renforcee-244691) in 2025-12 with no promulgation on record, while [all-digital vehicle registration](https://www.elmoudjahid.dz/fr/actualite/immatriculation-des-vehicules-passage-au-tout-numerique-des-aujourd-hui-250065) requires the biometric card for transfers.
 
@@ -321,8 +321,6 @@ Penetration stood at 76.9% and 10.9 million people offline in early 2025 ([DataR
 The "7.77" programme recorded 64,508 registrations across all 58 wilayas by 2026-05, of which 19,691 — 30% — chose artificial intelligence ahead of professional cybersecurity at 9,678 ([2026-05-21](https://www.echoroukonline.com/%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-64-%D8%A3%D9%84%D9%81-%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA)).
 
 Fewer than 10% of merchants operate a terminal (GIE Monétique, cited [2026-05](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-s-electronic-payment-market-surpasses-22-million-cards)), and an Internet Society study found only [13% of Algerian web traffic served locally](https://pulse.internetsociety.org/en/blog/2026/06/beyond-the-homepage-measuring-what-it-really-takes-to-keep-web-traffic-local/) in 2026-06.
-
-Algeria committed US$1bn to a continental startup fund ([2025-10-21](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups)) while its own startups raised US$5.3m in the whole of 2025, and an Omani delegation offered partnerships across AI, data centres and fintech in 2026-07 with [no instrument concluded](https://www.echoroukonline.com/الجزائر-وسلطنة-عمان-تبحثان-تعزيز-التع). No source in this base carries a budget line for the programme, so nothing here can be costed.
 <!-- /narrative -->
 
 ## Finance
@@ -348,7 +346,7 @@ Algeria committed US$1bn to a continental startup fund ([2025-10-21](https://wee
 | State budget allocation to digitalisation and ICT | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+Algeria committed US$1bn to a continental startup fund ([2025-10-21](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups)) while its own startups raised US$5.3m in the whole of 2025, and an Omani delegation offered partnerships across AI, data centres and fintech in 2026-07 with [no instrument concluded](https://www.echoroukonline.com/الجزائر-وسلطنة-عمان-تبحثان-تعزيز-التع). No source in this base carries a state budget line for digitalisation and ICT, so none of this can be set against domestic appropriation.
 <!-- /narrative -->
 
 ## Gaps to fill

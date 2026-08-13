@@ -375,11 +375,11 @@ The bilateral health memorandum [signed at Kampala on 10 December 2025](https://
 | KOICA distance-education project, Makerere University | [Implemented](https://softpower.ug/muyingo-launches-12-2m-koica-project-to-revolutionise-digital-learning-at-makerere/) | US$12.2m grant recorded for 2025-2030; e-content for 2,560 courses across ten colleges |
 
 <!-- narrative: inclusion -->
-The universal service fund's revenue base is statutory, and half of it does not reach the fund: the regulator's executive director stated at the handover ceremony of 30 July 2026 that of the [statutory 2% of licensee gross annual revenue, half goes to the Consolidated Fund and only half is retained](https://www.ucc.co.ug/atc-uganda-contributes-ugx-20-9bn-to-support-universal-access/). The fund publishes no balance, annual total or audited disbursement at any date. Its last reported quarterly outputs are [3,000 riders skilled, 4,900 tablets delivered, laboratories in 70 secondary schools and 60 public access centres](https://www.ucc.co.ug/wp-content/uploads/2025/11/UCC-Market-Report-for-Q3-2025-Sep-2025.pdf), for the quarter to September 2025.
+The universal service fund's last reported quarterly outputs are [3,000 riders skilled, 4,900 tablets delivered, laboratories in 70 secondary schools and 60 public access centres](https://www.ucc.co.ug/wp-content/uploads/2025/11/UCC-Market-Report-for-Q3-2025-Sep-2025.pdf), for the quarter to September 2025.
 
 [Six of nineteen planned centres were operational on 27 July 2026](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations); four months earlier the permanent secretary [described one site as the only operational centre for three years](https://www.newvision.co.ug/category/business/construction-of-sh4b-service-uganda-centre-be-NV_229820_062026). Both accounts are government-sourced and the two have not been reconciled.
 
-The state ICT institute reported [48,448 people trained in FY2025/26](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), 1,932 of them government officers, on its own unaudited figures. A [US$200m ten-year programme targeting 4.3m young Ugandans in dignified work by 2030](https://mastercardfdn.org/en/news/mastercard-foundation-launches-10-year-plan-to-enable-3-million-young-people-in-uganda-to-access-dignified-work/) carries no progress, disbursement or beneficiary figure inside the window.
+The state ICT institute reported [48,448 people trained in FY2025/26](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), 1,932 of them government officers, on its own unaudited figures.
 <!-- /narrative -->
 
 ## Finance
@@ -397,7 +397,9 @@ The state ICT institute reported [48,448 people trained in FY2025/26](https://te
 | Domestic state digital-transformation budget | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+The universal service fund's revenue base is statutory, and half of it does not reach the fund: the regulator's executive director stated at the handover ceremony of 30 July 2026 that of the [statutory 2% of licensee gross annual revenue, half goes to the Consolidated Fund and only half is retained](https://www.ucc.co.ug/atc-uganda-contributes-ugx-20-9bn-to-support-universal-access/). The fund publishes no balance, annual total or audited disbursement at any date.
+
+The Young Africa Works in Uganda programme — a [US$200m, ten-year commitment targeting 4.3m young Ugandans in dignified work by 2030](https://mastercardfdn.org/en/news/mastercard-foundation-launches-10-year-plan-to-enable-3-million-young-people-in-uganda-to-access-dignified-work/) — carries no progress, disbursement or beneficiary figure inside the window.
 <!-- /narrative -->
 
 ## Gaps to fill
