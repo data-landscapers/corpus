@@ -36,10 +36,12 @@ A no-op if the tree is already clean.
 Quick path (zero code change): mirror `outputs/` into `upstream/`.
 
 ```bash
-robocopy outputs upstream /MIR /NFL /NDL /NP    # mirror; on *nix use: rsync -a --delete outputs/ upstream/
+robocopy outputs upstream /MIR /XF README.md /NFL /NDL /NP    # on *nix: rsync -a --delete --exclude README.md outputs/ upstream/
 git rev-parse HEAD > upstream/BUILT-FROM
 git add upstream && git commit -m "Point build at Corpus-owned outputs (mirror into upstream)"
 ```
+
+`/XF README.md` is load-bearing: `/MIR` deletes anything in `upstream/` that is not in `outputs/`, and `upstream/README.md` — the notice saying nothing there is authored and edits are overwritten — is exactly such a file. An excluded file is not purged, so naming it keeps it. `BUILT-FROM` is also deleted by `/MIR` and immediately rewritten by the next line, which is why it needs no exclusion.
 
 Durable path (do later): in `scripts/render.py`, `scripts/home.py`, `scripts/country.py`, change the input constant from `upstream` to `outputs`, retire `scripts/pull.py` for the report/finance/catalogue layers, then delete `upstream/`. One repoint, no ongoing copy.
 
