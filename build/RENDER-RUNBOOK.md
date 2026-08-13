@@ -66,7 +66,23 @@ python build/country.py         # every country -> site/countries/{ISO}/index.ht
 
 `country.py` builds the 54 country pages (those in `FULL_NAMES`). The 3 regions (XAF, XSA, XWA) publish as their rendered **progress** report sets from Step 2, linked under the home page's Regions section — they do not currently get a country-style page. If regions should get their own landing pages, that is a small extension to `country.py`, not a blocker for this render.
 
-## Step 5 — verify, commit, deploy
+## Step 5 — build the catalogue page
+
+`build/catalogue.py` (promoted from the prototype) writes the browse-and-filter surface and publishes the full downloads. It reads `upstream/catalogue/raw-catalogue.json` (synced in Step 1) and the vocabularies snapshotted in `build/vocab/`.
+
+```bash
+python build/catalogue.py       # -> site/catalogue/index.html, catalogue-data.js, raw-catalogue.{csv,json}
+```
+
+Expect ~9,400 records. The page carries metadata only; each record links to its publisher. If the place/topic labels look stale, refresh `build/vocab/countries.csv` and `build/vocab/taxonomy.md` from OSINT's `lookups/` and re-run.
+
+## Non-state finance — what renders and what is still missing
+
+Per-country non-state finance already renders: `build/country.py` writes a `finance.html` beside each country's `index.html` from `{ISO3}-nonstate.csv`, and the country page carries a Non-state finance section. Running Step 4 covers it.
+
+**Gap:** the top-level `/finance/` landing page that the site nav links to has **no builder yet** — the link currently 404s. Building it (an aggregate view over `all-nonstate.csv`) is a small `build/finance.py`, not written. Flagging rather than assuming: say if you want that builder and I'll write it.
+
+## Step 6 — verify, commit, deploy
 
 ```bash
 # sanity: no unwritten-narrative placeholder reached the site
