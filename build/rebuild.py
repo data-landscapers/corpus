@@ -23,11 +23,16 @@ Stages
                 never has to read outside outputs/ — NOTES-FOR-OSINT #9)
   2. catalogue  raw/ -> outputs/catalogue/{raw-catalogue.csv,json}
   3. finance    raw/ -> outputs/non-state-finance/ + outputs/budgets/ (+ all-nonstate.csv)
-  4. reports    ledger -> outputs/reports/{unit}/*.md  (tables rebuilt, narrative carried)
-  5. summary    what was produced
+  4. update     REPORT-UPDATE — the ledgers' nightly move. `--scan` here prints the work order
+                (units holding sources the ledger has not considered); the authoring itself is
+                a model stage (see build/BUILD-RUNBOOK.md § Report update), which then calls
+                report-scan --mark and report-render.
+  5. reports    ledger -> outputs/reports/{unit}/*.md  (tables rebuilt, narrative carried)
+  6. summary    what was produced
 
   OSINT_PATH   where OSINT is checked out (default: the mounted OSINT folder)
-  python build/rebuild.py --all                 # vocab + catalogue + finance + summary
+  python build/rebuild.py --all                 # vocab + catalogue + finance + scan + summary
+  python build/rebuild.py --scan                # the report-update work order, only
   python build/rebuild.py --all --reports all   # ...and re-render every report's tables
   python build/rebuild.py --reports ZAF KEN     # re-render specific units only
 """
@@ -72,6 +77,26 @@ def snapshot_vocab():
     print(f"  vocab -> build/vocab/ ({', '.join(os.listdir(VOCAB))})")
 
 
+def scan_work_order():
+    """The REPORT-UPDATE gate: which ledgers hold unconsidered sources in raw/.
+    Prints the work order; the authoring is the model stage that follows."""
+    p = subprocess.run([sys.executable, os.path.join("scripts", "report-scan.py"), "--json"],
+                       cwd=WORK, capture_output=True, text=True)
+    try:
+        d = json.loads(p.stdout)
+    except json.JSONDecodeError:
+        print("  (scan produced no JSON)"); print(p.stdout[:400]); return
+    work = d.get("work", [])
+    total = sum(w["unconsidered"] for w in work)
+    print(f"  {len(work)} units hold {total} unconsidered sources — REPORT-UPDATE authors these")
+    for w in sorted(work, key=lambda w: -w["unconsidered"])[:12]:
+        print(f"    {w['unit']}  {w['unconsidered']}")
+    if len(work) > 12:
+        print(f"    … and {len(work) - 12} more units")
+    if d.get("month_overdue"):
+        print(f"  month {d.get('month_due')} overdue by {d.get('month_days_owed')} days")
+
+
 def summary():
     def count_csv(path):
         try:
@@ -99,6 +124,7 @@ def main():
     ap.add_argument("--vocab", action="store_true")
     ap.add_argument("--catalogue", action="store_true")
     ap.add_argument("--finance", action="store_true")
+    ap.add_argument("--scan", action="store_true", help="print the REPORT-UPDATE work order")
     ap.add_argument("--reports", nargs="*", metavar="ISO3",
                     help="re-render report tables for these units (or 'all')")
     a = ap.parse_args()
@@ -110,6 +136,9 @@ def main():
         print("stage 2 — catalogue:"); run("build-catalogue.py")
     if a.all or a.finance:
         print("stage 3 — finance + budgets (all places):"); run("build-finance-page.py", "--all")
+    if a.all or a.scan:
+        print("stage 4 — report-update work order (authoring is the model stage that follows):")
+        scan_work_order()
 
     units = a.reports or []
     if units == ["all"] or units == ["--all"]:
