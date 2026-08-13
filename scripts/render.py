@@ -366,7 +366,13 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
     html_body = style_tables(html_body)
 
     title = meta.get("title") or h1 or md_path.stem
-    stem_html = md_path.stem
+    # The HTML permalink carries no period *(Bill, 2026-08-13)*: `AGO-monthly.html`,
+    # not `AGO-monthly-2026-07.html`. The HTML is always the current document, so a
+    # period in its name is a contradiction — it would freeze a permanent URL to one
+    # month and mint a new address every month, which is the opposite of permanent.
+    # A monthly spans one whole month and part of the next, so the period is a
+    # property of the edition, not of the document. The dated PDF keeps it.
+    stem_html = f"{unit}-{kind}"
     stem_pdf = f"{md_path.stem}-{edition}"
     rel_html = f"reports/{unit}/{stem_html}"
     rel_pdf = f"reports/{unit}/{stem_pdf}"

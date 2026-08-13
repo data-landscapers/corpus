@@ -143,8 +143,12 @@ def editions(iso: str) -> list[dict]:
             continue
         kind = parts[1]
         edition = "-".join(parts[-3:])
-        html_stem = f.stem[: -(len(edition) + 1)]
-        found.setdefault(kind, []).append((edition, f.name, f"{html_stem}.html"))
+        # The HTML permalink is {iso}-{kind}.html, with no period — it is always
+        # the current document (render.py, Bill 2026-08-13). Deriving it by
+        # stripping the edition off the PDF stem used to leave the period in
+        # (`AGO-monthly-2026-07.html`) and would now link to a file that no
+        # longer exists.
+        found.setdefault(kind, []).append((edition, f.name, f"{iso}-{kind}.html"))
     rows = []
     for kind in ("status", "monthly", "progress"):
         if kind not in found:
