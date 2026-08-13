@@ -74,6 +74,12 @@ printf '%s · build · %s\n' "$(date '+%Y-%m-%d %H:%M')" \
 
 On failure, log the stage and the error instead (`… errored at stage 3: <message>`) and stop. One line per run — the detail is in git.
 
+Then commit everything, so the build ends with nothing outstanding:
+
+```bash
+git add -A && git diff --cached --quiet || git commit -m "Build run: outputs and log"
+```
+
 ## Boundary
 
 Nothing in Job 1 writes to OSINT. The only Corpus→OSINT channel is the gaps request-feed (a *Not held* row asking OSINT's sweeps to fetch a named document) — a file OSINT reads, never a write.

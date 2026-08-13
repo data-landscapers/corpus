@@ -121,7 +121,13 @@ On failure, log the stage and error instead (`… errored rendering KEN-status: 
 
 ## Mirror — back up the repo (final step)
 
-After the site is rendered, committed and deployed, run the repo backup from the root:
+First make sure **all** work is committed — including the log line just written — so the mirror backs up a clean, fully-committed tree:
+
+```bash
+git add -A && git diff --cached --quiet || git commit -m "Render run: reports, site, log"
+```
+
+Then run the repo backup from the root:
 
 ```bat
 mirror.bat
