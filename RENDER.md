@@ -133,7 +133,7 @@ Then run the repo backup from the root:
 mirror.bat
 ```
 
-It mirrors the working tree and full git history to Dropbox and to `D:\CORPUS` (three legs — robocopy, `git bundle`, FreeFileSync), and appends its own dated line to `logs\mirror_log.md`. Because RENDER is the last job in the pipeline, this one call backs up everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and `logs\mirror-ffs\`.
+It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` for both, and appends a dated line to `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and `logs\mirror-ffs\`.
 
 ## If something fails
 
