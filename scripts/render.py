@@ -18,7 +18,6 @@ a downloaded PDF has to be verifiable away from the site it came from (§9).
 from __future__ import annotations
 
 import argparse
-import hashlib
 import re
 import sys
 from datetime import date
@@ -89,12 +88,6 @@ def frontmatter(text: str) -> tuple[dict, str]:
             meta[k.strip()] = v.strip().strip('"')
     return meta, body.lstrip("\n")
 
-
-def edition_hash(body: str) -> str:
-    """§9: editions are minted on content change, hashing the body below the
-    frontmatter — `compiled:` changes on every render and would otherwise mint
-    an edition nightly for a document that had not moved."""
-    return hashlib.sha256(body.encode("utf-8")).hexdigest()
 
 
 def built_from() -> str:
@@ -354,7 +347,15 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
     meta, body_md = frontmatter(raw)
 
     unit, kind = parse_name(md_path)
-    edition = edition or meta.get("compiled") or date.today().isoformat()
+    # The edition is the date this file was RENDERED, not the date the source was
+    # compiled *(Bill, 2026-08-13)*. The date exists so someone holding a download
+    # can show where it came from and when; it says nothing about content identity.
+    # Taking it from `compiled:` was the bug behind 116 dated PDFs being overwritten
+    # in place on 2026-08-13: bodies moved while `compiled:` stood still, so a
+    # changed document kept its old edition name and replaced the file a citation
+    # would have pointed at. A render date cannot do that — a re-render either
+    # writes today's name or writes nothing.
+    edition = edition or date.today().isoformat()
 
     html_body = markdown.markdown(
         body_md, extensions=["tables", "attr_list", "md_in_html", "sane_lists"]
@@ -445,9 +446,7 @@ def main() -> int:
     unit, _ = parse_name(src)
     html_path, pdf_path = render(src, args.out / unit, args.edition)
 
-    body = frontmatter(src.read_text(encoding="utf-8"))[1]
     print(f"source   {src.relative_to(CORPUS)}")
-    print(f"content  sha256 {edition_hash(body)[:12]}  (the edition key, §9)")
     def show(p: Path) -> str:
         try:
             return str(p.relative_to(CORPUS))

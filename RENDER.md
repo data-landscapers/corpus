@@ -49,19 +49,17 @@ Durable path (do later): in `scripts/render.py`, `scripts/home.py`, `scripts/cou
 
 `render.py` takes one markdown file and writes HTML + PDF into `site/reports/…`. Loop it over every report document.
 
-**Skip any monthly that still contains an unwritten-narrative marker** — most monthlies (44 of 54) have empty narrative blocks pending authoring (tracked in Corpus; do not publish a placeholder). Status and progress documents are complete and all render.
+**Render everything. RENDER does not judge its input** *(Bill, 2026-08-13)*. Whether a document is fit to publish is BUILD's responsibility — BUILD.md § Narrative integrity — and a render that second-guesses it is a second, weaker copy of that judgement in the wrong place.
 
 ```bash
-for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress-*.md; do
-  python scripts/render.py "$md" || echo "RENDER FAIL: $md"
-done
-for md in upstream/reports/*/*-monthly-*.md; do
-  grep -q 'narrative not yet written' "$md" && { echo "SKIP (empty narrative): $md"; continue; }
+for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress-*.md upstream/reports/*/*-monthly-*.md; do
   python scripts/render.py "$md" || echo "RENDER FAIL: $md"
 done
 ```
 
-Expect ~54 status + 57 progress + ~10 monthly documents rendered (the other ~44 monthlies are skipped until authored), each as HTML and PDF.
+Expect 54 status + 57 progress + 54 monthly = 165 documents, each as HTML and PDF.
+
+This replaces an earlier rule that skipped any monthly carrying an unwritten-narrative marker. Skipping was worse than useless: it never retracted what an earlier render had already published, so a withheld document kept its stale page on the site indefinitely — on 2026-08-13, `TCD-monthly` and `TGO-monthly` were still serving pages rendered on 08-11 from markdown the run had deliberately declined to publish.
 
 ## Step 3 — build the home page
 
@@ -106,12 +104,14 @@ Per-country finance is separate and already covered by Step 4: `scripts/country.
 ```bash
 # leak gate — no verbatim source body may reach the public site or outputs
 python scripts/leak-check.py site outputs || { echo "STOP: leak gate failed"; exit 1; }
-# sanity: no unwritten-narrative placeholder reached the site
-grep -rl 'narrative not yet written' site/ && echo "STOP: a placeholder was published" || echo "clean"
 # every report links only to held sources — spot check a few if desired:
 #   python scripts/report-render.py --unit KEN --check   (needs the workroot; optional)
 git add site && git commit -m "Render site from Corpus-owned outputs: reports, home, country pages"
 ```
+
+**The leak gate is the only STOP here, and that is deliberate** *(Bill, 2026-08-13)*. It guards a boundary RENDER alone can see — the moment artefacts enter a public repo — which is why it belongs at this step and fails the run.
+
+RENDER does **not** judge whether a document is fit to publish. An earlier version of this step grepped `site/` for an unwritten-narrative marker and stopped the render on a hit; it has been removed. Fitness is BUILD's responsibility (BUILD.md § Narrative integrity), and a check here could only ever be a second, weaker copy of a judgement made better upstream — one that halted every render while narratives were still being authored, protecting nothing.
 
 Deploy is unchanged (`documentation/handover.md`): the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build. Push to trigger it.
 

@@ -49,6 +49,17 @@ Commit the moved ledgers, `considered.txt`, `gaps.csv` and re-rendered docs.
 
 **The Corpus register governs the narrative** (not OSINT's §10): light touch, evidence-led, the lens carried mostly by selection, at most one plain connecting sentence per section, no new figures beyond the ledger. Full statement in `documentation/migration-report-layer.md` → *Corpus editorial register*. The evidential spine — tables, dated figures, the *Not held* count — stays exactly as disciplined as OSINT's.
 
+## Narrative integrity — BUILD owns what is fit to publish
+
+**No document may leave BUILD carrying `_(narrative not yet written)_`** *(Bill, 2026-08-13)*. Where a narrative block has no prose, BUILD does one of two things, never a third:
+
+- **remove the section**, if there is nothing to say about it; or
+- **write the sentence that explains why there is no suitable narrative** — the ledger holds no movement this period, the evidence is too thin to connect, the place has no rows under this heading. Stating the absence is itself evidence-led reporting, and it is the same discipline as publishing a *Not held* count rather than a silence.
+
+Leaving the marker in place is the third thing, and it is not available. A placeholder is a note-to-self that has escaped into a document a reader may download.
+
+**RENDER does not check this and must not.** It renders whatever BUILD produced, because a downstream guard is a second copy of a judgement that belongs here — and one that, when it existed, stopped every render instead of improving a single document. Integrity is maintained where the prose is written, not where it is typeset.
+
 ## Stage 5 — re-render (optional, mechanical)
 
 ```bash
