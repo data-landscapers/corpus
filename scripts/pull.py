@@ -38,7 +38,7 @@ BUILT_FROM = UPSTREAM / "BUILT-FROM"
 # Files in upstream/ that Corpus authors and the pull must not destroy.
 PRESERVE = {"README.md", "BUILT-FROM"}
 
-DEFAULT_OSINT = Path(os.environ.get("OSINT_PATH", r"C:\Users\bill\OSINT"))
+DEFAULT_OSINT = Path(os.environ.get("OSINT_PATH", r"C:\OSINT"))
 
 # The gate is two layers: named checks that target the actual failure mode,
 # and length caps as the backstop for anything the names miss.

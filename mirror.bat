@@ -9,8 +9,8 @@ rem  Per repo, two legs to Dropbox:
 rem    robocopy  <repo> -> Dropbox\<name>-mirror   (working tree, no .git)
 rem    git bundle --all -> Dropbox\<name>-mirror   (whole history, one file)
 rem  Then ONE FreeFileSync leg for both:
-rem    repos-to-flash.ffs_batch -> D:\   (a straight file copy of BOTH repos - the
-rem    working tree incl. .git - onto the D: flash drive; NOT the Dropbox mirrors)
+rem    repos-to-flash.ffs_batch -> D:\   (a straight file copy of both repos AND
+rem    Bill's Dropbox\Github, working tree incl. .git, to the D: flash drive; NOT the mirrors)
 rem
 rem  OSINT is READ ONLY from here: these legs read it and write the backup
 rem  elsewhere - nothing is ever written back into OSINT. budget-archive is a
@@ -51,8 +51,9 @@ set "CGB=!ERRORLEVEL!"
 if not "!CGB!"=="0" set "STATUS=FAIL"
 
 rem === leg 3: FreeFileSync straight-copies both repos to the D: flash drive ====
-rem  repos-to-flash.ffs_batch copies OSINT and CORPUS (working tree incl. .git)
-rem  directly to D:. It does NOT touch the Dropbox mirrors above. Keep
+rem  repos-to-flash.ffs_batch copies both repos (working tree incl. .git) and
+rem  Bill's Dropbox\Github straight to D: - three pairs. It does NOT touch the
+rem  Dropbox mirrors above. Keep
 rem  Errors Ignore="false" so a genuine error reaches us; FFS returns 0 = success,
 rem  non-zero = warnings, errors or cancellation.
 "C:\Program Files\FreeFileSync\FreeFileSync.exe" "%~dp0repos-to-flash.ffs_batch"
