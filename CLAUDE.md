@@ -10,7 +10,7 @@ This repo holds the Phase 3 public site: design record, prototypes, and whatever
 
 ## The OSINT repo is read-only
 
-**CC reads `C:\Users\bill\OSINT` and never writes to it.** No edits, no new files, no moves, no deletes, no git operations, no running of its procedure files. That includes `log.md`, `post-run-notes.md`, the review queues and every process file — the OSINT CLAUDE.md's "act, log after" applies to sessions run *in* OSINT, not to this project reaching across.
+**CC reads `C:\OSINT` and never writes to it.** No edits, no new files, no moves, no deletes, no git operations, no running of its procedure files. That includes `log.md`, `post-run-notes.md`, the review queues and every process file — the OSINT CLAUDE.md's "act, log after" applies to sessions run *in* OSINT, not to this project reaching across.
 
 The reason is the direction of dependency. The site is a derived view of the wiki; a derived view that writes back to its own source destroys the property that makes it derivable. OSINT is also the store of record, so a mistake there is a data loss, whereas a mistake in Corpus is a rebuild.
 
@@ -22,7 +22,7 @@ Reading is unrestricted: read any file, grep the whole tree, run read-only git c
 
 **Commit after every change, not at the end of a session** *(Bill, 2026-08-06)*. One commit per coherent change, with a terse subject saying what changed. An uncommitted working tree is the one state that is not reversible, and a session that batches its commits leaves everything since the last one at risk together.
 
-**Deletes on this folder need permission once per session.** The sandbox blocks `unlink` on the Dropbox mount by default, which does not stop a commit but leaves `.git/HEAD.lock` behind — and that stale lock makes *every subsequent* commit fail with `cannot lock ref 'HEAD'`. Call `allow_cowork_file_delete` on any path in Corpus at the start of a session and git behaves normally thereafter. If commits start failing mid-session, look for stale `.lock` and `tmp_obj_*` files under `.git/` first.
+**Deletes (Cowork sessions only).** In a Cowork session the sandbox blocks `unlink` on its mount, which does not stop a commit but leaves a stale `.git/HEAD.lock` that then makes *every subsequent* commit fail with `cannot lock ref 'HEAD'`; call `allow_cowork_file_delete` on any path in Corpus once at the start of a Cowork session. This does not apply to Claude Code running on the machine — Corpus is off Dropbox now, and there is no such tool there. The general symptom is still worth knowing either way: if commits start failing mid-session, look for stale `.lock` and `tmp_obj_*` files under `.git/` first.
 
 ## Communication with Bill
 
