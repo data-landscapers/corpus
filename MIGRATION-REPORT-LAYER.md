@@ -54,24 +54,26 @@ You've said the reports should **analyse, not only report** — that Corpus carr
 This overturns the one thing the OSINT report layer was most careful about. Its §10 register bans first person, verdicts, argumentative headings, and taking any party's framing into the report's voice — on the principle that *"a reader who cannot tell where the evidence stops and the writing starts discounts the evidence too."*
 That principle does not disappear because Corpus takes a position. It has to be **satisfied by other means**, because the evidence is exactly what earns Corpus the right to an opinion. The re-founding below is how.
 
-### Corpus editorial register — v0.1, for us to develop
+### Corpus editorial register — v0.2, light touch
 
-**One principle: keep the evidential spine incontrovertible and script-owned; let the prose carry the lens; never let the two contaminate each other.**
+**One principle: the evidence speaks; the lens decides what gets noticed and connected, and then gets out of the way.**
 
-- **The spine stays as disciplined as OSINT's.** The ledger, the tables, every dated figure, the published *Not held* count — script-emitted, cited, honest about gaps, exactly as now. This is not the place the voice lives, and its neutrality is what makes the voice credible. A reader must always be able to **take the facts and refuse the reading**; that is the test the whole thing has to pass.
-- **The narrative is where Corpus reads the evidence, openly.** Where §10 said *state the fact and stop*, Corpus says *state the fact — dated and cited — then read it, and mark the reading as a reading.* The lens is declared, not smuggled into a supposedly neutral sentence. First person and an argumentative through-line are now allowed; a bent figure or a dropped gap never is.
-- **The lens is a method, not a mood.** Sovereignty-and-colonialism gives a fixed set of questions to put to every development: who owns the infrastructure, who holds the data and under whose jurisdiction, what dependency the financing creates, whose standards are adopted, who is vendor and who is regulator. Applied uniformly, an editorial position becomes analytically rigorous rather than merely opinionated.
-- **Dialectic as structure.** The sources supply the official framing — modernisation, digital transformation, partnership — as thesis; the lens supplies the antithesis — dependency, extraction, jurisdictional capture; the synthesis is what the dated evidence actually supports, stated as Corpus's own reading. A repeatable shape, not a rhetorical flourish.
+*(Revised after Bill's steer, 2026-08-13: the position is light-touch and explicitly not polemical. The lens is a way of seeing, not a verdict laid over the facts. Most sentences in a report should be indistinguishable from the OSINT register — dated, cited, plain. The editorial hand shows in selection and in the occasional connecting sentence, rarely in an adjective and never in a charge.)*
+
+- **The spine stays as disciplined as OSINT's.** The ledger, the tables, every dated figure, the published *Not held* count — script-emitted, cited, honest about gaps, exactly as now. Its neutrality is what makes any reading credible. A reader must always be able to **take the facts and refuse the reading**; that is the test the whole thing has to pass.
+- **The prose stays factual first.** §10's discipline mostly holds: dated, attributed, no flash verbs, no staged reveals, no arguing a heading. What changes is narrow — a report may *connect* facts the lens brings together, and may name a pattern the evidence already shows, in a sentence a reader can check against the rows above it. It states the connection; it does not press it.
+- **The lens is a quiet set of questions, asked by what gets included.** Who owns the infrastructure, who holds the data and under whose jurisdiction, what dependency a financing arrangement creates, who is vendor and who is regulator. These shape which facts a section foregrounds. They rarely need to be spoken; the selection carries them.
+- **Where a reading is offered, it is visibly a reading and rests on the dated facts beside it** — one sentence, not a paragraph, and never a flourish. If the point is real, the facts above it have usually already made it, and the sentence only names it.
 
 Worked contrast, on the same facts §10 uses as its model:
 
 > **§10 (evidence, then stop):** the circular of 24 July sets no implementation deadline, scope or compliance mechanism; the estimates published the next day carry no budget line for the agency named to implement it.
 >
-> **Corpus (evidence, then read it):** the same two dated facts — then: a mandate issued without an appropriation is the ordinary form sovereignty-talk takes in practice. The state legislates a capability it has not funded, so the capability that actually gets built is the donor-financed one, and the direction of the digital estate is set by who pays rather than by who passed the law. *(The facts are unchanged and still checkable; the second paragraph is visibly a reading, and rests entirely on the first.)*
+> **Corpus, light touch:** the same two dated facts — then, at most, one plain connecting sentence: the mandate names an implementing agency the same week's estimates do not fund. *(No charge, no thesis. It states the gap between two dated documents and leaves the reader to weigh it. The polemical version — "a document rather than a programme" — is exactly what this register rules out, as §10 already did.)*
 
-**Consequences to handle.** This supersedes §10 for Corpus only — OSINT's internal reports keep it. `report-register-check.py`'s tic-scanner (which flags *we*, *our*, editorial verbs) inverts: it stops being a publication gate and becomes, at most, a consistency check on the lens. `bill-writing-style`, explicitly excluded from the OSINT reports, becomes the **target** voice here. Checks G–K (links held, prose agrees with the ledger, vocabulary, as-of honesty) all still bind — an editorial position raises the cost of an unchecked figure, it does not lower it.
+**Consequences to handle.** This supersedes §10 for Corpus only — OSINT's internal reports keep it as written. `report-register-check.py`'s tic-scanner still runs, but reports rather than gates; a connecting sentence is not a defect. Checks G–K (links held, prose agrees with the ledger, vocabulary, as-of honesty) bind unchanged — a position, however light, raises the cost of an unchecked figure, it does not lower it.
 
-**This section is v0.1 and the part I most want to argue about.** The worked example is one reading in one register; the right voice is something we find by drafting a real report and iterating on it, not by settling it on paper first.
+**This section is v0.2 and the part we develop dialectically.** The right voice is something we find by drafting a real report — South Africa is the test case — and pushing on it, not by settling it on paper.
 
 ## The gaps loop still crosses the boundary
 
