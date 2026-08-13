@@ -1,124 +1,104 @@
 ---
 type: proposal
-title: Migrating the report layer from OSINT to Corpus
+title: Migrating and re-founding the output layer in Corpus
 last_reviewed: 2026-08-13
-status: draft for Bill's review
+status: agreed in principle; editorial register is v0.1, to be developed dialectically
 ---
 
-# Migrating the report layer — REPORT-UPDATE and REPORT-LINT — into Corpus
+# Migrating the output layer from OSINT to Corpus — and giving it a voice
 
-*(A proposal, not a change. Nothing here has been actioned. It reviews the current arrangement, states what should move and what must not, and sets out a phased way to do it. Written to Corpus conventions: one line per paragraph.)*
+*(Revised 2026-08-13 after Bill's steer. Two things changed from the first draft: the scope is now **all of `outputs/`**, not just the reports; and the reports acquire a **declared editorial position** rather than staying register-neutral. Written to Corpus conventions: one line per paragraph.)*
 
-## The problem, stated plainly
+## The boundary, restated
 
-`SWEEP-CYCLE` runs nightly in OSINT and is now managed by a colleague who holds sole write on that repo.
-It is consuming too many tokens, and the ask is to spread the load by moving the report-writing half of the night out of OSINT and into Corpus.
-The natural candidates are the two passes that *write prose*: `REPORT-UPDATE` (brings the country and region reports forward each night) and the report-layer half of `REPORT-LINT` (verifies what those reports publish).
-Everything else in the night — collection and classification — stays where it is.
+**OSINT collects and classifies. Corpus compiles, reports, and analyses.**
 
-## Where the cost actually is
+That is the clean line, and everything follows from it.
+OSINT owns the evidence: `raw/` (sources with their structured frontmatter — finance records, budget lines, facets), `index/`, `lookups/`, and the internal `wiki/` synthesis (hubs, entities, concepts). It runs the sweeps, `INGEST`, `UPDATE-WIKI`, `HUB-COMPILE`, `LINT`.
+Corpus owns everything derived for a reader: the catalogue, the non-state-finance CSVs, the budget CSVs, and the report-and-analysis layer. It reads OSINT's `raw/` and `lookups/` read-only — the access it already has — and writes nothing back.
 
-The expensive thing in the report layer is a **model reading sources and editing prose**, not the scripts around it.
-`report-scan.py`, `report-render.py`, `report-lint.py` and `report-register-check.py` are cheap: the scan is a set-difference over slugs, the renderer rebuilds tables from a CSV, the linters read and compare.
-`REPORT-UPDATE`'s tokens go on step 2 of its run — one sub-agent per unit reading the night's new sources against that unit's ledger and deciding, per source, whether a row moved.
-That is the load to relocate. The scripts come with it because they are its scaffolding, but they are not what costs.
+This is confirmed feasible in the code. Every output derives from read-only inputs: `build-catalogue.py` reads `raw/`; `build-finance-page.py` reads finance and budget records out of `raw/` plus two `lookups/` tables; the report scripts read `raw/`, `index/`, `lookups/`. Nothing that produces an output needs to write into OSINT.
 
-This matters because it tells us the migration is clean: we are moving a *reading-and-writing* job that already runs off a well-defined, file-based interface, not untangling logic knotted into the sweep.
+## What Corpus now owns
 
-## What the report layer reads and writes today
+- **The catalogue** — `build-catalogue.py`, `raw/` → `outputs/catalogue/`.
+- **Non-state finance** — `build-finance-page.py`, `raw/` → `outputs/non-state-finance/`.
+- **Budget CSVs** — the same script, `raw/` budget records → `outputs/budgets/`. The **compile** is Corpus's; the suspended **extraction** of new budget data from PDFs (`BUDGET-EXTRACT`, `new-budget/`) is collection work and stays with OSINT.
+- **The report-and-analysis layer** — `REPORT-UPDATE`, the report checks, and the ledgers/gaps/issued documents, relocated into Corpus and authored here.
 
-`REPORT-UPDATE` and report-layer `REPORT-LINT` touch six things, all inside OSINT:
+## What stays with OSINT
 
-- **reads** `raw/` — the night's ingested sources, the input the pass reads (private verbatim bodies; ~2.8 GB).
-- **reads** `index/` — slug→URL resolution, needed to render links and to run check G.
-- **reads** `lookups/` — `countries.csv`, `taxonomy.md`, `report-*-sections.csv`, `financier-names.csv`.
-- **reads and writes** `outputs/reports/{unit}/ledger.csv` and `gaps.csv` — the record layer the whole thing maintains.
-- **reads and writes** `outputs/reports/{unit}/considered.txt` — the pass's own memory of which slugs it has read (the set-difference state).
-- **writes** `outputs/reports/{unit}/{unit}-status.md` and the dated `monthly`/`progress` issues — the published documents.
+- Collection and classification — all sweeps, `INGEST`, `UPDATE-WIKI` — the nightly load the colleague keeps.
+- The internal wiki compiles — `HUB-COMPILE`, and the hub-`## Financing` prose. **The hubs are private wiki navigation the site never publishes**, so they and the checks that verify them (`REPORT-LINT` B, C, E, F) stay OSINT-side. Corpus takes the checks that verify *its* outputs: **A** (finance CSVs rebuild from records), **D** (financier display names), and **G–K** (the reports).
+- `LINT` and vault hygiene.
 
-The site already consumes the last three: `build/pull.py` copies OSINT's committed `outputs/reports/` into Corpus's `upstream/`, and the renderers turn them into `site/`.
+## The hub coupling — the one seam to name
 
-## The core move
+`FINANCE-COMPILE` does two jobs from one aggregation: it writes the CSVs (now Corpus's) and it rewrites each hub's `## Financing` prose (OSINT-internal wiki).
+After the split, OSINT's hub compile needs the finance numbers, which Corpus now produces.
+Recommended resolution: OSINT's hub compile re-derives its numbers from `raw/` directly (it can — the aggregation is a pure function of `raw/`), so neither repo depends on the other's build order. Corpus reads `raw/` for the CSVs; OSINT reads `raw/` for the hub prose; the shared truth is `raw/`, not either output. This is worth confirming with the colleague and recording as a standing constraint.
 
-**The report layer's own state — ledgers, gaps, considered, and the issued documents — moves out of OSINT and into Corpus, and Corpus authors it in place.**
+## What we agreed
 
-Once it lives in Corpus, the round-trip disappears.
-Today the report state sits in OSINT, is written by OSINT's nightly pass, is pulled into Corpus, and is rendered.
-After the move, Corpus reads OSINT's `raw/`, `index/` and `lookups/` (read-only, which is exactly the access it already has), maintains the ledgers itself, and renders the site directly from state it owns.
-OSINT stops carrying report state and stops spending a model on it.
+- **Run manually for now**, schedule once bedded down.
+- **Port the scripts** into Corpus `build/` and maintain them there.
+- **Go straight to Phase 2** — Corpus becomes the single, authoritative home of the output layer; no parallel-run gate.
+- **Rewrite the in-flight monthlies** rather than ageing them out — in line with the editorial reframing below.
+- **Note 6 is moot** — Corpus builds its own ledgers clean, so the old count discrepancy does not carry over.
+- **Nothing in `outputs/` was ever public** — it was all build-phase. So the immutability and never-reissue-a-slug constraints do not bind retroactively; Corpus is free to re-cut the whole layer. They begin to bind at public launch, not before.
+- **Sunday target (assumed): a full outputs rebuild.** OSINT is frozen until Sunday and credits are expensive, so the milestone is that Corpus can regenerate *all* of `outputs/` — catalogue, finance, budgets, report ledgers — from the frozen `raw/` snapshot, proving it no longer needs OSINT to write. Say if you meant something narrower.
 
-This fits the set-difference design perfectly. The scan asks "which slugs in `raw/` are not yet in my ledger or my `considered.txt`?"
-`raw/` stays in OSINT and is read-only to Corpus; the ledger and `considered.txt` move to Corpus and are written by Corpus.
-The question is answerable across the boundary because the two halves it compares sit on the correct sides of it — the source of record stays put, the memory of what has been read moves with the reader.
+## The reframing: reports with a declared position
 
-## What moves, what stays
+You've said the reports should **analyse, not only report** — that Corpus carries a noticeable editorial position, the sovereignty-and-colonialism lens as the leading example, developed dialectically.
+This overturns the one thing the OSINT report layer was most careful about. Its §10 register bans first person, verdicts, argumentative headings, and taking any party's framing into the report's voice — on the principle that *"a reader who cannot tell where the evidence stops and the writing starts discounts the evidence too."*
+That principle does not disappear because Corpus takes a position. It has to be **satisfied by other means**, because the evidence is exactly what earns Corpus the right to an opinion. The re-founding below is how.
 
-**Moves to Corpus:**
+### Corpus editorial register — v0.1, for us to develop
 
-- `REPORT-UPDATE` — the nightly pass, as a Corpus procedure with its own trigger and cadence.
-- The report-layer checks of `REPORT-LINT` — **G, H, I, J, K** — plus `report-register-check.py` (§10 register and word budget). These verify the reports, which Corpus now owns.
-- The report state — `outputs/reports/**` — relocated to a Corpus-owned tree (proposed `reports/` in Corpus, rendered into `site/` as now).
-- The scripts these passes call — `report-scan.py`, `report-render.py`, the G–K portion of `report-lint.py`, `report-register-check.py`, `report-country-init.py`, `report-region-init.py`, and their shared `vault_lib` — ported into `build/`.
+**One principle: keep the evidential spine incontrovertible and script-owned; let the prose carry the lens; never let the two contaminate each other.**
 
-**Stays in OSINT (the colleague's daily job):**
+- **The spine stays as disciplined as OSINT's.** The ledger, the tables, every dated figure, the published *Not held* count — script-emitted, cited, honest about gaps, exactly as now. This is not the place the voice lives, and its neutrality is what makes the voice credible. A reader must always be able to **take the facts and refuse the reading**; that is the test the whole thing has to pass.
+- **The narrative is where Corpus reads the evidence, openly.** Where §10 said *state the fact and stop*, Corpus says *state the fact — dated and cited — then read it, and mark the reading as a reading.* The lens is declared, not smuggled into a supposedly neutral sentence. First person and an argumentative through-line are now allowed; a bent figure or a dropped gap never is.
+- **The lens is a method, not a mood.** Sovereignty-and-colonialism gives a fixed set of questions to put to every development: who owns the infrastructure, who holds the data and under whose jurisdiction, what dependency the financing creates, whose standards are adopted, who is vendor and who is regulator. Applied uniformly, an editorial position becomes analytically rigorous rather than merely opinionated.
+- **Dialectic as structure.** The sources supply the official framing — modernisation, digital transformation, partnership — as thesis; the lens supplies the antithesis — dependency, extraction, jurisdictional capture; the synthesis is what the dated evidence actually supports, stated as Corpus's own reading. A repeatable shape, not a rhetorical flourish.
 
-- `SWEEP-CYCLE`, all sweeps, `INGEST`, `UPDATE-WIKI` — collection and classification, unchanged. This is the load the colleague keeps.
-- `HUB-COMPILE`, `FINANCE-COMPILE`, `LINT` — the compiles and vault hygiene.
-- The **finance and hub checks of `REPORT-LINT` — A, B, C, D, E, F**. These verify OSINT's *own* compiles (non-state-finance exports, hub Financing and Recent-developments prose), and they already run as `FINANCE-COMPILE`'s last step. They should stay next to what they check. Only the report checks G–K travel.
-- `outputs/budgets/`, `outputs/non-state-finance/`, `outputs/catalogue/` — Corpus keeps pulling these as it does today.
+Worked contrast, on the same facts §10 uses as its model:
 
-So `REPORT-LINT` splits along the seam that already exists inside it: A–F stay and verify OSINT's compiles; G–K move and verify Corpus's reports.
+> **§10 (evidence, then stop):** the circular of 24 July sets no implementation deadline, scope or compliance mechanism; the estimates published the next day carry no budget line for the agency named to implement it.
+>
+> **Corpus (evidence, then read it):** the same two dated facts — then: a mandate issued without an appropriation is the ordinary form sovereignty-talk takes in practice. The state legislates a capability it has not funded, so the capability that actually gets built is the donor-financed one, and the direction of the digital estate is set by who pays rather than by who passed the law. *(The facts are unchanged and still checkable; the second paragraph is visibly a reading, and rests entirely on the first.)*
 
-## The one hard problem: the gaps loop crosses the boundary
+**Consequences to handle.** This supersedes §10 for Corpus only — OSINT's internal reports keep it. `report-register-check.py`'s tic-scanner (which flags *we*, *our*, editorial verbs) inverts: it stops being a publication gate and becomes, at most, a consistency check on the lens. `bill-writing-style`, explicitly excluded from the OSINT reports, becomes the **target** voice here. Checks G–K (links held, prose agrees with the ledger, vocabulary, as-of honesty) all still bind — an editorial position raises the cost of an unchecked figure, it does not lower it.
 
-The report layer is not a dead end. It feeds a loop: a ***Not held*** row becomes a line in `gaps.csv`, which becomes a brief for `SWEEP-COUNTRY-DEEP` and an acquisition request for `ACQUIRE`; `ACQUIRE` fetches the document into `raw/` and stamps `probe_at`; the next report reads the new source and settles the gap.
-Today that loop closes inside one repo. After the move, its two halves sit in different repos owned by different people, and Corpus cannot write to OSINT.
+**This section is v0.1 and the part I most want to argue about.** The worked example is one reading in one register; the right voice is something we find by drafting a real report and iterating on it, not by settling it on paper first.
 
-This is exactly what point 9 of your message anticipates, and the mechanism already half-exists.
-`NOTES-FOR-OSINT.md` is Corpus's write-nothing channel into OSINT: Corpus records a finding, the colleague actions it in an OSINT session.
-The gaps loop needs a dedicated, machine-readable version of the same idea — call it a **request feed** that Corpus writes and OSINT reads:
+## The gaps loop still crosses the boundary
 
-- When Corpus's report pass mints a ***Not held*** row that names a fetchable document, it appends a line to `reports/requests-for-osint.csv` (in Corpus) rather than to OSINT's `acquisitions.md`.
-- The colleague's OSINT passes read that feed, fetch or sweep for the named documents, and ingest what they find into `raw/` in the ordinary way.
-- Corpus's next nightly scan sees the new source arrive in `raw/` through its set-difference, settles the gap, and stamps `probe_at` **itself** — because it now owns the ledger.
+Unchanged from the first draft, and still the one hard coupling. A *Not held* row becomes a research brief; OSINT's sweeps are what chase it; Corpus can't write to OSINT.
+Mechanism: Corpus writes a machine-readable **request feed** (`reports/requests-for-osint.csv`) that OSINT reads on its own schedule; OSINT fetches and ingests into `raw/`; Corpus's next scan sees the new source arrive and settles the gap itself, stamping `probe_at` — which moves to Corpus with the ledger. `raw/` is the return channel it already is. Nothing in Corpus blocks on OSINT having acted.
 
-That keeps write-ownership clean on both sides and uses `raw/` as the shared channel it already is.
-`probe_at` stamping moves from `ACQUIRE` to Corpus, which is correct once Corpus owns the ledger the stamp lives in.
-The feed is a contract, not a coupling: OSINT reads it or not on its own schedule, and nothing in Corpus blocks on OSINT having acted.
+## Standing constraints to agree with the colleague
 
-## What has to be agreed with the colleague as standing constraints
+The mirror of the constraints already atop `NOTES-FOR-OSINT.md`, now that Corpus depends on OSINT's evidence:
 
-The migration adds Corpus dependencies on OSINT that OSINT must not break silently, the mirror image of the constraints already at the top of `NOTES-FOR-OSINT.md`:
+- `raw/`, `index/` and `lookups/` stay git-tracked and committed — Corpus reads committed `HEAD`.
+- Slugs in `raw/` stay stable — a re-slugged source reads as new to Corpus.
+- The hub compile re-derives from `raw/`, not from Corpus's CSVs — no cross-repo build-order dependency.
+- The request feed is honoured on some cadence, or the gaps loop stops draining.
 
-- **`raw/`, `index/` and `lookups/` stay git-tracked and committed.** Corpus reads OSINT's committed `HEAD`; a pass that stops committing them stops the reports updating with no error.
-- **Slugs in `raw/` remain stable identifiers** — a re-slugged source reads to Corpus as a new source and a vanished old one.
-- **The request feed is honoured on some cadence**, or the gaps loop stops draining and the reports slowly fill with un-chased ***Not held*** rows.
+## Revised phasing — straight to Phase 2, against the frozen snapshot
 
-These belong in `NOTES-FOR-OSINT.md` as new standing constraints, and in OSINT's own `CLAUDE.md` once the colleague accepts them.
+**Phase 2a — port and rebuild (before Sunday).** Port the output scripts into `build/`, pointed at OSINT's frozen `raw/`/`index/`/`lookups/` read-only. Rebuild all of `outputs/` into a Corpus-owned tree from the snapshot. This is the proof of independence and the Sunday milestone.
 
-## Open decisions for you to settle
+**Phase 2b — re-found the report layer with the new register.** Rebuild the ledgers clean (Note 6 moot), and draft one real report under the v0.1 editorial register — a live test of the voice, the thing we iterate on together. Rewrite the in-flight monthlies to match once the register settles.
 
-I have made a recommendation on each; these are the points where I should not simply assume.
+**Phase 2c — cut the site over.** Render the site from Corpus-owned state; retire the report/finance/catalogue halves of `build/pull.py`. Add the final verification: a full render + A, D, G–K over every unit before anything is called authoritative.
 
-1. **Cadence and trigger.** `REPORT-UPDATE` no longer rides inside `SWEEP-CYCLE`, so it needs its own clock. Recommended: a Corpus scheduled task that runs after OSINT's nightly cycle has committed, keyed off a new OSINT commit touching `raw/`. Alternative: you run it by hand when you want the site current.
-2. **Scripts — port or call.** Recommended: copy the report scripts into Corpus `build/` and maintain them there, since Corpus can't depend on OSINT's working tree and the two repos now have different owners. Cost: `vault_lib` and the section lookups get a second home that must be kept in step — mitigated by pulling the lookups into `upstream/` (this is already open note 9).
-3. **Where finance checks A–F run.** Recommended: leave them in OSINT with `FINANCE-COMPILE`. Alternative: Corpus re-runs them read-only over what it pulls, as a gate before publishing. The second is belt-and-braces and costs little.
-4. **Migrating in-flight `monthly` prose.** The 2026-08-10 marker-granularity change already left existing monthlies un-migrated (report-layer §5). Moving repos is a natural moment to decide whether to re-sort that prose or let it age out. Recommended: let it age out; migrate none.
-5. **Note 6 (Kenya's ledger count disagrees across three files) blocks trusting the ledger.** It should be resolved *before* Corpus takes ownership, not after, so Corpus starts from a ledger it can trust.
+**Phase 3 — close the loop (after Sunday, needs OSINT).** Stand up the request feed, move `probe_at` into Corpus, confirm a gap minted in Corpus reaches OSINT's sweeps and returns as a source.
 
-## A phased way to do it
+## What this buys
 
-**Phase 0 — settle preconditions.** Resolve note 6 (ledger-count discrepancy). Agree the three standing constraints with the colleague. Decide the five open questions above.
-
-**Phase 1 — Corpus reads, OSINT still writes.** Port the report scripts into `build/` and point them at OSINT's `raw/`/`index/`/`lookups/` read-only and at a *copy* of the report state. Run `REPORT-UPDATE` and G–K from Corpus in parallel with OSINT's, and diff the two outputs until they agree. Nothing is authoritative yet; this is the correctness gate.
-
-**Phase 2 — hand over ownership.** OSINT drops `REPORT-UPDATE` and G–K from `SWEEP-CYCLE` (the token saving lands here). The report state relocates to Corpus as the single copy. Corpus renders the site from state it owns; the report half of `build/pull.py` retires, the finance/budget/catalogue half stays.
-
-**Phase 3 — close the loop.** Stand up `reports/requests-for-osint.csv`, move `probe_at` stamping into Corpus, and confirm gaps minted in Corpus reach OSINT's sweeps and come back as sources. Add a final verification step: a full render + G–K pass over every unit, checked against the last OSINT-authored issues, before the first Corpus-authored issues are published.
-
-## What this buys, and what it costs
-
-The night in OSINT loses its most expensive model step, which is the point.
-Corpus gains a writing job, but it runs on Corpus's budget and cadence, decoupled from the sweep — a heavy sweep night no longer drags the reports, and a slow report night no longer delays the catch.
-The cost is a second home for the report scripts and a new cross-repo contract for the gaps loop, both manageable and both using channels (`raw/`, `NOTES-FOR-OSINT.md`) that already exist.
-The deepest benefit is architectural: the site becomes a view of report state it *owns and authors*, rather than a mirror of state written in a repo it isn't allowed to touch — which is a more honest shape for a derived public surface than the current round-trip.
+OSINT's night sheds not just the report writing but the whole compile-for-reading half, which is the token relief you're after.
+Corpus stops being a mirror of state written in a repo it may not touch, and becomes what it should be: the place the evidence is compiled, read, and given a position — owning its outputs and authoring its voice.
+The deepest change is the last one. A derived view with no opinion was always a slightly false shape for this project; the published work at data-landscapers.com already has a position, and the reports that feed it can now share it — openly, and resting on evidence disciplined enough to carry the weight.
