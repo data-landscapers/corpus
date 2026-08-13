@@ -9,11 +9,12 @@ rem  Per repo, two legs to Dropbox:
 rem    robocopy  <repo> -> Dropbox\<name>-mirror   (working tree, no .git)
 rem    git bundle --all -> Dropbox\<name>-mirror   (whole history, one file)
 rem  Then ONE FreeFileSync leg for both:
-rem    Repo-mirrors.ffs_batch -> D:\   (full copies incl. .git; pairs for both repos)
+rem    repos-to-flash.ffs_batch -> D:\   (a straight file copy of BOTH repos - the
+rem    working tree incl. .git - onto the D: flash drive; NOT the Dropbox mirrors)
 rem
 rem  OSINT is READ ONLY from here: these legs read it and write the backup
 rem  elsewhere - nothing is ever written back into OSINT. budget-archive is a
-rem  junction in OSINT (/XJ stops robocopy following it; it has its own FFS pair).
+rem  junction in OSINT; /XJ stops robocopy following it into a second Dropbox copy.
 rem  CORPUS's .workroot is transient symlinks into OSINT (/XD keeps it out).
 rem
 rem  robocopy returns a BIT FIELD: 0-7 are all success, only >=8 is a real
@@ -49,11 +50,12 @@ git -C "%CORPUS%" bundle create "%CORPUS_DBX%\corpus.bundle" --all
 set "CGB=!ERRORLEVEL!"
 if not "!CGB!"=="0" set "STATUS=FAIL"
 
-rem === leg 3: FreeFileSync to D: (Repo-mirrors carries pairs for both repos) ===
-rem  Keep Errors Ignore="false" in the .ffs_batch so a genuine error reaches us.
-rem  FFS: 0 = success, non-zero = warnings, errors or cancellation; its per-run
-rem  logs land in logs\mirror-ffs\.
-"C:\Program Files\FreeFileSync\FreeFileSync.exe" "%~dp0Repo-mirrors.ffs_batch"
+rem === leg 3: FreeFileSync straight-copies both repos to the D: flash drive ====
+rem  repos-to-flash.ffs_batch copies OSINT and CORPUS (working tree incl. .git)
+rem  directly to D:. It does NOT touch the Dropbox mirrors above. Keep
+rem  Errors Ignore="false" so a genuine error reaches us; FFS returns 0 = success,
+rem  non-zero = warnings, errors or cancellation.
+"C:\Program Files\FreeFileSync\FreeFileSync.exe" "%~dp0repos-to-flash.ffs_batch"
 set "FF=!ERRORLEVEL!"
 if not "!FF!"=="0" set "STATUS=FAIL"
 
@@ -64,7 +66,7 @@ if not exist "%CORPUS%\logs" mkdir "%CORPUS%\logs"
 if "!STATUS!"=="FAIL" (
   echo.
   echo mirror.bat: FAILED - osint(robocopy=!ORC! bundle=!OGB!) corpus(robocopy=!CRC! bundle=!CGB!) ffs=!FF!
-  echo   see %LOG% and logs\mirror-ffs\
+  echo   see %LOG% and the FreeFileSync log
   endlocal & exit /b 1
 )
 
