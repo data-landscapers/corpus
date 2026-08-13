@@ -1,41 +1,56 @@
 #!/usr/bin/env python3
-"""rebuild.py — regenerate Corpus-owned outputs/ from OSINT's read-only evidence.
+"""rebuild.py — JOB 1: build Corpus-owned outputs/ from OSINT's read-only evidence.
 
-Corpus compiles, reports and analyses; OSINT collects and classifies. This driver
-reads OSINT's committed raw/, index/ and lookups/ (never writing to them) and rebuilds
-the derived layer Corpus owns and serves: the catalogue, the non-state-finance and
-budget CSVs, and the report-table renders (narrative blocks are authored per report and
-carried across untouched by report-render).
+The site is two jobs. This is the first.
 
-The toolchain in build/toolchain/ resolves paths against its own parent as repo ROOT,
-so we run it from a work root whose raw/, index/, lookups/ are read-only symlinks into
-OSINT and whose outputs/ is Corpus's own tree.
+  JOB 1 (this script)  OSINT (raw + wiki, read-only)  ->  Corpus outputs/
+  JOB 2 (render)       Corpus outputs/                 ->  Corpus site/     (build/RENDER-RUNBOOK.md)
+
+Corpus compiles, reports and analyses; OSINT collects and classifies. This driver reads
+OSINT's committed raw/, index/ and lookups/ and writes only into Corpus's own outputs/.
+**It never writes to OSINT.**
+
+Job 1 has two kinds of work. The deterministic *compiles* below are pure functions of
+raw/ and run here. The *report layer* (ledgers and narrative) and *topics* are model
+authoring passes — report-render rebuilds their tables from the ledger and carries the
+authored narrative across, but the authoring itself (initialisation from the wiki, the
+nightly update from new sources, topics) is a model run, not this script. Those stages
+are named below and left to the authoring pass; this driver produces everything scriptable
+and renders whatever ledgers already exist.
+
+Stages
+  1. vocab      snapshot lookups/{countries.csv,taxonomy.md} -> build/vocab/   (so JOB 2
+                never has to read outside outputs/ — NOTES-FOR-OSINT #9)
+  2. catalogue  raw/ -> outputs/catalogue/{raw-catalogue.csv,json}
+  3. finance    raw/ -> outputs/non-state-finance/ + outputs/budgets/ (+ all-nonstate.csv)
+  4. reports    ledger -> outputs/reports/{unit}/*.md  (tables rebuilt, narrative carried)
+  5. summary    what was produced
 
   OSINT_PATH   where OSINT is checked out (default: the mounted OSINT folder)
-  python build/rebuild.py --catalogue --finance --reports ZAF
-  python build/rebuild.py --all           # catalogue + finance(all) + all report tables
+  python build/rebuild.py --all                 # vocab + catalogue + finance + summary
+  python build/rebuild.py --all --reports all   # ...and re-render every report's tables
+  python build/rebuild.py --reports ZAF KEN     # re-render specific units only
 """
-import argparse, os, subprocess, sys, glob
+import argparse, csv, glob, json, os, shutil, subprocess, sys
 
-CORPUS = os.path.dirname(os.path.abspath(__file__ + "/.."))
 CORPUS = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 OSINT = os.environ.get("OSINT_PATH", "/sessions/dazzling-intelligent-brown/mnt/OSINT")
 TOOLCHAIN = os.path.join(CORPUS, "build", "toolchain")
 WORK = os.path.join(CORPUS, "build", ".workroot")     # gitignored; symlinks + a view onto outputs
 OUTPUTS = os.path.join(CORPUS, "outputs")
+VOCAB = os.path.join(CORPUS, "build", "vocab")
+
 
 def setup_workroot():
     os.makedirs(WORK, exist_ok=True)
     os.makedirs(OUTPUTS, exist_ok=True)
     for name in ("raw", "index", "lookups"):
-        link = os.path.join(WORK, name)
-        target = os.path.join(OSINT, name)
+        link, target = os.path.join(WORK, name), os.path.join(OSINT, name)
         if os.path.islink(link) or os.path.exists(link):
             if os.path.realpath(link) == os.path.realpath(target):
                 continue
             os.remove(link)
         os.symlink(target, link)
-    # scripts and outputs are views, not copies
     for name, target in (("scripts", TOOLCHAIN), ("outputs", OUTPUTS)):
         link = os.path.join(WORK, name)
         if not (os.path.islink(link) and os.path.realpath(link) == os.path.realpath(target)):
@@ -43,31 +58,72 @@ def setup_workroot():
                 os.remove(link)
             os.symlink(target, link)
 
+
 def run(*args):
     print("  $", " ".join(str(a) for a in args))
     subprocess.run([sys.executable, os.path.join("scripts", args[0]), *map(str, args[1:])],
                    cwd=WORK, check=True)
 
+
+def snapshot_vocab():
+    os.makedirs(VOCAB, exist_ok=True)
+    for name in ("countries.csv", "taxonomy.md"):
+        shutil.copyfile(os.path.join(OSINT, "lookups", name), os.path.join(VOCAB, name))
+    print(f"  vocab -> build/vocab/ ({', '.join(os.listdir(VOCAB))})")
+
+
+def summary():
+    def count_csv(path):
+        try:
+            with open(path, encoding="utf-8-sig") as fh:
+                return max(0, sum(1 for _ in fh) - 1)
+        except FileNotFoundError:
+            return "—"
+    cat = count_csv(os.path.join(OUTPUTS, "catalogue", "raw-catalogue.csv"))
+    deals = count_csv(os.path.join(OUTPUTS, "non-state-finance", "all-nonstate.csv"))
+    fin = len(glob.glob(os.path.join(OUTPUTS, "non-state-finance", "*-nonstate.csv")))
+    bud = len(glob.glob(os.path.join(OUTPUTS, "budgets", "*-budget.csv")))
+    units = sorted(os.path.basename(p) for p in glob.glob(os.path.join(OUTPUTS, "reports", "*"))
+                   if os.path.isdir(p))
+    status = len(glob.glob(os.path.join(OUTPUTS, "reports", "*", "*-status.md")))
+    print("\nJOB 1 outputs/ —")
+    print(f"  catalogue records : {cat}")
+    print(f"  finance places    : {fin}   deals : {deals}   budget files : {bud}")
+    print(f"  report units      : {len(units)}   status docs : {status}")
+    print(f"  -> {OUTPUTS}")
+
+
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--all", action="store_true")
+    ap = argparse.ArgumentParser(description="JOB 1 — build Corpus outputs/ from OSINT")
+    ap.add_argument("--all", action="store_true", help="vocab + catalogue + finance + summary")
+    ap.add_argument("--vocab", action="store_true")
     ap.add_argument("--catalogue", action="store_true")
     ap.add_argument("--finance", action="store_true")
     ap.add_argument("--reports", nargs="*", metavar="ISO3",
-                    help="render report tables for these units (carries narrative across)")
+                    help="re-render report tables for these units (or 'all')")
     a = ap.parse_args()
     setup_workroot()
+
+    if a.all or a.vocab:
+        print("stage 1 — vocab snapshot:"); snapshot_vocab()
     if a.all or a.catalogue:
-        print("catalogue:"); run("build-catalogue.py")
+        print("stage 2 — catalogue:"); run("build-catalogue.py")
     if a.all or a.finance:
-        print("finance (all places):"); run("build-finance-page.py", "--all")
-    units = a.reports if a.reports else (["--all"] if a.all else [])
-    if units == ["--all"]:
+        print("stage 3 — finance + budgets (all places):"); run("build-finance-page.py", "--all")
+
+    units = a.reports or []
+    if units == ["all"] or units == ["--all"]:
         units = sorted(os.path.basename(p) for p in glob.glob(os.path.join(OUTPUTS, "reports", "*"))
                        if os.path.isdir(p))
-    for u in units:
-        print(f"report tables: {u}"); run("report-render.py", "--unit", u, "--render")
-    print("done ->", OUTPUTS)
+    if units:
+        print(f"stage 4 — report tables ({len(units)} units):")
+        for u in units:
+            run("report-render.py", "--unit", u, "--render")
+
+    summary()
+    print("\nnot in this driver (model authoring / deferred): report initialisation from "
+          "wiki, nightly report update, monthly narratives, topics.")
+
 
 if __name__ == "__main__":
     main()
