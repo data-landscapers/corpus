@@ -1,13 +1,15 @@
 ---
 type: doc
 title: Phase 3 — the public site
-status: design, nothing built
+status: built and deployed; current architecture is documentation/migration-report-layer.md (see banner)
 last_reviewed: 2026-08-06
 ---
 
+> **Superseded in part (2026-08-13).** `documentation/migration-report-layer.md` is the current architecture: Corpus now **authors** the output layer (Job 1 — BUILD.md) and renders it (Job 2 — RENDER.md), rather than pulling `outputs/` from OSINT. §8 below describes that earlier pull model; its reasoning on editions, verification and the folder-is-the-rule discipline still holds, but where the two disagree on how data reaches the site, the migration doc wins. Code moved from `build/` to `scripts/` the same day.
+
 # Phase 3 — the public site
 
-*(Design record, opened 2026-08-05. Phase 3 of the three-phase plan — automated collection → automated reporting → public website. Nothing here is built. This file holds what has been settled, what follows from it, and what is still open; it is revised, not appended to. When the site build lands, the runnable parts move to a root procedure file and this file keeps only the reasoning.)*
+*(Design record, opened 2026-08-05. Phase 3 of the three-phase plan — automated collection → automated reporting → public website. Now built and deployed — the architecture below is partly superseded (see the banner above). This file holds what has been settled, what follows from it, and what is still open; it is revised, not appended to. When the site build lands, the runnable parts move to a root procedure file and this file keeps only the reasoning.)*
 
 ## What it is
 
@@ -32,7 +34,7 @@ Decisions taken and not to be re-opened without a reason. Each is a decision Bil
 
 | Surface | Source | Notes |
 |---|---|---|
-| Catalogue | `outputs/catalogue/raw-catalogue.{json,csv}` | 7,770 records; metadata only, never bodies |
+| Catalogue | `outputs/catalogue/raw-catalogue.{json,csv}` | 9,407 records; metadata only, never bodies |
 | Country reports | `outputs/reports/{ISO3}/` | Status, monthly update, twelve-month progress |
 | Regional reports | `REPORT-REGION.md` (written 2026-08) | Progress only — the status and monthly reports are not issued for a region |
 | Topic reports | *(REPORT-TOPIC.md, unwritten)* | A Level-1 category, or one Level-2 slug, across places |
@@ -66,7 +68,7 @@ These are what distinguish the site from every other Africa-digital dashboard. T
 
 ## 5. Prototypes
 
-- `prototypes/catalogue-prototype.html` — working browse-and-filter over all 7,770 real catalogue records. Facet counts recompute against the *other* active filters so a reader never clicks into an empty result; type-ahead inside the long lists (62 places, 38 topics); filter state in the URL hash so a filtered view is citable. Double-click to open; no server.
+- `prototypes/catalogue-prototype.html` — working browse-and-filter over all 9,407 real catalogue records. Facet counts recompute against the *other* active filters so a reader never clicks into an empty result; type-ahead inside the long lists (62 places, 38 topics); filter state in the URL hash so a filtered view is citable. Double-click to open; no server.
 - `prototypes/build-catalogue-data.py` — regenerates the prototype's data file (`prototypes/catalogue-data.js`). Bespoke scaffolding; delete all three when the real build lands.
 - `prototypes/record-viewer.html`, in the OSINT repo — the earlier record-rendering prototype. Its palette is the working basis for the site's.
 
@@ -74,7 +76,7 @@ The first two live in this repo (Corpus); paths above are relative to it. Moved 
 
 ## 6. Open
 
-- **Serving shape of the catalogue.** 5.9 MB JSON at 7,770 records; ~23 MB at the 30,000 projected for spring 2027. A single fetch stops being defensible around 15–20k rows. `raw/` is already sharded by year, so sharding the catalogue the same way is nearly free — but the boundary is expensive to move once anything external consumes the file. Decide before launch, not when it breaks.
+- **Serving shape of the catalogue.** ~7.2 MB JSON at 9,407 records; ~23 MB at the 30,000 projected for spring 2027. A single fetch stops being defensible around 15–20k rows. `raw/` is already sharded by year, so sharding the catalogue the same way is nearly free — but the boundary is expensive to move once anything external consumes the file. Decide before launch, not when it breaks.
 - **The home page.** It has to say what this is, to someone arriving from a link, in about eight seconds, without becoming a dashboard. Hardest page on the site.
 
 ## 7. Preconditions
@@ -122,13 +124,13 @@ The cost is real and it compounds, because git does not forget a binary. At full
 upstream/          pulled from OSINT outputs/, 1:1 — never hand-edited
   BUILT-FROM       the OSINT SHA this copy was taken from
   budgets/ catalogue/ non-state-finance/ reports/
-build/             the pull, the renderer, the templates — the only authored code
+scripts/           the compilers, renderers and templates — the authored code (moved from build/ 2026-08-13)
 site/              rendered artefacts: what is served
 prototypes/        disposable scaffolding (§5)
 documentation/design.md · logs/notes-for-osint.md · CLAUDE.md
 ```
 
-**One rule per folder, and the folder is the rule.** `upstream/` is replaced wholesale by the pull, so an edit there is overwritten without warning. `site/` is generated, so an edit there is overwritten by the next build. `build/` is the only place anything is authored. This is OSINT's own `new/ → raw/` discipline — a file's folder is its state — applied to a repo where three different things write.
+**One rule per folder, and the folder is the rule.** `upstream/` is replaced wholesale by the pull, so an edit there is overwritten without warning. `site/` is generated, so an edit there is overwritten by the next build. `scripts/` is where code is authored (`build/` now holds only assets). This is OSINT's own `new/ → raw/` discipline — a file's folder is its state — applied to a repo where three different things write.
 
 **The upstream tree mirrors `outputs/` exactly, with no renaming and no reshaping.** Any transformation between the two is a mapping, and a mapping is a second copy of a structure that has to be maintained in step with the first. Adding a directory in OSINT would then require a matching edit here, and forgetting it fails silently. `SWEEP-CYCLE.md` has the same lesson written into it in blood: two copies of one mapping is how a rotation silently stops running.
 

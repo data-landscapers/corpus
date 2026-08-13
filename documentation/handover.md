@@ -8,11 +8,13 @@ last_reviewed: 2026-08-12
 
 *(Written 2026-08-12 for a colleague taking over this repo, to brief a fresh Claude session with no prior context. Read `CLAUDE.md` and `documentation/design.md` in full before touching anything — this is a summary, not a replacement.)*
 
+> **Superseded in part (2026-08-13).** Read `documentation/migration-report-layer.md` first — it is the current architecture. This handover describes the pre-migration model in which Corpus *pulled* `outputs/` from OSINT; Corpus now **authors** `outputs/` itself (Job 1 — BUILD.md) and renders it (Job 2 — RENDER.md). The read-only boundary, commit discipline and other conventions below still hold; the pull-and-mirror mechanics do not. Code moved from `build/` to `scripts/`.
+
 ## What this is
 
 Corpus is the public-site repo for **data-landscapers.com**'s Africa data-governance research. It builds and serves **corpus.data-landscapers.com**: a browsable, downloadable public surface — country reports, regional reports, a source catalogue, budget and non-state-finance data — over a private research base called **OSINT** (`C:\OSINT`, a separate repo Bill maintains).
 
-Corpus is a **derived view**. It holds no state of its own and nothing on it is authored by hand except the build code itself. Everything served is generated from a folder called `outputs/` inside OSINT.
+Corpus is a **derived view**. It holds no state of its own and nothing on it is authored by hand except the build code itself. Everything served is generated from `outputs/`, which Corpus now authors itself (pre-migration this was pulled from OSINT — see the banner).
 
 Status as of 2026-08-12: build code exists and works (pull, render, country pages, home page), and the site is deployed via GitHub Pages. Several launch preconditions are still open — see below.
 
@@ -39,7 +41,7 @@ Then the renderers run over `upstream/` and write `site/`:
 
 ```
 upstream/    pulled from OSINT outputs/, 1:1 — never hand-edited, overwritten wholesale by every pull
-build/       the pull, the renderer, the templates — the ONLY place anything is authored
+scripts/     the compilers, renderers and templates — the authored code (was build/ pre-2026-08-13)
 site/        rendered artefacts, what is served — generated, overwritten by the next build
 prototypes/  disposable scaffolding, deleted once the real build fully replaces it
 documentation/design.md · logs/notes-for-osint.md · CLAUDE.md · documentation/workflow.md
@@ -98,4 +100,4 @@ As of 2026-08-12 there are 9 open numbered notes (1–9) — worth reading in fu
 1. `CLAUDE.md` — the rules above, in full and in Bill's own words.
 2. `documentation/design.md` — the full design record: what's settled, content model, the three design commitments, how data reaches the site, editions and verification.
 3. `logs/notes-for-osint.md` — the standing constraints and the 9 open notes.
-4. `build/*.py` docstrings — each script's header explains what it does and why, in the same voice as the design doc; they're worth reading before changing any of them.
+4. `scripts/*.py` docstrings — each script's header explains what it does and why, in the same voice as the design doc; they're worth reading before changing any of them.

@@ -1,6 +1,6 @@
 name: Deploy Corpus to GitHub Pages
 
-# site/ is rendered locally (build/pull.py, build/render.py, build/home.py)
+# site/ is rendered locally (scripts/pull.py, scripts/render.py, scripts/home.py)
 # and committed — never built in CI. DESIGN.md §8: the render depends on a
 # local checkout of OSINT sitting beside this repo, which a runner does not
 # have, and WeasyPrint's system dependencies (pango, cairo, ...) are a CI
