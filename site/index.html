@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<script>document.documentElement.classList.add('js');</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Corpus — Data Landscapers</title>
 <meta name="description" content="A living record of digital transformation and data governance across Africa: 9,216 sources, country and topic reports, and the finance behind them.">
@@ -43,9 +44,9 @@
       <a href="https://corpus.data-landscapers.com/#countries">Countries</a>
       <a href="https://corpus.data-landscapers.com/#regions">Regions</a>
       <a href="https://corpus.data-landscapers.com/#topics">Topics</a>
-      <a href="https://corpus.data-landscapers.com/finance/">Finance</a>
-      <a href="https://corpus.data-landscapers.com/catalogue/">Catalogue</a>
-      <a href="https://corpus.data-landscapers.com/method/">Method</a>
+      <a href="https://corpus.data-landscapers.com/#finance">Finance</a>
+      <a href="https://corpus.data-landscapers.com/#catalogue">Catalogue</a>
+      <a href="https://corpus.data-landscapers.com/#methodology">Methodology</a>
     </div>
   </nav>
 
@@ -127,7 +128,7 @@
 
     <h2 class="section-heading" id="regions">Regions</h2>
     <p class="section-intro">Sources tagged to a region, a bloc or the continent as a whole, rather than to a single named country — the African Union, ECOWAS, SADC and the other regional bodies, plus the broader continental and cross-regional tags. A source is filed under a country whenever it names one; these are what is left. Eight groupings are tracked here, from the four sub-regions to the continental and global tags.</p>
-    <div class="boxes">
+    <div class="boxes boxes--regions">
 <a class="box" href="https://corpus.data-landscapers.com/regions/XAF/" title="XAF" style="--fill:1.000"><span class="box__k">Africa</span><span class="box__n">659</span></a>
 <a class="box" href="https://corpus.data-landscapers.com/regions/XCA/" title="XCA" style="--fill:0.083"><span class="box__k">Central Africa</span><span class="box__n">55</span></a>
 <a class="box" href="https://corpus.data-landscapers.com/regions/XEA/" title="XEA" style="--fill:0.158"><span class="box__k">East Africa</span><span class="box__n">104</span></a>
@@ -142,23 +143,120 @@
     <h2 class="section-heading" id="topics">Topics</h2>
     <p class="section-intro">A controlled vocabulary in a strict single-parent tree, so a category rolls up to every topic beneath it. A source carries as many topics as it evidences, and is counted under each of them. Data protection, digital identity, cross-border data flows, connectivity, artificial intelligence and the rest. Each topic resolves to the documents that evidence it, not to a summary of them.</p>
     <div class="tboxes">
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/dpi/" style="--fill:1.000"><span class="tbox__l">Digital public infrastructure</span><span class="tbox__s">dpi.*</span><span class="tbox__n">6,892</span></a>
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/gov/" style="--fill:0.898"><span class="tbox__l">Governance</span><span class="tbox__s">gov.*</span><span class="tbox__n">6,186</span></a>
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/infra/" style="--fill:0.646"><span class="tbox__l">ICT Infrastructure</span><span class="tbox__s">infra.*</span><span class="tbox__n">4,454</span></a>
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/finance/" style="--fill:0.459"><span class="tbox__l">Finance</span><span class="tbox__s">finance.*</span><span class="tbox__n">3,165</span></a>
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/tech/" style="--fill:0.363"><span class="tbox__l">Technology</span><span class="tbox__s">tech.*</span><span class="tbox__n">2,501</span></a>
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/include/" style="--fill:0.306"><span class="tbox__l">Inclusion</span><span class="tbox__s">include.*</span><span class="tbox__n">2,112</span></a>
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/capacity/" style="--fill:0.162"><span class="tbox__l">Capacity</span><span class="tbox__s">capacity.*</span><span class="tbox__n">1,116</span></a>
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/data/" style="--fill:0.123"><span class="tbox__l">Data</span><span class="tbox__s">data.*</span><span class="tbox__n">851</span></a>
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/geopol/" style="--fill:0.111"><span class="tbox__l">Geopolitics</span><span class="tbox__s">geopol.*</span><span class="tbox__n">766</span></a>
-<a class="tbox" href="https://corpus.data-landscapers.com/topics/digital/" style="--fill:0.079"><span class="tbox__l">Digitalisation</span><span class="tbox__s">digital.*</span><span class="tbox__n">545</span></a>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-dpi" style="--fill:1.000"><span class="tbox__l">Digital public infrastructure</span><span class="tbox__s">dpi.*</span><span class="tbox__n">6,892</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-dpi" role="region" aria-label="Digital public infrastructure sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/dpi.govtech/" title="dpi.govtech" style="--fill:1.000"><span class="sbox__l">GovTech</span><span class="sbox__n">1,824</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/dpi.pay/" title="dpi.pay" style="--fill:0.961"><span class="sbox__l">Payments</span><span class="sbox__n">1,752</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/dpi.id/" title="dpi.id" style="--fill:0.783"><span class="sbox__l">Digital ID</span><span class="sbox__n">1,428</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/dpi.exchange/" title="dpi.exchange" style="--fill:0.435"><span class="sbox__l">Data exchange</span><span class="sbox__n">794</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/dpi.registry/" title="dpi.registry" style="--fill:0.384"><span class="sbox__l">Registries</span><span class="sbox__n">700</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/dpi.mis/" title="dpi.mis" style="--fill:0.216"><span class="sbox__l">Management info systems</span><span class="sbox__n">394</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/dpi/"><span class="sbox__l">All Digital public infrastructure</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-gov" style="--fill:0.898"><span class="tbox__l">Governance</span><span class="tbox__s">gov.*</span><span class="tbox__n">6,186</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-gov" role="region" aria-label="Governance sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/gov.policy/" title="gov.policy" style="--fill:1.000"><span class="sbox__l">Policy &amp; strategy</span><span class="sbox__n">1,941</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/gov.legislate/" title="gov.legislate" style="--fill:0.668"><span class="sbox__l">Legislation</span><span class="sbox__n">1,296</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/gov.protect/" title="gov.protect" style="--fill:0.577"><span class="sbox__l">Data protection</span><span class="sbox__n">1,120</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/gov.regional/" title="gov.regional" style="--fill:0.415"><span class="sbox__l">Regional governance</span><span class="sbox__n">805</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/gov.standards/" title="gov.standards" style="--fill:0.308"><span class="sbox__l">Standards</span><span class="sbox__n">598</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/gov.discourse/" title="gov.discourse" style="--fill:0.219"><span class="sbox__l">Public discourse</span><span class="sbox__n">426</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/gov/"><span class="sbox__l">All Governance</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-infra" style="--fill:0.646"><span class="tbox__l">ICT Infrastructure</span><span class="tbox__s">infra.*</span><span class="tbox__n">4,454</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-infra" role="region" aria-label="ICT Infrastructure sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/infra.connect/" title="infra.connect" style="--fill:1.000"><span class="sbox__l">Connectivity</span><span class="sbox__n">2,237</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/infra.cybersec/" title="infra.cybersec" style="--fill:0.437"><span class="sbox__l">Cybersecurity</span><span class="sbox__n">978</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/infra.store/" title="infra.store" style="--fill:0.381"><span class="sbox__l">Data centres &amp; storage</span><span class="sbox__n">852</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/infra.energy/" title="infra.energy" style="--fill:0.095"><span class="sbox__l">Energy</span><span class="sbox__n">212</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/infra.capacity/" title="infra.capacity" style="--fill:0.078"><span class="sbox__l">Network capacity</span><span class="sbox__n">175</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/infra/"><span class="sbox__l">All ICT Infrastructure</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-finance" style="--fill:0.459"><span class="tbox__l">Finance</span><span class="tbox__s">finance.*</span><span class="tbox__n">3,165</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-finance" role="region" aria-label="Finance sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/finance.new/" title="finance.new" style="--fill:1.000"><span class="sbox__l">New investment</span><span class="sbox__n">2,044</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/finance.budget/" title="finance.budget" style="--fill:0.350"><span class="sbox__l">Public budgets</span><span class="sbox__n">715</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/finance.mou/" title="finance.mou" style="--fill:0.199"><span class="sbox__l">MoUs &amp; commitments</span><span class="sbox__n">406</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/finance/"><span class="sbox__l">All Finance</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-tech" style="--fill:0.363"><span class="tbox__l">Technology</span><span class="tbox__s">tech.*</span><span class="tbox__n">2,501</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-tech" role="region" aria-label="Technology sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/tech.ai/" title="tech.ai" style="--fill:1.000"><span class="sbox__l">Artificial intelligence</span><span class="sbox__n">1,253</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/tech.industry/" title="tech.industry" style="--fill:0.584"><span class="sbox__l">Industry</span><span class="sbox__n">732</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/tech.innovate/" title="tech.innovate" style="--fill:0.412"><span class="sbox__l">Innovation</span><span class="sbox__n">516</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/tech/"><span class="sbox__l">All Technology</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-include" style="--fill:0.306"><span class="tbox__l">Inclusion</span><span class="tbox__s">include.*</span><span class="tbox__n">2,112</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-include" role="region" aria-label="Inclusion sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/include.access/" title="include.access" style="--fill:1.000"><span class="sbox__l">Access</span><span class="sbox__n">1,398</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/include.divides/" title="include.divides" style="--fill:0.511"><span class="sbox__l">Digital divides</span><span class="sbox__n">714</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/include/"><span class="sbox__l">All Inclusion</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-capacity" style="--fill:0.162"><span class="tbox__l">Capacity</span><span class="tbox__s">capacity.*</span><span class="tbox__n">1,116</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-capacity" role="region" aria-label="Capacity sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/capacity.training/" title="capacity.training" style="--fill:1.000"><span class="sbox__l">Training</span><span class="sbox__n">741</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/capacity.research/" title="capacity.research" style="--fill:0.262"><span class="sbox__l">Research</span><span class="sbox__n">194</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/capacity.literacy/" title="capacity.literacy" style="--fill:0.244"><span class="sbox__l">Digital literacy</span><span class="sbox__n">181</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/capacity/"><span class="sbox__l">All Capacity</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-data" style="--fill:0.123"><span class="tbox__l">Data</span><span class="tbox__s">data.*</span><span class="tbox__n">851</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-data" role="region" aria-label="Data sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/data.statistics/" title="data.statistics" style="--fill:1.000"><span class="sbox__l">Statistics</span><span class="sbox__n">517</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/data.open/" title="data.open" style="--fill:0.385"><span class="sbox__l">Open data</span><span class="sbox__n">199</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/data.satellite/" title="data.satellite" style="--fill:0.261"><span class="sbox__l">Satellite &amp; geospatial</span><span class="sbox__n">135</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/data/"><span class="sbox__l">All Data</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-geopol" style="--fill:0.111"><span class="tbox__l">Geopolitics</span><span class="tbox__s">geopol.*</span><span class="tbox__n">766</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-geopol" role="region" aria-label="Geopolitics sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/geopol.usa/" title="geopol.usa" style="--fill:1.000"><span class="sbox__l">United States</span><span class="sbox__n">339</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/geopol.china/" title="geopol.china" style="--fill:0.584"><span class="sbox__l">China</span><span class="sbox__n">198</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/geopol.eu/" title="geopol.eu" style="--fill:0.428"><span class="sbox__l">European Union</span><span class="sbox__n">145</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/geopol.india/" title="geopol.india" style="--fill:0.124"><span class="sbox__l">India</span><span class="sbox__n">42</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/geopol.gulf/" title="geopol.gulf" style="--fill:0.124"><span class="sbox__l">Gulf states</span><span class="sbox__n">42</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/geopol/"><span class="sbox__l">All Geopolitics</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
+<button type="button" class="tbox" aria-expanded="false" aria-controls="topic-digital" style="--fill:0.079"><span class="tbox__l">Digitalisation</span><span class="tbox__s">digital.*</span><span class="tbox__n">545</span><span class="tbox__x" aria-hidden="true"></span></button>
+<div class="tsub" id="topic-digital" role="region" aria-label="Digitalisation sub-topics">
+<div class="tsub__inner">
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/digital.rural/" title="digital.rural" style="--fill:1.000"><span class="sbox__l">Rural digitalisation</span><span class="sbox__n">350</span></a>
+<a class="sbox" href="https://corpus.data-landscapers.com/topics/digital.localgov/" title="digital.localgov" style="--fill:0.557"><span class="sbox__l">Local government</span><span class="sbox__n">195</span></a>
+<a class="sbox sbox--all" href="https://corpus.data-landscapers.com/topics/digital/"><span class="sbox__l">All Digitalisation</span><span class="sbox__n" aria-hidden="true">&rarr;</span></a>
+</div>
+</div>
     </div>
-    <p class="caveat">Level-1 categories, rolled up from the 38 topics beneath them. A source carries as many topics as it evidences, so these also sum to more than the total.</p>
+    <p class="caveat">Level-1 categories, rolled up from the 38 topics beneath them. A source carries as many topics as it evidences, so these also sum to more than the total. Click a topic to open its sub-topics.</p>
+
+    <h2 class="section-heading" id="finance">Finance</h2>
+    <p class="section-intro section-intro--todo">The finance behind the corpus &mdash; investments, budgets and commitments recorded across the source base. This section is still to be written; content to follow.</p>
+
+    <h2 class="section-heading" id="catalogue">Catalogue</h2>
+    <p class="section-intro section-intro--todo">The full browse-and-filter view over every source in the corpus. This section is still to be written; content to follow.</p>
+
+    <h2 class="section-heading" id="methodology">Methodology</h2>
+    <p class="section-intro section-intro--todo">How the corpus is built, tagged and kept current &mdash; the taxonomy, the sources and the editions. This section is still to be written; content to follow.</p>
 
     <div class="colophon">
       <strong>About this page</strong>
       <dl>
-        <dt>Built</dt><dd class="mono">2026-08-11</dd>
+        <dt>Built</dt><dd class="mono">2026-08-13</dd>
         <dt>Counts</dt><dd>counted from <code>raw-catalogue.csv</code> &mdash; <code>outputs/catalogue/stats.json</code> not yet published</dd>
         <dt>Derived from</dt><dd>Data Landscapers source base, commit <code>ea6e045ec0be</code></dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
@@ -180,5 +278,21 @@
   </footer>
 
 </div>
+
+<script>
+(function () {
+  var tiles = Array.prototype.slice.call(
+    document.querySelectorAll('.tbox[aria-controls]'));
+  tiles.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var isOpen = btn.getAttribute('aria-expanded') === 'true';
+      tiles.forEach(function (other) {
+        other.setAttribute('aria-expanded',
+          (other === btn && !isOpen) ? 'true' : 'false');
+      });
+    });
+  });
+})();
+</script>
 </body>
 </html>

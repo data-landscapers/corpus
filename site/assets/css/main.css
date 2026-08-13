@@ -158,7 +158,9 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 /* ── CORPUS NAV — sits below the site header on every corpus page, sticky
    together with it so both stay visible while a long page scrolls. ── */
 .corpus-nav { border-bottom: 1px solid var(--rule); background: var(--paper-warm); position: sticky; top: 88px; z-index: 99; }
-.corpus-nav__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.65rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; }
+/* Right-aligned so the internal menu lines up under the main site nav, which
+ * sits on the right of the header (Bill, 2026-08-13, item 1). */
+.corpus-nav__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.65rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; justify-content: flex-end; }
 .corpus-nav a { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-light); border: none; }
 .corpus-nav a:hover, .corpus-nav a.active { color: var(--accent); border: none; }
 

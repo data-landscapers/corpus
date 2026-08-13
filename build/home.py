@@ -92,6 +92,45 @@ REGION_NAMES = {
     "XSS": "Sub-Saharan Africa", "XWA": "West Africa",
 }
 
+# Level-2 display names for the sub-topic rows that open under each topic tile
+# (Bill, 2026-08-13, item 7). Same provenance caveat as L1 above: the canonical
+# labels live in `lookups/taxonomy.md` in OSINT, outside `outputs/`, so these
+# are a provisional working copy derived from the slugs — edit here to match
+# the taxonomy, or fold both into the stats file once it publishes (OSINT #9).
+# A slug with no entry falls back to its own Level-2 segment, title-cased.
+SUBTOPIC_NAMES = {
+    "dpi.govtech": "GovTech", "dpi.pay": "Payments", "dpi.id": "Digital ID",
+    "dpi.exchange": "Data exchange", "dpi.registry": "Registries",
+    "dpi.mis": "Management info systems",
+    "gov.policy": "Policy & strategy", "gov.legislate": "Legislation",
+    "gov.protect": "Data protection", "gov.regional": "Regional governance",
+    "gov.standards": "Standards", "gov.discourse": "Public discourse",
+    "infra.connect": "Connectivity", "infra.cybersec": "Cybersecurity",
+    "infra.store": "Data centres & storage", "infra.energy": "Energy",
+    "infra.capacity": "Network capacity",
+    "finance.new": "New investment", "finance.budget": "Public budgets",
+    "finance.mou": "MoUs & commitments",
+    "tech.ai": "Artificial intelligence", "tech.industry": "Industry",
+    "tech.innovate": "Innovation",
+    "include.access": "Access", "include.divides": "Digital divides",
+    "capacity.training": "Training", "capacity.research": "Research",
+    "capacity.literacy": "Digital literacy",
+    "data.statistics": "Statistics", "data.open": "Open data",
+    "data.satellite": "Satellite & geospatial",
+    "geopol.usa": "United States", "geopol.china": "China",
+    "geopol.eu": "European Union", "geopol.india": "India",
+    "geopol.gulf": "Gulf states",
+    "digital.rural": "Rural digitalisation", "digital.localgov": "Local government",
+}
+
+
+def subtopic_label(slug: str) -> str:
+    """Readable name for a Level-2 slug, falling back to its own segment."""
+    if slug in SUBTOPIC_NAMES:
+        return SUBTOPIC_NAMES[slug]
+    tail = slug.split(".", 1)[-1]
+    return tail.replace("-", " ").replace("_", " ").title()
+
 # Intro copy under each heading. Topics still carries the text that used to
 # sit in its card, unchanged. Countries is Bill's rewrite, edited straight in
 # site/index.html on 2026-08-11 and copied back here so a rebuild doesn't
@@ -194,22 +233,63 @@ def region_boxes(by_place: dict[str, int]) -> str:
 
 
 def topic_boxes(by_topic: dict[str, int]) -> str:
+    """Each Level-1 tile is a toggle that opens a full-width row of its Level-2
+    sub-topics beneath it (Bill, 2026-08-13, item 7). The sub-topic boxes link
+    to `/topics/{slug}/` pages whether or not those pages are built yet — the
+    same pull-exhaustively/publish-selectively rule as the country boxes.
+
+    The panel is a sibling of its tile inside the same `.tboxes` grid. A hidden
+    panel carries the `hidden` attribute and so is `display:none` and takes no
+    grid space; an open panel spans every column (`grid-column: 1 / -1`), so it
+    lands on the row directly under the tile that opened it and pushes the rest
+    of the matrix down. That keeps the tile matrix a plain CSS grid — the only
+    script is the click handler that flips `hidden` and `aria-expanded`."""
     roll = Counter()
+    children: dict[str, list[tuple[str, int]]] = {}
     for slug, n in by_topic.items():
-        roll[slug.split(".")[0]] += n
+        k = slug.split(".")[0]
+        roll[k] += n
+        children.setdefault(k, []).append((slug, n))
+
     top = max(roll.values()) or 1
-    return "\n".join(
-        f'<a class="tbox" href="{SITE_BASE}/topics/{k}/" style="--fill:{roll[k] / top:.3f}">'
-        f'<span class="tbox__l">{e(L1.get(k, k))}</span>'
-        f'<span class="tbox__s">{k}.*</span>'
-        f'<span class="tbox__n">{roll[k]:,}</span></a>'
-        for k, _ in roll.most_common())
+    out = []
+    for k, _ in roll.most_common():
+        pid = f"topic-{k}"
+        label = e(L1.get(k, k))
+        tile = (
+            f'<button type="button" class="tbox" aria-expanded="false"'
+            f' aria-controls="{pid}" style="--fill:{roll[k] / top:.3f}">'
+            f'<span class="tbox__l">{label}</span>'
+            f'<span class="tbox__s">{k}.*</span>'
+            f'<span class="tbox__n">{roll[k]:,}</span>'
+            f'<span class="tbox__x" aria-hidden="true"></span></button>'
+        )
+        kids = sorted(children.get(k, []), key=lambda x: -x[1])
+        ktop = max((n for _, n in kids), default=1) or 1
+        subboxes = "\n".join(
+            f'<a class="sbox" href="{SITE_BASE}/topics/{slug}/" title="{slug}"'
+            f' style="--fill:{n / ktop:.3f}">'
+            f'<span class="sbox__l">{e(subtopic_label(slug))}</span>'
+            f'<span class="sbox__n">{n:,}</span></a>'
+            for slug, n in kids)
+        panel = (
+            f'<div class="tsub" id="{pid}" role="region"'
+            f' aria-label="{label} sub-topics">\n'
+            f'<div class="tsub__inner">\n{subboxes}\n'
+            f'<a class="sbox sbox--all" href="{SITE_BASE}/topics/{k}/">'
+            f'<span class="sbox__l">All {label}</span>'
+            f'<span class="sbox__n" aria-hidden="true">&rarr;</span></a>\n'
+            f'</div>\n</div>'
+        )
+        out.append(tile + "\n" + panel)
+    return "\n".join(out)
 
 
 TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<script>document.documentElement.classList.add('js');</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Corpus — Data Landscapers</title>
 <meta name="description" content="A living record of digital transformation and data governance across Africa: {docs} sources, country and topic reports, and the finance behind them.">
@@ -251,9 +331,9 @@ TEMPLATE = """<!DOCTYPE html>
       <a href="{base}/#countries">Countries</a>
       <a href="{base}/#regions">Regions</a>
       <a href="{base}/#topics">Topics</a>
-      <a href="{base}/finance/">Finance</a>
-      <a href="{base}/catalogue/">Catalogue</a>
-      <a href="{base}/method/">Method</a>
+      <a href="{base}/#finance">Finance</a>
+      <a href="{base}/#catalogue">Catalogue</a>
+      <a href="{base}/#methodology">Methodology</a>
     </div>
   </nav>
 
@@ -282,7 +362,7 @@ TEMPLATE = """<!DOCTYPE html>
 
     <h2 class="section-heading" id="regions">Regions</h2>
     <p class="section-intro">{regions_intro}</p>
-    <div class="boxes">
+    <div class="boxes boxes--regions">
 {regions}
     </div>
     <p class="caveat">{regional} sources are tagged to a region or bloc rather than to a country, and are not counted in the Countries figures above.</p>
@@ -292,7 +372,16 @@ TEMPLATE = """<!DOCTYPE html>
     <div class="tboxes">
 {topics}
     </div>
-    <p class="caveat">Level-1 categories, rolled up from the {ntopics} topics beneath them. A source carries as many topics as it evidences, so these also sum to more than the total.</p>
+    <p class="caveat">Level-1 categories, rolled up from the {ntopics} topics beneath them. A source carries as many topics as it evidences, so these also sum to more than the total. Click a topic to open its sub-topics.</p>
+
+    <h2 class="section-heading" id="finance">Finance</h2>
+    <p class="section-intro section-intro--todo">The finance behind the corpus &mdash; investments, budgets and commitments recorded across the source base. This section is still to be written; content to follow.</p>
+
+    <h2 class="section-heading" id="catalogue">Catalogue</h2>
+    <p class="section-intro section-intro--todo">The full browse-and-filter view over every source in the corpus. This section is still to be written; content to follow.</p>
+
+    <h2 class="section-heading" id="methodology">Methodology</h2>
+    <p class="section-intro section-intro--todo">How the corpus is built, tagged and kept current &mdash; the taxonomy, the sources and the editions. This section is still to be written; content to follow.</p>
 
     <div class="colophon">
       <strong>About this page</strong>
@@ -319,9 +408,35 @@ TEMPLATE = """<!DOCTYPE html>
   </footer>
 
 </div>
+
+{script}
 </body>
 </html>
 """
+
+
+# Topic tiles: click a Level-1 tile to open a row of its sub-topics beneath it.
+# Progressive enhancement — the panels are plain visible markup, so with no JS
+# every sub-topic link is reachable. The `js` class on <html> (set in <head>
+# before first paint) hands the CSS the collapsed default; from there the only
+# job of this script is to flip `aria-expanded`, which the CSS turns into the
+# open/closed state. One tile open at a time. Kept out of TEMPLATE.format so
+# its braces are not read as format fields.
+SCRIPT = """<script>
+(function () {
+  var tiles = Array.prototype.slice.call(
+    document.querySelectorAll('.tbox[aria-controls]'));
+  tiles.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var isOpen = btn.getAttribute('aria-expanded') === 'true';
+      tiles.forEach(function (other) {
+        other.setAttribute('aria-expanded',
+          (other === btn && !isOpen) ? 'true' : 'false');
+      });
+    });
+  });
+})();
+</script>"""
 
 
 def build() -> Path:
@@ -341,7 +456,7 @@ def build() -> Path:
         countries=country_boxes(by_place), countries_intro=e(COUNTRIES_INTRO),
         regions=region_boxes(by_place), regions_intro=e(REGIONS_INTRO),
         topics=topic_boxes(s["by_topic"]), topics_intro=e(TOPICS_INTRO),
-        regional=f"{regional:,}", ntopics=len(s["by_topic"]),
+        regional=f"{regional:,}", ntopics=len(s["by_topic"]), script=SCRIPT,
         counts_from=("<code>outputs/catalogue/stats.json</code>, generated "
                      + s.get("generated", "")
                      if "source" not in s else

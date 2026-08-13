@@ -21,24 +21,66 @@
  * types share belongs in the shared stylesheet, not copied between them.
  */
 
-.hero { padding: 2.5rem 0 2rem; margin-bottom: 2.5rem; }
-.hero p { font-size: 1.32rem; line-height: 1.55; max-width: 46rem; margin-bottom: 0.9rem; }
+/* Hero: smaller type and no trailing whitespace, so the copy sits right above
+ * the Countries rule (Bill, 2026-08-13, item 3). Text is placeholder pending a
+ * rewrite, so the size is deliberately modest. */
+.hero { padding: 1.75rem 0 0; margin-bottom: 0.6rem; }
+.hero p { font-size: 1.05rem; line-height: 1.5; max-width: 46rem; margin-bottom: 0; }
 
 .section-intro { font-size: 1rem; line-height: 1.6; color: var(--ink-light); max-width: 46rem; margin-bottom: 1.25rem; }
-.caveat { font-size: 0.76rem; color: var(--ink-faint); line-height: 1.5; margin-top: 0.75rem; }
+.section-intro--todo { color: var(--ink-faint); font-style: italic; }
 
-.boxes { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: 4px; margin: 1.25rem 0 0.5rem; }
-.box { display: flex; flex-direction: column; align-items: flex-start; justify-content: center; padding: 0.5rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 14%), var(--paper)); color: var(--ink); }
+/* Footnote/caveat sits tight under its matrix, and the next section's rule
+ * follows close behind it (Bill, 2026-08-13, item 5). The heading override is
+ * home-only — country pages load country.css, not this file — and the
+ * :first-of-type rule in main.css still zeroes the top margin of Countries. */
+.caveat { font-size: 0.76rem; color: var(--ink-faint); line-height: 1.5; margin: 0.5rem 0 0; }
+.section-heading { margin-top: 1.4rem; }
+
+/* Country / region matrix: seven boxes to a row, a touch shorter than before,
+ * and a shared min-height so countries and regions line up box-for-box (Bill,
+ * 2026-08-13, items 4 and 6). The longest region name ("Sub-Saharan Africa")
+ * is the only label that runs to two lines and so rides a hair taller. */
+.boxes { display: grid; grid-template-columns: repeat(auto-fill, minmax(6.6rem, 1fr)); gap: 4px; margin: 1rem 0 0.5rem; }
+/* Regions: only eight boxes with longer names, so they get a wider column and
+ * do not follow the countries' seven-per-row (Bill, 2026-08-13). Wider boxes
+ * keep every region name — "Sub-Saharan Africa" included — on one line, so the
+ * boxes match the country boxes' height (item 6). */
+.boxes--regions { grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr)); }
+.box { display: flex; flex-direction: column; align-items: flex-start; justify-content: center; min-height: 3rem; padding: 0.4rem 0.55rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 14%), var(--paper)); color: var(--ink); }
 .box:hover { border-color: var(--accent); color: var(--ink); }
-.box__k { font-family: var(--serif); font-size: 0.82rem; font-weight: 600; }
-.box__n { font-size: 0.72rem; color: var(--ink-light); }
+.box__k { font-family: var(--serif); font-size: 0.8rem; font-weight: 600; line-height: 1.2; }
+.box__n { font-size: 0.7rem; color: var(--ink-light); line-height: 1.2; }
 
-.tboxes { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; margin: 1.25rem 0 0.5rem; }
-.tbox { display: flex; flex-direction: column; padding: 0.7rem 0.75rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
+.tboxes { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; margin: 1rem 0 0.5rem; }
+/* .tbox is now a <button> that toggles its sub-topic row, so it takes the
+ * button reset; the look is otherwise the old anchor tile. */
+.tbox { display: flex; flex-direction: column; width: 100%; padding: 0.7rem 0.75rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); font: inherit; text-align: left; cursor: pointer; position: relative; -webkit-appearance: none; appearance: none; }
 .tbox:hover { border-color: var(--accent); color: var(--ink); }
-.tbox__l { font-size: 0.84rem; line-height: 1.3; }
+.tbox[aria-expanded="true"] { border-color: var(--accent); }
+.tbox__l { font-size: 0.84rem; line-height: 1.3; padding-right: 0.9rem; }
 .tbox__s { font-family: var(--mono); font-size: 0.66rem; color: var(--ink-faint); margin-top: 0.15rem; }
 .tbox__n { font-family: var(--mono); font-size: 0.9rem; margin-top: 0.4rem; }
+.tbox__x { position: absolute; top: 0.85rem; right: 0.7rem; width: 0; height: 0; border-left: 4px solid transparent; border-right: 4px solid transparent; border-top: 5px solid var(--ink-faint); transition: transform 0.15s; }
+.tbox[aria-expanded="true"] .tbox__x { transform: rotate(180deg); border-top-color: var(--accent); }
+
+/* Sub-topic row: a full-width panel that drops in beneath the tile that opened
+ * it (Bill, 2026-08-13, item 7). Progressive enhancement — the panel is plain
+ * visible markup, so with no JS every sub-topic link is reachable. When JS is
+ * present (the `js` class on <html>) the panels collapse and only the tile the
+ * reader expands reopens; `grid-column: 1 / -1` spans the row and pushes the
+ * rest of the matrix down. The tile and its panel are adjacent siblings, so the
+ * open state is pure CSS driven off `aria-expanded`. */
+.tsub { grid-column: 1 / -1; }
+.js .tsub { display: none; }
+.js .tbox[aria-expanded="true"] + .tsub { display: block; }
+.tsub__inner { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: 4px; padding: 6px; margin-bottom: 4px; background: color-mix(in srgb, var(--accent) 4%, var(--paper)); border: 1px solid var(--rule); border-radius: 3px; }
+.sbox { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
+.sbox:hover { border-color: var(--accent); color: var(--ink); }
+.sbox__l { font-size: 0.78rem; line-height: 1.25; }
+.sbox__n { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-light); white-space: nowrap; }
+.sbox--all { background: var(--paper-warm); }
+.sbox--all .sbox__l { color: var(--link); font-weight: 600; }
 
 .colophon { margin: 3.5rem 0 2rem; padding: 1.25rem 1.5rem; background: var(--paper-warm); border: 1px solid var(--rule); font-size: 0.8rem; }
 .colophon dl { display: grid; grid-template-columns: 9rem 1fr; gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
