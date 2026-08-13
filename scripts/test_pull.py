@@ -4,7 +4,7 @@
 A gate that has only ever passed is not evidence of anything. Run after any
 change to pull.py's gate:
 
-    python build/test_pull.py
+    python scripts/test_pull.py
 """
 
 from __future__ import annotations

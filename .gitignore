@@ -6,4 +6,4 @@
 .pull-staging/
 __pycache__/
 *.pyc
-build/.workroot/
+.workroot/

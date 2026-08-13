@@ -82,7 +82,7 @@ Mechanism: Corpus writes a machine-readable **request feed** (`reports/requests-
 
 ## Standing constraints to agree with the colleague
 
-The mirror of the constraints already atop `NOTES-FOR-OSINT.md`, now that Corpus depends on OSINT's evidence:
+The mirror of the constraints already atop `logs/notes-for-osint.md`, now that Corpus depends on OSINT's evidence:
 
 - `raw/`, `index/` and `lookups/` stay git-tracked and committed — Corpus reads committed `HEAD`.
 - Slugs in `raw/` stay stable — a re-slugged source reads as new to Corpus.
@@ -95,7 +95,7 @@ The mirror of the constraints already atop `NOTES-FOR-OSINT.md`, now that Corpus
 
 **Phase 2b — re-found the report layer with the new register.** Rebuild the ledgers clean (Note 6 moot), and draft one real report under the v0.1 editorial register — a live test of the voice, the thing we iterate on together. Rewrite the in-flight monthlies to match once the register settles.
 
-**Phase 2c — cut the site over.** Render the site from Corpus-owned state; retire the report/finance/catalogue halves of `build/pull.py`. Add the final verification: a full render + A, D, G–K over every unit before anything is called authoritative.
+**Phase 2c — cut the site over.** Render the site from Corpus-owned state; retire the report/finance/catalogue halves of `scripts/pull.py`. Add the final verification: a full render + A, D, G–K over every unit before anything is called authoritative.
 
 **Phase 3 — close the loop (after Sunday, needs OSINT).** Stand up the request feed, move `probe_at` into Corpus, confirm a gap minted in Corpus reaches OSINT's sweeps and returns as a source.
 

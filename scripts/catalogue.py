@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""catalogue.py — the catalogue browse page (DESIGN.md §4).
+"""catalogue.py — the catalogue browse page (documentation/design.md §4).
 
-    python build/catalogue.py
+    python scripts/catalogue.py
       -> site/catalogue/index.html            the browse-and-filter surface
       -> site/catalogue/catalogue-data.js     packed data the page reads
       -> site/catalogue/raw-catalogue.csv     the full download (published from source)
@@ -11,9 +11,9 @@ Promoted from `prototypes/catalogue-prototype.html` + `prototypes/build-catalogu
 once the browse surface was agreed. It reads the catalogue Corpus builds itself
 (`upstream/catalogue/raw-catalogue.json`, mirrored from `outputs/`), packs the ten
 browse fields into `catalogue-data.js`, and wraps the proven browse UI in the real
-site chrome (`build/country.py`'s header/nav/footer).
+site chrome (`scripts/country.py`'s header/nav/footer).
 
-Place and topic vocabularies come from `build/vocab/` — snapshotted from OSINT's
+Place and topic vocabularies come from `outputs/vocab/` — snapshotted from OSINT's
 `lookups/`, because the site may not read outside `outputs/` (NOTES-FOR-OSINT #9).
 Refresh that snapshot when the vocabularies change.
 
@@ -28,7 +28,7 @@ CORPUS = Path(__file__).resolve().parent.parent
 UPSTREAM = CORPUS / "upstream"
 OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
-VOCAB = CORPUS / "build" / "vocab"
+VOCAB = CORPUS / "outputs" / "vocab"
 SITE_BASE = "https://corpus.data-landscapers.com"
 MAIN_SITE = "https://data-landscapers.com"
 
@@ -40,7 +40,7 @@ def catalogue_dir() -> Path:
     for base in (UPSTREAM, OUTPUTS):
         if (base / "catalogue" / "raw-catalogue.json").exists():
             return base / "catalogue"
-    raise SystemExit("no catalogue found in upstream/ or outputs/ — run build/rebuild.py --catalogue")
+    raise SystemExit("no catalogue found in upstream/ or outputs/ — run scripts/rebuild.py --catalogue")
 
 
 def vocab():

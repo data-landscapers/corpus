@@ -6,7 +6,7 @@ last_reviewed: 2026-08-06
 
 # CLAUDE.md — Corpus
 
-This repo holds the Phase 3 public site: design record, prototypes, and whatever is built to serve `outputs/`. `DESIGN.md` is the design record.
+This repo holds the Phase 3 public site: design record, prototypes, and whatever is built to serve `outputs/`. `documentation/design.md` is the design record.
 
 ## The OSINT repo is read-only
 
@@ -14,7 +14,7 @@ This repo holds the Phase 3 public site: design record, prototypes, and whatever
 
 The reason is the direction of dependency. The site is a derived view of the wiki; a derived view that writes back to its own source destroys the property that makes it derivable. OSINT is also the store of record, so a mistake there is a data loss, whereas a mistake in Corpus is a rebuild.
 
-**Everything CC produces goes in Corpus**, including anything about OSINT. If a change is needed *in* OSINT — a corrected path, a stale statement in a process file, a note for the queues — CC writes the finding as a numbered note in **`NOTES-FOR-OSINT.md`** and tells Bill; it does not make the change. Bill actions it in an OSINT session and strikes the note. That file also holds the standing constraints the site depends on, which never clear.
+**Everything CC produces goes in Corpus**, including anything about OSINT. If a change is needed *in* OSINT — a corrected path, a stale statement in a process file, a note for the queues — CC writes the finding as a numbered note in **`logs/notes-for-osint.md`** and tells Bill; it does not make the change. Bill actions it in an OSINT session and strikes the note. That file also holds the standing constraints the site depends on, which never clear.
 
 Reading is unrestricted: read any file, grep the whole tree, run read-only git commands, derive whatever the site needs.
 

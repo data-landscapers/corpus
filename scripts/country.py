@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""country.py — the country page (DESIGN.md §3).
+"""country.py — the country page (documentation/design.md §3).
 
-    python build/country.py            builds every country
-    python build/country.py KEN        builds one
+    python scripts/country.py            builds every country
+    python scripts/country.py KEN        builds one
 
 Promoted from prototypes/build-country-page.py once Bill approved the KEN
 mock-up (2026-08-11 commit "Country page: add nav, drop crumb, stat-bar in
@@ -12,7 +12,7 @@ generalising from one country to all of them:
   - Output moved from a flat `prototypes/country-{ISO}.html` to
     `site/countries/{ISO}/index.html` (+ `finance.html` alongside it), to
     match the URL `{SITE_BASE}/countries/{ISO}/` the home page already links
-    every country box to (`build/home.py`).
+    every country box to (`scripts/home.py`).
   - The report rows now read the edition off the *PDF* filename, which
     carries the date, and link the "Read" button at the undated HTML
     permalink `render.py` now produces (Bill, 2026-08-11: report HTML has no
@@ -30,7 +30,7 @@ finance tables from `{ISO3}-nonstate.csv`.
 
 Country and region names are duplicated from OSINT's `lookups/countries.csv`
 because the build cannot read outside `outputs/` — the same duplication
-`build/home.py` already carries, and NOTES-FOR-OSINT.md #9 flags it as a
+`scripts/home.py` already carries, and logs/notes-for-osint.md #9 flags it as a
 standing note rather than a pattern to repeat deliberately.
 
 Budget work is suspended, so `{ISO3}-summary.csv` is not read and no budget
@@ -59,7 +59,7 @@ MAIN_SITE = "https://data-landscapers.com"
 FINANCE_CUTOFF = 2022  # years before this are aggregated into one pivot column
 
 # ISO3 -> full country name, from lookups/countries.csv (see module docstring
-# and NOTES-FOR-OSINT.md #9). Two entries carry proper accents the source CSV
+# and logs/notes-for-osint.md #9). Two entries carry proper accents the source CSV
 # doesn't (Côte d'Ivoire, São Tomé and Príncipe) — a typographic fix, not a
 # different name.
 FULL_NAMES = {
@@ -89,7 +89,7 @@ KIND = {
 
 # Column definitions for the dictionary the full table offers, from
 # FINANCE-COMPILE.md § "CSV export". Two columns the CSV carries are not
-# described there — see NOTES-FOR-OSINT.md #7 — and are marked as read off
+# described there — see logs/notes-for-osint.md #7 — and are marked as read off
 # the data.
 FIELDS = [
     ("recipient_country", "ISO-3 code of the country the commitment is tagged to. The join key.", "FINANCE-COMPILE.md"),
@@ -326,7 +326,7 @@ def report_rows(rows: list[dict], iso: str) -> str:
     return "\n".join(out)
 
 
-# ── chrome (site header/footer — matches build/home.py exactly) ────
+# ── chrome (site header/footer — matches scripts/home.py exactly) ────
 
 CHROME = """  <header class="site-header">
     <div class="site-header__inner">

@@ -82,7 +82,7 @@ The first two live in this repo (Corpus); paths above are relative to it. Moved 
 Not website work, but the website cannot launch over them.
 
 - **Repo size.** 4.6 GB and growing ~150 MB/day; GitHub recommend under 5 GB. Private or public, it is the same problem, and it makes "contact me for vault access" a chore rather than an offer. The 425 tracked PDFs in `raw/` are the weight, and the reasoning that removed 507 budget-archive PDFs applies to them.
-- ~~**`capture-rule.md` and `build-catalogue.py` describe a private vault that is never republished.**~~ Cleared 2026-08-06. `outputs/` carries no verbatim bodies, so publishing it does not touch the CDPA s.29 basis, which is a claim about the bodies in `raw/` and stays true. `build-catalogue.py` already says the catalogue is public and sends readers to the publisher, so it never disagreed. A wording point remains in `capture-rule.md` and is note 2 in `NOTES-FOR-OSINT.md`.
+- ~~**`capture-rule.md` and `build-catalogue.py` describe a private vault that is never republished.**~~ Cleared 2026-08-06. `outputs/` carries no verbatim bodies, so publishing it does not touch the CDPA s.29 basis, which is a claim about the bodies in `raw/` and stays true. `build-catalogue.py` already says the catalogue is public and sends readers to the publisher, so it never disagreed. A wording point remains in `capture-rule.md` and is note 2 in `logs/notes-for-osint.md`.
 - **A consolidated, versioned, methodology-documented cross-country dataset** (2026-08-02 review). Fifty-nine per-country CSVs are not a citable dataset, and the budget CSV's programme grain is documented as broken. The site should launch on one or it spends its credibility on day one.
 - **REPORT-LINT over the reporting layer.** The review's finding is that the system's outputs are ahead of its verification; a public site is the largest possible extension of the output surface, and publication raises the cost of a MOZ-class defect by an order of magnitude.
 
@@ -125,7 +125,7 @@ upstream/          pulled from OSINT outputs/, 1:1 — never hand-edited
 build/             the pull, the renderer, the templates — the only authored code
 site/              rendered artefacts: what is served
 prototypes/        disposable scaffolding (§5)
-DESIGN.md · NOTES-FOR-OSINT.md · CLAUDE.md
+documentation/design.md · logs/notes-for-osint.md · CLAUDE.md
 ```
 
 **One rule per folder, and the folder is the rule.** `upstream/` is replaced wholesale by the pull, so an edit there is overwritten without warning. `site/` is generated, so an edit there is overwritten by the next build. `build/` is the only place anything is authored. This is OSINT's own `new/ → raw/` discipline — a file's folder is its state — applied to a repo where three different things write.
@@ -189,7 +189,7 @@ Verification is then a single instruction anyone can follow: **hash your copy an
 
 **No undated download URL exists at all.** An undated one invites a citation that changes underneath the person who made it, which is the precise failure this section is here to prevent. Browse the HTML at a stable address; every download hands back a dated file.
 
-This makes catalogue slugs permanent identifiers upstream, since the source links inside a PDF downloaded today must still resolve in 2029. That is a constraint on OSINT rather than on the site, and it is recorded as a standing constraint in `NOTES-FOR-OSINT.md`.
+This makes catalogue slugs permanent identifiers upstream, since the source links inside a PDF downloaded today must still resolve in 2029. That is a constraint on OSINT rather than on the site, and it is recorded as a standing constraint in `logs/notes-for-osint.md`.
 
 ### Currency — every edition says that it is one
 

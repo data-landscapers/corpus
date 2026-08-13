@@ -4,7 +4,7 @@
 The site is two jobs. This is the first.
 
   JOB 1 (this script)  OSINT (raw + wiki, read-only)  ->  Corpus outputs/
-  JOB 2 (render)       Corpus outputs/                 ->  Corpus site/     (build/RENDER-RUNBOOK.md)
+  JOB 2 (render)       Corpus outputs/                 ->  Corpus site/     (RENDER.md)
 
 Corpus compiles, reports and analyses; OSINT collects and classifies. This driver reads
 OSINT's committed raw/, index/ and lookups/ and writes only into Corpus's own outputs/.
@@ -19,31 +19,31 @@ are named below and left to the authoring pass; this driver produces everything 
 and renders whatever ledgers already exist.
 
 Stages
-  1. vocab      snapshot lookups/{countries.csv,taxonomy.md} -> build/vocab/   (so JOB 2
+  1. vocab      snapshot lookups/{countries.csv,taxonomy.md} -> outputs/vocab/   (so JOB 2
                 never has to read outside outputs/ — NOTES-FOR-OSINT #9)
   2. catalogue  raw/ -> outputs/catalogue/{raw-catalogue.csv,json}
   3. finance    raw/ -> outputs/non-state-finance/ + outputs/budgets/ (+ all-nonstate.csv)
   4. update     REPORT-UPDATE — the ledgers' nightly move. `--scan` here prints the work order
                 (units holding sources the ledger has not considered); the authoring itself is
-                a model stage (see build/BUILD-RUNBOOK.md § Report update), which then calls
+                a model stage (see BUILD.md § Report update), which then calls
                 report-scan --mark and report-render.
   5. reports    ledger -> outputs/reports/{unit}/*.md  (tables rebuilt, narrative carried)
   6. summary    what was produced
 
   OSINT_PATH   where OSINT is checked out (default: the mounted OSINT folder)
-  python build/rebuild.py --all                 # vocab + catalogue + finance + scan + summary
-  python build/rebuild.py --scan                # the report-update work order, only
-  python build/rebuild.py --all --reports all   # ...and re-render every report's tables
-  python build/rebuild.py --reports ZAF KEN     # re-render specific units only
+  python scripts/rebuild.py --all                 # vocab + catalogue + finance + scan + summary
+  python scripts/rebuild.py --scan                # the report-update work order, only
+  python scripts/rebuild.py --all --reports all   # ...and re-render every report's tables
+  python scripts/rebuild.py --reports ZAF KEN     # re-render specific units only
 """
 import argparse, csv, glob, json, os, shutil, subprocess, sys
 
 CORPUS = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 OSINT = os.environ.get("OSINT_PATH", "/sessions/dazzling-intelligent-brown/mnt/OSINT")
-TOOLCHAIN = os.path.join(CORPUS, "build", "toolchain")
-WORK = os.path.join(CORPUS, "build", ".workroot")     # gitignored; symlinks + a view onto outputs
+TOOLCHAIN = os.path.join(CORPUS, "scripts")           # all .py live here now
+WORK = os.path.join(CORPUS, "scripts", ".workroot")   # gitignored; symlinks + a view onto outputs
 OUTPUTS = os.path.join(CORPUS, "outputs")
-VOCAB = os.path.join(CORPUS, "build", "vocab")
+VOCAB = os.path.join(CORPUS, "outputs", "vocab")      # Job 2 reads vocab from outputs/ only
 
 
 def setup_workroot():
@@ -74,7 +74,7 @@ def snapshot_vocab():
     os.makedirs(VOCAB, exist_ok=True)
     for name in ("countries.csv", "taxonomy.md"):
         shutil.copyfile(os.path.join(OSINT, "lookups", name), os.path.join(VOCAB, name))
-    print(f"  vocab -> build/vocab/ ({', '.join(os.listdir(VOCAB))})")
+    print(f"  vocab -> outputs/vocab/ ({', '.join(os.listdir(VOCAB))})")
 
 
 def scan_work_order():

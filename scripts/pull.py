@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """pull.py — bring OSINT's outputs/ into Corpus as upstream/.
 
-The first half of the build (DESIGN.md §8). It reads OSINT's *committed* HEAD,
+The first half of the build (documentation/design.md §8). It reads OSINT's *committed* HEAD,
 extracts outputs/ at that commit, checks it for source bodies, and replaces
 upstream/ with it wholesale.
 
-    python build/pull.py                 # pull if OSINT has moved
-    python build/pull.py --dry-run       # report what would change, touch nothing
-    python build/pull.py --force         # re-pull even if the SHA is unchanged
-    python build/pull.py --commit        # git-commit the result in Corpus
+    python scripts/pull.py                 # pull if OSINT has moved
+    python scripts/pull.py --dry-run       # report what would change, touch nothing
+    python scripts/pull.py --force         # re-pull even if the SHA is unchanged
+    python scripts/pull.py --commit        # git-commit the result in Corpus
 
 OSINT IS READ-ONLY. Every git call here is `rev-parse`, `archive`, `diff`,
 `log` or `status` — all read-only, all via `git -C`. Nothing in this file may

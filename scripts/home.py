@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""home.py — the home page (DESIGN.md §3, §6).
+"""home.py — the home page (documentation/design.md §3, §6).
 
-    python build/home.py   ->  site/index.html
+    python scripts/home.py   ->  site/index.html
 
 Promoted from prototypes/build-home-page.py once the wireframe was agreed;
 revised 2026-08-11 to Bill's numbered change list. The shape, in order: the
@@ -11,7 +11,7 @@ this-month stat bar; a two-line statement of what the corpus is; Countries,
 Regions and Topics as heading, intro text and a box matrix each.
 
 **Where the numbers come from.** `REPO-STATUS.md` will write nightly counts
-into `outputs/catalogue/stats.json` (NOTES-FOR-OSINT.md #8). Until it does,
+into `outputs/catalogue/stats.json` (logs/notes-for-osint.md #8). Until it does,
 this reads `upstream/catalogue/raw-catalogue.csv` and counts the same things
 itself — `load_stats()` prefers the published file and falls back, so the
 page is right today and needs no rewrite when the file lands.
@@ -22,7 +22,7 @@ coverage, not documents, and the caveat travels with them on the page.
 
 Country and topic boxes link to `{SITE_BASE}/countries/{ISO3}/` and
 `{SITE_BASE}/topics/{slug}/` regardless of whether those pages exist yet —
-pull exhaustively, publish selectively (DESIGN.md §8): the box is honest
+pull exhaustively, publish selectively (documentation/design.md §8): the box is honest
 about what the base holds even before the page that would serve it is
 written.
 """
@@ -53,9 +53,9 @@ STATS_SHAPE = """{
 
 # Level-1 labels from `lookups/taxonomy.md`, and country/region names from
 # `lookups/countries.csv` — both in OSINT, neither in `outputs/`. The build is
-# not allowed to read outside `outputs/` (NOTES-FOR-OSINT.md), so for now they
+# not allowed to read outside `outputs/` (logs/notes-for-osint.md), so for now they
 # are duplicated here. Two copies of one vocabulary is exactly the failure
-# DESIGN.md §8 refuses elsewhere, so this is a note for OSINT (#9), not a
+# documentation/design.md §8 refuses elsewhere, so this is a note for OSINT (#9), not a
 # pattern to repeat deliberately.
 L1 = {
     "infra": "ICT Infrastructure", "dpi": "Digital public infrastructure",
@@ -202,7 +202,7 @@ def e(s: str) -> str:
 def country_boxes(by_place: dict[str, int]) -> str:
     """Shaded by volume, so an uneven base looks uneven at a glance rather than
     presenting as even coverage. Every box links to its country page whether or
-    not that page is built yet (DESIGN.md §8: pull exhaustively, publish
+    not that page is built yet (documentation/design.md §8: pull exhaustively, publish
     selectively) — a live link that 404s until the page lands is honest about
     what the base holds; hiding it would not be. Labelled with the short name
     (Bill, 2026-08-11); the ISO3 survives as a `title` attribute. Sorted by

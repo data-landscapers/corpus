@@ -2,11 +2,11 @@
 """render.py — one report, two outputs.
 
 Renders a report from `upstream/` to HTML and PDF from one template and one
-stylesheet (DESIGN.md §8). The PDF is not a second design: it is the same
+stylesheet (documentation/design.md §8). The PDF is not a second design: it is the same
 document with the print rules in `site/assets/css/report.css` applied.
 
-    python build/render.py upstream/reports/KEN/KEN-status.md
-    python build/render.py upstream/reports/KEN/KEN-status.md --out site/
+    python scripts/render.py upstream/reports/KEN/KEN-status.md
+    python scripts/render.py upstream/reports/KEN/KEN-status.md --out site/
 
 The page is built from the website's own markup vocabulary — `.site-header`,
 `.article-header`, `.article-body`, `.badge`, `.site-footer` — so it reads as
