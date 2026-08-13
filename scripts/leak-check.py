@@ -59,6 +59,7 @@ PROSE_COLUMNS = {"description", "note", "position_end", "summary"}
 MAX_PROSE_FIELD = 8000
 MAX_HTML_BLOCK = 8000        # observed max legitimate block 3,238
 MAX_PDF_PAGE = 12000         # observed max legitimate page  5,490
+MAX_MD_LINE = 6000           # observed max legitimate line  2,185 (median 25)
 csv.field_size_limit(10 ** 8)
 
 # Frontmatter that only ever belongs to an OSINT source record. Rendered into a
@@ -77,9 +78,32 @@ def frontmatter(text: str) -> list[str]:
     return text[3:end].splitlines() if end != -1 else []
 
 
+def body_lines(text: str) -> list[str]:
+    """Everything after the frontmatter. One line per paragraph is the repo's
+    writing rule, so a line here *is* a paragraph and is the right unit to cap."""
+    if not text.startswith("---"):
+        return text.splitlines()
+    end = text.find("\n---", 3)
+    if end == -1:
+        return text.splitlines()
+    rest = text[end + 1:]
+    nl = rest.find("\n")
+    return rest[nl + 1:].splitlines() if nl != -1 else []
+
+
 def check_markdown(path: Path, rel: str) -> list[str]:
     faults = []
-    for line in frontmatter(path.read_text(encoding="utf-8", errors="replace")):
+    text = path.read_text(encoding="utf-8", errors="replace")
+    # F19: the body, not just the frontmatter. A body pasted into a report's
+    # prose used to pass here and only fail once rendered to HTML or PDF.
+    for n, line in enumerate(body_lines(text), start=1):
+        if LEAKED_FRONTMATTER.search(line):
+            faults.append(f"{rel}: body line {n} carries source frontmatter")
+            break
+        if len(line) > MAX_MD_LINE:
+            faults.append(f"{rel}: body line {n} is {len(line)} chars (cap {MAX_MD_LINE})")
+            break
+    for line in frontmatter(text):
         key, _, val = line.partition(":")
         if key.strip() == "type" and val.strip() == "source":
             faults.append(f"{rel}: frontmatter declares `type: source`")
@@ -111,6 +135,11 @@ def check_json(path: Path, rel: str) -> list[str]:
         data = json.loads(path.read_text(encoding="utf-8", errors="replace"))
     except json.JSONDecodeError:
         return []
+    return check_json_data(data, rel)
+
+
+def check_json_data(data, rel: str) -> list[str]:
+    """The walk, over already-parsed data — shared with the .js checker (F20)."""
     faults: list[str] = []
 
     def walk(node, trail, key=""):
@@ -214,9 +243,38 @@ def check_pdf(path: Path, rel: str) -> list[str]:
     return []
 
 
+# A generated data file dressed as a script: `window.CATALOGUE = {...};`
+JS_ASSIGNMENT = re.compile(r"^\s*(?:var|let|const)?\s*[\w.$]+\s*=\s*(.*?);?\s*$", re.S)
+JS_LONG_STRING = re.compile(r'"((?:[^"\\]|\\.){%d,})"' % MAX_PROSE_FIELD)
+
+
+def check_js(path: Path, rel: str) -> list[str]:
+    """`site/catalogue/catalogue-data.js` is catalogue records, not code (F20).
+
+    Unwrap the assignment and walk it as JSON, so it gets the same key-name and
+    field-length checks as the .json it was packed from. A .js that is genuinely
+    code will not parse — that is not a leak, so fall back to scanning its text
+    for markers and oversized string literals rather than failing the run on it.
+    """
+    text = path.read_text(encoding="utf-8", errors="replace")
+    match = JS_ASSIGNMENT.match(text.strip())
+    if match:
+        try:
+            return check_json_data(json.loads(match.group(1)), rel)
+        except json.JSONDecodeError:
+            pass
+    faults = []
+    if LEAKED_FRONTMATTER.search(text):
+        faults.append(f"{rel}: carries source frontmatter")
+    for literal in JS_LONG_STRING.findall(text):
+        faults.append(f"{rel}: string literal is {len(literal)} chars (cap {MAX_PROSE_FIELD})")
+        break
+    return faults
+
+
 CHECKERS = {".md": check_markdown, ".csv": check_csv, ".json": check_json,
             ".txt": check_text, ".html": check_html, ".htm": check_html,
-            ".pdf": check_pdf}
+            ".pdf": check_pdf, ".js": check_js}
 
 
 def scan(root: Path) -> list[str]:
@@ -225,8 +283,13 @@ def scan(root: Path) -> list[str]:
     for path in sorted(root.rglob("*")):
         if not path.is_file():
             continue
-        rel = path.relative_to(root).as_posix()
-        if "raw/" in rel or rel.startswith("raw"):
+        relpath = path.relative_to(root)
+        rel = relpath.as_posix()
+        # A *directory* named raw, matched on path components. The old string
+        # test (`rel.startswith("raw")`) also caught `raw-catalogue.csv`, so the
+        # gate's verdict depended on which root you passed it: clean under
+        # `site`, false-positive under `site/catalogue`.
+        if "raw" in relpath.parts[:-1]:
             faults.append(f"{rel}: path is under raw/")
             continue
         check = CHECKERS.get(path.suffix.lower())
