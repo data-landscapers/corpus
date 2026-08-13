@@ -20,6 +20,16 @@ The existing renderers (`render.py`, `home.py`, `country.py`) were written to re
 - Run every command from the repo root (`C:\Users\bill\Dropbox\Github\Corpus`).
 - Commit after each coherent step (repo convention).
 
+## Step 0 — start from a clean tree
+
+Commit anything outstanding first, so the render's own commits are isolated and no uncommitted work is at risk:
+
+```bash
+git add -A && git diff --cached --quiet || git commit -m "Commit outstanding work before render"
+```
+
+A no-op if the tree is already clean.
+
 ## Step 1 — point the build at Corpus-owned outputs
 
 Quick path (zero code change): mirror `outputs/` into `upstream/`.
