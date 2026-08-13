@@ -2,6 +2,10 @@
 .obsidian/
 .claude/
 
+# FreeFileSync writes one HTML session log per mirror run. Diagnostics, not
+# history — the dated one-liner in logs/mirror_log.md is the record.
+logs/mirror-ffs/
+
 # Staging is created outside the repo, but belt and braces.
 .pull-staging/
 __pycache__/

@@ -42,7 +42,7 @@
     </FolderPairs>
     <Errors Ignore="false" Retry="2" Delay="5"/>
     <PostSyncCommand Condition="Completion"/>
-    <LogFolder>C:\Users\bill\OSINT\logs\mirror-ffs</LogFolder>
+    <LogFolder>C:\CORPUS\logs\mirror-ffs</LogFolder>
     <EmailNotification Condition="Always"/>
     <GridViewType>Action</GridViewType>
 </FreeFileSync>
