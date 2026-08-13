@@ -54,17 +54,27 @@ def _link_dir(link, target):
     symlink, so this still works when run in the Cowork container for testing.
     Junctions are directory-only and local-disk-only; every link here is both.
     """
-    if os.path.islink(link) or os.path.exists(link):
+    # lexists, not islink-or-exists: a link whose target is gone reports False to
+    # BOTH of those, so the old guard skipped the removal and mklink then failed
+    # with "Cannot create a file when that file already exists". A broken link is
+    # the normal state after OSINT moves or a container run leaves POSIX symlinks
+    # behind, so this is the case that has to work, not the edge case.
+    if os.path.lexists(link):
         try:
             os.rmdir(link)            # junction or empty dir: unlinks, leaves target
         except OSError:
             try:
-                os.remove(link)       # symlink
+                os.remove(link)       # symlink, broken or live
             except OSError:
                 shutil.rmtree(link, ignore_errors=True)
     if os.name == "nt":
-        subprocess.run(["cmd", "/c", "mklink", "/J", link, target], check=True,
-                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        # Capture the failure text: a bare exit code here costs an hour of guessing.
+        p = subprocess.run(["cmd", "/c", "mklink", "/J", link, target],
+                           capture_output=True, text=True)
+        if p.returncode != 0:
+            raise RuntimeError(
+                f"mklink /J {link} -> {target} failed: "
+                f"{(p.stdout + p.stderr).strip() or 'no output'}")
     else:
         os.symlink(target, link)
 
