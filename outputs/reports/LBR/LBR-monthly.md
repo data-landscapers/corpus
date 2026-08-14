@@ -1,15 +1,16 @@
 ---
 title: Liberia — monthly update, July 2026
-compiled: 2026-08-09
-period: 2026-07-01 to 2026-08-09
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: LBR
-ledger_rows: 22
-not_held: 9
+ledger_rows: 26
+not_held: 8
+record: 80c0f03cb06e
 ---
 
 # Liberia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-09 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -28,13 +29,11 @@ At the same 21 July event, the Posts and Telecommunications Minister [announced 
 
 The Anti-Corruption Commission's 30 July complaint over the telecoms traffic-monitoring arrangement, forwarded to its investigation unit, is covered under Governance and regulation → Public debate and participation in policymaking below.
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
 At the same 21 July event the minister also [announced a national data centre to hold government data domestically](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date, budget line or site given.
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -50,13 +49,11 @@ The central bank's fee schedule for interoperable transfers was reported on 5 Au
 
 On 28 July the finance minister named the [national electronic payment switch as the enabler of a 24-hour economy, with creative-sector support to enter the 2027 budget](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html). No go-live date was given.
 <!-- /narrative -->
-
-### Registries
+### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 Speaking on 21 July, the Posts and Telecommunications Minister said [rollout of a national digital postal address system had begun across all fifteen counties](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date or budget line given.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -70,25 +67,26 @@ The e-procurement platform published its first operating figures on 5 August: [m
 <!-- narrative: governance--gov-legislate -->
 The same package, [set out on 17 July](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/), covers a split of infrastructure and service licences with rural incentives, tower-sharing rules, the country's first satellite regulations, an IMEI anti-theft regime and repatriation of the .lr country domain. None has been published as an instrument.
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 The African Development Bank launched its [country strategy for 2026-2031 in Monrovia on 30 July, cutting its sectors from four to three and funding an indicative 2026-2028 programme of UA 129m — US$172.86m at the February 2026 conversion — of which 36.3% is unfunded](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html). The only digital line in the indicative programme is a non-lending study on digital solutions for Monrovia traffic congestion, and the strategy's own ICT assessment cites a policy that expired in 2024.
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 At the African Telecommunications Union plenipotentiary session in Abuja in July, Liberia [negotiated a waiver of US$361,151.36 in arrears dating back to 1982, deposited its instrument of ratification and had its voting rights restored](https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/).
 <!-- /narrative -->
+### Data protection
 
+<!-- narrative: governance--gov-protect -->
+
+<!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
 On 30 July the Anti-Corruption Commission [confirmed it had forwarded a complaint about the telecoms traffic-monitoring arrangement to its investigation unit](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html). No evidence has been publicly produced and no findings made.
 <!-- /narrative -->
-
 ### Open data
 
 <!-- narrative: governance--data-open -->
@@ -104,13 +102,11 @@ At the President's third national youth town hall in Buchanan on 29 July, the Pr
 
 The country's first working legal AI was launched on 31 July: [CJ Lewis, built by the law library Liblaw over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, with OHCHR support on human-rights principles in the design](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/). No accuracy or evaluation figure is given, no model or vendor is named, and the corpus is a private compilation.
 <!-- /narrative -->
-
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
 The port authority signed a [non-exclusive smart-ports memorandum with HAROPA PORT covering all four seaports, with no amount, date or named system](https://www.thenewdawnliberia.com/npa-french-port-giant-sign-smart-ports-deal/).
 <!-- /narrative -->
-
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
@@ -121,12 +117,16 @@ UNDP set out its contributions at the summit, adding in its own account of 3 Aug
 
 ## Inclusion and capacity
 
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+
+<!-- /narrative -->
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
 On 31 July, 19 young leaders took the [first of three media and information literacy sessions in Monrovia, run through the UN electoral support project with the National Elections Commission and the Press Union on Canadian funding](https://www.undp.org/liberia/press-releases/young-liberians-strengthen-digital-citizenship-and-information-integrity-safeguard-democracy). Six external funders and implementers stand behind a programme whose stated purpose is national resilience against misinformation before elections, and no budget figure is disclosed for it.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->

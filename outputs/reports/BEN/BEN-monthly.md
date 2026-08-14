@@ -1,15 +1,16 @@
 ---
 title: Benin — monthly update, July 2026
-compiled: 2026-08-04
-period: 2026-07-01 to 2026-08-04
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: BEN
-ledger_rows: 20
+ledger_rows: 22
 not_held: 4
+record: 3721c2408ce6
 ---
 
 # Benin: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-04 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -23,10 +24,15 @@ A full read of the state's estimates volumes, dated 25 July, establishes that th
 
 ## Infrastructure
 
-### Cybersecurity
+### Strategies, plans and policies
 
-<!-- narrative: infrastructure--infra-cybersec -->
-At a June conference carried into the month's record, the digital agency put the number of state services delivered online at more than 230, and said about 40 priority structures had been placed under tailored security oversight. An expert roadmap to 2033 recommends a sovereign cloud and a national cyber authority; neither is on the record as more than a recommendation. Nothing moved on connectivity: not the second 5G network, not the roaming arrangement with Senegal and Togo, not the regional broadband financing approved in March.
+<!-- narrative: infrastructure--gov-policy -->
+
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: infrastructure--gov-discourse -->
+
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -36,25 +42,31 @@ At a June conference carried into the month's record, the digital agency put the
 <!-- narrative: dpi--dpi-exchange -->
 The exchange [recorded more than 138 million requests in total](https://statistiques.xroad.bj/), 32.7m in the preceding thirty days, across 73 members, 176 information systems and 512 services.
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 On 16 July the identity agency's director general set out the birth-registration gap and the single-window remedy at ten maternities.
 <!-- /narrative -->
-
-### Sectoral management information systems (HMIS, EMIS, etc.)
-
-<!-- narrative: dpi--dpi-mis -->
-The [malaria programme](https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria) combining AI, drones and geospatial mapping was reported on 3 July, with incidence down 38% and mortality down 39% across 2022–2024.
-<!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The [justice sector's 2026–2033 plan](https://lematinal.bj/justice-beninoise-de-2026-2033-un-secteur-connecte-et-accessible-pour-tous/) commits to a case-tracking portal, secure hosting of judicial instruments and digitally integrated legal aid. It names no budget, no sequencing and no implementing agency.
 <!-- /narrative -->
+### Strategies, plans and policies
 
+<!-- narrative: dpi--gov-policy -->
+
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: dpi--gov-regional -->
+
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: dpi--gov-standards -->
+
+<!-- /narrative -->
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -62,34 +74,6 @@ The digital agency published these exchange-usage figures on 11 July.
 <!-- /narrative -->
 
 ## Governance and regulation
-
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The Cyber Africa Forum returns to Cotonou in November 2026.
-
-The joint circular of 24 July requires every state structure to digitise its paper records. The returns it states are fiscal and environmental: lower printing, physical-archiving and file-circulation costs, and a reduced administrative carbon footprint. The government describes it as Benin's entry into the era of paperless administration. The announcement states no implementation deadline, no budget line, no scope definition for the records covered and no compliance mechanism. The circular's own text is not published, so those omissions are established from the announcement rather than from the instrument. The national DPI roadmap, opened for drafting on 31 July, addresses the birth-registration gap from the service side, under the once-only principle.
-<!-- /narrative -->
-
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-Benin co-led a [six-country francophone AI-governance framework](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) taken to the UN Global AI Dialogue on 9 July.
-<!-- /narrative -->
-
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-The first national vulnerability report records 878 vulnerabilities, 23% of them critical, and institutional compliance ranging from 6% to 87%.
-
-On 28 July the digital agency's quarterly legal bulletin set out what a body must satisfy before connecting to the national data exchange. A private body must hold authorisation from the data-protection authority before its first connection, which places the regulator in the technical onboarding path rather than in a complaints process afterwards. The bulletin states no fee schedule, no processing time and no count of authorised participants. The National Root Certification Authority and the PASI/PDAIE interoperability referentials, also dated to the start of the window, have no drafted narrative yet.
-<!-- /narrative -->
-
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-_(narrative not yet written)_
-<!-- /narrative -->
 
 ### Open data
 
@@ -99,19 +83,33 @@ The Open Government Partnership national action plan's co-creation opened at the
 
 ## Artificial intelligence and the technology sector
 
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: ai-tech--dpi-mis -->
+
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: ai-tech--gov-regional -->
+
+<!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
 A domestic content-verification platform founded in 2025 was profiled on 27 July; it checks text, images, audio and video, including AI-generated content.
 <!-- /narrative -->
-
-## Inclusion and capacity
-
 ### Literacy
 
-<!-- narrative: inclusion--capacity-literacy -->
-On 29 July a co-author of the national AI strategy published a book on building a large language model from scratch, arguing for frugal domestic AI.
+<!-- narrative: ai-tech--capacity-literacy -->
+
 <!-- /narrative -->
+### Training and skills
+
+<!-- narrative: ai-tech--capacity-training -->
+
+<!-- /narrative -->
+
+## Inclusion and capacity
 
 ### Training and skills
 
@@ -119,12 +117,4 @@ On 29 July a co-author of the national AI strategy published a book on building 
 The Council of Ministers authorised a national tele-teaching platform across four public universities for 2026–27, with virtual amphitheatres for students in the hinterland. The state RSSI certification programme and the Sème City skills hub network, both dated within the window, have no drafted narrative yet.
 
 Benin held a first National AI Olympiad on 9 July. Nothing moved on the national strategy itself, on the generative-AI compliance regime published in June, or on the government super app the presidential programme lists among its existing foundations and which nothing establishes.
-<!-- /narrative -->
-
-## Finance
-
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-A full read of the state's estimates volumes, dated 25 July, establishes that the data-protection authority carries its own budget line across three years, that the digital agency running the CSIRT, the data centre and the PKI has no visible line in any of them and is funded from inside the sector programme, that the identity agency carries no programme of its own, and that the telecoms regulator does not appear in the finance law at all. The volumes are complete; what is absent is the institutions' own budget standing. The digital programme those institutions sit inside stood at 0.62% of credits ordonnancé at 30 April 2026, against 15.43% across all programmes. The same read establishes that the annual performance reports the organic budget law requires have never been issued for any year, that the Cour des comptes has published no execution report after 2023, and that the law settling the 2024 accounts was still unposted two months after its enactment.
 <!-- /narrative -->

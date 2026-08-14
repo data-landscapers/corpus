@@ -1,15 +1,16 @@
 ---
 title: Burkina Faso — monthly update, July 2026
-compiled: 2026-08-05
-period: 2026-07-01 to 2026-08-05
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: BFA
-ledger_rows: 51
-not_held: 14
+ledger_rows: 44
+not_held: 11
+record: b0076da77a18
 ---
 
 # Burkina Faso: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-05 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -26,13 +27,11 @@ At the Prime Minister's mid-year review of 25 July the digital ministry reported
 
 The regulator ran a four-day workshop with territorial authorities from 29 June to 2 July, naming local opposition and misinformation as continuing brakes on tower rollout. At an address-protocol forum on 3 July the regulator and operators again called for a migration plan with a firm calendar; none is adopted.
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
 A wholly domestic commercial hosting provider [launched on 31 July](https://www.aib.media/burkina-souverainete-numerique-ika-cloud-le-premier-hebergeur-100-local-des-donnees/) with more than 600 domain names, more than 196 web hostings and 98% availability at launch — the vendor's own figures, with capacity, tier and certification unstated.
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -46,25 +45,32 @@ The Council of Ministers of 30 July [adopted two decrees applying the 2024 infor
 <!-- narrative: dpi--dpi-id -->
 The Council of Ministers of 30 July also [adopted the decree organising mass registration for the unique electronic identifier](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/), through committees run entirely by public structures so that fingerprint and iris data stay in-country, with mass enrolment targeted before end-2026. Enrolment had not begun as at 5 August, and the decree states no target, budget or supervisory authority. A Nigerien technical mission was received on 30 July.
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 The regional instant-payment rail moved its deadlines rather than its coverage: the central bank [extended connection to 30 September 2026 for banks and payment institutions and 30 June 2027 for microfinance](https://techafricanews.com/2026/07/13/burkina-faso-targets-1000-white-zones-in-2026-connectivity-drive/), with 80 institutions connected union-wide at 24 June and 74 more in test.
 <!-- /narrative -->
-
-### Registries
+### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 An estate-agency register launched on 21 July with a compulsory card applied for and tracked wholly online and commissions capped.
 <!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
 
+<!-- narrative: dpi--dpi-mis -->
+
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 Automated traffic enforcement entered operation at midnight on 1 August after an April pilot, reading plates against the vehicle database, serving fines by message with a link to the national payments rail, and immobilising vehicles for non-payment within a month. It [logged 1,099 offences between midnight and noon that day](https://lefaso.net/spip.php?article148326) and five payments. Neither held account reports a legal basis, retention rule or data-protection authorisation; the justification given is 15,614 road accidents in 2025.
 
 A pension formalities portal also launched on 21 July, presented as improving data exchange between three administrations rather than as a web front end. The Council of Ministers of 23 July separately converted the trade single window's operator into a state company.
+<!-- /narrative -->
+### Digitalisation of sub-national government
+
+<!-- narrative: dpi--digital-localgov -->
+
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -74,7 +80,6 @@ A pension formalities portal also launched on 21 July, presented as improving da
 <!-- narrative: governance--gov-legislate -->
 The Council of Ministers of 23 July restricted recourse to the fast-track procurement route to sovereignty, strategic character, threats to public order or service continuity, and humanitarian consequences of insecurity — at the same sitting that used the route for a schools package of about FCFA 38bn.
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -82,7 +87,6 @@ On 3 August the legislature [voted the personal-data protection bill and the org
 
 The same 23 July sitting replaced the 2017 decree governing the non-profit register, fixing for the first time a retention period for that data after dissolution.
 <!-- /narrative -->
-
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
@@ -106,13 +110,11 @@ Asked in plenary where AI sat in the new data-protection law, the justice minist
 <!-- narrative: inclusion--include-access -->
 A financial inclusion agency delivered training and consumer protection this month, not its regulator.
 <!-- /narrative -->
-
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
 That agency and a payments operator opened a 72-hour financial-education campaign on 28 July, extending a partnership running since 2025 to four cities.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
@@ -128,7 +130,6 @@ An operator digital centre marked five years of operation at a ministerial visit
 <!-- narrative: finance--finance-new -->
 A digital acceleration project stated on 13 July that it will support connectivity to [1,000 localities in 2026](https://techafricanews.com/2026/07/13/burkina-faso-targets-1000-white-zones-in-2026-connectivity-drive/) against nearly 2,000 still without mobile or internet service, expected to benefit one and a half to two million people, most of them rural. No regulator or ministry primary states whether that count is of telecom sites or of localities served.
 <!-- /narrative -->
-
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->

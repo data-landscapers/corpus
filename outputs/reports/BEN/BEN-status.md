@@ -1,14 +1,15 @@
 ---
 title: Benin — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: BEN
-ledger_rows: 75
+ledger_rows: 76
 not_held: 4
+record: d6426e5775fd
 ---
 
 # Benin: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/BEN/ledger.csv` (75 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/BEN/ledger.csv` (76 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -24,52 +25,52 @@ Against that, the first per-programme execution figures Benin has ever published
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G networks | [Implemented](https://techafricanews.com/2026/04/28/benin-enters-the-5g-era-as-moov-africa-benin-launches-high-speed-network-at-novotel-orisha-cotonou/) | Second operator live 2026-04-28 |
 | National fibre backbone | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-sets-2031-horizon-for-new-digital-transformation-roadmap) | More than 3,000 km in service (2026-02) |
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data centre | [Implemented](https://fraternite.bj/5eme-edition-du-cyber-africa-forum-les-assises-de-cotonou-pour-le-renforcement-de-la-cybersecurite/) | In operation behind the cyber stack (2025-06) |
 | Sovereign cloud and national cyber authority | [Planned](https://fraternite.bj/securite-nationale-et-transformation-numerique-ce-que-propose-lexpert-ale-abdel-farid/) | Urged by an expert roadmap to 2033 (2026-04) |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital-security stack | [Implemented](https://fraternite.bj/5eme-edition-du-cyber-africa-forum-les-assises-de-cotonou-pour-le-renforcement-de-la-cybersecurite/) | CSIRT, PKI, forensic laboratory and critical-infrastructure policy in place |
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | SECUROUTE road-enforcement data platform | [In development](https://techafricanews.com/2026/01/27/cybastion-advances-digital-government-solutions-supports-benins-securoute-infrastructure-upgrade/) | In build from 2026-01-27 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cotonou cyber-hub programme | [Implemented](https://www.lanation.bj/actualites/cyber-africa-forum-2026-cotonou-au-coeur-des-enjeux-de-cybersecurite-en-afrique) | 300 police unit heads trained in 2026 |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Free roaming with Senegal and Togo | [Implemented](https://lanation.bj/numerique/telecommunications-le-benin-le-senegal-et-le-togo-lancent-un-roaming-sans-frontieres) | Live 2026-04-24 |
 | Participation in regional cybercrime enforcement | [Implemented](https://fraternite.bj/vaste-coup-de-filet-contre-la-cybercriminalite-en-afrique-651-arrestations-le-benin-concerne/) | Carton Rouge 2.0 takedown, 651 arrests (2026-02) |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National vulnerability report | [Implemented](https://techafricanews.com/2025/07/03/benin-releases-first-national-cybersecurity-report-highlighting-rising-threats) | First report published 2025-06-25 |
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | WARDIP second-phase regional digital financing | [Implemented](https://www.biometricupdate.com/202603/new-137m-initiative-to-enable-digital-service-access) | US$137m approved 2026-03-16 |
 
@@ -85,13 +86,13 @@ The agency reports more than 230 services delivered online and about 40 priority
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AFIS fingerprint system wired to the regional police exchange | [Implemented](https://fraternite.bj/lutte-contre-la-criminalite-au-benin-un-systeme-automatise-didentification-par-empreintes-digitales-inaugure/) | Inaugurated 2025-09-30 |
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Customs system migration | [Implemented](https://itweb.africa/article/webb-fontaine-advances-benins-customs-digitisation-project/Pero37Z3aLRMQb6m) | 44 of 49 offices migrated (2025-02) |
 | Electronic international waybill | [Implemented](https://fraternite.bj/benin-la-lettre-de-voiture-internationale-electronique-au-depart-du-port-officiellement-lancee/) | Launched 2026-05-22, mandatory after three months |
@@ -99,7 +100,7 @@ The agency reports more than 230 services delivered online and about 40 priority
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Citizen mobile wallet | [Planned](https://www.biometricupdate.com/202506/benin-envisages-mobile-wallet-launch-in-inclusive-national-digital-id-push) | Planned for end-2026 |
 | Diaspora biometric passport renewal platform | [Implemented](https://www.biometricupdate.com/202510/benin-unveils-platform-to-ease-biometric-passport-applications-for-diaspora-citizens) | Live 2025-10-24 |
@@ -107,7 +108,7 @@ The agency reports more than 230 services delivered online and about 40 priority
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cashless motorway tolls | [Implemented](https://fraternite.bj/siratpay-le-paiement-numerique-simplifie-les-peages-au-benin/) | Live 2026-03-19 |
 | Mobile money | [Implemented](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | 88.09% penetration on 11.65m active accounts (2025-12) |
@@ -116,7 +117,7 @@ The agency reports more than 230 services delivered online and about 40 priority
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Birth registration | [In development](https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale) | Single-window pilot at 10 maternities, 76.56% |
 | e-Foncier national land cadastre | [Implemented](https://fraternite.bj/modernisation-de-landf-e-foncier-au-service-de-la-securite-des-investissements/) | 445,695 parcels registered (2026-03) |
@@ -125,15 +126,16 @@ The agency reports more than 230 services delivered online and about 40 priority
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
+| ACTIA academic records platform (Universite d'Abomey-Calavi) | [Implemented](https://fraternite.bj/universite-dabomey-calavi-les-demandes-dactes-academiques-passent-desormais-par-la-plateforme-actia/) | Made the sole channel by rectorate note of 31 July 2026 |
 | e-Procurement platform | [In development](https://lanation.bj/economie/marches-publics-au-benin-une-plateforme-unique-pour-plus-de-transparence) | First build tender declared unsuccessful 2025-09-16 |
 | Justice-sector digitalisation plan 2026-2033 | [Planned](https://lematinal.bj/justice-beninoise-de-2026-2033-un-secteur-connecte-et-accessible-pour-tous/) | Published 2026-07-24 |
 | Portail national des services publics | [Implemented](https://www.lanation.bj/numerique/conference-des-rssi-les-experts-mobilises-pour-une-cybersecurite-plus-resiliente) | More than 230 services routed through it (2026-06) |
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Décret 2020-209 instituting the exchange | [Implemented](https://api.xroad.bj/media/617ac98a74baa_D%C3%A9cret%20n%C2%B02020-209%20du%2018%20mars%202020%20portant%20mise%20en%20place%20de%20la%20Plateforme%20d%27Interop%C3%A9rabilit%C3%A9%20XRoad%20BJ%20%281%29.pdf) | Signed 2020-03-18 |
 | Extension of the biometric register to foreigners and Afro-descendants | [Implemented](https://www.lanation.bj/actualites/assemblee-nationale-larticle-6-de-la-loi-sur-lidentification-des-personnes-physiques-retouche) | Law 2025-12, 2025-06-23 |
@@ -142,7 +144,7 @@ The agency reports more than 230 services delivered online and about 40 priority
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mandatory digitisation of paper records | [Implemented](https://www.gouv.bj/article/3605/budget-fonction-publique-modernisation-administrative-levier-economies-budgetaires-transition-ecologique/) | Joint circular, 2026-07-24 |
 | National DPI roadmap | [In development](https://www.biometricupdate.com/202607/benins-dpi-roadmap-aims-to-end-siloed-digital-government) | Drafted 2026-07-31 |
@@ -150,7 +152,7 @@ The agency reports more than 230 services delivered online and about 40 priority
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 50-in-5 digital public infrastructure campaign membership | [Implemented](https://www.biometricupdate.com/202606/benin-joins-50-in-5-as-digital-identity-dpi-strategy-advances) | Joined 2026-06-02 |
 | ECOWAS-standard biometric identity card | [Implemented](https://lanation.bj/numerique/mise-en-oeuvre-de-la-carte-didentite-biometrique-de-la-cedeao-les-medias-appeles-a-jouer-un-role-cle-dans-la-sensibilisation) | Issued to ECOWAS standard since 2020 |
@@ -159,7 +161,7 @@ The agency reports more than 230 services delivered online and about 40 priority
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cadre d'interopérabilité | [Implemented](https://api.xroad.bj/documents/10/download) | In force from 2020-03-18 |
 | National Root Certification Authority and trust services | [Implemented](https://techafricanews.com/2025/07/17/benin-signs-landmark-agreements-to-expand-trust-services-and-accelerate-digital-transformation) | Operating from 2026-07-01 |
@@ -168,20 +170,20 @@ The agency reports more than 230 services delivered online and about 40 priority
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Consumer redress for failed mobile-money transactions | [In development](https://fraternite.bj/guichets-automatiques-bancaires-et-mobile-money-enquete-sur-le-calvaire-des-usagers-face-aux-transactions-echouees/) | Redress body established 2025-07-29 |
 | Free identity-card distribution by civil society | [Implemented](https://fraternite.bj/octroi-des-pieces-didentite-long-je-suis-citoyen-beninois-sort-certains-beninois-de-lanonymat/) | More than 130,000 cards across nine communes (2026-05) |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic payment aggregator | [Implemented](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | More than 13,000 merchants (2026-05) |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public reporting of exchange usage | [Implemented](https://statistiques.xroad.bj/) | Directory published 2026-07-11 |
 
@@ -201,13 +203,13 @@ On regional border cooperation, the customs administrations of Nigeria, Cameroon
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-localisation law | [Planned](https://pub-f2abea1e4da540aa9a3e39fedb257f21.r2.dev/PROGRAMME-WADAGNI-TALATA-2026.pdf) | Committed in the presidential programme (2026-03) |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Machinery of government for digital | [Implemented](https://beninwebtv.bj/benin-mahuna-akplogan-prend-les-commandes-du-nouveau-ministere-de-lia/) | Portfolio changed hands 2026-05-27 |
 | Presidential programme 2026-2033 digital commitments | [Planned](https://pub-f2abea1e4da540aa9a3e39fedb257f21.r2.dev/PROGRAMME-WADAGNI-TALATA-2026.pdf) | Published 2026-03-21 |
@@ -216,27 +218,27 @@ On regional border cooperation, the customs administrations of Nigeria, Cameroon
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cotonou Declaration on a single digital market | [Implemented](https://lanation.bj/actualites/transformation-numerique-en-afrique-de-louest-et-du-centre-les-dirigeants-sengagent-a-oeuvrer-pour-des-progres-tangibles) | Adopted 2025-11-19 |
 | Data-protection cooperation conventions | [Implemented](https://lanation.bj/numerique/protection-des-donnees-personnelles-le-benin-et-le-senegal-scellent-une-alliance-strategique-a-cotonou) | Signed with Senegal and Mali 2026-04-17 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data protection authority | [Implemented](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite) | 907 files examined, 14 sanctioned (2025 report) |
 | Enforcement against the electoral agency | [Implemented](https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula) | Fields stripped before publication (2026-05) |
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-protection authority AI policy | [Implemented](https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula) | Adopted 2026-05-16 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open Government Partnership national action plan | [In development](https://www.lanation.bj/societe/partenariat-pour-un-gouvernement-ouvert-les-communes-entrent-en-action) | Co-creation opened 2026-07-29 |
 
@@ -254,50 +256,50 @@ On openness, an [Open Budget Survey 2025 score of 77/100 on transparency](https:
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI, drone and geospatial malaria programme | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria) | US$2.3m programme with Japanese financing |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Six-country francophone AI-governance framework | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Taken to the UN Global AI Dialogue 2026-07-09 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Generative-AI compliance regime for public agents | [Implemented](https://asin.bj/doc/137/download) | In force from 2026-06-01 |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fon-language voice AI | [Implemented](https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide) | Launched 2025-06-30 |
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI and big-data strategy | [Implemented](https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide) | The 2023-2027 strategy in force |
 | Government AI super app | ***Not held*** | — |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic content-verification platform | [Implemented](https://www.wearetech.africa/fr/fils/tech-stars/le-beninois-rene-fadonougbo-lutte-contre-la-desinformation-en-ligne) | Founded 2025, operating (2026-07) |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India digital cooperation | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI Olympiad | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | First edition held 2026-07-09 |
 
@@ -315,7 +317,7 @@ The domestic commercial layer is early: a content-verification platform founded 
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National tele-teaching platform | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-higher-education-access-through-e-learning-strategy) | Authorised for 2026-27 across four universities |
 | State RSSI certification programme | [Implemented](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi) | Cohort of 25 opened 2026-08-03 |
@@ -329,13 +331,13 @@ On access and skills, the state is building the delivery layer: a national tele-
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | MEF digitalisation support project (BOAD) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46021-2026008%22) | Committed 2026-05-19, implementation under way |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Quarterly budget execution reports (RAPEX) | [Implemented](https://budgetbenin.bj/storage/2025/06/RAPEX-au-31-mars-2025.pdf) | Latest instalment held covers to 31 March 2025 |
 | Annual performance reports required by the organic budget law | ***Not held*** | — |

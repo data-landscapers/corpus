@@ -1,14 +1,15 @@
 ---
 title: Liberia — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: LBR
 ledger_rows: 55
 not_held: 8
+record: 60e5cc3c82a7
 ---
 
 # Liberia: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (55 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (55 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ What did get built is payments. The central bank's [interoperable instant paymen
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G network services | [Planned](https://www.liberianobserver.com/news/liberia-on-the-verge-of-5g-revolution/article_992b027e-4c8a-4578-bf70-baf2e2eabeeb.html) | Stated as planned by the LTA chairman, January 2026 |
 | Domestic fibre-optic backbone extension | [In development](https://www.liberianobserver.com/news/liberia-on-the-verge-of-5g-revolution/article_992b027e-4c8a-4578-bf70-baf2e2eabeeb.html) | Extension from Buchanan toward Rivercess, Sinoe, Maryland, Grand Gedeh and Nimba reported under way |
@@ -38,14 +39,14 @@ What did get built is payments. The central bank's [interoperable instant paymen
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data centre | [Planned](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/) | Announced by the Posts and Telecommunications Minister, 21 July 2026 |
 | Tier III+ data centre at Buchanan | [In development](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf) | Stated as under development in the National Data Governance Policy, March 2026 |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybercrime Act 2025 | [In development, passed by the Legislature, awaiting presidential signature](https://www.liberianobserver.com/news/house-to-probe-data-breach-6-1m-foya-project/article_20b56386-12e0-4c66-b0d8-51bcbf475890.html) | Still unsigned by President Boakai as of Senator Moye's public statement, 1 July 2026 |
 | Cybersecurity Regulations (LTA-REG-0013-2026) | [Implemented](https://liblaw.org/document/cybersecurity-regulations-lta-reg-0013-2026/) | Made by the LTA under the Telecommunications Act 2007, 13 January 2026, effective from the day of publication |
@@ -68,13 +69,13 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Interoperability framework between government registers | ***Not held*** | — |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Executive Order 147 (mandatory biometric identity) | [Implemented](https://idtechwire.com/liberia-makes-biometric-id-cards-mandatory-for-citizens-and-residents) | Signed April 2025, making enrolment mandatory for citizens and 90-day residents |
 | National Biometric Identification System (NIR) | [In development](https://www.biometricupdate.com/202605/liberia-restructures-national-id-deal-with-osd-plans-issuance-restart) | Concession restructured with OSD International and an issuance restart planned |
@@ -82,7 +83,7 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Interoperable payment fee regime | [Implemented](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) | Central bank-approved schedule reported 5 August 2026 |
 | National Electronic Payment Switch | [Planned](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) | Named by the finance minister at a youth town hall, 28 July 2026 |
@@ -90,28 +91,28 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital postal address system | [In development](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/) | Rollout stated as begun across all fifteen counties, 21 July 2026 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil Service Agency automated legal power of attorney platform | [Implemented](https://www.liberianobserver.com/business/csa-goes-live-with-automated-lpa-platform/article_f73f54f9-cac1-4fa6-b5e1-f0d33235505f.html) | Went live December 2025 with 5,000 enrolled across 16 government entities |
-| Electronic government procurement platform | [Implemented](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/) | More than 1,200 vendors registered, reported 5 August 2026 |
+| Electronic government procurement platform | [Implemented](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | Phase Two equipment distribution begun, 5 August 2026 |
 | GREAT digital identity and digital government project | [Implemented](https://www.biometricupdate.com/202503/liberia-launches-digital-public-infrastructure-project-with-30m-world-bank-funding) | US$30m World Bank project launched, March 2025 |
 | Office of Technology, Digitalization and Innovation (Executive Order 163) | [Implemented](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html) | Executive Order 163 signed, 22 April 2026 |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digitalisation of county and city administration | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Earth observation or geospatial data programme | ***Not held*** | — |
 
@@ -127,14 +128,14 @@ Government systems are being coordinated from the centre for the first time. [Ex
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | LTA licensing and spectrum reform package | [In development](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/) | Reform package set out by the board chair, 17 July 2026 |
 | Mobile Money Regulations (Central Bank of Liberia) | [Implemented](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf) | In force as the central bank's mobile-money framework |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | African Development Bank Country Strategy Paper 2026-2031 | [Implemented](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html) | Approved February 2026 and launched in Monrovia, 30 July 2026 |
 | Digital Liberia national digital strategy 2025-2029 | [Implemented](https://techafricanews.com/2026/02/03/liberia-unveils-5-year-digital-liberia-strategy/) | Published by the Ministry of Posts and Telecommunications, February 2026 |
@@ -142,35 +143,35 @@ Government systems are being coordinated from the centre for the first time. [Ex
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | African Telecommunications Union membership | [Implemented](https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/) | US$361,151.36 in arrears waived and voting rights restored at the Abuja plenipotentiary session, July 2026 |
 | Liberia-Gambia-Sierra Leone free roaming | [Implemented](https://www.telecomreviewafrica.com/articles/general-news/11208-west-african-nations-sign-roaming-agreement-to-cut-telecom-costs/) | Took effect 2 May 2025 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Personal Information Act (data protection bill) | [In development](https://www.liberianobserver.com/politics/house-reviews-privacy-data-protection-bill/article_6675211a-e8bc-43c6-8e04-e73cbf26278a.html) | Recorded as before the legislature at the ID4Africa annual meeting, May 2026 |
 | Privacy enforcement against telecom operators | [Implemented](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license) | Orange Liberia fined LRD 4m for unauthorised issuance of a subscriber's SIM to a third party |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Anti-Corruption Commission complaint against the LTA | [In development](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html) | Complaint forwarded to the Commission's investigation unit, 30 July 2026 |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation with Liberia | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
-| Publication of the telecoms regulator's own revenue | ***Not held*** | 2026-08-04 |
+| Publication of the telecoms regulator's own revenue | ***Not held*** | — |
 
 <!-- narrative: governance -->
 The [Personal Information Act reached a House committee in June 2025 and is unpassed](https://www.liberianobserver.com/politics/house-reviews-privacy-data-protection-bill/article_6675211a-e8bc-43c6-8e04-e73cbf26278a.html); Liberia is an ECOWAS data-protection signatory with no national data authority. The ministry's [National Data Governance Policy of March 2026 designates the Independent Information Commission as data regulator rather than creating a new body](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf), a mandate that takes effect only under the unenacted Act, and [prescribes ratification of the Malabo Convention and an adequacy-or-explicit-consent rule for personal data leaving the country](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf). The only privacy penalty on record came through telecom regulation: Orange Liberia was [fined LRD 4m in June 2026 for issuing a subscriber's SIM to a third party](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license).
@@ -186,33 +187,33 @@ The regulator's chairman [declined to disclose the Authority's revenue, saying h
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CJ Lewis legal-learning artificial intelligence | [Implemented](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/) | Launched at a Monrovia press conference, 31 July 2026 |
 | National artificial intelligence priority | [Planned](https://fpa.news/young-liberians-challenge-boakai-on-artificial-intelligence-he-accepted-what-comes-next/) | Accepted in principle by the President at the youth town hall, July 2026 |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Smart ports memorandum with HAROPA PORT | [Planned](https://www.thenewdawnliberia.com/npa-french-port-giant-sign-smart-ports-deal/) | Memorandum signed in Le Havre, July 2026 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Lantern GovTech and Cyber Arena platform | [Implemented](https://www.liberianobserver.com/news/lantern-shines-brightest-as-2026-tech-summit-ends/article_14913b31-0736-4a07-bc38-29c6e5f79d54.html) | Won the national Startup World Cup at the technology summit, 22 July 2026 |
 | UNIPOD innovation and digital hub | [Implemented](https://fpa.news/undp-reaffirms-commitment-to-liberias-digital-transformation-at-tech-summit/) | Named by UNDP as a flagship contribution at the technology summit, July 2026 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital cooperation with Liberia | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf state digital investment in Liberia | ***Not held*** | — |
 
@@ -226,20 +227,20 @@ The domestic technology sector is thin and partner-supported. UNDP runs the [UNI
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Media and information literacy training for elections | [Implemented](https://www.undp.org/liberia/press-releases/young-liberians-strengthen-digital-citizenship-and-information-integrity-safeguard-democracy) | First of three sessions held in Monrovia, 31 July 2026 |
 | MOE Digital Learning Platform and Liberia Learns | [Implemented](https://techpoint.africa/insight/techpoint-digest-1253/) | Rolled out by the Ministry of Education, 6 January 2026 |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | University of Liberia master's programme in artificial intelligence | [Planned](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today) | Partnership announced by UNDP, reported 3 August 2026 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic digital research capacity | ***Not held*** | — |
 
@@ -255,7 +256,7 @@ Capacity work is donor-run at every level: schools connected [under a programme 
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | America First Global Health Strategy health data systems funding | [Planned](https://healthpolicy-watch.news/wp-content/uploads/2025/12/US-Liberia-MOU-2025.pdf) | Memorandum of understanding signed 9 December 2025 |
 | WARDIP2 financing for Liberia | [Implemented](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) | US$125m of World Bank agreements signed at Mount Coffee, 8 June 2026, of which US$50m is WARDIP2 |

@@ -1,14 +1,15 @@
 ---
 title: Burkina Faso — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: BFA
 ledger_rows: 99
 not_held: 11
+record: 86eac69469e1
 ---
 
 # Burkina Faso: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/BFA/ledger.csv` (99 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/BFA/ledger.csv` (99 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -22,7 +23,7 @@ Burkina Faso's digital state is being built by decree and by executive programme
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cross-border frequency coordination protocol | [Implemented](https://www.sidwaya.info/communications-electroniques-le-burkina-le-ghana-le-mali-et-le-niger-harmonisent-leurs-frequences/) | Signed 2025-11-21 |
 | Digital planning observatory | [Implemented](https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-lobservatoire-de-lamenagement-numerique-lance/) | Platform launched 2025-10-24 |
@@ -40,7 +41,7 @@ Burkina Faso's digital state is being built by decree and by executive programme
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data repatriation programme | [Implemented](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/) | 120 externally hosted public platforms inventoried, migration begun |
 | Domestic commercial hosting provider | [Implemented](https://www.aib.media/burkina-souverainete-numerique-ika-cloud-le-premier-hebergeur-100-local-des-donnees/) | Launched 2026-07-31 under ministry patronage |
@@ -51,13 +52,13 @@ Burkina Faso's digital state is being built by decree and by executive programme
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Energy supply for rural telecom sites | ***Not held*** | No named programme, budget line or target on file |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Critical-infrastructure classification decree | [Implemented](https://burkina24.com/wp-content/uploads/2026/07/CONSEIL-DES-MINISTRES-N%C2%B025-DU-30-JUILLET-2026.pdf) | Adopted in Council of Ministers 2026-07-30 |
 | Digital infrastructure supervision centre | [In development](https://techafricanews.com/2026/01/20/burkina-faso-kicks-off-construction-of-digital-infrastructure-monitoring-center/) | Construction started 2026-01-19 on a nine-month build |
@@ -78,21 +79,21 @@ The 2024 information-systems security law acquired part of its machinery: the Co
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic travel form | [Implemented](https://www.sidwaya.info/formalites-a-laeroport-la-fiche-de-police-se-remplit-desormais-en-ligne/) | Launched 2026-04-08 |
 | National interoperability framework | ***Not held*** | No published framework on file |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regional biometric identity card | [Implemented](https://www.sidwaya.info/carte-didentite-biometrique-aes-au-burkina-faso-le-capitaine-ibrahim-traore-pour-commencer/) | Launched with the head of state's own enrolment, December 2025 |
 | Unique electronic identifier | [In development](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/) | Enrolment decree adopted by the Council of Ministers 2026-07-30 |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Certified electronic invoice | [Implemented](https://www.sidwaya.info/modernisation-de-ladministration-fiscale-la-facture-electronique-certifiee-officiellement-lancee/) | Launched by the finance minister 2026-01-06 |
 | National payments platform | [Implemented](https://lefaso.net/spip.php?article148326) | Became the collection rail for automated traffic fines 2026-08-01 |
@@ -100,7 +101,7 @@ The 2024 information-systems security law acquired part of its machinery: the Co
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-registration platform | [Implemented](https://lefaso.net/spip.php?article144154) | Thirty communes holding fully digitised registers at end-2025 |
 | Estate-agency register | [Implemented](https://digitalmagazine.bf/2026/07/23/burkina-faso-lancement-officiel-de-la-plateforme-de-delivrance-de-la-carte-nationale-de-demarcheur-pour-le-bail-dhabitation-prive/) | Launched 2026-07-21 under an April 2026 interministerial order |
@@ -109,7 +110,7 @@ The 2024 information-systems security law acquired part of its machinery: the Co
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Customs system | [In development](https://www.sidwaya.info/transformation-numerique-inclusion-financiere-et-financement-des-pme-le-bilan-dun-projet-structurant-au-burkina-faso/) | Advanced test phase, production described as imminent |
 | Pension acts platform | [Planned](https://www.laborpresse.net/retraite-des-agents-publics-du-burkina-faso-une-plateforme-ecarfo-dediee-aux-formalites/) | Announced as the completion of the pension programme |
@@ -117,7 +118,7 @@ The 2024 information-systems security law acquired part of its machinery: the Co
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Automated traffic enforcement | [Implemented](https://lefaso.net/spip.php?article148326) | Went live at midnight on 2026-08-01 after a pilot from April 2026 |
 | Central electronic-services portal | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-launches-central-portal-to-streamline-e-services) | Launched 2026-05-05 |
@@ -129,20 +130,20 @@ The 2024 information-systems security law acquired part of its machinery: the Co
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Citizen service centres | [In development](https://www.moussonews.com/contrats-dobjectifs-2026-467-de-taux-dexecution-a-mis-parcours-pour-dr-aminata-zerbo-sabane/) | Two pilot sites under construction |
 | Regional portals | [Implemented](https://www.sidwaya.info/portails-des-regions-du-burkina-faso-un-pas-decisif-vers-une-administration-numerique-de-proximite/) | Launched 2026-06-16 |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National statistics instrument | ***Not held*** | No statistics law or development strategy on file |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Satellite verification of land development | [Implemented](https://www.sidwaya.info/reorganisation-agraire-et-fonciere-la-nouvelle-loi-un-rempart-contre-les-derives/) | Provided for by the land-management decree adopted March 2026 |
 
@@ -158,7 +159,7 @@ The newest object is a kind rather than a system. Automated traffic enforcement 
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fast-track procurement decree | [Implemented](https://www.rtb.bf/2026/07/24/compte-rendu-du-conseil-des-ministres-du-jeudi-23-juillet-2026/) | Adopted in Council of Ministers 2026-07-23 |
 | Headquarters-localisation decree | [Implemented](https://www.ecofinagency.com/news-digital/1302-52867-burkina-faso-orders-large-firms-to-build-local-headquarters) | Adopted 2026-02-12 |
@@ -168,14 +169,14 @@ The newest object is a kind rather than a system. Automated traffic enforcement 
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Information-systems management procedures manual | [In development](https://www.sidwaya.info/communication-electronique-au-sein-des-ministeres-et-institutions-un-manuel-de-procedures-de-gestion-des-systemes-dinformation-valide/) | Validated at a workshop 2025-09-23 |
 | Public digital platforms decree | [Implemented](https://lefaso.net/IMG/pdf/decret_portant_modalite_de_mise_en_exploitation_des_plateformes_numeriques_de_l_administration_publique.pdf) | Signed 2024-08-02 as a regularisation, deliberated in Council 2024-05-08 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data protection commission | [Implemented, superseded subject to promulgation](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Superseded by the merger vote 2026-08-03 |
 | Data protection law of 2021 | [Implemented, enforcement decrees never issued](https://www.sidwaya.info/journee-nationale-de-protection-des-donnees-a-caractere-personnel-la-cil-sollicite-laccompagnement-du-premier-ministre/) | Enacted 2021-03-30 |
@@ -186,20 +187,20 @@ The newest object is a kind rather than a system. Automated traffic enforcement 
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Broadcasting regulator | [Implemented, mandate transferred subject to promulgation](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Communication-regulation mandate inherited by the merged authority |
 | Organic law on social-media regulation | [Implemented](https://burkina24.com/2025/02/11/droits-numeriques-au-burkina-faso-le-centre-national-de-presse-norbert-zongo-presente-son-rapport-2024/) | Operationalisation began in 2024 |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European digital cooperation instrument | [Discontinued](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf) | Country programme ended 2024-12-31 by Commission Implementing Decision C(2024)7502 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Access to public information law | ***Not held*** | Reported dormant 2025-02-11 |
 | National open-data portal | ***Not held*** | No portal, catalogue or licence named in any held source |
@@ -218,7 +219,7 @@ The European country programme has ended: the Commission [closed it on 31 Decemb
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI centre of excellence | [Implemented](https://lefaso.net/spip.php?article137461) | A second competitive research grant began April 2025 |
 | Dedicated AI regulation | [Planned](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Announced in plenary 2026-08-03 |
@@ -230,19 +231,19 @@ The European country programme has ended: the Commission [closed it on 31 Decemb
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Innovation platform | [Planned](https://www.ecofinagency.com/news-digital/2410-49818-burkina-faso-launches-faso-andube-platform-to-promote-local-innovation) | Announced by the head of state October 2025 |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | US AI training initiative | [Planned](https://itweb.africa/article/us-burkina-faso-alliance-to-offer-ai-training-to-youths/rW1xL75n8o9MRk6m) | Announced by the US ambassador 2026-01-28 |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf digital memorandum | [Planned](https://www.connectingafrica.com/digital-inclusion/burkina-faso-uae-s-presight-partner-to-accelerate-digital-transformation) | Memorandum signed 2025-09-22 |
 
@@ -258,7 +259,7 @@ Capacity is being built at the top of the state rather than in the market. About
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital programme for girls and women | [Discontinued](https://open.enabel.be/en/evaluation/23/download/96) | Programme end year 2025 |
 | Sahel connectivity project | [Discontinued](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | A 2021 to 2026 project report published June 2026 |
@@ -266,21 +267,21 @@ Capacity is being built at the top of the state rather than in the market. About
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Consumer-protection rules | [Implemented](https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-tightens-telecom-regulations-but-affordability-concerns-persist) | Enforceable after a court ruling, announced 2025-12-02 |
 | Financial inclusion promotion agency | [Implemented](https://lefaso.net/spip.php?article148215) | Created in 2025 by merging three bodies |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Financial-education campaign with an operator | [Implemented](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/) | A second-city launch 2026-07-28 |
 | Adult digital-literacy rate | ***Not held*** | No rate or baseline on file |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Lawmaker AI training | [Implemented](https://techafricanews.com/2026/07/16/burkina-faso-trains-lawmakers-on-artificial-intelligence-to-support-digital-governance/) | About thirty assembly members trained July 2026 |
 | Operator digital centre | [Implemented](https://techreviewafrica.com/news/6160/orange-digital-center-burkina-faso-showcases-youth-digital-skills-programmes-during-ministerial-visit) | Ministerial visit 2026-07-04, five years of operation |
@@ -295,7 +296,7 @@ A financial-inclusion operation [closed in June 2026](https://www.sidwaya.info/t
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital acceleration project | [Implemented](https://techafricanews.com/2026/07/13/burkina-faso-targets-1000-white-zones-in-2026-connectivity-drive/) | Latest implementation status report archived December 2025 |
 | Financial inclusion and enterprise finance project | [Discontinued](https://www.sidwaya.info/transformation-numerique-inclusion-financiere-et-financement-des-pme-le-bilan-dun-projet-structurant-au-burkina-faso/) | Seven-year implementation ended, results published 2026-06-24 |
@@ -303,7 +304,7 @@ A financial-inclusion operation [closed in June 2026](https://www.sidwaya.info/t
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-protection authority appropriation | [Implemented](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf) | 2026 finance law enacted 2025-12-27 |
 | Digital transformation and ecosystem programme appropriation | [Implemented](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf) | 2026 finance law enacted 2025-12-27 |

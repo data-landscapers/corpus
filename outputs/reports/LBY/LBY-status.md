@@ -1,14 +1,15 @@
 ---
 title: Libya — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: LBY
-ledger_rows: 67
+ledger_rows: 68
 not_held: 7
+record: da1b5ae5a56d
 ---
 
 # Libya: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/LBY/ledger.csv` (67 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/LBY/ledger.csv` (68 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -28,7 +29,7 @@ No data-protection law is in force. The [National Strategy for Artificial Intell
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G network | [Implemented](https://libyaherald.com/2026/01/almadar-mobile-launches-libyas-first-5g-service-in-tripoli-countrywide-roll-out-to-follow-soon/) | First commercial service in central Tripoli 2026-01-29 |
 | ARABSAT and LTT satellite capacity agreement | [Planned](https://techafricanews.com/2026/08/07/arabsat-and-ltt-sign-strategic-partnership-to-strengthen-libyas-digital-infrastructure/) | Agreement announced 2026-08-07; no value, duration or service date |
@@ -43,19 +44,19 @@ No data-protection law is in force. The [National Strategy for Artificial Intell
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Trans-Sahara and Tatweer Tripoli data centre | ***Not held*** | — |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power supply to networks and data centres | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data-centre capacity | ***Not held*** | — |
 
@@ -75,13 +76,13 @@ The Interior Ministry recorded [135 cybercrime cases in the first quarter of 202
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | LY-NDEX national data exchange | [Implemented](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/) | Positioned by GIA as pillar infrastructure for AML/CTF information exchange, at an Interior Ministry workshop concluding 2026-07-08 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric voter verification | [Piloting](https://libyareview.com/47455/libya-implements-biometric-verification-in-municipal-council-elections) | Four municipalities in the 2024 municipal council elections |
 | LY-DNID national digital identity | [Piloting](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/) | Level 3 biometric tier reviewed for financial eKYC, in technical trials with the Central Bank of Libya and several banks |
@@ -90,7 +91,7 @@ The Interior Ministry recorded [135 cybercrime cases in the first quarter of 202
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | E-wallets for resident foreigners | [Implemented](https://alwasat.ly/news/libya/511044) | Circular 9 of 2026 issued 2026-03-11 |
 | International Visa acceptance on local terminals | [Implemented](https://libyaherald.com/2026/06/central-bank-of-libya-governor-inaugurates-2nd-libya-international-electronic-payment-exhibition-epaix-2026) | Launched at EPAIX 2026 on 2026-06-17 |
@@ -103,7 +104,7 @@ The Interior Ministry recorded [135 cybercrime cases in the first quarter of 202
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National postal addressing | [In development](https://libyaobserver.ly/inbrief/libya-launches-postal-addressing-project-tripoli-district) | Phase one, 42,000 buildings in Hay Al-Andalus, Tripoli |
 | Unified Economic Number | [In development](https://libyaherald.com/2026/07/libyan-government-issues-decision-on-implementation-of-unified-economic-number-project) | Decision No. 348 of 2026 authorising implementation |
@@ -112,30 +113,31 @@ The Interior Ministry recorded [135 cybercrime cases in the first quarter of 202
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic Unified Export Window | [Implemented](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/) | LD 79.5m of exports processed April to July 2026 |
 | Libya Experts Forum registration platform | [In development](https://lana.gov.ly/post.php?id=362213&lang=en) | Application reported ready for launch 2026-07-23 |
 | LY-GOVREP government reporting platform | [Implemented](https://libyaherald.com/2026/04/government-reporting-platform-activated-as-a-unified-tool-for-monitoring-performance-and-measuring-achievement-levels-within-public-entities) | Activated as the unified performance-monitoring tool 2026-04-09 |
 | One-Stop Shop for company registration | [Planned](https://libyaherald.com/2026/02/one-stop-shop-system-for-company-registration-to-be-activated-again) | Reactivation meeting 2026-02-16 |
+| Port Trade Service (PTS) vessel-arrival and cargo-manifest system | [Implemented](https://libyaherald.com/2026/08/electronic-service-for-receiving-vessel-arrival-notifications-cargo-manifests-activated-at-tripoli-khoms-ports) | Activated at Tripoli and Al-Khoms ports, 5 August 2026 |
 | Unified Digital System for Chambers of Commerce | [Implemented](https://libyaherald.com/2026/03/unified-chambers-of-commerce-digital-system-launched-to-develop-electronic-services-within-libyas-chambers-of-commerce) | Launched 2026-03-01 |
 | Unified Tax System | [Implemented](https://libyaherald.com/2025/12/tax-authority-launches-unified-tax-system-and-activation-of-tax-polices-role) | Launched 2025-12-12, further platforms stated for 2026 |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural digital service programme | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BaladiyaBOT municipal digital assistant | [In development](https://libyaherald.com/2026/04/municipality-of-tripoli-centre-announces-the-start-of-the-development-of-baladiyabot) | Development began 2026-04-19, piloting in Tripoli Centre |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National earth-observation satellite | [Planned](https://www.lananews.com/ar/?p=499199) | Design-stage discussion 2026-08-04 |
 
@@ -157,7 +159,7 @@ GIA positions [LY-NDEX as pillar infrastructure for inter-agency exchange](https
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Comprehensive cybersecurity law | [In development](https://alwasat.ly/news/libya/524932) | Drafting discussed with the National Security Council 2026-07-16 |
 | E-payment mandate for state revenue collection | [Implemented](https://libyaherald.com/2026/03/aldabaiba-government-and-cbl-take-further-actions-to-encourage-increased-e-payments-use-cbl-reduces-new-fx-bureaux-commission) | Prime-ministerial decree 2026-03-06 |
@@ -165,7 +167,7 @@ GIA positions [LY-NDEX as pillar infrastructure for inter-agency exchange](https
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government Data Governance Policies | [Implemented](https://www.gia.gov.ly/en/2026/02/16/the-general-authority-for-information-presents-its-vision-on-government-data-governance-during-a-cloud-computing-workshop) | Applied to the Libyan Zakat Fund's digital platforms as the reference framework, at a Tripoli workshop 2026-04-23 |
 | National Cloud Computing Policy | [In development](https://www.gia.gov.ly/en/2026/01/01/the-general-information-authority-presents-the-proposed-national-cloud-computing-policy-in-collaboration-with-escwa/) | National consultation held with ESCWA 2026-01-01; final draft pending |
@@ -174,7 +176,7 @@ GIA positions [LY-NDEX as pillar infrastructure for inter-agency exchange](https
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Candidacy for the ITU Council | [Planned](https://lana.gov.ly/post.php?id=362348&lang=en) | Canvassed at the ATU plenipotentiary in Abuja 2026-07-26 |
 | Chair of the Arab working group on AI Data and Digital Infrastructure | [Implemented](https://www.businesstec.news/23334) | Allocation recorded by the Arab ministers' executive bureau 2026-08-01 |
@@ -182,20 +184,20 @@ GIA positions [LY-NDEX as pillar infrastructure for inter-agency exchange](https
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Prohibition on card-payment surcharges | [Implemented](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/) | Municipal Guard enforcement notice 2026-08-02 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-protection law | [Planned](https://libyaherald.com/2025/10/general-information-authority-makes-its-national-strategy-for-artificial-intelligence-2025-2030-publicly-available) | Targeted for 2026 by the National AI Strategy; none enacted as at 2026-08-10 |
 | Tax Police | [Implemented](https://libyaherald.com/2025/12/tax-authority-launches-unified-tax-system-and-activation-of-tax-polices-role) | Role activated with the Interior Ministry 2025-12-12 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | GIA Open Data Platform | [Implemented](https://www.gia.gov.ly/en/2026/02/16/the-general-authority-for-information-presents-its-vision-on-government-data-governance-during-a-cloud-computing-workshop) | Indicators covering 91 datasets (2026-02) |
 | National Committee for the Information for All Programme | [Implemented](https://technology.ly/en/ltf-supports-ifap-initiative/) | Established by Decision No. 50 of 2026; first meeting 2026-07-20 |
@@ -215,27 +217,27 @@ Regulation has lately been pointed at payment behaviour. A [prime-ministerial de
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI Ethics Charter | [Implemented](https://lana.gov.ly/post.php?id=358532&lang=en) | Adopted by PM Dbeibah at an official ceremony, 2026-06-01 |
 | National Artificial Intelligence Strategy | [Implemented](https://libyaherald.com/2025/10/general-information-authority-makes-its-national-strategy-for-artificial-intelligence-2025-2030-publicly-available) | 2026-2030 edition adopted by PM Dbeibah, succeeding the 2025-2030 strategy, 2026-06-01 |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Al Itissan Al-Jadeed biometric passport contract in Niger | [Implemented](https://www.biometricupdate.com/202506/libyan-firm-wins-niger-biometric-passport-national-id-contract) | Contract won 2025-06-30 |
 | Bank digital-service build-outs with foreign vendors | [In development](https://alwasat.ly/news/economy/516048) | Reported in build 2026-04-25 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | LIBIGPT generative-AI system | [Implemented](https://libyaherald.com/2025/10/libyas-first-ai-system-libigpt-launched-in-presence-of-minister-of-economy-and-trade) | Launched 2025-10-28 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Libya and India cooperation on AI and quantum skills | [Planned](https://libyaherald.com/2026/02/libyan-indian-cooperation-to-qualify-national-cadres-in-quantum-computing-and-artificial-intelligence) | Cooperation agreed 2026-02-01 |
 
@@ -249,13 +251,13 @@ The technology sector outside the state is thin and supplier-shaped. Two banks w
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital-literacy programme | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | IsDB cybersecurity and AI-risk training for central bank officials | [Implemented](https://libyaherald.com/2026/08/isdb-conducts-training-for-cbl-officials-on-sukuk-treasury-operations-and-ai-risk-management/) | Executive programme run in Jeddah 27 to 30 July 2026 |
 | Professional master's institute in AI and cybersecurity | [Implemented](https://alwasat.ly/news/libya/496687) | Launched with UNDP 2025-11-01 |
@@ -263,7 +265,7 @@ The technology sector outside the state is thin and supplier-shaped. Two banks w
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Higher-education and research cloud platform | [Planned](https://www.lananews.com/ar/?p=499199) | Approved by the research authority's scientific committee 2026-08-04 |
 
@@ -277,7 +279,7 @@ Access is where the record is thinnest. Holders of administrative numbers rather
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public budget allocation to digital government | ***Not held*** | — |
 
