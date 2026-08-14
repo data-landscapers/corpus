@@ -20,11 +20,11 @@ Until 2026-08-13 CORPUS was a **mirror**: it pulled OSINT's `outputs/` and rende
 
 **OSINT collects and classifies. CORPUS compiles, reports, and analyses.**
 
-CORPUS reads OSINT **read-only** — `raw/`, `index/`, `lookups/`, and the internal `wiki/` — and writes only into its own tree. It never writes to OSINT, in any form. OSINT does not read CORPUS, and gains no publication step in its night, with one exception (the request feed, task R9).
+CORPUS reads OSINT **read-only** — `raw/`, `lookups/` and the internal `wiki/`, and *not* `index/`, which it builds for itself — and writes only into its own tree. It never writes to OSINT, in any form. OSINT does not read CORPUS, and gains no publication step in its night, with one exception (the request feed, task R9).
 
 CORPUS runs as two jobs on Bill's machine: **BUILD** (OSINT evidence → CORPUS `outputs/`) and **RENDER** (`outputs/` → the site). BUILD's compiles are pure functions of `raw/`; its report-update stage is a model pass; RENDER produces the site and backs both repos up (`mirror.bat`, which reads OSINT read-only).
 
-**What OSINT must keep stable, because CORPUS reads it:** `raw/`, `lookups/`, `wiki/` — git-tracked, committed, and with stable slugs. **`index/` is not one of them**: it is derived and gitignored by design, so what it owes CORPUS is freshness, not tracking. These are the standing constraints; they live in `notes-for-osint.md`, not here.
+**What OSINT must keep stable, because CORPUS reads it:** `raw/`, `lookups/`, `wiki/` — git-tracked, committed, and with stable slugs. **`index/` is not one of them and owes CORPUS nothing** *(2026-08-14)*: CORPUS builds its own index from `raw/` and `wiki/` rather than reading OSINT's, so OSINT's index is OSINT's business entirely. These are the standing constraints; they live in `notes-for-osint.md`, not here.
 
 ## The retirement list — tasks for OSINT
 
@@ -42,7 +42,7 @@ Each is *retire X, because CORPUS now owns it, keeping Y*. Do them once CORPUS i
 
 **R5 — Decide the hub `## Financing` prose (the one real coupling).** `compile-hub-financing.py` rewrites a hub's Financing sentences from `outputs/non-state-finance/{ISO3}-nonstate.csv` — a file OSINT will stop producing at R4. The hub is internal OSINT navigation, so it stays; pick one: **(a) re-derive** those sentences straight from `raw/` (recommended — keeps hubs self-contained and reading only OSINT's own evidence); **(b) freeze** the Financing prose as-is; or **(c) read** CORPUS's committed `outputs/`. Do not leave it reading a file that no longer gets written.
 
-**R6 — Retire OSINT's `outputs/`.** Once R1–R4 stop producing it, `outputs/` (reports, catalogue, non-state-finance, budgets) is no longer read by anything — CORPUS reads `raw/`/`index/`/`lookups/`/`wiki/`, never OSINT's `outputs/`. Remove it from git to reclaim space and end the two-authorities risk. Confirm CORPUS has a clean build first; keep one tagged commit as a fallback.
+**R6 — Retire OSINT's `outputs/`.** Once R1–R4 stop producing it, `outputs/` (reports, catalogue, non-state-finance, budgets) is no longer read by anything — CORPUS reads `raw/`/`lookups/`/`wiki/`, never OSINT's `outputs/`. Remove it from git to reclaim space and end the two-authorities risk. Confirm CORPUS has a clean build first; keep one tagged commit as a fallback.
 
 **R7 — Retire the report-layer specs and scripts.** `wiki/report-layer.md`, `wiki/report-country-skeleton.md`, `wiki/report-region-skeleton.md`, and `scripts/report-*.py` (`report-render`, `report-scan`, `report-register-check`, `report-country-init`, `report-region-init`) — CORPUS holds its own copies: the scripts in `scripts/`, and the three specs in `documentation/` as of 2026-08-14, adapted rather than mirrored (the register now points at CORPUS's own, and the gaps loop at the request feed). Nothing in CORPUS reads these three files from OSINT any more, so their removal breaks nothing here. Remove from OSINT unless something else in the vault imports them; grep first.
 
@@ -61,7 +61,7 @@ Do **not** retire any of these; CORPUS depends on them or they are OSINT's core:
 - **Finance/budget record collection:** the sweeps and extractors named in R4.
 - **The wiki:** `HUB-COMPILE` (hub prose), entities, concepts, intersections, place hubs — CORPUS reads the place hubs and `wiki/intersections/` when it initialises a new report.
 - **`LINT`** — vault hygiene, unchanged.
-- **`raw/`, `lookups/`, `wiki/`** — committed and stable; these are the evidence CORPUS reads. **`index/`** it also reads, but from the working tree — derived, gitignored, and owing freshness rather than commits.
+- **`raw/`, `lookups/`, `wiki/`** — committed and stable; these are the evidence CORPUS reads, from the working tree through its workroot junctions. **`index/`** it does not read at all: it builds its own.
 
 ## Sequencing
 

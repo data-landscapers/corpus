@@ -25,9 +25,11 @@ __pycache__/
 outputs/non-state-finance/*-summary.csv
 
 # The index is rebuildable scaffolding and is never committed — the freshness
-# sweep in vault_lib is what pays for that. Corpus reads OSINT's through the
-# workroot junctions; an index/ appearing here means a script was run with the
-# repo root as ROOT, which indexes a tree holding none of the roots and yields
-# a correct index of nothing. That state reports itself *fresh*, so nothing
-# rebuilds and nothing warns. Committed once on 2026-08-14 (c53dcf7); removed.
+# sweep in vault_lib is what pays for that. Corpus builds its own (2026-08-14),
+# and it belongs in scripts/.workroot/index/, which .workroot/ above already
+# covers; an index/ appearing HERE, at the repo root, means a script was run
+# with the repo root as ROOT, which indexes a tree holding none of the roots.
+# That would be a correct index of nothing, reporting itself *fresh* for ever
+# after — so vault_lib now refuses to write it (EmptyIndex) and this line is
+# the second line of defence. Committed once on 2026-08-14 (c53dcf7); removed.
 index/

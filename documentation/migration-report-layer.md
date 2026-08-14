@@ -17,7 +17,7 @@ That is the clean line, and everything follows from it.
 OSINT owns the evidence: `raw/` (sources with their structured frontmatter — finance records, budget lines, facets), `index/`, `lookups/`, and the internal `wiki/` synthesis (hubs, entities, concepts). It runs the sweeps, `INGEST`, `UPDATE-WIKI`, `HUB-COMPILE`, `LINT`.
 Corpus owns everything derived for a reader: the catalogue, the non-state-finance CSVs, the budget CSVs, and the report-and-analysis layer. It reads OSINT's `raw/` and `lookups/` read-only — the access it already has — and writes nothing back.
 
-This is confirmed feasible in the code. Every output derives from read-only inputs: `build-catalogue.py` reads `raw/`; `build-finance-page.py` reads finance and budget records out of `raw/` plus two `lookups/` tables; the report scripts read `raw/`, `index/`, `lookups/`. Nothing that produces an output needs to write into OSINT.
+This is confirmed feasible in the code. Every output derives from read-only inputs: `build-catalogue.py` reads `raw/`; `build-finance-page.py` reads finance and budget records out of `raw/` plus two `lookups/` tables; the report scripts read `raw/`, `lookups/` and an index Corpus builds for itself. Nothing that produces an output needs to write into OSINT.
 
 ## What Corpus now owns
 
@@ -84,7 +84,7 @@ Mechanism: Corpus writes a machine-readable **request feed** (`logs/requests-for
 
 The mirror of the constraints already atop `logs/notes-for-osint.md`, now that Corpus depends on OSINT's evidence:
 
-- `raw/`, `lookups/` and `wiki/` stay git-tracked and committed — an uncommitted tree is the one state a rebuild cannot restore. Corpus reads all three from OSINT's **working tree**, through the workroot junctions, not from `HEAD`. **`index/` is not among them**: it is derived, OSINT gitignores it, and what Corpus needs there is freshness rather than tracking, enforced by `vault_lib`'s refusal to rebuild a foreign index. *(`wiki/` added 2026-08-14, when the status and initialisation processes made it load-bearing; `index/` corrected out of the list, and the `HEAD` claim corrected, the same day. `logs/notes-for-osint.md` → standing constraints is the full statement.)*
+- `raw/`, `lookups/` and `wiki/` stay git-tracked and committed — an uncommitted tree is the one state a rebuild cannot restore. Corpus reads all three from OSINT's **working tree**, through the workroot junctions, not from `HEAD`. **`index/` is not in the list and is not read at all**: Corpus builds its own from `raw/` and `wiki/`, in its own tree, in about five seconds. An index is a cache of something Corpus can already read, so depending on OSINT's copy bought nothing and cost a build that could be stopped by a maintenance step Corpus is not allowed to run. *(`wiki/` added 2026-08-14, when the status and initialisation processes made it load-bearing; `index/` dropped, and the `HEAD` claim corrected, the same day. `logs/notes-for-osint.md` → standing constraints is the full statement.)*
 - Slugs in `raw/` stay stable — a re-slugged source reads as new to Corpus.
 - The hub compile re-derives from `raw/`, not from Corpus's CSVs — no cross-repo build-order dependency.
 - The request feed is honoured on some cadence, or the gaps loop stops draining.
