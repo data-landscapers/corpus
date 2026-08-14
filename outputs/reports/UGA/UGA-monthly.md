@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: UGA
 ledger_rows: 48
 not_held: 16
-record: 730e72ee7a37
+record: 1731279c468d
 ---
 
 # Uganda: monthly update, July 2026
@@ -34,12 +34,12 @@ On 5 August the network operator with the largest published footprint released i
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-
+The Namanve colocation facility is operating with no Uganda capacity figure published; its group [committed capital rose from US$350m to US$380m on 13 July](https://tech.africa/raxio-380m-committed-capital/), a figure spanning seven markets rather than Uganda alone.
 <!-- /narrative -->
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
-
+The largest operator's 2025 sustainability report puts [45% of network sites on solar or hydro, with a 490 kWh solar plant commissioned at headquarters](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). The figures are the company's own and unaudited, and no prior-year share is held against which to read the 45%.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -54,7 +54,7 @@ On 17 July the regulator opened work on a [national anti-piracy coordination fra
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-
+The identity authority put its own constraint on the record on 7 August: it is [operating at 70% of its approved workforce, with 25 districts served by a single member of staff and two board seats vacant](https://allafrica.com/stories/202608070683.html). The figures were given to the internal affairs minister alongside a request for a permanent headquarters and additional wage funding.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -64,7 +64,7 @@ Three payment arrangements were opened in the month, all private. A [licensed lo
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-_(narrative not yet written)_
+Electronic government procurement reached [136 entities onboarded with version 2.0 in service, verifying suppliers automatically against the revenue, registration, identity and social-security registers](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026), and training opened for a further 100 entities on 3 August. An onboarded entity no longer advertises tenders in newspapers and may transact only with registered providers. Onboarding is stated to continue each financial year until all of government is on the system.
 <!-- /narrative -->
 ### National statistics
 
@@ -82,7 +82,7 @@ The regulator issued a [public notice on 7 July opening nationwide enforcement a
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-
+The ICT ministry [states a device-tax-cut paper is ready for cabinet before the end of the quarter](https://www.newvision.co.ug/category/business/ict-ministry-communication-stakeholders-call-NV_238288_082026). The proposals behind it would take excise duty on data and airtime from 12% to 5% and VAT on mobile data from 18% to 14%, with duty relief on entry-level handsets; no measure is adopted and the study itself is not held.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -109,7 +109,7 @@ Reporting of 29 July recorded that no work had begun on the [revenue authority's
 ### EU activities
 
 <!-- narrative: governance--geopol-eu -->
-_(narrative not yet written)_
+A [technical-assistance tender was published on 31 July, estimated at EUR 938,170 over thirty months from 15 September](https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-giz/2026/08/51947.html), performed from the regional secretariat in Arusha, with designs to be tested against the universal safeguards framework and against local data-protection and localisation law. The same tender names an added national funding window for a sovereign digital public infrastructure loan package with the ICT ministry, for which no amount, instrument or date is stated.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -127,7 +127,7 @@ Three innovation programmes were opened or closed. The ICT institute [launched t
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
-
+The United States health-data memorandum is now held, and it is not the instrument the reporting describes. The signed text [caps the arrangement at seven years, places it under joint steering-committee governance with Uganda as data owner, binds all activity to the Data Protection and Privacy Act and the national data-governance framework, and has Uganda approve the health information architecture before any United States-financed investment](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf); planned support is US$1,719,960,000 against Uganda's US$577,001,796, including US$113,102,289 for data systems. It provides only for a future data-sharing agreement. A [news organisation reported on 23 July that it had reviewed that agreement directly and that it grants direct, real-time login access to nine of Uganda's health data systems for seven years](https://www.propublica.org/article/trump-state-department-africa-uganda-aid-medical-data-privacy). The two accounts describe different instruments rather than contradicting each other; the agreement's own text is unpublished and not held, and no Ugandan or United States primary has confirmed or denied the account.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -147,7 +147,7 @@ An [ICT hub for persons with disabilities was commissioned in Kasese](https://ni
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-
+The state ICT institute reports [48,448 people trained in the financial year: 36,332 citizens, 1,932 government officers, 1,207 educators and instructors and 8,977 in immersive and emerging-technology skills](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), with 65 certified trainers produced. The figures are self-reported and unaudited, and fewer than 4% of those trained were government officers.
 <!-- /narrative -->
 
 ## Finance
@@ -155,5 +155,5 @@ An [ICT hub for persons with disabilities was commissioned in Kasese](https://ni
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-_(narrative not yet written)_
+The digital acceleration project is [named as funder of the Tororo, Mbarara and Gulu service-centre pilots and as the affordable-connectivity vehicle](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations). No disbursement figure is held for it.
 <!-- /narrative -->
