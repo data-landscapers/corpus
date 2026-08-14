@@ -51,8 +51,18 @@ INDEX_VERSION = 1
 
 # Walked in full. `logs/` is deliberately absent: it is append-only prose, not
 # artefacts with frontmatter, and log.md alone would double the read.
-INDEX_ROOTS = ("raw", "wiki", "new", "new-budget", "budget-archive", "reviews",
-               "sweep", "queries")
+#
+# **Corpus indexes only what Corpus reads** *(2026-08-14)*. OSINT's copy of this
+# module walks eight roots because OSINT's lint needs them; Corpus needs `raw/`
+# (the catalogue, slug->URL, check M) and `wiki/` (report initialisation), and
+# nothing here has ever opened `new/`, `new-budget/`, `budget-archive/`,
+# `reviews/`, `sweep/` or `queries/`. The narrower list is not a saving, it is
+# the point: this index is built in Corpus's own tree from whatever the workroot
+# junctions, so every root named here is a directory of OSINT's that has to be
+# exposed to a process that can write. Six of them were exposed for no reader —
+# and `finance-compile-scope.py` writes its state to `ROOT/reviews/`, so
+# `reviews/` was a live path from a Corpus run into OSINT.
+INDEX_ROOTS = ("raw", "wiki")
 
 # Markdown counterparts are indexed with their frontmatter; these are indexed by
 # stat alone (path, size, mtime) so lint #22's artefact-basename match and the

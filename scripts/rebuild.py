@@ -83,37 +83,72 @@ def _link_dir(link, target):
         os.symlink(target, link)
 
 
+def _unlink_foreign(path):
+    """Remove `path` if it is a link pointing outside Corpus. A real directory is left alone.
+
+    Dropping a name from the link list is not enough on its own: `.workroot/index` was a junction
+    to `C:\\OSINT\\index`, and an unlisted junction simply stays, so every read would still go to
+    OSINT and the change would look applied while doing nothing. Removing a junction unlinks it
+    and leaves its target untouched — but a *real* directory here is Corpus's own index, which
+    must survive, hence the resolve-and-compare rather than a blind delete."""
+    if not os.path.lexists(path):
+        return
+    real = os.path.realpath(path)
+    try:
+        inside = os.path.commonpath([os.path.realpath(CORPUS), real]) == os.path.realpath(CORPUS)
+    except ValueError:                                  # different drives
+        inside = False
+    if inside:
+        return
+    print(f"  workroot: unlinking {os.path.basename(path)} -> {real} (Corpus owns its index now)")
+    try:
+        os.rmdir(path)                                  # junction: unlinks, leaves the target
+    except OSError:
+        os.remove(path)                                 # symlink
+
+
 def setup_workroot():
     """Link the workroot at OSINT's evidence and Corpus's own trees.
 
-    **Every root in `vault_lib.INDEX_ROOTS` is junctioned, not just the ones a stage reads.**
-    That is a correctness requirement, not generosity. `index_state()` calls the index stale when
-    the number of files it walks under `INDEX_ROOTS` differs from the count in `meta.json`, and a
-    stale read routes into `build_index()`, which raises `ForeignIndex` here because Corpus may
-    never rebuild OSINT's index. So a workroot exposing a *subset* of the roots the index was
-    built over can never see it as fresh: every consumer dies on the first citation lookup, and
-    rebuilding in an OSINT session does not help, because the shortfall is on this side. Junction
-    all eight and the two views agree. *(2026-08-14: adding `wiki/` alone would have walked 12,588
-    files against a `meta.json` of 10,178 and stopped every render.)*
+    **`index/` is deliberately not junctioned** *(Bill, 2026-08-14)*. It is the one thing here
+    Corpus does not read out of OSINT, and not junctioning it is what ends the dependency: with
+    no link, `vault_lib.INDEX_DIR` resolves to a real directory *inside* the workroot, so Corpus
+    builds and owns its index, `_assert_own_index()` is satisfied by construction, and
+    `ensure_fresh()` may rebuild the moment `raw/` or `wiki/` moves. An index is a cache of a
+    tree Corpus can already read in full; nothing about it needs to be the same *file* OSINT
+    uses, and sharing it made a Corpus build wait on an OSINT maintenance step it cannot run.
+    The workroot is gitignored, so the cache is untracked wherever it lands.
 
-    **Corpus may read anything in OSINT** *(Bill, 2026-08-14)*, so this list is what the build
-    needs, not what it is allowed. The boundary is one-directional and unchanged: nothing here
-    ever writes. `wiki/intersections/` and `wiki/places/` are the primary input to STATUS-INIT.md
-    and to the deferred report-initialisation stage; the rest are here for the index's arithmetic.
+    **Junction only what a stage reads.** Every entry below is a directory exposed to a process
+    that can write, so the list is a boundary surface and is kept as small as the build allows.
+    `raw/` and `wiki/` are the evidence (`INDEX_ROOTS`), `lookups/` the vocabularies. *(The six
+    other roots OSINT's index walks were junctioned earlier today to satisfy a freshness check
+    against OSINT's copy; Corpus owning the index removes the reason, and with it the path by
+    which `finance-compile-scope.py --commit` would have written into `C:\\OSINT\\reviews\\`.)*
+
+    **Corpus may read anything in OSINT** *(Bill, 2026-08-14)* — this list is what the build
+    needs, not what it is allowed. The boundary is one-directional: nothing here ever writes.
     """
     os.makedirs(WORK, exist_ok=True)
     os.makedirs(OUTPUTS, exist_ok=True)
-    for name, target in (*((r, os.path.join(OSINT, r)) for r in vault_lib.INDEX_ROOTS),
-                         ("index", os.path.join(OSINT, "index")),
-                         ("lookups", os.path.join(OSINT, "lookups")),
-                         ("scripts", TOOLCHAIN),
-                         # `report-register-check.py` reads its word budgets from the skeletons in
-                         # documentation/, so without this it dies on FileNotFoundError when run
-                         # from the workroot — which is where BUILD.md tells stage 4 to run
-                         # everything. Corpus's own directory, linked for the same reason outputs/
-                         # is: one working directory for the whole stage.
-                         ("documentation", os.path.join(CORPUS, "documentation")),
-                         ("outputs", OUTPUTS)):
+    links = (*((r, os.path.join(OSINT, r)) for r in vault_lib.INDEX_ROOTS),
+             ("lookups", os.path.join(OSINT, "lookups")),
+             ("scripts", TOOLCHAIN),
+             # `report-register-check.py` reads its word budgets from the skeletons in
+             # documentation/, so without this it dies on FileNotFoundError when run
+             # from the workroot — which is where BUILD.md tells stage 4 to run
+             # everything. Corpus's own directory, linked for the same reason outputs/
+             # is: one working directory for the whole stage.
+             ("documentation", os.path.join(CORPUS, "documentation")),
+             ("outputs", OUTPUTS))
+    # Withdraw first, then link. A link this list no longer names is a door left open into
+    # OSINT — `index/` as of today, and any root a future narrowing drops — so the sweep runs
+    # every time rather than as a one-off migration. Only links out of Corpus are removed;
+    # a real directory (the index Corpus now builds here) is never touched.
+    for name in sorted(os.listdir(WORK)):
+        if name not in {n for n, _ in links}:
+            _unlink_foreign(os.path.join(WORK, name))
+    for name, target in links:
         _link_dir(os.path.join(WORK, name), target)
 
 
