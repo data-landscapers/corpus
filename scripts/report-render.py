@@ -45,7 +45,7 @@ Modes:
               the closed vocabularies, and every ***Not held*** row present in `gaps.csv`.
               J: no document compiled before the ledger's newest source, and every progress
               report carries its shape check. L: no narrative block left unwritten. M: every row
-              that states a position cites a source. Exits non-zero on a miss. A report that
+              that states a position cites a source that resolves. Exits non-zero on a miss. A report that
               fails G or M is not published; one that fails L is not finished; one that fails J
               needs a re-render.
 
@@ -209,6 +209,33 @@ def read_csv(path):
         return [r for r in csv.DictReader(fh) if not vault_lib.blank_csv_row(r)]
 
 
+_INDEX = None
+
+
+def index_rows():
+    """The index, read once per run.
+
+    A single invocation checks up to 57 units and each asks the index two or three questions, so
+    without this the same 10,000-row file is parsed a hundred and fifty times. Held for the life of
+    the process only, which is also what makes it safe: the base cannot move underneath a run that
+    has already started reading it."""
+    global _INDEX
+    if _INDEX is None:
+        _INDEX = vault_lib.load_index()
+    return _INDEX
+
+
+def raw_slugs():
+    """Every source slug the base holds, whether or not it carries a citable URL.
+
+    Kept apart from `slug_urls()` because the two absences are different defects and belong to
+    different people. A slug the base does not hold at all is a mistake in the ledger — a typo, or
+    a record retired since the row was written. A slug the base holds but which carries no `url:`
+    is an uncitable record, which is OSINT's to fix and travels there as a note (§8)."""
+    return {(r.get("d") or {}).get("slug") or os.path.basename(r["path"])[:-3]
+            for r in index_rows() if (r.get("d") or {}).get("folder") == "raw"}
+
+
 def slug_urls():
     """slug -> url for every source in the vault, from the index.
 
@@ -223,7 +250,7 @@ def slug_urls():
     a tree containing none of `raw/`, `wiki/` or the rest. That index then reports itself *fresh*,
     because zero files on disk agrees with zero files in `meta.json`, so nothing rebuilds it and
     nothing says a word."""
-    rows = vault_lib.load_index()
+    rows = index_rows()
     if not rows:
         raise vault_lib.EmptyIndex(
             f"{vault_lib.INDEX_DIR} holds no artefacts — refusing to render or check against it, "
@@ -433,7 +460,7 @@ def source_months(unit, rows_index):
 
 def shape_line(unit, start, end):
     """One sentence with the counts, near the top — §7 says record it, not run it after drafting."""
-    hist = source_months(unit, vault_lib.load_index())
+    hist = source_months(unit, index_rows())
     months = [m for m in sorted(hist) if start[:7] <= m <= end[:7]]
     if not months:
         # The printed close is the sentinel here too — this line goes into the document.
@@ -1007,15 +1034,38 @@ def check_sourced(unit):
     whether the links a document *carries* are held in `index/`, and a row with no source produces
     no link, so it passes by contributing nothing to the test. The result renders as a bare status
     with no hyperlink — indistinguishable from ***Not held***, while asserting its opposite, which
-    is the one confusion the marker exists to prevent."""
+    is the one confusion the marker exists to prevent.
+
+    **A source has to resolve, not merely be typed** *(Bill, 2026-08-14)*. Testing the field for
+    emptiness was the same mistake one level down: on 2026-08-14 this passed a row citing
+    `…mwango-brain-brain-base-nacional-dados`, a slug with a doubled word that the base does not
+    hold, and the row rendered exactly as an unsourced one would — no link for check G to test, a
+    populated `sources` field for this check to be satisfied by. So each slug must be a source the
+    base actually holds, and at least one must carry a URL a reader can follow. The two failures
+    are reported apart because they belong to different people: a slug the base does not hold is a
+    mistake in the ledger, while a slug held without a `url:` is an uncitable record and OSINT's to
+    fix (§8)."""
     _, ledger, _ = load(unit)
-    bad = [f"{r['row_id']}: {stem(r['status']) or r.get('kind') or 'row'} with no source — "
-           f"{r['name']}"
-           for r in ledger
-           if stem(r["status"]) != NOT_HELD and not (r.get("sources") or "").strip()]
+    urls, held = slug_urls(), raw_slugs()
+    bad = []
+    for r in ledger:
+        if stem(r["status"]) == NOT_HELD:
+            continue
+        what = stem(r["status"]) or r.get("kind") or "row"
+        cited = [s.strip().strip("[]") for s in (r.get("sources") or "").split("|") if s.strip()]
+        if not cited:
+            bad.append(f"{r['row_id']}: {what} with no source — {r['name']}")
+            continue
+        for s in cited:
+            if s not in held:
+                bad.append(f"{r['row_id']}: cites {s!r}, which the base does not hold — "
+                           f"a mistyped or retired slug, not a source")
+        if not any(s in urls for s in cited):
+            bad.append(f"{r['row_id']}: states {what!r} with no cited source carrying a URL, so "
+                       f"it publishes a claim a reader cannot follow — {r['name']}")
     for line in bad:
         print("     ", line)
-    print(f"check M: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' unsourced row(s)'}")
+    print(f"check M: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
     return 1 if bad else 0
 
 
