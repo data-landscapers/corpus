@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: TCD
 ledger_rows: 28
 not_held: 42
-record: 104ef11286db
+record: 2795932886cd
 ---
 
 # Chad: monthly update, July 2026
@@ -84,5 +84,5 @@ Four priority areas were [agreed with the United States — digital infrastructu
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is carried as FCFA 76.45bn in one source and US$92.2m in another — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-TD-K00-019%22), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
+The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-TD-K00-019%22), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
 <!-- /narrative -->
