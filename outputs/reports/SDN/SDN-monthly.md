@@ -1,15 +1,16 @@
 ---
 title: Sudan — monthly update, July 2026
-compiled: 2026-08-11
-period: 2026-07-01 to 2026-08-11
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: SDN
-ledger_rows: 14
+ledger_rows: 15
 not_held: 13
+record: 446131bd248d
 ---
 
 # Sudan: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-11 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -64,18 +65,6 @@ Fourteen rows moved between 1 July and 11 August 2026. Sudan's national payment 
 
 <!-- narrative: governance--gov-protect -->
 [The Council of Ministers reviewed a draft Data and Artificial Intelligence Law on 6 August 2026](https://sudantribune.net/article/317108), paired with the cybersecurity and digital-transformation drafts, and sent all three back for further study; the enactment route is a joint sitting of the Sovereignty Council and Council of Ministers rather than an elected chamber, and no text has been published.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
-
-<!-- narrative: ai-tech -->
-No artificial-intelligence or technology-sector row moved in this window.
-<!-- /narrative -->
-
-## Inclusion and capacity
-
-<!-- narrative: inclusion -->
-No inclusion or capacity-building row moved in this window.
 <!-- /narrative -->
 
 ## Finance

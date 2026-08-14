@@ -1,15 +1,16 @@
 ---
 title: Cameroon — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: CMR
-ledger_rows: 21
+ledger_rows: 30
 not_held: 8
+record: 9a05136c8858
 ---
 
 # Cameroon: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -30,6 +31,11 @@ An account of 27 July put the national fibre backbone at [over 15,000 km](https:
 
 The same account records the [2024 customs circular on satellite terminals still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), with kits entering through indirect registration abroad and ten modems seized at one post in December 2025.
 <!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
+
+<!-- /narrative -->
 
 ## Digital public infrastructure
 
@@ -38,37 +44,31 @@ The same account records the [2024 customs circular on satellite terminals still
 <!-- narrative: dpi--dpi-exchange -->
 On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published.
 <!-- /narrative -->
-
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 Two identity operations ran in the month, both municipal. On 27 July [4,000 free identity cards were handed over at Yaoundé 5](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/), some to recipients blocked for over fifteen years by duplicate-identity records, cleared by seconding police officers on site; the operation was timed to public-service and police recruitment competitions, for which the card is a precondition. From 3 July, [compulsory registration of taxi owners and drivers opened on a city platform](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers), with a QR code and a unique door number per driver and unregistered taxis barred after 5 October.
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 Payments had the month's densest run. On 9 July the regional central bank [joined the pan-African settlement system, extending it to all six member states and 72m people](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/), with member-state banks to be integrated by end-2026; no Cameroonian bank is yet named as live on it. On 29 July an [interoperable QR-code standard launched under a regional regulation of 8 April](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), letting any bank, microfinance or mobile-money application scan any merchant code across the six states. A day later a [consultation opened on revising the switch's tariff grid](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025), the operator conceding that current pricing penalises low-value transactions and drives artificial splitting of payments; no revised grid or effective date is published.
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target.
 <!-- /narrative -->
-
-### Sectoral management information systems
+### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
 The same seminar put council digitisation at [230 councils, about 64% nationally, with 48.6% of North West councils operating functional websites, 335 municipal portals developed and 145 authorities equipped](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/).
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -82,11 +82,10 @@ _(narrative not yet written)_
 <!-- narrative: governance--gov-policy -->
 An account of 27 July set out where the satellite licence stands: a [draft concession convention and specification finalised by the regulator, the file at the ministry undecided for more than two years, and the 2024 seizure circular still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/). The objections on record are lawful interception, armed-group use, and the incumbent's commercial position.
 <!-- /narrative -->
+### Open data
 
-### Data protection
+<!-- narrative: governance--data-open -->
 
-<!-- narrative: governance--gov-protect -->
-The personal data protection authority's position was restated on 29 July and is unchanged: [created in law by the 2024 statute, not established, and unfunded](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web), with [no appropriation in the FY2025 or FY2026 estimates](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf). The statute defines it as an independent public body, so the function does not sit with the ICT agency, and its only appearance in a finance law is a tax derogation from it.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -96,7 +95,6 @@ The personal data protection authority's position was restated on 29 July and is
 <!-- narrative: ai-tech--tech-ai -->
 Cabinet was told on 30 July that the [national AI strategy is still being developed, with ten priority areas and a costed roadmap tabled](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and no adoption instrument published; a 2040 roadmap on seven pillars had been presented in July 2025. The [AI authority and presidential council that roadmap provided for remain uncreated](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and are absent from the ten priorities, which carry only adaptation of the legal framework. Among the priorities is a [national high-performance computing centre](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy), announced with no site, cost, operator or timetable. At the same session the telecommunications minister said Cameroon had [acceded as a founding member of a global AI cooperation body](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy); the accession date is not published.
 <!-- /narrative -->
-
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
@@ -110,7 +108,6 @@ On 8 July the state operator held a [working session with a global cloud vendor'
 <!-- narrative: inclusion--capacity-literacy -->
 A digital financial-literacy project running in Cameroon and Senegal since June 2024 [closed on 15 July](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/), leaving a digital financial-services comparison platform with no funded data-update mechanism; it was offered to both states and neither is reported as having accepted. No Cameroon-side trainee count, budget share or partner list is published.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
@@ -118,15 +115,8 @@ The AI workforce target was carried into the same cabinet review without moving:
 
 What was delivered was smaller and dated. A first implementation wave under an operator and higher-education memorandum [opened 115 internships across all ten regions on 22 July](https://techafricanews.com/2026/07/22/camtel-and-minesup-launch-115-internship-opportunities-to-boost-youth-employability/), in disciplines from telecommunications and cybersecurity to finance and law; no stipend, duration or conversion-to-employment figure is published.
 <!-- /narrative -->
-
 ### Research institutions
 
 <!-- narrative: inclusion--capacity-research -->
 Two research builds were tabled in the same cabinet review list — a [sovereign scientific database on a dedicated national platform and a centre for the digitisation of scientific and technical information](https://www.cameroon-tribune.cm/articles/11572/en/artificial-intelligence-govt-engages-on-harnessing) — with no cost, site or timeline for either.
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

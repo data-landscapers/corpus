@@ -1,14 +1,15 @@
 ---
 title: Burundi — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: BDI
 ledger_rows: 64
 not_held: 10
+record: 6be22072bb16
 ---
 
 # Burundi: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/BDI/ledger.csv` (64 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/BDI/ledger.csv` (64 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -24,7 +25,7 @@ Against that, [ARCT says internet quality is degraded and traces it mainly to th
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fonds de service universel institutional connectivity | [In development](https://armp.gov.bi/archives/10856) | FY2026/27 revised appropriation of BIF 11.40bn for dedicated IP transit to health facilities and schools |
 | ICT infrastructure-sharing law | [Planned](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/) | Named by the regulator as a draft law; no text published |
@@ -35,25 +36,25 @@ Against that, [ARCT says internet quality is degraded and traces it mainly to th
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data centre | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program) | Named a PAFEN mid-term priority alongside public-finance modernisation and the national ID |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Powering of mobile base stations | [Planned](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/) | Study planned by the regulator; no instrument or programme |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Compute or high-performance computing capacity | ***Not held*** | No source on file |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regional financial-system cybersecurity measures | [Planned](https://www.rtnb.bi/?mypost?id=529) | EAC central bank governors flagged the risk as requiring stronger common measures |
 
@@ -71,20 +72,20 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EAC cross-border secure data-sharing framework | [Enacted](https://www.burunditimes.com/eac-backs-secure-data-sharing-framework-to-drive-regional-trade-innovation-and-growth/) | Validated in Dar es Salaam under the East Africa Regional Digital Integration Project |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric national identity card | [In development](https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/) | Unveiled as technically ready but awaiting the law or decree governing its use |
 | Digital civil registry platform | [Piloting](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative) | 13 pilot communes operating biometric enrolment, decentralised to zone level, interoperable with health-facility birth and death records |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BurundiPay national instant payment system | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank) | Public launch 23 April 2026; 17 of 78 licensed institutions live by 4 August 2026 (5 commercial banks, 10 microfinance institutions, 2 payment institutions), with integration mandatory for all licensed institutions by 5 September 2026 under a BIF 1m-per-month-of-delay penalty |
 | EAC Regional Cross-Border Payment System Master Plan | [Planned](https://www.rtnb.bi/?mypost?id=529) | Governors welcomed progress at a Kampala meeting in July 2026 and decided BurundiPay must interconnect with other member states' payment systems; first activities are work plans, priorities and resource mobilisation |
@@ -94,14 +95,14 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 2027 electoral register preparation | [In development](https://www.burunditimes.com/burundi-opposition-parties-challenge-cenis-2027-election-preparations-president-calls-for-parental-dialogue/) | Opposition parties demanded suspension of the electoral commission's preparations |
 | Electronic land-title register | [Implemented, fee contested](https://www.iwacu-burundi.org/titres-fonciers-securises-une-mesure-couteuse-et-precipitee/) | Mandatory electronic land-title fee ordinance drew objections on cost and deadline |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ELMIS/MEDEXIS health supply-chain system | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-advances-health-digitalization-with-broader-elmis-medexis-rollout) | Reached all public and faith-based facilities |
 | Merankabandi social protection on openIMIS | [Implemented](https://openimis.org/blog/burundis-growing-social-protection-system-now-runs-openimis) | Migration completed, covering 1.25m beneficiaries |
@@ -109,7 +110,7 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Daily transfer of telepaid taxes | [Enacted](https://finances.gov.bi/index.php/2025/12/25/projet-de-loi-de-finances-2025-2026-revise-le-gouvernement-defend-des-choix-budgetaires-responsables-devant-le-parlement/) | Revised FY2025/26 finance law sets a penalty of 100% of the amount collected for a bank missing the deadline |
 | e-KORI online tax platform | [Implemented](https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/) | Launched 19 January 2026 for online declaration and payment; from 4 August 2026 all new taxpayer registrations processed exclusively online via e-KORI |
@@ -119,26 +120,26 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Villages Numeriques programme | [In development](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | Named in the PAFEN broadband account targeting 80% territorial coverage |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digitisation of communal administration | ***Not held*** | No source on file describing a commune-level system |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EAC Statistics Bureau | [Enacted](https://www.burunditimes.com/eala-passes-eac-statistics-bureau-bill-paving-way-for-monetary-union/) | Bill endorsed by the East African Legislative Assembly with Burundian amendments |
 | Population census | [Enacted, preliminary results only](https://presidence.gov.bi/wp-content/uploads/2025/04/decret-RGPHAE-2024.pdf) | Décret n°100/032 (27 March 2025) publishes preliminary results 'pour tout usage, en attendant la publication des résultats définitifs'; definitive results not yet published |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Earth-observation or satellite data programme | ***Not held*** | No source on file |
 
@@ -158,21 +159,21 @@ Registries are further along than the identity layer they will depend on. [Meran
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Access to information bill | [Planned](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) | Listed on the National Assembly's order paper for the session opened 3 August 2026 |
 | Anti-money-laundering and counter-terrorist-financing regime | [Enacted](https://www.burunditimes.com/burundi-modernizes-financial-crime-defense-as-central-bank-issues-new-aml-cft-rules/) | Five central bank circulars issued, FATF-aligned |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Data Governance Strategy | [Implemented](https://www.wearetech.africa/en/fils-uk/news/burundi-adopts-national-data-governance-strategy) | Validated with seven pillars, UNECA-supported and AU Data Policy Framework-aligned |
 | Proposed mobile-phone ban for civil servants | [Planned](https://www.connectingafrica.com/regulation/burundian-president-seeks-mobile-phone-ban-for-civil-servants) | Proposed by the president, office landlines to replace mobile phones |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AfCFTA country implementation roadmap | [Planned](https://au-afcfta.org/2026/08/afcfta-secretary-general-begins-official-mission-to-burundi/) | Technical team agreed 3 August 2026, during the AfCFTA Secretary-General's mission to Bujumbura, to produce a country profile and implementation roadmap jointly owned by government and the private sector |
 | EAC One Network Area and Regional Digital Integration protocol | [Implemented](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/) | Joined the One Network Area and ratified the protocol |
@@ -180,13 +181,13 @@ Registries are further along than the identity layer they will depend on. [Meran
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National technical standards or interoperability framework | ***Not held*** | No national framework on file; the standards work on record is regional |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ARCT injunctions on value-added-service consent | [Enacted](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/) | Injunctions issued to Lumitel requiring genuinely voluntary subscription and prior notification |
 | Data protection authority | [Planned](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/) | Created by the January 2026 law; no appointment, budget or decision on file |
@@ -195,19 +196,19 @@ Registries are further along than the identity layer they will depend on. [Meran
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Etats generaux de la communication | [Planned](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) | Proposed by the consumer association ABUCO; no convening date on file |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation with Burundi | ***Not held*** | No source on file |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data portal | ***Not held*** | No portal or open-data policy on file; the access-to-information bill has no published text |
 
@@ -225,7 +226,7 @@ Burundi [joined the EAC One Network Area and ratified the Regional Digital Integ
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI governance and data ethics capacity | [In development](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | First documented workshop, run by an alumni association rather than a regulator |
 | National AI Strategy 2026-2030 | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-rolls-out-six-pillar-ai-strategy-to-accelerate-digital-economy) | Validated 22 April 2026 with six pillars |
@@ -233,37 +234,37 @@ Burundi [joined the EAC One Network Area and ratified the Regional Digital Integ
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Lyca Mobile market entry | [In development](https://www.wearetech.africa/en/fils-uk/news/telecom/lyca-mobile-advances-telecom-and-e-health-plans-in-burundi) | Licensed October 2025; telecom and e-health plans advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Local AI builds | [In development](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | MineGuard and AfriPrompt named at the July 2026 governance workshop |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States health-sector agreement | [Enacted](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) | Five-year memorandum signed, including health-data management |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese digital investment in Burundi | ***Not held*** | No source on file |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India Stack cooperation | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-studies-india-stack-for-digital-identity-and-payment-reforms) | Talks opened to adapt Aadhaar-style identity linked to instant payments |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital investment in Burundi | ***Not held*** | No source on file |
 
@@ -279,25 +280,25 @@ External cooperation is where the sector's money is. Burundi [opened talks with 
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural coverage target | [In development](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | PAFEN broadband programme targeting 80% of the territory |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital literacy programme or measurement | ***Not held*** | No programme document or measurement on file |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Vietnamese training and equipment provision | [Implemented](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe) | Reported delivery of 50 desktop computer sets and Master's scholarships in computer science |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | University and professional research capacity in AI and data | [In development](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | First documented workshop drew university lecturers, doctors, developers and students |
 
@@ -311,19 +312,19 @@ On capacity, [Vietnam reports having supplied 50 desktop computer sets and Maste
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | PAFEN Digital Foundations Project | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program) | Mid-term review put commitment at 61% |
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States health-sector memorandum | [Enacted](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) | Five-year agreement signed, including health-data management |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Execution discipline of voted appropriations | [Under review](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/) | Mid-year work-plan report showed credits shifted between programmes with a 2.7% overrun |
 

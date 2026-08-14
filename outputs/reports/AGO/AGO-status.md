@@ -4,7 +4,7 @@ compiled: 2026-08-14
 place: AGO
 ledger_rows: 96
 not_held: 7
-record: 6c874edd46aa
+record: bd72743500c9
 ---
 
 # Angola: status report
@@ -113,7 +113,7 @@ Cyber-security has a decree architecture and no operating record. The [cyber cen
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Education and research network | [In development](https://techafricanews.com/2026/05/14/angola-unveils-angoren-network-to-drive-higher-education-digital-transformation/) | Presented at a national roadshow 2026-05-13 |
-| National education database (MED and Mwango Brain) | In development | Partnership expanded, 7 August 2026 |
+| National education database (MED and Mwango Brain) | [In development](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) | Partnership expanded, 7 August 2026 |
 | Vaccination registry | [Implemented](https://angop.ao/noticias/saude/angola-reafirma-compromisso-com-a-inovacao-digital-no-sistema-de-saude/) | In use across all national vaccination campaigns |
 
 ### Other GovTech and e-Gov

@@ -1,19 +1,20 @@
 ---
-title: Eswatini — progress report, 2025-08-01 to 2026-08-09
-compiled: 2026-08-10
-period: 2025-08-01 to 2026-08-09
+title: Eswatini — progress report, 2025-08-01 to 2026-08-14
+compiled: 2026-08-14
+period: 2025-08-01 to 2026-08-14
 place: SWZ
 ledger_rows: 75
-not_held: 10
+not_held: 9
+record: 4922b1176aef
 ---
 
-# Eswatini: progress report, 2025-08-01 to 2026-08-09
+# Eswatini: progress report, 2025-08-01 to 2026-08-14
 
-*Compiled 2026-08-10 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 75 systems and instruments on this place's ledger, 44 changed position between 2025-08-01 and 2026-08-09, 8 did not, 13 carry no stated baseline, and 10 are ***Not held*** at both ends.*
+*Of 75 systems and instruments on this place's ledger, 45 changed position between 2025-08-01 and 2026-08-14, 8 did not, 13 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 57 sources for this place in the window — 18 in the earlier half (2025-08 to 2026-01), 39 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 58 sources for this place in the window — 18 in the earlier half (2025-08 to 2026-01), 40 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -29,7 +30,7 @@ What did not move is the foundation. The [payment switch stood at phase one of t
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Mbabane smart-city deployment | Did not exist | [Under installation; no completion date published](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) | Advanced |
 | Minimum internet service standard | 2 Mbps minimum | [10 Mbps proposed; the 2 Mbps standard remains in force](https://times.co.sz/39355/technology-today/eswatini-set-for-major-digital-leap/) | Advanced |
@@ -41,19 +42,19 @@ What did not move is the foundation. The [payment switch stood at phase one of t
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National Data Centre | Operating; no capacity, tenant, uptime tier or utilisation disclosed | [Operating and named a structural concentration risk; still no capacity, tenant, uptime tier or utilisation on file](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) | No change |
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Power supply to the National Data Centre | Baseline not held | [Still being sourced five years after the facility opened; no capacity, price or timetable stated](https://independentnews.co.sz/40779/news/diplomacy/eswatini-explores-green-energy-for-national-data-centre/) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | SADC regional cybersecurity framework | Did not exist | [Approved regionally; no national implementing instrument on file](https://independentnews.co.sz/46874/business/central-banks-rally-to-protect-regional-financial-system-against-new-age-cyber/) | Advanced |
 | Government services available online | Baseline not held | [31 of 419 services online; 15 of 22 ministries run on 1 Mbps or less; 18 ICT professionals support the assessed estate](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) | ***Baseline not held*** |
@@ -72,13 +73,13 @@ The state's own estate is where the window's most consequential finding sits, an
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Government system interoperability | Baseline not held | [More than half of ministries lack meaningful interoperability or central-repository connectivity](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Digital identity | Conceptualised only | [Planned under the Digital Eswatini Project; nothing issued](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Advanced |
 | National e-KYC registry | Did not exist | [Under construction, with a SADC cross-border dimension; the FinTech Strategy targets 500,000 users by 2028](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=Eswatini+embarks+on+national+e-KYC+system&bvhdgsj=Business+and+Economy&yiphi=1080) | Advanced |
@@ -86,7 +87,7 @@ The state's own estate is where the window's most consequential finding sits, an
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Comparative benchmark of bank charges | Did not exist | [Recommended, benchmarked against SACU and Common Monetary Area banks](https://times.co.sz/39920/news/cbe-called-to-probe-bank-charges/) | Advanced |
 | National FinTech Strategy 2025-2030 | Did not exist | [In force, targeting 500,000 e-KYC users and 80% interoperability by 2028](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=FinTech+to+reduce+cash+reliance&bvhdgsj=Business+and+Economy&yiphi=2077) | Advanced |
@@ -99,20 +100,21 @@ The state's own estate is where the window's most consequential finding sits, an
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| National population register | Not held | [Compulsory register of every birth, marriage and death since 1984; a paper-based statute, not shown to be digitised](https://eswatinilii.org/akn/sz/act/1983/5/eng@1998-12-01) | Advanced, newly documented |
 | Proposed DNA requirement for birth certificates | Did not exist | [Proposed; about E4,300 per test across about 29,400 births](https://times.co.sz/38899/news/dna-plan-could-swallow-e126m-of-home-affairs-budget/) | Advanced, proposal only |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Community health services digitisation | Paper-based | [Digitised](https://www.worldbank.org/en/news/feature/2026/02/23/from-paper-to-pixels-driving-the-digital-transformation-of-community-health-services-in-eswatini) | Advanced |
 | Umelusi, TruMD and Content Creator Hub platforms | Did not exist | [In service](https://techreviewafrica.com/news/5994/eswatini-rolls-out-digital-platforms-to-expand-access-to-health-agriculture-and-creative-economy) | Advanced |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Eswatini Revenue Service TaxPal | Did not exist | [In service](https://independentnews.co.sz/14361/science-technology/eswatini-launches-new-apps-to-ease-access-to-government-services/) | Advanced |
 | Google Cloud EMEA memorandum | Signed on or before January 2025, unacknowledged in public | [Established as a cloud-services and e-government framework, not a monetisation deal; no value or term published](https://independentnews.co.sz/42282/business/former-minister-defends-google-mou-calls-for-calm-in-cabinet/) | Advanced |
@@ -121,26 +123,26 @@ The state's own estate is where the window's most consequential finding sits, an
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | USSD access to public services | Did not exist | [Planned for the 2027 rollout](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Advanced |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Tinkhundla centre connectivity | Did not exist | [38 centres targeted; none reported connected](https://independentnews.co.sz/46514/business/aviation/digital-eswatini-project-hinges-on-leadership-ps-warns/) | Advanced |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | FinScope Consumer Survey | 87% access rate recorded in 2018 | [2026 round in the field, covering access, usage and quality; no fieldwork dates, sample size or publication date given](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/) | Advanced |
 | State of Communications Sector Study 2025/26 | Did not exist | [Under way; no publication date on file](https://times.co.sz/business/readmore.php?bhsadjgfoh=+E2.8m+study+signals+bright+2026+digital+outlook&bvhdgsj=Business+and+Economy&yiphi=2583) | Advanced |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Government Starlink satellite gateway | Did not exist | [Commissioned](https://techafricanews.com/2026/04/28/eswatini-commissions-starlink-satellite-gateway-to-expand-nationwide-internet-connectivity/) | Advanced |
 | Starlink Business reseller channel | Did not exist | [Operating, with managed hardware, installation and support](https://itweb.africa/article/recently-launched-paratus-eswatini-aims-to-drive-starlink-business-tech-adoption/j5alr7QAOeQ7pYQk) | Advanced |
@@ -157,32 +159,32 @@ Service platforms multiplied. [Government In Your Hand and TaxPal launched in Ma
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Cybersecurity, critical infrastructure, e-commerce and AI legislation | Did not exist | [Announced as forthcoming; no bill text or tabling date on file](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) | Advanced |
 | Online Media Publishing Guidelines 2026 | Did not exist | [Complete on the ministry's account, introducing publisher registration and rules on accuracy, privacy, child safeguarding and the responsible use of AI; text and commencement date not public](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) | Advanced |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
-| National Data Governance Policy | Being procured through a Smart Africa tender (2025-07) | [Validated; text not published and no adoption date given](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy) | Advanced |
+| National Data Governance Policy | Being procured through a Smart Africa tender (2025-07) | [Validated; targeted for completion before end-2026, with a standalone law or amendments to existing legislation undecided](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy) | Advanced |
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | SADC adequacy model for cross-border data transfers | In force | [In force](https://www.esccom.org.sz/legislation/DATA%20PROTECTION%20ACT.pdf) | No change |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Division of the data-protection mandate | Not stated on the record | [Executive holds policy, ESCCOM holds implementation, enforcement and oversight; no third institution named](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Advisory guidelines on processing personal health data | Did not exist | [In validation; to be published as a regulatory instrument under the Data Protection Act](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/) | Advanced |
 | Biometric gate passes in schools | Did not exist | [Deployed and refused by some teachers and parents on consent and child-data grounds](https://times.co.sz/news/readmore.php?bhsadjgfoh=Outcry+over+digital+gate+pass+in+schools&bvhdgsj=News&yiphi=180) | Advanced |
@@ -192,7 +194,7 @@ Service platforms multiplied. [Government In Your Hand and TaxPal launched in Ma
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Public account of the Google memorandum | Not on the record | [Established after a public contradiction between the prime minister and the Attorney-General](https://independentnews.co.sz/42282/business/former-minister-defends-google-mou-calls-for-calm-in-cabinet/) | Advanced |
 
@@ -208,7 +210,7 @@ Two things were said on the record in the window that had not been before. The [
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | ESCCOM guidance on AI and deepfakes in broadcasting | Did not exist | [Issued as guidance; not an instrument with force](https://times.co.sz/news/readmore.php?bhsadjgfoh=ESCCOM+issues+AI+warning+on+deep+fakes&bvhdgsj=News&yiphi=1904) | Advanced |
 | Regional AI health partnership | Did not exist | [Memorandum signed; no system, data-sharing terms or money named](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/) | Advanced |
@@ -216,25 +218,25 @@ Two things were said on the record in the window that had not been before. The [
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Letshego Eswatini digital bank | Did not exist | [Provisional licence held; no launch date on file](https://times.co.sz/39406/business/letshego-targets-unbanked-with-digital-banking-push/) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Eswatini-Taiwan digital cooperation | Did not exist | [On the agenda; no instrument, financing figure or implementing agency named](https://independentnews.co.sz/47014/business/digital-innovation-take-centre-stage-on-eswatini-taiwan-cooperation/) | Advanced |
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Google partnership with Eswatini | Signed on or before January 2025; workspace, AI, digital addressing and youth skills | [Operating and publicly acknowledged; no value or term published](https://www.times.co.sz/news/readmore.php?bhsadjgfoh=Eswatini%E2%80%99s+digital+progress+earns+continental+spotlight&yiphi=4446&bvhdgsj=News) | Advanced |
 
 ### Gulf/UAE activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | She Powers Africa Digital Academy | Did not exist | [First cohort of 50 women from government institutions; curriculum designed, staffed and certified abroad](https://times.co.sz/39456/news/eswatini-launches-africas-first-womens-digital-academy/) | Advanced |
 
@@ -250,25 +252,25 @@ The partnerships that carry the sector all sit with foreign parties. The [Google
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Community innovation hubs | One hub, at Pigg's Peak | [Two hubs; a third planned for the Shiselweni Region](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/) | Advanced |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Account ownership | Below 50% a decade earlier | [63% account ownership, led by mobile money](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=Mobile+money+drives+financial+inclusion+growth&bvhdgsj=Business+and+Economy&yiphi=435) | Advanced |
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Published guidance on digital workplace transformation | Baseline not held | [One published work on file; no national literacy programme or measurement](https://eswatinipositivenews.online/ict-expert-unveils-book-on-digital-workplace-transformation/) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | AI, robotics and cybersecurity training at innovation hubs | Did not exist | [Announced; no start date, provider or cohort size given](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) | Advanced |
 | Digital Eswatini change agents | Did not exist | [In training across ministries](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Advanced |
@@ -284,14 +286,14 @@ Capacity delivery began late in the window and small against the ambition. A tar
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Digital Eswatini Project | Under preparation | [Approved: E648m for broadband and E450m for Government In Your Hand, with a 2027 rollout](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/) | Advanced |
 | World Bank digital-transformation opportunity | Baseline not held | [US$165m, equivalent to E2.8bn, identified and unaddressed in the year-end statement](https://independentnews.co.sz/38043/opinion/columns/the-absent-agenda-eswatinis-digital-imperative-and-the-prime-ministers-year-end-address/) | ***Baseline not held*** |
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Global South Utilities discussions on data-centre power | Did not exist | [In discussion; no capacity, price or timetable stated](https://independentnews.co.sz/40779/news/diplomacy/eswatini-explores-green-energy-for-national-data-centre/) | Advanced |
 
@@ -304,7 +306,6 @@ The window's financing question was settled at its end: the [Digital Eswatini Pr
 | System or instrument | What would settle it | Last probed |
 |---|---|---|
 | Compute or high-performance computing capacity | A capacity disclosure for the National Data Centre - rack count, megawatts, uptime tier or utilisation - or a separate compute facility specification. | 2026-08-09 |
-| National population register | The births and deaths registration statute constituting the register, and a Home Affairs statement of its coverage and update process. | 2026-08-09 |
 | Open government data portal | A national open-data portal, the published National Data Governance Policy text, or an access-to-information instrument. | 2026-08-09 |
 | European Union digital cooperation with Eswatini | A named EU or European Investment Bank instrument, financing or programme covering Eswatini digital work. | 2026-08-09 |
 | National AI strategy | A national AI strategy or statute, or a ministerial statement giving its drafting stage and expected adoption date. | 2026-08-09 |

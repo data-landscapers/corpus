@@ -1,14 +1,15 @@
 ---
 title: Seychelles — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: SYC
 ledger_rows: 48
 not_held: 6
+record: df43f5eaed5f
 ---
 
 # Seychelles: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/SYC/ledger.csv` (48 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SYC/ledger.csv` (48 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Six subjects carry no instrument on the record at all: energy policy for digital
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel Seychelles 5G network | [Implemented](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa) | Commercial 5G launch, Airtel House; SBC content partnership announced alongside |
 | Cable & Wireless Seychelles 4G/5G network | [Implemented](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434) | CWS launched 5G with Huawei as vendor |
@@ -35,19 +36,19 @@ Six subjects carry no instrument on the record at all: energy policy for digital
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel Seychelles data centre (Ericsson turnkey project) | [Implemented](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa) | Ericsson awarded turnkey project to relocate/modernise Airtel's network into a new datacentre, hybrid network cloud |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National policy linking digital infrastructure to energy supply | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Budapest Convention on Cybercrime accession | [Under review, Assembly-approved](https://www.nation.sc/articles/31614/assembly-approves-accession-to-budapest-convention-on-cybercrime) | National Assembly unanimously approved accession motion, tabled by Hon. Sylvanne Lemiel |
 | National Cybersecurity Coordination Committee | [Implemented, thin record](https://nation.sc/articles/26060/from-headlines-to-algorithms-media-practitioners-explore-ai-with-nccc-and-amps) | Ran a World Press Freedom Day workshop with AMPS on AI's impact on press freedom, ethics and cybersecurity |
@@ -62,20 +63,20 @@ The National Assembly voted unanimously on 22 July 2026 to approve accession to 
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Seychelles–AfCFTA–Quest Ghana digital-trade-hub MoU | [Under review, established but terms unheld](https://www.nation.sc/articles/29842/seychelles-set-to-become-digital-trade-hub-of-afcfta) | Seychelles Nation reported the signing during Secretary-General Wamkele Mene's visit, positioning Seychelles as the AfCFTA digital-trade hub |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CertExpress (online civil-status certificates) | [Implemented](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | Announced alongside the SeyID two-tier change; birth/marriage/death certificates online, 2-working-day delivery, saved to the SeyID E-Doc wallet |
 | SeyID national digital-identity platform | [Implemented, two-tier credential](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | Official launch, built on WISeKey's WISeID platform |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cheque phase-out (Central Bank of Seychelles, four-stage schedule) | [Under review, phased](http://www.seychellesnewsagency.com/articles/21244/seychelles-to-phase-out-cheques-for-financial-transactions-from-2025) | CBS announced four dated stages: stop issuing to individuals 1 Jan 2025, stop accepting from individuals 1 May 2025, stop issuing to non-residents 1 Jan 2026, stop accepting from non-residents after 1 May 2026 |
 | Foreign Exchange Act 2009 amendment (authorised-dealer perimeter) | [Under review, Cabinet-approved](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Cabinet approved amendments widening authorised dealer to include credit unions and licensed payment service providers |
@@ -85,21 +86,21 @@ The National Assembly voted unanimously on 22 July 2026 to approve accession to 
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Addressing and Postcode System (S42 standard) | [In development](https://seychellespostalregulator.com/pages/national-addressing-system) | Cabinet approved implementation; S42 address standard adopted; legal framework being drafted by a technical committee with the AG's Office |
 | Registrar General's Office digitalisation (business registration & IP) | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/seychelles-pledges-to-modernize-public-services-through-digital-transformation) | President Ramkalawan toured the Registrar General's Office, praised digitalisation, announced unspecified legislative reforms |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | e-Sanjeevani / e-Office / e-Hospital (India DPI platforms) | [Planned, bilateral discussions](https://www.firstpost.com/opinion/beyond-broad-pledges-indias-tech-sovereignty-push-in-africa-and-asean-14036875.html) | Firstpost reports bilateral consultations advancing between India and Seychelles toward potential adoption |
 | Huawei/CWS SMART Education | [Implemented, pilot](https://e.huawei.com/ae/case-studies/industries/commercial-market/2025-seychelles-smart-education-solutions) | Ministry of Education, CWS and Huawei launched SMART Education (multimedia lessons, real-time assessment, IdeaHub) across four secondary schools |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ease of Doing Business one-stop portal | [Piloting](https://www.nrdcompanies.com/insights/seychelles-selects-nrd-companies-to-develop-new-ease-of-doing-business-portal-to-transform-investment-landscape/) | Ministry of Investment, Entrepreneurship & Industry launched EODB portal with NRD Companies (two journeys, 15+ services), full rollout targeted 30 Jun 2026 |
 | egov.sc government portal | [Implemented, relaunched](https://techafricanews.com/2026/06/24/seychelles-launches-revamped-egov-portal-to-expand-digital-public-services/) | VP/ICT Minister Pillay relaunched egov.sc, coinciding with the 50th Independence anniversary |
@@ -110,19 +111,19 @@ The National Assembly voted unanimously on 22 July 2026 to approve accession to 
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Dedicated rural digital-service programme | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digitisation of district-administration systems | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | UN COPUOS accession / UNOOSA engagement | [Planned](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Cabinet approved accession to the UN Committee on the Peaceful Uses of Outer Space and engagement with UNOOSA, framed as building geospatial-data capability for maritime security, disaster preparedness, ocean management |
 
@@ -136,34 +137,34 @@ Digital identity has not moved since 2024: [SeyID's two-tier credential](https:/
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Access to Information Act 2018 (ATIA) reform | [Under review, drafting](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf) | InfoCom whitepaper recommends a centralised Access-to-Information Unit, aligning s.33(4) with the DPA 2023, open-reuse licensing; AG drafting targeted end-2025 |
 | NISTI Act 2025 (National Institute of Science, Technology and Innovation) | [Enacted, commencement pending](https://www.gazette.sc/sites/default/files/2025-12/Act%2024%202025%20-%20National%20Institute%20of%20Science%20Technology%20and%20Innovation%20Act.pdf) | Act 24 of 2025 assented; establishes NISTI as a body corporate with an AI-strategy mandate, a Science Academy, an open-access scientific-data repository, incubation centres |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 'Fully digitalised e-government by 2030' target | [Planned, restated](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles) | President Herminie reaffirmed the target while receiving Malta's first High Commissioner's credentials, exploring bilateral technical cooperation |
 | Multidimensional Vulnerability Index (MVI) operationalisation | [Planned](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Cabinet approved national measures naming enhanced data and institutional capacity and alignment of planning/budgeting frameworks as the instruments |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AUDA-NEPAD Programme for African Developing Island Economies | [Enacted, communique adopted](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | AUDA-NEPAD launched the programme at the AU's STC Ministerial Segment (Abidjan), covering seven island states including Seychelles; 2026–2031 roadmap, six pillars including digital transformation |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection Act 2023 (Act 24 of 2023) | [Enacted, in force in full](https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf) | s.56(1)'s 18-month transition (from the 22 Dec 2023 commencement) elapsed; controllers/processors now subject to the Act in full |
 | Information Commission (data-protection authority) | [Implemented, enforcement-capacity gap documented](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf) | InfoCom's ATIA reform whitepaper names 'no clear power to enforce its orders' as its own most urgent weakness |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation with Seychelles | ***Not held*** | — |
 
@@ -177,19 +178,19 @@ The [NISTI Act 2025 was assented on 22 December 2025](https://www.gazette.sc/sit
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI in Education Framework 2026–2030 | [Enacted, Cabinet-approved (text not held)](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Cabinet approved the 21-page policy; covers every state school, AI literacy across the curriculum, mandatory AI micro-credential for teachers, an AI Champion per school, a Steering Committee maintaining approved/prohibited AI tool lists |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Huawei vendor relationship (5G core + SMART Education) | [Implemented](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434) | CWS launched 5G with Huawei (2020); Ministry of Education, CWS and Huawei launched SMART Education across four schools (2025-08) |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital investment in Seychelles | ***Not held*** | — |
 
@@ -203,7 +204,7 @@ Huawei remains Cable & Wireless's core vendor, a relationship unchanged since it
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI Student Tutor Programme (World Bank pilot) | [Piloting](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Personalised AI learning support for Secondary 3 Maths and Geography |
 | AI Teacher Coach Programme (World Bank pilot) | [Piloting](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | World Bank/Ministry of Education pilot: AI-assisted lesson-planning and classroom-practice guidance for Primary 5-6 teachers |
@@ -216,7 +217,7 @@ The only dedicated capacity-building instruments on record are the two World Ban
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Hustle Fund et al. → Fusepay pre-seed | [Implemented, closed](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform) | US$350,000 pre-seed: Hustle Fund, Everywhere Ventures, First Check Ventures, Startup Istanbul, Ryan Nesbitt (angel) |
 | TDB → CWS debt refinancing and digital-transformation facility | [Implemented, disbursed](https://www.tdbgroup.org/wp-content/uploads/2024/09/TDB-Group-Sustainability-and-Development-Impact-Report-2023.pdf) | US$50m package refinancing US$48.1m of the 2019 debt; TDB acquired ~2.9% CWS equity (Dec 2022); CWS listed on the MERJ Exchange (Sep 2022); TDB co-arranged a SCR 168m (~US$12.5m) local-currency bond (Feb 2024) |
@@ -225,13 +226,13 @@ The only dedicated capacity-building instruments on record are the two World Ban
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mauritius Telecom–Eboo cross-border payments | [Planned, announced](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) | Mauritius Telecom CEO Veemal Gungadin announced cross-border payment capabilities between Mauritius and Seychelles, in partnership with Eboo, a Seychelles fintech |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic-state digital-transformation budget line | ***Not held*** | — |
 

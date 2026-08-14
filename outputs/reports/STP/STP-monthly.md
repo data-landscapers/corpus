@@ -1,26 +1,21 @@
 ---
 title: Sao Tome and Principe — monthly update, July 2026
-compiled: 2026-08-11
-period: 2026-07-01 to 2026-08-11
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: STP
-ledger_rows: 8
+ledger_rows: 9
 not_held: 13
+record: 725ec9ca9c9b
 ---
 
 # Sao Tome and Principe: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-11 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
 Eight rows moved between 1 July and 11 August 2026. The National Electoral Commission opened public consultation on a provisional voter roll after finding the automatic civil-registry derivation had missed 1,860 eligible voters — the clearest instance yet of a system inheriting the flaws of the register it was built from. The Cadastro Social Único's coverage figure — about 12,500 households, roughly a quarter of the population — was published for the first time, with the agency itself taking care to state that registration is not a poverty count. AGER convened the country's first Internet Governance Forum, and AUDA-NEPAD launched its island-economies programme covering STP among seven states. A regional data-governance workshop moved forward the national adoption process for the African Union's Data Policy Framework, and EMAE's management-information-system tender was extended with no further procurement detail disclosed. UNICEF opened a tender for school ICT equipment, its contract value left to bidders to price.
-<!-- /narrative -->
-
-## Infrastructure
-
-<!-- narrative: infrastructure -->
-No infrastructure row moved in this window.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -43,16 +38,15 @@ No infrastructure row moved in this window.
 <!-- narrative: governance--gov-policy -->
 [A Data Governance Capacity Building Workshop ran 9–10 July 2026](https://www.linkedin.com/posts/d4dhub_d4datagov-datagovernance-africa-activity-7482375055130279936-Fj_f/), led by the D4D Hub with GIZ, AUDA-NEPAD and KICTANET, on national adoption of the AU Data Policy Framework; translation into policy or institutional reform remains the stated goal, not yet delivered. [AUDA-NEPAD launched its Programme for African Developing Island Economies at the AU's STC Ministerial Segment in Abidjan on 24 July](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies), adopting a ministerial communiqué covering STP among seven island states on a 2026–2031 roadmap naming digital transformation, AI and automation, and the knowledge economy among its accelerators, with partners including Korea, the AfDB, the regional economic communities and the Indian Ocean Commission.
 <!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+
+<!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
 [AGER convened the first Fórum de Governança da Internet (FGI STP) on 28–30 July 2026](https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp), at Casa Cacau, opened by the Prime Minister, with tracks covering digital trust, service-delivery infrastructure, regulation, privacy and data protection, and AI, framed under the theme of connectivity as a pillar for digital inclusion. It is the regulator's own convening rather than a government ministry's, and the first time São Tomé and Príncipe has run a national forum of this kind. No outcome document or date for a second edition was published.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
-
-<!-- narrative: ai-tech -->
-No artificial-intelligence or technology-sector row moved in this window.
 <!-- /narrative -->
 
 ## Inclusion and capacity

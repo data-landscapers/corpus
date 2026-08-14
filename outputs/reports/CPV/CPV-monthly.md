@@ -1,15 +1,16 @@
 ---
 title: Cape Verde — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: CPV
-ledger_rows: 9
+ledger_rows: 15
 not_held: 45
+record: 188187ffa32a
 ---
 
 # Cape Verde: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -31,12 +32,16 @@ The continental frame moved instead. On 24 July 2026 the African Union developme
 
 ## Digital public infrastructure
 
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+
+<!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 The independent health regulator launched a pharmaceutical market monitoring system on 29 July 2026, tracking the national medicines circuit in real time, forecasting stock-outs and triggering replenishment or redistribution across the archipelago, and integrated with the customs system to detect illegal imports. The regulator states it will support development of electronic prescribing and feed its medicines-authorisation function. No cost, vendor, coverage figure or baseline stock-out rate was published, and the wiki holds no first-party document for it, only a wire report a week after launch.
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -45,12 +50,16 @@ The statistical record produced the month's other development, and it was an abs
 
 ## Governance and regulation
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+<!-- /narrative -->
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
@@ -64,23 +73,15 @@ The Prime Minister told Parliament during the State of the Nation debate on 31 J
 <!-- narrative: ai-tech--tech-ai -->
 The Health Minister proposed at a World Health Organization conference in Lisbon on 15 July that Cape Verde serve as a lusophone laboratory for artificial intelligence in health, hosting pilot projects integrating it with telemedicine, and called for cooperation on skills, infrastructure, interoperability and an ethical and regulatory framework. No pilot, partner, budget or instrument follows from it.
 <!-- /narrative -->
-
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
 The technology park's second phase went to open international tender on 29 July 2026, for supply and installation of facilities equipment and training, procured by the special projects unit in the Ministry of Finance under an African Development Bank loan. Bids close on 15 September 2026, with a bid security of EUR 25,000 and beneficial-ownership disclosure required of the successful bidder. The contract value is not published, so the tender fixes scope and timetable without sizing them.
 <!-- /narrative -->
-
 ### China activities
 
 <!-- narrative: ai-tech--geopol-china -->
 On 29 July the Prime Minister and Finance Minister received a Huawei delegation, reviewed what the government describes as a strategic ICT partnership and were introduced to a new country representative. No agreement, project, sum or timetable was named; what the account records is access and continuity rather than a transaction. The last dated Chinese technology commitment the wiki holds for Cape Verde closed in 2021.
-<!-- /narrative -->
-
-## Inclusion and capacity
-
-<!-- narrative: inclusion -->
-Nothing moved in this section. No universal service fund expenditure, project or beneficiary record was published; no enrolment, completion or placement figure was published for the digital-skills programme that opened 1,050 places in January 2026 ([launch account](https://techreviewafrica.com/news/3789/cabo-verde-launches-skodji-digital-programme-to-expand-youth-access-to-global-digital-economy)); and disbursement against the African Development Bank's second-phase e-governance programme was still recorded as zero at the most recent data capture ([signature account](https://expressodasilhas.cv/economia/2026/03/18/bad-financia-segunda-fase-da-reforma-electronica-e-da-gestao-publica-com-177-milhoes-de-euros/101939)).
 <!-- /narrative -->
 
 ## Finance

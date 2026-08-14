@@ -1,14 +1,15 @@
 ---
 title: Sao Tome and Principe — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: STP
 ledger_rows: 48
 not_held: 13
+record: 1eec8366ee63
 ---
 
 # Sao Tome and Principe: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/STP/ledger.csv` (48 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/STP/ledger.csv` (48 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Thirteen of forty-eight rows are ***Not held***: no compute capacity, satellite-
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CST national network (antennas/schools expansion) | [Implemented, ongoing expansion](https://rstp.st/2025/01/25/cst-celebra-35-anos-apostando-na-expansao-da-rede-e-melhoria-da-conectividade-nas-escolas/) | 35th antenna inaugurated, Agua Ize, Cantagalo |
 | Starlink satellite internet service | [Implemented](https://rstp.st/2025/02/24/empresa-starlink-de-elon-musk-pretende-investir-em-stp-trazendo-internet-de-alta-qualidade/) | Service activated in STP |
@@ -34,25 +35,25 @@ Thirteen of forty-eight rows are ***Not held***: no compute capacity, satellite-
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | GoSTP data-centre modernisation (incl. digital-ID data centre/DR tender) | [Planned, tender issued, decision not confirmed](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | AFAP tenders servers + disaster recovery for the digital-ID data centre |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National policy linking digital infrastructure to energy supply | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Compute or high-performance computing capacity | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CSIRT (Computer Security Incident Response Team) | [In development, materialisation launch flagged](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | World Bank mission lists 'launch materialisation of the CSIRT' as a mission objective |
 
@@ -66,7 +67,7 @@ A GoSTP data-centre modernisation programme, covering the digital-ID system's se
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 'BI para Todos' free national-ID campaign | [Implemented, phased rollout](https://www.telanon.info/sociedade/2026/01/22/51507/campanha-de-atribuicao-gratuita-do-bilhete-de-identidade-iniciou-se-no-ilheu-das-rolas-e-decorre-em-porto-alegre/) | Diaspora arm — BIs collectable at STP embassy in Portugal |
 | Foundational digital ID (STP Digital/MOSIP, System Integrator Ooru) | [In development, roadmap not confirmed delivered](https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system) | System Integrator Ooru engaged with INIC/DGRN; VCI/DEX/Portal/e-Signature prototypes live; roadmap Jan-May 2026 |
@@ -74,13 +75,13 @@ A GoSTP data-centre modernisation programme, covering the digital-ID system's se
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BCSTP FinTech Sandbox | [Implemented](https://rstp.st/2025/06/03/banco-central-lanca-iniciativa-sandbox-para-promover-inclusao-de-servicos-financeiros-digitais-em-stp/) | Central Bank launches first FinTech Sandbox under the National Financial Inclusion Strategy |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Automatic electoral roll (PReSE, civil-registry to CEN interoperability) | [Implemented, qualifying: first use missed ~1,860 eligible voters](https://rstp.st/2025/09/02/stp-encerra-o-projeto-de-reforma-do-sistema-eleitoral-financiado-pela-uniao-europeia/) | Provisional roll for 27 Sep 2026 elections carries 146,510 voters, added after a process-failure fix |
 | Cadastro Social Unico (CSU) — single social registry | [Implemented](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | Agency states CSU coverage figure and clarifies it is not a poverty count |
@@ -88,32 +89,32 @@ A GoSTP data-centre modernisation programme, covering the digital-ID system's se
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EMAE management information system (MIS) tender | [Planned, tender deadline extended](https://www.telanon.info/destaques/2026/08/07/53902/afap-prorroga-a-solicitacao-de-fornecimento-instalacao-treinamento-e-comissionamento-do-novo-sistema-de-informacao-de-gestao-mis-para-a-emae/) | AFAP extends deadline of tender ref. 45-G for supply/installation/training/commissioning of a new MIS for EMAE |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Portal do Cidadao / Citizen Portal (INIC, beta) | [Piloting, beta](https://rstp.st/2026/03/28/inic-celebra-18o-aniversario-com-lancamento-da-plataforma-portal-do-cidadao/) | Beta launched at INIC's 18th anniversary, funded by World Bank + Co-Develop, CDPI technical advisory |
 | Trade Single Window + ASYFIVE (UNDP-supported) | [Planned, announced](https://www.telanon.info/economia/2026/01/25/51525/stp-prepara-salto-tecnologico-no-comercio-externo-com-novas-plataformas-apoiadas-pela-onu/) | UNDP-backed integrated Port/External-Trade Single Window + ASYFIVE deployment announced |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Dedicated rural digital-service programme | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digitisation of district-administration systems | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Earth-observation or satellite-data programme | ***Not held*** | — |
 
@@ -127,7 +128,7 @@ The EU-funded PReSE electoral-roll project delivered its first real test in 2026
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AGER regulatory framework revision (Regulatory Entities Law + Electronic Communications Law) | [Under review, submitted to National Assembly](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | Approved by Council of Ministers, submitted to National Assembly; AGER Statute already approved |
 | Aggregated Identification Document Law (identity law) | [Under review, drafting/consultation stage flagged urgent](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | World Bank mission flags review, public consultation, finalisation and approval as urgent; absence could constrain data collection |
@@ -136,7 +137,7 @@ The EU-funded PReSE electoral-roll project delivered its first real test in 2026
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AU Data Policy Framework (AUDPF) — national adoption process | [In development, workshop held](https://www.linkedin.com/posts/d4dhub_d4datagov-datagovernance-africa-activity-7482375055130279936-Fj_f/) | Data Governance Capacity Building Workshop held (9-10 Jul 2026), D4D Hub with GIZ, AUDA-NEPAD, KICTANET |
 | National Strategy for Digital Governance (2020) | [Enacted](https://unu.edu/egov/project/national-strategy-digital-governance-sao-tome-and-principe) | Whole-of-government digital-transformation strategy, nine thematic axes, adopted |
@@ -145,20 +146,20 @@ The EU-funded PReSE electoral-roll project delivered its first real test in 2026
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Lusophone Africa Data Governance Workshop | [Implemented, second edition held](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda) | Second workshop held in Luanda, 15-17 Jun 2026 |
 | PALOP Digital Governance Dialogues | [Implemented, ongoing series](https://www.biometricupdate.com/202603/palop-countries-collaborate-to-enhance-digital-identity-and-public-services) | Second webinar held (digital ID as foundational DPI) |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National technical standards or interoperability framework beyond Law 1/2024 | ***Not held*** | — |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ANPDP membership — Rede Lusofona de Protecao de Dados (RLPD) | [Implemented, founding member](https://www.cnpd.pt/comunicacao-publica/noticias/cnpd-recebeu-a-agencia-nacional-de-protecao-de-dados-pessoais-de-sao-tome-e-principe/) | CNPD (Portugal)-hosted cooperation visit; network described as 'recem-criada' (recently created) |
 | ANPDP supervision of PReSE registry-CEN data linkage | [Implemented, oversight assigned](https://www.telanon.info/politica/2026/04/15/52530/recenseamento-eleitoral-automatico-vai-ser-fiscalizado-pela-agencia-nacional-de-proteccao-de-dados-pessoais/) | ANPDP assigned to supervise the civil-registry/electoral-database interconnection |
@@ -167,13 +168,13 @@ The EU-funded PReSE electoral-roll project delivered its first real test in 2026
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | FGI STP (Forum de Governanca da Internet) | [Implemented, first edition only](https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp) | 1st edition held, Casa Cacau, 28-30 Jul 2026, opened by the PM |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data portal | ***Not held*** | — |
 
@@ -187,19 +188,19 @@ Two enacted laws underpin the digital-governance framework — the Personal Data
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ICT sector size or industry-policy programme | ***Not held*** | — |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital-sector engagement with STP | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital investment in STP | ***Not held*** | — |
 
@@ -211,14 +212,14 @@ No dedicated AI, ICT-industry, Indian or Gulf-state instrument is on record for 
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CST school-connectivity plan | [Planned, announced](https://rstp.st/2025/01/25/cst-celebra-35-anos-apostando-na-expansao-da-rede-e-melhoria-da-conectividade-nas-escolas/) | Plan to expand fibre/mobile to schools, larger schools first, then to 9th-grade level, with Education Ministry |
 | National Digital Learning Programme (PNAD) — equipment procurement | [Planned, tender open](https://www.telanon.info/destaques/2026/07/30/53795/unicef-aquisicao-de-tablets-computadores-e-acessorios-destinados-ao-reforco-das-tecnologias-no-sistema-educativo/) | UNICEF opens tender RFQ_03/2026 (closes 12 Aug 2026) for 80 tablets + 90 desktops for school ICT rooms |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Applied digital-research programme | ***Not held*** | — |
 
@@ -230,7 +231,7 @@ CST's January 2025 plan to extend fibre and mobile connectivity to schools, larg
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AfDB Payment System Infrastructure and Financial Inclusion Project (PISPIF) | [In development, active (per IATI record)](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-ST-H00-002%22) | AfDB commits US$3,335,999 (XDR 2,400,000) grant |
 | UNICEF PNAD equipment procurement (grant SC220341) | [Planned, tender open](https://www.telanon.info/destaques/2026/07/30/53795/unicef-aquisicao-de-tablets-computadores-e-acessorios-destinados-ao-reforco-das-tecnologias-no-sistema-educativo/) | RFQ_03/2026 open, closes 12 Aug 2026 |
@@ -238,13 +239,13 @@ CST's January 2025 plan to extend fibre and mobile connectivity to schools, larg
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Financing memorandum distinct from the AfDB/World Bank/UNICEF instruments already recorded | ***Not held*** | — |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic-state digital-transformation budget line | ***Not held*** | — |
 

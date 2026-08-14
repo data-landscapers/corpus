@@ -1,15 +1,16 @@
 ---
 title: Central African Republic — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: CAF
-ledger_rows: 10
+ledger_rows: 13
 not_held: 19
+record: 17fe263a2be9
 ---
 
 # Central African Republic: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -28,7 +29,6 @@ The statistics institute [put enumerator teams into the field on 20 July for a h
 <!-- narrative: infrastructure--infra-connect -->
 Subscribers at a northern town reported [no calls, no internet and no mobile money for close to a month, with no restoration date](https://corbeaunews-centrafrique.org/centrafrique-a-batangafo-un-mois-sans-reseau-orange-bloque-les-communications-et-les-services-financiers/). The failure is attributed to off-grid relay sites, equipment theft and repair crews travelling hundreds of kilometres, on a network with one operator and no redundancy; the base held nothing on this locality before.
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
@@ -44,19 +44,16 @@ Mobile money is the salary rail outside the banked areas, and it failed with the
 
 On 30 July a memorandum was signed at Bangui covering [digital finance and land banking, presented as mobilising investment for infrastructure while modernising land administration](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/). No commitment figure, disbursement schedule or governance arrangement is stated, and it couples a payments ambition and a land-registry ambition under one offshore private counterparty.
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 Against the Bangui memorandum, the cadastre itself has no delivery record: the 2026 medium-term framework carries [FCFA 625,000 for updating the mining cadastre and FCFA 650,000 for a petroleum database](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf), FCFA 1,275,000 between them for the year.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 Modernisation works opened at the central treasury accounting agency on 27 July for an [application deployed for the treasury single account, tied to regional banking rules and integrated with the regional settlement rails](https://www.digitalbusiness.africa/rca-le-tresor-public-integre-lapplication-informatique-jumac-pour-ameliorer-la-gestion-financiere/). Its stated object is centralising state balances and eliminating parallel and opaque accounts. No cost, financier, vendor, timetable or number of accounts closed is stated, and the architecture is explicitly regional rather than national — the public finances plan of June 2025 named six systems and a data centre and no treasury single account application.
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -65,6 +62,11 @@ The statistics institute [deployed enumerator teams nationwide on 20 July, openi
 
 ## Governance and regulation
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
@@ -78,21 +80,8 @@ The regional central bank and the payments body [launched an interoperable QR-co
 <!-- narrative: ai-tech--geopol-usa -->
 The [privatisation memorandum's move to an operational phase](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) is carried here because the counterparty is a United States firm. The announced US$150m is the counterparty's own figure and appears in no appropriation.
 <!-- /narrative -->
-
 ### Gulf/UAE activities
 
 <!-- narrative: ai-tech--geopol-gulf -->
 The [digital finance and land-banking memorandum signed at Bangui on 30 July](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) is the only Gulf-state item the base holds for the country at any date, and its counterparty is otherwise undocumented. It carries no commitment figure, disbursement schedule, timetable or governance arrangement, and registers as intent rather than finance.
-<!-- /narrative -->
-
-## Inclusion and capacity
-
-<!-- narrative: inclusion -->
-No inclusion or capacity row moved in this window.
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

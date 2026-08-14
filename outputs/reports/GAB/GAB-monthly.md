@@ -1,15 +1,16 @@
 ---
 title: Gabon — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: GAB
-ledger_rows: 23
-not_held: 28
+ledger_rows: 34
+not_held: 27
+record: b6c9e068adb4
 ---
 
 # Gabon: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -26,7 +27,6 @@ On 27 July the Libreville seminar on space communications closed with eleven rec
 
 The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)).
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
@@ -34,11 +34,15 @@ The Nkok facility was inaugurated on 3 July 2026 with 92 racks over 3,000 square
 
 On 31 July the minister inspected the second Tier III facility, a neutral carrier hotel built by the state company ACE Gabon SA at 160 racks and over 1 MW, interconnected to the submarine systems, and confirmed commissioning between end-November and early December 2026; he described it as a public structure financed by the local banking sector ([site inspection](https://www.gabonreview.com/datacenter-tier-iii-doumba-satisfait-de-lavancement-du-chantier-une-livraison-attendue-entre-novembre-et-decembre/)). No cost figure was given.
 <!-- /narrative -->
-
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
 About 22 per cent of the Nkok facility's site energy comes from a photovoltaic plant, with water-free cooling ([figures given at the inauguration](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)).
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
+
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -48,31 +52,26 @@ About 22 per cent of the Nkok facility's site energy comes from a photovoltaic p
 <!-- narrative: dpi--dpi-exchange -->
 The regional interoperable QR-code standard was launched at Douala on 29 July 2026 under the monetary union regulation of 8 April 2026, in force across all six member states and settled through the regional switch, with the Gabonese scheme as its pilot ([launch](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)). The switch's 2025 figures, presented the following day, were 20.3m transactions worth FCFA 863bn across 153 participants ([figures](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)). On 9 July the central bank acceded to the pan-African payment and settlement system, with member-state banks to be connected by the end of 2026 ([announcement](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 Domestic acceptance figures published on 30 July put banks at 457,377 cardholders among 673,793 clients, against 326 cash machines and 1,535 merchant terminals; of 1,101,434 transactions in June, 62.41 per cent were cash withdrawals and 24.61 per cent terminal payments ([bank association](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe)).
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 On 30 July the education ministry received 1,000 tablets for what the minister described as 148 connected schools ([handover](https://agpgabon.ga/gabon-remise-de-1-000-tablettes-au-ministere-de-leducation-nationale/)).
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 On 2 August the border agency's tourist electronic visa platform, developed in 2025, was presented to the travel trade ([account](https://www.gabonreview.com/supprimer-les-barrieres-administratives-le-pari-du-e-visa-touristique-gabonais/)). The administration.ga portal, also dated within the window, has no drafted narrative yet.
 <!-- /narrative -->
-
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -88,17 +87,20 @@ On 11 July nine civil-society organisations declared the broadcasting authority'
 
 On 23 July a national workshop validated by consensus five implementing texts on the digitalisation of teaching — two decrees, two orders and a decree creating a basic computing certificate — and forwarded them to the competent authorities with recommendations. They are technically validated and not adopted ([close of the workshop](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/)).
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 The same 27 July Libreville seminar on space communications called for an autonomous national satellite system and sub-regional agreement for it to operate ([close of the seminar](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/)).
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 On 31 July the ministry's final technical committee of the administrative year named its next-cycle workstreams, among them a candidacy for International Telecommunication Union governance bodies, with no body, seat or election date named ([review](https://techafricanews.com/2026/07/31/gabon-reviews-digital-transformation-progress-sets-new-priorities/)).
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -110,7 +112,6 @@ The open-innovation programme was launched on 14 July 2026 with the employers' f
 
 On 4 July, at the data-centre inauguration, the ministry and the facility's operator signed a memorandum giving ministry-supported start-ups professional hosting at preferential rates ([account](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). No rate, eligibility list or take-up figure has been published.
 <!-- /narrative -->
-
 ### China activities
 
 <!-- narrative: ai-tech--geopol-china -->
@@ -124,11 +125,15 @@ One of two accords signed on 14 July on the margins of the open-innovation progr
 <!-- narrative: inclusion--include-access -->
 On 29 July the social affairs ministry presented the first deliverable of the unified social register at Libreville, with World Bank representatives present, alongside a stated commitment to full digitalisation of non-contributory social protection under the 2026-2030 development plan ([presentation](https://agpgabon.ga/gabon-protection-sociale-presentation-du-premier-livrable-du-registre-social-unifie-et-du-programme-dacces-aux-agr/)). No beneficiary count, coverage figure or platform was given, and the state's own account uses three different names for the register in the same document.
 <!-- /narrative -->
-
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
 On 23 July the validated implementing texts included a draft decree creating a basic computing and internet certificate for education, with no syllabus, awarding body, cohort target or start date attached ([workshop close](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/)).
+<!-- /narrative -->
+### Training and skills
+
+<!-- narrative: inclusion--capacity-training -->
+
 <!-- /narrative -->
 
 ## Finance

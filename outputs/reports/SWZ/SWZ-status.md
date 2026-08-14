@@ -1,14 +1,15 @@
 ---
 title: Eswatini — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: SWZ
 ledger_rows: 65
 not_held: 9
+record: a91e9a04151a
 ---
 
 # Eswatini: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/SWZ/ledger.csv` (65 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SWZ/ledger.csv` (65 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -24,7 +25,7 @@ The data-protection institution moved from paper to practice in the period: the 
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mbabane smart-city deployment | [In development](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) | 5G network, 59 AI-enabled cameras and public Wi-Fi being fitted in the capital |
 | Minimum internet service standard | [Planned](https://times.co.sz/39355/technology-today/eswatini-set-for-major-digital-leap/) | ESCCOM proposed raising the minimum from 2 Mbps to 10 Mbps in Notice 08/2026 |
@@ -34,25 +35,25 @@ The data-protection institution moved from paper to practice in the period: the 
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Data Centre | [Implemented](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) | Government assessment finds ministries depend heavily on it with no internal fallback |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power supply to the National Data Centre | [Planned](https://independentnews.co.sz/40779/news/diplomacy/eswatini-explores-green-energy-for-national-data-centre/) | ICT minister met an Abu Dhabi clean-energy firm to discuss dedicated supply; nothing signed |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Compute or high-performance computing capacity | ***Not held*** | The National Data Centre states high-performance computing as an objective but discloses no capacity |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National cybersecurity awareness programme | [Implemented](https://itweb.africa/article/eswatini-calls-for-collaboration-to-protect-cyber-space/DZQ58vV8DV6MzXy2) | Cybersecurity Awareness Month opened by the prime minister |
 | SADC regional cybersecurity framework | [Enacted](https://independentnews.co.sz/46874/business/central-banks-rally-to-protect-regional-financial-system-against-new-age-cyber/) | Finalised and approved by the SADC Committee of Central Bank Governors subcommittee at Ezulwini |
@@ -71,7 +72,7 @@ That provider is the National Data Centre, on which the base holds [an operator'
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital identity | [Planned](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Electronic IDs planned under the Digital Eswatini Project for a 2027 rollout |
 | National e-KYC registry | [In development](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=Eswatini+embarks+on+national+e-KYC+system&bvhdgsj=Business+and+Economy&yiphi=1080) | Central bank standing it up to digitise identity verification |
@@ -79,7 +80,7 @@ That provider is the National Data Centre, on which the base holds [an operator'
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Comparative benchmark of bank charges | [Planned](https://times.co.sz/39920/news/cbe-called-to-probe-bank-charges/) | Portfolio committee recommended the central bank report within 30 days of adoption |
 | Eswatini Payment Switch | [Implemented](https://www.bis.org/review/r250114f.htm) | Fast Payments launched at Ezulwini, phase one of three |
@@ -90,21 +91,21 @@ That provider is the National Data Centre, on which the base holds [an operator'
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National population register | [Implemented](https://eswatinilii.org/akn/sz/act/1983/5/eng@1998-12-01) | Compulsory civil register commenced 6 January 1984 under the Births, Marriages and Deaths Registration Act 1983 (Act 5 of 1983), administered by a Registrar of Births, Marriages and Deaths in the Ministry of Home Affairs |
 | Proposed DNA requirement for birth certificates | [Planned](https://times.co.sz/38899/news/dna-plan-could-swallow-e126m-of-home-affairs-budget/) | Costed at about E126m a year, roughly 46% of the Home Affairs budget |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Community health services digitisation | [Implemented](https://www.worldbank.org/en/news/feature/2026/02/23/from-paper-to-pixels-driving-the-digital-transformation-of-community-health-services-in-eswatini) | Transition from paper to digital records documented |
 | Umelusi, TruMD and Content Creator Hub platforms | [Implemented](https://techreviewafrica.com/news/5994/eswatini-rolls-out-digital-platforms-to-expand-access-to-health-agriculture-and-creative-economy) | Three platforms launched with MTN Eswatini for agriculture, health and the creative economy |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Eswatini Revenue Service TaxPal | [Implemented](https://independentnews.co.sz/14361/science-technology/eswatini-launches-new-apps-to-ease-access-to-government-services/) | Launched alongside Government In Your Hand for tax accounts and clearance certificates |
 | Google Cloud EMEA memorandum | [Enacted](https://independentnews.co.sz/42282/business/former-minister-defends-google-mou-calls-for-calm-in-cabinet/) | Attorney-General confirmed Cabinet and legal consultation preceded signature |
@@ -113,26 +114,26 @@ That provider is the National Data Centre, on which the base holds [an operator'
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | USSD access to public services | [Planned](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Planned under the Digital Eswatini Project so citizens without smartphones can transact |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Tinkhundla centre connectivity | [Planned](https://independentnews.co.sz/46514/business/aviation/digital-eswatini-project-hinges-on-leadership-ps-warns/) | 38 tinkhundla centres included in the Digital Eswatini connectivity target |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | FinScope Consumer Survey | [In development](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/) | 2026 round launched, replacing a 2018 measurement |
 | State of Communications Sector Study 2025/26 | [In development](https://times.co.sz/business/readmore.php?bhsadjgfoh=+E2.8m+study+signals+bright+2026+digital+outlook&bvhdgsj=Business+and+Economy&yiphi=2583) | Tender of about E2.8m awarded by ESCCOM |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government Starlink satellite gateway | [Implemented](https://techafricanews.com/2026/04/28/eswatini-commissions-starlink-satellite-gateway-to-expand-nationwide-internet-connectivity/) | Commissioned to reach mountainous and remote areas and reduce dependence on cross-border fibre |
 | Starlink Business reseller channel | [Implemented](https://itweb.africa/article/recently-launched-paratus-eswatini-aims-to-drive-starlink-business-tech-adoption/j5alr7QAOeQ7pYQk) | Paratus Group and Real Image Internet joint venture launched as authorised reseller |
@@ -151,32 +152,32 @@ The citizen-facing layer shipped ahead of that foundation. [Government In Your H
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybersecurity, critical infrastructure, e-commerce and AI legislation | [Planned](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) | Named as forthcoming alongside the Mbabane smart-city deployment |
 | Online Media Publishing Guidelines 2026 | [In development](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) | Ministry stated development is complete |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Data Governance Policy | [In development](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy) | ICT minister told the Senate the policy is targeted for completion before end-2026, with government undecided between a standalone data-governance law and amendments to existing legislation |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | SADC adequacy model for cross-border data transfers | [Implemented](https://www.esccom.org.sz/legislation/DATA%20PROTECTION%20ACT.pdf) | Transfers within SADC permitted under conditions by the Data Protection Act 2022 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Division of the data-protection mandate | [Implemented](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) | ICT ministry stated on the record that implementation, enforcement and oversight are vested in ESCCOM, not itself |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Advisory guidelines on processing personal health data | [In development](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/) | Validation workshops opened at Ezulwini |
 | Biometric gate passes in schools | [Implemented, contested](https://times.co.sz/news/readmore.php?bhsadjgfoh=Outcry+over+digital+gate+pass+in+schools&bvhdgsj=News&yiphi=180) | Deployed by some public schools without education ministry approval, at about E200 per pupil |
@@ -187,19 +188,19 @@ The citizen-facing layer shipped ahead of that foundation. [Government In Your H
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public account of the Google memorandum | [Implemented](https://independentnews.co.sz/42282/business/former-minister-defends-google-mou-calls-for-calm-in-cabinet/) | Prime minister first dismissed the memorandum, then acknowledged in writing that Cabinet had approved it |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation with Eswatini | ***Not held*** | No source on file naming a European instrument, though European partners support the data policy through a regional channel |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data portal | ***Not held*** | No portal or open-data instrument on file; the data governance policy text is not published |
 
@@ -217,7 +218,7 @@ The same body regulates communications and polices data protection, and the spon
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ESCCOM guidance on AI and deepfakes in broadcasting | [Implemented](https://times.co.sz/news/readmore.php?bhsadjgfoh=ESCCOM+issues+AI+warning+on+deep+fakes&bvhdgsj=News&yiphi=1904) | Regulator urged broadcasters to manage AI ethically and transparently |
 | National 4IR Strategy | [Implemented](https://independentnews.co.sz/45686/business/eswatini-champions-human-centred-ai-and-how-to-guide-its-transformation-responsibly/) | Framed the prime minister's address to the Global Dialogue on AI Governance in Geneva |
@@ -226,37 +227,37 @@ The same body regulates communications and polices data protection, and the spon
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Letshego Eswatini digital bank | [In development](https://times.co.sz/39406/business/letshego-targets-unbanked-with-digital-banking-push/) | Provisional banking licence granted; transition to a full digital bank under way |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Eswatini-Taiwan digital cooperation | [Planned](https://independentnews.co.sz/47014/business/digital-innovation-take-centre-stage-on-eswatini-taiwan-cooperation/) | Digital transformation named a priority area at a leaders' meeting in Taipei |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Google partnership with Eswatini | [Enacted](https://www.times.co.sz/news/readmore.php?bhsadjgfoh=Eswatini%E2%80%99s+digital+progress+earns+continental+spotlight&yiphi=4446&bvhdgsj=News) | Eswatini represented at the Google Cloud Summit Africa 2026, with Government In Your Hand showcased |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese digital investment in Eswatini | ***Not held*** | No source on file; Eswatini has no diplomatic relations with China |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital cooperation with Eswatini | ***Not held*** | A US$10m India Exim Bank line of credit appears in the tracked finance records; no source describing an Indian digital programme is held |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | She Powers Africa Digital Academy | [Implemented](https://times.co.sz/39456/news/eswatini-launches-africas-first-womens-digital-academy/) | Launched virtually under an Eswatini-UAE memorandum signed at the 2025 UN General Assembly |
 
@@ -272,26 +273,26 @@ Foreign partnerships carry the sector. The [Google Cloud EMEA memorandum was est
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Community innovation hubs | [In development](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/) | Second hub opened at Macetjeni in the Lubombo Region |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Published guidance on digital workplace transformation | [Implemented](https://eswatinipositivenews.online/ict-expert-unveils-book-on-digital-workplace-transformation/) | Book by a domestic ICT practitioner |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI, robotics and cybersecurity training at innovation hubs | [Planned](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) | Announced at the Macetjeni hub handover as the next phase beyond basic digital literacy |
 | Digital Eswatini change agents | [Implemented](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Cross-ministry change agents in training for the 2027 rollout |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public research programme in digital or data science | ***Not held*** | No research programme, centre mandate or published output on file |
 
@@ -305,19 +306,19 @@ Capacity is where the ambition is largest relative to the base. The ICT minister
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Eswatini Project | [Implemented](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/) | More than E1.06bn of World Bank financing approved, reported at US$65m |
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Global South Utilities discussions on data-centre power | [Planned](https://independentnews.co.sz/40779/news/diplomacy/eswatini-explores-green-energy-for-national-data-centre/) | Met at the World Government Summit; nothing signed |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic budget appropriation for digital transformation | ***Not held*** | No estimates volume or appropriation line on file for the ICT ministry, ESCCOM or RSTP |
 

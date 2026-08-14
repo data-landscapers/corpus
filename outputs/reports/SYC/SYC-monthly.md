@@ -1,15 +1,16 @@
 ---
 title: Seychelles — monthly update, July 2026
-compiled: 2026-08-11
-period: 2026-07-01 to 2026-08-11
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: SYC
-ledger_rows: 16
+ledger_rows: 18
 not_held: 6
+record: d66004838f67
 ---
 
 # Seychelles: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-11 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 

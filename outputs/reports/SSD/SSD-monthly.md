@@ -1,15 +1,16 @@
 ---
 title: South Sudan — monthly update, July 2026
-compiled: 2026-08-09
-period: 2026-07-01 to 2026-08-09
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: SSD
-ledger_rows: 16
+ledger_rows: 17
 not_held: 12
+record: fe3dc815731e
 ---
 
 # South Sudan: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-09 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -42,13 +43,11 @@ On 28 July the civil-registry directorate's plan also included [a digital nation
 
 The directorate says a [new-generation passport will be introduced in August 2027](https://www.eyeradio.org/south-sudan-to-issue-new-passports-with-10-year-validity-and-eac-passport-in-2027/), moving the holder's occupation off the printed page into the digital system; raising ordinary validity from five to ten years, and issuing the East African Community passport, would each require amending the passport act, and no legislative timetable is given. It also [received 37,500 further passport booklets, putting stock at enough to sustain issuance to December 2026](https://www.eyeradio.org/over-37000-new-passport-booklets-arrive-stocks-to-last-until-december-officical/) with processing at about three days, and in Greater Yei [over 4,000 national identity cards began being collected on 13 July](https://www.onecitizendaily.com/index.php/2026/07/13/thousand-begin-collecting-national-identity-cards-in-greater-yei/).
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 On 25 July, following a resolution of the Ministerial High-Level Committee on Economic Reform, the revenue authority [barred cash payment of tax at its offices](https://www.eyeradio.org/revenue-authority-changes-tax-payment-process/). Liabilities in South Sudanese pounds must be deposited at designated banks and evidenced by an official slip before a receipt is issued; dollar-assessed taxes keep existing arrangements, and digital payment through Capital Pay continues. The authority states it as temporary.
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
@@ -56,19 +55,16 @@ The same World Bank diagnostic put [approximately 90% of births going unrecorded
 
 On 28 July the civil-registry directorate [set out a plan under which health facilities would notify births rather than issue certificates, the directorate would become the sole issuing authority, births, deaths, marriages and divorces would sit in one national database, and death registration would become compulsory](https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/). It is [stated as intent only](https://www.eyeradio.org/government-to-adopt-modern-digital-birth-death-and-marriage-records-system/): no law, budget, timetable, vendor or platform is named.
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 On 5 August the education ministry [launched an Education in Emergencies Management Information System on the DHIS2 platform](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response) with UNESCO and the HISP Centre, funded by Education Cannot Wait, after training 35 master trainers; twelve County Education Departments have been equipped with solar power, computers and connectivity to feed it.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 On 20 July revised fees were [published on the electronic visa portal](https://techcabal.com/2026/07/20/south-sudan-slaps-visa-kenya-rwanda-uganda/), putting US$50 on citizens of Kenya, Uganda, Rwanda and DR Congo and US$100 on Somali, Burundian and Nigerian citizens.
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -83,12 +79,6 @@ On 23 July the National Bureau of Statistics [published a demographic projection
 On 5 August 2026 the information minister [briefed the President on establishing an ICT Authority as a state entity under the ICT ministry](https://www.eyeradio.org/govt-set-to-establish-ict-authority-to-regulate-internet-service-providers-ateny/), to regulate internet service providers. The report states the initiative aims to put a regulator in place while the government awaits the passage of legislation through parliament. Neither point that follows is addressed: a body constituted before its statute has no enforcement powers over the providers it is meant to license, and the country already has a National Communication Authority, so the division of competence is unstated. The stated justification is youth employment. An account of 21 May 2026 states that the President signed the Authority's legal framework; the two have not been reconciled.
 <!-- /narrative -->
 
-## Artificial intelligence and the technology sector
-
-<!-- narrative: ai-tech -->
-No development in artificial intelligence or the technology sector is recorded for this period.
-<!-- /narrative -->
-
 ## Inclusion and capacity
 
 ### Access to services
@@ -96,15 +86,8 @@ No development in artificial intelligence or the technology sector is recorded f
 <!-- narrative: inclusion--include-access -->
 The cost of connection rose for the second time in two months when the [second phase of the tariff exchange-rate adjustment took effect on 26 July 2026](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/), with no revised rates published by the regulator or the operators. Against a baseline of [about US$23.70 per gigabyte in November 2025](https://www.onecitizendaily.com/index.php/2025/11/27/41522/), there is now no published price for mobile data in the country.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
 On 30 July the Central Equatoria state ministry of information [announced a Digital Innovation for Skills and Knowledge programme](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/): three digital skills centres in Juba and Yei training more than 8,000 people, put by the state information minister at 5,000 residents and 3,000 civil servants. The implementing partner put the budget at US$2,806,100. No financier, signed commitment or start date was named.
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

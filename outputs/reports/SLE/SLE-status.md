@@ -4,7 +4,7 @@ compiled: 2026-08-14
 place: SLE
 ledger_rows: 63
 not_held: 11
-record: fd9014c5cb0b
+record: 1be48bc936ad
 ---
 
 # Sierra Leone: status report
@@ -292,6 +292,7 @@ External finance carries the digital programme. The World Bank Board [approved t
 | NCRA-SLRSA register-to-register data-sharing agreement | The signed agreement or a published summary stating what data classes flow, on what legal basis and with what retention limit. | 2026-08-09 |
 | Legal basis for data sharing between government registers | A data-sharing instrument, regulation or protocol governing exchanges between the identity register and other agencies. | not yet probed |
 | United States bilateral health agreement and its data-sharing agreement | The memorandum of understanding and the related data-sharing agreement themselves, a signature date, or a Sierra Leonean government statement naming the instrument. The text is withheld rather than unpublished, and is in litigation in the United States District Court for the District of Columbia | not yet probed |
+| Bank of Sierra Leone RTGS and ACH re-platforming | An award notice from the Bank of Sierra Leone or the National Public Procurement Authority for references 8922483/8922484, naming supplier, value and scope. The only listing found was an inadmissible-origin tender aggregator, retired 2026-08-10; neither contracting authority's procurement page carries a matching entry. | 2026-08-10 |
 
 <!-- narrative: gaps -->
 Ten rows carry no reliable statement of position. Six are subject areas the base holds nothing on: local government digitalisation, domestic technical capacity, digital-sector appropriations, and European Union, Indian and Gulf state cooperation. Four are documents the record points at and does not contain — the NCRA's data-sharing agreement with the road safety authority, any instrument setting the legal basis for exchanges between registers, any rule allocating loss for mobile-money fraud, and the bilateral health agreement with the United States.

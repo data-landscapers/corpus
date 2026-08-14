@@ -1,15 +1,16 @@
 ---
 title: Gambia — monthly update, July 2026
-compiled: 2026-08-09
-period: 2026-07-01 to 2026-08-09
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: GMB
-ledger_rows: 20
-not_held: 14
+ledger_rows: 22
+not_held: 13
+record: 3d4228f80081
 ---
 
 # Gambia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-09 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -32,19 +33,16 @@ President Barrow [inaugurated the National Data Centre at Abuko on 1 July 2026](
 <!-- narrative: dpi--dpi-exchange -->
 Cross-border exchange moved further than domestic exchange did. At Saly on [16-17 July 2026 Gambian and Senegalese customs agreed a three-month roadmap](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict): install GAINDE at three border posts, deploy SIGMAT for real-time transit tracking, exchange customs data by interface once GAINDE is live, replace transit agents with a Single Administrative Document and reactivate the EnCen platform.
 <!-- /narrative -->
-
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. No enrolment or issuance figure has been published since, so its reach is unestablished.
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 Government collection acquired a fourth channel. The Office of the Accountant General [signed a memorandum integrating the SUTURA platform into revenue collection](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection), reported on 20 July 2026 — domestically built, distributed through the postal service, alongside the Yonna Wallet arrangement of March 2026. The Deputy Accountant General said several commercial banks are already integrated; the text is not held and no go-live date, volume or fee structure is given.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -52,7 +50,6 @@ The revenue authority said on [30 July 2026 that South African and Rwandan custo
 
 The trade ministry said on [4 August 2026 that a Digital Single Window Business Registration System is being finalised](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows), with no launch date.
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -68,7 +65,6 @@ The Communications Bill 2025 stayed in committee. Two Assembly committees [met t
 
 A second instrument was validated on [31 July 2026: the State Intelligence Service Bill](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service), at a workshop attended by the National Security Adviser, the Chief of Defence Staff, the Assembly's defence committee and civil society. The Adviser said the draft prohibits torture, unlawful detention and political targeting, requires judicial warrants and oversight for intrusive measures, and gives the Assembly review of the Service's budgets. Its threat frame is cybercrime, espionage, disinformation and organised crime, so it is where Gambian communications interception would sit. The text is not held, the Bill has not been tabled, and it does not appear in the Assembly's bills library, checked 2026-08-08.
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
@@ -82,7 +78,6 @@ The revenue authority [hosted the seventh ATAF Heads of Tax Administrations Mast
 <!-- narrative: ai-tech--tech-industry -->
 GAMTEL and YCELL [signed the Share Investment and Network Modernization Agreement on 9 July 2026](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement), transferring an 80% equity stake in GAMCEL and committing GMD 6.1 billion to modernisation: nationwide 4G and 5G radio access, core upgrades, next-generation operations and billing systems, a new head office, hybrid tower power and revenue assurance. It closes a process the government [described to lawmakers in December 2025 as a D6.7 billion winning bid](https://standard.gm/govt-to-sell-80-percent-shares-at-gamcel-for-d6-billion/), about D800m of it a direct payment for the shares. The two figures are not reconciled in anything held.
 <!-- /narrative -->
-
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->

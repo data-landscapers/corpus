@@ -1,14 +1,15 @@
 ---
 title: Gabon — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: GAB
 ledger_rows: 102
 not_held: 27
+record: 771334f452bb
 ---
 
 # Gabon: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/GAB/ledger.csv` (102 systems and instruments, 27 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/GAB/ledger.csv` (102 systems and instruments, 27 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -28,7 +29,7 @@ The World Bank operation intended to build the digital state had disbursed about
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel Gabon technology-neutral fixed-network authorisation | [Implemented](https://www.gabonreview.com/numerique-airtel-gabon-sengage-a-revolutionner-les-services-fixes/) | Cahier des charges signed with ARCEP, the first technology-neutral fixed authorisation in Gabon |
 | ARCEP prohibition on Starlink sale, installation and use | [Implemented](https://www.gabonreview.com/commercialisation-illegale-de-starlink-larcep-met-en-garde-les-usagers/) | ARCEP communique, with nationwide enforcement controls announced |
@@ -39,7 +40,7 @@ The World Bank operation intended to build the digital state had disbursed about
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ACE Gabon Carrier Hotel Tier III data centre | [In development](https://www.gabonreview.com/datacenter-tier-iii-doumba-satisfait-de-lavancement-du-chantier-une-livraison-attendue-entre-novembre-et-decembre/) | Ministerial site inspection, commissioning stated for end-November to early-December 2026 |
 | ANINF-Cybastion national data centre convention | [Planned](https://www.union.sonapresse.com/fr/souverainete-numerique-le-gabon-se-dote-dun-data-center-national) | Convention signed before the President |
@@ -48,20 +49,20 @@ The World Bank operation intended to build the digital state had disbursed about
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Nkok data centre photovoltaic plant | [Implemented](https://www.gabonreview.com/gabon-a-la-zis-de-nkok-st-digital-annonce-le-projet-de-construction-dun-datacenter-ecoresponsable/) | In service at the inauguration |
 | Grid supply position for data-centre load | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Information and communications technology workforce measure | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ANINF-CNAMGS information-systems audit memorandum | [Implemented](https://techreviewafrica.com/public/news/5373/cnamgs-and-aninf-partner-to-accelerate-digital-modernisation-of-public-services-in-gabon) | Memorandum of understanding signed |
 | ANINF-MITRE national cybersecurity architecture | [In development](https://techreviewafrica.com/news/6029/gabon-advances-cybersecurity-architecture-through-aninf-mitre-cooperation) | Critical-asset mapping phase under way, after an earlier phase defined twelve priority sectors |
@@ -86,7 +87,7 @@ Cybersecurity is institutionally thin. The asset-inventory method launched in Ju
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CEMAC interoperable QR-code standard | [Implemented](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/) | Launched at Douala under Reglement N 02/26/CEMAC/UMAC/CORENOFI of 8 April 2026 |
 | Central bank accession to the Pan-African Payment and Settlement System | [In development](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026) | Accession announced, with member-state banks to be connected by end-2026 |
@@ -94,7 +95,7 @@ Cybersecurity is institutionally thin. The asset-inventory method launched in Ju
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Carte Nationale d'Identite Electronique | [Implemented](https://africacoeurnews.com/2026/06/03/gabon-17720-cartes-didentite-electroniques-toujours-non-retirees/) | First public coverage figures given to the National Assembly |
 | Electoral-roll verification platform | [Implemented](https://www.interieur.gouv.ga/9-actualites/601-verifiez-votre-inscription-et-consultez-votre-centre-de-vote-en-) | Published by ANINF for the 2025 electoral cycle |
@@ -104,7 +105,7 @@ Cybersecurity is institutionally thin. The asset-inventory method launched in Ju
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digitax Gabon revenue platform | [Implemented](https://www.ecofinagency.com/news-digital/1509-48682-gabon-targets-13-billion-2026-budget-with-revenue-digitalization-push) | The tax authority's 2024 report puts at least 80 per cent of tax revenue through the system |
 | e-tax declaration and payment portal | [Implemented](http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots) | Portal announced live by the tax authority |
@@ -115,7 +116,7 @@ Cybersecurity is institutionally thin. The asset-inventory method launched in Ju
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cadastre digitalisation under the land-title programme | [In development](http://gouvernement.ga/2025/11/24/foncier-et-numerique-le-gabon-engage-la-modernisation-de-son-cadastre-avec-lign-fi) | A strategic proposal for an integrated urban land management system was submitted |
 | Fichier Unique de Participation | [Implemented](https://techafricanews.com/2026/01/14/gabon-accelerates-digital-transformation-with-new-public-finance-and-e-government-initiatives) | Stated established at the ministerial session of 2026-01-13 |
@@ -123,14 +124,14 @@ Cybersecurity is institutionally thin. The asset-inventory method launched in Ju
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | eGabon health information system | [Piloting](https://www.gabonreview.com/egabon-sis-un-don-dequipements-pour-accelerer-la-numerisation-des-structures-sanitaires/) | Second-phase equipment handed to thirteen pilot health facilities |
 | Systeme d'information et de gestion de l'education | [Implemented](https://gabonmediatime.com/gabon-integration-de-la-sante-scolaire-dans-le-systeme-de-gestion-educative) | School-health and well-being indicators integrated into the system |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | administration.ga | [In development](https://gabonmediatime.com/gabon-le-gouvernement-sassocie-au-cgi-pour-la-mise-en-place-de-la-plateforme-administration-ga/) | Presented to the Vice-President at Libreville |
 | Gabon Connect single digital window | [Planned](https://www.gabonreview.com/gabon-connect-le-futur-guichet-unique-numerique-de-letat-presente-a-oligui-nguema/) | Presented to the President by the supplier |
@@ -139,14 +140,14 @@ Cybersecurity is institutionally thin. The asset-inventory method launched in Ju
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ANINF provincial office network | [Implemented](https://techreviewafrica.com/news/6042/aninf-opens-first-provincial-office-in-franceville) | First provincial office inaugurated at Franceville |
 | Libreville municipal revenue-digitalisation system | [Implemented](https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie) | The mayor stated the city already operates its own system, developed with the Treasury |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Second census of economically weak Gabonese | [Planned](https://www.gabonreview.com/gabonais-economiquement-faibles-le-gouvernement-lance-un-nouveau-recensement-en-septembre/) | Interministerial committee fixed the terms, with fieldwork from September 2026 |
 | National statistical office output | ***Not held*** | — |
@@ -164,7 +165,7 @@ Inside government, the public finance system entered service in January 2026 con
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Five implementing texts on the digitalisation of teaching | [In development, technically validated not adopted](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/) | Validated by consensus at the closing of the Libreville national workshop and forwarded to the competent authorities |
 | Legal framework for the national digital identity system | [In development](https://www.gabonreview.com/identite-digitale-le-gabon-franchit-un-cap-vers-une-gouvernance-inclusive-et-securisee/) | Named as the two texts on which the framework rests |
@@ -175,27 +176,27 @@ Inside government, the public finance system entered service in January 2026 con
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National satellite and space strategy | [In development](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/) | Eleven recommendations adopted at the closing of the Libreville seminar |
 | National digital strategy document | ***Not held*** | — |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Candidacy for International Telecommunication Union governance bodies | [In development](https://techafricanews.com/2026/07/31/gabon-reviews-digital-transformation-progress-sets-new-priorities/) | Reviewed at the ministry's final technical committee of the administrative year |
 | Position under the African Union Convention on Cyber Security and Personal Data Protection | ***Not held*** | — |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Standardised custody registers | [In development](https://www.apt.ch/news/gabon-moves-strengthen-judicial-safeguards-standardised-custody-registers) | National roundtable at Libreville on 18 and 19 February 2025, at which a standardised model was presented |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Autorite de protection des donnees a caractere personnel | [Implemented](https://www.gabonreview.com/marches-publics-les-donnees-personnelles-des-soumissionnaires-de-2022-officiellement-detruites/) | Announced pre-commissioning compliance clearance for the national data centre after several months of accompaniment |
 | Biometric prohibition and its derogation route | [Implemented, with a defect in the operative text](https://www.apdpvp.ga/wp-content/uploads/2025/01/Gabon-Loi-025-2023-du-12-juillet-2023-portant-modification-de-la-loi-001-2011-du-25-septembre-relative-a-la-protection-des-donnees-a-caractere-personnel.pdf) | Article 75 sets an outright prohibition and article 76 mis-cross-references its derogation to the article on children's data |
@@ -205,19 +206,19 @@ Inside government, the public finance system entered service in January 2026 con
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Haute Autorite de la Communication decision n 0002/HAC/2026 suspending social media | [Implemented](https://www.gabonreview.com/gabon-cinq-mois-de-silence-numerique-quand-le-remede-devient-le-poison/) | In force until further notice, with no lifting date given as at 2026-07-17 |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation instrument | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data portal or policy | ***Not held*** | — |
 
@@ -235,7 +236,7 @@ Two instruments are moving. Five implementing texts on the digitalisation of tea
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Morocco-Gabon digital transformation and artificial intelligence protocol | [Implemented, no workplan published](https://techafricanews.com/2026/04/13/new-morocco-and-gabon-agreement-focuses-on-digital-skills-and-capacity-building/) | Signed as an outcome of the GITEX Africa exhibition at Marrakech, 7-9 April 2026 |
 | Artificial-intelligence compute capacity | ***Not held*** | — |
@@ -244,13 +245,13 @@ Two instruments are moving. Five implementing texts on the digitalisation of tea
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital sector economic weight | ***Not held*** | — |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kimba Connect | [Implemented, final postponed](https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/) | Final of 2026-08-04 postponed after start-up objections, no revised date given |
 | Start-up and Digital Enterprise Act | [Planned](https://www.brookings.edu/articles/why-africa-should-sequence-not-rush-into-ai/) | Named as forthcoming by the digital economy minister |
@@ -259,26 +260,26 @@ Two instruments are moving. Five implementing texts on the digitalisation of tea
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Amazon acquisition of Globalstar | [Planned, not finalised](https://itweb.africa/article/amazons-9bn-satellite-deal-set-to-benefit-africa/kLgB17ezwwgM59N4) | Talks reported advanced at about US$9bn and not yet finalised |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Huawei digital transformation memorandum | [Implemented](https://www.gabonreview.com/numerique-le-gabon-explore-un-partenariat-technologique-renforce-avec-huawei/) | Signed on 2025-12-23, witnessed by the supplier's regional chief executive |
 | Huawei skills accord under Kimba Connect | [Planned, signed and unquantified](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques) | Signed on 2026-07-14 alongside the credit-guarantee accord |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital or technology cooperation instrument | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital or technology cooperation instrument | ***Not held*** | — |
 
@@ -292,7 +293,7 @@ The only instrument in the base whose stated subject is artificial intelligence 
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gender digital divide | ***Not held*** | — |
 | Rural and urban internet access split | ***Not held*** | — |
@@ -300,20 +301,20 @@ The only instrument in the base whose stated subject is artificial intelligence 
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Registre social unifie du Gabon | [In development](http://gouvernement.ga/2025/08/28/registre-social-unique-gabon-modernisation-de-la-protection-sociale) | First deliverable presented at Libreville, with World Bank representatives present |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Basic computing and internet certificate for education | [Planned](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/) | Draft decree on its issuance validated at the national workshop |
 | Named national digital-literacy programme | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybastion training commitment | [Implemented](https://www.union.sonapresse.com/fr/souverainete-numerique-le-gabon-se-dote-dun-data-center-national) | Cisco Networking Academy CCST training under way at Libreville's American Corner, reported 2026-08-11 |
 | Connected schools programme | ***Not held*** | — |
@@ -321,7 +322,7 @@ The only instrument in the base whose stated subject is artificial intelligence 
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gabon Statistical Development Project | [Discontinued](https://projects.worldbank.org/en/projects-operations/project-detail/P157473) | Closed, against US$50m committed in 2017 |
 | Named national research funding for digital technology or artificial intelligence | ***Not held*** | — |
@@ -336,7 +337,7 @@ One thousand young people were to be trained free of charge under a data-centre 
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Gabon Project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P175987) | US$13,419,063 disbursed of US$68.5m on the project portal, retrieved 2026-06-24 |
 | eGabon project | [Implemented, in closure](https://projects.worldbank.org/en/projects-operations/project-detail/P132824) | World Bank mission reviewed the closure phase |
@@ -344,7 +345,7 @@ One thousand young people were to be trained free of charge under a data-centre 
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Huawei smart-cities memorandum | [Planned](https://www.biometricupdate.com/202409/gabon-puts-digital-id-at-forefront-of-its-digital-transformation-journey) | Commitment recorded for 2024, with the deal at pipeline status and no disbursement |
 | Partnership with the United Nations Capital Development Fund | [Implemented, no work programme or amount published](https://www.biometricupdate.com/202512/gabon-pens-deal-with-uncdf-to-accelerate-financial-inclusion) | Partnership announced |
@@ -353,7 +354,7 @@ One thousand young people were to be trained free of charge under a data-centre 
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ministry of Digital Economy annual appropriation | [Planned, presented and not enacted on the record](https://www.wearetech.africa/en/fils-uk/news/public-management/gabon-s-2026-digital-budget-soars-by-156-to-fund-tech-overhaul) | Presented to the National Transition Assembly |
 | Enacted digital appropriation for 2026 | ***Not held*** | — |

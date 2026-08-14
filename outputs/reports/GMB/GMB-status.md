@@ -1,14 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: GMB
 ledger_rows: 62
 not_held: 13
+record: 54e375d06c06
 ---
 
 # Gambia: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (62 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (62 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -28,7 +29,7 @@ Two questions about foreign operators are open: [Starlink is still unlicensed](h
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gambia National Broadband Network (China Eximbank loan) | [Implemented](https://www.dropbox.com/s/9yvhtd9i4i0vrs0/cr18197.pdf?dl=0) | Arrears of US$0.25m cleared, 19 June 2020 |
 | GAMTEL national broadband modernisation PPP | [In development](https://techafricanews.com/2026/01/05/gamtel-and-sysroad-sign-50-million-ppp-to-modernize-the-gambias-broadband-network/) | US$50m partnership signed at Bijilo, announced 5 January 2026 |
@@ -37,26 +38,26 @@ Two questions about foreign operators are open: [Starlink is still unlicensed](h
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Data Centre, Abuko | [Implemented](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/) | Inaugurated by President Barrow alongside the national identity system, 1 July 2026 |
 | QGroup House data centre | [Implemented](https://thepoint.gm/africa/gambia/headlines/barrow-inaugurates-qgroup-house-unveils-gambias-first-data-centre) | Inaugurated by President Barrow, 30 April 2026 |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power supply to the national digital estate | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic technical capacity to operate the national digital systems | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National cybersecurity agency or incident response team | [Planned, no evidence of operation held](https://mocde.gov.gm/wp-content/uploads/2024/02/National-Cybersecurity-Strategy-2022-2026-Final-.pdf) | GM-CSIRT named as the national incident response team in the National Cybersecurity Strategy and Action Plan 2022-2026 |
 
@@ -73,21 +74,21 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gambia-Senegal customs data exchange roadmap | [Planned](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict) | Three-month roadmap agreed at the second Monitoring Committee, Saly, 16-17 July 2026 |
 | National Enterprise Architecture | [In development](https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative) | Framework validated under the ITU GovStack initiative, 22 May 2026 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Margins ID national identity contract | [Implemented](https://thepoint.gm/africa/gambia/headlines/govt-signs-id-card-deal-with-margins-id-systems-applications-ltd) | Signed by the Ministry of Interior with Margins ID Systems Applications, 21 January 2026 |
 | National Identity Management System (GAM ID) | [Implemented](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/) | Launched by President Barrow, 1 July 2026, nationwide enrolment from 4 August 2026 |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BANTABA 2.0 instant payment system | [Implemented](https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system) | Launched by the Central Bank and the communications ministry, 15 December 2025 |
 | SUTURA government revenue collection integration | [Planned](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection) | Memorandum signed with the Office of the Accountant General, reported 20 July 2026 |
@@ -97,21 +98,21 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic civil registration and vital statistics | [Implemented](https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia) | Mass birth-registration and health-insurance campaign reached about 1.17m people |
 | Gambia Social Registry | [Implemented](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building) | 203,022 households registered across 40 of 43 districts in two years |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | DHIS2 for Education | [In development](https://education.dhis2.org/gambia-data-driven-education) | Study tour documenting the build, May 2026 |
 | Smart Paper Technology for community health data | [Implemented](https://articles.nigeriahealthwatch.com/smart-paper-technology-is-transforming-community-health-data-capture-in-the-gambia) | In use for community health data capture, December 2025 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Community policing case management and facility mapping | [Implemented](https://www.undp.org/gambia/stories/essau-gambisara-reimagining-community-policing-across-gambia) | Programme documented from Essau to Gambisara, March 2026 |
 | Digital excise tax stamp | [Implemented](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/) | In operation; study visits by South African and Rwandan customs announced 30 July 2026 |
@@ -125,19 +126,19 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural digital data capture | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kanifing municipal digital addressing | [Implemented](https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia) | 36,000 properties georeferenced with Plus Codes |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Coordination of official statistics production | [In development](https://thepoint.gm/africa/gambia/headlines/cbg-hosts-stakeholders-engagement-on-statistical-data) | Central Bank convened producers and users, 22 July 2026 |
 | Gambia Labour Force Survey series | [Implemented](https://www.gbosdata.org/downloads-file/627-the-gambia-labour-force-survey-findings-report) | Fifth round disseminated at Bakau with a first three-round trend volume, July 2026 |
@@ -158,14 +159,14 @@ Statistics are the most complete system in the stack. The [fifth labour force su
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Communications Bill 2025 | [In development](https://standard.gm/lawmakers-back-bill-to-protect-personal-data-in-digital-age/) | Sitting with National Assembly committees after second reading on 2 March 2026 |
 | State Intelligence Service Bill | [In development](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service) | Draft validated at a stakeholder workshop, 31 July 2026 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Cybersecurity Strategy and Action Plan 2022-2026 | [Implemented](https://mocde.gov.gm/wp-content/uploads/2024/02/National-Cybersecurity-Strategy-2022-2026-Final-.pdf) | Revised edition published, superseding the Proposed Formulation and Action Plan of July 2016 |
 | National Data Policy 2025 | [In development](https://mocde.gov.gm/wp-content/uploads/2025/06/National-Data-Policy-2025-The-Gambia-draft.docx) | Draft published by the communications ministry |
@@ -174,14 +175,14 @@ Statistics are the most complete system in the stack. The [fifth labour force su
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ATAF Heads of Tax Administrations Master Class | [Implemented](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1) | Seventh Master Class convened in Banjul, 23-24 July 2026 |
 | Senegal-Gambia regulatory cooperation and free roaming agreement | [Implemented](https://techreviewafrica.com/news/6078/senegal-and-the-gambia-enhance-digital-integration-through-regulatory-cooperation-agreement) | Signed between the two regulators, June 2026 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Personal Data Protection and Privacy Act 2025 | [Implemented](https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025) | Enacted, ending a legislative process stalled for several years |
 | Data Protection and Privacy Commission | ***Not held*** | — |
@@ -189,19 +190,19 @@ Statistics are the most complete system in the stack. The [fifth labour force su
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public participation in digital policymaking | ***Not held*** | — |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation with The Gambia | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open-data portal | ***Not held*** | — |
 
@@ -217,32 +218,32 @@ Policy sits ahead of instruments. The [National Data Policy 2025 is still a draf
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National artificial intelligence policy or strategy | ***Not held*** | — |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | GAMCEL 80% share sale and network modernisation | [Implemented](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement) | Share Investment and Network Modernization Agreement signed, 9 July 2026 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gambia Digital Innovation Sprint | [Implemented](https://thepoint.gm/africa/gambia/national-news/young-gambians-unveil-digital-innovations-to-transform-childrens-lives) | Youth showcase held, 9 July 2026 |
 | Kalp Foundation Gambia One blockchain platform | [Planned](https://itweb.africa/article/the-gambia-signs-blockchain-pact-to-boost-digital-economy/8OKdWqDXbnYqbznQ) | Memorandum signed, January 2025 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital cooperation with The Gambia | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf state digital investment in The Gambia | ***Not held*** | — |
 
@@ -258,19 +259,19 @@ One announced platform has produced nothing. A [memorandum with the Kalp Foundat
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Affordability of internet access | ***Not held*** | — |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural women and girls digital rights programme | [Implemented](https://www.apc.org/en/blog/seeding-change-strengthening-digital-rights-rural-women-and-girls-gambia) | Eight workshops delivered between September 2025 and March 2026, reported 30 July 2026 |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Labour Digital Skill programme | [In development](https://thepoint.gm/africa/gambia/national-news/stakeholders-validate-methodology-labour-digital-skill-dev-report) | Methodology and report validated, 23 December 2025 |
 
@@ -284,7 +285,7 @@ On access itself there is no domestic measure. DataReportal's commercial compila
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AfDB digital government project | [Planned](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-GM-GB0-002%22) | Carried in the bank's own reporting as a pipeline operation |
 | Gates Foundation payment system pilot | [Discontinued](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DAC-1601-INV-064577%22) | Recorded as closed in the funder's own reporting |
@@ -292,7 +293,7 @@ On access itself there is no domestic measure. DataReportal's commercial compila
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic budget appropriations for the digital sector | ***Not held*** | — |
 

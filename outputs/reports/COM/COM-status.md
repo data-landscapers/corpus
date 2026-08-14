@@ -1,14 +1,15 @@
 ---
 title: Comoros — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: COM
 ledger_rows: 110
 not_held: 31
+record: c1f3a2c4b169
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (110 systems and instruments, 31 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (110 systems and instruments, 31 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -22,7 +23,7 @@ _(narrative not yet written)_
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Comores Telecom fifth-generation and fixed-wireless service | [Implemented, pilot site only](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/t%C3%A9l%C3%A9communications-comores-telecom-lance-%C3%A0-son-tour-la-5g-.html) | Presidential launch at the Hamramba pilot site |
 | Prohibition on satellite internet deployment | [Implemented, pending a licence](https://alwatwan.net/societe/d%C3%A9ploiement-de-starlink-i-les-autorit%C3%A9s-interdisent-son-usage-pour-l%E2%80%99instant.html) | A ministerial circular signed 2025-06-09 and announced by the regulator on 2025-06-12 |
@@ -31,7 +32,7 @@ _(narrative not yet written)_
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data centre for the public administration | [Implemented](https://www.telecompaper.com/news/comoros-completes-construction-of-public-administration-data-centre--1536505) | Inaugurated 2025-05-19 |
 | Primary and backup data centres for the finance ministry | [In development](https://finances.gouv.km/appel-doffre/projet-dappui-aux-systemes-dinformation-de-la-gouvernance-financiere-pagf-si/) | Turnkey tender issued 2025-12-22, with bids opened 2026-02-16 |
@@ -39,13 +40,13 @@ _(narrative not yet written)_
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electricity supply to digital infrastructure | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National computer emergency response team | ***Not held*** | — |
 
@@ -57,14 +58,14 @@ _(narrative not yet written)_
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government interoperability and data-exchange platform | [Planned](https://www.biometricupdate.com/202410/comoros-to-implement-digital-govt-program-with-10m-afdb-grant) | Contracts opened under the e-government procurement notice |
 | Study on interfacing the tax system with mobile banking | [In development](https://finances.gouv.km/wp-content/uploads/2025/10/AMI-Etude-pour-interfacage-du-paiement-via-Mobil-Banking.docx) | A feasibility study tendered, with expressions of interest due 2025-10-28 and a shortlist of four to six |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Agence Nationale de l'Etat Civil | [In development](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/vers-un-d%C3%A9cret-d%E2%80%99application-pour-l%E2%80%99agence-nationale-de-l%E2%80%99%C3%A9tat-civil-.html) | Island consultation workshops on the draft implementing decree |
 | Biometric passport and national identity card production concession | [Implemented](https://alwatwan.net/societe/impression-des-documents-biom%C3%A9triques-i-genkey-remplacera-semlex-%C3%A0-partir-du-mois-d%E2%80%99avril-prochain.html) | A Dutch supplier formally succeeded the Belgian incumbent on 2026-03-31, the previous contract having expired on 2026-03-26 |
@@ -74,7 +75,7 @@ _(narrative not yet written)_
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Accession to the Pan-African Payment and Settlement System | [In development](https://www.afreximbank.com/central-bank-of-comoros-commencement-of-activities-for-the-implementation-of-papss-in-comoros) | Implementation commenced 2024-08-23, the membership agreement having been signed in July 2024 |
 | Decentralised digital financial institution licence | [Implemented](https://itweb.africa/article/axian-gets-digital-first-financial-license-in-the-comoros/xA9POvNElGOqo4J8) | Licence granted by the central bank |
@@ -86,7 +87,7 @@ _(narrative not yet written)_
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-registry modernisation programme | [In development](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/vers-un-%C3%A9tat-civil-num%C3%A9rique-moh%C3%A9li-ouvre-la-voie-%C3%A0-la-modernisation-nationale-.html) | Preliminary-study validation workshop at Moroni |
 | National digital agricultural register | [Planned](https://anaden.org/realisations) | Named as an objective of a protocol with the agriculture chambers |
@@ -96,7 +97,7 @@ _(narrative not yet written)_
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital data capture in national health campaigns | [Implemented, a single campaign](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-goes-digital-in-measles-rubella-drive-to-vaccinate-101-000-children) | First use in a national campaign, launched 2025-10-04 |
 | School records and digital textbook platforms | [Piloting](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/digitalisation-de-l%E2%80%99enseignement-les-comores-passent-%C3%A0-l%E2%80%99%C3%A8re-du-num%C3%A9rique-avec-e-msomo-et-e-shiyo-.html) | Launched 2025-06-05 at a primary school |
@@ -105,7 +106,7 @@ _(narrative not yet written)_
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | E-government modernisation project | [In development](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais) | General procurement notice issued 2026-03-12, with submissions open to 2027-03-12 |
 | Online scholarship portal | [In development](https://anaden.org/realisations) | Marked as under way on the digital agency's own delivery log since a technical meeting of June 2024 |
@@ -116,19 +117,19 @@ _(narrative not yet written)_
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Universal service or rural digital access fund | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Municipal or island-government digital services | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Enquete Agricole Annuelle | [In development](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html) | Sensitisation campaign concluded 2026-08-07 and a training-of-trainers workshop held for national instructors, ahead of the survey's rollout |
 | Fifth population and housing census | [In development](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/lancement-du-5%C3%A8me-recensement-g%C3%A9n%C3%A9ral-de-la-population-.html) | Officially launched 2026-06-05 |
@@ -136,7 +137,7 @@ _(narrative not yet written)_
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Census cartography capability at the statistics institute | [In development](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-2027-l%E2%80%99inseed-amorce-son-virage-au-num%C3%A9rique-.html) | A ten-day geographic information systems training, 13-24 April 2026, under a World Bank statistical capacity project |
 | National spatial data infrastructure or address register | ***Not held*** | — |
@@ -152,7 +153,7 @@ The section's ***Not held*** rows include a national services portal or single w
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Code numerique | [Planned](https://anaden.org/actualites/anaden-information-les-avancees-sur-le-code-numerique) | A stated 2024 target passed with no adoption on file, checked 2026-08-04 |
 | Cybercrime provisions of the penal code | [Implemented](https://anaden.org/actualites/anaden-information-les-avancees-sur-le-code-numerique) | Promulgated by presidential decree 2021-02-16, at articles 449 to 505 |
@@ -164,7 +165,7 @@ The section's ***Not held*** rows include a national services portal or single w
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital agency board of directors | [Implemented](https://alwatwan.net/societe/gouvernance-du-num%C3%A9rique-i-l%E2%80%99anaden-installe-son-conseil-d%E2%80%99administration-et-d%C3%A9voile-ses-priorit%C3%A9s.html) | First session held and the bureau elected, members having been named by decree of 11 June 2026 |
 | Observatoire national du numerique | [Planned](https://anaden.org/uploads/media/5e3969272d9f8/strat-comores-numerique-v2-3-compresse.pdf) | Institutional capacity and a stand-up consultancy procured under the e-government project |
@@ -174,14 +175,14 @@ The section's ***Not held*** rows include a national services portal or single w
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Programme for African Developing Island Economies | [Implemented, no Comorian component identified](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Launched at the Abidjan ministerial segment 2026-07-24 |
 | Position under the African Union Convention on Cyber Security and Personal Data Protection | ***Not held*** | — |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Access catalogue of the state cable company for 2025-2026 | [Implemented](https://anrtic.km/media/media/avis_decisions/IHJnhQCoMBHNgK4z8b3XJtnOout2856oxqVkrc0B.pdf) | Approved by regulator decision of 2025-07-17 |
 | Country-code top-level domain registry | [Implemented, transitional](https://alwatwan.net/societe/gestion-technique-du-code-pays-internet-i-la-phase-de-transfert,-de-comores-t%C3%A9l%C3%A9com-%C3%A0-l%E2%80%99anaden,-est-lanc%C3%A9e.html) | Technical transfer from the incumbent operator completed overnight on 6-7 May 2025 under a ministerial order of 29 September 2024 |
@@ -191,26 +192,26 @@ The section's ***Not held*** rows include a national services portal or single w
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National personal data protection authority | [Planned](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law) | A stand-up consultancy and institutional capacity procured under the e-government project, with submissions open to 2027-03-12 |
 | Protection of Personal Data Law | [Implemented, supervisory authority not constituted](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law) | Enacted 2021-06-29, with the authority still not stood up as of mid-2024 |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Code de l'information et de la communication, as amended | [Implemented, amending law adopted and not shown promulgated](https://alwatwan.net/economie/assembl%C3%A9e-de-l%E2%80%99union-i-le-projet-de-loi-de-finances-2026-adopt%C3%A9-%C3%A0-l%E2%80%99unanimit%C3%A9.html) | Adopted by the Assembly of the Union by 31 votes of 33 deputies |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European electronic administration project | [In development](https://alwatwan.net/societe/modernisation-de-l%E2%80%99administration-publique-i-lancement-officiel-du-projet-e-administration.html) | Officially launched 2025-10-16 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data policy or portal | ***Not held*** | — |
 
@@ -223,7 +224,7 @@ The regulator has published a [single quality-of-service audit](https://lagazett
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial-intelligence preparedness strand of the e-government project | [Planned](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais) | Named in the general procurement notice, with submissions open to 2027-03-12 |
 | National artificial intelligence forum | [Implemented, one edition only](https://alwatwan.net/societe/intelligence-artificielle-aux-comores-i-le-premier-forum-fait-jaillir-les-d%C3%A9fis-et-les-opportunit%C3%A9s-de-l%E2%80%99ia.html) | First edition held at a Moroni hotel on the theme of digital inclusion |
@@ -232,14 +233,14 @@ The regulator has published a [single quality-of-service audit](https://lagazett
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital commerce platform | [Implemented](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/num%C3%A9rique-komoralink,-une-nouvelle-%C3%A8re-pour-l%E2%80%99%C3%A9conomie-comorienne-.html) | Official launch with a technology partnership and chamber of commerce backing |
 | Digital sector contribution to gross domestic product | ***Not held*** | — |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Enterprise resource planning product built in the Comoros | [Implemented](https://alwatwan.net/societe/intelligence-artificielle-aux-comores-i-le-premier-forum-fait-jaillir-les-d%C3%A9fis-et-les-opportunit%C3%A9s-de-l%E2%80%99ia.html) | Officially launched at the first artificial intelligence forum |
 | Technopole numerique | [Piloting](https://alwatwan.net/societe/technopole-num%C3%A9rique-un-tremplin-pour-l%E2%80%99avenir-digital-des-jeunes-comoriens.html) | Pilot phase launched at the Palais du peuple with a supplier present |
@@ -247,25 +248,25 @@ The regulator has published a [single quality-of-service audit](https://lagazett
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States digital or technology cooperation instrument | ***Not held*** | — |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese digital or technology cooperation instrument | ***Not held*** | — |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital or technology cooperation instrument | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital or technology cooperation instrument | ***Not held*** | — |
 
@@ -277,26 +278,26 @@ _(narrative not yet written)_
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mobile science caravans | [In development](https://alwatwan.net/societe/technopole-num%C3%A9rique-un-tremplin-pour-l%E2%80%99avenir-digital-des-jeunes-comoriens.html) | Described as being launched at the technology park pilot |
 | Universal service or rural access fund | ***Not held*** | — |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Official internet-penetration or affordability series | ***Not held*** | — |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital-literacy or digital-skills programme | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial intelligence training sessions by a private foundation | [Implemented](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/formation-sur-l%E2%80%99intelligence-artificielle-une-deuxi%C3%A8me-session-bien-r%C3%A9ussie-.html) | A second session held at Moroni for about forty secondary pupils |
 | Entry to the international artificial-intelligence olympiad | [Implemented](https://alwatwan.net/societe/olympiade-internationale-d’ia-i-deux-lycéens-représentent-les-comores-au-kazakhstan.html) | First Comorian participation, at the third olympiad, 2-8 August 2026 |
@@ -311,7 +312,7 @@ _(narrative not yet written)_
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | China Eximbank concessional loan for network modernisation | [Implemented](https://www.aiddata.org/data/global-chinese-development-finance-dataset-version-3) | Loan agreement signed 2018-12-11, with the fibre-to-the-home programme launched with the supplier on 2022-03-22 |
 | Connectivity pledge across three markets | [Planned](https://techafricanews.com/2025/04/01/axian-telecom-invests-82m-to-expand-4g-in-madagascar-comoros-tanzania/) | Pledge announced 2025-04-01, targeting 97 per cent population coverage and six million connected by 2030 |
@@ -322,14 +323,14 @@ _(narrative not yet written)_
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Card and merchant partnership with a global payment network | [Implemented, announced](https://techreviewafrica.com/public/news/3303/axian-group-and-mastercard-partner-to-expand-digital-financial-inclusion-across-africa) | Partnership announced |
 | Protocol with the agriculture chambers on agricultural digitalisation | [Implemented, signed](https://anaden.org/realisations) | Protocol signed at Moroni |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Annual budget execution report | Implemented, 2025 edition overdue | The 2024 report dated 14 March 2025 on its face, with no 2025 report and no fiscal operations table for 2025 at 2026-08-04 |
 | Budget framing letter | Implemented | Signed on or before September 2025 |

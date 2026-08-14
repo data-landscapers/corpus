@@ -1,15 +1,16 @@
 ---
 title: Algeria — monthly update, July 2026
-compiled: 2026-08-04
-period: 2026-07-01 to 2026-08-04
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: DZA
-ledger_rows: 14
-not_held: 8
+ledger_rows: 22
+not_held: 7
+record: d646b224d11c
 ---
 
 # Algeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-04 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -30,7 +31,6 @@ IPv6 generalisation was [launched on 14 July](https://www.echoroukonline.com/%D9
 
 On 23 July the Council of Government examined draft executive decrees renewing the public cellular licences held by Mobilis and Optimum Telecom Algérie (Djezzy). Renewal by executive decree places licence continuation with the cabinet rather than with the regulator, which ran the 5G round as a competitive tender. No term, fee, coverage obligation or decree text is held, and the Prime Minister's own communiqué of the sitting is not on file — the account rests on [one press carry](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ).
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
@@ -39,12 +39,16 @@ The National Digital Services Centre was inaugurated by President Tebboune on 5 
 
 ## Digital public infrastructure
 
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+The Bank of Algeria hosted the [29th ordinary meeting of the Arab Commission for Payment and Settlement Systems](https://www.dknews-dz.com/article/193186-banque-dalgerie-debut-a-alger-de-la-29e-reunion-ordinaire-de-la-commission-arabe-des-systemes-de-paiement-et-de-reglement.html) in Algiers on 27 July. No instrument was concluded.
+<!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 A pilot arrived on 30 July: SEAAL signed an MoU with OTEC and Omantel for [automated water-meter reading](https://techafricanews.com/2026/07/30/omantel-expands-regional-digital-footprint-with-algeria-smart-water-partnership/) on a LoRaWAN network, with no site, scale or start date stated.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -57,12 +61,6 @@ A second national portal was announced on 24 July: the Ministry of Labour, Emplo
 The services-import platform announced on 27 July becomes the exclusive route from 1 August. Nothing held confirms it in operation.
 <!-- /narrative -->
 
-### Digital Payments and Fintech
-
-<!-- narrative: dpi--dpi-pay -->
-The Bank of Algeria hosted the [29th ordinary meeting of the Arab Commission for Payment and Settlement Systems](https://www.dknews-dz.com/article/193186-banque-dalgerie-debut-a-alger-de-la-29e-reunion-ordinaire-de-la-commission-arabe-des-systemes-de-paiement-et-de-reglement.html) in Algiers on 27 July. No instrument was concluded.
-<!-- /narrative -->
-
 ## Governance and regulation
 
 ### Legislation and regulation
@@ -72,19 +70,16 @@ At the 23 July sitting the Council of Government also examined a draft national 
 
 _(narrative not yet written for Law 18-05 on electronic commerce)_
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 Progress on a national accreditation, conformity and certification network and its GEOLAB platform was reviewed at the 23 July Council of Government sitting.
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -104,17 +99,15 @@ Nothing moved on the National AI Strategy or the ethical-AI law in July.
 
 Three external events are dated in the month and moved nothing. The Post and Telecommunications Minister told the inaugural [UN Global Dialogue on AI Governance](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) in Geneva on 6 July that global governance should move from principles to technology transfer and capacity building. Smart Africa's chief executive met him on [13 July](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration; no agreement or commitment is reported. Algérie Télécom received a [WSIS Forum certificate of appreciation](https://www.echoroukonline.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC) on 9 July. The award is a certificate of appreciation; the ministry described it as confirmation of Algeria's standing.
 <!-- /narrative -->
-
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
 _(narrative not yet written)_
 <!-- /narrative -->
+### Innovation ecosystem
 
-## Inclusion and capacity
+<!-- narrative: ai-tech--tech-innovate -->
 
-<!-- narrative: inclusion -->
-Nothing in this section took a new position in July. The skills and inclusion programmes that carry this section's weight — the national digital-empowerment programme, the vocational AI training, the universal-service build — last moved in May and June, and their current positions are the status report's subject.
 <!-- /narrative -->
 
 ## Finance

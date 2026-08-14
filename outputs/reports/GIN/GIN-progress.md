@@ -1,19 +1,20 @@
 ---
-title: Guinea — progress report, 2025-08-01 to 2026-08-09
-compiled: 2026-08-10
-period: 2025-08-01 to 2026-08-09
+title: Guinea — progress report, 2025-08-01 to 2026-08-14
+compiled: 2026-08-14
+period: 2025-08-01 to 2026-08-14
 place: GIN
-ledger_rows: 91
-not_held: 15
+ledger_rows: 93
+not_held: 13
+record: 6964ef43e48e
 ---
 
-# Guinea: progress report, 2025-08-01 to 2026-08-09
+# Guinea: progress report, 2025-08-01 to 2026-08-14
 
-*Compiled 2026-08-10 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 91 systems and instruments on this place's ledger, 48 changed position between 2025-08-01 and 2026-08-09, 17 did not, 11 carry no stated baseline, and 15 are ***Not held*** at both ends.*
+*Of 93 systems and instruments on this place's ledger, 50 changed position between 2025-08-01 and 2026-08-14, 17 did not, 13 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 74 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-02), 47 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 75 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-02), 48 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -29,12 +30,12 @@ Three things did not move. The payments statute and the payments governance body
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | GIGA school connectivity programme | No programme on record | [2,200-school target by end-2026; 585 schools connected (2026-01)](https://www.ecofinagency.com/news-digital/0711-50249-guinea-kicks-off-plan-to-bring-internet-to-2-200-schools) | Advanced |
 | MEDUSA Africa submarine cable (second landing) | Did not exist | [C&MA signed; GUILAB the landing party](https://mediaguinee.com/2026/05/2e-cable-sous-marin-la-guinee-propulse-sa-souverainete-numerique-avec-la-signature-de-laccord-medusa-africa/) | Advanced |
 | National fibre backbone | 50 Gbps, ~12,000 km of fibre | [200 Gbps, ~12,000 km reaching all regions (2026-01)](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026) | Advanced |
-| Restriction on Facebook, YouTube and TikTok | Not in force | [In force from 28 July 2026; no authority has acknowledged it (2026-08-07)](https://www.guinee360.com/28/07/2026/perturbation-de-lacces-a-internet-en-guinee-lablogui-denonce-un-blocage-cible-de-facebook-youtube-et-tiktok/) | Advanced, restriction imposed |
+| Restriction on Facebook, YouTube and TikTok | Not in force | [In force from 28 July 2026, covering Facebook, YouTube and TikTok; still running 2026-08-07; a consumer-protection union additionally reports WhatsApp restricted and bandwidth broadly reduced for several months, with ISPs and mobile operators stating the decision was not theirs (2026-08-04); no authority has acknowledged it](https://www.guinee360.com/28/07/2026/perturbation-de-lacces-a-internet-en-guinee-lablogui-denonce-un-blocage-cible-de-facebook-youtube-et-tiktok/) | Advanced, restriction imposed |
 | Univ Connect higher-education fibre (ANSUTEN) | No programme on record | [17 institutions contracted, 13 connected](https://mediaguinee.com/2025/12/la-ministre-pricemou-lance-un-vaste-projet-de-connexion-numerique-pour-17-universites-et-institut/) | Advanced |
 | Via Africa submarine cable (third landing) | Did not exist | [Co-investment agreed; no landing date published](https://mediaguinee.com/2026/06/saturation-du-cable-sous-marin-ahmed-karifa-diawara-dg-de-la-guilab-devoile-la-riposte-de-la-guinee/) | Advanced |
 | ACE submarine cable (sole international link) | Sole landing, saturated | [Sole landing in service, saturated; two further landings contracted](https://mediaguinee.com/2025/07/atterrissement-dun-second-cable-sous-marin-en-guinee-la-guilab-et-ses-partenaires-se-concertent-a-conakry/) | No change |
@@ -44,16 +45,23 @@ Three things did not move. The payments statute and the payments governance body
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National Tier III data centre | Did not exist | [In service, Uptime Tier III certified](https://www.ecofinagency.com/news-digital/0409-48427-guinea-opens-tier-3-national-data-center-to-strengthen-digital-transition) | Advanced |
 | Sovereign management of the .gn ccTLD | Not under national management | [Under national management](https://techafricanews.com/2025/09/05/guinea-launches-national-domain-gn-and-unveils-first-tier-iii-data-center) | Advanced |
 
+### Technical Capacity
+
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+|---|---|---|---|
+| Universite Numerique de Guinee (UNG) | ISFAD (Institut superieur de formation a distance) | [Erected as Universite Numerique de Guinee (UNG), an etablissement public a caractere scientifique with legal personality and an 11-member governing board; mandate covers online higher education, continuing education and digital-pedagogy support](https://www.africaguinee.com/enseignement-superieur-lisfad-devient-officiellement-luniversite-numerique-de-guinee-ung/) | Advanced |
+
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | ANSSI (national cybersecurity agency) | Baseline not held | [Established; no published mandate, budget or reporting on file](https://smartafrica.org/get-to-know-the-republic-of-guinea-home-of-transform-africa-summit-2025/) | ***Baseline not held*** |
+| Cybersecurity statute | Not held | [Statute held (Loi L/2016/037/AN, 2016): reaches cybercrime offences on Guinean territory and offences requiring collection of electronic evidence; provisions known only from ANSSI's own summary, as the 57-page scan carries no machine-readable text layer](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf) | ***Baseline not held*** |
 
 <!-- narrative: infrastructure -->
 International capacity was the clearest movement. At the start of the window Guinea had [one saturated submarine landing after some 13 to 15 years](https://mediaguinee.com/2025/07/atterrissement-dun-second-cable-sous-marin-en-guinee-la-guilab-et-ses-partenaires-se-concertent-a-conakry/); by its end it had contracted a second through the [MEDUSA Africa construction and maintenance agreement in May 2026](https://mediaguinee.com/2026/05/2e-cable-sous-marin-la-guinee-propulse-sa-souverainete-numerique-avec-la-signature-de-laccord-medusa-africa/) and joined a third through a [Via Africa co-investment in June 2026](https://mediaguinee.com/2026/06/saturation-du-cable-sous-marin-ahmed-karifa-diawara-dg-de-la-guilab-devoile-la-riposte-de-la-guinee/). Neither carries a published service date, so the position at the end of the window is contractual rather than operational.
@@ -67,14 +75,14 @@ Two positions regressed. Access to Facebook, YouTube and TikTok was unrestricted
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National interoperability and identity-verification platform (ONECI / NG Tech Innovation) | Did not exist | [MoU signed; no value, duration or scope disclosed and the text is not public](https://horoya.net/2026/07/25/guinee-loneci-et-ng-tech-innovation-sallient-pour-moderniser-lidentification-et-letat-civil/) | Advanced |
 | GovStack interoperability layer (WARDIP) | Baseline not held | [Workshop stage; no interoperability platform in service](https://techreviewafrica.com/news/4820/guinea-launches-govstack-workshop-to-advance-digital-public-services) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Biometric civil registry and national ID (ONECI, MOSIP/TECH5) | No domestic issuance; WURI closed with ~8,000 unique IDs | [Biometric birth certificates and national-ID enrolment running in one commune](https://idtechwire.com/guinea-launches-biometric-birth-certificates-in-sanoyah-in-civil-registry-modernization-push) | Advanced |
 | Free issuance of biometric civil-registration documents | Decreed free (2025-02) | [Decreed free; fees alleged to be taken at enrolment centres, no ministerial response on file](https://www.infosbruts.com/etat-civil-biometrique-en-guinee-mgg-denonce-des-pratiques-de-racket-et-appelle-a-une-reaction-des-autorites/) | Regressed |
@@ -84,11 +92,12 @@ Two positions regressed. Access to Facebook, YouTube and TikTok was unrestricted
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Adults with a financial account | 4% (2011) | [~36% (2024), stated by the governor 2026-07-22](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/) | Advanced |
 | Licensed electronic-money institutions | 6 (2024) | [11 (2025-11)](https://www.ecofinagency.com/news-finances/0711-50255-guinea-plans-mobile-payment-system-to-ease-cash-shortage) | Advanced |
 | NimbaPay national instant payment system | Did not exist | [Live nationwide; banks, electronic-money institutions and microfinance interoperable](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/) | Advanced |
+| Resilient SWIFT infrastructure (BCRG) | Did not exist | [International tender open (BCRG/DGASJ/DSJO/2026), single lot, financed from the BCRG's own resources under its 2026 budget programme; bids due 31 August 2026](https://www.bcrg-guinee.org/wp-content/uploads/2026/07/Avis-Swift.pdf) | Advanced |
 | RTGS migration to ISO 20022 | Launched 2024-06-03, equipment on order, not migrated | [Not migrated; held by unpaid invoices to the supplier CMA and prolonged customs clearance](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/) | Stalled |
 | Tresor Pay public-payments gateway | Did not exist | [In service for payment of state administrative fees by mobile](https://www.wearetech.africa/en/fils-uk/news/finance/guinea-rolls-out-tresor-pay-as-digital-gateway-for-public-payments) | Advanced |
 | ECOWAS EPSS integrated payment project | Withdrawn from the BCRG's strategic priorities | [Withdrawn from the BCRG's strategic priorities; no visibility on next steps](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/) | No change |
@@ -99,7 +108,7 @@ Two positions regressed. Access to Facebook, YouTube and TikTok was unrestricted
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Land cadastre digitalisation | Did not exist | [Announced as a priority; nothing published on scope or funding](https://www.visionguinee.info/le-ministre-de-lurbanisme-annonce-la-digitalisation-integrale-du-cadastre-foncier-pour-garantir-la-transparence-dans-la-gestion-des-titres-fonciers) | Advanced, announcement only |
 | Permanent biometric electoral file | 6.77m electors (September 2025 referendum) | [6.95m electors, 23,681 stations (2026-04)](https://mediaguinee.com/2026/04/fichier-electoral-la-dge-annonce-pres-de-7-millions-delecteurs-pour-les-elections-couplees-du-31-mai/) | Advanced |
@@ -110,13 +119,13 @@ Two positions regressed. Access to Facebook, YouTube and TikTok was unrestricted
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | SNIS health information system interoperability | No interoperability work on record | [Workshop and a 15-centre register pilot](https://guineenews.org/2025/11/27/interoperabilite-tenue-dun-atelier-cle-pour-la-modernisation-du-systeme-dinformation-sanitaire-en-guinee) | Advanced |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | eCNSS online social contributions | Did not exist | [In service, ~60% of receipts](https://mediaguinee.com/2025/07/modernisation-de-la-gestion-des-cotisations-sociales-la-cnss-lance-la-plateforme-ecnss/) | Advanced |
 | Guichet Unique des Services Publics (GUSP) | Did not exist | [Partnership agreed; no launch date published](https://mediaguinee.com/2026/03/modernisation-de-ladministration-vers-le-deploiement-dun-guichet-unique-des-services-publics/) | Advanced |
@@ -129,13 +138,13 @@ Two positions regressed. Access to Facebook, YouTube and TikTok was unrestricted
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Prefectural treasury connection to central systems | No prefectural connection on record | [Yomou, Lola, Beyla, Macenta and N'Zerekore in training](https://mediaguinee.com/2026/07/gestion-des-fonds-publics-avec-transparence-le-tresor-public-accelere-la-digitalisation-a-travers-la-plateforme-oeil-du-tresor/) | Advanced |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | RGPH-4 population census | Baseline not held | [Population 17,521,167](https://mediaguinee.com/2026/04/fichier-electoral-la-dge-annonce-pres-de-7-millions-delecteurs-pour-les-elections-couplees-du-31-mai/) | ***Baseline not held*** |
 
@@ -155,7 +164,7 @@ Government platforms went from few to several — [TELEMO](https://techafricanew
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Digital Analysis and Regulation Platform (PARN) | Did not exist | [Created by decree; not on record as operating](https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services) | Advanced |
 | Digital Compliance Fee (RCN) on foreign digital services | Did not exist | [3% flat rate for twelve months, then 1.5-7% by service category; exemption below 250m GNF of annual taxable revenue](https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services) | Advanced |
@@ -167,7 +176,7 @@ Government platforms went from few to several — [TELEMO](https://techafricanew
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Ministere de la Communication, de l'Economie numerique et de l'Innovation (MCENI) | Ministere des Postes, Telecommunications et de l'Economie numerique (MPTEN) | [MCENI, merged February 2026, minister unchanged through the July 2026 reshuffle](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/) | Advanced |
 | National Data Governance Strategy | Did not exist | [Drafting under way; no text published](https://www.ecofinagency.com/news/2606-56858-guinea-begins-work-on-national-data-governance-strategy) | Advanced |
@@ -175,7 +184,7 @@ Government platforms went from few to several — [TELEMO](https://techafricanew
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Guinea-Sierra Leone free-roaming agreement | Did not exist | [Protocol signed; no implementation date or tariff on file](https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/) | Advanced |
 | Transform Africa Summit 2025 hosting | Did not exist | [Held and closed](https://smartafrica.org/transform-africa-summit-2025-conakry-becomes-the-epicenter-of-digital-cooperation-in-africa) | Closed |
@@ -184,19 +193,20 @@ Government platforms went from few to several — [TELEMO](https://techafricanew
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | GovStack technical standards adoption | Baseline not held | [Workshop stage](https://techreviewafrica.com/news/4820/guinea-launches-govstack-workshop-to-advance-digital-public-services) | ***Baseline not held*** |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Consumer-protection conditions on NimbaPay | Did not exist | [Twelve conditions published; unanswered](https://focusguinee.info/2026/07/26/laguiduten-salue-le-lancement-de-nimbapay-la-plateforme-nationale-de-paiement-instantane/) | Advanced |
+| Data protection law | Not held | [Statute held (Loi L/2016/037/AN, 2016): covers processing of personal data by individuals, firms and public institutions and the related offences; provisions known only from ANSSI's own summary, as the 57-page scan carries no machine-readable text layer](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf) | ***Baseline not held*** |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | European co-financed cable connection (MEDUSA) | Did not exist | [C&MA signed on a Mediterranean-anchored system](https://mediaguinee.com/2026/05/2e-cable-sous-marin-la-guinee-propulse-sa-souverainete-numerique-avec-la-signature-de-laccord-medusa-africa/) | Advanced |
 
@@ -212,7 +222,7 @@ Guinea [hosted Transform Africa Summit 2025 in Conakry in November 2025, 42 stat
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | DouIA programme and Manifesto of Conakry | DouIA1 | [DouIA2 launched; no published workplan or budget](https://techreviewafrica.com/news/4715/guinea-launches-douia2-initiative-to-drive-ai-driven-digital-transformation) | Advanced |
 | Guinea-Rwanda cooperation in AI and e-health | Cooperation limited to public-finance digitisation | [AI, e-health, e-commerce and electronic invoicing identified for exploration](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-et-le-rwanda-explorent-de-nouveaux-projets-dans-l-e-sante-et-l-ia) | Advanced |
@@ -220,13 +230,13 @@ Guinea [hosted Transform Africa Summit 2025 in Conakry in November 2025, 42 stat
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Cauridor cross-border payments infrastructure | Baseline not held | [Guinea-founded, operating in 36 countries (2026-04)](https://techcabal.com/2026/04/14/cauridor-hires-ex-flutterwave-exec/) | ***Baseline not held*** |
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Taxation of United States digital-service providers | Did not exist | [In charge, with a 90-day requirement to appoint a local representative](https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services) | Advanced |
 
@@ -240,19 +250,19 @@ In the sector, [Cauridor](https://techcabal.com/2026/04/14/cauridor-hires-ex-flu
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Mobile internet cost | Baseline not held | [Down 25% over 2025, ministry-reported (2026-01)](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026) | ***Baseline not held*** |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Private electronic-money and wallet market | 6 licensed institutions (2024), no bank-wallet interoperability | [11 licensed institutions and three new services, including wallet-to-bank interoperability](https://techafricanews.com/2026/02/19/guinea-launches-coris-money-to-boost-financial-inclusion-and-digitalization/) | Advanced |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Holberton Guinee software-engineering campus | Did not exist | [Operating](https://mediaguinee.com/2026/07/numerique-et-ia-holberton-guinee-officiellement-lancee-a-conakry/) | Advanced |
 | People trained in digital skills | Baseline not held | [10,000+ trained, ministry-reported (2026-01)](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026) | ***Baseline not held*** |
@@ -267,14 +277,14 @@ Training capacity gained a private campus with [Holberton Guinée in July 2026](
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | WARDIP-Guinea (Digital Transformation for Africa) | Under implementation; payments-law and Conseil National de Paiement workstreams at terms-of-reference stage | [Under implementation; US$60m credit, RETSSM rescue tendered](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf) | Advanced |
 | Tracked non-state digital-transformation finance | Baseline not held | [US$543m across 5 deals, 2023-2025 (as of 2026-08-06)](https://www.miga.org/project/orange-guinea-and-guinea-bissau) | ***Baseline not held*** |
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Visa-Guinea central bank memorandum | Did not exist | [In discussion; nothing signed on record](https://techreviewafrica.com/news/4892/visa-engages-guinea-on-digital-payments-to-accelerate-financial-sector-transformation) | Advanced |
 
@@ -287,10 +297,8 @@ The window's one dated, referenced financing figure is the [US$60m credit behind
 | System or instrument | What would settle it | Last probed |
 |---|---|---|
 | Starlink market authorisation | An ARPT licensing decision, a published authorisation register, or a ministerial statement on Starlink market entry. | 2026-08-09 |
-| Cybersecurity statute | The cybersecurity statute named in open sources, or the ANSSI founding instrument naming its legal base. | 2026-08-09 |
 | Earth-observation or satellite data programme | A national earth-observation or geospatial-data programme document, or an agency mandate covering satellite data. | 2026-08-09 |
 | Rural digital-services programme | A rural connectivity or rural digital-services programme document, or the white-zones plan named in the 2026 targets. | 2026-08-09 |
-| Data protection law | The text of the cybersecurity and personal-data-protection statute named in open sources, and any instrument superseding it. | 2026-08-09 |
 | Official explanation of the social-media restriction | Any published legal basis, ARPT decision or ministerial statement acknowledging the restriction on Facebook, YouTube and TikTok. | 2026-08-09 |
 | Open government data portal | A national open-data portal, an open-data policy, or a public-sector information reuse instrument. | 2026-08-09 |
 | National AI strategy | The national AI roadmap document named in open sources, with its validation date and adopting instrument. | 2026-08-09 |

@@ -1,15 +1,16 @@
 ---
 title: Niger — monthly update, July 2026
-compiled: 2026-08-10
-period: 2026-07-01 to 2026-08-10
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: NER
-ledger_rows: 16
-not_held: 9
+ledger_rows: 24
+not_held: 4
+record: 3e8ea88f7bc0
 ---
 
 # Niger: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-10 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -36,13 +37,11 @@ On 16 July the [president was the first enrollee for the AES biometric passport]
 
 On 27 July an account of the [restructured WURI-Niger project](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) set out the four instruments of April and May 2026 behind it — the civil-status ordonnance and its application décret, and the two décrets creating and chartering ANEI — and the three registers they establish, with population-register enrolment starting in Niamey's five arrondissements.
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 On 29 July the higher education minister said the grants agency reform consists of [acquiring database software and routing scholarship and social-aid payments through the banking system via the Treasury's application](https://anp.ne/niger-plusieurs-reformes-engagees-pour-ameliorer-le-secteur-de-lenseignement-superieur-et-les-performances-de-lanab/); no budget, vendor, timetable or beneficiary count was published.
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
@@ -52,7 +51,6 @@ Also on 29 July, the Diffa regional civil-status directorate reported [173,109 b
 
 On 29 July the foreign minister closed the second diaspora forum by [undertaking to build a bank of priority diaspora projects and a data bank of diaspora experts](https://www.lesahel.org/cloture-de-la-2e-edition-du-forum-de-la-diaspora-a-niamey-des-recommandations-et-des-engagements-formules-pour-le-developpement-economique-et-social-du-pays/); no enabling instrument, custodian, data-protection basis or timetable was named.
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
@@ -60,25 +58,21 @@ On 9 July the health ministry [validated the roadmap of the national e-health ma
 
 On 27 July the public service minister [presented the integrated state human resources and payroll system](https://www.lesahel.org/conseil-consultatif-de-la-refondation-la-ministre-aissatou-abdoulaye-tondi-explique-aux-conseillers-le-sigrhep/) to the consultative council: a scope of about 200,000 public agents and at least 150 payroll managers, a biometric database against double enrolment, career events cascading into pay, and 16,500 agent files digitised and 23,000 updated so far.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 On 15 July the tax directorate [convened a national seminar on digitalising the tax administration](https://www.lesahel.org/digitalisation-de-ladministration-fiscale-nigerienne-la-dgi-reunit-les-acteurs-pour-batir-une-trajectoire-de-modernisation-maitrisee-et-progressive/), its core systems back at full operation after sanctions, with recommendations sought toward a round-the-clock digital tax service.
 <!-- /narrative -->
-
 ### Rural digital data capture
 
 <!-- narrative: dpi--digital-rural -->
 On 10 July the digital agency's [Villages Intelligents programme opened a digital centre at Tabelot in Agadez](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/), with training for women and girls.
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
 Traditional chiefs at Diffa were [trained as mobilisers for the fifth population and housing census](https://www.lesahel.org/diffa-les-chefs-traditionnels-en-formation-pour-une-sensibilisation-sur-le-5e-rgph/).
 <!-- /narrative -->
-
 ### Use of satellite data
 
 <!-- narrative: dpi--data-satellite -->
@@ -87,12 +81,16 @@ _(narrative not yet written)_
 
 ## Governance and regulation
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 On 30 July a Nigerien technical mission led by the interior ministry's secretary-general was [received in Ouagadougou to study Burkina Faso's identification machinery](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) — the civil-status modernisation directorate, the national identification office, the ICT agency and the WURI project. The delegation covered civil registration, migration, the digital agency, territorial surveillance, biometric-card production, the interior ministry's legal service and the ICT and finance ministries, and reported recommendations on issuing authentic documents and limiting document fraud.
 <!-- /narrative -->
-
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
@@ -101,8 +99,10 @@ On 27 July the regulator's verification campaign opened against the [mises en de
 
 ## Artificial intelligence and the technology sector
 
-<!-- narrative: ai-tech -->
-No artificial-intelligence or technology-sector row moved in this window. The most recent position on the ledger is the training of 140 cadres in AI applied to human security in June 2026.
+### China activities
+
+<!-- narrative: ai-tech--geopol-china -->
+
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -111,10 +111,4 @@ No artificial-intelligence or technology-sector row moved in this window. The mo
 
 <!-- narrative: inclusion--include-access -->
 On 15 July the World Food Programme [inaugurated the Guidan Fasaha community digital centre at Tahoua](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), the second such centre after Diffa, with 100 computers and 50 kW of solar power, funded by Luxembourg and aimed at young people, women and displaced people.
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

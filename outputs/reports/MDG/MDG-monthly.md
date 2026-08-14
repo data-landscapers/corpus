@@ -1,15 +1,16 @@
 ---
 title: Madagascar — monthly update, July 2026
-compiled: 2026-08-09
-period: 2026-07-01 to 2026-08-09
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: MDG
-ledger_rows: 15
+ledger_rows: 21
 not_held: 8
+record: 48bec966406c
 ---
 
 # Madagascar: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-09 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -38,19 +39,16 @@ On 23 July Yas Madagascar [ran a 5G-Advanced trial with Huawei at its Andraharo 
 <!-- narrative: dpi--dpi-id -->
 On 27 July the interior ministry reviewed the first phase of adult biometric registration, reporting [more than six million people enrolled against a two-million target across April to June 2026](https://www.lexpress.mg/2026/07/recensement-lidentite-biometrique.html). A second phase is in preparation, supported by the World Bank-financed DECIM project. No cost figure for either phase is reported.
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 On 3 August MVola's new director general [gave the first account of the platform migration behind the outages of May and June](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html). The core platform was replaced in May 2026; he states that money does not vanish from accounts, that reported cases have been regularised, and that the platform is stabilised with further work outstanding. No regulator is named, no incident report is published and no compensation is mentioned. Separately, [Airtel Money integrated Baobab Bank into its mobile banking service on 17 July](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/).
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 The day after the biometric-registration review, the electoral commission [opened a full reconstitution of the electoral roll at Talata Volonondry](https://2424.mg/election-la-ceni-lance-les-operations-de-recensement-pour-la-refonte-de-la-liste-electorale-avant-les-scrutins-de-2027/) — a rebuild rather than the routine revision — running four months to 24 November 2026, to produce the single roll for all elections and referendums scheduled in 2027. The trigger is stated: the previous roll drew sustained contestation and is named as a source of tension at earlier polls. Registration runs through five channels, at fokontany level on presentation of a national identity card. The commission states that an unregistered citizen may not observe polling in their own place of residence and may not lodge a complaint or contest results.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -58,7 +56,6 @@ On 28 July the national police [presented a free public reporting platform at An
 
 On 3 August the higher-education ministry [presented an accreditation platform](https://2424.mg/enseignement-superieur-la-plateforme-habilitation-accreditation-et-equivalence-mise-sur-la-transparence-et-la-digitalisation-des-procedures/) centralising applications for authorisation, accreditation and equivalence and letting an institution track its file. It published its queue with it: 546 applications as at 10 July 2026, of which about 250 are expected at the commission session opening on 21 September 2026.
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -74,13 +71,11 @@ The Council of Ministers of 8 July 2026 [adopted a bill overhauling the 2014 cyb
 
 The same Council [ordered internet service providers to block pornographic sites](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes) on public-order grounds, the executive holding that such content favours the resurgence of delinquency and degrades the security climate. Ministries and public bodies are told to implement it. It is a cabinet decision, not a law, and no timetable, technical mechanism, named regulator or appeal route is specified. It follows a May 2026 ministerial warning and a 15 June announcement of a dedicated social-media law covering harassment, defamation and disinformation.
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 On 20 July the [Technical Assistance Facility for the Refondation was launched at the Palais d'État d'Iavoloha](https://www.journalmadagascar.com/reforme-administrative-une-nouvelle-facilite-dassistance-technique-pour-la-refondation-lancee-a-madagascar/), requested by the presidency and supported by UNDP, running 2026 to 2030, explicitly including the use of digital tools. Administrations had until end-July to submit proposals [through a dedicated digital platform](https://www.lexpress.mg/2026/07/administration-le-numerique-redynamise.html); a steering committee screens them and selected interventions run three to nine months. 170 focal points were certified in advance.
 <!-- /narrative -->
-
 ### Open data
 
 <!-- narrative: governance--data-open -->
@@ -104,15 +99,8 @@ A [Madagascar-Egypt government partnership on the use of artificial intelligence
 <!-- narrative: inclusion--include-access -->
 The month's only market measurement came from an operator: MVola's director general put the whole Malagasy mobile-money market at [six to seven million active users against a population of about thirty million, with rural areas under-served](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html), and set doubling or tripling that as the five-to-ten-year test.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
 The digital ministry [received 259 applications by 1 August 2026 for ten established civil-service posts](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/), split between the capital and the regional directorates. The fields are artificial intelligence, data management, digital innovation, cybersecurity, telecommunications and digital law, the last covering personal data protection and electronic commerce. Applicants have publicly asked for integrity guarantees on the selection, and no appointment has been announced.
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

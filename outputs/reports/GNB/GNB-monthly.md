@@ -1,26 +1,21 @@
 ---
 title: Guinea-Bissau — monthly update, July 2026
-compiled: 2026-08-11
-period: 2026-07-01 to 2026-08-11
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: GNB
-ledger_rows: 2
+ledger_rows: 3
 not_held: 1
+record: 08a3157bbb1e
 ---
 
 # Guinea-Bissau: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-11 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
 Two developments were recorded between 1 July and 11 August 2026. [The Instituto Nacional de Estatistica released preliminary RGPH4 census results](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/) on 23 July, putting the resident population at 2,191,202 — the country's first new population baseline since 2009 and its first fully digital census. The next day, [AUDA-NEPAD launched its Programme for African Developing Island Economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) at a ministerial segment in Abidjan, naming Guinea-Bissau among seven island states under a 2026–2031 roadmap that includes digital transformation as one of six pillars.
-<!-- /narrative -->
-
-## Infrastructure
-
-<!-- narrative: infrastructure -->
-No infrastructure row moved in this window.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -33,26 +28,13 @@ No infrastructure row moved in this window.
 
 ## Governance and regulation
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 [AUDA-NEPAD launched the Programme for African Developing Island Economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) at the Ministerial Segment of the Specialized Technical Committee on Trade, Industry and Minerals in Abidjan on 24 July 2026, covering Guinea-Bissau alongside Cabo Verde, the Comoros, Madagascar, Mauritius, Sao Tome and Principe and Seychelles. A 2026–2031 roadmap groups the seven states under six pillars, including connectivity and AfCFTA integration and digital transformation — with digital public infrastructure, artificial intelligence and automation named as accelerators. Ministers adopted a communique committing to the programme; no Guinea-Bissau-specific national action under it has yet been reported.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
-
-<!-- narrative: ai-tech -->
-No artificial-intelligence or technology-sector row moved in this window.
-<!-- /narrative -->
-
-## Inclusion and capacity
-
-<!-- narrative: inclusion -->
-No inclusion or capacity row moved in this window.
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

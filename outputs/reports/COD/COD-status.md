@@ -1,14 +1,15 @@
 ---
 title: DR Congo — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: COD
 ledger_rows: 82
 not_held: 9
+record: 9ca07cb04769
 ---
 
 # DR Congo: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/COD/ledger.csv` (82 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/COD/ledger.csv` (82 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Physical build is measurable and behind. [7,000 km of the transformation project
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G public consultation | [In development](https://actualite.cd/2025/03/18/larptc-lance-une-consultation-publique-sur-lintroduction-de-la-5g-en-rdc-communique) | The regulator opened a public consultation on introducing 5G |
 | Africa Congo Internet Exchange | [Implemented](https://itweb.africa/article/distributed-exchange-boosts-drc-connectivity/4r1ly7R9GkLvpmda) | A second presence added at a Kinshasa carrier-neutral facility, making it the country's first distributed exchange |
@@ -38,7 +39,7 @@ Physical build is measurable and behind. [7,000 km of the transformation project
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kinshasa carrier-neutral data centre | [Implemented](https://techafricanews.com/2025/02/03/oadc-texaf-kinshasa-achieves-iso-and-pci-dss-certifications-strengthening-drcs-digital-future/) | Certified to information-security, continuity and payment-card standards |
 | National data centre appropriation | [Planned](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | The enacted 2026 finance law carries FC 26,756,546,346 for national data-centre acquisition |
@@ -47,19 +48,19 @@ Physical build is measurable and behind. [7,000 km of the transformation project
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Energy provision for digital infrastructure | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National technical-capacity base | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Child online-safety service | [Implemented](https://actualite.cd/2026/07/17/rdc-africell-lance-kidzonet-pour-renforcer-la-protection-des-enfants-sur-internet) | An operator launched the service at a Kinshasa press conference |
 | National cybersecurity agency | [Planned](https://acp.cd/economie/numerique-le-gouvernement-veut-une-chaine-de-responsabilite-visible-en-cybersecurite/) | Named as one of five bodies whose roles in the incident-notification chain must be clarified, explicitly without creating new institutions |
@@ -79,14 +80,14 @@ The state operator's position is financial: on current finances it [could theore
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-sharing platform and government payment gateway | [Planned](https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project) | Named as deliverables of the digital transformation project in the consultant tender |
 | National electronic certification authority | [Planned](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/) | Named by the minister among the instruments to be articulated into the governance framework |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric passport | [Implemented](https://www.biometricupdate.com/202506/drc-cuts-biometric-passport-price-adds-online-enrollment-with-new-supplier-dermalog) | The price cut to US$75 with a new supplier and online enrolment |
 | RDC-PASS national digital identity platform | [Piloting](https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident) | A state launch ceremony in Kinshasa, with rollout to begin with technical audits and pilot testing |
@@ -94,7 +95,7 @@ The state operator's position is financial: on current finances it [could theore
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Card-and-wallet interoperability service | [Implemented](https://visa-inc.africa-newsroom.com/press/visa-pay-launches-to-expand-access-to-digital-payments-across-the-democratic-republic-of-the-congo-drc) | A card-network interoperability service launched for the country through a payments aggregator |
 | Central bank de-dollarisation deadline | [Planned](https://actualite.cd/2026/05/04/inclusion-financiere-en-rdc-58-dacces-contre-25-30-de-bancarisation-la-bcc-parie-sur-la) | The central bank set 9 April 2027 as the date from which no foreign-cash transaction of any amount is permitted |
@@ -105,14 +106,14 @@ The state operator's position is financial: on current finances it [could theore
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Business-creation single window | [Implemented, one segment only](https://actualite.cd/2026/07/28/formalisation-des-entreprises-en-rdc-daniel-mukoko-samba-mise-sur-le-numerique-pour) | A ministerial inspection at which the new portal and mobile application were presented |
 | Single social register | [Planned](https://actualite.cd/2025/07/27/rdc-adoption-du-projet-de-decret-portant-creation-organisation-et-fonctionnement-du) | A draft decree creating and organising the register adopted at the 53rd Council of Ministers |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Economic-inspection document authentication platform | [Piloting](https://actualite.cd/2026/06/26/rdc-le-ministere-de-leconomie-nationale-mise-sur-le-numerique-pour-renforcer-la) | Technical training of ministry staff closed after a session running 9 to 24 June 2026 |
 | Facture normalisée (standardised VAT e-invoicing system) | [Implemented](https://actualite.cd/2026/08/06/facture-normalisee-doudou-fwamba-clot-les-cliniques-fiscales-et-annonce-des-sanctions) | Fiscal clinics closed and immediate targeted sanctions ordered against non-compliant taxpayers and DGI staff, 2026-08-06 |
@@ -121,28 +122,28 @@ The state operator's position is financial: on current finances it [could theore
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital government platform | [Planned, target missed](https://www.biometricupdate.com/202601/drc-envisages-a-functional-digital-government-platform-by-march) | A March 2026 target passed with neither launch nor delay announced |
 | National e-government strategy 2025-2030 | [In development](https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project) | Named in the digital-infrastructure tender, with its master plan and governance framework as the consultant's deliverables |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airport levy electronic payment, Kinshasa province | [Planned](https://rdc-monde.com/aeroport-de-ndjili-le-paiement-electronique-du-go-pass-annonce-des-juillet/) | The provincial finance minister made electronic payment of the levy official from July |
 | Kinshasa drone surveillance and citizen-reporting application | [Implemented](https://rdc-monde.com/kinshasa-investit-dans-les-drones-entre-lespoir-et-le-doute/) | A drone and citizen-reporting deployment reported, operated through a private company |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital sector strategic barometer | [Planned](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/) | Creation announced after the working session of 2026-08-06 |
 | Second general population and housing census | [In development](https://actualite.cd/2026/07/11/journee-mondiale-de-la-population-le-rgph-2-au-coeur-de-la-strategie-du-gouvernement) | The planning minister announced recruitment of mapping agents and fixed general enumeration for July 2027 |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Use of satellite or earth-observation data in public administration | ***Not held*** | — |
 
@@ -160,7 +161,7 @@ Tax administration is the sector's most enforced digitisation. The [standardised
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bill on the identification of natural persons | [In development](https://actualite.cd/2026/06/12/assemblee-nationale-venance-eyanga-et-patrick-namazihana-deposent-une-proposition-de-loi) | Tabled at the National Assembly bureau 2026-06-12 |
 | Code du numérique | [Implemented](https://actualite.cd/2026/04/21/rdc-un-nouvel-ouvrage-sur-la-protection-des-donnees-personnelles-porte-sur-les-fonts) | Promulgated 2023-03-13 |
@@ -170,7 +171,7 @@ Tax administration is the sector's most enforced digitisation. The [standardised
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital plan 2026-2030 | [In development](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/numerique-la-rdc-annonce-l-operationnalisation-d-un-financement-de-500-millions) | The government announced operationalisation of a US$500m partner tranche after talks with two development financiers |
 | Reorganisation of the digital mandate in the 2026 finance law | [Implemented](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | Enacted 2025-12-29 |
@@ -179,37 +180,37 @@ Tax administration is the sector's most enforced digitisation. The [standardised
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regional free-roaming resolution | [Planned](https://techreviewafrica.com/news/4133) | A resolution adopted mandating effective implementation across Central Africa by 2026-06-30 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National classification regime for official documents | [Planned](https://actualite.cd/2026/03/20/rdc-vers-linstitutionnalisation-dun-regime-de-classification-et-de-protection-des) | An information note presented to the 82nd Council of Ministers 2026-03-13 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data protection authority | [Planned](https://www.wearetech.africa/fr/fils/actualites/tech/numerique-la-rdc-met-en-place-un-reseau-de-responsables-de-la-protection-des-donnees) | No decree defining its organisation and functioning found |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Permanent state-industry consultation framework for the digital sector | [Planned](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/) | Agreed at a working session between the digital economy minister and the sector network 2026-08-06 |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU digital governance or regulatory cooperation | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bill on access to information and transparency in public life | [In development](https://actualite.cd/2026/03/28/assemblee-nationale-la-proposition-de-loi-sur-lacces-linformation-et-la-transparence-de) | Declared admissible by the National Assembly 2026-03-27 and referred to a joint commission with ten days to report |
 | National open-data policy or portal | ***Not held*** | — |
@@ -230,7 +231,7 @@ Network loss in conflict-held eastern territories is recorded as [war damage and
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI-assisted business-plan platform | [Implemented](https://actualite.cd/2026/02/04/entrepreneuriat-en-rdc-bokeli-la-plateforme-digitale-intelligente-du-fogec-pour-la) | Launched in Kinshasa by a state guarantee fund, built by a domestic firm |
 | Congolese academy of artificial intelligence | [Planned](https://www.agenceecofin.com/actualites-numerique/1110-132270-la-rdc-prevoit-1-5-milliard-de-budget-pour-son-plan-national-du-numerique-et-de-l-ia-2026-2030) | Named as a provision of the AI strategy at the national digital plan's drafting launch |
@@ -240,33 +241,33 @@ Network loss in conflict-held eastern territories is recorded as [war damage and
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Local-content subcontracting enforcement in telecoms | [In development](https://actualite.cd/2026/07/23/rdc-larsp-et-larptc-renforcent-leur-cooperation-pour-promouvoir-la-sous-traitance-dans) | A first working session agreeing a harmonised reading of the texts and joint inspection teams |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Startup Act implementing decrees | [In development](https://acp.cd/business/rdc-le-secteur-du-numerique-encore-confronte-a-des-nombreuses-contraintes-un-specialiste/) | A government communiqué of 2026-08-03 confirms the implementing texts remain in preparation |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital infrastructure and cybersecurity partnership | [Planned](https://techafricanews.com/2026/04/17/cybastion-partners-with-drc-to-expand-digital-infrastructure-and-cybersecurity/) | A strategic partnership signed on the margins of the spring meetings in Washington |
 | Payments-modernisation claim in a United States federal court | [In development](https://itweb.africa/article/us-fintech-sues-dr-congo-for-400m-over-failed-banking-deal/) | A fintech filed against the state and senior officials over the collapsed banking and payments modernisation project |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Congo River fibre-optic memorandum | [Planned](https://www.connectingafrica.com/fiber-networking/drc-plans-1-5b-fiber-optic-project-along-congo-river) | A memorandum signed with a Chinese supplier for a 2,100 km route |
 | Police cooperation accord | [Implemented](https://actualite.cd/2026/05/27/la-rdc-signe-un-accord-de-cooperation-policiere-avec-la-chine-pour-renforcer-les) | Signed in Beijing by the interior vice-premier and China's public-security minister |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-DR Congo digital or technology engagement | ***Not held*** | — |
 
@@ -284,33 +285,33 @@ A Chinese supplier memorandum covers [about 2,100 km along the Congo River at a 
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Universal service fund pilot sites | [Piloting](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) | Subsidy conventions signed with Airtel, Orange, Vodacom and Africell for a first tranche of 40 localities, targeting about 258,000 people, 8 August 2026 |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural civil-servant payroll | [In development](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu) | A state bank and the payroll monitoring committee settled technical and organisational terms at a Kinshasa working session |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital code awareness campaign | [Implemented](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/) | Launched in Kinshasa 2026-08-06 |
 | National policy on information technology in education and training | [Implemented](https://actualite.cd/2026/06/15/rdc-le-gouvernement-se-dote-dune-politique-nationale-des-technologies-de-linformation-et) | Adopted by the 92nd Council of Ministers on the education minister's presentation |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Employment and skills platform | [Implemented](https://rdc-monde.com/onem-lancement-dune-application-numerique-mikuba-pour-mieux-cartographier-les-competences-et-les-besoins-des-entreprises/) | The employment office launched a portal and mobile application built with external technical and financial support |
 | National digital plan human-capital targets | [Planned](https://www.biometricupdate.com/202601/drc-envisages-a-functional-digital-government-platform-by-march) | Plan details published setting numeric training targets under the human-capital pillar |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic public funding for digital and AI research | ***Not held*** | — |
 
@@ -326,7 +327,7 @@ Training targets exist without enrolments. The national digital plan sets [250,0
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Eastcastle Debt II (IFC debt facility) | [Planned](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-903-SII-52276%22) | Reported at pipeline/identification stage 2026-07-16 |
 | Tower operator investment convention | [Implemented](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios) | An investment convention of more than US$100m signed with the investment-promotion agency |
@@ -334,13 +335,13 @@ Training targets exist without enrolments. The national digital plan sets [250,0
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central bank card-network memorandum | [Implemented](https://techafricanews.com/2026/04/16/new-visa-and-bcc-agreement-targets-financial-inclusion-and-payment-modernization-in-congo/) | A memorandum signed in Kinshasa by the central bank governor and a card-network executive |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital economy section appropriation | [Implemented](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | The 2026 finance law enacted, renaming the section and fixing its domestic credits |
 | National identification system appropriation | [Implemented](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | Appropriated inside the digital section's domestic investment group |

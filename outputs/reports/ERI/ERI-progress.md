@@ -1,17 +1,18 @@
 ---
-title: Eritrea — progress report, 2025-08-01 to 2026-08-11
-compiled: 2026-08-11
-period: 2025-08-01 to 2026-08-11
+title: Eritrea — progress report, 2025-08-01 to 2026-08-14
+compiled: 2026-08-14
+period: 2025-08-01 to 2026-08-14
 place: ERI
 ledger_rows: 12
 not_held: 5
+record: cb524aad8dfa
 ---
 
-# Eritrea: progress report, 2025-08-01 to 2026-08-11
+# Eritrea: progress report, 2025-08-01 to 2026-08-14
 
-*Compiled 2026-08-11 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 12 systems and instruments on this place's ledger, 2 changed position between 2025-08-01 and 2026-08-11, 2 did not, 3 carry no stated baseline, and 5 are ***Not held*** at both ends.*
+*Of 12 systems and instruments on this place's ledger, 2 changed position between 2025-08-01 and 2026-08-14, 2 did not, 3 carry no stated baseline, and 5 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 10 sources for this place in the window — 4 in the earlier half (2025-11 to 2026-04), 6 in the later (2026-05 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -27,7 +28,7 @@ Two systems entered the record for the first time in this period, with no prior 
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-11 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | EriTel national network expansion programme | ***Baseline not held*** | [184 towers and accessories installed; landline renovation in six named towns plus the Naval Force Base; ~73km new cable laid; internet bandwidth risen to ~1,536 Mbps over the past decade; 35bn+ Nakfa cumulative investment claimed](https://shabait.com/2026/05/19/substantial-investment-in-expansion-of-communication-service/) | ***Baseline not held*** |
 
@@ -39,13 +40,13 @@ The base holds a single dated snapshot of EriTel's own reported network-expansio
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-11 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | ASYCUDA World customs platform | 2007-era paper-based customs software (no ASYCUDA) | [ASYCUDA World implemented with UNDP support, full source-code transfer to the Eritrean government for national ownership](https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system) | Advanced |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-11 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Fourth Round Eritrea Population and Health Survey (EPHS 2025) | ***Baseline not held*** | [Completed across all six regions using Computer-Assisted Personal Interviewing; ~400 tables across 20 chapters drafted; report writing, printing and dissemination scheduled for 2026; NSO also compiled 2023 national accounts and began 2024 national-accounts data collection](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey) | ***Baseline not held*** |
 
@@ -57,7 +58,7 @@ ASYCUDA World advanced from a 2007-era paper-based customs system to a fully dep
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-11 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Bank of Eritrea cash-deposit legal notice | ***Baseline not held*** | [In force; no definition given of an 'excessive amount' held outside banks, and no enforcement mechanism specified; deposit deadline 31 Jul 2026](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/) | ***Baseline not held*** |
 
@@ -69,7 +70,7 @@ The Bank of Eritrea's cash-deposit legal notice entered the record in this windo
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-11 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Eri-Chat offline AI app | Live since April 2025 (pre-window launch), offline open-source-AI app storing conversation data locally on-device | [Live; showcased at Asmara UN Day event (24 Oct 2025) to ambassadors, UN officials and diplomats; English-only, local-language support pending (insufficient training data)](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/) | No change |
 
@@ -81,7 +82,7 @@ Eri-Chat, the offline AI app built by a Ministry of Information developer, was a
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-11 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Active mobile connections (DataReportal) | 793,000 connections, 22.2% of population, 48.0% broadband (early 2025) | [859,000 connections, 23.7% of population, 49.3% broadband (late 2025), +8.2% year on year](https://datareportal.com/reports/digital-2025-eritrea) | Advanced, marginal |
 
@@ -93,7 +94,7 @@ Active mobile connections advanced only marginally across the window, from 793,0
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-11 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | UNDP 'Economic & Social Data Development Eritrea' grant (IATI 00099544) | ***Baseline not held*** | [Committed 2019, end year 2026 per IATI record; funds NSO statistical-capacity building, including the EPHS 2025 survey under the same D4D programme (see data.statistics)](https://open.undp.org/projects/00099544) | No change |
 

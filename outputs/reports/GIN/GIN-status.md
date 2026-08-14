@@ -1,14 +1,15 @@
 ---
 title: Guinea — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: GIN
 ledger_rows: 86
 not_held: 13
+record: d4ed70bbf1b4
 ---
 
 # Guinea: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/GIN/ledger.csv` (86 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/GIN/ledger.csv` (86 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Two things ran the other way. [Facebook, YouTube and TikTok have been blocked si
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ACE submarine cable (sole international link) | [Implemented](https://mediaguinee.com/2025/07/atterrissement-dun-second-cable-sous-marin-en-guinee-la-guilab-et-ses-partenaires-se-concertent-a-conakry/) | Named saturated after ~13-15 years as the country's only landing |
 | FTTH and Wifi-Zone licensing regime | [Under review](https://mediaguinee.com/2026/05/interdiction-des-activites-des-wifi-zones-et-restriction-du-ftth-la-fesatel-hausse-le-ton-et-menace-dune-greve-ni-les-appels-ne-marchent-ni-la-connexion-internet-ne-marche/) | FESATEL strike threat over FTTH restriction and the Wifi-Zone regime, 21 May 2026 |
@@ -42,20 +43,20 @@ Two things ran the other way. [Facebook, YouTube and TikTok have been blocked si
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Tier III data centre | [Implemented](https://www.ecofinagency.com/news-digital/0409-48427-guinea-opens-tier-3-national-data-center-to-strengthen-digital-transition) | Inaugurated in Conakry, Uptime-certified |
 | Sovereign management of the .gn ccTLD | [Implemented](https://techafricanews.com/2025/09/05/guinea-launches-national-domain-gn-and-unveils-first-tier-iii-data-center) | Sovereign management reinstated, September 2025 |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Universite Numerique de Guinee (UNG) | [Implemented](https://www.africaguinee.com/enseignement-superieur-lisfad-devient-officiellement-luniversite-numerique-de-guinee-ung/) | ISFAD converted into UNG by presidential decree, published the evening of 30 July 2026, under Loi L/2023/0016/CNT |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ANSSI (national cybersecurity agency) | [Implemented](https://smartafrica.org/get-to-know-the-republic-of-guinea-home-of-transform-africa-summit-2025/) | Named as an established agency in the Smart Africa host profile |
 | Cybersecurity statute | [Implemented](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf) | Loi L/2016/037/AN on cybersecurity and personal-data protection adopted by the National Assembly and promulgated by President Alpha Conde; date precision year only, no promulgation date published |
@@ -76,14 +77,14 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | GovStack interoperability layer (WARDIP) | [In development](https://techreviewafrica.com/news/4820/guinea-launches-govstack-workshop-to-advance-digital-public-services) | GovStack workshop held under the World Bank WARDIP project |
 | National interoperability and identity-verification platform (ONECI / NG Tech Innovation) | [Planned](https://horoya.net/2026/07/25/guinee-loneci-et-ng-tech-innovation-sallient-pour-moderniser-lidentification-et-letat-civil/) | Memorandum of understanding signed in Conakry, 24 July 2026 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric civil registry and national ID (ONECI, MOSIP/TECH5) | [Piloting](https://idtechwire.com/guinea-launches-biometric-birth-certificates-in-sanoyah-in-civil-registry-modernization-push) | Enrolment opened in Sanoyah commune, phase 1 of 2,000 certificates |
 | Free issuance of biometric civil-registration documents | [Implemented, contested at the counter](https://www.infosbruts.com/etat-civil-biometrique-en-guinee-mgg-denonce-des-pratiques-de-racket-et-appelle-a-une-reaction-des-autorites/) | State contractor MGG alleged unprovided-for fees and pay-for-priority at enrolment centres |
@@ -93,7 +94,7 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ECOWAS EPSS integrated payment project | [Discontinued](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/) | Withdrawn from the BCRG's 2025 strategic priorities after a single evaluation meeting on 10 July 2024 |
 | National payment switch | [In development](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/) | BCRG-AfricaNenda memorandum signed 5 December 2024 with Guineenne de Monetique |
@@ -106,7 +107,7 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Land cadastre digitalisation | [Planned](https://www.visionguinee.info/le-ministre-de-lurbanisme-annonce-la-digitalisation-integrale-du-cadastre-foncier-pour-garantir-la-transparence-dans-la-gestion-des-titres-fonciers) | Named a ministerial priority; no instrument, budget or timetable published |
 | PN-RAVEC administrative census | [Implemented](https://mediaguinee.com/2026/03/conakry-le-pn-ravec-dote-les-13-communes-dun-important-lot-dintrants-detat-civil-dont-les-certificats-de-non-remariage/) | Secured civil-registry inputs delivered to RGPH-4 and the RNPP |
@@ -116,13 +117,13 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | SNIS health information system interoperability | [In development](https://guineenews.org/2025/11/27/interoperabilite-tenue-dun-atelier-cle-pour-la-modernisation-du-systeme-dinformation-sanitaire-en-guinee) | Conakry workshop with the Health Ministry; REC maternite register piloted in 15 centres |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | eCNSS online social contributions | [Implemented](https://mediaguinee.com/2025/07/modernisation-de-la-gestion-des-cotisations-sociales-la-cnss-lance-la-plateforme-ecnss/) | Launched, carrying ~60% of contribution receipts |
 | Guichet Unique des Services Publics (GUSP) | [In development](https://mediaguinee.com/2026/03/modernisation-de-ladministration-vers-le-deploiement-dun-guichet-unique-des-services-publics/) | Guinea-Azerbaijan partnership agreed to build it on the ASAN model |
@@ -135,25 +136,25 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural digital-services programme | ***Not held*** | No dedicated source on file |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Prefectural treasury connection to central systems | [Piloting](https://mediaguinee.com/2026/07/gestion-des-fonds-publics-avec-transparence-le-tresor-public-accelere-la-digitalisation-a-travers-la-plateforme-oeil-du-tresor/) | Training under Oeil du Tresor begun in five prefectures of Guinee forestiere |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | RGPH-4 population census | [Implemented](https://mediaguinee.com/2026/04/fichier-electoral-la-dge-annonce-pres-de-7-millions-delecteurs-pour-les-elections-couplees-du-31-mai/) | Population of 17,521,167 carried into the electoral file |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Earth-observation or satellite data programme | ***Not held*** | No source on file |
 
@@ -169,7 +170,7 @@ The platform layer is populated, from [TELEMO for procurement](https://techafric
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ARPT supervision of electronic transactions and mobile money | [Implemented](https://anssi.gov.gn/wp-content/uploads/2025/03/DECRET-D-2021-092-PRG-SGG-Copie-2.pdf) | Décret D/2021/092/PRG/SGG signed 25 March 2021 as the implementing instrument for Loi L/2016/035/AN |
 | Conseil National de Paiement | [Planned](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/) | To be created under WARDIP; at terms-of-reference stage |
@@ -181,7 +182,7 @@ The platform layer is populated, from [TELEMO for procurement](https://techafric
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ministere de la Communication, de l'Economie numerique et de l'Innovation (MCENI) | [Implemented](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/) | Portfolio held unchanged through the reshuffle of 27 July 2026 |
 | National Data Governance Strategy | [In development](https://www.ecofinagency.com/news/2606-56858-guinea-begins-work-on-national-data-governance-strategy) | Drafting launched 19 June 2026 under DNTIEN |
@@ -189,7 +190,7 @@ The platform layer is populated, from [TELEMO for procurement](https://techafric
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chairmanship of the African Council of Regulators (ARPT) | [Implemented](https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/) | ARPT director-general presided at CAR-15 alongside Transform Africa 2025 |
 | Guinea-Sierra Leone free-roaming agreement | [Enacted](https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/) | Protocol signed at CAR-15, 17 November 2025 |
@@ -198,32 +199,32 @@ The platform layer is populated, from [TELEMO for procurement](https://techafric
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | GovStack technical standards adoption | [In development](https://techreviewafrica.com/news/4820/guinea-launches-govstack-workshop-to-advance-digital-public-services) | Workshop held under WARDIP; no standard adopted on record |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Consumer-protection conditions on NimbaPay | [Planned](https://focusguinee.info/2026/07/26/laguiduten-salue-le-lancement-de-nimbapay-la-plateforme-nationale-de-paiement-instantane/) | AGUIDUTEN published twelve conditions on the day after launch; no regulator or operator response on file |
 | Data protection law | [Implemented](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf) | Loi L/2016/037/AN on cybersecurity and personal-data protection adopted by the National Assembly and promulgated by President Alpha Conde; date precision year only, no promulgation date published |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Official explanation of the social-media restriction | ***Not held*** | Operators and ISPs told a consumer-protection union they were compelled to comply but did not name the authority; no government, regulator or legal basis has been published (2026-08-04) |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European co-financed cable connection (MEDUSA) | [In development](https://mediaguinee.com/2026/05/2e-cable-sous-marin-la-guinee-propulse-sa-souverainete-numerique-avec-la-signature-de-laccord-medusa-africa/) | Construction and maintenance agreement signed, May 2026 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data portal | ***Not held*** | No portal or open-data policy on file |
 
@@ -243,7 +244,7 @@ No official explanation for the block is on record; a consumer-protection union 
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | DouIA programme and Manifesto of Conakry | [In development](https://techreviewafrica.com/news/4715/guinea-launches-douia2-initiative-to-drive-ai-driven-digital-transformation) | DouIA1 closed and DouIA2 launched with the signing of the Manifesto of Conakry |
 | Guinea-Rwanda cooperation in AI and e-health | [Planned](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-et-le-rwanda-explorent-de-nouveaux-projets-dans-l-e-sante-et-l-ia) | Areas identified at a Conakry meeting on 20 July 2026; nothing signed |
@@ -252,37 +253,37 @@ No official explanation for the block is on record; a consumer-protection union 
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cauridor cross-border payments infrastructure | [Implemented](https://techcabal.com/2026/04/14/cauridor-hires-ex-flutterwave-exec/) | Appointed a chief operating officer; operating in 36 countries |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Startup act or innovation-financing instrument | ***Not held*** | No instrument on file |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Taxation of United States digital-service providers | [Enacted, six-month transition before enforcement](https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services) | Decree of 21 May 2026 brings streaming, cloud, SaaS, advertising and e-commerce into charge |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese digital investment in Guinea | ***Not held*** | No Guinea-specific source on file; the base holds one continental study only |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital cooperation with Guinea | ***Not held*** | No source on file |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital investment in Guinea | ***Not held*** | No source on file |
 
@@ -298,25 +299,25 @@ In the sector itself the largest named object is [Cauridor, a Guinea-founded cro
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Private electronic-money and wallet market | [Implemented](https://techafricanews.com/2026/02/19/guinea-launches-coris-money-to-boost-financial-inclusion-and-digitalization/) | CORIS Money (February 2026), Orange Money-BNG interoperability (March 2026) and KS-Wallet (April 2026) entered service |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital literacy programme or measurement | ***Not held*** | No source on file |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Holberton Guinee software-engineering campus | [Implemented](https://mediaguinee.com/2026/07/numerique-et-ia-holberton-guinee-officiellement-lancee-a-conakry/) | Conakry campus launched 16 July 2026 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public research programme in digital or data science | ***Not held*** | No source on file |
 
@@ -330,19 +331,19 @@ The [ministry's review of 2025 reported more than 10,000 people trained in digit
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | WARDIP-Guinea (Digital Transformation for Africa) | [Implemented](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf) | IDA Credit No. 74440GN; RETSSM rescue consultancy tendered 27 July 2026 |
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Visa-Guinea central bank memorandum | [Planned](https://techreviewafrica.com/news/4892/visa-engages-guinea-on-digital-payments-to-accelerate-financial-sector-transformation) | Talks opened with the Finance Ministry toward a central-bank memorandum |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic budget appropriation for digital transformation | ***Not held*** | No budget document or appropriation line on file |
 

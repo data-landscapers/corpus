@@ -1,15 +1,16 @@
 ---
 title: Equatorial Guinea — monthly update, July 2026
-compiled: 2026-08-10
-period: 2026-07-01 to 2026-08-10
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: GNQ
-ledger_rows: 17
-not_held: 11
+ledger_rows: 23
+not_held: 6
+record: 8f5977fad8c4
 ---
 
 # Equatorial Guinea: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-10 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -34,7 +35,6 @@ The same ministry published [terms of reference for a public tender](https://aho
 
 The ministry's own July-December 2026 connectivity plan, dated from 15 July, has no drafted narrative yet.
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -50,7 +50,6 @@ The Comité Nacional de la Cuenta Única del Tesoro, chaired by the prime minist
 
 A GITGE study of the ministries, [reported on 2 July](https://ecofinge.com/un-estudio-de-gitge-revela-una-amplia-brecha-en-la-transformacion-digital-de-los-ministerios-en-guinea-ecuatorial/), put interoperability at about 15%, big data at about 21% and data analysis at about 10%.
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -59,6 +58,11 @@ INEGE opened a three-day validation workshop on 27 July at the Ministry of Finan
 
 ## Governance and regulation
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+<!-- /narrative -->
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
@@ -66,19 +70,16 @@ The ministry's second extraordinary directive council [adopted a consolidated Ju
 
 The commission on state-participation companies [heard candidates on 29 July](https://www.guineaecuatorialpress.com/noticias/el_ejecutivo_continua_el_proceso_de_evaluacion_de_los_aspirantes_a_cargos_directivos_en_empresas_y_entidades_de_participacion_estatal) for director-general and deputy posts at GITGE, ANDEGE, INSESO and Gepetrol Servicios against stated criteria, with appointments provisional for six months.
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 The Minister of Foreign Affairs [signed the Malabo Convention at Addis Ababa on 28 July 2026](https://www.linkedin.com/posts/au-infrastructure-and-energy_equatorial-guinea-signs-the-malabo-convention-activity-7488275982521565184-ETtI), on the margins of the 49th Ordinary Session of the Executive Council. The AU status list as of 2 February 2026 recorded no signature, no ratification and no deposit for Equatorial Guinea, so the Chamber of Deputies' vote of 25 March 2026 was a domestic authorisation to ratify taken before the country was a signatory; no instrument of ratification is on file.
 <!-- /narrative -->
+### Standards
 
-### Data protection
+<!-- narrative: governance--gov-standards -->
 
-<!-- narrative: governance--gov-protect -->
-Reporting on 2 July set out the provisions of [Ley 7/2024 of 23 December 2024](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/) as it takes effect: minors under 14 may not access or belong to social networks without parental consent, their data may not be requested or published without express authorisation, the dissemination of any person's data, photographs, videos or files without express written consent is prohibited, and identity usurpation through false profiles for illicit ends is criminalised.
 <!-- /narrative -->
-
 ### Open data
 
 <!-- narrative: governance--data-open -->
@@ -92,7 +93,6 @@ Reporting on 2 July set out the provisions of [Ley 7/2024 of 23 December 2024](h
 <!-- narrative: ai-tech--tech-ai -->
 On 7 August 2026 Óscar Ondo Ngomo left the director-generalship of GITGE, which he had held for thirteen years, to become [Secretary of State charged with artificial intelligence](https://realequatorialguinea.com/tecnologia/gitge-inicia-una-nueva-etapa-con-salvador-nguema-funtam-al-frente-oscar-ha-dejado-el-liston-bastante-alto/) at the Ministry of Transport, Telecommunications and Civil Aviation; the account describes the portfolio as newly named at that level.
 <!-- /narrative -->
-
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
@@ -107,10 +107,4 @@ The consultancy AVANTE brought public institutions, banks and technology firms t
 
 <!-- narrative: inclusion--capacity-research -->
 [GITGE's deputy director-general presented doctoral findings](https://realequatorialguinea.com/tecnologia/avante-reune-a-actores-del-mundo-de-las-tics-para-analizar-la-transformacion-digital-en-guinea-ecuatorial/) at the AVANTE forum on 22 July on big data, interoperability and digital identity in the public administration, arguing that the constraint is structural gaps and elapsed time rather than technology.
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: SLE
 ledger_rows: 70
 not_held: 11
-record: cf01e91c9a51
+record: 819ef74ff6ad
 ---
 
 # Sierra Leone: progress report, 2025-08-01 to 2026-08-14
@@ -252,6 +252,7 @@ External finance was committed and domestic finance was announced within the per
 | NCRA-SLRSA register-to-register data-sharing agreement | The signed agreement or a published summary stating what data classes flow, on what legal basis and with what retention limit. | 2026-08-09 |
 | Legal basis for data sharing between government registers | A data-sharing instrument, regulation or protocol governing exchanges between the identity register and other agencies. | not yet probed |
 | United States bilateral health agreement and its data-sharing agreement | The memorandum of understanding and the related data-sharing agreement themselves, a signature date, or a Sierra Leonean government statement naming the instrument. The text is withheld rather than unpublished, and is in litigation in the United States District Court for the District of Columbia | not yet probed |
+| Bank of Sierra Leone RTGS and ACH re-platforming | An award notice from the Bank of Sierra Leone or the National Public Procurement Authority for references 8922483/8922484, naming supplier, value and scope. The only listing found was an inadmissible-origin tender aggregator, retired 2026-08-10; neither contracting authority's procurement page carries a matching entry. | 2026-08-10 |
 
 <!-- narrative: gaps -->
 Nine rows carry no position at either end. Six are subjects the base holds nothing on for Sierra Leone, and three are documents the record points at without containing them. None was probed within this period; each is carried into the next.

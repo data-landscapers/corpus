@@ -1,15 +1,16 @@
 ---
 title: Botswana — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: BWA
-ledger_rows: 10
+ledger_rows: 22
 not_held: 11
+record: a0c67a8aaa41
 ---
 
 # Botswana: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -30,6 +31,16 @@ Two instruments were made rather than reported on: a [national e-waste managemen
 <!-- narrative: infrastructure--infra-connect -->
 The [Plumtree-Bulawayo section of a regional fibre corridor went live on 6 July, carrying traffic at 800Gbps equipped on equipment rated over 10Tbps](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V), with a second phase to Livingstone due September 2026. The corridor is stated as a Botswana-Zimbabwe-Zambia route; the live section is inside Zimbabwe and no Botswana segment is dated.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: infrastructure--infra-store -->
+
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: infrastructure--infra-energy -->
+
+<!-- /narrative -->
 
 ## Digital public infrastructure
 
@@ -40,19 +51,16 @@ Two identity-layer systems showed capacity problems rather than design problems 
 
 On 28 July a parliamentary answer put identity-card replacement delays down to [too few production staff and ageing equipment with frequent breakdowns](https://dailynews.gov.bw/news-detail/92439). The delays have run since the start of 2026 and the answer carries no backlog figure, no restoration date and no equipment-replacement commitment.
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 Against those two, one registry system entered testing this month. The electoral commission's [elections management system is built and under extensive testing, replacing platforms developed in the 1990s, for deployment at the 2029 general election](https://www.sundaystandard.info/electoral-transparency-credibility-and-the-dark-shadow-of-the-evm-in-botswana/); no supplier, cost or acceptance date is held, and the commission's secretary separately states as personal opinion that Batswana do not want electronic voting machines.
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 In the week of 13 July an [animal disease surveillance dashboard was launched, integrating the traceability system with district veterinary networks](https://www.mmegi.bw/news/botswana-gains-upper-hand-against-fmd/news); the source is a paywalled lede and no coverage or user figure is held.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -61,18 +69,21 @@ The government payroll portal was [taken offline on 22 July, with a privacy noti
 
 ## Governance and regulation
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+<!-- /narrative -->
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 On 13 July the regulator and the environment department [launched a national e-waste management strategy and signed an inter-agency memorandum](https://techreviewafrica.com/news/6284/botswana-launches-national-e-waste-strategy-as-bocra-and-environmental-department-sign-partnership-agreement). No targets, budget, collection volumes or implementation dates were published, and the strategy document itself is not on file.
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -83,8 +94,15 @@ It is the commission's second enforcement action on record, after non-bank finan
 
 ## Artificial intelligence and the technology sector
 
-<!-- narrative: ai-tech -->
-No artificial-intelligence or technology-sector row moved in this window.
+### ICT Industry
+
+<!-- narrative: ai-tech--tech-industry -->
+
+<!-- /narrative -->
+### Gulf/UAE activities
+
+<!-- narrative: ai-tech--geopol-gulf -->
+
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -94,9 +112,8 @@ No artificial-intelligence or technology-sector row moved in this window.
 <!-- narrative: inclusion--include-divides -->
 Two school digital centres were handed over in the North West District on 22 and 23 July, at [P1.45m and P1.5m per site with thirty machines each](https://dailynews.gov.bw/news-detail/92351). They are financed by the universal access and service fund, which draws a 1% levy on mobile service providers; no programme total, annual allocation or school target has been published, and the per-site cost remains the only figure on the record. The base carried nothing on the fund's school programme before January 2026, so the two handovers are the whole of what is known about its delivery.
 <!-- /narrative -->
+### Training and skills
 
-## Finance
+<!-- narrative: inclusion--capacity-training -->
 
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

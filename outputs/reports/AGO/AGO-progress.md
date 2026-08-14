@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: AGO
 ledger_rows: 109
 not_held: 7
-record: b2a98b4f1b4b
+record: c962a7363424
 ---
 
 # Angola: progress report, 2025-08-01 to 2026-08-14
@@ -121,7 +121,7 @@ The domestic money went backwards while the international layer advanced. The co
 |---|---|---|---|
 | Education and research network | Did not exist | [A national education and research network presented alongside an executive roadmap for higher-education digital transformation](https://techafricanews.com/2026/05/14/angola-unveils-angoren-network-to-drive-higher-education-digital-transformation/) | Advanced |
 | Vaccination registry | In use for real-time individual vaccination registration | [Used in all national campaigns, with interoperability to the national health information system under development](https://angop.ao/noticias/saude/angola-reafirma-compromisso-com-a-inovacao-digital-no-sistema-de-saude/) | No change |
-| National education database (MED and Mwango Brain) | ***Baseline not held*** | Work to reinforce the integrity and modernity of the national education database under the Association for the Development of Education in Africa's five-year, thirty-country Education and Skills Data Challenge, with Mwango Brain executing and the education ministry's planning office as counterpart; no data-quality baseline, scope or completion date published | ***Baseline not held*** |
+| National education database (MED and Mwango Brain) | ***Baseline not held*** | [Work to reinforce the integrity and modernity of the national education database under the Association for the Development of Education in Africa's five-year, thirty-country Education and Skills Data Challenge, with Mwango Brain executing and the education ministry's planning office as counterpart; no data-quality baseline, scope or completion date published](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 

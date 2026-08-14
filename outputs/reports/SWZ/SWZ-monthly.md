@@ -1,15 +1,16 @@
 ---
 title: Eswatini — monthly update, July 2026
-compiled: 2026-08-09
-period: 2026-07-01 to 2026-08-09
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: SWZ
 ledger_rows: 26
 not_held: 9
+record: 8802bb087035
 ---
 
 # Eswatini: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-09 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -28,7 +29,6 @@ At a workshop for ICT parastatal directors on 22 July, the Ministry of ICT [put 
 
 Free adjudication of consumer complaints against communications providers runs under the Eswatini Communications Commission Act 2013, with windows of one month for post and courier, three for broadcasting and six for telecommunications — a structural provision, not dated state.
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -44,19 +44,16 @@ Three days after the FinScope survey launch, a Ministry of Finance portfolio com
 
 Cross-border, an account published on 21 July established two things by implication. Eswatini's central bank governor [discussed leveraging Egyptian experience to accelerate PAPSS accession](https://itweb.africa/article/egypt-eswatini-deepen-banking-cooperation/KWEBb7yL4wbvmRjO), which places Eswatini outside PAPSS as at that date. The same account reports low-value Common Monetary Area transactions migrating off domestic electronic-funds-transfer rails onto the TCIB scheme, with no timetable, volume, value or mandating instrument given.
 <!-- /narrative -->
-
-### Registries
+### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 On identity, a proposal to [require DNA testing before issuing birth certificates was costed at about E126m a year, roughly 46% of the Home Affairs budget](https://times.co.sz/38899/news/dna-plan-could-swallow-e126m-of-home-affairs-budget/) — about E4,300 per test across about 29,400 births.
 <!-- /narrative -->
-
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
 The same Digital Eswatini connectivity target names 38 tinkhundla centres to be connected, none reported connected as at 22 July ([source](https://independentnews.co.sz/46514/business/aviation/digital-eswatini-project-hinges-on-leadership-ps-warns/)).
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -70,19 +67,16 @@ The central bank [launched the FinScope Eswatini 2026 Consumer Survey on 24 July
 <!-- narrative: governance--gov-legislate -->
 In the same 4 August answer, the ICT ministry said it had completed the Online Media Publishing Guidelines 2026, introducing a registration requirement for online publishers bound to accuracy, privacy protection, child safeguarding and the responsible use of AI. Neither the text nor a commencement date is public.
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 The National Data Governance Policy [was validated on 27 July 2026](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy) by stakeholders from government, business, civil society, academia and development partners, with a stated cycle of 2027 to 2031 — a policy dated to begin the year after it was drafted. Support runs through the Team Europe Data Governance in Africa initiative, the same channel behind the April 2026 workshop. The text is not published and no adoption date is given.
 <!-- /narrative -->
-
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 Asked on 4 August how online publications comply with the data-protection law, the ICT ministry [answered that implementation, enforcement and oversight do not fall within its direct mandate](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) but are vested in ESCCOM.
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -100,25 +94,21 @@ On 6 July the prime minister told the [Global Dialogue on AI Governance in Genev
 
 A [regional health body and a private firm signed a memorandum in Eswatini on 4 August to scale AI-enabled health solutions](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/), naming no system, no data-sharing terms and no money.
 <!-- /narrative -->
-
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
 Domestically, [Letshego Eswatini set out plans to expand digital banking to the unbanked](https://times.co.sz/39406/business/letshego-targets-unbanked-with-digital-banking-push/) following the grant of a provisional banking licence.
 <!-- /narrative -->
-
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
 [Digital transformation was named a priority of the Eswatini-Taiwan relationship](https://independentnews.co.sz/47014/business/digital-innovation-take-centre-stage-on-eswatini-taiwan-cooperation/) at a leaders' meeting in Taipei, with no instrument, figure or implementing agency named; the meeting's own date is not established.
 <!-- /narrative -->
-
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Gulf/UAE activities
 
 <!-- narrative: ai-tech--geopol-gulf -->
@@ -132,7 +122,6 @@ On 22 July the [She Powers Africa Digital Academy launched virtually](https://ti
 <!-- narrative: inclusion--include-divides -->
 On 6 August the [Macetjeni Integrated Business, Employment and Innovation Hub was launched in the Lubombo Region](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/), the second after Pigg's Peak, established by the Small Enterprises Development Company with ESCCOM and UNDP. A third hub is in preparation for Shiselweni, with no start date, provider or cohort size given.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->

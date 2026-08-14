@@ -1,14 +1,15 @@
 ---
 title: Cameroon — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: CMR
 ledger_rows: 91
 not_held: 8
+record: e563ce14efee
 ---
 
 # Cameroon: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/CMR/ledger.csv` (91 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/CMR/ledger.csv` (91 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ The budget is legible at proposal stage and nowhere else: the ministry's digital
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chad border fibre link | [Planned](https://www.connectingafrica.com/fiber-networking/chad-tells-operators-to-fast-track-fiber-link-to-cameroon) | The enabling memorandum suspended by Chad's regulator, revision requested |
 | Customs circular on satellite terminal seizures | [Implemented](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/) | In force since 2024-04-15 |
@@ -34,14 +35,14 @@ The budget is legible at proposal stage and nowhere else: the ministry's digital
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data-centre consolidation policy | [Planned](https://leconomie.info/high-tech-les-problemes-auxquels-font-face-les-datacenters/) | A study restituted May 2025; the minister stated a one-or-two-centre policy |
 | Zamengoe Data Centre | [Implemented](https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde) | Presented at a national digital forum on 2026-06-09 |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Douala meter-data centre | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters) | Under construction; no completion date published |
 | Smart-meter rollout | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters) | Nationwide deployment launched 2026-05-27 after final acceptance in April 2026 |
@@ -49,13 +50,13 @@ The budget is legible at proposal stage and nowhere else: the ministry's digital
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | IPv6 transition | [Planned](https://techafricanews.com/2026/06/19/antic-drives-push-for-secure-and-sovereign-internet-at-national-dns-forum-in-cameroon/) | A regulator call to accelerate adoption at the sixth national naming forum |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Device certification guidelines | [Implemented](https://techafricanews.com/2025/11/10/cameroon-strengthens-digital-safety-campaign-with-device-certification-guidelines/) | Guidelines issued 2025-11-10 |
 | DNSSEC signing of the national domain | [Implemented](https://leconomie.info/dnssec-et-rpki-lantic-muscle-la-defense-du-cyberespace-camerounais/) | The zone cryptographically signed 2025-04-08 |
@@ -76,7 +77,7 @@ The [data-centre consolidation policy is an intention to concentrate on one or t
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Trade single window (GUCE) | [Implemented](https://www.economieducameroun.info/gestion-publique-forets-mines-douanes-et-guichet-unique-ne-se-parlent-pas/) | Audit chamber report on internal control for the 2024 certification campaign |
 | Trilateral customs steering committee | [Implemented](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/) | A joint communiqué adopted 2026-07-29 establishing the committee |
@@ -85,7 +86,7 @@ The [data-centre consolidation policy is an intention to concentrate on one or t
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AILGLES biometric payroll system | [Implemented](https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist) | Public Service Minister told parliament in June 2026 the system had flagged over 53,000 public servants drawing undue benefits |
 | Biometric national identity card | [Implemented](https://www.biometricupdate.com/202508/new-biometric-id-card-center-opens-for-citizens-in-northern-cameroon) | A second production centre opened at Garoua 2025-08-07 |
@@ -96,7 +97,7 @@ The [data-centre consolidation policy is an intention to concentrate on one or t
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CAMTEL Blue Money | [Implemented](https://lejour.cm/mobile-money-le-lancement-de-blue-money-annonce/) | Launched 2025-05-01 |
 | CEMAC interoperable QR-code standard | [Implemented](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | Launched at Douala 2026-07-29 under a regional regulation of 2026-04-08 |
@@ -106,7 +107,7 @@ The [data-centre consolidation policy is an intention to concentrate on one or t
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Device import-duty regime by handset identifier | [Implemented](https://techcabal.com/2026/04/01/cameroon-imei-system-mobile-device-import-duties/) | In effect 2026-04-01 under the 2023 finance law |
 | Digital birth certificates | [Implemented](https://www.biometricupdate.com/202601/cameroon-councils-begin-issuance-of-digital-birth-certificates) | The first certificate issued at Limbe I, January 2026 |
@@ -118,7 +119,7 @@ The [data-centre consolidation policy is an intention to concentrate on one or t
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Basic-education information system upgrade | [In development](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base) | Technical-assistance agreement signed, announced 2026-07-31 |
 | National Digital Health Strategic Plan 2026-2030 | [Implemented](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/) | Launched 2026-03-04 with an envelope of about FCFA 29bn |
@@ -127,7 +128,7 @@ The [data-centre consolidation policy is an intention to concentrate on one or t
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic public-procurement platform | [Implemented](https://www.biometricupdate.com/202506/cameroon-unveils-upgraded-digital-procurement-system-with-12m-korean-grant) | An upgraded platform unveiled with a US$12m grant, 2025-06-30 |
 | Electronic visa and consular platform | [Implemented](https://lejour.cm/prestations-consulaires-plus-de-540-mille-visas-delivres-en-trois-ans/) | Second-generation consular services launched October 2025 |
@@ -136,14 +137,14 @@ The [data-centre consolidation policy is an intention to concentrate on one or t
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fourth population and agriculture census | [Implemented, enumeration extended to 2026-09-15](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) | Complementary enumeration period 2026-08-01 to 2026-09-15, ordered by an arrêté made public 2026-07-31 |
 | Open SDG indicator platform | [Implemented](https://leconomie.info/open-sdg-une-plateforme-pour-le-suivi-des-odd-au-cameroun/) | Officially launched 2025-09-17 |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Satellite-and-sampling census enumeration methodology | [Implemented](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) | Validated in the October to November 2025 census pilot |
 
@@ -161,44 +162,44 @@ The [fourth population and agriculture census is still in the field](https://www
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Loi n. 2010/012 on cybercrime and cybersecurity | [Implemented](https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/) | Promulgated 2010-12-21 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Starlink Cameroon operating licence | [In development](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/) | A draft concession convention finalised 2025-12-12; no decision at 2026-07-27 |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regional satellite data-residency framework | [Planned](https://techreviewafrica.com/news/4133) | Recommended by an expert panel at the regional regulators' tenth ordinary session |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regulator quality-of-service monitoring platforms | [Implemented](https://techafricanews.com/2026/01/07/cameroon-strengthens-telecom-oversight-as-trb-receives-qos-monitoring-platforms/) | Handed over by the national connectivity project and the World Bank, 2026-01-07 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Loi n. 2024/017 on personal data protection | [Implemented](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web) | Promulgated 2024-12-23 |
 | Personal data protection authority | [Planned](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web) | No appropriation in the FY2025 or FY2026 estimates |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU digital engagement with Cameroon | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open-data policy | [Planned](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/) | Provided for in the artificial-intelligence roadmap; no policy published |
 | Transparency and good governance code | [Implemented](https://leconomie.info/finances-publiques-la-societe-civile-de-lest-mobilisee-pour-mieux-surveiller-le-budget-citoyen-2026/) | Promulgated 2018-07-11 |
@@ -217,7 +218,7 @@ Regulatory capability improved and has produced nothing measurable: [quality-of-
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI authority and presidential council | [Planned](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/) | Provided for in the roadmap's governance pillar; not named among the ten priority areas |
 | Driver-behaviour monitoring system | [In development](https://techreviewafrica.com/news/5251) | Presented and awarded at the first national road-safety forum |
@@ -232,13 +233,13 @@ Regulatory capability improved and has produced nothing measurable: [quality-of-
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Douala smart port digital platform | [In development](https://leconomie.info/douala-smart-port-la-cnps-entre-dans-le-tour-de-table-dinnovendi-data-technologies/) | The state pension fund signed a capital-participation protocol 2026-03-04 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Climate innovation hub | [Implemented](https://www.wearetech.africa/en/fils-uk/news/cameroon-launches-climate-innovation-hub-to-advance-green-tech) | Launched at a Yaoundé university |
 | Pyramid local software suite | [Implemented](https://leconomie.info/kmr-start-up-hub-lance-pyramid-un-ecosysteme-numerique-camerounais-a-stockage-local/) | Launched at the seventh technology conference in Douala |
@@ -246,19 +247,19 @@ Regulatory capability improved and has produced nothing measurable: [quality-of-
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CAMTEL and Amazon Web Services approach | [Planned, exploratory only](https://www.ecofinagency.com/news-digital/2407-57711-camtel-explores-cloud-ai-partnership-with-amazon-web-services) | A working session with the vendor's Africa executives and the US embassy ICT representative |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-Cameroon technology cooperation | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state technology engagement in Cameroon | ***Not held*** | — |
 
@@ -274,21 +275,21 @@ The sector is large in revenue and small in venture. Regulator-reported revenue 
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bridging the digital gender divide project | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202321883%22) | Recorded active, EUR 3m committed for 2023 to 2026 |
 | Rural connectivity component of the national connectivity project | [In development](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028) | A limited national tender opened for the rural component |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bank-fee comparison platform | [Implemented](https://itweb.africa/article/cameroon-boosts-financial-literacy-with-new-digital-platform/Pero3qZ32EZvQb6m) | Launched in Yaoundé by the national economic and financial committee |
 | Digital financial-literacy project | [Discontinued](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/) | The project closed, with a capitalisation workshop held 2026-07-23 |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI workforce target of 60,000 specialists by 2040 | [Planned](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) | Cabinet reviewed the strategy; ten priority areas and a costed roadmap tabled |
 | National AI challenge | [Implemented](https://leconomie.info/snk-ia-challenge-2025-100-jeunes-a-formes-a-lutilisation-de-lintelligence-artificielle/) | The 2025 edition concluded, with 100 young Cameroonians trained across five cities |
@@ -297,7 +298,7 @@ The sector is large in revenue and small in venture. Regulator-reported revenue 
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Academic chair in digital governance | [In development](https://techafricanews.com/2026/02/11/cameroon-strengthens-digital-transformation-with-university-and-art-partnership/) | A partnership formalised after four years of negotiation, creating the chair |
 | Sovereign scientific database and digitisation centre | [Planned](https://www.cameroon-tribune.cm/articles/11572/en/artificial-intelligence-govt-engages-on-harnessing) | Cabinet tabled ten priority areas including two research-infrastructure builds |
@@ -312,7 +313,7 @@ Skills are announced in tens of thousands and delivered in cohorts. The strategy
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Development bank trade finance facility | [Implemented](https://itweb.africa/article/cameroon-gets-afdb-funding-to-boost-telecoms-sector/8OKdWqDXBa1qbznQ) | The board approved the facility in December 2025 |
 | Mobile network expansion syndicated financing | [In development](https://techafricanews.com/2026/01/22/camtel-and-cbc-secure-44-884-billion-fcfa-financing-for-cameroon-mobile-network-expansion/) | A syndicated financing consolidated and signed in Yaoundé |
@@ -320,13 +321,13 @@ Skills are announced in tens of thousands and delivered in cohorts. The strategy
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Master service agreement with Ethio Telecom | [Implemented](https://www.telecomreviewafrica.com/articles/telecom-operators/13523-ethio-telecom-and-camtel-sign-deal-to-drive-cameroons-digital-transformation/) | A three-year framework signed 2025-12-05 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Lands ministry cadastre modernisation programme | [Planned](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) | The FY2026 finance bill tabled with the programme renumbered and cut |
 | Special Telecommunications Development Fund | [Discontinued](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) | The FY2024 finance law abolished the fund and folded its revenue and expenditure into the general budget |
