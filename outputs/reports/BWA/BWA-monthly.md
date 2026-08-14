@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: BWA
 ledger_rows: 22
 not_held: 11
-record: a0c67a8aaa41
+record: e52634c13ee6
 ---
 
 # Botswana: monthly update, July 2026
@@ -34,12 +34,12 @@ The [Plumtree-Bulawayo section of a regional fibre corridor went live on 6 July,
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-
+The Kala data centre [completed its first full quarter of continuous operation to 30 June, with revenue the company itself describes as modest and at proof-of-concept scale](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It is designed for up to 1 MW and expansion is subject to funding. The base holds nothing on the facility before September 2025.
 <!-- /narrative -->
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
-
+The facility's power is the unusual part. [On-site gas-fired generation is supplemented by solar introduced to cover periods of lower gas availability, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) — solar specified as firming for gas, the reverse of the usual diesel-backup arrangement. [An initial 5 MW solar development was assessed during the quarter and an extension of the gas gathering network to connect a further production well is stated subject to funding](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85); neither carries a capital cost, approval or date, and the company states both are work-programme items rather than guidance. The second gates the data centre: capacity growth turns on upstream gas work rather than on demand.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -72,7 +72,7 @@ The government payroll portal was [taken offline on 22 July, with a privacy noti
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+Two instruments took effect and both widen the state's reach over digital services. The [electronic payment services amendment regulations are in operation, extending scope to money or value transfer services, taking fit-and-proper tests through to beneficial owners and 10% shareholders, and making unlicensed operation punishable by P1,000,000 and five years](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). Float interest is ring-fenced and directed by the central bank, with promotion of financial inclusion dropped from the permitted uses and not replaced by any customer entitlement. Separately the [remote-service VAT Act took effect on 1 June, charging 14% on non-resident digital and remote services against a stated collection target of about P450m a year](https://www.mmegi.bw/business/burs-looks-to-tax-global-digital-services-providers/news).
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -82,7 +82,7 @@ On 13 July the regulator and the environment department [launched a national e-w
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-_(narrative not yet written)_
+An [ICT memorandum with Namibia was announced for signature at Kasane on 6 August](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/), extending existing roaming and submarine-cable transit cooperation to digital transformation, emerging technologies and cybersecurity. No term, funding, named workstream or data-governance provision is published, and no signed instrument or joint communiqué is held — the account is a trade outlet's report of a ministry statement.
 <!-- /narrative -->
 ### Data protection
 
@@ -97,12 +97,12 @@ It is the commission's second enforcement action on record, after non-bank finan
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
-
+The incumbent operator reported [profit before tax of P146.2m for the year to 31 March, down 45%, on revenue of P1.47bn, down 1.6%](https://www.mmegi.bw/business/btc-profit-plunges-as-rising-costs-bite/news). The figures are company-reported, and the [prior year is given as P259m in the 2025 account against P266.6m in the 2026 one](https://www.mmegi.bw/business/demand-for-data-broadband-push-btc-revenue-up/news) — unreconciled.
 <!-- /narrative -->
 ### Gulf/UAE activities
 
 <!-- narrative: ai-tech--geopol-gulf -->
-
+The heads of agreement behind the data centre are unchanged, and the [operator's quarterly account of 3 August does not name the counterparty](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It remains the only source of its kind the base holds for Botswana at any date.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -115,5 +115,5 @@ Two school digital centres were handed over in the North West District on 22 and
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-
+A [P654.4m contract was awarded by direct procurement on 25 June for a STEAM e-learning, coding and robotics programme](https://www.sundaystandard.info/p654-million-tender-adjudicated-awarded-same-day/), its financial evaluation received, adjudicated and approved the same day and the decision published on 8 July. The Court of Appeal cleared the procurement route about six months earlier; that judgment is not held, and this rests on a paywalled lede.
 <!-- /narrative -->
