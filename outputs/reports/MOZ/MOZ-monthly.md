@@ -1,15 +1,16 @@
 ---
 title: Mozambique — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: MOZ
-ledger_rows: 26
-not_held: 32
+ledger_rows: 55
+not_held: 18
+record: 7fc0661bf09d
 ---
 
 # Mozambique: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -26,7 +27,6 @@ Three systems entered or extended service in the same five weeks: the National P
 <!-- narrative: infrastructure--infra-connect -->
 The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since.
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
@@ -34,19 +34,16 @@ The country's first university-operated data centre was inaugurated on 3 August 
 
 A carrier-neutral operator announced on 23 July that a wholesale network will co-locate in its Mozambican and Angolan facilities, with no deployment date, capacity or value stated ([partnership announcement](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/)).
 <!-- /narrative -->
-
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
 The same data centre draws on grid, photovoltaic and generator supply ([inauguration account](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/)).
 <!-- /narrative -->
-
 ### Technical Capacity
 
 <!-- narrative: infrastructure--infra-capacity -->
 At the same event the communications minister put the research and education network MoRENet at [60 Gbps, funded for a fifteen-year term](https://techafricanews.com/2026/08/06/mozambique-inaugurates-uem-data-center-to-advance-digital-transformation/) — a single account of the same remarks reported 100 Gbit/s and attributed it to the country rather than to the network, and that figure is not carried.
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -55,24 +52,31 @@ The same institute account of 23 July states that the Cyber Security Law creates
 
 ## Digital public infrastructure
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 The identification directorate reported on 23 July that it produced 856,101 identity cards in the first half of 2026 on 813,307 applications, against 730,527 a year earlier, with 297,470 issued free ([directorate account](https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/)). On 28 July the President extended free issuance of the identity card, birth certificate and personal certificate to 2027, stating neither the end month nor the deadline it replaces ([presidential announcement](https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/)).
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 The National Payments System Law took effect on 2 July 2026, replacing the regime in force since 2008 and extending the central bank's inspection and supervision over electronic-money institutions and new payment service providers ([enactment account](https://clubofmozambique.com/news/mozambique-cybercrime-and-cybersecurity-laws-national-payments-system-law-signed-into-force/)). On 30 July the central bank reported the instant payment system carrying more than 11,000 transfers a day, a tripling since it entered production in March ([communique account](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/)).
 <!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
 
+<!-- narrative: dpi--dpi-mis -->
+
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The tax authority made the fiscal clearance certificate available online from 3 August with a ten working-day issuance ceiling and a published complaints address ([authority account](https://mznews.co.mz/en/autoridade-tributaria-lanca-solicitacao-online-da-certidao-de-quitacao-fiscal-a-partir-de-3-de-agosto/)).
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -88,7 +92,6 @@ Beyond the Constitutional Council ruling, the month's governance record is the i
 
 On 28 July the communications minister listed cloud-computing and radio-centre regulations alongside the two 2026 statutes as mandatory for operators of critical infrastructure ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
@@ -96,13 +99,11 @@ The National Cyber Security Strategy 2026-2030 is under revision, succeeding a p
 
 On 22 July the communications minister told a banking and finance conference that the country is consolidating its legal and institutional framework, naming a national data governance policy among the instruments in preparation, and warned that once approved it will place obligations on companies and not only on the state ([ministerial account](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)).
 <!-- /narrative -->
-
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 The regulator opened a free public device-identity lookup on 4 August, checked against a registry held by an industry association ([regulator notice](https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/)). The notice sets out no type approval, import control, blocking regime or penalty.
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -120,9 +121,19 @@ The Intellectual Property Policy and Strategy 2026-2035, approved by resolution 
 
 On 28 July the communications minister told the same banking and finance conference that current national infrastructure, data centres included, cannot support more advanced artificial-intelligence models ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
 <!-- /narrative -->
+### US / hyperscaler activities
+
+<!-- narrative: ai-tech--geopol-usa -->
+
+<!-- /narrative -->
 
 ## Inclusion and capacity
 
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+
+<!-- /narrative -->
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
@@ -130,13 +141,11 @@ The central bank's Financial Inclusion Report 2025, reported on 24 July, counted
 
 Agent growth was fastest in the least-served provinces, and the report set that against a widening credit gap: women's participation in credit rose from 31% to 34% while men's rose from 59% to 66%, even as women's mobile money holding rose 24%.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
 The institute reported on 23 July that under the World Bank-funded acceleration project 14 training actions had benefited 30 of its technicians and 2,032 professionals from public bodies, private firms and the media had received cyber-security training, with 14 national specialists holding an international incident-response certification ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)). The period those cumulative figures cover is not stated.
 <!-- /narrative -->
-
 ### Research institutions
 
 <!-- narrative: inclusion--capacity-research -->
@@ -145,6 +154,11 @@ At the university data centre's inauguration the communications minister propose
 
 ## Finance
 
+### New investments
+
+<!-- narrative: finance--finance-new -->
+
+<!-- /narrative -->
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->

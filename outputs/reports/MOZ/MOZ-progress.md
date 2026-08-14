@@ -1,19 +1,20 @@
 ---
-title: Mozambique — progress report, 2025-08-01 to 2026-08-06
-compiled: 2026-08-10
-period: 2025-08-01 to 2026-08-06
+title: Mozambique — progress report, 2025-08-01 to 2026-08-14
+compiled: 2026-08-14
+period: 2025-08-01 to 2026-08-14
 place: MOZ
-ledger_rows: 138
-not_held: 22
+ledger_rows: 146
+not_held: 18
+record: bd8aabe2dcd7
 ---
 
-# Mozambique: progress report, 2025-08-01 to 2026-08-06
+# Mozambique: progress report, 2025-08-01 to 2026-08-14
 
-*Compiled 2026-08-10 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 138 systems and instruments on this place's ledger, 63 changed position between 2025-08-01 and 2026-08-06, 27 did not, 26 carry no stated baseline, and 22 are ***Not held*** at both ends.*
+*Of 146 systems and instruments on this place's ledger, 74 changed position between 2025-08-01 and 2026-08-14, 27 did not, 27 carry no stated baseline, and 18 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 145 sources for this place in the window — 29 in the earlier half (2025-08 to 2026-01), 116 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 156 sources for this place in the window — 29 in the earlier half (2025-08 to 2026-01), 127 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -31,7 +32,7 @@ Twenty-four rows carry no stated baseline. That is a fact about the record rathe
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | 5G coverage plan to 2027 and 2030 | None published | [Provincial capitals, special economic zones and main tourist destinations by 2027; all districts and administrative posts by 2030](https://clubofmozambique.com/news/mozambique-president-pledges-5g-for-district-capitals-tourist-zones-in-2027-watch/) | Advanced |
 | 5G licence terms and coverage obligations | Did not exist | [The regulator states the licences carry 710,000 subsidised smartphones - 420,000 4G-capable and 290,000 5G-capable - for low-income users, small and medium enterprises and students on an instalment model, and broadband for at least 3,000 schools and 1,000 community institutions including health centres, with equipment, installation, activation and support included; no deadline, milestone or penalty attaching to a named operator is on record](https://clubofmozambique.com/news/mozambique-incm-awards-5g-licences-to-mobile-operators/) | Advanced |
@@ -48,7 +49,7 @@ Twenty-four rows carry no stated baseline. That is a fact about the record rathe
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | AFR-IX network deployment in Raxio Mozambique | Did not exist | [AFR-IX to co-locate its network in Raxio's Mozambique and Angola facilities for regional and international connectivity and local traffic routing; no deployment date, capacity or value stated](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/) | Advanced |
 | Universidade Eduardo Mondlane data centre | Did not exist; the university ran a server room | [In service, with about 14 times the storage of the server room it replaces, precision cooling, redundant systems, environmental monitoring, hardened physical security and grid, photovoltaic and generator supply; designated to help underpin the .mz domain and the internet exchange point](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/) | Advanced |
@@ -62,28 +63,30 @@ Twenty-four rows carry no stated baseline. That is a fact about the record rathe
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| Grid supply arrangements for data centres and telecom sites | Not held | [Medium Voltage 4.78 MT/kWh plus 497.03 MT fixed plus 3,207.25 MT/kW; High Voltage 4.70 MT/kWh, negotiable; no data-centre-specific supply arrangement, generation commitment or outage figure published](https://edm.flexibihost.com/en/website/page/electricity-tariffs) | Advanced |
 | Solar power at the rural mobile stations | Not specified in the tender notice | [Solar energy systems specified to power all 60 sites; no installed capacity, supplier or commissioning date stated](https://techafricanews.com/2025/10/20/mozambique-to-install-60-new-mobile-stations-to-boost-rural-connectivity/) | Advanced |
 | University data centre power supply | Did not exist | [Grid supply with integrated photovoltaic generation and a generator as redundancy, named by the minister as the reason interruption risk falls; capacity, generation and consumption figures not stated](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/) | Advanced |
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | MoRENet bandwidth capacity | 5 Gbps international bandwidth on a single route through South Africa (before 2025-10) | [60 Gbps international bandwidth over the AmLight-SACS South Atlantic link with two continental routes (2025-10-30), restated by the communications minister as funded for 15 years (2026-08-03); the national backbone that would distribute it to universities was still being expanded as at 2025-10-30](https://techafricanews.com/2026/08/06/mozambique-inaugurates-uem-data-center-to-advance-digital-transformation/) | Advanced |
+| Mozambique Internet Exchange Point | ***Baseline not held*** | [143 Gbps of cumulative member port capacity, with no autonomous systems joining or leaving over the tracked period and no peak-traffic figure published; operator is CIUEM (Universidade Eduardo Mondlane), located in Maputo, Av. Julius Nyerere, founded May 2002, with 18 peers on the exchange's own site; its PeeringDB record has been stale since 2016](https://pulse.internetsociety.org/en/ixp-tracker/ixp/260/) | Advanced |
 | The .mz registry operator and registration volumes | Management and operation of the domain vested in the regulator, with no registry operator named and no registration volumes published | [Same at 2026-08-09](https://intic.gov.mz/wp-content/uploads/2024/03/mz-government-gazette-series-i-dated-2020-09-10-no-174.pdf) | No change |
 | MoRENet, the education and research network | ***Baseline not held*** | [Operated from the premises of the Ministry of Communications and Digital Transformation; the minister stated he wants it managed by the universities instead, with no transfer date, instrument or governance model named](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/) | ***Baseline not held*** |
-| Mozambique Internet Exchange Point | ***Baseline not held*** | [143 Gbps of cumulative member port capacity, with no autonomous systems joining or leaving over the tracked period and no peak-traffic figure published](https://pulse.internetsociety.org/en/ixp-tracker/ixp/260/) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Cyber Security Fund | Did not exist | [Provided for at articles 67 to 71 of Law 13/2026, managed by the National Cyber Security Authority and financed by a flat 1% of licensed cybersecurity providers' prior-year gross revenue under article 70(c) together with state appropriations, partner donations and other sources, with sectoral and institutional incident response teams among its beneficiaries at article 69; its operating rules are left to a regulation not yet made under article 67(4), and the statute is not in force until 2026-09-29](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | Advanced |
 | National cyber incident response team | National incident-response capability operating under the 2021 policy, without a statutory basis | [Created in statute and seated in INTIC; INTIC named consolidation of the team the immediate priority in June 2026, and 14 national specialists hold Open CSIRT Foundation SIM3 certification](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/) | Advanced |
 | Biometric SIM registration and the unique telecommunications number | Compulsory registration with blocking from 2025, as described in January 2024 | [No later account held; no registration, blocking or enforcement figures at 2026-08-06](https://360mozambique.com/development/mozambique-to-require-biometric-card-registration-for-cellphone-users) | No change |
 | National Cyber Risk Assessment of critical information infrastructure | First edition published, classified TLP-White (2025-05) | [Same; no second edition published at 2026-08-09. Of 29 systems across 18 institutions, 19 are classified very high risk, 6 high and 4 moderate, with sector views for defence and security, information and communications technology, transport, energy and finance](https://intic.gov.mz/wp-content/uploads/2025/05/Relatorio_NCRA_Maio-2025_assinado.pdf) | No change |
+| Ransomware infection attempts detected by the national CSIRT | ***Baseline not held*** | [5,654 detected between January and July 2026 by INTIC's CSIRT Nacional, disclosed at the launch of a national ransomware-prevention campaign run with the UN Office on Drugs and Crime](https://jornalnoticias.co.mz/destaque/intic-na-campanha-contra-ransomware-nao-paguem-resgate-denunciem/) | ***Baseline not held*** |
 | Recorded cyberattacks and cybercrime cases | No published count held | [173,770 attacks and 1,061 criminal cases in 2024, against 912 cases in 2023; 36,330 attacks in H1 2025; no 2026 figure published at 2026-08-06](https://clubofmozambique.com/news/mozambique-records-173000-cyberattacks-and-1061-cybercrime-cases-in-2024-says-minister/) | ***Baseline not held*** |
 
 <!-- narrative: infrastructure -->
@@ -98,73 +101,82 @@ Three hosting positions did not change: two carrier-neutral data centres and a l
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| Portal de Divulgacao de Dados de Infra-estruturas Publicas (IPDP) | Did not exist | [Government open-data portal run by the Fundo de Estradas (UK International Development-supported) publishing road, bridge and infrastructure project data under a Creative Commons licence and the OC4IDS standard](https://www.dadosinfra.co.mz/) | Advanced |
 | Single unified government database | ***Baseline not held*** | [Named as an agency responsibility; no design, scope, host or timetable published](https://www.biometricupdate.com/202603/mozambique-sets-up-agency-to-spearhead-its-digital-transformation-ambitions) | ***Baseline not held*** |
 | X-Road interoperability platform | ***Baseline not held*** | [Described as currently being implemented; no operator, go-live date or list of connected agencies on record](https://clubofmozambique.com/news/mozambique-launches-tender-for-consultancy-on-mobile-digital-identity-and-signature-system/) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Free first issuance of the national identity card | Free first-time identity card issuance nationwide, no end date on record (2025-08) | [Free identity card, birth certificate and personal certificate to 2027, for children and adults alike; 297,470 free cards issued in H1 2026](https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/) | Advanced |
 | National identity cards produced, first semester | 730,527 cards on 677,305 applications (H1 2025) | [856,101 cards on 813,307 applications (H1 2026), of which 297,470 issued free](https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/) | Advanced |
 | National mobile digital identity and electronic signature infrastructure | Did not exist | [Consultancy tender out, requiring integration with the interoperability platform and the population registry; no award, budget or timetable on record](https://clubofmozambique.com/news/mozambique-launches-tender-for-consultancy-on-mobile-digital-identity-and-signature-system/) | Advanced |
 | Regulations on Civil Identification and the National Identity Card | Regulations under Law 6/2022 of 20 June unrevised | [Updated regulations approved, governing collection, processing, management and retention of civil identification data and standardising issuance](https://clubofmozambique.com/news/mozambique-cabinet-approves-new-id-card-regulations-notes-gains-in-access-to-safe-water/) | Advanced |
 | Biometric passport and electronic pre-booking | ***Baseline not held*** | [Biometric passport in issue; applications may be submitted by electronic pre-booking](https://jornalnoticias.co.mz/destaque/senami-aposta-na-inovacao-tecnologica-para-flexibilizar-atendimento/) | ***Baseline not held*** |
+| Biometric register of humanitarian-aid recipients (INGD) | ***Baseline not held*** | [Piloted in Beira and built to interoperate with the social-support database so responders can see who has and has not received food aid, at a WFP-costed investment of about 20 million meticais (US$350,000); no data-protection basis, retention rule or enrolment target published](https://clubofmozambique.com/news/mozambique-aid-recipient-digital-register-to-be-launched-to-prevent-duplication/) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Biometric identity and access management in the national payments switch | A single national bank deployment (2025-05) | [Deployment into the national payments switch under way](https://idtechwire.com/bio-key-and-runlevel-deploy-biometric-iam-across-mozambiques-national-payments-network/) | Advanced |
 | METIX daily transfers | Did not exist (2025-08) | [More than 11,000 a day, a tripling since production entry in March 2026](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/) | Advanced |
-| METIX instant payment system | Did not exist | [Live around the clock over bank applications, websites and unstructured supplementary service data, operated by the interbank company; wallet-operator participation mandatory; free interbank person-to-person transfers for individuals](https://clubofmozambique.com/news/central-bank-launches-mozambique-instant-payment-system-metix-watch/) | Advanced |
+| METIX instant payment system | Did not exist | [Live around the clock over bank applications, websites and unstructured supplementary service data, operated by the interbank company; wallet-operator participation mandatory; free interbank person-to-person transfers for individuals; the notice text is now held: SIMO is the designated entidade gestora, with daily limits of 200,000 MT for individuals and 500,000 MT for legal persons, participation/suspension/exclusion rules, and a 25-second fund-availability ceiling](https://clubofmozambique.com/news/central-bank-launches-mozambique-instant-payment-system-metix-watch/) | Advanced |
+| Mobile-money payment of health workers (WHO) | ***Baseline not held*** | [More than US$14.4m paid to nearly 246,000 health workers and volunteers since 2024, replacing cash for vaccination and emergency campaign payments and giving funders a full digital transaction record; no per-campaign breakdown or failure rate published](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/) | Advanced |
 | National Payments System Law (Law 15/2026) | The payments regime in force since 2008 | [In force; central bank inspection and supervision powers extended over electronic-money institutions and new payment service providers](https://clubofmozambique.com/news/mozambiques-new-national-payments-system-bill-on-its-way-to-parliament/) | Advanced |
-| Notice 2/GBM/2026 on National Switch connection and outage reporting | Notice 2/GBM/2015 governed connection; no incident-reporting deadline on record | [Connection to the Single Payments Network mandatory to offer electronic payment products, with three months to migrate existing terminals; any payment-service unavailability lasting more than ten minutes must be reported within 60 minutes](https://clubofmozambique.com/news/mozambique-financial-institutions-have-60-minutes-to-report-failures/) | Advanced |
+| Notice 2/GBM/2026 on National Switch connection and outage reporting | Notice 2/GBM/2015 governed connection; no incident-reporting deadline on record | [Connection to the Single Payments Network mandatory to offer electronic payment products, with three months to migrate existing terminals; any payment-service unavailability lasting more than ten minutes must be reported within 60 minutes; in force 90 days after the now-established publication date; RTO/RPO annual testing due 31 March; annual incident-framework review required; Aviso 2/GBM/2015 formally revoked](https://clubofmozambique.com/news/mozambique-financial-institutions-have-60-minutes-to-report-failures/) | Advanced |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Civil registration and population register services tender | Did not exist | [Tender closed; bidders required a US$7m or two US$4m track record and a US$90,000 bid security; no award on record](https://www.biometricupdate.com/202601/mozambique-seeks-expert-services-to-support-mass-birth-id-registration) | Advanced |
 | Free birth registration campaign 2026 | Did not exist | [About 7 million people targeted at 25,000 registrations a day through up to 500 mobile brigades, costs met by the World Bank-funded governance and economy project](https://clubofmozambique.com/news/mozambique-government-launchs-free-birth-registration/) | Advanced |
+| Land cadastre and land-use right registry digitisation | Not held | [SiGIT digitises DUAT (land-use right) application processing; 563,765 requests recorded, 77% processed, 68% delivered to beneficiaries](https://www.fnds.gov.mz/edocman/sigit-review-and-audit-final-report.pdf) | Advanced |
 | Law 8/2024 on electronic processing of legal proceedings | In force | [In force; named by the justice minister as the cornerstone of judicial modernisation](https://clubofmozambique.com/news/mozambique-74-of-legal-entity-registration-applications-now-submitted-electronically-minister-says/) | No change |
 | Share of legal-entity registrations submitted electronically | ***Baseline not held*** | [74% (2026-06)](https://clubofmozambique.com/news/mozambique-74-of-legal-entity-registration-applications-now-submitted-electronically-minister-says/) | ***Baseline not held*** |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National health management information system | None established | [The Government of Mozambique is owner and operator of SIS-RME as the core integrated electronic medical record, its minimum viable version targeted for release in September 2026 with modules for registration, consultation, maternal and child health, HIV and TB; the United States-built Electronic Patient Tracking System SESP was to pass to Mozambican management by 2026-06-20 and to be retired once its data and functions are migrated; SIS-LAB for laboratories, eVIDR for outbreak surveillance and nSIMAM for commodity logistics sit behind a health data exchange expected functional by the end of 2026, with a national health data warehouse expected operational by the end of 2027](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf) | Advanced |
 | Digital Health Strategy 2025-2034 | ***Baseline not held*** | [Mozambique's first dedicated digital health strategy, on a ten-year horizon](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Citizen Portal | Named in the draft strategy described by the US International Trade Administration (2025-07) | [Prototype being completed, with an experimental phase due between late August and early September 2026; about 140 public services inventoried for gradual integration, beginning with issue and renewal of passports and driving licences; no budget, supplier, authentication method or data-protection arrangement stated](https://mznews.co.mz/en/governo-digitaliza-mais-de-cem-servicos-publicos-com-prioridade-para-passaportes-e-cartas-de-conducao/) | Advanced |
+| CloudGov (INAGE government file storage platform) | Did not exist | [Government-wide storage, sync and share platform in rollout across public-administration institutions; no later account, institution count or usage figure held](https://www.inage.gov.mz/?p=2697) | Advanced |
 | Decree 40/2026 on simple prior notification | Did not exist | [Approved and taking effect within 90 days: the certificate of simple prior notification must issue within two hours of application, and where it does not the applicant may begin trading anyway; procedures run preferably through the Integrated Platform for Citizen Services, electronic signature is made legally equivalent to a handwritten one, and automatic information-sharing is mandated between the Tax Authority, the Registry of Legal Entities, Social Security, the State Financial Administration and immigration services; fees are waived for micro-enterprises and micro-industries and certificates carry a renewable three-year validity](https://360mozambique.com/development/government-approves-regulation-allowing-certificates-for-low-risk-activities-to-be-issued-within-two-hours/) | Advanced |
 | Online tax clearance certificate | Did not exist | [Requested through the taxpayer portal, issued within a maximum of ten working days, with a published electronic complaints address](https://mznews.co.mz/en/autoridade-tributaria-lanca-solicitacao-online-da-certidao-de-quitacao-fiscal-a-partir-de-3-de-agosto/) | Advanced |
+| Sistema de Gestao Autarquica (e-SGA) | Did not exist | [Integrated municipal-management suite spanning 22 interoperable modules (finance and revenue, urban and land, licensing, waste, cemeteries, fleet, parking, policing); no deployment date or municipality count published](https://www.cedsif.gov.mz/cedsifportal/sga/) | Advanced |
 | Digital Governance and Economy Project | Net commitment US$137.85m, US$65.59m disbursed at 47.15%, progress and implementation both rated moderately unsatisfactory (2025-02) | [Same; no newer World Bank document held, though the project funds the 2026 free-identity issuance and the civil-registration procurement](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099022825042035519) | No change |
 | One-stop service desks and the electronic single-desk platform | One-stop desks with an online platform, supervised by the Ministry of Industry and Commerce | [Same; the base carries nothing later](https://documents1.worldbank.org/curated/en/099817512092543722/pdf/IDU-7812f059-6c08-413f-af64-c7a8611c88d2.pdf) | No change |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| Municipal revenue and property-tax management system | Not held | [SISPGIA processes property-tax collection in Maputo; SISTAE, SIRR and SIGERE named as further municipal revenue systems; no national rollout or count of municipalities using them established](https://www.pdul.gov.mz/content/download/513/2779/file/Avaliacao%20Rapida%20do%20SIGEF%20Municipal.pdf) | Advanced |
 | Projecto Municipio Digital | Launched by memorandum across all 65 municipalities, with no delivery report (2025-02) | [Same at 2026-08-09: work packages cover mass rollout of municipal virtual secretariats, digital issue of the national tax clearance certificate, participatory-governance and transparency tools and adoption of the National Document Management System, with widening revenue-collection capacity stated among its objectives; no budget, delivery or progress report is held](https://jornalnoticias.co.mz/destaque/digitalizacao-moderniza-gestao-municipal-no-pais/) | No change |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| MOZDATA microdata catalogue (INE) | Did not exist | [NADA-style catalogue depositing operations from INE, the education ministry (MINEDH/DIPLAC), the science ministry and the public works ministry; access is licensed, not open](https://mozdata.ine.gov.mz/index.php/catalog) | Advanced |
+| Plano de Melhoria de Qualidade de Dados (PMQD) 2025-2029 | No dedicated data-quality plan | [Five-year plan across facility, district, provincial and central tiers; baseline data-quality index 70% district, 63% facility](https://sisma.misau.gov.mz/wp-content/uploads/2026/03/Plano-de-Melhoria-de-Qualidade-de-Dados-2025-2029.pdf) | Advanced |
 | Fifth General Population and Housing Census | ***Baseline not held*** | [Census scheduled for 1 to 15 August 2027 and stated by the statistics institute to be the first run entirely in digital format; the pilot cost US$430,000 and covers 177 enumeration areas across the five administrative posts of Magude district with 177 enumerators and 38 controllers selected from 260 trained, testing digital cartography, the collection application, the electronic questionnaire, data validation and synchronisation, with results due by end-August 2026; the 2027 operation is costed at EUR 96.2m and the institute reported on 2026-03-27 a shortfall of US$68m against the US$110m required, with the World Bank committing US$12.7m of initial financing](https://jornalnoticias.co.mz/destaque/mais-de-200-jovens-recebem-formacao-para-o-censo-piloto/) | ***Baseline not held*** |
 | Updated national statistical strategy | ***Baseline not held*** | [Named as one of several strategies in preparation; no draft, timetable or publication held](https://documents1.worldbank.org/curated/en/099817512092543722/pdf/IDU-7812f059-6c08-413f-af64-c7a8611c88d2.pdf) | ***Baseline not held*** |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | ANGOSAT-2 connectivity via the Boane earth station | ***Baseline not held*** | [Station integrated and under test; remote terminals not yet activated](https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity) | ***Baseline not held*** |
 | Starlink terminals in disaster response | ***Baseline not held*** | [Donated terminals deployed by the regulator with open access, plus four operator connectivity kits at Boane, Bobole, Manhica and Marracuene](https://clubofmozambique.com/news/starlink-vodacom-bring-hope-to-flood-hit-mozambique/) | ***Baseline not held*** |
@@ -181,7 +193,7 @@ The interoperability platform is the position that did not move visibly in eithe
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Cyber Security Law (Law 13/2026) | Not on record at 2025-08-01; draft cyber bills approved by government 2025-09 | [Approved by the Assembly of the Republic 2026-04-29, promulgated 2026-06-10 and published 2026-07-01, in force 90 days after publication on 2026-09-29 with implementing regulations due within 180 days; creates a national incident response team seated in INTIC and, at articles 67 to 71, a Cyber Security Fund managed by the National Cyber Security Authority and financed by a flat 1% of licensed cybersecurity providers' prior-year gross revenue under article 70(c), with licensed information and communications technology providers also obliged to contribute at no stated rate under article 67(3); secondary accounts put the penalty ceiling at 160 minimum wages and implementation cost at about 167.26m meticais](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | Advanced |
 | Cyber Security Law implementing regulations | Did not exist | [Provided for by Laws 13/2026 and 14/2026 and due within 180 days of their publication on 2026-07-01; none made at 2026-08-09](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | Advanced |
@@ -194,7 +206,7 @@ The interoperability platform is the position that did not move visibly in eithe
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Digital Transformation and Innovation Agency | Did not exist | [Operating under the Ministry of Communications and Digital Transformation, with a remit covering interoperability of state platforms, data-centre integration, procurement of information technology and citizen-facing systems](https://www.biometricupdate.com/202603/mozambique-sets-up-agency-to-spearhead-its-digital-transformation-ambitions) | Advanced |
 | Multisectoral Technical Commission for Digital Transformation | Did not exist | [Technical body coordinating and implementing digital transformation across public administration](https://www.biometricupdate.com/202603/mozambique-sets-up-agency-to-spearhead-its-digital-transformation-ambitions) | Advanced |
@@ -204,7 +216,7 @@ The interoperability platform is the position that did not move visibly in eithe
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Angola-Mozambique space and communications memoranda | Did not exist | [One framework for space-sector cooperation and one for communications, information technology, information and meteorology](https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity) | Advanced |
 | Mozambique-Ethiopia digital identity memorandum | Did not exist | [Cooperation on digital-identity platforms and authentication, pilot projects, government-system interoperability, technical training and joint cybersecurity policy](https://clubofmozambique.com/news/mozambique-and-ethiopia-sign-mou-to-boost-digital-identity/) | Advanced |
@@ -213,14 +225,14 @@ The interoperability platform is the position that did not move visibly in eithe
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Public device-identity verification platform | Did not exist | [Free public lookup against the global device registry held by an industry association; verification only, with no type approval, import control, blocking regime or penalty attached](https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/) | Advanced |
 | Electronic Government Systems Interoperability Regulation | ***Baseline not held*** | [Reviewed, stated to set standards for integrating and managing public information systems](https://techafricanews.com/2025/12/05/mozambique-prioritizes-data-governance-as-cornerstone-of-digital-sovereignty/) | ***Baseline not held*** |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Data Sharing Agreement under the health memorandum | Did not exist | [Signed by the two governments on the same day as the memorandum and not annexed to it, so neither its term, its pathogen or genetic-sequence scope nor any transfer trigger can be read from the instrument that penalises failure to fulfil it; the State Department briefly posted a subset of the memoranda in March 2026, then removed access and published none of the related agreements, and a suit for their release was unresolved at 2026-04-02](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf) | Advanced |
 | National data protection authority | No data regulatory authority, with INTIC, INCM, INAGE and CEDSIF exercising implied oversight and coordination gaps between them (2025-06); a two-tier commission and agency provided for in the draft law (2025-09) | [Still provided for in the draft only; no authority established. The World Bank recommended creating one in December 2025 and on 2026-01-16 cut the project subcomponent funding cybersecurity and data protection from US$18m to US$11m, stating that operationalising the Data Protection Office had been envisaged over six years and that the remaining project period no longer allows it](https://www.techhiveadvisory.africa/insights/review-of-mozambiques-proposed-personal-data-protection-law) | Stalled |
@@ -240,32 +252,38 @@ The data protection law is the row marked *Stalled*: a draft in preparation with
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Intellectual Property Policy and Strategy 2026-2035 | The 2008-2018 intellectual property strategy expired, with no dedicated national policy | [Approved, running to 2035 with an initial assessment in 2028, a formal review in 2030 and a second evaluation in 2033; mandates a study of the patentability of inventions made by artificial intelligence and of the inventive-step and disclosure standards that should apply to them, a review of copyright and related legislation for digital content and services, and digitisation of all intellectual-property administration; creates a National Intellectual Property Commission, with implementation overseen by a National Intellectual Property Committee chaired by the Prime Minister; legal and institutional modernisation is costed at 719.6m meticais, of which 632m meticais is for strengthening intellectual-property institutions through digital infrastructure, cloud platforms and information technology](https://360mozambique.com/development/mozambique-approves-ip-strategy-to-study-ai-patentability-and-digital-rights/) | Advanced |
-| National Artificial Intelligence Strategy | Preparation under way under a World Bank project, no draft published (2025-04) | [Final drafting phase, with public consultations and provincial workshops under way and the artificial-intelligence commission to review before submission to the Council of Ministers; no adoption on record at 2026-08-06](https://techafricanews.com/2026/05/25/mozambique-presents-draft-national-ai-strategy-at-itu-workshop-in-kenya/) | Advanced, not adopted |
+| National Artificial Intelligence Strategy | Preparation under way under a World Bank project, no draft published (2025-04) | [Final drafting phase, with public consultations and provincial workshops under way and the artificial-intelligence commission to review before submission to the Council of Ministers; no adoption on record at 2026-08-06; Draft 1 text now held: five founding principles including 'soberania de dados' (data sovereignty), and eight sectoral pillars structured into short, medium and long-term objectives](https://techafricanews.com/2026/05/25/mozambique-presents-draft-national-ai-strategy-at-itu-workshop-in-kenya/) | Advanced, not adopted |
 | National Commission for Artificial Intelligence | Proposed but not created: INTIC had drafted a proposal to establish the commission and submitted it to the since-abolished Ministry of Science, Technology and Higher Education (2025-05) | [Advisory body under the Council of Ministers, chaired by the communications minister with the defence and education ministers as vice-presidents, issuing opinions on artificial-intelligence policy, legal instruments, funding, research and workforce questions](https://clubofmozambique.com/news/commission-begins-advising-government-on-the-use-of-artificial-intelligence-in-mozambique/) | Advanced |
 | World Artificial Intelligence Cooperation Organization membership | Did not exist | [Founding member, one of 29 signatory states and one of ten African ones](https://clubofmozambique.com/news/mozambique-becomes-founding-member-of-world-ai-cooperation-organization-waico/) | Advanced |
 | ITU artificial-intelligence sandbox participation | ***Baseline not held*** | [Named among the African countries already implementing the sandbox initiative](https://techafricanews.com/2026/05/25/mozambique-presents-draft-national-ai-strategy-at-itu-workshop-in-kenya/) | ***Baseline not held*** |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Digital operator licence categories for data centres and cloud platforms | Did not exist | [Announced as an intended extension of the licence categories; no date, draft or instrument](https://techafricanews.com/2026/06/08/mozambique-issues-first-licenses-to-digital-operators-in-major-regulatory-milestone/) | Advanced |
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | United States bilateral health cooperation memorandum | Did not exist | [Planned United States support of US$1,829,380,000 across 2026-2030 against Mozambique's US$70,573,106, including US$83,072,079 for health data systems; the text carries no personal-data, data-ownership, hosting or residency clause, and 4.7 makes failure to fulfil a Specimen Sharing Agreement and a Data Sharing Agreement signed the same day, neither annexed, grounds for changing or discontinuing assistance](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf) | Advanced |
 | SpaceX partnership talks | ***Baseline not held*** | [Exploratory discussion of connectivity, digital infrastructure and participation by small and medium enterprises; no agreement, amount or timetable announced](https://techafricanews.com/2026/07/06/mozambique-explores-strategic-partnership-with-spacex-to-advance-digital-economy/) | ***Baseline not held*** |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Chinese-supplied city surveillance deployment | ***Baseline not held*** | [Cameras supplied by Huawei, ZTE and Hikvision reported concentrated in political-opposition areas, in the absence of adequate legal regulation or oversight](https://www.ids.ac.uk/publications/smart-city-surveillance-in-africa-mapping-chinese-ai-surveillance-across-11-countries/) | ***Baseline not held*** |
+
+### India activities
+
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+|---|---|---|---|
+| India-Mozambique digital or technology cooperation agreement | Not held | [An Information Technology Park delivered under an Indian concessional Line of Credit; the brief states no location, value or completion date for the park](https://www.mea.gov.in/Portal/ForeignRelation/India-Mozambique-April-2025.pdf) | Advanced |
 
 <!-- narrative: ai-tech -->
 Everything in this section is newer than the window. At 1 August 2025 the base carried no artificial-intelligence commission, no draft strategy in circulation, no intellectual property policy and no membership of any international artificial-intelligence body.
@@ -279,7 +297,7 @@ None of it is adopted policy. The strategy was not adopted, the commission's dec
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Gender gap in access to credit | Women 31%, men 59% (2024) | [Women 34%, men 66% (2025)](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | Regressed |
 | Financial Inclusion Index | 36.4 points (2024) | [36.4 points (2025), classified moderate by the central bank; Cabo Delgado rose from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | No change |
@@ -287,15 +305,15 @@ None of it is adopted policy. The strategy was not adopted, the commission's dec
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Financial services access points | 315,005 non-bank agents, 1,391 automated teller machines and 35,486 card terminals (2024) | [446,604 non-bank agents, 1,383 automated teller machines and 32,236 card terminals; 482,359 access points in total, up 36% (2025)](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | Advanced, in agents; regressed in terminals |
 | Mobile money and bank accounts per thousand adults | 1,093 mobile money and 330 bank accounts per thousand adults (2024) | [1,313 mobile money and 337 bank accounts per thousand adults (2025)](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | Advanced |
-| National Financial Inclusion Strategy 2025-2031 | Not yet launched at 2025-08-01; under the 2016-2022 strategy 32.3% of adults held a bank account (Q1 2025) against a 60% target | [In force, targeting 60% of adults with a bank account and 30% of those with a loan by 2031](https://clubofmozambique.com/news/mozambique-e-money-accounts-have-grown-to-109-8-of-the-total-adult-population-government/) | Advanced |
+| National Financial Inclusion Strategy 2025-2031 | Not yet launched at 2025-08-01; under the 2016-2022 strategy 32.3% of adults held a bank account (Q1 2025) against a 60% target | [In force, targeting 60% of adults with a bank account and 30% of those with a loan by 2031; full strategy text now held: four pillars (education and consumer protection split out; green finance and infrastructure demoted to cross-cutting themes), a CNIF coordination mechanism, a theory of change, phased 2025-27/2028-31 implementation](https://clubofmozambique.com/news/mozambique-e-money-accounts-have-grown-to-109-8-of-the-total-adult-population-government/) | Advanced |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | European Union education and skills agreement | Did not exist | [EUR 50m signed to prepare Mozambican students for a digital and sustainable future; no recipient organisation, work plan or disbursement named](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en) | Advanced |
 | Cybersecurity training under the digital acceleration project | ***Baseline not held*** | [14 training actions for 30 INTIC technicians, 2,032 professionals trained across public bodies, private firms and the media, and 14 national SIM3 certifications](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/) | ***Baseline not held*** |
@@ -303,7 +321,7 @@ None of it is adopted policy. The strategy was not adopted, the commission's dec
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Research and education network governance transfer | ***Baseline not held*** | [Transfer of the education and research network from the ministry to the universities proposed, with no date, instrument or governance model named](https://clubofmozambique.com/news/mozambique-govt-wants-universities-involved-in-protecting-against-cyberattacks/) | ***Baseline not held*** |
 
@@ -317,10 +335,10 @@ The credit gap moved in the opposite direction to the account gap. Women's parti
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | European Union digital transformation agreement | Did not exist | [EUR 28m signed with a stated focus on women's participation in the digital economy, within a four-agreement package of EUR 178m; recipient organisation unspecified and no disbursement recorded](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en) | Advanced |
-| Mozambique Digital Acceleration Project | US$71.5m of US$200m disbursed (36%), digital components at 14%, implementation progress and components 1 and 2 rated moderately unsatisfactory (2025-06) | [US$77,547,320 disbursed of US$200m, from the project portal accessed 2026-06-24; the second restructuring of 2026-01-16 cut cybersecurity and data protection from US$18m to US$11m and digital inclusion from US$40m to US$30m, raised rural digital connectivity to US$55m and education-sector digital skills to US$27m, and left the total at US$200m closing 2028-07-31](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099012626175535228) | Stalled, data-protection component cut |
+| Mozambique Digital Acceleration Project | US$71.5m of US$200m disbursed (36%), digital components at 14%, implementation progress and components 1 and 2 rated moderately unsatisfactory (2025-06) | [US$83,880,000 disbursed of US$200m (41.67%), from ISR Seq 8 (2026-06-24), up from US$77.5m; Overall Implementation Progress upgraded to Moderately Satisfactory; the data-protection-regulations indicator remains at 0 of a target of 2](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099012626175535228) | Advanced |
 | Laying the Foundation for VaMoz Digital | CHF 2,244,820 committed with US$8,305,800 of co-financing from the Italian development agency | [Running to 2027 with the European Union delegation as funding partner, the ITU as implementing partner and the communications ministry as sponsor; the ITU reports a national digital skills assessment informed by more than 30 interviews and a survey of about 400 young people, a Matola pilot that trained 50 young people and 5 teachers, 15 women trained under the Women in GovTech Challenge, more than 100 participants in artificial-intelligence training for young women and more than 320 stakeholders reached by digital-accessibility work; no disbursement update held](https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9MOZ23005) | No change, outputs undated |
 | National Control Centre for Energy | EUR 8,008,000 committed, nothing disbursed on the published record | [Same; still nothing disbursed at the last read, 2026-06-24](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60663) | No change |
 | Sustainable Energy and Broadband Access in Rural Mozambique Project | US$343m committed; no separately dated disbursement position at 2025-08 | [US$190,819,278 disbursed of US$343m, from the project portal accessed 2026-06-24](https://projects.worldbank.org/en/projects-operations/project-detail/P175295) | No change |
@@ -333,7 +351,7 @@ The credit gap moved in the opposite direction to the account gap. Women's parti
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Cyber Security Fund appropriation | Did not exist | [Provided for in statute from 2026-07-01, with state appropriations named among its revenue lines alongside a flat 1% levy on licensed cybersecurity providers; no line for it appears in the FY2026 state budget final maps, which were set before the law was published, and INTIC has no capital allocation at all in FY2026](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | Advanced |
 | State budget information technology and digital appropriation lines | ***Baseline not held*** | [FY2026 appropriations: CEDSIF MZN 757,832,010 including MZN 100,000,000 of wholly domestic investment; the civil identification directorate MZN 230,819,650; the statistics institute MZN 211,296,440 centrally with MZN 212,543,130 more across eleven provincial delegations; the e-government institute MZN 93,280,160; INTIC MZN 73,636,370; and the communications and digital transformation ministry's central apparatus MZN 111,260,610 of operating money against a capital budget of MZN 2,637,800,000 that is entirely externally financed. Only CEDSIF and the ministry carry any investment line at all](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais) | ***Baseline not held*** |
@@ -347,15 +365,12 @@ The investment portfolio changed by one instrument across the window: the Europe
 | System or instrument | What would settle it | Last probed |
 |---|---|---|
 | Gulf-state digital or data-centre investment agreement | Any agreement with a Gulf state fund or operator; the held data-centre financiers are development finance institutions, private funds and an operator, with no Gulf party named | 2026-08-06 |
-| India-Mozambique digital or technology cooperation agreement | Any memorandum, line of credit or training agreement with an Indian counterpart; the base carries no source naming India in any digital, data or telecommunications context for Mozambique | 2026-08-06 |
 | National innovation and research funding programme | A science ministry or Council of Ministers instrument establishing a research or innovation fund, with an appropriation line; the base carries the artificial-intelligence commission's mandate to opine on funding but names no fund, programme or amount | 2026-08-06 |
 | Start-up act | A start-up or innovation statute, or a ministerial statement that none is planned; the base carries no source at all on this subject and no held source names a start-up law, register or qualification regime | 2026-08-06 |
-| National space policy or programme | A Mozambican space-sector policy, or the text of the June 2026 space memorandum; the base holds two signed memoranda with Angola and the earth-station integration, with no domestic instrument behind them | 2026-08-06 |
-| Municipal revenue and property-tax management system | A municipal finance or inspectorate report naming the software used for municipal revenue collection; nothing is held, and the base's only revenue-system content is national | 2026-08-06 |
+| National space policy or programme | A Mozambican space-sector policy, or the text of the June 2026 space memorandum; the base holds two signed memoranda with Angola and the earth-station integration, with no domestic instrument behind them; named legal analysts (Abreu Advogados, Jan 2025) confirm no national space strategy or Space Law exists, pegged to the April 2025 African Space Agency inauguration -- corroborates the absence, does not settle it | 2026-08-06 |
 | Government data catalogue and designated data steward | A government decision designating the catalogue host and the data-steward role; the World Bank diagnostic of December 2025 recommends both be designated, which establishes that neither existed, and nothing since | 2026-08-06 |
 | Government-systems integration roadmap | The roadmap itself or a progress statement by the technical commission; the base records the February 2026 commitment to deliver it by mid-2026 and carries nothing on whether it was delivered | 2026-08-06 |
 | Implementing regulations for Law 15/2026 | A central bank notice or Council of Ministers decree issued under the new payments law; the base holds the enactment through secondary accounts and nothing on subordinate instruments | 2026-08-06 |
-| Land cadastre and land-use right registry digitisation | A land administration or ministry statement on cadastre digitisation, or a land-project document later than 2008; the base holds only a 2008 note describing a cumbersome centralised deeds registry | 2026-08-06 |
 | National open data portal | A government-hosted open-data portal or data catalogue with an address and a dataset count, or a dated statement that none exists; the three sources held on this subject name no portal, catalogue or access-to-information instrument | 2026-08-06 |
 | Data Classification Policy | The policy text or a Council of Ministers resolution approving one; the base carries the World Bank's December 2025 recommendation to design one and the minister's April 2026 statement that states must classify their data, but no instrument, draft, timetable or responsible body | 2026-08-06 |
 | Financial education programme under the financial inclusion strategy | The strategy text or its financial-education work plan; the base carries only the launch report's summary that financial literacy will be promoted, especially in rural areas, with no programme name, budget, delivery agency or target | 2026-08-06 |
@@ -366,7 +381,6 @@ The investment portfolio changed by one instrument across the window: the Europe
 | National compute capacity plan for artificial-intelligence workloads | A ministry or agency plan responding to the minister's own statement of 2026-07-28 that current infrastructure cannot support more advanced models; no plan, budget or procurement is held | 2026-08-06 |
 | Published national internet penetration figure | A national statistical or regulator series; the base carries only third-party estimates — close to 80% offline (GSMA, 2026-07), 21.2% (ITU, cited 2026-07) and 23.2% (DataReportal, 2024) — and no Mozambican official figure | 2026-08-06 |
 | Critical information infrastructure register | The designation instrument made under the Cyber Security Law; compliance with the cloud and radio-centre regulations is stated to be mandatory for operators of critical infrastructure, and which operators those are is nowhere established | 2026-08-06 |
-| Grid supply arrangements for data centres and telecom sites | A utility or ministry statement on supply to digital infrastructure; the base carries only facility-level descriptions and no generation, outage or industrial-tariff figure | 2026-08-06 |
 | Power and resilience requirements of the data-centre regulation | The regulation text or its technical annexes; the base carries the consultation summary, which names insurance, infrastructure rules and incentives, and says nothing about power, resilience or efficiency requirements | 2026-08-06 |
 
 <!-- narrative: gaps -->
