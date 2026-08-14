@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: UGA
 ledger_rows: 48
 not_held: 16
-record: 1731279c468d
+record: 8e7c53147ee2
 ---
 
 # Uganda: monthly update, July 2026
@@ -39,7 +39,7 @@ The Namanve colocation facility is operating with no Uganda capacity figure publ
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
-The largest operator's 2025 sustainability report puts [45% of network sites on solar or hydro, with a 490 kWh solar plant commissioned at headquarters](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). The figures are the company's own and unaudited, and no prior-year share is held against which to read the 45%.
+The largest operator's 2025 sustainability report puts [45% of network sites on solar or hydro, with a 490 kWh solar plant commissioned at headquarters](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). The [figures are the company's own and unaudited](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf), and no prior-year share is held against which to read that share.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -82,7 +82,7 @@ The regulator issued a [public notice on 7 July opening nationwide enforcement a
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The ICT ministry [states a device-tax-cut paper is ready for cabinet before the end of the quarter](https://www.newvision.co.ug/category/business/ict-ministry-communication-stakeholders-call-NV_238288_082026). The proposals behind it would take excise duty on data and airtime from 12% to 5% and VAT on mobile data from 18% to 14%, with duty relief on entry-level handsets; no measure is adopted and the study itself is not held.
+The ICT ministry [states a device-tax-cut paper is ready for cabinet before the end of the quarter](https://www.newvision.co.ug/category/business/ict-ministry-communication-stakeholders-call-NV_238288_082026). The [proposals behind it would take excise duty on data and airtime from 12% to 5% and VAT on mobile data from 18% to 14%](https://techafricanews.com/2026/06/22/ucc-proposes-major-telecom-tax-cuts-to-boost-ugandas-digital-economy/), with duty relief on entry-level handsets; no measure is adopted and the study itself is not held.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -127,7 +127,7 @@ Three innovation programmes were opened or closed. The ICT institute [launched t
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
-The United States health-data memorandum is now held, and it is not the instrument the reporting describes. The signed text [caps the arrangement at seven years, places it under joint steering-committee governance with Uganda as data owner, binds all activity to the Data Protection and Privacy Act and the national data-governance framework, and has Uganda approve the health information architecture before any United States-financed investment](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf); planned support is US$1,719,960,000 against Uganda's US$577,001,796, including US$113,102,289 for data systems. It provides only for a future data-sharing agreement. A [news organisation reported on 23 July that it had reviewed that agreement directly and that it grants direct, real-time login access to nine of Uganda's health data systems for seven years](https://www.propublica.org/article/trump-state-department-africa-uganda-aid-medical-data-privacy). The two accounts describe different instruments rather than contradicting each other; the agreement's own text is unpublished and not held, and no Ugandan or United States primary has confirmed or denied the account.
+The United States health-data memorandum is now held, and it is not the instrument the reporting describes. The signed text [caps the arrangement at seven years, places it under joint steering-committee governance with Uganda as data owner, binds all activity to the Data Protection and Privacy Act and the national data-governance framework, and has Uganda approve the health information architecture before any United States-financed investment](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf); [planned support is US$1,719,960,000 against Uganda's US$577,001,796, including US$113,102,289 for data systems](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf). It provides only for a future data-sharing agreement. A [news organisation reported on 23 July that it had reviewed that agreement directly and that it grants direct, real-time login access to nine of Uganda's health data systems for seven years](https://www.propublica.org/article/trump-state-department-africa-uganda-aid-medical-data-privacy). The two accounts describe different instruments rather than contradicting each other; the agreement's own text is unpublished and not held, and no Ugandan or United States primary has confirmed or denied the account.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -147,7 +147,7 @@ An [ICT hub for persons with disabilities was commissioned in Kasese](https://ni
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-The state ICT institute reports [48,448 people trained in the financial year: 36,332 citizens, 1,932 government officers, 1,207 educators and instructors and 8,977 in immersive and emerging-technology skills](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), with 65 certified trainers produced. The figures are self-reported and unaudited, and fewer than 4% of those trained were government officers.
+The state ICT institute reports [48,448 people trained in the financial year: 36,332 citizens, 1,932 government officers, 1,207 educators and instructors and 8,977 in immersive and emerging-technology skills](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), with 65 certified trainers produced. The figures are self-reported and unaudited, and [fewer than 4% of those trained were government officers](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/).
 <!-- /narrative -->
 
 ## Finance
