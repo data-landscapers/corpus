@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: NAM
 ledger_rows: 45
 not_held: 12
-record: 5294acaffb3d
+record: fe3313fee50f
 ---
 
 # Namibia: monthly update, July 2026
@@ -32,7 +32,7 @@ On 30 July the ministry, the regulator and three operators met the traditional a
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-_(narrative not yet written)_
+A vendor is building smart-city solutions and a data centre with the ICT and home affairs ministries, and [China committed CNY 98,000,000, given as about US$14.4m](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m). No signed agreement, annexure or contractor list is held, and an [opposition member puts the same commitment at N$245m](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/) with no dated conversion between the two.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -61,7 +61,7 @@ The payments association's annual general meeting on 28 July also heard that lic
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-_(narrative not yet written)_
+The business and intellectual property authority [offers online name search, name reservation and application-status verification](https://www.bipa.na/), with no transaction or uptake figure published and no publication date on the capture. The civil registration statute is unchanged and was [read by officials on 25 July as permitting institutions to accept either the physical card or its digital version, with disclosure conditional on the holder's consent](https://informante.web.na/?p=398234). Its [commencement date is not established](https://namiblii.org/akn/na/act/2024/13/eng@2024-12-30) and the held record summarises rather than reproduces it.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
@@ -71,12 +71,12 @@ The health ministry held national training at Swakopmund in the week to 29 July 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-
+Legally recognised electronic signatures have [no launch on record, the February 2026 nationwide target having passed](https://itweb.africa/article/ai-abuse-overshadows-namibias-e-signature-drive/P3gQ2qGAR157nRD1), with accreditation of service providers still under way. The capability is now [described instead as a component of the September 2026 identity card](https://informante.web.na/?p=398234) — a target absorbed into another target.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-
+Windhoek's council [adopted a ten-year smart-city strategy on 15 June, handed over with UN-Habitat and a United Nations cities accelerator](https://observer24.com.na/cow-eyes-digital-makeover-with-rail-fibre-and-smart-city-push/). The named projects are commercialisation of the city's own fibre network as a digital backbone and a proposed commuter rail linking Windhoek, Katutura and Rehoboth. No funding requirement, implementation timetable or institutional owner is published, and the [Chinese contribution to the pilot drew a parliamentary question about who controls the data](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/).
 <!-- /narrative -->
 ### National statistics
 
@@ -86,7 +86,7 @@ At the inaugural statistics awareness day at Gobabis on 27 July the central bank
 ### Use of satellite data
 
 <!-- narrative: dpi--data-satellite -->
-
+China [handed over a satellite data-receiving ground station at the earth station outside Windhoek, Namibia's first, receiving remote-sensing data and operated by fourteen trained Namibians](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj). The handover date is inferred from a weekday named in a report published the next day, and no operating agreement, data-sharing term or ownership arrangement is held.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -126,7 +126,7 @@ The President met a vendor's executives in Shenzhen on 7 July and urged the comp
 ### India activities
 
 <!-- narrative: ai-tech--geopol-india -->
-
+A [five-node high-performance computing cluster is specified for deployment at the science and technology university in Windhoek — 17.7 TF peak, 5,320 cores, 480 GB memory and 100 TB of storage](https://inceit.nust.na/param-hpc) under the India-Namibia centre of excellence. No operator, cost or opening date is published. It is a university research cluster and not the national high-performance computing facility the gaps register still seeks; the source itself warns against conflating the two.
 <!-- /narrative -->
 
 ## Inclusion and capacity
