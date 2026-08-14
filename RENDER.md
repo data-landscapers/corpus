@@ -47,7 +47,7 @@ Durable path (do later): in `scripts/render.py`, `scripts/home.py`, `scripts/cou
 
 ## Step 2 — render every report to HTML + PDF
 
-`render.py` takes one markdown file and writes HTML + PDF into `site/reports/…`. Loop it over every report document.
+`render.py` takes one markdown file and writes HTML + PDF into `site/reports/…`. Loop it over every report document. *(2026-08-14: the output tree is now taken from the source path, not hardcoded — a document under `outputs/topics/` renders to `site/topics/`. Nothing changes for the unit reports.)*
 
 **Render everything. RENDER does not judge its input** *(Bill, 2026-08-13)*. Whether a document is fit to publish is BUILD's responsibility — BUILD.md § Narrative integrity — and a render that second-guesses it is a second, weaker copy of that judgement in the wrong place.
 
@@ -62,7 +62,9 @@ done
 present=$(find upstream/reports -name '*.md' | wc -l)
 echo "rendered $rendered of $present report documents ($failed failed)"
 if [ "$rendered" -ne "$present" ]; then
-  echo "RENDER ABORT: $((present - rendered)) document(s) matched no pattern above — do not deploy"
+  echo "RENDER ABORT: $((present - rendered)) document(s) did not render — do not deploy"
+  [ "$failed" -gt 0 ] && echo "  $failed failed in render.py (see RENDER FAIL above)"
+  echo "  and any listed below matched no pattern in the loop:"
   find upstream/reports -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
 fi
 ```
