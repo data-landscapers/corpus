@@ -1,15 +1,16 @@
 ---
 title: Somalia — monthly update, July 2026
-compiled: 2026-08-09
-period: 2026-07-01 to 2026-08-09
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: SOM
-ledger_rows: 12
+ledger_rows: 13
 not_held: 10
+record: fbb3c8e5b113
 ---
 
 # Somalia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-09 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -32,13 +33,16 @@ The National Communications Authority [launched a National Cybersecurity Risk Ma
 <!-- narrative: dpi--dpi-id -->
 Cabinet [approved a third-generation e-passport plan on 6 August](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/). No issuance date is published, and it follows the clearance in February to adopt and print the East African Community e-passport.
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 On 26 July the Central Bank set out how the instant payment system is to reach the whole market: [14 commercial banks and eight mobile money and e-wallet providers once integration completes, on ISO 20022, carrying person-to-person, merchant, government-to-person and person-to-government flows, with business-facing services still in development](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network). The system is operated by the Somalia Payment Switch, a joint venture of the Central Bank and 13 commercial banks, which the Governor described as a deliberate choice over central-bank-run infrastructure. One commitment is stated and undelivered: mobile money integration carries no published date.
 <!-- /narrative -->
+### Other GovTech and e-Gov
 
+<!-- narrative: dpi--dpi-govtech -->
+
+<!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
@@ -52,7 +56,6 @@ Hirshabelle put [tariff-loaded card terminals at its border checkpoints, reporte
 <!-- narrative: governance--gov-regional -->
 The connection to the Pan-African Payment and Settlement System is [a target for before the end of 2026 rather than a concluded arrangement](https://www.hiiraan.com/news4/2026/Jul/205808/somalia_to_expand_instant_payment_system_linking_banks_and_mobile_money_platform.aspx).
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -66,7 +69,6 @@ The communications minister restated on 22 July the request that Meta [delay the
 <!-- narrative: ai-tech--tech-ai -->
 The Somali National University [launched an AI centre on 20 July](https://techafricanews.com/2026/07/20/somali-national-university-launches-ai-centre-to-advance-research-and-digital-innovation/) for research and digital skills. No funding, staffing or research programme is stated, and the country still holds no national artificial intelligence policy of any kind.
 <!-- /narrative -->
-
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
@@ -82,15 +84,8 @@ A national startup network was [launched at the innovation forum in Mogadishu on
 <!-- narrative: inclusion--capacity-training -->
 In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the base carries no earlier position for it.
 <!-- /narrative -->
-
 ### Research institutions
 
 <!-- narrative: inclusion--capacity-research -->
 The Somali National Bureau of Statistics closed a three-day technical workshop on 30 July under a [university research partnership, training researchers from three partner universities in methodology, statistical analysis and scientific writing, and in working with the bureau's own household budget and labour force microdata](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/). It is a pilot funded by the Swiss development agency with no amount stated. What it implies about the constraint is the substantive part: official statistics exist and are being offered to domestic researchers, which puts the limit on evidence-based policy at national analytical capacity rather than at data collection.
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

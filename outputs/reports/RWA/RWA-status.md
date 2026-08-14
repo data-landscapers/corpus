@@ -1,14 +1,15 @@
 ---
 title: Rwanda — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: RWA
-ledger_rows: 87
+ledger_rows: 89
 not_held: 9
+record: 6731e9244230
 ---
 
 # Rwanda: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/RWA/ledger.csv` (87 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/RWA/ledger.csv` (89 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -22,7 +23,7 @@ Rwanda runs one national instant payment rail carrying every domestic interopera
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Country partnership framework | [Planned](https://www.ktpress.rw/2026/07/world-bank-poised-to-roll-out-new-9-year-rwanda-financing-framework/) | Prepared, not formally launched |
 | Cross-border terrestrial fibre route | [Implemented](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn) | Switched on 2026-02-09 |
@@ -39,7 +40,7 @@ Rwanda runs one national instant payment rail carrying every domestic interopera
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data centre and cloud service directives | [Implemented](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf) | Issued 2023, dated only by the ministry's sector plan |
 | Data centre memorandum with a Gulf operator | [Planned](https://techafricanews.com/2026/05/29/broadband-systems-and-oman-data-park-sign-deal-to-expand-rwandas-digital-infrastructure/) | Memorandum signed 2026-05-29 |
@@ -49,20 +50,20 @@ Rwanda runs one national instant payment rail carrying every domestic interopera
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-centre water policy | ***Not held*** | No instrument identified; an analyst calls for early planning |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Institute of computing | [In development](https://www.newtimes.co.rw/article/37884/news/technology/five-things-to-know-about-upcoming-rwanda-institute-of-computing) | Cabinet approved 2026-07-24, opening September 2026 |
 | Sovereign AI compute | ***Not held*** | No national accelerator cluster or sovereign AI cloud named |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric SIM registration regulation | [Implemented](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Regulatory_Instruments/ICT_Regulations_and_Guidelines/Regulation_Governing_SIM_Card_Registration_in_Rwanda.pdf) | Issued August 2024, pilot September 2024 |
 | Cyber security centre of excellence | [Implemented](https://itweb.africa/article/rwanda-unveils-cyber-security-centre-of-excellence/kLgB17ez2x4M59N4) | Inaugurated 2025-10-02 |
@@ -81,7 +82,7 @@ A hyperscaler hybrid-cloud deployment went live in April 2026, with deployment c
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data-sharing platform | [In development](https://www.newtimes.co.rw/article/30040/news/technology/govt-moves-ahead-with-data-sharing-platform-to-go-live-in-2026) | Phased for 2025 to 2026, with no go-live announced |
 | National data-sharing policy | [Implemented](https://cenfri.org/articles/introduction-to-the-rwanda-national-data-sharing-policy-2/) | Approved 2025, open by default with a safe-access framework |
@@ -89,14 +90,15 @@ A hyperscaler hybrid-cloud deployment went live in April 2026, with deployment c
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Consent and access-log layer | [In development](https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/) | Described as the consent and access-log layer, with no go-live stated |
+| Imibereho social registry | [Implemented](https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024) | Appeals process reported on, 3 August 2026 |
 | Single digital identity | [In development, nationwide enrolment under way](https://www.biometricupdate.com/202606/rwanda-accelerates-biometric-enrollment-ahead-of-digital-id-switch) | Nationwide registration launched 2025-08-07 |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bank and mobile-money credit product | [Implemented](https://taarifa.rw/2026/08/02/bpr-bank-rwanda-and-mtn-momo-rwanda-launch-mofaya-digital-loan-and-savings-solution) | Launched 2026-08-02 |
 | Cross-border payment corridor pilot | [Piloting](https://www.burunditimes.com/new-rwanda-tanzania-payment-pilot-could-transform-trade-across-east-africa/) | A proof of concept advanced at a technical meeting, no launch date |
@@ -105,7 +107,7 @@ A hyperscaler hybrid-cloud deployment went live in April 2026, with deployment c
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Business registration platform | [Implemented](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/) | Registration moved entirely online January 2026 |
 | District land correction exercise | [Implemented](https://realrwanda.rw/en/kayonza-land-correction-drive-issues-over-28000-titles-cuts-boundary-wrangles) | Concluded 2026-06-17 |
@@ -113,7 +115,7 @@ A hyperscaler hybrid-cloud deployment went live in April 2026, with deployment c
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | e-Tracker electronic immunization registry | [Implemented](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full) | MoH directive of October 2022 mandated the end of paper immunization records; DHIS2-based registry phased in September 2019 to January 2020 across 500+ facilities, integrated with CRVS/NIDA in early 2022 |
 | National electronic medical record | [Planned](https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care) | A blueprint from one hospital build, with no rollout date |
@@ -121,21 +123,22 @@ A hyperscaler hybrid-cloud deployment went live in April 2026, with deployment c
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic billing machine as an export | [Implemented](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy) | Two neighbours adopted, a third mid-adoption |
 | Electronic procurement platform as an export | [Implemented](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy) | One state adopting and co-developing |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Local-government citizen platform | [Piloting](https://www.newtimes.co.rw/article/30507/news/technology/govt-developing-new-digital-system-to-enhance-public-service-delivery) | A capital-city trial opened 2026-01-27 |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
+| National satellite data programme (Planet) | [Implemented](https://itweb.africa/article/planet-and-the-government-of-rwanda-launch-first-of-its-kind-national-satellite-data-program-in-africa/nWJadMbNDxlMbjO1) | Launched with Planet Labs, announced 10 August 2026 |
 | Space programme appropriation | ***Not held*** | The last held record is the 2024/25 appropriation |
 
 <!-- narrative: dpi -->
@@ -150,7 +153,7 @@ The exchange layer is the gap the country's own analysts name most often. A nati
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central bank regulatory sandbox | [Implemented](https://anjolaadebowale.substack.com/p/strategy-ahead-of-infrastructure) | Established 2022 |
 | Draft law on virtual assets | [In development](https://techafricanews.com/2026/04/01/parliament-approves-draft-law-on-virtual-assets-as-rwanda-strengthens-digital-finance-rules/) | The lower house approved the rationale 2026-04-01 |
@@ -158,7 +161,7 @@ The exchange layer is the gap the country's own analysts name most often. A nati
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ICT sector strategic plan | [Implemented](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf) | Replaced the 2018 to 2024 plan, covering 2024/25 to 2028/29 |
 | Legacy-network retirement plan | [Planned](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027) | The government approved a phased retirement plan |
@@ -170,21 +173,21 @@ The exchange layer is the gap the country's own analysts name most often. A nati
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral licence passporting memorandum | [Implemented, text unpublished](https://www.bog.gov.gh/wp-content/uploads/2025/02/PRESS-RELEASE-GHANA-AND-RWANDA-SIGN-A-MEMORANDUM-OF-UNDERSTANDING-MOU.pdf) | Signed February 2025 |
 | COMESA regional AI framework | [Planned](https://rwandainspirer.com/rwanda-highlights-ai-policy-progress-as-comesa-seeks-regional-framework/) | Kigali country consultations held 2026-08-03 under COMESA's IDEA Programme |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cross-border data-exchange conformance | [Piloting](https://techreviewafrica.com/news/5165/) | The capital hosted a technical assessment mission April 2026 |
 | Electronic-government interoperability framework | [Implemented, functional equivalent held](https://dr.ur.ac.rw/handle/123456789/1229) | Rwanda Government-wide Enterprise Architecture Framework (RGEA) v2.1 document acquired (excerpt) |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data protection and privacy law | [Implemented](https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors) | A two-year grace period ended 2023-10-15 |
 | Data-protection supervisory authority | [Implemented](https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors) | Named supervisory authority under the 2021 law |
@@ -192,19 +195,19 @@ The exchange layer is the gap the country's own analysts name most often. A nati
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Internet governance forum | [Implemented](https://rwandainspirer.com/digital-trust-and-ai-oversight-dominate-discussions-at-rwanda-internet-governance-forum/) | The 2026 edition convened 2026-07-30 |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European adequacy decision | ***Not held*** | None sought or granted |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open-data portal or policy | ***Not held*** | No portal, catalogue or policy on file |
 
@@ -220,7 +223,7 @@ A development agency reported in July 2026, from engagements run to March 2026, 
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral AI memorandum with a North African state | [Implemented, signed](https://techafricanews.com/2026/07/10/rwanda-and-egypt-deepen-ai-cooperation-with-new-digital-partnership/) | Signed at a UN summit 2026-07-10 |
 | Continental AI declaration | [Implemented, non-binding](https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf) | Adopted in the capital April 2025 |
@@ -234,7 +237,7 @@ A development agency reported in July 2026, from engagements run to March 2026, 
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Development bank venture debt fund | [In development, not closed](https://techcabal.com/2026/08/03/rwanda-debt-6-million/) | No commitment or approval date given |
 | Financial technology centre | [Implemented](https://itweb.africa/article/rwandas-fintech-centre-sets-the-stage-for-growth/mYZRX79gzjLqOgA8) | Inaugurated 2026-03-12 |
@@ -243,13 +246,13 @@ A development agency reported in July 2026, from engagements run to March 2026, 
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral technology instrument with China | ***Not held*** | An exploratory ambassadorial meeting, January 2026 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian-origin technology investment | [Planned, corporate projection only](https://www.datacenterdynamics.com/en/marketwatch/nxtra-airtels-leap-into-africas-growing-data-center-market) | Named as a future edge site, December 2024 |
 
@@ -265,28 +268,28 @@ The continental instruments Rwanda hosts have not converted into delivery. A dec
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Smart-device affordability fund | [In development](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026) | Design stage, market assessment pending |
 | Universal access or service fund | [Implemented](https://www.minict.gov.rw/index.php?eID=dumpFile&f=71170&t=f&token=b823ce70150c2240be4a87269bc40c9b8a997ef1) | Presidential order gazetted 2023-05-15, repealing the 2004 order |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital ambassador programme | [Implemented, financing phase concluded](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) | The financing phase concluded May 2026 |
 | National AI literacy teacher programme | [Implemented, first phase](https://www.linkedin.com/pulse/africas-biggest-ai-risk-isnt-being-left-behind-its-misread-njila-3zj4c/) | A first phase reported complete at end-2025 |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Coding academy | [Implemented](https://www.minecofin.gov.rw/news-detail/rwanda-coding-academy-receives-frw-71-billion-support-from-koica) | A record of discussion signed September 2021 |
 | Inclusive digital transformation centre | [Implemented](https://www.cmu.edu/news/stories/archives/2022/september/carnegie-mellon-university-and-mastercard-foundation-partner-to-drive-youth-led-digital) | A foundation partnership signed 2022 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Continental research and education partnership | [Implemented](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) | A grant of about US$9m from 2022 to 2027 |
 
@@ -302,7 +305,7 @@ A digital-ambassador programme concluded its financing phase in May 2026 having 
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital acceleration project, inclusion components | [Implemented](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026) | An authority briefing to Parliament 2025-07-07 |
 | Regional bank digital acceleration operation | [Implemented](https://www.aiib.org/en/projects/details/2021/approved/Rwanda-Digital-Acceleration-Project-Digital-Investment-for-Recovery-Resilience-and-Connectivity.html) | Board approval 2021, period 2022 to 2026 |

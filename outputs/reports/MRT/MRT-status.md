@@ -1,14 +1,15 @@
 ---
 title: Mauritania — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: MRT
-ledger_rows: 56
+ledger_rows: 57
 not_held: 4
+record: 35fbfe5f054f
 ---
 
 # Mauritania: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/MRT/ledger.csv` (56 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/MRT/ledger.csv` (57 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,9 +27,9 @@ Delivery is measured where it is measured at all, and the most useful figure in 
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
-| 5G licences | [Implemented](https://techafricanews.com/2026/04/15/mauritania-advances-5g-rollout-as-regulator-names-provisional-winners-for-national-licences/) | All four bidders named provisional winners by the regulator, April 2026 |
+| 5G licences | [Implemented](https://lequotidien.mr/?p=39791) | Chinguitel launched the first commercial 5G network, Nouakchott, 10 August 2026 |
 | ACE submarine cable landing | [Implemented](https://www.agenceecofin.com/actualites-numerique/0505-138141-internet-la-mauritanie-amorce-le-deploiement-de-son-deuxieme-cable-sous-marin) | Sole international cable since 2011 |
 | Chinguitel network modernisation | [Implemented](https://techafricanews.com/2025/11/13/chinguitel-and-huawei-complete-major-network-modernization-across-mauritania/) | Full modernisation completed in Nouakchott with Huawei |
 | EllaLink second submarine cable | [In development](https://ami.mr/fr/archives/294524) | Phase-1 coastal landing completed at Nouadhibou |
@@ -39,21 +40,21 @@ Delivery is measured where it is measured at all, and the most useful figure in 
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National cloud platform | [Implemented](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty) | Launched 29 June 2026 at the Nouakchott National Data Center |
 | Nouakchott Tier III national data centre | [Implemented](https://www.eib.org/en/press/all/2025-202-inauguration-du-centre-d-hebergement-de-donnees-numeriques-de-nouakchott) | Inaugurated 8 May 2025, EUR 15m EIB-financed and Uptime-certified |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | SOMELEC digital-transformation programme | [In development](https://somelec.mr/sites/default/files/PPPM%20EXERCICE%202024%20revision%2004-12-2024%20pour%20publication.pdf) | FY2024 procurement plan (revised 4 December 2024) itemises a data-centre fit-out, an ERP/CRM system and smart-metering and dispatch studies, each with a target completion date |
 | Power supply to network sites and the data centre | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central Bank digital reputation protection platform | [Implemented](https://elvetach.info/archives/212723) | Detection figures for the first half of 2026 reported by PAFIID |
 | National computer emergency response team | [Planned](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) | Provided for under the 2022-2025 cybersecurity strategy; nothing on record built |
@@ -75,13 +76,13 @@ SOMELEC's [FY2024 procurement plan](https://somelec.mr/sites/default/files/PPPM%
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data management system | [In development](https://www.ami.mr/archives/265184) | Two-day workshop opened on data governance and blockchain, 27 July 2026 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric SIM identification | [Implemented](https://www.ecofinagency.com/news-digital/1601-51999-mauritania-steps-up-pressure-on-telecom-operators-over-biometric-identification) | Formal notices issued to the three operators, January 2026 |
 | Houwiyeti digital identity application | [Implemented](https://techrek.info/1-5-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%85%d8%b3%d8%aa%d9%81%d9%8a%d8%af-%d9%85%d9%86-%d9%87%d9%88%d9%8a%d8%aa%d9%8a-%d9%85%d8%a4%d8%b4%d8%b1%d8%a7%d8%aa-%d8%aa%d9%83%d8%b4%d9%81/) | Usage indicators reported by ANRPTS at a June 2026 seminar |
@@ -90,26 +91,26 @@ SOMELEC's [FY2024 procurement plan](https://somelec.mr/sites/default/files/PPPM%
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | PAMIF financial infrastructure modernisation | [Implemented](https://www.afdb.org/en/success-stories/mauritania-finance-track-modern-age-92328) | Telecompensation, real-time settlement and automated refinancing reported delivered |
 | Tax on electronic transactions | [Implemented](https://invest-time.com/2026/01/17/mauritanie-budget-2026-taxe-electro/) | Introduced by the 2026 finance law |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Unified digital consular registry | [Implemented](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/) | Live for the Riyadh mission's zone of competence |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Education certificate service on Houwiyeti | [Implemented](https://ami.mr/fr/archives/276019) | Launched for extraction and confirmation of national education certificates |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital consular services platform | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad) | Launched 9 July 2026 with a first phase of nine online services |
 | Electronic invoicing for public institutions | [Planned](https://www.ami.mr/archives/265398) | Announced by the Finance Minister, 30 July 2026 |
@@ -120,14 +121,15 @@ SOMELEC's [FY2024 procurement plan](https://somelec.mr/sites/default/files/PPPM%
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Municipal or regional digital services | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
+| Fifth general population and housing census | [Implemented](https://www.ami.mr/archives/265803) | Final regional results presented from 3 August 2026 |
 | National Youth Empowerment Index | [Implemented](https://lequotidien.mr/?p=39456&lang=fr) | Reference document presented at a Nouakchott workshop, 29 July 2026 |
 
 <!-- narrative: dpi -->
@@ -146,7 +148,7 @@ Payments carry a delivered programme and a new levy. [PAMIF](https://www.afdb.or
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ANETA state digital agency proposal | [Planned](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf) | Named 'Agence Numérique de l'État' (AN-État) and proposed as national interoperability operator in a June 2023 strategy, reviving a 2021 UNDP proposal |
 | Startup Act | [Enacted](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf) | Loi n° 2024-002 P.R relative aux start-ups technologiques et innovantes promulgated 2 January 2024 |
@@ -154,33 +156,33 @@ Payments carry a delivered programme and a new levy. [PAMIF](https://www.afdb.or
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Digital Transformation Agenda 2022-2025 | [Implemented, period expired](https://businessfocus.org.uk/setting-the-agenda-for-digital-transformation/) | Four axes set out by the digital minister; the period has since ended |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Senegal-Mauritania digital cooperation memorandum | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-and-mauritania-sign-mou-to-deepen-digital-cooperation) | Signed January 2025 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National framework for public digital service standards | [In development](https://techafricanews.com/2026/03/27/mauritania-moves-to-standardize-public-digital-services-with-national-framework-initiative/) | Three-day standards and interoperability workshop run by the digital ministry |
 | National IPv6 transition strategy | [Implemented](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf) | A 68-page strategy targeting 25% adoption by 2026, with a national committee |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data protection authority | [Implemented](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) | Operating under a 2023-2026 plan, per a reference guide |
 | Data protection law and enforcement record | [Implemented](https://www.apd.mr/fr/wp-content/uploads/2023/10/Loi-2017-020-sur-la-protection-des-donnees-a-caractere-personnel.pdf) | Loi n° 2017-020 in force since 22 July 2017; the authority reports monthly meetings and sector sensitisation days through May 2026 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open data portal | [Implemented, thin](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) | National open-data strategy published, June 2023, naming the existing portal and proposing a governance overhaul |
 
@@ -198,31 +200,31 @@ Regionally, the [memorandum with Senegal](https://www.wearetech.africa/en/fils-u
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI Strategy 2025-2029 | [Implemented](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) | Recorded by a reference guide; the text is not held |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mobile operator market | [Implemented](https://techafricanews.com/2026/04/15/mauritania-advances-5g-rollout-as-regulator-names-provisional-winners-for-national-licences/) | A fourth operator entered at the 5G award |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | IBTIKAR technology park | ***Not held*** | — |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Urban security system | [Implemented](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm) | Chinese government grant of MUR 629.4m through ETCA |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Oman digital cooperation agreement | [Implemented](https://lequotidien.mr/?p=39490) | Cooperation agreement and memoranda signed at the close of the Nouakchott forum |
 
@@ -236,19 +238,19 @@ The market changed shape in April 2026, when a [fourth operator was licensed](ht
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital literacy measurement | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Youth digital employability programme | [Implemented](https://www.ami.mr/archives/264918) | Launched for 2,150 beneficiaries across six cities, 23 July 2026 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital or data research programme | [Implemented, period expired](https://prs-mesrs.gov.mr/calcul-scientifique-informatique-et-data-sciences-2/) | CNESRS-accredited under arrêté 183 (17 February 2022) for May 2021 to May 2024; no renewal is on record |
 
@@ -262,7 +264,7 @@ Access is measured by reference studies, cited and not absorbed here. [DataRepor
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital-Y German cooperation project | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202322394%22) | Supporting the public digital service standards framework |
 | EIB COVID-19 resilience submarine cable financing | [Implemented](https://www.eib.org/en/projects/all/20190635) | Committed in 2020 |
@@ -272,7 +274,7 @@ Access is measured by reference studies, cited and not absorbed here. [DataRepor
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Islamic Development Bank digital financing | [Planned](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal) | Agreement in principle for US$50m, 14 April 2026 |
 

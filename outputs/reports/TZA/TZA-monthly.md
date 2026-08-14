@@ -1,15 +1,16 @@
 ---
 title: Tanzania — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: TZA
-ledger_rows: 26
-not_held: 14
+ledger_rows: 48
+not_held: 13
+record: e9eb457bcc42
 ---
 
 # Tanzania: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -30,17 +31,20 @@ The minister inspected the national backbone at Mpwapwa on 24 July. The network 
 
 On 29 July the Kenyan and Tanzanian ministers [launched a terrestrial fibre link across the border, integrating the national backbone with submarine cable capacity](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/). No capacity, cost or financing was stated, and the base does not reconcile it against the 2025 connection on the route.
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
 A data-centre group named its Tanzanian site as under development while raising [committed capital from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/), giving no Tanzanian size, cost or date.
 <!-- /narrative -->
-
 ### Technical Capacity
 
 <!-- narrative: infrastructure--infra-capacity -->
 The state operator [gave students of a technical institute hands-on training on backbone technologies](https://techafricanews.com/2026/07/23/ttcl-equips-dit-students-with-practical-broadband-infrastructure-skills/), reported 23 July with no intake number or cadence.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
+
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -50,7 +54,11 @@ The state operator [gave students of a technical institute hands-on training on 
 <!-- narrative: dpi--dpi-exchange -->
 The public procurement appeals authority [directed all domestic and international bidders to lodge challenges through its online module and announced plans to integrate it with the judiciary's system](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668), reported 31 July, with hearings by video conference already taking cases from bidders in five other countries. No date is attached to the integration.
 <!-- /narrative -->
+### Digital Identity and CRVS
 
+<!-- narrative: dpi--dpi-id -->
+
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -60,19 +68,21 @@ One month in, the price of using the rails became the argument. On 31 July the c
 
 A technical meeting in Zanzibar from 7 to 11 July [advanced the governance, commercial and risk frameworks for a cross-border instant-payment corridor with Rwanda](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374). No launch date was set.
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 At an agricultural exhibition on 4 August the e-government agency stated that [more than 6,000 cooperative societies are registered](https://dailynews.co.tz/ega-drives-digital-farming/) on its management system. No user counts, spend or timeline were given.
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 At the same exhibition the agency described a farmer-records and permits system and a fertiliser monitoring system, with no user counts, spend or timeline given.
 <!-- /narrative -->
+### Other GovTech and e-Gov
 
+<!-- narrative: dpi--dpi-govtech -->
+
+<!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
@@ -86,7 +96,6 @@ _(narrative not yet written)_
 <!-- narrative: governance--gov-policy -->
 At a university health conference on 31 July the government stated [three requirements: that health data be stored inside Tanzania, that healthcare AI systems be approved by the relevant authorities, and that local capacity to build them be developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208). No instrument and no approving authority was named, and a dedicated regulator was called for from the floor rather than announced.
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -107,12 +116,16 @@ Three deployments were reported. A cardiac institute stated on 16 July that its 
 
 ## Inclusion and capacity
 
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+
+<!-- /narrative -->
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->

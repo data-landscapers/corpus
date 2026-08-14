@@ -1,19 +1,20 @@
 ---
-title: Tanzania — progress report, 2025-08-01 to 2026-08-06
-compiled: 2026-08-10
-period: 2025-08-01 to 2026-08-06
+title: Tanzania — progress report, 2025-08-01 to 2026-08-14
+compiled: 2026-08-14
+period: 2025-08-01 to 2026-08-14
 place: TZA
-ledger_rows: 116
+ledger_rows: 119
 not_held: 13
+record: ed3d8771373b
 ---
 
-# Tanzania: progress report, 2025-08-01 to 2026-08-06
+# Tanzania: progress report, 2025-08-01 to 2026-08-14
 
-*Compiled 2026-08-10 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 116 systems and instruments on this place's ledger, 57 changed position between 2025-08-01 and 2026-08-06, 19 did not, 27 carry no stated baseline, and 13 are ***Not held*** at both ends.*
+*Of 119 systems and instruments on this place's ledger, 59 changed position between 2025-08-01 and 2026-08-14, 19 did not, 28 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 140 sources for this place in the window — 34 in the earlier half (2025-08 to 2026-02), 106 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 143 sources for this place in the window — 34 in the earlier half (2025-08 to 2026-02), 109 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -31,9 +32,10 @@ Two positions worsened on their own measures: [smartphone users fell from 29.8m 
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | 5G deployment | 1,255 5G facilities and 30.13% population coverage (2025-12) | [1,804 facilities on 10,084 towers, 32.83% population coverage and 11.04% geographic, with every region holding at least three base stations](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080) | Advanced |
+| Active mobile subscriptions and penetration | 86.77m active subscriptions, 133.3% penetration (2024) | [106.82m active subscriptions, 156.7% penetration, up 23.1% year on year, the second-highest subscription growth rate among EACO's seven member states after South Sudan's 21.7%](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf) | Advanced |
 | Kenya border terrestrial fibre link | The backbone connected to Mombasa on the same route, with no launched cross-border service | [Launched by both ministers, with the national backbone integrated with submarine cable capacity](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/) | Advanced |
 | Kilimanjaro One submarine cable | Did not exist | [1,900 km from Dar es Salaam to Mauritius with two branches; construction stated from 2026 and completion late 2027](https://dailynews.co.tz/tanzania-unveils-kilimanjaro-one-submarine-cable-system-to-connect-mauritius/) | Advanced |
 | National ICT Broadband Backbone | 13,820 km laid of a 16,280 km planned total at April 2025, 109 of 139 districts, all 111 service delivery points done; TZS 73bn for 2025/26 | [15,167 km at December 2025 at 2,000 Gbps, all mainland regional headquarters and 122 of 139 districts, linked to seven neighbouring countries; in one region 942.5 km built against 65 citizens connected region-wide (2026-07)](https://www.tcra.go.tz/uploads/text-editor/files/MINISTERS%20STATEMENT%20WITSD%202026_1779118337.pdf) | Advanced, uptake stalled |
@@ -47,7 +49,7 @@ Two positions worsened on their own measures: [smartphone users fell from 29.8m 
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | International submarine cables landing | Two (2021-03) | [Three cables on the regulator's count; the minister separately stated four landing stations in July 2026](https://dailynews.co.tz/communications-sector-surges-400pc/) | Advanced |
 | Local cloud exchange platform | Did not exist | [A locally hosted private cloud with in-country data residency, local-currency pricing, carrier-neutral peering and hybrid connections to two global providers](https://dailynews.co.tz/wingu-africa-launches-wcx-in-tanzania/) | Advanced |
@@ -58,14 +60,14 @@ Two positions worsened on their own measures: [smartphone users fell from 29.8m 
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Cyber-skills partnership with South Korea | A partnership announced for digital forensics and misinformation-detection training | [Unchanged; no trainee numbers, cohorts or completion reported since](https://www.mwananchi.co.tz/mw/habari/kitaifa/tanzania-kuongeza-wataalamu-kupambana-na-wadukuzi-mtandaoni-5158368) | No change |
 | Practical backbone training with a technical institute | ***Baseline not held*** | [Students given hands-on training at the operator's headquarters on backbone technologies and operational systems](https://techafricanews.com/2026/07/23/ttcl-equips-dit-students-with-practical-broadband-infrastructure-skills/) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Zanzibar cybersecurity capacity memorandum | Did not exist | [A capacity-building memorandum covering user awareness and specialist skills](https://www.mwananchi.co.tz/mw/zanzibar/wizara-ya-mawasiliano-yawekeza-katika-usalama-wa-mtandao-kuziba-mianya-ya-wahalifu-5492792) | Advanced |
 | ITU Global Cybersecurity Index placement | First tier, top 47 globally | [Unchanged; no later placement is held](https://www.mwananchi.co.tz/mw/habari/kitaifa/kuelekea-uchumi-wa-kidijitali-tanzania-kujiimarisha-usalama-mtandaoni-4998806) | No change |
@@ -84,7 +86,7 @@ Three positions did not move at all: the Mbezi data centre, unchanged since Marc
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Appeals module integration with the judiciary | Did not exist | [Announced, with no date attached](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668) | Advanced |
 | Government enterprise service bus | A prime-ministerial joining deadline of 2025-07-30 just passed, with no compliance count held | [External validation as the basis of the top-tier classification; still no compliance count held](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success) | Advanced |
@@ -94,7 +96,7 @@ Three positions did not move at all: the Mbezi data centre, unchanged since Marc
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Certificate-dispensation window | Did not exist | [Open to October 2026, alongside a turnaround cut to a number in five days and a card in 21 days](https://www.mwananchi.co.tz/mw/habari/kitaifa/waliofukuzwa-kwa-vyeti-feki-kupata-nida-5279344) | Advanced |
 | Database integrations for electronic identity verification | 128 institutions integrated, 71 private and 57 public (2025-04) | [Over 138 public and private institutions integrated across banking, insurance and social security](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) | Advanced |
@@ -110,7 +112,7 @@ Three positions did not move at all: the Mbezi data centre, unchanged since Marc
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Active mobile-money accounts | 63.2m active wallets on the regulator's basis (2024-12) | [75.8m active accounts, up 6.7%, on 6.31bn transactions](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) | Advanced |
 | Cross-border instant-payment corridor with Rwanda | Did not exist: an inaugural meeting had been held in November 2025 | [Frameworks advanced for the first regional cross-border instant-payment corridor; no launch date](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374) | Advanced |
@@ -124,13 +126,14 @@ Three positions did not move at all: the Mbezi data centre, unchanged since Marc
 | Central Electronic Ticketing System | ***Baseline not held*** | [8,126 buses integrated, and more than 21 million passengers ticketed electronically between June 2025 and March 2026](https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/) | ***Baseline not held*** |
 | Fintech regulatory sandbox | ***Baseline not held*** | [35 applications reviewed and five approved for live testing, including a stablecoin cross-border product for tourism](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | ***Baseline not held*** |
 | Licensed payment service providers | ***Baseline not held*** | [113 licensed providers](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/interoperability-costs-cut-while-113-agencies-operate-payments-systems-2026-04-28-111407) | ***Baseline not held*** |
+| M-Wekeza wallet-based investment platform | ***Baseline not held*** | [Launched November 2024 by Vodacom Tanzania with Sanlam Investments East Africa, from TZS 1,000; more than TZS 370bn in customer investments recorded between launch and March 2026, per the operator's results](https://www.telemediamagazine.com/vodacom-lesotho-brings-micro-investing-to-m-pesa-as-africas-mobile-wallets-move-into-wealth/) | ***Baseline not held*** |
 | Participating financial service providers | ***Baseline not held*** | [All 47 participating financial service providers connected](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | ***Baseline not held*** |
 | Retail payment fee caps | ***Baseline not held*** | [Bank-to-wallet interoperability capped at TZS 5,000 above TZS 500,000, single instant transactions and retail bank-to-bank transfers capped at TZS 2,000, card payments at zero, intra-bank transfer charges removed and a Zanzibar card surcharge removed](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380) | ***Baseline not held*** |
 | TANQR national QR payment standard | ***Baseline not held*** | [27 participating financial service providers at end-2025 - 21 banks, half of all banks, five of six mobile network operators and one non-bank aggregator - carrying 86.34 million interoperable merchant transactions worth TZS 6,413.14 billion in 2025, on 11,803 point-of-sale terminals against 9,655 in 2024](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026060211494565.pdf) | ***Baseline not held*** |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Birth registration programme, 2026-2027 | Did not exist | [A partner sought, covering ten districts in three regions](https://www.biometricupdate.com/202606/unicef-seeks-partner-to-expand-birth-registration-legal-identity-in-tanzania) | Advanced |
 | National addressing and postcode system | 85% of Tanzanians reached since the 2022 census, a population rate | [More than 12.9m residential addresses registered, 29 systems interconnected and international certification obtained](https://ippmedia.com/the-guardian/news/local-news/read/tanzania-registers-12-million-housing-addresses-to-boost-digital-governance-2026-02-09-105732) | Advanced, on a non-comparable metric |
@@ -141,27 +144,28 @@ Three positions did not move at all: the Mbezi data centre, unchanged since Marc
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Health management information system | A fragmented ecosystem of eighteen systems, with the platform in all district councils since 2013 carrying over 90% of flows | [Unchanged; no dated update inside the progress window](https://pmc.ncbi.nlm.nih.gov/articles/PMC10617168/) | No change |
 | Agriculture and fertiliser information systems | ***Baseline not held*** | [One system holds farmer records, manages ministry institutions and issues agricultural permits; the other monitors manufacturers, importers and distributors against indicative prices](https://dailynews.co.tz/ega-drives-digital-farming/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| Sovereign Yield Curve system | ***Baseline not held*** | [In service, letting investors track secondary-market government-security returns against domestic and international alternatives before investing; retail participation stands at 32,631 investors against 897 in 2016](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792) | Advanced |
 | GovTech maturity classification | Top group, 26th globally on the 2022 edition, up from 90th in 2021 | [Top group for extensive maturity, second in Africa and leading East Africa](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-joins-global-leaders-in-digital-government-5325056) | No change, tier retained |
 | Public institutions connected under the digital economy framework | ***Baseline not held*** | [660 public institutions connected against a target of 900, with 758 towers on and 304 upgraded](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | ***Baseline not held*** |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Make Kibamba Digital | Did not exist | [A constituency digitalisation strategy opening with the education department's administration, inter-departmental communication, examination coordination and service delivery, marked by 20 computers and two printers valued at TZS 100m donated by a consumer lender; secondary schools stated next and ward offices in phases over three to four years](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047) | Advanced |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Educational cubesat | Did not exist | [A budget line, with no design, launch date, operator or cost broken out](https://www.mwananchi.co.tz/mw/habari/kitaifa/kairuki-aomba-222-5-bilioni-kamati-yaitaja-tcra-5442016) | Advanced |
 
@@ -177,13 +181,13 @@ Two exchange-layer positions are unchanged and one is unmeasured. Jamii X-Change
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Financial consumer protection amendment regulations | In force from 2025-05-23 | [Unchanged; providers must protect consumer financial and personal information in accordance with the data-protection Act](https://kemiadvocates.co.tz/2025/06/27/legal-update-key-highlights-of-the-bank-of-tanzania-financial-consumer-protection-amendment-regulations-gn-no-298-of-2025-date-23-may-2025) | No change |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Election-period internet shutdowns | No restriction in force at 2025-08-01 | [Eight shutdowns recorded across 2025, the highest count of any African state in the monitor's data, and Tanzania listed among three African states that issued satellite shutdown orders](https://www.accessnow.org/internet-shutdowns-2025/) | Closed, no restoration date on file |
 | Health-data localisation and approval conditions for AI | Did not exist | [Three stated requirements: health data stored inside Tanzania, healthcare AI systems approved by the relevant authorities, and local capacity to build them developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208) | Advanced |
@@ -191,13 +195,13 @@ Two exchange-layer positions are unchanged and one is unmeasured. Jamii X-Change
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | EAC regional AI strategy | Not on file at 2025-08-01 | [Drafting under way, with ministers agreeing at a regional conference to pursue harmonised rules and retention of AI value in East Africa](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Certified Data Protection Officer programme | Did not exist | [The university trains and assesses and the commission certifies, targeting government, finance, telecommunications, healthcare, education and technology](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/) | Advanced |
 | Registration and data-protection-officer compliance regime | The registration deadline had expired on 2025-04-30 and commission activity was confined to risk training and awareness | [A fresh registration deadline of 2026-04-08 set by ministerial directive, nationwide compliance inspections announced from 2026-04-09, and a seven-day ultimatum to part-registered bodies, with health and education named as still processing unregistered](https://www.mwananchi.co.tz/mw/habari/kitaifa/wananchi-waonywa-kutoa-taarifa-binafsi-kwa-taasisi-zisizosajiliwa-5494426) | Advanced |
@@ -215,7 +219,7 @@ The National Data Management Framework did not move: stakeholder drafting was un
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Kiswahili large language model | Did not exist in the base | [Named in the national vision and pitched on Kiswahili's speaker base and continental official-language status; a Kiswahili database of more than 61 million words separately stated as under development for AI use (2026-07-11); no developer, budget, timetable or build stage stated for the model itself](https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026) | Advanced |
 | National AI data centre | Did not exist in the base | [Under construction, justified on ending raw-data export and training models on domestic hydro and geothermal power; no site, cost, capacity, operator or completion date stated](https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026) | Advanced |
@@ -226,14 +230,14 @@ The National Data Management Framework did not move: stakeholder drafting was un
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Digital Economy Strategic Framework 2024-2034 | ***Baseline not held*** | [Targets: the ICT share of GDP doubled to 3% by 2029, broadband and internet user penetration at 80% by 2029, digital literacy at 90% by 2029, 80,000 teachers trained by 2028, mobile-money penetration above 70%, at least 1,000 new startups in five years and innovation hubs in all regions](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | ***Baseline not held*** |
 | ICT sector contribution to GDP | ***Baseline not held*** | [About 1.5% for 2022/23, against a target of 3% by 2029; no intervening annual figure is held](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | ***Baseline not held*** |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | ITU acceleration centre | A host agreement signed February 2024, Tanzania one of seventeen centres selected worldwide | [Approved and awaiting launch; no launch date, budget or premises on file at 2026-08-06](https://www.biometricupdate.com/202604/tanzania-itu-innovation-center-to-drive-digital-transformation-set-for-launch) | Advanced |
 | Startups raising disclosed funding | 6 startups raising US$41,250,000 (2024), of which US$40m went to one company | [3 startups raising US$3,706,063 (2025)](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | Regressed |
@@ -251,13 +255,13 @@ The sector's own funding went the other way, from [six startups raising US$41,25
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Digital transformation centre for rights and gender equity | EUR 3,000,000 committed, active | [EUR 3,000,000 committed, active](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202222214%22) | No change |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Financial access points | 1.69m access points (2024-12) | [2.27m access points, up 33.5%, of which about 2m are mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | Advanced |
 | Financial inclusion index | 0.81 (2024), with access at 0.84 and usage at 0.78 | [0.83 (2025), with access at 0.87 and usage at 0.79](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | Advanced, marginal |
@@ -266,7 +270,7 @@ The sector's own funding went the other way, from [six startups raising US$41,25
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Science and ICT education grant | About US$10m committed, active | [About US$10m committed, active](https://medhospafrica.com/2025/08/07/the-revolutionary-role-that-korea-has-played-in-improving-tanzanias-health-and-educational-systems/) | No change |
 | Certified financial educators | ***Baseline not held*** | [1,167 certified financial educators trained and about 155,730 individuals reached](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | ***Baseline not held*** |
@@ -274,7 +278,7 @@ The sector's own funding went the other way, from [six startups raising US$41,25
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | ICT workforce training with European partners | Did not exist | [110 participants from public, private and non-governmental institutions, across AI, cybersecurity, personal data protection and emerging technologies](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292) | Advanced |
 | Overseas AI and data-science scholarship placements | Did not exist in the base | [Sixteen graduates studying in one country and 34 expected in another](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | Advanced |
@@ -282,7 +286,7 @@ The sector's own funding went the other way, from [six startups raising US$41,25
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | University ICT college building | ***Baseline not held*** | [Under construction; no completion date, cost or capacity stated](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | ***Baseline not held*** |
 
@@ -296,14 +300,14 @@ Skills provision appeared where there had been nothing on file: [sixteen graduat
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Payment-rails credit facility | Did not exist | [US$25m secured and extendable to US$50m, for international remittance and stablecoin corridors](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/) | Advanced |
 | Digital Tanzania Project | US$150m committed for 2021 to 2026, active | [US$150m committed, active](https://projects.worldbank.org/en/projects-operations/project-detail/P160766) | No change |
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Bilateral digital-cooperation tracks with Brazil, Poland and Russia | Did not exist | [Frameworks agreed with two states on AI strategy, digital government and cybersecurity research, and youth and technology-skills agreements in drafting with a third](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/) | Advanced |
 | Digital economy memorandum with Huawei | Did not exist | [Cooperation named across ICT infrastructure, AI, digital public service infrastructure, developing local professionals, and manufacture and assembly of digital equipment](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) | Advanced |
@@ -311,7 +315,7 @@ Skills provision appeared where there had been nothing on file: [sixteen graduat
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-06 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Domestic state appropriation for digital transformation | None established | [Vote 68 proposed at TZS 222,589,451,000 for 2026/27 against TZS 291,533,139,000 approved for 2025/26, split TZS 13.15bn recurrent and TZS 209.44bn development; domestic development finance is unchanged to the shilling at TZS 98.48bn while external development finance falls from TZS 178.57bn to TZS 110.96bn, taking the external share of development spending from 64% to 53%; TZS 147,768,795,247 of the 2025/26 vote had been released by March 2026, 50.6%](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf) | No change, domestic development finance unchanged |
 
