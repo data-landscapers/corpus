@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: ZWE
 ledger_rows: 66
 not_held: 9
-record: cb39b8b2cb08
+record: 38d16ce4f36a
 ---
 
 # Zimbabwe: monthly update, July 2026
@@ -46,7 +46,7 @@ The listed infrastructure company commenced phase 1 of a 100 MW solar farm for i
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-
+The national incident response team is named in the ICT ministry's own priority projects and has no completion date or operating status attached. The international project record behind it [carries an empty status field and an achievements field still stating it will be updated on completion](https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9ZIM17008), for a project that ran from July 2017 to February 2021. What is new is the first-party statement: the [ministry lists establishment of the team among its seven priorities](https://www.ictministry.gov.zw/pages/projects), aimed at monitoring, detecting and responding to cyber threats.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -80,7 +80,7 @@ The transfer of voter registration and roll management from the electoral commis
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-
+The national electronic medical record reached [1,254 of a planned 1,900 health facilities](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf), on a health financing partner's account rather than the ministry's. The [platform's own front page describes it as the national health operating system](https://impilo.mohcc.gov.zw/), spanning care-finding, provider verification, medicines and diagnostics directories, virtual care, an assistant and public health notices — run largely without a citizen account and gated by a separate professional-authority check — and carries no facility-coverage figure and no last-updated date of its own. An operator separately reports [more than 20 telehealth centres established](https://www.263chat.com/netone-at-30-from-zimbabwes-first-mobile-call-to-a-digital-future/), company-reported to an anniversary feature with no patient, consultation or availability figure.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -95,7 +95,7 @@ The ICT minister told the National Assembly on 17 July that the universal servic
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-
+The base's first evidence on the subnational tier is one council's own statement. Kwekwe City Council [bills rates, refuse, sewerage and water centrally through a municipal resource-planning package, each property carrying a unique account number and tariff code](https://kwekwecity.org.zw/departments/finance/), and names information technology and e-governance among its finance department's five key functions. No user count, collection rate or digital-channel adoption figure is published, and nothing establishes the council as representative of other local authorities.
 <!-- /narrative -->
 ### National statistics
 
@@ -130,7 +130,7 @@ Certification of every data protection officer is required under the same 26 Jul
 ### Open data
 
 <!-- narrative: governance--data-open -->
-_(narrative not yet written)_
+A [national data commons was announced on 4 August](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85) for public institutions, industry and researchers to share anonymised datasets, with selected government datasets stated to become publicly accessible within six months. No governing rule, dataset list or portal is held.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -145,12 +145,12 @@ The listed infrastructure company described its remote monitoring system and dig
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
-
+The infrastructure company reported [90 new base stations in the quarter to May and 17% of revenue reinvested into capital projects](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3), on an undisclosed revenue base — so the ratio cannot be converted to a value.
 <!-- /narrative -->
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
-
+Zimbabwe withdrew from the bilateral health talks, and the dispute over why was settled this month against the templates rather than the parties. Harare's account is that talks ended over long-term United States access to national health data and an attempt to fold in critical minerals; the [embassy stated the conditions were co-investment, financial accountability and specimen sharing during outbreaks, and that assertions it sought Zimbabweans' personal data are categorically false](https://www.newzimbabwe.com/america-disputes-zimbabwean-governments-recent-account-on-us365-million-health-deal/). Both are supportable. The [model data-sharing agreement gives the United States secure, uninterrupted access, expressly including login credentials, to seven national health systems for twenty-five years continuing ten years past termination](https://www.citizen.org/wp-content/uploads/Model-Data-Sharing-Agreement.pdf) — and in the same clause tells the partner not to provide individual-level or personally identifiable data unless there is no other way. The [template memorandum requires physical specimens and related genetic sequence data of pathogens with epidemic potential within five days of detection, for twenty-five years](https://www.citizen.org/wp-content/uploads/Template-MoU-AFGHS.pdf). Harare is describing standing credentialled access to live systems; Washington is denying transfer of identifiable records. Neither template is the Zimbabwe draft, which was never signed and does not exist as a public document. [About 1.2m people on United States-supported HIV treatment face wind-down](https://apnews.com/article/zimbabwe-us-health-funding-deal-b2d3fce8b9a340c53d117675319be120).
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -158,7 +158,7 @@ The listed infrastructure company described its remote monitoring system and dig
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-
+The 2025 household survey puts [household internet access at 75.5% and mobile handset ownership at 96.4%, rural 94.5% against urban 99.2%](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift). Computer ownership is the divide the handset figures conceal: [11.2% of households, urban 21.2% against rural 4.7%](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift). The two measures are five years apart and the intervening trend is not held.
 <!-- /narrative -->
 ### Access to services
 
