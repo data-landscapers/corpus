@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: ZMB
 ledger_rows: 55
 not_held: 54
-record: 5697d9889cd4
+record: 693dda4a2a85
 ---
 
 # Zambia: monthly update, July 2026
@@ -144,7 +144,7 @@ Three private ventures carry the innovation position, all on their own accounts.
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
-The United States health financing memorandum is [reported shelved since May over data terms and a minerals precondition](https://english.news.cn/20260730/b5516c3a8f034f38aae45823311057c6/c.html). A [leaked five-year draft offered US$1.012bn against commitments to hire 40,000 health workers, plus ten years of health-data access and a 25-year pathogen-data pledge](https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets); the Foreign Minister put the proposed agreement at up to US$2bn, and the two values are not reconciled. No signature is on file, and the 25-year data term is reported from a leaked draft rather than a text the base holds.
+The United States health financing memorandum is [reported shelved since May over data terms and a minerals precondition](https://english.news.cn/20260730/b5516c3a8f034f38aae45823311057c6/c.html). A [leaked five-year draft offered US$1.012bn against commitments to hire 40,000 health workers, plus ten years of health-data access and a 25-year pathogen-data pledge](https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets); the [Foreign Minister put the proposed agreement at up to US$2bn](https://www.africanews.com/2026/02/26/zambia-rejects-us-health-aid-over-mining-partnership-ties/), and the two values are not reconciled. No signature is on file, and the 25-year data term is reported from a leaked draft rather than a text the base holds.
 <!-- /narrative -->
 ### China activities
 
