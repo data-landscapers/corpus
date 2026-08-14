@@ -17,3 +17,4 @@ title: Corpus process log
 2026-08-14 10:44 · build · ledger as_at->published (from slug date), prior_* dropped, period selection off the ledger · revert: eb783b7
 2026-08-14 10:48 · build · status table header As at -> Milestone; CC note updated with the schema change and the unrendered state · revert: cd5ccd7
 2026-08-14 10:52 · build · renderer reports prose blocks dropped when their section stops rendering (was miscounted as carried) · revert: dfab90b
+2026-08-14 10:55 · build · reworded check L and narrative integrity: BUILD is the author, the check is its own tally · revert: e655deb
