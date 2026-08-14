@@ -59,9 +59,11 @@ Where one object belongs in more than one document: the monthly carries **what m
 
 ## Word budget
 
-**Prose only, tables excluded, settled here once so the argument does not recur per document: 1,000–1,450 words for a status report, 700–1,050 for a monthly, 900–1,250 for a progress report.**
+**Prose only, tables excluded, settled here once so the argument does not recur per document: 1,000–1,450 words for a status report, 700–2,000 for a monthly, 900–1,250 for a progress report.**
 
 *(Cut from 1,800–2,200 / 900–1,300 / 1,400–1,800 on 2026-08-04, when the inventory and movement tables took over the reference load. A status table of seventy-odd rows is itself ~900 words; prose that also recites the inventory is prose restating a table. The prose's job is what the table cannot carry — why a position is where it is, what is unreconciled, and what follows. Cut ~100 again the same day, with the `Comment` section and the framing sentences the register now rules out.)*
+
+*(**The monthly's ceiling went to 2,000 on 2026-08-14** *(Bill)*. The 1,050 it replaced was calibrated against a monthly that selected on `as_at`; `published` selects roughly twice as many rows, so the document now carries a narrative block for about twice as many subjects — a median of 17, and 39 on Nigeria. At the house average of ~46 words a block the old ceiling was unreachable for any active unit: Nigeria's monthly stood at 962 words with 18 of its 39 blocks still empty. The choice was a higher ceiling or ~25 words a subject, and 25 words buys the fact of a movement while dropping the qualification that makes it evidence — that no lawful basis is stated, that the figure is the promoter's own. The ceiling is per document rather than per block because a quiet month should still be short.)*
 
 Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', body)`); counting raw markdown inflates a 1,950-word document to 2,350 by scoring URL path segments as words.
 

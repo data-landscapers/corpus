@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: NGA
 ledger_rows: 99
 not_held: 7
-record: 7612680928b4
+record: 6eef125ed2dd
 ---
 
 # Nigeria: monthly update, July 2026
@@ -70,7 +70,7 @@ A Lagos fibre operator closed the [₦4.05bn first tranche](https://businesspost
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-Nine agencies took bilateral cover under the amended identity Act inside a fortnight, among them [Solid Minerals](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/), [the Presidency](https://www.thisdaylive.com/2026/07/22/shettima-nigerias-digital-transformation-under-tinubu-unrivalled-hails-ongoing-reforms-by-nimc-management/) and [Women Affairs and the Bank of Industry](https://www.thisdaylive.com/2026/07/24/nimc-seals-strategic-partnerships-with-women-affairs-ministry-boi-to-deepen-digital-identity-financial-inclusion/); no account states a lawful basis, consent mechanism, retention rule or regulator role for the sharing that follows. The [Nigeria Data Exchange now moves personal data between ministries in production](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) behind the Government Service Portal, on the same silence. Against the single-source-of-truth framing, named practitioners [describe the arrangement as federated linkage on a shared identifier](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/), with banks still reconciling by hand. The [National Single Window](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), launched in March, is contested by licensed customs agents who say clearance paperwork has multiplied rather than consolidated.
+Nine agencies took bilateral cover under the amended identity Act inside a fortnight, among them [Solid Minerals](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/), [the Presidency](https://www.thisdaylive.com/2026/07/22/shettima-nigerias-digital-transformation-under-tinubu-unrivalled-hails-ongoing-reforms-by-nimc-management/) and [Women Affairs and the Bank of Industry](https://www.thisdaylive.com/2026/07/24/nimc-seals-strategic-partnerships-with-women-affairs-ministry-boi-to-deepen-digital-identity-financial-inclusion/); no account states a lawful basis, consent mechanism or retention rule for the sharing that follows. The [Nigeria Data Exchange now moves personal data between ministries in production](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) behind the Government Service Portal, on the same silence. Against the single-source-of-truth framing, named practitioners [describe the arrangement as federated linkage on a shared identifier](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/), with banks still reconciling by hand. The [National Single Window](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), launched in March, is contested by licensed customs agents who say clearance paperwork has multiplied rather than consolidated.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -200,7 +200,7 @@ On 3 August a private university announced [robotics, drone and virtual-reality 
 ### Digitalisation of sub-national government
 
 <!-- narrative: ai-tech--digital-localgov -->
-Cross River's executive council [approved phase one of a facial- and plate-recognition network](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) specified with Huawei after an inspection of its facilities in China and to be implemented through its local partner, covering Calabar intersections and government precincts, coastal communities and waterways, the Ikang Expressway and Carnival routes, against a stated baseline of under 10% analogue coverage of the metropolis and nothing in five other named towns. The claimed gains are emergency response falling from over 45 minutes to under twelve and 120 technician jobs; no lawful basis, retention rule or oversight arrangement for the face and plate data appears anywhere in the announcement.
+Cross River's executive council [approved phase one of a facial- and plate-recognition network](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) specified with Huawei and implemented through its local partner, covering Calabar intersections and government precincts, coastal communities and waterways, the Ikang Expressway and Carnival routes, against a stated baseline of under 10% analogue coverage of the metropolis and nothing in five other named towns. The claimed gains are emergency response falling from over 45 minutes to under twelve and 120 technician jobs; no lawful basis, retention rule or oversight arrangement for the face and plate data appears anywhere in the announcement.
 <!-- /narrative -->
 ### New investments
 
