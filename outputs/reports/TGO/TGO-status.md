@@ -4,7 +4,7 @@ compiled: 2026-08-14
 place: TGO
 ledger_rows: 111
 not_held: 39
-record: f6f226cb7743
+record: 9c71e1b8964c
 ---
 
 # Togo: status report
@@ -16,7 +16,7 @@ record: f6f226cb7743
 ## Summary of position
 
 <!-- narrative: summary -->
-_(narrative not yet written)_
+Togo's digital state is built further than it is written down. The identity programme reaches [more than 6,000,000 people, about 62 per cent of the population](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025), payments run at [12.55m electronic-money accounts with the highest activity growth in the union](https://www.togofirst.com/fr/finance/1803-18503-togo-le-nombre-de-comptes-de-monnaie-electronique-a-progresse-de-76-87-en-un-an), and the state has digitised civil status in five communes and twenty-nine energy procedures behind one portal. What it has not built is the layer beneath them: the national interoperability and data-exchange layer is ***Not held***, and the only named candidate, government software licensed in June 2024, has never been reported deployed — so the services that exist are joined by the identity number rather than by an exchange. Payments are the other built layer: [six banks are authorised on the regional instant payment platform and the first mobile wallet joined in April 2026](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi), and retirement allowances now pay by bank transfer and mobile money against a registration deadline of 31 August. What is missing alongside all of it is instruments: 39 of 111 rows are ***Not held***, and the founding texts of the identity agency and the cybersecurity agency, the decree organising the data-protection authority, the access-to-information statute and the national artificial-intelligence strategy are all among them. The one statute held in full is the [2019 data-protection law, gazetted with ninety-seven articles](https://jo.gouv.tg/sites/default/files/JO/JOS_29_10_2019-64E%20ANNEE-N%C2%B026%20TER.pdf) — whose biometric-authorisation article is unenforced against the state's own identity programme.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -65,7 +65,7 @@ _(narrative not yet written)_
 | Terms of the joint venture running the national incident response team | ***Not held*** | — |
 
 <!-- narrative: infrastructure -->
-The national cybersecurity agency, Agence Nationale de la Cybersecurite, reported handling more than 333,000 incidents between 2021 and 2024, a cumulative total first attributed to its director-general in July 2026. A [year-on-year breakdown published 2026-08-03](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/) puts the count at 39,168 incidents in 2021, rising to 181,088 in 2024 — a 4.6-fold increase — with no figure published for 2022, 2023 or 2025 and no definition offered of what counts as an incident. The report frames the rise as evidence of wider monitoring and faster detection rather than of deteriorating security; that causal reading is asserted in the report, not evidenced by it.
+The national cybersecurity agency, Agence Nationale de la Cybersecurite, [reported handling more than 333,000 incidents between 2021 and 2024](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/), a cumulative total first attributed to its director-general in July 2026. A [year-on-year breakdown published 2026-08-03](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/) puts the count at 39,168 incidents in 2021, rising to 181,088 in 2024 — a 4.6-fold increase — with no figure published for 2022, 2023 or 2025 and no definition offered of what counts as an incident. The report frames the rise as evidence of wider monitoring and faster detection rather than of deteriorating security; that causal reading is asserted in the report, not evidenced by it.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -154,7 +154,7 @@ The national cybersecurity agency, Agence Nationale de la Cybersecurite, reporte
 | National satellite or earth-observation capability | ***Not held*** | — |
 
 <!-- narrative: dpi -->
-The ministry of territorial administration, local governance and customary affairs, with support from the Organisation internationale de la Francophonie, [launched a second national catch-up campaign for birth registration](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/) at Agbandi in Blitta 2 commune on 2026-07-31. A first edition had delivered a jugement suppletif and a birth certificate to 5,000 vulnerable children; the second is stated to target 6,461 further children across 25 communes, which the report states would take the two campaigns' combined total to 11,461. The same report carries an unreconciled second figure for the second campaign's reach: the OIF's West Africa resident representative put it at nearly 7,400 vulnerable schoolchildren across the same 25 communes, against the 6,461 the report otherwise states. The prefect of Blitta said on the record that despite years of civil-registry reform, many children, particularly in rural areas, remain without a birth certificate.
+The ministry of territorial administration, local governance and customary affairs, with support from the Organisation internationale de la Francophonie, [launched a second national catch-up campaign for birth registration](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/) at Agbandi in Blitta 2 commune on 2026-07-31. [A first edition had delivered a jugement suppletif and a birth certificate to 5,000 vulnerable children, and the second targets 6,461 further children across 25 communes, taking the two campaigns' combined total to 11,461](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/). The same report carries an unreconciled second figure for the second campaign's reach: the OIF's West Africa resident representative put it at nearly 7,400 vulnerable schoolchildren across the same 25 communes, against the 6,461 the report otherwise states. The prefect of Blitta said on the record that despite years of civil-registry reform, many children, particularly in rural areas, remain without a birth certificate.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -209,7 +209,7 @@ The ministry of territorial administration, local governance and customary affai
 | Open government data portal or policy | ***Not held*** | — |
 
 <!-- narrative: governance -->
-_(narrative not yet written)_
+The governance layer is unusually well populated and unusually hard to read. Two instruments are held in full — the [2019 data-protection law](https://jo.gouv.tg/sites/default/files/JO/JOS_29_10_2019-64E%20ANNEE-N%C2%B026%20TER.pdf) and the [2026 national frequency allocation plan](https://arcep.tg/wp-content/uploads/2026/04/Decret-2026-037-PC-Plan-National-d-Attribution-des-bandes-de-Frequences-radioelectriques-PNAF.pdf) — while the [2025 anti-money-laundering law](https://www.togofirst.com/en/economic-governance/3012-17892-togo-adopts-new-law-to-strengthen-anti-money-laundering-rules), the [conformity-assessment decree](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) and the [government roadmap for 2026-2031](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) are each recorded as in force with no text, number or gazette reference held. The data-protection authority is [operating](https://www.togofirst.com/fr/tic/2903-16040-numerique-l-instance-de-protection-des-donnees-a-caractere-personnel-demarre-ses-activites) without the decree that would fix its organisation. Five rows here are ***Not held*** and they are the load-bearing ones: the cybersecurity statute, the identity agency's founding instrument, the spectrum-royalty amendment's text, the access-to-information statute and any open-government-data instrument.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -258,7 +258,7 @@ _(narrative not yet written)_
 | Gulf-state digital or technology cooperation instrument | ***Not held*** | — |
 
 <!-- narrative: ai-tech -->
-_(narrative not yet written)_
+Artificial intelligence and the technology sector are announcements over an unmeasured base. Three artificial-intelligence positions are held — a [national-languages model project](https://www.togofirst.com/fr/culture/1407-19555-au-togo-un-projet-pour-valoriser-les-langues-nationales-via-lintelligence-artificielle), a [pan-African coalition](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/) and the ministry's laboratory — none with a released model or dataset. Industry is firmer: the [fuel marking system](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/), the [digital toolbox for smaller firms](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme) and the [national start-up association](https://www.togofirst.com/fr/tic/2710-17412-a-lome-lancement-officiel-de-togotech-la-synergie-nationale-des-startups-du-numerique) all operate. Seven rows are ***Not held***, including the digital sector's share of gross domestic product, any start-up statute, and any Chinese, Indian or Gulf cooperation instrument — so the sector has no stated size and no stated foreign partners on this record.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -301,7 +301,7 @@ _(narrative not yet written)_
 | District and school data-use project | [Implemented](https://education.dhis2.org/gpe-kix-study-tour/) | Entered its final phase, concluding November 2026 |
 
 <!-- narrative: inclusion -->
-_(narrative not yet written)_
+Inclusion is carried by commercial services and measured by nobody. A Togolese firm holds the [most complete non-bank payment licence the central bank issues](https://techcabal.com/2026/02/17/francophone-weekly-by-techcabal-012/), [instant international payments run to more than 130 countries](https://www.togofirst.com/en/finance/3110-17454-ecobank-launches-instant-international-payment-service-in-togo), and an [operator has extended mobile money to insurance premiums, card transfers and gift cards](https://www.togofirst.com/fr/telecoms/0807-19499-mobile-money-moov-africa-togo-lance-de-nouveaux-services-pour-renforcer-sa-position). The state's own contribution is [one youth digital-hygiene campaign reaching about 3,000 people](https://www.togofirst.com/fr/formation/0311-17461-protection-des-donnees-3000-jeunes-togolais-formes-aux-bons-reflexes-numeriques) and [thirty-two certified corporate data-protection correspondents](https://www.togofirst.com/fr/tic/2506-19349-protection-des-donnees-l-ipdcp-forme-ses-premiers-correspondants-pour-renforcer-la-conformite-des-entreprises). Four rows are ***Not held***, and together they are the whole of the measurement: no gender-disaggregated access figure, no rural-urban gap, no universal service fund, no national digital-literacy programme.
 <!-- /narrative -->
 
 ## Finance
@@ -333,7 +333,7 @@ _(narrative not yet written)_
 | Domestic state appropriation to digital technology | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+External financing is well documented and domestic financing is not documented at all. Eight external programmes are held with commitments and identifiers, led by the [digital acceleration project at US$13,992,856 of US$100,000,000 disbursed](https://projects.worldbank.org/en/projects-operations/project-detail/P179138) and the [Luxembourg indicative programme carrying a digital component inside EUR 78,550,000](https://www.togofirst.com/en/economic-governance/1607-19578-togo-luxembourg-sign-three-agreements-on-development-and-cybersecurity), with the [good financial governance programme closing on 30 June](https://togopresse.tg/bonne-gouvernance-financiere-au-togo-apres-4-ans-dexercice-le-projet-cloture-sur-fond-de-resultats-juges-satisfaisants/). Against all of that, the domestic state appropriation to digital technology is ***Not held***: nothing in the base states what Togo spends on this from its own budget.
 <!-- /narrative -->
 
 ## Gaps to fill
@@ -381,5 +381,5 @@ _(narrative not yet written)_
 | Rural and urban connectivity gap measure | A regulator coverage or penetration series broken down by region or by rural and urban area; the base holds only a sub-Saharan regional figure and Togo's rural population share | not yet probed |
 
 <!-- narrative: gaps -->
-_(narrative not yet written)_
+Thirty-nine rows are ***Not held***, and they divide cleanly. The first group is the state's own paperwork — the cybersecurity statute and its 2022 amendments, the founding instruments of the identity and cybersecurity agencies, the decree organising the data-protection authority, the spectrum-royalty amendment's text, the access-to-information statute. Each exists by inference from a paraphrase or an announcement, and each would be settled by one gazette. The second is measurement: mobile coverage, quality-of-service results, the rural-urban gap, gender-disaggregated access, the digital sector's share of output, and any breakdown behind the incident total. The third is the harder kind — the terms of the joint venture running the national incident-response function, and the data-protection authority's authorisation for the state's own biometric processing. Those two are where the record is thinnest against what is already operating.
 <!-- /narrative -->

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: XWA
 ledger_rows: 43
 not_held: 2
-record: 16385cdf8962
+record: 00ad0106a0c7
 ---
 
 # West Africa: progress report, 2025-08-01 to 2026-08-14
@@ -214,7 +214,7 @@ West and Central African states [adopted the Cotonou Declaration on 2025-11-18](
 | EU-ECOWAS EPSG support for fact-checking platforms | ***Baseline not held*** | [Two Nigerian organisations selected for in-kind technical support covering digital infrastructure, cybersecurity and verification systems, with training in AI, digital investigations and deepfake detection, and admission to a regional cross-border verification network; no amount, duration or start date is stated](https://guardian.ng/news/dnn-selected-for-eu-ecowas-technical-support-on-fact-checking/) | ***Baseline not held*** |
 
 <!-- narrative: capacity -->
-_(narrative not yet written)_
+Capacity work in the window is two small, dated interventions rather than a programme. [Thirty-eight professionals from member states and partner institutions were trained at Lomé between 4 and 6 August to assess the maturity of national incident response teams](https://www.ecowas.int/ecowas-advances-regional-cybersecurity-cooperation-through-sim3-auditor-capacity-building-programme/) — auditors for a maturity model, which is capacity to measure capacity rather than to operate. Separately [two Nigerian organisations were selected for in-kind technical support covering digital infrastructure, cybersecurity and verification systems, with training in artificial intelligence, digital investigations and deepfake detection](https://guardian.ng/news/dnn-selected-for-eu-ecowas-technical-support-on-fact-checking/), and admission to a regional cross-border verification network; no amount, duration or start date is stated.
 <!-- /narrative -->
 
 ## Finance

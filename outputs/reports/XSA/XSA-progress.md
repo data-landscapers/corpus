@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: XSA
 ledger_rows: 33
 not_held: 2
-record: 1bb488ebdb8f
+record: cb3939056896
 ---
 
 # Southern Africa: progress report, 2025-08-01 to 2026-08-14
@@ -200,7 +200,7 @@ SADC's own coordination in the period runs through spectrum: its third preparato
 | Adults financially included in SADC | 119 million, 77% of adults (2024-02), against 57% in 2011 | [No later figure held; the 2024 survey is still the newest](https://www.sadc.int/latest-news/sadc-adopts-technology-drive-financial-inclusion-initiatives-within-region) | No change |
 
 <!-- narrative: capacity -->
-_(narrative not yet written)_
+Financial inclusion is the only capacity measure the region carries, and it did not move over the window: [119 million adults, 77% of the total, on a 2024 survey that is still the newest held](https://www.sadc.int/latest-news/sadc-adopts-technology-drive-financial-inclusion-initiatives-within-region), against 57% in 2011. No later regional figure has been published, so the twelve months add nothing to what was known at their start.
 <!-- /narrative -->
 
 ## Finance
