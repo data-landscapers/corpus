@@ -10,7 +10,7 @@ Builds `outputs/reports/{ISO3}/{ISO3}-status.md` — a narrative answering, for 
 
 Two inputs it needs are not yet where a Corpus run can reach them, and both are settled before a first run rather than during one:
 
-- **`wiki/` is the primary input and the workroot does not expose it.** `scripts/.workroot/` junctions `raw/`, `index/` and `lookups/` only, which is what BUILD.md's boundary names. The intersections and place hubs this process reads are none of those. Widening the workroot to include `wiki/` read-only is the change; it is the same access the deferred report-initialisation stage needs (`documentation/report-layer.md` §2), so it is one change serving both.
+- **`wiki/` is the primary input and the workroot does not expose it.** `scripts/.workroot/` junctions `raw/`, `index/`, `lookups/`, `scripts/`, `documentation/` and `outputs/`, which is what BUILD.md's boundary names. The intersections and place hubs this process reads are none of those. **This is Corpus's own change, not an ask of OSINT** — `rebuild.py`'s `setup_workroot()` makes the junctions itself, so adding a read-only `wiki` link is one line there plus the corresponding widening of BUILD.md's boundary sentence. The deferred report-initialisation stage needs the same access (`documentation/report-layer.md` §2), so it is one change serving both.
 - **`prep/africa-dpi-data.csv` (17 MB) and `prep/status-indicators-africa-dpi.csv` are gitignored.** They are inputs to a Corpus process and have no committed home yet — see the note at the end of this file.
 
 ## It overwrites the existing status report — deliberately
