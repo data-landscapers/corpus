@@ -1,14 +1,15 @@
 ---
 title: Tunisia — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: TUN
-ledger_rows: 60
+ledger_rows: 61
 not_held: 9
+record: 5dea6927861d
 ---
 
 # Tunisia: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/TUN/ledger.csv` (60 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/TUN/ledger.csv` (61 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ The state has declared two things it has not done. It has [no adopted artificial
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G commercial service | [Implemented](https://www.developingtelecoms.com/telecom-technology/wireless-networks/18000-orange-tunisia-ooredoo-tunisia-and-tunisie-telecom-launch-5g.html) | All three operators launched within days of each other, February 2025 |
 | Medusa submarine cable landing at Bizerte | [Implemented](https://www.connectingafrica.com/connectivity/medusa-s-viatunisa-subsea-cable-now-live) | Ready for service, 3 June 2026 |
@@ -35,7 +36,7 @@ The state has declared two things it has not done. It has [no adopted artificial
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data centres as a state investment priority | [In development](https://www.arp.tn/loi/project/4315) | Carried as a named project line in the development plan annex, June 2026 |
 | SoleCrypt Bizerte data centre | [Planned](https://www.datacenterdynamics.com/en/news/solecrypt-plans-20mw-solar-powered-data-center-in-bizerte-tunisia/) | Non-binding memorandum with Schneider Electric, February 2026 |
@@ -43,19 +44,19 @@ The state has declared two things it has not done. It has [no adopted artificial
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Renewable power for data-centre capacity | [Planned](https://www.datacenterdynamics.com/en/news/solecrypt-plans-20mw-solar-powered-data-center-in-bizerte-tunisia/) | Developer's Tozeur solar site at base-camp stage, November 2025 |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic technical capacity to operate the national digital estate | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National cybersecurity agency advisory function | [Implemented](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151319-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86) | Public advisory on an SMS phishing campaign, 30 July 2026 |
 
@@ -73,13 +74,13 @@ The security posture on record is advisory. The national agency's response to a 
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National interoperability platform (UXP) | [In development](https://cyber.ee/resources/news/phase-2-tunisia-interoperability/) | Phase 2 contract signed, May 2026 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | e-Houwiya mobile identity | [Implemented](https://techafricanews.com/2026/06/26/tunisia-makes-mobile-id-mandatory-for-investment-project-declarations/) | Made compulsory for investment declarations and business registration from 1 July 2026 |
 | National Health Identifier | [In development](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109) | Confirmed as the repurposed Covid-19 vaccination identifier, 27 July 2026 |
@@ -87,7 +88,7 @@ The security posture on record is advisory. The national agency's response to a 
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kashy wallet (Tunisie Telecom) | [Implemented](https://www.assabahnews.tn/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA/142463-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D8%B7%D9%84%D9%82-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%84-%D9%83%D8%A7%D8%B4%D9%8A) | Launched by the state operator, March 2026 |
 | TUNPAY national payment label | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/tunisia-launches-tunpay-label-to-accelerate-mobile-payment-adoption) | Launched by the central bank with the national payments operator, May 2026 |
@@ -96,7 +97,7 @@ The security posture on record is advisory. The national agency's response to a 
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AMEN social registry | [Implemented](https://www.worldbank.org/en/news/feature/2024/11/14/tunisians-share-how-their-life-changed-through-the-amen-program) | Over 333,000 households on cash transfers as of December 2023 |
 | Digital birth declaration platform | [Piloting](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109) | First national platform running at Mongi Slim hospital, 202 births registered |
@@ -105,14 +106,15 @@ The security posture on record is advisory. The national agency's response to a 
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital hospital project | [In development](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | Carried as a plan project with telemedicine and imaging first |
 | Sahetna.tn health portal | [In development](https://tmo-mag.com.tn/tunisia-finalizes-sahetna-tn-digital-health-portal-as-national-id-rollout-gains-steam/) | Technical validation and cybersecurity audit reported complete, 21 July 2026 |
+| School life platform (viescolaire.education.tn) | [Implemented](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151762-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%88%D8%B4%D8%A7%D9%85%D9%84%D8%A9) | Launched by the education ministry, 6 August 2026 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Education platform (tarbia.tn) | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/tunisia-unveils-digital-platform-to-boost-education-transparency-equity) | Launched by the education ministry, January 2024 |
 | National register of community companies | [Implemented](https://www.nessma.tv/fr/economie/actu/lancement-du-registre-national-des-societes-communautaires-pour-impulser-le-developpement-local/560812) | Launched at alahlia.tn, 20 July 2026, under decree-law n 3 of 2025 |
@@ -122,7 +124,7 @@ The security posture on record is advisory. The national agency's response to a 
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Use of satellite data | ***Not held*** | — |
 
@@ -142,7 +144,7 @@ A second e-invoicing effort is advancing where the legislated one has stalled: t
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Compulsory e-invoicing (Article 53) | [In development](https://www.assabahnews.tn/ar/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88-%D8%A7%D8%B9%D9%85%D8%A7%D9%84/139940-%D9%81%D9%8A-%D8%AC%D9%84%D8%B3%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AC%D9%86%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A7-%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%AD-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9) | Amendment bill 2026/012 debated in joint committee, February 2026 |
 | Development Plan 2026-2030 (loi n 2026-16) | [Implemented](https://www.9anoun.tn/fr/kb/jorts/jort-2026-073-5e980/loi-ndeg-2026-16-du-20-juillet-2026-portant-approbation-du-plan-de-developpement-2026-2030-4) | Promulgated 20 July 2026 after adoption by both chambers |
@@ -150,7 +152,7 @@ A second e-invoicing effort is advancing where the legislated one has stalled: t
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital content of the development plan annex | [Implemented](https://www.arp.tn/loi/project/4315) | All three volumes of the annex held, June 2026 |
 | Digital Tunisia 2020-2025 | [Discontinued](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | Lapsed at term at the end of 2025 |
@@ -158,7 +160,7 @@ A second e-invoicing effort is advancing where the legislated one has stalled: t
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | African Telecommunications Union council seat | [Implemented](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071) | Elected at the 7th Plenipotentiary Conference in Abuja, 24 July 2026 |
 | AI Innovation and Technological Solutions Working Group chair (Arab League) | [Implemented](https://www.businesstec.news/23334) | Elected chair at the Arab Permanent Committee's second inaugural meeting in Tunis, reported 1 August 2026 |
@@ -167,7 +169,7 @@ A second e-invoicing effort is advancing where the legislated one has stalled: t
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Draft organic law on personal data protection | [In development](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | Draft opinion reviewed by the Assembly's Rights and Freedoms Committee, February 2026 |
 | National authority for personal data protection | [Implemented](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | Cited by the replacement bill's sponsors as institutionally limited, February 2026 |
@@ -176,7 +178,7 @@ A second e-invoicing effort is advancing where the legislated one has stalled: t
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Agrifood sector data portal | [Implemented](https://www.lapresse.tn/2026/07/26/agroalimentaire-la-tunisie-lance-un-nouveau-portail-pour-aider-les-entreprises-a-mieux-decider/) | Launched 23 July 2026 after a full functional test on 9 July |
 | Aswat Nissa femicide data platform | [Planned](https://www.wearetech.africa/fr/fils/actualites/tech/tunisie-aswat-nissa-lancera-mercredi-une-plateforme-pour-recenser-les-feminicides) | Launch announced for 12 August 2026, the eve of National Women's Day |
@@ -198,33 +200,33 @@ The [Open Government Partnership](https://www.opengovpartnership.org/documents/t
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Livre Blanc on artificial intelligence for Tunisia | [Planned](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/) | Published open source by a diaspora association and presented at the Tunisia Global Forum |
 | National artificial intelligence strategy | ***Not held*** | — |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Telecommunications market structure | [Implemented](https://techafricanews.com/2025/04/11/tunisias-telecom-sector-sees-strong-data-driven-growth/) | Regulator data showing mobile broadband as the dominant access point |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Startup Act and Startup Tunisia | [Implemented](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) | Adopted as the curriculum of a Japanese-financed programme for other African states, July 2026 |
 | Tunisia Digital Summit | [Implemented](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/144861-%D9%82%D9%85%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%84%D9%85-%D9%8A%D8%B9%D8%AF-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A8%D9%84-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%AA%D9%81%D8%B1%D8%B6%D9%87%D8%A7-%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9) | Tenth edition held, April 2026 |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States digital cooperation with Tunisia | ***Not held*** | — |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital cooperation with Tunisia | ***Not held*** | — |
 
@@ -240,13 +242,13 @@ The market is a state incumbent under [European modernisation finance](https://w
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Affordability of digital services | [Implemented](https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/) | Regulator's affordability report on international data, July 2026 |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital skills in the development plan | [Planned](https://www.arp.tn/loi/project/4315) | Named in the plan annex approved by law in July 2026 |
 
@@ -260,7 +262,7 @@ On affordability the regulator, reporting international union data, [puts the di
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AfDB economic and social reforms grant | [Discontinued](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-G-TN-I00-ZZZ-002%22) | Recorded in the bank's own reporting |
 | EBRD loan to Tunisie Telecom | [Implemented](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) | Publicly announced 16 January 2026, after board approval on 24 July 2024 |
@@ -268,7 +270,7 @@ On affordability the regulator, reporting international union data, [puts the di
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Budget allocation for the digital transition | ***Not held*** | — |
 

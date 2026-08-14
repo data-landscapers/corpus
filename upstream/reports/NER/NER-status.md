@@ -1,14 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: NER
 ledger_rows: 56
 not_held: 3
+record: 1114ec749b00
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/NER/ledger.csv` (56 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/NER/ledger.csv` (56 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -28,7 +29,7 @@ The telecommunications regulator is the most active institution on the record. I
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Continuous mobile-network monitoring platform | [Implemented](https://www.lesahel.org/regulation-des-telecommunications-larcep-inaugure-une-plateforme-de-controle-continu-des-reseaux-mobiles/) | Inaugurated 2026-01-28 |
 | Domestic national fibre backbone | [Implemented](https://china.aiddata.org/projects/58683/) | Completed and handed over to local authorities, Q1 2017 (exact day not stated) |
@@ -39,25 +40,25 @@ The telecommunications regulator is the most active institution on the record. I
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Tier III national data centre | [Implemented](https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/) | Provisional acceptance under the Trans-Sahara project, 2025-11-14 |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power supply to network sites and data centres | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data centre capacity | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Cybersecurity Centre with a SOC and CERT | [Planned](https://www.lesahel.org/installation-dun-comite-national-charge-de-loperationnalisation-et-du-deploiement-des-infrastructures-numeriques-critiques-poser-les-bases-de-la-resilience-et-la-securite-des/) | Enumerated by the critical-infrastructure committee 2025-07-23 |
 | National Cybersecurity Strategy | [In development](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | Elaboration under way from the AfricaCERT symposium of July 2025 |
@@ -78,13 +79,13 @@ The regulator has real-time visibility of the networks it supervises, through a 
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | West African foundational-ID interoperability strategy | [Implemented](https://www.biometricupdate.com/202508/stakeholders-validate-strategy-on-digital-id-interoperability-in-west-africa) | Validated at Accra 2025-08-11 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AES biometric national identity card | [Implemented](https://www.lesahel.org/carte-nationale-didentite-biometrique-aes-lancement-de-lenrolement-de-masse-sous-le-signe-de-la-souverainete-numerique/) | Mass enrolment from 25 April 2026 across Niamey's 20 commissariats |
 | AES biometric passport | [Implemented](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html) | Enrolment opened 2026-07-16 with the president the first enrollee |
@@ -95,7 +96,7 @@ The regulator has real-time visibility of the networks it supervises, through a 
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bank-to-wallet interoperability | [Implemented](https://www.lesahel.org/communique-de-presse-niger-banque-atlantique-et-nita-renforcent-linteroperabilite-entre-services-bancaires-et-paiement-mobile/) | Instant transfers launched 2026-06-26 |
 | Identity-fee payment kiosks | [Implemented](https://www.actuniger.com/societe/21937-carte-nationale-didentite-biometrique-cnib-avec-nita-les-demarches-simplifiees-pour-regler-ses-frais-et-se-faire-enroler-en-toute-serenite.html) | Deployed at enrolment sites 2026-04-27 |
@@ -103,7 +104,7 @@ The regulator has real-time visibility of the networks it supervises, through a 
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Diaspora project and expert data banks | [Planned](https://www.lesahel.org/cloture-de-la-2e-edition-du-forum-de-la-diaspora-a-niamey-des-recommandations-et-des-engagements-formules-pour-le-developpement-economique-et-social-du-pays/) | Undertaken by the foreign minister at the diaspora forum 2026-07-29 |
 | Filingue birth-certificate pilot | [Piloting](https://www.biometricupdate.com/202505/niger-starts-pilot-under-wuri-project-to-issue-birth-certificates-to-21k-under-fives) | Targeting 21,202 under-fives |
@@ -113,38 +114,38 @@ The regulator has real-time visibility of the networks it supervises, through a 
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Integrated state human resources and payroll system | [In development](https://www.lesahel.org/conseil-consultatif-de-la-refondation-la-ministre-aissatou-abdoulaye-tondi-explique-aux-conseillers-le-sigrhep/) | 16,500 agent files digitised and 23,000 updated |
 | National e-health master plan 2025-2029 | [Implemented](https://www.lesahel.org/atelier-de-la-direction-de-la-e-sante-vers-une-transformation-numerique-du-systeme-de-sante/) | Roadmap validated 2026-07-09 with 27 structuring projects |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Tax administration digitalisation | [In development](https://www.lesahel.org/digitalisation-de-ladministration-fiscale-nigerienne-la-dgi-reunit-les-acteurs-pour-batir-une-trajectoire-de-modernisation-maitrisee-et-progressive/) | National seminar convened 2026-07-15 |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Villages Intelligents rural inclusion programme | [In development](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/) | Digital centre opened at Tabelot in Agadez |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Naneye Yarda municipal tax platform | [Implemented](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/) | Launched at Niamey, 2025-01-27 |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fifth general population and housing census | [In development](https://www.lesahel.org/diffa-les-chefs-traditionnels-en-formation-pour-une-sensibilisation-sur-le-5e-rgph/) | Traditional chiefs trained as mobilisers in Diffa 2026-07-29 |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | IGNN remote-sensing unit | [Implemented](https://ignn.net/la-teledetection-et-technique-spacialestts.html) | Described on IGNN's own site, retrieved 2026-08-10; no founding date published |
 
@@ -166,33 +167,33 @@ Below the national identity stack, one municipal service is on record: Niamey's 
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-status regime | [Implemented](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Application decret n2026-277 of 2026-05-18 |
 | Loi 2018-45 prior-authorisation regime for electronic communications | [Implemented](https://www.actuniger.com/societe/21307-niger-larcep-declare-la-guerre-aux-wifi-zones-pirates-utilisant-starlink.html) | Invoked against unauthorised satellite resale |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital-development policy | [In development](https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/) | National validation workshop for the PNDN 2026-2035 and its 2026-2030 sectoral action plan, 2026-03-11 |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Algeria and Niger telecommunications cooperation | [Implemented](https://techreviewafrica.com/news/4637/algeria-and-niger-strengthen-cooperation-on-telecommunications-and-digital-development) | Cooperation agreed 2026-03-30 |
 | Identity-system cooperation with Burkina Faso | [Implemented](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) | Technical mission received in Ouagadougou 2026-07-30 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mobile quality-of-service thresholds | ***Not held, searched 2026-08-10 - ARCEP's 2021 annual report names decision n000012/ARCEP/CNRCEP/21 and its function but not its threshold values; ARCEP's own site does not surface the 2026 mises en demeure either*** | — |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Haute Autorite de Protection des Donnees a caractere Personnel | [Implemented](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | Operating under Loi n2022-59 |
 | Loi n2022-59 on personal data protection | [Implemented](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | In force since 16 December 2022, replacing Loi 2017-28 |
@@ -200,19 +201,19 @@ Below the national identity stack, one municipal service is on record: Niamey's 
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | PNDN 2026-2035 consultation and validation process | [Implemented](https://anp.ne/niger-le-projet-de-document-de-politique-nationale-de-developpement-du-numerique-pndn-2026-2035-en-relecture/) | National validation workshop for the PNDN 2026-2035 and its 2026-2030 sectoral action plan, 2026-03-11 |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU multiannual indicative programme 2021-2027 | [Discontinued](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf) | Ended 31 December 2024 under Commission Implementing Decision C(2024)7502 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Multisectoral government and United Nations data platform | [In development](https://www.lesahel.org/renforcement-de-capacites-en-intelligence-artificielle-appliquee-a-la-securite-humaine-le-bureau-de-la-coordination-des-nations-unies-au-niger-perfectionne-les-connaissances-de-140-cadres-des-s/) | In build alongside the Illimi training programme |
 
@@ -230,31 +231,31 @@ Externally the pattern is neighbour-to-neighbour. Niger [agreed telecommunicatio
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Illimi programme on AI applied to human security | [Implemented](https://www.lesahel.org/renforcement-de-capacites-en-intelligence-artificielle-appliquee-a-la-securite-humaine-le-bureau-de-la-coordination-des-nations-unies-au-niger-perfectionne-les-connaissances-de-140-cadres-des-s/) | 140 cadres trained 2026-06-10 |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Foreign supplier of national identity documents | [Implemented](https://www.lesahel.org/signature-de-deux-memorandums-dentente-entre-le-gouvernement-nigerien-et-la-societe-libyenne-al-itissal-al-jadeed-vers-une-numerisation-des-passeports-et-de-la-carte-didentite) | Two memoranda signed with Al Itissal Al Jadeed 2025-06-27 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Startup ecosystem support | [In development](https://www.lesahel.org/agence-nationale-pour-la-societe-de-linformation-startups-nigeriennes-le-numerique-au-service-dune-economie-plus-resiliente/) | Qwiper, E-Mobility Niger, CodeLoccol and Maria Server named by the digital agency |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | China-Niger digital cooperation | [Implemented](https://itweb.africa/article/huawei-approached-to-deepen-china-niger-digital-ties/kLgB17ez2mzM59N4) | China's newly arrived ambassador met Huawei's VP, 2025-09-08 |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | e& Partner2Connect commitment | [Implemented](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | Pledged at Mobile World Congress Barcelona, 2024-03-01 |
 
@@ -270,13 +271,13 @@ Two external relationships are now on record. Huawei — present in Niger since 
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Guidan Fasaha community digital centre | [Implemented](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html) | Inaugurated at Tahoua 2026-07-15 |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AfricaCERT Handshake symposium | [Implemented](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | 13th edition hosted at Niamey July 2025 |
 
@@ -292,13 +293,13 @@ Against the enrolment programme, an [analyst warns of privacy breaches, state su
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Luxembourg-supported Sahel connectivity programme | [Implemented](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | Ericsson and Sweden joined the support package 2026-06-15 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public budget allocation to digital government | ***Not held*** | — |
 

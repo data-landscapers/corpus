@@ -1,14 +1,15 @@
 ---
 title: Zambia — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: ZMB
 ledger_rows: 145
 not_held: 54
+record: c3bd80dd4257
 ---
 
 # Zambia: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/ZMB/ledger.csv` (145 systems and instruments, 54 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ZMB/ledger.csv` (145 systems and instruments, 54 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Only 33.0% of Zambians used the internet in October 2025, unchanged across two a
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Border-post connectivity upgrade across five trade corridors | [Planned](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/) | National standard set out and an independent ICT audit commissioned |
 | Chanida-Cassacatiza cross-border fibre interconnector | [Implemented](https://clubofmozambique.com/news/zambia-and-mozambique-launch-fibre-optic-interconnector/) | Commissioned 2026-02-23 |
@@ -45,7 +46,7 @@ Only 33.0% of Zambians used the internet in October 2025, unchanged across two a
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Memorandum of understanding on a national AI data centre | [Planned](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership) | Signed at the 2026 Zambia Mobile Congress |
 | Zambia National Data Centre and backup facilities | [Implemented](http://www.mof.gov.zm/?wpfb_dl=50) | Phase 1 implementation commenced January 2016 |
@@ -54,7 +55,7 @@ Only 33.0% of Zambians used the internet in October 2025, unchanged across two a
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Solar power at local authority offices | [Implemented](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) | Stated complete for all 116 councils at a state ICT institute briefing |
 | Electricity supply to data centres | ***Not held*** | — |
@@ -62,14 +63,14 @@ Only 33.0% of Zambians used the internet in October 2025, unchanged across two a
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | International transit and wholesale bandwidth pricing | ***Not held*** | — |
 | National internet exchange point | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CCTV (Public Protection) Bill and National Public Security Command Centre | [In development](https://bloggersofzambia.org/6th-state-of-digital-rights-report/) | On the record in civil-society monitoring current to late December 2025 |
 | Cyber Crimes Act No. 4 of 2025 | [Implemented, contested](https://www.parliament.gov.zm/sites/default/files/documents/acts/Acts%20No.%204%20of%202025%2C%20The%20Cyber%20Crimes.pdf) | Enforcement declared fully operational |
@@ -93,7 +94,7 @@ Two builds are real. A government-owned private 4G network for public institutio
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government Service Bus | [Implemented](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/MINISTERIAL%20STATEMENT%20-%20Ministry%20of%20Lands.pdf) | Eight local authorities onboarded from June 2026 |
 | IDEA Programme regional coordination | [Implemented](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Third project steering committee convened in Lusaka |
@@ -102,7 +103,7 @@ Two builds are real. A government-owned private 4G network for public institutio
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric National Registration Card issuance | [Planned](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Deferred to after the 2026-08-13 general election |
 | Integrated National Registration Information System | [Implemented](https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration) | End-to-end automation of birth and death notification reported under way |
@@ -115,7 +116,7 @@ Two builds are real. A government-owned private 4G network for public institutio
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cheque clearing | [Discontinued, phase-out under way](https://itweb.africa/article/the-rise-of-cheques-as-kenyas-preferred-payment-method/wbrpOqg2aBXMDLZn) | Acceptance to stop from June 2026 |
 | National Financial Switch | [Implemented](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8) | Cost-reduction objective stated on record as not yet delivered |
@@ -124,7 +125,7 @@ Two builds are real. A government-owned private 4G network for public institutio
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil registration of births and deaths | [Implemented](https://www.biometricupdate.com/202506/zambia-says-using-multiple-strategies-to-meet-50-percent-birth-registration-goal-by-2026) | Three-pillar strategy stated at the 8th Africa civil registration day |
 | National Carbon Registry | [Implemented](https://www.lusakatimes.com/2026/08/08/govt-launches-national-carbon-registry/) | Launched 2026-08-08 |
@@ -135,7 +136,7 @@ Two builds are real. A government-owned private 4G network for public institutio
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Constituency Development Fund management information system | [In development](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) | Data entry under way across councils, full operationalisation stated for June 2026 |
 | SmartCare 2.0 Hospital Edition | [Piloting](https://techafricanews.com/2026/04/28/zambia-targets-nationwide-health-connectivity-as-smartcare-2-0-pilot-goes-live-in-ndola/) | Pilot launched at Ndola Teaching Hospital |
@@ -144,7 +145,7 @@ Two builds are real. A government-owned private 4G network for public institutio
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cabinet directive on open-source technology | [Implemented](https://itweb.africa/article/zambias-govt-leans-towards-open-source/KjlyrvwBpprqk6am) | Directive issued to ministries alongside the spatial data infrastructure launch |
 | Contract Tracking and Management Information System | [Implemented](https://diggers.news/local/2026/07/12/govt-launches-digital-system-to-track-and-manage-contracts/) | Launched with the Ministry of Justice |
@@ -157,13 +158,13 @@ Two builds are real. A government-owned private 4G network for public institutio
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Satellite terminals in rural public facilities | [Implemented](https://techafricanews.com/2025/09/29/smart-zambia-brings-starlink-internet-to-remote-moomba-chiefdom/) | Kits installed in Moomba Chiefdom, Kazungula district |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | e-Council platform | [Implemented, eight of 116 councils](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) | Eight local authorities onboarded from June 2026 |
 | Local authorities on the national portal | [Implemented, one of 116 confirmed](https://diggers.news/local/2026/05/29/councils-to-go-digital-as-lcc-becomes-first-on-zamportal/) | Lusaka City Council went live as the first of 116 local authorities |
@@ -171,14 +172,14 @@ Two builds are real. A government-owned private 4G network for public institutio
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regulator annual or quarterly market performance report after 2022 | ***Not held*** | — |
 | Statistics agency release programme | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Satellite and AI farm traceability platform | [Implemented](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/) | Founder account of the platform in use; company founded 2022 |
 | A national earth-observation or satellite-data programme | ***Not held*** | — |
@@ -199,7 +200,7 @@ A [National Carbon Registry](https://www.lusakatimes.com/2026/08/08/govt-launche
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber Security Act No. 3 of 2025, statutory text | [Implemented](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf) | Gazetted text acquired 2026-08-09; commenced 12 May 2025 by Statutory Instrument 22 of 2025 |
 | ICT (Universal Access) Regulations, 2012 | [Implemented](https://database.cyberpolicyportal.org/api/files/16793062762166qwz19vmif6.pdf) | Gazetted 15 June 2012 |
@@ -211,7 +212,7 @@ A [National Carbon Registry](https://www.lusakatimes.com/2026/08/08/govt-launche
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil registration modernisation programme | [In development](https://www.biometricupdate.com/202508/zambia-sees-civil-registration-as-bedrock-of-inclusive-digital-transformation) | Africa civil registration day launched on three stated pillars |
 | COMESA Regional AI Strategy | [In development](https://techafricanews.com/2026/07/14/zambia-and-comesa-launch-ai-initiative-to-advance-regional-digital-transformation/) | Sensitisation workshop launched in Lusaka |
@@ -220,7 +221,7 @@ A [National Carbon Registry](https://www.lusakatimes.com/2026/08/08/govt-launche
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kwacha onboarding to the regional real-time gross settlement system | [Planned](https://www.centralbanking.com/central-banks/currency/7976492/southern-african-countries-consider-joining-sadc-rtgs) | Attributed to a regional central bank spokesperson |
 | Zambian Secretary-General of the African Telecommunications Union | [Planned, term begins 2027-01-01](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Elected on the fourth round with 21 of 34 votes, Abuja |
@@ -228,14 +229,14 @@ A [National Carbon Registry](https://www.lusakatimes.com/2026/08/08/govt-launche
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ministry of Health ICT Standards and Guidelines | [Implemented](https://dspace.unza.zm/server/api/core/bitstreams/d584c52e-dcba-4dec-bd58-910fe11976cb/content) | Issued January 2014 |
 | National data-sharing, interoperability or data-classification standard | ***Not held*** | — |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection Act 2021 | [Implemented](https://documents1.worldbank.org/curated/en/099090924120535793/txt/BOSIB12c22668f0f51a0d117949b7b8fe34.txt) | Named as part of the operative framework in the enforcement statement |
 | Office of the Data Protection Commissioner | [Implemented](https://bloggersofzambia.org/6th-state-of-digital-rights-report/) | Asked by nine civil society organisations to examine a beneficiary contact list, 2026-07-31 |
@@ -246,7 +247,7 @@ A [National Carbon Registry](https://www.lusakatimes.com/2026/08/08/govt-launche
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public consultation on the Postal Services Act review | [Discontinued](https://cajnewsafrica.com/2026/07/24/zambia-expedites-modernisation-of-postal-courier-legislation/) | Submissions closed one working day after the consultations ended |
 | ZICTA consent judgment on internet access interruption | [Implemented](https://www.accessnow.org/press-release/keepiton-zambia-internet-access-upcoming-elections/) | Entered after the August 2021 election-period blocking; reason for any interruption due within 36 hours |
@@ -254,14 +255,14 @@ A [National Carbon Registry](https://www.lusakatimes.com/2026/08/08/govt-launche
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU-Zambia digital cooperation | ***Not held*** | — |
 | Legal basis for personal-data transfers between Zambia and the EU | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 2026 Abuja Declaration on Meaningful Connectivity | [Implemented](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Adopted at the continental telecommunications plenipotentiary conference |
 | National open data portal and open data policy | ***Not held*** | — |
@@ -286,7 +287,7 @@ A third account of the national AI strategy's stage does not reconcile with the 
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber security agency artificial-intelligence remit | [Implemented](https://diggers.news/local/2025/04/18/us-warns-its-citizens-over-new-surveillance-law-in-zambia/) | AI-enabled trafficking and online scams placed inside the agency's response |
 | Feature-phone AI voice service | [Implemented](https://techafricanews.com/2026/01/15/leveraging-ai-to-bypass-the-smartphone-barrier-and-advance-digital-inclusion-in-africa/) | Cited as a deployed feature-phone AI voice service |
@@ -298,14 +299,14 @@ A third account of the national AI strategy's stage does not reconcile with the 
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Dot Com Zambia PLC | [Implemented](https://techafricanews.com/2026/05/14/zambia-seeks-to-accelerate-digital-economy-through-public-private-collaboration/) | Listing on the Lusaka Securities Exchange described as recent |
 | ICT sector contribution to GDP | ***Not held*** | — |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | E-MARK Innovation Hub | [Implemented](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) | Ran the nine-month pipeline that took Team Zambia to the Geneva global finals |
 | Green Giraffe | [Implemented](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/) | Founded 2022; founder interview on the record |
@@ -316,25 +317,25 @@ A third account of the national AI strategy's stage does not reconcile with the 
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States health financing memorandum of understanding | [Planned, not proceeding](https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets) | Reported shelved in May 2026 over data terms and a minerals precondition |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Zambia-China digital cooperation talks | [Planned](https://itweb.africa/article/zambia-china-deepen-digital-ties/o1Jr5qxPY8gqKdWL) | Seminar on China-Zambia Artificial Intelligence Cooperation reported; no agreement signed |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Edge data centre plan | [Planned](https://www.datacenterdynamics.com/en/marketwatch/nxtra-airtels-leap-into-africas-growing-data-center-market) | Named among target countries for future edge data centres |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Any Gulf-state technology engagement with Zambia | ***Not held*** | — |
 
@@ -354,14 +355,14 @@ The United States health financing memorandum is not proceeding. The Foreign Min
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gender gap in internet use or mobile ownership | ***Not held*** | — |
 | Rural-urban internet use split | ***Not held*** | — |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Universal Access and Service Fund | [Implemented](https://techafricanews.com/2025/09/01/zicta-board-committee-reviews-uasf-projects-in-copperbelt-and-northwestern-provinces/) | Board assessment tour of Muchinga, Northern and Luapula projects |
 | Device affordability and data cost as a share of income | ***Not held*** | — |
@@ -369,14 +370,14 @@ The United States health financing memorandum is not proceeding. The Foreign Min
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Transformation Centres Initiative | [Implemented](https://techafricanews.com/2026/08/05/smart-zambia-and-itu-equip-mpika-youth-resource-centre-to-boost-digital-skills/) | ICT equipment handed to Mpika Youth Resource Centre |
 | National digital literacy rate or programme | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital skills and capabilities component | [Planned](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Board approval of the parent grant |
 | Vendor global academy training commitment | [Planned](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership) | Included in the memorandum signed at the Zambia Mobile Congress |
@@ -384,7 +385,7 @@ The United States health financing memorandum is not proceeding. The Foreign Min
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Revenue authority research memorandum | [Implemented](https://techafricanews.com/2026/07/17/zambia-revenue-authority-signs-ictd-deal-to-advance-digital-tax-reforms/) | Memorandum and non-disclosure agreement signed |
 | University or national ICT research institute | ***Not held*** | — |
@@ -399,7 +400,7 @@ Training on the ground lags what the external financing implies: the base can ev
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Zambia Acceleration Project | [Implemented](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Board approval 2025-09-11 |
 | Improved Rural Connectivity Project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P159330) | Stated closing date of 2025-12-31 |
@@ -408,7 +409,7 @@ Training on the ground lags what the external financing implies: the base can ev
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital identity memorandum with Ethiopia | [Implemented](https://www.biometricupdate.com/202510/zambia-plans-domestic-digital-id-development-with-help-from-international-partners) | Reported signed; signing date not established |
 | Government compact with the Payments Association of Zambia | [Implemented](https://itweb.africa/article/zambia-partners-with-payz-to-boost-financial-inclusion/xnklOqz1eBKM4Ymz) | State House meeting 2026-02-26 |
@@ -417,7 +418,7 @@ Training on the ground lags what the external financing implies: the base can ev
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ministry of Technology and Science annual appropriation | ***Not held*** | — |
 | State ICT institute appropriation and project counterpart funding | ***Not held*** | — |

@@ -1,14 +1,15 @@
 ---
 title: Senegal — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: SEN
 ledger_rows: 82
 not_held: 9
+record: 6e1b7765bcb5
 ---
 
 # Senegal: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/SEN/ledger.csv` (82 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SEN/ledger.csv` (82 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ The technology strategy carries a stated [FCFA 1,105bn envelope to 2034](https:/
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 2Africa cable landing station | [Implemented](https://techafricanews.com/2026/02/23/sonatel-commissions-2africa-submarine-cable-africas-largest-connectivity-project/) | Commissioned December 2025 |
 | EBRD network facility | [Implemented](https://techtrendske.co.ke/2026/07/13/ebrd-extends-e270m-financing-to-yas-for-kenya-senegal-network-expansion/) | The facility extended 2026-07-13 |
@@ -39,7 +40,7 @@ The technology strategy carries a stated [FCFA 1,105bn envelope to 2034](https:/
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cloud residency zones in operator data centres | [Implemented](https://www.mobileeurope.co.uk/orange-and-aws-partner-to-deliver-cloud-services-in-morocco-and-senegal/) | In service from 2024-05-30 |
 | Diamniadio national data centre | [Implemented](https://africachinainitiative.georgetown.edu/research-working-group/blog-posts/huawei-helping-or-hindering-african-countries-secure-their-data-sovereignty-2/) | Commissioned June 2021 |
@@ -49,13 +50,13 @@ The technology strategy carries a stated [FCFA 1,105bn envelope to 2034](https:/
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power provision for data-centre and telecom infrastructure | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Procurement route for critical-infrastructure cybersecurity | [In development](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) | A ministry and procurement-authority meeting reported 2026-07-30 |
 | National computer emergency response team | ***Not held*** | — |
@@ -74,7 +75,7 @@ Security is the weakest. Beyond the three breaches, the standing score is [67.17
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital agency and health-cover platform interconnection | [Planned](https://www.seneweb.com/fr/news/Video/sante-et-numerique-senum-sa-et-la-sen-csu-sunissent-pour-faciliter-lacces-a-la-couverture-maladie_n_499241.html) | A convention announced 2026-07-23 committing the two bodies to interconnect their platforms |
 | Government enterprise architecture | [In development](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy) | Interim diagnostic results presented and the inventory of state information systems launched at a workshop, 2026-07-29 |
@@ -85,7 +86,7 @@ Security is the weakest. Beyond the three breaches, the standing score is [67.17
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-registration modernisation programme | [Discontinued](https://aps.sn/le-programme-nekkal-a-permis-dimportantes-avancees-dans-la-modernisation-de-letat-civil-selon-un-responsable/) | A final steering committee held 2026-06-29, closing the externally funded programme |
 | National identity card production | [Implemented](https://aps.sn/la-daf-annonce-la-reprise-de-la-confection-des-cartes-nationales-didentite-depuis-le-1er-avril/) | Production resumed 2026-04-01 after a ransomware breach forced suspension on 2026-02-05 |
@@ -93,13 +94,13 @@ Security is the weakest. Beyond the three breaches, the standing score is [67.17
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Levy on mobile-money transfers | [Planned](https://www.ecofinagency.com/news/0812-51194-gsma-maps-the-reforms-required-for-senegal-s-digital-takeoff) | Proposed under a recovery plan to raise about FCFA 220bn over three years |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Audit of civil registration in 74 communes | [Implemented](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html) | An audit mission launched at Rufisque 2026-07-28, covering 2018 to 2025 |
 | Bill on computerising civil-status management | [Planned](https://www.child-identity.org/wp-content/uploads/2025/07/PRESENTATIONETATSENEGAL-Aliou-Sall.pdf) | Listed among outstanding steps in the agency's August 2025 presentation |
@@ -110,14 +111,14 @@ Security is the weakest. Beyond the three breaches, the standing score is [67.17
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital-health bill | [Planned](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) | A civil-society call for adoption at a restitution day 2026-07-23 |
 | Mortality and cause-of-death analysis tool | [Piloting](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/) | A health-ministry training workshop held on 20 and 21 July 2026 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Citizen single window | [Implemented](https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services) | The portal launched by the prime minister 2026-03-24 and declared operational |
 | Digital fiscal stamp | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique) | The tax authority withdrew the paper stamp on 2026-07-20, making the digital service the sole recognised channel |
@@ -127,25 +128,25 @@ Security is the weakest. Beyond the three breaches, the standing score is [67.17
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural digital data capture | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Commune-level systems other than civil status | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Inclusive-data initiative second phase | [Implemented](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | The national statistics agency hosted the first second-phase peer exchange in Dakar |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Use of satellite data in public administration | ***Not held*** | — |
 
@@ -163,7 +164,7 @@ The [citizen single window is operational for passports, business creation, poli
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bill on a media and social-network regulator | [In development](https://techreviewafrica.com/news/1958/senegal-introduces-draft-law-to-establish-a-new-media-regulatory-authority) | A draft law unveiled with the broadcasting regulator 2025-01-24 |
 | Critical-infrastructure protection legal framework | [In development](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) | The procurement authority states the framework is in preparation and undated |
@@ -172,7 +173,7 @@ The [citizen single window is operational for passports, business creation, poli
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI development plan | [Planned](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026) | A head-of-state instruction recorded in the council of ministers communiqué |
 | National AI strategy and roadmap | [Implemented](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html) | Adopted 2023 on six orientations |
@@ -181,20 +182,20 @@ The [citizen single window is operational for passports, business creation, poli
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ECOWAS regional statistical methodological guides | [Implemented](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/) | Directors-general of national statistical institutes approved the guides at the close of a Dakar meeting |
 | Founding membership of a global AI cooperation body | [Implemented](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html) | The founding agreement signed in Shanghai by the digital minister |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Francophone West African AI governance guidelines | [Implemented, non-binding](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Adopted by six states and announced on the margins of a global AI dialogue |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bill revising the personal data law | [In development](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/) | A two-day workshop convened to finalise the bill and its implementing decree |
 | Cooperation convention with Benin's protection authority | [Implemented](https://lanation.bj/numerique/protection-des-donnees-personnelles-le-benin-et-le-senegal-scellent-une-alliance-strategique-a-cotonou) | Signed at the counterpart's headquarters 2026-04-17 |
@@ -202,7 +203,7 @@ The [citizen single window is operational for passports, business creation, poli
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data policy, portal or licence | ***Not held*** | — |
 
@@ -218,7 +219,7 @@ One instrument narrows disclosure. [Décret n° 2026-807, in force from 22 April
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI ethics committee | [Planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html) | A readiness assessment records an ethics committee as planned |
 | Senegal AI Factory | [Planned](https://www.pressafrik.com/New-Deal-Technologique-le-Senegal-devoile-la-Senegal-AI-Factory-devant-la-communaute-internationale-a-Tokyo_a309281.html) | Presented to an international AI-process meeting in Tokyo |
@@ -226,33 +227,33 @@ One instrument narrows disclosure. [Décret n° 2026-807, in force from 22 April
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Corporate mobility platform | [Implemented](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/senegal-yango-expands-into-corporate-mobility) | Launched in Senegal 2026-07-16 |
 | Max it super-app on the Dakar rapid-transit network | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network) | The transit operator and the telecommunications operator signed a partnership 2026-07-14 |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States development-finance talks | [In development, talks only](https://www.rts.sn/actualite/detail/a-la-une/new-deal-technologique-le-senegal-renforce-ses-partenariats-strategiques-a-washington) | The digital minister pitched the technology strategy in Washington and held working sessions with the State Department and the development finance corporation |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Sovereign cloud built with Alibaba | [Piloting](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/) | The digital minister states the infrastructure is in testing, equipment installed and verified |
 | Strategic partnership with Huawei | [Planned, signed](https://lesoleil.sn/actualites/technologie/senegal-huawei-un-accord-strategique-pour-accelerer-la-souverainete-numerique/) | Signed 2025-06-27 during a prime-ministerial visit to China |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Senegal-India technology cooperation | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Senegal-Gulf technology investment | ***Not held*** | — |
 
@@ -268,27 +269,27 @@ A [sovereign cloud is in testing, to host sensitive national data on Senegalese 
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital training for blind and partially sighted people | [Implemented](https://www.seneweb.com/fr/news/Technologie/informatique-et-intelligence-artificielle-un-programme-pour-renforcer-lemployabilite-des-non-voyants_n_497443.html) | An advanced-level course launched 2026-07-06 |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital financial-education project | [Discontinued](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/) | The project closed 2026-07-15, with a closing workshop on 2026-07-23 |
 | Digital Schools programme | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-launches-digital-schools-program-with-sonatel-s-support) | A memorandum signed to equip 120 primary schools and train 500 women at seven digital houses |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Sovereign-cloud engineer training | [Planned](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/) | The digital minister states the infrastructure is deployed and tested and that training has not started |
 | Young Africa Works Senegal | [Implemented](https://mastercardfdn.org/en/news/mastercard-foundation-to-enable-three-million-youth-to-access-employment-opportunities-in-senegal/) | A US$200m five-year commitment announced September 2019 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National research and innovation fund | [Planned](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026) | A council of ministers communiqué proposes the fund alongside applied research laboratories |
 | Two AI research laboratories | [Implemented](https://techreviewafrica.com/news/1997/senegal-bolsters-ai-development-with-launch-of-alive-and-dicentre4ai-laboratories) | Both laboratories launched 2025-01-31 with three ministers present |
@@ -301,7 +302,7 @@ A [memorandum to equip 120 primary schools and train 500 women](https://www.wear
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BOAD digital transformation of public services loan | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46021-2026028%22) | Committed 2026-03-26 |
 | Digital economy acceleration project | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing) | A portfolio review realigned the project to the technology strategy and validated first-half 2026 milestones |
@@ -312,7 +313,7 @@ A [memorandum to equip 120 primary schools and train 500 women](https://www.wear
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | UN development programme memorandum | [Implemented](https://techafricanews.com/2026/04/16/undp-and-senegal-government-strengthen-ties-on-digital-development-agenda/) | A memorandum signed with the communications and digital ministry |
 

@@ -1,14 +1,15 @@
 ---
 title: Uganda — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: UGA
 ledger_rows: 115
 not_held: 16
+record: 1b8b6db4fec5
 ---
 
 # Uganda: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/UGA/ledger.csv` (115 systems and instruments, 16 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/UGA/ledger.csv` (115 systems and instruments, 16 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -28,7 +29,7 @@ The compiled finance layer holds no domestic state budget for Uganda at all, so 
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bayobab Kampala-Malaba fibre route | [Implemented](https://www.newvision.co.ug/category/business/kampala-malaba-get-new-fibre-optic-route-NV_210273_052026) | Route lit, 260 km, over 1 Tbit/s |
 | Border free public Wi-Fi, Bwera and Mpondwe | [Implemented](https://www.newvision.co.ug/category/news/free-wi-fi-to-boost-security-trade-along-ugan-NV_214512_032026) | Launched on the DRC border |
@@ -43,7 +44,7 @@ The compiled finance layer holds no domestic state budget for Uganda at all, so 
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ABQ Cloud sovereign cloud ecosystem | [Implemented](https://www.independent.co.ug/abq-cloud-launches-ugandan-sovereign-cloud-ecosystem) | Launched at the Deep Tech Hub and Raxio Namanve |
 | Aeonian USIO supercomputer at Karuma | [Planned](https://www.ecofinagency.com/news-digital/1509-48701-synectics-schneider-to-build-ai-center-in-uganda-starting-2026) | Rollout stated to begin 2026, full capacity 2028 |
@@ -54,20 +55,20 @@ The compiled finance layer holds no domestic state budget for Uganda at all, so 
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Karuma surplus power for compute | [Planned](https://www.ecofinagency.com/news-digital/1509-48701-synectics-schneider-to-build-ai-center-in-uganda-starting-2026) | Design case only, tied to the USIO rollout |
 | Grid power at national backbone sites | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National ICT and cybersecurity workforce baseline | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National anti-piracy coordination framework | [In development](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/) | Stakeholder convening; dynamic IP and DNS blocking under exploration |
 | National Information Security Framework 2026 | [Implemented](https://itweb.africa/article/uganda-launches-updated-cybersecurity-framework/LPwQ57lboKAqNgkj) | Launched by the ICT ministry under the Uganda Digital Acceleration Project |
@@ -89,14 +90,14 @@ The regional communications regulators' organisation puts Uganda's [mobile data 
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | UGHub | [Implemented](https://techafricanews.com/2026/06/22/nita-u-launches-five-year-digital-strategy-to-increase-e-government-use-in-uganda/) | Agency integration baselined at 37% in the NITA-U strategy |
 | UGPass | [Implemented](https://id4africa.com/2024/ps4/PS4-S2-Uganda-NITA-NIRA-Final.pdf) | Described in an undated agency deck, proxy-dated at ingest |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Enhanced national ID card | [Implemented](https://www.newvision.co.ug/category/news/enhanced-national-ids-dispatched-to-districts-NV_221437_032026) | Dispatched to all districts, October 2025 |
 | Iris capture on registration kits | [Implemented](https://www.biometricupdate.com/202603/iritech-provides-iris-biometrics-for-ugandas-upgraded-registration-kits) | Iris hardware deployed on more than 5,665 registration kits for the 2024-26 campaign |
@@ -107,7 +108,7 @@ The regional communications regulators' organisation puts Uganda's [mobile data 
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel Money and Britam insurance distribution | [Implemented](https://techafricanews.com/2026/07/22/airtel-money-uganda-and-britam-partner-to-expand-digital-insurance-and-financial-services/) | First product live, reported 2026-07-22 |
 | AKIBA tokenised-asset exchange | [In development](https://techcabal.com/2026/04/08/global-settlement-holdings-to-acquire-majority-stake-in-akiba/) | A majority-stake acquisition moved on 2026-04-08 |
@@ -124,7 +125,7 @@ The regional communications regulators' organisation puts Uganda's [mobile data 
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Alien registration and Alien Identification Number | [Implemented](https://www.newvision.co.ug/category/news/nira-kicks-off-first-registration-of-foreigne-NV_234932_062026) | Registration of resident foreign nationals began 2026-06-10 |
 | Birth registration drive | [Implemented](https://www.newvision.co.ug/category/news/nira-intensifies-birth-registration-drive-lau-NV_234727_062026) | Community drives and a fee schedule announced 2026-06-01 |
@@ -134,32 +135,32 @@ The regional communications regulators' organisation puts Uganda's [mobile data 
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Laboratory Data Repository | [Implemented](https://www.newvision.co.ug/category/health/ugandas-new-lab-data-repository-to-boost-heal-NV_227554_032026) | Launched 2026-02-05 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic Government Procurement system | [Implemented](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026) | Training opened for 100 further entities, 2026-08-03 |
 | Government Procurement Portal | [In development](https://www.newvision.co.ug/category/business/why-govt-is-moving-to-upgrade-procurement-por-NV_222664_022026) | Upgrade to the infrastructure data standard announced 2025-11-14 |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural DPI service delivery programme | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Subnational digital service systems | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 9th Uganda National Household Survey | [Implemented](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey) | 80 data collectors commissioned 2026-08-04 for twelve months of collection |
 | Labour, Employment, Productivity and Reporting Programme | [Planned](https://www.newvision.co.ug/category/news/gender-ministry-unveils-initiative-to-address-NV_235563_062026) | Launched 2026-06-15 |
@@ -168,7 +169,7 @@ The regional communications regulators' organisation puts Uganda's [mobile data 
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ugandan satellite or Earth-observation programme | ***Not held*** | — |
 
@@ -190,7 +191,7 @@ The statistics bureau [broke ground on a Statistics House office block at Entebb
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Computer Misuse Act ss.11, 23, 26-29 | [Discontinued](https://www.newvision.co.ug/category/news/constitutional-court-nullifies-key-computer-m-NV_230010_042026) | Nullified by the Constitutional Court on quorum and vagueness grounds |
 | Protection of Sovereignty Bill, 2026 | [In development, enactment reported but unconfirmed](https://www.newvision.co.ug/category/news/bou-governor-atingi-ego-say-sovereignty-bill-NV_232814_052026) | Bank of Uganda technical assessment to joint committees, 2026-04-27 |
@@ -200,28 +201,28 @@ The statistics bureau [broke ground on a Statistics House office block at Entebb
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | NITA-U Strategic Plan FY2025/26 to FY2029/30 | [Implemented](https://techafricanews.com/2026/06/22/nita-u-launches-five-year-digital-strategy-to-increase-e-government-use-in-uganda/) | Launched in Kampala 2026-06-22 |
-| UCC telecom taxation reform proposals | [Planned](https://techafricanews.com/2026/06/22/ucc-proposes-major-telecom-tax-cuts-to-boost-ugandas-digital-economy/) | Commissioned study published, addressed to the finance ministry and the revenue authority |
+| UCC telecom taxation reform proposals | [Planned](https://www.newvision.co.ug/category/business/ict-ministry-communication-stakeholders-call-NV_238288_082026) | Device-tax paper stated ready for cabinet, 5 August 2026 |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Harmonised EAC framework for AI and digital-finance regulation | [Planned](https://observer.ug/business/east-african-central-bankers-push-single-currency-launch-to-2031/) | Proposed by the Monetary Affairs Committee chair, Kampala; absent from the signed communique |
 | Uganda's seat on the ATU Administrative Council | [Implemented](https://www.ucc.co.ug/uganda-wins-seat-on-the-african-telecommunications-union-administrative-council/) | Elected at CPL-26, Abuja, 2026-07-24, for a four-year term |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government Enterprise Architecture and e-GIF | [Implemented, rollout not reported](https://ega.ee/uganda-renewed-digital-government-frameworks/) | Renewed architecture and interoperability framework delivered 2026-05-27 |
 | National Monitoring and Evaluation System reporting quality | [Implemented, degraded](https://www.publicservice.go.ug/public-sector-transformation-programme-pstp-secretariat-intensifies-efforts-to-improve-the-quality-and-consistency-of-performance-reporting-across-ministries-departments-and-agencies/) | Secretariat review of FY2025/26 quarterly submissions under the fourth national development plan |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Beera Ku Guard awareness campaign | [Implemented, term expired](https://www.newvision.co.ug/category/news/kampala-data-collection-company-prosecuted-ov-NV_224311_032026) | Six-month campaign launched 2025-12; targets of 70% of Ugandans reached and 1,000 controllers registered |
 | Data Protection and Privacy Act, Cap 97 | [Implemented](https://businesstimesug.com/whatsapp-updates-privacy-policies-after-uganda-data-protection-enforcement/) | First enforcement cycle carried to confirmed compliance, 2026-07-17 |
@@ -232,7 +233,7 @@ The statistics bureau [broke ground on a Statistics House office block at Entebb
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fourth-cycle Universal Periodic Review | [In development](https://cipesa.org/wp-content/files/Uganda_UPR_Review.pdf) | Joint civil-society submission filed, July 2026; review not yet held |
 | Judiciary media guidelines issued through ECCMIS | [Implemented](https://mulengeranews.com/uls-slams-court-restrictions-after-besigye-collapsed-during-treason-trial/) | Revised guidelines issued through the case-management system for a High Court trial |
@@ -240,7 +241,7 @@ The statistics bureau [broke ground on a Statistics House office block at Entebb
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU Delegation funding for a sovereign DPI loan package | [Planned](https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-giz/2026/08/51947.html) | Named as an added national funding window in the technical-assistance tender |
 | EU-EAC DPI Acceleration Mechanism technical assistance | [In development](https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-giz/2026/08/51947.html) | Tender published 2026-07-31; requests to participate due 2026-09-01 |
@@ -248,7 +249,7 @@ The statistics bureau [broke ground on a Statistics House office block at Entebb
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open government data policy or portal | ***Not held*** | — |
 
@@ -272,7 +273,7 @@ A bill capping foreign funding at [20,000 currency points, about UGX 400m a year
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EAC regional AI policy roadmap | [Planned](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/) | Explored at the 4th EAC Regional Science, Technology and Innovation Conference, Kigali |
 | Inclusive AI curriculum | [In development](https://www.newvision.co.ug/category/education/govt-moves-to-introduce-inclusive-ai-curricul-NV_222850_032026) | Reported under development at the ICT institute, 2025-11-18 |
@@ -284,14 +285,14 @@ A bill capping foreign funding at [20,000 currency points, about UGX 400m a year
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | YAS acquisition of Wananchi Group | [Implemented](https://www.independent.co.ug/yas-completes-63m-acquisition-of-parent-company-of-zuku-and-simbanet) | Completion announced in Kampala, all regulatory approvals cleared |
 | Uganda ICT sector output and employment series | ***Not held*** | — |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fintech Fridays Uganda Edition | [Implemented](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026) | Launched by the Makerere Innovation and Incubation Centre with Afriventia Group |
 | Mbale ICT Hub | [In development](https://www.newvision.co.ug/category/education/mbale-ict-hub-to-boost-employable-skills-acqu-NV_228434_062026) | Uganda-UK memorandum signed, February 2026 |
@@ -303,26 +304,26 @@ A bill capping foreign funding at [20,000 currency points, about UGX 400m a year
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States health-data access agreement | [Implemented](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf) | Signed at Kampala 2025-12-10 for activities running 2026-04-01 to 2030-12-31 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Centenary Group and Huawei banking partnership | [Implemented](https://www.newvision.co.ug/category/business/huawei-partnership-pushes-centenary-into-digi-NV_234176_062026) | Agreement signed in Shanghai over eight areas of cooperation |
 | ICT ministry AI-skills memorandum with China exchange | [Implemented](https://www.newvision.co.ug/category/business/ministry-of-ict-signs-partnership-to-boost-yo-NV_231014_062026) | Memorandum signed with the UN Health Industry Foundation and a private foundation |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-Uganda technology relationship | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Tahaluf national ID system contract | [Implemented](https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system) | Migration of more than 28m records completed, announced 2026-02-09 |
 
@@ -340,14 +341,14 @@ The bilateral health memorandum [signed at Kampala on 10 December 2025](https://
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital for Girls and Women Uganda | [Implemented, stated period elapsed](https://open.enabel.be/en/UGA/2662/p/digital-for-girls-and-women-uga.html) | EUR 2,250,000 commitment recorded for 2021-2025 |
 | Uganda Communications Universal Service and Access Fund | [Implemented](https://www.ucc.co.ug/atc-uganda-contributes-ugx-20-9bn-to-support-universal-access/) | ATC Uganda remitted UGX 20.9bn at a handover ceremony, 2026-07-30 |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Connect Rural Uganda digital inclusion | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-11620%22) | US$15m commitment recorded for 2019-2026 |
 | Gulu Service Uganda Centre | [In development](https://www.newvision.co.ug/category/business/construction-of-sh4b-service-uganda-centre-be-NV_229820_062026) | Construction launched at the postal service's premises, USh4bn contract |
@@ -357,20 +358,20 @@ The bilateral health memorandum [signed at Kampala on 10 December 2025](https://
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Beera Ku Digital skilling programme | [Implemented](https://www.ucc.co.ug/wp-content/uploads/2025/11/UCC-Market-Report-for-Q3-2025-Sep-2025.pdf) | 3,000 riders digitally onboarded in Q3 2025 |
 | National digital-literacy rate | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Young Africa Works in Uganda | [Implemented](https://mastercardfdn.org/en/news/mastercard-foundation-launches-10-year-plan-to-enable-3-million-young-people-in-uganda-to-access-dignified-work/) | US$200m commitment recorded, running to 2030 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | KOICA distance-education project, Makerere University | [Implemented](https://softpower.ug/muyingo-launches-12-2m-koica-project-to-revolutionise-digital-learning-at-makerere/) | US$12.2m grant recorded for 2025-2030; e-content for 2,560 courses across ten colleges |
 
@@ -386,13 +387,13 @@ The state ICT institute reported [48,448 people trained in FY2025/26](https://te
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Uganda Digital Acceleration Project | [Implemented](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations) | Named as funder of three service-centre pilots |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic state digital-transformation budget | ***Not held*** | — |
 

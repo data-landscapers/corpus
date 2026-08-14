@@ -1,14 +1,15 @@
 ---
 title: Central African Republic — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: CAF
 ledger_rows: 70
 not_held: 14
+record: eccb27030731
 ---
 
 # Central African Republic: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/CAF/ledger.csv` (70 systems and instruments, 14 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/CAF/ledger.csv` (70 systems and instruments, 14 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Connectivity limits everything else. Internet use is [about 670,000 users, 12.0%
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central African Internet Exchange | [Implemented](https://www.iam.ma/documents/66341/0/Maroc+Telecom+-+Rapport+financier+S1+2026+%282%29.pdf/261de29d-cee8-407f-1e28-dbb3a53f985f) | Creation recorded under highlights for January 2026 in a foreign operator's half-year report |
 | Fourth-generation mobile licensing | [Implemented](https://www.techreviewafrica.com/news/5420/telecel-centrafrique-launches-4g-services-in-bangui-to-expand-national-connectivity) | A third operator launched 4G in Bangui, completing commercial service at all three |
@@ -38,7 +39,7 @@ Connectivity limits everything else. Internet use is [about 670,000 users, 12.0%
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government secure interconnection network | [Planned](https://www.agenceecofin.com/actualites-numerique/2705-138800-la-centrafrique-modernise-l-infrastructure-numerique-de-son-administration-avec-huawei) | Included as the second axis of the vendor package presented at the May 2026 working meeting |
 | Incumbent operator privatisation | [In development](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) | The minister met the counterparty's operations vice-president, moving a September 2025 memorandum to an operational phase |
@@ -46,19 +47,19 @@ Connectivity limits everything else. Internet use is [about 670,000 users, 12.0%
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electricity supply for digital infrastructure | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Technical capacity, workforce and skills | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybersecurity and electronic-certification platform | [Implemented, per the announcer](https://www.agenceecofin.com/infrastructures/0802-105283-inauguration-de-la-dorsale-optique-nationale-de-la-republique-centrafricaine-et-de-l-interconnexion-avec-le-congo) | Listed in the development bank's delivered scope at the backbone inauguration |
 | National cybersecurity agency | [Planned](https://www.africatopsuccess.com/un-projet-de-loi-pour-lutter-contre-la-cybercriminalite-en-centrafrique/) | The 2026 estimates and programme budget carry no line, allocation or institution for the agency, a third consecutive year |
@@ -77,13 +78,13 @@ Nothing is built for hosting: the [national Tier III data centre remains unbuilt
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government interoperability or data-exchange layer | ***Not held*** | — |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric electoral register | [Implemented](https://french.xinhuanet.com/20250825/216678a5ca894a1d915b2f5528ff0973/c.html) | The electoral authority published the definitive electoral list |
 | Biometric passport issuance | [Implemented](https://corbeaunews-centrafrique.org/centrafrique-reprise-controversee-de-la-delivrance-des-passeports-a-bangui/) | Issuance resumed under a new operator |
@@ -92,28 +93,28 @@ Nothing is built for hosting: the [national Tier III data centre remains unbuilt
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electricity bill payment over mobile money | [Implemented](https://oubanguimedias.com/2026/08/07/centrafrique-telecel-et-enerca-signent-un-partenariat-pour-digitaliser-le-paiement-des-factures-delectricite/) | Official launch at Bangui 2026-08-04 under a contract dated October 2025 |
 | Gulf-state digital finance and land-banking memorandum | [Planned](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) | A memorandum signed at Bangui by the minister coordinating major works and strategic investments |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Birth-registration project | [Piloting](https://www.biometricupdate.com/202508/la-francophonie-supports-birth-registration-efforts-across-central-africa-madagascar) | A project launched across the region including the country |
 | Cadastre and land-registry digitisation | [In development](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) | A Gulf-state memorandum adds land-administration modernisation to the stated programme |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-service payroll and human-resources system | [Implemented](https://documents1.worldbank.org/curated/en/099052925135520222/pdf/BOSIB-50d33b34-4918-409e-92f7-070a1773ac56.pdf) | A funder project paper recorded the payroll clean-up as a project achievement |
 | Sector management information systems | ***Not held*** | — |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ministry-wide planning platform | [Implemented](https://africanmanager.com/la-republique-centrafricaine-a-lance-un-projet-de-numerisation-de-tout-un-ministere/) | An official launch under presidential patronage, digitising a whole ministry |
 | Online tax declaration and payment platform | [Implemented](https://www.agenceecofin.com/actualites-numerique/2503-126985-la-centrafrique-lance-officiellement-e-tax-sa-plateforme-de-paiement-d-impots-en-ligne) | Officially launched after adoption and training from January 2025 |
@@ -123,26 +124,26 @@ Nothing is built for hosting: the [national Tier III data centre remains unbuilt
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | First free public Wi-Fi point | [Implemented](https://ndjonisango.com/2026/04/24/rca-bocaranga-entre-dans-lere-numerique-avec-le-premier-wi-fi-public-gratuit-du-pays/) | Inaugurated by the President during a north-western tour |
 | Universal service fund school and community connectivity | [In development](https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026) | Effective implementation listed among the regulator's 2026 priorities at the session presenting a draft budget of FCFA 6.2bn |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Local-government digital systems | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Harmonised household living-conditions survey | [Implemented, field collection running](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques) | Enumerator teams deployed nationwide, opening six months of collection |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Earth-observation or satellite data | ***Not held*** | — |
 
@@ -160,14 +161,14 @@ Below that the layer is missing: no interoperability or data-exchange framework 
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybersecurity and cybercrime law | [Implemented](https://www.africatopsuccess.com/un-projet-de-loi-pour-lutter-contre-la-cybercriminalite-en-centrafrique/) | Voted by acclamation 2024-01-25, with promulgation reported as imminent |
 | Public procurement code | [Implemented](https://acap-rca.com/2025/12/11/centrafrique-lassemblee-nationale-adopte-un-nouveau-cadre-legislatif-pour-la-commande-publique/) | Adopted by acclamation 2025-12-11, replacing a 2008 law |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National development plan 2024-2028 | [Implemented](https://mepci-rca.org/2026/02/11/la-digitalisation-des-services-publics-et-la-gouvernance-numerique-du-pnd-2024-2028/) | The governing framework since 2024, with an investors' round table in September 2025 |
 | Public finances digitalisation plan 2025-2027 | [In development](https://oubanguimedias.com/2025/06/20/centrafrique-presentation-du-plan-e-finances-publiques-de-la-rca-de-2025-2027/) | Presented by the finance minister 2025-06-18; a costed operational plan due in April 2025 not published |
@@ -175,20 +176,20 @@ Below that the layer is missing: no interoperability or data-exchange framework 
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CEMAC interoperable QR-code standard | [Implemented](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | Launched by the regional central bank and the payments body at Douala under an April 2026 regulation |
 | Regional digital integration programme accession | [Planned](https://africabusinessinsight.com/central-african-republic-explores-world/) | The minister met a development-bank delegation on the country's participation; no financing agreement recorded |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regulator spectrum-monitoring and quality-of-service systems | [Implemented, one package delivered](https://documents1.worldbank.org/curated/en/099022326062517094/txt/P174620-44b07ebc-4ee2-437f-bb52-4677f8ba9fda.txt) | A spectrum contract signed 2024-10-06 and completed 2025-06-19; a quality-of-service package signed 2024-10-15 with no completion date printed |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data protection authority | [Planned](https://dataprotection.africa/central-african-republic) | A twelve-month statutory deadline expired in January 2025 with no establishment recorded |
 | Loi n. 24.001 on personal data protection | [Implemented](https://dataprotection.africa/central-african-republic) | Promulgated January 2024; no implementing decree found |
@@ -196,14 +197,14 @@ Below that the layer is missing: no interoperability or data-exchange framework 
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-status modernisation programme | [Implemented](https://oubanguimedias.com/2026/02/23/centrafrique-le-comite-technique-dappui-et-de-suivi-du-projet-dappui-a-la-modernisation-de-letat-civil-valide-les-activites-du-projet-modero/) | A steering committee validated the implementing partner's 2025 activities 2026-02-20 |
 | Digital collection of administrative fees | [Piloting](https://ndjonisango.com/2026/04/18/rca-une-formation-sur-la-digitalisation-du-systeme-de-paiement-pata-polele-dans-trois-ministeres-cles/) | An implementation workshop 14 to 16 April 2026 with three pilot ministries |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open government data portal or catalogue | ***Not held*** | — |
 
@@ -219,20 +220,20 @@ The universal service fund is a rule without an outcome. Provided for by a 2018 
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI system deployed in state service delivery | ***Not held*** | — |
 | National AI policy, strategy or regulation | ***Not held*** | — |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bitcoin as legal tender | [Discontinued](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf) | Parliament amended the April 2022 cryptocurrency law, revoking legal-tender status |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Presidential meme coin | [Implemented, no measurable domestic uptake](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf) | Announced by the President; it passed US$900m market capitalisation over the launch weekend and then lost more than 75% of its value |
 | State-sponsored token | [Discontinued](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf) | The project announced it would not continue in its original form, the website already offline |
@@ -240,25 +241,25 @@ The universal service fund is a rule without an outcome. Provided for by a 2018 
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Incumbent-operator privatisation and recapitalisation | [In development](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) | The minister met the counterparty's operations vice-president; the government declared the September 2025 memorandum in its operational phase |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Vendor four-axis e-government programme | [Planned](https://www.agenceecofin.com/actualites-numerique/2705-138800-la-centrafrique-modernise-l-infrastructure-numerique-de-son-administration-avec-huawei) | A working meeting setting four axes: a national data centre, five microwave-relay sites, unified telephony and videoconferencing, and a secure police radio network |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-linked technology activity | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital finance and land-banking memorandum | [Planned](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) | A memorandum signed at Bangui |
 
@@ -274,25 +275,25 @@ The sector cannot be sized: no revenue, employment or operator disclosure is hel
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Satellite retail service affordability | [Implemented, with non-homologated kits suspended](https://www.agenceecofin.com/actualites-numerique/1703-136713-starlink-en-centrafrique-entre-couverture-nationale-et-defis-d-accessibilite) | Roaming on illegally imported kits suspended six weeks after commercial launch |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital literacy programme | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital skills or training programme | ***Not held*** | — |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Research capacity | ***Not held*** | — |
 
@@ -304,19 +305,19 @@ Skills, literacy and research carry no programme at all: three years of budget e
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regional digital integration programme | [Planned](https://africabusinessinsight.com/central-african-republic-explores-world/) | The minister met a development-bank delegation; no amount, instrument or date committed |
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Dormant data-centre memorandum | [In development, dormant](https://oubanguimedias.com/2025/01/22/centrafrique-le-gouvernement-signe-un-memorandum-dentente-avec-la-societe-aial-pour-la-construction-dun-centre-de-donnees-numeriques/) | Signed January 2025 and never advanced to contract |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Administration telephone arrears to the incumbent operator | [Planned, proposed stage only](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf) | Carried unchanged at FCFA 250m in the 2026 framework |
 | Customs system deployment | [Planned, proposed stage only](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf) | A single 2026 activity for deployment to third-terminal sites |

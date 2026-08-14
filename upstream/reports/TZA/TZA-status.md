@@ -1,14 +1,15 @@
 ---
 title: Tanzania — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: TZA
-ledger_rows: 89
+ledger_rows: 90
 not_held: 13
+record: 43aa366b896a
 ---
 
 # Tanzania: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/TZA/ledger.csv` (89 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/TZA/ledger.csv` (90 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -28,7 +29,7 @@ The base holds no Tanzanian cybersecurity strategy, no incident-response team, n
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 636-mast programme | [In development](https://www.mwananchi.co.tz/mw/habari/kitaifa/waziri-kairuki-watanzania-wengi-hawajanufaika-na-mkongo-wa-taifa-5536718) | Due March 2027 |
 | Kenya border terrestrial fibre link | [Implemented](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/) | Launched 2026-07-29 |
@@ -41,7 +42,7 @@ The base holds no Tanzanian cybersecurity strategy, no incident-response team, n
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Local cloud exchange platform | [Implemented](https://dailynews.co.tz/wingu-africa-launches-wcx-in-tanzania/) | Launched in Tanzania in November 2025, its first market |
 | Mbezi Tier III data centre, second phase | [Implemented](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-digital-shift-gathers-pace-with-50-million-data-centre-4970620) | The second phase launched 2025-03-19 |
@@ -50,20 +51,20 @@ The base holds no Tanzanian cybersecurity strategy, no incident-response team, n
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Energy provision for digital infrastructure | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber-skills partnership with South Korea | [Implemented](https://www.mwananchi.co.tz/mw/habari/kitaifa/tanzania-kuongeza-wataalamu-kupambana-na-wadukuzi-mtandaoni-5158368) | The partnership announced 2025-08-17 |
 | Practical backbone training with a technical institute | [Implemented](https://techafricanews.com/2026/07/23/ttcl-equips-dit-students-with-practical-broadband-infrastructure-skills/) | Reported 2026-07-23; the visit date is not stated |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Tanzania Cybersecurity Forum | [Implemented](https://www.thecitizen.co.tz/tanzania/news/national/experts-back-tanzania-s-cyber-security-push-amid-growing-digital-threats-4998368) | A fourth edition held at Arusha, April 2025 |
 | Zanzibar cybersecurity capacity memorandum | [Implemented](https://www.mwananchi.co.tz/mw/zanzibar/wizara-ya-mawasiliano-yawekeza-katika-usalama-wa-mtandao-kuziba-mianya-ya-wahalifu-5492792) | A memorandum signed, reported 2026-06-11 |
@@ -85,7 +86,7 @@ Security is the thinnest position here: no national cybersecurity strategy, cybe
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Appeals module integration with the judiciary | [Planned](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668) | The authority announced plans to integrate the module with the judiciary's system |
 | Credit reference data system | [Implemented](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | The annual report recorded the system developed and deployed with onboarding under way |
@@ -95,7 +96,7 @@ Security is the thinnest position here: no national cybersecurity strategy, cybe
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Centralised identity card printing | [Implemented](https://dailynews.co.tz/national-ids-to-stay-under-centralised-printing/) | The government declined a request to print identity cards in Zanzibar, on security grounds |
 | Certificate-dispensation window | [Implemented](https://www.mwananchi.co.tz/mw/habari/kitaifa/waliofukuzwa-kwa-vyeti-feki-kupata-nida-5279344) | A one-year window opened for more than 14,000 dismissed public servants to correct records and obtain identity cards |
@@ -107,7 +108,7 @@ Security is the thinnest position here: no national cybersecurity strategy, cybe
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central bank digital currency | [In development, under study](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | The annual report restated that a digital currency remains under study |
 | Central Electronic Ticketing System | [Implemented](https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/) | Transport ministry figures to March 2026 |
@@ -123,7 +124,7 @@ Security is the thinnest position here: no national cybersecurity strategy, cybe
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Birth registration programme, 2026-2027 | [Planned](https://www.biometricupdate.com/202606/unicef-seeks-partner-to-expand-birth-registration-legal-identity-in-tanzania) | A national partner sought for a programme running August 2026 to August 2027 |
 | Cooperative management system | [Implemented](https://dailynews.co.tz/ega-drives-digital-farming/) | The e-government agency gave the registered-society count at an agricultural exhibition |
@@ -132,27 +133,33 @@ Security is the thinnest position here: no national cybersecurity strategy, cybe
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Agriculture and fertiliser information systems | [Implemented](https://dailynews.co.tz/ega-drives-digital-farming/) | Both systems described at an agricultural exhibition |
 | Health management information system | [Implemented](https://pmc.ncbi.nlm.nih.gov/articles/PMC10617168/) | An analysis recorded the platform carrying over 90% of data flows across a fragmented ecosystem |
 
+### Other GovTech and e-Gov
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Sovereign Yield Curve system | [Implemented](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792) | Launched by the Bank of Tanzania, 7 August 2026 |
+
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Make Kibamba Digital | [In development](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047) | Launched at an equipment handover 2026-08-04 |
 | Local-government administrative and financial systems | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National statistical system objects | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Educational cubesat | [Planned](https://www.mwananchi.co.tz/mw/habari/kitaifa/kairuki-aomba-222-5-bilioni-kamati-yaitaja-tcra-5442016) | A line item in the ministry's FY2026/27 budget request |
 | Earth-observation or national geospatial data programme | ***Not held*** | — |
@@ -171,45 +178,45 @@ Vodacom Tanzania's [M-Wekeza wallet-based investment platform has taken more tha
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Financial consumer protection amendment regulations | [Implemented](https://kemiadvocates.co.tz/2025/06/27/legal-update-key-highlights-of-the-bank-of-tanzania-financial-consumer-protection-amendment-regulations-gn-no-298-of-2025-date-23-may-2025) | Dated 2025-05-23 |
 | Online content and cybercrime regulation | ***Not held*** | — |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Data Management Framework | [In development](https://www.mwananchi.co.tz/mw/habari/kitaifa/tanzania-yajipanga-ukinara-ulinzi-wa-data-uchumi-wa-kidijitali-afrika-5173946) | A stakeholder process reported under way, completion targeted January 2026 |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EAC regional AI strategy | [In development](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/) | National stakeholder consultations held in Tanzania 2026-02-12 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data or interoperability standards instrument | ***Not held*** | — |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Certified Data Protection Officer programme | [Implemented](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/) | Launched 2026-07-14 by the commission with the open university |
 | Personal Data Protection Act, 2022 | [Implemented](https://www.clydeco.com/en/insights/2026/02/notification-obligations-arising-from-personal-dat) | Commenced 2023-05-01, with regulations in force |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU-Tanzania digital governance instrument | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open-data policy or national open-data portal | ***Not held*** | — |
 
@@ -227,7 +234,7 @@ The [National Data Management Framework was in stakeholder drafting for a Januar
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cardiac institute digital patient tracking and AI imaging | [Implemented](https://www.thecitizen.co.tz/tanzania/news/national/jkci-s-digital-patient-tracking-system-sets-new-standard-for-follow-up-healthcare-in-tanzania-5528476) | The institute reported the tracking system in use for medical-camp follow-up |
 | Kiswahili large language model | [Planned](https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026) | Set out by the ICT minister to an international AI meeting as a commitment written into the 2050 vision |
@@ -238,32 +245,32 @@ The [National Data Management Framework was in stakeholder drafting for a Januar
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Economy Strategic Framework 2024-2034 | [Implemented](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | The implementation year opened and targets restated at an annual ICT conference |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Accelerator placement | [Implemented](https://blog.google/intl/en-africa/company-news/meet-the-15-startups/) | A Dar es Salaam company named in a fifteen-startup cohort |
 | ITU acceleration centre | [Planned](https://www.biometricupdate.com/202604/tanzania-itu-innovation-center-to-drive-digital-transformation-set-for-launch) | Final approval at an international innovation board meeting |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States technology-sector engagement | ***Not held*** | — |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-Tanzania technology cooperation | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state technology or AI engagement | ***Not held*** | — |
 
@@ -281,27 +288,27 @@ The [framework targets the ICT share of GDP doubled to 3% by 2029](https://www.t
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital transformation centre for rights and gender equity | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202222214%22) | A EUR 3,000,000 commitment for 2024 to 2027 recorded in the compiled finance layer |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Third National Financial Inclusion Framework | [Implemented](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | The council reported on implementation for 2025 |
 | Universal service fund rural site programme | [Implemented](https://techreviewafrica.com/news/4919/) | 133 fund sites completed, marked at a Dodoma event |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital clubs programme | [Implemented](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/) | The regulator's director general put the count at 800 clubs, reported 2026-08-04 |
 | Science and ICT education grant | [Implemented](https://medhospafrica.com/2025/08/07/the-revolutionary-role-that-korea-has-played-in-improving-tanzanias-health-and-educational-systems/) | A grant of about US$10m for secondary-school science and ICT education, running to 2027 |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ICT workforce training with European partners | [Implemented](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292) | Training opened in Dar es Salaam for 110 participants across four named priority areas |
 | Overseas AI and data-science scholarship placements | [Implemented, partially](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | The education minister told a parliamentary committee that sixteen graduates had travelled and 34 were expected |
@@ -309,7 +316,7 @@ The [framework targets the ICT share of GDP doubled to 3% by 2029](https://www.t
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | University ICT college building | [In development](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | A parliamentary committee inspected the building under construction under a higher-education project |
 | National ICT or AI research programme or fund | ***Not held*** | — |
@@ -326,14 +333,14 @@ Skills are supplied in cohorts of [110 participants across AI, cybersecurity, pe
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Tanzania Project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P160766) | Board approval of a US$150m operation covering broadband, digital government, digital financial services and digital skills |
 | Payment-rails credit facility | [Implemented](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/) | A US$25m credit facility announced, extendable to US$50m |
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral digital-cooperation tracks with Brazil, Poland and Russia | [Planned](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/) | Cooperation frameworks agreed at an international summit; memoranda proposed, none signed |
 | Digital economy memorandum with Huawei | [In development](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) | Signed in Shanghai by the ministry's permanent secretary, witnessed by the minister |
@@ -341,7 +348,7 @@ Skills are supplied in cohorts of [110 participants across AI, cybersecurity, pe
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic state appropriation for digital transformation | [Implemented](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf) | Estimates for Vote 68 presented to Parliament 2026-04-30 |
 

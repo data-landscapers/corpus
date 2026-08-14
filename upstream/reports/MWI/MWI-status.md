@@ -1,14 +1,15 @@
 ---
 title: Malawi — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: MWI
-ledger_rows: 151
+ledger_rows: 152
 not_held: 58
+record: 2c05b977e138
 ---
 
 # Malawi: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/MWI/ledger.csv` (151 systems and instruments, 58 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/MWI/ledger.csv` (152 systems and instruments, 58 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,12 +27,13 @@ The record is thinnest where it would need to be strongest to test any of this: 
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Access Communications licence | [Implemented, marginal share](https://itweb.africa/article/malawi-seeks-new-telecom-competition/rW1xLv5n1Xb7Rk6m) | Licensed 2007 |
 | Additional mobile operator licensing round | [Planned](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/) | Minister told Parliament the President had authorised the ministry to identify an investor |
 | Airtel Malawi satellite connectivity plan | [Planned](https://techafricanews.com/2026/05/22/airtel-malawi-eyes-satellite-connectivity-as-it-boosts-network-expansion-strategy/) | Interest signalled at the 27th annual general meeting |
 | Communication tower programme | [In development](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt) | Procurement of service providers for more than 90 towers advanced |
+| Converged Technology Networks fixed-wireless network | [Implemented](https://itweb.africa/article/lilongwe-gains-expanded-4g-access/kYbe9MXbZyzvAWpG) | Five new base stations switched on in Lilongwe, 11 August 2026 |
 | Digital Malawi Acceleration Project | [Implemented](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt) | Tower procurement advanced at a Blantyre stakeholder meeting |
 | Four-year ICT investment plan | [Planned](https://malawi24.com/2026/06/09/malawi-eyes-wider-digital-access-in-180m-huawei-ict-deal/) | Roadmap presented to the vendor in China |
 | Last Mile Connectivity and National Data Centre loan | [Implemented](http://africa.chinadaily.com.cn/weekly/2018-07/13/content_36567490.htm) | Authorised by Parliament 2019-01-25 |
@@ -49,7 +51,7 @@ The record is thinnest where it would need to be strongest to test any of this: 
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Boma Lathu National Data Exchange Platform | [Implemented](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | Immigration e-services integration agreed at a Lilongwe meeting |
 | Commercial data centre, Lilongwe | [Implemented](https://malawi24.com/2026/05/01/sparc-moves-to-end-malawis-reliance-on-offshore-data/) | Launched at the company's technology event |
@@ -59,7 +61,7 @@ The record is thinnest where it would need to be strongest to test any of this: 
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Solar-powered coverage extension | [Planned](https://times.mw/tnm-turns-30-sets-ambitious-plans/) | Stated at the operator's 30th-anniversary event |
 | Delivered IT load of the national and commercial data centres | ***Not held*** | — |
@@ -69,7 +71,7 @@ The record is thinnest where it would need to be strongest to test any of this: 
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial intelligence laboratories and innovation hubs | [Planned](https://times.mw/tnm-turns-30-sets-ambitious-plans/) | Announced for the following year at the operator's 30th-anniversary event |
 | Malawi Research and Education Network | [Implemented](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | Reported at the foundations project's close |
@@ -79,7 +81,7 @@ The record is thinnest where it would need to be strongest to test any of this: 
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese safe-city surveillance package offer | [Planned, not proceeding](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/) | Recorded as rejected in a five-country research report |
 | Malawi Computer Emergency Response Team | [Implemented, housed inside the regulator](https://techafricanews.com/2026/03/26/malawi-secures-world-bank-backing-to-strengthen-cybersecurity-and-data-protection-frameworks/) | Independence stated as intended at a World Bank meeting in Blantyre |
@@ -103,7 +105,7 @@ Only 3% of web content consumed in Malawi is served from within the country and 
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Customs IT connectivity arrangement with South Africa | [Planned](https://itweb.africa/article/malawi-sa-sign-digital-customs-deal/raYAyqorGalMJ38N) | Signed 2026-08-05, no go-live date stated |
 | Enterprise Service Bus | [In development](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | Industry association pressing the e-government department to onboard all agencies |
@@ -111,7 +113,7 @@ Only 3% of web content consumed in Malawi is served from within the country and 
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Blockchain-enabled Digital ID Wallet | [Piloting](https://www.biometricupdate.com/202505/malawi-nears-full-scale-digital-id-rollout-to-streamline-access-to-services) | Stated to be in pilot ahead of nationwide rollout |
 | Electoral management devices and the electronic voter register | [Implemented](https://africabrief.substack.com/p/mec-rejects-observer-coalitions-electronic) | 6,500 devices deployed at the 16 September 2025 elections |
@@ -122,7 +124,7 @@ Only 3% of web content consumed in Malawi is served from within the country and 
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Competition authority interoperability order on mobile-money e-ticketing | [Implemented, compliance unreported](https://malawi24.com/2025/07/16/cftc-orders-tnm-mpamba-to-open-e-ticketing-platform-to-other-payment-providers/) | Order issued 2025-07-16 with one year to comply |
 | Mobile money integration with the agricultural marketing corporation | [Implemented](https://itweb.africa/article/airtel-digitises-malawian-farmer-payments/JN1gPvOAE4DMjL6m) | Launched in Blantyre |
@@ -134,7 +136,7 @@ Only 3% of web content consumed in Malawi is served from within the country and 
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Land Information Management System | [Implemented](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m) | Workflow review workshop convened |
 | National Addressing System Project | [In development](https://macra.mw/national-addressing-project/) | Programme described by the regulator on its site |
@@ -145,7 +147,7 @@ Only 3% of web content consumed in Malawi is served from within the country and 
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Automated human resource and payroll management platform | [Piloting](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85) | Pilot reported ahead of government-wide rollout |
 | Crime Management System | [Piloting](https://www.undp.org/malawi/news/dockets-data-malawi-police-and-undp-malawi-advance-digital-transformation-crime-management) | Three-day technical training opened in Lilongwe |
@@ -156,7 +158,7 @@ Only 3% of web content consumed in Malawi is served from within the country and 
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Malawi National Electronic Procurement System | [Implemented](https://www.ppda.mw/newsdetail/19) | Mandatory for all public entities from 2026-04-01 |
 | New passport issuance system | [Implemented, backlog unresolved](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | Printing resumed at Mangochi, stated in Parliament |
@@ -165,14 +167,14 @@ Only 3% of web content consumed in Malawi is served from within the country and 
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Agricultural Data Infrastructure | [Planned](https://developmentgateway.org/blog/unlocking-the-potential-of-digital-public-infrastructure-for-climate-data-and-agriculture-malawi/) | Framework proposed; nothing built |
 | University AI fertigation facility, Thyolo | [Implemented](https://itweb.africa/article/malawi-university-deploys-ai-fertigation-technology/dgp45vaB8W57X9l8) | Commissioned 2026-07-17, greenhouse planted from August 2026 |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Blantyre City Council digital revenue collection | [Planned](https://itweb.africa/article/malawis-second-city-digitises-tax-collection/GxwQDq1DYWeMlPVo) | Partnership agreement signed |
 | Constituency Development Fund real-time dashboard | [Implemented](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/) | Coverage and complaints channel stated by the ministry 2026-08-04 |
@@ -182,7 +184,7 @@ Only 3% of web content consumed in Malawi is served from within the country and 
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Payments System Report series | [Implemented](https://times.mw/national-payment-system-registers-growth-in-2024-quarter-3) | 2025 annual report published 2026-03-30 |
 | Financial inclusion consumer survey, next round | ***Not held*** | — |
@@ -190,7 +192,7 @@ Only 3% of web content consumed in Malawi is served from within the country and 
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National earth-observation or satellite data programme | ***Not held*** | — |
 
@@ -210,11 +212,11 @@ Mobile money carried MWK 37.9tn in 2025, but merchant payments were 7.7% of tran
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI Bill | [Planned](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85) | Announced by the ICT minister at the Heads of ICT meeting, Lilongwe |
 | Data Protection Act 2024 | [Implemented](https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf) | Commenced 2024-06-03; the 24-month general exemption elapsed early June 2026 |
-| Financial Crimes (Amendment) Bill No. 19 of 2026 | [In development, passed by Parliament awaiting assent](https://www.nyasatimes.com/mcp-mp-warns-rural-malawi-risks-being-left-behind-in-switch-away-from-cheques-unless-govt-fixes-patchy-internet/) | Passed by Parliament in the week to 2026-08-06 |
+| Financial Crimes (Amendment) Bill No. 19 of 2026 | [In development, passed by Parliament awaiting assent](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/) | Passed by Parliament in the week to 2026-08-06 |
 | Government Data Sharing Regulation | [In development](https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz) | Proposed regulation announced by the Ministry of ICT |
 | Review of the National Registration Act | [In development](https://cajnewsafrica.com/2026/07/13/malawi-outlines-plans-to-transition-to-digital-ids/) | Stakeholder consultative meeting concluded in Lilongwe |
 | Access to Information Act 2017 | ***Not held*** | — |
@@ -223,7 +225,7 @@ Mobile money carried MWK 37.9tn in 2025, but merchant payments were 7.7% of tran
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Draft National Artificial Intelligence Strategy | [In development](https://itweb.africa/article/malawi-initiates-dialogue-on-ai-strategy/WnpNgq21aa2MVrGd) | Validation workshop opened 2026-02-18; readiness assessment validated 2026-07-22 |
 | Draft National Digital Transformation Strategy | [In development](https://itweb.africa/article/malawi-initiates-dialogue-on-ai-strategy/WnpNgq21aa2MVrGd) | Validation workshop opened at the international conference centre |
@@ -232,7 +234,7 @@ Mobile money carried MWK 37.9tn in 2025, but merchant payments were 7.7% of tran
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Lilongwe Declaration on Collaborative Regulation | [Implemented, voluntary and non-binding](https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/) | Adopted at the close of the regional regulators' summit, Lilongwe, 13-15 April 2026 |
 | Regulator collaboration with UNDP on AI, digital identity and data protection | [Planned](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1) | Priority areas identified in discussions; no agreement recorded |
@@ -241,7 +243,7 @@ Mobile money carried MWK 37.9tn in 2025, but merchant payments were 7.7% of tran
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Blank media levy distribution methodology | [Implemented](https://malawi24.com/2026/08/04/ignoring-streaming-boom-cosoma-still-relies-on-cd-burning-data-for-royalty-payouts/) | Digital-consumption proposal rejected at an annual general meeting |
 | Copyright society rule on wholly AI-generated works | [Implemented](https://malawi24.com/2026/07/23/malawi-draws-the-line-on-ai-music/) | Decision date not established; reported 2026-07-23 as taken some weeks earlier |
@@ -249,7 +251,7 @@ Mobile money carried MWK 37.9tn in 2025, but merchant payments were 7.7% of tran
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection Authority within the regulator | [In development](https://ppda.mw/storage/documents/opentenders/ToRs%20OPERATIONALIZATION_OF_THE_DATA_PROTECTION_Act.pdf) | Head of data protection named and an implementation framework reported |
 | Draft Data Protection Regulations, Guidelines and Registration Fees | [In development](https://itweb.africa/article/malawi-advances-data-protection-framework/xnklOvz14wkq4Ymz) | Stakeholder consultation held in Blantyre |
@@ -260,19 +262,19 @@ Mobile money carried MWK 37.9tn in 2025, but merchant payments were 7.7% of tran
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public and parliamentary contestation of Malawi's data governance | ***Not held*** | — |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU-Malawi digital and data governance cooperation | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Machine-readable access to the electronic voter register | [Implemented, access refused](https://africabrief.substack.com/p/mec-rejects-observer-coalitions-electronic) | Chief Elections Officer refused the request |
 | Malawi Low Resource Language Data Trust | [In development](https://techafricanews.com/2026/06/24/malawi-launches-chichewa-ai-initiative-to-drive-digital-inclusion-and-innovation/) | Launched at the national language data trust workshop, Lilongwe |
@@ -291,7 +293,7 @@ A national digital transformation strategy and a national AI strategy, the latte
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Defence force cooperation with China on military AI and cybersecurity | [Planned](https://times.mw/mdf-eyes-ai-warfare-as-china-expands-support/) | Intention stated by the Defence Minister at a People's Liberation Army anniversary event, Lilongwe |
 | UNESCO AI Readiness Assessment report | [Implemented](https://itweb.africa/article/malawi-moves-to-strengthen-ai-ecosystem/j5alr7QAwoV7pYQk) | Validated at a Lilongwe workshop |
@@ -302,7 +304,7 @@ A national digital transformation strategy and a national AI strategy, the latte
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Bank of Malawi and ICT Association Innovation Jam | [Implemented](https://malawi24.com/2025/11/19/k75-5-to-helpm-malawian-young-innovators-turn-ideas-into-thriving-solutions/) | Three-year memorandum signed alongside a MWK 75,500,000 donation |
 | Count of licensed technology firms and data centre operators | ***Not held*** | — |
@@ -311,7 +313,7 @@ A national digital transformation strategy and a national AI strategy, the latte
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | PayChangu | [Implemented](https://www.wearetech.africa/en/fils-uk/solutions/malawian-fintech-paychangu-targets-sme-growth-with-unified-payment-infrastructure) | Founded 2021; unified payment infrastructure profiled |
 | University innovation lab | [Implemented](https://open.undp.org/projects/00131461) | Since 2019; scheduled end year 2026 |
@@ -323,25 +325,25 @@ A national digital transformation strategy and a national AI strategy, the latte
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States-Malawi technology cooperation | ***Not held*** | — |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Current position on the Chinese safe-city surveillance package | ***Not held*** | — |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-Malawi technology cooperation | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf state technology investment in Malawi | ***Not held*** | — |
 
@@ -359,26 +361,26 @@ A statutory copyright body has meanwhile set an authorship rule ahead of the sta
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Universal Service Fund | [Implemented, under-resourced](https://techafricanews.com/2026/03/26/malawi-moves-to-expand-rural-connectivity-with-90-new-telecom-towers/) | Director General stated funding levels insufficient |
 | Rural-urban and gender divide in internet use | ***Not held*** | — |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Retail data and device affordability | ***Not held*** | — |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital literacy measure or programme | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel Nzeru Connect school programme | [Implemented](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/) | Expansion announced 2026-07-15 |
 | Airtel Nzeru Fund STEM scholarships | [Implemented](https://malawi24.com/2026/01/07/airtel-bets-on-malawis-digital-future-with-new-stem-scholarships/) | Launched 2026-01-07 with 25 places |
@@ -387,7 +389,7 @@ A statutory copyright body has meanwhile set an authorship rule ahead of the sta
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National research capacity in digital technologies | ***Not held*** | — |
 
@@ -401,7 +403,7 @@ Schools are the clearest case. 85% of Malawi's 9,000 schools have limited or no 
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Governance to Enable Service Delivery Project | [Discontinued](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/) | Closed 2026-06-30 |
 | Inclusive Digital Transformation for Malawi | [Implemented](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-37646) | Draft AI and digital transformation strategies entered validation |
@@ -411,14 +413,14 @@ Schools are the clearest case. 85% of Malawi's 9,000 schools have limited or no 
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Vendor investment memorandum | [Planned](https://malawi24.com/2026/06/09/malawi-eyes-wider-digital-access-in-180m-huawei-ict-deal/) | Roadmap presented in China; no agreement made public |
 | The Malawi-vendor signed instrument | ***Not held*** | — |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Malawi national budget documents | ***Not held*** | — |
 | Universal Service Fund accounts | ***Not held*** | — |

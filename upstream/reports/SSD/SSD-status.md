@@ -1,14 +1,15 @@
 ---
 title: South Sudan — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: SSD
 ledger_rows: 63
 not_held: 12
+record: 1f08f4a53b63
 ---
 
 # South Sudan: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/SSD/ledger.csv` (63 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SSD/ledger.csv` (63 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Governance follows the systems. A [cybercrime statute is in force from February 
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bayobab national and cross-border fibre network | [In development](https://techafricanews.com/2025/11/25/mtn-digital-infrastructure-secures-15-year-license-to-expand-fibre-network-in-south-sudan/) | Project moved to execution with NCT South Sudan, early 2026 |
 | Mobile coverage extension in Kauto Administrative Area | [Planned](https://www.radiotamazuj.org/en/news/article/kauto-leaders-call-for-urgent-expansion-of-mobile-network-coverage) | A coverage extension expected from February 2026 has not been delivered |
@@ -40,7 +41,7 @@ Governance follows the systems. A [cybercrime statute is in force from February 
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gateway Services and Data Centre Oversight Committee | [Implemented](https://www.eyeradio.org/nca-establishes-gateway-and-data-center-oversight-committee) | Constituted by the NCA with MGI Communications, 17 January 2026 |
 | Government data-hosting and cloud guidelines | [Planned](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Recorded as unpublished in the regional project's seventh implementation report |
@@ -48,13 +49,13 @@ Governance follows the systems. A [cybercrime statute is in force from February 
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CREI solar-hybrid telecom energy programme | [Implemented](https://itweb.africa/article/south-sudan-green-network-gets-5m-boost/) | Finnfund follow-on of US$5m, bringing its total investment to US$10m |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Financial Services Security Lab | [Implemented](https://www.eyeradio.org/south-sudan-boosts-mobile-payment-security-with-itu-dfs-lab-training/) | Stood up by the NCA and the Bank of South Sudan with the ITU |
 | National computer security incident response team | [Planned](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Recorded as not established in the regional project's seventh implementation report |
@@ -85,13 +86,13 @@ Spectrum governance is at inception: the [5G and spectrum strategy has a work pl
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Real-time gross settlement component | [Implemented](https://cajnewsafrica.com/2026/05/20/south-sudan-platform-to-digitise-economy-pays-off/) | Exceptional uptake reported by the central bank and the Finance Ministry |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Identity and passport production machines | [Implemented](https://www.onecitizendaily.com/index.php/2026/05/08/government-procures-5-advanced-machine-systems-for-national-id-and-passport-production/) | Five machine systems delivered — two for passports, three for identity and nationality documents |
 | National Identity Card issuance | [Implemented](https://www.onecitizendaily.com/index.php/2026/07/13/thousand-begin-collecting-national-identity-cards-in-greater-yei/) | School-based registration launched for examination candidates at Juba Day Secondary School, 4 August 2026, with expansion to more schools planned |
@@ -103,7 +104,7 @@ Spectrum governance is at inception: the [5G and spectrum strategy has a work pl
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cash payment of tax at revenue offices | [Discontinued](https://www.eyeradio.org/revenue-authority-changes-tax-payment-process/) | Barred by resolution of the Ministerial High-Level Committee on Economic Reform, effective immediately |
 | Cashless payment for passports and identity documents | [Implemented](https://www.sudanspost.com/south-sudan-introduces-digital-payment-system-for-passports-after-supply-crisis/) | Cash abolished for passport and identity payments after a supply crisis |
@@ -114,21 +115,21 @@ Spectrum governance is at inception: the [5G and spectrum strategy has a work pl
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Centralised civil registration and vital statistics system | [Planned](https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/) | Announced: health facilities to notify births, the directorate to be sole issuing authority, death registration compulsory |
 | Digital land register | ***Not held*** | One expert's advocacy for a central digital land database; no programme, instrument or system is held |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric registration of public servants | [Implemented](https://www.onecitizendaily.com/index.php/2026/06/24/government-launches-biometric-registration-exercise-for-organised-forces/) | Third phase launched for the organised forces, June 2026 |
 | Education in Emergencies Management Information System | [Implemented](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response) | Launched on the DHIS2 platform with UNESCO and the HISP Centre, after training 35 master trainers |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Crawford Capital e-Government concession | [Implemented](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/cohrsouthsudan/a-hrc-60-crp-5.pdf) | Exclusive e-Government services contract signed 16 November 2019 without competitive tender |
 | Electronic cargo tracking | [Implemented](https://eastleighvoice.co.ke/south-sudan/350431/south-sudan-defends-crawford-capital-deal-as-digital-reforms-boost-revenue) | Introduced by the revenue authority for inbound goods |
@@ -138,13 +139,13 @@ Spectrum governance is at inception: the [5G and spectrum strategy has a work pl
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | State or county digital service delivery | ***Not held*** | One state-level skills programme is held and no local digital-service system, platform or mandate is |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Earth-observation or geospatial data programme | ***Not held*** | No programme document, agency mandate or published output is held |
 
@@ -164,7 +165,7 @@ Service delivery is revenue-first: the regulator's [e-Services Platform](https:/
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber Crimes and Computer Abuse Act 2026 | [Implemented](https://www.radiotamazuj.org/en/news/article/minister-ateng-defends-cybercrime-law-amid-concerns) | Signed by the President on 18 February 2026 |
 | ICT Authority | [In development, statutory basis unreconciled](https://www.eyeradio.org/govt-set-to-establish-ict-authority-to-regulate-internet-service-providers-ateny/) | The ministry briefed the President on establishing the body while awaiting the passage of legislation |
@@ -172,33 +173,33 @@ Service delivery is revenue-first: the regulator's [e-Services Platform](https:/
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Full-digitisation decree (Electronic Services Council) | [Implemented](https://www.ecofinagency.com/news-digital/1912-51559-south-sudan-orders-full-digitization-of-public-institutions) | Presidential decree granting the Electronic Services Council full authority, with a January 2026 adoption deadline |
 | National e-commerce strategy | [Planned](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Recorded as non-existent in the regional project's seventh implementation report |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kenya-South Sudan cross-border digital connectivity memorandum | [Implemented](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Recorded as delivered in the regional project's seventh implementation report |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection Bill | [Planned](https://www.radiotamazuj.org/en/news/article/south-sudan-to-get-data-protection-bill-in-2026-says-minister) | The ICT minister states a bill will come in 2026; a policy bill was drafted in October 2025 |
 | Comprehensive data-protection statute | ***Not held*** | Only the Transitional Constitution's article 22 privacy right; no statute and no commission as at 2026-08 |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation instrument | ***Not held*** | EU funds appear only through the European Fund for Sustainable Development Plus backing a Finnish investor's telecom-energy stake; no bilateral instrument is held |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data portal or policy | ***Not held*** | No portal, open-data policy or public-sector information instrument is held |
 
@@ -222,37 +223,37 @@ The digitisation mandate itself is a decree: in December 2025 the President [gra
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National artificial-intelligence strategy or programme | ***Not held*** | The ICT undersecretary named infrastructure, a data centre and skills as prerequisites in April 2025; no strategy, policy or programme is held |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | eSIM service | [Implemented](https://www.telecomreviewafrica.com/articles/telecom-operators/4695-mtn-south-sudan-pioneers-esim-technology-redefining-connectivity/) | Launched by MTN South Sudan |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States sanctions on the e-Government contractor | [Implemented](https://www.sudanspost.com/crawford-denies-75-govt-revenue-retention-amid-mounting-public-scrutiny/) | Crawford Capital sanctioned by the US State Department, May 2026 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Huawei re-engagement | [Planned](https://itweb.africa/article/huawei-reconnects-with-south-sudan/) | Re-engagement reported after the post-2014 rift |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital cooperation with South Sudan | ***Not held*** | No India-South Sudan digital agreement, line of credit or programme document is held |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital investment in South Sudan | ***Not held*** | No Gulf-state investment, financing or memorandum covering digital infrastructure is held |
 
@@ -268,20 +269,20 @@ No India-South Sudan digital agreement and no Gulf-state investment in digital i
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Operator tariff reduction | [Implemented](https://techafricanews.com/2025/12/12/south-sudans-ict-ministry-commends-mtn-for-25-tariff-reduction-urges-further-cuts/) | MTN cut tariffs by 25%, with the ICT ministry pressing for more |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Innovation for Skills and Knowledge programme (Central Equatoria) | [Planned](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/) | Costed at US$2,806,100 for three centres training more than 8,000 people |
 | Educational Technical Cooperation Project (China) | [Implemented](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml) | US$22,336,740 committed for the second phase |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public research programme in digital or data science | ***Not held*** | No research programme document, university centre mandate or published research output is held |
 
@@ -297,19 +298,19 @@ Skills provision is a costed plan: three centres in Central Equatoria for over 8
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Eastern Africa Regional Digital Integration Project | [Implemented](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Seventh implementation report issued after the mid-term review of January to April 2026 |
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Air Traffic Management System loan (China Eximbank) | [Implemented](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) | US$271,154,617 committed |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic budget appropriation for digital transformation | ***Not held*** | No budget, annex or appropriation line for the ICT ministry, the NCA or the Electronic Services Council is held |
 

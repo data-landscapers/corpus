@@ -1,14 +1,15 @@
 ---
 title: Ethiopia — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: ETH
 ledger_rows: 83
 not_held: 4
+record: 97b0c09a1e42
 ---
 
 # Ethiopia: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/ETH/ledger.csv` (83 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ETH/ledger.csv` (83 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Four things a reader would look for are not established at all, among them the s
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ethio Telecom network | [Implemented](https://techafricanews.com/2026/04/20/ethio-telecom-reaches-99-8-coverage-accelerates-smart-infrastructure-development/) | FY2025/26 close: data 31.1% of revenue against voice 23.5% |
 | Network expansion contracts from MWC 2026 | [Implemented](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/) | Ethio Telecom-ZTE progress review 2026-08-10: 879 sites completed under the ZTE programme |
@@ -37,69 +38,69 @@ Four things a reader would look for are not established at all, among them the s
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Wingu Cloud Exchange in-country cloud | [Implemented](https://www.connectingafrica.com/cloud-networking/wingu-africa-debuts-cloud-exchange-platform-in-ethiopia) | In-country cloud live 2026-04-01 |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bitdeer Oromia bitcoin-mining site | [Implemented](https://www.bitdeer.com/news/oromia-ethiopia-update) | 40 MW complete 2026-01-12 |
 | Ethio Telecom Green Operator renewable network programme | [Implemented](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/) | 39.72 MW of installed solar at 2026-08-04, up 12.72 MW over the financial year |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | INSA cybersecurity and sovereign-cloud foundations | [In development](https://www.ena.et/web/eng/digital-ethiopia-2030-launch) | Named in Digital Ethiopia 2030, 2025-12-21 |
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Telecommunications Licensing Directive 792/2021 | [Implemented](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) | Issued July 2021 under Proclamation 1148/2019 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Telecom liberalisation | [Implemented](https://www.thereporterethiopia.com/48528/) | Monopoly ended 2021; one new full licensee since |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Horizon Fiber terrestrial corridor | [In development](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal) | Memorandum became binding 2026-02-05 |
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Universal Access Fund levy | [Implemented](https://www.thereporterethiopia.com/49962/) | 1.5% of revenue levied from 2026-03-01 |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Smartphone affordability financing | [Implemented](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) | Bank financing deals signed 2026-07-17 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ethio Telecom and Huawei enterprise stack | [Planned](https://itweb.africa/article/ethio-telecom-huawei-expand-digital-push/8OKdWqDX2pzqbznQ) | Scoping discussions reported 2026-07-17 |
 | Inspur and Shandong data-centre track | [Planned](https://techafricanews.com/2026/07/16/ethio-telecom-eyes-strategic-partnership-with-inspur-to-accelerate-digital-transformation/) | Track opened 2026-07-16 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | RailTel data-centre build | [Planned](https://railtel.in/images/pdf/Press%20Release_RailTel%20to%20build%20Data%20Centre%20in%20Ethiopia.pdf) | Announced 2026-01-09 |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Licensing framework for LEO satellite operators | [Implemented, as a general satellite class licence rather than a LEO-specific framework](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) | GMPCS landing-right class licence set in Directive 792/2021 (2021-07) |
 
@@ -123,14 +124,14 @@ Site power is what makes rural coverage expensive. Ethio Telecom reported [39.72
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EthSwitch national switch | [Implemented](https://itweb.africa/article/m-pesa-ethiopia-surges-258-as-ethswitch-fuels-growth/) | M-PESA integrated 2025-10-01 |
 | National data exchange platform | [Planned](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) | Approved by a prime-ministerial board 2026-07-25 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric enrolment kits for banks | [Implemented](https://www.biometricupdate.com/202511/ethiopia-banks-receive-biometric-kits-to-expand-digital-id-enrollment) | 2,000 kits to 31 banks (2025-11) |
 | Ethio Telecom as identity enrolment channel | [Implemented](https://www.ena.et/web/eng/w/eng_9268046) | 69% of all national registrations (2026-07) |
@@ -140,7 +141,7 @@ Site power is what makes rural coverage expensive. Ethio Telecom reported [39.72
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EthioPay national instant payment system | [Implemented](https://www.bpcbt.com/ethiopia-instant-payments-smartvista) | Launched 2026-02-13 |
 | EthSwitch and Mastercard international acceptance | [Implemented](https://shega.co/ethswitch-15-year-vision-mastercard) | Live 2025-11-30 |
@@ -154,7 +155,7 @@ Site power is what makes rural coverage expensive. Ethio Telecom reported [39.72
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | America First Global Health Strategy memorandum of understanding | [Implemented, expressly not an international agreement](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Signed 2025-12-23 for activities running 2026-04-01 to 2030-12-31 |
 | DHIS2 national health information system | [Implemented](https://medinform.jmir.org/2024/1/e50375) | Maturity 2.81 of 5 against a 4.09 target (2026-04) |
@@ -164,7 +165,7 @@ Site power is what makes rural coverage expensive. Ethio Telecom reported [39.72
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic Government Procurement (e-GP) system | [Implemented](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) | Credited in the EFY 2017 federal audit report presented 2026-07-06 |
 | Identity integration with tax administration | [Implemented](https://mosip.io/news/how-fayda-powers-ethiopia-mesob) | Integrated 2023-12 |
@@ -173,14 +174,14 @@ Site power is what makes rural coverage expensive. Ethio Telecom reported [39.72
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Government Strategy and Enterprise Architecture 2024-2029 | [Implemented](https://www.ena.et/web/eng/digital-government-strategy-2024-2029) | Published 2024-07-11 |
 | National Digital Payments Strategy 2026-2030 | [Implemented](https://www.ena.et/web/eng/ethiopia-ndps-2026-2030) | Published 2025-12-09 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ethiopian eGovernment Interoperability Framework | [In development](https://www.capitalethiopia.com/2024/07/ethiopia-egovernment-interoperability) | Published 2024-07-19 |
 | MOSIP open-source identity platform | [Implemented](https://www.youtube.com/watch?v=B_iGkxWXNbg) | Fayda is the reference deployment (2026-07) |
@@ -188,32 +189,32 @@ Site power is what makes rural coverage expensive. Ethio Telecom reported [39.72
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Makatet refugee-inclusion framework | [Implemented](https://www.biometricupdate.com/202607/fayda-digital-id-critical-for-ethiopias-five-year-refugee-inclusion-strategy) | Framework adopted 2026-07-16 |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Identity mandate for school enrolment and examinations | [Implemented](https://www.ena.et/web/eng/fayda-28-million) | Mandated 2025-11-12 |
 | Remote account opening on the digital identity | [Implemented](https://www.biometricupdate.com/202604/dashen-bank-launches-ethiopias-first-digital-id-based-accounts) | Live 2026-04-07 |
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI service bundles in the mobile-money app | [Implemented](https://techafricanews.com/2026/07/22/m-pesa-ethiopia-and-gebeya-partner-to-bring-ai-tools-to-mobile-users/) | Launched 2026-07-22 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital ID Assessment as official monitoring | [Implemented](https://dial.global/research/digital-id-second-assessment-continuous-learning-ethiopia/) | Re-run 2026-05-12 |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Addis Ababa one-stop digital service centres | [Implemented, on the city administration's own account](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/) | 11 centres and more than 150 services at fiscal-year close (2026-07) |
 
@@ -233,7 +234,7 @@ Telebirr moves about 11bn Birr a day across 60.6m users. The October 2025 switch
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Berne Convention accession | [In development](https://www.thereporterethiopia.com/52113/) | Draft ratification proclamation before the Council of Ministers, reported 2026-08-01 |
 | Copyright Proclamation 410/2004 online-infringement amendment | [In development](https://www.thereporterethiopia.com/52113/) | Drafting with Addis Ababa University School of Law reported 2026-08-01, after several consultation rounds |
@@ -244,7 +245,7 @@ Telebirr moves about 11bn Birr a day across 60.6m users. The October 2025 switch
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Ethiopia 2030 | [Implemented](https://www.ena.et/web/eng/digital-ethiopia-2030-launch) | Published 2025-12-21 |
 | National Artificial Intelligence Policy | [Implemented](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | Adopted 2024 |
@@ -253,14 +254,14 @@ Telebirr moves about 11bn Birr a day across 60.6m users. The October 2025 switch
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital identity cooperation with Zambia | [Implemented](https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project) | Agreed 2026-03-24 |
 | Digital public infrastructure export to Mozambique | [Implemented](https://clubofmozambique.com/news/mozambique-and-ethiopia-sign-mou-to-boost-digital-identity/) | Three-year memorandum signed at Addis Ababa 2026-04-27 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data sharing arrangement under the health memorandum | [Planned](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Provided for at 2.5.2, still to be negotiated |
 | Development Bank of Ethiopia Information Disclosure Policy | [Implemented](https://www.thereporterethiopia.com/52220/) | Policy adopted classifying client credit information, legal case files, strategy papers, security protocols and third-party contracts as permanently non-disclosable, reported 2026-08-08 |
@@ -269,7 +270,7 @@ Telebirr moves about 11bn Birr a day across 60.6m users. The October 2025 switch
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | World Artificial Intelligence Cooperation Organization membership | [Implemented](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | Founding member 2026-07-20 |
 
@@ -289,32 +290,32 @@ The Intellectual Property Authority said on 2026-08-01 that amendments to Copyri
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ethiopian Artificial Intelligence Institute | [Implemented](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | Established 2020 |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Vodacom change of control over Safaricom | [Implemented](https://techcabal.com/2026/07/27/vodacom-processed-548-billion/) | Completed 2026-06-30 |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf digital cooperation | ***Not held*** | — |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI University Innovation Pod | [Implemented](https://www.connectingafrica.com/ai/ethiopia-launches-ai-unipod-to-drive-innovation) | Opened 2026-02-19 |
 | Artificial Intelligence University construction | [Planned](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) | ETB 5bn appropriated in the FY2026/27 budget |
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ethio Telecom public share offer | [Implemented](https://www.thereporterethiopia.com/43299/) | 10% offer, deadline extended to 2025-02-14 |
 
@@ -340,14 +341,14 @@ _The base holds no inclusion and capacity rows for Ethiopia. A thin evidence bas
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digitally enabled pluralistic extension services programme (FAO) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-41301-763888%22) | Committed 2026-07-31 |
 | World Bank Digital ID for Inclusion Project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P179040) | US$350m approved 2023-12-13 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Federal appropriation for digital transformation | [Implemented](https://www.fanamc.com/english/ethiopian-parliament-ratifies-2-34-trillion-birr-federal-budget-for-2026-27-fiscal-year/) | FY2026/27 budget ratified 2026-07-07 |
 | Published budget execution for FY2025/26 | [Implemented](https://www.mofed.gov.et/media/filer_public/ee/f5/eef50cc8-4871-425e-b738-33fe9ed649e0/mid_year_review_2025_26_final_2.pdf) | Mid-year review for 2025/26 published (2026-04) |

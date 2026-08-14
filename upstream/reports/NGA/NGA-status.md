@@ -1,14 +1,15 @@
 ---
 title: Nigeria — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: NGA
 ledger_rows: 198
-not_held: 7
+not_held: 8
+record: ef33bac53e92
 ---
 
 # Nigeria: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/NGA/ledger.csv` (198 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/NGA/ledger.csv` (198 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -24,7 +25,7 @@ The National Identification Number now stands at 136m against a 180m target, and
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 9mobile national roaming on MTN | [Implemented](https://itweb.africa/article/9mobile-secures-approval-for-roaming-on-mtn-network/KBpdgvpmZDw7LEew) | Roaming live 2025-05-30 |
 | Airtel Nigeria retail and distribution network | [Implemented](https://techcabal.com/2026/07/22/airtel-nigeria-grows-retail-footprint/) | 200,000+ touchpoints and 4,000+ shops (2026-07) |
@@ -44,7 +45,7 @@ The National Identification Number now stands at 136m against a 180m target, and
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 1Government sovereign cloud | [Implemented](https://itweb.africa/article/nigerias-1gov-cloud-helps-reduce-reliance-on-foreign-digital-systems/WnpNgq21aogMVrGd) | Live 2025-09-10 |
 | AFRICLOUD Lagos cloud region | [Implemented](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/) | Live 2026-08-10 |
@@ -63,13 +64,13 @@ The National Identification Number now stands at 136m against a 180m target, and
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power sequencing plan for the data-localisation deadline | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber Resilience Framework for communications | [Implemented](https://techafricanews.com/2026/03/05/ncc-mandates-4-hour-cyber-incident-reporting-for-telecom-operators/) | Guidance Note on cybersecurity budgets issued 2026-08-07, under a framework effective 2026-02-23 |
 | Domestic cyber-insurance market | [In development](https://itweb.africa/article/nigerias-spark-to-ignite-local-cyber-insurance-products/rxP3jMBEwAw7A2ye) | Market forming from 2025-02 |
@@ -80,25 +81,25 @@ The National Identification Number now stands at 136m against a 180m target, and
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | NCC and Rural Electrification Agency data-sharing MoU | [Implemented](https://apanews.net/ncc-rea-sign-mou-to-drive-digital-infrastructure-expansion/) | MoU signed 2026-07-29 |
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybercrimes (Amendment) Act 2024 | [Implemented](https://www.vanguardngr.com/2025/08/how-misuse-of-cybercrime-act-cost-nigeria-n1-1trn-in-7-yrs/) | In force from 2024 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Telecommunications Policy rewrite | [In development](https://businessday.ng/technology/article/why-global-hyperscalers-are-avoiding-nigeria/) | Rewrite under way (2026-05) |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | End of pre-registered SIM cards | [Implemented](https://www.vanguardngr.com/2025/11/ncc-moves-to-end-pre-registered-sim-cards-tighten-telecom-regulations/) | Pre-registered SIMs ended 2025-11-11 |
 | National Cloud Computing and Technical Guidelines | [Implemented, text unpublished](https://von.gov.ng/nigeria-unveils-sovereign-cloud-regulatory-frameworks/) | Both guidelines signed by NITDA at an Abuja ceremony 2026-08-04 |
@@ -107,38 +108,38 @@ The National Identification Number now stands at 136m against a 180m target, and
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States fibre and feasibility grants | [Implemented](https://itweb.africa/article/us-nigeria-ink-2m-deal-to-expand-fibre-optic-network/rxP3jqBE4KpMA2ye) | US$2m grant and a USTDA feasibility grant (2025-01) |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 21st Century and China Mobile sovereign cloud | [In development](https://itweb.africa/article/china-mobile-pact-puts-nigeria-step-closer-to-data-sovereignty/KA3Ww7dzwO1qrydZ) | Build under way (2026-06) |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU-Nigeria Digital Economy Package | [Implemented](https://techafricanews.com/2025/12/12/eu-announces-e45m-investment-to-boost-nigerias-connectivity-and-digital-services/) | €45m package, 2025-12-12 |
 | Finland-Nigeria cyber and digitalisation MoU | [Implemented](https://itweb.africa/article/finland-nigeria-seal-cyber-pact/KzQenvjywBOqZd2r) | MoU signed 2026-03-25 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Cybersecurity Centre, Bayero University Kano | [Implemented](https://techafricanews.com/2025/05/28/nigeria-takes-bold-step-in-cybersecurity-with-new-national-centre-in-kano/) | Opened 2025-05-28 |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural connectivity programmes | [In development](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/) | 3,700-tower deployment announced 2026-08-04 to start around October 2026 |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Amazon Kuiper landing permit | [Planned](https://techafricanews.com/2026/01/15/ncc-grants-landing-permit-to-amazons-project-kuiper-for-satellite-operations-in-nigeria/) | Landing permit granted 2026-01-15 |
 | NASRDA direct-to-device satellite programme | [Planned](https://itweb.africa/article/nigeria-joins-race-to-deploy-direct-to-device-satellite-connectivity/5yONP7Erb3QMXWrb) | MoU with Galaxy Space, 2025-06-20 |
@@ -147,7 +148,7 @@ The National Identification Number now stands at 136m against a 180m target, and
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic bond financing of a fibre build | [Implemented](https://tech.africa/dimension-data-nigeria-fibre-bond/) | ₦4.05bn Series 1 closed 2026-07-27 |
 
@@ -167,17 +168,17 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral MDA integration agreements under the NIMC Act | [In development](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/) | Nine bilateral agreements concluded (2026-07) |
 | CBN-NCC telecom identity risk management feed | [Implemented](https://techcabal.com/2026/04/21/new-cbn-ncc-opens-telecom-data-to-banks/) | Feed live 2026-04-21 |
-| National Single Window | [In development](https://www.vanguardngr.com/2025/01/fg-set-to-implement-national-single-window-project-in-2025) | In build from 2025-01-29 |
+| National Single Window | [In development](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/) | Operation disputed by licensed customs agents, 7 August 2026 |
 | Nigeria Data Exchange | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-to-launch-national-data-exchange-platform-to-boost-digital-econom) | Moving personal data in production (2026-07) |
 | Published interoperability framework under the NIMC Act 2026 | ***Not held*** | — |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | General Multipurpose Card | [In development](https://www.biometricupdate.com/202501/nigeria-launching-multiuse-biometric-id-card-to-drive-economic-financial-inclusion) | Card announced 2025-01-27 |
 | ICAO Public Key Directory integration | [Implemented](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) | Integrated 2026-07-16 |
@@ -189,7 +190,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | cNGN naira stablecoin | [Implemented](https://techafricanews.com/2025/02/10/busha-lists-cngn-expanding-nigerias-digital-economy) | Launched on the Celo network 2026-08-07 |
 | eNaira retail central bank digital currency | [In development](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) | Under review and redesign toward wholesale (2026-07) |
@@ -203,7 +204,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic civil registration and vital statistics | [Implemented](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/) | Nationwide from 2026-07-01 |
 | National alphanumeric digital postcode system | [Planned](https://www.vanguardngr.com/2026/08/fg-to-rollout-90000km-fibre-optic-network-tijani/) | Launch date set at 2026-10-01, announced to the President 2026-08-04 |
@@ -214,7 +215,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Customs Electronic Cargo Tracking System | [Piloting](https://www.thisdaylive.com/2026/07/29/ncs-deploys-electronic-cargo-tracking-system-at-ptml/) | Second pilot command (2026-07) |
 | IPPIS human-resource modules | [Implemented](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/) | Modules live across 508+ agencies (2026-07) |
@@ -224,7 +225,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CBN DocFlow and the MDA naira payment solution | [Implemented](https://www.vanguardngr.com/2025/01/cbn-launches-mda-naira-payment-solutions-docflow) | Live 2025-01-16 |
 | Falcon Eye maritime surveillance system | [Implemented](https://techcabal.com/2026/08/05/falcon-eye-helped-nigeria-tackle-piracy-its-next-target-is-banditry/) | In operation since 2015; extension inland proposed with neither funding nor a decision (2026-08) |
@@ -234,7 +235,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 7.5% VAT on electronic banking fees | [Implemented](https://www.vanguardngr.com/2026/01/fg-directs-banks-fintechs-to-collect-7-5-vat-on-electronic-banking-fees/) | In force from 2026-01-15 |
 | CBN payments data-localisation directive | [In development](https://complyan.com/nigerias-cbn-data-localisation-directive-what-banks-and-fintechs-must-do-before-2027/) | Circular requires local storage by 2027-01-01 |
@@ -248,7 +249,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National DPI framework and the 2027 services target | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-unveils-plan-for-unified-digital-services-by-2027) | Targets 75% of services digitised by 2027 |
 | Payments System Vision 2028 | [Implemented](https://www.cbn.gov.ng/Out/2026/CCD/Nigeria%20Payments%20System%20Vision%202028.pdf) | Published 2026-06-17 |
@@ -256,7 +257,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AfCFTA ADAPT cross-border DPI pilot | [In development](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) | Country implementation plan under way (2026-07) |
 | ECOWAS biometric identity card | [Implemented](https://thewhistler.ng/nigeria-unveils-ecowas-id-card-to-boost-regional-travel-security/) | Issued from 2025-11-28 |
@@ -265,7 +266,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Automated AML baseline standards | [Implemented](https://techafricanews.com/2026/03/12/cbn-mandates-automated-aml-systems-across-nigerian-financial-institutions/) | Standards mandated 2026-03-12 |
 | Crypto trade reporting tied to TIN and NIN | [Implemented](https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/) | Live January 2026 |
@@ -277,7 +278,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Correction of errors in the identity register | [Implemented](https://www.thisdaylive.com/2026/03/07/nigerians-groan-under-digital-identity-regime/) | Corrections confined to a smartphone portal (2024 policy) |
 | Diaspora Non-Resident BVN | [Implemented](https://www.vanguardngr.com/2025/05/cbn-launches-diaspora-bvn-platform/) | Live 2025-05-13 |
@@ -286,7 +287,7 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | GovGuide public-services chatbot | [Implemented](https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/) | Live 2026-05-22 |
 | Mandated AI and machine-learning fraud detection | [Implemented](https://techafricanews.com/2026/06/09/nigerias-central-bank-launches-ai-driven-system-to-detect-financial-fraud-in-real-time/) | Mandated 2026-06-09 |
@@ -294,25 +295,25 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Telco mobile money | [Implemented](https://techcabal.com/2026/07/31/mtns-airtime-lending-pause-drags-fintech-revenue/) | MTN wallets up 1.3m to 5m (2026-06) |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | cBrain F2 case-management platform | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-taps-denmark-s-cbrain-to-accelerate-e-government-reforms) | Deployed across federal ministries (2026-01) |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Diaspora health-workforce registry | [Implemented](https://fmino.gov.ng/fg-commends-nigerian-health-professionals-in-diaspora-for-strengthening-healthcare-delivery/) | Described as newly launched (2026-07) |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Benue civil-service digital skilling | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-benue-state-commits-to-training-40-000-civil-servants-in-digital-skills) | 40,000 civil servants trained (2025-03) |
 | Enugu smart green schools | [In development](https://www.thecable.ng/investigation-in-enugu-smart-schools-get-all-attention-but-concerns-remain-over-work-quality-part-ii/) | 260 schools announced; none delivered (2026-05) |
@@ -322,14 +323,14 @@ The communications sector's cyber resilience framework, issued 2026-02-23 on a 1
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | First biometric population census | [Planned](https://www.thisdaylive.com/2025/03/08/nigerias-first-biometric-census) | Budget of about ₦980bn under review |
 | Make Inclusive Data the Norm initiative | [Implemented](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Second phase from 2026-07-01 |
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | World Bank ID4D financing | [Implemented](https://documents.worldbank.org/curated/en/099122424123515222/pdf/P167183-7da88040-b609-473f-bc3c-7667ef8f9f33) | Restructured 2024-12-24, target raised to 180m |
 
@@ -347,7 +348,7 @@ The Government Service Portal went live in July over the national data exchange,
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | FCCPC competition probe of platforms and AI firms | [In development](https://techmoonshot.com/2026/07/10/why-nigeria-is-investigating-meta-google-x-and-ai-firms/) | Probe directed 2026-07-10 |
 | FCCPC consumer-protection penalty against Meta | [Implemented](https://www.zawya.com/en/economy/africa/nigeria-tests-data-sovereignty-tfwnm5he) | US$222m imposed 2025 |
@@ -360,14 +361,14 @@ The Government Service Portal went live in July over the national data exchange,
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial Intelligence and Cyber Diplomacy Unit | [Implemented](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) | Established after the 2025 inaugural seminar, stated 2026-08-04 |
 | Draft National Policy on Data and Cloud | [In development](https://techcabal.com/2026/06/17/why-nigerias-ai-future-depends-on-breaking-government-data-silos/) | In draft since 2021 |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Abuja Declaration on Meaningful Connectivity | [Implemented](https://www.techwithafrica.com/2026/07/29/meaningful-connectivity-africa-atu-pushes-digital-inclusion/) | Adopted at CPL-26, 2026-07-24 |
 | Digital Trade Regulators' Working Group | [In development](https://mediatalkafrica.com/296653/nigerias-oduwole-afcftas-mene-urge-acceleration-of-digital-services-trade-to-unlock-africas-180bn-economy/) | Nigeria named as lead at the second AfCFTA Digital Trade Forum, 2026-07-01 |
@@ -376,12 +377,12 @@ The Government Service Portal went live in July over the national data exchange,
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI-enabled online gender-based violence tracker | [Implemented](https://www.thisdaylive.com/2026/08/01/pan-african-womens-day-nigeria-gets-first-ai-enabled-ogbv-tracker-documents-20000-cases/) | Launched in Abuja, reported 2026-08-01 |
 | America First Global Health Strategy MOU | [Implemented, non-binding](https://www.citizen.org/wp-content/uploads/2026-0009QN-Nigeria-Health-12.19.2025.pdf) | Signed at Abuja 2025-12-19, activities running 2026-04-01 to 2030-12-31 |
 | Civil-society enforcement against a public body | [In development](https://fij.ng/article/fij-showed-that-inec-broke-data-law-digital-rights-lawyers-sue-the-commission-10-months-later/) | Suit filed 2026-07-10 |
-| Federal Government circular on MDA data-protection compliance | [Implemented](https://www.thecable.ng/fg-directs-mdas-to-appoint-data-protection-officers-comply-with-ndp-act/) | Circular signed by the Secretary to the Government of the Federation 2026-07-27 |
+| Federal Government circular on MDA data-protection compliance | [Implemented](https://fij.ng/article/ndpc-claimed-fg-ordered-mdas-to-obey-data-protection-law-nigerians-search-but-cant-find-order/) | Reported unfindable in the public record, 7 August 2026 |
 | Meta-funded data-protection capacity programme | [Implemented](https://itweb.africa/article/meta-backs-ndpc-in-landmark-privacy-initiative/lwrKxq3Y2W27mg1o) | Programme funded 2026-06-09 |
 | MultiChoice data-protection penalty | [Implemented](https://www.rapdp.org/index.php/en/node/222) | ₦766,242,500 imposed 2025-07-06 |
 | NDPC and NCC data-protection MoU | [Implemented](https://www.thisdaylive.com/2026/02/06/ncc-ndpc-sign-mou-to-enhance-data-protection-in-telecoms-sector/) | MoU signed 2026-02-06 |
@@ -392,7 +393,7 @@ The Government Service Portal went live in July over the national data exchange,
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Consolidated federal budget allocation to digital transformation | ***Not held*** | — |
 
@@ -410,35 +411,35 @@ The [health cooperation memorandum](https://www.citizen.org/wp-content/uploads/2
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Risk-based AI regime in the digital-economy bill | [In development](https://itweb.africa/article/nigeria-plans-to-introduce-ai-regulations/DZQ587V8lQDqzXy2) | Risk tiering in the draft bill (2026-01) |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Migration of government identity to the .gov.ng domain | [In development](https://www.vanguardngr.com/2026/01/how-foreign-domains-compromise-digital-identity/) | A 2022 policy unevenly applied (2026-01) |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Agent-network microfinance | [Implemented](https://www.wearetech.africa/fr/fils/tech-stars/rukayat-kolawole-bello-connecte-les-exclus-de-la-banque-au-credit) | Founded 2018, profiled 2026-07 |
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI governance framework for tertiary institutions | [In development](https://www.vanguardngr.com/2026/08/naaip-symposium-urges-unified-ai-guardrails-for-nigerian-tertiary-institutions/) | Three tertiary regulators committed to harmonise at a symposium 2026-07-28 |
 | N-ATLAS sovereign multilingual model | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-n-atlas-an-ai-language-model-in-yoruba-igbo-hausa-and-nigerian-english) | Released 2025-09-22 |
 | National AI Strategy and the National AI Trust | [In development](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives) | Trust approved by the Federal Executive Council (2025-02) |
-| Proposed responsible-AI governance framework for public bodies | Planned | White paper published 2026-06-01 |
 | Responsible AI in Finance Hub | [Planned](https://bitcoinke.io/wp-content/uploads/2026/02/Shaping-the-Future-of-Fintech-in-Nigeria-Central-Bank-of-Nigeria-2025-Fintech-Report-BitKE.pdf) | Hub proposed 2026-02-01 |
+| Proposed responsible-AI governance framework for public bodies | ***Not held*** | White paper published 2026-06-01 |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel AI spam detection | [Implemented](https://itweb.africa/article/airtel-nigeria-launches-ai-spam-alert-service/wbrpO7g2oapvDLZn) | Live 2025-03-14 |
 | Embedded insurance infrastructure | [Implemented](https://techcabal.com/2026/07/17/meet-the-team-behind-skydd/) | Infrastructure opened 2026-07-17 |
@@ -446,7 +447,7 @@ The [health cooperation memorandum](https://www.citizen.org/wp-content/uploads/2
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bango food-market price data platform | [Implemented](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets) | Reported 2026-08-10, about 2,500 users |
 | Itana digital free zone | [Implemented](https://techcabal.com/2025/06/10/inside-itana-nigerias-first-digital-free-zone/) | Zone live 2025-06-10 |
@@ -457,25 +458,25 @@ The [health cooperation memorandum](https://www.citizen.org/wp-content/uploads/2
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Google AI alliance, research and skilling | [Implemented](https://itweb.africa/article/nigeria-establishes-google-ai-alliance/kLgB17ezj6GM59N4) | ₦3bn to Nigeria (2025-11) |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Huawei Lagos innovation centre | [Implemented](https://itweb.africa/article/huawei-nigeria-opens-innovation-centre-in-lagos/mYZRXM9g6gWvOgA8) | Opened 2025-05-09 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-Nigeria digital cooperation | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Deep-technology teaching laboratories in a private university | [Planned](https://itweb.africa/article/nigeria-expands-deep-tech-skills-pipeline/nWJadvbND1yvbjO1) | Announced 2026-08-03 |
 | Microsoft AI training commitment | [Implemented](https://techcabal.com/2025/02/19/microsoft-pledges-1m) | US$1m to train 1m people (2025-02) |
@@ -483,13 +484,13 @@ The [health cooperation memorandum](https://www.citizen.org/wp-content/uploads/2
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cisco AI for smallholder farmers | [Planned](https://itweb.africa/article/cisco-explores-ai-for-nigeria-farmers/nWJadMbNDjyMbjO1) | Exploratory talks (2026-07) |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI open-contracting platform in three states | [Implemented](https://www.vanguardngr.com/2025/02/ai-integrated-platform-to-simplify-public-procurement-data-in-plateau-edo-ekiti) | Live 2025-02-06 |
 | Anambra SmartGov | [Implemented](https://techcabal.com/2025/06/30/anambra-builds-ai-model/) | Live 2025-06-30 |
@@ -498,7 +499,7 @@ The [health cooperation memorandum](https://www.citizen.org/wp-content/uploads/2
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Credit scoring from payment traces | [Implemented](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/nigeria-s-mathesis-analytics-raises-funding-to-scale-ai-lending) | Product live 2026-07-17 |
 
@@ -518,14 +519,14 @@ An Institute of Development Studies mapping puts [facial-recognition and number-
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | GoMed-UNFPA digital self-care platform (University of Lagos) | [Implemented](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/) | Platform launched with Lagos State Government, reported 2026-08-10 |
 | Zero-rated access to education platforms | [In development](https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf) | Consultation on eligibility (2026-06) |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI Teacher Capacity Development Programme | [In development](https://www.vanguardngr.com/2026/07/fg-launches-nationwide-ai-training-for-11700-unity-schools-teachers/) | Terms of Reference signed with ICEDT Consult, reported 2026-07-31 |
 | Data-protection officer certification pipeline | [In development](https://itweb.africa/article/mastercard-ndpc-target-data-protection-in-nigerias-informal-sector/RgeVDqPRa8Y7KJN3) | A target of 250,000 certified officers a year |
@@ -550,7 +551,7 @@ Donor money goes to named categories rather than open calls: the [fourth Masterc
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | iDICE debt financing for technology startups | [Implemented](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) | US$110m opened for applications 2026-07-30 |
 
@@ -569,6 +570,7 @@ A subnational programme to build [260 schools](https://www.thecable.ng/investiga
 | Whether foreign cloud local zones satisfy the localisation directive | A CBN clarification, FAQ or supervisory letter stating whether a hyperscaler's in-country availability zone meets the storage-and-management requirement of circular PSS/DIR/PUB/CIR/001/004. | 2026-08-04 |
 | Consolidated federal budget allocation to digital transformation | A Budget Office appropriation extract or Ministry of Communications, Innovation and Digital Economy annual report carrying total digital and ICT spend across votes. | 2026-08-04 |
 | India-Nigeria digital cooperation | A bilateral MoU, India Stack or DPI cooperation programme document, or a ministerial readout naming a Nigeria-India digital instrument. | 2026-08-04 |
+| Proposed responsible-AI governance framework for public bodies | The instrument, terms of reference or ministerial statement establishing the proposed responsible-AI governance framework for public institutions. | 2026-08-14 |
 
 <!-- narrative: gaps -->
 Seven subjects carry no reliable statement of position, each probed once on 2026-08-04. Three returned a named document and are now acquisition lines: the gazetted text of the identity statute; the 2026 appropriation vote carrying the digital-economy allocation; and a cooperation memorandum signed with India's electronics and information-technology ministry.

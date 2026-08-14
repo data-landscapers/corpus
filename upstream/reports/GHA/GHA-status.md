@@ -1,14 +1,15 @@
 ---
 title: Ghana — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: GHA
-ledger_rows: 124
+ledger_rows: 126
 not_held: 9
+record: 65d3a94d8804
 ---
 
 # Ghana: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/GHA/ledger.csv` (124 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/GHA/ledger.csv` (126 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -22,7 +23,7 @@ Ghana has a data-protection statute in force since 2012, an identity credential 
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G spectrum request for applications | [In development](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) | Submission deadline moved to 2026-08-27 |
 | Dig Once policy | [In development](https://www.myjoyonline.com/government-says-dig-once-policy-could-cut-fibre-rollout-costs-by-up-to-60/) | Draft finalised, cabinet approval pending |
@@ -41,7 +42,7 @@ Ghana has a data-protection statute in force since 2012, an identity credential 
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Africa Data Centres Accra facility | [In development](https://www.africadatacentres.com/africa-data-centres-announces-that-it-will-start-construction-on-a-new-facility-in-accra-ghana/) | No dated status since the 2023 announcement |
 | Agility Logistics Park data-centre campus | [Implemented](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | Listed among Africa's largest facilities, July 2026 |
@@ -51,19 +52,19 @@ Ghana has a data-protection statute in force since 2012, an identity credential 
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-centre power arrangements | ***Not held*** | Probed 2026-08-05; no facility-level arrangement published |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Submarine cable inventory | [Implemented, list undated](https://nca.org.gh/submarine-cable-landing/) | Regulator landing-licence page, undated |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Commercial AI-driven security operations centre | [Implemented](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-launches-africas-largest-ai-driven-security-centre.amp.html) | Launched 2025-05-09 |
 | Community media cyber capability project | [Implemented](https://www.myjoyonline.com/government-launches-national-community-media-cyber-capability-building-project-to-combat-cybercrime/) | Launched 2026-08-03 |
@@ -88,15 +89,16 @@ The [Cybersecurity Act 2020](https://csa.gov.gh/resources/cybersecurity_Act_2020
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mobile money interoperability | [Implemented](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/) | Live since 2018 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric SIM re-registration | [Planned](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) | Announced for the first quarter of 2026; timetable still unannounced |
+| Electronic number plate system (DVLA) | [In development](https://www.myjoyonline.com/dvla-to-pilot-new-electronic-number-plate-system-this-month-ahead-of-2027-rollout/) | Enabling Legislative Instrument in force 28 May 2026; pilot stated for August 2026 |
 | Ghana Card | [Implemented](https://www.myjoyonline.com/nia-clears-640000-card-backlog-expands-nationwide-and-diaspora-operations/) | Backlog of 640,000 cards cleared and distributed by September 2025 |
 | Ghana Card as sole banking identity | [Implemented](https://radiotamaleonline.com/blog/2026/01/11/ghana-card-mandatory-for-banking-and-digital-transactions-bog) | Revised central-bank guidance note, January 2026 |
 | Ghana Card enrolment for children aged 6 to 14 | [Implemented](https://www.myjoyonline.com/nia-targets-3-1-million-children-as-ghana-card-registration-for-ages-6-14-resumes-may-5/) | Registration resumed 2026-05-05 |
@@ -107,7 +109,7 @@ The [Cybersecurity Act 2020](https://csa.gov.gh/resources/cybersecurity_Act_2020
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central bank digital currency pilot | [Piloting](https://www.myjoyonline.com/bog-has-not-abandoned-ecedi-project-bog-governor-assures/) | Governor states the project is not abandoned |
 | Digital credit service provider regime | [Implemented](https://www.bog.gov.gh/wp-content/uploads/2026/07/Notice-No.22-BOG-SEC-GOV-2026-UNLICENSED-DIGITAL-CREDIT-SERVICES-PROVIDERS-1.pdf) | Enforcement opened after the 30 June 2026 deadline elapsed |
@@ -120,7 +122,7 @@ The [Cybersecurity Act 2020](https://csa.gov.gh/resources/cybersecurity_Act_2020
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Births and deaths registry digitisation | [Implemented](https://www.graphic.com.gh/news/general-news/ghana-news-births-and-deaths-registry-receives-security-papers-begins-clearing-backlog.html) | 181,000 security papers received July 2025 |
 | Business registration platform | [Piloting](https://amchamghana.org/2026/07/23/amcham-ghana-engages-registrar-general-on-digital-transformation-and-business-registration-reforms/) | In pilot, launch given only as the coming months |
@@ -129,13 +131,13 @@ The [Cybersecurity Act 2020](https://csa.gov.gh/resources/cybersecurity_Act_2020
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Health management information system | [In development](https://www.graphic.com.gh/news/general-news/health-ministry-rolls-out-new-digital-system-to-fix-hospital-service-disruptions.html) | Nationwide rollout directed for November 2025 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cross-border electronic commerce tax platform | [In development](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) | Parliament approved 2026-07-28, live September 2026 |
 | Customs valuation AI system | [Implemented](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/) | Fully deployed from March 2026 after a January to February pilot |
@@ -146,20 +148,20 @@ The [Cybersecurity Act 2020](https://csa.gov.gh/resources/cybersecurity_Act_2020
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Local government electronic services | ***Not held*** | No statement on file |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Governance Series survey | [Implemented](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html) | Wave 3 report launched 2026-08-06 |
 | Quarterly employment statistics | [Planned](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/) | The finance minister asked the statistical service to develop a methodology |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ghana Agricultural Information and Monitoring System | [Implemented](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | Named as a live deployment at a Kwame Nkrumah University of Science and Technology lecture, reported 2026-08-10 |
 | National Forest Monitoring System and ForestTrace AI deforestation tracker | [Implemented](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | Named as a live deployment at a Kwame Nkrumah University of Science and Technology lecture, reported 2026-08-10 |
@@ -178,7 +180,7 @@ The customs valuation system had [analysed about 366,000 declarations to 17 July
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Exchange Act | [Planned](https://thechronicle.com.gh/government-rolls-out-10-year-ai-implementation-roadmap-to-drive-jobs-economic-growth/) | First named 2026-07-29 |
 | Data Harmonisation Bill | [In development](https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html) | Public consultation 19 to 27 November 2025 |
@@ -190,12 +192,13 @@ The customs valuation system had [analysed about 366,000 declarations to 17 July
 | Identity agency Act amendment | [In development](https://www.biometricupdate.com/202508/ghana-seeks-to-restructure-digital-id-authority-for-enhanced-law-enforcement) | Sent to Parliament, reported 2025-08-27 |
 | Information technology agency bill | [In development](https://www.myjoyonline.com/government-to-split-nitas-regulatory-and-commercial-functions-under-proposed-reforms/) | Reforms announced 2026-07-15 |
 | Innovation and Startup Bill | [In development](https://techafricanews.com/2026/07/07/ghana-and-undp-strengthen-partnership-on-digital-transformation-projects/) | Named as forthcoming 2026-07-07 |
+| Right to Information Act 2019 (Act 989) | [Implemented](https://www.graphic.com.gh/news/general-news/upsa-37-military-hospital-among-254-public-institutions-fined-by-rti-commission-over-report-delays.html) | 254 public bodies fined under section 77(1), 5 August 2026 |
 | SIM re-registration legislative instrument | [Planned](https://www.telecomreviewafrica.com/articles/general-news/13486-ghana-to-launch-new-nationwide-sim-registration-by-early-2026/) | Stated ready to be laid 2025-12-05 |
 | Virtual Asset Service Providers Act 2025 | [Implemented, licensing guidelines in development](https://www.myjoyonline.com/upsa-law-school-roundtable-charts-path-for-regulating-digital-assets-in-ghana/) | Passed by Parliament 2025-12-19 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI health policy | [In development](https://www.myjoyonline.com/health-ministry-develops-ai-policy-to-guide-safe-use-of-artificial-intelligence-in-ghanas-healthcare-system/) | Draft presented 2026-08-05 |
 | National AI implementation plan | [In development](https://thechronicle.com.gh/government-rolls-out-10-year-ai-implementation-roadmap-to-drive-jobs-economic-growth/) | Announced at the AI summit 2026-07-29 |
@@ -205,7 +208,7 @@ The customs valuation system had [analysed about 366,000 declarations to 17 July
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Anti-IFFs Policy Tracker (Ghana) | [Implemented](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) | AU Ministerial Declaration (Abidjan, 20-24 Jul 2026) endorses continental roll-out from the six-country pilot including Ghana |
 | Digital Policy Alert / St Gallen Endowment partnership | [Implemented](https://techafricanews.com/2026/08/10/ghana-ministry-and-digital-policy-alert-partner-to-strengthen-digital-governance/) | Announced at an Accra stakeholder workshop, 2026-08-10 |
@@ -213,14 +216,14 @@ The customs valuation system had [analysed about 366,000 declarations to 17 July
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber and Information Security Directive 2026 | [Implemented](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) | Launched 2026-03-26 |
 | Government data exchange hub | [Planned](https://dial.global/research/national-data-exchange-ghana-case-study/) | Re-announced by the minister 2026-07-29 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection Act 2012 | [Implemented](https://techreviewafrica.com/news/4137/minister-for-communication-stresses-data-protection-as-foundation-of-ghanas-digital-transformation) | Since 2012 |
 | Data Protection Commission | [Implemented](https://techafricanews.com/2025/08/01/ghana-takes-major-step-towards-secure-digital-future-with-new-data-protection-board/) | Governing board sworn in 2025-08-01 |
@@ -230,13 +233,13 @@ The customs valuation system had [analysed about 366,000 declarations to 17 July
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ghana-EU digital instrument | [Implemented, no digital priority area](https://international-partnerships.ec.europa.eu/document/download/957bc807-a743-4aee-ae6d-b3b6e1a8f2f0_en?filename=mip-2021-c2021-9368-ghana-annex_en.pdf) | Amended by Commission Implementing Decision C(2024)7502 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open-data instrument | ***Not held*** | No policy, portal, licence or inventory on file |
 
@@ -254,7 +257,7 @@ The communications minister named a [National Data Exchange Hub the government p
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Disaster management AI chatbot | [Implemented](https://www.unesco.org/en/articles/ghanas-disaster-agency-turns-ai-reach-people-water-does) | Handed to the disaster agency 2026-05-26 |
 | Flood Intelligence Agent | [In development](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | Named as in development at a Kwame Nkrumah University of Science and Technology lecture, reported 2026-08-10 |
@@ -263,7 +266,7 @@ The communications minister named a [National Data Exchange Hub the government p
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Micro-enterprise tax platform | [Implemented](https://techafricanews.com/2026/05/25/trident-begins-commercial-rollout-of-ghana-revenue-authority-digital-msme-platform/) | Commercial launch 2026-06-05 |
 | Mobile money intellectual-property claim | [In development](https://www.connectingafrica.com/mobile-money/clydestone-sues-mtn-ghana-over-mobile-money-ip) | Writ filed 2026-07-27; the defendant answered 2026-07-31 |
@@ -271,25 +274,25 @@ The communications minister named a [National Data Exchange Hub the government p
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Assistive vision technology | [Piloting](https://techcabal.com/2026/08/04/assistive-technology-for-african-users/) | In pilot with a disability association |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Google AI research and community centre | [Implemented](https://managingghana.com/2025/07/27/google-unveils-37m-investment-and-ai-hub-in-accra-to-boost-africas-ai-growth/) | Opened 2018; US$37m cumulative disclosed July 2025 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ghana-India technology cooperation instrument | ***Not held*** | No sources on file for this place and subject |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ghana-Gulf technology investment instrument | ***Not held*** | No sources on file for this place and subject |
 
@@ -303,7 +306,7 @@ The disaster management organisation took ownership on 26 May 2026 of an [AI mul
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Household survey of digital access | [Implemented, not repeated since 2019](https://nca.org.gh/wp-content/uploads/2021/12/Household-Survey-on-ICT-in-Ghana-Abridged-NRF.pdf) | Abridged report published 2020-11-02 on June 2019 fieldwork |
 | Rural telephony and digital inclusion project | [Implemented](https://www.graphic.com.gh/news/general-news/ghana-news-improving-rural-telephony-project-remains-top-priority-gifec-ceo.html) | EUR 140.8m buyer's credit signed 2020-05-13 |
@@ -312,20 +315,20 @@ The disaster management organisation took ownership on 26 May 2026 of an [AI mul
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cash-grant programme on mobile-money rails | [Implemented](https://www.mofep.gov.gh/sites/default/files/budget-statements/2026-Mid-Year-Fiscal-Policy-Review-Speech.pdf) | GH¢485m paid in the first half of 2026 |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National privacy awareness campaign | [Implemented](https://techafricanews.com/2025/09/16/ghana-launches-nationwide-privacy-awareness-campaign-to-safeguard-digital-rights/) | Launched 2025-09-16 for a one-year run |
 | Revised basic-education curriculum | [Planned](https://www.myjoyonline.com/haruna-iddrisu-announces-revised-basic-school-curriculum-with-artificial-intelligence-coding-and-tvet/) | The curriculum council completed the revision; awaiting cabinet and Parliament |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Parliaments Project Africa | [Implemented](https://opemsuo.com/digital-parliaments-project-africa-launched-in-ghana-to-strengthen-legislative-processes/) | Launched at a capacity-training event in the Parliament of Ghana |
 | Education fund and UNESCO AI teacher training programme | [Planned](https://ghanaiantimes.com.gh/getfund-unesco-sign-mou-ai-programme/) | Memorandum signed 2026-08-05 |
@@ -338,7 +341,7 @@ The disaster management organisation took ownership on 26 May 2026 of an [AI mul
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Innovation centre at a public university | [Implemented](https://old1.ug.edu.gh/news/ug-and-koica-sign-agreement-ict-based-start-ups-and-asian-studies-gk-impact-worth-9-million) | US$9m grant, 2022, running to 2027 |
 
@@ -354,7 +357,7 @@ An unlimited 100 Mbit/s fibre package [fell from GH¢987 to GH¢299 a month in J
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI implementation fund | [Planned](https://www.graphic.com.gh/news/general-news/ghana-news-president-unveils-270m-national-ai-strategy-250m-computing-centre-20m-implementation-fund-earmarked-to-create-africas-ai-hub.html) | Earmarked at the strategy launch 2026-04-24 |
 | Digital acceleration project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P176126) | US$200m, effective June 2023, running to June 2027 |
@@ -363,7 +366,7 @@ An unlimited 100 Mbit/s fibre package [fell from GH¢987 to GH¢299 a month in J
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic digital-transformation appropriation | [Implemented](https://www.mofep.gov.gh/sites/default/files/budget-statements/Appropriation%20%28%20No.%202%29%20Act%2C%202025%20Act%201163_0.pdf) | Appropriation (No. 2) Act, 2025 (Act 1163), 2026 votes |
 | Multi-year commitment for three revenue platforms | [Implemented](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) | Parliament adopted the finance committee reports 2026-07-28 |

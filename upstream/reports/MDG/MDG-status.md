@@ -1,14 +1,15 @@
 ---
 title: Madagascar — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: MDG
 ledger_rows: 59
 not_held: 8
+record: e3d83cad1679
 ---
 
 # Madagascar: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/MDG/ledger.csv` (59 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/MDG/ledger.csv` (59 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Two things ran the other way. The same Council of Ministers [ordered providers t
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G-Advanced trial (Yas and Huawei) | [Piloting](https://www.lexpress.mg/2026/07/service-public-la-technologie-au.html) | Trial run at the operator's Andraharo campus, 23 July 2026 |
 | Airtel and Eutelsat OneWeb rural broadband | [In development](https://techafricanews.com/2026/06/01/airtel-madagascar-and-eutelsat-deepen-push-for-rural-broadband-access/) | Low-earth-orbit rural broadband partnership deepened |
@@ -39,13 +40,13 @@ Two things ran the other way. The same Council of Ministers [ordered providers t
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data centres (Tsimbazaza and Iavoloha) | [In development](https://www.ecofinagency.com/news-digital/2406-56771-madagascar-world-bank-review-progress-on-543-million-digital-transformation-projects) | Two renewable-powered centres confirmed at the World Bank portfolio review of 24 June 2026 |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National cybersecurity strategy | [In development](https://midi-madagasikara.mg/vers-la-mise-en-place-dune-strategie-nationale/) | Multisectoral strategy launched at a workshop with a three-month delivery target |
 
@@ -63,20 +64,20 @@ Hosting is being built for the identity system rather than for a market: tenders
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rahaka national interoperability platform | [Implemented](https://www.lexpress.mg/2026/04/administration-mise-en-place-dun.html) | National interoperability launched, with an online one-stop window announced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric enrolment kits and centres | [Implemented](https://www.lexpress.mg/2026/03/etat-civil-lenrolement-biometrique.html) | Steering committee validated the proof of concept, releasing 2,500 kits nationwide |
 | PRODIGY biometric national identity enrolment | [Implemented](https://www.lexpress.mg/2026/07/recensement-lidentite-biometrique.html) | First adult phase enrolled more than six million people against a two-million target |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel Money and Baobab Bank integration | [Implemented](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/) | Baobab Bank integrated into Airtel's mobile banking service |
 | AXIAN Digibank and Fintech | [In development](https://techcabal.com/2025/11/26/axian-rebrands-fintech-cluster/) | Fintech cluster rebranded, evolving MVola and Mixx toward a full digital bank |
@@ -86,7 +87,7 @@ Hosting is being built for the identity system rather than for a market: tenders
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil registry and database management contract (IN Groupe) | [Implemented](https://www.biometricupdate.com/202505/madagascar-selects-in-groupe-for-e8-5m-digital-id-contract) | EUR 8.5m contract awarded |
 | Civil-record digitisation | [Implemented](https://www.intelligentcio.com/africa/2026/05/08/ai-powered-digitisation-project-positions-madagascar-as-a-model-for-african-digital-identity-modernisation/) | About 10 million civil records digitised across 1,695 communes with optical character recognition and AI indexing |
@@ -95,26 +96,26 @@ Hosting is being built for the identity system rather than for a market: tenders
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Higher-education accreditation platform | [Implemented](https://2424.mg/enseignement-superieur-la-plateforme-habilitation-accreditation-et-equivalence-mise-sur-la-transparence-et-la-digitalisation-des-procedures/) | Presented at the ministry on 3 August 2026 |
 | Police reporting platform for violence and disappearances | [Implemented](https://midi-madagasikara.mg/police-nationale-une-plateforme-numerique-pour-signaler-les-violences-et-les-disparitions/) | Presented at Anosy on 28 July 2026 by the minister of public security |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Municipal or communal digital service delivery | ***Not held*** | Civil registration reaches the commune and fokontany level through national programmes; no municipal digital-service system or mandate is held |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | INSTAT microdata sharing platform | [Implemented, gated behind registration](https://microdata.instat.mg/) | Login and registration platform captured 9 August 2026, advertising census and survey microdata |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Earth-observation or geospatial data programme | ***Not held*** | Satellite connectivity partnerships are held; no earth-observation or geospatial-data programme, mandate or output is |
 
@@ -136,7 +137,7 @@ Statistical microdata sits behind a gate rather than in the open: [INSTAT's micr
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybercrime bill overhauling the 2014 law | [In development](https://www.agenceecofin.com/actualites-numerique/0907-140040-madagascar-adopte-un-projet-de-loi-pour-moderniser-son-arsenal-contre-la-cybercriminalite) | Adopted by the Council of Ministers, 8 July 2026 |
 | Dedicated social-media law | [Planned](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes) | Announced by the minister of communication, covering harassment, defamation and disinformation |
@@ -145,20 +146,20 @@ Statistical microdata sits behind a gate rather than in the open: [INSTAT's micr
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Plan Strategique Numerique 2023-2028 | [Implemented](https://www.trade.gov/country-commercial-guides/madagascar-digital-economy) | Standing national digital strategy |
 | Technical Assistance Facility for the Refondation | [Implemented](https://www.journalmadagascar.com/reforme-administrative-une-nouvelle-facilite-dassistance-technique-pour-la-refondation-lancee-a-madagascar/) | Launched at the Palais d'Etat d'Iavoloha, running 2026 to 2030 with UNDP support |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mobile money open API conformance | [Implemented](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/programme/mobile-for-development/mvola-madagascar-a-case-study-for-the-gsma-mobile-money-api-and-open-platforms) | MVola documented as conforming to the GSMA Mobile Money API |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Commission Malagasy de l'Informatique et des Libertes (CMIL) | [Planned](https://www.lexpress.mg/2025/02/gouvernance-numerique-les-donnees.html) | Provided for by loi n 2014-038 and not constituted; creation urged by an assessment mission |
 | Data-protection law (loi n 2014-038) | [Implemented](https://www.lexpress.mg/2025/02/gouvernance-numerique-les-donnees.html) | In force since 9 January 2015 |
@@ -166,13 +167,13 @@ Statistical microdata sits behind a gate rather than in the open: [INSTAT's micr
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-society or parliamentary record on digital governance | ***Not held*** | No civil-society, parliamentary or press-freedom account of Madagascar's digital governance is held |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Assemblee nationale open-data portal | [Implemented](https://parlement.mg/opendata/) | Read-only REST API and open-data pages captured 9 August 2026, publishing five parliamentary datasets under an explicit reuse licence |
 | Open government data portal or policy | [Implemented, institution-specific](https://parlement.mg/opendata/) | Three of four known Malagasy open-data platforms captured 9 August 2026; no coordinated national open-data policy found |
@@ -194,7 +195,7 @@ Open data is institution-specific rather than a coordinated national policy. The
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ATLAS Umoja African-language AI partnership | [Planned](https://techafricanews.com/2026/07/28/axian-telecom-named-founding-partner-of-atlas-umoja-ai-for-african-language-ai/) | AXIAN Telecom named a founding partner |
 | Customs data and artificial-intelligence centre (CEDIA) | [Implemented](https://midi-madagasikara.mg/douanes-madagascar-un-modele-dans-lutilisation-de-lintelligence-artificielle/) | Launched within the customs administration in May 2025 |
@@ -203,7 +204,7 @@ Open data is institution-specific rather than a coordinated national policy. The
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital cooperation with Madagascar | ***Not held*** | No India-Madagascar digital cooperation agreement, line of credit or programme document is held |
 
@@ -217,27 +218,27 @@ What is announced is partnership rather than capability: AXIAN was [named a foun
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fonds DECIM affordable-device facility | [Implemented](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf) | Nine applications approved and in contractualisation; a US$2.5m first call for funds made on 7 November 2025 |
 | Mobile internet tariff reduction agreement | [Implemented](https://www.lexpress.mg/2025/12/connectivite-baisse-annoncee-des-tarifs.html) | Operators agreed to cut prices gradually, with excise-duty relief conditioned on reinvestment in quality |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital literacy programme or measurement | ***Not held*** | Basic digital literacy is named inside a donor sub-component; no standalone programme document or published measurement is held |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | DECIM digital skills sub-component | [In development](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf) | US$15m sub-component covering a virtual university, advanced skills training and the national research network |
 | Ministry recruitment of specialist digital posts | [In development](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/) | 259 applications received for ten established civil-service posts |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | UNIPOD university connectivity and AI initiative | [In development](https://techafricanews.com/2026/01/26/unipod-initiative-aims-to-bring-high-speed-internet-and-ai-to-universities-in-madagascar/) | Initiative to bring high-speed internet and artificial intelligence to universities |
 
@@ -253,7 +254,7 @@ The state recruits for capability it says it lacks: the digital ministry [receiv
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel Mobile Commerce guarantee (MIGA) | [Implemented](https://www.miga.org/project/airtel-mobile-commerce) | US$5,130,000 committed |
 | Digital Governance and Identification Management System project (World Bank) | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P169413) | US$143,000,000 committed |
@@ -264,7 +265,7 @@ The state recruits for capability it says it lacks: the digital ministry [receiv
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic budget appropriation for digital transformation | ***Not held*** | No loi de finances, annex or appropriation line for the digital ministry, the Digital Governance Unit or the identity office is held |
 

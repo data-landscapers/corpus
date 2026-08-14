@@ -1,14 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: BWA
 ledger_rows: 89
 not_held: 11
+record: 9b44a67f6608
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (89 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (89 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ The budget is the clearest part. Digital development lines were cut for FY2026/2
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BoFiNet internet gateway upgrade | [Implemented](https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news) | P100m spent; the Gaborone exchange point relocated |
 | BTC rural satellite connectivity programme | [Implemented](https://itweb.africa/article/btcs-new-reach-extends-to-61-villages-in-botswana/rxP3jqBEWB4MA2ye) | 61 villages connected, 105 further areas in progress |
@@ -36,7 +37,7 @@ The budget is the clearest part. Digital development lines were cut for FY2026/2
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-localisation amendment to the Data Protection Act | [Planned](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news) | Announced by the minister at the Digital Delta launch |
 | Digital Delta Data Centre | [Implemented](https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center) | Launched 2025-11-25 after Tier III certification in October 2025 |
@@ -46,7 +47,7 @@ The budget is the clearest part. Digital development lines were cut for FY2026/2
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kala hybrid gas and solar generation | [Implemented](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) | Solar introduced to cover periods of lower gas availability |
 | Lesedi 5MW solar development | [Planned](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) | Options assessed during the quarter, scalability under review |
@@ -55,7 +56,7 @@ The budget is the clearest part. Digital development lines were cut for FY2026/2
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybercrime and Computer Related Crimes Act 2018 | [Implemented](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf) | Its repeal takes effect only on the 2025 Act's commencement |
 | Liquid Secure360 | [Implemented](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r) | Service portfolio launched in Botswana |
@@ -76,14 +77,14 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | SADC Agricultural Information Management System | [In development](https://www.mmegi.bw/news/botswana-moves-to-strengthen-agricultural-data-integration/news) | Four-day national readiness workshop in Gaborone |
 | SADC cross-border DPI and federated eKYC framework | [In development](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries) | Framework unveiled August 2025 by the regional central bank committee |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic Identification System | [In development](https://dailynews.gov.bw/news-detail/90334) | Rescoped from a public-private partnership into a broader digital identity ecosystem |
 | Mandatory SIM registration | [Implemented](https://www.bocra.org.bw/public-notice-mandatory-sim-card-registration-all-users-botswana) | Public notice, mandatory for all users |
@@ -93,7 +94,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric grant payment cards | [Implemented](https://techafricanews.com/2025/05/28/smartswitch-botswana-pioneers-dignified-digital-aid-for-75000-beneficiaries/) | More than 75,000 beneficiaries and 1,200 shops, on a platform accredited by three central banks |
 | Citizen Wallet | [Planned](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/) | Presented to a rural development council, 2025-09-17 |
@@ -102,7 +103,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Elections Management System | [In development](https://www.sundaystandard.info/electoral-transparency-credibility-and-the-dark-shadow-of-the-evm-in-botswana/) | Developed and under extensive testing; deployment planned for the 2029 general election |
 | Electronic voter registration | [In development](https://botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/IEC.pdf) | P50,000,000 appropriated for FY2026/27; the project may straddle two or three financial years |
@@ -110,7 +111,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Animal Disease Surveillance Dashboard | [Implemented](https://www.mmegi.bw/news/botswana-gains-upper-hand-against-fmd/news) | Launched in the week of 2026-07-13, integrating the traceability system and district veterinary networks |
 | Government Accounting and Budgeting System | [Implemented](https://dailynews.gov.bw/news-detail/85274) | Committee of supply told the software upgrade completed December 2024 and the system is fully operational |
@@ -118,7 +119,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 1Gov-1Citizen platform | [Implemented](https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/) | FY2026/27 ministry plan records e-services increased from 33 to 52 |
 | E-Payslip portal | [Discontinued, suspended pending compliance](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) | Directorate statement of 2026-07-22 following the regulator's enforcement notice |
@@ -126,20 +127,20 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Local-government digital systems | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Africa Broadband Maps training | [In development](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa) | Subregional geographic-information and data-management training commenced in Botswana |
 | Statistician General | [Implemented](https://www.sundaystandard.info/a-letter-to-dr-khaufelo-lekobane-statistician-general/) | A substantive appointment made October 2025, succeeding an acting holder |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BOTSAT-1 | [Implemented](https://www.telecomreviewafrica.com/articles/telecom-operators/11357-botswana-enters-space-race-with-botsat-1-launch/) | Launched 2025-03-15 with an in-country ground station |
 
@@ -155,7 +156,7 @@ Service delivery is counted in services rather than in use. The government platf
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybersecurity Act 2025 | [Planned, awaiting commencement notice](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf) | Assented 2025-11-05, gazetted 2025-11-11, commencement on notice |
 | Digital Services Act | [Implemented](https://dailynews.gov.bw/news-detail/90463) | In force 2025-11-21 with a 24-month compliance window to November 2027 |
@@ -166,7 +167,7 @@ Service delivery is counted in services rather than in use. The government platf
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Services Authority | [Planned](https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/) | Announced in the FY2026/27 ministry plan; no establishing instrument found |
 | ICT Roadmap 2030 | [Implemented](https://dailynews.gov.bw/news-detail/90463) | Set out at a high-level policy dialogue, 2026-03-09 |
@@ -174,7 +175,7 @@ Service delivery is counted in services rather than in use. The government platf
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Botswana-Namibia ICT memorandum of understanding | [Planned, signature announced not confirmed](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/) | Signature announced for 2026-08-06 at Kasane |
 | SADC One Network Area roaming | [Implemented](https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/) | Extended to five further SADC states, announced 2026-03-13 |
@@ -182,14 +183,14 @@ Service delivery is counted in services rather than in use. The government platf
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ITU Radio Regulations Board candidature | [In development](https://techreviewafrica.com/news/5936/botswana-pushes-for-rrb-seat-as-african-states-forge-common-itu-agenda-in-victoria-falls) | Candidature promoted at a regional preparatory meeting, 27-29 May 2026 |
 | National IPv6 transition plan | ***Not held*** | — |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection Act No. 18 of 2024 | [Implemented](https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/) | In force 2025-01-14, repealing the never-commenced 2018 Act |
 | Determination and enforcement notice against the public service management directorate | [Implemented](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) | Public notice dated 2026-07-17; compliance evidence due within one month |
@@ -197,14 +198,14 @@ Service delivery is counted in services rather than in use. The government platf
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU Cooperation Facility for digital transformation | [Implemented](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893) | Committed 2022; activity period 2022-2030 |
 | EU-Botswana digital cooperation instrument since 2022 | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open-data portal or policy | ***Not held*** | — |
 
@@ -220,32 +221,32 @@ The [Remote Service VAT Act took effect on 1 June 2026, charging 14% on non-resi
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Judicial capability on AI and digital evidence | [Planned](https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news) | The Chief Justice stated the Judiciary had resolved to train judges in AI and emerging technologies |
 | National AI policy or strategy | ***Not held*** | — |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artemis Accords accession | [Implemented](https://techreviewafrica.com/news/6126/botswana-joins-artemis-accords-as-68th-signatory) | Signed 2026-06-25 at NASA headquarters as the 68th signatory |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Huawei ICT Academy in Botswana | [Implemented](https://www.sundaystandard.info/huawei-ict-competition-boosts-digital-skills-development-in-botswana/) | A 2025-2026 competition run across five named universities |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-Botswana technology or digital cooperation | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kala Data heads of agreement | [Implemented](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o) | Heads of agreement negotiated March 2025; site and technical planning progressed by 2025-09-26 |
 
@@ -261,35 +262,35 @@ External technology relationships are narrow. Botswana [acceded to the Artemis A
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BTC Community Wi-Fi, Old Naledi | [Implemented](https://techafricanews.com/2025/06/09/botswana-launches-community-wi-fi-in-old-naledi-boosting-digital-inclusion/) | Launched June 2025 |
 | Universal Access and Service Fund school digital centres | [Implemented](https://dailynews.gov.bw/news-detail/92351) | Two handovers in the North West District, 22 and 23 July 2026 |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mascom device-financing facility | [Implemented](https://www.sundaystandard.info/mascom-launches-myzaka-flexi-botswanas-first-mobile-device-financing-facilty/) | Launched 2025-05-23 as Botswana's first mobile device financing facility |
 | Official internet penetration figure | ***Not held*** | — |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regulator school ICT and cyber-awareness training | [Implemented](https://techreviewafrica.com/news/3680/bocra-expands-ict-training-to-support-digital-inclusion-in-botswana-schools) | Sessions run at four schools in the week of 2026-01-22 |
 | National digital literacy measure | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ITU and CRASA geographic-information training | [Implemented](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa) | Training commenced in Botswana with the regulator and the regional association |
 | STEAM e-learning, coding and robotics programme | [In development, contract awarded](https://www.sundaystandard.info/p654-million-tender-adjudicated-awarded-same-day/) | Contract awarded by direct procurement 2026-06-25 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Research Agenda | [Implemented](https://www.mmegi.bw/business/govt-spends-p95m-on-research-projects/news) | Cabinet approved July 2025; FY2025/26 spend reported to the committee of supply |
 | University of Botswana virtual-reality programme | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/university-of-botswana-enters-vr-space-with-new-immersive-initiative) | Launched 2026-04-16 with a partner innovation hub |
@@ -302,7 +303,7 @@ Universal service delivers per site and publishes no programme total. Two school
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Botswana Tech Fund | [Implemented](https://botswanatech.com/blog/botswana-tech-fund-launches-with-%C2%A35m-phase-1) | Launched 2026-04-21; first close reported 2026-04-27 |
 | Scalar Botswana Innovation Program | [Implemented](https://techcabal.com/2026/03/17/botswana-to-support-clean-energy-startups/) | Launched in Gaborone 2026-03-10 |
@@ -310,13 +311,13 @@ Universal service delivers per site and publishes no programme total. Two school
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Orange Botswana and special economic zones memorandum | [Implemented](https://techafricanews.com/2026/03/17/orange-botswana-and-seza-collaboration-to-power-digital-economic-expansion/) | Signed at the operator's head office, reported 2026-03-17 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Basic education ministry computerisation | [Implemented](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) | Appropriated in the FY2026/27 estimates |
 | Communications ministry ICT project | [Implemented](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) | Appropriated in the FY2026/27 estimates |

@@ -1,28 +1,29 @@
 ---
 title: Togo — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: TGO
 ledger_rows: 111
 not_held: 39
+record: 1cda853dfbc0
 ---
 
 # Togo: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/TGO/ledger.csv` (111 systems and instruments, 39 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/TGO/ledger.csv` (111 systems and instruments, 39 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
 ## Summary of position
 
 <!-- narrative: summary -->
-_(narrative not yet written)_
+Togo's digital state is built further than it is written down. The identity programme reaches [more than 6,000,000 people, about 62 per cent of the population](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025), payments run at [12.55m electronic-money accounts with the highest activity growth in the union](https://www.togofirst.com/fr/finance/1803-18503-togo-le-nombre-de-comptes-de-monnaie-electronique-a-progresse-de-76-87-en-un-an), and the state has digitised civil status in five communes and twenty-nine energy procedures behind one portal. What it has not built is the layer beneath them: the national interoperability and data-exchange layer is ***Not held***, and the only named candidate, government software licensed in June 2024, has never been reported deployed — so the services that exist are joined by the identity number rather than by an exchange. Payments are the other built layer: [six banks are authorised on the regional instant payment platform and the first mobile wallet joined in April 2026](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi), and retirement allowances now pay by bank transfer and mobile money against a registration deadline of 31 August, after which allowances stop for anyone who has not registered payment details. Neither the payment platform nor the identity register has a published availability or throughput figure, so the built layer is described by its coverage and not by its performance. What is missing alongside all of it is instruments: 39 of 111 rows are ***Not held***, and the founding texts of the identity agency and the cybersecurity agency, the decree organising the data-protection authority, the access-to-information statute and the national artificial-intelligence strategy are all among them. The one statute held in full is the [2019 data-protection law, gazetted with ninety-seven articles](https://jo.gouv.tg/sites/default/files/JO/JOS_29_10_2019-64E%20ANNEE-N%C2%B026%20TER.pdf) — whose biometric-authorisation article is unenforced against the state's own identity programme.
 <!-- /narrative -->
 
 ## Infrastructure
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G service on 100 MHz at 3400-3500 MHz | [Implemented](https://watra.org/wp-content/uploads/2026/05/WATRA-5G-Deployment-Framework_EN-updated.pdf) | Commercial since 2020, restated in a regional regulators' survey answered April 2026 |
 | ECOWAS free-roaming arrangement with Senegal and Benin | [Implemented](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative) | Signed at Lome and took effect 2026-04-24 under regional regulation C/REG.21/12/17 of December 2017 |
@@ -38,7 +39,7 @@ _(narrative not yet written)_
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Lome Data Centre | [Implemented](https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center) | Certified to the third tier and wholly owned by a state company, as reported |
 | Sovereign private cloud at the Lome Data Centre | [In development](https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center) | Strategic partnership signed between the state operator and a pan-African data-centre group |
@@ -46,13 +47,13 @@ _(narrative not yet written)_
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power supply to the digital estate | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | African Centre for Coordination and Research in Cybersecurity | [Planned](https://watra.org/wp-content/uploads/2026/05/EN_WG_CS_Rapport_Final_GT_Cybersecurity_WATRA-vf-rev1.2.pdf) | Named as the strategic culmination of the Luxembourg programme in a regional working-group report |
 | Agence Nationale de la Cybersecurite | [Implemented](https://www.togofirst.com/fr/formation/0311-17461-protection-des-donnees-3000-jeunes-togolais-formes-aux-bons-reflexes-numeriques) | Created by the cybersecurity and cybercrime amendments of June 2022 |
@@ -64,14 +65,14 @@ _(narrative not yet written)_
 | Terms of the joint venture running the national incident response team | ***Not held*** | — |
 
 <!-- narrative: infrastructure -->
-The national cybersecurity agency, Agence Nationale de la Cybersecurite, reported handling more than 333,000 incidents between 2021 and 2024, a cumulative total first attributed to its director-general in July 2026. A [year-on-year breakdown published 2026-08-03](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/) puts the count at 39,168 incidents in 2021, rising to 181,088 in 2024 — a 4.6-fold increase — with no figure published for 2022, 2023 or 2025 and no definition offered of what counts as an incident. The report frames the rise as evidence of wider monitoring and faster detection rather than of deteriorating security; that causal reading is asserted in the report, not evidenced by it.
+The national cybersecurity agency, Agence Nationale de la Cybersecurite, [reported handling more than 333,000 incidents between 2021 and 2024](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/), a cumulative total first attributed to its director-general in July 2026. A [year-on-year breakdown published 2026-08-03](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/) puts the count at 39,168 incidents in 2021, rising to 181,088 in 2024 — a 4.6-fold increase — with no figure published for 2022, 2023 or 2025 and no definition offered of what counts as an incident. The report frames the rise as evidence of wider monitoring and faster detection rather than of deteriorating security; that causal reading is asserted in the report, not evidenced by it.
 <!-- /narrative -->
 
 ## Digital public infrastructure
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government electronic-government software licensing agreements | [Planned](https://kz.kursiv.media/en/2024-06-20/kazakhstan-wants-to-export-egov-to-africa/) | Three source-code licensing agreements signed at Lome in late June 2024 |
 | Tax-exemption platform interfaced to the customs system | [Implemented](https://www.togofirst.com/en/economic-governance/0110-17200-togo-launches-online-platform-for-tax-exemptions-and-waivers) | Mandatory from 1 January 2026 after a three-month transition |
@@ -79,7 +80,7 @@ The national cybersecurity agency, Agence Nationale de la Cybersecurite, reporte
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Numero d'identification unique and the biometric identity card | [Implemented](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025) | More than six million unique numbers and biometric cards reported at end-December 2025 |
 | Data-protection authority's authorisation for biometric and identification-number processing | ***Not held*** | — |
@@ -87,7 +88,7 @@ The national cybersecurity agency, Agence Nationale de la Cybersecurite, reporte
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digitised payment of retirement allowances | [Implemented, migration incomplete](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/) | First digital disbursements made in July 2026, with registration of payment details required by 2026-08-31 |
 | Gozem Money | [Implemented](https://www.togofirst.com/fr/finance/1510-17308-mobile-money-au-togo-gozem-money-entre-en-service) | Entered service with a partner bank under regional electronic-money rules |
@@ -99,7 +100,7 @@ The national cybersecurity agency, Agence Nationale de la Cybersecurite, reporte
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electoral register | [Implemented](https://www.togofirst.com/fr/politique/0204-16058-elections-municipales-au-togo-la-revision-des-listes-electorales-debute-le-7-avril) | Nationwide revision ran 7-23 April 2025 under a presidential decree of 1 April 2025 |
 | Georeferencing of pre-2007 land titles | [In development](https://www.otr.tg/index.php/fr/1544-georeferencement-des-titres-fonciers-une-revolution-pour-la-securite-et-la-transparence-au-togo.html) | Field operation under way under the revenue authority's cadastre directorate |
@@ -111,7 +112,7 @@ The national cybersecurity agency, Agence Nationale de la Cybersecurite, reporte
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Education management information system | [Implemented, mid-migration](https://education.dhis2.org/gpe-kix-study-tour/) | A study tour assessed the system in the field |
 | Pupil registration number platform | [In development](https://education.gouv.tg/wp-content/uploads/2025/10/Aide-me%CC%81moire-RSCE_Togo_2025.pdf) | Recorded as launched in 2023 by the ministry, with no clear evidence of student identification numbers found in April 2024 |
@@ -120,7 +121,7 @@ The national cybersecurity agency, Agence Nationale de la Cybersecurite, reporte
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic document management at the finance ministry | [In development](https://www.togofirst.com/fr/gestion-publique/0707-19475-togo-la-transition-numerique-relance-le-chantier-de-la-gestion-des-archives) | A new phase of official training on document management and digitisation |
 | Guichet National du Service Public | [Implemented](https://www.togofirst.com/en/public-services/1712-17829-togo-expands-public-service-digitisation-with-online-civil-registry-platform) | Twenty-nine energy-sector procedures added, with other ministries expected to join from January 2026 |
@@ -129,38 +130,38 @@ The national cybersecurity agency, Agence Nationale de la Cybersecurite, reporte
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Spectrum royalties for satellite and machine-to-machine services | [Implemented](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) | Amending decree adopted in the Council of Ministers |
 | Rural connectivity or universal-service programme | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Urban addressing in Greater Lome | [In development](https://www.republicoftogo.com/toutes-les-rubriques/societe/adressage-urbain-effort-de-modernisation) | Modernisation begun, preceded by updating the geographic address database of the thirteen communes |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open-data portal or statistical dissemination platform | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National satellite or earth-observation capability | ***Not held*** | — |
 
 <!-- narrative: dpi -->
-The ministry of territorial administration, local governance and customary affairs, with support from the Organisation internationale de la Francophonie, [launched a second national catch-up campaign for birth registration](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/) at Agbandi in Blitta 2 commune on 2026-07-31. A first edition had delivered a jugement suppletif and a birth certificate to 5,000 vulnerable children; the second is stated to target 6,461 further children across 25 communes, which the report states would take the two campaigns' combined total to 11,461. The same report carries an unreconciled second figure for the second campaign's reach: the OIF's West Africa resident representative put it at nearly 7,400 vulnerable schoolchildren across the same 25 communes, against the 6,461 the report otherwise states. The prefect of Blitta said on the record that despite years of civil-registry reform, many children, particularly in rural areas, remain without a birth certificate.
+The ministry of territorial administration, local governance and customary affairs, with support from the Organisation internationale de la Francophonie, [launched a second national catch-up campaign for birth registration](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/) at Agbandi in Blitta 2 commune on 2026-07-31. [A first edition had delivered a jugement suppletif and a birth certificate to 5,000 vulnerable children, and the second targets 6,461 further children across 25 communes, taking the two campaigns' combined total to 11,461](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/). The same report carries an unreconciled second figure for the campaign's reach: [the funder's West Africa resident representative put it at nearly 7,400 vulnerable schoolchildren across the same 25 communes, against the 6,461 stated elsewhere in the same account](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/). The prefect of Blitta said on the record that despite years of civil-registry reform, many children, particularly in rural areas, remain without a birth certificate.
 <!-- /narrative -->
 
 ## Governance and regulation
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Anti-money-laundering law of 2025 | [Implemented, adopted with no promulgation date, number or gazette reference held](https://www.togofirst.com/en/economic-governance/3012-17892-togo-adopts-new-law-to-strengthen-anti-money-laundering-rules) | Adopted in the National Assembly's December 2025 budget session |
 | Decret n 2023-040/PR on electronic-communications fees and royalties | [Implemented](https://arcep.tg/wp-content/uploads/2023/08/Decret-2023-040-fixant-taux-modalites-recouvrements-equipements-radielectriques.pdf) | Signed 2023-04-05, with one annex table amended by a decree adopted 2026-07-30 |
@@ -172,7 +173,7 @@ The ministry of territorial administration, local governance and customary affai
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government roadmap for 2026-2031 | [Implemented, text not held](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) | Private-sector contribution workshop convened at Lome 2026-07-30 under Vision Togo 2040 and the roadmap |
 | Regulatory authority for electronic communications and posts | [Implemented](https://www.togofirst.com/en/trombinoscope-uk/3107-19753-michel-yaovi-galley-head-of-arcep-togo) | Created in October 2020 in an institutional reform replacing its predecessor |
@@ -181,20 +182,20 @@ The ministry of territorial administration, local governance and customary affai
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Transposition of the regional consumer-protection directive | [Planned, consultation only](https://www.togofirst.com/en/economic-governance/2403-15996-togo-adopts-waemu-consumer-protection-framework) | A stakeholder workshop at Lome on 20 and 21 March 2025, with no adoption instrument |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Decree instituting a national conformity-assessment mechanism | [Implemented, adopted with no number, text or entry-into-force date held](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) | Adopted in the Council of Ministers 2026-07-30 |
 | Decret n 2026-037/PC approving the national frequency allocation plan | [Implemented](https://arcep.tg/wp-content/uploads/2026/04/Decret-2026-037-PC-Plan-National-d-Attribution-des-bandes-de-Frequences-radioelectriques-PNAF.pdf) | Adopted in the Council of Ministers 2026-03-11 and published by the regulator 2026-04-15 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cooperation accord between the broadcasting and data-protection authorities | [Implemented](https://cybersecuritymag.africa/la-haac-et-ipdcp-scellent-un-accord-de-cooperation-institutionnelle) | Signed 2025-12-10 |
 | Instance de protection des donnees a caractere personnel | [Implemented](https://www.togofirst.com/fr/tic/2903-16040-numerique-l-instance-de-protection-des-donnees-a-caractere-personnel-demarre-ses-activites) | Activities formally launched at Lome, with a public campaign from 1 April 2025 |
@@ -203,19 +204,19 @@ The ministry of territorial administration, local governance and customary affai
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data portal or policy | ***Not held*** | — |
 
 <!-- narrative: governance -->
-_(narrative not yet written)_
+The governance layer is unusually well populated and unusually hard to read. Two instruments are held in full — the [2019 data-protection law](https://jo.gouv.tg/sites/default/files/JO/JOS_29_10_2019-64E%20ANNEE-N%C2%B026%20TER.pdf) and the [2026 national frequency allocation plan](https://arcep.tg/wp-content/uploads/2026/04/Decret-2026-037-PC-Plan-National-d-Attribution-des-bandes-de-Frequences-radioelectriques-PNAF.pdf) — while the [2025 anti-money-laundering law](https://www.togofirst.com/en/economic-governance/3012-17892-togo-adopts-new-law-to-strengthen-anti-money-laundering-rules), the [conformity-assessment decree](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) and the [government roadmap for 2026-2031](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) are each recorded as in force with no text, number or gazette reference held. The data-protection authority is [operating](https://www.togofirst.com/fr/tic/2903-16040-numerique-l-instance-de-protection-des-donnees-a-caractere-personnel-demarre-ses-activites) without the decree that would fix its organisation. Five rows here are ***Not held*** and they are the load-bearing ones: the cybersecurity statute, the identity agency's founding instrument, the spectrum-royalty amendment's text, the access-to-information statute and any open-government-data instrument.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National-languages speech and translation model project | [In development](https://www.togofirst.com/fr/culture/1407-19555-au-togo-un-projet-pour-valoriser-les-langues-nationales-via-lintelligence-artificielle) | Presented at an international summit, with four data competitions carrying US$40,000 in prizes |
 | Pan-African African-language artificial-intelligence coalition | [Implemented, launched as a coalition with no delivered model](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/) | Launched at a continental telecommunications conference, with Togo's digital ministry a founding government |
@@ -224,7 +225,7 @@ _(narrative not yet written)_
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital toolbox for very small and medium enterprises | [Implemented](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme) | Launched at Kara during the national small-enterprise week |
 | Fuel marking and traceability system | [Implemented](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/) | Launch ceremony at Lome, the obligation having applied in the regulations since 1 July 2026 |
@@ -233,38 +234,38 @@ _(narrative not yet written)_
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | TogoTech national digital start-up association | [Implemented](https://www.togofirst.com/fr/tic/2710-17412-a-lome-lancement-officiel-de-togotech-la-synergie-nationale-des-startups-du-numerique) | Officially launched at Lome under the digital minister |
 | Start-up statute or legal framework | ***Not held*** | — |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese digital or technology cooperation instrument | ***Not held*** | — |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital or technology cooperation instrument | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital or technology cooperation instrument | ***Not held*** | — |
 
 <!-- narrative: ai-tech -->
-_(narrative not yet written)_
+Artificial intelligence and the technology sector are announcements over an unmeasured base. Three artificial-intelligence positions are held — a [national-languages model project](https://www.togofirst.com/fr/culture/1407-19555-au-togo-un-projet-pour-valoriser-les-langues-nationales-via-lintelligence-artificielle), a [pan-African coalition](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/) and the ministry's laboratory — none with a released model or dataset. Industry is firmer: the [fuel marking system](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/), the [digital toolbox for smaller firms](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme) and the [national start-up association](https://www.togofirst.com/fr/tic/2710-17412-a-lome-lancement-officiel-de-togotech-la-synergie-nationale-des-startups-du-numerique) all operate. Seven rows are ***Not held***, including the digital sector's share of gross domestic product, any start-up statute, and any Chinese, Indian or Gulf cooperation instrument — so the sector has no stated size and no stated foreign partners on this record.
 <!-- /narrative -->
 
 ## Inclusion and capacity
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Community network at Ati-Akakpe | [Planned](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/gouvernance-numerique-connecter-les-zones-oubliees) | Launch announced as imminent, to connect 2,000 inhabitants |
 | Gender-disaggregated digital access measure | ***Not held*** | — |
@@ -273,7 +274,7 @@ _(narrative not yet written)_
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Full-service payment institution licence for a Togolese fintech | [Implemented](https://techcabal.com/2026/02/17/francophone-weekly-by-techcabal-012/) | Licence granted under the regional payment-institution instruction |
 | Instant international payment service | [Implemented](https://www.togofirst.com/en/finance/3110-17454-ecobank-launches-instant-international-payment-service-in-togo) | Launched with Togo as the first market |
@@ -281,33 +282,33 @@ _(narrative not yet written)_
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Youth digital-hygiene awareness campaign | [Implemented](https://www.togofirst.com/fr/formation/0311-17461-protection-des-donnees-3000-jeunes-togolais-formes-aux-bons-reflexes-numeriques) | About 3,000 young people trained at a Lome campaign in the last week of October 2025 |
 | National digital-skills or digital-literacy programme | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Corporate data-protection correspondents programme | [Implemented](https://www.togofirst.com/fr/tic/2506-19349-protection-des-donnees-l-ipdcp-forme-ses-premiers-correspondants-pour-renforcer-la-conformite-des-entreprises) | First cohort certified at Adetikope after a three-day session |
 | European support programme for the digital transformation of the economy | [Implemented](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-ACT-62421) | Commitment recorded for 2024, running to 2030 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | District and school data-use project | [Implemented](https://education.dhis2.org/gpe-kix-study-tour/) | Entered its final phase, concluding November 2026 |
 
 <!-- narrative: inclusion -->
-_(narrative not yet written)_
+Inclusion is carried by commercial services and measured by nobody. A Togolese firm holds the [most complete non-bank payment licence the central bank issues](https://techcabal.com/2026/02/17/francophone-weekly-by-techcabal-012/), [instant international payments run to more than 130 countries](https://www.togofirst.com/en/finance/3110-17454-ecobank-launches-instant-international-payment-service-in-togo), and an [operator has extended mobile money to insurance premiums, card transfers and gift cards](https://www.togofirst.com/fr/telecoms/0807-19499-mobile-money-moov-africa-togo-lance-de-nouveaux-services-pour-renforcer-sa-position). The state's own contribution is [one youth digital-hygiene campaign reaching about 3,000 people](https://www.togofirst.com/fr/formation/0311-17461-protection-des-donnees-3000-jeunes-togolais-formes-aux-bons-reflexes-numeriques) and [thirty-two certified corporate data-protection correspondents](https://www.togofirst.com/fr/tic/2506-19349-protection-des-donnees-l-ipdcp-forme-ses-premiers-correspondants-pour-renforcer-la-conformite-des-entreprises). Four rows are ***Not held***, and together they are the whole of the measurement: no gender-disaggregated access figure, no rural-urban gap, no universal service fund, no national digital-literacy programme.
 <!-- /narrative -->
 
 ## Finance
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral digital transformation programme | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202122398%22) | Commitment recorded for 2022, running to 2028 |
 | Electronic-governance support to the financial administration, first phase | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202168912%22) | Commitment recorded for 2024, running to 2028 |
@@ -320,19 +321,19 @@ _(narrative not yet written)_
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Card and merchant partnership with a global payment network | [Planned](https://techreviewafrica.com/public/news/3303/axian-group-and-mastercard-partner-to-expand-digital-financial-inclusion-across-africa) | Partnership announced, with Togo among five markets |
 | Indicative cooperation programme with Luxembourg for 2026-2031 | [Implemented](https://www.togofirst.com/en/economic-governance/1607-19578-togo-luxembourg-sign-three-agreements-on-development-and-cybersecurity) | Signed at Lome alongside two other accords |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic state appropriation to digital technology | ***Not held*** | — |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+External financing is well documented and domestic financing is not documented at all. Eight external programmes are held with commitments and identifiers, led by the [digital acceleration project at US$13,992,856 of US$100,000,000 disbursed](https://projects.worldbank.org/en/projects-operations/project-detail/P179138) and the [Luxembourg indicative programme carrying a digital component inside EUR 78,550,000](https://www.togofirst.com/en/economic-governance/1607-19578-togo-luxembourg-sign-three-agreements-on-development-and-cybersecurity), with the [good financial governance programme closing on 30 June](https://togopresse.tg/bonne-gouvernance-financiere-au-togo-apres-4-ans-dexercice-le-projet-cloture-sur-fond-de-resultats-juges-satisfaisants/). Against all of that, the domestic state appropriation to digital technology is ***Not held***: nothing in the base states what Togo spends on this from its own budget.
 <!-- /narrative -->
 
 ## Gaps to fill
@@ -380,5 +381,5 @@ _(narrative not yet written)_
 | Rural and urban connectivity gap measure | A regulator coverage or penetration series broken down by region or by rural and urban area; the base holds only a sub-Saharan regional figure and Togo's rural population share | not yet probed |
 
 <!-- narrative: gaps -->
-_(narrative not yet written)_
+Thirty-nine rows are ***Not held***, and they divide cleanly. The first group is the state's own paperwork — the cybersecurity statute and its 2022 amendments, the founding instruments of the identity and cybersecurity agencies, the decree organising the data-protection authority, the spectrum-royalty amendment's text, the access-to-information statute. Each exists by inference from a paraphrase or an announcement, and each would be settled by one gazette. The second is measurement: mobile coverage, quality-of-service results, the rural-urban gap, gender-disaggregated access, the digital sector's share of output, and any breakdown behind the incident total. The third is the harder kind — the terms of the joint venture running the national incident-response function, and the data-protection authority's authorisation for the state's own biometric processing. Those two are where the record is thinnest against what is already operating.
 <!-- /narrative -->

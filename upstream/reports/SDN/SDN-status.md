@@ -1,14 +1,15 @@
 ---
 title: Sudan — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: SDN
 ledger_rows: 45
 not_held: 13
+record: 68da5ee7a4df
 ---
 
 # Sudan: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/SDN/ledger.csv` (45 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SDN/ledger.csv` (45 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Thirteen of forty-five ledger rows are ***Not held*** — no compute capacity, s
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 4G tower expansion programme | [In development, 60 built / 200 more planned](https://spokesperson-sd.com/ar/archives/38364) | Digital ministry reports 60 4G towers built, with 200 more planned during 2026 |
 | Horizon Fiber Initiative (Djibouti-Ethiopia-Sudan corridor) | [In development, binding agreement signed](https://techafricanews.com/2026/02/04/ethio-telecom-djibouti-telecom-and-sudatel-seal-horizon-fiber-cross-border-connectivity-deal/) | Tripartite binding agreement signed in Djibouti, converting the Dec-2024 MoU |
@@ -34,26 +35,26 @@ Thirteen of forty-five ledger rows are ***Not held*** — no compute capacity, s
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Khartoum State data centre (1,300 m2) | [Implemented](https://maasader.com/إستعادة-وتشغيل-مركز-بيانات-الدولة-في-الخرطوم) | Restored and operational after technical rehabilitation; equipped for cloud computing, data security and AI-application hosting |
 | Port Sudan alternate National Data Centre | [Planned](https://spokesperson-sd.com/ar/archives/38364) | Announced as one of the digital ministry's future projects |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National policy linking digital infrastructure to energy supply | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Compute or high-performance computing capacity | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Draft Cybersecurity Law | [Under review](https://sudantribune.net/article/317108) | Council of Ministers sent the draft back for further study, alongside the draft Data and AI Law and draft Digital Transformation Law 2026 |
 | Sudanese Cybersecurity Authority | [Implemented](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Established by PM decree alongside the Digital Transformation Authority and the Sudanese Data and AI Authority |
@@ -68,20 +69,20 @@ The [Khartoum State data centre was restored and returned to operation in Octobe
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ASYCUDA customs system (Gezira/Hantoub) | [Implemented, single-site reactivation](https://www.suna.sd/posts/aaaad-tshghyl-ntham-alasykoda-balhthyr-algmrky-bgmark-olay-algzyr-astaadada-lantlak-alaaml-algmrky) | Reactivated at Hantoub customs yard after war looting/damage, ahead of resuming formal customs operations |
 | Electronic single window (National Investment Authority) | [Planned, precondition-stage](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) | Authority says the window will operate electronically only once all investment-related entities are linked electronically; no list, sequence or date given |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | SUDAPASS (national digital identity) | [Implemented](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy) | Launched live; activates via passport/national-number + face biometrics; enables e-services, e-transactions and digital signatures |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Al-Asjad payment-switch licence | [Discontinued, licence revoked](https://sudantribune.net/article/315827) | Central Bank revoked the licence days after the platform's launch; no specific breach disclosed |
 | Bankak (Bank of Khartoum mobile money) | [Implemented, dominant by default](https://voxdev.org/topic/institutions-political-economy/rebuilding-sudans-digital-infrastructure-amidst-conflict) | Reported as dominant retail-settlement rail in Khartoum markets, driven by cash scarcity and currency collapse, not technology uptake |
@@ -92,34 +93,34 @@ The [Khartoum State data centre was restored and returned to operation in Octobe
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Unified Social Registry | [In development](https://www.suna.sd/posts/lkaaa-ozary-yaazz-althol-alrkmy-oaslah-alkhdm-almdny-nho-dol-mossat-hdyth) | Ministers reviewed progress on a foundational social-protection targeting database |
 | Vehicle registration database (traffic police) | [Implemented, recovering](https://sudantribune.net/article/316412) | Restored register: 2,124,750 registered vehicles, 3,161,599 driving licences; backup data centres built inside the states and abroad |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Afia (health-sector platform) | [Planned, referenced not confirmed live](https://suna.sd/posts/ofd-ozar-alsh-oalsh-alaaalmy-ybhthan-maa-ozar-alatsalat-kht-althol-alrkmy-fy-alktaaa-alshy) | Digital ministry, Health Ministry and WHO met to set a comprehensive health-digital strategy; Afia referenced, WHO urging acceleration |
 | Bayan (national civil-service HR platform) | [Implemented](https://www.sudanakhbar.com/1822457) | Launched as an integrated national HR database for every public employee's record, held by the Civil Service Diwan |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Baladna (national e-government platform) | [Implemented, expanding](https://spokesperson-sd.com/ar/archives/38364) | Adopted as the sole national platform for all foreign-trade transactions, permits issuable from any location |
 | Judiciary digital-transformation project | [Planned, contract signed](https://alwatannewssd.com/88831/) | Judicial Authority signed a contract with the National Technical Company, financed by the finance ministry, vetted by the justice ministry's contracts department |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Dedicated rural digital-service programme | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Earth-observation or satellite-data programme | ***Not held*** | — |
 
@@ -133,38 +134,38 @@ Payments carry the sharpest contrast between restoration and new build. [Bankak 
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Border-trade legal framework (state-level protocols) | [Under review](https://sudantribune.net/article/317080) | Meeting chaired by the finance minister resolved to review state-to-neighbouring-country trade protocols and refer them to the Council of Ministers, to build a single national legal framework in their place |
 | Draft Digital Transformation Law of 2026 | [Under review](https://sudantribune.net/article/317108) | Same Council of Ministers review; sent back for further study |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Transformation Authority | [Implemented](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Established by PM decree, alongside the Sudanese Data and AI Authority and the Sudanese Cybersecurity Authority |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National technical standards or interoperability framework | ***Not held*** | — |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Draft Data and Artificial Intelligence Law | [Under review](https://sudantribune.net/article/317108) | Council of Ministers reviewed the draft (paired with drafts on cybersecurity and digital transformation) and sent all three back for further study; enactment route is a joint sitting of the Sovereignty Council and Council of Ministers |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation with Sudan | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data portal | ***Not held*** | — |
 
@@ -178,43 +179,43 @@ A separate finance-ministry-chaired meeting on 5 August resolved to review state
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Sudanese Data and Artificial Intelligence Authority | [Implemented](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Established by decree, ahead of any primary data-protection law |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Sudani and Sudatel wartime service continuity | [Implemented, self-reported resilience](https://www.suna.sd/posts/ozyr-alatsalat-oalthol-alrkmy-yshyd-baldor-almhory-lshrk-sodany-fy-daam-msyr-althol-alrkmy) | Digital-transformation minister praised operators Sudani and Sudatel at a Port Sudan business-digital event for keeping services running through the war |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Start-up or innovation-sector support programme | ***Not held*** | — |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States digital-sector engagement with Sudan | ***Not held*** | — |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese digital investment in Sudan | ***Not held*** | — |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital-sector engagement with Sudan | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Network International-Saudi Sudanese Bank processing agreement | [Implemented](https://techafricanews.com/2026/01/19/network-international-partners-with-saudi-sudanese-bank-to-advance-digital-payments-in-sudan/) | Dubai-based Network International signed a strategic processing agreement for Mastercard-sponsored digital-payment processing, formalised at Cairo ICT 2025 |
 
@@ -226,19 +227,19 @@ The Sudanese Data and Artificial Intelligence Authority was established by the s
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital-literacy programme or measurement | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | MTN Sudan Al-Manssa digital-skills programme | [Implemented, single cohort, unrefreshed](https://techafricanews.com/2025/08/18/mtn-sudan-expands-digital-empowerment-drive-with-al-manssa/) | Launched workshops in digital media and online marketing for content creators |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Applied digital-research programme | ***Not held*** | — |
 
@@ -250,13 +251,13 @@ The only capacity-building instrument on record is [MTN Sudan's Al-Manssa progra
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Khartoum Stock Exchange online-trading system (AfDB PFM project) | [Implemented, historical baseline, unrefreshed since 2016](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/) | Online trading launched on the Khartoum Stock Exchange, financed by the African Development Bank (reported US$34.8m) under its Public Financial and Macroeconomic Management project |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Treasury Single Account (TSA) implementation | [In development, commitment reaffirmed](https://sudantribune.net/article/316950) | State minister of finance reaffirmed commitment to implementing the TSA system, at the African Summit for Social Impact (Abuja) |
 

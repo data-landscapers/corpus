@@ -1,14 +1,15 @@
 ---
 title: Equatorial Guinea — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: GNQ
 ledger_rows: 61
 not_held: 6
+record: 487ea292fd78
 ---
 
 # Equatorial Guinea: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/GNQ/ledger.csv` (61 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/GNQ/ledger.csv` (61 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ A single figure gives the scale of the delivery problem. GITGE's own study of th
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ACE submarine cable landing | [Implemented](https://realequatorialguinea.com/tecnologia/gitge-anfitrion-del-36o-encuentro-del-consorcio-ace-sobre-operacion-y-mantenimiento-de-cable-submarino/) | GITGE hosted the 36th ACE operation and maintenance committee, May 2026 |
 | Ceiba-1 and Ceiba-2 submarine cables | [Implemented](https://afr-ix.com/equatorial-guinea-and-cameroon-are-now-more-connected/) | Ceiba-2 inaugurated in 2018, 400 km on the Malabo-Bata-Kribi route |
@@ -41,27 +42,27 @@ A single figure gives the scale of the delivery problem. GITGE's own study of th
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government primary and backup data centres | [In development](https://realequatorialguinea.com/economia/el-proyecto-de-apoyo-a-la-modernizacion-de-las-finanzas-publicas-lanza-una-licitacion-para-equipar-centros-de-datos-en-malabo-y-bata/) | PAMFP tender published for a Malabo primary and a Bata backup centre, June 2026 |
 | ZEEDE-GE digital economic zone at Djibloho | [Planned](https://realequatorialguinea.com/destacado/politica/telecomunicaciones-evalua-la-creacion-de-una-zona-economica-exclusiva-digital-en-djibloho/) | Creation under evaluation by the telecommunications ministry, March 2026 |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | SEGESA grid fibre-optic modernisation proposal | [Planned](https://www.guineaecuatorialpress.com/noticias/segesa_desea_modernizar_su_sistema_electrico_con_la_implementacion_de_la_fibra_optica) | Presented to the Vice-President's cabinet at Jefatura del Estado, Malabo, 21 May 2026 |
 | Power supply to network sites and data centres | ***Not held*** | — |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data centre capacity in service | [Implemented](https://gitge.com/wp-content/uploads/2025/07/PRESENTACION-6.pdf) | Technical facilities described in GITGE's own factsheet, content dated internally to 2016-2017 despite a 2025-07 upload path |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Cybersecurity and Critical Infrastructure Agency (ANCIC) | [Planned](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/) | Created by Ley 7/2024; nothing on record establishing that it operates |
 
@@ -79,21 +80,21 @@ New hosting capacity is prospective: the public-finance modernisation project [t
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | I-CEMAC border screening connection | [Implemented](https://www.interpol.int/en/How-we-work/Border-management/Projects/Project-I-CEMAC) | INTERPOL I-24/7 extended to ten sites including Malabo, Bata and Mongomeyen airports |
 | National interoperability framework | [Planned](https://www.worldbank.org/en/country/equatorialguinea/publication/equatorial-guinea-digital-economy-country-diagnostic-bridging-the-gaps-to-develop-a-safe-and-inclusive-digital-transform) | Named as absent by the World Bank digital economy diagnostic |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital identity ecosystem | [Planned](https://www.worldbank.org/en/country/equatorialguinea/publication/equatorial-guinea-digital-economy-country-diagnostic-bridging-the-gaps-to-develop-a-safe-and-inclusive-digital-transform) | Recommended by the World Bank digital economy diagnostic; no digital ID in place |
 | DIP biometric identity document | [Implemented](https://www.guineaecuatorialpress.com/noticias/el_gobierno_quiere_implementar_un_mecanismo_riguroso_de_control_para_la_adquisicion_del_certificado_literal) | National DIP tour reported 7,670 dossiers obtained and 7,275 processed |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BANGE MOBILE GE | [Implemented](https://realequatorialguinea.com/economia/bange-lanza-bange-mobile-ge-la-nueva-app-que-facilita-pagos-y-servicios-financieros-en-guinea-ecuatorial/) | Launched February 2026 with G-MAT Pay and a Visa prepaid card |
 | Getesa Money | [Implemented](https://realequatorialguinea.com/destacado/politica/getesa-planea-su-modernizacion-5g-y-wi-fi-publico-en-todo-el-territorio-de-guinea-ecuatorial/) | Named in GETESA's modernisation plan, May 2026 |
@@ -102,19 +103,19 @@ New hosting capacity is prospective: the public-finance modernisation project [t
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil registry and vital statistics | [In development](https://realequatorialguinea.com/destacado/politica/guinea-ecuatorial-acogera-la-reunion-africana-sobre-registro-civil-y-estadisticas-vitales/) | Hosted the African CRVS meeting at Sipopo, June 2025 |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | DHIS2 electronic logistics system for malaria commodities | [Implemented](https://dhis2.org/equatorial-guinea-malaria-lmis/) | Deployed on Bioko Island under the BIMEP |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CNEDOGE document issuance service | [Implemented](https://ahoraeg.com/sociedad/2026/06/12/cnedoge-inaugura-nuevas-oficinas-en-mongomo-y-ciudad-de-la-paz-para-acercar-los-servicios-documentales-a-la-ciudadania/) | Two provincial offices opened with online appointment booking, 12 June 2026 |
 | Patente Tributaria Unica digital filing | [Implemented](https://realequatorialguinea.com/destacado/politica/el-gobierno-de-guinea-ecuatorial-avanza-en-digitalizacion-de-la-patente-tributaria-unica-anual/) | Annual tax licence moved online, January 2026 |
@@ -124,13 +125,13 @@ New hosting capacity is prospective: the public-finance modernisation project [t
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Municipal or district digital services | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fifth population census and first agricultural census | [In development](https://ahoraeg.com/politica/2026/07/28/el-inege-inicia-el-taller-de-validacion-de-los-documentos-estrategicos-del-v-censo-de-poblacion-y-viviendas-y-el-i-censo-general-agropecuario/) | Validation workshop on the project document, 27-29 July 2026 |
 
@@ -148,7 +149,7 @@ The [fifth population census and a first agricultural census](https://ahoraeg.co
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ley 7/2024 on social media and computer crime | [Implemented](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/) | Enacted 23 December 2024 |
 | Reform of Ley 7/2005 General de Telecomunicaciones | [In development](https://ahoraeg.com/tecnologia/2025/06/04/telecomunicaciones-busca-un-gabinete-especializado-para-liderar-los-trabajos-de-reforma-integral-de-la-ley-de-telecomunicaciones/) | International tender opened for a firm to draft a new law, June 2025 |
@@ -156,7 +157,7 @@ The [fifth population census and a first agricultural census](https://ahoraeg.co
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ADIGE digital agenda | [In development](https://www.worldbank.org/en/country/equatorialguinea/publication/equatorial-guinea-digital-economy-country-diagnostic-bridging-the-gaps-to-develop-a-safe-and-inclusive-digital-transform) | The digital agenda the World Bank diagnostic assesses against |
 | Consolidated July-December 2026 action plan | [Planned](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes) | Adopted by the second extraordinary directive council, 31 July 2026, and not yet financed |
@@ -167,26 +168,26 @@ The [fifth population census and a first agricultural census](https://ahoraeg.co
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Lusophone Africa data governance process | [In development](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda) | Second Lusophone Africa Data Governance Workshop, Luanda, 15-17 June 2026 |
 | Malabo Convention on Cyber Security and Personal Data Protection | [In development, signed not ratified](https://www.linkedin.com/posts/au-infrastructure-and-energy_equatorial-guinea-signs-the-malabo-convention-activity-7488275982521565184-ETtI) | Signed at Addis Ababa, 28 July 2026 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Published quality-of-service or interoperability standards | [Implemented](https://ortelge.com/legislacion/reglamentos/) | OM Num. 4/2018 gazetted 22 August 2018, confirmed via ORTEL's own legislacion index |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data protection law and supervisory authority | [Enacted, no supervisory authority constituted](https://blog.africadataprotection.org/wp-content/uploads/2024/10/Guinee-equatoriale-ley-1-2.016-de-proteccion-de-datos.pdf) | Gazetted 22 July 2016, in force twenty days later |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EITI reporting | [In development](https://realequatorialguinea.com/sociedad/inicia-en-malabo-el-taller-para-la-recopilacion-de-datos-del-informe-eiti-guinea-ecuatorial-2024/) | Data collection for the 2024 report opened at Malabo, 30 July 2026 |
 | National open data portal | ***Not held*** | — |
@@ -205,7 +206,7 @@ Open data amounts to one process. [EITI data collection for the 2024 report](htt
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Director-General for Artificial Intelligence | [Implemented](https://www.undp.org/es/equatorial-guinea/noticias/guinea-ecuatorial-da-un-paso-firme-hacia-la-transformacion-digital-del-sector-publico) | In post within the transport and telecommunications ministry |
 | National artificial intelligence strategy or policy | [In development](https://realequatorialguinea.com/tecnologia/guinea-ecuatorial-da-los-primeros-pasos-para-disponer-de-una-ley-de-inteligencia-artificial/) | Anteproyecto drafting session addressed splitting ANIAD's functions, 27 August 2025 |
@@ -213,14 +214,14 @@ Open data amounts to one process. [EITI data collection for the 2024 report](htt
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AVANTE digital transformation forum | [Implemented](https://equacom.news/2026/07/23/avante-impulsa-el-debate-sobre-la-transformacion-digital-para-acelerar-la-diversificacion-economica-de-guinea-ecuatorial/) | Convened at the Hotel Anda China, Malabo, 22 July 2026 |
 | GITGE, the state telecoms infrastructure operator | [Implemented](https://realequatorialguinea.com/tecnologia/gitge-inicia-una-nueva-etapa-con-salvador-nguema-funtam-al-frente-oscar-ha-dejado-el-liston-bastante-alto/) | Handover to a new director-general and deputy, 7 August 2026 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | China technology cooperation roadmap | [Implemented](https://ahoraeg.com/politica/2025/06/17/china-se-compromete-a-apoyar-a-guinea-ecuatorial-en-su-desarrollo-tecnologico/) | Roadmap to make the country a Central African technology hub |
 
@@ -236,26 +237,26 @@ A [China cooperation roadmap](https://ahoraeg.com/politica/2025/06/17/china-se-c
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Measured gap between Bioko and the mainland | ***Not held*** | — |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital literacy programme or measurement | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | INSTTIC training with Chinese universities | [Implemented](https://ahoraeg.com/politica/2025/06/17/china-se-compromete-a-apoyar-a-guinea-ecuatorial-en-su-desarrollo-tecnologico/) | More than 200 students under the China cooperation roadmap |
 | UNDP Digital Fitness programme | [Implemented](https://www.undp.org/es/equatorial-guinea/noticias/guinea-ecuatorial-da-un-paso-firme-hacia-la-transformacion-digital-del-sector-publico) | Multisectoral officials trained in digital transformation and cybersecurity, August 2025 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Research on public-administration data systems | [Implemented](https://equacom.news/2026/07/23/avante-impulsa-el-debate-sobre-la-transformacion-digital-para-acelerar-la-diversificacion-economica-de-guinea-ecuatorial/) | Doctoral findings on big data, interoperability and digital identity presented at the AVANTE forum |
 
@@ -271,7 +272,7 @@ Access is measured only by a reference study, cited and not absorbed here: [Data
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | China Development Bank loan for the Video Surveillance Project | [Implemented](https://minhacienda-gob.com/wp-content/uploads/2020/02/LF-2020.pdf) | US$70.3m loan for the Video Surveillance Project |
 | China Eximbank credit for the CEIBA-2 cable | [Implemented](https://www.pdge-guineaecuatorial.com/la-pareja-presidencial-asiste-a-la-inauguracion-del-cable-de-fibra-optica-ceiba-2/) | US$402m buyer's credit for the CEIBA-2 submarine cable |

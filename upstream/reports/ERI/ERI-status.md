@@ -1,14 +1,15 @@
 ---
 title: Eritrea — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: ERI
 ledger_rows: 11
 not_held: 4
+record: 637e070f11de
 ---
 
 # Eritrea: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/ERI/ledger.csv` (11 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ERI/ledger.csv` (11 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -22,7 +23,7 @@ Eritrea's digitally-tracked state consists of a small number of discrete project
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EriTel national network expansion programme | [Implemented, ongoing expansion](https://shabait.com/2026/05/19/substantial-investment-in-expansion-of-communication-service/) | Minister reports 184 towers installed, ~90% geographic mobile coverage, service 'reaching 4G level' (government claim) |
 | Starlink satellite internet service | ***Not held*** | Starlink's own coverage-availability map lists Eritrea 'No planned launch date' |
@@ -36,25 +37,25 @@ Eritrea's international connectivity runs entirely on satellite. The country hol
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ASYCUDA World customs platform | [Implemented](https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system) | Inaugurated 2026-01-08, replacing 2007-era customs software |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National foundational digital ID | ***Not held, profiled 2025-07-26*** | Global Digital Identity Index profile finds no operational foundational ID; sets out the barriers a future system would face |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mobile money / digital payments service | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fourth Round Eritrea Population and Health Survey (EPHS 2025) | [Implemented, completed; report pending 2026](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey) | NSO reports survey completion: 9,794 households, 405 enumeration areas, 98.4% household completion, CAPI digital collection |
 
@@ -66,13 +67,13 @@ The clearest concrete step in the period is the [January 2026 launch of ASYCUDA 
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bank of Eritrea cash-deposit legal notice | [Enacted, deposit deadline 2026-07-31](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/) | Legal notice issued (~30 Jun 2026) ordering cash held outside banks deposited by 31 Jul 2026 or face legal action |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-protection law | ***Not held*** | — |
 
@@ -84,7 +85,7 @@ The one governance development on record is a [Bank of Eritrea legal notice](htt
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Eri-Chat offline AI app | [Implemented](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/) | Q&A profile of developer Naod Goitom Isaac; app launched April 2025, showcased at Asmara UN Day event, Oct 2025 |
 
@@ -104,7 +105,7 @@ No dedicated inclusion or capacity-building instrument is held for Eritrea. The 
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | UNDP 'Economic & Social Data Development Eritrea' grant (IATI 00099544) | [In development, active (per IATI record)](https://open.undp.org/projects/00099544) | UNDP commits US$1,676,837 grant to the Government of Eritrea / National Statistics Office |
 

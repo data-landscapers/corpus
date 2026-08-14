@@ -1,14 +1,15 @@
 ---
 title: South Africa — digital transformation and data governance status report
-compiled: 2026-08-13
+compiled: 2026-08-14
 place: ZAF
-ledger_rows: 92
-not_held: 11
+ledger_rows: 95
+not_held: 19
+record: 99b11252827e
 ---
 
 # South Africa: status report
 
-*Compiled 2026-08-13 from the Data Landscapers source base, from `outputs/reports/ZAF/ledger.csv` (92 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ZAF/ledger.csv` (95 systems and instruments, 19 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -24,13 +25,13 @@ Operation Vulindlela's first-quarter report for 2026/27 states that reform progr
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
+| Cape Town internet exchange (CINX) | [Implemented](https://tech.africa/cinx-oadc-cape-town-expansion/) | Two further data-centre sites live, 3 August 2026 |
 | Draft Radio Frequency Spectrum and Fees Regulations amendments | [In development](https://www.icasa.org.za/news/2026/icasa-to-hold-public-hearings-on-draft-amendments-to-radio-frequency-spectrum-regulations-and-fees-regulations) | Public hearings 2026-08-19/20 |
 | Equinix Cape Town land use | [Implemented](https://www.moneyweb.co.za/news/ai/giant-data-centres-get-the-first-green-light-from-cape-town-tribunal/) | Tribunal approval 2026-07-14 |
-| High-demand spectrum auction | Planned | No date; R51m appropriated |
+| High-demand spectrum auction | [Planned](https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/) | Release quantified by the 2026 National Radio Frequency Plan |
 | IMT Roadmap 2026 and draft assignment plans | [In development](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2) | Consultation opened 2026-07-24 |
-| Innovation spectrum, lower 6GHz | Implemented | Gazetted 2026-05-22 |
 | LEO satellite licensing framework | [Planned](https://pmg.org.za/committee-question/39540/) | Policy direction rejected 2026-05 |
 | National broadband map (DBSA) | [Implemented, not public](https://techcentral.co.za/sa-finally-has-a-broadband-map-and-it-reveals-where-the-gaps-are/279660/) | 2026-03 |
 | National CSIRT (Cybersecurity Hub) | [Implemented](https://www.cybersecurityhub.gov.za/incident-management-process) | Since 2015 |
@@ -41,28 +42,29 @@ Operation Vulindlela's first-quarter report for 2026/27 states that reform progr
 | Satellite market entry via section 13 | [Implemented](https://www.dailymaverick.co.za/article/2026-07-15-herotel-chosen-as-amazon-leo-distributor-in-maziv-race-for-satellite-internet/) | Amazon Leo–Herotel, 2026-07-15 |
 | State Digital Infrastructure Company (network merger) | [Planned](https://techcentral.co.za/state-broadband-merger-limps-into-a-second-decade/280723/) | Deferred to 2028/29 |
 | Data-centre incentive instrument (SEZ, depreciation, grid priority) | ***Not held*** | Signalled 2026-02 |
+| Innovation spectrum, lower 6GHz | ***Not held*** | Gazetted 2026-05-22 |
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Teraco CT2, Cape Town | [Implemented](https://techafricanews.com/2025/11/10/teraco-expands-cape-town-ct2-data-centre-to-50mw-boosting-africas-hyperscale-capacity/) | +32MW to 50MW, 2025-11 |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Integrated Cyber Infrastructure System | [Implemented](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system) | At maximum capacity, 2026-08-05 |
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic Communications Amendment Bill | [In development](https://www.apc.org/en/news/how-community-connectivity-pioneers-are-changing-south-africas-digital-policy-and-regulation) | Submissions close 2026-08-21 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Draft National Policy on Data and Cloud | [Planned](https://www.cambridge.org/core/books/digital-sovereignty-in-the-brics-countries/south-african-digital-sovereignty-at-the-crossroad-of-securitization-and-development/08C1119DE09286B84626FA49F6AD0586) | Draft of 2021, unresolved |
 
@@ -78,7 +80,7 @@ The national CSIRT is the Cybersecurity Hub, set up in 2015 under the National C
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | MzansiXchange data exchange | [Piloting](https://www.sanews.gov.za/south-africa/government-launches-mzansixchange-improve-evidence-based-policy) | Nine months in, 2026-07 |
 | SAHPRA VigiFlow serious-adverse-event e-reporting pilot | [Piloting](https://www.sahpra.org.za/document/pilot-project-for-electronic-reporting-of-serious-adverse-events-e-reporting-for-industry-vigiflow-module/) | Communication to industry CT02-2026/27, 2026-08-03 |
@@ -86,7 +88,7 @@ The national CSIRT is the Cybersecurity Hub, set up in 2015 under the National C
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital driving licence | [In development](https://techpoint.africa/insight/techpoint-digest-1253/) | Nearest dated milestone 2027-03 |
 | Draft Identification Regulations amendments | [In development](https://www.biometricupdate.com/202605/south-africa-gazettes-digital-id-draft-regulation-seeks-comments) | Consultation closed 2026-06 |
@@ -95,7 +97,7 @@ The national CSIRT is the Cybersecurity Hub, set up in 2015 under the National C
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Capitec-Walletdoc merger conditions | [Planned, before the Competition Tribunal](https://www.itweb.co.za/article/compcom-approves-capitecs-walletdoc-acquisition/Olx4z7kaoeyq56km) | Commission recommended approval 2026-08-06 |
 | CIPS participation (Standard Bank) | [Implemented](https://www.cips.com.cn/en/2025-05/12/article_2025051209014593030.html) | Went live and inaugurated at the SARB 2025-11-20 |
@@ -106,43 +108,43 @@ The national CSIRT is the Cybersecurity Hub, set up in 2015 under the National C
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Intelligent Population Register | [In development](https://www.sanews.gov.za/south-africa/sa-unveils-biometric-population-register-tighten-migration-controls) | Announced 2026-06 |
 | National Population Register | [Implemented](https://www.timeslive.co.za/news/south-africa/2026-07-29-court-rules-birth-registration-exclusions-unconstitutional/) | Operating; no current statement held |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Digital Health Strategy 2019-2024 | [Discontinued, term expired 2024](https://knowledgehub.health.gov.za/system/files/elibdownloads/2023-04/national-digital-strategy-for-south-africa-2019-2024-b.pdf) | Term expired 2024; no successor held |
 | NSFAS student funding system | [Implemented, under administration](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m) | Stabilisation plan submitted 2026-08-07 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Batho Pele AI chatbot | [Implemented](https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/) | Launched 2026-07-31 |
 | Digital matric certificate | [Piloting](https://www.itweb.co.za/article/govt-targets-production-ready-mymzansi-platform/GxwQD71DPpgvlPVo) | Integration due 2026-09 |
-| District Health Information System | Implemented | Hosting out to tender 2026-07 |
 | Gauteng online school admissions | [Implemented](https://www.itweb.co.za/article/gp-education-switches-on-2027-online-admissions/LPwQ5MlbeWpvNgkj) | 2027 intake opened 2026-08-05 |
 | IEC digital voter registration (WhatsApp and online portal) | [Implemented](https://techcabal.com/2026/08/07/south-africa-whatsapp-voter-registration/) | WhatsApp channel launched 2026-08-04 |
 | Minimum Interoperability Standards and GWEA | [In development](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf) | Update due 2026-09 |
 | MyMzansi single citizen application | [Piloting](https://www.itweb.co.za/article/govt-targets-production-ready-mymzansi-platform/GxwQD71DPpgvlPVo) | Stable platform due 2026-09 |
 | National Health Insurance information architecture | [Implemented](https://www.health.gov.za/wp-content/uploads/2022/10/HNSF_Gazette_21_October_2022.pdf) | Gazetted as the 2021 HNSF, GN 2667, 2022-10-21 |
 | National payment code standard (QR+) | [Implemented](https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a) | v1.2, eight-bank cohort, 2026-07 |
-| Non-bank payment service provider licensing | Planned | NPS Act amendment pending |
-| Online Verification Service | Implemented | Fee under review litigation |
+| Online Verification Service | [Implemented](https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost) | Fee under review litigation |
 | PayShap | [Implemented](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/) | Standard gazetted 2026-07 |
-| SAMOS real-time gross settlement | Implemented | Since 1998 |
 | Smart ID and bank-branch channel | [Implemented](https://www.sanews.gov.za/south-africa/home-affairs-announces-absa-joining-banking-sector-provide-smart-ids) | 372 branches, 2026-08-05 |
 | Western Cape Infrastructure Virtual Platform (EVE AI agent) | [Implemented](https://www.westerncape.gov.za/infrastructure/article/inaugural-western-cape-infrastructure-ministerial-roundtable-rousing-success) | Launched at inaugural Infrastructure Ministerial Roundtable, 2026-07-30 |
+| District Health Information System | ***Not held*** | Hosting out to tender 2026-07 |
 | Education management information systems | ***Not held*** | — |
 | Electronic death registration system | ***Not held*** | — |
+| Non-bank payment service provider licensing | ***Not held*** | NPS Act amendment pending |
+| SAMOS real-time gross settlement | ***Not held*** | Since 1998 |
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Identification and Registration Bill | [In development](https://www.polity.org.za/article/opinion-south-africas-digital-identity-regulations-a-governance-crossroads-2026-05-29) | Before Parliament |
 
@@ -160,40 +162,41 @@ PayShap had recorded 905m transactions by 2026-05, and the Reserve Bank holds [5
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Transformation of Government Roadmap | [Implemented](https://www.gcis.gov.za/newsroom/media-releases/statement-cabinet-meeting-26-march-2025) | Adopted 2025-03-26 |
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Capital Flow Management Regulations and Crypto Asset Manual | [In development](https://www.itweb.co.za/article/treasury-is-treating-crypto-like-banknotes/G98YdqLGNWQMX2PD) | Manual comments close end-September 2026 |
 | Copyright Amendment Bill | [In development](https://sajim.co.za/index.php/sajim/article/view/2112) | Returned to Parliament 2026-06 |
-| Cybercrimes Act | Implemented | In force since 2021 |
 | End-user and Subscriber Service Charter Amendment Regulations | [Enacted, in force 2027-01-23](https://www.icasa.org.za/uploads/files/End-user-and-subscriber-Service-Charter-Amendment-Regulations-2025.pdf) | Under review litigation |
-| National Open Science Policy | Implemented | No commencement date stated |
+| National Open Science Policy | [Implemented](https://assafopenscience.co.za/wp-content/uploads/2026/03/Final-South-African-Open-Science-Policy-2026.pdf) | No commencement date stated |
 | SADC real-time settlement | [Implemented](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Kwanza added 2026-07-27 |
 | AfCFTA Digital Trade Protocol domestication | ***Not held*** | — |
 | Cross-border transfer adequacy determinations | ***Not held*** | — |
+| Cybercrimes Act | ***Not held*** | In force since 2021 |
 | Malabo Convention ratification position | ***Not held*** | — |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cost to Communicate Roadmap | [Planned](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/) | Market analysis study put out to tender, reported 2026-08-01 |
+| ICT indicators and scenario-modelling system to 2050 | [Planned](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD) | Put out to tender, 11 August 2026 |
 | Operation Vulindlela Phase II | [Implemented](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf) | Quarterly reporting |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ICT and Media Regulators Forum | [Implemented](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko) | Launched 2024 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Consumer Protection Act direct-marketing opt-out registry | [In development](https://www.polity.org.za/article/do-not-call-me-ill-call-you-south-africas-2026-cpa-amendment-regulations-operationalising-the-national-optout-regime-for-direct-marketing-and-shifting-daytoday-antispam-responsibility-to-the-national-consumer-commission-2026-04-20) | Regulations 2026-04 |
 | Mandatory breach reporting e-portal | [Implemented](https://www.insideprivacy.com/data-security/data-breaches/south-africa-introduces-mandatory-e-portal-reporting-for-data-breaches/) | 2025-04 |
@@ -211,35 +214,36 @@ On price, the department put a market analysis study [out to tender](https://www
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Conduct of Financial Institutions Bill | [In development](https://itweb.africa/article/2026-fintech-year-ahead/4r1ly7R9j3nvpmda) | Before Parliament |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI policy | [In development](https://techcentral.co.za/radical-rethink-for-south-africas-national-ai-policy/284284/) | Cabinet targeted 2026-11 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI-in-finance regulatory framework | [Planned](https://itweb.africa/article/2026-fintech-year-ahead/4r1ly7R9j3nvpmda) | Expected 2026 |
-| Crypto-asset service provider licensing | [Implemented](https://itweb.africa/article/2026-fintech-year-ahead/4r1ly7R9j3nvpmda) | 310 licences by 2026-03-31 |
+| Crypto-asset service provider licensing | [Implemented](https://www.itweb.co.za/article/sas-crypto-rules-hit-decentralised-finance-wall/KA3Ww7dzpmnqrydZ) | Regulator states the licensing model does not reach decentralised finance, 11 August 2026 |
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
-| Expert review panel | Implemented | 14 members appointed 2026-05-14 |
+| Machine-learning screening of travellers for fraud | [Planned](https://techcabal.com/2026/08/11/south-africa-machine-learning-border-checks/) | Stated intention reported, 11 August 2026 |
 | Proposed AI regulatory institutions | [Planned, under reconsideration](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko) | 2026-07 |
-| Prudential Authority AI and cloud supervision standards | In development | 2026-07 |
 | SAHPRA AI/ML medical-device requirements | [Implemented, registration not commenced](https://www.sahpra.org.za/wp-content/uploads/2025/09/MD08-20252026_-SAHPRA-Communication-to-Industry-AI-Medical-devices_Acknowledgements.pdf) | Issued 2025-09-26 |
 | SARS Modernisation 3.0 | [In development](https://www.pwc.co.za/en/assets/pdf/ten-insights-into-4ir-2026.pdf) | Programme announced 2026-04 |
-| Sector-level AI strategies | Planned | Per redraft approach |
 | AI incident or assurance register | ***Not held*** | — |
+| Expert review panel | ***Not held*** | 14 members appointed 2026-05-14 |
+| Prudential Authority AI and cloud supervision standards | ***Not held*** | 2026-07 |
 | Rules governing state automated decision-making | ***Not held*** | — |
+| Sector-level AI strategies | ***Not held*** | Per redraft approach |
 
 <!-- narrative: ai-tech -->
 The minister reported that the electronic travel authorisation had [processed 203,000 applications and rejected more than 5,700](https://www.gov.za/news/speeches/minister-leon-schreiber-xpatweb-annual-global-mobility-conference-21-jul-2026) by 2026-07-21, with approximately [85% assessed automatically](https://www.sundaytimes.timeslive.co.za/news/2026-07-28-home-affairs-to-expand-digital-visa-system-after-blocking-5500-travellers/); the department publishes no statistical series, and no appeal route, accuracy rate or human-review threshold. The Labour Court [stayed disciplinary proceedings](https://www.itweb.co.za/article/ai-hallucinations-strike-again-at-sa-courts/Pero3qZ31oGvQb6m) in July 2026 on prima facie evidence that a ruling relied on non-existent authorities.
@@ -253,7 +257,7 @@ In [PwC research](https://www.pwc.co.za/en/assets/pdf/ten-insights-into-4ir-2026
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bank-account means test across eight grants | [Implemented, under appeal](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/) | SCA hearing 2026-08-25 |
 | MICT SETA | [Implemented, under governance review](https://www.itweb.co.za/article/mict-seta-governance-concerns-referred-to-skills-authority/WnxpE74YZZdMV8XL) | Referred 2026-07 |
@@ -266,7 +270,7 @@ In [PwC research](https://www.pwc.co.za/en/assets/pdf/ten-insights-into-4ir-2026
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Competency Framework | [In development](https://pmg.org.za/committee-question/39587/) | 2026-07 |
 | National Digital and Future Skills Strategy 2020 | [Under review](https://pmg.org.za/committee-question/39587/) | 2026-07 |
@@ -300,6 +304,15 @@ The base holds no dedicated non-state finance rows for South Africa. Across 56 n
 | Digital inclusion strategy instrument | — | not yet probed |
 | National digital literacy measurement | — | not yet probed |
 | Municipal ICT expenditure data | — | not yet probed |
+| Innovation spectrum, lower 6GHz | The gazette notice releasing lower-6 GHz innovation spectrum, or an ICASA decision or licence record naming it. | 2026-08-14 |
+| District Health Information System | A National Department of Health statement, annual report or tender record for the District Health Information System, including the hosting arrangement put out to tender in 2026-07. | 2026-08-14 |
+| Non-bank payment service provider licensing | The National Payment System Act amendment bill or a SARB directive establishing a licensing regime for non-bank payment service providers. | 2026-08-14 |
+| SAMOS real-time gross settlement | A South African Reserve Bank statement, annual report or system document on SAMOS, which the base carries no source for at any date. | 2026-08-14 |
+| Cybercrimes Act | The gazetted Cybercrimes Act 19 of 2020 with its commencement proclamation, or a prosecution or enforcement record under it. | 2026-08-14 |
+| Information Regulator appropriation | The Information Regulator's annual report or the Justice vote's appropriation line naming its allocation. | 2026-08-14 |
+| Expert review panel | The ministerial notice or departmental statement appointing the expert review panel and naming its members and terms of reference. | 2026-08-14 |
+| Prudential Authority AI and cloud supervision standards | A Prudential Authority directive, guidance note or consultation paper on artificial-intelligence and cloud supervision standards. | 2026-08-14 |
+| Sector-level AI strategies | A departmental or sector-regulator statement naming a sector-level artificial-intelligence strategy and its status. | 2026-08-14 |
 
 <!-- narrative: gaps -->
 The items above marked ***Not held*** fall into three groups. Firstly, sectoral systems: education management information systems and the electronic death registration system, together with the data-centre incentive instrument signalled in February 2026. Secondly, international instruments: cross-border transfer adequacy determinations under POPIA, the Malabo Convention ratification position and domestication of the AfCFTA Digital Trade Protocol. Thirdly, measurement and the rules governing state automation: a national digital literacy baseline, a digital inclusion strategy instrument, municipal ICT expenditure data, an AI incident or assurance register, and any rule constraining state automated decision-making.

@@ -1,14 +1,15 @@
 ---
 title: Egypt — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: EGY
 ledger_rows: 156
 not_held: 54
+record: e6e39794ddf2
 ---
 
 # Egypt: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/EGY/ledger.csv` (156 systems and instruments, 54 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/EGY/ledger.csv` (156 systems and instruments, 54 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Two figures set the frame. Financial inclusion reached 77.6% of adults at end-20
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 2Africa submarine cable, Egypt transit and Mediterranean segment | [Implemented](https://gate.ahram.org.eg/News/5081510.aspx) | Mediterranean capacity activated on the Port Said-Genoa-Marseille route |
 | 5G mobile service | [Implemented](https://www.ookla.com/articles/5g-north-africa-2026) | Commercial launch by four operators on refarmed 2.6 GHz |
@@ -40,7 +41,7 @@ Two figures set the frame. Financial inclusion reached 77.6% of adults at end-20
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Khazna Data Center Egypt expansion | [Planned](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | Named in Africa's 890 MW development pipeline |
 | NTRA data-centre licensing regime | [Implemented](https://www.wearetech.africa/en/fils-uk/news/egypt-bets-on-data-centers-and-ai-to-drive-digital-economy-growth) | Tenth licence in two years issued |
@@ -51,7 +52,7 @@ Two figures set the frame. Financial inclusion reached 77.6% of adults at end-20
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Renergy green hydrogen and solar project, El-Tor | [Planned](https://gate.ahram.org.eg/News/5579894.aspx) | Executive plan reviewed by the investment and foreign trade minister |
 | Data-centre energy and water consumption reporting | ***Not held*** | — |
@@ -59,13 +60,13 @@ Two figures set the frame. Financial inclusion reached 77.6% of adults at end-20
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National high-performance computing or public GPU capacity | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EG-CERT national computer emergency readiness centre | [Implemented](https://gate.ahram.org.eg/News/5670246.aspx) | Named as delivery partner in the national cyber-skills academy |
 | Critical information infrastructure protection regulation | ***Not held*** | — |
@@ -85,7 +86,7 @@ Rural fibre is the clearest delivery: more than 1,250 of the 1,450 phase-one Dec
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital treasury of reusable verified documents | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | First consuming service went live, public-shop licensing on Digital Egypt |
 | Digital trust services, e-signature and e-seal | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | Signature and seal services launched using the security token and integrated with digital identity |
@@ -95,7 +96,7 @@ Rural fibre is the clearest delivery: more than 1,250 of the 1,450 phase-one Dec
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Automated civil-registry kiosks | [Implemented](https://blogs.realestate.gov.eg/civil-registry-machines-in-egypt) | Initial phase of 8 offices expanded to 16 locations |
 | Electronic birth and death registration | [Implemented](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444) | Development plan states registration taken electronic republic-wide |
@@ -109,10 +110,10 @@ Rural fibre is the clearest delivery: more than 1,250 of the 1,450 phase-one Dec
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Direct carrier billing licence for government payments | [Implemented](https://tpaymobile.com/tpay-secures-license-to-offer-direct-mobile-payments-for-government-services-in-egypt) | First regulator licence for direct carrier billing signed |
-| Financial Regulatory Authority digital factoring portal | [Implemented](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks) | Phase one launched on the authority's e-portal |
+| Financial Regulatory Authority digital factoring portal | [Implemented](https://www.youm7.com/story/2026/8/6/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D9%8A%D9%85-%D9%88%D9%85%D9%86%D8%B5%D8%A9-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AA%D9%85%D9%86%D8%B9/7504876) | Factoring companies trained on the platform, 6 August 2026 |
 | Instant Payment Network and InstaPay | [Implemented](https://www.cbe.org.eg/ar/news-publications/news/2024/12/30/12/31/cbe-extending-the-exemption-of-individuals-from-instapay-for-a-renewable-period-of-3-months) | Inbound cross-border remittance receipt activated |
 | InstaPay transfer pricing | [Implemented](https://gate.ahram.org.eg/News/5145456.aspx) | Fees applied from 2025-04-01 at 0.1% of value, minimum EGP 0.50, maximum EGP 20 |
 | onebank digital bank | [In development](https://itweb.africa/article/central-bank-of-egypt-approves-first-digital-bank/Gb3Bw7WaApPq2k6V) | Central bank initial approval to establish Egypt's first wholly digital bank |
@@ -123,7 +124,7 @@ Rural fibre is the clearest delivery: more than 1,250 of the 1,450 phase-one Dec
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Platform for Regularising State Lands | [Implemented](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179) | Committee reported intake and completion figures |
 | Rashid state-owned companies platform | [In development](https://gate.ahram.org.eg/News/5849412.aspx) | Hosting and operations protocol signed with the state payments company |
@@ -132,7 +133,7 @@ Rural fibre is the clearest delivery: more than 1,250 of the 1,450 phase-one Dec
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | DHIS2 national health information system | [Implemented](https://dhis2.org/egypt-launches-dhis2-in-health-information-system) | Launched at a high-level meeting with UNICEF Egypt and the Oslo health information systems centre |
 | Social insurance 95-service online catalogue | [In development](https://gate.ahram.org.eg/News/5882131.aspx) | Six-month window from the February 2026 undertaking falls due with the first tranche still forthcoming |
@@ -143,7 +144,7 @@ Rural fibre is the clearest delivery: more than 1,250 of the 1,450 phase-one Dec
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | African Financial Stability Committee digital portal | [Implemented](https://english.ahram.org.eg/NewsContent/3/1239/573958/Business/Tech/CBE,-African-central-banks-association-launch-digi.aspx) | Launched by the central bank with the Association of African Central Banks |
 | Digital Egypt platform | [Implemented](https://gate.ahram.org.eg/News/5813424.aspx) | 242 services live, reported to a cabinet meeting on presidential directives |
@@ -151,26 +152,26 @@ Rural fibre is the clearest delivery: more than 1,250 of the 1,450 phase-one Dec
 | Economic Entities Platform | [Planned](https://www.dailynewsegypt.com/2026/08/03/government-develops-digital-integration-to-accelerate-companies-capital-increases-investment-minister/) | Named as the ministry's flagship project at the Capital Market Development Package Conference |
 | Egyptian Tax Authority electronic system | [Implemented, contested](https://www.alborsaanews.com/2026/07/29/1982823) | Five-year assessment by eight named practitioners published |
 | Public Prosecution electronic criminal-record enquiry | [Implemented](https://gate.ahram.org.eg/News/5838334.aspx) | Service opened on the Public Prosecution portal |
-| Unified Government Services Card | [Piloting](https://gate.ahram.org.eg/News/5672837.aspx) | Phase one applied in Port Said; phases two and three set for Ismailia and Luxor, then the remaining governorates |
+| Unified Government Services Card | [Piloting](https://techafricanews.com/2026/08/11/egypt-advances-government-services-card-to-drive-digital-public-services/) | Rollout reviewed by the supply and communications ministers, 11 August 2026 |
 | Unified investment-licensing platform | [Implemented](https://gate.ahram.org.eg/News/5482679.aspx) | Reported as officially launched; the launch event itself is not dated |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Decent Life rural fibre programme | [Implemented](https://www.youm7.com/story/2026/6/30/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D9%84%D9%805-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%B7-%D9%81%D9%89-1250/7465834) | About 5 million fibre lines completed across more than 1,250 of 1,450 phase-one villages |
 | Rural digital service uptake, as distinct from rural connectivity | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public shop licensing on Digital Egypt | [Implemented](https://techafricanews.com/2026/07/29/egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform/) | Launched by the ministers of local development and of communications |
 | Governorate-level service platforms and local-government information systems | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 2027 Population, Housing and Establishments Census | [In development](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323) | Methodology presented to a cabinet follow-up; presidential decree still pending |
 | National labour-market data platform | [Planned](https://www.masrawy.com/news/news_egypt/details/2026/7/28/3024561/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82) | Joint coordinating committee met to examine the proposal |
@@ -178,7 +179,7 @@ Rural fibre is the clearest delivery: more than 1,250 of the 1,450 phase-one Dec
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Egypt-Japan water, artificial intelligence and satellite-data cooperation | [Planned](https://www.youm7.com/story/2026/8/2/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D9%84/7499442) | Trilateral memorandum signed at the close of the water minister's visit to Japan |
 | Egypt's own earth-observation and satellite programme | ***Not held*** | — |
@@ -199,7 +200,7 @@ After citizens found mobile lines registered to them without their knowledge thr
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Child national ID card proposal | [Planned](https://www.youm7.com/story/2026/4/19/%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A%D8%A9-%D8%AA%D8%B9%D9%82%D8%AF-%D9%88%D8%B1%D8%B4%D8%AA%D9%8A-%D8%B9%D9%85%D9%84-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%B1%D9%82%D9%85-%D9%82%D9%88%D9%85%D9%8A/7382985) | Two workshops held on the proposal |
 | Electronic service of judicial notices | [Implemented](https://techafricanews.com/2026/08/05/egypt-post-and-supreme-judicial-council-digitise-judicial-notices-with-bareedi/) | Cooperation protocol signed at the Supreme Judicial Council's headquarters |
@@ -217,7 +218,7 @@ After citizens found mobile lines registered to them without their knowledge thr
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Egypt service-coverage targets | [Implemented](https://www.undp.org/egypt/stories/5-facts-you-need-know-about-digital-public-infrastructure) | 242 services now, over 270 by end-2026, about 450 by 2030 |
 | National Cybersecurity Strategy | [Implemented, second edition](https://gate.ahram.org.eg/News/5670246.aspx) | Third edition under preparation, stated to the Senate |
@@ -227,20 +228,20 @@ After citizens found mobile lines registered to them without their knowledge thr
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chairmanship of the Arab AI governance and quantum working groups | [Implemented](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/) | Elected chair of two of six working groups |
 | Egypt's position on the AU Malabo Convention | ***Not held*** | — |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Transfer-pricing guidance | [Implemented, 2018 edition unrevised](https://www.alborsaanews.com/2026/07/29/1982823) | No update since 2018 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-protection compliance guidelines and templates | [Implemented](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Published January-February 2026 |
 | Personal Data Protection Center | [Implemented, enforcement powers from 2026-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl) | Confirmed as supervisory authority by the Executive Regulations |
@@ -249,7 +250,7 @@ After citizens found mobile lines registered to them without their knowledge thr
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Council of State digital transformation plan | [In development](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) | Stated as under way, no deliverable named |
 | VAT credit-refund period reduction | [Planned](https://www.alborsaanews.com/2026/07/29/1982823) | Awaiting completion of legislative steps |
@@ -257,14 +258,14 @@ After citizens found mobile lines registered to them without their knowledge thr
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cloud sovereignty cooperation with SAP | [Planned](https://techafricanews.com/2026/03/31/egypt-and-sap-deepen-ties-to-boost-ai-cloud-and-outsourcing-growth/) | Ministerial talks, no instrument signed |
 | EU-Egypt digital cooperation instrument | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Open Data Policy | [Implemented, no text or date on record](https://gate.ahram.org.eg/News/5356100.aspx) | Named by the ICT minister as a supporting policy |
 | Egyptian national open-data portal | ***Not held*** | — |
@@ -285,7 +286,7 @@ The financial regulator cleared the first two projects in its non-banking techno
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cassava AI Factory, Egypt site | [Planned](https://www.ecofinagency.com/news/2809-49064-africa-s-sovereign-ai-play-cassava-technologies-and-zimbabwean-strive-masiyiwa-720-million-bets) | Egypt placed last in the announced four-country build sequence |
 | Egyptian Center for Responsible AI | [Implemented](https://gate.ahram.org.eg/News/5670246.aspx) | Established at the ICT ministry at the end of 2025 |
@@ -300,7 +301,7 @@ The financial regulator cleared the first two projects in its non-banking techno
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Egypt-United Kingdom ICT cooperation | [Planned](https://itweb.africa/article/egypt-uk-strengthen-ict-cooperation/Pero37Z3YmaMQb6m) | Ministerial meeting with the British ambassador |
 | Electronics and handset localisation programme | [Implemented](https://gate.ahram.org.eg/News/5814629.aspx) | Output reached 10 million handsets by end-2025 |
@@ -311,21 +312,21 @@ The financial regulator cleared the first two projects in its non-banking techno
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | InfiniLink | [Discontinued](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Acquired by a United States chip manufacturer, November 2025 |
 | Stakpak | [Discontinued](https://techafricanews.com/2026/07/20/vercel-acquires-talent-behind-egypts-stakpak-to-build-agentic-infrastructure/) | Team joined a United States platform company, announced 2026-07-20 |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Google AI Pro free student subscriptions | [Planned](https://developingtelecoms.com/telecom-technology/data-centres-networks/19091-google-plans-to-build-four-subsea-cable-connectivity-hubs-for-africa.html) | Egypt named among the first eight countries |
 | Mediterranean capacity partnership with Cisco | [Implemented](https://gate.ahram.org.eg/News/5081510.aspx) | Partnership announced to activate Port Said-Genoa-Marseille capacity |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese-supplied smart-city surveillance in Egypt | [Implemented](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/) | Egypt included in an eleven-country mapping of Chinese smart-city surveillance |
 | Fibre-to-the-room service with Telecom Egypt | [Implemented](https://gate.ahram.org.eg/News/5660818.aspx) | Commercial launch agreement signed, stated as a first in Egypt |
@@ -333,13 +334,13 @@ The financial regulator cleared the first two projects in its non-banking techno
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-Egypt technology cooperation | [Planned, no instrument signed](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/) | Ministerial meeting on the sidelines of the BRICS Industry Ministers' Meeting, Jaipur |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state technology investment in Egypt | ***Not held*** | — |
 
@@ -361,7 +362,7 @@ Venduo, described by its founders as Egypt's first digital B2B marketplace for f
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Presidential initiative on digital accessibility of government websites | [Piloting](https://gate.ahram.org.eg/News/5882651.aspx) | Accessibility toolbar published on the ICT ministry's own website |
 | Affordability of connectivity relative to income | ***Not held*** | — |
@@ -369,7 +370,7 @@ Venduo, described by its founders as Egypt's first digital B2B marketplace for f
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ration-card grievance data update at post offices | [Implemented](https://www.elwatannews.com/news/details/8325610) | Service began at 500 post offices |
 | Internet use as a share of population | ***Not held*** | — |
@@ -378,7 +379,7 @@ Venduo, described by its founders as Egypt's first digital B2B marketplace for f
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI Capacity Building Initiative for Universities | [Implemented](https://gate.ahram.org.eg/News/5882834.aspx) | Fourth round closed 2026-08-04 |
 | Cybersecurity SuperHero Academy | [Implemented](https://gate.ahram.org.eg/News/5725761.aspx) | Third edition opened for registration 2026-07-06 |
@@ -386,7 +387,7 @@ Venduo, described by its founders as Egypt's first digital B2B marketplace for f
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Applied Innovation Centre research programme and model documentation | ***Not held*** | — |
 | Compute access for Egyptian researchers | ***Not held*** | — |
@@ -410,7 +411,7 @@ What Egypt commits in money is unestablished. There is no domestic budget archiv
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Blnk consumer lending facility | [Implemented](https://techcabal.com/2026/06/08/egypts-blnk-raises-37-million-to-expand-lending/) | US$37.1m raise announced |
 | Egypt Startup Charter and unified financing initiative | [Implemented, certification launched](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | First Startup Label Certificates issued, one recipient named |
@@ -420,7 +421,7 @@ What Egypt commits in money is unestablished. There is no domestic budget archiv
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central bank cooperation with Eswatini | [Implemented](https://techafricanews.com/2026/07/21/egypt-and-eswatini-central-banks-deepen-cooperation-on-digital-payments-and-banking/) | Governors' meeting reported; event date not stated |
 | Central bank memorandum with Afreximbank on a pan-African Gold Bank | [Planned](https://www.cbe.org.eg/en/news-publications/news/2025/12/30/08/37/gold-bank-programme-in-egypt) | Memorandum of understanding signed |
@@ -429,7 +430,7 @@ What Egypt commits in money is unestablished. There is no domestic budget archiv
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Economic and Social Development Plan FY2026/2027 | ***Not held*** | — |
 | Startup Charter EGP 50bn financing initiative, appropriation and disbursement | ***Not held*** | — |

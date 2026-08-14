@@ -1,14 +1,15 @@
 ---
 title: Cape Verde — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: CPV
 ledger_rows: 123
 not_held: 45
+record: 24fb6ba9fb41
 ---
 
 # Cape Verde: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/CPV/ledger.csv` (123 systems and instruments, 45 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/CPV/ledger.csv` (123 systems and instruments, 45 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -24,7 +25,7 @@ The gap between the two is filled outside the vote. At 31 March 2026 the ministr
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AUDA-NEPAD Programme for African Developing Island Economies | [Implemented](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Launched at the STC-TTIM Ministerial Segment, Abidjan |
 | Sistema de Informacao de Gestao de Dominios .CV | [Implemented](https://www.governo.cv/a-implementacao-de-um-sistema-de-gestao-de-dominios-localizado-e-eficiente-e-fundamental-para-garantir-que-os-recursos-digitais-do-pais-sejam-utilizados-de-forma-eficaz-e-transparente/) | Launched by ARME 2024-05-31, with OLACV taking all .cv registration requests |
@@ -37,7 +38,7 @@ The gap between the two is filled outside the vote. At 31 March 2026 the ministr
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | NOSi Praia data centre | [Implemented](https://nosi.cv/documents/20121/3100977/Relat%C3%B3rio%20e%20Contas%20NOSi%20-%202024.pdf/2fe4a66a-1826-4951-4da3-9cce82aef26e) | Uptime Institute Tier III certification, reported in the FY2024 accounts |
 | Government cloud, hosting or data-localisation rule | ***Not held*** | — |
@@ -45,7 +46,7 @@ The gap between the two is filled outside the vote. At 31 March 2026 the ministr
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Praia data-centre photovoltaic self-consumption project | [In development](https://nosi.cv/documents/20121/3100977/Relat%C3%B3rio%20e%20Contas%20NOSi%20-%202024.pdf/2fe4a66a-1826-4951-4da3-9cce82aef26e) | Approved by the NOSi board, implementation falling in the 2025 exercise |
 | Any national policy linking digital infrastructure to energy | ***Not held*** | — |
@@ -53,14 +54,14 @@ The gap between the two is filled outside the vote. At 31 March 2026 the ministr
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National technical capacity and public-sector technical capability | ***Not held*** | — |
 | The regulator's own budget, staffing and activity | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cabo Verde-South Korea digital cooperation | [Planned](https://www.wearetech.africa/en/fils-uk/news/public-management/digital-transformation-cape-verde-moves-closer-to-south-korea) | Ministry statement on the completed technical mission |
 | Decreto-Lei 9/2021, cybersecurity legal regime | [Implemented](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf) | Since 2021 |
@@ -83,7 +84,7 @@ Cybersecurity is the section's clearest movement and its clearest measure of pri
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Autentika electronic identity and authentication platform | [Implemented](https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/) | Presented at the ID4Africa 2026 annual meeting, Abidjan |
 | Cartao Nacional de Identificacao | [Implemented](https://sniac.cv/cartao-nacional-de-identificacao/) | Officially launched 2018-01-23 at Paul, Santo Antao |
@@ -93,7 +94,7 @@ Cybersecurity is the section's clearest movement and its clearest measure of pri
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government-to-person payment digitisation | ***Not held*** | — |
 | Instant and inclusive payment system strategy | ***Not held*** | — |
@@ -101,14 +102,14 @@ Cybersecurity is the section's clearest movement and its clearest measure of pri
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Plataforma Empresa Online | [Piloting](https://expressodasilhas.cv/pais/2026/03/20/plataforma-empresa-online-reforca-digitalizacao-dos-servicos-publicos-em-cabo-verde/101997) | Socialisation ceremony, Mindelo, 2026-03-20; in beta with a pilot user group |
 | Land registry and cadastre digitisation | ***Not held*** | — |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Health System digitalisation | [Planned](https://www.inforpress.cv/en/article-6732) | Announced at the handover of 24 telemedicine units |
 | SIMFAR pharmaceutical market monitoring system | [Implemented](https://www.diarioeconomico.co.mz/2026/07/30/mundo/africa/cabo-verde-lanca-plataforma-para-detectar-entrada-ilegal-de-medicamentos-e-rupturas-de-stock/) | Launched by the independent health regulator |
@@ -117,7 +118,7 @@ Cybersecurity is the section's clearest movement and its clearest measure of pri
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Casa do Cidadao one-stop shop | [Implemented](https://www.mf.gov.cv/documents/198414/3901074/ANEXO+INFORMATIVO_OE_2024_DEFINITIVO.pdf/bf68c237-a941-fb9c-d290-018e20641a01?version=1.0&t=1696269705355) | Financed by its own service fee, CVE 74,817,675 tabled for FY2024 |
 | Election results dissemination system (eleicoes.cv) | [Implemented, under forensic audit](https://www.anacao.cv/noticia/2026/05/18/legislativas-2026-presidente-do-nosi-pede-desculpas-por-alegado-ciber-ataque-durante-a-divulgacao-dos-resultados-das-eleicoes/) | NOSi preliminary report attributes the 2026-05-17 failure to technical causes |
@@ -129,26 +130,26 @@ Cybersecurity is the section's clearest movement and its clearest measure of pri
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural and inter-island last-mile digital service delivery | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Municipal digital government | ***Not held*** | — |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | IV IDRF household income and expenditure survey | [In development](https://www.anacao.cv/noticia/2026/07/25/dados-do-banco-mundial-desmascaram-os-do-ine-sobre-a-pobreza-em-cabo-verde/) | Fielded from December 2022; no definitive results after more than three years |
 | Parecer do Tribunal de Contas on the Conta Geral do Estado | [Discontinued, no parecer since FY2023](https://www.mf.gov.cv/documents/198414/5884176/Conta+Geral+do+Estado+2024.pdf) | Published series ends at the FY2023 parecer |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | State use of Earth observation or satellite data | ***Not held*** | — |
 
@@ -164,7 +165,7 @@ What is missing is the layer beneath. A diploma on interoperability standards fo
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Diploma on interoperability standards for public-administration systems | [Planned](https://www.governo.cv/ministra-edna-oliveira-ouvida-na-1a-comissao-especializada-no-ambito-da-discussao-na-especialidade-oe2024/) | Named as a 2024 legislative deliverable to the National Assembly's First Committee |
 | Diploma regulating data governance in the public administration | [Planned](https://www.governo.cv/ministra-edna-oliveira-ouvida-na-1a-comissao-especializada-no-ambito-da-discussao-na-especialidade-oe2024/) | Named as a 2024 legislative deliverable to the National Assembly's First Committee |
@@ -176,7 +177,7 @@ What is missing is the layer beneath. A diploma on interoperability standards fo
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Conselho Consultivo da Economia Digital | [Implemented](https://www.governo.cv/a-economia-digital-e-um-pilar-estrategico-para-o-crescimento-de-cabo-verde-ministro-olavo-correia/) | Third ordinary meeting held 2025-11-25 |
 | Data Strategy for Public Administration | [In development](https://techafricanews.com/2026/05/04/cape-verde-launches-national-data-and-ai-strategies-to-modernize-public-administration/) | Kick-off meeting held 2026-04-28 |
@@ -191,14 +192,14 @@ What is missing is the layer beneath. A diploma on interoperability standards fo
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | African Digital Corridor with Nigeria | [Implemented](https://www.anacao.cv/noticia/2025/09/02/cabo-verde-representado-no-government-leadership-and-ai-summit-na-nigeria/) | Support agreement signed in Abuja during the Secretary of State's mission |
 | Any act of ratification or transposition of a regional or continental digital instrument | ***Not held*** | — |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Independent evaluation of the Instituto Nacional de Estatistica | [Planned](https://www.anacao.cv/noticia/2025/08/10/estatisticos-alertam-cabo-verdianos-e-parceiros-estao-a-ser-enganados-pelo-ine/) | Announced by the Prime Minister in the State of the Nation debate |
 | Membership status in the African Telecommunications Union | ***Not held*** | — |
@@ -206,7 +207,7 @@ What is missing is the layer beneath. A diploma on interoperability standards fo
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Comissao Nacional de Proteccao de Dados | [Implemented](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448) | Tenth-anniversary international conference on data protection and artificial intelligence |
 | Judicial police access to the national video-surveillance system | [Planned](https://www.anacao.cv/noticia/2026/05/13/pj-defende-acesso-ao-sistema-de-videovigilancia-para-reforco-da-investigacao-criminal/) | Claim restated by the national director at the force's 33rd anniversary; no access granted |
@@ -216,19 +217,19 @@ What is missing is the layer beneath. A diploma on interoperability standards fo
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Any named instrument, forum or code of practice on public digital-policy debate | ***Not held*** | — |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU special partnership digital pillar and Global Gateway package | [Planned](https://www.governo.cv/discurso-do-primeiro-ministro-sua-excelencia-dr-jose-ulisses-correia-e-silva-no-debate-orcamento-estado-de-2024-oe2024/) | EUR 300 million Global Gateway package stated in the FY2025 budget speech |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open-data portal | [Planned](https://www.governo.cv/ministra-edna-oliveira-ouvida-na-1a-comissao-especializada-no-ambito-da-discussao-na-especialidade-oe2024/) | Named as a 2024 deliverable to the National Assembly's First Committee |
 | Portal da Transparencia | [In development](https://www.governo.cv/portal-da-transparencia-em-consulta-publica/) | Public consultation closed 2025-07-17 |
@@ -251,7 +252,7 @@ The Prime Minister told Parliament on 31 July 2026 that the statistics institute
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI-assisted port scanning contract | [In development](https://www.governo.cv/governo-ambiciona-uma-administracao-tributaria-digital-e-inteligente-para-garantir-sustentabilidade-do-estado-e-crescimento-economico/) | Stated to be under way by the Finance Minister at the Praia customs house |
 | National Artificial Intelligence Strategy | [In development](https://techafricanews.com/2026/05/04/cape-verde-launches-national-data-and-ai-strategies-to-modernize-public-administration/) | Development process kicked off at an EU-supported meeting |
@@ -260,7 +261,7 @@ The Prime Minister told Parliament on 31 July 2026 that the statistics institute
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cabo Verde Technology Park Phase II | [In development](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-CV-GB0-004%22) | Invitation for bids issued 2026-07-29; submissions close 2026-09-15 |
 | Safe City Project Phase 2 | [Implemented](http://cv.mofcom.gov.cn/article/zxhz/201711/20171102664018.shtml) | Exchange of notes for implementation signed 16 and 20 May 2019 |
@@ -272,7 +273,7 @@ The Prime Minister told Parliament on 31 July 2026 that the statistics institute
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cabo Verde Digital | [Implemented](https://expressodasilhas.cv/eitec/2025/01/15/digital-awards-cabo-verde-anuncia-finalistas-da-sua-primeira-edicao/95141) | Described in operation by the Secretary of State for the Digital Economy |
 | Fundacao para a Ciencia, Inovacao e Tecnologia | [Planned](https://www.governo.cv/discurso-do-primeiro-ministro-sua-excelencia-dr-jose-ulisses-correia-e-silva-no-debate-orcamento-estado-de-2024-oe2024/) | Allocation for its creation stated in the FY2024 budget speech |
@@ -282,25 +283,25 @@ The Prime Minister told Parliament on 31 July 2026 that the statistics institute
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Third Millennium Challenge compact | [Planned](https://www.governo.cv/discurso-de-abertura-do-primeiro-ministro-debate-sobre-o-orcamento-de-estado-para-2025/) | Selection for a third compact stated in the FY2025 budget speech |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Huawei partnership with the Government of Cabo Verde | [Implemented](https://www.governo.cv/francisco-carvalho-recebe-equipa-da-huawei-para-reforcar-cooperacao-na-transformacao-digital-de-cabo-verde/) | New country representative introduced to the Prime Minister |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Any Indian technology engagement with Cabo Verde | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Any Gulf technology or data-centre engagement with Cabo Verde | ***Not held*** | — |
 
@@ -316,26 +317,26 @@ Several stated instruments cannot be inspected. A startup law with tax benefits 
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Island-level and urban-rural access disaggregation | ***Not held*** | — |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fundo de Servico Universal e Desenvolvimento da Sociedade de Informacao | [Implemented](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf) | Appropriated CVE 122,073,633 for FY2026 in Lei 69/X/2025 |
 | Free public internet points | ***Not held*** | — |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital literacy programme and skills rate | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | BOOST.CV | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/cape-verde-ramps-up-digital-start-up-ecosystem-to-boost-economy) | Launched 2025-07-28 |
 | National strategy of skills and digital readiness | [In development](https://techafricanews.com/2025/08/08/cape-verde-eyes-gdp-boost-through-stronger-digital-skills/) | Workshop on the draft strategy held in Praia |
@@ -344,7 +345,7 @@ Several stated instruments cannot be inspected. A startup law with tax benefits 
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National research funding line for digital or artificial-intelligence research | ***Not held*** | — |
 
@@ -356,7 +357,7 @@ Training is externally financed and its results unmeasured. A digital-skills pro
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Balcao unico for startups | [Planned](https://www.governo.cv/governo-dispoe-de-cerca-de-10-milhoes-de-contos-para-investir-no-digital-nos-proximos-anos/) | Announced at the Alumni Talk 2026 opening |
 | Cabo Verde Regional Digital Connectivity framework loan | [Implemented](https://www.eib.org/en/projects/all/20220836) | Signed 2024-09-02 |
@@ -367,14 +368,14 @@ Training is externally financed and its results unmeasured. A digital-skills pro
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | NOSi memorandum of understanding with Angola's public finance IT body | [Implemented](https://expressodasilhas.cv/empresas-negocios/2026/03/06/nosi-e-setic-fp-angola-assinam-memorando-de-entendimento/101749) | Signed in Praia 2026-03-03 |
 | Protocol on Membership with the Tech Diplomacy Global Institute | [Implemented](https://www.techreviewafrica.com/news/4455/cabo-verde-appoints-tech-ambassador-signs-membership-protocol-with-global-institute) | Protocol signed in Praia, reported 2026-03-18 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ciber Seguranca budget unit | [Implemented](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf) | Inscribed as a new budget unit in Lei 69/X/2025 |
 | Orcamento Retificativo do Estado para 2026 | [Implemented, not yet gazetted](https://www.governo.cv/parlamento-aprova-orcamento-retificativo-para-2026-sem-aumentar-a-despesa-publica/) | Approved by the Assembleia Nacional 2026-07-31 |

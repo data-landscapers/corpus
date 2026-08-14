@@ -1,14 +1,15 @@
 ---
 title: Kenya — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: KEN
-ledger_rows: 147
+ledger_rows: 149
 not_held: 4
+record: cbd5e28bebd1
 ---
 
 # Kenya: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/KEN/ledger.csv` (147 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/KEN/ledger.csv` (149 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -22,7 +23,7 @@ Kenya has a data-protection statute in force since 2019, a mobile-money rail tha
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Africa-1 subsea cable | [Planned](https://www.businessdailyafrica.com/bd/corporate/technology/kenya-to-get-two-new-undersea-fibre-optic-cables-in-ai-race-5547996) | Kenyan landing expected 2027 on TeleGeography's account |
 | Communications Equipment Distributor licence | [Implemented](https://itweb.africa/article/kenya-introduces-telecom-equipment-licence/6GxRKMYQZbWMb3Wj) | CA public notice 2026-07-21 under Gazette Notice 3335 |
@@ -37,7 +38,7 @@ Kenya has a data-protection statute in force since 2019, a mobile-money rail tha
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel Nxtra data centre, Tatu City | [In development](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) | Completion deferred to July 2027 |
 | Baobab Cloud sovereign public cloud | [Implemented](https://techafricanews.com/2026/05/22/ixafrica-data-centres-and-baobab-cloud-services-launch-sovereign-public-cloud-platform-in-kenya/) | Launched May 2026 |
@@ -50,20 +51,20 @@ Kenya has a data-protection statute in force since 2019, a mobile-money rail tha
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-centre power tariff or grid-connection framework | ***Not held*** | No instrument found |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Broadcast Logger and CA Broadcast Monitoring Room | [Implemented](https://techafricanews.com/2026/07/27/communications-authority-of-kenya-and-kfcb-complete-joint-broadcast-monitoring-training/) | Joint CA and KFCB user training concluded 2026-07-27 |
 | Kenya Advanced Institute of Science and Technology | [In development](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/) | Korea Exim Bank operationalisation review, August 2026 |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kenya Cyber Resilience Project | [Implemented](https://itweb.africa/article/kenya-launches-project-to-boost-cyber-security/LPp6VMrBjoPMDKQz) | Launched January 2026 |
 | National Cyber Security Agency | [Implemented](https://itweb.africa/article/kenya-approves-national-cyber-security-agency/wbrpO7g2QdevDLZn) | Order gazetted as Legal Notice 89 on 2026-05-15 |
@@ -81,7 +82,7 @@ The National Cyber Security Agency Order was [gazetted as Legal Notice 89 on 202
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Advanced Cargo Declaration system | [Implemented](https://citizen.digital/article/kra-kpa-roll-out-smart-gate-pilot-cargo-system-at-mombasa-port-to-reduce-delays) | In service from 2026-08-03 |
 | Digital Health (Data Exchange Component) Regulations 2025 | [Implemented](https://new.kenyalaw.org/akn/ke/act/ln/2025/77/eng@2025-04-11) | Commenced 2025-04-11 as Legal Notice 77 of 2025 |
@@ -91,7 +92,7 @@ The National Cyber Security Agency Order was [gazetted as Legal Notice 89 on 202
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Automatic identity at 18 from the civil register | [In development](https://www.biometricupdate.com/202602/kenya-streamlines-access-to-legal-and-digital-identity) | Births and Deaths Registration (Amendment) Act assented |
 | Civil register link to police facial recognition | [Planned](https://www.biometricupdate.com/202606/kenya-considers-linking-national-id-database-to-cctv-facial-recognition-network) | Tender up to KSh 25bn, six cities |
@@ -105,7 +106,7 @@ The National Cyber Security Agency Order was [gazetted as Legal Notice 89 on 202
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Airtel Money Bizna Wallet | [Implemented](https://techcabal.com/2026/08/03/airtel-targets-kenyas-small-businesses-as-mobile-money-war-shifts-to-merchants/) | Launched 2026-08-03 |
 | CBK national switch and fast payment system | [In development](https://techcabal.com/2026/04/03/kenswitch-visa-deal-stakes-kenya-payments-overhaul/) | Bidder contest opens between Kenswitch-Visa, Pesalink and NIBSS |
@@ -118,14 +119,14 @@ The National Cyber Security Agency Order was [gazetted as Legal Notice 89 on 202
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ardhisasa land platform | [Implemented](https://lands.go.ke/isiolo-county-onboarded-ardhisasa-more-counties-embrace-platform) | Isiolo County onboarded |
 | Online download of birth certificates | [Implemented](https://www.kenyans.co.ke/news/124508-kenyans-download-and-print-birth-certificates-online) | Announced by the Interior Cabinet Secretary |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric Health Identification | [Implemented](https://www.biometricupdate.com/202606/kenya-expands-digital-id-program-to-minors-through-health-sector-rollout) | Dependants aged 7 to 17 enrolled under the Social Health Authority |
 | Digital Health Act 2023 and Digital Health Agency | [Implemented, under appeal](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/) | Health Information Management Procedures Regulations 2025 operationalise it |
@@ -135,7 +136,7 @@ The National Cyber Security Agency Order was [gazetted as Legal Notice 89 on 202
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Diaspora information management portal | [Implemented](https://mwakilishi.com/news/2026-02-25/kenya-launches-digital-portal-to-support-citizens-living-abroad) | Launched on eCitizen |
 | Digital Hubs Programme | [In development](https://techafricanews.com/2026/08/06/kenya-advances-digital-hubs-programme-with-588-sites-nationwide/) | Committed-site count given to the NG-CDF Committee 2026-08-06 |
@@ -150,7 +151,7 @@ The National Cyber Security Agency Order was [gazetted as Legal Notice 89 on 202
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | County digital services register | [Implemented, a dated assessment rather than a maintained register](https://vision2030.go.ke/wp-content/uploads/2026/02/ASSESSMENT-REPORT-AUTOMATION-EMPLOYMENT-IN-COUNTIES-23-02-2026.pdf) | Vision 2030 rapid assessment published 2026-02-23 |
 | Kirinyaga One Government Network fibre | [Implemented](https://www.telecomreviewafrica.com/articles/general-news/28132-kenya-advances-digital-economy-with-fiber-wi-fi-and-youth-programs/) | Five sub-counties connected |
@@ -158,14 +159,14 @@ The National Cyber Security Agency Order was [gazetted as Legal Notice 89 on 202
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | KNBS digital-indicator release | [Implemented](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey.pdf) | Economic Survey 2025 published, ICT chapter covering 2020 to 2024 |
 | Safaricom and KNBS mobile-data partnership | [Planned](https://techafricanews.com/2026/06/08/safaricom-and-knbs-partner-to-harness-mobile-data-for-national-planning/) | Announced at the Global Data Festival |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National earth-observation data programme | ***Not held*** | No Kenyan instrument on file |
 
@@ -181,16 +182,18 @@ The State Department for ICT reported [588 committed Digital Hub sites](https://
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Access to Information (Amendment) Bill | [In development](https://nation.africa/kenya/news/new-bill-sharing-state-secrets-on-whatsapp-emails-could-land-you-in-jail-5516338) | Bill reported 2026-07-02 |
 | AI Governance Act | [Planned](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf) | Provided for in the draft AI policy |
 | Computer Misuse and Cybercrimes Act 2018 | [Implemented, sections struck down](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Court of Appeal struck the false-publication sections |
 | Copyright and Related Rights Bill 2026 | [In development](https://www.linkedin.com/pulse/kenyas-new-copyright-bill-good-start-ready-ai-age-zaccheaus-amenya-0zeuf/) | Out for public comment |
+| Cyber cafe customer registration and session logging rules | [Implemented](https://itweb.africa/article/kenya-tightens-cyber-cafe-rules-to-close-identity-gap/6GxRKqYQ1aAqb3Wj) | Rules take effect 14 August 2026 |
 | ICT Authority Bill | [In development](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | Named as a priority to advance |
 | Kenya Intellectual Property Bill | [In development](https://www.linkedin.com/pulse/kenyas-new-copyright-bill-good-start-ready-ai-age-zaccheaus-amenya-0zeuf/) | Named alongside the Copyright Bill |
 | Kenya National Library Service Bill 2023 | [In development](https://parliament.go.ke/node/26196) | Senate committee public hearing 2026-08-04 |
 | Persons with Disabilities Act 2025 | [Implemented](https://cipit.strathmore.edu/strengthening-legal-and-policy-frameworks-for-ai-accessibility-for-persons-with-disabilities-in-kenya/) | In force, no AI accessibility standard attached |
+| Repeal of the IEBC duty to livestream polling-station results | [In development](https://nation.africa/kenya/news/politics/50-million-cameras-the-election-kenya-did-not-have-in-1992-5552024) | Election Laws (Amendment) Bill 2026 reported approved in committee |
 | Sexual Offences Act amendment package | [Planned](https://nation.africa/kenya/news/gender/from-online-abuse-to-sex-for-marks-kenya-moves-to-criminalise-deepfake-sexual-violence-and-sextortion-5545524) | Justice-sector committee proposals reported 2026-08-04 |
 | Technopolis Act | [Implemented](https://itweb.africa/article/kenya-enacts-new-law-to-formalise-tech-zones/8OKdWqDXlp6qbznQ) | Enacted, reported 2026-05-13 |
 | Technopolis Regulations | [In development](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | Named as still to be finalised |
@@ -199,7 +202,7 @@ The State Department for ICT reported [588 committed Digital Hub sites](https://
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central bank pricing principles for mobile money | [Implemented](https://www.standardmedia.co.ke/business/article/2001554316/safaricom-halves-m-pesa-merchant-fees-in-cbk-led-move) | Operator tariff cut effective 2026-08-07 attributed to alignment |
 | Draft National Data Governance Policy | [In development](https://www.atlanticcouncil.org/blogs/econographics/kenya-wants-to-monetize-its-data-but-at-what-cost/) | Still to be completed on the ICT principal secretary's forward list |
@@ -214,7 +217,7 @@ The State Department for ICT reported [588 committed Digital Hub sites](https://
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Communications Equipment Vendor Class Licence guidelines | [Implemented](https://itweb.africa/article/kenya-tightens-consumer-protection-for-device-sales/PmxVE7KEGOrqQY85) | Rules introduced, reported 2026-07-23 |
 | EU Global Gateway ICT standards engagement | [Planned](https://techafricanews.com/2026/07/27/kenya-and-eu-strengthen-digital-standards-partnership-to-support-digital-superhighway/) | Principal-secretary-level meeting with the EU delegation |
@@ -223,7 +226,7 @@ The State Department for ICT reported [588 committed Digital Hub sites](https://
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection Act 2019 | [Implemented](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) | Since 2019 |
 | ODPC five-year privacy plan | [Implemented](https://www.standardmedia.co.ke/central/article/2001523499/data-protection-office-launches-sh126-billion-privacy-plan) | Launched July 2025 |
@@ -234,7 +237,7 @@ The State Department for ICT reported [588 committed Digital Hub sites](https://
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data marketplace | [Planned](https://nation.africa/kenya/business/state-plans-ecitizen-data-sale-to-boost-revenue--5488496) | Provided for in the draft Data Governance Policy |
 
@@ -250,7 +253,7 @@ Data Protection Services received [KSh 917.3m in the 2026/27 original estimates]
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Absa Kenya AI policy and Citrus agent | [Piloting](https://techafricanews.com/2026/07/29/absa-kenya-invests-31-million-in-technology-automates-71-of-operations/) | 2025 sustainability report published 2026-07-29 |
 | ATLAS Umoja AI | [In development](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/) | Launched at the ATU conference, 23 to 24 July 2026 |
@@ -265,7 +268,7 @@ Data Protection Services received [KSh 917.3m in the 2026/27 original estimates]
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Qubit Hub | [Planned](https://techafricanews.com/2026/05/25/qhala-amini-ai-angani-and-ixafrica-unite-to-launch-ai-infrastructure-hub-in-kenya/) | Hosting collaboration announced 2026-05-25 |
 | Vumah Labs | [Implemented, scale unestablished](https://www.wearetech.africa/fr/fils/tech-stars/chepkemoi-chepkwony-concoit-des-solutions-pour-securiser-lia-en-afrique) | Founder profile published 2026-07-21 |
@@ -273,20 +276,20 @@ Data Protection Services received [KSh 917.3m in the 2026/27 original estimates]
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | OpenAI Academy Nairobi | [Planned](https://techafricanews.com/2026/06/18/kenya-eyes-first-openai-academy-in-east-africa-following-ruto-sam-altman-talks/) | Talks disclosed at the G7 sidelines |
 | Safaricom and AWS generative AI collaboration | [Implemented](https://itweb.africa/article/safaricom-selects-aws-for-genai-use-cases/KjlyrvwBVnbqk6am) | Expanded collaboration announced 2025-06-05 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kenya-China e-commerce cooperation memorandum | [Implemented](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/) | Eighteen ICT officers dispatched to Shandong |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Kenya-India-Italy sovereign AI partnership | [Planned](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/) | Trilateral launched at the India AI Impact Summit |
 
@@ -300,7 +303,7 @@ Deployment is running ahead of the rules that would govern it. A constitutional 
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EmpowerHer | [Implemented](https://www.kictanet.or.ke/kictanet-engages-tana-river-county-leadership-to-advance-womens-digital-empowerment/) | Tana River county dialogue 2026-07-27 |
 | Enhancing Digital Access and Community Resilience | [Implemented, completion date passed](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300139/summary) | Scheduled completion March 2026 |
@@ -309,7 +312,7 @@ Deployment is running ahead of the rules that would govern it. A constitutional 
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU Last Mile Connectivity of Schools | [Implemented](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25192) | Contracted 2023, running to 2028 |
 | EU-UNICEF school connectivity | [Implemented](https://www.the-star.co.ke/siasa/2023-10-06-369400-children-to-benefit-from-unicef-eu-digital-connectivity-project) | EU-funded phase launched October 2023 |
@@ -319,7 +322,7 @@ Deployment is running ahead of the rules that would govern it. A constitutional 
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Literacy Programme | [Implemented, no outturn published since 2022](https://edu-design.co/wp-content/uploads/2019/09/Digital-Literacy-Programme.pdf) | Government-steered review published 2022 |
 | Regulator school computer donations | [Implemented](https://techafricanews.com/2026/07/30/ca-kenya-expands-digital-inclusion-with-computer-donation-to-turkana-school/) | Turkana donation 2026-07-30 |
@@ -327,7 +330,7 @@ Deployment is running ahead of the rules that would govern it. A constitutional 
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU digitalisation of technical and vocational education | [Implemented](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25165) | Contracted 2023, running to 2028 |
 | HerSpace | [Implemented](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Opened as the successor programme, July 2026 |
@@ -347,7 +350,7 @@ Smartphone connections [passed 50 million in March 2026](https://nation.africa/k
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Atlas Tower Kenya debt facility (ATK Debt II) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-903-SII-52548%22) | IFC committed US$25m of a US$30m multi-currency debt package, 2026-06-18 |
 | EBRD-Axian Telecom (Yas) senior loan financing, Kenya tranche | [Implemented](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270) | Signed 9 July 2026, advised by White & Case |
@@ -355,13 +358,13 @@ Smartphone connections [passed 50 million in March 2026](https://nation.africa/k
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EU-Kenya Digital Partnership | [Implemented](https://techafricanews.com/2026/06/09/kenya-secures-ksh-15-3-billion-eu-boost-to-accelerate-digital-transformation/) | Commitment announced 2026-06-09 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital hubs establishment appropriation | [Implemented](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | FY2026/27 allocation of KSh 400m |
 | FY2027/28 budget process | [In development](https://techafricanews.com/2026/07/24/kenya-launches-fy2027-28-budget-process-with-focus-on-digital-economy-and-growth/) | Preparation process launched 2026-07-24 |

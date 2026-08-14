@@ -1,14 +1,15 @@
 ---
 title: Mozambique — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: MOZ
-ledger_rows: 129
+ledger_rows: 131
 not_held: 18
+record: 9a49ebc5ca14
 ---
 
 # Mozambique: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/MOZ/ledger.csv` (129 systems and instruments, 18 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/MOZ/ledger.csv` (131 systems and instruments, 18 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ Where the state has built, it has built payments and identity. The instant payme
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G coverage plan to 2027 and 2030 | [Planned](https://clubofmozambique.com/news/mozambique-president-pledges-5g-for-district-capitals-tourist-zones-in-2027-watch/) | Pledged by the President at the 5th National Communications Conference |
 | 5G licence terms and coverage obligations | [Implemented, terms not published](https://clubofmozambique.com/news/mozambique-incm-awards-5g-licences-to-mobile-operators/) | Obligations stated by the regulator at the award, 2026-06-23 |
@@ -43,7 +44,7 @@ Where the state has built, it has built payments and identity. The instant payme
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AFR-IX network deployment in Raxio Mozambique | [Planned](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/) | Partnership announced 2026-07-23 |
 | Alibaba Cloud local services | [Implemented](https://www.datacenterdynamics.com/en/news/bcx-brings-alibaba-cloud-to-mozambique) | Local services launched in Maputo, billed in local currency |
@@ -56,7 +57,7 @@ Where the state has built, it has built payments and identity. The instant payme
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Grid supply arrangements for data centres and telecom sites | [Implemented](https://edm.flexibihost.com/en/website/page/electricity-tariffs) | EDM's own published industrial tariff schedule under Decreto 80/2022 |
 | Solar power at the rural mobile stations | [Planned](https://techafricanews.com/2025/10/20/mozambique-to-install-60-new-mobile-stations-to-boost-rural-connectivity/) | Specified in the 60-station award to Vodacom |
@@ -65,7 +66,7 @@ Where the state has built, it has built payments and identity. The instant payme
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | MoRENet, the education and research network | [Implemented](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/) | The minister proposed transferring management from his ministry to the universities |
 | Mozambique Internet Exchange Point | [Implemented](https://pulse.internetsociety.org/en/ixp-tracker/ixp/260/) | Operator's own about page fills fields the tracker note flagged missing |
@@ -75,7 +76,7 @@ Where the state has built, it has built payments and identity. The instant payme
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric SIM registration and the unique telecommunications number | [Implemented](https://360mozambique.com/development/mozambique-to-require-biometric-card-registration-for-cellphone-users) | Optional pilot from 2024-01-15, compulsory in H2 2024, blocking from 2025 |
 | Cyber Security Fund | [Planned](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | Established at articles 67 to 71 of Law 13/2026, published 2026-07-01 |
@@ -95,7 +96,7 @@ The hosting estate is mostly commercial. Two carrier-neutral facilities and a un
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Portal de Divulgacao de Dados de Infra-estruturas Publicas (IPDP) | [Implemented](https://www.dadosinfra.co.mz/) | Validated as an OC4IDS publisher in 2026 |
 | Single unified government database | [Planned](https://www.biometricupdate.com/202603/mozambique-sets-up-agency-to-spearhead-its-digital-transformation-ambitions) | Named as a responsibility of the digital transformation agency |
@@ -104,26 +105,28 @@ The hosting estate is mostly commercial. Two carrier-neutral facilities and a un
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric passport and electronic pre-booking | [Implemented](https://jornalnoticias.co.mz/destaque/senami-aposta-na-inovacao-tecnologica-para-flexibilizar-atendimento/) | Named as the principal documentary-security measure at the migration service's 51st anniversary |
+| Biometric register of humanitarian-aid recipients (INGD) | [In development](https://clubofmozambique.com/news/mozambique-aid-recipient-digital-register-to-be-launched-to-prevent-duplication/) | Piloting in Beira, launch stated for October 2026 |
 | Free first issuance of the national identity card | [Implemented](https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/) | Extended to 2027 and widened, announced at Nampula 2026-07-28 |
 | National mobile digital identity and electronic signature infrastructure | [Planned](https://clubofmozambique.com/news/mozambique-launches-tender-for-consultancy-on-mobile-digital-identity-and-signature-system/) | Consultancy tender published 2026-05-25 |
 | Regulations on Civil Identification and the National Identity Card | [Implemented](https://clubofmozambique.com/news/mozambique-cabinet-approves-new-id-card-regulations-notes-gains-in-access-to-safe-water/) | Approved by the Council of Ministers at its 15th session |
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric identity and access management in the national payments switch | [In development](https://idtechwire.com/bio-key-and-runlevel-deploy-biometric-iam-across-mozambiques-national-payments-network/) | Multi-year deployment agreement announced 2026-02-24 |
 | METIX instant payment system | [Implemented](https://clubofmozambique.com/news/central-bank-launches-mozambique-instant-payment-system-metix-watch/) | Aviso 1/GBM/2026 text now held, alongside entry into production 2026-03-16 |
+| Mobile-money payment of health workers (WHO) | [Implemented](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/) | Cumulative disbursement reported, 11 August 2026 |
 | National Payments System Law (Law 15/2026) | [Implemented](https://clubofmozambique.com/news/mozambiques-new-national-payments-system-bill-on-its-way-to-parliament/) | Enacted 2026-07-02, replacing the regime in force since 2008 |
 | Notice 2/GBM/2026 on National Switch connection and outage reporting | [Implemented, in force 90 days after publication](https://clubofmozambique.com/news/mozambique-financial-institutions-have-60-minutes-to-report-failures/) | Notice text now held: published Boletim I Serie n. 103, 2 June 2026, signed 14 May 2026 |
 | Implementing regulations for Law 15/2026 | ***Not held*** | — |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil registration and population register services tender | [In development](https://www.biometricupdate.com/202601/mozambique-seeks-expert-services-to-support-mass-birth-id-registration) | Bids closed 2026-02-05 |
 | Free birth registration campaign 2026 | [Implemented](https://clubofmozambique.com/news/mozambique-government-launchs-free-birth-registration/) | Launched 2026-03-23, running to 2026-12-31 |
@@ -132,14 +135,14 @@ The hosting estate is mostly commercial. Two carrier-neutral facilities and a un
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Health Strategy 2025-2034 | [Implemented](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/) | Recorded as the operative national digital health instrument, July 2026 |
 | National health management information system | [In development, consolidating on the integrated electronic medical record SIS-RME](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf) | Architecture set in the bilateral health memorandum signed 2025-12-15, with a minimum viable SIS-RME targeted for September 2026 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Citizen Portal | [In development](https://mznews.co.mz/en/governo-digitaliza-mais-de-cem-servicos-publicos-com-prioridade-para-passaportes-e-cartas-de-conducao/) | Prototype in completion, experimental phase due late August to early September 2026 |
 | CloudGov (INAGE government file storage platform) | [Implemented](https://www.inage.gov.mz/?p=2697) | Announced by INAGE, developed for cross-institution rollout, framed as a COVID-19 response |
@@ -152,14 +155,14 @@ The hosting estate is mostly commercial. Two carrier-neutral facilities and a un
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Municipal revenue and property-tax management system | [Implemented](https://www.pdul.gov.mz/content/download/513/2779/file/Avaliacao%20Rapida%20do%20SIGEF%20Municipal.pdf) | SISPGIA (built 2009, Maputo municipality) named in a 2020 PDUL rapid assessment of municipal financial-management information systems |
 | Projecto Municipio Digital | [In development](https://jornalnoticias.co.mz/destaque/digitalizacao-moderniza-gestao-municipal-no-pais/) | Memorandum of understanding signed 2025-02-21 across 65 municipalities |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fifth General Population and Housing Census | [In development](https://jornalnoticias.co.mz/destaque/mais-de-200-jovens-recebem-formacao-para-o-censo-piloto/) | Pilot census launched in Magude district 2026-08-01, running to 2026-08-15 |
 | MOZDATA microdata catalogue (INE) | [Implemented](https://mozdata.ine.gov.mz/index.php/catalog) | 79 statistical operations catalogued as of 2026-08-08, all licensed access, not open download |
@@ -168,7 +171,7 @@ The hosting estate is mostly commercial. Two carrier-neutral facilities and a un
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ANGOSAT-2 connectivity via the Boane earth station | [Piloting](https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity) | Station technically integrated and receiving signals; operational tests under way |
 | Starlink terminals in disaster response | [Implemented](https://clubofmozambique.com/news/starlink-vodacom-bring-hope-to-flood-hit-mozambique/) | Donated terminals deployed at accommodation and coordination centres |
@@ -188,7 +191,7 @@ Under the bilateral health memorandum the government owns and operates [SIS-RME 
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber Security Law (Law 13/2026) | [Implemented, in force 2026-09-29](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | Published in the Boletim da Republica 2026-07-01; in force 2026-09-29 |
 | Cyber Security Law implementing regulations | [Planned](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | Due within 180 days of publication under Law 13/2026 |
@@ -200,7 +203,7 @@ Under the bilateral health memorandum the government owns and operates [SIS-RME 
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Transformation and Innovation Agency | [Implemented](https://www.biometricupdate.com/202603/mozambique-sets-up-agency-to-spearhead-its-digital-transformation-ambitions) | Created by the Council of Ministers, chair appointed March 2026 |
 | Multisectoral Technical Commission for Digital Transformation | [Implemented](https://www.biometricupdate.com/202603/mozambique-sets-up-agency-to-spearhead-its-digital-transformation-ambitions) | Created by decree 2026-03-10 |
@@ -210,7 +213,7 @@ Under the bilateral health memorandum the government owns and operates [SIS-RME 
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Angola-Mozambique space and communications memoranda | [Implemented](https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity) | Two memoranda signed at the 5th National Communications Conference |
 | Malabo Convention on Cyber Security and Personal Data Protection | [Implemented](https://www.uneca.org/eca-events/sites/default/files/resources/documents/TICID/data-governance-framework-mozambique/en_project_inception_report_mozambique_data_governance_framework.pdf) | Ratified 2019 |
@@ -219,7 +222,7 @@ Under the bilateral health memorandum the government owns and operates [SIS-RME 
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic Government Systems Interoperability Regulation | [Implemented](https://techafricanews.com/2025/12/05/mozambique-prioritizes-data-governance-as-cornerstone-of-digital-sovereignty/) | Review completed, reported 2025-12-04 |
 | Public device-identity verification platform | [Implemented](https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/) | Public notice, platform live 2026-08-04 |
@@ -227,7 +230,7 @@ Under the bilateral health memorandum the government owns and operates [SIS-RME 
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Sharing Agreement under the health memorandum | [Implemented, text not published](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf) | Signed 2025-12-15, not annexed to the memorandum |
 | National data protection authority | [Planned](https://www.techhiveadvisory.africa/insights/review-of-mozambiques-proposed-personal-data-protection-law) | Provided for in the draft law only |
@@ -237,7 +240,7 @@ Under the bilateral health memorandum the government owns and operates [SIS-RME 
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open data portal | ***Not held*** | — |
 
@@ -255,7 +258,7 @@ A Data Sharing Agreement and a Specimen Sharing Agreement were signed the same d
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Intellectual Property Policy and Strategy 2026-2035 | [Implemented](https://360mozambique.com/development/mozambique-approves-ip-strategy-to-study-ai-patentability-and-digital-rights/) | Approved by Council of Ministers Resolution 53/2026 of 30 June |
 | ITU artificial-intelligence sandbox participation | [Implemented](https://techafricanews.com/2026/05/25/mozambique-presents-draft-national-ai-strategy-at-itu-workshop-in-kenya/) | Named by the ITU as an implementing country |
@@ -265,39 +268,39 @@ A Data Sharing Agreement and a Specimen Sharing Agreement were signed the same d
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital operator licence categories for data centres and cloud platforms | [Planned](https://techafricanews.com/2026/06/08/mozambique-issues-first-licenses-to-digital-operators-in-major-regulatory-milestone/) | Extension announced by INTIC at the first licensing ceremony |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National innovation and research funding programme | ***Not held*** | — |
 | Start-up act | ***Not held*** | — |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | SpaceX partnership talks | [Planned, exploratory only](https://techafricanews.com/2026/07/06/mozambique-explores-strategic-partnership-with-spacex-to-advance-digital-economy/) | Meeting between the Minister of Economy and SpaceX representatives |
 | United States bilateral health cooperation memorandum | [Implemented](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf) | Signed at Washington 2025-12-15 for activities running 2026-04-01 to 2030-12-31 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese-supplied city surveillance deployment | [Implemented](https://www.ids.ac.uk/publications/smart-city-surveillance-in-africa-mapping-chinese-ai-surveillance-across-11-countries/) | Research report published March 2026 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India-Mozambique digital or technology cooperation agreement | [Implemented](https://www.mea.gov.in/Portal/ForeignRelation/India-Mozambique-April-2025.pdf) | Indian Ministry of External Affairs bilateral brief names an Information Technology Park delivered under an Indian concessional Line of Credit |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital or data-centre investment agreement | ***Not held*** | — |
 
@@ -315,27 +318,27 @@ The bilateral health memorandum of 15 December 2025 [plans United States support
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Financial Inclusion Strategy 2025-2031 | [Implemented](https://clubofmozambique.com/news/mozambique-e-money-accounts-have-grown-to-109-8-of-the-total-adult-population-government/) | Launched in Maputo 2025-08-06 |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Financial education programme under the financial inclusion strategy | ***Not held*** | — |
 | National digital literacy programme or strategy | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital skills curriculum under the European Union digital programme | [Implemented](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx) | Pilot training delivered and assessments completed, reported on the ITU project page captured 2026-08-08 |
 | European Union education and skills agreement | [Planned](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en) | Signed at the Mozambique-European Union Business Forum 2026-06-09 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Research and education network governance transfer | [Planned](https://clubofmozambique.com/news/mozambique-govt-wants-universities-involved-in-protecting-against-cyberattacks/) | Proposed by the communications minister at the university data-centre inauguration |
 
@@ -347,7 +350,7 @@ Access points grew and the composite measure did not move. The central bank's Fi
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital transformation agreement | [Planned](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en) | Signed at the Mozambique-European Union Business Forum 2026-06-09 |
 | Laying the Foundation for VaMoz Digital | [Implemented](https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9MOZ23005) | Running 2023-07-01 to 2027-04-01 |
@@ -364,7 +367,7 @@ Access points grew and the composite measure did not move. The central bank's Fi
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber Security Fund appropriation | [Planned](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | No appropriation line found in the FY2026 final maps |
 | State budget information technology and digital appropriation lines | [Implemented](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais) | PESOE 2026 final maps, Mapas E and H |

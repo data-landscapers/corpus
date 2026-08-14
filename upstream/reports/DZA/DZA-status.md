@@ -1,14 +1,15 @@
 ---
 title: Algeria — digital transformation and data governance status report
-compiled: 2026-08-12
+compiled: 2026-08-14
 place: DZA
 ledger_rows: 102
 not_held: 7
+record: ebdb5bef590f
 ---
 
 # Algeria: status report
 
-*Compiled 2026-08-12 from the Data Landscapers source base, from `outputs/reports/DZA/ledger.csv` (102 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/DZA/ledger.csv` (102 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ The national portal held 21 services in 2026-07 against targets of 62 by end-202
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | "All Fiber" national fibre programme (copper phase-out) | [In development](https://www.echoroukonline.com/%D8%B2%D8%B1%D9%88%D9%82%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85) | Copper replacement targeted end-2026/early 2027 |
 | 4G base-station expansion (345 new stations, 44 wilayas) | [In development](https://www.ecofinagency.com/news-digital/1802-53004-algeria-s-state-owned-telecom-plans-345-new-4g-stations-nationwide) | 345 stations announced 2026-02-18 |
@@ -40,7 +41,7 @@ The national portal held 21 services in 2026-07 against targets of 62 by end-202
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CERIST research cloud platform and incubator | [Implemented](https://www.wearetech.africa/en/fils-uk/news/algeria-launches-cloud-drone-and-incubator-platforms-to-drive-innovation) | Platform and incubator launched 2025-03-26 |
 | National Digital Services Centre (Mohammadia and Blida, active-active) | [Implemented](https://www.echoroukonline.com/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%A8%D9%88%D9%86-%D9%8A%D9%8F%D8%AF%D8%B4%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%AE%D8%AF%D9%85) | Inaugurated 2026-07-05 |
@@ -49,13 +50,13 @@ The national portal held 21 services in 2026-07 against targets of 62 by end-202
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power supply and resilience for the data-centre and network estate | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ASSI — Information Systems Security Agency (Ministry of National Defence) | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-adopts-2025-2029-national-cybersecurity-strategy) | First attested act 2026-03-03 |
 | Child online-protection cyber-vigilance cell (green line 1111) | [Implemented](https://www.echoroukonline.com/%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AD) | Green line 1111 opened 2026-06-01 |
@@ -76,13 +77,13 @@ Presidential Decree 26-07, gazetted in [*Journal officiel* n° 04 of 2026-01-18]
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National interoperability system (Decree 25-320, art. 10) | [In development](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf) | Decree 25-320 art. 10, gazetted 2025-12-30 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | All-digital vehicle registration | [Implemented](https://www.elmoudjahid.dz/fr/actualite/immatriculation-des-vehicules-passage-au-tout-numerique-des-aujourd-hui-250065) | Third phase live 2026-04-05 |
 | DGSN-UK Home Office biometrics and digital-forensics MoU | [Implemented](https://www.biometricupdate.com/202511/algeria-to-get-uk-support-on-digital-forensics-biometrics-for-policing) | Signed 2025-11-21 |
@@ -92,7 +93,7 @@ Presidential Decree 26-07, gazetted in [*Journal officiel* n° 04 of 2026-01-18]
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital-bank licensing (Instruction 02-2025) and KYC (Instruction 04-2026) | [Implemented](https://www.elmoudjahid.dz/fr/actualite/dispositif-kyc-la-banque-d-algerie-prepare-une-nouvelle-instruction-251312) | Instruction 04-2026 on KYC, 2026-04-30 |
 | Domestic instant payment system (Bank of Algeria) | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-to-launch-instant-payment-system-for-faster-more-efficient-transactions) | Announced 2024-10; no launch date |
@@ -105,7 +106,7 @@ Presidential Decree 26-07, gazetted in [*Journal officiel* n° 04 of 2026-01-18]
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AMLAK electronic land-title system | [Implemented](https://www.ecofinagency.com/news-digital/1301-51891-algeria-launches-nationwide-rollout-of-amlak-electronic-land-system) | Nationwide rollout 2026-01-13 |
 | CNAS electronic health card for the uninsured | [Implemented](https://www.echoroukonline.com/cnas-une-carte-electronique-pour-les-personnes-sans-couverture-sociale) | Issued under Decree 24-187 from 2026-01-21 |
@@ -115,7 +116,7 @@ Presidential Decree 26-07, gazetted in [*Journal officiel* n° 04 of 2026-01-18]
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Automated water-meter reading pilot (SEAAL with OTEC/Omantel) | [Planned](https://techafricanews.com/2026/07/30/omantel-expands-regional-digital-footprint-with-algeria-smart-water-partnership/) | MoU signed 2026-07-30 |
 | Four higher-education digital platforms | [Implemented](https://techafricanews.com/2026/02/25/algeria-launches-four-new-digital-platforms-to-modernise-higher-education-sector/) | Launched 2026-02-24 |
@@ -131,7 +132,7 @@ Presidential Decree 26-07, gazetted in [*Journal officiel* n° 04 of 2026-01-18]
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Apostille e-legalisation platform | [Implemented](https://www.elmoudjahid.dz/fr/actualite/legalisation-des-documents-destines-a-l-etranger-l-apostille-desormais-accessible-en-ligne-255359) | Live 2026-07-09 |
 | Bawabatak public-services portal | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-launches-dzair-services-to-centralize-public-digital-platforms) | 342 services (2025-10) |
@@ -141,19 +142,19 @@ Presidential Decree 26-07, gazetted in [*Journal officiel* n° 04 of 2026-01-18]
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Municipal digitalisation ("electronic municipalities") | [In development](https://doi.org/10.56334/sei/8.12.46) | Only account on file is academic (2025) |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Published official telecom and digital statistics series | [Implemented](https://www.arpce.dz/en/file/q6i1l8) | ARPCE annual report for 2024, figures as at 2024-12-31 |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Alsat-3A and 3B high-resolution Earth-observation satellites | [Implemented](https://www.echoroukonline.com/le-general-darmee-said-chanegriha-suit-loperation-de-lancement-du-deuxieme-satellite-alsat-3b) | 3B launched 2026-01-31 |
 
@@ -173,7 +174,7 @@ One official statistical release is held: the regulator's annual report for 2024
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic online-platform regulation (local presence, takedown, data residency) | [In development](https://www.wearetech.africa/fr/fils/actualites/tech/algerie-vers-une-regulation-stricte-de-tiktok-facebook-et-youtube) | Deposited at the APN 2025-10-30 |
 | Law 18-05 on electronic commerce | [Implemented](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6) | In force; compliance assessed 2026-08-04 |
@@ -182,14 +183,14 @@ One official statistical release is held: the regulator's annual report for 2024
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Algeria 2030 (National Digital Transformation Strategy) | [Implemented](https://www.echoroukonline.com/algeria-candidate-for-digital-leadership-in-africa-by-2030) | Published 2025-05-13 |
 | High Commission for Digitalisation (Decree 23-314) and its scientific committee | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-appoints-expert-panel-to-accelerate-digital-overhaul) | Scientific committee launched 2025-10-23 |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 50-in-5 digital public infrastructure campaign membership | [Implemented](https://techreviewafrica.com/news/4649/algeria-joins-50in5-initiative-pledges-to-strengthen-africas-digital-public-infrastructure) | Joined 2026-03-30 |
 | Algiers Declaration on African telecommunications sovereignty and integrated connectivity (2026-2030) | [Implemented](https://techreviewafrica.com/news/4639/african-ministers-adopt-algiers-declaration-on-telecommunications-sovereignty-and-connectivity) | Adopted 2026-03-30 |
@@ -199,14 +200,14 @@ One official statistical release is held: the regulator's annual report for 2024
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | eSIM adoption | [In development](https://techafricanews.com/2025/10/15/algeria-moves-toward-esim-integration-to-advance-digital-transformation/) | Adoption under way from 2025-10 |
 | National accreditation and conformity network and its GEOLAB platform | [In development](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ) | Announced 2026-07-23 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | ANPDP deliberation treating images as personal data | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques) | Deliberation issued 2026-07-15 |
 | ANPDP — national data-protection authority | [Implemented](https://www.elmoudjahid.dz/fr/actualite/conservation-des-donnees-personnelles-l-anpdp-exige-le-respect-de-la-loi-244968) | Compliance push from 2025-12 |
@@ -215,13 +216,13 @@ One official statistical release is held: the regulator's annual report for 2024
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Italy telecommunications and postal cooperation MoU | [Implemented](https://techreviewafrica.com/news/2553/algeria-and-italy-hold-bilateral-cooperation-in-technology-during-presidential-visit) | Signed 2025-07-28 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data policy or portal | ***Not held*** | — |
 
@@ -243,7 +244,7 @@ Algeria signed at Shanghai on 2026-07-16 as a founding member of a new world art
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI learning-pathway assistant and marking model in higher education | [Planned](https://www.echoroukonline.com/إطلاق-المسار-التعليمي-الشخصي-للطالب-ب) | Announced for the 2026-2027 academic year |
 | AVENTURE CloudZ sovereign AI cloud (Djezzy) | [Implemented](https://techafricanews.com/2026/04/30/djezzy-unveils-ai-cloud-platform-in-landmark-partnership-with-algeria-venture-and-taubyte/) | Launched 2026-04-30 |
@@ -253,14 +254,14 @@ Algeria signed at Shanghai on 2026-07-16 as a founding member of a new world art
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | FNI national technology hub (with Djezzy, IT-DEV, Inet, Smart Test) | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-s-state-fund-backs-new-tech-hub-to-modernize-public-sector) | Agreement signed 2025-09-16 |
 | Payment-terminal manufacture and servicing (ENIE) | [Implemented](https://www.echoroukonline.com/%D8%A8%D8%B7%D9%84%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A5%D9%8A%D9%86%D9%8A-%D8%AA%D9%86%D8%AA%D8%AC-1-6-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%87%D8%A7%D8%B2-%D8%AF) | GIE Monetique accreditation, reported 2026-07-31 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI and cybersecurity startup cluster, Sidi Abdellah | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-unveils-first-ai-and-cybersecurity-start-up-cluster) | Opened 2026-04-18 |
 | Startup IPO-fee waiver to 2028 | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-waives-ipo-fees-for-startups-until-2028) | Waived to 2028, from 2026-02-03 |
@@ -269,13 +270,13 @@ Algeria signed at Shanghai on 2026-07-16 as a founding member of a new world art
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese-supplied smart-city and AI surveillance systems | ***Not held*** | — |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India digital cooperation | ***Not held*** | — |
 
@@ -295,14 +296,14 @@ No deployed surveillance technology is established: Algeria appears in an academ
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Universal-service programme for low-density areas | [In development](https://www.echoroukonline.com/%D8%B2%D8%B1%D9%88%D9%82%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85) | 1,400 areas in the first phase (2026-05) |
 | Local content hosting and traffic localisation | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | "7.77" National Digital Empowerment programme | [Implemented](https://techreviewafrica.com/news/5502/algeria-launches-national-digital-empowerment-programme-targeting-citizens-aged-7-to-77) | 64,508 registrations (2026-05) |
 | Information-security officer (RSSI) training, Sidi Abdellah | [Implemented](https://www.elmoudjahid.dz/fr/actualite/cybersecurite-et-souverainete-numerique-les-rssi-en-premiere-ligne-253024) | Second cohort 2026-06 |
@@ -310,7 +311,7 @@ No deployed surveillance technology is established: Algeria appears in an academ
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | High Council of Scientists (Presidency) | [Implemented](https://www.echoroukonline.com/creation-de-deux-importantes-structures-sous-la-tutelle-de-la-presidence-de-la-republique) | Installed 2026-06-20 |
 | Virtual-education AI innovation centre | [Implemented](https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1) | Opened 2026-06-08 |
@@ -327,21 +328,21 @@ Fewer than 10% of merchants operate a terminal (GIE Monétique, cited [2026-05](
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | African Startup and Young Innovators Financing Fund | [Implemented](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups) | US$1bn committed 2025-10-21 |
 | Algeria Venture and the National Startup Fund | [Implemented](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups) | First fund exit, VOLZ (2025-12) |
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral telecom and ICT cooperation with Tunisia and Niger | [Implemented](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/) | Fourth joint commission with Tunisia 2026-06 |
 | Oman digital-cooperation track (MTCIT and Oman Investment Authority) | [Planned](https://www.echoroukonline.com/الجزائر-وسلطنة-عمان-تبحثان-تعزيز-التع) | Meeting 2026-07-26; no instrument concluded |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | State budget allocation to digitalisation and ICT | ***Not held*** | — |
 

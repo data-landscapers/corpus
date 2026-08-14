@@ -1,14 +1,15 @@
 ---
 title: Somalia — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: SOM
-ledger_rows: 50
+ledger_rows: 51
 not_held: 10
+record: d12ce6bbf11a
 ---
 
 # Somalia: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/SOM/ledger.csv` (50 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SOM/ledger.csv` (51 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,28 +27,28 @@ The unsettled questions are political rather than technical: two member states d
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Starlink satellite service | [Implemented](https://www.hiiraan.com/news4/2025/Aug/202463/starlink_launches_in_somalia_bringing_satellite_internet_to_rural_areas_and_narrowing_the_digital_divide.aspx) | Available nationwide from August 2025, four months after licensing |
 | Submarine cable landings and their regulatory framework | [In development](https://www.hiiraan.com/news4/2026/Jun/205487/somalia_ifc_opens_first_technical_working_group_on_submarine_cable_infrastructure.aspx) | First submarine cable landing technical working group opened with the IFC, June 2026 |
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government data-hosting and cloud guidelines | [Planned](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Still at its November 2022 baseline against an April 2028 target |
-| Hormuud data centre estate | [Implemented](https://itweb.africa/article/hormuud-anchors-somalias-digital-economy/Olx4zMkaZozv56km) | Operator reported as investing in further solar-powered domestic capacity |
+| Hormuud data centre estate | [Implemented](https://www.telecompaper.com/news/hormuud-telecom-plans-to-build-more-green-data-centres--1521594) | Operator reported as investing in further solar-powered domestic capacity |
 | National Data Centre, Mogadishu | [In development](https://moct.gov.so/en/h-e-minister-mohamed-adam-moalim-ali-inspects-progress-of-the-national-data-center-construction/) | Reported nearing completion at a ministerial inspection, 6 May 2025 |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National IPv6 migration | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-upgrades-digital-infrastructure-to-bypass-global-ipv4-address-depletion) | Migration accelerated by the regulator and a National IPv6 Centre |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Cybersecurity Risk Management Framework | [Implemented](https://techafricanews.com/2026/07/21/somalia-launches-national-cybersecurity-risk-management-framework/) | Launched 21 July 2026, after a national consultation in April |
 | Somalia Computer Incident Response Team (SOMCIRT) | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center) | Opened by the Prime Minister, 7 March 2026 |
@@ -66,13 +67,13 @@ Cyber institutions were built within eighteen months. The [incident response tea
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Interoperability between government systems | [In development](https://wardheernews.com/digital-public-infrastructure-dpi-somalia-risks-repeating-old-mistakes-in-a-digital-form/) | Named as the central risk in a domestic analysis and in the DPI summit communique, April 2026 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Compulsory use of the national identity credential | [Implemented, contested](https://www.biometricupdate.com/202603/somalia-makes-biometric-digital-id-mandatory-for-inter-state-travel) | Enforced at Aden Adde airport for inter-state travel from March 2026 |
 | eAqoonsi mobile identity application | [Implemented](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx) | More than 50,000 downloads reported, April 2026 |
@@ -83,7 +84,7 @@ Cyber institutions were built within eighteen months. The [incident response tea
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EVC Plus mobile money | [Implemented](https://www.hiiraan.com/news4/2025/Aug/202622/hormuud_s_evc_plus_earns_gsma_re_certification.aspx) | GSMA Mobile Money re-certified, August 2025 |
 | Somalia Instant Payment System (SIPS) | [Implemented](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) | Central Bank set out the integration sequence, 26 July 2026 |
@@ -91,38 +92,39 @@ Cyber institutions were built within eighteen months. The [incident response tea
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Unified digital civil registration system | [Piloting](https://www.opencrvs.org/about-us/country-stories/somalia) | Unified system documented on OpenCRVS, January 2026 |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic Immunization Register | [Piloting](https://www.hiiraan.com/national4/2026/Feb/204540/somalia_expands_digital_public_infrastructure_dpi_for_child_immunization_in_mogadishu_.aspx) | Piloted in 14 Banadir facilities with scaling to more than 80 planned |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital voter registration | [In development](https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512) | Equipment unveiled by the electoral commission, March 2025 |
 | National job portal | [Implemented](https://www.hiiraan.com/news4/2026/Feb/204522/somalias_national_job_portal_becomes_a_test_case_for_digital_public_infrastructure_dpi.aspx) | Launched as a centralised, domestically hosted platform |
+| National Single Window | [Planned](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx) | Named as planned within the HoA DRIVE Somalia project, 3 August 2026 |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural digital data capture | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | SUMER revenue collection terminals (Hirshabelle) | [Implemented](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem) | Tariff-loaded terminals deployed at state border checkpoints |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Earth observation or geospatial data programme | ***Not held*** | — |
 
@@ -140,25 +142,25 @@ Service platforms are arriving one at a time: a [domestically hosted national jo
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybersecurity Law | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats) | Approved by Parliament, 26 January 2026 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Transformation Strategy 2025-2030 | [In development](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support) | Finalisation under way with ITU support, October 2025 |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Connection to the Pan-African Payment and Settlement System | [Planned](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) | Stated by the Central Bank as a target for before the end of 2026 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection Act (Law 005/2023) | [Implemented](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations) | In effect since 23 March 2023, with implementing regulations reviewed |
 | Data Protection Authority | [Implemented](https://techafricanews.com/2026/06/02/somalia-data-protection-authority-enforces-nationwide-data-compliance-rules/) | First nationwide enforcement step: mandatory registration under Article 32, June 2026 |
@@ -167,19 +169,19 @@ Service platforms are arriving one at a time: a [domestically hosted national jo
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public debate on digital policy | ***Not held*** | — |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation with Somalia | ***Not held*** | — |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Open government data | ***Not held*** | — |
 
@@ -197,33 +199,33 @@ One regulatory position is aimed outward. The regulator has [asked Meta to delay
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Somali National University AI Centre | [Implemented](https://techafricanews.com/2026/07/20/somali-national-university-launches-ai-centre-to-advance-research-and-digital-innovation/) | Launched by the university, July 2026 |
 | National artificial intelligence policy | ***Not held*** | — |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National e-commerce strategy | [Planned](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Still at its November 2022 baseline against an April 2028 target |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National startup network | [Implemented](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/) | Unveiled at the innovation forum in Mogadishu, 22 July 2026 |
 | Regulator partnership with iRise Hub | [Planned](https://techreviewafrica.com/news/6182/somalias-nca-signs-partnership-agreement-with-irise-hub) | Memorandum signed, 30 July 2026 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese digital cooperation with Somalia | ***Not held*** | — |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital cooperation with Somalia | ***Not held*** | — |
 
@@ -237,26 +239,26 @@ The innovation layer is donor-built and new. A [national startup network was lau
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Smartphone financing programme | [Implemented](https://www.connectingafrica.com/digital-inclusion/hormuud-get-phone-launch-smartphone-financing-program-in-somalia) | Launched by Hormuud with Get-Phone, May 2026 |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital literacy programmes | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Certified cybersecurity training for government ICT staff | [Implemented](https://www.wearetech.africa/en/fils-uk/news/somalia-rolls-out-certified-cybersecurity-program-for-government-ict-staff) | Internationally certified courses run in Mogadishu and Nairobi, March to May 2026 |
 | Fixed asset management training (Somaliland administration) | [Implemented](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/) | Training launched, 4 August 2026 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | University research partnership on official microdata | [Piloting](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/) | Three-day technical workshop closed with three partner universities, July 2026 |
 
@@ -270,14 +272,14 @@ Capacity work is thin and mostly donor-run. Government ICT staff took [internati
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Eastern Africa Regional Digital Integration Project, Somalia component | [Implemented, under implementation](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Seventh implementation report; a mid-term review held January to April 2026 raised the development-objective rating from Moderately Unsatisfactory to Moderately Satisfactory |
 | World Bank financing for the digital identity rollout | [Implemented](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative) | Officials put the remaining cost of completing the rollout at about US$125m, January 2026 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic budget appropriations for the digital sector | ***Not held*** | — |
 
