@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: EGY
 ledger_rows: 72
 not_held: 54
-record: 2e21180ea75e
+record: 2dfbf630d1bd
 ---
 
 # Egypt: monthly update, July 2026
@@ -73,7 +73,7 @@ Two further services opened: the Public Prosecution began returning, through the
 ### Rural digital data capture
 
 <!-- narrative: dpi--digital-rural -->
-The rural fibre programme reports [about 5 million lines across more than 1,250 of 1,450 phase-one villages](https://itweb.africa/article/egypt-deepens-world-bank-digital-partnership/Pero3qZ31RYvQb6m) in 52 markazes across 20 governorates, with 75% of village service complexes connected. No completion date for the remaining 200 villages is stated anywhere held, and a 2024 account of the same programme uses a 4,500-village denominator the base does not reconcile with 1,450.
+The rural fibre programme reports [about 5 million lines across more than 1,250 of 1,450 phase-one villages](https://itweb.africa/article/egypt-deepens-world-bank-digital-partnership/Pero3qZ31RYvQb6m) in 52 markazes across 20 governorates, with 75% of village service complexes connected. No completion date for the remaining 200 villages is stated anywhere held, and [a 2024 account of the same programme uses a 4,500-village denominator](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) the base does not reconcile with the 1,450 above.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 

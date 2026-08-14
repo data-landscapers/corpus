@@ -152,11 +152,25 @@ def unprovenanced(block):
     slug or an inline URL" — and its scope rule is the one applied: check the prose that has no
     provenance machinery of its own. The tables have theirs, in checks M and G.
 
-    **The block is the unit, not the sentence.** A block carrying citations is sourced prose, and
-    asking which of them covers which figure is the fact-check this deliberately is not."""
-    if CITED.search(block):
-        return []
-    return [f for f in dict.fromkeys(FIGURE.findall(block)) if not YEAR.match(f.strip())]
+    **The sentence is the unit, not the block** *(Bill, 2026-08-14)*. It began as the block, on the
+    ground that a block carrying citations is sourced prose. That was too loose: a paragraph whose
+    opening sentence is linked does not source the three that follow it, and the failure clusters
+    in summary blocks, which restate facts drafted elsewhere and leave their citations behind. Of
+    the figures in cited blocks but uncited sentences, a third had no cited sentence anywhere near
+    them — `Parliament approved a rectificative budget … at CVE 103,888 million` standing alone —
+    and the rest were mostly new claims sheltering under the previous sentence's link rather than
+    continuations of it.
+
+    It still asks only **that a source exists for the sentence**, never that the figure matches
+    what the source says. A sentence with no figure in it is not examined at all, so a statement of
+    what the base does not hold, and the one connecting sentence the register allows, pass
+    untouched."""
+    out = []
+    for s in re.split(r"(?<=[.;])\s+", block.strip()):
+        if CITED.search(s):
+            continue
+        out += [f for f in dict.fromkeys(FIGURE.findall(s)) if not YEAR.match(f.strip())]
+    return list(dict.fromkeys(out))
 
 
 def check_file(path, budget):

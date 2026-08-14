@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: TGO
 ledger_rows: 29
 not_held: 39
-record: 9eff5323854b
+record: b831dde8c19c
 ---
 
 # Togo: monthly update, July 2026
@@ -43,7 +43,7 @@ Payments moved on a deadline. Retirement allowances [began paying by bank transf
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-The [second national birth-registration catch-up campaign opened at Agbandi on 31 July](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/), targeting a further 6,461 children across 25 communes and taking the two campaigns to 11,461. The same report carries the funder's figure of nearly 7,400 for the same campaign, and the two are not reconciled.
+The [second national birth-registration catch-up campaign opened at Agbandi on 31 July](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/), targeting a further 6,461 children across 25 communes and taking the two campaigns to 11,461. The same report [carries the funder's figure of nearly 7,400 for the same campaign](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/), and the two are not reconciled.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
