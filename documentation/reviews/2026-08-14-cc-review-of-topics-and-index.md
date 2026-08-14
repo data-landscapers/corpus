@@ -1,6 +1,8 @@
 # CC review — topic reports, the `index/` correction and the wiki junction (2026-08-14)
 
-*(Written from Claude Code on Bill's machine, reviewing Cowork's work of this afternoon. Bill's process: Cowork designs, CC reviews operationally. **Nothing was changed in response to this review** — it reports findings and leaves the decisions to Bill. Commits `44c76d5..8d1317f` plus the whole of `documentation/topic-reports.md`, which Bill flagged as complete; `STATUS-INIT.md` deliberately not reviewed, at his instruction, until tomorrow.)*
+*(Written from Claude Code on Bill's machine, reviewing Cowork's work of this afternoon. Bill's process: Cowork designs, CC reviews operationally. Commits `44c76d5..8d1317f` plus the whole of `documentation/topic-reports.md`, which Bill flagged as complete; `STATUS-INIT.md` deliberately not reviewed, at his instruction, until tomorrow.)*
+
+*(**Written as findings, then actioned on Bill's instruction** — "would it be easier for you to fix this mess" — in commits `a977616..c31e06d`. The findings below stand as written, unedited; **What was done** at the end says what happened to each and what is left. Two things were Bill's to decide and were put to him: the topic progress report carries movement tables and no prose, and the `outputs/places/` rename is deferred.)*
 
 Everything below was checked against the code and the current `outputs/` rather than read off the documents. The counts are reproducible from the repo as it stands at `8d1317f`.
 
@@ -73,3 +75,25 @@ The rest of the topic design holds up against the data. There are 57 units and e
 **The standing constraint's mechanism is wrong, though its requirement is right.** It says CORPUS reads OSINT's *committed* `HEAD` for `raw/`, `lookups/` and `wiki/`. It does not: every current reader goes through the `.workroot` junctions into OSINT's **working tree**, exactly as it does for `index/`. The only script that reads `HEAD` is `pull.py`, and what it reads is OSINT's `outputs/`, which the migration retired. Those three trees do still need to stay committed — for recoverability, for the mirror, and because an uncommitted working tree is the one state a rebuild cannot recover — but not for the reason given, and the paragraph now draws a distinction between `index/` and the other three that the code does not make.
 
 **Note 4's correction could go one step further.** Corpus never opens `vault.db` at all: `build_db()` is the only reference to it in `scripts/`, and it writes. Slug resolution runs `load_index()` → `files.jsonl`, which is rebuilt from scratch, so a deleted `raw/` record drops out of Corpus's read path at the next rebuild and cannot reach a Corpus citation. What the dangling slug endangers is a link **already published** in a downloaded PDF, which makes (a) a `raw/`-deletion policy question rather than an index one, and makes (b) sharper still: the DB is not on anyone's read path in Corpus, which is a strong argument that it has stopped earning its keep.
+
+## What was done
+
+Bill's instruction on reading the findings was to fix them. Everything below is committed; the two decisions were put to him rather than guessed.
+
+| | Finding | Outcome |
+|---|---|---|
+| 1 | Progress report has no per-subject block | **Decided by Bill:** the topic progress report carries movement tables and no prose. `topic-reports.md` rewritten to say so, in the design section and in step 1. |
+| 2 | `render.py` cannot parse a hyphenated unit | **Fixed** (`a843fba`). `parse_name()` splits from the right on a known kind; a new `tree_of()` takes the output tree from the source path, so `outputs/topics/…` renders to `site/topics/…`. Unit reports unchanged — verified by rendering `KEN-monthly` to a scratch tree and diffing the permalinks. |
+| 3 | 38 slugs, not 39 | **Fixed** (`9d687a3`). Both occurrences, and the render-set arithmetic now reads 165 → 241. |
+| 4 | Section overrides make the key underivable | **Fixed** (`9d687a3`). Step 1 reads the section off the ledger row and says what to do when a place holds several blocks for one subject. |
+| — | Wiki junction breaks index freshness | **Fixed** (`a977616`). `setup_workroot()` junctions every `INDEX_ROOTS` tree, generated from the constant rather than listed by hand, so the two can no longer drift apart. |
+| — | OSINT's index was built from Corpus's workroot | **Routed to OSINT** (`6aa5e62`), note 8. Not Corpus's to repair. |
+| — | "Corpus reads committed `HEAD`" | **Fixed** (`6aa5e62`, `91fd4fb`) in the standing constraint and in `migration-report-layer.md`; the requirement stands on its real reason. |
+| — | Note 4 could go further | **Fixed** (`6aa5e62`), as a dated addendum rather than an edit to the note. |
+| — | Tree rename | **Deferred by Bill.** It no longer blocks anything: `render.py` derives the tree from the path, so the topic stage can be written now and the rename made later without rework. |
+
+Two smaller things fixed in passing, both in `c31e06d`: RENDER Step 2's abort message said "matched no pattern above" when a render *failure* leaves the count short by the same amount, so it named one of two causes and printed a list that could only show the other; and the drafted RENDER text carried the same defect. The runbook now names both.
+
+**What is left, and it is the first thing tomorrow:** `python scripts/build-index.py` in an OSINT session. Until it runs, every Corpus render or check that resolves a citation exits with `ForeignIndex` — correctly, because the index on disk is missing 3,402 files and Corpus may not rebuild it. `BUILD.md`'s prerequisites now say so.
+
+Not reviewed, and untouched: `STATUS-INIT.md`, at Bill's instruction.
