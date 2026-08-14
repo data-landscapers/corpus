@@ -4,7 +4,7 @@ compiled: 2026-08-14
 place: SOM
 ledger_rows: 51
 not_held: 10
-record: bc4f56d73dd4
+record: d12ce6bbf11a
 ---
 
 # Somalia: status report
@@ -37,7 +37,7 @@ The unsettled questions are political rather than technical: two member states d
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Government data-hosting and cloud guidelines | [Planned](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Still at its November 2022 baseline against an April 2028 target |
-| Hormuud data centre estate | [Implemented](https://itweb.africa/article/hormuud-anchors-somalias-digital-economy/Olx4zMkaZozv56km) | Operator reported as investing in further solar-powered domestic capacity |
+| Hormuud data centre estate | [Implemented](https://www.telecompaper.com/news/hormuud-telecom-plans-to-build-more-green-data-centres--1521594) | Operator reported as investing in further solar-powered domestic capacity |
 | National Data Centre, Mogadishu | [In development](https://moct.gov.so/en/h-e-minister-mohamed-adam-moalim-ali-inspects-progress-of-the-national-data-center-construction/) | Reported nearing completion at a ministerial inspection, 6 May 2025 |
 
 ### Technical Capacity

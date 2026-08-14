@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: SOM
 ledger_rows: 52
 not_held: 10
-record: 0cf428e848d1
+record: 7876d34bc32a
 ---
 
 # Somalia: progress report, 2025-08-01 to 2026-08-14
@@ -39,7 +39,7 @@ In the twelve months to 9 August 2026 Somalia built more of its digital state th
 | System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Government data-hosting and cloud guidelines | None published | [None published (2026-06-16)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | No change |
-| Hormuud data centre estate | 11 data centres of about 10 MWh, the working private hosting base (2024-12) | [Further domestic capacity stated as under investment; no updated site count or load figure published (2026-06)](https://itweb.africa/article/hormuud-anchors-somalias-digital-economy/Olx4zMkaZozv56km) | No change |
+| Hormuud data centre estate | 11 data centres of about 10 MWh, the working private hosting base (2024-12) | [Further domestic capacity stated as under investment; no updated site count or load figure published (2026-06)](https://www.telecompaper.com/news/hormuud-telecom-plans-to-build-more-green-data-centres--1521594) | No change |
 | National Data Centre, Mogadishu | Under construction and described as nearing completion, not launched (2025-05) | [No launch recorded in the base as at 2026-08-09](https://moct.gov.so/en/h-e-minister-mohamed-adam-moalim-ali-inspects-progress-of-the-national-data-center-construction/) | No change |
 
 ### Technical Capacity

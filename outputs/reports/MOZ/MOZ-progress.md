@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: MOZ
 ledger_rows: 146
 not_held: 18
-record: bd8aabe2dcd7
+record: 208070448578
 ---
 
 # Mozambique: progress report, 2025-08-01 to 2026-08-14
@@ -73,7 +73,7 @@ Twenty-four rows carry no stated baseline. That is a fact about the record rathe
 
 | System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
-| MoRENet bandwidth capacity | 5 Gbps international bandwidth on a single route through South Africa (before 2025-10) | [60 Gbps international bandwidth over the AmLight-SACS South Atlantic link with two continental routes (2025-10-30), restated by the communications minister as funded for 15 years (2026-08-03); the national backbone that would distribute it to universities was still being expanded as at 2025-10-30](https://techafricanews.com/2026/08/06/mozambique-inaugurates-uem-data-center-to-advance-digital-transformation/) | Advanced |
+| MoRENet bandwidth capacity | 5 Gbps international bandwidth on a single route through South Africa (before 2025-10) | [60 Gbps international bandwidth over the AmLight-SACS South Atlantic link with two continental routes (2025-10-30), restated by the communications minister as funded for 15 years (2026-08-03); the national backbone that would distribute it to universities was still being expanded as at 2025-10-30](https://africarxiv.ubuntunet.net/bitstreams/9427cb02-feef-4b3f-b03b-84cb4efea3cb/download) | Advanced |
 | Mozambique Internet Exchange Point | ***Baseline not held*** | [143 Gbps of cumulative member port capacity, with no autonomous systems joining or leaving over the tracked period and no peak-traffic figure published; operator is CIUEM (Universidade Eduardo Mondlane), located in Maputo, Av. Julius Nyerere, founded May 2002, with 18 peers on the exchange's own site; its PeeringDB record has been stale since 2016](https://pulse.internetsociety.org/en/ixp-tracker/ixp/260/) | Advanced |
 | The .mz registry operator and registration volumes | Management and operation of the domain vested in the regulator, with no registry operator named and no registration volumes published | [Same at 2026-08-09](https://intic.gov.mz/wp-content/uploads/2024/03/mz-government-gazette-series-i-dated-2020-09-10-no-174.pdf) | No change |
 | MoRENet, the education and research network | ***Baseline not held*** | [Operated from the premises of the Ministry of Communications and Digital Transformation; the minister stated he wants it managed by the universities instead, with no transfer date, instrument or governance model named](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/) | ***Baseline not held*** |
