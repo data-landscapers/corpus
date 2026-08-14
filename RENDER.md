@@ -158,6 +158,8 @@ cmd /c C:\CORPUS\mirror.bat
 
 **Name the path in full.** Bare `mirror.bat` resolves only if the shell happens to be sitting in the repo root — true when a person types it after working there, false for a shell a session spawns, which is where it failed on 2026-08-13 with *"'mirror.bat' is not recognized"*. That failure is at least loud; the script itself is safe to call from anywhere, since it uses `%~dp0` for the FreeFileSync batch and absolute paths for both repos.
 
+**Run it from PowerShell, not from bash, and check the log line rather than the exit code** *(2026-08-14)*. In Git Bash the backslashes in an unquoted `C:\CORPUS\mirror.bat` are escape characters, so the word reaches `cmd` as `C:CORPUSmirror.bat`; `cmd` consumed no command, opened an interactive shell, and exited **0** having backed up nothing. That is the silent version of the failure above — a green exit and no mirror — and it is why the exit code alone cannot be trusted here. Use `& cmd /c "C:\CORPUS\mirror.bat"` from PowerShell, then confirm `logs\mirror_log.md` carries a line dated within the last few minutes. The absence of a fresh line is the real failure signal.
+
 It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` (which carries both repos and Bill's `Dropbox\Github`), and appends a dated line to `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and the FreeFileSync log.
 
 ## If something fails
