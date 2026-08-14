@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: TCD
 ledger_rows: 126
 not_held: 42
-record: 264c9767df56
+record: 66ca94a58821
 ---
 
 # Chad: progress report, 2025-08-01 to 2026-08-14
@@ -21,7 +21,7 @@ record: 264c9767df56
 ## Summary of the period
 
 <!-- narrative: summary -->
-_(narrative not yet written)_
+Chad's year is a state announcing obligations faster than it can publish the instruments that carry them. The 2027 budget orientations [bar any ministry from building a system incompatible with the existing platforms and require nine state functions to interconnect on a single identifier](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), with the electronic visa and online business creation to become exclusive channels — and the framing text is not held. Underneath, identity moved further than anything else: birth registration within the legal deadline is now measured at [48.33 per cent, with about 2.95m under-fives undeclared](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/), against a last-known 25.7 per cent in 2019, and a [campaign targeting a million children is in the field](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/). The [census closed its enumeration on 6 August only after an extension for sweeps](https://www.lepaystchad.com/45968-2/), with no results published. Forty-two rows are ***Not held***, and the largest single class is the state's own texts: the digital code, the data-protection statute, the frequency plan and the universal-service instrument are all unheld.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -69,7 +69,7 @@ _(narrative not yet written)_
 | National cybersecurity strategy | Work under way since December 2022, with no text | [Work under way, with no text, no adoption record and no publication](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency) | No change |
 
 <!-- narrative: infrastructure -->
-_(narrative not yet written)_
+Connectivity built and did not connect. The trans-Saharan backbone's Chadian section went from 32 to 60 per cent complete, the [exchange point passed a year of operation and constituted itself formally](https://www.digitalbusiness.africa/tchad-ladetic-celebre-un-an-du-point-dechange-internet-tchadix-bilan-et-perspectives/) with no traffic or membership figure published, and satellite service went from licensed-but-unsold to [on sale from July 2025 at FCFA 12,000 a month for 50 GB](https://portail.td/starlink-obtient-sa-licence-dexploitation-au-tchad-un-tournant-majeur-pour-lacces-a-internet/). Against that, the [order requiring both mobile operators to connect to the national fibre backbone passed its seven-day deadline with no recorded compliance](https://www.ecofinagency.com/news-digital/1302-52879-chad-plans-50-telecom-sites-50-km-of-fiber-in-n-djamena), and the minister was still encouraging one of them to connect eight months later. The national data centre completed its building and equipment and gained a [tripartite audit and certification agreement against critical-infrastructure standards](https://techafricanews.com/2026/02/06/adetic-ansice-and-techso-group-join-forces-to-protect-chads-digital-infrastructure). Satellite users are now [formally identified with the regulator or a licensed operator, giving full identity and residence](https://tchadinfos.com/2025/08/28/tchad-le-gouvernement-fixe-les-conditions-dutilisation-des-services-starlink/) — the year's clearest new obligation on the citizen. The national cybersecurity strategy has been under way since December 2022 and still has no text.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -152,7 +152,7 @@ _(narrative not yet written)_
 | Space cooperation protocol with a national space agency | Did not exist | [A memorandum only, covering spectrum and satellite-communications management and remote sensing for resource mapping, with no financing, hardware, date or deliverable; a follow-up delegation visited the digital agency in February 2026](https://tchad24.tv/numerique-le-tchad-et-azercosmos-signent-un-accord-spatial-historique/) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
-_(narrative not yet written)_
+Payments and identity both advanced on a base that is still not measured. Chad joined the [regional switch's traffic of 20.3m transactions worth FCFA 863bn in 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025), a regional QR standard came into force, a second operator took a full payment-institution licence, three thousand payment terminals were delivered with no deployment schedule, and the [standardised electronic invoice launched with exclusive use from 2027](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/). The 2026 mandate for exclusively electronic state payments was restated with a 2027 start, and nothing in the base shows the 2026 version operating. Identity moved from a register with no ministry interconnection to one framed as the intended single source of truth, with mass enrolment signed with an operator and [birth registration measured at 48.33 per cent within the legal deadline](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/) against 25.7 per cent in 2019. Service delivery is mostly promises: the electronic visa, fully online business creation and the integrated transport platform are all planned, the last with eleven months and no dated advance.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -201,7 +201,7 @@ _(narrative not yet written)_
 | Media regulator's three-year strategic plan for 2026-2028 | Not held | [In application, with the plan itself, its axes in full and its publication date not held](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) | ***Baseline not held*** |
 
 <!-- narrative: governance -->
-_(narrative not yet written)_
+The governance layer went backwards in one specific way. The security and electronic certification agency was reformed by ordinance to take a wider mandate, while the [general data-protection law and supervisory authority remain unenacted — the base holds no Chadian data-protection statute at any date](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards), so the security agency is empowered to administer a regime that has no independent supervisor. Against that, a [law on biometric data in judicial procedures was adopted](https://tchadinfos.com/2026/04/11/tchad-les-deputes-adoptent-a-une-large-majorite-la-loi-encadrant-les-donnees-biometriques-judiciaires/), covering collection, processing, retention, use and destruction — but only inside judicial and judicial-police procedures. The [digital code has no adopted text, number, promulgation date or gazette reference](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards), and the committee inaugurated to overhaul the sector's legal framework passed its forty-five-day deadline with no draft, report or text on record. The [media regulator suspended examination of applications to create online newspapers indefinitely, with no published criteria and no end date](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/). Chad signed the continental cyber convention in 2015 and has still neither ratified nor deposited it.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -240,7 +240,7 @@ _(narrative not yet written)_
 | Indian digital partnership | Talks only, with no memorandum | [Still no memorandum or instrument on file](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-tchad-explore-un-partenariat-avec-l-inde-dans-le-numerique) | No change |
 
 <!-- narrative: ai-tech -->
-_(narrative not yet written)_
+Almost nothing moved here. The [privatisation of the state telecommunications operator still has no advisory bank appointed](https://russellsouthwood.substack.com/p/waking-the-dead-slow-road-to-extinction), announced repeatedly since 2014; a third private mobile operator remains planned with nothing licensed; the fifth-generation platform request of 2024 is unchanged; and the [Indian digital partnership is still talks with no memorandum or instrument on file](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-tchad-explore-un-partenariat-avec-l-inde-dans-le-numerique). The one thing that did move is the United States work programme, which went from a single ministerial meeting to four agreed priority areas with nothing signed. The domestic telemedicine service is unchanged and no source in the window refreshes it.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -262,7 +262,7 @@ _(narrative not yet written)_
 | Youth digital innovation and employment training programme | Nothing held at the window's opening | [A first cohort of seventy-five in training against a target of 150, on tracks in digital craft and design and in embedded electronics and connected objects, with the funder supplying equipment and consumables](https://lendjampost.com/tchad-le-programme-d-clic-lance-une-nouvelle-generation-de-jeunes-innovateurs/) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-_(narrative not yet written)_
+Inclusion is where the smallest numbers do the most work. The francophone civil-registration project [registered more than 53,000 children in two provinces](https://www.biometricupdate.com/202508/la-francophonie-supports-birth-registration-efforts-across-central-africa-madagascar), and [hospital-based registration has reached more than 120,000 children since 2023 across ninety-seven digitised registration points](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps). Against about 2.95m undeclared under-fives, those are the working channels. [Refugee biometric identification is unchanged at more than 4,000 issued against a pilot target of 7,000](https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help), with no issuance figure after May 2025, and the refugee digital learning centre records no extension. Training is small and dated: one hundred and twenty young people in digital and financial inclusion, and a first cohort of seventy-five against a target of 150.
 <!-- /narrative -->
 
 ## Finance
@@ -286,7 +286,7 @@ _(narrative not yet written)_
 | Digital infrastructure partnership with a regional incumbent operator | Not held at the window's opening | [A technical delegation to Chad proposed to scope collaboration on backbone, fourth- and fifth-generation networks, cloud, digital financial services and device access; no memorandum and no value](https://techafricanews.com/2026/03/09/ethio-telecom-and-chad-explore-digital-infrastructure-partnership-at-mwc-barcelona/) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-_(narrative not yet written)_
+External money is committed and slow. The digital transformation project moved from committed-only to [US$12,220,932 disbursed](https://documents.worldbank.org/curated/en/099090624105035738), and a microfinance programme from nothing disbursed to a first drawdown. Three other operations — revenue-administration digitalisation, statistical development and the Chinese grant for the connectivity programme — are recorded unchanged across the whole window. What is new is a [business-climate and public-administration programme at pipeline stage, 90 per cent externally committed against a closing date of 31 January 2029](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-TD-K00-019%22). No domestic appropriation figure appears anywhere in the section.
 <!-- /narrative -->
 
 ## Where the record is thin
@@ -337,5 +337,5 @@ _(narrative not yet written)_
 | Cost of connectivity | A regulator tariff observatory or an affordability basket for Chad; the base holds only the satellite operator's own price card | not yet probed |
 
 <!-- narrative: gaps -->
-_(narrative not yet written)_
+Forty-two rows are ***Not held***, and they cluster into two kinds. The first is the state's own instruments — the national frequency plan and spectrum table, the universal-service fund's creating decree, the digital code's adopted text, and the data-protection statute. Each would be settled by one gazette, and Chad has no reachable online gazette, which is why the class is as large as it is. The second is delivery measurement: fibre kilometres and masts against the programme's stated targets, exchange-point peering volume, the retail price of internet access, and any 5G award or licensing plan. The pattern across both is that Chad's digital state is legible through announcements and almost nowhere through documents.
 <!-- /narrative -->
