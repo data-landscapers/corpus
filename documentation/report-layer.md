@@ -173,7 +173,15 @@ Every issued document carries `compiled:` and `record:` in its frontmatter, and 
 
 **No markdown filename carries a period** *(Bill, 2026-08-14)*. All three documents have stable names, and `period:` in the frontmatter says which issue a file currently holds. Versioning happens where a reader actually needs it: RENDER dates the PDF and the CSV, which are what a citation points at, and the HTML is not versioned because it is always the current document. A month in a markdown filename versioned the working file rather than the artefact, which is the wrong end.
 
-**The consequence is that the file at a path is the *current* issue, whichever month that is**, and everything read back off it must be qualified by which issue it turned out to be. `same_issue()` is that test — two documents are the same issue when their windows open on the same day — and it guards the two things that used to be safe for free. **Narrative is carried across only within an issue**: a sentence about what moved in July is not a sentence about what moved in August, and a new issue therefore starts with empty blocks. **A period is read back only within an issue**: otherwise August's evidence would be published under July's dates. Both were implicit in the dated filename; with a stable one they have to be stated and tested.
+**The consequence is that the file at a path is the *current* issue, whichever month that is**, and everything read back off it must be qualified by which issue it turned out to be. `same_issue()` is that test — two documents are the same issue when their windows open on the same day. **A period is read back only within an issue**, in both documents: otherwise August's evidence would be published under July's dates.
+
+**Narrative rolls differently in the two documents, because the two windows roll differently.**
+
+A **monthly** covers one month and shares nothing with the issue before it. Its marker ids are built from section and subject, so without a guard every block would match and July's prose would copy into August under August's headings — a document that reads as finished and is entirely the wrong month. A new monthly issue therefore **starts empty**. Nothing is lost, because there was nothing to inherit, and an unwritten section then fails check L loudly instead of publishing stale prose that no check can see is stale.
+
+A **progress report is a rolling twelve-month window**, and consecutive issues share eleven of their twelve months: the July issue opens 2025-08-01, the August issue opens 2025-09-01, one month ageing off the back as one arrives at the front. Its narrative **carries across**, and BUILD revises the ends — removing what has aged out, writing in what has arrived. Blanking it would throw away eleven months of still-valid writing every month and turn a monthly edit into a redraft of every unit.
+
+What that leaves is a sentence still describing the month that has just aged out, which is well-formed and which no check can catch. It is BUILD's to find when it revises — the reason the roll is an editing job and not a re-render.
 
 Prior issues live in git and in the dated artefacts RENDER writes. Nothing here is a source: reports are derived views, never cited by a wiki page, never re-ingested into OSINT.
 

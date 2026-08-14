@@ -324,12 +324,28 @@ def same_issue(path, start):
     return held_start == start
 
 
-def carry_from(path, start):
+def carry_from(path, start, rolling=False):
     """The path to carry narrative across from — the document itself, or nowhere.
 
-    A new issue starts with empty blocks. Prose is written about a period, and a sentence about
-    what moved in July is not a sentence about what moved in August; inheriting it silently would
-    be the worst kind of error, because the document would read as finished."""
+    **The two documents roll differently, and this is where that shows** *(Bill, 2026-08-14)*.
+
+    A **monthly** covers one month and shares nothing with the issue before it: August's prose is
+    not July's, and the marker ids are built from section and subject, so every block would match
+    and copy across. A new monthly issue therefore starts empty. That is not a loss — there was
+    nothing to inherit — and it makes an unwritten section fail check L loudly rather than publish
+    July's sentences under August's headings, which would pass every check there is.
+
+    A **progress** report is a rolling twelve-month window, so consecutive issues share eleven of
+    their twelve months: the July issue opens 2025-08-01 and the August issue opens 2025-09-01,
+    one month ageing off the back as one arrives at the front. Blanking it would throw away
+    eleven months of still-valid writing every month and force a redraft of every unit. It carries
+    across, and BUILD revises the ends — which is the editing job the rolling window implies, not
+    a fresh composition.
+
+    The risk that leaves is prose still describing the window that has just aged out, and no check
+    can see it: a stale sentence is well-formed. It is BUILD's to catch when it revises."""
+    if rolling:
+        return path
     return path if same_issue(path, start) else os.devnull
 
 
@@ -661,7 +677,7 @@ def render_progress(unit, today, month, window, end=None):
     start = month_bounds(month, window)[0]
     held_end = period_of(path)[1] if same_issue(path, start) else None
     start, end = month_bounds(month, window, end or held_end or today)
-    block, keep = blocker(carry_from(path, start))
+    block, keep = blocker(carry_from(path, start, rolling=True))
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     held = [r for r in ledger if stem(r["status"]) != NOT_HELD]
     name = place_name(unit)
