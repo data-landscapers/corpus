@@ -2,7 +2,7 @@
 
 The drafting outline for the country status output. Each `###` sub-section is one taxonomy Level-2 slug (`lookups/taxonomy.md`), and the question under it is what the section answers: **what is the current status of this, in this country, as at this date**. The bullets under the question are the breakdown of that question — the things that have to be established before the question can be answered.
 
-Each bullet carries the variable ids that answer it, from `lookups/status-indicators-africa-dpi.csv`. Those ids join directly to `lookups/africa-dpi-data.csv` on `Variable Id`, which holds a value, a year, a comment and source URLs for all 54 countries. Every id cited here is present in both files.
+Each bullet carries the variable ids that answer it, from `prep/status-indicators-africa-dpi.csv`. Those ids join directly to `prep/africa-dpi-data.csv` on `Variable Id`, which holds a value, a year, a comment and source URLs for all 54 countries. Every id cited here is present in both files.
 
 **An id may appear under more than one sub-section.** The taxonomy cross-lists by multi-tagging rather than by a single-parent partition, and the indicators behave the same way: `reg-cyber-cloud` answers a question in `infra.store`, another in `infra.cybersec` and another in `gov.legislate`. The mapping is a set of answers to questions, not a filing system.
 
@@ -540,7 +540,7 @@ Five indicators are proposed for each of the five actors, on a common frame, so 
 
 # Appendix — proposed indicators
 
-Sixty-two candidate indicators, in the schema of `lookups/status-indicators-africa-dpi.csv` (*Chapter · Section · Variable Name · Definition · Variable Id*). **None is collected.** They exist because the nine sub-sections listed at the top of this file cannot be answered from the current dataset, and the wireframe is no use as a drafting outline for a topic it can ask nothing about.
+Sixty-two candidate indicators, in the schema of `prep/status-indicators-africa-dpi.csv` (*Chapter · Section · Variable Name · Definition · Variable Id*). **None is collected.** They exist because the nine sub-sections listed at the top of this file cannot be answered from the current dataset, and the wireframe is no use as a drafting outline for a topic it can ask nothing about.
 
 Two of the groups — geopolitics and finance — are derivable from the OSINT base rather than needing fresh collection: the wiki already holds deals, agreements and named foreign actors as dated entities. Those are summary rollups of material the wiki has, not new research. The other three groups — satellite, research and local government — would need collection.
 

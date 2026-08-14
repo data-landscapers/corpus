@@ -4,11 +4,14 @@ Trigger: **"status-init {ISO3}"**. One country per run, from a clean context.
 
 Builds `outputs/reports/{ISO3}/{ISO3}-status.md` — a narrative answering, for each of the 37 sub-sections of `status-outline.md`, **what is the current status of this in this country**. The bullets under each sub-section in the outline are the checklist of what has to be established before that question can be answered. They are not the shape of the output. The output is prose.
 
-## Not yet in force
+## Where this runs
 
-**This file is written for the OSINT repo root and is not there yet.** It sits in `C:\CORPUS\for-osint\` — Corpus never writes to OSINT, so Bill installs it in an OSINT session — at which point it moves to the OSINT root as a standalone procedure file and `wiki/index.md` → *Processes* takes its trigger. Every path below is relative to the OSINT repo root and reads correctly only after that move. **Nothing runs it from `for-osint/`** — a run started before the move would write into Corpus, which is not where any of it belongs. `logs/notes-for-osint.md` note 8 carries the instruction; strike it once installed, and delete this copy.
+**This is a Corpus procedure and it lives at the Corpus root**, beside `BUILD.md` and `RENDER.md`. It initialises a document in `outputs/`, and everything in `outputs/` is Corpus's — the same rule that puts the report update and the topic layer in BUILD. It reads OSINT and never writes to it. *(This section previously said the file belonged in the OSINT root. Cowork wrote that, in the session that drafted this file, and it was wrong then: the process was already writing to `outputs/`, which the migration had already made Corpus's. Corrected on Bill's ruling, 2026-08-14.)*
 
-Two files move with it: `status-outline.md` → `lookups/status-outline.md`, which is beside this one in `for-osint/`, and `africa-dpi-data.csv` → `lookups/africa-dpi-data.csv`, which is not — it is 17 MB and sits in Corpus's gitignored `prep/` pending Bill's decision on how it travels. `status-indicators-africa-dpi.csv`, which the outline cites for its variable ids, is in the same position. Both come under git on arrival in OSINT.
+Two inputs it needs are not yet where a Corpus run can reach them, and both are settled before a first run rather than during one:
+
+- **`wiki/` is the primary input and the workroot does not expose it.** `scripts/.workroot/` junctions `raw/`, `index/` and `lookups/` only, which is what BUILD.md's boundary names. The intersections and place hubs this process reads are none of those. Widening the workroot to include `wiki/` read-only is the change; it is the same access the deferred report-initialisation stage needs (`documentation/report-layer.md` §2), so it is one change serving both.
+- **`prep/africa-dpi-data.csv` (17 MB) and `prep/status-indicators-africa-dpi.csv` are gitignored.** They are inputs to a Corpus process and have no committed home yet — see the note at the end of this file.
 
 ## It overwrites the existing status report — deliberately
 
@@ -39,13 +42,13 @@ Neither the wiki nor the AfDB dataset is a source. Both are intermediaries that 
 
 ## Inputs
 
-- `lookups/status-outline.md` — the question set. **37 sub-sections**: `finance.budget` is suspended and is not written until budget work resumes. The appendix is out of scope; `[PROPOSED]` ids are not used, and the bullets carrying them are answered from the wiki or stated as not established.
+- `documentation/status-outline.md` — the question set. **37 sub-sections**: `finance.budget` is suspended and is not written until budget work resumes. The appendix is out of scope; `[PROPOSED]` ids are not used, and the bullets carrying them are answered from the wiki or stated as not established.
 - `lookups/countries.csv` — ISO3 → country name → region. The country slug used in intersection filenames is the name lowercased with spaces hyphenated.
 - `wiki/places/{ISO3}.md` — the hub. Its frontmatter `topics:` lists which slugs have coverage at all; `## Active topics` maps that coverage to the intersection pages; `## Record not held` states what the base knows it lacks. `## Recent developments` is chronology, which is the wrong input for a status report and is read only to date a claim. `## Financing` is the wiki's own compiled aggregate and carries no source URL.
 - `wiki/intersections/*.md` — **the primary input.** These are the compiled current state. Every country but Eritrea has at least four; the median is seven and NGA has fourteen. **Do not construct the filename.** The prefix is usually the country name hyphenated, but seven countries use something else — `caf`, `civ`, `drc`, `gnq`, `com`, `cabo-verde`, `sao-tome` — and COM and GNQ each carry files under *two* prefixes. Select instead on the frontmatter, which is authoritative and present in all 396: **`place: {ISO3}`**. Take the region's files too (`place: XEA`, `place: XWA`) where they bear on `gov.regional`.
 - `raw/{year}/...` — the sources themselves. Frontmatter `url` is what the report hyperlinks to.
 - `index/files.jsonl` — resolves a source slug to its path and frontmatter. Use it rather than globbing `raw/`: the key is the filename without `.md`, and `fm.url` is the link. It indexes 10,171 files, of which **9,404 carry a URL** — the other 767 resolve to nothing and are therefore uncitable.
-- `lookups/africa-dpi-data.csv` — 462 rows per country. Only five columns matter: `Variable Id`, `Value Name`, `Year`, `Comments`, `Source urls`. **The comments and the URLs are the point**; the value code is a summary of them.
+- `prep/africa-dpi-data.csv` — 462 rows per country. Only five columns matter: `Variable Id`, `Value Name`, `Year`, `Comments`, `Source urls`. **The comments and the URLs are the point**; the value code is a summary of them.
 - `outputs/non-state-finance/all-nonstate.csv` — the major source for `finance.new`. Filter on `recipient_country`, and take the country's region code as well where a regional commitment names it.
 
 ## The run
