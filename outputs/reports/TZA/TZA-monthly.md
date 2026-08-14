@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: TZA
 ledger_rows: 48
 not_held: 13
-record: e9eb457bcc42
+record: e0d95edc6a34
 ---
 
 # Tanzania: monthly update, July 2026
@@ -44,7 +44,7 @@ The state operator [gave students of a technical institute hands-on training on 
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-
+One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228). No national seizure, deregistration or prosecution series is held against which to read it.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -57,7 +57,7 @@ The public procurement appeals authority [directed all domestic and internationa
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-
+The identity register is the most heavily integrated rail the base holds anywhere, and its coverage is flat. [Over 138 public and private institutions are integrated across banking, insurance and social security](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) — the hardest adoption figure the base carries for any African identity-verification rail. Against that, the register stands at [26.4m registered, 22.3m numbers issued and 20.6m cards physically distributed, about 81% of eligible adults](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) at December 2025: counts up, percentage flat to slightly down against a growing adult denominator. The [gap between numbers issued and cards in citizens' hands is 1.7m](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf), and it did not close over the period.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -81,12 +81,12 @@ At the same exhibition the agency described a farmer-records and permits system 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-
+The central bank [launched a sovereign yield curve system on 7 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), letting investors compare secondary-market government-security returns against domestic and international alternatives before investing. Retail participation stands at 32,631 investors against 897 in 2016, on the governor's own figures given at the launch.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-_(narrative not yet written)_
+A [constituency digitalisation strategy opened on 4 August with 20 computers and two printers valued at TZS 100m donated by a consumer lender](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047), starting with the education department's administration, inter-departmental communication and examination coordination, with secondary schools stated next and ward offices in phases over three to four years. It was announced by the ICT minister in the constituency she represents, and no funding is disclosed for any phase beyond the donated equipment.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -119,12 +119,12 @@ Three deployments were reported. A cardiac institute stated on 16 July that its 
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-
+Financial access points reached [2.27m, up 33.5%, of which about 2m are mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) at end-December 2025 — growth that is agent build-out rather than branch build-out, as the council itself says.
 <!-- /narrative -->
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
-_(narrative not yet written)_
+The telecoms regulator's director general put the [digital clubs programme at 800 clubs from nursery to university level](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/), funded through the regulator and anchored in the digital economy framework, alongside its sponsorship of the national schools mathematics olympiad team. No establishment dates, per-club spend, enrolment or outcome measure is published. Separately the annual report records [1,167 certified financial educators trained and about 155,730 individuals reached](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf); no prior-year figure is held, so the count stands unbenchmarked.
 <!-- /narrative -->
 ### Training and skills
 
