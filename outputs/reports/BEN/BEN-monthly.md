@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: BEN
 ledger_rows: 22
 not_held: 4
-record: 3721c2408ce6
+record: 205355342b41
 ---
 
 # Benin: monthly update, July 2026
@@ -27,12 +27,12 @@ A full read of the state's estimates volumes, dated 25 July, establishes that th
 ### Strategies, plans and policies
 
 <!-- narrative: infrastructure--gov-policy -->
-
+The Cotonou cyber-hub programme now carries four parts: hosting the continental cyber forum, [a cybersecurity-only incubator at Abomey-Calavi](https://www.lanation.bj/numerique/cyber-incub-des-solutions-en-cybersecurite-en-maturation-a-abomey-calavi), a statewide risk-management framework with a crisis exercise for state information-security officers, and [300 police unit heads trained during 2026](https://www.lanation.bj/numerique/protection-des-donnees-sensibles-lasin-forme-300-policiers-a-la-cybersecurite).
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: infrastructure--gov-discourse -->
-
+Benin is [ranked fourth in Africa on a 2026 internet-freedom assessment](https://fraternite.bj/liberte-internet-en-afrique-le-benin-dans-le-top-5-du-classement-2026/) — a reference ranking, cited here and not absorbed into the ledger as a position of the state's own.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -55,17 +55,17 @@ The [justice sector's 2026–2033 plan](https://lematinal.bj/justice-beninoise-d
 ### Strategies, plans and policies
 
 <!-- narrative: dpi--gov-policy -->
-
+Two instruments moved in opposite directions on the same problem. A [joint circular of 24 July requires every state structure to move archive and procedure management onto digital tools](https://www.gouv.bj/article/3605/budget-fonction-publique-modernisation-administrative-levier-economies-budgetaires-transition-ecologique/), with the returns stated as fiscal and environmental rather than as service improvement, and with no implementation deadline, budget line, scope definition or compliance mechanism; the circular's own text is not published. Against that, a [national digital public infrastructure roadmap is in draft on a once-only principle](https://www.biometricupdate.com/202607/benins-dpi-roadmap-aims-to-end-siloed-digital-government) — the state ceasing to ask citizens for documents it issued itself — with the agency framing the hard part as governance and coherence across infrastructure already built rather than as further building.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: dpi--gov-regional -->
-
+The customs administrations of Nigeria, Cameroon and Benin [adopted a joint communiqué on 27 July establishing a trilateral steering committee](https://theinsight.com.ng/nigeria-customs-benin-cameroon-deepen-regional-border-modernisation-at-beitbridge-benchmarking-mission/) to apply a southern African border-modernisation model to the Sèmè-Kraké and Mfum-Ekok corridors, after a benchmarking mission whose technical team included two named private suppliers alongside the three administrations.
 <!-- /narrative -->
 ### Standards
 
 <!-- narrative: dpi--gov-standards -->
-
+Interoperability gained its rules and its gatekeeper in the same month. The [conditions of access to the national exchange were published on 28 July](https://lanation.bj/numerique/interoperabilite-au-benin-les-regles-dacces-a-xroad-bj): registration in the interoperable-solutions catalogue, demonstrated data governance, compatible infrastructure, and a convention per exchange naming data, purposes, responsibilities and security measures — and, for a private body, an adhesion convention plus data-protection authority authorisation before first connection. That places the authority inside the technical onboarding path rather than at the end of it as a complaint channel. No fee schedule, processing time or count of authorised participants is stated. The [national root certification authority and trust services are operating](https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation), and architecture and application-integration referentials went out to consultation on the same date, intended to end siloed platform-building.
 <!-- /narrative -->
 ### National statistics
 
@@ -86,12 +86,12 @@ The Open Government Partnership national action plan's co-creation opened at the
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: ai-tech--dpi-mis -->
-
+A [US$2.3m malaria programme combining artificial intelligence, drones and geospatial mapping reports incidence down 38% and mortality down 39% across 2022 to 2024](https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria), on Japanese financing. The reductions are the programme's own account and no independent evaluation is held.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: ai-tech--gov-regional -->
-
+Benin [co-leads a six-country francophone West African framework on artificial-intelligence governance](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework), taken to the United Nations global dialogue on 9 July. The framework is in development and no text, timetable or commitment is held.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -101,12 +101,12 @@ A domestic content-verification platform founded in 2025 was profiled on 27 July
 ### Literacy
 
 <!-- narrative: ai-tech--capacity-literacy -->
-
+A co-author of the national artificial-intelligence strategy [published a build-an-LLM-from-scratch book arguing for frugal domestic artificial intelligence](https://www.wearetech.africa/fr/fils/tech-stars/kevin-degila-les-jeunes-africains-doivent-comprendre-que-l-ia-reste-une-technologie-et-pas-de-la-magie), its sharpest claim being a scarcity of graphics processors turning artificial intelligence into a luxury good.
 <!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: ai-tech--capacity-training -->
-
+The [first national artificial-intelligence olympiad was held on 9 July](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). No entry numbers, institutions or results are published.
 <!-- /narrative -->
 
 ## Inclusion and capacity
