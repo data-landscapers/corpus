@@ -40,11 +40,12 @@ Modes:
   --end       YYYY-MM-DD — close the window here rather than at today. For rebuilding a
               document to a stated date rather than to now.
   --window    months in the progress window (default 12 — an annual progress report).
-  --check     Checks G, I and L over every rendered document in the folder.
+  --check     Checks G, I, L and M over every rendered document in the folder.
               G: every http(s) URL is held in `index/`. I: no status or movement value outside
               the closed vocabularies, and every ***Not held*** row present in `gaps.csv`.
-              L: no narrative block left unwritten. Exits non-zero on a miss. A report that
-              fails G is not published; one that fails L is not finished.
+              L: no narrative block left unwritten. M: every row that states a position cites a
+              source. Exits non-zero on a miss. A report that fails G or M is not published;
+              one that fails L is not finished.
 
 Usage:
   python scripts/report-render.py --unit DZA --links
@@ -870,7 +871,7 @@ def check(unit):
             print("     NOT HELD:", u)
         bad += len(miss)
     print(f"check G: {'PASS' if not bad else 'FAIL — ' + str(bad) + ' link(s) not in index/'}")
-    return (1 if bad else 0) | check_vocab(unit) | check_narrative(unit)
+    return (1 if bad else 0) | check_vocab(unit) | check_narrative(unit) | check_sourced(unit)
 
 
 def check_narrative(unit):
@@ -932,6 +933,36 @@ def check_vocab(unit):
     for line in bad:
         print("     ", line)
     print(f"check I: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
+    return 1 if bad else 0
+
+
+def check_sourced(unit):
+    """Check M — **every piece of evidence has a source** *(Bill, 2026-08-14)*.
+
+    This is not a lint on the ledger, it is the rule the layer rests on, enforced. A row states a
+    position; a position with nothing behind it is not evidence, and the base publishes nothing it
+    cannot show the reader where it got.
+
+    ***Not held*** is the single exemption, and it is not really one: the marker's whole meaning is
+    that the base holds no position, so there is nothing to cite and the row carries no link for
+    exactly that reason. Everything else is in scope, **measures included** — a figure is evidence
+    like any other claim, and a `kind: measure` row is skipped by check I only because it has no
+    status to check against a vocabulary, not because it may float free of a source.
+
+    What made this reachable is that the gap was invisible to the other two. Check I asks whether a
+    status is *inside* the closed vocabulary, and an unsourced `Implemented` is. Check G asks
+    whether the links a document *carries* are held in `index/`, and a row with no source produces
+    no link, so it passes by contributing nothing to the test. The result renders as a bare status
+    with no hyperlink — indistinguishable from ***Not held***, while asserting its opposite, which
+    is the one confusion the marker exists to prevent."""
+    _, ledger, _ = load(unit)
+    bad = [f"{r['row_id']}: {stem(r['status']) or r.get('kind') or 'row'} with no source — "
+           f"{r['name']}"
+           for r in ledger
+           if stem(r["status"]) != NOT_HELD and not (r.get("sources") or "").strip()]
+    for line in bad:
+        print("     ", line)
+    print(f"check M: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' unsourced row(s)'}")
     return 1 if bad else 0
 
 
