@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: SLE
 ledger_rows: 28
 not_held: 11
-record: b7f6dc7ee741
+record: 79eebbd2262f
 ---
 
 # Sierra Leone: monthly update, July 2026
@@ -43,7 +43,7 @@ The telecoms regulator ran two public-facing cyber messages in nine days. It [se
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-_(narrative not yet written)_
+The finance ministry is [piloting a data exchange layer on X-Road](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/). No production date, list of connected agencies or governance rules is published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -62,7 +62,7 @@ The same 4 August ministerial statement [disclosed about 390 Orange mobile-money
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-_(narrative not yet written)_
+A digital health programme covering electronic medical records, disease surveillance and telemedicine across 300 facilities [began with satellite connectivity at the first of them on 27 July](https://sierraloaded.sl/health/austin-demby-launches-starlink-internet/). One facility of three hundred is the whole of the deployment so far, and [neither account of the launch gives cost, funder, procurement route, contract term or any data-residency arrangement for public health traffic carried by a foreign satellite operator](https://ayvnews.com/health-minister-unveils-starlink-internet-at-jmb-pediatric-excellence-hospital/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -94,7 +94,7 @@ Delivering a ministerial statement on 4 August after [MPs demanded an explanatio
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-
+The [national open-source software policy for the public sector is in force](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent), approved in 2025. No compliance or adoption reporting has been published against it.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -110,7 +110,7 @@ DSTI reported on 24 July that its [deepfake and digital-misinformation campaign,
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-
+Financial inclusion is put at [about 40% of adults for 2025](https://thefintechtimes.com/rebuilding-financial-services-through-fintech-in-sierra-leone/). It is a named analyst's assessment rather than an official series, and the base holds no state measurement to set beside it.
 <!-- /narrative -->
 ### Training and skills
 

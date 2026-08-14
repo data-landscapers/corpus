@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: MWI
 ledger_rows: 44
 not_held: 58
-record: 16ea65fc6240
+record: 3834815c6fa5
 ---
 
 # Malawi: monthly update, July 2026
@@ -102,7 +102,7 @@ The draft national artificial intelligence strategy the UNESCO readiness assessm
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-_(narrative not yet written)_
+The regulator and UNDP [named priorities in exploratory discussions — national identity integration with SIM verification, responsible artificial intelligence, stronger data protection and secondary-school digital skills drawing on the universal service fund](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). No memorandum, funding figure or timetable is stated.
 <!-- /narrative -->
 ### Standards
 
@@ -130,12 +130,12 @@ On 24 July the Defence Minister stated that the Malawi Defence Force intends to 
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-
+The universal service fund is in operation and funded from the regulator's annual budget allocation, and its [director general stated existing funding levels remain insufficient to meet the country's connectivity needs](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). A school connectivity project runs under it and the secondary-school skills work above is stated to draw on it. No income, balance or disbursement figure is held for any year, and the base holds no regulator annual report or fund account at all.
 <!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-_(narrative not yet written)_
+An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027.
 <!-- /narrative -->
 
 ## Finance
@@ -143,5 +143,5 @@ _(narrative not yet written)_
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-
+The governance and service delivery project [closed on 30 June, its grant mechanism continuing under a successor](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/). No closing disbursement figure or results statement is held.
 <!-- /narrative -->
