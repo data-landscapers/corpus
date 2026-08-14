@@ -14,6 +14,8 @@ Job 1 has scripted stages and one model-authoring stage, and they are run differ
 
 The **compiles** (vocab, catalogue, finance, budgets) are pure functions of OSINT's `raw/` and `lookups/`. They are `scripts/rebuild.py` and they just run.
 The **report update** — moving the ledgers forward as new sources arrive — is a model stage. A script (`report-scan.py`) says *which* sources are new; a model reads them and decides what moves. It cannot be a plain script, and it belongs here, in the build, run every time Job 1 runs.
+
+**BUILD authors this content; it does not transcribe it** *(Bill, 2026-08-14)*. BUILD holds editorial control over everything in `outputs/` and its job is to produce the best output it can, full stop. The scan is a convenience that stops the build re-reading what it has read — it is not a work order BUILD is confined to, and a unit the scan did not nominate is still BUILD's to improve. Where a document can be made better, BUILD makes it better. Questions about what is published, what is still being tested and what any of it costs are Bill's, and are not BUILD's to weigh.
 Three further stages are deferred and named at the end: report initialisation from the wiki (for a brand-new place), the monthly narratives, and topics.
 
 ## Prerequisites
@@ -42,7 +44,7 @@ The work order (from `--all` above, or `python scripts/rebuild.py --scan`) lists
    - *settles a **Not held** row* — strike it from `gaps.csv`, give it a status;
    - *default: nothing moves* — most sources report activity, not movement. Do **not** attach a slug to a row that did not move.
 3. **Mark every slug read**, moved or not: `python scripts/report-scan.py --mark {ISO3} <slugs>`. (Sources on `origin_status: hold` are dropped by the script, not marked — pass them in regardless.)
-4. **Re-render** the unit's live document: `python scripts/report-render.py --unit {ISO3} --doc status --render` (regions: `--doc progress`).
+4. **Re-render every document the moved rows fall into**, not just the live one. `--doc status` (regions: `--doc progress`) refreshes current position; a row whose `as_at` falls in an **already-issued** month means that month's documents are now out of date and must be re-cut too: `--doc monthly --month {YYYY-MM}`, and `--doc progress --month {YYYY-MM}` where the window covers it. A July-dated source that arrives in mid-August is July's news — it is slotted into the July monthly, which keeps its filename and its period and gains the evidence. `moved_in()` selects on `as_at`, so the window takes it correctly; what it needs is to be told to render.
 5. **Verify** before moving on: `python scripts/report-render.py --unit {ISO3} --check` — checks G (every link held in `index/`), I (vocabulary) and **L (no unwritten narrative block)** must all pass; then the register check `python scripts/report-register-check.py --unit {ISO3}` reports, a human rules.
 
 A re-render that changes nothing now leaves the file untouched and prints `unchanged` — `compiled:` is the date the document last changed, not the date the build last ran (`documentation/report-layer.md` §2). A unit that reports `unchanged` for all its documents did no work, which is the normal outcome and not a failure.
