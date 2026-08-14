@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: TZA
 ledger_rows: 48
 not_held: 13
-record: e0d95edc6a34
+record: 520d64ff55cd
 ---
 
 # Tanzania: monthly update, July 2026
@@ -81,7 +81,7 @@ At the same exhibition the agency described a farmer-records and permits system 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The central bank [launched a sovereign yield curve system on 7 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), letting investors compare secondary-market government-security returns against domestic and international alternatives before investing. Retail participation stands at 32,631 investors against 897 in 2016, on the governor's own figures given at the launch.
+The central bank [launched a sovereign yield curve system on 7 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), letting investors compare secondary-market government-security returns against domestic and international alternatives before investing. [Retail participation stands at 32,631 investors against 897 in 2016](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), on the governor's own figures given at the launch.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
