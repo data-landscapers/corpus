@@ -95,9 +95,40 @@ def built_from() -> str:
     return f.read_text(encoding="utf-8").strip() if f.exists() else "(unknown)"
 
 
+KINDS = ("status", "monthly", "progress")
+
+
 def parse_name(path: Path) -> tuple[str, str]:
-    parts = path.stem.split("-")
-    return parts[0], (parts[1] if len(parts) > 1 else "report")
+    """`{unit}-{kind}.md` -> (unit, kind). The unit may itself contain hyphens.
+
+    **Split from the right, on a known kind** *(2026-08-14)*. `parts[0], parts[1]` worked while
+    every unit was an ISO3 code and stopped working the moment topic reports arrived: a Level-2
+    slug is hyphenated (`dpi.pay` -> `dpi-pay`), so `dpi-pay-monthly.md` parsed as unit `dpi`,
+    kind `pay` — and `dpi-pay-progress.md` parsed as *the same pair*, so the two documents wrote
+    one filename and the second silently replaced the first. Every slug is hyphenated, so that
+    was the whole topic tree, not an edge case.
+
+    A name whose tail is not one of the three kinds keeps the old fallback rather than raising:
+    this is called on whatever Step 2's glob matched, and a bad name should render oddly, not
+    stop a run of 241 documents."""
+    stem = path.stem
+    for kind in KINDS:
+        if stem.endswith(f"-{kind}"):
+            return stem[: -len(kind) - 1], kind
+    unit, _, kind = stem.partition("-")
+    return unit, (kind or "report")
+
+
+def tree_of(path: Path) -> str:
+    """Which output tree a source document belongs to — `reports/` or `topics/`.
+
+    Taken from the source's grandparent directory (`…/topics/dpi-pay/dpi-pay-monthly.md`), so a
+    document lands under the site in the tree it was authored in and its permalink says so. It is
+    read off the path rather than off the filename because the unit tells you nothing: `KEN` and
+    `dpi-pay` are both just units. Anything not recognised renders under `reports/`, which is
+    where every document lived before topics existed."""
+    parent = path.parent.parent.name.lower()
+    return "topics" if parent == "topics" else "reports"
 
 
 def badge_class(text: str, vocab=BADGE) -> str:
@@ -374,8 +405,9 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
     # property of the edition, not of the document. The dated PDF keeps it.
     stem_html = f"{unit}-{kind}"
     stem_pdf = f"{md_path.stem}-{edition}"
-    rel_html = f"reports/{unit}/{stem_html}"
-    rel_pdf = f"reports/{unit}/{stem_pdf}"
+    tree = tree_of(md_path)
+    rel_html = f"{tree}/{unit}/{stem_html}"
+    rel_pdf = f"{tree}/{unit}/{stem_pdf}"
 
     rows, not_held = meta.get("ledger_rows", ""), meta.get("not_held", "")
     subtitle = (
@@ -440,7 +472,10 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None) -> tuple[Pa
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("markdown", type=Path)
-    ap.add_argument("--out", type=Path, default=SITE / "reports")
+    # Default deferred to the source: a topic document renders under site/topics/, a unit report
+    # under site/reports/, and the permalink in the page agrees with where the file lands. An
+    # explicit --out still wins and still takes {unit} beneath it.
+    ap.add_argument("--out", type=Path, default=None)
     ap.add_argument("--edition", default=None)
     args = ap.parse_args()
 
@@ -450,7 +485,8 @@ def main() -> int:
         return 2
 
     unit, _ = parse_name(src)
-    html_path, pdf_path = render(src, args.out / unit, args.edition)
+    base = args.out if args.out is not None else SITE / tree_of(src)
+    html_path, pdf_path = render(src, base / unit, args.edition)
 
     print(f"source   {src.relative_to(CORPUS)}")
     def show(p: Path) -> str:
