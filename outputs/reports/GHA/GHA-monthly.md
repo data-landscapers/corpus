@@ -1,15 +1,16 @@
 ---
 title: Ghana — monthly update, July 2026
-compiled: 2026-08-05
-period: 2026-07-01 to 2026-08-05
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: GHA
-ledger_rows: 80
-not_held: 18
+ledger_rows: 84
+not_held: 9
+record: 7edd59c046fb
 ---
 
 # Ghana: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-05 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -24,7 +25,6 @@ Two regulatory clocks started in July. The identity regulator gave institutions 
 <!-- narrative: infrastructure--infra-connect -->
 The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) answered sixty written queries from four prospective applicants, formally amended the request for applications in seven places, and shifted every subsequent date by 21 days, with licence fees now due 17 November. It refused any extension to the 70% population coverage obligation of 6 March 2027 while confirming that obligation is band- and technology-neutral and can be met in substantial part from existing deployment. It also rewrote the dominant operator's rural schedule from licence-relative years into fixed dates of December 2029, 2032 and 2035, expressly so that buying spectrum would not accelerate an equivalent existing commitment. And it recharacterised the 40% premium on that operator's reserve prices in writing as a price for attributable value rather than a sanction or a market-power remedy, declining to publish its valuation model during a live assignment.
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
@@ -32,19 +32,16 @@ The country's largest data-centre campus by committed capacity entered the recor
 
 The same 29 July announcement reaffirmed the US$250m AI compute centre approved in April. Sixteen weeks after Cabinet approval, the compute centre has no site, contractor or procurement notice.
 <!-- /narrative -->
-
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Technical Capacity
 
 <!-- narrative: infrastructure--infra-capacity -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -53,12 +50,16 @@ A community-media cyber capability project launched on 3 August, certifying comm
 
 ## Digital public infrastructure
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 The identity regulator publicised amendment regulations on 16 July that had come into force on 9 June, and the interior minister then set the enforcement date: banks, telecoms operators, hospitals, schools, insurers and agencies have [a three-month transition from 27 July to 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate with the verification service, on a sanctions ladder running to suspension of access and licence withdrawal. Verification tied to SIM registration is explicitly excluded, with no timetable announced. The first paid round-the-clock identity centre opened on 1 August with all services attracting approved charges and no fee schedule published.
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -66,29 +67,30 @@ Central bank data for June 2026 put mobile money at [954 million transactions wo
 
 Enforcement of the digital-credit regime opened. A notice of 20 July recorded the 30 June licensing deadline as elapsed, and a notice of [3 August named twenty unlicensed lending applications](https://www.bog.gov.gh/wp-content/uploads/2026/08/Notice-No.25-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf), cautioning banks and payment providers against processing for them and framing the harm first as a violation of customer data privacy. The promised register of licensed providers remains unpublished.
 <!-- /narrative -->
-
-### Registries
+### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The finance ministry reported to Parliament that the customs valuation system had [analysed about 366,000 declarations to 17 July](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/), 24% triggering more than one risk indicator, with collections up 17.5% against a 6.3% rise in declared value. A second public sector reform strategy was validated on 30 July on seven pillars, 27 programmes and 135 activities.
 <!-- /narrative -->
-
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
 _(narrative not yet written)_
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: dpi--data-satellite -->
+
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -98,35 +100,25 @@ _(narrative not yet written)_
 <!-- narrative: governance--gov-legislate -->
 The ministry took industry comment on 27 July on the [draft digital economy and innovation development fund bill](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/); the levy rate and governance structure are unestablished, and the draft is not published. Speaking at an artificial-intelligence summit on 29 July, the ministry named a data harmonisation Act and a proposed data exchange Act as the enabling layer under a ten-year implementation plan — the first mention on file of an exchange statute distinct from harmonisation, and neither has a published draft.
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 The government [announced a ten-year artificial-intelligence implementation plan on 29 July](https://thechronicle.com.gh/government-rolls-out-10-year-ai-implementation-roadmap-to-drive-jobs-economic-growth/) with measurable annual milestones, built with United Nations partners.
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 The regulator's own enforcement record did not change. The action framed as a data-privacy violation in the month was taken by the central bank.
-<!-- /narrative -->
-
-### Open data
-
-<!-- narrative: governance--data-open -->
-_(narrative not yet written)_
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -138,28 +130,14 @@ UNESCO's Accra head replied from the same platform that strategies without fundi
 
 Applications opened on 1 July for an applied artificial-intelligence lab in Accra, closing 31 August with no cohort size or Ghana-specific spend disclosed.
 <!-- /narrative -->
-
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
 On 27 July a company filed a writ claiming authorship of the 2007 design of the dominant mobile-money platform; the operator answered on 31 July that the claims are without merit and it will contest fully.
 <!-- /narrative -->
-
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
-_(narrative not yet written)_
-<!-- /narrative -->
-
-### India activities
-
-<!-- narrative: ai-tech--geopol-india -->
-_(narrative not yet written)_
-<!-- /narrative -->
-
-### Gulf/UAE activities
-
-<!-- narrative: ai-tech--geopol-gulf -->
 _(narrative not yet written)_
 <!-- /narrative -->
 
@@ -172,29 +150,20 @@ At a policy dialogue on 29 July the regulator said an existing hotspot authorisa
 
 The [draft digital economy and innovation development fund bill](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/) would also convert the universal-access fund into a wider innovation and skills fund, with the fate of the rural-access earmark unestablished.
 <!-- /narrative -->
-
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
 The mid-year fiscal review of 23 July recorded GH¢485m paid to cash-grant beneficiaries in the first half of 2026 and named no allocation at all to the communications ministry, the access fund, the coders programme or the artificial-intelligence strategy.
 <!-- /narrative -->
-
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
 The education council completed a revised basic-education curriculum adding coding, artificial intelligence and technical subjects, announced on 20 July and not yet adopted.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
 Training capacity was the month's activity. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day.
-<!-- /narrative -->
-
-### Research institutions
-
-<!-- narrative: inclusion--capacity-research -->
-_(narrative not yet written)_
 <!-- /narrative -->
 
 ## Finance
@@ -204,7 +173,6 @@ _(narrative not yet written)_
 <!-- narrative: finance--finance-new -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->

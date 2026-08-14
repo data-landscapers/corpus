@@ -1,15 +1,16 @@
 ---
 title: Senegal — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: SEN
-ledger_rows: 41
+ledger_rows: 51
 not_held: 12
+record: af7c50ad279b
 ---
 
 # Senegal: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -32,7 +33,11 @@ Two financing items arrived within a week. On 13 July a development bank [extend
 
 A measurement covering January to July put [mobile latency at 35.4 ms, second in sub-Saharan Africa behind Togo at 28.8 ms](https://www.seneweb.com/fr/news/Technologie/connectivite-le-senegal-2e-en-afrique-subsaharienne-pour-la-latence-mobile-avec-354-ms_n_498911.html); no prior Senegal figure is held.
 <!-- /narrative -->
+### Technical Capacity
 
+<!-- narrative: infrastructure--infra-capacity -->
+
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -46,37 +51,31 @@ On 30 July the procurement authority and the ministry [floated three routes for 
 <!-- narrative: dpi--dpi-exchange -->
 A government enterprise-architecture account of 3 August records [platforms still siloed sixteen months after the interoperability platform launched](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy), with the architecture to be fed by a full inventory of national digital systems. Four narrower exchanges moved in the same weeks: a [workshop on 23 July to diagnose social-protection systems](https://aps.sn/vers-la-creation-dun-guichet-unique-pour-un-meilleur-acces-aux-services-sociaux/), the minister stating each structure runs its own system and cannot share data; a [climate-transparency data project launched on 22 July over 42 months](https://www.seneweb.com/fr/news/M%C3%A9t%C3%A9o/donnees-climatiques-le-ministere-de-lenvironnement-lance-le-projet-cbit-senegal-pour-renforcer-les-capacites-nationales_n_499084.html); a [three-month customs roadmap with Gambia](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict); and a [convention to interconnect the digital agency and the health-cover platform](https://www.seneweb.com/fr/news/Sante/le-numerique-au-service-de-la-sante-senum-sa-et-la-sen-csu-unissent-leurs-forces-pour-rapprocher-la-couverture-sanitaire-universelle-des-citoyens_n_499078.html), whose personal-data commitment was not referred to the regulator.
 <!-- /narrative -->
-
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 Consolidated agency data at 17 July records [437 of 629 civil-status centres fully deployed, 112 of them running the citizen-facing service](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI); on 13 July the agency reported [15.3m records loaded](https://apanews.net/senegals-anec-digitizes-more-than-15-million-birth-records/).
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 Digital settlement on the Dakar rapid-transit network reached [39% after a super-app was integrated on 15 July](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network), against 10% previously, on a network carrying up to 300,000 passengers daily.
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 On 28 July an audit mission [launched across 74 communes, 59 already audited and fifteen selected on risk analysis](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html); no findings are stated. On 30 July the mines ministry and the deposits fund [signed a convention commissioning professional cards and a nationwide database of artisanal gold miners](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-senegal-numerise-lorpaillage-pour-juguler-une-perte-annuelle-de-plus-de-614-millions), with no enrolment target, host or data-protection provision reported. The national digital addressing project has no drafted narrative yet.
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 In health, a [mortality and cause-of-death analysis tool was trained out on 20 and 21 July](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/), and civil society [called on 23 July for adoption of a digital-health bill](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) whose status and text are not stated; the ministry has begun building a single patient record ahead of the law meant to govern it.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -90,7 +89,6 @@ _(narrative not yet written)_
 <!-- narrative: governance--gov-legislate -->
 A [critical-infrastructure protection legal framework is in preparation, undated](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/).
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
@@ -100,25 +98,21 @@ Two further AI instruments entered the record. A readiness assessment of 26 July
 
 The telecommunications ministry [put a national online child-protection action plan in place on nine axes](https://lesoleil.sn/actualites/technologie/violences-numeriques-le-senegal-se-dote-dun-plan-dactions-national-de-protection-des-enfants-en-ligne/); an automated fetch on 31 July found no document on the ministry's own site.
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 Regionally, Senegal became [one of 29 founding states of an intergovernmental AI-governance body on 16 July](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html), and joined the approval on 31 July of [three ECOWAS statistical methodological guides](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/).
 <!-- /narrative -->
-
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 Senegal adopted [non-binding Francophone West African AI governance guidelines on 6 July](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework).
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 The data-protection reform reached a [finalisation workshop for the bill and its implementing decree, rewritten against the data and AI strategies](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/), with no adoption date or published text.
 <!-- /narrative -->
-
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
@@ -132,17 +126,20 @@ A ministry legal adviser stated that the state has [worked on social-media regul
 <!-- narrative: ai-tech--tech-ai -->
 A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The Senegal AI Factory has no drafted narrative yet.
 <!-- /narrative -->
-
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
 On 14 July the transit and telecommunications operators [signed a partnership for progressive integration of ticketing and top-ups](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network), with no go-live date published, and a [corporate mobility platform launched on 16 July](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/senegal-yango-expands-into-corporate-mobility).
 <!-- /narrative -->
-
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
 The digital minister pitched the technology strategy in Washington, holding [working sessions on financing mechanisms for digital infrastructure, data centres, digital identity and payment systems](https://www.rts.sn/actualite/detail/a-la-une/new-deal-technologique-le-senegal-renforce-ses-partenariats-strategiques-a-washington). No financier, amount or instrument was reported.
+<!-- /narrative -->
+### China activities
+
+<!-- narrative: ai-tech--geopol-china -->
+
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -152,13 +149,11 @@ The digital minister pitched the technology strategy in Washington, holding [wor
 <!-- narrative: inclusion--include-access -->
 An [advanced-level digital course for blind and partially sighted people opened on 6 July](https://www.seneweb.com/fr/news/Technologie/informatique-et-intelligence-artificielle-un-programme-pour-renforcer-lemployabilite-des-non-voyants_n_497443.html), on a programme reporting 700 people and twenty trainers trained since its launch. The launch date is not stated, so the cumulative figure has no start point.
 <!-- /narrative -->
-
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
 A digital financial-education project [closed on 15 July](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/) having trained 265 civil-society trainers across twelve organisations. Its comparison platform is left unmaintained, because no implementer can compel tariff data from financial institutions.
 <!-- /narrative -->
-
 ### Research institutions
 
 <!-- narrative: inclusion--capacity-research -->
@@ -167,6 +162,8 @@ The council of ministers of 29 July [proposed a national research and innovation
 
 ## Finance
 
-<!-- narrative: finance -->
-No finance row moved in this window.
+### New investments
+
+<!-- narrative: finance--finance-new -->
+
 <!-- /narrative -->
