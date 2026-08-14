@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: KEN
 ledger_rows: 98
 not_held: 6
-record: 17f77eda5a51
+record: 913e971c547c
 ---
 
 # Kenya: monthly update, July 2026
@@ -37,12 +37,12 @@ On 4 August the operator building the 44MW Tatu City data centre [moved completi
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
-_(narrative not yet written)_
+Power is what is holding the data-centre build back, and there is no rule governing it. A hyperscale project [stalled on power capacity in July, against about 3 GW of installed supply and a 10 GW-by-2030 target — a single 1 GW facility would take a third of supply](https://www.datacenterdynamics.com/en/news/microsoft-and-g42-data-center-in-kenya-stalled-due-to-lack-of-power-capacity/). No published tariff, gazetted large-load connection rule or grid-connection framework for data centres exists: every power arrangement the base holds is bilateral.
 <!-- /narrative -->
 ### Technical Capacity
 
 <!-- narrative: infrastructure--infra-capacity -->
-_(narrative not yet written)_
+Two capacity items advanced without a figure attached to either. Nationwide broadcast-logger deployment is complete with a monitoring room at the regulator's centre, [joint regulator training concluding on 27 July](https://techafricanews.com/2026/07/27/communications-authority-of-kenya-and-kfcb-complete-joint-broadcast-monitoring-training/), with no cost, coverage or channel-count disclosed. The advanced science and technology institute has its charter issued and its [operationalisation under review with the Korean export credit agency](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/), with no allocation for the year disclosed and no commitment amount stated.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -60,7 +60,7 @@ The health ministry issued tender addenda on 27 July 2026 that [make financial, 
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-_(narrative not yet written)_
+Government is [procuring a system to cut identity-card issuance to ten days and passports to a week](https://www.standardmedia.co.ke/national/article/2001551755/new-technology-slashes-national-id-waiting-time-to-10-days). The source is a headline account; no contract, vendor or value is held.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -107,7 +107,7 @@ The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2
 ### Open data
 
 <!-- narrative: governance--data-open -->
-
+The draft data governance policy provides for a [state-run data marketplace of more than 1,000 datasets over five years, at KSh 396m to build and operate, overseen by a proposed national council](https://itweb.africa/article/kenya-proposes-marketplace-for-state-data/RgeVDMPRldKvKJN3). Pricing is deferred to a later phase with no valuation method stated — a state proposing to sell data it holds by compulsion, before it has said what the data is worth or on what basis.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -127,7 +127,7 @@ Venture funding data published on 27 July put Kenyan startups at [US$126m in the
 ### China activities
 
 <!-- narrative: ai-tech--geopol-china -->
-_(narrative not yet written)_
+The e-commerce cooperation memorandum with China was [cited as the basis for dispatching eighteen ICT officers to Shandong](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/), framed inside the digital master plan. The memorandum's signature date, terms and text are not held.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -158,7 +158,7 @@ The 117th digital hub was [commissioned in Baringo on 20 July](https://techafric
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-_(narrative not yet written)_
+Two financings landed. A [EUR270m facility across 21 obligors in eight jurisdictions was signed on 9 July, its committed portion of up to EUR170m including a local-currency tranche of up to EUR20m equivalent in shillings for fibre modernisation in Kenya](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270), with a further uncommitted EUR100m for future acquisitions and capital expenditure across the lender's sub-Saharan operations. Domestically the digital economy acceleration project [took KSh 4.3bn for the year, half the entire digital thematic, to equip more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262).
 <!-- /narrative -->
 ### Domestic budget appropriations and expenditure
 
