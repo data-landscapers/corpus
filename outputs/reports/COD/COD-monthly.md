@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: COD
 ledger_rows: 36
 not_held: 13
-record: faa8c47f975f
+record: 8932a57d6e20
 ---
 
 # DR Congo: monthly update, July 2026
@@ -138,7 +138,7 @@ On 3 July a memorandum was signed with a Chinese supplier for a [2,100 km route 
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-This is the month's clearest movement with both ends dated. The universal service fund [signed subsidy conventions with four operators on 8 August for a first tranche of 40 localities, about 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites), against a national diagnostic published the day before finding nearly 3,000 uncovered localities — about 4.3m people — and coverage of 77% 2G, 68% 3G and 57% 4G. A second phase of 300 sites is planned, with a 2030 target of 3,000 localities and 100 digital community centres. An unfunded fund at the window's start, a first funded tranche at its end; no per-locality budget or fund appropriation figure is held.
+This is the month's clearest movement with both ends dated. The universal service fund [signed subsidy conventions with four operators on 8 August for a first tranche of 40 localities, about 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites), against a national diagnostic published the day before finding nearly 3,000 uncovered localities — about 4.3m people — and coverage of 77% 2G, 68% 3G and 57% 4G. A [second phase of 300 sites is planned, with a 2030 target of 3,000 localities and 100 digital community centres](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites). An unfunded fund at the window's start, a first funded tranche at its end; no per-locality budget or fund appropriation figure is held.
 <!-- /narrative -->
 ### Access to services
 
