@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: GNQ
 ledger_rows: 23
 not_held: 6
-record: 8f5977fad8c4
+record: 88a779027354
 ---
 
 # Equatorial Guinea: monthly update, July 2026
@@ -61,7 +61,7 @@ INEGE opened a three-day validation workshop on 27 July at the Ministry of Finan
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+The 2024 social media and computer crime law is [in force with its provisions reported in rollout from July, including a bar on social-media access for under-fourteens without parental authorisation](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/); the full text is not held. Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time, with copyright provisions aligned to the Berne Convention and the Bangui Agreement](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -78,7 +78,7 @@ The Minister of Foreign Affairs [signed the Malabo Convention at Addis Ababa on 
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-
+A quality-of-service regulation of 2018 is [confirmed in force on the regulator's own legislation index](https://ortelge.com/legislacion/reglamentos/). Only its title and date are held, not its text; the same index lists an inspection and sanctions regulation of 2020 and a broadband-market update of February 2026, neither of which the ledger carries as a row.
 <!-- /narrative -->
 ### Open data
 

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: MDG
 ledger_rows: 21
 not_held: 8
-record: 48bec966406c
+record: 4a223f340f9c
 ---
 
 # Madagascar: monthly update, July 2026
@@ -59,7 +59,7 @@ On 3 August the higher-education ministry [presented an accreditation platform](
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-_(narrative not yet written)_
+The statistics institute runs a [registration-gated platform advertising household surveys for 2020 to 2022, an enterprise survey and census microdata](https://microdata.instat.mg/). The datasets sit behind account registration and were not retrieved, so no dataset documentation, sample size, licence or reuse terms is established beyond the landing page.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -79,7 +79,7 @@ On 20 July the [Technical Assistance Facility for the Refondation was launched a
 ### Open data
 
 <!-- narrative: governance--data-open -->
-_(narrative not yet written)_
+Madagascar's open data is institution-specific and has no policy over it. The National Assembly runs a [read-only interface serving five parliamentary datasets as JSON and CSV under an open licence, rate-limited to 60 requests a minute, its counters reading 163 deputies, 45 texts and 128 sittings](https://parlement.mg/opendata/). Against that, a [general portal is a reachable landing page with six undated category tiles and four unlinked project cards, naming no issuing institution, dataset count or licence, and credited in its footer only to a private vendor](https://opendata.mg/); the finance ministry's own portal does not resolve. No whole-of-government open-data policy or mandate is held.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

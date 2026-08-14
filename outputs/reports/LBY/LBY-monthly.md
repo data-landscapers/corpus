@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: LBY
 ledger_rows: 24
 not_held: 7
-record: 1294397f6923
+record: dcaaadfab6da
 ---
 
 # Libya: monthly update, July 2026
@@ -34,7 +34,7 @@ On 7 August LTT and ARABSAT [announced a Strategic Partnership Agreement](https:
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-
+The central bank [isolated its systems in June and a sample of bank data was later published on a dark-web site](https://alwasat.ly/news/libya/520951). No attribution, forensic account, scope of loss or restoration statement is held.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -47,7 +47,7 @@ The government issued [Decision No. 348 of 2026 on 17 July](https://libyaherald.
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-
+The national digital identity's [biometric tier is in technical trials with the central bank and several banks, ahead of integration into banking know-your-customer checks](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/). The [same system is named differently in the authority's own April and July releases](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/), which is the only naming the base has for it.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

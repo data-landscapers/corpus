@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: BFA
 ledger_rows: 44
 not_held: 11
-record: b0076da77a18
+record: c7219efb0847
 ---
 
 # Burkina Faso: monthly update, July 2026
@@ -58,7 +58,7 @@ An estate-agency register launched on 21 July with a compulsory card applied for
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-
+A [pension acts platform was announced as the completion of the pension programme, joining the pension fund, the civil-service directorate and the budget directorate on a single pension file](https://www.laborpresse.net/retraite-des-agents-publics-du-burkina-faso-une-plateforme-ecarfo-dediee-aux-formalites/). No date, budget, vendor or scope is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -70,7 +70,7 @@ A pension formalities portal also launched on 21 July, presented as improving da
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-
+Citizen service centres stand at [two pilot sites under construction, with architectural studies under way for a further city, eight regional capitals and fifty rural communes](https://lefaso.net/spip.php?article144175), against a state and postal-service contract for twenty spaces over five years. No unit cost and no beneficiary count is published.
 <!-- /narrative -->
 
 ## Governance and regulation
