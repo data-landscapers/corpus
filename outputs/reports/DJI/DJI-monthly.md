@@ -1,15 +1,16 @@
 ---
 title: Djibouti — monthly update, July 2026
-compiled: 2026-08-09
-period: 2026-07-01 to 2026-08-09
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: DJI
-ledger_rows: 15
-not_held: 11
+ledger_rows: 17
+not_held: 10
+record: bfe52e74eb67
 ---
 
 # Djibouti: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-09 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -28,17 +29,20 @@ On 3 August 2026 the Italian foundation Med-Or reported that a [project promoted
 
 On 29 July the new communications minister [received Japan's ambassador and the UN resident coordinator in succession](https://www.lanation.dj/mcpt-un-ballet-diplomatique-pour-renforcer-la-cooperation-avec-ses-partenaires-internationaux/), covering audiovisual media re-equipment, journalist training against disinformation, and the strategic weight of the cables. No agreement was signed and no figure was given.
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
 On 19 July 2026 the state signed a memorandum of understanding with the Shanghai-based LinkWise Group, [stated at US$1.35bn and carried in full by the investor with no state equity and no sovereign debt](https://www.lanation.dj/un-partenariat-strategique-pour-faire-de-djibouti-un-pole-regional-de-linnovation/), for a 100 MW AI compute centre, a digital industrial park and international data corridors, valid one year. In [an interview published on 23 July](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/) the minister-delegate for investment gave the terms: 1,000 hectares of land, guaranteed seawater abstraction for cooling, a policy-stability clause presented as a legal guarantee of long-term investor return, a tax-exemption period before revenue accrues to the state, technical training in place of local employment quotas, and cryptographic compute in the revenue model alongside AI. The preparatory phase runs six months from signature; nothing is disbursed and no site is held. The 100 MW figure is the promoters' own.
 <!-- /narrative -->
-
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
 The same 19 July memorandum with LinkWise commits [up to 500 MW of solar, wind and storage generation](https://www.lanation.dj/un-partenariat-strategique-pour-faire-de-djibouti-un-pole-regional-de-linnovation/) to power the AI compute zone — a figure the promoters supply.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
+The national incident response team took part in the IGAD regional cybersecurity exercise from 26 to 30 June, and the state daily reported that [the ANC's team placed first in both simulation scenarios](https://www.lanation.dj/lanc-distinguee-lors-de-lexercice-regional-de-cybersecurite/). The exercise organiser has published no result, so the placing rests on that single account. It is the only cybersecurity movement the base records for Djibouti in the period.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -48,19 +52,16 @@ The same 19 July memorandum with LinkWise commits [up to 500 MW of solar, wind a
 <!-- narrative: dpi--dpi-exchange -->
 The same [23 July account names an ID Mobile credential, an online services portal and real-time card verification for banks and social-protection bodies as in preparation](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/), with staffing and archive space named as the constraints. No date is given for any of them.
 <!-- /narrative -->
-
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 Two interviews of 23 July 2026 put the identity stack on the record in detail. The Direction générale de la Population et de la Famille [enrols fingerprints, iris, photograph and electronic signature into the Registre national des personnes physiques and issues each citizen a national identification number](https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/); its director-general states the card has been issued nationwide since 2025 and that mobile kits reach the elderly, the hospitalised and remote populations. Automatic comparison against the national base is returning duplicate registrations, birth-date contradictions decades old, and people who have lived their administrative lives under a dead person's identity; those cases go to the parquet for judicial regularisation.
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 The same 23 July account reports [birth, marriage and death archives being digitised in parallel](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/) with the identity-stack work above, staffing and archive space again the named constraints and no date given.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -74,13 +75,11 @@ On 2 August 2026 the Secrétariat général du Gouvernement and UNDP [signed a l
 <!-- narrative: governance--gov-policy -->
 At WSIS 2026 in Geneva on 9 July the communications minister [restated Vision Djibouti 2035 as the frame for a regional technology hub](https://www.lanation.dj/geneve-djibouti-affiche-sa-vision-dun-numerique-inclusif-et-dun-hub-technologique-regional/) and [sought ITU and Smart Africa support for public-service digitalisation and AI capacity](https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-seeks-itu-smart-africa-support-for-telecoms-and-ai-development). No instrument resulted.
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 On 4 August 2026 the state daily *La Nation* [described the Police Nationale and road-safety officers carrying body-worn cameras routinely in central Djibouti](https://www.lanation.dj/la-bodycam-un-bouclier-de-verite-au-service-des-policiers-et-des-citoyens/), not piloting them. The protocols it reports require the device to be worn visibly and the subject to be told they are being recorded, with recording triggered manually or automatically according to the type of intervention or the threat level detected. No retention period, access rule, data controller or authorising instrument is named, and nothing on file establishes one as at 4 August 2026. The Digital Code's prior-authorisation regime, in force since 30 June 2025, reaches biometric processing, and no authorisation or published rule covering the camera fleet is held.
 <!-- /narrative -->
-
 ### Open data
 
 <!-- narrative: governance--data-open -->
@@ -96,21 +95,8 @@ On 17 July an upgraded AI weather early-warning system was [handed over at the W
 
 The LinkWise interview of 23 July also [named a cross-border data corridor linking Shanghai to Djibouti among the arrangement's success indicators, alongside full Djiboutian jurisdiction over data natively generated on the territory](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/), with chips specified as NVIDIA H and B series. The memorandum text is not held; the terms are the minister's account.
 <!-- /narrative -->
-
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
 On 4 July 2026 the Ministry Delegate for the Digital Economy and Innovation [launched the LIMO platform](https://techreviewafrica.com/news/6169/djibouti-unveils-limo-platform-to-accelerate-digital-economy-and-innovation), described by the ministry as support for entrepreneurship and for access to opportunities by startups and developers. The account is a trade-press report of the ministry's announcement, no user or service figures are published, and it is a distinct system from the private marketplace of the same name.
-<!-- /narrative -->
-
-## Inclusion and capacity
-
-<!-- narrative: inclusion -->
-No inclusion or capacity row moved in this window.
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window; the month's only finance item is the LinkWise memorandum, covered under Infrastructure.
 <!-- /narrative -->
