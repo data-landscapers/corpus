@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: NGA
 ledger_rows: 99
 not_held: 7
-record: 7addb0797ad2
+record: 7612680928b4
 ---
 
 # Nigeria: monthly update, July 2026
@@ -32,12 +32,12 @@ An account published on 29 July puts about [101,000 km of fibre already built](h
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-
+A Lagos cloud region [entered service on 10 August](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/), the third on its operator's platform alongside Lisbon and Johannesburg and presented around data residency since the Nigeria Data Protection Act took effect — three legal jurisdictions carried on one platform. It joins [about 26 facilities carrying 50 to 56 MW live against some 124 MW installed](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/), Africa's second-largest market after South Africa at about 15% of continental capacity, most of it in Lagos.
 <!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-_(narrative not yet written)_
+The communications regulator [issued a Guidance Note on cybersecurity budgets on 7 August](https://techafricanews.com/2026/08/07/ncc-mandates-dedicated-cybersecurity-budgets-for-nigerian-telcos/) under a framework effective since 23 February, adding a dedicated budget line with tracked spend and periodic audit, requiring a Chief Information Security Officer, and restating two-year in-country retention of call logs and traffic data; the compliance clock ends 23 February 2027. Two further bodies are announced and no more: [a Ministerial Advisory Council on Cybersecurity](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) with no membership or terms of reference published, and [a Payment Security Operations Centre](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) set as a 2028 target with no legal basis, funding line or operator named.
 <!-- /narrative -->
 ### Data Exchange
 
@@ -52,7 +52,7 @@ The technology agency approved a [software quality assurance framework](https://
 ### Rural digital data capture
 
 <!-- narrative: infrastructure--digital-rural -->
-_(narrative not yet written)_
+The communications minister told the President on 4 August that [deployment of about 3,700 towers begins around October](https://www.vanguardngr.com/2026/08/fg-to-rollout-90000km-fibre-optic-network-tijani/), reaching more than 20 million people in communities with no telecoms service and with the capital stated as raised — no funding source, operator or contract is named. The baseline against which it is measured is [23% of rural communities connected to 57% urban](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/).
 <!-- /narrative -->
 ### New investments
 
@@ -65,17 +65,17 @@ A Lagos fibre operator closed the [₦4.05bn first tranche](https://businesspost
 ### Technical Capacity
 
 <!-- narrative: dpi--infra-capacity -->
-_(narrative not yet written)_
+[The identity authority's servers, databases and networks are not sized for compulsory use of the national identification number](https://punchng.com/pros-cons-of-amended-nimc-act/) across the fourteen sectors the amended Act reaches — a compulsory register carrying a 2027 election-integrity risk if it cannot be relied on across that volume.
 <!-- /narrative -->
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-_(narrative not yet written)_
+Nine agencies took bilateral cover under the amended identity Act inside a fortnight, among them [Solid Minerals](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/), [the Presidency](https://www.thisdaylive.com/2026/07/22/shettima-nigerias-digital-transformation-under-tinubu-unrivalled-hails-ongoing-reforms-by-nimc-management/) and [Women Affairs and the Bank of Industry](https://www.thisdaylive.com/2026/07/24/nimc-seals-strategic-partnerships-with-women-affairs-ministry-boi-to-deepen-digital-identity-financial-inclusion/); no account states a lawful basis, consent mechanism, retention rule or regulator role for the sharing that follows. The [Nigeria Data Exchange now moves personal data between ministries in production](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) behind the Government Service Portal, on the same silence. Against the single-source-of-truth framing, named practitioners [describe the arrangement as federated linkage on a shared identifier](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/), with banks still reconciling by hand. The [National Single Window](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), launched in March, is contested by licensed customs agents who say clearance paperwork has multiplied rather than consolidated.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-_(narrative not yet written)_
+Identity gained infrastructure and kept its gap. The passport became [cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) on 16 July; the identity authority [took the national root certification authority over from NITDA](https://techafricanews.com/2026/07/22/nitda-and-nimc-deepen-partnership-to-accelerate-nigerias-digital-public-infrastructure/) on 21 July; and [V-Pass went live](https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem) for airport security checks and boarding on the number and face biometrics. Registration stands at [136 million against a target of 180 million by 31 December](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/), leaving about 100 million people uncaptured on the information minister's own figure.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -109,27 +109,27 @@ An [executive order on virtual assets](https://techafricanews.com/2026/07/20/nig
 ### Strategies, plans and policies
 
 <!-- narrative: dpi--gov-policy -->
-
+The central bank published [Payments System Vision 2028](https://techafricanews.com/2026/06/17/cbn-launches-payments-system-vision-2028-to-transform-nigerias-digital-financial-ecosystem/) on 17 June, a three-year horizon replacing a five-year one, from 2025 baselines of ₦1.2 quadrillion in electronic transactions and 69.5 million unique bank verification numbers. Its 2028 targets are 95% financial inclusion, five million QR merchant outlets and a 70% reduction in fraud losses; [the 132-page text](https://www.cbn.gov.ng/Out/2026/CCD/Nigeria%20Payments%20System%20Vision%202028.pdf) carries a stablecoin issuer-licensing regime no secondary account reported.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: dpi--gov-regional -->
-_(narrative not yet written)_
+[Nigeria, Kenya and Morocco are the first pilots](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) for shared cross-border rails for identity, payments and trusted data exchange, and [the country implementation forum was inaugurated in Abuja on 29 July](https://www.thisdaylive.com/2026/07/30/fg-inaugurates-adapt-forum-to-cut-trade-costs-boost-digital-commerce-under-afcfta-2/).
 <!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: dpi--tech-industry -->
-
+[Mobile money revenue at the largest operator grew about 132% in the first half and active wallets rose 1.3 million to five million](https://techcabal.com/2026/07/31/mtns-airtime-lending-pause-drags-fintech-revenue/), while suspending a single airtime-lending product took second-quarter fintech revenue to ₦12.99bn, down 72.4% year on year — establishing that the book the market had read as a payments business was substantially an airtime-lending business.
 <!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: dpi--capacity-training -->
-_(narrative not yet written)_
+A [diaspora health-workforce registry is described as newly launched](https://fmino.gov.ng/fg-commends-nigerian-health-professionals-in-diaspora-for-strengthening-healthcare-delivery/), with no launch date, custodian agency, enrolment terms or data-protection basis stated in anything held — a register standing up ahead of its governance.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-_(narrative not yet written)_
+Enugu [opened free digital storefronts, company-registration support, digital-trade training and payment enablement to 1,000 state businesses](https://itpulse.com.ng/enugu-launches-tradex-programme-to-support-1000-smes-with-digital-trade/) with Afreximbank's trade platform; cost, funder and selection method are unstated.
 <!-- /narrative -->
 ### National statistics
 
@@ -139,7 +139,7 @@ An inclusive-data initiative brought the national statistics office into a five-
 ### New investments
 
 <!-- narrative: dpi--finance-new -->
-
+[Domestic retail investors traded ₦2.86tn of equities between January and May, up 138.76% year on year](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/) and 36.22% of activity, against ₦4.06tn institutional. Participants name the registrar layer as the operational failure that matters: shareholder names are recorded inconsistently, and dividend payment is delayed behind it.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -152,7 +152,7 @@ On 29 July a claimant won the [first damages award](https://saharareporters.com/
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-_(narrative not yet written)_
+An [Artificial Intelligence and Cyber Diplomacy Unit sits inside the foreign ministry](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/), coordinating engagement on emerging technologies, established after the 2025 inaugural seminar.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -170,7 +170,7 @@ On 28–29 July the Federal High Court [upheld the data-protection commission's 
 ### Access to services
 
 <!-- narrative: ai-tech--include-access -->
-_(narrative not yet written)_
+[An agent-network microfinance operator founded in 2018 was profiled during the month](https://www.wearetech.africa/fr/fils/tech-stars/rukayat-kolawole-bello-connecte-les-exclus-de-la-banque-au-credit), reaching microenterprises and the historically unbanked through trained local agents with naira-denominated formalisation and credit rather than dollar substitution; no user, loan-book or coverage figures are published.
 <!-- /narrative -->
 ### AI
 
@@ -185,7 +185,7 @@ Two of five commercial developments this month, neither regulatory: an enterpris
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
-_(narrative not yet written)_
+[A drive-to-own vehicle financier raised US$250m at a US$2.1bn valuation on 5 August](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/), financing a 42,000-vehicle fleet across fourteen countries against platform earnings — making ride-hailing income the credit-scoring and repayment rail for drivers outside formal banking, a class of alternative-data underwriting no Nigerian instrument addresses. The communications regulator [leased its Digital Industrial Park and Learning Centre to Enugu State for fifteen years](https://www.thisdaylive.com/2026/08/04/ncc-leases-digital-industrial-park-learning-centre-to-enugu/), its executive vice chairman saying that buildings alone do not create innovation; no rent, investment commitment or performance condition is stated. A [crowdsourced food-price platform reports about 2,500 users](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets).
 <!-- /narrative -->
 ### Training and skills
 
@@ -195,12 +195,12 @@ On 3 August a private university announced [robotics, drone and virtual-reality 
 ### Rural digital data capture
 
 <!-- narrative: ai-tech--digital-rural -->
-_(narrative not yet written)_
+[Talks on artificial intelligence for smallholder farmers are exploratory](https://itweb.africa/article/cisco-explores-ai-for-nigeria-farmers/nWJadMbNDjyMbjO1): no programme, funding, timeline or counterparty ministry is named.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: ai-tech--digital-localgov -->
-_(narrative not yet written)_
+Cross River's executive council [approved phase one of a facial- and plate-recognition network](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) specified with Huawei after an inspection of its facilities in China and to be implemented through its local partner, covering Calabar intersections and government precincts, coastal communities and waterways, the Ikang Expressway and Carnival routes, against a stated baseline of under 10% analogue coverage of the metropolis and nothing in five other named towns. The claimed gains are emergency response falling from over 45 minutes to under twelve and 120 technician jobs; no lawful basis, retention rule or oversight arrangement for the face and plate data appears anywhere in the announcement.
 <!-- /narrative -->
 ### New investments
 
@@ -220,7 +220,7 @@ Nothing moved on the identity gender gap, on rural access, or on the schools pro
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-
+[Financial inclusion stood at 74% in 2023](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/), against the 95% the payments vision sets for 2028. A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
 <!-- /narrative -->
 ### Training and skills
 
