@@ -40,12 +40,14 @@ Modes:
   --end       YYYY-MM-DD — close the window here rather than at today. For rebuilding a
               document to a stated date rather than to now.
   --window    months in the progress window (default 12 — an annual progress report).
-  --check     Checks G, I, L and M over every rendered document in the folder.
+  --check     Checks G, I, J, L and M over every rendered document in the folder.
               G: every http(s) URL is held in `index/`. I: no status or movement value outside
               the closed vocabularies, and every ***Not held*** row present in `gaps.csv`.
-              L: no narrative block left unwritten. M: every row that states a position cites a
-              source. Exits non-zero on a miss. A report that fails G or M is not published;
-              one that fails L is not finished.
+              J: no document compiled before the ledger's newest source, and every progress
+              report carries its shape check. L: no narrative block left unwritten. M: every row
+              that states a position cites a source. Exits non-zero on a miss. A report that
+              fails G or M is not published; one that fails L is not finished; one that fails J
+              needs a re-render.
 
 Usage:
   python scripts/report-render.py --unit DZA --links
@@ -871,7 +873,8 @@ def check(unit):
             print("     NOT HELD:", u)
         bad += len(miss)
     print(f"check G: {'PASS' if not bad else 'FAIL — ' + str(bad) + ' link(s) not in index/'}")
-    return (1 if bad else 0) | check_vocab(unit) | check_narrative(unit) | check_sourced(unit)
+    return ((1 if bad else 0) | check_vocab(unit) | check_asof(unit)
+            | check_narrative(unit) | check_sourced(unit))
 
 
 def check_narrative(unit):
@@ -933,6 +936,58 @@ def check_vocab(unit):
     for line in bad:
         print("     ", line)
     print(f"check I: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
+    return 1 if bad else 0
+
+
+def check_asof(unit):
+    """Check J — as-of honesty: a document must show what the ledger holds, and say what it rests on.
+
+    **The failing half is staleness, and it is the one that changes what a reader sees.** A document
+    compiled before the newest `published` on its ledger is rendering a position the base has
+    already moved past — BUILD moved a row and did not rebuild. It is the same question OSINT's
+    check C asks of a hub ("has the page been compiled since the records moved?"), asked of a
+    report, and it is answered against the data rather than a file mtime, which does not survive a
+    clone. The fix is a re-render, which is why this fails rather than reports.
+
+    **The other direction is reported, not failed** *(2026-08-14)*. §6 was written as "no document
+    dated ahead of its newest source", against the old behaviour where every build stamped
+    `compiled:` with the render date, so a document could claim today while holding nothing since
+    July, and the gap grew by a day every day. The window-close rule fixed that at the cause: the
+    close and the date now move only when the document does. What remains is a genuine lag — a
+    document can change for a structural reason without new evidence — and it is disclosed rather
+    than judged, because a window running to a quiet tail is a true statement about a real period,
+    and any threshold on it would be invented.
+
+    The second half of §6's rule — no period comparison without the shape check recorded — is
+    checked here too. `render_progress()` emits it unconditionally, so this asserts that it stayed."""
+    folder, ledger, _ = load(unit)
+    pubs = [(r.get("published") or "").strip() for r in ledger]
+    newest = max([p for p in pubs if p] or [""])
+    if not newest:
+        print("check J: PASS (no dated source on this ledger)")
+        return 0
+    bad, lag = [], None
+    for fn in sorted(os.listdir(folder)):
+        if not fn.endswith(".md"):
+            continue
+        text = open(os.path.join(folder, fn), encoding="utf-8").read()
+        m = re.search(r"^compiled:\s*(\d{4}-\d{2}-\d{2})", text, re.M)
+        if m and m.group(1) < newest:
+            bad.append(f"{fn}: compiled {m.group(1)}, but the ledger cites a source published "
+                       f"{newest} — the document does not yet show it, re-render")
+        if fn.endswith("-progress.md"):
+            if "Shape check" not in text:
+                bad.append(f"{fn}: no shape check — §7 requires it before any period comparison")
+            p = re.search(r"^period: \d{4}-\d{2}-\d{2} to (\d{4}-\d{2}-\d{2})", text, re.M)
+            if p:
+                lag = (datetime.date.fromisoformat(p.group(1))
+                       - datetime.date.fromisoformat(newest)).days
+    for line in bad:
+        print("     ", line)
+    if lag and lag > 0:
+        print(f"      note: the progress window closes {lag} day(s) after the newest source on "
+              f"this ledger — a true window over a quiet tail, disclosed not judged")
+    print(f"check J: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
     return 1 if bad else 0
 
 
