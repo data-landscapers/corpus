@@ -86,6 +86,12 @@ def setup_workroot():
                          ("index", os.path.join(OSINT, "index")),
                          ("lookups", os.path.join(OSINT, "lookups")),
                          ("scripts", TOOLCHAIN),
+                         # `report-register-check.py` reads its word budgets from the skeletons in
+                         # documentation/, so without this it dies on FileNotFoundError when run
+                         # from the workroot — which is where BUILD.md tells stage 4 to run
+                         # everything. Corpus's own directory, linked for the same reason outputs/
+                         # is: one working directory for the whole stage.
+                         ("documentation", os.path.join(CORPUS, "documentation")),
                          ("outputs", OUTPUTS)):
         _link_dir(os.path.join(WORK, name), target)
 

@@ -105,7 +105,7 @@ def prose_spans(text):
     punctuation stranded as its own token. That difference is small and it points the wrong way:
     it charges a document a word every time a sentence gains the citation `report-layer.md` §5
     requires it to carry."""
-    return [(m.start(2), mask_urls(m.group(2)), ANCHOR.sub(r"\1", m.group(2)))
+    return [(m.start(2), mask_urls(m.group(2)), ANCHOR.sub(r"\1", m.group(2)), m.group(2))
             for m in MARKER.finditer(text)]
 
 
@@ -121,12 +121,53 @@ def kind_of(path):
     return None
 
 
+CITED = re.compile(r"\]\(https?://")
+FIGURE = re.compile(r"(?:US\$|R|EUR|£|\$)\s?\d[\d,.]*\s?(?:m|bn|billion|million)?"
+                    r"|\b\d+(?:\.\d+)?\s?(?:%|per cent)"
+                    r"|\b\d{1,3}(?:,\d{3})+\b"
+                    r"|\b\d{4,}\b")
+YEAR = re.compile(r"^(?:19|20)\d\d$")
+
+
+def unprovenanced(block):
+    """Check H — **a figure in narrative prose must have a source; it need not be in the ledger**
+    *(Bill, 2026-08-14)*.
+
+    This asks only **that a source exists**. It does not open the source, does not compare the
+    figure against it, and does not ask which sentence the citation belongs to. Provenance, not
+    fact-checking.
+
+    **It replaces a rule that could not have worked.** §6 used to require that every figure and
+    status word in a block appear in that section's ledger rows. That is an unscoped copy of a
+    check OSINT ran and retired: `LINT.md` records the line-level money scan running "~90%
+    false-positive" until it "stopped being read", and `REPORT-LINT.md`'s check E refuses the
+    domestic block for the same reason, because "nearly every honest sentence in it holds a figure
+    that sits in no single record cell". It also fought `report-layer.md` §2 — the build must never
+    become a chronology, so a monthly's prose carries event detail that is deliberately *not* a
+    ledger position, and the old rule made every such sentence a defect. Its own reference-study
+    exemption already conceded the point: that figure was exempt precisely because it carries its
+    own citation.
+
+    OSINT's settled definition of provenance is the one used here — "a wikilink to a dated `raw/`
+    slug or an inline URL" — and its scope rule is the one applied: check the prose that has no
+    provenance machinery of its own. The tables have theirs, in checks M and G.
+
+    **The block is the unit, not the sentence.** A block carrying citations is sourced prose, and
+    asking which of them covers which figure is the fact-check this deliberately is not."""
+    if CITED.search(block):
+        return []
+    return [f for f in dict.fromkeys(FIGURE.findall(block)) if not YEAR.match(f.strip())]
+
+
 def check_file(path, budget):
     text = open(path, encoding="utf-8").read()
     spans = prose_spans(text)
-    hits, words = [], 0
-    for start, block, countable in spans:
+    hits, words, figs = [], 0, []
+    for start, block, countable, raw in spans:
         words += len(re.sub(r"\[([^\]]*)\]", r"\1", countable).split())
+        bare = unprovenanced(raw)
+        if bare:
+            figs.append((line_of(text, start), bare))
         for label, patterns, icase in TERMS:
             for pat in patterns:
                 for m in re.finditer(pat, block, re.I if icase else 0):
@@ -136,7 +177,7 @@ def check_file(path, budget):
     for m in re.finditer(r"^## Comment\s*$", text, re.M):
         hits.append((line_of(text, m.start()), "comment section",
                      "## Comment — removed from the layer 2026-08-04"))
-    return sorted(hits), words
+    return sorted(hits), words, figs
 
 
 def main():
@@ -158,7 +199,7 @@ def main():
 
     budget = {k: budgets(k) for k in SKELETONS}
     pattern = os.path.join(REPORTS, args.unit.upper() if args.unit else "*", "*.md")
-    flagged = over = 0
+    flagged = over = uncited = 0
     for path in sorted(glob.glob(pattern)):
         kind = kind_of(path)
         if not kind:
@@ -167,18 +208,23 @@ def main():
         band_for = budget["region" if unit.startswith("X") else "country"]
         if kind not in band_for:                 # a document the unit's skeleton does not budget
             continue
-        hits, words = check_file(path, band_for)
+        hits, words, figs = check_file(path, band_for)
         lo, hi = band_for[kind]
         rel = os.path.relpath(path, ROOT)
         band = "" if lo <= words <= hi else (f"  OVER by {words - hi}" if words > hi
                                              else f"  UNDER by {lo - words}")
         if band:
             over += 1
-        print(f"{rel}  {words} words ({lo}-{hi}){band}  {len(hits)} register hit(s)")
+        print(f"{rel}  {words} words ({lo}-{hi}){band}  {len(hits)} register hit(s)"
+              + (f"  {len(figs)} uncited block(s)" if figs else ""))
         for line, label, text in hits:
             print(f"    {rel}:{line}  [{label}] {text}")
+        for line, bare in figs:
+            print(f"    {rel}:{line}  [check H] no citation in this block: {', '.join(bare)}")
         flagged += len(hits)
+        uncited += len(figs)
     print(f"\nregister: {flagged} hit(s) to rule on; budget: {over} document(s) outside band")
+    print(f"check H: {uncited} narrative block(s) carrying a figure with no source to follow")
     return 1 if (flagged or over) else 0
 
 
