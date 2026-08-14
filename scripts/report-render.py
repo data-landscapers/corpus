@@ -539,19 +539,20 @@ def _canonical(text):
     render (see `CLOSE`). Only the *stored* copy on disk carries a real close, and `write()` puts
     that same date back into the render before comparing the two.
 
-    The digest line is **removed** rather than masked so that a document written before the field
-    existed canonicalises identically to one written after it. That is what lets the field be
-    added to the existing documents without any of them being backdated or forward-dated."""
+    The digest line is **removed** rather than masked, because a hash cannot cover the line that
+    carries it, and because a document written before the field existed must canonicalise the same
+    way as one written after it — otherwise the first build after the field arrives would compare
+    two things that differ only in whether the field was there."""
     return RECORD_RE.sub("", COMPILED_RE.sub(r"\g<1>DATE", text))
 
 
 def period_close(text):
     """The closing date a document on disk prints, or None.
 
-    **This is not the period read-back that went with the issue model.** Nothing is rendered to
-    this date: it is read only so that an existing file and a fresh render can be compared on
-    content alone, and so that a document whose content has not changed keeps the window it
-    already states rather than being widened to today for nothing."""
+    **This is not the period read-back that went with the issue model.** Nothing is rendered to it
+    and nothing is decided by it: a document whose content has not changed keeps the window it
+    prints by not being rewritten at all, and this reads it back only so the run can report which
+    window that was."""
     m = PERIOD_CLOSE_RE.search(text)
     return m.group(1) if m else None
 
@@ -602,7 +603,19 @@ def write(path, out, unit, note, today=None, close=None):
     2026-08-14)*. A stated window that has fallen behind the build is acceptable, because the close
     is a property of the last change and `compiled:` says when that was. It can only ever
     understate: the close never claims evidence the document does not hold, and the next thing that
-    actually moves brings both dates forward together."""
+    actually moves brings both dates forward together.
+
+    **A document with no stored digest is stamped today** *(Bill, 2026-08-14)*. There was briefly a
+    migration path here that kept the existing date where the render matched the file, so that
+    adding the field would neither back- nor forward-date anything. It could not work, and it
+    failed in the one direction that matters: with no digest to compare against it fell back to
+    comparing the render with the file, which is the exact mistake the paragraph above exists to
+    reject — the renderer carries the prose across *from that file*, so a hand-written block
+    reproduces itself and the comparison sees nothing. It was demonstrated on `SLE-progress.md`,
+    whose prose was edited and which kept a compiled date four days older than its content, and
+    it would have swallowed BUILD's whole drafting backlog, since writing prose into a block is
+    precisely the change it cannot see. Stamping today is exact from the next build onward and
+    wrong only in the safe direction, on the one build where the field arrives."""
     new = "\n".join(out)
     fresh = digest(new)
     stamp = close
@@ -614,21 +627,6 @@ def write(path, out, unit, note, today=None, close=None):
                   + (f", window still to {period_close(open(path, encoding='utf-8').read())}"
                      if close else ""))
             return 0
-        if held is None and os.path.exists(path):
-            # A document written before the digest field existed. Adding the field must not
-            # backdate or forward-date it, or widen its window: if the content is the same, keep
-            # both the date and the close it has. The render is probed with the *old* close
-            # substituted, so the comparison is on content and nothing else.
-            old = open(path, encoding="utf-8").read()
-            was = period_close(old)
-            probe = new.replace(CLOSE, was) if (close and was) else new
-            if _canonical(probe) == _canonical(old):
-                keep_date = compiled_date(path)
-                if keep_date:
-                    new = COMPILED_RE.sub(lambda m: f"{m.group(1)}{keep_date}", new)
-                    stamp = was or close
-                    note = (f"digest added, compiled date kept at {keep_date}"
-                            + (f", window kept to {stamp}" if close else ""))
     new = new.replace(PENDING, f"record: {fresh}")
     if close:
         new = new.replace(CLOSE, stamp or close)
