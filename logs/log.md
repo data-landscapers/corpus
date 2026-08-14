@@ -21,3 +21,4 @@ title: Corpus process log
 2026-08-14 11:07 · build · check split corrected (A-F OSINT, G-K Corpus); H and J marked not implemented; R3 no longer tells OSINT to drop A and D · revert: 1a08dac
 2026-08-14 11:42 · build · window close rendered as a sentinel and substituted on write, so an unchanged document keeps its date and its window; nil month now issues a monthly that says so · revert: c6a4631
 2026-08-14 11:52 · build · vault_lib refuses to rebuild an index reached through a junction — a Corpus render could have rebuilt C:\OSINT\index as a side effect of reading it · revert: b70b0cc
+2026-08-14 12:06 · build · empty index/ removed and gitignored; build_index refuses to write an index of 0 artefacts and slug_urls refuses to read one — the state reported itself fresh and stripped every citation in silence · revert: HEAD
