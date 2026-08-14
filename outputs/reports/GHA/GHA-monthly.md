@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: GHA
 ledger_rows: 84
 not_held: 9
-record: 7edd59c046fb
+record: 0437a03daba7
 ---
 
 # Ghana: monthly update, July 2026
@@ -35,12 +35,12 @@ The same 29 July announcement reaffirmed the US$250m AI compute centre approved 
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
-_(narrative not yet written)_
+No power purchase, tariff or on-site generation arrangement is published for any named Ghanaian data-centre facility, and a probe on 5 August found none. What is available is country-level and modelled: [about 6 GW of installed capacity of which roughly half reaches the end user, electricity at about US$0.12 per kWh and independent producers at more than 60% of capacity](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Ghana.pdf), on 2024 estimates in an analyst brief.
 <!-- /narrative -->
 ### Technical Capacity
 
 <!-- narrative: infrastructure--infra-capacity -->
-_(narrative not yet written)_
+The cable inventory did not move; what moved is the base's reading of it. The regulator [names five submarine cable providers on an undated page](https://nca.org.gh/submarine-cable-landing/) resting the licence on section 3(8) of the Electronic Communications Act 2008, a list that predates later landings, while an analyst brief [counts six cables at Accra and about 2.5 Tbps of international capacity in use](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Ghana.pdf) on a 2024 estimate. Neither is the regulator's own current count.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -53,7 +53,7 @@ A community-media cyber capability project launched on 3 August, certifying comm
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-
+Interoperable mobile-money transfers ran to [33.5 million transactions worth GH¢6.2bn in June](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/) — about 1.3% of total mobile-money value. The share, not the volume, is the measure of interoperability, and it is the figure that has stayed small since the service went live in 2018.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -70,7 +70,7 @@ Enforcement of the digital-credit regime opened. A notice of 20 July recorded th
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-_(narrative not yet written)_
+Business registration is [in pilot for end-to-end filing from name search to certification with no physical submission](https://amchamghana.org/2026/07/23/amcham-ghana-engages-registrar-general-on-digital-transformation-and-business-registration-reforms/), integrating with national identification for verification, with a companion beneficial-ownership verification service piloting with banks on a subscription basis. Launch is given only as the coming months.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -80,17 +80,17 @@ The finance ministry reported to Parliament that the customs valuation system ha
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-_(narrative not yet written)_
+Nothing is held on local-government electronic services. The public-sector reform strategy [names local government only as an integration target](https://www.graphic.com.gh/news/general-news/ghana-news-govt-targets-public-services-full-digitisation-under-npsrs-ii.html), and no district service platform or local-government digitisation report has been found that would settle it.
 <!-- /narrative -->
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-_(narrative not yet written)_
+The statistical service [published the third wave of its six-monthly governance panel on 6 August](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html), run across all sixteen regions, with the Government Statistician putting its findings to digital remedies — digitising public services and publishing official fees among them. The report text is not held. Separately the finance minister [asked the service to develop a methodology for quarterly employment statistics](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/); none is published and no timetable is set.
 <!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: dpi--data-satellite -->
-
+Two satellite-derived systems were [named as live deployments at a university lecture reported on 10 August](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/): an agricultural information and monitoring system, and a national forest monitoring system paired with a deforestation tracker built toward European deforestation-regulation compliance for cocoa and gold supply chains. Both are named by their builder, and no coverage, accuracy, user or funding figure is published for either.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -108,12 +108,12 @@ The government [announced a ten-year artificial-intelligence implementation plan
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-_(narrative not yet written)_
+Ghana's regional position moved on three fronts, none of them with a text attached. African Union ministers [endorsed continental roll-out of the illicit-financial-flows policy tracker](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) from the six-country pilot Ghana ran over eighteen months, the finance ministry reporting that it contributed to recovering millions of dollars in revenue — with no Ghana-specific score, finding or reform list published. The communications ministry [announced a partnership on digital-policy intelligence and regulatory-analysis tools](https://techafricanews.com/2026/08/10/ghana-ministry-and-digital-policy-alert-partner-to-strengthen-digital-governance/) at an Accra workshop on 10 August, covering the national AI strategy, data-governance work and the coders programme, with no funding, duration or deliverables stated. And the [fintech licence passporting memorandum with Rwanda remains unpublished by either central bank](https://techafricanews.com/2026/07/30/the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs/) eighteen months after signature, so which licence categories are recognised, and on what conditions, is still unestablished.
 <!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-_(narrative not yet written)_
+The central bank's [cyber and information security directive is in force](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) as the country's first comprehensive artificial-intelligence governance framework for financial institutions, carrying cloud-security rules, proportionality by size and risk, and mandatory board-level accountability. Against that, the communications minister [named a national data exchange hub again on 29 July](https://gna.org.gh/2026/07/govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth/) as something government plans to establish, with no design, cost or timetable, and without saying whether it revives the system launched in 2009 or replaces it.
 <!-- /narrative -->
 ### Data protection
 
@@ -138,7 +138,7 @@ On 27 July a company filed a writ claiming authorship of the 2007 design of the 
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
-_(narrative not yet written)_
+Two assistive devices are [in pilot with a disability association — smart glasses and an ultrasonic obstacle detector — at a target price of about GH¢2,000 and a 1,500-user target within a year](https://techcabal.com/2026/08/04/assistive-technology-for-african-users/).
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -171,7 +171,7 @@ Training capacity was the month's activity. A youth agency [signed for 2,000 ven
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-_(narrative not yet written)_
+Parliament [approved a twenty-year public-private toll concession on 31 July](https://ghstandard.com/business-news-in-ghana/ghana-economy-news/parliament-approves-20-year-electronic-road-toll-concession/) for nationwide fully electronic collection, through a special-purpose vehicle to be established by a named company. No concession value, revenue split, corridor count, build timetable or collection technology is stated. A [national financial-technology fund remains to be aligned with a forthcoming innovation and startup framework](https://techafricanews.com/2026/07/07/ghana-and-undp-strengthen-partnership-on-digital-transformation-projects/) that would set eligibility and give it a legal basis; no size, source of funds or date is given.
 <!-- /narrative -->
 ### Domestic budget appropriations and expenditure
 
