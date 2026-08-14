@@ -65,9 +65,13 @@ Each process owns: its unit, its outstanding list, its section layout, its skele
 
 **An issued document's period is fixed at the moment it is cut.** The renderer reads back the `period:` line of a document that already exists, so a re-render for a format change, or a re-run of an interrupted build, never widens a document a reader may already have cited. `--end` overrides, and is for re-cutting a period that was printed wrong.
 
-**`compiled:` changes only when the record changes** *(Bill, 2026-08-14)*. It is the date the document last **changed**, never the date the build last **ran**. A render that would produce a document identical to the one on disk therefore leaves the file alone: the old date stands, the mtime does not move, and nothing enters the diff. `report-render.py` compares the two with the date masked, so the date can never itself be the thing that makes a document look changed.
+**`compiled:` changes only when the record changes** *(Bill, 2026-08-14)*. It is the date the document last **changed**, never the date the build last **ran**. A render that changes nothing leaves the file alone: the old date stands, the mtime does not move, and nothing enters the diff. This is the same discipline as `period:` above, applied to the other dated field, and **making the date true is BUILD's whole obligation here** — what reads it afterwards is not BUILD's concern.
 
-This is the same discipline as `period:` above, applied to the other dated field. While every render rewrote every file the date was true of the run and false of the document, which put 165 files into every commit and left nothing downstream able to tell which of them had actually moved. **Making the date true is BUILD's whole obligation here**; what reads it afterwards is not BUILD's concern.
+**The date is judged against a stored digest, `record:`, not against the file on disk.** Comparing the render to the file looks sufficient and is not, because the renderer carries the narrative across *from that same file*: a drafter who writes prose into a block and re-renders produces output identical to what is already there, so a file-to-render comparison sees nothing and the date stands still while the document changes. `record:` is a short hash of the document with `compiled:` and `record:` themselves taken out, written at the same moment the date is; the prose is part of the content, so prose entering a block changes the digest whoever wrote it and by whatever route.
+
+This is the failure the field exists to prevent, and it has happened: on 2026-08-13, 116 dated PDFs were overwritten in place because their bodies had moved while `compiled:` had not (`scripts/render.py`). A date that can stand still through a change is worse than no date, because everything downstream trusts it.
+
+A document written before the field existed canonicalises identically to one written after it, so the field can be added across the existing documents without backdating or forward-dating any of them: the first render after this change stamps `record:` and **keeps the `compiled:` date already there**.
 
 **What the build must never become is a chronology.** The report layer moves *positions*; events live in the dated source pages that cite them.
 
@@ -160,6 +164,8 @@ outputs/reports/{unit}/{unit}-monthly-YYYY-MM.md   # one dated issue per month, 
 outputs/reports/{unit}/{unit}-progress-YYYY-MM.md  # one dated issue per window, never overwritten
 outputs/reports/{unit}/considered.txt              # slugs the ledger has looked at — the set difference §2 works over
 ```
+
+Every issued document carries `compiled:` and `record:` in its frontmatter, and the pair is the layer's statement about identity: `record:` says *what this document is*, `compiled:` says *when it last became that*. Neither is ever written by hand.
 
 **The status report keeps a stable filename and the dated issues are immutable.** A published status page needs a URL that does not move and its history is in git; a monthly *is* an issue. Nothing here is a source: reports are derived views, never cited by a wiki page, never re-ingested into OSINT.
 

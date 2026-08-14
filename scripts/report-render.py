@@ -52,6 +52,7 @@ import argparse
 import collections
 import csv
 import datetime
+import hashlib
 import importlib.util
 import os
 import re
@@ -397,7 +398,10 @@ def front(title, today, unit, ledger_rows, not_held, period=None):
     fm = ["---", f"title: {title}", f"compiled: {today}"]
     if period:
         fm.append(f"period: {period}")
-    fm += [f"place: {unit}", f"ledger_rows: {ledger_rows}", f"not_held: {not_held}", "---", ""]
+    fm += [f"place: {unit}", f"ledger_rows: {ledger_rows}", f"not_held: {not_held}",
+           # The content digest `compiled:` is judged against — see write(). Filled in on write,
+           # because it is a hash of the finished document.
+           PENDING, "---", ""]
     return fm
 
 
@@ -437,11 +441,33 @@ def load(unit):
 
 
 COMPILED_RE = re.compile(r"^(compiled: |\*Compiled )\d{4}-\d{2}-\d{2}", re.M)
+RECORD_RE = re.compile(r"^record: [0-9a-fx]+\n", re.M)
+PENDING = "record: xxxxxxxxxxxx"
 
 
-def _undated(text):
-    """The document with its compiled date masked, for comparing record against record."""
-    return COMPILED_RE.sub(r"\g<1>DATE", text)
+def _canonical(text):
+    """The document's content, with the two fields that describe it rather than belong to it
+    taken out — the compiled date masked, the digest line removed entirely.
+
+    The digest is **removed** rather than masked so that a document written before the field
+    existed canonicalises identically to one written after it. That is what lets the field be
+    added to the existing 165 documents without any of them being backdated or forward-dated."""
+    return RECORD_RE.sub("", COMPILED_RE.sub(r"\g<1>DATE", text))
+
+
+def digest(text):
+    return hashlib.sha1(_canonical(text).encode("utf-8")).hexdigest()[:12]
+
+
+def stored_digest(path):
+    """The digest an existing document carries, or None if it predates the field."""
+    if not os.path.exists(path):
+        return None
+    for line in open(path, encoding="utf-8").read().split("\n")[:12]:
+        m = re.match(r"record:\s*([0-9a-f]{12})\s*$", line)
+        if m:
+            return m.group(1)
+    return None
 
 
 def write(path, out, unit, note, today=None):
@@ -452,16 +478,38 @@ def write(path, out, unit, note, today=None):
     ran*. Those were the same thing while every render rewrote every file, which put 165 files into
     every diff and left the date unable to answer the only question it is asked.
 
-    A re-render that changes nothing therefore leaves the file untouched — the old date stands and
+    **The comparison is against a stored digest, not against the file.** Comparing the render to
+    the file on disk looks right and is wrong, because the renderer *carries the narrative across
+    from that same file*: a drafter who writes prose into a block and re-renders produces output
+    identical to what is already there, so a file-to-render diff sees nothing and the date stands
+    still while the document changes. That is the failure `render.py` records against 2026-08-13,
+    when 116 dated PDFs were overwritten in place because bodies moved and `compiled:` did not.
+    A digest of the last-written content cannot miss it: the prose is in the content, so adding
+    prose changes the digest whoever wrote it and however it got there.
+
+    A re-render that genuinely changes nothing leaves the file untouched — the old date stands and
     the mtime does not move. This is `period_end()`'s discipline applied to the other dated field:
-    a render must never make a document look newer than it is."""
+    a render must never make a document look newer, or older, than it is."""
     new = "\n".join(out)
-    if today and os.path.exists(path):
-        old = open(path, encoding="utf-8").read()
-        if _undated(old) == _undated(new):
+    fresh = digest(new)
+    if today:
+        held = stored_digest(path)
+        if held == fresh:
             print(f"{unit}: {os.path.relpath(path, ROOT)} unchanged — "
                   f"compiled date left at {compiled_date(path) or 'unknown'}")
             return 0
+        if held is None and os.path.exists(path):
+            # A document written before the digest field existed. Adding the field must not
+            # backdate or forward-date it: if the content is the same, keep the date it has.
+            old = open(path, encoding="utf-8").read()
+            if _canonical(old) == _canonical(new):
+                keep_date = compiled_date(path)
+                if keep_date:
+                    new = COMPILED_RE.sub(
+                        lambda m: f"{m.group(1)}{keep_date}", new)
+                    fresh = digest(new)
+                    note = f"digest added, compiled date kept at {keep_date}"
+    new = new.replace(PENDING, f"record: {fresh}")
     with open(path, "w", encoding="utf-8", newline="\n") as fh:
         fh.write(new)
     print(f"{unit}: wrote {os.path.relpath(path, ROOT)} — {note}")
