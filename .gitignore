@@ -17,6 +17,13 @@ __pycache__/
 *.pyc
 .workroot/
 
+# `build-finance-page.py` writes a per-place {ISO3}-summary.csv on every build, and
+# nothing reads it: budget work is suspended, so `country.py` does not open it and
+# `finance.py` does not aggregate it. Bill removed all 59 from the repo on 2026-08-14
+# for that reason; the compiler keeps producing them, so they are ignored rather than
+# deleted in a loop. Drop this line when budget work resumes.
+outputs/non-state-finance/*-summary.csv
+
 # The index is rebuildable scaffolding and is never committed — the freshness
 # sweep in vault_lib is what pays for that. Corpus reads OSINT's through the
 # workroot junctions; an index/ appearing here means a script was run with the
