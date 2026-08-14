@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: TGO
 ledger_rows: 29
 not_held: 39
-record: c91b8f8675d3
+record: 9a755a6ddb4e
 ---
 
 # Togo: monthly update, July 2026
@@ -38,7 +38,7 @@ The cyber institutions are in place and the record of what they do is thin. [The
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Payments moved on a deadline. Retirement allowances [began paying by bank transfer and mobile money in July](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/), and allowances stop on 31 August for beneficiaries who have not registered payment details; no beneficiary count or registration rate is published, and no alternative is stated for someone without a bank account, a handset or an identity document. The regional [deadline to connect to the instant payment platform moved from 30 June to 30 September](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi), and to 30 June 2027 for microfinance institutions. The market beneath both stands at [4.96m mobile-money subscribers, up 21 per cent, and FCFA 1,398bn transacted in the third quarter of 2025, up 33 per cent](https://www.togofirst.com/fr/telecoms/0807-19499-mobile-money-moov-africa-togo-lance-de-nouveaux-services-pour-renforcer-sa-position), one wallet holding 58 per cent of subscribers. A [treasury prepaid card was announced](https://www.togofirst.com/en/public-management/2407-19673-togo-plans-prepaid-cards-to-digitize-public-payments) with no timetable and no confirmation that a file has been lodged with the central bank.
+Payments moved on a deadline. Retirement allowances [began paying by bank transfer and mobile money in July](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/), and allowances stop on 31 August for beneficiaries who have not registered payment details; no beneficiary count or registration rate is published, and no alternative is stated for someone without a bank account, a handset or an identity document. The regional [deadline to connect to the instant payment platform moved from 30 June to 30 September](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi), and to 30 June 2027 for microfinance institutions. A [treasury prepaid card was announced](https://www.togofirst.com/en/public-management/2407-19673-togo-plans-prepaid-cards-to-digitize-public-payments) with no timetable and no confirmation that a file has been lodged with the central bank.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 

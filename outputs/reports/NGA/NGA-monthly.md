@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: NGA
 ledger_rows: 99
 not_held: 7
-record: 6eef125ed2dd
+record: 965c7f5ffe81
 ---
 
 # Nigeria: monthly update, July 2026
@@ -220,7 +220,7 @@ Nothing moved on the identity gender gap, on rural access, or on the schools pro
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-[Financial inclusion stood at 74% in 2023](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/), against the 95% the payments vision sets for 2028. A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
+A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
 <!-- /narrative -->
 ### Training and skills
 

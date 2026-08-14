@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: EGY
 ledger_rows: 72
 not_held: 54
-record: 2984789d3423
+record: 092412fe068d
 ---
 
 # Egypt: monthly update, July 2026
@@ -53,7 +53,7 @@ Identity gained a second biometric front end and a liability problem in the same
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The payment stock is large and its newest figure is old. The instant payment network stood at [16 million users and EGP 4.2tn transacted in the year to June 2025](https://gate.ahram.org.eg/News/5541984.aspx), with inbound remittances now credited instantly at all banks — nothing fresher than June 2025 is held, so the position is thirteen months old. Wallets carry [over 55.5 million accounts and about EGP 1.8tn to June 2025](https://www.elwatannews.com/news/details/8325979), against a Senate proposal of June 2026 putting the base at 45 million — unreconciled. Cards run to [29.1 million debit and 34.3 million prepaid](https://gate.ahram.org.eg/News/5335311.aspx), the national scheme still counted at 43.5 million from end-2024 — a position unmoved on the record in nineteen months. The part that did move is factoring, where the platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
+Two things moved on the payment rails. The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). And factoring, where the platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
