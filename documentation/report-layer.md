@@ -176,6 +176,8 @@ Every document carries `compiled:` and `record:` in its frontmatter, and the pai
 
 What this leaves is a sentence still describing a period that has moved on: well-formed prose that no check can catch, because there is nothing malformed about it. Finding it is the point of the revision, and it is BUILD's.
 
+**A build that discards prose says so.** A section with nothing in it is not printed, so a rebuild can legitimately drop a section that had writing under it — legitimately, but never silently. The renderer names every block that held prose and was not asked for. This is the one operation in the layer that destroys writing, and it used to be reported as *"N narrative block(s) carried across"*, counting the blocks **found** rather than the blocks **kept**: a build that threw a paragraph away claimed to have preserved it. Git holds the prose either way; knowing it went is the point.
+
 Earlier states live in git, and the dated artefacts RENDER writes are what a citation points at. Nothing here is a source: reports are derived views, never cited by a wiki page, never re-ingested into OSINT.
 
 These constraints bind **from public launch**, not retroactively — nothing in `outputs/` was ever public before the migration, so the layer was free to be re-cut clean (migration-report-layer.md → *What we agreed*).

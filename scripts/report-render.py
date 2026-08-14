@@ -447,11 +447,25 @@ def blocker(path):
     release a document with an unwritten block (BUILD.md -> Narrative integrity), and `--check`
     fails on one so that rule is enforced rather than trusted."""
     keep = existing_blocks(path)
+    used = set()
 
     def block(key):
+        used.add(key)
         return (f"<!-- narrative: {key} -->\n"
                 f"{keep.get(key, '')}\n<!-- /narrative -->")
-    return block, keep
+
+    def dropped():
+        """Blocks that held prose and were not asked for — authored writing this build discards.
+
+        A section with nothing in it is no longer printed, and selection moved to `published`, so
+        a rebuild can legitimately drop a section that had prose under it. Legitimate is not the
+        same as invisible: this is the one operation in the layer that destroys writing, and it
+        used to be reported as `N narrative block(s) carried across` — counting the blocks *found*
+        rather than the blocks *kept*, so a build that discarded a paragraph said it had preserved
+        it. The prose is in git either way; knowing it went is the point."""
+        return sorted(k for k, v in keep.items() if v.strip() and k not in used)
+
+    return block, keep, dropped
 
 
 def gaps_table(gaps, label="System or instrument"):
@@ -510,6 +524,15 @@ def stored_digest(path):
     return None
 
 
+def note_drop(dropped, unit):
+    """The write note's narrative half, plus a loud line when prose is being discarded."""
+    gone = dropped()
+    if gone:
+        print(f"  !! {unit}: {len(gone)} narrative block(s) with prose DROPPED — their section no "
+              f"longer renders: {', '.join(gone[:6])}{' ...' if len(gone) > 6 else ''}")
+    return f"{len(gone)} block(s) of prose dropped" if gone else "narrative carried across"
+
+
 def write(path, out, unit, note, today=None):
     """Write the document — but **only stamp a new compiled date if the record changed**
     *(Bill, 2026-08-14)*.
@@ -566,7 +589,7 @@ def render(unit, today):
     # A measure moves but has no current state to inventory (§1), so the status report omits it.
     ledger = [r for r in ledger if (r.get("kind") or "instrument") != "measure"]
     path = os.path.join(folder, f"{unit}-status.md")
-    block, keep = blocker(path)
+    block, keep, dropped = blocker(path)
     not_held = sum(1 for r in ledger if r["status"] == NOT_HELD)
     name = place_name(unit)
     out = front(f"{name} — digital transformation and data governance status report",
@@ -600,7 +623,7 @@ def render(unit, today):
         out += ["", "## Gaps to fill", ""] + gaps_table(gaps) + ["", block("gaps")]
     out.append("")
     return write(path, out, unit, f"{len(ledger)} rows, {not_held} not held, "
-                 f"{len(keep)} narrative block(s) carried across", today)
+                 f"{note_drop(dropped, unit)}", today)
 
 
 def render_monthly(unit, today, month, end=None):
@@ -620,7 +643,7 @@ def render_monthly(unit, today, month, end=None):
               f"(documentation/report-layer.md §2)")
         return 0
     ordered, _ = sections(unit)
-    block, keep = blocker(path)
+    block, keep, dropped = blocker(path)
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     name = place_name(unit)
     pretty = datetime.date.fromisoformat(start).strftime("%B %Y")
@@ -656,8 +679,8 @@ def render_monthly(unit, today, month, end=None):
             subkey = f"{key}--{subject.replace('.', '-')}"
             out += [f"### {tax_label.get(subject, subject)}", "", block(subkey)]
     out.append("")
-    return write(path, out, unit, f"{len(changed)} row(s) moved in {start} to {end}, "
-                 f"{len(keep)} narrative block(s) carried across", today)
+    return write(path, out, unit, f"{len(changed)} row(s) in {start} to {end}, "
+                 f"{note_drop(dropped, unit)}", today)
 
 
 def render_progress(unit, today, month, window, end=None):
@@ -674,7 +697,7 @@ def render_progress(unit, today, month, window, end=None):
     urls = slug_urls()
     path = os.path.join(folder, f"{unit}-progress.md")
     start, end = month_bounds(month, window, end or today)
-    block, keep = blocker(path)
+    block, keep, dropped = blocker(path)
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     held = [r for r in ledger if stem(r["status"]) != NOT_HELD]
     name = place_name(unit)
@@ -755,7 +778,7 @@ def render_progress(unit, today, month, window, end=None):
     out.append("")
     return write(path, out, unit, f"{len(movers)} moved, {len(steady)} no change, "
                  f"{len(unbased)} without a baseline, {not_held} not held, "
-                 f"{len(keep)} narrative block(s) carried across", today)
+                 f"{note_drop(dropped, unit)}", today)
 
 
 def check(unit):
