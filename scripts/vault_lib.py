@@ -434,8 +434,43 @@ def _links(row, body_text):
     return out
 
 
+class ForeignIndex(RuntimeError):
+    """A rebuild was attempted on an index belonging to another repository."""
+
+
+def _assert_own_index():
+    """Refuse to rebuild an index that does not physically live in the tree being indexed.
+
+    **Corpus must never write into OSINT** (`CLAUDE.md`). It reads the base through junctions in
+    `scripts/.workroot/`, so `INDEX_DIR` resolves there to `C:\\OSINT\\index` — and every consumer
+    calls `load_index()`, which calls `ensure_fresh()`, which rebuilds in place the moment the base
+    has moved. A nightly sweep upstream is enough to trigger it. That is the derived view writing
+    back to its own source, which destroys the property that makes it derivable, and it does so
+    quietly, as a side effect of reading.
+
+    The test is physical, not a flag a caller has to remember to pass: an index reached through a
+    junction belongs to whoever it lives under, and only a run rooted there may rebuild it. A run
+    in OSINT itself is unaffected, because there the index really is inside the tree.
+
+    **It raises rather than carrying on with what it has.** A stale index is missing the newest
+    sources' URLs, and `slug_urls()` -> `cite()` drops a citation it cannot resolve *silently* —
+    the report renders with the link quietly absent, and check G passes because there is no link
+    left to check. Stopping is the only outcome that cannot publish a false clean bill."""
+    root, index = os.path.realpath(ROOT), os.path.realpath(INDEX_DIR)
+    try:
+        own = os.path.commonpath([root, index]) == root
+    except ValueError:                                  # different drives: not ours by definition
+        own = False
+    if not own:
+        raise ForeignIndex(
+            f"refusing to rebuild {index} — it belongs to the tree at {os.path.dirname(index)}, "
+            f"not to this run rooted at {root}. Corpus never writes into OSINT (CLAUDE.md); "
+            f"rebuild the index from an OSINT session and run this again.")
+
+
 def build_index(roots=INDEX_ROOTS, db=False, quiet=True):
     """Rebuild `index/` from scratch. The only writer there is."""
+    _assert_own_index()
     t0 = time.time()
     os.makedirs(INDEX_DIR, exist_ok=True)
     files, links = [], []
