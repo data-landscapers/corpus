@@ -53,23 +53,24 @@ Durable path (do later): in `scripts/render.py`, `scripts/home.py`, `scripts/cou
 
 ```bash
 rendered=0; failed=0
-for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress.md upstream/reports/*/*-monthly.md; do
+for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress.md upstream/reports/*/*-monthly.md \
+          upstream/topics/*/*-progress.md upstream/topics/*/*-monthly.md; do
   [ -e "$md" ] || continue
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
 
 # Coverage assertion: the patterns above must have reached every report document.
-present=$(find upstream/reports -name '*.md' | wc -l)
+present=$(find upstream/reports upstream/topics -name '*.md' | wc -l)
 echo "rendered $rendered of $present report documents ($failed failed)"
 if [ "$rendered" -ne "$present" ]; then
   echo "RENDER ABORT: $((present - rendered)) document(s) did not render — do not deploy"
   [ "$failed" -gt 0 ] && echo "  $failed failed in render.py (see RENDER FAIL above)"
   echo "  and any listed below matched no pattern in the loop:"
-  find upstream/reports -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
+  find upstream/reports upstream/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
 fi
 ```
 
-Today that is 54 status + 57 progress + 54 monthly = 165 documents, each as HTML and PDF — but **the assertion is what to trust, not the number**, which moves as units are initialised.
+Today that is 54 status + 57 progress + 54 monthly = 165 place documents, plus 76 topic documents (*Topics* below) = **241**, each as HTML and PDF — but **the assertion is what to trust, not the number**, which moves as units are initialised and as the taxonomy grows.
 
 **The count is asserted because a shrinking loop is silent** *(2026-08-14)*. The `|| echo "RENDER FAIL"` above only fires for a document that was *tried* and failed; it says nothing about one the shell never listed. When the monthly and progress filenames dropped their month, the old `*-progress-*.md` and `*-monthly-*.md` patterns stopped matching anything, and the loop would have quietly rendered 54 documents instead of 165 with no error and a zero exit. Step 1's `/MIR` deletes the old filenames in the same run that breaks the match, so there is no second chance to notice. `site/` is not mirrored and not purged, so all 111 monthly and progress pages would have gone on being served at their last-rendered state indefinitely — the same stale-page failure described below, reached by a different route. The assertion enumerates without a pattern, so no future rename can shrink the set in silence.
 
@@ -133,27 +134,7 @@ Deploy is unchanged (`documentation/handover.md`): the GitHub Pages workflow pub
 
 Topic documents are authored by BUILD (`BUILD.md` stage 6) and arrive in `outputs/topics/{slug}/`, two per Level-2 taxonomy slug, 76 of them. They render exactly like the place reports and RENDER judges them no more than it judges anything else. `render.py` takes its output tree from the source path, so they land in `site/topics/{slug}/` with permalinks that agree; nothing needs passing on the command line.
 
-Step 2's loop and its coverage assertion must reach them. Both trees, one assertion — this replaces the loop in Step 2 above rather than running after it:
-
-```bash
-rendered=0; failed=0
-for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress.md upstream/reports/*/*-monthly.md \
-          upstream/topics/*/*-progress.md upstream/topics/*/*-monthly.md; do
-  [ -e "$md" ] || continue
-  if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
-done
-
-present=$(find upstream/reports upstream/topics -name '*.md' | wc -l)
-echo "rendered $rendered of $present report documents ($failed failed)"
-if [ "$rendered" -ne "$present" ]; then
-  echo "RENDER ABORT: $((present - rendered)) document(s) did not render — do not deploy"
-  [ "$failed" -gt 0 ] && echo "  $failed failed in render.py (see RENDER FAIL above)"
-  echo "  and any listed below matched no pattern in the loop:"
-  find upstream/reports upstream/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
-fi
-```
-
-That is 165 place documents plus 76 topic documents — **241**, each as HTML and PDF. Step 1's mirror already carries the new tree, since it mirrors `outputs/` whole.
+**Step 2's loop and its coverage assertion already reach them** — both trees, one assertion, one number to trust. There is nothing extra to run here. Step 1's mirror carries the tree across for free, since it mirrors `outputs/` whole.
 
 The home page's Topics boxes can link to the rendered documents once this has run; until then they keep their coming-soon state.
 
