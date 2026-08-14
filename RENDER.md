@@ -129,9 +129,33 @@ RENDER does **not** judge whether a document is fit to publish. An earlier versi
 
 Deploy is unchanged (`documentation/handover.md`): the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build. Push to trigger it.
 
-## Not in this runbook — Topics
+## Topics
 
-The site's **Topics** section cannot render yet: there is no topic-report layer upstream (`REPORT-TOPIC` does not exist). Building it — a ledger sliced by taxonomy Level-1/Level-2 across places, rendered like the country reports — is a Corpus authoring job, owned here, not something Claude Code can render today. It is tracked separately. Home page Topics boxes should link to a "coming soon" state until then.
+Topic documents are authored by BUILD (`BUILD.md` stage 6) and arrive in `outputs/topics/{slug}/`, two per Level-2 taxonomy slug, 76 of them. They render exactly like the place reports and RENDER judges them no more than it judges anything else. `render.py` takes its output tree from the source path, so they land in `site/topics/{slug}/` with permalinks that agree; nothing needs passing on the command line.
+
+Step 2's loop and its coverage assertion must reach them. Both trees, one assertion — this replaces the loop in Step 2 above rather than running after it:
+
+```bash
+rendered=0; failed=0
+for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress.md upstream/reports/*/*-monthly.md \
+          upstream/topics/*/*-progress.md upstream/topics/*/*-monthly.md; do
+  [ -e "$md" ] || continue
+  if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
+done
+
+present=$(find upstream/reports upstream/topics -name '*.md' | wc -l)
+echo "rendered $rendered of $present report documents ($failed failed)"
+if [ "$rendered" -ne "$present" ]; then
+  echo "RENDER ABORT: $((present - rendered)) document(s) did not render — do not deploy"
+  [ "$failed" -gt 0 ] && echo "  $failed failed in render.py (see RENDER FAIL above)"
+  echo "  and any listed below matched no pattern in the loop:"
+  find upstream/reports upstream/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
+fi
+```
+
+That is 165 place documents plus 76 topic documents — **241**, each as HTML and PDF. Step 1's mirror already carries the new tree, since it mirrors `outputs/` whole.
+
+The home page's Topics boxes can link to the rendered documents once this has run; until then they keep their coming-soon state.
 
 ## Log
 

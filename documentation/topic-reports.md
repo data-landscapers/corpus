@@ -1,6 +1,8 @@
 # Topic reports — decision note and drafted BUILD.md stage (2026-08-14)
 
-*(Written from Cowork, for a Claude Code session. Nothing in `BUILD.md`, `RENDER.md` or `scripts/` has been touched — this file holds the drafted text for CC to review operationally before either runbook is edited.)*
+*(Written from Cowork, for a Claude Code session. It held the drafted text for CC to review before either runbook was edited.)*
+
+*(**Built 2026-08-14.** CC reviewed it operationally, corrected it — 38 slugs not 39, sections read off the ledger row, the progress report carrying tables and no prose — and then implemented it as `scripts/topic-render.py`. `BUILD.md` stage 6 and `RENDER.md` → Topics are now the live procedure; **read those, not the drafted text below**, which is kept for its reasoning. 76 documents are in `outputs/topics/`, check G passes over all of them, and a second run reports every one `unchanged`. The findings that changed the design are in `documentation/reviews/2026-08-14-cc-review-of-topics-and-index.md`.)*
 
 ## What Bill decided
 

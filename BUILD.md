@@ -85,11 +85,29 @@ python scripts/rebuild.py --reports all      # rebuild every report's tables fro
 
 Needed only after a format change or to refresh tables outside a unit you already re-rendered in stage 4.
 
+## Stage 6 — topic reports (derived from the place documents)
+
+```bash
+python scripts/topic-render.py            # 38 slugs, two documents each -> outputs/topics/
+python scripts/topic-render.py --check    # check G over what it wrote
+```
+
+Each Level-2 taxonomy slug issues `outputs/topics/{slug}/{slug}-monthly.md` and `{slug}-progress.md`, whose sections are places in alphabetical order by full name, carrying that place's own material for that subject. The design note and its reasoning are `documentation/topic-reports.md`.
+
+**Precondition: stages 4 and 5 first, in the same run.** A topic document derived from a place document stage 4 has not yet moved is stale in a way nothing downstream can detect — it is well-formed, its links resolve, and every check passes. The ordering *is* the integrity mechanism, so run `python scripts/rebuild.py --scan` and finish stage 4 before this, rather than trusting that it was done.
+
+**Nothing is authored here** *(Bill, 2026-08-14)*. No summary, no cross-place block, no connecting sentence. The monthly carries every `{section}--{subject}` narrative block a place holds — every one, since a subject can sit in more than one section of a place's report — and the progress report carries the subject's movement table and no prose at all, because a place's progress report keys its narrative by section only and there is no per-subject block in any of the 57 to lift. The one thing the script writes is the standing provenance line under each H1, which is identical in all 76 documents and says where the material came from.
+
+**It is a script, not a model stage**, which is the whole point of a pure derivation: nothing here decides anything. It is idempotent on the same inputs — a second run reports all 76 `unchanged` — and it never edits a place document.
+
+**Check** `G` — every link resolves through the catalogue — and nothing else. The ledger checks belong to the place documents, where the prose was written; there is no topic ledger and there is not meant to be one. `--check` runs G over the whole tree in one pass.
+
+Commit the topic tree. 38 slugs × 2 documents takes the render set from 165 to 241.
+
 ## Deferred stages — not yet in this build
 
 - **Report initialisation from the wiki** — for a place with no ledger. Reads the compiled wiki (`wiki/places/{ISO}.md`, `wiki/intersections/`) to distil a new ledger and write the first reports. `report-country-init.py` is the shell; the authoring is a session's model work. Bill's decision (2026-08-13): the current ledgers are the accepted baseline, so initialisation is not run now.
 - **Monthly narratives** — some monthly issues carry empty per-subject blocks; authoring them is tracked.
-- **Topics** — the topic-report layer is not built; awaiting Bill's instruction.
 
 ## Leak gate — before any commit of outputs/
 
