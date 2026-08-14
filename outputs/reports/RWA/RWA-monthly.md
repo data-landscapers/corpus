@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: RWA
 ledger_rows: 39
 not_held: 9
-record: 7ba0d9d15894
+record: e6294ac7b687
 ---
 
 # Rwanda: monthly update, July 2026
@@ -32,7 +32,7 @@ A subsea operator announced a 25,000 km system across fifteen countries on 9 Jul
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-
+The data centre and cloud service directives governing the national facility are unchanged, and their [own text carries no date on its face](https://guidelines.risa.gov.rw/books/data-center-and-cloud-services-directives) — [the ministry's sector plan is what dates them to 2023](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf). No compliance or enforcement record is published.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -45,7 +45,7 @@ Cabinet [approved an institute of computing on 24 July](https://www.ktpress.rw/2
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-
+The social registry has run an appeals process since it opened in early 2024, and [360,000 people challenged their category, with 93% of disputed classifications corrected](https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024). Disputes trace largely to stale asset records — unrecorded land or vehicle sales — and the correction rate is the social affairs directorate's own.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -57,12 +57,12 @@ The layer the rail does not touch moved the other way. Regulator statistics for 
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-_(narrative not yet written)_
+Business registration moved entirely online in January and now runs at [incorporation in 24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The prior state is inferred from the source's own wording rather than stated in it.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-_(narrative not yet written)_
+Health information is the strongest part of the state's digital estate and the part whose claims rest most on partners. The [electronic immunisation registry is nationwide with near-complete data consistency reported by 2024, though facility-level underuse persists at some sites](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full), phased in from 2019 across more than 500 facilities and integrated with civil registration and the identity agency in early 2022. A [national health intelligence centre launched in April 2025 has cut data-to-insight latency from about two months to near real-time](https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care), on a partner's account that is not independently verified. Against both, a [national electronic medical record for all hospitals and health centres is described as an intention with no rollout date](https://www.ktpress.rw/2026/07/rwanda-showcases-real-time-health-data-system-during-bill-gates-visit/), and a 2025 analysis had described the same system as already operating.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -74,7 +74,7 @@ On 20 July an information society authority and a West African digital ministry 
 ### Use of satellite data
 
 <!-- narrative: dpi--data-satellite -->
-
+A [national satellite data programme launched with a commercial imagery provider on 10 August](https://itweb.africa/article/planet-and-the-government-of-rwanda-launch-first-of-its-kind-national-satellite-data-program-in-africa/nWJadMbNDxlMbjO1), giving government agencies, public universities, selected startups and development partners access to near-daily imagery for agriculture and food-security monitoring, forest health, urban planning and disaster response, managed by the space agency. It was announced jointly by vendor and government, and no cost, term, data-licence arrangement, contract or appropriation is held.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -89,12 +89,12 @@ A development agency published on 6 July, from engagements run to March 2026, th
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-_(narrative not yet written)_
+Country consultations for a [regional artificial-intelligence framework were held at Kigali on 3 August](https://rwandainspirer.com/rwanda-highlights-ai-policy-progress-as-comesa-seeks-regional-framework/), to feed a study toward a regional strategy, model policy guidelines and model regulatory frameworks; no text or timetable is published, and Rwanda reported unquantified progress on its own national policy. The [bilateral licence passporting memorandum with Ghana remains unpublished by either central bank](https://techafricanews.com/2026/07/30/the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs/) eighteen months after signature, cited as a working precedent with no firm reported as having used it.
 <!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-
+The [government-wide enterprise architecture framework, version 2.1, is in force to govern ICT architecture standards](https://risa.prod.risa.rw/fileadmin/user_upload/RISA/Publications/1.Guidelines/GOR_s_Enterprise_Architecture_Framework.pdf) and is now held in excerpt. It is distinct from the interoperability framework named in earlier academic work, for which the base still holds no separate instrument.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -136,7 +136,7 @@ Nothing was published in the month on school connectivity, which stands at 4,184
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
-_(narrative not yet written)_
+[More than 5,000 teachers across every district were trained in the first phase of a national artificial-intelligence literacy programme, reported complete at end-2025](https://www.linkedin.com/pulse/africas-biggest-ai-risk-isnt-being-left-behind-its-misread-njila-3zj4c/). The assertion is a diplomat's, in an opinion piece, and no ministry primary is held for it.
 <!-- /narrative -->
 ### Training and skills
 
