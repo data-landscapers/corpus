@@ -1,15 +1,16 @@
 ---
 title: Lesotho — monthly update, July 2026
-compiled: 2026-08-10
-period: 2026-07-01 to 2026-08-10
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: LSO
-ledger_rows: 17
-not_held: 7
+ledger_rows: 18
+not_held: 2
+record: 05e90c8e8e49
 ---
 
 # Lesotho: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-10 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -26,7 +27,6 @@ On the payments side, [Tsetela](https://lestimes.com/?p=91054) opened wallet-bas
 <!-- narrative: infrastructure--infra-store -->
 The Kobong Project was approved and launched on 31 July 2026 at a ceremony hosted by the US Embassy in Maseru, attended by the ministers of energy and mining, of information and communications, and of environment and forestry. Convalt Energy's chief executive stated capital investment of about US$6.2 billion; the government figure for the project was restated as M100 billion against the M98 billion [announced with the binding agreement of 4 June](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/), with the dollar figure unchanged. The US Chargé d'Affaires described the investment as trade over aid. Construction remains targeted for 2029 and the agreement remains conditional on feasibility, financing, permitting and definitive agreements.
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -42,13 +42,11 @@ Vodacom Financial Services and STANLIB Lesotho launched [Tsetela](https://lestim
 
 Standard Bank's [extension of CIPS renminbi settlement](https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/) beyond South Africa, reported on 27 July, names Lesotho as one of five added markets.
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 UNICEF and the Global Partnership for Education [announced support on 23 July](https://techafricanews.com/2026/07/23/unicef-and-gpe-launch-learning-data-dashboard-to-improve-education-in-lesotho/) for a Foundational Literacy and Numeracy Dashboard consolidating Grades 1–3 performance, with tablets for principals in 300 project schools and solar power in 25 cluster learning spaces.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -76,13 +74,11 @@ At the UN Global Dialogue on AI Governance in Geneva, MICSTI Principal Secretary
 
 A [CIPIT paper published on 1 July](https://cipit.strathmore.edu/wp-content/uploads/2026/07/AIIPin-Africa-Final.pdf) reads Lesotho's AI strategy against the African Union Continental AI Strategy and other national strategies, and finds intellectual property acknowledged as an enabler while training-data licensing, authorship of AI-generated works and infringement are engaged only to a limited extent.
 <!-- /narrative -->
-
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
 Econet Telecom Lesotho and UNDP [signed a memorandum of understanding](https://lestimes.com/?p=91121) at the Mpilo Boutique Hotel on Tuesday 28 July 2026, signed by ETL chief executive Dennis Plaatjies and UNDP deputy resident representative Dr Taye Amssalu, renewing a partnership first signed in 2020 and amended in 2022. It runs across digital transformation, connectivity and AI; innovation and skills, including a University Innovation Pod; and MSME digital entrepreneurship. No amount, term or deliverable is stated in any account held.
 <!-- /narrative -->
-
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
@@ -96,7 +92,6 @@ The [US Embassy stated](https://techafricanews.com/2026/08/03/lesotho-approves-u
 <!-- narrative: inclusion--include-access -->
 At Geneva on 9 July the ministry gave its own measure of the access problem — [100% broadband coverage against about 50% regular internet use](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9), which it attributed to affordability.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->

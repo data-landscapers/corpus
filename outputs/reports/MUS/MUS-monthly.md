@@ -1,15 +1,16 @@
 ---
 title: Mauritius — monthly update, July 2026
-compiled: 2026-08-09
-period: 2026-07-01 to 2026-08-09
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: MUS
-ledger_rows: 25
+ledger_rows: 28
 not_held: 9
+record: e059628623a7
 ---
 
 # Mauritius: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-09 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -24,13 +25,11 @@ The month's substance is one document and one event. The omnibus bill introduced
 <!-- narrative: infrastructure--infra-connect -->
 The Prime Minister announced on [16 July 2026 that Mauritius will join the America-India Connect subsea cable programme](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). Reporting on [2 August established what sits behind it](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/): a signed non-disclosure agreement, terms still under negotiation, no published timetable. The driver is ageing infrastructure — LION and LION2 still carry most international traffic — and the same account notes that Google already operates a ground station at Baie-du-Jacotet serviced by the state operator, so the cable would deepen a relationship rather than open one.
 <!-- /narrative -->
-
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
 Cabinet also [approved for signature a memorandum with Saudi Arabia](https://www.lemauricien.com/actualites/societe/energie-un-partenariat-strategique-en-preparation-avec-larabie-saoudite/714051/) putting digital transformation and energy-sector cybersecurity alongside hydrocarbons — an approval to sign, not a signature, with no date, term, value or committed system stated.
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -44,13 +43,11 @@ Two cyber measures moved. The [July omnibus would empower the central bank to es
 <!-- narrative: dpi--dpi-exchange -->
 The companion [Finance Bill, before Parliament from 27 July](https://lexpress.mu/node/560855), widens what the statistics office may share with the finance ministry and imposes new declaration duties on public bodies — the state's data plumbing rewritten alongside its tax code, with no matching amendment to the Data Protection Act.
 <!-- /narrative -->
-
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 The same omnibus also makes immigration permits issuable in digital form and imposes a digital travel authorisation on visa-exempt arrivals.
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -58,7 +55,6 @@ The [omnibus bill of 24 July](https://maurice-info.mu/wp-content/uploads/2026/07
 
 On cross-border payments the state operator [announced a Mauritius-Seychelles corridor as a launch](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/); no corroborating record from the partner fintech or either central bank is on file. A [South African Reserve Bank spokesperson said on 29 July that Mauritius is among four states considering onboarding to the Southern African settlement system](https://www.centralbanking.com/central-banks/currency/7976492/southern-african-countries-consider-joining-sadc-rtgs) by end-2027 — another central bank's account of Mauritian intent.
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -76,31 +72,21 @@ The same bill redraws the virtual-asset perimeter around marketing rather than a
 
 And on [30 July the ICT minister committed to Electronic Transactions Act amendments](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993), with no text or date stated.
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 At the summit on [16 July the ICT minister committed the government to a National Data Governance Strategy](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/) covering cybersecurity, privacy and children's online safety, with no text or date stated.
 <!-- /narrative -->
-
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-Mauritius was one of seven states covered by a [continental island-economies programme launched on 24 July](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) whose six pillars include digital transformation — a regional instrument, for the regional ledger rather than this one.
-<!-- /narrative -->
-
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 And the model-as-a-service work billed as a telecom first was [announced on 20 July](https://www.telecomtv.com/content/ai/mauritius-telecom-and-tm-forum-pioneer-trusted-model-as-a-service-for-the-ai-native-telco-55907/) as work to define conformance criteria for a framework that does not yet exist.
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 The Data Protection Act 2017 is not among the Acts the July omnibus amends: the digital provisions sit in five Acts and the safeguards Act is not one. At the same summit the ICT minister also committed to Data Protection Act amendments covering cybersecurity, privacy and children's online safety, with no text or date stated. Communications interception, run without judicial oversight, has no drafted narrative this period.
 <!-- /narrative -->
-
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
@@ -118,27 +104,21 @@ The [same keynote recorded a retreat](https://platformafrica.com/2026/07/16/from
 
 The month closed with the state's AI apparatus being measured from outside it. On [27 July the chamber of commerce and two partners launched an adoption, readiness and governance study](https://www.lemauricien.com/le-mauricien/mcci-une-etude-de-marche-sur-ladoption-de-lia-par-les-entreprises/713704/), because there is no clear picture of adoption among Mauritian firms or of what skills exist. The AI City Scheme has no drafted narrative this period.
 <!-- /narrative -->
-
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
 The ICT minister [put information technology at about 5.4% of gross domestic product against an ambition of 10-12%](https://itweb.africa/article/mauritius-launches-ai-readiness-survey/GxwQDM1DPZj7lPVo). The two accounts name different third partners.
 <!-- /narrative -->
-
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
 The summit's other announcements differ in kind. The [Amazon memorandum was executed at the opening ceremony](https://techreviewafrica.com/news/6321/mauritius-telecoms-allmyt-summit-2026-brings-together-digital-leaders-to-drive-innovation) with soft scope and no disclosed value, and [its training will run initially in rented premises](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/). The claim that the operator's data centre already hosts current-generation accelerators is the chief executive's own.
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-<!-- narrative: inclusion -->
-Nothing published in this period adds to the skills record beyond what the [June budget committed](https://lexpress.mu/node/559426) — the 50,000-trainee target, the Rs 25m learning platform and the investment tax credit — and no enrolment figure against any of it has appeared. Mauritius remains a [gateway through which money moves into African markets](https://itweb.africa/article/mauritius-emerges-as-an-african-payments-hub/) rather than a destination for digital-sector investment.
-<!-- /narrative -->
-
 ## Finance
 
-<!-- narrative: finance -->
-No finance row moved in this window.
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+
 <!-- /narrative -->

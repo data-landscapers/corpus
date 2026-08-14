@@ -1,15 +1,16 @@
 ---
 title: Ethiopia — monthly update, July 2026
-compiled: 2026-08-04
-period: 2026-07-01 to 2026-08-04
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: ETH
-ledger_rows: 24
+ledger_rows: 42
 not_held: 4
+record: f6114a34781c
 ---
 
 # Ethiopia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-04 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -23,24 +24,26 @@ The central bank widened its virtual-asset prohibition by clarification rather t
 
 ## Infrastructure
 
+### Connectivity
+
+<!-- narrative: infrastructure--infra-connect -->
+
+<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Access to services
 
 <!-- narrative: infrastructure--include-access -->
 The same coverage recorded the device side: bank financing deals targeting up to two million smartphones a year to low-income citizens on instalment plans.
 <!-- /narrative -->
-
 ### China activities
 
 <!-- narrative: infrastructure--geopol-china -->
@@ -58,7 +61,6 @@ Nothing moved on the third-operator question, on satellite licensing, or on the 
 <!-- narrative: dpi--dpi-exchange -->
 At the 24 July launch of a three-year strategic plan, the same meeting disclosed that a prime-ministerial board has approved a national data exchange platform — the interoperability layer the same meeting identified as missing.
 <!-- /narrative -->
-
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -66,43 +68,36 @@ The identity programme supplied most of the month's movement: a [joint venture w
 
 At the same 24 July launch of a three-year strategic plan, its deputy director in the capital named premature integration as the year's main obstacle and its founding director general conceded the platform remains intertwined with decades-old institutional systems of undefined standards. The Faydaverse digital-public-infrastructure enterprise, stood up on 4 August as a state-owned enterprise under Ethiopian Investment Holdings, has no drafted narrative yet.
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 Payments extended into utilities and tax. Prepaid electricity purchase entered the mobile-money super app on 29 July for smart-meter customers, and a digital tax-payment service for one regional revenue bureau launched on 28 July as the first of a planned series.
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Standards
 
 <!-- narrative: dpi--gov-standards -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Digital divides
 
 <!-- narrative: dpi--include-divides -->
 A refugee-inclusion framework launched 16 July made the credential central to a state-led model for 1.1m refugees and 2m internally displaced people.
 <!-- /narrative -->
-
 ### AI
 
 <!-- narrative: dpi--tech-ai -->
 AI service bundles from an Ethiopian firm went on sale inside the same app on 22 July, bought with mobile money and redeemed by SMS voucher.
 <!-- /narrative -->
-
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
@@ -120,13 +115,16 @@ On 25 July the [payment-gateway tax case](https://www.thereporterethiopia.com/52
 
 The Berne Convention accession, the Copyright Proclamation 410/2004 online-infringement amendment, and the Critical Infrastructure Cybersecurity Proclamation No. 1426/2026 all moved this window and have no drafted narrative yet.
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 A National Digital Transformation Council meeting on 30 July restated that the programme is to be judged on lives changed rather than systems deployed — a measurement claim with no published measure behind it.
 <!-- /narrative -->
+### Data protection
 
+<!-- narrative: governance--gov-protect -->
+
+<!-- /narrative -->
 ### China activities
 
 <!-- narrative: governance--geopol-china -->
@@ -135,24 +133,22 @@ Also in the month: founding membership of a Shanghai-headquartered intergovernme
 
 ## Artificial intelligence and the technology sector
 
+### AI
+
+<!-- narrative: ai-tech--tech-ai -->
+
+<!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Research institutions
 
 <!-- narrative: ai-tech--capacity-research -->
 The FY2026/27 federal budget ratified on 7 July carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000 — domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. A national AI policy was adopted in 2024 and the AI institute has operated since 2020.
 
 Nothing moved on the national AI policy itself, on the model-development side, or on which foundation models the country runs.
-<!-- /narrative -->
-
-## Inclusion and capacity
-
-<!-- narrative: inclusion -->
-No inclusion or capacity row moved in this window.
 <!-- /narrative -->
 
 ## Finance
@@ -162,7 +158,6 @@ No inclusion or capacity row moved in this window.
 <!-- narrative: finance--finance-new -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->

@@ -1,14 +1,15 @@
 ---
 title: Mauritius — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: MUS
 ledger_rows: 65
 not_held: 9
+record: 146508b6d03f
 ---
 
 # Mauritius: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/MUS/ledger.csv` (65 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/MUS/ledger.csv` (65 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -24,7 +25,7 @@ The data-protection regime is genuinely strong — [about 3,000 enforcement acti
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | America-India Connect cable participation | [Planned](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/) | Non-disclosure agreement signed, terms still under negotiation |
 | International submarine cable landings | [Implemented](https://www.telecomreviewafrica.com/articles/features/12397-sublime-seas-to-storage-sphere-mauritius-expands-hyperscale-data-hub/) | LION and LION2 carrying most international traffic |
@@ -34,26 +35,26 @@ The data-protection regime is genuinely strong — [about 3,000 enforcement acti
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-centre estate | [Implemented](https://www.telecomreviewafrica.com/articles/features/12397-sublime-seas-to-storage-sphere-mauritius-expands-hyperscale-data-hub/) | Ten operating facilities across five locations |
 | Rose-Belle Tier IV data centre | [Implemented](https://lexpress.mu/node/552966) | Certified Tier IV and inspected by the ICT minister, 29 December 2025 |
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Saudi Arabia energy and cybersecurity memorandum | [Planned](https://www.lemauricien.com/actualites/societe/energie-un-partenariat-strategique-en-preparation-avec-larabie-saoudite/714051/) | Cabinet approved the memorandum for signature |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic technical capacity to operate the national digital estate | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Critical Information Infrastructure regime | [Implemented](https://lexpress.mu/node/558304) | Designation regulations in force 1 June 2026, with a twelve-month compliance window |
 | Cyber forensic laboratory | [Planned](https://lexpress.mu/node/559426) | Funded at Rs 13m in the 2026-2027 budget |
@@ -74,14 +75,14 @@ Cybersecurity is where 2026's law took effect. The [critical-infrastructure desi
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | e-Government Interoperability Framework | [Implemented](https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf) | Version 1.0 published November 2002 |
 | Statutory data sharing by the statistics office | [In development](https://lexpress.mu/node/560855) | Provided for in the Finance Bill before Parliament, July 2026 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital travel authorisation and digital permits | [Planned](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Provided for in the omnibus bill introduced 24 July 2026 |
 | Mobile ID wallet | [Implemented](https://www.biometricupdate.com/202409/mauritius-launches-digital-id-wallet-with-thales-tech-for-govt-service-access) | Launched 4 September 2024 with Thales under the 2024 regulations |
@@ -89,7 +90,7 @@ Cybersecurity is where 2026's law took effect. The [critical-infrastructure desi
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central bank digital onboarding system | [In development](https://lexpress.mu/node/554033) | Set out by the governor at a payments workshop, February 2026 |
 | India cross-border payment link | [Implemented](https://lexpress.mu/node/554033) | First bilateral cross-border payments agreement, February 2024 |
@@ -101,39 +102,39 @@ Cybersecurity is where 2026's law took effect. The [critical-infrastructure desi
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil registration base | [Implemented](https://csd.govmu.org/DocumentsList/FINALISED%20ANNUAL%20REPORT%20CSD.pdf) | Civil Status Division performance report for 2023-2024 |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | E-Social Security digitisation | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritius-bets-on-digital-transformation-to-improve-welfare-system-efficiency) | Bulk scanning of beneficiary files launched, May 2026 |
 | eHealth strategy | [Implemented](https://health.govmu.org/health/wp-content/uploads/2023/03/eHealth-Strategy-Seamless-Continuity-of-Care-2015.pdf) | Seamless Continuity of Care strategy published 2015 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | e-Gates, e-Visa and e-judiciary | [Planned](https://lexpress.mu/node/559426) | Provided for in the 2026-2027 budget |
 | National electronic licensing system for clinical trials | [Planned](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Provided for in the omnibus bill introduced 24 July 2026 |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rural digital data capture | ***Not held*** | — |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digitalisation of local government | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Use of satellite data | ***Not held*** | — |
 
@@ -153,7 +154,7 @@ The plumbing under all of it is old: the standing interoperability instrument is
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection Officer Regulations 2026 | [Implemented](https://lexpress.mu/s/protection-des-donnees-encadrement-renforce-du-role-des-data-protection-officers-559111) | Promulgated 12 June 2026, in force 1 January 2027 |
 | Economic and Financial Measures (Miscellaneous Provisions) Bill | [In development](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Introduced by the Prime Minister and Finance Minister, 24 July 2026 |
@@ -163,7 +164,7 @@ The plumbing under all of it is old: the standing interoperability instrument is
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Transformation Blueprint 2025-2029 | [Implemented](https://mdpa.govmu.org/mdpa/wp-content/uploads/2025/08/Blueprint-for-Mauritius-2025.pdf) | Inter-ministerial coordinating committee established, 26 August 2025 |
 | National Data Governance Strategy | [Planned](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/) | Committed to by the ICT minister at the operator's summit, 16 July 2026 |
@@ -172,13 +173,13 @@ The plumbing under all of it is old: the standing interoperability instrument is
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Model-as-a-service certification work | [In development](https://www.telecomtv.com/content/ai/mauritius-telecom-and-tm-forum-pioneer-trusted-model-as-a-service-for-the-ai-native-telco-55907/) | Collaboration announced by the standards body, 20 July 2026 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Communications interception | [Implemented, without judicial oversight](https://www.mauritiustimes.com/mt/in-the-shadows-of-mass-surveillance/) | No reform instrument published since the 2025 parliamentary revelations |
 | Data Protection Act 2017 | [Implemented](https://www.biometricupdate.com/202605/theres-no-digital-id-without-data-protection-mauritius-privacy-chief) | Not among the 58 Acts amended by the July 2026 omnibus |
@@ -187,13 +188,13 @@ The plumbing under all of it is old: the standing interoperability instrument is
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public argument on what digital investment is for | [Implemented](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867) | Named-analyst argument published 2 August 2026 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Freedom of Information Bill | [Planned](https://lexpress.mu/node/553938) | Announced as in preparation by the data-protection commissioner |
 
@@ -213,7 +214,7 @@ The sharpest domestic objection is to the priority rather than the substance: a 
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI City Scheme | [Planned](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Provided for in the omnibus bill introduced 24 July 2026 |
 | Mauritius AI Registry | [Implemented](https://journaldudimanche.com/intelligence-artificielle-mauritius-telecom-devoile-airegistry-mu/) | Live from 9 July 2026 |
@@ -224,14 +225,14 @@ The sharpest domestic objection is to the priority rather than the substance: a 
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Amazon Web Services memorandum | [Planned](https://techreviewafrica.com/news/6321/mauritius-telecoms-allmyt-summit-2026-brings-together-digital-leaders-to-drive-innovation) | Executed at the summit opening ceremony, 16 July 2026 |
 | Hyperscaler infrastructure presence | [Implemented](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/) | Established in reporting of 2 August 2026 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese digital cooperation with Mauritius | ***Not held*** | — |
 
@@ -251,19 +252,19 @@ What is contracted with the hyperscalers is skills and confidentiality: the [Ama
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Rodrigues in the national digital strategy | [In development](https://lexpress.mu/node/558566) | Ministerial mission to Port Mathurin, 26-28 May 2026 |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital literacy of the population | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI training programme | [Planned](https://lexpress.mu/node/559426) | Target set in the 2026-2027 budget |
 
@@ -277,14 +278,14 @@ Inclusion has one named sub-national commitment: a [ministerial mission to Rodri
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | China Eximbank preferential buyer's credit | [Implemented](http://mof.govmu.org/English/PublishingImages/2019/MOFED%20Annual%20Report%20-%20FY%202017-18.pdf) | Recorded in the finance ministry's own annual report |
 | Cross-border payments gateway business | [Implemented](https://itweb.africa/article/mauritius-emerges-as-an-african-payments-hub/) | Operator figures for 2024 to 2025 reported May 2026 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital and AI measures in the 2026-2027 budget | [Implemented](https://lexpress.mu/node/559426) | Budget presented June 2026 |
 | Budget 2026-2027 tax and revenue measures as enacted | ***Not held*** | — |

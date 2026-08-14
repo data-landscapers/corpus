@@ -1,14 +1,15 @@
 ---
 title: Namibia — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: NAM
 ledger_rows: 111
 not_held: 12
+record: 43069e240007
 ---
 
 # Namibia: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/NAM/ledger.csv` (111 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/NAM/ledger.csv` (111 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ The regulator refused a satellite operator's licence twice inside the window, on
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 51% Namibian ownership requirement | [Implemented](https://spaceinafrica.com/2026/06/22/namibias-communications-regulator-confirms-dismissal-of-starlinks-licence-appeals/) | Applied to refuse a licence 2026-03-23, the refusal upheld 2026-06-22 |
 | Commercial 5G network | [Implemented](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) | Commercial launch at end-August 2025 in three centres |
@@ -43,7 +44,7 @@ The regulator refused a satellite operator's licence twice inside the window, on
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Commercial data centres in operation | [Implemented](https://itweb.africa/article/namibia-encouraged-by-angola-on-datacentre-establishment/JN1gPvOA8oPMjL6m) | Named as established commercial facilities 2026-06-15 |
 | National and public data centre | [Planned](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) | Cabinet directed a concept note and project proposal, September 2025 |
@@ -52,13 +53,13 @@ The regulator refused a satellite operator's licence twice inside the window, on
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power supply plan for the national data centre | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Fraud and cybersecurity summit | [Implemented](https://itweb.africa/article/namibia-partners-with-banks-to-combat-fraud/Olx4zMka1eyv56km) | An inaugural summit convened, November 2025 |
 | Government-sector incident response team and security operations centres | [Planned](https://itweb.africa/article/namibia-cabinet-approves-fresh-proposals-to-combat-cyber-crime/5yONPvEraz37XWrb) | Cabinet approved establishment, November 2025 |
@@ -82,7 +83,7 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Governmental interoperability solution | [Implemented](https://ega.ee/project/governmental-interoperability-in-namibia/) | Delivered by an external academy with a technology partner; the project ran October 2014 to December 2016 |
 | Inter-ministry data-exchange platform | [In development](https://www.undp.org/namibia/blog/season-3-namibias-digital-identity-journey-vision-reality) | Named by a development agency as being deployed for secure inter-ministry sharing |
@@ -91,7 +92,7 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic identity fee schedule | [Implemented](https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/) | Duplicate fees stated 2026-08-01 |
 | Electronic identity public awareness campaign | [Implemented](https://neweralive.na/e-ids-outreach-kicks-off-in-omaheke/) | The Omaheke leg ran 2026-07-27 to 2026-08-05 across all seven constituencies |
@@ -102,7 +103,7 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cash assistance to refugees through mobile money | [Implemented](https://namibia.un.org/en/289948-cash-based-interventions-provide-ray-hope-refugees-namibia-amid-severe-drought-and-funding) | Launched February 2025 for about 6,000 individuals in over 1,000 households |
 | Declaration of intent on instant payments integration | [Implemented](https://techafricanews.com/2026/07/02/bank-of-namibia-ipn-and-namclear-sign-pact-to-strengthen-instant-payments/) | Signed by the central bank, the instant payments company and the clearing house |
@@ -119,7 +120,7 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Business and intellectual property online registration | [Implemented](https://www.bipa.na/) | Online name search, name reservation and application-status verification offered |
 | Civil Registration and Identification Act 13 of 2024 | [Implemented](https://namiblii.org/akn/na/act/2024/13/eng@2024-12-30) | Assented 2024-12-30 |
@@ -127,7 +128,7 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Community System for community health workers | [In development](https://neweralive.na/health-prepares-for-digital-system-rollout/) | National training held at Swakopmund in the week to 2026-07-29; no rollout date announced |
 | National Digital Health Policy 2026-2036 | [Implemented](https://www.afro.who.int/countries/namibia/news/namibia-launches-national-digital-health-policy-advance-equitable-people-centred-healthcare) | Launched 2026-02-06 |
@@ -135,7 +136,7 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Government Strategic Roadmap 2024-2026 | [Implemented](https://www.telecomreviewafrica.com/articles/features/28266-towards-a-5g-enabled-digitalized-namibia-in-2026/) | Sets a target of digital identities for at least 25% of the population by 2026 |
 | Legally recognised electronic signatures | [In development](https://itweb.africa/article/ai-abuse-overshadows-namibias-e-signature-drive/P3gQ2qGAR157nRD1) | Nationwide deployment targeted February 2026; accreditation of service providers under way |
@@ -143,19 +144,19 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Satellite connectivity partnership with Angola | [Piloting](https://itweb.africa/article/namibia-angola-ink-satellite-deal-for-regional-connectivity/G98YdqLGjVoMX2PD) | A pilot commercial agreement signed at a forum in Luanda |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Windhoek People-Centred Smart City Strategy 2026-2036 | [Implemented, no financing or timetable published](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m) | Adopted by the City of Windhoek council 2026-06-15 |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 2023 population and housing census | [Implemented](https://thebrief.com.na/2026/07/bon-backs-e-id-rollout-to-reduce-census-costs-and-improve-policymaking/) | Namibia's first fully digital census; population 3,022,401 |
 | Namibia Statistics Agency Strategic Plan 2022/23-2026/27 | [Implemented](https://nsa.org.na/wp-content/uploads/2024/06/STRATEGIC-PLAN-2022-to-2027-HRE-1.pdf) | Institutional plan covering the agency's 2022/23-2026/27 period; the plan carries no publication date and is dated to the start of its own period |
@@ -166,7 +167,7 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Satellite data-receiving ground station | [Implemented](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | Handed over by China at the earth station outside Windhoek |
 | Space Science and Technology Bill | [In development](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | Cabinet approved drafting during 2025 |
@@ -187,7 +188,7 @@ Namibia's statistics system rests on parallel plans. The National Strategy for t
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Corporate Laws Bill 2025 | [In development](https://www.bipa.na/download/law-reform/) | Draft 3 out for comment by stakeholders and the general public |
 | Cybercrime Bill | [In development](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A) | Named by the ICT minister as being finalised, 2026-07-14 |
@@ -197,14 +198,14 @@ Namibia's statistics system rests on parallel plans. The National Strategy for t
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial-intelligence legislation | [Planned](https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r) | Sequenced behind the strategy, per the ICT minister |
 | National artificial-intelligence strategy | [In development](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | Consultations reported begun under the research council 2026-08-05 |
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Namibia's seat on an international artificial-intelligence commission | [Implemented](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/) | The ICT minister named among the commission's members |
 | Namibia-Angola information technology and media memorandum | [Implemented](https://techafricanews.com/2026/06/11/namibia-and-angola-join-forces-to-accelerate-digital-transformation/) | Signed at the opening of a technology forum in Luanda |
@@ -215,7 +216,7 @@ Namibia's statistics system rests on parallel plans. The National Strategy for t
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-subject rights provisions of the Data Protection Bill | [Discontinued, removed in the 2022 redraft](https://www.namibiansun.com/local-news/data-protection-bill-returns-to-parliament2025-08-18167195) | Part III, sections 8 to 14, present in the 2020 draft and absent from the March 2022 revised draft |
 | Gazette notice withdrawing existing identity documents | [Planned](https://informante.web.na/?p=398234) | Provided for; not issued at 2026-08-06 |
@@ -223,19 +224,19 @@ Namibia's statistics system rests on parallel plans. The National Strategy for t
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Published draft and consultation record of the Data Protection Bill | [Discontinued](https://action-namibia.org/government-seeks-public-input-on-draft-data-protection-bill/) | Consultation closed 2022-11-30; a coalition submission and an independent critique published |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union Multi-Annual Indicative Programme 2021-2027 | [Implemented](https://international-partnerships.ec.europa.eu/system/files/2022-01/mip-2021-c2021-9055-namibia-annex_en.pdf) | Amended by Commission Implementing Decision C(2024)7502 at the mid-term review |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Access to Information Act 8 of 2022 and the Information Commissioner | [Enacted, not commenced](http://www.lac.org.na/laws/2022/7986.pdf) | Information Commissioner and Deputy Information Commissioner appointment regulations gazetted 2024-12-09 (signed 2024-11-15); the Act itself remains not commenced |
 | National open data policy or government portal | ***Not held*** | — |
@@ -256,7 +257,7 @@ Regulations for appointing an Information Commissioner and Deputy were gazetted 
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial-intelligence readiness assessment | [Implemented](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | Completed by the research council with the education ministry and an international body |
 | Artificial-intelligence working group of the research council | [Implemented](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | A multi-stakeholder platform with science, data and skills technical advisory committees |
@@ -266,13 +267,13 @@ Regulations for appointing an Information Commissioner and Deputy were gazetted 
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Space Science and Technology Bill drafting approval | [Implemented](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | Cabinet approved drafting, 2025 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Information technology venture capital fund | [Planned](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) | Cabinet authorised the ministry to engage female founders as potential beneficiaries |
 | University artificial-intelligence and robotics accelerator | [Implemented](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | Launched with central bank funding; underpins Namibia's first artificial-intelligence degree |
@@ -280,25 +281,25 @@ Regulations for appointing an Information Commissioner and Deputy were gazetted 
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Subsea cable landing at Swakopmund | [Implemented](https://www.tandfonline.com/doi/full/10.1080/01972243.2025.2547676) | Landed at Swakopmund in 2022 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese contribution to the Windhoek smart city pilot | [Implemented](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m) | An arrangement signed at the end of June 2026; CNY 98,000,000 committed |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | PARAM HPC cluster at NUST | [In development](https://inceit.nust.na/param-hpc) | Specification published on an undated page, captured 2026-08-09; described as a 5-node PARAM cluster to be deployed at NUST |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf-state digital or artificial-intelligence cooperation agreement | [Planned, proposal only](https://www.nipdb.com/post/namibia-and-the-uae-strengthen-trade-and-investment-ties-at-high-level-business-forum) | Bilateral Economic Commission proposed at the Namibia-UAE Business Forum, 2026-02-18; no agreement signed |
 
@@ -316,27 +317,27 @@ Namibia's opening move with the Gulf is a proposal, not an instrument: at a Nami
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Regulator sector and market report series | [Implemented](https://www.cran.na/download/cran-ict-market-sector-report-nov-2024/) | ICT Sector Market Report 2023 published November 2024 |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 100% telecommunications coverage by 2030 | [Planned](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030) | Target set 2025-06-03 for 2030 |
 | Free internet for schools and clinics under new towers | [Implemented](https://itweb.africa/article/namibian-schools-clinics-to-get-free-internet/PmxVEMKEdwzvQY85) | Seven years' free access confirmed at a ministerial staff meeting |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Information and Communication school syllabus | [Implemented](http://www.nied.edu.na/assets/documents/02Syllabuses/05SeniorSecondary/IC/SS_IC_Syllabus_Gr12_Final_February_2019.pdf) | Grade 8 & 9 syllabus published December 2024 for implementation in Grade 8 (2025) and Grade 9 (2026); the subject is a compulsory, non-promotional but assessable subject for Grade 4-12 |
 | National digital literacy programme | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government technology staff cyber-skills programme | [Planned](https://itweb.africa/article/namibia-cabinet-approves-fresh-proposals-to-combat-cyber-crime/5yONPvEraz37XWrb) | Cabinet approved; the Office of the Prime Minister directed to coordinate phased implementation |
 
@@ -354,7 +355,7 @@ Information and Communication is a compulsory, non-promotional but assessable su
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Private mobile network investment | [Implemented](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network) | The network launched 2025-09-04 |
 | Universal Service Fund | [Implemented](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030) | Launched 2025-03-19 with N$145,000,000 of government seed funding over three years |
@@ -363,7 +364,7 @@ Information and Communication is a compulsory, non-promotional but assessable su
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Information and communications technology ministry budget vote | ***Not held*** | — |
 

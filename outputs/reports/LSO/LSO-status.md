@@ -1,14 +1,15 @@
 ---
 title: Lesotho — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: LSO
 ledger_rows: 60
 not_held: 0
+record: 5f21b51641f3
 ---
 
 # Lesotho: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (60 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (60 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -28,7 +29,7 @@ An interim national CSIRT [began operating on 29 July 2026](https://www.gov.ls/i
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Econet Telecom Lesotho 5G network | [Implemented](https://techafricanews.com/2025/06/20/econet-powers-lesothos-digital-leap-with-major-network-upgrade/) | 5G sites grown from 54 to 149 on 700MHz |
 | Econet Wi-Fi Plus fixed-mobile convergence service | [Implemented](https://lestimes.com/?p=87434) | Launched 2025-07-11 |
@@ -39,19 +40,19 @@ An interim national CSIRT [began operating on 29 July 2026](https://www.gov.ls/i
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Project Kobong hydropower and AI data centre | [Planned](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) | Approved and launched at a ceremony hosted by the US Embassy, 2026-07-31 |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mohale's Hoek government data centre | [In development](https://www.gov.ls/uncategorized/comms-minister-tours-mohales-hoek-data-centre/) | Toured near-complete by the Communications Minister; power station awaited (~2018-07) |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government Chief Information Security Officer | [Implemented](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | First appointment across government reported 2026-07-29 |
 | Interim national CSIRT (LesComCSIRT) | [Implemented, interim](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | Launched in Maseru 2026-07-29 |
@@ -73,14 +74,14 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government of Lesotho Enterprise Architecture and Interoperability Framework | [In development](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf) | Under development, per the 2025/26 budget speech, 2025-02-19 |
 | X-Road government interoperability platform | [In development](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) | Presented at the MICSTI-NUL review of DPI progress, 2026-02-20 |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital birth registration under Ntlafatsa Bana | [Implemented](https://www.eeas.europa.eu/delegations/lesotho/ntlafatsa-bana-launch-digital-birth-registration) | Launched with the European Union and UNICEF, 2025-04-02 |
 | Digital service-ID pilot | [Piloting](https://www.gov.ls/ict/lesotho-first-introduced-new-digital-service-identification-system/) | Pilot programme set to begin 2026-04-02, about 10,000 participants, announced 2026-03-25 |
@@ -89,7 +90,7 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | EcoCash mobile money | [Implemented](https://lestimes.com/?p=86904) | Platform migration completed October 2024 |
 | LeSwitch national payment switch | [Implemented](https://lestimes.com/?p=87043) | Card transactions at point of sale localised from 2025-05-11 |
@@ -100,13 +101,13 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | NISSA social registry | [Implemented](https://dpi.africa.com/lesothos-digital-leap/) | Child-centred redesign piloted in Mafeteng District |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Decision Support System for planning and budgeting | [In development](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) | Presented at the MICSTI-NUL review of DPI progress, 2026-02-20 |
 | Foundational Literacy and Numeracy Dashboard | [In development](https://techafricanews.com/2026/07/23/unicef-and-gpe-launch-learning-data-dashboard-to-improve-education-in-lesotho/) | UNICEF and Global Partnership for Education support announced, 2026-07-23 |
@@ -114,7 +115,7 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | E-Parliament system | [Implemented](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf) | Completion reported in the 2025/26 budget speech, 2025-02-19 |
 | eGovernment Infrastructure Project Phase II | [Implemented](https://lestimes.com/?p=90715) | Digital Outreach Studio launched under the project, 2026-06-12 |
@@ -123,13 +124,13 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | T-Connect Impact school and clinic connectivity | [Implemented](https://publiceyenews.com/2026/01/17/digital-dawn-in-the-highlands/) | Launched at Soofia International School, Butha-Buthe, 2026-01-17 |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Maseru City Council Construction Permit Automation System | [Implemented](https://www.cbs.co.ls/project/construction-permit-automation-system/) | Project page dated 2025-04-02; live at mcc-cp.org.ls |
 
@@ -147,14 +148,14 @@ Sub-national government has one system on record: Maseru City Council's [Constru
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cybercrime Bill | [In development](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | Awaiting National Assembly approval, 2026-07-29 |
 | Cybersecurity Bill | [In development](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | Awaiting National Assembly approval, 2026-07-29 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Broadband Infrastructure Sharing Policy | [Implemented](https://lestimes.com/?p=90715) | Signed by the MICSTI minister, 2026-06-12 |
 | Data Management Policy | [Implemented](https://lestimes.com/?p=90715) | Signed by the MICSTI minister, 2026-06-12 |
@@ -164,20 +165,20 @@ Sub-national government has one system on record: Maseru City Council's [Constru
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 50-in-5 DPI campaign membership | [Implemented](https://www.biometricupdate.com/202405/lesotho-commits-to-50-in-5-campaign-as-advocacy-for-crvs-dpi-integration-thickens) | Joined as the fourteenth member, May 2024 |
 | African Union Data Policy Framework domestication | [In development](https://www.gov.ls/economy/lesotho-advances-digital-future/) | Readiness workshop convened by AUDA-NEPAD, 28-31 July 2025 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | LCA Quality of Service Rules (Legal Notice 41 of 2023) | [Implemented](https://lca.org.ls/download/lesotho-communications-authority-quality-of-service-rules-2023/) | Legal Notice No. 41 of 2023 gazetted, in force 2023-04-21 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral health agreement with the United States and its data-sharing instrument | [Implemented, text withheld](https://allafrica.com/stories/202601200174.html) | Signed in December 2025, stated at US$364m |
 | Data Protection Act 2011 | [Implemented](https://cenfri.org/articles/african-data-governance-reform-in-an-era-of-reform/) | In force since 2011 |
@@ -185,7 +186,7 @@ Sub-national government has one system on record: Maseru City Council's [Constru
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open data portal | ***Not held, searched 2026-08-10 — SBC4D/IREX capacity assessment found no active government open-data programme and no access-to-information legislation in force*** | SBC4D/IREX capacity assessment for MCC/LMDA found no government open-data activity, September 2021 |
 
@@ -207,31 +208,31 @@ The one governance instrument that is known to exist and known to be withheld is
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National AI Academy | [Planned](https://lestimes.com/?p=91121) | Named in the UNDP-Econet memorandum signed 2026-07-28 |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Private-sector cloud and cybersecurity capacity | [Implemented](https://lestimes.com/?p=90611) | Executive workshop hosted in Maseru by DNS Technologies and CBS, 2026-05-30 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | UNDP-Econet memorandum of understanding | [Implemented](https://lestimes.com/?p=91121) | Signed at the Mpilo Boutique Hotel, Maseru, 2026-07-28 |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | US commercial diplomacy in the digital and energy sectors | [Implemented](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) | US Embassy states US$7.3bn of commercial partnerships facilitated over eighteen months |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Lesotho-India digital public infrastructure memorandum | [Implemented](https://publiceyenews.com/2025/07/29/lesotho-india-forge-digital-partnership/) | Signed during the Indian minister of state's visit to Maseru, 2025-07-29 |
 
@@ -247,7 +248,7 @@ Domestic technology capacity outside the two operators appears once, as an [exec
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI Skills Development Programme | [Implemented](https://publiceyenews.com/2026/06/17/lesotho-us-forge-ai-future/) | Launched with the US Embassy under the Sebabatso initiative, 2026-06-17 |
 | Government digital-literacy training in all ten districts | [Implemented](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | Reported running across all ten districts, 2026-07-29 |
@@ -255,7 +256,7 @@ Domestic technology capacity outside the two operators appears once, as an [exec
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government and National University of Lesotho DPI collaboration | [Implemented](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) | Joint review of DPI progress with the Mathematics and Computer Science department, 2026-02-20 |
 
@@ -271,13 +272,13 @@ As South African remittance and banking rules tightened, [migrant workers moved 
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Development-partner support for the data blueprint | [Implemented](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/) | Smart Africa, the African Union and the German Embassy named as supporters of the first workshop |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic budget appropriation for digital transformation | [Implemented](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf) | M381.1 million allocated to the ICT sector, delivered in the 2025/26 budget speech, 2025-02-19 |
 

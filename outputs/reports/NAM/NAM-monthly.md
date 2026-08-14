@@ -1,15 +1,16 @@
 ---
 title: Namibia — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: NAM
-ledger_rows: 28
-not_held: 22
+ledger_rows: 45
+not_held: 12
+record: 5294acaffb3d
 ---
 
 # Namibia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -28,13 +29,11 @@ An opposition member asked parliament on 4 August to compel disclosure of the Ch
 <!-- narrative: infrastructure--infra-connect -->
 On 30 July the ministry, the regulator and three operators met the traditional authorities' trust on streamlining tower siting and cutting deployment delays and costs; the ministry reported no agreement, instrument or timetable ([convening account](https://www.itweb.africa/article/namibia-taps-chiefs-for-network-rollout/LPwQ57lbeY5qNgkj)). Traditional authorities manage communal land, which the ministry treats as the siting constraint.
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -52,7 +51,6 @@ The identity ministry reported on 23 July that it printed 166,237 identity docum
 
 The regional outreach opened in Omaheke on 27 July and ran to 5 August across all seven constituencies, delivered with a development agency and the regulator ([outreach account](https://neweralive.na/e-ids-outreach-kicks-off-in-omaheke/)). The regional governor said marginalised communities need to be convinced to take up the card, and the ministry team named low literacy as the obstacle to understanding it ([governor's account](https://www.namibiansun.com/technology/govt-dismisses-mark-of-the-beast-conspiracies-over-e-ids-nmh013991-1-17373)).
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -60,23 +58,35 @@ The central bank, the instant payments company and the clearing house signed a d
 
 The payments association's annual general meeting on 28 July also heard that licensing and supervision of payment providers will move to the central bank, with no instrument, commencement date or transition plan published ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 The health ministry held national training at Swakopmund in the week to 29 July for a mobile application replacing community health workers' paper registers; no rollout date was announced and paper and digital are to run in parallel ([training account](https://neweralive.na/health-prepares-for-digital-system-rollout/)).
 <!-- /narrative -->
+### Other GovTech and e-Gov
 
+<!-- narrative: dpi--dpi-govtech -->
+
+<!-- /narrative -->
+### Digitalisation of sub-national government
+
+<!-- narrative: dpi--digital-localgov -->
+
+<!-- /narrative -->
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
 At the inaugural statistics awareness day at Gobabis on 27 July the central bank governor said the identity card presents an opportunity to establish a statistical system enabling secure data matching across administrative databases ([awareness day account](https://thebrief.com.na/2026/07/bon-backs-e-id-rollout-to-reduce-census-costs-and-improve-policymaking/)), and on 30 July an international statistician told the same event that poor-quality data could weaken public trust and undermine policymaking ([second account](https://neweralive.na/stats-key-for-development-bon-nsa/)).
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: dpi--data-satellite -->
+
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -86,13 +96,11 @@ At the inaugural statistics awareness day at Gobabis on 27 July the central bank
 <!-- narrative: governance--gov-legislate -->
 The ICT minister told the regulator's new board on 13 July that the Cybercrime Bill and the Data Protection Bill were being finalised, and the ministry stated that Namibia is still developing a comprehensive legislative framework for cybercrime, with law enforcement and the judiciary relying meanwhile on the Electronic Transactions Act, the Communications Act and the penal code ([board account](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A)).
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 The ICT minister met a consultancy delegation in Windhoek on 3 August on trustworthy artificial intelligence, broadband access, cybersecurity, data centres, clean energy and women in technology, and stated that consultations on the strategy framework had already begun under the research council and that government has prioritised a strategy before introducing legislation ([ministerial account](https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r)). No contract, terms of reference or procurement route involving the consultancy is established ([second account](https://techafricanews.com/2026/08/05/namibia-and-deloitte-discuss-ai-strategy-and-digital-infrastructure-development/)).
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
@@ -102,7 +110,6 @@ Namibia joined four other governments as a founding partner of a pan-African Afr
 
 A Namibia-Botswana information and communications technology memorandum, signature announced 6 August, has no drafted narrative yet.
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -116,6 +123,11 @@ On 4 August an opposition member told a newspaper that with no data-protection s
 <!-- narrative: ai-tech--geopol-china -->
 The President met a vendor's executives in Shenzhen on 7 July and urged the company to create artificial-intelligence jobs and skills for Namibians; the Presidency acknowledged a Chinese contribution of CNY 98,000,000 to the Windhoek smart-city pilot, given by the source as about US$14.4m in 2026 ([Presidency account](https://www.namibian.com.na/nandi-ndaitwah-pushes-ai-jobs-in-huawei-talks/)).
 <!-- /narrative -->
+### India activities
+
+<!-- narrative: ai-tech--geopol-india -->
+
+<!-- /narrative -->
 
 ## Inclusion and capacity
 
@@ -123,10 +135,4 @@ The President met a vendor's executives in Shenzhen on 7 July and urged the comp
 
 <!-- narrative: inclusion--include-access -->
 The central bank's deputy governor told the payments association's annual general meeting on 28 July that financial inclusion rose from 78% in 2017 to 86% in 2025, and named continued cash reliance, limited rural access, informal-sector barriers and the digital divide as the persistent constraints ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
-<!-- /narrative -->
-
-## Finance
-
-<!-- narrative: finance -->
-No finance row moved in this window.
 <!-- /narrative -->

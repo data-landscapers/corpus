@@ -1,15 +1,16 @@
 ---
 title: Chad — monthly update, July 2026
-compiled: 2026-08-11
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: TCD
-ledger_rows: 18
+ledger_rows: 28
 not_held: 42
+record: 88ff0f12932f
 ---
 
 # Chad: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -64,11 +65,6 @@ _(narrative not yet written)_
 
 ## Governance and regulation
 
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-_(narrative not yet written)_
-<!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
@@ -77,14 +73,10 @@ On 4 August the Haute autorité des médias et de l'audiovisuel [announced](http
 
 ## Artificial intelligence and the technology sector
 
-<!-- narrative: ai-tech -->
-No development moved this month on artificial intelligence, the technology industry or Chad's bilateral digital-cooperation tracks with the United States, China, India or Gulf states. The most recent dated positions on record for each — the state operator's privatisation, the third mobile-operator licence, the Huawei backbone contract, the United States digital work programme and the Indian digital partnership — all predate 1 July.
-<!-- /narrative -->
+### US / hyperscaler activities
 
-## Inclusion and capacity
+<!-- narrative: ai-tech--geopol-usa -->
 
-<!-- narrative: inclusion -->
-_(narrative not yet written)_
 <!-- /narrative -->
 
 ## Finance
