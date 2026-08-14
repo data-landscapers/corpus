@@ -14,3 +14,4 @@ title: Corpus process log
 2026-08-14 09:59 · build · monthly/progress filenames drop the month; same_issue() guards narrative carry-across and period read-back · revert: b7412d3
 2026-08-14 10:06 · build · progress carries narrative across the roll (11/12 months shared); monthly still starts empty · revert: 3885650
 2026-08-14 10:15 · build · issue model removed: living documents, sliding windows, window close masked with compiled: · revert: a20b657
+2026-08-14 10:44 · build · ledger as_at->published (from slug date), prior_* dropped, period selection off the ledger · revert: eb783b7
