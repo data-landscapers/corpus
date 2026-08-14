@@ -6,7 +6,7 @@ last_reviewed: 2026-08-13
 
 # Job 1 — build the outputs — runbook for Claude Code
 
-*(Hand this to Claude Code in the Corpus repo. Job 1 turns OSINT's evidence into Corpus-owned `outputs/`. Job 2 (`RENDER.md`) then renders `outputs/` into the site. Read `documentation/migration-report-layer.md` for the architecture and `documentation/report-layer.md` for the record layer stage 4 works to. OSINT is read-only throughout — never write to it. **Reading is unrestricted** (`CLAUDE.md`; Bill, 2026-08-14): the workroot junctions `raw/`, `index/`, `lookups/` and `wiki/` because that is what the build needs, and adding another is a line in `setup_workroot()` rather than a boundary decision. The boundary is the write, and it is absolute.)*
+*(Hand this to Claude Code in the Corpus repo. Job 1 turns OSINT's evidence into Corpus-owned `outputs/`. Job 2 (`RENDER.md`) then renders `outputs/` into the site. Read `documentation/migration-report-layer.md` for the architecture and `documentation/report-layer.md` for the record layer stage 4 works to. OSINT is read-only throughout — never write to it. **Reading is unrestricted** (`CLAUDE.md`; Bill, 2026-08-14): the workroot junctions `index/`, `lookups/` and every tree the index is built from — `raw/`, `wiki/`, `new/`, `new-budget/`, `budget-archive/`, `reviews/`, `sweep/`, `queries/` — and adding another is a line in `setup_workroot()` rather than a boundary decision. The last six are not read by any stage; they are junctioned because an index freshness check that walks fewer trees than the index was built over can never agree with it, and the disagreement stops every citation lookup. The boundary is the write, and it is absolute.)*
 
 ## The two kinds of work in Job 1
 
@@ -22,6 +22,7 @@ Three further stages are deferred and named at the end: report initialisation fr
 
 - OSINT checked out and readable (`OSINT_PATH`, default `C:\OSINT`). On this machine `raw/` is local, so the scan and renders are fast.
 - Run from the repo root. Commit after each coherent stage.
+- **OSINT's `index/` must be fresh, and only an OSINT session can make it so.** A stage that resolves a citation exits with `vault_lib.ForeignIndex` — *"refusing to rebuild `C:\OSINT\index`… rebuild the index from an OSINT session and run this again"* — when the index has fallen behind the vault. That is not a fault to work around: Corpus rebuilding OSINT's index is the one write the boundary exists to prevent, so the run stops and the repair is `python scripts/build-index.py` in OSINT, about 77 seconds. Tell Bill; do not touch it. *(Live as of 2026-08-14 — `logs/notes-for-osint.md` note 8.)*
 
 ## Stages 1–3 — the compiles (scripted)
 

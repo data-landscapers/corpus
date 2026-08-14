@@ -84,7 +84,7 @@ Mechanism: Corpus writes a machine-readable **request feed** (`logs/requests-for
 
 The mirror of the constraints already atop `logs/notes-for-osint.md`, now that Corpus depends on OSINT's evidence:
 
-- `raw/`, `lookups/` and `wiki/` stay git-tracked and committed — Corpus reads committed `HEAD`. **`index/` is not among them**: it is derived, OSINT gitignores it, and Corpus reads it from the working tree — what it needs there is freshness, enforced by `vault_lib`'s refusal to rebuild a foreign index. *(`wiki/` added 2026-08-14, when the status and initialisation processes made it load-bearing; `index/` corrected out of the list the same day. `logs/notes-for-osint.md` → standing constraints is the full statement.)*
+- `raw/`, `lookups/` and `wiki/` stay git-tracked and committed — an uncommitted tree is the one state a rebuild cannot restore. Corpus reads all three from OSINT's **working tree**, through the workroot junctions, not from `HEAD`. **`index/` is not among them**: it is derived, OSINT gitignores it, and what Corpus needs there is freshness rather than tracking, enforced by `vault_lib`'s refusal to rebuild a foreign index. *(`wiki/` added 2026-08-14, when the status and initialisation processes made it load-bearing; `index/` corrected out of the list, and the `HEAD` claim corrected, the same day. `logs/notes-for-osint.md` → standing constraints is the full statement.)*
 - Slugs in `raw/` stay stable — a re-slugged source reads as new to Corpus.
 - The hub compile re-derives from `raw/`, not from Corpus's CSVs — no cross-repo build-order dependency.
 - The request feed is honoured on some cadence, or the gaps loop stops draining.

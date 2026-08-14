@@ -7,7 +7,8 @@ The site is two jobs. This is the first.
   JOB 2 (render)       Corpus outputs/                 ->  Corpus site/     (RENDER.md)
 
 Corpus compiles, reports and analyses; OSINT collects and classifies. This driver reads
-OSINT's committed raw/, index/ and lookups/ and writes only into Corpus's own outputs/.
+OSINT's working tree — raw/, wiki/, index/, lookups/ and the other indexed roots, through
+the junctions setup_workroot() makes — and writes only into Corpus's own outputs/.
 **It never writes to OSINT.**
 
 Job 1 has two kinds of work. The deterministic *compiles* below are pure functions of
