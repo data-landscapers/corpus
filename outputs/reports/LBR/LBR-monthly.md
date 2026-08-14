@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: LBR
 ledger_rows: 26
 not_held: 8
-record: 80c0f03cb06e
+record: 2bc2f8a70dab
 ---
 
 # Liberia: monthly update, July 2026
@@ -37,7 +37,7 @@ At the same 21 July event the minister also [announced a national data centre to
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-_(narrative not yet written)_
+The Cybercrime Act 2025 [had still not received presidential signature as of 1 July](https://liberianinvestigator.com/moye-liberia-cybersecurity-bill-boakai-signature/), nearly six months after the Senate's concurrence cleared its passage through the Legislature. The full text the base holds is the 2021 base bill, which carries none of the 2025 provisions.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -80,7 +80,7 @@ At the African Telecommunications Union plenipotentiary session in Abuja in July
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-
+The telecoms regulator [fined an operator LRD 4m for issuing a subscriber's SIM to a third party without authorisation](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/). The penalty came under telecoms powers rather than data-protection law — which is the point, since the Act that would have supplied the latter is unsigned.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -120,7 +120,7 @@ UNDP set out its contributions at the summit, adding in its own account of 3 Aug
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-
+No later figure for account ownership or mobile wallet holding has been published. The base's position rests on the [account of digital finance expansion of 13 July](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/), which carries no measurement of its own.
 <!-- /narrative -->
 ### Literacy
 
@@ -138,5 +138,5 @@ UNDP also [announced a partnership with the University of Liberia to establish t
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-_(narrative not yet written)_
+The finance minister put the youth entrepreneurship investment bank at [almost US$18m targeting 30,000 youth-led businesses and about 100,000 jobs](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html), with a national coordinator recruited and a board being constituted. No disbursement is stated.
 <!-- /narrative -->

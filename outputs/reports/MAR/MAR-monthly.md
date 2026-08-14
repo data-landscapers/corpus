@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: MAR
 ledger_rows: 32
 not_held: 17
-record: 65f7431c3783
+record: f6753d1f47dd
 ---
 
 # Morocco: monthly update, July 2026
@@ -39,7 +39,7 @@ The ministry signed a memorandum of understanding with a data-centre power and c
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-_(narrative not yet written)_
+The [national cybersecurity strategy to 2030 is now held in full: four pillars — governance, cyberspace resilience, capacity development and regional cooperation — with 11 objectives, 26 initiatives and 60 actions](https://www.dgssi.gov.ma/sites/default/files/publications/pdf/2024-10/Strat%C3%A9gie%20Nationale%20de%20Cybers%C3%A9curit%C3%A9%202030.pdf), succeeding the first strategy of 2012. Its workforce commitments carry no numbers, and a separate held source dates a national cybersecurity strategy to 2023 with US$100m earmarked and an agency created — whether the two are the same instrument is not established.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -83,7 +83,7 @@ Personal data protection law 09-08, recorded 4 August 2026 as recast in the legi
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-
+Digital Morocco 2030 is in force with a [US$250m acceleration programme attached in June](https://www.moroccoworldnews.com/2026/07/330823/morocco-to-launch-250-million-world-bank-backed-digital-transformation-program/), against a [technology sector at 6.8% of gross domestic product on a 2025 figure](https://www.trade.gov/country-commercial-guides/morocco-digital-economy). Two held sources give its 2030 jobs target as 150,000 and as 240,000, and neither reconciles with the other.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -98,12 +98,12 @@ Live facial recognition entered service in Rabat in the same weeks ([deployment 
 ### EU activities
 
 <!-- narrative: governance--geopol-eu -->
-_(narrative not yet written)_
+Morocco holds [no European Union adequacy decision: the Commission's list names sixteen jurisdictions plus one international organisation, none of them in Africa](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). Neither source establishing this is tagged to Morocco, and no Morocco-tagged governance source the base holds mentions the European Union at all.
 <!-- /narrative -->
 ### Open data
 
 <!-- narrative: governance--data-open -->
-
+The open-data portal is operating with four published procedure volumes — [manuals for open-data officers and data managers](https://data.gov.ma/sites/default/files/docs/Open_data_manuel_ROD_Avril%202021.pdf), a [data-inventory methodology](https://www.data.gov.ma/sites/default/files/2023-03/guide_inventaire_1.3_Fev.%202023.pdf) and a [standards and formats manual](https://www.data.gov.ma/sites/default/files/2025-01/Manuel_Standards_Donn%C3%A9es_Open_Data_1.1.pdf) — and published datasets including a [1,028-entry start-up database](https://data.gov.ma/data/dataset/donnees-sur-les-startups). A steering committee of ten bodies was established in December 2019 and a readiness assessment carried out in 2020, whose report remains unheld. The portal's own dataset count, publication statistics and action plan are not held either.
 <!-- /narrative -->
 
 ## Inclusion and capacity
