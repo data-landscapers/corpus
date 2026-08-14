@@ -38,6 +38,9 @@ Stages
 """
 import argparse, csv, glob, json, os, shutil, subprocess, sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import vault_lib  # noqa: E402  — for INDEX_ROOTS; see setup_workroot()
+
 CORPUS = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 OSINT = os.environ.get("OSINT_PATH", r"C:\OSINT")
 TOOLCHAIN = os.path.join(CORPUS, "scripts")           # all .py live here now
@@ -80,18 +83,28 @@ def _link_dir(link, target):
 
 
 def setup_workroot():
+    """Link the workroot at OSINT's evidence and Corpus's own trees.
+
+    **Every root in `vault_lib.INDEX_ROOTS` is junctioned, not just the ones a stage reads.**
+    That is a correctness requirement, not generosity. `index_state()` calls the index stale when
+    the number of files it walks under `INDEX_ROOTS` differs from the count in `meta.json`, and a
+    stale read routes into `build_index()`, which raises `ForeignIndex` here because Corpus may
+    never rebuild OSINT's index. So a workroot exposing a *subset* of the roots the index was
+    built over can never see it as fresh: every consumer dies on the first citation lookup, and
+    rebuilding in an OSINT session does not help, because the shortfall is on this side. Junction
+    all eight and the two views agree. *(2026-08-14: adding `wiki/` alone would have walked 12,588
+    files against a `meta.json` of 10,178 and stopped every render.)*
+
+    **Corpus may read anything in OSINT** *(Bill, 2026-08-14)*, so this list is what the build
+    needs, not what it is allowed. The boundary is one-directional and unchanged: nothing here
+    ever writes. `wiki/intersections/` and `wiki/places/` are the primary input to STATUS-INIT.md
+    and to the deferred report-initialisation stage; the rest are here for the index's arithmetic.
+    """
     os.makedirs(WORK, exist_ok=True)
     os.makedirs(OUTPUTS, exist_ok=True)
-    for name, target in (("raw", os.path.join(OSINT, "raw")),
+    for name, target in (*((r, os.path.join(OSINT, r)) for r in vault_lib.INDEX_ROOTS),
                          ("index", os.path.join(OSINT, "index")),
                          ("lookups", os.path.join(OSINT, "lookups")),
-                         # The compiled wiki: `wiki/intersections/` and `wiki/places/` are the
-                         # primary input to STATUS-INIT.md and to the deferred report-initialisation
-                         # stage. **Corpus may read anything in OSINT** (`CLAUDE.md`; Bill,
-                         # 2026-08-14) — this list is what the build needs, not what it is allowed,
-                         # so adding a directory here is a convenience change, never a boundary one.
-                         # The boundary is one-directional and unchanged: nothing here ever writes.
-                         ("wiki", os.path.join(OSINT, "wiki")),
                          ("scripts", TOOLCHAIN),
                          # `report-register-check.py` reads its word budgets from the skeletons in
                          # documentation/, so without this it dies on FileNotFoundError when run
