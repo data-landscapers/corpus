@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: MOZ
 ledger_rows: 55
 not_held: 18
-record: 7fc0661bf09d
+record: ea3d94cad306
 ---
 
 # Mozambique: monthly update, July 2026
@@ -55,7 +55,7 @@ The same institute account of 23 July states that the Cyber Security Law creates
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-
+The roads fund runs an [open-data portal publishing road, bridge and infrastructure project data under a Creative Commons licence and the open contracting standard for infrastructure](https://www.dadosinfra.co.mz/), validated as a publisher against that standard in 2026. It is the base's clearest instance of Mozambican government data published to an external standard rather than to a page.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -70,7 +70,7 @@ The National Payments System Law took effect on 2 July 2026, replacing the regim
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-
+A [ten-year digital health strategy is recorded as the operative national instrument](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/), the country's first dedicated one. It is known to the base only through a dated reference directory: the adoption date, the adopting instrument and the text itself are not held.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -124,7 +124,7 @@ On 28 July the communications minister told the same banking and finance confere
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
-
+The economy minister [met satellite operator representatives to discuss connectivity, digital infrastructure and participation by smaller firms](https://techafricanews.com/2026/07/06/mozambique-explores-strategic-partnership-with-spacex-to-advance-digital-economy/). No agreement, amount or timetable was announced. The operator's service already runs in Mozambique, so this is a government-level engagement rather than market entry.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -132,7 +132,7 @@ On 28 July the communications minister told the same banking and finance confere
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-
+The inclusion figures move in opposite directions depending on which one is read. The central bank's 2025 report puts the [financial inclusion index at 36.4 points, classified moderate, with Cabo Delgado rising from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) — a national index that did not move while access points rose 36%. Underneath it the [gender gap in access to credit stands at 34% women against 66% men](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/), and women's mobile money holding rose 24% over the same period. The account gap is narrowing while the credit gap widens.
 <!-- /narrative -->
 ### Access to services
 
@@ -157,10 +157,10 @@ At the university data centre's inauguration the communications minister propose
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-
+The digital foundations programme runs to 2027 with the European Union delegation funding and the telecommunications union implementing. It reports [a national digital skills assessment drawing on more than 30 interviews and a survey of about 400 young people, a Matola pilot training 50 young people and 5 teachers, 15 women trained under a govtech challenge, more than 100 participants in artificial-intelligence training for young women and more than 320 stakeholders reached by accessibility work](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx). The project page is undated and rolling, so none of those outputs can be placed inside this window, and no disbursement update is held.
 <!-- /narrative -->
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->
-_(narrative not yet written)_
+The cyber security fund is [provided for in statute from 1 July, with state appropriations named among its revenue lines alongside a flat 1% levy on licensed cybersecurity providers](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244). No line for it appears in the [FY2026 state budget final maps](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais), which were set before the law was published, and the regulator has no capital allocation at all this year. The first budget in which such a line could be expected is FY2027.
 <!-- /narrative -->
