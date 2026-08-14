@@ -1,0 +1,46 @@
+---
+title: Rural digital data capture — monthly update, July 2026
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
+subject: digital.rural
+places: EGY; MWI; MLI; NER; NGA; TGO; ZMB; ZWE
+record: ef1ff860d361
+---
+
+# Rural digital data capture: monthly update, July 2026
+
+*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+## Egypt
+
+The rural fibre programme reports [about 5 million lines across more than 1,250 of 1,450 phase-one villages](https://itweb.africa/article/egypt-deepens-world-bank-digital-partnership/Pero3qZ31RYvQb6m) in 52 markazes across 20 governorates, with 75% of village service complexes connected. No completion date for the remaining 200 villages is stated anywhere held, and [a 2024 account of the same programme uses a 4,500-village denominator](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) the base does not reconcile with the 1,450 above.
+
+## Malawi
+
+Applied deployments in the month were single facilities rather than national systems: a university commissioned an artificial-intelligence fertigation system at its Thyolo campus on 17 July, automating irrigation and fertiliser application from real-time crop data, with no cost or funding source stated.
+
+## Mali
+
+The same week [recommended an updated universal-access strategy with a white-zone map, against a 2030 universal connectivity target](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html). No map, coverage baseline or funding line accompanies the recommendation.
+
+## Niger
+
+On 10 July the digital agency's [Villages Intelligents programme opened a digital centre at Tabelot in Agadez](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/), with training for women and girls.
+
+## Nigeria
+
+The communications minister told the President on 4 August that [deployment of about 3,700 towers begins around October](https://www.vanguardngr.com/2026/08/fg-to-rollout-90000km-fibre-optic-network-tijani/), reaching more than 20 million people in communities with no telecoms service and with the capital stated as raised — no funding source, operator or contract is named. The baseline against which it is measured is [23% of rural communities connected to 57% urban](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/).
+
+[Talks on artificial intelligence for smallholder farmers are exploratory](https://itweb.africa/article/cisco-explores-ai-for-nigeria-farmers/nWJadMbNDjyMbjO1): no programme, funding, timeline or counterparty ministry is named.
+
+## Togo
+
+The Council of Ministers [amended the spectrum-royalty decree to price satellite and machine-to-machine traffic](https://actu-togo.tg/2026/07/31/numerique-le-togo-ajuste-sa-reglementation-pour-soutenir-linnovation-et-la-connectivite/) on 30 July, so specialised operators can establish and rural connectivity extend. The amending text and its rates were unpublished at 31 July, and the parent decree is held only as an image scan, so the baseline rates cannot be read either.
+
+## Zambia
+
+Satellite kits [connected a rural health clinic and two primary schools in Moomba Chiefdom](https://techafricanews.com/2025/09/29/smart-zambia-brings-starlink-internet-to-remote-moomba-chiefdom/) to government services through the national portal. No national count of connected facilities is published, and the state's purchase of foreign satellite capacity for the last mile sits alongside its own private 4G build.
+
+## Zimbabwe
+
+The ICT minister told the National Assembly on 17 July that the universal services fund currently covers satellite-kit subscriptions only for digital centres and schools, and only for one year ([National Assembly account](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription)).
