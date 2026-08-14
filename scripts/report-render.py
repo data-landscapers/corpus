@@ -295,19 +295,42 @@ def month_bounds(month, window=1, end=None):
     return datetime.date(sy, sm, 1).isoformat(), max(end or close, close)
 
 
-def period_end(path):
-    """The closing date an already-issued document was cut with, or None.
+def period_of(path):
+    """(start, end) of the issue a document on disk holds, or (None, None).
 
-    A dated issue is immutable (§9), so a re-render — a format change, an interrupted run — reads
-    its period back rather than silently widening it to the day the re-render happens."""
+    Monthly and progress documents carry a stable filename *(Bill, 2026-08-14)* — RENDER dates the
+    PDF and CSV, and the HTML is not versioned, so the markdown does not need the month in its
+    name. That makes the file at a given path **the current issue, whichever month that is**, and
+    everything read back off it has to be qualified by which issue it turned out to be."""
     if not os.path.exists(path):
-        return None
-    with open(path, encoding="utf-8") as fh:
-        for line in fh.read().split("\n")[:12]:
-            m = re.match(r"period:\s*\d{4}-\d{2}-\d{2}\s+to\s+(\d{4}-\d{2}-\d{2})\s*$", line)
-            if m:
-                return m.group(1)
-    return None
+        return None, None
+    for line in open(path, encoding="utf-8").read().split("\n")[:12]:
+        m = re.match(r"period:\s*(\d{4}-\d{2}-\d{2})\s+to\s+(\d{4}-\d{2}-\d{2})\s*$", line)
+        if m:
+            return m.group(1), m.group(2)
+    return None, None
+
+
+def same_issue(path, start):
+    """Is the document on disk the same issue we are now cutting?
+
+    **The test that a stable filename makes load-bearing.** With `{unit}-monthly-YYYY-MM.md` a new
+    month was a new file, so carrying narrative across by marker id and reading the period back
+    could only ever touch the issue they belonged to. With `{unit}-monthly.md` the file at that
+    path may be *last* month's, and doing either blindly would publish July's prose under August's
+    heading and August's evidence under July's period. Two documents are the same issue when their
+    windows open on the same day."""
+    held_start, _ = period_of(path)
+    return held_start == start
+
+
+def carry_from(path, start):
+    """The path to carry narrative across from — the document itself, or nowhere.
+
+    A new issue starts with empty blocks. Prose is written about a period, and a sentence about
+    what moved in July is not a sentence about what moved in August; inheriting it silently would
+    be the worst kind of error, because the document would read as finished."""
+    return path if same_issue(path, start) else os.devnull
 
 
 def compiled_date(path):
@@ -488,7 +511,7 @@ def write(path, out, unit, note, today=None):
     prose changes the digest whoever wrote it and however it got there.
 
     A re-render that genuinely changes nothing leaves the file untouched — the old date stands and
-    the mtime does not move. This is `period_end()`'s discipline applied to the other dated field:
+    the mtime does not move. This is `period_of()`'s discipline applied to the other dated field:
     a render must never make a document look newer, or older, than it is."""
     new = "\n".join(out)
     fresh = digest(new)
@@ -572,15 +595,17 @@ def render_monthly(unit, today, month, end=None):
     if not ledger:
         print(f"{unit}: ledger is empty — nothing to render")
         return 1
-    path = os.path.join(folder, f"{unit}-monthly-{month}.md")
-    start, end = month_bounds(month, 1, end or period_end(path) or today)
+    path = os.path.join(folder, f"{unit}-monthly.md")
+    start = month_bounds(month, 1)[0]
+    held_end = period_of(path)[1] if same_issue(path, start) else None
+    start, end = month_bounds(month, 1, end or held_end or today)
     changed = moved_in(ledger, start, end)
     if not changed:
         print(f"{unit} {month}: nil, unchanged — no row moved in the window, so no issue "
               f"(documentation/report-layer.md §2)")
         return 0
     ordered, _ = sections(unit)
-    block, keep = blocker(path)
+    block, keep = blocker(carry_from(path, start))
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     name = place_name(unit)
     pretty = datetime.date.fromisoformat(start).strftime("%B %Y")
@@ -632,9 +657,11 @@ def render_progress(unit, today, month, window, end=None):
     ordered, _ = sections(unit)
     prof = profile(unit)
     urls = slug_urls()
-    path = os.path.join(folder, f"{unit}-progress-{month}.md")
-    start, end = month_bounds(month, window, end or period_end(path) or today)
-    block, keep = blocker(path)
+    path = os.path.join(folder, f"{unit}-progress.md")
+    start = month_bounds(month, window)[0]
+    held_end = period_of(path)[1] if same_issue(path, start) else None
+    start, end = month_bounds(month, window, end or held_end or today)
+    block, keep = blocker(carry_from(path, start))
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     held = [r for r in ledger if stem(r["status"]) != NOT_HELD]
     name = place_name(unit)

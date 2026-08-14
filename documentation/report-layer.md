@@ -163,15 +163,19 @@ Forcing every claim through a resolution step finds what nothing else looks for:
 ```
 outputs/reports/{unit}/ledger.csv                  # the record layer, maintained
 outputs/reports/{unit}/gaps.csv                    # not-held rows, with probe dates
-outputs/reports/{unit}/{unit}-status.md            # current position — stable name, git holds prior issues
-outputs/reports/{unit}/{unit}-monthly-YYYY-MM.md   # one dated issue per month, never overwritten
-outputs/reports/{unit}/{unit}-progress-YYYY-MM.md  # one dated issue per window, never overwritten
+outputs/reports/{unit}/{unit}-status.md            # current position
+outputs/reports/{unit}/{unit}-monthly.md           # the current monthly issue; `period:` says which
+outputs/reports/{unit}/{unit}-progress.md          # the current progress issue; `period:` says which
 outputs/reports/{unit}/considered.txt              # slugs the ledger has looked at — the set difference §2 works over
 ```
 
 Every issued document carries `compiled:` and `record:` in its frontmatter, and the pair is the layer's statement about identity: `record:` says *what this document is*, `compiled:` says *when it last became that*. Neither is ever written by hand.
 
-**The status report keeps a stable filename; a dated issue keeps its filename and its period.** A published status page needs a URL that does not move, and a monthly a reader can cite by date must stay the document that date names. Neither is a freeze on content: a filename that does not move and a period that does not widen are what let a document be *improved* without becoming a different document. Every prior state is in git. Nothing here is a source: reports are derived views, never cited by a wiki page, never re-ingested into OSINT.
+**No markdown filename carries a period** *(Bill, 2026-08-14)*. All three documents have stable names, and `period:` in the frontmatter says which issue a file currently holds. Versioning happens where a reader actually needs it: RENDER dates the PDF and the CSV, which are what a citation points at, and the HTML is not versioned because it is always the current document. A month in a markdown filename versioned the working file rather than the artefact, which is the wrong end.
+
+**The consequence is that the file at a path is the *current* issue, whichever month that is**, and everything read back off it must be qualified by which issue it turned out to be. `same_issue()` is that test — two documents are the same issue when their windows open on the same day — and it guards the two things that used to be safe for free. **Narrative is carried across only within an issue**: a sentence about what moved in July is not a sentence about what moved in August, and a new issue therefore starts with empty blocks. **A period is read back only within an issue**: otherwise August's evidence would be published under July's dates. Both were implicit in the dated filename; with a stable one they have to be stated and tested.
+
+Prior issues live in git and in the dated artefacts RENDER writes. Nothing here is a source: reports are derived views, never cited by a wiki page, never re-ingested into OSINT.
 
 These constraints bind **from public launch**, not retroactively — nothing in `outputs/` was ever public before the migration, so the layer was free to be re-cut clean (migration-report-layer.md → *What we agreed*).
 
