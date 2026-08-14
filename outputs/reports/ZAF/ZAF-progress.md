@@ -1,19 +1,20 @@
 ---
-title: South Africa — progress report, 2025-08-01 to 2026-08-04
-compiled: 2026-08-10
-period: 2025-08-01 to 2026-08-04
+title: South Africa — progress report, 2025-08-01 to 2026-08-14
+compiled: 2026-08-14
+period: 2025-08-01 to 2026-08-14
 place: ZAF
-ledger_rows: 106
+ledger_rows: 112
 not_held: 11
+record: f46080fd1cc1
 ---
 
-# South Africa: progress report, 2025-08-01 to 2026-08-04
+# South Africa: progress report, 2025-08-01 to 2026-08-14
 
-*Compiled 2026-08-10 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 106 systems and instruments on this place's ledger, 51 changed position between 2025-08-01 and 2026-08-04, 8 did not, 28 carry no stated baseline, and 11 are ***Not held*** at both ends. A further 7 took a position dated after 2026-08-04 and are carried in the status report rather than compared here.*
+*Of 112 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-14, 9 did not, 31 carry no stated baseline, and 11 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 459 sources for this place in the window — 58 in the earlier half (2025-08 to 2026-01), 401 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 480 sources for this place in the window — 58 in the earlier half (2025-08 to 2026-01), 422 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -31,12 +32,13 @@ Most stated delivery dates in the period moved.
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| Cape Town internet exchange (CINX) | ***Baseline not held*** | [Present at six data-centre locations after going live at two further sites, but still concentrated: one facility holds 87 of the exchange's 122 networks and nearly every 100 Gbps port, against 208 networks and 10,132 Gbps on the more distributed Johannesburg exchange](https://tech.africa/cinx-oadc-cape-town-expansion/) | Advanced |
 | Delivered data-centre load | ~350MW (2024 benchmark) | [~390MW (2025)](https://www.sundaytimes.timeslive.co.za/news/2026-07-22-south-africas-data-centre-gold-rush-risks-resource-crunch/) | Advanced, marginal |
 | Draft Radio Frequency Spectrum and Fees Regulations amendments | Regulations of 2015 and 2010 unamended | [Gazetted 2026-05-15; oral hearings 19-20 August 2026](https://www.icasa.org.za/news/2026/icasa-to-hold-public-hearings-on-draft-amendments-to-radio-frequency-spectrum-regulations-and-fees-regulations) | Advanced |
 | Equinix Cape Town land use | ***Baseline not held*** | [Tribunal approval 2026-07-14](https://www.moneyweb.co.za/news/ai/giant-data-centres-get-the-first-green-light-from-cape-town-tribunal/) | Advanced |
-| High-demand spectrum auction | No date | No date; R51m appropriated | Stalled |
+| High-demand spectrum auction | No date | [The 2026 National Radio Frequency Plan targets 1,145 MHz more mid-band spectrum and over 17,250 MHz of mmWave against 794 MHz currently available - roughly 215% more high-demand spectrum cleared for release - but no auction has been scheduled, priced or gazetted](https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/) | Stalled |
 | IMT Roadmap 2026 and draft assignment plans | ***Baseline not held*** | [Out for consultation](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2) | Advanced |
 | Innovation spectrum, lower 6GHz | Draft, March 2025 | Gazetted 2026-05-22 | Advanced |
 | LEO satellite licensing framework | Policy direction gazetted 2025-12-12 | [Direction rejected 2026-05](https://pmg.org.za/committee-question/39540/) | Regressed |
@@ -48,29 +50,36 @@ Most stated delivery dates in the period moved.
 | National cyber-security measurement | 2024 CSIR surveys | [Unchanged; no re-measurement](https://www.csir.co.za/sites/default/files/Documents/241013_CSIR%20Infographic%20posters_Draft%204_Data%20breaches.pdf) | No change |
 | National CSIRT (Cybersecurity Hub) | ***Baseline not held*** | [Operating; no incident statistics published](https://www.cybersecurityhub.gov.za/incident-management-process) | ***Baseline not held*** |
 | National Cybersecurity Policy Framework | ***Baseline not held*** | [In force; the instrument the national CSIRT rests on](https://www.cybersecurityhub.gov.za/incident-management-process) | ***Baseline not held*** |
-| National GIS infrastructure database (rapid deployment reg. 7) | ***Baseline not held*** | In development (2026-04) | ***Baseline not held*** |
+| National GIS infrastructure database (rapid deployment reg. 7) | ***Baseline not held*** | In development (2026-04-12) | ***Baseline not held*** |
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Teraco CT2, Cape Town | ***Baseline not held*** | [+32MW to 50MW, 2025-11](https://techafricanews.com/2025/11/10/teraco-expands-cape-town-ct2-data-centre-to-50mw-boosting-africas-hyperscale-capacity/) | Advanced |
 
+### Technical Capacity
+
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+|---|---|---|---|
+| National Integrated Cyber Infrastructure System | ***Baseline not held*** | [Operating; CHPC at maximum capacity, expansion required](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system) | ***Baseline not held*** |
+
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | FSCA enforcement against online financial harm | 107 public warnings; R119.8m penalties (FY2024/25) | [140 public warnings; R2.89bn penalties on 76 persons (FY2025/26)](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ) | Advanced |
+| Ransomware attacker dwell time | 117 days (2024) | [18 days in 2025 on a digital-forensics firm's own incident statistics, with some intrusions running start to finish inside a day, attributed to ransomware-as-a-service, automated reconnaissance and AI-assisted attacks](https://www.itweb.co.za/article/ransomware-gangs-intensify-attacks-in-sa/lLn147mQzxP7J6Aa) | Advanced |
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Electronic Communications Amendment Bill | ***Baseline not held*** | [Published; submissions to 2026-08-21](https://www.apc.org/en/news/how-community-connectivity-pioneers-are-changing-south-africas-digital-policy-and-regulation) | Advanced |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Draft National Policy on Data and Cloud | Draft | [Draft; date of instrument disputed](https://www.cambridge.org/core/books/digital-sovereignty-in-the-brics-countries/south-african-digital-sovereignty-at-the-crossroad-of-securitization-and-development/08C1119DE09286B84626FA49F6AD0586) | No change |
 
@@ -86,14 +95,15 @@ Announced data-centre capacity and delivered capacity diverged. Pipeline announc
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | MzansiXchange data exchange | One-year pilot launched 2025-10-09 | [Nine months in; extra capacity onboarding](https://www.sanews.gov.za/south-africa/government-launches-mzansixchange-improve-evidence-based-policy) | Advanced, stalling |
 | SAHPRA VigiFlow serious-adverse-event e-reporting pilot | Did not exist | [Pilot open by invitation; no duration or mandatory date published](https://www.sahpra.org.za/document/pilot-project-for-electronic-reporting-of-serious-adverse-events-e-reporting-for-industry-vigiflow-module/) | Advanced |
+| SARS-Malawi customs data exchange | Did not exist | [Signed; no go-live date stated](https://itweb.africa/article/malawi-sa-sign-digital-customs-deal/raYAyqorGalMJ38N) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Digital driving licence | Promised for 2026 | [Nearest dated milestone 2027-03](https://techpoint.africa/insight/techpoint-digest-1253/) | Stalled |
 | Draft Identification Regulations amendments | Did not exist | [Gazetted 2026-05-04; consultation closed](https://www.biometricupdate.com/202605/south-africa-gazettes-digital-id-draft-regulation-seeks-comments) | Advanced |
@@ -102,38 +112,45 @@ Announced data-centre capacity and delivered capacity diverged. Pipeline announc
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| Capitec-Walletdoc merger conditions | Did not exist | [Behavioural conditions agreed; Tribunal had not ruled at 2026-08-06](https://www.itweb.co.za/article/compcom-approves-capitecs-walletdoc-acquisition/Olx4z7kaoeyq56km) | Advanced |
 | CIPS participation (Standard Bank) | No African bank held CIPS direct-participant status | [Standard Bank live as the first African bank offering CIPS transactions; RMB the settlement currency](https://www.cips.com.cn/en/2025-05/12/article_2025051209014593030.html) | Advanced |
 | Renminbi Clearing Bank of Africa | Did not exist; CIPS participation only (live 2025-11-20) | [Standard Bank and ICBC jointly authorised as RMB clearing bank for Africa, with operational capacity in the 19 African countries where Standard Bank Group operates](https://corporateandinvestment.standardbank.com/cib/global/who-we-are/about-us/news/standard-bank-becomes-the-first-bank-on-the-continent-authorised-to-clear-renminbi-transactions) | Advanced |
+| ZARU rand-backed stablecoin | Did not exist | [Listed on Luno Global 2026-08-07, quoted against USDT and USDC](https://www.itweb.co.za/article/rand-goes-on-chain-as-zaru-hits-luno-global/xA9PO7NE6RAvo4J8) | Advanced |
 | Payments Ecosystem Modernisation credential and wallet | ***Baseline not held*** | In development (2026-07-31) | ***Baseline not held*** |
-| Retail central bank digital currency | ***Baseline not held*** | Planned, not proceeding (2026-06) | ***Baseline not held*** |
+| Retail central bank digital currency | ***Baseline not held*** | Planned, not proceeding (2026-07-02) | ***Baseline not held*** |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Blocked identity numbers | 384,189 (2025-12) | [377,060](https://iol.co.za/news/politics/2026-07-17-home-affairs-struggles-to-unblock-identity-numbers-due-to-unserviceable-addresses/) | Stalled |
-| Intelligent Population Register | ***Baseline not held*** | In development (2026-06) | ***Baseline not held*** |
-| National Population Register | ***Baseline not held*** | Implemented (2026-06-08) | ***Baseline not held*** |
+| Intelligent Population Register | ***Baseline not held*** | In development (2026-07-07) | ***Baseline not held*** |
+| National Population Register | ***Baseline not held*** | Implemented (2026-07-29) | ***Baseline not held*** |
 | Uncollected identity documents | Baseline not held | [360,000 uncollected at Home Affairs offices (2026-07-31)](https://www.sanews.gov.za/south-africa/home-affairs-extends-operational-hours-support-final-voter-registration) | ***Baseline not held*** |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| NSFAS student funding system | Board dissolved 2024 over IT-system failures | [Under administration; ICT named the largest operational risk](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m) | Regressed |
 | National Digital Health Strategy 2019-2024 | Term already expired | [No successor strategy held](https://knowledgehub.health.gov.za/system/files/elibdownloads/2023-04/national-digital-strategy-for-south-africa-2019-2024-b.pdf) | No change |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
+| Batho Pele AI chatbot | Did not exist | [DPSA-Meta-Juicetel partnership built on Meta's Llama models, providing policy, circular and legislation lookups to citizens and public servants; nine official languages targeted; explicitly decision-support only, with no decision-making authority](https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/) | Advanced |
 | IEC digital voter registration (WhatsApp and online portal) | Online portal only | [1.7m registration transactions over the final weekend; 291,016 first-time registrations](https://techcabal.com/2026/08/07/south-africa-whatsapp-voter-registration/) | Advanced |
 | MyMzansi single citizen application | Prototype; public access H1 2026 | [Production-ready pilot; stable platform 2026-09](https://www.itweb.co.za/article/govt-targets-production-ready-mymzansi-platform/GxwQD71DPpgvlPVo) | Advanced, slipped |
 | National payment code standard (QR+) | Did not exist | [v1.2, eight-bank test cohort](https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a) | Advanced |
 | PayInc and the SARB stake | 50% acquired 2025-10 | [Bank-owned utility; non-bank shareholding ruled out (2026-07-31)](https://www.businessday.co.za/business-times/2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago/) | Advanced |
 | PayShap | ***Baseline not held*** | [905m transactions by 2026-05](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/) | Advanced |
+| Smart ID and bank-branch channel | 30 branches, five banks (2025-08) | [372 branches (2026-08-05); 750 targeted by end-2026](https://www.sanews.gov.za/south-africa/home-affairs-announces-absa-joining-banking-sector-provide-smart-ids) | Advanced |
 | Smart IDs issued, calendar year | ***Baseline not held*** | [4,002,964 in 2025, +17%](https://www.gov.za/news/media-statements/home-affairs-sets-new-record-delivering-over-four-million-smart-ids-2025-28) | Advanced |
+| Western Cape Infrastructure Virtual Platform (EVE AI agent) | Did not exist | [Automatically evaluates projects against Treasury rules and ISO 9001 via AI agent EVE; evaluated pipeline of 52 projects worth R132bn, 11 worth over R20bn to be released to market; MoUs signed with Infrastructure South Africa, IFISA, EDC South Africa and UCT](https://www.westerncape.gov.za/infrastructure/article/inaugural-western-cape-infrastructure-ministerial-roundtable-rousing-success) | Advanced |
+| Gauteng online school admissions | In operation since 2016 | [2027 intake opened 2026-08-05](https://www.itweb.co.za/article/gp-education-switches-on-2027-online-admissions/LPwQ5MlbeWpvNgkj) | No change |
 | National Health Insurance information architecture | In force since 2022-10-21 | [In force; no implementation measurement held](https://www.health.gov.za/wp-content/uploads/2022/10/HNSF_Gazette_21_October_2022.pdf) | No change |
 | Non-bank payment service provider licensing | Exemption notice in force | No amended Act | No change |
 | Digital matric certificate | ***Baseline not held*** | Piloting (2026-08-03) | ***Baseline not held*** |
@@ -144,7 +161,7 @@ Announced data-centre capacity and delivered capacity diverged. Pipeline announc
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National Identification and Registration Bill | ***Baseline not held*** | [Still before Parliament](https://www.polity.org.za/article/opinion-south-africas-digital-identity-regulations-a-governance-crossroads-2026-05-29) | ***Baseline not held*** |
 
@@ -158,13 +175,13 @@ Blocked identity numbers fell by 7,129 in roughly seven months, from 384,189 to 
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
-| Digital Transformation of Government Roadmap | ***Baseline not held*** | Implemented (2025-03-26) | ***Baseline not held*** |
+| Digital Transformation of Government Roadmap | ***Baseline not held*** | Implemented (2025-04-03) | ***Baseline not held*** |
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Capital Flow Management Regulations and Crypto Asset Manual | Did not exist | [Both in draft; manual comments to end-September 2026](https://www.itweb.co.za/article/treasury-is-treating-crypto-like-banknotes/G98YdqLGNWQMX2PD) | Advanced |
 | Copyright Amendment Bill | ***Baseline not held*** | [Constitutional Court ruling 2026-06](https://sajim.co.za/index.php/sajim/article/view/2112) | Advanced |
@@ -179,24 +196,25 @@ Blocked identity numbers fell by 7,129 in roughly seven months, from 384,189 to 
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Cost to Communicate Roadmap | Did not exist; no successor instrument after the 2019 Data Services Market Inquiry | [Study out to tender; no roadmap published](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/) | Advanced |
-| Operation Vulindlela Phase II | ***Baseline not held*** | Implemented (2025-03-26) | ***Baseline not held*** |
+| ICT indicators and scenario-modelling system to 2050 | ***Baseline not held*** | [Tendered by the communications department to steer the digital economy to 2050, framed against the National Digital Transformation Roadmap, the Presidential Commission on the Fourth Industrial Revolution and the Digital Economy Masterplan; no award, value or delivery date published](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD) | ***Baseline not held*** |
+| Operation Vulindlela Phase II | ***Baseline not held*** | Implemented (2026-07-31) | ***Baseline not held*** |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
-| ICT and Media Regulators Forum | ***Baseline not held*** | Implemented (2024) | ***Baseline not held*** |
+| ICT and Media Regulators Forum | ***Baseline not held*** | Implemented (2026-07-31) | ***Baseline not held*** |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
-| Consumer Protection Act direct-marketing opt-out registry | ***Baseline not held*** | In development (2026-04) | ***Baseline not held*** |
-| Mandatory breach reporting e-portal | ***Baseline not held*** | Implemented (2025-04) | ***Baseline not held*** |
-| Protection of Personal Information Act and Information Regulator | ***Baseline not held*** | Implemented (2021) | ***Baseline not held*** |
+| Consumer Protection Act direct-marketing opt-out registry | ***Baseline not held*** | In development (2026-04-20) | ***Baseline not held*** |
+| Mandatory breach reporting e-portal | ***Baseline not held*** | Implemented (2025-04-15) | ***Baseline not held*** |
+| Protection of Personal Information Act and Information Regulator | ***Baseline not held*** | Implemented (2026-07-06) | ***Baseline not held*** |
 
 <!-- narrative: governance -->
 Enforcement began during the period. The Information Regulator issued its [first 2026 enforcement notice in May](https://www.mondaq.com/southafrica/data-protection/1796688/information-regulators-first-enforcement-notice-for-2026), a [precedent-setting access-to-information notice against a mining company in June](https://www.mondaq.com/southafrica/contracts-and-commercial-law/1797238/landmark-ruling-for-private-bodies-under-paia-information-regulators-enforcement-notice-against-mining-house), and a third treating a misdirected email as a reportable breach — while the monthly breach-notification rate stayed broadly flat and the statutory maximum penalty remained R10m.
@@ -208,34 +226,35 @@ Operation Vulindlela's own reporting changed within the period: a briefing in Ap
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Conduct of Financial Institutions Bill | ***Baseline not held*** | In development (2026-01-30) | ***Baseline not held*** |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National AI policy | Cabinet March 2026, finalise FY2026/27 (as at 2026-02) | [No gazetted policy; cabinet Nov 2026 or Jan 2027](https://techcentral.co.za/radical-rethink-for-south-africas-national-ai-policy/284284/) | Regressed |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
-| Crypto-asset service provider licensing | 300 licences (2025-12-31) | [310 licences (2026-03-31)](https://itweb.africa/article/2026-fintech-year-ahead/4r1ly7R9j3nvpmda) | No change |
+| Crypto-asset service provider licensing | 300 licences (2025-12-31) | [Licensing of centralised crypto-asset service providers is in force, but the regulator states the model has no purchase on decentralised finance - protocols with no company, board or natural person to hold accountable - and plans to attach obligations elsewhere; no instrument for DeFi is published](https://www.itweb.co.za/article/sas-crypto-rules-hit-decentralised-finance-wall/KA3Ww7dzpmnqrydZ) | No change |
 | AI-in-finance regulatory framework | ***Baseline not held*** | Planned (2026-07-16) | ***Baseline not held*** |
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Automated selection at SARS | ***Baseline not held*** | [100% of verifications, 88.41% of complex audits](https://techcabal.com/2026/07/27/ai-south-africas-taxman/) | Advanced |
 | Expert review panel | Did not exist | 14 members appointed 2026-05-14 | Advanced |
 | Proposed AI regulatory institutions | Seven bodies proposed | [Under reconsideration; committee opposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko) | Regressed |
 | SAHPRA AI/ML medical-device requirements | Did not exist | [Issued 2025-09-26; product registration not commenced](https://www.sahpra.org.za/wp-content/uploads/2025/09/MD08-20252026_-SAHPRA-Communication-to-Industry-AI-Medical-devices_Acknowledgements.pdf) | Advanced |
 | Start-up funding, South Africa | Led Africa on equity and deal count, CY2025 | [Fourth at $83m, H1 2026](https://www.itweb.co.za/article/sa-powers-africas-164bn-tech-funding-rebound/4r1lyMR9YJR7pmda) | Regressed |
-| Prudential Authority AI and cloud supervision standards | ***Baseline not held*** | In development (2026-07) | ***Baseline not held*** |
-| SARS Modernisation 3.0 | ***Baseline not held*** | In development (undated) | ***Baseline not held*** |
+| Machine-learning screening of travellers for fraud | ***Baseline not held*** | [Stated intention to screen travellers for fraud using machine learning; no system, procurement, legal basis, accuracy measure or appeal route is published](https://techcabal.com/2026/08/11/south-africa-machine-learning-border-checks/) | ***Baseline not held*** |
+| Prudential Authority AI and cloud supervision standards | ***Baseline not held*** | In development (undated) | ***Baseline not held*** |
+| SARS Modernisation 3.0 | ***Baseline not held*** | In development (2026-07-23) | ***Baseline not held*** |
 | Sector-level AI strategies | ***Baseline not held*** | Planned (undated) | ***Baseline not held*** |
 
 <!-- narrative: ai-tech -->
@@ -248,7 +267,7 @@ Funding reversed within the period. South Africa raised [$335.9m across 42 ventu
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Bank-account means test across eight grants | Appeal opposed 2026-01-28 | [Undecided; SCA hearing 2026-08-25](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/) | Stalled |
 | MICT SETA | ***Baseline not held*** | [Referred for assessment 2026-07-21](https://www.itweb.co.za/article/mict-seta-governance-concerns-referred-to-skills-authority/WnxpE74YZZdMV8XL) | Regressed |
@@ -261,23 +280,15 @@ Funding reversed within the period. South Africa raised [$335.9m across 42 ventu
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-04 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National Digital and Future Skills Strategy 2020 | 2020 strategy in force | [Under review; no replacement](https://pmg.org.za/committee-question/39587/) | Stalled |
-| National Competency Framework | ***Baseline not held*** | In development (2026-07) | ***Baseline not held*** |
+| National Competency Framework | ***Baseline not held*** | In development (2026-07-23) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
 Grant verification widened during the period. Biometric enrolment began on 1 September 2025 and had reached [997,379 of 19.05m recipients by March 2026](https://pmg.org.za/committee-question/37674/), about 5%; 420,000 grants were flagged during 2025/26 and roughly 160,000 beneficiaries did not complete the review, with [child-grant recipients reporting months without payment](https://www.sundaytimes.timeslive.co.za/news/2026-07-31-child-grant-reviews-leave-mothers-stranded-as-payments-dry-up-for-months/). The litigation that would settle the mechanism was neither implemented nor decided within the twelve months.
 
 At the State Information Technology Agency, a Public Service Commission investigation reported [R2.07bn of irregular expenditure across four audited years](https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/) and annual performance plan achievement of 42.86% in FY2024/25; the 30-day deadline for a recovery plan expired within the period, and no plan is recorded.
-<!-- /narrative -->
-
-## Finance
-
-_The base holds no finance rows for South Africa with a position at either end of this window._
-
-<!-- narrative: finance -->
-The Department of Communications and Digital Technologies spent [R3.61bn of a R3.74bn budget in FY2025/26](https://www.agsa.co.za/storage/app/media/reporting/pfma/PFMA-GR-2024-25-Interactive.pdf), a shortfall attributed to the stalled broadband programme and funded but vacant posts.
 <!-- /narrative -->
 
 ## Where the record is thin
