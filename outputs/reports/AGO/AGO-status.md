@@ -1,14 +1,15 @@
 ---
 title: Angola — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: AGO
-ledger_rows: 95
+ledger_rows: 96
 not_held: 7
+record: 6c874edd46aa
 ---
 
 # Angola: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/AGO/ledger.csv` (95 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/AGO/ledger.csv` (96 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -22,7 +23,7 @@ Angola has a personal-data law in force since 2011 and an agency that publishes 
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 2Africa Angola branch | [Implemented](https://angop.ao/noticias/economia/unitel-invete-mais-de-40-milhoes-de-dolares-americano-em-fibra-optica/) | Landing station inaugurated and service switched on 2025-12-13 |
 | Digital terrestrial television transition | [In development](https://itweb.africa/article/angola-gets-10m-from-japan-for-dtt-project/KBpdgvpmlj17LEew) | Agreement signed August 2025 at about US$10m |
@@ -37,7 +38,7 @@ Angola has a personal-data law in force since 2011 and an agency that publishes 
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Commercial data centre | [Implemented](https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/) | Opened 2025-10-02 |
 | Government data centre | [Implemented](https://angop.ao/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/) | Inaugurated by the President 2026-04-28 |
@@ -46,13 +47,13 @@ Angola has a personal-data law in force since 2011 and an agency that publishes 
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Power Sector Action Plan electrification target | [Planned](https://www.afrobarometer.org/publication/ad664-lack-of-access-connection-to-the-electric-grid-still-plagues-most-rural-residents-in-angola/) | Target year passed with no published outturn |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Critical national infrastructure designation | ***Not held*** | No designation instrument in force |
 | Cybersecurity fund | ***Not held*** | Presupposed by the cyber centre's statute, established by nothing on file |
@@ -71,7 +72,7 @@ Cyber-security has a decree architecture and no operating record. The [cyber cen
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Citizen-database interoperability commission | [In development](https://novojornal.co.ao/politica/detalhe/pr-cria-comissao-liderada-pelo-ministro-de-estado-para-actualizar-dados-dos-cidadaos-maiores-com-prova-de-vida-que-passou-a-ser-obrigatoria-nos-periodos-pre-eleitorais-72374.html) | A presidential decree created an interministerial commission 2026-06-08 |
 | Logistics single window | [Planned](https://pt.linkedin.com/posts/arccla-angola-68b44027a_jul-vai-contribuir-para-diminui%C3%A7%C3%A3o-de-comerciantes-activity-7487902290780180480-sMdy) | Phase one expected between the second half of 2026 and the first half of 2027 |
@@ -79,7 +80,7 @@ Cyber-security has a decree architecture and no operating record. The [cyber cen
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | At-home identity-card service | [Implemented](https://angop.ao/noticias/politica/ministerio-da-justica-lanca-servico-de-tratamento-do-bi-ao-domicilio/) | Launched 2026-07-28, first phase in one province only |
 | Biometric electronic passport | [Implemented](https://www.novojornal.co.ao/sociedade/detalhe/passaporte-electronico-comeca-a-ser-emitido-em-todo-o-pais-no-final-deste-mes-garante-sme-70406.html) | First two issued 2026-03-10 |
@@ -89,7 +90,7 @@ Cyber-security has a decree architecture and no operating record. The [cyber cen
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Instant payment scheme | [Implemented](https://angop.ao/noticias/economia/paypay-ultrapassa-1-6-milhoes-de-transferencias-mensais-no-kwik/) | Monthly operator report for February 2026 |
 | Kwanza as a regional settlement currency | [Implemented](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Formally introduced by the two central-bank governors 2026-07-27 |
@@ -97,7 +98,7 @@ Cyber-security has a decree architecture and no operating record. The [cyber cen
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Birth registration in maternity wards | [Implemented](https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/) | Launched in one province 2026-03-04, running there since October 2025 |
 | Civil-registration post rehabilitation | [Implemented](https://angop.ao/noticias/sociedade/njila-reabilita-postos-de-registos-de-nascimento-no-bie-e-huambo/) | Component rehabilitating birth-registration posts |
@@ -109,14 +110,15 @@ Cyber-security has a decree architecture and no operating record. The [cyber cen
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Education and research network | [In development](https://techafricanews.com/2026/05/14/angola-unveils-angoren-network-to-drive-higher-education-digital-transformation/) | Presented at a national roadshow 2026-05-13 |
+| National education database (MED and Mwango Brain) | In development | Partnership expanded, 7 August 2026 |
 | Vaccination registry | [Implemented](https://angop.ao/noticias/saude/angola-reafirma-compromisso-com-a-inovacao-digital-no-sistema-de-saude/) | In use across all national vaccination campaigns |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital transition agenda | [Implemented](https://angop.ao/noticias/economia/ministro-defende-reorganizacao-da-administracao-publica-para-modernizacao-do-estado/) | Project count restated at 218 on 2026-03-05 |
 | Mandatory electronic invoicing | [Implemented](https://novojornal.co.ao/economia/detalhe/agt-comeca-a-aplicar-facturacao-electronica-em-1-de-janeiro-de-2026-68608.html) | Mandatory from 2026-01-01 |
@@ -125,20 +127,20 @@ Cyber-security has a decree architecture and no operating record. The [cyber cen
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Provincial document-management system | [In development](https://angop.ao/noticias/sociedade/cubango-prepara-transicao-da-administracao-analogica-para-digital-a-partir-de-2026/) | Approved by a provincial government 2025-12-18, implementation from January 2026 |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Census portal and statistics application | [Implemented](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/) | Launched 2026-07-02 |
 | National statistics development strategy | [Planned](https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/) | Approval announced as forthcoming, with a statistics-law revision to follow |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Commercial access to the national satellite | [Implemented](https://www.telecomreviewafrica.com/articles/general-news/13572-angola-launches-commercial-access-to-angosat-2-for-remote-connectivity/) | Opened to commercial providers December 2025 |
 | Earth-observation satellite | [In development](https://techreviewafrica.com/news/5427/angola-advances-angeo-1-earth-observation-programme-with-airbus-milestone-validation) | A system key-point milestone validated 2026-05-14 |
@@ -153,19 +155,19 @@ Payments and exchange moved on standards rather than services. Domestic payments
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial intelligence bill | [In development](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf) | Draft published for public consultation September 2025 |
 | Cybersecurity bill | [In development](https://angop.ao/noticias/economia/lei-reforca-proteccao-de-instituicoes-contra-ataques-ciberneticos-ministro/) | Joint committee report approved in detail 2026-08-07 |
 | Digital government bill | [In development](https://angop.ao/noticias/economia/especialista-defende-fim-da-dispersao-legislativa-no-sector-tecnologico-em-angola/) | Public consultation opened 2026-05-06 |
 | Electronic signature and certification regime | [In development](https://www.opais.ao/politica/parlamento-aprova-autorizacao-legislativa-sobre-assinatura-electronica-com-166-votos-a-favor/) | Legislative authorisation approved unanimously 2026-07-30 |
 | National cybersecurity centre | [Implemented, no operating record](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-263-25-de-10-de-dezembro/) | Statute published 2025-12-10 |
-| Online falsehoods law | [Implemented](https://www.novojornal.co.ao/politica/detalhe/lei-contra-fake-news-aprovada-definitivamente-com-votos-do-mpla-prs-e-pha-unita-votou-contra-diploma-que-abre-espaco-para-criminalizar-jornalistas-e-utilizadores-71959.html) | Decree-law entered into force 2026-08-06 |
+| Online falsehoods law | [Implemented](https://www.novojornal.co.ao/politica/detalhe/publicada-em-diario-da-republica-a-lei-que-pune-a-disseminacao-de-informacoes-falsas-na-internet-com-ate-10-anos-de-prisao-73765.html) | Gazetted as Lei n. 6/26, Diario da Republica I Serie n. 146, in force 4 August 2026 |
 | Startups law | [In development, passed by parliament](https://itweb.africa/article/angola-passes-landmark-start-up-law/lLn14MmQwnVMJ6Aa) | Passed unanimously, reported 2026-03-23 |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National artificial intelligence strategy | [Planned](https://pti.ao/unesco-conclui-que-angola-esta-preparada-para-adopcao-etica-e-inclusiva-da-ia/) | A readiness assessment delivered to the ministry names its absence |
 | National cybersecurity council | [Implemented, no operating record](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-258-25-de-03-de-dezembro/) | Created by decree published 2025-12-03 |
@@ -173,13 +175,13 @@ Payments and exchange moved on standards rather than services. Domestic payments
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral memorandum with a Lusophone regulator | [Implemented](https://www.rapdp.org/en/node/231) | Signed at a global privacy assembly 2025-09-18 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Amendment opening electoral data | [Discontinued](https://angop.ao/noticias/politica/parlamento-rejeita-proposta-sobre-proteccao-de-dados-pessoais/) | Rejected in plenary 2026-06-25 |
 | Data protection agency | [Implemented](https://valoreconomico.co.ao/artigo/apd-aplica-multas-milionarias-a-empresas-por-armazenarem-informacoes-pessoais-sem-autorizacao) | Organic statute gazetted 2016-10-10; board of three appointed 2019-09-06 |
@@ -204,7 +206,7 @@ The artificial-intelligence draft is now held: published for consultation in [Se
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI supervisory or enforcement authority | [Planned, designation left to a future regulation](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf) | Provided for but not named in the draft artificial-intelligence law, September 2025 |
 | Government AI assistant | [Implemented](https://angop.ao/noticias/economia/africell-lanca-afrigpt-na-versao-web/) | Web version launched at a trade fair 2026-07-22, replacing a text-message version |
@@ -212,13 +214,13 @@ The artificial-intelligence draft is now held: published for consultation in [Se
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Incumbent operator listing | [Implemented](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/) | Settlement and admission to trading 2026-07-28 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Incubation programme | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/angolan-agencies-join-forces-to-strengthen-nascent-startup-sector) | Memorandum signed 2025-03-14 |
 | Only mobility startup with named investors | [Implemented](https://blog.google/intl/en-africa/company-news/meet-the-15-startups/) | Selected for a global accelerator cohort, April 2026 |
@@ -226,7 +228,7 @@ The artificial-intelligence draft is now held: published for consultation in [Se
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | International wholesale partnership | [Implemented](https://itweb.africa/article/angola-cables-uniti-expand-connectivity/LPwQ5MlbngBvNgkj) | Partnership agreement signed and reported 2026-05-21 |
 | Transport corridor fibre link | [In development](https://angop.ao/noticias/sociedade/minttics-implementa-projectos-estruturantes-para-a-redefinicao-da-base-tecnologica-do-pais/) | The ministry states domestic subsea cable work under way 2026-03-26 |
@@ -234,20 +236,20 @@ The artificial-intelligence draft is now held: published for consultation in [Se
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital-health memorandum with a Chinese vendor | [Implemented, no delivery reported](https://angop.ao/noticias/saude/angola-e-huawei-assinam-memorando-para-reforco-da-saude-digital/) | Memorandum signed 2026-01-26 |
 | Vendor research and development centre | [Planned](https://angop.ao/noticias/politica/huawei-vai-instalar-centro-de-pesquisa-e-desenvolvimento-em-angola-ate-2027/) | Announced after a presidential audience 2025-10-02, targeted by 2027 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | India credit line | [Planned](https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-the-joint-press-statement-with-the-president-of-angola/) | Announced at a state visit 2025-05-03 |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf digital memorandum | [Implemented, no valuation published](https://minttics.gov.ao/ao/noticias/cloud-nacional-reforca-ecossistema-digital-do-pais/) | National cloud implementation project announced under it 2023-02-15 |
 
@@ -261,7 +263,7 @@ Domestically the sector is small and the measures point down. The country ranked
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Commercial satellite access programme | [Implemented](https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/) | First regulator licence to a startup 2026-07-02 |
 | Satellite connectivity programme | [Implemented](https://angop.ao/noticias/economia/vinte-mil-estudantes-beneficiam-do-projecto-conecta-angola/) | 20,000 students stated by the minister 2026-07-13 |
@@ -269,7 +271,7 @@ Domestically the sector is small and the measures point down. The country ranked
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cash-transfer programme | [Implemented](https://angop.ao/noticias/sociedade/lancamento-do-cadastro-social-unico-marca-a-semana-social/) | A single social register launched in the week ending 2026-07-25 |
 | Identity-card universalisation plan | [Implemented](https://angop.ao/noticias/politica/impressao-do-bi-abrange-todas-as-provincias-do-pais/) | Local printing extended to all 21 provinces 2026-07-01 |
@@ -278,20 +280,20 @@ Domestically the sector is small and the measures point down. The country ranked
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital-literacy programme | ***Not held*** | No named instrument on file |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Space-technology training and certification programme | [Implemented](https://techreviewafrica.com/news/5761/over-5600-university-of-namibe-students-gain-free-internet-access-through-angosat-2) | A satellite-terminal training cohort, June 2026 |
 | Vendor cybersecurity training commitment | [Planned](https://techafricanews.com/2025/06/25/cybastion-and-angola-telecom-announce-170m-investment-to-boost-angolas-digital-sovereignty/) | Announced at a business summit 2025-06-25 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Science and technology park | [Implemented](https://itweb.africa/article/angola-launches-luanda-technology-park/8OKdWqDX2nRqbznQ) | Inaugurated 2026-06-29 |
 | Statistical capacity project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P178043) | Board approval 2022-03-25 |
@@ -306,7 +308,7 @@ Satellite-inclusion announcements share no denominator: 366,000 citizens in Nove
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil registration and local governance project | [Implemented](https://angop.ao/noticias/sociedade/njila-reabilita-postos-de-registos-de-nascimento-no-bie-e-huambo/) | Post rehabilitation reported 2026-04-06 |
 | Digital acceleration project | [Implemented](https://angop.ao/noticias/politica/projecto-de-aceleracao-digital-abrange-10-milhoes-de-pessoas/) | Third steering committee 2026-07-30 |
@@ -314,7 +316,7 @@ Satellite-inclusion announcements share no denominator: 366,000 citizens in Nove
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Communications programme appropriation | [Implemented](https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/) | 2026 budget appropriation down 30.5% |
 | Supplementary credit for identity-card universalisation | [Implemented](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-169-25-de-19-de-setembro/) | Gazetted 2025-09-19 |
