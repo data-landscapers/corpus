@@ -10,3 +10,4 @@ title: Corpus process log
 2026-08-14 09:04 · build · report-layer spec ported into documentation/, all wiki/report-layer.md citations repointed, check K unblocked · revert: c54d6a9
 2026-08-14 09:31 · build · report-layer rules: compiled date only on change, empty sections dropped from monthly/progress, check L added · revert: 3d5aa86
 2026-08-14 09:36 · build · compiled: judged against new record: digest — a file-vs-render diff missed hand-written narrative · revert: 7e76d41
+2026-08-14 09:52 · build · no issue closed to new evidence: step 4 re-cuts the period a late as_at falls in; BUILD stated as author not transcriber · revert: 04870e7
