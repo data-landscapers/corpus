@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: GAB
 ledger_rows: 34
 not_held: 27
-record: b6c9e068adb4
+record: 0685ecf0dacd
 ---
 
 # Gabon: monthly update, July 2026
@@ -42,7 +42,7 @@ About 22 per cent of the Nkok facility's site energy comes from a photovoltaic p
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-
+The utility [restored billing and payment in Libreville and seven interior centres after the attack that took down 95% of its systems](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/), describing its network on 4 August as healthy, secured and protected by reinforced measures, with restoration continuing elsewhere. The account is the company's own, the attackers are described as unidentified, and no forensic, criminal or damage-cost report is on file.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -70,7 +70,7 @@ On 2 August the border agency's tourist electronic visa platform, developed in 2
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-_(narrative not yet written)_
+Libreville's mayor stated the city [already operates its own revenue-digitalisation system, developed with the Treasury, and that the national scheme will not replace it](https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie). The system is unnamed and undated, with no coverage or revenue figure — the only statement the base holds that a Gabonese municipality runs digital revenue collection of its own.
 <!-- /narrative -->
 ### National statistics
 
@@ -100,7 +100,7 @@ On 31 July the ministry's final technical committee of the administrative year n
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-
+The suspension of social media has now run [about five months, the Presidency calling it temporary and conservatory](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/), with no lifting date given. [Nine civil-society organisations call it unconstitutional and beyond the authority's remit and demand abrogation](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/). The decision's text is not held; its February start is inferred from a five-month count and, independently, from an operator's half-year filing, so the date carries month precision only.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -133,7 +133,7 @@ On 23 July the validated implementing texts included a draft decree creating a b
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-
+Certification training is [under way for participants at Libreville's American Corner under a digital-skills programme run with United States embassies](https://techafricanews.com/2026/08/11/cybastion-and-u-s-embassies-partner-to-expand-digital-skills-training-across-africa/). No cohort size or completion date is published.
 <!-- /narrative -->
 
 ## Finance

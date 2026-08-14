@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: DZA
 ledger_rows: 22
 not_held: 7
-record: d646b224d11c
+record: d1456c96e27f
 ---
 
 # Algeria: monthly update, July 2026
@@ -66,14 +66,12 @@ The services-import platform announced on 27 July becomes the exclusive route fr
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-At the 23 July sitting the Council of Government also examined a draft national information-verification system, framed as protecting the integrity of information and countering disinformation. No regulator, legal basis or oversight mechanism is named in anything held, which is recorded as a dated absence rather than described.
-
-_(narrative not yet written for Law 18-05 on electronic commerce)_
+The electronic commerce law is in force and, on a consumer body's assessment, largely bypassed: [the great majority of online selling runs through social-media pages outside its obligations, with cash on delivery dominant](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6). That is named-analyst opinion rather than a state position; the law's own date and text are not held, and no enforcement action or compliance figure is on file. Separately a [national information-verification system was examined in draft by the Council of Government on 23 July](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ), with no regulator, legal basis or oversight mechanism named in anything held.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-_(narrative not yet written)_
+Algeria [signed as a founding member of a world artificial-intelligence organisation at Shanghai on 16 July](https://drive.google.com/file/d/1_UovYiTOhikpGJ7QiOUNQJsAoYu6xqw_/view), the digitalisation commissioner stating an intention to take an active role. The organisation is not named in anything held, and no accord text, ratification step or work programme is on file.
 <!-- /narrative -->
 ### Standards
 
@@ -102,12 +100,12 @@ Three external events are dated in the month and moved nothing. The Post and Tel
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
-_(narrative not yet written)_
+The state electronics manufacturer was [accredited to install and maintain every payment terminal on national territory whatever its brand or origin](https://www.echoroukonline.com/%d8%a5%d9%8a%d9%86%d9%8a-%d8%aa%d8%b6%d9%85%d9%86-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d9%88%d8%b5%d9%8a%d8%a7%d9%86%d8%a9-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d8%af), widening it from its own-brand devices, against 1.6m terminals produced. The accreditation's own date is not stated — only the report of it.
 <!-- /narrative -->
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
-
+The student start-up conversion scheme reports [673 start-ups, 3,949 patents and 2,339 innovative-project labels between 2022 and July 2026, against a 2030 target of 5,000 labelled products](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/). It lets students convert final-year projects into start-ups or patents and is supported by a prototype-financing scheme and the country's first venture-capital fund. The ministerial order behind it is not held, neither its date nor its text.
 <!-- /narrative -->
 
 ## Finance
