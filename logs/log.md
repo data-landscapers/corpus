@@ -18,3 +18,4 @@ title: Corpus process log
 2026-08-14 10:48 · build · status table header As at -> Milestone; CC note updated with the schema change and the unrendered state · revert: cd5ccd7
 2026-08-14 10:52 · build · renderer reports prose blocks dropped when their section stops rendering (was miscounted as carried) · revert: dfab90b
 2026-08-14 10:55 · build · reworded check L and narrative integrity: BUILD is the author, the check is its own tally · revert: e655deb
+2026-08-14 11:07 · build · check split corrected (A-F OSINT, G-K Corpus); H and J marked not implemented; R3 no longer tells OSINT to drop A and D · revert: 1a08dac
