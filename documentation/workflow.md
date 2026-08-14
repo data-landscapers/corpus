@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## Next
 
+- [ ] BUILD - compile date in YAML
 
 
 ## Processing

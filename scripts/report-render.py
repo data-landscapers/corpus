@@ -14,10 +14,11 @@ current over a window (twelve months by default). All three are derived from the
 slicing it, so the second and third cost a render rather than a second reading of the base — which
 is the whole reason the run issues all three at initialisation.
 
-**Both dated windows close on the day of issue, not on the month's last day** (§2). The base is
-swept nightly and that is what these reports are for; a July monthly cut on 4 August that stopped
-at 31 July would hold four days of evidence back for a month. An already-issued document has its
-printed `period:` read back, so a re-render never widens a document a reader may have cited.
+**Both windows close on the day the document was last built, not on the month's last day** (§2).
+The base is swept nightly and that is what these reports are for; a monthly covering July that
+stopped at 31 July would hold the first days of August back for a month. There are no issues:
+each unit has one monthly and one progress report, living documents whose windows slide, and
+`period:` always states the window the document now covers.
 
 **One renderer, a profile per process.** A country unit reads `lookups/report-country-sections.csv`
 and issues all three documents; an `X__` region unit reads `lookups/report-region-sections.csv`,
@@ -33,8 +34,8 @@ Modes:
   --doc       status | monthly | progress | all.
   --month     YYYY-MM — the month the monthly's window opens in, and the month the progress
               window is counted back from. Default: the last closed month.
-  --end       YYYY-MM-DD — close the window here rather than at the date of issue. Only for
-              re-cutting a document whose printed period is wrong.
+  --end       YYYY-MM-DD — close the window here rather than at today. For rebuilding a
+              document to a stated date rather than to now.
   --window    months in the progress window (default 12 — an annual progress report).
   --check     Checks G, I and L over every rendered document in the folder.
               G: every http(s) URL is held in `index/`. I: no status or movement value outside
@@ -295,58 +296,17 @@ def month_bounds(month, window=1, end=None):
     return datetime.date(sy, sm, 1).isoformat(), max(end or close, close)
 
 
-def period_of(path):
-    """(start, end) of the issue a document on disk holds, or (None, None).
+"""**There is no such thing as a July issue** *(Bill, 2026-08-14)*.
 
-    Monthly and progress documents carry a stable filename *(Bill, 2026-08-14)* — RENDER dates the
-    PDF and CSV, and the HTML is not versioned, so the markdown does not need the month in its
-    name. That makes the file at a given path **the current issue, whichever month that is**, and
-    everything read back off it has to be qualified by which issue it turned out to be."""
-    if not os.path.exists(path):
-        return None, None
-    for line in open(path, encoding="utf-8").read().split("\n")[:12]:
-        m = re.match(r"period:\s*(\d{4}-\d{2}-\d{2})\s+to\s+(\d{4}-\d{2}-\d{2})\s*$", line)
-        if m:
-            return m.group(1), m.group(2)
-    return None, None
+There is one monthly report per unit and one progress report, each a living document whose window
+slides: the monthly covers this month and last, the progress report the twelve months behind it.
+Nothing is cut, replaced or superseded, so nothing is read back off the previous version — there
+is no previous version, only an earlier state of the same document, which is what git is for.
+`period:` is therefore always recomputed from the window the document now covers.
 
-
-def same_issue(path, start):
-    """Is the document on disk the same issue we are now cutting?
-
-    **The test that a stable filename makes load-bearing.** With `{unit}-monthly-YYYY-MM.md` a new
-    month was a new file, so carrying narrative across by marker id and reading the period back
-    could only ever touch the issue they belonged to. With `{unit}-monthly.md` the file at that
-    path may be *last* month's, and doing either blindly would publish July's prose under August's
-    heading and August's evidence under July's period. Two documents are the same issue when their
-    windows open on the same day."""
-    held_start, _ = period_of(path)
-    return held_start == start
-
-
-def carry_from(path, start, rolling=False):
-    """The path to carry narrative across from — the document itself, or nowhere.
-
-    **The two documents roll differently, and this is where that shows** *(Bill, 2026-08-14)*.
-
-    A **monthly** covers one month and shares nothing with the issue before it: August's prose is
-    not July's, and the marker ids are built from section and subject, so every block would match
-    and copy across. A new monthly issue therefore starts empty. That is not a loss — there was
-    nothing to inherit — and it makes an unwritten section fail check L loudly rather than publish
-    July's sentences under August's headings, which would pass every check there is.
-
-    A **progress** report is a rolling twelve-month window, so consecutive issues share eleven of
-    their twelve months: the July issue opens 2025-08-01 and the August issue opens 2025-09-01,
-    one month ageing off the back as one arrives at the front. Blanking it would throw away
-    eleven months of still-valid writing every month and force a redraft of every unit. It carries
-    across, and BUILD revises the ends — which is the editing job the rolling window implies, not
-    a fresh composition.
-
-    The risk that leaves is prose still describing the window that has just aged out, and no check
-    can see it: a stale sentence is well-formed. It is BUILD's to catch when it revises."""
-    if rolling:
-        return path
-    return path if same_issue(path, start) else os.devnull
+Everything that used to guard the boundary between issues is gone with the boundary: no
+`same_issue()`, no period read-back, no blanking of narrative. Narrative always carries across,
+and BUILD edits it — removing what has aged out, writing in what has arrived."""
 
 
 def compiled_date(path):
@@ -481,17 +441,26 @@ def load(unit):
 
 COMPILED_RE = re.compile(r"^(compiled: |\*Compiled )\d{4}-\d{2}-\d{2}", re.M)
 RECORD_RE = re.compile(r"^record: [0-9a-fx]+\n", re.M)
+PERIOD_END_RE = re.compile(r"^(period: \d{4}-\d{2}-\d{2} to )\d{4}-\d{2}-\d{2}$", re.M)
 PENDING = "record: xxxxxxxxxxxx"
 
 
 def _canonical(text):
-    """The document's content, with the two fields that describe it rather than belong to it
-    taken out — the compiled date masked, the digest line removed entirely.
+    """The document's content, with the three fields that describe it rather than belong to it
+    taken out — the compiled date and the window's closing date masked, the digest line removed.
 
-    The digest is **removed** rather than masked so that a document written before the field
+    **The window's close is masked for the same reason the compiled date is.** A living document's
+    window runs to the day it was last built, so rendering it again tomorrow would move the close
+    by a day and, if that counted as content, would move `compiled:` with it — the daily churn the
+    date exists to prevent. Masking it makes the two agree: both mean *the day this document last
+    changed*, and a build that finds nothing new moves neither. The window's **opening** date is
+    not masked, because a window that has slid onto a new month is a genuinely different document.
+
+    The digest line is **removed** rather than masked so that a document written before the field
     existed canonicalises identically to one written after it. That is what lets the field be
-    added to the existing 165 documents without any of them being backdated or forward-dated."""
-    return RECORD_RE.sub("", COMPILED_RE.sub(r"\g<1>DATE", text))
+    added to the existing documents without any of them being backdated or forward-dated."""
+    return RECORD_RE.sub("", PERIOD_END_RE.sub(r"\g<1>DATE",
+                                               COMPILED_RE.sub(r"\g<1>DATE", text)))
 
 
 def digest(text):
@@ -527,7 +496,7 @@ def write(path, out, unit, note, today=None):
     prose changes the digest whoever wrote it and however it got there.
 
     A re-render that genuinely changes nothing leaves the file untouched — the old date stands and
-    the mtime does not move. This is `period_of()`'s discipline applied to the other dated field:
+    the mtime does not move. The window's close is masked with it, so the two always agree:
     a render must never make a document look newer, or older, than it is."""
     new = "\n".join(out)
     fresh = digest(new)
@@ -612,16 +581,14 @@ def render_monthly(unit, today, month, end=None):
         print(f"{unit}: ledger is empty — nothing to render")
         return 1
     path = os.path.join(folder, f"{unit}-monthly.md")
-    start = month_bounds(month, 1)[0]
-    held_end = period_of(path)[1] if same_issue(path, start) else None
-    start, end = month_bounds(month, 1, end or held_end or today)
+    start, end = month_bounds(month, 1, end or today)
     changed = moved_in(ledger, start, end)
     if not changed:
         print(f"{unit} {month}: nil, unchanged — no row moved in the window, so no issue "
               f"(documentation/report-layer.md §2)")
         return 0
     ordered, _ = sections(unit)
-    block, keep = blocker(carry_from(path, start))
+    block, keep = blocker(path)
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     name = place_name(unit)
     pretty = datetime.date.fromisoformat(start).strftime("%B %Y")
@@ -674,10 +641,8 @@ def render_progress(unit, today, month, window, end=None):
     prof = profile(unit)
     urls = slug_urls()
     path = os.path.join(folder, f"{unit}-progress.md")
-    start = month_bounds(month, window)[0]
-    held_end = period_of(path)[1] if same_issue(path, start) else None
-    start, end = month_bounds(month, window, end or held_end or today)
-    block, keep = blocker(carry_from(path, start, rolling=True))
+    start, end = month_bounds(month, window, end or today)
+    block, keep = blocker(path)
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     held = [r for r in ledger if stem(r["status"]) != NOT_HELD]
     name = place_name(unit)
