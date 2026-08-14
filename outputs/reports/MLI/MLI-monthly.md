@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: MLI
 ledger_rows: 39
 not_held: 4
-record: e690dde651f0
+record: 7d044899f854
 ---
 
 # Mali: monthly update, July 2026
@@ -36,7 +36,7 @@ On 30 July the Semaine du Numerique's opening panel [set a universal connectivit
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-
+A [national information systems security agency was created by Council of Ministers texts of 10 June](https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/). No budget, staffing or constituting text is published.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -44,7 +44,7 @@ On 30 July the Semaine du Numerique's opening panel [set a universal connectivit
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-_(narrative not yet written)_
+The national public key infrastructure and electronic signature services were [recommended for effective deployment at the digital week on 1 August](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html). Nothing names a first service, an operator or a date.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -75,7 +75,7 @@ On 29 July the Council of Ministers took note of the first published output of t
 ### Rural digital data capture
 
 <!-- narrative: dpi--digital-rural -->
-_(narrative not yet written)_
+The same week [recommended an updated universal-access strategy with a white-zone map, against a 2030 universal connectivity target](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html). No map, coverage baseline or funding line accompanies the recommendation.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
@@ -85,7 +85,7 @@ On 30 July the territorial administration ministry [put digital payment at civil
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-_(narrative not yet written)_
+The statistics institute runs a [microdata archive under its own domain holding 107 studies](https://microdata.instat.ml/index.php/catalog/), led by the 2022 census and near-annual agricultural surveys since 1996/1997. It is a first-party statistical archive rather than a whole-of-government open-data portal, and the base holds nothing of the latter kind.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -124,7 +124,7 @@ The same 3 August the cybercrime pole [sentenced Chahana Takiou to 12 months wit
 ### EU activities
 
 <!-- narrative: governance--geopol-eu -->
-_(narrative not yet written)_
+There is [no dedicated European Union country programme for Mali for 2025 to 2027](https://international-partnerships.ec.europa.eu/countries/mali_en): the country is funded instead from the central-Sahel complex-settings allocation, with no digital or data-governance activity named in either tranche. No separate termination instrument for the previous programme has been found.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
