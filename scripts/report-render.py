@@ -14,11 +14,14 @@ render rather than a redraft.
 slicing it, so the second and third cost a render rather than a second reading of the base — which
 is the whole reason the run issues all three at initialisation.
 
-**Both windows close on the day the document was last built, not on the month's last day** (§2).
-The base is swept nightly and that is what these reports are for; a monthly covering July that
-stopped at 31 July would hold the first days of August back for a month. There are no issues:
-each unit has one monthly and one progress report, living documents whose windows slide, and
-`period:` always states the window the document now covers.
+**Both windows close on the day the document last changed, not on the month's last day and not on
+the day the build ran** (§2). The base is swept nightly and that is what these reports are for; a
+monthly covering July that stopped at 31 July would hold the first days of August back for a
+month. There are no issues: each unit has one monthly and one progress report, living documents
+whose windows slide. **Selection always runs to today** — a record published this morning is in
+scope — but a build that finds nothing new to say leaves the document, and the window it prints,
+exactly where they were *(Bill, 2026-08-14)*. `period:` is therefore the window the document
+draws on, `compiled:` the day it last changed, and the two always agree.
 
 **One renderer, a profile per process.** A country unit reads `lookups/report-country-sections.csv`
 and issues all three documents; an `X__` region unit reads `lookups/report-region-sections.csv`,
@@ -411,7 +414,8 @@ def shape_line(unit, start, end):
     hist = source_months(unit, vault_lib.load_index())
     months = [m for m in sorted(hist) if start[:7] <= m <= end[:7]]
     if not months:
-        return f"*Shape check: the base holds no dated sources for this place in {start} to {end}.*"
+        # The printed close is the sentinel here too — this line goes into the document.
+        return f"*Shape check: the base holds no dated sources for this place in {start} to {CLOSE}.*"
     half = len(months) // 2
     early = sum(hist[m] for m in months[:half])
     late = sum(hist[m] for m in months[half:])
@@ -487,26 +491,47 @@ def load(unit):
 
 COMPILED_RE = re.compile(r"^(compiled: |\*Compiled )\d{4}-\d{2}-\d{2}", re.M)
 RECORD_RE = re.compile(r"^record: [0-9a-fx]+\n", re.M)
-PERIOD_END_RE = re.compile(r"^(period: \d{4}-\d{2}-\d{2} to )\d{4}-\d{2}-\d{2}$", re.M)
+PERIOD_CLOSE_RE = re.compile(r"^period: \d{4}-\d{2}-\d{2} to (\d{4}-\d{2}-\d{2})\s*$", re.M)
 PENDING = "record: xxxxxxxxxxxx"
+
+CLOSE = "@@CLOSE@@"
+"""**The window's closing date is rendered as a sentinel and substituted on write.**
+
+The close is not content: it is a fact about the build. It appears in `period:`, in the title, in
+the H1, in the opening paragraph and — in the progress report — in every movement table's header,
+and masking `period:` alone left the other five copies to move the digest every day. The document
+is therefore *built* with this token wherever the close is printed, digested in that form, and the
+real date substituted only when the file is actually written. Nothing is masked and nothing is
+lost: two builds a week apart are byte-identical up to this one token, so they digest alike, and
+a genuine change still moves the digest whatever date it carries.
+
+`start` is a real date throughout. A window that has slid onto a new month is a different document
+and should say so — which is also what pulls the printed close back into line at each turnover."""
 
 
 def _canonical(text):
-    """The document's content, with the three fields that describe it rather than belong to it
-    taken out — the compiled date and the window's closing date masked, the digest line removed.
+    """The document's content, with the two fields that describe it rather than belong to it taken
+    out — the compiled date masked, the digest line removed.
 
-    **The window's close is masked for the same reason the compiled date is.** A living document's
-    window runs to the day it was last built, so rendering it again tomorrow would move the close
-    by a day and, if that counted as content, would move `compiled:` with it — the daily churn the
-    date exists to prevent. Masking it makes the two agree: both mean *the day this document last
-    changed*, and a build that finds nothing new moves neither. The window's **opening** date is
-    not masked, because a window that has slid onto a new month is a genuinely different document.
+    The window's close needs no masking here: it is already a sentinel in any text this sees from a
+    render (see `CLOSE`). Only the *stored* copy on disk carries a real close, and `write()` puts
+    that same date back into the render before comparing the two.
 
     The digest line is **removed** rather than masked so that a document written before the field
     existed canonicalises identically to one written after it. That is what lets the field be
     added to the existing documents without any of them being backdated or forward-dated."""
-    return RECORD_RE.sub("", PERIOD_END_RE.sub(r"\g<1>DATE",
-                                               COMPILED_RE.sub(r"\g<1>DATE", text)))
+    return RECORD_RE.sub("", COMPILED_RE.sub(r"\g<1>DATE", text))
+
+
+def period_close(text):
+    """The closing date a document on disk prints, or None.
+
+    **This is not the period read-back that went with the issue model.** Nothing is rendered to
+    this date: it is read only so that an existing file and a fresh render can be compared on
+    content alone, and so that a document whose content has not changed keeps the window it
+    already states rather than being widened to today for nothing."""
+    m = PERIOD_CLOSE_RE.search(text)
+    return m.group(1) if m else None
 
 
 def digest(text):
@@ -533,7 +558,7 @@ def note_drop(dropped, unit):
     return f"{len(gone)} block(s) of prose dropped" if gone else "narrative carried across"
 
 
-def write(path, out, unit, note, today=None):
+def write(path, out, unit, note, today=None, close=None):
     """Write the document — but **only stamp a new compiled date if the record changed**
     *(Bill, 2026-08-14)*.
 
@@ -550,29 +575,41 @@ def write(path, out, unit, note, today=None):
     A digest of the last-written content cannot miss it: the prose is in the content, so adding
     prose changes the digest whoever wrote it and however it got there.
 
-    A re-render that genuinely changes nothing leaves the file untouched — the old date stands and
-    the mtime does not move. The window's close is masked with it, so the two always agree:
-    a render must never make a document look newer, or older, than it is."""
+    A re-render that genuinely changes nothing leaves the file untouched — the old date stands, the
+    mtime does not move, and **the document keeps the window it already prints** *(Bill,
+    2026-08-14)*. A stated window that has fallen behind the build is acceptable, because the close
+    is a property of the last change and `compiled:` says when that was. It can only ever
+    understate: the close never claims evidence the document does not hold, and the next thing that
+    actually moves brings both dates forward together."""
     new = "\n".join(out)
     fresh = digest(new)
+    stamp = close
     if today:
         held = stored_digest(path)
         if held == fresh:
             print(f"{unit}: {os.path.relpath(path, ROOT)} unchanged — "
-                  f"compiled date left at {compiled_date(path) or 'unknown'}")
+                  f"compiled date left at {compiled_date(path) or 'unknown'}"
+                  + (f", window still to {period_close(open(path, encoding='utf-8').read())}"
+                     if close else ""))
             return 0
         if held is None and os.path.exists(path):
             # A document written before the digest field existed. Adding the field must not
-            # backdate or forward-date it: if the content is the same, keep the date it has.
+            # backdate or forward-date it, or widen its window: if the content is the same, keep
+            # both the date and the close it has. The render is probed with the *old* close
+            # substituted, so the comparison is on content and nothing else.
             old = open(path, encoding="utf-8").read()
-            if _canonical(old) == _canonical(new):
+            was = period_close(old)
+            probe = new.replace(CLOSE, was) if (close and was) else new
+            if _canonical(probe) == _canonical(old):
                 keep_date = compiled_date(path)
                 if keep_date:
-                    new = COMPILED_RE.sub(
-                        lambda m: f"{m.group(1)}{keep_date}", new)
-                    fresh = digest(new)
-                    note = f"digest added, compiled date kept at {keep_date}"
+                    new = COMPILED_RE.sub(lambda m: f"{m.group(1)}{keep_date}", new)
+                    stamp = was or close
+                    note = (f"digest added, compiled date kept at {keep_date}"
+                            + (f", window kept to {stamp}" if close else ""))
     new = new.replace(PENDING, f"record: {fresh}")
+    if close:
+        new = new.replace(CLOSE, stamp or close)
     with open(path, "w", encoding="utf-8", newline="\n") as fh:
         fh.write(new)
     print(f"{unit}: wrote {os.path.relpath(path, ROOT)} — {note}")
@@ -629,8 +666,13 @@ def render(unit, today):
 def render_monthly(unit, today, month, end=None):
     """Monthly — what moved in the window, dated. No maturity verdicts; those are the status's.
 
-    Cadence (§2): a month in which no row moved produces **no issue**. The run records
-    `nil, unchanged` and stops — that is what makes the full set affordable."""
+    **A month in which nothing moved still issues a report, and the report says so** *(Bill,
+    2026-08-14)*. The run used to record `nil, unchanged` and stop, which was right while a monthly
+    was a dated issue nobody had to cut. It is wrong for a living document: stopping leaves the
+    previous month's update on disk under its old heading, so a quiet place silently publishes a
+    stale page instead of the finding that it was quiet. An absence of movement is a finding, and
+    the renderer states it in its own voice — no narrative block, because there is no empty box to
+    hand a drafter (BUILD.md -> Narrative integrity)."""
     folder, ledger, _ = load(unit)
     if not ledger:
         print(f"{unit}: ledger is empty — nothing to render")
@@ -638,22 +680,32 @@ def render_monthly(unit, today, month, end=None):
     path = os.path.join(folder, f"{unit}-monthly.md")
     start, end = month_bounds(month, 1, end or today)
     changed = moved_in(ledger, start, end)
-    if not changed:
-        print(f"{unit} {month}: nil, unchanged — no row moved in the window, so no issue "
-              f"(documentation/report-layer.md §2)")
-        return 0
     ordered, _ = sections(unit)
     block, keep, dropped = blocker(path)
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     name = place_name(unit)
     pretty = datetime.date.fromisoformat(start).strftime("%B %Y")
+    if not changed:
+        out = front(f"{name} — monthly update, {pretty}", today, unit, 0, not_held,
+                    period=f"{start} to {CLOSE}") + [
+            f"# {name}: monthly update, {pretty}",
+            "",
+            f"*Nothing moved. No system or instrument on {name}'s ledger took a new position from "
+            f"a source published between {start} and {CLOSE}. An absence of movement is a finding "
+            f"and is reported as one: the current position of each system and instrument is in "
+            f"the status report, and the comparison over the last twelve months in the progress "
+            f"report.*",
+            "",
+        ]
+        return write(path, out, unit, f"nil — no row moved in {start} to {end}, "
+                     f"{note_drop(dropped, unit)}", today, end)
     # No table: §5. A monthly is developments, dated and cited, section by section — a table of
     # rows that moved restates the ledger without telling a reader what happened.
     out = front(f"{name} — monthly update, {pretty}", today, unit, len(changed), not_held,
-                period=f"{start} to {end}") + [
+                period=f"{start} to {CLOSE}") + [
         f"# {name}: monthly update, {pretty}",
         "",
-        f"*Developments recorded from artefacts published between {start} and {end} — {pretty} "
+        f"*Developments recorded from artefacts published between {start} and {CLOSE} — {pretty} "
         f"carried forward to the date of issue, so the report holds the nightly catch to the day "
         f"it was cut. Sections follow the status report.*",
         "",
@@ -680,7 +732,7 @@ def render_monthly(unit, today, month, end=None):
             out += [f"### {tax_label.get(subject, subject)}", "", block(subkey)]
     out.append("")
     return write(path, out, unit, f"{len(changed)} row(s) in {start} to {end}, "
-                 f"{note_drop(dropped, unit)}", today)
+                 f"{note_drop(dropped, unit)}", today, end)
 
 
 def render_progress(unit, today, month, window, end=None):
@@ -730,18 +782,19 @@ def render_progress(unit, today, month, window, end=None):
     movers = [r for r in held if mv(r) in ("Advanced", "Stalled", "Regressed", "Closed")]
     unbased = [r for r in held if mv(r) == BASELINE_NOT_HELD]
     steady = [r for r in held if mv(r) == NO_CHANGE]
-    out = front(f"{name} — progress report, {start} to {end}", today, unit, len(ledger), not_held,
-                period=f"{start} to {end}") + [
-        f"# {name}: progress report, {start} to {end}",
+    out = front(f"{name} — progress report, {start} to {CLOSE}", today, unit, len(ledger), not_held,
+                period=f"{start} to {CLOSE}") + [
+        f"# {name}: progress report, {start} to {CLOSE}",
         "",
         f"*Compiled {today} from the Data Landscapers source base. {prof['sections_note']} Each "
         f"opens with a movement ledger comparing the position at the start and end of the period, "
         f"which runs to the date of issue rather than to the last month's close.*",
         "",
         f"*Of {len(ledger)} {prof['objects']} on this place's ledger, {len(movers)} changed "
-        f"position between {start} and {end}, {len(steady)} did not, {len(unbased)} carry no stated "
-        f"baseline, and {not_held} {'is' if not_held == 1 else 'are'} ***Not held*** at both ends."
-        + (f" A further {len(after)} took a position dated after {end} and are carried in the "
+        f"position between {start} and {CLOSE}, {len(steady)} did not, {len(unbased)} carry no "
+        f"stated baseline, and {not_held} {'is' if not_held == 1 else 'are'} ***Not held*** at "
+        f"both ends."
+        + (f" A further {len(after)} took a position dated after {CLOSE} and are carried in the "
            f"status report rather than compared here.*" if after else "*"),
         "",
         shape_line(unit, start, end),
@@ -765,7 +818,7 @@ def render_progress(unit, today, month, window, end=None):
         out += ["", f"## {section}", ""]
         for subject, srows in by_subject(rows):
             out += [f"### {tax_label.get(subject, subject)}", "",
-                    f"| {prof['object']} | At {start} | At {end} | Movement |",
+                    f"| {prof['object']} | At {start} | At {CLOSE} | Movement |",
                     "|---|---|---|---|"]
             for r in sorted(srows, key=lambda r: (rank.get(mv(r), 0), r["name"].lower())):
                 a, b, m = rows_ends[r["row_id"]]
@@ -778,7 +831,7 @@ def render_progress(unit, today, month, window, end=None):
     out.append("")
     return write(path, out, unit, f"{len(movers)} moved, {len(steady)} no change, "
                  f"{len(unbased)} without a baseline, {not_held} not held, "
-                 f"{note_drop(dropped, unit)}", today)
+                 f"{note_drop(dropped, unit)}", today, end)
 
 
 def check(unit):
@@ -871,9 +924,9 @@ def main():
     ap.add_argument("--doc", choices=("status", "monthly", "progress", "all"), default="status")
     ap.add_argument("--month", help="YYYY-MM (default: the last closed month)")
     ap.add_argument("--end", metavar="YYYY-MM-DD",
-                    help="close the window here instead of at the date of issue. Only for "
-                         "re-cutting a document whose printed period is wrong; an existing "
-                         "issue's period is otherwise read back and kept")
+                    help="select against this date instead of today. A document whose content "
+                         "does not change keeps the window it already prints, whatever is passed "
+                         "here")
     ap.add_argument("--window", type=int, default=12, help="months in the progress window")
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--today")
