@@ -85,6 +85,13 @@ def setup_workroot():
     for name, target in (("raw", os.path.join(OSINT, "raw")),
                          ("index", os.path.join(OSINT, "index")),
                          ("lookups", os.path.join(OSINT, "lookups")),
+                         # The compiled wiki: `wiki/intersections/` and `wiki/places/` are the
+                         # primary input to STATUS-INIT.md and to the deferred report-initialisation
+                         # stage. **Corpus may read anything in OSINT** (`CLAUDE.md`; Bill,
+                         # 2026-08-14) — this list is what the build needs, not what it is allowed,
+                         # so adding a directory here is a convenience change, never a boundary one.
+                         # The boundary is one-directional and unchanged: nothing here ever writes.
+                         ("wiki", os.path.join(OSINT, "wiki")),
                          ("scripts", TOOLCHAIN),
                          # `report-register-check.py` reads its word budgets from the skeletons in
                          # documentation/, so without this it dies on FileNotFoundError when run
