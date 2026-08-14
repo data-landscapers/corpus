@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: LBY
 ledger_rows: 24
 not_held: 7
-record: dcaaadfab6da
+record: e19ca6f428ee
 ---
 
 # Libya: monthly update, July 2026
@@ -101,7 +101,7 @@ On 1 August the executive bureau of the Council of Arab Ministers of Communicati
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-On 2 August the Municipal Guard's Investigation and Information Gathering Office, acting on Central Bank instructions and with the Ministry of Economy and Trade, [said any surcharge on card payment is prohibited](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/) and that the displayed price is the final price. Complaints had reported spreads reaching 20% in some clinics and medical centres.
+On 2 August the Municipal Guard's Investigation and Information Gathering Office, acting on Central Bank instructions and with the Ministry of Economy and Trade, [said any surcharge on card payment is prohibited](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/) and that the displayed price is the final price. [Complaints had reported spreads reaching 20% in some clinics and medical centres](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/).
 <!-- /narrative -->
 ### Open data
 

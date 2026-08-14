@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: GAB
 ledger_rows: 34
 not_held: 27
-record: 0685ecf0dacd
+record: 231dd22324a5
 ---
 
 # Gabon: monthly update, July 2026
@@ -55,7 +55,7 @@ The regional interoperable QR-code standard was launched at Douala on 29 July 20
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Domestic acceptance figures published on 30 July put banks at 457,377 cardholders among 673,793 clients, against 326 cash machines and 1,535 merchant terminals; of 1,101,434 transactions in June, 62.41 per cent were cash withdrawals and 24.61 per cent terminal payments ([bank association](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe)).
+[Domestic acceptance figures published on 30 July put banks at 457,377 cardholders among 673,793 clients, against 326 cash machines and 1,535 merchant terminals](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe); of 1,101,434 transactions in June, 62.41 per cent were cash withdrawals and 24.61 per cent terminal payments ([bank association](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe)).
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 

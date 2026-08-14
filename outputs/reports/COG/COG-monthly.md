@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: COG
 ledger_rows: 31
 not_held: 12
-record: f8a1d5360776
+record: 1e487239aa0f
 ---
 
 # Congo: monthly update, July 2026
@@ -119,5 +119,5 @@ The European phase of the transformation project, launched in June 2025 with [EU
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->
-Both chambers [adopted the rectifying finance law unanimously and unamended on 23 July](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726), lifting expenditure to FCFA 2,561.069bn against revenue of FCFA 2,778.016bn for a projected surplus of FCFA 216.947bn. It rests on re-pricing the barrel at US$67 from US$60.3 with output held flat; the first of its four objectives is consolidating public revenue through digitalisation, and no revised figure for the digital vote is published. It was adopted but not gazetted at the date of this issue.
+Both chambers [adopted the rectifying finance law unanimously and unamended on 23 July](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726), lifting expenditure to FCFA 2,561.069bn against revenue of FCFA 2,778.016bn for a projected surplus of FCFA 216.947bn. [It rests on re-pricing the barrel at US$67 from US$60.3 with output held flat](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726); the first of its four objectives is consolidating public revenue through digitalisation, and no revised figure for the digital vote is published. It was adopted but not gazetted at the date of this issue.
 <!-- /narrative -->

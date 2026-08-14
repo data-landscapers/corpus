@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: COD
 ledger_rows: 36
 not_held: 13
-record: 8932a57d6e20
+record: c3e20a383fc1
 ---
 
 # DR Congo: monthly update, July 2026
@@ -47,7 +47,7 @@ An operator launched a [subscriber-level child filtering service on 17 July](htt
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-On 29 July a [national electronic certification authority was named, not established](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/); the July order already prices qualified trust services at US$30,000 foreign and US$10,000 local.
+On 29 July a [national electronic certification authority was named, not established](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/); [the July order already prices qualified trust services at US$30,000 foreign and US$10,000 local](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -161,5 +161,5 @@ The employment office launched a [portal and mobile application in July](https:/
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-A development fund committed [US$32.8m into an upsized US$179m senior secured facility on 5 August](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/), funding 728 new passive towers to take the network to 1,800, 70% of them rural, with solar and battery upgrades. The same lender committed US$30m to the same borrower in 2023, when the network stood at 1,072 active towers.
+A development fund committed [US$32.8m into an upsized US$179m senior secured facility on 5 August](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/), funding 728 new passive towers to take the network to 1,800, 70% of them rural, with solar and battery upgrades. [The same lender committed US$30m to the same borrower in 2023, when the network stood at 1,072 active towers](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/).
 <!-- /narrative -->

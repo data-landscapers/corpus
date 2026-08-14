@@ -4,7 +4,7 @@ compiled: 2026-08-14
 place: STP
 ledger_rows: 48
 not_held: 13
-record: 1eec8366ee63
+record: 587f1b5bf250
 ---
 
 # Sao Tome and Principe: status report
@@ -250,7 +250,7 @@ CST's January 2025 plan to extend fibre and mobile connectivity to schools, larg
 | Domestic-state digital-transformation budget line | ***Not held*** | — |
 
 <!-- narrative: finance -->
-Two financing instruments underwrite almost the whole of STP's digital-transformation programme. The [World Bank's US$21.8m "Digital São Tomé and Príncipe" project](https://projects.worldbank.org/en/projects-operations/project-detail/P177158) was board-approved in June 2022 and had disbursed US$7.64m — 36% — by September 2025, rated Moderately Satisfactory, financing the digital-ID, citizen-portal, interoperability, CSIRT and data-centre work recorded above. The AfDB's Payment System Infrastructure and Financial Inclusion Project, committed in 2017 at US$3,335,999, shows a disbursed figure of US$4,268,636 in its IATI record — exceeding the committed amount with no explanation found in the source held, a discrepancy to treat with caution rather than resolve here. UNICEF's PNAD equipment tender, open since July 2026 against grant SC220341, is the only other financing instrument on record. No domestic STP government budget line for digital transformation is held anywhere in the base — the hub's own financing aggregate marks the domestic side "pending that dataset."
+Two financing instruments underwrite almost the whole of STP's digital-transformation programme. The [World Bank's US$21.8m "Digital São Tomé and Príncipe" project](https://projects.worldbank.org/en/projects-operations/project-detail/P177158) was board-approved in June 2022 and had disbursed US$7.64m — 36% — by September 2025, rated Moderately Satisfactory, financing the digital-ID, citizen-portal, interoperability, CSIRT and data-centre work recorded above. [The AfDB's Payment System Infrastructure and Financial Inclusion Project, committed in 2017 at US$3,335,999, shows a disbursed figure of US$4,268,636 in its IATI record — exceeding the committed amount with no explanation found in the source held, a discrepancy to treat with caution rather than resolve here](https://projects.worldbank.org/en/projects-operations/project-detail/P177158). UNICEF's PNAD equipment tender, open since July 2026 against grant SC220341, is the only other financing instrument on record. No domestic STP government budget line for digital transformation is held anywhere in the base — the hub's own financing aggregate marks the domestic side "pending that dataset."
 <!-- /narrative -->
 
 ## Gaps to fill

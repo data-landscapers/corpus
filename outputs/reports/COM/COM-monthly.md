@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: COM
 ledger_rows: 8
 not_held: 35
-record: 739f3e881803
+record: e1beea5ff301
 ---
 
 # Comoros: monthly update, July 2026
@@ -23,7 +23,7 @@ ANADEN, the digital development agency, [seated its board of directors for the f
 ### Connectivity
 
 <!-- narrative: infrastructure--infra-connect -->
-Comores Télécom [revised its retail fibre and mobile offer on 15 July 2026](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html), cutting the entry fibre tariff from KMF 32,500 to KMF 30,000 a month while raising the basic allowance from 800 GB to 850 GB and adding unlimited calls to fixed lines. Director-general Ali Hadji Mmadi also announced eSIM provisioning — KMF 5,000 to migrate an existing SIM, KMF 10,000 for a new one — and two paid value-added SMS services, a pharmacy-on-duty locator and prayer-time notifications. The account is the operator's own press event, and its internal dateline is inconsistent: it describes the launch as "yesterday, Monday 15 July," though 15 July 2026 fell on a Wednesday, so the date's precision is flagged uncertain.
+Comores Télécom [revised its retail fibre and mobile offer on 15 July 2026](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html), cutting the entry fibre tariff from KMF 32,500 to KMF 30,000 a month while raising the basic allowance from 800 GB to 850 GB and adding unlimited calls to fixed lines. [Director-general Ali Hadji Mmadi also announced eSIM provisioning — KMF 5,000 to migrate an existing SIM, KMF 10,000 for a new one — and two paid value-added SMS services, a pharmacy-on-duty locator and prayer-time notifications](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html). The account is the operator's own press event, and its internal dateline is inconsistent: it describes the launch as "yesterday, Monday 15 July," though 15 July 2026 fell on a Wednesday, so the date's precision is flagged uncertain.
 <!-- /narrative -->
 
 ## Digital public infrastructure

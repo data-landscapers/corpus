@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: CAF
 ledger_rows: 13
 not_held: 19
-record: 857f82ad553e
+record: 34f7baa611da
 ---
 
 # Central African Republic: monthly update, July 2026
@@ -32,7 +32,7 @@ Subscribers at a northern town reported [no calls, no internet and no mobile mon
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-On 16 July the minister met the counterparty's operations vice-president, moving the [incumbent operator's privatisation into an operational phase](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd). US$150m is announced across network modernisation, a data centre and connectivity; the deal structure is undisclosed, and definitive takeover agreements, a joint steering committee and a deployment schedule are all still to be established. It is the fourth attempted rescue of this operator, the prior one agreed in November 2020, needing EUR 20m and never funded.
+On 16 July the minister met the counterparty's operations vice-president, moving the [incumbent operator's privatisation into an operational phase](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd). [US$150m is announced across network modernisation, a data centre and connectivity](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd); the deal structure is undisclosed, and definitive takeover agreements, a joint steering committee and a deployment schedule are all still to be established. [It is the fourth attempted rescue of this operator, the prior one agreed in November 2020, needing EUR 20m and never funded](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd).
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -70,7 +70,7 @@ The cybersecurity and cybercrime law is unchanged in text and was [named by a co
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-The regional central bank and the payments body [launched an interoperable QR-code standard at Douala on 29 July under an April 2026 regulation](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), binding across the six member states, routed and settled through the regional switch and secured to card-industry standards. The country's share of regional payment volume was 0.43% in 2024 — the smallest but one, against the largest member state's 65.10% — and no country-specific adoption step is on file. The regional report holds no value figure or account count for the country, so what the standard reaches here cannot be sized.
+The regional central bank and the payments body [launched an interoperable QR-code standard at Douala on 29 July under an April 2026 regulation](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), binding across the six member states, routed and settled through the regional switch and secured to card-industry standards. [The country's share of regional payment volume was 0.43% in 2024 — the smallest but one, against the largest member state's 65.10% — and no country-specific adoption step is on file](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac). The regional report holds no value figure or account count for the country, so what the standard reaches here cannot be sized.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -78,7 +78,7 @@ The regional central bank and the payments body [launched an interoperable QR-co
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
-The [privatisation memorandum's move to an operational phase](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) is carried here because the counterparty is a United States firm. The announced US$150m is the counterparty's own figure and appears in no appropriation.
+The [privatisation memorandum's move to an operational phase](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) is carried here because the counterparty is a United States firm. [The announced US$150m is the counterparty's own figure and appears in no appropriation](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd).
 <!-- /narrative -->
 ### Gulf/UAE activities
 

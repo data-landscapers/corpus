@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: BFA
 ledger_rows: 44
 not_held: 11
-record: c7219efb0847
+record: 4d87304e61ab
 ---
 
 # Burkina Faso: monthly update, July 2026
@@ -63,9 +63,7 @@ A [pension acts platform was announced as the completion of the pension programm
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-Automated traffic enforcement entered operation at midnight on 1 August after an April pilot, reading plates against the vehicle database, serving fines by message with a link to the national payments rail, and immobilising vehicles for non-payment within a month. It [logged 1,099 offences between midnight and noon that day](https://lefaso.net/spip.php?article148326) and five payments. Neither held account reports a legal basis, retention rule or data-protection authorisation; the justification given is 15,614 road accidents in 2025.
-
-A pension formalities portal also launched on 21 July, presented as improving data exchange between three administrations rather than as a web front end. The Council of Ministers of 23 July separately converted the trade single window's operator into a state company.
+Automated traffic enforcement entered operation at midnight on 1 August after an April pilot, reading plates against the vehicle database, serving fines by message with a link to the national payments rail, and immobilising vehicles for non-payment within a month. It [logged 1,099 offences between midnight and noon that day](https://lefaso.net/spip.php?article148326) and five payments. Neither held account reports a legal basis, retention rule or data-protection authorisation; [the justification given is 15,614 road accidents in 2025](https://lefaso.net/spip.php?article148326). A pension formalities portal also launched on 21 July, presented as improving data exchange between three administrations rather than as a web front end. The Council of Ministers of 23 July separately converted the trade single window's operator into a state company.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: GNB
 ledger_rows: 3
 not_held: 1
-record: 2926ae62f67f
+record: 112d1d19e535
 ---
 
 # Guinea-Bissau: monthly update, July 2026
@@ -23,7 +23,7 @@ Two developments were recorded between 1 July and 11 August 2026. [The Instituto
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-[The Instituto Nacional de Estatistica released RGPH4 preliminary results on 23 July 2026](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/), putting resident population at 2,191,202 — cut from a raw collected base of 2,246,300 after correction for repeated names, against 1,449,230 in 2009. 50.7% are women and 45.7% urban; 304,939 households, 559,303 dwellings and 376,258 buildings were enumerated, using computer-assisted personal interviewing throughout. UNFPA and the World Bank financed the census; demographic, social, economic and housing tabulations are to be released progressively over the coming months.
+[The Instituto Nacional de Estatistica released RGPH4 preliminary results on 23 July 2026](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/), putting resident population at 2,191,202 — cut from a raw collected base of 2,246,300 after correction for repeated names, against 1,449,230 in 2009. [50.7% are women and 45.7% urban](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/); [304,939 households, 559,303 dwellings and 376,258 buildings were enumerated, using computer-assisted personal interviewing throughout](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/). UNFPA and the World Bank financed the census; demographic, social, economic and housing tabulations are to be released progressively over the coming months.
 <!-- /narrative -->
 
 ## Governance and regulation

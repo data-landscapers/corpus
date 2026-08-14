@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: SWZ
 ledger_rows: 26
 not_held: 9
-record: 780450f892d2
+record: 5705120b585f
 ---
 
 # Eswatini: monthly update, July 2026
@@ -57,7 +57,7 @@ The same Digital Eswatini connectivity target names 38 tinkhundla centres to be 
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-The central bank [launched the FinScope Eswatini 2026 Consumer Survey on 24 July](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/) with ESEPARC, the Central Statistical Office and FinMark Trust. Its governor said the 87% access rate recorded in 2018 measured access rather than use, and that the 2026 round will cover access, usage and quality — the first measurement since the Consumer Credit Act, the payment switch and the FinTech Strategy changed the stack. No fieldwork dates, sample size or publication date were given.
+The central bank [launched the FinScope Eswatini 2026 Consumer Survey on 24 July](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/) with ESEPARC, the Central Statistical Office and FinMark Trust. [Its governor said the 87% access rate recorded in 2018 measured access rather than use, and that the 2026 round will cover access, usage and quality — the first measurement since the Consumer Credit Act, the payment switch and the FinTech Strategy changed the stack](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/). No fieldwork dates, sample size or publication date were given.
 <!-- /narrative -->
 
 ## Governance and regulation

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: MOZ
 ledger_rows: 55
 not_held: 18
-record: ea3d94cad306
+record: 0b0b8f890b63
 ---
 
 # Mozambique: monthly update, July 2026
@@ -137,9 +137,7 @@ The inclusion figures move in opposite directions depending on which one is read
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-The central bank's Financial Inclusion Report 2025, reported on 24 July, counted 482,359 financial access points, up 36% on 2024, of which 446,604 were non-bank agents against 315,005 the year before, while automated teller machines fell from 1,391 to 1,383 and card terminals from 35,486 to 32,236 ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). Mobile money reached 1,313 accounts per thousand adults against 337 bank accounts, and the national Financial Inclusion Index held flat at 36.4 points.
-
-Agent growth was fastest in the least-served provinces, and the report set that against a widening credit gap: women's participation in credit rose from 31% to 34% while men's rose from 59% to 66%, even as women's mobile money holding rose 24%.
+The central bank's Financial Inclusion Report 2025, reported on 24 July, counted 482,359 financial access points, up 36% on 2024, of which 446,604 were non-bank agents against 315,005 the year before, while automated teller machines fell from 1,391 to 1,383 and card terminals from 35,486 to 32,236 ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). [Mobile money reached 1,313 accounts per thousand adults against 337 bank accounts, and the national Financial Inclusion Index held flat at 36.4 points](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/). [Agent growth was fastest in the least-served provinces, and the report set that against a widening credit gap: women's participation in credit rose from 31% to 34% while men's rose from 59% to 66%, even as women's mobile money holding rose 24%](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/).
 <!-- /narrative -->
 ### Training and skills
 

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: NER
 ledger_rows: 24
 not_held: 4
-record: 41f7fd4fac35
+record: e87efa2f2371
 ---
 
 # Niger: monthly update, July 2026
@@ -94,7 +94,7 @@ On 30 July a Nigerien technical mission led by the interior ministry's secretary
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-On 27 July the regulator's verification campaign opened against the [mises en demeure served on all four mobile operators on 10 June 2026](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/). Persistent breach exposes an operator to a fine of 1 to 3% of prior-year turnover, partial or total licence suspension, a shortened licence term, or definitive withdrawal by the Council of Ministers.
+On 27 July the regulator's verification campaign opened against the [mises en demeure served on all four mobile operators on 10 June 2026](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/). [Persistent breach exposes an operator to a fine of 1 to 3% of prior-year turnover, partial or total licence suspension, a shortened licence term, or definitive withdrawal by the Council of Ministers](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/).
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

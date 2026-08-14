@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: EGY
 ledger_rows: 72
 not_held: 54
-record: 2dfbf630d1bd
+record: 5b570eb764eb
 ---
 
 # Egypt: monthly update, July 2026
@@ -169,7 +169,7 @@ The state's university artificial-intelligence programme closed its fourth round
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-The data-centre position moved by cancellation. Telecom Egypt's board withdrew on 17 July from the agreement to sell 75-80% of its Regional Data Center Hub because the conditions were not met; the hub is instead to be carved out as a wholly-owned subsidiary ([cancellation account](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale)). Neither the consideration nor the unmet conditions were disclosed.
+The data-centre position moved by cancellation. [Telecom Egypt's board withdrew on 17 July from the agreement to sell 75-80% of its Regional Data Center Hub because the conditions were not met](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale); the hub is instead to be carved out as a wholly-owned subsidiary ([cancellation account](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale)). Neither the consideration nor the unmet conditions were disclosed.
 <!-- /narrative -->
 ### MoUs and other agreements
 

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: CPV
 ledger_rows: 15
 not_held: 45
-record: fc030b3fbb09
+record: 7ffc3111de8b
 ---
 
 # Cape Verde: monthly update, July 2026
@@ -15,9 +15,7 @@ record: fc030b3fbb09
 ## Summary of the month
 
 <!-- narrative: summary -->
-The month's substance was fiscal and statistical rather than technical. Parliament approved a rectificative budget for 2026 on 31 July at CVE 103,888 million, against the CVE 95,675 million it had voted, naming connectivity among the priorities of the reorganisation without giving a digital figure. On the same day the Prime Minister told Parliament that the national statistics institute had produced falsified data and ordered an independent evaluation of it; the institute's board rejected the allegations three days later and offered to host any external review ([both accounts](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949)).
-
-One system entered service: a national pharmaceutical market monitoring platform launched on 29 July, tracking the medicines circuit in real time and integrated with the customs system.
+The month's substance was fiscal and statistical rather than technical. [Parliament approved a rectificative budget for 2026 on 31 July at CVE 103,888 million, against the CVE 95,675 million it had voted, naming connectivity among the priorities of the reorganisation without giving a digital figure](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949). On the same day the Prime Minister told Parliament that the national statistics institute had produced falsified data and ordered an independent evaluation of it; the institute's board rejected the allegations three days later and offered to host any external review ([both accounts](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949)). One system entered service: a national pharmaceutical market monitoring platform launched on 29 July, tracking the medicines circuit in real time and integrated with the customs system.
 <!-- /narrative -->
 
 ## Infrastructure

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: NGA
 ledger_rows: 220
 not_held: 8
-record: c253cc276210
+record: ac38ca7260d1
 ---
 
 # Nigeria: progress report, 2025-08-01 to 2026-08-14
@@ -166,11 +166,7 @@ The same year produced a data-localisation directive, a virtual-assets executive
 | Domestic bond financing of a fibre build | Did not exist | [₦4.05bn of a ₦20bn programme; trivial against the donor and DFI lines](https://tech.africa/dimension-data-nigeria-fibre-bond/) | Advanced |
 
 <!-- narrative: infrastructure -->
-Satellite broadband regressed. The largest provider had become Nigeria's second-largest ISP on Q4 2024 figures; by September 2025 it had paused new orders over congestion, and by December [more than 66,000 of its users](https://techcabal.com/2025/12/31/starlink-new-biometric-update-for-nigerians/) were required to submit an identity number and headshot under a regime built for SIM cards.
-
-What arrived: a rebased optical backbone, a landing permit for a second satellite constellation, a hyperscale campus at Lekki, four sovereign-cloud initiatives, a cyber resilience framework with four-hour incident reporting, and the removal of the 5% telecom excise duty.
-
-The national fibre programme was in development on 2025-08-01 and is in development now. The data-centre estate held its position while the localisation deadline that will test it was set. And the grid behind both has no dated position at either end that the base can state, and the localisation deadline falls on 2027-01-01.
+Satellite broadband regressed. The largest provider had become Nigeria's second-largest ISP on Q4 2024 figures; by September 2025 it had paused new orders over congestion, and by December [more than 66,000 of its users](https://techcabal.com/2025/12/31/starlink-new-biometric-update-for-nigerians/) were required to submit an identity number and headshot under a regime built for SIM cards. [What arrived: a rebased optical backbone, a landing permit for a second satellite constellation, a hyperscale campus at Lekki, four sovereign-cloud initiatives, a cyber resilience framework with four-hour incident reporting, and the removal of the 5% telecom excise duty](https://techcabal.com/2025/12/31/starlink-new-biometric-update-for-nigerians/). The national fibre programme was in development on 2025-08-01 and is in development now. The data-centre estate held its position while the localisation deadline that will test it was set. And the grid behind both has no dated position at either end that the base can state, and the localisation deadline falls on 2027-01-01.
 <!-- /narrative -->
 
 ## Digital public infrastructure

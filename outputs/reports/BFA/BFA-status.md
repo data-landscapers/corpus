@@ -4,7 +4,7 @@ compiled: 2026-08-14
 place: BFA
 ledger_rows: 99
 not_held: 11
-record: 86eac69469e1
+record: 16fb3d90566e
 ---
 
 # Burkina Faso: status report
@@ -314,7 +314,7 @@ A financial-inclusion operation [closed in June 2026](https://www.sidwaya.info/t
 | Identity-documents appropriation | [Implemented](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf) | 2026 finance law enacted 2025-12-27 |
 
 <!-- narrative: finance -->
-The white-zone connectivity programme carries a stated FCFA 75bn cumulative envelope, half from the state and half from the three operators, allocated by reverse auction — the state's share alone exceeds the whole domestically financed capital appropriation of the announcing ministry, which fell to FCFA 1.81bn for 2026, and no held document reconciles the two figures or accounts for the fund's 2% operator levy. Budget execution is the wider story: the digital ministry's work plan ran at 10.80% financial execution at 30 June 2025 against 43.61% physical, against a 2024 comparison of 79.88% physical against 9.06% financial — the two years do not compare at full-year grain, since the 2025 execution annexe dropped the external-financing exclusion the 2024 edition carried — and the same [mid-year review to 30 June 2025](https://www.finances.gov.bf/fileadmin/user_upload/storage/fichiers/Rapport_de_la_revue_a_mi-parcours_de_l_execution_du_budget_de_l_Etat_exercice_2025_.pdf) reports commitments by section and programme on the old basis and puts the data-protection authority at FCFA 480.3m committed and liquidated of FCFA 499m.
+[The white-zone connectivity programme carries a stated FCFA 75bn cumulative envelope, half from the state and half from the three operators, allocated by reverse auction — the state's share alone exceeds the whole domestically financed capital appropriation of the announcing ministry, which fell to FCFA 1.81bn for 2026, and no held document reconciles the two figures or accounts for the fund's 2% operator levy](https://www.finances.gov.bf/fileadmin/user_upload/storage/fichiers/Rapport_de_la_revue_a_mi-parcours_de_l_execution_du_budget_de_l_Etat_exercice_2025_.pdf). Budget execution is the wider story: the digital ministry's work plan ran at 10.80% financial execution at 30 June 2025 against 43.61% physical, against a 2024 comparison of 79.88% physical against 9.06% financial — the two years do not compare at full-year grain, since the 2025 execution annexe dropped the external-financing exclusion the 2024 edition carried — and the same [mid-year review to 30 June 2025](https://www.finances.gov.bf/fileadmin/user_upload/storage/fichiers/Rapport_de_la_revue_a_mi-parcours_de_l_execution_du_budget_de_l_Etat_exercice_2025_.pdf) reports commitments by section and programme on the old basis and puts the data-protection authority at FCFA 480.3m committed and liquidated of FCFA 499m.
 <!-- /narrative -->
 
 ## Gaps to fill

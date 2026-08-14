@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: MOZ
 ledger_rows: 146
 not_held: 18
-record: 208070448578
+record: bf11e1fb5cd6
 ---
 
 # Mozambique: progress report, 2025-08-01 to 2026-08-14
@@ -326,9 +326,7 @@ None of it is adopted policy. The strategy was not adopted, the commission's dec
 | Research and education network governance transfer | ***Baseline not held*** | [Transfer of the education and research network from the ministry to the universities proposed, with no date, instrument or governance model named](https://clubofmozambique.com/news/mozambique-govt-wants-universities-involved-in-protecting-against-cyberattacks/) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-The composite measure of financial inclusion did not move: 36.4 points in 2024 and 36.4 points in 2025, on the central bank's own index ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). Underneath it, access points rose 36% to 482,359 on a 42% rise in non-bank agents, while automated teller machines and card terminals both fell.
-
-The credit gap moved in the opposite direction to the account gap. Women's participation in credit went from 31% to 34% and men's from 59% to 66%, so the gap widened, while women's mobile money holding rose from 924 to 1,144 per thousand adults.
+The composite measure of financial inclusion did not move: 36.4 points in 2024 and 36.4 points in 2025, on the central bank's own index ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). [Underneath it, access points rose 36% to 482,359 on a 42% rise in non-bank agents, while automated teller machines and card terminals both fell](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/). The credit gap moved in the opposite direction to the account gap. [Women's participation in credit went from 31% to 34% and men's from 59% to 66%, so the gap widened, while women's mobile money holding rose from 924 to 1,144 per thousand adults](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/).
 <!-- /narrative -->
 
 ## Finance

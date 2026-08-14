@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: RWA
 ledger_rows: 39
 not_held: 9
-record: e6294ac7b687
+record: 3a85cb0f808d
 ---
 
 # Rwanda: monthly update, July 2026
@@ -23,11 +23,7 @@ Two dates were fixed in July. Effective 14 July the central bank [migrated all d
 ### Connectivity
 
 <!-- narrative: infrastructure--infra-connect -->
-The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the older, second-generation network, expressly conditional on coverage, voice reliability including emergency calls, continuity of mobile money and payments, migration of dependent systems, and the availability of affordable handsets.
-
-The technical precondition for the switch-off schedule fell into place days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no completion date given. The source makes no reference to the sunset.
-
-A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed; a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
+The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the older, second-generation network, expressly conditional on coverage, voice reliability including emergency calls, continuity of mobile money and payments, migration of dependent systems, and the availability of affordable handsets. The technical precondition for the switch-off schedule fell into place days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no completion date given. The source makes no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
 <!-- /narrative -->
 ### Data Storage
 
@@ -127,11 +123,7 @@ As at 3 August the development bank is the sole committed backer, at US$6m, of a
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-Formal financial access was reported at [96% of adults in 2024 against 48% in 2008](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), with 68.5% using a mobile wallet and only about 5% holding a bank account. Against that headline, the agent network contracted at the second operator over the year to March 2026, and the accounts-per-agent ratio widened.
-
-The legacy-network retirement plan carries handset-affordability measures, which is the inclusion question the 30 June 2027 deadline turns on: the single figure that would show whether the deadline is achievable — the share of the handset base capable of voice over fourth-generation networks — has not been published by the operator, the ministry or the regulator.
-
-Nothing was published in the month on school connectivity, which stands at 4,184 of 4,996 schools connected as at March 2026, leaving 812 mostly rural against a government target of 80%.
+Formal financial access was reported at [96% of adults in 2024 against 48% in 2008](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), with 68.5% using a mobile wallet and only about 5% holding a bank account. Against that headline, the agent network contracted at the second operator over the year to March 2026, and the accounts-per-agent ratio widened. The legacy-network retirement plan carries handset-affordability measures, which is the inclusion question the 30 June 2027 deadline turns on: the single figure that would show whether the deadline is achievable — the share of the handset base capable of voice over fourth-generation networks — has not been published by the operator, the ministry or the regulator. [Nothing was published in the month on school connectivity, which stands at 4,184 of 4,996 schools connected as at March 2026, leaving 812 mostly rural against a government target of 80%](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash).
 <!-- /narrative -->
 ### Literacy
 

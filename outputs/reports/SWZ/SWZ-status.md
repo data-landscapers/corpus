@@ -4,7 +4,7 @@ compiled: 2026-08-14
 place: SWZ
 ledger_rows: 65
 not_held: 9
-record: a91e9a04151a
+record: 63eafd04a4cb
 ---
 
 # Eswatini: status report
@@ -323,7 +323,7 @@ Capacity is where the ambition is largest relative to the base. The ICT minister
 | Domestic budget appropriation for digital transformation | ***Not held*** | No estimates volume or appropriation line on file for the ICT ministry, ESCCOM or RSTP |
 
 <!-- narrative: finance -->
-Financing is concentrated and overwhelmingly external. The [Digital Eswatini Project was approved at more than E1.06bn, E648m for broadband and E450m for the citizen application](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/), funded by the World Bank. Beyond that loan, tracked non-state digital finance stands at US$55m across four deals for 2020 to 2026, on the wiki's own compilation as of 6 August 2026 — not a published figure. No domestic appropriation line for the ICT ministry, the regulator or the science park is held, so the base cannot say what the state itself puts in against what it borrows.
+Financing is concentrated and overwhelmingly external. The [Digital Eswatini Project was approved at more than E1.06bn, E648m for broadband and E450m for the citizen application](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/), funded by the World Bank. [Beyond that loan, tracked non-state digital finance stands at US$55m across four deals for 2020 to 2026, on the wiki's own compilation as of 6 August 2026 — not a published figure](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/). No domestic appropriation line for the ICT ministry, the regulator or the science park is held, so the base cannot say what the state itself puts in against what it borrows.
 <!-- /narrative -->
 
 ## Gaps to fill

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: ETH
 ledger_rows: 88
 not_held: 4
-record: 520a8303806b
+record: 8567729916bc
 ---
 
 # Ethiopia: progress report, 2025-08-01 to 2026-08-14
@@ -309,11 +309,7 @@ In June 2026 a court struck down licence revocation without a court order, on re
 | Ethio Telecom public share offer | Offer closed (2025-02) | [10% distributed through Telebirr](https://www.thereporterethiopia.com/43299/) | No change |
 
 <!-- narrative: ai-tech -->
-No maturity changed. The institutional base — an AI institute since 2020 and a national policy adopted in 2024 — held position throughout.
-
-What arrived was money and buildings: an innovation pod in February 2026, and in the window's last month an appropriation of ETB 5,000,000,000 for an AI university as a single named capital project. The appropriation is domestic revenue rather than donor or vendor finance.
-
-Two rows carry no baseline and both bear on dependency. [Chinese model adoption at about 20% of chatbot usage](https://africa.businessinsider.com/local/markets/chinas-deepseek-gives-us-tech-giants-a-run-for-their-money/) cannot be dated at either end of the window, and neither can the domestic engineering-services layer. Nothing held measures the trend in either.
+No maturity changed. The institutional base — an AI institute since 2020 and a national policy adopted in 2024 — held position throughout. [What arrived was money and buildings: an innovation pod in February 2026, and in the window's last month an appropriation of ETB 5,000,000,000 for an AI university as a single named capital project](https://africa.businessinsider.com/local/markets/chinas-deepseek-gives-us-tech-giants-a-run-for-their-money/). The appropriation is domestic revenue rather than donor or vendor finance. Two rows carry no baseline and both bear on dependency. [Chinese model adoption at about 20% of chatbot usage](https://africa.businessinsider.com/local/markets/chinas-deepseek-gives-us-tech-giants-a-run-for-their-money/) cannot be dated at either end of the window, and neither can the domestic engineering-services layer. Nothing held measures the trend in either.
 <!-- /narrative -->
 
 ## Inclusion and capacity

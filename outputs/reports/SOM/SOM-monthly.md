@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: SOM
 ledger_rows: 13
 not_held: 10
-record: 60352fc7d2e1
+record: 3964863783ac
 ---
 
 # Somalia: monthly update, July 2026
@@ -46,7 +46,7 @@ A [national single window is named as planned within a regional trade project, a
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-Hirshabelle put [tariff-loaded card terminals at its border checkpoints, reported 25 July](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem). The device holds the tariff schedule: an officer enters vehicle type, origin and category, the terminal returns the amount due, payment moves over mobile money into the government account with no merchant in between, and a QR-coded receipt posts to a central system in real time. It replaces paper vouchers carried up to 90km and hand-keyed, on a reconciliation cycle the state's finance minister puts at 30 to 45 days. Collections at equipped posts are reported up 668.94% in the first quarter of 2026 against 2020, a figure that comes only from the rollout's backers.
+Hirshabelle put [tariff-loaded card terminals at its border checkpoints, reported 25 July](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem). The device holds the tariff schedule: an officer enters vehicle type, origin and category, the terminal returns the amount due, payment moves over mobile money into the government account with no merchant in between, and a QR-coded receipt posts to a central system in real time. It replaces paper vouchers carried up to 90km and hand-keyed, on a reconciliation cycle the state's finance minister puts at 30 to 45 days. [Collections at equipped posts are reported up 668.94% in the first quarter of 2026 against 2020, a figure that comes only from the rollout's backers](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem).
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -59,7 +59,7 @@ The connection to the Pan-African Payment and Settlement System is [a target for
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The communications minister restated on 22 July the request that Meta [delay the rollout of WhatsApp usernames](https://www.hiiraan.com/news4/2026/Jul/205760/why_whatsapp_usernames_could_upset_somalias_antiterror_fight.aspx), first made in a regulator statement of 6 July. The stated grounds are impersonation and fraud risk against a mobile-money system carrying about 155m transactions a month worth US$2.7bn, and the loss of phone-number traceability in the campaign against al-Shabab. Somalia is the second country after India to ask for a pause; no response from the platform is on record.
+The communications minister restated on 22 July the request that Meta [delay the rollout of WhatsApp usernames](https://www.hiiraan.com/news4/2026/Jul/205760/why_whatsapp_usernames_could_upset_somalias_antiterror_fight.aspx), first made in a regulator statement of 6 July. [The stated grounds are impersonation and fraud risk against a mobile-money system carrying about 155m transactions a month worth US$2.7bn, and the loss of phone-number traceability in the campaign against al-Shabab](https://www.hiiraan.com/news4/2026/Jul/205760/why_whatsapp_usernames_could_upset_somalias_antiterror_fight.aspx). Somalia is the second country after India to ask for a pause; no response from the platform is on record.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

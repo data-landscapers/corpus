@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: GHA
 ledger_rows: 84
 not_held: 9
-record: 0437a03daba7
+record: 2e7d039ff308
 ---
 
 # Ghana: monthly update, July 2026
@@ -23,14 +23,12 @@ Two regulatory clocks started in July. The identity regulator gave institutions 
 ### Connectivity
 
 <!-- narrative: infrastructure--infra-connect -->
-The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) answered sixty written queries from four prospective applicants, formally amended the request for applications in seven places, and shifted every subsequent date by 21 days, with licence fees now due 17 November. It refused any extension to the 70% population coverage obligation of 6 March 2027 while confirming that obligation is band- and technology-neutral and can be met in substantial part from existing deployment. It also rewrote the dominant operator's rural schedule from licence-relative years into fixed dates of December 2029, 2032 and 2035, expressly so that buying spectrum would not accelerate an equivalent existing commitment. And it recharacterised the 40% premium on that operator's reserve prices in writing as a price for attributable value rather than a sanction or a market-power remedy, declining to publish its valuation model during a live assignment.
+The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) answered sixty written queries from four prospective applicants, formally amended the request for applications in seven places, and shifted every subsequent date by 21 days, with licence fees now due 17 November. [It refused any extension to the 70% population coverage obligation of 6 March 2027 while confirming that obligation is band- and technology-neutral and can be met in substantial part from existing deployment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf). It also rewrote the dominant operator's rural schedule from licence-relative years into fixed dates of December 2029, 2032 and 2035, expressly so that buying spectrum would not accelerate an equivalent existing commitment. [And it recharacterised the 40% premium on that operator's reserve prices in writing as a price for attributable value rather than a sanction or a market-power remedy, declining to publish its valuation model during a live assignment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
 <!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-The country's largest data-centre campus by committed capacity entered the record on 28 July at [30 MW designed for expansion to 150 MW](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/), through a regional trade round-up with no Ghanaian primary behind it.
-
-The same 29 July announcement reaffirmed the US$250m AI compute centre approved in April. Sixteen weeks after Cabinet approval, the compute centre has no site, contractor or procurement notice.
+The country's largest data-centre campus by committed capacity entered the record on 28 July at [30 MW designed for expansion to 150 MW](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/), through a regional trade round-up with no Ghanaian primary behind it. [The same 29 July announcement reaffirmed the US$250m AI compute centre approved in April](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/). Sixteen weeks after Cabinet approval, the compute centre has no site, contractor or procurement notice.
 <!-- /narrative -->
 ### Energy
 
@@ -163,7 +161,7 @@ The education council completed a revised basic-education curriculum adding codi
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-Training capacity was the month's activity. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day.
+Training capacity was the month's activity. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/).
 <!-- /narrative -->
 
 ## Finance

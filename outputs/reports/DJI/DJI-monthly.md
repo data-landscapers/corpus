@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: DJI
 ledger_rows: 17
 not_held: 10
-record: bfe52e74eb67
+record: 6d38932be6e6
 ---
 
 # Djibouti: monthly update, July 2026
@@ -65,7 +65,7 @@ The same 23 July account reports [birth, marriage and death archives being digit
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-On 2 August 2026 the Secrétariat général du Gouvernement and UNDP [signed a letter of accord to digitise the SGG's paper archives](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/) — indexing, scanning, capacity building for national teams, and secure backup at the ANSIE data centre. It follows a state-funded programme running since 2023 which the parties report has transferred several thousand archive boxes to the National Archives and produced over 200,000 secured digital files for the Presidency. From September 2026 it extends to the audit and integrity institutions — the Chambre des Comptes, the two financial inspectorates, the anti-corruption commission, the public accounts directorate and the human-rights commission. The accord's text, value and duration are not stated.
+On 2 August 2026 the Secrétariat général du Gouvernement and UNDP [signed a letter of accord to digitise the SGG's paper archives](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/) — indexing, scanning, capacity building for national teams, and secure backup at the ANSIE data centre. [It follows a state-funded programme running since 2023 which the parties report has transferred several thousand archive boxes to the National Archives and produced over 200,000 secured digital files for the Presidency](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/). From September 2026 it extends to the audit and integrity institutions — the Chambre des Comptes, the two financial inspectorates, the anti-corruption commission, the public accounts directorate and the human-rights commission. The accord's text, value and duration are not stated.
 <!-- /narrative -->
 
 ## Governance and regulation

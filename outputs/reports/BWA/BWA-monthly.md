@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: BWA
 ledger_rows: 22
 not_held: 11
-record: e52634c13ee6
+record: 772352240969
 ---
 
 # Botswana: monthly update, July 2026
@@ -110,7 +110,7 @@ The heads of agreement behind the data centre are unchanged, and the [operator's
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-Two school digital centres were handed over in the North West District on 22 and 23 July, at [P1.45m and P1.5m per site with thirty machines each](https://dailynews.gov.bw/news-detail/92351). They are financed by the universal access and service fund, which draws a 1% levy on mobile service providers; no programme total, annual allocation or school target has been published, and the per-site cost remains the only figure on the record. The base carried nothing on the fund's school programme before January 2026, so the two handovers are the whole of what is known about its delivery.
+Two school digital centres were handed over in the North West District on 22 and 23 July, at [P1.45m and P1.5m per site with thirty machines each](https://dailynews.gov.bw/news-detail/92351). [They are financed by the universal access and service fund, which draws a 1% levy on mobile service providers](https://dailynews.gov.bw/news-detail/92351); no programme total, annual allocation or school target has been published, and the per-site cost remains the only figure on the record. The base carried nothing on the fund's school programme before January 2026, so the two handovers are the whole of what is known about its delivery.
 <!-- /narrative -->
 ### Training and skills
 

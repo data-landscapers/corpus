@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: SSD
 ledger_rows: 17
 not_held: 12
-record: fe3dc815731e
+record: c553ea928a45
 ---
 
 # South Sudan: monthly update, July 2026
@@ -89,5 +89,5 @@ The cost of connection rose for the second time in two months when the [second p
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-On 30 July the Central Equatoria state ministry of information [announced a Digital Innovation for Skills and Knowledge programme](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/): three digital skills centres in Juba and Yei training more than 8,000 people, put by the state information minister at 5,000 residents and 3,000 civil servants. The implementing partner put the budget at US$2,806,100. No financier, signed commitment or start date was named.
+On 30 July the Central Equatoria state ministry of information [announced a Digital Innovation for Skills and Knowledge programme](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/): three digital skills centres in Juba and Yei training more than 8,000 people, put by the state information minister at 5,000 residents and 3,000 civil servants. [The implementing partner put the budget at US$2,806,100](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/). No financier, signed commitment or start date was named.
 <!-- /narrative -->

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: UGA
 ledger_rows: 48
 not_held: 16
-record: 8e7c53147ee2
+record: d52b91e71653
 ---
 
 # Uganda: monthly update, July 2026
@@ -135,7 +135,7 @@ The United States health-data memorandum is now held, and it is not the instrume
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-A tower company [remitted UGX 20.9 billion to the universal service fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), its statutory 2% of gross annual revenue, at a handover reported on 31 July. The regulator's executive director stated at the same event that half of that 2% goes to the Consolidated Fund and only half is retained to finance the fund, and put cumulative programme reach at laboratories in more than 1,000 public secondary schools. The period the payment covers was not published.
+A tower company [remitted UGX 20.9 billion to the universal service fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), its statutory 2% of gross annual revenue, at a handover reported on 31 July. [The regulator's executive director stated at the same event that half of that 2% goes to the Consolidated Fund and only half is retained to finance the fund, and put cumulative programme reach at laboratories in more than 1,000 public secondary schools](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/). The period the payment covers was not published.
 <!-- /narrative -->
 ### Access to services
 

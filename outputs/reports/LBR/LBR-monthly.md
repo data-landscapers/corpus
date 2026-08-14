@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: LBR
 ledger_rows: 26
 not_held: 8
-record: 2bc2f8a70dab
+record: 770ecd29ae4e
 ---
 
 # Liberia: monthly update, July 2026
@@ -90,7 +90,7 @@ On 30 July the Anti-Corruption Commission [confirmed it had forwarded a complain
 ### Open data
 
 <!-- narrative: governance--data-open -->
-The telecoms regulator's chairman declined at a 30 July press briefing to disclose the Authority's revenue, [saying he reports to the President](https://www.liberianobserver.com/news/lta-s-revenue-secrecy-raises-transparency-questions/article_74b3f662-6af5-4871-8ec9-656979942bd1.html). The Authority publishes industry data — its 2025 mid-year report puts the two operators' combined revenue at US$96.1m for the first half of 2025 against US$79.8m a year earlier — but its own licensing fees, spectrum charges, levies and numbering receipts remain unpublished as at 4 August 2026.
+The telecoms regulator's chairman declined at a 30 July press briefing to disclose the Authority's revenue, [saying he reports to the President](https://www.liberianobserver.com/news/lta-s-revenue-secrecy-raises-transparency-questions/article_74b3f662-6af5-4871-8ec9-656979942bd1.html). [The Authority publishes industry data — its 2025 mid-year report puts the two operators' combined revenue at US$96.1m for the first half of 2025 against US$79.8m a year earlier — but its own licensing fees, spectrum charges, levies and numbering receipts remain unpublished as at 4 August 2026](https://www.liberianobserver.com/news/lta-s-revenue-secrecy-raises-transparency-questions/article_74b3f662-6af5-4871-8ec9-656979942bd1.html).
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

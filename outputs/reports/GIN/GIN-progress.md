@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-14
 place: GIN
 ledger_rows: 93
 not_held: 13
-record: 6964ef43e48e
+record: dd49958a054a
 ---
 
 # Guinea: progress report, 2025-08-01 to 2026-08-14
@@ -289,7 +289,7 @@ Training capacity gained a private campus with [Holberton Guinée in July 2026](
 | Visa-Guinea central bank memorandum | Did not exist | [In discussion; nothing signed on record](https://techreviewafrica.com/news/4892/visa-engages-guinea-on-digital-payments-to-accelerate-financial-sector-transformation) | Advanced |
 
 <!-- narrative: finance -->
-The window's one dated, referenced financing figure is the [US$60m credit behind WARDIP, named as IDA Credit No. 74440GN in the July 2026 tender](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf) that opened the RETSSM rescue consultancy. No domestic budget appropriation line is held at either end of the window.
+[The window's one dated, referenced financing figure is the [US$60m credit behind WARDIP, named as IDA Credit No](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf). 74440GN in the July 2026 tender](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf) that opened the RETSSM rescue consultancy. No domestic budget appropriation line is held at either end of the window.
 <!-- /narrative -->
 
 ## Where the record is thin

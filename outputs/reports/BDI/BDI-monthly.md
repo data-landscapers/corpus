@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: BDI
 ledger_rows: 23
 not_held: 10
-record: a48c5f28b8e8
+record: db5f109a5ca7
 ---
 
 # Burundi: monthly update, July 2026
@@ -71,7 +71,7 @@ Vietnam's science and technology ministry [received Burundi's governing-party se
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-On 24 July the consumer association ABUCO [told Iwacu that months of complaints describe subscribers enrolled in paid value-added services without their knowledge and with no notification](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/), some losing 3,000 to 10,000 Burundian francs a day; its president cites over 40,000 francs taken as such charges across about three months from November 2025. ARCT issued injunctions to Lumitel on 29 May 2026 requiring genuinely voluntary subscription and prior notification; Lumitel maintains nothing activates without a customer's deliberate action; ABUCO reports no significant improvement since, and no sanction is on file. The new data-protection law's central mechanism is consent, and no role for the authority it creates is reported here.
+On 24 July the consumer association ABUCO [told Iwacu that months of complaints describe subscribers enrolled in paid value-added services without their knowledge and with no notification](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/), some losing 3,000 to 10,000 Burundian francs a day; [its president cites over 40,000 francs taken as such charges across about three months from November 2025](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/). ARCT issued injunctions to Lumitel on 29 May 2026 requiring genuinely voluntary subscription and prior notification; Lumitel maintains nothing activates without a customer's deliberate action; ABUCO reports no significant improvement since, and no sanction is on file. The new data-protection law's central mechanism is consent, and no role for the authority it creates is reported here.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
