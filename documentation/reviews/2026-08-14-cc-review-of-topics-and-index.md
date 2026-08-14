@@ -97,3 +97,17 @@ Two smaller things fixed in passing, both in `c31e06d`: RENDER Step 2's abort me
 **What is left, and it is the first thing tomorrow:** `python scripts/build-index.py` in an OSINT session. Until it runs, every Corpus render or check that resolves a citation exits with `ForeignIndex` — correctly, because the index on disk is missing 3,402 files and Corpus may not rebuild it. `BUILD.md`'s prerequisites now say so.
 
 Not reviewed, and untouched: `STATUS-INIT.md`, at Bill's instruction.
+
+## Afterword — the dependency was optional all along
+
+Bill, reading the above: *"I don't like this OSINT dependency. CORPUS can read anything in OSINT. what is the need for index"*. He was right, and the finding above is only half the story.
+
+An index is a **cache of a tree Corpus can already read in full** — 12,588 files of `raw/` and `wiki/`, walked in five seconds. Nothing about it needed to be OSINT's copy of the file. Sharing it bought Corpus one skipped rebuild per run and cost it a build that could be stopped dead by a maintenance step it is forbidden to perform, which is the worst trade in the repo: the coupling ran the wrong way down the dependency, from the derived view back into the store of record.
+
+So `index/` is no longer junctioned. With no link, `INDEX_DIR` resolves to a real directory inside the gitignored workroot, Corpus builds and owns its index, `_assert_own_index()` is satisfied by construction, and `ensure_fresh()` may rebuild whenever `raw/` or `wiki/` moves — because now it is rebuilding Corpus's own file. `python scripts/report-render.py --unit KEN --check` passes G, I, J, L and M against it, and the catalogue it produces is the committed one to the record: 9,407 records, 9,404 with a URL.
+
+That also **reverses the fix above it, which is the better outcome.** Junctioning all eight `INDEX_ROOTS` was the right answer to the question "how do we agree with OSINT's index"; the right answer to "why are we reading OSINT's index" makes the question disappear. `INDEX_ROOTS` in Corpus's `vault_lib` is now `("raw", "wiki")` — what Corpus actually reads — and the workroot junctions three directories instead of nine. Each junction is a directory of OSINT's exposed to a process that can write, so a shorter list is a smaller boundary surface, and `setup_workroot()` now withdraws any link it no longer names rather than leaving it in place.
+
+**One of those six was already a live hazard.** `finance-compile-scope.py` writes its state to `ROOT/reviews/finance-compile-state.json`. Run from the workroot with `reviews/` junctioned — which it was, for four commits this evening — `--commit` would have written that file **into `C:\OSINT\reviews\`**. Nothing invokes the script and neither runbook names it, so nothing had; the file sitting in OSINT today is OSINT's own, from before the script was ported. It is the concrete case for keeping the junction list to what a stage reads: the boundary is not only what the code intends to write, it is what the paths make reachable.
+
+The residue is a note for tomorrow rather than a change: `finance-compile-scope.py` is OSINT-shaped code sitting in Corpus's `scripts/` (its docstring cites OSINT's task 22, its state path assumes OSINT's tree), alongside `pull.py` and `test_pull.py`, which the 2026-08-14 BUILD review already flagged as retired-but-present. None is invoked by either runbook. They should be retired or repointed, and until they are, each is a script that behaves differently depending on which root it is run from.
