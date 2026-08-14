@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: CIV
 ledger_rows: 50
 not_held: 10
-record: 09a7121c9ffc
+record: 7bd0b064bdcc
 ---
 
 # Cote d'Ivoire: monthly update, July 2026
@@ -28,7 +28,7 @@ A low-orbit satellite operator [went live by 17 July](https://mybroadband.co.za/
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-_(narrative not yet written)_
+The national data centre was [formally authorised at US$170m of United States export-credit financing, its scope now a sovereign data centre, a government digitisation platform and a smart-border surveillance system](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) — up from the US$66m approved in August 2025, with no site, capacity or completion date stated. The operating commercial facility at Grand-Bassam is unchanged at a design capacity of about 400 racks and 1.5 MW, while its [group committed capital rose to US$380m and contracted power across a six-country footprint ran six times higher in the first half of 2026 than a year earlier](https://tech.africa/raxio-380m-committed-capital/) — group figures, not Ivorian ones.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -56,7 +56,7 @@ A private schools federation signed a convention on 21 July putting fee collecti
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-_(narrative not yet written)_
+Civil-registry software is [installed with hardware in every municipal and sub-prefecture civil-status centre for digital recording of births, marriages and deaths, financed by the European Union](https://www.aip.ci/cote-divoire-aip-digitalisation-de-letat-civil-les-sous-prefets-du-goh-mobilises-pour-accompagner-la-reforme-de-loneci/). Supervision is assigned to sub-prefects rather than to registrars, and the reform is framed as anti-fraud rather than as access.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -69,7 +69,7 @@ All 39 first-instance tribunals were [connected to the justice platform on 29 Ju
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-_(narrative not yet written)_
+The cyber-security agency is [operating a national security operations centre, a public-administration security-officer network, the national public key infrastructure and auditor certification against the state reference framework](https://fr.apanews.net/technologies/rci-lanssi-lance-la-pki-pour-une-souverainete-numerique/), resting on the 2013 electronic transactions law whose 2014 and 2016 implementing decrees are the stated legal basis for that infrastructure — the only Ivorian digital statute the base can name implementing decrees for. Against that, [no Ivorian artificial-intelligence statute is published](https://cipit.strathmore.edu/wp-content/uploads/2026/07/AIIPin-Africa-Final.pdf): governance runs entirely through non-binding strategy instruments, with the draft cybersecurity strategy the only binding-track vehicle extending state scope to it.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -125,7 +125,7 @@ A guarantee arrangement was the month's only committed money in this section. Tw
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
-_(narrative not yet written)_
+The national education digitalisation project stands at [six of eight components complete with the technical and financial agreement still unsigned](https://techreviewafrica.com/news/6174/cote-divoire-education-minister-discusses-education-digitalization-project-with-partners). No cost, financier or component list is published: the project is described only by its stage count.
 <!-- /narrative -->
 ### Training and skills
 

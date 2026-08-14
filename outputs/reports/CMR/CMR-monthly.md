@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: CMR
 ledger_rows: 30
 not_held: 8
-record: 9a05136c8858
+record: 6bdef45c564d
 ---
 
 # Cameroon: monthly update, July 2026
@@ -34,7 +34,7 @@ The same account records the [2024 customs circular on satellite terminals still
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-
+A [fourth loan tranche of FCFA 39.2bn for intelligent urban video surveillance was authorised by decree](https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveillance-urbaine/), bringing FCFA 150.8bn mobilised over eight years across three Chinese lenders. The first phase's borrower was the defence ministry, and the two accounts held give different amounts and dates for it. No camera count, coverage area, retention rule or oversight arrangement is published for any tranche.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -62,7 +62,7 @@ The [national civil-status registry platform was reported deployed in pilot coun
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-_(narrative not yet written)_
+Health and education information systems both gained instruments and neither reports a deliverable. A [EUR 8m technical-assistance agreement over 36 months covers the education management information system, the basic-education ministry's mapping platform, interconnection of the education databases and dynamic dashboards](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base); the funder is not stated and the signature date is not published. The [national digital health strategic plan launched on 4 March with an envelope of about FCFA 29bn across eight axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/), and a [pandemic preparedness project was launched](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) with no deliverable reported.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
@@ -72,7 +72,7 @@ The same seminar put council digitisation at [230 councils, about 64% nationally
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-_(narrative not yet written)_
+The fourth population and agriculture census is still in the field: a [complementary enumeration period runs from 1 August to 15 September to reach households, persons and agricultural holdings missed by the 29 May close](https://www.cameroon-tribune.cm/article.html/79313/en.html/details_2). Enumeration ran with [32,059 agents at a budget of FCFA 13.28bn against FCFA 64bn initially projected](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/), and no results are published. It is the first census in over twenty years, with population and agriculture merged into one questionnaire.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -85,7 +85,7 @@ An account of 27 July set out where the satellite licence stands: a [draft conce
 ### Open data
 
 <!-- narrative: governance--data-open -->
-
+A national open-data policy is [provided for in the artificial-intelligence roadmap and nothing is published](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/). It was [not among the ten priority areas tabled to cabinet on 30 July](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy).
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
