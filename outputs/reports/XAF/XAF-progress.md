@@ -3,16 +3,16 @@ title: Africa — progress report, 2025-08-01 to 2026-08-14
 compiled: 2026-08-14
 period: 2025-08-01 to 2026-08-14
 place: XAF
-ledger_rows: 63
+ledger_rows: 64
 not_held: 3
-record: 44c1284cd831
+record: e11101ec72d8
 ---
 
 # Africa: progress report, 2025-08-01 to 2026-08-14
 
 *Compiled 2026-08-14 from the Data Landscapers source base. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 63 bodies, instruments and systems on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-14, 10 did not, 16 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 64 bodies, instruments and systems on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-14, 10 did not, 17 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 918 sources for this place in the window — 173 in the earlier half (2025-08 to 2026-01), 745 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -157,6 +157,12 @@ Under the AfCFTA, state parties [adopted eight calls to action](https://www.biom
 | IGAD SDMX regional statistical-systems capacity-building programme | Did not exist | [Outcome stated as harmonised SDMX Data Structure Definitions and a long-term roadmap institutionalising SDMX across IGAD and its member states under Open Data Portal 2.0; no budget, adoption date or roadmap milestone published](https://igad.int/igad-convenes-capacity-building-programme-to-strengthen-regional-statistical-systems-through-sdmx/) | Advanced |
 | SADX (Smart Africa Data Exchange) | Did not exist | [Unveiled at Conakry on 2025-11-12 and taken into a technical mission with Rwanda, Benin and Ghana on trust chains, interface contracts and incident response; no live exchange held](https://techreviewafrica.com/news/5165/) | Advanced |
 | AfCFTA Customs Modernisation Project | ***Baseline not held*** | [A public-private partnership under which Bergmans Security Consultants and Supplies Limited mobilises the financing for customs digital solutions, secure electronic exchange of customs information, coordinated border management, One Stop Border Posts, transit systems, electronic cargo tracking, non-intrusive inspection technology, integrated data centres, multilingual customs portals, risk management and data analytics across participating State Parties; the agreement builds on a memorandum of understanding concluded in July 2026 and nothing is recorded as deployed](https://au-afcfta.org/2026/08/afcfta-secretariat-and-bergmans-sign-us-3-1-billion-concession-agreement-for-customs-modernisation/) | ***Baseline not held*** |
+
+### Digital Identity and CRVS
+
+| Body, instrument or system | At 2025-08-01 | At 2026-08-14 | Movement |
+|---|---|---|---|
+| APAI-CRVS (Africa Programme on Accelerated Improvement of Civil Registration and Vital Statistics) | ***Baseline not held*** | [The 2017-2026 decade is closing and a 2027-2036 phase is opening; the African eCRVS Shared Asset (ACSA) is named as the shared continental standard intended to cut fragmented digital procurement across country systems, and Equatorial Guinea's Justice Ministry timed a free registration campaign for children aged 0-5 (10-14 August 2026) to the decade's close. No AU statement of the new phase's content, financing or targets is held](https://www.graphic.com.gh/features/opinion/building-africas-architecture-of-visibility-the-next-crvs-decade.html) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
