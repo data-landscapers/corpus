@@ -12,3 +12,4 @@ title: Corpus process log
 2026-08-14 09:36 · build · compiled: judged against new record: digest — a file-vs-render diff missed hand-written narrative · revert: 7e76d41
 2026-08-14 09:52 · build · no issue closed to new evidence: step 4 re-cuts the period a late as_at falls in; BUILD stated as author not transcriber · revert: 04870e7
 2026-08-14 09:59 · build · monthly/progress filenames drop the month; same_issue() guards narrative carry-across and period read-back · revert: b7412d3
+2026-08-14 10:06 · build · progress carries narrative across the roll (11/12 months shared); monthly still starts empty · revert: 3885650
