@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: MUS
 ledger_rows: 28
 not_held: 9
-record: e059628623a7
+record: 332614c7e8d2
 ---
 
 # Mauritius: monthly update, July 2026
@@ -120,5 +120,5 @@ The summit's other announcements differ in kind. The [Amazon memorandum was exec
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->
-
+The 2026-2027 budget's tax and revenue measures as enacted are not held. Three fetch paths into the [National Assembly's bills library](https://lexpress.mu/node/560855) returned an HTML shell rather than the 128-page Finance Bill: the library is script-rendered and exposes no static file path, so acquiring it needs a browser rather than an automated fetch. Nothing in this window changed that.
 <!-- /narrative -->

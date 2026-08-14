@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: CAF
 ledger_rows: 13
 not_held: 19
-record: 17fe263a2be9
+record: 857f82ad553e
 ---
 
 # Central African Republic: monthly update, July 2026
@@ -65,7 +65,7 @@ The statistics institute [deployed enumerator teams nationwide on 20 July, openi
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+The cybersecurity and cybercrime law is unchanged in text and was [named by a commentator in July as the instrument now used against online content](https://corbeaunews-centrafrique.org/des-reseaux-sociaux-a-lintelligence-artificielle-comment-la-vitesse-de-la-technologie-panique-le-regime-obsolete-de-bangui/). That is an opinion column rather than a record of prosecutions, and the statute's own text is still not held.
 <!-- /narrative -->
 ### Regional collaboration
 

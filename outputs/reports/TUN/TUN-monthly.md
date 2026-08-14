@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: TUN
 ledger_rows: 24
 not_held: 9
-record: 5c526d82883a
+record: f1b721175569
 ---
 
 # Tunisia: monthly update, July 2026
@@ -80,7 +80,7 @@ A [Japanese-financed triangular programme was signed](https://www.lapresse.tn/20
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-
+No legal basis is held for the linked national health dataset — no decree, ministerial order or data-sharing instrument stating the basis, retention rule and supervisory authority for a dataset joining health, civil-status, social-affairs and education records. The [ministry asserts only that the data is stored confidentially and securely](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). An assurance about storage is not an authority to link.
 <!-- /narrative -->
 ### Open data
 

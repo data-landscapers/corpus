@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: GNB
 ledger_rows: 3
 not_held: 1
-record: 08a3157bbb1e
+record: 2926ae62f67f
 ---
 
 # Guinea-Bissau: monthly update, July 2026
@@ -31,7 +31,7 @@ Two developments were recorded between 1 July and 11 August 2026. [The Instituto
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+The digital integrity law was [passed unanimously with amendments by the transitional parliament on 21 May, framed by the government spokesman as targeting those who spread hate and act against the State](https://ultimahoragb.com/2026/05/23/cnt-aprova-a-lei-de-integridade-digital-para-travar-falsas-informacoes-e-atingir-cidadaos-que-destilam-o-odio-no-pais/), with enforcement mechanisms, including for citizens abroad, left unstated. Its publication and in-force dates are unconfirmed. It was [first invoked on 21 July by the communications ministry over a false claim that TikTok was being shut down in the country](https://ang.gw/ministerio-da-comunicacao-social-considera-de-falsas-informacoes-sobre-encerramento-de-tik-tok-no-pais/) — the first use the base records, and it is the state correcting a claim about itself.
 <!-- /narrative -->
 ### Regional collaboration
 

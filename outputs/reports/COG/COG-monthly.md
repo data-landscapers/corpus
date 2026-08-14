@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: COG
 ledger_rows: 31
 not_held: 12
-record: a1a4c2567883
+record: f8a1d5360776
 ---
 
 # Congo: monthly update, July 2026
@@ -27,7 +27,7 @@ A ministerial adviser published a [digital roadmap of five ambitions and nine pr
 ### Connectivity
 
 <!-- narrative: infrastructure--infra-connect -->
-
+Two positions describe the same weakness from either end. The country has [relied on one submarine cable since 2012, with a switch to another announced as three weeks away after weeks of outages](https://www.connectingafrica.com/connectivity/congo-wants-to-connect-to-new-cable-amidst-wacs-failures) — six months on, no source confirms any new cable carrying traffic. Behind it, [mobile backhaul spectrum fees run at about 5% of operators' total revenue against a sub-Saharan median of 0.5%](https://techafricanews.com/2026/07/16/why-connecting-rural-congo-costs-three-times-more-than-it-should/), alongside delayed spectrum assignments and technology-neutrality restrictions. Backhaul is the default rural link where fibre does not reach, so the premium falls hardest where coverage is weakest, and no regulatory response is on file.
 <!-- /narrative -->
 ### Data Storage
 

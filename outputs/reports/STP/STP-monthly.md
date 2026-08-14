@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: STP
 ledger_rows: 9
 not_held: 13
-record: 725ec9ca9c9b
+record: 5d0c95d9d5c5
 ---
 
 # Sao Tome and Principe: monthly update, July 2026
@@ -41,7 +41,7 @@ Eight rows moved between 1 July and 11 August 2026. The National Electoral Commi
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-
+São Tomé and Príncipe was one of six countries at the [second Lusophone Africa data governance workshop, held in Luanda from 15 to 17 June with an implementation focus — data centres, cloud, interoperability, digital public infrastructure and institutional governance](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda). No São Toméan national content from the workshop is detailed, so what the country took from it is not established.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

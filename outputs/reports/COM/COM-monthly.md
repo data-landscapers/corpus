@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: COM
 ledger_rows: 8
 not_held: 31
-record: 209487379086
+record: c459fd56aaa3
 ---
 
 # Comoros: monthly update, July 2026
@@ -36,7 +36,7 @@ The Registre social unique (RSU) reported [62,000 households enrolled as of 10 J
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-
+The statistics institute ran a [sensitisation campaign across the archipelago's governors, prefects, mayors and village chiefs and held a five-day donor-funded training-of-trainers workshop on survey methodology, questionnaire design and electronic data-collection tools](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html), ahead of the annual agricultural survey's rollout. It follows the second general agricultural census, whose results were published in April, and no first survey round or results date is on record. The source dates the workshop inconsistently with its own reference to the previous week, so only the campaign's dates are internally reliable.
 <!-- /narrative -->
 
 ## Governance and regulation

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: BDI
 ledger_rows: 23
 not_held: 10
-record: 6893fd222cba
+record: a48c5f28b8e8
 ---
 
 # Burundi: monthly update, July 2026
@@ -43,7 +43,7 @@ EAC central bank governors, meeting in July 2026 as the Monetary Affairs Committ
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-
+Biometric civil registration is [operating in 13 pilot communes, decentralised to zone level and interoperable with health-facility birth and death records, with a national unique identifier planned on fingerprint and facial biometrics](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative). It is being built onto a base that already reaches most children: [84% of under-fives are registered at birth and 66% hold a birth certificate](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-l-etat-civil-se-numerise-pour-renforcer-l-identite-des-citoyens), cited by government on Africa Civil Registration Day. The gap between the two figures is the one the platform has to close.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

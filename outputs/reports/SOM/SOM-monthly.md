@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: SOM
 ledger_rows: 13
 not_held: 10
-record: fbb3c8e5b113
+record: 60352fc7d2e1
 ---
 
 # Somalia: monthly update, July 2026
@@ -41,7 +41,7 @@ On 26 July the Central Bank set out how the instant payment system is to reach t
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-
+A [national single window is named as planned within a regional trade project, alongside a trade information portal and the existing customs and livestock traceability systems it is to connect to](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx). It is stated in an agenda piece by the national trade facilitation coordinator rather than in an instrument, and no design, timetable or budget is published.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: SWZ
 ledger_rows: 26
 not_held: 9
-record: 8802bb087035
+record: 780450f892d2
 ---
 
 # Eswatini: monthly update, July 2026
@@ -107,7 +107,7 @@ Domestically, [Letshego Eswatini set out plans to expand digital banking to the 
 ### US / hyperscaler activities
 
 <!-- narrative: ai-tech--geopol-usa -->
-_(narrative not yet written)_
+The [partnership with the cloud provider is operating and publicly acknowledged, with the government services application showcased at the provider's Africa summit](https://www.insidebiz.co.sz/eswatini-partners-with-google-to-drive-digital-transformation/). No value or term is published, so what the state has committed to, and for how long, is not established.
 <!-- /narrative -->
 ### Gulf/UAE activities
 
