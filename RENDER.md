@@ -52,12 +52,24 @@ Durable path (do later): in `scripts/render.py`, `scripts/home.py`, `scripts/cou
 **Render everything. RENDER does not judge its input** *(Bill, 2026-08-13)*. Whether a document is fit to publish is BUILD's responsibility — BUILD.md § Narrative integrity — and a render that second-guesses it is a second, weaker copy of that judgement in the wrong place.
 
 ```bash
-for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress-*.md upstream/reports/*/*-monthly-*.md; do
-  python scripts/render.py "$md" || echo "RENDER FAIL: $md"
+rendered=0; failed=0
+for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress.md upstream/reports/*/*-monthly.md; do
+  [ -e "$md" ] || continue
+  if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
+
+# Coverage assertion: the patterns above must have reached every report document.
+present=$(find upstream/reports -name '*.md' | wc -l)
+echo "rendered $rendered of $present report documents ($failed failed)"
+if [ "$rendered" -ne "$present" ]; then
+  echo "RENDER ABORT: $((present - rendered)) document(s) matched no pattern above — do not deploy"
+  find upstream/reports -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
+fi
 ```
 
-Expect 54 status + 57 progress + 54 monthly = 165 documents, each as HTML and PDF.
+Today that is 54 status + 57 progress + 54 monthly = 165 documents, each as HTML and PDF — but **the assertion is what to trust, not the number**, which moves as units are initialised.
+
+**The count is asserted because a shrinking loop is silent** *(2026-08-14)*. The `|| echo "RENDER FAIL"` above only fires for a document that was *tried* and failed; it says nothing about one the shell never listed. When the monthly and progress filenames dropped their month, the old `*-progress-*.md` and `*-monthly-*.md` patterns stopped matching anything, and the loop would have quietly rendered 54 documents instead of 165 with no error and a zero exit. Step 1's `/MIR` deletes the old filenames in the same run that breaks the match, so there is no second chance to notice. `site/` is not mirrored and not purged, so all 111 monthly and progress pages would have gone on being served at their last-rendered state indefinitely — the same stale-page failure described below, reached by a different route. The assertion enumerates without a pattern, so no future rename can shrink the set in silence.
 
 This replaces an earlier rule that skipped any monthly carrying an unwritten-narrative marker. Skipping was worse than useless: it never retracted what an earlier render had already published, so a withheld document kept its stale page on the site indefinitely — on 2026-08-13, `TCD-monthly` and `TGO-monthly` were still serving pages rendered on 08-11 from markdown the run had deliberately declined to publish.
 
