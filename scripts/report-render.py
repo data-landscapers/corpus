@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-report-render.py — standing. Renders a report from its ledger (`wiki/report-layer.md` §5).
+report-render.py — standing. Renders a report from its ledger (`documentation/report-layer.md` §5).
 
 **The script owns everything outside the narrative markers; the model owns everything inside
 them.** A render rebuilds the front matter, the section tables and the gaps table from
@@ -8,7 +8,7 @@ them.** A render rebuilds the front matter, the section tables and the gaps tabl
 `<!-- narrative: key -->` block across untouched**. That is what makes a format change cost a
 render rather than a redraft.
 
-**Three documents, one ledger** (`wiki/report-layer.md` §1). *Status* renders the current rows,
+**Three documents, one ledger** (`documentation/report-layer.md` §1). *Status* renders the current rows,
 *monthly* renders the rows whose `as_at` falls in the window, *progress* renders `prior_*` against
 current over a window (twelve months by default). All three are derived from the same file by
 slicing it, so the second and third cost a render rather than a second reading of the base — which
@@ -63,7 +63,7 @@ ROOT = vault_lib.ROOT
 REPORTS = os.path.join(ROOT, "outputs", "reports")
 COUNTRIES_CSV = os.path.join(ROOT, "lookups", "countries.csv")
 
-# **One renderer, one profile per report process** (`wiki/report-layer.md` §5). What differs
+# **One renderer, one profile per report process** (`documentation/report-layer.md` §5). What differs
 # between a country report and a region one is its section map, what its object column is called,
 # and which of the three documents it issues — not the rendering. A region issues the **progress
 # report only** for now (`REPORT-REGION.md`); asking for the other two is refused here rather
@@ -90,7 +90,7 @@ BASELINE_NOT_HELD = "Baseline not held"
 NO_CHANGE = "No change"
 MARKER = re.compile(r"<!-- narrative: ([a-z0-9-]+) -->\n(.*?)\n<!-- /narrative -->", re.S)
 
-# The two vocabularies, wiki/report-layer.md §3. They are STEMS: a value may be followed by a
+# The two vocabularies, documentation/report-layer.md §3. They are STEMS: a value may be followed by a
 # comma and a qualifying clause ("Implemented, under appeal"), and check I tests the stem.
 STATUSES = ("Implemented", "Piloting", "In development", "Planned", "Discontinued", "Enacted",
             "Under review", NOT_HELD)
@@ -483,7 +483,7 @@ def render_monthly(unit, today, month, end=None):
     changed = moved_in(ledger, start, end)
     if not changed:
         print(f"{unit} {month}: nil, unchanged — no row moved in the window, so no issue "
-              f"(wiki/report-layer.md §2)")
+              f"(documentation/report-layer.md §2)")
         return 0
     ordered, _ = sections(unit)
     block, keep = blocker(path)

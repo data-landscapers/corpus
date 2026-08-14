@@ -22,7 +22,7 @@ These never clear. They are properties of OSINT the site depends on, recorded so
 
 ## Unresolved
 
-**1** (2026-08-06) — **`REPORT-TOPIC.md` is not written.** It is named in `wiki/report-layer.md` as still to be written, and the site's Topics section cannot launch without it. `REPORT-REGION.md` has since landed, so this is the last of the two. `documentation/design.md` §2.
+**1** (2026-08-06) — **`REPORT-TOPIC.md` is not written.** It is named in `wiki/report-layer.md` as still to be written, and the site's Topics section cannot launch without it. `REPORT-REGION.md` has since landed, so this is the last of the two. `documentation/design.md` §2. — **Superseded 2026-08-14, for Bill to strike.** The report layer moved to Corpus (`prep/osint-migration.md` R1, R7), so the topic layer is Corpus's to write and is no longer OSINT's to action. Carried in `documentation/design.md` §2 and BUILD.md → *Deferred stages*.
 
 **2** (2026-08-06) — **`wiki/capture-rule.md` lines 12–14 say "never republished".** Substantively still true — the claim is about the verbatim bodies in `raw/`, which stay private, and that is what the CDPA s.29 basis rests on. But once a public site exists, a reader who does not already know that distinction will take the site as contradicting the rule. Worth rewording to say the *bodies* are never republished, so the sentence survives the site's existence. Wording, not substance; low priority.
 

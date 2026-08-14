@@ -42,7 +42,7 @@ Decisions taken and not to be re-opened without a reason. Each is a decision Bil
 | Non-state finance | `outputs/non-state-finance/` | Per country, plus `all-nonstate.csv` |
 | Metadata | frontmatter, facets, freshness | Extensive, and part of the offer rather than an afterthought |
 
-One of the seven does not exist yet: `REPORT-TOPIC.md` is named in `wiki/report-layer.md` as still to be written. The site cannot launch the Topics section ahead of it. `REPORT-REGION.md` has since been written.
+One of the seven does not exist yet: the **topic report layer** is unwritten — `documentation/report-layer.md` names it as still to come, and BUILD.md carries it as a deferred stage. The site cannot launch the Topics section ahead of it. The region layer has since been written. *(Since the migration this is Corpus's own gap to close, not OSINT's — it was formerly note 1 in `logs/notes-for-osint.md`.)*
 
 ## 3. Structure
 

@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
 report-register-check.py — standing. Verifies report prose against the register
-(`wiki/report-layer.md` §10) and the word budget (`wiki/report-country-skeleton.md`).
+(`documentation/migration-report-layer.md` → *Corpus editorial register*, and
+`documentation/report-layer.md` §10 for the boundary it does not move) and the word budget
+(`documentation/report-country-skeleton.md`).
 
 **It verifies and never repairs**, the same rule `REPORT-LINT.md` holds to. A hit is not
 automatically a defect — a quoted source may legitimately contain a banned term, and a
@@ -36,8 +38,8 @@ ROOT = vault_lib.ROOT
 REPORTS = os.path.join(ROOT, "outputs", "reports")
 # One skeleton per report process, and the budget is read from it rather than duplicated here —
 # the skeleton is the knob. A region unit is an `X__` code (`REPORT-REGION.md`).
-SKELETONS = {"country": os.path.join(ROOT, "wiki", "report-country-skeleton.md"),
-             "region": os.path.join(ROOT, "wiki", "report-region-skeleton.md")}
+SKELETONS = {"country": os.path.join(ROOT, "documentation", "report-country-skeleton.md"),
+             "region": os.path.join(ROOT, "documentation", "report-region-skeleton.md")}
 
 MARKER = re.compile(r"<!-- narrative: ([a-z0-9-]+) -->\n(.*?)\n<!-- /narrative -->", re.S)
 LINK = re.compile(r"\]\([^)\s]+\)")

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 report-region-init.py — standing. The region report layer's initialisation shell
-(`REPORT-REGION.md` -> Initialisation; the record layer it shells is `wiki/report-layer.md`).
+(`REPORT-REGION.md` -> Initialisation; the record layer it shells is `documentation/report-layer.md`).
 
 **The folder is the state**, exactly as for a country: a region is *initialised* when
 `outputs/reports/{X__}/ledger.csv` has rows and *outstanding* when it does not. The ledger
@@ -186,7 +186,7 @@ def work_order(code, name, slugs, by_place, months, subjects, institutions, secm
         if early == 0 or late / max(early, 1) >= CLIFF_RATIO:
             print(f"  ** COVERAGE CLIFF: {early} sources in the earlier half against {late} in the later.")
             print("     Narrow the window, or say in the document that it is a shorter comparison"
-                  " wearing a longer label (wiki/report-layer.md 7).")
+                  " wearing a longer label (documentation/report-layer.md 7).")
     print(f"  institutions of this region: {len(insts)} — this is the reading list, deepest first")
     for slug, title, n in insts[:TOP_INSTITUTIONS]:
         page = f"wiki/entities/{slug}.md"
@@ -270,7 +270,7 @@ def main():
         else:
             print("  shell: " + os.path.relpath(_rci.create_shell(code), ROOT))
     print("\nNow run REPORT-REGION.md step 3 for each — the institution pages, then what they do not own.")
-    print("Format, register and the drafting contract: wiki/report-region-skeleton.md")
+    print("Format, register and the drafting contract: documentation/report-region-skeleton.md")
     return 0
 
 

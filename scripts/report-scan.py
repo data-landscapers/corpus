@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""report-scan.py — the script gate of REPORT-UPDATE.md.
+"""report-scan.py — the script gate of the report update (BUILD.md stage 4).
 
 Which initialised units hold sources the report pass has not yet looked at.
 

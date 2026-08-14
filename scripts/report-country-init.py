@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 report-country-init.py — standing. The country report layer's initialisation shell
-(`REPORT-COUNTRY.md` -> Initialisation; the record layer it shells is `wiki/report-layer.md`).
+(`REPORT-COUNTRY.md` -> Initialisation; the record layer it shells is `documentation/report-layer.md`).
 
 **The folder is the state.** A place is *initialised* when `outputs/reports/{ISO3}/ledger.csv`
 exists and *outstanding* when it does not — there is no queue file to drift out of step with
@@ -142,7 +142,7 @@ def work_order(code, name, sources, months, subjects, inters, secmap):
         if early == 0 or late / max(early, 1) >= CLIFF_RATIO:
             print(f"  ** COVERAGE CLIFF: {early} sources in the earlier half against {late} in the later.")
             print("     Narrow the window, or say in the document that it is a shorter comparison"
-                  " wearing a longer label (wiki/report-layer.md 7).")
+                  " wearing a longer label (documentation/report-layer.md 7).")
     pages = sorted(inters.get(code, []))
     print(f"  intersection pages: {len(pages)}" + (" — the primary input" if pages else " — none; read the hub's Active topics"))
     for topic, path in pages:
@@ -219,7 +219,7 @@ def main():
         else:
             print("  shell: " + os.path.relpath(create_shell(code), ROOT))
     print("\nNow run REPORT-COUNTRY.md step 3 for each — read the compiled layer, not the hub whole.")
-    print("Format, register and the drafting contract: wiki/report-country-skeleton.md")
+    print("Format, register and the drafting contract: documentation/report-country-skeleton.md")
     return 0
 
 

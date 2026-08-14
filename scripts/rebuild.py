@@ -23,7 +23,7 @@ Stages
                 never has to read outside outputs/ — NOTES-FOR-OSINT #9)
   2. catalogue  raw/ -> outputs/catalogue/{raw-catalogue.csv,json}
   3. finance    raw/ -> outputs/non-state-finance/ + outputs/budgets/ (+ all-nonstate.csv)
-  4. update     REPORT-UPDATE — the ledgers' nightly move. `--scan` here prints the work order
+  4. update     the report update — the ledgers' move. `--scan` here prints the work order
                 (units holding sources the ledger has not considered); the authoring itself is
                 a model stage (see BUILD.md § Report update), which then calls
                 report-scan --mark and report-render.
@@ -104,7 +104,7 @@ def snapshot_vocab():
 
 
 def scan_work_order():
-    """The REPORT-UPDATE gate: which ledgers hold unconsidered sources in raw/.
+    """The report-update gate: which ledgers hold unconsidered sources in raw/.
     Prints the work order; the authoring is the model stage that follows."""
     p = subprocess.run([sys.executable, os.path.join("scripts", "report-scan.py"), "--json"],
                        cwd=WORK, capture_output=True, text=True)
@@ -114,7 +114,7 @@ def scan_work_order():
         print("  (scan produced no JSON)"); print(p.stdout[:400]); return
     work = d.get("work", [])
     total = sum(w["unconsidered"] for w in work)
-    print(f"  {len(work)} units hold {total} unconsidered sources — REPORT-UPDATE authors these")
+    print(f"  {len(work)} units hold {total} unconsidered sources — stage 4 authors these")
     for w in sorted(work, key=lambda w: -w["unconsidered"])[:12]:
         print(f"    {w['unit']}  {w['unconsidered']}")
     if len(work) > 12:

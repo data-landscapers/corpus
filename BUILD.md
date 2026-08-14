@@ -6,7 +6,7 @@ last_reviewed: 2026-08-13
 
 # Job 1 — build the outputs — runbook for Claude Code
 
-*(Hand this to Claude Code in the Corpus repo. Job 1 turns OSINT's evidence into Corpus-owned `outputs/`. Job 2 (`RENDER.md`) then renders `outputs/` into the site. Read `documentation/migration-report-layer.md` first. OSINT is read-only throughout — never write to it.)*
+*(Hand this to Claude Code in the Corpus repo. Job 1 turns OSINT's evidence into Corpus-owned `outputs/`. Job 2 (`RENDER.md`) then renders `outputs/` into the site. Read `documentation/migration-report-layer.md` for the architecture and `documentation/report-layer.md` for the record layer stage 4 works to. OSINT is read-only throughout — never write to it, and read nothing from it but `raw/`, `index/` and `lookups/`.)*
 
 ## The two kinds of work in Job 1
 
@@ -31,12 +31,12 @@ This writes `outputs/catalogue/`, `outputs/non-state-finance/`, `outputs/budgets
 
 ## Stage 4 — report update (the ledgers' move; model authoring)
 
-This is REPORT-UPDATE (`wiki/report-layer.md` in OSINT is the spec; the Corpus register below governs the prose). It reads only the sources the ledger has **not** yet considered — a set difference over slugs, not a date window — so an interrupted run resumes cleanly and nothing is re-read.
+This is the report update. `documentation/report-layer.md` is the spec — Corpus-owned, and the only one; the register below governs the prose. It reads only the sources the ledger has **not** yet considered — a set difference over slugs, not a date window — so an interrupted run resumes cleanly and nothing is re-read.
 
 The work order (from `--all` above, or `python scripts/rebuild.py --scan`) lists each initialised unit and how many unconsidered sources it holds. For **each** such unit:
 
 1. **List the new slugs.** `python scripts/report-scan.py --slugs {ISO3}` (run from `scripts/.workroot/`, which `rebuild.py` sets up). Read each slug's `hub_line`, facets, and body from `raw/` only where the line is not enough.
-2. **Decide per source, against that unit's `outputs/reports/{ISO3}/ledger.csv`** — the four outcomes of `report-layer.md` §1/§3:
+2. **Decide per source, against that unit's `outputs/reports/{ISO3}/ledger.csv`** — the four outcomes (`documentation/report-layer.md` §1 for the row test and columns, §3 for the two closed vocabularies):
    - *moves a row* — a status, milestone, `as_at`, position or figure changed: move the old position into `prior_*`, set `movement`, append the slug to `sources`;
    - *mints a row* — a named system or instrument the ledger lacks, passing the row test (a named object whose position can move — not a topic the news covered);
    - *settles a **Not held** row* — strike it from `gaps.csv`, give it a status;
@@ -47,7 +47,7 @@ The work order (from `--all` above, or `python scripts/rebuild.py --scan`) lists
 
 Commit the moved ledgers, `considered.txt`, `gaps.csv` and re-rendered docs.
 
-**The Corpus register governs the narrative** (not OSINT's §10): light touch, evidence-led, the lens carried mostly by selection, at most one plain connecting sentence per section, no new figures beyond the ledger. Full statement in `documentation/migration-report-layer.md` → *Corpus editorial register*. The evidential spine — tables, dated figures, the *Not held* count — stays exactly as disciplined as OSINT's.
+**The Corpus register governs the narrative**: light touch, evidence-led, the lens carried mostly by selection, at most one plain connecting sentence per section, no new figures beyond the ledger. Full statement in `documentation/migration-report-layer.md` → *Corpus editorial register*. The evidential spine — tables, dated figures, the *Not held* count — stays exactly as disciplined as OSINT's.
 
 ## Narrative integrity — BUILD owns what is fit to publish
 
