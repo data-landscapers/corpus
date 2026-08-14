@@ -43,7 +43,9 @@ The work order (from `--all` above, or `python scripts/rebuild.py --scan`) lists
    - *default: nothing moves* — most sources report activity, not movement. Do **not** attach a slug to a row that did not move.
 3. **Mark every slug read**, moved or not: `python scripts/report-scan.py --mark {ISO3} <slugs>`. (Sources on `origin_status: hold` are dropped by the script, not marked — pass them in regardless.)
 4. **Re-render** the unit's live document: `python scripts/report-render.py --unit {ISO3} --doc status --render` (regions: `--doc progress`).
-5. **Verify** before moving on: `python scripts/report-render.py --unit {ISO3} --check` — check G (every link held in `index/`) must pass; then the register check `python scripts/report-register-check.py --unit {ISO3}` reports, a human rules.
+5. **Verify** before moving on: `python scripts/report-render.py --unit {ISO3} --check` — checks G (every link held in `index/`), I (vocabulary) and **L (no unwritten narrative block)** must all pass; then the register check `python scripts/report-register-check.py --unit {ISO3}` reports, a human rules.
+
+A re-render that changes nothing now leaves the file untouched and prints `unchanged` — `compiled:` is the date the document last changed, not the date the build last ran (`documentation/report-layer.md` §2). A unit that reports `unchanged` for all its documents did no work, which is the normal outcome and not a failure.
 
 Commit the moved ledgers, `considered.txt`, `gaps.csv` and re-rendered docs.
 
@@ -51,12 +53,14 @@ Commit the moved ledgers, `considered.txt`, `gaps.csv` and re-rendered docs.
 
 ## Narrative integrity — BUILD owns what is fit to publish
 
-**No document may leave BUILD carrying `_(narrative not yet written)_`** *(Bill, 2026-08-13)*. Where a narrative block has no prose, BUILD does one of two things, never a third:
+**No document may leave BUILD carrying an unwritten narrative block** *(Bill, 2026-08-13; tightened 2026-08-14)*. Where a narrative block has no prose, BUILD does one of two things, never a third:
 
 - **remove the section**, if there is nothing to say about it; or
 - **write the sentence that explains why there is no suitable narrative** — the ledger holds no movement this period, the evidence is too thin to connect, the place has no rows under this heading. Stating the absence is itself evidence-led reporting, and it is the same discipline as publishing a *Not held* count rather than a silence.
 
-Leaving the marker in place is the third thing, and it is not available. A placeholder is a note-to-self that has escaped into a document a reader may download.
+Leaving the block unwritten is the third thing, and it is **not available under any circumstance**. The renderer no longer mints `_(narrative not yet written)_` — a placeholder is a note-to-self that has escaped into a document a reader may download — and the empty block that replaced it is no more acceptable: it is the same failure with the evidence removed. **Check L fails the unit** (`report-render.py --check`), so this is enforced rather than trusted.
+
+**Empty sections do not arise here at all.** The renderer prints no heading for a section or sub-section with nothing in it, in the monthly and the progress report, so there is no empty box to fill. Only the status report states an absence, and it writes that sentence itself.
 
 **RENDER does not check this and must not.** It renders whatever BUILD produced, because a downstream guard is a second copy of a judgement that belongs here — and one that, when it existed, stopped every render instead of improving a single document. Integrity is maintained where the prose is written, not where it is typeset.
 

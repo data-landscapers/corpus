@@ -36,10 +36,11 @@ Modes:
   --end       YYYY-MM-DD — close the window here rather than at the date of issue. Only for
               re-cutting a document whose printed period is wrong.
   --window    months in the progress window (default 12 — an annual progress report).
-  --check     REPORT-LINT checks G and I over every rendered document in the folder.
+  --check     Checks G, I and L over every rendered document in the folder.
               G: every http(s) URL is held in `index/`. I: no status or movement value outside
               the closed vocabularies, and every ***Not held*** row present in `gaps.csv`.
-              Exits non-zero on a miss. A report that fails G is not published.
+              L: no narrative block left unwritten. Exits non-zero on a miss. A report that
+              fails G is not published; one that fails L is not finished.
 
 Usage:
   python scripts/report-render.py --unit DZA --links
@@ -308,6 +309,18 @@ def period_end(path):
     return None
 
 
+def compiled_date(path):
+    """The compiled date an existing document carries, or None."""
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as fh:
+        for line in fh.read().split("\n")[:12]:
+            m = re.match(r"compiled:\s*(\d{4}-\d{2}-\d{2})\s*$", line)
+            if m:
+                return m.group(1)
+    return None
+
+
 def last_closed_month(today):
     d = datetime.date.fromisoformat(today).replace(day=1) - datetime.timedelta(days=1)
     return d.isoformat()[:7]
@@ -389,12 +402,20 @@ def front(title, today, unit, ledger_rows, not_held, period=None):
 
 
 def blocker(path):
-    """Carry every existing narrative block across by marker id; mint empty ones for the rest."""
+    """Carry every existing narrative block across by marker id; mint empty ones for the rest.
+
+    **An unwritten block is emitted empty, never with placeholder text** *(Bill, 2026-08-14)*.
+    The renderer previously minted `_(narrative not yet written)_`, which is readable prose in a
+    document a reader may download — a note-to-self that had escaped into the deliverable. An
+    empty marker pair says the same thing to a drafter and to `--check`, and says nothing at all
+    to a reader or to the PDF. The condition should not arise in the first place: BUILD does not
+    release a document with an unwritten block (BUILD.md -> Narrative integrity), and `--check`
+    fails on one so that rule is enforced rather than trusted."""
     keep = existing_blocks(path)
 
     def block(key):
         return (f"<!-- narrative: {key} -->\n"
-                f"{keep.get(key, '_(narrative not yet written)_')}\n<!-- /narrative -->")
+                f"{keep.get(key, '')}\n<!-- /narrative -->")
     return block, keep
 
 
@@ -415,9 +436,34 @@ def load(unit):
             read_csv(os.path.join(folder, "gaps.csv")))
 
 
-def write(path, out, unit, note):
+COMPILED_RE = re.compile(r"^(compiled: |\*Compiled )\d{4}-\d{2}-\d{2}", re.M)
+
+
+def _undated(text):
+    """The document with its compiled date masked, for comparing record against record."""
+    return COMPILED_RE.sub(r"\g<1>DATE", text)
+
+
+def write(path, out, unit, note, today=None):
+    """Write the document — but **only stamp a new compiled date if the record changed**
+    *(Bill, 2026-08-14)*.
+
+    `compiled:` has to mean *the date this document last changed*, not *the date the renderer last
+    ran*. Those were the same thing while every render rewrote every file, which put 165 files into
+    every diff and left the date unable to answer the only question it is asked.
+
+    A re-render that changes nothing therefore leaves the file untouched — the old date stands and
+    the mtime does not move. This is `period_end()`'s discipline applied to the other dated field:
+    a render must never make a document look newer than it is."""
+    new = "\n".join(out)
+    if today and os.path.exists(path):
+        old = open(path, encoding="utf-8").read()
+        if _undated(old) == _undated(new):
+            print(f"{unit}: {os.path.relpath(path, ROOT)} unchanged — "
+                  f"compiled date left at {compiled_date(path) or 'unknown'}")
+            return 0
     with open(path, "w", encoding="utf-8", newline="\n") as fh:
-        fh.write("\n".join(out))
+        fh.write(new)
     print(f"{unit}: wrote {os.path.relpath(path, ROOT)} — {note}")
     return 0
 
@@ -466,7 +512,7 @@ def render(unit, today):
         out += ["", "## Gaps to fill", ""] + gaps_table(gaps) + ["", block("gaps")]
     out.append("")
     return write(path, out, unit, f"{len(ledger)} rows, {not_held} not held, "
-                 f"{len(keep)} narrative block(s) carried across")
+                 f"{len(keep)} narrative block(s) carried across", today)
 
 
 def render_monthly(unit, today, month, end=None):
@@ -507,21 +553,23 @@ def render_monthly(unit, today, month, end=None):
     _, tax_label, _ = taxonomy()
     for _, section, key in ordered:
         srows = [r for r in changed if r["section"] == section]
-        out += ["", f"## {section}", ""]
         groups = by_subject(srows)
-        if groups:
-            # One narrative block per subject that actually moved this month, in taxonomy
-            # order — item 4 of the 2026-08-10 report-structure change. A subject the
-            # section maps but that had nothing move gets no sub-heading and no block: the
-            # drafter is not handed an empty box to fill for a topic with no news.
-            for subject, _srows in groups:
-                subkey = f"{key}--{subject.replace('.', '-')}"
-                out += [f"### {tax_label.get(subject, subject)}", "", block(subkey)]
-        else:
-            out.append(block(key))
+        # **A section with nothing in it is not printed at all** *(Bill, 2026-08-14)*. Only the
+        # status report states an absence, because only there is "no rows on this subject" a
+        # finding about the place. In a monthly it is a finding about the window — nothing moved
+        # this month — and a heading over an empty box is what handed the drafter 142 blocks to
+        # fill with nothing. Silence is correct: the monthly reports what moved.
+        if not groups:
+            continue
+        out += ["", f"## {section}", ""]
+        # One narrative block per subject that actually moved this month, in taxonomy order.
+        # A subject the section maps but that had nothing move gets no sub-heading and no block.
+        for subject, _srows in groups:
+            subkey = f"{key}--{subject.replace('.', '-')}"
+            out += [f"### {tax_label.get(subject, subject)}", "", block(subkey)]
     out.append("")
     return write(path, out, unit, f"{len(changed)} row(s) moved in {start} to {end}, "
-                 f"{len(keep)} narrative block(s) carried across")
+                 f"{len(keep)} narrative block(s) carried across", today)
 
 
 def render_progress(unit, today, month, window, end=None):
@@ -599,19 +647,19 @@ def render_progress(unit, today, month, window, end=None):
     rank = {NO_CHANGE: 2, BASELINE_NOT_HELD: 3}
     for _, section, key in ordered:
         rows = [r for r in held if r["section"] == section]
+        # A section with no rows at either end of the window is not printed *(Bill, 2026-08-14)* —
+        # see the note in render_monthly. Only the status report states an absence.
+        if not rows:
+            continue
         out += ["", f"## {section}", ""]
-        if rows:
-            for subject, srows in by_subject(rows):
-                out += [f"### {tax_label.get(subject, subject)}", "",
-                        f"| {prof['object']} | At {start} | At {end} | Movement |",
-                        "|---|---|---|---|"]
-                for r in sorted(srows, key=lambda r: (rank.get(mv(r), 0), r["name"].lower())):
-                    a, b, m = rows_ends[r["row_id"]]
-                    out.append(f"| {r['name']} | {a} | {b} | {mark(m)} |")
-                out.append("")
-        else:
-            out += [f"_The base holds no {section.lower()} rows for {name} with a position at "
-                    f"either end of this window._", ""]
+        for subject, srows in by_subject(rows):
+            out += [f"### {tax_label.get(subject, subject)}", "",
+                    f"| {prof['object']} | At {start} | At {end} | Movement |",
+                    "|---|---|---|---|"]
+            for r in sorted(srows, key=lambda r: (rank.get(mv(r), 0), r["name"].lower())):
+                a, b, m = rows_ends[r["row_id"]]
+                out.append(f"| {r['name']} | {a} | {b} | {mark(m)} |")
+            out.append("")
         out.append(block(key))
     if gaps:
         out += (["", "## Where the record is thin", ""] + gaps_table(gaps, prof["object"])
@@ -619,7 +667,7 @@ def render_progress(unit, today, month, window, end=None):
     out.append("")
     return write(path, out, unit, f"{len(movers)} moved, {len(steady)} no change, "
                  f"{len(unbased)} without a baseline, {not_held} not held, "
-                 f"{len(keep)} narrative block(s) carried across")
+                 f"{len(keep)} narrative block(s) carried across", today)
 
 
 def check(unit):
@@ -639,7 +687,36 @@ def check(unit):
             print("     NOT HELD:", u)
         bad += len(miss)
     print(f"check G: {'PASS' if not bad else 'FAIL — ' + str(bad) + ' link(s) not in index/'}")
-    return (1 if bad else 0) | check_vocab(unit)
+    return (1 if bad else 0) | check_vocab(unit) | check_narrative(unit)
+
+
+def check_narrative(unit):
+    """Check L — no document carries an unwritten narrative block *(Bill, 2026-08-14)*.
+
+    `_(narrative not yet written)_` is not acceptable under any circumstance, and nor is the empty
+    block that replaced it: both mean the same thing, which is that a section was published with
+    nothing said about it. BUILD.md -> Narrative integrity gives the two ways out — remove the
+    section, or write the sentence explaining why there is no narrative — and this is what stops
+    that rule being kept on trust. It is BUILD's check because BUILD owns what is fit to publish.
+
+    It fails rather than reports. An unwritten block is not a judgement call the way a register
+    hit is: there is no reading of it under which the document is finished."""
+    bad = []
+    folder = os.path.join(REPORTS, unit)
+    for fn in sorted(os.listdir(folder)):
+        if not fn.endswith(".md"):
+            continue
+        text = open(os.path.join(folder, fn), encoding="utf-8").read()
+        for m in MARKER.finditer(text):
+            key, body = m.group(1), m.group(2).strip()
+            if not body:
+                bad.append(f"{fn}: narrative block {key!r} is empty")
+            elif "narrative not yet written" in body:
+                bad.append(f"{fn}: narrative block {key!r} still carries the placeholder")
+    for line in bad:
+        print("     ", line)
+    print(f"check L: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' unwritten block(s)'}")
+    return 1 if bad else 0
 
 
 def check_vocab(unit):
