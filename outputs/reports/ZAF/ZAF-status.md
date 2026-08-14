@@ -3,13 +3,13 @@ title: South Africa — digital transformation and data governance status report
 compiled: 2026-08-14
 place: ZAF
 ledger_rows: 95
-not_held: 11
-record: 793f8028663b
+not_held: 19
+record: 99b11252827e
 ---
 
 # South Africa: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ZAF/ledger.csv` (95 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ZAF/ledger.csv` (95 systems and instruments, 19 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -32,7 +32,6 @@ Operation Vulindlela's first-quarter report for 2026/27 states that reform progr
 | Equinix Cape Town land use | [Implemented](https://www.moneyweb.co.za/news/ai/giant-data-centres-get-the-first-green-light-from-cape-town-tribunal/) | Tribunal approval 2026-07-14 |
 | High-demand spectrum auction | [Planned](https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/) | Release quantified by the 2026 National Radio Frequency Plan |
 | IMT Roadmap 2026 and draft assignment plans | [In development](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2) | Consultation opened 2026-07-24 |
-| Innovation spectrum, lower 6GHz | Implemented | Gazetted 2026-05-22 |
 | LEO satellite licensing framework | [Planned](https://pmg.org.za/committee-question/39540/) | Policy direction rejected 2026-05 |
 | National broadband map (DBSA) | [Implemented, not public](https://techcentral.co.za/sa-finally-has-a-broadband-map-and-it-reveals-where-the-gaps-are/279660/) | 2026-03 |
 | National CSIRT (Cybersecurity Hub) | [Implemented](https://www.cybersecurityhub.gov.za/incident-management-process) | Since 2015 |
@@ -43,6 +42,7 @@ Operation Vulindlela's first-quarter report for 2026/27 states that reform progr
 | Satellite market entry via section 13 | [Implemented](https://www.dailymaverick.co.za/article/2026-07-15-herotel-chosen-as-amazon-leo-distributor-in-maziv-race-for-satellite-internet/) | Amazon Leo–Herotel, 2026-07-15 |
 | State Digital Infrastructure Company (network merger) | [Planned](https://techcentral.co.za/state-broadband-merger-limps-into-a-second-decade/280723/) | Deferred to 2028/29 |
 | Data-centre incentive instrument (SEZ, depreciation, grid priority) | ***Not held*** | Signalled 2026-02 |
+| Innovation spectrum, lower 6GHz | ***Not held*** | Gazetted 2026-05-22 |
 
 ### Data Storage
 
@@ -126,21 +126,21 @@ The national CSIRT is the Cybersecurity Hub, set up in 2015 under the National C
 |---|---|---|
 | Batho Pele AI chatbot | [Implemented](https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/) | Launched 2026-07-31 |
 | Digital matric certificate | [Piloting](https://www.itweb.co.za/article/govt-targets-production-ready-mymzansi-platform/GxwQD71DPpgvlPVo) | Integration due 2026-09 |
-| District Health Information System | Implemented | Hosting out to tender 2026-07 |
 | Gauteng online school admissions | [Implemented](https://www.itweb.co.za/article/gp-education-switches-on-2027-online-admissions/LPwQ5MlbeWpvNgkj) | 2027 intake opened 2026-08-05 |
 | IEC digital voter registration (WhatsApp and online portal) | [Implemented](https://techcabal.com/2026/08/07/south-africa-whatsapp-voter-registration/) | WhatsApp channel launched 2026-08-04 |
 | Minimum Interoperability Standards and GWEA | [In development](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf) | Update due 2026-09 |
 | MyMzansi single citizen application | [Piloting](https://www.itweb.co.za/article/govt-targets-production-ready-mymzansi-platform/GxwQD71DPpgvlPVo) | Stable platform due 2026-09 |
 | National Health Insurance information architecture | [Implemented](https://www.health.gov.za/wp-content/uploads/2022/10/HNSF_Gazette_21_October_2022.pdf) | Gazetted as the 2021 HNSF, GN 2667, 2022-10-21 |
 | National payment code standard (QR+) | [Implemented](https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a) | v1.2, eight-bank cohort, 2026-07 |
-| Non-bank payment service provider licensing | Planned | NPS Act amendment pending |
-| Online Verification Service | Implemented | Fee under review litigation |
+| Online Verification Service | [Implemented](https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost) | Fee under review litigation |
 | PayShap | [Implemented](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/) | Standard gazetted 2026-07 |
-| SAMOS real-time gross settlement | Implemented | Since 1998 |
 | Smart ID and bank-branch channel | [Implemented](https://www.sanews.gov.za/south-africa/home-affairs-announces-absa-joining-banking-sector-provide-smart-ids) | 372 branches, 2026-08-05 |
 | Western Cape Infrastructure Virtual Platform (EVE AI agent) | [Implemented](https://www.westerncape.gov.za/infrastructure/article/inaugural-western-cape-infrastructure-ministerial-roundtable-rousing-success) | Launched at inaugural Infrastructure Ministerial Roundtable, 2026-07-30 |
+| District Health Information System | ***Not held*** | Hosting out to tender 2026-07 |
 | Education management information systems | ***Not held*** | — |
 | Electronic death registration system | ***Not held*** | — |
+| Non-bank payment service provider licensing | ***Not held*** | NPS Act amendment pending |
+| SAMOS real-time gross settlement | ***Not held*** | Since 1998 |
 
 ### Legislation and regulation
 
@@ -172,12 +172,12 @@ PayShap had recorded 905m transactions by 2026-05, and the Reserve Bank holds [5
 |---|---|---|
 | Capital Flow Management Regulations and Crypto Asset Manual | [In development](https://www.itweb.co.za/article/treasury-is-treating-crypto-like-banknotes/G98YdqLGNWQMX2PD) | Manual comments close end-September 2026 |
 | Copyright Amendment Bill | [In development](https://sajim.co.za/index.php/sajim/article/view/2112) | Returned to Parliament 2026-06 |
-| Cybercrimes Act | Implemented | In force since 2021 |
 | End-user and Subscriber Service Charter Amendment Regulations | [Enacted, in force 2027-01-23](https://www.icasa.org.za/uploads/files/End-user-and-subscriber-Service-Charter-Amendment-Regulations-2025.pdf) | Under review litigation |
-| National Open Science Policy | Implemented | No commencement date stated |
+| National Open Science Policy | [Implemented](https://assafopenscience.co.za/wp-content/uploads/2026/03/Final-South-African-Open-Science-Policy-2026.pdf) | No commencement date stated |
 | SADC real-time settlement | [Implemented](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Kwanza added 2026-07-27 |
 | AfCFTA Digital Trade Protocol domestication | ***Not held*** | — |
 | Cross-border transfer adequacy determinations | ***Not held*** | — |
+| Cybercrimes Act | ***Not held*** | In force since 2021 |
 | Malabo Convention ratification position | ***Not held*** | — |
 
 ### Strategies, plans and policies
@@ -235,15 +235,15 @@ On price, the department put a market analysis study [out to tender](https://www
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Expert review panel | Implemented | 14 members appointed 2026-05-14 |
 | Machine-learning screening of travellers for fraud | [Planned](https://techcabal.com/2026/08/11/south-africa-machine-learning-border-checks/) | Stated intention reported, 11 August 2026 |
 | Proposed AI regulatory institutions | [Planned, under reconsideration](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko) | 2026-07 |
-| Prudential Authority AI and cloud supervision standards | In development | 2026-07 |
 | SAHPRA AI/ML medical-device requirements | [Implemented, registration not commenced](https://www.sahpra.org.za/wp-content/uploads/2025/09/MD08-20252026_-SAHPRA-Communication-to-Industry-AI-Medical-devices_Acknowledgements.pdf) | Issued 2025-09-26 |
 | SARS Modernisation 3.0 | [In development](https://www.pwc.co.za/en/assets/pdf/ten-insights-into-4ir-2026.pdf) | Programme announced 2026-04 |
-| Sector-level AI strategies | Planned | Per redraft approach |
 | AI incident or assurance register | ***Not held*** | — |
+| Expert review panel | ***Not held*** | 14 members appointed 2026-05-14 |
+| Prudential Authority AI and cloud supervision standards | ***Not held*** | 2026-07 |
 | Rules governing state automated decision-making | ***Not held*** | — |
+| Sector-level AI strategies | ***Not held*** | Per redraft approach |
 
 <!-- narrative: ai-tech -->
 The minister reported that the electronic travel authorisation had [processed 203,000 applications and rejected more than 5,700](https://www.gov.za/news/speeches/minister-leon-schreiber-xpatweb-annual-global-mobility-conference-21-jul-2026) by 2026-07-21, with approximately [85% assessed automatically](https://www.sundaytimes.timeslive.co.za/news/2026-07-28-home-affairs-to-expand-digital-visa-system-after-blocking-5500-travellers/); the department publishes no statistical series, and no appeal route, accuracy rate or human-review threshold. The Labour Court [stayed disciplinary proceedings](https://www.itweb.co.za/article/ai-hallucinations-strike-again-at-sa-courts/Pero3qZ31oGvQb6m) in July 2026 on prima facie evidence that a ruling relied on non-existent authorities.
@@ -304,6 +304,15 @@ The base holds no dedicated non-state finance rows for South Africa. Across 56 n
 | Digital inclusion strategy instrument | — | not yet probed |
 | National digital literacy measurement | — | not yet probed |
 | Municipal ICT expenditure data | — | not yet probed |
+| Innovation spectrum, lower 6GHz | The gazette notice releasing lower-6 GHz innovation spectrum, or an ICASA decision or licence record naming it. | 2026-08-14 |
+| District Health Information System | A National Department of Health statement, annual report or tender record for the District Health Information System, including the hosting arrangement put out to tender in 2026-07. | 2026-08-14 |
+| Non-bank payment service provider licensing | The National Payment System Act amendment bill or a SARB directive establishing a licensing regime for non-bank payment service providers. | 2026-08-14 |
+| SAMOS real-time gross settlement | A South African Reserve Bank statement, annual report or system document on SAMOS, which the base carries no source for at any date. | 2026-08-14 |
+| Cybercrimes Act | The gazetted Cybercrimes Act 19 of 2020 with its commencement proclamation, or a prosecution or enforcement record under it. | 2026-08-14 |
+| Information Regulator appropriation | The Information Regulator's annual report or the Justice vote's appropriation line naming its allocation. | 2026-08-14 |
+| Expert review panel | The ministerial notice or departmental statement appointing the expert review panel and naming its members and terms of reference. | 2026-08-14 |
+| Prudential Authority AI and cloud supervision standards | A Prudential Authority directive, guidance note or consultation paper on artificial-intelligence and cloud supervision standards. | 2026-08-14 |
+| Sector-level AI strategies | A departmental or sector-regulator statement naming a sector-level artificial-intelligence strategy and its status. | 2026-08-14 |
 
 <!-- narrative: gaps -->
 The items above marked ***Not held*** fall into three groups. Firstly, sectoral systems: education management information systems and the electronic death registration system, together with the data-centre incentive instrument signalled in February 2026. Secondly, international instruments: cross-border transfer adequacy determinations under POPIA, the Malabo Convention ratification position and domestication of the AfCFTA Digital Trade Protocol. Thirdly, measurement and the rules governing state automation: a national digital literacy baseline, a digital inclusion strategy instrument, municipal ICT expenditure data, an AI incident or assurance register, and any rule constraining state automated decision-making.

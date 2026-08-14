@@ -3,13 +3,13 @@ title: Nigeria — digital transformation and data governance status report
 compiled: 2026-08-14
 place: NGA
 ledger_rows: 198
-not_held: 7
-record: 0df3cc6dd239
+not_held: 8
+record: ef33bac53e92
 ---
 
 # Nigeria: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/NGA/ledger.csv` (198 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/NGA/ledger.csv` (198 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -434,8 +434,8 @@ The [health cooperation memorandum](https://www.citizen.org/wp-content/uploads/2
 | AI governance framework for tertiary institutions | [In development](https://www.vanguardngr.com/2026/08/naaip-symposium-urges-unified-ai-guardrails-for-nigerian-tertiary-institutions/) | Three tertiary regulators committed to harmonise at a symposium 2026-07-28 |
 | N-ATLAS sovereign multilingual model | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-n-atlas-an-ai-language-model-in-yoruba-igbo-hausa-and-nigerian-english) | Released 2025-09-22 |
 | National AI Strategy and the National AI Trust | [In development](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives) | Trust approved by the Federal Executive Council (2025-02) |
-| Proposed responsible-AI governance framework for public bodies | Planned | White paper published 2026-06-01 |
 | Responsible AI in Finance Hub | [Planned](https://bitcoinke.io/wp-content/uploads/2026/02/Shaping-the-Future-of-Fintech-in-Nigeria-Central-Bank-of-Nigeria-2025-Fintech-Report-BitKE.pdf) | Hub proposed 2026-02-01 |
+| Proposed responsible-AI governance framework for public bodies | ***Not held*** | White paper published 2026-06-01 |
 
 ### ICT Industry
 
@@ -570,6 +570,7 @@ A subnational programme to build [260 schools](https://www.thecable.ng/investiga
 | Whether foreign cloud local zones satisfy the localisation directive | A CBN clarification, FAQ or supervisory letter stating whether a hyperscaler's in-country availability zone meets the storage-and-management requirement of circular PSS/DIR/PUB/CIR/001/004. | 2026-08-04 |
 | Consolidated federal budget allocation to digital transformation | A Budget Office appropriation extract or Ministry of Communications, Innovation and Digital Economy annual report carrying total digital and ICT spend across votes. | 2026-08-04 |
 | India-Nigeria digital cooperation | A bilateral MoU, India Stack or DPI cooperation programme document, or a ministerial readout naming a Nigeria-India digital instrument. | 2026-08-04 |
+| Proposed responsible-AI governance framework for public bodies | The instrument, terms of reference or ministerial statement establishing the proposed responsible-AI governance framework for public institutions. | 2026-08-14 |
 
 <!-- narrative: gaps -->
 Seven subjects carry no reliable statement of position, each probed once on 2026-08-04. Three returned a named document and are now acquisition lines: the gazetted text of the identity statute; the 2026 appropriation vote carrying the digital-economy allocation; and a cooperation memorandum signed with India's electronics and information-technology ministry.

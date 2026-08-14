@@ -3,20 +3,20 @@ title: Comoros — digital transformation and data governance status report
 compiled: 2026-08-14
 place: COM
 ledger_rows: 110
-not_held: 31
-record: c1f3a2c4b169
+not_held: 35
+record: bae2ce38d429
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (110 systems and instruments, 31 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (110 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
 ## Summary of position
 
 <!-- narrative: summary -->
-_(narrative not yet written)_
+The Comoros has built its payment rails ahead of everything else and legislated almost none of it. The [national interoperable switch is live, connecting commercial banks, microfinance institutions and mobile-money operators](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-deploys-digital-payment-switch), and the [data centre for the public administration is in service and certified to the third tier](https://www.telecompaper.com/news/comoros-completes-construction-of-public-administration-data-centre--1536505). Against that the [digital code is not adopted, its 2024 target missed](https://anaden.org/actualites/anaden-information-les-avancees-sur-le-code-numerique), the cybersecurity, e-commerce and electronic-signature instruments do not exist, and the [2018 strategy remains the stated delivery frame, unrevised](https://anaden.org/uploads/media/5e3969272d9f8/strat-comores-numerique-v2-3-compresse.pdf). Thirty-one of 110 rows are ***Not held***, and the absences are structural rather than incidental: no data-protection regime, no incident-response team, no universal-service fund, no internet-penetration series, and no measurement at all of the country's international connectivity. What the base can describe is a state that has bought systems; what it cannot describe is the rules or the reach of them.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -51,7 +51,7 @@ _(narrative not yet written)_
 | National computer emergency response team | ***Not held*** | — |
 
 <!-- narrative: infrastructure -->
-_(narrative not yet written)_
+Infrastructure is thinly evidenced in both directions. The one built asset is the [data centre for the public administration, in service and certified to the third tier](https://www.telecompaper.com/news/comoros-completes-construction-of-public-administration-data-centre--1536505), with [primary and backup centres for the finance ministry in development on French development financing](https://finances.gouv.km/appel-doffre/projet-dappui-aux-systemes-dinformation-de-la-gouvernance-financiere-pagf-si/). Both fifth-generation services are pilots — one at a single site, the other in two districts of the capital — and [satellite internet deployment is prohibited pending a licence](https://alwatwan.net/societe/d%C3%A9ploiement-de-starlink-i-les-autorit%C3%A9s-interdisent-son-usage-pour-l%E2%80%99instant.html), so the country's fastest route to rural coverage is closed by decision rather than by cost. Five rows here are ***Not held*** and they are the whole of the measurement: no cable, landing or capacity figure for international connectivity, no data-centre capacity or utilisation, no electricity supply position, and no national computer emergency response team of any kind.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -271,7 +271,7 @@ The regulator has published a [single quality-of-service audit](https://lagazett
 | Gulf-state digital or technology cooperation instrument | ***Not held*** | — |
 
 <!-- narrative: ai-tech -->
-_(narrative not yet written)_
+Six positions exist and all six are first-of-kind and small. A [Shikomori text-to-speech model is in pilot](https://alwatwan.net/societe/intelligence-artificielle-i-«komori-tts-»,-la-première-synthèse-vocale-dédiée-au-shikomori.html), a [national artificial-intelligence forum has held one edition](https://alwatwan.net/societe/intelligence-artificielle-aux-comores-i-le-premier-forum-fait-jaillir-les-d%C3%A9fis-et-les-opportunit%C3%A9s-de-l%E2%80%99ia.html), a [digital commerce platform is live across the three islands](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/num%C3%A9rique-komoralink,-une-nouvelle-%C3%A8re-pour-l%E2%80%99%C3%A9conomie-comorienne-.html), and a [technology park pilot is running](https://alwatwan.net/societe/technopole-num%C3%A9rique-un-tremplin-pour-l%E2%80%99avenir-digital-des-jeunes-comoriens.html). Seven rows are ***Not held***, and together they say what the sector lacks: no deployed or piloted artificial-intelligence system in government, no measure of the digital sector's contribution to output, no start-up statute or innovation-financing instrument, and no cooperation instrument held with the United States, China, India or any Gulf state. The sector therefore has no size, no legal frame and no stated foreign partner on this record.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -305,7 +305,7 @@ _(narrative not yet written)_
 | Women entrepreneur training programme | [Implemented](https://techreviewafrica.com/news/3822/axian-telecom-advances-next-2030-vision-in-comoros) | Named as a 2025 milestone in the group's own strategy communication |
 
 <!-- narrative: inclusion -->
-_(narrative not yet written)_
+Inclusion is carried by one-off activities and measured by nothing. What exists is a [private foundation's artificial-intelligence training sessions](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/formation-sur-l%E2%80%99intelligence-artificielle-une-deuxi%C3%A8me-session-bien-r%C3%A9ussie-.html), [two pupils sent to the international artificial-intelligence olympiad](https://alwatwan.net/societe/olympiade-internationale-d’ia-i-deux-lycéens-représentent-les-comores-au-kazakhstan.html), a [ten-day mapping and field-survey training under the statistical capacity project](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-2027-l%E2%80%99inseed-amorce-son-virage-au-num%C3%A9rique-.html), and a women entrepreneurs' programme with no participant count. Four rows are ***Not held*** and they are the ones that would tell anyone whether this works: no universal service or rural access fund, no official internet-penetration or affordability series, and no national digital-literacy programme. Against a [banking rate of 39 per cent](https://www.mayottehebdo.com/actualite/economie/comores-lancement-de-nouveaux-systemes-de-paiement/), that absence is the finding.
 <!-- /narrative -->
 
 ## Finance
@@ -332,18 +332,18 @@ _(narrative not yet written)_
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Annual budget execution report | Implemented, 2025 edition overdue | The 2024 report dated 14 March 2025 on its face, with no 2025 report and no fiscal operations table for 2025 at 2026-08-04 |
-| Budget framing letter | Implemented | Signed on or before September 2025 |
 | Chambre du Numerique transfer line | [Implemented](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) | Appropriated KMF 50,000,000 for 2026 |
-| Contract for information technology equipment for the rural development centres | Implemented | Contract start 2026-03-04 with forty-five-day delivery and milestone-linked payment |
 | Digital ministry annual vote | [Implemented](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) | Promulgated by decree of 2026-01-16, the finance law having been adopted 2025-12-26 |
 | Direction de l Etat Civil et Casier Judiciaire annual vote | [Implemented](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) | Appropriated KMF 4,000,000 against a revised 2025 comparator of KMF 2,000,000 |
 | Information systems directorate of the finance ministry | [Implemented](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) | Appropriated KMF 277,128,000 against a revised 2025 comparator of nil on every line |
-| List of contracts and beneficial owners | Implemented | Published, undated on its face |
 | Loi de finances rectificative for 2025 | [Implemented, text unpublished](https://alwatwan.net/economie/assembl%C3%A9e-de-l%E2%80%99union-i-le-projet-de-loi-de-finances-2026-adopt%C3%A9-%C3%A0-l%E2%80%99unanimit%C3%A9.html) | Adopted by the Assembly of the Union |
 | Regulator funding under the statutory levy | [Implemented, off-budget by statute](https://justice.gouv.km/wp-content/uploads/2025/03/decret-n-24-003pr-du-2-fevrier-2024-portant-promulgation-de-la-loi-n-23-024au-portant-modification-de-la-loi-n-14-031au-du-17-mars-2014-relative-aux-communications-electroniques.pdf) | Hand-checked absent from the finance law and the full ministry classification |
 | Site Web et Consommation Internet common-expenditure line | [Implemented, no position published since 2024](https://finances.gouv.km/wp-content/uploads/2025/02/Arrete-2024-PDF-270225-1.32.26.pdf) | Cut by ministerial virement, November 2024 |
+| Annual budget execution report | ***Not held*** | The 2024 report dated 14 March 2025 on its face, with no 2025 report and no fiscal operations table for 2025 at 2026-08-04 |
+| Budget framing letter | ***Not held*** | Signed on or before September 2025 |
+| Contract for information technology equipment for the rural development centres | ***Not held*** | Contract start 2026-03-04 with forty-five-day delivery and milestone-linked payment |
 | Execution of the 2025 digital vote | ***Not held*** | — |
+| List of contracts and beneficial owners | ***Not held*** | Published, undated on its face |
 
 <!-- narrative: finance -->
 The digital ministry's vote for 2026 is [KMF 338,724,932](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) and includes the first appropriated state capital line the ministry has carried in the three-year corpus, at KMF 50,000,000. The largest single digital appropriation sits in another ministry: the [information systems directorate of the finance ministry](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) carries KMF 277,128,000 under a service code the 2025 rectificative had zeroed. The [Chambre du Numerique](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) transfer falls to KMF 50,000,000 from KMF 73,000,000, and the [regulator](https://justice.gouv.km/wp-content/uploads/2025/03/decret-n-24-003pr-du-2-fevrier-2024-portant-promulgation-de-la-loi-n-23-024au-portant-modification-de-la-loi-n-14-031au-du-17-mars-2014-relative-aux-communications-electroniques.pdf) is absent from every Comorian budget instrument and funded by statutory levy, so its size is established from no source held. The [Direction de l'Etat Civil et Casier Judiciaire](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf), which holds the population register and the criminal record, has KMF 4,000,000 for 2026, wholly goods and services, against the KMF 324,000,000 of civil-status document revenue the same law books; and the only named digital line the base holds outside the digital ministry, [Site Web et Consommation Internet](https://finances.gouv.km/wp-content/uploads/2025/02/Arrete-2024-PDF-270225-1.32.26.pdf) in common expenditure, stood at KMF 15,000,000 after KMF 30,000,000 of it was transferred to guarding costs in November 2024. The projects themselves are externally financed: the [continental bank's project to support digitisation of the economy](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-KM-G00-001%22) is in execution and the [Islamic bank's project](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46025-COM1026%22) is approved and undisbursed.
@@ -384,7 +384,11 @@ The digital ministry's vote for 2026 is [KMF 338,724,932](https://finances.gouv.
 | Official internet-penetration or affordability series | The regulator's statutory annual activity report, which does not exist for any year, or connectivity figures actually stored rather than pointed at; the wiki holds a reference report for Comoros whose stored body carries no figures at all | not yet probed |
 | Execution of the 2025 digital vote | The budget execution report for 2025, due mid-2026 on the ministry's own cadence, or the fiscal operations table; neither exists at 2026-08-04, and only the 2024 outturn exists, by nature | not yet probed |
 | Financing instrument behind the technology park | The World Bank appraisal document or aid-transparency activity for the operation carrying the US$4,090,000, which would identify the lending instrument and disbursement schedule | not yet probed |
+| Annual budget execution report | A companion record in raw/ for the budget-execution report held as a PDF in OSINT's budget-archive; the document exists there and Corpus cannot cite it (notes-for-osint 13). | 2026-08-14 |
+| Budget framing letter | A companion record in raw/ for the lettre de cadrage budgetaire held as a PDF in OSINT's budget-archive (notes-for-osint 13). | 2026-08-14 |
+| Contract for information technology equipment for the rural development centres | A companion record in raw/ for the equipment contract held as a PDF in OSINT's budget-archive (notes-for-osint 13). | 2026-08-14 |
+| List of contracts and beneficial owners | A companion record in raw/ for the contracts and beneficial-owners list held as a PDF in OSINT's budget-archive (notes-for-osint 13). | 2026-08-14 |
 
 <!-- narrative: gaps -->
-_(narrative not yet written)_
+Thirty-one rows are ***Not held***, and three groups account for nearly all of them. The first is basic infrastructure measurement — international cable landings and capacity, data-centre utilisation, electricity supply to digital infrastructure — none of which the state or its cable company publishes. The second is the governance layer that does not exist rather than being merely unpublished: no data-protection regime, no incident-response team, no universal-service fund, no national services portal. The third is the budget record, and it is the one the site cannot close from here: four rows cite companion records for documents held in a budget archive Corpus has no access to, so those citations cannot be repaired from this side however they are written. That last group is raised with OSINT as a note rather than left as a silent failure.
 <!-- /narrative -->

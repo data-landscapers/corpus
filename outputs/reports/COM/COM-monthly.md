@@ -4,8 +4,8 @@ compiled: 2026-08-14
 period: 2026-07-01 to 2026-08-14
 place: COM
 ledger_rows: 8
-not_held: 31
-record: c459fd56aaa3
+not_held: 35
+record: 739f3e881803
 ---
 
 # Comoros: monthly update, July 2026

@@ -4,15 +4,15 @@ compiled: 2026-08-14
 period: 2025-08-01 to 2026-08-14
 place: NGA
 ledger_rows: 220
-not_held: 7
-record: 702eff94388e
+not_held: 8
+record: c253cc276210
 ---
 
 # Nigeria: progress report, 2025-08-01 to 2026-08-14
 
 *Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 220 systems and instruments on this place's ledger, 136 changed position between 2025-08-01 and 2026-08-14, 54 did not, 23 carry no stated baseline, and 7 are ***Not held*** at both ends.*
+*Of 220 systems and instruments on this place's ledger, 135 changed position between 2025-08-01 and 2026-08-14, 54 did not, 23 carry no stated baseline, and 8 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 531 sources for this place in the window — 89 in the earlier half (2025-08 to 2026-01), 442 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -455,7 +455,6 @@ What arrived: an executive order that creates a coordination council rather than
 |---|---|---|---|
 | AI governance framework for tertiary institutions | Did not exist | [NUC framework written and the three tertiary regulators committed to harmonise; the text is not held](https://www.vanguardngr.com/2026/08/naaip-symposium-urges-unified-ai-guardrails-for-nigerian-tertiary-institutions/) | Advanced |
 | N-ATLAS sovereign multilingual model | Did not exist | [Open-source and multimodal across four Nigerian languages, on Llama-3 8B](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-n-atlas-an-ai-language-model-in-yoruba-igbo-hausa-and-nigerian-english) | Advanced |
-| Proposed responsible-AI governance framework for public bodies | Did not exist | An independent proposal, not a government instrument | Advanced |
 | Responsible AI in Finance Hub | Did not exist | [Proposed over an installed base: 87.5% of surveyed fintechs already use AI for fraud detection](https://bitcoinke.io/wp-content/uploads/2026/02/Shaping-the-Future-of-Fintech-in-Nigeria-Central-Bank-of-Nigeria-2025-Fintech-Report-BitKE.pdf) | Advanced |
 | Standing on the responsible-AI and AI-readiness indices | 141st on the Oxford Government AI Readiness Index (2023) | [38th of 135 countries and Africa's highest scorer on the 2026 Global Index on Responsible AI at 45.93, and 72nd on the Oxford Government AI Readiness Index, up from 141st over three years; the responsible-AI index's own conclusion is that holding AI policies is not the same as enforceable oversight or deployed systems](https://iafrica.com/nigeria-tops-africa-on-responsible-ai-governance-index-which-is-not-the-same-as-deploying-ai/) | Advanced |
 | National AI Strategy and the National AI Trust | Approved (2025-02) | [The strategy itself still in development](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives) | No change |
@@ -593,6 +592,7 @@ The measurements are baselines rather than movements: [rural access at 23% again
 | Whether foreign cloud local zones satisfy the localisation directive | A CBN clarification, FAQ or supervisory letter stating whether a hyperscaler's in-country availability zone meets the storage-and-management requirement of circular PSS/DIR/PUB/CIR/001/004. | 2026-08-04 |
 | Consolidated federal budget allocation to digital transformation | A Budget Office appropriation extract or Ministry of Communications, Innovation and Digital Economy annual report carrying total digital and ICT spend across votes. | 2026-08-04 |
 | India-Nigeria digital cooperation | A bilateral MoU, India Stack or DPI cooperation programme document, or a ministerial readout naming a Nigeria-India digital instrument. | 2026-08-04 |
+| Proposed responsible-AI governance framework for public bodies | The instrument, terms of reference or ministerial statement establishing the proposed responsible-AI governance framework for public institutions. | 2026-08-14 |
 
 <!-- narrative: gaps -->
 Seven subjects carry no reliable position at either end, all probed once on 2026-08-04. Three became acquisition lines: the gazetted identity statute, the 2026 appropriation vote for the digital-economy ministry, and a cooperation memorandum with India's electronics ministry.

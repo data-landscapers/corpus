@@ -4,15 +4,15 @@ compiled: 2026-08-14
 period: 2025-08-01 to 2026-08-14
 place: ZAF
 ledger_rows: 112
-not_held: 11
-record: f46080fd1cc1
+not_held: 20
+record: 22c0910877db
 ---
 
 # South Africa: progress report, 2025-08-01 to 2026-08-14
 
 *Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 112 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-14, 9 did not, 31 carry no stated baseline, and 11 are ***Not held*** at both ends.*
+*Of 112 systems and instruments on this place's ledger, 57 changed position between 2025-08-01 and 2026-08-14, 8 did not, 26 carry no stated baseline, and 20 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 480 sources for this place in the window — 58 in the earlier half (2025-08 to 2026-01), 422 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -40,7 +40,6 @@ Most stated delivery dates in the period moved.
 | Equinix Cape Town land use | ***Baseline not held*** | [Tribunal approval 2026-07-14](https://www.moneyweb.co.za/news/ai/giant-data-centres-get-the-first-green-light-from-cape-town-tribunal/) | Advanced |
 | High-demand spectrum auction | No date | [The 2026 National Radio Frequency Plan targets 1,145 MHz more mid-band spectrum and over 17,250 MHz of mmWave against 794 MHz currently available - roughly 215% more high-demand spectrum cleared for release - but no auction has been scheduled, priced or gazetted](https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/) | Stalled |
 | IMT Roadmap 2026 and draft assignment plans | ***Baseline not held*** | [Out for consultation](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2) | Advanced |
-| Innovation spectrum, lower 6GHz | Draft, March 2025 | Gazetted 2026-05-22 | Advanced |
 | LEO satellite licensing framework | Policy direction gazetted 2025-12-12 | [Direction rejected 2026-05](https://pmg.org.za/committee-question/39540/) | Regressed |
 | National broadband map (DBSA) | None published | [Launched 2026-03-31](https://techcentral.co.za/sa-finally-has-a-broadband-map-and-it-reveals-where-the-gaps-are/279660/) | Advanced |
 | National Radio Frequency Plan 2026 | ***Baseline not held*** | [Gazetted 2026-07-24](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026) | Advanced |
@@ -152,12 +151,9 @@ Announced data-centre capacity and delivered capacity diverged. Pipeline announc
 | Western Cape Infrastructure Virtual Platform (EVE AI agent) | Did not exist | [Automatically evaluates projects against Treasury rules and ISO 9001 via AI agent EVE; evaluated pipeline of 52 projects worth R132bn, 11 worth over R20bn to be released to market; MoUs signed with Infrastructure South Africa, IFISA, EDC South Africa and UCT](https://www.westerncape.gov.za/infrastructure/article/inaugural-western-cape-infrastructure-ministerial-roundtable-rousing-success) | Advanced |
 | Gauteng online school admissions | In operation since 2016 | [2027 intake opened 2026-08-05](https://www.itweb.co.za/article/gp-education-switches-on-2027-online-admissions/LPwQ5MlbeWpvNgkj) | No change |
 | National Health Insurance information architecture | In force since 2022-10-21 | [In force; no implementation measurement held](https://www.health.gov.za/wp-content/uploads/2022/10/HNSF_Gazette_21_October_2022.pdf) | No change |
-| Non-bank payment service provider licensing | Exemption notice in force | No amended Act | No change |
 | Digital matric certificate | ***Baseline not held*** | Piloting (2026-08-03) | ***Baseline not held*** |
-| District Health Information System | ***Baseline not held*** | Hosting out to tender | ***Baseline not held*** |
 | Minimum Interoperability Standards and GWEA | ***Baseline not held*** | In development (2026-07-31) | ***Baseline not held*** |
 | Online Verification Service | ***Baseline not held*** | Implemented (undated) | ***Baseline not held*** |
-| SAMOS real-time gross settlement | ***Baseline not held*** | Implemented (undated) | ***Baseline not held*** |
 
 ### Legislation and regulation
 
@@ -186,12 +182,10 @@ Blocked identity numbers fell by 7,129 in roughly seven months, from 384,189 to 
 | Capital Flow Management Regulations and Crypto Asset Manual | Did not exist | [Both in draft; manual comments to end-September 2026](https://www.itweb.co.za/article/treasury-is-treating-crypto-like-banknotes/G98YdqLGNWQMX2PD) | Advanced |
 | Copyright Amendment Bill | ***Baseline not held*** | [Constitutional Court ruling 2026-06](https://sajim.co.za/index.php/sajim/article/view/2112) | Advanced |
 | End-user and Subscriber Service Charter Amendment Regulations | In consultation | [Gazetted 2026-01-23; under review application](https://www.icasa.org.za/uploads/files/End-user-and-subscriber-Service-Charter-Amendment-Regulations-2025.pdf) | Advanced, litigated |
-| Information Regulator appropriation | R135.7m (2025/26) | R145.9m (2026/27) | Advanced |
 | Operation Vulindlela reporting | 80% of initiatives on track (2026-04) | ["Uneven and slower than anticipated"](https://www.itweb.co.za/article/operation-vulindlelas-digital-transformation-gathers-pace/lLn14MmQRQAMJ6Aa) | Regressed |
 | POPIA enforcement notices | None held | [Three notices, May–June 2026](https://www.mondaq.com/southafrica/contracts-and-commercial-law/1797238/landmark-ruling-for-private-bodies-under-paia-information-regulators-enforcement-notice-against-mining-house) | Advanced |
 | SADC real-time settlement | Rand only since 2013 | [Kwanza added 2026-07-27](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Advanced |
 | Breach notification rate | ~284 per month (Apr–Nov 2025) | [~263 per month (Q1 2026)](https://www.itweb.co.za/article/inforeg-raises-alarm-as-data-breaches-hit-788-in-q1/Pero3MZ3wzoqQb6m) | No change |
-| Cybercrimes Act | ***Baseline not held*** | No amendment or count recorded | ***Baseline not held*** |
 | National Open Science Policy | ***Baseline not held*** | Implemented (undated) | ***Baseline not held*** |
 
 ### Strategies, plans and policies
@@ -248,14 +242,11 @@ Operation Vulindlela's own reporting changed within the period: a briefing in Ap
 | System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Automated selection at SARS | ***Baseline not held*** | [100% of verifications, 88.41% of complex audits](https://techcabal.com/2026/07/27/ai-south-africas-taxman/) | Advanced |
-| Expert review panel | Did not exist | 14 members appointed 2026-05-14 | Advanced |
 | Proposed AI regulatory institutions | Seven bodies proposed | [Under reconsideration; committee opposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko) | Regressed |
 | SAHPRA AI/ML medical-device requirements | Did not exist | [Issued 2025-09-26; product registration not commenced](https://www.sahpra.org.za/wp-content/uploads/2025/09/MD08-20252026_-SAHPRA-Communication-to-Industry-AI-Medical-devices_Acknowledgements.pdf) | Advanced |
 | Start-up funding, South Africa | Led Africa on equity and deal count, CY2025 | [Fourth at $83m, H1 2026](https://www.itweb.co.za/article/sa-powers-africas-164bn-tech-funding-rebound/4r1lyMR9YJR7pmda) | Regressed |
 | Machine-learning screening of travellers for fraud | ***Baseline not held*** | [Stated intention to screen travellers for fraud using machine learning; no system, procurement, legal basis, accuracy measure or appeal route is published](https://techcabal.com/2026/08/11/south-africa-machine-learning-border-checks/) | ***Baseline not held*** |
-| Prudential Authority AI and cloud supervision standards | ***Baseline not held*** | In development (undated) | ***Baseline not held*** |
 | SARS Modernisation 3.0 | ***Baseline not held*** | In development (2026-07-23) | ***Baseline not held*** |
-| Sector-level AI strategies | ***Baseline not held*** | Planned (undated) | ***Baseline not held*** |
 
 <!-- narrative: ai-tech -->
 The AI policy changed kind as well as date. A timeline reported in February 2026 had cabinet consideration in March and finalisation within FY2026/27; the draft was published on 2 April, withdrawn later that month, a review panel was appointed on 14 May, and the department stated on 29 July that the replacement [will issue guidelines rather than prescribe rules](https://techcentral.co.za/radical-rethink-for-south-africas-national-ai-policy/284284/). Automated decision-making expanded through the same period without a governing framework.
@@ -306,6 +297,15 @@ At the State Information Technology Agency, a Public Service Commission investig
 | Digital inclusion strategy instrument | — | not yet probed |
 | National digital literacy measurement | — | not yet probed |
 | Municipal ICT expenditure data | — | not yet probed |
+| Innovation spectrum, lower 6GHz | The gazette notice releasing lower-6 GHz innovation spectrum, or an ICASA decision or licence record naming it. | 2026-08-14 |
+| District Health Information System | A National Department of Health statement, annual report or tender record for the District Health Information System, including the hosting arrangement put out to tender in 2026-07. | 2026-08-14 |
+| Non-bank payment service provider licensing | The National Payment System Act amendment bill or a SARB directive establishing a licensing regime for non-bank payment service providers. | 2026-08-14 |
+| SAMOS real-time gross settlement | A South African Reserve Bank statement, annual report or system document on SAMOS, which the base carries no source for at any date. | 2026-08-14 |
+| Cybercrimes Act | The gazetted Cybercrimes Act 19 of 2020 with its commencement proclamation, or a prosecution or enforcement record under it. | 2026-08-14 |
+| Information Regulator appropriation | The Information Regulator's annual report or the Justice vote's appropriation line naming its allocation. | 2026-08-14 |
+| Expert review panel | The ministerial notice or departmental statement appointing the expert review panel and naming its members and terms of reference. | 2026-08-14 |
+| Prudential Authority AI and cloud supervision standards | A Prudential Authority directive, guidance note or consultation paper on artificial-intelligence and cloud supervision standards. | 2026-08-14 |
+| Sector-level AI strategies | A departmental or sector-regulator statement naming a sector-level artificial-intelligence strategy and its status. | 2026-08-14 |
 
 <!-- narrative: gaps -->
 Seventeen of the fifty-three rows above carry ***Baseline not held*** at the opening date. Almost all fall in the same five months. The base holds no South African domestic payments source published between August and December 2025, so PayShap volumes, the central bank's October 2025 acquisition of half the payment company, the payment code standard and the social grant card migration are all reconstructed from January 2026 onward. The electronic travel authorisation launched in October 2025 and is first recorded in a February 2026 secondary source. The licensing inquiry that has blocked satellite network licences since August 2025 has no primary document on file at all. Without August to December 2025, this twelve-month comparison is in several places a seven-month one.
