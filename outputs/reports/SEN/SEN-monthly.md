@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: SEN
 ledger_rows: 51
 not_held: 12
-record: af7c50ad279b
+record: 1eba02b6eb19
 ---
 
 # Senegal: monthly update, July 2026
@@ -36,7 +36,7 @@ A measurement covering January to July put [mobile latency at 35.4 ms, second in
 ### Technical Capacity
 
 <!-- narrative: infrastructure--infra-capacity -->
-
+A continental count puts [seven data centres in Senegal at mid-2025, level with Ghana, against South Africa's 56, Kenya's 19 and Nigeria's 17](https://www.seneweb.com/fr/news/16/du-gabon-au-senegal-comment-lafrique-accelere-sur-les-data-centers-pour-ne-plus-brader-ses-donnees_n_500226.html). It is a reference figure, cited and not absorbed: the base holds no Senegalese primary count and no capacity figure at all.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -74,12 +74,12 @@ In health, a [mortality and cause-of-death analysis tool was trained out on 20 a
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-_(narrative not yet written)_
+The month's clearest movement is a removal rather than an addition. The tax authority [withdrew the paper fiscal stamp on 20 July, making the digital service the sole recognised channel nationwide](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique), with QR-coded stamps bought and received remotely. Unused paper stamps were exchangeable until 15 August and no offline or assisted route is stated. Eight days later the [free electronic stamp service was suspended by its provider, citing an administrative decision outside its control, with refunds promised within 72 hours and users stating they now pay additional fees for an identical service](https://lesoleil.sn/actualites/diotali-suspend-son-service-gratuit-de-timbre-fiscal-electronique-et-annonce-le-remboursement-de-ses-usagers/) — the first consumer-cost consequence of state-platform exclusivity the base holds, and it is not stated whether the decision was addressed to that provider or to the distribution channel generally. Separately the state procurement platform is [operating and named by the procurement regulator as intended to capture the procedures of a thousand administrations](https://arcop.sn/2026/07/30/encadre-appel-une-plateforme-strategique-a-proteger/), with its protection a stated priority alongside critical state digital infrastructure; no count of administrations onboarded, procurement volume, availability record or security accreditation is given.
 <!-- /narrative -->
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-_(narrative not yet written)_
+The statistics agency [hosted the first peer exchange of an inclusive-data initiative's second phase in Dakar, widening it from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm). The exchange's exact dates are not published, so the position carries month precision only.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -139,7 +139,7 @@ The digital minister pitched the technology strategy in Washington, holding [wor
 ### China activities
 
 <!-- narrative: ai-tech--geopol-china -->
-
+The sovereign cloud is [in testing, with data-centre infrastructure deployed and verified for redundancy and reliability to host sensitive national data on Senegalese territory](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/), accelerated ahead of an international sporting event. No contract, value, hosting term, exit arrangement or data-access terms are reported — a sovereignty claim resting on a vendor relationship whose terms are not held.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -165,5 +165,5 @@ The council of ministers of 29 July [proposed a national research and innovation
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-
+A [US$50m pre-seed and seed fund was announced on a conference stage in Paris on 20 June](https://techcabal.com/2026/07/07/francophone-weekly-by-techcabal-030/), with public capital framed as crowding in private investors. No first close, limited partners, fund manager or deployment is held.
 <!-- /narrative -->
