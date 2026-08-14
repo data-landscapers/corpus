@@ -20,7 +20,7 @@ Consequently the ledger checks do not apply and must not be faked. **J** (no doc
 
 ## The unit and the documents
 
-**Unit: one Level-2 taxonomy slug.** `outputs/vocab/taxonomy.md` currently carries 39 of them across ten Level-1 categories. Level-1 roll-ups are not built now; the taxonomy is a strict single-parent tree, so a Level-1 report is a later composition of the same material and costs nothing to defer.
+**Unit: one Level-2 taxonomy slug.** `outputs/vocab/taxonomy.md` currently carries **38** of them across ten Level-1 categories — its own header says "~36", which is stale in the other direction. All 38 appear in ledgers and all 38 carry at least one narrative block in at least one monthly, so no slug is empty. *(Counted 2026-08-14; this note said 39.)* Level-1 roll-ups are not built now; the taxonomy is a strict single-parent tree, so a Level-1 report is a later composition of the same material and costs nothing to defer.
 
 **Two documents, not three.** The layer already allows this — a region issues the progress report only (`documentation/report-layer.md` §1), and `report-render.py` refuses the other two for an `X__` unit rather than making every caller branch. The status report is the odd one out here for a reason: it answers *where is this now* for a single place, and the cross-place equivalent is a site surface — the Topics page ranging over 54 places — not a document. Building it as a document would be a third thing to keep current for no reader who is not better served by the page.
 
@@ -32,7 +32,9 @@ Consequently the ledger checks do not apply and must not be faked. **J** (no doc
 
 ## It is a lift, with nothing added
 
-Everything under a place heading is carried verbatim from that place's document: for the monthly, the `<!-- narrative: {section}--{subject} -->` block; for the progress report, the subject's movement table and its block. A place with no block for that subject gets no heading, under the same rule that stops the renderer printing an empty section.
+Everything under a place heading is carried verbatim from that place's document: for the monthly, the `<!-- narrative: {section}--{subject} -->` block; for the progress report, **the subject's movement table, and nothing else**. A place with nothing to carry for that subject gets no heading, under the same rule that stops the renderer printing an empty section.
+
+**The topic progress report carries no prose at all** *(Bill, 2026-08-14)*. Not by the same argument as the monthly's — there is simply nothing to lift. A country progress report keys its narrative by **section**, not by section-and-subject: `<!-- narrative: infrastructure -->` is one block written across cyber-security, satellite broadband and data centres together, and there is no `infrastructure--infra-connect` block in any of the 57 progress documents to take. Lifting the section block would carry four other subjects' prose into a single-subject document, which is the opposite of what the lift is for. So the topic progress report is movement tables under place headings, and the table is already the substance of that document. *(Found by CC, 2026-08-14: this note originally said "the movement table and its block".)*
 
 **Nothing is authored here — no summary, no cross-place block, no connecting sentence** *(Bill, 2026-08-14)*. A proposal for an authored summary at the top was put and refused. The document is the country prose, sliced by subject and ordered by place, and that is the whole of it.
 
@@ -72,17 +74,17 @@ If it does not, finish stage 4 first. This stage never initialises and never mov
 
 **Build each slug:**
 
-1. **Collect.** For each place in `outputs/reports/`, take the block keyed `{section}--{subject}` from `{ISO3}-monthly.md`, and for the progress report the subject's movement table together with its block from `{ISO3}-progress.md`. The section is the one the place's section map assigns that subject, so the key is derived, never guessed.
-2. **Carry it verbatim.** The prose and its citations move together and are not re-edited here. A place with no block for the subject gets no heading — the same rule that stops the renderer printing an empty section, and for the same reason.
+1. **Collect.** For each place in `outputs/reports/`, take every block keyed `{section}--{subject}` from `{ISO3}-monthly.md`, and for the progress report the subject's movement table from `{ISO3}-progress.md`. **The section is read off the ledger row, never derived from the subject** *(corrected 2026-08-14)*: `ledger.csv` carries a per-row `section`, `report-render.py` checks only that its value is a known section, and 170 rows across BEN, ETH, GNB, NGA and ZAF sit somewhere other than the section map's default — BEN's `gov.regional` in four different sections at once. **A place can therefore hold more than one block for one subject.** Take them all and print them in document order under the single place heading; a subject scattered across a place's sections is still that place's account of the subject.
+2. **Carry it verbatim.** The prose and its citations move together and are not re-edited here. A place with nothing for the subject — no block in its monthly, no rows in its movement table — gets no heading, the same rule that stops the renderer printing an empty section, and for the same reason.
 3. **Regions appear in the progress report only.** The three `X__` units issue no monthly, so the topic monthly has no section for them.
-4. **Write nothing.** There is no summary block and no connecting prose *(Bill, 2026-08-14)*. A topic document is its lifted blocks and nothing else, so *Narrative integrity* above has no work to do here: the blocks were written, and checked, in the documents they came from. A topic document with no blocks at all is not issued.
+4. **Write nothing.** There is no summary block and no connecting prose *(Bill, 2026-08-14)*. A topic monthly is its lifted blocks and a topic progress report its lifted tables, so *Narrative integrity* above has no work to do here: what prose there is was written, and checked, in the documents it came from. A topic document with nothing to carry at all is not issued.
 5. **Front matter** carries `subject`, `compiled`, `period`, `places` and `record`, on the same discipline as the unit documents: `record` is a digest of the content, `compiled` is the date that content last changed, and a build that changes nothing leaves the file untouched and prints `unchanged`.
 
 **The period is the source documents' period, not a window of this stage's own.** Nothing is aged here: a block is in the topic monthly exactly when it is in the place's monthly. Where the unit documents do not share a single period, the topic document states the range they span rather than asserting one they do not have.
 
 **Check** `G` — every link held in `index/` — and nothing else. The register check has no authored prose to read here, and running it over lifted blocks would only re-report the source documents. The ledger checks (`J`, `L`, `M`) are properties of the source documents and are enforced where the prose was written; they do not apply here and are not to be re-implemented against a ledger this unit does not have.
 
-Commit the topic tree. 39 slugs × 2 documents adds 78 documents to the render set, taking it from 165 to 243.
+Commit the topic tree. 38 slugs × 2 documents adds 76 documents to the render set, taking it from 165 to 241.
 
 ---
 
@@ -107,10 +109,14 @@ done
 present=$(find upstream/reports upstream/topics -name '*.md' | wc -l)
 echo "rendered $rendered of $present report documents ($failed failed)"
 if [ "$rendered" -ne "$present" ]; then
-  echo "RENDER ABORT: $((present - rendered)) document(s) matched no pattern above — do not deploy"
+  echo "RENDER ABORT: $((present - rendered)) document(s) did not render — do not deploy"
+  [ "$failed" -gt 0 ] && echo "  $failed failed in render.py (see RENDER FAIL above)"
+  echo "  and any listed below matched no pattern in the loop:"
   find upstream/reports upstream/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
 fi
 ```
+
+*(The abort message says "did not render" rather than "matched no pattern": a render failure and an unmatched filename both leave `rendered` short, and the old wording named only one of the two causes while printing a list that cannot show the other. Same defect in `RENDER.md` Step 2 as it stands today — fix both when this lands.)*
 
 Step 1's mirror already carries the new tree, since it mirrors `outputs/` whole.
 
@@ -118,9 +124,13 @@ The home page's Topics boxes can link to the rendered documents once this runs; 
 
 ---
 
-# For CC to check
+# Checked by CC (2026-08-14)
 
-1. **Does `render.py` care where its input sits?** Step 2 passes it a path; if it derives the output location under `site/reports/…` from the parent directory name, topic documents need `site/topics/…` and that is a code change, not a runbook one.
-2. **Do all unit monthlies currently share one period?** The stage says the topic document states the range where they do not. If they always agree, that clause is dead weight and should be cut rather than left as a hedge.
-3. **Is the block key derivable from the subject alone?** `sections(unit)` returns `{subject: (section, key)}` per profile, and a row may override its section. If overrides are in use, the key cannot be derived from the subject and the collector must read it off the source document.
-4. **Whether the tree rename should go first.** It touches more files than the topic stage does, and doing it first means the topic stage is written once against the final paths.
+All four, against the code and today's `outputs/`. The full record, including two findings this note did not ask for, is `documentation/reviews/2026-08-14-cc-review-of-topics-and-index.md`.
+
+1. **Does `render.py` care where its input sits? Yes, and its filename grammar mattered more.** `parse_name()` was `stem.split("-")` returning `parts[0], parts[1]`, which is fine while every unit is an ISO3 code and wrong the moment a unit is hyphenated: `dpi-pay-monthly.md` parsed as unit `dpi`, kind `pay`, and `dpi-pay-progress.md` parsed as *the same pair*, so both documents wrote `dpi-pay.html` and the second replaced the first. All 38 slugs are hyphenated. **Fixed** — it now splits from the right on a known kind, and a new `tree_of()` takes the output tree from the source path, so `outputs/topics/…` renders to `site/topics/…` with a permalink that agrees. Unit reports are byte-for-byte unaffected.
+2. **Do all unit monthlies share one period? Today yes, but keep the clause.** All 54 monthlies read `2026-07-01 to 2026-08-14` and all 57 progress reports `2025-08-01 to 2026-08-14`. The period is a render-time window and `rebuild.py --reports` takes a unit list, so any partial re-render leaves units on different windows until the next full pass. The clause is live, not a hedge.
+3. **Is the block key derivable from the subject alone? No — overrides are in use.** 170 rows across BEN, ETH, GNB, NGA and ZAF sit in a section other than the map's default, and 39 (unit, subject) pairs span more than one section. Step 1 above is corrected accordingly.
+4. **Should the tree rename go first? Deferred, and it no longer has to** *(Bill, 2026-08-14)*. `render.py` derives the tree from the source path rather than a constant, so the topic stage can be written against `outputs/topics/` now and the rename made whenever it suits, without rework.
+
+**One thing this note could not have known and the stage now turns on:** the country progress report has no per-subject narrative block, only a per-section one, so the topic progress report carries movement tables and no prose (Bill's ruling, recorded above under *It is a lift, with nothing added*).
