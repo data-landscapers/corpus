@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: KEN
 ledger_rows: 98
 not_held: 6
-record: 913e971c547c
+record: 333bac0a0c99
 ---
 
 # Kenya: monthly update, July 2026
@@ -158,7 +158,7 @@ The 117th digital hub was [commissioned in Baringo on 20 July](https://techafric
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-Two financings landed. A [EUR270m facility across 21 obligors in eight jurisdictions was signed on 9 July, its committed portion of up to EUR170m including a local-currency tranche of up to EUR20m equivalent in shillings for fibre modernisation in Kenya](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270), with a further uncommitted EUR100m for future acquisitions and capital expenditure across the lender's sub-Saharan operations. Domestically the digital economy acceleration project [took KSh 4.3bn for the year, half the entire digital thematic, to equip more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262).
+Two financings were signed. A [EUR270m facility across 21 obligors in eight jurisdictions was signed on 9 July, its committed portion of up to EUR170m including a local-currency tranche of up to EUR20m equivalent in shillings for fibre modernisation in Kenya](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270), with a further uncommitted EUR100m for future acquisitions and capital expenditure across the lender's sub-Saharan operations. Domestically the digital economy acceleration project [took KSh 4.3bn for the year, half the entire digital thematic, to equip more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262).
 <!-- /narrative -->
 ### Domestic budget appropriations and expenditure
 
