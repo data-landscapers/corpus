@@ -445,7 +445,7 @@ def blocker(path):
     empty marker pair says the same thing to a drafter and to `--check`, and says nothing at all
     to a reader or to the PDF. The condition should not arise in the first place: BUILD does not
     release a document with an unwritten block (BUILD.md -> Narrative integrity), and `--check`
-    fails on one so that rule is enforced rather than trusted."""
+    counts them so BUILD can see what is left to write."""
     keep = existing_blocks(path)
     used = set()
 
@@ -804,14 +804,16 @@ def check(unit):
 def check_narrative(unit):
     """Check L — no document carries an unwritten narrative block *(Bill, 2026-08-14)*.
 
-    `_(narrative not yet written)_` is not acceptable under any circumstance, and nor is the empty
-    block that replaced it: both mean the same thing, which is that a section was published with
-    nothing said about it. BUILD.md -> Narrative integrity gives the two ways out — remove the
-    section, or write the sentence explaining why there is no narrative — and this is what stops
-    that rule being kept on trust. It is BUILD's check because BUILD owns what is fit to publish.
+    `_(narrative not yet written)_` is not acceptable, and nor is the empty block that replaced
+    it: both mean a section was published with nothing said about it. BUILD.md -> Narrative
+    integrity gives the two ways out — remove the section, or write the sentence explaining why
+    there is no narrative.
 
-    It fails rather than reports. An unwritten block is not a judgement call the way a register
-    hit is: there is no reading of it under which the document is finished."""
+    **This counts; it does not police.** The renderer never deletes a block body, because removing
+    an author's content is not a script's decision, so the count is simply how BUILD sees the size
+    of the job in front of it. It exits non-zero because an unwritten block is not a judgement call
+    the way a register hit is — there is no reading of it under which the document is finished —
+    and a number BUILD can act on is more use than a number it has to go looking for."""
     bad = []
     folder = os.path.join(REPORTS, unit)
     for fn in sorted(os.listdir(folder)):
