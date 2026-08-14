@@ -24,7 +24,7 @@ CORPUS reads OSINT **read-only** — `raw/`, `index/`, `lookups/`, and the inter
 
 CORPUS runs as two jobs on Bill's machine: **BUILD** (OSINT evidence → CORPUS `outputs/`) and **RENDER** (`outputs/` → the site). BUILD's compiles are pure functions of `raw/`; its report-update stage is a model pass; RENDER produces the site and backs both repos up (`mirror.bat`, which reads OSINT read-only).
 
-**What OSINT must keep stable, because CORPUS reads it:** `raw/`, `index/`, `lookups/`, `wiki/` — git-tracked, committed, and with stable slugs. These are the standing constraints; they live in `notes-for-osint.md`, not here.
+**What OSINT must keep stable, because CORPUS reads it:** `raw/`, `lookups/`, `wiki/` — git-tracked, committed, and with stable slugs. **`index/` is not one of them**: it is derived and gitignored by design, so what it owes CORPUS is freshness, not tracking. These are the standing constraints; they live in `notes-for-osint.md`, not here.
 
 ## The retirement list — tasks for OSINT
 
@@ -61,7 +61,7 @@ Do **not** retire any of these; CORPUS depends on them or they are OSINT's core:
 - **Finance/budget record collection:** the sweeps and extractors named in R4.
 - **The wiki:** `HUB-COMPILE` (hub prose), entities, concepts, intersections, place hubs — CORPUS reads the place hubs and `wiki/intersections/` when it initialises a new report.
 - **`LINT`** — vault hygiene, unchanged.
-- **`raw/`, `index/`, `lookups/`, `wiki/`** — committed and stable; these are the evidence CORPUS reads.
+- **`raw/`, `lookups/`, `wiki/`** — committed and stable; these are the evidence CORPUS reads. **`index/`** it also reads, but from the working tree — derived, gitignored, and owing freshness rather than commits.
 
 ## Sequencing
 
