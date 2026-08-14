@@ -269,7 +269,12 @@ def cite(value, r, urls):
 
 
 def status_table(rows, urls, label="System or instrument"):
-    out = [f"| {label} | Status | As at |", "|---|---|---|"]
+    # "Milestone", not "As at" *(2026-08-14)*. The column has always printed the milestone — the
+    # event that fixed the position, "Gazetted 2026-07-24" — and "As at" mislabelled it as a bare
+    # date. Since the ledger's `as_at` is now `published`, the old header also named a field that
+    # no longer exists. Safe for RENDER: `render.py`'s `classify_table()` keys on the *second*
+    # header starting "status", not on this one, whatever its docstring says.
+    out = [f"| {label} | Status | Milestone |", "|---|---|---|"]
     for r in sorted(rows, key=lambda r: (stem(r["status"]) == NOT_HELD, r["name"].lower())):
         # No fallback to `published` *(2026-08-14)*. This column prints **the event that fixed the
         # position** (§1), and `published` is the date a source reported it — a different fact. The
