@@ -207,9 +207,28 @@ def read_csv(path):
 
 
 def slug_urls():
-    """slug -> url for every source in the vault, from the index."""
+    """slug -> url for every source in the vault, from the index.
+
+    **An index holding nothing is refused, not read.** It is the one failure here that is worse
+    than a crash: `row_url()` finds no resolvable slug, `cite()` falls back to plain text, and the
+    render strips the hyperlink off every status cell in every document while reporting a normal
+    build — and check G then *passes*, because a document with no links left has none missing.
+    The check that exists to catch broken citations certifies the run that removed them all.
+
+    Zero artefacts is never a legitimate reading of this base. It means `ROOT` is not where the
+    base is — a script run from the repo root rather than from `scripts/.workroot/`, which indexes
+    a tree containing none of `raw/`, `wiki/` or the rest. That index then reports itself *fresh*,
+    because zero files on disk agrees with zero files in `meta.json`, so nothing rebuilds it and
+    nothing says a word."""
+    rows = vault_lib.load_index()
+    if not rows:
+        raise vault_lib.EmptyIndex(
+            f"{vault_lib.INDEX_DIR} holds no artefacts — refusing to render or check against it, "
+            f"because every citation would be silently dropped and check G would pass with no "
+            f"links left to check. Run from scripts/.workroot/, where raw/ and index/ resolve to "
+            f"OSINT through the junctions rebuild.py sets up.")
     out = {}
-    for r in vault_lib.load_index():
+    for r in rows:
         d, fm = r.get("d") or {}, r.get("fm") or {}
         if d.get("folder") != "raw":
             continue

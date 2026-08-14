@@ -16,3 +16,11 @@ prep/
 __pycache__/
 *.pyc
 .workroot/
+
+# The index is rebuildable scaffolding and is never committed — the freshness
+# sweep in vault_lib is what pays for that. Corpus reads OSINT's through the
+# workroot junctions; an index/ appearing here means a script was run with the
+# repo root as ROOT, which indexes a tree holding none of the roots and yields
+# a correct index of nothing. That state reports itself *fresh*, so nothing
+# rebuilds and nothing warns. Committed once on 2026-08-14 (c53dcf7); removed.
+index/

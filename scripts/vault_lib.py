@@ -438,6 +438,10 @@ class ForeignIndex(RuntimeError):
     """A rebuild was attempted on an index belonging to another repository."""
 
 
+class EmptyIndex(RuntimeError):
+    """The index holds no artefacts at all — it indexed a tree that has none of the roots."""
+
+
 def _assert_own_index():
     """Refuse to rebuild an index that does not physically live in the tree being indexed.
 
@@ -472,7 +476,6 @@ def build_index(roots=INDEX_ROOTS, db=False, quiet=True):
     """Rebuild `index/` from scratch. The only writer there is."""
     _assert_own_index()
     t0 = time.time()
-    os.makedirs(INDEX_DIR, exist_ok=True)
     files, links = [], []
     mtime_max, warn_files = 0, 0
     for rel, ap in _walk(roots):
@@ -491,6 +494,17 @@ def build_index(roots=INDEX_ROOTS, db=False, quiet=True):
         if row["d"]["ext"] == ".md":
             links.extend(_links(row, body))
 
+    if not files:
+        # An index of nothing is never a legitimate build: none of the roots is present, so ROOT
+        # is not where the base is. Writing it is worse than failing, because zero files on disk
+        # then agrees with zero files in meta.json and the result reports itself *fresh* for ever
+        # after — nothing rebuilds it and nothing warns. That is how `C:\CORPUS\index` came to be
+        # committed on 2026-08-14 and how a render could have stripped every citation in silence.
+        raise EmptyIndex(
+            f"refusing to write an index of 0 artefacts to {INDEX_DIR} — none of {', '.join(roots)} "
+            f"is present under {ROOT}. Run from the tree the base actually lives in "
+            f"(Corpus: scripts/.workroot/, where the junctions resolve to OSINT).")
+    os.makedirs(INDEX_DIR, exist_ok=True)   # after the guard: a refused build leaves no directory
     _write_jsonl(FILES_JSONL, files)
     _write_jsonl(LINKS_JSONL, links)
     meta = {"version": INDEX_VERSION,
