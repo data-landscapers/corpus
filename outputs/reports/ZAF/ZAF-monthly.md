@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: ZAF
 ledger_rows: 63
 not_held: 11
-record: 0ef9087ff076
+record: 5947d77ec295
 ---
 
 # South Africa: monthly update, July 2026
@@ -32,12 +32,12 @@ Cape Town's municipal planning tribunal [approved two Equinix data centres](http
 ### Technical Capacity
 
 <!-- narrative: infrastructure--infra-capacity -->
-
+Parliament's science committee reported after an oversight visit that the [Centre for High Performance Computing has reached maximum capacity and that available infrastructure is insufficient for future growth](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). The centre is one of three pillars of the national cyber infrastructure system, alongside the research network and the secure national data centre, and it supports the electronic vaccination data system.
 <!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-
+Two independent readings of the year both point at the same thing. The financial regulator's fourth regulatory actions report records [140 public warnings and R2.89bn in penalties on 76 persons for the year to March](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ), most warnings concerning unregistered providers promoting investment offerings on social media and about a fifth involving impersonation of licensed institutions, the regulator and its own staff among them. [Over R2bn of that total is a single deepfake-advertising matter](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ), whose debarment and penalty reconsiderations were still pending at the report date. Separately a forensics firm puts [attacker dwell time at 18 days in 2025, with some intrusions running start to finish inside a day](https://www.itweb.co.za/article/ransomware-gangs-intensify-attacks-in-sa/lLn147mQzxP7J6Aa), attributed to ransomware-as-a-service and automated reconnaissance. It is one firm's caseload rather than a national series, and a shorter dwell time is faster execution, not better defence.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -50,7 +50,7 @@ The Electronic Communications Amendment Bill was published, [exempting community
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-_(narrative not yet written)_
+Two exchanges were arranged this month and neither states what happens to the data. The medicines regulator [opened a pilot inviting sponsors and investigators to report serious adverse events through an externally hosted module](https://www.sahpra.org.za/document/pilot-project-for-electronic-reporting-of-serious-adverse-events-e-reporting-for-industry-vigiflow-module/), routing South African clinical-trial safety data through infrastructure hosted by the WHO's Uppsala centre and adopting its reporting standard rather than a domestic one; no pilot duration, participant target, data-residency statement or transition date to mandatory reporting is published. The revenue service [signed an implementation arrangement with Malawi's revenue authority for a secure platform exchanging customs information in real time](https://itweb.africa/article/malawi-sa-sign-digital-customs-deal/raYAyqorGalMJ38N), aligned to the World Customs Organisation data model and operationalising a mutual assistance agreement negotiated in 2019. No go-live date is stated, and no purpose-limitation, retention or reciprocity terms are published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -76,7 +76,7 @@ Home Affairs reported [377,060 identity numbers still blocked](https://iol.co.za
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-
+The student funding scheme's administrator submitted a stabilisation plan stating that [ICT is the scheme's biggest operational risk, fragmented, manual and not fit for purpose](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m). The same submission reports 66 major audit findings and a disclaimer audit opinion from the Auditor-General, 115 overdue internal audit findings and nine material irregularities, five of them data or systems defects. The scheme was placed under administration in May and its governance failures referred to the Special Investigating Unit.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -96,17 +96,17 @@ The minister [backed the regulator](https://www.itweb.co.za/article/malatsi-back
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-_(narrative not yet written)_
+The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
 <!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-
+Parliament's communications committee [prefers strengthening the existing regulators through the ICT and media regulators forum to creating the four artificial-intelligence bodies the withdrawn draft policy proposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko). The forum was launched in 2024 and no instrument establishing its powers is held.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-
+The data-protection statute has been enforceable since 2021 and operates as an adequacy model rather than hard localisation: [cross-border transfers are permitted where equivalent protection, consent or contractual necessity applies, with the controller accountable](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/). The [maximum fine is R10m against a measured average breach cost of R44.1m](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/) — the penalty is a fraction of the harm it is meant to deter.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
