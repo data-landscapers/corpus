@@ -39,7 +39,7 @@ The work order (from `--all` above, or `python scripts/rebuild.py --scan`) lists
 
 1. **List the new slugs.** `python scripts/report-scan.py --slugs {ISO3}` (run from `scripts/.workroot/`, which `rebuild.py` sets up). Read each slug's `hub_line`, facets, and body from `raw/` only where the line is not enough.
 2. **Decide per source, against that unit's `outputs/reports/{ISO3}/ledger.csv`** — the four outcomes (`documentation/report-layer.md` §1 for the row test and columns, §3 for the two closed vocabularies):
-   - *moves a row* — a status, milestone, `as_at`, position or figure changed: move the old position into `prior_*`, set `movement`, append the slug to `sources`;
+   - *moves a row* — a status, milestone, position or figure changed: set `movement`, append the slug to `sources`, and set `published` to that record's publication date, which is the date at the front of its slug. **`published` is what ages the row out of a report**, so a move that does not update it leaves the row in a window it has left;
    - *mints a row* — a named system or instrument the ledger lacks, passing the row test (a named object whose position can move — not a topic the news covered);
    - *settles a **Not held** row* — strike it from `gaps.csv`, give it a status;
    - *default: nothing moves* — most sources report activity, not movement. Do **not** attach a slug to a row that did not move.

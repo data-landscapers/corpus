@@ -39,8 +39,8 @@ REPORTS = os.path.join(ROOT, "outputs", "reports")
 SECTIONS_CSV = os.path.join(ROOT, "lookups", "report-country-sections.csv")
 COUNTRIES_CSV = os.path.join(ROOT, "lookups", "countries.csv")
 
-LEDGER_COLUMNS = ["row_id", "place", "subject", "section", "kind", "name", "status", "as_at", "milestone",
-                  "since", "prior_status", "prior_as_at", "movement",
+LEDGER_COLUMNS = ["row_id", "place", "subject", "section", "kind", "name", "status", "published",
+                  "milestone", "since", "movement",
                   "position_start", "position_end", "sources", "probe_at", "note"]
 GAPS_COLUMNS = ["row_id", "place", "subject", "section", "name", "what_would_settle_it",
                 "probe_at", "disposition"]

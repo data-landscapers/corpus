@@ -9,8 +9,8 @@ them.** A render rebuilds the front matter, the section tables and the gaps tabl
 render rather than a redraft.
 
 **Three documents, one ledger** (`documentation/report-layer.md` §1). *Status* renders the current rows,
-*monthly* renders the rows whose `as_at` falls in the window, *progress* renders `prior_*` against
-current over a window (twelve months by default). All three are derived from the same file by
+*monthly* renders the rows whose `published` falls in the window, *progress* compares each row's
+`position_start` against its `position_end` over a window (twelve months by default). All three are derived from the same file by
 slicing it, so the second and third cost a render rather than a second reading of the base — which
 is the whole reason the run issues all three at initialisation.
 
@@ -271,7 +271,13 @@ def cite(value, r, urls):
 def status_table(rows, urls, label="System or instrument"):
     out = [f"| {label} | Status | As at |", "|---|---|---|"]
     for r in sorted(rows, key=lambda r: (stem(r["status"]) == NOT_HELD, r["name"].lower())):
-        at = (r.get("milestone") or "").strip() or (r.get("as_at") or "").strip() or "—"
+        # No fallback to `published` *(2026-08-14)*. This column prints **the event that fixed the
+        # position** (§1), and `published` is the date a source reported it — a different fact. The
+        # old `as_at` fallback held an event date so it could stand in; printing a publication date
+        # here would put "the report said so on the 22nd" where "gazetted on the 15th" belongs,
+        # which is the currency error the wiki's rules exist to prevent. 85% of rows carry a
+        # milestone; the rest print an em-dash and say nothing rather than something untrue.
+        at = (r.get("milestone") or "").strip() or "—"
         out.append(f"| {r['name']} | {cite(r['status'], r, urls)} | {at} |")
     return "\n".join(out)
 
@@ -330,13 +336,34 @@ def in_window(date, start, end):
     return bool(date) and start <= date[:10] <= end
 
 
-def moved_in(rows, start, end):
-    """Rows the ledger records as having taken a new position inside the window.
+SLUG_DATE = re.compile(r"^(\d{4}-\d{2}-\d{2})")
 
-    `as_at` is the date the current status is asserted from, so a row whose `as_at` falls in the
-    window is one the base moved in that window — the script test §2 asks for, not a judgement
-    made afresh."""
-    return [r for r in rows if in_window(r.get("as_at"), start, end)]
+
+def slug_date(slug):
+    """The publication date at the front of a source slug.
+
+    **`raw/` names every source by its publication date**, so the prefix and the record's own
+    `published:` field are the same date *(Bill, 2026-08-14)*. Where they differ it is only
+    precision — `published: 2015` against a slug padded to `2015-01-01` — and the slug carries the
+    padded form the windows need. Reading the prefix therefore costs nothing and needs no index."""
+    hit = SLUG_DATE.match(slug or "")
+    return hit.group(1) if hit else ""
+
+
+def moved_in(rows, start, end):
+    """The rows in scope for the window.
+
+    **A report is a curated selection of `raw/` records, period-selected by their published date**
+    *(Bill, 2026-08-14)*. A row is in scope when its `published` — the date of the most recent
+    record it cites — falls inside the window, and it ages out when the window moves past it. At
+    month turnover, records published outside the new scope are simply excluded, and because the
+    date sits on the row, **the ledger is what ages both the monthly and the progress report**.
+
+    This replaced selection on `as_at`, which was the event date a *position* was asserted from:
+    the right field for dating a claim and the wrong one for choosing what a period covers. 744
+    rows carried none at all and so fell out of every window however recently they were reported,
+    and a row citing a July source about a February event was filed under February."""
+    return [r for r in rows if in_window(r.get("published"), start, end)]
 
 
 def unit_slugs(unit, rows_index):
@@ -658,14 +685,14 @@ def render_progress(unit, today, month, window, end=None):
         b = (r.get("position_end") or "").strip()
         move = (r.get("movement") or "").strip()
         # Only the end position is cited: it is the position this run established.
-        b = cite(b, r, urls) if b else f"{mark(r['status'])} ({r.get('as_at') or 'undated'})"
+        b = cite(b, r, urls) if b else f"{mark(r['status'])} ({r.get('published') or 'undated'})"
         if not a:
             a, move = mark(BASELINE_NOT_HELD), (move or BASELINE_NOT_HELD)
         return a, b, (move or NO_CHANGE)
 
-    # A row whose position is dated after the window closed belongs to the status report, not to a
-    # comparison it post-dates. Counted, named, and kept out of the movement tables.
-    after = [r for r in held if (r.get("as_at") or "") > end]
+    # A row whose most recent record was published after the window closed belongs to the status
+    # report, not to a comparison it post-dates. Counted, named, kept out of the movement tables.
+    after = [r for r in held if (r.get("published") or "") > end]
     held = [r for r in held if r not in after]
     rows_ends = {r["row_id"]: ends(r) for r in held}
 
