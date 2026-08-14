@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: MWI
 ledger_rows: 44
 not_held: 58
-record: 3834815c6fa5
+record: d5c80efecb97
 ---
 
 # Malawi: monthly update, July 2026
@@ -135,7 +135,7 @@ The universal service fund is in operation and funded from the regulator's annua
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027.
+An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the [continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/).
 <!-- /narrative -->
 
 ## Finance
