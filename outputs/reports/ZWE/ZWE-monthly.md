@@ -1,15 +1,16 @@
 ---
 title: Zimbabwe — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: ZWE
-ledger_rows: 38
-not_held: 28
+ledger_rows: 66
+not_held: 9
+record: cb39b8b2cb08
 ---
 
 # Zimbabwe: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -32,17 +33,20 @@ The listed infrastructure company reported for the quarter ended May 2026 that i
 
 The state fixed operator's chief executive told its annual general meeting on 26 June that government arrears had risen to close to US$42m, also given as ZiG1.2bn, from US$19.2m a year earlier ([annual general meeting account](https://www.newsday.co.zw/business/article/200057743/govt-debt-to-telone-doubles-to-us42m)). The state mobile operator terminated its chief executive's contract on 4 August following a board resolution ([termination account](https://www.newsday.co.zw/local-news/article/200059025/netone-terminates-mushanawanis-contract-ending-turbulent-five-year-tenure)).
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
 The ICT ministry's 29 July address named a national high-performance computing centre, the state fixed operator and a private operator's data centre — the listed infrastructure company's Harare technology park among them — as the infrastructural spine for future government artificial intelligence ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
 <!-- /narrative -->
-
 ### Energy
 
 <!-- narrative: infrastructure--infra-energy -->
 The listed infrastructure company commenced phase 1 of a 100 MW solar farm for its technology park, and its fuel-management system was credited with reducing energy consumption on tower sites, with no percentage, litre, cost or uptime figure given ([trading update](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3)).
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
+
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -54,13 +58,11 @@ A whole-of-government enterprise resource planning system, integrating finance, 
 
 The online border management system Zimbabwe has been rolling out in phases since January 2025 was examined during a Rwandan immigration delegation's visit to two border posts on 29 July; no port coverage, completion date or throughput figure is published ([visit account](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/)).
 <!-- /narrative -->
-
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 A deputy registrar general told a meeting of African registrars general on 24 July that electronic passport enrolment centres operate in ten districts, eight provincial centres and one abroad, with seven-day issuance away from the capital ([meeting account](https://www.zbcnews.co.zw/african-registrars-look-to-replicate-zimbabwes-e-passport-success/)).
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -68,7 +70,6 @@ The road authority took handover of an expanded toll plaza on 29 July with two o
 
 The switch operator reported interoperable quick-response payments in rollout and participation in a pan-African settlement system, with no merchant, acceptance-point or transaction count ([conference account](https://www.zbcnews.co.zw/electronic-transactions-top-zig1-trillion-as-zimbabwe-deepens-digital-finance/)).
 <!-- /narrative -->
-
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
@@ -76,19 +77,26 @@ The same registrars-general meeting heard that all ten provinces and 63 district
 
 The transfer of voter registration and roll management from the electoral commission to the registrar-general, begun under the third constitutional amendment, is under way, with no date, transition plan or safeguard stated ([Senate account](https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/)).
 <!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
 
+<!-- narrative: dpi--dpi-mis -->
+
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 An implementing partner reported on 28 July that it had been building artificial-intelligence competency among research, committee and budget-office staff in Zimbabwe's Parliament, and that staff were using public tools on personal judgment, with limited monitoring of data flows into those platforms and no consistent approach to identifying fabricated output ([partner account](https://www.idinsight.org/article/ensuring-responsible-ai-adoption-in-african-parliaments/)).
 <!-- /narrative -->
-
 ### Rural digital data capture
 
 <!-- narrative: dpi--digital-rural -->
 The ICT minister told the National Assembly on 17 July that the universal services fund currently covers satellite-kit subscriptions only for digital centres and schools, and only for one year ([National Assembly account](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription)).
 <!-- /narrative -->
+### Digitalisation of sub-national government
 
+<!-- narrative: dpi--digital-localgov -->
+
+<!-- /narrative -->
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -104,25 +112,21 @@ The regulator ran a notice in the press on 26 July setting mandatory data-protec
 
 The justice minister told the Senate on 23 July that government has begun implementing the third constitutional amendment, transferring voter registration and management of the roll from the electoral commission to the registrar-general, and characterised the 2013 transfer to the commission as a response to legacy issues now considered resolved; no date, transition plan or safeguard was stated ([Senate account](https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/)).
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 The ICT ministry committed on 29 July to an artificial-intelligence ethics framework tabled by the end of the first quarter of 2027, publishing neither a standard nor a compliance deadline ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
 <!-- /narrative -->
-
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 A Rwandan immigration delegation toured two border posts on 29 July under a 2024 bilateral memorandum ([visit account](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/)).
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 Certification of every data protection officer is required under the same 26 July notice, at US$1,250 for a Zimbabwean ([notice account](https://www.techzim.co.zw/2026/07/potraz-starts-data-protection-inspections-on-1-september-here-is-what-it-means-for-you/)).
 <!-- /narrative -->
-
 ### Open data
 
 <!-- narrative: governance--data-open -->
@@ -138,9 +142,24 @@ The same 29 July address committed to indigenous-language corpora work led by un
 
 The listed infrastructure company described its remote monitoring system and digital twin as advancing rather than in production for the quarter ended May 2026 ([trading update](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3)).
 <!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: ai-tech--tech-industry -->
+
+<!-- /narrative -->
+### US / hyperscaler activities
+
+<!-- narrative: ai-tech--geopol-usa -->
+
+<!-- /narrative -->
 
 ## Inclusion and capacity
 
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+
+<!-- /narrative -->
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
@@ -148,7 +167,6 @@ The health minister told the National Assembly on 17 July that more than 400 hea
 
 At a payments conference on 24 July a research firm reported that 95% of transport payments remain cash, that 56% of respondents found digital systems complicated with people with disabilities particularly affected ([conference account](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/)).
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
@@ -162,7 +180,6 @@ The ICT minister told a small-business meeting on 17 July that a digital skills 
 <!-- narrative: finance--finance-new -->
 The ICT minister also committed on 29 July to ring-fencing a share of the universal services fund for public-good artificial-intelligence projects, stating no amount ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
 <!-- /narrative -->
-
 ### MoUs and other agreements
 
 <!-- narrative: finance--finance-mou -->

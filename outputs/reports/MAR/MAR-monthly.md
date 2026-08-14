@@ -1,15 +1,16 @@
 ---
 title: Morocco — monthly update, July 2026
-compiled: 2026-08-06
-period: 2026-07-01 to 2026-08-06
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: MAR
-ledger_rows: 16
-not_held: 30
+ledger_rows: 32
+not_held: 17
+record: 65f7431c3783
 ---
 
 # Morocco: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-06 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -30,13 +31,11 @@ An operator and a vendor placed a dual-band radio configuration into commercial 
 
 The transitional reduction of mobile interconnection tariff asymmetry took effect on 1 July 2026, running to 31 January 2027, with full symmetry from 1 February 2027, recorded in the incumbent's own half-year filing ([operator filing](https://www.iam.ma/documents/66341/0/Maroc+Telecom+-+Rapport+financier+S1+2026+%282%29.pdf/261de29d-cee8-407f-1e28-dbb3a53f985f)).
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
 The ministry signed a memorandum of understanding with a data-centre power and cooling supplier in Rabat on 27 July, covering digital infrastructure, cloud, artificial intelligence, high-performance computing and data centres. The ministry's own text commits only to exchanged expertise, technical studies and the identification of structuring projects, and attaches no sum; the 50 MW sovereign data centre in Rabat is named as something the cooperation will feed ([ministry communique](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-la-c%C3%A9r%C3%A9monie-de-signature-d%E2%80%99un-m%C3%A9morandum-d%E2%80%99entente-entre-le-minist%C3%A8re-de-la-transition-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-et-vertiv)). Parallel talks were held the same day with two other suppliers on the same ground.
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -50,19 +49,16 @@ _(narrative not yet written)_
 <!-- narrative: dpi--dpi-exchange -->
 A national water digital twin was described publicly on 28 July, to rest on a sovereign national data platform hosted in Morocco and fuse sensor networks, satellite observation and data from the basin agencies, the planning commission and engineering consultancies. The project lead put a first pilot 18 to 24 months away and gave no cost, budget line or procurement route ([project account](https://medias24.com/2026/07/28/jumeau-numerique-de-leau-ce-quil-faut-savoir-sur-ce-pillier-du-pole-tec-1732383/)).
 <!-- /narrative -->
-
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 The government council approved a draft decree on 9 July 2026 amending the 2008 biometric passport decree: four languages including Amazigh, an encrypted chip to international civil aviation standard, the holder's address removed from the biodata page and temporary passports abolished ([approval account](https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html)). Issuance is expected from August 2026, and the joint body that will set issuance procedures is not yet in place.
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 The same 50-article digital health bill adopted in the government council on 22 July 2026 creates a shared medical record and a national health identifier under a new digitisation agency ([bill account](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/)).
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -84,29 +80,30 @@ A constitutional-law academic stated on 30 July that the revised electoral frame
 
 Personal data protection law 09-08, recorded 4 August 2026 as recast in the legislative circuit, has no drafted narrative yet.
 <!-- /narrative -->
+### Strategies, plans and policies
 
+<!-- narrative: governance--gov-policy -->
+
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 Morocco was elected to the African Telecommunications Union's Administrative Council for 2027-2031 at the union's plenipotentiary conference in Abuja on 25 July, with a delegation combining the digital ministry, the regulator and the development agency ([ministry communique](https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031)).
 <!-- /narrative -->
-
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 Live facial recognition entered service in Rabat in the same weeks ([deployment account](https://assabah.ma/938960.html)), presented by the police directorate as domestically engineered and reported with an up-to-95% plate-recognition figure ([second account](https://www.wearetech.africa/fr/fils/actualites/tech/le-maroc-deploie-ses-premieres-patrouilles-de-police-integrant-l-ia)).
 <!-- /narrative -->
-
 ### EU activities
 
 <!-- narrative: governance--geopol-eu -->
 _(narrative not yet written)_
 <!-- /narrative -->
+### Open data
 
-## Artificial intelligence and the technology sector
+<!-- narrative: governance--data-open -->
 
-<!-- narrative: ai-tech -->
-No artificial-intelligence or technology-sector row moved in this window.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -116,7 +113,6 @@ No artificial-intelligence or technology-sector row moved in this window.
 <!-- narrative: inclusion--include-access -->
 An operator's sustainability report published on 10 July recorded 6,000 internet boxes refurbished in Morocco during 2025, which the operator put at about EUR 1.5m in savings, within a regional programme that refurbished 164,000 boxes in 2025, up 43% on 2024 ([operator report](https://www.wearetech.africa/fr/fils/actualites/telecom/orange-a-reconditionne-164-000-box-internet-en-2025-en-afrique-et-au-moyen-orient)). The figures are the operator's own and unaudited in the held source.
 <!-- /narrative -->
-
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->

@@ -1,14 +1,15 @@
 ---
 title: Morocco — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: MAR
-ledger_rows: 110
+ledger_rows: 111
 not_held: 17
+record: 0104dbf33267
 ---
 
 # Morocco: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/MAR/ledger.csv` (110 systems and instruments, 17 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/MAR/ledger.csv` (111 systems and instruments, 17 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ The ombudsman is the one independent measure of whether the digitisation works: 
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G commercial mobile service | [Implemented](https://www.hespress.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%86%D8%AA%D8%B1%D9%86%D9%8A%D8%AA-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-5g-%D9%8A%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D9%85%D8%BA-1652175.html) | Three operators launched on the same day, 2025-11-07 |
 | 5G licence specification and coverage obligations | [Implemented](https://www.anrt.ma/sites/default/files/2025-07/5G-Rapport-instruction.pdf) | ANRT's own instruction report on the licence process |
@@ -42,7 +43,7 @@ The ombudsman is the one independent measure of whether the digitisation works: 
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Decree 2-24-921 on qualified cloud service providers | [Planned, gazetted and not in force pending the qualification arrete](https://www.anrt.ma/sites/default/files/2025-03/D%C3%A9cret%202.24.921-%20Prestataires%20Cloud-FR.pdf) | Published in Bulletin officiel 7380, 2025-02-20 |
 | Icudar Dakhla green data centre | [Planned](https://techreviewafrica.com/news/3156/morocco-signs-agreements-to-launch-green-data-center-and-ai-institute-in-dakhla) | Agreement signed 2025-11-18 |
@@ -56,19 +57,19 @@ The ombudsman is the one independent measure of whether the digitisation works: 
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Renewable power supply agreement for the Nexus platform | [Planned](https://www.prnewswire.com/news-releases/global-consortium-led-by-nexus-core-systems-to-build-ai-factory-powered-by-500-mw-of-renewable-energy-and-next-generation-ai-compute-302485504.html) | Strategic agreement for up to 500 MW announced 2025-06-18 |
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National cybersecurity workforce plan | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Directive Nationale de la Securite des Systemes d'Information (DNSSI) v2.0 | [Implemented](https://www.dgssi.gov.ma/fr/textes-legislatifs-et-reglementaires/circulaire-du-chef-du-gouvernement-ndeg-22023-du-12-janvier) | Circulaire 02/2023 supersedes DNSSI v1.0 (2014, circulaire 3/2014, now unobtainable) |
 | National computer emergency response centre | [Implemented](https://www.hespress.com/%D8%AD%D9%85%D9%84%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B6%D8%AE%D9%85%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-1765087.html) | Security bulletin 65471806/26 issued 2026-06-21 on a firewall credential leak |
@@ -87,7 +88,7 @@ The cloud rules are made and not in force. Decree 2-24-921, in the Bulletin offi
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Continental cross-border data exchange pilot | [Planned](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Morocco named with Kenya and Nigeria in the announced pilot |
 | Cross-border data exchange guidelines | [In development](https://smartafrica.org/smart-africa-mobilises-11-member-states-in-the-kingdom-of-morocco-to-co-create-africas-first-cross-border-data-exchange-guidelines) | Eleven member states convened in Rabat to draft them |
@@ -96,7 +97,7 @@ The cloud rules are made and not in force. Decree 2-24-921, in the Bulletin offi
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric passport decree 2.26.551 | [Planned, issuance from August 2026](https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html) | Approved by the government council 2026-07-09 |
 | Electronic national identity card | [Implemented](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024) | 4.6m cards issued in 2024, per the police directorate's annual report |
@@ -107,14 +108,14 @@ The cloud rules are made and not in force. Decree 2-24-921, in the Bulletin offi
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Morocco FinTech Center | [Implemented](https://techreviewafrica.com/news/2410/morocco-advances-fintech-ecosystem-through-ai-and-financial-inclusion-focus) | Named by the minister at a payments industry event |
 | National financial inclusion strategy | [Implemented](https://www.bkam.ma/content/download/775636/8670507/SNIF%202021%20VF.pdf) | 2019-2023 first SNIF phase explicitly closed in Bank Al-Maghrib's exercice-2023 annual report; second-phase orientations set (digitalisation, aligned to the forthcoming Maroc Digital 2030) |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National population registry and unified social registry | [Implemented](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems) | US$70m second identity and targeting project approved 2024-12-04 |
 | National register agency | [In development](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems) | Named as a component of the 2024 project to be operationalised |
@@ -122,29 +123,30 @@ The cloud rules are made and not in force. Decree 2-24-921, in the Bulletin offi
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Shared medical record | [In development, bill not yet law](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/) | Doctors' unions publicly contest the bill's penal chapter, reported 2026-08-06 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | GovTech Innovation Challenge 2026 | [Implemented, no budget or timetable announced](https://maroc.ma/fr/actualites/rabat-lancement-de-ledition-2026-du-govtech-innovation-challenge) | Launched in Rabat 2026-07-22 |
 | Law 55.19 and the administrative procedures portal | [Implemented](https://en.hespress.com/142557-morocco-abolishes-22-administrative-certificates-to-streamline-public-services.html) | In force 2020-09-28; the idarati.ma portal created by its article 26 |
+| Medical council digital platform (CNOM) | [Implemented](https://fr.hespress.com/484345-sante-le-cnom-lance-officiellement-sa-nouvelle-plateforme-numerique.html) | Launched by the medical council, 6 August 2026 |
 | Police online services and reporting portals | [Implemented](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024) | One portal launched in 2024, the reporting platform in June 2024 |
 | Commune-level rollout of the procedures portal | ***Not held*** | — |
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Mobile identity enrolment units | [Implemented](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024) | 80 mobile units serving more than 130,000 citizens (2024) |
 | Registry extension to rural and remote areas | [In development](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems) | A component of the 2024 project; at least five programmes by end-2024 and eight by 2028 |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National earth-observation data programme | [Implemented](https://www.unoosa.org/documents/pdf/copuos/2024/statements/9_Morocco.pdf) | Morocco's own COPUOS-67 statement |
 
@@ -160,7 +162,7 @@ Law 55.19 has been in force since 28 September 2020, and only procedures publish
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital health bill 52.26 | [In development](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/) | Adopted in the government council 2026-07-22 |
 | Digital X.0 framework bill | [In development](https://cadeproject.org/updates/morocco-introduces-digital-x-0-law-to-drive-ai-governance-and-digital-sovereignty) | Under review by the government's general secretariat, November 2025 |
@@ -172,7 +174,7 @@ Law 55.19 has been in force since 28 September 2020, and only procedures publish
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cloud First policy | [Implemented](https://northafricapost.com/92626-moroccos-cloud-first-policy-transforms-digital-governance-and-economic-strategy.html) | Cloud made the mandatory default for public-administration technology investment |
 | Digital Morocco 2030 | [Implemented](https://www.trade.gov/country-commercial-guides/morocco-digital-economy) | Launched 2024-09-25 |
@@ -180,7 +182,7 @@ Law 55.19 has been in force since 28 September 2020, and only procedures publish
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | African Telecommunications Union Administrative Council seat | [Planned, term begins 2027](https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031) | Elected at the union's 26th plenipotentiary conference, sessions 16-24 July 2026 |
 | Host-country agreement for a continental development agency office | [Planned](https://assabah.ma/928742.html) | Approved by the council of ministers 2026-04-09 |
@@ -190,13 +192,13 @@ Law 55.19 has been in force since 28 September 2020, and only procedures publish
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data classification guide | [Implemented](https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup) | Issued during 2025; exact date not established |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data-protection cooperation memorandum with Portugal | [Implemented](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Signed 2026-02-08 |
 | Data-protection deliberation on video surveillance | [In development](https://www.cndp.ma/wp-content/uploads/2025/03/CNDP-Communique%E2%95%A0%D0%91-Vide%E2%95%A0%D0%91osurveillance-et-protection-des-donne%E2%95%A0%D0%91es-a%E2%95%A0%D0%90-caracte%E2%95%A0%D0%90re-personnel-FR-20250321.pdf) | Hearings decided 2025-03-21 |
@@ -211,13 +213,13 @@ Law 55.19 has been in force since 28 September 2020, and only procedures publish
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ombudsman's 2025 annual report | ***Not held*** | — |
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Council of Europe Convention 108 accession | [Implemented](https://rm.coe.int/16806fdcb3) | Ratified during 2019; the exact date is not held |
 | European Union adequacy decision for Morocco | [Planned, not granted](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) | Morocco absent from the Commission's list of recognised third countries, current to 2026-08-05 |
@@ -225,7 +227,7 @@ Law 55.19 has been in force since 28 September 2020, and only procedures publish
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cooperation agreement with the anti-corruption authority | [Implemented](https://techreviewafrica.com/news/5330/morocco-hosts-african-open-government-conference-signs-key-agreements-to-strengthen-transparency-and-digital-governance) | Signed on the margins of the African open government conference, 5-7 May 2026 |
 | National open-data portal | [Implemented](https://data.gov.ma/sites/default/files/docs/Open_data_manuel_ROD_Avril%202021.pdf) | Governance structure documented: Comite de Pilotage (10 bodies, ADD-coordinated) established December 2019, ADD/World Bank Open Data Readiness Assessment carried out 2020 |
@@ -247,7 +249,7 @@ The national open-data portal runs on a four-volume procedure the digital develo
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI Made in Morocco roadmap | [In development](https://techafricanews.com/2026/03/11/ministry-of-digital-transition-and-administration-reform-highlights-ais-role-in-digital-transformation/) | Named in ministry statements from a Fez seminar, 2026-03-11 |
 | Al-Jazari institutes network | [In development](https://techafricanews.com/2026/03/11/ministry-of-digital-transition-and-administration-reform-highlights-ais-role-in-digital-transformation/) | Founding agreement for the industry institute signed 2026-03-11 |
@@ -256,14 +258,14 @@ The national open-data portal runs on a four-volume procedure the digital develo
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Oracle regional research and development office, Agadir | [Implemented](https://techreviewafrica.com/news/6122/oracle-inaugurates-regional-rd-office-in-agadir) | Inaugurated in Agadir 2026-06-29 |
 | Renewed offshoring offer and specialised territorial hubs | [In development](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-signs-three-deals-to-strengthen-digital-offshoring) | Three agreements signed in Rabat 2026-01-27 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial-intelligence start-up programme with a technology park | [Planned](https://techafricanews.com/2026/04/09/orange-maroc-partners-technopark-to-accelerate-ai-and-digital-transformation/) | Announced at a technology exhibition, 2026-04-09 |
 | Official start-up investment statistics | ***Not held*** | — |
@@ -271,14 +273,14 @@ The national open-data portal runs on a four-volume procedure the digital develo
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | United States-Morocco Agreement on Scientific and Technical Cooperation | [Implemented](https://www.state.gov/morocco-23-728/) | Protocol amending and extending signed at Rabat 2023-07-28, effective 2023-08-08 |
 | Morocco-United States bilateral digital or artificial-intelligence agreement | ***Not held*** | — |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Morocco-China technology cooperation framework | ***Not held*** | — |
 
@@ -296,32 +298,32 @@ Research and technology cooperation with the United States rests on the two stat
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital inclusion index or indicator framework | ***Not held*** | — |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Stratégie nationale d'alphabétisation 2023-2035 | [Implemented](https://www.anlca.gov.ma/sites/default/files/2025-10/Strategie-nationale-d%27alphabetisation-SNA-%281%29_compressed-%281%29.pdf) | Delivered via a feuille de route 2023-2027 (ANLCA) |
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital literacy programme | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Executive leadership programme in cybersecurity | [Implemented](https://assabah.ma/928742.html) | Held in Rabat 1-5 June 2026 |
 | Ministry-Capgemini artificial-intelligence skills memorandum | [Implemented, framework only](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-le-maroc-renforce-son-ecosysteme-avec-lappui-de-capgemini) | Signed in Rabat 2026-07-17 |
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National research, development and innovation support programme (PNARDI) 2025-2028 | [Implemented](https://www.maroc.ma/fr/actualites/lancement-officiel-du-programme-national-dappui-la-recherche-developpement-et-linnovation-2025-2028) | First edition's three sub-programmes opened for applications, window 2025-06-03 to 2025-10-15 |
 
@@ -333,7 +335,7 @@ Skills commitments are frameworks without sums: a memorandum with a consultancy 
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Corporate venture fund | [Implemented](https://techtrends.africa/the-rise-of-african-corporate-venture-capital/) | Reported operating 2026-08-02; no establishment date on file |
 | Digital Transformation Acceleration Program | [In development, approved and signed, not yet effective](https://www.worldbank.org/en/news/press-release/2026/06/12/two-new-programs-to-advance-morocco-s-digital-transformation-and-climate-resilience) | Approved and signed June 2026; effectiveness targeted before 2026-09-23 |
@@ -344,7 +346,7 @@ Skills commitments are frameworks without sums: a memorandum with a consultancy 
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Ministry-Orange artificial-intelligence memorandum | [Implemented, framework only](https://techafricanews.com/2026/06/05/morocco-signs-ai-partnership-with-orange-morocco-to-advance-digital-transformation/) | Signed in Casablanca 2026-06-04 |
 | Private 5G platform agreement and laboratory | [Implemented, framework only](https://techafricanews.com/2026/04/08/orange-maroc-and-ericsson-strengthen-collaboration-on-africas-digital-transformation/) | Signed at a technology exhibition, 7-9 April 2026 |
@@ -352,7 +354,7 @@ Skills commitments are frameworks without sums: a memorandum with a consultancy 
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital ministry appropriation in the 2026 finance law | ***Not held*** | — |
 

@@ -1,14 +1,15 @@
 ---
 title: Cote d'Ivoire — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: CIV
 ledger_rows: 108
 not_held: 10
+record: e42d716cb596
 ---
 
 # Cote d'Ivoire: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/CIV/ledger.csv` (108 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/CIV/ledger.csv` (108 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -22,7 +23,7 @@ Côte d'Ivoire has a personal-data statute in force since 2013, a cyber-security
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 5G commercial launch | [Planned](https://techafricanews.com/2026/06/15/cote-divoire-accelerates-digital-push-with-starlink-licence-and-5g-launch/) | July 2026 launch date passed with nothing on record |
 | CIVIX national internet exchange point | [Implemented](https://www.fratmat.info/article/2642599/economie/peeringday-2026appairage-et-interconnexion-lartci-mobilise-lecosysteme-numerique-autour-dun-internet-performant) | Average daily traffic put at 36 Gbps |
@@ -37,7 +38,7 @@ Côte d'Ivoire has a personal-data statute in force since 2013, a cyber-security
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | GPU Cloud Africa | [Planned](https://itweb.africa/content/mYZRXv9g4nEMOgA8) | Stated second-quarter 2025 start passed with nothing on record |
 | National Data Centre | [In development](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Formal authorisation to proceed at US$170m |
@@ -46,13 +47,13 @@ Côte d'Ivoire has a personal-data statute in force since 2013, a cyber-security
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electricity load of data centres and telecom sites | ***Not held*** | No measured load published; one facility's design figure is all that is held |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 3R Technologie security operations centre | [Implemented](https://www.fratmat.info/article/2642034/societe/cybersecurite-en-cote-divoire-un-centre-intelligent-pour-traquer-les-cybermenaces-en-temps-reel) | Launched at Cocody-Angre 2026-05-19 |
 | National public key infrastructure | [Implemented](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/) | Commissioning announced 2026-07-23 |
@@ -71,7 +72,7 @@ The state agency [commissioned the national public key infrastructure](https://w
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | e-Administration bank-loan interconnection | [In development](https://connectionivoirienne.net/2026/07/31/fonction-publique-vers-la-fin-des-longues-demarches-pour-obtenir-un-pret-bancaire-en-cote-divoire/) | Working session held with bank information-systems heads to advance deployment, 2026-07-29 |
 | Port Community System | [Implemented](https://www.linfodrome.com/economie/121288-digitalisation-du-commerce-exterieur-plus-de-400-participants-attendu-a-la-premiere-edition-du-guce-connect) | Named as the trade single window's operating logistics platform |
@@ -82,7 +83,7 @@ The state agency [commissioned the national public key infrastructure](https://w
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Border management system at the Kalamon post | [Implemented](https://www.biometricupdate.com/202607/iom-digital-migration-platform-helps-cote-divoire-modernize-border-management) | Review mission reported 2026-07-06 |
 | Digital post box | [Implemented](https://www.biometricupdate.com/202601/cote-divoire-digitizes-postal-services-with-mobile-app-launch) | Made obligatory from 2026-03-01 |
@@ -92,7 +93,7 @@ The state agency [commissioned the national public key infrastructure](https://w
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cross-network mobile-money transfer app | [Implemented](https://www.wearetech.africa/fr/fils/tech-stars/avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile) | Launched May 2026 |
 | Fourth electronic-money licence | [Implemented](https://www.fratmat.info/article/2637099/economie/inclusion-financieremonnaie-electronique-la-cote-divoire-enregistre-un-4e-etablissement) | Licence granted 2025-09 |
@@ -104,20 +105,20 @@ The state agency [commissioned the national public key infrastructure](https://w
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-registry software rollout | [Implemented](https://www.aip.ci/cote-divoire-aip-digitalisation-de-letat-civil-les-sous-prefets-du-goh-mobilises-pour-accompagner-la-reforme-de-loneci/) | Every municipal and sub-prefecture centre equipped, end-2025 |
 | e-mining cadastre portal | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-launches-e-mining-portal-to-improve-transparency-and-investment) | Inaugurated 2025-09-22 |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Transport data platform | [Implemented](https://www.fratmat.info/article/2641293/economie/fluidite-des-transports-une-nouvelle-plateforme-pour-accompagner-les-acteurs) | Handed over 2026-04-15 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CERTINUM data-protection compliance platform | [Implemented](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire) | Regulator's own communique confirms the 2 July 2026 launch and directs controllers onto the platform, 2026-08-03 |
 | e-Justice platform | [Implemented](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien) | Last eleven tribunals connected 2026-06-29 |
@@ -126,7 +127,7 @@ The state agency [commissioned the national public key infrastructure](https://w
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Grand Abidjan urban planning geoportal | [In development](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance) | Project launched 2026-06-11 for 2025 to 2027 |
 
@@ -146,7 +147,7 @@ The data-protection authority's own communique, dated 3 August 2026, confirms th
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Loi n 2013-546 on electronic transactions | [Implemented, article 50 repealed](https://fr.apanews.net/technologies/rci-lanssi-lance-la-pki-pour-une-souverainete-numerique/) | Article 50 repealed by ordinance, ratified 2025 |
 | Loi n 2024-352 on electronic communications | [Implemented](https://www.linfodrome.com/economie/120778-regulation-numerique-l-artci-et-les-operateurs-renforcent-le-cadre-de-conformite-en-cote-d-ivoire) | Annual compliance seminar reviewing its application, April 2026 |
@@ -157,7 +158,7 @@ The data-protection authority's own communique, dated 3 August 2026, confirms th
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Information system master plan of the economy ministry | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/ivorian-economy-ministry-sets-2026-2030-roadmap-for-it-modernization) | Adopted and presented December 2025 |
 | National Cybersecurity Strategy 2021-2025 | [Discontinued, term expired](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) | Evaluation presented at the Abidjan-Plateau workshop 2026-07-23 |
@@ -165,14 +166,14 @@ The data-protection authority's own communique, dated 3 August 2026, confirms th
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | State security reference framework auditor certification | [Implemented](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | 88 auditors certified at an Abidjan-Plateau ceremony |
 | Migration data governance strategy | ***Not held*** | Named by the diaspora directorate at the 30 July 2026 profiling workshop |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Loi n 2013-450 on personal data protection | [Implemented](https://www.autoritedeprotection.ci/artci/) | Since 19 June 2013 |
 | Register of data-protection officers | [Implemented](https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire) | Created in 2026 per the minister's stocktake |
@@ -181,13 +182,13 @@ The data-protection authority's own communique, dated 3 August 2026, confirms th
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Consumer grievance platform | [Implemented](https://news.abidjan.net/articles/748737/cote-divoire-lunion-federale-des-consommateurs-lance-my-signal-une-plateforme-numerique-pour-renforcer-la-protection-des-consommateurs) | Launched in Abidjan 2026-07-30 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Access to public-interest information programme | [Implemented](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire) | Presented at the Prime Minister's office 2025-07-25 |
 
@@ -203,7 +204,7 @@ The 2021 to 2025 cyber-security strategy remains the instrument formally in forc
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI acceleration programme | [In development](https://www.fratmat.info/article/2632286/economie/strategies-nationales-de-la-gouvernance-de-donnees-et-de-lia-la-bad-continuera-a-soutenir-les-initiatives-) | Launched alongside the strategy handover, 2025-03-13 |
 | Francophone West African AI governance guidelines | [Implemented, non-binding](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Adopted and announced 2026-07-06 |
@@ -219,14 +220,14 @@ The 2021 to 2025 cyber-security strategy remains the instrument formally in forc
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electric ride-hailing fleet | [Implemented](https://techcabal.com/2026/07/18/gocab-yango/) | 100 vehicles delivered 2026-07-18 |
 | National industry 4.0 strategy | [Planned](https://www.fratmat.info/article/2631919/economie/industrie-40-la-strategie-nationale-remise-au-gouvernement) | Handed to government 2025-02-26 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | E-tourism platform | [In development](https://techafricanews.com/2026/06/15/cybastion-and-cote-divoire-collaborate-on-sublime-cote-divoire-e-tourism-platform/) | Roadmap presented April 2026, partnership confirmed at the 2026 national tourism council |
 | Government technology procurement platform | [Planned](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique) | Unveiled 2026-07-29 |
@@ -238,26 +239,26 @@ The 2021 to 2025 cyber-security strategy remains the instrument formally in forc
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | US export-credit digital package | [In development](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Ivorian authorisation to proceed announced 2026-07-16 |
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Network operations outsourcing | [Implemented](https://techafricanews.com/2026/04/30/telecom-giant-orange-cote-divoire-highlights-10-years-of-network-partnership-with-huawei/) | Ten years marked, 2026-04-30 |
 | Smart agriculture platform | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-eyes-huawei-partnership-to-digitize-agriculture-sector) | Preliminary ministerial approval 2026-05-19 |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Technology park | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-vitib-seeks-311-mln-to-accelerate-its-development) | Since 2004; US$311m raise sought for the plan to 2028 |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf AI memoranda | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-signs-ai-partnership-to-modernize-public-services) | Two non-binding memoranda signed July 2025 |
 
@@ -271,13 +272,13 @@ A government assistant went live in March 2026 on messaging platforms and a toll
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Feature-phone service platform | [Planned](https://techcabal.com/2026/02/06/brastorne-expands-to-cote-divoire/) | Launch stated for the end of the first quarter of 2026 |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Financial-service rating system | [Piloting](https://techafricanews.com/2026/04/15/mobile-app-coming-soon-as-cote-divoire-rolls-out-nationwide-financial-service-rating-system/) | 2,234 evaluations recorded to 2026-03-31 |
 | Portfolio guarantee for small enterprises | [Implemented](https://www.aip.ci/aip-une-banque-digitale-et-la-sgpme-signent-deux-accords-pour-faciliter-lacces-des-pme-ivoiriennes-au-credit/) | Two conventions signed in Abidjan 2026-07-23 |
@@ -286,7 +287,7 @@ A government assistant went live in March 2026 on messaging platforms and a toll
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Education digitalisation baseline study | [In development](https://www.fratmat.info/article/2638618/societe/digitalisation-de-leducation-en-cote-divoire-la-validation-technique-des-outils-de-letude-de-reference-bouclee) | Technical validation of tools, December 2025 |
 | Innovation and culture centres in schools | [Implemented](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins) | Nine centres open, twenty announced for 2026 |
@@ -295,7 +296,7 @@ A government assistant went live in March 2026 on messaging platforms and a toll
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Certified cyber-specialist programme | [Implemented](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | Target of 1,200 certified in three years announced 2026-07-29 |
 | Chinese digital education loan | [Implemented](https://www.dropbox.com/s/myashl99hq44wde/Projet%20d%E2%80%99%C3%89ducation%20Num%C3%A9rique_85%25%20English.pdf?dl=0) | Loan agreements signed 2018-08-31, fully disbursed by December 2022 |
@@ -307,7 +308,7 @@ A government assistant went live in March 2026 on messaging platforms and a toll
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber-security masters degrees | [In development](https://www.aip.ci/cote-divoire-aip-lanssi-et-lesatic-valident-les-maquettes-de-deux-masters-pour-renforcer-les-competences-nationales-en-cybersecurite/) | Curricula examined and validated at the 2026-07-28 workshop |
 
@@ -319,13 +320,13 @@ The cyber-security agency set a target of [1,200 certified specialists in three 
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | World Bank inclusive digitalisation programme | [Implemented](https://www.bilan.gouv.ci/actualite/19406) | Loan agreement ratified by decree at the Conseil des ministres 2026-02-04 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Telecoms regulation levy programme | [Implemented](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | FY2026 finance law |
 | Universal service levy programme | [Implemented](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | FY2026 finance law promulgated 2025-12-19 |

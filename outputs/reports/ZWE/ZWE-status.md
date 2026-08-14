@@ -1,14 +1,15 @@
 ---
 title: Zimbabwe — digital transformation and data governance status report
-compiled: 2026-08-11
+compiled: 2026-08-14
 place: ZWE
-ledger_rows: 144
+ledger_rows: 147
 not_held: 9
+record: 8964852bc947
 ---
 
 # Zimbabwe: status report
 
-*Compiled 2026-08-11 from the Data Landscapers source base, from `outputs/reports/ZWE/ledger.csv` (144 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ZWE/ledger.csv` (147 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,7 +27,7 @@ The identity system that would underpin any of it has not started. A national di
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Broadband mapping programme | [In development](https://www.newsday.co.zw/local-news/article/200055470/govt-defends-starlink-rollout) | The minister told the National Assembly government is working with operators to identify poor-coverage areas |
 | Cross-border fibre corridor to Zambia | [Implemented, phase 1 only](https://www.newsday.co.zw/local-news/article/200057978/powertel-join-paratus-zimbabwe-to-launch-new-digital-highway) | Plumtree to Bulawayo carrying traffic |
@@ -42,7 +43,7 @@ The identity system that would underpin any of it has not started. A national di
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National data centre ecosystem | [Planned](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Committed in the ICT minister's five-point policy compass |
 | National high-performance computing centre | [Implemented](https://www.crcc.cn/art/2017/12/8/art_549_689068.html) | Phase 2 grant of CNY 100,000,000 signed 2017-12-06, implementation from 2018 |
@@ -53,7 +54,7 @@ The identity system that would underpin any of it has not started. A national di
 
 ### Energy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | 100 MW solar farm for the technology park | [In development](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3) | Phase 1 construction commenced in the quarter to May 2026 |
 | Artificial-intelligence fuel management on tower sites | [Implemented](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3) | Phased rollout reported for the quarter to May 2026 |
@@ -63,14 +64,14 @@ The identity system that would underpin any of it has not started. A national di
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National internet exchange point | [Implemented](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/2020/contributions/RI2_POTRAZ-Zimbabwe-IXP_RDFAFR2020.pdf) | Reported to the ITU Regional Development Forum for Africa 2020-10-06 |
 | Regulator's international bandwidth measurement framework | [Implemented, satellite operator excluded](https://www.newsday.co.zw/theindependent/business-digest/article/200055624/measured-but-not-counted-how-starlink-broke-potrazs-bandwidth-framework) | The satellite operator excluded and the baseline restated from Q2 2025 |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial-intelligence and cybersecurity fusion centre | [Planned](https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/) | Proposed in the National AI Strategy 2026-2030 |
 | Cyber security and monitoring of interception of communications centre | [Implemented](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20%26%20Data%20Protection%20Act%20Cap1207%20No%205%20of%202021%20gaz%202022-03-11.pdf) | Established as a unit in the Office of the President by the Cyber and Data Protection Act |
@@ -93,7 +94,7 @@ None of the commercial storage estate is carrier-neutral: an analyst brief for a
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Health information exchange | [In development](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf) | Ministry of Health and Child Care's Zimbabwe Core FHIR Implementation Guide (ZWCore) held as a continuous-build draft, version 0.1.0 |
 | Mandated open interface standards for public-sector platforms | [Planned](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Committed in the ICT minister's five-point policy compass |
@@ -103,7 +104,7 @@ None of the commercial storage estate is carrier-neutral: an analyst brief for a
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cotton farmer biometric registry | [In development](https://www.biometricupdate.com/202510/nigeria-zimbabwe-launch-new-farmer-digital-id-initiatives) | The marketing authority cleared to proceed; field teams stated for 2025-10-15 |
 | Electronic passport | [Implemented](https://www.zbcnews.co.zw/african-registrars-look-to-replicate-zimbabwes-e-passport-success/) | Enrolment centres in ten districts, eight provincial centres and one abroad |
@@ -116,7 +117,7 @@ None of the commercial storage estate is carrier-neutral: an analyst brief for a
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bank charge caps | [Implemented, enforcement capacity questioned](https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits) | Compliance directed by 2026-03-31 |
 | Cash-recycler machines at retail outlets | [Implemented](https://www.equityaxis.net/post/19212/2026/7/the-o-mari-effect-zimbabwe-s-mobile-money-war-goes-physical-as-netone-remains-idle) | Ten installed, 78 stated in the pipeline |
@@ -132,7 +133,7 @@ None of the commercial storage estate is carrier-neutral: an analyst brief for a
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital land administration platform | [Piloting](https://www.newzimbabwe.com/legal-discussions-with-vengai-madzima-title-deed-validation-and-reissuance-pilot-programme-of-zimbabwe/) | Sixteen law firms selected for a two-week validation pilot |
 | Statutory Instrument 76 of 2025 on securitised deeds | [Implemented, commencement trigger stated two ways](https://nehandaradio.com/2025/08/01/avoid-the-rush-avoid-the-risk-how-to-secure-your-property-in-zimbabwe-with-the-new-digital-deed-system) | Gazetted 2025-07-18 |
@@ -141,7 +142,7 @@ None of the commercial storage estate is carrier-neutral: an analyst brief for a
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | E-Health Strategy 2012-2017 | [Discontinued, no successor held](https://cdn.who.int/media/docs/default-source/digital-health-documents/global-observatory-on-digital-health/zwe_ehealth.pdf) | Term ended 2017 with no successor strategy held |
 | National health management information system | [Implemented](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf) | 1,254 of a planned 1,900 facilities implementing the national electronic medical record (2025-08) |
@@ -149,7 +150,7 @@ None of the commercial storage estate is carrier-neutral: an analyst brief for a
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government information technology specification standards | [Implemented](https://www.newsday.co.zw/local-news/article/200042263/govt-reviews-ict-standards-to-boost-digitalisation) | Version 2.0 issued May 2025 by the E-Government Technology Unit |
 | Parliamentary artificial-intelligence competency programme | [Implemented](https://www.idinsight.org/article/ensuring-responsible-ai-adoption-in-african-parliaments/) | The implementing partner reports work with research, committee and budget-office staff |
@@ -158,28 +159,29 @@ None of the commercial storage estate is carrier-neutral: an analyst brief for a
 
 ### Rural digital data capture
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Universal services fund subscription support | [Implemented, scope limited](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription) | The ICT minister told the National Assembly the scope covers digital centres and schools |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Local authority electronic services and revenue systems | [Implemented](https://kwekwecity.org.zw/departments/finance/) | Kwekwe City Council's own page states billing runs on the Promun (ERP) package |
 | Satellite kits for local authorities | [Implemented, handover only](https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/) | 250 kits handed to the local government ministry |
 
 ### National statistics
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
+| 2026/27 Household Budget Survey | [In development](https://www.newsday.co.zw/local-news/article/200059087/zimstat-begins-household-survey-preparations) | Nationwide household-listing exercise, 7-17 August 2026 |
 | ICT access by households and use by individuals survey | [Implemented](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift) | The 2025 round released 2026-07-20; 9,245 households, 91.3% response |
 | Regulator's abridged sector performance report | [Implemented](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) | The Q4 2025 edition, reporting period October to December 2025 |
 | The 2025 household survey report | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National geospatial and earth-observation data programme | [Implemented](https://www.veritaszim.net/node/3481) | Agency established by General Notice 483 of 2019 |
 
@@ -199,7 +201,7 @@ The national electronic medical record, Impilo, is implemented at 1,254 of a pla
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber and Data Protection Act | [Implemented](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20%26%20Data%20Protection%20Act%20Cap1207%20No%205%20of%202021%20gaz%202022-03-11.pdf) | Consolidation gazetted 2022-03-11 |
 | Local-ownership rule for telecommunications operators and its repeal | [Discontinued, repeal reported and unverified](https://www.veritaszim.net/node/8017) | Gazetted 2026-06-12; reported repealed by Statutory Instrument 111 of 2026 |
@@ -211,7 +213,7 @@ The national electronic medical record, Impilo, is implemented at 1,254 of a pla
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial-intelligence ethics framework | [Planned](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | The ministry committed to tabling by the end of the first quarter of 2027 |
 | Artificial-intelligence strategy implementation office | [Planned](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85) | Provided for in the strategy, to sit in the ICT ministry |
@@ -226,20 +228,20 @@ The national electronic medical record, Impilo, is implemented at 1,254 of a pla
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Zimbabwe-European Union digital or artificial-intelligence cooperation instrument | [Implemented, no digital priority area](https://international-partnerships.ec.europa.eu/document/download/ae45cfa0-e8f0-49cd-9af7-354849957dd6_en?filename=mip-2021-c2021-9056-zimbabwe-annex_en.pdf) | Multiannual Indicative Programme 2021-2027 adopted under Commission Implementing Decision C(2021)9056 |
 | Zimbabwe-Rwanda memorandum on immigration cooperation | [Implemented](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/) | Signed 2024; a benchmarking visit 2026-07-29 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National artificial-intelligence technical standards | [Planned](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Proposed by the National AI Strategy |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Administrative sanctions under the data protection act | [Planned](https://technomag.co.zw/potraz-unveils-2025-26-planned-enforcement-actions-for-data-controllers/) | The regulator stated they are not yet in place |
 | Data protection officer certification | [Implemented](https://www.techzim.co.zw/2026/07/potraz-starts-data-protection-inspections-on-1-september-here-is-what-it-means-for-you/) | Certification required of every officer, at US$1,250 plus a US$30 application fee |
@@ -248,13 +250,13 @@ The national electronic medical record, Impilo, is implemented at 1,254 of a pla
 
 ### Public debate and participation in policymaking
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Public consultation record for the National AI Strategy | [Implemented, the strategy's own record only](https://veritaszim.net/sites/veritas_d/files/Zimbabwe%20National%20Artificial%20Intelligence%20Strategy.pdf) | Consultations recorded in the strategy, closing at Masvingo 2025-09-11 |
 
 ### Open data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National artificial-intelligence and data platform | [Planned](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85) | Provided for in the strategy, to be introduced gradually |
 | Open government data initiative under the strategy | [Planned](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85) | A National Data Commons announced at the AI for Impact launch 2026-08-04 |
@@ -275,33 +277,35 @@ The justice minister told the Senate on 23 July 2026 that transfer of the voters
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial-intelligence literacy campaign | [Planned](https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/) | Introduced in the National AI Strategy |
 | Artificial-intelligence remote monitoring and digital twin | [In development](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3) | Described as advancing in the trading update for the quarter ended May 2026 |
+| Electronic Traffic Management System (Harare City Council) | [In development](https://www.newsday.co.zw/local-news/article/200059121/harare-says-ai-traffic-cameras-roll-out-to-improve-road-safety-avoid-entrapment-concerns) | Rollout across the central business district reported, 7 August 2026 |
 | Harare traffic management system | [Implemented](https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform) | Reported in operation and described as developed by the state operator |
 | Indigenous-language corpora programme | [Planned](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Committed, universities to lead, part-financed from the universal services fund |
 | National artificial-intelligence compute siting | [Implemented, sited outside Zimbabwe](https://www.econet.co.zw/econet-launches-dedicated-ai-unit-to-drive-digital-transformation/) | Stated in the operator's own launch announcement 2026-04-15 |
 | National artificial-intelligence innovation fund | [Planned](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) | Named in the strategy as the "Mugove/Isabelo" fund; a Zimbabwe Innovation Catalyst Fund announced 2026-08-04 |
 | National truth-verification platform | [Planned](https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/) | Proposed in the National AI Strategy |
+| Smart Traffic Management System (ZRP Smart Policing Programme) | [In development](https://www.newsday.co.zw/local-news/article/200059127/zimbabwe-expands-ai-traffic-cameras-to-tackle-us400m-road-crash-losses) | Nationwide expansion of AI traffic cameras announced, 7 August 2026 |
 | University high-performance computer | [Implemented, access constrained](https://www.techzim.co.zw/2026/04/econet-ai-is-here-and-its-more-than-those-yamurai-ads-weve-been-seeing/) | Operating, with access quoted in large blocks rather than pay-as-you-go |
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Scheme of reconstruction transferring passive infrastructure | [Implemented](https://www.econet.co.zw/wp-content/uploads/2025/12/Econet-Stakeholders-Notice-24-Dec-2025.pdf) | Completion notified to stakeholders and landlords 2025-12-24 |
 
 ### Innovation ecosystem
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Central bank innovation hub | [Planned](https://technomag.co.zw/rbz-unveils-dedicated-department-for-digital-transformation-and-fintech-innovation/) | Announced as to be created under the new department |
 | Central bank regulatory sandbox | [Implemented](https://technomag.co.zw/rbz-unveils-dedicated-department-for-digital-transformation-and-fintech-innovation/) | Cited by the central bank as operating |
 
 ### US / hyperscaler activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Bilateral health cooperation memorandum | [Discontinued, Zimbabwe withdrew](https://www.ecofinagency.com/news/2602-53296-zimbabwe-turns-down-u-s-health-funding-citing-sovereignty-concerns) | Harare withdrew from talks after a presidential memo of 2025-12-23 |
 | Cloud partner experience centre | [Implemented](https://technomag.co.zw/masiyiwa-manyika-put-zimbabwean-capital-talent-at-centre-of-googles-1b-africa-cloud-push/) | Opened at an inaugural cloud summit in Johannesburg |
@@ -310,14 +314,14 @@ The justice minister told the Senate on 23 July 2026 that transfer of the voters
 
 ### China activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Chinese-supplied city surveillance systems | [Implemented](https://www.ids.ac.uk/publications/smart-city-surveillance-in-africa-mapping-chinese-ai-surveillance-across-11-countries/) | Mapped across eleven countries including Zimbabwe |
 | National data centre, Harare | [Implemented](https://link.springer.com/article/10.1365/s43439-025-00165-1) | Launched February 2021 under a US$98m national broadband initiative |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Coding programme delivered with the United Arab Emirates | [In development](https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/) | Described as a flagship programme delivered with the United Arab Emirates |
 | Digital skills partnership agreement with the United Arab Emirates | ***Not held*** | — |
@@ -334,13 +338,13 @@ Harare ended talks on a bilateral health cooperation memorandum in February 2026
 
 ### Digital divides
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Satellite retail service affordability | [Implemented](https://techcabal.com/2025/06/26/starlink-in-zimbabwe/) | Subscriptions at 67,057 at Q4 2025 |
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital centres programme | [Implemented](https://techafricanews.com/2026/07/17/zimbabwe-unveils-digital-roadmap-to-accelerate-msme-growth/) | Described as established nationwide, offering free internet, equipment and literacy training |
 | Free public Wi-Fi hotspot programme | [Implemented](https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/) | 409 hotspots deploying, stated at an annual telecommunications conference |
@@ -350,13 +354,13 @@ Harare ended talks on a bilateral health cooperation memorandum in February 2026
 
 ### Literacy
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National digital literacy programme or measured literacy rate | ***Not held*** | — |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Artificial-intelligence grand challenge | [Implemented](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) | Launched as the AI for Impact (AI4I) Grand Challenge 2026-08-04 |
 | Coding in the secondary curriculum | [Planned](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Directed at a national seminar on digital sovereignty |
@@ -367,7 +371,7 @@ Harare ended talks on a bilateral health cooperation memorandum in February 2026
 
 ### Research institutions
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National research programme or research and development expenditure figure | [Implemented, no R&D expenditure figure published](https://rcz.ac.zw/uploads/RCZ_2023.pdf) | RCZ's 2023 and 2024 annual reports both confirm no gross R&D expenditure or R&D-as-share-of-GDP figure is published |
 
@@ -385,7 +389,7 @@ The grand challenge provided for in the strategy was launched on 4 August 2026 a
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Export credit facility for mobile network expansion | [Implemented](https://global.factiva.com/redir/default.aspx?P=sa&an=MEWZII0020160805ec850005p&cat=a&ep=ASE) | CNY 485,000,000 committed 2019, start year 2021 |
 | Grant for the high-performance computing centre, phase 2 | [Implemented](https://www.crcc.cn/art/2017/12/8/art_549_689068.html) | CNY 100,000,000 grant committed 2017, start year 2018 |
@@ -398,13 +402,13 @@ The grand challenge provided for in the strategy was launched on 4 August 2026 a
 
 ### MoUs and other agreements
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cross-border fibre public-private partnership | [Implemented](https://www.newsday.co.zw/local-news/article/200057978/powertel-join-paratus-zimbabwe-to-launch-new-digital-highway) | Phase 1 switched on |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Citizens budget | [Implemented](https://internationalbudget.org/sites/default/files/country-surveys-pdfs/2025/open-budget-survey-zimbabwe-2025-en.pdf) | Published for the 2025 financial year |
 | Digital and information technology appropriation in the 2026 national budget | [Implemented](https://www.veritaszim.net/sites/veritas_d/files/Appropriation%20Act%202026%2C%20Act%20No.%206%20of%202025.pdf) | Appropriated in the Appropriation Act 2026 (Act No. 6 of 2025) |
