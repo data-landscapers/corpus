@@ -1,14 +1,15 @@
 ---
 title: Sierra Leone — digital transformation and data governance status report
-compiled: 2026-08-10
+compiled: 2026-08-14
 place: SLE
 ledger_rows: 63
 not_held: 11
+record: fd9014c5cb0b
 ---
 
 # Sierra Leone: status report
 
-*Compiled 2026-08-10 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (63 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (63 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -28,7 +29,7 @@ Connectivity is the constraint the state names itself: [about US$400m invested a
 
 ### Connectivity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | CSquared West Africa backbone and 2Africa West capacity | [Implemented](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | 2Africa West capacity added to the operator's West Africa network, July 2026 |
 | National fibre backbone (SALCAB) | [Implemented](https://www.connectingafrica.com/connectivity/sierra-leone-invests-400m-in-telecoms-60-usage-gap-remains) | Backbone reported in 14 of 16 districts |
@@ -41,7 +42,7 @@ Connectivity is the constraint the state names itself: [about US$400m invested a
 
 ### Data Storage
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Data Centre at NatCA headquarters | [Implemented](https://www.slena.gov.sl/post/sierra-leone-s-president-julius-maada-bio-commissions-natca-hq-reinforces-commitment-to-digital-inn) | Commissioned by President Bio, 17 April 2026 |
 | NCRA Tier III data centre | [Implemented](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) | Reported operating by the NCRA Director-General, 7 August 2026 |
@@ -49,13 +50,13 @@ Connectivity is the constraint the state names itself: [about US$400m invested a
 
 ### Technical Capacity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic technical capacity to operate the national digital estate | ***Not held*** | — |
 
 ### Cybersecurity
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Cyber Security and Crime Act 2021 | [Implemented](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/) | Six offences mapped onto the mobile-money scam in a published legal analysis, 23 July 2026 |
 | NaTCA consumer education campaign on online fraud | [Implemented](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/) | Campaign set out by the Director-General, 28 July 2026 |
@@ -76,14 +77,14 @@ Cybersecurity institutions are ahead of the record about them. The regulator [co
 
 ### Data Exchange
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Government Service Bus and X-Road data exchange layer | [In development](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) | Ministry of Finance reported piloting a Data Exchange Layer on X-Road |
 | Legal basis for data sharing between government registers | ***Not held*** | — |
 
 ### Digital Identity and CRVS
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | MOSIP migration of the national identity system | [Piloting](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids) | Pilot complete, full implementation still seeking funding |
 | National digital identity platform (Bhutan NDI and SIGN Foundation) | [In development](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework) | Private-sector consultation on the trusted digital ID framework, 6 August 2026 |
@@ -92,7 +93,7 @@ Cybersecurity institutions are ahead of the record about them. The regulator [co
 
 ### Digital Payments and Fintech
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Afrimoney prepaid Visa card (Africell, with Ecobank) | [Implemented](https://sierraloaded.sl/business/afrimoney-prepaid-visa-card-launched-sierra-leone/) | Launched May 2026, no bank account required |
 | Flot payments platform and chatbot (Open Hub) | [Implemented](https://owlpress-sl.com/fintech-firm-open-hub-launches-flot-platform-boost-digital-payments-sierra-leone/) | Launched April 2026 with a WhatsApp chatbot and QR settlement |
@@ -100,35 +101,35 @@ Cybersecurity institutions are ahead of the record about them. The regulator [co
 | National instant payment switch | [Implemented](https://www.wearetech.africa/en/fils-uk/news/finance/sierra-leone-launches-national-instant-payment-system) | Instant phase launched 13 February 2025, full integration from 1 April 2025 |
 | Orange Money virtual Mastercard (with Zenith Bank) | [Implemented](https://techafricanews.com/2026/03/31/orange-money-launches-mastercard-in-sierra-leone-with-zenith-bank-and-mastercard-partnership/) | Launched March 2026 through the Maxit app |
 | Vult multi-currency wallet and card (Velmie, Metro Cable) | [Implemented](https://techafricanews.com/2025/04/22/velmie-and-metro-cable-launch-vult-sierra-leones-first-multi-currency-digital-wallet/) | Launched April 2025 with a Visa card and merchant acceptance |
-| Bank of Sierra Leone RTGS and ACH re-platforming | ***Not held*** | 2026-08-10 |
+| Bank of Sierra Leone RTGS and ACH re-platforming | ***Not held*** | — |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National Digital Farmer Registry | [In development](http://thesatellitenews.com/index.php/de/announcements/23-news-articles/1730-with-the-national-id-system-for-nin-ncra-ministry-of-agriculture-partner-on-national-digital-farmer-registry-integration) | Integration with the NIN system agreed with the Ministry of Agriculture, May 2025 |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digital health information system and electronic medical records | [In development](https://sierraloaded.sl/health/austin-demby-launches-starlink-internet/) | Connectivity rollout launched at the first facility, 27 July 2026 |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic government procurement platform | [Planned](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | NPPA delegation studied Liberia's e-GP system, 6-7 August 2026 |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Digitalisation of local councils | ***Not held*** | — |
 
 ### Use of satellite data
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Coordination and Visualization Platform (DSTI with Catholic Relief Services) | [Implemented](https://techafricanews.com/2026/06/30/dsti-and-crs-drive-sierra-leones-digital-transformation-through-geospatial-data/) | Platform launched 6 July 2026 under a geospatial memorandum of 30 June 2026 |
 | National base map (DSTI with JICA and Aero Toyota) | [In development](https://owlpress-sl.com/dsti-leads-digital-mapping-system-sierra-leone-moves-develop-national-base-map/) | Development announced with a feasibility mission still ahead, 4 August 2026 |
@@ -147,16 +148,16 @@ Sector registers are thinner. The National Digital Farmer Registry has [no enrol
 
 ### Legislation and regulation
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic Transactions Act 2019 | [Implemented, not operationalised](https://sierraloaded.sl/news/government-activate-e-transactions-law/) | Public-private dialogue convened to operationalise it, 27-28 July 2026 |
 | National Communications Authority Act 2022 | [Implemented](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/) | Tested against the mobile-money fraud wave in a published legal analysis, 23 July 2026 |
 | Subscribers Regulations 2025 (SIM-NIN enforcement) | [Implemented, transition running](https://sierraloaded.sl/local/natca-phase-out-unregistered-national-fraud/) | Phase-out of unregistered SIMs announced, 30 July 2026 |
-| Allocation of loss for mobile-money fraud | ***Not held*** | 2026-08-04 |
+| Allocation of loss for mobile-money fraud | ***Not held*** | — |
 
 ### Strategies, plans and policies
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Multi-agency response to mobile-money fraud | [In development](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/) | Ministerial statement to Parliament, 4 August 2026 |
 | National Data Protection Policy | [Implemented](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Approved by Cabinet, 21 April 2026 |
@@ -164,20 +165,20 @@ Sector registers are thinner. The National Digital Farmer Registry has [no enrol
 
 ### Regional collaboration
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Liberia-Gambia-Sierra Leone free roaming | [Implemented](https://www.telecomreviewafrica.com/articles/general-news/11208-west-african-nations-sign-roaming-agreement-to-cut-telecom-costs/) | Took effect 2 May 2025 |
 | Sierra Leone-Guinea free roaming agreement | [Planned](https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/) | Signed at Transform Africa 2025 |
 
 ### Standards
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | National open-source software policy for the public sector | [Implemented](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | Approved 2025 |
 
 ### Data protection
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Data Protection and Right to Access Information Bill | [In development](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Cabinet approved the policy and authorised the Bill, 21 April 2026 |
 | Right to Access Information Commission | [Implemented](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Cabinet authorised repeal of its Act and a merged dual-mandate authority |
@@ -186,7 +187,7 @@ Sector registers are thinner. The National Digital Farmer Registry has [no enrol
 
 ### EU activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | European Union digital cooperation with Sierra Leone | ***Not held*** | — |
 
@@ -204,7 +205,7 @@ The [Subscribers Regulations 2025 fine operators 25,000 new leones for each unre
 
 ### AI
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | AI-in-government partnership with Qhala | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/sierra-leone-turns-to-ai-to-modernize-public-services) | Memorandum signed at UNGA80, October 2025 |
 | Deepfake and digital misinformation campaign | [Implemented](https://sierraloaded.sl/education/dsti-leads-fight-against-ai-deepfakes/) | Running since May 2026, seven towns reached |
@@ -212,19 +213,19 @@ The [Subscribers Regulations 2025 fine operators 25,000 new leones for each unre
 
 ### ICT Industry
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Millennium Challenge Corporation compact dispatch centres and SCADA upgrades | [In development](https://www.govinfo.gov/content/pkg/FR-2024-10-04/pdf/2024-22902.pdf) | Provided for in the Sierra Leone compact |
 
 ### India activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Indian digital cooperation with Sierra Leone | ***Not held*** | — |
 
 ### Gulf/UAE activities
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Gulf state digital investment in Sierra Leone | ***Not held*** | — |
 
@@ -240,14 +241,14 @@ The only industrial application on the ledger is the [dispatch centres and SCADA
 
 ### Access to services
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Human intermediation in identity enrolment | [Implemented](https://www.biometricupdate.com/202603/sierra-leones-brokers-of-citizenship-recognized-in-digital-identification-project) | Documented in an ethnographic study published March 2026 |
 | Starlink connectivity for universities | [Implemented](https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/) | 12 universities connected through ELCOME SL under the National Broadband Strategy 2023-2028 |
 
 ### Training and skills
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Civil service digital skills programme | [Implemented](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) | Launched July 2026 with 1,000 places in year one |
 | Digital Public Goods university curriculum | [Implemented](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | First academic Digital Public Goods exhibition held, 27 July 2026 |
@@ -262,14 +263,14 @@ Access remains uneven at both ends of the identity chain. Enrolment of the undoc
 
 ### New investments
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Sierra Leone Innovation Investment Fund | [Planned](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | Target stated at the Digital Public Goods exhibition, 27 July 2026 |
 | WARDIP2 regional digital integration operation | [Implemented](https://techafricanews.com/2026/03/13/world-bank-launches-137m-initiative-to-expand-broadband-and-digital-jobs-in-west-africa) | World Bank Board approved the US$137m operation, 13 March 2026 |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | Status | As at |
+| System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic budget appropriations for the digital sector | ***Not held*** | — |
 

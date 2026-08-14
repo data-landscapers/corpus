@@ -1,17 +1,18 @@
 ---
-title: Sierra Leone — progress report, 2025-08-01 to 2026-08-09
-compiled: 2026-08-10
-period: 2025-08-01 to 2026-08-09
+title: Sierra Leone — progress report, 2025-08-01 to 2026-08-14
+compiled: 2026-08-14
+period: 2025-08-01 to 2026-08-14
 place: SLE
 ledger_rows: 70
 not_held: 11
+record: cf01e91c9a51
 ---
 
-# Sierra Leone: progress report, 2025-08-01 to 2026-08-09
+# Sierra Leone: progress report, 2025-08-01 to 2026-08-14
 
-*Compiled 2026-08-10 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 70 systems and instruments on this place's ledger, 35 changed position between 2025-08-01 and 2026-08-09, 15 did not, 9 carry no stated baseline, and 11 are ***Not held*** at both ends.*
+*Of 70 systems and instruments on this place's ledger, 35 changed position between 2025-08-01 and 2026-08-14, 15 did not, 9 carry no stated baseline, and 11 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 56 sources for this place in the window — 13 in the earlier half (2025-10 to 2026-02), 43 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -27,7 +28,7 @@ Over the twelve months to 9 August 2026 Sierra Leone added physical and institut
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | CSquared West Africa backbone and 2Africa West capacity | Backbone reaching Sierra Leone with no independent 2Africa route (2025-07) | [2Africa West capacity added, giving automated rerouting across physically diverse paths (2026-07)](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | Advanced |
 | National fibre backbone (SALCAB) | International capacity reported at 500+ Gbps after the SALCAB privatisation, up from 90 Gbps; no district count published (2025-07) | [Fibre in 14 of 16 districts against about US$400m invested in telecoms, with a 60% usage gap (2026-05)](https://www.connectingafrica.com/connectivity/sierra-leone-invests-400m-in-telecoms-60-usage-gap-remains) | Advanced, marginal |
@@ -40,7 +41,7 @@ Over the twelve months to 9 August 2026 Sierra Leone added physical and institut
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National Data Centre at NatCA headquarters | Ten-storey building under construction since 2015, not commissioned (2025-07) | [Commissioned, housing the National Data Centre and network operations and co-locating NaTCA with MoCTI (2026-04)](https://www.slena.gov.sl/post/sierra-leone-s-president-julius-maada-bio-commissions-natca-hq-reinforces-commitment-to-digital-inn) | Advanced |
 | Orange Bo backup data centre | Did not exist; one commercial data centre in Freetown (2018) | [EUR 23m disaster-recovery replica of the Freetown facility in service, alongside a US$50m network modernisation (2025-11)](https://statehouse.gov.sl/2025/11/29/sierra-leones-president-julius-maada-bio-opens-orange-sierra-leone-data-centre-reaffirms-governments-commitment-to-enabling-private-investment/) | Advanced |
@@ -48,7 +49,7 @@ Over the twelve months to 9 August 2026 Sierra Leone added physical and institut
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | NaTCA consumer education campaign on online fraud | Did not exist | [Advisory campaign running; no rule-making, SIM-swap control, operator obligation or complaint remedy announced alongside it (2026-07)](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/) | Advanced |
 | Regulator response to the 2026 cybersecurity incidents | Did not exist | [Coordinated response announced with no attribution, no named affected service, no incident count, no start date and no severity assessment (2026-07)](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/) | Advanced |
@@ -67,13 +68,13 @@ The state telco found a route out of its balance sheet without capital: Africell
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Government Service Bus and X-Road data exchange layer | World Bank terms of reference for an open-source prototype in the Ministry of Finance data centre; nothing running (2025) | [Data Exchange Layer piloting on X-Road under the Ministry of Finance; no production date, connected agencies or governance rules published (2026-08)](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | MOSIP migration of the national identity system | Brownfield migration of enrolled records onto open-source MOSIP, piloted from early 2024 (2025-07) | [Pilot complete and full implementation unfunded, as stated by the Authority (2026-08)](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids) | Advanced, unfunded |
 | National digital identity platform (Bhutan NDI and SIGN Foundation) | A bilateral blockchain digital-identity memorandum with Sign and nothing built (2025-11) | [Tri-party memorandum signed June 2026, MOSIP-based register with W3C verifiable credentials specified, and consultations opened; no framework, legal instrument or timetable published (2026-08)](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework) | Advanced |
@@ -83,7 +84,7 @@ The state telco found a route out of its balance sheet without capital: Africell
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Afrimoney prepaid Visa card (Africell, with Ecobank) | Did not exist | [Prepaid card in service, issued against the Afrimoney wallet (2026-05)](https://sierraloaded.sl/business/afrimoney-prepaid-visa-card-launched-sierra-leone/) | Advanced |
 | Flot payments platform and chatbot (Open Hub) | Did not exist | [In service with multi-channel card and mobile-money acceptance and a no-code store builder (2026-04)](https://owlpress-sl.com/fintech-firm-open-hub-launches-flot-platform-boost-digital-payments-sierra-leone/) | Advanced |
@@ -96,26 +97,26 @@ The state telco found a route out of its balance sheet without capital: Africell
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National Digital Farmer Registry | Integration with the national identity system agreed under Feed Salone (2025-05) | [No enrolment figure, launch or completion date published since (2026-08)](http://thesatellitenews.com/index.php/de/announcements/23-news-articles/1730-with-the-national-id-system-for-nin-ncra-ministry-of-agriculture-partner-on-national-digital-farmer-registry-integration) | No change |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Digital health information system and electronic medical records | Paper-based patient records, with no national electronic medical record programme on file (2025-07) | [Programme announced covering electronic medical records, disease surveillance and telemedicine across 300 facilities, beginning with one (2026-07)](https://sierraloaded.sl/health/austin-demby-launches-starlink-internet/) | Advanced |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Electronic government procurement platform | No e-procurement programme on record (2025-07) | [Study tour to Liberia completed; no platform, procurement decision or timetable published (2026-08)](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | Advanced, marginal |
 | Digitisation of government services | 80% of services reported digitised (2025-06) | [No later figure published; the 2024 UN e-government ranking of 172 of 193 is the only external measure held](https://www.biometricupdate.com/202506/sierra-leone-reaches-93-percent-national-id-coverage-80-percent-services-digitized) | No change |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Coordination and Visualization Platform (DSTI with Catholic Relief Services) | Did not exist | [Platform launched with a spatial data science workshop for 60 officials covering hazard mapping and inter-agency data governance (2026-07)](https://techafricanews.com/2026/06/30/dsti-and-crs-drive-sierra-leones-digital-transformation-through-geospatial-data/) | Advanced |
 | National base map (DSTI with JICA and Aero Toyota) | Did not exist | [Phase one covering Western Area Urban District, built on OpenStreetMap with Japanese technical direction; no cost, timetable, hosting arrangement or data licence stated (2026-08)](https://owlpress-sl.com/dsti-leads-digital-mapping-system-sierra-leone-moves-develop-national-base-map/) | Advanced |
@@ -123,7 +124,7 @@ The state telco found a route out of its balance sheet without capital: Africell
 <!-- narrative: dpi -->
 Identity gained specification and lost none of its ambiguity. The register itself did not move — [about 93% coverage was reported in June 2025 and again in August 2026](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) — while the ministry signed a [tri-party memorandum with Bhutan's National Digital Identity and the SIGN Foundation in June 2026 and settled its specifications in August: a MOSIP-based register and W3C verifiable credentials](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework). The registrar's own [MOSIP migration reached the end of its pilot and stopped for want of funding](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids). Card issuance, the one measure of whether enrolment reaches people, has [no figure published since the under 0.5m recorded for 2024](https://blogs.worldbank.org/en/africacan/unlocking-opportunity-how-digital-id-can-transform-lives-in-sierra-leone).
 
-Payments moved at both ends of the stack. Four card and wallet products entered service between November 2025 and May 2026, ending with the [Afrimoney prepaid Visa card](https://sierraloaded.sl/business/afrimoney-prepaid-visa-card-launched-sierra-leone/), and the central bank contracted the replacement of the rails beneath them, awarding [US$1,869,000 for real-time gross settlement and US$3,194,615 for automated clearing on 4 August 2026](https://www.biddingsource.com/tenders/10340437). The switch launched in February 2025 has published no volume figure for 2026.
+Payments moved at the front of the stack and not, on the record, beneath it. Four card and wallet products entered service between November 2025 and May 2026, ending with the [Afrimoney prepaid Visa card](https://sierraloaded.sl/business/afrimoney-prepaid-visa-card-launched-sierra-leone/). A re-platforming of the rails themselves is reported to have been contracted in August 2026, but neither the central bank nor the procurement authority publishes an award notice, so the base does not carry it and the row stands unheld. The switch launched in February 2025 has published no volume figure for 2026.
 
 Interoperability advanced from paper to pilot, the Ministry of Finance moving from a [World Bank terms of reference to a data exchange layer piloting on X-Road](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/). Geospatial capability was created from nothing, with a [platform launched in July 2026 with Catholic Relief Services](https://techafricanews.com/2026/06/30/dsti-and-crs-drive-sierra-leones-digital-transformation-through-geospatial-data/) and a [national base map begun with JICA in August 2026](https://owlpress-sl.com/dsti-leads-digital-mapping-system-sierra-leone-moves-develop-national-base-map/).
 <!-- /narrative -->
@@ -132,7 +133,7 @@ Interoperability advanced from paper to pilot, the Ministry of Finance moving fr
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Electronic Transactions Act 2019 | In force since 5 December 2019 with no certification authorities, evidence procedures, dispute mechanisms or penalties established (2025-07) | [A gap analysis, policy memorandum and implementation roadmap commissioned under the READY Salone project running to 2028; no adoption date for any of the three (2026-07)](https://sierraloaded.sl/news/government-activate-e-transactions-law/) | Advanced |
 | Subscribers Regulations 2025 (SIM-NIN enforcement) | Did not exist; the 2020 Subscribers Identification and Registration Management Regulations were the instrument on file (2025-07) | [Operators fined 25,000 new leones per unregistered or pre-activated SIM, with a staged disconnection ladder; the six-month transition clock is presented as running from the announcement, so the phase-out date is unestablished (2026-07)](https://sierraloaded.sl/local/natca-phase-out-unregistered-national-fraud/) | Advanced |
@@ -140,7 +141,7 @@ Interoperability advanced from paper to pilot, the Ministry of Finance moving fr
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Multi-agency response to mobile-money fraud | Did not exist | [Three pillars announced - public education, institutional strengthening, better investigation and prosecution - with no new instrument (2026-08)](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/) | Advanced |
 | National Data Protection Policy | Did not exist | [Approved, covering collection, processing, storage and sharing of personal data; the text itself is not published (2026-04)](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Advanced |
@@ -148,20 +149,20 @@ Interoperability advanced from paper to pilot, the Ministry of Finance moving fr
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Sierra Leone-Guinea free roaming agreement | Did not exist | [Agreement signed under the Smart Africa single digital market; no commencement date or tariff published (2025-11)](https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/) | Advanced |
 | Liberia-Gambia-Sierra Leone free roaming | In effect, home SIM at local rates across the three countries (2025-05) | [In effect; no traffic or price data published (2026-08)](https://www.telecomreviewafrica.com/articles/general-news/11208-west-african-nations-sign-roaming-agreement-to-cut-telecom-costs/) | No change |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | National open-source software policy for the public sector | Approved as the country's first such policy (2025) | [In force; no compliance or adoption reporting published (2026-07)](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | No change |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Data Protection and Right to Access Information Bill | No data-protection statute; a draft Bill in consultation (2025-07) | [Cabinet approval given and the Bill to be finalised with the Attorney-General and tabled; not enacted, and no parliamentary date set (2026-04)](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Advanced |
 | Right to Access Information Commission | Operating under the Right to Access Information Commission Act, access to information only (2025-07) | [To be transformed into a single authority for both access to information and data protection, with investigative and enforcement powers; awaiting the Bill (2026-04)](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Advanced |
@@ -178,7 +179,7 @@ What did change is enforcement through the register: the [Subscribers Regulation
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | AI-in-government partnership with Qhala | Did not exist | [Memorandum to train 500 civil servants and build 10-15 AI workflows; 50+ senior leaders trained by March 2026, no workflow delivery reported (2026-03)](https://www.wearetech.africa/en/fils-uk/news/tech/sierra-leone-turns-to-ai-to-modernize-public-services) | Advanced |
 | Deepfake and digital misinformation campaign | Did not exist | [Campaign running in Freetown, Makeni, Port Loko, Magburaka, Bo, Kenema and Kono, with broadcast programming and a verification chatbot announced as the next phase; no budget, funder or completion date stated (2026-07)](https://sierraloaded.sl/education/dsti-leads-fight-against-ai-deepfakes/) | Advanced |
@@ -186,7 +187,7 @@ What did change is enforcement through the register: the [Subscribers Regulation
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Millennium Challenge Corporation compact dispatch centres and SCADA upgrades | Provided for in the compact, transmission and distribution dispatch centres (2024) | [No commissioning, milestone or delivery report published since (2026-08)](https://www.govinfo.gov/content/pkg/FR-2024-10-04/pdf/2024-22902.pdf) | No change |
 
@@ -200,14 +201,14 @@ The state's answer to synthetic media was created within the window and is not a
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Internet penetration | 20.7% of the population online, 1.84m users (2025-01) | [20.8% online, 1.85m users against 7.02m offline (2025-10)](https://datareportal.com/reports/digital-2025-sierra-leone) | No change |
 | Telecom investment against usage | ***Baseline not held*** | [About US$400m invested against a 60% usage gap, with 1GB at Le 18,000-25,000, roughly triple the 2018 price (2026-05)](https://www.connectingafrica.com/connectivity/sierra-leone-invests-400m-in-telecoms-60-usage-gap-remains) | ***Baseline not held*** |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Financial inclusion rate | 18% of adults (2018) | [About 40% of adults (2025)](https://thefintechtimes.com/rebuilding-financial-services-through-fintech-in-sierra-leone/) | Advanced |
 | Starlink connectivity for universities | 12 universities connected, extending to vocational schools (2025-01) | [No further site count or extension reported (2026-08)](https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/) | No change |
@@ -215,7 +216,7 @@ The state's answer to synthetic media was created within the window and is not a
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | Civil service digital skills programme | Did not exist | [Running, with 1,000 civil servants in year one and targets of 3,000 medium-term and 5,000 long-term across six areas (2026-07)](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) | Advanced |
 | Digital Public Goods university curriculum | Did not exist | [More than 1,100 students taught, 14 campus champions across four universities, and 11 student-built solutions evaluated against the DPG Standard (2026-07)](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | Advanced |
@@ -228,7 +229,7 @@ Skills capacity was built at both the civil-service and university levels, throu
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-09 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
 |---|---|---|---|
 | WARDIP2 regional digital integration operation | Did not exist | [Approved across Benin, Liberia and Sierra Leone, targeting 5.2m people connected and digital skills training for 9,000; the Sierra Leone share is not disclosed (2026-03)](https://techafricanews.com/2026/03/13/world-bank-launches-137m-initiative-to-expand-broadband-and-digital-jobs-in-west-africa) | Advanced |
 | Sierra Leone Innovation Investment Fund | ***Baseline not held*** | [US$150m over five years stated as a mobilisation target, with no amount raised stated (2026-07)](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | ***Baseline not held*** |

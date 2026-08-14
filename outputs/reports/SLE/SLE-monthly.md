@@ -1,15 +1,16 @@
 ---
 title: Sierra Leone — monthly update, July 2026
-compiled: 2026-08-09
-period: 2026-07-01 to 2026-08-09
+compiled: 2026-08-14
+period: 2026-07-01 to 2026-08-14
 place: SLE
-ledger_rows: 26
-not_held: 9
+ledger_rows: 28
+not_held: 11
+record: b7f6dc7ee741
 ---
 
 # Sierra Leone: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-09 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -26,13 +27,11 @@ CSquared [added capacity on the 2Africa West submarine system to the West Africa
 
 The health ministry [launched Starlink service at the Julius Maada Bio Paediatric Centre of Excellence on 27 July 2026](https://sierraloaded.sl/health/austin-demby-launches-starlink-internet/), the first of a stated 300 government health facilities. Neither account of the launch gives the cost, the funder, the procurement route, the contract term, or any data-residency arrangement for public health traffic carried by a foreign satellite operator.
 <!-- /narrative -->
-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
 The same 7 August account states the biometric register runs on a Tier III data centre, as reported by the NCRA Director-General ([consultation account](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/)).
 <!-- /narrative -->
-
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -46,7 +45,6 @@ The telecoms regulator ran two public-facing cyber messages in nine days. It [se
 <!-- narrative: dpi--dpi-exchange -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -54,27 +52,23 @@ Identity took three public positions in four days. MoCTI [convened a national di
 
 In a 4 August ministerial statement responding to the mobile-money fraud surge, the communications minister [conceded the NIN-SIM linkage does not yet cover every subscriber](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
 <!-- /narrative -->
-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The Bank of Sierra Leone awarded two contracts on 4 August 2026 to re-platform the national payment rails: [US$1,869,000 for real-time gross settlement](https://www.biddingsource.com/tenders/10340437) and [US$3,194,615 for automated clearing](https://www.biddingsource.com/tenders/10340433). Neither award names the supplier or the scope, and the procurement authority's award register returns no rows to automated retrieval.
+A re-platforming of the national payment rails — real-time gross settlement and automated clearing — is reported to have been contracted in early August, but no award notice from the Bank of Sierra Leone or the procurement authority is published, and the aggregator listing that carried the figures is not an origin this base accepts. The award is not held, and no amount, supplier or scope is stated here on that basis.
 
 The same 4 August ministerial statement [disclosed about 390 Orange mobile-money fraud complaints logged in 2026 to date and more than 18,000 police requests for subscriber data answered](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
 <!-- /narrative -->
-
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
 _(narrative not yet written)_
 <!-- /narrative -->
-
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The National Public Procurement Authority [sent a delegation to Liberia on 6-7 August to study that country's electronic government procurement system](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html). No Sierra Leonean platform, procurement decision or timetable follows from it on the record.
 <!-- /narrative -->
-
 ### Use of satellite data
 
 <!-- narrative: dpi--data-satellite -->
@@ -92,11 +86,15 @@ The regulator announced on 30 July that the [Subscribers Regulations 2025 will f
 
 Mobile-money fraud reached Parliament. A legal analysis of 23 July found the [National Communications Authority Act 2022 addresses its enforcement powers to licensees only, with no statutory reversal mechanism, no SIM-swap safeguards and no allocation of loss for authorised push payment fraud](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/); a former minister replied on 26 July that the [central bank's existing know-your-customer rules are adequate and only enforcement is missing](https://sierraloaded.sl/news/sylvia-blyden-kyc-mobile-money-fraud/), identifying no provision by instrument or section. The two accounts have not been reconciled.
 <!-- /narrative -->
-
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 Delivering a ministerial statement on 4 August after [MPs demanded an explanation for the surge](https://www.sierraleonemonitor.com/parliament-orange-money-scams/), the communications minister [set out education, institutional strengthening and better investigation](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/). No liability rule, refund duty or operator obligation was proposed.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -109,6 +107,11 @@ DSTI reported on 24 July that its [deepfake and digital-misinformation campaign,
 
 ## Inclusion and capacity
 
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
