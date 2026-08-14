@@ -32,6 +32,8 @@ python scripts/rebuild.py --all        # vocab snapshot + catalogue + finance/bu
 
 This writes `outputs/catalogue/`, `outputs/non-state-finance/`, `outputs/budgets/`, refreshes `outputs/vocab/`, and prints the report-update work order (stage 4 below). Commit `outputs/` and `outputs/vocab/`.
 
+**Stage 2 is now a precondition of stages 4 and 5, not just a sibling of them** *(2026-08-14)*. The report layer resolves every citation through `outputs/catalogue/raw-catalogue.csv` — Corpus's own published table, the one a reader can download — rather than through the index it is built from. So a run that renders reports against a catalogue older than `raw/` would be publishing links from a stale table, and `report-render.py` refuses: it recomputes the catalogue's stamp (records and newest mtime, about a quarter of a second) and raises `vault_lib.StaleCatalogue` naming the repair, which is to run this stage first. Running `--all` as written satisfies it in the right order.
+
 ## Stage 4 — report update (the ledgers' move; model authoring)
 
 This is the report update. `documentation/report-layer.md` is the spec — Corpus-owned, and the only one; the register below governs the prose. It reads only the sources the ledger has **not** yet considered — a set difference over slugs, not a date window — so an interrupted run resumes cleanly and nothing is re-read.

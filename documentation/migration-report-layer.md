@@ -17,7 +17,7 @@ That is the clean line, and everything follows from it.
 OSINT owns the evidence: `raw/` (sources with their structured frontmatter — finance records, budget lines, facets), `index/`, `lookups/`, and the internal `wiki/` synthesis (hubs, entities, concepts). It runs the sweeps, `INGEST`, `UPDATE-WIKI`, `HUB-COMPILE`, `LINT`.
 Corpus owns everything derived for a reader: the catalogue, the non-state-finance CSVs, the budget CSVs, and the report-and-analysis layer. It reads OSINT's `raw/` and `lookups/` read-only — the access it already has — and writes nothing back.
 
-This is confirmed feasible in the code. Every output derives from read-only inputs: `build-catalogue.py` reads `raw/`; `build-finance-page.py` reads finance and budget records out of `raw/` plus two `lookups/` tables; the report scripts read `raw/`, `lookups/` and an index Corpus builds for itself. Nothing that produces an output needs to write into OSINT.
+This is confirmed feasible in the code. Every output derives from read-only inputs: `build-catalogue.py` reads `raw/`; `build-finance-page.py` reads finance and budget records out of `raw/` plus two `lookups/` tables; the report scripts read `lookups/`, resolve their citations through Corpus's own `outputs/catalogue/`, and touch `raw/` and `wiki/` only through an index Corpus builds for itself, for the shape check. Nothing that produces an output needs to write into OSINT.
 
 ## What Corpus now owns
 
