@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: TGO
 ledger_rows: 29
 not_held: 39
-record: 9a755a6ddb4e
+record: 9eff5323854b
 ---
 
 # Togo: monthly update, July 2026
@@ -15,9 +15,9 @@ record: 9a755a6ddb4e
 ## Summary of the month
 
 <!-- narrative: summary -->
-Togo legislated more than it published this month. The Council of Ministers of 30 July adopted a spectrum-royalty amendment and a national conformity-assessment decree, and the session of 4 August authorised an Internet-of-Things licence — and for all three the base holds the announcement and not the instrument: no number, no text, no entry-into-force date, and in the spectrum case a parent decree readable only as an image. Against that, the one instrument held in full is the [national frequency allocation plan](https://arcep.tg/wp-content/uploads/2026/04/Decret-2026-037-PC-Plan-National-d-Attribution-des-bandes-de-Frequences-radioelectriques-PNAF.pdf), at 197 pages.
+Togo legislated more than it published this month. The Council of Ministers of 30 July [adopted a spectrum-royalty amendment and a national conformity-assessment decree](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026), and the session of 4 August [authorised an Internet-of-Things licence](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) — and for all three the base holds the announcement and not the instrument: no number, no text, no entry-into-force date, and in the spectrum case a parent decree readable only as an image. Against that, the one instrument held in full is the [national frequency allocation plan](https://arcep.tg/wp-content/uploads/2026/04/Decret-2026-037-PC-Plan-National-d-Attribution-des-bandes-de-Frequences-radioelectriques-PNAF.pdf), at 197 pages.
 
-The month's firmest dates are obligations on citizens and firms rather than on the state: retirement allowances stop on 31 August for anyone who has not registered payment details, and fuel has carried a molecular marker since 1 July.
+The month's firmest dates are obligations on citizens and firms rather than on the state: [retirement allowances stop on 31 August for anyone who has not registered payment details](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/), and [fuel has carried a molecular marker since 1 July](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/).
 <!-- /narrative -->
 
 ## Infrastructure

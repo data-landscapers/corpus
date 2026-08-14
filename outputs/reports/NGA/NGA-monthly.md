@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: NGA
 ledger_rows: 99
 not_held: 7
-record: 965c7f5ffe81
+record: 819040efea19
 ---
 
 # Nigeria: monthly update, July 2026
@@ -109,7 +109,7 @@ An [executive order on virtual assets](https://techafricanews.com/2026/07/20/nig
 ### Strategies, plans and policies
 
 <!-- narrative: dpi--gov-policy -->
-The central bank published [Payments System Vision 2028](https://techafricanews.com/2026/06/17/cbn-launches-payments-system-vision-2028-to-transform-nigerias-digital-financial-ecosystem/) on 17 June, a three-year horizon replacing a five-year one, from 2025 baselines of ₦1.2 quadrillion in electronic transactions and 69.5 million unique bank verification numbers. Its 2028 targets are 95% financial inclusion, five million QR merchant outlets and a 70% reduction in fraud losses; [the 132-page text](https://www.cbn.gov.ng/Out/2026/CCD/Nigeria%20Payments%20System%20Vision%202028.pdf) carries a stablecoin issuer-licensing regime no secondary account reported.
+The central bank published [Payments System Vision 2028](https://techafricanews.com/2026/06/17/cbn-launches-payments-system-vision-2028-to-transform-nigerias-digital-financial-ecosystem/) on 17 June, a three-year horizon replacing a five-year one, from 2025 baselines of ₦1.2 quadrillion in electronic transactions and 69.5 million unique bank verification numbers. [Its 2028 targets are 95% financial inclusion, five million QR merchant outlets and a 70% reduction in fraud losses](https://www.cbn.gov.ng/Out/2026/CCD/Nigeria%20Payments%20System%20Vision%202028.pdf), and the 132-page text carries a stablecoin issuer-licensing regime no secondary account reported.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -139,7 +139,7 @@ An inclusive-data initiative brought the national statistics office into a five-
 ### New investments
 
 <!-- narrative: dpi--finance-new -->
-[Domestic retail investors traded ₦2.86tn of equities between January and May, up 138.76% year on year](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/) and 36.22% of activity, against ₦4.06tn institutional. Participants name the registrar layer as the operational failure that matters: shareholder names are recorded inconsistently, and dividend payment is delayed behind it.
+[Domestic retail investors traded ₦2.86tn of equities between January and May, up 138.76% year on year](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/) and 36.22% of activity, against ₦4.06tn institutional. [Participants name the registrar layer as the operational failure that matters](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/): shareholder names are recorded inconsistently, and dividend payment is delayed behind it.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -200,7 +200,7 @@ On 3 August a private university announced [robotics, drone and virtual-reality 
 ### Digitalisation of sub-national government
 
 <!-- narrative: ai-tech--digital-localgov -->
-Cross River's executive council [approved phase one of a facial- and plate-recognition network](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) specified with Huawei and implemented through its local partner, covering Calabar intersections and government precincts, coastal communities and waterways, the Ikang Expressway and Carnival routes, against a stated baseline of under 10% analogue coverage of the metropolis and nothing in five other named towns. The claimed gains are emergency response falling from over 45 minutes to under twelve and 120 technician jobs; no lawful basis, retention rule or oversight arrangement for the face and plate data appears anywhere in the announcement.
+Cross River's executive council [approved phase one of a facial- and plate-recognition network](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) specified with Huawei and implemented through its local partner, covering Calabar intersections and government precincts, coastal communities and waterways, the Ikang Expressway and Carnival routes, against a stated baseline of under 10% analogue coverage of the metropolis and nothing in five other named towns. The [claimed gains are emergency response falling from over 45 minutes to under twelve and 120 technician jobs](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/); no lawful basis, retention rule or oversight arrangement for the face and plate data appears anywhere in the announcement.
 <!-- /narrative -->
 ### New investments
 

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: EGY
 ledger_rows: 72
 not_held: 54
-record: 092412fe068d
+record: 2e21180ea75e
 ---
 
 # Egypt: monthly update, July 2026
@@ -105,7 +105,7 @@ On 4 August the Ministry of Justice gazetted a deferral of the title-based prope
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The month's largest single transaction was spectrum: [410 MHz awarded across 1.8, 2.6 and 3.5 GHz for US$3.5bn](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos), doubling operator holdings at once, which the minister said matches all spectrum allocated in Egypt over the previous thirty years. The strategy behind it is not held; Egypt refarmed 2.6 GHz for 5G rather than licensing dedicated mid-band, and set no coverage or speed obligations. Service coverage stands at [242 services, over 270 targeted by end-2026](https://gate.ahram.org.eg/News/5814629.aspx), and a [national data-centre strategy is under preparation](https://gate.ahram.org.eg/News/5722522.aspx) around data localisation, with no publication date or draft text held.
+The month's largest single transaction was spectrum: [410 MHz awarded across 1.8, 2.6 and 3.5 GHz for US$3.5bn](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos), doubling operator holdings at once, which the minister said matches all spectrum allocated in Egypt over the previous thirty years. The strategy behind it is not held; [Egypt refarmed 2.6 GHz for 5G rather than licensing dedicated mid-band](https://www.ookla.com/articles/5g-north-africa-2026), and set no coverage or speed obligations. Service coverage stands at [242 services, over 270 targeted by end-2026](https://gate.ahram.org.eg/News/5814629.aspx), and a [national data-centre strategy is under preparation](https://gate.ahram.org.eg/News/5722522.aspx) around data localisation, with no publication date or draft text held.
 <!-- /narrative -->
 ### Regional collaboration
 
