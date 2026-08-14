@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: COD
 ledger_rows: 36
 not_held: 13
-record: 0a2136942b5e
+record: faa8c47f975f
 ---
 
 # DR Congo: monthly update, July 2026
@@ -77,7 +77,7 @@ Kinshasa urban administration agents demonstrated on 23 July over [two months of
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-_(narrative not yet written)_
+The planning minister [announced recruitment of mapping agents and fixed general enumeration for July 2027](https://actualite.cd/2026/07/11/journee-mondiale-de-la-population-le-rgph-2-au-coeur-de-la-strategie-du-gouvernement), which would be the country's first census since 1984. No budget line, financing source, implementing contract or cartography completion figure is held. Separately a [digital sector barometer was announced after a working session on 6 August](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/) to give government figures on firms' activity, turnover, growth and job creation — proposed by the industry body rather than imposed by the state, with no operator, methodology or first-issue date stated.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -102,12 +102,12 @@ The telecommunications regulator set on 22 July a [binding escalation path for c
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-_(narrative not yet written)_
+Data protection has an authority that does not exist and a population whose service does not reach it. The [national data protection authority is still not created](https://acp.cd/economie/numerique-le-gouvernement-veut-une-chaine-de-responsabilite-visible-en-cybersecurite/), named again in July as a link in the cybersecurity chain after the minister said in March that structuring a professional network precedes it — two years of the same finding, running alongside a twenty-year exclusive foreign concession over citizens' identity data. In the east, [Baraka and Fizi have had telecoms and internet cut for months amid operations near Epupu, and humanitarian organisations' satellite kits were seized on the Baraka mayor's order](http://congorassure.com/societe/2026/08/03/sud-kivu-francine-kaliba-plaide-pour-le-retablissement-de-la-connexion-baraka), closing the last backup channel. It is reported as war damage and fuel-access failure rather than an ordered restriction, and no licensing or administrative decision for occupied territory is held.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-_(narrative not yet written)_
+A [standing consultation mechanism between the ministry and the sector network was agreed at a working session on 6 August](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/), after the dispute over the digital-sector tariff. No constituting text, membership or meeting schedule is stated, and the agreement is known from a communiqué carried by the state news agency.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -120,7 +120,7 @@ A stakeholder workshop of 23 to 27 July in Kinshasa [validated the draft nationa
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
-_(narrative not yet written)_
+Two regulators [agreed at a first working session to coordinate enforcement of local-content subcontracting, with scope stated beyond telecoms to electronic communications, digital services and electronic commerce](https://actualite.cd/2026/07/23/rdc-larsp-et-larptc-renforcent-leur-cooperation-pour-promouvoir-la-sous-traitance-dans). It is a meeting outcome rather than a text: no signed instrument, no inspection conducted and no reporting obligation established, and nothing records an enforcement action since.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -138,7 +138,7 @@ On 3 July a memorandum was signed with a Chinese supplier for a [2,100 km route 
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-
+This is the month's clearest movement with both ends dated. The universal service fund [signed subsidy conventions with four operators on 8 August for a first tranche of 40 localities, about 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites), against a national diagnostic published the day before finding nearly 3,000 uncovered localities — about 4.3m people — and coverage of 77% 2G, 68% 3G and 57% 4G. A second phase of 300 sites is planned, with a 2030 target of 3,000 localities and 100 digital community centres. An unfunded fund at the window's start, a first funded tranche at its end; no per-locality budget or fund appropriation figure is held.
 <!-- /narrative -->
 ### Access to services
 
@@ -148,7 +148,7 @@ On 23 July a state bank and the payroll monitoring committee settled the technic
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
-_(narrative not yet written)_
+A [campaign to publicise the digital code launched in Kinshasa on 6 August, mobilising 2,000 young volunteers for 30 days at two publications a day](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/) on cybersecurity, data protection and responsible internet use, carried by the ministry with UNDP support. The code was promulgated in March 2023, and no budget for the campaign and no measure of its effect is stated.
 <!-- /narrative -->
 ### Training and skills
 
