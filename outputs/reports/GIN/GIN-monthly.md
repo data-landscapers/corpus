@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: GIN
 ledger_rows: 29
 not_held: 13
-record: 27f4d55b8afe
+record: f07df4d121f8
 ---
 
 # Guinea: monthly update, July 2026
@@ -30,12 +30,12 @@ The restriction [disrupted business operations and online services](https://wadr
 ### Technical Capacity
 
 <!-- narrative: infrastructure--infra-capacity -->
-_(narrative not yet written)_
+A presidential decree published on the evening of 30 July [converted the distance-learning institute into the Universite Numerique de Guinee, a public scientific establishment with legal personality and an eleven-member governing board](https://www.africaguinee.com/enseignement-superieur-lisfad-devient-officiellement-luniversite-numerique-de-guinee-ung/), its mandate covering online higher education, continuing education and digital-pedagogy support. Implementation is assigned to three ministers and no programme, budget or launch date for the online offerings is published.
 <!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-
+The cybersecurity statute of 2016 is held and cannot be read: the agency [publishes it as a 57-page image-only scan with no text layer](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf), so its provisions — reaching cybercrime offences on Guinean territory and offences requiring collection of electronic evidence — are known from the agency's own summary rather than the statute's words.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -76,7 +76,7 @@ Training on the Œil du Trésor platform started in five prefectures of Guinée 
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+Two payments instruments are at terms-of-reference stage and neither exists. The [payment systems law awaits a funder's no-objection and the national payment council has yet to be created](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/), both under the same regional programme. The register recording them is undated and its latest dated entry is January 2025.
 <!-- /narrative -->
 ### Strategies, plans and policies
 

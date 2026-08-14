@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: CPV
 ledger_rows: 15
 not_held: 45
-record: 188187ffa32a
+record: fc030b3fbb09
 ---
 
 # Cape Verde: monthly update, July 2026
@@ -35,7 +35,7 @@ The continental frame moved instead. On 24 July 2026 the African Union developme
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-
+The identity stack is unchanged and its next step is undated. The national identity card [keeps its design and legal basis and is now produced domestically and renewable online through the justice portal](https://sniac.cv/cartao-nacional-de-identificacao/), and the [mobile digital key rests on implementing rules of 2022](https://sniac.cv/cartao-nacional-de-identificacao/) with no activation count and no coverage rate held from any date. The authentication platform was [presented at the continental identity meeting with a stated next phase of consolidating existing databases, expanding identity-enabled services and finding long-term financing models](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration) — carrying no date, instrument or budget line. The restriction binding the mobile credential to prior card activation is undated on the government page and may no longer hold.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
@@ -53,12 +53,12 @@ The statistical record produced the month's other development, and it was an abs
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+The regulator [opened a public consultation on licensing, spectrum use, frequency coordination, user protection, network security and emergency communications for satellite operators, with submissions to 31 August](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/). It is a direct response to the satellite service launched in the archipelago in December 2024, and is distinct from the general-authorisation regime under which that service was licensed. No draft text or adoption date is published.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-_(narrative not yet written)_
+A [strategic consultation on the national digital transformation agenda was convened in Praia on 6 August](https://www.governo.cv/ministro-da-economia-comercio-industria-e-transicao-digital-promove-consulta-estrategica-sobre-o-futuro-digital-de-cabo-verde/), seating public administration, private sector, academia and named specialists, whose contributions are to feed a national diagnosis and the agenda's priorities. Its stated scope runs from interoperability of the public administration to digital inclusion, data protection and cybersecurity. No draft, title, adoption date or budget is held, and nothing connects it to the governance framework whose terms of reference the finance ministry issued in 2025.
 <!-- /narrative -->
 ### Standards
 

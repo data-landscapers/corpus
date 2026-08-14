@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: NER
 ledger_rows: 24
 not_held: 4
-record: 3e8ea88f7bc0
+record: 41f7fd4fac35
 ---
 
 # Niger: monthly update, July 2026
@@ -76,7 +76,7 @@ Traditional chiefs at Diffa were [trained as mobilisers for the fifth population
 ### Use of satellite data
 
 <!-- narrative: dpi--data-satellite -->
-_(narrative not yet written)_
+The national geographic institute [runs a remote-sensing unit producing Sentinel-based imagery for forest, land-use and territorial monitoring, and describes itself as an exclusive satellite-imagery distributor in several countries](https://ignn.net/la-teledetection-et-technique-spacialestts.html). No programme name, partner or date is published, and the page carries no date of its own, so the position is dated to retrieval rather than to any event.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -84,7 +84,7 @@ _(narrative not yet written)_
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+The civil-status regime rests on an [ordonnance of 22 April with its application decree of 18 May in force](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/). No gazetted text of either is held.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -102,7 +102,7 @@ On 27 July the regulator's verification campaign opened against the [mises en de
 ### China activities
 
 <!-- narrative: ai-tech--geopol-china -->
-
+China's newly arrived ambassador [met the vendor's vice-president to discuss deepening cooperation](https://itweb.africa/article/huawei-approached-to-deepen-china-niger-digital-ties/kLgB17ez2mzM59N4). The vendor has operated in Niger since 1998 and a [2014 export-credit loan of RMB 623.7m built a 2,275 km domestic fibre backbone completed in 2017](https://china.aiddata.org/projects/58683/); no Chinese financing or vendor contract after 2017 is on record.
 <!-- /narrative -->
 
 ## Inclusion and capacity

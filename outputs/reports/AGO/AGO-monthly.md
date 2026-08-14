@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-14
 place: AGO
 ledger_rows: 32
 not_held: 7
-record: 8274249d722a
+record: a3e206350fb1
 ---
 
 # Angola: monthly update, July 2026
@@ -28,7 +28,7 @@ On 23 July a state-owned telecoms arm commercially launched an enterprise fifth-
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-
+The commercial data centre is [operating at up to 3 MW and more than 800 racks over 19,000 square metres on US$30m, near the cable landings, with a plan to exceed 7 MW within five years](https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/). Its [group contracted six times as much power in the first half of 2026 as a year earlier](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/) — a group figure, not an Angolan one.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -69,7 +69,7 @@ A single social register was launched in the week ending 25 July with no enrolme
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-
+The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart. No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
 <!-- /narrative -->
 ### National statistics
 
@@ -96,7 +96,7 @@ The National Assembly [approved legislative authorisation 166 votes to nil on 30
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-
+The data protection law is in force and unamended, and its exemptions are wider than its penalties. [Fines run from USD 75,000 to 150,000, trebled for legal persons and cumulated across concurrent contraventions](https://www.hunton.com/privacy-and-cybersecurity-law-blog/angola-passes-personal-data-protection-law), but the [statute substitutes a law or decree for the regulator's authorisation in two places, and puts processing under state-secrecy, state-security and judicial-secrecy rules outside the law altogether](https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/). The state can therefore authorise itself, and the categories where it most often processes are excluded at the outset.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
