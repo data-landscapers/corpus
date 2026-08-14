@@ -23,3 +23,4 @@ title: Corpus process log
 2026-08-14 11:52 · build · vault_lib refuses to rebuild an index reached through a junction — a Corpus render could have rebuilt C:\OSINT\index as a side effect of reading it · revert: b70b0cc
 2026-08-14 12:06 · build · empty index/ removed and gitignored; build_index refuses to write an index of 0 artefacts and slug_urls refuses to read one — the state reported itself fresh and stripped every citation in silence · revert: HEAD
 2026-08-14 12:22 · build · check M added — every row that states a position must cite a source; absolute rule stated in report-layer.md §6 and BUILD.md. 12 unsourced rows found, all ZAF, left for BUILD · revert: HEAD
+2026-08-14 12:38 · render · Step 2 glob fixed for the undated monthly/progress filenames, plus a pattern-free coverage assertion — the old patterns matched nothing and would have rendered 54 of 165 silently · revert: HEAD
