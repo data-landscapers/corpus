@@ -22,3 +22,4 @@ title: Corpus process log
 2026-08-14 11:42 · build · window close rendered as a sentinel and substituted on write, so an unchanged document keeps its date and its window; nil month now issues a monthly that says so · revert: c6a4631
 2026-08-14 11:52 · build · vault_lib refuses to rebuild an index reached through a junction — a Corpus render could have rebuilt C:\OSINT\index as a side effect of reading it · revert: b70b0cc
 2026-08-14 12:06 · build · empty index/ removed and gitignored; build_index refuses to write an index of 0 artefacts and slug_urls refuses to read one — the state reported itself fresh and stripped every citation in silence · revert: HEAD
+2026-08-14 12:22 · build · check M added — every row that states a position must cite a source; absolute rule stated in report-layer.md §6 and BUILD.md. 12 unsourced rows found, all ZAF, left for BUILD · revert: HEAD
