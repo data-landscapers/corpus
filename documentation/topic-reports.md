@@ -16,7 +16,7 @@ The topic report inherits its evidence layer. Every sentence it carries was auth
 
 **This is what makes "country build first" a correctness condition rather than a convenience.** A topic document derived from a country document that stage 4 has not yet moved is stale in a way nothing downstream can detect: it is well-formed, it cites live sources, and every check passes. The ordering *is* the integrity mechanism, so the stage states it as a precondition and refuses to run when a unit is behind its own ledger.
 
-Consequently the ledger checks do not apply and must not be faked. **J** (no document compiled before the ledger moved) and **L** (no unwritten narrative block) are properties of the source documents, already enforced where the prose was written. **M** (every row stating a position cites a source that resolves) is likewise inherited. **G** (every link is held in `index/`) still applies and is cheap, because a lift can only carry links that already resolved. The register check applies to whatever prose is authored here, which is one block per document.
+Consequently the ledger checks do not apply and must not be faked. **J** (no document compiled before the ledger moved) and **L** (no unwritten narrative block) are properties of the source documents, already enforced where the prose was written. **M** (every row stating a position cites a source that resolves) is likewise inherited. **G** (every link is held in `index/`) still applies and is cheap, because a lift can only carry links that already resolved. The register check has nothing to read, since no prose is authored here at all.
 
 ## The unit and the documents
 
@@ -30,13 +30,13 @@ Consequently the ledger checks do not apply and must not be faked. **J** (no doc
 
 **The three regions appear in the progress report only**, because they issue no monthly. Nothing else about them differs.
 
-## The one thing that is not a lift
+## It is a lift, with nothing added
 
 Everything under a place heading is carried verbatim from that place's document: for the monthly, the `<!-- narrative: {section}--{subject} -->` block; for the progress report, the subject's movement table and its block. A place with no block for that subject gets no heading, under the same rule that stops the renderer printing an empty section.
 
-**The exception is the summary block at the top, and it is what makes the document worth issuing.** A file that is only 54 lifted blocks in alphabetical order is a concatenation, and a reader who wanted that could have read the country reports. The cross-place sentence — what moved in this topic this month, where it clustered, what did not move anywhere — is the reason the topic layer exists, and it is the one place a topic report can say something no country report can. It is authored, so it is subject to the register and to the no-unwritten-block rule like any other block.
+**Nothing is authored here — no summary, no cross-place block, no connecting sentence** *(Bill, 2026-08-14)*. A proposal for an authored summary at the top was put and refused. The document is the country prose, sliced by subject and ordered by place, and that is the whole of it.
 
-**Flagged for Bill:** this is a deviation from "straight rewrites from country reports". If the summary is not wanted, the stage below is unchanged except that the block is dropped, and the document is a pure derivation — in which case it is worth asking what the reader gets from it that a filtered view of the country reports would not give them better.
+The consequence worth keeping in view: **no prose in a topic report is written for a topic reader.** Every sentence in it was drafted to sit inside a country document, where the country is given by the page and the subject by the heading. Read in a topic report the country is given by the heading instead, which mostly works, and where it does not the fix is upstream — a sentence that only parses in its home document is a sentence the country report should not have been carrying either.
 
 ## Open point — what `outputs/reports/` is renamed to
 
@@ -75,12 +75,12 @@ If it does not, finish stage 4 first. This stage never initialises and never mov
 1. **Collect.** For each place in `outputs/reports/`, take the block keyed `{section}--{subject}` from `{ISO3}-monthly.md`, and for the progress report the subject's movement table together with its block from `{ISO3}-progress.md`. The section is the one the place's section map assigns that subject, so the key is derived, never guessed.
 2. **Carry it verbatim.** The prose and its citations move together and are not re-edited here. A place with no block for the subject gets no heading — the same rule that stops the renderer printing an empty section, and for the same reason.
 3. **Regions appear in the progress report only.** The three `X__` units issue no monthly, so the topic monthly has no section for them.
-4. **Write the summary block.** This is the only authored prose in the document and the only thing in it a country report could not say: what moved in this subject this period, where it clustered, and what did not move anywhere. It is subject to the register and to *Narrative integrity* above — where there is nothing to say, the sentence saying so is written, and the block is never left empty.
+4. **Write nothing.** There is no summary block and no connecting prose *(Bill, 2026-08-14)*. A topic document is its lifted blocks and nothing else, so *Narrative integrity* above has no work to do here: the blocks were written, and checked, in the documents they came from. A topic document with no blocks at all is not issued.
 5. **Front matter** carries `subject`, `compiled`, `period`, `places` and `record`, on the same discipline as the unit documents: `record` is a digest of the content, `compiled` is the date that content last changed, and a build that changes nothing leaves the file untouched and prints `unchanged`.
 
 **The period is the source documents' period, not a window of this stage's own.** Nothing is aged here: a block is in the topic monthly exactly when it is in the place's monthly. Where the unit documents do not share a single period, the topic document states the range they span rather than asserting one they do not have.
 
-**Check** `G` — every link held in `index/` — and run the register check over the summary block. The ledger checks (`J`, `L`, `M`) are properties of the source documents and are enforced where the prose was written; they do not apply here and are not to be re-implemented against a ledger this unit does not have.
+**Check** `G` — every link held in `index/` — and nothing else. The register check has no authored prose to read here, and running it over lifted blocks would only re-report the source documents. The ledger checks (`J`, `L`, `M`) are properties of the source documents and are enforced where the prose was written; they do not apply here and are not to be re-implemented against a ledger this unit does not have.
 
 Commit the topic tree. 39 slugs × 2 documents adds 78 documents to the render set, taking it from 165 to 243.
 
