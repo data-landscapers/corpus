@@ -37,6 +37,10 @@ if hasattr(sys.stdout, "reconfigure"):
 OUT_DIR = os.path.join(V.ROOT, "outputs", "catalogue")
 JSON_PATH = os.path.join(OUT_DIR, "raw-catalogue.json")
 CSV_PATH = os.path.join(OUT_DIR, "raw-catalogue.csv")
+# What the catalogue was built from, so a later stage can tell whether it still holds.
+# The report layer resolves its citations here rather than against `index/` (2026-08-14),
+# and a resolution table nobody can date is one that goes stale in silence.
+STAMP_PATH = os.path.join(OUT_DIR, "catalogue-stamp.json")
 
 CSV_COLS = ["slug", "title", "publisher", "author", "published", "date_precision",
             "places", "topics", "entities", "lens", "body_completeness", "finance",
@@ -89,8 +93,14 @@ def facets(rows):
     return f
 
 
-def write(rows, meta):
+def write(rows, meta, stamp):
     os.makedirs(OUT_DIR, exist_ok=True)
+    with open(STAMP_PATH, "w", encoding="utf-8", newline="\n") as fh:
+        json.dump({"built": meta["built"],
+                   "records": len(rows),
+                   "raw_md_files": stamp[0],
+                   "raw_md_mtime_max": stamp[1]}, fh, indent=2)
+        fh.write("\n")
     doc = {"built": meta["built"][:10],
            "count": len(rows),
            "note": "Catalogue of sources held in raw/. Metadata only — follow `url` "
@@ -128,6 +138,11 @@ def main():
                     help="report how far the written catalogue is from the vault")
     a = ap.parse_args()
 
+    # The stamp is read BEFORE the index is refreshed, deliberately. Anything that changes in
+    # `raw/` between these two lines then makes the written stamp look *older* than the tree,
+    # so the next run rebuilds — where the other order would stamp the catalogue newer than the
+    # rows it actually contains and the staleness would never be noticed.
+    stamp = V.raw_md_state()
     meta = V.ensure_fresh()
     rows = items(V.load_index(auto=False))
 
@@ -141,7 +156,7 @@ def main():
               f"{len(rows):,} in the vault ({drift:+,})")
         return 0 if drift == 0 else 1
 
-    doc = write(rows, meta)
+    doc = write(rows, meta, stamp)
     print(f"catalogue: {doc['count']:,} sources -> outputs/catalogue/")
     print(f"  raw-catalogue.json {os.path.getsize(JSON_PATH)/1e6:.1f} MB, "
           f"raw-catalogue.csv {os.path.getsize(CSV_PATH)/1e6:.1f} MB")

@@ -452,6 +452,39 @@ class EmptyIndex(RuntimeError):
     """The index holds no artefacts at all — it indexed a tree that has none of the roots."""
 
 
+class StaleCatalogue(RuntimeError):
+    """`outputs/catalogue/` is missing, or behind the `raw/` it is derived from."""
+
+
+def raw_md_state(root=None):
+    """(count, newest mtime) over `raw/`'s markdown records — the catalogue's own freshness.
+
+    **One function, two callers, or the two disagree.** `build-catalogue.py` stamps this into
+    `outputs/catalogue/catalogue-stamp.json`; `report-render.py` recomputes it and refuses to
+    resolve a citation against a catalogue that is behind. Computing it two ways would be the
+    mistake this module's `normalise_url()` exists to prevent, one level up.
+
+    Counted as well as timed, because deletion is the case a timestamp cannot see: a record
+    removed from `raw/` moves no mtime, and a catalogue still listing it resolves a slug the base
+    no longer holds — the dangling-citation failure, reached from inside Corpus instead of from
+    OSINT's index. Artefacts (`.pdf` and the rest) are not counted: the catalogue is a list of
+    records, and adding a PDF beside one changes nothing in it."""
+    base = os.path.join(root or ROOT, "raw")
+    n, newest = 0, 0
+    for dirpath, dirnames, filenames in os.walk(base):
+        dirnames[:] = [d for d in dirnames if not d.startswith(".")]
+        for name in filenames:
+            if not name.lower().endswith(".md"):
+                continue
+            try:
+                st = os.stat(os.path.join(dirpath, name))
+            except OSError:
+                continue                                # vanished mid-walk; next run sees it
+            n += 1
+            newest = max(newest, int(st.st_mtime))
+    return n, newest
+
+
 def _assert_own_index():
     """Refuse to rebuild an index that does not physically live in the tree being indexed.
 

@@ -61,6 +61,7 @@ import csv
 import datetime
 import hashlib
 import importlib.util
+import json
 import os
 import re
 import sys
@@ -213,16 +214,104 @@ _INDEX = None
 
 
 def index_rows():
-    """The index, read once per run.
+    """The index, read once per run — now for the shape check alone.
 
-    A single invocation checks up to 57 units and each asks the index two or three questions, so
-    without this the same 10,000-row file is parsed a hundred and fifty times. Held for the life of
-    the process only, which is also what makes it safe: the base cannot move underneath a run that
-    has already started reading it."""
+    Every citation the report layer resolves comes from `catalogue_rows()` below. What is left
+    here is `source_months()`: sources per month for a unit, and for an `X__` region the scope
+    traverse `report-region-init.slugs_for()` runs over `wiki/`. Neither is a slug lookup and
+    neither is in the catalogue, which lists records rather than counting them.
+
+    Read once because a single invocation checks up to 57 units. Held for the life of the process
+    only, which is also what makes it safe: the base cannot move underneath a run that has already
+    started reading it."""
     global _INDEX
     if _INDEX is None:
         _INDEX = vault_lib.load_index()
     return _INDEX
+
+
+CATALOGUE = os.path.join(ROOT, "outputs", "catalogue", "raw-catalogue.csv")
+CATALOGUE_STAMP = os.path.join(ROOT, "outputs", "catalogue", "catalogue-stamp.json")
+
+_CATALOGUE = None
+
+
+def catalogue_rows():
+    """`outputs/catalogue/raw-catalogue.csv`, read once per run and checked against `raw/`.
+
+    **The report layer resolves its citations against the published catalogue, not against
+    `index/`** *(Bill, 2026-08-14)*. The catalogue is Corpus's own committed artefact — a
+    `slug -> url` table for every record in `raw/`, built by stage 2 of the same run — and the
+    index is local scaffolding that stage 2 happens to build it from. Citing the published view
+    rather than the scaffolding means what a document links to is the same table a reader can
+    download and check. Verified 2026-08-14 that the two agree exactly: 9,404 URLs each,
+    identical maps, over all 5,189 slugs the 57 ledgers cite.
+
+    **Resolution only.** The shape check (§7) still reads the index, because it asks a different
+    question — how many sources the base holds per month, and for a region which slugs are in
+    scope at all, which is a traverse of `wiki/` the catalogue does not carry. Checks G and M,
+    and every link `cite()` writes into a document, come from here.
+
+    What that trades is a cache that checked its own freshness for one that has to be checked,
+    which is what the stamp below is for. A stale resolution table is not a crash but a wrong
+    answer — an old URL printed with confidence, or a retired slug still resolving — so it is
+    read as an error and not a warning.
+
+    One deliberate narrowing: the catalogue lists **records**, so the 217 artefacts under `raw/`
+    (PDFs and spreadsheets beside their record) are no longer slugs check M will accept. That is
+    the right reading of §8 — an artefact is not a citable record, which is exactly what note 7
+    of `notes-for-osint.md` says about the Comoros budget documents — and no ledger cites one."""
+    global _CATALOGUE
+    if _CATALOGUE is not None:
+        return _CATALOGUE
+    if not os.path.exists(CATALOGUE) or not os.path.exists(CATALOGUE_STAMP):
+        raise vault_lib.StaleCatalogue(
+            f"no catalogue at {CATALOGUE} — the report layer resolves every citation through it, "
+            f"so there is nothing to render or check against. Run stage 2 first: "
+            f"`python scripts/build-catalogue.py` (or `rebuild.py --catalogue`).")
+    with open(CATALOGUE, encoding="utf-8-sig", newline="") as fh:
+        rows = [r for r in csv.DictReader(fh) if (r.get("slug") or "").strip()]
+    if not rows:
+        raise vault_lib.StaleCatalogue(
+            f"{CATALOGUE} holds no records — refusing to render or check against it, because "
+            f"every citation would resolve to nothing, `cite()` would fall back to plain text, "
+            f"and check G would then *pass* with no links left to check.")
+    _assert_catalogue_current(len(rows))
+    _CATALOGUE = rows
+    return _CATALOGUE
+
+
+def _assert_catalogue_current(records):
+    """Refuse a catalogue that `raw/` has moved past. About a second, once per run.
+
+    The index paid for itself by rebuilding when the base moved underneath it; the catalogue
+    cannot, because building it is stage 2's job and this is stage 4 or 5. So the freshness has
+    to be *asserted* instead — the same walk, the same two numbers, but the answer is stop rather
+    than rebuild, since rebuilding here would put a stage's output in another stage's hands.
+
+    Counted as well as timed: a deleted record moves no mtime, and a catalogue still carrying it
+    resolves a slug the base no longer holds — a citation that publishes and then breaks, which
+    is the failure `notes-for-osint.md`'s slug-permanence constraint exists to prevent."""
+    stamp = json.load(open(CATALOGUE_STAMP, encoding="utf-8"))
+    files, newest = vault_lib.raw_md_state()
+    if not files:                                       # no raw/ under ROOT at all
+        raise vault_lib.StaleCatalogue(
+            f"no records under {os.path.join(ROOT, 'raw')} — this run is rooted somewhere the "
+            f"base does not live, so the catalogue cannot be checked against it. Run from "
+            f"scripts/.workroot/, where raw/ resolves to OSINT through the junctions.")
+    behind = []
+    if files != stamp.get("raw_md_files"):
+        behind.append(f"{files:,} records in raw/, {stamp.get('raw_md_files', 0):,} when the "
+                      f"catalogue was built")
+    if newest > stamp.get("raw_md_mtime_max", 0):
+        behind.append(f"a record has changed since {stamp.get('built', 'the build')}")
+    if behind:
+        raise vault_lib.StaleCatalogue(
+            f"{CATALOGUE} is behind raw/ — " + "; ".join(behind) + ". Refusing to resolve "
+            f"citations against it: a stale table does not fail, it answers wrongly. "
+            f"Run stage 2 first: `python scripts/build-catalogue.py`."
+            + (f" (The catalogue also holds {records:,} rows, which is not the count above.)"
+               if records != stamp.get("records") else ""))
 
 
 def raw_slugs():
@@ -232,41 +321,20 @@ def raw_slugs():
     different people. A slug the base does not hold at all is a mistake in the ledger — a typo, or
     a record retired since the row was written. A slug the base holds but which carries no `url:`
     is an uncitable record, which is OSINT's to fix and travels there as a note (§8)."""
-    return {(r.get("d") or {}).get("slug") or os.path.basename(r["path"])[:-3]
-            for r in index_rows() if (r.get("d") or {}).get("folder") == "raw"}
+    return {r["slug"].strip() for r in catalogue_rows()}
 
 
 def slug_urls():
-    """slug -> url for every source in the vault, from the index.
+    """slug -> url for every record the catalogue holds.
 
-    **An index holding nothing is refused, not read.** It is the one failure here that is worse
-    than a crash: `row_url()` finds no resolvable slug, `cite()` falls back to plain text, and the
-    render strips the hyperlink off every status cell in every document while reporting a normal
-    build — and check G then *passes*, because a document with no links left has none missing.
-    The check that exists to catch broken citations certifies the run that removed them all.
-
-    Zero artefacts is never a legitimate reading of this base. It means `ROOT` is not where the
-    base is — a script run from the repo root rather than from `scripts/.workroot/`, which indexes
-    a tree containing none of `raw/`, `wiki/` or the rest. That index then reports itself *fresh*,
-    because zero files on disk agrees with zero files in `meta.json`, so nothing rebuilds it and
-    nothing says a word."""
-    rows = index_rows()
-    if not rows:
-        raise vault_lib.EmptyIndex(
-            f"{vault_lib.INDEX_DIR} holds no artefacts — refusing to render or check against it, "
-            f"because every citation would be silently dropped and check G would pass with no "
-            f"links left to check. Run from scripts/.workroot/, where raw/ and index/ resolve to "
-            f"OSINT through the junctions rebuild.py sets up.")
-    out = {}
-    for r in rows:
-        d, fm = r.get("d") or {}, r.get("fm") or {}
-        if d.get("folder") != "raw":
-            continue
-        url = (fm.get("url") or "").strip()
-        slug = d.get("slug") or os.path.basename(r["path"])[:-3]
-        if url:
-            out[slug] = url
-    return out
+    **A resolution table that resolves nothing is refused, not read**, in `catalogue_rows()`
+    above. It is the one failure here worse than a crash: `row_url()` finds no resolvable slug,
+    `cite()` falls back to plain text, and the render strips the hyperlink off every status cell
+    in every document while reporting a normal build — and check G then *passes*, because a
+    document with no links left has none missing. The check that exists to catch broken citations
+    would certify the run that removed them all."""
+    return {r["slug"].strip(): r["url"].strip()
+            for r in catalogue_rows() if (r.get("url") or "").strip()}
 
 
 def ledger_slugs(rows):
