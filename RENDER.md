@@ -84,11 +84,14 @@ python scripts/home.py            # -> site/index.html
 
 It reads catalogue counts from `upstream/catalogue/`. If `outputs/catalogue/stats.json` does not yet exist it falls back to counting `raw-catalogue.csv` — either is fine.
 
-## Step 4 — build the country and region pages
+## Step 4 — build the country, region and topic pages
 
 ```bash
 python scripts/country.py         # every country -> site/countries/{ISO}/index.html (+ finance.html)
+python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.html (+ Level-1 index pages)
 ```
+
+**`topic-page.py` runs after Step 2, not before it.** It writes the landing page each home-page topic box opens — the two documents, their periods and their dated PDFs — by reading what Step 2 actually rendered and what BUILD wrote into `upstream/topics/`. Run before the documents exist, it writes pages advertising nothing. It also writes an `index.html` for each of the ten Level-1 categories, which is what the *All {category}* box at the end of each sub-topic row opens; that page is an index of the topics beneath it and says plainly that it is not a report.
 
 `country.py` builds the 54 country pages (those in `FULL_NAMES`). The 3 regions (XAF, XSA, XWA) publish as their rendered **progress** report sets from Step 2, linked under the home page's Regions section — they do not currently get a country-style page. If regions should get their own landing pages, that is a small extension to `country.py`, not a blocker for this render.
 
@@ -136,7 +139,7 @@ Topic documents are authored by BUILD (`BUILD.md` stage 6) and arrive in `output
 
 **Step 2's loop and its coverage assertion already reach them** — both trees, one assertion, one number to trust. There is nothing extra to run here. Step 1's mirror carries the tree across for free, since it mirrors `outputs/` whole.
 
-The home page's Topics boxes can link to the rendered documents once this has run; until then they keep their coming-soon state.
+**The home page's Topics boxes are wired to these** *(2026-08-14)*. Each Level-2 box opens `/topics/{slug}/`, written by `scripts/topic-page.py` in Step 4; the box hrefs use the hyphenated slug, as the tree does. Until that day they pointed at `/topics/{dotted.slug}/` and would have 404'd — nothing caught it because nothing was published under either name, so **if the taxonomy grows a slug, check the link, not just the box**: `python - <<'EOF'` over `site/index.html` comparing every `/topics/…` href against `site/topics/…/index.html` is the whole test, and it is worth re-running after any change to either script.
 
 ## Log
 

@@ -21,7 +21,7 @@ country and region boxes sum to more than the document total — they measure
 coverage, not documents, and the caveat travels with them on the page.
 
 Country and topic boxes link to `{SITE_BASE}/countries/{ISO3}/` and
-`{SITE_BASE}/topics/{slug}/` regardless of whether those pages exist yet —
+`{SITE_BASE}/topics/{slug-with-hyphens}/` regardless of whether those pages exist yet —
 pull exhaustively, publish selectively (documentation/design.md §8): the box is honest
 about what the base holds even before the page that would serve it is
 written.
@@ -236,7 +236,10 @@ def topic_boxes(by_topic: dict[str, int]) -> str:
     """Each Level-1 tile is a toggle that opens a full-width row of its Level-2
     sub-topics beneath it (Bill, 2026-08-13, item 7). The sub-topic boxes link
     to `/topics/{slug}/` pages whether or not those pages are built yet — the
-    same pull-exhaustively/publish-selectively rule as the country boxes.
+    same pull-exhaustively/publish-selectively rule as the country boxes. Since
+    2026-08-14 they are built: `scripts/topic-page.py` writes the landing page
+    each box opens, and the *All {category}* box at the end of the row opens the
+    Level-1 index page it also writes.
 
     The panel is a sibling of its tile inside the same `.tboxes` grid. A hidden
     panel carries the `hidden` attribute and so is `display:none` and takes no
@@ -266,8 +269,12 @@ def topic_boxes(by_topic: dict[str, int]) -> str:
         )
         kids = sorted(children.get(k, []), key=lambda x: -x[1])
         ktop = max((n for _, n in kids), default=1) or 1
+        # The dot survives in the vocabulary, where it means something, and does not go into a
+        # path, where it reads as an extension — so the link says `dpi-pay`, as the built tree
+        # does. Until 2026-08-14 it said `dpi.pay` and every sub-topic box 404'd; nothing caught
+        # it because nothing was published under either name.
         subboxes = "\n".join(
-            f'<a class="sbox" href="{SITE_BASE}/topics/{slug}/" title="{slug}"'
+            f'<a class="sbox" href="{SITE_BASE}/topics/{slug.replace(".", "-")}/" title="{slug}"'
             f' style="--fill:{n / ktop:.3f}">'
             f'<span class="sbox__l">{e(subtopic_label(slug))}</span>'
             f'<span class="sbox__n">{n:,}</span></a>'

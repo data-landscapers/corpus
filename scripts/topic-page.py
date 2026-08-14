@@ -1,0 +1,295 @@
+#!/usr/bin/env python3
+"""topic-page.py — the landing page each topic box on the home page opens.
+
+The home page's Level-1 tiles open a row of Level-2 sub-topic boxes, and every one of those links
+to `/topics/{slug}/`. A directory is not a page: `site/topics/dpi-pay/` holds
+`dpi-pay-monthly.html`, `dpi-pay-progress.html` and their PDFs, and a link to the directory itself
+404s. This writes the `index.html` that makes the link land somewhere — the same shape as a
+country's, and for the same reason: a place to choose a document from, with the two documents,
+their editions and their PDFs on it.
+
+It also writes an `index.html` for each **Level-1** category, because the sub-topic row ends with
+an *All {category}* box pointing at `/topics/{l1}/`. That page is an **index, not a report**:
+Level-1 roll-up reports are deliberately not built (`documentation/topic-reports.md` — the
+taxonomy is a strict single-parent tree, so a Level-1 report is a later composition of the same
+material and costs nothing to defer). The page says so, and lists the topics beneath it.
+
+Nothing here reads a ledger or a source. It reads what BUILD wrote into `outputs/topics/` and what
+RENDER wrote into `site/topics/`, and links the two together.
+
+Usage:
+  python scripts/topic-page.py            # 38 topic pages + 10 category pages
+"""
+import os
+import re
+import sys
+from datetime import date
+from html import escape as e
+from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import vault_lib  # noqa: E402
+
+CORPUS = Path(__file__).resolve().parent.parent
+UPSTREAM = CORPUS / "upstream"
+SITE = CORPUS / "site"
+SITE_BASE = "https://corpus.data-landscapers.com"
+MAIN_SITE = "https://data-landscapers.com"
+
+MONTHS = ("January", "February", "March", "April", "May", "June",
+          "July", "August", "September", "October", "November", "December")
+
+L1 = {"infra": "ICT Infrastructure", "dpi": "Digital public infrastructure",
+      "gov": "Governance and regulation", "include": "Inclusion",
+      "tech": "Technology", "geopol": "Geopolitics", "capacity": "Capacity",
+      "digital": "Digitalisation", "data": "Data", "finance": "Finance"}
+
+KINDS = (("monthly", "Monthly update",
+          "What moved this month, place by place — every block carried from that place&rsquo;s own "
+          "monthly update."),
+         ("progress", "Progress report",
+          "Twelve months of movement, place by place — each place&rsquo;s own movement table for "
+          "this topic."))
+
+
+def front_matter(path: Path) -> dict:
+    out = {}
+    if not path.exists():
+        return out
+    text = path.read_text(encoding="utf-8")
+    if not text.startswith("---"):
+        return out
+    for line in text.split("\n---", 2)[0].split("\n")[1:]:
+        if ":" in line:
+            k, v = line.split(":", 1)
+            out[k.strip()] = v.strip()
+    return out
+
+
+def period_label(kind: str, period: str) -> str:
+    """A monthly is named by the month it opens in; a progress report states its window."""
+    if kind == "monthly":
+        m = re.match(r"(\d{4})-(\d{2})", period or "")
+        return f"{MONTHS[int(m.group(2)) - 1]} {m.group(1)}" if m else ""
+    return (period or "").replace(" to ", " &ndash; ")
+
+
+def edition_pdf(folder: Path, stem: str) -> str:
+    """The newest dated PDF for this document, or "".
+
+    Read off the directory rather than computed from today: the PDF is retained edition over
+    edition and the newest one is whatever the last render actually cut, which is not necessarily
+    today — a document that did not change is not re-rendered and keeps the edition it has."""
+    pdfs = sorted(p.name for p in folder.glob(f"{stem}-20*.pdf"))
+    return pdfs[-1] if pdfs else ""
+
+
+def document_rows(slug_path: str) -> str:
+    src = UPSTREAM / "topics" / slug_path
+    out = SITE / "topics" / slug_path
+    rows = []
+    for kind, label, blurb in KINDS:
+        stem = f"{slug_path}-{kind}"
+        html = out / f"{stem}.html"
+        if not html.exists():
+            continue
+        meta = front_matter(src / f"{stem}.md")
+        places = len([p for p in (meta.get("places") or "").split(";") if p.strip()])
+        period = period_label(kind, meta.get("period", ""))
+        pdf = edition_pdf(out, stem)
+        bits = [f'{places} places'] if places else []
+        if period:
+            bits.append(period)
+        if meta.get("compiled"):
+            bits.append(f'compiled <span class="mono">{e(meta["compiled"])}</span>')
+        rows.append(f"""
+      <div class="report-row">
+        <div class="report-row__main">
+          <div class="report-row__kind">{label}</div>
+          <div class="report-row__blurb">{blurb}</div>
+          <div class="report-row__meta">{' &nbsp;·&nbsp; '.join(bits)}</div>
+        </div>
+        <div class="report-row__acts">
+          <a class="btn" href="{stem}.html">Read</a>
+          {f'<a class="btn btn--accent" href="{pdf}">&darr; PDF</a>' if pdf else ''}
+        </div>
+      </div>""")
+    if not rows:
+        return ('<p class="table-note">No documents are yet published for this topic.</p>')
+    return "\n".join(rows)
+
+
+CHROME = """  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="{main_site}/" class="site-logo">
+        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="{base}/">Home</a>
+        <a href="{base}/#countries">Countries</a>
+        <a href="{base}/#topics">Topics</a>
+        <a href="{base}/catalogue/">Catalogue</a>
+        <a href="{base}/finance/">Finance</a>
+      </nav>
+    </div>
+  </header>"""
+
+FOOT = """  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p>Data Landscapers &middot; {year} &middot; <a href="{main_site}/">{main_site}</a></p>
+      <p>Reports are compiled from the Data Landscapers source base. Metadata only; source bodies
+         are never republished.</p>
+    </div>
+  </footer>"""
+
+PAGE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{title} — Data Landscapers</title>
+<meta name="description" content="{description}">
+<link rel="canonical" href="{base}/topics/{path}/">
+<link rel="stylesheet" href="../../assets/css/main.css">
+<link rel="stylesheet" href="../../assets/css/home.css">
+<link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="icon" href="{favicon}" type="image/svg+xml">
+<meta property="og:title" content="{title} — Data Landscapers">
+<meta property="og:description" content="{description}">
+<meta property="og:url" content="{base}/topics/{path}/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Data Landscapers">
+</head>
+<body>
+<div class="site-wrap">
+
+{chrome}
+
+  <main id="main">
+  <div class="container">
+
+    <div class="crumb"><a href="{base}/#topics">Topics</a> &nbsp;/&nbsp; {crumb}</div>
+
+    <div class="country-head">
+      <h1>{title}</h1>
+      <div class="country-head__meta">{meta}</div>
+    </div>
+
+{body}
+
+  </div>
+  </main>
+
+{foot}
+
+</div>
+</body>
+</html>
+"""
+
+TOPIC_BODY = """    <h2 class="section-heading">Documents</h2>
+{rows}
+
+    <h2 class="section-heading">How to read these</h2>
+    <p>Both documents are <strong>derived views</strong>. Every paragraph and every table row in
+       them was written for, and checked in, the report of the place it appears under — nothing is
+       written at the topic level, and no fact reaches this page that is not already sourced on the
+       sentence that carries it. Sections are places, in alphabetical order.</p>
+    <p>Where a place has nothing on record for this topic in the period, it has no section: an
+       absent heading means no evidence held, not nothing happening. The place&rsquo;s own report
+       is the fuller account &mdash; <a href="{base}/#countries">browse by country</a>.</p>
+"""
+
+CATEGORY_BODY = """    <p class="section-intro">{intro}</p>
+
+    <h2 class="section-heading">Topics in this category</h2>
+    <div class="tsub__inner">
+{boxes}
+    </div>
+
+    <p class="caveat">This is an index, not a report. A Level-1 report would be a composition of
+       the same material one level up, and the taxonomy is a strict single-parent tree, so it can
+       be built later from exactly these documents and costs nothing to defer.</p>
+"""
+
+
+def write(path: str, title: str, description: str, crumb: str, meta: str, body: str) -> Path:
+    out_dir = SITE / "topics" / path
+    out_dir.mkdir(parents=True, exist_ok=True)
+    dst = out_dir / "index.html"
+    dst.write_text(PAGE.format(
+        base=SITE_BASE, path=path, title=e(title), description=e(description),
+        crumb=crumb, meta=meta, body=body,
+        favicon=f"{MAIN_SITE}/assets/favicon.svg",
+        chrome=CHROME.format(base=SITE_BASE, main_site=MAIN_SITE),
+        foot=FOOT.format(main_site=MAIN_SITE, year=date.today().year),
+    ), encoding="utf-8")
+    return dst
+
+
+def taxonomy_path() -> Path:
+    """The vocabulary snapshot, never OSINT's `lookups/`.
+
+    RENDER runs from the repo root and must never have to read outside `outputs/` — which is why
+    stage 1 of the build snapshots the vocabularies into `outputs/vocab/` in the first place.
+    `vault_lib.load_taxonomy()`'s default resolves to `ROOT/lookups/`, which does not exist here,
+    so the path is passed rather than defaulted."""
+    for p in (UPSTREAM / "vocab" / "taxonomy.md", CORPUS / "outputs" / "vocab" / "taxonomy.md"):
+        if p.exists():
+            return p
+    raise SystemExit("no taxonomy snapshot: run `python scripts/rebuild.py --vocab` first")
+
+
+def main() -> int:
+    _, label, _ = vault_lib.load_taxonomy(str(taxonomy_path()))
+    built = date.today().isoformat()
+    wrote = 0
+
+    for slug in sorted(label):
+        path = slug.replace(".", "-")
+        if not (SITE / "topics" / path).is_dir():
+            print(f"  {slug}: nothing rendered under site/topics/{path}/ — skipped")
+            continue
+        cat = L1.get(slug.split(".")[0], slug.split(".")[0])
+        write(path, label[slug],
+              f"{label[slug]} across Africa: monthly and progress reports compiled place by place "
+              f"from the Data Landscapers base.",
+              e(label[slug]),
+              f'<span class="mono">{e(slug)}</span> &nbsp;·&nbsp; {e(cat)} '
+              f'&nbsp;·&nbsp; page built {built}',
+              TOPIC_BODY.format(rows=document_rows(path), base=SITE_BASE))
+        wrote += 1
+
+    for key, name in L1.items():
+        kids = sorted(s for s in label if s.split(".")[0] == key)
+        if not kids:
+            continue
+        # `--fill:0` is not decoration: `.sbox`'s background is
+        # `color-mix(… calc(var(--fill) * 12%) …)`, so an unset `--fill` makes the whole
+        # declaration invalid and the box renders with no background at all. These boxes carry
+        # no count to scale, so zero is the honest value as well as the working one.
+        boxes = "\n".join(
+            f'      <a class="sbox" href="../{s.replace(".", "-")}/" title="{s}"'
+            f' style="--fill:0">'
+            f'<span class="sbox__l">{e(label[s])}</span>'
+            f'<span class="sbox__n" aria-hidden="true">&rarr;</span></a>' for s in kids)
+        write(key, name,
+              f"{name}: the topics beneath it, each with its own monthly and progress reports.",
+              e(name),
+              f'<span class="mono">{key}.*</span> &nbsp;·&nbsp; {len(kids)} topics '
+              f'&nbsp;·&nbsp; page built {built}',
+              CATEGORY_BODY.format(
+                  intro=f"{name} rolls up {len(kids)} topics. Each carries a monthly update and a "
+                        f"progress report, compiled place by place from the same base.",
+                  boxes=boxes))
+        wrote += 1
+
+    print(f"topic pages: {wrote} written -> site/topics/")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
