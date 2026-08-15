@@ -87,6 +87,11 @@ KIND = {
     "progress": ("Twelve-month progress report", "A breakdown of progress recorded over the past twelve months"),
 }
 
+# The status report changes shape when `STATUS-INIT` has run on a country: a table of ledger rows
+# becomes a narrative answering 37 questions about where the country actually stands, and the old
+# blurb would describe the wrong document to a reader deciding whether to open it.
+BASELINE_BLURB = ("Where the country stands across 37 questions, with a source for every claim")
+
 # Column definitions for the dictionary the full table offers, from
 # FINANCE-COMPILE.md § "CSV export". Two columns the CSV carries are not
 # described there — see logs/notes-for-osint.md #7 — and are marked as read off
@@ -301,12 +306,42 @@ def period_label(kind: str, period: str) -> str:
     return period.replace(" to ", " &ndash; ")
 
 
+def tracked(iso: str) -> tuple[str, str]:
+    """Systems and instruments on this unit's ledger, and how many are ***Not held***.
+
+    **Read from `ledger.csv`, not from the status report's frontmatter** *(2026-08-15)*. It was
+    taken from the status report because that was where a ledger count happened to be written
+    down; but the quantity is a property of the ledger, and once `STATUS-INIT` has run on a unit
+    its status report is a narrative baseline that carries no such count. Taking it from the
+    document would have emptied this tile on every country as initialisation reached it — quietly,
+    because the read already had an em-dash fallback and would not have failed.
+
+    Measures are excluded, exactly as `report-render.py` excludes them: a measure moves but has no
+    current state to inventory, so it is not a system or an instrument and the tile does not say
+    it is."""
+    path = UPSTREAM / "reports" / iso / "ledger.csv"
+    if not path.exists():
+        return "&mdash;", ""
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        rows = [r for r in csv.DictReader(fh) if (r.get("kind") or "instrument") != "measure"]
+    held = sum(1 for r in rows if (r.get("status") or "").split(",")[0].strip() == "Not held")
+    return f"{len(rows):,}", (f"{held:,}" if held else "")
+
+
 def report_rows(rows: list[dict], iso: str) -> str:
+    n_tracked, n_not_held = tracked(iso)
     out = []
     for r in rows:
         meta = report_meta(iso, r["kind"])
         counts = ""
-        if meta.get("ledger_rows"):
+        if r["kind"] == "status" and meta.get("built_by") == "STATUS-INIT":
+            # The baseline is not a ledger view, so a ledger count would describe the wrong
+            # document. Its own scale is the question set it answers and the evidence behind it.
+            counts = (f'{meta.get("sections_written", "&mdash;")} sections'
+                      + (f', {meta["sources_cited"]} sources'
+                         if meta.get("sources_cited") else ""))
+            r = {**r, "blurb": BASELINE_BLURB}
+        elif meta.get("ledger_rows"):
             counts = (f'{meta["ledger_rows"]} tracked'
                       + (f', <span class="nh">{meta["not_held"]} not held</span>'
                          if meta.get("not_held") else ""))
@@ -619,7 +654,7 @@ def build(iso: str) -> list[Path]:
         finance_section = FINANCE_EMPTY.format(name=name)
 
     (out_dir / "index.html").write_text(COUNTRY.format(
-        tracked=meta.get("ledger_rows", "&mdash;"),
+        tracked=tracked(iso)[0],
         sources=f"{n_place:,}", cat_total=f"{n_all:,}",
         publishers=", ".join(f"<span>{e(p)} ({c})</span>" for p, c in pubs),
         reports=report_rows(editions(iso), iso),
