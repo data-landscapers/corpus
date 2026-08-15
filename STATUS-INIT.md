@@ -1,6 +1,6 @@
 # STATUS-INIT.md — country status initialisation
 
-Trigger: **"status-init {ISO3}"**. One country per run, from a clean context.
+Trigger: **"status-init {ISO3}"**. From a clean context — one country per run for the heavy ones, and see *Context budget* for when several small ones may share a session.
 
 Builds `outputs/reports/{ISO3}/{ISO3}-status.md` — a narrative answering, for each of the 37 sub-sections of `status-outline.md`, **what is the current status of this in this country**. The bullets under each sub-section in the outline are the checklist of what has to be established before that question can be answered. They are not the shape of the output. The output is prose.
 
@@ -238,7 +238,11 @@ acquire_lines: 7
 
 For reference, the volumes the fan-out is avoiding, measured as a single pass with intersections read whole and the hub read selectively: median **~42k tokens**, worst case **~132k** (NGA), then ZAF 118k, KEN 101k, GHA 88k, AGO 88k, UGA 77k. Reading a hub whole would put NGA at ~207k, which is why step 2 forbids it whatever the architecture.
 
-**One country per run, context cleared between countries.** Nothing carries across runs except this file — there is no method memory to preserve, which is exactly why the method lives here and not in a session. Countries are never combined in a run. What limits a session is cost, not context.
+**One country per run, context cleared between countries.** Nothing carries across runs except this file — there is no method memory to preserve, which is exactly why the method lives here and not in a session. What limits a session is cost, not context.
+
+**Several small countries in one session, once the heavy ones are through** *(Bill, 2026-08-15)*. The rule above read "countries are never combined in a run", and the first run says that is stricter than it needs to be. NGA is the heaviest of the 54 and its whole run — thirty subagents, stage 0 to verification — left the parent at roughly a quarter of its context, because the fan-out keeps the evidence in files and the agents return counts. **What fills the parent is not the run, it is reading the finished report**, which check H requires and which was about 65k tokens for NGA. So the binding constraint on combining countries is how many finished reports one context can read attentively, not how many runs it can drive.
+
+The order of the campaign follows from that: `logs/status-init-progress.csv` is sorted heaviest first, so the countries that must run alone come first and the ones that can be combined come last. Combine only where the reports are short enough to read properly — a session that skims check H to fit three countries in has given up the one check that needs a reader.
 
 ## Verification
 
