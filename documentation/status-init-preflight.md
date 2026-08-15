@@ -61,10 +61,11 @@ Exercised against a synthetic baseline carrying one planted defect per check: al
 
 ## Worth doing before the first country, not after the tenth
 
-**A scoping helper.** `scripts/status-scope.py {ISO3}` emitting stage 0 and the two non-wiki extraction inputs: name and region from `countries.csv`, the hub's `last_reviewed`, the intersection file list selected on `place:` frontmatter, the country's 460 DPI rows cut to the five columns that matter, and its finance rows.
-This is deterministic work being done by a model 54 times, and it removes the single largest failure the design names — an agent constructing an intersection filename instead of selecting on frontmatter. Seven countries use a prefix that is not the country name, and two carry files under two prefixes.
+**A scoping helper — *done 2026-08-15*.** `scripts/status-scope.py {ISO3}` prints stage 0 and writes the two non-wiki extraction cuts to `prep/scope/{ISO3}/`, which is gitignored like the CSVs they come from. The parent gets the map — name, region, hub size and `last_reviewed`, the hub's `topics:`, its `## Active topics` and `## Record not held` extracted by line range, and the intersection list with sizes and topic spans. The agents get the mass: Rwanda's DPI cut alone is 140KB, which has no business in the context that assembles the report.
+It removes the single largest failure the design names — an agent constructing an intersection filename instead of selecting on frontmatter — and reports how many files do not match the country slug, so the risk is visible rather than assumed. Verified against the awkward cases: CIV (all 11 under `civ--`), COM (mixed `com--` and `comoros--`), ERI (none of its own, regional only) and NGA (14, largest file 54.6KB).
 
-**The country page's status stat and its blurb.** `country.py` reads `ledger_rows` from the status report's frontmatter (lines 309 and 622); STATUS-INIT drops it, so the stat degrades to an em dash on every country page as each country goes through.
+**The country page's status stat and its blurb — *done 2026-08-15*.** `country.py` read `ledger_rows` from the status report's frontmatter; STATUS-INIT drops it, so the stat would have degraded to an em dash on every country page as each went through — quietly, because the read already had a fallback and would not have failed.
+Fixed at the cause: the *Systems & instruments* tile now counts `ledger.csv` directly, excluding measures exactly as the renderer does, because the quantity is a property of the ledger and the ledger survives initialisation. The per-report card shows a baseline's own scale — sections and sources — instead of a ledger count that would describe the wrong document, and the blurb switches from *"a summary of all known systems and instruments"* to what a baseline actually is. Verified behaviour-preserving today: RWA's tile reads 89 before and after.
 It degrades rather than crashes, so this will not stop anything — it will just quietly empty a number on 54 pages. Either the frontmatter keeps a count `country.py` can use, or `country.py` is repointed at `sources_cited`.
 The blurb needs changing either way: *"A summary of the status of all known systems and instruments"* describes the ledger table, not a narrative.
 
@@ -73,8 +74,7 @@ The blurb needs changing either way: *"A summary of the status of all known syst
 Under Inputs: *"It indexes 10,171 files, of which 9,404 carry a URL."* The index now holds **12,588** files over `raw/` and `wiki/`, of which 9,443 carry a URL; **9,404 is the catalogue count**, not the index's.
 That matters more than a number being out of date, because the sentence points an extraction agent at the wrong file — and the index now contains wiki pages, a few of which carry a `url:` and would resolve as though they were sources.
 
-Under Inputs, on intersections: *"the median is seven."* It is now 8, and ten countries carry 11 or more — NGA 14, GHA 13, KEN 13, MAR 13, AGO 12, ZAF 12, UGA 12, DZA 11, CIV 11, SEN 11.
-Cosmetic; it only sizes the fan-out.
+Under Inputs, on intersections: *"Every country but Eritrea has at least four."* Mauritania has two and Lesotho three, so a very thin country is a real outcome rather than a sign the selection went wrong — worth saying, because the run should not go looking for files that are not there. **Corrected in `STATUS-INIT.md`.** *(The median of seven, which this file first reported as stale, is right; that figure was computed here over 55 units including the two regions and was wrong.)*
 
 ## One question for Bill, needing no action today
 

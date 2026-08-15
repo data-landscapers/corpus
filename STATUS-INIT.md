@@ -46,9 +46,9 @@ Neither the wiki nor the AfDB dataset is a source. Both are intermediaries that 
 - `documentation/status-outline.md` — the question set. **37 sub-sections**: `finance.budget` is suspended and is not written until budget work resumes. The appendix is out of scope; `[PROPOSED]` ids are not used, and the bullets carrying them are answered from the wiki or stated as not established.
 - `lookups/countries.csv` — ISO3 → country name → region. The country slug used in intersection filenames is the name lowercased with spaces hyphenated.
 - `wiki/places/{ISO3}.md` — the hub. Its frontmatter `topics:` lists which slugs have coverage at all; `## Active topics` maps that coverage to the intersection pages; `## Record not held` states what the base knows it lacks. `## Recent developments` is chronology, which is the wrong input for a status report and is read only to date a claim. `## Financing` is the wiki's own compiled aggregate and carries no source URL.
-- `wiki/intersections/*.md` — **the primary input.** These are the compiled current state. Every country but Eritrea has at least four; the median is seven and NGA has fourteen. **Do not construct the filename.** The prefix is usually the country name hyphenated, but seven countries use something else — `caf`, `civ`, `drc`, `gnq`, `com`, `cabo-verde`, `sao-tome` — and COM and GNQ each carry files under *two* prefixes. Select instead on the frontmatter, which is authoritative and present in all 396: **`place: {ISO3}`**. Take the region's files too (`place: XEA`, `place: XWA`) where they bear on `gov.regional`.
+- `wiki/intersections/*.md` — **the primary input.** These are the compiled current state. The median is seven and NGA has fourteen; Eritrea has none, Mauritania two and Lesotho three, so a thin country is a real outcome and not a sign the selection went wrong. **Do not construct the filename.** The prefix is usually the country name hyphenated, but seven countries use something else — `caf`, `civ`, `drc`, `gnq`, `com`, `cabo-verde`, `sao-tome` — and COM and GNQ each carry files under *two* prefixes. Select instead on the frontmatter, which is authoritative and present in all 396: **`place: {ISO3}`**. Take the region's files too (`place: XEA`, `place: XWA`) where they bear on `gov.regional`.
 - `raw/{year}/...` — the sources themselves. Frontmatter `url` is what the report hyperlinks to.
-- `index/files.jsonl` — resolves a source slug to its path and frontmatter. Use it rather than globbing `raw/`: the key is the filename without `.md`, and `fm.url` is the link. It indexes 10,171 files, of which **9,404 carry a URL** — the other 767 resolve to nothing and are therefore uncitable.
+- `outputs/catalogue/raw-catalogue.csv` — resolves a source slug to its URL. **This, not `index/files.jsonl`.** The catalogue is Corpus's published table, the one a reader can download and the one the report layer resolves citations through; the index is what the catalogue is built from. It holds **9,407 records, of which 9,404 carry a URL** — the other three resolve to nothing and are therefore uncitable. *(Corrected 2026-08-15. This pointed at `index/files.jsonl` and gave its file count as 10,171. The index now covers `raw/` **and** `wiki/` — 12,588 files, 9,443 with a URL — and the 39 extra URLs are wiki concept pages carrying a `url:`. Those are not sources, and an extraction agent resolving a slug against the index could have cited one as though it were.)*
 - `prep/africa-dpi-data.csv` — 462 rows per country. Only five columns matter: `Variable Id`, `Value Name`, `Year`, `Comments`, `Source urls`. **The comments and the URLs are the point**; the value code is a summary of them.
 - `outputs/non-state-finance/all-nonstate.csv` — the major source for `finance.new`. Filter on `recipient_country`, and take the country's region code as well where a regional commitment names it.
 
@@ -60,9 +60,19 @@ Neither the wiki nor the AfDB dataset is a source. Both are intermediaries that 
 
 ### Stage 0 — the parent scopes the run
 
+```bash
+python scripts/status-scope.py {ISO3}
+```
+
+This does the whole of stage 0 and prints it. **Run it and read its output; do not re-derive any of it by hand** — every step below is deterministic, and doing it afresh 54 times is 54 chances to do it differently.
+
 1. **Resolve the country.** ISO3 → name, region from `countries.csv`. Note the hub's `last_reviewed` date; it dates the whole report.
-2. **Read the map, not the mass.** Hub frontmatter `topics:`, then `## Active topics` and `## Record not held` by line range. **Never read a hub whole** — grep its headings and read the ranges you need. NGA is 296KB, ZAF 264KB, KEN 234KB; the median is 59KB.
-3. **List the intersections** whose frontmatter carries `place: {ISO3}`, plus the region's where they bear on `gov.regional`. Seven on average, fourteen at most.
+2. **Read the map, not the mass.** Hub frontmatter `topics:`, then `## Active topics` and `## Record not held`, which the tool extracts by line range. **Never read a hub whole** — NGA is 301KB, ZAF 264KB, KEN 234KB, and `## Recent developments` is chronology, which is the wrong input for a status report and is deliberately not printed.
+3. **List the intersections** whose frontmatter carries `place: {ISO3}`, plus the region's where they bear on `gov.regional`. Seven on average, fourteen at most. The tool selects on frontmatter and reports how many of the files do *not* start with the country slug, which for Côte d'Ivoire is all eleven and for Comoros four of five.
+
+It also writes the two non-wiki extraction cuts to `prep/scope/{ISO3}/` — the country's ~460 indicator rows reduced to the five columns that matter, and its finance rows including the region's. **They go to files, not to stdout**: the DPI cut alone is 140KB for Rwanda, and the parent's context has no business holding it. Stage 1's indicator and finance agents are given the paths.
+
+`prep/` is gitignored, like the two CSVs the cuts come from, and for the same reason — this is working material, thrown away once the 54 countries are through.
 
 ### Stage 1 — extract, one subagent per source of evidence
 
