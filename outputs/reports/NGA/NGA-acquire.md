@@ -11,6 +11,7 @@ built_by: STATUS-INIT
 | 2024 | GitHub | Octoverse 2024 | https://github.blog/news-insights/octoverse/octoverse-2024/ | infra.capacity |
 | 2024 | IDTechWire | World Bank expands Nigeria's digital ID target to 180 million, extends project to 2026 | https://idtechwire.com/world-bank-expands-nigerias-digital-id-target-to-180-million-extends-project-to-2026/ | dpi.id |
 | 2024 | International Telecommunication Union | Global Cybersecurity Index 2024 | https://www.itu.int/en/mediacentre/Pages/PR-2024-09-10-Global-Cybersecurity-Index.aspx | infra.cybersec |
+| 2024 | Mo Ibrahim Foundation | 2024 Ibrahim Index of African Governance — Nigeria country profile | https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf | infra.connect |
 | 2024 | National Centre for Artificial Intelligence and Robotics (NITDA) | National Artificial Intelligence Strategy | https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf | tech.ai |
 | 2024 | Open Data Watch | Open Data Inventory (ODIN) | https://odin.opendatawatch.com/data | data.open |
 | 2024 | World Bank | Digital Skills in Nigeria | https://thedocs.worldbank.org/en/doc/a607bb6e3b76d2be0f3db8db34dcf73e-0140022025/original/1Nigeria-TF0C2441-Digital-Skills-Report-final.pdf | include.divides |
@@ -25,7 +26,6 @@ built_by: STATUS-INIT
 | 2025 | Mondaq | Nigeria: Data Transfers Guidance Note, September 24 2025 | https://www.mondaq.com/nigeria/privacy-protection/1703722/nigeria-data-transfers-guidance-note-september-24-2025 | infra.store |
 | 2025 | National Information Technology Development Agency (NITDA) | National Cloud Policy 2025 | https://nitda.gov.ng/wp-content/uploads/2025/10/National-Cloud-Policy-2025-Oct2-2025.pdf | infra.store |
 | 2025 | Nigeria Data Protection Commission | Nigeria Data Protection Act General Application and Implementation Directive 2025 | https://ndpc.gov.ng/wp-content/uploads/2025/03/NDP-ACT-GAID-2025-MARCH-20TH.pdf | gov.protect |
-| 2025 | Nigerian Communications Commission | Revised National Identity Policy for SIM Card Registration | https://www.ncc.gov.ng/sites/default/files/2024-11/Documents/Legal-Revised_National_Identity%20Policy_SIM_Registration.pdf | dpi.id |
 | 2025 | Rest of World | AWS and Google Cloud alternatives in Nigeria | https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/ | infra.store |
 | 2025 | The Guardian Nigeria | Nigeria, Team Europe chart new course for data exchange | https://guardian.ng/technology/tech/nigeria-team-europe-chart-new-course-for-data-exchange/ | geopol.eu |
 | 2025 | The Punch | MDAs remitted N1.96tn through IPPIS in 2024, report | https://punchng.com/mdas-remitted-n1-96tn-through-ippis-in-2024-report/ | dpi.mis |
@@ -45,7 +45,6 @@ built_by: STATUS-INIT
 | 2026 | Nigerian Tribune | 77 million Nigerians now on FG's safety net register, NASSCO | https://tribuneonlineng.com/77-million-nigerians-now-on-fgs-safety-net-register-nassco/ | dpi.registry |
 | 2026 | Nigerian Tribune | Supreme Court launches digital case management system | https://tribuneonlineng.com/supreme-court-launches-digital-case-management-system/ | dpi.mis |
 | 2026 | Ripples Nigeria | Marginalised, defrauded: how Nigerian banks shut out visually impaired customers from ATMs | https://www.ripplesnigeria.com/feature-marginalised-defrauded-how-nigerian-banks-shut-out-visually-impaired-customers-from-atms/ | include.access |
-| 2026 | Technology Times | IXPN hits 1Tbps in landmark move for Nigeria | https://technologytimes.ng/ixpn-hits-1tbps-in-landmark-move-for-nigeria/ | infra.connect |
 | 2026 | The Nation | FG, Nigeria Police sign MoU to connect all police stations with digital infrastructures, internet services | https://thenationonlineng.net/fg-nigeria-police-sign-mou-to-connect-all-police-stations-with-digital-infrastructures-internet-services/ | finance.mou |
 | 2026 | The Punch | Inside Nigeria's banking system where the blind are denied inclusion | https://punchng.com/inside-nigerias-banking-system-where-the-blind-are-denied-inclusion/ | include.access |
 | 2026 | TheCable | Tinubu signs NIMC Act 2026 into law as FG moves to strengthen cybersecurity | https://www.thecable.ng/tinubu-signs-nimc-act-2026-into-law-as-fg-moves-to-strengthen-cybersecurity/ | dpi.id |
