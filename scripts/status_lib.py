@@ -33,6 +33,7 @@ REPO = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 DPI_CSV = os.path.join(REPO, "prep", "africa-dpi-data.csv")
 FINANCE_CSV = os.path.join(REPO, "outputs", "non-state-finance", "all-nonstate.csv")
 CATALOGUE_CSV = os.path.join(REPO, "outputs", "catalogue", "raw-catalogue.csv")
+IIAG_CSV = os.path.join(REPO, "lookups", "iiag-profiles.csv")
 OUTLINE = os.path.join(REPO, "documentation", "status-outline.md")
 REPORTS = os.path.join(REPO, "outputs", "reports")
 
@@ -118,9 +119,34 @@ def catalogue_published():
     return _cache["pub"]
 
 
+def iiag_urls():
+    """The Mo Ibrahim Foundation's per-country IIAG profiles.
+
+    96 of the DPI dataset's 462 rows per country come from the IIAG, and **not one of them carries
+    a URL** — the `Source urls` column holds source-organisation abbreviations rather than links,
+    so under *no link, no claim* the whole family was uncitable and the first run dropped it. The
+    profile is the primary those scores are published in. It is a fourth body of evidence and
+    belongs in the set for the same reason the other three do: it is what the process read.
+
+    Read from `lookups/iiag-profiles.csv`, which `scripts/iiag-profiles.py` writes only after
+    fetching every profile and reading the country name out of the PDF's own cover. A remembered
+    URL pattern is precisely what check A exists to catch, so the pattern is not trusted here — the
+    lookup is the record of it having been tested."""
+    if "iiag" not in _cache:
+        out = set()
+        if os.path.exists(IIAG_CSV):
+            with open(IIAG_CSV, encoding="utf-8-sig", newline="") as fh:
+                for row in csv.DictReader(fh):
+                    u = (row.get("url") or "").strip()
+                    if u.startswith("http"):
+                        out |= _variants(u)
+        _cache["iiag"] = out
+    return _cache["iiag"]
+
+
 def extra_urls():
-    """The two bodies the catalogue does not cover. What check G has to add for a baseline."""
-    return dpi_urls() | finance_urls()
+    """The three bodies the catalogue does not cover. What check G has to add for a baseline."""
+    return dpi_urls() | finance_urls() | iiag_urls()
 
 
 def held_urls():
