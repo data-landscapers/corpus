@@ -41,6 +41,22 @@ Of the other report-layer checks in `wiki/report-layer.md` §6: **H** is ledger-
 
 Neither the wiki nor the AfDB dataset is a source. Both are intermediaries that cite primaries, and the link in the report goes to the primary, never to the intermediary. A fact whose primary cannot be resolved to a URL is not written.
 
+## When the evidence is borderline, the fact does not go in
+
+**This governs the writing sections below, and it outranks every one of them** *(Bill, 2026-08-15)*. The rule was already implied — by the caveat field, by *no apparatus*, by check G's "rewritten or the claim is dropped" — but only ever as a clause inside a paragraph about something else. It is stated here because it is applied 37 times in each of 54 countries, by ten writer agents that each see one slice of the evidence and none of this file's reasoning unless it is in front of them.
+
+**The asymmetry is the whole argument.** The baseline is what everything else is read against: the monthly, the progress report, and every judgement BUILD later makes about whether a new source changes the position. A gap in it is visible and gets filled the first time someone asks the question. An error in it is invisible and propagates into every comparison made against it, indefinitely. The two are not comparable costs, so they do not get comparable treatment.
+
+**Three outcomes, in this order of preference, and never a fourth:**
+
+1. **State it plainly**, where the evidence supports it as written.
+2. **State it plainly at a coarser grain** that the evidence does support. This is the one most often right and the one most often missed — *"the register covers most of the adult population"* where the sources disagree on the figure, rather than a precise number none of them establishes.
+3. **Drop it.**
+
+**This outranks the news.** The opening sentence carries the *best-evidenced* news, not the biggest. A striking claim resting on a single syndicated report is not the opening sentence, and is usually not in the report at all. Nothing in this file asks for a finding that is not there, and a section whose most interesting fact is borderline opens on its second most interesting one.
+
+**Where two sources of equal tier disagree and recency does not separate them, neither figure is stated.** *The better source wins* assumes there is a better one. Where there is not, state what the sources agree on — at whatever grain that is — or state the position as not established, dated. The report never picks a side it could not defend to a reader who follows the link, and it never narrates that it had to choose.
+
 ## Inputs
 
 - `documentation/status-outline.md` — the question set. **37 sub-sections**: `finance.budget` is suspended and is not written until budget work resumes. The appendix is out of scope; `[PROPOSED]` ids are not used, and the bullets carrying them are answered from the wiki or stated as not established.
@@ -95,13 +111,14 @@ Launched in a single batch so they run concurrently. **No extraction agent write
 | `origin` | `wiki`, `dpi` or `finance` — which stage-1 agent found it. |
 | `tier` | `primary`, `official`, `reported` or `syndicated`. Drives better-source-wins at the pooling step. |
 | `caveat` | The qualification the fact cannot safely be stated without, or empty. **Internal. Never reaches the page** — it exists so the writer can judge whether to state the fact, state it coarser, or drop it. |
+| `confidence` | `solid` or `borderline`. **`borderline` is never stated as written** — the writer coarsens it or drops it. Judged by the agent that read the body, because that is the only point in the run where the body is in front of anyone; a writer sees a sentence someone else drew from it and cannot tell a well-attested figure from a single unreplicated one. Kept apart from `tier`, which is the *kind* of source and not the strength of the evidence: a primary source can carry a weak claim and a reported one a solid claim, and collapsing the two would lose exactly the distinction this field exists to carry. |
 | `news` | `true` where an informed reader of this country would not already know it. Feeds the writer's choice of opening sentence. |
 
 ### Stage 2 — write, one subagent per Level-1 chapter
 
 7. **The parent pools the facts, dedupes them and slices the pool by slug.** A fact that answers four chapters is written once and passed to all four, so the writers see a consistent record rather than four readings of it.
 
-**Dedupe and ownership, deterministically.** Two facts are one fact when they state the same thing about the same object — the same law, system, register, figure or commitment — whatever words they arrived in. The survivor is the better `tier` first, then the later `published`, and it takes the **union** of the losers' `slugs`. Every surviving fact then gets an **owner**: the chapter of its first slug in `status-outline.md` order. The owning chapter states it in full; every other chapter receiving it may refer to it in passing but must not restate the figure. Without this the population-coverage number appears four times in four voices, which is what makes a report unskimmable.
+**Dedupe and ownership, deterministically.** Two facts are one fact when they state the same thing about the same object — the same law, system, register, figure or commitment — whatever words they arrived in. The survivor is `solid` over `borderline` first, then the better `tier`, then the later `published`, and it takes the **union** of the losers' `slugs`. Confidence leads because the point of the pool is that a solid account of an object is available to every chapter that needs it: where one exists, no chapter should be reasoning from the shaky version of the same fact. A fact that survives as `borderline` reaches the writer still marked, and is coarsened or dropped there. Every surviving fact then gets an **owner**: the chapter of its first slug in `status-outline.md` order. The owning chapter states it in full; every other chapter receiving it may refer to it in passing but must not restate the figure. Without this the population-coverage number appears four times in four voices, which is what makes a report unskimmable.
 8. **One agent per chapter, ten in a batch.** Each receives only its slice — facts and resolved URLs, never raw wiki text, never the hub — and returns the narrative for its sub-sections. It cannot cite anything not in its slice, which is what makes the no-link-no-claim rule enforceable rather than aspirational.
 
 ### Stage 3 — the parent assembles
@@ -116,6 +133,8 @@ Launched in a single batch so they run concurrently. **No extraction agent write
 ## Sources and conflicts
 
 **The better source wins, and neither intermediary gets a vote.** Judge on tier, in this order: primary over secondary, official over reported, canonical over syndicated, full text over excerpt, finer date precision over coarser. For a time-varying figure, the more recent of two sources of equal tier wins.
+
+**Where that ordering does not separate them, neither figure is stated** — *When the evidence is borderline*, above. This rule names the winner when there is one; it does not license inventing one when there is not.
 
 **The test is whether the source is held, not which intermediary carried it** *(Bill, 2026-08-15)*. The 2024 line is not about what the report may cite — the report cites it either way — but about **whether the wiki should have caught it**, and a source the wiki already holds raises nothing whatever its date or its route. So the question is asked of the catalogue, and only of a URL the catalogue does not resolve:
 
@@ -149,6 +168,8 @@ built_by: STATUS-INIT
 **Who this is for.** Someone who follows this country skimming for what they did not already know. That governs everything below. A section that makes a well-informed reader stop and read is doing its job; a section that walks the checklist in order and reports what everyone knows has failed, however accurate it is.
 
 **The first sentence carries the news.** It is the skim surface, and the only line most sections will get read. It states the thing a reader who knows the country would not already have: the figure that moved, the law that passed, the system that went live, the gap that has not closed. The rest of the narrative supports it. Never open with a definition, a restatement of the question, or the oldest fact in the section.
+
+**The news it carries is the best-evidenced news, not the biggest** — see *When the evidence is borderline*, which outranks this section. The pressure runs the other way here and it is worth naming: a rule to lead on news, next to a rule forbidding hedges, reads as an instruction to assert the most striking thing available. It is not. A `borderline` fact is coarsened or dropped whatever it would have done for the opening line, and a section whose most interesting fact does not survive that opens on its second most interesting one.
 
 **No apparatus on the page.** No caveats, no hedging, no notes about the evidence, no "sources indicate", no "it should be noted", no observation that two accounts differ or that a figure is contested. The reader wants the fact and the link. Everything else is the writer's problem, settled before the sentence is written. Where a fact is too shaky to state, it does not appear — a hedged sentence is worse than a missing one, because it costs the reader the same attention and pays nothing.
 
@@ -235,4 +256,4 @@ A run that fails A, B or G is not issued — A because a synthesised link is und
 
 ## What this process never does
 
-Runs before it has been moved to the repo root. Touches `ledger.csv`, the monthly update or the progress report. Writes anywhere but `outputs/reports/{ISO3}/`. Cites a link it has not resolved. Puts a caveat, a hedge or a word about its own evidence on the page. Narrates a disagreement between sources. Uses a `[PROPOSED]` indicator. Writes `finance.budget`. Pads a thin section.
+Runs before it has been moved to the repo root. Touches `ledger.csv`, the monthly update or the progress report. Writes anywhere but `outputs/reports/{ISO3}/`. Cites a link it has not resolved. **States a `borderline` fact as written, rather than coarsening it or dropping it. Picks between two equal-tier sources that disagree.** Puts a caveat, a hedge or a word about its own evidence on the page. Narrates a disagreement between sources. Uses a `[PROPOSED]` indicator. Writes `finance.budget`. Pads a thin section.
