@@ -1,501 +1,389 @@
 ---
 title: Zambia — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-15
 place: ZMB
-ledger_rows: 145
-not_held: 54
-record: c3bd80dd4257
+region: XSA
+built_by: STATUS-INIT
+hub_last_reviewed: 2026-07-28
+intersections_read: 7
+sources_cited: 143
+sections_written: 37
+not_established: 2
+acquire_lines: 50
 ---
-
-# Zambia: status report
-
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ZMB/ledger.csv` (145 systems and instruments, 54 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
-
-**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
-
-## Summary of position
-
-<!-- narrative: summary -->
-Zambia's digital state collects revenue well and identifies people slowly. Over 400 government services are onboarded across the service bus, payment gateway, national portal and payment platform, with more than K8.8 billion collected cumulatively ([Accountant General's office](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)). Against that, biometric enrolment on the national register stood at about 1.3 million people at the end of 2025, and issuance of the biometric registration card was deferred until after the general election of 13 August 2026 ([ministry account](https://znbc.co.zm/?p=10211)).
-
-The governing instruments moved in one direction only. Enforcement of the Cyber Crimes Act No. 4 of 2025 was declared fully operational on 18 July 2026, twenty-six days before that election ([enforcement account](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/)). The Office of the Data Protection Commissioner has been operational since early 2025 and the base contains no registration count, enforcement decision, fine or breach notification for it at any date.
-
-Only 33.0% of Zambians used the internet in October 2025, unchanged across two annual readings ([compiler analysis](https://datareportal.com/reports/digital-2026-zambia)), against government coverage claims of 80% to 94% that state no basis.
-<!-- /narrative -->
-
-## Infrastructure
+## ICT Infrastructure
 
 ### Connectivity
+<!-- infra.connect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Border-post connectivity upgrade across five trade corridors | [Planned](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/) | National standard set out and an independent ICT audit commissioned |
-| Chanida-Cassacatiza cross-border fibre interconnector | [Implemented](https://clubofmozambique.com/news/zambia-and-mozambique-launch-fibre-optic-interconnector/) | Commissioned 2026-02-23 |
-| Communication Towers Project Phase 2 | [Implemented](https://www.lusakatimes.com/2017/06/28/government-gets-280-million-loan-china-bank-finance-communication-towers/) | Disbursement at 87.8% as reported by the Ministry of Finance, July 2022 |
-| Direct-to-cell satellite trials | [Piloting](https://techafricanews.com/2026/07/28/mtns-ebenezer-asante-on-leo-satellites-inclusion-and-building-a-borderless-african-digital-economy/) | Zambia named as a trial site |
-| Government Wide Area Network | [Implemented](https://itweb.africa/article/zambia-deploys-govt-wan-to-enhance-service-delivery/G98Yd7LGgAgvX2PD) | Phase 1 declared complete 2026-03-24; border-post gaps confirmed 2026-08-05 |
-| GovLink Private 4G | [Implemented](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD) | Launched at Ndola Teaching Hospital |
-| Independent tower portfolio | [Implemented](https://www.bii.co.uk/en/our-impact/investment/ihs-zambia-ltd-investment-01/) | Development-finance equity exited 2021-03-31; a US$75m loan fully disbursed from 2021 |
-| National ICT Development Project Phase II, backbone extension | [Planned, financing undrawn](https://dailyrevelationzambia.com/chitala-says-lungu-told-him-against-proceeding-on-392-million-huawei-deal-as-it-was-more-scandalous-than-the-purchase-of-42-fire-tenders/) | Disbursement at 0% as of July 2022 |
-| Quality-of-service enforcement regime | [Planned](https://diggers.news/business/2025/06/13/were-investigating-disruption-of-internet-services-zicta/) | Quarterly network-performance reporting announced |
-| Starlink service in Zambia | [Implemented](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Market entry October 2023; among the top three African markets by June 2026 |
-| Umoja cable terrestrial segment through Zambia | [In development](https://www.mobileeurope.co.uk/google-invests-in-terrestrial-subsea-cable-linking-kenya-to-australia/) | Ready for service stated as 2027 |
-| 4G and mobile broadband population coverage | ***Not held*** | — |
-| Fixed and mobile broadband pricing | ***Not held*** | — |
-| Satellite operator licence terms in Zambia | ***Not held*** | — |
+Network reach and network use have come apart. [4G signal reached 91.2 percent of Zambians in 2023](https://www.cto.int/member-countries-1/zambia), and [23.5 million mobile connections were active in October 2025, equivalent to 106 percent of the population](https://datareportal.com/reports/digital-2026-zambia) — a count of SIM cards rather than of people. In the same month [33.0 percent of Zambians used the internet, 7.29 million out of 22.1 million, leaving 14.8 million offline](https://datareportal.com/reports/digital-2026-zambia), and [the offline share is not falling](https://datareportal.com/reports/digital-2026-zambia). Price is part of the answer: [a low-consumption mobile data and voice basket cost 3.5 percent of GNI per capita in 2022](https://www.digitaldevelopment.org/wp-content/uploads/2023/09/ddd_ZMB-1.pdf).
+
+The same split runs through the governance indices. [Zambia's mobile communications score rose 35.6 points over 2014-2023 to 80.1 out of 100, eleventh of 54 African states and the country's second most improved indicator of 96](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), while [the measure combining internet use, computer access and affordability reached only 34.0, twenty-fifth of 54, on a gain less than half as large](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). [Public perception of infrastructure moved the other way entirely, down 18.7 points to 41.3 out of 100 (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), against [an 11.0-point administrative gain that lifted the infrastructure sub-category to 42.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf).
+
+Government's own network started from almost nothing: [263 of 15,600 government sites were on the Government Wide Area Network in December 2022](https://www.codevelop.fund/insights-1/building-zambias-digital-economy-foundations-through-digital-public-infrastructure-dpi). Completion and service are not the same milestone — [twelve Western Province sites were reported complete in February 2025 while SMART Zambia's provincial ICT officer said the network could not be used until ZAMTEL finished the last-mile links](https://itweb.africa/article/zambia-deploys-govt-wan-to-enhance-service-delivery/G98Yd7LGgAgvX2PD) — but [by July 2026 every local authority and post office in North-Western Province had been connected over fibre, reaching schools and health facilities](https://techafricanews.com/2026/07/08/smart-zambia-expands-digital-infrastructure-to-reach-every-corner-of-the-country/). [GovLink, a government-owned private 4G network for public institutions, launched on 15 July 2026 with healthcare as its flagship use](https://www.telecomreviewafrica.com/articles/general-news/28992-zambia-launches-govlink-private-4g-to-power-digital-government-and-healthcare-services/).
+
+Domestic traffic has one place to meet: [LSK-IX in Lusaka, run by Infratel since 2023, with ten peers and 76G of capacity carrying MTN, Airtel, Zamtel, ZAMREN, the Zambia Revenue Authority and Paratus (2025)](https://www.peeringdb.com/ix/615). [ZedMobile has been named the country's fourth mobile network operator (February 2026)](https://itweb.africa/article/zambia-partners-with-payz-to-boost-financial-inclusion/xnklOqz1eBKM4Ymz).
 
 ### Data Storage
+<!-- infra.store -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Memorandum of understanding on a national AI data centre | [Planned](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership) | Signed at the 2026 Zambia Mobile Congress |
-| Zambia National Data Centre and backup facilities | [Implemented](http://www.mof.gov.zm/?wpfb_dl=50) | Phase 1 implementation commenced January 2016 |
-| Commercial and colocation data-centre capacity | ***Not held*** | — |
-| Government cloud and data-hosting arrangements | ***Not held*** | — |
+The law requires Zambian data to stay in Zambia, and Zambia has few places to put it. [Section 70(1) of the Data Protection Act No. 3 of 2021 requires controllers and processors to store and process personal and sensitive personal data on servers or in data centres located in the country, subject to limited exceptions](https://aln.africa/insight/data-localisation-requirements-under-the-data-protection-act/). [There is no direct cloud on-ramp for AWS, Azure or Google Cloud: Johannesburg is the nearest hyperscale hub, and those services are reached remotely at latency above 100 milliseconds (September 2025)](https://inflect.com/datacenters/emea/zambia/lusaka). [The commercial market is small and telco-dominated, limited to Tier II facilities such as Paratus's carrier-neutral site and the state-linked National Data Centre operated by Infratel, with the first more advanced entrant, Africa Data Centres, not expected before 2026-27](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Zambia.pdf).
+
+The state's own estate is better provided for on paper than in service. [Government data centres run at Tier I to Tier III, with a Tier III facility targeted at the Integrated Command and Control Centre site, and cloud computing infrastructure is a pillar of the national digital transformation strategy](https://api.oecdai.org/storage/policy-initiatives/Jul2025/fu_c5qdvrhsmxejmep.pdf). [The government cloud itself remains a strategy rather than a running platform (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). All of it sits on [a grid that was still rationing supply in May 2025](https://www.bbc.co.uk/news/articles/cx2krr137x9o).
+
+What is being built next is being built with a single vendor. [Zambia, the SMART Zambia Institute and Huawei signed a memorandum of understanding in May 2026 for a National AI Data Centre](https://techafricanews.com/2026/05/27/zambia-and-huawei-and-smart-zambia-sign-deal-for-national-ai-data-centre/), followed by [a sovereign-AI memorandum at the 2026 Zambia Mobile Congress covering AI infrastructure, a sovereign cloud and a co-invested national data centre keeping critical data in-country](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership). [It is the same vendor that built the earlier Zambia National Data Centre](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership), and [the compute was contracted before any national AI policy existed](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership).
 
 ### Energy
+<!-- infra.energy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Solar power at local authority offices | [Implemented](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) | Stated complete for all 116 councils at a state ICT institute briefing |
-| Electricity supply to data centres | ***Not held*** | — |
-| Power supply and backup at telecommunications sites | ***Not held*** | — |
+The grid failed within living memory of anyone now planning against it. [A severe El Niño drought from 2024 cut output from Kariba to a fraction of capacity and forced load-shedding of up to 21 hours a day affecting more than 80 percent of the population, with ZESCO still rationing supply at around seven hours a day in May 2025](https://www.bbc.co.uk/news/articles/cx2krr137x9o). The exposure is structural rather than accidental: [renewables, overwhelmingly hydropower, account for close to 90 percent of Zambia's electricity generation (July 2025)](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Zambia.pdf).
+
+Reach is the other constraint. [Electricity access reached 51.1 percent of the population in 2023, up from 47.8 percent in 2022 and 46.7 percent in 2021](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS), and [the 2023 National Energy Access Survey records 80.3 percent in urban areas against 34.0 percent in rural areas, a gap of roughly 46 percentage points, with the grid dominant and solar the main alternative](https://www.moe.gov.zm/?p=3813). [Access to energy is the second worst-scoring of Zambia's 96 IIAG indicators at 26.7 out of 100, 35th of 54, despite a 7.0-point gain over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). Against that, [off-grid electrification is an established policy line, with results-based financing for off-grid solar and mini-grids under the Beyond the Grid Fund, an Off-Grid Energy Taskforce and a mini-grid regulatory framework](https://rise.esmap.org/sites/default/files/library/zambia/Electricity%20Access/Zambia_beyond-the-grid-fund-zambia.pdf).
+
+Where the digital estate has spread, power has gone with it rather than after it. [The government's electronic health record is concentrated in facilities where solar power and internet connectivity have been secured](https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf); [the Ministry of Health, the Smart Zambia Institute and UNDP agreed in October 2025 to extend solar power and connectivity together to rural and peri-urban health facilities that have neither](https://www.undp.org/zambia/press-releases/smart-zambia-institute-ministry-health-and-undp-partner-drive-digital-transformation-within-zambias-health-facilities); [the Smart Zambia Institute has a partnership with ZESCO to extend digital access to schools, health facilities and public administrations](https://www.wearetech.africa/fr/fils/actualites/telecom/connectivite-gouvernementale-la-zambie-lance-un-reseau-4g-prive); and [it reported in March 2026 that solar power had been provided to every council so they can operate around the clock](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/).
 
 ### Technical Capacity
+<!-- infra.capacity -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| International transit and wholesale bandwidth pricing | ***Not held*** | — |
-| National internet exchange point | ***Not held*** | — |
+<!-- derived -->
+Zambia's government systems are bought rather than built: of the eight whose software type is on record in 2025, six run commercial off-the-shelf products and only two — tax management, and the public investment management system under implementation — are custom.
+
+That extends to the machinery of the civil service itself: [the human resource management information system and the payroll system are both commercial off-the-shelf products, with most HR services online or digitised (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The identity platform is where the state has tried to reverse the pattern. [SMART Zambia Institute e-government developers have taken MOSIP training so the platform can be run in-country, though development and capacity building still depend substantially on external partners (2025)](https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration/), and [the institute said in March 2026 that the digital identity system would be developed by Zambians, with an international partner used only for technical support](https://znbc.co.zm/?p=11892).
+
+The institutional scaffolding is in place. [A dedicated digital government institution is established, with machinery for coordinating government technology across ministries](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), alongside [a public sector innovation institution whose focus areas are digital skills and public service innovation (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A digital skills strategy and a training programme for public servants cover basic digital skills and data literacy, including fee-based training](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [the Smart Zambia Institute launched a decentralised version of that training for government staff in December 2025](https://www.wearetech.africa/fr/fils/actualites/telecom/connectivite-gouvernementale-la-zambie-lance-un-reseau-4g-prive).
+
+The tertiary pipeline is long-standing rather than new: [the University of Zambia's Department of Computing and Informatics dates from 1998 and Copperbelt University has run computer science degrees since 1996](https://engineering.unza.zm/natural-and-applied-sciences/computing-and-informatics).
 
 ### Cybersecurity
+<!-- infra.cybersec -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| CCTV (Public Protection) Bill and National Public Security Command Centre | [In development](https://bloggersofzambia.org/6th-state-of-digital-rights-report/) | On the record in civil-society monitoring current to late December 2025 |
-| Cyber Crimes Act No. 4 of 2025 | [Implemented, contested](https://www.parliament.gov.zm/sites/default/files/documents/acts/Acts%20No.%204%20of%202025%2C%20The%20Cyber%20Crimes.pdf) | Enforcement declared fully operational |
-| Cyber Security Act No. 3 of 2025 | [Implemented](https://diggers.news/local/2025/04/18/us-warns-its-citizens-over-new-surveillance-law-in-zambia/) | Signed by the President 8 April 2025 |
-| Law Association challenge to the 2025 cyber Acts | [Planned](https://www.lusakatimes.com/2025/04/22/laz-set-to-mount-legal-challenge-against-cyber-laws-warns-of-democratic-backslide/) | Association reported as set to mount a challenge |
-| Lusaka safe-city surveillance system | [Implemented](https://www.lusakatimes.com/2015/04/14/government-resurrects-controversial-project-to-install-cctv-cameras-on-lusaka-streets/) | Lusaka listed among Chinese-supplied deployments in an eleven-country mapping |
-| Zambia Cyber Security Agency | [Implemented](https://www.lusakatimes.com/2026/07/15/journalists-urged-to-learn-cybersecurity-laws/) | Named by the home affairs ministry as strengthening the response to online scams |
-| Central Monitoring Centre | ***Not held*** | — |
-| National Computer Incident Response Team | ***Not held*** | — |
-| National cybersecurity policy or strategy | ***Not held*** | — |
+[Zambia scored 92.58 out of 100 in the ITU's Global Cybersecurity Index 2024, placing it in the top "role-modelling" tier globally and among the highest-scoring African states, up from 68.88 in 2020](https://www.itu.int/pub/D-HDB-GCI.01-2024). [A National Cyber Security Policy was approved in January 2021](https://zambia.misa.org/2021/01/27/national-cyber-security-policy-approved/), and [the Cyber Crimes Act No. 4 of 2025 was signed by President Hakainde Hichilema on 8 April 2025 and gazetted a week later, criminalising unauthorised access, computer fraud, malware and the publication of "false information"](https://www.parliament.gov.zm/sites/default/files/documents/acts/Acts%20No.%204%20of%202025%2C%20The%20Cyber%20Crimes.pdf). [Its section 10 makes it an offence to record a private conversation without notifying the parties to it, whether or not the recorder is one of them](https://www.parliament.gov.zm/sites/default/files/documents/acts/Acts%20No.%204%20of%202025%2C%20The%20Cyber%20Crimes.pdf). [Its investigatory powers are judicially gated throughout Part III, from search and seizure on a warrant to an ex-parte judicial order for real-time traffic-data collection](https://www.parliament.gov.zm/sites/default/files/documents/acts/Acts%20No.%204%20of%202025%2C%20The%20Cyber%20Crimes.pdf).
 
-<!-- narrative: infrastructure -->
-Zambia's network figures do not reconcile, and the disagreement is between the state and its own financier. The World Bank appraisal of January 2025 records 10,000 km of fibre ([appraisal document](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt)); the Minister of Technology and Science stated in May 2026 that the network had grown from 15,000 km in 2021 to more than 45,000 km, with national coverage at 94% ([ministerial statement](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/)). Neither states its counting basis, and the two accounts have not been reconciled.
+[The companion Cyber Security Act No. 3 of 2025 is a separate instrument](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf) and [places the Zambia Cyber Security Agency in the Office of the President, administering the Act under the President's general direction](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf). Its remit has since widened: [the Ministry of Home Affairs has placed AI-enabled human trafficking and online scams inside its response (July 2026)](https://www.lusakatimes.com/2026/07/30/government-rallies-nation-against-ai-driven-human-trafficking/).
 
-The same ambiguity attaches to the word connected. In February 2025 the state ICT institute's own provincial officer said site works were complete at twelve Western Province sites but that completion depended on last-mile connections still outstanding; by March 2026 all 116 councils were reported connected and phase one complete ([briefing](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/)). In August 2026 the institute confirmed that four named border posts still have connectivity gaps, with no budget or completion date published ([status update](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/)).
+The laws drew an unusual objection. [The US Embassy in Lusaka warned American citizens in April 2025 that the new cyber law "requires the interception and surveillance of all electronic communications"](https://diggers.news/local/2025/04/18/us-warns-its-citizens-over-new-surveillance-law-in-zambia/); [Home Affairs Minister Jack Mwiimbu rejected the characterisation, saying the laws are meant to protect citizens](https://diggers.news/local/2025/04/18/us-warns-its-citizens-over-new-surveillance-law-in-zambia/). [Enforcement of the Cyber Crimes Act commenced on 18 July 2026](https://techafricanews.com/2026/07/22/zambia-reinforces-cybersecurity-and-privacy-through-cyber-crimes-act/), weeks before a general election, and [the agency urged journalists that same month to learn the laws, presenting them as protection for media houses against ransomware and disruption](https://www.lusakatimes.com/2026/07/15/journalists-urged-to-learn-cybersecurity-laws/).
 
-Two builds are real. A government-owned private 4G network for public institutions was launched at Ndola Teaching Hospital on 15 July 2026, with the national electronic health record migrating onto it ([launch account](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)), and a cross-border fibre interconnector to Mozambique was commissioned on 23 February 2026.
-<!-- /narrative -->
+Operational defence is thinner than the statute book. [ZICTA deactivated 43,500 SIM cards linked to mobile money fraud between January and June 2026, securing K19.8 million](https://diggers.news/business/2026/08/04/zicta-blocks-43500-sim-cards-linked-to-scammers-secures-k19-8m/), work that [reaches it through consumers reporting scammers on the *707# short code under its consumer-protection mandate in the ICT Act](https://diggers.news/business/2026/08/04/zicta-blocks-43500-sim-cards-linked-to-scammers-secures-k19-8m/). [A centralised national Security Operations Centre, and vulnerability assessment tools for the national Cybersecurity Incident Response Team, are provided for under the Digital Zambia Acceleration Project (2025)](https://documents1.worldbank.org/curated/en/099012025023033676/pdf/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.pdf).
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
+<!-- dpi.exchange -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Government Service Bus | [Implemented](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/MINISTERIAL%20STATEMENT%20-%20Ministry%20of%20Lands.pdf) | Eight local authorities onboarded from June 2026 |
-| IDEA Programme regional coordination | [Implemented](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Third project steering committee convened in Lusaka |
-| ZamConnect data-exchange layer | [Planned](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Named in the acceleration project appraisal as a complementary platform for data integration and exchange |
-| ZamConnect in operation | ***Not held*** | — |
+Zambia's Government Service Bus carried more than [290 live services](https://www.szi.gov.zm/?p=2814) (2025), and the World Bank's maturity index records the country as having [both a government interoperability framework and a data-exchange platform in extensive use](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+
+What crosses it is more than a catalogue of endpoints. The land administration system runs on the bus and [checks National Registration Cards against the Ministry of Home Affairs and retrieves company profiles from the company register while a land transaction is in progress](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/MINISTERIAL%20STATEMENT%20-%20Ministry%20of%20Lands.pdf) (2024). The customs administration and the central financial management system [exchange data with other government systems through the bus and through dedicated interfaces](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The Revenue Authority [agreed in 2022 to interface its TaxOnline platform directly with the bus](https://www.zra.org.zm/zra-sign-memorandum-of-understanding-with-smart-zambia/), and company, tax and pension registration data have been shared across three agencies through the [One Stop Shop Integrated System](https://www.brra.org.zm/e-services) since around 2015, longer than the bus itself. Civil registration is being wired in now: birth and death notifications are [being automated end to end through the registration system's API manager](https://znbc.co.zm/?p=10211) so that population records update in real time (December 2025).
+
+The reach stops well short of the whole state. Line-ministry systems for registration, agriculture, immigration, land, public finance, education and health are [individually operational but only partially integrated](https://www.codevelop.fund/insights-1/building-zambias-digital-economy-foundations-through-digital-public-infrastructure-dpi) with the exchange (2024); the identity estate remains [fragmented across agencies running different fingerprint-matching systems](https://documents1.worldbank.org/curated/en/099012025023033676/pdf/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.pdf), with its integration a project commitment rather than a finished one (2025); and the [electoral register is not connected to the exchange at all](https://www.elections.org.zm/wp-content/uploads/FINAL-ERTC-REPORT_3rd-JUNE-2025.pdf) (June 2025). The [data interoperability standards are mandatory for every ministry, province and spending agency](https://www.szi.gov.zm/wp-content/uploads/2024/03/Public-Service-ICT-Std_Data-Interoperability-2023.pdf) (2024), and officials pushing the [amendment of the Electronic Government Act name fragmented, vendor-locked systems as a governance and legal problem rather than a technical one](https://itweb.africa/article/zambia-begins-amending-electronic-government-act/) (January 2026).
 
 ### Digital Identity and CRVS
+<!-- dpi.id -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Biometric National Registration Card issuance | [Planned](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Deferred to after the 2026-08-13 general election |
-| Integrated National Registration Information System | [Implemented](https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration) | End-to-end automation of birth and death notification reported under way |
-| MOSIP-based national digital ID system | [In development](https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration) | Procurement of an international system integrator opened |
-| National Registration Card, paper | [Implemented](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | In issue since before independence in 1964 |
-| Nationwide mobile registration campaign for 3.5m ID documents | [Discontinued](https://www.biometricupdate.com/202504/zambia-commences-nationwide-mobile-campaign-for-issuance-of-3-5m-id-documents) | Launched at Kitwe for a three-month run |
-| Outcome of the April 2025 mobile campaign for 3.5 million ID documents | ***Not held*** | — |
-| Refugee biometric registration card issuance | ***Not held*** | — |
-| System integrator contract award for the digital ID | ***Not held*** | — |
+The system carrying Zambia's digital identity had been deployed in [11 of the country's 116 districts](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/INRIS%20IMPLEMENTATION%20-%20Mr%20Mwiimbu.pdf) (2026), with [around 1.3 million people enrolled on it and more than 500,000 births and deaths recorded](https://znbc.co.zm/?p=10211) (December 2025).
+
+The funded ambition is far more modest than the announced one. The World Bank operation carrying the work [targets 4 million people holding a digitally verifiable identity by October 2030](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349), against a baseline of 1.5 million in December 2022, while the implementing institute [continues to maintain that digital identity cards will issue by the end of 2026](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8) (July 2026) and the registrar general puts [population-scale coverage at the end of 2027](https://www.biometricupdate.com/202506/zambia-says-using-multiple-strategies-to-meet-50-percent-birth-registration-goal-by-2026) (June 2025). Responsibility is [split between the registration department, which issues the credential, and the institute, which owns the system](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt).
+
+What the state actually runs on is still the paper card. Registration is [mandatory from age 16 with no earlier enrolment pathway](https://www.parliament.gov.zm/sites/default/files/documents/acts/National%20Registration%20Act.pdf), the card is [the legally recognised proof of identity](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%2041%20OF%202021,%20THE%20ELECTRONIC%20GOVERNMENT%20ACT,%202021_0.pdf), and the [great majority of adults hold one](https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration) (2024) against [15 percent of adults registered biometrically](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349) (September 2025).
+
+There is no dedicated digital identity law: the credential rests on the National Registration Act, the Electronic Government Act and the Data Protection Act, and [that registration Act is itself flagged as needing to be brought into line with digital identity standards](https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration) (2024). No portal, app or other mechanism lets a person [see what the identity system holds on them or who has looked at it](https://cipit.strathmore.edu/wp-content/uploads/2025/10/Government-Digital-Services-and-Digital-ID-in-Kenya-and-Zambia-Summary.pdf) (October 2025).
+
+Enrolment is [free of charge](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349) and [collects name, date of birth, address, gender, ten fingerprints and a photograph, expressly excluding ethnic and other sensitive data](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349). The institute is [procuring an international system integrator for a MOSIP-based system integrated with civil registration, while insisting the application layer be built by Zambians on open standards](https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project) (March 2026). Refugees are being [enrolled into the citizens' register rather than a parallel one](https://documents1.worldbank.org/curated/en/099090924120535793/txt/BOSIB12c22668f0f51a0d117949b7b8fe34.txt), with UNHCR's registration database transferring to the Ministry of Home Affairs under the same project (September 2024).
 
 ### Digital Payments and Fintech
+<!-- dpi.pay -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Cheque clearing | [Discontinued, phase-out under way](https://itweb.africa/article/the-rise-of-cheques-as-kenyas-preferred-payment-method/wbrpOqg2aBXMDLZn) | Acceptance to stop from June 2026 |
-| National Financial Switch | [Implemented](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8) | Cost-reduction objective stated on record as not yet delivered |
-| ZamPay and the Government Electronic Payment Gateway | [Implemented](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Cumulative collections put at over K8.8 billion |
-| Central bank national payment system statistics | ***Not held*** | — |
+Mobile money reached [76.1 percent of adults in the Bank of Zambia's FinScope 2025 survey, up from 58.4 percent in 2020](https://www.boz.zm/sites/default/files/2026-04/Zambia%20Finscope%202025%20survey%20topline%20findings.pdf) — a [payments rail running well ahead of the foundational identity system meant to underpin it](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8) (2025).
 
-### Registries (population, land, address, etc.)
+Retail money moves over the National Financial Switch, [operated by the Zambia Electronic Clearing House under central bank oversight and live nationally for instant payments between banks, non-bank financial institutions and payment service providers](https://africanenda.org/wp-content/uploads/SIIPS2023_CaseStudy_Zambia.pdf) (2023), with [MTN Mobile Money, Airtel Money and Zamtel Kwacha integrated as members](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_Zambia.pdf) for person-to-person transfer. The switch now also carries [wallet-to-bank, bank-to-wallet and merchant payments, with an industry QR project under way](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8) (July 2026). High-value settlement runs through the interbank system, where the [Bank of Zambia is both system operator and technical operator](https://www.boz.zm/ZIPSSRules2024.pdf), and [cheques are being phased out](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8) (July 2026).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Civil registration of births and deaths | [Implemented](https://www.biometricupdate.com/202506/zambia-says-using-multiple-strategies-to-meet-50-percent-birth-registration-goal-by-2026) | Three-pillar strategy stated at the 8th Africa civil registration day |
-| National Carbon Registry | [Implemented](https://www.lusakatimes.com/2026/08/08/govt-launches-national-carbon-registry/) | Launched 2026-08-08 |
-| National Spatial Data Infrastructure Policy and Portal | [Implemented](https://itweb.africa/article/zambias-govt-leans-towards-open-source/KjlyrvwBpprqk6am) | Policy and portal launched in Lusaka |
-| Zambia Integrated Land Administration System | [Implemented](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/MINISTERIAL%20STATEMENT%20-%20Ministry%20of%20Lands.pdf) | Went live 2023-05-17 after data migration from the predecessor system |
-| Company and business register | ***Not held*** | — |
-| Land parcels or titles held in the land administration system | ***Not held*** | — |
+Governance of the switch seats the central bank and the commercial banks: [non-bank payment providers have no seat on the clearing house board and put their views through an association instead](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_Zambia.pdf) (2023). Across borders the country is connected at wholesale level only, through [the SADC and COMESA regional settlement systems, with no instant retail link out of the national scheme](https://africanenda.org/wp-content/uploads/SIIPS2023_CaseStudy_Zambia.pdf) (2023). Payments to the state run through the interbank system, whose [2024 rules provide for the central bank to process Revenue Authority transactions and point to integration with the financial management system and the treasury single account](https://www.boz.zm/ZIPSSRules2024.pdf), and that [account is in use across ministries, departments and agencies, settling over both gross-settlement and fast payment rails](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+Identity has not been the binding constraint on access: the [refugee certificate has counted as valid know-your-customer documentation for mobile money and SIM registration since 2017](https://data.unhcr.org/en/documents/download/71306), which is how refugees in the settlements receive digital payments. Banking is the weaker channel — [access to banking services scores 35.9 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), and still ranks 11th of 54 African states (2023).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Constituency Development Fund management information system | [In development](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) | Data entry under way across councils, full operationalisation stated for June 2026 |
-| SmartCare 2.0 Hospital Edition | [Piloting](https://techafricanews.com/2026/04/28/zambia-targets-nationwide-health-connectivity-as-smartcare-2-0-pilot-goes-live-in-ndola/) | Pilot launched at Ndola Teaching Hospital |
-| SmartCare Pro national electronic health record | [Implemented](https://smartcarezambia.io/wp-content/uploads/2025/03/Smart-CarePro-Program-Managers-Presentation-final_kpp_mkm_2.pdf) | Deployment reported at about 80% of health facilities |
-| Education management information system | ***Not held*** | — |
+### Registries
+<!-- dpi.registry -->
+
+Birth registration stood at about [14 percent](https://www.biometricupdate.com/202506/zambia-says-using-multiple-strategies-to-meet-50-percent-birth-registration-goal-by-2026) (2024), one of the lowest rates in Africa, against a government goal of half by 2026, while the registration department has [digitised close to 81 percent of the legacy civil registration records](https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration) (2024) — the paper backlog is being cleared faster than new events are captured. Civil registration is also the [seventh most deteriorated indicator in Zambia's Ibrahim Index profile, down 12.5 points over 2014-2023 to 62.5 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) (2023).
+
+Land carries the largest hole. Of an estimated [1.2 million numbered properties, fewer than 450,000 hold registered title deeds](https://www.pdu.gov.zm/blog/fixing-land-records-is-central-to-zambias-development-agenda) (January 2026), a denominator that leaves out customary land entirely, and there is [no independently maintained cadastre — the spatial data infrastructure's cadastral layer is a subset of the land platform, and councils keep their own outdated, largely paper valuation rolls](https://www.theigc.org/sites/default/files/2024-08/Kaputula%20and%20Oliveira-Cunha%20Policy%20brief%20May%202024_1.pdf) (2024). The land platform itself is [fully digital, handling title deed processing nationwide](https://www.szi.gov.zm/?p=3792) (2024).
+
+The business register is the most complete of them: [online incorporation and a public company search](https://search.pacra.org.zm), [9,163 new companies registered between January and May 2026](https://www.lusakatimes.com/2026/07/03/pacra-registers-9163-companies-between-january-and-may-2026/), and a [taxpayer identification number generated automatically once registration completes](https://www.zra.org.zm/business-registration-requirements/) for companies formed since 2020, with the taxpayer register running on [TaxOnline for registration, filing and payment nationwide](https://www.zra.org.zm). The electoral roll is digital and [inspectable by USSD and online](https://www.elections.org.zm/?p=5511), and [8.79 million voters were certified for the August 2026 elections](https://www.zambiamonitor.com/lead-edited-headline-zambia-certifies-8-79-million-voters-for-august-2026-general-elections-women-account-for-53-1-augustine-lusaka-the-electoral-commission-of-zambia-ecz-has-announced/), 53.1 percent of them women — but the roll is [built on possession of the paper registration card and searched by its number](https://www.elections.org.zm/?page_id=1692).
+
+Social protection has an operational system [integrated in real time with a payment gateway connecting nine providers and banks](https://spdci.org/events/dialogue-series-session-7-zambia/) (2023), and beneficiaries are [checked against their registration card at the point of payment, which the system uses to find duplicate records across districts](https://openknowledge.worldbank.org/bitstreams/4762c2c6-b2ce-5c58-b3ba-904df40b5dd3/download) (2025); a unified [National Social Registry was approved by Cabinet in April 2025](https://thezambian.com/2025/04/26/cabinet-nods-creation-of-national-social-registry/) and is still in early implementation. What joins none of these together is an address: [there is no national address register, the addressing project is still piloting street naming, no addressing policy has been approved and councils keep disjointed records](https://unstats.un.org/unsd/ungegn/sessions/3rd_session_2023/documents/GEGN.2_2023_141_CRP141.pdf) (2023).
+
+### Sectoral management information systems
+<!-- dpi.mis -->
+
+Health runs the widest sectoral deployment in Zambian government, and it stops where the power and the connection stop: SmartCare reaches around [1,800 of roughly 3,540 health facilities](https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf), concentrated where solar power and internet have been secured, with its current version at 400 facilities in August 2024 (2025). Rural clinics still [record patients on paper registers and tally sheets, with aggregated totals entered into DHIS2 at district level](https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf) (2025), so for those facilities the national system holds counts rather than patient records. Education is thinner: the national [education management information system still depends chiefly on periodic school census returns](https://docs.dhis2.org/en/topics/user-stories/zambia-education-management-system-emis.html), with monthly digital reporting demonstrated in a single district (2025).
+
+<!-- derived -->
+All ten core back-office systems the GovTech Maturity Index tracks are in place, nine of them in use — financial management, the treasury single account, tax, customs, human resources, payroll, social insurance, electronic procurement and public debt — with public investment management still being implemented (2025). Of the eight whose software type is recorded, six are commercial off-the-shelf products; only the tax system and the public investment system are custom-built.
+
+The financial management system is [extensively used at central government level, covering treasury execution and budget preparation, and exchanges data with other systems through dedicated interfaces and the service bus](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025) — central government only, which leaves councils off it. Customs is connected the same two ways, and the civil service runs [off-the-shelf human resource and payroll systems, with most HR services online or digitised](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The Revenue Authority's [Smart Invoice electronic invoicing interfaces with the road transport agency, the company register and the business identification system](https://ictaz.org.zm/wp-content/uploads/2025/05/ZRA-Smart-Invoice.pdf) (2025), and the health record system now [accepts a fingerprint checked against the national identity system in place of a physical card, though not everywhere and not as a requirement](https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration/) (2026).
 
 ### Other GovTech and e-Gov
+<!-- dpi.govtech -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Cabinet directive on open-source technology | [Implemented](https://itweb.africa/article/zambias-govt-leans-towards-open-source/KjlyrvwBpprqk6am) | Directive issued to ministries alongside the spatial data infrastructure launch |
-| Contract Tracking and Management Information System | [Implemented](https://diggers.news/local/2026/07/12/govt-launches-digital-system-to-track-and-manage-contracts/) | Launched with the Ministry of Justice |
-| Digital loan system for civil servants | [In development](https://techafricanews.com/2026/08/07/smart-zambia-and-amiz-explore-digital-loan-system-for-civil-servants/) | Briefed to the microfinance association 2026-08-05 |
-| Electronic Government (Amendment) Bill | [In development](https://itweb.africa/article/zambia-begins-amending-electronic-government-act/) | Presented at a state ICT institute stakeholder meeting |
-| Online Passport Application and Payment System | [Implemented](https://itweb.africa/article/zambia-unveils-online-passport-application-system/) | Launched, with over 1,000 passports processed online at launch |
-| Property Management Information System | [Implemented](https://techafricanews.com/2026/05/13/zambia-launches-digital-property-management-system-to-improve-public-service-delivery/) | Launched by the infrastructure ministry with the state ICT institute |
-| SMART Office Management System | [Piloting](https://techafricanews.com/2025/06/23/zambia-advances-public-sector-digitisation-with-smart-office-system-rollout/) | Demonstrated at health ministry headquarters, Luapula selected as pilot province |
-| ZamPortal | [Implemented](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Over 400 services onboarded across the payment and service ecosystem |
+More than [400 government services — passports, government rent and road tax among them — are onboarded to the state's electronic payment gateway and payable by bank transfer, card, mobile money or cash](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2) (July 2026). Sign-in runs through [ZamPass, the central authentication gateway, which takes a nine-digit registration card or passport number with a password, hardware key or passkey](https://pass.gsb.gov.zm/) (2026), and the national service portal is rated at [transactional maturity, meaning services can be completed through it rather than only read about](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-### Rural digital data capture
+The past two years have added particular transactions rather than a general capability. Road transport services — driving licences, road tax, vehicle registration — have been [live on the service bus and ZamPortal since at least September 2024](https://www.szi.gov.zm/?p=3855). The Ministry of Labour had [29 services on ZamPortal by April 2025](https://www.mlss.gov.zm/?p=5144), its own rollout widening from 54 districts to 116. An [online passport application and payment system opened in January 2026, with more than a thousand passports processed at that point](https://itweb.africa/article/zambia-unveils-online-passport-application-system/); a [property management system for rentals, valuation and housing services followed in May 2026](https://techafricanews.com/2026/05/13/zambia-launches-digital-property-management-system-to-improve-public-service-delivery/), built by a local firm and wired to ZamPortal and ZamPay; and a [contract tracking system for government contract approvals launched in July 2026](https://diggers.news/local/2026/07/12/govt-launches-digital-system-to-track-and-manage-contracts/). Local government arrived last, Lusaka becoming the [first of 116 councils live on ZamPortal in May 2026](https://diggers.news/local/2026/05/29/councils-to-go-digital-as-lcc-becomes-first-on-zamportal/). Businesses can [register, file and pay tax through an online portal](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and government buys through an [electronic procurement system covering online tendering and contract management](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Satellite terminals in rural public facilities | [Implemented](https://techafricanews.com/2025/09/29/smart-zambia-brings-starlink-internet-to-remote-moomba-chiefdom/) | Kits installed in Moomba Chiefdom, Kazungula district |
+<!-- derived -->
+Five of the seven citizen-facing channels the GovTech Maturity Index tracks are running — the national service portal, the tax portal, the social protection portal, the e-participation platform and the feedback and grievance platform. Two are absent: a government jobs portal and an open data portal (2025).
 
-### Digitalisation of sub-national government
+Zambia ranked [130th of 193 states on the UN e-government index in 2024, scoring 0.5424, with online services the weaker half of that score at 0.4858](https://www.wearetech.africa/fr/fils/actualites/telecom/connectivite-gouvernementale-la-zambie-lance-un-reseau-4g-prive).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| e-Council platform | [Implemented, eight of 116 councils](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) | Eight local authorities onboarded from June 2026 |
-| Local authorities on the national portal | [Implemented, one of 116 confirmed](https://diggers.news/local/2026/05/29/councils-to-go-digital-as-lcc-becomes-first-on-zamportal/) | Lusaka City Council went live as the first of 116 local authorities |
-| Whether the seven pilot councils went live on the national portal by 2026-06-30 | ***Not held*** | — |
-
-### National statistics
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Regulator annual or quarterly market performance report after 2022 | ***Not held*** | — |
-| Statistics agency release programme | ***Not held*** | — |
-
-### Use of satellite data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Satellite and AI farm traceability platform | [Implemented](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/) | Founder account of the platform in use; company founded 2022 |
-| A national earth-observation or satellite-data programme | ***Not held*** | — |
-
-<!-- narrative: dpi -->
-Over 400 services are onboarded and more than K8.8 billion collected cumulatively across the government's payment and service platforms ([Accountant General's office](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)); eight of 116 local authorities went live in June 2026 and returned about K21.7 million in their first month ([collection figures](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/)).
-
-Three enrolment figures on the base do not reconcile — 1.5 million in September 2024, about 1.3 million in December 2025, and about 1.5 million of about 20 million in July 2026 — with no revision reported by any party ([ministry account](https://znbc.co.zm/?p=10211)). The paper registration card, covering some 94% of adults in 2021, remains the operative credential, and card issuance was deferred until after the August 2026 election against a funded target of 4 million by October 2030 ([appraisal document](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt)).
-
-Birth registration stood at 14% in 2024, with 6% of children holding a certificate, against a target of 50% by end-2026 with no measured mid-point.
-
-The exchange layer named at appraisal has not appeared, and no source reports it in operation ([appraisal document](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt)). Exchange runs through the government service bus instead, and the national electronic health record is deployed in approximately 80% of health facilities ([institute account](https://techafricanews.com/2026/07/08/smart-zambia-expands-digital-infrastructure-to-reach-every-corner-of-the-country/)).
-
-A [National Carbon Registry](https://www.lusakatimes.com/2026/08/08/govt-launches-national-carbon-registry/) was launched on 8 August 2026 as the compulsory route for carbon-credit transactions, administered by the Zambia Environmental Management Agency and reporting into the National Integrated MRV System and the UNFCCC Centralised Accounting and Reporting Platform; no operating rules or access terms are published.
-<!-- /narrative -->
-
-## Governance and regulation
+## Governance
 
 ### Legislation and regulation
+<!-- gov.legislate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Cyber Security Act No. 3 of 2025, statutory text | [Implemented](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf) | Gazetted text acquired 2026-08-09; commenced 12 May 2025 by Statutory Instrument 22 of 2025 |
-| ICT (Universal Access) Regulations, 2012 | [Implemented](https://database.cyberpolicyportal.org/api/files/16793062762166qwz19vmif6.pdf) | Gazetted 15 June 2012 |
-| Mobile money levy | [Implemented](https://www.gsma.com/mobilefordevelopment/) | Rate doubled during 2025 |
-| Postal and Courier Services Bill 2026 | [In development](https://techafricanews.com/2026/07/23/zambia-moves-to-modernize-postal-and-courier-sector-with-new-bill/) | Public written submissions closed 2026-07-27 |
-| Startup Bill | [Planned](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) | Named by a Ministry of Technology and Science representative |
-| Access to information law | ***Not held*** | — |
-| Enforcement outturn under the Cyber Crimes Act No. 4 of 2025 | ***Not held*** | — |
+Enforcement of the Cyber Crimes Act commenced in July 2026, [the Ministry of Information and Media saying the Act "applies equally to every individual without exception"](https://techafricanews.com/2026/07/22/zambia-reinforces-cybersecurity-and-privacy-through-cyber-crimes-act/), with [public servants singled out for a duty to protect confidential information held in the course of their duties](https://techafricanews.com/2026/07/22/zambia-reinforces-cybersecurity-and-privacy-through-cyber-crimes-act/).
+
+The 2025 legislation is a pair of separate instruments that are routinely conflated: [the Cyber Security Act No. 3 of 2025](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf), which builds the interception and agency architecture, and [the Cyber Crimes Act No. 4 of 2025](https://www.parliament.gov.zm/sites/default/files/documents/acts/Acts%20No.%204%20of%202025%2C%20The%20Cyber%20Crimes.pdf), which carries the offences, both gazetted on 15 April 2025.
+
+Underneath them sits a stack assembled in 2021. [The Data Protection Act No. 3 of 2021](https://media.zambialii.org/media/legislation/20776/source_file/39bf6107e2fb14d7/2021-3.pdf) regulates the collection, use, transmission and storage of personal data and establishes the Data Protection Commissioner; [the Electronic Government Act No. 41 of 2021](https://www.szi.gov.zm/wp-content/uploads/2022/02/Act-No.-41-OF-2021-THE-ELECTRONIC-GOVERNMENT-ACT-2021_0.pdf) mandates the digitalisation of public services and establishes the Electronic Government Division; electronic signatures and electronic transactions sit under [an Electronic Communications and Transactions Act first enacted in 2009](https://www.szi.gov.zm/wp-content/uploads/2022/02/ECT-Act-2009.pdf). The World Bank's GovTech Maturity Index also [records a right to information law in force and rates it effective (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+
+The holes are in the newer areas. [There is no dedicated digital identity law, digital ID being governed instead by the National Registration Act, the Electronic Government Act and the Data Protection Act](https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration). [The government began amending the e-government law in January 2026, through a Bill giving legal standing to electronic submissions and digital authentication so services can run end to end digitally](https://itweb.africa/article/zambia-begins-amending-electronic-government-act/). Nothing governs artificial intelligence: [the Ministry of Technology and Science names a Startup Bill alongside the forthcoming AI strategy, neither with published text (July 2026)](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/).
+
+The 2025 Acts are contested. [The Law Association of Zambia said in April 2025 it would mount a legal challenge to them](https://www.lusakatimes.com/2025/04/22/laz-set-to-mount-legal-challenge-against-cyber-laws-warns-of-democratic-backslide/), and [an opposition running mate campaigned in July 2026 on repealing both](https://diggers.news/local/2026/07/04/well-repeal-cyber-law-makebi/). Where civil society has reached for statute over an alleged election-period messaging campaign, it has reached wider than data protection, citing [section 83 of the Electoral Process Act No. 35 of 2016 and the Anti-Corruption Act 2012](https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/).
 
 ### Strategies, plans and policies
+<!-- gov.policy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Civil registration modernisation programme | [In development](https://www.biometricupdate.com/202508/zambia-sees-civil-registration-as-bedrock-of-inclusive-digital-transformation) | Africa civil registration day launched on three stated pillars |
-| COMESA Regional AI Strategy | [In development](https://techafricanews.com/2026/07/14/zambia-and-comesa-launch-ai-initiative-to-advance-regional-digital-transformation/) | Sensitisation workshop launched in Lusaka |
-| National AI Strategy | [In development](https://diggers.news/opinion/2025/07/01/regulating-ai-why-and-why-not/) | Technology ministry permanent secretary says the strategy is nearing the end of its implementation cycle and will be reviewed |
-| National AI Strategy text | ***Not held*** | — |
+Public administration is one of only three of the sixteen sub-categories in which Zambia went backwards over 2014-2023 in the [2024 Ibrahim Index of African Governance, edging down 0.2 points to 58.4 out of 100 and 19th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) — the part of the state that has to deliver the digital plans. Within it, [budgetary and financial management is the fifth most deteriorated indicator of all, down 18.1 points to 56.9 out of 100 and 24th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), and [administrative capacity pulls apart: effective administration up 3.6 points to 55.4 while tax and revenue mobilisation fell 8.3 points to 41.5, 31st of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). This sits inside a rising overall picture — [56.6 out of 100 for overall governance, 17th of 54 and 7.3 points above the African average of 49.3](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), with Zambia [above the continental average on 72 of the index's 96 indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf).
+
+The paper commitments are unusually complete. [The National ICT Policy 2023, published with an implementation plan by the Ministry of Technology and Science, is the overarching instrument, covering broadband, cybersecurity, data centres, digital identification, digital payments, e-waste, spectrum, quality of service and universal access](https://www.mots.gov.zm/wp-content/uploads/2023/10/National-ICT-Policy-2023-Implimentation-Plan.pdf). Alongside it the ministry carries [a National Digital Transformation Strategy spanning broadband, data protection, digital payments and the first, second and last mile of connectivity](https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf), while [SMART Zambia Institute's National e-Government Plan 2023-2026, issued under the Electronic Government Act, carries a dedicated thematic area on standards and compliance with phased milestones](https://www.szi.gov.zm/wp-content/uploads/2023/08/Final-National_e-Government_Plan_-2023-Final-17.08.2023.pdf).
+
+Delivery ownership is settled at the top and thin below it. The GovTech Maturity Index records [a dedicated digital government institution established, with machinery for coordinating government technology across ministries in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [a current digital transformation strategy in force with supporting institutional measures, a second instrument in the same family still only planned or in draft (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The same index finds [no data governance body and no data governance strategy for government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The National AI Strategy remains unpublished, with stakeholder contributions still being invited (July 2026)](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/), and [SMART Zambia is publicly asking for private investment to fund digital infrastructure toward a digitally inclusive middle-income country by 2030 (March 2026)](https://www.zanis.gov.zm/?p=3243).
 
 ### Regional collaboration
+<!-- gov.regional -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Kwacha onboarding to the regional real-time gross settlement system | [Planned](https://www.centralbanking.com/central-banks/currency/7976492/southern-african-countries-consider-joining-sadc-rtgs) | Attributed to a regional central bank spokesperson |
-| Zambian Secretary-General of the African Telecommunications Union | [Planned, term begins 2027-01-01](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Elected on the fourth round with 21 of 34 votes, Abuja |
-| Ratification of the AU Malabo Convention | ***Not held*** | — |
+[Lusaka hosted a COMESA and World Bank regional AI workshop in July 2026, launched as a first step toward a COMESA Regional AI Strategy framed against policy fragmentation across the bloc](https://techafricanews.com/2026/07/14/zambia-and-comesa-launch-ai-initiative-to-advance-regional-digital-transformation/) — Zambia helping shape the regional framework while its own national strategy is still unpublished.
+
+On identity the reach is real but provisional. [Zambia is piloting cross-border mutual recognition of national IDs and ID verification with COMESA and neighbouring IDEA countries including Angola, the DRC and Malawi, and formal cross-border interoperability of the digital ID is not yet implemented (2025)](https://documents1.worldbank.org/curated/en/099012025023033676/pdf/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.pdf). The cooperation it has reached for is African rather than vendor-led: [an identity memorandum of understanding with Ethiopia, drawing on the Fayda system, chosen because it is domestically developed](https://www.biometricupdate.com/202510/zambia-plans-domestic-digital-id-development-with-help-from-international-partners).
+
+Payments cross the border only at wholesale level. [Zambia's cross-border payment connections run through the regional wholesale rails SADC-RTGS and the COMESA Regional Payment and Settlement System, with no instant retail cross-border link from the national instant payment system](https://africanenda.org/wp-content/uploads/SIIPS2023_CaseStudy_Zambia.pdf).
+
+The wider integration measure is drifting the wrong way. [Zambia, landlocked and a member of both COMESA and SADC, scores 47.8 out of 100 on the Ibrahim Index's regional integration measure, 26th of 54 and down 1.6 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf); that measure covers trade, movement and infrastructure integration, and carries no digital or data-flow component of its own.
 
 ### Standards
+<!-- gov.standards -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Ministry of Health ICT Standards and Guidelines | [Implemented](https://dspace.unza.zm/server/api/core/bitstreams/d584c52e-dcba-4dec-bd58-910fe11976cb/content) | Issued January 2014 |
-| National data-sharing, interoperability or data-classification standard | ***Not held*** | — |
+[Zambian officials pursuing the e-government law amendment name fragmented, vendor-locked systems as a governance, policy and legal alignment problem rather than a technical one (January 2026)](https://itweb.africa/article/zambia-begins-amending-electronic-government-act/) — a diagnosis reached with mandatory standards already on the books. [SMART Zambia Institute's Public Service ICT Data Interoperability Standards are mandatory for all ministries, provinces and spending agencies and carry an annual compliance audit schedule](https://www.szi.gov.zm/wp-content/uploads/2024/03/Public-Service-ICT-Std_Data-Interoperability-2023.pdf), and together with [the Electronic Government Act they set the data management and governance requirements for government data](https://www.szi.gov.zm/wp-content/uploads/2024/03/Public-Service-ICT-Std_Data-Interoperability-2023.pdf).
+
+The instruments beneath them are in place. The GovTech Maturity Index records [a government interoperability framework and a data-exchange platform extensively used across government (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) and [an electronic government procurement system in use for online tendering and contract management](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). In payments the rules are published rather than internal: [the Bank of Zambia is both system and technical operator of the interbank payment and settlement system under the publicly issued ZIPSS Rules 2024](https://www.boz.zm/ZIPSSRules2024.pdf).
+
+The identity programme is the clearest case of standards chosen deliberately. [It is designed as a homegrown system built on open standards and existing investments, explicitly so that government can manage its infrastructure independently and reduce reliance on external vendors, with privacy, security and interoperability as stated priorities](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349), and [SMART Zambia is procuring an international system integrator for a MOSIP-based register while insisting the application layer be built by Zambians on open standards to avoid vendor lock-in (March 2026)](https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project).
+
+Service standards in telecoms are enforced by announcement rather than instrument. [ZICTA said in February 2026 it would take visible action against mobile network operators over poor quality of service](https://diggers.news/local/2026/02/17/well-take-visible-action-against-mobile-operators-over-poor-network-zicta/), and [quarterly network-performance reports were announced in May 2026 as the accountability measure on operator quality](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/).
 
 ### Data protection
+<!-- gov.protect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Data Protection Act 2021 | [Implemented](https://documents1.worldbank.org/curated/en/099090924120535793/txt/BOSIB12c22668f0f51a0d117949b7b8fe34.txt) | Named as part of the operative framework in the enforcement statement |
-| Office of the Data Protection Commissioner | [Implemented](https://bloggersofzambia.org/6th-state-of-digital-rights-report/) | Asked by nine civil society organisations to examine a beneficiary contact list, 2026-07-31 |
-| Transfer of the refugee registration database to the home affairs ministry | [Planned](https://documents1.worldbank.org/curated/en/099090924120535793/txt/BOSIB12c22668f0f51a0d117949b7b8fe34.txt) | Grant effective 2024-12-23; provided for as a project subcomponent |
-| Cabinet decision to repeal and replace the Data Protection Act 2021 | ***Not held*** | — |
-| Data Protection Act statutory instruments and regulations | ***Not held*** | — |
-| Data protection regulator enforcement record | ***Not held*** | — |
+[Zambia's Cyber Security Act No. 3 of 2025 obliges every service provider to keep an interception capability and to store call-related information and internet connection records, with the manner of that capability set by presidential statutory instrument](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf). It also [places the Zambia Cyber Security Agency in the Office of the President, under the President's general direction](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf).
+
+Interception itself is court-gated. [A law enforcement officer applies ex parte to a High Court judge for an order effective for three months, renewable once](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf); [the one route without a prior order is an oral request to a provider where a court order would be too slow, with the officer before a judge within two days](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf). [The class of officials who may seek interception — police, anti-corruption, drug enforcement, intelligence and counter-terrorism — can be extended by presidential statutory instrument](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf).
+
+[The Data Protection Act No. 3 of 2021 governs the collection, use, transmission and storage of personal data and establishes the Data Protection Commissioner](https://media.zambialii.org/media/legislation/20776/source_file/39bf6107e2fb14d7/2021-3.pdf), and [obliges a controller to notify the Commissioner within twenty-four hours of a breach and affected data subjects as soon as practicable](https://media.zambialii.org/media/legislation/20776/source_file/39bf6107e2fb14d7/2021-3.pdf). [The Office of the Data Protection Commissioner was declared fully operational in April 2025, with a registration deadline of 30 April for controllers and processors and statutory penalties for non-compliance](https://www.itnewsafrica.com/2025/04/zambias-data-protection-commissioner-fully-operational-enforcing-privacy-compliance/), and [now takes part in the digital identity programme (May 2026)](https://techafricanews.com/2026/05/18/zambia-advances-digital-identity-agenda-through-multi-sectoral-engagement/). The GovTech Maturity Index rates the law effective and the authority as in place, while finding that [neither publishes anything about its work (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+
+That silence is being tested: [civil-society organisations asked the Commissioner in July 2026 to examine the source of the contact list behind an alleged bulk-SMS campaign to social cash transfer beneficiaries, and ZICTA to trace the messaging channel](https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/). For the refugee register transfer, [the safeguard offered is procedural: departmental operating procedures are to be aligned with the Act](https://documents1.worldbank.org/curated/en/099121924211538677/pdf/P5039411b2fdc103f1ad10144419f4a87d5.pdf).
+
+[Digital freedom is Zambia's ninth most improved Ibrahim Index indicator, up 19.7 points over 2014-2023 to 76.4 out of 100 and 14th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) — a measure of online censorship, interference with online content and users' rights, whose 2023 data year precedes the 2025 Acts.
 
 ### Public debate and participation in policymaking
+<!-- gov.discourse -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Public consultation on the Postal Services Act review | [Discontinued](https://cajnewsafrica.com/2026/07/24/zambia-expedites-modernisation-of-postal-courier-legislation/) | Submissions closed one working day after the consultations ended |
-| ZICTA consent judgment on internet access interruption | [Implemented](https://www.accessnow.org/press-release/keepiton-zambia-internet-access-upcoming-elections/) | Entered after the August 2021 election-period blocking; reason for any interruption due within 36 hours |
-| Parliamentary and public contestation of Zambia's data governance | ***Not held*** | — |
+[Deliberative and participatory governance is Zambia's fifth most improved Ibrahim Index indicator, up 32.7 points over 2014-2023 to 79.1 out of 100 and 3rd of 54; the measure assesses whether government consults affected groups and the public before deciding](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). [Civil society space is the third most improved, up 34.0 points to 76.8 and 11th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). The expression measures did not move with them: [media freedom stands at 56.7 out of 100, 22nd of 54 and up 1.3 points over the decade, and freedom of expression and belief at 71.6, 18th of 54 and down 1.1 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). All are expert-coded assessments with a 2023 data year, which precedes the 2025 cyber laws.
 
-### EU activities
+The channels exist and are partial. Zambia has [a central citizen feedback and grievance-redress platform for public services, with five of the six mechanisms the GovTech Maturity Index tracks in place (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [a government e-participation platform that also carries citizens' petitions, though three of the five further participation mechanisms the index tracks are absent](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Getting at the record is harder than being heard: a [right to information law is in force and rated effective](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), while [the disclosure and accessibility of public records are the weakest part of Zambia's Ibrahim Index accountability score and both fell over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| EU-Zambia digital cooperation | ***Not held*** | — |
-| Legal basis for personal-data transfers between Zambia and the EU | ***Not held*** | — |
+The election has narrowed the register of the debate. [The Human Rights Commission raised the alarm over hate speech and online abuse ahead of the August 2026 vote, asking citizens to verify information before sharing it and political leaders to drop inflammatory language and unverified allegations](https://www.lusakatimes.com/2026/08/01/human-rights-commission-raises-alarm-over-hate-speech-online-abuse-as-election-nears/), and [several parties signed a peace pledge with the Electoral Commission and church mother bodies committing them to reject violence, intimidation and hate speech through the campaign, the poll and its aftermath](https://www.lusakatimes.com/2026/08/01/human-rights-commission-raises-alarm-over-hate-speech-online-abuse-as-election-nears/). [The Zambia Cyber Security Agency spent July 2026 urging journalists to learn the cybersecurity laws before the election, presenting the legislation as protection for media houses against ransomware and disruption](https://www.lusakatimes.com/2026/07/15/journalists-urged-to-learn-cybersecurity-laws/), and [MISA Zambia launched its 2025 Digital Rights Report on 30 July 2026](https://youthvillagezm.com/2026/07/zambia-reaffirms-commitment-to-digital-rights-as-technology-drives-national-development/).
 
-### Open data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| 2026 Abuja Declaration on Meaningful Connectivity | [Implemented](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Adopted at the continental telecommunications plenipotentiary conference |
-| National open data portal and open data policy | ***Not held*** | — |
-
-<!-- narrative: governance -->
-Both 2025 cyber statutes are now held as gazetted and both are court-gated. The Cyber Crimes Act No. 4 of 2025 makes its investigatory powers subject to a court order, and the companion Cyber Security Act No. 3 of 2025, acquired on 2026-08-09, requires a law enforcement officer to apply ex parte to a judge of the High Court for an interception of communication order under section 29, valid three months and renewable once; interception without a prior order is confined by section 30 to preventing bodily harm, loss of life or damage to property, and the officer must place the written confirmation, an affidavit, the recording and a transcript before a judge within two days. The blanket interception mandate a United States embassy alert attributes to the regime is not a provision of either Act. Section 3(1) does establish the Zambia Cyber Security Agency in the Office of the President, under the President's general direction, and “law enforcement officer” extends to any person the President designates by statutory instrument.
-
-Enforcement of the Cyber Crimes Act was declared fully operational on 18 July 2026, twenty-six days before the general election of 13 August, with compliance obligations extended to financial institutions, telecommunications operators, digital platforms, mobile money providers and e-commerce businesses ([enforcement account](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/)). No prosecution, charge or conviction count is published. The Law Association was reported in April 2025 as set to mount a legal challenge; no filing, hearing or ruling appears anywhere in the base in the sixteen months since.
-
-The Office of the Data Protection Commissioner became operational with a controller registration deadline of 30 April 2025, and the base holds no registration count, enforcement decision, fine, breach notification or annual report for it at any date. On 31 July 2026 nine civil society organisations asked the Office to examine the source of the contact list behind SMS messages sent to Social Cash Transfer beneficiaries before the 13 August election ([civil society statement](https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/)); no response is on the record. Monitoring current to late 2025 records Cabinet planning to repeal the 2021 Data Protection Act; nothing has followed.
-
-Research mapping records mass surveillance in Zambia despite no terrorism threat and documents it repurposed against political opposition, while no authorising instrument, oversight body, camera count or retention rule is held ([research mapping](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/)).
-
-A consent judgment entered after the August 2021 platform blocking binds the regulator not to interrupt access outside its authority and to state the reason for any interruption within 36 hours; the technology ministry has committed not to shut down the internet at the August 2026 election ([coalition letter](https://www.accessnow.org/press-release/keepiton-zambia-internet-access-upcoming-elections/)).
-
-Zambia's universal-access levy has a statutory basis on file for the first time. Statutory Instrument No. 38 of 2012 caps a licensee's contribution to the Universal Access and Service Fund at not exceeding 1.5% of gross annual turnover, itself capped at 50% of total collectable annual operating fees payable to the regulator, payable annually in advance ([gazetted instrument](https://database.cyberpolicyportal.org/api/files/16793062762166qwz19vmif6.pdf)). No later rate, amendment or the Fund's own balance and disbursement record is held.
-
-A third account of the national AI strategy's stage does not reconcile with the other two. The Ministry of Technology and Science permanent secretary said on 7 August 2026 that the current strategy is nearing the end of its implementation cycle and will be reviewed, naming limited computing infrastructure, data quality and the absence of interoperable standards as adoption barriers ([seminar account](https://efficacynews.africa/2026/08/07/zambia-china-explore-deeper-ai-partnership-to-accelerate-digital-transformation/)). That statement sits against the Presidential Delivery Unit's account a month earlier that the strategy was nearing completion, and against a continental review that already treats a Zambian strategy as an existing text; the base cannot settle which is current.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
-
-### AI
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Cyber security agency artificial-intelligence remit | [Implemented](https://diggers.news/local/2025/04/18/us-warns-its-citizens-over-new-surveillance-law-in-zambia/) | AI-enabled trafficking and online scams placed inside the agency's response |
-| Feature-phone AI voice service | [Implemented](https://techafricanews.com/2026/01/15/leveraging-ai-to-bypass-the-smartphone-barrier-and-advance-digital-inclusion-in-africa/) | Cited as a deployed feature-phone AI voice service |
-| ITU AI for Good Lab | [Planned](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) | Disclosed as an opportunity; no agreement signed |
-| National Assembly artificial-intelligence automation | [In development](https://www.idinsight.org/article/ensuring-responsible-ai-adoption-in-african-parliaments/) | Implementing partner's first-hand account published |
-| Artificial intelligence budget line or implementation costing | ***Not held*** | — |
-| National artificial intelligence compute inventory | ***Not held*** | — |
-| National artificial intelligence institution or agency | ***Not held*** | — |
-
-### ICT Industry
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Dot Com Zambia PLC | [Implemented](https://techafricanews.com/2026/05/14/zambia-seeks-to-accelerate-digital-economy-through-public-private-collaboration/) | Listing on the Lusaka Securities Exchange described as recent |
-| ICT sector contribution to GDP | ***Not held*** | — |
-
-### Innovation ecosystem
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| E-MARK Innovation Hub | [Implemented](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) | Ran the nine-month pipeline that took Team Zambia to the Geneva global finals |
-| Green Giraffe | [Implemented](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/) | Founded 2022; founder interview on the record |
-| Padue | [Implemented](https://www.wearetech.africa/fr/fils/tech-stars/avec-padue-dalitso-mbewe-connecte-les-automobilistes-en-panne-aux-depanneurs) | Founded 2025; profiled 2026-07-21 |
-| Government innovation or venture fund | ***Not held*** | — |
-| Technology hub inventory | ***Not held*** | — |
-| Zambian startup funding totals | ***Not held*** | — |
-
-### US / hyperscaler activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| United States health financing memorandum of understanding | [Planned, not proceeding](https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets) | Reported shelved in May 2026 over data terms and a minerals precondition |
-
-### China activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Zambia-China digital cooperation talks | [Planned](https://itweb.africa/article/zambia-china-deepen-digital-ties/o1Jr5qxPY8gqKdWL) | Seminar on China-Zambia Artificial Intelligence Cooperation reported; no agreement signed |
-
-### India activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Edge data centre plan | [Planned](https://www.datacenterdynamics.com/en/marketwatch/nxtra-airtels-leap-into-africas-growing-data-center-market) | Named among target countries for future edge data centres |
-
-### Gulf/UAE activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Any Gulf-state technology engagement with Zambia | ***Not held*** | — |
-
-<!-- narrative: ai-tech -->
-The head of the Presidential Delivery Unit said on 17 July 2026 that the national AI strategy was nearing completion and invited stakeholder contributions ([statement](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/)), while a continental review published on 1 July 2026 reads Zambia's national AI strategy alongside six others as an existing text. No draft, publication date, budget or institutional architecture is held.
-
-No domestic artificial intelligence institution exists; the only one on offer is an international laboratory disclosed as an opportunity in July 2026, with no signature, funding, siting or timetable. The home affairs permanent secretary said in July 2026 that the cyber security agency's establishment had strengthened the response to online scams and AI-enabled trafficking.
-
-A memorandum signed in June 2026 covers AI infrastructure, sovereign cloud hosting, digital public infrastructure for 25 ministries and a co-invested national data centre, with no value, site, capacity or timetable disclosed ([signing account](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership)). It precedes the strategy that would govern it, and the same vendor built the existing national data centre.
-
-The United States health financing memorandum is not proceeding. The Foreign Minister said in May 2026 that it had stalled over data terms the government considers unacceptable, and it was reported shelved that month after Washington sought signature alongside a critical-minerals pact ([news agency report](https://english.news.cn/20260730/b5516c3a8f034f38aae45823311057c6/c.html)).
-
-29% of sampled Zambian startups have at least one female co-founder, the highest in the sample.
-<!-- /narrative -->
-
-## Inclusion and capacity
+## Inclusion
 
 ### Digital divides
+<!-- include.divides -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Gender gap in internet use or mobile ownership | ***Not held*** | — |
-| Rural-urban internet use split | ***Not held*** | — |
+Zambia added [199,000 internet users in the year to October 2025, a rise of 2.8 percent that left the penetration rate itself unchanged](https://datareportal.com/reports/digital-2026-zambia) — growth that keeps pace with the population rather than closing on it, so the share of the country [outside the internet altogether](https://www.cto.int/member-countries-1/zambia) is where it was a year earlier. The divide is not narrowing; it is being held steady while the population grows.
+
+The sharpest line is rural. The Ibrahim Index scores the rural economy as [the worst-performing and by a wide margin the most deteriorated of the sixteen sub-categories it measures for Zambia over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) — the only one it declines to assign a trend to at all. Underneath that sits the electricity gap: the [2023 National Energy Access Survey](https://www.moe.gov.zm/?p=3813) found rural access running at well under half the urban rate, which sets a ceiling on what any connectivity or device programme can reach. The index's own measure of internet use, computer access and affordability has [improved far more slowly over the decade than its mobile measure](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), which is the difference between a phone signal and a usable connection.
+
+Gender and skill are the other two lines, and both are measured from a long way back. The last gender-disaggregated ICT measurement, taken in 2018, put [women's internet use below men's, while the gap in basic phone ownership has since narrowed to near parity on smartphones](https://paradigmhq.org/wp-content/uploads/2023/06/Zambia-Londa-2022.pdf) — device access and use are separating. The same 2018 survey found [very few people reporting adequate computer skills](https://www.zamstats.gov.zm/wp-content/uploads/2023/12/2018-ICT-Survey-Preliminary-Report.pdf), and it has not been repeated since.
+
+What is missing is the means to see any of this clearly. Zambia's gender, education, health and food-security statistics [score worse for openness in the 2024 Open Data Inventory than its population and price statistics do](https://odin.opendatawatch.com/data) — the categories a targeting programme would need are the ones hardest to obtain.
 
 ### Access to services
+<!-- include.access -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Universal Access and Service Fund | [Implemented](https://techafricanews.com/2025/09/01/zicta-board-committee-reviews-uasf-projects-in-copperbelt-and-northwestern-provinces/) | Board assessment tour of Muchinga, Northern and Luapula projects |
-| Device affordability and data cost as a share of income | ***Not held*** | — |
-| Digital access for persons with disabilities | ***Not held*** | — |
+Access to Public Services for Women is [the lowest-scoring of all 96 indicators the Ibrahim Index measures for Zambia, at 25.2 out of 100 and 40th of 54 African states, despite a rise of 10.3 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). The index's general measure of whether public services reach all social groups and regions alike sits far higher, at [52.1 out of 100 and 16th of 54, up 12.0 points over the same decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). Both assess how access is distributed rather than counting transactions, and the distance between them is the finding.
+
+Payments are the exception. Financial inclusion reached [80.1 percent in 2025, up from 69.4 percent in 2020, on the Bank of Zambia's FinScope survey](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8), carried by mobile money and running well ahead of the [biometric identity enrolment meant to underpin it](https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration). Industry accounts put the barrier that remains down to [product design rather than access — products built around salaried income in an economy where much of the population earns seasonally](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8) (July 2026), though a low-consumption data and voice basket ran at [3.5 percent of GNI per capita in 2022](https://www.digitaldevelopment.org/wp-content/uploads/2023/09/ddd_ZMB-1.pdf).
+
+Where the network fails the service fails with it: poor mobile coverage in four Copperbelt districts was [put to ZICTA in February 2026 as cutting residents off from social cash transfers and farmer input payments](https://diggers.news/local/2026/02/17/well-take-visible-action-against-mobile-operators-over-poor-network-zicta/). The transfer programme [operates in every district](https://www.zambiamonitor.com/social-cash-transfer-programme-reaches-1-56-million-vulnerable-households-zambian-govt-claims/) (February 2026), but its register [reaches only part of the extremely poor population it targets](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/SOCIAL%20CASH%20TRANSFER%20SCHEME-Ms%20Mwamba.pdf) (2022).
+
+Non-citizens are formally provided for, unevenly served. The Bank of Zambia and ZICTA [recognised the Refugee Certificate as valid identification for mobile money and SIM registration in 2017](https://data.unhcr.org/en/documents/download/71306), and the World Bank's refugee project [enrols them into the national citizens' register rather than a parallel one](https://documents1.worldbank.org/curated/en/099090924120535793/txt/BOSIB12c22668f0f51a0d117949b7b8fe34.txt). In practice, urban refugees without a valid refugee document [can be blocked from registering their children's births](https://www.crvslaws.org/zambia/birth-registration/id-related-services) (2025), and civil registration is thin for everyone: [only a minority of districts able to issue birth certificates](https://www.biometricupdate.com/202506/zambia-says-using-multiple-strategies-to-meet-50-percent-birth-registration-goal-by-2026) and [rural registry offices still working on paper](https://www.biometricupdate.com/202508/zambia-sees-civil-registration-as-bedrock-of-inclusive-digital-transformation) — a national service portal that is [transactional rather than informational](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025) sits above a counter much of the country does not have.
+
+## Technology
+
+### AI
+<!-- tech.ai -->
+
+Zambia's own National Artificial Intelligence Strategy describes the country's [AI ecosystem as fragmented, with no centralised platform for AI data aggregation or model deployment, and the government data exchange incorporating no AI or advanced analytics for data quality, fraud detection or prediction](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf) (2024). The same strategy, covering 2024-2026, carries weight well beyond its own subject: policy trackers treat it as [the current instrument for cloud services, broadband and digital payments](https://www.africaainews.com/api/v1/file/4ebfe3b3-52f6-4616-a38f-43db36d6d88e.pdf), there being no dedicated policy for any of the three.
+
+What is actually running is narrow and largely at pilot stage. The social cash transfer payment system, which verifies beneficiaries against their national registration card, [added AI-based card scanning and biometric matching in a 2025 pilot](https://openknowledge.worldbank.org/bitstreams/4762c2c6-b2ce-5c58-b3ba-904df40b5dd3/download). State compute for AI rests on a memorandum of understanding, [signed with Huawei and the SMART Zambia Institute in May 2026 for a national AI data centre](https://techafricanews.com/2026/05/27/zambia-and-huawei-and-smart-zambia-sign-deal-for-national-ai-data-centre/), rather than on anything built. The most concrete recent activity has been convening: Lusaka hosted a [COMESA and World Bank regional AI workshop in July 2026, opened as a first step toward a regional AI strategy](https://techafricanews.com/2026/07/14/zambia-and-comesa-launch-ai-initiative-to-advance-regional-digital-transformation/) framed against policy fragmentation across the bloc.
+
+### ICT Industry
+<!-- tech.industry -->
+
+Government digitisation work sits with [the SMART Zambia Institute's own e-Government Division and with local ICT firms, and public services are being consolidated behind a single ZamPortal and ZamPay front end](https://techafricanews.com/2026/05/13/zambia-launches-digital-property-management-system-to-improve-public-service-delivery/). The domestic sector has a listed tier as well as a contracting one: [Dot Com Zambia, the fintech behind eToll and eLevy, is quoted on the Lusaka Securities Exchange](https://techafricanews.com/2026/05/14/zambia-seeks-to-accelerate-digital-economy-through-public-private-collaboration/) (May 2026).
+
+Government measures supporting technology startups were [recorded as in place in 2025](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The wider regulatory setting is one of Zambia's stronger governance results rather than a technology-specific one: [business and competition regulation scored 81.0 out of 100 on the Ibrahim Index, sixth of 54 countries and up 9.8 points over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf).
+
+### Innovation ecosystem
+<!-- tech.innovate -->
+
+Team Zambia reached [the global finals of the 2026 AI for Good Global Summit and Robotics for Good Youth Challenge in Geneva, among nearly 50 participating countries, and has been invited to the 2027 summit](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) (July 2026). The delegation came out of [a nine-month identification and mentoring cycle run by E-MARK Innovation Hub, a private hub rather than a state programme](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/). On the standard comparative measure the system still sits low, [112th of 139 economies in WIPO's Global Innovation Index 2025](https://www.wipo.int/edocs/gii-ranking/2025/zm.pdf).
+
+The hub layer is small but active, [anchored by BongoHive in Lusaka alongside Ehub Zambia and Jacaranda Hub, all listed in the AfriLabs pan-African directory, with BongoHive running incubation and acceleration programmes including AI-focused cohorts](https://new.afrilabs.com/index.php/hub_country/zambia/) (2025). Inside government there is [a public sector innovation strategy with a programme attached, and an established public sector innovation institution whose focus areas are digital skills and public service innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+
+Capital is the thin part. [Zambia's startup ecosystem was low in both volume and value in 2024](https://www.undp.org/sites/g/files/zskgke326/files/2024-08/meet_the_toshikas_-_startup_ecosystem_map_zambia.pdf), a year in which one Zambian startup raised a US$400,000 pre-seed round. The Ministry of Technology and Science says it will advance the field through [a Startup Bill, which has no published text](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) (July 2026). Firms are building in the meantime, and not always along the lines donors expect: the agritech Green Giraffe [argues that smallholders already know soil, pests and weather and lack price and demand information, and so signs purchase contracts with farmers before planting rather than pushing advisory content afterwards](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/) (July 2026).
+
+## Geopolitics
+
+### US / hyperscaler activities
+<!-- geopol.usa -->
+
+No American-financed digital infrastructure or hyperscaler facility was on Zambia's books as at August 2026, and the most visible US intervention of the past year ran the other way: in April 2025 the US Embassy in Lusaka [issued a security alert to its own citizens](https://diggers.news/local/2025/04/18/us-warns-its-citizens-over-new-surveillance-law-in-zambia/) warning that Zambia's new cyber law required the interception and surveillance of electronic communications in the country. Zambia's Minister of Home Affairs and Internal Security, Jack Mwiimbu, [rejected that reading](https://diggers.news/local/2025/04/18/us-warns-its-citizens-over-new-surveillance-law-in-zambia/), saying the laws are meant to protect citizens.
+
+Where the United States does enter Zambia's own digital plans, it is as a constraint to be cleared rather than a partner supplying anything: the target of a national digital ID by the end of 2026 has been [argued for domestically as a route off a US blacklist](https://diggers.news/local/2025/12/25/zambia-to-have-digital-ids-by-end-of-2026/) (December 2025).
+
+### China activities
+<!-- geopol.china -->
+
+Zambia's [sovereign AI and cloud programme runs through Huawei](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership), the same vendor that built the earlier Zambia National Data Centre (June 2026), so what the sovereignty push localises is where the data sits rather than who builds and runs the platform underneath it.
+
+That programme rests on memoranda rather than contracts. SMART Zambia and Huawei [signed a sovereign AI memorandum at the 2026 Zambia Mobile Congress](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership) covering AI infrastructure, a sovereign cloud, digital public infrastructure for 25 ministries and a co-invested national data centre holding critical data in-country (June 2026), weeks after a [separate memorandum with Huawei for a National AI Data Centre](https://techafricanews.com/2026/05/27/zambia-and-huawei-and-smart-zambia-sign-deal-for-national-ai-data-centre/) (May 2026). Neither has been given a value or a delivery date, and the June memorandum also carries a [training commitment through the Huawei Global Academy](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership).
+
+The built stock behind the memoranda is a decade old. Phase I of the Smart Zambia National ICT Development Project, [financed by a China Eximbank concessional loan against a Huawei contract](http://www.mof.gov.zm/?wpfb_dl=50), delivered the country's three government data centres — the main national centre in Lusaka with backup facilities at Zamtel's Roma and Kitwe switch offices — along with an ICT talent training centre, from 2016. Phase II [financed a Huawei build of communication towers and wireless stations](https://www.lusakatimes.com/2017/06/28/government-gets-280-million-loan-china-bank-finance-communication-towers/) in unserved and underserved areas and was most of the way disbursed by July 2022, while a further Eximbank credit for a [Huawei extension of the ZESCO optical fibre backbone](https://dailyrevelationzambia.com/chitala-says-lungu-told-him-against-proceeding-on-392-million-huawei-deal-as-it-was-more-scandalous-than-the-purchase-of-42-fire-tenders/) had not begun disbursing at that date. Chinese lending also stands behind the [ZTE contract to install CCTV across Lusaka's streets, highways and bus stations](https://www.lusakatimes.com/2015/04/14/government-resurrects-controversial-project-to-install-cctv-cameras-on-lusaka-streets/) for the Ministry of Home Affairs.
+
+<!-- derived -->
+Chinese policy banks are the largest source of external digital finance to Zambia on record (2025), across four commitments and well ahead of the World Bank and every other financier.
+
+### EU activities
+<!-- geopol.eu -->
+
+No European-built digital infrastructure, no European-supplied government platform and no standing EU bilateral digital agreement were on Zambia's record as at August 2026.
+
+### India activities
+<!-- geopol.india -->
+
+India's footprint is advisory and unfinanced. Zambia [signed a memorandum of understanding in 2023 with the Centre for Digital Public Infrastructure at IIIT-Bangalore](https://www.codevelop.fund/insights-1/building-zambias-digital-economy-foundations-through-digital-public-infrastructure-dpi) to support the design of its digital public infrastructure use cases — help with how the systems are shaped, not money, equipment or a stack the government now runs on. No Indian-financed infrastructure, supplied platform or training programme was on Zambia's record as at August 2026.
+
+### Gulf/UAE activities
+<!-- geopol.gulf -->
+
+No Gulf state or Gulf-based operator had built, financed or supplied digital infrastructure in Zambia, and no Gulf bilateral digital agreement was in force, as at August 2026.
+
+## Capacity
 
 ### Literacy
+<!-- capacity.literacy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital Transformation Centres Initiative | [Implemented](https://techafricanews.com/2026/08/05/smart-zambia-and-itu-equip-mpika-youth-resource-centre-to-boost-digital-skills/) | ICT equipment handed to Mpika Youth Resource Centre |
-| National digital literacy rate or programme | ***Not held*** | — |
+Education is [Zambia's second best-scoring sub-category in the Ibrahim Index of African Governance](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), which scores governance performance across 54 African countries: 65.2 out of 100 and 8th of 54, one of only two sub-categories in which Zambia places in Africa's top ten (2023). The movement underneath that ranking runs both ways. The sub-category rose 4.8 points over 2014-2023, and Human Resources in Education, at 88.3 and 19th, is among the country's strongest indicators of any kind; but Education Enrolment fell 8.8 points over the same decade to 60.3 (10th) and Education Quality fell 4.0 points to 51.3 (15th). A country in the continental top ten for education is losing ground on how many children are in school and on what they get once they are there.
+
+Distribution improved faster than either. [Equality in Education](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) — whether educational opportunity is spread evenly across social groups and regions — rose 11.3 points over 2014-2023 to 54.4 out of 100, though that still leaves Zambia 23rd of 54 (2023).
+
+Schooling and the ability to use a digital system are different questions, and the second is answered far less favourably. [Zambia's 2018 national ICT survey](https://www.zamstats.gov.zm/wp-content/uploads/2023/12/2018-ICT-Survey-Preliminary-Report.pdf) found 6.8% of individuals reporting adequate computer skills, and the [2022 census](https://www.zamstats.gov.zm/wp-content/uploads/2025/08/2022-Census-National-Analytical-Report.pdf) recorded internet use at 15% of the population aged five and above. Provision is still being extended to places that have none: ZICTA's Universal Access and Service Fund [reached Muchinga, Northern and Luapula provinces in 2026](https://techafricanews.com/2026/06/17/zicta-assesses-uasf-ict-projects-to-expand-digital-inclusion-across-rural-zambia/), including ICT provision at Chinsali Special School.
 
 ### Training and skills
+<!-- capacity.training -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital skills and capabilities component | [Planned](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Board approval of the parent grant |
-| Vendor global academy training commitment | [Planned](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership) | Included in the memorandum signed at the Zambia Mobile Congress |
-| Digital skills targets under the e-Government Plan 2023-2026 | ***Not held*** | — |
+The [Smart Zambia Institute launched a decentralised digital-skills training programme for government staff in December 2025](https://www.wearetech.africa/fr/fils/actualites/telecom/connectivite-gouvernementale-la-zambie-lance-un-reseau-4g-prive), pushing training out of the centre rather than running it from Lusaka. It sits on top of an existing framework: Zambia has [both a digital skills strategy and a digital skills programme for public servants](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), covering basic digital skills and data literacy, with some of the training charged for (2025).
+
+The most visible result of the year came from outside government. The Zambian delegation that reached the [global finals of the 2026 AI for Good Robotics for Good Youth Challenge in Geneva](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/), among nearly 50 competing countries, came out of a nine-month identification and mentoring cycle run by E-MARK Innovation Hub — a private hub, not a state programme. Training also runs in a regulatory direction: in July 2026 the [Zambia Cyber Security Agency urged journalists to learn the country's cybersecurity laws](https://www.lusakatimes.com/2026/07/15/journalists-urged-to-learn-cybersecurity-laws/) ahead of the general election, presenting the legislation as protection for media houses against ransomware and disruption.
+
+Tertiary provision is long established: the [University of Zambia has taught computing through a dedicated Department of Computing and Informatics since 1998](https://engineering.unza.zm/natural-and-applied-sciences/computing-and-informatics), and Copperbelt University has run computer science degrees since 1996. Newer capacity is being built against particular systems rather than in general — [SMART Zambia e-government developers took MOSIP training so that the identity platform can be run in-country](https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration/), though development and capacity building still lean substantially on external partners — and the World Bank's [Digital Zambia Acceleration Project](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349) carries a digital skills and capabilities component within its 2025-2030 operation. A [June 2026 memorandum with Huawei](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership) commits to training several thousand young Zambians through the company's global academy.
 
 ### Research institutions
+<!-- capacity.research -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Revenue authority research memorandum | [Implemented](https://techafricanews.com/2026/07/17/zambia-revenue-authority-signs-ictd-deal-to-advance-digital-tax-reforms/) | Memorandum and non-disclosure agreement signed |
-| University or national ICT research institute | ***Not held*** | — |
+Zambia's most recent research agreement in this field contracts the work outward: in July 2026 the [Zambia Revenue Authority signed a memorandum of understanding, and a non-disclosure agreement, with the International Centre for Tax and Development](https://techafricanews.com/2026/07/17/zambia-revenue-authority-signs-ictd-deal-to-advance-digital-tax-reforms/) covering research, capacity building and innovation for data-driven tax administration and domestic resource mobilisation.
 
-<!-- narrative: inclusion -->
-Financial inclusion reached 80.1% of adults in 2025 from 69.4% in 2020, with mobile money use at 76.2% ([survey figures](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)). Internet use did not follow: 33.0% in October 2025, unchanged year on year while user numbers grew with the population ([compiler analysis](https://datareportal.com/reports/digital-2026-zambia)). The wiki holds no rural-urban or gender disaggregation of internet use to explain the gap.
+Domestic production runs mainly through the universities, where [postgraduate computing programmes have been in place since the late 1990s](https://engineering.unza.zm/natural-and-applied-sciences/computing-and-informatics). Funding for anything beyond them is the standing complaint: the chief executive of E-MARK Innovation Hub has [called for stronger national investment in AI infrastructure, digital skills and innovation ecosystems](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) (July 2026), and the country's placing in [WIPO's Global Innovation Index 2025](https://www.wipo.int/edocs/gii-ranking/2025/zm.pdf) sits near the bottom of the 139 economies ranked.
 
-Training on the ground lags what the external financing implies: the base can evidence only 146 public officers trained, in three districts of one province.
-<!-- /narrative -->
+## Digitalisation
+
+### Rural digital data capture
+<!-- digital.rural -->
+
+Zambia's rural digital presence is still counted in individual sites: Smart Zambia [installed Starlink kits in Moomba Chiefdom in the Kazungula Game Management Area](https://techafricanews.com/2025/09/29/smart-zambia-brings-starlink-internet-to-remote-moomba-chiefdom/), connecting one rural health clinic and two primary schools to online government services (September 2025). At the point of service, capture remains manual. [Rural primary care clinics record patients on paper](https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf) before anything reaches a national system, [police case books away from headquarters are kept in paper form](https://doi.org/10.51867/ajernet.7.1.89), and the school system [still runs chiefly on periodic census returns](https://docs.dhis2.org/en/topics/user-stories/zambia-education-management-system-emis.html) rather than facility-level digital reporting. Hardware arriving at a building is not the same as a building capturing data: [networking equipment began reaching 40 police stations in early 2026](https://techafricanews.com/2026/02/03/smart-zambia-drives-police-digitalisation-with-new-tech-rollout-to-40-stations/) with no case-recording system established as running on it.
+
+The connectivity underneath is bought rather than earned: ZICTA's [Universal Access and Service Fund](https://techafricanews.com/2025/09/01/zicta-board-committee-reviews-uasf-projects-in-copperbelt-and-northwestern-provinces/) subsidises towers and last-mile fibre where operators see no return, with installed projects across Copperbelt and North-Western provinces (September 2025) and the programme [extending into Muchinga, Northern and Luapula, including ICT provision at Chinsali Special School](https://techafricanews.com/2026/06/17/zicta-assesses-uasf-ict-projects-to-expand-digital-inclusion-across-rural-zambia/) (June 2026). Power is the harder precondition, with [rural electricity access far below the urban rate](https://www.moe.gov.zm/?p=3813) (2023). Where the network is thin the cost is already fiscal rather than merely inconvenient: [poor mobile service in parts of the Copperbelt has cut residents off from social cash transfers and farmer input payments](https://diggers.news/local/2026/02/17/well-take-visible-action-against-mobile-operators-over-poor-network-zicta/) (February 2026), and electronic collection by councils [has yet to reach rural districts](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/) (July 2026).
+
+The wider rural position it is being built into is deteriorating. [Rural Economy is the worst-scoring of the Ibrahim Index's 16 sub-categories for Zambia at 36.7 out of 100, 41st of 54, down 18.4 points over 2014-2023 and the one sub-category the index declines to assign a trend](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) (2023). The two access measures inside it moved the other way, [rural market access up 11.8 points to 31.5 and rural land and water access up 12.9 points to 46.1](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), though market access remains among the country's ten worst-scoring indicators (2023).
+
+### Digitalisation of sub-national government
+<!-- digital.localgov -->
+
+Councils became [the first sub-national tier on Zambia's Government Services Bus, collecting roughly K21.7 million across eight local authorities in property rates, business levies and permits in the month after the June 2026 rollout](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/) (July 2026). That is [8 of 116 councils on the state payment rail, which the Accountant General frames as a revenue-modernisation gain rather than a convenience one](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2) (July 2026) — a reading the councils share, with Lusaka describing its own platform's purpose as [minimising opportunities for revenue leakage so it can mobilise more own-source resources](https://diggers.news/local/2026/08/03/lcc-urges-businesses-to-embrace-e-council-platform/) (August 2026).
+
+The architecture is centralising rather than local. Lusaka's [e-Council platform, which lets residents and businesses transact without attending council offices, was introduced through the Ministry of Local Government and Rural Development and integrated onto the national Government Services Bus rather than built as a standalone council portal](https://diggers.news/local/2026/08/03/lcc-urges-businesses-to-embrace-e-council-platform/), and Lusaka was likewise [the first council onto the national services portal](https://diggers.news/local/2026/05/29/councils-to-go-digital-as-lcc-becomes-first-on-zamportal/) (May 2026). The revenue system behind it [entered a proof-of-concept phase with a first group of councils covering property tax, business and market levies, health permits and fire certificates before extension to the rest](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) (March 2026), alongside [a Constituency Development Fund system in data entry across councils](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) intended to track spending transaction by transaction (March 2026).
+
+Network reach is the part that is furthest ahead of use: [the government wide area network had been extended to all 116 local authorities](https://www.wearetech.africa/fr/fils/actualites/telecom/connectivite-gouvernementale-la-zambie-lance-un-reseau-4g-prive) (2025), while in Western Province [completed council and district office sites were still waiting on last-mile links before the network could be used](https://itweb.africa/article/zambia-deploys-govt-wan-to-enhance-service-delivery/G98Yd7LGgAgvX2PD) (February 2025). What the tier below the centre still lacks is the records it would run on. The national financial management system [reaches central government and not the levels beneath it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025); there is [no operational national address register, and councils keep disjointed, non-standardised address records](https://unstats.un.org/unsd/ungegn/sessions/3rd_session_2023/documents/GEGN.2_2023_141_CRP141.pdf) (2023); [council property valuation rolls are outdated and largely paper-based](https://www.theigc.org/sites/default/files/2024-08/Kaputula%20and%20Oliveira-Cunha%20Policy%20brief%20May%202024_1.pdf) (2024); and the [national registration system](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/INRIS%20IMPLEMENTATION%20-%20Mr%20Mwiimbu.pdf) has reached only a small minority of districts (2026).
+
+## Data
+
+### National statistics
+<!-- data.statistics -->
+
+The rated capacity of Zambia's statistical system is improving faster than anything else in its governance record: [Capacity of the Statistical System rose 10.2 points over 2014-2023 to 58.5 out of 100 and 16th of 54, the largest ten-year gain of any indicator in the Ibrahim Index's Public Administration sub-category](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) — inside a sub-category that [went backwards over the same decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf).
+
+The gain is in the apparatus rather than in what it counts. [Zambia had run a population census within the ten years to 2023 but no agricultural census and no business census within twenty](https://www.worldbank.org/en/programs/statistical-performance-indicators), and across that same decade it [fielded three or more agricultural surveys and three or more labour surveys, two household surveys and two health surveys, but no business survey at all](https://www.worldbank.org/en/programs/statistical-performance-indicators). The enterprise economy is enumerated only through [a companies register that is not matched to any measure of the business base it covers](https://www.lusakatimes.com/2026/07/03/pacra-registers-9163-companies-between-january-and-may-2026/). The population side is better served: [the 2022 census national analytical report was published in August 2025](https://www.zamstats.gov.zm/wp-content/uploads/2025/08/2022-Census-National-Analytical-Report.pdf).
+
+The system is weakest where it collects. [Data sources is the lowest of the five pillars in the World Bank's Statistical Performance Indicators, in the 20-49% band (2023), against 50-69% for data services and data infrastructure, 70-89% for data products and above 89% for data use](https://www.worldbank.org/en/programs/statistical-performance-indicators). Administrative records do not close the gap, because most are not captured where they are made: [rural primary healthcare clinics record patients on paper registers and tally sheets, with only aggregated totals entered into DHIS2 at district level](https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf), leaving the national health information system holding counts rather than patient records, and [the education management system still depends chiefly on periodic school census returns, with monthly digital reporting replacing the annual paper cycle in a single district](https://docs.dhis2.org/en/topics/user-stories/zambia-education-management-system-emis.html).
+
+Civil registration, the administrative source that could most reduce reliance on surveys, has gone backwards: it is [among Zambia's most deteriorated Ibrahim Index indicators over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), and [birth registration remains one of the lowest rates in Africa](https://www.biometricupdate.com/202506/zambia-says-using-multiple-strategies-to-meet-50-percent-birth-registration-goal-by-2026). [Most of the legacy registration record has been digitised](https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration), but a partial account of the population is what is being converted.
+
+### Open data
+<!-- data.open -->
+
+Zambia has [no government open data portal, and the measures that depend on one — catalogue coverage and update frequency among them — are recorded as not applicable in consequence (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), even though [a right to information law is in force and rated effective](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The right to ask exists; the place to publish does not.
+
+Access to public information is the weakest part of Zambia's Ibrahim Index accountability score and is getting weaker: [Disclosure of Public Records stood at 34.6 out of 100, 22nd of 54 and down 2.1 points over 2014-2023, and Accessibility of Public Records at 43.3, 14th of 54 and down 1.7 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). Nothing sits above them to correct it: [there is no data governance body and no data governance strategy for government (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), while [the data protection law and the authority set up to enforce it publish nothing about their work](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) and [no portal, app or other mechanism lets a Zambian see what the identity system holds on them](https://cipit.strathmore.edu/wp-content/uploads/2025/10/Government-Digital-Services-and-Digital-ID-in-Kenya-and-Zambia-Summary.pdf).
+
+<!-- derived -->
+The pattern repeats: documentation of the systems government runs — financial management, tax and customs, the right-to-information regime, digital skills and public sector innovation — is recorded again and again as existing but unpublished.
+
+What is published, the Open Data Inventory scores low across the board. [No category in Zambia's 2024 assessment scores above 6 out of 10: balance of payments, price indexes and population and vital statistics each reach 6, and agriculture 5.5](https://odin.opendatawatch.com/data). [Five of the 23 categories score zero — money and banking, the digital economy, energy, pollution, and crime and justice](https://odin.opendatawatch.com/data), so neither the digital sector nor the justice system publishes open national data about itself. [Core economic statistics sit low: international trade 5, national accounts and labour 4 each, government finance 3](https://odin.opendatawatch.com/data). [Social statistics are weaker still: education and health facilities 4 each, education outcomes, health outcomes, food security and reproductive health 3.5 each, and gender statistics 3](https://odin.opendatawatch.com/data): the categories a targeted service-delivery programme would draw on are the least available.
+
+What publication happens is departmental: [the Bank of Zambia issues an annual report on the national payment systems](https://www.boz.zm/payment-systems-annual-reports.htm).
+
+### Use of satellite data
+<!-- data.satellite -->
+
+A national spatial data infrastructure portal, the ZNSDI GeoPortal, is [in use for land mapping and for issuing artisanal mining licences (July 2026)](https://techafricanews.com/2026/07/08/smart-zambia-expands-digital-infrastructure-to-reach-every-corner-of-the-country/). No national space agency or Earth observation programme had been established as at August 2026.
 
 ## Finance
 
 ### New investments
+<!-- finance.new -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital Zambia Acceleration Project | [Implemented](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Board approval 2025-09-11 |
-| Improved Rural Connectivity Project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P159330) | Stated closing date of 2025-12-31 |
-| Lupiya digital lending | [Implemented](https://techafricanews.com/2026/07/27/lupiya-commits-k500-million-to-expand-financial-inclusion-over-next-decade/) | Tenth anniversary announcement |
-| Zambia Refugee and Host Communities Project | [Implemented](https://www.worldbank.org/en/news/press-release/2024/09/27/new-world-bank-grant-supports-afe-zambia-to-improve-opportunities-for-refugees-and-host-communities) | Became effective 2024-12-23 |
+<!-- derived -->
+Chinese policy banks are much the largest source of external digital finance: four commitments from China Eximbank and China Development Bank worth about US$1.02 billion, roughly two-thirds of a recorded total of about US$1.49 billion across twelve commitments signed between 2015 and 2025. The World Bank follows with US$300 million, then US$105 million from IFC and MIGA and US$66 million from British International Investment. It is overwhelmingly debt — six loans or buyer's credits worth about US$1.29 billion against four grants worth US$107 million — and connectivity takes about US$1.17 billion, with US$211 million going to a single urban surveillance loan.
+
+The largest single commitment finances [a US$392 million Huawei contract](https://dailyrevelationzambia.com/chitala-says-lungu-told-him-against-proceeding-on-392-million-huawei-deal-as-it-was-more-scandalous-than-the-purchase-of-42-fire-tenders/) to extend ZESCO's national fibre backbone, a deal a former ZESCO board chairman says he was pressed to proceed with. Chinese lending built the state's digital plant: [a US$65.5 million China Eximbank concessional loan of March 2015](http://www.mof.gov.zm/?wpfb_dl=50) covered a Huawei contract in full for Phase I of Smart Zambia, delivering the three government data centres, in Lusaka and at Zamtel's Roma and Kitwe switches, and [a US$280 million loan for communication towers](https://www.lusakatimes.com/2017/06/28/government-gets-280-million-loan-china-bank-finance-communication-towers/) followed in June 2017. Older still: Lusaka's ZTE street-camera Safe City system went [back out to bid in 2015](https://www.lusakatimes.com/2015/04/14/government-resurrects-controversial-project-to-install-cctv-cameras-on-lusaka-streets/) after the first tender collapsed over corruption claims.
+
+Western money is smaller: [the World Bank's Improved Rural Connectivity Project commits US$200 million over 2017 to 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P159330) to rural broadband, and [the Digital Zambia Acceleration Project](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349) was approved in 2025 with a window to 2030, its IDA grant committed rather than disbursing. [IFC lent US$75 million to IHS Zambia in 2021](https://disclosures.ifc.org/project-detail/SII/44235/ihs-zambia-covid) to refinance rather than build, [British International Investment's US$66 million of equity in it was fully exited by March 2021](https://www.bii.co.uk/en/our-impact/investment/ihs-zambia-ltd-investment-01/), and [MIGA's US$30 million guarantee](https://www.miga.org/project/airtel-mobile-commerce) insures a private-equity stake in Airtel Money's Zambian arm, not the wallet. Sida holds the grant end: [SEK 25.1 million](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-12926%22) and [SEK 16.9 million](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-13733%22) for financial inclusion and digital finance.
+
+Domestic money is thin: [K255 million was approved in May 2026](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/) for digital infrastructure and network quality, rural areas first, while the Smart Zambia Institute [asks private investors to fill the gap](https://www.zanis.gov.zm/?p=3243).
 
 ### MoUs and other agreements
+<!-- finance.mou -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital identity memorandum with Ethiopia | [Implemented](https://www.biometricupdate.com/202510/zambia-plans-domestic-digital-id-development-with-help-from-international-partners) | Reported signed; signing date not established |
-| Government compact with the Payments Association of Zambia | [Implemented](https://itweb.africa/article/zambia-partners-with-payz-to-boost-financial-inclusion/xnklOqz1eBKM4Ymz) | State House meeting 2026-02-26 |
-| UNDP and Tony Blair Institute memorandum of understanding | [Implemented](https://www.undp.org/zambia/press-releases/undp-and-tony-blair-institute-join-forces-boost-zambias-digital-and-development-transformation) | Signed in Lusaka 2025-11-20 |
-| Zoyk and Visa partnership | [Implemented](https://techafricanews.com/2026/06/03/zoyk-and-visa-launch-strategic-partnership-to-advance-digital-payments-in-zambia/) | Launched 2026-06-03 |
+The Zambia Revenue Authority [signed both a memorandum of understanding and a non-disclosure agreement with the International Centre for Tax and Development in July 2026](https://techafricanews.com/2026/07/17/zambia-revenue-authority-signs-ictd-deal-to-advance-digital-tax-reforms/), covering research, capacity building and innovation for data-driven tax administration and domestic resource mobilisation. The non-disclosure agreement is the binding half of it, and no value or duration is attached to either.
 
-### Domestic budget appropriations and expenditure
+Huawei signed twice within a month. [A memorandum of understanding with the government and the SMART Zambia Institute in May 2026](https://techafricanews.com/2026/05/27/zambia-and-huawei-and-smart-zambia-sign-deal-for-national-ai-data-centre/) covers a National AI Data Centre, and [a "sovereign AI" memorandum at the June 2026 Zambia Mobile Congress](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership) covers AI infrastructure, a sovereign cloud and a co-invested national data centre keeping critical data in the country. Both are memoranda rather than contracts, with no published value, co-investment split or delivery date.
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Ministry of Technology and Science annual appropriation | ***Not held*** | — |
-| State ICT institute appropriation and project counterpart funding | ***Not held*** | — |
-| Universal Access and Service Fund accounts | ***Not held*** | — |
-
-<!-- narrative: finance -->
-Zambia has one domestic digital budget line in the entire wiki: ZMW 255,000,000 approved for fiscal year 2026 to upgrade digital infrastructure and quality of service, particularly rural. The record is built from press reporting rather than an appropriation document, the stage is unclear, and no funding source is named ([approval account](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/)). There is no domestic budget archive for Zambia, where nineteen other countries have one, so no appropriation figure in this report rests on a budget document.
-
-The universal access fund operates without published accounts: no fund size, levy rate, annual disbursement or cumulative tower count is held for any year.
-
-External financing carries the digital programme: a US$100 million grant was board-approved on 11 September 2025, of which US$5 million is earmarked for digital skills ([appraisal document](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349)).
-<!-- /narrative -->
-
-## Gaps to fill
-
-| System or instrument | What would settle it | Last probed |
-|---|---|---|
-| National Computer Incident Response Team | The full Project Appraisal Document's component text, which would state whether a national response team is funded, hosted or operating; the wiki holds only the datasheet and strategic context paragraphs | not yet probed |
-| Central Monitoring Centre | The text of the Cyber Security Act No. 3 of 2025 and any commencement or establishment order; the base carries the Centre only as an embassy and civil-society characterisation, with no evidence it has been built, sited, staffed or funded | not yet probed |
-| National cybersecurity policy or strategy | A published national cybersecurity strategy or the critical-information-infrastructure designation list required under the 2025 Act | not yet probed |
-| Commercial and colocation data-centre capacity | A regulator or operator disclosure of installed and delivered IT load in MW, or rack count, by facility; the base holds no Zambian data-centre capacity figure of any kind after the 2015 build description | not yet probed |
-| Government cloud and data-hosting arrangements | The state ICT institute's hosting policy or a government cloud contract stating where ministry data and the portal and service-bus workloads physically reside | not yet probed |
-| National internet exchange point | A regulator or exchange-operator statement of peering members and traffic exchanged; the base holds no reference to a Zambian exchange point at all | not yet probed |
-| International transit and wholesale bandwidth pricing | The regulator's annual market performance report for a year after 2022, or an operator's published wholesale tariff; the last market report the wiki holds is for 2022 | not yet probed |
-| Power supply and backup at telecommunications sites | An operator or regulator statement of site electrification, generator and battery coverage, or reported outage hours attributable to grid failure | not yet probed |
-| Electricity supply to data centres | A utility or facility-operator statement of contracted load and backup arrangements for the national data centre and any commercial facility | not yet probed |
-| Satellite operator licence terms in Zambia | The regulator's licence award notice or fee schedule for satellite service providers; the held market report gives a continental fee range but no Zambian figure | not yet probed |
-| 4G and mobile broadband population coverage | A regulator coverage report by technology; the government's 92% and 94% coverage claims state no unit or measurement basis | not yet probed |
-| Fixed and mobile broadband pricing | A price basket after the 2025 appraisal's statement that 5 GB of fixed broadband costs more than 12% of gross national income per head; no post-2025 Zambian tariff figure is held | not yet probed |
-| System integrator contract award for the digital ID | The procurement award notice naming the integrator, contract value and delivery dates; the base holds the March 2026 procurement opening and nothing after it | not yet probed |
-| Outcome of the April 2025 mobile campaign for 3.5 million ID documents | A registration department or home affairs ministry closing report for the three-month campaign, giving registration cards and birth certificates actually issued | not yet probed |
-| Refugee biometric registration card issuance | The refugee and host communities project implementation status report, which would show disbursement and whether biometric registration under the identity subcomponent has begun | not yet probed |
-| Land parcels or titles held in the land administration system | A lands ministry annual report or system statistics page giving titles issued, parcels registered or digital clearance turnaround times since 2023 | not yet probed |
-| Company and business register | A registration agency annual report or registry statistics release; the agency appears in the base only as a verification call from the land system in 2023 | not yet probed |
-| ZamConnect in operation | A service catalogue or project progress report naming agencies connected to it and the volume of exchanges it carries | not yet probed |
-| Education management information system | A Ministry of Education statistical bulletin or system description; the base carries interactive boards and school connectivity but no named school information system | not yet probed |
-| Central bank national payment system statistics | A national payment systems annual or quarterly report giving mobile money and switch transaction volumes and values; the base carries only inclusion rates quoted second-hand | not yet probed |
-| Whether the seven pilot councils went live on the national portal by 2026-06-30 | A local government ministry statement after 2026-06-30 listing councils live on the portal | not yet probed |
-| Statistics agency release programme | Any statistics agency publication - census release, price index or national accounts bulletin, or its statistical release calendar; the wiki holds none, and every statistics figure comes from a compiler, the regulator, an agency or a survey vendor | not yet probed |
-| Regulator annual or quarterly market performance report after 2022 | A market performance report for 2023 or later; the only one held is the 2022 edition | not yet probed |
-| A national earth-observation or satellite-data programme | A Zambian space or earth-observation policy, a national satellite data agreement, or the spatial data portal's dataset inventory naming its imagery sources | not yet probed |
-| Data Protection Act statutory instruments and regulations | The Government Gazette carrying the Act's commencement order and any statutory instruments made under it on registration of controllers, transfer rules and breach notification | not yet probed |
-| Data protection regulator enforcement record | The Office's annual report or a published register of controllers, complaints, breach notifications and enforcement decisions | not yet probed |
-| Cabinet decision to repeal and replace the Data Protection Act 2021 | The Cabinet decision or the gazetted amendment or repeal Bill; the base carries only a civil-society report's statement of intent, current to late 2025 | not yet probed |
-| Cyber Security Act No. 3 of 2025, statutory text | The gazetted text of the Act, which would establish whether the interception mandate and central monitoring centre attributed to it are provisions of the Act | not yet probed |
-| Enforcement outturn under the Cyber Crimes Act No. 4 of 2025 | Charge, prosecution or conviction figures from the National Prosecution Authority or the Judiciary, or a ministerial statement to the National Assembly giving counts since 2026-07-18 | not yet probed |
-| Access to information law | A gazetted Access to Information Act or Bill; no held source states whether Zambia has one, and the base carries no position at any date | not yet probed |
-| National data-sharing, interoperability or data-classification standard | A state ICT institute published interoperability framework or government data standard; the base holds only a 2014 health-sector standard | not yet probed |
-| Ratification of the AU Malabo Convention | The African Union list of signatures, ratifications and accessions, or a Zambian instrument of ratification | not yet probed |
-| National AI Strategy text | The published strategy document or a Cabinet approval record; a continental review treats a Zambian strategy as extant while the government calls it forthcoming | not yet probed |
-| Parliamentary and public contestation of Zambia's data governance | Hansard for the sittings at which the cyber Acts and the data protection Act were debated; the base holds two sources on this subject and one is a paywalled lede | not yet probed |
-| National open data portal and open data policy | A government open-data portal with a dataset inventory and licence terms, or a Cabinet-approved open data policy; the base holds only the geospatial portal | not yet probed |
-| EU-Zambia digital cooperation | A European Commission or EU Delegation announcement, Global Gateway project fiche or financing agreement naming a Zambian digital investment; the base holds zero Zambia sources on this subject | not yet probed |
-| Legal basis for personal-data transfers between Zambia and the EU | A European Commission adequacy decision, or a Zambian data protection determination or guidance on cross-border transfer mechanisms | not yet probed |
-| Any Gulf-state technology engagement with Zambia | A bilateral agreement, investment record or ministerial visit involving the UAE, Saudi Arabia or Qatar; nothing on file, the base holding zero Zambia sources on this subject | not yet probed |
-| Artificial intelligence budget line or implementation costing | The 2026 or 2027 national budget estimates showing an AI allocation, or a costed implementation plan annexed to the strategy | not yet probed |
-| National artificial intelligence institution or agency | A statutory instrument or cabinet decision establishing a Zambian AI body; nothing names one, and the only institution on offer is the proposed international lab | not yet probed |
-| National artificial intelligence compute inventory | A state ICT institute or ministry statement of installed government compute, or the technical annex to the vendor memorandum | not yet probed |
-| Government innovation or venture fund | A budget line, fund charter or disbursement record; the base holds no Zambian public innovation fund of any kind | not yet probed |
-| Technology hub inventory | A directory or count of Zambian innovation hubs; one hub is named anywhere in the base, and long-standing hubs appear nowhere in it | not yet probed |
-| Zambian startup funding totals | The underlying diversity report, or an African startup funding report with a Zambia line; only continental aggregates are held | not yet probed |
-| ICT sector contribution to GDP | A statistics agency national-accounts release with an ICT sector share; the Presidential Delivery Unit called ICT one of Zambia's fastest-growing sectors with no figure behind it | not yet probed |
-| Ministry of Technology and Science annual appropriation | Zambia's Estimates of Revenue and Expenditure for FY2025 and FY2026, head-level lines for the technology ministry and the state ICT institute; there is no domestic budget archive for Zambia | not yet probed |
-| Universal Access and Service Fund accounts | The regulator's annual report or the fund's own audited financial statements, giving the levy rate, fund balance and annual disbursement | not yet probed |
-| State ICT institute appropriation and project counterpart funding | The acceleration project financing agreement or the estimates line showing the government's counterpart contribution against the US$100 million grant | not yet probed |
-| National digital literacy rate or programme | A regulator or statistics agency ICT household survey reporting digital skills prevalence, or a named national digital-literacy curriculum document | not yet probed |
-| University or national ICT research institute | A named research centre's establishment instrument, funding line or publication record; no Zambian research institution appears in any held source | not yet probed |
-| Digital skills targets under the e-Government Plan 2023-2026 | The plan itself, which the hub names but no held source reproduces or quantifies | not yet probed |
-| Gender gap in internet use or mobile ownership | An industry association gender-gap country figure or a regulator or statistics agency survey disaggregating internet use by sex | not yet probed |
-| Rural-urban internet use split | A regulator market report or household survey disaggregating internet use by residence; the base gives only that 52.4% of the population is rural | not yet probed |
-| Device affordability and data cost as a share of income | An affordability alliance or ITU affordability figure for Zambia; the base holds only the appraisal statement that fixed broadband exceeds 12% of gross national income per head | not yet probed |
-| Digital access for persons with disabilities | A national disability-inclusion policy or regulator programme document; the base holds only individual ICT donations to two special schools | not yet probed |
-
-<!-- narrative: gaps -->
-The regulator's own record is the largest single absence. The most recent annual market performance report the wiki holds is for 2022, so no current subscriber, penetration, coverage, pricing or market-revenue figure exists, and every government coverage claim of 80%, 92% or 94% is therefore untestable ([compiler analysis](https://datareportal.com/reports/digital-2026-zambia)).
-
-Three further silences bear directly on the report's own claims. No statistics agency publication of any kind is held. No central bank payment system statistics are held, so the national switch's transaction volumes cannot be stated. And the outcome of the three-month campaign launched in April 2025 to issue 3.5 million identity documents was never published.
-
-The two cyber statutes are both held as gazetted (Act No. 3 acquired 2026-08-09); what is not held is any enforcement outturn, statutory instrument or court record made under either.
-<!-- /narrative -->
+The identity and payments work runs on the same kind of paper. Zambia has [an identity memorandum with Ethiopia's National ID Program](https://www.biometricupdate.com/202510/zambia-plans-domestic-digital-id-development-with-help-from-international-partners), drawing on a system chosen because it was built domestically, and [a 2023 memorandum with the Centre for Digital Public Infrastructure at IIIT-Bangalore](https://www.codevelop.fund/insights-1/building-zambias-digital-economy-foundations-through-digital-public-infrastructure-dpi) on the design of its DPI use cases. On payments, the government and the Payments Association of Zambia have [agreed a compact](https://itweb.africa/article/zambia-partners-with-payz-to-boost-financial-inclusion/xnklOqz1eBKM4Ymz) to accelerate digital financial services and reduce cash dependency, with quarterly regulatory coordination between the Ministry of Technology and Science, the Bank of Zambia and ZICTA, and the fintech Zoyk has [entered a partnership with Visa](https://techafricanews.com/2026/06/03/zoyk-and-visa-launch-strategic-partnership-to-advance-digital-payments-in-zambia/) to bridge local payment rails to global networks for SADC cross-border trade. None of these is a procurement, and none of them commits either side to a sum.
