@@ -138,13 +138,42 @@ def main():
 
     kept, merged = dedupe(facts)
 
-    # Ownership. The owning chapter is the chapter of the fact's first slug in outline order; it
-    # states the fact in full and every other chapter refers to it in passing.
+    # Ownership. One chapter states each fact in full and the others refer to it in passing;
+    # without that the population-coverage number appears four times in four voices.
+    #
+    # `STATUS-INIT.md` names the owner as the chapter of the fact's first slug **in outline order**,
+    # and that rule misfires: the outline runs infrastructure and DPI first and finance, geopolitics
+    # and capacity last, so on NGA it left `finance.new` owning 3 of the 105 facts that answer it,
+    # `capacity.training` owning none of 35 and the five `geopol.*` slugs owning 4 of 70 between
+    # them — four chapters forbidden from stating in full the material they exist to report, and a
+    # *not established* line that would have been false. The owner here is instead the chapter of
+    # the slug **the extraction agent listed first**, which is that agent's judgement of what the
+    # fact is mainly about, made with the body in front of it. On NGA the two rules disagree on 489
+    # of 840 multi-slug facts and the agent is right on inspection: *"Nigeria has no government
+    # platform for citizen participation in policymaking"* is a `gov.discourse` fact that outline
+    # order would have handed to `dpi.govtech`. Flagged for Bill, 2026-08-15.
     for fact in kept:
-        first = min(fact["slugs"], key=lambda s: ORDER[s])
+        first = fact["slugs"][0]
         fact["owner_slug"] = first
         fact["owner_chapter"] = CHAPTER[first]
         fact["slugs"] = sorted(fact["slugs"], key=lambda s: ORDER[s])
+
+    # A sub-section that owns nothing and shares plenty cannot be written: everything that answers
+    # its question belongs to someone else and it may only allude to all of it. Promote the best of
+    # what it carries — solid first, then better tier, then more recent — taking from whichever
+    # chapter can most afford it. Six is enough to write 350 words on and few enough that the
+    # repetition this rule guards against stays bounded.
+    promoted = []
+    for slug in [s for _c, s, _l in OUTLINE]:
+        if any(f["owner_slug"] == slug for f in kept):
+            continue
+        theirs = [f for f in kept if slug in f["slugs"]]
+        theirs.sort(key=lambda f: (CONF.get(f.get("confidence"), 1), TIER.get(f.get("tier"), 3),
+                                   -sum(1 for g in kept if g["owner_slug"] == f["owner_slug"]),
+                                   f.get("published") or ""))
+        for fact in theirs[:6]:
+            fact.setdefault("costated", []).append(slug)
+            promoted.append((slug, fact["owner_slug"]))
 
     out = os.path.join(SCOPE, iso, "slices")
     os.makedirs(out, exist_ok=True)
@@ -166,7 +195,8 @@ def main():
         for fact in mine:
             row = dict(fact)
             row["sections"] = [s for s in fact["slugs"] if CHAPTER[s] == chapter]
-            row["mine"] = fact["owner_chapter"] == chapter
+            row["mine"] = (fact["owner_chapter"] == chapter
+                           or any(CHAPTER[s] == chapter for s in fact.get("costated", [])))
             payload.append(row)
         payload.sort(key=lambda r: (ORDER[r["sections"][0]], not r["mine"],
                                     CONF.get(r.get("confidence"), 1)))
@@ -189,12 +219,17 @@ def main():
     print(f"  of which borderline: {borderline}")
     print(f"distinct urls       : {len({f['url'] for f in kept})}\n")
 
-    print(f"{'sub-section':<20}{'owned':>7}{'shared':>8}   chapter")
+    print(f"{'sub-section':<20}{'owned':>7}{'promoted':>10}{'shared':>8}   chapter")
     for chapter, slug, _label in S.outline():
         owned = sum(1 for f in kept if f["owner_slug"] == slug)
-        shared = sum(1 for f in kept if slug in f["slugs"] and f["owner_slug"] != slug)
-        flag = "  <-- nothing" if owned + shared == 0 else ""
-        print(f"{slug:<20}{owned:>7}{shared:>8}   {chapter}{flag}")
+        promo = sum(1 for f in kept if slug in f.get("costated", []))
+        shared = sum(1 for f in kept if slug in f["slugs"] and f["owner_slug"] != slug) - promo
+        flag = "  <-- nothing" if owned + promo + shared == 0 else ""
+        print(f"{slug:<20}{owned:>7}{promo:>10}{shared:>8}   {chapter}{flag}")
+    if promoted:
+        print(f"\n{len(promoted)} fact(s) promoted into a sub-section that owned nothing:")
+        for slug, from_slug in promoted:
+            print(f"  {slug:<20} <- {from_slug}")
 
     print()
     for n, chapter in enumerate(seen, 1):
