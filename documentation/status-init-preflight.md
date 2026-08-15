@@ -6,7 +6,9 @@ last_reviewed: 2026-08-15
 
 # STATUS-INIT pre-flight
 
-*(Written 2026-08-15, before the first `status-init` run. Review of `STATUS-INIT.md` against the code and data that actually exist on this machine. Three items must be settled before the first country; the rest are cheap now and expensive 54 times.)*
+*(Written 2026-08-15, before the first `status-init` run. Review of `STATUS-INIT.md` against the code and data that actually exist on this machine. Three items had to be settled before the first country; the rest were cheap then and expensive 54 times.)*
+
+**All of it is done, and the run is clear to start** *(2026-08-15)*. The three blockers are resolved — one of them inverted on Bill's ruling into a new BUILD stage — and both of the cheaper items with them. What remains is the single design question at the foot of this file, which needs no action before the first country.
 
 ## What is already right
 
@@ -21,7 +23,7 @@ The tree is clean and nothing is unpushed. No new items are owed to OSINT.
 
 The site renderer will cope with the new shape. `render.py` falls back to frontmatter `title:` when a document has no H1, and HTML comments pass through to HTML unseen, so `<!-- infra.connect -->` is invisible to a reader and still machine-mappable.
 
-## The three blockers
+## The three blockers — all resolved
 
 ### 1. BUILD overwrites the output — *resolved 2026-08-15, and inverted*
 
