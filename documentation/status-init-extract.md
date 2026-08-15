@@ -96,7 +96,21 @@ Five columns: `Variable Id`, `Value Name`, `Year`, `Comments`, `Source urls`. **
 - Rows whose comment says the indicator is not applicable, not assessed or unknown yield no fact.
 - Do not return one fact per row mechanically. Where several rows establish one position — say, four rows on registers being tied to the national ID — return the position as one fact with the several slugs it answers. Where one row's comment carries two distinct establishable facts, return two.
 
-Set `origin: "dpi"`. Do not read the other `{ISO3}-dpi-*.csv` files.
+Set `origin: "dpi"`. Do not read the other `{ISO3}-dpi-*.csv` files. If your cut is `b`, the `iiag-*` rows in it are governed by the next section and not by this one.
+
+## If your input is the IIAG profile (`{ISO3}-iiag.txt`)
+
+You get this alongside the `b` indicator cut, and it changes what the `iiag-*` rows are worth.
+
+**The 96 `iiag-*` rows carry no URL.** Their `Source urls` column holds source-organisation abbreviations — `AFIDEP/BS/FH`, `V-DEM/WJP`, `AFR` — not links, so on their own they yield nothing at all. The Mo Ibrahim Foundation's country profile is the source they lack, and stage 0 has written it out as text for you. Its URL is on the file's second line, and it is the URL every fact you draw from it carries.
+
+The profile is better evidence than the rows it replaces: the scorecard page gives each of the 96 indicators its score out of 100, its **rank of 54** and its **change over the ten years**, and the indicator page names the country's best, worst, most improved and most deteriorated measures outright. Read the profile and state the position from it; read the rows only for the dataset's own reading of which measures matter.
+
+**Most of the index is not about the digital estate**, and `documentation/status-outline.md` drops 59 of the dataset's indicators for that reason. Return a fact only where it establishes something a digital status report can state — infrastructure, digital rights, administrative and statistical capacity, civil registration, records access and disclosure, inclusion, education, the rural economy. Leave out armed conflict, trafficking, clinical health outcomes, corruption, electoral pluralism, women's political representation and the environment.
+
+**A score is not a fact until it is written as one.** Never return a bare number. State what the index measures and what it found, dated, with the rank and the ten-year change where they carry the point — *"the mobile communications score rose 26.3 points over 2014–2023 to 77.1 of 100, 14th of 54 African states (2023)"*. A rank and a direction are what make an index score reportable; the number alone is not. Where a measure is a **perception** rather than an administrative count, that goes in `caveat`, because a report that treats the two alike is stating something it cannot support.
+
+`tier` is `primary` — the profile is the publication those scores are published in. Expect 15–30 facts.
 
 ## If your input is the finance cut (`{ISO3}-finance.csv`)
 
