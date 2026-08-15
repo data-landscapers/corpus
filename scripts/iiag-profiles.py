@@ -68,6 +68,53 @@ def profile_name(pdf):
     return None
 
 
+def fetch(url):
+    # The asset host answers Python's default user-agent with 403 and a browser's with the file, so
+    # the request says who it is. Nothing else about the fetch is unusual.
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=60) as fh:
+        return fh.read()
+
+
+def profile_url(iso3):
+    """The verified profile URL for a country, from the lookup. None where there is none."""
+    if not os.path.exists(S.IIAG_CSV):
+        return None
+    with open(S.IIAG_CSV, encoding="utf-8-sig", newline="") as fh:
+        for row in csv.DictReader(fh):
+            if row["iso3"].upper() == iso3.upper():
+                return row["url"]
+    return None
+
+
+def profile_text(iso3, path):
+    """Write the country's profile out as text, for stage 1 to read.
+
+    The URL alone would let the report cite an IIAG score without anyone having read the thing it
+    is published in, which is the citation-without-evidence the whole process is built to avoid.
+    The profile carries each of the 96 indicators' 2023 score, its rank of 54 and its ten-year
+    change — reportable material, where a dataset value code is not."""
+    import pdfplumber                                                       # noqa: PLC0415
+
+    url = profile_url(iso3)
+    if not url:
+        return None
+    blob = fetch(url)
+    tmp = path + ".pdf"
+    with open(tmp, "wb") as fh:
+        fh.write(blob)
+    pages = []
+    with pdfplumber.open(tmp) as pdf:
+        for n, page in enumerate(pdf.pages, 1):
+            text = (page.extract_text() or "").strip()
+            if text:
+                pages.append(f"--- page {n} ---\n{text}")
+    os.remove(tmp)
+    with open(path, "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(f"# 2024 IIAG country profile\n# source: {url}\n\n" + "\n\n".join(pages) + "\n")
+    return url
+
+
 def countries():
     with open(OSINT_COUNTRIES, encoding="utf-8-sig", newline="") as fh:
         return [(r["iso-3"], r["country-name"]) for r in csv.DictReader(fh)
@@ -78,21 +125,31 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--year", default="2024", help="the IIAG edition to resolve")
     ap.add_argument("--check", action="store_true", help="verify only; write nothing")
+    ap.add_argument("--text", metavar="ISO3",
+                    help="write one country's profile out as text and stop")
+    ap.add_argument("--out", help="where --text writes")
     args = ap.parse_args()
     try:
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     except (AttributeError, ValueError):
         pass
 
+    if args.text:
+        out = args.out or os.path.join(S.REPO, "prep", "scope", args.text.upper(),
+                                       f"{args.text.upper()}-iiag.txt")
+        os.makedirs(os.path.dirname(out), exist_ok=True)
+        url = profile_text(args.text.upper(), out)
+        if not url:
+            print(f"! no verified profile for {args.text.upper()}")
+            return 1
+        print(f"{out}   {os.path.getsize(out):,} bytes   {url}")
+        return 0
+
     rows, bad = [], []
     for iso3, name in countries():
         url = URL.format(year=args.year, iso2=ISO2[iso3])
         try:
-            # The asset host answers Python's default user-agent with 403 and a browser's with the
-            # file, so the request says who it is. Nothing else about the fetch is unusual.
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=60) as fh:
-                pdf = fh.read()
+            pdf = fetch(url)
             got = profile_name(pdf)
         except (urllib.error.URLError, OSError) as exc:                     # noqa: BLE001
             got, pdf = None, b""

@@ -30,11 +30,22 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import status_lib as S  # noqa: E402
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import importlib  # noqa: E402
+IIAG = importlib.import_module("iiag-profiles")
+
 OSINT = r"C:\OSINT"
 PLACES = os.path.join(OSINT, "wiki", "places")
 INTERSECTIONS = os.path.join(OSINT, "wiki", "intersections")
 COUNTRIES = os.path.join(OSINT, "lookups", "countries.csv")
 SCOPE = os.path.join(S.REPO, "prep", "scope")
+
+# The families the indicator cut is split on, and what each is evidence for.
+DPI_FAMILIES = [
+    ("a", ("govtech",), "GovTech Maturity Index"),
+    ("b", ("iiag", "odin", "stats", "rural"), "Ibrahim Index, ODIN, SPI, rural digitalisation"),
+    ("c", ("reg", "id", "ict", "exchange", "pay"), "law, identity, connectivity, exchange, payments"),
+]
 
 # The five columns that matter out of the dataset's fourteen. **The comments and the URLs are the
 # point**; the value code is a summary of them (`STATUS-INIT.md` -> *Inputs*).
@@ -120,7 +131,20 @@ def dpi_cut(iso, out_dir):
         w.writeheader()
         w.writerows(rows)
     with_urls = sum(1 for r in rows if (r["Source urls"] or "").strip())
-    return path, len(rows), with_urls
+
+    # Three cuts, not one. 462 rows is a 100KB-plus read producing two hundred facts from a single
+    # agent, and the rows partition cleanly by variable family into disjoint sets — so nothing is
+    # read twice and the fan-out argument is untouched. Adopted after the first run, 2026-08-15.
+    split = {}
+    for name, families, what in DPI_FAMILIES:
+        sub = [r for r in rows if r["Variable Id"].split("-")[0] in families]
+        sub_path = os.path.join(out_dir, f"{iso}-dpi-{name}.csv")
+        with open(sub_path, "w", encoding="utf-8", newline="") as fh:
+            w = csv.DictWriter(fh, fieldnames=DPI_COLUMNS)
+            w.writeheader()
+            w.writerows(sub)
+        split[name] = (sub_path, len(sub), what)
+    return path, len(rows), with_urls, split
 
 
 def finance_cut(iso, region, out_dir):
@@ -165,7 +189,15 @@ def main():
 
     reviewed, topics, sections, hub_size = hub(iso)
     mine, regional = intersections(iso, region)
-    dpi_path, dpi_rows, dpi_urls = dpi_cut(iso, out_dir)
+    dpi_path, dpi_rows, dpi_urls, dpi_split = dpi_cut(iso, out_dir)
+    iiag_path = os.path.join(out_dir, f"{iso}-iiag.txt")
+    try:
+        iiag_url = IIAG.profile_text(iso, iiag_path)
+    except Exception as exc:                                                # noqa: BLE001
+        print(f"  ! IIAG profile for {iso}: {exc}", file=sys.stderr)
+        iiag_url = None
+    if not iiag_url:
+        iiag_path = None
     fin_path, fin_rows, fin_own = finance_cut(iso, region, out_dir)
 
     print(f"# status-init scope — {iso}\n")
@@ -191,8 +223,22 @@ def main():
         print(f"\n   NOTE: {len(odd)} of these do not start with `{slug}`. This is why the list is "
               f"selected on\n         frontmatter and not constructed from the country name.")
 
-    print(f"\n## Indicator rows — one agent")
+    print(f"\n## Indicator rows — three agents, split by variable family")
     print(f"   {os.path.relpath(dpi_path, S.REPO)}   {dpi_rows} rows, {dpi_urls} carrying a URL")
+    for nm in sorted(dpi_split):
+        sub_path, n_rows, what = dpi_split[nm]
+        print(f"   {os.path.relpath(sub_path, S.REPO):<40} {n_rows:>4} rows   {what}")
+
+    print("\n## IIAG country profile — read alongside the `iiag-*` rows")
+    if iiag_path:
+        print(f"   {os.path.relpath(iiag_path, S.REPO)}   {os.path.getsize(iiag_path):,} bytes")
+        print(f"   {iiag_url}")
+        print("   The dataset's 96 `iiag-*` rows carry no URL, so the profile is the source they")
+        print("   lack. It carries each indicator's 2023 score, its rank of 54 and its ten-year")
+        print("   change, which is reportable where a bare value code is not.")
+    else:
+        print("   NOT AVAILABLE — run `python scripts/iiag-profiles.py` to build the lookup.")
+
     print(f"\n## Finance rows — one agent")
     print(f"   {os.path.relpath(fin_path, S.REPO)}   {fin_rows} rows "
           f"({fin_own} for {iso}, {fin_rows - fin_own} regional)")
@@ -202,8 +248,8 @@ def main():
         print(f"\n## Hub — {title}\n")
         print(got[0] if got else f"   (the hub carries no `## {title}` section)")
 
-    print(f"\n---\nStage 1 fan-out: {len(mine) + len(regional)} intersection agents + 1 indicator "
-          f"+ 1 finance = {len(mine) + len(regional) + 2} extraction agents.")
+    print(f"\n---\nStage 1 fan-out: {len(mine) + len(regional)} intersection agents + 3 indicator "
+          f"+ 1 finance = {len(mine) + len(regional) + 4} extraction agents.")
     return 0
 
 
