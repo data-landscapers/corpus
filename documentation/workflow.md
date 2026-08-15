@@ -10,7 +10,6 @@ kanban-plugin: board
 
 ## Next
 
-- [ ] Topics into Build
 - [ ] Check pdf and csv dates
 - [ ] Cloudflare and download log
 - [ ] Status build
@@ -26,6 +25,7 @@ kanban-plugin: board
 ## Complete
 
 - [ ] Markdown > PDF
+- [ ] Topics into Build
 - [ ] Markdown > HTML
 - [ ] BUILD - compile date in YAML
 
