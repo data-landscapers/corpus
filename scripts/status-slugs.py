@@ -39,6 +39,10 @@ def main():
     ap.add_argument("slugs", nargs="*")
     ap.add_argument("--file", help="a file of slugs, one per line")
     args = ap.parse_args()
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
 
     slugs = list(args.slugs)
     if args.file:

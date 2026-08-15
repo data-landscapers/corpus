@@ -49,6 +49,10 @@ def main():
     ap.add_argument("--intersections", required=True, type=int)
     ap.add_argument("--compiled", default=datetime.date.today().isoformat())
     args = ap.parse_args()
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
     iso = args.iso3.upper()
     name, region = country(iso)
 
