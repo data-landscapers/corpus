@@ -327,8 +327,6 @@ What has not been published is how it will be kept running: [no operating timeta
 
 The standing institutional base is thinner than the equipment suggests. The public [École supérieure africaine des TIC held ITU Centre of Excellence status from 2014 to 2022](https://esatic.ci/en/presentation-of-esatic/) and remains the anchor for advanced ICT work, and a [public AI university with associated centres of excellence is proposed](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-plans-ai-university-to-address-digital-skills-shortage) under the national development plan for 2026-2030 (June 2026).
 
-No national science and technology policy had been adopted, and no figure for public research and development spending published, as at August 2026.
-
 ## Digitalisation
 
 ### Rural digital data capture
@@ -376,8 +374,6 @@ Openness about the state's own systems is another matter. What is known about th
 
 ### Use of satellite data
 <!-- data.satellite -->
-
-No national space or geospatial agency, ground station or national space and geospatial data policy had been established as at August 2026.
 
 The nearest thing to a public geospatial platform is metropolitan rather than national: a project to promote the [Geoportail du Grand Abidjan, the metropolitan geospatial and address platform, was launched in June 2026 as part of the Abidjan smart-city programme](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance). In agriculture, a [Huawei partnership to map agricultural plots, aimed partly at cocoa traceability under EU deforestation rules, was under examination in May 2026](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-eyes-huawei-partnership-to-digitize-agriculture-sector).
 
