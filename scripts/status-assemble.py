@@ -37,8 +37,8 @@ def country(iso):
     with open(os.path.join(OSINT, "lookups", "countries.csv"), encoding="utf-8-sig",
               newline="") as fh:
         for row in csv.DictReader(fh):
-            if (row.get("iso3") or "").upper() == iso:
-                return row.get("country") or row.get("name") or iso, row.get("region") or ""
+            if (row.get("iso-3") or "").upper() == iso:
+                return row.get("country-name") or iso, row.get("Region") or ""
     return iso, ""
 
 

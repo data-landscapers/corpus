@@ -126,6 +126,10 @@ def main():
     ap.add_argument("iso3")
     args = ap.parse_args()
     iso = args.iso3.upper()
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
 
     facts, bad = load(iso)
     held = S.held_urls()
@@ -144,6 +148,10 @@ def main():
 
     out = os.path.join(SCOPE, iso, "slices")
     os.makedirs(out, exist_ok=True)
+    # The whole pool, one file, for `status-acquire.py` — the acquire line needs the publisher,
+    # title and publication date of a cited URL, and the assembled document carries none of them.
+    with open(os.path.join(SCOPE, iso, "pool.json"), "w", encoding="utf-8") as fh:
+        json.dump(kept, fh, indent=1, ensure_ascii=False)
     for old in glob.glob(os.path.join(out, "*.json")):
         os.remove(old)
 
