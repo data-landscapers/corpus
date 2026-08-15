@@ -1,5 +1,5 @@
 iso3,country,region,done,compiled,sections,sources,acquire,intersections,evidence_kb,hub_kb,dpi_rows,finance_rows,notes
-NGA,Nigeria,XWA,,,,,,14,348,296,462,69,run first; watch dpi-pay (55KB)
+NGA,Nigeria,XWA,yes,2026-08-15,37,248,43,14,348,296,462,69,run first; watch dpi-pay (55KB)
 ZAF,South Africa,XSA,,,,,,12,304,264,462,51,
 KEN,Kenya,XEA,,,,,,13,222,234,462,72,
 AGO,Angola,XSA,,,,,,12,219,121,462,10,
