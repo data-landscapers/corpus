@@ -31,7 +31,9 @@ So the baseline sits outside the collection perimeter, and two of the wiki's rul
 
 Of the other report-layer checks in `wiki/report-layer.md` §6: **H** is ledger-bound and cannot apply. **K** assumes marked narrative blocks and a skeleton word budget this file does not have. **I**'s vocabulary and ***Not held*** rows do not arise. **J** applies unchanged and is adopted as check I.
 
-**Keeping the baseline current is a successor's job, not this one's.** `STATUS-INIT` establishes it once. Thereafter each new source arriving through the daily flow is checked for whether it changes what a status section can say, and the section is revised where it does — which is how a baseline stays a baseline instead of decaying into an archive. That process is still to be designed in BUILD; nothing here anticipates its shape.
+**Keeping the baseline current is a successor's job, not this one's.** `STATUS-INIT` establishes it once. Thereafter each new source arriving through the daily flow is checked for whether it changes what a status section can say, and the section is revised where it does — which is how a baseline stays a baseline instead of decaying into an archive. That successor is **`BUILD.md` → *Maintaining the status baseline***, designed 2026-08-15: one further question asked of a record BUILD already has open, on initialised units only. It follows from the same idea rather than qualifying it, and the writing rules below govern a revised section exactly as they govern an initialised one.
+
+**From the moment this process has run on a unit, nothing re-renders its status report from `ledger.csv` again.** `report-render.py` drops `status` from an initialised unit's document set, so `--doc all` renders its monthly and its progress report and leaves the baseline alone. That is not a courtesy — a ledger render of a file this process wrote is a total loss reported as a successful build.
 
 ## The one hard rule
 

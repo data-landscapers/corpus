@@ -95,6 +95,49 @@ PROFILES = {
 def profile(unit):
     return PROFILES["region" if unit.startswith("X") else "country"]
 
+
+def initialised(unit):
+    """True where this unit's status report was written by `STATUS-INIT` and is no longer a
+    ledger render.
+
+    **An initialised unit stops issuing a rendered status report** *(Bill, 2026-08-15)*. Once
+    `STATUS-INIT` has run, `{unit}-status.md` is a narrative baseline compiled from the wiki, the
+    AfDB dataset and the finance table — not a table of ledger rows — and re-rendering it from
+    `ledger.csv` does not update it, it destroys it and reports a normal build. That is the one
+    failure here with no warning attached: the render succeeds, the file is well-formed, and what
+    it replaced is only in git.
+
+    So the document set is narrowed rather than the renderer branched. `PROFILES[...]["docs"]`
+    already models which documents a unit issues, and a region already refuses a document it does
+    not issue rather than rendering it empty; an initialised country is the same shape of fact.
+    Keeping `--doc all` meaning *all of this unit's documents* is what makes the existing callers
+    — BUILD stage 4, `rebuild.py --reports` — safe without any of them knowing about this.
+
+    Read from the frontmatter only, never the body: a status report that happens to mention the
+    process by name in its prose is not thereby initialised."""
+    path = os.path.join(REPORTS, unit, f"{unit}-status.md")
+    try:
+        with open(path, encoding="utf-8") as fh:
+            text = fh.read(4096)
+    except OSError:
+        return False
+    if not text.startswith("---"):
+        return False
+    end = text.find("\n---", 3)
+    return bool(re.search(r"^built_by:\s*STATUS-INIT\s*$",
+                          text[3:end if end > 0 else len(text)], re.M))
+
+
+def issues(unit):
+    """The documents this unit issues today, and why any are missing from the profile's set."""
+    docs = profile(unit)["docs"]
+    if "status" in docs and initialised(unit):
+        return tuple(d for d in docs if d != "status"), (
+            "its status report is the STATUS-INIT baseline, which BUILD maintains section by "
+            "section as new sources arrive and never re-renders from the ledger (BUILD.md "
+            "-> Stage 4)")
+    return docs, f"this unit issues {', '.join(docs)} only (REPORT-REGION.md)"
+
 NOT_HELD = "Not held"
 BASELINE_NOT_HELD = "Baseline not held"
 NO_CHANGE = "No change"
@@ -733,6 +776,15 @@ def write(path, out, unit, note, today=None, close=None):
 
 def render(unit, today):
     """Status — state only, no chronology. The current rows, section by section."""
+    # Belt and braces on the one operation here that cannot be undone in place. `issues()` already
+    # keeps `--doc all` and `--doc status` off an initialised unit, so this should be unreachable
+    # from the CLI — but it guards the function rather than the caller, because the cost of a
+    # caller added later that does not know the rule is a baseline overwritten by a build that
+    # reports success. Skipping, not failing: a unit whose status is maintained elsewhere has not
+    # gone wrong, and a non-zero here would stop the monthly and progress renders behind it.
+    if initialised(unit):
+        print(f"{unit}: status is the STATUS-INIT baseline — not re-rendered from the ledger")
+        return 0
     folder, ledger, gaps = load(unit)
     if not ledger:
         print(f"{unit}: ledger is empty — nothing to render")
@@ -1060,8 +1112,16 @@ def check_asof(unit):
         print("check J: PASS (no dated source on this ledger)")
         return 0
     bad, lag = [], None
+    init = initialised(unit)
     for fn in sorted(os.listdir(folder)):
         if not fn.endswith(".md"):
+            continue
+        # The STATUS-INIT baseline is not derived from this ledger, so the ledger cannot date it
+        # *(2026-08-15)*. The test reads "the document does not yet show it, re-render" — and both
+        # halves are wrong here: the baseline draws on sources the wiki does not hold, and there is
+        # no render to run. Its own currency is a different question, asked of the sources BUILD
+        # reads against it, and answered by BUILD revising the section.
+        if init and fn.endswith("-status.md"):
             continue
         text = open(os.path.join(folder, fn), encoding="utf-8").read()
         m = re.search(r"^compiled:\s*(\d{4}-\d{2}-\d{2})", text, re.M)
@@ -1170,14 +1230,14 @@ def main():
     if args.render:
         today = args.today or datetime.date.today().isoformat()
         month = args.month or last_closed_month(today)
-        docs = profile(unit)["docs"]
+        docs, why = issues(unit)
         # `--doc all` means all of this unit's documents. A region issues the progress report
-        # only, and naming one it does not issue is refused rather than rendered empty — the
-        # caller that asked for it (REPORT-MONTHLY over every initialised unit) is right to ask.
+        # only, and an initialised country no longer issues a rendered status report; naming one
+        # a unit does not issue is refused rather than rendered — the caller that asked for it
+        # (REPORT-MONTHLY over every initialised unit) is right to ask.
         want = docs if args.doc == "all" else (args.doc,)
         for skipped in [d for d in want if d not in docs]:
-            print(f"{unit}: no {skipped} report — this unit issues "
-                  f"{', '.join(docs)} only (REPORT-REGION.md)")
+            print(f"{unit}: no {skipped} report — {why}")
         if "status" in want and "status" in docs:
             rc |= render(unit, today)
         if "monthly" in want and "monthly" in docs:

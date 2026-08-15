@@ -46,15 +46,42 @@ The work order (from `--all` above, or `python scripts/rebuild.py --scan`) lists
    - *mints a row* — a named system or instrument the ledger lacks, passing the row test (a named object whose position can move — not a topic the news covered);
    - *settles a **Not held** row* — strike it from `gaps.csv`, give it a status;
    - *default: nothing moves* — most sources report activity, not movement. Do **not** attach a slug to a row that did not move.
-3. **Mark every slug read**, moved or not: `python scripts/report-scan.py --mark {ISO3} <slugs>`. (Sources on `origin_status: hold` are dropped by the script, not marked — pass them in regardless.)
-4. **Rebuild all three documents**, not just the live one: `--doc all` (regions: `--doc progress`). Each unit has one status report, one monthly and one progress report — living documents, not dated editions — and a moved row can show in any of them. A build that changes nothing leaves a file untouched and prints `unchanged`.
+3. **On an initialised unit only, ask the same source the second question** — see *Maintaining the status baseline* below. It is asked of the record already open, not on a second pass, and it is independent of step 2: a source can move a row without touching the baseline, or touch the baseline without moving a row.
+4. **Mark every slug read**, moved or not: `python scripts/report-scan.py --mark {ISO3} <slugs>`. (Sources on `origin_status: hold` are dropped by the script, not marked — pass them in regardless.)
+5. **Rebuild the unit's documents**: `--doc all`. Each unit has one monthly, one progress report and — until `STATUS-INIT` has run on it — one rendered status report; these are living documents, not dated editions, and a moved row can show in any of them. A build that changes nothing leaves a file untouched and prints `unchanged`.
+
+   **`--doc all` means all of *this* unit's documents, and the renderer decides which those are.** A region issues the progress report only; a unit whose status report carries `built_by: STATUS-INIT` no longer issues a rendered status report at all, and `--doc all` renders its other two. Naming a document a unit does not issue prints the reason and skips. So this line is the same on every unit and no caller has to know which is which.
 
    **No fact is added without a source** *(Bill, 2026-08-14)*. The citation goes on the sentence carrying the fact, not somewhere else in the block: a paragraph whose opening sentence is linked does not thereby source the three that follow it. Check H asks only that a block carries a citation at all, which is the cheap half — the rule is the drafter's. Three kinds of sentence carry no link and are right not to: a statement of what the base does **not** hold, which is a claim about the record rather than about the world; a qualification of a fact already cited in the same sentence (*the figures are the operator's own*); and the single connecting sentence the register allows, which asserts nothing. Everything else needs its link, and a summary block is where this goes wrong most easily, because it restates facts drafted elsewhere and their citations are easy to leave behind.
 
    **A source being in scope does not make every fact in it in scope** *(Bill, 2026-08-14)*. The window selects *rows*, by the publication date of the newest record they cite. It does not select *facts*. A July source that restates a 2023 measurement puts its row in the monthly, and the 2023 measurement still has no business in a report of what moved this month — it belongs in the status report, where the current position lives. The same goes for a stock figure a year old carried forward by a fresh article. **The monthly reports developments; selection is the drafter's, not the scan's.** Where the standing position is the only thing a row offers, the honest outcome is to leave that row out of the prose and let the ledger carry it.
 
    **Moving a window on is an editing job.** The renderer carries every narrative block across; deciding what still belongs is BUILD's. Both windows overlap their previous position heavily — the monthly always spans a month boundary, the progress report keeps eleven of its twelve months — so **BUILD removes what has aged out and writes in what has arrived**. A carried sentence describing a period that has moved on is well-formed prose and passes every check; finding it is the point of the revision.
-5. **Verify** before moving on: `python scripts/report-render.py --unit {ISO3} --check` — checks G (every link held in `index/`), I (vocabulary), **J (no document compiled before the ledger moved)**, **L (no unwritten narrative block)** and **M (every row that states a position cites a source that resolves)** must all pass; then the register check `python scripts/report-register-check.py --unit {ISO3}` reports, a human rules.
+6. **Verify** before moving on: `python scripts/report-render.py --unit {ISO3} --check` — checks G (every link held in `index/`), I (vocabulary), **J (no document compiled before the ledger moved)**, **L (no unwritten narrative block)** and **M (every row that states a position cites a source that resolves)** must all pass; then the register check `python scripts/report-register-check.py --unit {ISO3}` reports, a human rules.
+
+   Check J skips the status report on an initialised unit. It asks whether a document is behind the ledger it is rendered from, and the baseline is not rendered from that ledger — its sources are largely ones the wiki does not hold, which is what `STATUS-INIT.md` means by the baseline sitting outside the collection perimeter. Whether the baseline is current is the question step 3 asks, and it is answered by revising the section rather than by re-rendering the file.
+
+## Maintaining the status baseline
+
+**Once `STATUS-INIT` has run on a unit, the status report is BUILD's to keep current, and BUILD never re-renders it** *(Bill, 2026-08-15)*. `STATUS-INIT.md` establishes the baseline once and says so: *"Keeping the baseline current is a successor's job, not this one's."* This is that job.
+
+The rule is the inversion of the one it replaces. The ledger render treated the status report as a derived view, so every build could rebuild it from scratch; the baseline is authored, drawing on sources the wiki does not hold, and a rebuild from the ledger would not update it but destroy it — while reporting a normal successful build. So `report-render.py` narrows the document set on an initialised unit and `--doc all` no longer includes status. **The units that have not yet been through `STATUS-INIT` are not part of this**: their status reports stay ledger renders, rebuilt as before, and the question below is not asked of them until the day initialisation reaches them.
+
+**It is one more question asked of a record already open, not a stage.** BUILD is reading each new source against the unit anyway, which is the expensive part; asking a second question of it costs almost nothing, and asking it at any other moment would mean re-entering a base someone has already left.
+
+**The question is whether the source changes what a sub-section can say — not whether it is relevant to one.** Most sources are relevant to a sub-section and change nothing: the baseline states the current position, and a report of activity consistent with that position leaves it exactly where it was. **Nothing changing is the normal outcome and is not a failure**, the same as the *default: nothing moves* outcome in step 2. The source changes the baseline in two cases: the position it states is no longer the position the baseline states, or the baseline says nothing can be established and now something can.
+
+**Where it does change, revise that one sub-section in place.** Not the document, not the chapter — the sub-section whose slug the fact answers, edited as prose.
+
+- **The superseded fact comes out.** A baseline that accumulates is an archive, which is the decay `STATUS-INIT.md` exists to prevent. A revision replaces; it does not append.
+- **The first sentence may have to change.** The status writing rules are `STATUS-INIT.md` → *Writing*, unchanged and in force: the opening sentence carries the news, so a revision that changes what is newest in a section changes its opening line and not only a figure buried in the third one.
+- **No apparatus, and every time-varying figure dated.** A maintained section is indistinguishable from an initialised one; nothing marks it as revised, and the document carries no changelog.
+- **The citation resolves by construction.** The source arrived through the daily flow, so it is in `raw/` and therefore in `outputs/catalogue/raw-catalogue.csv` — which is the one respect in which maintenance is easier than initialisation, where most links come from the AfDB dataset and the vault does not hold them.
+- **No acquire line is ever written here.** `{ISO3}-acquire.md` reports 2024-or-later material found during initialisation that the daily sweep should have caught and did not. A source reaching BUILD has by definition been caught, so nothing is owed, whatever its date.
+
+**Frontmatter.** Move `compiled:` to the date of the edit, and only when the document actually changed — the house rule, `documentation/report-layer.md` §2. Update `sources_cited`. Leave `built_by`, `hub_last_reviewed` and `intersections_read` alone: they date the initialisation and stay true of it.
+
+**Verification.** The baseline's checks are `STATUS-INIT.md` → *Verification*, A to I, and re-running them after an edit pass is required there rather than optional — A in particular, because a URL synthesised from a remembered pattern is indistinguishable from a real one by eye. Those checks have no tooling yet; until they do, this stage cannot be verified and should not run.
 
 **Every piece of evidence has a source** *(Bill, 2026-08-14)*. This is absolute and it is not a property of the checks — the checks only find where it has been broken. Nothing BUILD publishes states a position the base cannot show a reader the origin of. A row whose position cannot be sourced is ***Not held*** with a `gaps.csv` line, which is the true statement and the one the layer is built to make; it is never a bare status standing on nothing. `documentation/report-layer.md` §6 has the rule and the single exemption.
 
@@ -84,6 +111,8 @@ python scripts/rebuild.py --reports all      # rebuild every report's tables fro
 ```
 
 Needed only after a format change or to refresh tables outside a unit you already re-rendered in stage 4.
+
+This is safe to run over every unit, initialised or not: it goes through `report-render.py --doc all`, which does not issue a rendered status report for an initialised unit. A format change therefore reaches the monthlies and the progress reports and leaves the status baselines untouched — which is right, because a baseline has no rendered tables to reformat.
 
 ## Stage 6 — topic reports (derived from the place documents)
 

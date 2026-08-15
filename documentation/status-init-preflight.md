@@ -23,14 +23,17 @@ The site renderer will cope with the new shape. `render.py` falls back to frontm
 
 ## The three blockers
 
-### 1. BUILD overwrites the output
+### 1. BUILD overwrites the output — *resolved 2026-08-15, and inverted*
 
 `report-render.py --render --doc status` regenerates `outputs/reports/{ISO3}/{ISO3}-status.md` from `ledger.csv`, and `BUILD.md` step 4 mandates `--doc all` for every unit touched.
 So the next BUILD run destroys every status-init report written before it, silently and completely — it is a normal successful render as far as the script is concerned.
 BUILD is run by hand rather than on a schedule, so nothing fires unattended, but the instruction that causes it is standing and the loss is total.
 
-The cheapest safe guard is in `render()`: read the existing file's frontmatter and refuse to write, with a message, where `built_by: STATUS-INIT`.
-That keeps `--doc all` as a habit and makes the refusal visible at the point of the mistake rather than at the next reader.
+**Bill's ruling turned this the right way up** *(2026-08-15)*: the answer is not a guard on a render that should not happen, it is that **BUILD maintains the baseline**. Once a unit is initialised, each new source is asked whether it changes what a status sub-section can say, and the section is revised where it does — which is the successor `STATUS-INIT.md` names and leaves undesigned. Units not yet initialised are not part of it; their status reports stay ledger renders until initialisation reaches them.
+
+Implemented as a narrowing of the document set rather than a branch in the renderer. `report-render.py` gained `initialised()` and `issues()`: an initialised unit no longer issues a rendered status report, so `--doc all` renders its monthly and progress report and prints the reason for the third. That is the same shape as the existing region rule, so BUILD stage 4 and `rebuild.py --reports` needed no change and no caller has to know which units are which. `render()` carries the same refusal defensively, and check J now skips the baseline — it asks whether a document is behind the ledger it is rendered from, and the baseline is not rendered from that ledger.
+
+`BUILD.md` → *Maintaining the status baseline* has the stage. Verified: all 57 units re-render with zero churn, and checks G, I, J, L and M pass on NGA, ZAF, KEN and XWA.
 
 ### 2. Check G fails every status-init report
 
