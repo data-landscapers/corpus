@@ -17,7 +17,7 @@ A fact is **one thing that is currently the case in {Country}**, stated in one p
 
 Not chronology. A dated event counts where it establishes the present position — a law in force, a system live, a register at a coverage level, a commitment outstanding, a gap not closed.
 
-**No URL, no fact.** A source you cannot resolve to a URL yields nothing.
+**No URL, no fact.** A source you cannot resolve to a URL yields nothing. The single exception is a `derived` fact — arithmetic you did over your own input, which no source states and which therefore has nothing to link. See the schema below.
 
 ## Output
 
@@ -32,7 +32,8 @@ Write a JSON list of fact objects to your output path (given in your task). Crea
 | `fact` | One sentence, plain, statable on the page as written. Not a note, not a fragment. Name the thing — the law, system, register, figure, commitment — and say what is the case. Write it so a reader who has never seen your source understands it. |
 | `as_at` | The date the fact is true of — `YYYY`, `YYYY-MM` or `YYYY-MM-DD` — or `structural` where it is not time-varying (a law's provisions, a system's architecture). |
 | `slugs` | List of taxonomy slugs the fact answers, **from the fixed set below**. Usually one or two, occasionally four. Only slugs it actually answers. |
-| `url` | The resolved link. |
+| `url` | The resolved link. Empty only on a `derived` fact. |
+| `derived` | `true` where the fact is arithmetic **you** did over the evidence in front of you — a count, a total, a ranking of financiers, a share by subsector — which no single source states. Omit it everywhere else. A derived fact carries `url: ""` and goes on the page with no link. |
 | `published` | The source's own publication date. |
 | `publisher` | The publishing body. |
 | `title` | The source's title. |
@@ -48,7 +49,7 @@ Write a JSON list of fact objects to your output path (given in your task). Crea
 
 ## Rules
 
-- **Never construct a URL**, and never cite a bare URL you found in prose. Only URLs your resolver returned.
+- **Never construct a URL**, and never cite a bare URL you found in prose. Only URLs your resolver returned. Never borrow a URL from one thing to stand behind a claim about another — a fact you cannot link is either `derived`, or it is not returned.
 - **The wiki is not a source, and neither is the AfDB dataset.** Both cite primaries; the link goes to the primary.
 - **Attach the caveat rather than dropping the fact** — the writer decides. But never invent what the source does not establish, and never merge two sources' figures into one sentence.
 - **A fact that something is not established** — a law not enacted, a figure not published, a register not covering a group — is a real fact and belongs here, if it has a source URL.
@@ -120,7 +121,7 @@ One row per commitment. `recipient_country` is `{ISO3}` or the country's region 
 - **Money is carried in the announcing party's own currency**: `original_amount` is the announcement, `commitment_usd_m` the conversion. State the original, and give the USD figure as a conversion where it helps.
 - `published`: the row's `record` slug begins with the publication date (`2026-03-24-...`); use it. `as_at` is that date too unless `start_year`/`end_year` place the commitment window elsewhere.
 - Where `amount_quality` is `reported` or `estimated` rather than `stated`, or `status` is `Pipeline/identification` or `Approved` rather than disbursing, that goes in `caveat` and usually makes the fact `borderline`. Money approved is not money moved.
-- Return the aggregate picture as facts too, not only the individual deals: how many distinct commitments there are and over what window, the leading financiers, the instruments used, the subsectors taking the money, and the largest single live commitment. Each aggregate fact still needs a URL — use the URL of the largest or most representative commitment it rests on, and put the basis in `caveat`.
+- Return the aggregate picture as facts too, not only the individual deals: how many distinct commitments there are and over what window, the leading financiers, the instruments used, the subsectors taking the money, and the largest single live commitment. **An aggregate carries `derived: true` and `url: ""`.** It is your arithmetic over the cut, not a claim any one source makes, so there is nothing to link and you must not borrow the URL of a representative deal to stand in for one — that puts a link on the page that does not establish the sentence sitting on it. Put the basis of the calculation in `caveat`: which rows you counted, what you excluded, and whether the figure is a sum of stated amounts or of conversions. The largest single commitment is **not** derived — it is one deal, and it carries that deal's URL.
 - `slugs`: most of these are `finance.new`; an MoU or framework agreement is `finance.mou`; add the subsector slug (`infra.connect`, `dpi.id`, …) and the financier's `geopol.*` slug where one applies.
 
 Set `origin: "finance"`.

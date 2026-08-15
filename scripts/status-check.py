@@ -41,6 +41,10 @@ APPARATUS = [
 ]
 
 # Check D. A wikilink or a bare repo path is an internal address that escaped into a deliverable.
+# Marks a paragraph the report computed itself rather than took from a source. HTML comments pass
+# through the renderer unseen, so it is invisible to a reader and still machine-checkable.
+DERIVED = "<!-- derived -->"
+
 LEAKS = [(re.compile(r"\[\["), "[[wikilink]]"),
          (re.compile(r"(?<![\w/`])(raw|wiki|index|lookups|prep|outputs)/[a-z0-9]", re.I),
           "bare repo path")]
@@ -96,15 +100,32 @@ def check_unit(unit, show_openings=False):
     # statement, which is a fact about the country stated plainly and carries no link by design
     # (`STATUS-INIT.md` -> *Sources and conflicts*). Anywhere else, a paragraph stating a figure
     # with nothing to follow is the defect the no-link-no-claim rule exists to catch.
-    unlinked = []
+    #
+    # The other exemption is a paragraph marked `<!-- derived -->`: a figure the report computed
+    # itself over the evidence it read — how many commitments there are, what they come to, which
+    # subsector took the most. No source states it, so there is nothing to link, and the rule that
+    # a claim carries the URL establishing it does not reach it (`STATUS-INIT.md` -> *The one hard
+    # rule*). The marker is required rather than inferred, because "no link because nothing
+    # establishes this" and "no link because the writer forgot" are the same paragraph otherwise.
+    unlinked, derived = [], []
     for slug, label, prose in secs:
         paras = S.paragraphs(prose)
         if not S.links(prose) and sum(len(S.sentences(p)) for p in paras) <= 2:
             continue
         for p in paras:
+            if p.startswith(DERIVED):
+                derived.append(f"{slug or label}: {p[len(DERIVED):].strip()[:90]}…")
+                continue
             if not S.links(p):
                 unlinked.append(f"{slug or label}: unlinked paragraph — {p[:90]}…")
     r.check("B", "every claim is linked", unlinked)
+    if derived:
+        r.note(f"note: {len(derived)} derived paragraph(s) carry no link by design — the report's "
+               f"own arithmetic over the evidence it read, which no source states:")
+        for d in derived[:10]:
+            r.note(f"        {d}")
+        if len(derived) > 10:
+            r.note(f"        … and {len(derived) - 10} more")
 
     # --- C — every time-varying figure is dated --------------------------------------------
     # A figure with no year anywhere in its sentence. Reported, not gated: "structural facts are

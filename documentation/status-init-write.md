@@ -23,6 +23,7 @@ A JSON list of facts at the path given in your task. Each carries:
 - `fact` — one sentence, as the extraction agent drew it from the source.
 - `as_at` — the date it is true of, or `structural` where it is not time-varying.
 - `url`, `published`, `publisher`, `title` — the source. `also` holds any second URL for the same fact.
+- `derived` — `true` where the fact is arithmetic over the whole body of evidence rather than a claim from one source. `url` is empty on these, and they are written with no link, in their own `<!-- derived -->` paragraph.
 - `sections` — which of *your* sub-sections it answers. `slugs` is the full list across all chapters.
 - `mine` — `true` where your chapter **owns** this fact.
 - `confidence` — `solid` or `borderline`.
@@ -36,6 +37,15 @@ A JSON list of facts at the path given in your task. Each carries:
 **Every stated fact carries an inline hyperlink, on the claim it supports, to the URL of the source that establishes it. No link, no claim.**
 
 Write it as `[the claim](https://…)`. Where the URL itself contains a parenthesis, percent-encode it as `%28` and `%29` — a literal one closes the link early and the verification then reads the truncated address as a source the base does not hold. The link sits on the words it supports, never gathered at the end of a paragraph or a section. A sentence may lean on the link in the sentence before it where they state one continuous thing; a paragraph with no link in it at all is a defect.
+
+**Except where the fact is marked `derived`.** That is a figure computed over the whole body of evidence — how many commitments there are, what they come to, which subsector took the largest share — which no single source states, so it carries an empty `url` and there is nothing to link. Put derived facts in **their own paragraph**, opening with the marker on its own line:
+
+```
+<!-- derived -->
+Around twenty external financing commitments are on the record, together worth roughly …
+```
+
+The marker is invisible to a reader and is what tells the verification the paragraph is unlinked by design rather than by mistake. Never put a derived figure in a paragraph with sourced claims, and never reach for the marker to get an ordinary fact onto the page without its link — that is the one thing it must not be used for.
 
 ## When the evidence is borderline, the fact does not go in
 

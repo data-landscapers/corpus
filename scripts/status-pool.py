@@ -69,7 +69,16 @@ def load(iso):
             if not isinstance(row.get("fact"), str) or not row["fact"].strip():
                 bad["no fact sentence"] += 1
                 continue
-            if not (row.get("url") or "").startswith("http"):
+            # A fact the extraction agent computed itself — how many commitments there are, what
+            # they come to, which subsector took the most — has no source to link, because no
+            # source states it. It is the report's own arithmetic over evidence it read, and it
+            # travels with no URL. Everything else still owes one. *(Bill, 2026-08-15: "aggregate
+            # doesn't need a link". Before this the finance brief had the agent hang an aggregate
+            # on "the URL of the largest or most representative commitment it rests on", which put
+            # a link on the page that does not establish the claim sitting on it.)*
+            if row.get("derived"):
+                row["url"] = ""
+            elif not (row.get("url") or "").startswith("http"):
                 bad["no url"] += 1
                 continue
             slugs = [s for s in (row.get("slugs") or []) if s in SLUGS]
@@ -79,6 +88,15 @@ def load(iso):
             row["slugs"] = slugs
             facts.append(row)
     return facts, bad
+
+
+def dedupe_key(fact):
+    """What counts as "the same source" when deciding how loosely to compare two facts.
+
+    A derived fact has no URL, so bucketing on the empty string would put every agent's aggregates
+    in one bucket and compare them all at the loose within-source threshold. They are bucketed on
+    the agent that computed them instead, which is what "one source" means for them."""
+    return fact["url"] or f"derived:{fact['source_file']}"
 
 
 def dedupe(facts):
@@ -95,8 +113,9 @@ def dedupe(facts):
     by_url = collections.defaultdict(list)
     for fact in facts:
         fact["_tok"] = tokens(fact["fact"])
+        key = dedupe_key(fact)
         hit = None
-        for other in by_url[fact["url"]]:
+        for other in by_url[key]:
             if jaccard(fact["_tok"], other["_tok"]) >= SAME_URL:
                 hit = other
                 break
@@ -108,13 +127,15 @@ def dedupe(facts):
         if hit is None:
             fact["also"] = []
             kept.append(fact)
-            by_url[fact["url"]].append(fact)
+            by_url[key].append(fact)
         else:
             merged += 1
             for slug in fact["slugs"]:
                 if slug not in hit["slugs"]:
                     hit["slugs"].append(slug)
-            if fact["url"] != hit["url"] and fact["url"] not in hit["also"]:
+            # `also` is a second URL for the same fact. A derived fact has none, and an empty
+            # string in there would reach the writer as a link to nowhere.
+            if fact["url"] and fact["url"] != hit["url"] and fact["url"] not in hit["also"]:
                 hit["also"].append(fact["url"])
     for fact in kept:
         del fact["_tok"]
@@ -133,8 +154,12 @@ def main():
 
     facts, bad = load(iso)
     held = S.held_urls()
-    unheld = [f for f in facts if f["url"] not in held]
-    facts = [f for f in facts if f["url"] in held]
+    # The held/not-held split is a question about a cited source. A derived fact cites none, so it
+    # is neither held nor unheld and is carried straight through.
+    derived = [f for f in facts if f.get("derived")]
+    sourced = [f for f in facts if not f.get("derived")]
+    unheld = [f for f in sourced if f["url"] not in held]
+    facts = [f for f in sourced if f["url"] in held] + derived
 
     kept, merged = dedupe(facts)
 
@@ -217,7 +242,8 @@ def main():
     print(f"facts pooled        : {len(kept)}")
     borderline = sum(1 for f in kept if f.get("confidence") == "borderline")
     print(f"  of which borderline: {borderline}")
-    print(f"distinct urls       : {len({f['url'] for f in kept})}\n")
+    print(f"  of which derived   : {sum(1 for f in kept if f.get('derived'))}")
+    print(f"distinct urls       : {len({f['url'] for f in kept if f['url']})}\n")
 
     print(f"{'sub-section':<20}{'owned':>7}{'promoted':>10}{'shared':>8}   chapter")
     for chapter, slug, _label in S.outline():
