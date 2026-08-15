@@ -126,7 +126,8 @@ Launched in a single batch so they run concurrently. **No extraction agent write
 9. **Assemble in outline order** and write `outputs/reports/{ISO3}/{ISO3}-status.md`. Where the same fact has surfaced in several chapters, it is stated in full in the one where it is load-bearing and referred to in passing elsewhere; the report does not repeat a figure four times.
 10. **Write `outputs/reports/{ISO3}/{ISO3}-acquire.md`** — see *Conflicts*.
 11. **Verify** — checks A to I below, on the assembled file. Never per agent.
-12. **Report on two lines**: `{ISO3} · sections written NN of 37 · not established NN · sources cited NN · acquire lines NN` and the run cost.
+12. **Refresh the checklist**: `python scripts/status-progress.py`. It rewrites `logs/status-init-progress.csv`, where a country counts as through because its status report says `built_by: STATUS-INIT` and for no other reason — so the file cannot drift out of step with the work the way a hand-ticked list does. Its `notes` column is Bill's and survives every rewrite. Rows are ordered heaviest first, so it is also the run order.
+13. **Report on two lines**: `{ISO3} · sections written NN of 37 · not established NN · sources cited NN · acquire lines NN` and the run cost.
 
 **What this costs, and where the caveats stop.** Extraction is where errors get baked in: a writer never sees a verbatim body, only a fact someone else drew from it, so an extraction agent that drops a qualification has silently changed what the report can say. Stage 1 therefore returns facts *with* their caveats and dates attached — **and that is an internal handoff, not report content.** The caveat exists so the writer can judge whether the fact is safe to state. It does not travel to the page. A fact the writer cannot state plainly is stated plainly at a coarser grain, or dropped.
 
