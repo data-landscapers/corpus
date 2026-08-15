@@ -11,7 +11,7 @@ last_reviewed: 2026-08-15
 ## What was produced
 
 `outputs/reports/NGA/NGA-status.md` — 37 sub-sections, 246 distinct sources, none *not established*.
-`outputs/reports/NGA/NGA-acquire.md` — 42 lines, every one an unheld source dated 2024 or later.
+`logs/africa-acquire.csv` — 42 rows for NGA, every one an unheld source dated 2024 or later. The per-country markdown table became a single cross-country CSV with an `iso3` column on Bill’s instruction, 2026-08-15: it is a queue worked down in an OSINT session, and a queue wants to be sorted, filtered and counted, which 54 markdown tables will not do. `status` and `notes` are Bill’s columns and survive every rewrite.
 
 Checks A, B, D, E, F, G, I and the frontmatter check pass. C reports one item, the IDA-against-commercial split in Project BRIDGE's appraisal, which is a financing structure rather than a measurement and is correctly undated. H was read rather than grepped, twice: on the first pass 34 of the 37 openings carried news as written and three — Energy, Literacy and Gulf — opened on the oldest fact in their section and were rewritten to open on the newest; after the IIAG revision every opening still carried news, and none of the eight revision agents had spent its new evidence on one.
 
@@ -45,7 +45,7 @@ Neither is a defect in this process. Both are the shape of the material, and bot
 `status-slugs.py` — resolves wiki source slugs to catalogue rows as JSON, one call per agent.
 `status-pool.py` — loads stage 1's facts, drops what check A would fail, merges the fact that arrived twice, assigns ownership and writes the chapter slices.
 `status-assemble.py` — reads the chapter drafts, keys sub-sections on the `<!-- slug -->` comment rather than the heading text, and writes the report with its frontmatter counts computed from the assembled document.
-`status-acquire.py` — writes the acquire file, asking the catalogue of every cited URL and taking the publisher, title and date of an unheld one from the pool.
+`status-acquire.py` — adds the country’s rows to `logs/africa-acquire.csv`, asking the catalogue of every cited URL and taking the publisher, title and date of an unheld one from the pool. It rewrites only its own country’s rows.
 
 ## Two smaller things
 
