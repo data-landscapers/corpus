@@ -131,7 +131,7 @@ Launched in a single batch so they run concurrently. **No extraction agent write
 ### Stage 3 — the parent assembles
 
 9. **Assemble in outline order** — `python scripts/status-assemble.py {ISO3} --hub-reviewed {date} --intersections {n}`, which reads the chapter drafts, keys sub-sections on the `<!-- slug -->` comment rather than the heading text, and writes `outputs/reports/{ISO3}/{ISO3}-status.md` with its frontmatter counts computed from the assembled document. Where the same fact has surfaced in several chapters, it is stated in full in the one where it is load-bearing and referred to in passing elsewhere; the report does not repeat a figure four times.
-10. **Write `outputs/reports/{ISO3}/{ISO3}-acquire.md`** — `python scripts/status-acquire.py {ISO3} --compiled {date} --country {name}`, which asks the catalogue of every cited URL and takes the publisher, title and publication date of an unheld one from the pool. See *Conflicts*. Re-run step 9 afterwards so the frontmatter's `acquire_lines` counts the file that now exists.
+10. **Add the country's rows to `logs/africa-acquire.csv`** — `python scripts/status-acquire.py {ISO3} --compiled {date}`, which asks the catalogue of every cited URL and takes the publisher, title and publication date of an unheld one from the pool. See *Conflicts*. Re-run step 9 afterwards so the frontmatter's `acquire_lines` counts the rows that now exist.
 11. **Verify** — checks A to I below, on the assembled file. Never per agent.
 12. **Refresh the checklist**: `python scripts/status-progress.py`. It rewrites `logs/status-init-progress.csv`, where a country counts as through because its status report says `built_by: STATUS-INIT` and for no other reason — so the file cannot drift out of step with the work the way a hand-ticked list does. Its `notes` column is Bill's and survives every rewrite. Rows are ordered heaviest first, so it is also the run order.
 13. **Report on two lines**: `{ISO3} · sections written NN of 37 · not established NN · sources cited NN · acquire lines NN` and the run cost.
@@ -148,24 +148,20 @@ Launched in a single batch so they run concurrently. **No extraction agent write
 
 - **Held** — nothing is owed. It came through the daily flow or the vault has it anyway.
 - **Not held, dated before 2024** — state the fact, link the URL, and carry on. This is baseline material, outside the collection perimeter and outside OSINT's job. No acquisition is raised.
-- **Not held, dated 2024 or later** — state the fact, link the URL, **and write one line to `outputs/reports/{ISO3}/{ISO3}-acquire.md`**. Recent material is current-awareness material, which the daily flow exists to catch. A 2024-or-later source found here and not held there is a gap in the sweep, not a gap in the baseline, and that is what the line reports. Bill actions the file in an OSINT session.
+- **Not held, dated 2024 or later** — state the fact, link the URL, **and write one line to `logs/africa-acquire.csv`**. Recent material is current-awareness material, which the daily flow exists to catch. A 2024-or-later source found here and not held there is a gap in the sweep, not a gap in the baseline, and that is what the line reports. Bill actions the file in an OSINT session.
 
 Framing it on *held* rather than on *arrived through the dataset* is what makes it checkable: the held/not-held split is set membership against the catalogue, which `status-check.py` performs, so the check reports the candidate list rather than the run having to remember where each fact came from.
 
-The acquire file is a table, so that it is readable in an OSINT session and parseable by check F:
+**One file for all of Africa, not one per country** *(Bill, 2026-08-15)*. The lines accumulate in `logs/africa-acquire.csv`, one row per source with the country in a column:
 
 ```
----
-title: {Country} — sources found by STATUS-INIT and not held
-place: {ISO3}
-compiled: {date}
-built_by: STATUS-INIT
----
-
-| Published | Publisher | Title | URL | Sub-section |
-| --- | --- | --- | --- | --- |
-| 2025-03-14 | Rwanda Ministry of ICT | National Data Policy | https://… | gov.policy |
+iso3,published,publisher,title,url,sub_section,found,status,notes
+RWA,2025-03-14,Rwanda Ministry of ICT,National Data Policy,https://…,gov.policy,2026-08-20,,
 ```
+
+This is a queue Bill works down in an OSINT session, and a queue wants to be sorted by publisher, filtered to what is still outstanding, and counted — none of which 54 markdown tables inside 54 report folders will do. `logs/` is where it belongs, beside every other OSINT-ward artefact of this campaign. *(It was `outputs/reports/{ISO3}/{ISO3}-acquire.md` until 2026-08-15, when NGA's was converted and the per-country file retired.)*
+
+**A run rewrites only its own country's rows**, so re-running one country cannot disturb the fifty-three already done. **The `status` and `notes` columns are Bill's and survive every rewrite**, keyed on the country and the URL — the same rule `status-progress.py` follows for its `notes` column, and for the same reason: a file that loses your working state on regeneration is a report, not a worksheet.
 
 **No disagreement is narrated.** The report states the established fact and its link. It does not say which source it preferred, that two sources differed, or that the dataset says otherwise. A reader who wants the argument can follow the link.
 
@@ -255,7 +251,7 @@ For reference, the volumes the fan-out is avoiding, measured as a single pass wi
 - **C — every time-varying figure is dated.**
 - **D — no `[[wikilink]]` survives into the output**, and no bare repo path.
 - **E — 37 sub-sections present, in outline order, none empty**, and `finance.budget` absent.
-- **F — every acquire line is dated 2024 or later** and carries date, publisher, title, URL and sub-section.
+- **F — every acquire line is dated 2024 or later** and carries date, publisher, title, URL and sub-section. Read from `logs/africa-acquire.csv`, filtered to the unit under check.
 - **G — no apparatus reached the page.** Grep the output for hedges and evidence-talk: *reportedly, apparently, it appears, sources indicate, according to available, it should be noted, however it is unclear, the data suggests, some sources, no source, the base, the dataset, the wiki, conflicting, discrepancy*. Any hit is rewritten or the claim is dropped.
 - **H — every sub-section opens on news.** The first sentence states something a reader who follows the country would not already know. A first sentence that defines a term, restates the question or leads with the oldest fact in the section is rewritten. This one needs a reader, not a grep.
 - **I — as-of honesty** (report-layer check J). The document is never *behind* its newest cited source, and the lag the other way is disclosed rather than judged. *(Corrected 2026-08-15: this said `compiled:` is never **ahead** of its newest cited source, which transcribed report-layer check J's reported half as though it were the gate. It cannot be one — a baseline compiled today from sources published last month is dated ahead of every one of them, which is the normal state of every status report ever written. Check J fails on the opposite direction and reports this one.)* Measured against the held half of the citations only: the AfDB dataset carries the year a value is true of, not the date its source was published.

@@ -1,22 +1,37 @@
 #!/usr/bin/env python3
-"""Write the acquire file — `STATUS-INIT.md` -> *Sources and conflicts*.
+"""The acquire feed — `STATUS-INIT.md` -> *Sources and conflicts*.
 
-    python scripts/status-acquire.py NGA
+    python scripts/status-acquire.py NGA --compiled 2026-08-15
 
 **The test is whether the source is held, not which intermediary carried it** (Bill, 2026-08-15).
-So this asks the catalogue, and only of a URL the catalogue does not resolve:
+So this asks the catalogue of every URL the status report cites, and only of one the catalogue does
+not resolve:
 
 * held — nothing is owed;
 * not held, before 2024 — baseline material, outside the collection perimeter, nothing owed;
 * not held, 2024 or later — a gap in the daily sweep, and it owes a line.
 
+**One file for all of Africa, not one per country** *(Bill, 2026-08-15)*. `{ISO3}-acquire.md` put
+each country's findings in its own markdown table inside its own report folder, which is the wrong
+shape for what this is: a work queue Bill takes into an OSINT session and works down. Fifty-four
+tables cannot be sorted by publisher, filtered to what is still outstanding, or counted. So the
+lines accumulate in `logs/africa-acquire.csv`, one row per source with the country in a column, and
+`logs/` is where they belong — it is where every other OSINT-ward artefact of this campaign lives.
+
+**A run rewrites only its own country's rows.** Every other country's pass through untouched, so
+re-running one country cannot disturb the fifty-three already done.
+
+**The `status` and `notes` columns are Bill's and are preserved** across every rewrite, keyed on the
+country and the URL. That is the same rule `status-progress.py` follows for its `notes` column and
+for the same reason: a file that loses your working state on regeneration is a report, not a
+worksheet.
+
 The publication date, publisher and title of a cited URL are not in the assembled document, so they
-come from `prep/scope/{ISO3}/pool.json`, which is what stage 1 established about that source. A URL
-the pool cannot describe is listed with what is known and flagged, rather than dropped: check F
-tests the file, and a silently missing line is the one failure mode that looks like success.
+come from `prep/scope/{ISO3}/pool.json`, which is what stage 1 established about that source.
 """
 
 import argparse
+import csv
 import json
 import os
 import sys
@@ -24,17 +39,38 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import status_lib as S  # noqa: E402
 
+OUT = os.path.join(S.REPO, "logs", "africa-acquire.csv")
+COLUMNS = ["iso3", "published", "publisher", "title", "url", "sub_section", "found",
+           "status", "notes"]
+MINE = ("status", "notes")          # Bill's columns. This script never writes over them.
+
+
+def existing():
+    """Every row on file today, and whatever is in Bill's columns, keyed on (iso3, url)."""
+    rows, kept = [], {}
+    if not os.path.exists(OUT):
+        return rows, kept
+    with open(OUT, encoding="utf-8-sig", newline="") as fh:
+        for row in csv.DictReader(fh):
+            if not row.get("iso3"):
+                continue
+            rows.append(row)
+            kept[(row["iso3"], row.get("url", ""))] = {k: row.get(k, "") for k in MINE}
+    return rows, kept
+
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("iso3")
     ap.add_argument("--compiled", required=True, help="the report's compiled date")
-    ap.add_argument("--country", required=True)
     args = ap.parse_args()
     iso = args.iso3.upper()
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
 
-    path = os.path.join(S.REPORTS, iso, f"{iso}-status.md")
-    text = open(path, encoding="utf-8").read()
+    text = open(os.path.join(S.REPORTS, iso, f"{iso}-status.md"), encoding="utf-8").read()
 
     pool = {}
     ppath = os.path.join(S.REPO, "prep", "scope", iso, "pool.json")
@@ -51,8 +87,9 @@ def main():
         for url in S.links(prose):
             where.setdefault(url, slug or label)
 
-    rows, unknown = [], []
-    for url in sorted(S.links(text), key=lambda u: where.get(u, "")):
+    old_rows, kept = existing()
+    mine, unknown = [], []
+    for url in sorted(S.links(text)):
         if url in cat:
             continue
         fact = pool.get(url)
@@ -61,28 +98,30 @@ def main():
             continue
         if not fact:
             unknown.append(url)
-        rows.append((published or "????", (fact or {}).get("publisher") or "",
-                     ((fact or {}).get("title") or "").replace("|", "/"),
-                     url, where.get(url, "")))
-    rows.sort()
+        row = {
+            "iso3": iso,
+            "published": published or "????",
+            "publisher": (fact or {}).get("publisher") or "",
+            "title": (fact or {}).get("title") or "",
+            "url": url,
+            "sub_section": where.get(url, ""),
+            "found": args.compiled,
+        }
+        row.update(kept.get((iso, url), {k: "" for k in MINE}))
+        mine.append(row)
 
-    out = [f"---",
-           f"title: {args.country} — sources found by STATUS-INIT and not held",
-           f"place: {iso}",
-           f"compiled: {args.compiled}",
-           f"built_by: STATUS-INIT",
-           f"---",
-           "",
-           "| Published | Publisher | Title | URL | Sub-section |",
-           "| --- | --- | --- | --- | --- |"]
-    out += [f"| {d} | {p} | {t} | {u} | {s} |" for d, p, t, u, s in rows]
-    out.append("")
+    out = [r for r in old_rows if r["iso3"] != iso] + mine
+    out.sort(key=lambda r: (r["iso3"], r.get("published", ""), r.get("publisher", "")))
 
-    apath = os.path.join(S.REPORTS, iso, f"{iso}-acquire.md")
-    with open(apath, "w", encoding="utf-8", newline="\n") as fh:
-        fh.write("\n".join(out))
+    os.makedirs(os.path.dirname(OUT), exist_ok=True)
+    with open(OUT, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=COLUMNS, extrasaction="ignore")
+        w.writeheader()
+        w.writerows(out)
 
-    print(f"{apath}: {len(rows)} line(s)")
+    units = len({r["iso3"] for r in out})
+    print(f"{os.path.relpath(OUT, S.REPO)}: {len(mine)} line(s) for {iso}, "
+          f"{len(out)} in all across {units} unit(s)")
     for u in unknown:
         print(f"  ! no pool record for {u} — date and publisher unknown", file=sys.stderr)
 

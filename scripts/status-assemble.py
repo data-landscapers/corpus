@@ -86,10 +86,7 @@ def main():
                    if p.strip() and not S.links(p) and len(S.sentences(p)) <= 2)
 
     folder = os.path.join(S.REPORTS, iso)
-    apath = os.path.join(folder, f"{iso}-acquire.md")
-    n_acquire = 0
-    if os.path.exists(apath):
-        n_acquire = len(re.findall(r"^\|\s*\d{4}", open(apath, encoding="utf-8").read(), re.M))
+    n_acquire = sum(1 for row in S.acquire_rows() if row.get("iso3", "").upper() == iso)
 
     fm = [
         "---",

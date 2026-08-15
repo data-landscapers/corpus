@@ -34,6 +34,7 @@ DPI_CSV = os.path.join(REPO, "prep", "africa-dpi-data.csv")
 FINANCE_CSV = os.path.join(REPO, "outputs", "non-state-finance", "all-nonstate.csv")
 CATALOGUE_CSV = os.path.join(REPO, "outputs", "catalogue", "raw-catalogue.csv")
 IIAG_CSV = os.path.join(REPO, "lookups", "iiag-profiles.csv")
+ACQUIRE_CSV = os.path.join(REPO, "logs", "africa-acquire.csv")
 OUTLINE = os.path.join(REPO, "documentation", "status-outline.md")
 REPORTS = os.path.join(REPO, "outputs", "reports")
 
@@ -142,6 +143,17 @@ def iiag_urls():
                         out |= _variants(u)
         _cache["iiag"] = out
     return _cache["iiag"]
+
+
+def acquire_rows():
+    """The acquire feed, every country. `logs/africa-acquire.csv`, written by `status-acquire.py`.
+
+    One file rather than 54 markdown tables, so the queue can be sorted, filtered and counted, and
+    read here so the checker and the writer cannot disagree about its shape."""
+    if not os.path.exists(ACQUIRE_CSV):
+        return []
+    with open(ACQUIRE_CSV, encoding="utf-8-sig", newline="") as fh:
+        return [r for r in csv.DictReader(fh) if r.get("iso3")]
 
 
 def extra_urls():

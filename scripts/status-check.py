@@ -18,7 +18,7 @@ this prints the opening sentences and says so rather than pretending to judge th
 
 The acquire rule is Bill's, 2026-08-15, and it turns on *held*, not on which intermediary carried
 the source. A cited URL the catalogue does not hold, dated 2024 or later, is a gap in the daily
-sweep and owes a line in `{ISO3}-acquire.md`. Dated before 2024 it owes nothing — that is baseline
+sweep and owes a line in `logs/africa-acquire.csv`. Dated before 2024 it owes nothing — that is baseline
 material, outside the collection perimeter, and OSINT was never going to hold it.
 """
 
@@ -44,9 +44,6 @@ APPARATUS = [
 LEAKS = [(re.compile(r"\[\["), "[[wikilink]]"),
          (re.compile(r"(?<![\w/`])(raw|wiki|index|lookups|prep|outputs)/[a-z0-9]", re.I),
           "bare repo path")]
-
-ACQUIRE_ROW = re.compile(r"^\|\s*(\d{4}-\d{2}-\d{2}|\d{4}-\d{2}|\d{4})\s*\|([^|]*)\|([^|]*)\|"
-                         r"\s*(https?://\S+?)\s*\|([^|]*)\|\s*$", re.M)
 
 
 class Report:
@@ -156,21 +153,27 @@ def check_unit(unit, show_openings=False):
     problems += [f"{s} is empty" for s, p in got if s and not p.strip()]
     r.check("E", f"{len(want)} sub-sections, in order, none empty", problems)
 
-    # --- F — the acquire file ---------------------------------------------------------------
+    # --- F — the acquire feed ---------------------------------------------------------------
     # Two halves. Every line that is there must be well-formed and owed; and every cited URL that
     # is *not held* and dated 2024+ must have one. The second half cannot be fully mechanised —
     # the publication date of an unheld URL is not in any file here — so what the run gets is the
     # candidate list, with the held/unheld split already made.
+    #
+    # The feed is `logs/africa-acquire.csv`, one row per source across all 54 countries, and this
+    # reads only the rows whose `iso3` is the unit under check. It was `{ISO3}-acquire.md` until
+    # 2026-08-15; a queue Bill works down wants to be sortable and countable, which 54 markdown
+    # tables are not.
     cat = S.catalogue_urls()
-    apath = os.path.join(folder, f"{unit}-acquire.md")
-    atext = open(apath, encoding="utf-8").read() if os.path.exists(apath) else ""
-    rows = ACQUIRE_ROW.findall(atext)
+    rows = [row for row in S.acquire_rows() if row.get("iso3", "").upper() == unit]
     listed, bad_lines = set(), []
-    for date, publisher, title, url, section in rows:
+    for row in rows:
+        url, date = row.get("url", ""), row.get("published", "")
         listed.add(url)
         if date < "2024":
-            bad_lines.append(f"{url} is dated {date} — before 2024 owes no acquire line")
-        if not publisher.strip() or not title.strip() or not section.strip():
+            bad_lines.append(f"{url} is dated {date or 'nothing'} — before 2024 owes no acquire "
+                             f"line")
+        if not row.get("publisher", "").strip() or not row.get("title", "").strip() \
+                or not row.get("sub_section", "").strip():
             bad_lines.append(f"{url} — a line must carry date, publisher, title, URL and "
                              f"sub-section")
         if url not in urls:

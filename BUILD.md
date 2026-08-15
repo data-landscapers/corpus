@@ -78,7 +78,7 @@ The rule is the inversion of the one it replaces. The ledger render treated the 
 - **The first sentence may have to change.** The status writing rules are `STATUS-INIT.md` → *Writing*, unchanged and in force: the opening sentence carries the news — the best-evidenced news — so a revision that changes what is newest in a section changes its opening line and not only a figure buried in the third one.
 - **No apparatus, and every time-varying figure dated.** A maintained section is indistinguishable from an initialised one; nothing marks it as revised, and the document carries no changelog.
 - **The citation resolves by construction.** The source arrived through the daily flow, so it is in `raw/` and therefore in `outputs/catalogue/raw-catalogue.csv` — which is the one respect in which maintenance is easier than initialisation, where most links come from the AfDB dataset and the vault does not hold them.
-- **No acquire line is ever written here.** `{ISO3}-acquire.md` reports 2024-or-later material found during initialisation that the daily sweep should have caught and did not. A source reaching BUILD has by definition been caught, so nothing is owed, whatever its date.
+- **No acquire line is ever written here.** `logs/africa-acquire.csv` reports 2024-or-later material found during initialisation that the daily sweep should have caught and did not. A source reaching BUILD has by definition been caught, so nothing is owed, whatever its date.
 
 **Frontmatter.** Move `compiled:` to the date of the edit, and only when the document actually changed — the house rule, `documentation/report-layer.md` §2. Update `sources_cited`. Leave `built_by`, `hub_last_reviewed` and `intersections_read` alone: they date the initialisation and stay true of it.
 
