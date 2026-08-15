@@ -176,10 +176,7 @@ Outside the region the ties are commercial and diplomatic rather than technical.
 ### Standards
 <!-- gov.standards -->
 
-<!-- derived -->
-Egypt's platforms are further ahead than the rules that would govern them: the systems are in use and the portals transactional, while the interoperability framework is in draft, whole-of-government data governance is only planned or in progress, and the right to information law is still in consultation (2025).
-
-The governance layer is the part that has not been built. [Egypt's whole-of-government data governance arrangement is planned or in progress rather than in place, follows a multilevel approach, and sits inside another institution rather than in a body of its own](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [the government interoperability framework is still in draft or planned while the platform it would govern is recorded as only partially used](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+Egypt's platforms are further ahead than the rules that would govern them, and the governance layer is the part that has not been built. [Egypt's whole-of-government data governance arrangement is planned or in progress rather than in place, follows a multilevel approach, and sits inside another institution rather than in a body of its own](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [the government interoperability framework is still in draft or planned while the platform it would govern is recorded as only partially used](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 What standardisation there is has been done service by service, at launch. The public-shop licensing service [unified fees across the participating agencies, with the Interior Ministry cutting its own by 50%, and gave a single back-office body a binding maximum approval time](https://almalnews.com/2126687/); the same launch produced [the first verified reusable digital document, the business registration certificate, issued through the digital treasury for reuse across agencies](https://almalnews.com/2126687/) (July 2026). That is a standard for one service, negotiated once, rather than a framework any other service inherits.
 
