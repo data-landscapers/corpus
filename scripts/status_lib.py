@@ -66,13 +66,20 @@ def dpi_urls():
     """Every URL cited by the AfDB dataset, over all 54 countries.
 
     Not filtered by country. The check is "is this link real", not "did this country's rows cite
-    it" — a narrower set would fail a report for citing a regional source correctly."""
+    it" — a narrower set would fail a report for citing a regional source correctly.
+
+    Split on the pipe as well as whitespace and semicolons: 418 of the 22,848 rows carrying a URL
+    hold several in the one cell separated by `|`, and reading the cell whole holds only the
+    concatenation — so every real URL in such a row fails check A, and the pooling step drops a
+    fact citing one correctly as a link the base does not hold. It cost 15 of Egypt's facts and
+    46 URLs across the dataset. *(Found 2026-08-15 on the EGY run; the same defect as the one
+    `finance_urls()` records from UGA, in the other separator.)*"""
     if "dpi" not in _cache:
         out = set()
         if os.path.exists(DPI_CSV):
             with open(DPI_CSV, encoding="utf-8-sig", newline="") as fh:
                 for row in csv.DictReader(fh):
-                    for u in re.split(r"[;\s]+", row.get("Source urls") or ""):
+                    for u in re.split(r"[|;\s]+", row.get("Source urls") or ""):
                         u = u.strip().strip(".,;")
                         if u.startswith("http"):
                             out |= _variants(u)
@@ -83,7 +90,7 @@ def dpi_urls():
 def finance_urls():
     """Every URL cited by the finance table.
 
-    Split on whitespace and semicolons, as `dpi_urls()` does: six of the 1,243 rows carrying a URL
+    Split on whitespace, semicolons and pipes, as `dpi_urls()` does: six of the 1,243 rows carrying a URL
     hold two of them in the one cell, and reading the cell whole holds only the concatenation — so
     both real URLs fail check A, and a report citing one correctly is failed for a synthesised link.
     *(Found 2026-08-15 on the UGA run, by the extraction agent that cited the first of the two.)*"""
@@ -92,7 +99,7 @@ def finance_urls():
         if os.path.exists(FINANCE_CSV):
             with open(FINANCE_CSV, encoding="utf-8-sig", newline="") as fh:
                 for row in csv.DictReader(fh):
-                    for u in re.split(r"[;\s]+", row.get("url") or ""):
+                    for u in re.split(r"[|;\s]+", row.get("url") or ""):
                         u = u.strip().strip(".,;")
                         if u.startswith("http"):
                             out |= _variants(u)
