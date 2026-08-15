@@ -81,14 +81,21 @@ def dpi_urls():
 
 
 def finance_urls():
+    """Every URL cited by the finance table.
+
+    Split on whitespace and semicolons, as `dpi_urls()` does: six of the 1,243 rows carrying a URL
+    hold two of them in the one cell, and reading the cell whole holds only the concatenation — so
+    both real URLs fail check A, and a report citing one correctly is failed for a synthesised link.
+    *(Found 2026-08-15 on the UGA run, by the extraction agent that cited the first of the two.)*"""
     if "finance" not in _cache:
         out = set()
         if os.path.exists(FINANCE_CSV):
             with open(FINANCE_CSV, encoding="utf-8-sig", newline="") as fh:
                 for row in csv.DictReader(fh):
-                    u = (row.get("url") or "").strip()
-                    if u.startswith("http"):
-                        out |= _variants(u)
+                    for u in re.split(r"[;\s]+", row.get("url") or ""):
+                        u = u.strip().strip(".,;")
+                        if u.startswith("http"):
+                            out |= _variants(u)
         _cache["finance"] = out
     return _cache["finance"]
 
