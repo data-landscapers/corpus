@@ -81,7 +81,9 @@ The rule is the inversion of the one it replaces. The ledger render treated the 
 
 **Frontmatter.** Move `compiled:` to the date of the edit, and only when the document actually changed — the house rule, `documentation/report-layer.md` §2. Update `sources_cited`. Leave `built_by`, `hub_last_reviewed` and `intersections_read` alone: they date the initialisation and stay true of it.
 
-**Verification.** The baseline's checks are `STATUS-INIT.md` → *Verification*, A to I, and re-running them after an edit pass is required there rather than optional — A in particular, because a URL synthesised from a remembered pattern is indistinguishable from a real one by eye. Those checks have no tooling yet; until they do, this stage cannot be verified and should not run.
+**Verification.** `python scripts/status-check.py --unit {ISO3}` — the baseline's own checks, `STATUS-INIT.md` → *Verification*, A to I. Re-run it after the edit pass, not at the end of the unit: check A is set membership, and a URL synthesised from a remembered pattern is indistinguishable from a real one by reading, so an edit that introduces one is invisible until something tests it. A run that fails A, B or G is not issued.
+
+`report-render.py --check` covers the other two documents and applies check G's widened set to the baseline as well, so both commands are run and neither substitutes for the other.
 
 **Every piece of evidence has a source** *(Bill, 2026-08-14)*. This is absolute and it is not a property of the checks — the checks only find where it has been broken. Nothing BUILD publishes states a position the base cannot show a reader the origin of. A row whose position cannot be sourced is ***Not held*** with a `gaps.csv` line, which is the true statement and the one the layer is built to make; it is never a bare status standing on nothing. `documentation/report-layer.md` §6 has the rule and the single exemption.
 

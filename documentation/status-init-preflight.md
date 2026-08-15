@@ -35,25 +35,29 @@ Implemented as a narrowing of the document set rather than a branch in the rende
 
 `BUILD.md` → *Maintaining the status baseline* has the stage. Verified: all 57 units re-render with zero churn, and checks G, I, J, L and M pass on NGA, ZAF, KEN and XWA.
 
-### 2. Check G fails every status-init report
+### 2. Check G fails every status-init report — *resolved 2026-08-15*
 
 `check()` scans **every** `.md` in `outputs/reports/{ISO3}/` and requires each URL to resolve through `outputs/catalogue/raw-catalogue.csv`.
 The status report cites the AfDB dataset, which the vault does not hold. Measured: of NGA's 296 distinct DPI-dataset URLs, **16 are in the catalogue**; across all 54 countries it is 668 of 9,685, about 7%.
 So a correct status report fails check G with roughly 250 NOT HELD links, and takes the unit's BUILD down with it.
 
-`STATUS-INIT.md` anticipates this — check A widens the set to the three bodies of evidence the process read — but nothing in the code knows that.
-The fix is one held-set, built once and used by both: catalogue URLs, plus `Source urls` from `africa-dpi-data.csv`, plus `url` from `all-nonstate.csv`, applied to a file whose frontmatter says `built_by: STATUS-INIT`.
+`STATUS-INIT.md` anticipates this — check A widens the set to the three bodies of evidence the process read — but nothing in the code knew that.
+**Fixed**: `scripts/status_lib.py` builds the three sets once and both checks use it, so they cannot drift into disagreeing about whether a link is real. `report-render.py` check G applies the widened set per file, keyed on the document actually being a baseline — the monthly and the progress report in the same folder keep the catalogue-only test, because they may cite nothing else. Verified: the status document reports `(baseline set)` and its siblings do not.
+
+**Bill sharpened the acquire rule with it** *(2026-08-15)*: the test is whether a source is **held**, not which intermediary carried it. A cited URL the catalogue does not resolve, dated 2024 or later, owes an acquire line; before 2024 it owes nothing; and a held source raises nothing whatever its route. That makes the acquire list derivable rather than remembered — the held/not-held split is set membership, so the checker reports the candidates.
 
 One correction to `STATUS-INIT.md` goes with it. Check A says every URL must appear "in `index/`", and the report layer no longer resolves through the index — `slug_urls()` reads the published catalogue.
 The two sets are near-identical (9,443 against 9,404) and the 39 extra are wiki concept pages carrying a `url:`, which are not sources and should not resolve. The catalogue is the right set and the sentence should name it.
 
-### 3. There is no verification tooling
+### 3. There is no verification tooling — *resolved 2026-08-15*
 
 Checks A, D, E, F and G are mechanical and checks B, C and I are close to it, but there is no `status-check.py` and nothing else in `scripts/` covers them.
 Check A in particular cannot be done by reading: a URL synthesised from a remembered pattern is indistinguishable from a real one by inspection, which is the entire reason the check exists.
 `STATUS-INIT.md` also requires it re-run after every edit pass rather than once at the end, which settles it — a check run that often has to be a script.
 
-Without this the first run has no way to pass its own gate, and a run that fails A, B or G is not issued.
+**Fixed**: `scripts/status-check.py --unit {ISO3}` implements A to G and I, plus a frontmatter-consistency check — a report that misstates its own source count is wrong in the place a reader is least likely to look. H prints the opening sentences under `--openings` and says plainly that it needs a reader rather than pretending to judge them. C is reported rather than gated, because no regex separates a law's section number from a measurement.
+
+Exercised against a synthetic baseline carrying one planted defect per check: all were caught, and the two legitimate *not established* sub-sections — one plain dated sentence, no link, by design — correctly did not trip check B.
 
 ## Worth doing before the first country, not after the tenth
 

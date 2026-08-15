@@ -107,10 +107,28 @@ Launched in a single batch so they run concurrently. **No extraction agent write
 
 **The better source wins, and neither intermediary gets a vote.** Judge on tier, in this order: primary over secondary, official over reported, canonical over syndicated, full text over excerpt, finer date precision over coarser. For a time-varying figure, the more recent of two sources of equal tier wins.
 
-Where the winning source arrived through the AfDB dataset rather than the wiki, the 2024 line is not about what the report may cite — the report cites it either way — but about **whether the wiki should have caught it**:
+**The test is whether the source is held, not which intermediary carried it** *(Bill, 2026-08-15)*. The 2024 line is not about what the report may cite — the report cites it either way — but about **whether the wiki should have caught it**, and a source the wiki already holds raises nothing whatever its date or its route. So the question is asked of the catalogue, and only of a URL the catalogue does not resolve:
 
-- **Dated before 2024** — state the fact, link the URL, and carry on. This is baseline material, outside the collection perimeter and outside OSINT's job. Nothing further is owed and no acquisition is raised.
-- **Dated 2024 or later** — state the fact, link the URL, **and write one line to `outputs/reports/{ISO3}/{ISO3}-acquire.md`**: the date, the publisher, the title, the URL, and the sub-section it served. Recent material is current-awareness material, which the daily flow exists to catch. A 2024-or-later source found here and not held there is a gap in the sweep, not a gap in the baseline, and that is what the line reports. Bill actions the file in an OSINT session.
+- **Held** — nothing is owed. It came through the daily flow or the vault has it anyway.
+- **Not held, dated before 2024** — state the fact, link the URL, and carry on. This is baseline material, outside the collection perimeter and outside OSINT's job. No acquisition is raised.
+- **Not held, dated 2024 or later** — state the fact, link the URL, **and write one line to `outputs/reports/{ISO3}/{ISO3}-acquire.md`**. Recent material is current-awareness material, which the daily flow exists to catch. A 2024-or-later source found here and not held there is a gap in the sweep, not a gap in the baseline, and that is what the line reports. Bill actions the file in an OSINT session.
+
+Framing it on *held* rather than on *arrived through the dataset* is what makes it checkable: the held/not-held split is set membership against the catalogue, which `status-check.py` performs, so the check reports the candidate list rather than the run having to remember where each fact came from.
+
+The acquire file is a table, so that it is readable in an OSINT session and parseable by check F:
+
+```
+---
+title: {Country} — sources found by STATUS-INIT and not held
+place: {ISO3}
+compiled: {date}
+built_by: STATUS-INIT
+---
+
+| Published | Publisher | Title | URL | Sub-section |
+| --- | --- | --- | --- | --- |
+| 2025-03-14 | Rwanda Ministry of ICT | National Data Policy | https://… | gov.policy |
+```
 
 **No disagreement is narrated.** The report states the established fact and its link. It does not say which source it preferred, that two sources differed, or that the dataset says otherwise. A reader who wants the argument can follow the link.
 
@@ -189,7 +207,11 @@ For reference, the volumes the fan-out is avoiding, measured as a single pass wi
 
 ## Verification
 
-- **A — every link is held.** Every URL in the output appears in `index/`, in `africa-dpi-data.csv` → `Source urls`, or in `all-nonstate.csv` → `url`. That is report-layer check G with the set widened to the three bodies of evidence this process read, which is the whole of what it read. Set membership is the only test that catches a URL synthesised from a remembered pattern, since such a link is indistinguishable from a real one by inspection. Re-run after every edit pass, never once at the end.
+**Run `python scripts/status-check.py --unit {ISO3}` — it implements A to G and I.** H needs a reader and says so; `--openings` prints every sub-section's first sentence for that reading. The checker also verifies the frontmatter counts against the document, because a report that misstates its own source count is wrong in the place a reader is least likely to check.
+
+- **A — every link is held.** Every URL in the output appears in `outputs/catalogue/raw-catalogue.csv`, in `africa-dpi-data.csv` → `Source urls`, or in `all-nonstate.csv` → `url`. That is report-layer check G with the set widened to the three bodies of evidence this process read, which is the whole of what it read. Set membership is the only test that catches a URL synthesised from a remembered pattern, since such a link is indistinguishable from a real one by inspection. Re-run after every edit pass, never once at the end. *(Corrected 2026-08-15: this said `index/`. The report layer resolves citations through the published catalogue — the table a reader can download — and has done since 2026-08-14; the index is what the catalogue is built from and is not the published set. The two differ by 39 wiki concept pages carrying a `url:`, which are not sources and must not resolve.)*
+
+  `report-render.py --check` applies the same widened set to a `built_by: STATUS-INIT` document, and only to that document — the monthly and the progress report in the same folder keep the catalogue-only test, because they may cite nothing else. One implementation, in `scripts/status_lib.py`, so the two checks cannot drift into disagreeing about whether a link is real.
 - **B — every claim is linked.** No sentence states a fact without a hyperlink on it or on the sentence before it.
 - **C — every time-varying figure is dated.**
 - **D — no `[[wikilink]]` survives into the output**, and no bare repo path.
@@ -197,7 +219,7 @@ For reference, the volumes the fan-out is avoiding, measured as a single pass wi
 - **F — every acquire line is dated 2024 or later** and carries date, publisher, title, URL and sub-section.
 - **G — no apparatus reached the page.** Grep the output for hedges and evidence-talk: *reportedly, apparently, it appears, sources indicate, according to available, it should be noted, however it is unclear, the data suggests, some sources, no source, the base, the dataset, the wiki, conflicting, discrepancy*. Any hit is rewritten or the claim is dropped.
 - **H — every sub-section opens on news.** The first sentence states something a reader who follows the country would not already know. A first sentence that defines a term, restates the question or leads with the oldest fact in the section is rewritten. This one needs a reader, not a grep.
-- **I — as-of honesty** (report-layer check J). The document's `compiled:` date is never ahead of its newest cited source.
+- **I — as-of honesty** (report-layer check J). The document is never *behind* its newest cited source, and the lag the other way is disclosed rather than judged. *(Corrected 2026-08-15: this said `compiled:` is never **ahead** of its newest cited source, which transcribed report-layer check J's reported half as though it were the gate. It cannot be one — a baseline compiled today from sources published last month is dated ahead of every one of them, which is the normal state of every status report ever written. Check J fails on the opposite direction and reports this one.)* Measured against the held half of the citations only: the AfDB dataset carries the year a value is true of, not the date its source was published.
 
 A run that fails A, B or G is not issued — A because a synthesised link is undetectable by eye, B and G because a report that hedges or talks about its own evidence has stopped being skimmable, which is the only thing it is for.
 

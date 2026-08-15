@@ -67,6 +67,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import status_lib  # noqa: E402
 import vault_lib  # noqa: E402
 
 ROOT = vault_lib.ROOT
@@ -113,19 +114,11 @@ def initialised(unit):
     Keeping `--doc all` meaning *all of this unit's documents* is what makes the existing callers
     — BUILD stage 4, `rebuild.py --reports` — safe without any of them knowing about this.
 
-    Read from the frontmatter only, never the body: a status report that happens to mention the
-    process by name in its prose is not thereby initialised."""
-    path = os.path.join(REPORTS, unit, f"{unit}-status.md")
-    try:
-        with open(path, encoding="utf-8") as fh:
-            text = fh.read(4096)
-    except OSError:
-        return False
-    if not text.startswith("---"):
-        return False
-    end = text.find("\n---", 3)
-    return bool(re.search(r"^built_by:\s*STATUS-INIT\s*$",
-                          text[3:end if end > 0 else len(text)], re.M))
+    The test itself is `status_lib.is_baseline()` — one implementation, because check G reads the
+    same property per file and two copies of "is this a baseline" would eventually disagree about
+    a document one of them then overwrites. It reads the frontmatter only, never the body: a status
+    report that happens to mention the process by name in its prose is not thereby initialised."""
+    return status_lib.is_baseline(os.path.join(REPORTS, unit, f"{unit}-status.md"))
 
 
 def issues(unit):
@@ -1002,18 +995,40 @@ def render_progress(unit, today, month, window, end=None):
 
 
 def check(unit):
-    """Check G — every URL in the rendered documents is held in index/ — and check I."""
+    """Check G — every URL in the rendered documents resolves — and checks I, J, L and M.
+
+    **The status baseline is tested against a wider set, and only the baseline** *(Bill,
+    2026-08-15)*. A document compiled from the wiki may cite only what the catalogue holds, which
+    is the whole of what BUILD read. `STATUS-INIT` also read the AfDB dataset and the finance
+    table, deliberately and by design — a baseline has to be able to say that a 1990 law is in
+    force, from a source the wiki will never hold — so testing its links against the catalogue
+    alone would fail a correct report on about 250 links per country and make the check useless
+    where it is most needed.
+
+    Widening the set does not weaken the test, because set membership is the property that matters:
+    a URL synthesised from a remembered pattern is not in *any* of the three, and is indistinguish-
+    able from a real one by inspection, which is the only reason this check exists. What would
+    weaken it is applying the wider set to the monthly and the progress report, so the widening is
+    per file and keyed on the document actually being a baseline."""
     held = set(slug_urls().values())
     held |= {link_target(u) for u in held}
     bad = 0
     folder = os.path.join(REPORTS, unit)
+    wider = None
     for fn in sorted(os.listdir(folder)):
         if not fn.endswith(".md"):
             continue
-        text = open(os.path.join(folder, fn), encoding="utf-8").read()
+        path = os.path.join(folder, fn)
+        text = open(path, encoding="utf-8").read()
         urls = set(re.findall(r"\]\((https?://[^)\s]+)\)", text))
-        miss = [u for u in urls if u not in held]
-        print(f"  {fn}: {len(urls)} links, {len(miss)} NOT HELD")
+        this = held
+        if fn.endswith("-status.md") and status_lib.is_baseline(path):
+            if wider is None:                       # loaded lazily: 17 MB, and only a baseline needs it
+                wider = held | status_lib.extra_urls()
+            this = wider
+        miss = [u for u in urls if u not in this]
+        note = " (baseline set)" if this is wider else ""
+        print(f"  {fn}: {len(urls)} links, {len(miss)} NOT HELD{note}")
         for u in miss:
             print("     NOT HELD:", u)
         bad += len(miss)
