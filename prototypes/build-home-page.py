@@ -35,7 +35,7 @@ from datetime import date
 from pathlib import Path
 
 CORPUS = Path(__file__).resolve().parent.parent
-UPSTREAM = CORPUS / "upstream"
+OUTPUTS = CORPUS / "outputs"
 OUT = CORPUS / "prototypes"
 SITE_BASE = "https://corpus.data-landscapers.com"
 
@@ -94,13 +94,13 @@ csv.field_size_limit(10 ** 9)
 
 def load_stats() -> dict:
     """Prefer the published nightly stats; count the catalogue if absent."""
-    published = UPSTREAM / "catalogue" / "stats.json"
+    published = OUTPUTS / "catalogue" / "stats.json"
     if published.exists():
         return json.loads(published.read_text(encoding="utf-8"))
 
     by_year, by_month, by_place, by_topic = Counter(), Counter(), Counter(), Counter()
     n = 0
-    with open(UPSTREAM / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig") as fh:
+    with open(OUTPUTS / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig") as fh:
         for row in csv.DictReader(fh):
             n += 1
             pub = (row.get("published") or "").strip()
@@ -359,7 +359,7 @@ def build() -> Path:
             "commitments, by country and sector",
             f"{s['documents']:,} records, metadata only")))
 
-    commit = (UPSTREAM / "BUILT-FROM").read_text(encoding="utf-8").strip()[:12]
+    commit = (CORPUS / "BUILT-FROM").read_text(encoding="utf-8").strip()[:12]
     doc = TEMPLATE.format(
         base=SITE_BASE, css=CSS, built=date.today().isoformat(), commit=commit,
         docs=f"{s['documents']:,}", cut=2022, cards=cards,

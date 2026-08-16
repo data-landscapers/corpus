@@ -12,7 +12,7 @@ Regions and Topics as heading, intro text and a box matrix each.
 
 **Where the numbers come from.** `REPO-STATUS.md` will write nightly counts
 into `outputs/catalogue/stats.json` (logs/notes-for-osint.md #8). Until it does,
-this reads `upstream/catalogue/raw-catalogue.csv` and counts the same things
+this reads `outputs/catalogue/raw-catalogue.csv` and counts the same things
 itself — `load_stats()` prefers the published file and falls back, so the
 page is right today and needs no rewrite when the file lands.
 
@@ -37,7 +37,7 @@ from datetime import date
 from pathlib import Path
 
 CORPUS = Path(__file__).resolve().parent.parent
-UPSTREAM = CORPUS / "upstream"
+OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 SITE_BASE = "https://corpus.data-landscapers.com"
 MAIN_SITE = "https://data-landscapers.com"
@@ -165,13 +165,13 @@ csv.field_size_limit(10 ** 9)
 
 def load_stats() -> dict:
     """Prefer the published nightly stats; count the catalogue if absent."""
-    published = UPSTREAM / "catalogue" / "stats.json"
+    published = OUTPUTS / "catalogue" / "stats.json"
     if published.exists():
         return json.loads(published.read_text(encoding="utf-8"))
 
     by_year, by_month, by_place, by_topic = Counter(), Counter(), Counter(), Counter()
     n = 0
-    with open(UPSTREAM / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig") as fh:
+    with open(OUTPUTS / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig") as fh:
         for row in csv.DictReader(fh):
             n += 1
             pub = (row.get("published") or "").strip()
@@ -451,7 +451,7 @@ def build() -> Path:
     by_place = s["by_place"]
     regional = sum(v for k, v in by_place.items() if k.startswith("X"))
 
-    commit = (UPSTREAM / "BUILT-FROM").read_text(encoding="utf-8").strip()[:12]
+    commit = (CORPUS / "BUILT-FROM").read_text(encoding="utf-8").strip()[:12]
     built = date.today().isoformat()
     this_year, this_month = built[:4], built[:7]
     doc = TEMPLATE.format(
@@ -479,5 +479,5 @@ def build() -> Path:
 if __name__ == "__main__":
     print(build())
     print("stats file the page will prefer, once REPO-STATUS writes it:")
-    print("  upstream/catalogue/stats.json")
+    print("  outputs/catalogue/stats.json")
     print(STATS_SHAPE)

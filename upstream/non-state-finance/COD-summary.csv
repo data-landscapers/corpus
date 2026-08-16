@@ -1,8 +1,0 @@
-﻿origin,unit,subject_slug,subject,2015/16,2018/19,2020/21,2021/22,2022/23,2023/24,2024,2024/25,2025/26,2026,2026/27,excluded_lines,excluded_usd_m
-non-state,US$m,infra.connect,Connectivity,30,19,,12,10,33,,,,,1634,,
-non-state,US$m,dpi.id,Digital Identity and CRVS,6,,,,,,,400,206,,,,
-non-state,US$m,dpi.govtech,Other GovTech and e-Gov,,,320,,,,,,,,,,
-non-state,US$m,dpi.pay,Digital Payments and Fintech,,,,,26,,,,,,,,
-domestic-state,US$m (IMF annual avg),dpi.govtech,Other GovTech and e-Gov,,,,,,,31,,,28,,,
-excluded,,nobase,no enacted baseline (⚠ no appropriated figure — revised/outturn only),,,,,,,,,,,,2,
-excluded,,scope,partial- or unclear-scope,,,,,,,,,,,,2,32

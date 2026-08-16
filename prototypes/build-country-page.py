@@ -36,7 +36,7 @@ from pathlib import Path
 import markdown
 
 CORPUS = Path(__file__).resolve().parent.parent
-UPSTREAM = CORPUS / "upstream"
+OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 OUT = CORPUS / "prototypes"
 
@@ -116,7 +116,7 @@ def editions(iso: str) -> list[dict]:
 
 
 def report_meta(iso: str, kind: str) -> dict:
-    for f in (UPSTREAM / "reports" / iso).glob(f"{iso}-{kind}*.md"):
+    for f in (OUTPUTS / "reports" / iso).glob(f"{iso}-{kind}*.md"):
         return frontmatter(f.read_text(encoding="utf-8"))
     return {}
 
@@ -126,7 +126,7 @@ def catalogue(iso: str) -> tuple[int, int, list[tuple[str, int]]]:
     publishers for the place."""
     n = total = 0
     pubs: dict[str, int] = defaultdict(int)
-    with open(UPSTREAM / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig") as fh:
+    with open(OUTPUTS / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig") as fh:
         for row in csv.DictReader(fh):
             total += 1
             if iso in (row.get("places") or ""):
@@ -137,13 +137,13 @@ def catalogue(iso: str) -> tuple[int, int, list[tuple[str, int]]]:
 
 
 def finance(iso: str) -> list[dict]:
-    with open(UPSTREAM / "non-state-finance" / f"{iso}-nonstate.csv",
+    with open(OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv",
               encoding="utf-8-sig") as fh:
         return list(csv.DictReader(fh))
 
 
 def built_from() -> str:
-    return (UPSTREAM / "BUILT-FROM").read_text(encoding="utf-8").strip()
+    return (CORPUS / "BUILT-FROM").read_text(encoding="utf-8").strip()
 
 
 # ── rendering ─────────────────────────────────────────────────────
@@ -406,7 +406,7 @@ COUNTRY = """<!DOCTYPE html>
     <p class="pubs">Most frequent publishers: {publishers}</p>
     <div class="table-acts">
       <a class="btn" href="catalogue-prototype.html#places={iso}">Browse {name} in the catalogue &rarr;</a>
-      <a class="btn" href="../upstream/catalogue/raw-catalogue.csv" download>&darr; Catalogue CSV</a>
+      <a class="btn" href="../outputs/catalogue/raw-catalogue.csv" download>&darr; Catalogue CSV</a>
     </div>
 
     <h2 class="section-heading">Non-state finance</h2>
@@ -417,7 +417,7 @@ COUNTRY = """<!DOCTYPE html>
 
     <div class="table-acts">
       <a class="btn" href="finance-{iso}.html">Full table &mdash; {fin_n} commitments, all {ncols} fields &rarr;</a>
-      <a class="btn btn--accent" href="../upstream/non-state-finance/{iso}-nonstate.csv" download>&darr; Download CSV</a>
+      <a class="btn btn--accent" href="../outputs/non-state-finance/{iso}-nonstate.csv" download>&darr; Download CSV</a>
     </div>
 
     <div class="callout">
@@ -476,7 +476,7 @@ FINANCE = """<!DOCTYPE html>
         <span class="dt-title">{name} &mdash; non-state finance</span>
         <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
         <span class="data-table-count" id="count">{fin_n} rows</span>
-        <a class="btn" href="../upstream/non-state-finance/{iso}-nonstate.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
+        <a class="btn" href="../outputs/non-state-finance/{iso}-nonstate.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
         <a class="btn" href="{iso}-nonstate-fields.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
       </div>
       <div class="data-table-scroll">
@@ -553,7 +553,7 @@ FINANCE = """<!DOCTYPE html>
 
 def build(iso: str) -> list[Path]:
     name, region = NAMES.get(iso, iso), REGION.get(iso, "")
-    meta = frontmatter((UPSTREAM / "reports" / iso / f"{iso}-status.md")
+    meta = frontmatter((OUTPUTS / "reports" / iso / f"{iso}-status.md")
                        .read_text(encoding="utf-8"))
     fin = finance(iso)
     cols = list(fin[0].keys())

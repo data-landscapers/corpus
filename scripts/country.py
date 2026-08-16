@@ -17,7 +17,7 @@ generalising from one country to all of them:
     carries the date, and link the "Read" button at the undated HTML
     permalink `render.py` now produces (Bill, 2026-08-11: report HTML has no
     date in it, so the page has a permanent URL).
-  - The two CSV downloads and the logo/CSS paths pointed at `../upstream/`
+  - The two CSV downloads and the logo/CSS paths pointed at `../outputs/`
     and `../build/`, which is fine for a prototype opened by double-click but
     wrong once this is deployed: GitHub Pages serves `site/` only
     (`.github/workflows/deploy.yml`). Each country's non-state-finance CSV is
@@ -49,7 +49,7 @@ from datetime import date
 from pathlib import Path
 
 CORPUS = Path(__file__).resolve().parent.parent
-UPSTREAM = CORPUS / "upstream"
+OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 OUT = SITE / "countries"
 CATALOGUE_DIR = SITE / "catalogue"
@@ -167,7 +167,7 @@ def editions(iso: str) -> list[dict]:
 
 
 def report_meta(iso: str, kind: str) -> dict:
-    for f in (UPSTREAM / "reports" / iso).glob(f"{iso}-{kind}*.md"):
+    for f in (OUTPUTS / "reports" / iso).glob(f"{iso}-{kind}*.md"):
         return frontmatter(f.read_text(encoding="utf-8"))
     return {}
 
@@ -177,7 +177,7 @@ def catalogue(iso: str) -> tuple[int, int, list[tuple[str, int]]]:
     publishers for the place."""
     n = total = 0
     pubs: dict[str, int] = defaultdict(int)
-    with open(UPSTREAM / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig") as fh:
+    with open(OUTPUTS / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig") as fh:
         for row in csv.DictReader(fh):
             total += 1
             if iso in (row.get("places") or ""):
@@ -191,7 +191,7 @@ def finance(iso: str) -> list[dict]:
     """Non-state commitments for the place, or [] if the base holds none —
     SDN currently has no `{ISO3}-nonstate.csv` at all, and an absent file is
     the same fact as an empty one from the page's point of view."""
-    f = UPSTREAM / "non-state-finance" / f"{iso}-nonstate.csv"
+    f = OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv"
     if not f.exists():
         return []
     with open(f, encoding="utf-8-sig") as fh:
@@ -199,7 +199,7 @@ def finance(iso: str) -> list[dict]:
 
 
 def built_from() -> str:
-    return (UPSTREAM / "BUILT-FROM").read_text(encoding="utf-8").strip()
+    return (CORPUS / "BUILT-FROM").read_text(encoding="utf-8").strip()
 
 
 # ── rendering ─────────────────────────────────────────────────────
@@ -319,7 +319,7 @@ def tracked(iso: str) -> tuple[str, str]:
     Measures are excluded, exactly as `report-render.py` excludes them: a measure moves but has no
     current state to inventory, so it is not a system or an instrument and the tile does not say
     it is."""
-    path = UPSTREAM / "reports" / iso / "ledger.csv"
+    path = OUTPUTS / "reports" / iso / "ledger.csv"
     if not path.exists():
         return "&mdash;", ""
     with open(path, encoding="utf-8-sig", newline="") as fh:
@@ -615,7 +615,7 @@ def ensure_catalogue_csv() -> None:
     reasoning applies equally here); one copy under site/catalogue/ is what
     the {base}/catalogue/ nav link already points a reader towards."""
     CATALOGUE_DIR.mkdir(parents=True, exist_ok=True)
-    src = UPSTREAM / "catalogue" / "raw-catalogue.csv"
+    src = OUTPUTS / "catalogue" / "raw-catalogue.csv"
     dst = CATALOGUE_DIR / "raw-catalogue.csv"
     if dst.exists():
         dst.unlink()
@@ -624,7 +624,7 @@ def ensure_catalogue_csv() -> None:
 
 def build(iso: str) -> list[Path]:
     name = FULL_NAMES.get(iso, iso)
-    meta = frontmatter((UPSTREAM / "reports" / iso / f"{iso}-status.md")
+    meta = frontmatter((OUTPUTS / "reports" / iso / f"{iso}-status.md")
                        .read_text(encoding="utf-8"))
     fin = finance(iso)
     n_place, n_all, pubs = catalogue(iso)
@@ -678,7 +678,7 @@ def build(iso: str) -> list[Path]:
             **common), encoding="utf-8")
         written.append(out_dir / "finance.html")
 
-        fin_csv = UPSTREAM / "non-state-finance" / f"{iso}-nonstate.csv"
+        fin_csv = OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv"
         dst = out_dir / f"{iso}-nonstate.csv"
         if dst.exists():
             dst.unlink()
@@ -700,7 +700,7 @@ def build(iso: str) -> list[Path]:
 def main() -> int:
     ensure_catalogue_csv()
     isos = sys.argv[1:] or sorted(
-        d.name for d in (UPSTREAM / "reports").iterdir()
+        d.name for d in (OUTPUTS / "reports").iterdir()
         if d.is_dir() and d.name in FULL_NAMES
     )
     for iso in isos:

@@ -24,7 +24,6 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 CORPUS = Path(__file__).resolve().parent.parent
-UPSTREAM = CORPUS / "upstream"
 OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 VOCAB = CORPUS / "outputs" / "vocab"
@@ -36,10 +35,10 @@ if hasattr(sys.stdout, "reconfigure"):
 
 
 def source_dir() -> Path:
-    for base in (UPSTREAM, OUTPUTS):
+    for base in (OUTPUTS,):
         if (base / "non-state-finance" / "all-nonstate.csv").exists():
             return base / "non-state-finance"
-    raise SystemExit("no all-nonstate.csv in upstream/ or outputs/ — run scripts/rebuild.py --finance")
+    raise SystemExit("no all-nonstate.csv in outputs/ — run scripts/rebuild.py --finance")
 
 
 def place_names() -> dict:

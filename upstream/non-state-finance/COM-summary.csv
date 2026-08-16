@@ -1,8 +1,0 @@
-﻿origin,unit,subject_slug,subject,2018/19,2024/25,2025,2025/26,2026,excluded_lines,excluded_usd_m
-non-state,US$m,infra.connect,Connectivity,93,,,27,,,
-non-state,US$m,dpi.govtech,Other GovTech and e-Gov,,,,7,,,
-non-state,US$m,gov.policy,"Strategies, plans and policies",,6,,,,,
-domestic-state,US$m (IMF annual avg),dpi.govtech,Other GovTech and e-Gov,,,0,,1,,
-domestic-state,US$m (IMF annual avg),tech.industry,ICT Industry,,,0,,0,,
-excluded,,nobase,no enacted baseline (⚠ no appropriated figure — revised/outturn only),,,,,,1,
-excluded,,scope,partial- or unclear-scope,,,,,,9,1

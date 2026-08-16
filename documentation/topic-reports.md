@@ -102,19 +102,19 @@ Step 2's loop and its coverage assertion must reach them. Both trees, one assert
 
 ```bash
 rendered=0; failed=0
-for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress.md upstream/reports/*/*-monthly.md \
-          upstream/topics/*/*-progress.md upstream/topics/*/*-monthly.md; do
+for md in outputs/reports/*/*-status.md outputs/reports/*/*-progress.md outputs/reports/*/*-monthly.md \
+          outputs/topics/*/*-progress.md outputs/topics/*/*-monthly.md; do
   [ -e "$md" ] || continue
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
 
-present=$(find upstream/reports upstream/topics -name '*.md' | wc -l)
+present=$(find outputs/reports outputs/topics -name '*.md' | wc -l)
 echo "rendered $rendered of $present report documents ($failed failed)"
 if [ "$rendered" -ne "$present" ]; then
   echo "RENDER ABORT: $((present - rendered)) document(s) did not render — do not deploy"
   [ "$failed" -gt 0 ] && echo "  $failed failed in render.py (see RENDER FAIL above)"
   echo "  and any listed below matched no pattern in the loop:"
-  find upstream/reports upstream/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
+  find outputs/reports outputs/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
 fi
 ```
 

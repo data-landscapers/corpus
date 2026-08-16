@@ -12,7 +12,7 @@ last_reviewed: 2026-08-13
 
 Corpus now **authors** its report and compile layer itself, in `outputs/` (see `documentation/migration-report-layer.md`). It is no longer a mirror pulled from OSINT.
 So the build no longer starts with `scripts/pull.py`. It starts from `outputs/`, which is already in the repo and committed.
-The existing renderers (`render.py`, `home.py`, `country.py`) were written to read `upstream/`. The quickest correct path is to make `upstream/` a copy of `outputs/` and run them unchanged; the durable path is to point them at `outputs/` directly. Step 1 gives both — do the copy now, do the repoint when there's time.
+The renderers read `outputs/` directly *(2026-08-16)*. They were written against `upstream/`, a mirror of `outputs/` that RENDER refreshed on every run; the repoint this file used to defer has been done and `upstream/` is deleted. There is no copy step and no second tree that can go stale.
 
 ## Prerequisites
 
@@ -31,19 +31,15 @@ git add -A && git diff --cached --quiet || git commit -m "Commit outstanding wor
 
 A no-op if the tree is already clean.
 
-## Step 1 — point the build at Corpus-owned outputs
-
-Quick path (zero code change): mirror `outputs/` into `upstream/`.
+## Step 1 — stamp the commit the site is built from
 
 ```bash
-robocopy outputs upstream /MIR /XF README.md /NFL /NDL /NP    # on *nix: rsync -a --delete --exclude README.md outputs/ upstream/
-git rev-parse HEAD > upstream/BUILT-FROM
-git add upstream && git commit -m "Point build at Corpus-owned outputs (mirror into upstream)"
+git rev-parse HEAD > BUILT-FROM
 ```
 
-`/XF README.md` is load-bearing: `/MIR` deletes anything in `upstream/` that is not in `outputs/`, and `upstream/README.md` — the notice saying nothing there is authored and edits are overwritten — is exactly such a file. An excluded file is not purged, so naming it keeps it. `BUILT-FROM` is also deleted by `/MIR` and immediately rewritten by the next line, which is why it needs no exclusion.
+`BUILT-FROM` sits at the repo root and records the Corpus commit this render was cut at; `render.py`, `home.py` and `country.py` read it and print it as the site's provenance stamp (`documentation/design.md` §8). One line, and it is the whole of what Step 1 used to do.
 
-Durable path (do later): in `scripts/render.py`, `scripts/home.py`, `scripts/country.py`, change the input constant from `upstream` to `outputs`, retire `scripts/pull.py` for the report/finance/catalogue layers, then delete `upstream/`. One repoint, no ongoing copy.
+*(Until 2026-08-16 this step mirrored `outputs/` into `upstream/` with `robocopy /MIR` and wrote `BUILT-FROM` there, because the renderers read that path. The repoint the old text deferred is done: every renderer reads `outputs/` directly and `upstream/` is gone. `scripts/pull.py` still writes an `upstream/` and is now orphaned — it belongs to the retired OSINT `outputs/` pull, not to this build.)*
 
 ## Step 2 — render every report to HTML + PDF
 
@@ -53,20 +49,20 @@ Durable path (do later): in `scripts/render.py`, `scripts/home.py`, `scripts/cou
 
 ```bash
 rendered=0; failed=0
-for md in upstream/reports/*/*-status.md upstream/reports/*/*-progress.md upstream/reports/*/*-monthly.md \
-          upstream/topics/*/*-progress.md upstream/topics/*/*-monthly.md; do
+for md in outputs/reports/*/*-status.md outputs/reports/*/*-progress.md outputs/reports/*/*-monthly.md \
+          outputs/topics/*/*-progress.md outputs/topics/*/*-monthly.md; do
   [ -e "$md" ] || continue
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
 
 # Coverage assertion: the patterns above must have reached every report document.
-present=$(find upstream/reports upstream/topics -name '*.md' | wc -l)
+present=$(find outputs/reports outputs/topics -name '*.md' | wc -l)
 echo "rendered $rendered of $present report documents ($failed failed)"
 if [ "$rendered" -ne "$present" ]; then
   echo "RENDER ABORT: $((present - rendered)) document(s) did not render — do not deploy"
   [ "$failed" -gt 0 ] && echo "  $failed failed in render.py (see RENDER FAIL above)"
   echo "  and any listed below matched no pattern in the loop:"
-  find upstream/reports upstream/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
+  find outputs/reports outputs/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
 fi
 ```
 
@@ -82,7 +78,7 @@ This replaces an earlier rule that skipped any monthly carrying an unwritten-nar
 python scripts/home.py            # -> site/index.html
 ```
 
-It reads catalogue counts from `upstream/catalogue/`. If `outputs/catalogue/stats.json` does not yet exist it falls back to counting `raw-catalogue.csv` — either is fine.
+It reads catalogue counts from `outputs/catalogue/`. If `outputs/catalogue/stats.json` does not yet exist it falls back to counting `raw-catalogue.csv` — either is fine.
 
 ## Step 4 — build the country, region and topic pages
 
@@ -91,13 +87,13 @@ python scripts/country.py         # every country -> site/countries/{ISO}/index.
 python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.html (+ Level-1 index pages)
 ```
 
-**`topic-page.py` runs after Step 2, not before it.** It writes the landing page each home-page topic box opens — the two documents, their periods and their dated PDFs — by reading what Step 2 actually rendered and what BUILD wrote into `upstream/topics/`. Run before the documents exist, it writes pages advertising nothing. It also writes an `index.html` for each of the ten Level-1 categories, which is what the *All {category}* box at the end of each sub-topic row opens; that page is an index of the topics beneath it and says plainly that it is not a report.
+**`topic-page.py` runs after Step 2, not before it.** It writes the landing page each home-page topic box opens — the two documents, their periods and their dated PDFs — by reading what Step 2 actually rendered and what BUILD wrote into `outputs/topics/`. Run before the documents exist, it writes pages advertising nothing. It also writes an `index.html` for each of the ten Level-1 categories, which is what the *All {category}* box at the end of each sub-topic row opens; that page is an index of the topics beneath it and says plainly that it is not a report.
 
 `country.py` builds the 54 country pages (those in `FULL_NAMES`). The 3 regions (XAF, XSA, XWA) publish as their rendered **progress** report sets from Step 2, linked under the home page's Regions section — they do not currently get a country-style page. If regions should get their own landing pages, that is a small extension to `country.py`, not a blocker for this render.
 
 ## Step 5 — build the catalogue page
 
-`scripts/catalogue.py` (promoted from the prototype) writes the browse-and-filter surface and publishes the full downloads. It reads `upstream/catalogue/raw-catalogue.json` (synced in Step 1) and the vocabularies snapshotted in `outputs/vocab/`.
+`scripts/catalogue.py` (promoted from the prototype) writes the browse-and-filter surface and publishes the full downloads. It reads `outputs/catalogue/raw-catalogue.json` and the vocabularies snapshotted in `outputs/vocab/`.
 
 ```bash
 python scripts/catalogue.py       # -> site/catalogue/index.html, catalogue-data.js, raw-catalogue.{csv,json}

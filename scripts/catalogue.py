@@ -9,7 +9,7 @@
 
 Promoted from `prototypes/catalogue-prototype.html` + `prototypes/build-catalogue-data.py`
 once the browse surface was agreed. It reads the catalogue Corpus builds itself
-(`upstream/catalogue/raw-catalogue.json`, mirrored from `outputs/`), packs the ten
+(`outputs/catalogue/raw-catalogue.json`), packs the ten
 browse fields into `catalogue-data.js`, and wraps the proven browse UI in the real
 site chrome (`scripts/country.py`'s header/nav/footer).
 
@@ -25,7 +25,6 @@ import csv, json, re, shutil, sys
 from pathlib import Path
 
 CORPUS = Path(__file__).resolve().parent.parent
-UPSTREAM = CORPUS / "upstream"
 OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 VOCAB = CORPUS / "outputs" / "vocab"
@@ -37,10 +36,10 @@ if hasattr(sys.stdout, "reconfigure"):
 
 
 def catalogue_dir() -> Path:
-    for base in (UPSTREAM, OUTPUTS):
+    for base in (OUTPUTS,):
         if (base / "catalogue" / "raw-catalogue.json").exists():
             return base / "catalogue"
-    raise SystemExit("no catalogue found in upstream/ or outputs/ — run scripts/rebuild.py --catalogue")
+    raise SystemExit("no catalogue found in outputs/ — run scripts/rebuild.py --catalogue")
 
 
 def vocab():

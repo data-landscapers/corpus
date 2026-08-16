@@ -28,9 +28,9 @@ Corpus *reads* OSINT freely: grep the tree, read any file, run read-only git com
 
 ## How data actually moves
 
-**Corpus pulls; OSINT never pushes.** `scripts/pull.py` reads OSINT's committed `HEAD` (never its working tree — a run in progress is simply uncommitted, so this is safe), diffs `outputs/` against the last SHA it built, checks the diff for leaked source bodies, and replaces `upstream/` wholesale. The OSINT path defaults to `C:\OSINT` and can be overridden with `$OSINT_PATH`.
+**Corpus authors its own `outputs/`** *(since the 2026-08-13 migration; `upstream/` deleted 2026-08-16)*. BUILD.md builds `outputs/` from OSINT's `raw/`, `wiki/` and `lookups/`, read-only. `scripts/pull.py` — which used to pull OSINT's own `outputs/` into an `upstream/` tree and replace it wholesale — is orphaned and is not part of the build.
 
-Then the renderers run over `upstream/` and write `site/`:
+Then the renderers run over `outputs/` and write `site/`:
 - `scripts/render.py` — one report (status / monthly / progress) → HTML + PDF, both from one template and one stylesheet, via WeasyPrint.
 - `scripts/home.py` — the home page, from catalogue counts.
 - `scripts/country.py` — one country page (or all 54), from report frontmatter, the PDFs already rendered, and the non-state-finance CSVs.
@@ -40,14 +40,13 @@ Then the renderers run over `upstream/` and write `site/`:
 ## Repo layout — one rule per folder, and the folder is the rule
 
 ```
-upstream/    pulled from OSINT outputs/, 1:1 — never hand-edited, overwritten wholesale by every pull
 scripts/     the compilers, renderers and templates — the authored code (was build/ pre-2026-08-13)
 site/        rendered artefacts, what is served — generated, overwritten by the next build
 prototypes/  disposable scaffolding, deleted once the real build fully replaces it
 documentation/design.md · logs/notes-for-osint.md · CLAUDE.md · documentation/workflow.md
 ```
 
-`upstream/` mirrors OSINT's `outputs/` exactly — no renaming, no reshaping. Any divergence would be a mapping that has to be kept in step by hand, which is exactly the kind of thing that silently rots.
+The renderers read `outputs/` directly, so there is no second tree and no mapping between two shapes. That was the point of removing `upstream/`: any divergence between a source tree and a mirror of it is a mapping that has to be kept in step by hand, which is exactly the kind of thing that silently rots.
 
 ## Design decisions already settled (don't relitigate without reason)
 

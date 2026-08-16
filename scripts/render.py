@@ -27,7 +27,6 @@ import markdown
 
 CORPUS = Path(__file__).resolve().parent.parent
 BUILD = CORPUS / "build"
-UPSTREAM = CORPUS / "upstream"
 SITE = CORPUS / "site"
 
 SITE_BASE = "https://corpus.data-landscapers.com"
@@ -91,7 +90,7 @@ def frontmatter(text: str) -> tuple[dict, str]:
 
 
 def built_from() -> str:
-    f = UPSTREAM / "BUILT-FROM"
+    f = CORPUS / "BUILT-FROM"
     return f.read_text(encoding="utf-8").strip() if f.exists() else "(unknown)"
 
 

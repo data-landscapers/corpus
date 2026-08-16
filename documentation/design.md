@@ -121,7 +121,7 @@ The cost is real and it compounds, because git does not forget a binary. At full
 *(Settled 2026-08-06.)*
 
 ```
-upstream/          pulled from OSINT outputs/, 1:1 — never hand-edited
+upstream/          pulled from OSINT outputs/, 1:1 — never hand-edited   [removed 2026-08-16]
   BUILT-FROM       the OSINT SHA this copy was taken from
   budgets/ catalogue/ non-state-finance/ reports/
 scripts/           the compilers, renderers and templates — the authored code (moved from build/ 2026-08-13)
@@ -129,6 +129,8 @@ site/              rendered artefacts: what is served
 prototypes/        disposable scaffolding (§5)
 documentation/design.md · logs/notes-for-osint.md · CLAUDE.md
 ```
+
+*(**`upstream/` no longer exists, 2026-08-16.** The 2026-08-13 migration made Corpus author `outputs/` itself, which left `upstream/` as a mirror of Corpus's own output tree that RENDER refreshed on every run — a second copy of a tree the renderers could read directly. It has been deleted and every renderer repointed at `outputs/`, which is the durable path `RENDER.md` Step 1 had been deferring. `BUILT-FROM` moved to the repo root and still does the job described above. What follows in this subsection is the reasoning for the pull as it stood, and is kept because the constraints it derives — mirror exactly, no reshaping, pull exhaustively and publish selectively — still govern how Corpus treats material it does not author. `scripts/pull.py` is orphaned by this and is not part of the build.)*
 
 **One rule per folder, and the folder is the rule.** `upstream/` is replaced wholesale by the pull, so an edit there is overwritten without warning. `site/` is generated, so an edit there is overwritten by the next build. `scripts/` is where code is authored (`build/` now holds only assets). This is OSINT's own `new/ → raw/` discipline — a file's folder is its state — applied to a repo where three different things write.
 
@@ -183,7 +185,7 @@ Someone whose reporting has been challenged usually needs all three, so the site
 
 Verification is then a single instruction anyone can follow: **hash your copy and find it in the manifest.** It works even if the file was renamed, it is machine-readable so the eventual API costs nothing extra, and because the manifest is itself tracked in git it carries its own tamper-evident history.
 
-**`osint_commit` is the column that matters most, and it is nearly free** — the build already records the SHA in `upstream/BUILT-FROM` (§8). Because `upstream/` is committed at every pull, naming the commit takes verification past *"yes, that is our file"* and down to *"and here is the exact state of the base it was derived from"*. Very little published in this field can do that.
+**`osint_commit` is the column that matters most, and it is nearly free** — the build already records the SHA in `BUILT-FROM` at the repo root (§8). Because `upstream/` is committed at every pull, naming the commit takes verification past *"yes, that is our file"* and down to *"and here is the exact state of the base it was derived from"*. Very little published in this field can do that.
 
 ### Provenance — URLs are permanent, and never reissued
 

@@ -1,8 +1,0 @@
-﻿origin,unit,subject_slug,subject,2015/16,2022/23,2024/2025,2025/2026,2026/2027,excluded_lines,excluded_usd_m
-non-state,US$m,dpi.govtech,Other GovTech and e-Gov,3,,,,,,
-non-state,US$m,gov.policy,"Strategies, plans and policies",,2,,,,,
-domestic-state,US$m (IMF annual avg),dpi.govtech,Other GovTech and e-Gov,,,128,109,120,,
-domestic-state,US$m (IMF annual avg),dpi.id,Digital Identity and CRVS,,,4,1,7,,
-domestic-state,US$m (IMF annual avg),dpi.exchange,Data Exchange,,,2,1,2,,
-excluded,,nobase,no enacted baseline (⚠ no appropriated figure — revised/outturn only),,,,,,4,
-excluded,,scope,partial- or unclear-scope,,,,,,4,130

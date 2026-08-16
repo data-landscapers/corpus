@@ -31,7 +31,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import vault_lib  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
-UPSTREAM = CORPUS / "upstream"
+OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 SITE_BASE = "https://corpus.data-landscapers.com"
 MAIN_SITE = "https://data-landscapers.com"
@@ -85,7 +85,7 @@ def edition_pdf(folder: Path, stem: str) -> str:
 
 
 def document_rows(slug_path: str) -> str:
-    src = UPSTREAM / "topics" / slug_path
+    src = OUTPUTS / "topics" / slug_path
     out = SITE / "topics" / slug_path
     rows = []
     for kind, label, blurb in KINDS:
@@ -237,7 +237,7 @@ def taxonomy_path() -> Path:
     stage 1 of the build snapshots the vocabularies into `outputs/vocab/` in the first place.
     `vault_lib.load_taxonomy()`'s default resolves to `ROOT/lookups/`, which does not exist here,
     so the path is passed rather than defaulted."""
-    for p in (UPSTREAM / "vocab" / "taxonomy.md", CORPUS / "outputs" / "vocab" / "taxonomy.md"):
+    for p in (OUTPUTS / "vocab" / "taxonomy.md", CORPUS / "outputs" / "vocab" / "taxonomy.md"):
         if p.exists():
             return p
     raise SystemExit("no taxonomy snapshot: run `python scripts/rebuild.py --vocab` first")
