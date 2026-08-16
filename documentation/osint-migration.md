@@ -3,14 +3,16 @@ type: doc
 title: OSINT migration — what CORPUS took over, and what OSINT now retires
 last_reviewed: 2026-08-16
 audience: OSINT (Bill, or a colleague's session run *in* OSINT)
-status: run in OSINT on 2026-08-16, except R9, which is withdrawn — the live instruction is documentation/osint-no-request-feed.md
+status: part-run in OSINT on 2026-08-16 (R1, R2, R3, R6, R8, R10 landed) — R7 and R11 still owed, R9 withdrawn; see documentation/osint-no-request-feed.md
 ---
 
 # OSINT migration — the retirement list
 
 *(Written from CORPUS, for OSINT. It briefs an OSINT session on what CORPUS has taken over and lists, as tasks, what OSINT should now retire. Action this **before** `notes-for-osint.md`, which assumes the boundary below is already in force. One line per paragraph, OSINT house style.)*
 
-*(**This list has been run** *(Bill, 2026-08-16)*, and is kept as the record of what moved and why. **Do not work it again.** One task did not survive contact: **R9 is withdrawn**, because an OSINT session cannot see `C:\CORPUS` and never needed to. Its replacement is `documentation/osint-no-request-feed.md`, which stands alone and is the only instruction here still owed an OSINT session. Everything below is verified against both trees as of 2026-08-16, which is where its file counts and dates come from.)*
+*(**Part-run on 2026-08-16, in one OSINT session.** Read against OSINT's `logs/log.md` and commits `992e50b8`…`3eef52e7`: **R10, R8, R1, R2, R3 and R6 have landed** — do not work those again. **R7 (the report-layer specs and scripts) and R11 (the entity pages) are still owed**, and R4 turned out to need no edit at all. **R9 is withdrawn**: `C:\CORPUS` is not reachable from the machine OSINT runs on, and the read was never needed. Its replacement, `documentation/osint-no-request-feed.md`, stands alone and should be run next. Everything below is verified against both trees as of 2026-08-16, which is where its file counts and dates come from.)*
+
+*(**Corrected 2026-08-16**: this note previously said the whole list had been run. It had not — that was recorded on a verbal summary and not checked. R7 and R11 were outstanding at the time of writing, and remain so.)*
 
 ## What CORPUS is
 

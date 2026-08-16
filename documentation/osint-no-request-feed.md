@@ -12,7 +12,9 @@ status: written in Corpus — to be actioned in an OSINT session
 
 ## Why
 
-OSINT's `CLAUDE.md` currently states the boundary with an exception in it: that OSINT reads CORPUS's request feed, `logs/requests-for-osint.csv`. **That exception was a design assumption and it is wrong.** An OSINT session cannot see `C:\CORPUS` at all — it is scoped to its own tree, which is the same isolation that keeps CORPUS out of OSINT, working in the other direction. The instruction asked for something the environment correctly refuses.
+OSINT's `CLAUDE.md` currently states the boundary with an exception in it: that OSINT reads CORPUS's request feed, `logs/requests-for-osint.csv`. **That exception was a design assumption and it is wrong.**
+
+**`C:\CORPUS` is not reachable from the machine OSINT runs on**, as the 2026-08-16 09:44 entry in `logs/log.md` already records: that session reaches OSINT over `\\bill-vivobook\OSINT`, and only that share and `\Users` are exposed. CORPUS is a directory on a different machine. This is topology, not a permission that could be granted, and **the repair is not to share the folder** — doing that would reopen a dependency that is being closed deliberately, for the reason below.
 
 It was also unnecessary, which is the better reason to drop it. The requests only ever needed to reach an OSINT *session*, and a file was one assumption about how. Bill runs both sides; he can hand the open requests to the session directly, the way any acquisition brief arrives. `ACQUIRE` already knows what to do with a brief.
 
@@ -28,7 +30,12 @@ Cut everything from *and reads only* onward, and close the sentence so it says O
 
 **Add nothing to `ACQUIRE`.** No step that reads a CORPUS path, no parser for `requests-for-osint.csv`. If an earlier session added one, remove it. *(Checked from CORPUS on 2026-08-16: `ACQUIRE.md` has no such step, so this is a confirmation rather than a repair.)*
 
-**Nothing else moves.** No sweep, no lint, no process file other than `CLAUDE.md`.
+**Correct the two briefs OSINT committed into its own `documentation/`.** Both predate this decision and both still instruct a reader to wire the feed, so a later session — or the Fable pass reviewing the migration — will otherwise act on them:
+
+- **`documentation/osint-migration.md`** — OSINT's copy is a snapshot taken before R9 was withdrawn. Three places still carry the exception: the boundary paragraph near the top (*"with one exception (the request feed, task R9)"*), **R9** itself, and **R10**'s quoted boundary sentence (*"reads only the R9 request feed"*). Strike R9 as withdrawn and correct the other two. CORPUS's copy is the authoritative one and is already corrected; this one only needs to stop contradicting it.
+- **`documentation/cc-reset-instructions-2026-08-16.md`** — item 1's boundary sentence carries the same clause, and **item 6 is R9 in full**. Strike item 6 and fix item 1.
+
+**Nothing else moves.** No sweep, no lint, no process file other than `CLAUDE.md` and those two briefs.
 
 ## How the requests reach OSINT instead
 
