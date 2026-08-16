@@ -31,7 +31,7 @@ That is the whole of the decision, and it is worth stating plainly because it ch
 
 ## Do it in this order
 
-The order is the safety property. Moving the files out first means that if the rewrite is abandoned halfway, the PDFs are already safe outside the repo and nothing is lost.
+The order is the safety property. Untracking the PDFs before the rewrite is what keeps them on disk through it — see P2.
 
 **P1 — Take a bundle first, and check it.**
 
@@ -42,17 +42,29 @@ git bundle verify ../osint-pre-purge.bundle
 
 This is the rollback. It is a single file holding the entire history as it stands, and it is the only thing that can undo P3. Keep it until P5 has passed and you are satisfied.
 
-**P2 — Move the PDFs out of the tree, and junction the store back in.**
+**P2 — Untrack the PDFs where they stand. Nothing moves.**
 
-This is the pattern `budget-archive/` already uses, so it is a known shape here rather than a new one. Move the PDF store to a sibling directory outside the repository, then junction it back so every existing path still resolves and nothing that reads `raw/` has to change.
+**Every PDF stays exactly where it is in `raw/`** *(Bill, 2026-08-16 — he works directly in `raw/` for his own writing and needs the source documents beside their records)*. This step changes what git does about them, not where they are.
 
-Do it with git's own listing rather than a hand-built loop — the filenames carry spaces, en-dashes and other non-ASCII, and a naive `for` loop over `ls` will mangle them:
+That rules out the `budget-archive/` pattern, and it should: a junction redirects a whole directory, and these PDFs are interleaved with the markdown records inside the year folders, so there is no directory to redirect that does not also take the records with it.
+
+Add `*.pdf` to `.gitignore`, then drop them from the index while leaving them on disk:
 
 ```bash
-git ls-files -z '*.pdf' '*.PDF' | xargs -0 -I{} echo {}
+git rm --cached -r --quiet -- '*.pdf' '*.PDF'
+git commit -m "Untrack PDFs; they stay in raw/ and are covered by the mirror"
 ```
 
-Confirm that list is 760 lines and is what you expect before moving anything.
+`--cached` is the whole of the safety here: it removes the files from git's index and touches nothing on disk.
+
+**This step must come before P3, and that is the order the operation depends on.** `git filter-repo` finishes with a hard reset, which would delete the PDFs from the working tree if they were still tracked at `HEAD`. Once they are untracked and ignored, the reset cannot see them and they survive it untouched.
+
+Confirm before continuing — 0 tracked, 747 still on disk under `raw/`:
+
+```bash
+git ls-files '*.pdf' '*.PDF' | wc -l
+find raw -iname '*.pdf' | wc -l
+```
 
 **P3 — Rewrite the history.**
 
@@ -84,13 +96,15 @@ du -sh .git
 git ls-files '*.pdf' '*.PDF' | wc -l
 ```
 
-Expect `.git` around 2.4–2.6 GB and a count of **0**. Then confirm the working tree still resolves: a sample of the moved PDFs should open through their original `raw/` paths via the junction.
+Expect `.git` around 2.4–2.6 GB and a count of **0**.
 
-Add `*.pdf` to `.gitignore` last, once the count is 0, so that a later capture does not quietly put the weight back.
+Then confirm nothing left the working tree — `find raw -iname '*.pdf' | wc -l` should still be **747**, and a sample should open from its original path. If that count has dropped, P2 was skipped or ran after P3; restore from the P1 bundle and start again.
 
 ## What is lost, and what is not
 
 **Lost:** the ability to recover a PDF from git history. From here a PDF exists in the working tree and in the mirror, and nowhere else.
+
+**Not changed: where the PDFs are.** They stay in `raw/`, beside the records they belong to, visible to anything that opens the folder. Nothing about working directly in `raw/` changes.
 
 **Not lost:** the records themselves. Every markdown record in `raw/` stays tracked and committed, including the frontmatter, the body and the `url:` that makes the source citable. The standing requirement that `raw/`, `lookups/` and `wiki/` stay git-tracked is about those records, and it is unaffected — what leaves is the attached binary, not the evidence.
 
