@@ -1,18 +1,18 @@
 ---
-title: Angola — progress report, 2025-08-01 to 2026-08-14
-compiled: 2026-08-14
-period: 2025-08-01 to 2026-08-14
+title: Angola — progress report, 2025-08-01 to 2026-08-16
+compiled: 2026-08-16
+period: 2025-08-01 to 2026-08-16
 place: AGO
 ledger_rows: 109
 not_held: 7
-record: c962a7363424
+record: cb00c16f92a0
 ---
 
-# Angola: progress report, 2025-08-01 to 2026-08-14
+# Angola: progress report, 2025-08-01 to 2026-08-16
 
-*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-16 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 109 systems and instruments on this place's ledger, 66 changed position between 2025-08-01 and 2026-08-14, 19 did not, 17 carry no stated baseline, and 7 are ***Not held*** at both ends.*
+*Of 109 systems and instruments on this place's ledger, 66 changed position between 2025-08-01 and 2026-08-16, 19 did not, 17 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 220 sources for this place in the window — 48 in the earlier half (2025-08 to 2026-01), 172 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -28,7 +28,7 @@ Twelve months ago Angola had no cybersecurity strategy, no cybersecurity council
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | 2Africa Angola branch | Not in service; the cable had berthed but the branch and landing station were still being built | [In service on a US$43m operator-built branch, with 23.6 Tbps of the cable's capacity allocated to Angola, replacing an end-of-life system and one at capacity](https://angop.ao/noticias/economia/unitel-invete-mais-de-40-milhoes-de-dolares-americano-em-fibra-optica/) | Advanced |
 | Digital terrestrial television transition | Did not exist as a financed project | [About US$10m of foreign financing modernising transmitters at three sites, motivated partly by disaster-alert broadcasting; no progress or switchover date published since](https://itweb.africa/article/angola-gets-10m-from-japan-for-dtt-project/KBpdgvpmlj17LEew) | Advanced |
@@ -44,7 +44,7 @@ Twelve months ago Angola had no cybersecurity strategy, no cybersecurity council
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Commercial data centre | Did not exist; the country had no Tier III commercial data centre | [Operating at up to 3 MW and more than 800 racks over 19,000 square metres on US$30m, near the cable landings, with a plan to exceed 7 MW within five years](https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/) | Advanced |
 | Government data centre | Under construction at about 75% complete, operation expected in the first half of 2026 | [Operating at 6,225 square metres, Tier III design, 208 racks and 1,040 kW live in a modular design of about 336-rack capacity, reported at about US$89m](https://angop.ao/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/) | Advanced |
@@ -53,14 +53,14 @@ Twelve months ago Angola had no cybersecurity strategy, no cybersecurity council
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Household access to electricity | 31.9% of households in the 2014 census | [48.6% of households at the 2024 census reference date, 68.9% urban and 8.5% rural](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf) | Advanced |
 | Power Sector Action Plan electrification target | A target of 60% electrification by 2025, from 47% in 2020, still open | [The target year passed, with the only later dated measure a different one and no electrification rate published since the 2020 baseline](https://www.afrobarometer.org/publication/ad664-lack-of-access-connection-to-the-electric-grid-still-plagues-most-rural-residents-in-angola/) | Stalled |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Cyber-security appropriation | Kz 70.5bn in the 2025 budget, about US$76.4m at the source's stated rate | [Kz 32.3bn in the 2026 budget, about US$35m, still the third-largest item inside the communications programme](https://pti.ao/oge-2026-executivo-reduz-verba-para-a-melhoria-da-posicao-no-indice-global-de-ciberseguranca/) | Regressed |
 
@@ -69,14 +69,14 @@ Three positions changed band. The international layer moved: a subsea branch ent
 
 Connectivity accreted detail rather than changing band. The market was mobile-led and concentrated then and is now; the fibre-kilometre record was already unreliable and is now demonstrably non-monotonic across five official statements from the same ministry; and fifth-generation standalone service has sat at tested-but-not-launched since March 2025.
 
-The domestic money went backwards while the international layer advanced. The communications programme was cut 30.5% for 2026, its fourth-generation expansion line by 42%, and its third-generation coverage rubric deleted; the cyber line was cut 54%. Energy is where the base has moved least: one new census figure of 48.6% household access against a 2025 electrification target of 60% whose year passed with no published outturn.
+The domestic money went backwards while the international layer advanced. The communications programme was [cut 30.5% for 2026, its fourth-generation expansion line by 42%, and its third-generation coverage rubric deleted](https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/); the [cyber line was cut 54%](https://pti.ao/oge-2026-executivo-reduz-verba-para-a-melhoria-da-posicao-no-indice-global-de-ciberseguranca/). Energy is where the base has moved least: one new [census figure of 48.6% household access](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf) against a [2025 electrification target of 60%](https://www.afrobarometer.org/publication/ad664-lack-of-access-connection-to-the-electric-grid-still-plagues-most-rural-residents-in-angola/) whose year passed with no published outturn.
 <!-- /narrative -->
 
 ## Digital public infrastructure
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Citizen-database interoperability commission | Did not exist | [A commission to stabilise civil-identification and adult-citizen database interoperability, biometrically de-duplicate, update residence and consolidate the electoral base, with a US$275m supplementary credit](https://novojornal.co.ao/politica/detalhe/pr-cria-comissao-liderada-pelo-ministro-de-estado-para-actualizar-dados-dos-cidadaos-maiores-com-prova-de-vida-que-passou-a-ser-obrigatoria-nos-periodos-pre-eleitorais-72374.html) | Advanced |
 | Logistics single window | Did not exist; the port, foreign-trade and customs platforms ran separately | [An integrated ecosystem to absorb three separate agency platforms into one, framed explicitly as a formalisation and tax-base instrument rather than trade facilitation](https://pt.linkedin.com/posts/arccla-angola-68b44027a_jul-vai-contribuir-para-diminui%C3%A7%C3%A3o-de-comerciantes-activity-7487902290780180480-sMdy) | Advanced |
@@ -84,7 +84,7 @@ The domestic money went backwards while the international layer advanced. The co
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | At-home identity-card service | Did not exist | [Kz 250,000 for at-home processing and Kz 10,000 for at-home delivery alone, on a 48-hour issuance target, with requests through a web portal and a messaging number](https://angop.ao/noticias/politica/ministerio-da-justica-lanca-servico-de-tratamento-do-bi-ao-domicilio/) | Advanced |
 | Biometric electronic passport | Did not exist | [Issued across all 21 provinces by end-March 2026 and to the diaspora from May 2026](https://www.novojornal.co.ao/sociedade/detalhe/passaporte-electronico-comeca-a-ser-emitido-em-todo-o-pais-no-final-deste-mes-garante-sme-70406.html) | Advanced |
@@ -95,7 +95,7 @@ The domestic money went backwards while the international layer advanced. The co
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Instant payment scheme | 35m transfers and Kz 590bn over 2025 across 22 banking and non-banking institutions | [Wallet-led and concentrated, with the largest wallet at 52.2% of transfers, more than 12.3m registered accounts and about 24.8m active payment keys, and 66.4% of transfers under Kz 10,000](https://angop.ao/noticias/economia/paypay-ultrapassa-1-6-milhoes-de-transferencias-mensais-no-kwik/) | Advanced |
 | Kwanza as a regional settlement currency | Not a settlement currency; the regional system had cleared in one currency since 2013 | [The second settlement currency in the system's history, against 2025 trade and interbank flows with the other fourteen member states of about US$3.77bn across nine currencies](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Advanced |
@@ -104,7 +104,7 @@ The domestic money went backwards while the international layer advanced. The co
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Birth registration coverage | 53.5% overall and 24.8% for children aged nought to four in the 2014 census | [63.0% overall and only 39.2% among children aged nought to four at the 2024 census reference date](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf) | Advanced |
 | Birth registration in maternity wards | Did not exist | [Registry posts in maternity wards so newborns leave registered and issued a first identity card, foreign-funded with UN support](https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/) | Advanced |
@@ -117,7 +117,7 @@ The domestic money went backwards while the international layer advanced. The co
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Education and research network | Did not exist | [A national education and research network presented alongside an executive roadmap for higher-education digital transformation](https://techafricanews.com/2026/05/14/angola-unveils-angoren-network-to-drive-higher-education-digital-transformation/) | Advanced |
 | Vaccination registry | In use for real-time individual vaccination registration | [Used in all national campaigns, with interoperability to the national health information system under development](https://angop.ao/noticias/saude/angola-reafirma-compromisso-com-a-inovacao-digital-no-sistema-de-saude/) | No change |
@@ -125,7 +125,7 @@ The domestic money went backwards while the international layer advanced. The co
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Digital transition agenda | 214 structuring projects | [218 structuring projects across six objectives and seven axes, coordinated by a modernisation institute under the presidency](https://angop.ao/noticias/economia/ministro-defende-reorganizacao-da-administracao-publica-para-modernizacao-do-estado/) | Advanced |
 | Mandatory electronic invoicing | Decreed but not in force, with the start date postponed | [Mandatory for large taxpayers and state suppliers, extending to all registered taxpayers within twelve months, on certified software with real-time transmission and a standard audit format; more than 500 packages registered and 21 certified](https://novojornal.co.ao/economia/detalhe/agt-comeca-a-aplicar-facturacao-electronica-em-1-de-janeiro-de-2026-68608.html) | Advanced |
@@ -133,20 +133,20 @@ The domestic money went backwards while the international layer advanced. The co
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Provincial document-management system | Did not exist | [Integrated document and archive management for one province with a citizen application for proposals and public-tender tracking, budgeting explicitly around weak internet and power](https://angop.ao/noticias/sociedade/cubango-prepara-transicao-da-administracao-analogica-para-digital-a-partir-de-2026/) | Advanced |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Census portal and statistics application | Did not exist; census results were available only as reports | [A public portal with demographic, social, economic and housing indicators by geographic level, plus a mobile application carrying macroeconomic series, built by the statistics office's own staff](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/) | Advanced |
 | National statistics development strategy | Did not exist | [A new strategy for the 2026 to 2032 cycle, widening the national statistical system](https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/) | Advanced |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Commercial access to the national satellite | In orbit and operated from a national control centre, government use only | [A commercial provider market open, with 37 firms in the commercial arm by April 2026 and a first private licence issued in July 2026](https://www.telecomreviewafrica.com/articles/general-news/13572-angola-launches-commercial-access-to-angosat-2-for-remote-connectivity/) | Advanced |
 | Earth-observation satellite | Financing signed at about EUR 225m in January 2025, with no build kicked off | [Under construction after a March 2026 kick-off, with first ground infrastructure delivered from June 2026 and a design of more than 1,000 high-resolution images a day](https://techreviewafrica.com/news/5427/angola-advances-angeo-1-earth-observation-programme-with-airbus-milestone-validation) | Advanced |
@@ -154,16 +154,16 @@ The domestic money went backwards while the international layer advanced. The co
 <!-- narrative: dpi -->
 Almost everything in this section is a new object rather than a moved one. The electoral proof-of-life operation, the single social register, at-home identity processing, deconcentrated printing, the census portal, the statistics strategy, the logistics single window and the electronic-signature authorisation all post-date the window's opening entirely, which is why so many rows carry "did not exist" rather than a prior position.
 
-Four things genuinely changed band: the government data centre and national cloud went from construction to inaugurated; the earth-observation satellite went from financed to building with a system milestone validated; the interoperability, key infrastructure, digital identity and cybersecurity backbone went from ambition to a signed US$150m contract on a twelve-month clock; and the kwanza went from outside the regional settlement system to being its second settlement currency.
+Four things genuinely changed band: the government data centre and national cloud went from construction to inaugurated; the earth-observation satellite went from financed to building with a system milestone validated; the interoperability, key infrastructure, digital identity and cybersecurity backbone went from ambition to a [signed US$150m contract on a twelve-month clock](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/); and the kwanza went from outside the regional settlement system to being its second settlement currency.
 
-What merely accreted detail is the identity card itself — the same credential on the same platform since 2017, now measured at 52.4% coverage and now proposed as the only legal one — and the transition agenda, whose only published movement is 214 projects becoming 218. The honest summary is that the architecture advanced fast and the base did not: the census that measured coverage, the 120,000 uncollected cards and the ministry's 3% first-quarter execution all fall inside the same twelve months as the contracts.
+What merely accreted detail is the identity card itself — the same credential on the same platform since 2017, now [measured at 52.4% coverage](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf) and now proposed as the only legal one — and the transition agenda, whose only published movement is [214 projects](https://angop.ao/noticias/sociedade/agenda-de-transicao-digital-de-angola-apresentada-nos-eua/) [becoming 218](https://angop.ao/noticias/economia/ministro-defende-reorganizacao-da-administracao-publica-para-modernizacao-do-estado/). The summary the evidence supports is that the architecture advanced fast and the base did not: the census that measured coverage, the [120,000 uncollected cards](https://angop.ao/noticias/politica/mais-de-120-mil-bilhetes-de-identidade-aguardam-levantamento-em-todo-o-pais/) and the ministry's [3% first-quarter execution](https://angop.ao/noticias/economia/estado-angolano-encaixa-receitas-de-9-36-bilioes-de-kwanzas-para-oge-2026/) all fall inside the same twelve months as the contracts.
 <!-- /narrative -->
 
 ## Governance and regulation
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Artificial intelligence bill | Did not exist | [An 86-article draft in nine chapters out for public consultation, with a single critical-AI category carrying registration, security-risk assessment and emergency-response duties rather than a tiered risk pyramid, extraterritorial reach over activity abroad affecting Angolan interests, a right to explanation and to refuse AI-based decisions, criminal and strict civil liability, and no repeal of existing legislation; no tabling, committee stage or vote on record](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf) | Advanced |
 | Cybersecurity bill | No cybersecurity law in force, and nothing held on a bill | [Approved in detail in joint committee by 23 votes to none with 10 abstentions, with the final global vote set for 2026-08-13; fines set as multiples of the national minimum wage, from 7 to 70 for individuals and 70 to 150 for legal persons on minor infractions up to 150 to 450 and 2,000 to 4,000 on very serious ones; no final vote, no promulgation, no gazette number and no entry into force](https://angop.ao/noticias/economia/lei-reforca-proteccao-de-instituicoes-contra-ataques-ciberneticos-ministro/) | Advanced |
@@ -175,7 +175,7 @@ What merely accreted detail is the identity card itself — the same credential 
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | National cybersecurity council | Did not exist | [Created as a consultative body chaired by the President; no source records it convening and no membership list is on file](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-258-25-de-03-de-dezembro/) | Advanced |
 | National cybersecurity strategy | None published | [In force, approved in Council of Ministers in October 2025 and signed in November, with six strategic objectives and a two-phase legislative reform whose first phase is the bill](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-256-25-de-03-de-dezembro/) | Advanced |
@@ -183,19 +183,19 @@ What merely accreted detail is the identity card itself — the same credential 
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Bilateral memorandum with a Lusophone regulator | No bilateral with any non-African regulator held | [In force, providing mutual assistance and technical, regulatory and supervisory cooperation](https://www.rapdp.org/en/node/231) | Advanced |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Artificial intelligence readiness score | ***Baseline not held*** | [50.9% of indicators fully ready, 32.7% partially ready and 16% insufficient, with data governance at 47 out of 100 and science-workforce availability at about 12%](https://pti.ao/unesco-conclui-que-angola-esta-preparada-para-adopcao-etica-e-inclusiva-da-ia/) | ***Baseline not held*** |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Amendment opening electoral data | Did not exist | [Rejected, leaving the citizen databases and the electoral registers closed to parties and citizens](https://angop.ao/noticias/politica/parlamento-rejeita-proposta-sobre-proteccao-de-dados-pessoais/) | Closed |
 | Published data-protection fines | A 2024 sanctions wave published, with no totals held | [Over Kz 600m across two firms, following two earlier fines divulged in September 2025](https://valoreconomico.co.ao/artigo/apd-aplica-multas-milionarias-a-empresas-por-armazenarem-informacoes-pessoais-sem-autorizacao) | Advanced |
@@ -217,20 +217,20 @@ The data-protection authority's own change is accretion on a position it already
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | AI supervisory or enforcement authority | Did not exist | [No authority exists; the draft artificial-intelligence law provides for a competent authority at article 61 and leaves its designation, powers and seat to a future regulation](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf) | Advanced |
 | Government AI assistant | ***Baseline not held*** | [A subscription web assistant pitched at student research, offered by an operator reporting seven million clients across five provinces](https://angop.ao/noticias/economia/africell-lanca-afrigpt-na-versao-web/) | ***Baseline not held*** |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Incumbent operator listing | Did not exist | [15% of capital and votes sold for Kz 300.3bn, reported as about US$329m, at 120.72% subscription, creating 11,264 new shareholders](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Innovation ranking | 133rd in 2024 | [138th of 139 economies, worse on outputs than inputs, with no cluster in the world's top innovation clusters](https://www.wipo.int/edocs/gii-ranking/2025/ao.pdf) | Regressed |
 | Public-finance innovation lab | Did not exist | [A finance-ministry innovation lab whose first proof of concept was qualified digital signatures in an internally built document system](https://techafricanews.com/2026/03/30/angola-launches-i-lab-to-accelerate-digital-transformation-of-public-finance/) | Advanced |
@@ -240,7 +240,7 @@ The data-protection authority's own change is accretion on a position it already
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | International wholesale partnership | Did not exist | [Combines the state cable company's three subsea systems with a US network of more than 300 metro markets and 386,000 km of fibre; no value, term or capacity commitment stated](https://itweb.africa/article/angola-cables-uniti-expand-connectivity/LPwQ5MlbngBvNgkj) | Advanced |
 | US cybersecurity and connectivity agreement | US$170m announced with a US$25m first phase, nothing built | [Unchanged; the first phase for a national cybersecurity agency and vendor training, plus an undersea cable, with no disbursement, contract or delivery on record in fourteen months](https://techafricanews.com/2025/06/25/cybastion-and-angola-telecom-announce-170m-investment-to-boost-angolas-digital-sovereignty/) | No change |
@@ -248,27 +248,27 @@ The data-protection authority's own change is accretion on a position it already
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Digital-health memorandum with a Chinese vendor | Did not exist | [A four-year scope covering training of about 38,000 health workers, more than 500,000 remote consultations, hospital digitisation, telemedicine and health artificial intelligence; no value, milestones or domestic financing stated](https://angop.ao/noticias/saude/angola-e-huawei-assinam-memorando-para-reforco-da-saude-digital/) | Advanced |
 | Vendor research and development centre | Did not exist | [Intention only, with location under evaluation and investment value undefined, paired with a pledge to train 7,000 people in artificial intelligence and emerging technologies by 2027](https://angop.ao/noticias/politica/huawei-vai-instalar-centro-de-pesquisa-e-desenvolvimento-em-angola-ate-2027/) | Advanced |
 
 ### India activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | India credit line | A US$200m defence credit line, with digital public infrastructure, space technology and capacity building a separate pledge carrying no money | [Unchanged; no contract, vendor or engagement on record, confirmed at a reconcile pass in July 2026](https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-the-joint-press-statement-with-the-president-of-angola/) | No change |
 
 ### Gulf/UAE activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Gulf digital memorandum | In force since December 2021, with the telecommunications ministry attributing the national cloud implementation project to it in February 2023 | [Unchanged; the agreed heads are a three-year digitalisation master plan, public-private-partnership and build-operate-transfer financing and youth digital skills, and no deliverable report, valuation or successor instrument has been published since 2023](https://minttics.gov.ao/ao/noticias/cloud-nacional-reforca-ecossistema-digital-do-pais/) | No change |
 
 <!-- narrative: ai-tech -->
-At the window's opening this section held foreign pledges and one bottom-of-table ranking: a US$170m cybersecurity agreement announced in June 2025, a package announced with India in May 2025, a Gulf memorandum from 2021, and no artificial-intelligence bill, readiness assessment or strategy.
+At the window's opening this section held foreign pledges and one bottom-of-table ranking: a [US$170m cybersecurity agreement announced in June 2025](https://techafricanews.com/2025/06/25/cybastion-and-angola-telecom-announce-170m-investment-to-boost-angolas-digital-sovereignty/), a package announced with India in May 2025, a Gulf memorandum from 2021, and no artificial-intelligence bill, readiness assessment or strategy.
 
-Angola acquired a legal and diagnostic layer where none existed, in an unusual order: a draft bill reviewed in December 2025, a readiness assessment delivered in June 2026 scoring 50.9% of indicators fully ready, and a national strategy confirmed in preparation in July 2026 — legislation, then diagnosis, then policy. The innovation scaffolding went from a memorandum to instruments: a startups law passed unanimously in March 2026, a technology park inaugurated in June, a public-finance innovation lab in March, and the first private-credit vehicle actually writing cheques.
+Angola acquired a legal and diagnostic layer where none existed, in an unusual order: a draft bill reviewed in December 2025, a [readiness assessment delivered in June 2026 scoring 50.9% of indicators fully ready](https://pti.ao/unesco-conclui-que-angola-esta-preparada-para-adopcao-etica-e-inclusiva-da-ia/), and a national strategy confirmed in preparation in July 2026 — legislation, then diagnosis, then policy. The innovation scaffolding went from a memorandum to instruments: a startups law passed unanimously in March 2026, a technology park inaugurated in June, a public-finance innovation lab in March, and the first private-credit vehicle actually writing cheques.
 
 The foreign layer is where nothing moved. The US agreement is where it was in June 2025 with nothing disbursed on record; the Indian thread is where it was in May 2025, and the wiki's own correction made it smaller rather than larger; the Gulf memorandum has not moved since 2021. The Chinese thread added two announcements, both intentions with no value, counterparty or build attached. Against all that, the two measures that would show the sector growing went the wrong way or stood still: the innovation rank fell from 133rd to 138th of 139, and nobody has published a startup count since a 2023 assessment of about 125 firms.
 <!-- /narrative -->
@@ -277,7 +277,7 @@ The foreign layer is where nothing moved. The US agreement is where it was in Ju
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Commercial satellite access programme | Did not exist | [A commercial access hub opened in December 2025, 37 firms in the integration process by April 2026, and a first startup licensed to resell access](https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/) | Advanced |
 | Universal service fund | On statute since 2010 and funded by 1% of telecom operators' gross revenue, with no accounts published | [Unchanged; the fund and its 1% levy remain on statute, it may make non-repayable grants for non-commercial universal-service expansion but is barred from subsidising operating costs, and no accounts, grant or disbursement have been published for any year](https://lex.ao/docs/presidente-da-republica/2010/decreto-presidencial-n-o-264-10-de-26-de-novembro/) | No change |
@@ -285,7 +285,7 @@ The foreign layer is where nothing moved. The US agreement is where it was in Ju
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Bancarisation rate | No official rate held; a 2023 industry figure put roughly half of the population unbanked | [About 32% of the population, 5.7 million citizens, in the banking system, targeting 36% and about eight million by 2027](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/) | Advanced |
 | Cash-transfer programme | A US$320m loan building the social registry and government-to-person rails, with more than 247,000 households reached against a 1.6 million family target | [More than 1.3 million households and about 6.5 million citizens reached, with a single social register now the centralised targeting database](https://angop.ao/noticias/sociedade/lancamento-do-cadastro-social-unico-marca-a-semana-social/) | Advanced |
@@ -294,14 +294,14 @@ The foreign layer is where nothing moved. The US agreement is where it was in Ju
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Vendor cybersecurity training commitment | US$25m of a US$170m investment earmarked for a national cybersecurity agency plus vendor academy training | [Unchanged; no trainee count, cohort, curriculum or disbursement published in the fourteen months since](https://techafricanews.com/2025/06/25/cybastion-and-angola-telecom-announce-170m-investment-to-boost-angolas-digital-sovereignty/) | No change |
 | Space-technology training and certification programme | ***Baseline not held*** | [More than 5,600 university students given free satellite access and more than 100 students in a Luanda cohort alongside operators and manufacturers](https://techreviewafrica.com/news/5761/over-5600-university-of-namibe-students-gain-free-internet-access-through-angosat-2) | ***Baseline not held*** |
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Statistical capacity project | A US$60m loan, active from 2022 to 2027, supporting statistics-office modernisation, household surveys and dissemination | [Unchanged; no disbursement, restructuring or results figure on file](https://projects.worldbank.org/en/projects-operations/project-detail/P178043) | No change |
 | Science and technology park | ***Baseline not held*** | [Inaugurated under a US$100m development-bank science and technology project, intended to link academia, research, companies and young entrepreneurs](https://itweb.africa/article/angola-launches-luanda-technology-park/8OKdWqDX2nRqbznQ) | ***Baseline not held*** |
@@ -309,7 +309,7 @@ The foreign layer is where nothing moved. The US agreement is where it was in Ju
 <!-- narrative: inclusion -->
 At the window's opening this section was almost entirely externally financed and almost entirely unmeasured. Two things changed on the inclusion side.
 
-Measurement arrived. The census definitive results of November 2025 put identity-card coverage at 52.4% and birth registration at 63%, replacing a qualitative diagnostic from 2023.
+Measurement arrived. The [census definitive results of November 2025 put identity-card coverage at 52.4% and birth registration at 63%](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf), replacing a qualitative diagnostic from 2023.
 
 The institutional layer filled in: a financial inclusion strategy in December 2025, a startups law in March 2026, a research network in May, a technology park and a readiness assessment in June, none of which existed a year ago.
 
@@ -320,7 +320,7 @@ What merely accreted detail is the satellite-inclusion story, which has produced
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Civil registration and local governance project | US$250m of financing launched in 2023 across eight provinces and 53 municipalities | [Eleven birth-registration posts rehabilitated in one province with five operating since August 2025, thirteen more nearing completion in another, and mass registration campaigns reaching several thousand people](https://angop.ao/noticias/sociedade/njila-reabilita-postos-de-registos-de-nascimento-no-bie-e-huambo/) | Advanced |
 | Digital acceleration project | A US$300m loan signed 2024-10-11 and effective from 2025-05-08 after a 90-day extension, with US$0 disbursed against it and both World Bank ratings cut to Moderately Unsatisfactory in April 2025 | [US$112.21m of the US$300m disbursed at 10 June 2026, 37.40%, with both World Bank ratings lifted to Moderately Satisfactory and every project outcome indicator reading 0 as at 30 April 2026 against March 2030 targets of 13,500,000 people using broadband internet, 10,000,000 with digitally verifiable identification, 100,000 trained through digital literacy programmes and 400 firms adopting digital technologies; the steering committee separately reports a national broadband stock of 14,743,807 rising to 19.7 million by 2030](https://angop.ao/noticias/politica/projecto-de-aceleracao-digital-abrange-10-milhoes-de-pessoas/) | Advanced, no outcome delivered |
@@ -328,7 +328,7 @@ What merely accreted detail is the satellite-inclusion story, which has produced
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-16 | Movement |
 |---|---|---|---|
 | Communications programme appropriation | Kz 229.3bn appropriated for 2025 | [Kz 159.2bn appropriated for 2026, of which fourth-generation expansion is Kz 62.7bn, down 42%, with the third-generation coverage line deleted](https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/) | Regressed |
 | Supplementary credit for identity-card universalisation | Did not exist | [US$218,500,000 of supplementary credit assigned to the justice ministry, released against payment need and treasury availability](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-169-25-de-19-de-setembro/) | Advanced |
@@ -336,7 +336,7 @@ What merely accreted detail is the satellite-inclusion story, which has produced
 | Ministry budget execution | None published; the wiki held no released, actual or audited line for any digital stem | [3% first-quarter execution, with 20 of 50 programmes below 5%](https://angop.ao/noticias/economia/estado-angolano-encaixa-receitas-de-9-36-bilioes-de-kwanzas-para-oge-2026/) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-Domestic money became the period's dominant story, and all of it sits outside the digital ministry's own vote. Three supplementary credits carry the weight — US$218.5m for identity-card universalisation in September 2025, US$275m for the citizen-database update in February 2026, and US$150m for the interoperability build in June 2026 — while the ministry's own communications programme was cut 30.5% over the same period. The first per-organ execution table gave the ministry's own budget execution a number for the first time — 3% in the first quarter of 2026 — where the wiki had previously recorded no computable rate.
+Domestic money became the period's dominant story, and all of it sits outside the digital ministry's own vote. Three supplementary credits carry the weight — [US$218.5m for identity-card universalisation in September 2025](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-169-25-de-19-de-setembro/), [US$275m for the citizen-database update in February 2026](https://www.novojornal.co.ao/economia/detalhe/pr-manda-abrir-credito-adicional-suplementar-de-275-milhoes-usd-no-oge2026-para-o-mat-e-duplica-dotacao-do-ministerio-70083.html), and [US$150m for the interoperability build in June 2026](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/) — while the ministry's own [communications programme was cut 30.5%](https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/) over the same period. The first per-organ execution table gave the ministry's own budget execution a number for the first time — [3% in the first quarter of 2026](https://angop.ao/noticias/economia/estado-angolano-encaixa-receitas-de-9-36-bilioes-de-kwanzas-para-oge-2026/) — where the wiki had previously recorded no computable rate.
 <!-- /narrative -->
 
 ## Where the record is thin

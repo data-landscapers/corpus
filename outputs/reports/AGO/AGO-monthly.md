@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-16
 place: AGO
 ledger_rows: 32
 not_held: 7
-record: e52a81f625b9
+record: 19be4a373210
 ---
 
 # Angola: monthly update, July 2026
@@ -23,7 +23,7 @@ A nine-day national mobile outage from 28 July dominated the month and tested an
 ### Connectivity
 
 <!-- narrative: infrastructure--infra-connect -->
-On 23 July a state-owned telecoms arm commercially launched an enterprise fifth-generation service in Cabinda at about US$20m, with a stated ambition of every provincial capital by 2027 — the operator's own figures.
+On 23 July a state-owned telecoms arm [commercially launched an enterprise fifth-generation service in Cabinda at about US$20m, with a stated ambition of every provincial capital by 2027](https://angop.ao/en/noticias/economia/filda-2026-servico-5g-empresarial-da-mercury-chega-a-provincia-de-cabinda/) — the operator's own figures.
 <!-- /narrative -->
 ### Data Storage
 
@@ -119,7 +119,7 @@ The month's technology events were financial and commercial rather than industri
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-Satellite-based inclusion produced two counts eight days apart on different bases: 20,000 students across six universities and more than 300 localities on 13 July, and 3,972 students at two Luanda schools connected by satellite and white-space on 14 July.
+Satellite-based inclusion produced two counts eight days apart on different bases: [20,000 students across six universities and more than 300 localities on 13 July](https://angop.ao/noticias/economia/vinte-mil-estudantes-beneficiam-do-projecto-conecta-angola/), and [3,972 students at two Luanda schools connected by satellite and white-space on 14 July](https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project).
 <!-- /narrative -->
 ### Access to services
 
