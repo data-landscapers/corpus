@@ -898,7 +898,7 @@ def render_monthly(unit, today, month, end=None):
 def render_progress(unit, today, month, window, end=None):
     """Progress — the movement ledger over a window, prior_* against current.
 
-    It is the only one of the three that can honestly say nothing changed, and it must be willing
+    It is the only one of the three that can truthfully say nothing changed, and it must be willing
     to. A ***Not held*** row has no position at either end, so it is counted rather than tabled."""
     folder, ledger, gaps = load(unit)
     if not ledger:

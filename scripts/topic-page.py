@@ -270,7 +270,7 @@ def main() -> int:
         # `--fill:0` is not decoration: `.sbox`'s background is
         # `color-mix(… calc(var(--fill) * 12%) …)`, so an unset `--fill` makes the whole
         # declaration invalid and the box renders with no background at all. These boxes carry
-        # no count to scale, so zero is the honest value as well as the working one.
+        # no count to scale, so zero is the accurate value as well as the working one.
         boxes = "\n".join(
             f'      <a class="sbox" href="../{s.replace(".", "-")}/" title="{s}"'
             f' style="--fill:0">'

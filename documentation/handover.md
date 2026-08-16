@@ -85,7 +85,7 @@ This file is the *only* channel for getting a change made in OSINT from a Corpus
 - Nothing outside `outputs/` is ever read by the build.
 - A catalogue slug is a permanent public identifier and must never be reissued once the site is live.
 
-As of 2026-08-12 there are 9 open numbered notes (1–9) — worth reading in full, but two are worth flagging by name: **#6** is a live data-integrity discrepancy (Kenya's ledger count disagrees across three files — 171 rows in the CSV vs. 146/169 in different frontmatter) that has to be resolved before *Not held* counts go on a public page, since that's meant to be the site's signature honesty feature. **#9** is that the site currently hand-duplicates two OSINT vocabularies (country names, topic labels) because it isn't allowed to read outside `outputs/` — a maintenance risk if either vocabulary changes upstream.
+As of 2026-08-12 there are 9 open numbered notes (1–9) — worth reading in full, but two are worth flagging by name: **#6** is a live data-integrity discrepancy (Kenya's ledger count disagrees across three files — 171 rows in the CSV vs. 146/169 in different frontmatter) that has to be resolved before *Not held* counts go on a public page, since that's meant to be the site's signature disclosure feature. **#9** is that the site currently hand-duplicates two OSINT vocabularies (country names, topic labels) because it isn't allowed to read outside `outputs/` — a maintenance risk if either vocabulary changes upstream.
 
 ## Working conventions
 

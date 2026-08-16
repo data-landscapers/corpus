@@ -47,7 +47,7 @@ If it does, it was landed by commit **`759f6492`** — *"R9: wire ACQUIRE and th
 
 `git revert 759f6492` is the fast path **only** with `logs/log.md` excluded, and note that R7 (`1d83c41c`) landed afterwards and also touched `wiki/index.md`, so expect a conflict there. Reverting the two process files and the two index rows by hand is the safer route.
 
-Both process files carry an honest flag, written by the session that wired them, saying `C:\CORPUS` was unreachable and the steps could not be tested. Those come out with the steps they annotate.
+Both process files carry an explicit flag, written by the session that wired them, saying `C:\CORPUS` was unreachable and the steps could not be tested. Those come out with the steps they annotate.
 
 Also check `reviews/acquisitions.md`: if any row was appended citing a `CORPUS row_id`, remove it. Nothing was reachable to read, so there should be none.
 

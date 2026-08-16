@@ -22,7 +22,7 @@ coverage, not documents, and the caveat travels with them on the page.
 
 Country and topic boxes link to `{SITE_BASE}/countries/{ISO3}/` and
 `{SITE_BASE}/topics/{slug-with-hyphens}/` regardless of whether those pages exist yet —
-pull exhaustively, publish selectively (documentation/design.md §8): the box is honest
+pull exhaustively, publish selectively (documentation/design.md §8): the box is accurate
 about what the base holds even before the page that would serve it is
 written.
 """
@@ -203,7 +203,7 @@ def country_boxes(by_place: dict[str, int]) -> str:
     """Shaded by volume, so an uneven base looks uneven at a glance rather than
     presenting as even coverage. Every box links to its country page whether or
     not that page is built yet (documentation/design.md §8: pull exhaustively, publish
-    selectively) — a live link that 404s until the page lands is honest about
+    selectively) — a live link that 404s until the page lands is accurate about
     what the base holds; hiding it would not be. Labelled with the short name
     (Bill, 2026-08-11); the ISO3 survives as a `title` attribute. Sorted by
     that displayed name, not the code (Bill, 2026-08-11) — a code-sorted grid

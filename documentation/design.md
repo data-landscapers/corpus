@@ -60,7 +60,7 @@ One of the seven does not exist yet: the **topic report layer** is unwritten —
 
 These are what distinguish the site from every other Africa-digital dashboard. They are cheap, because the base already holds what they need.
 
-**Not held is a counted, visible number.** Eight of Algeria's ninety-nine tracked items. Publishing your own gaps says the base knows the difference between *no* and *we don't know*, and it makes depth-on-demand self-documenting: a thin country looks honestly thin rather than neglected.
+**Not held is a counted, visible number.** Eight of Algeria's ninety-nine tracked items. Publishing your own gaps says the base knows the difference between *no* and *we don't know*, and it makes depth-on-demand self-documenting: a thin country looks accurately thin rather than neglected.
 
 **Every figure is one click from its source record.** Already true in the data and true almost nowhere else. Made visible, it answers *where did that number come from* — which is the question the whole project exists to be able to answer.
 

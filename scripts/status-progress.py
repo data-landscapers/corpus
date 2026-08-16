@@ -15,7 +15,7 @@ script does not own, so a note against a country survives regeneration — which
 file a worksheet rather than a report.
 
 Rows are ordered by evidence volume, heaviest first, so the file doubles as the run order: the plan
-is big ones first, and the honest measure of "big" is how much compiled evidence a country has, not
+is big ones first, and the right measure of "big" is how much compiled evidence a country has, not
 its population or its GDP. NGA is 348KB across fourteen intersections; MRT is 12KB across two.
 """
 

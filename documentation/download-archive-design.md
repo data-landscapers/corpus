@@ -65,7 +65,7 @@ The **sole-door** property is what makes "only keep what was wanted" true by con
 
 Your outstanding CSV-dates work is not a side-quest — it's the gate for the CSV half. A downloaded CSV is only citable if it's a **frozen, dated edition**, the same discipline the PDFs already carry (build-date in the filename, a new edition only when content changes). "Add dates to the CSVs" is really "make the CSVs editions"; until they are, there's nothing stable for the archive to freeze.
 
-## What it costs, honestly weighed
+## What it costs, fully weighed
 
 - **A dependency the static site doesn't have today.** The gateway must stay up or downloads break. That's the real charge against the current no-server simplicity. A Cloudflare Worker + R2 is about as low-ops as a backend gets, but it is still a backend, and the sole-door design means a gateway outage is a *download* outage.
 - **Awareness is *initiated*, not *completed*** — you learn a download started, not that it finished or was used. Fine here, worth not over-reading.

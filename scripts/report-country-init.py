@@ -10,7 +10,7 @@ the tree, exactly as `new/ -> raw/` carries its own state.
 Say how many places you have time for and it takes that many off the top of the outstanding
 list, deepest base first, creates each shell, and prints the work order the run needs before
 it reads anything: how much the base holds, how it is distributed over the last fourteen
-months (the coverage cliff that decides whether a period comparison can honestly be
+months (the coverage cliff that decides whether a period comparison can credibly be
 promised), which intersection pages exist, and which subjects have substantive coverage
 mapped to their report sections.
 
