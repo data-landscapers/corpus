@@ -3,14 +3,14 @@ type: doc
 title: OSINT migration — what CORPUS took over, and what OSINT now retires
 last_reviewed: 2026-08-16
 audience: OSINT (Bill, or a colleague's session run *in* OSINT)
-status: written in Corpus — to be actioned in an OSINT session (logs/notes-for-osint.md)
+status: run in OSINT on 2026-08-16, except R9, which is withdrawn — the live instruction is documentation/osint-no-request-feed.md
 ---
 
 # OSINT migration — the retirement list
 
 *(Written from CORPUS, for OSINT. It briefs an OSINT session on what CORPUS has taken over and lists, as tasks, what OSINT should now retire. Action this **before** `notes-for-osint.md`, which assumes the boundary below is already in force. One line per paragraph, OSINT house style.)*
 
-*(**Read Sequencing first — the list is not in the order it should be done in.** Two tasks come before R1. Every ruling this list was waiting on has now been made, so nothing below is an open question for an OSINT session to decide. Verified against both trees on 2026-08-16, which is where the file counts and dates below come from.)*
+*(**This list has been run** *(Bill, 2026-08-16)*, and is kept as the record of what moved and why. **Do not work it again.** One task did not survive contact: **R9 is withdrawn**, because an OSINT session cannot see `C:\CORPUS` and never needed to. Its replacement is `documentation/osint-no-request-feed.md`, which stands alone and is the only instruction here still owed an OSINT session. Everything below is verified against both trees as of 2026-08-16, which is where its file counts and dates come from.)*
 
 ## What CORPUS is
 
@@ -22,7 +22,7 @@ Until 2026-08-13 CORPUS was a **mirror**: it pulled OSINT's `outputs/` and rende
 
 **OSINT collects and classifies. CORPUS compiles, reports, and analyses.**
 
-CORPUS reads OSINT **read-only** — `raw/`, `lookups/` and the internal `wiki/`, and *not* `index/`, which it builds for itself — and writes only into its own tree. It never writes to OSINT, in any form. OSINT does not read CORPUS, and gains no publication step in its night, with one exception (the request feed, task R9).
+CORPUS reads OSINT **read-only** — `raw/`, `lookups/` and the internal `wiki/`, and *not* `index/`, which it builds for itself — and writes only into its own tree. It never writes to OSINT, in any form. **OSINT does not read CORPUS at all**, and gains no publication step in its night. *(Corrected 2026-08-16: this named one exception, the request feed of task R9. There is none — an OSINT session cannot see `C:\CORPUS`, and does not need to. R9 is withdrawn.)*
 
 CORPUS runs as two jobs on Bill's machine: **BUILD** (OSINT evidence → CORPUS `outputs/`) and **RENDER** (`outputs/` → the site). BUILD's compiles are pure functions of `raw/`; its report-update stage is a model pass; RENDER produces the site and backs both repos up (`mirror.bat`, which reads OSINT read-only).
 
@@ -72,13 +72,15 @@ Once R1 and R2 stop producing them, the reports and the catalogue are read by no
 
 There is no longer an independent-OSINT-backup option to weigh: **all backups are CORPUS's**, which is why this task is unconditional.
 
-**R9 — Wire the request feed (the only OSINT-ward channel).** CORPUS writes a machine-readable `logs/requests-for-osint.csv` — gaps and named documents a report needs, that OSINT's sweeps should chase. Give `ACQUIRE` (and the deep/country sweeps) a step that reads it and takes each request as a brief; what they fetch lands in `raw/` the ordinary way, and CORPUS's next scan settles the gap. This replaces the CORPUS-side half of the old report→gaps→acquire loop.
+**R9 — Withdrawn. Do not wire the request feed.** *(Bill, 2026-08-16. Superseded by `documentation/osint-no-request-feed.md`, which stands alone and is the only part of this file still to be actioned.)*
 
-**The contract, since OSINT has to code against it.** The file is `C:\CORPUS\logs\requests-for-osint.csv`, columns `raised,unit,row_id,name,subject,type,request,url,status`. **OSINT reads it and never writes it** — this is the single exception to *OSINT does not read CORPUS*, and it stays one-way, so a request is closed by CORPUS's next scan finding the record in `raw/` and not by OSINT marking the row. It holds a header and one empty record today, so land a real request in it before wiring `ACQUIRE` against it; otherwise there is nothing to test the step on.
+This task asked `ACQUIRE` to read `C:\CORPUS\logs\requests-for-osint.csv` and take each row as a brief, as the one exception to *OSINT does not read CORPUS*. **An OSINT session cannot see `C:\CORPUS`** — it is scoped to its own tree, by the same isolation that keeps CORPUS out of OSINT — so the instruction asked for something the environment correctly refuses. It was also unnecessary: the requests only ever needed to reach an OSINT *session*, and Bill runs both sides, so he hands them over as the session's brief and `ACQUIRE` treats them as it treats any other.
+
+The consequence reaches R10, whose boundary sentence was written with the exception in it and has already landed in OSINT's `CLAUDE.md`. Correcting that is the whole of the superseding file: the boundary loses its exception rather than gaining a workaround. CORPUS still writes `logs/requests-for-osint.csv`, now purely as its own record of what its reports are missing.
 
 **R10 — Update the vault's own docs — but the boundary statement goes first, not last.** This task splits in two, and only one half belongs at the end.
 
-**The boundary into `CLAUDE.md` before anything else on this list.** OSINT's `CLAUDE.md`, `SWEEP-CYCLE.md` and `ACQUIRE.md` mention CORPUS nowhere at all today — the word does not appear in any of them. Until that sentence lands, every OSINT session opens under the pre-migration model with nothing to anchor this file against, including the sessions that action the tasks above. State it plainly: OSINT collects and classifies; CORPUS compiles, reports and analyses over a read-only view; OSINT writes nothing to CORPUS and reads only the R9 request feed.
+**The boundary into `CLAUDE.md` before anything else on this list.** OSINT's `CLAUDE.md`, `SWEEP-CYCLE.md` and `ACQUIRE.md` mention CORPUS nowhere at all today — the word does not appear in any of them. Until that sentence lands, every OSINT session opens under the pre-migration model with nothing to anchor this file against, including the sessions that action the tasks above. State it plainly: OSINT collects and classifies; CORPUS compiles, reports and analyses over a read-only view; OSINT neither writes to CORPUS nor reads from it. *(Corrected 2026-08-16 — this said "reads only the R9 request feed", and the sentence landed in OSINT's `CLAUDE.md` in that form. R9 is withdrawn; `documentation/osint-no-request-feed.md` is the standalone fix.)*
 
 **The pruning last, once the shape is settled.** `SWEEP-CYCLE`, `STATUS.md`, `wiki/index.md`, `CLAUDE.md`, `reviews/housekeeping-jobs.md` and `reviews/acquisitions.md` lose their references to the retired passes. `REPORT-LINT.md` needs its own pass: the file survives on checks A–F, so what goes is its cross-references to `wiki/report-layer.md` §6 and to checks G–K, both of which travel to CORPUS at R3. Keep `wiki/index.md`'s Processes directory current, per OSINT's own rule.
 
@@ -105,8 +107,10 @@ Do **not** retire any of these; CORPUS depends on them or they are OSINT's core:
 
 ## Sequencing
 
+*(Kept as written, for the record. The list was run in this order on 2026-08-16; only R9's line is corrected below, because following it is what surfaced that the task was impossible.)*
+
 **Two things come before the numbered order.** R10's boundary sentence goes into `CLAUDE.md` first, because every session that actions the rest needs it. Then R8's live half — commit the mirror deletion and cut the dead close step — because until that is done the cycle's last command points at a file that is not there, and `LINT` #19 reports a failure that is not real.
 
 **Both rulings this list was waiting on have been made** *(Bill, 2026-08-16)*. Carving the non-state CSV out of R4 and R6 is why R4 is now a change of purpose, R5 is nothing to do, and R6 retires two folders instead of four. All backups being CORPUS's is why R8 is unconditional and `LINT` #19 goes without a repoint. Nothing on the list is blocked on a decision.
 
-R1, R2, R3 and R6 are the report layer and can go together. R4 is a documentation change and can go with them or before them; **R5 needs no change at all**, and is worth reading only to know which seam not to cut later. R9 is the one that keeps the gaps loop alive across the boundary and should not be skipped. R11 is independent of all of it and can go at any point, provided its own precondition — the 291-row region lookup — lands before the pages do. R10's pruning last, once the shape is settled.
+R1, R2, R3 and R6 are the report layer and can go together. R4 is a documentation change and can go with them or before them; **R5 needs no change at all**, and is worth reading only to know which seam not to cut later. **R9 is withdrawn** — it asked for a read the environment refuses, and `documentation/osint-no-request-feed.md` replaces it, running on its own after everything here. R11 is independent of all of it and can go at any point, provided its own precondition — the 291-row region lookup — lands before the pages do. R10's pruning last, once the shape is settled.
