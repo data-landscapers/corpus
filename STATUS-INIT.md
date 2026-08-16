@@ -144,6 +144,20 @@ Launched in a single batch so they run concurrently. **No extraction agent write
 11. **Verify** — checks A to I below, on the assembled file. Never per agent.
 12. **Refresh the checklist**: `python scripts/status-progress.py`. It rewrites `logs/status-init-progress.csv`, where a country counts as through because its status report says `built_by: STATUS-INIT` and for no other reason — so the file cannot drift out of step with the work the way a hand-ticked list does. Its `notes` column is Bill's and survives every rewrite. Rows are ordered heaviest first, so it is also the run order.
 13. **Report on two lines**: `{ISO3} · sections written NN of 37 · not established NN · sources cited NN · acquire lines NN` and the run cost.
+14. **Log the country and commit it** — the same run log `BUILD.md` and `RENDER.md` write to, then the commit that carries the line:
+
+    ```bash
+    python scripts/log-line.py status-init "{ISO3}: 37 sub-sections, NN sources, NN acquire lines, A-I pass — ok"
+    git add -A && git diff --cached --quiet || git commit -m "{ISO3} status baseline: 37 sub-sections, NN sources"
+    ```
+
+**One line per country, not per session** *(Bill, 2026-08-16)*. A session that takes three small countries writes three lines. The unit of work here is the country — the progress CSV counts countries, the commits are per country, and a session boundary is a fact about cost rather than about the baselines.
+
+**On a failure, log what stopped it** — `… errored on DZA at stage 2: <message>` — and leave the country unfinished rather than issuing a partial baseline. Nothing has to be unwound for the campaign to stay honest: `status-progress.py` counts a country as through only because its report carries `built_by: STATUS-INIT`, so an abandoned one simply stays unticked and comes round again in run order. Where the stop leaves something Bill has to act on, write a block in `logs/messages-for-bill.md` as well.
+
+**Why this was missing, and what it cost** *(2026-08-16)*. Until today a STATUS-INIT run wrote to `outputs/` and left no trace in `logs/log.md`, which carried `build` and `render` lines only — so the log was silent about the process that has been rewriting the status tree all week, in the one place a reader goes to find out what moved it. It also misled a reader of the log into thinking `outputs/` only ever moves under BUILD. `RENDER.md` Step 0 nearly shipped a build-completeness gate resting on that assumption, and the assumption is what broke it.
+
+**This does not make the timestamp test safe, and Step 0 must not be rewritten to use it.** The tempting version — refuse to render when `outputs/` carries commits newer than the newest job line — now looks workable, since every job that writes `outputs/` logs. It is not. A BUILD that dies at unit 20 of 45 commits units 1 to 20 and writes no line; a STATUS-INIT run afterwards writes one that is newer than all of them, and the half-finished build passes a test built to catch it. The sentinel in `BUILD.md` stage 0 states the condition directly and does not have this failure mode. STATUS-INIT needs no sentinel of its own: it commits at the end of each country, so a dead run leaves either a clean tree at a country boundary — which is a real stopping point, not a half-state — or uncommitted work, which Step 0 catches anyway.
 
 **What this costs, and where the caveats stop.** Extraction is where errors get baked in: a writer never sees a verbatim body, only a fact someone else drew from it, so an extraction agent that drops a qualification has silently changed what the report can say. Stage 1 therefore returns facts *with* their caveats and dates attached — **and that is an internal handoff, not report content.** The caveat exists so the writer can judge whether the fact is safe to state. It does not travel to the page. A fact the writer cannot state plainly is stated plainly at a coarser grain, or dropped.
 
