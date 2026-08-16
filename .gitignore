@@ -11,6 +11,14 @@ logs/mirror-ffs/
 # and out of any `git add -A`, so the two can work without colliding.
 prep/
 
+# BUILD writes this when a run starts and removes it when the run ends, cleanly or
+# with a logged error. It survives only a run that died unannounced — a session that
+# ran out of context mid-stage-4 — which is the one state RENDER Step 0 refuses to
+# render, because a half-moved build typesets perfectly and passes every check.
+# Untracked on purpose: it is a fact about this machine right now, not history, and
+# a tracked one would land in every commit a build makes.
+logs/.build-in-progress
+
 # Staging is created outside the repo, but belt and braces.
 .pull-staging/
 __pycache__/

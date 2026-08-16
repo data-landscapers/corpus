@@ -21,15 +21,43 @@ The renderers read `outputs/` directly *(2026-08-16)*. They were written against
 - Run every command from the repo root (`C:\CORPUS`).
 - Commit after each coherent step (repo convention).
 
-## Step 0 — start from a clean tree
+## Running unattended — a run never stops to ask
 
-Commit anything outstanding first, so the render's own commits are isolated and no uncommitted work is at risk:
+**RENDER puts no question mid-stream** *(Bill, 2026-08-16)*. It is run straight after `BUILD.md` with nobody watching. A run ends two ways — it **finishes** or it **fails** — and a failure is an error it cannot get past, never a decision it would rather Bill made. Where it wants his attention, it finishes the job and writes a block under the marker in `logs/messages-for-bill.md`: what it would have asked, what it did instead, what his options are.
+
+This is easier to hold to here than in BUILD, because RENDER judges nothing about its input by design. Its two hard stops are named and both are mechanical: **Step 0**, a build that did not finish, and **Step 7**, the leak gate. Everything else is rendered, committed and deployed.
+
+## Step 0 — a finished build behind you, then a clean tree
+
+**Check the build finished before rendering a line of it** *(2026-08-16)*. A build that ran out of road mid-stage-4 leaves a tree that renders perfectly: every document is well-formed, every link resolves, every check passes, and the units that never got their new sources are silently a cycle out of date. Nothing downstream can see that, which is why the test is here and why it fails the run rather than warning.
+
+```bash
+# 1. a build that started and never reported itself leaves its sentinel behind
+if [ -e logs/.build-in-progress ]; then
+  echo "RENDER STOP: $(cat logs/.build-in-progress) — that build never finished"; exit 1
+fi
+# 2. the newest build line must exist and must not be an error line
+build_line=$(grep -m1 ' · build · ' logs/log.md)
+[ -n "$build_line" ] || { echo "RENDER STOP: no build line in logs/log.md"; exit 1; }
+case "$build_line" in *errored*) echo "RENDER STOP: last build errored — $build_line"; exit 1 ;; esac
+# 3. outputs/ must be committed — a finished build leaves nothing outstanding
+if [ -n "$(git status --porcelain outputs)" ]; then
+  echo "RENDER STOP: outputs/ has uncommitted changes"; exit 1
+fi
+echo "build ok: ${build_line%% · build · *}"
+```
+
+**Check 1 is the mechanism and the other two are cheap corroboration** *(2026-08-16)*. `BUILD.md` stage 0 writes `logs/.build-in-progress` and its ending sequence removes it — on a clean finish and on a logged error alike, because both are runs that accounted for themselves. The file therefore survives exactly one thing: a session that died without saying so. That is a direct statement of the condition rather than an inference from timestamps, which matters, because the obvious timestamp test does not work here: **`STATUS-INIT` commits to `outputs/` and writes no log line at all**, so "outputs newer than the newest build line" is the ordinary state of this repo after a baseline session and would stop every render that followed one.
+
+**All three log and stop** — `python scripts/log-line.py render "stopped at step 0: <which> — not rendered"` — and write a message. None of them is repaired here. **The repair is to run BUILD**, which resumes exactly where it stopped, because stage 4 reads a set difference over slugs and every unit it finished is already marked. Do not delete the sentinel or hand-write a log line to get past this: both are assertions that a build finished, and forging one publishes the half-built tree the check exists to catch.
+
+Then commit anything else outstanding, so the render's own commits are isolated and no uncommitted work is at risk:
 
 ```bash
 git add -A && git diff --cached --quiet || git commit -m "Commit outstanding work before render"
 ```
 
-A no-op if the tree is already clean.
+A no-op if the tree is already clean. **It runs after the gate, not before** — committing first would put a fresh `outputs/` commit on top of the build line and trip check 3 on every run.
 
 ## Step 1 — stamp the commit the site is built from
 
@@ -57,14 +85,22 @@ done
 
 # Coverage assertion: the patterns above must have reached every report document.
 present=$(find outputs/reports outputs/topics -name '*.md' | wc -l)
-echo "rendered $rendered of $present report documents ($failed failed)"
-if [ "$rendered" -ne "$present" ]; then
-  echo "RENDER ABORT: $((present - rendered)) document(s) did not render — do not deploy"
-  [ "$failed" -gt 0 ] && echo "  $failed failed in render.py (see RENDER FAIL above)"
-  echo "  and any listed below matched no pattern in the loop:"
+missed=$((present - rendered - failed))
+echo "rendered $rendered of $present report documents ($failed failed, $missed never listed)"
+if [ "$missed" -gt 0 ]; then
+  echo "RENDER STOP: $missed document(s) matched no pattern in the loop — do not deploy:"
   find outputs/reports outputs/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
+  exit 1
+fi
+if [ "$failed" -gt 0 ]; then
+  echo "$failed document(s) failed in render.py (see RENDER FAIL above) — deploying the rest; message Bill"
 fi
 ```
+
+**The two ways of coming up short are not the same failure and no longer share an outcome** *(2026-08-16)*. The old assertion fired on `rendered -ne present`, which lumped them together, printed *do not deploy*, and then let the runbook walk straight on into Steps 3 to 7 and deploy — advice with nothing behind it, and the sort of thing an unattended run either obeys too much or ignores.
+
+- **A document the loop never listed stops the run.** That is the silent-shrink failure this assertion was built for: a rename moves a filename out of the glob and the loop quietly renders a subset with a zero exit, while `site/` keeps serving the old pages indefinitely because it is never purged. Nobody can see it from the output, so it fails the run — log, message, no deploy.
+- **A document that was tried and failed does not.** One report that will not typeset is a known, visible, single-page fault, and withholding the other 240 pages to punish it is a worse outcome by every measure — the failed page keeps its previous render either way, exactly as the stale-page paragraph below describes, so stopping protects nothing and costs the whole cycle. Note it, render on, deploy, and put the list in `logs/messages-for-bill.md`.
 
 Today that is 54 status + 57 progress + 54 monthly = 165 place documents, plus 76 topic documents (*Topics* below) = **241**, each as HTML and PDF — but **the assertion is what to trust, not the number**, which moves as units are initialised and as the taxonomy grows.
 
@@ -121,13 +157,16 @@ python scripts/leak-check.py site outputs || { echo "STOP: leak gate failed"; ex
 # every report links only to held sources — spot check a few if desired:
 #   python scripts/report-render.py --unit KEN --check   (needs the workroot; optional)
 git add site && git commit -m "Render site from Corpus-owned outputs: reports, home, country pages"
+git push
 ```
 
 **The leak gate is the only STOP here, and that is deliberate** *(Bill, 2026-08-13)*. It guards a boundary RENDER alone can see — the moment artefacts enter a public repo — which is why it belongs at this step and fails the run.
 
 RENDER does **not** judge whether a document is fit to publish. An earlier version of this step grepped `site/` for an unwritten-narrative marker and stopped the render on a hit; it has been removed. Fitness is BUILD's responsibility (BUILD.md § Narrative integrity), and a check here could only ever be a second, weaker copy of a judgement made better upstream — one that halted every render while narratives were still being authored, protecting nothing.
 
-Deploy is unchanged (`documentation/handover.md`): the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build. Push to trigger it.
+Deploy is unchanged (`documentation/handover.md`): the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build. The push above is what triggers it.
+
+**The push is authorised by this runbook and is not a question to put** *(2026-08-16)*. It publishes to the open web, which is the kind of step that would ordinarily be worth confirming — but a render that stops to ask permission to deploy is a render that has done all of its work and shipped none of it, and running RENDER *is* the instruction to publish. It used to sit in this file as a bare sentence of prose rather than a command, which is how it came to look optional; the log shows every completed render pushing. The gate on publishing is the leak gate immediately above, and it has already run by this point.
 
 ## Topics
 
@@ -146,6 +185,8 @@ python scripts/log-line.py render "reports+home+countries+catalogue rendered, de
 ```
 
 On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). One line per run.
+
+**And message Bill where the run needed him** *(2026-08-16)*. A block under the marker in `logs/messages-for-bill.md`, written before the commit below so it is carried by it: documents that failed to typeset, a Step 0 stop and what has to be re-run, anything the run decided that he would otherwise have been asked. A clean render writes nothing there.
 
 **The log reads newest first** *(2026-08-16)*, so the line is inserted at the top, under the marker comment — `>> logs/log.md` is no longer the recipe. It would still write a correct line, in the wrong place, which is the version of this that nobody notices. `scripts/log-line.py` does the insert and takes the message as an argument, so `·`, em-dashes, slashes and backticks in it are content rather than syntax; it exits 1 rather than guessing if the marker is missing.
 
@@ -175,12 +216,15 @@ It backs up **both repos** — OSINT and Corpus — mirroring each one's working
 python scripts/lint-mirror-freshness.py     # 0 clean · 1 stale or failed · 2 nothing recorded
 ```
 
-**It reports and never fixes**, because `mirror.bat` mirrors *onto* the Dropbox copies — running it is a destructive write on the destination, and firing a `/MIR` is Bill's. Run it before the mirror to see whether one is owed, and after it to confirm the line landed. `scripts/test_mirror_freshness.py` proves all three fault paths fire, on the same principle as the leak-gate test: this check will read `ok` for weeks at a time, which is exactly when a broken one goes unnoticed.
+**It reports and never fixes**: `mirror.bat` mirrors *onto* the Dropbox copies, so a `/MIR` is a destructive write on the destination and a lint check does not get to fire one off the back of its own opinion that a backup is overdue. Run it before the mirror to see whether one is owed, and after it to confirm the line landed.
+
+**That is a rule about the check, not about the run** *(clarified 2026-08-16)*. This paragraph used to end *"and firing a `/MIR` is Bill's"*, eight lines under a section that instructs the run to fire exactly one — read cold by an unattended session, a flat contradiction on the single destructive step in the job, and the likeliest place in either runbook for one to stop and ask. **RENDER runs the mirror**: it is the last step of the last job in the pipeline, the runbook is the authorisation, and the destination is a backup whose whole purpose is to be overwritten by the current state. What stays Bill's is firing one *outside* a run — which is what `lint-mirror-freshness.py` declines to do on its own. `scripts/test_mirror_freshness.py` proves all three fault paths fire, on the same principle as the leak-gate test: this check will read `ok` for weeks at a time, which is exactly when a broken one goes unnoticed.
 
 *(Why it reads a log rather than trusting `mirror.bat`'s exit code is the paragraph above: a bare or bash-mangled invocation exits 0 having backed up nothing. Only a run that reached the end writes a dated line. This is what replaces `LINT` #19, which retires with OSINT's own mirror — `documentation/archived/osint-migration.md` R8 — and it now covers both repos, since one mirror does.)*
 
 ## If something fails
 
-- A single report failing to render should not stop the loop — note it and continue; report the list of failures.
-- A WeasyPrint/system-library error is environmental, not a repo bug — surface it rather than working around it.
+- A single report failing to render should not stop the loop, or the run — note it, continue, deploy the rest, and put the list in `logs/messages-for-bill.md`. Step 2 has the reasoning.
+- A WeasyPrint/system-library error is environmental, not a repo bug — surface it rather than working around it. If it takes down every document rather than one, that is the whole run failing: log it and stop, since a deploy of nothing is not worth committing.
+- **Nothing here is a question for Bill.** The two hard stops are Step 0 and the leak gate, and both are mechanical tests with a stated repair. Everything else finishes, logs, and leaves a message.
 - Do not write anything to OSINT (`C:\OSINT`) under any circumstance; nothing in this runbook needs to.

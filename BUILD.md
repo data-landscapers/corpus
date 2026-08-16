@@ -18,7 +18,17 @@ last_reviewed: 2026-08-13
 
 **Only the leak gate stops a finished run.** Every other check in Job 1 is a work list, not a gate — the tally at check L says so in as many words, and the log shows runs shipping with M outstanding. A failing check is BUILD's work to do, and where it cannot be done the true statement is ***Not held*** with a `gaps.csv` line, which is a completed outcome and not a blocked one.
 
-**An interrupted run is resumable and is not a failure to repair by hand.** Stage 4 reads a set difference over slugs, so a run that dies mid-stage leaves every unit it finished marked and every unit it did not untouched; the next run picks up exactly there. What it must not do is leave the log line unwritten while `outputs/` carries new commits — that is the state `RENDER.md` Step 0 refuses to render, and it is the correct refusal, because a half-moved build typesets cleanly and passes every check.
+**An interrupted run is resumable and is not a failure to repair by hand.** Stage 4 reads a set difference over slugs, so a run that dies mid-stage leaves every unit it finished marked and every unit it did not untouched; the next run picks up exactly there. The danger is not the interruption, it is the interruption going unnoticed: a half-moved build typesets cleanly, resolves every link and passes every check, so nothing downstream can tell it from a finished one. That is what stage 0 is for.
+
+## Stage 0 — declare the run
+
+```bash
+python -c "import datetime,io; io.open('logs/.build-in-progress','w',encoding='utf-8').write('started {:%Y-%m-%d %H:%M}\n'.format(datetime.datetime.now()))"
+```
+
+**The file exists for exactly as long as a run is unaccounted for** *(2026-08-16)*. It is written here and removed in the ending sequence — on a clean finish *and* on a logged error, because both of those are runs that reported themselves. What it survives is the third case: a session that dies without saying so, which for stage 4 means running out of context somewhere in the middle of 54 units. `RENDER.md` Step 0 refuses to render while it is present, and that refusal is the whole of the mechanism.
+
+It is gitignored, so it never reaches a commit and never travels. That is correct — it is a statement about this machine at this moment, not history. Note the stage in it as the run moves if that is cheap; the resume does not need it, since the slug set difference already knows, but a message to Bill reads better for naming where the run stopped.
 
 ## The two kinds of work in Job 1
 
@@ -170,11 +180,9 @@ python scripts/leak-check.py outputs      # exit 0 = clean; exit 1 = a body leak
 
 If it exits non-zero, **do not commit** — a compiler is wrong; stop and fix it. A leak into public history is permanent (`documentation/design.md` §8), so this is the one check that fails the build rather than warning.
 
-## Ending the run — message, gate, commit, log
+## Ending the run — message, gate, log, commit, stand down
 
-**The order below is the reverse of what it was, and the reversal is the point** *(2026-08-16)*. The log line is now the **last** thing a run writes, after every commit. `RENDER.md` Step 0 establishes that a build finished by comparing that line's timestamp against the newest commit touching `outputs/`: commits newer than the line mean a run put work in the tree and died before declaring itself done. Under the old order — log first, then `git add -A` — a build's own final commit landed after its own line, and every clean run would have failed the test that exists to catch a broken one.
-
-**1. Message Bill, if anything is owed him.** Insert a block under the marker in `logs/messages-for-bill.md`: what would have been asked, what the run did instead, what his options are. A run that needed nothing writes nothing.
+**1. Message Bill, if anything is owed him.** Insert a block under the marker in `logs/messages-for-bill.md`: what would have been asked, what the run did instead, what his options are. A run that needed nothing writes nothing there, which is the normal outcome.
 
 **2. Leak gate.** Nothing commits until this passes.
 
@@ -182,13 +190,7 @@ If it exits non-zero, **do not commit** — a compiler is wrong; stop and fix it
 python scripts/leak-check.py outputs || exit 1
 ```
 
-**3. Commit everything**, so the build ends clean with nothing outstanding.
-
-```bash
-git add -A && git diff --cached --quiet || git commit -m "Build run: outputs and messages"
-```
-
-**4. Log one terse line**, in the form `YYYY-MM-DD HH:MM · build · what happened`.
+**3. Log one terse line**, in the form `YYYY-MM-DD HH:MM · build · what happened`.
 
 ```bash
 python scripts/log-line.py build "catalogue N, finance N places, scan N units, K ledgers updated — ok"
@@ -196,13 +198,21 @@ python scripts/log-line.py build "catalogue N, finance N places, scan N units, K
 
 **The log reads newest first** *(2026-08-16)*, so the line is inserted at the top, under the marker comment — `>> logs/log.md` is no longer the recipe. It would still write a correct line, in the wrong place, which is the version of this that nobody notices. `scripts/log-line.py` does the insert and takes the message as an argument, so `·`, em-dashes, slashes and backticks in it are content rather than syntax; it exits 1 rather than guessing if the marker is missing.
 
-**5. Commit the log line.**
+**4. Commit everything**, so the build ends clean with nothing outstanding.
 
 ```bash
-git add -A && git diff --cached --quiet || git commit -m "Build run: log"
+git add -A && git diff --cached --quiet || git commit -m "Build run: outputs, log and messages"
 ```
 
-**On failure, the word is `errored`** *(2026-08-16)*. Log the stage and the error in place of the completion line — `… errored at stage 3: <message>` — and stop. `RENDER.md` Step 0 matches that word to tell a failed build from a finished one, so a failure line that avoids it reads downstream as a successful run. Commit whatever is committable first, on the same principle as everywhere else: the uncommitted tree is the only state that is not recoverable. A failure writes a message as well only where it left something Bill has to undo; otherwise the log line is the whole report. One line per run either way — the detail is in git.
+**5. Stand down** — remove the stage 0 sentinel, and only now, after the commit has landed.
+
+```bash
+rm -f logs/.build-in-progress
+```
+
+**Last, because it is the assertion that a run is accounted for** *(2026-08-16)*. Removing it before the commit would open a window in which `RENDER.md` Step 0 sees a finished build whose work is still uncommitted; removing it after closes that window, and a crash in between leaves the file present, which fails safe in the only direction that matters.
+
+**On failure, the word is `errored`** *(2026-08-16)*. Log the stage and the error in place of the completion line — `… errored at stage 3: <message>` — commit whatever is committable, remove the sentinel, and stop. A logged failure is a run that reported itself, so it stands down like any other; what the sentinel is for is the run that never got to say anything. `RENDER.md` Step 0 matches the word `errored` to tell a failed build from a finished one, so a failure line phrased around it reads downstream as a success. A failure writes a message as well only where it left something Bill has to undo; otherwise the log line is the whole report. One line per run either way — the detail is in git.
 
 ## Boundary
 
