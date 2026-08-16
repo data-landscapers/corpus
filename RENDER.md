@@ -172,6 +172,8 @@ cmd /c C:\CORPUS\mirror.bat
 
 It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` (which carries both repos and Bill's `Dropbox\Github`), and appends a dated line to `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and the FreeFileSync log.
 
+**Owed: an automated freshness check over `logs\mirror_log.md`** *(2026-08-16, not yet built)*. All backups are Corpus's now — OSINT runs none and its own `LINT` #19 retires with its mirror (`documentation/osint-migration.md` R8). #19 existed because the mirror once went a week stale in silence, and it is the only automated guard either repo has ever had; the paragraph above replaces it with a human being asked to eyeball a timestamp, in the same breath as explaining that the exit code cannot be trusted. One mirror now covers both repos, so a silent lapse loses both. The check belongs here, on the same skeleton as OSINT's — newest line in `logs\mirror_log.md` against the newest render, plus a `FAIL` state — and reports rather than fixes, since firing a `/MIR` is Bill's.
+
 ## If something fails
 
 - A single report failing to render should not stop the loop — note it and continue; report the list of failures.
