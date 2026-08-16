@@ -71,9 +71,12 @@ def parse(ts: str) -> dt.datetime:
 def newest_mirror() -> tuple[dt.datetime, str, str] | None:
     """The newest mirror line, whatever its status.
 
-    Newest by *timestamp*, not last-in-file: the log is append-only in practice, but a
-    hand-edit or a merge could reorder it, and taking the last line on faith would then
-    read an older run as current — the one direction of error that matters here."""
+    Newest by *timestamp*, not by position: the log has read newest-first since
+    2026-08-16 and was append-ordered before that, so no fixed end of the file is the
+    right one to trust across its own history — and a hand-edit or a merge could reorder
+    it either way. Taking a position on faith would read an older run as current, which
+    is the one direction of error that matters here. Because this sorts, the flip of
+    2026-08-16 needed no change to it."""
     if not os.path.exists(MIRROR_LOG):
         return None
     best = None

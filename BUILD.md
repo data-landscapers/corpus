@@ -153,14 +153,15 @@ If it exits non-zero, **do not commit** — a compiler is wrong; stop and fix it
 
 ## Log
 
-On completion or error, append **one terse line** to `logs/log.md`, in the form `YYYY-MM-DD HH:MM · build · what happened`:
+On completion or error, write **one terse line** to `logs/log.md`, in the form `YYYY-MM-DD HH:MM · build · what happened`:
 
 ```bash
-printf '%s · build · %s\n' "$(date '+%Y-%m-%d %H:%M')" \
-  "catalogue N, finance N places, scan N units, K ledgers updated — ok" >> logs/log.md
+python scripts/log-line.py build "catalogue N, finance N places, scan N units, K ledgers updated — ok"
 ```
 
 On failure, log the stage and the error instead (`… errored at stage 3: <message>`) and stop. One line per run — the detail is in git.
+
+**The log reads newest first** *(2026-08-16)*, so the line is inserted at the top, under the marker comment — `>> logs/log.md` is no longer the recipe. It would still write a correct line, in the wrong place, which is the version of this that nobody notices. `scripts/log-line.py` does the insert and takes the message as an argument, so `·`, em-dashes, slashes and backticks in it are content rather than syntax; it exits 1 rather than guessing if the marker is missing.
 
 Then run the leak gate and commit everything, so the build ends clean with nothing outstanding:
 

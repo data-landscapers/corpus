@@ -19,8 +19,10 @@ rem  CORPUS's .workroot is transient symlinks into OSINT (/XD keeps it out).
 rem
 rem  robocopy returns a BIT FIELD: 0-7 are all success, only >=8 is a real
 rem  failure - so test `GEQ 8`, not `errorlevel 1`. One dated line goes to
-rem  logs\mirror_log.md with every exit code. ASCII only (cmd reads .bat in the
-rem  OEM codepage, so a UTF-8 em-dash would reach the log as mojibake).
+rem  logs\mirror_log.md with every exit code, NEWEST FIRST - the line is
+rem  prepended, not appended, so the top of that file is the last run. ASCII only
+rem  (cmd reads .bat in the OEM codepage, so a UTF-8 em-dash would reach the log
+rem  as mojibake).
 rem
 rem  Exit code: 0 if every leg passed, 1 otherwise.
 rem ---------------------------------------------------------------------------
@@ -60,9 +62,16 @@ rem  non-zero = warnings, errors or cancellation.
 set "FF=!ERRORLEVEL!"
 if not "!FF!"=="0" set "STATUS=FAIL"
 
-rem --- one dated line, whatever happened --------------------------------------
+rem --- one dated line, whatever happened, at the TOP of the log ---------------
+rem  The log reads newest first, so the new line is written to a scratch file and
+rem  the old log poured in under it. `>>` would still produce a correct line, in
+rem  the wrong place - and a log that is right about every run and wrong about
+rem  which one is current is worse than no log. Same directory, so the move is a
+rem  rename; if it fails the old log survives untouched and a .new is left behind.
 if not exist "%CORPUS%\logs" mkdir "%CORPUS%\logs"
->>"%LOG%" echo - **!TS!** - !STATUS! - osint(robocopy=!ORC! bundle=!OGB!) corpus(robocopy=!CRC! bundle=!CGB!) ffs=!FF!
+>"%LOG%.new" echo - **!TS!** - !STATUS! - osint(robocopy=!ORC! bundle=!OGB!) corpus(robocopy=!CRC! bundle=!CGB!) ffs=!FF!
+if exist "%LOG%" type "%LOG%" >>"%LOG%.new"
+move /y "%LOG%.new" "%LOG%" >nul
 
 if "!STATUS!"=="FAIL" (
   echo.

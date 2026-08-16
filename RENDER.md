@@ -139,14 +139,15 @@ Topic documents are authored by BUILD (`BUILD.md` stage 6) and arrive in `output
 
 ## Log
 
-On completion or error, append **one terse line** to `logs/log.md`, in the form `YYYY-MM-DD HH:MM · render · what happened`:
+On completion or error, write **one terse line** to `logs/log.md`, in the form `YYYY-MM-DD HH:MM · render · what happened`:
 
 ```bash
-printf '%s · render · %s\n' "$(date '+%Y-%m-%d %H:%M')" \
-  "reports+home+countries+catalogue rendered, deployed — ok" >> logs/log.md
+python scripts/log-line.py render "reports+home+countries+catalogue rendered, deployed — ok"
 ```
 
 On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). One line per run.
+
+**The log reads newest first** *(2026-08-16)*, so the line is inserted at the top, under the marker comment — `>> logs/log.md` is no longer the recipe. It would still write a correct line, in the wrong place, which is the version of this that nobody notices. `scripts/log-line.py` does the insert and takes the message as an argument, so `·`, em-dashes, slashes and backticks in it are content rather than syntax; it exits 1 rather than guessing if the marker is missing.
 
 ## Mirror — back up the repo (final step)
 
@@ -164,9 +165,9 @@ cmd /c C:\CORPUS\mirror.bat
 
 **Name the path in full.** Bare `mirror.bat` resolves only if the shell happens to be sitting in the repo root — true when a person types it after working there, false for a shell a session spawns, which is where it failed on 2026-08-13 with *"'mirror.bat' is not recognized"*. That failure is at least loud; the script itself is safe to call from anywhere, since it uses `%~dp0` for the FreeFileSync batch and absolute paths for both repos.
 
-**Run it from PowerShell, not from bash, and check the log line rather than the exit code** *(2026-08-14)*. In Git Bash the backslashes in an unquoted `C:\CORPUS\mirror.bat` are escape characters, so the word reaches `cmd` as `C:CORPUSmirror.bat`; `cmd` consumed no command, opened an interactive shell, and exited **0** having backed up nothing. That is the silent version of the failure above — a green exit and no mirror — and it is why the exit code alone cannot be trusted here. Use `& cmd /c "C:\CORPUS\mirror.bat"` from PowerShell, then confirm `logs\mirror_log.md` carries a line dated within the last few minutes. The absence of a fresh line is the real failure signal.
+**Run it from PowerShell, not from bash, and check the log line rather than the exit code** *(2026-08-14)*. In Git Bash the backslashes in an unquoted `C:\CORPUS\mirror.bat` are escape characters, so the word reaches `cmd` as `C:CORPUSmirror.bat`; `cmd` consumed no command, opened an interactive shell, and exited **0** having backed up nothing. That is the silent version of the failure above — a green exit and no mirror — and it is why the exit code alone cannot be trusted here. Use `& cmd /c "C:\CORPUS\mirror.bat"` from PowerShell, then confirm the **top** line of `logs\mirror_log.md` is dated within the last few minutes — that log reads newest first too. The absence of a fresh line is the real failure signal.
 
-It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` (which carries both repos and Bill's `Dropbox\Github`), and appends a dated line to `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and the FreeFileSync log.
+It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` (which carries both repos and Bill's `Dropbox\Github`), and writes a dated line at the top of `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and the FreeFileSync log.
 
 **The freshness check is built** *(2026-08-16)*. `scripts/lint-mirror-freshness.py` reads the newest line of `logs/mirror_log.md` and rules on three things: whether that run recorded `FAIL`, whether it predates the newest `· render ·` line in `logs/log.md`, and whether it is simply old (`--max-age-hours`, default 72). The third is not decoration — the first two both compare against *something having happened*, so a quiet fortnight with no render passes them both while the backup ages, which is the week-of-silence that made OSINT's `LINT` #19 necessary in the first place. Commits landed since the mirror are **reported, not gated**: they are the true measure of exposure, but a check that fails all the way through an ordinary working session is one that gets ignored.
 
