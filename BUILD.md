@@ -8,6 +8,18 @@ last_reviewed: 2026-08-13
 
 *(Hand this to Claude Code in the Corpus repo. Job 1 turns OSINT's evidence into Corpus-owned `outputs/`. Job 2 (`RENDER.md`) then renders `outputs/` into the site. Read `documentation/migration-report-layer.md` for the architecture and `documentation/report-layer.md` for the record layer stage 4 works to. OSINT is read-only throughout — never write to it. **Reading is unrestricted** (`CLAUDE.md`; Bill, 2026-08-14): the workroot junctions `raw/`, `wiki/` and `lookups/`, and adding another is a line in `setup_workroot()` rather than a boundary decision. It junctions **only what a stage reads**, because each one is a directory of OSINT's exposed to a process that can write — and `index/` is not among them at all: Corpus builds its own. The boundary is the write, and it is absolute.)*
 
+## Running unattended — a run never stops to ask
+
+**BUILD puts no question mid-stream** *(Bill, 2026-08-16)*. It is run back to back with `RENDER.md` with nobody watching, so a question asked at stage 4 is a job that has silently halted a third of the way through with a prompt on a screen no one is reading — and the units after it never get their work. A run ends exactly two ways: it **finishes**, or it **fails**. A failure is an error the run cannot get past. It is never a decision the run would rather Bill made.
+
+**Where this runbook says a human rules, BUILD rules.** Every such point is named below with the path to take — stage 4's checks, the register check, the status baseline's verification. BUILD is the drafter and the register is its own standard; there is no judgement here that needs Bill's authority, only ones that used to have his attention available.
+
+**Where BUILD wants Bill's attention, it finishes the job and leaves a message.** `logs/messages-for-bill.md` is the channel: newest first, one block per run, inserted under the marker. Write what he would have been asked, what the run did instead, and what his options are. A run that needed nothing writes nothing there, which is the normal outcome.
+
+**Only the leak gate stops a finished run.** Every other check in Job 1 is a work list, not a gate — the tally at check L says so in as many words, and the log shows runs shipping with M outstanding. A failing check is BUILD's work to do, and where it cannot be done the true statement is ***Not held*** with a `gaps.csv` line, which is a completed outcome and not a blocked one.
+
+**An interrupted run is resumable and is not a failure to repair by hand.** Stage 4 reads a set difference over slugs, so a run that dies mid-stage leaves every unit it finished marked and every unit it did not untouched; the next run picks up exactly there. What it must not do is leave the log line unwritten while `outputs/` carries new commits — that is the state `RENDER.md` Step 0 refuses to render, and it is the correct refusal, because a half-moved build typesets cleanly and passes every check.
+
 ## The two kinds of work in Job 1
 
 Job 1 has scripted stages and one model-authoring stage, and they are run differently.
@@ -57,7 +69,11 @@ The work order (from `--all` above, or `python scripts/rebuild.py --scan`) lists
    **A source being in scope does not make every fact in it in scope** *(Bill, 2026-08-14)*. The window selects *rows*, by the publication date of the newest record they cite. It does not select *facts*. A July source that restates a 2023 measurement puts its row in the monthly, and the 2023 measurement still has no business in a report of what moved this month — it belongs in the status report, where the current position lives. The same goes for a stock figure a year old carried forward by a fresh article. **The monthly reports developments; selection is the drafter's, not the scan's.** Where the standing position is the only thing a row offers, the right outcome is to leave that row out of the prose and let the ledger carry it.
 
    **Moving a window on is an editing job.** The renderer carries every narrative block across; deciding what still belongs is BUILD's. Both windows overlap their previous position heavily — the monthly always spans a month boundary, the progress report keeps eleven of its twelve months — so **BUILD removes what has aged out and writes in what has arrived**. A carried sentence describing a period that has moved on is well-formed prose and passes every check; finding it is the point of the revision.
-6. **Verify** before moving on: `python scripts/report-render.py --unit {ISO3} --check` — checks G (every link held in `index/`), I (vocabulary), **J (no document compiled before the ledger moved)**, **L (no unwritten narrative block)** and **M (every row that states a position cites a source that resolves)** must all pass; then the register check `python scripts/report-register-check.py --unit {ISO3}` reports, a human rules.
+6. **Verify** before moving on: `python scripts/report-render.py --unit {ISO3} --check` — checks G (every link held in `index/`), I (vocabulary), **J (no document compiled before the ledger moved)**, **L (no unwritten narrative block)** and **M (every row that states a position cites a source that resolves)**; then the register check `python scripts/report-register-check.py --unit {ISO3}`.
+
+   **A failing check is work, and BUILD does it in the same pass** *(2026-08-16)*. This is the rule that replaces *must all pass*, which was never what happened — the log shows full runs shipping with L at 44 and M at 22 — and an instruction the runs visibly do not follow is worse than none, because it leaves the actual policy undeclared. G, I, J and M are mechanical: a link that does not resolve, a term outside the vocabulary, a document behind its ledger, a row citing a slug that is not there. Each has one repair and BUILD makes it. L is authoring work and the two outcomes are the ones under *Narrative integrity* — write the sentence or remove the section.
+   **Where a check cannot be cleared, the fallback is already in this runbook and it is a finished outcome.** A position BUILD cannot source is ***Not held*** with a `gaps.csv` line; a link that resolves to nothing is struck along with the claim standing on it. Neither is a question for Bill. What is left after the repair pass goes in the run's log line as a count, unit by unit, exactly as it does today.
+   **The register check reports and BUILD rules** *(2026-08-16)*. The script says a person rules, and under `RENDER.md`'s back-to-back run BUILD is that person: it holds editorial control over everything in `outputs/`, and the register is Corpus's own standard rather than an external one it needs permission to apply. A hit inside quoted source text stands — an agency that says *attack surface* is quoted as saying it. A hit in BUILD's own prose is rewritten. Log the residual count; message Bill only if clearing a hit would mean dropping a fact the report needs.
 
    Check J skips the status report on an initialised unit. It asks whether a document is behind the ledger it is rendered from, and the baseline is not rendered from that ledger — its sources are largely ones the wiki does not hold, which is what `STATUS-INIT.md` means by the baseline sitting outside the collection perimeter. Whether the baseline is current is the question step 3 asks, and it is answered by revising the section rather than by re-rendering the file.
 
@@ -82,7 +98,10 @@ The rule is the inversion of the one it replaces. The ledger render treated the 
 
 **Frontmatter.** Move `compiled:` to the date of the edit, and only when the document actually changed — the house rule, `documentation/report-layer.md` §2. Update `sources_cited`. Leave `built_by`, `hub_last_reviewed` and `intersections_read` alone: they date the initialisation and stay true of it.
 
-**Verification.** `python scripts/status-check.py --unit {ISO3}` — the baseline's own checks, `STATUS-INIT.md` → *Verification*, A to I. Re-run it after the edit pass, not at the end of the unit: check A is set membership, and a URL synthesised from a remembered pattern is indistinguishable from a real one by reading, so an edit that introduces one is invisible until something tests it. A run that fails A, B or G is not issued.
+**Verification.** `python scripts/status-check.py --unit {ISO3}` — the baseline's own checks, `STATUS-INIT.md` → *Verification*, A to I. Re-run it after the edit pass, not at the end of the unit: check A is set membership, and a URL synthesised from a remembered pattern is indistinguishable from a real one by reading, so an edit that introduces one is invisible until something tests it.
+
+**"Not issued" means the edit does not stand** *(2026-08-16)*. In `STATUS-INIT.md` that sentence governed a document about to be published for the first time, where withholding it was available. Maintenance has no such option — the baseline is already published and is edited in place — so the thing withheld is the revision, not the document. Commit the unit's other work before the baseline edit pass, which puts the last good baseline at `HEAD` and makes this a one-line reversal.
+So: a failing A, B or G is repaired first, like any other check. If it still fails, revert the file — `git checkout -- outputs/reports/{ISO3}/{ISO3}-status.md` — re-run `status-check.py` to confirm the baseline is back where it stood, and write the message saying which source prompted the edit and why it could not be made to pass. The published baseline passed; a revision that does not is a regression, and A is the sharpest case, because a URL synthesised from a remembered pattern reads exactly like a real one and an unverifiable link left standing is a fabricated citation in a document a reader can download. C to F, H and I are repaired in place and never trigger a revert.
 
 `report-render.py --check` covers the other two documents and applies check G's widened set to the baseline as well, so both commands are run and neither substitutes for the other.
 
@@ -107,13 +126,13 @@ Leaving the block unwritten is the third thing, and it is not available. The ren
 
 **RENDER does not check this and must not.** It renders whatever BUILD produced, because a downstream guard is a second copy of a judgement that belongs here — and one that, when it existed, stopped every render instead of improving a single document. Integrity is maintained where the prose is written, not where it is typeset.
 
-## Stage 5 — re-render (optional, mechanical)
+## Stage 5 — re-render (mechanical, always run)
 
 ```bash
 python scripts/rebuild.py --reports all      # rebuild every report's tables from its ledger, carry narrative across
 ```
 
-Needed only after a format change or to refresh tables outside a unit you already re-rendered in stage 4.
+**Run it every time** *(2026-08-16)*. It used to be conditional — *needed only after a format change, or to refresh tables outside a unit you already re-rendered in stage 4* — and that is a judgement an unattended run should not be making about its own inputs, because the condition it turns on is whether something changed underneath the documents, which is exactly what a build is not in a position to be sure of. It is idempotent and it is cheap: a unit whose tables already agree with its ledger prints `unchanged` and its file is not touched, so the cost of running it needlessly is a pass over 165 documents and the cost of skipping it wrongly is a published table that disagrees with the ledger under it.
 
 This is safe to run over every unit, initialised or not: it goes through `report-render.py --doc all`, which does not issue a rendered status report for an initialised unit. A format change therefore reaches the monthlies and the progress reports and leaves the status baselines untouched — which is right, because a baseline has no rendered tables to reformat.
 
@@ -151,24 +170,39 @@ python scripts/leak-check.py outputs      # exit 0 = clean; exit 1 = a body leak
 
 If it exits non-zero, **do not commit** — a compiler is wrong; stop and fix it. A leak into public history is permanent (`documentation/design.md` §8), so this is the one check that fails the build rather than warning.
 
-## Log
+## Ending the run — message, gate, commit, log
 
-On completion or error, write **one terse line** to `logs/log.md`, in the form `YYYY-MM-DD HH:MM · build · what happened`:
+**The order below is the reverse of what it was, and the reversal is the point** *(2026-08-16)*. The log line is now the **last** thing a run writes, after every commit. `RENDER.md` Step 0 establishes that a build finished by comparing that line's timestamp against the newest commit touching `outputs/`: commits newer than the line mean a run put work in the tree and died before declaring itself done. Under the old order — log first, then `git add -A` — a build's own final commit landed after its own line, and every clean run would have failed the test that exists to catch a broken one.
+
+**1. Message Bill, if anything is owed him.** Insert a block under the marker in `logs/messages-for-bill.md`: what would have been asked, what the run did instead, what his options are. A run that needed nothing writes nothing.
+
+**2. Leak gate.** Nothing commits until this passes.
+
+```bash
+python scripts/leak-check.py outputs || exit 1
+```
+
+**3. Commit everything**, so the build ends clean with nothing outstanding.
+
+```bash
+git add -A && git diff --cached --quiet || git commit -m "Build run: outputs and messages"
+```
+
+**4. Log one terse line**, in the form `YYYY-MM-DD HH:MM · build · what happened`.
 
 ```bash
 python scripts/log-line.py build "catalogue N, finance N places, scan N units, K ledgers updated — ok"
 ```
 
-On failure, log the stage and the error instead (`… errored at stage 3: <message>`) and stop. One line per run — the detail is in git.
-
 **The log reads newest first** *(2026-08-16)*, so the line is inserted at the top, under the marker comment — `>> logs/log.md` is no longer the recipe. It would still write a correct line, in the wrong place, which is the version of this that nobody notices. `scripts/log-line.py` does the insert and takes the message as an argument, so `·`, em-dashes, slashes and backticks in it are content rather than syntax; it exits 1 rather than guessing if the marker is missing.
 
-Then run the leak gate and commit everything, so the build ends clean with nothing outstanding:
+**5. Commit the log line.**
 
 ```bash
-python scripts/leak-check.py outputs || exit 1
-git add -A && git diff --cached --quiet || git commit -m "Build run: outputs and log"
+git add -A && git diff --cached --quiet || git commit -m "Build run: log"
 ```
+
+**On failure, the word is `errored`** *(2026-08-16)*. Log the stage and the error in place of the completion line — `… errored at stage 3: <message>` — and stop. `RENDER.md` Step 0 matches that word to tell a failed build from a finished one, so a failure line that avoids it reads downstream as a successful run. Commit whatever is committable first, on the same principle as everywhere else: the uncommitted tree is the only state that is not recoverable. A failure writes a message as well only where it left something Bill has to undo; otherwise the log line is the whole report. One line per run either way — the detail is in git.
 
 ## Boundary
 
