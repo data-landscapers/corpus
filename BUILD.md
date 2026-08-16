@@ -1,7 +1,7 @@
 ---
 type: runbook
 title: Job 1 — build outputs/ from OSINT — instruction for Claude Code
-last_reviewed: 2026-08-13
+last_reviewed: 2026-08-16
 ---
 
 # Job 1 — build the outputs — runbook for Claude Code
@@ -20,16 +20,6 @@ last_reviewed: 2026-08-13
 
 **An interrupted run is resumable and is not a failure to repair by hand.** Stage 4 reads a set difference over slugs, so a run that dies mid-stage leaves every unit it finished marked and every unit it did not untouched; the next run picks up exactly there. The danger is not the interruption, it is the interruption going unnoticed: a half-moved build typesets cleanly, resolves every link and passes every check, so nothing downstream can tell it from a finished one. That is what stage 0 is for.
 
-## Stage 0 — declare the run
-
-```bash
-python -c "import datetime,io; io.open('logs/.build-in-progress','w',encoding='utf-8').write('started {:%Y-%m-%d %H:%M}\n'.format(datetime.datetime.now()))"
-```
-
-**The file exists for exactly as long as a run is unaccounted for** *(2026-08-16)*. It is written here and removed in the ending sequence — on a clean finish *and* on a logged error, because both of those are runs that reported themselves. What it survives is the third case: a session that dies without saying so, which for stage 4 means running out of context somewhere in the middle of 54 units. `RENDER.md` Step 0 refuses to render while it is present, and that refusal is the whole of the mechanism.
-
-It is gitignored, so it never reaches a commit and never travels. That is correct — it is a statement about this machine at this moment, not history. Note the stage in it as the run moves if that is cheap; the resume does not need it, since the slug set difference already knows, but a message to Bill reads better for naming where the run stopped.
-
 ## The two kinds of work in Job 1
 
 Job 1 has scripted stages and one model-authoring stage, and they are run differently.
@@ -45,6 +35,16 @@ Three further stages are deferred and named at the end: report initialisation fr
 - OSINT checked out and readable (`OSINT_PATH`, default `C:\OSINT`). On this machine `raw/` is local, so the scan and renders are fast.
 - Run from the repo root. Commit after each coherent stage.
 - **The index is Corpus's own and needs nothing from OSINT** *(Bill, 2026-08-14)*. It is built into the gitignored workroot at `scripts/.workroot/index/` from `raw/` and `wiki/`, rebuilds itself whenever either moves, and takes about 5 seconds over 12,588 files. Nothing here waits on an OSINT maintenance step, and OSINT's own `index/` is not read at all. If a run ever raises `vault_lib.ForeignIndex` or `EmptyIndex`, it was started from the wrong root — stage 4 and 5 run **from `scripts/.workroot/`**, where `raw/` and `wiki/` resolve; from the repo root there is no base to index and the guard says so rather than writing an empty index.
+
+## Stage 0 — declare the run
+
+```bash
+python -c "import datetime,io; io.open('logs/.build-in-progress','w',encoding='utf-8').write('started {:%Y-%m-%d %H:%M}\n'.format(datetime.datetime.now()))"
+```
+
+**The file exists for exactly as long as a run is unaccounted for** *(2026-08-16)*. It is written here and removed in the ending sequence — on a clean finish *and* on a logged error, because both of those are runs that reported themselves. What it survives is the third case: a session that dies without saying so, which for stage 4 means running out of context somewhere in the middle of 54 units. `RENDER.md` Step 0 refuses to render while it is present, and that refusal is the whole of the mechanism.
+
+It is gitignored, so it never reaches a commit and never travels. That is correct — it is a statement about this machine at this moment, not history. Note the stage in it as the run moves if that is cheap; the resume does not need it, since the slug set difference already knows, but a message to Bill reads better for naming where the run stopped.
 
 ## Stages 1–3 — the compiles (scripted)
 

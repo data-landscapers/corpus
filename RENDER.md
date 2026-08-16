@@ -1,7 +1,7 @@
 ---
 type: runbook
 title: Render the site — instruction for Claude Code
-last_reviewed: 2026-08-13
+last_reviewed: 2026-08-16
 ---
 
 # Render the site — runbook for Claude Code
@@ -57,7 +57,7 @@ Then commit anything else outstanding, so the render's own commits are isolated 
 git add -A && git diff --cached --quiet || git commit -m "Commit outstanding work before render"
 ```
 
-A no-op if the tree is already clean. **It runs after the gate, not before** — committing first would put a fresh `outputs/` commit on top of the build line and trip check 3 on every run.
+A no-op if the tree is already clean. **It runs after the gate, not before, and the order is load-bearing** — this commit sweeps up everything, `outputs/` included, so running it first would quietly satisfy check 3 by committing the very work whose being uncommitted is the evidence. The gate reads the tree as the build left it; this then tidies what the gate has already ruled on.
 
 ## Step 1 — stamp the commit the site is built from
 
