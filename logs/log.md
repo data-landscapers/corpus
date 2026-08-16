@@ -9,6 +9,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-16 17:21 · status-init · RWA: 37 sub-sections, 163 sources, 51 acquire lines, A-I pass — ok
 2026-08-16 16:54 · status-init · TGO: 37 sub-sections, 151 sources, 40 acquire lines, A-I pass — 10 intersections, 394 facts from 14 agents, 393 pooled; fixed status_lib comma-separator defect hiding 92 URLs from check A — ok
 2026-08-16 13:00 · render · built scripts/lint-mirror-freshness.py — the check RENDER.md carried as owed since LINT #19 retired; three fault paths (FAIL status, older than newest render, past a 72h ceiling), reports never fixes; 11-case test passes; RENDER.md Mirror section rewritten
 2026-08-16 12:50 · render · full render after the upstream/ removal — 241/241 documents, 0 failed; home, 54 country pages, 48 topic pages, catalogue 9,407, finance 1,243 deals; leak gate clean over site+outputs; all 48 topic and 54 country home-page hrefs resolve — ok
