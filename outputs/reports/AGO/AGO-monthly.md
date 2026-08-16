@@ -1,21 +1,21 @@
 ---
 title: Angola — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-16
+period: 2026-07-01 to 2026-08-16
 place: AGO
 ledger_rows: 32
 not_held: 7
-record: a3e206350fb1
+record: e52a81f625b9
 ---
 
 # Angola: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-16 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-A four-day national mobile outage from 28 July dominated the month and tested an architecture that has decrees but no law. The incumbent's network went down at 02:20 and was [restored gradually to 30 July](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/); the state had settled the sale of 15% of that operator the day before. The kwanza [entered the regional settlement system on 27 July](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system).
+A nine-day national mobile outage from 28 July dominated the month and tested an architecture that has decrees but no law. The incumbent's network went down at 02:20 and the mobile layer was [restored gradually to 30 July](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/), but the operator dates [the return of every service carried over it to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/); the state had [settled the sale of 15% of that operator the day before](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/). The kwanza [entered the regional settlement system on 27 July](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system).
 <!-- /narrative -->
 
 ## Infrastructure
@@ -33,13 +33,13 @@ The commercial data centre is [operating at up to 3 MW and more than 800 racks o
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-The incumbent operator's mobile voice, data and internet services failed nationwide from 02:20 on 28 July, affecting more than twenty million customers; fixed fibre and fixed-wireless stayed up throughout, so the failure was confined to the mobile layer. Restoration ran four days — localised from 11:45 on 29 July, full second- and third-generation national coverage at about 23:00 on 30 July, and [messaging and electronic airtime sales back on 31 July](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/). Four days in, card terminals were still unreliable in Luanda shops and filling stations. No attribution, access vector or scope of data loss is established.
+The incumbent operator's mobile voice, data and internet services failed nationwide from 02:20 on 28 July, affecting more than twenty million customers; fixed fibre and fixed-wireless stayed up throughout, so the failure was confined to the mobile layer. The network itself came back over four days — localised from 11:45 on 29 July, full second- and third-generation national coverage at about 23:00 on 30 July, and [messaging and electronic airtime sales back on 31 July](https://angop.ao/noticias/economia/unitel-recupera-servicos-de-mensagens-e-venda-de-recargas/). The services running on it took nine: the operator dates [voice, messaging, mobile data, internet access and the third-party services carried over its network to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/), and gives the same close in [its own market update](https://techafricanews.com/2026/08/06/unitel-restores-core-services-after-nationwide-cyberattack/). Four days in, [card terminals were unreliable in Luanda shops and at filling stations and citizens were queueing at the ATMs for cash](https://jornaloguardiao.com/2026/07/31/ciberataque-a-unitel-mantem-impacto-nos-pagamentos-e-provoca-corrida-aos-atm-em-luanda/); a week in, [the cardless payment app was still unusable and Luanda bank branches were queueing one to two hours](https://www.verangola.net/va/en/082026/Telecommunications/49721/Attack-on-Unitel-continues-to-affect-business-and-debt-settlement-in-Luanda.htm). No attribution, access vector or scope of data loss is established.
 
 The aftermath produced the first public pressure for rules rather than repair: customers and security practitioners [called for mandatory incident-reporting obligations and a national computer security incident response team](https://angop.ao/noticias/tecnologia/clientes-advogam-mecanismos-mais-robustos-para-prevenir-crimes-ciberneticos/), small businesses describing lost sales and failed card payments across the disruption. Angola has neither: the base holds no CSIRT and no reporting duty, and the critical national infrastructure designation that would carry one is itself ***Not held***.
 
 The Executive's first answer to the National Assembly on critical-infrastructure risk, given on 31 July, was the standing build programme — the national data centre and the country-code domain — with no new measure, obligation or timetable announced. Telecommunications remains undesignated as critical national infrastructure, and named analysts argued during the month that it should be designated alongside power and water.
 
-A regional preparatory meeting on radiocommunications opened in Luanda on 3 August, five days into the outage, with the resilience of telecommunications infrastructure on its agenda.
+A regional preparatory meeting on radiocommunications opened in Luanda on 3 August, seven days into the outage and two before it closed, with the resilience of telecommunications infrastructure on its agenda.
 <!-- /narrative -->
 
 ## Digital public infrastructure
