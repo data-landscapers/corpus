@@ -168,7 +168,15 @@ cmd /c C:\CORPUS\mirror.bat
 
 It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` (which carries both repos and Bill's `Dropbox\Github`), and appends a dated line to `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and the FreeFileSync log.
 
-**Owed: an automated freshness check over `logs\mirror_log.md`** *(2026-08-16, not yet built)*. All backups are Corpus's now — OSINT runs none and its own `LINT` #19 retires with its mirror (`documentation/osint-migration.md` R8). #19 existed because the mirror once went a week stale in silence, and it is the only automated guard either repo has ever had; the paragraph above replaces it with a human being asked to eyeball a timestamp, in the same breath as explaining that the exit code cannot be trusted. One mirror now covers both repos, so a silent lapse loses both. The check belongs here, on the same skeleton as OSINT's — newest line in `logs\mirror_log.md` against the newest render, plus a `FAIL` state — and reports rather than fixes, since firing a `/MIR` is Bill's.
+**The freshness check is built** *(2026-08-16)*. `scripts/lint-mirror-freshness.py` reads the newest line of `logs/mirror_log.md` and rules on three things: whether that run recorded `FAIL`, whether it predates the newest `· render ·` line in `logs/log.md`, and whether it is simply old (`--max-age-hours`, default 72). The third is not decoration — the first two both compare against *something having happened*, so a quiet fortnight with no render passes them both while the backup ages, which is the week-of-silence that made OSINT's `LINT` #19 necessary in the first place. Commits landed since the mirror are **reported, not gated**: they are the true measure of exposure, but a check that fails all the way through an ordinary working session is one that gets ignored.
+
+```bash
+python scripts/lint-mirror-freshness.py     # 0 clean · 1 stale or failed · 2 nothing recorded
+```
+
+**It reports and never fixes**, because `mirror.bat` mirrors *onto* the Dropbox copies — running it is a destructive write on the destination, and firing a `/MIR` is Bill's. Run it before the mirror to see whether one is owed, and after it to confirm the line landed. `scripts/test_mirror_freshness.py` proves all three fault paths fire, on the same principle as the leak-gate test: this check will read `ok` for weeks at a time, which is exactly when a broken one goes unnoticed.
+
+*(Why it reads a log rather than trusting `mirror.bat`'s exit code is the paragraph above: a bare or bash-mangled invocation exits 0 having backed up nothing. Only a run that reached the end writes a dated line. This is what replaces `LINT` #19, which retires with OSINT's own mirror — `documentation/osint-migration.md` R8 — and it now covers both repos, since one mirror does.)*
 
 ## If something fails
 
