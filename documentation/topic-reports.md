@@ -2,7 +2,7 @@
 
 *(Written from Cowork, for a Claude Code session. It held the drafted text for CC to review before either runbook was edited.)*
 
-*(**Built 2026-08-14.** CC reviewed it operationally, corrected it — 38 slugs not 39, sections read off the ledger row, the progress report carrying tables and no prose — and then implemented it as `scripts/topic-render.py`. `BUILD.md` stage 6 and `RENDER.md` → Topics are now the live procedure; **read those, not the drafted text below**, which is kept for its reasoning. 76 documents are in `outputs/topics/`, check G passes over all of them, and a second run reports every one `unchanged`. The findings that changed the design are in `documentation/reviews/2026-08-14-cc-review-of-topics-and-index.md`.)*
+*(**Built 2026-08-14.** CC reviewed it operationally, corrected it — 38 slugs not 39, sections read off the ledger row, the progress report carrying tables and no prose — and then implemented it as `scripts/topic-render.py`. `BUILD.md` stage 6 and `RENDER.md` → Topics are now the live procedure; **read those, not the drafted text below**, which is kept for its reasoning. 76 documents are in `outputs/topics/`, check G passes over all of them, and a second run reports every one `unchanged`. The findings that changed the design are in `documentation/archived/2026-08-14-cc-review-of-topics-and-index.md`.)*
 
 ## What Bill decided
 
@@ -128,7 +128,7 @@ The home page's Topics boxes can link to the rendered documents once this runs; 
 
 # Checked by CC (2026-08-14)
 
-All four, against the code and today's `outputs/`. The full record, including two findings this note did not ask for, is `documentation/reviews/2026-08-14-cc-review-of-topics-and-index.md`.
+All four, against the code and today's `outputs/`. The full record, including two findings this note did not ask for, is `documentation/archived/2026-08-14-cc-review-of-topics-and-index.md`.
 
 1. **Does `render.py` care where its input sits? Yes, and its filename grammar mattered more.** `parse_name()` was `stem.split("-")` returning `parts[0], parts[1]`, which is fine while every unit is an ISO3 code and wrong the moment a unit is hyphenated: `dpi-pay-monthly.md` parsed as unit `dpi`, kind `pay`, and `dpi-pay-progress.md` parsed as *the same pair*, so both documents wrote `dpi-pay.html` and the second replaced the first. All 38 slugs are hyphenated. **Fixed** — it now splits from the right on a known kind, and a new `tree_of()` takes the output tree from the source path, so `outputs/topics/…` renders to `site/topics/…` with a permalink that agrees. Unit reports are byte-for-byte unaffected.
 2. **Do all unit monthlies share one period? Today yes, but keep the clause.** All 54 monthlies read `2026-07-01 to 2026-08-14` and all 57 progress reports `2025-08-01 to 2026-08-14`. The period is a render-time window and `rebuild.py --reports` takes a unit list, so any partial re-render leaves units on different windows until the next full pass. The clause is live, not a hedge.

@@ -67,12 +67,14 @@ The Cowork sandbox cannot resolve `scripts/.workroot/`'s Windows junctions, so *
 
 Nothing in `outputs/` has been rebuilt yet, which is simply the state before BUILD runs. One visible symptom, logged as `notes-for-osint.md` note 6: KEN's `ledger.csv` holds 172 rows and 6 *Not held*, its status document says 147 and 4, its progress document 169 and 6 — three counts of one ledger, because the documents predate the ledger. A rebuild should clear it, so **note 6 is probably self-clearing** and worth re-checking before anyone actions it in OSINT.
 
+> **The note number above no longer resolves, 2026-08-16.** `notes-for-osint.md` was renumbered from 1 in the 2026-08-13 rewrite, and note 6 in the current file is the UNITEL outage duration, not this KEN row-count discrepancy — which has since cleared on its own, exactly as this paragraph predicted, and carries no number now. The sentence is left as written because it records what was true when it was written; this addendum exists so nobody follows the number and reads the wrong note. *(The renumbering is why `notes-for-osint.md` now keeps a stub at a number whose note has moved, rather than closing the gap.)*
+
 ## Also in these commits
 
 The report-layer spec is now Corpus-owned — `documentation/report-layer.md`, plus `report-country-skeleton.md` and `report-region-skeleton.md`, ported from OSINT and adapted. Every `wiki/report-layer.md` citation in `scripts/` and `documentation/` was repointed. Two findings from that:
 
 - **`report-register-check.py` was crashing, not passing.** `SKELETONS` pointed at `ROOT/wiki/report-country-skeleton.md`, which has never existed in Corpus, so BUILD stage 4 step 5's register check died with `FileNotFoundError` on every run. Fixed by the port; ZAF now checks clean.
-- **`documentation/osint-migration.md` R7 was wrong on its own premise.** It retired the three spec files from OSINT on the grounds that "CORPUS holds working copies in its `scripts/`" — true of the `.py` files, false of the `.md` ones, which Corpus did not hold at all. Had R7 run as written, stage 4 would have lost its spec and check K its budget. R7 now says what is true.
+- **`documentation/archived/osint-migration.md` R7 was wrong on its own premise.** It retired the three spec files from OSINT on the grounds that "CORPUS holds working copies in its `scripts/`" — true of the `.py` files, false of the `.md` ones, which Corpus did not hold at all. Had R7 run as written, stage 4 would have lost its spec and check K its budget. R7 now says what is true.
 
 ## Questions for CC
 
@@ -97,7 +99,7 @@ The real finding is what Corpus does **not** run. Of the five checks that travel
 
 I have marked both ***Not implemented*** in `report-layer.md` §6 rather than leave the spec claiming verification the layer does not perform. Building them is a judgement about BUILD's priorities against the 188-block drafting backlog, which is why I have not just written them.
 
-**Two documents had the split wrong**, both now corrected: `documentation/osint-migration.md` R3 told OSINT to **drop checks A and D**, which under the ruling it should keep — that one would have cost OSINT verification it needs — and `report-layer.md` §6 claimed A and D for Corpus. `documentation/migration-report-layer.md` still carries the older wording in two places; it is a proposal marked *agreed* and I have not rewritten it, so read R3 and the spec as authoritative over it.
+**Two documents had the split wrong**, both now corrected: `documentation/archived/osint-migration.md` R3 told OSINT to **drop checks A and D**, which under the ruling it should keep — that one would have cost OSINT verification it needs — and `report-layer.md` §6 claimed A and D for Corpus. `documentation/migration-report-layer.md` still carries the older wording in two places; it is a proposal marked *agreed* and I have not rewritten it, so read R3 and the spec as authoritative over it.
 
 **2. `report-scan.py --month-due` is issue vocabulary in a model with no issues.** It asks "is a closed month owed an issue?" against a repo-level `last-monthly.txt` marker, and gates a monthly rotation. With one living monthly per unit whose window slides, I could not work out what the gate should now mean — whether it still has a job, or whether the window sliding is the whole of it. Left untouched on purpose.
 
@@ -105,7 +107,7 @@ I have marked both ***Not implemented*** in `report-layer.md` §6 rather than le
 
 **4. `pull.py` and `test_pull.py` are still in `scripts/`.** `RENDER.md` §14 says the build no longer starts with `pull.py`, and §46 lists retiring it as the durable repoint. `test_pull.py` still carries ledger fixtures in the pre-2026-08-14 shape (`system,status,note`), so it will read as stale to anyone who opens it. Not urgent; worth knowing they are there.
 
-**5. Was `documentation/reviews/2026-08-13-cowork-review-of-cc.md` §27.2 ever true?** My own review of your 08-13 work said "RENDER skips them, so nothing bad publishes" about the unwritten-narrative blocks. The skip had already been removed that same day. I have added a dated addendum rather than editing the review, but if I misread the sequence, correct it there.
+**5. Was `documentation/archived/2026-08-13-cowork-review-of-cc.md` §27.2 ever true?** My own review of your 08-13 work said "RENDER skips them, so nothing bad publishes" about the unwritten-narrative blocks. The skip had already been removed that same day. I have added a dated addendum rather than editing the review, but if I misread the sequence, correct it there.
 
 ## Still open, and Bill's
 

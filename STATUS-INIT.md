@@ -4,6 +4,13 @@ Trigger: **"status-init {ISO3}"**. From a clean context — one country per run 
 
 Builds `outputs/reports/{ISO3}/{ISO3}-status.md` — a narrative answering, for each of the 37 sub-sections of `status-outline.md`, **what is the current status of this in this country**. The bullets under each sub-section in the outline are the checklist of what has to be established before that question can be answered. They are not the shape of the output. The output is prose.
 
+## Read alongside
+
+Two documents carry findings this runbook depends on and does not repeat. Neither was linked from here until 2026-08-16, which is why they are named now: a reference document nothing points at is one nobody reads.
+
+- **`documentation/status-init-nga-first-run.md`** — what the first run found out about the *process and the data*, as distinct from what it found out about Nigeria. Its first two sections recur on every remaining country: the Ibrahim Index family carries no URL and is answered from the per-country profile PDF instead, and a country's sourceless rows are usually the negatives a baseline most wants. It also carries the rule that governs every score in a status report — **a score is not a fact until it is written as one, with its rank or its direction, and never as a bare number out of 100** — and the cost and shape figures for planning a run. NGA is the ceiling, not the median.
+- **`documentation/status-init-preflight.md`** — the review of this runbook against the code and data as they actually are, done before the first country. The corrections it names have been made here; it is kept for the reasoning.
+
 ## Where this runs
 
 **This is a Corpus procedure and it lives at the Corpus root**, beside `BUILD.md` and `RENDER.md`. It initialises a document in `outputs/`, and everything in `outputs/` is Corpus's — the same rule that puts the report update and the topic layer in BUILD. It reads OSINT and never writes to it. *(This section previously said the file belonged in the OSINT root. Cowork wrote that, in the session that drafted this file, and it was wrong then: the process was already writing to `outputs/`, which the migration had already made Corpus's. Corrected on Bill's ruling, 2026-08-14.)*

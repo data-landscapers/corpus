@@ -8,6 +8,8 @@ last_reviewed: 2026-08-15
 
 *(2026-08-15. Nigeria is the first of the 54 and the heaviest: 16 intersections, 348KB of wiki evidence, 462 indicator rows, 90 finance rows. What follows is what the run found out about the process and the data, as distinct from what it found out about Nigeria. Everything in the first two sections recurs on the other 53.)*
 
+*(**Promoted out of `documentation/reviews/` on 2026-08-16, and not archived, because it is still operative.** STATUS-INIT stands at 19 countries through and 35 outstanding, so the properties of the material described below are ahead of the work rather than behind it. The other three files in that folder were spent and moved to `documentation/archived/`; the folder itself is gone, sorting documents by who wrote them rather than by whether they are still true. `STATUS-INIT.md` → *Read alongside* now points here, which nothing did before.)*
+
 ## What was produced
 
 `outputs/reports/NGA/NGA-status.md` — 37 sub-sections, 246 distinct sources, none *not established*.

@@ -29,7 +29,7 @@ My `_link_dir` guarded removal with `islink or exists`; a **broken** junction (t
 1. **The gate now depends on `pypdf`** on the render machine. It fails-closed if absent (correct), so confirm it's installed or every PDF reports "cannot scan". CC noted `pip install pypdf`.
 2. **Monthly backlog grew.** The per-subject marker split minted more `_(narrative not yet written)_` blocks; RENDER skips them, so nothing bad publishes, but the authoring backlog (my task) is now per-subject.
 
-> **Overtaken by events, 2026-08-14.** Two halves of this are no longer true. RENDER does **not** skip them — that rule was removed on 2026-08-13 as worse than useless (`RENDER.md`, and the TCD/TGO stale-page case), so nothing has been standing between an unwritten block and the site. And the renderer no longer mints the placeholder at all: an unwritten block is emitted empty, and `report-render.py --check`'s new check L counts them. The backlog itself stands at 188 blocks across 38 of 57 units and is BUILD's to drain. See `documentation/reviews/2026-08-14-build-changes.md`.
+> **Overtaken by events, 2026-08-14.** Two halves of this are no longer true. RENDER does **not** skip them — that rule was removed on 2026-08-13 as worse than useless (`RENDER.md`, and the TCD/TGO stale-page case), so nothing has been standing between an unwritten block and the site. And the renderer no longer mints the placeholder at all: an unwritten block is emitted empty, and `report-render.py --check`'s new check L counts them. The backlog itself stands at 188 blocks across 38 of 57 units and is BUILD's to drain. See `documentation/archived/2026-08-14-build-changes.md`.
 
 ## notes-for-osint #10 — a real finding, correctly routed
 

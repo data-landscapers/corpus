@@ -63,7 +63,7 @@ If the sentence already reads that way, this step is done.
 
 ## 4. Correct OSINT's copy of the migration brief
 
-**`documentation/osint-migration.md`** is a snapshot taken before the withdrawal, and three places still carry the exception:
+**`documentation/archived/osint-migration.md`** is a snapshot taken before the withdrawal, and three places still carry the exception:
 
 - the boundary paragraph near the top — *"with one exception (the request feed, task R9)"*;
 - **R9** itself, which still instructs a reader to wire it;

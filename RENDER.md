@@ -177,7 +177,7 @@ python scripts/lint-mirror-freshness.py     # 0 clean · 1 stale or failed · 2 
 
 **It reports and never fixes**, because `mirror.bat` mirrors *onto* the Dropbox copies — running it is a destructive write on the destination, and firing a `/MIR` is Bill's. Run it before the mirror to see whether one is owed, and after it to confirm the line landed. `scripts/test_mirror_freshness.py` proves all three fault paths fire, on the same principle as the leak-gate test: this check will read `ok` for weeks at a time, which is exactly when a broken one goes unnoticed.
 
-*(Why it reads a log rather than trusting `mirror.bat`'s exit code is the paragraph above: a bare or bash-mangled invocation exits 0 having backed up nothing. Only a run that reached the end writes a dated line. This is what replaces `LINT` #19, which retires with OSINT's own mirror — `documentation/osint-migration.md` R8 — and it now covers both repos, since one mirror does.)*
+*(Why it reads a log rather than trusting `mirror.bat`'s exit code is the paragraph above: a bare or bash-mangled invocation exits 0 having backed up nothing. Only a run that reached the end writes a dated line. This is what replaces `LINT` #19, which retires with OSINT's own mirror — `documentation/archived/osint-migration.md` R8 — and it now covers both repos, since one mirror does.)*
 
 ## If something fails
 
