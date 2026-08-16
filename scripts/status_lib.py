@@ -52,6 +52,19 @@ _cache = {}
 # Evidence sets
 # --------------------------------------------------------------------------- #
 
+# Every separator the two source tables use to hold several URLs in one cell.
+#
+# The comma was the third one found, on the TGO run (2026-08-16), and it was the most expensive:
+# 108 rows join their URLs with a bare comma and no space, which hid **92 real URLs** from check A
+# across the dataset and cost Togo 10 facts at the pooling step. The pipe cost Egypt 15 facts and
+# 46 URLs (2026-08-15) and the semicolon cost Uganda two; each was fixed where it was found, in the
+# one function it was found in, which is why the third instance was still here to find.
+#
+# **A comma is only a separator when a URL follows it.** Splitting on every comma would break the
+# URLs that legitimately carry one in the path — so the lookahead is load-bearing, not defensive.
+_URL_SEP = re.compile(r"(?:[|;\s]+|,(?=\s*https?://))")
+
+
 def _variants(url):
     """A URL and the forms it may legitimately take inside a markdown link.
 
@@ -68,18 +81,17 @@ def dpi_urls():
     Not filtered by country. The check is "is this link real", not "did this country's rows cite
     it" — a narrower set would fail a report for citing a regional source correctly.
 
-    Split on the pipe as well as whitespace and semicolons: 418 of the 22,848 rows carrying a URL
-    hold several in the one cell separated by `|`, and reading the cell whole holds only the
-    concatenation — so every real URL in such a row fails check A, and the pooling step drops a
-    fact citing one correctly as a link the base does not hold. It cost 15 of Egypt's facts and
-    46 URLs across the dataset. *(Found 2026-08-15 on the EGY run; the same defect as the one
-    `finance_urls()` records from UGA, in the other separator.)*"""
+    Cells holding several URLs are split on `_URL_SEP` — see the note there, which carries the
+    count for each separator found and why the comma needs a lookahead. 418 of the 22,848 rows
+    carrying a URL use the pipe and 108 use a bare comma; reading such a cell whole holds only
+    the concatenation, so every real URL in the row fails check A and the pooling step drops a
+    fact citing one correctly as a link the base does not hold."""
     if "dpi" not in _cache:
         out = set()
         if os.path.exists(DPI_CSV):
             with open(DPI_CSV, encoding="utf-8-sig", newline="") as fh:
                 for row in csv.DictReader(fh):
-                    for u in re.split(r"[|;\s]+", row.get("Source urls") or ""):
+                    for u in _URL_SEP.split(row.get("Source urls") or ""):
                         u = u.strip().strip(".,;")
                         if u.startswith("http"):
                             out |= _variants(u)
@@ -90,16 +102,19 @@ def dpi_urls():
 def finance_urls():
     """Every URL cited by the finance table.
 
-    Split on whitespace, semicolons and pipes, as `dpi_urls()` does: six of the 1,243 rows carrying a URL
-    hold two of them in the one cell, and reading the cell whole holds only the concatenation — so
-    both real URLs fail check A, and a report citing one correctly is failed for a synthesised link.
-    *(Found 2026-08-15 on the UGA run, by the extraction agent that cited the first of the two.)*"""
+    Split on `_URL_SEP`, the same separator set `dpi_urls()` uses — one definition, so a separator
+    found in one table is fixed in both. Six of the 1,243 rows carrying a URL hold two in the one
+    cell, and reading it whole holds only the concatenation, so both real URLs fail check A and a
+    report citing one correctly is failed for a synthesised link. *(Found 2026-08-15 on the UGA
+    run, by the extraction agent that cited the first of the two. Sharing the constant is what
+    the TGO run added: the same fault was fixed here and in `dpi_urls()` separately, and a third
+    separator then sat undetected in both for a day.)*"""
     if "finance" not in _cache:
         out = set()
         if os.path.exists(FINANCE_CSV):
             with open(FINANCE_CSV, encoding="utf-8-sig", newline="") as fh:
                 for row in csv.DictReader(fh):
-                    for u in re.split(r"[|;\s]+", row.get("url") or ""):
+                    for u in _URL_SEP.split(row.get("url") or ""):
                         u = u.strip().strip(".,;")
                         if u.startswith("http"):
                             out |= _variants(u)
