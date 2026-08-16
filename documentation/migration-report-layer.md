@@ -96,7 +96,7 @@ The mirror of the constraints already atop `logs/notes-for-osint.md`, now that C
 
 **Phase 2b — re-found the report layer with the new register.** Rebuild the ledgers clean (Note 6 moot), and draft one real report under the v0.3 editorial register — a live test of the voice, the thing we iterate on together. Rewrite the in-flight monthlies to match once the register settles.
 
-**Phase 2c — cut the site over.** Render the site from Corpus-owned state; retire the report/finance/catalogue halves of `scripts/pull.py`. Add the final verification: a full render + G–K over every unit before anything is called authoritative. *(Corrected 2026-08-16 — this said A, D, G–K. A and D stay in OSINT under the 2026-08-13 ruling; see *What stays with OSINT* above.)*
+**Phase 2c — cut the site over.** Render the site from Corpus-owned state; retire the report/finance/catalogue halves of `scripts/pull.py`. *(Done 2026-08-16, and further than planned: the renderers were repointed at `outputs/`, `upstream/` deleted, and `pull.py` removed whole rather than by layer.)* Add the final verification: a full render + G–K over every unit before anything is called authoritative. *(Corrected 2026-08-16 — this said A, D, G–K. A and D stay in OSINT under the 2026-08-13 ruling; see *What stays with OSINT* above.)*
 
 **Phase 3 — close the loop (after Sunday, needs OSINT).** Stand up the request feed, move `probe_at` into Corpus, confirm a gap minted in Corpus reaches OSINT's sweeps and returns as a source.
 

@@ -8,7 +8,7 @@
 **Why this exists.** `documentation/design.md` §8 makes this the one check that
 *fails* the build rather than warning: a verbatim source body must never reach
 this repo's history, because a leak into a public repo is permanent. It used to
-live inside `scripts/pull.py` (the pre-migration pull from OSINT). The migration
+live inside `scripts/pull.py` (the pre-migration pull from OSINT, deleted 2026-08-16). The migration
 retired the pull but not the risk — Corpus now **authors** `outputs/` itself, and
 a bug in a compiler could still copy a body — so the gate is rehomed here, as its
 own runnable thing, and each job invokes it before it commits or publishes.
@@ -17,7 +17,7 @@ own runnable thing, and each job invokes it before it commits or publishes.
 never fire. That is exactly why it fails the run: a firing means a compiler is
 wrong, and we want to hear about it loudly, before the commit, not after.
 
-Detection (lifted unchanged from the retired pull.py gate):
+Detection (lifted unchanged from the retired pull.py gate; `scripts/test_leak_check.py` proves each case fires):
   - any column/key named like a body (`body`, `text`, `content`, …) — immediate fail;
   - any field longer than a length cap (1000 chars; 8000 for known prose columns
     like `description`/`note`) — the backstop for a body the names miss;

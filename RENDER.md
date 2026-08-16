@@ -11,7 +11,7 @@ last_reviewed: 2026-08-13
 ## What changed, and why this runbook exists
 
 Corpus now **authors** its report and compile layer itself, in `outputs/` (see `documentation/migration-report-layer.md`). It is no longer a mirror pulled from OSINT.
-So the build no longer starts with `scripts/pull.py`. It starts from `outputs/`, which is already in the repo and committed.
+So the build no longer starts with a pull. It starts from `outputs/`, which is already in the repo and committed. *(`scripts/pull.py` and its test were deleted on 2026-08-16; the leak gate they carried lives in `scripts/leak-check.py`, tested by `scripts/test_leak_check.py`.)*
 The renderers read `outputs/` directly *(2026-08-16)*. They were written against `upstream/`, a mirror of `outputs/` that RENDER refreshed on every run; the repoint this file used to defer has been done and `upstream/` is deleted. There is no copy step and no second tree that can go stale.
 
 ## Prerequisites
@@ -39,7 +39,7 @@ git rev-parse HEAD > BUILT-FROM
 
 `BUILT-FROM` sits at the repo root and records the Corpus commit this render was cut at; `render.py`, `home.py` and `country.py` read it and print it as the site's provenance stamp (`documentation/design.md` §8). One line, and it is the whole of what Step 1 used to do.
 
-*(Until 2026-08-16 this step mirrored `outputs/` into `upstream/` with `robocopy /MIR` and wrote `BUILT-FROM` there, because the renderers read that path. The repoint the old text deferred is done: every renderer reads `outputs/` directly and `upstream/` is gone. `scripts/pull.py` still writes an `upstream/` and is now orphaned — it belongs to the retired OSINT `outputs/` pull, not to this build.)*
+*(Until 2026-08-16 this step mirrored `outputs/` into `upstream/` with `robocopy /MIR` and wrote `BUILT-FROM` there, because the renderers read that path. The repoint the old text deferred is done: every renderer reads `outputs/` directly and `upstream/` is gone. `scripts/pull.py`, which was the only thing that would have recreated an `upstream/`, was deleted the same day along with `scripts/test_pull.py`.)*
 
 ## Step 2 — render every report to HTML + PDF
 

@@ -28,7 +28,7 @@ Corpus *reads* OSINT freely: grep the tree, read any file, run read-only git com
 
 ## How data actually moves
 
-**Corpus authors its own `outputs/`** *(since the 2026-08-13 migration; `upstream/` deleted 2026-08-16)*. BUILD.md builds `outputs/` from OSINT's `raw/`, `wiki/` and `lookups/`, read-only. `scripts/pull.py` — which used to pull OSINT's own `outputs/` into an `upstream/` tree and replace it wholesale — is orphaned and is not part of the build.
+**Corpus authors its own `outputs/`** *(since the 2026-08-13 migration; `upstream/` deleted 2026-08-16)*. BUILD.md builds `outputs/` from OSINT's `raw/`, `wiki/` and `lookups/`, read-only. `scripts/pull.py` — which used to pull OSINT's own `outputs/` into an `upstream/` tree and replace it wholesale — was deleted on 2026-08-16 with its test; there is no pull step any more.
 
 Then the renderers run over `outputs/` and write `site/`:
 - `scripts/render.py` — one report (status / monthly / progress) → HTML + PDF, both from one template and one stylesheet, via WeasyPrint.

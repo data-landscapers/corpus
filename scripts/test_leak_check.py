@@ -1,21 +1,33 @@
 #!/usr/bin/env python3
-"""test_pull.py — prove the leak gate fires.
+"""test_leak_check.py — prove the leak gate fires.
 
 A gate that has only ever passed is not evidence of anything. Run after any
-change to pull.py's gate:
+change to `leak-check.py`:
 
-    python scripts/test_pull.py
+    python scripts/test_leak_check.py
+
+*(Was `test_pull.py`, which tested the same eight cases against the copy of the
+gate inside `scripts/pull.py`. That pull was retired by the 2026-08-13 migration
+and the script deleted on 2026-08-16, so the test was proving a gate nothing ran.
+It now runs against `leak-check.py`, which is the gate BUILD and RENDER actually
+invoke — `scan()` returns findings rather than raising, so a clean tree is an
+empty list.)*
 """
 
 from __future__ import annotations
 
+import importlib.util
 import shutil
 import sys
 import tempfile
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from pull import Leak, leak_gate  # noqa: E402
+# leak-check.py is hyphenated, so it cannot be imported by name.
+_spec = importlib.util.spec_from_file_location(
+    "leak_check", Path(__file__).resolve().parent / "leak-check.py")
+leak_check = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(leak_check)
+scan = leak_check.scan
 
 CLEAN_MD = """---
 title: Kenya — status report
@@ -98,13 +110,10 @@ def run() -> int:
                 p = tmp / rel
                 p.parent.mkdir(parents=True, exist_ok=True)
                 p.write_text(content, encoding="utf-8")
-            try:
-                leak_gate(tmp)
-                passed = True
-                detail = ""
-            except Leak as exc:
-                passed = False
-                detail = str(exc).splitlines()[-1].strip()
+
+            findings = scan(tmp)
+            passed = not findings
+            detail = findings[0].strip() if findings else ""
 
             ok = passed == should_pass
             failures += not ok
