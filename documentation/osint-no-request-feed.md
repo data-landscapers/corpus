@@ -8,7 +8,9 @@ status: written in Corpus — to be actioned in an OSINT session
 
 # Correct the boundary: OSINT reads nothing from CORPUS
 
-*(Written from CORPUS, for OSINT. **Self-contained — it assumes nothing about the migration list in `osint-migration.md` and needs none of it read first.** One change, one file, a few minutes. One line per paragraph, OSINT house style.)*
+*(Written from CORPUS, for OSINT. **Self-contained — it assumes nothing about the migration list in `osint-migration.md` and needs none of it read first.** One line per paragraph, OSINT house style.)*
+
+*(**Run this after session 1 of `cc-reset-instructions-2026-08-16.md` has finished, not during it.** That session's task 8 is R10's pruning pass, which edits `CLAUDE.md` and the briefs — the same files this instruction edits. Running both at once means one overwrites the other. If session 1 is still in flight, the useful thing is to tell it that **task 6 is withdrawn**, so its remaining tasks stop treating the request feed as live.)*
 
 ## Why
 
@@ -28,7 +30,18 @@ So the boundary loses its exception rather than gaining a workaround: **CORPUS r
 
 Cut everything from *and reads only* onward, and close the sentence so it says OSINT neither writes to CORPUS nor reads from it — no exception, and no mention of a request feed. State plainly that an OSINT session cannot see `C:\CORPUS` and is not meant to.
 
-**Add nothing to `ACQUIRE`.** No step that reads a CORPUS path, no parser for `requests-for-osint.csv`. If an earlier session added one, remove it. *(Checked from CORPUS on 2026-08-16: `ACQUIRE.md` has no such step, so this is a confirmation rather than a repair.)*
+**Unwire R9, which has already been built.** *(Checked from CORPUS at 2026-08-16 11:0x — an earlier draft of this file said `ACQUIRE.md` had no such step and that this was a confirmation rather than a repair. That was true when written and stopped being true at 10:40, when session 1 wired it as task 6.)*
+
+It landed as one commit, **`759f6492`** — *"R9: wire ACQUIRE and the country-deep sweep to CORPUS's request feed"* — across four files:
+
+- **`ACQUIRE.md`** — a `## Pulling in CORPUS's request feed` section before the loop, reading `C:\CORPUS\logs\requests-for-osint.csv` and appending open rows to `reviews/acquisitions.md`, deduped on `row_id`. Remove the section whole.
+- **`SWEEP-COUNTRY-DEEP.md`** — a fifth per-country item, *Search 5*, one locate-and-fetch task per open row whose `unit` matches the country. Remove it and restore the four-item shape.
+- **`wiki/index.md`** — the `ACQUIRE.md` and `SWEEP-COUNTRY-DEEP.md` rows were updated to describe the new steps. Restore their previous wording.
+- **`logs/log.md`** — **do not revert this file.** The log is append-only and its 10:40 entry is a true record of what happened. Leave it and append a new entry recording the unwind, per the vault's own rule.
+
+So `git revert 759f6492` is the fast path only if `logs/log.md` is excluded from it, and note that R7 (`1d83c41c`) landed afterwards and also touched `wiki/index.md`, so expect a conflict there and resolve by hand. Reverting the two process files and the two index rows directly is the safer route.
+
+The session did the right thing on its way in: it recorded in both process files, and in the log, that `C:\CORPUS` was unreachable and the wiring could not be tested. Those flags come out with the steps they annotate.
 
 **Correct the two briefs OSINT committed into its own `documentation/`.** Both predate this decision and both still instruct a reader to wire the feed, so a later session — or the Fable pass reviewing the migration — will otherwise act on them:
 
