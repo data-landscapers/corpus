@@ -23,7 +23,7 @@ So the PDFs are essentially the whole of the repository's weight, and the markdo
 
 **PDFs stop being version-controlled and become backed-up binary artefacts.**
 
-That is the whole of the decision, and it is worth stating plainly because it changes what git guarantees about them. A PDF is never edited after capture: it has no diff, no merge, no history worth reading. Version control buys nothing for it and costs 2.61 GB. What a PDF does need is a backup, and the mirror already provides one.
+That is the whole of the decision, and it is worth stating plainly because it changes what git guarantees about them. A PDF is never edited after capture: it has no diff, no merge, no history worth reading. Version control buys nothing for it and costs 2.61 GB. What a PDF does need is a backup, and one is held outside this repository. That backup is Bill's and is run by him; it is not something OSINT operates, knows the location of, or has to arrange.
 
 **A new repository is not needed and is the worse option.** It would discard the markdown history, which is the part with value. `git filter-repo` rewrites the existing history in place and keeps everything else.
 
@@ -52,7 +52,7 @@ Add `*.pdf` to `.gitignore`, then drop them from the index while leaving them on
 
 ```bash
 git rm --cached -r --quiet -- '*.pdf' '*.PDF'
-git commit -m "Untrack PDFs; they stay in raw/ and are covered by the mirror"
+git commit -m "Untrack PDFs; they stay in raw/"
 ```
 
 `--cached` is the whole of the safety here: it removes the files from git's index and touches nothing on disk.
@@ -102,13 +102,13 @@ Then confirm nothing left the working tree — `find raw -iname '*.pdf' | wc -l`
 
 ## What is lost, and what is not
 
-**Lost:** the ability to recover a PDF from git history. From here a PDF exists in the working tree and in the mirror, and nowhere else.
+**Lost:** the ability to recover a PDF from git history. From here a PDF exists in the working tree and in Bill's backup of it, and nowhere else.
 
 **Not changed: where the PDFs are.** They stay in `raw/`, beside the records they belong to, visible to anything that opens the folder. Nothing about working directly in `raw/` changes.
 
 **Not lost:** the records themselves. Every markdown record in `raw/` stays tracked and committed, including the frontmatter, the body and the `url:` that makes the source citable. The standing requirement that `raw/`, `lookups/` and `wiki/` stay git-tracked is about those records, and it is unaffected — what leaves is the attached binary, not the evidence.
 
-**The consequence to be deliberate about:** the mirror becomes the only protection for 2.61 GB of documents. That is an argument for running the mirror on a known cadence after this, not an argument against doing it.
+**The consequence to be deliberate about:** a backup outside git becomes the only protection for 2.61 GB of documents. Keeping that backup current is Bill's, and he has accepted it. Nothing about it falls to OSINT.
 
 ## Timing
 
