@@ -1,378 +1,405 @@
 ---
 title: Ethiopia — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-16
 place: ETH
-ledger_rows: 83
-not_held: 4
-record: 97b0c09a1e42
+region: XEA
+built_by: STATUS-INIT
+hub_last_reviewed: 2026-07-30
+intersections_read: 8
+sources_cited: 154
+sections_written: 37
+not_established: 1
+acquire_lines: 67
 ---
-
-# Ethiopia: status report
-
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ETH/ledger.csv` (83 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
-
-**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
-
-## Summary of position
-
-<!-- narrative: summary -->
-Fayda, the national digital identity, is the flagship deployment of an open-source platform, [authenticates up to 4m times a day across more than 150 agencies](https://www.youtube.com/watch?v=B_iGkxWXNbg), was [incorporated on 2026-08-04 as a state-owned enterprise, Faydaverse, under Ethiopian Investment Holdings](https://www.biometricupdate.com/202608/faydaverse-officially-enters-africas-dpi-market), and is now being exported to Mozambique and Zambia.
-
-The Personal Data Protection Proclamation has been in force since July 2024, its secondary directives remain unissued, [its regulator has yet to enforce](https://shega.co/ethiopia-data-protection-slow-enforcement), and no separately identifiable money is appropriated for the job. The one-stop service platform's own regional executives [told federal management in July](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) that services are being onboarded before their underlying systems are digitised, and the interoperability layer that would fix it was approved by a prime-ministerial board in the same meeting that diagnosed its absence.
-
-Four things a reader would look for are not established at all, among them the secondary directives under that law and any audit of digital spending.
-<!-- /narrative -->
-
-## Infrastructure
+## ICT Infrastructure
 
 ### Connectivity
+<!-- infra.connect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Ethio Telecom network | [Implemented](https://techafricanews.com/2026/04/20/ethio-telecom-reaches-99-8-coverage-accelerates-smart-infrastructure-development/) | FY2025/26 close: data 31.1% of revenue against voice 23.5% |
-| Network expansion contracts from MWC 2026 | [Implemented](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/) | Ethio Telecom-ZTE progress review 2026-08-10: 879 sites completed under the ZTE programme |
-| Safaricom Ethiopia second network | [Implemented](https://www.businessdailyafrica.com/bd/corporate/companies/safaricom-invests-extra-sh1-4bn-in-ethiopia-unit-5541682) | 14.7m 90-day active customers at 2026-06-30, against an EBITDA-positive target of March 2027 |
-| Safaricom regional fibre deployment | [In development](https://www.thereporterethiopia.com/46234/) | Afdera-Mekelle build from 2025-08-02 |
-| teleStream and Zero-Touch Broadband | [Implemented](https://techafricanews.com/2026/02/23/ethio-telecom-launches-telestream-and-zero-touch-broadband-under-digital-2028-strategy/) | Launched 2026-02-23 |
-| Third mobile network operator licence | ***Not held*** | — |
+Data and internet passed mobile voice as [Ethio Telecom's largest revenue line in the year to 30 June 2026](https://www.thereporterethiopia.com/52133/), at 31.1 per cent of revenue against 23.5 per cent for voice. The operator closed that year with [52.5 million data and internet users, 1 million of them fixed broadband](https://www.thereporterethiopia.com/52133/), and [group revenue of 215.8 billion Birr, up 33.2 per cent, on 90.1 million subscriptions](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/).
+
+Subscriptions are not people. [Unique mobile subscriber penetration rose from 26 per cent in 2020 to 33 per cent in 2024](https://www.worldbank.org/en/results/2025/06/30/empowering-ethiopians-by-laying-the-digital-foundations-for-afe-economic-growth), far below the 68.4 per cent connections figure that counts SIMs, and [internet penetration stood at 19 per cent in 2024](https://www.worldbank.org/en/results/2025/06/30/empowering-ethiopians-by-laying-the-digital-foundations-for-afe-economic-growth). [International bandwidth was 22 kbit/s per internet user in 2022, and a mobile broadband basket cost 3.4 per cent of gross national income per head](https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_ETH.pdf).
+
+Build-out runs through vendor contracts and, newly, a second operator's own plant. Ethio Telecom [signed network expansion agreements with Ericsson, ZTE, Huawei and Nokia at MWC 2026](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/); by August 2026 [4G reached 92 per cent of the population across ZTE's own footprint](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/), with 124 new sites, 272 sites of spectrum refarming and 115 rural sites still outstanding. Safaricom Ethiopia [began laying regional fibre of its own in August 2025, on an Afdera–Mekelle route](https://www.thereporterethiopia.com/46234/). The [Horizon Fiber agreement with Djibouti Telecom and Sudatel became binding in February 2026](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal), committing the three to a terrestrial corridor from Djibouti's cable landings through Ethiopia to Sudan's. Domestic traffic crosses [one internet exchange point, Addix, with three members (2026)](https://pulse.internetsociety.org/en/ixp-tracker/country/ET/).
+
+What that reaches on the ground is thinner. A 2025 national assessment of the community health information system rated its [ICT infrastructure at 1.67 out of 5, with about 32 per cent of required tablets supplied and internet connectivity across health facilities at 28 per cent](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1554995/full); [ICT infrastructure is likewise the weakest domain of the national DHIS2 deployment (2024)](https://medinform.jmir.org/2024/1/e50375). Competition dates from 2021, when the Safaricom-led consortium [paid US$850 million for Ethiopia's first privately held fifteen-year operating licence](https://vodacom.com/pdf/sens/2021/wakanda-category-2-announcement-13-september-2021-publication.pdf).
 
 ### Data Storage
+<!-- infra.store -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Wingu Cloud Exchange in-country cloud | [Implemented](https://www.connectingafrica.com/cloud-networking/wingu-africa-debuts-cloud-exchange-platform-in-ethiopia) | In-country cloud live 2026-04-01 |
+No hyperscale cloud provider has a region or an edge node in Ethiopia, [the nearest hyperscale regions being in South Africa (2025)](https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20054-wingu-africa-brings-wcx-cloud-platform-to-ethiopia.html), so anything requiring hyperscale capacity is served from outside the country while [personal data carries a localisation requirement obliging local storage under the 2024 proclamation](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024).
+
+The in-country estate that has to absorb that is small and commercial. [Raxio runs a Tier III data centre in Addis Ababa with on-site access to public, private and hybrid cloud providers (2022)](https://www.raxiogroup.com/data-centres/ethiopia/), and [Wingu Africa's WCX platform provides local cloud that interoperates with Azure and AWS (2025)](https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20054-wingu-africa-brings-wcx-cloud-platform-to-ethiopia.html); Wingu [raised commercial finance in 2025 to accelerate its rollout across Ethiopia, Djibouti and Tanzania](https://www.biometricupdate.com/202506/60m-to-speed-up-digital-connectivity-infrastructure-in-ethiopia-djibouti-tanzania). Entry is not gated by an individual licence: [data centre and hosting service provision sit among the class licences of Directive 792/2021](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf), alongside ISP, virtual ISP, VSAT and satellite categories.
+
+On the state's own side, [a national data centre and a sovereign cloud offering are in operation (2025)](https://www.ena.et/web/eng/w/eng_7971189), and the national identity system [runs across data-centre sites of its own (July 2026)](https://www.youtube.com/watch?v=B_iGkxWXNbg). Where government data actually sits is not a matter of public record: [the hosting arrangements behind the government cloud are not published (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 ### Energy
+<!-- infra.energy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Bitdeer Oromia bitcoin-mining site | [Implemented](https://www.bitdeer.com/news/oromia-ethiopia-update) | 40 MW complete 2026-01-12 |
-| Ethio Telecom Green Operator renewable network programme | [Implemented](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/) | 39.72 MW of installed solar at 2026-08-04, up 12.72 MW over the financial year |
+The grid delivers an average of [39 interruptions a month, and about 21 hours of outage a month for large smart-metered users, against a regulatory standard of 10 to 15 interruptions a year](https://www.mowe.gov.et/sites/default/files/resource/Ethiopian%20Energy%20Outlook%202025.pdf) — the government's own 2025 assessment, and a margin that puts continuous operation of anything unbacked out of reach. [Access to electricity reached about 55 per cent of the population in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS), split [94.7 per cent urban against 43.6 per cent rural in the same year](https://tradingeconomics.com/ethiopia/access-to-electricity-rural-percent-of-rural-population-wb-data.html), and Ethiopia's [Access to Energy score of 30.5 out of 100 in 2023 ranks 32nd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) despite a 16.6-point gain over the decade.
+
+The off-grid half of the plan is behind. The [National Electrification Programme 2.0 targets a 65 per cent grid and 35 per cent off-grid split, but only 13 mini-grids had been installed by December 2024](https://www.eeas.europa.eu/delegations/ethiopia/expansion-grid-renewable-energy-rural-ethiopia-endev_en), and the World Bank's [US$500 million ADELE electrification project was restructured in 2025 on cost overruns, with its mini-grid component scaled back](https://documents1.worldbank.org/curated/en/099011325114534784/pdf/P171742-6b471124-f20a-456e-95cc-fc00286bd922.pdf). Deployments in the field work around the gap rather than wait for it to close: the Ministry of Health [issued roughly 29,950 power banks alongside tablets to Health Extension Workers (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/) so the community health information system could run where mains power is not available.
+
+Price is moving too. After the October 2025 revision the Ethiopian Electric Utility [charges 0.76 birr per kWh for the first 50 kWh block, rising to 5.10 birr per kWh above 500 kWh](https://www.eeu.gov.et/electricity-tariff/download/36), a phased move to cost recovery from tariffs that had been among the world's lowest — which shifts the running cost of compute upward as reliability is still being fixed. Generation itself is not the problem: [almost all output is renewable, at 99.96 per cent in 2015](https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS). Networks are where the money is going, with Agence Française de Développement committing [a EUR 80 million concessional loan in 2024 to modernise Ethiopian Electric Power's networks for a more digitalised economy](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22FR-3-CET1135%22), inside a co-financed package with the EIB, the French Treasury and EU grants.
+
+### Technical Capacity
+<!-- infra.capacity -->
+
+The state's own digital delivery arm is losing the argument for its people: [MESOB is losing staff to better-paying institutions, with the attrition unresolved (July 2026)](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), and the [three-year plan it launched on 24 July 2026 makes institutional capacity its first pillar](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) rather than the platform's reach. The pool it draws from is not obviously the constraint — [GitHub counted more than 94,000 developers in Ethiopia in 2023, up 32 per cent year on year](https://github.blog/news-insights/research/the-state-of-open-source-and-ai/) — but holding a share of that pool inside government is.
+
+Where the state has built in-house, it has done so as a stated choice. The National ID Program [sits under the Prime Minister's Office with its own technical staff and runs on the open-source MOSIP platform](https://www.biometricupdate.com/202506/ethiopias-digital-id-chief-lays-out-roadmap-for-reaching-90m-enrollments-by-2027), a decision its executive director frames as avoiding vendor lock-in and black-box systems, and it [staffs the system's engineering itself (July 2026)](https://www.youtube.com/watch?v=B_iGkxWXNbg). That model has been tested: Ethiopia is [named among the countries whose national health information instance stayed online through the 2025 United States aid cuts because government staff rather than donor-funded contractors ran it](https://dhis2.org/invest-in-routine-systems/).
+
+Handover from implementers is being attempted rather than assumed. The aLIVE programme [worked inside the Ministry of Agriculture's ICT unit for four years and placed three interns there when routine ICT tasks were found to be consuming the core staff time needed for system design and data governance](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/), and [a dedicated data steward now coordinates the Livestock Information System across directorates (July 2026)](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/). Against that, general administrative capability sits mid-table: an [Effective Administration score of 59.6 out of 100 in 2023, 20th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf).
 
 ### Cybersecurity
+<!-- infra.cybersec -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| INSA cybersecurity and sovereign-cloud foundations | [In development](https://www.ena.et/web/eng/digital-ethiopia-2030-launch) | Named in Digital Ethiopia 2030, 2025-12-21 |
+Ethiopia's standing cybersecurity strategy is the [National Cyber Security Framework of 2014](http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view_file/240358?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%2F-%2Fdocument_library%2FCNlICzpide2L%2Fview%2F126250%3F_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect%3Dhttp%253A%252F%252Fwww.mint.gov.et%252Fpolicy-and-strategy%253Fp_p_id%253Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview), the most recent dedicated instrument in the responsible ministry's policy library, and it predates the identity system, the payments rail and the second operator it would now have to cover.
 
-### Legislation and regulation
+On declared arrangements the country scores well, at [76.34 on the ITU's Global Cybersecurity Index 2024, in its Advancing tier](https://www.itu.int/pub/D-HDB-GCI.01-2024) — a measure of commitments and institutions rather than of tested defences. Statutory duties have caught up faster than strategy: the 2024 data protection proclamation [requires controllers to notify the regulator and the people affected within 72 hours of learning of a breach, and to document every breach](https://www.techhiveadvisory.africa/insights/review-of-ethiopias-data-protection-act). Cybersecurity frameworks are one of the four workstreams of the World Bank's [US$200 million Digital Foundations project, running 2021 to 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P171034).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Telecommunications Licensing Directive 792/2021 | [Implemented](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) | Issued July 2021 under Proclamation 1148/2019 |
+Assurance lags the estate it covers. Independent third-party security and software code audits of the national digital identity system are [funded work under the World Bank project rather than work already completed (2025)](https://documents1.worldbank.org/curated/en/099102523122010001/pdf/P1790400f12bd00ec0abca07db7f4723cda.pdf).
 
-### Strategies, plans and policies
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Telecom liberalisation | [Implemented](https://www.thereporterethiopia.com/48528/) | Monopoly ended 2021; one new full licensee since |
-
-### Regional collaboration
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Horizon Fiber terrestrial corridor | [In development](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal) | Memorandum became binding 2026-02-05 |
-
-### Digital divides
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Universal Access Fund levy | [Implemented](https://www.thereporterethiopia.com/49962/) | 1.5% of revenue levied from 2026-03-01 |
-
-### Access to services
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Smartphone affordability financing | [Implemented](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) | Bank financing deals signed 2026-07-17 |
-
-### China activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Ethio Telecom and Huawei enterprise stack | [Planned](https://itweb.africa/article/ethio-telecom-huawei-expand-digital-push/8OKdWqDX2pzqbznQ) | Scoping discussions reported 2026-07-17 |
-| Inspur and Shandong data-centre track | [Planned](https://techafricanews.com/2026/07/16/ethio-telecom-eyes-strategic-partnership-with-inspur-to-accelerate-digital-transformation/) | Track opened 2026-07-16 |
-
-### India activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| RailTel data-centre build | [Planned](https://railtel.in/images/pdf/Press%20Release_RailTel%20to%20build%20Data%20Centre%20in%20Ethiopia.pdf) | Announced 2026-01-09 |
-
-### Use of satellite data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Licensing framework for LEO satellite operators | [Implemented, as a general satellite class licence rather than a LEO-specific framework](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) | GMPCS landing-right class licence set in Directive 792/2021 (2021-07) |
-
-<!-- narrative: infrastructure -->
-Ethiopia liberalised telecoms in 2021 and the market is still two operators. Ethio Telecom reports [99.8% coverage on 90.1m subscribers and revenue of 215.8bn Birr](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/) in FY2025/26. At the financial-year close on 2026-06-30, [data and internet services were 31.1% of that revenue against mobile voice at 23.5%](https://www.thereporterethiopia.com/52133/), on the operator's own figures the first year in which voice was not the largest earner, with operating profit of 92.9bn Birr. [Directive 792/2021](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) has set the route since July 2021 — a unified telecommunications service licence awarded by competitive bidding and valid fifteen years.
-
-The second operator's development-finance backers have been diluted. [A funding round restricted to the Vodacom family lifted Safaricom's holding to 54.1% in March 2026](https://www.businessdailyafrica.com/bd/corporate/companies/safaricom-invests-extra-sh1-4bn-in-ethiopia-unit-5541682) from 51.67% a year earlier, cutting Sumitomo to 23.5%, British International Investment to 9.5% and the IFC to 6.81%, with a right to reacquire the 2.78%. The parent puts funding at KES 345.7bn (US$2.672bn) by 2026-06-30, including the US$850m licence fee, against 14.7m 90-day active customers and an EBITDA-positive target of March 2027.
-
-The Horizon Fiber corridor moved from a December 2024 memorandum to a [binding agreement in February 2026](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal) — Ethio Telecom, Djibouti Telecom and Sudatel linking Djibouti's subsea landings through Ethiopia to Sudan's.
-
-Of the MWC 2026 network-expansion contracts, [Ethio Telecom and ZTE reported 879 sites completed by 10 August 2026](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/), taking 4G population coverage to 92% across ZTE's own network footprint, with 124 new sites and 272 refarming sites still to come; that figure is not reconciled against the 95.5% national 4G coverage claimed at signature.
-
-The same directive's class-licence schedule carries a [landing right for satellite services delivered without infrastructure in the country](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf), so a low-earth-orbit operator has a route to apply for; the regulator denied in July 2025 that any discussions with one had taken place, and no authorisation is on record.
-
-Compute is arriving on cheap power and on Chinese and Indian partnerships.
-
-Site power is what makes rural coverage expensive. Ethio Telecom reported [39.72 MW of installed solar (2026-08-04) across 190 fully solar-powered sites and 867 hybrid solar-and-battery systems](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/), 12.72 MW of it added over the last financial year, with diesel generator running time down by up to 40% — its own unaudited figures.
-<!-- /narrative -->
-
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
+<!-- dpi.exchange -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| EthSwitch national switch | [Implemented](https://itweb.africa/article/m-pesa-ethiopia-surges-258-as-ethswitch-fuels-growth/) | M-PESA integrated 2025-10-01 |
-| National data exchange platform | [Planned](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) | Approved by a prime-ministerial board 2026-07-25 |
+Ethiopia has no operational whole-of-government exchange layer: [the country lacks a unified data-sharing framework and its one-stop government platform is a federal pilot integrating twelve institutions](https://dial.global/work/strengthening-ethiopias-national-data-governance-ecosystem/) (2025), and [the Ethiopia Digital Stack exchange platform funded under the World Bank digital ID project has yet to be delivered](https://ewsdata.rightsindevelopment.org/files/documents/40/WB-P179040.pdf) (2024).
+
+What does move between systems moves around that gap. [The SIGTAS tax administration system is linked over a secure VPN tunnel to the trade ministry's business register and to the national ID system for real-time taxpayer verification](https://www.tadat.org/content/dam/tadat/en/assessments/Ethiopia_Final_PAR_2025.pdf), an integration that predates the unbuilt platform (2025), and [five core systems — financial management, customs, tax administration, public-service HR and e-procurement — exchange data both through direct point-to-point interfaces and through a Government Service Bus](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+
+The standards have been settled for years without the plumbing beneath them. [The Ethiopian eGovernment Interoperability Framework sets the cross-agency data-sharing rules and establishes Regional Cells that act as ministry-level chief interoperability officers](https://thedocs.worldbank.org/en/doc/003d76985cbd41c53cfa9825d2464495-0460012022/original/I-3-9-1-EeGIF-Governance-and-Compliance.pdf), and that framework is one of the few things of its kind in place: [most of the supporting measures the GovTech index tests alongside it are recorded as absent](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). In the health sector, [interoperability is rated only "emerging" in the national DHIS2 deployment despite near-universal facility coverage](https://medinform.jmir.org/2024/1/e50375) (2024).
+
+Integration is meanwhile being improvised. [Two incompatible models have emerged under the one-stop platform: Addis Ababa absorbs institutions' systems outright, while the regions remain tethered to theirs and bounce users back to the originating agency](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) (July 2026), and at the same meeting [a prime-ministerial board's approval of a national data exchange platform was disclosed](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) — approved rather than built. Sectoral harmonisation is running ahead of the national layer: [five separate livestock databases are being aligned to an international data standard under a four-year programme with the Ministry of Agriculture](https://developmentgateway.org/blog/interoperability-as-a-cornerstone-of-resilient-digital-systems/) (2024).
 
 ### Digital Identity and CRVS
+<!-- dpi.id -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Biometric enrolment kits for banks | [Implemented](https://www.biometricupdate.com/202511/ethiopia-banks-receive-biometric-kits-to-expand-digital-id-enrollment) | 2,000 kits to 31 banks (2025-11) |
-| Ethio Telecom as identity enrolment channel | [Implemented](https://www.ena.et/web/eng/w/eng_9268046) | 69% of all national registrations (2026-07) |
-| Fayda national digital identity | [Implemented](https://www.youtube.com/watch?v=B_iGkxWXNbg) | 47.8m identities issued (2026-07-27) |
-| Faydaverse digital public infrastructure enterprise | [Implemented, as a state-owned enterprise under Ethiopian Investment Holdings](https://www.biometricupdate.com/202603/ethiopias-digital-id-joins-sovereign-wealth-fund-as-weekly-enrollments-reach-1m) | Inaugurated as a state-owned enterprise 2026-08-04 |
-| Safaricom and Africom identity registration joint venture | [Implemented](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration) | Lots 3 and 4 awarded 2026-07-06 |
+[Fayda enrolment passed 46 million people by early July 2026](https://newsaf.cgtn.com/news/2026-07-03/Ethiopia-s-digital-ID-registrations-surpass-46-million-people-1Os6p7gnjiM/p.html), roughly a third of the population, while [13 million cards had been printed by mid-2026](https://www.youtube.com/watch?v=B_iGkxWXNbg) — registration and credential are not the same count. Targets have run ahead of delivery throughout: [23 million IDs had been issued by October 2025 against a target of 63 million by the end of that year](https://www.biometricupdate.com/202510/ethiopia-hopes-to-take-digital-id-issuance-to-63m-by-year-end).
+
+[Proclamation No. 1284/2023 established the Fayda system and the National ID Program and makes the digital credential legal and sufficient evidence of a person's identity](https://justice.gov.et/en/law/ethiopian-digital-identification-proclamation/). [Enrolment is formally voluntary but has become mandatory in practice for opening a bank account, registering a SIM, obtaining a tax number, applying for a passport and sitting national examinations](https://www.ethiotelecom.et/national-id/) (2025). [The National Bank required Fayda for all new bank accounts nationwide from January 2026 and every existing account to be linked to it by 30 March 2026](https://www.biometricupdate.com/202512/ethiopia-banks-harmonize-customer-account-information-with-fayda-digital-id), and [from 2026 the credential replaces the birth certificate for school registration from Grade 1](https://www.biometricupdate.com/202501/school-registration-adds-up-to-expanding-use-cases-of-ethiopias-digital-id) — a substitution that matters in a country where most births go unregistered.
+
+Use is running at scale. [VeriFayda had processed more than 32.3 million successful biometric and demographic authentications by September 2025](https://documents1.worldbank.org/curated/en/099102925060510930/pdf/P179040-49e3036e-1e1a-40ff-97e0-effe57cb36f7.pdf), around 130,000 a day, and [more than 150 agencies run KYC checks against the register](https://www.youtube.com/watch?v=B_iGkxWXNbg) (July 2026), with [over five million tax registrations completed through Fayda eKYC and banks opening accounts on biometric verification alone](https://idtechwire.com/ethiopia-launches-fayda-digital-id-system-to-cover-90-million-citizens-by-2027/) (2025).
+
+Enrolment itself has been contracted out to the telecoms sector. [Ethio Telecom accounts for 69 per cent of all registrations, about 32 million people since April 2024](https://www.ena.et/web/eng/w/eng_9268046), and [Safaricom Ethiopia has been added as a second telco-led channel](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration) (July 2026). [Eligibility extends to all legal residents including registered refugees and asylum seekers aged five and above](https://www.unhcr.org/africa/news/press-releases/ethiopia-launches-inclusive-id-system-refugees-boosts-access-national-services), and [a refugee holding the credential can open a bank account, register a SIM and obtain a tax number without the case-by-case endorsement letters previously required](https://reliefweb.int/attachments/7d074d2a-3696-4937-a37f-41911c4756b3/unhcr-prospects-ethiopia-report.pdf); [children under five remain outside the system](https://www.ethiotelecom.et/national-id/). [The programme runs three data centres with more than 50 in-house engineers and charges relying parties authentication fees](https://www.youtube.com/watch?v=B_iGkxWXNbg), against [a US$350 million World Bank package approved in December 2023](https://projects.worldbank.org/en/projects-operations/project-detail/P179040).
 
 ### Digital Payments and Fintech
+<!-- dpi.pay -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| EthioPay national instant payment system | [Implemented](https://www.bpcbt.com/ethiopia-instant-payments-smartvista) | Launched 2026-02-13 |
-| EthSwitch and Mastercard international acceptance | [Implemented](https://shega.co/ethswitch-15-year-vision-mastercard) | Live 2025-11-30 |
-| M-PESA Ethiopia | [Implemented](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles) | 2.58m monthly active users in the quarter to June 2026 |
-| M-PESA Ethiopia cardless ATM withdrawals | [Implemented](https://techafricanews.com/2026/08/11/m-pesa-ethiopia-launches-cardless-atm-withdrawals-with-bank-of-abyssinia/) | Launched with Bank of Abyssinia 2026-08-11 |
-| M-PESA LeHulum telco-agnostic wallet | [Implemented](https://www.connectingafrica.com/mobile-money/m-pesa-ethiopia-debuts-a-fully-telco-agnostic-platform) | Launched 2025-12-02 |
-| Mandatory Fayda integration with bank accounts | [Implemented](https://www.nbe.gov.et/fayda-banking-integration) | Harmonisation deadline 2026-03-30 |
-| Prepaid electricity purchase in the mobile wallet | [Implemented](https://techafricanews.com/2026/07/29/m-pesa-ethiopia-launches-prepaid-electricity-payments-through-super-app/) | Live 2026-07-29 |
-| Regional tax payment through the mobile wallet | [Implemented](https://techafricanews.com/2026/07/28/m-pesa-ethiopia-launches-digital-tax-payment-service-for-amhara-region/) | First authority live 2026-07-28 |
-| Telebirr mobile money | [Implemented](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/) | 4.19tn Birr transacted in FY2025/26 |
+Ethiopia's payment volumes and its payment users have come apart. [Telebirr carried 4.19 trillion Birr across 2.61 billion transactions and 60.6 million customers in the year to 30 June 2026](https://www.thereporterethiopia.com/52133/), yet [only 20.7 per cent of adults had used a digital payment by the 2025 Global Findex, barely above the 19.7 per cent recorded in 2022](https://digitalfinance.shega.co/insights/articles/findex-2025-and-ethiopia-s-digital-financial-leap-momentum-without-maturity). [Digital accounts multiplied 2.3-fold to 222.1 million by March 2025 while formal account ownership barely moved](https://shega.co/findex-2025-ethiopia): the account counts measure accounts, not people.
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+The rails are now largely built. [EthSwitch launched EthioPay-IPS, the national instant payment system, in December 2025, connecting 32 banks, 12 microfinance institutions, three payment system operators and three payment instrument issuers for real-time account-to-account, wallet, QR and bulk payments](https://cioafrica.co/ethiopia-launches-national-instant-payments/). [The switch processed 287.4 million transactions worth 741.1 billion Birr in 2024/25, person-to-person transfers overtaking ATM withdrawals](https://capitalethiopia.com/2025/11/02/ethswitch-reports-historic-growth-as-p2p-payments-surpass-atm-withdrawals/). [The National Bank holds 46 per cent of EthSwitch and chairs its board of bank chief executives, overseeing rather than operating the switch](https://www.africanenda.org/uploads/files/siips2025/siips_2025_EthSwitch-Ethiopia_CaseStudy_en.pdf) (2025).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| America First Global Health Strategy memorandum of understanding | [Implemented, expressly not an international agreement](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Signed 2025-12-23 for activities running 2026-04-01 to 2030-12-31 |
-| DHIS2 national health information system | [Implemented](https://medinform.jmir.org/2024/1/e50375) | Maturity 2.81 of 5 against a 4.09 target (2026-04) |
-| Donor-funded health and surveillance data systems | [Implemented](https://developmentgateway.org/blog/a-year-after-usaid-reclaiming-control-of-data-systems/) | Livestock and zoonotic surveillance suspended (2025) |
-| eCHIS community health information system | [Implemented](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/) | In use by about 40,000 health extension workers |
-| Livestock Information System | [Implemented](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) | Live 2026-07-29 |
+Competition has not dislodged the incumbent. [M-PESA Ethiopia reported 2.58 million 30-day active customers and 89,877 merchants in the quarter to 30 June 2026](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles), and [accounts for roughly 2 per cent of Safaricom Ethiopia's service revenue against 45.6 per cent in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles). Mobile money is thin margin on both sides: [Telebirr generated 3.6 per cent of Ethio Telecom's revenue in the year to 30 June 2026 despite being its largest platform by customers](https://www.thereporterethiopia.com/52133/), the same year it [lent 19.51 billion Birr collateral-free to 5.65 million customers and held 18.75 billion Birr of savings from 1.3 million users](https://www.thereporterethiopia.com/52133/).
+
+Regulation has turned restrictive. [The National Bank widened its prohibition to the whole category of virtual assets on 23 July 2026, by clarification of existing rules rather than new regulation and with no enforcement mechanism announced](https://www.thereporterethiopia.com/51969/). [Revenue authorities froze and swept the accounts of the payment gateways Arifpay, Chapa and Santimpay in May 2026 over disputed tax claims](https://www.thereporterethiopia.com/52044/), in a gateway sector where [online sports betting accounts for almost all volume](https://www.thereporterethiopia.com/52044/) (2025). Government-to-person payments have meanwhile moved to electronic transfer across [safety-net programmes reaching more than 9 million people](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) (March 2024).
+
+### Registries
+<!-- dpi.registry -->
+
+[More than 50.5 million voters registered for the 7th General Election by the close of registration on 22 April 2026, of whom just over 5.5 million used the Fayda-linked digital channel](https://www.ena.et/web/eng/w/eng_8711475) — the remainder registered manually, through [Mirchaye, the electoral board's web and mobile self-registration system launched in January 2026, which runs alongside manual registration where there is no 3G](https://nebe.org.et/en/node/1222).
+
+There is no separate population register behind any of this: [Fayda, holding core demographic data and fingerprint, iris and facial biometrics, serves as the de facto one](https://id.gov.et) (2026). Civil registration remains its weakest joint. [Births, deaths, marriages, divorce and adoption are covered nationwide under Proclamation No. 760/2012 as amended, through a decentralised structure running from federal to kebele level on a nationally mandated paper process, with digital capture piloted in Addis Ababa, Oromia and Amhara](https://crvssystems.ca/country-profile/ethiopia) (2025); [at kebele level events are written into bound booklets with carbon copies passed up through woreda, regional and federal levels](https://www.child-identity.org/wp-content/uploads/2025/06/Taju-Mohammed-Presentation.pdf). [Birth registration completeness stood at around 40 per cent of children under one in 2022/23, up from about 3 per cent in 2016](https://www.child-identity.org/wp-content/uploads/2024/09/CRC-factsheet-ETHIOPIA-ENG.pdf), and [there is no data linkage at all between the civil registration system and the national identity system](https://www.child-identity.org/wp-content/uploads/2025/06/Taju-Mohammed-Presentation.pdf) (2025).
+
+The functional registers are further ahead. [The business registration and licensing platform links 745 registration offices and processed 2.9 million online transactions in the first nine months of 2025/26, integrated with Fayda, the tax identification number and the document authentication agency](https://birrmetrics.com/quarter-of-ethiopian-businesses-fail-compliance-checks-amid-2-9mn-online-registrations/), after [an integrated company creation service launched in September 2025 cut registration from eleven steps and 32 days to two steps and two days on the ministry's own account](https://birrmetrics.com/motri-launches-online-business-registration-and-licensing-platform/). [The taxpayer register is computerised, centralised and gives a full countrywide view of individual and business taxpayers](https://www.tadat.org/content/dam/tadat/en/assessments/Ethiopia_Final_PAR_2025.pdf) (2025). Land is the outlier: [digital land administration runs in only a handful of cities](https://land.et) (2025), while [the digital addressing system had been implemented in 73 cities by December 2025](https://ssgi.gov.et/edas-for-three-cities/) and [a national farmer database is being joined to Fayda and rural land information systems across a 311-woreda pilot](https://ati.gov.et/farmer-profile-initiative/) (2026).
+
+### Sectoral management information systems
+<!-- dpi.mis -->
+
+[The Federal Auditor General reported in July 2026 budget-execution gaps and weak financial controls across several federal agencies despite their adoption of digital systems](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/), alongside [billions of Birr left uncollected through persistent shortcomings in revenue administration](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/).
+
+The core systems exist. [An integrated financial management information system built on commercial software is in use across central and local government, a custom-built customs system and payroll system are in use, tax administration runs on a hybrid of custom and commercial software, and the public-service HR system has most of its services digitised](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025); [social insurance is split, with public employees served by a separate pension and social insurance system from the general one](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Customs declarations run through the eCMS electronic customs management system](https://customs.erca.gov.et/trade/support/faq?lang=en), and [a nationwide point-based traffic penalty system launched in May 2025 with API integration to financial institutions](https://ethiopianbusinessreview.net/ethiopia-unveils-nationwide-digital-systems-to-transform-transport-fuel-and-traffic-management/). [An e-tax system has run since 2011 and reached all taxpayers by 2016/17, though its e-payment component had still not been properly implemented by January 2024](https://www.ictd.ac/publication/e-tax-system-adoption-and-tax-compliance-in-ethiopia-large-and-medium-taxpayers-experience/).
+
+Health is the deepest deployment and shows what depth is worth. [DHIS2 has been the national health information system since 2018 and is used by more than 95 per cent of facilities](https://medinform.jmir.org/2024/1/e50375), yet [the deployment scored 2.81 out of 5 against the country's own 2025 target of 4.09](https://medinform.jmir.org/2024/1/e50375). [The community health information system had reached roughly 7,500 to 8,000 of about 17,900 health posts by 2025, with more than 20 million people registered](https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/), leaving paper predominant at most rural posts; [health workers report carrying parallel paper and electronic records and personal liability for lost devices](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/).
+
+Education is barely digitised at the point of service. [Rural primary schools still record attendance and enrolment on paper, with the annual census collected on hand-completed questionnaires carried to woreda and regional bureaux for manual entry](https://blog.atenu.org/ethiopia-education-report-2024-25/) (2025), and [a DHIS2-based education system rolling out in four regions operates at woreda, zonal and ministry level rather than inside schools](https://education.dhis2.org/implementation/ethiopia/). [The safety net programme's computerised payroll and attendance system is not integrated with any national data exchange layer](https://globalallianceagainsthungerandpoverty.org/country-example/ethiopia-productive-safety-net-program-psnp/) (2024).
 
 ### Other GovTech and e-Gov
+<!-- dpi.govtech -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Electronic Government Procurement (e-GP) system | [Implemented](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) | Credited in the EFY 2017 federal audit report presented 2026-07-06 |
-| Identity integration with tax administration | [Implemented](https://mosip.io/news/how-fayda-powers-ethiopia-mesob) | Integrated 2023-12 |
-| MESOB unified public-service platform | [Implemented](https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation) | 185 services at launch, 2026-06-20 |
-| Unmanned smart police station | [Implemented](https://www.ena.et/web/eng/smart-police-station) | Opened 2026-03-22 |
+[MESOB's founding director general conceded in July 2026 that the one-stop platform remains intertwined with decades-old institutional systems built to no defined standard](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), and [regional officials told federal management that services are being onboarded before the underlying institutional systems have been digitised, the platform's Addis deputy director naming that premature integration the year's main obstacle](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/). [Its three-year plan launched on 24 July 2026 puts institutional capacity first rather than extending the platform's reach](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), against [staff losses to better-paying institutions that management has not resolved](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/).
 
-### Strategies, plans and policies
+What the platform actually offers is narrower than the ambition. [MESOB brings 41 services from 12 federal agencies behind a single front door with Fayda as the authentication layer](https://mosip.io/news/how-fayda-powers-ethiopia-mesob) (July 2025), [including passport, business registration, tax and investment services and a MESOB Bridge API gateway for cross-agency data sharing](https://www.biometricupdate.com/202507/ethiopias-mesob-platform-facilitating-access-to-digital-govt-services), with [driving licence applications among the live services and licence registration integrated with Fayda authentication](https://documents1.worldbank.org/curated/en/099040725180520454/pdf/P179040-8ca592cd-4db0-4949-81ed-724c1a1f19e9.pdf) (2025).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital Government Strategy and Enterprise Architecture 2024-2029 | [Implemented](https://www.ena.et/web/eng/digital-government-strategy-2024-2029) | Published 2024-07-11 |
-| National Digital Payments Strategy 2026-2030 | [Implemented](https://www.ena.et/web/eng/ethiopia-ndps-2026-2030) | Published 2025-12-09 |
+Elsewhere in the estate, delivery is real but uneven. [The national service portal is transactional at level 3 or 4, meaning services can be applied for and completed online end to end, and a public jobs portal and an e-procurement system covering open tendering and contract management are in use, while the social protection portal is still being implemented](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The Auditor General attributed a decline in cash shortages across federal institutions largely to the e-procurement system, saying it has strengthened procurement oversight and budget administration](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) (July 2026). [The Federal Supreme Court has run electronic filing and virtual hearings since October 2025, with litigants authenticating by national ID number and an integrated case management system covering 24 federal branches](https://www.thereporterethiopia.com/47015/), and [an unmanned "smart police station" staffed by AI kiosks opened in March 2026](https://www.ena.et/web/eng/smart-police-station). Against all of it, [Ethiopia scored 0.3111 on the UN E-Government Development Index, 169th of 193 member states](https://publicadministration.un.org/egovkb/en-us/Data/Compare-Countries) (2024).
 
-### Standards
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Ethiopian eGovernment Interoperability Framework | [In development](https://www.capitalethiopia.com/2024/07/ethiopia-egovernment-interoperability) | Published 2024-07-19 |
-| MOSIP open-source identity platform | [Implemented](https://www.youtube.com/watch?v=B_iGkxWXNbg) | Fayda is the reference deployment (2026-07) |
-| National Livestock Data Standards | [Implemented](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) | Endorsed and cascaded 2026-07-29 |
-
-### Digital divides
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Makatet refugee-inclusion framework | [Implemented](https://www.biometricupdate.com/202607/fayda-digital-id-critical-for-ethiopias-five-year-refugee-inclusion-strategy) | Framework adopted 2026-07-16 |
-
-### Access to services
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Identity mandate for school enrolment and examinations | [Implemented](https://www.ena.et/web/eng/fayda-28-million) | Mandated 2025-11-12 |
-| Remote account opening on the digital identity | [Implemented](https://www.biometricupdate.com/202604/dashen-bank-launches-ethiopias-first-digital-id-based-accounts) | Live 2026-04-07 |
-
-### AI
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| AI service bundles in the mobile-money app | [Implemented](https://techafricanews.com/2026/07/22/m-pesa-ethiopia-and-gebeya-partner-to-bring-ai-tools-to-mobile-users/) | Launched 2026-07-22 |
-
-### Research institutions
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital ID Assessment as official monitoring | [Implemented](https://dial.global/research/digital-id-second-assessment-continuous-learning-ethiopia/) | Re-run 2026-05-12 |
-
-### Digitalisation of sub-national government
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Addis Ababa one-stop digital service centres | [Implemented, on the city administration's own account](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/) | 11 centres and more than 150 services at fiscal-year close (2026-07) |
-
-<!-- narrative: dpi -->
-[Faydaverse was inaugurated on 2026-08-04 as a state-owned enterprise under Ethiopian Investment Holdings](https://www.biometricupdate.com/202608/faydaverse-officially-enters-africas-dpi-market), mandated to develop, operate and scale digital public infrastructure, with the National ID Program's executive director since 2021 as chief executive. The programme reports over 190m authentications performed and 150 enterprises integrated for biometric checks, on its own figures.
-
-Ethio Telecom alone accounts for [69% of all registrations](https://www.ena.et/web/eng/w/eng_9268046) — about 32m citizens since April 2024. No account held states its custody or consent terms.
-
-MESOB's own executives describe it as a front door onto unreformed back offices; a national data exchange platform is only now approved. The Auditor General [credited the federal e-procurement system](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) with a decline in cash shortages, while the same report found budget-execution gaps, billions of Birr uncollected and repeated financial-rule violations across the 163 institutions audited.
-
-Below the federal tier the base holds little: the Addis Ababa city administration [reports 11 one-stop centres carrying more than 150 services](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/) at fiscal-year close, on its own account, with no volumes, cost or evaluation published.
-
-Telebirr moves about 11bn Birr a day across 60.6m users. The October 2025 switch integration linked M-PESA to more than 30 banks and wallets, and its parent reports [2.58m monthly active users and 89,877 registered merchants for the quarter to June 2026](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles), about 2% of Safaricom Ethiopia's service revenue.
-<!-- /narrative -->
-
-## Governance and regulation
+## Governance
 
 ### Legislation and regulation
+<!-- gov.legislate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Berne Convention accession | [In development](https://www.thereporterethiopia.com/52113/) | Draft ratification proclamation before the Council of Ministers, reported 2026-08-01 |
-| Copyright Proclamation 410/2004 online-infringement amendment | [In development](https://www.thereporterethiopia.com/52113/) | Drafting with Addis Ababa University School of Law reported 2026-08-01, after several consultation rounds |
-| Critical Infrastructure Cybersecurity Proclamation No. 1426/2026 | [Implemented, with a transition period before full compliance](https://www.ena.et/web/eng/w/eng_9359494) | Signed by President Taye Atske Selassie at Addis Ababa 2026-07-21; art.28 sets commencement one year after gazettement (about July 2027) |
-| Judicial review of licence revocation without court order | [Implemented](https://www.thereporterethiopia.com/52044/) | Federal High Court of Lideta ruling 2026-06-22 |
-| Prohibition of virtual assets | [Implemented](https://www.thereporterethiopia.com/51969/) | Public notice widened the prohibition 2026-07-23 |
-| Tax assessment of payment gateways | [Implemented](https://www.thereporterethiopia.com/52044/) | ETB 818m swept from frozen accounts (2026-05) |
+Ethiopia's ban on virtual assets is wider than the cryptocurrency ban it is taken for: on 23 July 2026 the National Bank [defined a virtual asset as any digital representation of value that can be electronically traded, transferred, exchanged or used for payment or investment](https://www.thereporterethiopia.com/51969/), and [prohibited its use, purchase, sale, exchange, transfer, trading, settlement, facilitation, custody and administration](https://www.thereporterethiopia.com/51969/) without the Bank's express authorisation. The prohibition came by public notice rather than by regulation, and [no enforcement mechanism was announced with it](https://www.thereporterethiopia.com/51969/).
+
+The flagship of digital government has no statute behind it at all. [No legal framework compels an Ethiopian institution to digitise before joining MESOB, or settles who regulates the platform and is accountable for it](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), and it had run close to a year with no dedicated regulatory framework (July 2026).
+
+Telecommunications are governed by [Directive No. 792/2021, made by the Ethiopian Communications Authority under the Communications Service Proclamation No. 1148/2019 and in force since 9 July 2021](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf), which creates individual, class and spectrum licences. [Only two individual licences exist](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf), for unified telecommunications service and for an internet exchange point, so everything else in the market, [from hosting and data centre services to VSAT, private networks and closed user groups](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf), is a class licence or unlicensed. [Licences run fifteen years, with a further fifteen presumed where the holder has met every obligation](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf), and [any change of ownership taking a shareholder to twenty-five per cent or more needs the Authority's prior approval, refused where it judges the acquisition likely to be anti-competitive](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf). The Directive also [exempts the state incumbent from the competition it introduced: its new licence is issued without competitive selection and its spectrum re-assigned administratively](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf).
+
+Copyright still rests on the 2004 proclamation, whose [remedies run to sentences of one to ten years, fines of up to 25,000 Birr and injunctions](https://www.thereporterethiopia.com/52113/); amendments have been in preparation with [no draft text, bill number or timetable on the public record (August 2026)](https://www.thereporterethiopia.com/52113/). A [comprehensive personal data protection law has been on the books since July 2024](https://www.aln.africa/ethiopia-new-data-protection-law).
 
 ### Strategies, plans and policies
+<!-- gov.policy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital Ethiopia 2030 | [Implemented](https://www.ena.et/web/eng/digital-ethiopia-2030-launch) | Published 2025-12-21 |
-| National Artificial Intelligence Policy | [Implemented](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | Adopted 2024 |
-| National Data Governance Strategy | [In development](https://dial.global/ethiopias-approach-to-use-cases/) | Anchored in use cases from 2026-03-04 |
-| National Digital Transformation Council | [Implemented](https://www.fanamc.com/english/deputy-pm-says-technology-must-improve-lives-not-just-modernize-systems/) | Measurement claim restated 2026-07-30 |
+Ethiopia's strategy shelf is fuller than its delivery machinery. The [overarching digital government strategy is current, while the whole-of-government transformation programme meant to deliver it is only planned or in draft](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [national data strategy has not been adopted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+
+[Digital Ethiopia 2030, issued from the Prime Minister's Office, designates data a national asset, names a national data exchange as a digital public infrastructure enabler and sequences its initiatives across nought-to-three and three-to-five year horizons](https://www.pmo.gov.et/media/other/Digital_Ethiopia_2030.pdf); it also carries a [target of a sevenfold rise in digital payments, delivered through Telebirr and a national payment gateway](https://cioafrica.co/digital-ethiopia-2030-charting-a-sovereign-path-to-prosperity/). Beneath it, the [Digital Ethiopia Strategy of 2025 is the single instrument in the Ministry of Innovation and Technology's library covering artificial intelligence, the internet, cybersecurity, data centres and cloud services, data protection, digital identification, payments, digital signatures and e-commerce at once](http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view_file/266105?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%2F-%2Fdocument_library%2FCNlICzpide2L%2Fview%2F266103%3F_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect%3Dhttp%253A%252F%252Fwww.mint.gov.et%252Fpolicy-and-strategy%253Fp_p_id%253Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview).
+
+Ownership of delivery is dispersed. The [Digital Government Strategy and Enterprise Architecture 2024–2029 commits the state to digital-by-default service delivery and to bringing federal ministries and regional administrations under a single government domain](https://www.ena.et/web/eng/digital-government-strategy-2024-2029), and has been [finalised as a phased roadmap](https://www.ena.et/web/eng/w/eng_4759694). An [established data governance function takes a whole-of-government view of data rather than a system-by-system one, but sits inside another institution rather than having an autonomous body of its own](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), alongside an [established institution coordinating digital government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+
+The wider governance record behind all this is improving over the decade and slipping over the last few years of it: Ethiopia [scores 48.4 out of 100 for overall governance in the 2024 Ibrahim Index, 29th of 54 African states, up 2.5 points over 2014–2023 but down 1.5 points over 2019–2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf). It [scores above the African average on 45 of the index's 96 indicators and improved on 55 of them over the decade while declining on 37](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf).
+
+The [European Union committed EUR 1.2 million over 2020–2025 to the Ministry of Innovation and Technology for its role guiding and enabling digital reforms](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2020-PCC-418842).
 
 ### Regional collaboration
+<!-- gov.regional -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital identity cooperation with Zambia | [Implemented](https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project) | Agreed 2026-03-24 |
-| Digital public infrastructure export to Mozambique | [Implemented](https://clubofmozambique.com/news/mozambique-and-ethiopia-sign-mou-to-boost-digital-identity/) | Three-year memorandum signed at Addis Ababa 2026-04-27 |
+Regional integration is where Ethiopia has moved furthest and fastest: it is the [country's second most improved indicator of the decade in the 2024 Ibrahim Index, up 33.8 points over 2014–2023 to 49.1 out of 100, 23rd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf).
+
+The reach is physical before it is institutional. The [Horizon Fiber agreement between Ethio Telecom, Djibouti Telecom and Sudatel became binding in February 2026, committing the three to a terrestrial fibre corridor linking Djibouti's cable landings through Ethiopia to Sudan's](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal) and positioning the country as a regional digital transit route.
+
+In payments the estate still faces inward. Ethiopia is [not among the countries in the Pan-African Payment and Settlement System's network coverage (June 2026)](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf), and [cross-border retail payments work inbound while low-value outbound transfers are only planned](https://capitalethiopia.com/2025/11/30/ethswitch-unveils-ambitious-15-year-digital-payment-vision-in-strategic-overhaul/) under the current strategy. Ownership questions travel too: [Vodacom's move to take a controlling stake in Safaricom requires Ethiopian approval as well as Kenyan and South African](https://www.connectingafrica.com/investment/vodacom-group-to-take-controlling-stake-in-safaricom), giving Ethiopian regulators a say over the consortium leader behind the country's second telecoms licensee.
+
+The identity credential was built to travel and has not yet been given anywhere to go: [FaydaPass was launched to interoperability standards intended for cross-border use, and no bilateral cross-border identity recognition agreement has been concluded](https://www.biometricupdate.com/202506/ethiopias-digital-id-chief-lays-out-roadmap-for-reaching-90m-enrollments-by-2027) (2025).
+
+### Standards
+<!-- gov.standards -->
+
+The rulebook by which Ethiopian government systems are meant to talk to each other is seven years old: the [Ethiopian National Enterprise Architecture Framework and the Ethiopian eGovernment Interoperability Framework, both dating from 2019, are the standing interoperability instruments in the Ministry of Innovation and Technology's library](http://www.mint.gov.et/policy-and-strategy?p_p_id=com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fdocument_library%2Fdownload_folder&p_p_cacheability=cacheLevelPage&_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_folderId=266062&_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_repositoryId=20117).
+
+A framework being in place is not the same as systems being built to it. [Most of the supporting measures tested alongside the interoperability framework are recorded as not in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), the country has [no operational national data exchange layer and still lacks a unified data-sharing framework](https://dial.global/work/strengthening-ethiopias-national-data-governance-ecosystem/), and MESOB's founding director general has [conceded that the platform remains intertwined with decades-old institutional systems of undefined standards and unclear architecture](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) (July 2026). There is also [no open source policy for government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+
+Procurement is the one place where standards bite on what is actually bought. The [e-procurement system is in use across open tendering and contract management, interfaces with other government systems and is used to enforce technical standards on government purchases](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [Auditor General credits it with a decline in cash shortages across federal institutions](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/). Where a sector has a sponsor, standard-setting follows: [national livestock data standards were developed with the Ministry of Agriculture and formally endorsed](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) (2026).
+
+Compliance with the rules that do exist is patchy. The [Office of the Federal Auditor General presented its EFY 2017 report to the House of People's Representatives on 6 July 2026, covering financial and compliance audits of 163 federal public institutions and 39 performance audits](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/), and recorded [repeated financial-rule violations — duplicate payments, expenditure above approved limits and disbursements without adequate supporting documentation — with a warning that authorising officials will be held to account and irregular disbursements recovered](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/).
 
 ### Data protection
+<!-- gov.protect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Data sharing arrangement under the health memorandum | [Planned](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Provided for at 2.5.2, still to be negotiated |
-| Development Bank of Ethiopia Information Disclosure Policy | [Implemented](https://www.thereporterethiopia.com/52220/) | Policy adopted classifying client credit information, legal case files, strategy papers, security protocols and third-party contracts as permanently non-disclosable, reported 2026-08-08 |
-| Personal Data Protection Proclamation 1321/2024 | [Implemented](https://www.aln.africa/ethiopia-new-data-protection-law) | In force from 2024-07-24 |
-| Secondary directives under the data-protection law | ***Not held*** | — |
+Ethiopia has a comprehensive data protection law and, more than a year after it was gazetted, almost nothing running under it: the [secondary directives needed to operate Proclamation No. 1321/2024 had still not been issued as of November 2025](https://shega.co/ethiopia-data-protection-slow-enforcement), and the [Ethiopian Communications Authority had taken no enforcement action](https://shega.co/ethiopia-data-protection-slow-enforcement). The [proclamation was approved on 4 April 2024 and gazetted on 24 July 2024, replacing the country's piecemeal sectoral regulation of personal data](https://www.aln.africa/ethiopia-new-data-protection-law).
 
-### China activities
+It [sets a broad definition of personal data, claims extraterritorial reach over processing outside Ethiopia, and imposes distinct duties on controllers and processors](https://www.aln.africa/ethiopia-new-data-protection-law), [requires controllers to notify both the Authority and affected data subjects within 72 hours of becoming aware of a breach](https://www.techhiveadvisory.africa/insights/review-of-ethiopias-data-protection-act), and [obliges personal data to be stored locally](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024) — matching [Digital Ethiopia 2030's principle of national anchoring for data, infrastructure and systems](https://www.pmo.gov.et/media/other/Digital_Ethiopia_2030.pdf).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| World Artificial Intelligence Cooperation Organization membership | [Implemented](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | Founding member 2026-07-20 |
+Supervision went to an existing regulator rather than to a purpose-built one: the [proclamation designates the Ethiopian Communications Authority as the body responsible for supervising personal data protection, rather than creating a standalone data-protection authority](https://www.aln.africa/ethiopia-new-data-protection-law). It [registers controllers and processors, issues enforcement notices and imposes fines, but a year after the law its enforcement remained nascent with implementing directives still being finalised](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement) (2025), and [neither the regime nor the authority publishes reporting on how it operates](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-<!-- narrative: governance -->
-Proclamation 1321/2024 designates the Ethiopian Communications Authority as regulator. A year on, the secondary directives were unissued, public awareness was low and the Authority had yet to enforce — while the identity system it would supervise authenticates about 4m times a day. The America First Global Health Strategy memorandum of 23 December 2025 provides for a [data sharing arrangement to be negotiated](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf), expected to run two years beyond its five-year term and to be compatible with Ethiopia's other agreements; no text is published.
+Sectoral protection is older and more concrete than the general regime. The National Bank of Ethiopia's [Financial Consumer Protection Directive No. FCP/01/2020, in force since 25 February 2021, covers digital financial services including payments and mobile money, mandating key facts statements, transparency, data confidentiality, complaint handling and reimbursement for unauthorised transactions](https://digitalpolicyalert.org/event/25647-enters-into-force-with-grace-period-nbe-financial-consumer-protection-directive-no-fcp012020), and a [revised Payment Instrument Issuer Directive in 2023 strengthened governance, transaction limits and consumer safeguards for mobile money providers](https://nbe.gov.et/nbe_news/the-national-bank-of-ethiopia-has-issued-a-revised-directive-for-mobile-money-providers-to-promote-safety-competition-and-innovation/).
 
-The Development Bank of Ethiopia has moved in the opposite direction on disclosure. Under a new [Information Disclosure Policy adopted as part of a wider reform push led by president Esayas Kassa and Ethiopian Investment Holdings chair Brook Taye](https://www.thereporterethiopia.com/52220/), client credit information joins internal strategy papers, legal case files, security protocols and third-party contracts as permanently exempt from declassification on the ground that disclosure could cause substantial harm to the bank, its stakeholders or national interest; the bank has also gained the right to refuse requests that would require it to create records it does not already hold.
+Confidentiality also runs outward against disclosure: the [Development Bank of Ethiopia's Information Disclosure Policy designates client credit information as not eligible for declassification, permanently withheld](https://www.thereporterethiopia.com/52220/) (August 2026). Ethiopia [scores 16.0 out of 100 for digital freedom in 2023, 52nd of 54 African states and one of its ten worst-scoring indicators despite a 5.2-point improvement over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf).
 
-[Critical Infrastructure Cybersecurity Proclamation No. 1426/2026 was signed by President Taye Atske Selassie at Addis Ababa on 21 July 2026](https://www.insa.gov.et/pdf/download/critical-infrastructure-cybersecurity-proclamation-no-14262026-1786083598), after unanimous ratification by the House of People's Representatives, and the Information Network Security Administration presented it publicly on 7 August. It designates 12 critical sectors, places 18 core obligations on owners and operators, and establishes a Critical Infrastructure Cybersecurity Fund. Article 28 sets commencement one year after gazettement, about July 2027, and gives the Council of Ministers and INSA regulation-making powers under articles 26 and 27.
+### Public debate and participation in policymaking
+<!-- gov.discourse -->
 
-The central bank [widened its prohibition on virtual assets](https://www.thereporterethiopia.com/51969/) to the whole category by clarification rather than by new rule, with no enforcement mechanism announced. Payment gateways are being [taxed on an arithmetic error the central bank has admitted](https://www.thereporterethiopia.com/52044/): gross transaction volume was conflated with gateway revenue. Corrected datasets from April 2026 were not accepted; ETB 818m was swept from frozen accounts in May against a liability counsel puts at ETB 20–30m. In June 2026 the Federal High Court of Lideta struck down a decree cutting banking services to betting platforms and gateways, finding licence revocation without a court order unconstitutional.
+Participation has improved faster than any other part of Ethiopia's governance record while the freedoms that give it force have gone backwards. [Participation is the fastest-improving sub-category of the 2024 Ibrahim Index for Ethiopia, up 12.4 points over 2014–2023 to 41.9 out of 100, with civil society space up 13.8 points to 39.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf), while [media freedom fell 7.0 points to 34.1, 46th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) and [rights is the worst-performing sub-category at 28.5, 44th of 54, down 4.7 points over the same decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf). Ethiopians' own assessment of freedom of speech [fell sharply over that decade, one of the country's five most deteriorated indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf).
 
-The Intellectual Property Authority said on 2026-08-01 that amendments to Copyright Proclamation 410/2004, prepared with the Addis Ababa University School of Law, [would define internet service provider duties, set procedures for blocking infringing sites and add a rights-holder take-down notice](https://www.thereporterethiopia.com/52113/); no draft text or timetable is published. A draft proclamation ratifying the Berne Convention was before the Council of Ministers on the same date, Ethiopia not yet being a party.
-<!-- /narrative -->
+The channels are in place. [Government participation platforms operate, though several of the capabilities tested against them are not in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [citizen feedback channels carry complaints and feedback to government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and a [right-to-information regime is in force under which members of the public can obtain public records, with nothing published on how it performs](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-## Artificial intelligence and the technology sector
+What is missing is text to consult on. Copyright amendments have been through [several rounds of consultation with rights holders, law enforcement and justice institutions](https://www.thereporterethiopia.com/52113/), while [no draft text, bill number or timetable is on the public record (August 2026)](https://www.thereporterethiopia.com/52113/) — and what is described of them would [add procedures for identifying and blocking websites, and a take-down notice obliging platforms to remove content on a rights holder's notification](https://www.thereporterethiopia.com/52113/), a site-blocking power arriving inside a copyright statute.
+
+The same reticence runs through the digital estate: [documentation and assessments across the service portal, e-procurement, the coordinating institution, the participation platforms and the feedback channels are held internally and not published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [Auditor General's latest annual report is not obtainable, its published library stopping a year earlier](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/). Domestic criticism is not absent — an Addis Ababa outlet has [argued that the mandatory design of the national digital ID risks surveillance and exclusion](https://addisstandard.com/coercion-over-consent-ethiopias-dangerous-mandatory-digital-id-experiment/) — and the [European Union committed just under EUR 1 million over 2023–2026 to mobilise civic and digital action against social media hate speech and online incitement to violence](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-23737).
+
+## Inclusion
+
+### Digital divides
+<!-- include.divides -->
+
+The offline authentication and low-bandwidth features meant to let the Fayda digital ID work where connectivity does not were [still not fully deployed](https://dial.global/work/strengthening-ethiopias-national-data-governance-ecosystem/) (2024), against a substantial rural internet access gap — so the mitigation designed for the divide is arriving behind the systems that assume it away.
+
+The divide is not only a matter of signal. It tracks [rural electrification](https://tradingeconomics.com/ethiopia/access-to-electricity-rural-percent-of-rural-population-wb-data.html), which trails urban supply by a wide margin, and it is wider than headline connectivity suggests, because [unique subscriber penetration and internet use](https://www.worldbank.org/en/results/2025/06/30/empowering-ethiopians-by-laying-the-digital-foundations-for-afe-economic-growth) both run far below the SIM counts usually quoted. On the device side the constraint is price: [high handset costs and limited supply](https://birrmetrics.com/ethio-telecom-eyes-local-device-production-to-reach-more-users/) are holding back smartphone uptake, with Ethio Telecom looking to local production to widen reach (2025).
+
+Women are behind on every line of this the record carries. Ethiopia sits among the countries with a [large gender gap in mobile internet use](https://www.gsma.com/wp-content/uploads/2025/12/The-Mobile-Gender-Gap-Report-2024.pdf) (2023), and women are [less likely than men to hold a national ID](https://idtechwire.com/ethiopia-launches-fayda-digital-id-system-to-cover-90-million-citizens-by-2027/) — a gap the Fayda programme is designed to close, through a custodian wallet for people without smartphones and physical one-stop enrolment centres (2025). Their [access to public services](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) remains among the weaker records in Africa, though it has improved over the decade.
+
+Two instruments now exist to act on the distribution rather than describe it. Ethio Telecom and Safaricom Ethiopia are [required to contribute 1.5 per cent of revenue](https://www.thereporterethiopia.com/49962/) to the Universal Access Fund (March 2026), which gives the state a standing source of finance against the divide instead of an appropriation to be argued for each year. And [Article 6 of Directive 792/2021](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) allows the Communications Authority to exempt services from licensing altogether after stakeholder consultation, naming community networks and not-for-profit or social-purpose organisations — a legal route for locally owned networks in places no operator will serve commercially.
+
+### Access to services
+<!-- include.access -->
+
+Ethiopia's [equal access to public services](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) scores 19.0 out of 100 (2023), 47th of 54 African states and among its ten worst governance indicators, up only 2.2 points over the decade — the evenness of service delivery is the one thing here that has barely moved. [Access for women](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf), at 23.6 out of 100 and 43rd of 54 (2023), is better only in direction: up 15.8 points since 2014.
+
+Identity is now the gate on most transactions. Fayda enrolment is [formally voluntary but mandatory in practice](https://www.ethiotelecom.et/national-id/) for a bank account, a SIM, a tax number, a passport and national examinations (2025), while [enrolment still covers a minority of the population](https://newsaf.cgtn.com/news/2026-07-03/Ethiopia-s-digital-ID-registrations-surpass-46-million-people-1Os6p7gnjiM/p.html) (July 2026) — the requirement is running ahead of the credential. Registration and the number are [free](https://www.ethiotelecom.et/national-id/); a printed card carries a fee. For refugees it works the other way, [replacing the case-by-case endorsement letters](https://reliefweb.int/attachments/7d074d2a-3696-4937-a37f-41911c4756b3/unhcr-prospects-ethiopia-report.pdf) previously needed for the same services (2025).
+
+[Provision for people with disabilities](https://techafricanews.com/2025/05/13/ethio-telecom-champions-digital-inclusion-for-persons-with-disabilities/) is partial, not designed in: telebirr offers IVR, USSD and voice-command access and Ethio Telecom discounts connectivity by up to 35 per cent for them, but the National Financial Inclusion Strategy mandates no binding accessibility standards and most banking apps and ATMs lack screen-reader support (2025).
+
+Where a transfer is the service, the account is the point of access. The [Productive Safety Net Programme's fifth phase reaches around 25 million people](https://www.eeas.europa.eu/delegations/ethiopia/strengthening-food-security-through-ethiopia%E2%80%99s-national-safety-net-phase-5_en) (2024), and its transfers have been [moving to electronic payment](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) since 2005. Bank-account ownership [rose from 22 per cent in 2014 to about 45 per cent in 2020](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) on central bank figures, and the revised national financial-inclusion strategy targeted 70 per cent by 2025; it has since [moved very little](https://shega.co/findex-2025-ethiopia), leaving Ethiopia far short of the average for low- and middle-income countries (2024).
+
+The physical counter is being consolidated, not replaced: Addis Ababa runs [one-stop service centres and mobile units](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/), staffed desks backed by systems integration rather than a self-service portal (July 2026). For the online version the device is the barrier: Ethio Telecom's arrangements with two banks [target up to two million smartphones a year](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) sold to low-income customers on instalments (July 2026).
+
+## Technology
 
 ### AI
+<!-- tech.ai -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Ethiopian Artificial Intelligence Institute | [Implemented](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | Established 2020 |
+The largest identified sum behind Ethiopian artificial intelligence in government is foreign: the United Kingdom committed [about GBP 4.5 million over 2025-2029](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-400750/summary) to a specialist facility giving technical assistance to Ethiopian public bodies on the use of appropriate AI models, with local skills-building, aimed at healthcare, education and government administration (2025).
+
+Domestic policy came first. A [National AI Policy was adopted in 2024](http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view_file/240851?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%2F-%2Fdocument_library%2FCNlICzpide2L%2Fview%2F126252%3F_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect%3Dhttp%253A%252F%252Fwww.mint.gov.et%252Fpolicy-and-strategy%253Fp_p_id%253Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview), sitting alongside Digital Ethiopia 2030's prioritisation of the field.
+
+What is actually running sits with one body. The Ethiopian AI Institute was a builder of [the MESOB one-stop government platform](https://mosip.io/news/how-fayda-powers-ethiopia-mesob), presented as a homegrown alternative to imported platforms (July 2025), and an [unmanned police station staffed by AI kiosks and open around the clock](https://www.ena.et/web/eng/smart-police-station) had opened by March 2026. A national data exchange paired with a predictive model [has been approved](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) rather than built (July 2026), leaving the interoperability layer beneath any government-wide AI still to be assembled.
 
 ### ICT Industry
+<!-- tech.industry -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Vodacom change of control over Safaricom | [Implemented](https://techcabal.com/2026/07/27/vodacom-processed-548-billion/) | Completed 2026-06-30 |
+Ethiopia's technology industry is a state operator, one foreign entrant and a thin domestic tail. The entrant is growing fast: [Safaricom Ethiopia's service revenue rose 54.2 per cent to KSh 9.68 billion](https://itweb.africa/article/m-pesa-ethiopia-surges-258-as-ethswitch-fuels-growth/) for the quarter to December 2025, though [its mobile money arm contributes a fraction of what the same product earns the same operator in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles) (June 2026). Ethio Telecom remains the larger business by a wide margin, with [revenue growth of a third in the year to June 2026](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/) and [data overtaking voice as its largest single earner](https://www.thereporterethiopia.com/52133/) in the same year. It sold a slice of itself to the public: the [deadline for its 10 per cent initial public offering, subscribed through Telebirr, was extended to 14 February 2025](https://www.thereporterethiopia.com/43299/).
+
+Equipment and platforms are bought abroad. At MWC 2026 Ethio Telecom signed [network expansion agreements with Ericsson, ZTE, Huawei and Nokia](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/), and the structure of the market is settled at the licensing counter, where the [Communications Authority must approve any change of ownership or control on competition grounds](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) before it takes effect.
+
+Domestic firms exist and are exposed. [Better Auth raised US$5 million in June 2025](https://addisinsight.net/2025/06/25/ethiopian-startup-better-auth-raises-5m-to-democratize-secure-authentication/) for secure authentication technology, one of the larger local technology rounds, while the revenue authority [froze and swept the accounts of domestic payment gateways in May 2026](https://www.thereporterethiopia.com/52044/) over a tax claim the firms dispute. The regulatory environment has nonetheless improved on the measure: Ethiopia's [Business and Competition Regulations score rose 21.4 points over 2014-2023 to 61.2 out of 100, eighteenth of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf).
+
+### Innovation ecosystem
+<!-- tech.innovate -->
+
+Ethiopia ranked [130th of 133 economies in the 2025 Global Innovation Index](https://www.wipo.int/edocs/gii-ranking/2025/et.pdf), close to the bottom of the table.
+
+Inside government the picture is an institution without a plan: Ethiopia has [an established public-sector innovation institution working on digital skills and public-service innovation, but no public-sector innovation strategy or programme](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) for it to work to (2025). Public-private collaboration is one of its stated mechanisms, and a startup or innovation programme is in place alongside supporting schemes.
+
+The money that builds hubs and incubators is external and time-limited. Korea granted [US$10 million over 2020-2026, delivered with UNDP](https://www.oda.go.kr/opo/bsin/bsnsSumryDocDetail.do?P_BSNS_NO=2020-00053), to support ICT startups and SMEs in Addis Ababa, establish innovation clusters linking universities and industry, develop the legal frameworks for commercialising science and technology, and build an innovation fund. UNDP is separately running the Ethiopian component of its [timbuktoo pan-African start-up initiative over 2024-2026 with about US$2 million](https://open.undp.org/projects/01003093), a blended facility for startups in fintech, agritech and digital entrepreneurship, and a [further programme of about US$4 million over 2022-2026](https://open.undp.org/projects/00128001) for SME innovation and digital finance. All three windows close in 2026.
+
+Absorption shows in individual firms rather than in aggregate: the [US$5 million raised by Better Auth in June 2025](https://addisinsight.net/2025/06/25/ethiopian-startup-better-auth-raises-5m-to-democratize-secure-authentication/) is notable in Ethiopia precisely because rounds of that size are rare.
+
+## Geopolitics
+
+### US / hyperscaler activities
+<!-- geopol.usa -->
+
+The American position in Ethiopia has been rewritten from paying for a health data system to helping build one Ethiopia then pays to run. The [December 2025 memorandum of understanding under the America First Global Health Strategy](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) sets out United States funding for Ethiopian health data systems on a declining schedule to 2030, with Ethiopia undertaking to meet the software licensing, cloud, hardware maintenance and replacement costs itself. That succeeds a far larger and differently shaped commitment: [USAID put about US$60 million into the Ethiopia Digital Health Activity over 2020-2025](https://pdf.usaid.gov/pdf_docs/PA021HS2.pdf), building on the national eHealth strategy and supporting DHIS2, OpenMRS and the interoperability layer between them.
+
+What that transition costs is partly answerable already, because Ethiopia has been through a version of it. The country's [national DHIS2 instance kept running through the 2025 United States aid cuts](https://dhis2.org/invest-in-routine-systems/) (April 2025), when instances elsewhere did not.
+
+### China activities
+<!-- geopol.china -->
+
+The vendor relationships that built Ethio Telecom's network are being pushed up the stack into the layers where the data sits. The operator and Huawei are [discussing extending a network-equipment relationship into cloud, AI, cybersecurity, IoT, data-centre services and digital platforms for businesses](https://itweb.africa/article/ethio-telecom-huawei-expand-digital-push/8OKdWqDX2pzqbznQ), together with local software development, solution customisation and system integration (July 2026). The same discussions reach [telebirr, covering integration for payments and e-commerce and the financing of smartphone affordability](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) (July 2026) — which would carry one supplier from the radio network through to the payment instrument and the handset it runs on, inside a state-owned operator that is also the country's dominant mobile money provider.
+
+On the network itself the work is well ahead of schedule. Ethio Telecom [signed expansion agreements with Ericsson, ZTE, Huawei and Nokia at MWC 2026](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/) (March 2026) under its Next Horizon strategy, and [ZTE has since completed more sites than its agreement covers](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/), across RAN modernisation, microwave-link upgrades and IP RAN (August 2026). The two are also exploring device financing, to turn coverage into handsets, and are working together on renewable-energy supply under Ethio Telecom's Green Operator programme.
+
+### EU activities
+<!-- geopol.eu -->
+
+The largest European position in Ethiopia's digital economy is not a digital project. [Agence Française de Développement committed a EUR 80 million sovereign concessional loan in 2024](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22FR-3-CET1135%22) to modernise Ethiopian Electric Power's networks for a more digitalised economy, inside a co-financed package with the European Investment Bank (EUR 83m), the French Treasury (EUR 55m and above) and EU grants (EUR 40m) — power for the digital economy rather than the digital economy itself.
+
+<!-- derived -->
+The European Union appears more often than any other financier in Ethiopia's digital record, and it does so by number of commitments rather than by value (2026).
+
+Frequency is not weight. The Commission's own commitments are small and spread across the state: [EUR 1.2 million over 2020-2025](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2020-PCC-418842) to the Ministry of Innovation and Technology for its role guiding digital reforms under the Ease of Doing Business programme; [about EUR 1.35 million of technical assistance over 2021-2024](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2021-PCC-428847) to build a health insurance information system for the Ethiopian Health Insurance Agency, covering both the social and the community-based schemes; and [almost EUR 5 million over 2023-2027](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-26682) to help financial service providers reach micro, small and medium enterprises in the conflict-affected north, where lending capacity was lost. Two further strands run alongside them, [countering online hate speech and incitement](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-23737) to 2026 and [digital skills in the technical and vocational training system](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-ACT-62753) out to 2032.
+
+European money has also gone in as equity rather than aid: [DEG put EUR 4 million into M-BIRR in 2018](https://www.deginvest.de/Newsroom/News/Pressemitteilungen-Details_452032-2.html), its first fintech financing anywhere in Africa, alongside the European Investment Bank and Finnfund.
+
+### India activities
+<!-- geopol.india -->
+
+Ethiopia's national identity system runs on Indian-incubated code. Fayda is built on [MOSIP, the modular open-source identity platform licensed under MPL 2.0 and incubated at IIIT-Bangalore](https://www.youtube.com/watch?v=B_iGkxWXNbg), and is the platform's flagship deployment worldwide — a technical dependency rather than a financial or diplomatic one, since no Indian financing commitment, standing agreement or training programme in the Ethiopian digital sector had been entered into as at August 2026.
 
 ### Gulf/UAE activities
+<!-- geopol.gulf -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Gulf digital cooperation | ***Not held*** | — |
+No Gulf state or Gulf-based company held a financing commitment, infrastructure stake or platform deployment in Ethiopia's digital sector as at August 2026.
+
+## Capacity
+
+### Literacy
+<!-- capacity.literacy -->
+
+More Ethiopian children are finishing school, but no more of them are starting: the Ibrahim Index scores [Education Completion at 36.6 out of 100, 26th of 54 African states and up 10.5 points over the decade to 2023, against an Education Enrolment score of 32.4, 37th and effectively flat at plus 1.0 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) (2023).
+
+Quality moved the other way over the same period. [Education Quality fell 4.9 points to 40.3 out of 100, 31st of 54, even as Human Resources in Education stayed one of Ethiopia's strongest measures at 83.0](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) (2023) — the teachers are there and the schooling they deliver is rated worse than it was.
+
+On the digital side the gap is wider still. [Digital literacy reaches only a small minority of Ethiopians, far short of the national target of 70 per cent](https://www.uncdf.org/article/8195) (2025).
+
+For most children the systems in question are not digital in the first place. [Rural primary schools still record attendance, enrolment and administrative data on paper at the point of service, and the annual education management information system census is collected on lengthy hand-completed questionnaires carried to woreda and Regional Education Bureau level for manual entry, with most rural schools having no working computer or internet connection](https://blog.atenu.org/ethiopia-education-report-2024-25/) (2025).
+
+What has changed is the paperwork at the classroom door. [From 2026 the Fayda digital ID replaces the birth certificate as the document required to register a child from Grade 1](https://www.biometricupdate.com/202501/school-registration-adds-up-to-expanding-use-cases-of-ethiopias-digital-id), following [the migration of student biometric records to issue Fayda-based student IDs and the completion of integration testing for student identity by the Ministry of Education and the National ID Program](https://www.biometricupdate.com/202309/ethiopia-rolls-out-student-ids-integrates-biometric-data-to-issue-fayda) (2025). Enrolling in school now depends on holding a credential rather than on reading one.
+
+### Training and skills
+<!-- capacity.training -->
+
+Ethiopia has a digital skills strategy for the public service and a freely available training programme delivering it, but [the content covers basic digital skills and data literacy rather than advanced skills](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The state is training its staff to use systems, not to build them.
+
+External money for skills is substantial and long-dated. The European Union [committed EUR 14 million over 2024-2032 to digital skills development in the technical and vocational education and training system](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-ACT-62753) (2024), as part of a stated 360-degree approach to digital transformation. The UK's [EthiopiAI programme runs 2025-2029 and funds a specialist facility giving technical assistance to Ethiopian public sector bodies alongside local skills-building, aimed at healthcare, education and government administration](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-400750/summary), and the World Bank's [Digital Foundations Project carries digital skills as one component beside broadband, digital government platforms and cybersecurity](https://projects.worldbank.org/en/projects-operations/project-detail/P171034), closing in 2026. The [Mastercard Foundation's Young Africa Works programme counts digital skills, agritech, fintech and digital jobs among its sectors and targets dignified work for 10 million young Ethiopians by 2030](https://mastercardfdn.org/en/news/the-mastercard-foundation-and-partners-enable-127-million-young-ethiopians-to-access-employment-opportunities/) (2023).
+
+Below that, individual systems train the people who have to run them. [Several hundred Ethiopian experts and data collectors have been trained on the National Livestock Data Standards through a training-of-trainers cascade the Ministry of Agriculture owns, with training continuing toward nationwide adoption](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) (July 2026).
+
+Training is not always what is missing. [Health workers using the electronic community health information system give the continuing burden of parallel paper and electronic recording, and personal liability for lost or stolen devices, as the reasons they do not use it](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/) (2023) — obstacles no curriculum removes. Nor is the wider technical workforce the shortage: [Ethiopia's developer population is large and was growing fast in 2023](https://github.blog/news-insights/research/the-state-of-open-source-and-ai/), and [teacher and staff provision is among the country's strongest education scores](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) (2023) while the quality of what is taught has slipped.
 
 ### Research institutions
+<!-- capacity.research -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| AI University Innovation Pod | [Implemented](https://www.connectingafrica.com/ai/ethiopia-launches-ai-unipod-to-drive-innovation) | Opened 2026-02-19 |
-| Artificial Intelligence University construction | [Planned](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) | ETB 5bn appropriated in the FY2026/27 budget |
+The institutional machinery meant to lift Ethiopia's research base is largely donor-built, and its funding windows close together: KOICA [granted US$10 million over 2020-2026, delivered with UNDP, to establish innovation clusters linking universities and industry, develop policy and legal frameworks for science and technology commercialisation, and build an innovation fund](https://www.oda.go.kr/opo/bsin/bsnsSumryDocDetail.do?P_BSNS_NO=2020-00053) (2020), against an [innovation ranking close to the bottom of the global table](https://www.wipo.int/edocs/gii-ranking/2025/et.pdf) (2025).
 
-### New investments
+Research on Ethiopia's own digital systems is produced and published. [An index of whether health facilities actually use their HMIS data for local decisions, applied across 305 facilities, rose from 7.2 to 7.9 between 2019 and 2020](https://www.joghr.org/article/75141-), and [a systematic review of Ethiopian digital-payment literature published since 2015 places trust ahead of convenience, speed, security and cost as the factor connecting service provision to user satisfaction](http://biarjournal.com/index.php/economit/article/view/1562) (August 2026).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Ethio Telecom public share offer | [Implemented](https://www.thereporterethiopia.com/43299/) | 10% offer, deadline extended to 2025-02-14 |
+The instruments used to judge the systems come from outside. [The National ID Program has adopted the Digital Impact Alliance's Digital ID Assessment as its official monitoring instrument, first run in early 2025 and re-run in 2026](https://dial.global/research/digital-id-second-assessment-continuous-learning-ethiopia/).
 
-<!-- narrative: ai-tech -->
-The Artificial Intelligence Institute has existed since 2020, a National Artificial Intelligence Policy was adopted in 2024, and the Institute built the state's flagship service platform.
+## Digitalisation
 
-The FY2026/27 federal budget carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000 — an appropriation large enough to dominate the year's digital total, made from domestic revenue rather than donor finance.
+### Rural digital data capture
+<!-- digital.rural -->
 
-DeepSeek accounts for about 20% of chatbot usage in Ethiopia, the top of its 11–14% range across Africa, on affordability and Belt-and-Road infrastructure. Ethiopia is a founding member of a Chinese-led AI governance body, and the vendor in scoping talks for the enterprise AI layer also supplies the radio network.
+Outside Addis Ababa the state's most extensive digital record-keeping is done by health workers rather than by offices: an [offline-first mobile application on tablets carried into communities](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/) captures household health data at the point of contact, and the health ministry has had to [issue power banks alongside the tablets](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/) so it works where there is no mains supply. It [had still not reached most of the country's health posts, and paper recording remained predominant at the majority of them](https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/) (2025).
 
-The commercial layer is thin and domestic: the engineering-services sector is young, and nothing in the base records a private Ethiopian AI product at national scale.
-<!-- /narrative -->
+Elsewhere in the rural service network the medium is paper. [Primary schools record attendance, enrolment and administrative data on paper at the point of service](https://blog.atenu.org/ethiopia-education-report-2024-25/), with the annual education census hand-completed on long questionnaires and carried to woreda and regional bureau level for manual entry, and most rural schools without a working computer. [Civil registration at kebele level is written into bound booklets with carbon copies](https://www.child-identity.org/wp-content/uploads/2025/06/Taju-Mohammed-Presentation.pdf), one held locally, the rest passed up through woreda, regional and federal offices. [Record-keeping at rural police stations is on paper](https://www.bbc.com/news/articles/cjd9jgnrdpko).
 
-## Inclusion and capacity
+Agriculture is where the position is moving, and the newest money is behind the extension worker rather than the office. [FAO began a technical cooperation project running to 2028 to turn its digitally enabled pluralistic extension pilot into a sustained national programme inside the agricultural extension system](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-41301-763888%22), tying agricultural productivity to nutrition, food security and health outcomes (2026). Alongside it, [farmer registration is being joined to the digital ID and to rural land information systems in a woreda-level pilot](https://ati.gov.et/farmer-profile-initiative/), [identity enrolment now reaches into the woredas](https://www.ena.et/web/eng/w/eng_9268046), and [safety-net cash transfers have moved from physical to electronic payment](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion).
 
-_The base holds no inclusion and capacity rows for Ethiopia. A thin evidence base is a finding, not a gap in this document._
+The setting is not a uniformly weak one. [Rural economy is Ethiopia's strongest governance sub-category, 66.6 out of 100 and 20th of 54 African states, led by rural market access at 85.0 and third on the continent](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) (2023). Within it, though, [rural land and water access fell 9.1 points over the decade to 44.4 and 36th place, and rural representation and participation fell 2.8 points to 63.1](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) (2023) — the two measures closest to what a land or extension record is meant to serve.
 
-<!-- narrative: inclusion -->
-[Mobile connections reached 93.2m at 68.4% of population](https://datareportal.com/reports/digital-2026-ethiopia) in late 2025, up from 85.4m and 63.8% early that year. The [rural mobile-internet gender gap runs at 81% against 29%](https://dial.global/ethiopias-approach-to-use-cases/) in urban areas.
-<!-- /narrative -->
+### Digitalisation of sub-national government
+<!-- digital.localgov -->
+
+The digital one-stop state below the federal level is, for now, one city. Addis Ababa runs [11 one-stop service centres and a set of mobile service units](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/) under its Addis Mesob programme (July 2026), a staffed physical counter backed by systems integration rather than a self-service portal, drawing services from across the city's institutions into a single system. [The city has published no transaction volumes, users served, cost, uptime or independent evaluation of it](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/).
+
+The capital's approach and the regions' have already diverged, and [the two models are not compatible: Addis Ababa absorbs institutions' systems outright, while regional deployments stay tethered to theirs and bounce the user back to the originating agency](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) (July 2026). [The federal MESOB platform's own regional rollout is still ahead of it](https://id.gov.et/mesob), and the route by which interoperability is meant to reach regional administrations at all is the [interoperability framework's Regional Cells](https://thedocs.worldbank.org/en/doc/003d76985cbd41c53cfa9825d2464495-0460012022/original/I-3-9-1-EeGIF-Governance-and-Compliance.pdf), which act as ministry-level chief interoperability officers. The [Digital Government Strategy and Enterprise Architecture 2024–2029](https://www.ena.et/web/eng/digital-government-strategy-2024-2029) commits the state to digital-by-default delivery and to bringing federal ministries and regional administrations under one government domain.
+
+What does exist below the federal level is mostly back-office rather than counter-facing. The [integrated financial management system in use covers local as well as central government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). A [DHIS2-based education data system rolling out in several regions with UNICEF support runs at woreda, zonal and ministry level rather than replacing paper inside schools](https://education.dhis2.org/implementation/ethiopia/) (2025). The [digital addressing system has been practically implemented in dozens of cities](https://ssgi.gov.et/edas-for-three-cities/), complete in Bishoftu and in progress in Adama and Addis Ababa (December 2025), and [digital land administration platforms are running in a small number of cities rather than nationally](https://land.et) (2025). The pattern is consistent: regional states and woredas appear in these systems as sources of data flowing upward, and rarely as the level at which a citizen meets a digital service.
+
+## Data
+
+### National statistics
+<!-- data.statistics -->
+
+Ethiopia has [held neither an agricultural census nor a business census in the past twenty years](https://www.worldbank.org/en/programs/statistical-performance-indicators), though a population census falls inside that window (2023) — an absence that matters in a country whose economy and workforce are largely agricultural. The survey programme is thinner in the same place: [three or more agricultural, business, health and household surveys have been run in the past ten years, but only two labour force surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023).
+
+The World Bank's Statistical Performance Indicators put [Ethiopia's weakest pillars at data sources and data infrastructure, both in the 20-49% band, while data use and data products score 70-89% and data services 50-69%](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The state is better at using and presenting numbers than at collecting them, which is the harder end to fix.
+
+Measured against the continent rather than against a standard, the picture reads more favourably: Ethiopia's [Capacity of the Statistical System score reached 63.4 out of 100 in 2023, tenth of 54 African states, after a 12.4-point rise over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf).
+
+Administrative sources carry much of the load left by the survey and census gaps, and they are uneven. The health system's national reporting platform is in place across the health estate, but its [maturity assessment falls short of the government's own 2025 target](https://medinform.jmir.org/2024/1/e50375) (2024), and a facility-level index found only a [small rise in whether facilities actually use the data they report](https://www.joghr.org/article/75141-) (2020). Civil registration [runs nationwide in law but records only a minority of births](https://www.child-identity.org/wp-content/uploads/2024/09/CRC-factsheet-ETHIOPIA-ENG.pdf) (2023). Where administrative registers are strongest — the [computerised, centralised taxpayer database](https://www.tadat.org/content/dam/tadat/en/assessments/Ethiopia_Final_PAR_2025.pdf) (2025) and the [Ministry of Trade's digital trader database](https://www.ena.et/web/eng/w/eng_4498123) (May 2024) — no denominator is published alongside them, so they count records rather than measure coverage. The Federal Auditor General [presented an annual audit report on federal public institutions to parliament on 6 July 2026](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/).
+
+### Open data
+<!-- data.open -->
+
+Ethiopia's open data commitment rests on the [2016 EITI Open Data Policy, an extractive-industries transparency instrument that is the only open data document in the Ministry of Innovation and Technology's policy library](http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view/266460?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%3Fp_p_id%3Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview), with a [national data strategy still planned rather than adopted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The [open data portal carries only basic information and datasets and is updated largely by hand rather than automatically from the systems that hold the data](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+
+[Population and vital statistics score 2 out of 10 in the 2024 Open Data Inventory, the lowest of Ethiopia's assessed categories carrying a score](https://odin.opendatawatch.com/data).
+
+<!-- derived -->
+Nineteen of the 23 categories scored in that inventory sit between 3 and 5 out of 10, with labour statistics the only one above that band, at 5.5, and pollution and digital and telecommunications statistics at zero.
+
+Documents that exist often stay inside. Across [five parts of the digital government estate, from the service portal and e-procurement to the participation and feedback channels, documentation and assessments are held internally and not published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The Federal Auditor General's EFY 2017 report [was still not obtainable a month after its presentation to parliament, the published library stopping at EFY 2016](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) (4 August 2026), and Addis Ababa has published [no transaction volumes, users served, cost, uptime or independent evaluation for its Addis Mesob one-stop service centres](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/) (20 July 2026). Nothing is published on how the [right-to-information regime performs](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) or on how the [data protection regime operates](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+
+Individual institutions are writing exemptions that are hard to reverse. The Development Bank of Ethiopia's Information Disclosure Policy [puts internal strategy papers, legal case files, classified communications, security protocols and third-party contracts alongside client credit information in a permanently non-declassifiable category](https://www.thereporterethiopia.com/52220/), and [lets it refuse any request requiring it to create or collect data it does not already hold](https://www.thereporterethiopia.com/52220/) (8 August 2026).
+
+Against that, Ethiopia's [Disclosure of Public Records score rose 23.3 points over 2014-2023 to 44.0 out of 100, fourteenth of 54 African states and its fourth most improved indicator](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf), and [Accessibility of Public Records stands at 37.4, eighteenth of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) (2023) — top-third placings on scores still below half marks.
+
+### Use of satellite data
+<!-- data.satellite -->
+
+The Ethiopian Communications Authority stated in July 2025 that [no discussions with Starlink had taken place, were under way or were planned](https://www.linkedin.com/posts/ethiopian-communications-authority_home-eca-activity-7346822754987393024-LHoH), which makes the position on satellite broadband entry one of no application filed rather than an application refused. The Space Science and Geospatial Institute has built the [Ethiopian Digital Addressing System, in practical use in cities including Bishoftu, Adama and Addis Ababa but short of nationwide coverage](https://ssgi.gov.et/edas-for-three-cities/) (December 2025). No published national programme applies Earth observation data to agriculture, land administration or environmental management as at August 2026.
 
 ## Finance
 
 ### New investments
+<!-- finance.new -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digitally enabled pluralistic extension services programme (FAO) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-41301-763888%22) | Committed 2026-07-31 |
-| World Bank Digital ID for Inclusion Project | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P179040) | US$350m approved 2023-12-13 |
+The largest single live commitment on Ethiopia's digital record is not money to build anything with: [MIGA's ten-year, US$1 billion political risk guarantee (2023–2033)](https://www.miga.org/project/safaricom-telecommunications-ethiopia-1) covers the equity of Safaricom Telecommunications Ethiopia's shareholders — Vodafone, Vodacom, Safaricom Kenya and British International Investment — against expropriation, war and civil disturbance, with a US$76 million first-loss layer from the IDA20 Private Sector Window. It is cover for foreign investors' downside, not capital for a network.
 
-### Domestic budget appropriations and expenditure
+<!-- derived -->
+Thirty-seven distinct external commitments to Ethiopia's digital estate are on record, announced since July 2015 on windows closing as late as 2036, and worth around US$3 billion on the headline figures — of which the guarantee is roughly a third. Thirty-two sit in windows that have not closed; one is approved without disbursing and one is still at pipeline stage. Only three were announced in 2025 or later, against fifteen in 2023 and 2024.
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Federal appropriation for digital transformation | [Implemented](https://www.fanamc.com/english/ethiopian-parliament-ratifies-2-34-trillion-birr-federal-budget-for-2026-27-fiscal-year/) | FY2026/27 budget ratified 2026-07-07 |
-| Published budget execution for FY2025/26 | [Implemented](https://www.mofed.gov.et/media/filer_public/ee/f5/eef50cc8-4871-425e-b738-33fe9ed649e0/mid_year_review_2025_26_final_2.pdf) | Mid-year review for 2025/26 published (2026-04) |
-| Audit of digital spending for any in-scope year | ***Not held*** | — |
+<!-- derived -->
+The European Union is the most frequent financier by count, with five commitments, ahead of the World Bank, IFC, the Gates Foundation and the Mastercard Foundation on three each; twenty-one distinct financiers appear in all. By value the order inverts: the World Bank Group's three arms hold more than half of everything recorded. Grants are much the commonest instrument, around twenty of the thirty-seven, but together carry less than the single guarantee. After connectivity, much the largest share, the money goes to ICT industry and startups, digital identity and training; payments and fintech draw many commitments but little money.
 
-<!-- narrative: finance -->
-Thirty-four [budget lines across three fiscal years](https://www.fanamc.com/english/ethiopian-parliament-ratifies-2-34-trillion-birr-federal-budget-for-2026-27-fiscal-year/) show ETB 1.21bn appropriated in FY2024/25 against an outturn of ETB 1.53bn, then ETB 3.75bn and ETB 9.05bn. The rise is largely the birr float rather than real growth, and the FY2026/27 figure is dominated by one capital line. Execution is published in aggregate: the Ministry of Finance's [mid-year review for 2025/26](https://www.mofed.gov.et/media/filer_public/ee/f5/eef50cc8-4871-425e-b738-33fe9ed649e0/mid_year_review_2025_26_final_2.pdf) reports ETB 704.7bn mobilised over July to December 2025, 48.1% of the annual target, against ETB 798.2bn spent, 48.3% of the approved budget; no digital line is broken out, and direct budget support from development partners ran at ETB 67.8bn, 28.8% of the ETB 235.5bn projected. No audit is available for any year in scope: the Auditor General [presented an EFY 2017 report to parliament](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) in July 2026 and has not published it.
-<!-- /narrative -->
+Behind the aggregates one asset keeps recurring. The consortium that won [Ethiopia's first privately held telecoms licence in 2021](https://vodacom.com/pdf/sens/2021/wakanda-category-2-announcement-13-september-2021-publication.pdf) has since taken equity from [British International Investment](https://www.bii.co.uk/en/our-impact/investment/safaricom-plc-investment-01/) and from [IFC, which also lent the operating company for 4G rollout and M-PESA](https://www.ifc.org/en/pressroom/2023/flagship-telecommunications-project-to-bring-affordable-reliable-internet-and-mobile-services-to-millions-more-in-ethiopia), with [a second IFC debt facility under consideration](https://disclosures.ifc.org/project-detail/SII/49097/safaricom-ethiopia-debt-ii). Elsewhere the money is public and singular: the identity programme rests on [one World Bank package](https://projects.worldbank.org/en/projects-operations/project-detail/P179040), [with no documented long-term domestic financing plan beyond card fees and authentication charges](https://www.worldbank.org/en/news/press-release/2023/12/13/world-bank-supports-afe-ethiopias-digital-id-project-to-increase-access-to-services-and-economic-opportunities), while [Korea's development fund rebuilds tax and customs IT to 2027](https://intl.its.go.kr/file/b144c47d-ffe7-4997-a31a-7c8120d5f519_%28%EC%88%98%EC%B6%9C%EC%9E%85%EC%9D%80%ED%96%89%29%20%EC%97%B0%EB%8F%84%EB%B3%84_EDCF%20%EC%8A%B9%EC%9D%B8%ED%98%84%ED%99%A9%2824.9%EC%9B%94%EB%A7%90%20%EA%B8%B0%EC%A4%80%29.pdf). Local rounds stay small enough that [Better Auth's raise in June 2025](https://addisinsight.net/2025/06/25/ethiopian-startup-better-auth-raises-5m-to-democratize-secure-authentication/) counted among the largest on record.
 
-## Gaps to fill
+### MoUs and other agreements
+<!-- finance.mou -->
 
-| System or instrument | What would settle it | Last probed |
-|---|---|---|
-| Third mobile network operator licence | An Ethiopian Communications Authority licensing round, tender or ministerial decision on a third full operator licence. | 2026-08-04 |
-| Secondary directives under the data-protection law | Directives issued by the Ethiopian Communications Authority under Proclamation 1321/2024, or a first enforcement action taken under it. | 2026-08-04 |
-| Gulf digital cooperation | An MoU, investment or ministerial readout naming a Gulf state counterparty in Ethiopian digital infrastructure, AI or payments. | 2026-08-04 |
-| Audit of digital spending for any in-scope year | An Office of the Federal Auditor General report for EFY 2017 or later; its published library stops at EFY 2016. | 2026-08-04 |
+Ethiopia's most consequential signature has hardened: [the Horizon Fiber memorandum of December 2024, between Ethio Telecom, Djibouti Telecom and Sudatel, became binding in February 2026](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal), committing the three to a terrestrial fibre corridor running from Djibouti's cable landings through Ethiopia to Sudan's and casting Ethiopia as a regional transit route.
 
-<!-- narrative: gaps -->
-Four subjects carry no reliable statement of position, and each was probed on 2026-08-04.
-
-Two are absences that stand, dated. No secondary directive has been issued under the data-protection law. And no Ethiopia-specific Gulf digital instrument surfaced, against a large regional literature on Gulf AI investment.
-
-The other two turn on things that exist and are not public. A third operator has a framework and no award: the licensing directive sets the route, a qualification round was launched in 2023 and paused, and nothing has been issued since. The Office of the Federal Auditor General [presented its EFY 2017 annual audit report to parliament](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) in July 2026 and has not published it, so no audit of digital spending is available for any year in scope.
-
-Nothing from a probe is written in: a probe result reaches the base only through ingest.
-<!-- /narrative -->
+Little else does. The December 2025 memorandum under the America First Global Health Strategy sets out [a United States intention to fund Ethiopian health data systems over 2026 to 2030, on a declining annual schedule totalling under US$20 million, with Ethiopia undertaking to meet the software licensing, cloud, hardware maintenance and replacement costs itself](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf); the memorandum records that it is not an international agreement, and the funding is subject to appropriations. On the domestic side, [Safaricom Ethiopia has partnered with the National ID Program to run Fayda enrolment under Lots 3 and 4 (July 2026)](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration), adding a second telco-led registration channel.
