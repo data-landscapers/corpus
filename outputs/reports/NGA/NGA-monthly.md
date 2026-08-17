@@ -3,9 +3,9 @@ title: Nigeria — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: NGA
-ledger_rows: 107
+ledger_rows: 113
 not_held: 8
-record: c232972a194f
+record: 339f3fa83730
 ---
 
 # Nigeria: monthly update, July 2026
@@ -39,6 +39,8 @@ On the tower estate, shareholders of the tower company [approved the acquirer's 
 
 <!-- narrative: infrastructure--infra-store -->
 A Lagos cloud region [entered service on 10 August](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/), the third on its operator's platform alongside Lisbon and Johannesburg and presented around data residency since the Nigeria Data Protection Act took effect — three legal jurisdictions carried on one platform. It joins [about 26 facilities carrying 50 to 56 MW live against some 124 MW installed](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/), Africa's second-largest market after South Africa at about 15% of continental capacity, most of it in Lagos.
+
+The state put its own instrument behind the same argument on 5 August, [signing the regulatory framework for a National Sovereign Cloud Initiative with the state-owned Galaxy Backbone](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl), setting policy, technical and quality requirements for hosting government and business services in the country. It excludes nobody: the stated ask of Google, Microsoft and Amazon is a clearer path to local deployment. The dependence it is aimed at is [more than 85% of national workloads running on public clouds, and 22% of the thousand most-visited sites hosted in Nigeria against a sub-Saharan average of 34%](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl).
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -109,7 +111,9 @@ Federal [HR and payroll](https://fmino.gov.ng/fg-launches-ippis-human-resource-m
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) was soft-launched on 30 July as a single sign-on gateway built with Korean financing, piloted since 2025. Behind the login it integrates with the national data exchange so agencies share citizen data rather than each re-collecting it. The lawful basis and the audit arrangements are unstated, and no published rule answers either.
+The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) was soft-launched on 30 July as a single sign-on gateway built with Korean financing, piloted since 2025, [the Korean agency named as a delivery partner alongside the communications ministry](https://spacewatchafrica.com/galaxy-backbone-unveils-government-service-portal-to-simplify-access-to-public-services/). Behind the login it integrates with the national data exchange so agencies share citizen data rather than each re-collecting it. The lawful basis and the audit arrangements are unstated, and no published rule answers either.
+
+At state level a second donor took the policy layer rather than the platform: on 16 August [the UK opened a digital policy and regulatory reform project with Ekiti State](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/), to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework. Its value and duration are not published.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -235,13 +239,17 @@ Nothing moved on the identity gender gap, on rural access, or on the schools pro
 
 <!-- narrative: inclusion--include-access -->
 A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
+
+Away from the campuses, German cooperation [opened a tender on 4 August for the IT equipment of rural job centres in Ogun and Plateau States](https://publicprocurement.org/german-cooperation-invitation-to-tender-for-electronic-equipment-for-rural-job-centers-for-ogun-plateau-state/), under a youth-employment project. A procurement notice fixes the equipment stage and nothing else: how many centres, at what cost, and when they open are all unstated.
 <!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-Seventy teachers from 40 Lagos public schools were trained in AI literacy.
+[Seventy teachers from 40 Lagos public schools were trained in AI literacy](https://techcabal.com/2026/07/18/ness-2026-charts-new-course-for-leading-funding-and-equipping-nigerian-schools/).
 
 On 4 August the [fourth Mastercard Foundation EdTech Fellowship cohort](https://techcabal.com/2026/08/04/cchub-mastercard-foundation-select-12-startups-for-fourth-edtech-fellowship-cohort/) was selected: 12 startups, taking the programme to 72 companies supported since 2019, each offered up to US$100,000 in equity-free funding over 18 months with Co-creation HUB. The intake is allocated against named categories rather than an open call.
+
+The month's largest single commitment went to the universities rather than the schools: on 11 August [Google.org put US$1.1m into an Africa AI Upskilling Programme run by the FATE Foundation across ten Nigerian universities](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/), on a train-the-trainer model that equips lecturers to deliver a localised version of the funder's own curriculum. Nigeria is the first of four countries in [a programme stated at 30 institutions and more than 30,000 students](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/), neither of which carries its own date or funding line. The same week the Korean agency [backed a first training-of-trainers cohort in business management and artificial intelligence at the Abuja Centre for Entrepreneurship](https://www.linkedin.com/posts/koica-nigeria_koica-koicanigeria-ace-activity-7491490192424439808-ToJ3), aimed at the small-business sector and reported by the funder on its own channel, with no cohort size or cost stated. Both are trainer-pool programmes: what neither publishes is what the trainers then deliver, or to how many.
 <!-- /narrative -->
 
 ## Finance

@@ -3,18 +3,18 @@ title: Nigeria — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: NGA
-ledger_rows: 227
+ledger_rows: 233
 not_held: 8
-record: 81fb9372c5b5
+record: 312c3ae5788a
 ---
 
 # Nigeria: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 227 systems and instruments on this place's ledger, 135 changed position between 2025-08-01 and 2026-08-17, 54 did not, 30 carry no stated baseline, and 8 are ***Not held*** at both ends.*
+*Of 233 systems and instruments on this place's ledger, 139 changed position between 2025-08-01 and 2026-08-17, 54 did not, 32 carry no stated baseline, and 8 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 569 sources for this place in the window — 89 in the earlier half (2025-08 to 2026-01), 480 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 578 sources for this place in the window — 89 in the earlier half (2025-08 to 2026-01), 489 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -70,12 +70,14 @@ The same year produced a data-localisation directive, a virtual-assets executive
 | Equinix LG3 Lagos build | Did not exist | [In build](https://techcabal.com/2025/11/10/equinix-to-build-22-million-data-centre-in-lagos/) | Advanced |
 | Fringe Ikoyi Metro EDGE facility | Did not exist | [In service](https://www.itnewsafrica.com/2026/01/nigerias-digital-future-gets-a-boost-with-fringes-ikoyi-metro-edge-launch) | Advanced |
 | Kasi Cloud LOS1 hyperscale campus | Did not exist | [US$250m campus scaling toward about 100 MW](https://techafricanews.com/2026/05/28/kasi-cloud-datacenters-flags-off-west-africas-first-ai-ready-hyperscale-data-centre-in-lagos/) | Advanced |
+| National Sovereign Cloud Initiative | Did not exist | [Framework setting policy, technical and quality requirements for hosting government and business services in Nigeria, signed with the state-owned Galaxy Backbone](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl) | Advanced |
 | Subsidised sovereign cloud for startups | Did not exist | [Subsidised sovereign cloud for startups](https://techafricanews.com/2026/05/05/gbb-partners-ondi-to-deliver-subsidised-sovereign-cloud-services-for-nigerian-startups/) | Advanced |
 | AWS naira billing | In force (2025-01) | [Naira billing; the nearest region is Cape Town](https://techcabal.com/2025/01/14/aws-accepts-naira-payments) | No change |
 | MTN Sifiso Dabengwa data centre | Live (2025-07) | [4.5 MW Tier III, 780 racks and a naira-priced cloud](https://techpoint.africa/news/mtn-largest-data-centre/) | No change |
 | Open Access Data Centres Lagos expansion | In build (2025-03) | [To 24 MW by 2027, about US$240m](https://techafricanews.com/2025/03/24/open-access-data-centres-to-expand-lagos-facility-to-24mw-by-2027/) | No change |
 | Visa Nigeria data centre | Planned (2025-03) | [Planned](https://www.wearetech.africa/en/fils-uk/news/visa-plans-to-establish-data-centre-in-nigeria-expands-1-billion-investment-portfolio) | No change |
 | Commercial data-centre estate | ***Baseline not held*** | [About 26 facilities, 50-56 MW live against about 124 MW installed (2026-07)](https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center/) | ***Baseline not held*** |
+| Dependence on foreign public cloud platforms | Baseline not held | [More than 85% of Nigerian workloads on public clouds; 22% of the 1,000 most-accessed sites hosted locally, against a 34% sub-Saharan average (2026-08)](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl) | ***Baseline not held*** |
 
 ### Energy
 
@@ -253,6 +255,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| Ekiti State digital policy and regulatory reform project | Did not exist | [UK FCDO project to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework for the state; value and duration not stated](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/) | Advanced |
 | Government Service Portal | In build (2025) | [Piloting on a four-year KOICA project reported at US$13m](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) | Advanced |
 | Supreme Court mandatory electronic filing and the National Case Management System | Did not exist | [Electronic upload of processes and Records of Appeal compulsory, OCR-searchable and on standardised naming, behind the National Case Management System](https://www.thisdaylive.com/2026/08/04/the-digital-supreme-court-a-defining-moment-in-nigerias-judicial-reform-journey/) | Advanced |
 | CBN DocFlow and the MDA naira payment solution | Live (2025-01) | [Live](https://www.vanguardngr.com/2025/01/cbn-launches-mda-naira-payment-solutions-docflow) | No change |
@@ -549,11 +552,14 @@ The surveillance estate carries no baseline the base can state: the largest AI d
 | GoMed-UNFPA digital self-care platform (University of Lagos) | Did not exist | [Live for UoL students; routes to free contraceptives via Lagos State Ministry of Health/UNFPA supply chain, discreet delivery, SoftLife 247/U-Plan and GoMed pharmacists; expansion to other Lagos campuses planned](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/) | Advanced |
 | Zero-rated access to education platforms | Did not exist | [Every option consulted on requires registration to control access](https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf) | Advanced |
 | Financial inclusion | ***Baseline not held*** | [74% financially included (2023), against a 95% target for 2028](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) | ***Baseline not held*** |
+| SKYE II rural job centres in Ogun and Plateau | Baseline not held | [IT equipment out to tender for rural job centres in two states, under a German-funded youth-employment project; centre count, value and opening dates not stated](https://publicprocurement.org/german-cooperation-invitation-to-tender-for-electronic-equipment-for-rural-job-centers-for-ogun-plateau-state/) | ***Baseline not held*** |
 
 ### Training and skills
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| Abuja Centre for Entrepreneurship training-of-trainers programme | Did not exist | [First KOICA-backed cohort of trainers in business management and artificial intelligence, building a trainer pool for the MSME sector; cohort size and cost not stated](https://www.linkedin.com/posts/koica-nigeria_koica-koicanigeria-ace-activity-7491490192424439808-ToJ3) | Advanced |
+| Africa AI Upskilling Programme | Did not exist | [US$1.1m from Google.org to FATE Foundation for a train-the-trainer AI curriculum at 10 Nigerian universities, with the African Institute for Mathematical Sciences](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/) | Advanced |
 | AI Teacher Capacity Development Programme | A pilot in six unity colleges | [Contracted for national rollout to about 11,700 teachers across all Federal Unity Colleges](https://www.vanguardngr.com/2026/07/fg-launches-nationwide-ai-training-for-11700-unity-schools-teachers/) | Advanced |
 | EkoAI Academy (LSETF-InnoPower Africa) | Did not exist | [Free AI-skills programme targeting 10,000 young Lagosians and 100 certified trainers; cost and funding not stated](https://techafricanews.com/2026/08/10/lsetf-and-innopower-africa-launch-ekoai-academy-to-train-10000-lagos-youths/) | Advanced |
 | Huawei and NCCE Digital Academy for teacher-training colleges | Did not exist | [A vendor Digital Academy established at the commission that accredits teacher-training colleges, with the college curriculum revised to add AI and robotics, networking and cybersecurity, data science and analytics, and software and web development](https://punchng.com/huawei-ncce-partner-to-expand-ai-digital-education-in-nigeria/) | Advanced |
