@@ -40,7 +40,12 @@ Three further stages are deferred and named at the end: report initialisation fr
 
 ```bash
 python -c "import datetime,io; io.open('logs/.build-in-progress','w',encoding='utf-8').write('started {:%Y-%m-%d %H:%M}\n'.format(datetime.datetime.now()))"
+python scripts/log-line.py --start build
 ```
+
+**The second line is what puts a duration on the run's log line** *(Bill, 2026-08-17)*. It stamps the clock into the gitignored `logs/.run-start-build`, and the closing call in the ending sequence reads it back and clears it. Run it here, at the top, rather than deriving a start time later: a duration reconstructed at the end of a long session is a recollection, and the reason for logging it at all is to have a measurement. A run that skips this still logs — the line reads `unclocked`, which is the visible version of not knowing.
+
+It does not replace the sentinel above and the two are not interchangeable. The sentinel answers *is a run unaccounted for*, which RENDER Step 0 acts on; this answers *how long did that run take*, which nothing acts on and Bill reads. A run that stops and resumes keeps its original stamp, so the duration spans the whole job rather than the last sitting — which is the number worth having, but it does mean a run interrupted overnight reports the night as well.
 
 **The file exists for exactly as long as a run is unaccounted for** *(2026-08-16)*. It is written here and removed in the ending sequence — on a clean finish *and* on a logged error, because both of those are runs that reported themselves. What it survives is the third case: a session that dies without saying so, which for stage 4 means running out of context somewhere in the middle of 54 units. `RENDER.md` Step 0 refuses to render while it is present, and that refusal is the whole of the mechanism.
 
@@ -190,11 +195,13 @@ If it exits non-zero, **do not commit** — a compiler is wrong; stop and fix it
 python scripts/leak-check.py outputs || exit 1
 ```
 
-**3. Log one terse line**, in the form `YYYY-MM-DD HH:MM · build · what happened`.
+**3. Log one terse line**, in the form `YYYY-MM-DD HH:MM · build · took · what happened`.
 
 ```bash
 python scripts/log-line.py build "catalogue N, finance N places, scan N units, K ledgers updated — ok"
 ```
+
+**The duration writes itself** *(Bill, 2026-08-17)*, from the `--start build` stamp taken in stage 0 — the call above is unchanged and takes no extra argument. It reports the gap between that stamp and now, then clears it. Where stage 0's stamp was never taken, state it instead of leaving the field empty: `--since "2026-08-17 06:41"` or `--took 3h02m`. Do not hand-write a duration that flatters the run — the field exists to be compared across runs, and one made-up number makes the whole column unreadable.
 
 **The log reads newest first** *(2026-08-16)*, so the line is inserted at the top, under the marker comment — `>> logs/log.md` is no longer the recipe. It would still write a correct line, in the wrong place, which is the version of this that nobody notices. `scripts/log-line.py` does the insert and takes the message as an argument, so `·`, em-dashes, slashes and backticks in it are content rather than syntax; it exits 1 rather than guessing if the marker is missing.
 

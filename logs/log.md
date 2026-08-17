@@ -5,7 +5,9 @@ title: Corpus process log
 
 # Corpus log
 
-*(One line per job run, **newest first**. Form: `YYYY-MM-DD HH:MM · job · what happened`. BUILD (Job 1), RENDER (Job 2) and STATUS-INIT each write a line on completion or error, at the top of the list — see their runbooks. The detail is in git; this is a skim.)*
+*(One line per job run, **newest first**. Form: `YYYY-MM-DD HH:MM · job · took · what happened`. BUILD (Job 1), RENDER (Job 2) and STATUS-INIT each write a line on completion or error, at the top of the list — see their runbooks. The detail is in git; this is a skim.)*
+
+*(**The third field is how long the run took** *(Bill, 2026-08-17)*. It is measured, not remembered: a run calls `python scripts/log-line.py --start {job}` when it begins, which stamps the clock, and the closing call reads it back. The timestamp on the left is when the line was **written**, so start time is that minus the duration. A run that took no stamp writes `unclocked` rather than dropping the field — a missing duration would look identical to a line that never had one, and the practice would lapse without anyone seeing it. Lines above 2026-08-17 09:40 predate the field and carry three.)*
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->

@@ -29,6 +29,14 @@ This is easier to hold to here than in BUILD, because RENDER judges nothing abou
 
 ## Step 0 — a finished build behind you, then a clean tree
 
+**Stamp the clock first, before the gate** *(Bill, 2026-08-17)*, so the run's log line can say how long it took:
+
+```bash
+python scripts/log-line.py --start render
+```
+
+Before the gate rather than after it, because a Step 0 stop logs a line too and a stop that took twenty minutes to reach is worth being able to see. The stamp lives in the gitignored `logs/.run-start-render`; the closing call in **Log** reads it back and clears it, and a run that skipped this writes `unclocked` rather than dropping the field.
+
 **Check the build finished before rendering a line of it** *(2026-08-16)*. A build that ran out of road mid-stage-4 leaves a tree that renders perfectly: every document is well-formed, every link resolves, every check passes, and the units that never got their new sources are silently a cycle out of date. Nothing downstream can see that, which is why the test is here and why it fails the run rather than warning.
 
 ```bash
@@ -181,13 +189,15 @@ Topic documents are authored by BUILD (`BUILD.md` stage 6) and arrive in `output
 
 ## Log
 
-On completion or error, write **one terse line** to `logs/log.md`, in the form `YYYY-MM-DD HH:MM · render · what happened`:
+On completion or error, write **one terse line** to `logs/log.md`, in the form `YYYY-MM-DD HH:MM · render · took · what happened`:
 
 ```bash
 python scripts/log-line.py render "reports+home+countries+catalogue rendered, deployed — ok"
 ```
 
 On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). One line per run.
+
+**The duration writes itself** *(Bill, 2026-08-17)*, from the `--start render` stamp taken at Step 0 — the call above is unchanged. It reports the gap between that stamp and now, then clears it, so an error line carries how long the run got before it failed. Where Step 0's stamp was never taken, state it rather than leaving the field empty: `--since "2026-08-17 08:55"` or `--took 21m`.
 
 **And message Bill where the run needed him** *(2026-08-16)*. A block under the marker in `logs/messages-for-bill.md`, written before the commit below so it is carried by it: documents that failed to typeset, a Step 0 stop and what has to be re-run, anything the run decided that he would otherwise have been asked. A clean render writes nothing there.
 

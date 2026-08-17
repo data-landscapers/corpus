@@ -19,6 +19,12 @@ prep/
 # a tracked one would land in every commit a build makes.
 logs/.build-in-progress
 
+# `log-line.py --start {job}` writes one of these when a run begins and the closing log
+# line consumes it, so the duration in `logs/log.md` is measured rather than remembered.
+# Untracked for the same reason as the sentinel above: it is a fact about a run in flight
+# on this machine, not history, and the duration it produces is what gets kept.
+logs/.run-start-*
+
 # Staging is created outside the repo, but belt and braces.
 .pull-staging/
 __pycache__/

@@ -87,10 +87,13 @@ Neither the wiki nor the AfDB dataset is a source. Both are intermediaries that 
 ### Stage 0 — the parent scopes the run
 
 ```bash
+python scripts/log-line.py --start status-init
 python scripts/status-scope.py {ISO3}
 ```
 
-This does the whole of stage 0 and prints it. **Run it and read its output; do not re-derive any of it by hand** — every step below is deterministic, and doing it afresh 54 times is 54 chances to do it differently.
+**The first line stamps the clock for this country** *(Bill, 2026-08-17)*, and stage 3 step 14's log call reads it back as the third field of the country's line. It is taken here, per country, because that is the unit this runbook logs in — see step 14. Re-stamping at the top of each country is correct and not a mistake: `--start` overwrites, so the second country's stamp replaces the first's, which has already been consumed by its own log line.
+
+`status-scope.py` does the whole of stage 0 and prints it. **Run it and read its output; do not re-derive any of it by hand** — every step below is deterministic, and doing it afresh 54 times is 54 chances to do it differently.
 
 1. **Resolve the country.** ISO3 → name, region from `countries.csv`. Note the hub's `last_reviewed` date; it dates the whole report.
 2. **Read the map, not the mass.** Hub frontmatter `topics:`, then `## Active topics` and `## Record not held`, which the tool extracts by line range. **Never read a hub whole** — NGA is 301KB, ZAF 264KB, KEN 234KB, and `## Recent developments` is chronology, which is the wrong input for a status report and is deliberately not printed.
@@ -150,6 +153,8 @@ Launched in a single batch so they run concurrently. **No extraction agent write
     python scripts/log-line.py status-init "{ISO3}: 37 sub-sections, NN sources, NN acquire lines, A-I pass — ok"
     git add -A && git diff --cached --quiet || git commit -m "{ISO3} status baseline: 37 sub-sections, NN sources"
     ```
+
+**The line carries how long the country took** *(Bill, 2026-08-17)*, as a third field. Because the unit here is the country and not the session, the stamp is taken **per country, at the top of stage 0** — `python scripts/log-line.py --start status-init` — and the call above consumes it. A session doing three countries stamps three times and gets three durations; stamping once at the top of the session would give the first country the truth and the next two the whole session so far. A country whose stamp was missed logs `unclocked`, or states it with `--took`.
 
 **One line per country, not per session** *(Bill, 2026-08-16)*. A session that takes three small countries writes three lines. The unit of work here is the country — the progress CSV counts countries, the commits are per country, and a session boundary is a fact about cost rather than about the baselines.
 
