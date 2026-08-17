@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: digital.rural
 places: BDI; CAF; COG; EGY; SWZ; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; TGO; ZMB; ZWE
-record: fd96944af7b5
+record: 4608bcab71a9
 ---
 
 # Rural digital data capture: progress report, 2025-08-01 to 2026-08-17
@@ -23,7 +23,7 @@ record: fd96944af7b5
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | First free public Wi-Fi point | Did not exist | [One site, presented as the country's first free public internet access point, with technical support from Russian cooperation](https://ndjonisango.com/2026/04/24/rca-bocaranga-entre-dans-lere-numerique-avec-le-premier-wi-fi-public-gratuit-du-pays/) | Advanced |
 | Universal service fund school and community connectivity | The fund created by a 2018 law with a 2019 implementing decree and never operational; its supervising committee's activities launched July 2025 | [Effective implementation stated for 2026, financed by a 2% levy on operators' previous-year turnover, with scope covering broadband in schools, health centres, town halls, libraries and post offices](https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026) | Advanced |
@@ -48,7 +48,7 @@ record: fd96944af7b5
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | T-Connect Impact school and clinic connectivity | Did not exist | [Operating, following the first community hotspots handed over at Matsieng, Thaba Bosiu and Mokhotlong in September 2025](https://publiceyenews.com/2026/01/17/digital-dawn-in-the-highlands/) | Advanced |
 
@@ -74,7 +74,7 @@ record: fd96944af7b5
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Satellite connectivity partnership with Angola | A proof of concept under way; discussions began June 2025 | [A pilot commercial agreement between the state fixed operator and Angola's space agency, with full commercial launch targeted after the pilot](https://itweb.africa/article/namibia-angola-ink-satellite-deal-for-regional-connectivity/G98YdqLGjVoMX2PD) | Advanced |
 

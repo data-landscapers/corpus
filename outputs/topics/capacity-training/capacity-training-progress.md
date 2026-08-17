@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: capacity.training
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: b750863fb318
+record: ada5271e4490
 ---
 
 # Training and skills: progress report, 2025-08-01 to 2026-08-17
@@ -118,6 +118,7 @@ record: b750863fb318
 | Education management information system compact | In force, closing that month | [Compact closed, with no successor operation, outturn or system-status report on file](https://assets.mcc.gov/content/uploads/partner-country-business-forecast-q3fy22-q2fy23.xlsx) | Closed |
 | Chinese digital education loan | Fully disbursed with a Chinese vendor contracted to the education ministry | [Unchanged; no disbursement, completion or evaluation update since December 2022](https://www.dropbox.com/s/myashl99hq44wde/Projet%20d%E2%80%99%C3%89ducation%20Num%C3%A9rique_85%25%20English.pdf?dl=0) | No change |
 | Civil-service digital-skills programme | ***Baseline not held*** | [192 officials from about thirty public bodies trained over 40 days, against a cumulative claim of more than 37,500 civil servants](https://www.fratmat.info/article/2643657/regions/katiolatic-192-agents-administratifs-formes-dans-le-hambol) | ***Baseline not held*** |
+| Tech Talent Accelerator | Baseline not held | [A German-funded three-month cohort closing with 51 artificial-intelligence projects across finance, health, law, education and cybersecurity; participant numbers, cost and what becomes of the projects are not stated](https://startupmedias.africa/articles/tech-talent-accelerator-51-projets-intelligence-artificielle-cote-divoire) | ***Baseline not held*** |
 
 ## Djibouti
 
@@ -155,6 +156,7 @@ record: b750863fb318
 |---|---|---|---|
 | AI, robotics and cybersecurity training at innovation hubs | Did not exist | [Announced; no start date, provider or cohort size given](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) | Advanced |
 | Digital Eswatini change agents | Did not exist | [In training across ministries](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Advanced |
+| Macetjeni digital innovation hub | Did not exist | [A second hub, in the Lubombo Region, backed by the development programme with the communications regulator and the small-enterprise development company, targeting young people, women and people with disabilities; no intake target, running cost or funding term is stated](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities) | Advanced |
 | Digitally skilled citizens targeted | Baseline not held | [300,000 targeted, in a population of about 1.2m](https://times.co.sz/lifestyle/readmore.php?bhsadjgfoh=300+000+emaSwati+needed+for+country%E2%80%99s+digital+future&bvhdgsj=Lifestyle&yiphi=2761) | ***Baseline not held*** |
 
 ## Gabon
@@ -189,7 +191,7 @@ record: b750863fb318
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | STARTOCODE digital-skills programme (Telecel + Government) | Did not exist | [Coordination committee stood up to supervise annual training of 1,000 youth over four years in programming, data analysis and cloud computing, with emphasis on women and people with disabilities](https://telecelgroup.com/telecel-and-guinea-bissau-government-launch-startocode-coordination-committee/) | Advanced |
 
@@ -207,7 +209,7 @@ record: b750863fb318
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | AI Skills Development Programme | Did not exist | [Running, reported as Lesotho's first digital-entrepreneurship and AI-tools training](https://publiceyenews.com/2026/06/17/lesotho-us-forge-ai-future/) | Advanced |
 | Vodacom and AWS digital-skills training | Did not exist | [Pledged; nothing on record has been delivered in the twelve months since](https://techafricanews.com/2025/08/25/vodacom-lesotho-upgrades-network-as-group-ceo-pledges-continued-investment-in-digital-transformation/) | Advanced, a pledge only |
@@ -229,7 +231,7 @@ record: b750863fb318
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Ministry recruitment of specialist digital posts | Did not exist | [259 applications received by 1 August 2026 for posts in artificial intelligence, data management, digital innovation, cybersecurity, telecommunications and digital law; no appointment announced](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/) | Advanced |
 | DECIM digital skills sub-component | Not established | [US$15m committed, with 5,700 people to be trained in advanced digital skills and US$2.4m for the national research network (2025-11)](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf) | ***Baseline not held*** |
@@ -281,7 +283,7 @@ record: b750863fb318
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Government technology staff cyber-skills programme | Did not exist | [Cabinet-approved targeted training in cyber hygiene, incident response and threat intelligence; no delivery, budget or cohort reported at 2026-08-06](https://itweb.africa/article/namibia-cabinet-approves-fresh-proposals-to-combat-cyber-crime/5yONPvEraz37XWrb) | Advanced |
 
@@ -305,6 +307,8 @@ record: b750863fb318
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| Abuja Centre for Entrepreneurship training-of-trainers programme | Did not exist | [First KOICA-backed cohort of trainers in business management and artificial intelligence, building a trainer pool for the MSME sector; cohort size and cost not stated](https://www.linkedin.com/posts/koica-nigeria_koica-koicanigeria-ace-activity-7491490192424439808-ToJ3) | Advanced |
+| Africa AI Upskilling Programme | Did not exist | [US$1.1m from Google.org to FATE Foundation for a train-the-trainer AI curriculum at 10 Nigerian universities, with the African Institute for Mathematical Sciences](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/) | Advanced |
 | AI Teacher Capacity Development Programme | A pilot in six unity colleges | [Contracted for national rollout to about 11,700 teachers across all Federal Unity Colleges](https://www.vanguardngr.com/2026/07/fg-launches-nationwide-ai-training-for-11700-unity-schools-teachers/) | Advanced |
 | EkoAI Academy (LSETF-InnoPower Africa) | Did not exist | [Free AI-skills programme targeting 10,000 young Lagosians and 100 certified trainers; cost and funding not stated](https://techafricanews.com/2026/08/10/lsetf-and-innopower-africa-launch-ekoai-academy-to-train-10000-lagos-youths/) | Advanced |
 | Huawei and NCCE Digital Academy for teacher-training colleges | Did not exist | [A vendor Digital Academy established at the commission that accredits teacher-training colleges, with the college curriculum revised to add AI and robotics, networking and cybersecurity, data science and analytics, and software and web development](https://punchng.com/huawei-ncce-partner-to-expand-ai-digital-education-in-nigeria/) | Advanced |
@@ -320,6 +324,7 @@ record: b750863fb318
 |---|---|---|---|
 | Coding academy | Operating on about US$7.9m including a government counterpart, with 118 students across two intakes in September 2021 | [The same financing, now the exclusive admission route into the new computing institute's first two intakes](https://www.minecofin.gov.rw/news-detail/rwanda-coding-academy-receives-frw-71-billion-support-from-koica) | Advanced, becomes sole feeder |
 | Inclusive digital transformation centre | US$275.7m across an endowment and a centre, from 2022 to 2035, targeting 10,000 learners | [Unchanged; no progress figure against the target at any date](https://www.cmu.edu/news/stories/archives/2022/september/carnegie-mellon-university-and-mastercard-foundation-partner-to-drive-youth-led-digital) | No change |
+| Artificial-intelligence trust and safety training for officials | Baseline not held | [Training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada through the United Nations development programme; participant numbers, curriculum and cost are not stated](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf) | ***Baseline not held*** |
 
 ## Senegal
 
@@ -330,7 +335,7 @@ record: b750863fb318
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | AI Student Tutor Programme (World Bank pilot) | Did not exist | [Piloting across four schools](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Advanced |
 | AI Teacher Coach Programme (World Bank pilot) | Did not exist | [Piloting across six schools; to become integral to the national Framework as implementation proceeds](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Advanced |
@@ -354,6 +359,7 @@ record: b750863fb318
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National Digital and Future Skills Strategy 2020 | 2020 strategy in force | [Under review; no replacement](https://pmg.org.za/committee-question/39587/) | Stalled |
+| Digital-skills pipeline from school to employment | Baseline not held | [Constrained at both ends: young people entering without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment; the mismatch is found to be structural and not self-correcting (2026-08)](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills) | ***Baseline not held*** |
 | National Competency Framework | ***Baseline not held*** | In development (2026-07-23) | ***Baseline not held*** |
 
 ## South Sudan
@@ -386,7 +392,7 @@ record: b750863fb318
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Digital skills in the development plan | Did not exist as a statutory commitment | [Artificial intelligence, data analysis, programming and cybersecurity named as the skills base of a digital economy made a pillar of human-capital development; no programme, budget, target or delivery agency is stated (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
 

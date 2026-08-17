@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: include.access
 places: AGO; BFA; BDI; CIV; COD; EGY; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 511af079950b
+record: bf5eda2f75c1
 ---
 
 # Access to services: monthly update, July 2026
@@ -90,6 +90,8 @@ On 15 July the World Food Programme [inaugurated the Guidan Fasaha community dig
 [An agent-network microfinance operator founded in 2018 was profiled during the month](https://www.wearetech.africa/fr/fils/tech-stars/rukayat-kolawole-bello-connecte-les-exclus-de-la-banque-au-credit), reaching microenterprises and the historically unbanked through trained local agents with naira-denominated formalisation and credit rather than dollar substitution; no user, loan-book or coverage figures are published.
 
 A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
+
+Away from the campuses, German cooperation [opened a tender on 4 August for the IT equipment of rural job centres in Ogun and Plateau States](https://publicprocurement.org/german-cooperation-invitation-to-tender-for-electronic-equipment-for-rural-job-centers-for-ogun-plateau-state/), under a youth-employment project. A procurement notice fixes the equipment stage and nothing else: how many centres, at what cost, and when they open are all unstated.
 
 ## Rwanda
 

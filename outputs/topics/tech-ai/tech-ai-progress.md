@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 9d5c88ca87d2
+record: 1fe28d14fc52
 ---
 
 # AI: progress report, 2025-08-01 to 2026-08-17
@@ -166,7 +166,7 @@ record: 9d5c88ca87d2
 
 ## Eritrea
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Eri-Chat offline AI app | Live since April 2025 (pre-window launch), offline open-source-AI app storing conversation data locally on-device | [Live; showcased at Asmara UN Day event (24 Oct 2025) to ambassadors, UN officials and diplomats; English-only, local-language support pending (insufficient training data)](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/) | No change |
 
@@ -232,7 +232,7 @@ record: 9d5c88ca87d2
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National AI Academy | Did not exist | [Proposed in a signed memorandum; no timetable, governance structure, curriculum or host institution is named](https://lestimes.com/?p=91121) | Advanced |
 
@@ -252,7 +252,7 @@ record: 9d5c88ca87d2
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | ATLAS Umoja African-language AI partnership | Did not exist | [Founding partnership announced; no Malagasy-language model or dataset released (2026-07)](https://techafricanews.com/2026/07/28/axian-telecom-named-founding-partner-of-atlas-umoja-ai-for-african-language-ai/) | Advanced |
 | Madagascar-Egypt partnership on AI in public administration | Not on record | [Reported; no date of signature, text or figure (2026-08)](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/) | Advanced |
@@ -308,11 +308,12 @@ record: 9d5c88ca87d2
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Artificial-intelligence readiness assessment | Completed (2025) | [Completed; the findings were restated by the research council's authors on 2026-02-16](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | No change |
 | Artificial-intelligence working group of the research council | Operating; contributed to the artificial-intelligence readiness assessment | [Operating; runs the national strategy process](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | No change |
 | National artificial-intelligence institute | Proposed, not established | [Proposed, not established; no site, budget, host or founding instrument on file](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | No change |
+| Indigenous-language voice-data repository | Baseline not held | [A voice-data repository for Namibian indigenous languages being built through the development programme's artificial-intelligence sprint with the national science and technology university; no language count, corpus size, licence or release date is stated](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs) | ***Baseline not held*** |
 
 ## Niger
 
@@ -350,6 +351,7 @@ record: 9d5c88ca87d2
 | Continental AI fund | A US$60bn target announced alongside the declaration, with no legal foundation, capitalisation or manager | [Still only a headline figure, with no vehicle, capitalisation, governance or first disbursement on the record](https://www.africanlawbusiness.com/news/optimism-but-uncertainty-over-africas-ai-declaration/) | No change |
 | Global AI summit | A first edition held in the capital with more than a thousand policymakers and business leaders, producing the continental declaration | [Unchanged; no second edition, date or host is on the record as at 2026-08-05](https://www.africanlawbusiness.com/news/optimism-but-uncertainty-over-africas-ai-declaration/) | No change |
 | AI scaling hub | ***Baseline not held*** | [About RWF 25bn secured from unnamed international partners](https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-dedicated-ai-agency-to-drive-investment-and-innovation) | ***Baseline not held*** |
+| Scoping of an artificial-intelligence partnership with a hyperscaler | Baseline not held | [A working session between the ICT ministry and the company scoping digital public infrastructure, data exchange, cloud, cybersecurity and artificial-intelligence skills; nothing signed, no value and no timetable](https://www.techreviewafrica.com/news/6745/rwanda-and-google-engage-on-ai-partnership-to-accelerate-digital-transformation) | ***Baseline not held*** |
 
 ## Senegal
 
@@ -361,7 +363,7 @@ record: 9d5c88ca87d2
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National AI in Education Framework 2026–2030 | Did not exist | [Cabinet-approved, running to 2030; two World Bank pilots already running; the Framework's own text is not held](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Advanced |
 
@@ -417,9 +419,10 @@ record: 9d5c88ca87d2
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Livre Blanc on artificial intelligence for Tunisia | Did not exist | [A 2030 vision authored by an association and offered to the state for debate, naming the absence of large-scale data centres and sovereign compute, brain drain and under-equipped small firms as the constraints, and prescribing frugal compute investment sized by measured demand; declared open source but not posted anywhere reachable, so its content is held at press-summary precision (2026-08)](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/) | Advanced |
+| National artificial intelligence strategy | Not held | [A National Artificial Intelligence Strategy 2026-2030 exists in outline, presented to a restricted ministerial council by the communication technologies minister; no adopted text, cabinet decision, budget or roadmap is published](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/) | Advanced |
 
 ## Uganda
 

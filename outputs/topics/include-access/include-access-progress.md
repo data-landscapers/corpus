@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: include.access
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: e51b561690b8
+record: d0e99b3a5ac1
 ---
 
 # Access to services: progress report, 2025-08-01 to 2026-08-17
@@ -177,7 +177,7 @@ record: e51b561690b8
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Broadband coverage against actual internet use | ***Baseline not held*** | [100% broadband coverage against about 50% regular internet use, stated by MICSTI at the UN Global Dialogue on AI Governance (2026-07)](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9) | ***Baseline not held*** |
 | Cross-border remittance channel to South Africa | ***Baseline not held*** | [Migrant workers moving from banks to fintechs such as Mukuru as South African remittance and banking rules tightened (2026-06)](https://techcabal.com/2026/06/12/south-africa-remittance-rules-migrants/) | ***Baseline not held*** |
@@ -197,7 +197,7 @@ record: e51b561690b8
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Fonds DECIM affordable-device facility | April 2025 call for applications closed, none contracted | [Nine applications approved, with only two operator contracts unsigned; a student-laptop pilot proposed for about 700 computers (2025-11)](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf) | Advanced |
 | Mobile internet tariff reduction agreement | A standoff between the state and the operators | [Agreement reached; no price schedule or reduction figure published (2025-12)](https://www.lexpress.mg/2025/12/connectivite-baisse-annoncee-des-tarifs.html) | Advanced |
@@ -226,7 +226,7 @@ record: e51b561690b8
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Financial inclusion rate | 78%, described as current by an industry executive (2025-07) | [86% (2025), with the same 78% dated to 2017](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/) | Advanced, dating unreconciled |
 | Free internet for schools and clinics under new towers | Not on record; 339 schools and 50 health centres reported without adequate connectivity (2025-06) | [Free internet for seven years to schools and clinics under towers built in the previous two years; N$80m in nine radio access network towers over two years](https://itweb.africa/article/namibian-schools-clinics-to-get-free-internet/PmxVEMKEdwzvQY85) | Advanced |
@@ -256,6 +256,7 @@ record: e51b561690b8
 | GoMed-UNFPA digital self-care platform (University of Lagos) | Did not exist | [Live for UoL students; routes to free contraceptives via Lagos State Ministry of Health/UNFPA supply chain, discreet delivery, SoftLife 247/U-Plan and GoMed pharmacists; expansion to other Lagos campuses planned](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/) | Advanced |
 | Zero-rated access to education platforms | Did not exist | [Every option consulted on requires registration to control access](https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf) | Advanced |
 | Financial inclusion | ***Baseline not held*** | [74% financially included (2023), against a 95% target for 2028](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) | ***Baseline not held*** |
+| SKYE II rural job centres in Ogun and Plateau | Baseline not held | [IT equipment out to tender for rural job centres in two states, under a German-funded youth-employment project; centre count, value and opening dates not stated](https://publicprocurement.org/german-cooperation-invitation-to-tender-for-electronic-equipment-for-rural-job-centers-for-ogun-plateau-state/) | ***Baseline not held*** |
 
 ## Rwanda
 
@@ -318,7 +319,7 @@ record: e51b561690b8
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Affordability of digital services | ***Baseline not held*** | [A digital basket at 1.53% of gross national income per head, about US$5.31 a month, second in the Maghreb and under the two-percent international threshold; the figures are the international union's, reported by the regulator (2026-07)](https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/) | ***Baseline not held*** |
 

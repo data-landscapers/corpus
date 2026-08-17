@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: infra.cybersec
 places: AGO; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 518caf2f9bad
+record: 58811cda27e8
 ---
 
 # Cybersecurity: monthly update, July 2026
@@ -179,7 +179,7 @@ The national cybersecurity agency [warned on 30 July 2026 of an SMS phishing cam
 
 The ICT ministry [launched an updated national information security framework on 16 July](https://itweb.africa/article/uganda-launches-updated-cybersecurity-framework/LPwQ57lboKAqNgkj), developed under the Uganda Digital Acceleration Project and setting minimum controls for government institutions, citing a 60% year-on-year rise in attacks including a UGX 62bn central-bank incident. The framework document itself is not published.
 
-On 17 July the regulator opened work on a [national anti-piracy coordination framework](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/) with broadcasters, three mobile operators, the revenue authority and the registration bureau. Legitimate pay-television subscriptions were given as about 800,000 in March 2026 against about 1.65 million in 2021. Dynamic address and name-resolution blocking is under exploration, and participants at the convening raised the dual use of blocking infrastructure built for piracy.
+On 17 July the regulator opened work on a [national anti-piracy coordination framework](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/) with broadcasters, three mobile operators, the revenue authority and the registration bureau. Legitimate pay-television subscriptions were [given as about 800,000 in March 2026 against about 1.65 million in 2021](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/). Dynamic address and name-resolution blocking is under exploration, and participants at the convening raised the dual use of blocking infrastructure built for piracy.
 
 Two accounts in August put the threat above the response. A continental police assessment [attributes over US$2m of losses to a single Ugandan deepfake investment scam](https://techcabal.com/2026/08/13/africa-cybercriminals-adopting-ai-institutions-them/), against 8% of intelligence analysts recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools. At the communications regulator's first national cybersecurity conference on 13 August, an operator [called for fraud protection to be built into digital-finance products and described an interface letting banks check for recent SIM-swap activity before processing a transaction](https://techafricanews.com/2026/08/13/airtel-urges-ugandas-digital-finance-sector-to-build-fraud-protection-into-products/); no uptake figure for the interface is published. The central bank separately told a conference that [cybersecurity is now a national security issue](https://www.newvision.co.ug/category/news/cybersecurity-now-a-national-security-issue-s-NV_238608_082026).
 

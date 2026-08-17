@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: digital.localgov
 places: DZA; AGO; BFA; CMR; TCD; COG; COD; EGY; SWZ; ETH; GAB; GMB; GIN; KEN; LSO; LBY; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SOM; TZA; TGO; ZMB; ZWE
-record: 4d72a94c2431
+record: f84d4ef64d5f
 ---
 
 # Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-17
@@ -107,7 +107,7 @@ record: 4d72a94c2431
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Maseru City Council Construction Permit Automation System | ***Baseline not held*** | [Live at mcc-cp.org.ls, built by Computer Business Solutions (Lesotho) with Web Masters Kenya under World Bank Private Sector Competitiveness Project funding: online application, document upload, staged review, SMS/email notifications, auto-generated invoices and digital permit issue](https://www.cbs.co.ls/project/construction-permit-automation-system/) | ***Baseline not held*** |
 
@@ -143,7 +143,7 @@ record: 4d72a94c2431
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Windhoek People-Centred Smart City Strategy 2026-2036 | Smart-city development under discussion; no strategy, financing or instrument published (2025-09-23) | [Adopted 2026-06-15 and handed over in partnership with UN-Habitat and the United Nations Innovation Technology Accelerator for Cities; the named projects are commercialisation of the city's own fibre-optic network as the digital backbone and a proposed commuter rail linking Windhoek, Katutura and Rehoboth; no funding requirement, implementation timetable or institutional owner is published, and a Chinese contribution to the pilot was acknowledged 2026-07-08](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m) | Advanced |
 

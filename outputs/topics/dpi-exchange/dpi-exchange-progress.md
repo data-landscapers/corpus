@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 1deb493ae86c
+record: 785d9549e58b
 ---
 
 # Data Exchange: progress report, 2025-08-01 to 2026-08-17
@@ -133,7 +133,7 @@ record: 1deb493ae86c
 
 ## Eritrea
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | ASYCUDA World customs platform | 2007-era paper-based customs software (no ASYCUDA) | [ASYCUDA World implemented with UNDP support, full source-code transfer to the Eritrean government for national ownership](https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system) | Advanced |
 
@@ -180,7 +180,7 @@ record: 1deb493ae86c
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Interoperability Regulation (public/private digital systems and platforms) | Council of Ministers approval (2025-07-10); no later update on promulgation or publication found | [Same](https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/) | No change |
 
@@ -196,7 +196,7 @@ record: 1deb493ae86c
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Government of Lesotho Enterprise Architecture and Interoperability Framework | Did not exist | [In development; aimed at improving government efficiency and digital service delivery and avoiding fragmented, costly ICT infrastructure deployment across government; no further detail published](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf) | Advanced |
 | X-Road government interoperability platform | Once-only information exchange named as a priority in the India memorandum, with no platform on record (2025-07) | [Presented as one of three systems under development; no go-live date published](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) | Advanced |
@@ -209,7 +209,7 @@ record: 1deb493ae86c
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Rahaka national interoperability platform | Platform expansion out to tender (2025-08) | [Operational at the investment board, the social-security fund, the statistics institute, the justice ministry and the tax directorate (2026-04)](https://www.lexpress.mg/2026/04/administration-mise-en-place-dun.html) | Advanced |
 
@@ -259,7 +259,7 @@ record: 1deb493ae86c
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Governmental interoperability solution | Delivered 2016; no operational status published | [No operational status published at 2026-08-06](https://ega.ee/project/governmental-interoperability-in-namibia/) | No change, last statement 2016 |
 | Inter-ministry data-exchange platform | Being deployed | [No record since 2025-09-03](https://www.undp.org/namibia/blog/season-3-namibias-digital-identity-journey-vision-reality) | No change, no later record |
@@ -306,7 +306,7 @@ record: 1deb493ae86c
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Seychelles–AfCFTA–Quest Ghana digital-trade-hub MoU | Did not exist | [MoU established; signing date, venue and terms not established (paywalled lede)](https://www.nation.sc/articles/29842/seychelles-set-to-become-digital-trade-hub-of-afcfta) | Advanced |
 
@@ -362,7 +362,7 @@ record: 1deb493ae86c
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National interoperability platform (UXP) | Phase 1 live as a proof of concept across five ministries, with a central governing authority established (2025-08) | [Phase 2 contracted, extending the platform to the business register, the investment authority, the industry and export promotion agencies, the finance ministry and the central bank; completion 2027 (2026-05)](https://cyber.ee/resources/news/phase-2-tunisia-interoperability/) | Advanced |
 

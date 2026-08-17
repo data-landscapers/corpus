@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; COD; EGY; SWZ; GAB; LBR; MLI; MUS; NAM; NER; RWA; STP; SEN; UGA; ZMB; ZWE; XWA
-record: 2ee237add56c
+record: 537b3ee624f5
 ---
 
 # Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-17
@@ -12,8 +12,6 @@ record: 2ee237add56c
 *24 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
@@ -42,7 +40,7 @@ record: 2ee237add56c
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Regulator request for tighter identification and platform account closures | Did not exist | [Requests for better control of subscriber identification to limit anonymous accounts, activation of international judicial cooperation against content produced abroad, and cooperation with international platforms on reporting and closing accounts; no instrument adopted](https://centranews.org/centrafrique-le-hcc-denonce-lusage-abusif-de-lintelligence-artificielle-pour-la-desinformation/) | Advanced |
 
@@ -111,7 +109,7 @@ record: 2ee237add56c
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Published draft and consultation record of the Data Protection Bill | Did not exist | [A dated consultation record: the ministry opened public input on the draft Data Protection Bill on 2022-10-26 with a closing date of 2022-11-30, addressed to two named ministry officers; the ACTION Namibia Coalition filed a submission on the closing date, compiled by ALT Advisory and funded by the Embassy of Finland through IPPR's Democracy Report project; IPPR published the same argument as a public paper on 2022-12-14, arguing the sections on the Supervisory Authority's independence need substantial redrafting and that offences and penalties provisions are undeveloped; no ministry-published list of respondents is held, and no further consultation activity is on record since](https://action-namibia.org/government-seeks-public-input-on-draft-data-protection-bill/) | Advanced |
 
@@ -129,7 +127,7 @@ record: 2ee237add56c
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | FGI STP (Forum de Governanca da Internet) | Did not exist | [1st edition held, regulator (AGER)-convened; agenda covered digital trust, infrastructure, regulation, privacy/data protection, AI, internet/social media; no outcome document or next-edition date published](https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp) | Advanced |
 

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: infra.store
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: 208cbe75dd3d
+record: a0035448fac7
 ---
 
 # Data Storage: progress report, 2025-08-01 to 2026-08-17
@@ -83,7 +83,7 @@ record: 208cbe75dd3d
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Government secure interconnection network | Did not exist | [A dedicated network of five microwave-relay sites interconnecting ministries; no contract, site list, financing or timetable held](https://www.agenceecofin.com/actualites-numerique/2705-138800-la-centrafrique-modernise-l-infrastructure-numerique-de-son-administration-avec-huawei) | Advanced |
 | Incumbent operator privatisation | Did not exist; the prior rescue, agreed in November 2020 and needing EUR 20m, was never funded | [An operational phase declared, with definitive takeover agreements, a joint steering committee and a deployment schedule still to be established and the deal structure undisclosed](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) | Advanced |
@@ -219,7 +219,7 @@ record: 208cbe75dd3d
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Project Kobong hydropower and AI data centre | Did not exist | [Approved, on a binding Memorandum of Agreement of 4 June 2026 covering at least 1,200MW of pumped storage and a green-powered AI data centre at Mokhotlong, conditional on feasibility, financing, permitting and definitive agreements, with construction targeted for 2029](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) | Advanced |
 
@@ -232,7 +232,7 @@ record: 208cbe75dd3d
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National data centres (Tsimbazaza and Iavoloha) | Tenders opened for rehabilitation of the main data centre and the identity-card personalisation centre (2025-12) | [Two renewable-powered centres confirmed as securing the identity system; no commissioning date published (2026-06)](https://www.ecofinagency.com/news-digital/2406-56771-madagascar-world-bank-review-progress-on-543-million-digital-transformation-projects) | Advanced |
 
@@ -297,7 +297,7 @@ record: 208cbe75dd3d
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National and public data centre | None published | [A concept note and project proposal directed to the ministry and the Office of the Prime Minister; no site, capacity, cost or date published at 2026-08-06](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) | Advanced, no dates set |
 | Vendor-built national data centre for artificial-intelligence workloads | None published | [A vendor building smart-city solutions and a data centre with the ICT and home affairs ministries; China committed CNY 98,000,000, given by the source as about US$14.4m on 2026-07-08](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m) | Advanced |
@@ -322,12 +322,14 @@ record: 208cbe75dd3d
 | Equinix LG3 Lagos build | Did not exist | [In build](https://techcabal.com/2025/11/10/equinix-to-build-22-million-data-centre-in-lagos/) | Advanced |
 | Fringe Ikoyi Metro EDGE facility | Did not exist | [In service](https://www.itnewsafrica.com/2026/01/nigerias-digital-future-gets-a-boost-with-fringes-ikoyi-metro-edge-launch) | Advanced |
 | Kasi Cloud LOS1 hyperscale campus | Did not exist | [US$250m campus scaling toward about 100 MW](https://techafricanews.com/2026/05/28/kasi-cloud-datacenters-flags-off-west-africas-first-ai-ready-hyperscale-data-centre-in-lagos/) | Advanced |
+| National Sovereign Cloud Initiative | Did not exist | [Framework setting policy, technical and quality requirements for hosting government and business services in Nigeria, signed with the state-owned Galaxy Backbone](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl) | Advanced |
 | Subsidised sovereign cloud for startups | Did not exist | [Subsidised sovereign cloud for startups](https://techafricanews.com/2026/05/05/gbb-partners-ondi-to-deliver-subsidised-sovereign-cloud-services-for-nigerian-startups/) | Advanced |
 | AWS naira billing | In force (2025-01) | [Naira billing; the nearest region is Cape Town](https://techcabal.com/2025/01/14/aws-accepts-naira-payments) | No change |
 | MTN Sifiso Dabengwa data centre | Live (2025-07) | [4.5 MW Tier III, 780 racks and a naira-priced cloud](https://techpoint.africa/news/mtn-largest-data-centre/) | No change |
 | Open Access Data Centres Lagos expansion | In build (2025-03) | [To 24 MW by 2027, about US$240m](https://techafricanews.com/2025/03/24/open-access-data-centres-to-expand-lagos-facility-to-24mw-by-2027/) | No change |
 | Visa Nigeria data centre | Planned (2025-03) | [Planned](https://www.wearetech.africa/en/fils-uk/news/visa-plans-to-establish-data-centre-in-nigeria-expands-1-billion-investment-portfolio) | No change |
 | Commercial data-centre estate | ***Baseline not held*** | [About 26 facilities, 50-56 MW live against about 124 MW installed (2026-07)](https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center/) | ***Baseline not held*** |
+| Dependence on foreign public cloud platforms | Baseline not held | [More than 85% of Nigerian workloads on public clouds; 22% of the 1,000 most-accessed sites hosted locally, against a 34% sub-Saharan average (2026-08)](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl) | ***Baseline not held*** |
 
 ## Rwanda
 
@@ -341,7 +343,7 @@ record: 208cbe75dd3d
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | GoSTP data-centre modernisation (incl. digital-ID data centre/DR tender) | Three options costed, decision pending, high risk flagged at current sea-level site | [AFAP tender issued for servers + DR, implementing the TIER III/cloud recommendation](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | Advanced |
 
@@ -357,7 +359,7 @@ record: 208cbe75dd3d
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Airtel Seychelles data centre (Ericsson turnkey project) | ***Baseline not held*** | [New datacentre as infrastructure basis for the 2026 5G launch; no separate update on datacentre operations since 2021](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa) | ***Baseline not held*** |
 
@@ -407,6 +409,7 @@ record: 208cbe75dd3d
 | National data centres at Dodoma and Zanzibar | Feasibility studies completed, construction supported from the 2025/26 backbone allocation | [Both named as live government investment, with a parliamentary committee urging a TZS 100bn upgrade in the 2026/27 budget](https://cioafrica.co/liquid-tanzania-government-align-on-digital-transformation-agenda/) | Advanced |
 | Public data centres commissioned | One (2021-03); no 2025-08 count held | [Four](https://dailynews.co.tz/communications-sector-surges-400pc/) | Advanced |
 | Mbezi Tier III data centre, second phase | A US$50m Tier III facility, 80 new high-density racks for a total of 110, interconnections to thirteen operators | [Unchanged; no further phase, rack addition or utilisation figure is held](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-digital-shift-gathers-pace-with-50-million-data-centre-4970620) | No change |
+| Commercial data-centre estate | Baseline not held | [Ten data centres in Dar es Salaam and one in Dodoma, operated by six carriers (2026-08); no capacity, load or utilisation figure accompanies the count](https://african.business/2026/08/free-article/tanzanias-digital-dividend) | ***Baseline not held*** |
 | Raxio Tanzania data centre | ***Baseline not held*** | [Under development, with group committed capital raised from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/) | ***Baseline not held*** |
 
 ## Togo
@@ -418,7 +421,7 @@ record: 208cbe75dd3d
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Data centres as a state investment priority | Named one of two core priorities at the Investment Authority's 22nd Strategic Council, with recommendations to modernise data-protection law, expand renewables and create a cloud special economic zone (2025-10) | [Carried as a named project line in the statutory development plan alongside artificial intelligence and digitalisation, with no budget line, no sequencing and no delivery agency stated (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
 | SoleCrypt Bizerte data centre | Did not exist | [A 20 MW artificial-intelligence data centre planned at the landing point of three subsea cables, to be powered from the developer's own 60 MW solar site; the memorandum is non-binding and no financing, permit or construction start is published (2026-02)](https://www.datacenterdynamics.com/en/news/solecrypt-plans-20mw-solar-powered-data-center-in-bizerte-tunisia/) | Advanced |

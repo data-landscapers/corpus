@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: 73bf6492b76b
+record: e15058b1f219
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-17
@@ -88,7 +88,7 @@ record: 73bf6492b76b
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Civil-service payroll and human-resources system | A payroll clean-up removing more than 2,000 ghost workers, built by the national informatics office | [Unchanged; no later headcount, payroll-value or coverage figure held](https://documents1.worldbank.org/curated/en/099052925135520222/pdf/BOSIB-50d33b34-4918-409e-92f7-070a1773ac56.pdf) | No change |
 
@@ -203,11 +203,12 @@ record: 73bf6492b76b
 | Kenya Education Management Information System | Pilot due July 2025 and full go-live promised by September 2025, with a unique identifier for every child | [No confirmation of go-live, coverage or learner count on file as at 2026-08-05](https://www.biometricupdate.com/202505/kenya-to-harmonize-education-sector-data-through-maisha-namba-id-integration) | Stalled |
 | Social Health Authority claims platform | Operational from October 2024; the Auditor-General found the KSh 104.9bn procurement unbudgeted and non-competitive, with intellectual property ceded to the consortium | [Members turned away and billed in cash when authorisation fails, with the Authority saying the Digital Health Agency runs the system on its behalf](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) | Regressed |
 | Digital Health Act 2023 and Digital Health Agency | Binding statute in force establishing the Agency and an integrated digital health information system | [Same, with the 2025 regulations added, challenged in the High Court for inadequate public participation and operating under a Court of Appeal stay](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/) | No change |
+| Child Protection Information Management System | Baseline not held | [Recorded cases rising from 20,235 (2016/17) to 54,583 (2021/22), credited with cutting duplication and improving real-time case coordination across agencies](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/) | ***Baseline not held*** |
 | TaifaCare health management information system | ***Baseline not held*** | [Deployed in 1,500 public health facilities, against commitments of 2,000 by 2026, 4,000 by 2027 and 8,000 by 2028](https://www.citizen.org/wp-content/uploads/2026-0007QN-Kenya-Health-12.4.2025.pdf) | ***Baseline not held*** |
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Foundational Literacy and Numeracy Dashboard | Did not exist | [Under construction for Grades 1-3, with tablets for principals in 300 project schools and solar power in 25 cluster learning spaces](https://techafricanews.com/2026/07/23/unicef-and-gpe-launch-learning-data-dashboard-to-improve-education-in-lesotho/) | Advanced |
 | MISSA social-assistance management information system | Procurement issued in 2024, with no award or delivery on record | [Procurement issued in 2024, with no award or delivery on record](https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and) | No change |
@@ -261,7 +262,7 @@ record: 73bf6492b76b
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Digital Community System for community health workers | None published; the base carried only the national electronic health strategy 2021-2025 | [A mobile application for community health workers in preparation, with phased deployment and paper and digital running in parallel](https://neweralive.na/health-prepares-for-digital-system-rollout/) | Advanced |
 | National Digital Health Policy 2026-2036 | Did not exist | [Launched 2026-02-06 as a ten-year framework developed by the health ministry with World Health Organization technical support, naming interoperability across health information systems, service delivery, governance and evidence-based decision-making as the problem it addresses; no funding, implementation plan or target is published](https://www.afro.who.int/countries/namibia/news/namibia-launches-national-digital-health-policy-advance-equitable-people-centred-healthcare) | Advanced |
@@ -294,7 +295,7 @@ record: 73bf6492b76b
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | EMAE management information system (MIS) tender | ***Baseline not held*** | [Deadline extended; original terms, contract value and new deadline not stated in the source held](https://www.telanon.info/destaques/2026/08/07/53902/afap-prorroga-a-solicitacao-de-fornecimento-instalacao-treinamento-e-comissionamento-do-novo-sistema-de-informacao-de-gestao-mis-para-a-emae/) | ***Baseline not held*** |
 
@@ -307,7 +308,7 @@ record: 73bf6492b76b
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | e-Sanjeevani / e-Office / e-Hospital (India DPI platforms) | Did not exist | [Consultations advancing as reported 2026-08-08; no MoU, pilot or date established](https://www.firstpost.com/opinion/beyond-broad-pledges-indias-tech-sovereignty-push-in-africa-and-asean-14036875.html) | Advanced |
 | Huawei/CWS SMART Education | Did not exist immediately before Aug 2025 | [Live in four schools; no scale-up reported since](https://e.huawei.com/ae/case-studies/industries/commercial-market/2025-seychelles-smart-education-solutions) | Advanced |
@@ -362,7 +363,7 @@ record: 73bf6492b76b
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Sahetna.tn health portal | Did not exist | [Cleared its technical gate and not launched; it is to expose medical records, appointments and treatment tracking against the health identifier, and no legal basis, retention rule or data-protection authority is named for the linked dataset (2026-07)](https://tmo-mag.com.tn/tunisia-finalizes-sahetna-tn-digital-health-portal-as-national-id-rollout-gains-steam/) | Advanced |
 | School life platform (viescolaire.education.tn) | ***Baseline not held*** | [A single platform consolidating every stage of schooling, with parents asked to create accounts ahead of registration opening; no data-protection basis, retention rule or pupil-record scope published](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151762-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%88%D8%B4%D8%A7%D9%85%D9%84%D8%A9) | Advanced |

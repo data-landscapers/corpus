@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; LSO; LBR; LBY; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: faa8845c1b92
+record: b0bd335e8a66
 ---
 
 # Regional collaboration: progress report, 2025-08-01 to 2026-08-17
@@ -85,7 +85,7 @@ record: faa8845c1b92
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | CEMAC interoperable QR-code standard | Did not exist | [A community standard binding across the six member states, routed and settled through the regional switch and secured to card-industry standards](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | Advanced |
 | Regional digital integration programme accession | ***Baseline not held*** | [Talks held on joining the six-country programme; no financing agreement, amount or date on file](https://africabusinessinsight.com/central-african-republic-explores-world/) | ***Baseline not held*** |
@@ -186,13 +186,13 @@ record: faa8845c1b92
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | AUDA-NEPAD Programme for African Developing Island Economies (Guinea-Bissau participation) | Did not exist | [Ministerial communique adopted 24 Jul 2026 committing Guinea-Bissau to the Programme's 2026-2031 roadmap; no country-level implementation reported yet](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | 50-in-5 DPI campaign membership | A member | [A member; no campaign milestone reported for Lesotho since](https://www.biometricupdate.com/202405/lesotho-commits-to-50-in-5-campaign-as-advocacy-for-crvs-dpi-integration-thickens) | No change |
 | African Union Data Policy Framework domestication | Assessment convened; no output held | [Assessment convened; no readiness assessment, legislative review or resulting instrument is held](https://www.gov.ls/economy/lesotho-advances-digital-future/) | No change |
@@ -255,7 +255,7 @@ record: faa8845c1b92
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Namibia's seat on an international artificial-intelligence commission | Did not exist | [The ICT minister is one of eight Africans on a 44-member commission](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/) | Advanced |
 | Namibia-Angola information technology and media memorandum | Did not exist | [Covers joint events, exchange of expertise and cybersecurity; no amount or instrument named](https://techafricanews.com/2026/06/11/namibia-and-angola-join-forces-to-accelerate-digital-transformation/) | Advanced |
@@ -295,7 +295,7 @@ record: faa8845c1b92
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Lusophone Africa Data Governance Workshop | First workshop (Maputo, 2025): policy awareness | [Second workshop (Luanda, 15-17 Jun 2026): implementation focus — data centres, cloud, interoperability, DPI, institutional governance; STP among 6 participating countries](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda) | Advanced |
 | PALOP Digital Governance Dialogues | Inaugural webinar, Oct 2025 (month only stated) | [Second webinar, 26 Mar 2026, on digital ID/implementation/integration; STP among PALOP participants](https://www.biometricupdate.com/202603/palop-countries-collaborate-to-enhance-digital-identity-and-public-services) | Advanced |
@@ -309,7 +309,7 @@ record: faa8845c1b92
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | AUDA-NEPAD Programme for African Developing Island Economies | Did not exist | [Programme launched, communique adopted; partners include Korea, AfDB, RECs, the Indian Ocean Commission](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
 
@@ -346,7 +346,7 @@ record: faa8845c1b92
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | African Telecommunications Union council seat | Did not exist | [A 2027-2030 seat on the administrative council, giving a vote on continental direction across digital transformation, artificial intelligence, cybersecurity and capacity building; no statement of what Tunisia intends to press for is reported (2026-07)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071) | Advanced |
 | AI Innovation and Technological Solutions Working Group chair (Arab League) | Did not exist | [Chairs the Arab Permanent Committee on Artificial Intelligence and Emerging Technologies' AI Innovation and Technological Solutions Working Group, one of six working-group chairs allocated across five Arab states at the committee's second inaugural meeting in Tunis in July 2026; no published statement of Tunisia's agenda for the seat (2026-08)](https://www.businesstec.news/23334) | Advanced |
@@ -391,6 +391,10 @@ record: faa8845c1b92
 |---|---|---|---|
 | AfCFTA Protocol on Digital Trade | Adopted by the AU Assembly in 2024, with a Digital Identity Annex adopted in February 2025 and no implementation forum held | [State parties committed to expedite ratification and domestication under eight calls to action; no ratification count is published with them; the calls carry no enforcement mechanism, no ratification deadline and no named financing](https://www.biometricupdate.com/202607/african-nations-recommit-to-operationalize-afcfta-digital-single-market-framework) | Advanced |
 | Algiers Declaration on African Telecommunications Sovereignty and Integrated Connectivity 2026-2030 | Did not exist | [Adopted as a continental position on integrated terrestrial, submarine and satellite infrastructure, local data centres, exchange points and cybersecurity; no work programme or text held](https://techreviewafrica.com/news/4639/african-ministers-adopt-algiers-declaration-on-telecommunications-sovereignty-and-connectivity) | Advanced |
+
+| Body, instrument or system | At 2025-08-01 | At 2026-08-17 | Movement |
+|---|---|---|---|
+| Korea-Africa Economic Cooperation ministerial framework | Baseline not held | [Eighth ministerial set for Seoul under the theme of artificial intelligence and digital infrastructure, convened by the continental development bank with new co-financing expected](https://allafrica.com/stories/202608140360.html) | ***Baseline not held*** |
 
 ## Southern Africa
 

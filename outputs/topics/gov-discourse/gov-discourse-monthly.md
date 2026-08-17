@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: gov.discourse
 places: BEN; BFA; BDI; TCD; CIV; COD; EGY; GAB; GIN; LBR; MLI; MUS; RWA; STP; SEN; UGA; ZMB
-record: 19f60dd7e468
+record: 0d064d79f2ac
 ---
 
 # Public debate and participation in policymaking: monthly update, July 2026
@@ -78,6 +78,8 @@ A ministry legal adviser stated that the state has [worked on social-media regul
 The same day, revised media guidelines issued through the [electronic court case-management system](https://mulengeranews.com/uls-slams-court-restrictions-after-besigye-collapsed-during-treason-trial/) required prior accreditation, barred devices from a courtroom and made live broadcasting a case-by-case grant.
 
 Reporting of 29 July recorded that no work had begun on the [revenue authority's e-Tax2 procurement](https://ultimatepost.dantty.com/post/10745), whose technical evaluation the Appeals Tribunal set aside in October 2025 on a power-of-attorney defect; joint-venture staff have been on the authority's premises since January and none of 26 commercial banks would issue the performance guarantee gating the advance.
+
+The month's set-piece was a convening rather than a decision: [Internet Governance Week 2026 called for greater investment in digital skills, online safety and responsible artificial intelligence, and for Africa to move from consuming the technology to shaping it](https://www.monitor.co.ug/uganda/news/national/uganda-pushes-for-inclusive-safe-and-ai-ready-internet-5559810). Nothing was adopted, and no instrument on this ledger moved as a result.
 
 ## Zambia
 

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: geopol.china
 places: AGO; BWA; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; KEN; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; UGA; ZMB; ZWE; XAF; XWA
-record: edd2c44063fc
+record: 08d8272a075d
 ---
 
 # China activities: progress report, 2025-08-01 to 2026-08-17
@@ -36,7 +36,7 @@ record: edd2c44063fc
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Vendor four-axis e-government programme | Did not exist | [A programme announced with no contract, amount or timetable, and documented in no appropriation](https://www.agenceecofin.com/actualites-numerique/2705-138800-la-centrafrique-modernise-l-infrastructure-numerique-de-son-administration-avec-huawei) | Advanced |
 
@@ -138,7 +138,7 @@ record: edd2c44063fc
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Chinese contribution to the Windhoek smart city pilot | Did not exist | [CNY 98,000,000 committed, about US$14.4m on the source's 2026 conversion, for digital infrastructure, artificial-intelligence capability and skills under the ten-year city strategy](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m) | Advanced |
 
@@ -168,7 +168,7 @@ record: edd2c44063fc
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Huawei vendor relationship (5G core + SMART Education) | Huawei already CWS's 5G vendor; SMART Education just beginning (2025-08) | [Unchanged — Huawei remains CWS's core vendor; no reported scale-up of SMART Education beyond the four pilot schools](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434) | No change |
 

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: badbbcade4b6
+record: eaa74dcd686f
 ---
 
 # Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-17
@@ -81,6 +81,7 @@ record: badbbcade4b6
 | Yaoundé taxi and driver digital identity | Did not exist | [Compulsory registration on a city platform, with a QR code and a unique door number per driver; unregistered taxis barred after the deadline](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers) | Advanced |
 | Biometric voter register | In operation on third-generation kits | [In operation; the base carries no dated statement through the October 2025 presidential election](https://lejour.cm/listes-electorales-elecam-acquiert-1000-nouveaux-kits-denrolement/) | No change |
 | Décret n. 2025/059 on identity titles | In force, governing five identity-title classes | [In force, unamended](https://www.prc.cm/files/e7/0f/3b/6ccd45456387ac207b4797c196318209.pdf) | No change |
+| Civil-status registration digitisation pilot | Baseline not held | [Equipment out to tender by the United Nations development programme for three pilot centres digitising civil-status registration; the centres, their locations, the value and the timetable are not named in the notice](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center) | ***Baseline not held*** |
 | Free identity-card delivery, Yaoundé 5 | ***Baseline not held*** | [4,000 free cards delivered, some to recipients blocked for over fifteen years by duplicate-identity records, cleared by seconding police officers on site](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/) | ***Baseline not held*** |
 
 ## Cape Verde
@@ -95,7 +96,7 @@ record: badbbcade4b6
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Biometric electoral register | The register under revision on the system used since the 2020 general elections, with 1,641,083 enrolled at the 2020 revision | [A definitive list of 2,398,158 registered voters, 1,641,083 carried from 2020 plus 757,075 registered in 2025, used on 2025-12-28 across 3,910 voting centres](https://french.xinhuanet.com/20250825/216678a5ca894a1d915b2f5528ff0973/c.html) | Advanced |
 | National digital identity system | Did not exist | [Announced as a US$13m integrated ecosystem built around a unique identification number, managed by a new office, unifying existing biometric and civil-registration databases; the implementation window is 2027 to 2032 with assessments, procurement and an international tender still ahead](https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration) | Advanced |
@@ -235,7 +236,7 @@ record: badbbcade4b6
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | ENBIC (ECOWAS biometric ID) - Guinea-Bissau deployment | Operationalized nationally (Guinea-Bissau one of six ECOWAS states to fully operationalize ENBIC); no field-level distribution reported (2025-06) | [Operationalized, plus a first reported field-issuance pilot - 262 ENBIC cards issued to women cross-border traders in Sao Domingos, March 2026, under a Guinea-Bissau-Senegal mobility project](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems) | Advanced |
 | Semlex biometric national-ID production network | Functional biometric national-ID card system in place nationally; decentralisation network not itemised (2025-06) | [18 production centres nationwide, including the newly opened Safim centre (Biombo, 100 cards/day, third in Biombo); further centres planned for Sao Domingos and Bolama (Bijagos) (2026-02)](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems) | Advanced |
@@ -258,7 +259,7 @@ record: badbbcade4b6
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | MOSIP-based integrated national digital ID | Digital ID pilots begun under the India memorandum, with no platform named (2025-07) | [A 2026 work plan signed with UNICEF to build a MOSIP-based national ID ecosystem covering passport and ID renewal, biometric registration and proof-of-life verification](https://www.biometricupdate.com/202603/lesotho-unicef-partner-to-develop-mosip-based-integrated-national-id) | Advanced |
 | Digital birth registration under Ntlafatsa Bana | In operation, with 20,000 Child Grants Programme beneficiaries on digital grant payments | [In operation; no later enrolment figure is held](https://www.eeas.europa.eu/delegations/lesotho/ntlafatsa-bana-launch-digital-birth-registration) | No change |
@@ -286,7 +287,7 @@ record: badbbcade4b6
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Biometric enrolment kits and centres | Kits contracted, not deployed (2025-05) | [2,500 kits across 1,729 centres, six days a week; the January pilot enrolled about 130,000 across 116 centres in 26 communes (2026-04)](https://www.lexpress.mg/2026/03/etat-civil-lenrolement-biometrique.html) | Advanced |
 | PRODIGY biometric national identity enrolment | Vendors contracted, no enrolment under way (2025-05) | [More than six million adults enrolled in the April to June 2026 phase; a second phase in preparation (2026-07)](https://www.lexpress.mg/2026/07/recensement-lidentite-biometrique.html) | Advanced |
@@ -353,7 +354,7 @@ record: badbbcade4b6
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Electronic identity fee schedule | None published | [Free at the point of issue for first-time applicants, renewals of expired cards, amendments and holders replacing cards carrying errors; a first duplicate costs N$150 and a second N$300](https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/) | Advanced |
 | Electronic identity public awareness campaign | The campaign opened in Khomas; a conference on digital legal identity held in Windhoek 2025-06-26 | [Regional outreach by home affairs with a development agency and the regulator, with a brand ambassador running sessions in local languages](https://neweralive.na/e-ids-outreach-kicks-off-in-omaheke/) | Advanced |
@@ -363,6 +364,7 @@ record: badbbcade4b6
 | Identity card for refugees | Issuing since June 2024, no annual figure published | [682 cards issued in calendar 2025](https://itweb.africa/article/namibia-expedites-electronic-ids-issuance/j5alr7QApo87pYQk) | No change |
 | Identity documents issued in calendar 2025 | ***Baseline not held*** | [117,175 national identity documents, 126,737 birth certificates and 682 refugee cards issued in 2025](https://itweb.africa/article/namibia-expedites-electronic-ids-issuance/j5alr7QApo87pYQk) | ***Baseline not held*** |
 | Printed identity documents left uncollected | ***Baseline not held*** | [166,237 printed, 125,999 collected and 40,238 uncollected, about a quarter of the print run](https://neweralive.na/ministry-takes-id-registration-to-khomas-schools/) | ***Baseline not held*** |
+| Youth e-ID Ambassadors Programme | Baseline not held | [A programme using young people to promote take-up of the electronic identity and civic participation; participant numbers, cost, duration and any enrolment effect are not stated](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs) | ***Baseline not held*** |
 
 ## Niger
 
@@ -399,7 +401,7 @@ record: badbbcade4b6
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | 'BI para Todos' free national-ID campaign | Did not exist | [Free-BI campaign covering remote localities (Ilheu das Rolas, Porto Alegre, via Starlink-linked mobile brigade) and diaspora collection in Portugal](https://www.telanon.info/sociedade/2026/01/22/51507/campanha-de-atribuicao-gratuita-do-bilhete-de-identidade-iniciou-se-no-ilheu-das-rolas-e-decorre-em-porto-alegre/) | Advanced |
 | Foundational digital ID (STP Digital/MOSIP, System Integrator Ooru) | Pilot ongoing since 2024, no fixed timeline | [Ooru contracted; live prototypes; roadmap Jan 2026 (ID+Portal) to May 2026 (e-Signature)](https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system) | Advanced |
@@ -417,7 +419,7 @@ record: badbbcade4b6
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | CertExpress (online civil-status certificates) | Live, SCR 50 fee (as stated at launch) | [Unchanged; fee not re-verified since 2024-09](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | No change |
 | SeyID national digital-identity platform | Two-tier structure already in place (2025-08): virtual-only for new work-permit holders since 17 Sep 2024, physical option retained for citizens | [Unchanged; no enrolment or adoption figures ever reported](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | No change |
@@ -495,7 +497,7 @@ record: badbbcade4b6
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | e-Houwiya mobile identity | Live and voluntary, at 200,000 subscribers as of March 2025, with no legal obligation to hold one (2025-08) | [Compulsory for investment-project declarations and for access to the business register from 1 July 2026; no subscriber figure has been published since March 2025 (2026-07)](https://techafricanews.com/2026/06/26/tunisia-makes-mobile-id-mandatory-for-investment-project-declarations/) | Advanced |
 | National Health Identifier | Did not exist | [In pilot in university hospitals since June 2026, bound to the national identity card, the social security number and school and university identifiers; over 15,000 numbers issued as at 22 June 2026 and roughly 100,000 medical files linked as at 27 July 2026 (2026-07)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109) | Advanced |

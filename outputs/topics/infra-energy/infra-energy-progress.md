@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: infra.energy
 places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SSD; TUN; UGA; ZMB; ZWE
-record: 6ce48927c78e
+record: d9d596c613a2
 ---
 
 # Energy: progress report, 2025-08-01 to 2026-08-17
@@ -52,7 +52,7 @@ record: 6ce48927c78e
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Electricity access rate | 14.3% in 2022, about 35% in the capital and about 0.4% rural | [17% in 2023; nothing later held](https://africabusinessinsight.com/central-african-republic-explores-world/) | No change |
 
@@ -114,7 +114,7 @@ record: 6ce48927c78e
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Electricity generation against domestic demand | ***Baseline not held*** | [About 72MW installed against about 209MW of domestic demand, with 438 of the 970 GWh consumed in 2024 imported](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/) | ***Baseline not held*** |
 
@@ -171,7 +171,7 @@ record: 6ce48927c78e
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Renewable power for data-centre capacity | Did not exist | [A 60 MW solar site is to power the planned Bizerte facility, its base camp operational from November 2025; no grid connection or power purchase arrangement is published (2026-02)](https://www.datacenterdynamics.com/en/news/solecrypt-plans-20mw-solar-powered-data-center-in-bizerte-tunisia/) | Advanced |
 

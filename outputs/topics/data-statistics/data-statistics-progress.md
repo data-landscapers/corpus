@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: data.statistics
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SSD; TUN; UGA; ZWE; XSA; XWA
-record: 66a09208fe2f
+record: bb15e0f11097
 ---
 
 # National statistics: progress report, 2025-08-01 to 2026-08-17
@@ -66,7 +66,7 @@ record: 66a09208fe2f
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Harmonised household living-conditions survey | Did not exist | [About 7,000 households nationwide in three two-month waves, entirely by tablet, with a public commitment to statistical secrecy and aggregates only](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques) | Advanced |
 
@@ -118,7 +118,7 @@ record: 66a09208fe2f
 
 ## Eritrea
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Fourth Round Eritrea Population and Health Survey (EPHS 2025) | ***Baseline not held*** | [Completed across all six regions using Computer-Assisted Personal Interviewing; ~400 tables across 20 chapters drafted; report writing, printing and dissemination scheduled for 2026; NSO also compiled 2023 national accounts and began 2024 national-accounts data collection](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey) | ***Baseline not held*** |
 
@@ -160,7 +160,7 @@ record: 66a09208fe2f
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | RGPH4 (4th General Population and Housing Census) | Not held in the base | [Preliminary results released 2026-07-23 - population 2,191,202, 50.7% women, 45.7% urban, 304,939 households, 559,303 dwellings; leaves a digital-cartography and technology base for future operations; full tabulations pending](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/) | ***Baseline not held*** |
 
@@ -181,7 +181,7 @@ record: 66a09208fe2f
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | INSTAT microdata sharing platform | Did not exist | [Registration-gated platform at microdata.instat.mg advertising ERISC household surveys 2020-2022, an ERISC enterprise survey and RGPH 3 census microdata; no dataset documentation, sample size, licence or reuse terms established beyond the landing page (2026-08)](https://microdata.instat.mg/) | Advanced |
 
@@ -217,7 +217,7 @@ record: 66a09208fe2f
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Namibia Statistics Agency Strategic Plan 2022/23-2026/27 | Did not exist | [In force for 2022/23-2026/27: four strategic focus areas - statistical coordination (including National Spatial Data Infrastructure coordination), sustainability (adequate government funding), institutional reform and innovation (including alternative data sources), and professionalism; the plan states funding was relatively adequate until about 2016 and records the population census slipping from August 2021 and again from August 2022 for want of funds](https://nsa.org.na/wp-content/uploads/2024/06/STRATEGIC-PLAN-2022-to-2027-HRE-1.pdf) | Advanced |
 | National strategy for the development of statistics | Did not exist | [In force covering 2023/24-2026/27: four goals - better use of statistics for policy, efficient and effective data processes, a better funded national statistics system, and improved statistical integration with spatial data - resting on ten first-phase sector statistics plans (education, environment, tourism, the revenue authority, child care and protection, health, industrial development, labour, agriculture and the NSA itself); total implementation cost N$58,995,000 over four years off a 2019 baseline, drafted with AfDB, Paris21, UNDP and UNFPA support and stated to be aimed at improving Namibia's World Bank Statistical Capacity Indicator rating](https://nsa.org.na/wp-content/uploads/2024/06/NSDS-Report.pdf) | Advanced |
@@ -261,7 +261,7 @@ record: 66a09208fe2f
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Internet use | Not measured on this series | [85.9% of respondents using the internet, 95.4% holding a mobile line, 84.3% a smartphone and 41% a computer, with 70.4% connecting principally over mobile (2026)](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/) | ***Baseline not held*** |
 | Use of online public administration | Not measured on this series | [26.5% of internet users, last of the four uses measured, behind artificial-intelligence applications at 47.9%, e-services at 41.3% and online shopping at 36.9% (2026)](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/) | ***Baseline not held*** |

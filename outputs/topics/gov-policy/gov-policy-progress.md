@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 566ae403013d
+record: 7c2d2f6d1ee1
 ---
 
 # Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-17
@@ -87,7 +87,7 @@ record: 566ae403013d
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National development plan 2024-2028 | In force as the frame for the digital agenda | [Unchanged; cited as the frame for a ministry platform launch in February 2026](https://mepci-rca.org/2026/02/11/la-digitalisation-des-services-publics-et-la-gouvernance-numerique-du-pnd-2024-2028/) | No change |
 | Public finances digitalisation plan 2025-2027 | Presented naming an electronic tax platform, a treasury system, procurement and payroll systems, a Tier IV data centre and a data governance policy, none of them priced | [Unchanged; the costed operational plan still unpublished at 2026-07-26](https://oubanguimedias.com/2025/06/20/centrafrique-presentation-du-plan-e-finances-publiques-de-la-rca-de-2025-2027/) | No change |
@@ -221,7 +221,7 @@ record: 566ae403013d
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National Digital Transformation Strategy 2025-2030 (ENTD.GW) | Launched Jan 2025 (10 pillars, 55 interventions, roadmap to 2030); Council of Ministers approval/decree still pending | [Unchanged - Council of Ministers approval/decree still pending; no further movement on file](https://ang.gw/governo-lancada-estrategia-nacional-para-transformacao-digital-do-pais/) | No change |
 
@@ -242,7 +242,7 @@ record: 566ae403013d
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Broadband Infrastructure Sharing Policy | Not signed | [Signed; no implementation instrument or regulator guidance on record](https://lestimes.com/?p=90715) | Advanced |
 | Data Management Policy | Not signed | [Signed, framed as a privacy, security and ethical-use framework](https://lestimes.com/?p=90715) | Advanced |
@@ -269,7 +269,7 @@ record: 566ae403013d
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Technical Assistance Facility for the Refondation | Did not exist | [Launched; 170 focal points certified and proposals submitted through a dedicated platform by end-July 2026 (2026-07)](https://www.journalmadagascar.com/reforme-administrative-une-nouvelle-facilite-dassistance-technique-pour-la-refondation-lancee-a-madagascar/) | Advanced |
 | Plan Strategique Numerique 2023-2028 | In force | [In force; no published implementation report held](https://www.trade.gov/country-commercial-guides/madagascar-digital-economy) | No change |
@@ -324,7 +324,7 @@ record: 566ae403013d
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Artificial-intelligence legislation | ***Baseline not held*** | [Announced as following the strategy; nothing drafted or tabled](https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r) | ***Baseline not held*** |
 | National artificial-intelligence strategy | ***Baseline not held*** | [Under development through the research council's working group and its technical advisory committees, with consultations begun; no draft published, and the ministry states the strategy is sequenced ahead of legislation](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | ***Baseline not held*** |
@@ -364,7 +364,7 @@ record: 566ae403013d
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | AU Data Policy Framework (AUDPF) — national adoption process | Did not exist | [Workshop held on national AUDPF adoption; translation into policy/institutional reform is the stated goal, not yet delivered](https://www.linkedin.com/posts/d4dhub_d4datagov-datagovernance-africa-activity-7482375055130279936-Fj_f/) | Advanced |
 | Programme for African Developing Island Economies (AUDA-NEPAD) | Did not exist | [Programme launched; 2026-2031 roadmap, six pillars incl. digital transformation (DPI, AI/automation, knowledge economy as accelerators); ministerial communique adopted](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
@@ -385,7 +385,7 @@ record: 566ae403013d
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Multidimensional Vulnerability Index (MVI) operationalisation | Did not exist | [Cabinet decision only; no implementation detail, budget or timeline on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
 | 'Fully digitalised e-government by 2030' target | ***Baseline not held*** | [Restated 4 Aug 2026; route named is bilateral technical assistance from Malta, no domestic implementation programme named](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles) | ***Baseline not held*** |
@@ -451,7 +451,7 @@ record: 566ae403013d
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Digital content of the development plan annex | Not held; the plan's digital content was known only from official statements about it (2025-08) | [Held in full: the sectoral volume mentions digital or digitalisation 414 times, artificial intelligence 119, data 72 and cybersecurity 9, makes the digital economy a pillar of human-capital development, and commits to integration into the global digital landscape while preserving digital sovereignty (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
 | Digital Tunisia 2020-2025 | In force in its final year (2025-08) | [Lapsed; no extension, repeal or outcomes report is held, so what it delivered against its own objectives is unestablished (2026-08)](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | Closed |

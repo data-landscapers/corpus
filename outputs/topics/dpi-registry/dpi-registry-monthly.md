@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: dpi.registry
 places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GHA; GIN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: e9de5f20049c
+record: 29e4ac0751c4
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
@@ -93,7 +93,7 @@ The day after the biometric-registration review, the electoral commission [opene
 
 ## Malawi
 
-About 8,000 landlords were registered for rental income tax.
+[About 8,000 landlords were registered for rental income tax](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
 
 ## Mauritania
 
@@ -105,7 +105,7 @@ The business and intellectual property authority [offers online name search, nam
 
 ## Niger
 
-The WURI-Niger account records that 66% of births are declared; the territorial administration ministry [put the figure at 79% against 53.48% in 2022](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) at the launch of the population register's enrolment tour. The two are differently based and the record does not reconcile them.
+The [WURI-Niger account records that 66% of births are declared](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/); the territorial administration ministry [put the figure at 79% against 53.48% in 2022](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) at the launch of the population register's enrolment tour. The two are differently based and the record does not reconcile them.
 
 That tour is the register's first public campaign. It [opened at Tahoua on 11 August to make the governing legal texts and the intermediate enrolment operations known](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/), under the World Bank-financed identification programme and alongside rollout of the regional biometric identity card and passport.
 
@@ -149,7 +149,7 @@ On 28 July the civil-registry directorate [set out a plan under which health fac
 
 At an agricultural exhibition on 4 August the e-government agency stated that [more than 6,000 cooperative societies are registered](https://dailynews.co.tz/ega-drives-digital-farming/) on its management system. No user counts, spend or timeline were given.
 
-Birth registration gained a fourth estimate. The constitutional and legal affairs minister [put under-five registration at 65%, against 55% in 2020](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure), attributing the rise to sustained investment and awareness campaigns. The base already holds estimates of about 60% for 2022 and a five-year range of 61 to 76% on different bases, and does not reconcile them to one series.
+Birth registration gained a fourth estimate. The constitutional and legal affairs minister [put under-five registration at 65%, against 55% in 2020](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure), attributing the rise to sustained investment and awareness campaigns. The base already holds estimates of [about 60% for 2022](https://www.biometricupdate.com/202601/tanzania-working-on-legislative-framework-for-infant-id-registration) and a [five-year range of 61 to 76%](https://www.biometricupdate.com/202606/unicef-seeks-partner-to-expand-birth-registration-legal-identity-in-tanzania) on different bases, and does not reconcile them to one series.
 
 ## Togo
 

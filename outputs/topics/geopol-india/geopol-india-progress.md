@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: geopol.india
 places: AGO; BDI; TCD; CIV; EGY; ETH; KEN; LSO; LBY; MOZ; NAM; RWA; ZMB
-record: 525242ef70b1
+record: 7f4ad729ad84
 ---
 
 # India activities: progress report, 2025-08-01 to 2026-08-17
@@ -12,8 +12,6 @@ record: 525242ef70b1
 *13 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -59,7 +57,7 @@ record: 525242ef70b1
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Lesotho-India digital public infrastructure memorandum | Signed, naming digital ID, a unified payment environment and once-only information exchange as the year's three priorities | [Unchanged; no deliverable, workstream or funding under it is on record](https://publiceyenews.com/2025/07/29/lesotho-india-forge-digital-partnership/) | No change |
 
@@ -77,7 +75,7 @@ record: 525242ef70b1
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | PARAM HPC cluster at NUST | Did not exist | [A 5-node C-DAC PARAM HPC cluster (17.7 TF Rpeak, 5,320 cores, 480 GB memory, 100 TB storage plus 54 TB backup) specified for deployment at NUST, Windhoek, under the India-Namibia Centre of Excellence in Information Technology; no operator, cost or opening date is published, and this is a university research cluster, not a national facility](https://inceit.nust.na/param-hpc) | Advanced |
 

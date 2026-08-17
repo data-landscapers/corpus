@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: data.open
 places: BEN; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; KEN; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
-record: 7698060c62db
+record: 45e02d6634c9
 ---
 
 # Open data: progress report, 2025-08-01 to 2026-08-17
@@ -91,7 +91,7 @@ record: 7698060c62db
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Assemblee nationale open-data portal | Did not exist | [Live REST API serving five datasets (deputies, legislative texts, sittings, committees, parliamentary groups) as JSON and CSV, rate-limited to 60 requests a minute, under Licence Ouverte v2.0 (CC-BY compatible); page counters read 163 deputies, 45 texts and 128 sittings (2026-08-09)](https://parlement.mg/opendata/) | Advanced |
 | Open government data portal or policy | No portal, open-data policy or public-sector information reuse instrument held | [Institution-specific resources confirmed: a licensed parliamentary open-data API, a gated national-statistics microdata platform and an unconfirmed general portal (opendata.mg); the finance ministry's own portal does not resolve; no whole-of-government open-data policy or mandate is held (2026-08)](https://parlement.mg/opendata/) | Advanced |
@@ -126,7 +126,7 @@ record: 7698060c62db
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Access to Information Act 8 of 2022 and the Information Commissioner | Gazetted, not in force | [Gazetted and not commenced: section 86 leaves commencement to a date determined by the Minister, no commencement notice is held, and no Information Commissioner has been appointed; appointment machinery was itself gazetted 2024-12-09 under section 6(9), setting five-year Selection Committee terms and a five-member quorum, made ahead of the Act's own commencement, so the annual report required by section 18 cannot yet exist](http://www.lac.org.na/laws/2022/7986.pdf) | Advanced, Act still not commenced |
 
@@ -138,7 +138,7 @@ record: 7698060c62db
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Agrifood sector data portal | Did not exist | [Live and free after registration, centralising regulatory monitoring, market movement, export opportunity and sector-trend data under three public bodies; built inside a German- and EU-financed project with no amount disclosed and no statement of what happens when the project ends (2026-07)](https://www.lapresse.tn/2026/07/26/agroalimentaire-la-tunisie-lance-un-nouveau-portail-pour-aider-les-entreprises-a-mieux-decider/) | Advanced |
 | Aswat Nissa femicide data platform | Did not exist | [A civil-society platform to centralise Tunisia's femicide data, opening the 109 cases documented since January 2018 (30 in 2025, 26 in 2024, 25 in 2023, 23 in 2022) to researchers, media and civil-society organisations; launch set for 12 August 2026, with no state role or public-data reconciliation stated (2026-08)](https://www.wearetech.africa/fr/fils/actualites/tech/tunisie-aswat-nissa-lancera-mercredi-une-plateforme-pour-recenser-les-feminicides) | Advanced |

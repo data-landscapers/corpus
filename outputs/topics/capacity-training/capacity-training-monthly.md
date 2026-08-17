@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: capacity.training
 places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NGA; RWA; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: a34fbd7fc08c
+record: 557879c9845c
 ---
 
 # Training and skills: monthly update, July 2026
@@ -53,6 +53,8 @@ The national cybersecurity training plan is inside [that tender](https://fr.link
 
 The civil-service digital-skills programme [closed its thirteenth edition on 29 July](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins), training 192 officials from about thirty public bodies over 40 days, against a cumulative claim of more than 37,500 civil servants funded from the ministry's own budget line.
 
+Outside the service, a German-funded accelerator closed a three-month cohort on 4 August, [closing with 51 artificial-intelligence projects across finance, health, law, education and cybersecurity](https://startupmedias.africa/articles/tech-talent-accelerator-51-projets-intelligence-artificielle-cote-divoire). The project count is the only measure published: participant numbers, cost and what becomes of the projects after the demonstration day are not stated, and a project shown at one is not a deployed system.
+
 ## DR Congo
 
 The employment office launched a [portal and mobile application in July](https://rdc-monde.com/onem-lancement-dune-application-numerique-mikuba-pour-mieux-cartographier-les-competences-et-les-besoins-des-entreprises/) on which jobseekers register skills and employers post needs, intended to build a national skills database. It was externally financed, and no user or placement figure is held.
@@ -64,6 +66,8 @@ The state's university artificial-intelligence programme closed its fourth round
 ## Eswatini
 
 At the Macetjeni handover the ICT ministry's principal secretary said [AI, robotics, coding and cybersecurity courses would follow](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) at the innovation hubs.
+
+The hub itself opened on 6 August at Macetjeni in the Lubombo Region, [the second of its kind, backed by the development programme with the communications regulator and the small-enterprise development company and aimed at young people, women and people with disabilities](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). It opens against [an internet-usage rate of 58% and youth unemployment of 56%](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). No intake target, running cost or funding term is published, so what a second hub is expected to change cannot be read from the account.
 
 ## Gabon
 
@@ -127,13 +131,17 @@ A [diaspora health-workforce registry is described as newly launched](https://fm
 
 On 3 August a private university announced [robotics, drone and virtual-reality teaching laboratories](https://itweb.africa/article/nigeria-expands-deep-tech-skills-pipeline/nWJadvbND1yvbjO1) to be built by a defence-technology firm that holds a joint venture with the state arms corporation. Lab count, cost, funding source, intake, research ownership and dual-use vetting are all unstated.
 
-Seventy teachers from 40 Lagos public schools were trained in AI literacy.
+[Seventy teachers from 40 Lagos public schools were trained in AI literacy](https://techcabal.com/2026/07/18/ness-2026-charts-new-course-for-leading-funding-and-equipping-nigerian-schools/).
 
 On 4 August the [fourth Mastercard Foundation EdTech Fellowship cohort](https://techcabal.com/2026/08/04/cchub-mastercard-foundation-select-12-startups-for-fourth-edtech-fellowship-cohort/) was selected: 12 startups, taking the programme to 72 companies supported since 2019, each offered up to US$100,000 in equity-free funding over 18 months with Co-creation HUB. The intake is allocated against named categories rather than an open call.
 
+The month's largest single commitment went to the universities rather than the schools: on 11 August [Google.org put US$1.1m into an Africa AI Upskilling Programme run by the FATE Foundation across ten Nigerian universities](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/), on a train-the-trainer model that equips lecturers to deliver a localised version of the funder's own curriculum. Nigeria is the first of four countries in [a programme stated at 30 institutions and more than 30,000 students](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/), neither of which carries its own date or funding line. The same week the Korean agency [backed a first training-of-trainers cohort in business management and artificial intelligence at the Abuja Centre for Entrepreneurship](https://www.linkedin.com/posts/koica-nigeria_koica-koicanigeria-ace-activity-7491490192424439808-ToJ3), aimed at the small-business sector and reported by the funder on its own channel, with no cohort size or cost stated. Both are trainer-pool programmes: what neither publishes is what the trainers then deliver, or to how many.
+
 ## Rwanda
 
-The digital-ambassador programme that trained 1,567,034 citizens concluded its financing phase in May 2026 and no successor financing is held.
+The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
+
+Where training did continue it went to the top of the system rather than the bottom. The United Nations development programme's quarterly account of 1 August records [artificial-intelligence trust-and-safety training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf). Participant numbers, curriculum and cost are not stated, and the funder's own newsletter is the only account of it held.
 
 ## Seychelles
 
@@ -143,7 +151,7 @@ The AI Teacher Coach and AI Student Tutor pilots that feed into the AI in Educat
 
 MoCTI and three other bodies [launched a digital skills programme for civil servants on 10 July 2026, with 1,000 places in year one and stated targets of 3,000 medium-term and 5,000 long-term](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) across six areas including artificial intelligence and cybersecurity, aimed at gaps outside Freetown.
 
-The country held its [first academic exhibition dedicated to Digital Public Goods on 27 July, where 11 student-built solutions were evaluated against the DPG Standard](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent). The curriculum behind it, built with UNICEF, the United Nations University and Limkokwing University, has taught more than 1,100 students and appointed 14 campus champions across four universities.
+The country held its [first academic exhibition dedicated to Digital Public Goods on 27 July, where 11 student-built solutions were evaluated against the DPG Standard](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent). The curriculum behind it, built with UNICEF, the United Nations University and Limkokwing University, has [taught more than 1,100 students and appointed 14 campus champions across four universities](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent).
 
 ## Somalia
 
@@ -152,6 +160,8 @@ In the north, the Somaliland administration [launched fixed-asset training for p
 ## South Africa
 
 The information technology sector education and training authority was [referred for a governance assessment](https://www.itweb.co.za/article/mict-seta-governance-concerns-referred-to-skills-authority/WnxpE74YZZdMV8XL).
+
+The pipeline that authority sits in was reviewed on 14 August. A development bank's report with the higher education department, philanthropically funded, finds [the route from school through universities and technical colleges into employment constrained at both ends — young people arriving without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills). Its finding is that the mismatch is structural and will not correct itself. That is a verdict on the strategy already under review on this ledger rather than a new instrument.
 
 ## South Sudan
 

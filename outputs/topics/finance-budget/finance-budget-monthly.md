@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: finance.budget
 places: BFA; CPV; COG; ETH; GMB; GHA; KEN; MLI; MUS; MOZ; SDN; TUN
-record: 830afcdbd23a
+record: d80fba0a6fbf
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, July 2026
@@ -15,11 +15,11 @@ record: 830afcdbd23a
 
 ## Burkina Faso
 
-The Council of Ministers of 23 July approved a revised finance law raising both receipts and spending while leaving the deficit unchanged, and recorded 47.30% budget execution at 30 June.
+The Council of Ministers of 23 July [approved a revised finance law raising both receipts and spending while leaving the deficit unchanged, and recorded 47.30% budget execution at 30 June](https://www.rtb.bf/2026/07/24/compte-rendu-du-conseil-des-ministres-du-jeudi-23-juillet-2026/).
 
 ## Cape Verde
 
-Parliament approved the rectificative budget for 2026 on 31 July at CVE 103,888 million against a voted CVE 95,675 million and a projected execution of CVE 104,011 million; it does not disclose a digital figure, though connectivity is named among the priorities of the reorganisation. The act had not appeared in the official gazette at 4 August, so the revised organic table that would show whether the digital ministry's reprogrammed position is ratified or reversed is not available. Cape Verde passed no rectificative budget for 2025, so that year's revised position was administrative rather than statutory.
+Parliament [approved the rectificative budget for 2026 on 31 July at CVE 103,888 million against a voted CVE 95,675 million](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949) and a projected execution of CVE 104,011 million; it does not disclose a digital figure, though connectivity is named among the priorities of the reorganisation. The act had not appeared in the official gazette at 4 August, so the revised organic table that would show whether the digital ministry's reprogrammed position is ratified or reversed is not available. Cape Verde passed no rectificative budget for 2025, so that year's revised position was administrative rather than statutory.
 
 ## Congo
 

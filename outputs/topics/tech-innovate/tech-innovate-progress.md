@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: tech.innovate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SOM; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6449bb079950
+record: 9c3243e7cca3
 ---
 
 # Innovation ecosystem: progress report, 2025-08-01 to 2026-08-17
@@ -80,7 +80,7 @@ record: 6449bb079950
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Tokenised land concessions | Opened 2025-06-21 under presidential decree over 1,700 hectares, with no sales figure held | [122 plots sold for about US$38,308 by November 2025; a flagged expansion to mineral rights is not recorded as happening](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf) | Advanced |
 | Presidential meme coin | Traded and collapsed, with its dedicated account suspended almost immediately | [Still the payment rail for the tokenised land concessions; no evidence that its revenues were declared as public income or entered the national budget](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf) | No change |
@@ -183,7 +183,7 @@ record: 6449bb079950
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | UNDP-Econet memorandum of understanding | A standing partnership signed in 2020 and amended in 2022 | [Renewed across three pillars - digital transformation, connectivity and AI; the innovation ecosystem; and MSME digital entrepreneurship - with no amount, term or deliverable stated](https://lestimes.com/?p=91121) | Advanced |
 
@@ -202,7 +202,7 @@ record: 6449bb079950
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Digital entrepreneurship environment | Not established | [Placed behind regional comparators on the 2025 VIGS index reported by UNDP (2025-12)](https://www.lexpress.mg/2025/12/entrepreneuriat-digital-madagascar.html) | ***Baseline not held*** |
 
@@ -223,7 +223,7 @@ record: 6449bb079950
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | University artificial-intelligence and robotics accelerator | Operating (2025, year precision) | [Operating; supports bachelor's and honours degrees in artificial intelligence and a master's in data science](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | No change |
 | Information technology venture capital fund | ***Baseline not held*** | [Authorised at US$20m; no fund manager, first close, instrument, Namibian-dollar figure or disbursement on file at 2026-08-06](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) | ***Baseline not held*** |
@@ -285,7 +285,7 @@ record: 6449bb079950
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Startup Act and Startup Tunisia | In force, with over 40 firms reported as having expanded into Europe, the Middle East and sub-Saharan Africa (2025-08) | [In force and being circulated as a replicable model rather than as one country's statute, through a triangular programme with Japan (2026-07)](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) | Advanced |
 | Tunisia Digital Summit | ***Baseline not held*** | [Tenth edition held with about 2,000 participants and 80 exhibitors, the minister setting a goal of a regional digital hub and pledging continued legal and regulatory development on artificial intelligence and data protection (2026-04)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/144861-%D9%82%D9%85%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%84%D9%85-%D9%8A%D8%B9%D8%AF-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A8%D9%84-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%AA%D9%81%D8%B1%D8%B6%D9%87%D8%A7-%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9) | ***Baseline not held*** |

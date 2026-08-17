@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 7299ef3f7368
+record: 334a3104e9fb
 ---
 
 # Cybersecurity: progress report, 2025-08-01 to 2026-08-17
@@ -91,7 +91,7 @@ record: 7299ef3f7368
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Cybersecurity and electronic-certification platform | Recorded as delivered in the funder's own release, with no operator, uptake or certificate-issuance record | [Unchanged; nothing added through 2026-08-06 and no held source names the platform again](https://www.agenceecofin.com/infrastructures/0802-105283-inauguration-de-la-dorsale-optique-nationale-de-la-republique-centrafricaine-et-de-l-interconnexion-avec-le-congo) | No change |
 | National cybersecurity agency | Created by a cybersecurity law voted by acclamation in January 2024 under joint supervision, to secure information systems, handle alerts and regulate the sector, with no establishment record | [Unchanged; the agency appears nowhere in the 2024, 2025 or 2026 estimates under any wording](https://www.africatopsuccess.com/un-projet-de-loi-pour-lutter-contre-la-cybercriminalite-en-centrafrique/) | No change |
@@ -208,7 +208,7 @@ record: 7299ef3f7368
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National Cybersecurity and Data Protection Agency | Announced and committed to (Jan 2025); not yet established | [Still at commitment stage; no source confirms the Agency has been formally established or made operational](https://ang.gw/governo-apresenta-resultados-dos-estudos-sobre-ciberseguranca/) | No change |
 | National Cybersecurity Strategy (decree) | Draft decree approved by Council of Ministers 2025-07-10; not confirmed published or in force | [Unchanged; no further movement on file](https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/) | No change |
@@ -225,7 +225,7 @@ record: 7299ef3f7368
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Government Chief Information Security Officer | Did not exist | [Appointed, reported as the first such post across government](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | Advanced |
 | Interim national CSIRT (LesComCSIRT) | Did not exist | [Operating on an interim basis, ahead of the statute intended to establish it](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | Advanced |
@@ -253,7 +253,7 @@ record: 7299ef3f7368
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National cybersecurity strategy | Did not exist | [Launched with a three-month delivery target; no strategy document published (2026-08)](https://midi-madagasikara.mg/vers-la-mise-en-place-dune-strategie-nationale/) | Advanced |
 
@@ -312,7 +312,7 @@ record: 7299ef3f7368
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Banking fraud losses | About N$8.7m a year (2020, central bank) | [N$73.9m for 2025, with N$65m lost between January and October 2025](https://itweb.africa/article/namibia-partners-with-banks-to-combat-fraud/Olx4zMka1eyv56km) | Regressed |
 | Detected vulnerabilities and cyber events | 2,231,970 vulnerabilities and 1.7m attacks over calendar 2025, up about 37% year on year | [513,921 vulnerabilities and 161,547 events in April to June 2026, up 39.8% and 56.7% on the prior quarter](https://www.namibian.com.na/cyber-threats-surge-as-namibia-records-half-a-million-vulnerabilities/) | Regressed |
@@ -363,7 +363,7 @@ record: 7299ef3f7368
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | CSIRT (Computer Security Incident Response Team) | Did not exist | [Materialisation launch identified as active mission objective; no operational date or further detail](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | Advanced |
 
@@ -377,7 +377,7 @@ record: 7299ef3f7368
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Budapest Convention on Cybercrime accession | Did not exist | [Assembly vote passed unanimously; the accession itself, an executive act, still to follow](https://www.nation.sc/articles/31614/assembly-approves-accession-to-budapest-convention-on-cybercrime) | Advanced |
 | National Cybersecurity Coordination Committee | ***Baseline not held*** | [Active as national cyber-coordination body; one documented activity](https://nation.sc/articles/26060/from-headlines-to-algorithms-media-practitioners-explore-ai-with-nccc-and-amps) | ***Baseline not held*** |
@@ -441,7 +441,7 @@ record: 7299ef3f7368
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National cybersecurity agency advisory function | ***Baseline not held*** | [Issuing public advisories against a live campaign harvesting banking and personal data; its offered verification test is that Tunisian government sites use only the .tn domain, and no takedown power, enforcement action or role for the data-protection authority is on record (2026-07)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151319-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86) | ***Baseline not held*** |
 

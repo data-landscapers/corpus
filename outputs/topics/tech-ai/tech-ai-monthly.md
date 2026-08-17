@@ -3,13 +3,13 @@ title: AI — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: tech.ai
-places: DZA; AGO; BFA; BDI; CMR; CPV; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7a1b30fb177b
+places: DZA; AGO; BFA; BDI; CMR; CPV; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: e7e9da5a7599
 ---
 
 # AI: monthly update, July 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -153,6 +153,10 @@ The Intellectual Property Policy and Strategy 2026-2035, approved by resolution 
 
 On 28 July the communications minister told the same banking and finance conference that current national infrastructure, data centres included, cannot support more advanced artificial-intelligence models ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
 
+## Namibia
+
+The month's artificial-intelligence work is language work. The development programme's account of 13 August records [an indigenous-language voice-data repository being built through its AI sprint with the national science and technology university](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). No language count, corpus size, licence or release date is stated, and the question a speech corpus raises above all others — who owns the recorded voices, and on what terms they may train a model — is not addressed in the account.
+
 ## Nigeria
 
 Nothing moved on the national AI policy, the risk-based regime inside the digital-economy bill, or the surveillance estate.
@@ -164,6 +168,8 @@ The activity was at the state level and abroad. Anambra State [set out a Vision 
 Rwanda and a North African state signed an artificial-intelligence and digital-transformation memorandum on 10 July, with no funding, deliverable or timeline stated. The head of state was confirmed on 3 July as co-chair of an international commission on artificial intelligence, with no national work programme attached to the seat.
 
 At the internet governance forum on 30 July a ministry official said artificial intelligence is already in use in Rwandan health, education and fraud detection. The national agency approved in June still has no published structure, budget, law or implementation timeline.
+
+On 13 August the ICT ministry [held a two-day working session with a hyperscaler to scope a structured artificial-intelligence partnership](https://www.techreviewafrica.com/news/6745/rwanda-and-google-engage-on-ai-partnership-to-accelerate-digital-transformation) spanning digital public infrastructure, data exchange, cloud, cybersecurity and skills. Nothing was signed and no value or timetable was given. The question a scoping session of that breadth raises — on what terms national data would sit with a foreign provider — is not addressed in the account.
 
 ## Senegal
 
@@ -201,7 +207,9 @@ Three artificial-intelligence positions all rest on announcements rather than ou
 
 ## Tunisia
 
-The period's artificial-intelligence document came from outside the state. A diaspora alumni association [presented a Livre Blanc at the Tunisia Global Forum on 21-22 July](https://www.lapresse.tn/2026/07/22/tunisia-global-forum-2026-la-tunisie-face-au-defi-strategique-de-lintelligence-artificielle/) and its contents were [reported on 5 August 2026](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/): a 2030 vision of a country able to create, adopt and deploy trustworthy artificial intelligence, against a stated baseline of 12.7% adoption at end-2025 and 4,120 developers per million inhabitants. It names the constraints as the absence of large-scale data centres and sovereign compute, brain drain, and small firms that are 90% of the economic fabric, and prescribes frugal compute investment sized by measured demand. The document is declared open source and is not posted anywhere reachable, so all of that is held at press-summary precision.
+The period's artificial-intelligence document came from outside the state. A diaspora alumni association [presented a Livre Blanc at the Tunisia Global Forum on 21-22 July](https://www.lapresse.tn/2026/07/22/tunisia-global-forum-2026-la-tunisie-face-au-defi-strategique-de-lintelligence-artificielle/) and its contents were [reported on 5 August 2026](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/): a 2030 vision of a country able to create, adopt and deploy trustworthy artificial intelligence, against a stated baseline of 12.7% adoption at end-2025 and 4,120 developers per million inhabitants. It [names the constraints as the absence of large-scale data centres and sovereign compute, brain drain, and small firms that are 90% of the economic fabric](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/), and prescribes frugal compute investment sized by measured demand. The document is declared open source and is not posted anywhere reachable, so all of that is held at press-summary precision.
+
+The state's own document surfaced at the end of the window and settles a gap this ledger has carried. At a restricted ministerial council on 16 August the communication technologies minister [set out the main lines of a National Artificial Intelligence Strategy 2026-2030](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). That establishes the instrument exists and is dated; it does not publish it. No adopted text, cabinet decision, budget or roadmap accompanies the presentation, so the strategy moves from *not held* to in development and no further.
 
 ## Uganda
 

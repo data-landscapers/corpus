@@ -3,19 +3,23 @@ title: New investments — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: finance.new
-places: AGO; BFA; TCD; COG; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; STP; SEN; SLE; TGO; UGA; ZMB; ZWE
-record: b433d74ebd8f
+places: AGO; BEN; BFA; TCD; COG; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; STP; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE
+record: b56f1e733e62
 ---
 
 # New investments: monthly update, July 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
 The digital acceleration project acquired published targets for the first time. At its third steering committee on 30 July it was [stated to be contracted to reach ten million people by March 2030](https://angop.ao/noticias/politica/projecto-de-aceleracao-digital-abrange-10-milhoes-de-pessoas/), lifting broadband users from a stated baseline of 14,743,807 to 19.7 million and getting 400 firms onto green digital products, on US$300m of financing whose terms are a market-rate loan rather than concessional finance.
+
+## Benin
+
+One commitment entered the window. During a ministerial visit of 4 to 6 August, Canada [announced CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html). The remaining six lines are outside the digital estate. What the digital line does not carry is an implementing partner, a start date or a duration, so there is nothing yet to follow from the announcement to a system.
 
 ## Burkina Faso
 
@@ -56,6 +60,8 @@ The month's one clear statement about money is the [WARDIP terms of reference, n
 ## Kenya
 
 Two financings were signed. A [EUR270m facility across 21 obligors in eight jurisdictions was signed on 9 July, its committed portion of up to EUR170m including a local-currency tranche of up to EUR20m equivalent in shillings for fibre modernisation in Kenya](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270), with a further uncommitted EUR100m for future acquisitions and capital expenditure across the lender's sub-Saharan operations. Domestically the digital economy acceleration project [took KSh 4.3bn for the year, half the entire digital thematic, to equip more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262).
+
+On 4 August the development lender committed [US$24.2m across three Kenyan lenders under the first catalytic first-loss guarantee transactions anywhere in Africa](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first), backed by US$11m of concessional private-sector-window money and expected to catalyse about US$144.4m of local-currency lending to micro-enterprises. Only one of the three counterparties is a digital lender; the individual allocations are not disclosed, so what the structure buys in fintech terms cannot be read off the announcement.
 
 ## Liberia
 
@@ -101,6 +107,10 @@ A [US$50m pre-seed and seed fund was announced on a conference stage in Paris on
 
 The same statement — [reporting the academic Digital Public Goods exhibition](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) — also gives the Sierra Leone Innovation Investment Fund a target of US$150m over five years, with no amount raised.
 
+## South Africa
+
+One programme opened in the window, and it is not yet a commitment to anybody. On 11 August the United Kingdom [published an expression-of-interest call for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space. South Africa is the primary focus and Zimbabwe and Zambia the first year's. The fund is resourced and the delivery consortium is not chosen, so what the money buys is a matter for a contract expected later in the year.
+
 ## Togo
 
 [A further US$20,000,000 was signed for the Togolese component of the regional unique identification programme](https://www.togofirst.com/en/investments/1707-19593-togo-signs-cfa257-4-billion-in-financing-agreements-for-vision-2040) on 16 July, inside a five-agreement package of US$429,000,000. The implementation report the base holds gives that phase a closing date of 30 July 2026 and nothing restates or extends it alongside the top-up. A public administration service-delivery modernisation project was [named at the government's portfolio review of 28 July](https://www.republiquetogolaise.tg/gouvernance-economique/3007-12141-le-gouvernement-renforce-le-suivi-des-projets-finances-par-la-banque-mondiale) as the digitalisation vehicle inside a portfolio of more than US$2bn; the base holds the name and nothing else.
@@ -111,8 +121,12 @@ The digital acceleration project is [named as funder of the Tororo, Mbarara and 
 
 ## Zambia
 
-On 27 July a domestic digital lender reported more than K500 million lent to over 120,000 customers since founding, and committed a further K500 million over the next decade — a forward intention by the lender itself, with no external financier named.
+On 27 July a domestic digital lender [reported more than K500 million lent to over 120,000 customers since founding, and committed a further K500 million over the next decade](https://techafricanews.com/2026/07/27/lupiya-commits-k500-million-to-expand-financial-inclusion-over-next-decade/) — a forward intention by the lender itself, with no external financier named.
+
+External money made a smaller and vaguer offer. On 11 August the United Kingdom [opened expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m to March 2030](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), naming Zambia with Zimbabwe as the first year's focus and South Africa as the programme's primary one. No Zambian allocation is stated, and the delivery consortium has not been chosen.
 
 ## Zimbabwe
 
 The ICT minister also committed on 29 July to ring-fencing a share of the universal services fund for public-good artificial-intelligence projects, stating no amount ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
+
+Two external commitments arrived in August, and only one of them has a number attached to Zimbabwe. A United Nations contract award of 10 August [puts US$5,947,948 into the supply of ICT equipment to the country](https://www.ungm.org/Public/ContractAward/158535) — an exact figure against a purpose stated as nothing more than ICT equipment, with neither the receiving government body nor the awarded vendor named. The United Kingdom separately [opened expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m to March 2030](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), naming Zimbabwe and Zambia as its first year's focus with South Africa the primary one. No Zimbabwean allocation is stated and no delivery consortium has been chosen.

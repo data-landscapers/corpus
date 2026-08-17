@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: gov.standards
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 5b091ef08593
+record: d4a07061d850
 ---
 
 # Standards: progress report, 2025-08-01 to 2026-08-17
@@ -73,7 +73,7 @@ record: 5b091ef08593
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Suspension of non-homologated satellite kits | Did not exist: the service had not launched commercially and the wiki held no rule on satellite access | [Roaming deactivated on kits acquired abroad that had not met homologation conditions, with users directed to the regulator; the stated grounds are equipment traceability and national security](https://techafricanews.com/2026/04/28/central-african-republic-suspends-starlink-kits-citing-security-and-equipment-traceability-requirements/) | Advanced |
 | Regulator spectrum-monitoring and quality-of-service systems | The spectrum system delivered June 2025 and the second package under contract | [Unchanged at the February 2026 revision of the procurement plan](https://documents1.worldbank.org/curated/en/099022326062517094/txt/P174620-44b07ebc-4ee2-437f-bb52-4677f8ba9fda.txt) | No change |
@@ -169,7 +169,7 @@ record: 5b091ef08593
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | LCA Quality of Service Rules (Legal Notice 41 of 2023) | ***Baseline not held*** | [In force under Legal Notice No. 41 of 2023, prescribing minimum quality-of-service standards for voice, data, postal and courier licensees across service accessibility, integrity and retainability, with two published schedules of measurable parameters](https://lca.org.ls/download/lesotho-communications-authority-quality-of-service-rules-2023/) | ***Baseline not held*** |
 | Telecoms quality-of-service compliance | ***Baseline not held*** | [75% overall compliance across twelve general parameters for the two mobile network operators in the year to 2025-03-31, missing on disconnection-complaint resolution time and mobile order-completion time; Q3 2025/26 drive-testing across three Maseru clusters in November 2025 found mean LTE download speeds of 2.88-2.95 Mbps against a 25 Mb/s target and unsuccessful call ratios of 2.6-6.2% against a 2% ceiling](https://lca.org.ls/wp-content/uploads/filr/4278/Annual-Report-2024-25-2-1.pdf) | ***Baseline not held*** |
@@ -182,7 +182,7 @@ record: 5b091ef08593
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Mobile money open API conformance | Conformant | [Conformant](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/programme/mobile-for-development/mvola-madagascar-a-case-study-for-the-gsma-mobile-money-api-and-open-platforms) | No change |
 

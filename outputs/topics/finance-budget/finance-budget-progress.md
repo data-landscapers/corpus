@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: finance.budget
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; GNQ; ETH; GAB; GMB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; RWA; SEN; SDN; TZA; ZMB; ZWE; XAF; XWA
-record: 389681d76aa6
+record: 9a66af87be98
 ---
 
 # Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-17
@@ -88,7 +88,7 @@ record: 389681d76aa6
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Customs system deployment | Two lines together worth FCFA 245,000,000 in 2025 | [FCFA 420,000,000 for 2026 in a single deployment line](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf) | Advanced |
 | Digital development agency transfer | FCFA 200,000,000 proposed in 2025 and raised to FCFA 300,000,000 in the mid-year revision, from FCFA 50,000,000 in 2024 | [FCFA 300,000,000 for urban optical loops plus FCFA 118,000,000 to clear six months of unpaid 2024 salaries, FCFA 418,000,000 in total](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf) | Advanced |
@@ -192,7 +192,7 @@ record: 389681d76aa6
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Domestic budget appropriation for digital transformation | ***Baseline not held*** | [M381.1 million allocated to the ICT sector for 2025/26, naming a Government Security Operations Centre (GovSOC), a Government of Lesotho Enterprise Architecture and Interoperability Framework, a completed LEMOFI fibre feasibility study, 17 operational base tower stations and a 96km Roma-Thaba-Tseka fibre stretch underway](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf) | ***Baseline not held*** |
 

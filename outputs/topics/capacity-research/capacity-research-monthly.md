@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: capacity.research
 places: BDI; CMR; CIV; GNQ; ETH; LBY; MOZ; SEN; SOM; ZMB
-record: 501814dd6272
+record: 4517976742a8
 ---
 
 # Research institutions: monthly update, July 2026
@@ -31,7 +31,7 @@ The cyber agency and a technology school validated curricula for two cyber-secur
 
 ## Ethiopia
 
-The FY2026/27 federal budget ratified on 7 July carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000 — domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. A national AI policy was adopted in 2024 and the AI institute has operated since 2020.
+The FY2026/27 federal budget ratified on 7 July [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) — domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. A national AI policy was adopted in 2024 and the AI institute has operated since 2020.
 
 Nothing moved on the national AI policy itself, on the model-development side, or on which foundation models the country runs.
 

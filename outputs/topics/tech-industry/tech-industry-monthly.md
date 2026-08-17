@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; LBR; MUS; NGA; RWA; ZAF; TGO; ZMB; ZWE
-record: 98a70b9098e6
+record: e14b93dd34a4
 ---
 
 # ICT Industry: monthly update, July 2026
@@ -31,7 +31,7 @@ The incumbent operator reported [profit before tax of P146.2m for the year to 31
 
 ## Cape Verde
 
-The technology park's second phase went to open international tender on 29 July 2026, for supply and installation of facilities equipment and training, procured by the special projects unit in the Ministry of Finance under an African Development Bank loan. Bids close on 15 September 2026, with a bid security of EUR 25,000 and beneficial-ownership disclosure required of the successful bidder. The contract value is not published, so the tender fixes scope and timetable without sizing them.
+The technology park's second phase went to open international tender on 29 July 2026, for supply and installation of facilities equipment and training, procured by the special projects unit in the Ministry of Finance under an African Development Bank loan. [Bids close on 15 September 2026, with a bid security of EUR 25,000](https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/07/1785347487426.pdf) and beneficial-ownership disclosure required of the successful bidder. The contract value is not published, so the tender fixes scope and timetable without sizing them.
 
 ## Cote d'Ivoire
 

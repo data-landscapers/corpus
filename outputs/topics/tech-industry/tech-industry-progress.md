@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ccb3b06eb779
+record: 945b3b17aaff
 ---
 
 # ICT Industry: progress report, 2025-08-01 to 2026-08-17
@@ -67,7 +67,7 @@ record: ccb3b06eb779
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Bitcoin as legal tender | Legal-tender status revoked and acceptance made optional | [Unchanged; no restoration or replacement instrument recorded](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf) | No change |
 
@@ -165,7 +165,7 @@ record: ccb3b06eb779
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Private-sector cloud and cybersecurity capacity | ***Baseline not held*** | [One executive workshop on record, on ransomware, cloud security, data sovereignty and immutable backup](https://lestimes.com/?p=90611) | ***Baseline not held*** |
 
@@ -223,7 +223,7 @@ record: ccb3b06eb779
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Space Science and Technology Bill drafting approval | Drafting approved by cabinet; no text published | [Drafting approved; no bill, text or timetable published at 2026-08-06](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | No change |
 
@@ -299,7 +299,7 @@ record: ccb3b06eb779
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Telecommunications market structure | Three mobile operators, mobile internet and subscriptions rising and voice plateauing under displacement by internet services (2025-04) | [Unchanged in structure; the state operator is being modernised under a European development loan and the market's two private operators are foreign groups (2026-08)](https://techafricanews.com/2025/04/11/tunisias-telecom-sector-sees-strong-data-driven-growth/) | No change |
 

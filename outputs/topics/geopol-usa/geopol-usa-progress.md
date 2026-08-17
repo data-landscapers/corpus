@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: geopol.usa
 places: AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MUS; MAR; MOZ; NAM; NGA; SEN; SSD; UGA; ZMB; ZWE; XAF
-record: bc8e8ee2b116
+record: 316c9aa1131d
 ---
 
 # US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-17
@@ -12,8 +12,6 @@ record: bc8e8ee2b116
 *28 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -55,7 +53,7 @@ record: bc8e8ee2b116
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Incumbent-operator privatisation and recapitalisation | Did not exist at the window's start; the memorandum was signed 2025-09-18 at a development round table | [An operational phase declared, with US$150m announced for network modernisation, a data centre and a connectivity ecosystem; definitive agreements, a steering committee and a schedule unfinalised](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) | Advanced |
 
@@ -119,7 +117,7 @@ record: bc8e8ee2b116
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | US commercial diplomacy in the digital and energy sectors | Not stated | [Stated by the US Embassy at US$7.3bn of commercial partnerships facilitated in Lesotho over the previous eighteen months, of which Kobong is the largest](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) | Advanced |
 
@@ -145,7 +143,7 @@ record: bc8e8ee2b116
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Subsea cable landing at Swakopmund | In service (2022) | [In service; cited as the connectivity leg of the case for hosting compute in Namibia](https://www.tandfonline.com/doi/full/10.1080/01972243.2025.2547676) | No change |
 

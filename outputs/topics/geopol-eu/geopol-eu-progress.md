@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: geopol.eu
 places: DZA; BWA; BFA; CPV; CAF; COM; COG; EGY; GHA; GIN; MLI; MAR; NAM; NER; NGA; UGA; XAF
-record: 7d6fd4d35779
+record: 78ff7f9cbec1
 ---
 
 # EU activities: progress report, 2025-08-01 to 2026-08-17
@@ -41,7 +41,7 @@ record: 7d6fd4d35779
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Digital collection of administrative fees | Did not exist | [Externally financed at EUR 17.5m over four years, of which EUR 8.5m to one justice component; it targets the small revenues of about twenty ministries and covers issuance of the nationality certificate](https://ndjonisango.com/2026/04/18/rca-une-formation-sur-la-digitalisation-du-systeme-de-paiement-pata-polele-dans-trois-ministeres-cles/) | Advanced |
 | Civil-status modernisation programme | ***Baseline not held*** | [Externally funded and implemented with the territorial administration ministry, extending from a capital-and-corridor pilot to new communes, with a target of 400,000 birth certificates by 2028 and 2025 activities put at 90% complete](https://oubanguimedias.com/2026/02/23/centrafrique-le-comite-technique-dappui-et-de-suivi-du-projet-dappui-a-la-modernisation-de-letat-civil-valide-les-activites-du-projet-modero/) | ***Baseline not held*** |
@@ -92,7 +92,7 @@ record: 7d6fd4d35779
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | European Union Multi-Annual Indicative Programme 2021-2027 | In force; EUR 26,000,000 indicative for 2025-2027, with nil for foundational skills education | [In force with no digital priority area: digitalisation is listed as a cross-cutting priority, the named digital offer is support to the Namibian Parliament's e-Parliament blueprint, and the 2025-2027 allocation set at the mid-term review is EUR 26,000,000 - inclusive green growth 20, good governance and gender equality 2, support measures 4, foundational skills education nil](https://international-partnerships.ec.europa.eu/system/files/2022-01/mip-2021-c2021-9055-namibia-annex_en.pdf) | No change |
 

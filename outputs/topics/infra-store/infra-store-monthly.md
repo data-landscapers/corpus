@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MAR; MOZ; NAM; NGA; RWA; SLE; TZA; UGA; ZWE
-record: cb428761a016
+record: bd277515bf46
 ---
 
 # Data Storage: monthly update, July 2026
@@ -65,7 +65,7 @@ Ethiopia is [named among the markets diversifying Africa's data-centre estate](h
 
 ## Gabon
 
-The Nkok facility was inaugurated on 3 July 2026 with 92 racks over 3,000 square metres, 1 MW installed and a cost of XAF 8bn, peered to the ACE and SAT-3/WACS submarine systems ([figures given at the inauguration](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). The operator stated at the same event that about 95 per cent of data produced in Gabon was hosted outside the country.
+The Nkok facility was inaugurated on 3 July 2026 with 92 racks over 3,000 square metres, 1 MW installed and a cost of XAF 8bn, peered to the ACE and SAT-3/WACS submarine systems ([figures given at the inauguration](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). The operator stated at the same event that [about 95 per cent of data produced in Gabon was hosted outside the country](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push).
 
 On 31 July the minister inspected the second Tier III facility, a neutral carrier hotel built by the state company ACE Gabon SA at 160 racks and over 1 MW, interconnected to the submarine systems, and confirmed commissioning between end-November and early December 2026; he described it as a public structure financed by the local banking sector ([site inspection](https://www.gabonreview.com/datacenter-tier-iii-doumba-satisfait-de-lavancement-du-chantier-une-livraison-attendue-entre-novembre-et-decembre/)). No cost figure was given.
 
@@ -113,6 +113,8 @@ A vendor is building smart-city solutions and a data centre with the ICT and hom
 
 A Lagos cloud region [entered service on 10 August](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/), the third on its operator's platform alongside Lisbon and Johannesburg and presented around data residency since the Nigeria Data Protection Act took effect — three legal jurisdictions carried on one platform. It joins [about 26 facilities carrying 50 to 56 MW live against some 124 MW installed](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/), Africa's second-largest market after South Africa at about 15% of continental capacity, most of it in Lagos.
 
+The state put its own instrument behind the same argument on 5 August, [signing the regulatory framework for a National Sovereign Cloud Initiative with the state-owned Galaxy Backbone](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl), setting policy, technical and quality requirements for hosting government and business services in the country. It excludes nobody: the stated ask of Google, Microsoft and Amazon is a clearer path to local deployment. The dependence it is aimed at is [more than 85% of national workloads running on public clouds, and 22% of the thousand most-visited sites hosted in Nigeria against a sub-Saharan average of 34%](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl).
+
 ## Rwanda
 
 The data centre and cloud service directives governing the national facility are unchanged, and their [own text carries no date on its face](https://guidelines.risa.gov.rw/books/data-center-and-cloud-services-directives) — [the ministry's sector plan is what dates them to 2023](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf). No compliance or enforcement record is published.
@@ -124,6 +126,8 @@ The same 7 August account states the biometric register runs on a Tier III data 
 ## Tanzania
 
 A data-centre group named its Tanzanian site as under development while raising [committed capital from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/), giving no Tanzanian size, cost or date.
+
+A sector review of 5 August put a count on what is already there: [ten data centres in Dar es Salaam and one in Dodoma, operated by six carriers](https://african.business/2026/08/free-article/tanzanias-digital-dividend). It is a count and nothing more — no capacity, load or utilisation accompanies it — and it is a trade magazine's rather than the regulator's, so it does not replace the state's own count of public centres commissioned.
 
 ## Uganda
 

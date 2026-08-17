@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: tech.innovate
 places: DZA; BDI; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
-record: 6c591dd638f6
+record: 7c6a1043d2c3
 ---
 
 # Innovation ecosystem: monthly update, July 2026
@@ -75,7 +75,7 @@ UNDP set out its contributions at the summit, adding in its own account of 3 Aug
 
 ## Rwanda
 
-As at 3 August the development bank is the sole committed backer, at US$6m, of a venture debt fund that is not closed, with a further US$3m near-committed; cheques run US$300,000 to just under US$1m, uncollateralised, at 9 to 12%. The figures are the fund manager's own and no commitment date is given.
+As at 3 August the development bank is [the sole committed backer, at US$6m, of a venture debt fund that is not closed, with a further US$3m near-committed](https://techcabal.com/2026/08/03/rwanda-debt-6-million/); [cheques run US$300,000 to just under US$1m, uncollateralised, at 9 to 12%](https://techcabal.com/2026/08/03/rwanda-debt-6-million/). The figures are the fund manager's own and no commitment date is given.
 
 ## Senegal
 
@@ -85,7 +85,7 @@ On 14 July the transit and telecommunications operators [signed a partnership fo
 
 The National Communications Authority [signed a memorandum of understanding with iRise Hub on 30 July](https://techreviewafrica.com/news/6182/somalias-nca-signs-partnership-agreement-with-irise-hub) covering innovation, entrepreneurship, digital skills, cybersecurity, research and public engagement. No figure, term or named deliverable appears in it, and no party is identified as funding any of it. What it does establish is a direction for the regulator itself, whose statutory work is licensing and spectrum.
 
-A national startup network was [launched at the innovation forum in Mogadishu on 22 July](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/), connecting startups to incubators, chambers of commerce and government agencies. It runs under a project funded by the European Union and implemented by UNIDO, which reports 3,600 applications across three cohorts, about 500 entrepreneurs through foundational training and more than 200 startups incubated, against a stated backdrop of about 500,000 young people entering the labour market each year for about 80,000 new jobs. The same account states that intellectual-property legislation is being developed; no bill, text or timeline is on file.
+A national startup network was [launched at the innovation forum in Mogadishu on 22 July](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/), connecting startups to incubators, chambers of commerce and government agencies. It runs under a project funded by the European Union and implemented by UNIDO, which [reports 3,600 applications across three cohorts, about 500 entrepreneurs through foundational training and more than 200 startups incubated, against a stated backdrop of about 500,000 young people entering the labour market each year for about 80,000 new jobs](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/). The same account states that intellectual-property legislation is being developed; no bill, text or timeline is on file.
 
 ## Tunisia
 

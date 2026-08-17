@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 0a665f69e69a
+record: 5a2ffd7080f4
 ---
 
 # Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-17
@@ -89,7 +89,7 @@ record: 0a665f69e69a
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Electricity bill payment over mobile money | Did not exist | [State electricity bills payable over one operator's mobile-money service, launched officially on 2026-08-04 for subscribers including those in Bambari, Berberati, Sibut, Bouar and Beloko; no tariff, transaction fee, volume, revenue share or exclusivity term disclosed](https://oubanguimedias.com/2026/08/07/centrafrique-telecel-et-enerca-signent-un-partenariat-pour-digitaliser-le-paiement-des-factures-delectricite/) | Advanced |
 | Gulf-state digital finance and land-banking memorandum | Did not exist | [Covering digital finance and land banking, presented as mobilising investment for infrastructure while modernising land administration; no commitment figure, disbursement schedule or governance arrangement stated](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) | Advanced |
@@ -274,7 +274,7 @@ record: 0a665f69e69a
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Electronic-money active accounts (UEMOA/BCEAO reporting) | Not held in the base | [Active e-money accounts up 33.28% in 2024; Guinea-Bissau holds 1.94% of UEMOA accounts opened, about 0.7%/1% of regional transaction volume/value, via 2 e-money issuing initiatives nationally (of 69 across the union)](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | ***Baseline not held*** |
 
@@ -294,7 +294,7 @@ record: 0a665f69e69a
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | M-Pesa Lesotho (VCL Financial Services) | Operated inside Vodacom Lesotho | [Operating as VCL Financial Services, a separately constituted entity, with 14,000 agents (2026-06)](https://itweb.africa/article/vodacom-lesotho-invests-40m-to-supercharge-connectivity/P3gQ2qGAJZZ7nRD1) | Advanced |
 | Renminbi settlement access through CIPS | Did not exist | [Available through Standard Bank, one of five markets added beyond South Africa](https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/) | Advanced |
@@ -326,7 +326,7 @@ record: 0a665f69e69a
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Airtel Money and Baobab Bank integration | Did not exist | [Bidirectional wallet-to-account transfers over USSD and the bank's application (2026-07)](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/) | Advanced |
 | AXIAN Digibank and Fintech | Mobile money operator | [Digital-bank strategy announced across five markets, serving about 500,000 merchants a month (2025-11)](https://techcabal.com/2025/11/26/axian-rebrands-fintech-cluster/) | Advanced |
@@ -398,7 +398,7 @@ record: 0a665f69e69a
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Declaration of intent on instant payments integration | Did not exist | [Signed to integrate instant payments with the national clearing infrastructure through the interbank settlement system; no deliverables, funding or timetable published](https://techafricanews.com/2026/07/02/bank-of-namibia-ipn-and-namclear-sign-pact-to-strengthen-instant-payments/) | Advanced |
 | Instant Payment Solution | In build; core-banking integration tested and user-acceptance testing under way | [Operational from June 2026 after a live pilot, with a phased national rollout and government-to-person social grants the first use case](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/) | Advanced |
@@ -455,7 +455,7 @@ record: 0a665f69e69a
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | BCSTP FinTech Sandbox | ***Baseline not held*** | [Five-phase incubator running; one entrant piloting phone-based/USSD transfers usable without internet](https://rstp.st/2025/06/03/banco-central-lanca-iniciativa-sandbox-para-promover-inclusao-de-servicos-financeiros-digitais-em-stp/) | No change |
 
@@ -469,7 +469,7 @@ record: 0a665f69e69a
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Cheque phase-out (Central Bank of Seychelles, four-stage schedule) | Individual-facing stages running; non-resident stages not yet reached (2025-08) | [SRC introduced cheque thresholds for tax/duties (eff. 13 Jul 2026) as part of a plan to discontinue cheques entirely by 31 Dec 2028](http://www.seychellesnewsagency.com/articles/21244/seychelles-to-phase-out-cheques-for-financial-transactions-from-2025) | Advanced |
 | Foreign Exchange Act 2009 amendment (authorised-dealer perimeter) | Did not exist | [Cabinet approval only; no Bill text, commencement date or transitional provision on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
@@ -567,7 +567,7 @@ record: 0a665f69e69a
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Kashy wallet (Tunisie Telecom) | Did not exist | [Launched with a licensed payment partner, offering transfers, collections, top-up and cash withdrawal by phone (2026-03)](https://www.assabahnews.tn/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA/142463-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D8%B7%D9%84%D9%82-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%84-%D9%83%D8%A7%D8%B4%D9%8A) | Advanced |
 | Licensed payment service providers | 368 (2024) | [435 (2025)](https://trendsnafrica.com/central-bank-of-tunisia-reports-81-surge-in-mobile-payments-as-tunisia-accelerates-its-digital-transformation-in-2025/) | Advanced |

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COD; EGY; ETH; GAB; KEN; LSO; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: f61d68e7b0fc
+record: a28a48ceda41
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
@@ -65,13 +65,15 @@ On 30 July the education ministry received 1,000 tablets for what the minister d
 
 Health claims authorisation failed at the counter through the month. A teachers' union raised on 30 July that members were [turned away and billed in cash](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) when the platform failed, one charged Ksh8,500 on 19 July; the Authority answered that the Digital Health Agency runs the system on its behalf.
 
+An academic review published on 5 August put the child-protection case system on the other side of that ledger, [crediting it with cutting duplication and improving real-time coordination between agencies, with recorded cases rising from 20,235 in 2016/17 to 54,583 in 2021/22](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/). The most recent of those figures is four years old, and the system is American-funded — which places it in the same account as the withdrawal recorded under inclusion below.
+
 ## Lesotho
 
 UNICEF and the Global Partnership for Education [announced support on 23 July](https://techafricanews.com/2026/07/23/unicef-and-gpe-launch-learning-data-dashboard-to-improve-education-in-lesotho/) for a Foundational Literacy and Numeracy Dashboard consolidating Grades 1–3 performance, with tablets for principals in 300 project schools and solar power in 25 cluster learning spaces.
 
 ## Malawi
 
-The Electronic Invoicing System reached 8,552 registered taxpayers by 20 July.
+The Electronic Invoicing System [reached 8,552 registered taxpayers by 20 July](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
 
 ## Mali
 

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: capacity.research
 places: DZA; AGO; BWA; BDI; CMR; COG; CIV; GNQ; ETH; GAB; GHA; LSO; LBY; MDG; MLI; MRT; MAR; MOZ; NGA; RWA; SEN; SOM; TZA; TGO; UGA; ZMB; ZWE
-record: 5542d67f6359
+record: 75f291739d30
 ---
 
 # Research institutions: progress report, 2025-08-01 to 2026-08-17
@@ -92,7 +92,7 @@ record: 5542d67f6359
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Government and National University of Lesotho DPI collaboration | ***Baseline not held*** | [One joint review on record; no research programme, funding or output published](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) | ***Baseline not held*** |
 
@@ -104,7 +104,7 @@ record: 5542d67f6359
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | UNIPOD university connectivity and AI initiative | Did not exist | [Announced; no campus connected or facility opened on record (2026-01)](https://techafricanews.com/2026/01/26/unipod-initiative-aims-to-bring-high-speed-internet-and-ai-to-universities-in-madagascar/) | Advanced |
 

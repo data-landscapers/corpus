@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: data.satellite
 places: DZA; AGO; BWA; BFA; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
-record: ba8dd6e4e1af
+record: fae334983dfb
 ---
 
 # Use of satellite data: progress report, 2025-08-01 to 2026-08-17
@@ -117,7 +117,7 @@ record: ba8dd6e4e1af
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Satellite data-receiving ground station | Did not exist | [In operation, Namibia's first such facility, receiving remote-sensing data and operated by fourteen trained Namibians](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | Advanced |
 | Space Science and Technology Bill | Drafting approved in 2025; no text published | [No text or introduction date published at 2026-08-06](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | No change, no draft published |
@@ -145,7 +145,7 @@ record: ba8dd6e4e1af
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | UN COPUOS accession / UNOOSA engagement | Did not exist | [Cabinet approval only; accession process and any programme not yet on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
 

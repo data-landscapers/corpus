@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: dpi.govtech
 places: DZA; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; DJI; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 964d256a5a33
+record: d8811243ed9a
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
@@ -81,13 +81,15 @@ On 2 August the border agency's tourist electronic visa platform, developed in 2
 
 ## Gambia
 
-The revenue authority said on [30 July 2026 that South African and Rwandan customs officials will study its digital excise tax stamp](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), after officials from Nigeria, Senegal and Sierra Leone; the commissioner general attached to it a claimed 95% reduction in smuggling of excisable goods, a figure with no method, made by the authority whose system is being studied. The finance ministry also [named a planned Integrated Tax Administration System](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), with no procurement, vendor or timetable.
+The revenue authority said on [30 July 2026 that South African and Rwandan customs officials will study its digital excise tax stamp](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), after officials from Nigeria, Senegal and Sierra Leone; the commissioner general attached to it [a claimed 95% reduction in smuggling of excisable goods](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), a figure with no method, made by the authority whose system is being studied. The finance ministry also [named a planned Integrated Tax Administration System](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), with no procurement, vendor or timetable.
 
 The trade ministry said on [4 August 2026 that a Digital Single Window Business Registration System is being finalised](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows), with no launch date.
 
 ## Ghana
 
 The finance ministry reported to Parliament that the customs valuation system had [analysed about 366,000 declarations to 17 July](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/), 24% triggering more than one risk indicator, with collections up 17.5% against a 6.3% rise in declared value. A second public sector reform strategy was validated on 30 July on seven pillars, 27 programmes and 135 activities.
+
+The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
 
 ## Guinea
 
@@ -137,7 +139,7 @@ The Ministry of Foreign Affairs and the digital ministry [launched a consular-se
 
 On 4 August the digital ministry [launched the digitisation of SNDE's services and their integration into the Mes Services portal](https://ami.mr/fr/archives/300346), with the water utility's transactions available remotely from that day. German cooperation was thanked by name with no amount, instrument or term stated, and no usage figure exists.
 
-The clearest disclosure of the month came at a [workshop on the tax regime for public bodies on 30 July](https://www.ami.mr/archives/265398). The Finance Minister announced an electronic invoicing system for public institutions, handling VAT and withholding at source by transferring data automatically to the tax directorate, and put more than 500 taxpayers on the tax directorate's electronic platform producing 36.45% of directorate revenue in 2026. The Director-General of Taxes gave the counter-figures: of 642 legally constituted public bodies only 339 are active with the tax administration, around 20 are absent from the national taxpayer register, and on the electronic tax-services platform 66 public bodies are enrolled, 53 file electronically and 3 pay through it. The compliance guide announced alongside is in preparation, not published.
+The clearest disclosure of the month came at a [workshop on the tax regime for public bodies on 30 July](https://www.ami.mr/archives/265398). The Finance Minister announced an electronic invoicing system for public institutions, handling VAT and withholding at source by transferring data automatically to the tax directorate, and put [more than 500 taxpayers on the tax directorate's electronic platform producing 36.45% of directorate revenue in 2026](https://www.ami.mr/archives/265398). The Director-General of Taxes gave the counter-figures: of 642 legally constituted public bodies only 339 are active with the tax administration, around 20 are absent from the national taxpayer register, and on the electronic tax-services platform 66 public bodies are enrolled, 53 file electronically and 3 pay through it. The compliance guide announced alongside is in preparation, not published.
 
 ## Mauritius
 
@@ -165,7 +167,9 @@ On 15 July the tax directorate [convened a national seminar on digitalising the 
 
 ## Nigeria
 
-The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) was soft-launched on 30 July as a single sign-on gateway built with Korean financing, piloted since 2025. Behind the login it integrates with the national data exchange so agencies share citizen data rather than each re-collecting it. The lawful basis and the audit arrangements are unstated, and no published rule answers either.
+The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) was soft-launched on 30 July as a single sign-on gateway built with Korean financing, piloted since 2025, [the Korean agency named as a delivery partner alongside the communications ministry](https://spacewatchafrica.com/galaxy-backbone-unveils-government-service-portal-to-simplify-access-to-public-services/). Behind the login it integrates with the national data exchange so agencies share citizen data rather than each re-collecting it. The lawful basis and the audit arrangements are unstated, and no published rule answers either.
+
+At state level a second donor took the policy layer rather than the platform: on 16 August [the UK opened a digital policy and regulatory reform project with Ekiti State](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/), to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework. Its value and duration are not published.
 
 ## Rwanda
 
@@ -176,6 +180,8 @@ On 20 July an information society authority and a West African digital ministry 
 ## Senegal
 
 The month's clearest movement is a removal rather than an addition. The tax authority [withdrew the paper fiscal stamp on 20 July, making the digital service the sole recognised channel nationwide](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique), with QR-coded stamps bought and received remotely. Unused paper stamps were exchangeable until 15 August and no offline or assisted route is stated. Eight days later the [free electronic stamp service was suspended by its provider, citing an administrative decision outside its control, with refunds promised within 72 hours and users stating they now pay additional fees for an identical service](https://lesoleil.sn/actualites/diotali-suspend-son-service-gratuit-de-timbre-fiscal-electronique-et-annonce-le-remboursement-de-ses-usagers/) — the first consumer-cost consequence of state-platform exclusivity the base holds, and it is not stated whether the decision was addressed to that provider or to the distribution channel generally. Separately the state procurement platform is [operating and named by the procurement regulator as intended to capture the procedures of a thousand administrations](https://arcop.sn/2026/07/30/encadre-appel-une-plateforme-strategique-a-proteger/), with its protection a stated priority alongside critical state digital infrastructure; no count of administrations onboarded, procurement volume, availability record or security accreditation is given.
+
+Parliament's own systems entered the record for the first time, and only as a purchase order: on 5 August the United Nations development programme [opened a tender to supply IT equipment for the National Assembly's SIPOP system](https://www.developmentaid.org/tenders/view/1695673/acquisition-dequipements-informatiques-sipop). What that system does, what it costs and when it runs are all absent from the notice, which is the whole of what the base holds on it.
 
 ## Seychelles
 
@@ -207,6 +213,8 @@ On 20 July revised fees were [published on the electronic visa portal](https://t
 
 The central bank [launched a sovereign yield curve system on 7 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), letting investors compare secondary-market government-security returns against domestic and international alternatives before investing. [Retail participation stands at 32,631 investors against 897 in 2016](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), on the governor's own figures given at the launch.
 
+Upstream of any single system, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. A procurement notice fixes the consultancy and nothing about any project it may produce; neither value nor duration is stated.
+
 ## Togo
 
 Two government systems advanced without either being shown in production. [Document management and digitisation training ran at the finance ministry](https://www.togofirst.com/fr/gestion-publique/0707-19475-togo-la-transition-numerique-relance-le-chantier-de-la-gestion-des-archives), with no statement that the system itself is live; and the volunteering agency's [mobile application is live](https://www.republiquetogolaise.tg/tic/2707-12130-volontariat-l-anvt-lance-son-application-mobile) carrying four programmes for registration and record tracking, with no formal launch date and nothing establishing whether it authenticates against a national citizen account or mints a separate identity store.
@@ -215,11 +223,15 @@ Two government systems advanced without either being shown in production. [Docum
 
 Two more registers moved. The employment ministry [launched the national register of community companies on 20 July 2026](https://www.nessma.tv/fr/economie/actu/lancement-du-registre-national-des-societes-communautaires-pour-impulser-le-developpement-local/560812), and the launch figures were the disclosure: 230 companies created, 15,000 participants, but only 60 operational and 380 jobs. On [4 August the tax directorate put business tax registration online](https://www.lapresse.tn/2026/08/04/patente-en-ligne-la-direction-generale-des-impots-lance-sa-nouvelle-plateforme-numerique/), ending the required visit to a tax office; it was announced by video capsule rather than by gazette, and its confidentiality assurance names no instrument and no supervisory authority.
 
+A restricted ministerial council of 16 August put a count on the rest: [114 projects in execution, some reported above 90% complete](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/), covering remote residence certificates, driving-licence renewal, remote passport and identity-card applications, the national health identifier and the customs and health-insurance systems. It is not the same measure as the 192 projects the February council tracked, and the two should not be read as a fall. The council also announced [the imminent launch of a Khadamet mobile application offering more than 40 administrative services, reached through the national digital identity and paid by card or virtual wallet](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). No launch date was given, and the application sits on top of the existing administrative portal of the same name rather than replacing it.
+
 ## Uganda
 
 Electronic government procurement reached [136 entities onboarded with version 2.0 in service, verifying suppliers automatically against the revenue, registration, identity and social-security registers](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026), and training opened for a further 100 entities on 3 August. An onboarded entity no longer advertises tenders in newspapers and may transact only with registered providers. Onboarding is stated to continue each financial year until all of government is on the system.
 
 Two further e-services launched on 12 August under the same government network programme: [a teacher-training platform with more than 6,600 teachers enrolled, and a case-management system for the Human Rights Commission](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/). Neither carries a published retention rule or data-protection assessment, which is the sharper omission for a system holding complaint records.
+
+Upstream of any of it, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Uganda, Kenya and Tanzania](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. It is a procurement notice: it fixes the consultancy and nothing about any project it may produce, and neither its value nor its duration is stated.
 
 ## Zambia
 

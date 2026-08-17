@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: dpi.id
 places: AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: cd50095b465b
+record: 0c3730117a78
 ---
 
 # Digital Identity and CRVS: monthly update, July 2026
@@ -34,6 +34,8 @@ Biometric civil registration is [operating in 13 pilot communes, decentralised t
 ## Cameroon
 
 Two identity operations ran in the month, both municipal. On 27 July [4,000 free identity cards were handed over at Yaoundé 5](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/), some to recipients blocked for over fifteen years by duplicate-identity records, cleared by seconding police officers on site; the operation was timed to public-service and police recruitment competitions, for which the card is a precondition. From 3 July, [compulsory registration of taxi owners and drivers opened on a city platform](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers), with a QR code and a unique door number per driver and unregistered taxis barred after 5 October.
+
+The register underneath both is only now being equipped. On 7 August the United Nations development programme [opened a tender for the equipment of three pilot centres digitising civil-status registration](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center). Three centres is the whole of the stated scope, and the notice names neither their locations nor a value or timetable — against a paper record the base elsewhere shows being used to draw fraudulent payroll claims.
 
 ## Cape Verde
 
@@ -123,6 +125,8 @@ The identity ministry reported on 23 July that it printed 166,237 identity docum
 
 The regional outreach opened in Omaheke on 27 July and ran to 5 August across all seven constituencies, delivered with a development agency and the regulator ([outreach account](https://neweralive.na/e-ids-outreach-kicks-off-in-omaheke/)). The regional governor said marginalised communities need to be convinced to take up the card, and the ministry team named low literacy as the obstacle to understanding it ([governor's account](https://www.namibiansun.com/technology/govt-dismisses-mark-of-the-beast-conspiracies-over-e-ids-nmh013991-1-17373)).
 
+Alongside the outreach runs a [Youth e-ID Ambassadors Programme, using young people to promote take-up of the credential and civic participation](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). Participant numbers, cost, duration and any effect on enrolment are unstated, and the funding agency's own account is the only one the base holds.
+
 ## Niger
 
 On 16 July the [president was the first enrollee for the AES biometric passport](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html), a second phase after the identity card, in five categories — ordinary, service, diplomatic, refugee and Hadj — produced by the police security directorate with a Libyan supplier and a local partner; the [prime minister enrolled on 23 July](https://anp.ne/passeport-biometrique-aes-le-premier-ministre-nigerien-zeine-senrole/).
@@ -153,7 +157,7 @@ Cabinet [approved a third-generation e-passport plan on 6 August](https://shabel
 
 ## South Africa
 
-Absa [joined the bank-branch smart identity channel](https://www.sanews.gov.za/south-africa/home-affairs-announces-absa-joining-banking-sector-provide-smart-ids), which the department put at 296 branches and more than 385,000 applications in four months; Operation Vulindlela's quarterly report gave 203,887 applications across 171 branches. The reference periods differ and the figures have not been reconciled. Mobile operators and the justice department agreed a framework to [replace document presentation in SIM registration with real-time departmental verification](https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id/).
+Absa [joined the bank-branch smart identity channel](https://www.sanews.gov.za/south-africa/home-affairs-announces-absa-joining-banking-sector-provide-smart-ids), which the department put at 296 branches and more than 385,000 applications in four months; Operation Vulindlela's quarterly report [gave 203,887 applications across 171 branches](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf). The reference periods differ and the figures have not been reconciled. Mobile operators and the justice department agreed a framework to [replace document presentation in SIM registration with real-time departmental verification](https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id/).
 
 On 29 July the Western Cape High Court [held four categories of exclusion in the birth-registration regulations unconstitutional](https://www.timeslive.co.za/news/south-africa/2026-07-29-court-rules-birth-registration-exclusions-unconstitutional/), allowing 18 months for amendment and holding that the orders required no Constitutional Court confirmation.
 
@@ -175,7 +179,7 @@ The identity register is the most heavily integrated rail the base holds anywher
 
 From 1 July 2026 the mobile identity became a condition of transacting with the state: the [investment authority made it mandatory for all investment-project declarations](https://techafricanews.com/2026/06/26/tunisia-makes-mobile-id-mandatory-for-investment-project-declarations/).
 
-The health identifier's provenance became public on [27 July 2026](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). A ministry adviser confirmed that the identifier built for Covid-19 vaccination, holding records of over 3 million childhood immunisations, was adopted as the national health identifier and bound to the national identity card, the social security number and school and university identifiers. Roughly 100,000 medical files had been linked. On protection of that linked dataset the ministry asserts only that data is stored confidentially and securely.
+The health identifier's provenance became public on [27 July 2026](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). A ministry adviser confirmed that the identifier built for Covid-19 vaccination, holding records of over 3 million childhood immunisations, was adopted as the national health identifier and bound to the national identity card, the social security number and school and university identifiers. [Roughly 100,000 medical files had been linked](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). On protection of that linked dataset the ministry asserts only that data is stored confidentially and securely.
 
 ## Uganda
 

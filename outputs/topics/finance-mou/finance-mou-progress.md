@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: finance.mou
 places: DZA; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; SWZ; GAB; GIN; KEN; LSO; MWI; MRT; MAR; SEN; SYC; SSD; TZA; TGO; ZMB; ZWE; XAF
-record: b170e3c20abc
+record: 414096b9e62a
 ---
 
 # MoUs and other agreements: progress report, 2025-08-01 to 2026-08-17
@@ -49,7 +49,7 @@ record: b170e3c20abc
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Dormant data-centre memorandum | A memorandum signed with no contract | [Unchanged at 2026-07-20: still no contract, site or financing](https://oubanguimedias.com/2025/01/22/centrafrique-le-gouvernement-signe-un-memorandum-dentente-avec-la-societe-aial-pour-la-construction-dun-centre-de-donnees-numeriques/) | No change |
 
@@ -116,7 +116,7 @@ record: b170e3c20abc
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Development-partner support for the data blueprint | ***Baseline not held*** | [Named as supporters at the first workshop; no programme document, terms of reference or amount is held](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/) | ***Baseline not held*** |
 
@@ -148,7 +148,7 @@ record: b170e3c20abc
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Mauritius Telecom–Eboo cross-border payments | Did not exist | [Announced at the AllMyT Summit as the first of a planned series of Indian Ocean regional payment announcements; no operational detail, launch date or terms given](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) | Advanced |
 

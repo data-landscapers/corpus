@@ -4,14 +4,12 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: include.divides
 places: AGO; BWA; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NGA; UGA; ZWE
-record: 177e25b92e4c
+record: 049d1c8ff583
 ---
 
 # Digital divides: monthly update, July 2026
 
 *13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -43,9 +41,13 @@ At a policy dialogue on 29 July the regulator said an existing hotspot authorisa
 
 The [draft digital economy and innovation development fund bill](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/) would also convert the universal-access fund into a wider innovation and skills fund, with the fate of the rural-access earmark unestablished.
 
+Existing money went the other way. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Ghana slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Ghanaian figure is given.
+
 ## Kenya
 
 The KenSafeSpace digital-rights coalition [closed on 28 July](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) after 30 months on a EUR 1.3m grant, reporting 18,000 people reached directly and 133 defenders trained, with its 49 members continuing unfunded; a successor programme opened the same day training 150 justice-sector officials on digital evidence.
+
+The larger withdrawal is American. An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
 
 ## Malawi
 
@@ -54,6 +56,8 @@ The universal service fund is in operation and funded from the regulator's annua
 ## Mozambique
 
 The inclusion figures move in opposite directions depending on which one is read. The central bank's 2025 report puts the [financial inclusion index at 36.4 points, classified moderate, with Cabo Delgado rising from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) — a national index that did not move while access points rose 36%. Underneath it the [gender gap in access to credit stands at 34% women against 66% men](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/), and women's mobile money holding rose 24% over the same period. The account gap is narrowing while the credit gap widens.
+
+The funding aimed at those gaps shrank in the same window. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Mozambique slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Mozambican figure is given.
 
 ## Nigeria
 
@@ -64,6 +68,8 @@ Nothing moved on the identity gender gap, on rural access, or on the schools pro
 ## Uganda
 
 A tower company [remitted UGX 20.9 billion to the universal service fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), its statutory 2% of gross annual revenue, at a handover reported on 31 July. [The regulator's executive director stated at the same event that half of that 2% goes to the Consolidated Fund and only half is retained to finance the fund, and put cumulative programme reach at laboratories in more than 1,000 public secondary schools](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/). The period the payment covers was not published.
+
+Money went the other way as well. An implementing partner's account of 12 August reports that [work on connectivity and digital inclusion in Uganda slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. What is described as lost is the convening as much as the money. No replacement funder is named and no Ugandan figure is given.
 
 ## Zimbabwe
 

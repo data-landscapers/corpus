@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: include.divides
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GHA; GIN; GNB; KEN; LBR; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SLE; SOM; TZA; TGO; UGA; ZWE; XSA
-record: 2c37573868f2
+record: 1e2267aa03c7
 ---
 
 # Digital divides: progress report, 2025-08-01 to 2026-08-17
@@ -66,7 +66,7 @@ record: 2c37573868f2
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Satellite retail service affordability | Did not exist: no licence and no service | [Commercial service since 2026-03-16 at FCFA 33,000 a month plus tax, with a standard kit at FCFA 240,000; the monthly price is about 136% of monthly income per head against an international affordability threshold of 2%](https://www.agenceecofin.com/actualites-numerique/1703-136713-starlink-en-centrafrique-entre-couverture-nationale-et-defis-d-accessibilite) | Advanced |
 
@@ -107,7 +107,7 @@ record: 2c37573868f2
 
 ## Eritrea
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Active mobile connections (DataReportal) | 793,000 connections, 22.2% of population, 48.0% broadband (early 2025) | [859,000 connections, 23.7% of population, 49.3% broadband (late 2025), +8.2% year on year](https://datareportal.com/reports/digital-2025-eritrea) | Advanced, marginal |
 
@@ -135,6 +135,7 @@ record: 2c37573868f2
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Household survey of digital access | A 2019 regulator household survey, with a biennial repeat stated as intent | [No repeat round; 16.8% of households with internet access against 73.8% owning a television, 7.9% of people aged five and over owning a computer of any kind, and smartphone ownership at 58.4% urban against 28.1% rural](https://nca.org.gh/wp-content/uploads/2021/12/Household-Survey-on-ICT-in-Ghana-Abridged-NRF.pdf) | No change |
 | Fourth-generation coverage against usage | ***Baseline not held*** | [Fourth-generation networks reach more than 90% of the population while actual usage runs below 60%, with many users still on feature phones](https://africa.businessinsider.com/local/markets/ghana-strikes-ai-training-deal-with-chinese-multinational/) | ***Baseline not held*** |
 | Rural telephony and digital inclusion project | ***Baseline not held*** | [Continuing, with the fund restating it as top priority and taking an upgraded mast design](https://www.graphic.com.gh/news/general-news/ghana-news-improving-rural-telephony-project-remains-top-priority-gifec-ceo.html) | ***Baseline not held*** |
@@ -148,7 +149,7 @@ record: 2c37573868f2
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Internet penetration rate | 32.5% internet penetration (Jan 2025) | [32.5% internet penetration - no fresher measurement held within the window](https://datareportal.com/reports/digital-2025-guinea-bissau) | No change |
 
@@ -156,6 +157,7 @@ record: 2c37573868f2
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| American-funded digital inclusion and connectivity programming | In delivery, including work in remote counties | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | KenSafeSpace | Running on a EUR 1.3m EU grant | [Closed after 30 months, reporting 18,000 reached directly, 9.4m through campaigns and 133 defenders trained, with a 49-member coalition continuing unfunded](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Closed |
 | Smartphone against feature-phone connections | 48.7m smartphone and 29.6m feature-phone connections, December 2025 | [50.2m smartphone connections, above 50m for the first time, with feature phones down to 28.5m](https://nation.africa/kenya/business/smartphones-hit-50m-basic-handsets-ditched-5502650) | Advanced |
 | Enhancing Digital Access and Community Resilience | GBP 2.3m committed, activities starting late 2025 | [GBP 2.3m across eight arid-lands counties including refugee-hosting Garissa and Turkana, with no completion report held](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300139/summary) | No change |
@@ -191,13 +193,14 @@ record: 2c37573868f2
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Gender gap in access to credit | Women 31%, men 59% (2024) | [Women 34%, men 66% (2025)](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | Regressed |
 | Financial Inclusion Index | 36.4 points (2024) | [36.4 points (2025), classified moderate by the central bank; Cabo Delgado rose from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | No change |
 | Urban and rural information and communications technology penetration | ***Baseline not held*** | [About 80% in urban areas against about 20% in rural areas (2025-10)](https://techafricanews.com/2025/10/20/mozambique-to-install-60-new-mobile-stations-to-boost-rural-connectivity/) | ***Baseline not held*** |
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Regulator sector and market report series | Published; four editions on file, the latest reporting 2023 data | [Published as an irregular series - an earlier Telecommunication Sector Market Report in October 2021, the Telecommunication Sector Market Report 2021 in November 2022, the ICT Sector Market Report 2022 in December 2023 and the ICT Sector Market Report 2023 in November 2024 - built on licensees' audited financial statements and the regulator's own portal data](https://www.cran.na/download/cran-ict-market-sector-report-nov-2024/) | No change |
 | Schools and health facilities without adequate connectivity | 339 schools and 50 health centres lacking adequate connectivity (2025-06) | [No later official figure; a research council account records 65.4% of schools connected in 2023, 1,311 of 2,004](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030) | No change, no later figure published |
@@ -252,6 +255,7 @@ record: 2c37573868f2
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Digital for Girls and Women Uganda | Active; EUR 2.25m, 2021-2025 | [The record still reads active; the stated period has elapsed with no closure, extension or results record held](https://open.enabel.be/en/UGA/2662/p/digital-for-girls-and-women-uga.html) | No change |
 | Uganda Communications Universal Service and Access Fund | Operating; Q3 2025 outputs were 3,000 riders skilled, 4,900 tablets, laboratories in 70 secondary schools and 60 public access centres | [Operating; cumulative reach stated as laboratories in more than 1,000 public secondary schools](https://www.ucc.co.ug/atc-uganda-contributes-ugx-20-9bn-to-support-universal-access/) | No change |
 

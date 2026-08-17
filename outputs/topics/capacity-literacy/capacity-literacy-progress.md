@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: capacity.literacy
 places: BEN; BWA; BFA; CMR; CIV; COD; EGY; SWZ; GAB; GMB; GHA; KEN; LBR; NAM; RWA; STP; SEN; TZA; TGO; UGA; ZMB
-record: 62b370385baf
+record: 45c1faf0155e
 ---
 
 # Literacy: progress report, 2025-08-01 to 2026-08-17
@@ -105,7 +105,7 @@ record: 62b370385baf
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Information and Communication school syllabus | In implementation; the senior secondary Grade 12 syllabus was published in 2018 by the education ministry's national institute for educational development, for implementation in 2021 | [In implementation across Grades 8, 9 and 12 at least: Information and Communication is a compulsory, non-promotional but assessable subject for Grade 4-12, run across three themes - Digital Literacy, Media Literacy and Information Literacy; the Grade 12 syllabus was published in 2018 for 2021 implementation and the Grade 8 & 9 syllabus in December 2024 for phased implementation in 2025 and 2026; no standalone national digital-literacy strategy or programme exists outside this curriculum](http://www.nied.edu.na/assets/documents/02Syllabuses/05SeniorSecondary/IC/SS_IC_Syllabus_Gr12_Final_February_2019.pdf) | Advanced |
 
@@ -118,7 +118,7 @@ record: 62b370385baf
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | CST school-connectivity plan | ***Baseline not held*** | [Plan announced; no confirmed progress found in later sources](https://rstp.st/2025/01/25/cst-celebra-35-anos-apostando-na-expansao-da-rede-e-melhoria-da-conectividade-nas-escolas/) | No change |
 | National Digital Learning Programme (PNAD) — equipment procurement | ***Baseline not held*** | [Tender open, against grant SC220341, delivery preferred by second week Sep 2026; no contract value stated](https://www.telanon.info/destaques/2026/07/30/53795/unicef-aquisicao-de-tablets-computadores-e-acessorios-destinados-ao-reforco-das-tecnologias-no-sistema-educativo/) | ***Baseline not held*** |

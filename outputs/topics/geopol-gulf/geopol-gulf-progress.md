@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: geopol.gulf
 places: AGO; BWA; BFA; CAF; CIV; COD; SWZ; MLI; MRT; NAM; NER; SDN; UGA; ZWE
-record: 5b0eadc10bb8
+record: 7fb7a227d71b
 ---
 
 # Gulf/UAE activities: progress report, 2025-08-01 to 2026-08-17
@@ -12,8 +12,6 @@ record: 5b0eadc10bb8
 *14 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -35,7 +33,7 @@ record: 5b0eadc10bb8
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Digital finance and land-banking memorandum | Did not exist | [Signed, with no commitment figure, disbursement schedule, timetable or governance arrangement stated](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) | Advanced |
 
@@ -71,7 +69,7 @@ record: 5b0eadc10bb8
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Gulf-state digital or artificial-intelligence cooperation agreement | Did not exist | [Proposed only: a Bilateral Economic Commission with technology transfer, skills development, industrialisation and manufacturing in its remit; the UAE side raised investment protection and double-taxation agreements; no Gulf-state digital, data-centre or artificial-intelligence agreement is published at 2026-08-09](https://www.nipdb.com/post/namibia-and-the-uae-strengthen-trade-and-investment-ties-at-high-level-business-forum) | Advanced |
 
