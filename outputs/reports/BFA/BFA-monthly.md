@@ -1,16 +1,16 @@
 ---
 title: Burkina Faso — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: BFA
-ledger_rows: 44
+ledger_rows: 45
 not_held: 11
-record: 4d87304e61ab
+record: 1d5ab73f58ce
 ---
 
 # Burkina Faso: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -26,6 +26,8 @@ The legislature [voted a data-protection law and an organic law merging the broa
 At the Prime Minister's mid-year review of 25 July the digital ministry reported 46.7% physical execution of its 2026 objectives contract, the replacement public-administration network's architecture finalised with suppliers' bids under evaluation, and [satellite-operator admission negotiations advancing](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/); that operator remains unlicensed.
 
 The regulator ran a four-day workshop with territorial authorities from 29 June to 2 July, naming local opposition and misinformation as continuing brakes on tower rollout. At an address-protocol forum on 3 July the regulator and operators again called for a migration plan with a firm calendar; none is adopted.
+
+The month's one new external route is a proposal rather than a link. Burkinabè and Nigerian digital ministries [met in Ouagadougou on 12 August to explore connecting Nigeria's planned 90,000km open-access fibre backbone into Burkina Faso](https://www.wearetech.africa/fr/fils/actualites/tech/infrastructures-ia-et-talents-le-burkina-faso-et-le-nigeria-renforcent-leur-cooperation-numerique), alongside cooperation on artificial intelligence in local languages, digital public infrastructure, cybersecurity and skills, and [a stated aim of halving internet costs through that backbone](https://techafricanews.com/2026/08/13/nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50/). No instrument was signed and the Nigerian backbone is itself unbuilt.
 <!-- /narrative -->
 ### Data Storage
 
@@ -36,6 +38,8 @@ A wholly domestic commercial hosting provider [launched on 31 July](https://www.
 
 <!-- narrative: infrastructure--infra-cybersec -->
 The Council of Ministers of 30 July [adopted two decrees applying the 2024 information-systems security law](https://burkina24.com/wp-content/uploads/2026/07/CONSEIL-DES-MINISTRES-N%C2%B025-DU-30-JUILLET-2026.pdf): one identifying, classifying and setting obligations for critical-infrastructure bodies, expressly spanning energy, water, health, telecommunications and finance, and one fixing periodic security audits and vesting auditor accreditation in the national cyberspace control body. The law had asserted both duties since July 2024 with no machinery attached.
+
+The building meant to carry the supervision got its first progress statement in seven months. The digital transition minister [inspected the site on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/), where the technical managers put physical execution across that worksite and the first citizen service centre together at about 20%; the account names the build the Centre d'opération du Réseau Backbone national and gives it the same supervisory function the January account gave the supervision centre. The stated delivery month is October 2026.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -68,7 +72,7 @@ Automated traffic enforcement entered operation at midnight on 1 August after an
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-Citizen service centres stand at [two pilot sites under construction, with architectural studies under way for a further city, eight regional capitals and fifty rural communes](https://lefaso.net/spip.php?article144175), against a state and postal-service contract for twenty spaces over five years. No unit cost and no beneficiary count is published.
+Citizen service centres stand at [two pilot sites under construction, with architectural studies under way for a further city, eight regional capitals and fifty rural communes](https://lefaso.net/spip.php?article144175), against a state and postal-service contract for twenty spaces over five years. No unit cost and no beneficiary count is published. The first of the pilots [now has a name, Zama Tchey, and was inspected on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/); it is to bring postal, financial and digital services closer to the population.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -77,6 +81,8 @@ Citizen service centres stand at [two pilot sites under construction, with archi
 
 <!-- narrative: governance--gov-legislate -->
 The Council of Ministers of 23 July restricted recourse to the fast-track procurement route to sovereignty, strategic character, threats to public order or service continuity, and humanitarian consequences of insecurity — at the same sitting that used the route for a schools package of about FCFA 38bn.
+
+On the statute book already in force, a press-freedom organisation [presented a report on 14 August arguing that cybercrime laws in Burkina Faso, Mali, Niger and Guinea are being used against journalists](https://thenationonlineng.net/mfwa-sahel-juntas-weaponising-cybercrime-laws-to-silence-journalists/), and urged repeal of the vague public-order and human-dignity provisions it says carry the prosecutions. The report is an advocacy account; the base holds no case record for it.
 <!-- /narrative -->
 ### Data protection
 

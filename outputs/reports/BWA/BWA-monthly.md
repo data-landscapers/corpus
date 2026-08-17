@@ -1,16 +1,16 @@
 ---
 title: Botswana — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: BWA
-ledger_rows: 22
+ledger_rows: 23
 not_held: 11
-record: 772352240969
+record: 2b56264d9366
 ---
 
 # Botswana: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -30,6 +30,8 @@ Two instruments were made rather than reported on: a [national e-waste managemen
 
 <!-- narrative: infrastructure--infra-connect -->
 The [Plumtree-Bulawayo section of a regional fibre corridor went live on 6 July, carrying traffic at 800Gbps equipped on equipment rated over 10Tbps](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V), with a second phase to Livingstone due September 2026. The corridor is stated as a Botswana-Zimbabwe-Zambia route; the live section is inside Zimbabwe and no Botswana segment is dated.
+
+Domestic access moved on a much smaller scale. The backbone company [completed its 2025/26 local access projects at P43m, taking fibre to Moshupa, Ramotswa/Taung and Thamaga and connecting 191 customers — 68, 66 and 57 across the three — with 210 construction jobs](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/). The customer count is the operator's own and is a count of connections, not of premises passed.
 <!-- /narrative -->
 ### Data Storage
 

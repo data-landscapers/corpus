@@ -1,15 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: BWA
-ledger_rows: 89
+ledger_rows: 90
 not_held: 11
-record: 9b44a67f6608
+record: 34b6b970ad52
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (89 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (90 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -30,6 +30,7 @@ The budget is the clearest part. Digital development lines were cut for FY2026/2
 | System or instrument | Status | Milestone |
 |---|---|---|
 | BoFiNet internet gateway upgrade | [Implemented](https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news) | P100m spent; the Gaborone exchange point relocated |
+| BoFiNet Local Access Projects 2025/26 | [Implemented](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/) | Completed, reported 2026-08-14 |
 | BTC rural satellite connectivity programme | [Implemented](https://itweb.africa/article/btcs-new-reach-extends-to-61-villages-in-botswana/rxP3jqBEWB4MA2ye) | 61 villages connected, 105 further areas in progress |
 | MTC Namibia and BoFiNet cross-border fibre memorandum | [Planned](https://techafricanews.com/2026/02/18/mtc-namibia-and-bofinet-sign-mou-to-strengthen-cross-border-connectivity/) | Memorandum signed in Gaborone |
 | Powertel-Paratus fibre corridor | [Implemented, phase 1 only](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V) | Plumtree-Bulawayo section live and carrying traffic |

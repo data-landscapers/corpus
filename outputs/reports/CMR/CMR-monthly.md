@@ -1,16 +1,16 @@
 ---
 title: Cameroon — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: CMR
-ledger_rows: 30
+ledger_rows: 31
 not_held: 8
-record: 6bdef45c564d
+record: c3ad1b5a54ee
 ---
 
 # Cameroon: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -30,6 +30,11 @@ The data-protection authority's position was restated and did not change: [creat
 An account of 27 July put the national fibre backbone at [over 15,000 km](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), against about 12,000 km terrestrial on the 2024 reference year; the two figures are not reconciled to a single primary and may rest on different measurement bases.
 
 The same account records the [2024 customs circular on satellite terminals still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), with kits entering through indirect registration abroad and ten modems seized at one post in December 2025.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: infrastructure--infra-store -->
+The state operator spent the month selling capacity it has already built. It [showed the Zamengoe data centre to a second prospective tenant on 13 August](https://techafricanews.com/2026/08/14/camtel-showcases-zamengoe-data-center-to-plan-international-cameroon/), presenting hosting, storage and security services and the facility's Tier III certification, eight months after the central bank toured the same site with a view to hosting. The base holds no signed hosting contract from either visit.
 <!-- /narrative -->
 ### Cybersecurity
 
