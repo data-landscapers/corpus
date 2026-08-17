@@ -3,18 +3,18 @@ title: Africa — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: XAF
-ledger_rows: 69
+ledger_rows: 73
 not_held: 3
-record: e0cc7503a795
+record: 748c89815192
 ---
 
 # Africa: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 69 bodies, instruments and systems on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-17, 10 did not, 22 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 73 bodies, instruments and systems on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-17, 10 did not, 26 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 517 sources for this place in the window — 66 in the earlier half (2025-08 to 2026-01), 451 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 526 sources for this place in the window — 66 in the earlier half (2025-08 to 2026-01), 460 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -220,6 +220,12 @@ The layer's own use figures were restated rather than measured afresh: an indust
 |---|---|---|---|
 | AUDA-NEPAD island economies programme | Did not exist | [A country-owned framework for seven island states built around industrialisation, digitalisation, corridors and AI, in partnership with the Republic of Korea; the ministerial communique adopting it is not published](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
 
+### Regional collaboration
+
+| Body, instrument or system | At 2025-08-01 | At 2026-08-17 | Movement |
+|---|---|---|---|
+| Korea-Africa Economic Cooperation ministerial framework | Baseline not held | [Eighth ministerial set for Seoul under the theme of artificial intelligence and digital infrastructure, convened by the continental development bank with new co-financing expected](https://allafrica.com/stories/202608140360.html) | ***Baseline not held*** |
+
 ### Standards
 
 | Body, instrument or system | At 2025-08-01 | At 2026-08-17 | Movement |
@@ -256,6 +262,8 @@ The layer's own use figures were restated rather than measured afresh: an indust
 Coordination ran outward. The United States and the Commission [announced a Strategic Investment Working Group](https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-of-the-united-states-and-african-union-on-the-launch-of-a-strategic-investment-working-group) on 2026-01-28 to channel US private investment into AU-backed infrastructure including digital transformation, in place of aid; no membership, meeting or work programme is held. Germany and the Commission [held a strategic dialogue](https://au.int/en/pressrelease/strategic-dialogue-foreign-and-security-policy-between-african-union-commission-and) on 2026-07-15 naming AI governance and cybersecurity among its areas.
 
 Two programmes started inside the window. AUDA-NEPAD [launched a programme for the seven island economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) at Abidjan on 2026-07-24, built around industrialisation, digitalisation, corridors and AI with the Republic of Korea; the communique adopting it is not published. The Africa Data Leadership Initiative [convened six countries across three corridors](https://dial.global/adli-cohort-advances-integration/) with the AfCFTA Secretariat on the Digital Identity Annex.
+
+The Korean channel widened at the same time. The continental development bank [called the eighth Korea-Africa ministerial for Seoul on 8-11 September 2026, on the theme of artificial intelligence and digital infrastructure](https://allafrica.com/stories/202608140360.html), with new co-financing expected. That is an advisory rather than an outcome: what it produces is not yet on record, and no figure is stated in advance.
 <!-- /narrative -->
 
 ## Finance
@@ -274,7 +282,10 @@ Two programmes started inside the window. AUDA-NEPAD [launched a programme for t
 | Africa Finance Corporation digital bond | Baseline not held | [CHF 350m raised on a five-year digital bond listed, traded and settled on a regulated digital exchange — stated as the first by an African institution — priced at a 1.4925% coupon and arranged by two European banks; it is the issuer’s fourth and largest Swiss franc issuance](https://techafricanews.com/2026/08/13/africa-finance-corporation-breaks-new-ground-with-chf350m-digital-bond/) | ***Baseline not held*** |
 | Africa50 Infrastructure Acceleration Fund | ***Baseline not held*** | [Fourth close of about US$330m, joined by British International Investment's US$20m commitment alongside the African Development Bank, the International Finance Corporation and more than 20 African institutional investors; the fund, managed by Africa Infrastructure Investment Partners, directs capital to logistics, power, water and sanitation and social infrastructure as well as digital connectivity; the size and date of earlier closes are not established](https://von.gov.ng/british-international-investment-backs-africa50-with-20-million/) | ***Baseline not held*** |
 | BIASHARA 2063 project (AU Commission institutional systems) | ***Baseline not held*** | [A World Bank-financed programme building the Commission's own institutions and systems, procuring wireless infrastructure for its headquarters; no envelope, timetable or results framework held](https://au.int/en/bid/supply-and-installation-wireless-infrastructure-solution-african-union-commission-headquarters) | ***Baseline not held*** |
+| Capital raised by startups from a technology company's African accelerators | Baseline not held | [More than US$1bn raised cumulatively since 2017, with a stated survival rate above 90% against a 70-80% failure rate for the wider ecosystem (2026-08)](https://techeconomy.ng/google-backed-startups-hit-1bn-funding-milestone-with-90-survival-rate) | ***Baseline not held*** |
 | Development-finance and infrastructure-fund partnership | Baseline not held | [A British development finance institution and a continental infrastructure fund announced a strengthened partnership to scale infrastructure financing across Africa, connectivity among the named sectors; no commitment amount, fund vehicle, country allocation or timetable is published](https://techafricanews.com/2026/08/13/bii-and-africa50-strengthen-partnership-to-scale-infrastructure-financing-across-africa/) | ***Baseline not held*** |
+| Growth-capital investment in a pan-African messaging infrastructure provider | Baseline not held | [US$12m into a provider of application-to-person messaging — one-time passwords, transaction alerts and delivery updates — operating across 35 African countries through 15 operator partnerships](https://www.africaprivateequitynews.com/p/bluepeak-private-capital-fund-ii) | ***Baseline not held*** |
+| LINGUA Africa language-model grants | Baseline not held | [26 projects covering more than 50 African languages, dialects and sign languages across 47 countries, each awardee eligible for up to US$250,000 in cash and US$400,000 in compute credits; health, agriculture and justice are the stated use cases](https://iafrica.com/lingua-africa-funds-26-projects-covering-50-african-languages-tied-to-health-farming-and-justice-use-cases/) | ***Baseline not held*** |
 
 ### Domestic budget appropriations and expenditure
 
@@ -286,6 +297,10 @@ Two programmes started inside the window. AUDA-NEPAD [launched a programme for t
 The continental layer's financing did not move. The Africa AI Fund announced at Kigali in April 2025 [is still a US$60bn figure](https://restofworld.org/2026/africa-ai-sovereignty-big-tech/) with no capitalisation, governance or disbursement on the record.
 
 What raised money in August raised it on markets rather than from pledges. A continental infrastructure financier [issued a five-year digital bond of CHF 350m, listed, traded and settled on a regulated digital exchange and stated as the first by an African institution, at a 1.4925% coupon and arranged by two European banks](https://techafricanews.com/2026/08/13/africa-finance-corporation-breaks-new-ground-with-chf350m-digital-bond/). Alongside it, a British development finance institution and a continental infrastructure fund [announced a strengthened partnership to scale infrastructure financing, connectivity among the named sectors](https://techafricanews.com/2026/08/13/bii-and-africa50-strengthen-partnership-to-scale-infrastructure-financing-across-africa/) — with no commitment amount, fund vehicle, country allocation or timetable, so no finance record was built for it.
+
+Private money moved on narrower objects. A private-capital fund [put US$12m into a provider of application-to-person messaging operating across 35 African countries through 15 operator partnerships](https://www.africaprivateequitynews.com/p/bluepeak-private-capital-fund-ii) — one-time passwords, transaction alerts and delivery updates, which is to say the rails a great deal of the continent's payment estate actually runs on. Philanthropic and corporate money went to language: [26 projects covering more than 50 African languages, dialects and sign languages across 47 countries were selected on 14 August, each awardee eligible for up to US$250,000 in cash and US$400,000 in compute credits](https://iafrica.com/lingua-africa-funds-26-projects-covering-50-african-languages-tied-to-health-farming-and-justice-use-cases/), against health, agriculture and justice use cases. No single total is published for it, so the programme can only be bounded from its per-award ceiling.
+
+The accelerator layer published a claim rather than a commitment: a technology company said startups from its African programmes [had raised more than US$1bn cumulatively since 2017, at a survival rate it puts above 90%](https://techeconomy.ng/google-backed-startups-hit-1bn-funding-milestone-with-90-survival-rate). It is the company's own figure, with no cohort list, no definition of survival and no source for the failure rate it is set against.
 
 The Union's own finances bound what it can carry: members fund [about 22 to 25 per cent of its budget](https://www.theafricareport.com/419860/afdb-says-africa-must-fund-its-own-growth-as-aid-model-frays/) a decade after the 2016 Kigali Decision, and its institutional systems are built with World Bank money — a tender of 2026-07-27 for wireless infrastructure at its headquarters [runs under the BIASHARA 2063 project](https://au.int/en/bid/supply-and-installation-wireless-infrastructure-solution-african-union-commission-headquarters), whose envelope and results framework are not held. Against that, the AfCFTA Secretariat [puts the requirement for digital trade at more than 700 data centres](https://isds.bilaterals.org/africa-s-digital-trade-push) against about 220 on the continent, on its own estimate.
 <!-- /narrative -->
