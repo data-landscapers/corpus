@@ -3,9 +3,9 @@ title: Kenya — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: KEN
-ledger_rows: 104
+ledger_rows: 107
 not_held: 6
-record: 4a4bfb2da229
+record: 6885f7f69f4d
 ---
 
 # Kenya: monthly update, July 2026
@@ -77,6 +77,8 @@ Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://
 
 <!-- narrative: dpi--dpi-mis -->
 Health claims authorisation failed at the counter through the month. A teachers' union raised on 30 July that members were [turned away and billed in cash](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) when the platform failed, one charged Ksh8,500 on 19 July; the Authority answered that the Digital Health Agency runs the system on its behalf.
+
+An academic review published on 5 August put the child-protection case system on the other side of that ledger, [crediting it with cutting duplication and improving real-time coordination between agencies, with recorded cases rising from 20,235 in 2016/17 to 54,583 in 2021/22](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/). The most recent of those figures is four years old, and the system is American-funded — which places it in the same account as the withdrawal recorded under inclusion below.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -148,6 +150,8 @@ The e-commerce cooperation memorandum with China was [cited as the basis for dis
 
 <!-- narrative: inclusion--include-divides -->
 The KenSafeSpace digital-rights coalition [closed on 28 July](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) after 30 months on a EUR 1.3m grant, reporting 18,000 people reached directly and 133 defenders trained, with its 49 members continuing unfunded; a successor programme opened the same day training 150 justice-sector officials on digital evidence.
+
+The larger withdrawal is American. An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
 <!-- /narrative -->
 ### Access to services
 
@@ -171,6 +175,8 @@ The 117th digital hub was [commissioned in Baringo on 20 July](https://techafric
 
 <!-- narrative: finance--finance-new -->
 Two financings were signed. A [EUR270m facility across 21 obligors in eight jurisdictions was signed on 9 July, its committed portion of up to EUR170m including a local-currency tranche of up to EUR20m equivalent in shillings for fibre modernisation in Kenya](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270), with a further uncommitted EUR100m for future acquisitions and capital expenditure across the lender's sub-Saharan operations. Domestically the digital economy acceleration project [took KSh 4.3bn for the year, half the entire digital thematic, to equip more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262).
+
+On 4 August the development lender committed [US$24.2m across three Kenyan lenders under the first catalytic first-loss guarantee transactions anywhere in Africa](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first), backed by US$11m of concessional private-sector-window money and expected to catalyse about US$144.4m of local-currency lending to micro-enterprises. Only one of the three counterparties is a digital lender; the individual allocations are not disclosed, so what the structure buys in fintech terms cannot be read off the announcement.
 <!-- /narrative -->
 ### Domestic budget appropriations and expenditure
 

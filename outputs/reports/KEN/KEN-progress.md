@@ -3,18 +3,18 @@ title: Kenya — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: KEN
-ledger_rows: 181
+ledger_rows: 184
 not_held: 6
-record: 58888e6ea337
+record: a705ddfbdb0b
 ---
 
 # Kenya: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 181 systems and instruments on this place's ledger, 91 changed position between 2025-08-01 and 2026-08-17, 24 did not, 60 carry no stated baseline, and 6 are ***Not held*** at both ends.*
+*Of 184 systems and instruments on this place's ledger, 93 changed position between 2025-08-01 and 2026-08-17, 24 did not, 61 carry no stated baseline, and 6 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 479 sources for this place in the window — 71 in the earlier half (2025-08 to 2026-01), 408 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 487 sources for this place in the window — 71 in the earlier half (2025-08 to 2026-01), 416 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -142,6 +142,7 @@ Everything else accreted detail: a cloud region confirmed its host but has no la
 | Kenya Education Management Information System | Pilot due July 2025 and full go-live promised by September 2025, with a unique identifier for every child | [No confirmation of go-live, coverage or learner count on file as at 2026-08-05](https://www.biometricupdate.com/202505/kenya-to-harmonize-education-sector-data-through-maisha-namba-id-integration) | Stalled |
 | Social Health Authority claims platform | Operational from October 2024; the Auditor-General found the KSh 104.9bn procurement unbudgeted and non-competitive, with intellectual property ceded to the consortium | [Members turned away and billed in cash when authorisation fails, with the Authority saying the Digital Health Agency runs the system on its behalf](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) | Regressed |
 | Digital Health Act 2023 and Digital Health Agency | Binding statute in force establishing the Agency and an integrated digital health information system | [Same, with the 2025 regulations added, challenged in the High Court for inadequate public participation and operating under a Court of Appeal stay](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/) | No change |
+| Child Protection Information Management System | Baseline not held | [Recorded cases rising from 20,235 (2016/17) to 54,583 (2021/22), credited with cutting duplication and improving real-time case coordination across agencies](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/) | ***Baseline not held*** |
 | TaifaCare health management information system | ***Baseline not held*** | [Deployed in 1,500 public health facilities, against commitments of 2,000 by 2026, 4,000 by 2027 and 8,000 by 2028](https://www.citizen.org/wp-content/uploads/2026-0007QN-Kenya-Health-12.4.2025.pdf) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
@@ -329,6 +330,7 @@ The patron layer accreted announcements without delivery. Four bilateral channel
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| American-funded digital inclusion and connectivity programming | In delivery, including work in remote counties | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | KenSafeSpace | Running on a EUR 1.3m EU grant | [Closed after 30 months, reporting 18,000 reached directly, 9.4m through campaigns and 133 defenders trained, with a 49-member coalition continuing unfunded](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Closed |
 | Smartphone against feature-phone connections | 48.7m smartphone and 29.6m feature-phone connections, December 2025 | [50.2m smartphone connections, above 50m for the first time, with feature phones down to 28.5m](https://nation.africa/kenya/business/smartphones-hit-50m-basic-handsets-ditched-5502650) | Advanced |
 | Enhancing Digital Access and Community Resilience | GBP 2.3m committed, activities starting late 2025 | [GBP 2.3m across eight arid-lands counties including refugee-hosting Garissa and Turkana, with no completion report held](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300139/summary) | No change |
@@ -384,6 +386,7 @@ The measured positions moved modestly and in one direction. Smartphone connectio
 |---|---|---|---|
 | Atlas Tower Kenya debt facility (ATK Debt II) | Did not exist | [US$25m IFC debt inside a US$30m multi-currency debt package financing new macro towers and expanded mobile network capacity](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-903-SII-52548%22) | Advanced |
 | EBRD-Axian Telecom (Yas) senior loan financing, Kenya tranche | Did not exist | [EUR270m total facility across 21 obligors in 8 jurisdictions; committed facility up to EUR170m includes a local-currency tranche of up to EUR20m equivalent in Kenyan shillings funding fibre-infrastructure modernisation in Kenya, plus an uncommitted EUR100m facility for future acquisitions and capex across EBRD's sub-Saharan African countries of operation](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270) | Advanced |
+| IFC Catalytic First Loss Guarantee transactions | Did not exist | [US$24.2m committed across three Kenyan lenders with US$11m of IDA Private Sector Window backing, expected to catalyse about US$144.4m in local-currency lending to micro-enterprises](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first) | Advanced |
 | Kenya Digital Economy Acceleration Project | KSh 3.7bn in the FY2025/26 estimates on a US$390m commitment | [KSh 4.3bn appropriated for FY2026/27, half the entire digital thematic, equipping more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | Advanced |
 | Kenya Digital Economy Acceleration Project disbursement | ***Baseline not held*** | [US$33.93m disbursed of US$390m committed, in year three of an operation closing October 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P170941) | ***Baseline not held*** |
 
