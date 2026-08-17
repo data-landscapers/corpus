@@ -85,6 +85,8 @@ cd C:\CORPUS && python scripts/status-slugs.py <slug> <slug> <slug> ...
 
 It prints JSON: `slug`, `title`, `publisher`, `published`, `url`. A slug with `"url": null` resolves to nothing and yields no fact. Entity wikilinks (`[[mtn-nigeria]]`, `[[ndpc]]`) are not sources and do not resolve — do not pass them.
 
+**A dated title-form citation is a source slug, and you must pass it.** Some pages cite a source as `[[2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust]]` rather than as a short slug. That is the slug — pass it verbatim, quoted, and it resolves like any other. *(Added 2026-08-17, on the Cameroon run: an agent decided by inspection that these "are not slugs", did not try them, and dropped every fact resting on two sources the catalogue holds. Never judge resolvability by the shape of a citation — the resolver is the only test, and an untried slug is not an unresolved one.)*
+
 Set `origin: "wiki"`. Expect roughly 15–40 facts for a page this size; a 10KB page will yield fewer and a 50KB page more.
 
 ## If your input is the indicator cut (`{ISO3}-dpi-*.csv`)
