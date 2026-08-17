@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: CMR
 ledger_rows: 104
 not_held: 8
-record: e96c0ba1c9e8
+record: 44c80a8eb7fe
 ---
 
 # Cameroon: progress report, 2025-08-01 to 2026-08-17
@@ -277,7 +277,7 @@ Private technology moved where public technology did not. A [smart-port digital 
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| Bridging the digital gender divide project | EUR 3m committed, active | [EUR 3m committed, active; no dated progress, output or Cameroon-side figure recorded in the window](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202321883%22) | No change |
+| Bridging the digital gender divide project | EUR 3m committed, active | [EUR 3m committed, active; no dated progress, output or Cameroon-side figure recorded in the window](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202321883) | No change |
 | Rural connectivity component of the national connectivity project | ***Baseline not held*** | [FCFA 55bn; 328 unserved localities targeted by 2028 in two phases of 120 sites plus an optional 208, with works expected by 2026-12-30](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028) | ***Baseline not held*** |
 
 ### Access to services

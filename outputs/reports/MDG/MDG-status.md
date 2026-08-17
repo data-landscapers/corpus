@@ -1,15 +1,15 @@
 ---
 title: Madagascar — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: MDG
 ledger_rows: 59
 not_held: 8
-record: e3d83cad1679
+record: 9654b1cf7cab
 ---
 
 # Madagascar: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/MDG/ledger.csv` (59 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/MDG/ledger.csv` (59 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -259,7 +259,7 @@ The state recruits for capability it says it lacks: the digital ministry [receiv
 | Airtel Mobile Commerce guarantee (MIGA) | [Implemented](https://www.miga.org/project/airtel-mobile-commerce) | US$5,130,000 committed |
 | Digital Governance and Identification Management System project (World Bank) | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P169413) | US$143,000,000 committed |
 | Financial Inclusion Project (World Bank) | [Implemented](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/) | Committed, and restructured in October 2021 |
-| Governance digitisation project (African Development Bank) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-MG-KA0-013%22) | Committed |
+| Governance digitisation project (African Development Bank) | [Implemented](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MG-KA0-013) | Committed |
 | Telecommunications modernisation loan (China Eximbank) | [Implemented](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf) | US$54,708,617 committed on a concessional loan of RMB 337.9m |
 | WeLight solar mini-grid and rural electrification (Norfund) | [Implemented](https://www.norfund.no/major-funding-round-secured-for-welight-in-madagascar/) | US$17,067,987 committed |
 

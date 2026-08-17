@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: COM
 ledger_rows: 117
 not_held: 35
-record: f4045f666eef
+record: 447c26500413
 ---
 
 # Comoros: progress report, 2025-08-01 to 2026-08-17
@@ -242,10 +242,10 @@ The inclusion figures arrived during the window and they are not encouraging. El
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| Islamic bank project for the digitalisation of the economy | Nothing held | [A grant of US$400,000 and a loan of US$6,500,000, US$6,900,000 in total, with nothing disbursed as at 2026-06-24 against a planned start of 2025-09-23](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46025-COM1026%22) | Advanced |
+| Islamic bank project for the digitalisation of the economy | Nothing held | [A grant of US$400,000 and a loan of US$6,500,000, US$6,900,000 in total, with nothing disbursed as at 2026-06-24 against a planned start of 2025-09-23](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-COM1026) | Advanced |
 | China Eximbank concessional loan for network modernisation | CNY 567,000,000 at thirty-year maturity with a five-year grace period and 1 per cent interest, funding a US$81m supplier contract for fibre extension to fifty-seven sites | [Unchanged - no site count delivered, no completion status and no repayment position is held at either end](https://www.aiddata.org/data/global-chinese-development-finance-dataset-version-3) | No change |
 | Connectivity pledge across three markets | US$82,000,000 pledged across three countries including Comoros, with no country split stated | [Unchanged - no country split, interim milestone or progress report is on file](https://techafricanews.com/2025/04/01/axian-telecom-invests-82m-to-expand-4g-in-madagascar-comoros-tanzania/) | No change |
-| Continental bank project to support digitisation of the economy | Launched as a four-year programme | [Unchanged; the aid-transparency record puts US$4,511,079 disbursed of a US$5,985,000 commitment, retrieved 2026-06-24, and no delivery milestone or component completion has been published in the sixteen months since launch](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-KM-G00-001%22) | No change |
+| Continental bank project to support digitisation of the economy | Launched as a four-year programme | [Unchanged; the aid-transparency record puts US$4,511,079 disbursed of a US$5,985,000 commitment, retrieved 2026-06-24, and no delivery milestone or component completion has been published in the sixteen months since launch](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-KM-G00-001) | No change |
 | Loan to the second mobile operator | EUR 25,000,000 agreed, with deployment stated to begin in 2025 for fifth-generation, fibre to the home and to the office, and inter-island connectivity | [No drawdown, spend, site count or coverage outcome is held, and the group's 2026 restatement adds no delivery figure](https://techafricanews.com/2025/06/20/axian-telecoms-yas-comoros-secures-e25m-loan-to-boost-digital-transformation/) | No change |
 
 ### MoUs and other agreements

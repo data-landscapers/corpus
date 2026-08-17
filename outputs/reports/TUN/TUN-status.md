@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: TUN
 ledger_rows: 62
 not_held: 8
-record: 676dbed43f10
+record: e6d47c8de068
 ---
 
 # Tunisia: status report
@@ -265,7 +265,7 @@ On affordability the regulator, reporting international union data, [puts the di
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| AfDB economic and social reforms grant | [Discontinued](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-G-TN-I00-ZZZ-002%22) | Recorded in the bank's own reporting |
+| AfDB economic and social reforms grant | [Discontinued](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-G-TN-I00-ZZZ-002) | Recorded in the bank's own reporting |
 | EBRD loan to Tunisie Telecom | [Implemented](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) | Publicly announced 16 January 2026, after board approval on 24 July 2024 |
 | EU CEF Digital grant for the Tunisian cable segment | [Implemented](https://digital-strategy.ec.europa.eu/en/news/viatunisia) | Project period closed 31 August 2025 |
 

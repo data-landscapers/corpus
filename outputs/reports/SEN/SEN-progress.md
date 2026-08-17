@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: SEN
 ledger_rows: 105
 not_held: 12
-record: 3181492c4ba8
+record: 7cb0b3ff3a64
 ---
 
 # Senegal: progress report, 2025-08-01 to 2026-08-17
@@ -293,7 +293,7 @@ The one closure in the section is instructive: a digital financial-education pro
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| BOAD digital transformation of public services loan | Did not exist | [XOF 30.9bn (US$51.5m) BOAD loan to accelerate digital transformation of Senegal's public services, 2026-2028; no named agency or specific systems stated](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46021-2026028%22) | Advanced |
+| BOAD digital transformation of public services loan | Did not exist | [XOF 30.9bn (US$51.5m) BOAD loan to accelerate digital transformation of Senegal's public services, 2026-2028; no named agency or specific systems stated](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026028) | Advanced |
 | Digital economy acceleration project | US$150m committed at board approval, scope as approved | [FCFA 95.05bn stated as committed to connectivity, digital public services and regulatory reform, with scope now adding integrated public financial management, cybersecurity capability, a sovereign government cloud and AI use cases](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing) | Advanced |
 | Foundation grant to the technology strategy | Did not exist | [US$10m committed toward a universal digital identity, an AI hub and a delivery unit](https://www.biometricupdate.com/202509/gates-foundation-fuels-senegals-digital-transformation-with-10m) | Advanced |
 | Pre-seed and seed startup fund | Did not exist | [US$50m announced for pre-seed and seed startups, with public capital framed as crowding in private investors](https://techcabal.com/2026/07/07/francophone-weekly-by-techcabal-030/) | Advanced |

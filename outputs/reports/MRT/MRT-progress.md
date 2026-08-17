@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: MRT
 ledger_rows: 58
 not_held: 4
-record: a0b48789b7ad
+record: c9276335764c
 ---
 
 # Mauritania: progress report, 2025-08-01 to 2026-08-17
@@ -245,7 +245,7 @@ Training changed hands rather than scale: the predecessor programme closed in 20
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | WARDIP digital transformation programme | Under implementation, with the national PKI procurement and cloud build outstanding | [The national cloud launched under it; the PKI procurement remains unawarded](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |
-| Digital-Y German cooperation project | Running from January 2025 at EUR 4m | [Running; supporting the standards framework, with no output or completion report published](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202322394%22) | No change |
+| Digital-Y German cooperation project | Running from January 2025 at EUR 4m | [Running; supporting the standards framework, with no output or completion report published](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202322394) | No change |
 | EIB COVID-19 resilience submarine cable financing | Committed | [Committed; no completion or outcome report is held](https://www.eib.org/en/projects/all/20190635) | No change |
 | EIB financing for the EllaLink connection | Committed, with construction under way | [Committed; the cable is not yet commissioned](https://ami.mr/fr/archives/276234) | No change |
 | World Bank private sector, digital and human capital reform financing | Disbursed | [Disbursed; no third operation is on record](https://documents1.worldbank.org/curated/en/481901627264822850/txt/Mauritania-Second-Private-Sector-Digital-and-Human-Capital-Reform-Development-Policy-Financing.txt) | No change |

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: CMR
 ledger_rows: 92
 not_held: 8
-record: 805028945811
+record: 85d4ba41169b
 ---
 
 # Cameroon: status report
@@ -278,7 +278,7 @@ The sector is large in revenue and small in venture. Regulator-reported revenue 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Bridging the digital gender divide project | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202321883%22) | Recorded active, EUR 3m committed for 2023 to 2026 |
+| Bridging the digital gender divide project | [Implemented](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202321883) | Recorded active, EUR 3m committed for 2023 to 2026 |
 | Rural connectivity component of the national connectivity project | [In development](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028) | A limited national tender opened for the rural component |
 
 ### Literacy

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: TUN
 ledger_rows: 67
 not_held: 8
-record: 2d16774dd3f6
+record: 9db20a8c1517
 ---
 
 # Tunisia: progress report, 2025-08-01 to 2026-08-17
@@ -247,7 +247,7 @@ Skills acquired a statutory home. Artificial intelligence, data analysis, progra
 |---|---|---|---|
 | EBRD loan to Tunisie Telecom | Approved by the board and not announced; no drawdown on record (2025-08) | [Announced at up to EUR 190m in four tranches with a first committed tranche of EUR 50m, funding a 4G-to-5G upgrade, fibre to 200,000 households, backbone and core modernisation, energy investment and the operator's connection to the submarine cable, with a complementary EUR 11m European Union grant and a first-loss guarantee (2026-01)](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) | Advanced |
 | EU CEF Digital grant for the Tunisian cable segment | In implementation (2025-08) | [Closed; EUR 9.6m against a EUR 32m project budget, exactly 30%, buying the Bizerte landing station and the roughly 1,050 km Tunisian segment that Orange owns (2025-08)](https://digital-strategy.ec.europa.eu/en/news/viatunisia) | Advanced |
-| AfDB economic and social reforms grant | Closed (2025-08) | [Closed; no evaluation or successor operation is held (2026-08)](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-G-TN-I00-ZZZ-002%22) | No change |
+| AfDB economic and social reforms grant | Closed (2025-08) | [Closed; no evaluation or successor operation is held (2026-08)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-G-TN-I00-ZZZ-002) | No change |
 
 <!-- narrative: finance -->
 The period's financing movement is disclosure rather than money. The [EBRD facility of up to EUR 190m](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) had been board-approved in July 2024 and unannounced at the start of the window; its announcement in January 2026 is what made [its four tranches, its components and its EUR 11m companion grant](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) citable. The [European grant that built the cable landing closed in August 2025](https://digital-strategy.ec.europa.eu/en/news/viatunisia) at EUR 9.6m of a EUR 32m project.

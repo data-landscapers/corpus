@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: MAR
 ledger_rows: 125
 not_held: 17
-record: 66c5fcc63518
+record: cf57d1271f71
 ---
 
 # Morocco: progress report, 2025-08-01 to 2026-08-17
@@ -314,8 +314,8 @@ The measured position added inside the window is an operator's own: 6,000 intern
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Digital Transformation Acceleration Program | Did not exist | [US$250m over five years (MAD 2.34bn at the reporting outlet's 2026-07-22 conversion); conditions for entry into force outstanding](https://www.worldbank.org/en/news/press-release/2026/06/12/two-new-programs-to-advance-morocco-s-digital-transformation-and-climate-resilience) | Advanced |
-| Insurance technology and inclusion programme | Did not exist | [XDR 371,714.70 committed (US$508,015 at the 2026 provisional annual average rate), 2026-2028, executed by the insurance supervisor; total cost US$680,000 of which US$510,000 is grant and US$170,000 counterpart](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-MA-H00-029%22) | Advanced |
-| Merchant digital-payment acquisition fund grant | Did not exist | [XDR 370,023.73 committed (US$505,704 at the 2026 provisional annual average rate), 2026-2028, through a continental digital financial inclusion facility](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-MA-H00-032%22) | Advanced |
+| Insurance technology and inclusion programme | Did not exist | [XDR 371,714.70 committed (US$508,015 at the 2026 provisional annual average rate), 2026-2028, executed by the insurance supervisor; total cost US$680,000 of which US$510,000 is grant and US$170,000 counterpart](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MA-H00-029) | Advanced |
+| Merchant digital-payment acquisition fund grant | Did not exist | [XDR 370,023.73 committed (US$505,704 at the 2026 provisional annual average rate), 2026-2028, through a continental digital financial inclusion facility](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MA-H00-032) | Advanced |
 | First Financial and Digital Inclusion Development Policy Financing | EUR 459.8m (about US$500m at the 2020 conversion) development policy loan | [Unchanged; no second operation in the series on file](https://documents1.worldbank.org/curated/en/699661593136885001/txt/Morocco-First-Financial-and-Digital-Inclusion-Development-Policy-Financing.txt) | No change |
 | Second Identity and Targeting for Social Protection Project | US$70m approved 2024-12-04; the two registries had enrolled about half the population | [Unchanged; no disbursement or delivery reported in the window](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems) | No change |
 | Corporate venture fund | ***Baseline not held*** | [US$250m fund writing cheques of up to US$5m into regional start-ups](https://techtrends.africa/the-rise-of-african-corporate-venture-capital/) | ***Baseline not held*** |

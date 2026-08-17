@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: STP
 ledger_rows: 48
 not_held: 13
-record: 410dff72e905
+record: 7db29392ac5f
 ---
 
 # Sao Tome and Principe: progress report, 2025-08-01 to 2026-08-17
@@ -162,7 +162,7 @@ CST's school-connectivity plan, announced right at the window's opening in Janua
 |---|---|---|---|
 | UNICEF PNAD equipment procurement (grant SC220341) | Did not exist | [Public tender open for 80 tablets + 90 desktops against grant SC220341; no contract value stated](https://www.telanon.info/destaques/2026/07/30/53795/unicef-aquisicao-de-tablets-computadores-e-acessorios-destinados-ao-reforco-das-tecnologias-no-sistema-educativo/) | Advanced |
 | World Bank 'Digital Sao Tome and Principe' project (P177158) | Board-approved, US$21.8m (IDA grant + GIF) committed | [US$7.64m disbursed (36%), Moderately Satisfactory, System Integrator (Ooru) engaged](https://projects.worldbank.org/en/projects-operations/project-detail/P177158) | Advanced |
-| AfDB Payment System Infrastructure and Financial Inclusion Project (PISPIF) | ***Baseline not held*** | [Committed 2017, disbursed US$4,268,636 to date, end year 2027 per IATI record](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-ST-H00-002%22) | No change |
+| AfDB Payment System Infrastructure and Financial Inclusion Project (PISPIF) | ***Baseline not held*** | [Committed 2017, disbursed US$4,268,636 to date, end year 2027 per IATI record](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-ST-H00-002) | No change |
 
 <!-- narrative: finance -->
 The World Bank's Digital São Tomé and Príncipe project moved from board-approved with no disbursement reported to [36% disbursed by September 2025](https://projects.worldbank.org/en/projects-operations/project-detail/P177158) — the period's clearest financing advance, and the source underwriting most of the digital-identity and registry movement recorded elsewhere in this report. The AfDB payments-infrastructure grant, committed in 2017, predates the window and has not changed on the IATI record held. UNICEF's PNAD tender carries no baseline, entering the record only when it opened within the window.

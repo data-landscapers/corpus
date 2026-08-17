@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: COD
 ledger_rows: 109
 not_held: 13
-record: 3ac2276e6777
+record: 607175b07ced
 ---
 
 # DR Congo: progress report, 2025-08-01 to 2026-08-17
@@ -306,7 +306,7 @@ Skills targets appeared where none had been stated. The national digital plan no
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| Eastcastle Debt II (IFC debt facility) | Did not exist | [US$34.35m IFC debt financing proposed for Eastcastle Infrastructure DRC to expand shared telecom tower infrastructure and mobile broadband capacity](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-903-SII-52276%22) | Advanced |
+| Eastcastle Debt II (IFC debt facility) | Did not exist | [US$34.35m IFC debt financing proposed for Eastcastle Infrastructure DRC to expand shared telecom tower infrastructure and mobile broadband capacity](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-903-SII-52276) | Advanced |
 | Tower operator investment convention | Did not exist | [More than US$100m committed to extend connectivity in Kinshasa and the provinces, with more than 4,000 jobs stated as already created](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios) | Advanced |
 | Tower platform senior facility | A US$30m commitment in 2023 supporting tower purchase and development, with the network at 1,072 active towers | [US$32.8m inside a US$179m upsized facility funding 728 new passive towers to take the network to 1,800, 70% of them rural, plus solar and battery upgrades](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/) | Advanced |
 

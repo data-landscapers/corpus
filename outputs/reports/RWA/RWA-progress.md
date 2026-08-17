@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: RWA
 ledger_rows: 119
 not_held: 9
-record: c400734dc1aa
+record: d23ddfea055f
 ---
 
 # Rwanda: progress report, 2025-08-01 to 2026-08-17
@@ -120,7 +120,7 @@ Everything else accreted detail on a position already held. The 812-school gap i
 | Birth-registration completeness | 90.3% in 2024 | [92.9% in 2025 on 356,838 recorded births](https://www.ktpress.rw/2026/04/rwanda-is-counting-everything-and-changing-in-the-process/) | Advanced |
 | Business registration platform | Not fully online | [Incorporation in 24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/) | Advanced |
 | District land correction exercise | Not begun | [More than 28,000 titles from over 35,000 parcels across a 28,527-hectare target, with about 4,700 parcels left untitled and handed to the district](https://realrwanda.rw/en/kayonza-land-correction-drive-issues-over-28000-titles-cuts-boundary-wrangles) | Closed |
-| Land administration twinning | Twinning on land administration, surveying and land-use planning | [Unchanged; the activity states no amount and no result](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-15037%22) | No change |
+| Land administration twinning | Twinning on land administration, surveying and land-use planning | [Unchanged; the activity states no amount and no result](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-15037) | No change |
 | Digitised civil registration and vital statistics system | Baseline not held | [Civil registration digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services; registration moved from a centralised, travel-dependent process to a decentralised one with thousands of registration points, and about 85% of public services were digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure) | ***Baseline not held*** |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)

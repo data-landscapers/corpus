@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: MRT
 ledger_rows: 57
 not_held: 4
-record: 1aecdfba090b
+record: ad2c8546970c
 ---
 
 # Mauritania: status report
@@ -266,7 +266,7 @@ Access is measured by reference studies, cited and not absorbed here. [DataRepor
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Digital-Y German cooperation project | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202322394%22) | Supporting the public digital service standards framework |
+| Digital-Y German cooperation project | [Implemented](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202322394) | Supporting the public digital service standards framework |
 | EIB COVID-19 resilience submarine cable financing | [Implemented](https://www.eib.org/en/projects/all/20190635) | Committed in 2020 |
 | EIB financing for the EllaLink connection | [Implemented](https://ami.mr/fr/archives/276234) | More than EUR 43.5m committed by the EIB and the EU |
 | WARDIP digital transformation programme | [Implemented](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Financed the national cloud launched in June 2026 |

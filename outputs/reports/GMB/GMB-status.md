@@ -1,15 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: GMB
 ledger_rows: 62
 not_held: 13
-record: 54e375d06c06
+record: 7a2537220353
 ---
 
 # Gambia: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (62 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (62 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -287,8 +287,8 @@ On access itself there is no domestic measure. DataReportal's commercial compila
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| AfDB digital government project | [Planned](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-GM-GB0-002%22) | Carried in the bank's own reporting as a pipeline operation |
-| Gates Foundation payment system pilot | [Discontinued](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DAC-1601-INV-064577%22) | Recorded as closed in the funder's own reporting |
+| AfDB digital government project | [Planned](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-GM-GB0-002) | Carried in the bank's own reporting as a pipeline operation |
+| Gates Foundation payment system pilot | [Discontinued](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DAC-1601-INV-064577) | Recorded as closed in the funder's own reporting |
 | WARDIP national allocation | [Implemented](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | US$50m equivalent grant approved, 7 November 2023 |
 
 ### Domestic budget appropriations and expenditure

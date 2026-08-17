@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: STP
 ledger_rows: 48
 not_held: 13
-record: 43fcae21f34d
+record: b085b88bc715
 ---
 
 # Sao Tome and Principe: status report
@@ -233,7 +233,7 @@ CST's January 2025 plan to extend fibre and mobile connectivity to schools, larg
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| AfDB Payment System Infrastructure and Financial Inclusion Project (PISPIF) | [In development, active (per IATI record)](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-ST-H00-002%22) | AfDB commits US$3,335,999 (XDR 2,400,000) grant |
+| AfDB Payment System Infrastructure and Financial Inclusion Project (PISPIF) | [In development, active (per IATI record)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-ST-H00-002) | AfDB commits US$3,335,999 (XDR 2,400,000) grant |
 | UNICEF PNAD equipment procurement (grant SC220341) | [Planned, tender open](https://www.telanon.info/destaques/2026/07/30/53795/unicef-aquisicao-de-tablets-computadores-e-acessorios-destinados-ao-reforco-das-tecnologias-no-sistema-educativo/) | RFQ_03/2026 open, closes 12 Aug 2026 |
 | World Bank 'Digital Sao Tome and Principe' project (P177158) | [In development, 36% disbursed](https://projects.worldbank.org/en/projects-operations/project-detail/P177158) | US$7.64m disbursed (36%) as of 11 Sep 2025, rated Moderately Satisfactory |
 

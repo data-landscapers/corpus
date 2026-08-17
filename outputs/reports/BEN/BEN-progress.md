@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: BEN
 ledger_rows: 88
 not_held: 4
-record: e83104f4b944
+record: 9f116f9c9350
 ---
 
 # Benin: progress report, 2025-08-01 to 2026-08-17
@@ -369,7 +369,7 @@ The delivery rows are all arrivals: a national tele-teaching platform authorised
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| MEF digitalisation support project (BOAD) | Did not exist | [XOF 19.5bn (US$32.5m) BOAD loan modernising the finance ministry's data centre, La Poste du Benin's information system and the DGFD's SGIFD/SIRH systems, in implementation (2026-05)](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46021-2026008%22) | Advanced |
+| MEF digitalisation support project (BOAD) | Did not exist | [XOF 19.5bn (US$32.5m) BOAD loan modernising the finance ministry's data centre, La Poste du Benin's information system and the DGFD's SGIFD/SIRH systems, in implementation (2026-05)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026008) | Advanced |
 | Canadian financing for the digital transformation of women-led businesses | Baseline not held | [CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa; no implementing partner, start date or duration is named](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html) | ***Baseline not held*** |
 
 ### Domestic budget appropriations and expenditure

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: TCD
 ledger_rows: 126
 not_held: 42
-record: e3a8e5dc7a71
+record: cfa63b13d84c
 ---
 
 # Chad: progress report, 2025-08-01 to 2026-08-17
@@ -271,13 +271,13 @@ Inclusion is where the smallest numbers do the most work. The francophone civil-
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| Microfinance development support for women and youth entrepreneurship | Special drawing rights of 10,173,150.53 committed across two transactions, with no disbursement on record | [Special drawing rights of 2,062,292.94 disbursed across fourteen transactions between 2025-09-15 and 2026-06-15, the first component being to develop digital finance](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-TD-I00-012%22) | Advanced |
+| Microfinance development support for women and youth entrepreneurship | Special drawing rights of 10,173,150.53 committed across two transactions, with no disbursement on record | [Special drawing rights of 2,062,292.94 disbursed across fourteen transactions between 2025-09-15 and 2026-06-15, the first component being to develop digital finance](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-I00-012) | Advanced |
 | Projet d'appui a la transformation numerique | Committed only - a special drawing rights grant of 69.5m, about US$92.2m, inside a US$120m total, with no delivery on record | [US$12,220,932 disbursed on the project portal, retrieved 2026-06-24; three thousand terminals delivered, with digital and financial literacy programmes, public digital centres and rural connectivity announced as follow-on and about 500 unserved localities named as the outstanding challenge](https://documents.worldbank.org/curated/en/099090624105035738) | Advanced |
 | China Eximbank concessional loan for the state connectivity programme | RMB 1,316,000,000, about FCFA 111.4bn, at twenty-year maturity with a five-year grace period and 2 per cent interest, collateralised on an escrow account | [Unchanged; no new source in the window](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/) | No change |
 | Chinese government grant for the connectivity programme | RMB 170,000,000 granted | [Unchanged; no new source in the window](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/) | No change |
 | Digitalisation of revenue administrations project | US$35m committed and closed | [Unchanged](https://projects.worldbank.org/en/projects-operations/project-detail/P164529) | No change |
 | Statistical development project | US$12m committed and closed | [Unchanged](https://projects.worldbank.org/en/projects-operations/project-detail/P159434) | No change |
-| Programme to improve the business climate and modernise public administration | Did not exist in the base | [Special drawing rights of 9,520,000 committed, 90 per cent of a programme of about FCFA 8bn, with a government in-kind contribution and a closing date of 31 January 2029; the scope covers electronic tax, standardised electronic invoicing and customs system upgrades, tax teleservice centres, terminal deployment and one-stop-shop interconnection](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-TD-K00-019%22) | ***Baseline not held*** |
+| Programme to improve the business climate and modernise public administration | Did not exist in the base | [Special drawing rights of 9,520,000 committed, 90 per cent of a programme of about FCFA 8bn, with a government in-kind contribution and a closing date of 31 January 2029; the scope covers electronic tax, standardised electronic invoicing and customs system upgrades, tax teleservice centres, terminal deployment and one-stop-shop interconnection](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019) | ***Baseline not held*** |
 
 ### MoUs and other agreements
 

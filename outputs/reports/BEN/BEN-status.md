@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: BEN
 ledger_rows: 77
 not_held: 4
-record: fbf7aa5fb8ff
+record: 4c8230648df9
 ---
 
 # Benin: status report
@@ -334,7 +334,7 @@ On access and skills, the state is building the delivery layer: a national tele-
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Canadian financing for the digital transformation of women-led businesses | [Planned](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html) | Announced during a ministerial visit, 4-6 August 2026 |
-| MEF digitalisation support project (BOAD) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46021-2026008%22) | Committed 2026-05-19, implementation under way |
+| MEF digitalisation support project (BOAD) | [Implemented](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026008) | Committed 2026-05-19, implementation under way |
 
 ### Domestic budget appropriations and expenditure
 

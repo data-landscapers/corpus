@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: TZA
 ledger_rows: 122
 not_held: 13
-record: 9e0c74100844
+record: 311fe7df9471
 ---
 
 # Tanzania: progress report, 2025-08-01 to 2026-08-17
@@ -260,7 +260,7 @@ The sector's own funding went the other way, from [six startups raising US$41,25
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| Digital transformation centre for rights and gender equity | EUR 3,000,000 committed, active | [EUR 3,000,000 committed, active](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202222214%22) | No change |
+| Digital transformation centre for rights and gender equity | EUR 3,000,000 committed, active | [EUR 3,000,000 committed, active](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202222214) | No change |
 
 ### Access to services
 

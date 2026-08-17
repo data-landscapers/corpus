@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: ETH
 ledger_rows: 88
 not_held: 4
-record: fcd0a33ac151
+record: 02501064cf86
 ---
 
 # Ethiopia: progress report, 2025-08-01 to 2026-08-17
@@ -338,7 +338,7 @@ Neither headline measurement was re-taken inside the window: [mobile connections
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| Digitally enabled pluralistic extension services programme (FAO) | Did not exist | [US$300,000 FAO grant (2026-2028) converting a catalytic start-up initiative into a long-term programme delivering agricultural extension services through digital channels](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-41301-763888%22) | Advanced |
+| Digitally enabled pluralistic extension services programme (FAO) | Did not exist | [US$300,000 FAO grant (2026-2028) converting a catalytic start-up initiative into a long-term programme delivering agricultural extension services through digital channels](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888) | Advanced |
 | World Bank Digital ID for Inclusion Project | Running (2023-12) | [US$350m backing registration of refugees and displaced people](https://projects.worldbank.org/en/projects-operations/project-detail/P179040) | No change |
 
 ### Domestic budget appropriations and expenditure

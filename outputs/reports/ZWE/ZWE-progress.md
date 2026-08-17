@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: ZWE
 ledger_rows: 172
 not_held: 9
-record: ea8f490fa47f
+record: 9889979b0a27
 ---
 
 # Zimbabwe: progress report, 2025-08-01 to 2026-08-17
@@ -368,7 +368,7 @@ One bilateral position closed. Zimbabwe withdrew from health-funding talks with 
 |---|---|---|---|
 | Artificial-intelligence grand challenge | Did not exist | [Launched 2026-08-04 across agriculture, health, education, financial services, mining and public administration and stated as a recurring programme; POTRAZ reported 738 applications received and 68 projects selected for an August 2026 boot camp in Nyanga, drawn from healthcare, agriculture, public service delivery and financial technology, narrowed to 18 candidates for the next stage; no award or budget published](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) | Advanced |
 | Coding in the secondary curriculum | Did not exist | [The regulator and the innovation hubs directed to scale literacy and embed coding from secondary level upward; no curriculum, date or budget published](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
-| Youth digital skills programme (donor-funded) | SEK 36,000,000 committed in 2023, disbursement recorded nil | [Same; the published record shows nothing disbursed and an end year of 2027](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-15406%22) | No change |
+| Youth digital skills programme (donor-funded) | SEK 36,000,000 committed in 2023, disbursement recorded nil | [Same; the published record shows nothing disbursed and an end year of 2027](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-15406) | No change |
 | Digital skills ambassadors programme | ***Baseline not held*** | [Named as a running digital-inclusion initiative; no participant count, budget or coverage published](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) | ***Baseline not held*** |
 | Digital skills programme targeting 1.5 million people | ***Baseline not held*** | [A target of 1.5m people in coding, artificial-intelligence and data skills; no enrolment or completion figure published](https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/) | ***Baseline not held*** |
 | Government cybersecurity youth training programme | ***Baseline not held*** | [More than 3,000 youths trained at 2026-04-07; no figure published since](https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/) | ***Baseline not held*** |

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: TGO
 ledger_rows: 115
 not_held: 39
-record: a712ccfd8b2e
+record: 830828208fb7
 ---
 
 # Togo: progress report, 2025-08-01 to 2026-08-17
@@ -248,9 +248,9 @@ Inclusion moved in the market and not in the state's own programmes. A Togolese 
 |---|---|---|---|
 | Regional unique identification programme, Togolese component | Active, with US$72,000,000 for Togo inside a second-phase envelope of US$273,000,000 | [US$20,000,000 of additional financing signed under the unity pillar of the package](https://www.togofirst.com/en/investments/1707-19593-togo-signs-cfa257-4-billion-in-financing-agreements-for-vision-2040) | Advanced |
 | Togo Digital Acceleration Project | Approved and active with US$100,000,000 committed, targeting about 8,000 public institutions connected and more than a million people with new or improved access | [US$13,992,856 disbursed, 14.0 per cent, against a closing date of 31 January 2030](https://projects.worldbank.org/en/projects-operations/project-detail/P179138) | Advanced |
-| Bilateral digital transformation programme | Active, with EUR 37,100,000 committed | [Unchanged](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202122398%22) | No change |
-| Electronic-governance support to the financial administration, first phase | Active, with EUR 20,000,000 committed | [Unchanged](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202168912%22) | No change |
-| Electronic-governance support to the financial administration, second phase | Active, with EUR 15,000,000 committed | [Unchanged](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202468155%22) | No change |
+| Bilateral digital transformation programme | Active, with EUR 37,100,000 committed | [Unchanged](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202122398) | No change |
+| Electronic-governance support to the financial administration, first phase | Active, with EUR 20,000,000 committed | [Unchanged](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202168912) | No change |
+| Electronic-governance support to the financial administration, second phase | Active, with EUR 15,000,000 committed | [Unchanged](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202468155) | No change |
 | Telecom expansion loan to the incumbent operator's parent | Active, funding fourth-generation rollout, mobile data capacity and mobile-money infrastructure | [Unchanged, and recorded as fully disbursed](https://disclosures.ifc.org/project-detail/SII/44666/axian-togo-project) | No change |
 | Good Financial Governance programme | Not on record | [EUR 9,500,000 (FCFA 6,231,591,500) funded by Germany and implemented by GIZ, concluded July 2021 and ending 30 June 2026, delivering digitised participatory tools for tracking results-based public-finance reform and tax-risk-management tools, at a 95 per cent implementation rate reported by the implementer; the successor phase moves to communal and regional financial governance in the Savanes and Kara regions](https://togopresse.tg/bonne-gouvernance-financiere-au-togo-apres-4-ans-dexercice-le-projet-cloture-sur-fond-de-resultats-juges-satisfaisants/) | ***Baseline not held*** |
 | Public administration service-delivery modernisation project | No held record | [Named as the service-delivery digitalisation vehicle inside a portfolio of more than US$2bn, with no value, dates, component list or results indicator held](https://www.republiquetogolaise.tg/gouvernance-economique/3007-12141-le-gouvernement-renforce-le-suivi-des-projets-finances-par-la-banque-mondiale) | ***Baseline not held*** |

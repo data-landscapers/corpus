@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: UGA
 ledger_rows: 139
 not_held: 16
-record: 7c0416bfe7ee
+record: be98110e592a
 ---
 
 # Uganda: progress report, 2025-08-01 to 2026-08-17
@@ -328,7 +328,7 @@ The largest change in the country's external technology relationships was not co
 | Gulu Service Uganda Centre | Did not exist | [Under construction with more than 40 workstations; stated completion June 2026, nothing on record as delivered at 2026-08-06](https://www.newvision.co.ug/category/business/construction-of-sh4b-service-uganda-centre-be-NV_229820_062026) | Advanced, slipped |
 | Kasese ICT hub for persons with disabilities | Did not exist | [Operating; computer-literacy training, vocational skills and digital-empowerment programmes, open to the wider community](https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills) | Advanced |
 | Service Uganda Centres | One operational, stated on 2026-03-13 to have been the only site for three years | [Six of nineteen operational; Tororo inspected, not opened; throughput made contingent on the backbone's fifth phase](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations) | Advanced |
-| Connect Rural Uganda digital inclusion | Active; US$15m running to 2026 | [Unchanged; stated end year 2026 with no closure or results record held](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-11620%22) | No change |
+| Connect Rural Uganda digital inclusion | Active; US$15m running to 2026 | [Unchanged; stated end year 2026 with no closure or results record held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11620) | No change |
 | National Financial Inclusion Strategy 2023-2028 | In force; priority groups widened to add refugees and persons with disabilities | [In force; no mid-term review, indicator update or progress report held](https://ugandabankers.org/wp-content/uploads/2024/01/National-Financial-Inclusion-Strategy-2023-2028-.pdf) | No change |
 
 ### Literacy

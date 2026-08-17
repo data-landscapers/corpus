@@ -1,15 +1,15 @@
 ---
 title: Djibouti — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: DJI
 ledger_rows: 68
 not_held: 10
-record: 0c339794889c
+record: d07b4fa7a919
 ---
 
 # Djibouti: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/DJI/ledger.csv` (68 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/DJI/ledger.csv` (68 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -280,7 +280,7 @@ The [E-SKILLS Digital Houses initiative covers five inland regions, 3,000 to be 
 | Chinese grant for the Urban Security Monitoring System | [Implemented](https://www.sohu.com/a/257932360_230289) | US$23,046,763 committed |
 | Djibouti Economic and Financial Governance Project (World Bank) | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P180696) | US$20,000,000 committed |
 | Higher-education digitalisation (Agence Francaise de Developpement) | [Implemented](https://www.afd.fr/fr/carte-des-projets/numerisation-et-professionnalisation-de-lenseignement-superieur) | US$11,422,000 committed |
-| Islamic Development Bank submarine cable financing | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46025-DJI1004%22) | US$38,830,000 committed to the DARE Regional Submarine Cable Project |
+| Islamic Development Bank submarine cable financing | [Implemented](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-DJI1004) | US$38,830,000 committed to the DARE Regional Submarine Cable Project |
 | Startup fund of funds | [Planned](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/) | Provided for in the Startup Act, articles 25-28; the management company to be tendered |
 
 ### Domestic budget appropriations and expenditure

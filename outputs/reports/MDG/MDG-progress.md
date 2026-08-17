@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: MDG
 ledger_rows: 61
 not_held: 8
-record: 645b897f0591
+record: bab29137d91b
 ---
 
 # Madagascar: progress report, 2025-08-01 to 2026-08-17
@@ -227,7 +227,7 @@ The state's own capability is being recruited for rather than reported on. The d
 | Airtel Mobile Commerce guarantee (MIGA) | Committed | [Committed; no implementation record held](https://www.miga.org/project/airtel-mobile-commerce) | No change |
 | Digital Governance and Identification Management System project (World Bank) | Committed | [Committed; closed 30 June 2026 with the identity component continuing](https://projects.worldbank.org/en/projects-operations/project-detail/P169413) | No change |
 | Financial Inclusion Project (World Bank) | Committed and restructured | [Committed and restructured; no later implementation record held](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/) | No change |
-| Governance digitisation project (African Development Bank) | Committed | [Committed; no implementation record held](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-MG-KA0-013%22) | No change |
+| Governance digitisation project (African Development Bank) | Committed | [Committed; no implementation record held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MG-KA0-013) | No change |
 | Telecommunications modernisation loan (China Eximbank) | Committed | [Committed; no implementation record held](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf) | No change |
 | WeLight solar mini-grid and rural electrification (Norfund) | Committed | [Committed; no implementation record held](https://www.norfund.no/major-funding-round-secured-for-welight-in-madagascar/) | No change |
 

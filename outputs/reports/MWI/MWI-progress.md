@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: MWI
 ledger_rows: 170
 not_held: 57
-record: 27b447978217
+record: e78f464405ea
 ---
 
 # Malawi: progress report, 2025-08-01 to 2026-08-17
@@ -271,7 +271,7 @@ Two positions did not move at all. The electoral commission's refusal of machine
 |---|---|---|---|
 | PayChangu | Operating as a Lilongwe-based payment aggregator founded 2021, connecting mobile money, cards and bank transfers through a single integration | [Same position, with small-business tools stated as interfaces, e-commerce plugins, payment links, invoicing and analytics](https://www.wearetech.africa/en/fils-uk/solutions/malawian-fintech-paychangu-targets-sme-growth-with-unified-payment-infrastructure) | No change |
 | University innovation lab | An active UNDP grant of US$1,880,499 committed 2019 to equip the business and applied sciences university's innovation hub for ideation, prototyping, mentorship and incubation | [Same position; no dated update since the 2019 record, with the scheduled end year falling in 2026 and no closure or extension on file](https://open.undp.org/projects/00131461) | No change |
-| Unlocking Talent e-learning programme | Already closed; a grant of EUR 12,996,804 committed 2019 for tablet-based learning centres in primary schools and teacher training colleges | [Same position; no successor programme, evaluation or continuation is held](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-201868173%22) | No change |
+| Unlocking Talent e-learning programme | Already closed; a grant of EUR 12,996,804 committed 2019 for tablet-based learning centres in primary schools and teacher training colleges | [Same position; no successor programme, evaluation or continuation is held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-201868173) | No change |
 
 <!-- narrative: ai-tech -->
 Malawi's artificial intelligence position was created inside this period and consists entirely of process. Nothing existed a year ago; consultative workshops began in September 2025, a draft strategy entered validation in February 2026, and a readiness assessment was validated on 22 July 2026 to guide it ([validation account](https://itweb.africa/article/malawi-moves-to-strengthen-ai-ecosystem/j5alr7QAwoV7pYQk)). No text has been adopted or published, and the assessment sits with the education ministry rather than the ICT ministry that owns the strategy.
@@ -322,7 +322,7 @@ Council performance moved backwards on the one audited measure available: clean 
 | Governance to Enable Service Delivery Project | Operating, paying performance-based grants to participating district councils | [Closed on 2026-06-30; its grant mechanism continues under the successor project](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/) | Closed |
 | Inclusive Digital Transformation for Malawi | Running 2024-2028 on a European Union commitment of EUR 2,000,000 and a UNDP commitment of US$5,608,640, covering inclusive digital identity, open-source public systems with human-rights safeguards, and youth digital literacy; the Union separately reported contributing over EUR 10m to the national registration system that underpins it | [Unchanged in commitment; within the window the programme's policy strand reached a validation workshop in Lilongwe for a draft national digital transformation strategy and a draft national AI strategy, both still pre-adoption](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-37646) | No change |
 | Malawi Fiscal Governance Program-for-Results | An approved grant of SDR 60.3m, about US$80m equivalent at appraisal, supporting revenue mobilisation, budget execution and procurement modernisation, including e-procurement digitalisation | [Unchanged; the base carries no implementation, disbursement or results reporting after the appraisal document](https://documents.worldbank.org/curated/en/099050624155539128) | No change |
-| Support for Digitalization, Financial Inclusion and Competitiveness | An active institutional-support grant of XDR 10,000,000, recorded as approximately US$14.4m on an unstated conversion, with US$5,591,335 disbursed as at the record's retrieval date | [Unchanged; no event in the window is on file for this project](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-MW-KF0-007%22) | No change |
+| Support for Digitalization, Financial Inclusion and Competitiveness | An active institutional-support grant of XDR 10,000,000, recorded as approximately US$14.4m on an unstated conversion, with US$5,591,335 disbursed as at the record's retrieval date | [Unchanged; no event in the window is on file for this project](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MW-KF0-007) | No change |
 
 ### MoUs and other agreements
 

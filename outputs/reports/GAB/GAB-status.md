@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: GAB
 ledger_rows: 102
 not_held: 27
-record: fb8bd0a1f283
+record: a76a0ceafe1c
 ---
 
 # Gabon: status report
@@ -70,7 +70,7 @@ The World Bank operation intended to build the digital state had disbursed about
 | National cybersecurity strategy | [Planned](https://www.gabonreview.com/2e-forum-de-la-cybersecurite-du-gabon-comprendre-les-menaces-et-partager-les-bonnes-pratiques/) | Named as an objective of the second national Cybersecurity Forum |
 | SecBOM security bill of material | [Implemented](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/) | Launched by ANINF under the Presidency, a five-step method with quarterly revisions |
 | SEEG cyberattack and systems recovery | [Implemented, restoration continuing at remaining centres](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/) | Utility's 4 August progress briefing, network described as healthy and secured, with billing and payment restored in Libreville and seven interior centres |
-| United States cybersecurity grant to ANINF | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:US-GOV-11-SGB50025GR0014) | US$1,249,997 committed and US$49,313 disbursed, against a planned end of 2025-12-22 |
+| United States cybersecurity grant to ANINF | [Implemented](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-11-SGB50025GR0014) | US$1,249,997 committed and US$49,313 disbursed, against a planned end of 2025-12-22 |
 | National computer emergency response team and security operations centre | ***Not held*** | — |
 
 <!-- narrative: infrastructure -->

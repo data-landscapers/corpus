@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: GAB
 ledger_rows: 111
 not_held: 27
-record: cd5fd3aaf679
+record: fba08c9a900c
 ---
 
 # Gabon: progress report, 2025-08-01 to 2026-08-17
@@ -67,7 +67,7 @@ Against that, the electronic identity programme published its first coverage fig
 | SEEG cyberattack and systems recovery | 95 per cent of information systems collapsed after a sabotage attack (2026-06-15), knocking out the EDAN prepaid-meter top-up platform | [Billing and payment services restored in Libreville and seven interior centres (Franceville, Moanda, Akieni, Mounana, Mouila, Port-Gentil, Lastoursville); the utility describes its network as healthy, secured and protected by reinforced measures, with restoration continuing elsewhere (2026-08-04)](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/) | Advanced |
 | National cybersecurity strategy | None published | [None published; the January 2026 regulator workshop restated resilience gaps without producing one](https://www.gabonreview.com/2e-forum-de-la-cybersecurite-du-gabon-comprendre-les-menaces-et-partager-les-bonnes-pratiques/) | No change |
 | SecBOM security bill of material | Launched - asset inventory, standard formatting, integration to the configuration database, quarterly review and linkage to the national security operations centre and incident response team | [Unchanged; no asset count, coverage, review cycle or output published in fourteen months](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/) | No change |
-| United States cybersecurity grant to ANINF | US$1,249,997 committed, US$49,313 disbursed | [Unchanged; the planned end date has passed with no completion, extension or further disbursement on file](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:US-GOV-11-SGB50025GR0014) | No change |
+| United States cybersecurity grant to ANINF | US$1,249,997 committed, US$49,313 disbursed | [Unchanged; the planned end date has passed with no completion, extension or further disbursement on file](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-11-SGB50025GR0014) | No change |
 
 <!-- narrative: infrastructure -->
 Hosting moved from nothing to a working estate. At the period's opening the Nkok facility was under construction from a groundbreaking of 8 August 2025, with the operator saying five months to service; delivery then slipped twice, and the facility entered service on 3 July 2026 at 92 racks and 1 MW ([inauguration](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). The second facility was not on the record at all at the opening and is now under construction at 160 racks and over 1 MW for delivery by December 2026 ([inspection](https://www.gabonreview.com/datacenter-tier-iii-doumba-satisfait-de-lavancement-du-chantier-une-livraison-attendue-entre-novembre-et-decembre/)). Utilisation is published at neither site, so what the period added is capacity rather than use.

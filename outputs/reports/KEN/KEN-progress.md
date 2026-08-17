@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: KEN
 ledger_rows: 184
 not_held: 6
-record: a705ddfbdb0b
+record: 0d8eabb37ab2
 ---
 
 # Kenya: progress report, 2025-08-01 to 2026-08-17
@@ -365,8 +365,8 @@ The patron layer accreted announcements without delivery. Four bilateral channel
 | HerSpace | Did not exist | [Training 150 justice-sector officials on digital evidence, with no value disclosed](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Advanced |
 | Mastercard Foundation EdTech Fellowship | Eight-month cohorts for growth-stage companies | [Cohort 4 runs 18 months for early-stage companies, offering each up to US$100,000 in equity-free funding and scoped to learners with disabilities, refugee and rural communities, and girls and young women; 36 Kenyan companies since the 2023 launch, on iHUB's figures](https://techafricanews.com/2026/07/29/ihub-selects-12-kenyan-edtech-startups-for-mastercard-foundation-fellowship/) | Advanced |
 | EU digitalisation of technical and vocational education | EUR 9.9m committed | [Commitment unchanged, with no outturn published](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25165) | No change |
-| KfW digitalisation of vocational training | EUR 18m concessional loan committed | [Commitment unchanged, with no disbursement published](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202265189%22) | No change |
-| KfW promotion of vocational training in ICT | EUR 5m concessional loan | [Commitment unchanged, with the scheduled end year reached and no closure statement held](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-201665298%22) | No change |
+| KfW digitalisation of vocational training | EUR 18m concessional loan committed | [Commitment unchanged, with no disbursement published](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202265189) | No change |
+| KfW promotion of vocational training in ICT | EUR 5m concessional loan | [Commitment unchanged, with the scheduled end year reached and no closure statement held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-201665298) | No change |
 | Jitume Digital Enablement Programme | ***Baseline not held*** | [117 hubs commissioned on the ceremony series and about 350 on the installed-base series](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) | ***Baseline not held*** |
 | Jitume training throughput | ***Baseline not held*** | [More than 140,000 young people trained and more than 41,000 linked to economic opportunity since 2023](https://www.radio47.fm/news/technopolis-launches-ol-kalou-jitume-digital-hub-graduates-106-youths-33109/) | ***Baseline not held*** |
 
@@ -384,7 +384,7 @@ The measured positions moved modestly and in one direction. Smartphone connectio
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| Atlas Tower Kenya debt facility (ATK Debt II) | Did not exist | [US$25m IFC debt inside a US$30m multi-currency debt package financing new macro towers and expanded mobile network capacity](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-903-SII-52548%22) | Advanced |
+| Atlas Tower Kenya debt facility (ATK Debt II) | Did not exist | [US$25m IFC debt inside a US$30m multi-currency debt package financing new macro towers and expanded mobile network capacity](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-903-SII-52548) | Advanced |
 | EBRD-Axian Telecom (Yas) senior loan financing, Kenya tranche | Did not exist | [EUR270m total facility across 21 obligors in 8 jurisdictions; committed facility up to EUR170m includes a local-currency tranche of up to EUR20m equivalent in Kenyan shillings funding fibre-infrastructure modernisation in Kenya, plus an uncommitted EUR100m facility for future acquisitions and capex across EBRD's sub-Saharan African countries of operation](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270) | Advanced |
 | IFC Catalytic First Loss Guarantee transactions | Did not exist | [US$24.2m committed across three Kenyan lenders with US$11m of IDA Private Sector Window backing, expected to catalyse about US$144.4m in local-currency lending to micro-enterprises](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first) | Advanced |
 | Kenya Digital Economy Acceleration Project | KSh 3.7bn in the FY2025/26 estimates on a US$390m commitment | [KSh 4.3bn appropriated for FY2026/27, half the entire digital thematic, equipping more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | Advanced |

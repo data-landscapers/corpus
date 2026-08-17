@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: MOZ
 ledger_rows: 147
 not_held: 18
-record: 29b7dc9e7e14
+record: ac8c7916b56c
 ---
 
 # Mozambique: progress report, 2025-08-01 to 2026-08-17
@@ -344,8 +344,8 @@ The composite measure of financial inclusion did not move: 36.4 points in 2024 a
 | Tmcel network modernisation and expansion facility | US$132m; 57% complete (2023-09) | [Same; no completion or delivery report held](https://www.bu.edu/gdp/files/2022/11/GCI_PB_012_EN_FIN.pdf) | No change |
 | Tmcel second expansion financing | US$200m in pipeline, terms undisclosed (2025) | [Same; no signing, drawdown or works reported](https://clubofmozambique.com/news/tmcel-secures-us200-million-on-very-good-terms-for-modernisation-and-expansion-151082/) | No change |
 | VaMOZ Digital! | EUR 22.5m committed, nothing disbursed on the published record | [Same; still nothing disbursed at the last read, 2026-06-24](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60671) | No change |
-| Vital Statistics in Support of Maternal and Child Health, Phase 1 | CAD 19.5m fully disbursed, closed 2023-12-31 | [Unchanged](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:CA-3-D002529001) | No change |
-| Vital Statistics in Support of Maternal and Child Health, Phase 2 | CAD 6.5m fully disbursed, closed 2023-12-31 | [Unchanged](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:CA-3-P001300002) | No change |
+| Vital Statistics in Support of Maternal and Child Health, Phase 1 | CAD 19.5m fully disbursed, closed 2023-12-31 | [Unchanged](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=CA-3-D002529001) | No change |
+| Vital Statistics in Support of Maternal and Child Health, Phase 2 | CAD 6.5m fully disbursed, closed 2023-12-31 | [Unchanged](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=CA-3-P001300002) | No change |
 | Personal income tax amendment on mobile-money agent commissions | ***Baseline not held*** | [Proposal still in preparation, with taxation already proceeding under the existing framework and 787 mobile wallet agents registered for tax numbers in H1 2025](https://clubofmozambique.com/news/mozambique-revises-irps-code-to-tax-commissions-of-m-pesa-e-mola-and-m-kesh-agents/) | ***Baseline not held*** |
 
 ### Domestic budget appropriations and expenditure

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: COM
 ledger_rows: 111
 not_held: 35
-record: 13c07f183973
+record: c245a3a7da59
 ---
 
 # Comoros: status report
@@ -317,8 +317,8 @@ Inclusion is carried by one-off activities and measured by nothing. What exists 
 |---|---|---|
 | China Eximbank concessional loan for network modernisation | [Implemented](https://www.aiddata.org/data/global-chinese-development-finance-dataset-version-3) | Loan agreement signed 2018-12-11, with the fibre-to-the-home programme launched with the supplier on 2022-03-22 |
 | Connectivity pledge across three markets | [Planned](https://techafricanews.com/2025/04/01/axian-telecom-invests-82m-to-expand-4g-in-madagascar-comoros-tanzania/) | Pledge announced 2025-04-01, targeting 97 per cent population coverage and six million connected by 2030 |
-| Continental bank project to support digitisation of the economy | [Implemented, in execution](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-KM-G00-001%22) | Officially launched 27-28 March 2025, financing agreements having been signed in 2024 |
-| Islamic bank project for the digitalisation of the economy | [Implemented, approved and undisbursed](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46025-COM1026%22) | Commitment transactions dated 2025-09-23 |
+| Continental bank project to support digitisation of the economy | [Implemented, in execution](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-KM-G00-001) | Officially launched 27-28 March 2025, financing agreements having been signed in 2024 |
+| Islamic bank project for the digitalisation of the economy | [Implemented, approved and undisbursed](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-COM1026) | Commitment transactions dated 2025-09-23 |
 | Loan to the second mobile operator | [Implemented](https://techafricanews.com/2025/06/20/axian-telecoms-yas-comoros-secures-e25m-loan-to-boost-digital-transformation/) | Agreement announced 2025-06-20, a prior loan of EUR 13m from 2019 having been fully repaid in June 2025 |
 | Financing instrument behind the technology park | ***Not held*** | — |
 
