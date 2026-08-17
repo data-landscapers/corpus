@@ -112,7 +112,7 @@ Horizon Fiber moved from planned to under way: the memorandum signed by Ethio Te
 
 The network itself held position throughout — implemented at the window's start and implemented now, with the year's news being scale and contracts rather than maturity: [99.8% coverage](https://techafricanews.com/2026/04/20/ethio-telecom-reaches-99-8-coverage-accelerates-smart-infrastructure-development/), [expansion deals at Mobile World Congress for 1,500 and 647 sites](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/). The market structure also held: two operators, a third-operator round launched in 2023 and paused, and no LEO licensing framework after the regulator's flat denial in July 2025.
 
-What arrived is foreign compute: a bitcoin-mining site on cheap power, an in-country cloud exchange, an Indian data-centre work order, scoping talks with a Chinese vendor — plus a universal-access levy of 1.5% of operator revenue.
+What arrived is foreign compute: a bitcoin-mining site on cheap power, an in-country cloud exchange, an Indian data-centre work order, scoping talks with a Chinese vendor — plus a [universal-access levy of 1.5% of operator revenue](https://www.thereporterethiopia.com/49962/).
 <!-- /narrative -->
 
 ## Digital public infrastructure

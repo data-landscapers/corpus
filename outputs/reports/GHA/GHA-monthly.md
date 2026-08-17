@@ -65,7 +65,7 @@ The identity regulator publicised amendment regulations on 16 July that had come
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Central bank data for June 2026 put mobile money at [954 million transactions worth GH¢492.9bn](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/), against GH¢323.2bn a year earlier, on 84.6 million registered wallets of which 26.4 million were active; interoperable transfers were GH¢6.2bn, about 1.3% of value.
+Central bank data for June 2026 put mobile money at [954 million transactions worth GH¢492.9bn](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/), against GH¢323.2bn a year earlier, on 84.6 million registered wallets of which 26.4 million were active; [interoperable transfers were GH¢6.2bn, about 1.3% of value](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/).
 
 Enforcement of the digital-credit regime opened. A notice of 20 July recorded the 30 June licensing deadline as elapsed, and a notice of [3 August named twenty unlicensed lending applications](https://www.bog.gov.gh/wp-content/uploads/2026/08/Notice-No.25-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf), cautioning banks and payment providers against processing for them and framing the harm first as a violation of customer data privacy. The promised register of licensed providers remains unpublished.
 <!-- /narrative -->

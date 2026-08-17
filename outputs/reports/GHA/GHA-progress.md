@@ -168,7 +168,7 @@ The rest is accretion on a network-quality problem the base already recognised: 
 | National Forest Monitoring System and ForestTrace AI deforestation tracker | ***Baseline not held*** | [Live national forest monitoring system paired with the ForestTrace AI deforestation tracker, built toward EU Deforestation Regulation compliance for cocoa and gold supply chains; no coverage or accuracy figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
-Identity changed band decisively. A credential became a compulsory verification regime: amendment regulations in force from 9 June 2026 made biometric matching the only lawful means, barred photocopying and retention, and fixed enforcement at 2 November 2026, while the card itself cleared a backlog of more than 640,000 and moved from about 18 million registered adults to 19.2 million with institutions integrated rising from 95 to 262.
+Identity changed band decisively. A credential became a compulsory verification regime: amendment regulations in force from 9 June 2026 made biometric matching the only lawful means, barred photocopying and retention, and fixed enforcement at 2 November 2026, while the card itself [cleared a backlog of more than 640,000 and moved from about 18 million registered adults to 19.2 million with institutions integrated rising from 95 to 262](https://www.myjoyonline.com/nia-clears-640000-card-backlog-expands-nationwide-and-diaspora-operations/).
 
 Revenue and procurement systems moved from ambition to operating instruments — a customs valuation system fully deployed from March 2026 with a quantified revenue claim, mandatory electronic procurement integrated with the national payment system, and three revenue platforms approved by Parliament in July. Digital credit acquired a licensing regime, a lapsed deadline and an enforcement notice naming twenty applications, none of which existed a year ago.
 
@@ -357,7 +357,7 @@ Affordability moved once, by ministerial pressure on a single operator rather th
 | Multi-year commitment for three revenue platforms | ***Baseline not held*** | [Approved with published benefit projections and no disclosed cost, contract duration or termination terms](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-The rural telephony project's financing is unchanged: it is described in the same terms in March 2026 as the 2020 loan record describes it, with no disbursement or coverage figure added in between, and its last quantified statement remains a 60.2% disbursement rate as at May 2022.
+The rural telephony project's financing is unchanged: it is described in the same terms in March 2026 as the 2020 loan record describes it, with no disbursement or coverage figure added in between, and its last quantified statement remains a [60.2% disbursement rate as at May 2022](http://www.commodafrica.com/17-11-2020-une-facilite-de-eu155-millions-de-la-china-exim-bank-pour-la-connectivite-rurale-au-ghana).
 
 Two Chinese distance-learning loans signed in October 2020 passed their expected completion dates during the window with no completion, disbursement or outturn statement on file, one of them flagged for indications of financial underperformance.
 <!-- /narrative -->

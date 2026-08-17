@@ -30,7 +30,7 @@ The national internet exchange point opened a reboot workshop at Libreville on 3
 ### Data Storage
 
 <!-- narrative: infrastructure--infra-store -->
-The Nkok facility was inaugurated on 3 July 2026 with 92 racks over 3,000 square metres, 1 MW installed and a cost of XAF 8bn, peered to the ACE and SAT-3/WACS submarine systems ([figures given at the inauguration](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). The operator stated at the same event that about 95 per cent of data produced in Gabon was hosted outside the country.
+The Nkok facility was inaugurated on 3 July 2026 with 92 racks over 3,000 square metres, 1 MW installed and a cost of XAF 8bn, peered to the ACE and SAT-3/WACS submarine systems ([figures given at the inauguration](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). The operator stated at the same event that [about 95 per cent of data produced in Gabon was hosted outside the country](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push).
 
 On 31 July the minister inspected the second Tier III facility, a neutral carrier hotel built by the state company ACE Gabon SA at 160 racks and over 1 MW, interconnected to the submarine systems, and confirmed commissioning between end-November and early December 2026; he described it as a public structure financed by the local banking sector ([site inspection](https://www.gabonreview.com/datacenter-tier-iii-doumba-satisfait-de-lavancement-du-chantier-une-livraison-attendue-entre-novembre-et-decembre/)). No cost figure was given.
 <!-- /narrative -->
