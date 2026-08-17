@@ -144,7 +144,7 @@ Internet penetration was unchanged across the window at [32.5%, the last measure
 | World Bank WARDIP-GB (DTfA/WARDIP SOP1) IDA grant | Implementation under way following the April 2025 launch; national fibre-backbone design (2,877 km, 56 nodes) published, private-sector wholesale-telecom partner not yet selected | [Same - no new status-fixing milestone found within the window; backbone procurement stage unchanged as far as the base holds](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | No change |
 
 <!-- narrative: finance -->
-All three tracked finance instruments were unchanged across the window: the MIGA guarantee behind Sonatel's Orange Bissau equity investment remains active with no new disbursement reported; the UNDP grant funding ENTD.GW's implementation still shows only its early US$566,152 disbursement against a US$3,360,500 commitment; and the World Bank's WARDIP-GB IDA grant remains in implementation with no new status-fixing milestone found in this period.
+All three tracked finance instruments were unchanged across the window: the MIGA guarantee behind Sonatel's Orange Bissau equity investment remains active with no new disbursement reported; the UNDP grant funding ENTD.GW's implementation [still shows only its early US$566,152 disbursement against a US$3,360,500 commitment](https://open.undp.org/projects/01004393); and the World Bank's WARDIP-GB IDA grant remains in implementation with no new status-fixing milestone found in this period.
 <!-- /narrative -->
 
 ## Where the record is thin
