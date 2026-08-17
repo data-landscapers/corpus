@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-17
 place: GIN
 ledger_rows: 31
 not_held: 13
-record: 84386c90049c
+record: f0ce397df451
 ---
 
 # Guinea: monthly update, July 2026

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: ETH
 ledger_rows: 88
 not_held: 4
-record: 311236bdf413
+record: fcd0a33ac151
 ---
 
 # Ethiopia: progress report, 2025-08-01 to 2026-08-17

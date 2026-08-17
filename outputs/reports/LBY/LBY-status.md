@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: LBY
 ledger_rows: 69
 not_held: 7
-record: 7d6c94040a16
+record: 610124fbbca5
 ---
 
 # Libya: status report

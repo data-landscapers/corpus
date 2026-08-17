@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: GAB
 ledger_rows: 111
 not_held: 27
-record: bb53d47fcd13
+record: cd5fd3aaf679
 ---
 
 # Gabon: progress report, 2025-08-01 to 2026-08-17

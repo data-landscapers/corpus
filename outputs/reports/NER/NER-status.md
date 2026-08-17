@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: NER
 ledger_rows: 56
 not_held: 3
-record: b728d4f66b6c
+record: b3d7491c6327
 ---
 
 # Niger: status report

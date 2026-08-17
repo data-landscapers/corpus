@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: MAR
 ledger_rows: 125
 not_held: 17
-record: 04101641c578
+record: 66c5fcc63518
 ---
 
 # Morocco: progress report, 2025-08-01 to 2026-08-17

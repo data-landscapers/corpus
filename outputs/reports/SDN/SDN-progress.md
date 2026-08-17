@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: SDN
 ledger_rows: 46
 not_held: 13
-record: 85af1e884702
+record: b22f7ae8150b
 ---
 
 # Sudan: progress report, 2025-08-01 to 2026-08-17

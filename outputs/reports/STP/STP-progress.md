@@ -1,18 +1,18 @@
 ---
-title: Sao Tome and Principe — progress report, 2025-08-01 to 2026-08-14
-compiled: 2026-08-14
-period: 2025-08-01 to 2026-08-14
+title: Sao Tome and Principe — progress report, 2025-08-01 to 2026-08-17
+compiled: 2026-08-17
+period: 2025-08-01 to 2026-08-17
 place: STP
 ledger_rows: 48
 not_held: 13
-record: cb388e1c08d3
+record: 410dff72e905
 ---
 
-# Sao Tome and Principe: progress report, 2025-08-01 to 2026-08-14
+# Sao Tome and Principe: progress report, 2025-08-01 to 2026-08-17
 
-*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 48 systems and instruments on this place's ledger, 19 changed position between 2025-08-01 and 2026-08-14, 9 did not, 7 carry no stated baseline, and 13 are ***Not held*** at both ends.*
+*Of 48 systems and instruments on this place's ledger, 19 changed position between 2025-08-01 and 2026-08-17, 9 did not, 7 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 27 sources for this place in the window — 7 in the earlier half (2025-09 to 2026-02), 20 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -30,7 +30,7 @@ The period's clearest genuine movement is the automatic electoral roll, which we
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | CST national network (antennas/schools expansion) | Expansion plan to more communities/schools announced, larger schools first | [35th antenna live at Agua Ize, ending prolonged local network instability](https://rstp.st/2025/01/25/cst-celebra-35-anos-apostando-na-expansao-da-rede-e-melhoria-da-conectividade-nas-escolas/) | Advanced |
 | Starlink satellite internet service | US-backed intent announced, no service | [Live: Standard kit STN 5,500 (~US$257); Residential STN 1,700/mo (~US$79.5)](https://rstp.st/2025/02/24/empresa-starlink-de-elon-musk-pretende-investir-em-stp-trazendo-internet-de-alta-qualidade/) | Advanced |
@@ -38,13 +38,13 @@ The period's clearest genuine movement is the automatic electoral roll, which we
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | GoSTP data-centre modernisation (incl. digital-ID data centre/DR tender) | Three options costed, decision pending, high risk flagged at current sea-level site | [AFAP tender issued for servers + DR, implementing the TIER III/cloud recommendation](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | CSIRT (Computer Security Incident Response Team) | Did not exist | [Materialisation launch identified as active mission objective; no operational date or further detail](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | Advanced |
 
@@ -56,7 +56,7 @@ Starlink moved from a publicly-backed intent in February 2025 — voiced by the 
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | 'BI para Todos' free national-ID campaign | Did not exist | [Free-BI campaign covering remote localities (Ilheu das Rolas, Porto Alegre, via Starlink-linked mobile brigade) and diaspora collection in Portugal](https://www.telanon.info/sociedade/2026/01/22/51507/campanha-de-atribuicao-gratuita-do-bilhete-de-identidade-iniciou-se-no-ilheu-das-rolas-e-decorre-em-porto-alegre/) | Advanced |
 | Foundational digital ID (STP Digital/MOSIP, System Integrator Ooru) | Pilot ongoing since 2024, no fixed timeline | [Ooru contracted; live prototypes; roadmap Jan 2026 (ID+Portal) to May 2026 (e-Signature)](https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system) | Advanced |
@@ -64,13 +64,13 @@ Starlink moved from a publicly-backed intent in February 2025 — voiced by the 
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | BCSTP FinTech Sandbox | ***Baseline not held*** | [Five-phase incubator running; one entrant piloting phone-based/USSD transfers usable without internet](https://rstp.st/2025/06/03/banco-central-lanca-iniciativa-sandbox-para-promover-inclusao-de-servicos-financeiros-digitais-em-stp/) | No change |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Automatic electoral roll (PReSE, civil-registry to CEN interoperability) | EU-funded PReSE project concluded, automatic-registration platform built, unused | [First used for 19 Jul 2026 presidential election; provisional Sep-2026 roll adds 1,860 omitted + 1,976 newly-18 voters](https://rstp.st/2025/09/02/stp-encerra-o-projeto-de-reforma-do-sistema-eleitoral-financiado-pela-uniao-europeia/) | Advanced, with implementation gaps |
 | Cadastro Social Unico (CSU) — single social registry | Update planned, no coverage data | [~12,500 households registered (~25% of population); registration explicitly stated not to equal a poverty diagnosis](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | Advanced |
@@ -78,13 +78,13 @@ Starlink moved from a publicly-backed intent in February 2025 — voiced by the 
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | EMAE management information system (MIS) tender | ***Baseline not held*** | [Deadline extended; original terms, contract value and new deadline not stated in the source held](https://www.telanon.info/destaques/2026/08/07/53902/afap-prorroga-a-solicitacao-de-fornecimento-instalacao-treinamento-e-comissionamento-do-novo-sistema-de-informacao-de-gestao-mis-para-a-emae/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Portal do Cidadao / Citizen Portal (INIC, beta) | Did not exist | [Beta live; pathway to verifiable credentials (tax, police-clearance certs; future: education certs)](https://rstp.st/2026/03/28/inic-celebra-18o-aniversario-com-lancamento-da-plataforma-portal-do-cidadao/) | Advanced |
 | Trade Single Window + ASYFIVE (UNDP-supported) | Did not exist | [Deployment announced integrating 22 public/private institutions; would make STP first African ASYFIVE deployer; not yet live](https://www.telanon.info/economia/2026/01/25/51525/stp-prepara-salto-tecnologico-no-comercio-externo-com-novas-plataformas-apoiadas-pela-onu/) | Advanced |
@@ -99,7 +99,7 @@ INIC's Citizen Portal beta and the UNDP-backed Trade Single Window both entered 
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National Framework for Interoperability (Law 1/2024) | ***Baseline not held*** | [In force since 2024; underpins DEX, single citizen portal, trade single window](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Sao-Tome-Principe) | No change |
 | Personal Data Guarantee and Protection Law (Law 03/2016) | ***Baseline not held*** | [In force since 2016; fines up to STN 500m for legal entities, criminal sanctions up to 1 year imprisonment for serious breaches](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Sao-Tome-Principe) | No change |
@@ -108,7 +108,7 @@ INIC's Citizen Portal beta and the UNDP-backed Trade Single Window both entered 
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | AU Data Policy Framework (AUDPF) — national adoption process | Did not exist | [Workshop held on national AUDPF adoption; translation into policy/institutional reform is the stated goal, not yet delivered](https://www.linkedin.com/posts/d4dhub_d4datagov-datagovernance-africa-activity-7482375055130279936-Fj_f/) | Advanced |
 | Programme for African Developing Island Economies (AUDA-NEPAD) | Did not exist | [Programme launched; 2026-2031 roadmap, six pillars incl. digital transformation (DPI, AI/automation, knowledge economy as accelerators); ministerial communique adopted](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
@@ -117,14 +117,14 @@ INIC's Citizen Portal beta and the UNDP-backed Trade Single Window both entered 
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Lusophone Africa Data Governance Workshop | First workshop (Maputo, 2025): policy awareness | [Second workshop (Luanda, 15-17 Jun 2026): implementation focus — data centres, cloud, interoperability, DPI, institutional governance; STP among 6 participating countries](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda) | Advanced |
 | PALOP Digital Governance Dialogues | Inaugural webinar, Oct 2025 (month only stated) | [Second webinar, 26 Mar 2026, on digital ID/implementation/integration; STP among PALOP participants](https://www.biometricupdate.com/202603/palop-countries-collaborate-to-enhance-digital-identity-and-public-services) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | ANPDP supervision of PReSE registry-CEN data linkage | Did not exist | [Oversight role established; assessment to occur after the interconnection is inspected](https://www.telanon.info/politica/2026/04/15/52530/recenseamento-eleitoral-automatico-vai-ser-fiscalizado-pela-agencia-nacional-de-proteccao-de-dados-pessoais/) | Advanced |
 | Macau DSPDP-ANPDP cooperation MoU | Signing authorised by Macau CE, not yet executed | [MoU signed 1 Jun 2026; STP delegation toured Hong Kong Privacy Commissioner and Guangdong cyber-data-security association](https://macaubusiness.com/macau-to-sign-personal-data-protection-pacts-with-cape-verde-sao-tome-and-principe/) | Advanced |
@@ -133,7 +133,7 @@ INIC's Citizen Portal beta and the UNDP-backed Trade Single Window both entered 
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | FGI STP (Forum de Governanca da Internet) | Did not exist | [1st edition held, regulator (AGER)-convened; agenda covered digital trust, infrastructure, regulation, privacy/data protection, AI, internet/social media; no outcome document or next-edition date published](https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp) | Advanced |
 
@@ -145,7 +145,7 @@ The two enacted data-protection and interoperability laws (2016 and 2024) predat
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | CST school-connectivity plan | ***Baseline not held*** | [Plan announced; no confirmed progress found in later sources](https://rstp.st/2025/01/25/cst-celebra-35-anos-apostando-na-expansao-da-rede-e-melhoria-da-conectividade-nas-escolas/) | No change |
 | National Digital Learning Programme (PNAD) — equipment procurement | ***Baseline not held*** | [Tender open, against grant SC220341, delivery preferred by second week Sep 2026; no contract value stated](https://www.telanon.info/destaques/2026/07/30/53795/unicef-aquisicao-de-tablets-computadores-e-acessorios-destinados-ao-reforco-das-tecnologias-no-sistema-educativo/) | ***Baseline not held*** |
@@ -158,7 +158,7 @@ CST's school-connectivity plan, announced right at the window's opening in Janua
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | UNICEF PNAD equipment procurement (grant SC220341) | Did not exist | [Public tender open for 80 tablets + 90 desktops against grant SC220341; no contract value stated](https://www.telanon.info/destaques/2026/07/30/53795/unicef-aquisicao-de-tablets-computadores-e-acessorios-destinados-ao-reforco-das-tecnologias-no-sistema-educativo/) | Advanced |
 | World Bank 'Digital Sao Tome and Principe' project (P177158) | Board-approved, US$21.8m (IDA grant + GIF) committed | [US$7.64m disbursed (36%), Moderately Satisfactory, System Integrator (Ooru) engaged](https://projects.worldbank.org/en/projects-operations/project-detail/P177158) | Advanced |

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-17
 place: NER
 ledger_rows: 24
 not_held: 4
-record: 514c7fe4c5d2
+record: 0f668c8a6880
 ---
 
 # Niger: monthly update, July 2026

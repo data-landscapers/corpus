@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: EGY
 ledger_rows: 180
 not_held: 54
-record: f893862d8e32
+record: 74d41ce9f117
 ---
 
 # Egypt: progress report, 2025-08-01 to 2026-08-17

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: SDN
 ledger_rows: 46
 not_held: 13
-record: 371d2c6de5ea
+record: 06d735494ad7
 ---
 
 # Sudan: status report

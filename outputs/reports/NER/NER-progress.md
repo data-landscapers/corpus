@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: NER
 ledger_rows: 63
 not_held: 4
-record: 024ed8462a73
+record: b1e58fb7b188
 ---
 
 # Niger: progress report, 2025-08-01 to 2026-08-17

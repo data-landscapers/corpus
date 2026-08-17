@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: BFA
 ledger_rows: 114
 not_held: 11
-record: 1a1f6bf386b5
+record: 5d2d4b3994cb
 ---
 
 # Burkina Faso: progress report, 2025-08-01 to 2026-08-17

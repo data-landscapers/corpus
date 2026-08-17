@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: CPV
 ledger_rows: 138
 not_held: 45
-record: e87382e95c4b
+record: 7bf9c0703e04
 ---
 
 # Cape Verde: progress report, 2025-08-01 to 2026-08-17

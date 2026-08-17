@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: LBY
 ledger_rows: 77
 not_held: 7
-record: 2e061b054d6c
+record: 3791f6a7ef86
 ---
 
 # Libya: progress report, 2025-08-01 to 2026-08-17

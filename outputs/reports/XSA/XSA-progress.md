@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: XSA
 ledger_rows: 33
 not_held: 2
-record: 5690716ffc3f
+record: 2ca13e805cb8
 ---
 
 # Southern Africa: progress report, 2025-08-01 to 2026-08-17

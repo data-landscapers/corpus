@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: LBR
 ledger_rows: 56
 not_held: 8
-record: 81e093fd682c
+record: c45f89d392a3
 ---
 
 # Liberia: status report

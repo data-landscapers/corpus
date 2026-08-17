@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: GAB
 ledger_rows: 102
 not_held: 27
-record: 1e084a63445d
+record: fb8bd0a1f283
 ---
 
 # Gabon: status report

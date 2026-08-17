@@ -1,15 +1,15 @@
 ---
 title: Central African Republic — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: CAF
 ledger_rows: 70
 not_held: 14
-record: eccb27030731
+record: 71be657c1c38
 ---
 
 # Central African Republic: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/CAF/ledger.csv` (70 systems and instruments, 14 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/CAF/ledger.csv` (70 systems and instruments, 14 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 

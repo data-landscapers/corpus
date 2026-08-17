@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: LBR
 ledger_rows: 59
 not_held: 8
-record: 14bcd481683b
+record: 405e12172f9b
 ---
 
 # Liberia: progress report, 2025-08-01 to 2026-08-17
