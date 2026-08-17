@@ -15,7 +15,7 @@ record: 6dd047e33821
 ## Summary of the month
 
 <!-- narrative: summary -->
-July brought the trust layer and the market layer within eight days of each other. The cyber agency [commissioned the national public key infrastructure](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/), announced on 23 July, and a low-orbit satellite operator [went on sale by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) on a twelve-month provisional licence. The data-protection compliance platform went live on 2 July, all 39 first-instance tribunals were connected on 29 June, and the United States announced formal authorisation of a US$170m data-centre and border-surveillance package on 16 July.
+July brought the trust layer and the market layer within eight days of each other. The cyber agency [commissioned the national public key infrastructure](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/), announced on 23 July, and a low-orbit satellite operator [went on sale by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) on a twelve-month provisional licence. The data-protection compliance platform went live on 2 July, all 39 first-instance tribunals were connected on 29 June, and the United States announced [formal authorisation of a US$170m data-centre and border-surveillance package](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) on 16 July.
 <!-- /narrative -->
 
 ## Infrastructure
