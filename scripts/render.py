@@ -39,6 +39,7 @@ KIND_LABEL = {
     "status": "Status report",
     "monthly": "Monthly update",
     "progress": "Twelve-month progress report",
+    "bulletin": "Daily bulletin",
 }
 
 # The site's .badge variants, mapped onto the ledger's status vocabulary
@@ -94,7 +95,7 @@ def built_from() -> str:
     return f.read_text(encoding="utf-8").strip() if f.exists() else "(unknown)"
 
 
-KINDS = ("status", "monthly", "progress")
+KINDS = ("status", "monthly", "progress", "bulletin")
 
 
 def parse_name(path: Path) -> tuple[str, str]:
@@ -119,15 +120,32 @@ def parse_name(path: Path) -> tuple[str, str]:
 
 
 def tree_of(path: Path) -> str:
-    """Which output tree a source document belongs to — `reports/` or `topics/`.
+    """Which output tree a source document belongs to — `reports/`, `topics/` or `bulletins/`.
 
     Taken from the source's grandparent directory (`…/topics/dpi-pay/dpi-pay-monthly.md`), so a
     document lands under the site in the tree it was authored in and its permalink says so. It is
     read off the path rather than off the filename because the unit tells you nothing: `KEN` and
     `dpi-pay` are both just units. Anything not recognised renders under `reports/`, which is
-    where every document lived before topics existed."""
+    where every document lived before topics existed.
+
+    The bulletins are the one tree with no unit beneath it — there are two documents and they are
+    the whole of it — so they are recognised on the *parent* rather than the grandparent, and
+    `site_rel` below is where that shows up."""
+    if path.parent.name.lower() == "bulletins":
+        return "bulletins"
     parent = path.parent.parent.name.lower()
     return "topics" if parent == "topics" else "reports"
+
+
+def site_rel(path: Path) -> str:
+    """The document's directory under `site/`, relative — `reports/KEN`, `topics/dpi-pay`,
+    `bulletins`. One function, because the permalink written into the page and the directory the
+    file is written to have to agree and there is no way to notice if they stop."""
+    tree = tree_of(path)
+    if tree == "bulletins":
+        return tree
+    unit, _ = parse_name(path)
+    return f"{tree}/{unit}"
 
 
 def badge_class(text: str, vocab=BADGE) -> str:
@@ -306,9 +324,7 @@ TEMPLATE = """<!DOCTYPE html>
         <div class="article-header__kicker">{kind_label}</div>
         <h1 class="article-header__title">{h1}</h1>
         <div class="article-header__byline" data-edition="{edition}">Edition of {edition} &nbsp;·&nbsp; {subtitle}</div>
-        <div class="screen-only" style="margin-top:1rem;">
-          <a href="{permalink_pdf}" class="btn btn--accent" style="font-size:0.8rem;">&darr; Download PDF</a>
-        </div>
+        <div class="screen-only" style="margin-top:1rem;">{download}</div>
       </header>
 
       <div class="article-body">
@@ -320,17 +336,10 @@ TEMPLATE = """<!DOCTYPE html>
         <dl>
           <dt>Edition</dt><dd class="edition">{edition}</dd>
           <dt>Current edition</dt><dd><a href="{current_url}">{current_url}</a></dd>
-          <dt>This file</dt><dd>{permalink_pdf}</dd>
-          <dt>Derived from</dt><dd>Data Landscapers source base, commit <code>{commit}</code></dd>
-          <dt>Verify</dt><dd>Hash this file and look it up in <a href="{manifest_url}">{manifest_url}</a></dd>
+{colophon_rows}
           <dt>Licence</dt><dd><a href="{licence_url}">{licence}</a></dd>
         </dl>
-        <p>Figures are dated because most are time-varying: a figure carries the
-        date it was true, not the date you are reading it. Where the base holds
-        no reliable statement, the document says <strong>Not held</strong> rather
-        than leaving a silence &mdash; those are counted, and listed at the end.</p>
-        <p>This is a dated edition and is not revised after publication. If a
-        figure here has moved, the current edition will say so.</p>
+{colophon_notes}
       </section>
 
     </div>
@@ -357,7 +366,25 @@ TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[str, str, str, str]:
+REPORT_NOTES = """        <p>Figures are dated because most are time-varying: a figure carries the
+        date it was true, not the date you are reading it. Where the base holds
+        no reliable statement, the document says <strong>Not held</strong> rather
+        than leaving a silence &mdash; those are counted, and listed at the end.</p>
+        <p>This is a dated edition and is not revised after publication. If a
+        figure here has moved, the current edition will say so.</p>"""
+
+BULLETIN_NOTES = """        <p>The bulletin covers what was <em>published</em> in its window, which is not
+        the same as what arrived in it: the corpus acquires in batches, so a
+        record ingested today may carry any publication date. Each item is
+        summarised once and cross-referenced from every other country, region or
+        topic it touches.</p>
+        <p>This page is rewritten at every build and holds only the window named
+        in its byline. It is not an archive; the country, region and topic
+        reports are where a development is kept.</p>"""
+
+
+def build_document(md_path: Path, edition: str | None, absolute: bool,
+                   pdf: bool = True) -> tuple[str, str, str, str]:
     """Return (html, stem_html, stem_pdf, edition) for one report.
 
     `absolute` swaps relative asset paths for file:// URIs. That is the only
@@ -387,8 +414,14 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
     # writes today's name or writes nothing.
     edition = edition or date.today().isoformat()
 
+    # `toc` is here for its ids, not for a table of contents *(2026-08-17)*. It gives every
+    # heading an id slugified from its text, which is what makes an in-document link resolve —
+    # the daily bulletin summarises each item once and cross-references it from every other
+    # country or topic it touches, and without ids every one of those links lands nowhere.
+    # `bulletin.py` imports the same `slugify` to build them, so there is one implementation.
+    # It is additive for every other document: an id attribute on a heading and nothing else.
     html_body = markdown.markdown(
-        body_md, extensions=["tables", "attr_list", "md_in_html", "sane_lists"]
+        body_md, extensions=["tables", "attr_list", "md_in_html", "sane_lists", "toc"]
     )
     h1, html_body = strip_leading_h1(html_body)
     html_body = promote_standfirst(html_body)
@@ -404,12 +437,14 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
     # property of the edition, not of the document. The dated PDF keeps it.
     stem_html = f"{unit}-{kind}"
     stem_pdf = f"{md_path.stem}-{edition}"
-    tree = tree_of(md_path)
-    rel_html = f"{tree}/{unit}/{stem_html}"
-    rel_pdf = f"{tree}/{unit}/{stem_pdf}"
+    rel = site_rel(md_path)
+    rel_html = f"{rel}/{stem_html}"
+    rel_pdf = f"{rel}/{stem_pdf}"
 
     rows, not_held = meta.get("ledger_rows", ""), meta.get("not_held", "")
-    subtitle = (
+    # A document may state its own byline — the bulletins do, since the window is the one thing a
+    # reader needs from the header and no ledger count describes them.
+    subtitle = meta.get("subtitle") or (
         f"{rows} systems and instruments tracked, {not_held} of them not held"
         if rows and not_held else "compiled from the Data Landscapers source base"
     )
@@ -423,8 +458,32 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
         main_css, report_css = "../../assets/css/main.css", "../../assets/css/report.css"
         logo = "../../assets/logo.png"
 
+    # A document rendered without a PDF must not advertise one *(Bill, 2026-08-17)*. The download
+    # button, the `This file` row and the hash-and-verify line all name a file that was never cut,
+    # so they come out together rather than being left to 404.
+    derived = (f"          <dt>Derived from</dt><dd>Data Landscapers source base, "
+               f"commit <code>{built_from()[:12]}</code></dd>")
+    if pdf:
+        download = (f'\n          <a href="{SITE_BASE}/{rel_pdf}.pdf" class="btn btn--accent" '
+                    f'style="font-size:0.8rem;">&darr; Download PDF</a>\n        ')
+        colophon_rows = "\n".join([
+            f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_pdf}.pdf</dd>",
+            derived,
+            f"          <dt>Verify</dt><dd>Hash this file and look it up in "
+            f'<a href="{SITE_BASE}/manifest.csv">{SITE_BASE}/manifest.csv</a></dd>',
+        ])
+    else:
+        download = ""
+        colophon_rows = "\n".join([
+            f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_html}.html</dd>",
+            derived,
+        ])
+
     doc = TEMPLATE.format(
         title=title,
+        download=download,
+        colophon_rows=colophon_rows,
+        colophon_notes=BULLETIN_NOTES if kind == "bulletin" else REPORT_NOTES,
         description=f"{KIND_LABEL.get(kind, kind)} — {title}. Edition of {edition}.",
         short_title=h1 or title,
         h1=h1 or title,
@@ -435,10 +494,8 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
         kind_label=KIND_LABEL.get(kind, kind.title()),
         edition=edition,
         permalink_html=f"{SITE_BASE}/{rel_html}.html",
-        permalink_pdf=f"{SITE_BASE}/{rel_pdf}.pdf",
         current_url=f"{SITE_BASE}/{rel_html}.html",
         manifest_url=f"{SITE_BASE}/manifest.csv",
-        commit=built_from()[:12],
         licence=LICENCE, licence_url=LICENCE_URL,
         org=ORG, company=COMPANY, main_site=MAIN_SITE,
         site_base=SITE_BASE, year=edition[:4],
@@ -446,22 +503,26 @@ def build_document(md_path: Path, edition: str | None, absolute: bool) -> tuple[
     return doc, stem_html, stem_pdf, edition
 
 
-def render(md_path: Path, out_dir: Path, edition: str | None = None) -> tuple[Path, Path]:
-    served, stem_html, stem_pdf, edition = build_document(md_path, edition, absolute=False)
-    for_pdf, _, _, _ = build_document(md_path, edition, absolute=True)
+def render(md_path: Path, out_dir: Path, edition: str | None = None,
+           pdf: bool = True) -> tuple[Path, Path | None]:
+    served, stem_html, stem_pdf, edition = build_document(md_path, edition, absolute=False, pdf=pdf)
 
     out_dir.mkdir(parents=True, exist_ok=True)
     html_path = out_dir / f"{stem_html}.html"
-    pdf_path = out_dir / f"{stem_pdf}.pdf"
+    pdf_path = out_dir / f"{stem_pdf}.pdf" if pdf else None
     # Overwriting in place fails on some synced mounts; replace instead. The
     # HTML is always rewritten (its name never changes); the PDF only
     # replaces the one matching this edition — earlier-dated PDFs are a
     # different filename and are left alone, which is what retains them (§9).
     for f in (html_path, pdf_path):
-        if f.exists():
+        if f is not None and f.exists():
             f.unlink()
     html_path.write_text(served, encoding="utf-8")
 
+    if pdf_path is None:
+        return html_path, None
+
+    for_pdf, _, _, _ = build_document(md_path, edition, absolute=True, pdf=True)
     from weasyprint import HTML  # imported late: only the PDF path needs it
     HTML(string=for_pdf, base_url=str(SITE / "assets" / "css")).write_pdf(pdf_path)
 
@@ -476,6 +537,10 @@ def main() -> int:
     # explicit --out still wins and still takes {unit} beneath it.
     ap.add_argument("--out", type=Path, default=None)
     ap.add_argument("--edition", default=None)
+    # The daily bulletin is HTML only *(Bill, 2026-08-17)*. A dated PDF is a retained edition of a
+    # document worth citing later; a bulletin is superseded the next morning and its content is
+    # kept by the reports, so cutting one would archive the same news twice under a worse name.
+    ap.add_argument("--no-pdf", action="store_true", help="write the HTML and no PDF")
     args = ap.parse_args()
 
     src = args.markdown if args.markdown.is_absolute() else CORPUS / args.markdown
@@ -483,9 +548,9 @@ def main() -> int:
         print(f"not found: {src}", file=sys.stderr)
         return 2
 
-    unit, _ = parse_name(src)
-    base = args.out if args.out is not None else SITE / tree_of(src)
-    html_path, pdf_path = render(src, base / unit, args.edition)
+    rel = site_rel(src)                       # `reports/KEN`, `topics/dpi-pay`, `bulletins`
+    out_dir = SITE / rel if args.out is None else args.out / rel.split("/")[-1]
+    html_path, pdf_path = render(src, out_dir, args.edition, pdf=not args.no_pdf)
 
     print(f"source   {src.relative_to(CORPUS)}")
     def show(p: Path) -> str:
@@ -494,7 +559,8 @@ def main() -> int:
         except ValueError:
             return str(p)          # --out may point outside the repo
     print(f"html     {show(html_path)}  {html_path.stat().st_size/1024:.0f} KB")
-    print(f"pdf      {show(pdf_path)}  {pdf_path.stat().st_size/1024:.0f} KB")
+    if pdf_path is not None:
+        print(f"pdf      {show(pdf_path)}  {pdf_path.stat().st_size/1024:.0f} KB")
     return 0
 
 
