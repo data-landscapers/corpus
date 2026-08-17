@@ -3,18 +3,18 @@ title: Eswatini — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: SWZ
-ledger_rows: 75
+ledger_rows: 76
 not_held: 9
-record: 62bebe66cb79
+record: f2d871b8b950
 ---
 
 # Eswatini: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 75 systems and instruments on this place's ledger, 45 changed position between 2025-08-01 and 2026-08-17, 8 did not, 13 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 76 systems and instruments on this place's ledger, 46 changed position between 2025-08-01 and 2026-08-17, 8 did not, 13 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 59 sources for this place in the window — 18 in the earlier half (2025-08 to 2026-01), 41 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 60 sources for this place in the window — 18 in the earlier half (2025-08 to 2026-01), 42 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -274,6 +274,7 @@ The partnerships that carry the sector all sit with foreign parties. The [Google
 |---|---|---|---|
 | AI, robotics and cybersecurity training at innovation hubs | Did not exist | [Announced; no start date, provider or cohort size given](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) | Advanced |
 | Digital Eswatini change agents | Did not exist | [In training across ministries](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Advanced |
+| Macetjeni digital innovation hub | Did not exist | [A second hub, in the Lubombo Region, backed by the development programme with the communications regulator and the small-enterprise development company, targeting young people, women and people with disabilities; no intake target, running cost or funding term is stated](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities) | Advanced |
 | Digitally skilled citizens targeted | Baseline not held | [300,000 targeted, in a population of about 1.2m](https://times.co.sz/lifestyle/readmore.php?bhsadjgfoh=300+000+emaSwati+needed+for+country%E2%80%99s+digital+future&bvhdgsj=Lifestyle&yiphi=2761) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->

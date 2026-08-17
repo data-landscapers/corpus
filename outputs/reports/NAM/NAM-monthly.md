@@ -3,9 +3,9 @@ title: Namibia — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: NAM
-ledger_rows: 45
+ledger_rows: 47
 not_held: 12
-record: b80c3dd73ab3
+record: ce338a5e04c2
 ---
 
 # Namibia: monthly update, July 2026
@@ -50,6 +50,8 @@ The regulator and the chamber of commerce signed a three-year memorandum in Wind
 The identity ministry reported on 23 July that it printed 166,237 identity documents between 1 April 2025 and 30 June 2026 of which 125,999 were collected, leaving 40,238 uncollected, and that a school registration drive had reached 24 of 55 target schools ([ministry figures](https://neweralive.na/ministry-takes-id-registration-to-khomas-schools/)).
 
 The regional outreach opened in Omaheke on 27 July and ran to 5 August across all seven constituencies, delivered with a development agency and the regulator ([outreach account](https://neweralive.na/e-ids-outreach-kicks-off-in-omaheke/)). The regional governor said marginalised communities need to be convinced to take up the card, and the ministry team named low literacy as the obstacle to understanding it ([governor's account](https://www.namibiansun.com/technology/govt-dismisses-mark-of-the-beast-conspiracies-over-e-ids-nmh013991-1-17373)).
+
+Alongside the outreach runs a [Youth e-ID Ambassadors Programme, using young people to promote take-up of the credential and civic participation](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). Participant numbers, cost, duration and any effect on enrolment are unstated, and the funding agency's own account is the only one the base holds.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -118,6 +120,11 @@ On 4 August an opposition member told a newspaper that with no data-protection s
 
 ## Artificial intelligence and the technology sector
 
+### AI
+
+<!-- narrative: ai-tech--tech-ai -->
+The month's artificial-intelligence work is language work. The development programme's account of 13 August records [an indigenous-language voice-data repository being built through its AI sprint with the national science and technology university](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). No language count, corpus size, licence or release date is stated, and the question a speech corpus raises above all others — who owns the recorded voices, and on what terms they may train a model — is not addressed in the account.
+<!-- /narrative -->
 ### China activities
 
 <!-- narrative: ai-tech--geopol-china -->

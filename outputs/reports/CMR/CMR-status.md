@@ -1,15 +1,15 @@
 ---
 title: Cameroon — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: CMR
-ledger_rows: 91
+ledger_rows: 92
 not_held: 8
-record: e563ce14efee
+record: 805028945811
 ---
 
 # Cameroon: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/CMR/ledger.csv` (91 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/CMR/ledger.csv` (92 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -91,6 +91,7 @@ The [data-centre consolidation policy is an intention to concentrate on one or t
 | AILGLES biometric payroll system | [Implemented](https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist) | Public Service Minister told parliament in June 2026 the system had flagged over 53,000 public servants drawing undue benefits |
 | Biometric national identity card | [Implemented](https://www.biometricupdate.com/202508/new-biometric-id-card-center-opens-for-citizens-in-northern-cameroon) | A second production centre opened at Garoua 2025-08-07 |
 | Biometric voter register | [Implemented](https://lejour.cm/listes-electorales-elecam-acquiert-1000-nouveaux-kits-denrolement/) | 1,000 third-generation enrolment kits delivered, reported 2025-05-08 |
+| Civil-status registration digitisation pilot | [In development](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center) | Equipment tender opened 2026-08-07 |
 | Décret n. 2025/059 on identity titles | [Implemented](https://www.prc.cm/files/e7/0f/3b/6ccd45456387ac207b4797c196318209.pdf) | Signed 2025-02-28 |
 | Secondary-school student digital identity | [Planned](https://www.biometricupdate.com/202606/cameroon-expands-education-digitalization-with-student-digital-id-program) | A memorandum addendum signed, date not published |
 | Yaoundé taxi and driver digital identity | [Implemented](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers) | Enrolment opened 2026-07-03 and closes 2026-10-05 |

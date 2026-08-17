@@ -3,9 +3,9 @@ title: Cameroon — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: CMR
-ledger_rows: 31
+ledger_rows: 32
 not_held: 8
-record: c3ad1b5a54ee
+record: 1e2d11409ccb
 ---
 
 # Cameroon: monthly update, July 2026
@@ -53,6 +53,8 @@ On 29 July a joint communiqué [established a trilateral customs steering commit
 
 <!-- narrative: dpi--dpi-id -->
 Two identity operations ran in the month, both municipal. On 27 July [4,000 free identity cards were handed over at Yaoundé 5](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/), some to recipients blocked for over fifteen years by duplicate-identity records, cleared by seconding police officers on site; the operation was timed to public-service and police recruitment competitions, for which the card is a precondition. From 3 July, [compulsory registration of taxi owners and drivers opened on a city platform](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers), with a QR code and a unique door number per driver and unregistered taxis barred after 5 October.
+
+The register underneath both is only now being equipped. On 7 August the United Nations development programme [opened a tender for the equipment of three pilot centres digitising civil-status registration](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center). Three centres is the whole of the stated scope, and the notice names neither their locations nor a value or timetable — against a paper record the base elsewhere shows being used to draw fraudulent payroll claims.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

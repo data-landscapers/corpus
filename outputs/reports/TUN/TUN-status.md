@@ -1,15 +1,15 @@
 ---
 title: Tunisia — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: TUN
-ledger_rows: 61
-not_held: 9
-record: 5dea6927861d
+ledger_rows: 62
+not_held: 8
+record: 676dbed43f10
 ---
 
 # Tunisia: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/TUN/ledger.csv` (61 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/TUN/ledger.csv` (62 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -117,6 +117,7 @@ The security posture on record is advisory. The national agency's response to a 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Education platform (tarbia.tn) | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/tunisia-unveils-digital-platform-to-boost-education-transparency-equity) | Launched by the education ministry, January 2024 |
+| Khadamet mobile application | [Planned](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/) | Imminent launch announced 2026-08-16 |
 | National register of community companies | [Implemented](https://www.nessma.tv/fr/economie/actu/lancement-du-registre-national-des-societes-communautaires-pour-impulser-le-developpement-local/560812) | Launched at alahlia.tn, 20 July 2026, under decree-law n 3 of 2025 |
 | Online business tax registration | [Implemented](https://www.lapresse.tn/2026/08/04/patente-en-ligne-la-direction-generale-des-impots-lance-sa-nouvelle-plateforme-numerique/) | Platform deployed by the tax directorate, announced 4 August 2026 |
 | Single administrative services portal | [Implemented](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | Reported delivered by end-2025 in the ministerial council's account |
@@ -203,7 +204,7 @@ The [Open Government Partnership](https://www.opengovpartnership.org/documents/t
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Livre Blanc on artificial intelligence for Tunisia | [Planned](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/) | Published open source by a diaspora association and presented at the Tunisia Global Forum |
-| National artificial intelligence strategy | ***Not held*** | — |
+| National artificial intelligence strategy | [In development](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/) | Outlines presented to a restricted ministerial council 2026-08-16 |
 
 ### ICT Industry
 
@@ -290,7 +291,6 @@ Against that external money there is no domestic figure. The [2027 draft budget 
 | Use of satellite data | An earth-observation programme, a land or agricultural monitoring system, or a national mapping arrangement using satellite imagery. | not yet probed |
 | Legal basis for the linked national health dataset | A decree, ministerial order or data-sharing instrument stating the basis, retention rule and supervisory authority for a dataset joining health, civil-status, social-affairs and education records. The ministry asserts only that data is stored confidentially and securely. | not yet probed |
 | United States digital cooperation with Tunisia | A bilateral agreement, a financing commitment or a programme document. The only American-linked item held is a satellite operator's unlicensed market entry, carried under connectivity. | not yet probed |
-| National artificial intelligence strategy | An adopted strategy, a cabinet decision or a published roadmap. A national AI strategy was scheduled for 2025 and none is held; the only roadmap of comparable specificity was written by a diaspora association and offered to the state. | not yet probed |
 | Indian digital cooperation with Tunisia | A bilateral memorandum, a line of credit, or a technology cooperation programme document naming Tunisia. | not yet probed |
 | Budget allocation for the digital transition | An appropriation line in the 2027 finance law or the 2026 budget showing what the state spends on the digital programme. The 2027 draft names acceleration of the digital transition as a structuring axis with no allocation, target or named programme attached. | not yet probed |
 

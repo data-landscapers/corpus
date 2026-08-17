@@ -3,18 +3,18 @@ title: Cameroon — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: CMR
-ledger_rows: 103
+ledger_rows: 104
 not_held: 8
-record: 9a7569355a7a
+record: e96c0ba1c9e8
 ---
 
 # Cameroon: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 103 systems and instruments on this place's ledger, 56 changed position between 2025-08-01 and 2026-08-17, 23 did not, 16 carry no stated baseline, and 8 are ***Not held*** at both ends.*
+*Of 104 systems and instruments on this place's ledger, 56 changed position between 2025-08-01 and 2026-08-17, 23 did not, 17 carry no stated baseline, and 8 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 142 sources for this place in the window — 53 in the earlier half (2025-08 to 2026-01), 89 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 143 sources for this place in the window — 53 in the earlier half (2025-08 to 2026-01), 90 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -96,6 +96,7 @@ Energy metering moved from financed to deployed: [20,000 advanced meters entered
 | Yaoundé taxi and driver digital identity | Did not exist | [Compulsory registration on a city platform, with a QR code and a unique door number per driver; unregistered taxis barred after the deadline](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers) | Advanced |
 | Biometric voter register | In operation on third-generation kits | [In operation; the base carries no dated statement through the October 2025 presidential election](https://lejour.cm/listes-electorales-elecam-acquiert-1000-nouveaux-kits-denrolement/) | No change |
 | Décret n. 2025/059 on identity titles | In force, governing five identity-title classes | [In force, unamended](https://www.prc.cm/files/e7/0f/3b/6ccd45456387ac207b4797c196318209.pdf) | No change |
+| Civil-status registration digitisation pilot | Baseline not held | [Equipment out to tender by the United Nations development programme for three pilot centres digitising civil-status registration; the centres, their locations, the value and the timetable are not named in the notice](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center) | ***Baseline not held*** |
 | Free identity-card delivery, Yaoundé 5 | ***Baseline not held*** | [4,000 free cards delivered, some to recipients blocked for over fifteen years by duplicate-identity records, cleared by seconding police officers on site](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech

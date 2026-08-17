@@ -1,15 +1,15 @@
 ---
 title: Eswatini — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: SWZ
-ledger_rows: 65
+ledger_rows: 66
 not_held: 9
-record: 63eafd04a4cb
+record: 0db0ac6a19ac
 ---
 
 # Eswatini: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SWZ/ledger.csv` (65 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/SWZ/ledger.csv` (66 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -289,6 +289,7 @@ Foreign partnerships carry the sector. The [Google Cloud EMEA memorandum was est
 |---|---|---|
 | AI, robotics and cybersecurity training at innovation hubs | [Planned](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) | Announced at the Macetjeni hub handover as the next phase beyond basic digital literacy |
 | Digital Eswatini change agents | [Implemented](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Cross-ministry change agents in training for the 2027 rollout |
+| Macetjeni digital innovation hub | [Implemented](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities) | Opened 2026-08-06 |
 
 ### Research institutions
 

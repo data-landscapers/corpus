@@ -1,16 +1,16 @@
 ---
 title: Tunisia — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: TUN
-ledger_rows: 24
-not_held: 9
-record: f1b721175569
+ledger_rows: 27
+not_held: 8
+record: f07ab637f370
 ---
 
 # Tunisia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -56,6 +56,8 @@ Six days before the health identifier's provenance became public, the ministry h
 
 <!-- narrative: dpi--dpi-govtech -->
 Two more registers moved. The employment ministry [launched the national register of community companies on 20 July 2026](https://www.nessma.tv/fr/economie/actu/lancement-du-registre-national-des-societes-communautaires-pour-impulser-le-developpement-local/560812), and the launch figures were the disclosure: 230 companies created, 15,000 participants, but only 60 operational and 380 jobs. On [4 August the tax directorate put business tax registration online](https://www.lapresse.tn/2026/08/04/patente-en-ligne-la-direction-generale-des-impots-lance-sa-nouvelle-plateforme-numerique/), ending the required visit to a tax office; it was announced by video capsule rather than by gazette, and its confidentiality assurance names no instrument and no supervisory authority.
+
+A restricted ministerial council of 16 August put a count on the rest: [114 projects in execution, some reported above 90% complete](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/), covering remote residence certificates, driving-licence renewal, remote passport and identity-card applications, the national health identifier and the customs and health-insurance systems. It is not the same measure as the 192 projects the February council tracked, and the two should not be read as a fall. The council also announced [the imminent launch of a Khadamet mobile application offering more than 40 administrative services, reached through the national digital identity and paid by card or virtual wallet](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). No launch date was given, and the application sits on top of the existing administrative portal of the same name rather than replacing it.
 <!-- /narrative -->
 ### National statistics
 
@@ -94,6 +96,8 @@ An agrifood sector data portal [launched on 23 July 2026](https://www.lapresse.t
 
 <!-- narrative: ai-tech--tech-ai -->
 The period's artificial-intelligence document came from outside the state. A diaspora alumni association [presented a Livre Blanc at the Tunisia Global Forum on 21-22 July](https://www.lapresse.tn/2026/07/22/tunisia-global-forum-2026-la-tunisie-face-au-defi-strategique-de-lintelligence-artificielle/) and its contents were [reported on 5 August 2026](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/): a 2030 vision of a country able to create, adopt and deploy trustworthy artificial intelligence, against a stated baseline of 12.7% adoption at end-2025 and 4,120 developers per million inhabitants. It [names the constraints as the absence of large-scale data centres and sovereign compute, brain drain, and small firms that are 90% of the economic fabric](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/), and prescribes frugal compute investment sized by measured demand. The document is declared open source and is not posted anywhere reachable, so all of that is held at press-summary precision.
+
+The state's own document surfaced at the end of the window and settles a gap this ledger has carried. At a restricted ministerial council on 16 August the communication technologies minister [set out the main lines of a National Artificial Intelligence Strategy 2026-2030](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). That establishes the instrument exists and is dated; it does not publish it. No adopted text, cabinet decision, budget or roadmap accompanies the presentation, so the strategy moves from *not held* to in development and no further.
 <!-- /narrative -->
 ### Innovation ecosystem
 

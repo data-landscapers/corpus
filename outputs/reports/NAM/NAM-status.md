@@ -1,15 +1,15 @@
 ---
 title: Namibia — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: NAM
-ledger_rows: 111
+ledger_rows: 113
 not_held: 12
-record: 43069e240007
+record: 23d426595632
 ---
 
 # Namibia: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/NAM/ledger.csv` (111 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/NAM/ledger.csv` (113 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -100,6 +100,7 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 | National electronic identity card | [In development](https://informante.web.na/?p=398234) | Ten-year card validity and PIN authentication set out 2026-08-01 |
 | Randomly generated identity number | [In development](https://informante.web.na/?p=398234) | Confirmed for first-time applicants from September 2026 |
 | School-based identity registration drive | [Implemented](https://neweralive.na/ministry-takes-id-registration-to-khomas-schools/) | 24 of 55 target schools reached by 2026-07-23; the drive runs April to end-July 2026 |
+| Youth e-ID Ambassadors Programme | [Implemented](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs) | Reported running 2026-08-13 |
 
 ### Digital Payments and Fintech
 
@@ -261,6 +262,7 @@ Regulations for appointing an Information Commissioner and Deputy were gazetted 
 |---|---|---|
 | Artificial-intelligence readiness assessment | [Implemented](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | Completed by the research council with the education ministry and an international body |
 | Artificial-intelligence working group of the research council | [Implemented](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | A multi-stakeholder platform with science, data and skills technical advisory committees |
+| Indigenous-language voice-data repository | [In development](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs) | Reported under construction 2026-08-13 |
 | National artificial-intelligence institute | [Planned](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | Recommended by a 2022 task force report; the sixth national development plan calls for a research centre |
 | Consultancy engagement on the artificial-intelligence framework | ***Not held*** | — |
 | National high-performance computing facility | ***Not held*** | — |

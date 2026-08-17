@@ -1,16 +1,16 @@
 ---
 title: Eswatini — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: SWZ
-ledger_rows: 26
+ledger_rows: 27
 not_held: 9
-record: 5705120b585f
+record: 19afe3f272c2
 ---
 
 # Eswatini: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -126,6 +126,8 @@ On 6 August the [Macetjeni Integrated Business, Employment and Innovation Hub wa
 
 <!-- narrative: inclusion--capacity-training -->
 At the Macetjeni handover the ICT ministry's principal secretary said [AI, robotics, coding and cybersecurity courses would follow](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) at the innovation hubs.
+
+The hub itself opened on 6 August at Macetjeni in the Lubombo Region, [the second of its kind, backed by the development programme with the communications regulator and the small-enterprise development company and aimed at young people, women and people with disabilities](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). It opens against [an internet-usage rate of 58% and youth unemployment of 56%](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). No intake target, running cost or funding term is published, so what a second hub is expected to change cannot be read from the account.
 <!-- /narrative -->
 
 ## Finance
