@@ -1,7 +1,7 @@
 ---
 type: doc
 title: Notes for OSINT — resolved
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-17
 ---
 
 # Notes for OSINT — resolved
@@ -12,6 +12,7 @@ last_reviewed: 2026-08-16
 
 | Note | Subject | Raised | Closed |
 |---|---|---|---|
+| 1 | Repo size against GitHub's 5 GB ceiling; the tracked PDFs in `raw/` | 2026-08-06 | 2026-08-17 |
 | 6 | UNITEL outage: two incompatible durations in the base | 2026-08-14 | 2026-08-16 |
 | 8 | OSINT's `index/` built from CORPUS's workroot, holding `raw/` only | 2026-08-14 | 2026-08-16 |
 

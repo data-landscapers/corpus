@@ -1,8 +1,8 @@
 ---
 type: doc
 title: Purge the PDFs from OSINT's git history
-status: not started — written 2026-08-16, for one OSINT session
-last_reviewed: 2026-08-16
+status: done — run in OSINT 2026-08-17, verified from CORPUS the same day (`notes-for-osint-resolved.md` note 1)
+last_reviewed: 2026-08-17
 ---
 
 # Purge the PDFs from OSINT's git history
