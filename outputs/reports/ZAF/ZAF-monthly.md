@@ -1,16 +1,16 @@
 ---
 title: South Africa — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: ZAF
-ledger_rows: 63
+ledger_rows: 64
 not_held: 20
-record: e5419e0e2c24
+record: 881b981978da
 ---
 
 # South Africa: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -59,7 +59,7 @@ Absa [joined the bank-branch smart identity channel](https://www.sanews.gov.za/s
 
 On 29 July the Western Cape High Court [held four categories of exclusion in the birth-registration regulations unconstitutional](https://www.timeslive.co.za/news/south-africa/2026-07-29-court-rules-birth-registration-exclusions-unconstitutional/), allowing 18 months for amendment and holding that the orders required no Constitutional Court confirmation.
 
-Home Affairs reported that its electronic travel authorisation had [refused more than 5,500 travellers](https://www.sundaytimes.timeslive.co.za/news/2026-07-28-home-affairs-to-expand-digital-visa-system-after-blocking-5500-travellers/) since October 2025.
+Home Affairs reported that its electronic travel authorisation had [refused more than 5,500 travellers](https://www.sundaytimes.timeslive.co.za/news/2026-07-28-home-affairs-to-expand-digital-visa-system-after-blocking-5500-travellers/) since October 2025. It then left the pilot: the system [went live at OR Tambo, Cape Town, King Shaka and Lanseria from 12 August, with 6,126 fraudulent applications rejected — put at 2.8% of pilot submissions — and full visa-type rollout targeted by year-end](https://www.itweb.co.za/article/digital-travel-system-takes-off-at-four-sa-airports/O2rQGqAERbnqd1ea). The department publishes no statistical series, and the four rejection counts it has given this year rest on bases that do not reconcile.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -125,6 +125,13 @@ The Prudential Authority's 2025/26 report, reported on 16 July, [embeds AI, clou
 
 <!-- narrative: ai-tech--tech-ai -->
 The Labour Court [stayed disciplinary proceedings](https://www.itweb.co.za/article/ai-hallucinations-strike-again-at-sa-courts/Pero3qZ31oGvQb6m) against three municipal employees on prima facie evidence that a ruling relied on authorities that do not exist. SARS disclosed that [100% of verification cases and 88.41% of complex audits](https://techcabal.com/2026/07/27/ai-south-africas-taxman/) are selected by automated risk assessment. Huawei reported [1,400 local partners accounting for 94.7% of its local revenue](https://techafricanews.com/2026/07/27/huawei-calls-for-stronger-digital-infrastructure-to-scale-ai-in-south-africa/) at its Sandton partner event, where South Africa's founding membership of the China-led World AI Cooperation Organisation was noted; the figures are company-reported.
+
+The measured incidence of AI-enabled harm remains low and the reason is contested. An analysis of an incident database published on 14 August [links South Africa to 12 of more than 1,600 recorded global cases through April 2026](https://www.itweb.co.za/article/south-africans-street-smarts-blunt-ai-enabled-fraud/lwrKx73Y14kqmg1o), attributing the low count to public wariness rather than to strong defences, against deepfake, fabricated-citation and biometric-verification incidents already on record. It is a count of *recorded* cases, and no national reporting duty exists that would make the denominator meaningful.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: ai-tech--tech-industry -->
+The sector's transformation body lost its chair. The communications minister [replaced the B-BBEE ICT Sector Council's chairperson and appointed an interim chair for six months](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL) on 14 August, after a departmental investigation found the council dysfunctional. The investigation report is not published, and no remedial plan, terms of reference for the interim period or date for a permanent appointment is stated.
 <!-- /narrative -->
 
 ## Inclusion and capacity
