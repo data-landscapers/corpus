@@ -308,7 +308,7 @@ Two substantial operations closed inside the window and neither has a successor:
 | Ministry work-plan execution | 10.80% financial execution at 30 June 2025 against 43.61% physical | [78.05% physical execution at 30 November 2025, with no financial-execution rate published for the full year](https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-7805-du-taux-dexecution-physique-global-des-activites-realisees/) | Advanced |
 
 <!-- narrative: finance -->
-Domestic money moved the other way across the whole period. The six tracked appropriation lines fell from FCFA 13.56bn for 2025 to FCFA 9.61bn for 2026, below even the 2024 level; the digital transformation programme fell 67% as a single chapter named after a foreign software vendor disappeared from the volume; and the data-protection authority's vote fell for a second consecutive year while its remit expanded.
+Domestic money moved the other way across the whole period. [The six tracked appropriation lines fell from FCFA 13.56bn for 2025 to FCFA 9.61bn for 2026, below even the 2024 level](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf); [the digital transformation programme fell 67%](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf) as a single chapter named after a foreign software vendor disappeared from the volume; and the data-protection authority's vote fell for a second consecutive year while its remit expanded.
 <!-- /narrative -->
 
 ## Where the record is thin

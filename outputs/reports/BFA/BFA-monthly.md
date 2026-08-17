@@ -137,5 +137,5 @@ A digital acceleration project stated on 13 July that it will support connectivi
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->
-The Council of Ministers of 23 July approved a revised finance law raising both receipts and spending while leaving the deficit unchanged, and recorded 47.30% budget execution at 30 June.
+The Council of Ministers of 23 July [approved a revised finance law raising both receipts and spending while leaving the deficit unchanged, and recorded 47.30% budget execution at 30 June](https://www.rtb.bf/2026/07/24/compte-rendu-du-conseil-des-ministres-du-jeudi-23-juillet-2026/).
 <!-- /narrative -->
