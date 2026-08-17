@@ -1,12 +1,12 @@
 ---
 title: Malawi — digital transformation and data governance status report
-compiled: 2026-08-16
+compiled: 2026-08-17
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 153
+sources_cited: 154
 sections_written: 37
 not_established: 3
 acquire_lines: 44
@@ -18,7 +18,7 @@ acquire_lines: 44
 
 Wholesale bandwidth in Malawi fell from about US$460 per Mbit/s to [under US$10](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) under the World Bank-financed Digital Foundations Project (June 2025), a collapse that has not reached the retail counter: a mobile broadband basket [costs far more than the international affordability benchmark](https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_MWI.pdf) (2022).
 
-Signal runs well ahead of use. MACRA put [4G population coverage at 75.1 per cent by the third quarter of 2024](https://www.ecofinagency.com/news-digital/0810-49382-malawi-launches-broadband-mapping-system-to-bridge-coverage-gaps), while [fewer than two in five people used the internet in 2022](https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_MWI.pdf) and international bandwidth per user stood at 13 kbit/s. The Mo Ibrahim Foundation scored Malawi [9.0 out of 100 on internet and computer access in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf), the second lowest of the 96 indicators it measures for the country.
+Signal runs well ahead of use, and the gap has widened in the measuring. An industry association report published in August 2026 [puts fourth-generation coverage at 87 per cent of the population against mobile-internet penetration of 12.5 per cent, with mobile-money adoption described as near universal](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/) — the association's own figures, not a regulator series. MACRA had put [4G population coverage at 75.1 per cent by the third quarter of 2024](https://www.ecofinagency.com/news-digital/0810-49382-malawi-launches-broadband-mapping-system-to-bridge-coverage-gaps), while [fewer than two in five people used the internet in 2022](https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_MWI.pdf) and international bandwidth per user stood at 13 kbit/s. The Mo Ibrahim Foundation scored Malawi [9.0 out of 100 on internet and computer access in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf), the second lowest of the 96 indicators it measures for the country.
 
 TNM and Airtel have had the market to themselves [since the 1990s, when the population was about 10 million against nearly 23 million now](https://malawi24.com/2026/07/24/mp-pushes-for-third-telecom-player/) (July 2026). [Malcel, licensed as the intended third operator, missed a late-2023 launch and has named no new date, and Nyasa Mobile, licensed in 2022, has never launched](https://itweb.africa/article/malawi-seeks-new-telecom-competition/rW1xLv5n1Xb7Rk6m). The ministry is [weighing further licences](https://itweb.africa/article/malawi-seeks-new-telecom-competition/rW1xLv5n1Xb7Rk6m), but the constraint it concedes is not licensing: the ICT minister told Parliament in July 2026 that [foreign-exchange shortages are limiting incumbents' imports of network equipment](https://malawi24.com/2026/07/24/mp-pushes-for-third-telecom-player/), and TNM names it as [the binding limit on its own investment](https://times.mw/tnm-turns-30-sets-ambitious-plans/) (November 2025).
 
