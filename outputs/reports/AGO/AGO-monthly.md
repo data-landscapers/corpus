@@ -1,21 +1,21 @@
 ---
 title: Angola — monthly update, July 2026
-compiled: 2026-08-16
-period: 2026-07-01 to 2026-08-16
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: AGO
-ledger_rows: 32
+ledger_rows: 35
 not_held: 7
-record: 19be4a373210
+record: 1cc15347483d
 ---
 
 # Angola: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-16 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-A nine-day national mobile outage from 28 July dominated the month and tested an architecture that has decrees but no law. The incumbent's network went down at 02:20 and the mobile layer was [restored gradually to 30 July](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/), but the operator dates [the return of every service carried over it to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/); the state had [settled the sale of 15% of that operator the day before](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/). The kwanza [entered the regional settlement system on 27 July](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system).
+A nine-day national mobile outage from 28 July dominated the month and tested an architecture that has decrees but no law. The incumbent's network went down at 02:20 and the mobile layer was [restored gradually to 30 July](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/), but the operator dates [the return of every service carried over it to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/); the state had [settled the sale of 15% of that operator the day before](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/). The kwanza [entered the regional settlement system on 27 July](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system). The law arrived at the end of the month: the National Assembly [adopted the cybersecurity bill on 12 August](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/), which is not yet promulgated.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -91,12 +91,16 @@ The cybersecurity bill re-entered detailed consideration. Three specialised comm
 
 Five days before that vote, the country's own delegation told a regional forum in Lusaka on 29 July that its cybersecurity law was still in a diagnostic phase. Both statements are the government's own.
 
+The bill then passed. The National Assembly [adopted it on 12 August by 104 votes to 56](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/), the governing party for and the opposition against with no abstentions, on a text of presidential initiative directed at protecting networks, critical infrastructure and essential services through prevention, detection, incident response and restoration. The penalties are administrative and graduated: [seven to 70 minimum wages for individuals on the lightest infringements, rising to 500 for individuals and 4,000 for legal persons on the most serious](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/). No promulgation, gazette number or entry-into-force date is on file.
+
 The National Assembly [approved legislative authorisation 166 votes to nil on 30 July](https://www.opais.ao/politica/parlamento-aprova-autorizacao-legislativa-sobre-assinatura-electronica-com-166-votos-a-favor/) for the President to legislate an electronic-signature and digital-certification regime, valid 90 days after publication of the enabling law — so the regime defining an accrediting authority, a root certification entity and the evidential weight of a signature will be an executive instrument, grounded on the insufficiency of two 2011 texts.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 The data protection law is in force and unamended, and its exemptions are wider than its penalties. [Fines run from USD 75,000 to 150,000, trebled for legal persons and cumulated across concurrent contraventions](https://www.hunton.com/privacy-and-cybersecurity-law-blog/angola-passes-personal-data-protection-law), but the [statute substitutes a law or decree for the regulator's authorisation in two places, and puts processing under state-secrecy, state-security and judicial-secrecy rules outside the law altogether](https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/). The state can therefore authorise itself, and the categories where it most often processes are excluded at the outset.
+
+A report published on 15 August by the South African organisation Intelwatch [found the intelligence service SINSE reaching biometric data without judicial supervision](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and identified no rule stating when it may obtain identity, biometric or mobility data and no independent body to review such requests; the migration service confirmed at the Santa Clara border post that SINSE may request access under established protocols. The same report puts the [national biometric border-control system at US$112m, awarded in February 2025 to Dolinveste Lda with Poland's Technology for Business, reportedly by direct award rather than open tender](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and adds a [EUR 130m passport and biometric identity contract with Hungary's ANY Security Printing, taking the total past US$250m without significant tender, parliamentary scrutiny or human-rights impact assessment](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/). Against that spending it records [no biometric system operating at the border posts with the Democratic Republic of the Congo](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), crossings there regulated by a manually checked seven-day paper pass, and the one functional post reading passports against the migration database but with fingerprint and height capture discontinued on maintenance grounds. It also records that the electoral register is [derived from the civil identity database, with the voter card to be used for the last time in 2027 before the identity card becomes the sole registration credential](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/) under the 2025 official-registration law, and that the register has never had a comprehensive independent technical audit. The figures and the characterisation of the awards are Intelwatch's; no procurement record is on file.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
