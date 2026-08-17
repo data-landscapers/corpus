@@ -1,16 +1,16 @@
 ---
 title: Mali — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: MLI
 ledger_rows: 39
 not_held: 4
-record: 7d044899f854
+record: 6f2d800af338
 ---
 
 # Mali: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -134,7 +134,7 @@ There is [no dedicated European Union country programme for Mali for 2025 to 202
 <!-- narrative: ai-tech--tech-ai -->
 On 1 August the Semaine du Numerique [recommended a national AI strategy](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), which Mali does not have, alongside an AES protocol on AI governance. The [Centre d'intelligence artificielle et de robotique closed the week with a demonstration of a locally built intrusion-detection technology](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0).
 
-The Francophone West African AI governance guidelines have no drafted narrative yet.
+Mali joined a regional framework rather than making one. Six francophone West African states [adopted common artificial-intelligence governance guidelines on 9 July, led by an advocacy organisation and announced at the Global Dialogue on AI Governance](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). The guidelines are non-binding and no Malian implementing instrument follows from them on the record.
 <!-- /narrative -->
 
 ## Inclusion and capacity

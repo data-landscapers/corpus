@@ -1,16 +1,16 @@
 ---
 title: Morocco — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: MAR
 ledger_rows: 32
 not_held: 17
-record: 4447beac0f01
+record: d75abf85b3d8
 ---
 
 # Morocco: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -78,7 +78,7 @@ A 50-article digital health bill was adopted in the government council on 22 Jul
 
 A constitutional-law academic stated on 30 July that the revised electoral framework criminalises use of artificial intelligence to distort the truth or intrude on the private lives of candidates and voters, naming no law, article number or gazette reference ([commentary](https://www.hespress.com/%d8%a8%d9%86-%d8%ad%d9%85%d8%b2%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d8%aa%d8%b6%d9%84%d9%8a%d9%84-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7-1784231.html)).
 
-Personal data protection law 09-08, recorded 4 August 2026 as recast in the legislative circuit, has no drafted narrative yet.
+The data-protection statute is being recast rather than replaced. The regulator's president stated on the record that a recast of law 09-08, developed with the justice ministry, has entered the legislative circuit and been sent to the secretariat general of the government; he describes it as clarification rather than replacement. The [law itself has been in force since 2009](https://www.trade.gov/country-commercial-guides/morocco-digital-economy), and no transmission date or text for the recast is held.
 <!-- /narrative -->
 ### Strategies, plans and policies
 

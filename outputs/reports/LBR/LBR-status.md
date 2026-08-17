@@ -1,15 +1,15 @@
 ---
 title: Liberia — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: LBR
-ledger_rows: 55
+ledger_rows: 56
 not_held: 8
-record: 60e5cc3c82a7
+record: 81e093fd682c
 ---
 
 # Liberia: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (55 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (56 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -99,8 +99,9 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Automated telecom licensing and renewal platform | [Implemented](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system) | Rolled out, reported 2026-08-13 |
 | Civil Service Agency automated legal power of attorney platform | [Implemented](https://www.liberianobserver.com/business/csa-goes-live-with-automated-lpa-platform/article_f73f54f9-cac1-4fa6-b5e1-f0d33235505f.html) | Went live December 2025 with 5,000 enrolled across 16 government entities |
-| Electronic government procurement platform | [Implemented](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | Phase Two equipment distribution begun, 5 August 2026 |
+| Electronic government procurement platform | [Implemented](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | Equipment handed to the telecommunications regulator, reported 2026-08-12 |
 | GREAT digital identity and digital government project | [Implemented](https://www.biometricupdate.com/202503/liberia-launches-digital-public-infrastructure-project-with-30m-world-bank-funding) | US$30m World Bank project launched, March 2025 |
 | Office of Technology, Digitalization and Innovation (Executive Order 163) | [Implemented](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html) | Executive Order 163 signed, 22 April 2026 |
 

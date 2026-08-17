@@ -1,16 +1,16 @@
 ---
 title: Rwanda — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: RWA
-ledger_rows: 39
+ledger_rows: 40
 not_held: 9
-record: 3a85cb0f808d
+record: 6fcfa4722845
 ---
 
 # Rwanda: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -54,6 +54,8 @@ The layer the rail does not touch moved the other way. Regulator statistics for 
 
 <!-- narrative: dpi--dpi-registry -->
 Business registration moved entirely online in January and now runs at [incorporation in 24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The prior state is inferred from the source's own wording rather than stated in it.
+
+The civil register acquired an outside account of what it now carries. Case studies published on 13 August [describe civil registration as digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services, on a network of thousands of registration points that replaced a centralised, travel-dependent process](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure); the same account puts [about 85% of public services digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure). The figures are those of the advocacy organisation that has worked on the system since 2016, and no government statement of them is held.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 

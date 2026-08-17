@@ -1,16 +1,16 @@
 ---
 title: Benin — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: BEN
 ledger_rows: 22
 not_held: 4
-record: 205355342b41
+record: be79738a3ed6
 ---
 
 # Benin: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -114,7 +114,7 @@ The [first national artificial-intelligence olympiad was held on 9 July](https:/
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-The Council of Ministers authorised a national tele-teaching platform across four public universities for 2026–27, with virtual amphitheatres for students in the hinterland. The state RSSI certification programme and the Sème City skills hub network, both dated within the window, have no drafted narrative yet.
+The Council of Ministers authorised a national tele-teaching platform across four public universities for 2026–27, with virtual amphitheatres for students in the hinterland. Two skills programmes ran alongside it. The state's information-systems security officer certification [opened a cohort of 25 on 3 August, taking about 85 officers trained against a target of 100 qualified by end-2026, on CEH and ISO 27001 with practical work at the national cyber range, and widened intake beyond central government to local authorities, state enterprises and the private sector](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi). The [Sème City hub network runs a francophone digital-skills programme and an annual digital week alongside a Sorbonne partnership](https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-higher-education-access-through-e-learning-strategy); no enrolment or completion figure is published for it.
 
 Benin held a first National AI Olympiad on 9 July. Nothing moved on the national strategy itself, on the generative-AI compliance regime published in June, or on the government super app the presidential programme lists among its existing foundations and which nothing establishes.
 <!-- /narrative -->

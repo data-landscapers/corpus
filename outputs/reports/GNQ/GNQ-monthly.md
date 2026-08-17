@@ -1,16 +1,16 @@
 ---
 title: Equatorial Guinea — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: GNQ
 ledger_rows: 23
 not_held: 6
-record: 88a779027354
+record: 1c4a120f598b
 ---
 
 # Equatorial Guinea: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -33,7 +33,7 @@ The Minister of Transport, Posts and New Information and Communication Technolog
 
 The same ministry published [terms of reference for a public tender](https://ahoraeg.com/politica/2026/07/29/el-gobierno-lanza-una-licitacion-publica-para-el-diagnostico-integral-del-proyecto-de-television-digital-terrestre-tdt/) on 29 July for a full technical diagnostic of existing digital terrestrial television infrastructure and its regularisation, rehabilitation, commissioning and operational transfer. It is Treasury-financed, and no contract value, tender deadline or switchover date is stated.
 
-The ministry's own July-December 2026 connectivity plan, dated from 15 July, has no drafted narrative yet.
+The ministry put a six-month connectivity plan to the Prime Minister on 15 July. It [names 2G and 4G coverage to 85% through 34 new towers in Annobón and the interior, a Roaming Cero arrangement with Cameroon, Gabon, Chad and the Central African Republic, and a national digital postcode system](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes). No budget, contract or delivery date accompanies any of the three, and the consolidated action plan they sit in was adopted on 31 July unfinanced, going first to the interministerial council and then to the Council of Ministers, which decides what is recorded and funded.
 <!-- /narrative -->
 ### Cybersecurity
 

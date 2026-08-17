@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-17
 place: GAB
 ledger_rows: 35
 not_held: 27
-record: 9cf4801c99b5
+record: c74714d9acc7
 ---
 
 # Gabon: monthly update, July 2026
@@ -67,7 +67,7 @@ On 30 July the education ministry received 1,000 tablets for what the minister d
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-On 2 August the border agency's tourist electronic visa platform, developed in 2025, was presented to the travel trade ([account](https://www.gabonreview.com/supprimer-les-barrieres-administratives-le-pari-du-e-visa-touristique-gabonais/)). The administration.ga portal, also dated within the window, has no drafted narrative yet.
+On 2 August the border agency's tourist electronic visa platform, developed in 2025, was presented to the travel trade ([account](https://www.gabonreview.com/supprimer-les-barrieres-administratives-le-pari-du-e-visa-touristique-gabonais/)). A second platform was shown rather than launched: administration.ga was [presented to the Vice-President as an integrated suite for secure messaging, meeting management and the exchange of confidential documents between civil servants, built with a Gabonese start-up, with the state holding the source code at no cost](https://gabonmediatime.com/gabon-le-gouvernement-sassocie-au-cgi-pour-la-mise-en-place-de-la-plateforme-administration-ga/). No contract, cost, timetable or hosting arrangement is stated.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 

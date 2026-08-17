@@ -1,16 +1,16 @@
 ---
 title: Namibia — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: NAM
 ledger_rows: 45
 not_held: 12
-record: fe3313fee50f
+record: b80c3dd73ab3
 ---
 
 # Namibia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -108,7 +108,7 @@ Cabinet approved a memorandum on information technology cooperation with the Rep
 
 Namibia joined four other governments as a founding partner of a pan-African African-language artificial-intelligence initiative launched at a continental telecommunications conference in Abuja on 24 July ([launch account](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/)). Namibia's stated commitment is ministerial support rather than a named contribution, and the ICT minister is one of eight Africans on a 44-member international commission ([conference account](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/)).
 
-A Namibia-Botswana information and communications technology memorandum, signature announced 6 August, has no drafted narrative yet.
+A memorandum with Botswana was [announced for signature by the two ICT ministers on 6 August at Kasane](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/), extending cooperation that already covers reduced cross-border roaming charges and Namibian transit to submarine cable capacity into digital transformation, emerging technologies and cybersecurity. No term, funding, named workstream or data-governance provision is published, and the base holds the announcement rather than a signature.
 <!-- /narrative -->
 ### Data protection
 

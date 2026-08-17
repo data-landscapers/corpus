@@ -1,16 +1,16 @@
 ---
 title: Ghana — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: GHA
-ledger_rows: 84
+ledger_rows: 85
 not_held: 9
-record: 2e7d039ff308
+record: b4150e13b96e
 ---
 
 # Ghana: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -44,6 +44,10 @@ The cable inventory did not move; what moved is the base's reading of it. The re
 
 <!-- narrative: infrastructure--infra-cybersec -->
 A community-media cyber capability project launched on 3 August, certifying community-radio journalists into a standing press corps.
+
+The Cybersecurity Act's licensing regime produced its first published penalties. The Cyber Security Authority [fined the Office of the Registrar of Companies and Purpleline Solutions a combined GH¢360,000 for breaching the Act's licensing requirements](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html) on 13 August — [GH¢240,000 against the Registrar in two penalties of GH¢120,000 for engaging an unlicensed cybersecurity service provider, and GH¢120,000 against the provider for operating without a licence](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html). One of the two penalised bodies is itself a state registry. The base holds no prior published penalty under the Act.
+
+The regulator also [held a two-day consultative and validation workshop with UNICEF Ghana on online child sexual exploitation and abuse](https://techafricanews.com/2026/08/13/ghana-strengthens-online-child-protection-with-csa-unicef-initiative/), reviewing the national response and naming coordination and frontline-capacity gaps; no instrument or programme follows from it on the record.
 <!-- /narrative -->
 
 ## Digital public infrastructure

@@ -1,16 +1,16 @@
 ---
 title: Liberia — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: LBR
-ledger_rows: 26
+ledger_rows: 27
 not_held: 8
-record: 770ecd29ae4e
+record: 00ffad41e4cc
 ---
 
 # Liberia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -25,8 +25,7 @@ July 2026 was organised around the Liberia Technology Summit of 21-22 July, at w
 <!-- narrative: infrastructure--infra-connect -->
 The regulator revoked [Starcell International Liberia's universal licence and spectrum authorisation with immediate effect on 22 July 2026](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license), after a 90-day suspension from 9 February during which no corrective action was taken; spectrum, numbering resources and regulatory privileges revert to the Authority. The grounds cited were failure to commence operations, unmet financial obligations and non-payment of universal access contributions.
 
-At the same 21 July event, the Posts and Telecommunications Minister [announced a second subsea cable and expanded fibre](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date, budget line or cable landing partner given for either; the LTA separately said it is reviewing a World Bank-supported report on reducing telecom costs. A separate Starlink School Connect programme, dated 17 July, has no drafted narrative yet.
-
+At the same 21 July event, the Posts and Telecommunications Minister [announced a second subsea cable and expanded fibre](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date, budget line or cable landing partner given for either; the LTA separately said it is reviewing a World Bank-supported report on reducing telecom costs.
 The Anti-Corruption Commission's 30 July complaint over the telecoms traffic-monitoring arrangement, forwarded to its investigation unit, is covered under Governance and regulation → Public debate and participation in policymaking below.
 <!-- /narrative -->
 ### Data Storage
@@ -57,7 +56,9 @@ Speaking on 21 July, the Posts and Telecommunications Minister said [rollout of 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The e-procurement platform published its first operating figures on 5 August: [more than 1,200 vendors registered and more than US$400,000 in revenue generated](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/). No contract value transacted, tender count, bidder numbers or share of government procurement passing through the platform is given. Two days later it became an export: Sierra Leone's procurement authority [sent a delegation to Monrovia on 6-7 August to study the implementation](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html), where the executive director dated the national launch to February 2025 after a six-institution pilot and credited the African Development Bank and the World Bank with the backing behind it.
+The e-procurement platform published its first operating figures on 5 August: [more than 1,200 vendors registered and more than US$400,000 in revenue generated](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/). No contract value transacted, tender count, bidder numbers or share of government procurement passing through the platform is given. Two days later it became an export: Sierra Leone's procurement authority [sent a delegation to Monrovia on 6-7 August to study the implementation](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html), where the executive director dated the national launch to February 2025 after a six-institution pilot and credited the African Development Bank and the World Bank with the backing behind it. A later account of the same visit [records the telecommunications regulator receiving equipment to strengthen its own use of the platform](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), framed as deepening bilateral cooperation on digital transformation and procurement transparency.
+
+Licensing moved off paper in the same week. The telecommunications regulator [rolled out an automated telecom licensing and renewal platform](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), letting applicants apply and renew online while keeping in-person service available. No licence count, processing time or fee schedule is published.
 <!-- /narrative -->
 
 ## Governance and regulation

@@ -1,16 +1,16 @@
 ---
 title: Egypt — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: EGY
-ledger_rows: 72
+ledger_rows: 73
 not_held: 54
-record: 5b570eb764eb
+record: 1a837b63e818
 ---
 
 # Egypt: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -48,7 +48,7 @@ The 19 July cabinet meeting produced the window's substantive disclosure: 105 go
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Identity gained a second biometric front end and a liability problem in the same month. The central bank governor launched [Haweya, registering face and fingerprint biometrics and enabling remote account opening at 37 banks](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion), and the [national identity application reached a second release adding liveness detection](https://gate.ahram.org.eg/News/5813424.aspx). Neither carries an enrolment count or a governing decree. Against that, the telecommunications regulator [stated that registration alone does not establish criminal liability](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) after lines were found registered to people without their knowledge, after reports of a nineteen-year-old sentenced in absentia to 25 years in a case turning on a line registered in his name in 2024; it says it is revising the rules towards biometric subscriber verification, with no date or target stated. The health ministry is separately [stated to have taken birth and death registration electronic nationwide](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444), on the development plan's own word and with no coverage rate published.
+Identity gained a second biometric front end and a liability problem in the same month. The central bank governor launched [Haweya, registering face and fingerprint biometrics and enabling remote account opening at 37 banks](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion), and the [national identity application reached a second release adding liveness detection](https://gate.ahram.org.eg/News/5813424.aspx). Neither carries an enrolment count or a governing decree. Against that, the telecommunications regulator [stated that registration alone does not establish criminal liability](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) after lines were found registered to people without their knowledge, after reports of a nineteen-year-old sentenced in absentia to 25 years in a case turning on a line registered in his name in 2024; it says it is revising the rules towards biometric subscriber verification, with no date or target stated. Within a week the revision acquired shape: the regulator [tightened the registration rules, referred the four mobile operators to the prosecution and set a unified national digital-identity project alongside](https://gate.ahram.org.eg/News/5887018.aspx), and is [expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry](https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case). Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case turned on. The health ministry is separately [stated to have taken birth and death registration electronic nationwide](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444), on the development plan's own word and with no coverage rate published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -69,6 +69,8 @@ The social insurance authority reported on 3 August that it had served 8,621,000
 
 <!-- narrative: dpi--dpi-govtech -->
 Two further services opened: the Public Prosecution began returning, through the national digital identity system, criminal judgments registered against an enquirer's own national number, and digital visa-on-arrival began at Cairo International on 1 August, with an issuance fee charged on top of the visa fee.
+
+The judiciary signed for a platform of its own. On 11 August the justice minister and the heads of every judicial body [signed a Unified Digital Justice Strategy and launched a shared judicial-data platform](https://gate.ahram.org.eg/News/5887141.aspx), built with a foreign vendor and set out in three phases covering remote litigation, cybersecurity and artificial-intelligence-enabled services. No text, timetable, budget or data-protection arrangement is published, and the vendor's contract value and procurement route are not stated. The [unified government services card, integrating food-subsidy and civil-service delivery into one platform, was reviewed by the supply and communications ministers the day before](https://itweb.africa/article/egypt-accelerates-govt-digitisation-push/JBwErvn3WDP76Db2), on database sharing and technical integration.
 <!-- /narrative -->
 ### Rural digital data capture
 

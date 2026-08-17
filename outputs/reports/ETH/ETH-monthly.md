@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-17
 place: ETH
 ledger_rows: 42
 not_held: 4
-record: 712fe9d0b937
+record: fb553c676448
 ---
 
 # Ethiopia: monthly update, July 2026
@@ -66,7 +66,7 @@ At the 24 July launch of a three-year strategic plan, the same meeting disclosed
 <!-- narrative: dpi--dpi-id -->
 The identity programme supplied most of the month's movement: a [joint venture with Safaricom and a local partner](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration) on 6 July to run mass registration across seven regions, and, on 24 July, the operator's own disclosure that it accounts for 69% of all registrations, with more than 4m farmers enrolled through the agriculture ministry and more than 28,000 displaced people through humanitarian partners.
 
-At the same 24 July launch of a three-year strategic plan, its deputy director in the capital named premature integration as the year's main obstacle and its founding director general conceded the platform remains intertwined with decades-old institutional systems of undefined standards. The Faydaverse digital-public-infrastructure enterprise, stood up on 4 August as a state-owned enterprise under Ethiopian Investment Holdings, has no drafted narrative yet.
+At the same 24 July launch of a three-year strategic plan, its deputy director in the capital named premature integration as the year's main obstacle and its founding director general conceded the platform remains intertwined with decades-old institutional systems of undefined standards. The identity layer meanwhile acquired a corporate owner: the Faydaverse digital-public-infrastructure enterprise was inaugurated on 4 August as a state-owned enterprise under Ethiopian Investment Holdings, on a platform [reported at over 190 million authentications performed and 150 enterprises integrated for biometric checks](https://www.biometricupdate.com/202603/ethiopias-digital-id-joins-sovereign-wealth-fund-as-weekly-enrollments-reach-1m). No governing instrument, board or commercial model for the enterprise is published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -113,7 +113,7 @@ On 23 July the central bank issued a [public notice](https://www.thereporterethi
 
 On 25 July the [payment-gateway tax case](https://www.thereporterethiopia.com/52044/) was set out in full. The central bank, compiling processing data for a revenue audit, conflated gross transaction volume with gateway revenue — restating one gateway's three-year throughput of ETB 32bn as ETB 143.9bn and taxing the difference at 30%, where gateways in fact earn about 2.5% commission. Corrected datasets issued by letter in April 2026 and verified by a governor's technical committee were not accepted; ETB 818m was swept from frozen accounts in May against a liability counsel puts at ETB 20–30m, with parallel sweeps against two other gateways, and the justice ministry declined to intervene on the ground that no administrative body can reverse a revenue decision.
 
-The Berne Convention accession, the Copyright Proclamation 410/2004 online-infringement amendment, and the Critical Infrastructure Cybersecurity Proclamation No. 1426/2026 all moved this window and have no drafted narrative yet.
+Three instruments moved in the window and none binds yet. The Critical Infrastructure Cybersecurity Proclamation was [signed by the President at Addis Ababa on 21 July, designating twelve critical sectors, placing eighteen core obligations on owners and operators and creating a cybersecurity fund](https://www.ena.et/web/eng/w/eng_9359494), with commencement set one year after gazettement — about July 2027 — and regulation-making powers left to the Council of Ministers and the security agency. On copyright, a [draft ratification proclamation for the Berne Convention went to the Council of Ministers, and a separate amendment to the 2004 copyright proclamation is being drafted with a university law school to add internet service provider duties, site-blocking procedures and a rights-holder take-down notice](https://www.thereporterethiopia.com/52113/). Ethiopia is not yet a party to the convention and neither draft has a published text.
 <!-- /narrative -->
 ### Strategies, plans and policies
 

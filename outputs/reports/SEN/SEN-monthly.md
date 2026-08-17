@@ -1,16 +1,16 @@
 ---
 title: Senegal — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: SEN
-ledger_rows: 51
+ledger_rows: 52
 not_held: 12
-record: 1eba02b6eb19
+record: 4d4fda480ff8
 ---
 
 # Senegal: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -64,7 +64,7 @@ Digital settlement on the Dakar rapid-transit network reached [39% after a super
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-On 28 July an audit mission [launched across 74 communes, 59 already audited and fifteen selected on risk analysis](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html); no findings are stated. On 30 July the mines ministry and the deposits fund [signed a convention commissioning professional cards and a nationwide database of artisanal gold miners](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-senegal-numerise-lorpaillage-pour-juguler-une-perte-annuelle-de-plus-de-614-millions), with no enrolment target, host or data-protection provision reported. The national digital addressing project has no drafted narrative yet.
+On 28 July an audit mission [launched across 74 communes, 59 already audited and fifteen selected on risk analysis](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html); no findings are stated. On 30 July the mines ministry and the deposits fund [signed a convention commissioning professional cards and a nationwide database of artisanal gold miners](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-senegal-numerise-lorpaillage-pour-juguler-une-perte-annuelle-de-plus-de-614-millions), with no enrolment target, host or data-protection provision reported.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
@@ -87,7 +87,7 @@ The statistics agency [hosted the first peer exchange of an inclusive-data initi
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-A [critical-infrastructure protection legal framework is in preparation, undated](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/).
+The critical-infrastructure framework that was undated at the end of July reached parliament a fortnight later. A bill on protecting critical information infrastructure and digital security [was presented to the National Assembly's intercommission on 13 August and examined by its committees](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), proposing [a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), alongside [local hosting of public data, service continuity and personal-data protection](https://www.pressafrik.com/Securite-numerique-Bacary-Sarr-participe-a-l-examen-du-projet-de-loi-sur-les-infrastructures-critiques_a309846.html) under the state's technology-deal agenda. No adoption date, gazette reference or text is published, and nothing the bill proposes exists yet.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -124,7 +124,7 @@ A ministry legal adviser stated that the state has [worked on social-media regul
 ### AI
 
 <!-- narrative: ai-tech--tech-ai -->
-A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The Senegal AI Factory has no drafted narrative yet.
+A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The state's own AI build was presented abroad rather than at home: the Senegal AI Factory was [set out to an international AI-process meeting in Tokyo as the main component of the Senegal Digital Factory under the technology strategy's eighth priority programme, covering national AI capability, startups, applied research and training](https://www.pressafrik.com/New-Deal-Technologique-le-Senegal-devoile-la-Senegal-AI-Factory-devant-la-communaute-internationale-a-Tokyo_a309281.html), with no launch date, budget, compute location or partner commitment stated.
 <!-- /narrative -->
 ### Innovation ecosystem
 
