@@ -1,16 +1,16 @@
 ---
 title: Uganda — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: UGA
-ledger_rows: 48
+ledger_rows: 51
 not_held: 16
-record: d52b91e71653
+record: 83e4db592761
 ---
 
 # Uganda: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -47,6 +47,8 @@ The largest operator's 2025 sustainability report puts [45% of network sites on 
 The ICT ministry [launched an updated national information security framework on 16 July](https://itweb.africa/article/uganda-launches-updated-cybersecurity-framework/LPwQ57lboKAqNgkj), developed under the Uganda Digital Acceleration Project and setting minimum controls for government institutions, citing a 60% year-on-year rise in attacks including a UGX 62bn central-bank incident. The framework document itself is not published.
 
 On 17 July the regulator opened work on a [national anti-piracy coordination framework](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/) with broadcasters, three mobile operators, the revenue authority and the registration bureau. Legitimate pay-television subscriptions were given as about 800,000 in March 2026 against about 1.65 million in 2021. Dynamic address and name-resolution blocking is under exploration, and participants at the convening raised the dual use of blocking infrastructure built for piracy.
+
+Two accounts in August put the threat above the response. A continental police assessment [attributes over US$2m of losses to a single Ugandan deepfake investment scam](https://techcabal.com/2026/08/13/africa-cybercriminals-adopting-ai-institutions-them/), against 8% of intelligence analysts recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools. At the communications regulator's first national cybersecurity conference on 13 August, an operator [called for fraud protection to be built into digital-finance products and described an interface letting banks check for recent SIM-swap activity before processing a transaction](https://techafricanews.com/2026/08/13/airtel-urges-ugandas-digital-finance-sector-to-build-fraud-protection-into-products/); no uptake figure for the interface is published. The central bank separately told a conference that [cybersecurity is now a national security issue](https://www.newvision.co.ug/category/news/cybersecurity-now-a-national-security-issue-s-NV_238608_082026).
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -65,6 +67,8 @@ Three payment arrangements were opened in the month, all private. A [licensed lo
 
 <!-- narrative: dpi--dpi-govtech -->
 Electronic government procurement reached [136 entities onboarded with version 2.0 in service, verifying suppliers automatically against the revenue, registration, identity and social-security registers](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026), and training opened for a further 100 entities on 3 August. An onboarded entity no longer advertises tenders in newspapers and may transact only with registered providers. Onboarding is stated to continue each financial year until all of government is on the system.
+
+Two further e-services launched on 12 August under the same government network programme: [a teacher-training platform with more than 6,600 teachers enrolled, and a case-management system for the Human Rights Commission](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/). Neither carries a published retention rule or data-protection assessment, which is the sharper omission for a system holding complaint records.
 <!-- /narrative -->
 ### National statistics
 
@@ -98,6 +102,8 @@ On 30 July the transformation programme secretariat reported that its review of 
 
 <!-- narrative: governance--gov-protect -->
 The data protection office's letter of 17 July confirmed compliance with the five orders in its [decision of 20 February 2026](https://adlegalug.com/wp-content/uploads/2026/02/PDPO-Decision-in-Ad-legal-International-Ltd-v-WhatsApp-LLC-Meta-Platforms-Inc.pdf), which had required a data-protection impact assessment, an adequacy assessment, a legitimate-interests assessment and a Uganda-specific privacy notice. The decision imposed no fine and refused the complainant's prayers for cessation of intra-group sharing.
+
+On 14 August the ICT ministry launched a [three-year child online-safety campaign in Kampala with the communications regulator and a private partner](https://www.itweb.africa/article/uganda-commits-to-making-cyber-space-safe-for-minors/dgp45MaBl1kqX9l8). No budget, reach target or evaluation arrangement is published for it, which is the same gap that closed the previous awareness campaign without a measured result.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
