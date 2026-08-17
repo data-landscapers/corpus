@@ -6,7 +6,7 @@ last_reviewed: 2026-08-16
 
 # Render the site — runbook for Claude Code
 
-*(Hand this to Claude Code running in the Corpus repo on Bill's machine. It renders every site page from Corpus-owned `outputs/`. Read `documentation/handover.md` and `documentation/design.md` §8 first. OSINT is read-only and is not touched by any step here.)*
+*(Hand this to Claude Code running in the Corpus repo on Bill's machine. It renders every site page from Corpus-owned `outputs/`. Read `documentation/handover.md` and `documentation/design.md` §8 first. OSINT is read-only and is not touched by any step here. **To run this straight after `BUILD.md` as one job, use `CYCLE.md`**, which orders the two and changes nothing here; this file is unaffected by it and runs alone exactly as written, Step 0 included.)*
 
 ## What changed, and why this runbook exists
 
