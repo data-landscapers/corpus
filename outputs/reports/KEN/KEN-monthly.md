@@ -1,16 +1,16 @@
 ---
 title: Kenya — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: KEN
-ledger_rows: 98
+ledger_rows: 104
 not_held: 6
-record: 333bac0a0c99
+record: 4a4bfb2da229
 ---
 
 # Kenya: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -33,6 +33,8 @@ Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.
 
 <!-- narrative: infrastructure--infra-store -->
 On 4 August the operator building the 44MW Tatu City data centre [moved completion to July 2027](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) from a first-quarter 2027 date.
+
+Two prospective builds were talked about rather than begun. The technopolis authority and a hyperscaler are [exploring a local cloud outpost and a startup and technical centre of excellence](https://techmoran.com/2026/08/13/konza-aws-explore-local-cloud-outpost-and-startup-center-in-kenya/), aimed at data residency and low-latency hybrid cloud; and the ICT principal secretary [received a Chinese network communications group on broadband, smart cities and digital infrastructure investment](https://techafricanews.com/2026/08/13/kenya-eyes-chinese-investment-in-broadband-smart-cities-and-digital-infrastructure/). Neither produced a memorandum, a value or a date.
 <!-- /narrative -->
 ### Energy
 
@@ -48,6 +50,8 @@ Two capacity items advanced without a figure attached to either. Nationwide broa
 
 <!-- narrative: infrastructure--infra-cybersec -->
 The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and restored on 20 July](https://itweb.africa/article/kenya-restores-presidential-website-after-cyber-attack/Gb3Bw7WadxLq2k6V) — the second compromise of that portal in eight months. State House says no evidence of data access was found; cause and attribution are undisclosed.
+
+A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -61,6 +65,8 @@ The health ministry issued tender addenda on 27 July 2026 that [make financial, 
 
 <!-- narrative: dpi--dpi-id -->
 Government is [procuring a system to cut identity-card issuance to ten days and passports to a week](https://www.standardmedia.co.ke/national/article/2001551755/new-technology-slashes-national-id-waiting-time-to-10-days). The source is a headline account; no contract, vendor or value is held.
+
+Two identity systems met the courts instead. The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -86,6 +92,10 @@ The Controller of Budget's report entered July's reading: [1,695 of a target 11,
 Virtual-asset regulations were [gazetted on 22 July 2026 as Legal Notice 134](https://new.kenyalaw.org/akn/ke/act/ln/2026/134/eng@2026-07-22/source), setting paid-up capital by licence class from KES 300m for stablecoin issuance to nil for investment advisers, and a seizure and freezing framework; the draft's ownership cap did not survive into the gazetted text. Existing operators must license afresh by 4 November 2026 under the 2025 Act.
 
 On 28 July the Court of Appeal's narrowing of the Computer Misuse and Cybercrimes Act was [reported at a coalition close-out](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/): the false-publication sections and the power to shut down websites without judicial oversight were struck, and a conservatory order blocks a national internet shutdown pending full hearing.
+
+Cyber cafés acquired licence conditions and then a clarification of them. The regulator [published the conditions by gazette notice on 7 August, taking effect on 7 September](https://techcabal.com/2026/08/13/kenya-says-cyber-cafes-dont-have-to-track-browsing-history/), requiring customer name and identity number, terminal and session times to be captured and kept at least three years, and [clarified on 13 August that operators need not track customers' browsing history](https://techcabal.com/2026/08/13/kenya-says-cyber-cafes-dont-have-to-track-browsing-history/). An earlier account of the same rules gave the effective date as 14 August; the gazette notice the regulator cites puts it four weeks later.
+
+A separate bill would meter what those records cover. An internet service provider [told Parliament on 14 August that mandatory consumption-based internet billing under the Kenya Information and Communications (Amendment) Bill 2025 could raise costs and create data-privacy risks](https://peopledaily.digital/business/faiba-warns-parliament-new-internet-billing-rules-could-raise-costs-and-threaten-privacy), metering at subscriber level implying retained usage records. No committee report or enactment date is published.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -118,6 +128,8 @@ The draft data governance policy provides for a [state-run data marketplace of m
 The draft AI policy was published for comment on 21 July and comment closed on 4 August. It runs to 226 pages, asserts [effects-based jurisdiction over entities outside Kenya](https://nairobibusinessmonthly.com/kenyas-draft-ai-policy-seeks-power-over-foreign-tech-giants/) whose outputs have direct and foreseeable effects in the country, leaves "high risk" undefined and states no penalties. Its labour chapter [sets minimum standards for content moderators, data annotators and evaluators](https://itweb.africa/article/kenya-sets-standards-for-ai-workers/raYAyMorGzX7J38N), binding on international firms operating through outsourcing partners.
 
 An analysis published on 23 July recorded that the National AI Strategy, costed at KSh 152bn over five years, [carries no dedicated allocation in the 2026/27 budget](https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/). On 28 July the government and the UN development programme agreed progress on a national AI computing platform; no GPU count, cost or commissioning date was published. Kenya was named on 31 July as one of five governments launching a pooled African-language AI initiative.
+
+The draft then drew its first substantive submission, and a headline figure. A civil-society organisation [urged institutional independence for the proposed AI council and mandatory human-rights impact assessments](https://cipesa.org/2026/08/cipesa-urges-kenya-to-align-and-strengthen-its-draft-ai-policy/) on 14 August, with the draft reported as nearing Cabinet consideration. Alongside it, a commercial data compiler's mid-year update [put 97.5% of Kenya's online adults using an artificial-intelligence tool monthly, first globally, ahead of the United Arab Emirates at 94.2% and Indonesia at 93.6%](https://www.itweb.africa/article/kenya-tops-global-ai-usage-rankings/5yONP7Ero1NMXWrb). It is a self-reported survey of online adults rather than a population measure.
 <!-- /narrative -->
 ### Innovation ecosystem
 
