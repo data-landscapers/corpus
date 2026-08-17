@@ -117,7 +117,7 @@ Financial inclusion is put at [about 40% of adults for 2025](https://thefintecht
 <!-- narrative: inclusion--capacity-training -->
 MoCTI and three other bodies [launched a digital skills programme for civil servants on 10 July 2026, with 1,000 places in year one and stated targets of 3,000 medium-term and 5,000 long-term](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) across six areas including artificial intelligence and cybersecurity, aimed at gaps outside Freetown.
 
-The country held its [first academic exhibition dedicated to Digital Public Goods on 27 July, where 11 student-built solutions were evaluated against the DPG Standard](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent). The curriculum behind it, built with UNICEF, the United Nations University and Limkokwing University, has taught more than 1,100 students and appointed 14 campus champions across four universities.
+The country held its [first academic exhibition dedicated to Digital Public Goods on 27 July, where 11 student-built solutions were evaluated against the DPG Standard](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent). The curriculum behind it, built with UNICEF, the United Nations University and Limkokwing University, has [taught more than 1,100 students and appointed 14 campus champions across four universities](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent).
 <!-- /narrative -->
 
 ## Finance

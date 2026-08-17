@@ -48,7 +48,7 @@ The social registry has run an appeals process since it opened in early 2024, an
 <!-- narrative: dpi--dpi-pay -->
 Effective 14 July the central bank [designated one rail as the national instant payment system](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) by directive, connecting 22 financial institutions bank to wallet to merchant in any direction, with a per-transaction ceiling. An interoperable bank-to-wallet transfer that could previously cost as much as RWF 5,000 now costs [a flat RWF 20 regardless of amount](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), about one US cent on the publisher's own conversion. The directive itself is not held.
 
-The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316 — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
+The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, [put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/) — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -117,7 +117,7 @@ The information and communication sector [employed 19,000 workers in the second 
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
-As at 3 August the development bank is the sole committed backer, at US$6m, of a venture debt fund that is not closed, with a further US$3m near-committed; cheques run US$300,000 to just under US$1m, uncollateralised, at 9 to 12%. The figures are the fund manager's own and no commitment date is given.
+As at 3 August the development bank is [the sole committed backer, at US$6m, of a venture debt fund that is not closed, with a further US$3m near-committed](https://techcabal.com/2026/08/03/rwanda-debt-6-million/); [cheques run US$300,000 to just under US$1m, uncollateralised, at 9 to 12%](https://techcabal.com/2026/08/03/rwanda-debt-6-million/). The figures are the fund manager's own and no commitment date is given.
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -135,5 +135,5 @@ Formal financial access was reported at [96% of adults in 2024 against 48% in 20
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-The digital-ambassador programme that trained 1,567,034 citizens concluded its financing phase in May 2026 and no successor financing is held.
+The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
 <!-- /narrative -->
