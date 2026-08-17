@@ -3,18 +3,18 @@ title: Zimbabwe — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: ZWE
-ledger_rows: 170
+ledger_rows: 172
 not_held: 9
-record: 1c5f5f46b3b6
+record: ea8f490fa47f
 ---
 
 # Zimbabwe: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 170 systems and instruments on this place's ledger, 86 changed position between 2025-08-01 and 2026-08-17, 40 did not, 35 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 172 systems and instruments on this place's ledger, 86 changed position between 2025-08-01 and 2026-08-17, 40 did not, 37 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 129 sources for this place in the window — 26 in the earlier half (2025-08 to 2026-01), 103 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 133 sources for this place in the window — 26 in the earlier half (2025-08 to 2026-01), 107 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -398,6 +398,8 @@ Free public wireless hotspots went from an unnumbered installation programme to 
 | Preferential buyer's credit for fixed broadband expansion | A closed facility, committed 2015 | [Unchanged](https://www.facebook.com/permalink.php?story_fbid=2059012574323134&id=2049750908582634&substory_index=0#) | No change |
 | Syndicated vendor loan to the private mobile operator | US$300m approved for market consolidation and new services | [Unchanged; no drawdown or repayment figure held](https://www.fin24.com/Tech/Mobile/econet-zim-to-get-300m-from-china-20151204) | No change |
 | Universal services fund levy rate, balance and annual disbursement | Contribution rates set in 2021 and 2023; no balance or disbursement figure published | [Telecommunications licensees contribute 1.5% of monthly gross turnover and postal and courier licensees 2%; the Auditor-General audited the fund for 2023 and 2024 with an unmodified opinion and published no balance, contribution total or disbursement figure](https://www.veritaszim.net/sites/veritas_d/files/SI%202021-12%20Postal%20and%20Telecommunications%20%28Licensing%2C%20Registration%20and%20Certification%29%20Regulations%2C%202021.pdf) | No change |
+| Science and Technology Accelerator-Systems, Southern Africa | Baseline not held | [Up to GBP2.5m over three years to March 2030 across Southern Africa, of which up to GBP400,000 for 2026/27; Zimbabwe is named alongside Zambia as the first year's focus, with South Africa the programme's primary one](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
+| United Nations procurement of ICT equipment | Baseline not held | [US$5,947,948 awarded for the supply of ICT equipment to Zimbabwe; neither the receiving government body nor the awarded vendor is named in the notice](https://www.ungm.org/Public/ContractAward/158535) | ***Baseline not held*** |
 | Universal services fund | ***Baseline not held*** | [Regulator-administered; funds the tower relocation programme and one year of connectivity for digital centres and schools, with extension to rural health centres under consideration; no levy rate, balance or disbursement figure published](https://www.newsday.co.zw/local-news/article/200055470/govt-defends-starlink-rollout) | ***Baseline not held*** |
 
 ### MoUs and other agreements

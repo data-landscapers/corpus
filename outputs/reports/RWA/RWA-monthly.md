@@ -3,9 +3,9 @@ title: Rwanda — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: RWA
-ledger_rows: 40
+ledger_rows: 42
 not_held: 9
-record: 6fcfa4722845
+record: 9fd2a7deae1f
 ---
 
 # Rwanda: monthly update, July 2026
@@ -108,6 +108,8 @@ The internet governance forum convened in Kigali on 30 July under the domain reg
 Rwanda and a North African state signed an artificial-intelligence and digital-transformation memorandum on 10 July, with no funding, deliverable or timeline stated. The head of state was confirmed on 3 July as co-chair of an international commission on artificial intelligence, with no national work programme attached to the seat.
 
 At the internet governance forum on 30 July a ministry official said artificial intelligence is already in use in Rwandan health, education and fraud detection. The national agency approved in June still has no published structure, budget, law or implementation timeline.
+
+On 13 August the ICT ministry [held a two-day working session with a hyperscaler to scope a structured artificial-intelligence partnership](https://www.techreviewafrica.com/news/6745/rwanda-and-google-engage-on-ai-partnership-to-accelerate-digital-transformation) spanning digital public infrastructure, data exchange, cloud, cybersecurity and skills. Nothing was signed and no value or timetable was given. The question a scoping session of that breadth raises — on what terms national data would sit with a foreign provider — is not addressed in the account.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -136,4 +138,6 @@ Formal financial access was reported at [96% of adults in 2024 against 48% in 20
 
 <!-- narrative: inclusion--capacity-training -->
 The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
+
+Where training did continue it went to the top of the system rather than the bottom. The United Nations development programme's quarterly account of 1 August records [artificial-intelligence trust-and-safety training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf). Participant numbers, curriculum and cost are not stated, and the funder's own newsletter is the only account of it held.
 <!-- /narrative -->

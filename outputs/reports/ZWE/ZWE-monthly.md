@@ -1,16 +1,16 @@
 ---
 title: Zimbabwe — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: ZWE
-ledger_rows: 66
+ledger_rows: 68
 not_held: 9
-record: 38d16ce4f36a
+record: 829acd308f18
 ---
 
 # Zimbabwe: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -179,6 +179,8 @@ The ICT minister told a small-business meeting on 17 July that a digital skills 
 
 <!-- narrative: finance--finance-new -->
 The ICT minister also committed on 29 July to ring-fencing a share of the universal services fund for public-good artificial-intelligence projects, stating no amount ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
+
+Two external commitments arrived in August, and only one of them has a number attached to Zimbabwe. A United Nations contract award of 10 August [puts US$5,947,948 into the supply of ICT equipment to the country](https://www.ungm.org/Public/ContractAward/158535) — an exact figure against a purpose stated as nothing more than ICT equipment, with neither the receiving government body nor the awarded vendor named. The United Kingdom separately [opened expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m to March 2030](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), naming Zimbabwe and Zambia as its first year's focus with South Africa the primary one. No Zimbabwean allocation is stated and no delivery consortium has been chosen.
 <!-- /narrative -->
 ### MoUs and other agreements
 

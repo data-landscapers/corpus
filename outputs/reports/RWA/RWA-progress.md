@@ -3,18 +3,18 @@ title: Rwanda — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: RWA
-ledger_rows: 117
+ledger_rows: 119
 not_held: 9
-record: 54fe66ea39ff
+record: c400734dc1aa
 ---
 
 # Rwanda: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 117 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-17, 35 did not, 13 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 119 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-17, 35 did not, 15 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 184 sources for this place in the window — 24 in the earlier half (2025-08 to 2026-01), 160 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 186 sources for this place in the window — 24 in the earlier half (2025-08 to 2026-01), 162 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -247,6 +247,7 @@ Three absences held constant across the whole period and are this section's real
 | Continental AI fund | A US$60bn target announced alongside the declaration, with no legal foundation, capitalisation or manager | [Still only a headline figure, with no vehicle, capitalisation, governance or first disbursement on the record](https://www.africanlawbusiness.com/news/optimism-but-uncertainty-over-africas-ai-declaration/) | No change |
 | Global AI summit | A first edition held in the capital with more than a thousand policymakers and business leaders, producing the continental declaration | [Unchanged; no second edition, date or host is on the record as at 2026-08-05](https://www.africanlawbusiness.com/news/optimism-but-uncertainty-over-africas-ai-declaration/) | No change |
 | AI scaling hub | ***Baseline not held*** | [About RWF 25bn secured from unnamed international partners](https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-dedicated-ai-agency-to-drive-investment-and-innovation) | ***Baseline not held*** |
+| Scoping of an artificial-intelligence partnership with a hyperscaler | Baseline not held | [A working session between the ICT ministry and the company scoping digital public infrastructure, data exchange, cloud, cybersecurity and artificial-intelligence skills; nothing signed, no value and no timetable](https://www.techreviewafrica.com/news/6745/rwanda-and-google-engage-on-ai-partnership-to-accelerate-digital-transformation) | ***Baseline not held*** |
 
 ### ICT Industry
 
@@ -312,6 +313,7 @@ The continental instruments the country hosts have not converted into delivery: 
 |---|---|---|---|
 | Coding academy | Operating on about US$7.9m including a government counterpart, with 118 students across two intakes in September 2021 | [The same financing, now the exclusive admission route into the new computing institute's first two intakes](https://www.minecofin.gov.rw/news-detail/rwanda-coding-academy-receives-frw-71-billion-support-from-koica) | Advanced, becomes sole feeder |
 | Inclusive digital transformation centre | US$275.7m across an endowment and a centre, from 2022 to 2035, targeting 10,000 learners | [Unchanged; no progress figure against the target at any date](https://www.cmu.edu/news/stories/archives/2022/september/carnegie-mellon-university-and-mastercard-foundation-partner-to-drive-youth-led-digital) | No change |
+| Artificial-intelligence trust and safety training for officials | Baseline not held | [Training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada through the United Nations development programme; participant numbers, curriculum and cost are not stated](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf) | ***Baseline not held*** |
 
 ### Research institutions
 
