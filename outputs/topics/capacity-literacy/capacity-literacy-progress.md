@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: capacity.literacy
 places: BEN; BWA; BFA; CMR; CIV; COD; EGY; SWZ; GAB; GMB; GHA; KEN; LBR; NAM; RWA; STP; SEN; TZA; TGO; UGA; ZMB
-record: 45c1faf0155e
+record: 51064ae5afd2
 ---
 
 # Literacy: progress report, 2025-08-01 to 2026-08-17
@@ -12,8 +12,6 @@ record: 45c1faf0155e
 *21 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
@@ -77,7 +75,7 @@ record: 45c1faf0155e
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Rural women and girls digital rights programme | Did not exist | [400 women and girls trained across four regions, with 40 community broadcasters and 80 peer mentors; the implementer names unreliable internet, high data costs and unreliable electricity as the obstacles to continued practice (2026-07)](https://www.apc.org/en/blog/seeding-change-strengthening-digital-rights-rural-women-and-girls-gambia) | Advanced |
 

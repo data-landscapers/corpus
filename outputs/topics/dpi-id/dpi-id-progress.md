@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: eaa74dcd686f
+record: ca9163147e8d
 ---
 
 # Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-17
@@ -142,7 +142,7 @@ record: eaa74dcd686f
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Biometric national identity card and Registre national des personnes physiques | No biometric national identity card on record | [Issued nationwide; fingerprints, iris, photograph and electronic signature enrolled against a national identification number (2026-07)](https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/) | Advanced |
 | Mobile ID national digital identity platform | Did not exist | [In service; authentication and electronic signature, biometric data held only by the Interior Ministry (2026-02)](https://www.lanation.dj/identite-numerique-et-mobile-id-une-avancee-strategique-vers-ladministration-de-demain/) | Advanced |
@@ -206,7 +206,7 @@ record: eaa74dcd686f
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Margins ID national identity contract | Did not exist; the standing arrangement was the concession the 2025 State of the Nation address set out to replace (2025-08) | [Eight-year design-build-finance-operate-transfer contract in force, with a 70/30 revenue share, ten-year card validity, free replacement of valid cards and a phase-2 data centre (2026-01)](https://thepoint.gm/africa/gambia/headlines/govt-signs-id-card-deal-with-margins-id-systems-applications-ltd) | Advanced |
 | National Identity Management System (GAM ID) | Did not exist; identity cards were produced under a foreign concession the government had resolved to replace (2025-08) | [Live and issuing instant GAM ID cards from the National Data Centre, with nationwide enrolment opening 4 August 2026 (2026-07)](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/) | Advanced |

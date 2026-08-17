@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 7c2d2f6d1ee1
+record: 8aeca88ada9c
 ---
 
 # Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-17
@@ -128,7 +128,7 @@ record: 7c2d2f6d1ee1
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | PND-ADEEG 2025-2030 (third National Development Plan) | No adopted successor plan | [Adopted by decree (2026-06)](https://www.adi.dj/article/138724) | Advanced |
 | Vision Djibouti 2035 | In force | [In force](https://www.lanation.dj/geneve-djibouti-affiche-sa-vision-dun-numerique-inclusif-et-dun-hub-technologique-regional/) | No change |
@@ -194,7 +194,7 @@ record: 7c2d2f6d1ee1
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National Cybersecurity Strategy and Action Plan 2022-2026 | In force, on a period running to 2026 (2025-08) | [Unchanged; no successor, mid-term review or implementation report is held, and the plan runs out at the end of 2026 (2026-08)](https://mocde.gov.gm/wp-content/uploads/2024/02/National-Cybersecurity-Strategy-2022-2026-Final-.pdf) | No change |
 | National Data Policy 2025 | Draft, not adopted (2025-08) | [Still a draft; no adoption, gazetting or implementation instrument is held (2026-08)](https://mocde.gov.gm/wp-content/uploads/2025/06/National-Data-Policy-2025-The-Gambia-draft.docx) | No change |

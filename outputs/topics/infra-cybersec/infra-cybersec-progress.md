@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 334a3104e9fb
+record: c02e89e84b5b
 ---
 
 # Cybersecurity: progress report, 2025-08-01 to 2026-08-17
@@ -126,7 +126,7 @@ record: 334a3104e9fb
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Autorite Nationale de Cybersecurite (ANC) | No statutory cyber authority; a pre-statutory ANCS label and ANSIE's DSSI | [Autonomous public establishment under the Presidency, operational from December 2025, director-general named](https://www.journalofficiel.dj/texte-juridique/loi-n195-an-25-9eme-l-portant-creation-de-lautorite-nationale-de-cybersecurite/) | Advanced |
 | DJ-CERT national incident response team | No operating team on record | [Operating team of the ANC; placed first in both simulation scenarios at the IGAD exercise (2026-06)](https://www.lanation.dj/lanc-distinguee-lors-de-lexercice-regional-de-cybersecurite/) | Advanced |
@@ -177,11 +177,11 @@ record: 334a3104e9fb
 | SEEG cyberattack and systems recovery | 95 per cent of information systems collapsed after a sabotage attack (2026-06-15), knocking out the EDAN prepaid-meter top-up platform | [Billing and payment services restored in Libreville and seven interior centres (Franceville, Moanda, Akieni, Mounana, Mouila, Port-Gentil, Lastoursville); the utility describes its network as healthy, secured and protected by reinforced measures, with restoration continuing elsewhere (2026-08-04)](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/) | Advanced |
 | National cybersecurity strategy | None published | [None published; the January 2026 regulator workshop restated resilience gaps without producing one](https://www.gabonreview.com/2e-forum-de-la-cybersecurite-du-gabon-comprendre-les-menaces-et-partager-les-bonnes-pratiques/) | No change |
 | SecBOM security bill of material | Launched - asset inventory, standard formatting, integration to the configuration database, quarterly review and linkage to the national security operations centre and incident response team | [Unchanged; no asset count, coverage, review cycle or output published in fourteen months](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/) | No change |
-| United States cybersecurity grant to ANINF | US$1,249,997 committed, US$49,313 disbursed | [Unchanged; the planned end date has passed with no completion, extension or further disbursement on file](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:US-GOV-11-SGB50025GR0014) | No change |
+| United States cybersecurity grant to ANINF | US$1,249,997 committed, US$49,313 disbursed | [Unchanged; the planned end date has passed with no completion, extension or further disbursement on file](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-11-SGB50025GR0014) | No change |
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National cybersecurity agency or incident response team | No position held at the start of the window | [An institutional design on paper: GM-CSIRT operating a national Cybersecurity Centre with a security operations centre inside it, a National Cybersecurity Coordination Directorate, a National Cybersecurity Commission, an advisory board, sectoral focal points and sector CSIRTs, and a police cybercrime response unit. The plan directs that GM-CSIRT be operationalised and strengthened in budget and technology; nothing held states that any of these bodies is standing](https://mocde.gov.gm/wp-content/uploads/2024/02/National-Cybersecurity-Strategy-2022-2026-Final-.pdf) | ***Baseline not held*** |
 

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: data.statistics
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SSD; TUN; UGA; ZWE; XSA; XWA
-record: bb15e0f11097
+record: 26444af97233
 ---
 
 # National statistics: progress report, 2025-08-01 to 2026-08-17
@@ -92,7 +92,7 @@ record: bb15e0f11097
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Third national statistics development strategy (SNDS-3, 2025-2029) | Validated; no adoption instrument held | [Validated; no adoption instrument held](https://www.lanation.dj/instad-validation-de-la-troisieme-strategie-nationale-de-developpement-de-la-statistique-2025-2029-snds-3/) | No change |
 
@@ -137,7 +137,7 @@ record: bb15e0f11097
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Coordination of official statistics production | No convened process on record | [Producers and users convened by the Central Bank with the International Monetary Fund and the Bureau of Statistics, naming data gaps, inconsistency and inaccessibility as the constraints; no framework or workplan published (2026-07)](https://thepoint.gm/africa/gambia/headlines/cbg-hosts-stakeholders-engagement-on-statistical-data) | Advanced |
 | Gambia Labour Force Survey series | Four rounds published, with no cross-round comparison volume (2025-08) | [Fifth round published with the first systematic comparison across the 2023, 2025 and 2026 rounds, and a sixth round confirmed for later in 2026 (2026-07)](https://www.gbosdata.org/downloads-file/627-the-gambia-labour-force-survey-findings-report) | Advanced |

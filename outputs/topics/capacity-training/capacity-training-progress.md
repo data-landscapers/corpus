@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: capacity.training
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: ada5271e4490
+record: 669deba354f1
 ---
 
 # Training and skills: progress report, 2025-08-01 to 2026-08-17
@@ -122,7 +122,7 @@ record: ada5271e4490
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | E-SKILLS Digital Houses | Did not exist | [Announced, with 3,000 to be trained by 2029 at a stated EUR 7m; no site open on record (2026-05)](https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative) | Advanced |
 | Ecole 42 coding school | Did not exist | [Launched as a project; no intake or opening date published (2026-04)](https://techreviewafrica.com/public/news/4771/djibouti-launches-ecole-42-project-to-promote-technological-innovation) | Advanced |
@@ -167,7 +167,7 @@ record: ada5271e4490
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National Labour Digital Skill programme | Did not exist | [Methodology validated against a target of 280 certified, funded at US$3.35m through the regional digital integration programme; no completion figure published (2025-12)](https://thepoint.gm/africa/gambia/national-news/stakeholders-validate-methodology-labour-digital-skill-dev-report) | Advanced |
 
@@ -202,8 +202,8 @@ record: ada5271e4490
 | HerSpace | Did not exist | [Training 150 justice-sector officials on digital evidence, with no value disclosed](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Advanced |
 | Mastercard Foundation EdTech Fellowship | Eight-month cohorts for growth-stage companies | [Cohort 4 runs 18 months for early-stage companies, offering each up to US$100,000 in equity-free funding and scoped to learners with disabilities, refugee and rural communities, and girls and young women; 36 Kenyan companies since the 2023 launch, on iHUB's figures](https://techafricanews.com/2026/07/29/ihub-selects-12-kenyan-edtech-startups-for-mastercard-foundation-fellowship/) | Advanced |
 | EU digitalisation of technical and vocational education | EUR 9.9m committed | [Commitment unchanged, with no outturn published](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25165) | No change |
-| KfW digitalisation of vocational training | EUR 18m concessional loan committed | [Commitment unchanged, with no disbursement published](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-202265189%22) | No change |
-| KfW promotion of vocational training in ICT | EUR 5m concessional loan | [Commitment unchanged, with the scheduled end year reached and no closure statement held](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-201665298%22) | No change |
+| KfW digitalisation of vocational training | EUR 18m concessional loan committed | [Commitment unchanged, with no disbursement published](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202265189) | No change |
+| KfW promotion of vocational training in ICT | EUR 5m concessional loan | [Commitment unchanged, with the scheduled end year reached and no closure statement held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-201665298) | No change |
 | Jitume Digital Enablement Programme | ***Baseline not held*** | [117 hubs commissioned on the ceremony series and about 350 on the installed-base series](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) | ***Baseline not held*** |
 | Jitume training throughput | ***Baseline not held*** | [More than 140,000 young people trained and more than 41,000 linked to economic opportunity since 2023](https://www.radio47.fm/news/technopolis-launches-ol-kalou-jitume-digital-hub-graduates-106-youths-33109/) | ***Baseline not held*** |
 
@@ -417,7 +417,7 @@ record: ada5271e4490
 |---|---|---|---|
 | Artificial-intelligence grand challenge | Did not exist | [Launched 2026-08-04 across agriculture, health, education, financial services, mining and public administration and stated as a recurring programme; POTRAZ reported 738 applications received and 68 projects selected for an August 2026 boot camp in Nyanga, drawn from healthcare, agriculture, public service delivery and financial technology, narrowed to 18 candidates for the next stage; no award or budget published](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) | Advanced |
 | Coding in the secondary curriculum | Did not exist | [The regulator and the innovation hubs directed to scale literacy and embed coding from secondary level upward; no curriculum, date or budget published](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
-| Youth digital skills programme (donor-funded) | SEK 36,000,000 committed in 2023, disbursement recorded nil | [Same; the published record shows nothing disbursed and an end year of 2027](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-15406%22) | No change |
+| Youth digital skills programme (donor-funded) | SEK 36,000,000 committed in 2023, disbursement recorded nil | [Same; the published record shows nothing disbursed and an end year of 2027](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-15406) | No change |
 | Digital skills ambassadors programme | ***Baseline not held*** | [Named as a running digital-inclusion initiative; no participant count, budget or coverage published](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) | ***Baseline not held*** |
 | Digital skills programme targeting 1.5 million people | ***Baseline not held*** | [A target of 1.5m people in coding, artificial-intelligence and data skills; no enrolment or completion figure published](https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/) | ***Baseline not held*** |
 | Government cybersecurity youth training programme | ***Baseline not held*** | [More than 3,000 youths trained at 2026-04-07; no figure published since](https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/) | ***Baseline not held*** |

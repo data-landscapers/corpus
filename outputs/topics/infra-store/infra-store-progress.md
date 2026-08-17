@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: infra.store
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: a0035448fac7
+record: ad4120339b51
 ---
 
 # Data Storage: progress report, 2025-08-01 to 2026-08-17
@@ -122,7 +122,7 @@ record: a0035448fac7
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | LinkWise AI compute centre and AI Special Economic Zone | Did not exist | [US$1.35bn memorandum signed; no investment protocol, no disbursement, no site (2026-07)](https://www.lanation.dj/un-partenariat-strategique-pour-faire-de-djibouti-un-pole-regional-de-linnovation/) | Advanced |
 | PAIX and Fonds Souverain JIB1 data centre | Joint venture announced, no construction on record | [Unchanged; the stated first phase of 2026 is unverified (as at 2026-07-31)](https://w.media/paix-partners-with-djiboutis-sovereign-fund-to-build-data-centers) | No change |
@@ -180,7 +180,7 @@ record: a0035448fac7
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National Data Centre, Abuko | Did not exist | [State facility in service hosting the national identity management system; no capacity, tier rating or operating cost published (2026-07)](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/) | Advanced |
 | QGroup House data centre | Did not exist; no data centre of any kind on record | [First private data centre in service, built by QGroup and QCell with Huawei as long-term vendor (2026-04)](https://thepoint.gm/africa/gambia/headlines/barrow-inaugurates-qgroup-house-unveils-gambias-first-data-centre) | Advanced |

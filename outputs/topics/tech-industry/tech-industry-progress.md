@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 945b3b17aaff
+record: fdf21ee4e5f4
 ---
 
 # ICT Industry: progress report, 2025-08-01 to 2026-08-17
@@ -58,7 +58,7 @@ record: 945b3b17aaff
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
-| Cabo Verde Technology Park Phase II | Phase II approved November 2022 at EUR 15.95m total cost with EUR 14.00m of Bank financing; US$2,690,407 disbursed on the financier's record; no procurement milestone held | [Supply, installation of facilities equipment and training put to open international bidding by the special projects unit in the Ministry of Finance, bid security EUR 25,000, electronic bidding permitted, beneficial-ownership disclosure required of the winner; the contract value is not published](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-CV-GB0-004%22) | Advanced |
+| Cabo Verde Technology Park Phase II | Phase II approved November 2022 at EUR 15.95m total cost with EUR 14.00m of Bank financing; US$2,690,407 disbursed on the financier's record; no procurement milestone held | [Supply, installation of facilities equipment and training put to open international bidding by the special projects unit in the Ministry of Finance, bid security EUR 25,000, electronic bidding permitted, beneficial-ownership disclosure required of the winner; the contract value is not published](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-CV-GB0-004) | Advanced |
 | Safe City Project Phase 2 | RMB 92.5 million Chinese government grant committed 2019 and recorded as running to 2021, extending the Praia video-surveillance network to Sao Vicente, Sal and Boa Vista plus a further 100 poles in Praia, and installing a 4G network for police communications, with Huawei the implementing contractor | [Unchanged; the base holds no statement of the network's operating status, coverage or governance after the financing record's 2021 end year](http://cv.mofcom.gov.cn/article/zxhz/201711/20171102664018.shtml) | No change |
 | TechPark CV, Praia and Mindelo campuses | Two campuses in operation, each with a data centre, on a EUR 51.85m project of which EUR 45.5m is African Development Bank financing; 23 companies from seven countries and 311 professionals at full occupancy of 52 offices (2025-05-07) | [Same two campuses in operation; no later tenancy, employment or revenue figure is held, and Phase II went to tender on 2026-07-29](https://afdb.africa-newsroom.com/press/la-transformation-numerique-du-cabo-verde-en-pleine-expansion-avec-le-soutien-de-la-banque-africaine-de-developpement?lang=en) | No change |
 | VisionWare operations in Cabo Verde | Portuguese information-security firm present since 2007 and the first international company in both TechPark campuses, reported to have hired more than 50 local engineers (company-reported, 2025-05) | [Still operating from the park and hosting sector events there; no later headcount, revenue or contract figure is held](https://expressodasilhas.cv/economia/2025/05/31/bruno-castro-ceo-visionware-para-um-cibercriminoso-atacar-nos-estados-unidos-ou-em-cabo-verde-e-exatamente-a-mesma-coisa/97276) | No change |
@@ -100,7 +100,7 @@ record: 945b3b17aaff
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Federation nationale des entreprises du numerique | Did not exist | [Creation reported; no constitution or membership published (2025-12)](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-vers-la-creation-d-une-federation-nationale-des-entreprises-du-numerique) | Advanced |
 
@@ -145,7 +145,7 @@ record: 945b3b17aaff
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | GAMCEL 80% share sale and network modernisation | Sale of 80% of GAMCEL announced to lawmakers at a winning bid of D6.7bn, no agreement signed (2025-12) | [Agreement signed transferring an 80% equity stake to YCELL against a GMD 6.1bn modernisation programme covering 4G and 5G radio access, core, operations and billing systems, hybrid tower power and revenue assurance (2026-07)](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement) | Advanced |
 

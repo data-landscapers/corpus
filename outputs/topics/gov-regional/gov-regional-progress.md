@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; LSO; LBR; LBY; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: b0bd335e8a66
+record: c3d6678a96db
 ---
 
 # Regional collaboration: progress report, 2025-08-01 to 2026-08-17
@@ -111,7 +111,7 @@ record: b0bd335e8a66
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | United Nations Convention against Cybercrime | Not signed | [Signed; no ratification instrument on file (2025-10)](https://www.ecofinagency.com/news-digital/1211-50395-djibouti-advances-bill-to-create-national-cybersecurity-authority) | Advanced |
 | African Union Malabo Convention | Ratified | [Ratified](https://www.ecofinagency.com/news-digital/1211-50395-djibouti-advances-bill-to-create-national-cybersecurity-authority) | No change |
@@ -162,7 +162,7 @@ record: b0bd335e8a66
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | ATAF Heads of Tax Administrations Master Class | Did not exist as a Gambian commitment | [Convened by the Gambia Revenue Authority, with the Forum's executive secretary arguing that digital systems deliver only alongside governance reform and pressing for a united African position in the United Nations tax convention negotiations (2026-07)](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1) | Advanced |
 | Senegal-Gambia regulatory cooperation and free roaming agreement | Did not exist | [Signed, covering telecommunications regulatory cooperation and free roaming; no commencement date or tariff published (2026-06)](https://techreviewafrica.com/news/6078/senegal-and-the-gambia-enhance-digital-integration-through-regulatory-cooperation-agreement) | Advanced |

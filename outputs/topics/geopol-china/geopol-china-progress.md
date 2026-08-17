@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: geopol.china
 places: AGO; BWA; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; KEN; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; UGA; ZMB; ZWE; XAF; XWA
-record: 08d8272a075d
+record: f1a833a73a69
 ---
 
 # China activities: progress report, 2025-08-01 to 2026-08-17
@@ -64,7 +64,7 @@ record: 08d8272a075d
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Industrial and artificial-intelligence cooperation roadmap with China | Did not exist | [Presented; no agreement, instrument or figure (2026-06)](https://www.adi.dj/article/138698) | Advanced |
 

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 1fe28d14fc52
+record: 95a3048e5e11
 ---
 
 # AI: progress report, 2025-08-01 to 2026-08-17
@@ -127,7 +127,7 @@ record: 1fe28d14fc52
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Cross-border data corridor between Shanghai and Djibouti | Did not exist | [Provided for in the memorandum; nothing built (2026-07)](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/) | Advanced |
 | First national artificial-intelligence strategy | Did not exist | [In preparation; no published strategy document held (2026-01)](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-prepare-sa-strategie-nationale-d-intelligence-artificielle) | Advanced |

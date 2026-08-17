@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: infra.energy
 places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SSD; TUN; UGA; ZMB; ZWE
-record: d9d596c613a2
+record: 5e7e4b5a5083
 ---
 
 # Energy: progress report, 2025-08-01 to 2026-08-17
@@ -71,7 +71,7 @@ record: d9d596c613a2
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Renewable generation for the AI compute zone | Did not exist | [Up to 500 MW provided for in the memorandum; nothing contracted or built (2026-07)](https://www.lanation.dj/un-partenariat-strategique-pour-faire-de-djibouti-un-pole-regional-de-linnovation/) | Advanced |
 

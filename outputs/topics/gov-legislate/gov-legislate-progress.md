@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: gov.legislate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA
-record: 1ec0c3167e19
+record: 0dd5984ebd96
 ---
 
 # Legislation and regulation: progress report, 2025-08-01 to 2026-08-17
@@ -140,7 +140,7 @@ record: 1ec0c3167e19
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Startup Act (Loi n 179/AN/25) | Did not exist | [In force from promulgation; every operative detail deferred to implementing decrees (2025-12)](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/) | Advanced |
 | Digital Code (eight volumes, about 800 articles) | Adopted 30 June 2025 | [In force; no implementing decree held](https://www.jonesday.com/en/insights/2025/07/national-assembly-of-the-republic-of-djibouti-approves-digital-code) | No change |
@@ -220,7 +220,7 @@ record: 1ec0c3167e19
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Communications Bill 2025 | Not introduced; first reading followed on 19 November 2025 (2025-08) | [Passed second reading and referred to committee, with the Press Union pressing for repeal of the restrictive media laws around it (2026-07)](https://standard.gm/lawmakers-back-bill-to-protect-personal-data-in-digital-age/) | Advanced |
 | State Intelligence Service Bill | Did not exist | [Draft validated, reported to require judicial warrants and oversight for intrusive measures and to give the Assembly review of the Service's budgets and operations; not tabled (2026-07)](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service) | Advanced |

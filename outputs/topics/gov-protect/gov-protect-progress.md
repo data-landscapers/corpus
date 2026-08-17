@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: gov.protect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: da807e10125d
+record: 7ef1a5c04b78
 ---
 
 # Data protection: progress report, 2025-08-01 to 2026-08-17
@@ -124,7 +124,7 @@ record: da807e10125d
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Police body-worn cameras | Not on record | [In routine use in central Djibouti, with visible wearing and notification protocols and manual or automatic triggers (2026-08)](https://www.lanation.dj/la-bodycam-un-bouclier-de-verite-au-service-des-policiers-et-des-citoyens/) | Advanced |
 | Data-protection regime within the Digital Code (156 articles) | In force | [In force](https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law) | No change |
@@ -183,7 +183,7 @@ record: da807e10125d
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Personal Data Protection and Privacy Act 2025 | No comprehensive data-protection law; the Bill was before the National Assembly (2025-08) | [Enacted, with extraterritorial scope, seven lawful bases, a sensitive-data regime covering genetic, biometric and health data, and rights of access, rectification, erasure and protection from solely automated decisions (2025-12)](https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025) | Advanced |
 

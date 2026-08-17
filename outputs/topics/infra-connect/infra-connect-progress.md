@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: ae2e7a7bc3c6
+record: 9967ee23a530
 ---
 
 # Connectivity: progress report, 2025-08-01 to 2026-08-17
@@ -186,7 +186,7 @@ record: ae2e7a7bc3c6
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | DARE1 southern extension (Mombasa-Mtunzini) | No southern extension on record | [Extension announced; 36 Tbit/s over about 3,200-3,500 km, ready for service 2028](https://www.connectingafrica.com/connectivity/dare1-subsea-cable-to-link-kenya-to-south-africa) | Advanced |
 | Djibouti Digital Foundation and EARDIP domestic fibre rollout | Ali-Sabieh regional hospital connected, over 200 km deployed (2025-06) | [Damerjog in Arta added; stakeholder and grievance workshop covering Djibouti-ville, Balbala and the five interior regions (2025-10)](https://www.lanation.dj/damerjog-entre-dans-lere-du-numerique-grace-au-projet-djibouti-fondement-du-numerique-dfn/) | Advanced |
@@ -281,7 +281,7 @@ record: ae2e7a7bc3c6
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | GAMTEL national broadband modernisation PPP | Did not exist | [US$50m partnership signed to take the national backbone from 40 Gbps to 800 Gbps; no completion date, milestone schedule or dalasi figure published (2026-01)](https://techafricanews.com/2026/01/05/gamtel-and-sysroad-sign-50-million-ppp-to-modernize-the-gambias-broadband-network/) | Advanced |
 | Gambia National Broadband Network (China Eximbank loan) | In service under a US$25.9m concessional loan repayable by GAMTEL, with a servicing history of arrears (2017 loan) | [Unchanged on the record; no statement of network condition, utilisation or debt position since 2020](https://www.dropbox.com/s/9yvhtd9i4i0vrs0/cr18197.pdf?dl=0) | No change |

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: data.open
 places: BEN; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; KEN; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
-record: 45e02d6634c9
+record: 14f76694d3b3
 ---
 
 # Open data: progress report, 2025-08-01 to 2026-08-17
@@ -51,7 +51,7 @@ record: 45e02d6634c9
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Djibouti Open Data platform | In service | [In service; no dataset inventory or update policy held](https://www.lanation.dj/systeme-general-de-diffusion-des-donnees-ameliore-sgdd-a-djibouti-lance-sa-page-nationale-recapitulative-des-donnees/) | No change |
 | IMF e-GDDS National Summary Data Page | Published | [Published; no update record held](https://www.lanation.dj/systeme-general-de-diffusion-des-donnees-ameliore-sgdd-a-djibouti-lance-sa-page-nationale-recapitulative-des-donnees/) | No change |

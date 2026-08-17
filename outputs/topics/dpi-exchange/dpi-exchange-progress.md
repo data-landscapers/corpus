@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 785d9549e58b
+record: c28e87bc7a5d
 ---
 
 # Data Exchange: progress report, 2025-08-01 to 2026-08-17
@@ -103,7 +103,7 @@ record: 785d9549e58b
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Prices database and central-administration data-exchange platform | Did not exist | [Ordered by statute on the Direction de l'Execution Budgetaire, to be established with every central-administration department as the counterpart to the central purchasing body created by article 37; no design, delivery date, budget line or operating rule is stated (2025-12)](https://www.journalofficiel.dj/texte-juridique/loi-de-finances-n203-an-25-9eme-l-portant-budget-initial-de-letat-pour-lexercice-2026/) | Advanced |
 | Real-time identity verification for banks and social protection | Did not exist | [In preparation; no date published (2026-07)](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/) | Advanced |
@@ -160,7 +160,7 @@ record: 785d9549e58b
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Gambia-Senegal customs data exchange roadmap | Did not exist | [Agreed to install the GAINDE customs system at Karang, Keur Ayib and Selety within three months, deploy SIGMAT transit tracking, exchange customs data by interface once GAINDE is live, replace transit agents with a Single Administrative Document and reactivate the EnCen intelligence platform (2026-07)](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict) | Advanced |
 | National Enterprise Architecture | Did not exist | [Validated as the interoperability blueprint for citizen-centric services; not adopted, funded or implemented on the record (2026-05)](https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative) | Advanced |

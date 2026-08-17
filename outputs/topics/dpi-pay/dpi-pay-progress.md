@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 5a2ffd7080f4
+record: 756081b7934c
 ---
 
 # Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-17
@@ -149,7 +149,7 @@ record: 5a2ffd7080f4
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Smart Wallet national digital wallet (Visa, Tech5) | Did not exist | [Memorandum only; nothing in service and no rollout calendar (2025-09)](https://idtechwire.com/djibouti-partners-with-visa-to-develop-national-digital-wallet) | Advanced |
 | D-Money mobile wallet | In service | [In service](https://www.lanation.dj/lancement-de-la-premiere-plateforme-en-ligne-a-djibouti-developpe-par-djibouti-telecom-a-travers-d-money/) | No change |
@@ -232,7 +232,7 @@ record: 5a2ffd7080f4
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | BANTABA 2.0 instant payment system | Did not exist | [First inclusive instant payment system in service, built on Mojaloop and operated by GamSwitch across banks, mobile money, microfinance institutions and fintechs; no transaction volume published (2025-12)](https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system) | Advanced |
 | SUTURA government revenue collection integration | Did not exist | [Memorandum signed to wire a domestically built platform, distributed through GAMPOST, into government revenue collection; no go-live date, volume, fee structure or list of connected banks published, and no text of the memorandum is held (2026-07)](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection) | Advanced |

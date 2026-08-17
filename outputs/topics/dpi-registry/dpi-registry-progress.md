@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 83c1d4850d00
+record: 17779faebeb7
 ---
 
 # Registries (population, land, address, etc.): progress report, 2025-08-01 to 2026-08-17
@@ -134,7 +134,7 @@ record: 83c1d4850d00
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Civil-registry archive digitisation | Not on record | [Under way, with no completion date published (2026-07)](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/) | Advanced |
 | Online company creation platform (ANPI) | Did not exist | [In service; company formation completed without attendance (2026-01)](https://www.lanation.dj/djibouti-lance-sa-plateforme-de-creation-en-ligne-des-entreprises/) | Advanced |
@@ -179,7 +179,7 @@ record: 83c1d4850d00
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Electronic civil registration and vital statistics | In service as the interoperability backbone, about 1.17m people registered with a unique national identification number (2024-03) | [Unchanged; the June 2025 commitment to integrate it with identity cards and the passport has produced no published integration milestone (2026-08)](https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia) | No change |
 | Gambia Social Registry | 203,022 households, about 70% of the population, carrying the Nafa cash transfers (2024-04) | [Unchanged; no coverage update published since (2026-08)](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building) | No change |
@@ -337,7 +337,7 @@ record: 83c1d4850d00
 | Birth-registration completeness | 90.3% in 2024 | [92.9% in 2025 on 356,838 recorded births](https://www.ktpress.rw/2026/04/rwanda-is-counting-everything-and-changing-in-the-process/) | Advanced |
 | Business registration platform | Not fully online | [Incorporation in 24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/) | Advanced |
 | District land correction exercise | Not begun | [More than 28,000 titles from over 35,000 parcels across a 28,527-hectare target, with about 4,700 parcels left untitled and handed to the district](https://realrwanda.rw/en/kayonza-land-correction-drive-issues-over-28000-titles-cuts-boundary-wrangles) | Closed |
-| Land administration twinning | Twinning on land administration, surveying and land-use planning | [Unchanged; the activity states no amount and no result](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22SE-0-SE-6-15037%22) | No change |
+| Land administration twinning | Twinning on land administration, surveying and land-use planning | [Unchanged; the activity states no amount and no result](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-15037) | No change |
 | Digitised civil registration and vital statistics system | Baseline not held | [Civil registration digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services; registration moved from a centralised, travel-dependent process to a decentralised one with thousands of registration points, and about 85% of public services were digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure) | ***Baseline not held*** |
 
 ## Sao Tome and Principe

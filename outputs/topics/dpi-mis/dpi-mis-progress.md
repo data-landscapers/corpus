@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: e15058b1f219
+record: c4f2b3f3bcdd
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-17
@@ -122,7 +122,7 @@ record: e15058b1f219
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Inter-hospital medical record sharing over the DFN fibre | In service at Ali-Sabieh | [In service at Ali-Sabieh; no further site reported](https://www.lanation.dj/ali-sabieh-le-dfn-propulse-lhopital-regional-dans-une-nouvelle-ere-numerique/) | No change |
 
@@ -178,7 +178,7 @@ record: e15058b1f219
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | DHIS2 for Education | ***Baseline not held*** | [Individual learner tracking and school report cards being built on DHIS2 by the basic and secondary education ministry; no coverage figure or go-live date published (2026-05)](https://education.dhis2.org/gambia-data-driven-education) | ***Baseline not held*** |
 | Smart Paper Technology for community health data | ***Baseline not held*** | [In use for community health data capture; no district count or record volume published (2025-12)](https://articles.nigeriahealthwatch.com/smart-paper-technology-is-transforming-community-health-data-capture-in-the-gambia) | ***Baseline not held*** |

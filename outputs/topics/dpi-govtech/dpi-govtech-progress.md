@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: da96b3fac990
+record: f42cd551ca84
 ---
 
 # Other GovTech and e-Gov: progress report, 2025-08-01 to 2026-08-17
@@ -144,7 +144,7 @@ record: da96b3fac990
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | ASYCUDAWorld customs clearance (e-Guichet) | In service | [Constituted by statute as the e-Guichet single window under the Direction Generale des Douanes et Droits Indirects, centralising the customs declaration, certificates of origin, licences, freight manifests, control results and sanitary and phytosanitary certificates; the electronic route is obligatory for all economic operators, paper admitted only by derogation on a duly established technical impossibility, duties, taxes and service fees are paid electronically, and the customs and treasury information systems must be interconnected for daily and monthly reconciliation of collected revenue (2025-12)](https://documents.worldbank.org/curated/en/099020224094541999) | Advanced |
 | G2B integrated digital platform | Did not exist | [Design phase launched, on three pillars: a startups portal, the G2B counter and an extension of the one-stop counter (2025-12)](https://techafricanews.com/2025/12/18/djibouti-launches-g2b-digital-platform-to-boost-smes-and-entrepreneurship/) | Advanced |
@@ -212,7 +212,7 @@ record: da96b3fac990
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Digital Single Window Business Registration System | Did not exist | [Being finalised, with over 350 agricultural enterprises digitally mapped inside a programme reaching more than 4,050 firms; no launch date published (2026-08)](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows) | Advanced |
 | Digitalisation of police records | Did not exist | [Directed by the Inspector General; no system, vendor, budget or timetable published (2026-03)](https://standard.gm/police-must-transition-from-paper-documentation-to-digitalised-mode-igp) | Advanced |

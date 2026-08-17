@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: digital.localgov
 places: DZA; AGO; BFA; CMR; TCD; COG; COD; EGY; SWZ; ETH; GAB; GMB; GIN; KEN; LSO; LBY; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SOM; TZA; TGO; ZMB; ZWE
-record: f84d4ef64d5f
+record: 0470d4986abd
 ---
 
 # Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-17
@@ -87,7 +87,7 @@ record: f84d4ef64d5f
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Kanifing municipal digital addressing | ***Baseline not held*** | [36,000 properties georeferenced, feeding property-tax billing and waste management in Kanifing Municipality (2025-12)](https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia) | ***Baseline not held*** |
 

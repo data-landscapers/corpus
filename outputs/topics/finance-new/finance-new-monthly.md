@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: finance.new
 places: AGO; BEN; BFA; TCD; COG; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; STP; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE
-record: b56f1e733e62
+record: 45e86f496b43
 ---
 
 # New investments: monthly update, July 2026
@@ -27,7 +27,7 @@ A digital acceleration project stated on 13 July that it will support connectivi
 
 ## Chad
 
-The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-TD-K00-019%22), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
+The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
 
 ## Congo
 
@@ -47,7 +47,7 @@ The month's largest item is the financing: the ICT ministry's first-quarter perf
 
 ## Ethiopia
 
-A [US$300,000 grant was committed on 31 July](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-41301-763888%22) for 2026 to 2028, converting a catalytic start-up initiative into a longer programme delivering agricultural extension services through digital channels.
+A [US$300,000 grant was committed on 31 July](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888) for 2026 to 2028, converting a catalytic start-up initiative into a longer programme delivering agricultural extension services through digital channels.
 
 ## Ghana
 

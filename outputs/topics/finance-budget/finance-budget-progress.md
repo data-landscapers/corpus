@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: finance.budget
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; GNQ; ETH; GAB; GMB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; RWA; SEN; SDN; TZA; ZMB; ZWE; XAF; XWA
-record: 9a66af87be98
+record: 9d105231c005
 ---
 
 # Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-17
@@ -134,7 +134,7 @@ record: 9a66af87be98
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Domestic budget appropriation for digital transformation | Not held | [ANSIE 2026 budget approved at 396,120,056 FDJ, down from 556.7m FDJ in 2025; investment of 108.1m FDJ for application firewalls, an archiving system, datacentre colocation and X-Road support renewal, balance largely staff costs; no separate ICT ministry line or e-government envelope published (2025-12)](https://www.journalofficiel.dj/texte-juridique/loi-de-finances-n203-an-25-9eme-l-portant-budget-initial-de-letat-pour-lexercice-2026/) | Advanced |
 
@@ -168,7 +168,7 @@ record: 9a66af87be98
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Tax-to-GDP ratio | 9% (2022) | [13% (2025)](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1) | Advanced |
 | Total tax collected | D11bn (2022) | [D25bn (2025), against a D27.5bn target for 2026](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister) | Advanced |

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 subject: tech.innovate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SOM; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9c3243e7cca3
+record: 209df0b618fd
 ---
 
 # Innovation ecosystem: progress report, 2025-08-01 to 2026-08-17
@@ -122,7 +122,7 @@ record: 9c3243e7cca3
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | LIMO innovation-ecosystem platform | Did not exist | [Launched; no user or service figures published (2026-07)](https://techreviewafrica.com/news/6169/djibouti-unveils-limo-platform-to-accelerate-digital-economy-and-innovation) | Advanced |
 | Regulatory sandbox under the Haut Conseil Superieur de l'Economie Numerique | Did not exist | [Provided for; no implementing decree and no admission on record (2026-07)](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/) | Advanced |
@@ -160,7 +160,7 @@ record: 9c3243e7cca3
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Kalp Foundation Gambia One blockchain platform | Memorandum signed; nothing on record being built (2025-08) | [Unchanged; no build, pilot, funding or withdrawal reported in the nineteen months since (2026-08)](https://itweb.africa/article/the-gambia-signs-blockchain-pact-to-boost-digital-economy/8OKdWqDXbnYqbznQ) | No change |
 | Gambia Digital Innovation Sprint | ***Baseline not held*** | [Held with the National Youth Council, the communications ministry and UNICEF; no follow-on funding or incubation route published (2026-07)](https://thepoint.gm/africa/gambia/national-news/young-gambians-unveil-digital-innovations-to-transform-childrens-lives) | ***Baseline not held*** |
@@ -212,7 +212,7 @@ record: 9c3243e7cca3
 |---|---|---|---|
 | PayChangu | Operating as a Lilongwe-based payment aggregator founded 2021, connecting mobile money, cards and bank transfers through a single integration | [Same position, with small-business tools stated as interfaces, e-commerce plugins, payment links, invoicing and analytics](https://www.wearetech.africa/en/fils-uk/solutions/malawian-fintech-paychangu-targets-sme-growth-with-unified-payment-infrastructure) | No change |
 | University innovation lab | An active UNDP grant of US$1,880,499 committed 2019 to equip the business and applied sciences university's innovation hub for ideation, prototyping, mentorship and incubation | [Same position; no dated update since the 2019 record, with the scheduled end year falling in 2026 and no closure or extension on file](https://open.undp.org/projects/00131461) | No change |
-| Unlocking Talent e-learning programme | Already closed; a grant of EUR 12,996,804 committed 2019 for tablet-based learning centres in primary schools and teacher training colleges | [Same position; no successor programme, evaluation or continuation is held](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22DE-1-201868173%22) | No change |
+| Unlocking Talent e-learning programme | Already closed; a grant of EUR 12,996,804 committed 2019 for tablet-based learning centres in primary schools and teacher training colleges | [Same position; no successor programme, evaluation or continuation is held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-201868173) | No change |
 
 ## Morocco
 
