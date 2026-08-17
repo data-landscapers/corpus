@@ -375,7 +375,7 @@ China Eximbank finances the state operator Tmcel, lending for [a first phase of 
 
 The European Union funds [VaMOZ Digital!, a EUR 22.5 million grant over 2022–2029](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60671) for digital strategy and policy, and a [National Control Centre for Energy on a EUR 8,008,000 grant over 2022–2030](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60663). The ITU carries [that programme's regulatory component on CHF 2,244,820 over 2023–2027](https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9MOZ23005). In June 2026 the EU signed [a further EUR 28 million for digital transformation](https://360mozambique.com/economy/markets-finance-eu-and-mozambique-seek-to-take-partnership-to-the-next-level/) under Global Gateway, with women's participation in the digital economy its stated focus.
 
-Canada's two UNICEF-channelled phases for civil registration and vital statistics, [CAD 19.5 million from 2017](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:CA-3-D002529001) and [CAD 6.5 million from 2021](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:CA-3-P001300002), both closed in 2023.
+Canada's two UNICEF-channelled phases for civil registration and vital statistics, [CAD 19.5 million from 2017](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=CA-3-D002529001) and [CAD 6.5 million from 2021](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=CA-3-P001300002), both closed in 2023.
 
 ### MoUs and other agreements
 <!-- finance.mou -->

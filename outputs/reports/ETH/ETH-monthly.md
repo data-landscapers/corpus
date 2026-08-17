@@ -156,7 +156,7 @@ Nothing moved on the national AI policy itself, on the model-development side, o
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-A [US$300,000 grant was committed on 31 July](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-41301-763888%22) for 2026 to 2028, converting a catalytic start-up initiative into a longer programme delivering agricultural extension services through digital channels.
+A [US$300,000 grant was committed on 31 July](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888) for 2026 to 2028, converting a catalytic start-up initiative into a longer programme delivering agricultural extension services through digital channels.
 <!-- /narrative -->
 ### Domestic budget appropriations and expenditure
 

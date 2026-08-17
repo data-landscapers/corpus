@@ -1,6 +1,6 @@
 ---
 title: Chad — digital transformation and data governance status report
-compiled: 2026-08-15
+compiled: 2026-08-17
 place: TCD
 region: XCA
 built_by: STATUS-INIT
@@ -356,7 +356,7 @@ That concentration is one project: China Eximbank's [government concessional loa
 
 The [World Bank's Chad Digital Transformation Project](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) is an SDR 69.5 million IDA grant, about USD 92 million, running 2024 to 2029 across infrastructure, digital government and financial services. Two earlier operations have closed: a [USD 12 million statistical development project](https://projects.worldbank.org/en/projects-operations/project-detail/P159434) (2017 to 2022) and a [USD 35 million revenue-administration digitalisation project](https://projects.worldbank.org/en/projects-operations/project-detail/P164529) (2018 to 2023).
 
-African Development Bank money is moving slowly: its [microfinance and digital financial services project for women and young entrepreneurs](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-TD-I00-012%22) opened with a UA 9.7 million Transition Support Facility grant in December 2021, since topped up to commitments of XDR 10,173,150.53, about USD 14 million, but disbursements had reached only XDR 2,062,292.94 across fourteen transactions by June 2026. A [further grant to modernise public administration](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%2246002-P-TD-K00-019%22) was at identification stage (July 2026), and the [ITU's Central African ICT benchmarking project](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/2023/RDF/reference/session-1-BDT-projects-RIs_RDFAFR2023.pdf), which named Chad among eight countries, closed in 2023.
+African Development Bank money is moving slowly: its [microfinance and digital financial services project for women and young entrepreneurs](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-I00-012) opened with a UA 9.7 million Transition Support Facility grant in December 2021, since topped up to commitments of XDR 10,173,150.53, about USD 14 million, but disbursements had reached only XDR 2,062,292.94 across fourteen transactions by June 2026. A [further grant to modernise public administration](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019) was at identification stage (July 2026), and the [ITU's Central African ICT benchmarking project](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/2023/RDF/reference/session-1-BDT-projects-RIs_RDFAFR2023.pdf), which named Chad among eight countries, closed in 2023.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
