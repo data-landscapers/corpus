@@ -170,6 +170,38 @@ Each Level-2 taxonomy slug issues `outputs/topics/{slug}/{slug}-monthly.md` and 
 
 Commit the topic tree. 38 slugs × 2 documents takes the render set from 165 to 241.
 
+## Stage 7 — the daily bulletin (window select; model authoring)
+
+Two documents over a two-day window: `outputs/bulletins/country-bulletin.md` and `outputs/bulletins/topic-bulletin.md`. The design note is `documentation/daily-bulletin.md`.
+
+```bash
+python scripts/bulletin.py --scan          # the window, and which items still need a summary
+```
+
+For **each** item in the work order, read it — `raw/{year}/{slug}.md` from `scripts/.workroot/`, the `hub_line` first and the body only where the line is not enough — and write one to three sentences:
+
+```bash
+python scripts/bulletin.py --write {slug} --text "…"
+```
+
+Then assemble both documents and commit `outputs/bulletins/`:
+
+```bash
+python scripts/bulletin.py --assemble
+```
+
+**The window is publication, not acquisition** *(Bill, 2026-08-17, asked directly and chosen over the alternative)*. An item is in the bulletin when its `published` date is today or yesterday. The corpus acquires in batches — the 2026-08-16 run ingested 184 records carrying publication dates spread across the ten days before it, eleven of them inside a two-day window — so a typical run selects a handful and some select none. **An empty window is a finished bulletin, not a failure and not a thing to widen the window over**: `--assemble` writes both documents saying the window was empty and saying why, because a bulletin that is simply absent is indistinguishable from a build that did not run.
+
+**A summary is written once and kept.** The window is two days wide and the build runs daily, so nearly every item is selected twice; `outputs/bulletins/summaries.json` is the store and `--scan` asks only for what is not in it. Entries age out 30 days after publication. So the model stage costs one day's news per run, not two.
+
+**`--assemble` stops rather than publishing a gap.** An item in the window with no summary fails the command and names the slugs. That is the same rule as *Narrative integrity* above and it is mechanical: the repair is to write the summary, and there is no third option in which the item appears with nothing under it.
+
+**Everything in a summary is sourced by construction, and that is the only reason the register is satisfied cheaply here.** Each entry opens with the item's title linked to the publisher's own record, so a fact in the sentences beneath it carries its citation two lines up. What that does *not* license is a fact the item does not carry: the summary reports the source, and where the source states a figure the figure is the best thing to put in the sentence. It is Corpus's prose either way — a verbatim sentence lifted from the body is both a register failure and the thing the leak gate exists to catch.
+
+**Detail sits in one place** *(Bill, 2026-08-17)*. An item tagged five countries is summarised once — under a region where it carries one, otherwise under the first place its record lists — and cross-referenced from each of the others; the topic bulletin does the same on the first topic listed and does not subdivide by country. Both are the script's doing, not the drafter's: one summary is written per item and `bulletin.py` decides where it lands.
+
+**It is its own stage rather than a question asked during stage 4**, which is the opposite of the ruling under *Maintaining the status baseline* and for a reason that does not apply there. Stage 4 iterates by unit over a set difference, so an item already marked considered on an earlier run is never reopened, and an item carrying no place is in no unit's scope at all — a bulletin riding along inside it would silently drop exactly the items a two-day window is most likely to hold. Its only precondition is stage 2: it reads `outputs/catalogue/raw-catalogue.csv` and nothing the report layer writes.
+
 ## Deferred stages — not yet in this build
 
 - **Report initialisation from the wiki** — for a place with no ledger. Reads the compiled wiki (`wiki/places/{ISO}.md`, `wiki/intersections/`) to distil a new ledger and write the first reports. `report-country-init.py` is the shell; the authoring is a session's model work. Bill's decision (2026-08-13): the current ledgers are the accepted baseline, so initialisation is not run now.

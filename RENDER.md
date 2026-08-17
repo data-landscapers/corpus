@@ -94,13 +94,19 @@ for md in outputs/reports/*/*-status.md outputs/reports/*/*-progress.md outputs/
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
 
+# The two bulletins, HTML only — see Bulletins below.
+for md in outputs/bulletins/*-bulletin.md; do
+  [ -e "$md" ] || continue
+  if python scripts/render.py "$md" --no-pdf; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
+done
+
 # Coverage assertion: the patterns above must have reached every report document.
-present=$(find outputs/reports outputs/topics -name '*.md' | wc -l)
+present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md' | wc -l)
 missed=$((present - rendered - failed))
 echo "rendered $rendered of $present report documents ($failed failed, $missed never listed)"
 if [ "$missed" -gt 0 ]; then
   echo "RENDER STOP: $missed document(s) matched no pattern in the loop — do not deploy:"
-  find outputs/reports outputs/topics -name '*.md' | grep -Ev -- '-(status|progress|monthly)\.md$'
+  find outputs/reports outputs/topics outputs/bulletins -name '*.md' | grep -Ev -- '-(status|progress|monthly|bulletin)\.md$'
   exit 1
 fi
 if [ "$failed" -gt 0 ]; then
@@ -113,7 +119,7 @@ fi
 - **A document the loop never listed stops the run.** That is the silent-shrink failure this assertion was built for: a rename moves a filename out of the glob and the loop quietly renders a subset with a zero exit, while `site/` keeps serving the old pages indefinitely because it is never purged. Nobody can see it from the output, so it fails the run — log, message, no deploy.
 - **A document that was tried and failed does not.** One report that will not typeset is a known, visible, single-page fault, and withholding the other 240 pages to punish it is a worse outcome by every measure — the failed page keeps its previous render either way, exactly as the stale-page paragraph below describes, so stopping protects nothing and costs the whole cycle. Note it, render on, deploy, and put the list in `logs/messages-for-bill.md`.
 
-Today that is 54 status + 57 progress + 54 monthly = 165 place documents, plus 76 topic documents (*Topics* below) = **241**, each as HTML and PDF — but **the assertion is what to trust, not the number**, which moves as units are initialised and as the taxonomy grows.
+Today that is 54 status + 57 progress + 54 monthly = 165 place documents, plus 76 topic documents (*Topics* below) = 241 as HTML and PDF, plus the 2 bulletins as HTML alone = **243** — but **the assertion is what to trust, not the number**, which moves as units are initialised and as the taxonomy grows.
 
 **The count is asserted because a shrinking loop is silent** *(2026-08-14)*. The `|| echo "RENDER FAIL"` above only fires for a document that was *tried* and failed; it says nothing about one the shell never listed. When the monthly and progress filenames dropped their month, the old `*-progress-*.md` and `*-monthly-*.md` patterns stopped matching anything, and the loop would have quietly rendered 54 documents instead of 165 with no error and a zero exit. Step 1's `/MIR` deletes the old filenames in the same run that breaks the match, so there is no second chance to notice. `site/` is not mirrored and not purged, so all 111 monthly and progress pages would have gone on being served at their last-rendered state indefinitely — the same stale-page failure described below, reached by a different route. The assertion enumerates without a pattern, so no future rename can shrink the set in silence.
 
@@ -178,6 +184,16 @@ RENDER does **not** judge whether a document is fit to publish. An earlier versi
 Deploy is unchanged (`documentation/handover.md`): the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build. The push above is what triggers it.
 
 **The push is authorised by this runbook and is not a question to put** *(2026-08-16)*. It publishes to the open web, which is the kind of step that would ordinarily be worth confirming — but a render that stops to ask permission to deploy is a render that has done all of its work and shipped none of it, and running RENDER *is* the instruction to publish. It used to sit in this file as a bare sentence of prose rather than a command, which is how it came to look optional; the log shows every completed render pushing. The gate on publishing is the leak gate immediately above, and it has already run by this point.
+
+## Bulletins
+
+The two daily bulletins are authored by BUILD (`BUILD.md` stage 7) and arrive in `outputs/bulletins/`, covering what was published on the day of the build and the day before it. `render.py` puts them at `site/bulletins/{country,topic}-bulletin.html`, with no unit directory between — there are two documents and they are the whole tree.
+
+**They are rendered as HTML and no PDF** *(Bill, 2026-08-17)*. Every other document here cuts a dated PDF because it is a retained edition worth citing away from the site; a bulletin is superseded the next morning and what it reports is kept by the reports, so a dated PDF of one would archive the same news a second time under a worse name. `--no-pdf` is what the loop passes, and the page it writes carries no download button and no hash-and-verify line — a document rendered without a PDF must not advertise one.
+
+**The window is often empty and the documents still render.** A bulletin covering two days on which nothing was published says so in its own prose; there is nothing here for RENDER to judge, and no case in which it skips them.
+
+The home page's Bulletin section (Step 3) is built from these two files' frontmatter and is omitted entirely when they do not exist, so a first render before BUILD has ever written one is not a broken link.
 
 ## Topics
 
