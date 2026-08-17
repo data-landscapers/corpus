@@ -1,16 +1,16 @@
 ---
 title: Nigeria — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: NGA
-ledger_rows: 99
+ledger_rows: 107
 not_held: 8
-record: bcca5fbb4330
+record: c232972a194f
 ---
 
 # Nigeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -28,6 +28,12 @@ In the courts, the data-protection regulator won its registration authority in t
 
 <!-- narrative: infrastructure--infra-connect -->
 An account published on 29 July puts about [101,000 km of fibre already built](https://businessday.ng/technology/article/how-nigeria-built-101000km-of-fibre-that-bypasses-130m-nigerians/) and finds that it bypasses some 130m Nigerians — a utilisation and last-mile finding sitting directly against the 90,000 km headline of the national fibre programme.
+
+What is built is being cut faster than it is being protected. The regulator [put fibre-optic cable cuts from road works at more than 5,000 in the first half of 2026 and stood up a standing committee with the works and communications ministries and the National Security Adviser's office](https://punchng.com/fibre-cuts-hit-5000-as-road-works-intensify/) to coordinate protection of fibre designated as critical national information infrastructure. No terms of reference, meeting cycle, budget or enforcement power is published for it.
+
+The backbone programme meanwhile looked outward before it broke ground. Nigerian and Burkinabè digital ministries [met in Ouagadougou on 12 August to explore connecting the planned 90,000 km open-access backbone into Burkina Faso](https://www.wearetech.africa/fr/fils/actualites/tech/infrastructures-ia-et-talents-le-burkina-faso-et-le-nigeria-renforcent-leur-cooperation-numerique), with [a stated aim of halving internet costs through it](https://techafricanews.com/2026/08/13/nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50/). Nothing was signed, and physical deployment still stands at 2027 on the project documents.
+
+On the tower estate, shareholders of the tower company [approved the acquirer's cash buyout of the 75.3% it does not already own](https://techcabal.com/2026/08/11/ihs-towers-profit-hit-by-rising-diesel-and-merger-costs/), the target's first-half revenue rising 8.2% to US$844m while rising Nigerian diesel costs and acquisition charges cut operating income 38%. Federal strategic review of the transaction is the last position the base holds on the state's side.
 <!-- /narrative -->
 ### Data Storage
 
@@ -75,7 +81,7 @@ Nine agencies took bilateral cover under the amended identity Act inside a fortn
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Identity gained infrastructure and kept its gap. The passport became [cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) on 16 July; the identity authority [took the national root certification authority over from NITDA](https://techafricanews.com/2026/07/22/nitda-and-nimc-deepen-partnership-to-accelerate-nigerias-digital-public-infrastructure/) on 21 July; and [V-Pass went live](https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem) for airport security checks and boarding on the number and face biometrics. Registration stands at [136 million against a target of 180 million by 31 December](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/), leaving about 100 million people uncaptured on the information minister's own figure.
+Identity gained infrastructure and kept its gap. The passport became [cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) on 16 July; the identity authority [took the national root certification authority over from NITDA](https://techafricanews.com/2026/07/22/nitda-and-nimc-deepen-partnership-to-accelerate-nigerias-digital-public-infrastructure/) on 21 July; and [V-Pass went live](https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem) for airport security checks and boarding on the number and face biometrics. Registration stands at [136 million against a target of 180 million by 31 December](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/), leaving about 100 million people uncaptured on the information minister's own figure. The root certification authority it took over also created a conflict: the NIMC Act 2026 makes the identity commission the root authority while the [still-pending Digital Economy and E-Governance Bill carries its own electronic-signature provisions](https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/), and which instrument governs digital signatures is unresolved.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -83,6 +89,12 @@ Identity gained infrastructure and kept its gap. The passport became [cryptograp
 Payments produced real-time reporting of every licensed bureau's FX purchases from 15 July.
 
 On 2 August an account of African corporate venture capital recorded that [tier-one Nigerian banks hold payments infrastructure inside the group rather than at arm's length](https://techtrends.africa/the-rise-of-african-corporate-venture-capital/), and that the central bank has begun regulating fintech ownership as well as conduct. The base carries no earlier statement of the ownership position, so no change can be stated.
+
+The central bank then set out what it wants that infrastructure to look like. A circular [imposes market-structure caps of 25% on card issuing and 15% on acquiring, mandatory localisation of payment data by 1 January 2027, and disclosure of ultimate beneficial owners](https://businessday.ng/news/legal-business/article/the-central-bank-of-nigerias-new-payments-system-circular-what-banks-fintechs-and-investors-need-to-know/) on banks, fintechs and payment service providers, against [an estimated US$850m a year spent on offshore hosting and about 90% of Nigerian payment data currently held abroad](https://businessday.ng/news/legal-business/article/the-central-bank-of-nigerias-new-payments-system-circular-what-banks-fintechs-and-investors-need-to-know/). Those figures are the analysing firm's estimates and the circular text itself is not held.
+
+Three admission gates opened alongside it. The central bank [opened a second sandbox cohort to virtual-asset and data-enabled firms, applications running 12 to 31 August, and chairs a new Virtual Asset Council with the securities regulator and the revenue service](https://techcabal.com/2026/08/12/cbn-sandbox-for-vasps-fintechs/), against an estimated US$92.1bn transacted in cryptocurrency by Nigerians between July 2024 and June 2025; the securities regulator [admitted two further firms to its incubation programme, taking it to 12 since July](https://techcabal.com/2026/08/14/sec-expands-sandbox-to-yellow-card-blockchain/). Neither publishes a graduation route or licensing outcome. The regulated naira stablecoin [went live on a public blockchain on 12 August](https://techafricanews.com/2026/08/12/nigerias-cngn-stablecoin-goes-live-on-celo-blockchain/), with no supply, holder count or reserve attestation published.
+
+Taxation moved in the other direction. Peer-to-peer and over-the-counter traders [warned on 14 August that the 1.5% virtual-asset stamp duty and the taxes beside it could push activity into unregulated channels](https://techcabal.com/2026/08/14/nigeria-tax-rules-crypto-traders/), the rules having been signed on 31 July. Separately the Lagos State revenue service is [testing whether creator-economy platform payouts are royalties subject to 5% withholding tax, pressing two named platforms to deduct at source](https://techcabal.com/2026/08/14/nigeria-creator-economy-tax/) under the 2025 tax act — the same authority's earlier attempt to make a ride-hailing platform a collection agent being the precedent. No assessment, ruling or judgment is published in either matter.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -162,7 +174,7 @@ Ministers adopted an Abuja declaration on meaningful connectivity.
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-On 28–29 July the Federal High Court [upheld the data-protection commission's power](https://leadership.ng/court-strengthens-ndpc-oversight-of-pos-agents-banks-telcos-data-controllers/) to designate and register controllers and processors of major importance, dismissing a suit that had sought to place PoS agents outside the class; the commission immediately directed every unregistered entity to register. The judgment is not held and its delivery date is unestablished.
+On 28–29 July the Federal High Court [upheld the data-protection commission's power](https://leadership.ng/court-strengthens-ndpc-oversight-of-pos-agents-banks-telcos-data-controllers/) to designate and register controllers and processors of major importance, dismissing a suit that had sought to place PoS agents outside the class; the commission immediately directed every unregistered entity to register. The judgment is not held and its delivery date is unestablished. The commission then used the power: on 13 August it [opened a forensic investigation into a federal university, a bank and a technology vendor over the alleged use of students' personal data to open bank accounts without consent](https://dailytrust.com/ndpc-investigates-varsity-bank-over-data-violations/). No finding or penalty has followed.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -176,6 +188,8 @@ On 28–29 July the Federal High Court [upheld the data-protection commission's 
 
 <!-- narrative: ai-tech--tech-ai -->
 Nothing moved on the national AI policy, the risk-based regime inside the digital-economy bill, or the surveillance estate.
+
+The activity was at the state level and abroad. Anambra State [set out a Vision 2030 push on artificial intelligence and paperless government that its own ICT agency says is constrained by weak connectivity and computing capacity](https://www.itweb.africa/article/anambras-2030-ai-push-faces-connectivity-test/RgeVDvPRkVaMKJN3), with no budget, procurement, delivery date or named system published. The federal IT agency [signed two memoranda in Toronto with Canadian firms on financial inclusion, local AI infrastructure, technology transfer and digital skills](https://www.wearetech.africa/fr/fils/actualites/tech/le-nigeria-s-engage-avec-deux-entreprises-canadiennes-pour-renforcer-l-ia-et-la-finance-numerique), and separately [pushed a National Sovereign Cloud initiative against a stated position in which over 85% of workloads run on public cloud largely hosted abroad](https://punchng.com/nigeria-seeks-local-cloud-capacity-to-cut-data-costs/). None of the three carries a value, a timetable or a delivery commitment.
 <!-- /narrative -->
 ### ICT Industry
 
