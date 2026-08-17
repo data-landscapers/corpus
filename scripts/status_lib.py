@@ -34,7 +34,12 @@ DPI_CSV = os.path.join(REPO, "prep", "africa-dpi-data.csv")
 FINANCE_CSV = os.path.join(REPO, "outputs", "non-state-finance", "all-nonstate.csv")
 CATALOGUE_CSV = os.path.join(REPO, "outputs", "catalogue", "raw-catalogue.csv")
 IIAG_CSV = os.path.join(REPO, "lookups", "iiag-profiles.csv")
-ACQUIRE_CSV = os.path.join(REPO, "logs", "africa-acquire.csv")
+# The acquire feed lives in OSINT's exchange folder, not in Corpus. It is the one directory in
+# `C:\OSINT` that Corpus may write to (`CLAUDE.md`), and the feed sits there so an OSINT session
+# can read and mark the same file rather than wait for a copy to be carried across by hand.
+# `OSINT_PATH` overrides the root, matching `rebuild.py`, so a moved repo needs no code change.
+EXCHANGE = os.path.join(os.environ.get("OSINT_PATH", r"C:\OSINT"), "osint-corpus-exchange")
+ACQUIRE_CSV = os.path.join(EXCHANGE, "africa-acquire.csv")
 OUTLINE = os.path.join(REPO, "documentation", "status-outline.md")
 REPORTS = os.path.join(REPO, "outputs", "reports")
 
@@ -175,7 +180,7 @@ def iiag_urls():
 
 
 def acquire_rows():
-    """The acquire feed, every country. `logs/africa-acquire.csv`, written by `status-acquire.py`.
+    """The acquire feed, every country. `osint-corpus-exchange/africa-acquire.csv`, written by `status-acquire.py`.
 
     One file rather than 54 markdown tables, so the queue can be sorted, filtered and counted, and
     read here so the checker and the writer cannot disagree about its shape."""

@@ -15,7 +15,7 @@ not resolve:
 each country's findings in its own markdown table inside its own report folder, which is the wrong
 shape for what this is: a work queue Bill takes into an OSINT session and works down. Fifty-four
 tables cannot be sorted by publisher, filtered to what is still outstanding, or counted. So the
-lines accumulate in `logs/africa-acquire.csv`, one row per source with the country in a column, and
+lines accumulate in `osint-corpus-exchange/africa-acquire.csv`, one row per source with the country in a column, and
 `logs/` is where they belong — it is where every other OSINT-ward artefact of this campaign lives.
 
 **A run rewrites only its own country's rows.** Every other country's pass through untouched, so
@@ -39,7 +39,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import status_lib as S  # noqa: E402
 
-OUT = os.path.join(S.REPO, "logs", "africa-acquire.csv")
+OUT = S.ACQUIRE_CSV      # OSINT's exchange folder, not Corpus — see status_lib.EXCHANGE
 COLUMNS = ["iso3", "published", "publisher", "title", "url", "sub_section", "found",
            "status", "notes"]
 MINE = ("status", "notes")          # Bill's columns. This script never writes over them.

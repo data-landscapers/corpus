@@ -42,7 +42,7 @@ Decisions taken and not to be re-opened without a reason. Each is a decision Bil
 | Non-state finance | `outputs/non-state-finance/` | Per country, plus `all-nonstate.csv` |
 | Metadata | frontmatter, facets, freshness | Extensive, and part of the offer rather than an afterthought |
 
-One of the seven does not exist yet: the **topic report layer** is unwritten — `documentation/report-layer.md` names it as still to come, and BUILD.md carries it as a deferred stage. The site cannot launch the Topics section ahead of it. The region layer has since been written. *(Since the migration this is Corpus's own gap to close, not OSINT's — it was formerly note 1 in `logs/notes-for-osint.md`.)*
+One of the seven does not exist yet: the **topic report layer** is unwritten — `documentation/report-layer.md` names it as still to come, and BUILD.md carries it as a deferred stage. The site cannot launch the Topics section ahead of it. The region layer has since been written. *(Since the migration this is Corpus's own gap to close, not OSINT's — it was formerly note 1 in `osint-corpus-exchange/notes-for-osint.md`.)*
 
 ## 3. Structure
 
@@ -84,7 +84,7 @@ The first two live in this repo (Corpus); paths above are relative to it. Moved 
 Not website work, but the website cannot launch over them.
 
 - **Repo size.** 4.6 GB and growing ~150 MB/day; GitHub recommend under 5 GB. Private or public, it is the same problem, and it makes "contact me for vault access" a chore rather than an offer. The 425 tracked PDFs in `raw/` are the weight, and the reasoning that removed 507 budget-archive PDFs applies to them.
-- ~~**`capture-rule.md` and `build-catalogue.py` describe a private vault that is never republished.**~~ Cleared 2026-08-06. `outputs/` carries no verbatim bodies, so publishing it does not touch the CDPA s.29 basis, which is a claim about the bodies in `raw/` and stays true. `build-catalogue.py` already says the catalogue is public and sends readers to the publisher, so it never disagreed. A wording point remains in `capture-rule.md` and is note 2 in `logs/notes-for-osint.md`.
+- ~~**`capture-rule.md` and `build-catalogue.py` describe a private vault that is never republished.**~~ Cleared 2026-08-06. `outputs/` carries no verbatim bodies, so publishing it does not touch the CDPA s.29 basis, which is a claim about the bodies in `raw/` and stays true. `build-catalogue.py` already says the catalogue is public and sends readers to the publisher, so it never disagreed. A wording point remains in `capture-rule.md` and is note 2 in `osint-corpus-exchange/notes-for-osint.md`.
 - **A consolidated, versioned, methodology-documented cross-country dataset** (2026-08-02 review). Fifty-nine per-country CSVs are not a citable dataset, and the budget CSV's programme grain is documented as broken. The site should launch on one or it spends its credibility on day one.
 - **REPORT-LINT over the reporting layer.** The review's finding is that the system's outputs are ahead of its verification; a public site is the largest possible extension of the output surface, and publication raises the cost of a MOZ-class defect by an order of magnitude.
 
@@ -127,7 +127,7 @@ upstream/          pulled from OSINT outputs/, 1:1 — never hand-edited   [remo
 scripts/           the compilers, renderers and templates — the authored code (moved from build/ 2026-08-13)
 site/              rendered artefacts: what is served
 prototypes/        disposable scaffolding (§5)
-documentation/design.md · logs/notes-for-osint.md · CLAUDE.md
+documentation/design.md · osint-corpus-exchange/notes-for-osint.md · CLAUDE.md
 ```
 
 *(**`upstream/` no longer exists, 2026-08-16.** The 2026-08-13 migration made Corpus author `outputs/` itself, which left `upstream/` as a mirror of Corpus's own output tree that RENDER refreshed on every run — a second copy of a tree the renderers could read directly. It has been deleted and every renderer repointed at `outputs/`, which is the durable path `RENDER.md` Step 1 had been deferring. `BUILT-FROM` moved to the repo root and still does the job described above. What follows in this subsection is the reasoning for the pull as it stood, and is kept because the constraints it derives — mirror exactly, no reshaping, pull exhaustively and publish selectively — still govern how Corpus treats material it does not author. `scripts/pull.py` and `scripts/test_pull.py` were deleted the same day: the pull had no tree left to write into, and the leak gate it once carried has lived in `scripts/leak-check.py` since the migration, now tested by `scripts/test_leak_check.py`.)*
@@ -193,7 +193,7 @@ Verification is then a single instruction anyone can follow: **hash your copy an
 
 **No undated download URL exists at all.** An undated one invites a citation that changes underneath the person who made it, which is the precise failure this section is here to prevent. Browse the HTML at a stable address; every download hands back a dated file.
 
-This makes catalogue slugs permanent identifiers upstream, since the source links inside a PDF downloaded today must still resolve in 2029. That is a constraint on OSINT rather than on the site, and it is recorded as a standing constraint in `logs/notes-for-osint.md`.
+This makes catalogue slugs permanent identifiers upstream, since the source links inside a PDF downloaded today must still resolve in 2029. That is a constraint on OSINT rather than on the site, and it is recorded as a standing constraint in `osint-corpus-exchange/notes-for-osint.md`.
 
 ### Currency — every edition says that it is one
 

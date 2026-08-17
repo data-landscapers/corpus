@@ -30,7 +30,7 @@ finance tables from `{ISO3}-nonstate.csv`.
 
 Country and region names are duplicated from OSINT's `lookups/countries.csv`
 because the build cannot read outside `outputs/` — the same duplication
-`scripts/home.py` already carries, and logs/notes-for-osint.md #9 flags it as a
+`scripts/home.py` already carries, and osint-corpus-exchange/notes-for-osint.md #9 flags it as a
 standing note rather than a pattern to repeat deliberately.
 
 Budget work is suspended, so `{ISO3}-summary.csv` is not read and no budget
@@ -59,7 +59,7 @@ MAIN_SITE = "https://data-landscapers.com"
 FINANCE_CUTOFF = 2022  # years before this are aggregated into one pivot column
 
 # ISO3 -> full country name, from lookups/countries.csv (see module docstring
-# and logs/notes-for-osint.md #9). Two entries carry proper accents the source CSV
+# and osint-corpus-exchange/notes-for-osint.md #9). Two entries carry proper accents the source CSV
 # doesn't (Côte d'Ivoire, São Tomé and Príncipe) — a typographic fix, not a
 # different name.
 FULL_NAMES = {
@@ -94,7 +94,7 @@ BASELINE_BLURB = ("Where the country stands across 37 questions, with a source f
 
 # Column definitions for the dictionary the full table offers, from
 # FINANCE-COMPILE.md § "CSV export". Two columns the CSV carries are not
-# described there — see logs/notes-for-osint.md #7 — and are marked as read off
+# described there — see osint-corpus-exchange/notes-for-osint.md #7 — and are marked as read off
 # the data.
 FIELDS = [
     ("recipient_country", "ISO-3 code of the country the commitment is tagged to. The join key.", "FINANCE-COMPILE.md"),
