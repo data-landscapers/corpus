@@ -344,7 +344,7 @@ On access and skills, the state is building the delivery layer: a national tele-
 | Audited figures for any digital budget line | ***Not held*** | — |
 
 <!-- narrative: finance -->
-The explanatory note to the 2026 rectifying budget embedded raw financial-system output showing programme 111 *Numérique* at **0.62% ordonnancé** at 30 April 2026 against 15.43% across all programmes. The ministry's own steering programme ran at 20.12% over the same period.
+The explanatory note to the 2026 rectifying budget [embedded raw financial-system output showing programme 111 *Numérique* at **0.62% ordonnancé** at 30 April 2026 against 15.43% across all programmes](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf). [The ministry's own steering programme ran at 20.12% over the same period](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf).
 
 The data-protection authority carries its own budget line across three estimates volumes. The digital agency that runs the CSIRT, the data centre and the PKI has no visible line in any of them. The identity agency likewise carries no programme of its own, and the telecoms regulator never appears in the finance law at all, funded from fees that fell 26.9% between 2024 and 2025.
 

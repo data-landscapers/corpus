@@ -210,7 +210,7 @@ The security of the online service estate was stated as a problem in June 2026 �
 | National statistics office as data custodian | ***Baseline not held*** | [Named among four offices being displaced as primary data producers (2026-03)](https://researchictafrica.net/research/the-evolving-role-of-national-statistics-offices-nsos-as-data-custodians-in-the-digital-age/) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
-The identity system did not change band — implemented on 2025-08-01 and implemented now, at about 98–99% biometric coverage throughout — while issuance kept climbing beneath it. The exchange, instituted in 2020, likewise held its band while usage grew past 138 million requests.
+The identity system did not change band — implemented on 2025-08-01 and implemented now, at [about 98–99% biometric coverage](https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system) throughout — while issuance kept climbing beneath it. The exchange, instituted in 2020, likewise held its band while usage grew past 138 million requests.
 
 What entered the record inside the window is almost entirely governance and reach. The exchange gained published [conditions of access](https://lanation.bj/numerique/interoperabilite-au-benin-les-regles-dacces-a-xroad-bj), interoperability referentials, a root certification authority and a cross-border mission with Rwanda and Ghana. Identity gained a residents file by law, an AFIS wired to the regional police exchange, a diaspora passport-renewal platform, and its first use as the electoral roll at a presidential poll.
 
