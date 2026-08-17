@@ -180,5 +180,5 @@ The revenue authority signed a research memorandum with an international tax and
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-On 27 July a domestic digital lender reported more than K500 million lent to over 120,000 customers since founding, and committed a further K500 million over the next decade — a forward intention by the lender itself, with no external financier named.
+On 27 July a domestic digital lender [reported more than K500 million lent to over 120,000 customers since founding, and committed a further K500 million over the next decade](https://techafricanews.com/2026/07/27/lupiya-commits-k500-million-to-expand-financial-inclusion-over-next-decade/) — a forward intention by the lender itself, with no external financier named.
 <!-- /narrative -->
