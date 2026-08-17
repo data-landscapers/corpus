@@ -1,12 +1,12 @@
 ---
 title: Cape Verde — digital transformation and data governance status report
-compiled: 2026-08-16
+compiled: 2026-08-17
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 171
+sources_cited: 172
 sections_written: 37
 not_established: 3
 acquire_lines: 54
@@ -271,7 +271,7 @@ Every Chinese-financed commitment to Cabo Verde's digital estate on the record w
 
 Closed commitments are not closed dependencies. [China Eximbank's RMB 84.5 million concessional loan, signed on 20 February 2017 for Phase 2 of the E-Governance Project](https://www.cabri-sbo.org/uploads/bia/cabo_verde_2018_approval_external_budget_proposal_ministry_of_finance_cen-sad_ecowas_portuguese_1.pdf), fully financed a commercial contract with Huawei Technologies concluded in September 2015, at 2% interest on a twenty-year maturity with a seven-year grace period — the repayment schedule outlasts the equipment it bought. [A companion Chinese grant under the same programme](https://www.cabri-sbo.org/uploads/bia/cabo_verde_2018_approval_external_budget_proposal_ministry_of_finance_cen-sad_ecowas_portuguese_1.pdf) upgraded networks in schools, public institutions and hospitals and supplied the computing and storage the state's e-government system runs on. [A Ministry of Commerce grant laid 16 km of fibre and installed LAN, WiFi and equipment for public institutions on the State Private Technological Network](http://cv.mofcom.gov.cn/article/zxhz/201808/20180802775653.shtml), was extended in May 2018 to reach health services and 23 schools on Santiago, and was handed to the government on 29 January 2020.
 
-The same relationship built the surveillance layer. [China funded Phase 2 of the Safe City project by exchange of notes in May 2019, with Huawei Technologies as equipment supplier and implementing contractor](http://cv.mofcom.gov.cn/article/zxhz/201711/20171102664018.shtml), extending Praia's video surveillance network and putting camera poles on São Vicente, Sal and Boa Vista, each carrying three cameras, together with a 4G LTE network for police communications.
+The same relationship built the surveillance layer. [China funded Phase 2 of the Safe City project by exchange of notes in May 2019, with Huawei Technologies as equipment supplier and implementing contractor](http://cv.mofcom.gov.cn/article/zxhz/201711/20171102664018.shtml), extending Praia's video surveillance network and putting camera poles on São Vicente, Sal and Boa Vista, each carrying three cameras, together with a 4G LTE network for police communications. A third phase followed in August 2026: China [made about EUR 9.3m available in non-reimbursable assistance, the implementation agreement signed in the week to 15 August 2026 by the interior minister and the Chinese ambassador at the National Police Command Centre in Praia](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/), and it [covers command centres, data centres and wireless base stations at Assomada, Tarrafal de Santiago and Porto Novo, and expanded video surveillance in Praia and Mindelo](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/), stated as reinforcing the technological and operational capacity of the security forces and supporting criminal investigation. No camera count, retention rule, data-protection authorisation or oversight arrangement is published for any of the three phases.
 
 Regionally, the footprint is newer. [The China-aid ECOWAS Headquarters building was handed over in Abuja on 28 April 2026](https://www.fmprc.gov.cn/mfa_eng/xw/zwbd/202605/t20260506_11905147.html), the seat of the Commission that administers the regional instruments binding Cabo Verde, and the second international-organisation office complex China has built in Africa after the African Union Conference Centre.
 

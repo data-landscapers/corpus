@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire — digital transformation and data governance status report
-compiled: 2026-08-15
+compiled: 2026-08-17
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 204
+sources_cited: 205
 sections_written: 37
 not_established: 0
 acquire_lines: 60
@@ -153,7 +153,7 @@ Where digital-specific law is silent, general law does the work. [Data-centre co
 ### Strategies, plans and policies
 <!-- gov.policy -->
 
-The strategy that governs Ivorian digital policy has aged out from under the machine that keeps producing new ones: the World Bank's [2025 GovTech Maturity Index records the country's digital transformation strategy as old and due for updating, with its successor only planned or in draft](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [cybersecurity strategy still in force is the expired 2021-2025 text](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) as at July 2026.
+The strategy that governs Ivorian digital policy has aged out from under the machine that keeps producing new ones: the World Bank's [2025 GovTech Maturity Index records the country's digital transformation strategy as old and due for updating, with its successor only planned or in draft](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [cybersecurity strategy still in force is the expired 2021-2025 text](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) as at July 2026. Where a plan does exist it is an agency's rather than the state's: the universal-service agency unveiled a 2026-2030 strategic plan on 11 August 2026 on [four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four funded at FCFA 60.144bn through the national development plan and six from the agency's own funds](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/), targeting [300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point at which 70% of rural households have no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). No adoption instrument for it is published.
 
 The instrument being succeeded is the National Digital Development Strategy 2021-2025, [organised around seven pillars including digital infrastructure and e-governance and reinforced by a "Digital Acceleration Zero Paper 2030" plan carrying a US$600 million investment programme](https://www.trade.gov/country-commercial-guides/cote-divoire-digital-economy) (2022), and its [paperless-administration target for 2030](https://techafricanews.com/2025/09/29/ivory-coast-launches-interoperability-platform-to-modernize-public-administration/) is now the frame against which almost every other decision is justified. The successor was [presented as Côte d'Ivoire Numérique 2030 at VivaTech in June 2025](https://www.fratmat.info/article/2634567/economie/cote-divoire-numerique-2030-ibrahim-kalil-konate-presente-une-strategie-ambitieuse-a-vivatech). Two further strategies, [on artificial intelligence and on data governance to 2030, were handed to the Prime Minister on 13 March 2025 as a paired set](https://www.wearetech.africa/en/fils-uk/news/tech/cote-divoire-unveils-ai-and-data-governance-strategy); the AI text is public, [carried in full through the OECD's AI policy repository](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojp2dncmoa72uz3-Cote%20d%20ivoire%20AI%20strategy.pdf). A [seminar in April 2026 aligned the AI, cybersecurity, data-governance and zero-paper strands under the Ministry of Digital Transition](https://www.linfodrome.com/economie/120037-transformation-numerique-yamoussoukro-au-centre-de-l-alignement-strategique-du-secteur), which also [carries a 2026-2028 roadmap of seven axes sitting beneath the national digital strategy and the PND 2026-2030](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique).
 
