@@ -1,16 +1,16 @@
 ---
 title: Malawi — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: MWI
-ledger_rows: 44
-not_held: 58
-record: d5c80efecb97
+ledger_rows: 45
+not_held: 57
+record: 68c2e6a9a345
 ---
 
 # Malawi: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -28,6 +28,8 @@ The month also produced the clearest statement yet of what local-government digi
 The communications regulator found both mobile operators in breach of the tariff-notice requirement on 17 July 2026, for failing to publish approved tariff changes in at least two daily newspapers seven days before they took effect. Both agreed to credit customers who bought affected products between 26 June and 2 July with bundles equal to the price difference, and to submit evidence of compliance by 31 July ([regulator order](https://techafricanews.com/2026/07/17/macra-orders-airtel-malawi-and-tnm-to-compensate-customers-over-tariff-notice-breach/)). The approved price increase itself stands.
 
 The ICT minister told Parliament on 17 July that additional mobile operator licences are under consideration, and on 24 July that the President had authorised the ministry to identify an investor able to roll out a network without delay; no bid timetable, licence terms or spectrum allocation was stated. The minister also told the House that spectrum licence fees had been reduced by 50%, against the 20% the regulator announced in June 2025 ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
+
+The gap the licensing round is meant to close acquired figures in August. An industry association report published ahead of its Malawi summit on 20 August [puts fourth-generation coverage at 87% of the population against mobile-internet penetration of 12.5%, with mobile-money adoption described as near universal, and scores Malawi 36 of 100 on its digital nations and society index and 55 of 100 on policy and regulation](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/). These are the association's own index and figures; the base still holds no official national subscriber and coverage series.
 <!-- /narrative -->
 ### Data Storage
 

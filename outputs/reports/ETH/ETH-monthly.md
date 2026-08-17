@@ -1,16 +1,16 @@
 ---
 title: Ethiopia — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: ETH
 ledger_rows: 42
 not_held: 4
-record: 98bd76c41ddd
+record: 712fe9d0b937
 ---
 
 # Ethiopia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -81,7 +81,7 @@ A [livestock information system went live on 29 July](https://developmentgateway
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The unified public-service platform launched with [185 services against 41 across twelve federal agencies a year earlier](https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation), anchored on the national identity credential. Its own regional executives say [services are being onboarded before the systems beneath them are digitised](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), that two incompatible integration models have emerged, that no legal framework compels an institution to digitise before joining, and that the platform ran close to a year with no dedicated regulatory framework. Separately the Auditor General's annual report, presented on 6 July, [credits electronic procurement with the decline in cash shortages across 163 audited federal institutions](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) while finding budget-execution gaps, billions of Birr uncollected and repeated financial-rule violations alongside the digital adoption. No Birr amount is attached to the credit, and the report itself is not held.
+The unified public-service platform launched with [185 services against 41 across twelve federal agencies a year earlier](https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation), anchored on the national identity credential. An account of 13 August puts the platform at [more than 2,200 services](https://www.biometricupdate.com/202608/benin-draws-lessons-from-ethiopia-to-shape-its-dpi-development-roadmap), on the occasion of a Beninese benchmarking visit; the base cannot reconcile that with the launch count two months earlier and the two may rest on different counting bases. Its own regional executives say [services are being onboarded before the systems beneath them are digitised](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), that two incompatible integration models have emerged, that no legal framework compels an institution to digitise before joining, and that the platform ran close to a year with no dedicated regulatory framework. Separately the Auditor General's annual report, presented on 6 July, [credits electronic procurement with the decline in cash shortages across 163 audited federal institutions](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) while finding budget-execution gaps, billions of Birr uncollected and repeated financial-rule violations alongside the digital adoption. No Birr amount is attached to the credit, and the report itself is not held.
 <!-- /narrative -->
 ### Standards
 

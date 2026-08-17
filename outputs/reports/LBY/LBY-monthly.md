@@ -1,16 +1,16 @@
 ---
 title: Libya — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: LBY
-ledger_rows: 24
+ledger_rows: 25
 not_held: 7
-record: e19ca6f428ee
+record: 4f1334990525
 ---
 
 # Libya: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -35,6 +35,8 @@ On 7 August LTT and ARABSAT [announced a Strategic Partnership Agreement](https:
 
 <!-- narrative: infrastructure--infra-cybersec -->
 The central bank [isolated its systems in June and a sample of bank data was later published on a dark-web site](https://alwasat.ly/news/libya/520951). No attribution, forensic account, scope of loss or restoration statement is held.
+
+The interior ministry answered with an agreement rather than an instrument. It [signed a technical cooperation agreement with the national telecommunications company on 12 August](https://www.eanlibya.com/%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%a8%d8%b1%d8%a7%d8%ac-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84/) covering digital transformation, cybersecurity and telecommunications infrastructure, including shared platforms, installation of towers and equipment at ministry sites, and technical support. No value, duration or delivery date is published.
 <!-- /narrative -->
 
 ## Digital public infrastructure

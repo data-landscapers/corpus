@@ -1,16 +1,16 @@
 ---
 title: Sierra Leone — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: SLE
 ledger_rows: 28
 not_held: 11
-record: 79eebbd2262f
+record: cc3994292403
 ---
 
 # Sierra Leone: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -67,7 +67,7 @@ A digital health programme covering electronic medical records, disease surveill
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The National Public Procurement Authority [sent a delegation to Liberia on 6-7 August to study that country's electronic government procurement system](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html). No Sierra Leonean platform, procurement decision or timetable follows from it on the record.
+The National Public Procurement Authority [sent a delegation to Liberia on 6-7 August to study that country's electronic government procurement system](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html). No Sierra Leonean platform, procurement decision or timetable follows from it on the record. The visit was reported on 12 August as [a deepening of bilateral cooperation between the two countries' regulators and procurement authorities on digital transformation and procurement transparency](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), which restates the same event rather than adding a commitment.
 <!-- /narrative -->
 ### Use of satellite data
 

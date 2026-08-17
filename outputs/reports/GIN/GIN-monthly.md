@@ -1,16 +1,16 @@
 ---
 title: Guinea — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: GIN
-ledger_rows: 29
+ledger_rows: 31
 not_held: 13
-record: f07df4d121f8
+record: 84386c90049c
 ---
 
 # Guinea: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -49,6 +49,8 @@ On 24 July, ONECI [signed a memorandum with NG Tech Innovation for a national in
 
 <!-- narrative: dpi--dpi-id -->
 Four days later, Multimédia Glory Guinée — the state's own technical partner deploying the biometric civil-registration system — [stated publicly that fees not provided for in the regulations were being taken at enrolment centres, that a pay-for-priority tier operated, and that citizens were unaware the documents are free](https://www.infosbruts.com/etat-civil-biometrique-en-guinee-mgg-denonce-des-pratiques-de-racket-et-appelle-a-une-reaction-des-autorites/). It asked two ministries for unannounced inspections, sanctions, an information campaign and a reporting line; neither had responded at publication.
+
+On 10 August the territorial administration minister [put birth registration at 72% in 2025 against 54% in 2022, and said a unique personal identification number was being put in place alongside digitalisation of the civil-status system](https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre). The figures are the minister's own, given at a commemorative event with no statistical source named, and the identification number still has no instrument, issuing authority, format or enrolment figure on record.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

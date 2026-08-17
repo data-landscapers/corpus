@@ -1,15 +1,15 @@
 ---
 title: Libya — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: LBY
-ledger_rows: 68
+ledger_rows: 69
 not_held: 7
-record: da1b5ae5a56d
+record: 7d6c94040a16
 ---
 
 # Libya: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/LBY/ledger.csv` (68 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/LBY/ledger.csv` (69 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -59,6 +59,12 @@ No data-protection law is in force. The [National Strategy for Artificial Intell
 | System or instrument | Status | Milestone |
 |---|---|---|
 | National data-centre capacity | ***Not held*** | — |
+
+### Cybersecurity
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Interior ministry and national operator technical cooperation agreement | [Implemented](https://www.eanlibya.com/%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%a8%d8%b1%d8%a7%d8%ac-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84/) | Cooperation agreement signed, reported 2026-08-12 |
 
 <!-- narrative: infrastructure -->
 One 5G network is in commercial service, in central Tripoli, [launched by Almadar Aljadid in January 2026](https://libyaherald.com/2026/01/almadar-mobile-launches-libyas-first-5g-service-in-tripoli-countrywide-roll-out-to-follow-soon/). The international leg is the stronger part of the estate: the [Medusa cable was inaugurated at Misrata in May 2025](https://libyaherald.com/2025/05/medusa-submarine-cable-project-linking-libya-with-europe-inaugurated), and [national root servers entered service in Tripoli and Benghazi in October 2025](https://libyaherald.com/2025/10/general-authority-for-communications-and-informatics-libya-enters-digital-sovereignty-era-with-official-launch-of-root-servers-in-tripoli-and-benghazi) under the National Telecommunications and Informatics Strategy 2023-2027.

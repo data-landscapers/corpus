@@ -1,15 +1,15 @@
 ---
 title: Guinea — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: GIN
 ledger_rows: 86
 not_held: 13
-record: ecfaf009964f
+record: ce1fb987d3eb
 ---
 
 # Guinea: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/GIN/ledger.csv` (86 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/GIN/ledger.csv` (86 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -89,7 +89,7 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 | Biometric civil registry and national ID (ONECI, MOSIP/TECH5) | [Piloting](https://idtechwire.com/guinea-launches-biometric-birth-certificates-in-sanoyah-in-civil-registry-modernization-push) | Enrolment opened in Sanoyah commune, phase 1 of 2,000 certificates |
 | Free issuance of biometric civil-registration documents | [Implemented, contested at the counter](https://www.infosbruts.com/etat-civil-biometrique-en-guinee-mgg-denonce-des-pratiques-de-racket-et-appelle-a-une-reaction-des-autorites/) | State contractor MGG alleged unprovided-for fees and pay-for-priority at enrolment centres |
 | FUGAS biometric civil-service payroll | [Implemented](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce) | Biometric audit confirmed ~130,000 of ~277,000 registered civil servants |
-| Unique personal identification number | [Planned](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce) | Prime minister called for FUGAS to integrate one; no instrument on record |
+| Unique personal identification number | [In development](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce) | Stated as being put in place by the territorial administration minister 2026-08-10 |
 | WURI-Guinea foundational ID project | [Discontinued](https://documents.worldbank.org/curated/en/099050225110559061) | Closed 28 June 2024, two years early, with ~8,000 unique IDs issued |
 
 ### Digital Payments and Fintech

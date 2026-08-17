@@ -1,16 +1,16 @@
 ---
 title: Gabon — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: GAB
-ledger_rows: 34
+ledger_rows: 35
 not_held: 27
-record: 231dd22324a5
+record: 9cf4801c99b5
 ---
 
 # Gabon: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -43,6 +43,8 @@ About 22 per cent of the Nkok facility's site energy comes from a photovoltaic p
 
 <!-- narrative: infrastructure--infra-cybersec -->
 The utility [restored billing and payment in Libreville and seven interior centres after the attack that took down 95% of its systems](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/), describing its network on 4 August as healthy, secured and protected by reinforced measures, with restoration continuing elsewhere. The account is the company's own, the attackers are described as unidentified, and no forensic, criminal or damage-cost report is on file.
+
+An audit that was signed in May reported in August. The state digital agency [delivered its information-systems audit findings to the health insurance fund on 12 August](https://www.gabonreview.com/aninf-cnamgs-le-partenariat-numerique-entre-dans-sa-phase-concrete/), three months after the two signed the memorandum, naming human resources, data and infrastructure as the three pillars of the fund's technology roadmap. The findings themselves are not published, and no remediation plan, timetable or cost is stated.
 <!-- /narrative -->
 
 ## Digital public infrastructure

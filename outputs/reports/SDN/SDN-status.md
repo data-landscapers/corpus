@@ -1,15 +1,15 @@
 ---
 title: Sudan — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: SDN
-ledger_rows: 45
+ledger_rows: 46
 not_held: 13
-record: 68da5ee7a4df
+record: 371d2c6de5ea
 ---
 
 # Sudan: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SDN/ledger.csv` (45 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/SDN/ledger.csv` (46 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -56,7 +56,7 @@ Thirteen of forty-five ledger rows are ***Not held*** — no compute capacity, s
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Draft Cybersecurity Law | [Under review](https://sudantribune.net/article/317108) | Council of Ministers sent the draft back for further study, alongside the draft Data and AI Law and draft Digital Transformation Law 2026 |
+| Draft Cybersecurity Law | [Under review](https://sudantribune.net/article/317108) | Redrafting with the digital transformation ministry reported 2026-08-11 |
 | Sudanese Cybersecurity Authority | [Implemented](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Established by PM decree alongside the Digital Transformation Authority and the Sudanese Data and AI Authority |
 
 <!-- narrative: infrastructure -->
@@ -111,6 +111,7 @@ The [Khartoum State data centre was restored and returned to operation in Octobe
 |---|---|---|
 | Baladna (national e-government platform) | [Implemented, expanding](https://spokesperson-sd.com/ar/archives/38364) | Adopted as the sole national platform for all foreign-trade transactions, permits issuable from any location |
 | Judiciary digital-transformation project | [Planned, contract signed](https://alwatannewssd.com/88831/) | Judicial Authority signed a contract with the National Technical Company, financed by the finance ministry, vetted by the justice ministry's contracts department |
+| Nazaha public procurement platform | [Implemented](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) | Launched, reported 2026-08-12 |
 
 ### Rural digital data capture
 
@@ -137,7 +138,7 @@ Payments carry the sharpest contrast between restoration and new build. [Bankak 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Border-trade legal framework (state-level protocols) | [Under review](https://sudantribune.net/article/317080) | Meeting chaired by the finance minister resolved to review state-to-neighbouring-country trade protocols and refer them to the Council of Ministers, to build a single national legal framework in their place |
-| Draft Digital Transformation Law of 2026 | [Under review](https://sudantribune.net/article/317108) | Same Council of Ministers review; sent back for further study |
+| Draft Digital Transformation Law of 2026 | [Under review](https://sudantribune.net/article/317108) | Redrafting with the digital transformation ministry reported 2026-08-11 |
 
 ### Strategies, plans and policies
 
@@ -155,7 +156,7 @@ Payments carry the sharpest contrast between restoration and new build. [Bankak 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Draft Data and Artificial Intelligence Law | [Under review](https://sudantribune.net/article/317108) | Council of Ministers reviewed the draft (paired with drafts on cybersecurity and digital transformation) and sent all three back for further study; enactment route is a joint sitting of the Sovereignty Council and Council of Ministers |
+| Draft Data and Artificial Intelligence Law | [Under review](https://sudantribune.net/article/317108) | Redrafting with the digital transformation ministry reported 2026-08-11 |
 
 ### EU activities
 

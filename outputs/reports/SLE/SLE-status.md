@@ -1,15 +1,15 @@
 ---
 title: Sierra Leone — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: SLE
 ledger_rows: 63
 not_held: 11
-record: 1be48bc936ad
+record: b2f3edbf5d8d
 ---
 
 # Sierra Leone: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (63 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (63 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -119,7 +119,7 @@ Cybersecurity institutions are ahead of the record about them. The regulator [co
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Electronic government procurement platform | [Planned](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | NPPA delegation studied Liberia's e-GP system, 6-7 August 2026 |
+| Electronic government procurement platform | [Planned](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | Bilateral cooperation on e-procurement deepened, reported 2026-08-12 |
 
 ### Digitalisation of sub-national government
 

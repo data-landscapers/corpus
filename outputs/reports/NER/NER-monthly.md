@@ -1,16 +1,16 @@
 ---
 title: Niger — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: NER
 ledger_rows: 24
 not_held: 4
-record: e87efa2f2371
+record: 514c7fe4c5d2
 ---
 
 # Niger: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -45,7 +45,9 @@ On 29 July the higher education minister said the grants agency reform consists 
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-The WURI-Niger account also records that only 66% of births are declared.
+The WURI-Niger account records that 66% of births are declared; the territorial administration ministry [put the figure at 79% against 53.48% in 2022](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) at the launch of the population register's enrolment tour. The two are differently based and the record does not reconcile them.
+
+That tour is the register's first public campaign. It [opened at Tahoua on 11 August to make the governing legal texts and the intermediate enrolment operations known](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/), under the World Bank-financed identification programme and alongside rollout of the regional biometric identity card and passport.
 
 Also on 29 July, the Diffa regional civil-status directorate reported [173,109 birth certificates issued between July 2023 and July 2026](https://anp.ne/mise-en-oeuvre-du-programme-de-la-refondation-a-diffa-plus-de-173-000-actes-de-naissance-delivres-entre-juillet-2023-et-juillet-2026/), of which 109,382 were timely declarations, with the timely rate rising from 56% in 2022 to 88.04% in 2025.
 

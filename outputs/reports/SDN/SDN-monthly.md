@@ -1,21 +1,21 @@
 ---
 title: Sudan — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: SDN
-ledger_rows: 15
+ledger_rows: 16
 not_held: 13
-record: 446131bd248d
+record: 968e57cf7f89
 ---
 
 # Sudan: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Fourteen rows moved between 1 July and 11 August 2026. Sudan's national payment switch launched with one bank connected, and a competing licence, Al-Asjad, was revoked days after its own launch. The Council of Ministers reviewed and sent back a package of three draft laws covering cybersecurity, data and AI, and digital transformation; separately, Baladna was adopted as the sole national platform for foreign-trade transactions alongside a resolution to unify state-level border-trade protocols. The Judiciary and the Civil Service Diwan each signed contracts to digitise their own operations.
+Sudan's national payment switch launched with one bank connected, and a competing licence, Al-Asjad, was revoked days after its own launch. The Council of Ministers reviewed and sent back a package of three draft laws covering cybersecurity, data and AI, and digital transformation; separately, Baladna was adopted as the sole national platform for foreign-trade transactions alongside a resolution to unify state-level border-trade protocols. The Judiciary and the Civil Service Diwan each signed contracts to digitise their own operations.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -51,7 +51,7 @@ Fourteen rows moved between 1 July and 11 August 2026. Sudan's national payment 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-[Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed.
+[Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed. A second procurement system entered service: [Nazaha, a national digital public-procurement and contracting platform, was launched and stated as aimed at transparency and fair competition in the allocation of government contracts](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) (12 August). No coverage, entity count, procurement value or mandatory-use instrument is published for it.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -59,7 +59,7 @@ Fourteen rows moved between 1 July and 11 August 2026. Sudan's national payment 
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-[A finance-ministry-chaired meeting on 5 August 2026 resolved to review state-to-neighbouring-country trade protocols](https://sudantribune.net/article/317080) and refer them to the Council of Ministers, to build a single national legal framework in their place — the stated driver is revenue protection rather than service delivery. [The Council of Ministers reviewed a draft Digital Transformation Law of 2026 on 6 August](https://sudantribune.net/article/317108), alongside the cybersecurity and data/AI drafts, and sent it back for further study with no text published.
+[A finance-ministry-chaired meeting on 5 August 2026 resolved to review state-to-neighbouring-country trade protocols](https://sudantribune.net/article/317080) and refer them to the Council of Ministers, to build a single national legal framework in their place — the stated driver is revenue protection rather than service delivery. [The Council of Ministers reviewed a draft Digital Transformation Law of 2026 on 6 August](https://sudantribune.net/article/317108), alongside the cybersecurity and data/AI drafts, and sent it back for further study with no text published. Five days later the justice ministry gave the three a drafting owner: its legal-sector head [said the ministry is preparing the Cybersecurity Regulation Law of 2026, the Data and Artificial Intelligence Regulation Law of 2026 and the Digital Transformation Regulation Law of 2026 in coordination with the digital transformation and communications ministry](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1), alongside a stated intention to apply the technology to legal services, legislative drafting and smart-justice platforms. No text, timetable or enactment route beyond the joint sitting already on record is published.
 <!-- /narrative -->
 ### Data protection
 

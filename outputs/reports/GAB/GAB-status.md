@@ -1,15 +1,15 @@
 ---
 title: Gabon — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: GAB
 ledger_rows: 102
 not_held: 27
-record: 771334f452bb
+record: 1e084a63445d
 ---
 
 # Gabon: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/GAB/ledger.csv` (102 systems and instruments, 27 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/GAB/ledger.csv` (102 systems and instruments, 27 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -64,7 +64,7 @@ The World Bank operation intended to build the digital state had disbursed about
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| ANINF-CNAMGS information-systems audit memorandum | [Implemented](https://techreviewafrica.com/public/news/5373/cnamgs-and-aninf-partner-to-accelerate-digital-modernisation-of-public-services-in-gabon) | Memorandum of understanding signed |
+| ANINF-CNAMGS information-systems audit memorandum | [Implemented](https://techreviewafrica.com/public/news/5373/cnamgs-and-aninf-partner-to-accelerate-digital-modernisation-of-public-services-in-gabon) | Audit findings delivered to the health insurance fund 2026-08-12 |
 | ANINF-MITRE national cybersecurity architecture | [In development](https://techreviewafrica.com/news/6029/gabon-advances-cybersecurity-architecture-through-aninf-mitre-cooperation) | Critical-asset mapping phase under way, after an earlier phase defined twelve priority sectors |
 | Interpol Operation Serengeti 2.0 | [Discontinued](https://www.gabonreview.com/cybercriminalite-le-gabon-renforce-sa-cooperation-avec-interpol-et-recupere-55-milliards-de-fcfa/) | Operation concluded after running June to August 2025 across eighteen African countries |
 | National cybersecurity strategy | [Planned](https://www.gabonreview.com/2e-forum-de-la-cybersecurite-du-gabon-comprendre-les-menaces-et-partager-les-bonnes-pratiques/) | Named as an objective of the second national Cybersecurity Forum |

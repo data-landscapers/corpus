@@ -1,16 +1,16 @@
 ---
 title: Mozambique — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: MOZ
 ledger_rows: 55
 not_held: 18
-record: 0b0b8f890b63
+record: 88c3621e1eb6
 ---
 
 # Mozambique: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -61,6 +61,8 @@ The roads fund runs an [open-data portal publishing road, bridge and infrastruct
 
 <!-- narrative: dpi--dpi-id -->
 The identification directorate reported on 23 July that it produced 856,101 identity cards in the first half of 2026 on 813,307 applications, against 730,527 a year earlier, with 297,470 issued free ([directorate account](https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/)). On 28 July the President extended free issuance of the identity card, birth certificate and personal certificate to 2027, stating neither the end month nor the deadline it replaces ([presidential announcement](https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/)).
+
+The humanitarian register moved from pilot to a dated launch. Validation of the beneficiary and humanitarian assistance management system [was completed with national launch stated for October 2026](https://www.biometricupdate.com/202608/mozambiques-digital-humanitarian-response-system-set-for-october-launch), the platform backed by the World Food Programme and built to interoperate with the national social-support database so that duplicate and fictitious beneficiary registrations can be curbed. No data-protection basis, retention rule or enrolment target is published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

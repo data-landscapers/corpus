@@ -1,16 +1,16 @@
 ---
 title: Tanzania — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: TZA
-ledger_rows: 48
+ledger_rows: 50
 not_held: 13
-record: 520d64ff55cd
+record: 0f93755a31f4
 ---
 
 # Tanzania: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -72,6 +72,8 @@ A technical meeting in Zanzibar from 7 to 11 July [advanced the governance, comm
 
 <!-- narrative: dpi--dpi-registry -->
 At an agricultural exhibition on 4 August the e-government agency stated that [more than 6,000 cooperative societies are registered](https://dailynews.co.tz/ega-drives-digital-farming/) on its management system. No user counts, spend or timeline were given.
+
+Birth registration gained a fourth estimate. The constitutional and legal affairs minister [put under-five registration at 65%, against 55% in 2020](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure), attributing the rise to sustained investment and awareness campaigns. The base already holds estimates of about 60% for 2022 and a five-year range of 61 to 76% on different bases, and does not reconcile them to one series.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
@@ -100,6 +102,8 @@ At a university health conference on 31 July the government stated [three requir
 
 <!-- narrative: governance--gov-protect -->
 The data protection commission and the open university [opened a certification programme for data protection officers on 14 July](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/), the university training and assessing and the commission certifying, aimed at government, finance, telecommunications, healthcare, education and technology. It answers the statutory officer duty; no intake number, fee or cohort date was published.
+
+A separate rule pulls in the other direction. Businesses selling on social media must now [display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-new-social-media-tax-rule-for-businesses-sparks-privacy-and-cybersecurity-fears-5555022), and digital creators and online traders have objected that publishing those credentials exposes them to impersonation and fraud (12 August). The objections are those of named creators and traders reported by the paper rather than a regulator finding; no data-protection assessment or redress route is published.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
