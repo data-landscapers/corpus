@@ -23,7 +23,7 @@ record: bb53d47fcd13
 <!-- narrative: summary -->
 Over the period Gabon acquired hosting capacity it did not have, and did not close the governance questions that capacity raises. Two Tier III data centres went from nothing to one in service and one due by December 2026; the national internet exchange point went from two dormant members to reconnection by both large operators; and a domestic payment scheme went from not existing to being the pilot for a standard now binding across six states.
 
-Against that, the electronic identity programme published its first coverage figures and they showed 78,500 disputed files; the social-media suspension took effect and has not been lifted; and the World Bank operation passed its closing date having disbursed under a fifth of its envelope.
+Against that, the electronic identity programme published its first coverage figures and [they showed 78,500 disputed files](https://africacoeurnews.com/2026/06/03/gabon-17720-cartes-didentite-electroniques-toujours-non-retirees/); the social-media suspension took effect and has not been lifted; and the World Bank operation passed its closing date having disbursed under a fifth of its envelope.
 <!-- /narrative -->
 
 ## Infrastructure
