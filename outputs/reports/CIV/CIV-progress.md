@@ -3,18 +3,18 @@ title: Cote d'Ivoire — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: CIV
-ledger_rows: 131
+ledger_rows: 132
 not_held: 10
-record: b73b44e0d969
+record: 1ee2c4dcdd88
 ---
 
 # Cote d'Ivoire: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 131 systems and instruments on this place's ledger, 70 changed position between 2025-08-01 and 2026-08-17, 24 did not, 27 carry no stated baseline, and 10 are ***Not held*** at both ends.*
+*Of 132 systems and instruments on this place's ledger, 70 changed position between 2025-08-01 and 2026-08-17, 24 did not, 28 carry no stated baseline, and 10 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 248 sources for this place in the window — 88 in the earlier half (2025-08 to 2026-01), 160 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 249 sources for this place in the window — 88 in the earlier half (2025-08 to 2026-01), 161 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -310,6 +310,7 @@ Everything else sits where it sat. The safe-artificial-intelligence label, the n
 | Education management information system compact | In force, closing that month | [Compact closed, with no successor operation, outturn or system-status report on file](https://assets.mcc.gov/content/uploads/partner-country-business-forecast-q3fy22-q2fy23.xlsx) | Closed |
 | Chinese digital education loan | Fully disbursed with a Chinese vendor contracted to the education ministry | [Unchanged; no disbursement, completion or evaluation update since December 2022](https://www.dropbox.com/s/myashl99hq44wde/Projet%20d%E2%80%99%C3%89ducation%20Num%C3%A9rique_85%25%20English.pdf?dl=0) | No change |
 | Civil-service digital-skills programme | ***Baseline not held*** | [192 officials from about thirty public bodies trained over 40 days, against a cumulative claim of more than 37,500 civil servants](https://www.fratmat.info/article/2643657/regions/katiolatic-192-agents-administratifs-formes-dans-le-hambol) | ***Baseline not held*** |
+| Tech Talent Accelerator | Baseline not held | [A German-funded three-month cohort closing with 51 artificial-intelligence projects across finance, health, law, education and cybersecurity; participant numbers, cost and what becomes of the projects are not stated](https://startupmedias.africa/articles/tech-talent-accelerator-51-projets-intelligence-artificielle-cote-divoire) | ***Baseline not held*** |
 
 ### Research institutions
 

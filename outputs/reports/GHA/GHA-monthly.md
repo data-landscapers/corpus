@@ -3,9 +3,9 @@ title: Ghana — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: GHA
-ledger_rows: 85
+ledger_rows: 88
 not_held: 9
-record: b4150e13b96e
+record: 6fa76ef11b6b
 ---
 
 # Ghana: monthly update, July 2026
@@ -24,6 +24,8 @@ Two regulatory clocks started in July. The identity regulator gave institutions 
 
 <!-- narrative: infrastructure--infra-connect -->
 The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) answered sixty written queries from four prospective applicants, formally amended the request for applications in seven places, and shifted every subsequent date by 21 days, with licence fees now due 17 November. [It refused any extension to the 70% population coverage obligation of 6 March 2027 while confirming that obligation is band- and technology-neutral and can be met in substantial part from existing deployment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf). It also rewrote the dominant operator's rural schedule from licence-relative years into fixed dates of December 2029, 2032 and 2035, expressly so that buying spectrum would not accelerate an equivalent existing commitment. [And it recharacterised the 40% premium on that operator's reserve prices in writing as a price for attributable value rather than a sanction or a market-power remedy, declining to publish its valuation model during a live assignment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
+
+Beneath the licensing argument, the traffic that never leaves the country was counted. On 16 August the Accra exchange was reported [past 200 Gbps, against three exchanges that barely overlap: only 4 of 39 connected networks peer at all three, so most local traffic still transits abroad](https://tech.africa/accra-three-internet-exchanges/). The headline figure is the smaller finding. An exchange is worth the traffic it keeps local, and three partly-overlapping exchanges keep less of it than one would.
 <!-- /narrative -->
 ### Data Storage
 
@@ -78,6 +80,8 @@ Business registration is [in pilot for end-to-end filing from name search to cer
 
 <!-- narrative: dpi--dpi-govtech -->
 The finance ministry reported to Parliament that the customs valuation system had [analysed about 366,000 declarations to 17 July](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/), 24% triggering more than one risk indicator, with collections up 17.5% against a 6.3% rise in declared value. A second public sector reform strategy was validated on 30 July on seven pillars, 27 programmes and 135 activities.
+
+The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
@@ -151,6 +155,8 @@ Two assistive devices are [in pilot with a disability association — smart glas
 At a policy dialogue on 29 July the regulator said an existing hotspot authorisation [could found a dedicated community-network regime](https://www.myjoyonline.com/isoc-ghana-urges-policy-reforms-to-expand-community-networks-and-bridge-rural-digital-divide/), with no timetable, consultation or draft announced; a civil-society policy lead placed four other African states ahead of Ghana on enabling frameworks.
 
 The [draft digital economy and innovation development fund bill](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/) would also convert the universal-access fund into a wider innovation and skills fund, with the fate of the rural-access earmark unestablished.
+
+Existing money went the other way. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Ghana slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Ghanaian figure is given.
 <!-- /narrative -->
 ### Access to services
 

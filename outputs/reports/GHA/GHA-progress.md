@@ -3,18 +3,18 @@ title: Ghana — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: GHA
-ledger_rows: 140
+ledger_rows: 143
 not_held: 9
-record: b1570e47d7e1
+record: 87c152399089
 ---
 
 # Ghana: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 140 systems and instruments on this place's ledger, 66 changed position between 2025-08-01 and 2026-08-17, 24 did not, 41 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 143 systems and instruments on this place's ledger, 67 changed position between 2025-08-01 and 2026-08-17, 24 did not, 43 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 287 sources for this place in the window — 57 in the earlier half (2025-08 to 2026-01), 230 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 291 sources for this place in the window — 57 in the earlier half (2025-08 to 2026-01), 234 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -47,6 +47,7 @@ Over the twelve months Ghana went from a jurisdiction with a data-protection law
 | Satellite licensing framework | Licensed and operating, framework in force | [29 satellite licences issued, eleven of them last-mile; nothing published on the framework since](https://nca.org.gh/2024/08/22/starlink-starts-operations-in-ghana-end-of-august-2024/) | No change |
 | Submarine carrier services authorisation | In force since November 2024 | [Unchanged; a five-year renewable authorisation granted under section 3(c) of the National Communications Authority Act 2008, charging an annual regulatory fee of 1% of revenue, lapsing if not operated within two years, requiring not less than three years' notice of non-renewal, and obliging the holder to retain charging and financial data for six years and regulatory returns for two](https://nca.org.gh/wp-content/uploads/2024/11/Electronic-Communication-Submarine-Carrier-Services-Authorisation_November-2024-V5.pdf) | No change |
 | Dig Once policy | ***Baseline not held*** | [Draft framework finalised with the roads ministry and implementation targeted for the third quarter of 2026; no cabinet decision, instrument or commencement on record](https://www.myjoyonline.com/government-says-dig-once-policy-could-cut-fibre-rollout-costs-by-up-to-60/) | ***Baseline not held*** |
+| Internet exchange points | Baseline not held | [The Accra exchange past 200 Gbps, but three exchanges barely overlap: only 4 of 39 connected networks peer at all three, so most local traffic still transits abroad](https://tech.africa/accra-three-internet-exchanges/) | ***Baseline not held*** |
 | Register of authorised internet service providers | ***Baseline not held*** | [78 authorised internet and public-data providers of which 42 are operational and 36 are not, with 35 of the 73 companies in the main internet and public-data class not operational and the single authorised rural provider itself not operational](https://nca.org.gh/wp-content/uploads/2025/08/Q2-2025-Final-LIST-OF-AUTHORISED-ISPS-IN-GHANA-1.pdf) | ***Baseline not held*** |
 
 ### Data Storage
@@ -152,6 +153,7 @@ The rest is accretion on a network-quality problem the base already recognised: 
 | Second public sector reform strategy | Did not exist | [Draft on seven pillars, 27 programmes and 135 activities with the identity credential as the spine, expected at cabinet and Parliament by end-2026](https://www.graphic.com.gh/news/general-news/ghana-news-govt-targets-public-services-full-digitisation-under-npsrs-ii.html) | Advanced |
 | Electronic procurement system | ***Baseline not held*** | [Mandatory end-to-end electronic procurement with pre-disclosed evaluation criteria, integrated with the national payment system](https://www.myjoyonline.com/ghana-electronic-procurement-system-will-reduce-corruption-in-public-procurement-ppa/) | ***Baseline not held*** |
 | Fiscal electronic device policy | ***Baseline not held*** | [An advanced pilot under the 2018 fiscal-device Act, to be paired with a reward scheme, with a projection of GH¢7.2bn a year](https://www.mofep.gov.gh/sites/default/files/budget-statements/2026-Mid-Year-Fiscal-Policy-Review-Speech.pdf) | ***Baseline not held*** |
+| Tax Modernisation Master Plan | Baseline not held | [A Korean-backed plan covering income tax, value-added tax, tax administration and electronic tax administration; no cost, timetable or implementing schedule is published](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html) | ***Baseline not held*** |
 
 ### National statistics
 
@@ -294,6 +296,7 @@ Everything else accreted detail on a position already held. The oversight body h
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Household survey of digital access | A 2019 regulator household survey, with a biennial repeat stated as intent | [No repeat round; 16.8% of households with internet access against 73.8% owning a television, 7.9% of people aged five and over owning a computer of any kind, and smartphone ownership at 58.4% urban against 28.1% rural](https://nca.org.gh/wp-content/uploads/2021/12/Household-Survey-on-ICT-in-Ghana-Abridged-NRF.pdf) | No change |
 | Fourth-generation coverage against usage | ***Baseline not held*** | [Fourth-generation networks reach more than 90% of the population while actual usage runs below 60%, with many users still on feature phones](https://africa.businessinsider.com/local/markets/ghana-strikes-ai-training-deal-with-chinese-multinational/) | ***Baseline not held*** |
 | Rural telephony and digital inclusion project | ***Baseline not held*** | [Continuing, with the fund restating it as top priority and taking an upgraded mast design](https://www.graphic.com.gh/news/general-news/ghana-news-improving-rural-telephony-project-remains-top-priority-gifec-ceo.html) | ***Baseline not held*** |

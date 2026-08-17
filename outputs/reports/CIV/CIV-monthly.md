@@ -3,9 +3,9 @@ title: Cote d'Ivoire — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: CIV
-ledger_rows: 52
+ledger_rows: 53
 not_held: 10
-record: 6dd047e33821
+record: bbbf8dd2f3b3
 ---
 
 # Cote d'Ivoire: monthly update, July 2026
@@ -135,6 +135,8 @@ The national education digitalisation project stands at [six of eight components
 
 <!-- narrative: inclusion--capacity-training -->
 The civil-service digital-skills programme [closed its thirteenth edition on 29 July](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins), training 192 officials from about thirty public bodies over 40 days, against a cumulative claim of more than 37,500 civil servants funded from the ministry's own budget line.
+
+Outside the service, a German-funded accelerator closed a three-month cohort on 4 August, [closing with 51 artificial-intelligence projects across finance, health, law, education and cybersecurity](https://startupmedias.africa/articles/tech-talent-accelerator-51-projets-intelligence-artificielle-cote-divoire). The project count is the only measure published: participant numbers, cost and what becomes of the projects after the demonstration day are not stated, and a project shown at one is not a deployed system.
 <!-- /narrative -->
 ### Research institutions
 
