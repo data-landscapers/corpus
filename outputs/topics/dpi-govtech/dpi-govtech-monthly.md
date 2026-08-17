@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: dpi.govtech
 places: DZA; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; DJI; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1b8aeba521a3
+record: 964d256a5a33
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
@@ -107,7 +107,7 @@ At the CSIRT launch the ministry also stated a plan to move ICT services out of 
 
 The e-procurement platform published its first operating figures on 5 August: [more than 1,200 vendors registered and more than US$400,000 in revenue generated](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/). No contract value transacted, tender count, bidder numbers or share of government procurement passing through the platform is given. Two days later it became an export: Sierra Leone's procurement authority [sent a delegation to Monrovia on 6-7 August to study the implementation](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html), where the executive director dated the national launch to February 2025 after a six-institution pilot and credited the African Development Bank and the World Bank with the backing behind it. A later account of the same visit [records the telecommunications regulator receiving equipment to strengthen its own use of the platform](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), framed as deepening bilateral cooperation on digital transformation and procurement transparency.
 
-Licensing moved off paper in the same week. The telecommunications regulator [rolled out an automated telecom licensing and renewal platform](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), letting applicants apply and renew online while keeping in-person service available. No licence count, processing time or fee schedule is published.
+Licensing moved off paper in the same week. The telecommunications regulator [put an automated telecom licensing and renewal platform into service](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), letting applicants apply and renew online while keeping in-person service available. No licence count, processing time or fee schedule is published.
 
 ## Libya
 

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fdf90aedb8d6
+record: ad0c62280746
 ---
 
 # Connectivity: monthly update, July 2026
@@ -148,6 +148,7 @@ Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.
 The regulator revoked [Starcell International Liberia's universal licence and spectrum authorisation with immediate effect on 22 July 2026](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license), after a 90-day suspension from 9 February during which no corrective action was taken; spectrum, numbering resources and regulatory privileges revert to the Authority. The grounds cited were failure to commence operations, unmet financial obligations and non-payment of universal access contributions.
 
 At the same 21 July event, the Posts and Telecommunications Minister [announced a second subsea cable and expanded fibre](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date, budget line or cable landing partner given for either; the LTA separately said it is reviewing a World Bank-supported report on reducing telecom costs.
+
 The Anti-Corruption Commission's 30 July complaint over the telecoms traffic-monitoring arrangement, forwarded to its investigation unit, is covered under Governance and regulation → Public debate and participation in policymaking below.
 
 ## Libya
