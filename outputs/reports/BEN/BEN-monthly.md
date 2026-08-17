@@ -3,9 +3,9 @@ title: Benin — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: BEN
-ledger_rows: 22
+ledger_rows: 23
 not_held: 4
-record: be79738a3ed6
+record: 5f3b16454519
 ---
 
 # Benin: monthly update, July 2026
@@ -117,4 +117,12 @@ The [first national artificial-intelligence olympiad was held on 9 July](https:/
 The Council of Ministers authorised a national tele-teaching platform across four public universities for 2026–27, with virtual amphitheatres for students in the hinterland. Two skills programmes ran alongside it. The state's information-systems security officer certification [opened a cohort of 25 on 3 August, taking about 85 officers trained against a target of 100 qualified by end-2026, on CEH and ISO 27001 with practical work at the national cyber range, and widened intake beyond central government to local authorities, state enterprises and the private sector](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi). The [Sème City hub network runs a francophone digital-skills programme and an annual digital week alongside a Sorbonne partnership](https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-higher-education-access-through-e-learning-strategy); no enrolment or completion figure is published for it.
 
 Benin held a first National AI Olympiad on 9 July. Nothing moved on the national strategy itself, on the generative-AI compliance regime published in June, or on the government super app the presidential programme lists among its existing foundations and which nothing establishes.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+One commitment entered the window. During a ministerial visit of 4 to 6 August, Canada [announced CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html). The remaining six lines are outside the digital estate. What the digital line does not carry is an implementing partner, a start date or a duration, so there is nothing yet to follow from the announcement to a system.
 <!-- /narrative -->

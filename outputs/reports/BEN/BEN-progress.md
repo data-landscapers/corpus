@@ -3,18 +3,18 @@ title: Benin — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: BEN
-ledger_rows: 87
+ledger_rows: 88
 not_held: 4
-record: 61b26e6265e2
+record: e83104f4b944
 ---
 
 # Benin: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 87 systems and instruments on this place's ledger, 55 changed position between 2025-08-01 and 2026-08-17, 13 did not, 15 carry no stated baseline, and 4 are ***Not held*** at both ends.*
+*Of 88 systems and instruments on this place's ledger, 55 changed position between 2025-08-01 and 2026-08-17, 13 did not, 16 carry no stated baseline, and 4 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 179 sources for this place in the window — 42 in the earlier half (2025-08 to 2026-01), 137 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 181 sources for this place in the window — 42 in the earlier half (2025-08 to 2026-01), 139 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -370,6 +370,7 @@ The delivery rows are all arrivals: a national tele-teaching platform authorised
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | MEF digitalisation support project (BOAD) | Did not exist | [XOF 19.5bn (US$32.5m) BOAD loan modernising the finance ministry's data centre, La Poste du Benin's information system and the DGFD's SGIFD/SIRH systems, in implementation (2026-05)](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46021-2026008%22) | Advanced |
+| Canadian financing for the digital transformation of women-led businesses | Baseline not held | [CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa; no implementing partner, start date or duration is named](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html) | ***Baseline not held*** |
 
 ### Domestic budget appropriations and expenditure
 

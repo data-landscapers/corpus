@@ -1,16 +1,16 @@
 ---
 title: Zambia — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: ZMB
-ledger_rows: 55
+ledger_rows: 56
 not_held: 54
-record: 693dda4a2a85
+record: 1fd2ddcf5d84
 ---
 
 # Zambia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -181,4 +181,6 @@ The revenue authority signed a research memorandum with an international tax and
 
 <!-- narrative: finance--finance-new -->
 On 27 July a domestic digital lender [reported more than K500 million lent to over 120,000 customers since founding, and committed a further K500 million over the next decade](https://techafricanews.com/2026/07/27/lupiya-commits-k500-million-to-expand-financial-inclusion-over-next-decade/) — a forward intention by the lender itself, with no external financier named.
+
+External money made a smaller and vaguer offer. On 11 August the United Kingdom [opened expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m to March 2030](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), naming Zambia with Zimbabwe as the first year's focus and South Africa as the programme's primary one. No Zambian allocation is stated, and the delivery consortium has not been chosen.
 <!-- /narrative -->

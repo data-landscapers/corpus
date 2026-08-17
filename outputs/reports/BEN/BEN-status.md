@@ -1,15 +1,15 @@
 ---
 title: Benin — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: BEN
-ledger_rows: 76
+ledger_rows: 77
 not_held: 4
-record: d6426e5775fd
+record: fbf7aa5fb8ff
 ---
 
 # Benin: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/BEN/ledger.csv` (76 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/BEN/ledger.csv` (77 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -333,6 +333,7 @@ On access and skills, the state is building the delivery layer: a national tele-
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Canadian financing for the digital transformation of women-led businesses | [Planned](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html) | Announced during a ministerial visit, 4-6 August 2026 |
 | MEF digitalisation support project (BOAD) | [Implemented](https://api.iatistandard.org/datastore/activity/select?q=iati_identifier:%22XM-DAC-46021-2026008%22) | Committed 2026-05-19, implementation under way |
 
 ### Domestic budget appropriations and expenditure

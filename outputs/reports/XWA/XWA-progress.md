@@ -3,18 +3,18 @@ title: West Africa — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: XWA
-ledger_rows: 43
+ledger_rows: 44
 not_held: 2
-record: 6632743916ac
+record: bd55668d1c8a
 ---
 
 # West Africa: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 43 bodies, instruments and systems on this place's ledger, 32 changed position between 2025-08-01 and 2026-08-17, 3 did not, 6 carry no stated baseline, and 2 are ***Not held*** at both ends.*
+*Of 44 bodies, instruments and systems on this place's ledger, 32 changed position between 2025-08-01 and 2026-08-17, 3 did not, 7 carry no stated baseline, and 2 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 101 sources for this place in the window — 19 in the earlier half (2025-08 to 2026-01), 82 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 103 sources for this place in the window — 19 in the earlier half (2025-08 to 2026-01), 84 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -225,6 +225,7 @@ Capacity work in the window is two small, dated interventions rather than a prog
 |---|---|---|---|
 | WARDIP (Western Africa Regional Digital Integration Program) | The first series alone: US$293.00m across four states, ECOWAS, the African Union and Smart Africa | [A second series approved on 2026-03-11 for Benin, Liberia and Sierra Leone, with Liberia's US$50m share signed in June](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |
 | World Bank commitment to the WARDIP series | US$293.00m, the first series (2023-11-07) | [US$430.00m across the two series, after US$137.00m was approved on 2026-03-11](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |
+| Pooled equity investment in a pan-African start-up fund | Baseline not held | [EUR10.5m approved toward first close - EUR7m from the continental development bank and EUR3.5m from the European Union with the African, Caribbean and Pacific states - into a fund investing in agribusiness, financial services, energy, education and health, mainly in Francophone West Africa](https://www.africaglobalfunds.com/news/investors/afdb-approves-105m-investment-in-tech-startup-fund/) | ***Baseline not held*** |
 
 ### Domestic budget appropriations and expenditure
 
@@ -236,6 +237,8 @@ Capacity work in the window is two small, dated interventions rather than a prog
 The regional layer's financing is a lender's. WARDIP's first series [committed US$293.00m](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf); a [second series of US$137.00m was approved on 2026-03-11](https://projects.worldbank.org/en/projects-operations/project-detail/P500628) for Benin, Liberia and Sierra Leone, taking the World Bank's commitment to US$430.00m; Liberia [signed its US$50m share on 2026-06-08](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/).
 
 The bloc's own contribution is procedural: the Authority [directed the Commission to prioritise digital connectivity](https://www.ecowas.int/wp-content/uploads/2026/07/Final-Communique_-ENG.pdf) alongside transport, energy and water in its project-preparation pipeline. No project list, envelope or first report is held, nor any budget line of ECOWAS, the UEMOA Commission or WATRA for their own digital work, so what the region spends on the layer above cannot be stated at either end of the period.
+
+Equity is the one instrument that moved on its own account. On 9 August the continental development bank [approved a EUR10.5m pooled investment toward the first close of a pan-African start-up fund, EUR7m of it its own and EUR3.5m from the European Union with the African, Caribbean and Pacific states](https://www.africaglobalfunds.com/news/investors/afdb-approves-105m-investment-in-tech-startup-fund/), aimed at agribusiness, financial services, energy, education and health mainly in Francophone West Africa. It is a fund commitment rather than a project one: what it buys will be visible only in the companies it later backs.
 <!-- /narrative -->
 
 ## Where the record is thin

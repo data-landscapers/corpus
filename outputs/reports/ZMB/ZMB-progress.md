@@ -3,18 +3,18 @@ title: Zambia — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: ZMB
-ledger_rows: 162
+ledger_rows: 163
 not_held: 54
-record: 0a171ce9b583
+record: 4f9d93069fa4
 ---
 
 # Zambia: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 162 systems and instruments on this place's ledger, 54 changed position between 2025-08-01 and 2026-08-17, 31 did not, 23 carry no stated baseline, and 54 are ***Not held*** at both ends.*
+*Of 163 systems and instruments on this place's ledger, 54 changed position between 2025-08-01 and 2026-08-17, 31 did not, 24 carry no stated baseline, and 54 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 120 sources for this place in the window — 21 in the earlier half (2025-08 to 2026-01), 99 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 123 sources for this place in the window — 21 in the earlier half (2025-08 to 2026-01), 102 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -331,6 +331,7 @@ Financial inclusion rose from 69.4% of adults in 2020 to 80.1% in 2025, with mob
 | Improved Rural Connectivity Project | US$200,000,000 committed in 2017, of which US$141,100,654 disbursed, status active | [Same amounts; the held record gives a closing date of 2025-12-31 while also carrying status active as enriched on 2026-07-21, and no source confirms closure or a final disbursement](https://projects.worldbank.org/en/projects-operations/project-detail/P159330) | No change |
 | Zambia Refugee and Host Communities Project | A US$30 million grant under the host communities and refugees window, board-approved 2024-09-26 and effective 2024-12-23, with agency technical support and the home affairs ministry as manager | [Unchanged; a US$6 million identity limb issues biometric registration cards to refugees and former refugees and enrols them into the national register, with completion planned for end-October 2028](https://www.worldbank.org/en/news/press-release/2024/09/27/new-world-bank-grant-supports-afe-zambia-to-improve-opportunities-for-refugees-and-host-communities) | No change |
 | Lupiya digital lending | The base carries no earlier position on the lender | [More than K500 million lent to over 120,000 customers since founding, operating in all ten provinces and two other African countries, with a further K500 million committed over the next decade targeting small businesses, farmers, traders and women entrepreneurs](https://techafricanews.com/2026/07/27/lupiya-commits-k500-million-to-expand-financial-inclusion-over-next-decade/) | ***Baseline not held*** |
+| Science and Technology Accelerator-Systems, Southern Africa | Baseline not held | [Up to GBP2.5m over three years to March 2030 across Southern Africa, of which up to GBP400,000 for 2026/27; Zambia is named alongside Zimbabwe as the first year's focus, with South Africa the programme's primary one](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
 
 ### MoUs and other agreements
 

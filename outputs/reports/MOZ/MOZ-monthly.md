@@ -3,9 +3,9 @@ title: Mozambique — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: MOZ
-ledger_rows: 55
+ledger_rows: 56
 not_held: 18
-record: 88c3621e1eb6
+record: 56076de2ce55
 ---
 
 # Mozambique: monthly update, July 2026
@@ -135,6 +135,8 @@ The economy minister [met satellite operator representatives to discuss connecti
 
 <!-- narrative: inclusion--include-divides -->
 The inclusion figures move in opposite directions depending on which one is read. The central bank's 2025 report puts the [financial inclusion index at 36.4 points, classified moderate, with Cabo Delgado rising from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) — a national index that did not move while access points rose 36%. Underneath it the [gender gap in access to credit stands at 34% women against 66% men](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/), and women's mobile money holding rose 24% over the same period. The account gap is narrowing while the credit gap widens.
+
+The funding aimed at those gaps shrank in the same window. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Mozambique slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Mozambican figure is given.
 <!-- /narrative -->
 ### Access to services
 

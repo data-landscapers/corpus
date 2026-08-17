@@ -3,18 +3,18 @@ title: Mozambique — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: MOZ
-ledger_rows: 146
+ledger_rows: 147
 not_held: 18
-record: 6bc3d8549083
+record: 29b7dc9e7e14
 ---
 
 # Mozambique: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 146 systems and instruments on this place's ledger, 74 changed position between 2025-08-01 and 2026-08-17, 27 did not, 27 carry no stated baseline, and 18 are ***Not held*** at both ends.*
+*Of 147 systems and instruments on this place's ledger, 75 changed position between 2025-08-01 and 2026-08-17, 27 did not, 27 carry no stated baseline, and 18 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 159 sources for this place in the window — 29 in the earlier half (2025-08 to 2026-01), 130 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 160 sources for this place in the window — 29 in the earlier half (2025-08 to 2026-01), 131 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -299,6 +299,7 @@ None of it is adopted policy. The strategy was not adopted, the commission's dec
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Gender gap in access to credit | Women 31%, men 59% (2024) | [Women 34%, men 66% (2025)](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | Regressed |
 | Financial Inclusion Index | 36.4 points (2024) | [36.4 points (2025), classified moderate by the central bank; Cabo Delgado rose from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | No change |
 | Urban and rural information and communications technology penetration | ***Baseline not held*** | [About 80% in urban areas against about 20% in rural areas (2025-10)](https://techafricanews.com/2025/10/20/mozambique-to-install-60-new-mobile-stations-to-boost-rural-connectivity/) | ***Baseline not held*** |
