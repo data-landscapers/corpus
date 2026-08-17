@@ -15,7 +15,7 @@ record: 3d4228f80081
 ## Summary of the month
 
 <!-- narrative: summary -->
-Within nine days the country's identity spine, its sovereign hosting and its mobile network all changed state: the identity system and the state's first data centre entered service on 1 July, and 80% of the state mobile operator passed to a private buyer on 9 July. The second cluster is revenue administration — between 20 July and 4 August the Accountant General signed in a new collection platform, customs agreed a data-exchange roadmap with Senegal, and the finance ministry gave its fullest account yet of what digitalised collection has recovered.
+Within nine days the country's identity spine, its sovereign hosting and its mobile network all changed state: the identity system and the state's first data centre entered service on 1 July, and [80% of the state mobile operator passed to a private buyer on 9 July](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement). The second cluster is revenue administration — between 20 July and 4 August the Accountant General signed in a new collection platform, customs agreed a data-exchange roadmap with Senegal, and the finance ministry gave its fullest account yet of what digitalised collection has recovered.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -46,7 +46,7 @@ Government collection acquired a fourth channel. The Office of the Accountant Ge
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The revenue authority said on [30 July 2026 that South African and Rwandan customs officials will study its digital excise tax stamp](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), after officials from Nigeria, Senegal and Sierra Leone; the commissioner general attached to it a claimed 95% reduction in smuggling of excisable goods, a figure with no method, made by the authority whose system is being studied. The finance ministry also [named a planned Integrated Tax Administration System](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), with no procurement, vendor or timetable.
+The revenue authority said on [30 July 2026 that South African and Rwandan customs officials will study its digital excise tax stamp](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), after officials from Nigeria, Senegal and Sierra Leone; the commissioner general attached to it [a claimed 95% reduction in smuggling of excisable goods](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), a figure with no method, made by the authority whose system is being studied. The finance ministry also [named a planned Integrated Tax Administration System](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), with no procurement, vendor or timetable.
 
 The trade ministry said on [4 August 2026 that a Digital Single Window Business Registration System is being finalised](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows), with no launch date.
 <!-- /narrative -->

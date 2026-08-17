@@ -316,7 +316,7 @@ The Data Protection Act itself was not amended. What accumulated on top of it is
 | Kenya-India-Italy sovereign AI partnership | Did not exist | [Targets 100 AI-deployment programmes by 2030 on multilingual low-bandwidth voice AI](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/) | Advanced |
 
 <!-- narrative: ai-tech -->
-At the window's opening this section had infrastructure and no state instrument: a US$1bn data-centre announcement already known to be slipping, one sovereign-cloud product, a cloud region that was a two-year-old announcement, and no Kenyan artificial-intelligence policy, bill, guidance or costing of any kind.
+At the window's opening this section had infrastructure and no state instrument: a [US$1bn data-centre announcement already known to be slipping](https://www.businessdailyafrica.com/bd/corporate/technology/kenya-microsoft-rift-on-sh129bn-data-hub-5457238), one sovereign-cloud product, a cloud region that was a two-year-old announcement, and no Kenyan artificial-intelligence policy, bill, guidance or costing of any kind.
 
 The regulatory layer filled in across the year, as set out above. The domestic sovereign-cloud layer also moved from a single vendor announcement to a working stack on one campus — a second platform launched in March 2026, a third in May, and a research lab announced the same month — while the cloud region selected its host but did not launch.
 
