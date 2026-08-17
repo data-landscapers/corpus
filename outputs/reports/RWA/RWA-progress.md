@@ -78,7 +78,7 @@ One instrument moved decisively. At the window's opening there was no published 
 
 Storage moved from a lower base. The arrival of a hyperscaler hybrid-cloud deployment in April 2026 is the first onshore compute the wiki can name for this country; a Tier III data-centre memorandum with a Gulf operator signed in May 2026 is still a memorandum.
 
-Everything else accreted detail on a position already held. The 812-school gap is the same late-2024 count restated in March 2026. The government network and the national incident response team are the same two lines from a single July 2025 article. The cyber authority's two appropriations are flat for a second year. And the largest connectivity instrument has published no progress figure since 55% complete in July 2025, against a December 2026 closing date. Read against the coverage cliff, this is a section where one instrument moved decisively and the rest were reported on more often.
+Everything else accreted detail on a position already held. The 812-school gap is the same late-2024 count restated in March 2026. The government network and the national incident response team are the same two lines from a single July 2025 article. The cyber authority's two appropriations are flat for a second year. And the largest connectivity instrument has published no progress figure since [55% complete in July 2025](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026), against a December 2026 closing date. Read against the coverage cliff, this is a section where one instrument moved decisively and the rest were reported on more often.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -166,7 +166,7 @@ Everything else accreted detail on a position already held. The 812-school gap i
 <!-- narrative: dpi -->
 Two objects that are now load-bearing did not exist in operating form at the window's opening. Nationwide identity enrolment opened six days after the start date and has reached 4.4 million against a roughly 14 million target, with legacy documents void from June 2027. And the payment rail, though presented in February 2025, had no consumer launch until December 2025 and no interoperability mandate until July 2026.
 
-What did exist a year ago was the scaffolding: a services portal running since 2015, a digital civil registration chain, an approved data-sharing policy and an acceleration project at 55% complete. A year on, every domestic interoperable retail payment runs on one state-owned open-source rail at a flat RWF 20, a national infrastructure strategy exists, and the stack is being sold abroad with nameable buyers.
+What did exist a year ago was the scaffolding: a services portal running since 2015, a digital civil registration chain, an approved data-sharing policy and an [acceleration project at 55% complete](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026). A year on, every domestic interoperable retail payment runs on one state-owned open-source rail at a flat RWF 20, a national infrastructure strategy exists, and the stack is being sold abroad with nameable buyers.
 
 Two things did not move, and both matter. The national data-sharing platform still has no go-live announcement with its 2026 target year eight months gone — the interoperability gap the country's own analysts name most often. And the acceleration project has published no completion figure since July 2025.
 
@@ -225,7 +225,7 @@ The fisc moved the other way. The domestically financed development programme fe
 | Internet governance forum | ***Baseline not held*** | [An annual multistakeholder forum run under the domain registry, with nearly 200 people through a school on internet governance and a youth forum](https://rwandainspirer.com/digital-trust-and-ai-oversight-dominate-discussions-at-rwanda-internet-governance-forum/) | ***Baseline not held*** |
 
 <!-- narrative: governance -->
-The statutory position did not move and the enforcement position stayed empty. The data-protection law entered its enforcement phase in October 2023 and in the whole window produced no published enforcement action, fine total, breach register or count of registered controllers. Its appropriation fell from RWF 150m to RWF 130m and has now been held flat, having been spent at 35.1% in 2024/25; the national identification programme executed at 140.7% over the same year. Identity money moves and data-protection money does not.
+The statutory position did not move and the enforcement position stayed empty. The data-protection law entered its enforcement phase in October 2023 and in the whole window produced no published enforcement action, fine total, breach register or count of registered controllers. Its appropriation fell from RWF 150m to RWF 130m and has now been held flat, having been [spent at 35.1% in 2024/25](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf); the national identification programme executed at 140.7% over the same year. Identity money moves and data-protection money does not.
 
 What changed is institutional rather than legislative: a national infrastructure strategy launched in March 2026 and now exported, an artificial-intelligence agency approved in June, a data governance unit staffed and building classification standards, a licence-passporting memorandum with a neighbour in March, a virtual-assets bill taking its first parliamentary step in April, and a hard network-retirement date fixed in July where in March there had been no timeline at all.
 
@@ -275,11 +275,11 @@ Three absences held constant across the whole period and are this section's real
 <!-- narrative: ai-tech -->
 At the window's opening this section was a policy and a summit: a 2023 artificial-intelligence policy, a continental declaration adopted in Kigali four months earlier, a coding academy, an innovation fund and an innovation city that had broken ground — no dedicated institution, no foreign frontier vendor in government, and no in-country cloud.
 
-Twelve months on the base can name a Cabinet-approved agency, a three-year vendor memorandum spanning health, public-sector developers and education, a US$50m primary-care health pilot beginning here, the first regional hybrid-cloud deployment, and an institute of computing approved to open in September 2026. The direction of travel is institutional formalisation of a commercial dependency that arrived first: the vendor stack went into production in February, the agency was approved in June, the school in July.
+Twelve months on the base can name a Cabinet-approved agency, a three-year vendor memorandum spanning health, public-sector developers and education, a [US$50m primary-care health pilot beginning here](https://techafricanews.com/2026/01/22/gates-foundation-and-openai-commit-50m-to-ai-powered-health-systems-in-africa/), the first regional hybrid-cloud deployment, and an institute of computing approved to open in September 2026. The direction of travel is institutional formalisation of a commercial dependency that arrived first: the vendor stack went into production in February, the agency was approved in June, the school in July.
 
-Almost none of it is yet measurable. The agency has no published structure, budget or law, and the health pilot has published no clinic count since January. The one genuinely both-ends-dated movement is employment, from about 12,000 to 19,000 sector workers, and the one downward move is the fisc.
+Almost none of it is yet measurable. The agency has no published structure, budget or law, and the health pilot has published no clinic count since January. The one genuinely both-ends-dated movement is employment, [from about 12,000 to 19,000 sector workers](https://www.ktpress.rw/2026/07/why-tech-is-rwandas-fastest-growing-source-of-new-jobs/), and the one downward move is the fisc.
 
-The continental instruments the country hosts have not converted into delivery: a declaration adopted in April 2025 endorsed a council and a US$60bn fund, and sixteen months on neither has a constitution, capitalisation, manager or first disbursement.
+The continental instruments the country hosts have not converted into delivery: a declaration adopted in April 2025 endorsed a council and [a US$60bn fund, and sixteen months on neither has a constitution, capitalisation, manager or first disbursement](https://www.africanlawbusiness.com/news/optimism-but-uncertainty-over-africas-ai-declaration/).
 <!-- /narrative -->
 
 ## Inclusion and capacity
@@ -322,9 +322,9 @@ The continental instruments the country hosts have not converted into delivery: 
 <!-- narrative: inclusion -->
 At the window's opening the inclusion layer was infrastructure without a rail. Twelve months on, the rail is mandatory at a flat fee, 4.4 million people are biometrically enrolled including refugees and stateless persons, the third-generation network has a hard retirement date, and an institute of computing opens in September — but every one of those is a switch-on rather than a measured outcome.
 
-A digital-ambassador programme also closed out this window, concluding its financing phase in May 2026 having trained 1,567,034 citizens, with no successor financing held.
+A digital-ambassador programme also closed out this window, concluding its financing phase in May 2026 [having trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/), with no successor financing held.
 
-The clearest single regression is the second mobile-money operator — market share and agent count both down over exactly the period interoperability was supposed to help. The urban and rural internet-use gap, 57% against 19%, is unchanged because the survey has not been repeated.
+The clearest single regression is the second mobile-money operator — market share and agent count both down over exactly the period interoperability was supposed to help. The [urban and rural internet-use gap, 57% against 19%](https://techcabal.com/2025/06/12/rwanda-internet-penetration-rate/), is unchanged because the survey has not been repeated.
 <!-- /narrative -->
 
 ## Finance
@@ -344,9 +344,9 @@ The clearest single regression is the second mobile-money operator — market sh
 | Education technology integration appropriation | RWF 23,522,003,941 appropriated for 2025/26 | [RWF 28,956,710,022 for 2026/27, up 23.1%, with the last outturn at 81.7% of voted](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | Advanced |
 
 <!-- narrative: finance -->
-Domestic capacity financing was uneven across budget lines this window: the cyber-security standards and skills line sat flat for a second consecutive year after spending only 11.5% of its 2024/25 vote, the research line fell 7.3%, and one education-technology line fell 74% since 2024/25 while another grew 23%.
+Domestic capacity financing was uneven across budget lines this window: the cyber-security standards and skills line sat flat for a second consecutive year after spending only 11.5% of its 2024/25 vote, the research line fell 7.3%, and [one education-technology line fell 74% since 2024/25](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) while another grew 23%.
 
-Externally, the picture is instruments ageing out without outturn: the digital acceleration project and a regional bank operation both close in 2026 with no disbursement figure held since 55% in July 2025, and the successor nine-year framework carries no published envelope.
+Externally, the picture is instruments ageing out without outturn: the digital acceleration project and a regional bank operation both close in 2026 with no disbursement figure held [since 55% in July 2025](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026), and the successor nine-year framework carries no published envelope.
 <!-- /narrative -->
 
 ## Where the record is thin
