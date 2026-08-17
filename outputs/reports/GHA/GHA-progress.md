@@ -87,7 +87,7 @@ Data centres moved once, and in the opposite direction to the announcements. A c
 
 Cyber-security is where the base thickened most and matured least. At the start it held one commercial security operations centre; it now holds a central-bank directive, a named sectoral operations centre, an eighteen-institution coordinating committee and a journalist-training project — and still no national computer emergency response team, no Cybersecurity Act text and no incident statistics.
 
-The rest is accretion on a network-quality problem the base already recognised: over 8,000 fibre cuts a year, and half-year capital expenditure down 36.3% at the operator carrying most of the build.
+The rest is accretion on a network-quality problem the base already recognised: [over 8,000 fibre cuts a year](https://www.graphic.com.gh/business/business-news/ghanas-digital-backbone-comes-under-strain.html), and [half-year capital expenditure down 36.3%](https://mtn.com.gh/wp-content/uploads/2026/08/Scancom-PLC-MTN-Ghana-H1-2026-Results.pdf) at the operator carrying most of the build.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -172,7 +172,7 @@ Identity changed band decisively. A credential became a compulsory verification 
 
 Revenue and procurement systems moved from ambition to operating instruments — a customs valuation system fully deployed from March 2026 with a quantified revenue claim, mandatory electronic procurement integrated with the national payment system, and three revenue platforms approved by Parliament in July. Digital credit acquired a licensing regime, a lapsed deadline and an enforcement notice naming twenty applications, none of which existed a year ago.
 
-The payments core itself only accreted detail. The rail was already there and got bigger, better instrumented and better measured: registered wallets from 76.4 million to 84.6 million, float to a record GH¢40bn. The significant new fact is not the growth but the 1.3% interoperable share, which reframes a position the base already held rather than moving it.
+The payments core itself only accreted detail. The rail was already there and got bigger, better instrumented and better measured: registered wallets from 76.4 million to 84.6 million, float to a record GH¢40bn. The significant new fact is not the growth but the [1.3% interoperable share](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/), which reframes a position the base already held rather than moving it.
 
 Three things went nowhere. The biometric SIM re-registration announced for the first quarter of 2026 has not begun; the services portal redesign promised for the fourth quarter of 2025 has not launched; and a licence-passporting memorandum signed in February 2025 is where it was — signed, unpublished, unreadable.
 <!-- /narrative -->
@@ -283,7 +283,7 @@ What merely accreted detail is the data-protection position itself. A year of aw
 <!-- narrative: ai-tech -->
 At the window's opening Ghana had no adopted artificial-intelligence policy: a draft in consultation, a coders programme four months old, a privately built security centre, and a research centre with a cumulative investment figure disclosed the week before. Nothing was funded and no institution existed.
 
-Three things changed band. The strategy moved from draft to Cabinet-approved in February 2026, to launched with a US$270m headline in April, to a ten-year implementation plan under construction by July — an object that did not exist a year ago. Artificial intelligence moved from policy to production in one place only, at customs. And the country acquired physical adjacent capacity it did not have, in a commissioned commercial data centre and an approved but unbuilt compute centre.
+Three things changed band. The strategy moved from draft to Cabinet-approved in February 2026, to [launched with a US$270m headline in April](https://www.graphic.com.gh/news/general-news/ghana-news-president-unveils-270m-national-ai-strategy-250m-computing-centre-20m-implementation-fund-earmarked-to-create-africas-ai-hub.html), to a ten-year implementation plan under construction by July — an object that did not exist a year ago. Artificial intelligence moved from policy to production in one place only, at customs. And the country acquired physical adjacent capacity it did not have, in a commissioned commercial data centre and an approved but unbuilt compute centre.
 
 Everything else accreted detail on a position already held. The oversight body has been planned continuously since April 2025, sixteen months without an establishing instrument, and the private security centre has had no update since its launch. The financing picture is the sharpest divergence: announced money with no disbursement on file, while the sector's largest actual spender cut half-year capital expenditure in the same period it raised a three-year pledge.
 <!-- /narrative -->
@@ -331,7 +331,7 @@ Everything else accreted detail on a position already held. The oversight body h
 | Innovation centre at a public university | ***Baseline not held*** | [An advanced technology innovation centre with a foreign development agency, recorded as active](https://old1.ug.edu.gh/news/ug-and-koica-sign-agreement-ict-based-start-ups-and-asian-studies-gk-impact-worth-9-million) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
-The direction here is that capacity grew and its outputs stayed unmeasured. The coders programme was embedded in a university curriculum, an agency signed for 2,000 microdegree places, and a community-media cyber corps launched — and fifteen months after launch the coders programme has published no cumulative number of people trained.
+The direction here is that capacity grew and its outputs stayed unmeasured. The coders programme was embedded in a university curriculum, an [agency signed for 2,000 microdegree places](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/), and a community-media cyber corps launched — and fifteen months after launch the coders programme has published no cumulative number of people trained.
 
 One thing did not move at all: no dedicated community-network regime exists, and the regulator now says an existing authorisation could found one.
 
