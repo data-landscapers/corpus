@@ -348,9 +348,9 @@ The outsourcing sector converted commitments into buildings: a memorandum signed
 <!-- narrative: inclusion -->
 Financial inclusion moved and credit access did not. Inclusion rose from 76.3% of adults at June 2025 to 77.6% at end-2025 ([central bank](https://english.ahram.org.eg/NewsContent/3/562552/Business/Egypt-financial-inclusion-rate.aspx)). Against that, about 16.7 million adults still had no formal access to credit or other banking services at June 2025, and no fresher measure exists ([lender account](https://techcabal.com/2026/06/08/egypts-blnk-raises-37-million-to-expand-lending/)).
 
-The acceptance and identity infrastructure widened: debit cards rose from 26.4 million to 29.1 million and point-of-sale terminals from 228,000 to about 275,000, a national digital financial identity app launched in November 2025 enabling remote account opening at 37 banks, and contactless acceptance on ordinary smartphones moved from a capped pilot to a launched service. The national card scheme is the exception, its most recent count remaining 43.5 million from end-2024.
+The acceptance and identity infrastructure widened: debit cards rose from 26.4 million to 29.1 million and point-of-sale terminals from 228,000 [to about 275,000](https://www.elwatannews.com/news/details/8325979), a national digital financial identity app launched in November 2025 enabling remote account opening at 37 banks, and contactless acceptance on ordinary smartphones moved from a capped pilot to a launched service. The national card scheme is the exception, its most recent count remaining 43.5 million from end-2024.
 
-A unified government services card entered a Port Said pilot reaching 41,500 ration-card households.
+A unified government services card entered a [Port Said pilot reaching 41,500 ration-card households](https://techafricanews.com/2026/08/11/egypt-advances-government-services-card-to-drive-digital-public-services/).
 
 Training rose where it is counted by programme and stalled where it is counted nationally: the university artificial-intelligence initiative added 1,090 students in its fourth round ([round account](https://gate.ahram.org.eg/News/5882834.aspx)), while the most recent national ICT training total remains 400,000 trainees for 2023/24.
 <!-- /narrative -->
