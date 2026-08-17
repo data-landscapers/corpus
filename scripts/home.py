@@ -232,6 +232,44 @@ def region_boxes(by_place: dict[str, int]) -> str:
         for c in codes)
 
 
+def bulletin_section() -> str:
+    """The daily bulletin, at the top of the page because it is the one thing here that is about
+    today *(2026-08-17)*.
+
+    Built from the two documents' own frontmatter rather than from a count of its own: the bulletin
+    states the window it covers and how many sources it found, and a second implementation of that
+    would be a second answer. The section is omitted entirely where the documents do not exist —
+    unlike the country and topic boxes, which link ahead of the pages they open (design.md §8),
+    there is nothing here to be accurate *about* until a build has written one."""
+    meta = {}
+    for kind in ("country", "topic"):
+        path = OUTPUTS / "bulletins" / f"{kind}-bulletin.md"
+        if not path.exists():
+            return ""
+        head = {}
+        for line in path.read_text(encoding="utf-8").split("---", 2)[1].splitlines():
+            k, _, v = line.partition(":")
+            head[k.strip()] = v.strip()
+        meta[kind] = head
+
+    window = f"{meta['country'].get('window_start', '')} to {meta['country'].get('window_end', '')}"
+    intro =(f"Sources published in the last two days &mdash; {e(window)}. "
+             f"Each item is summarised once and cross-referenced from every other country, "
+             f"region or topic it touches. The bulletin is rewritten at every build and keeps "
+             f"nothing: what it reports is kept by the country, region and topic reports.")
+    boxes = "\n".join(
+        f'<a class="box" href="{SITE_BASE}/bulletins/{kind}-bulletin.html" style="--fill:0.6">'
+        f'<span class="box__k">By {kind}</span>'
+        f'<span class="box__n">{e(meta[kind].get("items", "0"))}</span></a>'
+        for kind in ("country", "topic"))
+    return (f'\n    <h2 class="section-heading" id="bulletin">Daily bulletin</h2>\n'
+            f'    <p class="section-intro">{intro}</p>\n'
+            f'    <div class="boxes boxes--regions">\n{boxes}\n    </div>\n'
+            f'    <p class="caveat">The count is the sources in the window, and both bulletins '
+            f'cover the same ones. The corpus acquires in batches, so a quiet bulletin means '
+            f'nothing was published on those two days rather than that nothing arrived.</p>\n')
+
+
 def topic_boxes(by_topic: dict[str, int]) -> str:
     """Each Level-1 tile is a toggle that opens a full-width row of its Level-2
     sub-topics beneath it (Bill, 2026-08-13, item 7). The sub-topic boxes link
@@ -335,6 +373,7 @@ TEMPLATE = """<!DOCTYPE html>
 
   <nav class="corpus-nav" aria-label="Corpus navigation">
     <div class="corpus-nav__inner">
+      <a href="{base}/#bulletin">Bulletin</a>
       <a href="{base}/#countries">Countries</a>
       <a href="{base}/#regions">Regions</a>
       <a href="{base}/#topics">Topics</a>
@@ -360,6 +399,7 @@ TEMPLATE = """<!DOCTYPE html>
       <p>A living record of digital transformation and data governance across Africa. Compiled from primary sources. Updated daily.</p>
     </div>
 
+{bulletin}
     <h2 class="section-heading" id="countries">Countries</h2>
     <p class="section-intro">{countries_intro}</p>
     <div class="boxes">
@@ -460,6 +500,7 @@ def build() -> Path:
         docs=f"{s['documents']:,}", year=built[:4],
         docs_year=f"{s['by_year'].get(this_year, 0):,}",
         docs_month=f"{s['by_month'].get(this_month, 0):,}",
+        bulletin=bulletin_section(),
         countries=country_boxes(by_place), countries_intro=e(COUNTRIES_INTRO),
         regions=region_boxes(by_place), regions_intro=e(REGIONS_INTRO),
         topics=topic_boxes(s["by_topic"]), topics_intro=e(TOPICS_INTRO),
