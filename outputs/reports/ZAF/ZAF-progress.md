@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-17
 place: ZAF
 ledger_rows: 115
 not_held: 20
-record: 18cb04713aff
+record: c76cdd24075d
 ---
 
 # South Africa: progress report, 2025-08-01 to 2026-08-17
@@ -298,7 +298,7 @@ At the State Information Technology Agency, a Public Service Commission investig
 | Science and Technology Accelerator-Systems, Southern Africa | Baseline not held | [Up to GBP2.5m over three years to March 2030, of which up to GBP400,000 for 2026/27, covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space; South Africa the primary focus, Zimbabwe and Zambia the first year's](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
-
+This section holds one row and it opened at the very end of the period, so there is no movement to report over the twelve months — only an arrival. On 11 August the United Kingdom [opened expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m to March 2030](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), with South Africa its primary focus. No delivery consortium has been chosen, so the programme has a ceiling and a subject matter and nothing else yet. The rest of South Africa's digital financing sits outside this ledger, in the domestic budget lines and private data-centre capital recorded elsewhere in this report.
 <!-- /narrative -->
 
 ## Where the record is thin
