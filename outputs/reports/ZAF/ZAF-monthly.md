@@ -3,9 +3,9 @@ title: South Africa — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: ZAF
-ledger_rows: 64
+ledger_rows: 66
 not_held: 20
-record: 881b981978da
+record: 2a47e08a3c5f
 ---
 
 # South Africa: monthly update, July 2026
@@ -145,4 +145,14 @@ The South African Social Security Agency [set 350,000 grant reviews for 2026/27]
 
 <!-- narrative: inclusion--capacity-training -->
 The information technology sector education and training authority was [referred for a governance assessment](https://www.itweb.co.za/article/mict-seta-governance-concerns-referred-to-skills-authority/WnxpE74YZZdMV8XL).
+
+The pipeline that authority sits in was reviewed on 14 August. A development bank's report with the higher education department, philanthropically funded, finds [the route from school through universities and technical colleges into employment constrained at both ends — young people arriving without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills). Its finding is that the mismatch is structural and will not correct itself. That is a verdict on the strategy already under review on this ledger rather than a new instrument.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+One programme opened in the window, and it is not yet a commitment to anybody. On 11 August the United Kingdom [published an expression-of-interest call for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space. South Africa is the primary focus and Zimbabwe and Zambia the first year's. The fund is resourced and the delivery consortium is not chosen, so what the money buys is a matter for a contract expected later in the year.
 <!-- /narrative -->

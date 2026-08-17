@@ -3,18 +3,18 @@ title: South Africa — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: ZAF
-ledger_rows: 113
+ledger_rows: 115
 not_held: 20
-record: f89313d26e58
+record: 18cb04713aff
 ---
 
 # South Africa: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 113 systems and instruments on this place's ledger, 57 changed position between 2025-08-01 and 2026-08-17, 8 did not, 27 carry no stated baseline, and 20 are ***Not held*** at both ends.*
+*Of 115 systems and instruments on this place's ledger, 57 changed position between 2025-08-01 and 2026-08-17, 8 did not, 29 carry no stated baseline, and 20 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 505 sources for this place in the window — 58 in the earlier half (2025-08 to 2026-01), 447 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 508 sources for this place in the window — 58 in the earlier half (2025-08 to 2026-01), 450 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -280,12 +280,25 @@ Funding reversed within the period. South Africa raised [$335.9m across 42 ventu
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National Digital and Future Skills Strategy 2020 | 2020 strategy in force | [Under review; no replacement](https://pmg.org.za/committee-question/39587/) | Stalled |
+| Digital-skills pipeline from school to employment | Baseline not held | [Constrained at both ends: young people entering without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment; the mismatch is found to be structural and not self-correcting (2026-08)](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills) | ***Baseline not held*** |
 | National Competency Framework | ***Baseline not held*** | In development (2026-07-23) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
 Grant verification widened during the period. Biometric enrolment began on 1 September 2025 and had reached [997,379 of 19.05m recipients by March 2026](https://pmg.org.za/committee-question/37674/), about 5%; 420,000 grants were flagged during 2025/26 and roughly 160,000 beneficiaries did not complete the review, with [child-grant recipients reporting months without payment](https://www.sundaytimes.timeslive.co.za/news/2026-07-31-child-grant-reviews-leave-mothers-stranded-as-payments-dry-up-for-months/). The litigation that would settle the mechanism was neither implemented nor decided within the twelve months.
 
 At the State Information Technology Agency, a Public Service Commission investigation reported [R2.07bn of irregular expenditure across four audited years](https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/) and annual performance plan achievement of 42.86% in FY2024/25; the 30-day deadline for a recovery plan expired within the period, and no plan is recorded.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+|---|---|---|---|
+| Science and Technology Accelerator-Systems, Southern Africa | Baseline not held | [Up to GBP2.5m over three years to March 2030, of which up to GBP400,000 for 2026/27, covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space; South Africa the primary focus, Zimbabwe and Zambia the first year's](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
+
+<!-- narrative: finance -->
+
 <!-- /narrative -->
 
 ## Where the record is thin

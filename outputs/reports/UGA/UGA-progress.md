@@ -3,18 +3,18 @@ title: Uganda — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: UGA
-ledger_rows: 137
+ledger_rows: 139
 not_held: 16
-record: 1220636b3d1c
+record: 7c0416bfe7ee
 ---
 
 # Uganda: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 137 systems and instruments on this place's ledger, 73 changed position between 2025-08-01 and 2026-08-17, 25 did not, 23 carry no stated baseline, and 16 are ***Not held*** at both ends.*
+*Of 139 systems and instruments on this place's ledger, 74 changed position between 2025-08-01 and 2026-08-17, 25 did not, 24 carry no stated baseline, and 16 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 216 sources for this place in the window — 48 in the earlier half (2025-08 to 2026-01), 168 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 219 sources for this place in the window — 48 in the earlier half (2025-08 to 2026-01), 171 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -150,6 +150,7 @@ On cybersecurity the record shows an instrument replaced and an instrument struc
 |---|---|---|---|
 | Electronic Government Procurement system | 36 entities onboarded (date not published) | [136 entities onboarded and Version 2.0 in service, verifying suppliers automatically against URA, URSB, NIRA and NSSF records; onboarded entities no longer advertise tenders in newspapers and may transact only with registered providers](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026) | Advanced |
 | Government Procurement Portal | Publishing machine-readable procurement data, with no project-level or safeguard data | [Upgrade announced with the transparency initiative and the finance ministry; no go-live, completion or published dataset recorded as at 2026-08-06](https://www.newvision.co.ug/category/business/why-govt-is-moving-to-upgrade-procurement-por-NV_222664_022026) | Advanced |
+| East African digital public infrastructure project pipeline | Baseline not held | [German-funded consultancy tendered to identify and prepare bankable digital public infrastructure projects across Uganda, Kenya and Tanzania, covering digital identity, data exchange, payments and e-government; value, duration and selected consultant not stated](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) | ***Baseline not held*** |
 | Human Rights Commission case-management system | Baseline not held | [Launched by the national IT authority alongside the teacher-training platform, digitising the Human Rights Commission’s case handling; no caseload, retention rule or data-protection assessment is published for a system holding complaint records](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/) | ***Baseline not held*** |
 | U-Learn teacher-training platform | Baseline not held | [Launched by the national IT authority as one of two new e-services under the government network programme, with more than 6,600 teachers enrolled at launch; no curriculum, completion rate or running cost is published](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/) | ***Baseline not held*** |
 
@@ -316,6 +317,7 @@ The largest change in the country's external technology relationships was not co
 
 | System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
+| American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Digital for Girls and Women Uganda | Active; EUR 2.25m, 2021-2025 | [The record still reads active; the stated period has elapsed with no closure, extension or results record held](https://open.enabel.be/en/UGA/2662/p/digital-for-girls-and-women-uga.html) | No change |
 | Uganda Communications Universal Service and Access Fund | Operating; Q3 2025 outputs were 3,000 riders skilled, 4,900 tablets, laboratories in 70 secondary schools and 60 public access centres | [Operating; cumulative reach stated as laboratories in more than 1,000 public secondary schools](https://www.ucc.co.ug/atc-uganda-contributes-ugx-20-9bn-to-support-universal-access/) | No change |
 

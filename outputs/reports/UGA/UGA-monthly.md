@@ -3,9 +3,9 @@ title: Uganda — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: UGA
-ledger_rows: 51
+ledger_rows: 53
 not_held: 16
-record: 83e4db592761
+record: a5e9015fb137
 ---
 
 # Uganda: monthly update, July 2026
@@ -69,6 +69,8 @@ Three payment arrangements were opened in the month, all private. A [licensed lo
 Electronic government procurement reached [136 entities onboarded with version 2.0 in service, verifying suppliers automatically against the revenue, registration, identity and social-security registers](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026), and training opened for a further 100 entities on 3 August. An onboarded entity no longer advertises tenders in newspapers and may transact only with registered providers. Onboarding is stated to continue each financial year until all of government is on the system.
 
 Two further e-services launched on 12 August under the same government network programme: [a teacher-training platform with more than 6,600 teachers enrolled, and a case-management system for the Human Rights Commission](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/). Neither carries a published retention rule or data-protection assessment, which is the sharper omission for a system holding complaint records.
+
+Upstream of any of it, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Uganda, Kenya and Tanzania](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. It is a procurement notice: it fixes the consultancy and nothing about any project it may produce, and neither its value nor its duration is stated.
 <!-- /narrative -->
 ### National statistics
 
@@ -111,6 +113,8 @@ On 14 August the ICT ministry launched a [three-year child online-safety campaig
 The same day, revised media guidelines issued through the [electronic court case-management system](https://mulengeranews.com/uls-slams-court-restrictions-after-besigye-collapsed-during-treason-trial/) required prior accreditation, barred devices from a courtroom and made live broadcasting a case-by-case grant.
 
 Reporting of 29 July recorded that no work had begun on the [revenue authority's e-Tax2 procurement](https://ultimatepost.dantty.com/post/10745), whose technical evaluation the Appeals Tribunal set aside in October 2025 on a power-of-attorney defect; joint-venture staff have been on the authority's premises since January and none of 26 commercial banks would issue the performance guarantee gating the advance.
+
+The month's set-piece was a convening rather than a decision: [Internet Governance Week 2026 called for greater investment in digital skills, online safety and responsible artificial intelligence, and for Africa to move from consuming the technology to shaping it](https://www.monitor.co.ug/uganda/news/national/uganda-pushes-for-inclusive-safe-and-ai-ready-internet-5559810). Nothing was adopted, and no instrument on this ledger moved as a result.
 <!-- /narrative -->
 ### EU activities
 
@@ -142,6 +146,8 @@ The United States health-data memorandum is now held, and it is not the instrume
 
 <!-- narrative: inclusion--include-divides -->
 A tower company [remitted UGX 20.9 billion to the universal service fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), its statutory 2% of gross annual revenue, at a handover reported on 31 July. [The regulator's executive director stated at the same event that half of that 2% goes to the Consolidated Fund and only half is retained to finance the fund, and put cumulative programme reach at laboratories in more than 1,000 public secondary schools](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/). The period the payment covers was not published.
+
+Money went the other way as well. An implementing partner's account of 12 August reports that [work on connectivity and digital inclusion in Uganda slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. What is described as lost is the convening as much as the money. No replacement funder is named and no Ugandan figure is given.
 <!-- /narrative -->
 ### Access to services
 
