@@ -78,7 +78,7 @@ One statistical build opened: the [quarterly labour-market and informal-sector s
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The invoicing regime was completed in the gazette. The [decree signed 31 March was gazetted on 9 July and is compulsory from 1 July](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf), and [four implementing orders signed 9 July and gazetted 16 July](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf) fix a four-stage homologation with a 30-day decision deadline, mandatory cryptographic certification, a penetration test under twelve months old, a sworn no-backdoor attestation, ten-year invoice retention and real-time tax-directorate data access. Fees are FCFA 5,000,000 per terminal model and per software version, split 75% state, 15% security agency and 10% standards body; foreign suppliers must be locally represented.
+The invoicing regime was completed in the gazette. The [decree signed 31 March was gazetted on 9 July and is compulsory from 1 July](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf), and [four implementing orders signed 9 July and gazetted 16 July](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf) fix a four-stage homologation with a 30-day decision deadline, mandatory cryptographic certification, a penetration test under twelve months old, a sworn no-backdoor attestation, ten-year invoice retention and real-time tax-directorate data access. [Fees are FCFA 5,000,000 per terminal model and per software version, split 75% state, 15% security agency and 10% standards body](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf); foreign suppliers must be locally represented.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
