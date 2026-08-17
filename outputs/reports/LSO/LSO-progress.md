@@ -290,7 +290,7 @@ No domestic budget appropriation for digital transformation is held at either en
 | National open data portal | A government open-data portal or published open-data policy for Lesotho, or an official statement that none exists. | 2026-08-10 |
 
 <!-- narrative: gaps -->
-Two of these absences have been searched for and stayed empty across the period rather than newly appearing. The National Cybersecurity Strategy was invoked again at the July 2026 launch and remains without a published location, and the digital service-ID pilot reported to have begun with 10,000 participants has produced no enrolment or coverage figure.
+Two of these absences have been searched for and stayed empty across the period rather than newly appearing. The National Cybersecurity Strategy was invoked again at the July 2026 launch and remains without a published location, and the digital service-ID pilot [reported to have begun with 10,000 participants](https://www.gov.ls/ict/lesotho-first-introduced-new-digital-service-identification-system/) has produced no enrolment or coverage figure.
 
 The others are absences the period did not create and did not close: where government systems are hosted, whether any municipal digital service exists, whether interoperability or quality-of-service standards have been published, whether an open-data portal exists, and what the state appropriates for digital transformation.
 <!-- /narrative -->

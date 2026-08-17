@@ -45,7 +45,7 @@ The Cybercrime Act 2025 [had still not received presidential signature as of 1 J
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The central bank's fee schedule for interoperable transfers was reported on 5 August: [1.0% of value from US$1.00 to US$2,000.00 and a flat US$25.00 above that, available 24 hours a day](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html). The flat cap falls below 1.0% of value above about US$2,500 and keeps falling.
+The central bank's fee schedule for interoperable transfers was reported on 5 August: [1.0% of value from US$1.00 to US$2,000.00 and a flat US$25.00 above that, available 24 hours a day](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html). [The flat cap falls below 1.0% of value above about US$2,500](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) and keeps falling.
 
 On 28 July the finance minister named the [national electronic payment switch as the enabler of a 24-hour economy, with creative-sector support to enter the 2027 budget](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html). No go-live date was given.
 <!-- /narrative -->
