@@ -1,12 +1,12 @@
 ---
 title: Egypt — digital transformation and data governance status report
-compiled: 2026-08-15
+compiled: 2026-08-17
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 154
+sources_cited: 156
 sections_written: 37
 not_established: 0
 acquire_lines: 63
@@ -76,7 +76,7 @@ Reach is thinner than the counts imply. The [real estate registry's electronic i
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-Egypt's telecoms regulator said on 8 August 2026 that [a mobile line registered in a person's name does not by itself establish that person's criminal responsibility for its use](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242), after citizens using its own lookup found lines registered against their national ID that they had never taken out — one of them a 19-year-old sentenced in absentia to 25 years.
+Egypt's telecoms regulator said on 8 August 2026 that [a mobile line registered in a person's name does not by itself establish that person's criminal responsibility for its use](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242), after citizens using its own lookup found lines registered against their national ID that they had never taken out — one of them a 19-year-old sentenced in absentia to 25 years. The regulator's answer arrived within a week: it [tightened the registration rules, referred all four mobile operators to the prosecution and set a unified national digital-identity project alongside](https://gate.ahram.org.eg/News/5887018.aspx), and is [expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry](https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case). Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case turned on.
 
 The answer was [relaunching the "Arqamy" lookup inside the My NTRA app on 8 August 2026 with mid-digit masking of the numbers shown, pending face-recognition login](https://business.ahram.org.eg/News/121565.aspx), and to offer [a complaint route and a move to biometric subscriber verification](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242). Both add identity assurance; neither reduces what rests on the register.
 

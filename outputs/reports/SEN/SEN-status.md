@@ -1,12 +1,12 @@
 ---
 title: Senegal — digital transformation and data governance status report
-compiled: 2026-08-15
+compiled: 2026-08-17
 place: SEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 13
-sources_cited: 183
+sources_cited: 184
 sections_written: 37
 not_established: 3
 acquire_lines: 50
@@ -68,7 +68,7 @@ Three central Senegalese state systems have been breached inside a year: [the DG
 
 The DAF intrusion was ransomware, and it [closed the office and halted production of national identity cards](https://www.biometricupdate.com/202602/senegal-data-breach-disrupts-national-id-issuance); [production resumed on 1 April 2026](https://aps.sn/la-daf-annonce-la-reprise-de-la-confection-des-cartes-nationales-didentite-depuis-le-1er-avril/), eight weeks on. [A security researcher examined the samples the attackers published and confirmed genuine Senegalese birth records and national identity cards among them](https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database) (February 2026), while [the agency's communiqués assert only that the integrity of personal data is preserved and are silent on confidentiality](https://aps.sn/la-daf-annonce-la-reprise-de-la-confection-des-cartes-nationales-didentite-depuis-le-1er-avril/).
 
-The policy exists: [the National Cybersecurity Strategy (SNC2022) sets the country's cybersecurity framework](https://www.numerique.gouv.sn/sites/default/files/SNC2022-vf.pdf). The institutions do not follow from it — [in March 2026 Senegalese experts were urging the creation of a national cybersecurity agency, a cyber-observatory and a dedicated cyber task team](https://www.connectingafrica.com/cybersecurity/senegal-s-free-internet-plan-could-pose-cybersecurity-risks), and [a legislative framework on critical infrastructure is in preparation with no date attached](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) (July 2026).
+The policy exists: [the National Cybersecurity Strategy (SNC2022) sets the country's cybersecurity framework](https://www.numerique.gouv.sn/sites/default/files/SNC2022-vf.pdf). The institutions do not follow from it — a bill presented to the National Assembly's intercommission on 13 August 2026 [proposes a national cybersecurity authority, national and sectoral computer emergency response teams, and risk-graded obligations on critical operators](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), none of which exists yet, and [in March 2026 Senegalese experts were urging the creation of a national cybersecurity agency, a cyber-observatory and a dedicated cyber task team](https://www.connectingafrica.com/cybersecurity/senegal-s-free-internet-plan-could-pose-cybersecurity-risks), and [a legislative framework on critical infrastructure is in preparation with no date attached](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) (July 2026).
 
 The state's own diagnosis locates the obstacle in its contracting machinery. [The procurement regulator ARCOP has been brought into the critical-infrastructure cybersecurity programme, on an account that puts the difficulty in contracting rather than in budget or technical capability](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/), with [most public bodies reporting difficulty acquiring the infrastructure, equipment and services they need](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) and [the Dakar 2026 Youth Olympic Games named as the exposure window the upgrades have to clear](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/). Nothing comparable is stated for the platform through which those contracts now run: [no security assessment, continuity arrangement or manual fallback is on the record for APPEL](https://arcop.sn/2026/07/30/encadre-appel-une-plateforme-strategique-a-proteger/) (July 2026).
 

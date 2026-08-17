@@ -1,12 +1,12 @@
 ---
 title: Ghana — digital transformation and data governance status report
-compiled: 2026-08-15
+compiled: 2026-08-17
 place: GHA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 189
+sources_cited: 190
 sections_written: 37
 not_established: 3
 acquire_lines: 62
@@ -60,7 +60,7 @@ Government's own measured readiness sits in the ['High' band of the UN's 2024 e-
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-Ghana scored [99.27 out of 100 in the ITU's 2024 Global Cybersecurity Index, the top 'role-modelling' tier](https://www.itu.int/en/mediacentre/Pages/PR-2024-09-10-Global-Cybersecurity-Index.aspx), while incidents reported to its own regulator rose from [1,317 in the first half of 2024 to 2,008 in the first half of 2025, with reported cybercrime losses of GH¢14.94 million over the later period](https://itweb.africa/article/journalists-join-ghanas-cybercrime-fight/WnxpE74YJeVMV8XL).
+Ghana scored [99.27 out of 100 in the ITU's 2024 Global Cybersecurity Index, the top 'role-modelling' tier](https://www.itu.int/en/mediacentre/Pages/PR-2024-09-10-Global-Cybersecurity-Index.aspx), while incidents reported to its own regulator rose from [1,317 in the first half of 2024 to 2,008 in the first half of 2025, with reported cybercrime losses of GH¢14.94 million over the later period](https://itweb.africa/article/journalists-join-ghanas-cybercrime-fight/WnxpE74YJeVMV8XL). The Act's licensing regime produced its first published penalties in August 2026: the Cyber Security Authority [fined the Office of the Registrar of Companies and a service provider a combined GH¢360,000 — GH¢240,000 against the Registrar in two penalties of GH¢120,000 for engaging an unlicensed cybersecurity service provider, and GH¢120,000 against the provider for operating without a licence](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html). One of the two penalised bodies is itself a state registry, and these are the first penalties published under the Act.
 
 The [Cybersecurity Act 2020 (Act 1038), assented on 29 December 2020, makes the Cyber Security Authority a body corporate regulating cybersecurity activity, licensing providers, accrediting professionals, certifying products and regulating owners of critical information infrastructure](https://csa.gov.gh/resources/cybersecurity_Act_2020%28Act_1038%29.pdf). [Critical information infrastructure is designated by the Minister on the Authority's advice, gazetted and registered, and its owner must report an incident within 24 hours of detection and submit an audit report](https://csa.gov.gh/resources/cybersecurity_Act_2020%28Act_1038%29.pdf) — a 24-hour duty the Act extends to [the person in charge of any institution in the country, backed by an administrative penalty, so incident counts run against a legal obligation, not voluntary disclosure](https://csa.gov.gh/resources/cybersecurity_Act_2020%28Act_1038%29.pdf). The [National Identification Authority is itself designated as critical information infrastructure, putting the identity system under the Authority's oversight and periodic compliance audit](https://digitalpolicyalert.org/digest/dpa-digital-digest-ghana) (2025), and breach notification is [layered across the data protection statute, Act 1038 and the central bank's own reporting requirements](https://practiceguides.chambers.com/practice-guides/cloud-computing-2025/ghana). A [National Cyber Security Policy and Strategy was adopted in 2024, covering cybersecurity, data centres and cloud, data protection, digital identification and payments](https://csa.gov.gh/resources/National%20Cybersecurity%20Policy%20and%20Strategy.pdf).
 

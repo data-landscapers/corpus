@@ -1,12 +1,12 @@
 ---
 title: South Africa — digital transformation and data governance status report
-compiled: 2026-08-15
+compiled: 2026-08-17
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 210
+sources_cited: 211
 sections_written: 37
 not_established: 1
 acquire_lines: 50
@@ -125,7 +125,7 @@ Three days before the 7 August 2026 deadline [the Electoral Commission put voter
 
 The unified front door is still being built. [MyMzansi, the single national portal meant to replace an estate of separate departmental sites and to authenticate citizens by digital identity](https://www.mymzansi.gov.za/roadmap/initiative-1), [moved from proof of concept to production-ready pilot by July 2026](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf). [Its first credential is the digital matric certificate, with September 2026 the target for hardening the pilot into a production platform and integrating it with the data exchange](https://www.itweb.co.za/article/govt-targets-production-ready-mymzansi-platform/GxwQD71DPpgvlPVo). [The Presidency's Digital Services Unit built the prototype in about ten weeks on an open digital-public-goods stack, bundling a digital identity, a digital driving permit and an offline-capable wallet](https://www.dailymaverick.co.za/article/2025-11-09-behind-the-speedy-mymzansi-screens-and-the-presidencys-race-to-build-a-digital-government/).
 
-Home Affairs has shipped faster at the border than at home. [The Electronic Travel Authorisation, now the flagship of its digital programme, went live nationally at OR Tambo in August 2026, extending to all qualifying countries from September and all visa types by year-end](https://www.itweb.co.za/article/wheels-up-for-electronic-travel-authorisation-visas/G98Yd7LGNKQvX2PD), [running machine-learning document checks, facial recognition and rules-based automated decisions with no human review](https://visasnews.com/en/south-africa-makes-the-eta-the-cornerstone-of-its-visa-reform/).
+Home Affairs has shipped faster at the border than at home. [The Electronic Travel Authorisation, now the flagship of its digital programme, went live nationally at OR Tambo in August 2026, extending to all qualifying countries from September and all visa types by year-end](https://www.itweb.co.za/article/wheels-up-for-electronic-travel-authorisation-visas/G98Yd7LGNKQvX2PD), [running machine-learning document checks, facial recognition and rules-based automated decisions with no human review](https://visasnews.com/en/south-africa-makes-the-eta-the-cornerstone-of-its-visa-reform/). It is [live at four airports — OR Tambo, Cape Town, King Shaka and Lanseria — from 12 August 2026, with 6,126 fraudulent applications rejected, put at 2.8% of pilot submissions](https://www.itweb.co.za/article/digital-travel-system-takes-off-at-four-sa-airports/O2rQGqAERbnqd1ea). The department publishes no statistical series, and the four rejection counts given during 2026 rest on bases that do not reconcile.
 
 The older estate works. [eHomeAffairs lets citizens authenticate with an identity number and a one-time password and apply for Smart IDs and passports](https://ehome.dha.gov.za/ehomeaffairs), [eFiling is the main channel for filing and managing tax](https://www.sarsefiling.co.za/), and [the national service portal is in use at transactional maturity, meaning services can be started and completed online](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); [South Africa ranked 40th of 193 on the UN E-Government Development Index in 2024, entering its "very high" group for the first time](https://desapublications.un.org/sites/default/files/publications/2024-09/%28Web%20version%29%20E-Government%20Survey%202024%201392024.pdf). Against that, [Operation Vulindlela records that modernisation of the Gov.za portal was unblocked only once the institutional arrangements delaying it were resolved, and concedes progress has been uneven and in places slower than anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf).
 
