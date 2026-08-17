@@ -1,16 +1,16 @@
 ---
 title: Cote d'Ivoire — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: CIV
-ledger_rows: 50
+ledger_rows: 52
 not_held: 10
-record: 7bd0b064bdcc
+record: 6dd047e33821
 ---
 
 # Cote d'Ivoire: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -24,6 +24,8 @@ July brought the trust layer and the market layer within eight days of each othe
 
 <!-- narrative: infrastructure--infra-connect -->
 A low-orbit satellite operator [went live by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) at XOF 28,746 a month for residential service, with hardware from XOF 148,148, on a twelve-month provisional licence reviewable on service quality. On 31 July the minister said regional satellite capacity would be routed through the universal-service bodies, with a working session on terms due the following week; no terms, tariff or timetable was stated. No 5G launch occurred against the announced July 2026 date. Ministry figures given on 13 July put telecommunications penetration above 130% of population and [about 38,000 km of optical fibre](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation).
+
+On protecting what is already laid, an operator and its vendor [completed a proof of concept in Abidjan that detects vibrations around fibre ducts and classifies them to flag third-party excavation before a cut happens](https://itweb.africa/article/mtn-is-promoting-ai-driven-fibre-cut-sensing-to-reshape-the-resilience-of-digital-infrastructure-in-africa/VgZeyqJlBLV7djX9), on trials run since 2025. The account is vendor-issued and states no commercial deployment, coverage or date.
 <!-- /narrative -->
 ### Data Storage
 
@@ -75,6 +77,8 @@ The cyber-security agency is [operating a national security operations centre, a
 
 <!-- narrative: governance--gov-policy -->
 The draft cyber-security strategy for 2026 to 2030 was [put to stakeholder review on 23 July](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) and awaits the Council of Ministers; the 2021 to 2025 text remains the instrument formally in force. The draft extends scope to artificial intelligence, emerging technologies and cloud.
+
+The universal-service agency published its own five-year plan on 11 August. It [rests on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency's own funds](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). The [stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point at which 70% of rural households have no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). No adoption instrument is published; the plan is the agency's own.
 <!-- /narrative -->
 ### Standards
 

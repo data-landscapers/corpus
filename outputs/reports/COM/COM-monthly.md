@@ -1,16 +1,16 @@
 ---
 title: Comoros — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: COM
-ledger_rows: 8
+ledger_rows: 9
 not_held: 35
-record: e1beea5ff301
+record: dbdd597aedd6
 ---
 
 # Comoros: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -24,6 +24,8 @@ ANADEN, the digital development agency, [seated its board of directors for the f
 
 <!-- narrative: infrastructure--infra-connect -->
 Comores Télécom [revised its retail fibre and mobile offer on 15 July 2026](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html), cutting the entry fibre tariff from KMF 32,500 to KMF 30,000 a month while raising the basic allowance from 800 GB to 850 GB and adding unlimited calls to fixed lines. [Director-general Ali Hadji Mmadi also announced eSIM provisioning — KMF 5,000 to migrate an existing SIM, KMF 10,000 for a new one — and two paid value-added SMS services, a pharmacy-on-duty locator and prayer-time notifications](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html). The account is the operator's own press event, and its internal dateline is inconsistent: it describes the launch as "yesterday, Monday 15 July," though 15 July 2026 fell on a Wednesday, so the date's precision is flagged uncertain.
+
+The connectivity project the agency carries reached the stage before financing. At a technical meeting on 10 August the [African Development Bank and the Multilateral Cooperation Center for Development Finance told the finance ministry they were ready to fund the feasibility studies as a grant](https://alwatwan.net/economie/connectivit%C3%A9-num%C3%A9rique-i-la-bad-et-le-mcdf-pr%C3%AAts-%C3%A0-soutenir-le-projet-comorien.html), the project covering data-centre studies and inter-island connectivity. No commitment amount, study contract or timetable is stated, so no finance record was built.
 <!-- /narrative -->
 
 ## Digital public infrastructure

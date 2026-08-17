@@ -1,16 +1,16 @@
 ---
 title: DR Congo — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: COD
-ledger_rows: 36
+ledger_rows: 39
 not_held: 13
-record: c3e20a383fc1
+record: c4c16e3c647e
 ---
 
 # DR Congo: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -26,6 +26,8 @@ Two strategic documents reached validation without adoption: the [national AI st
 
 <!-- narrative: infrastructure--infra-connect -->
 Deployment of the transformation project's fibre backbone was reported to the Council on 3 August: [7,000 km laid against more than 18,500 km, leaving 11,500 km outstanding](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de) and tied to connecting 145 territories by 2030. The minister attributed the pace to budget constraints and a low disbursement rate on external financing, blamed on donor procedure.
+
+Coverage arrived from orbit before it arrived by fibre. An operator [commercially launched a satellite-to-mobile service on 14 August, the first African operator to take the technology out of testing](https://businessday.ng/technology/article/airtel-becomes-first-african-operator-to-commercially-deploy-starlink-mobile-starting-in-congo/): a compatible LTE Android handset with a clear view of the sky reaches messaging and SMS through satellites where there is no terrestrial network, with no dish, router or other equipment, and the [regulator has confirmed a phased rollout](https://numerico.cd/2026/08/14/airtel-rdc-et-starlink-rdc-a-la-conquete-des-zones-blanches/). No tariff, coverage map or subscriber figure is published, and the service is stated as designed for light data.
 <!-- /narrative -->
 ### Data Storage
 
@@ -88,6 +90,8 @@ The planning minister [announced recruitment of mapping agents and fixed general
 The [interministerial order on digital-sector duties, taxes and fees was in force on signature on 20 July under its article 5](https://actu7.cd/2026/07/31/rdc-le-gouvernement-fixe-les-nouveaux-droits-taxes-et-redevances-applicables-au-secteur-du-numerique/). It sets a two-tier dollar schedule keyed to whether a provider is judged dominant, running from US$2,500 to US$15,000 for cloud services and US$25,000 to US$100,000 for data-centre declaration, with one startup line at US$100. It was [suspended by government communiqué on 3 August](https://acp.cd/business/rdc-le-secteur-du-numerique-encore-confronte-a-des-nombreuses-contraintes-un-specialiste/). Neither the gazetted order nor the suspending communiqué is held.
 
 Two regulators agreed on 22 July to [form joint inspection teams and enforce local-content subcontracting rules on large operators](https://actualite.cd/2026/07/23/rdc-larsp-et-larptc-renforcent-leur-cooperation-pour-promouvoir-la-sous-traitance-dans), scoped beyond telecoms to digital services and e-commerce; no written protocol is held.
+
+The digital code is being applied to speech. On 15 August the justice minister [restated the government's determination to clean up Congolese cyberspace and said prosecutions were already under way for public insults and defamation on social platforms under the Code du numérique](https://actualite.cd/index.php/2026/08/15/rdc-face-aux-derives-sur-les-reseaux-sociaux-le-ministre-de-la-justice-reaffirme-la), after receiving an NGO memorandum on 13 August. No case number, charge or judgment is held.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -138,7 +142,7 @@ On 3 July a memorandum was signed with a Chinese supplier for a [2,100 km route 
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-This is the month's clearest movement with both ends dated. The universal service fund [signed subsidy conventions with four operators on 8 August for a first tranche of 40 localities, about 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites), against a national diagnostic published the day before finding nearly 3,000 uncovered localities — about 4.3m people — and coverage of 77% 2G, 68% 3G and 57% 4G. A [second phase of 300 sites is planned, with a 2030 target of 3,000 localities and 100 digital community centres](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites). An unfunded fund at the window's start, a first funded tranche at its end; no per-locality budget or fund appropriation figure is held.
+This is the month's clearest movement with both ends dated. The universal service fund [signed subsidy conventions with four operators on 8 August for a first tranche of 40 localities, about 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites), against a national diagnostic published the day before finding nearly 3,000 uncovered localities — about 4.3m people — and coverage of 77% 2G, 68% 3G and 57% 4G. A [second phase of 300 sites is planned, with a 2030 target of 3,000 localities and 100 digital community centres](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites). An unfunded fund at the window's start, a first funded tranche at its end; no per-locality budget or fund appropriation figure is held. The diagnostic's own spread is wide: [coverage runs from about 98% in Kinshasa to 14% in Tshuapa and 28% in each of Kwango and Sud-Ubangi](https://techafricanews.com/2026/08/14/dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas/), and the fund is [drafting a national strategy that prioritises investment by coverage gap, population, economic activity, public infrastructure and geography, naming the Lobito, National and Peace corridors as its three strategic routes and shared passive infrastructure as its approach](https://techafricanews.com/2026/08/14/dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas/). No adoption date, budget or target is published for it.
 <!-- /narrative -->
 ### Access to services
 

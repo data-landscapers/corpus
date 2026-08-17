@@ -1,15 +1,15 @@
 ---
 title: DR Congo — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: COD
-ledger_rows: 82
+ledger_rows: 84
 not_held: 9
-record: 9ca07cb04769
+record: e955edac3912
 ---
 
 # DR Congo: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/COD/ledger.csv` (82 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/COD/ledger.csv` (84 systems and instruments, 9 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -34,6 +34,7 @@ Physical build is measurable and behind. [7,000 km of the transformation project
 | Goma-Mombasa fibre route | [Implemented](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn) | The route reported lit, linking Goma to Mombasa via Kampala |
 | National digital transformation project fibre backbone | [In development](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de) | Deployment reported to the 95th ordinary Council meeting 2026-08-03 |
 | Rural solar base-station joint venture | [In development](https://www.connectingafrica.com/connectivity/drc-connectivity-improves-but-some-usage-power-supply-gaps-linger) | The commitment restated as 2,000 new solar-powered base stations by 2031 |
+| Satellite direct-to-cell service | [Implemented](https://numerico.cd/2026/08/14/airtel-rdc-et-starlink-rdc-a-la-conquete-des-zones-blanches/) | Commercial launch announced 2026-08-14 |
 | Sovereign satellite programme | [Planned](https://actualite.cd/2025/08/31/la-rdc-se-lance-dans-un-projet-dacquisition-dun-satellite-cout-estime-400-millions-de) | The President received the promoter's representative, who said a bank had mobilised the estimated US$400m |
 | State telecommunications and postal operator | [Implemented, in structural crisis](https://rdc-monde.com/scpt-ce-que-lon-ne-dit-pas-sur-les-efforts-de-redressement-en-cours/) | A directorate-general communiqué on the recovery setting out finances against staff grievances |
 
@@ -174,6 +175,7 @@ Tax administration is the sector's most enforced digitisation. The [standardised
 | System or instrument | Status | Milestone |
 |---|---|---|
 | National digital plan 2026-2030 | [In development](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/numerique-la-rdc-annonce-l-operationnalisation-d-un-financement-de-500-millions) | The government announced operationalisation of a US$500m partner tranche after talks with two development financiers |
+| National strategy for mobile and broadband coverage | [In development](https://techafricanews.com/2026/08/14/dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas/) | Drafting reported 2026-08-14 on the fund’s 2026-08-07 assessment |
 | Reorganisation of the digital mandate in the 2026 finance law | [Implemented](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | Enacted 2025-12-29 |
 | Sectoral digital economy policy 2026-2030 | [In development, validated and awaiting adoption](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/) | Presented and validated by government at a Kinshasa ceremony 2026-08-04 |
 | National data governance strategy | ***Not held*** | — |

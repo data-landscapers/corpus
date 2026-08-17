@@ -1,15 +1,15 @@
 ---
 title: Comoros — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-17
 place: COM
-ledger_rows: 110
+ledger_rows: 111
 not_held: 35
-record: bae2ce38d429
+record: 13c07f183973
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (110 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (111 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -26,6 +26,7 @@ The Comoros has built its payment rails ahead of everything else and legislated 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Comores Telecom fifth-generation and fixed-wireless service | [Implemented, pilot site only](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/t%C3%A9l%C3%A9communications-comores-telecom-lance-%C3%A0-son-tour-la-5g-.html) | Presidential launch at the Hamramba pilot site |
+| National digital connectivity project | [Planned](https://alwatwan.net/economie/connectivit%C3%A9-num%C3%A9rique-i-la-bad-et-le-mcdf-pr%C3%AAts-%C3%A0-soutenir-le-projet-comorien.html) | Technical meeting on feasibility-study funding 2026-08-10 |
 | Prohibition on satellite internet deployment | [Implemented, pending a licence](https://alwatwan.net/societe/d%C3%A9ploiement-de-starlink-i-les-autorit%C3%A9s-interdisent-son-usage-pour-l%E2%80%99instant.html) | A ministerial circular signed 2025-06-09 and announced by the regulator on 2025-06-12 |
 | Yas Comores fifth-generation service | [Implemented, two districts of the capital](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/t%C3%A9l%C3%A9communications-yas-comores-a-lanc%C3%A9-officiellement-la-5g-.html) | Commercial launch in two districts of Moroni with a supplier's engineering support |
 | International connectivity - cable system, landings and capacity | ***Not held*** | — |

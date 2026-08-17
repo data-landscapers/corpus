@@ -1,16 +1,16 @@
 ---
 title: Algeria — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: DZA
 ledger_rows: 22
 not_held: 7
-record: d1456c96e27f
+record: 9767cf8aef3b
 ---
 
 # Algeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -19,7 +19,7 @@ The state inaugurated its own data-centre estate on 5 July and gave administrati
 
 The Ministry of Foreign Trade and Export Promotion announced on 27 July that from 1 August applications to import services must be lodged, processed and tracked exclusively through a new platform, with [no fallback or assisted channel stated](https://www.echoroukonline.com/وزارة-التجارة-الخارجية-تطلق-منصة-رقمي).
 
-Nothing moved on the National AI Strategy, the ethical-AI law, the domestic instant-payment system or the universal-service build, and the apostille platform was the month's only advance from a position the wiki already held.
+Nothing moved on the ethical-AI law, the domestic instant-payment system or the universal-service build. The National AI Strategy moved after July closed: a [joint inter-ministerial roadmap for deploying artificial intelligence across public services was agreed and reported on 12 August](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), the text of the strategy still unpublished.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -66,7 +66,7 @@ The services-import platform announced on 27 July becomes the exclusive route fr
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The electronic commerce law is in force and, on a consumer body's assessment, largely bypassed: [the great majority of online selling runs through social-media pages outside its obligations, with cash on delivery dominant](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6). That is named-analyst opinion rather than a state position; the law's own date and text are not held, and no enforcement action or compliance figure is on file. Separately a [national information-verification system was examined in draft by the Council of Government on 23 July](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ), with no regulator, legal basis or oversight mechanism named in anything held.
+The electronic commerce law is in force and, on a consumer body's assessment, largely bypassed: [the great majority of online selling runs through social-media pages outside its obligations, with cash on delivery dominant](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6). That is named-analyst opinion rather than a state position; the law's own date and text are not held, and no enforcement action or compliance figure is on file. Separately a [national information-verification system was examined in draft by the Council of Government on 23 July](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ), with no regulator, legal basis or oversight mechanism named in anything held. On 14 August the telecommunications ministry [asked Meta to require every WhatsApp account to stay linked to a verified national mobile number](https://www.connectingafrica.com/regulation/algeria-urges-meta-to-block-non-local-whatsapp-accounts), rejecting the username-only accounts introduced in June 2026 and citing fraud, identity theft and cybercrime prevention. It is a request rather than an instrument; no order, deadline or sanction is stated, and the platform-regulation bill deposited in October 2025 remains undebated.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -93,7 +93,7 @@ One further governance event changed nothing: the national police held a [study 
 <!-- narrative: ai-tech--tech-ai -->
 On 25 July the Higher Education Minister announced that from the 2026–2027 academic year each student's learning pathway will be steered by an intelligent assistant matching modules to competences and career goals, alongside a large language model for lecturers that generates teaching material and [marks student answers](https://www.echoroukonline.com/إطلاق-المسار-التعليمي-الشخصي-للطالب-ب). No appeal route, accuracy claim, disclosure duty or human-review threshold is reported. The figures given alongside are the minister's own, delivered in a speech, and none is independently sourced.
 
-Nothing moved on the National AI Strategy or the ethical-AI law in July.
+The strategy itself moved in August rather than July. A [joint inter-ministerial roadmap was agreed to deploy artificial intelligence across public services, prioritising sovereign open-source models, high-performance computing centres, national data storage and stronger safeguards for public-sector applications](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), reported on 12 August by the higher education minister, with intensive university training programmes, a dedicated research centre and specialised research units, and a joint monitoring committee established to oversee delivery against a stated timeline. The strategy text is still not published and the ethical-AI law has not moved.
 
 Three external events are dated in the month and moved nothing. The Post and Telecommunications Minister told the inaugural [UN Global Dialogue on AI Governance](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) in Geneva on 6 July that global governance should move from principles to technology transfer and capacity building. Smart Africa's chief executive met him on [13 July](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration; no agreement or commitment is reported. Algérie Télécom received a [WSIS Forum certificate of appreciation](https://www.echoroukonline.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC) on 9 July. The award is a certificate of appreciation; the ministry described it as confirmation of Algeria's standing.
 <!-- /narrative -->

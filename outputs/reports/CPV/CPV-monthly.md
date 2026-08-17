@@ -1,16 +1,16 @@
 ---
 title: Cape Verde — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 place: CPV
-ledger_rows: 15
+ledger_rows: 16
 not_held: 45
-record: 7ffc3111de8b
+record: a468c5eae393
 ---
 
 # Cape Verde: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -26,6 +26,11 @@ The month's substance was fiscal and statistical rather than technical. [Parliam
 No new connectivity measurement was published in the window, and the regulator's market series still stops at the second quarter of 2025 ([regulator indicators](https://expressodasilhas.cv/economia/2025/09/18/starlink-conquista-02-do-mercado-da-internet-em-9-meses/99028)).
 
 The continental frame moved instead. On 24 July 2026 the African Union development agency launched a Programme for African Developing Island Economies at a ministerial segment in Abidjan, covering Cape Verde and six other island states on a 2026-2031 roadmap organised on six pillars including connectivity, with digital public infrastructure and artificial intelligence named as accelerators. No Cape Verde-specific commitment, allocation or project is named in it.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
+The surveillance programme moved to a third phase on foreign money. China [made about EUR 9.3m available as non-reimbursable assistance for phase three of the Cidade Segura project](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/), the implementation agreement signed in the week to 15 August by the interior minister and the Chinese ambassador at the National Police Command Centre in Praia, and stated as reinforcing the technological and operational capacity of the security forces and supporting criminal investigation. [Phase three covers command centres, data centres and wireless base stations at Assomada, Tarrafal de Santiago and Porto Novo, and expanded video surveillance in Praia and Mindelo](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/). No camera count, retention rule, data-protection authorisation or oversight arrangement is published for this phase or the two before it.
 <!-- /narrative -->
 
 ## Digital public infrastructure

@@ -1,20 +1,20 @@
 ---
-title: Algeria — progress report, 2025-08-01 to 2026-08-14
-compiled: 2026-08-14
-period: 2025-08-01 to 2026-08-14
+title: Algeria — progress report, 2025-08-01 to 2026-08-17
+compiled: 2026-08-17
+period: 2025-08-01 to 2026-08-17
 place: DZA
 ledger_rows: 102
 not_held: 7
-record: ad6cbe42b051
+record: ce117dfb2567
 ---
 
-# Algeria: progress report, 2025-08-01 to 2026-08-14
+# Algeria: progress report, 2025-08-01 to 2026-08-17
 
-*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 102 systems and instruments on this place's ledger, 72 changed position between 2025-08-01 and 2026-08-14, 16 did not, 7 carry no stated baseline, and 7 are ***Not held*** at both ends.*
+*Of 102 systems and instruments on this place's ledger, 72 changed position between 2025-08-01 and 2026-08-17, 16 did not, 7 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 173 sources for this place in the window — 54 in the earlier half (2025-08 to 2026-01), 119 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 175 sources for this place in the window — 54 in the earlier half (2025-08 to 2026-01), 121 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ Nothing was withdrawn, nothing closed, and nothing missed a published target.
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | "All Fiber" national fibre programme (copper phase-out) | Phase-out announced, 2027 target (2025-05) | [3.4m of 7m fixed-internet subscribers on fibre (2026-05)](https://www.echoroukonline.com/%D8%B2%D8%B1%D9%88%D9%82%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85) | Advanced, on subscriber numbers rather than on the phase-out date |
 | 4G base-station expansion (345 new stations, 44 wilayas) | No expansion programme on record | [345 stations across 44 wilayas, toward 4,500 localities by 2027](https://www.ecofinagency.com/news-digital/1802-53004-algeria-s-state-owned-telecom-plans-345-new-4g-stations-nationwide) | Advanced |
@@ -46,7 +46,7 @@ Nothing was withdrawn, nothing closed, and nothing missed a published target.
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National Digital Services Centre (Mohammadia and Blida, active-active) | Did not exist | [Two active-active sites; administrations ordered to interconnect within a month (2026-07-12)](https://www.echoroukonline.com/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%A8%D9%88%D9%86-%D9%8A%D9%8F%D8%AF%D8%B4%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%AE%D8%AF%D9%85) | Advanced |
 | National sovereign cloud | Did not exist | [Live on the national centre; no service catalogue or tenant list](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-opens-dual-data-center-infrastructure-to-support-digital-government) | Advanced |
@@ -55,7 +55,7 @@ Nothing was withdrawn, nothing closed, and nothing missed a published target.
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Child online-protection cyber-vigilance cell (green line 1111) | Did not exist | [Cell and green line 1111 operating](https://www.echoroukonline.com/%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AD) | Advanced |
 | MPT-CERT sectoral incident-response centre | Did not exist | [Sectoral CERT operating with KOICA support](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%AF%D8%B4%D9%91%D9%86-%D9%85%D8%B1%D9%83%D8%B2%D8%A7-%D9%84%D9%84%D9%8A%D9%82%D8%B8%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87-%D9%88) | Advanced |
@@ -76,13 +76,13 @@ Copper phase-out was in development before the window opened and remains so at i
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | National interoperability system (Decree 25-320, art. 10) | Did not exist | [Obligations await the two art. 8 referentiels, untraced (2026-07)](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | All-digital vehicle registration | Earlier phases live; local applications still manual | [All-digital; manual local applications ended and the biometric ID card required for transfers](https://www.elmoudjahid.dz/fr/actualite/immatriculation-des-vehicules-passage-au-tout-numerique-des-aujourd-hui-250065) | Advanced |
 | DGSN-UK Home Office biometrics and digital-forensics MoU | Did not exist | [Fingerprint-analysis training and biometric verification exchange](https://www.biometricupdate.com/202511/algeria-to-get-uk-support-on-digital-forensics-biometrics-for-policing) | Advanced |
@@ -92,7 +92,7 @@ Copper phase-out was in development before the window opened and remains so at i
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Digital-bank licensing (Instruction 02-2025) and KYC (Instruction 04-2026) | Did not exist | [Licensing plus a binding KYC instruction for AML/CTF](https://www.elmoudjahid.dz/fr/actualite/dispositif-kyc-la-banque-d-algerie-prepare-une-nouvelle-instruction-251312) | Advanced |
 | Interbank card payments and the terminal estate (CIB, Edahabia) | Fewer than 10% of merchants with a terminal | [22m+ cards, 104,000+ terminals, 4,713 ATMs (2026-03); DZD 939bn in 2025, up 46%](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-s-electronic-payment-market-surpasses-22-million-cards) | Advanced, in volume; merchant acceptance unchanged |
@@ -104,7 +104,7 @@ Copper phase-out was in development before the window opened and remains so at i
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | AMLAK electronic land-title system | Did not exist | [Nationwide with end-to-end traceability; no coverage figure published](https://www.ecofinagency.com/news-digital/1301-51891-algeria-launches-nationwide-rollout-of-amlak-electronic-land-system) | Advanced |
 | CNAS electronic health card for the uninsured | Did not exist | [Issuing to the uninsured](https://www.echoroukonline.com/cnas-une-carte-electronique-pour-les-personnes-sans-couverture-sociale) | Advanced |
@@ -114,7 +114,7 @@ Copper phase-out was in development before the window opened and remains so at i
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Automated water-meter reading pilot (SEAAL with OTEC/Omantel) | Did not exist | [MoU for a LoRaWAN pilot; no site, scale or start date](https://techafricanews.com/2026/07/30/omantel-expands-regional-digital-footprint-with-algeria-smart-water-partnership/) | Advanced |
 | Four higher-education digital platforms | Did not exist | [Four platforms live](https://techafricanews.com/2026/02/25/algeria-launches-four-new-digital-platforms-to-modernise-higher-education-sector/) | Advanced |
@@ -130,7 +130,7 @@ Copper phase-out was in development before the window opened and remains so at i
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Apostille e-legalisation platform | Planned on Hague accession (2025-08-25) | [Live; recognition claimed in about 126 states](https://www.elmoudjahid.dz/fr/actualite/legalisation-des-documents-destines-a-l-etranger-l-apostille-desormais-accessible-en-ligne-255359) | Advanced |
 | Dzair Digital Services national portal (single window) | Did not exist | [21 services against targets of 62 by end-2027 and 350 by 2028](https://elhiwar.dz/event/335541/) | Advanced |
@@ -140,19 +140,19 @@ Copper phase-out was in development before the window opened and remains so at i
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Municipal digitalisation ("electronic municipalities") | In development (2025, year-precision) | [No later account held](https://doi.org/10.56334/sei/8.12.46) | No change |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Published official telecom and digital statistics series | ***Baseline not held*** | [ARPCE annual report for 2024 held; no quarterly observatory or statistics-office series](https://www.arpce.dz/en/file/q6i1l8) | ***Baseline not held*** |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Alsat-3A and 3B high-resolution Earth-observation satellites | Did not exist | [Both satellites in orbit, operated with the Ministry of National Defence](https://www.echoroukonline.com/le-general-darmee-said-chanegriha-suit-loperation-de-lancement-du-deuxieme-satellite-alsat-3b) | Advanced |
 
@@ -168,7 +168,7 @@ Three long-standing systems cannot be dated from the base at either end: the old
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Domestic online-platform regulation (local presence, takedown, data residency) | Did not exist | [Under examination; bill text not held and adoption not established](https://www.wearetech.africa/fr/fils/actualites/tech/algerie-vers-une-regulation-stricte-de-tiktok-facebook-et-youtube) | Advanced |
 | National information-verification ("fact-checking") system | Did not exist | [Draft examined; no regulator, legal basis or oversight mechanism named](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ) | Advanced |
@@ -177,14 +177,14 @@ Three long-standing systems cannot be dated from the base at either end: the old
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | High Commission for Digitalisation (Decree 23-314) and its scientific committee | Commission operating, no committee | [15-member scientific and technical committee seated, three from the diaspora](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-appoints-expert-panel-to-accelerate-digital-overhaul) | Advanced |
 | Digital Algeria 2030 (National Digital Transformation Strategy) | Published (2025-05) | [Targets unchanged: all public services online by 2030, 500,000 ICT jobs](https://www.echoroukonline.com/algeria-candidate-for-digital-leadership-in-africa-by-2030) | No change |
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | 50-in-5 digital public infrastructure campaign membership | Did not exist | [15th African and 33rd overall member](https://techreviewafrica.com/news/4649/algeria-joins-50in5-initiative-pledges-to-strengthen-africas-digital-public-infrastructure) | Advanced |
 | Algiers Declaration on African telecommunications sovereignty and integrated connectivity (2026-2030) | Did not exist | [Ministerial declaration for 2026-2030; text not held](https://techreviewafrica.com/news/4639/african-ministers-adopt-algiers-declaration-on-telecommunications-sovereignty-and-connectivity) | Advanced |
@@ -194,14 +194,14 @@ Three long-standing systems cannot be dated from the base at either end: the old
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | eSIM adoption | No eSIM offer on record | [In development across the operators](https://techafricanews.com/2025/10/15/algeria-moves-toward-esim-integration-to-advance-digital-transformation/) | Advanced |
 | National accreditation and conformity network and its GEOLAB platform | Did not exist | [Network and its GEOLAB platform announced](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | ANPDP deliberation treating images as personal data | Did not exist | [Images treated as personal data; deliberation no. 04, effective on publication on the Authority's own website, no Journal officiel step; full text now held](https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques) | Advanced |
 | ANPDP — national data-protection authority | Operating; no enforcement decision held (2025-08) | [Compliance push on officers, registers and audit logs; still no enforcement decision held](https://www.elmoudjahid.dz/fr/actualite/conservation-des-donnees-personnelles-l-anpdp-exige-le-respect-de-la-loi-244968) | Advanced, in activity rather than in enforcement |
@@ -210,7 +210,7 @@ Three long-standing systems cannot be dated from the base at either end: the old
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Italy telecommunications and postal cooperation MoU | Signed (2025-07) | [In force alongside the Sparkle cable project](https://techreviewafrica.com/news/2553/algeria-and-italy-hold-bilateral-cooperation-in-technology-during-presidential-visit) | No change |
 
@@ -230,24 +230,24 @@ Algeria convened [the Algiers Declaration](https://techreviewafrica.com/news/463
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | AI learning-pathway assistant and marking model in higher education | Did not exist | [Module allocation and marking planned; no appeal route or human-review threshold](https://www.echoroukonline.com/إطلاق-المسار-التعليمي-الشخصي-للطالب-ب) | Advanced |
 | AVENTURE CloudZ sovereign AI cloud (Djezzy) | Did not exist | [Live](https://techafricanews.com/2026/04/30/djezzy-unveils-ai-cloud-platform-in-landmark-partnership-with-algeria-venture-and-taubyte/) | Advanced |
 | Ethical-AI law | Did not exist | [In preparation; no draft text, sponsor or timetable held](https://www.echoroukonline.com/%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82) | Advanced |
 | Huawei AI, GPU and digital-economy cooperation | Did not exist | [Talks only; no agreement, instrument or value stated](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%87%D9%88%D8%A7%D9%88%D9%8A-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88) | Advanced |
-| National AI Strategy | Adopted by the National AI Council on six pillars (2024-12) | [Implementation opened on five priorities with an interministerial follow-up commission (2026-08); Council-of-Ministers adoption not recorded](https://www.elmoudjahid.dz/fr/actualite/reunion-du-gouvernement-la-strategie-nationale-d-intelligence-artificielle-a-l-ordre-du-jour-252722) | Advanced |
+| National AI Strategy | Adopted by the National AI Council on six pillars (2024-12) | [A joint inter-ministerial roadmap agreed to deploy artificial intelligence across public services, prioritising sovereign open-source models, high-performance computing centres, national data storage and safeguards for public-sector applications, with intensive university training programmes, a dedicated research centre and specialised research units, and a joint monitoring committee established to oversee delivery against a stated timeline; the strategy itself is still not published](https://www.elmoudjahid.dz/fr/actualite/reunion-du-gouvernement-la-strategie-nationale-d-intelligence-artificielle-a-l-ordre-du-jour-252722) | Advanced |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | FNI national technology hub (with Djezzy, IT-DEV, Inet, Smart Test) | Did not exist | [Agreement signed; no capitalisation, timetable or launch](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-s-state-fund-backs-new-tech-hub-to-modernize-public-sector) | Advanced |
 | Payment-terminal manufacture and servicing (ENIE) | ***Baseline not held*** | [Accredited to install and maintain all payment terminals nationwide regardless of brand; 1.6m terminals produced (2026-05)](https://www.echoroukonline.com/%D8%A8%D8%B7%D9%84%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A5%D9%8A%D9%86%D9%8A-%D8%AA%D9%86%D8%AA%D8%AC-1-6-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%87%D8%A7%D8%B2-%D8%AF) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | AI and cybersecurity startup cluster, Sidi Abdellah | Did not exist | [Operating, inside a target of 20,000 startups by 2029](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-unveils-first-ai-and-cybersecurity-start-up-cluster) | Advanced |
 | Startup IPO-fee waiver to 2028 | Did not exist | [In force to 2028](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-waives-ipo-fees-for-startups-until-2028) | Advanced |
@@ -264,13 +264,13 @@ What did arrive is compute and deployment. A sovereign AI cloud was [launched by
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Universal-service programme for low-density areas | ***Baseline not held*** | [1,400 areas reached; no target, budget or completion date](https://www.echoroukonline.com/%D8%B2%D8%B1%D9%88%D9%82%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | "7.77" National Digital Empowerment programme | Did not exist | [64,508 registrations across all 58 wilayas, 30% choosing AI](https://techreviewafrica.com/news/5502/algeria-launches-national-digital-empowerment-programme-targeting-citizens-aged-7-to-77) | Advanced |
 | National AI vocational-training programme | Did not exist | [Running with an incubator attached; no cohort size held](https://techreviewafrica.com/news/5172/algeria-launches-artificial-intelligence-training-programme-to-enhance-digital-skills) | Advanced |
@@ -278,7 +278,7 @@ What did arrive is compute and deployment. A sovereign AI cloud was [launched by
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | High Council of Scientists (Presidency) | Did not exist | [Installed at the Presidency](https://www.echoroukonline.com/creation-de-deux-importantes-structures-sous-la-tutelle-de-la-presidence-de-la-republique) | Advanced |
 | Virtual-education AI innovation centre | Did not exist | [Operating](https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1) | Advanced |
@@ -293,14 +293,14 @@ Two programmes carry no baseline — the universal-service build for low-density
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | African Startup and Young Innovators Financing Fund | Launched (2025-09) | [US$1bn committed; no disbursement held](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups) | Advanced |
 | Algeria Venture and the National Startup Fund | 1,600 microenterprises and 130 startups (mid-2025) | [First exit VOLZ (2025-12); domestic startups raised US$5.3m across two rounds in 2025](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups) | Advanced |
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
 |---|---|---|---|
 | Bilateral telecom and ICT cooperation with Tunisia and Niger | Did not exist | [Fourth Tunisia commission (2026-06); Niger cooperation (2026-03)](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/) | Advanced |
 | Oman digital-cooperation track (MTCIT and Oman Investment Authority) | Did not exist | [Partnerships offered across AI, data centres, fintech and space; nothing concluded](https://www.echoroukonline.com/الجزائر-وسلطنة-عمان-تبحثان-تعزيز-التع) | Advanced |
