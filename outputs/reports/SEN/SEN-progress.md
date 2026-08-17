@@ -3,18 +3,18 @@ title: Senegal — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: SEN
-ledger_rows: 104
+ledger_rows: 105
 not_held: 12
-record: c772ccb48afb
+record: 3181492c4ba8
 ---
 
 # Senegal: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 104 systems and instruments on this place's ledger, 58 changed position between 2025-08-01 and 2026-08-17, 18 did not, 16 carry no stated baseline, and 12 are ***Not held*** at both ends.*
+*Of 105 systems and instruments on this place's ledger, 58 changed position between 2025-08-01 and 2026-08-17, 18 did not, 17 carry no stated baseline, and 12 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 158 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-01), 131 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 159 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-01), 132 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -140,6 +140,7 @@ The one position that regressed is the breach count, against an index score unch
 | Free electronic fiscal-stamp service | A free stamp and passport-receipt distribution service, running six years | [The free tier suspended, with refunds promised within 72 hours; users state they now pay additional fees for an identical service](https://lesoleil.sn/actualites/diotali-suspend-son-service-gratuit-de-timbre-fiscal-electronique-et-annonce-le-remboursement-de-ses-usagers/) | Closed |
 | Public procurement platform APPEL | Did not exist | [Operating as the state's electronic procurement channel; the procurement regulator's director-general states it is intended to capture the procedures of a thousand administrations and names its protection as a priority alongside critical state digital infrastructure](https://arcop.sn/2026/07/30/encadre-appel-une-plateforme-strategique-a-proteger/) | Advanced |
 | Regulator digital platforms | Did not exist | [Eight platforms live, including a national digital-infrastructure map and a tariff platform](https://techafricanews.com/2026/01/28/senegals-artp-advances-digital-transformation-to-strengthen-regulatory-ecosystem/) | Advanced |
+| National Assembly SIPOP system | Baseline not held | [IT equipment out to tender by the United Nations development programme for the Assembly's SIPOP system; what the system does, its value and its timetable are not stated in the notice](https://www.developmentaid.org/tenders/view/1695673/acquisition-dequipements-informatiques-sipop) | ***Baseline not held*** |
 
 ### National statistics
 

@@ -3,9 +3,9 @@ title: Tanzania — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: TZA
-ledger_rows: 50
+ledger_rows: 52
 not_held: 13
-record: 0f93755a31f4
+record: 173d1ddcc604
 ---
 
 # Tanzania: monthly update, July 2026
@@ -35,6 +35,8 @@ On 29 July the Kenyan and Tanzanian ministers [launched a terrestrial fibre link
 
 <!-- narrative: infrastructure--infra-store -->
 A data-centre group named its Tanzanian site as under development while raising [committed capital from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/), giving no Tanzanian size, cost or date.
+
+A sector review of 5 August put a count on what is already there: [ten data centres in Dar es Salaam and one in Dodoma, operated by six carriers](https://african.business/2026/08/free-article/tanzanias-digital-dividend). It is a count and nothing more — no capacity, load or utilisation accompanies it — and it is a trade magazine's rather than the regulator's, so it does not replace the state's own count of public centres commissioned.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -84,6 +86,8 @@ At the same exhibition the agency described a farmer-records and permits system 
 
 <!-- narrative: dpi--dpi-govtech -->
 The central bank [launched a sovereign yield curve system on 7 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), letting investors compare secondary-market government-security returns against domestic and international alternatives before investing. [Retail participation stands at 32,631 investors against 897 in 2016](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), on the governor's own figures given at the launch.
+
+Upstream of any single system, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. A procurement notice fixes the consultancy and nothing about any project it may produce; neither value nor duration is stated.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 

@@ -4,7 +4,7 @@ compiled: 2026-08-17
 place: COD
 ledger_rows: 84
 not_held: 9
-record: e955edac3912
+record: 8b160b4e1f90
 ---
 
 # DR Congo: status report

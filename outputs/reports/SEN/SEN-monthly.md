@@ -3,9 +3,9 @@ title: Senegal — monthly update, July 2026
 compiled: 2026-08-17
 period: 2026-07-01 to 2026-08-17
 place: SEN
-ledger_rows: 52
+ledger_rows: 53
 not_held: 12
-record: 4d4fda480ff8
+record: 1b80c7f4ccac
 ---
 
 # Senegal: monthly update, July 2026
@@ -75,6 +75,8 @@ In health, a [mortality and cause-of-death analysis tool was trained out on 20 a
 
 <!-- narrative: dpi--dpi-govtech -->
 The month's clearest movement is a removal rather than an addition. The tax authority [withdrew the paper fiscal stamp on 20 July, making the digital service the sole recognised channel nationwide](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique), with QR-coded stamps bought and received remotely. Unused paper stamps were exchangeable until 15 August and no offline or assisted route is stated. Eight days later the [free electronic stamp service was suspended by its provider, citing an administrative decision outside its control, with refunds promised within 72 hours and users stating they now pay additional fees for an identical service](https://lesoleil.sn/actualites/diotali-suspend-son-service-gratuit-de-timbre-fiscal-electronique-et-annonce-le-remboursement-de-ses-usagers/) — the first consumer-cost consequence of state-platform exclusivity the base holds, and it is not stated whether the decision was addressed to that provider or to the distribution channel generally. Separately the state procurement platform is [operating and named by the procurement regulator as intended to capture the procedures of a thousand administrations](https://arcop.sn/2026/07/30/encadre-appel-une-plateforme-strategique-a-proteger/), with its protection a stated priority alongside critical state digital infrastructure; no count of administrations onboarded, procurement volume, availability record or security accreditation is given.
+
+Parliament's own systems entered the record for the first time, and only as a purchase order: on 5 August the United Nations development programme [opened a tender to supply IT equipment for the National Assembly's SIPOP system](https://www.developmentaid.org/tenders/view/1695673/acquisition-dequipements-informatiques-sipop). What that system does, what it costs and when it runs are all absent from the notice, which is the whole of what the base holds on it.
 <!-- /narrative -->
 ### National statistics
 

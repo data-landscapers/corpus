@@ -3,18 +3,18 @@ title: Tanzania — progress report, 2025-08-01 to 2026-08-17
 compiled: 2026-08-17
 period: 2025-08-01 to 2026-08-17
 place: TZA
-ledger_rows: 120
+ledger_rows: 122
 not_held: 13
-record: 2ef35c65c4a5
+record: 9e0c74100844
 ---
 
 # Tanzania: progress report, 2025-08-01 to 2026-08-17
 
 *Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 120 systems and instruments on this place's ledger, 59 changed position between 2025-08-01 and 2026-08-17, 19 did not, 29 carry no stated baseline, and 13 are ***Not held*** at both ends.*
+*Of 122 systems and instruments on this place's ledger, 59 changed position between 2025-08-01 and 2026-08-17, 19 did not, 31 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 146 sources for this place in the window — 34 in the earlier half (2025-08 to 2026-02), 112 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 148 sources for this place in the window — 34 in the earlier half (2025-08 to 2026-02), 114 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -56,6 +56,7 @@ Two positions worsened on their own measures: [smartphone users fell from 29.8m 
 | National data centres at Dodoma and Zanzibar | Feasibility studies completed, construction supported from the 2025/26 backbone allocation | [Both named as live government investment, with a parliamentary committee urging a TZS 100bn upgrade in the 2026/27 budget](https://cioafrica.co/liquid-tanzania-government-align-on-digital-transformation-agenda/) | Advanced |
 | Public data centres commissioned | One (2021-03); no 2025-08 count held | [Four](https://dailynews.co.tz/communications-sector-surges-400pc/) | Advanced |
 | Mbezi Tier III data centre, second phase | A US$50m Tier III facility, 80 new high-density racks for a total of 110, interconnections to thirteen operators | [Unchanged; no further phase, rack addition or utilisation figure is held](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-digital-shift-gathers-pace-with-50-million-data-centre-4970620) | No change |
+| Commercial data-centre estate | Baseline not held | [Ten data centres in Dar es Salaam and one in Dodoma, operated by six carriers (2026-08); no capacity, load or utilisation figure accompanies the count](https://african.business/2026/08/free-article/tanzanias-digital-dividend) | ***Baseline not held*** |
 | Raxio Tanzania data centre | ***Baseline not held*** | [Under development, with group committed capital raised from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/) | ***Baseline not held*** |
 
 ### Technical Capacity
@@ -155,6 +156,7 @@ Three positions did not move at all: the Mbezi data centre, unchanged since Marc
 |---|---|---|---|
 | Sovereign Yield Curve system | ***Baseline not held*** | [In service, letting investors track secondary-market government-security returns against domestic and international alternatives before investing; retail participation stands at 32,631 investors against 897 in 2016](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792) | Advanced |
 | GovTech maturity classification | Top group, 26th globally on the 2022 edition, up from 90th in 2021 | [Top group for extensive maturity, second in Africa and leading East Africa](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-joins-global-leaders-in-digital-government-5325056) | No change, tier retained |
+| East African digital public infrastructure project pipeline | Baseline not held | [German-funded consultancy tendered to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda, covering digital identity, data exchange, payments and e-government; value, duration and selected consultant not stated](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) | ***Baseline not held*** |
 | Public institutions connected under the digital economy framework | ***Baseline not held*** | [660 public institutions connected against a target of 900, with 758 towers on and 304 upgraded](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | ***Baseline not held*** |
 
 ### Digitalisation of sub-national government
