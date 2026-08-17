@@ -62,12 +62,12 @@ On 25 July the central bank's expected banknote replacement cost for 2026 was re
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-About 8,000 landlords were registered for rental income tax.
+[About 8,000 landlords were registered for rental income tax](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-The Electronic Invoicing System reached 8,552 registered taxpayers by 20 July.
+The Electronic Invoicing System [reached 8,552 registered taxpayers by 20 July](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
