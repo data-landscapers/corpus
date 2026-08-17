@@ -1,15 +1,17 @@
 ---
 title: Digital Payments and Fintech — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: dpi.pay
 places: DZA; AGO; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: f9fb94240204
+record: ecf4836ce8ca
 ---
 
 # Digital Payments and Fintech: monthly update, July 2026
 
 *42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -146,6 +148,12 @@ On 29 July the higher education minister said the grants agency reform consists 
 Payments produced real-time reporting of every licensed bureau's FX purchases from 15 July.
 
 On 2 August an account of African corporate venture capital recorded that [tier-one Nigerian banks hold payments infrastructure inside the group rather than at arm's length](https://techtrends.africa/the-rise-of-african-corporate-venture-capital/), and that the central bank has begun regulating fintech ownership as well as conduct. The base carries no earlier statement of the ownership position, so no change can be stated.
+
+The central bank then set out what it wants that infrastructure to look like. A circular [imposes market-structure caps of 25% on card issuing and 15% on acquiring, mandatory localisation of payment data by 1 January 2027, and disclosure of ultimate beneficial owners](https://businessday.ng/news/legal-business/article/the-central-bank-of-nigerias-new-payments-system-circular-what-banks-fintechs-and-investors-need-to-know/) on banks, fintechs and payment service providers, against [an estimated US$850m a year spent on offshore hosting and about 90% of Nigerian payment data currently held abroad](https://businessday.ng/news/legal-business/article/the-central-bank-of-nigerias-new-payments-system-circular-what-banks-fintechs-and-investors-need-to-know/). Those figures are the analysing firm's estimates and the circular text itself is not held.
+
+Three admission gates opened alongside it. The central bank [opened a second sandbox cohort to virtual-asset and data-enabled firms, applications running 12 to 31 August, and chairs a new Virtual Asset Council with the securities regulator and the revenue service](https://techcabal.com/2026/08/12/cbn-sandbox-for-vasps-fintechs/), against an estimated US$92.1bn transacted in cryptocurrency by Nigerians between July 2024 and June 2025; the securities regulator [admitted two further firms to its incubation programme, taking it to 12 since July](https://techcabal.com/2026/08/14/sec-expands-sandbox-to-yellow-card-blockchain/). Neither publishes a graduation route or licensing outcome. The regulated naira stablecoin [went live on a public blockchain on 12 August](https://techafricanews.com/2026/08/12/nigerias-cngn-stablecoin-goes-live-on-celo-blockchain/), with no supply, holder count or reserve attestation published.
+
+Taxation moved in the other direction. Peer-to-peer and over-the-counter traders [warned on 14 August that the 1.5% virtual-asset stamp duty and the taxes beside it could push activity into unregulated channels](https://techcabal.com/2026/08/14/nigeria-tax-rules-crypto-traders/), the rules having been signed on 31 July. Separately the Lagos State revenue service is [testing whether creator-economy platform payouts are royalties subject to 5% withholding tax, pressing two named platforms to deduct at source](https://techcabal.com/2026/08/14/nigeria-creator-economy-tax/) under the 2025 tax act — the same authority's earlier attempt to make a ride-hailing platform a collection agent being the precedent. No assessment, ruling or judgment is published in either matter.
 
 ## Rwanda
 

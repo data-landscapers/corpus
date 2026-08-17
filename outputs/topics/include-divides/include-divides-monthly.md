@@ -1,19 +1,21 @@
 ---
 title: Digital divides — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: include.divides
 places: AGO; BWA; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NGA; UGA; ZWE
-record: 4706e6e7297f
+record: 177e25b92e4c
 ---
 
 # Digital divides: monthly update, July 2026
 
 *13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Angola
 
-Satellite-based inclusion produced two counts eight days apart on different bases: 20,000 students across six universities and more than 300 localities on 13 July, and 3,972 students at two Luanda schools connected by satellite and white-space on 14 July.
+Satellite-based inclusion produced two counts eight days apart on different bases: [20,000 students across six universities and more than 300 localities on 13 July](https://angop.ao/noticias/economia/vinte-mil-estudantes-beneficiam-do-projecto-conecta-angola/), and [3,972 students at two Luanda schools connected by satellite and white-space on 14 July](https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project).
 
 ## Botswana
 
@@ -21,7 +23,7 @@ Two school digital centres were handed over in the North West District on 22 and
 
 ## DR Congo
 
-This is the month's clearest movement with both ends dated. The universal service fund [signed subsidy conventions with four operators on 8 August for a first tranche of 40 localities, about 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites), against a national diagnostic published the day before finding nearly 3,000 uncovered localities — about 4.3m people — and coverage of 77% 2G, 68% 3G and 57% 4G. A [second phase of 300 sites is planned, with a 2030 target of 3,000 localities and 100 digital community centres](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites). An unfunded fund at the window's start, a first funded tranche at its end; no per-locality budget or fund appropriation figure is held.
+This is the month's clearest movement with both ends dated. The universal service fund [signed subsidy conventions with four operators on 8 August for a first tranche of 40 localities, about 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites), against a national diagnostic published the day before finding nearly 3,000 uncovered localities — about 4.3m people — and coverage of 77% 2G, 68% 3G and 57% 4G. A [second phase of 300 sites is planned, with a 2030 target of 3,000 localities and 100 digital community centres](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites). An unfunded fund at the window's start, a first funded tranche at its end; no per-locality budget or fund appropriation figure is held. The diagnostic's own spread is wide: [coverage runs from about 98% in Kinshasa to 14% in Tshuapa and 28% in each of Kwango and Sud-Ubangi](https://techafricanews.com/2026/08/14/dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas/), and the fund is [drafting a national strategy that prioritises investment by coverage gap, population, economic activity, public infrastructure and geography, naming the Lobito, National and Peace corridors as its three strategic routes and shared passive infrastructure as its approach](https://techafricanews.com/2026/08/14/dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas/). No adoption date, budget or target is published for it.
 
 ## Egypt
 

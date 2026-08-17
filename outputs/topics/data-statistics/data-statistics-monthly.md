@@ -1,15 +1,17 @@
 ---
 title: National statistics — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: data.statistics
 places: AGO; BEN; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SSD; TUN; UGA; ZWE
-record: 55d1d264afdd
+record: cfc984816129
 ---
 
 # National statistics: monthly update, July 2026
 
 *29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 

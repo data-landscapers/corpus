@@ -1,15 +1,17 @@
 ---
 title: ICT Industry — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: tech.industry
-places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; LBR; MUS; NGA; RWA; TGO; ZMB; ZWE
-record: f1084b664dd0
+places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; LBR; MUS; NGA; RWA; ZAF; TGO; ZMB; ZWE
+record: 98a70b9098e6
 ---
 
 # ICT Industry: monthly update, July 2026
 
-*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -82,6 +84,10 @@ Two of five commercial developments this month, neither regulatory: an enterpris
 ## Rwanda
 
 The information and communication sector [employed 19,000 workers in the second quarter of 2026 against about 12,000 a year earlier](https://www.ktpress.rw/2026/07/why-tech-is-rwandas-fastest-growing-source-of-new-jobs/) — up 62.6% against 2.7% economy-wide, and still about 0.4% of total employment, against a sector target of 50,000 digital jobs by 2029.
+
+## South Africa
+
+The sector's transformation body lost its chair. The communications minister [replaced the B-BBEE ICT Sector Council's chairperson and appointed an interim chair for six months](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL) on 14 August, after a departmental investigation found the council dysfunctional. The investigation report is not published, and no remedial plan, terms of reference for the interim period or date for a permanent appointment is stated.
 
 ## Togo
 

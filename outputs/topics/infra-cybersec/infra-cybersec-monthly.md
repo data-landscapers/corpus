@@ -1,29 +1,33 @@
 ---
 title: Cybersecurity — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: infra.cybersec
-places: AGO; BFA; BDI; CMR; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 48055077a117
+places: AGO; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 518caf2f9bad
 ---
 
 # Cybersecurity: monthly update, July 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
-The incumbent operator's mobile voice, data and internet services failed nationwide from 02:20 on 28 July, affecting more than twenty million customers; fixed fibre and fixed-wireless stayed up throughout, so the failure was confined to the mobile layer. Restoration ran four days — localised from 11:45 on 29 July, full second- and third-generation national coverage at about 23:00 on 30 July, and [messaging and electronic airtime sales back on 31 July](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/). Four days in, card terminals were still unreliable in Luanda shops and filling stations. No attribution, access vector or scope of data loss is established.
+The incumbent operator's mobile voice, data and internet services failed nationwide from 02:20 on 28 July, affecting more than twenty million customers; fixed fibre and fixed-wireless stayed up throughout, so the failure was confined to the mobile layer. The network itself came back over four days — localised from 11:45 on 29 July, full second- and third-generation national coverage at about 23:00 on 30 July, and [messaging and electronic airtime sales back on 31 July](https://angop.ao/noticias/economia/unitel-recupera-servicos-de-mensagens-e-venda-de-recargas/). The services running on it took nine: the operator dates [voice, messaging, mobile data, internet access and the third-party services carried over its network to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/), and gives the same close in [its own market update](https://techafricanews.com/2026/08/06/unitel-restores-core-services-after-nationwide-cyberattack/). Four days in, [card terminals were unreliable in Luanda shops and at filling stations and citizens were queueing at the ATMs for cash](https://jornaloguardiao.com/2026/07/31/ciberataque-a-unitel-mantem-impacto-nos-pagamentos-e-provoca-corrida-aos-atm-em-luanda/); a week in, [the cardless payment app was still unusable and Luanda bank branches were queueing one to two hours](https://www.verangola.net/va/en/082026/Telecommunications/49721/Attack-on-Unitel-continues-to-affect-business-and-debt-settlement-in-Luanda.htm). No attribution, access vector or scope of data loss is established.
 
 The aftermath produced the first public pressure for rules rather than repair: customers and security practitioners [called for mandatory incident-reporting obligations and a national computer security incident response team](https://angop.ao/noticias/tecnologia/clientes-advogam-mecanismos-mais-robustos-para-prevenir-crimes-ciberneticos/), small businesses describing lost sales and failed card payments across the disruption. Angola has neither: the base holds no CSIRT and no reporting duty, and the critical national infrastructure designation that would carry one is itself ***Not held***.
 
 The Executive's first answer to the National Assembly on critical-infrastructure risk, given on 31 July, was the standing build programme — the national data centre and the country-code domain — with no new measure, obligation or timetable announced. Telecommunications remains undesignated as critical national infrastructure, and named analysts argued during the month that it should be designated alongside power and water.
 
-A regional preparatory meeting on radiocommunications opened in Luanda on 3 August, five days into the outage, with the resilience of telecommunications infrastructure on its agenda.
+A regional preparatory meeting on radiocommunications opened in Luanda on 3 August, seven days into the outage and two before it closed, with the resilience of telecommunications infrastructure on its agenda.
 
 ## Burkina Faso
 
 The Council of Ministers of 30 July [adopted two decrees applying the 2024 information-systems security law](https://burkina24.com/wp-content/uploads/2026/07/CONSEIL-DES-MINISTRES-N%C2%B025-DU-30-JUILLET-2026.pdf): one identifying, classifying and setting obligations for critical-infrastructure bodies, expressly spanning energy, water, health, telecommunications and finance, and one fixing periodic security audits and vesting auditor accreditation in the national cyberspace control body. The law had asserted both duties since July 2024 with no machinery attached.
+
+The building meant to carry the supervision got its first progress statement in seven months. The digital transition minister [inspected the site on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/), where the technical managers put physical execution across that worksite and the first citizen service centre together at about 20%; the account names the build the Centre d'opération du Réseau Backbone national and gives it the same supervisory function the January account gave the supervision centre. The stated delivery month is October 2026.
 
 ## Burundi
 
@@ -32,6 +36,10 @@ EAC central bank governors, meeting in July 2026 as the Monetary Affairs Committ
 ## Cameroon
 
 A [fourth loan tranche of FCFA 39.2bn for intelligent urban video surveillance was authorised by decree](https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveillance-urbaine/), bringing FCFA 150.8bn mobilised over eight years across three Chinese lenders. The first phase's borrower was the defence ministry, and the two accounts held give different amounts and dates for it. No camera count, coverage area, retention rule or oversight arrangement is published for any tranche.
+
+## Cape Verde
+
+The surveillance programme moved to a third phase on foreign money. China [made about EUR 9.3m available as non-reimbursable assistance for phase three of the Cidade Segura project](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/), the implementation agreement signed in the week to 15 August by the interior minister and the Chinese ambassador at the National Police Command Centre in Praia, and stated as reinforcing the technological and operational capacity of the security forces and supporting criminal investigation. [Phase three covers command centres, data centres and wireless base stations at Assomada, Tarrafal de Santiago and Porto Novo, and expanded video surveillance in Praia and Mindelo](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/). No camera count, retention rule, data-protection authorisation or oversight arrangement is published for this phase or the two before it.
 
 ## Congo
 
@@ -67,9 +75,15 @@ On 30 July the SADC Committee of Central Bank Governors subcommittee on banking 
 
 The utility [restored billing and payment in Libreville and seven interior centres after the attack that took down 95% of its systems](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/), describing its network on 4 August as healthy, secured and protected by reinforced measures, with restoration continuing elsewhere. The account is the company's own, the attackers are described as unidentified, and no forensic, criminal or damage-cost report is on file.
 
+An audit that was signed in May reported in August. The state digital agency [delivered its information-systems audit findings to the health insurance fund on 12 August](https://www.gabonreview.com/aninf-cnamgs-le-partenariat-numerique-entre-dans-sa-phase-concrete/), three months after the two signed the memorandum, naming human resources, data and infrastructure as the three pillars of the fund's technology roadmap. The findings themselves are not published, and no remediation plan, timetable or cost is stated.
+
 ## Ghana
 
 A community-media cyber capability project launched on 3 August, certifying community-radio journalists into a standing press corps.
+
+The Cybersecurity Act's licensing regime produced its first published penalties. The Cyber Security Authority [fined the Office of the Registrar of Companies and Purpleline Solutions a combined GH¢360,000 for breaching the Act's licensing requirements](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html) on 13 August — [GH¢240,000 against the Registrar in two penalties of GH¢120,000 for engaging an unlicensed cybersecurity service provider, and GH¢120,000 against the provider for operating without a licence](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html). One of the two penalised bodies is itself a state registry. The base holds no prior published penalty under the Act.
+
+The regulator also [held a two-day consultative and validation workshop with UNICEF Ghana on online child sexual exploitation and abuse](https://techafricanews.com/2026/08/13/ghana-strengthens-online-child-protection-with-csa-unicef-initiative/), reviewing the national response and naming coordination and frontline-capacity gaps; no instrument or programme follows from it on the record.
 
 ## Guinea
 
@@ -78,6 +92,8 @@ The cybersecurity statute of 2016 is held and cannot be read: the agency [publis
 ## Kenya
 
 The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and restored on 20 July](https://itweb.africa/article/kenya-restores-presidential-website-after-cyber-attack/Gb3Bw7WadxLq2k6V) — the second compromise of that portal in eight months. State House says no evidence of data access was found; cause and attribution are undisclosed.
+
+A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
 
 ## Lesotho
 
@@ -90,6 +106,8 @@ The Cybercrime Act 2025 [had still not received presidential signature as of 1 J
 ## Libya
 
 The central bank [isolated its systems in June and a sample of bank data was later published on a dark-web site](https://alwasat.ly/news/libya/520951). No attribution, forensic account, scope of loss or restoration statement is held.
+
+The interior ministry answered with an agreement rather than an instrument. It [signed a technical cooperation agreement with the national telecommunications company on 12 August](https://www.eanlibya.com/%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%a8%d8%b1%d8%a7%d8%ac-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84/) covering digital transformation, cybersecurity and telecommunications infrastructure, including shared platforms, installation of towers and equipment at ministry sites, and technical support. No value, duration or delivery date is published.
 
 ## Mali
 
@@ -162,6 +180,8 @@ The national cybersecurity agency [warned on 30 July 2026 of an SMS phishing cam
 The ICT ministry [launched an updated national information security framework on 16 July](https://itweb.africa/article/uganda-launches-updated-cybersecurity-framework/LPwQ57lboKAqNgkj), developed under the Uganda Digital Acceleration Project and setting minimum controls for government institutions, citing a 60% year-on-year rise in attacks including a UGX 62bn central-bank incident. The framework document itself is not published.
 
 On 17 July the regulator opened work on a [national anti-piracy coordination framework](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/) with broadcasters, three mobile operators, the revenue authority and the registration bureau. Legitimate pay-television subscriptions were given as about 800,000 in March 2026 against about 1.65 million in 2021. Dynamic address and name-resolution blocking is under exploration, and participants at the convening raised the dual use of blocking infrastructure built for piracy.
+
+Two accounts in August put the threat above the response. A continental police assessment [attributes over US$2m of losses to a single Ugandan deepfake investment scam](https://techcabal.com/2026/08/13/africa-cybercriminals-adopting-ai-institutions-them/), against 8% of intelligence analysts recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools. At the communications regulator's first national cybersecurity conference on 13 August, an operator [called for fraud protection to be built into digital-finance products and described an interface letting banks check for recent SIM-swap activity before processing a transaction](https://techafricanews.com/2026/08/13/airtel-urges-ugandas-digital-finance-sector-to-build-fraud-protection-into-products/); no uptake figure for the interface is published. The central bank separately told a conference that [cybersecurity is now a national security issue](https://www.newvision.co.ug/category/news/cybersecurity-now-a-national-security-issue-s-NV_238608_082026).
 
 ## Zambia
 

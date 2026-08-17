@@ -1,15 +1,17 @@
 ---
 title: Other GovTech and e-Gov — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: dpi.govtech
 places: DZA; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; DJI; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f0e35e1f9d38
+record: 1b8aeba521a3
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
 
 *45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -61,6 +63,8 @@ On 2 August 2026 the Secrétariat général du Gouvernement and UNDP [signed a l
 
 Two further services opened: the Public Prosecution began returning, through the national digital identity system, criminal judgments registered against an enquirer's own national number, and digital visa-on-arrival began at Cairo International on 1 August, with an issuance fee charged on top of the visa fee.
 
+The judiciary signed for a platform of its own. On 11 August the justice minister and the heads of every judicial body [signed a Unified Digital Justice Strategy and launched a shared judicial-data platform](https://gate.ahram.org.eg/News/5887141.aspx), built with a foreign vendor and set out in three phases covering remote litigation, cybersecurity and artificial-intelligence-enabled services. No text, timetable, budget or data-protection arrangement is published, and the vendor's contract value and procurement route are not stated. The [unified government services card, integrating food-subsidy and civil-service delivery into one platform, was reviewed by the supply and communications ministers the day before](https://itweb.africa/article/egypt-accelerates-govt-digitisation-push/JBwErvn3WDP76Db2), on database sharing and technical integration.
+
 ## Equatorial Guinea
 
 The Comité Nacional de la Cuenta Única del Tesoro, chaired by the prime minister, [approved a work programme and institutional roadmap](https://www.guineaecuatorialpress.com/noticias/el_gobierno_impulsa_la_implementacion_de_la_cuenta_unica_del_tesoro) at the Presidency on 5 August 2026. The general census of all state bank accounts is complete; the new financial-management model will be built on AMS/X and SINTAG, both already used by the BEAC, interconnected with the Treasury's public-finance systems; and implementation runs in five phases with entry into production in the first quarter of 2027. No cost, implementing agency or supplier is stated.
@@ -69,11 +73,11 @@ A GITGE study of the ministries, [reported on 2 July](https://ecofinge.com/un-es
 
 ## Ethiopia
 
-The unified public-service platform launched with [185 services against 41 across twelve federal agencies a year earlier](https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation), anchored on the national identity credential. Its own regional executives say [services are being onboarded before the systems beneath them are digitised](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), that two incompatible integration models have emerged, that no legal framework compels an institution to digitise before joining, and that the platform ran close to a year with no dedicated regulatory framework. Separately the Auditor General's annual report, presented on 6 July, [credits electronic procurement with the decline in cash shortages across 163 audited federal institutions](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) while finding budget-execution gaps, billions of Birr uncollected and repeated financial-rule violations alongside the digital adoption. No Birr amount is attached to the credit, and the report itself is not held.
+The unified public-service platform launched with [185 services against 41 across twelve federal agencies a year earlier](https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation), anchored on the national identity credential. An account of 13 August puts the platform at [more than 2,200 services](https://www.biometricupdate.com/202608/benin-draws-lessons-from-ethiopia-to-shape-its-dpi-development-roadmap), on the occasion of a Beninese benchmarking visit; the base cannot reconcile that with the launch count two months earlier and the two may rest on different counting bases. Its own regional executives say [services are being onboarded before the systems beneath them are digitised](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), that two incompatible integration models have emerged, that no legal framework compels an institution to digitise before joining, and that the platform ran close to a year with no dedicated regulatory framework. Separately the Auditor General's annual report, presented on 6 July, [credits electronic procurement with the decline in cash shortages across 163 audited federal institutions](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) while finding budget-execution gaps, billions of Birr uncollected and repeated financial-rule violations alongside the digital adoption. No Birr amount is attached to the credit, and the report itself is not held.
 
 ## Gabon
 
-On 2 August the border agency's tourist electronic visa platform, developed in 2025, was presented to the travel trade ([account](https://www.gabonreview.com/supprimer-les-barrieres-administratives-le-pari-du-e-visa-touristique-gabonais/)). The administration.ga portal, also dated within the window, has no drafted narrative yet.
+On 2 August the border agency's tourist electronic visa platform, developed in 2025, was presented to the travel trade ([account](https://www.gabonreview.com/supprimer-les-barrieres-administratives-le-pari-du-e-visa-touristique-gabonais/)). A second platform was shown rather than launched: administration.ga was [presented to the Vice-President as an integrated suite for secure messaging, meeting management and the exchange of confidential documents between civil servants, built with a Gabonese start-up, with the state holding the source code at no cost](https://gabonmediatime.com/gabon-le-gouvernement-sassocie-au-cgi-pour-la-mise-en-place-de-la-plateforme-administration-ga/). No contract, cost, timetable or hosting arrangement is stated.
 
 ## Gambia
 
@@ -101,7 +105,9 @@ At the CSIRT launch the ministry also stated a plan to move ICT services out of 
 
 ## Liberia
 
-The e-procurement platform published its first operating figures on 5 August: [more than 1,200 vendors registered and more than US$400,000 in revenue generated](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/). No contract value transacted, tender count, bidder numbers or share of government procurement passing through the platform is given. Two days later it became an export: Sierra Leone's procurement authority [sent a delegation to Monrovia on 6-7 August to study the implementation](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html), where the executive director dated the national launch to February 2025 after a six-institution pilot and credited the African Development Bank and the World Bank with the backing behind it.
+The e-procurement platform published its first operating figures on 5 August: [more than 1,200 vendors registered and more than US$400,000 in revenue generated](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/). No contract value transacted, tender count, bidder numbers or share of government procurement passing through the platform is given. Two days later it became an export: Sierra Leone's procurement authority [sent a delegation to Monrovia on 6-7 August to study the implementation](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html), where the executive director dated the national launch to February 2025 after a six-institution pilot and credited the African Development Bank and the World Bank with the backing behind it. A later account of the same visit [records the telecommunications regulator receiving equipment to strengthen its own use of the platform](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), framed as deepening bilateral cooperation on digital transformation and procurement transparency.
+
+Licensing moved off paper in the same week. The telecommunications regulator [rolled out an automated telecom licensing and renewal platform](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), letting applicants apply and renew online while keeping in-person service available. No licence count, processing time or fee schedule is published.
 
 ## Libya
 
@@ -177,7 +183,7 @@ Vice-President Ahmed Afif [announced an eight-week automated traffic-enforcement
 
 ## Sierra Leone
 
-The National Public Procurement Authority [sent a delegation to Liberia on 6-7 August to study that country's electronic government procurement system](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html). No Sierra Leonean platform, procurement decision or timetable follows from it on the record.
+The National Public Procurement Authority [sent a delegation to Liberia on 6-7 August to study that country's electronic government procurement system](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html). No Sierra Leonean platform, procurement decision or timetable follows from it on the record. The visit was reported on 12 August as [a deepening of bilateral cooperation between the two countries' regulators and procurement authorities on digital transformation and procurement transparency](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), which restates the same event rather than adding a commitment.
 
 ## Somalia
 
@@ -195,7 +201,7 @@ On 20 July revised fees were [published on the electronic visa portal](https://t
 
 ## Sudan
 
-[Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed.
+[Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed. A second procurement system entered service: [Nazaha, a national digital public-procurement and contracting platform, was launched and stated as aimed at transparency and fair competition in the allocation of government contracts](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) (12 August). No coverage, entity count, procurement value or mandatory-use instrument is published for it.
 
 ## Tanzania
 
@@ -212,6 +218,8 @@ Two more registers moved. The employment ministry [launched the national registe
 ## Uganda
 
 Electronic government procurement reached [136 entities onboarded with version 2.0 in service, verifying suppliers automatically against the revenue, registration, identity and social-security registers](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026), and training opened for a further 100 entities on 3 August. An onboarded entity no longer advertises tenders in newspapers and may transact only with registered providers. Onboarding is stated to continue each financial year until all of government is on the system.
+
+Two further e-services launched on 12 August under the same government network programme: [a teacher-training platform with more than 6,600 teachers enrolled, and a case-management system for the Human Rights Commission](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/). Neither carries a published retention rule or data-protection assessment, which is the sharper omission for a system holding complaint records.
 
 ## Zambia
 

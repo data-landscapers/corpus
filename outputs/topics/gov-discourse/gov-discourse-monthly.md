@@ -1,15 +1,17 @@
 ---
 title: Public debate and participation in policymaking — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: gov.discourse
 places: BEN; BFA; BDI; TCD; CIV; COD; EGY; GAB; GIN; LBR; MLI; MUS; RWA; STP; SEN; UGA; ZMB
-record: c4b63d8bcd65
+record: 19f60dd7e468
 ---
 
 # Public debate and participation in policymaking: monthly update, July 2026
 
 *17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 

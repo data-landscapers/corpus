@@ -1,21 +1,23 @@
 ---
 title: AI — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: tech.ai
 places: DZA; AGO; BFA; BDI; CMR; CPV; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 37a587b1a9a1
+record: 7a1b30fb177b
 ---
 
 # AI: monthly update, July 2026
 
 *37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Algeria
 
 On 25 July the Higher Education Minister announced that from the 2026–2027 academic year each student's learning pathway will be steered by an intelligent assistant matching modules to competences and career goals, alongside a large language model for lecturers that generates teaching material and [marks student answers](https://www.echoroukonline.com/إطلاق-المسار-التعليمي-الشخصي-للطالب-ب). No appeal route, accuracy claim, disclosure duty or human-review threshold is reported. The figures given alongside are the minister's own, delivered in a speech, and none is independently sourced.
 
-Nothing moved on the National AI Strategy or the ethical-AI law in July.
+The strategy itself moved in August rather than July. A [joint inter-ministerial roadmap was agreed to deploy artificial intelligence across public services, prioritising sovereign open-source models, high-performance computing centres, national data storage and stronger safeguards for public-sector applications](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), reported on 12 August by the higher education minister, with intensive university training programmes, a dedicated research centre and specialised research units, and a joint monitoring committee established to oversee delivery against a stated timeline. The strategy text is still not published and the ethical-AI law has not moved.
 
 Three external events are dated in the month and moved nothing. The Post and Telecommunications Minister told the inaugural [UN Global Dialogue on AI Governance](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) in Geneva on 6 July that global governance should move from principles to technology transfer and capacity building. Smart Africa's chief executive met him on [13 July](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration; no agreement or commitment is reported. Algérie Télécom received a [WSIS Forum certificate of appreciation](https://www.echoroukonline.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC) on 9 July. The award is a certificate of appreciation; the ministry described it as confirmation of Algeria's standing.
 
@@ -101,6 +103,8 @@ The draft AI policy was published for comment on 21 July and comment closed on 4
 
 An analysis published on 23 July recorded that the National AI Strategy, costed at KSh 152bn over five years, [carries no dedicated allocation in the 2026/27 budget](https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/). On 28 July the government and the UN development programme agreed progress on a national AI computing platform; no GPU count, cost or commissioning date was published. Kenya was named on 31 July as one of five governments launching a pooled African-language AI initiative.
 
+The draft then drew its first substantive submission, and a headline figure. A civil-society organisation [urged institutional independence for the proposed AI council and mandatory human-rights impact assessments](https://cipesa.org/2026/08/cipesa-urges-kenya-to-align-and-strengthen-its-draft-ai-policy/) on 14 August, with the draft reported as nearing Cabinet consideration. Alongside it, a commercial data compiler's mid-year update [put 97.5% of Kenya's online adults using an artificial-intelligence tool monthly, first globally, ahead of the United Arab Emirates at 94.2% and Indonesia at 93.6%](https://www.itweb.africa/article/kenya-tops-global-ai-usage-rankings/5yONP7Ero1NMXWrb). It is a self-reported survey of online adults rather than a population measure.
+
 ## Lesotho
 
 The same Econet-UNDP memorandum establishes a National AI Academy, with nothing naming a timetable, governance structure, curriculum or host institution for it. Econet Group separately states an agreement with NVIDIA for African AI compute capacity; nothing on file corroborates it and no capacity figure or siting is given.
@@ -131,7 +135,7 @@ On 24 July the Defence Minister stated that the Malawi Defence Force intends to 
 
 On 1 August the Semaine du Numerique [recommended a national AI strategy](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), which Mali does not have, alongside an AES protocol on AI governance. The [Centre d'intelligence artificielle et de robotique closed the week with a demonstration of a locally built intrusion-detection technology](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0).
 
-The Francophone West African AI governance guidelines have no drafted narrative yet.
+Mali joined a regional framework rather than making one. Six francophone West African states [adopted common artificial-intelligence governance guidelines on 9 July, led by an advocacy organisation and announced at the Global Dialogue on AI Governance](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). The guidelines are non-binding and no Malian implementing instrument follows from them on the record.
 
 ## Mauritius
 
@@ -153,6 +157,8 @@ On 28 July the communications minister told the same banking and finance confere
 
 Nothing moved on the national AI policy, the risk-based regime inside the digital-economy bill, or the surveillance estate.
 
+The activity was at the state level and abroad. Anambra State [set out a Vision 2030 push on artificial intelligence and paperless government that its own ICT agency says is constrained by weak connectivity and computing capacity](https://www.itweb.africa/article/anambras-2030-ai-push-faces-connectivity-test/RgeVDvPRkVaMKJN3), with no budget, procurement, delivery date or named system published. The federal IT agency [signed two memoranda in Toronto with Canadian firms on financial inclusion, local AI infrastructure, technology transfer and digital skills](https://www.wearetech.africa/fr/fils/actualites/tech/le-nigeria-s-engage-avec-deux-entreprises-canadiennes-pour-renforcer-l-ia-et-la-finance-numerique), and separately [pushed a National Sovereign Cloud initiative against a stated position in which over 85% of workloads run on public cloud largely hosted abroad](https://punchng.com/nigeria-seeks-local-cloud-capacity-to-cut-data-costs/). None of the three carries a value, a timetable or a delivery commitment.
+
 ## Rwanda
 
 Rwanda and a North African state signed an artificial-intelligence and digital-transformation memorandum on 10 July, with no funding, deliverable or timeline stated. The head of state was confirmed on 3 July as co-chair of an international commission on artificial intelligence, with no national work programme attached to the seat.
@@ -161,7 +167,7 @@ At the internet governance forum on 30 July a ministry official said artificial 
 
 ## Senegal
 
-A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The Senegal AI Factory has no drafted narrative yet.
+A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The state's own AI build was presented abroad rather than at home: the Senegal AI Factory was [set out to an international AI-process meeting in Tokyo as the main component of the Senegal Digital Factory under the technology strategy's eighth priority programme, covering national AI capability, startups, applied research and training](https://www.pressafrik.com/New-Deal-Technologique-le-Senegal-devoile-la-Senegal-AI-Factory-devant-la-communaute-internationale-a-Tokyo_a309281.html), with no launch date, budget, compute location or partner commitment stated.
 
 ## Seychelles
 
@@ -178,6 +184,8 @@ The Somali National University [launched an AI centre on 20 July](https://techaf
 ## South Africa
 
 The Labour Court [stayed disciplinary proceedings](https://www.itweb.co.za/article/ai-hallucinations-strike-again-at-sa-courts/Pero3qZ31oGvQb6m) against three municipal employees on prima facie evidence that a ruling relied on authorities that do not exist. SARS disclosed that [100% of verification cases and 88.41% of complex audits](https://techcabal.com/2026/07/27/ai-south-africas-taxman/) are selected by automated risk assessment. Huawei reported [1,400 local partners accounting for 94.7% of its local revenue](https://techafricanews.com/2026/07/27/huawei-calls-for-stronger-digital-infrastructure-to-scale-ai-in-south-africa/) at its Sandton partner event, where South Africa's founding membership of the China-led World AI Cooperation Organisation was noted; the figures are company-reported.
+
+The measured incidence of AI-enabled harm remains low and the reason is contested. An analysis of an incident database published on 14 August [links South Africa to 12 of more than 1,600 recorded global cases through April 2026](https://www.itweb.co.za/article/south-africans-street-smarts-blunt-ai-enabled-fraud/lwrKx73Y14kqmg1o), attributing the low count to public wariness rather than to strong defences, against deepfake, fabricated-citation and biometric-verification incidents already on record. It is a count of *recorded* cases, and no national reporting duty exists that would make the denominator meaningful.
 
 ## Tanzania
 

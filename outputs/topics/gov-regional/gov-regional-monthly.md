@@ -1,15 +1,17 @@
 ---
 title: Regional collaboration — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: gov.regional
 places: DZA; BEN; BWA; BDI; CAF; COM; COG; EGY; GNQ; GAB; GMB; GHA; GNB; LBR; LBY; MWI; MLI; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; TUN; UGA; ZMB; ZWE
-record: fe0b7a2edc41
+record: b02155524ca2
 ---
 
 # Regional collaboration: monthly update, July 2026
 
 *30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -95,7 +97,7 @@ Cabinet approved a memorandum on information technology cooperation with the Rep
 
 Namibia joined four other governments as a founding partner of a pan-African African-language artificial-intelligence initiative launched at a continental telecommunications conference in Abuja on 24 July ([launch account](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/)). Namibia's stated commitment is ministerial support rather than a named contribution, and the ICT minister is one of eight Africans on a 44-member international commission ([conference account](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/)).
 
-A Namibia-Botswana information and communications technology memorandum, signature announced 6 August, has no drafted narrative yet.
+A memorandum with Botswana was [announced for signature by the two ICT ministers on 6 August at Kasane](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/), extending cooperation that already covers reduced cross-border roaming charges and Namibian transit to submarine cable capacity into digital transformation, emerging technologies and cybersecurity. No term, funding, named workstream or data-governance provision is published, and the base holds the announcement rather than a signature.
 
 ## Niger
 

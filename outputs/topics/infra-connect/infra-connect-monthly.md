@@ -1,15 +1,17 @@
 ---
 title: Connectivity — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: af79d9ed992d
+record: fdf90aedb8d6
 ---
 
 # Connectivity: monthly update, July 2026
 
 *46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -19,17 +21,21 @@ On 23 July the Council of Government examined draft executive decrees renewing t
 
 ## Angola
 
-On 23 July a state-owned telecoms arm commercially launched an enterprise fifth-generation service in Cabinda at about US$20m, with a stated ambition of every provincial capital by 2027 — the operator's own figures.
+On 23 July a state-owned telecoms arm [commercially launched an enterprise fifth-generation service in Cabinda at about US$20m, with a stated ambition of every provincial capital by 2027](https://angop.ao/en/noticias/economia/filda-2026-servico-5g-empresarial-da-mercury-chega-a-provincia-de-cabinda/) — the operator's own figures.
 
 ## Botswana
 
 The [Plumtree-Bulawayo section of a regional fibre corridor went live on 6 July, carrying traffic at 800Gbps equipped on equipment rated over 10Tbps](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V), with a second phase to Livingstone due September 2026. The corridor is stated as a Botswana-Zimbabwe-Zambia route; the live section is inside Zimbabwe and no Botswana segment is dated.
+
+Domestic access moved on a much smaller scale. The backbone company [completed its 2025/26 local access projects at P43m, taking fibre to Moshupa, Ramotswa/Taung and Thamaga and connecting 191 customers — 68, 66 and 57 across the three — with 210 construction jobs](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/). The customer count is the operator's own and is a count of connections, not of premises passed.
 
 ## Burkina Faso
 
 At the Prime Minister's mid-year review of 25 July the digital ministry reported 46.7% physical execution of its 2026 objectives contract, the replacement public-administration network's architecture finalised with suppliers' bids under evaluation, and [satellite-operator admission negotiations advancing](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/); that operator remains unlicensed.
 
 The regulator ran a four-day workshop with territorial authorities from 29 June to 2 July, naming local opposition and misinformation as continuing brakes on tower rollout. At an address-protocol forum on 3 July the regulator and operators again called for a migration plan with a firm calendar; none is adopted.
+
+The month's one new external route is a proposal rather than a link. Burkinabè and Nigerian digital ministries [met in Ouagadougou on 12 August to explore connecting Nigeria's planned 90,000km open-access fibre backbone into Burkina Faso](https://www.wearetech.africa/fr/fils/actualites/tech/infrastructures-ia-et-talents-le-burkina-faso-et-le-nigeria-renforcent-leur-cooperation-numerique), alongside cooperation on artificial intelligence in local languages, digital public infrastructure, cybersecurity and skills, and [a stated aim of halving internet costs through that backbone](https://techafricanews.com/2026/08/13/nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50/). No instrument was signed and the Nigerian backbone is itself unbuilt.
 
 ## Burundi
 
@@ -57,6 +63,8 @@ Subscribers at a northern town reported [no calls, no internet and no mobile mon
 
 Comores Télécom [revised its retail fibre and mobile offer on 15 July 2026](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html), cutting the entry fibre tariff from KMF 32,500 to KMF 30,000 a month while raising the basic allowance from 800 GB to 850 GB and adding unlimited calls to fixed lines. [Director-general Ali Hadji Mmadi also announced eSIM provisioning — KMF 5,000 to migrate an existing SIM, KMF 10,000 for a new one — and two paid value-added SMS services, a pharmacy-on-duty locator and prayer-time notifications](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html). The account is the operator's own press event, and its internal dateline is inconsistent: it describes the launch as "yesterday, Monday 15 July," though 15 July 2026 fell on a Wednesday, so the date's precision is flagged uncertain.
 
+The connectivity project the agency carries reached the stage before financing. At a technical meeting on 10 August the [African Development Bank and the Multilateral Cooperation Center for Development Finance told the finance ministry they were ready to fund the feasibility studies as a grant](https://alwatwan.net/economie/connectivit%C3%A9-num%C3%A9rique-i-la-bad-et-le-mcdf-pr%C3%AAts-%C3%A0-soutenir-le-projet-comorien.html), the project covering data-centre studies and inter-island connectivity. No commitment amount, study contract or timetable is stated, so no finance record was built.
+
 ## Congo
 
 Two positions describe the same weakness from either end. The country has [relied on one submarine cable since 2012, with a switch to another announced as three weeks away after weeks of outages](https://www.connectingafrica.com/connectivity/congo-wants-to-connect-to-new-cable-amidst-wacs-failures) — six months on, no source confirms any new cable carrying traffic. Behind it, [mobile backhaul spectrum fees run at about 5% of operators' total revenue against a sub-Saharan median of 0.5%](https://techafricanews.com/2026/07/16/why-connecting-rural-congo-costs-three-times-more-than-it-should/), alongside delayed spectrum assignments and technology-neutrality restrictions. Backhaul is the default rural link where fibre does not reach, so the premium falls hardest where coverage is weakest, and no regulatory response is on file.
@@ -64,6 +72,8 @@ Two positions describe the same weakness from either end. The country has [relie
 ## Cote d'Ivoire
 
 A low-orbit satellite operator [went live by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) at XOF 28,746 a month for residential service, with hardware from XOF 148,148, on a twelve-month provisional licence reviewable on service quality. On 31 July the minister said regional satellite capacity would be routed through the universal-service bodies, with a working session on terms due the following week; no terms, tariff or timetable was stated. No 5G launch occurred against the announced July 2026 date. Ministry figures given on 13 July put telecommunications penetration above 130% of population and [about 38,000 km of optical fibre](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation).
+
+On protecting what is already laid, an operator and its vendor [completed a proof of concept in Abidjan that detects vibrations around fibre ducts and classifies them to flag third-party excavation before a cut happens](https://itweb.africa/article/mtn-is-promoting-ai-driven-fibre-cut-sensing-to-reshape-the-resilience-of-digital-infrastructure-in-africa/VgZeyqJlBLV7djX9), on trials run since 2025. The account is vendor-issued and states no commercial deployment, coverage or date.
 
 ## Djibouti
 
@@ -74,6 +84,8 @@ On 29 July the new communications minister [received Japan's ambassador and the 
 ## DR Congo
 
 Deployment of the transformation project's fibre backbone was reported to the Council on 3 August: [7,000 km laid against more than 18,500 km, leaving 11,500 km outstanding](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de) and tied to connecting 145 territories by 2030. The minister attributed the pace to budget constraints and a low disbursement rate on external financing, blamed on donor procedure.
+
+Coverage arrived from orbit before it arrived by fibre. An operator [commercially launched a satellite-to-mobile service on 14 August, the first African operator to take the technology out of testing](https://businessday.ng/technology/article/airtel-becomes-first-african-operator-to-commercially-deploy-starlink-mobile-starting-in-congo/): a compatible LTE Android handset with a clear view of the sky reaches messaging and SMS through satellites where there is no terrestrial network, with no dish, router or other equipment, and the [regulator has confirmed a phased rollout](https://numerico.cd/2026/08/14/airtel-rdc-et-starlink-rdc-a-la-conquete-des-zones-blanches/). No tariff, coverage map or subscriber figure is published, and the service is stated as designed for light data.
 
 ## Egypt
 
@@ -89,7 +101,7 @@ The Minister of Transport, Posts and New Information and Communication Technolog
 
 The same ministry published [terms of reference for a public tender](https://ahoraeg.com/politica/2026/07/29/el-gobierno-lanza-una-licitacion-publica-para-el-diagnostico-integral-del-proyecto-de-television-digital-terrestre-tdt/) on 29 July for a full technical diagnostic of existing digital terrestrial television infrastructure and its regularisation, rehabilitation, commissioning and operational transfer. It is Treasury-financed, and no contract value, tender deadline or switchover date is stated.
 
-The ministry's own July-December 2026 connectivity plan, dated from 15 July, has no drafted narrative yet.
+The ministry put a six-month connectivity plan to the Prime Minister on 15 July. It [names 2G and 4G coverage to 85% through 34 new towers in Annobón and the interior, a Roaming Cero arrangement with Cameroon, Gabon, Chad and the Central African Republic, and a national digital postcode system](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes). No budget, contract or delivery date accompanies any of the three, and the consolidated action plan they sit in was adopted on 31 July unfinanced, going first to the interministerial council and then to the Council of Ministers, which decides what is recorded and funded.
 
 ## Eritrea
 
@@ -135,8 +147,7 @@ Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.
 
 The regulator revoked [Starcell International Liberia's universal licence and spectrum authorisation with immediate effect on 22 July 2026](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license), after a 90-day suspension from 9 February during which no corrective action was taken; spectrum, numbering resources and regulatory privileges revert to the Authority. The grounds cited were failure to commence operations, unmet financial obligations and non-payment of universal access contributions.
 
-At the same 21 July event, the Posts and Telecommunications Minister [announced a second subsea cable and expanded fibre](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date, budget line or cable landing partner given for either; the LTA separately said it is reviewing a World Bank-supported report on reducing telecom costs. A separate Starlink School Connect programme, dated 17 July, has no drafted narrative yet.
-
+At the same 21 July event, the Posts and Telecommunications Minister [announced a second subsea cable and expanded fibre](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date, budget line or cable landing partner given for either; the LTA separately said it is reviewing a World Bank-supported report on reducing telecom costs.
 The Anti-Corruption Commission's 30 July complaint over the telecoms traffic-monitoring arrangement, forwarded to its investigation unit, is covered under Governance and regulation → Public debate and participation in policymaking below.
 
 ## Libya
@@ -156,6 +167,8 @@ On 23 July Yas Madagascar [ran a 5G-Advanced trial with Huawei at its Andraharo 
 The communications regulator found both mobile operators in breach of the tariff-notice requirement on 17 July 2026, for failing to publish approved tariff changes in at least two daily newspapers seven days before they took effect. Both agreed to credit customers who bought affected products between 26 June and 2 July with bundles equal to the price difference, and to submit evidence of compliance by 31 July ([regulator order](https://techafricanews.com/2026/07/17/macra-orders-airtel-malawi-and-tnm-to-compensate-customers-over-tariff-notice-breach/)). The approved price increase itself stands.
 
 The ICT minister told Parliament on 17 July that additional mobile operator licences are under consideration, and on 24 July that the President had authorised the ministry to identify an investor able to roll out a network without delay; no bid timetable, licence terms or spectrum allocation was stated. The minister also told the House that spectrum licence fees had been reduced by 50%, against the 20% the regulator announced in June 2025 ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
+
+The gap the licensing round is meant to close acquired figures in August. An industry association report published ahead of its Malawi summit on 20 August [puts fourth-generation coverage at 87% of the population against mobile-internet penetration of 12.5%, with mobile-money adoption described as near universal, and scores Malawi 36 of 100 on its digital nations and society index and 55 of 100 on policy and regulation](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/). These are the association's own index and figures; the base still holds no official national subscriber and coverage series.
 
 ## Mali
 
@@ -198,6 +211,12 @@ On 27 July the telecommunications regulator [opened a second drive-test campaign
 ## Nigeria
 
 An account published on 29 July puts about [101,000 km of fibre already built](https://businessday.ng/technology/article/how-nigeria-built-101000km-of-fibre-that-bypasses-130m-nigerians/) and finds that it bypasses some 130m Nigerians — a utilisation and last-mile finding sitting directly against the 90,000 km headline of the national fibre programme.
+
+What is built is being cut faster than it is being protected. The regulator [put fibre-optic cable cuts from road works at more than 5,000 in the first half of 2026 and stood up a standing committee with the works and communications ministries and the National Security Adviser's office](https://punchng.com/fibre-cuts-hit-5000-as-road-works-intensify/) to coordinate protection of fibre designated as critical national information infrastructure. No terms of reference, meeting cycle, budget or enforcement power is published for it.
+
+The backbone programme meanwhile looked outward before it broke ground. Nigerian and Burkinabè digital ministries [met in Ouagadougou on 12 August to explore connecting the planned 90,000 km open-access backbone into Burkina Faso](https://www.wearetech.africa/fr/fils/actualites/tech/infrastructures-ia-et-talents-le-burkina-faso-et-le-nigeria-renforcent-leur-cooperation-numerique), with [a stated aim of halving internet costs through it](https://techafricanews.com/2026/08/13/nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50/). Nothing was signed, and physical deployment still stands at 2027 on the project documents.
+
+On the tower estate, shareholders of the tower company [approved the acquirer's cash buyout of the 75.3% it does not already own](https://techcabal.com/2026/08/11/ihs-towers-profit-hit-by-rising-diesel-and-merger-costs/), the target's first-half revenue rising 8.2% to US$844m while rising Nigerian diesel costs and acquisition charges cut operating income 38%. Federal strategic review of the transaction is the last position the base holds on the state's side.
 
 ## Rwanda
 

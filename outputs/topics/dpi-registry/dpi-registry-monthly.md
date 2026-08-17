@@ -1,15 +1,17 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: dpi.registry
 places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GHA; GIN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: 955acdbb53e1
+record: e9de5f20049c
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
 
 *35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -103,7 +105,9 @@ The business and intellectual property authority [offers online name search, nam
 
 ## Niger
 
-The WURI-Niger account also records that only 66% of births are declared.
+The WURI-Niger account records that 66% of births are declared; the territorial administration ministry [put the figure at 79% against 53.48% in 2022](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) at the launch of the population register's enrolment tour. The two are differently based and the record does not reconcile them.
+
+That tour is the register's first public campaign. It [opened at Tahoua on 11 August to make the governing legal texts and the intermediate enrolment operations known](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/), under the World Bank-financed identification programme and alongside rollout of the regional biometric identity card and passport.
 
 Also on 29 July, the Diffa regional civil-status directorate reported [173,109 birth certificates issued between July 2023 and July 2026](https://anp.ne/mise-en-oeuvre-du-programme-de-la-refondation-a-diffa-plus-de-173-000-actes-de-naissance-delivres-entre-juillet-2023-et-juillet-2026/), of which 109,382 were timely declarations, with the timely rate rising from 56% in 2022 to 88.04% in 2025.
 
@@ -117,13 +121,15 @@ On 29 July the foreign minister closed the second diaspora forum by [undertaking
 
 Business registration moved entirely online in January and now runs at [incorporation in 24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The prior state is inferred from the source's own wording rather than stated in it.
 
+The civil register acquired an outside account of what it now carries. Case studies published on 13 August [describe civil registration as digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services, on a network of thousands of registration points that replaced a centralised, travel-dependent process](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure); the same account puts [about 85% of public services digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure). The figures are those of the advocacy organisation that has worked on the system since 2016, and no government statement of them is held.
+
 ## Sao Tome and Principe
 
 [The National Electoral Commission opened a 1–8 August 2026 public-consultation window](https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/) on a provisional roll of 146,510 registered voters, ahead of the 27 September elections, after finding the automatically-compiled roll had omitted 1,860 eligible voters through a process failure — alongside 1,976 newly-eligible 18-year-olds added in the ordinary course. Address and polling-station changes can only be made in person or via WhatsApp; there is no online self-service channel, a gap the roll's own automatic-derivation design has not closed. [The Direção da Proteção Social reported the Cadastro Social Único covered about 12,500 households](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/), roughly a quarter of the population, and stated explicitly that registration does not equal a poverty diagnosis — a distinction the agency drew unprompted, suggesting the figure was already being read the other way in public discussion. This update follows a mass population-registration exercise the government ran in January and February 2026, though no source held gives that earlier exercise's own separate coverage figure for a direct year-on-year comparison against it.
 
 ## Senegal
 
-On 28 July an audit mission [launched across 74 communes, 59 already audited and fifteen selected on risk analysis](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html); no findings are stated. On 30 July the mines ministry and the deposits fund [signed a convention commissioning professional cards and a nationwide database of artisanal gold miners](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-senegal-numerise-lorpaillage-pour-juguler-une-perte-annuelle-de-plus-de-614-millions), with no enrolment target, host or data-protection provision reported. The national digital addressing project has no drafted narrative yet.
+On 28 July an audit mission [launched across 74 communes, 59 already audited and fifteen selected on risk analysis](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html); no findings are stated. On 30 July the mines ministry and the deposits fund [signed a convention commissioning professional cards and a nationwide database of artisanal gold miners](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-senegal-numerise-lorpaillage-pour-juguler-une-perte-annuelle-de-plus-de-614-millions), with no enrolment target, host or data-protection provision reported.
 
 ## South Africa
 
@@ -142,6 +148,8 @@ On 28 July the civil-registry directorate [set out a plan under which health fac
 ## Tanzania
 
 At an agricultural exhibition on 4 August the e-government agency stated that [more than 6,000 cooperative societies are registered](https://dailynews.co.tz/ega-drives-digital-farming/) on its management system. No user counts, spend or timeline were given.
+
+Birth registration gained a fourth estimate. The constitutional and legal affairs minister [put under-five registration at 65%, against 55% in 2020](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure), attributing the rise to sustained investment and awareness campaigns. The base already holds estimates of about 60% for 2022 and a five-year range of 61 to 76% on different bases, and does not reconcile them to one series.
 
 ## Togo
 

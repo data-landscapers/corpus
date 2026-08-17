@@ -1,15 +1,17 @@
 ---
 title: Rural digital data capture — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: digital.rural
 places: EGY; MWI; MLI; NER; NGA; TGO; ZMB; ZWE
-record: ef1ff860d361
+record: a2bc049c4493
 ---
 
 # Rural digital data capture: monthly update, July 2026
 
 *8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Egypt
 

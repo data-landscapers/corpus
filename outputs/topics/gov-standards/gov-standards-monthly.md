@@ -1,15 +1,17 @@
 ---
 title: Standards — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: gov.standards
 places: DZA; BEN; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GHA; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA
-record: efa9014758f2
+record: fbb4384d6563
 ---
 
 # Standards: monthly update, July 2026
 
 *23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 

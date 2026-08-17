@@ -1,15 +1,17 @@
 ---
 title: Data Storage — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CAF; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MAR; MOZ; NAM; NGA; RWA; SLE; TZA; UGA; ZWE
-record: 3baf1f66de04
+places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MAR; MOZ; NAM; NGA; RWA; SLE; TZA; UGA; ZWE
+record: cb428761a016
 ---
 
 # Data Storage: monthly update, July 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -26,6 +28,10 @@ The Kala data centre [completed its first full quarter of continuous operation t
 ## Burkina Faso
 
 A wholly domestic commercial hosting provider [launched on 31 July](https://www.aib.media/burkina-souverainete-numerique-ika-cloud-le-premier-hebergeur-100-local-des-donnees/) with more than 600 domain names, more than 196 web hostings and 98% availability at launch — the vendor's own figures, with capacity, tier and certification unstated.
+
+## Cameroon
+
+The state operator spent the month selling capacity it has already built. It [showed the Zamengoe data centre to a second prospective tenant on 13 August](https://techafricanews.com/2026/08/14/camtel-showcases-zamengoe-data-center-to-plan-international-cameroon/), presenting hosting, storage and security services and the facility's Tier III certification, eight months after the central bank toured the same site with a view to hosting. The base holds no signed hosting contract from either visit.
 
 ## Central African Republic
 
@@ -74,6 +80,8 @@ The country's largest data-centre campus by committed capacity entered the recor
 ## Kenya
 
 On 4 August the operator building the 44MW Tatu City data centre [moved completion to July 2027](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) from a first-quarter 2027 date.
+
+Two prospective builds were talked about rather than begun. The technopolis authority and a hyperscaler are [exploring a local cloud outpost and a startup and technical centre of excellence](https://techmoran.com/2026/08/13/konza-aws-explore-local-cloud-outpost-and-startup-center-in-kenya/), aimed at data residency and low-latency hybrid cloud; and the ICT principal secretary [received a Chinese network communications group on broadband, smart cities and digital infrastructure investment](https://techafricanews.com/2026/08/13/kenya-eyes-chinese-investment-in-broadband-smart-cities-and-digital-infrastructure/). Neither produced a memorandum, a value or a date.
 
 ## Lesotho
 

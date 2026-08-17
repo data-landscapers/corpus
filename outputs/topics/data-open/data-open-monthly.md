@@ -1,15 +1,17 @@
 ---
 title: Open data — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: data.open
 places: BEN; CMR; COG; DJI; GNQ; KEN; LBR; LBY; MDG; MAR; TUN; ZMB; ZWE
-record: 4e11ac680d37
+record: 93d2f926f1ba
 ---
 
 # Open data: monthly update, July 2026
 
 *13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 

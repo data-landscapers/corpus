@@ -1,15 +1,17 @@
 ---
 title: Data Exchange — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: dpi.exchange
 places: AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; SDN; TZA; ZMB; ZWE
-record: e148221256e7
+record: 3d9ecbeb64f1
 ---
 
 # Data Exchange: monthly update, July 2026
 
 *30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 

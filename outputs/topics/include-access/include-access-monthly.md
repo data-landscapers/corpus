@@ -1,15 +1,17 @@
 ---
 title: Access to services — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: include.access
 places: AGO; BFA; BDI; CIV; COD; EGY; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5a6645aaa0b3
+record: 511af079950b
 ---
 
 # Access to services: monthly update, July 2026
 
 *30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 

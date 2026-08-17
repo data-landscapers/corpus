@@ -1,15 +1,17 @@
 ---
 title: Data protection — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-17
+period: 2026-07-01 to 2026-08-17
 subject: gov.protect
 places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 473d5f239d57
+record: 080cb725d414
 ---
 
 # Data protection: monthly update, July 2026
 
 *31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -20,6 +22,8 @@ One further governance event changed nothing: the national police held a [study 
 ## Angola
 
 The data protection law is in force and unamended, and its exemptions are wider than its penalties. [Fines run from USD 75,000 to 150,000, trebled for legal persons and cumulated across concurrent contraventions](https://www.hunton.com/privacy-and-cybersecurity-law-blog/angola-passes-personal-data-protection-law), but the [statute substitutes a law or decree for the regulator's authorisation in two places, and puts processing under state-secrecy, state-security and judicial-secrecy rules outside the law altogether](https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/). The state can therefore authorise itself, and the categories where it most often processes are excluded at the outset.
+
+A report published on 15 August by the South African organisation Intelwatch [found the intelligence service SINSE reaching biometric data without judicial supervision](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and identified no rule stating when it may obtain identity, biometric or mobility data and no independent body to review such requests; the migration service confirmed at the Santa Clara border post that SINSE may request access under established protocols. The same report puts the [national biometric border-control system at US$112m, awarded in February 2025 to Dolinveste Lda with Poland's Technology for Business, reportedly by direct award rather than open tender](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and adds a [EUR 130m passport and biometric identity contract with Hungary's ANY Security Printing, taking the total past US$250m without significant tender, parliamentary scrutiny or human-rights impact assessment](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/). Against that spending it records [no biometric system operating at the border posts with the Democratic Republic of the Congo](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), crossings there regulated by a manually checked seven-day paper pass, and the one functional post reading passports against the migration database but with fingerprint and height capture discontinued on maintenance grounds. It also records that the electoral register is [derived from the civil identity database, with the voter card to be used for the last time in 2027 before the identity card becomes the sole registration credential](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/) under the 2025 official-registration law, and that the register has never had a comprehensive independent technical audit. The figures and the characterisation of the awards are Intelwatch's; no procurement record is on file.
 
 ## Botswana
 
@@ -101,7 +105,7 @@ On 4 August an opposition member told a newspaper that with no data-protection s
 
 ## Nigeria
 
-On 28–29 July the Federal High Court [upheld the data-protection commission's power](https://leadership.ng/court-strengthens-ndpc-oversight-of-pos-agents-banks-telcos-data-controllers/) to designate and register controllers and processors of major importance, dismissing a suit that had sought to place PoS agents outside the class; the commission immediately directed every unregistered entity to register. The judgment is not held and its delivery date is unestablished.
+On 28–29 July the Federal High Court [upheld the data-protection commission's power](https://leadership.ng/court-strengthens-ndpc-oversight-of-pos-agents-banks-telcos-data-controllers/) to designate and register controllers and processors of major importance, dismissing a suit that had sought to place PoS agents outside the class; the commission immediately directed every unregistered entity to register. The judgment is not held and its delivery date is unestablished. The commission then used the power: on 13 August it [opened a forensic investigation into a federal university, a bank and a technology vendor over the alleged use of students' personal data to open bank accounts without consent](https://dailytrust.com/ndpc-investigates-varsity-bank-over-data-violations/). No finding or penalty has followed.
 
 ## Senegal
 
@@ -123,6 +127,8 @@ The data-protection statute has been enforceable since 2021 and operates as an a
 
 The data protection commission and the open university [opened a certification programme for data protection officers on 14 July](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/), the university training and assessing and the commission certifying, aimed at government, finance, telecommunications, healthcare, education and technology. It answers the statutory officer duty; no intake number, fee or cohort date was published.
 
+A separate rule pulls in the other direction. Businesses selling on social media must now [display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-new-social-media-tax-rule-for-businesses-sparks-privacy-and-cybersecurity-fears-5555022), and digital creators and online traders have objected that publishing those credentials exposes them to impersonation and fraud (12 August). The objections are those of named creators and traders reported by the paper rather than a regulator finding; no data-protection assessment or redress route is published.
+
 ## Togo
 
 The data-protection body is [operating with thirty-two certified corporate correspondents by June 2026](https://www.togofirst.com/fr/tic/2506-19349-protection-des-donnees-l-ipdcp-forme-ses-premiers-correspondants-pour-renforcer-la-conformite-des-entreprises) and [a second international forum convened at Lome in July](https://www.togofirst.com/en/itc/2907-19717-data-protection-experts-convene-in-lome-for-international-forum). Its organisation decree is still not held.
@@ -134,6 +140,8 @@ No legal basis is held for the linked national health dataset — no decree, min
 ## Uganda
 
 The data protection office's letter of 17 July confirmed compliance with the five orders in its [decision of 20 February 2026](https://adlegalug.com/wp-content/uploads/2026/02/PDPO-Decision-in-Ad-legal-International-Ltd-v-WhatsApp-LLC-Meta-Platforms-Inc.pdf), which had required a data-protection impact assessment, an adequacy assessment, a legitimate-interests assessment and a Uganda-specific privacy notice. The decision imposed no fine and refused the complainant's prayers for cessation of intra-group sharing.
+
+On 14 August the ICT ministry launched a [three-year child online-safety campaign in Kampala with the communications regulator and a private partner](https://www.itweb.africa/article/uganda-commits-to-making-cyber-space-safe-for-minors/dgp45MaBl1kqX9l8). No budget, reach target or evaluation arrangement is published for it, which is the same gap that closed the previous awareness campaign without a measured result.
 
 ## Zambia
 
