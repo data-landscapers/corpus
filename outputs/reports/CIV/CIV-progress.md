@@ -137,7 +137,7 @@ Everything else accreted detail on positions already held. The rural programme d
 | Grand Abidjan urban planning geoportal | ***Baseline not held*** | [Under build with Japanese cooperation on three axes including a governance arrangement for managing, sharing and opening the data; the portal itself is not yet built](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
-The identity spine did not move; the disclosure about it did. The register issuing the national identification number carries the same position it carried a year ago, and what changed is that its own director general named the coverage shortfall and the historic duplicate identities inside it. On-time birth registration, the pipeline feeding that register, remains at its 2024 reading of 55.4%, down from 66.8% in 2021, because no 2025 yearbook has been published.
+The identity spine did not move; the disclosure about it did. The register issuing the national identification number carries the same position it carried a year ago, and what changed is that its own director general named the coverage shortfall and the historic duplicate identities inside it. On-time birth registration, the pipeline feeding that register, remains at [its 2024 reading of 55.4%, down from 66.8% in 2021](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression), because no 2025 yearbook has been published.
 
 Two things genuinely changed band. The exchange layer went from a twenty-month build to a live platform with twelve pilot bodies and a named political constraint on how services were selected. And the justice platform went from ten connected courts to all 39, issuing nationality certificates and criminal-record extracts nationwide.
 
@@ -346,7 +346,7 @@ What merely accreted detail: the rural programme delivered 500 of 575 and the sh
 <!-- narrative: finance -->
 The single largest change here is not a programme but a load: the domestic fiscal layer arrived in the wiki during the window and now carries 61 budget line-years across three years. That produces the one finding no press account gives — [2024 delivery against the vote was 77.6%, not the near-perfect 99.9% the in-year revision suggests](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf), because the earmarked levy programme was written down by FCFA 8.79bn and then spent to the franc.
 
-The levies that fund rural coverage shrank across the same period, from FCFA 35.3bn to FCFA 33.0bn, with the only outturn on file showing a 24.3% shortfall in 2024.
+The levies that fund rural coverage shrank across the same period, from FCFA 35.3bn to FCFA 33.0bn, with the only outturn on file [showing a 24.3% shortfall in 2024](https://digitalmag.ci/services-universels-telecoms-un-fonds-special-pour-reduire-la-fracture-numerique-en-afrique/).
 <!-- /narrative -->
 
 ## Where the record is thin

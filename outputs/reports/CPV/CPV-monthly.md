@@ -79,7 +79,7 @@ The Health Minister proposed at a World Health Organization conference in Lisbon
 ### ICT Industry
 
 <!-- narrative: ai-tech--tech-industry -->
-The technology park's second phase went to open international tender on 29 July 2026, for supply and installation of facilities equipment and training, procured by the special projects unit in the Ministry of Finance under an African Development Bank loan. Bids close on 15 September 2026, with a bid security of EUR 25,000 and beneficial-ownership disclosure required of the successful bidder. The contract value is not published, so the tender fixes scope and timetable without sizing them.
+The technology park's second phase went to open international tender on 29 July 2026, for supply and installation of facilities equipment and training, procured by the special projects unit in the Ministry of Finance under an African Development Bank loan. [Bids close on 15 September 2026, with a bid security of EUR 25,000](https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/07/1785347487426.pdf) and beneficial-ownership disclosure required of the successful bidder. The contract value is not published, so the tender fixes scope and timetable without sizing them.
 <!-- /narrative -->
 ### China activities
 
