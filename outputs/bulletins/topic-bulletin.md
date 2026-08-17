@@ -4,31 +4,129 @@ title: Topic bulletin
 subtitle: sources published 16 and 17 August 2026
 window_start: 2026-08-16
 window_end: 2026-08-17
-items: 1
+items: 11
 compiled: 2026-08-17
 ---
 
 # Topic bulletin
 
-*Compiled 2026-08-17 · 1 source published 16 and 17 August 2026, across 3 topics.*
+*Compiled 2026-08-17 · 11 sources published 16 and 17 August 2026, across 9 topics.*
+
+## ICT Infrastructure
+
+### Connectivity
+
+**[Airtel and Elon Musk's Starlink launch Africa's first satellite-to-phone service in DRC](https://africa.businessinsider.com/local/markets/airtel-and-elon-musks-starlink-launch-africas-first-satellite-to-phone-service-in-drc/c3gcrdq)** — Business Insider Africa, 16 August 2026
+
+An operator and a satellite constellation launched a satellite-to-phone service in the Democratic Republic of Congo, reported as the first commercial direct-to-cell service in Africa. It reaches ordinary handsets without additional hardware, which is what distinguishes it from the satellite broadband already licensed across the continent.
+
+**[Accra-IX hits 200 Gbps, but Ghana runs three exchanges](https://tech.africa/accra-three-internet-exchanges/)** — tech.africa, 16 August 2026
+
+Ghana's Accra internet exchange passed 200 Gbps of traffic, but the country runs three exchanges that barely overlap: only 4 of 39 connected networks peer at all three, so most local traffic still transits abroad. The headline figure is the smaller finding — an exchange is worth the traffic it keeps in the country, and three partly-overlapping exchanges keep less of it than one would.
+
+## Digital public infrastructure
+
+### GovTech
+
+**[UK, Ekiti govt move to accelerate digital transformation](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/)** — Tribune Online, 16 August 2026
+
+The United Kingdom and Ekiti State opened a digital policy, regulatory and institutional reform project, to produce a digital-economy strategy, a public-infrastructure roadmap, a civic-technology strategy and a connectivity-reform framework for the state. Neither its value nor its duration is published. *Also under [Policy & strategy](#policy-strategy).*
+
+**[Transformation numérique : 114 projets et l'Appli « Khadamet »](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/)** — African Manager, 16 August 2026
+
+A restricted ministerial council reviewed 114 digital-transformation projects in execution, some reported above 90% complete, and announced the imminent launch of a Khadamet mobile application offering more than 40 administrative services through the national digital identity, paid by card or virtual wallet. The communication technologies minister set out the main lines of a National Artificial Intelligence Strategy 2026-2030 at the same meeting; no text, decision or budget accompanies it. *Also under [Digital ID](#digital-id).*
+
+### Digital ID
+
+**[Transformation numérique : 114 projets et l'Appli « Khadamet »](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/)** — African Manager, 16 August 2026
+
+Summarised under [GovTech](#govtech).
+
+**[Osun Election: Yiaga Africa calls for BVAS audit, improved security ahead 2027 polls](https://dailypost.ng/2026/08/16/osun-election-yiaga-africa-calls-for-bvas-audit-improved-security-ahead-2027-polls/)** — Daily Post Nigeria, 16 August 2026
+
+Summarised under [Public discourse](#public-discourse).
+
+**[Muturi demands mandatory election technology disclosure as required by the Supreme Court](https://capitalfm.africa/muturi-demands-mandatory-election-technology-disclosure-as-required-by-the-supreme-court/)** — Capital FM Kenya, 16 August 2026
+
+Summarised under [Public discourse](#public-discourse).
+
+## Governance
+
+### Policy & strategy
+
+**[UK, Ekiti govt move to accelerate digital transformation](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/)** — Tribune Online, 16 August 2026
+
+Summarised under [GovTech](#govtech).
+
+### Legislation
+
+**[The Intellectual Property Bill 2026: What Kenyan bloggers and Tiktokers need to know](https://www.pulse.co.ke/story/the-intellectual-property-bill-2026-what-kenyan-bloggers-and-tiktokers-need-to-know-2026081618295613444)** — Pulse Kenya, 16 August 2026
+
+Kenya's Intellectual Property Bill 2026 is before the National Assembly for public comment. It would repeal the industrial property, copyright and anti-counterfeit statutes and merge their three institutions into a single authority, add notice-and-takedown duties for online intermediaries, and draw a line between artificial-intelligence-assisted and artificial-intelligence-generated inventions. *Also under [Artificial intelligence](#artificial-intelligence).*
+
+### Public discourse
+
+**[Uganda pushes for inclusive, safe and AI-ready Internet](https://www.monitor.co.ug/uganda/news/national/uganda-pushes-for-inclusive-safe-and-ai-ready-internet-5559810)** — Daily Monitor, 16 August 2026
+
+Uganda's Internet Governance Week called for greater investment in digital skills, online safety and responsible artificial intelligence, and for Africa to move from consuming the technology to shaping it. Nothing was adopted. *Also under [Artificial intelligence](#artificial-intelligence).*
+
+**[Osun Election: Yiaga Africa calls for BVAS audit, improved security ahead 2027 polls](https://dailypost.ng/2026/08/16/osun-election-yiaga-africa-calls-for-bvas-audit-improved-security-ahead-2027-polls/)** — Daily Post Nigeria, 16 August 2026
+
+An observation mission to the Osun governorship election called for a comprehensive post-election technical audit of the Bimodal Voter Accreditation System before the 2027 general elections, and for the electoral commission to publish the causes of biometric authentication failures. It also asked for binding, uniform guidance to presiding officers on accepting downloadable voter cards for accreditation. *Also under [Digital ID](#digital-id).*
+
+**[Muturi demands mandatory election technology disclosure as required by the Supreme Court](https://capitalfm.africa/muturi-demands-mandatory-election-technology-disclosure-as-required-by-the-supreme-court/)** — Capital FM Kenya, 16 August 2026
+
+A former cabinet secretary called for mandatory disclosure of the electoral commission's election technology, arguing that vendors cannot invoke intellectual-property rights to block scrutiny of systems, servers and audit trails. The demand is made ahead of fresh election-technology procurement for 2027. *Also under [Digital ID](#digital-id).*
 
 ## Technology
 
 ### Artificial intelligence
 
+**[Choosing between Chinese, American AI systems](https://www.theasset.com/article/56963/choosing-between-chinese-american-ai-systems)** — The Asset, 17 August 2026
+
+An analysis argues that emerging markets and the Global South face the same dependency in artificial intelligence that the dollar imposed in 1971 — running on models whose price, availability and rules are set in Washington or Beijing. Its evidence is the price gap between open-weight Chinese models and American frontier ones, and a June episode in which the United States temporarily blocked foreign nationals' access to a newly launched American model. Its prescription is hedging: regional compute alliances and South-South coordination rather than a single alignment. *Also under [United States](#united-states) and [China](#china).*
+
+**[US AI take-sides push risks tech split, seen as futile gamble amid need for greater openness: experts](https://www.globaltimes.cn/page/202608/1368309.shtml)** — Global Times, 16 August 2026
+
+Summarised under [United States](#united-states).
+
+**[Uganda pushes for inclusive, safe and AI-ready Internet](https://www.monitor.co.ug/uganda/news/national/uganda-pushes-for-inclusive-safe-and-ai-ready-internet-5559810)** — Daily Monitor, 16 August 2026
+
+Summarised under [Public discourse](#public-discourse).
+
 **[The U.S. Is Drawing a Line in the Global AI Race with China](https://www.calcalistech.com/ctechnews/article/rksthprigl)** — Ctech (Reuters), 16 August 2026
 
 Summarised under [United States](#united-states).
+
+**[The Intellectual Property Bill 2026: What Kenyan bloggers and Tiktokers need to know](https://www.pulse.co.ke/story/the-intellectual-property-bill-2026-what-kenyan-bloggers-and-tiktokers-need-to-know-2026081618295613444)** — Pulse Kenya, 16 August 2026
+
+Summarised under [Legislation](#legislation).
 
 ## Geopolitics
 
 ### United States
 
+**[US AI take-sides push risks tech split, seen as futile gamble amid need for greater openness: experts](https://www.globaltimes.cn/page/202608/1368309.shtml)** — Global Times, 16 August 2026
+
+A Chinese state outlet reports, from a leaked State Department draft seen by Reuters, that the United States is preparing to tell the 35 signatories of its June AI Opportunity Statement that they will be excluded from its coalition if they also join China's AI framework. The same account sets out China's counter-offer to developing countries, including artificial-intelligence cooperation centres proposed with the African Union and 5,000 training places. Both halves are one country's account of the other's conduct, and the underlying letter is not published. *Also under [China](#china) and [Artificial intelligence](#artificial-intelligence).*
+
 **[The U.S. Is Drawing a Line in the Global AI Race with China](https://www.calcalistech.com/ctechnews/article/rksthprigl)** — Ctech (Reuters), 16 August 2026
 
 A State Department draft letter reviewed by Reuters would tell the 35 signatories of the June AI Opportunity Statement that membership of Washington's Pax Silica framework "cannot be held alongside membership in duplicative initiatives" — an instruction to choose between the US-led coalition and China's World Artificial Intelligence Cooperation Organization, launched in July. About two dozen countries have joined Pax Silica, among them Kazakhstan, a critical-minerals source that has also joined the Chinese framework. No African state is named in the report; the significance for the corpus is that the alignment being demanded is exactly the kind African governments are being asked to make on AI, semiconductors and minerals, and the letter is undated with no delivery date given. *Also under [China](#china) and [Artificial intelligence](#artificial-intelligence).*
 
+**[Choosing between Chinese, American AI systems](https://www.theasset.com/article/56963/choosing-between-chinese-american-ai-systems)** — The Asset, 17 August 2026
+
+Summarised under [Artificial intelligence](#artificial-intelligence).
+
 ### China
+
+**[Choosing between Chinese, American AI systems](https://www.theasset.com/article/56963/choosing-between-chinese-american-ai-systems)** — The Asset, 17 August 2026
+
+Summarised under [Artificial intelligence](#artificial-intelligence).
+
+**[US AI take-sides push risks tech split, seen as futile gamble amid need for greater openness: experts](https://www.globaltimes.cn/page/202608/1368309.shtml)** — Global Times, 16 August 2026
+
+Summarised under [United States](#united-states).
 
 **[The U.S. Is Drawing a Line in the Global AI Race with China](https://www.calcalistech.com/ctechnews/article/rksthprigl)** — Ctech (Reuters), 16 August 2026
 
