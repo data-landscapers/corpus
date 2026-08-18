@@ -100,6 +100,14 @@ status: run 2026-08-18, complete and verified
 
 **If the tick is rejected and springs back, it is not broken and it is not blocking** *(seen on 2026-08-18 at step 33)*. The box ungreys as soon as GitHub is satisfied with DNS, which is slightly before the backend will accept the setting. Hard-refresh the page and try again in fifteen minutes; if it still springs back, clear the custom domain, Save, wait half a minute, retype it and Save, which re-runs provisioning and makes the tick hold. **Do not delete the `CNAME` file to force it** — the next deploy puts it straight back. Carry on with the runbook meanwhile: step 40 turns on Cloudflare's *Always Use HTTPS*, which forces every visitor onto HTTPS anyway, and step 39 encrypts the Cloudflare-to-GitHub leg. Check the certificate exists rather than trusting the tick: `curl -sS -o NUL -D - https://<hostname>/` answering `200` with no certificate complaint is the thing that matters.
 
+**And check the tick the same way — by what GitHub does, not by what the checkbox shows.** GitHub Pages redirects plain HTTP to HTTPS *only* when Enforce HTTPS is on; with it off it serves the page over HTTP without complaint. So ask the origin directly, past Cloudflare:
+
+```
+curl -sS -o NUL -D - --resolve <hostname>:80:185.199.108.153 http://<hostname>/
+```
+
+`301` to the `https` form with `Server: GitHub.com` means the setting is genuinely on. Anything else means it is not, whatever the box looks like. Both hostnames answered this way on 2026-08-18 after the step 33 reset — so the reset that fixes the certificate fixes the springing-back tick too.
+
 > **CHECK 28.** Open `https://corpus.data-landscapers.io/` — it should load with a padlock and no warning. Open a country page. Download a PDF.
 
 ## Part 6 — make the old corpus address forward *(do this straight after step 28)*
