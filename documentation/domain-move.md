@@ -49,26 +49,30 @@ status: not yet run
 
 **12.** Cloudflare → **Add a site** → `data-landscapers.io` → **Free** plan.
 
-**13.** Ignore whatever records it finds. Continue.
+**13.** Cloudflare shows any records it found. A freshly registered domain usually carries **parking records** put there by the registrar — an `A` record on `@` pointing somewhere that is not GitHub, often proxied. Note what is there; step 17 deletes them.
 
 **14.** Copy the **two nameservers** it gives you. They may be different from the `.com` pair — use these ones.
 
 **15.** At the registrar for `data-landscapers.io`, replace the nameservers with those two. Save.
 
-**16.** Wait for the zone to show **Active**.
+**16.** !!! Wait for the zone to show **Active**.
 
-**17.** In the `.io` zone go to **DNS → Records** and add these six, one at a time. **Every one with the cloud grey (DNS only).**
+**17.** In the `.io` zone go to **DNS → Records**.
 
-| Type | Name | Content | Proxy |
-|---|---|---|---|
-| A | `@` | `185.199.108.153` | DNS only |
-| A | `@` | `185.199.109.153` | DNS only |
-| A | `@` | `185.199.110.153` | DNS only |
-| A | `@` | `185.199.111.153` | DNS only |
-| CNAME | `www` | `data-landscapers.github.io` | DNS only |
+**First delete every existing `A`, `AAAA` or `CNAME` record on `@`, `www` or `corpus`.** These are the registrar's parking records and none of them points at GitHub — the only addresses that serve GitHub Pages are the four below. Left in place they sit alongside the real ones, and DNS hands the whole set out in rotation, so a share of visitors lands on a parking page instead of the site, intermittently. **Keep any `MX` or `TXT` records** if you use email on the `.io`.
+
+**Then add these six, one at a time. Every one with the cloud grey (DNS only).**
+
+| Type  | Name     | Content                      | Proxy    |
+| ----- | -------- | ---------------------------- | -------- |
+| A     | `@`      | `185.199.108.153`            | DNS only |
+| A     | `@`      | `185.199.109.153`            | DNS only |
+| A     | `@`      | `185.199.110.153`            | DNS only |
+| A     | `@`      | `185.199.111.153`            | DNS only |
+| CNAME | `www`    | `data-landscapers.github.io` | DNS only |
 | CNAME | `corpus` | `data-landscapers.github.io` | DNS only |
 
-> **CHECK 18.** All six records are listed and all six clouds are **grey**. If any is orange, the certificate in Part 5 will never appear.
+> **CHECK 18.** Exactly six `A`/`CNAME` records are listed, they are the six above, and all six clouds are **grey**. A leftover seventh is the thing to look for. If any is orange, the certificate in Part 5 will never appear.
 
 ## Part 4 — tell GitHub the domains are yours
 
