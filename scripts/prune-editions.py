@@ -232,11 +232,12 @@ def _under_root(path: Path) -> str:
         return path.as_posix()
 
 
-def write_ledger(rows: list[dict], when: str) -> None:
+def write_ledger(rows: list[dict], when: str, ledger: Path | None = None) -> None:
     """Append what was deleted. Git keeps the blob; this keeps the account a person can read."""
-    LEDGER.parent.mkdir(parents=True, exist_ok=True)
-    fresh = not LEDGER.exists()
-    with LEDGER.open("a", encoding="utf-8", newline="\n") as fh:
+    ledger = ledger or LEDGER
+    ledger.parent.mkdir(parents=True, exist_ok=True)
+    fresh = not ledger.exists()
+    with ledger.open("a", encoding="utf-8", newline="\n") as fh:
         if fresh:
             fh.write("deleted_on,path,edition,superseded_by,superseded_on,bytes\n")
         for r in rows:
@@ -261,6 +262,9 @@ def main(argv=None) -> int:
                    help="read the key list from a file instead of the API (testing)")
     p.add_argument("--today", default=dt.date.today().isoformat(), help="override the run date (testing)")
     p.add_argument("--site", default=str(SITE), help="the published tree to prune")
+    p.add_argument("--ledger", default=None,
+                   help="where to record the deletions (default logs/deleted-editions.csv); a rehearsal "
+                        "against a scratch tree should point this somewhere else than the site's own account")
     args = p.parse_args(argv)
 
     site = Path(args.site)
@@ -306,6 +310,7 @@ def main(argv=None) -> int:
             print("Nothing was deleted: run again with --apply.")
         return 0
 
+    ledger = Path(args.ledger) if args.ledger else LEDGER
     gone = []
     for r in doomed:
         try:
@@ -315,12 +320,12 @@ def main(argv=None) -> int:
             print(f"PRUNE FAIL: {r['rel']} — {e}")
     if gone:
         try:
-            write_ledger(gone, args.today)
+            write_ledger(gone, args.today, ledger)
         except OSError as e:
             print(f"PRUNE FAIL: deleted {len(gone)} files but could not write the ledger — {e}")
             return 1
         print(f"PRUNE: deleted {len(gone)} editions, {sum(r['bytes'] for r in gone) / 1e6:.1f} MB, "
-              f"recorded in {_under_root(LEDGER)}")
+              f"recorded in {_under_root(ledger)}")
     return 1 if len(gone) != len(doomed) else 0
 
 
