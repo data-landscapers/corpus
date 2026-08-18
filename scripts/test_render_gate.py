@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""test_render_gate.py — prove the content gate in `render.py` both fires and holds off.
+"""test_render_gate.py — prove `render.py` cuts an edition when, and only when, it should.
+
+The gate decides *whether* to cut one; the naming rule decides what it is called when two are
+cut in a day. Both are design.md §9 and both are here, because they fail together: a gate that
+holds off correctly still overwrites a published citation if the name it picks is taken.
 
     python scripts/test_render_gate.py
 
@@ -10,9 +14,9 @@ Too keen to hold off and a document that has genuinely moved keeps a stale editi
 never rendered again — silently, because holding off is what success looks like from the
 outside. Both directions are cases below.
 
-Case 5 is the only one that cuts a real PDF, so the run takes a few seconds. It is worth
-its cost: the repair path is the one branch that decides an *edition name* rather than
-whether to render at all, and naming is what §9 is protecting.
+Two cases cut real PDFs, so the run takes a few seconds. They are worth their cost: they are
+the two branches that decide an *edition name* rather than whether to render at all, and a
+name is the thing a citation rests on.
 """
 
 from __future__ import annotations
@@ -101,6 +105,65 @@ def case_missing_pdf_is_repaired_in_place(tmp):
     assert edition_of(html) == edition, "the page must still name the edition it named"
 
 
+def case_second_edition_of_a_day_is_suffixed(tmp):
+    """§9: the first edition of a day is unsuffixed, the second takes `-2`, and the first is
+    never renamed. Tested against `next_edition` directly — the rule is about names on disk,
+    and typesetting three PDFs to prove it would only make the test slow."""
+    out = tmp / "out"
+    out.mkdir()
+    today = "2026-08-18"
+    assert render_mod.next_edition(out, "KEN-status", today) == today, \
+        "the first edition of a day carries no suffix"
+
+    (out / f"KEN-status-{today}.pdf").touch()
+    assert render_mod.next_edition(out, "KEN-status", today) == f"{today}-2", \
+        "the second edition of a day takes -2"
+
+    (out / f"KEN-status-{today}-2.pdf").touch()
+    assert render_mod.next_edition(out, "KEN-status", today) == f"{today}-3", \
+        "the third takes -3"
+
+    (out / f"KEN-monthly-{today}.pdf").touch()
+    assert render_mod.next_edition(out, "KEN-progress", today) == today, \
+        "another document's editions must not shift this one's"
+
+
+def case_a_published_edition_is_never_overwritten(tmp):
+    """The whole point of the suffix, end to end: cut, move the body, cut again the same day,
+    and the first PDF must still be the bytes that were published under its name."""
+    src, out, html, _ = fixture(tmp, pdf=True)
+    first = out / f"{src.stem}-{edition_of(html)}.pdf"
+    was = first.read_bytes()
+
+    with src.open("a", encoding="utf-8") as fh:
+        fh.write("\nA sentence that was not there before.\n")
+    _, second, minted = render_mod.render(src, out, pdf=True)
+
+    assert minted, "a body that has moved must cut an edition"
+    assert second != first, "the second cut of a day must not take the first's name"
+    assert second.name.endswith("-2.pdf"), f"expected a -2 suffix, got {second.name}"
+    assert first.read_bytes() == was, "the published edition must be untouched, to the byte"
+    assert edition_of(html).endswith("-2"), "the page must now name the edition it offers"
+
+
+def case_edition_grammar(tmp):
+    """The filename grammar `country.py` and `topic-page.py` now read editions with. Both used
+    to hold their own copy of it, and both were wrong about the suffix in a way that shows up
+    only as a page quietly offering a superseded PDF."""
+    of, key = render_mod.edition_of, render_mod.edition_key
+
+    assert of("KEN-status-2026-08-18") == "2026-08-18"
+    assert of("KEN-status-2026-08-18-2") == "2026-08-18-2", "a suffixed edition must parse whole"
+    assert of("KEN-monthly-2026-07-2026-08-05") == "2026-08-05", \
+        "a name still carrying its period must yield the edition, not the window"
+    assert of("KEN-status") is None, "an undated name carries no edition"
+
+    assert key("2026-08-18-2") > key("2026-08-18"), "a same-day second edition is the newer"
+    assert key("2026-08-18-10") > key("2026-08-18-2"), "the sequence orders as a number"
+    assert key("2026-08-19") > key("2026-08-18-9"), "the date orders first"
+    assert max(["2026-08-18-2", "2026-08-18"], key=key) == "2026-08-18-2"
+
+
 def case_force_overrides(tmp):
     src, out, _, _ = fixture(tmp)
     _, _, minted = render_mod.render(src, out, pdf=False, force=True)
@@ -132,6 +195,9 @@ CASES = [
     ("a body that has moved cuts an edition", case_moved_body_cuts),
     ("a frontmatter-only change cuts nothing", case_frontmatter_only_holds_off),
     ("a deleted PDF is re-cut under its own name", case_missing_pdf_is_repaired_in_place),
+    ("the second edition of a day is suffixed, not overwritten", case_second_edition_of_a_day_is_suffixed),
+    ("a published edition survives a same-day re-cut, to the byte", case_a_published_edition_is_never_overwritten),
+    ("the edition grammar parses and orders every name in the tree", case_edition_grammar),
     ("--force cuts regardless", case_force_overrides),
     ("an explicit --edition cuts regardless", case_explicit_edition_overrides),
     ("a page carrying no record cuts", case_page_without_a_record_cuts),

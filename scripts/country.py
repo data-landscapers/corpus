@@ -48,6 +48,9 @@ from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import render  # noqa: E402  — the script that *names* editions also parses them (§9)
+
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
@@ -140,14 +143,20 @@ def editions(iso: str) -> list[dict]:
     names the undated permalink. Only the newest edition of each kind is
     offered; earlier PDFs stay on disk (retained editions, §9) but are not
     linked from the country page.
-    """
+
+    **The edition is parsed and ordered by `render.py`, which is what names it** *(2026-08-18)*.
+    This used to take the last three hyphen-separated parts of the stem and sort the strings,
+    which was right for exactly one filename grammar: §9's same-day `-2` suffix reads as
+    `08-18-2` under that rule, and sorts wrong under it too. A country page that offers a
+    superseded PDF looks completely normal, so this could only ever have been found by reading
+    it."""
     found: dict[str, list[tuple[str, str, str]]] = {}
     for f in sorted((SITE / "reports" / iso).glob(f"{iso}-*.pdf")):
         parts = f.stem.split("-")
-        if len(parts) < 2:
+        edition = render.edition_of(f.stem)
+        if len(parts) < 2 or edition is None:
             continue
         kind = parts[1]
-        edition = "-".join(parts[-3:])
         # The HTML permalink is {iso}-{kind}.html, with no period — it is always
         # the current document (render.py, Bill 2026-08-13). Deriving it by
         # stripping the edition off the PDF stem used to leave the period in
@@ -158,7 +167,8 @@ def editions(iso: str) -> list[dict]:
     for kind in ("status", "monthly", "progress"):
         if kind not in found:
             continue
-        edition, pdf_name, html_name = sorted(found[kind], reverse=True)[0]
+        edition, pdf_name, html_name = max(found[kind],
+                                           key=lambda row: render.edition_key(row[0]))
         rows.append({
             "kind": kind, "label": KIND[kind][0], "blurb": KIND[kind][1],
             "edition": edition, "html": html_name, "pdf": pdf_name,
