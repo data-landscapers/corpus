@@ -2,12 +2,14 @@
 type: runbook
 title: Move both sites to .io, behind Cloudflare
 last_reviewed: 2026-08-18
-status: not yet run
+status: run 2026-08-18, complete and verified
 ---
 
 # Move both sites to .io, behind Cloudflare
 
 *(Written 2026-08-18. `data-landscapers.com → data-landscapers.io` and `corpus.data-landscapers.com → corpus.data-landscapers.io`. Both are GitHub Pages sites in the `data-landscapers` organisation, so they move together. Work down the numbered steps; the reasoning is underneath and you do not need it to follow them.)*
+
+*(**Run on 2026-08-18 and completed the same afternoon.** Both sites serve on `.io`, every old `.com` URL redirects with its path intact, and a citation made the day before the move was followed end to end to the byte. The steps below were corrected nine times *during* the run and each correction is dated in place, so what follows is what actually happened rather than what was expected — see **What the run taught** at the end.)*
 
 ## Before you click anything
 
@@ -213,3 +215,19 @@ status: not yet run
 **11 catalogue records** cite `data-landscapers.com` article URLs. They will redirect and go on resolving. They live in OSINT's source base rather than here, so correcting them is a note for an OSINT session — worth raising once the move has settled, not before.
 
 **Every page fetches its favicon from the main site**, so it follows the constant I change at step 24 and needs the main site's `.io` to be live before it resolves. A missing favicon between step 24 and step 33 is cosmetic and self-corrects.
+
+---
+
+# What the run taught
+
+*(2026-08-18. Kept because the corrections above are scattered through the steps they belong to, and because the pattern in them is the useful part.)*
+
+**Every failure was the dashboard, and none was the plan.** The order of operations held from start to finish: nameservers first, cutover late, redirect immediately after, proxy last. Nothing had to be undone. What went wrong was always *where a control lives*, and Cloudflare moved three of them between the writing of this file and the running of it.
+
+**So the checks are worth more than the instructions.** Every step naming a button aged badly; every check naming a result held. CHECK 31 is the clearest case: the browser said *Site not found* while the redirect was returning a perfect `301`, and the only way to know that was to test the rule past DNS rather than through it.
+
+**A stale DNS answer looks exactly like a broken configuration**, and it lasts up to an hour. Twice during this run something appeared broken and was not. `curl --resolve`, or a phone on mobile data, settles it in seconds; a browser cannot, because the browser is the thing that is wrong.
+
+**Cloudflare's scan does not find what it cannot guess.** `corpus` was never imported, so the old subdomain went dark at step 9 rather than step 25. `www` was absent for the opposite reason — it never existed, which the scan *would* have found. Same symptom, opposite causes, and only the published record could tell them apart.
+
+**The site was never at risk, because the checks came before the switches.** The one genuinely dangerous moment was putting a Worker on `corpus.data-landscapers.io/*`: if the Hello World template had still been deployed, every page would have become the words *Hello World*. Checking the deployed code first cost thirty seconds.
