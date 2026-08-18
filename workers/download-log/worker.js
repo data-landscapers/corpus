@@ -1,7 +1,7 @@
 /**
  * download-log — records which dated editions readers actually take.
  *
- * documentation/delete-unless-downloaded.md. The site is static on GitHub Pages, which gives
+ * documentation/cloudflare.md. The site is static on GitHub Pages, which gives
  * no access logs, so something has to sit between the click and the bytes. This is that
  * something, and it is deliberately almost nothing: it sees a request for a .pdf or .csv,
  * notes the filename, and passes the request through untouched.

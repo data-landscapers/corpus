@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 r"""prune-editions.py — delete a superseded edition unless somebody downloaded it.
 
-`documentation/delete-unless-downloaded.md` is the design; this is the rule it describes,
+`documentation/cloudflare.md` is the reference for the whole layer; this is the rule it describes,
 switched on for **PDFs and CSVs**, **forward only**. §9 of `documentation/design.md` says a
 dated URL resolves for ever; under this rule it resolves for ever *if anybody ever took it*.
 
@@ -85,7 +85,7 @@ SITE = ROOT / "site"
 LEDGER = ROOT / "logs" / "deleted-editions.csv"
 CREDS = ROOT / "logs" / ".cloudflare-kv.json"
 
-# The day the download-log Worker was deployed and verified (workers/download-log/README.md).
+# The day the download-log Worker was deployed and verified (documentation/cloudflare.md).
 # Nothing published on or before it is ever deleted: the record for that day is partial by
 # definition, and the whole set behind it has no record at all.
 FORWARD_FROM = "2026-08-19"

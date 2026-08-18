@@ -195,7 +195,7 @@ Verification is then a single instruction anyone can follow: **hash your copy an
 
 **`/reports/KEN/KEN-status-2026-08-06.pdf` resolves for ever.** Retention is silent (§1): the reader sees the current edition and a quiet *earlier editions* affordance, not a version picker.
 
-**Amended 2026-08-18: a dated URL resolves for ever *if anybody ever took it*.** Retention is now conditional on the one fact that matters — whether a reader actually downloaded the edition — and a superseded edition nobody ever fetched is deleted. `documentation/delete-unless-downloaded.md` is the reasoning; `scripts/prune-editions.py` is the rule, run by `RENDER.md` Step 6a; the download record is a Cloudflare Worker that logs the path of every `.pdf` and `.csv` fetched and nothing about the reader (`workers/download-log/README.md`).
+**Amended 2026-08-18: a dated URL resolves for ever *if anybody ever took it*.** Retention is now conditional on the one fact that matters — whether a reader actually downloaded the edition — and a superseded edition nobody ever fetched is deleted. `documentation/cloudflare.md` is the reference — the Worker, the KV record, the rule and what it will not touch, all of it; `scripts/prune-editions.py` is the rule itself, run by `RENDER.md` Step 6a. The reasoning that got there is `documentation/archived/delete-unless-downloaded.md`.
 
 **This is a real weakening of the promise above, and it is written here rather than left as a divergence between the design record and the code** — this repo has just been bitten by exactly that gap, §9 having said since 2026-08-06 that an edition is cut when the content changes while the renderer cut one every render day for twelve days unnoticed.
 

@@ -2,12 +2,14 @@
 type: design-note
 title: Delete unless downloaded
 last_reviewed: 2026-08-18
-status: implemented 2026-08-18 — PDFs and CSVs, forward only
+status: implemented 2026-08-18 — archived, superseded by documentation/cloudflare.md
 ---
+
+> **Archived 2026-08-18.** The rule as it now stands — what it does, what it will not touch, and how it fails — is in **`documentation/cloudflare.md`**, which is the file to read and to keep current. This one is kept for the reasoning: why retention was made conditional, why the file does not move, and which questions were closed with what.
 
 # Delete unless downloaded
 
-*(Bill's simplification, 2026-08-18, of `documentation/download-archive-design.md`. That note proposed a gateway that minted an artefact into a permanent archive the first time anyone downloaded it. This is the same instinct — keep only what someone wanted — arrived at from the other end, and it needs far less machinery. One line per paragraph.)*
+*(Bill's simplification, 2026-08-18, of `documentation/archived/download-archive-design.md`. That note proposed a gateway that minted an artefact into a permanent archive the first time anyone downloaded it. This is the same instinct — keep only what someone wanted — arrived at from the other end, and it needs far less machinery. One line per paragraph.)*
 
 ## Implemented, the same day *(Bill: "can we implement delete-unless-downloaded now. pdfs and csvs. moving forward only")*
 

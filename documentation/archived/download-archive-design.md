@@ -2,14 +2,16 @@
 type: design-note
 title: Download awareness and archive-on-demand
 last_reviewed: 2026-08-18
-status: design note — not yet a decision
+status: superseded — never built; archived 2026-08-18
 ---
+
+> **Archived 2026-08-18.** Superseded the day it was written by `archived/delete-unless-downloaded.md`, and what was actually built is described in **`documentation/cloudflare.md`**. Kept for the gateway design it argues against itself out of.
 
 # Download awareness, and an archive that only keeps what was downloaded
 
 *(Bill's idea, 2026-08-13: a downloaded artefact must be permanently citable, but most artefacts are never downloaded, so publishing them all up front is waste. Keep the site light; make an artefact permanent the moment someone actually takes it. This note sketches how, and what it changes. One line per paragraph.)*
 
-*(**Largely superseded the same day by `documentation/delete-unless-downloaded.md`**, which is Bill's simplification of it: instead of publishing nothing and minting an artefact into an archive on first download, publish everything as now and *delete* what nobody took. Same instinct, one deletion rule instead of a gateway, and the file never moves so no citation ever breaks. What survives from this note is the awareness half — the Worker, and what Cloudflare will and will not tell you — the bot caveat, and the GitHub Pages ceiling. What is superseded is the gateway, the production store, the content-addressed archive and the sole-door property.)*
+*(**Largely superseded the same day by `documentation/archived/delete-unless-downloaded.md`**, which is Bill's simplification of it: instead of publishing nothing and minting an artefact into an archive on first download, publish everything as now and *delete* what nobody took. Same instinct, one deletion rule instead of a gateway, and the file never moves so no citation ever breaks. What survives from this note is the awareness half — the Worker, and what Cloudflare will and will not tell you — the bot caveat, and the GitHub Pages ceiling. What is superseded is the gateway, the production store, the content-addressed archive and the sole-door property.)*
 
 *(**Checked against the tree on 2026-08-18** and corrected in four places, each marked with that date: what Cloudflare's free plan actually hands back, the measured size of the PDF set, the effect of implementing §9's minting rule, and GitHub Pages' own ceiling. Nothing in the argument changed; two of its numbers and one of its assumptions did. The question was put again the same day and answered from scratch, this note not having been found — it is the record, and it lives here.)*
 

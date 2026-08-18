@@ -2,8 +2,10 @@
 type: runbook
 title: Move both sites to .io, behind Cloudflare
 last_reviewed: 2026-08-18
-status: run 2026-08-18, complete and verified
+status: run 2026-08-18, complete and verified — archived, superseded by documentation/cloudflare.md
 ---
+
+> **Archived 2026-08-18.** The configuration this runbook produced is described as it now stands in **`documentation/cloudflare.md`**, which is the file to read and to keep current. This one is kept for the record of how the move was made and what it taught — the reasoning, the corrections made during the run, and the reversals available at each stage. Nothing here should be followed as instructions again without checking it against the reference first.
 
 # Move both sites to .io, behind Cloudflare
 
@@ -180,7 +182,7 @@ curl -sS -o NUL -D - --resolve <hostname>:80:185.199.108.153 http://<hostname>/
 
 > **CHECK 41.** Both sites load. A PDF downloads. A CSV downloads. An old `.com` link still forwards.
 
-**Done.** The download log — the Worker in `documentation/delete-unless-downloaded.md` — is a separate job for another day. It needs step 38 to have been done and nothing else from here.
+**Done.** The download log — the Worker in `documentation/archived/delete-unless-downloaded.md` — is a separate job for another day. It needs step 38 to have been done and nothing else from here.
 
 ---
 
