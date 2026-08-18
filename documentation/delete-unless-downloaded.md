@@ -23,6 +23,10 @@ status: implemented 2026-08-18 — PDFs and CSVs, forward only
 
 **Expect it to delete nothing for weeks.** Every one of the 1,401 editions on disk today predates the rule.
 
+**Run end to end on 2026-08-18, in a full RENDER.** Step 6a read the live record and reported `1401 editions on disk, 3 paths in the download record, 1401 kept, 0 deletable`, which is forward-only doing its job rather than a check that proved nothing.
+
+**A deletion was rehearsed the same run, because a rule that has never deleted anything is a rule nobody has watched work.** Live token, live KV record, six files in a scratch tree, the calendar simulated with `--today` and `--from` and the liveness check disabled — the two paths the real record holds were kept as *downloaded*, the two nobody has fetched were deleted, both current editions were untouched, and the ledger recorded the pair. `--ledger` exists for exactly this: a rehearsal must not write into the site's own account of what it lost.
+
 ## The rule
 
 **When RENDER supersedes an edition, it deletes the old one — unless that edition was downloaded.**
