@@ -106,7 +106,7 @@ status: not yet run
 | ---- | -------- | ------- | -------------------- |
 | AAAA | `corpus` | `100::` | **Proxied (orange)** |
 
-**30.** Same zone → left sidebar **Rules** → **Redirects** (it may be called *Single Redirects*; if Rules opens on an overview, press **Create rule** and pick **Redirect Rule**). **Page Rules, sitting next to it, is the older product and does this job too** — see the fallback below. Name the rule `corpus com to io` and fill it in like this:
+**30.** *(The Cloudflare dashboard is reorganised often and these screens did not match this description when the move was run on 2026-08-18. The settings below are what the rule has to **do**; find whatever screen does it. CHECK 31 tests the result rather than the form, which is the reliable way round.)* Same zone → left sidebar **Rules** → **Redirects** (it may be called *Single Redirects*; if Rules opens on an overview, press **Create rule** and pick **Redirect Rule**). **Page Rules, sitting next to it, is the older product and does this job too** — see the fallback below. Name the rule `corpus com to io` and fill it in like this:
 
 - **When incoming requests match**: Field `Hostname` · Operator `equals` · Value `corpus.data-landscapers.com`
 - **Then**: *URL redirect* → Type **Dynamic**
@@ -118,6 +118,16 @@ status: not yet run
 **30a — the Page Rules fallback.** If Redirect Rules cannot be found, a Page Rule does the same thing and is simpler to fill in. The catch is the allowance: the free plan gives **3 Page Rules and this move needs exactly 3**, leaving none spare ever after, against 10 for Redirect Rules. Use *If the URL matches* `corpus.data-landscapers.com/*` → *Then the settings are* **Forwarding URL** → **301 Permanent Redirect** → destination `https://corpus.data-landscapers.io/$1`. The `/*` captures the path and `$1` puts it back, which is what makes a deep link land in the right place; the query string carries across on its own.
 
 > **CHECK 31.** Paste an old deep link into a browser — for example `https://corpus.data-landscapers.com/reports/KEN/KEN-status.html`. It must land on the **same page** on `.io`, not on the front page.
+>
+> **Expect this to fail from your own machine for up to an hour, with the rule working perfectly.** The old DNS answer is cached locally with its original TTL, so the browser goes straight to GitHub — which no longer claims the hostname and shows *Site not found*. That is what happened on 2026-08-18, and it looks exactly like a broken redirect.
+>
+> **Test the rule rather than the cache.** From a phone on mobile data, or by forcing the connection past DNS entirely:
+>
+> ```
+> curl -sS -o NUL -D - --resolve corpus.data-landscapers.com:443:<cloudflare-ip> https://corpus.data-landscapers.com/reports/KEN/KEN-status.html
+> ```
+>
+> Take `<cloudflare-ip>` from `Resolve-DnsName corpus.data-landscapers.com -Server 1.1.1.1`. A correct rule answers `HTTP/1.1 301`, `Server: cloudflare`, and a `Location:` carrying the **full path**. That is the check; the browser catches up on its own.
 
 ## Part 7 — move the main site
 
