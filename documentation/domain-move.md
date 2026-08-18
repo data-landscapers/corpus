@@ -139,11 +139,13 @@ status: not yet run
 
 > **CHECK 34.** `https://data-landscapers.io/` loads with a padlock.
 
-**35.** Cloudflare → `.com` zone → **DNS**. Delete the four `A` records on `@`. Add instead: **AAAA · `@` · `100::` · Proxied (orange)**. Change the `www` record to **AAAA · `www` · `100::` · Proxied (orange)** as well.
+**35.** Cloudflare → `.com` zone → **DNS**. Delete the four `A` records on `@`. Add instead: **AAAA · `@` · `100::` · Proxied (orange)**.
 
-**36.** **Rules → Redirects → Create rule**, named `main com to io` (or two Page Rules on the same pattern as 30a, `data-landscapers.com/*` and `www.data-landscapers.com/*`, both to `https://data-landscapers.io/$1`):
+**Do the same for `www` only if a `www` record is actually there.** On this domain there was none, and that is a real answer rather than another missed scan: Cloudflare always probes `www`, unlike `corpus` which it does not guess, and nothing published anywhere references it — all 11 catalogue article URLs are the bare domain. A hostname that never existed has no citations to keep alive, so it needs no record and no rule. **Do not create one to be safe**: a redirect rule can only fire on a hostname that resolves, so an invented record would be the only thing making the rule reachable, for traffic that does not exist.
 
-- **When**: Field `Hostname` · Operator `is in` · Value `data-landscapers.com` and `www.data-landscapers.com`
+**36.** **Rules → Redirects → Create rule**, named `main com to io` (or a Page Rule on the same pattern as 30a, `data-landscapers.com/*` → `https://data-landscapers.io/$1`):
+
+- **When**: Field `Hostname` · Operator `equals` · Value `data-landscapers.com` — and `is in`, adding `www.data-landscapers.com`, only if step 35 found a `www` record to convert
 - **Then**: Dynamic → `concat("https://data-landscapers.io", http.request.uri.path)` → `301` → preserve query string **on**
 
 > **CHECK 37.** An old article link such as `https://data-landscapers.com/2026/06/16/sovereignty-dividing-line/` lands on the same article on `.io`.
