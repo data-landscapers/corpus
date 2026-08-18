@@ -2,12 +2,26 @@
 type: design-note
 title: Delete unless downloaded
 last_reviewed: 2026-08-18
-status: design note — not yet a decision
+status: implemented 2026-08-18 — PDFs and CSVs, forward only
 ---
 
 # Delete unless downloaded
 
 *(Bill's simplification, 2026-08-18, of `documentation/download-archive-design.md`. That note proposed a gateway that minted an artefact into a permanent archive the first time anyone downloaded it. This is the same instinct — keep only what someone wanted — arrived at from the other end, and it needs far less machinery. One line per paragraph.)*
+
+## Implemented, the same day *(Bill: "can we implement delete-unless-downloaded now. pdfs and csvs. moving forward only")*
+
+**`scripts/prune-editions.py` is the rule; `RENDER.md` Step 6a runs it with `--apply`, after the site is written and before the leak gate and the commit.** So a deletion is carried by the same commit as the render that superseded the file, and the gate reads the tree as it will be published. The three answers Bill gave are the three decisions this note left open: **both formats**, since the mechanism is identical and a finance CSV is the format a reader is most likely to quote a figure straight out of; **forward only**, so nothing published before the record existed is ever touched; and **now**, rather than after a month of watching — forward-only makes the waiting automatic, because the first edition the rule can even consider is one the Worker watched from the day it was minted.
+
+**Five conditions, all of which must hold, and every uncertainty resolves towards keeping the file.** Not the current edition; dated after 2026-08-18; superseded more than seven days ago; the download record healthy; nothing ever fetched it. A missing credential, an API error, an unparseable answer, an empty listing or a record that looks stale stops the whole run rather than being read as *nobody wanted these* — deleting nothing at all, not file by file.
+
+**Two health checks stand in for the awareness month this note wondered about.** `--min-keys` refuses an empty listing, which is what an unbound namespace, a wrong namespace ID and a Worker knocked off its route all look like. `--liveness-days` requires that some key in the record names an edition minted in the last fortnight: a key can only exist after the file it names was minted, so the newest edition date across the keys is a lower bound on when the Worker last recorded anything. On a genuinely quiet site this declines to delete, which is also the right answer when the Worker is dead — from here the two are indistinguishable.
+
+**Any fetch at all protects the file, a crawler's included.** The Worker splits `n` from `bots` rather than filtering, and the pruner reads the split as *keep either way*: a bot causing a keep costs storage, where dropping a real reader's download eventually costs the file, and the crawler pattern matches `curl`, `wget` and `python-requests`, which is how a technical reader takes a file they mean to cite. One consequence is that the values are never read — presence of the key is the whole test, so the pruner asks Cloudflare only for the key list, which is cheaper and has nothing in it to misparse.
+
+**`scripts/test_prune_editions.py` is almost entirely a test of refusals**, because that is where the harm lives: eleven of its twelve cases assert that nothing was deleted. `logs/deleted-editions.csv` is the account of what did go — git keeps the blob regardless, and the ledger is the part a person can read.
+
+**Expect it to delete nothing for weeks.** Every one of the 1,401 editions on disk today predates the rule.
 
 ## The rule
 
@@ -61,7 +75,7 @@ That is the whole of it. Everything below is why it works, what it needs, and wh
 
 **§9 says a dated URL resolves for ever. Under this rule it resolves for ever *if anybody ever took it*.**
 
-That is a real weakening and should be written into §9 rather than left as a divergence between the design record and the code. This repo has just been bitten by exactly that gap: §9 has said since 2026-08-06 that an edition is cut when the content changes, the renderer cut one on every render day regardless, and nobody noticed for twelve days because the design record was never checked against the tree.
+That is a real weakening and should be written into §9 rather than left as a divergence between the design record and the code. **Done the same day**, in §9's *Provenance* subsection, along with what keeps the amendment narrow and what the residue is. This repo has just been bitten by exactly that gap: §9 has said since 2026-08-06 that an edition is cut when the content changes, the renderer cut one on every render day regardless, and nobody noticed for twelve days because the design record was never checked against the tree.
 
 ## The set already published
 
@@ -69,10 +83,15 @@ That is a real weakening and should be written into §9 rather than left as a di
 
 **The straightforward course is to apply it forward only** and let the existing set stand. It is 314 MB, it is a one-off, and it is the price of having published before the rule existed.
 
-## Open questions
+## The questions this note left open, and what they were answered with
 
-- Where the download list lives — Cloudflare KV, Analytics Engine, or a file the Worker appends to and RENDER fetches.
-- The lag: a week is a guess, and the right number is however long it takes for a download to be observable plus a margin.
-- Whether the rule covers the CSVs from the start. They are editions as of 2026-08-18 and the same mechanism applies unchanged, but they are small — the whole finance set is 5.8 MB — so there is no pressure to.
-- Whether "earlier editions" (§9's quiet affordance) lists surviving editions only. It would, naturally, and a reader would see a list with gaps in it that they cannot account for.
-- Whether the awareness half is worth having on its own first, before anything is deleted, simply to find out what actually gets downloaded. It is the same Worker, doing the same nothing, with the deletion rule not yet switched on — and after a month it would answer most of the questions above with evidence rather than guesses.
+- **Where the download list lives** — **Cloudflare KV**, keyed by the file's path as published. Settled when the Worker was built; the key doubles as the thing the pruner matches against `site/`, so there is no translating between two naming schemes.
+- **The lag** — **seven days**, still a guess, and `--lag-days` is where to change it. It is not a guess about a slow log any more, since KV is written within seconds of the download; it is a guess about the reader who browses on Monday and downloads on Friday from a link they kept.
+- **Whether the rule covers the CSVs from the start** — **yes** *(Bill, 2026-08-18)*. The mechanism is identical and the finance set is small, so this buys little storage; what it buys is one rule rather than two, and no format where a reader's download quietly does not protect their citation.
+- **Whether "earlier editions" lists surviving editions only** — it will, and the gaps will be visible. Not a problem to solve now, because the affordance is not built: nothing on the site links a superseded edition today, which is also why deleting one breaks no link the site itself carries. When it is built, the honest form is a list that says what it is — the editions still held — rather than one that implies it is complete.
+- **Whether the awareness half is worth having alone first** — **superseded by forward-only**, which makes the watching period automatic rather than a decision to remember to revisit. The rule cannot touch anything the Worker did not watch from the day it was minted, so switching it on now and waiting a month produce the same first deletion.
+
+## Still open
+
+- **Nobody reads the record for interest.** The pruner asks for the key list and acts; the counts of who took what sit in KV unexamined. *Which editions do readers actually take* was the question the Worker was built to answer, and answering it needs a reader for the values rather than the keys.
+- **A `PRUNE: declined` line is easy to stop seeing.** It is printed by an unattended run into a log nobody reads line by line, and a rule that quietly stopped being in effect looks exactly like a rule that has nothing to delete. If declining ever becomes the normal state, it wants a message to Bill rather than a line of output.
