@@ -139,6 +139,10 @@ status: run 2026-08-18, complete and verified
 
 **33.** In that repo: **Settings → Pages**, confirm the custom domain reads `data-landscapers.io`, wait for the certificate, tick **Enforce HTTPS**. (Same as steps 25–27.)
 
+**If the certificate stalls at *“TLS certificate is being provisioned … 1 of 3”*, it is not slow — it cannot finish** *(seen on 2026-08-18, after step 38)*. GitHub validates a hostname by fetching a challenge over plain HTTP from that hostname; once the record is **orange**, the request reaches Cloudflare instead of GitHub, and once *Always Use HTTPS* is on (step 40) the plaintext challenge is redirected away as well. Either alone is enough to make validation fail silently and sit at *1 of 3* for ever. The banner’s *“Detected a change to DNS settings”* is GitHub noticing step 38, not a transient hiccup. **The fix is to turn the clouds grey again for that hostname and its `www`, clear the custom domain in Settings → Pages, Save, wait half a minute, retype it and Save** — that cancels the wedged request and starts a clean one against DNS that now points at GitHub. A fresh certificate issued about an hour later. Turn the clouds back on afterwards. Nothing is dark while they are grey: the site serves straight from GitHub Pages, which is where it lived before Cloudflare.
+
+**`www` never gets its own GitHub certificate, and does not need one** *(2026-08-18)*. GitHub asks for the apex and `www` together when the custom domain is an apex, but only the apex validated — `www` went orange again before its turn came, so the origin still answers for it with GitHub’s generic `*.github.io` certificate. That is invisible to readers, because Cloudflare terminates TLS for `www` at its own edge and redirects to the apex without ever contacting the origin. Nothing published references `www` (see step 35), so there is no reader to protect there. Do not keep the clouds grey waiting for it.
+
 > **CHECK 34.** `https://data-landscapers.io/` loads with a padlock.
 
 **35.** Cloudflare → `.com` zone → **DNS**. Delete the four `A` records on `@`. Add instead: **AAAA · `@` · `100::` · Proxied (orange)**.
@@ -159,6 +163,8 @@ status: run 2026-08-18, complete and verified
 **39.** **SSL/TLS → Overview** → set to **Full (strict)**. **Do not choose Flexible.**
 
 **40.** **SSL/TLS → Edge Certificates** → turn **Always Use HTTPS** on.
+
+**This is also what will stop the certificates renewing, so deal with it here rather than in November** *(2026-08-18)*. GitHub renews by re-running the same plaintext challenge it used to issue, and *Always Use HTTPS* redirects that challenge exactly as it redirects everything else — so with the clouds orange, renewal fails the same silent way issuance did at step 33. The certificates issued on 2026-08-18 expire on **16 November 2026**. Turn the zone-wide *Always Use HTTPS* **off** and force HTTPS with a Redirect Rule instead, matching everything **except** a path beginning `/.well-known/acme-challenge/`; the free plan allows ten Redirect Rules and the `.io` zone is using none. The alternative is to remember to grey the clouds for an hour every ninety days, which is the kind of obligation this runbook exists to avoid.
 
 > **CHECK 41.** Both sites load. A PDF downloads. A CSV downloads. An old `.com` link still forwards.
 
