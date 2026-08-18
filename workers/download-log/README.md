@@ -21,7 +21,7 @@ Sees a request for a `.pdf` or `.csv` on `corpus.data-landscapers.io`, writes th
 
 ## Deploying it
 
-*(Cloudflare's dashboard is reorganised often, so these are the things that have to be true rather than a promise about what the buttons are called. Screens moved twice during the `.io` move on the same day.)*
+*(Cloudflare's dashboard is reorganised often, so these are the things that have to be true rather than a promise about what the buttons are called. Screens moved twice during the `.io` move on the same day. **Bindings** and **Domains & Routes** sit alongside *Settings* on a Worker's page rather than inside it, and in older dashboards they are under it.)*
 
 **Both KV and Workers are account-level, not inside a domain.** If the left sidebar is showing `data-landscapers.io`, click the Cloudflare logo or the account name in the breadcrumb to come up a level; the zone sidebar does not carry either of them. The dashboard search box is quicker than hunting for the label, which is *Workers & Pages* in the older dashboard and *Compute (Workers)* in the newer one. The first Worker you create will also ask you to choose a `workers.dev` subdomain — pick anything, it is never used, since this Worker is bound to a route on your own domain.
 
@@ -31,9 +31,9 @@ Sees a request for a `.pdf` or `.csv` on `corpus.data-landscapers.io`, writes th
 
 **3. Paste the code.** Open the Worker → *Edit code* → select everything in the editor and replace it with the contents of `worker.js` beside this file → *Deploy*.
 
-**4. Bind the namespace.** Worker → *Settings* → *Bindings* (or *Variables and Bindings*) → *Add* → **KV namespace** → **Variable name `DOWNLOADS`** (exactly that, in capitals — the code looks for `env.DOWNLOADS`) → namespace `downloads` → *Deploy*.
+**4. Bind the namespace.** Worker → *Bindings* → *Add* → **KV namespace** → **Variable name `DOWNLOADS`** (exactly that, in capitals — the code looks for `env.DOWNLOADS`) → namespace `downloads` → *Deploy*.
 
-**5. Put it on the route.** Worker → *Settings* → *Domains & Routes* → *Add* → *Route* → zone `data-landscapers.io`, route `corpus.data-landscapers.io/*`.
+**5. Put it on the route.** Worker → *Domains & Routes* → *Add* → *Route* → zone `data-landscapers.io`, route `corpus.data-landscapers.io/*`.
 
 **The route covers everything rather than just the download directories**, and the Worker filters by file extension instead. One route cannot miss a directory added later, and the free allowance is 100,000 requests a day against a site that will not approach it. The cost is that the Worker runs on page views too and returns them untouched.
 
