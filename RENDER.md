@@ -180,6 +180,22 @@ Per-country finance is separate and already covered by Step 4: `scripts/country.
 
 **The page layout is a shell, deliberately.** `finance.py`'s aggregation is real and its numbers are correct; the presentation is a placeholder awaiting design — headline totals, top financiers, by-sector and by-place tables, links down to each country's finance page. It is wired in because a plain page beats a 404, not because it is finished.
 
+## Step 6a — prune superseded editions nobody took
+
+```bash
+python scripts/prune-editions.py --apply
+```
+
+**A superseded edition is deleted unless somebody downloaded it** — `documentation/delete-unless-downloaded.md`, switched on for PDFs and CSVs on 2026-08-18 and applying **forward only**. Retention exists for readers rather than for artefacts: a citation only exists if someone actually took the file, so an edition nobody ever fetched has nothing resting on it. The file never moves, so nothing this rule keeps ever changes address.
+
+**It runs here because it edits `site/`.** Before the leak gate, so the gate reads the tree as it will be published, and before Step 7's `git add site`, so the deletions are carried by the same commit as the render that superseded them.
+
+**A refusal is a normal outcome and never fails the run.** The script exits 0 whether it deleted or declined, and it declines — deleting nothing at all, not file by file — on a missing credential, an API error, an empty key listing or a download record that looks stale. It prints `PRUNE: declined` with the reason; if that persists across runs, the Worker or the token wants looking at, and until then the rule is simply not in effect. It needs a Cloudflare API token with KV **read** scope (`workers/download-log/README.md` → *Reading it*); with no token on the machine every run declines, which is the correct behaviour rather than a fault.
+
+**What it will not touch:** the current edition of anything, anything dated on or before 2026-08-18, anything superseded less than a week ago, anything the download record has ever seen fetched — crawler included — and any undated download, the catalogue among them. Expect it to delete nothing at all for the first weeks: the whole published set predates the rule.
+
+**Deletions are accounted for in `logs/deleted-editions.csv`**, appended to as they happen and committed with the render. Git keeps the blob for ever regardless; the ledger is the part a person can read.
+
 ## Step 7 — verify, commit, deploy
 
 ```bash
@@ -187,7 +203,11 @@ Per-country finance is separate and already covered by Step 4: `scripts/country.
 python scripts/leak-check.py site outputs || { echo "STOP: leak gate failed"; exit 1; }
 # every report links only to held sources — spot check a few if desired:
 #   python scripts/report-render.py --unit KEN --check   (needs the workroot; optional)
-git add site && git commit -m "Render site from Corpus-owned outputs: reports, home, country pages"
+git add site
+# the pruner's ledger (Step 6a) belongs to the same commit as the deletions it records;
+# it does not exist until something has been deleted, so it is added only if it is there
+[ -e logs/deleted-editions.csv ] && git add logs/deleted-editions.csv
+git commit -m "Render site from Corpus-owned outputs: reports, home, country pages"
 git push
 ```
 

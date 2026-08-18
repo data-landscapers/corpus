@@ -47,3 +47,10 @@ outputs/non-state-finance/*-summary.csv
 # after — so vault_lib now refuses to write it (EmptyIndex) and this line is
 # the second line of defence. Committed once on 2026-08-14 (c53dcf7); removed.
 index/
+
+# The Cloudflare API token `scripts/prune-editions.py` reads the download record with, plus the
+# account and namespace IDs beside it. A secret, and the one thing in this repo that must never
+# be committed: it is read scope on KV, but a token in a public repo's history is a token gone.
+# The environment variables CF_ACCOUNT_ID / CF_KV_NAMESPACE_ID / CF_API_TOKEN are the other way
+# of supplying them, and take precedence over this file.
+logs/.cloudflare-kv.json

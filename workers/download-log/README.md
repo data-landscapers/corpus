@@ -7,7 +7,7 @@ status: deployed and verified 2026-08-18
 
 # download-log
 
-*(Set up 2026-08-18, straight after the `.io` move. It answers one question — **which dated editions do readers actually take?** — and it does nothing else yet. The rule that would eventually act on the answer is `documentation/delete-unless-downloaded.md`, and it is **not** switched on: nothing deletes anything, and nothing will until there is a month of evidence to decide on.)*
+*(Set up 2026-08-18, straight after the `.io` move. It answers one question — **which dated editions do readers actually take?** — and it does nothing else. The rule that acts on the answer is `documentation/delete-unless-downloaded.md`, implemented the same day in `scripts/prune-editions.py` and run by RENDER Step 6a: a superseded edition is deleted unless somebody downloaded it, PDFs and CSVs, **forward only**. The month of evidence this file first said to wait for is not owed, because forward-only makes the waiting automatic — the rule can touch nothing published before the Worker existed, so its first candidate is an edition the Worker itself watched from the day it was minted.)*
 
 ## What it does
 
@@ -85,13 +85,17 @@ reports/KEN/KEN-status-2026-08-18.pdf       {"first":"2026-08-18","last":"2026-0
 
 ## Reading it
 
-For now, in the dashboard: *KV* → `downloads` → the key list is the answer to *what has been taken*.
+In the dashboard: *KV* → `downloads` → the key list is the answer to *what has been taken*.
 
-Nothing on this machine reads it yet, and nothing should until the deletion rule is decided. When that happens the reader needs a Cloudflare API token with KV read scope, which is a secret and must live outside git — an environment variable or a gitignored file, never a constant in a script.
+**`scripts/prune-editions.py` reads it too, and acts on it** *(2026-08-18, the same day: Bill's call to implement the rule for PDFs and CSVs, forward only)*. It asks for the **key list alone** and never for the values — presence of a key is the whole test, because any fetch at all protects a file, a crawler's included. That is `documentation/delete-unless-downloaded.md` in force; RENDER Step 6a runs it.
+
+**It needs a Cloudflare API token with KV read scope**, which is a secret and must live outside git — never a constant in a script. Create it at *My Profile* → *API Tokens* → *Create Token* → *Custom token*, with the single permission **Account · Workers KV Storage · Read** on this account. Then supply it, with the account ID and the `downloads` namespace ID, either as the environment variables `CF_ACCOUNT_ID`, `CF_KV_NAMESPACE_ID`, `CF_API_TOKEN`, or in `logs/.cloudflare-kv.json` under those same three names — a file `.gitignore` excludes for this reason. **Read scope is deliberate**: nothing on this side ever needs to write to KV, and a token that cannot write cannot corrupt the record the deletion rule reads.
+
+**With no token on the machine the pruner declines and deletes nothing**, printing why. That is the correct behaviour rather than a fault — but it also means the rule silently is not in effect, so a `PRUNE: declined` line that persists across runs is worth acting on.
 
 ## What it deliberately does not do
 
-- **It does not delete anything.** `documentation/delete-unless-downloaded.md` describes the rule; this is the evidence-gathering that comes first.
+- **It does not delete anything.** The Worker only records. The deletion is `scripts/prune-editions.py`, on Bill's machine, in RENDER Step 6a — nothing online ever writes to the repo, and nothing here can remove a file. *(That separation is the point: this half runs on Cloudflare where it cannot be trusted with anything irreversible, and the half that deletes runs where the repo is, reads this record, and refuses to act whenever the record looks less than sound.)*
 - **It does not mint, copy or move files.** Nothing is archived on download; the archive, if it ever exists, is `site/` continuing to hold what it already holds.
 - **It does not log HTML page views.** Those are the browsable surface, not editions, and counting them is a different question with a different tool.
 - **It does not run on `data-landscapers.com`.** Requests there are redirected at the edge before any origin is reached, so a download that begins on the old domain is logged when it lands on the new one.
