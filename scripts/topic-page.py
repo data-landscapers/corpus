@@ -34,8 +34,8 @@ import vault_lib  # noqa: E402
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
-SITE_BASE = "https://corpus.data-landscapers.com"
-MAIN_SITE = "https://data-landscapers.com"
+SITE_BASE = "https://corpus.data-landscapers.io"
+MAIN_SITE = "https://data-landscapers.io"
 
 MONTHS = ("January", "February", "March", "April", "May", "June",
           "July", "August", "September", "October", "November", "December")

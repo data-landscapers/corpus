@@ -5,7 +5,7 @@
 
 Promoted from prototypes/build-home-page.py once the wireframe was agreed;
 revised 2026-08-11 to Bill's numbered change list. The shape, in order: the
-header mirrors data-landscapers.com's own nav with Corpus added on the left;
+header mirrors data-landscapers.io's own nav with Corpus added on the left;
 a second nav bar for the corpus sections; a highlighted total/this-year/
 this-month stat bar; a two-line statement of what the corpus is; Countries,
 Regions and Topics as heading, intro text and a box matrix each.
@@ -39,8 +39,8 @@ from pathlib import Path
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
-SITE_BASE = "https://corpus.data-landscapers.com"
-MAIN_SITE = "https://data-landscapers.com"
+SITE_BASE = "https://corpus.data-landscapers.io"
+MAIN_SITE = "https://data-landscapers.io"
 
 STATS_SHAPE = """{
   "generated": "YYYY-MM-DD",     # the run that wrote it
@@ -446,7 +446,7 @@ TEMPLATE = """<!DOCTYPE html>
     <div class="site-footer__inner">
       <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
       <div class="site-footer__links">
-        <a href="{main_site}/">data-landscapers.com</a>
+        <a href="{main_site}/">data-landscapers.io</a>
         <a href="{base}/method/">Method</a>
       </div>
     </div>

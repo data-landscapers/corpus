@@ -58,8 +58,8 @@ SITE = CORPUS / "site"
 OUT = SITE / "countries"
 CATALOGUE_DIR = SITE / "catalogue"
 
-SITE_BASE = "https://corpus.data-landscapers.com"
-MAIN_SITE = "https://data-landscapers.com"
+SITE_BASE = "https://corpus.data-landscapers.io"
+MAIN_SITE = "https://data-landscapers.io"
 FINANCE_CUTOFF = 2022  # years before this are aggregated into one pivot column
 
 # ISO3 -> full country name, from lookups/countries.csv (see module docstring
@@ -445,7 +445,7 @@ FOOT = """  <footer class="site-footer">
     <div class="site-footer__inner">
       <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
       <div class="site-footer__links">
-        <a href="{main_site}/">data-landscapers.com</a>
+        <a href="{main_site}/">data-landscapers.io</a>
         <a href="{base}/method/">Method</a>
       </div>
     </div>

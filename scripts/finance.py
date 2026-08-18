@@ -30,8 +30,8 @@ CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 VOCAB = CORPUS / "outputs" / "vocab"
-SITE_BASE = "https://corpus.data-landscapers.com"
-MAIN_SITE = "https://data-landscapers.com"
+SITE_BASE = "https://corpus.data-landscapers.io"
+MAIN_SITE = "https://data-landscapers.io"
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")

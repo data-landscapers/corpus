@@ -28,8 +28,8 @@ CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 VOCAB = CORPUS / "outputs" / "vocab"
-SITE_BASE = "https://corpus.data-landscapers.com"
-MAIN_SITE = "https://data-landscapers.com"
+SITE_BASE = "https://corpus.data-landscapers.io"
+MAIN_SITE = "https://data-landscapers.io"
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -116,7 +116,7 @@ FOOT = """  <footer class="site-footer">
     <div class="site-footer__inner">
       <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
       <div class="site-footer__links">
-        <a href="{main_site}/">data-landscapers.com</a>
+        <a href="{main_site}/">data-landscapers.io</a>
         <a href="{base}/method/">Method</a>
       </div>
     </div>

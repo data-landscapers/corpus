@@ -10,7 +10,7 @@ document with the print rules in `site/assets/css/report.css` applied.
 
 The page is built from the website's own markup vocabulary — `.site-header`,
 `.article-header`, `.article-body`, `.badge`, `.site-footer` — so it reads as
-part of data-landscapers.com rather than a separate identity (§1). Every
+part of data-landscapers.io rather than a separate identity (§1). Every
 artefact carries its edition, its OSINT commit and its permanent URL, because
 a downloaded PDF has to be verifiable away from the site it came from (§9).
 
@@ -39,8 +39,8 @@ CORPUS = Path(__file__).resolve().parent.parent
 BUILD = CORPUS / "build"
 SITE = CORPUS / "site"
 
-SITE_BASE = "https://corpus.data-landscapers.com"
-MAIN_SITE = "https://data-landscapers.com"
+SITE_BASE = "https://corpus.data-landscapers.io"
+MAIN_SITE = "https://data-landscapers.io"
 LICENCE, LICENCE_URL = "CC BY 4.0", "https://creativecommons.org/licenses/by/4.0/"
 ORG = "Bill Anderson / Data Landscapers Ltd"
 COMPANY = "Registered in the UK · Co. No. 16040544"
@@ -389,7 +389,7 @@ TEMPLATE = """<!DOCTYPE html>
         {year} {org} &nbsp;·&nbsp; {company}
       </p>
       <div class="site-footer__links">
-        <a href="{main_site}/">data-landscapers.com</a>
+        <a href="{main_site}/">data-landscapers.io</a>
         <a href="{site_base}/method/">Method</a>
       </div>
     </div>
