@@ -451,7 +451,6 @@ FOOT = """  <footer class="site-footer">
       <div class="site-footer__links">
         <a href="{main_site}/">data-landscapers.com</a>
         <a href="{base}/method/">Method</a>
-        <a href="{base}/manifest.csv">Manifest</a>
       </div>
     </div>
   </footer>"""
@@ -518,8 +517,6 @@ COUNTRY = """<!DOCTYPE html>
       <strong>About this page</strong>
       <dl>
         <dt>Built</dt><dd class="mono">{built}</dd>
-        <dt>Derived from</dt><dd>Data Landscapers source base, commit <code>{commit}</code></dd>
-        <dt>Verify</dt><dd>Hash any file above and look it up in <a href="{base}/manifest.csv">manifest.csv</a></dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
@@ -601,7 +598,6 @@ FINANCE = """<!DOCTYPE html>
         <dt>Edition</dt><dd class="mono">{csv_edition}</dd>
         <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, retained as published and never revised</dd>
         <dt>Source</dt><dd><code>outputs/non-state-finance/{iso}-nonstate.csv</code>, compiled by the finance pass</dd>
-        <dt>Derived from</dt><dd>Data Landscapers source base, commit <code>{commit}</code></dd>
         <dt>Fields</dt><dd><a href="{fields_name}">{fields_name}</a> &mdash; what each column means</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>

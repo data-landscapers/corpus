@@ -118,7 +118,6 @@ FOOT = """  <footer class="site-footer">
       <div class="site-footer__links">
         <a href="{main_site}/">data-landscapers.com</a>
         <a href="{base}/method/">Method</a>
-        <a href="{base}/manifest.csv">Manifest</a>
       </div>
     </div>
   </footer>""".format(base=SITE_BASE, main_site=MAIN_SITE, year="2026")

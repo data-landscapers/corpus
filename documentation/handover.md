@@ -58,7 +58,7 @@ Full reasoning is in `documentation/design.md` §1; the highlights:
 - PDFs are tracked in git, in this repo — the served artefact and its history are one object.
 - Every published file carries its build date in the filename; earlier editions are retained silently (a quiet "earlier editions" link, no version picker). A new edition is only minted when the *content* changes (hash below frontmatter), not on every nightly render — otherwise a stable report would mint hundreds of near-identical editions a year.
 - No undated download URL ever exists — a citation must never change under the person who made it.
-- A published manifest CSV (not yet built) will let anyone verify integrity (hash), currency (dated), and provenance (OSINT commit SHA) for any file they downloaded. Full spec in `documentation/design.md` §9.
+- **No manifest, and no verify apparatus** *(Bill, 2026-08-18)*. A published manifest CSV was designed and is now withdrawn, along with the `Derived from` and `Verify` rows in every footer: the commitment to a reader is a moral one rather than a legal one, and dating, retention and permanent URLs are what carries it. The reasoning is kept in `documentation/design.md` §9.
 
 ## What's built vs. what's still open
 
@@ -66,7 +66,6 @@ Full reasoning is in `documentation/design.md` §1; the highlights:
 
 **Not built yet / explicitly deferred:**
 - Topics section — `REPORT-TOPIC.md` doesn't exist upstream yet, so there's nothing to render.
-- The edition manifest CSV (`documentation/design.md` §9) — designed, not implemented.
 - Budget block on country pages — suspended; `{ISO3}-summary.csv` isn't read.
 - Catalogue serving shape — flat JSON works today (7,770 records) but won't past ~15–20k rows; sharding is designed but not built.
 

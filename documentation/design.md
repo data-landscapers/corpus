@@ -170,7 +170,9 @@ The boundary that matters is bodies, not internal reasoning. This design record 
 
 Someone whose reporting has been challenged usually needs all three, so the site owes an answer to each. None is expensive, because the base already holds what they need.
 
-### Integrity — a published manifest
+**The site answers two of the three, and the integrity machinery is withdrawn** *(Bill, 2026-08-18)*. **The commitment to a reader here is a moral one, not a legal one.** The manifest, the `Derived from` row and the `Verify` row were the legal reading of it: a hash to be checked, a commit SHA to be produced on demand, an apparatus for standing up to a challenge. What is actually owed is that a document says plainly what it is, when it was cut, and that it is not revised afterwards — which is what dating, retention and permanent URLs do, and they do it whether or not anyone ever audits us. The two footer rows are gone from every template, the `Manifest` footer link with them, and no manifest is built. What follows in this subsection is the design as it stood; it is kept because the reasoning is sound and the question may come back, not because it is being implemented.
+
+### Integrity — a published manifest *(withdrawn 2026-08-18, see above)*
 
 **One CSV at a permanent URL, listing every edition ever published.**
 
@@ -237,4 +239,4 @@ Hashing below the frontmatter is the whole trick: `compiled:` changes on every r
 
 ### Not yet
 
-**DOIs.** Zenodo will mint one per dated edition and it is the academic gold standard, but it adds an external dependency and a deposit step to every publish. The manifest carries most of the credibility without it. Revisit once the site is up.
+**DOIs.** Zenodo will mint one per dated edition and it is the academic gold standard, but it adds an external dependency and a deposit step to every publish. Revisit once the site is up. *(This used to read "the manifest carries most of the credibility without it", which no longer applies — the manifest is withdrawn. The case for a DOI is unchanged and its cost is unchanged; what has gone is the thing that was standing in for it.)*

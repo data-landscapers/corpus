@@ -120,11 +120,6 @@ PRIOR_RECORD = re.compile(r'<meta name="dl-record" content="([0-9a-f]+)">')
 PRIOR_EDITION = re.compile(r'data-edition="([^"]+)"')
 
 
-def built_from() -> str:
-    f = CORPUS / "BUILT-FROM"
-    return f.read_text(encoding="utf-8").strip() if f.exists() else "(unknown)"
-
-
 KINDS = ("status", "monthly", "progress", "bulletin")
 
 
@@ -396,7 +391,6 @@ TEMPLATE = """<!DOCTYPE html>
       <div class="site-footer__links">
         <a href="{main_site}/">data-landscapers.com</a>
         <a href="{site_base}/method/">Method</a>
-        <a href="{manifest_url}">Manifest</a>
       </div>
     </div>
   </footer>
@@ -506,25 +500,22 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         logo = "../../assets/logo.png"
 
     # A document rendered without a PDF must not advertise one *(Bill, 2026-08-17)*. The download
-    # button, the `This file` row and the hash-and-verify line all name a file that was never cut,
-    # so they come out together rather than being left to 404.
-    derived = (f"          <dt>Derived from</dt><dd>Data Landscapers source base, "
-               f"commit <code>{built_from()[:12]}</code></dd>")
+    # button and the `This file` row both name a file that was never cut, so they come out
+    # together rather than being left to 404.
+    #
+    # **`Derived from` and `Verify` were removed on 2026-08-18** *(Bill)*. The commitment this
+    # colophon makes to a reader is a moral one rather than a legal one, and the two rows were
+    # the legal reading of it — a commit SHA to be produced on demand, and an instruction to
+    # hash the file and look the hash up. What is owed instead is that the document says what it
+    # is and when it was cut, which is what the rows that remain do. The `Verify` row also named
+    # a manifest that was never built, so it had been asking readers to check against nothing.
     if pdf:
         download = (f'\n          <a href="{SITE_BASE}/{rel_pdf}.pdf" class="btn btn--accent" '
                     f'style="font-size:0.8rem;">&darr; Download PDF</a>\n        ')
-        colophon_rows = "\n".join([
-            f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_pdf}.pdf</dd>",
-            derived,
-            f"          <dt>Verify</dt><dd>Hash this file and look it up in "
-            f'<a href="{SITE_BASE}/manifest.csv">{SITE_BASE}/manifest.csv</a></dd>',
-        ])
+        colophon_rows = f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_pdf}.pdf</dd>"
     else:
         download = ""
-        colophon_rows = "\n".join([
-            f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_html}.html</dd>",
-            derived,
-        ])
+        colophon_rows = f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_html}.html</dd>"
 
     doc = TEMPLATE.format(
         title=title,
@@ -542,7 +533,6 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         edition=edition,
         permalink_html=f"{SITE_BASE}/{rel_html}.html",
         current_url=f"{SITE_BASE}/{rel_html}.html",
-        manifest_url=f"{SITE_BASE}/manifest.csv",
         licence=LICENCE, licence_url=LICENCE_URL,
         org=ORG, company=COMPANY, main_site=MAIN_SITE,
         site_base=SITE_BASE, year=edition[:4],

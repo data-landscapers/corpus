@@ -435,7 +435,6 @@ TEMPLATE = """<!DOCTYPE html>
       <dl>
         <dt>Built</dt><dd class="mono">{built}</dd>
         <dt>Counts</dt><dd>{counts_from}</dd>
-        <dt>Derived from</dt><dd>Data Landscapers source base, commit <code>{commit}</code></dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
@@ -449,7 +448,6 @@ TEMPLATE = """<!DOCTYPE html>
       <div class="site-footer__links">
         <a href="{main_site}/">data-landscapers.com</a>
         <a href="{base}/method/">Method</a>
-        <a href="{base}/manifest.csv">Manifest</a>
       </div>
     </div>
   </footer>
@@ -491,11 +489,10 @@ def build() -> Path:
     by_place = s["by_place"]
     regional = sum(v for k, v in by_place.items() if k.startswith("X"))
 
-    commit = (CORPUS / "BUILT-FROM").read_text(encoding="utf-8").strip()[:12]
     built = date.today().isoformat()
     this_year, this_month = built[:4], built[:7]
     doc = TEMPLATE.format(
-        base=SITE_BASE, main_site=MAIN_SITE, built=built, commit=commit,
+        base=SITE_BASE, main_site=MAIN_SITE, built=built,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         docs=f"{s['documents']:,}", year=built[:4],
         docs_year=f"{s['by_year'].get(this_year, 0):,}",
