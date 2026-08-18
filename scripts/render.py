@@ -13,11 +13,16 @@ The page is built from the website's own markup vocabulary — `.site-header`,
 part of data-landscapers.com rather than a separate identity (§1). Every
 artefact carries its edition, its OSINT commit and its permanent URL, because
 a downloaded PDF has to be verifiable away from the site it came from (§9).
+
+An edition is cut when the content changes, not when a build runs (§9). A document
+whose body has not moved since its standing edition was cut is left exactly as it
+is, PDF and page alike — see `render()`.
 """
 
 from __future__ import annotations
 
 import argparse
+import hashlib
 import re
 import sys
 from datetime import date
@@ -90,6 +95,26 @@ def frontmatter(text: str) -> tuple[dict, str]:
 
 
 
+def record(body_md: str) -> str:
+    """The document's content digest — the body, below the frontmatter.
+
+    **Below the frontmatter is the whole of the trick** (design.md §9). `compiled:` moves
+    whenever the file is rewritten and `record:` is a digest of the same content, so a hash
+    taken over the whole document would differ on every run for a document that had not
+    moved, and the gate in `render()` would never once fire.
+
+    Same span, same algorithm and same length as the `record:` field `report-render.py`
+    stamps into the frontmatter — but computed here rather than read from there. Not every
+    source this is handed carries that field, and a gate that quietly passes everything when
+    its input is missing is worse than no gate, because from the outside it looks like one."""
+    return hashlib.sha1(body_md.encode("utf-8")).hexdigest()[:12]
+
+
+# Read back off an already-rendered page: what it was cut from, and what it was cut as.
+PRIOR_RECORD = re.compile(r'<meta name="dl-record" content="([0-9a-f]+)">')
+PRIOR_EDITION = re.compile(r'data-edition="([^"]+)"')
+
+
 def built_from() -> str:
     f = CORPUS / "BUILT-FROM"
     return f.read_text(encoding="utf-8").strip() if f.exists() else "(unknown)"
@@ -117,6 +142,16 @@ def parse_name(path: Path) -> tuple[str, str]:
             return stem[: -len(kind) - 1], kind
     unit, _, kind = stem.partition("-")
     return unit, (kind or "report")
+
+
+def stem_html_of(path: Path) -> str:
+    """The undated permalink stem, `{unit}-{kind}`. One implementation, because the gate in
+    `render()` has to open the file `build_document` wrote, and a second copy of this rule
+    would be a second place for the two to disagree — silently, since a gate that looks for
+    the wrong filename finds nothing and cuts an edition, which is indistinguishable from
+    the outside from a gate working correctly."""
+    unit, kind = parse_name(path)
+    return f"{unit}-{kind}"
 
 
 def tree_of(path: Path) -> str:
@@ -285,6 +320,7 @@ TEMPLATE = """<!DOCTYPE html>
 <meta property="og:url" content="{permalink_html}">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
+<meta name="dl-record" content="{record}">
 </head>
 <body>
 <div class="site-wrap">
@@ -385,7 +421,7 @@ BULLETIN_NOTES = """        <p>The bulletin covers what was <em>published</em> i
 
 def build_document(md_path: Path, edition: str | None, absolute: bool,
                    pdf: bool = True) -> tuple[str, str, str, str]:
-    """Return (html, stem_html, stem_pdf, edition) for one report.
+    """Return (html, stem_html, stem_pdf, edition, record) for one report.
 
     `absolute` swaps relative asset paths for file:// URIs. That is the only
     difference between the page the site serves and the document WeasyPrint
@@ -402,6 +438,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     """
     raw = md_path.read_text(encoding="utf-8")
     meta, body_md = frontmatter(raw)
+    rec = record(body_md)
 
     unit, kind = parse_name(md_path)
     # The edition is the date this file was RENDERED, not the date the source was
@@ -412,6 +449,11 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # changed document kept its old edition name and replaced the file a citation
     # would have pointed at. A render date cannot do that — a re-render either
     # writes today's name or writes nothing.
+    #
+    # The content gate in `render()` *(2026-08-18)* does not touch this and must not: it
+    # decides **whether** to cut an edition, never what to name the one it cuts. Naming stayed
+    # with the render date precisely so that a document which has moved can never land on a
+    # name a citation already rests on.
     edition = edition or date.today().isoformat()
 
     # `toc` is here for its ids, not for a table of contents *(2026-08-17)*. It gives every
@@ -435,7 +477,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # month and mint a new address every month, which is the opposite of permanent.
     # A monthly spans one whole month and part of the next, so the period is a
     # property of the edition, not of the document. The dated PDF keeps it.
-    stem_html = f"{unit}-{kind}"
+    stem_html = stem_html_of(md_path)
     stem_pdf = f"{md_path.stem}-{edition}"
     rel = site_rel(md_path)
     rel_html = f"{rel}/{stem_html}"
@@ -499,15 +541,69 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         licence=LICENCE, licence_url=LICENCE_URL,
         org=ORG, company=COMPANY, main_site=MAIN_SITE,
         site_base=SITE_BASE, year=edition[:4],
+        record=rec,
     )
-    return doc, stem_html, stem_pdf, edition
+    return doc, stem_html, stem_pdf, edition, rec
+
+
+def held_edition(md_path: Path, out_dir: Path, rec: str) -> str | None:
+    """The edition already on disk, if the source has not moved since it was cut — else None.
+
+    **The record is read back out of the served HTML**, which is the one artefact of a document
+    whose name never changes. So what an edition was cut from travels inside the edition, and
+    the gate needs no state file sitting beside the output to be kept in step with it.
+
+    **A page written before this field existed reports None, so the first run after the gate
+    arrives cuts an edition for every document.** That is the same call `report-render.py`
+    makes for a document with no stored digest, and it is wrong only in the safe direction:
+    one day's worth of editions minted needlessly, against the alternative of adopting an
+    edition whose content may have moved since and then never noticing that it had."""
+    html_path = out_dir / f"{stem_html_of(md_path)}.html"
+    if not html_path.exists():
+        return None
+    served = html_path.read_text(encoding="utf-8")
+    held, ed = PRIOR_RECORD.search(served), PRIOR_EDITION.search(served)
+    if held is None or ed is None or held.group(1) != rec:
+        return None
+    return ed.group(1)
 
 
 def render(md_path: Path, out_dir: Path, edition: str | None = None,
-           pdf: bool = True) -> tuple[Path, Path | None]:
-    served, stem_html, stem_pdf, edition = build_document(md_path, edition, absolute=False, pdf=pdf)
+           pdf: bool = True, force: bool = False) -> tuple[Path, Path | None, bool]:
+    """Render the document, or leave its standing edition alone. Returns `(html, pdf, minted)`.
 
+    **An edition is cut when the content changes, not when a build runs** (design.md §9). RENDER
+    renders everything on every run and judges nothing, which is right — but a render that cuts
+    an edition regardless turns 241 documents into 241 new dated PDFs every render day, retained
+    for ever, because retention is what §9 promises. Only a fraction of them differ from the
+    edition before. The gate belongs here rather than in the runbook for the same reason the leak
+    gate does: a rule a loop has to remember is a rule that eventually stops running.
+
+    **An unchanged document is left entirely alone, the page as well as the PDF.** Rewriting the
+    HTML to print today while the PDF beside it still says August would make the page disagree
+    with the artefact it offers, which is the undated-URL failure §9 exists to prevent arriving
+    one field at a time. A retained edition is not restyled either: the PDF embeds the
+    stylesheet, so a change to `report.css` reaches new editions only — which is what *not
+    revised after publication* means when it is taken literally, and it is meant literally.
+
+    `--edition` and `--force` are deliberate re-cuts and skip the gate."""
     out_dir.mkdir(parents=True, exist_ok=True)
+    rec = record(frontmatter(md_path.read_text(encoding="utf-8"))[1])
+
+    held = None if (edition or force) else held_edition(md_path, out_dir, rec)
+    if held is not None:
+        html_path = out_dir / f"{stem_html_of(md_path)}.html"
+        pdf_path = out_dir / f"{md_path.stem}-{held}.pdf" if pdf else None
+        if pdf_path is None or pdf_path.exists():
+            return html_path, pdf_path, False
+        # The page names an edition whose PDF is not there — a file deleted by hand, or a run
+        # that died between the two writes. Cut it again under **its own** name rather than
+        # minting a new one: the published URL is the thing being repaired, not superseded.
+        edition = held
+
+    served, stem_html, stem_pdf, edition, _ = build_document(
+        md_path, edition, absolute=False, pdf=pdf)
+
     html_path = out_dir / f"{stem_html}.html"
     pdf_path = out_dir / f"{stem_pdf}.pdf" if pdf else None
     # Overwriting in place fails on some synced mounts; replace instead. The
@@ -520,13 +616,13 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     html_path.write_text(served, encoding="utf-8")
 
     if pdf_path is None:
-        return html_path, None
+        return html_path, None, True
 
-    for_pdf, _, _, _ = build_document(md_path, edition, absolute=True, pdf=True)
+    for_pdf, _, _, _, _ = build_document(md_path, edition, absolute=True, pdf=True)
     from weasyprint import HTML  # imported late: only the PDF path needs it
     HTML(string=for_pdf, base_url=str(SITE / "assets" / "css")).write_pdf(pdf_path)
 
-    return html_path, pdf_path
+    return html_path, pdf_path, True
 
 
 def main() -> int:
@@ -541,6 +637,11 @@ def main() -> int:
     # document worth citing later; a bulletin is superseded the next morning and its content is
     # kept by the reports, so cutting one would archive the same news twice under a worse name.
     ap.add_argument("--no-pdf", action="store_true", help="write the HTML and no PDF")
+    # Escape hatch for the content gate: a template or stylesheet change moves nothing in the
+    # source, so nothing would re-render without it. Re-cutting every document is a decision
+    # (241 editions), which is why it is a flag and not the default.
+    ap.add_argument("--force", action="store_true",
+                    help="cut a new edition even if the content has not moved")
     args = ap.parse_args()
 
     src = args.markdown if args.markdown.is_absolute() else CORPUS / args.markdown
@@ -550,9 +651,12 @@ def main() -> int:
 
     rel = site_rel(src)                       # `reports/KEN`, `topics/dpi-pay`, `bulletins`
     out_dir = SITE / rel if args.out is None else args.out / rel.split("/")[-1]
-    html_path, pdf_path = render(src, out_dir, args.edition, pdf=not args.no_pdf)
+    html_path, pdf_path, minted = render(src, out_dir, args.edition,
+                                         pdf=not args.no_pdf, force=args.force)
 
     print(f"source   {src.relative_to(CORPUS)}")
+    if not minted:
+        print("edition  unchanged — content has not moved since the standing edition was cut")
     def show(p: Path) -> str:
         try:
             return str(p.relative_to(CORPUS))
