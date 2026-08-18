@@ -245,10 +245,6 @@ def finance(iso: str) -> list[dict]:
         return list(csv.DictReader(fh))
 
 
-def built_from() -> str:
-    return (CORPUS / "BUILT-FROM").read_text(encoding="utf-8").strip()
-
-
 # ── rendering ─────────────────────────────────────────────────────
 
 def e(s: str) -> str:
@@ -484,7 +480,7 @@ COUNTRY = """<!DOCTYPE html>
 
     <div class="country-head">
       <h1>{name}</h1>
-      <div class="country-head__meta">{iso} &nbsp;·&nbsp; page built {built} &nbsp;·&nbsp; base at commit {commit}</div>
+      <div class="country-head__meta">{iso} &nbsp;·&nbsp; page built {built}</div>
     </div>
 
     <div class="stat-bar">
@@ -568,7 +564,7 @@ FINANCE = """<!DOCTYPE html>
     <div class="country-head">
       <div class="crumb"><a href="{base}/#countries">Countries</a> &nbsp;/&nbsp; <a href="index.html">{name}</a> &nbsp;/&nbsp; Non-state finance</div>
       <h1>Non-state finance</h1>
-      <div class="country-head__meta">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1} &nbsp;·&nbsp; base at commit {commit}</div>
+      <div class="country-head__meta">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
     </div>
 
     <p>Every non-state commitment the base holds for {name}, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
@@ -673,7 +669,6 @@ def build(iso: str) -> list[Path]:
                        .read_text(encoding="utf-8"))
     fin = finance(iso)
     n_place, n_all, pubs = catalogue(iso)
-    commit = built_from()[:12]
     built = date.today().isoformat()
 
     out_dir = OUT / iso
@@ -684,7 +679,7 @@ def build(iso: str) -> list[Path]:
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=CHROME.format(base=SITE_BASE, main_site=MAIN_SITE),
         foot=FOOT.format(base=SITE_BASE, main_site=MAIN_SITE, year=built[:4]),
-        built=built, commit=commit, fin_n=len(fin),
+        built=built, fin_n=len(fin),
     )
 
     csv_names: dict[str, str] = {}

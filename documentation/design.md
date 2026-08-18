@@ -106,7 +106,7 @@ A third shape — OSINT rendering HTML and PDF and writing them into Corpus — 
 
 **The build assumes nothing about how often OSINT commits, and that is deliberate.** `SWEEP-CYCLE` is started by hand, normally overnight, and is not yet on a schedule because whether Exa functions unattended is unestablished *(Bill, 2026-08-06)*. A session may also be run during the day to force an update on a live issue. A commit trigger absorbs all three cadences identically — a clock trigger would have to be tuned to one of them, and would either miss the daytime run or poll for it. If the sweep is ever scheduled, nothing here changes.
 
-**The build records the SHA it built from** in `upstream/BUILT-FROM`, which doubles as the citation anchor: every page can state which state of the base it was derived from. It is idempotent and reversible, like every other pass. Where the pulled copy lives, and why it is tracked rather than fetched, is the next subsection.
+**The build records the SHA it built from** in `upstream/BUILT-FROM`, which doubles as the citation anchor: every page can state which state of the base it was derived from. *(No page does, since 2026-08-18 — see §9. The stamp is still written and is now the build's own record rather than anything published.)* It is idempotent and reversible, like every other pass. Where the pulled copy lives, and why it is tracked rather than fetched, is the next subsection.
 
 ### Rendering
 
@@ -189,7 +189,7 @@ Someone whose reporting has been challenged usually needs all three, so the site
 
 Verification is then a single instruction anyone can follow: **hash your copy and find it in the manifest.** It works even if the file was renamed, it is machine-readable so the eventual API costs nothing extra, and because the manifest is itself tracked in git it carries its own tamper-evident history.
 
-**`osint_commit` is the column that matters most, and it is nearly free** — the build already records the SHA in `BUILT-FROM` at the repo root (§8). Because `upstream/` is committed at every pull, naming the commit takes verification past *"yes, that is our file"* and down to *"and here is the exact state of the base it was derived from"*. Very little published in this field can do that.
+**`osint_commit` is the column that matters most, and it is nearly free** *(this whole subsection is withdrawn — see above)* — the build already records the SHA in `BUILT-FROM` at the repo root (§8). Because `upstream/` is committed at every pull, naming the commit takes verification past *"yes, that is our file"* and down to *"and here is the exact state of the base it was derived from"*. Very little published in this field can do that.
 
 ### Provenance — URLs are permanent, and never reissued
 

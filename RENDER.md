@@ -76,7 +76,9 @@ A no-op if the tree is already clean. **It runs after the gate, not before, and 
 git rev-parse HEAD > BUILT-FROM
 ```
 
-`BUILT-FROM` sits at the repo root and records the Corpus commit this render was cut at; `render.py`, `home.py` and `country.py` read it and print it as the site's provenance stamp (`documentation/design.md` §8). One line, and it is the whole of what Step 1 used to do.
+`BUILT-FROM` sits at the repo root and records the Corpus commit this render was cut at. One line, and it is the whole of what Step 1 used to do.
+
+**Nothing reads it any more** *(2026-08-18)*. It used to be printed as the site's provenance stamp by `render.py`, `home.py` and `country.py`; the `Derived from` row and the country header's `base at commit` were removed on Bill's instruction (`documentation/design.md` §9 — the commitment to a reader is a moral one, not a legal one), and no page names a commit now. The stamp is still written, because it costs one line and is the build's own record of which tree a render was cut from. Worth deciding whether to keep it at all rather than leaving it as a file nobody opens.
 
 *(Until 2026-08-16 this step mirrored `outputs/` into `upstream/` with `robocopy /MIR` and wrote `BUILT-FROM` there, because the renderers read that path. The repoint the old text deferred is done: every renderer reads `outputs/` directly and `upstream/` is gone. `scripts/pull.py`, which was the only thing that would have recreated an `upstream/`, was deleted the same day along with `scripts/test_pull.py`.)*
 
