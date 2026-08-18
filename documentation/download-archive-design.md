@@ -1,13 +1,15 @@
 ---
 type: design-note
 title: Download awareness and archive-on-demand
-last_reviewed: 2026-08-13
+last_reviewed: 2026-08-18
 status: design note — not yet a decision
 ---
 
 # Download awareness, and an archive that only keeps what was downloaded
 
 *(Bill's idea, 2026-08-13: a downloaded artefact must be permanently citable, but most artefacts are never downloaded, so publishing them all up front is waste. Keep the site light; make an artefact permanent the moment someone actually takes it. This note sketches how, and what it changes. One line per paragraph.)*
+
+*(**Checked against the tree on 2026-08-18** and corrected in four places, each marked with that date: what Cloudflare's free plan actually hands back, the measured size of the PDF set, the effect of implementing §9's minting rule, and GitHub Pages' own ceiling. Nothing in the argument changed; two of its numbers and one of its assumptions did. The question was put again the same day and answered from scratch, this note not having been found — it is the record, and it lives here.)*
 
 ## The two wants, which need different machinery
 
@@ -22,7 +24,11 @@ The site is served by GitHub Pages, which gives you no access logs. A plain link
 
 ## Awareness — the light half
 
-Put the site behind **Cloudflare**. You already run a custom domain (`corpus.data-landscapers.com`), so this is a DNS change; the origin stays static GitHub Pages. Cloudflare's edge then logs every request to a `.pdf`/`.csv`, including direct-URL hits and crawlers, with nothing added to the page. Cloudflare Web Analytics or a Worker gives you the counts.
+Put the site behind **Cloudflare**. You already run a custom domain (`corpus.data-landscapers.com`), so the origin stays static GitHub Pages and the change is at the DNS.
+
+**But a DNS change alone does not give you per-file counts, and the first version of this paragraph said it did** *(corrected 2026-08-18)*. Cloudflare does see every request at the edge, including direct-URL hits and crawlers — the question is what it will hand back to you. Raw request logs (Logpush) are an Enterprise feature; free-plan zone analytics is aggregate, with no per-path breakdown; and Cloudflare **Web Analytics** is a JS beacon, which is the very mechanism the next paragraph rules out as a sole signal. So the free route to *"how many people took `KEN-status-2026-08-06.pdf`"* is a **Worker** on the download paths, counting into Workers Analytics Engine or KV. Still cheap — the free tier is 100,000 requests a day against a site with nothing like that traffic — but it is code at the edge, not a setting. Worth re-checking against Cloudflare's current plans before anything is built on it; plan boundaries move and this one is load-bearing for the phasing below.
+
+**Which changes the phasing more than it changes the cost.** Awareness was filed here as the cheap half you could take without committing to a backend, and a Worker *is* the interposition the archive half needs — the same shape, doing less. Phase 1 is therefore not free of the decision in phase 2; it is the first, harmless version of it. That is arguably an argument for the idea rather than against it: the thing you would build to satisfy curiosity is the thing you would keep.
 
 A JS click-beacon (Plausible, GoatCounter) is even lighter but only sees clicks that ran your script — it misses a pasted URL or `curl`, and it reports *initiated*, not *completed*. Fine as a supplement, wrong as the only signal.
 
@@ -55,6 +61,12 @@ The saving is on the *permanent* surface, which is the one that costs you foreve
 
 `documentation/design.md` §9 chose (2026-08-06) to **track every PDF in git, in the Corpus repo** — "the served artefact and its history are one object" — for verifiability. This idea reverses that: don't commit hundreds of PDFs (× every future edition) into git history, where they sit permanently whether or not anyone wants them. Verifiability is kept a different way — the manifest's hash + date + OSINT SHA — which is the mechanism §9 already designed. So you trade permanent git bloat for the same guarantee, paid only on demand. Flagging it so the reversal is a decision, not a drift.
 
+**"Hundreds" was measured on 2026-08-18 and it is 1,053 PDFs, 314 MB, all committed** — accumulated in the thirteen days since 2026-08-05, with `.git` at 722 MB. So this is not a choice standing in front of you; most of it has already happened, and the question is whether to keep going.
+
+**Most of that was churn rather than catalogue, and the churn is now fixed** *(2026-08-18)*. §9's rule — an edition is cut when the content changes, not when a build runs — had never been implemented on the render side: the edition is the render date and RENDER renders all 241 documents every run, so every render day cut 241 new dated PDFs and kept them. `render.py` now holds off on a document whose body has not moved, which removes the bulk of the growth without a backend, a Worker or a reversal of anything. **That weakens the urgency of this note and not its argument.** What remains is the real question it was written about: the *catalogue* is 241 documents and rising, editions accumulate for ever by design, and almost none of them will ever be downloaded. That case stands. It is now a case to be made on the trajectory rather than on a fire.
+
+**And whatever is decided, the ~1,000 URLs already published are a commitment.** §9 promises a dated URL resolves for ever, and those are out in the world. Archive-on-demand can only govern what has not shipped yet; it cannot retire what has, and the sole-door property below is therefore already imperfect on the existing set. Not fatal — but it means the reversal is *from here on*, and the note should not be read as offering a way out of what is already committed.
+
 ## It unifies three things you already want
 
 The download gateway *is* `design.md` §9. That section already requires: no undated download URL, a citation that never changes under the person who made it, and a manifest anyone can verify against. The gateway mints exactly that record, so the **downloads archive and the verification manifest become one object**, and the log of who-took-what falls out of the same step.
@@ -74,7 +86,11 @@ Your outstanding CSV-dates work is not a side-quest — it's the gate for the CS
 
 ## A recommended minimal shape
 
-Cloudflare in front of the static origin (awareness, free); a Worker on `/download/…` as the gateway; **R2** for both the production store (all editions, private, regenerable) and the permanent archive (downloaded editions, public, immutable); the manifest as a CSV the Worker appends to and the site publishes. Phase it: **(1)** Cloudflare + analytics for awareness only, learn what actually gets downloaded; **(2)** stand up the gateway + archive once the CSV editions exist; **(3)** stop committing PDFs to git and let the archive carry them.
+Cloudflare in front of the static origin; a Worker on `/download/…` as the gateway; **R2** for both the production store (all editions, private, regenerable) and the permanent archive (downloaded editions, public, immutable); the manifest as a CSV the Worker appends to and the site publishes. Phase it: **(1)** Cloudflare, plus a counting Worker on the download paths — awareness only, and it is a Worker rather than a setting (above); learn what actually gets downloaded; **(2)** stand up the gateway + archive once the CSV editions exist; **(3)** stop committing PDFs to git and let the archive carry them.
+
+**Phase 0, which is none of the above and was done on 2026-08-18: implement §9's minting rule.** It needed no Cloudflare, no Worker and no decision, and it takes out the growth that was making this urgent. Anything below is now a considered move rather than a rescue.
+
+**One constraint neither this note nor §8 had allowed for**: GitHub Pages publishes a site of up to about **1 GB** with a soft bandwidth ceiling around 100 GB a month, and `site/` is 350 MB. That wall is nearer than the git one, it is not moved by anything in phase 1, and it is the thing that would force a decision here whether or not anyone ever downloads a file. Confirm the current figures against GitHub's own limits page before planning to it.
 
 ## Open questions for you
 
