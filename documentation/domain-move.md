@@ -106,7 +106,7 @@ status: not yet run
 | ---- | -------- | ------- | -------------------- |
 | AAAA | `corpus` | `100::` | **Proxied (orange)** |
 
-**30.** Same zone → **Rules → Redirect Rules → Create rule**. Name it `corpus com to io`. Fill it in like this:
+**30.** Same zone → left sidebar **Rules** → **Redirects** (it may be called *Single Redirects*; if Rules opens on an overview, press **Create rule** and pick **Redirect Rule**). **Page Rules, sitting next to it, is the older product and does this job too** — see the fallback below. Name the rule `corpus com to io` and fill it in like this:
 
 - **When incoming requests match**: Field `Hostname` · Operator `equals` · Value `corpus.data-landscapers.com`
 - **Then**: *URL redirect* → Type **Dynamic**
@@ -114,6 +114,8 @@ status: not yet run
 - **Status code**: `301`
 - **Preserve query string**: **on**
 - Save and deploy.
+
+**30a — the Page Rules fallback.** If Redirect Rules cannot be found, a Page Rule does the same thing and is simpler to fill in. The catch is the allowance: the free plan gives **3 Page Rules and this move needs exactly 3**, leaving none spare ever after, against 10 for Redirect Rules. Use *If the URL matches* `corpus.data-landscapers.com/*` → *Then the settings are* **Forwarding URL** → **301 Permanent Redirect** → destination `https://corpus.data-landscapers.io/$1`. The `/*` captures the path and `$1` puts it back, which is what makes a deep link land in the right place; the query string carries across on its own.
 
 > **CHECK 31.** Paste an old deep link into a browser — for example `https://corpus.data-landscapers.com/reports/KEN/KEN-status.html`. It must land on the **same page** on `.io`, not on the front page.
 
@@ -127,7 +129,7 @@ status: not yet run
 
 **35.** Cloudflare → `.com` zone → **DNS**. Delete the four `A` records on `@`. Add instead: **AAAA · `@` · `100::` · Proxied (orange)**. Change the `www` record to **AAAA · `www` · `100::` · Proxied (orange)** as well.
 
-**36.** **Rules → Redirect Rules → Create rule**, named `main com to io`:
+**36.** **Rules → Redirects → Create rule**, named `main com to io` (or two Page Rules on the same pattern as 30a, `data-landscapers.com/*` and `www.data-landscapers.com/*`, both to `https://data-landscapers.io/$1`):
 
 - **When**: Field `Hostname` · Operator `is in` · Value `data-landscapers.com` and `www.data-landscapers.com`
 - **Then**: Dynamic → `concat("https://data-landscapers.io", http.request.uri.path)` → `301` → preserve query string **on**
