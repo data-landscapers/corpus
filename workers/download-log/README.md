@@ -39,6 +39,30 @@ Sees a request for a `.pdf` or `.csv` on `corpus.data-landscapers.io`, writes th
 
 **6. Check it.** Download any PDF from the site, wait a few seconds, then open *KV* → `downloads` → the key should be there, named for the path — `reports/KEN/KEN-status-2026-08-18.pdf` — with a value like `{"first":"2026-08-18","last":"2026-08-18","n":1,"bots":0}`.
 
+### If the Bindings screen offers no fields
+
+*(2026-08-18: it showed Cloudflare's KV sample code and nothing to fill in.)* **Declare the binding in the Worker's configuration file instead**, which is where the dashboard would have put it anyway.
+
+Get the namespace's ID first: *KV* → the `downloads` namespace → it is the 32-character hex string shown as **Namespace ID** (also the last part of the page's URL).
+
+Then open the Worker → *Edit code* → in the file list find **`wrangler.jsonc`** (or `wrangler.toml`). Leave `name`, `main` and `compatibility_date` alone and add one block:
+
+```jsonc
+  "kv_namespaces": [
+    { "binding": "DOWNLOADS", "id": "<the 32-character namespace id>" }
+  ]
+```
+
+In `wrangler.toml` the same thing is written:
+
+```toml
+[[kv_namespaces]]
+binding = "DOWNLOADS"
+id = "<the 32-character namespace id>"
+```
+
+Deploy. `binding` is the variable name the code reads, so it must stay `DOWNLOADS`; `id` says which namespace it points at. Mind the comma placement in the JSON — a block added after an existing entry needs a comma before it.
+
 **If nothing appears**, the binding name is the thing to check first: the code reads `env.DOWNLOADS` and does nothing at all if that binding is absent, by design, so a mistyped variable name fails silently and safely.
 
 ## Reading it
