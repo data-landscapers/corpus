@@ -28,7 +28,7 @@ from html import escape as e
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import render  # noqa: E402  — the script that *names* editions also parses them (§9)
+import editions  # noqa: E402  — §9's filename grammar has one implementation
 import vault_lib  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -82,11 +82,11 @@ def edition_pdf(folder: Path, stem: str) -> str:
     edition and the newest one is whatever the last render actually cut, which is not necessarily
     today — a document that did not change is not re-rendered and keeps the edition it has.
 
-    **Newest by `render.py`'s ordering, not by filename** *(2026-08-18)*. Sorting the names and
+    **Newest by `editions.py`'s ordering, not by filename** *(2026-08-18)*. Sorting the names and
     taking the last was right until §9's same-day `-2` suffix existed, and then quietly wrong in
     the one case it matters: `-2026-08-18-2.pdf` sorts *before* `-2026-08-18.pdf`, because `-`
     precedes `.`, so the newer edition of the two would never be the one offered."""
-    dated = [(render.edition_key(render.edition_of(p.stem) or ""), p.name)
+    dated = [(editions.edition_key(editions.edition_of(p.stem) or ""), p.name)
              for p in folder.glob(f"{stem}-20*.pdf")]
     return max(dated)[1] if dated else ""
 

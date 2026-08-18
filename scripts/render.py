@@ -30,6 +30,11 @@ from pathlib import Path
 
 import markdown
 
+# The edition grammar and the same-day suffix live in `editions.py`, because `country.py`,
+# `topic-page.py` and `finance.py` all read or write editions too (§9).
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import editions  # noqa: E402
+
 CORPUS = Path(__file__).resolve().parent.parent
 BUILD = CORPUS / "build"
 SITE = CORPUS / "site"
@@ -142,60 +147,6 @@ def parse_name(path: Path) -> tuple[str, str]:
             return stem[: -len(kind) - 1], kind
     unit, _, kind = stem.partition("-")
     return unit, (kind or "report")
-
-
-# **One grammar for an edition, in the script that names them.** `country.py` and
-# `topic-page.py` both read an edition back off a filename to decide which one is current, and
-# a second copy of this rule in either of them is a second place for the two to disagree — the
-# `-2` suffix below broke both of them the moment it existed, precisely because they each held
-# their own idea of what an edition looks like.
-EDITION = re.compile(r"^(?P<date>\d{4}-\d{2}-\d{2})(?:-(?P<seq>\d+))?$")
-STEM_EDITION = re.compile(r"-(\d{4}-\d{2}-\d{2}(?:-\d+)?)$")
-
-
-def edition_of(stem: str) -> str | None:
-    """The edition a rendered filename carries, or None if it carries none.
-
-    Anchored at the end, so the monthly and progress names that still carry a period from before
-    the 2026-08-13 rename — `KEN-monthly-2026-07-2026-08-05` — yield the edition and not the
-    window."""
-    m = STEM_EDITION.search(stem)
-    return m.group(1) if m else None
-
-
-def edition_key(edition: str) -> tuple[str, int]:
-    """Sort key for an edition: the date, then the same-day sequence as a **number**.
-
-    Sorting the strings gets this wrong in both directions, and silently. In a filename
-    `-2026-08-18-2.pdf` sorts *before* `-2026-08-18.pdf`, because `-` precedes `.`, so taking
-    the last name of a sorted list hands back the older edition. In an edition string `-10`
-    sorts before `-2`. Either way the page offers a superseded file and looks entirely
-    correct doing it."""
-    m = EDITION.match(edition or "")
-    return (m.group("date"), int(m.group("seq") or 1)) if m else ("", 0)
-
-
-def next_edition(out_dir: Path, stem: str, today: str) -> str:
-    """Today's edition for this document — suffixed if today's name is already taken.
-
-    **The first edition of a day is unsuffixed and the second takes `-2`** (design.md §9). Two
-    editions in one day is a normal occurrence rather than an edge case: SWEEP-CYCLE normally
-    runs overnight, but a session may be run during the day to force an update on a live issue
-    *(Bill, 2026-08-06)*.
-
-    **The first is never renamed when the second appears.** Making it `-1` for symmetry would
-    break every URL already handed out, which is the one thing §9 exists to prevent — so the
-    names are asymmetric, and most days have one edition, so most of them stay clean.
-
-    Existence on disk is the test, not a count kept somewhere. The retained PDFs *are* the
-    record of which names are spoken for, and a document whose content has not moved never
-    reaches here at all — the gate in `render()` holds it off first."""
-    if not (out_dir / f"{stem}-{today}.pdf").exists():
-        return today
-    n = 2
-    while (out_dir / f"{stem}-{today}-{n}.pdf").exists():
-        n += 1
-    return f"{today}-{n}"
 
 
 def stem_html_of(path: Path) -> str:
@@ -662,7 +613,8 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     # choosing the name: an explicit `--edition` is an operator naming one exactly, and the
     # repair above is restoring one that was published.
     if edition is None and pdf:
-        edition = next_edition(out_dir, md_path.stem, date.today().isoformat())
+        edition = editions.next_edition(
+            out_dir, md_path.stem, date.today().isoformat())
 
     served, stem_html, stem_pdf, edition, _ = build_document(
         md_path, edition, absolute=False, pdf=pdf)

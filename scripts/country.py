@@ -41,6 +41,7 @@ from __future__ import annotations
 
 import csv
 import html
+import io
 import re
 import shutil
 import sys
@@ -49,7 +50,7 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-import render  # noqa: E402  — the script that *names* editions also parses them (§9)
+import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -135,7 +136,43 @@ def frontmatter(text: str) -> dict:
             (l.split(":", 1) for l in head.splitlines() if ":" in l)}
 
 
-def editions(iso: str) -> list[dict]:
+def fields_csv(cols: list[str]) -> bytes:
+    """The field dictionary for one country's finance CSV, as it is published.
+
+    Built in memory rather than written straight out, because `editions.publish` is what decides
+    whether it is written at all: an edition is cut when the content changes, and the columns
+    move far less often than the rows do."""
+    buf = io.StringIO(newline="")
+    w = csv.writer(buf)
+    w.writerow(["field", "definition", "defined_in"])
+    known = {f[0] for f in FIELDS}
+    w.writerows([f for f in FIELDS if f[0] in cols]
+                + [[c, "", "not documented"] for c in cols if c not in known])
+    return buf.getvalue().encode("utf-8")
+
+
+def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, str]:
+    """Publish the country's finance CSV and its field dictionary as dated editions (§9).
+
+    **The finance CSVs are editions; the catalogue is not** *(Bill, 2026-08-18)*. These are a
+    compiled finding of ours that a reader may quote a figure out of, so they carry the same
+    discipline as the reports — dated in the filename, retained edition over edition, a new one
+    only when the content changes, and no undated URL for a citation to slip off. The catalogue
+    is a browse index over other people's records, and nobody cites it as of a date.
+
+    **The two are dated independently.** The dictionary describes the *columns*, which move far
+    less often than the rows, so pinning it to the data's edition would cut an identical copy of
+    it every time one deal was added. A dictionary cut in August still describes a September
+    edition's columns correctly, and its own date says when it last moved."""
+    data, _ = editions.publish(
+        (OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv").read_bytes(),
+        out_dir, f"{iso}-nonstate", ".csv")
+    fields, _ = editions.publish(fields_csv(cols), out_dir, f"{iso}-nonstate-fields", ".csv")
+    return {"csv_name": data.name, "fields_name": fields.name,
+            "csv_edition": editions.edition_of(data.stem) or ""}
+
+
+def report_editions(iso: str) -> list[dict]:
     """The published editions, read off the *PDF* filenames — the PDF is the
     dated artefact (`render.py`, 2026-08-11), so it is the one whose name
     tells a reader which edition is current. The HTML link is derived from
@@ -144,7 +181,7 @@ def editions(iso: str) -> list[dict]:
     offered; earlier PDFs stay on disk (retained editions, §9) but are not
     linked from the country page.
 
-    **The edition is parsed and ordered by `render.py`, which is what names it** *(2026-08-18)*.
+    **The edition is parsed and ordered by `editions.py`** *(2026-08-18)*.
     This used to take the last three hyphen-separated parts of the stem and sort the strings,
     which was right for exactly one filename grammar: §9's same-day `-2` suffix reads as
     `08-18-2` under that rule, and sorts wrong under it too. A country page that offers a
@@ -153,7 +190,7 @@ def editions(iso: str) -> list[dict]:
     found: dict[str, list[tuple[str, str, str]]] = {}
     for f in sorted((SITE / "reports" / iso).glob(f"{iso}-*.pdf")):
         parts = f.stem.split("-")
-        edition = render.edition_of(f.stem)
+        edition = editions.edition_of(f.stem)
         if len(parts) < 2 or edition is None:
             continue
         kind = parts[1]
@@ -168,7 +205,7 @@ def editions(iso: str) -> list[dict]:
         if kind not in found:
             continue
         edition, pdf_name, html_name = max(found[kind],
-                                           key=lambda row: render.edition_key(row[0]))
+                                           key=lambda row: editions.edition_key(row[0]))
         rows.append({
             "kind": kind, "label": KIND[kind][0], "blurb": KIND[kind][1],
             "edition": edition, "html": html_name, "pdf": pdf_name,
@@ -504,7 +541,7 @@ FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from fina
 
     <div class="table-acts">
       <a class="btn" href="finance.html">Full table &mdash; {fin_n} commitments, all {ncols} fields &rarr;</a>
-      <a class="btn btn--accent" href="{iso}-nonstate.csv" download>&darr; Download CSV</a>
+      <a class="btn btn--accent" href="{csv_name}" download>&darr; Download CSV</a>
     </div>"""
 
 FINANCE_EMPTY = """    <p>No non-state finance commitments are currently held for {name}.</p>"""
@@ -544,8 +581,8 @@ FINANCE = """<!DOCTYPE html>
         <span class="dt-title">{name} &mdash; non-state finance</span>
         <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
         <span class="data-table-count" id="count">{fin_n} rows</span>
-        <a class="btn" href="{iso}-nonstate.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="{iso}-nonstate-fields.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <a class="btn" href="{csv_name}" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
+        <a class="btn" href="{fields_name}" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
       </div>
       <div class="data-table-scroll">
         <table class="data-table" id="fin">
@@ -561,9 +598,11 @@ FINANCE = """<!DOCTYPE html>
       <strong>About this table</strong>
       <dl>
         <dt>Built</dt><dd class="mono">{built}</dd>
+        <dt>Edition</dt><dd class="mono">{csv_edition}</dd>
+        <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, retained as published and never revised</dd>
         <dt>Source</dt><dd><code>outputs/non-state-finance/{iso}-nonstate.csv</code>, compiled by the finance pass</dd>
         <dt>Derived from</dt><dd>Data Landscapers source base, commit <code>{commit}</code></dd>
-        <dt>Fields</dt><dd><a href="{iso}-nonstate-fields.csv">{iso}-nonstate-fields.csv</a> &mdash; what each column means</dd>
+        <dt>Fields</dt><dd><a href="{fields_name}">{fields_name}</a> &mdash; what each column means</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
@@ -652,13 +691,20 @@ def build(iso: str) -> list[Path]:
         built=built, commit=commit, fin_n=len(fin),
     )
 
+    csv_names: dict[str, str] = {}
     if fin:
         cols = list(fin[0].keys())
         ys = [y for y in (year(r.get("start_year")) for r in fin) if y is not None]
         amounts = [float(r["commitment_usd_m"]) for r in fin if r.get("commitment_usd_m")]
+        # **The CSVs are published before the pages, because the pages link them by name**
+        # *(2026-08-18)*. Which name that is depends on what `publish` decided — a new edition
+        # if the data moved, the standing one if it did not — so writing the HTML first would
+        # be guessing at it, and a download link is the one thing on the page that cannot be
+        # approximately right.
+        csv_names = publish_finance_csvs(iso, out_dir, cols)
         finance_section = FINANCE_BLOCK.format(
             name=name, iso=iso, pivot=pivot(fin), cutoff=FINANCE_CUTOFF,
-            fin_n=len(fin), ncols=len(cols))
+            fin_n=len(fin), ncols=len(cols), **csv_names)
     else:
         cols, ys, amounts = [], [], []
         finance_section = FINANCE_EMPTY.format(name=name)
@@ -667,7 +713,7 @@ def build(iso: str) -> list[Path]:
         tracked=tracked(iso)[0],
         sources=f"{n_place:,}", cat_total=f"{n_all:,}",
         publishers=", ".join(f"<span>{e(p)} ({c})</span>" for p, c in pubs),
-        reports=report_rows(editions(iso), iso),
+        reports=report_rows(report_editions(iso), iso),
         finance_section=finance_section,
         **common), encoding="utf-8")
 
@@ -685,24 +731,9 @@ def build(iso: str) -> list[Path]:
             rows=full_rows(sorted(fin, key=lambda r: r.get("start_year", ""), reverse=True), cols),
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
-            **common), encoding="utf-8")
+            **csv_names, **common), encoding="utf-8")
         written.append(out_dir / "finance.html")
-
-        fin_csv = OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv"
-        dst = out_dir / f"{iso}-nonstate.csv"
-        if dst.exists():
-            dst.unlink()
-        shutil.copyfile(fin_csv, dst)
-        written.append(dst)
-
-        fields_path = out_dir / f"{iso}-nonstate-fields.csv"
-        with open(fields_path, "w", encoding="utf-8", newline="") as fh:
-            w = csv.writer(fh)
-            w.writerow(["field", "definition", "defined_in"])
-            known = {f[0] for f in FIELDS}
-            w.writerows([f for f in FIELDS if f[0] in cols]
-                        + [[c, "", "not documented"] for c in cols if c not in known])
-        written.append(fields_path)
+        written += [out_dir / csv_names["csv_name"], out_dir / csv_names["fields_name"]]
 
     return written
 

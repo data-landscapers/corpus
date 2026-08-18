@@ -16,7 +16,8 @@ outside. Both directions are cases below.
 
 Two cases cut real PDFs, so the run takes a few seconds. They are worth their cost: they are
 the two branches that decide an *edition name* rather than whether to render at all, and a
-name is the thing a citation rests on.
+name is the thing a citation rests on. The grammar those names are built from is
+`editions.py`, and it is tested by `test_editions.py`.
 """
 
 from __future__ import annotations
@@ -105,29 +106,6 @@ def case_missing_pdf_is_repaired_in_place(tmp):
     assert edition_of(html) == edition, "the page must still name the edition it named"
 
 
-def case_second_edition_of_a_day_is_suffixed(tmp):
-    """§9: the first edition of a day is unsuffixed, the second takes `-2`, and the first is
-    never renamed. Tested against `next_edition` directly — the rule is about names on disk,
-    and typesetting three PDFs to prove it would only make the test slow."""
-    out = tmp / "out"
-    out.mkdir()
-    today = "2026-08-18"
-    assert render_mod.next_edition(out, "KEN-status", today) == today, \
-        "the first edition of a day carries no suffix"
-
-    (out / f"KEN-status-{today}.pdf").touch()
-    assert render_mod.next_edition(out, "KEN-status", today) == f"{today}-2", \
-        "the second edition of a day takes -2"
-
-    (out / f"KEN-status-{today}-2.pdf").touch()
-    assert render_mod.next_edition(out, "KEN-status", today) == f"{today}-3", \
-        "the third takes -3"
-
-    (out / f"KEN-monthly-{today}.pdf").touch()
-    assert render_mod.next_edition(out, "KEN-progress", today) == today, \
-        "another document's editions must not shift this one's"
-
-
 def case_a_published_edition_is_never_overwritten(tmp):
     """The whole point of the suffix, end to end: cut, move the body, cut again the same day,
     and the first PDF must still be the bytes that were published under its name."""
@@ -144,24 +122,6 @@ def case_a_published_edition_is_never_overwritten(tmp):
     assert second.name.endswith("-2.pdf"), f"expected a -2 suffix, got {second.name}"
     assert first.read_bytes() == was, "the published edition must be untouched, to the byte"
     assert edition_of(html).endswith("-2"), "the page must now name the edition it offers"
-
-
-def case_edition_grammar(tmp):
-    """The filename grammar `country.py` and `topic-page.py` now read editions with. Both used
-    to hold their own copy of it, and both were wrong about the suffix in a way that shows up
-    only as a page quietly offering a superseded PDF."""
-    of, key = render_mod.edition_of, render_mod.edition_key
-
-    assert of("KEN-status-2026-08-18") == "2026-08-18"
-    assert of("KEN-status-2026-08-18-2") == "2026-08-18-2", "a suffixed edition must parse whole"
-    assert of("KEN-monthly-2026-07-2026-08-05") == "2026-08-05", \
-        "a name still carrying its period must yield the edition, not the window"
-    assert of("KEN-status") is None, "an undated name carries no edition"
-
-    assert key("2026-08-18-2") > key("2026-08-18"), "a same-day second edition is the newer"
-    assert key("2026-08-18-10") > key("2026-08-18-2"), "the sequence orders as a number"
-    assert key("2026-08-19") > key("2026-08-18-9"), "the date orders first"
-    assert max(["2026-08-18-2", "2026-08-18"], key=key) == "2026-08-18-2"
 
 
 def case_force_overrides(tmp):
@@ -195,9 +155,7 @@ CASES = [
     ("a body that has moved cuts an edition", case_moved_body_cuts),
     ("a frontmatter-only change cuts nothing", case_frontmatter_only_holds_off),
     ("a deleted PDF is re-cut under its own name", case_missing_pdf_is_repaired_in_place),
-    ("the second edition of a day is suffixed, not overwritten", case_second_edition_of_a_day_is_suffixed),
     ("a published edition survives a same-day re-cut, to the byte", case_a_published_edition_is_never_overwritten),
-    ("the edition grammar parses and orders every name in the tree", case_edition_grammar),
     ("--force cuts regardless", case_force_overrides),
     ("an explicit --edition cuts regardless", case_explicit_edition_overrides),
     ("a page carrying no record cuts", case_page_without_a_record_cuts),

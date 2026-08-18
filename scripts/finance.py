@@ -3,7 +3,7 @@
 
     python scripts/finance.py
       -> site/finance/index.html          the non-state finance landing
-      -> site/finance/all-nonstate.csv    the full download (published from source)
+      -> site/finance/all-nonstate-{edition}.csv   the full download, a dated edition (§9)
 
 Status: SHELL. The aggregation below is real and runnable; the page LAYOUT is a
 placeholder for Cowork to design. It exists so the nav link `{base}/finance/`
@@ -19,9 +19,12 @@ Non-state only, deliberately: the domestic-budget side lives in the per-country
 `{ISO3}-budget.csv` / `{ISO3}-summary.csv` and is not aggregated here yet (TODO).
 """
 from __future__ import annotations
-import csv, shutil, sys
+import csv, sys
 from collections import Counter, defaultdict
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -106,7 +109,7 @@ CHROME = """  <header class="site-header">
   </nav>""".format(base=SITE_BASE, main=MAIN_SITE)
 
 
-def render(agg: dict, names: dict) -> str:
+def render(agg: dict, names: dict, csv_name: str) -> str:
     yr = f"{agg['year_min']}–{agg['year_max']}" if agg["year_min"] else "n/a"
     # SHELL body: headline stats + a top-financiers list. The full design
     # (by-sector, by-place matrix, links to country finance pages) is TODO.
@@ -128,7 +131,7 @@ def render(agg: dict, names: dict) -> str:
   <p>Deals financed by non-state actors across the base — {agg['deals']:,} deals,
      US${agg['total_usd_m']:,.0f}m committed, {agg['financiers']:,} financiers,
      {agg['places']} recipient countries, {yr}.</p>
-  <p><a href="all-nonstate.csv" download>Download all-nonstate.csv</a> — one row per deal.</p>
+  <p><a href="{csv_name}" download>Download {csv_name}</a> — one row per deal. A dated edition (§9): retained as published, and never revised.</p>
 
   <h2>Top financiers by commitment</h2>
   <table><thead><tr><th>Financier</th><th>Committed</th></tr></thead><tbody>{rows}</tbody></table>
@@ -147,8 +150,11 @@ def main() -> int:
     names = place_names()
     out = SITE / "finance"
     out.mkdir(parents=True, exist_ok=True)
-    (out / "index.html").write_text(render(agg, names), encoding="utf-8")
-    shutil.copyfile(sdir / "all-nonstate.csv", out / "all-nonstate.csv")
+    # Published before the page, because the page links it by name, and which name that is
+    # depends on whether `publish` cut a new edition or kept the standing one (§9).
+    csv_path, _ = editions.publish((sdir / "all-nonstate.csv").read_bytes(),
+                                   out, "all-nonstate", ".csv")
+    (out / "index.html").write_text(render(agg, names, csv_path.name), encoding="utf-8")
     print(f"finance (SHELL): {agg['deals']:,} deals, US${agg['total_usd_m']:,.0f}m "
           f"-> site/finance/index.html")
     return 0
