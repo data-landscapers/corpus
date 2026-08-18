@@ -152,7 +152,7 @@ status: not yet run
 
 ## Part 8 — turn Cloudflare on properly
 
-**38.** Cloudflare → **`.io`** zone → **DNS**. Switch the apex, `www` and `corpus` records to **Proxied (orange)**.
+**38.** Cloudflare → **`.io`** zone → **DNS**. Switch three records to **Proxied (orange)**: **`data-landscapers.io`** (the apex — the table lists records by full hostname, not by the `@` shorthand used for entering them), **`www.data-landscapers.io`** and **`corpus.data-landscapers.io`**. Check the zone selector says `.io` and not `.com`.
 
 **39.** **SSL/TLS → Overview** → set to **Full (strict)**. **Do not choose Flexible.**
 
