@@ -33,7 +33,7 @@ status: not yet run
 
 **5.** Cloudflare shows a list of DNS records it found. **Stop and open your registrar's DNS page in another tab.** Compare the two lists line by line.
 
-**6.** Add by hand anything Cloudflare missed. **Look especially for `MX` records and any `TXT` records** — those are email, and a missing one stops your mail.
+**6.** Add by hand anything Cloudflare missed, and expect it to have missed something. **Cloudflare's scan guesses common subdomain names; it does not know yours.** `corpus` is not a name it guesses, and when this was run on 2026-08-18 that record was not imported — so `corpus.data-landscapers.com` stopped resolving the moment the nameservers changed at step 9. **Look especially for `MX` records and any `TXT` records**, which are email: a missing one stops your mail and fails silently.
 
 **7.** Go down the list and make sure **every record says "DNS only"** with a **grey** cloud. Click any orange cloud to turn it grey.
 
@@ -43,7 +43,7 @@ status: not yet run
 
 **10.** Wait. Cloudflare emails you when the domain shows **Active** — usually under an hour, sometimes up to 24.
 
-> **CHECK 11.** Load both websites. Send yourself an email at the domain. Everything should work exactly as before. If anything is broken, put the old nameservers back at the registrar and stop.
+> **CHECK 11.** Load **both** websites — `data-landscapers.com` **and `corpus.data-landscapers.com`**, by name, not from a bookmark that might be cached. Send yourself an email at the domain. Everything should work exactly as before. If anything is broken, the record for it was missed at step 6: add it, or put the old nameservers back at the registrar and start Part 2 again.
 
 ## Part 3 — put the `.io` into Cloudflare
 
@@ -100,10 +100,10 @@ status: not yet run
 
 ## Part 6 — make the old corpus address forward *(do this straight after step 28)*
 
-**29.** Cloudflare → **`data-landscapers.com`** zone → **DNS → Records**. Find the record named `corpus`. **Edit** it to:
+**29.** Cloudflare → **`data-landscapers.com`** zone → **DNS → Records**. Find the record named `corpus` and **edit** it to the values below — or, if there is no such record because the step 5 scan never imported it, **create** it with those values. Either way you end up with exactly this and nothing else on that name:
 
-| Type | Name | Content | Proxy |
-|---|---|---|---|
+| Type | Name     | Content | Proxy                |
+| ---- | -------- | ------- | -------------------- |
 | AAAA | `corpus` | `100::` | **Proxied (orange)** |
 
 **30.** Same zone → **Rules → Redirect Rules → Create rule**. Name it `corpus com to io`. Fill it in like this:
