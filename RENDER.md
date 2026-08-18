@@ -86,6 +86,12 @@ git rev-parse HEAD > BUILT-FROM
 
 **Render everything. RENDER does not judge its input** *(Bill, 2026-08-13)*. Whether a document is fit to publish is BUILD's responsibility — BUILD.md § Narrative integrity — and a render that second-guesses it is a second, weaker copy of that judgement in the wrong place.
 
+**The loop still hands over every document; `render.py` decides whether any of them has moved** *(2026-08-18)*. That is not a judgement about fitness — it is the rule `documentation/design.md` §9 already states: *an edition is cut when the content changes, not when a build runs*. It had never been implemented on this side. The edition is the render date, so the loop above cut a new dated PDF for all 241 documents on every render day and kept it for ever, which is how 1,053 PDFs and 314 MB accumulated in the fortnight from 2026-08-05. `render.py` now digests each source's body below its frontmatter, reads the digest back off the page it wrote last time, and leaves an unchanged document alone — page and PDF both. Expect most documents to report `edition unchanged` on most runs, and the count above to be unaffected: a document that was held off was handled, exits zero, and counts as rendered.
+
+**A held-off document is not restyled, and that is the point.** The PDF embeds the stylesheet, so a change to `report.css` or to the template in `render.py` reaches new editions only. A retained edition is not revised after publication (§9), so the alternative — restyling what is already published — would change the bytes under a citation. To push a presentation change through the whole set deliberately, pass `--force` in the loop; it cuts 241 editions, so it is a decision, not a habit.
+
+**The first run after 2026-08-18 cuts an edition for every document**, because no page yet carries the record the gate compares against. That is the same call `report-render.py` makes for a document with no stored digest: wrong only in the safe direction, and once.
+
 ```bash
 rendered=0; failed=0
 for md in outputs/reports/*/*-status.md outputs/reports/*/*-progress.md outputs/reports/*/*-monthly.md \
