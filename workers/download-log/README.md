@@ -93,6 +93,8 @@ In the dashboard: *KV* → `downloads` → the key list is the answer to *what h
 
 **With no token on the machine the pruner declines and deletes nothing**, printing why. That is the correct behaviour rather than a fault — but it also means the rule silently is not in effect, so a `PRUNE: declined` line that persists across runs is worth acting on.
 
+**The token was created and verified on 2026-08-18**, first try: `python scripts/prune-editions.py` read the record and reported `1401 editions on disk, 2 paths in the download record, 1401 kept, 0 deletable`. The two paths are that day's `curl` tests, and *0 deletable* against 1,401 files is forward-only doing its job — the whole published set predates the rule, so the first real candidate is still weeks away.
+
 ## What it deliberately does not do
 
 - **It does not delete anything.** The Worker only records. The deletion is `scripts/prune-editions.py`, on Bill's machine, in RENDER Step 6a — nothing online ever writes to the repo, and nothing here can remove a file. *(That separation is the point: this half runs on Cloudflare where it cannot be trusted with anything irreversible, and the half that deletes runs where the repo is, reads this record, and refuses to act whenever the record looks less than sound.)*
