@@ -2,7 +2,7 @@
 type: runbook
 title: The download-log Worker — what it does and how to deploy it
 last_reviewed: 2026-08-18
-status: not yet deployed
+status: deployed and verified 2026-08-18
 ---
 
 # download-log
@@ -36,9 +36,13 @@ Sees a request for a `.pdf` or `.csv` on `corpus.data-landscapers.io`, writes th
 
 **3. Paste the code.** Open the Worker → *Edit code* → select everything in the editor and replace it with the contents of `worker.js` beside this file → *Deploy*.
 
-**4. Bind the namespace.** Worker → *Bindings* → *Add* → **KV namespace** → **Variable name `DOWNLOADS`** (exactly that, in capitals — the code looks for `env.DOWNLOADS`) → namespace `downloads` → *Deploy*.
+**4. Bind the namespace.** Worker → *Bindings* → *Add binding*. **This is a two-step wizard and the first step has no fields** — it shows a list of binding types on the left and a description of the highlighted one on the right, sample code included. That sample says `env.KV` because it documents KV in general, not this Worker. Select **KV namespace**, then press the blue **Add Binding** button; the form appears on the *next* screen. On it: **Variable name `DOWNLOADS`** (capitals — the code looks for `env.DOWNLOADS`) and namespace `downloads`. *(This cost half an hour on 2026-08-18: the first screen reads as a dead end.)* The old path was: Worker → *Settings* → *Bindings* → *Add* → **KV namespace** → **Variable name `DOWNLOADS`** (exactly that, in capitals — the code looks for `env.DOWNLOADS`) → namespace `downloads` → *Deploy*.
 
-**5. Put it on the route.** Worker → *Domains & Routes* → *Add* → *Route* → zone `data-landscapers.io`, route `corpus.data-landscapers.io/*`.
+**5. Put it on the route.** Worker → *Domains* → *Add Route* → pick the zone `data-landscapers.io` → route pattern `corpus.data-landscapers.io/*`.
+
+**Correct the pattern it offers.** It pre-fills `*.data-landscapers.io/*`, which puts the Worker in front of *every* subdomain including any added later. Replace it with the corpus hostname.
+
+**Check the deployed code before adding the route, not after.** The route is the moment the Worker starts answering for the whole site: if the Hello World template is still deployed, every page becomes the words *Hello World*. Worker → *Edit code* → confirm `record(` and `env.DOWNLOADS` are there and the editor reports 0 errors.
 
 **The route covers everything rather than just the download directories**, and the Worker filters by file extension instead. One route cannot miss a directory added later, and the free allowance is 100,000 requests a day against a site that will not approach it. The cost is that the Worker runs on page views too and returns them untouched.
 
@@ -67,6 +71,15 @@ id = "<the 32-character namespace id>"
 ```
 
 Deploy. `binding` is the variable name the code reads, so it must stay `DOWNLOADS`; `id` says which namespace it points at. Mind the comma placement in the JSON — a block added after an existing entry needs a comma before it.
+
+**Verified working on 2026-08-18**, first try: the two test fetches produced
+
+```
+countries/KEN/KEN-nonstate-2026-08-18.csv   {"first":"2026-08-18","last":"2026-08-18","n":0,"bots":1}
+reports/KEN/KEN-status-2026-08-18.pdf       {"first":"2026-08-18","last":"2026-08-18","n":0,"bots":1}
+```
+
+**`n:0, bots:1` is the crawler split doing its job** — the tests were made with `curl`, which the user-agent check catches. A browser download lands in `n`. The two HTML pages fetched in the same run produced no keys at all, which is the extension filter doing its job.
 
 **If nothing appears**, the binding name is the thing to check first: the code reads `env.DOWNLOADS` and does nothing at all if that binding is absent, by design, so a mistyped variable name fails silently and safely.
 
