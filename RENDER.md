@@ -150,6 +150,8 @@ python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.ht
 
 **`topic-page.py` runs after Step 2, not before it.** It writes the landing page each home-page topic box opens — the two documents, their periods and their dated PDFs — by reading what Step 2 actually rendered and what BUILD wrote into `outputs/topics/`. Run before the documents exist, it writes pages advertising nothing. It also writes an `index.html` for each of the ten Level-1 categories, which is what the *All {category}* box at the end of each sub-topic row opens; that page is an index of the topics beneath it and says plainly that it is not a report.
 
+**The finance CSVs are dated editions now** *(2026-08-18)*. `country.py` publishes `{ISO3}-nonstate-{edition}.csv` and `{ISO3}-nonstate-fields-{edition}.csv` beside each country page, on §9's rule: a new edition only when the bytes move, retained edition over edition, `-2` for a second in a day. The pages are written after the CSVs because they link them by name. **The first run after this deletes the undated `{ISO3}-nonstate.csv` and `{ISO3}-nonstate-fields.csv`** — `site/` is never purged, so a file that stops being written would otherwise go on being served at a URL §9 does not allow. Expect that deletion once, in the same commit as the first dated editions, and not again. The catalogue CSV is deliberately untouched by any of this (§9, Bill's call).
+
 `country.py` builds the 54 country pages (those in `FULL_NAMES`). The 3 regions (XAF, XSA, XWA) publish as their rendered **progress** report sets from Step 2, linked under the home page's Regions section — they do not currently get a country-style page. If regions should get their own landing pages, that is a small extension to `country.py`, not a blocker for this render.
 
 ## Step 5 — build the catalogue page
@@ -165,10 +167,12 @@ Expect ~9,400 records. The page carries metadata only; each record links to its 
 ## Step 6 — build the non-state finance landing
 
 ```bash
-python scripts/finance.py         # -> site/finance/index.html + all-nonstate.csv
+python scripts/finance.py         # -> site/finance/index.html + all-nonstate-{edition}.csv
 ```
 
 This is the page the site nav's **Finance** link points at; without this step that link 404s. Expect ~1,230 deals and a headline total near US$91,000m.
+
+The cross-country CSV is a dated edition on the same rule as the per-country ones in Step 4, and the undated `all-nonstate.csv` is deleted on the first run after 2026-08-18.
 
 Per-country finance is separate and already covered by Step 4: `scripts/country.py` writes a `finance.html` beside each country's `index.html` from `{ISO3}-nonstate.csv`.
 

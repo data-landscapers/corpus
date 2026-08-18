@@ -193,7 +193,7 @@ Verification is then a single instruction anyone can follow: **hash your copy an
 
 **`/reports/KEN/KEN-status-2026-08-06.pdf` resolves for ever.** Retention is silent (§1): the reader sees the current edition and a quiet *earlier editions* affordance, not a version picker.
 
-**No undated download URL exists at all.** An undated one invites a citation that changes underneath the person who made it, which is the precise failure this section is here to prevent. Browse the HTML at a stable address; every download hands back a dated file.
+**No undated download URL exists at all.** An undated one invites a citation that changes underneath the person who made it, which is the precise failure this section is here to prevent. Browse the HTML at a stable address; every download hands back a dated file. *(One download is deliberately outside this, and it is named below rather than left as a silent exception.)*
 
 This makes catalogue slugs permanent identifiers upstream, since the source links inside a PDF downloaded today must still resolve in 2029. That is a constraint on OSINT rather than on the site, and it is recorded as a standing constraint in `osint-corpus-exchange/notes-for-osint.md`.
 
@@ -220,6 +220,20 @@ Hashing below the frontmatter is the whole trick: `compiled:` changes on every r
 **The first edition is never renamed when a second appears.** Retrospectively making it `-1` for symmetry would break every URL already handed out, which is the one thing this section exists to prevent. Asymmetry in the filenames is the price of permanence, and it is worth paying — most days have one edition, so most names stay clean.
 
 **This resolves what §6 previously held open, and better than the fudge it proposed.** The earlier suggestion was to treat status reports as uncitable, because dating every nightly re-render would have produced thousands of near-identical PDFs a year. With content-change minting the volume tracks real movement instead: a country whose ledger moves twice a year gets two editions, not seven hundred. All three report types are therefore citable, which is the right answer — the status report is the one a reader is most likely to have downloaded.
+
+### Which downloads are editions
+
+*(Settled 2026-08-18, on Bill's instruction that the finance CSVs should be dated and follow the same rules, and that the catalogue need not be.)*
+
+**The rule was written for the PDFs and had never reached the CSVs.** `site/countries/{ISO3}/{ISO3}-nonstate.csv`, its field dictionary and `site/finance/all-nonstate.csv` were overwritten in place on every build, at an undated URL, with a download button beside them — which is this section's opening scenario exactly, in the one format a reader is most likely to quote a figure straight out of. All three are now editions on the same terms as the reports.
+
+**The gate is a byte comparison, not a digest of the source.** A PDF carries its build date inside it and so differs from its predecessor on every render, which is why `render.py` has to compare a digest of the markdown it was made from. A CSV written from unchanged data is the same file, so the newest retained edition can simply be read back and compared — and the retained editions are then their own record, with nothing kept beside them that could fall out of step with what was actually published.
+
+**The data CSV and its field dictionary carry independent editions.** The dictionary describes the *columns*, which move far less often than the rows do, so pinning it to the data's edition would cut an identical copy of it every time one deal was added. A dictionary cut in August still describes a September edition's columns correctly, and its own date says when it last moved.
+
+**The undated predecessor is deleted when the dated edition first appears.** That does break a URL that was published, and it is the lesser of the two breakages: `site/` is generated but never purged, so a file that simply stops being written would go on being served indefinitely, and an undated URL left in place keeps inviting the citation this section exists to prevent. It has been live for days, against a rule meant to hold for years.
+
+**The catalogue is not an edition** *(Bill, 2026-08-18)*. `raw-catalogue.csv` stays at its undated URL, republished wholesale on every build. The distinction being drawn is between a compiled finding of ours — a ledger, a set of commitments, something a reader quotes a figure out of and may be asked to stand up — and an index over other people's records, which is what the catalogue is: every row points at a publisher's own document, and it is the pointer rather than the claim. It is worth naming as an exception to *no undated download URL exists at all* rather than leaving it as the one download that quietly does not follow the rule, because the argument for dating it would be the same argument, and if anyone ever cites a catalogue count as of a date, it should become an edition too.
 
 ### Not yet
 

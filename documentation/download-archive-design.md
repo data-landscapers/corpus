@@ -75,6 +75,8 @@ The **sole-door** property is what makes "only keep what was wanted" true by con
 
 ## Precondition: the CSVs must become editions
 
+**Done for the finance CSVs on 2026-08-18, and the catalogue is deliberately outside it** *(Bill)*. `{ISO3}-nonstate`, its field dictionary and `all-nonstate` are now dated editions on §9's rule — a new one only when the bytes move, retained, `-2` for a second in a day, and no undated URL left standing. So the precondition below is met for everything this note would archive, and the catalogue, which it would not, stays a browse index. What is left of the CSV half is the same question as the PDF half: whether a gateway mints on demand, not whether there is anything stable to mint.
+
 Your outstanding CSV-dates work is not a side-quest — it's the gate for the CSV half. A downloaded CSV is only citable if it's a **frozen, dated edition**, the same discipline the PDFs already carry (build-date in the filename, a new edition only when content changes). "Add dates to the CSVs" is really "make the CSVs editions"; until they are, there's nothing stable for the archive to freeze.
 
 ## What it costs, fully weighed
