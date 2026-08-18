@@ -23,6 +23,11 @@ Sees a request for a `.pdf` or `.csv` on `corpus.data-landscapers.io`, writes th
 
 *(Cloudflare's dashboard is reorganised often, so these are the things that have to be true rather than a promise about what the buttons are called. Screens moved twice during the `.io` move on the same day. **Bindings** and **Domains & Routes** sit alongside *Settings* on a Worker's page rather than inside it, and in older dashboards they are under it.)*
 
+**Two deep links that skip the menus entirely**, and resolve to the right account on their own:
+
+- KV namespaces — `https://dash.cloudflare.com/?to=/:account/workers/kv/namespaces`
+- Workers — `https://dash.cloudflare.com/?to=/:account/workers`
+
 **Both KV and Workers are account-level, not inside a domain.** If the left sidebar is showing `data-landscapers.io`, click the Cloudflare logo or the account name in the breadcrumb to come up a level; the zone sidebar does not carry either of them. The dashboard search box is quicker than hunting for the label, which is *Workers & Pages* in the older dashboard and *Compute (Workers)* in the newer one. The first Worker you create will also ask you to choose a `workers.dev` subdomain — pick anything, it is never used, since this Worker is bound to a route on your own domain.
 
 **1. Create the KV namespace.** *Storage & Databases* → *KV* → *Create a namespace* → name it `downloads`.
