@@ -1,16 +1,16 @@
 ---
 title: Mauritania — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: MRT
-ledger_rows: 15
+ledger_rows: 16
 not_held: 4
-record: dcbdb49729e1
+record: 7478fcc70b29
 ---
 
 # Mauritania: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -55,6 +55,10 @@ The Ministry of Foreign Affairs and the digital ministry [launched a consular-se
 On 4 August the digital ministry [launched the digitisation of SNDE's services and their integration into the Mes Services portal](https://ami.mr/fr/archives/300346), with the water utility's transactions available remotely from that day. German cooperation was thanked by name with no amount, instrument or term stated, and no usage figure exists.
 
 The clearest disclosure of the month came at a [workshop on the tax regime for public bodies on 30 July](https://www.ami.mr/archives/265398). The Finance Minister announced an electronic invoicing system for public institutions, handling VAT and withholding at source by transferring data automatically to the tax directorate, and put [more than 500 taxpayers on the tax directorate's electronic platform producing 36.45% of directorate revenue in 2026](https://www.ami.mr/archives/265398). The Director-General of Taxes gave the counter-figures: of 642 legally constituted public bodies only 339 are active with the tax administration, around 20 are absent from the national taxpayer register, and on the electronic tax-services platform 66 public bodies are enrolled, 53 file electronically and 3 pay through it. The compliance guide announced alongside is in preparation, not published.
+
+Khdamati, the remote-transactions platform named as the third phase of the Ijraati roadmap in February and untouched since, moved into integration work in August. On 13 August the ministry [took forward its integration with the Diwan territorial-administration system with the German embassy's charge d'affaires and GIZ's resident director](https://ami.mr/fr/archives/300915), as part of decentralisation and local-development cooperation. Diwan itself is not separately held, and the integration is reported as under discussion rather than delivered.
+
+Separately the state is preparing to [recruit 3,852 education-sector agents through a national competitive examination](https://ami.mr/fr/archives/300856), with ministries coordinating the digital mechanisms planned for the process. No platform is named.
 <!-- /narrative -->
 ### National statistics
 

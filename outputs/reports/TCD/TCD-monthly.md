@@ -1,16 +1,16 @@
 ---
 title: Chad — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: TCD
-ledger_rows: 28
+ledger_rows: 30
 not_held: 42
-record: 2795932886cd
+record: 399f2c4ea127
 ---
 
 # Chad: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -24,6 +24,11 @@ Chad's month is a budget document and a birth-registration campaign. The 2027 or
 
 <!-- narrative: infrastructure--infra-capacity -->
 The national police [received seventy-four desktop computers, fifty-nine laptops, 105 surveillance cameras, communication equipment and everything needed to restore the force's public hotline](https://techgriot.co/english/africa/2026/07/chad-equips-its-national-police-with-new-tech-to-fight-cybercrime/). Nothing is stated about training, about retention of the camera or hotline data, or about the legal basis for the surveillance capability the transfer creates.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
+The window's one cyber measure is a loss figure, and it comes from research rather than from the state. A comparative study of online job scams [puts the average loss for a Chadian victim at 58,000 FCFA per incident, against 132,000 FCFA in Cameroon](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds the Chadian cases to be predominantly localised SMS and voice phishing — 70% of respondents — where the Cameroonian pattern is WhatsApp-based social engineering linked to Nigerian networks. It is a survey of respondents rather than a reported-crime series, and neither a sample size nor a national loss total is carried in the record held. Chad has no computer emergency response team and no adopted cybersecurity strategy, so there is nothing on the state's side of this to compare it against.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -56,6 +61,8 @@ The education management information system is [in use in the higher-education m
 
 <!-- narrative: dpi--dpi-govtech -->
 The 2027 budget orientations carry three govtech commitments and one system already running. From 2027 the [electronic visa is to be the exclusive channel for application, payment, processing and issue, and business creation fully online end to end](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/) — exclusivity stated with no fallback channel, and the base holding no statement on whether an electronic visa operates today. The same text extends the integrated public financial management system, already the mandated expenditure environment, to all institutions, local authorities, public establishments, projects and diplomatic missions, with no coverage figure or count of entities live. Separately a [freight bureau enrolment platform went live for Chadian hauliers working in Cameroon](https://lendjampost.com/transport-une-nouvelle-plateforme-digitale-e-bnft-pour-la-simplification-des-procedures/), presented at Douala, with no services list, deadline, fee schedule or enrolment target stated.
+
+The platform the state already uses to watch itself surfaced on 7 August, when the Prime Minister [received the two-year delivery report on the president's twelve-project programme, tracked through Guidam, the government's sovereign digital data platform](https://tchadinfos.com/2026/08/07/tchad-le-premier-ministre-recoit-le-rapport-biennal-dexecution-du-programme-du-chef-de-letat/), ahead of a cabinet seminar to align implementation reporting. Neither the report nor any description of the platform's custodian, supplier, hosting or public accessibility is held.
 <!-- /narrative -->
 ### National statistics
 

@@ -1,16 +1,16 @@
 ---
 title: Mauritius — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: MUS
-ledger_rows: 28
+ledger_rows: 31
 not_held: 9
-record: 332614c7e8d2
+record: 35ce780cb837
 ---
 
 # Mauritius: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -34,6 +34,8 @@ Cabinet also [approved for signature a memorandum with Saudi Arabia](https://www
 
 <!-- narrative: infrastructure--infra-cybersec -->
 Two cyber measures moved. The [July omnibus would empower the central bank to establish a cyber threat intelligence sharing platform](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) and to require financial institutions, and others it specifies, to participate — the clearest instance of mandatory threat-intelligence sharing in primary legislation on this record. At a [workshop on 29 July](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993) the postal operator began being wired into the Universal Postal Union's global postal threat-sharing centre, with the ICT minister naming ISO/IEC 27001 as the standard he wants adopted.
+
+August supplied the first figure for what any of this is against: [more than 4,000 reported cyber incidents in Mauritius since January 2026](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), given at the launch of the schools awareness programme. No reporting body, definition or comparable earlier period is named with it.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -91,6 +93,8 @@ The Data Protection Act 2017 is not among the Acts the July omnibus amends: the 
 
 <!-- narrative: governance--gov-discourse -->
 The month's sharpest domestic contribution was an argument about priority. A [named analyst published on 2 August](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867) the case that contract enforcement rather than technology limits growth, citing the World Bank's 2025 indicators — 42.2 on ease of commercial dispute resolution against Singapore's 73.3 — and more than 70,000 cases pending at end-2025. Its digital prescription is digitalised case management alongside a small-claims process. Analysis, not evidence.
+
+The month's other forum was external in origin. At the national Internet Governance Forum, founded by the Halley Movement, the [Blockchain for Good Alliance and the exchange Bybit met the Vice President and the ICT minister](https://www.newswire.ca/news-releases/blockchain-for-good-alliance-and-bybit-join-the-mauritius-internet-governance-forum-to-advance-digital-trust-for-small-island-states-812258483.html) to discuss artificial intelligence, cybersecurity and digital-trust frameworks for small island developing states. The record held is the visiting alliance's own press release; no forum programme, outcome document or attendance figure is held.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -113,6 +117,14 @@ The ICT minister [put information technology at about 5.4% of gross domestic pro
 
 <!-- narrative: ai-tech--geopol-usa -->
 The summit's other announcements differ in kind. The [Amazon memorandum was executed at the opening ceremony](https://techreviewafrica.com/news/6321/mauritius-telecoms-allmyt-summit-2026-brings-together-digital-leaders-to-drive-innovation) with soft scope and no disclosed value, and [its training will run initially in rented premises](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/). The claim that the operator's data centre already hosts current-generation accelerators is the chief executive's own.
+<!-- /narrative -->
+
+## Inclusion and capacity
+
+### Training and skills
+
+<!-- narrative: inclusion--capacity-training -->
+The incumbent operator opened a national cybersecurity and artificial-intelligence awareness programme for secondary students with the education ministry, [starting on 13 August at the Mahatma Gandhi Institute with about 500 Grade 10 to Grade 12 students drawn from all four education zones](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), and free ten-hour AWS training on offer alongside. A [companion account of the same workshop](https://lexpress.mu/node/561500) describes its content as online risk and responsible use of new technologies. It is an operator-run programme rather than a curriculum change, and no full-year target, budget or evaluation is stated.
 <!-- /narrative -->
 
 ## Finance

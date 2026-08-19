@@ -1,16 +1,16 @@
 ---
 title: Mali — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: MLI
-ledger_rows: 39
+ledger_rows: 41
 not_held: 4
-record: 6f2d800af338
+record: 632ee862ae65
 ---
 
 # Mali: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -45,6 +45,8 @@ A [national information systems security agency was created by Council of Minist
 
 <!-- narrative: dpi--dpi-exchange -->
 The national public key infrastructure and electronic signature services were [recommended for effective deployment at the digital week on 1 August](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html). Nothing names a first service, an operator or a date.
+
+Customs is the one exchange with a build behind it. At a Bamako round table on 7 August convened by the Prime Minister's office and the chamber of commerce with private operators, the customs directorate [presented a project to interconnect customs information systems for goods in transit](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/), aimed at cutting customs, transit and import-export processing times and building on a World Bank technical mission of 31 July. [Mali's implementation of the WTO Trade Facilitation Agreement was put at 83.6%](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/) at the same consultation. No counterpart administration, timetable, cost or system name is stated.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -100,7 +102,7 @@ On 1 August the Semaine du Numerique's recommendations included [a data-manageme
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-On 15 July, at the UEMOA digital economy salon in Ouagadougou, Mali [spoke for the three AES states and the salon adopted a Declaration de Ouagadougou](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/) recommending that member governments place digital at the centre of national strategies.
+On 15 July, at the UEMOA digital economy salon in Ouagadougou, Mali [spoke for the three AES states and the salon adopted a Declaration de Ouagadougou](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/) recommending that member governments place digital at the centre of national strategies, and identifying financing opportunities under the union's ICT fund. The [same communique records the minister at the Global Dialogue on AI Governance and the World Summit on the Information Society in Geneva from 6 to 10 July](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-31-sgg/), arguing for Global South data rights, fairer sharing of the benefits of artificial intelligence, a capacity-building fund for least-developed countries, and the integration of African languages into AI models. Positions stated, with no instrument or commitment attached to any of them.
 
 The same 1 August recommendations also included establishing [a Conseil national du Numerique](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
 <!-- /narrative -->
@@ -139,6 +141,11 @@ Mali joined a regional framework rather than making one. Six francophone West Af
 
 ## Inclusion and capacity
 
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The month's one measure of what connectivity costs a Malian is a comparison with the neighbour. About [1.5GB of mobile data in Bamako buys what 25GB buys in Dakar](https://theafricantribune.info/malis-telecom-costs-surge-while-senegal-thrives-in-data-affordability/) — a ratio of roughly 25 to 1, which critics attribute to weak market oversight by the regulator, the duopoly of the two incumbent operators, and the years since a new operator licence was issued. It is a press comparison rather than a regulator or operator tariff series, and neither the basket nor the date of the prices compared is stated; taken at its own weight it still sits awkwardly against the digital-sovereignty case the same month's fora were built around.
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->

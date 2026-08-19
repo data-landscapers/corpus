@@ -1,15 +1,15 @@
 ---
 title: Mali — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-19
 place: MLI
-ledger_rows: 69
+ledger_rows: 70
 not_held: 3
-record: 5625ab3f63b4
+record: ea1654ae2891
 ---
 
 # Mali: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/MLI/ledger.csv` (69 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/MLI/ledger.csv` (70 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -82,6 +82,7 @@ Two positions are recommendations rather than systems: [a law making SMTD-SA the
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Customs systems interconnection for goods in transit | [In development](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/) | High-level consultation on trade facilitation held in Bamako 2026-08-07 |
 | National public key infrastructure and e-signature services | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Effective deployment recommended at the Semaine du Numerique 2026-08-01 |
 
 ### Digital Identity and CRVS
