@@ -3,18 +3,18 @@ title: Botswana — progress report, 2025-08-01 to 2026-08-19
 compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 place: BWA
-ledger_rows: 100
+ledger_rows: 101
 not_held: 11
-record: c77dfce1af26
+record: f2e6c816f297
 ---
 
 # Botswana: progress report, 2025-08-01 to 2026-08-19
 
 *Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 100 systems and instruments on this place's ledger, 41 changed position between 2025-08-01 and 2026-08-19, 18 did not, 30 carry no stated baseline, and 11 are ***Not held*** at both ends.*
+*Of 101 systems and instruments on this place's ledger, 41 changed position between 2025-08-01 and 2026-08-19, 18 did not, 31 carry no stated baseline, and 11 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 163 sources for this place in the window — 39 in the earlier half (2025-08 to 2026-01), 124 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 164 sources for this place in the window — 39 in the earlier half (2025-08 to 2026-01), 125 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -112,6 +112,7 @@ Two measures did not move at all, and both matter. [International internet traff
 | Biometric grant payment cards | More than 75,000 beneficiaries and 1,200 shops (2025-05) | [The same figure; no update in the twelve months](https://techafricanews.com/2025/05/28/smartswitch-botswana-pioneers-dignified-digital-aid-for-75000-beneficiaries/) | No change |
 | Citizen Wallet | ***Baseline not held*** | [Announced as a unified wallet for subsidy delivery alongside a cryptographic card; no build, pilot, budget line or date since](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/) | ***Baseline not held*** |
 | National payment switch | ***Baseline not held*** | [Funded in plan only; no build, procurement, operator or date on the record](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) | ***Baseline not held*** |
+| Remittance wallet payment card | Not held | [A card issued on a remittance operator's wallet by a commercial bank on an international scheme, adding ATM withdrawal, in-store payment and domestic online payment to a wallet that previously carried transfer and cash-out only](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/) | ***Baseline not held*** |
 | Taxi cashless payment and financing partnership | Not held | [A commercial bank and the Yellow Light Taxi Association launched card acceptance on the bank's mobile tap product for taxi operators, with access to business loans of up to P60,000 conditioned on a formal banking history built through it](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators) | ***Baseline not held*** |
 
 ### Registries (population, land, address, etc.)

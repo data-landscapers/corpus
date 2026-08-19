@@ -2,14 +2,14 @@
 title: Botswana — digital transformation and data governance status report
 compiled: 2026-08-19
 place: BWA
-ledger_rows: 91
+ledger_rows: 92
 not_held: 11
-record: 04423b577e00
+record: a09012220713
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (91 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (92 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -101,6 +101,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 | Citizen Wallet | [Planned](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/) | Presented to a rural development council, 2025-09-17 |
 | Instant cross-border payment corridor into Botswana | [Implemented](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) | Corridor went live 2026-03-02 |
 | National payment switch | [Planned](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) | Named inside a P486m ICT allocation sought under the twelfth development plan |
+| Remittance wallet payment card | [Implemented](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/) | Launched 2026-08-18 |
 | Taxi cashless payment and financing partnership | [Implemented](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators) | Unveiled in Gaborone 2026-08-09 |
 
 ### Registries (population, land, address, etc.)

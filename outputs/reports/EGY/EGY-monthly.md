@@ -3,9 +3,9 @@ title: Egypt — monthly update, July 2026
 compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 place: EGY
-ledger_rows: 78
+ledger_rows: 79
 not_held: 54
-record: bdc0589cd169
+record: fa43b5deb7ca
 ---
 
 # Egypt: monthly update, July 2026
@@ -26,6 +26,8 @@ Cabinet then agreed on 29 July to review the social-media statutes and raise fin
 
 <!-- narrative: infrastructure--infra-connect -->
 An independent measurement published on 3 August 2026 gave the first full-year reading of Egypt's 5G launch. Six months after commercial service began in June 2025, the 5G median download speed had fallen to about 89 Mbps from 110.5 Mbps on launch day, and the combined 4G and 5G median stood at 34.77 Mbps against a pre-launch baseline of 37.68 Mbps ([measurement](https://www.ookla.com/articles/5g-north-africa-2026)). Egypt is the only one of the four North African launch markets with no published coverage or quality obligation attached to its award.
+
+Attention has moved to the band above it. The incumbent, the regulator and a Chinese vendor [ran a mobile base station and a data call over upper 6 GHz on 19 August, reported at about 1.7 Gbps per user](https://itweb.africa/article/telecom-egypt-tests-high-capacity-spectrum/RgeVDqPRka37KJN3) and stated by the operator as the first such trial in Egypt and in Africa. It is a trial: no allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own.
 <!-- /narrative -->
 ### Data Storage
 

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-19
 place: AGO
 ledger_rows: 37
 not_held: 7
-record: 17231fa0fdb7
+record: 3a3430b0c5e0
 ---
 
 # Angola: monthly update, July 2026
@@ -42,6 +42,8 @@ The aftermath produced the first public pressure for rules rather than repair: c
 The Executive's first answer to the National Assembly on critical-infrastructure risk, given on 31 July, was the standing build programme — the national data centre and the country-code domain — with no new measure, obligation or timetable announced. Telecommunications remains undesignated as critical national infrastructure, and named analysts argued during the month that it should be designated alongside power and water.
 
 A regional preparatory meeting on radiocommunications opened in Luanda on 3 August, seven days into the outage and two before it closed, with the resilience of telecommunications infrastructure on its agenda.
+
+Check Point Research's July telemetry [puts Angolan organisations at 5,714 attacks a week against an African average of 3,237](https://techtrends.africa/ransomware-attacks-double-year-over-year/), the highest of the four African markets it broke out — the vendor's installed base, not a national measurement.
 <!-- /narrative -->
 
 ## Digital public infrastructure

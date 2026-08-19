@@ -1,12 +1,12 @@
 ---
 title: DR Congo — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 164
+sources_cited: 165
 sections_written: 37
 not_established: 2
 acquire_lines: 49
@@ -25,7 +25,7 @@ The east also gained a land route to the sea that month: [Paratus lit its Goma-t
 
 The state fibre programme had [laid 7,000 km of backbone by August 2026 against a target above 18,500 km, with 145 territoires to connect by 2030](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de). The universal service fund, [unfunded for years after its 2020 creation](https://actualite.cd/2025/02/19/kinshasa-des-jeunes-et-membres-de-internet-society-outilles-sur-le-bien-fonde-du-fonds), [signed its first subsidy conventions on 8 August 2026 with Orange, Vodacom, Africell and Airtel, covering 40 rural and peri-urban localities and roughly 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites). The largest announced build is [a memorandum with China's Genew Technologies for about 2,100 km of fibre along the Congo River](https://www.connectingafrica.com/fiber-networking/drc-plans-1-5b-fiber-optic-project-along-congo-river).
 
-Satellite has gone from illegal to licensed: [ARPTC granted Starlink an internet service provider licence in May 2025, reversing its own March 2024 position that its terminals were illegal](https://actualite.cd/2025/05/02/rdc-starlink-obtient-une-licence-officielle-pour-operer-comme-fournisseur-dacces). It is now [resold into the interior, from an office opened at Kindu in April 2026](https://actualite.cd/2026/04/03/maniema-somaf-group-ouvre-un-bureau-kindu-et-mise-sur-starlink-pour-resorber-le-deficit), while the state incumbent SCPT [could pay salaries only every four months, improved to roughly every two (June 2026)](https://rdc-monde.com/scpt-ce-que-lon-ne-dit-pas-sur-les-efforts-de-redressement-en-cours/).
+Satellite has gone from illegal to licensed to sold as a mobile service. [ARPTC granted Starlink an internet service provider licence in May 2025, reversing its own March 2024 position that its terminals were illegal](https://actualite.cd/2025/05/02/rdc-starlink-obtient-une-licence-officielle-pour-operer-comme-fournisseur-dacces); it is [resold into the interior, from an office opened at Kindu in April 2026](https://actualite.cd/2026/04/03/maniema-somaf-group-ouvre-un-bureau-kindu-et-mise-sur-starlink-pour-resorber-le-deficit); and in August 2026 Airtel and Starlink [commercially launched satellite-to-mobile service in DR Congo, which the two companies call the first commercial deployment of Starlink Mobile in Africa](https://www.connectingafrica.com/connectivity/airtel-africa-starlink-launch-satellite-to-mobile-service-in-drc) — a compatible handset and a clear view of the sky, no additional equipment, and a free 30-day trial on registration, with no standing tariff or coverage map published. The state incumbent SCPT, meanwhile, [could pay salaries only every four months, improved to roughly every two (June 2026)](https://rdc-monde.com/scpt-ce-que-lon-ne-dit-pas-sur-les-efforts-de-redressement-en-cours/).
 
 ### Data Storage
 <!-- infra.store -->

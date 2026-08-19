@@ -3,18 +3,18 @@ title: Egypt — progress report, 2025-08-01 to 2026-08-19
 compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 place: EGY
-ledger_rows: 185
+ledger_rows: 186
 not_held: 54
-record: cf5a35d80a5b
+record: f94962b32ef4
 ---
 
 # Egypt: progress report, 2025-08-01 to 2026-08-19
 
 *Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 185 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-19, 19 did not, 44 carry no stated baseline, and 54 are ***Not held*** at both ends.*
+*Of 186 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-19, 19 did not, 45 carry no stated baseline, and 54 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 180 sources for this place in the window — 40 in the earlier half (2025-08 to 2026-02), 140 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 183 sources for this place in the window — 40 in the earlier half (2025-08 to 2026-02), 143 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -41,6 +41,7 @@ That last figure needs reading carefully. The base carries no connection count f
 | AWS CloudFront edge location, Cairo | In operation since May 2024, with a vendor-stated latency reduction of up to about 30% for content delivered in Egypt | [Same; no capacity expansion or additional presence is recorded](https://aws.amazon.com/about-aws/whats-new/2024/05/new-edge-location-egypt) | No change |
 | Mobile tower expansion programme | The base carries no tower count or programme statement before February 2026 | [About 3,000 new towers planned in 2026 and more than 9,000 over three years, towers stated as doubled since 2019, against a target of 40,000 by 2028; more than US$6bn invested in telecom infrastructure since 2019](https://techafricanews.com/2026/06/02/egypt-invests-over-6-billion-in-telecom-infrastructure-and-digital-connectivity-development-since-2019/) | ***Baseline not held*** |
 | Share of popular web content served from inside Egypt | No prior reading is held | [15% of popular web content served locally, the majority from European servers; Algeria 13%, South Africa 66%, United States 83%](https://pulse.internetsociety.org/en/blog/2026/06/beyond-the-homepage-measuring-what-it-really-takes-to-keep-web-traffic-local/) | ***Baseline not held*** |
+| Upper 6 GHz mobile trial | Not held | [The incumbent, the regulator and a Chinese vendor ran a mobile base station and a data call over upper 6 GHz, reported at about 1.7 Gbps per user and stated by the operator as the first such trial in Egypt and Africa; the regulator frames the band as a capacity addition for high-traffic areas](https://itweb.africa/article/telecom-egypt-tests-high-capacity-spectrum/RgeVDqPRka37KJN3) | ***Baseline not held*** |
 
 ### Data Storage
 

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-19
 place: AGO
 ledger_rows: 111
 not_held: 7
-record: 4de5d6d87435
+record: fda14e699fda
 ---
 
 # Angola: progress report, 2025-08-01 to 2026-08-19
@@ -14,7 +14,7 @@ record: 4de5d6d87435
 
 *Of 111 systems and instruments on this place's ledger, 66 changed position between 2025-08-01 and 2026-08-19, 19 did not, 19 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 228 sources for this place in the window — 48 in the earlier half (2025-08 to 2026-01), 180 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 229 sources for this place in the window — 48 in the earlier half (2025-08 to 2026-01), 181 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 

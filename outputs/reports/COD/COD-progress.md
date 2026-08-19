@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-19
 place: COD
 ledger_rows: 111
 not_held: 13
-record: 177be611d718
+record: d9f37777559b
 ---
 
 # DR Congo: progress report, 2025-08-01 to 2026-08-19
@@ -14,7 +14,7 @@ record: 177be611d718
 
 *Of 111 systems and instruments on this place's ledger, 58 changed position between 2025-08-01 and 2026-08-19, 15 did not, 25 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 171 sources for this place in the window — 32 in the earlier half (2025-08 to 2026-01), 139 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 172 sources for this place in the window — 32 in the earlier half (2025-08 to 2026-01), 140 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -40,7 +40,7 @@ The identity platform is the largest system to have changed state: from a [twent
 | Rural solar base-station joint venture | Announced January 2025: up to 2,000 solar 2G and 4G base stations over six years, reaching about 19m people | [The same commitment restated sixteen months later with a 2031 date; no sites-built count, spend figure or first-phase milestone at either end](https://www.connectingafrica.com/connectivity/drc-connectivity-improves-but-some-usage-power-supply-gaps-linger) | No change |
 | Sovereign satellite programme | A memorandum signed November 2024; cost estimated at US$400m and said to be mobilised | [Unchanged: no contract, operator selection, build or launch date, and no revised cost on record in the following twelve months](https://actualite.cd/2025/08/31/la-rdc-se-lance-dans-un-projet-dacquisition-dun-satellite-cout-estime-400-millions-de) | No change |
 | State telecommunications and postal operator | A national conference on posts and telecoms named the sector the state's second-largest revenue source and asset spoliation a problem to fix | [On current finances the company could theoretically pay salaries only every four months; management says rigour has brought the cycle to every two to two and a half months](https://rdc-monde.com/scpt-ce-que-lon-ne-dit-pas-sur-les-efforts-de-redressement-en-cours/) | No change |
-| Satellite direct-to-cell service | Baseline not held | [Commercially launched on 2026-08-14, the first African operator to move a satellite-to-mobile partnership out of testing; a compatible LTE Android handset with a clear view of the sky reaches messaging, SMS and voice by satellite where there is no terrestrial coverage, with no dish, router or other equipment, and the regulator has confirmed a phased rollout](https://numerico.cd/2026/08/14/airtel-rdc-et-starlink-rdc-a-la-conquete-des-zones-blanches/) | ***Baseline not held*** |
+| Satellite direct-to-cell service | Baseline not held | [Commercially launched on 2026-08-14, the first African operator to move a satellite-to-mobile partnership out of testing; a compatible LTE Android handset with a clear view of the sky reaches messaging, SMS and voice by satellite where there is no terrestrial coverage, with no dish, router or other equipment, the regulator has confirmed a phased rollout, and eligible customers registering through the operator's app get a free 30-day introductory trial](https://www.connectingafrica.com/connectivity/airtel-africa-starlink-launch-satellite-to-mobile-service-in-drc) | ***Baseline not held*** |
 
 ### Data Storage
 

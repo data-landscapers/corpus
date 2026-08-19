@@ -3,9 +3,9 @@ title: Botswana — monthly update, July 2026
 compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 place: BWA
-ledger_rows: 25
+ledger_rows: 26
 not_held: 11
-record: 09cded0f663a
+record: 5b9b3aca0770
 ---
 
 # Botswana: monthly update, July 2026
@@ -58,7 +58,7 @@ On 28 July a parliamentary answer put identity-card replacement delays down to [
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The month's one payments development is commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. The national payment switch and the citizen wallet both remain at Planned.
+The month's two payments developments are both commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. Nine days later a remittance operator [issued a card on its wallet through a commercial bank and an international scheme](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/), adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only; here too there is no customer count, issuance volume or fee schedule on the record. The national payment switch and the citizen wallet both remain at Planned.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
