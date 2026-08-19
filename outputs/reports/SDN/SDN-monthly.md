@@ -1,16 +1,16 @@
 ---
 title: Sudan — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: SDN
-ledger_rows: 16
+ledger_rows: 21
 not_held: 13
-record: 968e57cf7f89
+record: f938cddb99b4
 ---
 
 # Sudan: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -32,6 +32,15 @@ Sudan's national payment switch launched with one bank connected, and a competin
 
 <!-- narrative: dpi--dpi-exchange -->
 [The National Investment Authority said on 4 August 2026](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) that a fully electronic single window for investment would operate only once all investment-related entities are linked electronically, with no list, sequence or date given — a precondition stated while the Authority is itself still building its first website.
+
+Two further systems were directed rather than delivered. The national economic management committee, chaired by the Prime Minister, [directed the finance ministry and the central bank to expedite completion of the bank's electronic application system with the digital transformation ministry, to strengthen oversight of financial transactions](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/) — no description of the system, its scope or its data is given beyond the instruction to finish it. And the agricultural bank said a [digital agricultural platform developed with the agriculture and digital transformation ministries is expected to launch soon](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/), alongside second-phase season financing opening by end-August and a grain-silo agreement with a Chinese company; no launch date, function or farmer register is stated.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The national digital identity system acquired a use case that makes it consequential, and the consequence lands on bank accounts. On 12 August the central bank [ordered banks to suspend and freeze customer accounts not updated by 30 September](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/), under anti-money-laundering and counter-terrorist-financing data-verification requirements. Five days later it [extended the deadline to the end of 2026 and named the rollout of the national digital identity system as the route by which customers are to update their data](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/).
+
+Bankers [backed the directive as necessary for the banking system's soundness while warning that freezing non-compliant accounts risks financial exclusion amid war-driven displacement and lost documentation](https://sudanhorizon.com/bankers-customer-data-updates-essential-but-flexibility-needed-for-financial-inclusion/). The directive text is not held; no count of accounts affected, no exception for displaced customers without documents and no appeal route is stated. Nor is any enrolment figure held for the identity system itself — so account continuity is being tied to a credential whose coverage is unmeasured, which is the exclusion risk the base recorded before it launched.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -52,6 +61,8 @@ Sudan's national payment switch launched with one bank connected, and a competin
 
 <!-- narrative: dpi--dpi-govtech -->
 [Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed. A second procurement system entered service: [Nazaha, a national digital public-procurement and contracting platform, was launched and stated as aimed at transparency and fair competition in the allocation of government contracts](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) (12 August). No coverage, entity count, procurement value or mandatory-use instrument is published for it.
+
+A third oversight system was announced without a shape. The finance ministry says a [comprehensive electronic oversight system covering public bodies and government companies is forthcoming](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/), in the same statement in which it attributes a significant rise in first-half 2026 public revenue to expanding the electronic collection system, rolling out electronic invoicing and tightening customs and tax exemptions, without new taxes. No revenue figure, baseline or attribution method is given for the rise, and no scope, custodian or timetable for the oversight system.
 <!-- /narrative -->
 
 ## Governance and regulation

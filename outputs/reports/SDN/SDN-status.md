@@ -1,15 +1,15 @@
 ---
 title: Sudan — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: SDN
-ledger_rows: 46
+ledger_rows: 50
 not_held: 13
-record: 06d735494ad7
+record: 690f5bdfecc3
 ---
 
 # Sudan: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/SDN/ledger.csv` (46 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/SDN/ledger.csv` (50 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -72,13 +72,15 @@ The [Khartoum State data centre was restored and returned to operation in Octobe
 | System or instrument | Status | Milestone |
 |---|---|---|
 | ASYCUDA customs system (Gezira/Hantoub) | [Implemented, single-site reactivation](https://www.suna.sd/posts/aaaad-tshghyl-ntham-alasykoda-balhthyr-algmrky-bgmark-olay-algzyr-astaadada-lantlak-alaaml-algmrky) | Reactivated at Hantoub customs yard after war looting/damage, ahead of resuming formal customs operations |
+| Central bank electronic application system | [In development](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/) | Completion directed by the national economic management committee, 2026-08-11 |
 | Electronic single window (National Investment Authority) | [Planned, precondition-stage](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) | Authority says the window will operate electronically only once all investment-related entities are linked electronically; no list, sequence or date given |
+| National digital agricultural platform | [In development](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/) | Launch described as imminent, 2026-08-10 |
 
 ### Digital Identity and CRVS
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| SUDAPASS (national digital identity) | [Implemented](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy) | Launched live; activates via passport/national-number + face biometrics; enables e-services, e-transactions and digital signatures |
+| SUDAPASS (national digital identity) | [Implemented](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/) | Named as the route for the central bank's customer-data update, 2026-08-17 |
 
 ### Digital Payments and Fintech
 
@@ -87,7 +89,7 @@ The [Khartoum State data centre was restored and returned to operation in Octobe
 | Al-Asjad payment-switch licence | [Discontinued, licence revoked](https://sudantribune.net/article/315827) | Central Bank revoked the licence days after the platform's launch; no specific breach disclosed |
 | Bankak (Bank of Khartoum mobile money) | [Implemented, dominant by default](https://voxdev.org/topic/institutions-political-economy/rebuilding-sudans-digital-infrastructure-amidst-conflict) | Reported as dominant retail-settlement rail in Khartoum markets, driven by cash scarcity and currency collapse, not technology uptake |
 | Bede digital wallet (Zain) | [Implemented, phase 1 of 3](https://techafricanews.com/2025/04/18/zain-launches-bede-digital-wallet-to-boost-financial-inclusion-in-sudan/) | Launched in Port Sudan; phase 1 covers transfers, airtime, bill payments, merchant purchases, agent cash in/out |
-| Isali / Eisali (electronic government-collection system) | [Implemented, expanding](https://www.suna.sd/posts/shrak-byn-almaly-obnk-alaamal-alotny-ltkdym-khdm-aysaly) | Named as the platform to which public authorities are to be linked, per the finance minister's PFM directives |
+| Isali / Eisali (electronic government-collection system) | [Implemented, expanding](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) | Named among the reforms behind a stated rise in first-half 2026 revenue |
 | National Instant Payment System / national payment switch (NIPS) | [Implemented, partial (one bank connected)](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips) | Launched live, connecting Omdurman National Bank as first and only participant; first ATM withdrawal completed over the switch |
 | USSD banking service | [Implemented](https://techafricanews.com/2026/03/18/sudan-launches-ussd-banking-services-to-expand-digital-financial-access/) | Rolled out jointly by the digital ministry, Central Bank and telecoms regulator; works without internet access |
 
@@ -110,6 +112,7 @@ The [Khartoum State data centre was restored and returned to operation in Octobe
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Baladna (national e-government platform) | [Implemented, expanding](https://spokesperson-sd.com/ar/archives/38364) | Adopted as the sole national platform for all foreign-trade transactions, permits issuable from any location |
+| Electronic oversight system for public bodies and government companies | [Planned](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) | Announced as forthcoming, 2026-08-10 |
 | Judiciary digital-transformation project | [Planned, contract signed](https://alwatannewssd.com/88831/) | Judicial Authority signed a contract with the National Technical Company, financed by the finance ministry, vetted by the justice ministry's contracts department |
 | Nazaha public procurement platform | [Implemented](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) | Launched, reported 2026-08-12 |
 
@@ -156,6 +159,7 @@ Payments carry the sharpest contrast between restoration and new build. [Bankak 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Bank customer data-update directive | [Implemented](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/) | Deadline extended to end-2026 on 2026-08-17 |
 | Draft Data and Artificial Intelligence Law | [Under review](https://sudantribune.net/article/317108) | Redrafting with the digital transformation ministry reported 2026-08-11 |
 
 ### EU activities

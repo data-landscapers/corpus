@@ -1,16 +1,16 @@
 ---
 title: Ghana — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: GHA
-ledger_rows: 88
+ledger_rows: 92
 not_held: 9
-record: 6fa76ef11b6b
+record: aa6b8f4c194e
 ---
 
 # Ghana: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -62,7 +62,9 @@ Interoperable mobile-money transfers ran to [33.5 million transactions worth GH�
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The identity regulator publicised amendment regulations on 16 July that had come into force on 9 June, and the interior minister then set the enforcement date: banks, telecoms operators, hospitals, schools, insurers and agencies have [a three-month transition from 27 July to 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate with the verification service, on a sanctions ladder running to suspension of access and licence withdrawal. Verification tied to SIM registration is explicitly excluded, with no timetable announced. The first paid round-the-clock identity centre opened on 1 August with all services attracting approved charges and no fee schedule published.
+The identity regulator publicised amendment regulations on 16 July that had come into force on 9 June, and the interior minister then set the enforcement date: banks, telecoms operators, hospitals, schools, insurers and agencies have [a three-month transition from 27 July to 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate with the verification service, on a sanctions ladder running to suspension of access and licence withdrawal. Verification tied to SIM registration is explicitly excluded, with no timetable announced.
+
+The first paid round-the-clock identity centre opened on 1 August with all services attracting approved charges and no fee schedule published; by 13 August the agency described the Labone centre as [running registration on three shifts around the clock](https://thehighstreetjournal.com/nia-adopts-three-shift-system-for-24-hour-ghana-card-registration/), presented as part of the government's wider 24-hour economy programme. No throughput or staffing figure is published, and the base holds no equivalent extension of the free daytime service.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -70,6 +72,8 @@ The identity regulator publicised amendment regulations on 16 July that had come
 Central bank data for June 2026 put mobile money at [954 million transactions worth GH¢492.9bn](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/), against GH¢323.2bn a year earlier, on 84.6 million registered wallets of which 26.4 million were active; [interoperable transfers were GH¢6.2bn, about 1.3% of value](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/).
 
 Enforcement of the digital-credit regime opened. A notice of 20 July recorded the 30 June licensing deadline as elapsed, and a notice of [3 August named twenty unlicensed lending applications](https://www.bog.gov.gh/wp-content/uploads/2026/08/Notice-No.25-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf), cautioning banks and payment providers against processing for them and framing the harm first as a violation of customer data privacy. The promised register of licensed providers remains unpublished.
+
+The dominant operator opened a channel to the next cohort of providers instead. A [three-month fintech accelerator launched on 12 August across Accra, Kumasi and Tamale](https://techafricanews.com/2026/08/17/hubtel-partners-with-momo-fintech-lab-to-back-ghanas-next-fintech-innovators/), with a domestic technology firm as its official technology partner. No cohort size, selection criteria, funding or equity terms are stated.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -124,7 +128,14 @@ The central bank's [cyber and information security directive is in force](https:
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The regulator's own enforcement record did not change. The action framed as a data-privacy violation in the month was taken by the central bank.
+The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the base holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. No payment, appeal or remediation record follows it.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The statistical service put a number on what digitisation is being asked to fix. Its governance series records citizens reporting demands for unofficial payments [rising from 51% in the first half of 2025 to 69% in the second](https://asaaseradio.com/gss-calls-for-digitalisation-fee-transparency-to-curb-rising-bribe-demands/), and the service names digitalisation, fee transparency and public education as its response, citing a marked fall in bribery at the passport office after digitisation and saying the Office of the Chief of Staff has directed the ten institutions the series flagged as high-risk to report back on remediation. The passport-office comparison is asserted without a before-and-after figure, and the series measures reported demands rather than cases proven.
+
+The same week the ministry took the governance argument outward and inward at once: it [convened an Accra workshop with a policy-monitoring organisation and a trade endowment on digital governance, regulatory coordination and international digital-trade engagement](https://www.linkedin.com/posts/ministry-of-communication-digital-technology-and-innovations-b4a9b7256_mocdti-partners-digital-policy-alert-to-strengthen-activity-7491943506979250176-6l2o), framed against the national artificial-intelligence strategy, the coders programme and the continental digital trade protocol; and its deputy minister [urged information-management professionals to secure and better manage government data as artificial-intelligence use grows](https://asaaseradio.com/govt-strengthens-public-data-management-amid-rising-ai-use/). Neither produces an instrument, and the national data strategy has been In development since 2024.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -180,6 +191,11 @@ Training capacity was the month's activity. A youth agency [signed for 2,000 ven
 
 <!-- narrative: finance--finance-new -->
 Parliament [approved a twenty-year public-private toll concession on 31 July](https://ghstandard.com/business-news-in-ghana/ghana-economy-news/parliament-approves-20-year-electronic-road-toll-concession/) for nationwide fully electronic collection, through a special-purpose vehicle to be established by a named company. No concession value, revenue split, corridor count, build timetable or collection technology is stated. A [national financial-technology fund remains to be aligned with a forthcoming innovation and startup framework](https://techafricanews.com/2026/07/07/ghana-and-undp-strengthen-partnership-on-digital-transformation-projects/) that would set eligibility and give it a legal basis; no size, source of funds or date is given.
+<!-- /narrative -->
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+The country renewed the agreement under which several of its digital customs systems are financed. The [TradeMark Africa country programme memorandum was renewed on 14 August](https://thehighstreetjournal.com/ghana-trademark-africa-deal-targets-higher-exports-regional-market-access/), continuing trade-facilitation and continental-free-trade-readiness work, including digital customs systems at the Akanu-Noepe joint border post and support for more than 1,250 women and small-scale cross-border traders. No financing sum, term or workplan is stated — and the same border post is where a regional dialogue on identity-card and transit-system interoperability was held four days earlier.
 <!-- /narrative -->
 ### Domestic budget appropriations and expenditure
 
