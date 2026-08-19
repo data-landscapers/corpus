@@ -42,19 +42,45 @@ Four of them carry a rule rather than a description, and those are in §2 below 
 
 ## 3. The backswing
 
-**Scope: the 1,269 files under `raw/*/` carrying a `## Deal record` section.** Nine of those are retired by merge — no `finance_origin:`, a `retired_deal_id:` and a `cite_through:` instead — and are out of scope; their stale deal tables can be left or stripped, but they reach no output either way.
+### Step 0 — the order the stages have to run in
 
-**Step 1 — apply the three maps.** For each in-scope record, replace the `| Instrument |`, `| Status |` and `| Beneficiary type |` values with the mapped value, matching **case- and whitespace-insensitively**. This is not optional politeness: two of 115 instrument values missed an exact-match map on capitalisation alone, and case is exactly what a writer varies without noticing.
+**Nothing needs requeuing on the Corpus side, because Corpus has no queue.** `rebuild.py --finance` runs `build-finance-page.py --all`, and `scan_all()` walks every record under `raw/` on every run: a full recompute with no incremental state. Edited records are picked up because they are read, not because anything noticed they changed. The only requirement is that **both stages run** — the compile, and then the render. The compile rewrites `outputs/non-state-finance/*.csv`; the render is what turns that into pages, and `editions.publish` cuts a new dated edition of each CSV because the bytes moved. Run the compile and stop, and the site still serves yesterday's values from yesterday's edition.
+
+**On the OSINT side there is a queue, it will catch the edits, and it can be defeated by running two commands in the wrong order.** `finance-compile-scope.py` scopes FINANCE-COMPILE to the places whose finance records changed since `last_compile_commit`, diffing the ref against the *working tree* — so it sees the backswing's edits whether or not they are committed.
+
+**Compile first, `--commit` second, never the reverse.** `finance-compile-scope.py --commit` advances the state ref to HEAD. Run it after the backswing but before the compile and the edits fall behind the ref, the next scope call reports nothing to do, and the recompile never happens — silently, because an empty scope is indistinguishable from an up-to-date one. This is the one ordering mistake in the pass that leaves no trace.
+
+**Expect the scope to resolve to every place.** The backswing touches ~1,269 records across ~58 places, so the scoping saves nothing this time. That is not a fault; it just means budgeting for a full compile rather than the usual one-country one.
+
+**The hub prose changes too, not only the CSVs.** `compile-hub-financing.py` builds the `Instrument mix: …` line of each place hub's `## Financing` section from the `instrument` column (`:113`), so step 2 of FINANCE-COMPILE — `compile-hub-financing.py --write` — is not optional after this pass. Status and beneficiary type do not reach the hub; instrument does.
+
+*(One thing to know before relying on the scoping in a normal cycle: `finance-compile-scope.py` keeps its state at `ROOT/reviews/finance-compile-state.json`, where ROOT is the repo the script sits in — and Corpus has no `reviews/` directory. Its own docstring says a missing or bad state ref makes it behave like `--all`, so running Corpus's copy is safe but scopes nothing. Harmless here, because the backswing wants every place anyway.)*
+
+### Scope
+
+**The 1,269 files under `raw/*/` carrying a `## Deal record` section.** Nine of those are retired by merge — no `finance_origin:`, a `retired_deal_id:` and a `cite_through:` instead — and are out of scope; their stale deal tables can be left or stripped, but they reach no output either way.
+
+### Step 1 — apply the three maps
+
+ For each in-scope record, replace the `| Instrument |`, `| Status |` and `| Beneficiary type |` values with the mapped value, matching **case- and whitespace-insensitively**. This is not optional politeness: two of 115 instrument values missed an exact-match map on capitalisation alone, and case is exactly what a writer varies without noticing.
 
 **Where the original wording carried more than the new value does, move that text to `## Notes` in the same edit.** This is the whole of the difference between a mapping pass and a data loss. Roughly 78 records are in that class — the annotated World Bank instrument corrections and the sentence-length values.
 
-**Step 2 — the eight unruled instruments.** `5G spectrum licences`, `Spectrum award (410 MHz)`, `Investment under NTRA data-centre licence`, `Procurement contract award`, `Program-for-Results (PforR)`, `Mixed`, `Funding + technology + technical support`, `Standard loan (IATI finance-type 421)`. Each needs its source read and a ruling: a value from the vocabulary, a new vocabulary value, or — for the spectrum and procurement cases — a decision that these are not deals at all. Record the ruling as a new row in the map, and in `deal-vocabs.csv` too if it needs a value that is not there yet.
+### Step 2 — the eight unruled instruments
 
-**Step 3 — the blanks.** 41, 50 and 75 records respectively. Each is either `Unknown` or a value the source does state and nobody extracted. The second kind is worth finding; the first is a one-word edit.
+ `5G spectrum licences`, `Spectrum award (410 MHz)`, `Investment under NTRA data-centre licence`, `Procurement contract award`, `Program-for-Results (PforR)`, `Mixed`, `Funding + technology + technical support`, `Standard loan (IATI finance-type 421)`. Each needs its source read and a ruling: a value from the vocabulary, a new vocabulary value, or — for the spectrum and procurement cases — a decision that these are not deals at all. Record the ruling as a new row in the map, and in `deal-vocabs.csv` too if it needs a value that is not there yet.
 
-**Step 4 — verify.** Re-run the compile and check the distinct counts in `outputs/non-state-finance/all-nonstate.csv`: instrument 115 → 15, status 24 → 7, beneficiary type 53 → 10, and no blanks in any of the three. A value outside the vocabulary after the pass is a bug in the pass, not a new vocabulary member.
+### Step 3 — the blanks
 
-**Step 5 — hold the line.** Add the three fields to whatever lint reads a deal record, testing membership of `deal-vocabs.csv` for that field. Without it the base is 1,260 records from where it started; the vocabulary only stays true if something checks.
+ 41, 50 and 75 records respectively. Each is either `Unknown` or a value the source does state and nobody extracted. The second kind is worth finding; the first is a one-word edit.
+
+### Step 4 — verify
+
+ Run the compile *and* the render, then check the distinct counts in `outputs/non-state-finance/all-nonstate.csv`: instrument 115 → 15, status 24 → 7, beneficiary type 53 → 10, and no blanks in any of the three. A value outside the vocabulary after the pass is a bug in the pass, not a new vocabulary member.
+
+### Step 5 — hold the line
+
+ Add the three fields to whatever lint reads a deal record, testing membership of `deal-vocabs.csv` for that field. Without it the base is 1,260 records from where it started; the vocabulary only stays true if something checks.
 
 ## 4. What this does not settle
 
