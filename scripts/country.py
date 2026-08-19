@@ -565,10 +565,11 @@ FINANCE = """<!DOCTYPE html>
       <div class="country-head__meta">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
     </div>
 
-    <p>Every non-state commitment the base holds for {name}, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
+    <p>Every non-state commitment the base holds for {name}. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. <strong>Click any row to open the full record</strong> &mdash; the columns show what a reader scans by, and the rest of the fields sit underneath rather than four screens to the right. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
     <div class="dl-datatable"
       data-src="{csv_name}"
+      data-cols="start_year, financier, sector, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
       data-filters="financier, sector, instrument, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"

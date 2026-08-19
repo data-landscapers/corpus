@@ -7,10 +7,21 @@
 
 .dl-datatable {
   --dt-top: 0px;                      /* set by the script from the sticky chrome */
+  --dt-bar: 3.1rem;                   /* height of the controls bar, likewise */
   margin: 2rem 0;
   border: 1px solid var(--rule);
   border-radius: 3px;
   background: white;
+}
+
+/* A data table is not body text and should not be held to the 980px measure the
+   prose is set to. Break out of the container, centred, up to a sensible ceiling
+   — on a narrow window this resolves to the container width and does nothing. */
+@media (min-width: 1040px) {
+  .dl-datatable {
+    width: min(94vw, 1800px);
+    margin-left: calc(490px - min(47vw, 900px));
+  }
 }
 
 /* ── Controls bar ── */
@@ -62,39 +73,130 @@
 
 .dl-datatable .dt-controls .btn { padding: 0.3rem 0.75rem; font-size: 0.7rem; white-space: nowrap; }
 
-/* ── Header / body split.
-   The header is a second table outside the scroll container: position:sticky on
-   a th inside overflow-x:auto sticks to the container, which never scrolls
-   vertically, so it does not stick at all. ── */
-.dl-datatable .dt-head-scroll {
+/* ── The sticky block: scrollbar mirror + header, moving as one ──
+   position:sticky on a th inside overflow-x:auto sticks to the container, which
+   never scrolls vertically, so it does not stick at all. The header is therefore
+   its own table outside the body scroller, sharing the body's <colgroup>. ── */
+.dl-datatable .dt-sticky {
   position: sticky;
-  top: calc(var(--dt-top) + 3.1rem);   /* below the controls bar */
+  top: calc(var(--dt-top) + var(--dt-bar));
   z-index: 20;
-  overflow: hidden;
   background: var(--paper-warm);
+}
+
+/* The scrollbar above the header is a real one: an overflow-x container with a
+   spacer inside it as wide as the table. Given height enough to grab, and a
+   thumb coloured so it reads as a control rather than as a rule. */
+.dl-datatable .dt-scroll-top {
+  overflow-x: auto;
+  overflow-y: hidden;
+  height: 15px;
+  border-bottom: 1px solid var(--rule);
+  scrollbar-width: thin;
+  scrollbar-color: var(--accent) var(--paper-warm);
+}
+.dl-datatable .dt-scroll-top__inner { height: 1px; }
+
+.dl-datatable .dt-scroll-top::-webkit-scrollbar,
+.dl-datatable .dt-body-scroll::-webkit-scrollbar { height: 13px; }
+.dl-datatable .dt-scroll-top::-webkit-scrollbar-track,
+.dl-datatable .dt-body-scroll::-webkit-scrollbar-track {
+  background: var(--paper-warm);
+}
+.dl-datatable .dt-scroll-top::-webkit-scrollbar-thumb,
+.dl-datatable .dt-body-scroll::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 7px;
+  border: 3px solid var(--paper-warm);
+}
+.dl-datatable .dt-scroll-top::-webkit-scrollbar-thumb:hover,
+.dl-datatable .dt-body-scroll::-webkit-scrollbar-thumb:hover { background: var(--accent-dk); }
+
+.dl-datatable .dt-head-scroll {
+  overflow: hidden;
   border-bottom: 2px solid var(--accent);
 }
 
-.dl-datatable .dt-body-scroll { overflow-x: auto; }
+.dl-datatable .dt-body-scroll {
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--accent) var(--paper-warm);
+}
 
-.dl-datatable table.data-table { width: auto; min-width: 100%; table-layout: auto; }
+/* ── The tables. Fixed layout, widths from the shared colgroup. ── */
+.dl-datatable table.data-table { table-layout: fixed; width: auto; }
 .dl-datatable table.dt-head { margin: 0; }
 
 .dl-datatable table.data-table thead th {
   border-bottom: none;
   vertical-align: bottom;
   white-space: normal;
-  word-break: break-word;
-  min-width: 5rem;
+  overflow-wrap: break-word;
   box-sizing: border-box;
 }
-
 .dl-datatable table.data-table thead th.num { text-align: right; }
-.dl-datatable table.data-table td { white-space: normal; vertical-align: top; max-width: 34rem; }
+
+/* Tighter than the prose tables: with a dozen columns competing for the width,
+   0.9rem of side padding is 320px of the table spent on gutters. */
+.dl-datatable table.data-table td,
+.dl-datatable table.data-table thead th { padding: 0.55rem 0.6rem; }
+
+.dl-datatable table.data-table td {
+  white-space: normal;
+  vertical-align: top;
+  overflow-wrap: break-word;
+  box-sizing: border-box;
+}
 .dl-datatable table.data-table td.num { text-align: right; font-family: var(--mono); font-size: 0.72rem; }
-.dl-datatable table.data-table tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-warm) 45%, white); }
-.dl-datatable table.data-table tbody tr:hover { background: color-mix(in srgb, var(--accent) 7%, white); }
 .dl-datatable table.data-table td a { word-break: break-all; }
+.dl-datatable table.data-table tbody tr:nth-child(4n+3) { background: color-mix(in srgb, var(--paper-warm) 45%, white); }
+.dl-datatable table.data-table tbody tr.dt-row:hover { background: color-mix(in srgb, var(--accent) 7%, white); }
+
+/* Every cell clamps to three lines, so row depth is uniform and the table scans
+   downward. What the clamp cuts off is in the detail panel, not lost. */
+.dl-datatable .dt-cell {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ── Row expander ── */
+.dl-datatable td.dt-caret, .dl-datatable th.dt-caret {
+  padding-left: 0.5rem;
+  padding-right: 0;
+  color: var(--ink-faint);
+  font-family: var(--mono);
+  cursor: pointer;
+  user-select: none;
+}
+.dl-datatable td.dt-caret span { display: inline-block; transition: transform 0.12s; }
+.dl-datatable tr.dt-row { cursor: pointer; }
+.dl-datatable tr.dt-row:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.dl-datatable tr.dt-row--open { background: color-mix(in srgb, var(--accent) 10%, white) !important; }
+.dl-datatable tr.dt-row--open td.dt-caret span { transform: rotate(90deg); color: var(--accent); }
+
+.dl-datatable .dt-detail__cell {
+  padding: 0.9rem 1.2rem 1.1rem 2rem;
+  background: color-mix(in srgb, var(--accent) 4%, white);
+  border-bottom: 1px solid var(--rule);
+}
+.dl-datatable .dt-detail__cell dl {
+  display: grid;
+  grid-template-columns: 12rem 1fr;
+  gap: 0.35rem 1.2rem;
+  max-width: 62rem;
+}
+.dl-datatable .dt-detail__cell dt {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  padding-top: 0.15rem;
+}
+.dl-datatable .dt-detail__cell dd { font-size: 0.82rem; line-height: 1.5; color: var(--ink); }
+.dl-datatable .dt-detail__cell p { font-size: 0.82rem; color: var(--ink-faint); }
 
 .dl-datatable tr.dt-none td {
   padding: 1.6rem 1rem;
@@ -102,17 +204,6 @@
   color: var(--ink-faint);
   font-size: 0.85rem;
 }
-
-/* ── Clamped cells: click to expand ── */
-.dl-datatable .dt-clip {
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  cursor: pointer;
-  border-bottom: 1px dotted var(--ink-faint);
-}
-.dl-datatable .dt-clip--open { display: block; -webkit-line-clamp: unset; border-bottom: none; }
 
 /* ── Messages ── */
 .dl-datatable .dt-msg {
@@ -131,5 +222,6 @@
 
 @media (max-width: 720px) {
   .dl-datatable .dt-count { margin-left: 0; }
-  .dl-datatable .dt-head-scroll { top: calc(var(--dt-top) + 5.6rem); }
+  .dl-datatable .dt-detail__cell dl { grid-template-columns: 1fr; gap: 0.1rem 0; }
+  .dl-datatable .dt-detail__cell dd { margin-bottom: 0.6rem; }
 }

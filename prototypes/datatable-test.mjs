@@ -2,13 +2,18 @@
  *
  *   cd /tmp/dttest && npm install jsdom && node <this file>
  *
- * Loads a real built page (site/finance/all.html and site/countries/ZAF/finance.html)
- * into jsdom with a fetch() that reads the CSV off disk, then asserts on the DOM the
- * component actually produced. Not a substitute for looking at it in a browser —
- * jsdom has no layout, so the sticky header and column-width sync are unverifiable
- * here — but it does catch the things that silently produce a plausible-looking
- * wrong table: a CSV row torn in half by an embedded newline, a BOM that stops the
- * first column matching its name, a filter naming a column that is not there.
+ * Loads a real built page into jsdom with a fetch() that reads the CSV off disk,
+ * then asserts on the DOM the component actually produced. Not a substitute for
+ * looking at it in a browser — jsdom has no layout, so nothing here can tell you
+ * whether the sticky header stays put or the rows read at a comfortable depth —
+ * but it does catch what silently produces a plausible-looking wrong table: a CSV
+ * row torn in half by an embedded newline, a BOM that stops the first column
+ * matching its name, a filter naming a column that is not there, a colgroup the
+ * two tables disagree about.
+ *
+ * Add a page by adding a `suite(...)` line at the foot. ZAF alone while the
+ * column-width work is in flight (Bill, 2026-08-19); put all.html back when it
+ * is rebuilt on the same component.
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -87,14 +92,111 @@ async function suite(pageRel, opts) {
       opt.value.length === 3 && opt.textContent.length > 3,
       `${opt.value} -> ${opt.textContent}`);
   }
-  const clipped = doc.querySelectorAll('.dt-clip');
-  check('long cells are clamped', clipped.length > 0, `${clipped.length} clamped`);
+  check('cells are wrapped for clamping', doc.querySelectorAll('.dt-body .dt-cell').length > 0);
+
+  /* Widths — the thing v1 got wrong, so the thing to assert on hardest. */
+  widths(doc, box);
+  await expander(doc, box);
 
   // Sorting: the initial data-sort must have actually been applied.
   const sorted = doc.querySelector('.dt-head thead th.sort-asc, .dt-head thead th.sort-desc');
   check('initial sort applied', !!sorted, box.dataset.sort);
 
   await interactions(doc, want, opts);
+}
+
+/* The column widths, which v1 left to the browser and got badly wrong: a column
+ * of blanks with one unbreakable token in it collapsed to about a character wide
+ * and stacked vertically, setting the depth of every row. jsdom has no layout, so
+ * what can be checked here is the arithmetic the script committed to — the
+ * <colgroup> it wrote and whether the two tables agree — not how it looks. */
+function widths(doc, box) {
+  const cgs = [...doc.querySelectorAll('.dl-datatable colgroup')];
+  check('both tables carry a colgroup', cgs.length === 2);
+
+  const px = cg => [...cg.children].map(c => parseFloat(c.style.width));
+  const [head, body] = cgs.map(px);
+  check('header and body widths are identical',
+    head.length === body.length && head.every((w, i) => w === body[i]),
+    `${head.length} vs ${body.length} columns`);
+  check('every width is a real number', body.every(w => w > 0 && isFinite(w)),
+    JSON.stringify(body));
+
+  const cols = (box.dataset.cols || '').split(',').map(s => s.trim()).filter(Boolean);
+  if (cols.length) {
+    check('one <col> per visible column, plus the expander',
+      body.length === cols.length + 1, `${body.length} cols for ${cols.length} columns`);
+  }
+  const dataCols = body.slice(1);
+  check('no column is a sliver', Math.min(...dataCols) >= 66,
+    `narrowest ${Math.min(...dataCols)}px`);
+  check('no column runs away', Math.max(...dataCols) <= 400,
+    `widest ${Math.max(...dataCols)}px`);
+
+  const total = body.reduce((a, b) => a + b, 0);
+  const declared = parseFloat(doc.querySelector('.dt-body').style.width);
+  check('the table is as wide as its columns', Math.abs(total - declared) < 1,
+    `${total} vs ${declared}`);
+  check('the top scrollbar spans the same width',
+    Math.abs(parseFloat(doc.querySelector('.dt-scroll-top__inner').style.width) - declared) < 1);
+  console.log(`        widths: ${dataCols.join(', ')}  (total ${Math.round(total)}px)`);
+
+  /* The property the widths exist to produce: nine rows in ten read in three
+   * lines or fewer. A column is allowed to miss it only by being at the ceiling,
+   * where no width would have satisfied it — `description` is the whole of that
+   * case, and is why the detail panel exists. */
+  const td = doc.querySelector('.dt-body td');
+  const size = parseFloat(doc.defaultView.getComputedStyle(td).fontSize) || 16;
+  const pad = (parseFloat(doc.defaultView.getComputedStyle(td).paddingLeft) || 0) * 2;
+  const m = s => String(s || '').length * size * 0.52, sp = m(' ');
+  const lines = (t, w) => {
+    let n = 1, x = 0;
+    for (const word of String(t || '').split(/\s+/).filter(Boolean)) {
+      let mw = m(word);
+      if (x > 0 && x + sp + mw <= w) { x += sp + mw; continue; }
+      if (x > 0) { n++; x = 0; }
+      while (mw > w) { mw -= w; n++; }
+      x = mw;
+    }
+    return n;
+  };
+  const rows = [...doc.querySelectorAll('.dt-body tbody tr.dt-row')];
+  const atCeiling = [], missed = [];
+  dataCols.forEach((w, i) => {
+    const over = rows.filter(tr => lines(tr.cells[i + 1].textContent, w - pad) > 3).length;
+    if (over / rows.length <= 0.1) return;
+    (w - pad >= 280 ? atCeiling : missed).push(`${cols[i] || i} ${Math.round(over / rows.length * 100)}%`);
+  });
+  check('nine rows in ten read in three lines or fewer', missed.length === 0, missed.join(', '));
+  if (atCeiling.length) console.log(`        clamped by the ceiling: ${atCeiling.join(', ')} — these are the click-into columns`);
+}
+
+/* The row expander: what the columns leave out has to actually be in it. */
+async function expander(doc, box) {
+  const win = doc.defaultView;
+  const tr = doc.querySelector('.dt-body tbody tr.dt-row');
+  check('rows are marked as expandable', !!tr);
+  if (!tr) return;
+
+  tr.dispatchEvent(new win.MouseEvent('click', { bubbles: true }));
+  await new Promise(r => setTimeout(r, 20));
+  const det = tr.nextElementSibling;
+  check('clicking a row opens a detail panel', det && det.classList.contains('dt-detail'));
+
+  const cols = (box.dataset.cols || '').split(',').map(s => s.trim()).filter(Boolean);
+  if (cols.length && det) {
+    const shown = [...det.querySelectorAll('dt')].map(d => d.textContent);
+    check('the panel holds fields the columns leave out', shown.length > 0, `${shown.length} fields`);
+    check('and does not repeat the columns',
+      !shown.some(f => cols.includes(f)), shown.filter(f => cols.includes(f)).join(', '));
+    check('the panel spans the whole table',
+      +det.querySelector('td').getAttribute('colspan') === cols.length + 1);
+  }
+
+  tr.dispatchEvent(new win.MouseEvent('click', { bubbles: true }));
+  await new Promise(r => setTimeout(r, 20));
+  check('clicking again closes it',
+    !tr.nextElementSibling || !tr.nextElementSibling.classList.contains('dt-detail'));
 }
 
 /* Filtering, searching and sorting, driven through the same events a reader
@@ -144,8 +246,7 @@ async function interactions(doc, want, opts) {
   }
 }
 
-await suite('site/finance/all.html', { linkCol: true, labelled: true });
-await suite('site/countries/ZAF/finance.html', { linkCol: true, labelled: false });
+await suite("site/countries/ZAF/finance.html", { linkCol: true, labelled: false });
 
 console.log(failures ? `\n${failures} failure(s)` : '\nall checks passed');
 process.exit(failures ? 1 : 0);
