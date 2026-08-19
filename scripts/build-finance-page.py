@@ -23,6 +23,7 @@ of the summary export.
 import os, re, sys, csv
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import taxonomy_lib                                                             # noqa: E402
 from finance_lib import (split_front, fm_get, section, deal_table, raw_sources,  # noqa: E402
                          load_fx, fx_rate, fin_name)                            # noqa: E402
 
@@ -32,12 +33,17 @@ NONSTATE_OUT = "outputs/non-state-finance"     # {ISO3}-nonstate.csv, {ISO3}-sum
 
 # ---------------------------------------------------------------- small helpers
 def taxonomy_labels():
-    lab = {}
-    for ln in open("lookups/taxonomy.md", encoding="utf-8"):
-        m = re.match(r'^-\s*`([^`]+)`\s*[—-]\s*(.+?)\s*$', ln)
-        if m:
-            lab[m.group(1)] = m.group(2)
-    return lab
+    """`{slug: label}` from `site/metadata/taxonomy.csv` — the display vocabulary.
+
+    Was a regex over `lookups/taxonomy.md` until 2026-08-19. That file is prose as
+    well as vocabulary, and the pattern `- \`slug\` — label` matched greedily to the
+    end of the line: `dpi.registry`'s entry carries a 558-character ruling about
+    where registry material files, and all 558 characters were arriving in the
+    `sector` column of every published finance CSV and in the sector row of three
+    countries' pivot tables. `report-lint.py` imports this function, so the name
+    stays and only the source moves."""
+    return taxonomy_lib.labels()
+
 
 def fy_label_from_year(y):        # commitment year -> fiscal-year label starting that year
     return f"{y}/{str(int(y)+1)[-2:]}" if y and y.isdigit() else (y or "—")

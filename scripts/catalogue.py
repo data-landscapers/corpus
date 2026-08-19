@@ -26,6 +26,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy  # noqa: E402
+import taxonomy_lib  # noqa: E402
 from chrome_lib import chrome, foot  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -52,17 +53,13 @@ def vocab():
         for r in csv.DictReader(fh):
             places[r["iso-3"]] = r["country-name"]
             regions[r["iso-3"]] = r.get("Region") or ""
-    topics, cats, cat = {}, {}, None
-    with open(VOCAB / "taxonomy.md", encoding="utf-8") as fh:
-        for line in fh:
-            m = re.match(r"^###\s+(.+)$", line.strip())
-            if m:
-                cat = m.group(1).strip()
-                continue
-            m = re.match(r"^-\s+`([a-z0-9.]+)`\s+—\s+(.+)$", line.strip())
-            if m and cat:
-                topics[m.group(1)] = m.group(2).strip()
-                cats[m.group(1)] = cat
+    # Topic labels come from `site/metadata/taxonomy.csv`, not from the vocabulary
+    # snapshot (Bill, 2026-08-19). The snapshot is prose as well as vocabulary, and the
+    # pattern this used to run over it read `dpi.registry`'s 558-character ruling as the
+    # label — which reached this page's own filter list. The slugs are still OSINT's;
+    # only how they are written is decided here.
+    topics = taxonomy_lib.labels()
+    cats = taxonomy_lib.level1s()
     return places, regions, topics, cats
 
 
