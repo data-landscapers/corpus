@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 subject: gov.protect
 places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9c780cdfa187
+record: cdcf000249c2
 ---
 
 # Data protection: monthly update, July 2026
@@ -86,6 +86,8 @@ The telecoms regulator [fined an operator LRD 4m for issuing a subscriber's SIM 
 ## Malawi
 
 The communications regulator consulted stakeholders at Blantyre on 13 July 2026 on draft Data Protection Regulations and a registration fee schedule setting annual fees by turnover from MWK 50,000 for small and medium enterprises to MWK 7 million for the largest controllers and processors of significant importance ([consultation account](https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/)). The consultation follows the elapse in early June of the twenty-four-month exemption that had kept most controllers outside the Act's obligations since commencement ([the Act](https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf)). No commencement date for the regulations was announced.
+
+The regulator's first published position on a specific harm followed on 18 August: a notice warning that [recording, publishing or sharing non-consensual intimate content breaches the Data Protection Act 2024, carrying fines to K20,000,000 and up to five years' imprisonment under section 49, with separate penalties under the Electronic Transactions and Cyber Security Act 2016](https://techafricanews.com/2026/08/19/malawi-regulator-warns-against-sharing-non-consensual-intimate-content/). It states the law rather than applying it: no case, complaint count or enforcement action accompanies it, and enforcement under the Act remains ***Not held***.
 
 ## Mali
 

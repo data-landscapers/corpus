@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 subject: include.divides
 places: AGO; BWA; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NGA; UGA; ZWE
-record: 905be13d42e5
+record: 4155114030b8
 ---
 
 # Digital divides: monthly update, July 2026
@@ -48,6 +48,8 @@ Existing money went the other way. An implementing partner's account of 12 Augus
 The KenSafeSpace digital-rights coalition [closed on 28 July](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) after 30 months on a EUR 1.3m grant, reporting 18,000 people reached directly and 133 defenders trained, with its 49 members continuing unfunded; a successor programme opened the same day training 150 justice-sector officials on digital evidence.
 
 The larger withdrawal is American. An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
+
+Domestic provision was restated in the same fortnight. The regulator's Universal Service Fund [put a target of 120,000 people across 19 counties over three years on its Digital Skilling Project](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/), aimed at unserved and underserved areas and framed as the skills half of a connectivity programme. It is a target stated at a stakeholders' workshop: no budget line, delivery partner, county list or start date accompanies it, and the fund's own FY2025/26 account is still unpublished.
 
 ## Malawi
 

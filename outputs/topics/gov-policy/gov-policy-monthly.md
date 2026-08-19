@@ -3,13 +3,13 @@ title: Strategies, plans and policies — monthly update, July 2026
 compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 subject: gov.policy
-places: BEN; BWA; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 99987b457c0d
+places: BEN; BWA; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 50339c22d9f8
 ---
 
 # Strategies, plans and policies: monthly update, July 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -95,6 +95,10 @@ A [presidential decree of 27 July 2026 reshuffled the transition government](htt
 
 A revised Hustler Fund merchant tariff schedule takes effect on 7 August, delivered as voluntary alignment with central bank pricing principles rather than a gazetted rule.
 
+## Lesotho
+
+The month's policy work is a strategy being drafted rather than one adopted. A [National AI Strategy is being written at the same five-day Maseru workshop as the data-centre blueprint, opened on 17 August by the communications ministry with the United Nations in Lesotho](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/), and is distinct from the National AI Policy signed in June. The deputy prime minister's keynote asked for Lesotho's existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated, and nothing beyond the workshop is on the record.
+
 ## Liberia
 
 The African Development Bank launched its [country strategy for 2026-2031 in Monrovia on 30 July, cutting its sectors from four to three and funding an indicative 2026-2028 programme of UA 129m — US$172.86m at the February 2026 conversion — of which 36.3% is unfunded](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html). The only digital line in the indicative programme is a non-lending study on digital solutions for Monrovia traffic congestion, and the strategy's own ICT assessment cites a policy that expired in 2024.
@@ -144,6 +148,8 @@ The central bank published [Payments System Vision 2028](https://techafricanews.
 An [Artificial Intelligence and Cyber Diplomacy Unit sits inside the foreign ministry](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/), coordinating engagement on emerging technologies, established after the 2025 inaugural seminar.
 
 Two coordination bodies were constituted in August, one with a deadline that tells you what it is. The Head of Service [inaugurated an eleven-member technical working committee to coordinate the federal civil service's cabinet-approved digital transformation agenda, tasked with drafting the architecture, roadmap and governance mechanisms within one week](https://www.thisdaylive.com/2026/08/17/hos-inaugurates-technical-working-committee-on-digital-transformation-agenda/) ahead of a steering committee; no terms of reference, budget or publication commitment is stated. And a national strategy for the digital transformation of technical and vocational education was [validated at an Abuja workshop by UNESCO, the education ministry and the technical education board](https://www.thisdaylive.com/2026/08/12/unesco-fg-nbte-seek-human-centred-digital-transformation-of-nigerias-technical-vocational-education-training-system/), which named connectivity, teacher digital competency, financing and coordination as the gaps to close before implementation. Validated is not adopted, and neither text is held.
+
+The month's substantive instrument is the cloud policy. On 17 August the communications ministry [issued a National Digital Cloud Policy](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/) superseding the 2019 cloud policy, in force on publication apart from its sovereignty provisions, which await presidential approval. It makes cloud the default for new federal systems, with [time-bound exemptions assessed by the IT development agency against published criteria and held in a register](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/); pools ministry demand through the government infrastructure company into framework agreements bought on a National Digital Marketplace, with the procurement bureau overseeing compliance; and [sorts government and regulated data into four levels — national-security data hosted only in Nigeria, financial, health, biometric and identity data stored at rest in Nigeria, internal operational records hybrid by prior authorisation, and public data unrestricted](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/). Commercial data carries no general localisation duty, and a regulator has to apply for a category to be designated sovereign. The [ministry states the 2019 Cloud First principle was applied unevenly for want of a coordinating framework](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/), which is what the aggregation, marketplace, provider registration and compliance machinery is for. The policy text carries no published canonical link, and its relationship to the draft National Policy on Data and Cloud — five years in draft — is not stated.
 
 ## Rwanda
 

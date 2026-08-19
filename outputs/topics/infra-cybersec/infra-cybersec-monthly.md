@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 subject: infra.cybersec
 places: AGO; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 137b212d8de9
+record: 5cf9eb51ce5f
 ---
 
 # Cybersecurity: monthly update, July 2026
@@ -22,6 +22,8 @@ The aftermath produced the first public pressure for rules rather than repair: c
 The Executive's first answer to the National Assembly on critical-infrastructure risk, given on 31 July, was the standing build programme — the national data centre and the country-code domain — with no new measure, obligation or timetable announced. Telecommunications remains undesignated as critical national infrastructure, and named analysts argued during the month that it should be designated alongside power and water.
 
 A regional preparatory meeting on radiocommunications opened in Luanda on 3 August, seven days into the outage and two before it closed, with the resilience of telecommunications infrastructure on its agenda.
+
+Check Point Research's July telemetry [puts Angolan organisations at 5,714 attacks a week against an African average of 3,237](https://techtrends.africa/ransomware-attacks-double-year-over-year/), the highest of the four African markets it broke out — the vendor's installed base, not a national measurement.
 
 ## Burkina Faso
 
@@ -87,7 +89,7 @@ An audit that was signed in May reported in August. The state digital agency [de
 
 A community-media cyber capability project launched on 3 August, certifying community-radio journalists into a standing press corps.
 
-The Cybersecurity Act's licensing regime produced its first published penalties. The Cyber Security Authority [fined the Office of the Registrar of Companies and Purpleline Solutions a combined GH¢360,000 for breaching the Act's licensing requirements](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html) on 13 August — [GH¢240,000 against the Registrar in two penalties of GH¢120,000 for engaging an unlicensed cybersecurity service provider, and GH¢120,000 against the provider for operating without a licence](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html). One of the two penalised bodies is itself a state registry. The base holds no prior published penalty under the Act.
+The Cybersecurity Act's licensing regime produced its first published penalties. The Cyber Security Authority [fined the Office of the Registrar of Companies and Purpleline Solutions a combined GH¢360,000 for breaching the Act's licensing requirements](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html) on 13 August — [GH¢240,000 against the Registrar in two penalties of GH¢120,000 for engaging an unlicensed cybersecurity service provider, and GH¢120,000 against the provider for operating without a licence](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html). One of the two penalised bodies is itself a state registry. Five days later the Authority [fined a Big Four firm's Ghana practice GH¢360,000 — three penalties of GH¢120,000 — for continuing to provide regulated cybersecurity services, including to owners of critical information infrastructure, after three directives to obtain a licence](https://techafricanews.com/2026/08/18/ghana-cyber-security-authority-fines-ey-ghana-gh360000-for-unlicensed-services/), ordering it to cease and desist, governance, risk and compliance work included. The base holds no published penalty under the Act before 13 August, so both actions fall inside six days, and the Authority states it will name unlicensed providers publicly as an enforcement measure.
 
 The regulator also [held a two-day consultative and validation workshop with UNICEF Ghana on online child sexual exploitation and abuse](https://techafricanews.com/2026/08/13/ghana-strengthens-online-child-protection-with-csa-unicef-initiative/), reviewing the national response and naming coordination and frontline-capacity gaps; no instrument or programme follows from it on the record.
 
@@ -158,6 +160,8 @@ The [National Assembly voted unanimously on 22 July 2026 to approve accession to
 ## Sierra Leone
 
 The telecoms regulator ran two public-facing cyber messages in nine days. It [set out a consumer education campaign on online fraud on 28 July](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/), stating that the fraudulent links circulating did not originate from the mobile networks and placing the burden on the consumer; on 30 July it [confirmed it was coordinating a response to ongoing cybersecurity incidents affecting digital services](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/), naming no affected service, no attribution and no incident count.
+
+The first tool rather than message came from an operator, not the state. On 18 August a mobile operator [launched a scam-alert channel for suspected fraud against its mobile-money service, reached on a *505# short code, an online form or a 111 call](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/). It is one operator's own channel: no report volume, response time, remedy, referral route to the police or coordination with the regulator's response is published, and the Cyber Security and Crime Act 2021 still carries no reported prosecution.
 
 ## Somalia
 

@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 subject: finance.new
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: bb995ddde5f8
+record: 7931578fa46b
 ---
 
 # New investments: progress report, 2025-08-01 to 2026-08-19
@@ -483,6 +483,7 @@ record: bb995ddde5f8
 
 | Body, instrument or system | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
+| Foundation call for AI in family planning | Did not exist | [A private foundation opened a call for proposals using artificial intelligence to widen access to digital contraception information across sub-Saharan Africa, offering up to US$500,000 a project, with applications closing on 25 August 2026](https://www.wearetech.africa/fr/fils/breves/breves-une/la-fondation-gates-offre-jusqu-a-500-000-pour-l-utilisation-de-l-ia-dans-le-planning-familial) | Advanced |
 | Hewlett Foundation grant to BudgIT (general operating support) | Did not exist | [US$1,000,000 committed (US$500,000 disbursed) as general operating support to BudgIT's budget-transparency and civic-tech work](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-06832-GRA) | Advanced |
 | Hewlett Foundation grant to BudgIT (learning systems and communications) | Did not exist | [US$50,000 committed and fully disbursed to strengthen BudgIT's learning systems and strategic communications](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-07008-GRA) | Advanced |
 | Hewlett Foundation grant to Cenfri (digital transformation programme) | Did not exist | [US$300,000 committed (US$150,000 disbursed) to renew Cenfri's work on digital transformation and its link to evidence-informed policymaking across Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-06784-GRA) | Advanced |

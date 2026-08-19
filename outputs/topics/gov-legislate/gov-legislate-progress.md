@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 subject: gov.legislate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA
-record: f76f7f0a9c97
+record: 124e25717b9e
 ---
 
 # Legislation and regulation: progress report, 2025-08-01 to 2026-08-19
@@ -451,7 +451,7 @@ record: f76f7f0a9c97
 
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
-| Critical-infrastructure protection legal framework | None held | [A bill on the protection of critical information infrastructure and digital security was presented to the National Assembly’s intercommission on 2026-08-13 and examined by its committees, proposing a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk, alongside local hosting of public data, service continuity and personal-data protection; it sits under the state’s technology-deal agenda. No adoption date, gazette reference or text is published](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) | Advanced |
+| Critical-infrastructure protection legal framework | None held | [A bill on the protection of critical information infrastructure and digital security was presented to the National Assembly's intercommission on 2026-08-13 and examined by its committees. On the ministry's account it grades obligations by risk — ordinary networks and systems on standard requirements, critical infrastructure on enhanced ones covering monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — and would establish a National Cybersecurity Authority, a national computer emergency response team, sectoral teams and cybersecurity operations services. The ministry also states an industrial objective: accredited service providers, domestic firms and skilled employment created by the compliance requirement itself. It sits under the state's technology-deal agenda. No adoption date, gazette reference or text is published](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/) | Advanced |
 | Décret n. 2026-807 on classified defence procurement | Did not exist | [In force; contracts and partnerships concerning critical information infrastructure are an enumerated ground for defence classification, gatekept by a presidency-chaired commission, with silence after fifteen days counting as refusal](https://www.vie-publique.sn/docs/edd007aa-28af-47e6-abd1-db8714394ba3/JO-7904-du-29-avril-2026.pdf) | Advanced |
 | Startup Act and labelling process | The implementing decree adopted; labelling not yet running | [The labelling process launched](https://lesoleil.sn/actualites/economie/un-an-apres-son-lancement-le-new-deal-technologique-commence-a-germer/) | Advanced |
 | Bill on a media and social-network regulator | A draft unveiled, entering the legislative process | [Unchanged in held material](https://techreviewafrica.com/news/1958/senegal-introduces-draft-law-to-establish-a-new-media-regulatory-authority) | No change, no source since 2025-01-24 |

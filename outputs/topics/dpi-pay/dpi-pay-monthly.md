@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 subject: dpi.pay
 places: DZA; AGO; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1b674e2ed6d6
+record: 195abe8e6290
 ---
 
 # Digital Payments and Fintech: monthly update, July 2026
@@ -21,7 +21,7 @@ Two payment milestones fell within a fortnight. The central bank completed migra
 
 ## Botswana
 
-The month's one payments development is commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. The national payment switch and the citizen wallet both remain at Planned.
+The month's two payments developments are both commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. Nine days later a remittance operator [issued a card on its wallet through a commercial bank and an international scheme](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/), adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only; here too there is no customer count, issuance volume or fee schedule on the record. The national payment switch and the citizen wallet both remain at Planned.
 
 ## Burkina Faso
 
@@ -196,6 +196,8 @@ On 26 July the Central Bank set out how the instant payment system is to reach t
 Operation Vulindlela's quarterly report of 31 July recorded the Payments Ecosystem Modernisation programme moving beyond conceptual design into active development of a payment credential, wallet, governance and trust capabilities, with testing against government use cases dated November 2026. Nothing held states how that rail relates to the bank-API rails below.
 
 The Reserve Bank gazetted a [national interoperable payment code standard](https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a), with PayShap the first rail to adopt it. Ozow launched a shared [bank application-programming-interface rail with FNB and RMB](https://www.itweb.co.za/article/ozow-fnb-and-rmb-plug-into-api-payments/GxwQD71DPwAvlPVo), its fourth such arrangement, and Pepkor announced a [R21.3bn merger of Flash and Shop2Shop](https://www.itweb.co.za/article/pepkor-creates-r213bn-fintech-platform/rxP3jqBEnbJMA2ye), subject to approval.
+
+What that migration costs the institutions running it surfaced in one bank's half-year results. [Technology spending reached R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment after a R2.4bn write-down in 2025, and a cost-to-income ratio still rising](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/) across a 17-country, 13.4-million-customer footprint. It is one bank's own group figure, so it bounds the cost of digital migration at a single institution rather than for the sector.
 
 ## South Sudan
 

@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 subject: gov.legislate
 places: DZA; AGO; BWA; BFA; BDI; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 356c3b2c36aa
+record: e53da2adca50
 ---
 
 # Legislation and regulation: monthly update, July 2026
@@ -213,7 +213,7 @@ What the amended identity Act actually says reached the record on 11 August, in 
 
 ## Senegal
 
-The critical-infrastructure framework that was undated at the end of July reached parliament a fortnight later. A bill on protecting critical information infrastructure and digital security [was presented to the National Assembly's intercommission on 13 August and examined by its committees](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), proposing [a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), alongside [local hosting of public data, service continuity and personal-data protection](https://www.pressafrik.com/Securite-numerique-Bacary-Sarr-participe-a-l-examen-du-projet-de-loi-sur-les-infrastructures-critiques_a309846.html) under the state's technology-deal agenda. No adoption date, gazette reference or text is published, and nothing the bill proposes exists yet.
+The critical-infrastructure framework that was undated at the end of July reached parliament a fortnight later. A bill on protecting critical information infrastructure and digital security [was presented to the National Assembly's intercommission on 13 August and examined by its committees](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), proposing [a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), alongside [local hosting of public data, service continuity and personal-data protection](https://www.pressafrik.com/Securite-numerique-Bacary-Sarr-participe-a-l-examen-du-projet-de-loi-sur-les-infrastructures-critiques_a309846.html) under the state's technology-deal agenda. Four days later the ministry published its own account of the contents: obligations [graded by risk, with ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — and a National Cybersecurity Authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited service providers, domestic firms and skilled jobs. Every provision is the ministry's description; the text is not held, no adoption date or gazette reference is published, and nothing the bill proposes exists yet.
 
 ## Sierra Leone
 

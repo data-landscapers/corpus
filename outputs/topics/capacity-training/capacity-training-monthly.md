@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 subject: capacity.training
 places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; RWA; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 43d46c13e5b4
+record: ba6ba1840034
 ---
 
 # Training and skills: monthly update, July 2026
@@ -103,7 +103,7 @@ The digital ministry [received 259 applications by 1 August 2026 for ten establi
 
 ## Malawi
 
-An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the [continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/).
+An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the [continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). The same foundation's scholarship arm named its [first 25 beneficiaries on 18 August, drawn from 17 districts and taking eight programmes at the science and technology university, computer systems and cyber security among them](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/) — the places announced at the January launch, filled seven months later. No continuation beyond the one cohort is stated.
 
 ## Mali
 
@@ -141,6 +141,8 @@ On 4 August the [fourth Mastercard Foundation EdTech Fellowship cohort](https://
 
 The month's largest single commitment went to the universities rather than the schools: on 11 August [Google.org put US$1.1m into an Africa AI Upskilling Programme run by the FATE Foundation across ten Nigerian universities](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/), on a train-the-trainer model that equips lecturers to deliver a localised version of the funder's own curriculum. Nigeria is the first of four countries in [a programme stated at 30 institutions and more than 30,000 students](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/), neither of which carries its own date or funding line. The same week the Korean agency [backed a first training-of-trainers cohort in business management and artificial intelligence at the Abuja Centre for Entrepreneurship](https://www.linkedin.com/posts/koica-nigeria_koica-koicanigeria-ace-activity-7491490192424439808-ToJ3), aimed at the small-business sector and reported by the funder on its own channel, with no cohort size or cost stated. Both are trainer-pool programmes: what neither publishes is what the trainers then deliver, or to how many.
 
+Two smaller items closed the month. The communications regulator [leased its Enugu Digital Industrial Park and Learning Centre to the state government for fifteen years, to be run as a talent city and artificial-intelligence institute](https://techafricanews.com/2026/08/18/ncc-leases-digital-industrial-park-to-enugu-government-for-15-years/) for skills training, startup incubation, outsourcing and research — a federal facility handed to a state rather than a new build, with no lease consideration, capacity or opening date published. And a private accelerator [opened a 50-million-naira student aid programme, about US$37,000, offering tuition support, a monthly stipend and paid remote internships, closing on 31 August](https://www.wearetech.africa/fr/fils/breves/breves-une/startup-abuja-lance-un-programme-de-50-millions-de-nairas-pour-les-etudiants); no place count or selection criterion accompanies it.
+
 ## Rwanda
 
 The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
@@ -166,6 +168,8 @@ In the north, the Somaliland administration [launched fixed-asset training for p
 The information technology sector education and training authority was [referred for a governance assessment](https://www.itweb.co.za/article/mict-seta-governance-concerns-referred-to-skills-authority/WnxpE74YZZdMV8XL).
 
 The pipeline that authority sits in was reviewed on 14 August. A development bank's report with the higher education department, philanthropically funded, finds [the route from school through universities and technical colleges into employment constrained at both ends — young people arriving without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills). Its finding is that the mismatch is structural and will not correct itself. That is a verdict on the strategy already under review on this ledger rather than a new instrument.
+
+One intervention was announced against that pipeline, at the far end of the country and five months out. A networking vendor's academy and a private group agreed with the Northern Cape education department to take [networking, cyber security and artificial-intelligence courses into 235 schools as extracurricular classes for grades 10 to 12 from February 2027](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N), inside a global programme the vendor says has already trained more than 600,000 South Africans. No learner target, cost, funding split, teacher-training provision or certification pathway accompanies it, and the training figure is the vendor's own.
 
 ## South Sudan
 

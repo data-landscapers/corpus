@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 subject: dpi.govtech
 places: DZA; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9b9ab826e6c8
+record: e0e1dddd6023
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
@@ -173,6 +173,8 @@ Separately the state is preparing to [recruit 3,852 education-sector agents thro
 
 The same omnibus also gives clinical trials a statutory electronic licensing system, with the procedure written into the same Act as the channel.
 
+A smaller service went live rather than being provided for. On 18 August the transport and IT ministries [launched an online motor vehicle licence system letting taxi operators renew the licence and pay road tax without visiting a post office or a land transport counter](https://techafricanews.com/2026/08/18/mauritius-launches-online-licensing-road-tax-system-for-taxi-operators/), which the ministry says will also build a database of operators, alongside a website for the operators' welfare fund — 6,567 registered members of 7,802 operators, with about 3,000 already on an electronic platform. The authority's underlying system is stated as outdated and a tender has been launched to upgrade it; no transaction volume, cost or extension beyond taxi operators is published.
+
 ## Morocco
 
 An interior ministry circular reported on 25 July abolished 22 administrative certificates and replaced them with sworn declarations, on the ministry's finding that citizens had routinely been made to produce them with no legal basis, and confirmed that only procedures published on the national portal are legally enforceable ([circular account](https://en.hespress.com/142557-morocco-abolishes-22-administrative-certificates-to-streamline-public-services.html)).
@@ -198,6 +200,8 @@ On 15 July the tax directorate [convened a national seminar on digitalising the 
 The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) was soft-launched on 30 July as a single sign-on gateway built with Korean financing, piloted since 2025, [the Korean agency named as a delivery partner alongside the communications ministry](https://spacewatchafrica.com/galaxy-backbone-unveils-government-service-portal-to-simplify-access-to-public-services/). Behind the login it integrates with the national data exchange so agencies share citizen data rather than each re-collecting it. The lawful basis and the audit arrangements are unstated, and no published rule answers either.
 
 At state level a second donor took the policy layer rather than the platform: on 16 August [the UK opened a digital policy and regulatory reform project with Ekiti State](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/), to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework. Its value and duration are not published.
+
+Two more federal fronts opened in the same week. The communications ministry [launched services.gov.ng as a single point of access to services previously spread across agency websites and offices](https://techafricanews.com/2026/08/18/nigeria-launches-centralised-gateway-portal-for-government-services/) — business registration, trade permits, identity verification, regulatory licensing and empowerment programmes — framed partly as a defence against fraudulent look-alike sites. No service count, transaction volume, cost or build attribution is published, and nothing states how it relates to the single sign-on portal soft-launched three weeks earlier. And on 19 August the IT development agency and the Hajj commission [agreed to digitise pilgrimage operations end to end, from registration and payment verification to flight manifests, logistics and pilgrim tracking](https://techafricanews.com/2026/08/19/nitda-and-nahcon-partner-to-fully-digitise-nigerias-hajj-operations/), the commission disclosing that its ICT function runs on two developers. It is an agreement to work together: no scope document, budget, timetable or procurement follows it.
 
 ## Rwanda
 
@@ -232,6 +236,8 @@ Operation Vulindlela's quarterly report of 31 July recorded an update under way 
 On 3 August the single citizen application was reported as a [production-ready pilot](https://www.itweb.co.za/article/govt-targets-production-ready-mymzansi-platform/GxwQD71DPpgvlPVo), its first credential use case a digital matric certificate built with Umalusi, with the verification approach in testing.
 
 Two of the state's own systems produced numbers in August, one improving and one lost. Home Affairs cut [nationwide system downtime from 35,426 hours in 2024/25 to 13,867 in 2025/26, a 61% reduction](https://www.gov.za/news/media-statements/minister-leon-schreiber-welcomes-reduction-system-downtime-recorded-home), and a [parliamentary reply gives the fuller picture: the population register's own downtime fell only from 14,720 to 11,479 hours, a 22% improvement](https://pmg.org.za/committee-question/39871/), with the department crediting the state IT agency's move from a bronze to a silver service level, 226 links migrated to fibre, 182 offices moved to a web service manager and 439 offices running on the identification system. The register — the layer everything else depends on — improved least, and the department led with the front-office figure.
+
+The revenue service opened a consultation of its own on 18 August, on a [digital VAT model combining electronic invoicing, an interoperability framework and electronic reporting](https://www.itweb.co.za/article/sars-invites-input-on-vat-modernisation/DZQ58vV8m9NMzXy2), framed as moving VAT administration off manual processes and retrospective verification and into the systems businesses already run. It follows a 2023 discussion paper and is stated as building blocks: the account held carries no closing date for comment, implementation timetable, cost, mandate threshold or legislative vehicle.
 
 The courts project went the other way. On 13 August the justice minister [referred the courts digitisation project to the special investigating unit and the police priority crimes unit, after the contractor holding outsourced records since 2021 denied the department access to its own records at the Master of the High Court in Pretoria](https://www.sanews.gov.za/south-africa/justice-minister-refers-courts-digitisation-project-siu-hawks). No contract value, term, custody arrangement or data-protection provision for those records is held; a department locked out of its own files is a custody failure before it is a procurement one.
 

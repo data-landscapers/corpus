@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 776b42ac5c4a
+record: d3bffd5fb6f6
 ---
 
 # Connectivity: monthly update, July 2026
@@ -87,11 +87,13 @@ On 29 July the new communications minister [received Japan's ambassador and the 
 
 Deployment of the transformation project's fibre backbone was reported to the Council on 3 August: [7,000 km laid against more than 18,500 km, leaving 11,500 km outstanding](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de) and tied to connecting 145 territories by 2030. The minister attributed the pace to budget constraints and a low disbursement rate on external financing, blamed on donor procedure.
 
-Coverage arrived from orbit before it arrived by fibre. An operator [commercially launched a satellite-to-mobile service on 14 August, the first African operator to take the technology out of testing](https://businessday.ng/technology/article/airtel-becomes-first-african-operator-to-commercially-deploy-starlink-mobile-starting-in-congo/): a compatible LTE Android handset with a clear view of the sky reaches messaging and SMS through satellites where there is no terrestrial network, with no dish, router or other equipment, and the [regulator has confirmed a phased rollout](https://numerico.cd/2026/08/14/airtel-rdc-et-starlink-rdc-a-la-conquete-des-zones-blanches/). No tariff, coverage map or subscriber figure is published, and the service is stated as designed for light data.
+Coverage arrived from orbit before it arrived by fibre. An operator [commercially launched a satellite-to-mobile service on 14 August, the first African operator to take the technology out of testing](https://businessday.ng/technology/article/airtel-becomes-first-african-operator-to-commercially-deploy-starlink-mobile-starting-in-congo/): a compatible LTE Android handset with a clear view of the sky reaches messaging and SMS through satellites where there is no terrestrial network, with no dish, router or other equipment, and the [regulator has confirmed a phased rollout](https://numerico.cd/2026/08/14/airtel-rdc-et-starlink-rdc-a-la-conquete-des-zones-blanches/). The service is stated as designed for light data, and the only access term published is a [free 30-day trial for customers who register through the operator's app](https://www.connectingafrica.com/connectivity/airtel-africa-starlink-launch-satellite-to-mobile-service-in-drc); no standing tariff, coverage map or subscriber figure is on the record.
 
 ## Egypt
 
 An independent measurement published on 3 August 2026 gave the first full-year reading of Egypt's 5G launch. Six months after commercial service began in June 2025, the 5G median download speed had fallen to about 89 Mbps from 110.5 Mbps on launch day, and the combined 4G and 5G median stood at 34.77 Mbps against a pre-launch baseline of 37.68 Mbps ([measurement](https://www.ookla.com/articles/5g-north-africa-2026)). Egypt is the only one of the four North African launch markets with no published coverage or quality obligation attached to its award.
+
+Attention has moved to the band above it. The incumbent, the regulator and a Chinese vendor [ran a mobile base station and a data call over upper 6 GHz on 19 August, reported at about 1.7 Gbps per user](https://itweb.africa/article/telecom-egypt-tests-high-capacity-spectrum/RgeVDqPRka37KJN3) and stated by the operator as the first such trial in Egypt and in Africa. It is a trial: no allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own.
 
 ## Equatorial Guinea
 

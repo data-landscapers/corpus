@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 71cbc2b7781d
+record: 1ab1793f9624
 ---
 
 # Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-19
@@ -50,6 +50,7 @@ record: 71cbc2b7781d
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Instant cross-border payment corridor into Botswana | No live regional instant corridor into Botswana | [Live inbound from South Africa and Zimbabwe](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) | Advanced |
+| Remittance wallet payment card | Did not exist | [A card issued on a remittance operator's wallet by a commercial bank on an international scheme, adding ATM withdrawal, in-store payment and domestic online payment to a wallet that previously carried transfer and cash-out only](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/) | Advanced |
 | Biometric grant payment cards | More than 75,000 beneficiaries and 1,200 shops (2025-05) | [The same figure; no update in the twelve months](https://techafricanews.com/2025/05/28/smartswitch-botswana-pioneers-dignified-digital-aid-for-75000-beneficiaries/) | No change |
 | Citizen Wallet | ***Baseline not held*** | [Announced as a unified wallet for subsidy delivery alongside a cryptographic card; no build, pilot, budget line or date since](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/) | ***Baseline not held*** |
 | National payment switch | ***Baseline not held*** | [Funded in plan only; no build, procurement, operator or date on the record](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) | ***Baseline not held*** |
@@ -510,6 +511,7 @@ record: 71cbc2b7781d
 |---|---|---|---|
 | Capitec-Walletdoc merger conditions | Did not exist | [Behavioural conditions agreed; Tribunal had not ruled at 2026-08-06](https://www.itweb.co.za/article/compcom-approves-capitecs-walletdoc-acquisition/Olx4z7kaoeyq56km) | Advanced |
 | CIPS participation (Standard Bank) | No African bank held CIPS direct-participant status | [Standard Bank live as the first African bank offering CIPS transactions; RMB the settlement currency](https://www.cips.com.cn/en/2025-05/12/article_2025051209014593030.html) | Advanced |
+| Commercial bank technology spending | None published | [One of the large banks put technology spending at R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment following a R2.4bn write-down in 2025; its cost-to-income ratio kept rising through the migration, across a 17-country, 13.4-million-customer footprint](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/) | Advanced |
 | Renminbi Clearing Bank of Africa | Did not exist; CIPS participation only (live 2025-11-20) | [Standard Bank and ICBC jointly authorised as RMB clearing bank for Africa, with operational capacity in the 19 African countries where Standard Bank Group operates](https://corporateandinvestment.standardbank.com/cib/global/who-we-are/about-us/news/standard-bank-becomes-the-first-bank-on-the-continent-authorised-to-clear-renminbi-transactions) | Advanced |
 | ZARU rand-backed stablecoin | Did not exist | [Listed on Luno Global 2026-08-07, quoted against USDT and USDC](https://www.itweb.co.za/article/rand-goes-on-chain-as-zaru-hits-luno-global/xA9PO7NE6RAvo4J8) | Advanced |
 | Payments Ecosystem Modernisation credential and wallet | ***Baseline not held*** | In development (2026-07-31) | ***Baseline not held*** |

@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 3377d059fb7a
+record: 8bed25e57124
 ---
 
 # Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-19
@@ -272,7 +272,7 @@ record: 3377d059fb7a
 
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
-| National Biometric Identification System (NIR) | Mandatory under Executive Order 147, issuance running amid a procurement dispute over a rejected restricted-bid award (2025-08) | [Public-private concession with an Austrian firm to finance enrolment of all about 5.3m people in 18 months, operate and transfer; the registry says procurement is now complete and the concession agreement is with the President ahead of legislative ratification, with selection and terms still unpublished. Mass enrolment has been suspended since 23 June 2025](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/) | Advanced, contested |
+| National Biometric Identification System (NIR) | Mandatory under Executive Order 147, issuance running amid a procurement dispute over a rejected restricted-bid award (2025-08) | [Public-private concession with an Austrian firm to finance enrolment of all about 5.3m people in 18 months, operate and transfer; consultations on the draft agreement have concluded and it has gone to Parliament for approval, with selection and terms unpublished until legislative approval completes. Coverage stands below 15% of a population above five million, officials say issuance will be free for poor first-time applicants, and mass enrolment has been suspended since 23 June 2025](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd) | Advanced, contested |
 | National identity enrolment | About 740,000 enrolled, under 15% of about 5.3m, at a US$5 card fee (2024-12) | [About 640,000 prior registrants locked out of the system and issuance halted; no updated enrolment figure published (2026-03)](https://fpa.news/liberia-national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/) | Regressed |
 | Executive Order 147 (mandatory biometric identity) | In force, making the identification number the primary credential for banking, health, education and telecoms (2025-08) | [In force and unamended, on a register whose issuance was halted for part of the period (2026-08)](https://idtechwire.com/liberia-makes-biometric-id-cards-mandatory-for-citizens-and-residents) | No change |
 | SIM registration linked to the national identity number | Deadline set and in force (2025-08) | [No compliance figure, enforcement action or revised deadline published since (2026-08)](https://techpoint.africa/news/liberia-link-national-id-cards-deadline) | No change |
@@ -454,7 +454,7 @@ record: 3377d059fb7a
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Digital driving licence | Promised for 2026 | [Nearest dated milestone 2027-03](https://techpoint.africa/insight/techpoint-digest-1253/) | Stalled |
-| Draft Identification Regulations amendments | Did not exist | [Gazetted 2026-05-04; consultation closed](https://www.biometricupdate.com/202605/south-africa-gazettes-digital-id-draft-regulation-seeks-comments) | Advanced |
+| Draft Identification Regulations amendments | Did not exist | [Gazetted 2026-05-04 and the comment period closed on 2026-06-06. A research organisation's submission on the closing day asked the department to suspend the regulations pending a published Digital Identity Policy, an enacted National Identification and Registration Bill and demonstrated compliance with the data-protection Act, on the ground that they create a biometric enrolment, trusted-entity accreditation and real-time verification system with no formal role for the Information Regulator](https://www.biometricupdate.com/202605/south-africa-gazettes-digital-id-draft-regulation-seeks-comments) | Advanced |
 | Electronic travel authorisation | Pilot from 2025-10 | [Live at four airports — OR Tambo, Cape Town, King Shaka and Lanseria — from 2026-08-12, with 6,126 fraudulent applications rejected, put at 2.8% of pilot submissions, and full visa-type rollout targeted by end-2026](https://visasnews.com/en/south-africa-makes-the-eta-the-cornerstone-of-its-visa-reform/) | Advanced |
 | National digital identity (credential and wallet) | "Before the 2029 elections" (2025-12) | [Hosting 2027-03-31; credentials 2027/28](https://www.biometricupdate.com/202605/south-africa-home-affairs-seeks-828m-budget-for-digital-id-biometric-visa-projects) | Stalled |
 

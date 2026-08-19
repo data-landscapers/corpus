@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 85429f0d7d20
+record: a6449c830f3b
 ---
 
 # Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-19
@@ -247,6 +247,7 @@ record: 85429f0d7d20
 | Broadband Infrastructure Sharing Policy | Not signed | [Signed; no implementation instrument or regulator guidance on record](https://lestimes.com/?p=90715) | Advanced |
 | Data Management Policy | Not signed | [Signed, framed as a privacy, security and ethical-use framework](https://lestimes.com/?p=90715) | Advanced |
 | National AI Policy | Not signed | [Signed, covering responsible AI in health, education and public administration](https://lestimes.com/?p=90715) | Advanced |
+| National AI Strategy | Did not exist | [Being drafted at the same five-day Maseru workshop as the data-centre blueprint, organised by the communications ministry with the United Nations in Lesotho, and intended as the framework for deploying artificial intelligence; the deputy prime minister's keynote asked for capability assessment, safeguards, infrastructure, policy and human capacity to be settled before investment is scaled](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) | Advanced |
 | National Digital Policy 2024 | In force | [In force, unamended](https://www.policyvault.africa/wp-content/uploads/2025/09/LSO61.pdf) | No change |
 | National Digital Transformation Strategy: Agenda 2030 | In force | [In force, unamended](https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/) | No change |
 
@@ -349,6 +350,7 @@ record: 85429f0d7d20
 
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
+| National Digital Cloud Policy | Did not exist | [In force on publication apart from its sovereignty provisions, which await presidential approval. It makes cloud the default for new federal systems, with time-bound exemptions assessed by the IT development agency against published criteria and kept in a register; pools ministry demand through the government infrastructure company under framework agreements bought on a National Digital Marketplace, with the procurement bureau overseeing compliance; and sorts government and regulated data into four levels, Level 4 national-security data hosted only in Nigeria, Level 3 financial, health, biometric and identity data stored at rest in Nigeria, Level 2 hybrid by prior authorisation and Level 1 unrestricted. It imposes no general localisation on commercial data, and a regulator must apply to have a category designated sovereign. A US50m private cloud and data-centre investment target is set for 24 months](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/) | Advanced |
 | Draft National Policy on Data and Cloud | In draft (2021) | [Five years a draft, while the localisation question was settled by circular instead](https://techcabal.com/2026/06/17/why-nigerias-ai-future-depends-on-breaking-government-data-silos/) | No change |
 | Artificial Intelligence and Cyber Diplomacy Unit | ***Baseline not held*** | [Unit inside the Ministry of Foreign Affairs coordinating engagement on emerging technologies](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) | ***Baseline not held*** |
 | Federal civil service digital transformation committee | Not held | [An eleven-member technical working committee inaugurated by the Head of Service to coordinate the federal civil service's cabinet-approved digital transformation agenda, tasked with drafting the architecture, roadmap and governance mechanisms within one week, ahead of a steering committee](https://www.thisdaylive.com/2026/08/17/hos-inaugurates-technical-working-committee-on-digital-transformation-agenda/) | ***Baseline not held*** |

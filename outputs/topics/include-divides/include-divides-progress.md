@@ -4,7 +4,7 @@ compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 subject: include.divides
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GHA; GIN; GNB; KEN; LBR; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SLE; SOM; TZA; TGO; UGA; ZWE; XSA
-record: 628a69a2b5b5
+record: 7bb80fcb79fa
 ---
 
 # Digital divides: progress report, 2025-08-01 to 2026-08-19
@@ -160,6 +160,7 @@ record: 628a69a2b5b5
 | American-funded digital inclusion and connectivity programming | In delivery, including work in remote counties | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | KenSafeSpace | Running on a EUR 1.3m EU grant | [Closed after 30 months, reporting 18,000 reached directly, 9.4m through campaigns and 133 defenders trained, with a 49-member coalition continuing unfunded](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Closed |
 | Smartphone against feature-phone connections | 48.7m smartphone and 29.6m feature-phone connections, December 2025 | [50.2m smartphone connections, above 50m for the first time, with feature phones down to 28.5m](https://nation.africa/kenya/business/smartphones-hit-50m-basic-handsets-ditched-5502650) | Advanced |
+| Universal Service Fund Digital Skilling Project | None published | [A Universal Service Fund project targeting 120,000 people in 19 counties over three years in unserved and underserved areas, framed by the regulator as the skills half of a connectivity programme and tied to the National Digital Master Plan 2022-2032](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/) | Advanced |
 | Enhancing Digital Access and Community Resilience | GBP 2.3m committed, activities starting late 2025 | [GBP 2.3m across eight arid-lands counties including refugee-hosting Garissa and Turkana, with no completion report held](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300139/summary) | No change |
 | Universal Service Fund | 20 sub-locations connected in FY2024/25 and 155 cumulatively, reaching about 508,012 people, with construction started at 32 of 47 planned centres of excellence | [Unchanged; no FY2025/26 account published](https://www.ca.go.ke/sites/default/files/2026-07/Annual%20Report%20FY%202024-2025.pdf) | No change |
 | EmpowerHer | ***Baseline not held*** | [Targets 15,000 women across three counties on a trainer-of-trainers model, with no value or reach-to-date disclosed](https://www.kictanet.or.ke/kictanet-engages-tana-river-county-leadership-to-advance-womens-digital-empowerment/) | ***Baseline not held*** |
