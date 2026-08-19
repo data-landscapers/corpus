@@ -1,34 +1,42 @@
-/* datatable.js — Corpus client-side data tables. v2 (2026-08-19)
+/* datatable.js — the shared data table for data-landscapers and Corpus. v3 (2026-08-19)
 
-   Ported from the Lab's assets/js/datatable.js (data-landscapers repo, v16) and
-   rewritten for Corpus: no inline styling — every rule lives in
-   assets/css/datatable.css and uses main.css's variables — and no dataset-specific
-   code. One component, driven entirely by data-* attributes on the container.
+   **This file is canonical.** It lives in `data-landscapers/assets/shared/` and
+   Corpus carries a copy at `site/assets/js/datatable.js` with a `DATATABLE-FROM`
+   marker naming the commit; `Corpus/scripts/lint-shared-assets.py` reports drift.
+   Change it here, never there — a fix made downstream is a fix this site never
+   gets, and the next copy down reverts it in silence.
+
+   No inline styling: every rule is in the datatable.css beside this file, over
+   main.css's variables. No dataset-specific code either — everything is driven by
+   data-* attributes on the container.
 
    Markup contract:
 
      <div class="dl-datatable"
-          data-src="ZAF-nonstate-2026-08-19.csv"   the CSV to fetch (required)
+          data-src="data-centres-v2-display.csv"   the CSV to fetch (required)
           data-cols="a,b,c"                        visible columns, in order (default: all)
-          data-filters="financier,sector,status"   columns to give a dropdown
-          data-numeric="commitment_usd_m,start_year"  sort these as numbers
+          data-filters="country_name,sector"       columns to give a dropdown
+          data-numeric="commitment_usd_m,year"     sort these as numbers
           data-links="url"                         render these as links
           data-labels='{"recipient_country":{"ZAF":"South Africa"}}'
+          data-badges='{"sovereignty_category":{"Fully African":"green"}}'
           data-detail="description"                also show these in the row panel
           data-sort="start_year:desc"              initial sort
-          data-empty="No commitment matches those filters.">
-       <div class="dt-controls">
-         <span class="dt-title">South Africa &mdash; non-state finance</span>
-         <span class="dt-count">54 rows</span>
-         <a class="btn" href="...csv" download>&darr; Download CSV</a>
-       </div>
+          data-title="Africa data centre mapping"  toolbar heading
+          data-full-src="data-centres-v2.csv"      offer the full dataset too
+          data-metadata-src="...-metadata.csv"     offer the field dictionary
+          data-min-col-width="120"                 floor under every column
+          data-empty="Nothing matches those filters.">
        <noscript>...</noscript>
      </div>
 
-   The title, the row count and the download links are written server-side and left
-   alone here: the download link's filename is a dated edition (RENDER.md §9), which
-   the page knows and the browser does not, and a reader without JavaScript still
-   needs it. This script only fills in the filters, the search box and the table.
+   **The toolbar can come from either side.** Where the page supplies a
+   `.dt-controls` block — Corpus does, because its download links are dated
+   editions whose filenames the page knows and the browser does not, and because a
+   reader with JavaScript off still needs them — this script fills in the filters
+   and the search box and leaves the rest alone. Where the page supplies none, as
+   every Lab and post page does, it builds the whole bar from `data-title`,
+   `data-src`, `data-full-src` and `data-metadata-src`.
 
    ── v2, after Bill read the first one on screen (2026-08-19) ──────────────────
 
@@ -42,9 +50,9 @@
 
    So v2 measures the text and decides the widths itself, then fixes them:
 
-     - Column widths are computed from the data (`columnWidths`), sized so that the
-       90th-percentile cell fits in three lines, floored by the longest unbreakable
-       word and by the header's own longest word, and clamped at both ends. The
+     - Column widths are computed from the data (`columnWidth`), sized so that
+       every cell fits in three lines, floored by the header's own longest word
+       and by MIN_W, and capped at MAX_W. The
        table is then `table-layout: fixed` with an explicit <colgroup>, which the
        header and body tables share — identical widths by construction, so they
        cannot drift apart the way v1's measure-after-render sync could.
@@ -141,6 +149,46 @@
   function debounce(fn, ms) {
     var t;
     return function () { clearTimeout(t); t = setTimeout(fn, ms); };
+  }
+
+  /* A download link, styled as the site's button. Written as an anchor rather
+     than a button with a click handler so that it survives with JavaScript
+     disabled and can be copied, opened in a tab, or right-clicked like any link. */
+  function downloadLink(href, label) {
+    var a = document.createElement('a');
+    a.className = 'btn';
+    a.href = href;
+    a.setAttribute('download', '');
+    a.innerHTML = '&darr; ' + esc(label);
+    return a;
+  }
+
+  /* The toolbar, where the page has not supplied one. Corpus writes its own
+     because its download filenames are dated editions it alone knows; the Lab
+     pages give the script a bare div and expect the bar to appear. */
+  function ensureControls(container) {
+    var bar = container.querySelector('.dt-controls');
+    if (bar) return bar;
+
+    bar = document.createElement('div');
+    bar.className = 'dt-controls';
+
+    if (container.dataset.title) {
+      var t = document.createElement('span');
+      t.className = 'dt-title';
+      t.textContent = container.dataset.title.trim();
+      bar.appendChild(t);
+    }
+    var count = document.createElement('span');
+    count.className = 'dt-count';
+    bar.appendChild(count);
+
+    if (container.dataset.src) bar.appendChild(downloadLink(container.dataset.src, 'CSV'));
+    if (container.dataset.fullSrc) bar.appendChild(downloadLink(container.dataset.fullSrc, 'Full dataset'));
+    if (container.dataset.metadataSrc) bar.appendChild(downloadLink(container.dataset.metadataSrc, 'Metadata'));
+
+    container.insertBefore(bar, container.firstChild);
+    return bar;
   }
 
   /* ── measuring text ───────────────────────────────────────────────────────
@@ -257,8 +305,9 @@
       try { labels = JSON.parse(container.dataset.labels); } catch (e) { labels = {}; }
     }
 
-    var controls = container.querySelector('.dt-controls');
+    var controls = ensureControls(container);
     var countEl = container.querySelector('.dt-count');
+    var minColW = parseFloat(container.dataset.minColWidth) || 0;
     var msg = document.createElement('p');
     msg.className = 'dt-msg';
     msg.textContent = 'Loading data…';
@@ -297,6 +346,21 @@
           var i = findCol(headers, c); if (i > -1) labelFor[i] = labels[c];
         });
         function display(ci, v) { return (labelFor[ci] && labelFor[ci][v]) || v; }
+
+        /* Badges: a column whose values are a small closed set worth reading as a
+           status rather than as text. The mapping is given, never inferred — the
+           colours carry meaning here (green for African control, red for US/CN),
+           and a palette assigned by sort order would attach that meaning at
+           random. A value not in the map renders as ordinary text. */
+        var badges = {};
+        if (container.dataset.badges) {
+          try {
+            var spec = JSON.parse(container.dataset.badges);
+            Object.keys(spec).forEach(function (c) {
+              var i = findCol(headers, c); if (i > -1) badges[i] = spec[c];
+            });
+          } catch (e) { badges = {}; }
+        }
 
         var filterCols = list(container.dataset.filters)
           .map(function (c) { return findCol(headers, c); })
@@ -443,8 +507,9 @@
         var CARET_W = 26;
 
         var widths = cols.map(function (ci) {
-          return columnWidth(headers[ci], rows.map(function (r) { return display(ci, r[ci]); }),
-                             mText, mHead, pad);
+          var w = columnWidth(headers[ci], rows.map(function (r) { return display(ci, r[ci]); }),
+                              mText, mHead, pad);
+          return minColW ? Math.max(w, minColW) : w;      // data-min-col-width is a floor
         });
         var total = widths.reduce(function (a, b) { return a + b; }, CARET_W);
 
@@ -460,7 +525,12 @@
         function cellHtml(ci, v) {
           if (!v) return '';
           if (linkCols[ci]) return linkCell(v);
-          return '<span class="dt-cell">' + esc(display(ci, v)) + '</span>';
+          var shown = display(ci, v);
+          if (badges[ci]) {
+            var tone = badges[ci][v] || badges[ci][shown];
+            if (tone) return '<span class="dt-badge dt-badge--' + esc(tone) + '">' + esc(shown) + '</span>';
+          }
+          return '<span class="dt-cell">' + esc(shown) + '</span>';
         }
 
         var current = [];        // the rows as currently ordered, for the detail panel

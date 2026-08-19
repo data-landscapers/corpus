@@ -1,8 +1,13 @@
 /* ============================================================
-   datatable.css — the .dl-datatable component (assets/js/datatable.js)
-   Kept out of main.css deliberately: main.css is a copy carrying its own
-   provenance marker (MAIN-CSS-FROM), and appending to it would break that.
-   Reuses main.css's variables and its table.data-table rules.
+   datatable.css — styling for the .dl-datatable component beside it.
+
+   **Canonical here, in data-landscapers/assets/shared/.** Corpus carries a copy at
+   site/assets/css/datatable.css with a DATATABLE-FROM marker; change this one.
+
+   Kept out of main.css deliberately: main.css is shared between the two repos by
+   the same copy-and-marker arrangement (MAIN-CSS-FROM), and appending to it would
+   mean re-syncing a 1,000-line stylesheet every time the table changes. Reuses
+   main.css's variables and its table.data-table rules.
    ============================================================ */
 
 .dl-datatable {
@@ -164,6 +169,24 @@
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* Badges: a closed set of values read as a status rather than as text. The tone
+   names are the contract with data-badges; the meaning is the page's to assign. */
+.dl-datatable .dt-badge {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  line-height: 1.3;
+  padding: 0.15rem 0.45rem;
+  border-radius: 2px;
+  border: 1px solid;
+  white-space: normal;
+}
+.dl-datatable .dt-badge--green { color: #155724; border-color: #c3e6cb; background: #d4edda; }
+.dl-datatable .dt-badge--blue  { color: #004085; border-color: #b8daff; background: #cce5ff; }
+.dl-datatable .dt-badge--amber { color: #856404; border-color: #ffeeba; background: #fff3cd; }
+.dl-datatable .dt-badge--red   { color: #721c24; border-color: #f5c6cb; background: #f8d7da; }
+.dl-datatable .dt-badge--grey  { color: #444; border-color: var(--rule); background: var(--paper-warm); }
 
 /* ── Row expander ── */
 .dl-datatable td.dt-caret, .dl-datatable th.dt-caret {
