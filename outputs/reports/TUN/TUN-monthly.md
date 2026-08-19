@@ -1,16 +1,16 @@
 ---
 title: Tunisia — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: TUN
-ledger_rows: 27
-not_held: 8
-record: f07ab637f370
+ledger_rows: 31
+not_held: 9
+record: aff125400338
 ---
 
 # Tunisia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -24,11 +24,15 @@ On 1 July digital identity stopped being optional for two classes of user, and o
 
 <!-- narrative: infrastructure--infra-connect -->
 A measurement study of North African 5G published on [3 August 2026](https://www.ookla.com/articles/5g-north-africa-2026), cited rather than absorbed, reports the Tunisian 5G median down 30% from launch by month six and the combined 4G and 5G median below the pre-launch baseline, while fixed-wireless lines rose to 319,554 by May 2026 under the regulator's 30 Mbps obligation. Nothing published bears on the submarine cables, data centres or satellite licensing.
+
+The one physical build to move was a stalled one. The grands projets commission [ordered immediate procurement to complete the Cite Numerique d'Ennahli technology park](https://www.lapresse.tn/2026/08/10/grands-projets-acceleration-de-lextension-de-la-centrale-de-borj-el-amri-et-de-deux-projets-hospitalier-et-numerique/) at a review session chaired by the Prime Minister on 10 August, alongside unrelated power-station and hospital projects. No cost, completion date, occupancy plan or account of why the park was incomplete is stated.
 <!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-The national cybersecurity agency [warned on 30 July 2026 of an SMS phishing campaign](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151319-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86) built on fake unpaid-traffic-fine notices sent from foreign numbers, carrying links to counterfeit platforms that harvest banking and personal data. Its advice was to distrust unsolicited messages, and its offered test was that Tunisian government sites use only the national domain. The lure borrows the credibility of the state's own digitised payment channels; the response on record carries no takedown power and names no data-protection authority.
+The national cybersecurity agency [warned on 30 July 2026 of an SMS phishing campaign](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151319-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86) built on fake unpaid-traffic-fine notices sent from foreign numbers, carrying links to counterfeit platforms that harvest banking and personal data. Its advice was to distrust unsolicited messages, and its offered test was that Tunisian government sites use only the national domain. The lure borrows the credibility of the state's own digitised payment channels; the response on record carries no takedown power and names no data-protection authority. A [second alert on 14 August](https://www.lapresse.tn/2026/08/14/tentatives-de-piratage-des-comptes-facebook-lansc-appelle-a-la-vigilance/) warned of a surge in social-media account takeovers worked through SMS and email verification-code social engineering.
+
+The scale behind the alerts was published on 7 August: [57,430 cyberattacks recorded in the first half of 2025, and ransomware cases up 140% to 37,076 in 2024](https://www.leconomistemaghrebin.com/2026/08/07/cyberattaques-tunisie-explosion-ransomwares/), on interior ministry and agency figures, as the government finalised a National Cybersecurity Strategy 2026-2030 aimed at critical-infrastructure resilience and skills. The two figures cover different periods and are not a series; no definition of a recorded attack and no incident-reporting obligation behind the count is stated.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -39,6 +43,13 @@ The national cybersecurity agency [warned on 30 July 2026 of an SMS phishing cam
 From 1 July 2026 the mobile identity became a condition of transacting with the state: the [investment authority made it mandatory for all investment-project declarations](https://techafricanews.com/2026/06/26/tunisia-makes-mobile-id-mandatory-for-investment-project-declarations/).
 
 The health identifier's provenance became public on [27 July 2026](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). A ministry adviser confirmed that the identifier built for Covid-19 vaccination, holding records of over 3 million childhood immunisations, was adopted as the national health identifier and bound to the national identity card, the social security number and school and university identifiers. [Roughly 100,000 medical files had been linked](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). On protection of that linked dataset the ministry asserts only that data is stored confidentially and securely.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+Tunisia's payments market is large enough for the question of who bears a loss to matter, and the law does not answer it. A published legal analysis finds [no Tunisian text — not the 2000 electronic commerce law, the 2023 cybersecurity decree-law, nor the central bank's 2024 circular — allocating the loss between bank, merchant and cardholder when an electronic payment is hijacked, altered or blocked by a cyber incident](https://www.tunisiaonlinenews.com/tunisia-cyber-risk-who-pays-when-electronic-payments-fail/), against 164.8 million transactions worth 29.5bn dinars in 2025, up 12.3%, and reported cyber incidents rising from 63,000 in 2021 to more than 155,000 in 2022. The absence is now recorded as a gap.
+
+The month's other payments item was an outage notice rather than a policy: the interbank switch [announced a planned technical intervention overnight on 11 August](https://fr.linkedin.com/posts/monetique-tunisie_information-importante-dans-le-cadre-activity-7492663715733983232-dNXD), which is the only public statement the base holds about the availability of the rail those 164.8 million transactions run on.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 

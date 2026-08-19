@@ -1,16 +1,16 @@
 ---
 title: Tanzania — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: TZA
-ledger_rows: 52
+ledger_rows: 58
 not_held: 13
-record: 173d1ddcc604
+record: f68c7ea3e2f4
 ---
 
 # Tanzania: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -30,6 +30,8 @@ A ministerial inspection of the national backbone on 24 July recorded [942.5 km 
 The minister inspected the national backbone at Mpwapwa on 24 July. The network stands at about [14,000 km carrying four public data centres and a third landing cable](https://www.mwananchi.co.tz/mw/habari/kitaifa/waziri-kairuki-watanzania-wengi-hawajanufaika-na-mkongo-wa-taifa-5536718); in the region inspected, 942.5 km had been built against 65 people connected. The regional manager stated that phase one connected government offices and public institutions, with individual citizens next. At the same inspection [636 masts were stated due in March 2027, with a second programme of 280 masts under way](https://www.mwananchi.co.tz/mw/habari/kitaifa/waziri-kairuki-watanzania-wengi-hawajanufaika-na-mkongo-wa-taifa-5536718) with no cost, financier or completion date given.
 
 On 29 July the Kenyan and Tanzanian ministers [launched a terrestrial fibre link across the border, integrating the national backbone with submarine cable capacity](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/). No capacity, cost or financing was stated, and the base does not reconcile it against the 2025 connection on the route.
+
+A separate tower programme reported its own reach to Parliament on 15 August: a [TZS 126bn, 758-tower project — TZS 55bn from the World Bank and TZS 71bn from the universal service fund — has connected 8.5 million people across 1,400 villages](https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/), in the same report that records 14,826 data controllers and processors registered with the data protection commission by June 2026. The ministry gives no count of towers completed against the 758 planned, and no measure of service uptake in the villages it says are connected.
 <!-- /narrative -->
 ### Data Storage
 
@@ -46,7 +48,9 @@ The state operator [gave students of a technical institute hands-on training on 
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228). No national seizure, deregistration or prosecution series is held against which to read it.
+One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228).
+
+August gave the national series the earlier account lacked. The regulator told Parliament it had [blocked 39,117 fraud-linked phone numbers and 6,118 domains and applications in the 2025/26 financial year, removed 7,311 violating accounts and submitted 56 security-incident reports to the police](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/); and it [identified 7,334 mobile lines linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter](https://www.thecitizen.co.tz/tanzania/business/government-telecoms-join-forces-to-combat-growing-mobile-fraud-5553640), with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. Blocking is not prosecution: [56 incident reports stand against 39,117 numbers blocked](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/), and no conviction or restitution figure is held.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -69,6 +73,8 @@ The [mandatory electronic payments order came into operation on 1 July 2026](htt
 One month in, the price of using the rails became the argument. On 31 July the central bank [capped bank-to-wallet interoperability at TZS 5,000 above TZS 500,000, single instant transactions and retail bank-to-bank transfers at TZS 2,000, and card payments at zero](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380), removing intra-bank transfer charges and a Zanzibar card surcharge. The same day the governor rejected a general price cap demanded by users and analysts; one analyst [put the worked cost at about TZS 3,500 per TZS 100,000 paid](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380) and argued that the mandate manufactures avoidance.
 
 A technical meeting in Zanzibar from 7 to 11 July [advanced the governance, commercial and risk frameworks for a cross-border instant-payment corridor with Rwanda](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374). No launch date was set.
+
+August supplied the adoption side of the same picture, from two directions. The government is [promoting affordable-smartphone financing to widen electronic-payment take-up, with active mobile money accounts up 7.5% to 87.05 million and smartphone penetration at 44.74% in June 2026](https://dailynews.co.tz/govt-spurs-e-payments/), as the central bank directs eight business sectors to adopt electronic payment systems within six months from January 2027. And in the countryside an operator's agricultural service [pays crop proceeds straight to farmers' phones, reporting more than TSh150bn paid to farmers in two southern regions in the 2025/26 season and over TSh50bn already in 2026/27](https://dailynews.co.tz/mixx-digital-payments-boost-farmers-incomes-businesses/), covering [more than 2,000 coffee and pigeon-pea farmers in two northern regions](https://www.thecitizen.co.tz/tanzania/news/national/over-2-000-northern-tanzania-farmers-benefit-from-mixx-digital-services-5551992) and [expanding into the southern highlands](https://www.thecitizen.co.tz/tanzania/news/national/mixx-by-yas-eases-payments-for-southern-highlands-farmers-5552008), alongside linked credit and health insurance. Every figure is the operator's own, given at a promotional exhibition at which it also awarded vehicles and phones to loyal users, and no farmer total, fee schedule or default rate on the linked credit is published.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -81,6 +87,8 @@ Birth registration gained a fourth estimate. The constitutional and legal affair
 
 <!-- narrative: dpi--dpi-mis -->
 At the same exhibition the agency described a farmer-records and permits system and a fertiliser monitoring system, with no user counts, spend or timeline given.
+
+The state's own asset record is being enforced rather than built. The finance ministry is [tightening enforcement of the central electronic system for recording and monitoring public assets, citing a hydropower project at about TSh6tn and a railway at about TSh10.6tn](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/), with legal backing through amendments to the Public Finance Act and the Public Assets Management Regulations 2024. No count of assets recorded, entities complying or value reconciled is published, so the two named investments are cited as scale rather than as entries in the system.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -97,10 +105,17 @@ A [constituency digitalisation strategy opened on 4 August with 20 computers and
 
 ## Governance and regulation
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The legislative response to all of this is a review rather than a bill. The government says it will [review more than 1,000 laws, including the public-private partnership act, the companies act and financial legislation, to build a regulatory framework supporting artificial intelligence, digital commerce and technology investment](https://dailynews.co.tz/govt-to-review-over-1000-laws-to-attract-tech/) under the 2050 development vision. No list of statutes, sequencing, responsible body, timetable or consultation route is stated — and the base still records no online-content or cybercrime regulation for the country, and no adopted artificial-intelligence strategy.
+<!-- /narrative -->
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 At a university health conference on 31 July the government stated [three requirements: that health data be stored inside Tanzania, that healthcare AI systems be approved by the relevant authorities, and that local capacity to build them be developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208). No instrument and no approving authority was named, and a dedicated regulator was called for from the floor rather than announced.
+
+The coordination that did get a name came from outside the state. A [multi-stakeholder body launched on 8 August to coordinate cybersecurity, data privacy, artificial-intelligence governance and payment security across government, industry and academia](https://www.linkedin.com/posts/sandbox-security_tanzaniadigitaltrustinitiative-digitaltrust-activity-7491819343543173121--VE7), founded by a security firm with a privacy professionals' association and a fintech association, and naming the data protection commission, the ICT commission and the private sector federation among its partners; the [same forum published a digital trust outlook report and inaugurated a cross-border corridor with the Gulf Cooperation Council for regulatory dialogue, secure payments and artificial-intelligence governance](https://www.linkedin.com/posts/tanzania-privacy-proffessional-association_tanzaniadigitaltrust-digitaltrustforum2026-activity-7492254924857204736-2sNm). No constitution, funding, membership list or statement of the named regulators' role in it is held.
 <!-- /narrative -->
 ### Data protection
 
