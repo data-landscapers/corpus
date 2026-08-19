@@ -102,10 +102,22 @@ def usd_millions(s):
         return v
     return v / 1e6                           # a bare number is DOLLARS, always
 
-def clean(s):                                # de-wikilink and de-pipe for a table cell
+def dewiki(s):
+    """`[[target|label]]` -> `label`, `[[target]]` -> `target`.
+
+    A CSV is not the wiki, and a reader who downloads one should not have to know
+    what the double brackets meant. Split out of `clean()` on 2026-08-19 (Bill,
+    who found `[[2025-03-06-microsoft-zaf-azure-…]]` rendered literally in a
+    description cell on the ZAF finance page) because `clean()` also turns `|`
+    into `/`, which is right for a one-line table cell and wrong for a paragraph
+    of prose. Five rows in 1,257 carry these; the records themselves are being
+    corrected upstream, and this stops the syntax reaching a reader meanwhile."""
     s = re.sub(r'\[\[[^\]|]*\|([^\]]+)\]\]', r'\1', s)
-    s = re.sub(r'\[\[([^\]]+)\]\]', r'\1', s)
-    return s.replace("|", "/").strip()
+    return re.sub(r'\[\[([^\]]+)\]\]', r'\1', s)
+
+
+def clean(s):                                # de-wikilink and de-pipe for a table cell
+    return dewiki(s).replace("|", "/").strip()
 
 def fy_display(fm):                          # never a blank cell / blank link text
     return fm_get(fm, "fiscal_year_label") or fm_get(fm, "fy_start")[:4] or "—"
@@ -270,7 +282,7 @@ def _ns_row(r, country, lab):
             fin_name(fm_get(fm, "financier_slug")), lab.get(sec, sec),
             T.get("Instrument", ""), (f"{usd:.0f}" if usd else ""), basis,
             amount_quality(r), T.get("Status", ""),
-            r["title"], section(r["body"], "Description"),
+            dewiki(r["title"]), dewiki(section(r["body"], "Description")),
             T.get("Beneficiary type", ""), recip_org(T), T.get("Original amount", ""),
             T.get("Project ID", ""), T.get("IATI activity ID", ""),
             r["url"], fm_get(fm, "financier_slug"), r["fn"][:-3]]

@@ -151,6 +151,21 @@
     return function () { clearTimeout(t); t = setTimeout(fn, ms); };
   }
 
+  /* `[[target|label]]` -> `label`, `[[target]]` -> `target`.
+
+     Wiki-link syntax is how the source records cross-reference each other, and it
+     has no business reaching a reader of a table *(Bill, 2026-08-19, having found
+     `[[2025-03-06-microsoft-zaf-azure-…]]` in a description cell)*. Applied on
+     display rather than only in the compile because the CSVs already published are
+     dated editions and are not rewritten; until the next compile the table will
+     therefore read slightly cleaner than the file it was drawn from, in five of
+     1,257 rows. Unconditional, and no attribute turns it on: there is no dataset
+     on either site for which showing the brackets is the wanted behaviour. */
+  function dewiki(s) {
+    if (s.indexOf('[[') === -1) return s;
+    return s.replace(/\[\[[^\]|]*\|([^\]]+)\]\]/g, '$1').replace(/\[\[([^\]]+)\]\]/g, '$1');
+  }
+
   /* A download link, styled as the site's button. Written as an anchor rather
      than a button with a click handler so that it survives with JavaScript
      disabled and can be copied, opened in a tab, or right-clicked like any link. */
@@ -360,7 +375,9 @@
         Object.keys(labels).forEach(function (c) {
           var i = findCol(headers, c); if (i > -1) labelFor[i] = labels[c];
         });
-        function display(ci, v) { return (labelFor[ci] && labelFor[ci][v]) || v; }
+        /* One place decides what a value looks like, so the cells, the filter
+           options, the sort keys and the search all agree about it. */
+        function display(ci, v) { return dewiki((labelFor[ci] && labelFor[ci][v]) || v); }
 
         /* Badges: a column whose values are a small closed set worth reading as a
            status rather than as text. The mapping is given, never inferred — the

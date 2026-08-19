@@ -94,6 +94,19 @@ async function suite(pageRel, opts) {
   }
   check('cells are wrapped for clamping', doc.querySelectorAll('.dt-body .dt-cell').length > 0);
 
+  /* Wiki-link syntax must not reach a reader. ZAF's data carries one; the CSV
+   * still holds it, because published editions are not rewritten, so this checks
+   * the render — that the brackets are gone and the text inside them survived. */
+  const raw = fs.readFileSync(
+    path.join(path.dirname(path.join(CORPUS, pageRel)), box.dataset.src), 'utf8');
+  const wiki = [...raw.matchAll(/\[\[([^\]|]*\|)?([^\]]+)\]\]/g)].map(m => m[2]);
+  const shownText = doc.querySelector('.dt-body tbody').textContent;
+  check(`no [[wiki link]] is rendered (${wiki.length} in the CSV)`,
+    !shownText.includes('[['), shownText.slice(shownText.indexOf('[['), shownText.indexOf('[[') + 60));
+  if (wiki.length) {
+    check('and the text inside them survived', shownText.includes(wiki[0]), wiki[0]);
+  }
+
   /* Widths — the thing v1 got wrong, so the thing to assert on hardest. */
   widths(doc, box);
   await expander(doc, box);
