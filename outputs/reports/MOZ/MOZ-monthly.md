@@ -3,9 +3,9 @@ title: Mozambique — monthly update, July 2026
 compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 place: MOZ
-ledger_rows: 61
+ledger_rows: 62
 not_held: 19
-record: ab76d0d9a30d
+record: 69f4e12a4f91
 ---
 
 # Mozambique: monthly update, July 2026
@@ -127,7 +127,9 @@ The Intellectual Property Policy and Strategy 2026-2035, approved by resolution 
 
 On 28 July the communications minister told the same banking and finance conference that current national infrastructure, data centres included, cannot support more advanced artificial-intelligence models ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
 
-The national strategy behind all of this is still in drafting, and its consultation now includes the market. On 12 August the ICT institute [consulted the largest mobile operator on the proposed strategy at the operator's Maputo premises](https://techreviewafrica.com/news/6792/mozambique-advances-national-ai-strategy-consultations-with-vodacom). No consultation record, respondent list or revised draft is published, and the strategy has not reached the Council of Ministers.
+The national strategy behind all of this is still in drafting, and its consultation now includes the market. On 12 August the ICT institute [consulted the largest mobile operator on the proposed strategy at the operator's Maputo premises](https://techreviewafrica.com/news/6792/mozambique-advances-national-ai-strategy-consultations-with-vodacom). The institute's fuller account puts the drafting under the communications ministry with UNESCO and other partners supporting, and gives the strategy [three areas: digital inclusion and access to automated public services, private-sector innovation and technology jobs, and ethical and governance frameworks for data security](https://techafricanews.com/2026/08/18/mozambique-presents-national-ai-strategy-proposal-to-vodacom/). No consultation record, respondent list or revised draft is published, and the strategy has not reached the Council of Ministers.
+
+A body to watch it is named but not made. At a cultural-economy dialogue in Maputo on 14 August the institute's board president [named a National Artificial Intelligence Observatory as expected to support transparency, build trust and measure the impact of AI deployment](https://techafricanews.com/2026/08/18/mozambique-explores-ais-role-in-driving-cultural-and-creative-economy/). It exists as a remark: no establishing instrument, host, membership, funding or method is on the record.
 <!-- /narrative -->
 ### US / hyperscaler activities
 

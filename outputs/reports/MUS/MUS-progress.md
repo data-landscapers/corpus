@@ -3,18 +3,18 @@ title: Mauritius — progress report, 2025-08-01 to 2026-08-19
 compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 place: MUS
-ledger_rows: 70
+ledger_rows: 71
 not_held: 9
-record: 08ade63b7069
+record: 709d42920522
 ---
 
 # Mauritius: progress report, 2025-08-01 to 2026-08-19
 
 *Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 70 systems and instruments on this place's ledger, 39 changed position between 2025-08-01 and 2026-08-19, 14 did not, 8 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 71 systems and instruments on this place's ledger, 40 changed position between 2025-08-01 and 2026-08-19, 14 did not, 8 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 67 sources for this place in the window — 13 in the earlier half (2025-09 to 2026-03), 54 in the later (2026-04 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 68 sources for this place in the window — 13 in the earlier half (2025-09 to 2026-03), 55 in the later (2026-04 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -122,6 +122,7 @@ Satellite is the row that stayed still: the [authorisation regime was in force a
 |---|---|---|---|
 | e-Gates, e-Visa and e-judiciary | Did not exist as funded commitments | [Funded in the budget alongside a healthcare innovation and artificial-intelligence unit; no procurement, vendor or delivery date published (2026-06)](https://lexpress.mu/node/559426) | Advanced |
 | National electronic licensing system for clinical trials | Did not exist | [Concurrent submission, review and processing of trial applications through a statutory electronic system, with the council and ethics committee empowered to meet virtually and an expedited pathway; the bill was introduced and not enacted (2026-07)](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Advanced |
+| Online motor vehicle licence and road tax system | Did not exist | [Live for taxi operators, who renew the licence and pay road tax online instead of at post offices and land transport authority counters, and which the ministry states will also build a database of operators; launched alongside a website for the operators' welfare fund, whose membership is 6,567 of 7,802 operators, with about 3,000 operators already on an electronic platform](https://techafricanews.com/2026/08/18/mauritius-launches-online-licensing-road-tax-system-for-taxi-operators/) | Advanced |
 
 <!-- narrative: dpi -->
 The foundational layers did not move, and the absence of movement is an absence of published figures rather than of activity. The [identity wallet](https://www.biometricupdate.com/202409/mauritius-launches-digital-id-wallet-with-thales-tech-for-govt-service-access) carried no user figure at the start of the period and carries none at the end; the [payment switch](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf) published no national volume at either end; the [interoperability framework](https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf) is still the 2002 one and the [health strategy still the 2015 one](https://health.govmu.org/health/wp-content/uploads/2023/03/eHealth-Strategy-Seamless-Continuity-of-Care-2015.pdf).

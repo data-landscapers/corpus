@@ -4,7 +4,7 @@ compiled: 2026-08-19
 place: LBR
 ledger_rows: 61
 not_held: 8
-record: 9085fbf9831d
+record: fae8b23ba72b
 ---
 
 # Liberia: status report
@@ -79,7 +79,7 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 |---|---|---|
 | Commercial motorcycle and tricycle rider registry | [Planned](https://www.thenewdawnliberia.com/motorcycle-union-digital-liberia-sign-deal-to-track-riders-combat-theft/) | Memorandum signed 2026-08-16 |
 | Executive Order 147 (mandatory biometric identity) | [Implemented](https://idtechwire.com/liberia-makes-biometric-id-cards-mandatory-for-citizens-and-residents) | Signed April 2025, making enrolment mandatory for citizens and 90-day residents |
-| National Biometric Identification System (NIR) | [In development](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/) | Procurement of the concessionaire completed; agreement before the President 2026-08-17 |
+| National Biometric Identification System (NIR) | [In development](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd) | Consultations concluded and the draft concession agreement sent to Parliament 2026-08-18 |
 | SIM registration linked to the national identity number | [Implemented](https://techpoint.africa/news/liberia-link-national-id-cards-deadline) | Deadline of 10 July 2025 set under the LTA-NIR memorandum of October 2024 |
 
 ### Digital Payments and Fintech

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-19
 place: MWI
 ledger_rows: 174
 not_held: 57
-record: 7b3deed5a721
+record: 9015f33cc552
 ---
 
 # Malawi: progress report, 2025-08-01 to 2026-08-19
@@ -14,7 +14,7 @@ record: 7b3deed5a721
 
 *Of 174 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-19, 31 did not, 26 carry no stated baseline, and 57 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 107 sources for this place in the window — 21 in the earlier half (2025-09 to 2026-02), 86 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 109 sources for this place in the window — 21 in the earlier half (2025-09 to 2026-02), 88 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -304,7 +304,7 @@ The sector's financing position also moved from nothing to a proposal: a four-ye
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Airtel Nzeru Connect school programme | Running as Malawi's part of a corporate foundation and UNICEF partnership begun in 2021; the base holds no Malawi-specific school count before 2025-08-01 | [36 schools connected with a further nine scheduled in 2026, ICT laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/) | Advanced |
-| Airtel Nzeru Fund STEM scholarships | Did not exist | [A corporate foundation funds 25 undergraduates from low-income households through information technology, computer science, software engineering, data science, artificial intelligence and cybersecurity degrees at the science and technology university, covering tuition, stipend, accommodation, data and a portable Wi-Fi device](https://malawi24.com/2026/01/07/airtel-bets-on-malawis-digital-future-with-new-stem-scholarships/) | Advanced |
+| Airtel Nzeru Fund STEM scholarships | Did not exist | [A corporate foundation funds 25 undergraduates from low-income households at the science and technology university, covering tuition, stipend, accommodation, data and a portable Wi-Fi device; the first 25 beneficiaries were named on 18 August 2026, drawn from 17 districts and taking eight programmes including computer systems, cyber security, sustainable energy engineering and metallurgy](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/) | Advanced |
 | Data Protection Authority operationalisation consultancy | Did not exist; the base carries no tender, appointment or design work for the authority's structure before 2025-08-01 | [A World Bank-financed consultancy tendered under the acceleration project to design the authority's organisational structure, governance framework, roles and competencies; no award, consultant or completion date is on file at 2026-08-06](https://ppda.mw/storage/documents/opentenders/ToRs%20OPERATIONALIZATION_OF_THE_DATA_PROTECTION_Act.pdf) | Advanced |
 | Digital skills trained under the foundations project | Over 19,000 young people, 10,000 of them female, trained in digital skills through 10 technology hubs over 2017 to 2024 | [Unchanged; no successor training count is published, and the acceleration project's own training indicators are not reported in the base](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | No change |
 | AI and Digital Solutions Lab | Not held | [A second edition run in Mzuzu training 24 entrepreneurs from Nkhotakota, Rumphi, Karonga and Mzuzu in artificial-intelligence and digital tools for marketing, customer engagement and financial management, under German development cooperation and European Union programmes on young businesses and rural employment](https://techafricanews.com/2026/08/17/giz-malawi-trains-24-entrepreneurs-in-ai-and-digital-skills-in-mzuzu/) | ***Baseline not held*** |

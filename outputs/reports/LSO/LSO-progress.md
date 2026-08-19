@@ -3,18 +3,18 @@ title: Lesotho — progress report, 2025-08-01 to 2026-08-19
 compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 place: LSO
-ledger_rows: 65
+ledger_rows: 66
 not_held: 2
-record: e91f0604b53c
+record: a4546f553be2
 ---
 
 # Lesotho: progress report, 2025-08-01 to 2026-08-19
 
 *Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 65 systems and instruments on this place's ledger, 30 changed position between 2025-08-01 and 2026-08-19, 15 did not, 18 carry no stated baseline, and 2 are ***Not held*** at both ends.*
+*Of 66 systems and instruments on this place's ledger, 31 changed position between 2025-08-01 and 2026-08-19, 15 did not, 18 carry no stated baseline, and 2 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 55 sources for this place in the window — 12 in the earlier half (2025-08 to 2026-02), 43 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 56 sources for this place in the window — 12 in the earlier half (2025-08 to 2026-02), 44 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -46,7 +46,7 @@ The one position that did not move and would have been expected to is data prote
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Project Kobong hydropower and AI data centre | Did not exist | [Approved, on a binding Memorandum of Agreement of 4 June 2026 covering at least 1,200MW of pumped storage and a green-powered AI data centre at Mokhotlong, conditional on feasibility, financing, permitting and definitive agreements, with construction targeted for 2029](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) | Advanced |
-| National data-centre implementation roadmap | Not held | [In drafting at a five-day, six-ministry workshop in Maseru from 17 to 21 August 2026, coordinated by the UN Office for Digital and Emerging Technologies with the UN Resident Coordinator's Office and the participation of UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP, covering data governance, skills, compute, energy, cooling, financing and implementation choices, and building on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB) | ***Baseline not held*** |
+| National data-centre implementation roadmap | Not held | [In drafting at a five-day, six-ministry workshop that opened in Maseru on 17 August 2026 and runs to 21 August, organised by the communications ministry with the United Nations in Lesotho and coordinated by the UN Office for Digital and Emerging Technologies, alongside a National AI Strategy drafted in the same room; it covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) | ***Baseline not held*** |
 
 ### Energy
 
@@ -165,6 +165,7 @@ The interoperability layer moved from a stated priority to two named systems —
 | Broadband Infrastructure Sharing Policy | Not signed | [Signed; no implementation instrument or regulator guidance on record](https://lestimes.com/?p=90715) | Advanced |
 | Data Management Policy | Not signed | [Signed, framed as a privacy, security and ethical-use framework](https://lestimes.com/?p=90715) | Advanced |
 | National AI Policy | Not signed | [Signed, covering responsible AI in health, education and public administration](https://lestimes.com/?p=90715) | Advanced |
+| National AI Strategy | Did not exist | [Being drafted at the same five-day Maseru workshop as the data-centre blueprint, organised by the communications ministry with the United Nations in Lesotho, and intended as the framework for deploying artificial intelligence; the deputy prime minister's keynote asked for capability assessment, safeguards, infrastructure, policy and human capacity to be settled before investment is scaled](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) | Advanced |
 | National Digital Policy 2024 | In force | [In force, unamended](https://www.policyvault.africa/wp-content/uploads/2025/09/LSO61.pdf) | No change |
 | National Digital Transformation Strategy: Agenda 2030 | In force | [In force, unamended](https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/) | No change |
 

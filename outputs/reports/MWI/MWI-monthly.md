@@ -3,9 +3,9 @@ title: Malawi — monthly update, July 2026
 compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 place: MWI
-ledger_rows: 49
+ledger_rows: 50
 not_held: 57
-record: 9491c131dbcf
+record: 8aa412f9be2a
 ---
 
 # Malawi: monthly update, July 2026
@@ -119,6 +119,8 @@ On 3 August the copyright society's blank media levy distribution was reported t
 
 <!-- narrative: governance--gov-protect -->
 The communications regulator consulted stakeholders at Blantyre on 13 July 2026 on draft Data Protection Regulations and a registration fee schedule setting annual fees by turnover from MWK 50,000 for small and medium enterprises to MWK 7 million for the largest controllers and processors of significant importance ([consultation account](https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/)). The consultation follows the elapse in early June of the twenty-four-month exemption that had kept most controllers outside the Act's obligations since commencement ([the Act](https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf)). No commencement date for the regulations was announced.
+
+The regulator's first published position on a specific harm followed on 18 August: a notice warning that [recording, publishing or sharing non-consensual intimate content breaches the Data Protection Act 2024, carrying fines to K20,000,000 and up to five years' imprisonment under section 49, with separate penalties under the Electronic Transactions and Cyber Security Act 2016](https://techafricanews.com/2026/08/19/malawi-regulator-warns-against-sharing-non-consensual-intimate-content/). It states the law rather than applying it: no case, complaint count or enforcement action accompanies it, and enforcement under the Act remains ***Not held***.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -141,7 +143,7 @@ The universal service fund is in operation and funded from the regulator's annua
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->
-An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the [continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/).
+An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the [continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). The same foundation's scholarship arm named its [first 25 beneficiaries on 18 August, drawn from 17 districts and taking eight programmes at the science and technology university, computer systems and cyber security among them](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/) — the places announced at the January launch, filled seven months later. No continuation beyond the one cohort is stated.
 <!-- /narrative -->
 
 ## Finance

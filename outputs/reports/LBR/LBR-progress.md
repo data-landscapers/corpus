@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-19
 place: LBR
 ledger_rows: 64
 not_held: 9
-record: 61548fc09923
+record: 6bf947bdad07
 ---
 
 # Liberia: progress report, 2025-08-01 to 2026-08-19
@@ -14,7 +14,7 @@ record: 61548fc09923
 
 *Of 64 systems and instruments on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-19, 10 did not, 11 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 81 sources for this place in the window — 23 in the earlier half (2025-08 to 2026-02), 58 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 82 sources for this place in the window — 23 in the earlier half (2025-08 to 2026-02), 59 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -70,7 +70,7 @@ Cybersecurity gained an investigation and no strategy. The House [ordered a prob
 
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
-| National Biometric Identification System (NIR) | Mandatory under Executive Order 147, issuance running amid a procurement dispute over a rejected restricted-bid award (2025-08) | [Public-private concession with an Austrian firm to finance enrolment of all about 5.3m people in 18 months, operate and transfer; the registry says procurement is now complete and the concession agreement is with the President ahead of legislative ratification, with selection and terms still unpublished. Mass enrolment has been suspended since 23 June 2025](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/) | Advanced, contested |
+| National Biometric Identification System (NIR) | Mandatory under Executive Order 147, issuance running amid a procurement dispute over a rejected restricted-bid award (2025-08) | [Public-private concession with an Austrian firm to finance enrolment of all about 5.3m people in 18 months, operate and transfer; consultations on the draft agreement have concluded and it has gone to Parliament for approval, with selection and terms unpublished until legislative approval completes. Coverage stands below 15% of a population above five million, officials say issuance will be free for poor first-time applicants, and mass enrolment has been suspended since 23 June 2025](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd) | Advanced, contested |
 | National identity enrolment | About 740,000 enrolled, under 15% of about 5.3m, at a US$5 card fee (2024-12) | [About 640,000 prior registrants locked out of the system and issuance halted; no updated enrolment figure published (2026-03)](https://fpa.news/liberia-national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/) | Regressed |
 | Executive Order 147 (mandatory biometric identity) | In force, making the identification number the primary credential for banking, health, education and telecoms (2025-08) | [In force and unamended, on a register whose issuance was halted for part of the period (2026-08)](https://idtechwire.com/liberia-makes-biometric-id-cards-mandatory-for-citizens-and-residents) | No change |
 | SIM registration linked to the national identity number | Deadline set and in force (2025-08) | [No compliance figure, enforcement action or revised deadline published since (2026-08)](https://techpoint.africa/news/liberia-link-national-id-cards-deadline) | No change |

@@ -2,14 +2,14 @@
 title: Lesotho — digital transformation and data governance status report
 compiled: 2026-08-19
 place: LSO
-ledger_rows: 61
+ledger_rows: 62
 not_held: 0
-record: 618ae99c40fa
+record: 788ae1df5ed4
 ---
 
 # Lesotho: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (61 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (62 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -42,7 +42,7 @@ An interim national CSIRT [began operating on 29 July 2026](https://www.gov.ls/i
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| National data-centre implementation roadmap | [In development](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB) | Drafting workshop held 17-21 August 2026 in Maseru |
+| National data-centre implementation roadmap | [In development](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) | Drafting workshop opened in Maseru 2026-08-17 |
 | Project Kobong hydropower and AI data centre | [Planned](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) | Approved and launched at a ceremony hosted by the US Embassy, 2026-07-31 |
 
 ### Technical Capacity
@@ -161,6 +161,7 @@ Sub-national government has one system on record: Maseru City Council's [Constru
 | Broadband Infrastructure Sharing Policy | [Implemented](https://lestimes.com/?p=90715) | Signed by the MICSTI minister, 2026-06-12 |
 | Data Management Policy | [Implemented](https://lestimes.com/?p=90715) | Signed by the MICSTI minister, 2026-06-12 |
 | National AI Policy | [Implemented](https://lestimes.com/?p=90715) | Signed by the MICSTI minister, 2026-06-12 |
+| National AI Strategy | [In development](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) | Drafting workshop opened in Maseru 2026-08-17 |
 | National Digital Policy 2024 | [Implemented](https://www.policyvault.africa/wp-content/uploads/2025/09/LSO61.pdf) | Issued in 2024 |
 | National Digital Transformation Strategy: Agenda 2030 | [Implemented](https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/) | Launched in 2024 |
 

@@ -3,9 +3,9 @@ title: Mauritius — monthly update, July 2026
 compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 place: MUS
-ledger_rows: 31
+ledger_rows: 32
 not_held: 9
-record: 35ce780cb837
+record: d2c7af74d3fd
 ---
 
 # Mauritius: monthly update, July 2026
@@ -61,6 +61,8 @@ On cross-border payments the state operator [announced a Mauritius-Seychelles co
 
 <!-- narrative: dpi--dpi-govtech -->
 The same omnibus also gives clinical trials a statutory electronic licensing system, with the procedure written into the same Act as the channel.
+
+A smaller service went live rather than being provided for. On 18 August the transport and IT ministries [launched an online motor vehicle licence system letting taxi operators renew the licence and pay road tax without visiting a post office or a land transport counter](https://techafricanews.com/2026/08/18/mauritius-launches-online-licensing-road-tax-system-for-taxi-operators/), which the ministry says will also build a database of operators, alongside a website for the operators' welfare fund — 6,567 registered members of 7,802 operators, with about 3,000 already on an electronic platform. The authority's underlying system is stated as outdated and a tender has been launched to upgrade it; no transaction volume, cost or extension beyond taxi operators is published.
 <!-- /narrative -->
 
 ## Governance and regulation

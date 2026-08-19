@@ -3,9 +3,9 @@ title: Lesotho — monthly update, July 2026
 compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 place: LSO
-ledger_rows: 19
+ledger_rows: 20
 not_held: 2
-record: 8fb28db5948f
+record: 02821b23ddf3
 ---
 
 # Lesotho: monthly update, July 2026
@@ -27,7 +27,7 @@ On the payments side, [Tsetela](https://lestimes.com/?p=91054) opened wallet-bas
 <!-- narrative: infrastructure--infra-store -->
 The Kobong Project was approved and launched on 31 July 2026 at a ceremony hosted by the US Embassy in Maseru, attended by the ministers of energy and mining, of information and communications, and of environment and forestry. [Convalt Energy's chief executive stated capital investment of about US$6.2 billion](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/); the government figure for the project was restated as M100 billion against the M98 billion [announced with the binding agreement of 4 June](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/), with the dollar figure unchanged. The US Chargé d'Affaires described the investment as trade over aid. Construction remains targeted for 2029 and the agreement remains conditional on feasibility, financing, permitting and definitive agreements.
 
-Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025.
+Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025. The workshop [opened on 17 August with the deputy prime minister's keynote, drafting a National AI Strategy alongside the blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -63,6 +63,11 @@ At the CSIRT launch the ministry also stated a plan to move ICT services out of 
 
 <!-- narrative: governance--gov-legislate -->
 No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the wiki does not hold.
+<!-- /narrative -->
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The month's policy work is a strategy being drafted rather than one adopted. A [National AI Strategy is being written at the same five-day Maseru workshop as the data-centre blueprint, opened on 17 August by the communications ministry with the United Nations in Lesotho](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/), and is distinct from the National AI Policy signed in June. The deputy prime minister's keynote asked for Lesotho's existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated, and nothing beyond the workshop is on the record.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
