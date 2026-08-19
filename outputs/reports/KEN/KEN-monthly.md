@@ -3,9 +3,9 @@ title: Kenya — monthly update, July 2026
 compiled: 2026-08-19
 period: 2026-07-01 to 2026-08-19
 place: KEN
-ledger_rows: 110
+ledger_rows: 112
 not_held: 6
-record: 34d9b3923963
+record: 63c1928152b5
 ---
 
 # Kenya: monthly update, July 2026
@@ -36,7 +36,7 @@ The largest procurement in the window is a surveillance build sold as traffic ma
 <!-- narrative: infrastructure--infra-store -->
 On 4 August the operator building the 44MW Tatu City data centre [moved completion to July 2027](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) from a first-quarter 2027 date.
 
-Two prospective builds were talked about rather than begun. The technopolis authority and a hyperscaler are [exploring a local cloud outpost and a startup and technical centre of excellence](https://techmoran.com/2026/08/13/konza-aws-explore-local-cloud-outpost-and-startup-center-in-kenya/), aimed at data residency and low-latency hybrid cloud; and the ICT principal secretary [received a Chinese network communications group on broadband, smart cities and digital infrastructure investment](https://techafricanews.com/2026/08/13/kenya-eyes-chinese-investment-in-broadband-smart-cities-and-digital-infrastructure/). Neither produced a memorandum, a value or a date.
+Two prospective builds at the technopolis went from talk to signature inside five days. On 13 August the authority and a hyperscaler were [exploring a local cloud outpost and a startup and technical centre of excellence](https://techmoran.com/2026/08/13/konza-aws-explore-local-cloud-outpost-and-startup-center-in-kenya/) and the ICT principal secretary [received a Chinese network communications group on broadband, smart cities and digital infrastructure investment](https://techafricanews.com/2026/08/13/kenya-eyes-chinese-investment-in-broadband-smart-cities-and-digital-infrastructure/); by 18 August the authority had [signed a collaboration agreement putting the hyperscaler's technical leadership behind an Outpost for hybrid cloud and a startup and innovation centre of excellence](https://itweb.africa/article/aws-konza-team-up-on-hybrid-cloud-infrastructure/dgp45vaBlRg7X9l8), with certification courses for its staff and for young Kenyans and credits for startups, and [a memorandum with the Chinese group covering the planning, investment, financing, design, development and maintenance of cloud, artificial intelligence, high-performance computing and smart-city infrastructure on the site](https://techafricanews.com/2026/08/18/konza-technopolis-partners-guodong-network-to-accelerate-digital-infrastructure-development/). Neither instrument carries a capacity, a site, an investment figure or a date, and the second states its financing models as still to be explored.
 <!-- /narrative -->
 ### Energy
 
@@ -158,6 +158,8 @@ The e-commerce cooperation memorandum with China was [cited as the basis for dis
 The KenSafeSpace digital-rights coalition [closed on 28 July](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) after 30 months on a EUR 1.3m grant, reporting 18,000 people reached directly and 133 defenders trained, with its 49 members continuing unfunded; a successor programme opened the same day training 150 justice-sector officials on digital evidence.
 
 The larger withdrawal is American. An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
+
+Domestic provision was restated in the same fortnight. The regulator's Universal Service Fund [put a target of 120,000 people across 19 counties over three years on its Digital Skilling Project](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/), aimed at unserved and underserved areas and framed as the skills half of a connectivity programme. It is a target stated at a stakeholders' workshop: no budget line, delivery partner, county list or start date accompanies it, and the fund's own FY2025/26 account is still unpublished.
 <!-- /narrative -->
 ### Access to services
 

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-19
 place: GHA
 ledger_rows: 147
 not_held: 9
-record: 8dfae94e177a
+record: 323db08fe601
 ---
 
 # Ghana: progress report, 2025-08-01 to 2026-08-19
@@ -14,7 +14,7 @@ record: 8dfae94e177a
 
 *Of 147 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-19, 24 did not, 46 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 305 sources for this place in the window — 57 in the earlier half (2025-08 to 2026-01), 248 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 310 sources for this place in the window — 57 in the earlier half (2025-08 to 2026-01), 253 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -77,7 +77,7 @@ Over the twelve months Ghana went from a jurisdiction with a data-protection law
 | Commercial AI-driven security operations centre | Operating from May 2025 as a commercial AI-driven security and digital-forensics centre | [Unchanged; no client count, throughput or incident figure published since launch](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-launches-africas-largest-ai-driven-security-centre.amp.html) | No change |
 | Cybersecurity Act 2020 | In force as the cybersecurity statute, text not held | [Unchanged; the text is now held - it establishes the Cyber Security Authority and a Cybersecurity Fund, provides for designation, registration and compliance audit of critical information infrastructure, and licenses cybersecurity service providers](https://csa.gov.gh/resources/cybersecurity_Act_2020%28Act_1038%29.pdf) | No change |
 | National computer emergency response team | Operating as a unit of the cyber-security authority | [Unchanged; a 24-hour incident-response service with a constituency of eight sectoral response teams and the general public, affiliated to the Budapest Convention](https://csa.gov.gh/cert-gh-rfc) | No change |
-| Cybersecurity Act licensing enforcement | Baseline not held | [The Cyber Security Authority fined the Office of the Registrar of Companies and a service provider a combined GH¢360,000 for breaches of the Cybersecurity Act 2020 licensing requirements — GH¢240,000 against the Registrar in two penalties of GH¢120,000 for engaging an unlicensed cybersecurity service provider, and GH¢120,000 against the provider for operating without a licence](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html) | ***Baseline not held*** |
+| Cybersecurity Act licensing enforcement | Baseline not held | [Three published administrative penalties totalling GH¢720,000 for licensing breaches under the Cybersecurity Act 2020 — GH¢240,000 against the Office of the Registrar of Companies in two penalties for engaging an unlicensed provider, GH¢120,000 against that provider, and GH¢360,000 against a Big Four firm's Ghana practice in three penalties of GH¢120,000 for continuing to serve critical information infrastructure owners unlicensed after three directives, with a cease-and-desist covering governance, risk and compliance work](https://techafricanews.com/2026/08/18/ghana-cyber-security-authority-fines-ey-ghana-gh360000-for-unlicensed-services/) | ***Baseline not held*** |
 | Financial Industry Security Operations Centre | ***Baseline not held*** | [Expansion to all financial institutions including fintechs and microfinance announced in March 2026; four months later a digital-economy forum still lists complete onboarding as a recommendation](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) | ***Baseline not held*** |
 | Joint Cyber Security Committee | ***Baseline not held*** | [Eighteen institutions, chaired by the cyber-security authority](https://drive.google.com/file/d/1Lp9IUxpd5YPh2tUyN3JefO1kvFvlREzl/preview) | ***Baseline not held*** |
 
