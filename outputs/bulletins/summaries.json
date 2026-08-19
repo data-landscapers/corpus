@@ -53,5 +53,215 @@
     "published": "2026-08-17",
     "written": "2026-08-17",
     "summary": "An analysis argues that emerging markets and the Global South face the same dependency in artificial intelligence that the dollar imposed in 1971 — running on models whose price, availability and rules are set in Washington or Beijing. Its evidence is the price gap between open-weight Chinese models and American frontier ones, and a June episode in which the United States temporarily blocked foreign nationals' access to a newly launched American model. Its prescription is hedging: regional compute alliances and South-South coordination rather than a single alignment."
+  },
+  "2026-08-18-absa-digital-push-540-million": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A large South African bank put technology spending at R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment following a R2.4bn write-down in 2025 and a cost-to-income ratio still rising. It is a group figure across a 17-country, 13.4-million-customer footprint, so it bounds the cost of digital migration at one institution rather than for the sector."
+  },
+  "2026-08-18-african-ceos-ai-investment-cisco": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A vendor's second annual survey of 2,500 chief executives reports 67% of African respondents fearing their business is under-investing in artificial intelligence, up from 57% a year earlier, with 93% more optimistic about its potential than in 2025 and infrastructure limits named by 48% as the barrier to scaling. It measures stated sentiment among the vendor's survey sample, not investment."
+  },
+  "2026-08-18-afriex-gib-cross-border-payments": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A cross-border payments platform signed a sponsor and settlement banking partnership effective from the second quarter of 2026, extending a banking network that already runs through banks in Kenya and Nigeria and supporting settlement and dollar-account access across more than 35 countries for its business payments interface. No volume, value or fee figure is stated."
+  },
+  "2026-08-18-afrilabs-annual-meeting-benin": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "The pan-African innovation-hub network AfriLabs will hold its eleventh annual gathering in Cotonou on 18 to 20 November 2026, the first edition hosted in a Francophone country, drawing on a membership the network puts above 500 hubs."
+  },
+  "2026-08-18-airtel-malawi-tech-scholarships": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "An operator's foundation named the first 25 beneficiaries of its Malawi technology scholarship, drawn from 17 districts and taking eight programmes at the science and technology university, computer systems and cyber security among them. The places were announced at the January launch and are filled seven months later; no continuation beyond the one cohort is stated."
+  },
+  "2026-08-18-airtel-starlink-satellite-mobile-drc": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A mobile operator and a satellite constellation took a satellite-to-mobile service commercially live in the Democratic Republic of Congo, which the two companies call the first commercial deployment of the service in Africa: a compatible handset and a clear view of the sky, with no additional equipment. It sits inside a December 2025 agreement to reach all fourteen of the operator's markets by the end of 2026; eligible customers get a free 30-day trial on registration, and no standing tariff or coverage map is published."
+  },
+  "2026-08-18-aws-konza-hybrid-cloud": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Kenya's Konza Technopolis authority signed a collaboration agreement with a hyperscaler putting its technical leadership behind an Outpost at the technopolis for hybrid cloud, and establishing a startup and innovation centre of excellence, with certification courses for authority staff and young Kenyans and credits for startups. Five days earlier the same arrangement was on the record as exploratory; the signed version still carries no capacity, site, investment figure or delivery date."
+  },
+  "2026-08-18-beac-systac-2-cemac-payments-techafricanews": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "The Bank of Central African States took a replacement retail payments platform live across CEMAC on 3 August 2026, moving transfers, direct debits, cheques and card payments onto an ISO 20022 message standard with added anti-money-laundering, know-your-customer, regulatory reporting and dispute-resolution capability. It lands ahead of a new regional real-time gross settlement system; no transaction volume, participant count or cost is published."
+  },
+  "2026-08-18-cisco-hanley-digital-skills-northern-cape": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A networking vendor's academy and a private group agreed with South Africa's Northern Cape education department to take networking, cyber security and artificial-intelligence courses into 235 schools, as extracurricular classes for grades 10 to 12 from February 2027. No learner target, cost, funding split or certification pathway is published, and the vendor's claim of more than 600,000 South Africans already trained is its own figure."
+  },
+  "2026-08-18-commonwealth-startup-fellowship-launch": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Applications opened for a six-month Commonwealth Startup Fellowship run by Imperial College London for twenty young companies from eligible Commonwealth countries, several of them African, pairing an intensive training session in Accra with online mentoring and a pitch to international investors in London. The cohort shares an equity-free fund of GBP 35,000, about US$47,000, and applications close on 1 September."
+  },
+  "2026-08-18-commonwealth-startup-fellowship-techtrends": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "The Commonwealth Scholarship Commission and Imperial College London opened applications for a fully funded startup fellowship pairing a two-week Accra bootcamp with a London investor capstone, with equity-free grants of up to GBP 2,000 per venture for revenue-generating Commonwealth companies. Applications close on 1 September 2026."
+  },
+  "2026-08-18-exits-mena-avanz-capital-egypt-acquisition": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A regional private-capital firm acquired an Egyptian private-equity manager, rebranding it as it assembles an integrated private-equity and asset-management platform aimed at the country's small and medium enterprise finance market, with initial regulatory approval secured. No consideration is disclosed."
+  },
+  "2026-08-18-gates-foundation-ai-family-planning-grant": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A private foundation opened a call for proposals using artificial intelligence to widen access to digital contraception information across sub-Saharan Africa, offering up to US$500,000 a project, with applications closing on 25 August 2026. No envelope total, grant count or decision date is published, so the per-project ceiling is the only figure the call can be bounded by."
+  },
+  "2026-08-18-ghana-csa-fines-ey-ghana": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Ghana's Cyber Security Authority fined a Big Four firm's Ghana practice GH¢360,000, three penalties of GH¢120,000, for continuing to provide regulated cybersecurity services without a licence, including to owners of critical information infrastructure, after three directives to comply. It ordered the firm to cease and desist, governance, risk and compliance work included, and stated that reputation and clientele are no exemption and that it will name unlicensed providers publicly. It is the second published enforcement action under the Act in six days."
+  },
+  "2026-08-18-jem-workforce-fintech-84m-series-a": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A Cape Town workforce-management company running over WhatsApp raised US$8.4m in a Series A led by a fintech investor, to add time and attendance, rostering, onboarding, employee assistance and credit scoring. It reports more than 250,000 employees across more than 200 companies, revenue growth above 120% over the year and net revenue retention of 124%; the figures are the company's own."
+  },
+  "2026-08-18-konza-technopolis-guodong-network-mou": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Kenya's Konza Technopolis authority signed a memorandum with a Chinese network communications group covering the planning, investment, financing, design, development and maintenance of cloud, artificial-intelligence, high-performance-computing and smart-city infrastructure at the technopolis, plus knowledge transfer and local capacity building. It is a framework: no project, capacity, site, investment figure or date is stated, and the financing models are themselves stated as still to be explored."
+  },
+  "2026-08-18-kuda-rebrand-more-life": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A Nigerian digital bank set out its largest brand change since launching in 2019, replacing a standalone letter mark with a full wordmark and positioning itself beyond fee-free transfers toward a wider financial-services offering. The reporting sets it against competitors that have also moved past payments into licensed banking; no customer, revenue or licensing figure accompanies the change."
+  },
+  "2026-08-18-lesotho-national-ai-strategy-data-centre": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Lesotho's communications ministry opened a five-day workshop in Maseru on 17 August, run with the United Nations in Lesotho, to draft a National AI Strategy and a data-centre blueprint. The deputy prime minister's keynote asked for existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated for either document."
+  },
+  "2026-08-18-liberia-ppp-digital-id-osd": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Consultations on Liberia's draft concession agreement with the Austrian state printing house have concluded and the agreement has gone to Parliament for approval, the next step toward restarting nationwide biometric enrolment. National identity coverage stands below 15% of a population above five million and mass enrolment has been suspended since June 2025; the registry says it will disclose the terms only once ratification is complete, and officials say issuance will be free for poor first-time applicants."
+  },
+  "2026-08-18-mauritius-online-licensing-road-tax-taxis": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Mauritius opened an online motor vehicle licence system letting taxi operators renew the licence and pay road tax without visiting a post office or a land transport counter, which the ministry says will also build a database of operators. It was opened alongside a website for the operators' welfare fund, whose membership is 6,567 of 7,802 operators, with about 3,000 already on an electronic platform; the authority's underlying system is stated as outdated, with a tender launched to upgrade it."
+  },
+  "2026-08-18-mozambique-ai-cultural-creative-economy": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "At a national cultural dialogue in Maputo on 14 August, the ICT institute's board president set out artificial intelligence in the creative economy as a question of ethical governance, algorithmic transparency and intellectual property, aligned to the proposed national AI strategy. He also named a National Artificial Intelligence Observatory as expected to support transparency and measure the impact of AI deployment; it exists as a remark, with no establishing instrument, host, membership or funding on the record."
+  },
+  "2026-08-18-mozambique-national-ai-strategy-vodacom-techafricanews": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Mozambique's ICT institute set out the proposed national artificial-intelligence strategy to the largest mobile operator on 12 August, in a consultation the institute says is running alongside public hearings and sectoral harmonisation. It puts the drafting under the communications ministry with UNESCO and other partners supporting, and gives the strategy three areas: digital inclusion and access to automated public services, private-sector innovation and technology jobs, and ethical and governance frameworks for data security. No consultation record, respondent list or revised draft is published, and the strategy has not reached the Council of Ministers."
+  },
+  "2026-08-18-mukuru-card-botswana": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A remittance operator issued a card on its Botswana wallet through a commercial bank and an international scheme, adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only. No customer count, issuance volume or fee schedule is stated."
+  },
+  "2026-08-18-ncc-enugu-digital-industrial-park-lease": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Nigeria's communications regulator leased its Enugu digital industrial park and learning centre to the state government for fifteen years, to be run as a talent city and artificial-intelligence institute for skills training, startup incubation, outsourcing and research. It is a federal facility handed to a state rather than a new build; no lease consideration, capacity, occupancy or opening date is published."
+  },
+  "2026-08-18-nigeria-centralised-gateway-portal-services-gov-ng": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Nigeria's communications ministry opened services.gov.ng as a single point of access to federal services previously spread across agency websites and offices, covering business registration, trade permits, identity verification, regulatory licensing and government empowerment programmes, and presented partly as a defence against fraudulent look-alike sites. No service count, transaction volume, cost or build attribution is published, and nothing states how it relates to the single sign-on government service portal soft-launched three weeks earlier."
+  },
+  "2026-08-18-nigeria-national-digital-cloud-policy": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Nigeria's new National Digital Cloud Policy makes cloud the default for new federal systems, with time-bound exemptions assessed by the IT development agency against published criteria and kept in a register, and pools ministry demand through the government infrastructure company into framework agreements bought on a national digital marketplace. It sorts government and regulated data into four levels, from national-security data hosted only in Nigeria to public data with no residency rule, and imposes no general localisation on commercial data; a regulator must apply for a category to be designated sovereign. It supersedes the 2019 cloud policy, whose Cloud First principle the new text says was applied unevenly for want of a coordinating framework."
+  },
+  "2026-08-18-orange-sierra-leone-scam-alert-tool": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A mobile operator in Sierra Leone opened a channel for customers to report suspected fraud against its mobile-money service, reached on a *505# short code, an online form or a call to 111. It is the operator's own channel: no report volume, response time, remedy or referral route to the regulator or the police is published, in a market where the regulator has been running consumer warnings since July and no prosecution under the Cyber Security and Crime Act 2021 is on record."
+  },
+  "2026-08-18-quona-capital-jem-2026-jem-series-a-workforce-platform": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A fintech investor led a US$8.4m Series A for a South African workforce-management platform that runs over WhatsApp for frontline and deskless workers, with a university fund, a second fund and angel investors participating. The round is recorded as closed equity."
+  },
+  "2026-08-18-remote-work-african-professional-techtrends": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A trade commentary weighs what remote work has done for professionals in Nigeria, Kenya and South Africa, citing compensation data putting a mid-level Nigerian cloud engineer at eight to ten times local pay on a foreign contract, and Kenyan international rates at US$35 to US$60 an hour against a few hundred shillings domestically. Its argument is that the same wage gap that reverses the talent flow also concentrates leverage with the foreign employer. It is argument over compiled third-party rate data, not a survey."
+  },
+  "2026-08-18-safaricom-ethiopia-16-4g-sites-southern-ethiopia": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Ethiopia's second mobile operator switched on 16 fibre-backed 4G sites in the south of the country, around Sawla, Selam Ber, Basketo, Beto and Leha, and reports more than 80 local jobs created. No coverage, capital cost or subscriber figure accompanies the announcement."
+  },
+  "2026-08-18-sars-vat-modernisation-consultation": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "South Africa's revenue service released a VAT modernisation consultation paper proposing a digital VAT model of electronic invoicing, an interoperability framework and electronic reporting, meant to move VAT administration off manual processes and retrospective verification and into the systems businesses already run. It follows a 2023 discussion paper and is stated as building blocks: the account carries no closing date for comment, implementation timetable, cost or legislative vehicle."
+  },
+  "2026-08-18-startup-abuja-nga-2026-student-aid-programme": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A private Nigerian accelerator opened applications for a student aid programme of 50 million naira, about US$37,000, covering tuition support, a monthly stipend and paid remote internships for higher-education students. No place count, selection criterion or disbursement schedule is published."
+  },
+  "2026-08-18-startup-abuja-student-fund": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Applications opened for a 50-million-naira student aid programme run by a private Nigerian accelerator, offering tuition support, a monthly stipend and paid remote internships alongside entrepreneurship training. Applications close on 31 August 2026."
+  },
+  "2026-08-18-trident-digital-tech-dig-ai-venture": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "Trident Digital Tech Holdings and the American firm Digital Innovations Group signed a 50/50 joint venture to take an AI engine to small and medium firms across Asia, the Middle East and Africa, building on Trident's existing Ghana Revenue Authority digital tax platform venture. No investment figure, headcount, first market or launch date is stated."
+  },
+  "2026-08-18-wekraft-staphord-nkumbuye-edtech-rwanda": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A Rwandan education-technology company founded in 2022 builds hands-on learning kits and a digital platform pairing children with career mentorship, workplace immersions and progress tracking for schools and families. The profile carries no learner, school or revenue figure."
+  },
+  "2026-08-18-zendawa-wilfred-chege-pharmacy-kenya": {
+    "published": "2026-08-18",
+    "written": "2026-08-19",
+    "summary": "A Kenyan health-technology platform founded in 2022 connects patients to pharmacies for ordering and delivery and remote consultation booking, and gives pharmacies inventory and finance management. It uses pharmacy activity data to help partner lenders assess credit for those pharmacies. The profile carries no user, pharmacy or lending figure."
+  },
+  "2026-08-19-kenya-120000-digital-skills-training": {
+    "published": "2026-08-19",
+    "written": "2026-08-19",
+    "summary": "Kenya's Communications Authority set a target of 120,000 people across 19 counties over three years for digital skills training, delivered through the Universal Service Fund's Digital Skilling Project in unserved and underserved areas and tied to the national digital master plan. No budget line, delivery partner, county list or start date accompanies the target, and the fund's own FY2025/26 account is unpublished."
+  },
+  "2026-08-19-kenya-siboh-virtual-home-digital-learning": {
+    "published": "2026-08-19",
+    "written": "2026-08-19",
+    "summary": "Kenya's ICT principal secretary opened a private academy's virtual learning platform in Uasin Gishu County, citing alongside it a government rollout of digital learning devices and smartboards to more than 10,000 public junior secondary schools. The school figure is given in a speech and rests on no published outturn."
+  },
+  "2026-08-19-macra-malawi-non-consensual-intimate-content": {
+    "published": "2026-08-19",
+    "written": "2026-08-19",
+    "summary": "Malawi's communications regulator, which holds the data-protection mandate, issued a notice warning that recording, publishing or sharing non-consensual intimate content breaches the Data Protection Act 2024, carrying fines to K20,000,000 and up to five years' imprisonment under section 49, with separate penalties under the electronic transactions and cyber security Act of 2016. It states the law rather than applying it: no case, complaint count or enforcement action accompanies it."
+  },
+  "2026-08-19-mtn-uganda-webphone-webex": {
+    "published": "2026-08-19",
+    "written": "2026-08-19",
+    "summary": "MTN Uganda opened a service pairing its telephony with a collaboration platform, letting customers use their Ugandan number while abroad. No price, availability date or subscriber target is stated."
+  },
+  "2026-08-19-nitda-nahcon-digitise-hajj-operations": {
+    "published": "2026-08-19",
+    "written": "2026-08-19",
+    "summary": "Nigeria's IT development agency and the Hajj commission agreed to digitise pilgrimage operations end to end, covering registration, payment verification, flight-manifest management, logistics and real-time pilgrim tracking. The commission disclosed that its own ICT function runs on two developers. The agreement carries no scope document, budget, timetable or procurement."
+  },
+  "2026-08-19-telecom-egypt-6ghz-spectrum-trial": {
+    "published": "2026-08-19",
+    "written": "2026-08-19",
+    "summary": "The incumbent operator, the telecommunications regulator and a Chinese vendor ran a mobile base station and a data call over upper 6 GHz spectrum, reported at about 1.7 Gbps per user and stated by the operator as the first such trial in Egypt and in Africa. It is a trial: no allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own."
   }
 }
