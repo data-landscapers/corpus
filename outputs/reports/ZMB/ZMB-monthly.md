@@ -1,16 +1,16 @@
 ---
 title: Zambia — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: ZMB
-ledger_rows: 56
+ledger_rows: 60
 not_held: 54
-record: 1fd2ddcf5d84
+record: 8cb4c1e5e7d4
 ---
 
 # Zambia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -45,6 +45,8 @@ The regulator reported on 4 August that it had deactivated 43,500 SIM cards link
 
 <!-- narrative: dpi--dpi-exchange -->
 The government service bus, the central integration layer, onboarded eight of 116 local authorities from June 2026 and now carries more than 400 government services with over K8.8 billion collected cumulatively across the service bus, payment gateway, national portal and payment platform ([collection figures](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/); [Accountant General's office](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
+
+A register of a different kind opened alongside it. Zambia [launched a fully digital National Carbon Registry on 7 August](https://unepccc.org/zambia-launches-national-carbon-registry/), embedded in the national measurement, reporting and verification system and interoperable with Article 6 of the Paris Agreement, developed under a donor programme with a UN climate centre, a consulting group and a green growth institute. No public access, transaction count, custodian ministry or disclosure rule for its holdings is stated — which for a registry whose purpose is to make carbon claims checkable is the question it exists to answer.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -55,6 +57,8 @@ Nothing published in the window moves the identity position. The most recent enr
 
 <!-- narrative: dpi--dpi-pay -->
 On 27 July a vendor manager stated on the record that the National Financial Switch's intended reduction in customer transaction costs has not happened yet, that the central bank is only now focusing on it, and that the electronic clearing house is not yet live on the regional instant-payment scheme ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)).
+
+Retail participation in the securities market is the one digital adoption figure the month produced: registered users of the exchange's mobile trading application [rose to 51,791 in July from 49,611 in June](https://itweb.africa/article/digital-push-powers-zambian-bourse/lLn14MmQzolMJ6Aa). It is the exchange's own count of registered users, not of active traders or funded accounts.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -108,6 +112,8 @@ A [Zambian was elected Secretary-General of the African Telecommunications Union
 
 <!-- narrative: governance--gov-protect -->
 The data-protection regulator exists and travels; nothing in the base shows it acting. It joined a multi-sectoral delegation to the continental identity conference, and on 31 July [nine civil society organisations asked it to examine the source of the contact list behind SMS messages sent to social cash transfer beneficiaries](https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/) before the 13 August election. No response from the Office is on the record. No registration count, enforcement decision, fine, breach notification, guidance note or annual report is held for it at any date. The Data Protection Act 2021 remains in force and was [named by the information ministry on 18 July as one of three instruments regulating online communications, cybersecurity and personal data](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/); the reported Cabinet intention to repeal it has produced nothing on the record in sixteen months.
+
+What is being built for it is a system rather than a case. The World Bank-financed acceleration project [opened tender on 10 August, closing 21 August, for a digital data-protection compliance management system to serve the Commission](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498), to integrate with the government service bus and payment gateway and to meet ISO/IEC 27001, ISO/IEC 27701 and WCAG 2.1 AA, alongside a [parallel tender to review the national data-protection guidelines and compliance frameworks](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461500). Tenders rather than awards, and neither states a value, a delivery date, or the caseload the system would manage.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -115,6 +121,8 @@ The data-protection regulator exists and travels; nothing in the base shows it a
 The same Postal and Courier Services Bill consultation — the only open public call for written comment on a Zambian instrument the wiki holds for the whole window — closed three days after the call for written submissions was reported, with no submission count, published response or consultation report held.
 
 On 1 August the Human Rights Commission disclosed that its case review meeting had considered 105 alleged violations linked to the election period, of which 62 were resolved administratively.
+
+The election itself, on 13 August, produced the fullest external account of the country's digital systems the base holds. Observer missions recorded a [hybrid digital and manual voter-registration system with an online pre-registration portal, logging 8,786,300 registered voters, up 25% since 2021](https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf). A domestic coalition [found election-day process largely transparent but flagged an online-only accreditation system that blocked 11 accredited monitors, and the electoral commission's refusal to share the voters register](https://www.zambiamonitor.com/churches-group-rates-conduct-of-august-general-elections/). The European mission found online free expression unduly curtailed under the 2025 Cyber Security Act amid arrests for speech offences, and a regional media institute [recorded a journalist detained for two weeks under the Cyber Crimes Act and judged the access-to-information law and decriminalised defamation paper victories undermined by the two 2025 statutes](https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/). These are preliminary statements; no final report, government response or commission account of the accreditation and register decisions is held.
 <!-- /narrative -->
 ### Open data
 

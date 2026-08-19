@@ -1,16 +1,16 @@
 ---
 title: Uganda — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: UGA
-ledger_rows: 53
+ledger_rows: 58
 not_held: 16
-record: a5e9015fb137
+record: 7014db07ed63
 ---
 
 # Uganda: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -57,11 +57,17 @@ Two accounts in August put the threat above the response. A continental police a
 
 <!-- narrative: dpi--dpi-id -->
 The identity authority put its own constraint on the record on 7 August: it is [operating at 70% of its approved workforce, with 25 districts served by a single member of staff and two board seats vacant](https://allafrica.com/stories/202608070683.html). The figures were given to the internal affairs minister alongside a request for a permanent headquarters and additional wage funding.
+
+Four days later the Auditor General's account of the same authority reached the press, and it puts a size on the consequence. As at late October 2025 [17 million citizens were still awaiting national identity cards, only 0.2% of first-time applicants had been cleared for printing, the staff vacancy rate stood at 26% and identity renewal faced a UGX256.8bn funding shortfall](https://redpepper.co.ug/id-nightmare-ugandans-curse-nira-over-r-nile-like-long-queues-confusing-collection-points-rejected-new-ids/150319/) — reported amid cross-district queue chaos over collection of new cards. The figures are ten months old at publication, and the authority publishes no current backlog series against which to test them.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 Three payment arrangements were opened in the month, all private. A [licensed local-currency-in, stablecoin-out settlement corridor across four East African markets including Uganda](https://techafricanews.com/2026/07/16/scrypt-expands-stablecoin-settlement-network-across-four-east-african-markets/) opened on 16 July with no volume or counterparty figure published. On 21 July [motor third-party insurance went on sale over a mobile-money channel](https://techafricanews.com/2026/07/22/airtel-money-uganda-and-britam-partner-to-expand-digital-insurance-and-financial-services/) with a digital sticker issued online, framed by the insurance regulator as narrowing the protection gap; no premium, policy count or target was published. On 24 July a bank and a payments company [signed a memorandum on school-fees saving with payment-history-based financing, agent-network healthcare payments and digitised insurance](https://www.newvision.co.ug/category/business/centenary-micropay-partner-to-expand-digital-NV_237612_072026). The signature date is unestablished, and nothing is on file about consent, retention or the legal basis for the credit-scoring layer.
+
+A fourth opened a settlement route rather than a product: a commercial bank [integrated China's cross-border interbank payment system to offer direct yuan settlement to Ugandan businesses](https://ntv.co.ug/news/uganda-china-tradenew-banking-system-opens-direct-yuan-payments), against imports from China of US$3.3bn in 2025 and exports of US$118m. One bank's service, with no volume, fee or central-bank position stated.
+
+The scale underneath all of it is in the regulator's quarterly report: [2.55 billion mobile money transactions in the second quarter of 2026, up from 2.37 billion in the first, on 59.5 million registered subscriptions, with telecommunications revenue at UGX 1.73 trillion](https://www.pulse.ug/story/uganda-mobile-money-transactions-q2-2026081410364799573).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -128,6 +134,8 @@ A [technical-assistance tender was published on 31 July, estimated at EUR 938,17
 
 <!-- narrative: ai-tech--tech-ai -->
 On 30 July an external policy outlook [recorded Uganda as still developing an artificial-intelligence strategy](https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/) alongside a readiness assessment, sixteen months after the strategy was described as being in its final stages. On 2 August the minister of ICT told the Editors Guild annual general meeting in Jinja that the ministry is [developing a policy to regulate artificial intelligence and social media](https://nilepost.co.ug/news/360765/editors-raise-alarm-over-ai-misuse-journalist-identity-data-protection-gaps); no scope, drafting stage, responsible body, consultation route or timetable was given. Editors at the same meeting raised data-protection exposure from digitised newsroom operations.
+
+A profession got there before the state did. The medical and dental practitioners council [directed medical and dental training schools to integrate artificial intelligence into their curricula, with compliance assessed at future biennial institutional inspections](https://www.newvision.co.ug/category/health/medical-schools-asked-to-integrate-ai-into-tr-NV_238701_082026). No curriculum standard, syllabus, teaching-capacity assessment or funding is attached to the directive, and it lands in a country whose own strategy is still unwritten.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -155,6 +163,8 @@ Money went the other way as well. An implementing partner's account of 12 August
 At a readiness inspection on 27 July, [six of nineteen planned one-stop service centres were recorded as operational](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations), with three pilots funded through the Uganda Digital Acceleration Project and centre throughput made contingent on the fifth phase of the national backbone.
 
 An [ICT hub for persons with disabilities was commissioned in Kasese](https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills), reported on 1 August, offering computer literacy, vocational skills and digital-empowerment programmes and open to the wider community. No commitment value was published, so the base carries no finance record for it.
+
+The commercial route to a connected device is credit. Buy-now-pay-later schemes run by five providers [put smartphones in the hands of more than 500,000 Ugandans in a year, against about 22% of Ugandans using mobile internet despite 96% network coverage, with financed devices costing 30 to 50% more than the cash price](https://pctechmag.com/2026/08/can-device-financing-solve-the-problem-of-smartphone-penetration/). It is a trade analysis rather than a regulator series, and no default, repossession or total-cost-of-credit figure is published for the schemes.
 <!-- /narrative -->
 ### Training and skills
 
@@ -168,4 +178,9 @@ The state ICT institute reports [48,448 people trained in the financial year: 36
 
 <!-- narrative: finance--finance-new -->
 The digital acceleration project is [named as funder of the Tororo, Mbarara and Gulu service-centre pilots and as the affordable-connectivity vehicle](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations). No disbursement figure is held for it.
+<!-- /narrative -->
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+The month's one cross-border approach is exploratory. A ministerial delegation [visited the Ethiopian incumbent operator's headquarters in Addis Ababa on 13 August to explore cooperation on telecommunications infrastructure, digital payments, skills training and technology transfer](https://www.ecofinagency.com/news-digital/1308-48043-uganda-explores-digital-partnership-with-ethiopia-s-ethio-telecom), in support of the national vision and the 2023-2027 digital roadmap. No agreement was signed and no scope, value or timetable is stated.
 <!-- /narrative -->

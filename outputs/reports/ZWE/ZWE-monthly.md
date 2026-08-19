@@ -1,16 +1,16 @@
 ---
 title: Zimbabwe — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: ZWE
-ledger_rows: 68
+ledger_rows: 77
 not_held: 9
-record: 829acd308f18
+record: 081e594e52a2
 ---
 
 # Zimbabwe: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -62,6 +62,8 @@ The online border management system Zimbabwe has been rolling out in phases sinc
 
 <!-- narrative: dpi--dpi-id -->
 A deputy registrar general told a meeting of African registrars general on 24 July that electronic passport enrolment centres operate in ten districts, eight provincial centres and one abroad, with seven-day issuance away from the capital ([meeting account](https://www.zbcnews.co.zw/african-registrars-look-to-replicate-zimbabwes-e-passport-success/)).
+
+The registration end of the same estate is being rebuilt with donor money. [Ten civil registry sub-offices across eight districts are being computerised, digitalised and solar-powered under a China-funded project with UNICEF](https://newziana.co.zw/unicef-government-move-to-digitise-birth-registration-services/), to widen birth-registration access in underserved communities through mobile registration and outreach alongside existing water, sanitation and nutrition platforms. No value, timetable, district list or birth-registration baseline is stated, so there is nothing to measure the effect against.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -86,11 +88,15 @@ The national electronic medical record reached [1,254 of a planned 1,900 health 
 
 <!-- narrative: dpi--dpi-govtech -->
 An implementing partner reported on 28 July that it had been building artificial-intelligence competency among research, committee and budget-office staff in Zimbabwe's Parliament, and that staff were using public tools on personal judgment, with limited monitoring of data flows into those platforms and no consistent approach to identifying fabricated output ([partner account](https://www.idinsight.org/article/ensuring-responsible-ai-adoption-in-african-parliaments/)).
+
+The same capacity gap shows in the state's own books. The Auditor-General found that [only 26 local authorities submitted their 2024 financial statements on time, while the revenue authority pushes businesses onto its fiscalisation data management system](https://zimbabwenow.co.zw/articles/23672/zimra-pushes-digital-tax-compliance-as-councils-remain-trapped-in-paperwork) — a reporting failure inside government that the revenue drive does not address. The denominator of local authorities is not given in the record held, so the share filing on time cannot be stated.
 <!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: dpi--digital-rural -->
 The ICT minister told the National Assembly on 17 July that the universal services fund currently covers satellite-kit subscriptions only for digital centres and schools, and only for one year ([National Assembly account](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription)).
+
+Schools are where the terminals have gone. The education minister told the Senate that [11,500 satellite terminals have been distributed to schools — 8,000 to those with no wireless network and 3,500 to those already connected — with more than 1,300 institutions still to reach and a target of internet connectivity, solar power and national-grid access at every school by December 2026](https://www.263chat.com/govt-targets-internet-solar-power-for-every-school-by-year-end/), alongside a cabinet commitment of 3% of GDP to research and innovation. The counts and the target are the minister's own; no school total, verification of installed and working terminals, or recurrent connectivity cost is stated — and the same fund that bought them pays a subscription for one year only.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
@@ -121,11 +127,17 @@ The ICT ministry committed on 29 July to an artificial-intelligence ethics frame
 
 <!-- narrative: governance--gov-regional -->
 A Rwandan immigration delegation toured two border posts on 29 July under a 2024 bilateral memorandum ([visit account](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/)).
+
+Harare then hosted the regional attempt to write common rules for the thing all these systems run on. Southern African regulators, data-protection authorities and artificial-intelligence task forces [met for a three-day workshop to harmonise national data-governance rules](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), anchored to the African Union data policy framework, a continental data governance blueprint, the regional data strategy and a UNESCO toolkit, with the convening body noting that only 1% of data-centre capacity sits within Africa. No outcome document, commitment or timetable from it is held.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 Certification of every data protection officer is required under the same 26 July notice, at US$1,250 for a Zimbabwean ([notice account](https://www.techzim.co.zw/2026/07/potraz-starts-data-protection-inspections-on-1-september-here-is-what-it-means-for-you/)).
+
+August brought the objections. Healthcare providers and the medical association [objected to the data-controller licensing regime as applied to them — roughly US$300 a year plus a mandatory data protection officer — calling it costly and duplicative of existing health-professions regulation](https://www.newsday.co.zw/thestandard/news/article/200059372/doctors-decry-exhorbitant-new-data-levies) ahead of the September inspections, and a published analysis [argued the regulator's threshold-based licensing model is disproportionately burdensome for small entities](https://www.techzim.co.zw/2026/08/why-our-data-protection-regulations-need-review/) against the risk-based approach of the European regulation it is compared with. The statutory instrument's fee schedule is not held, and no licence count, exemption or regulator response to the objections is on record.
+
+Two further protection questions surfaced without a regulator attached. The anti-corruption commission is [investigating cyber-enabled fraud across three state digital systems](https://technomag.co.zw/zacc-probes-cyber-fraud-in-vid-licences-netone-airtime-and-zimra-systems/): suspected manipulation of the driver-licensing platform, a US$150m diversion of state mobile-operator airtime with a criminal case pending and asset forfeiture completed, and a scheme crediting more than ZiG55m and US$260,000 of fictitious prepayments on the revenue authority's customs platform. And the National Child Online Protection Policy 2026-2030, [approved by Cabinet in June, has no reporting route, responder training or funded rollout on record](https://www.newsday.co.zw/opinion-analysis/article/200059225/protecting-zimbabwes-children-online-will-take-more-than-a-policy) — which is what a published analysis argues will decide whether it protects anyone.
 <!-- /narrative -->
 ### Open data
 
@@ -166,6 +178,8 @@ The 2025 household survey puts [household internet access at 75.5% and mobile ha
 The health minister told the National Assembly on 17 July that more than 400 health facilities had received satellite kits with 300 more to be added, but that subscriptions had not been paid because the fees were too high ([National Assembly account](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription)).
 
 At a payments conference on 24 July a research firm reported that 95% of transport payments remain cash, that 56% of respondents found digital systems complicated with people with disabilities particularly affected ([conference account](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/)).
+
+A media institute's August review sets the country's headline connectivity figure against what it costs. It records [internet penetration at 84.55% on the regulator's fourth-quarter 2025 data, many households spending more than 10% of income to be online against the United Nations' 2% benchmark, and only 62% of the population with reliable electricity](https://zimbabwe.misa.org/2026/08/16/internet-affordability-and-access-in-zimbabwe/), and asks whether the 2026-2030 artificial-intelligence strategy can be delivered on those foundations. The penetration figure counts active subscriptions rather than individual users, which is the gap the affordability finding sits in.
 <!-- /narrative -->
 ### Training and skills
 
@@ -181,6 +195,8 @@ The ICT minister told a small-business meeting on 17 July that a digital skills 
 The ICT minister also committed on 29 July to ring-fencing a share of the universal services fund for public-good artificial-intelligence projects, stating no amount ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
 
 Two external commitments arrived in August, and only one of them has a number attached to Zimbabwe. A United Nations contract award of 10 August [puts US$5,947,948 into the supply of ICT equipment to the country](https://www.ungm.org/Public/ContractAward/158535) — an exact figure against a purpose stated as nothing more than ICT equipment, with neither the receiving government body nor the awarded vendor named. The United Kingdom separately [opened expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m to March 2030](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), naming Zimbabwe and Zambia as its first year's focus with South Africa the primary one. No Zimbabwean allocation is stated and no delivery consortium has been chosen.
+
+A third is a conversation. The President met a delegation from an emirate government and a technology company at State House on 8 August to [explore a digitisation partnership for aviation and border security](https://positiveeyenews.co.zw/2026/08/08/zimbabwe-fujairah-explore-digital-security-partnership-to-modernise-border-systems/), aimed at modernising immigration and border-management systems. Talks only, and no instrument, value, scope or data-protection provision is stated for systems that would process traveller data.
 <!-- /narrative -->
 ### MoUs and other agreements
 
