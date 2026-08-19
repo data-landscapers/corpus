@@ -1,16 +1,16 @@
 ---
 title: Rwanda — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: RWA
-ledger_rows: 42
+ledger_rows: 44
 not_held: 9
-record: 9fd2a7deae1f
+record: 8f160fa182d9
 ---
 
 # Rwanda: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -83,6 +83,8 @@ A [national satellite data programme launched with a commercial imagery provider
 The ministry's legacy-network retirement plan, announced on 28 July, extends beyond the switch-off dates themselves: extensions to the working timetable are temporary and regulator-approved only, and a government-commissioned study found more than two million people could still be on the older network in 2030 without a planned transition — the study is unpublished, so its method and definitions are unestablished. The ministry also published capability check codes and an institutional audit checklist covering messaging services, payment terminals, utility meters and vehicle trackers.
 
 A development agency published on 6 July, from engagements run to March 2026, that Rwandan participants reported [no dedicated national organisation conducts artificial-intelligence risk assessments, evaluations or active monitoring of errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally) — while the technology is embedded in payments, judiciary filing, identity verification and service delivery — and that resolving an authentication error can take days or weeks. The report is qualitative and claims no representativeness.
+
+The agency meant to hold that ground acquired its first stated function since cabinet approved it in June. Answering early-stage artificial-intelligence firms pressing publicly for infrastructure and funding, the ICT ministry [said on 17 August that the National AI Agency would coordinate shared compute and data-centre capacity for start-ups and researchers](https://allafrica.com/stories/202608170713.html). No establishing law, compute capacity, access rule or budget is attached to it, and the base still records no sovereign compute of any kind.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -140,4 +142,12 @@ Formal financial access was reported at [96% of adults in 2024 against 48% in 20
 The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
 
 Where training did continue it went to the top of the system rather than the bottom. The United Nations development programme's quarterly account of 1 August records [artificial-intelligence trust-and-safety training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf). Participant numbers, curriculum and cost are not stated, and the funder's own newsletter is the only account of it held.
+<!-- /narrative -->
+
+## Finance
+
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+The month's one agreement is in capital markets. On 7 August the Capital Markets Authority [signed a memorandum with a Nigerian registrar company](https://radiotv10.rw/en/cma-rwanda-partners-with-nigerias-africa-prudential-to-advance-capital-markets-development/) to cooperate on registrar services, securities administration, investor identification, data management and digital capital-markets systems. It follows a study visit in June to that company's digital investor-services model — virtual shareholder meetings, electronic voting and mobile-based investment tracking. No term, value or workplan is published, and nothing in the account addresses the protection of the investor data the cooperation is about.
 <!-- /narrative -->

@@ -1,16 +1,16 @@
 ---
 title: Congo — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: COG
-ledger_rows: 31
+ledger_rows: 35
 not_held: 12
-record: 8c25fb3489dd
+record: aeff0fd0d203
 ---
 
 # Congo: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -33,6 +33,8 @@ Two positions describe the same weakness from either end. The country has [relie
 
 <!-- narrative: infrastructure--infra-store -->
 The published roadmap names [sovereign hosting and connectivity at the two highest tiers](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) among its infrastructure programmes; neither exists, with no standing-up instrument, host body, budget or date.
+
+The national data centre remains a thing asserted rather than reported. On 10 August the state operator [showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196), alongside nationwide fibre connectivity for citizens, businesses and state bodies. It is the fullest description of the operator's estate the base holds, and it is still a ministerial visit rather than an inauguration report: no capacity, certification or utilisation figure is given for any of the three sites, and nothing reconciles it with the [works reported suspended at 95% completion in late 2025](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001).
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -46,6 +48,8 @@ It [launched an open international tender on 23 July for a 24-month mission to d
 
 <!-- narrative: dpi--dpi-exchange -->
 Regionally, an [interoperable QR-code standard launched at Douala on 29 July](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), letting any application scan any merchant code across the six member states; no country-specific adoption figure is held. The same roadmap names an [inter-administration data exchange platform among three digital public infrastructure foundations](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
+
+One exchange did go into use, in the narrow place where the state examines itself. The national transparency commission [opened the second round of its public-finance transparency-code evaluation entirely online, covering budget years 2023 to 2025](https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/), with focal-point training completed in Brazzaville on 15 July with UNDP support. No supplier, custodian or results publication date is stated, and the platform is not publicly accessible on the record held.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -62,6 +66,11 @@ On 3 August the [public-revenue platform went live on the national payments swit
 <!-- narrative: dpi--dpi-registry -->
 The minister recorded on 10 July that the [regulator has run the postal addressing project for two years and the ministry has not taken it up for deployment](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823), his own framing being that without the handover the work has not had the expected impact.
 <!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: dpi--dpi-mis -->
+Health acquired equipment rather than a system. On 7 August the Global Fund and UNDP [handed over e-health equipment, a P2-level biosafety laboratory and a secure biomedical-waste management system at the Edith Lucie Bongo Ondimba hospital at Oyo](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/), for early disease detection, patient data management and health-service coordination. It is a single site; no value, system name, national rollout or interoperability with any other health system is stated, and it sits beside a civil-service payroll platform whose own operator has minuted three failure modes.
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -71,6 +80,11 @@ Compulsory electronic invoicing took effect on 1 July for [every economic agent 
 
 <!-- narrative: dpi--data-statistics -->
 One statistical build opened: the [quarterly labour-market and informal-sector survey entered its preparatory phase](https://www.adiac-congo.com/content/statistiques-des-donnees-regulieres-pour-mieux-mesurer-le-marche-du-travail-170792), with four series of indicators a year planned — a first for the country — and no fieldwork date, sample or budget stated.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: dpi--data-satellite -->
+The national mapping institute began putting its own holdings into a usable form. On 11 August it [signed a framework partnership with a local non-governmental organisation to digitise, secure and disseminate its geospatial and cartographic data](https://www.adiac-congo.com/content/transformation-numerique-lign-et-long-pratic-unissent-leurs-expertises-171185), building a shared platform for public, institutional and research access. It is a framework agreement rather than a delivered platform: no term, funding, licence or access rule is stated, and nothing says what is currently held or in what form.
 <!-- /narrative -->
 
 ## Governance and regulation

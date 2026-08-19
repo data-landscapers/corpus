@@ -1,16 +1,16 @@
 ---
 title: Somalia — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: SOM
-ledger_rows: 13
+ledger_rows: 17
 not_held: 10
-record: 8220073c0309
+record: 1e3ce8871916
 ---
 
 # Somalia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -20,6 +20,11 @@ The Central Bank published, for the first time, the sequence by which banks and 
 
 ## Infrastructure
 
+### Data Storage
+
+<!-- narrative: infrastructure--infra-store -->
+The national data centre went backwards in the telling. A facility described at a ministerial inspection in May 2025 as nearing completion was, on 7 August 2026, [described by the state minister for communications as planned](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure), to strengthen digital infrastructure — said at the launch of an artificial-intelligence product by a private centre. Nothing in the record reconciles the two accounts, and the ministry's stated rationale, ending reliance on data storage outside the country, remains its own statement that government data sits offshore.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
@@ -28,6 +33,11 @@ The National Communications Authority [launched a National Cybersecurity Risk Ma
 
 ## Digital public infrastructure
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+The Auditor-General put a number on how far the state's own systems are from talking to each other. The 2025 annual audit finds [seven government revenue and financial-management systems not integrated with the state financial management information system](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/), and records 66 legal-compliance breaches across 22 audited bodies covering 60.1% of the national budget, including US$18.5m of contracts awarded without following committee procedures. It also finds that a [port and airport revenue-share operator's reporting of US$38.08m, of a combined US$42.24m, could not be verified](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/). The audit report itself is not held, the seven systems are not named, and no remediation plan or timetable is reported against any of it.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -68,6 +78,8 @@ The communications minister restated on 22 July the request that Meta [delay the
 
 <!-- narrative: ai-tech--tech-ai -->
 The Somali National University [launched an AI centre on 20 July](https://techafricanews.com/2026/07/20/somali-national-university-launches-ai-centre-to-advance-research-and-digital-innovation/) for research and digital skills. No funding, staffing or research programme is stated, and the country still holds no national artificial intelligence policy of any kind.
+
+August added a product and an assessment. A private artificial-intelligence centre [launched Garad.ai on 7 August alongside the communications and technology ministry](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure); the record describes the launch rather than the product, and states no capability, language coverage, user base or hosting arrangement for it. Separately a national AI readiness assessment is under way, [led by the same ministry with UNESCO and joined by a private university on 17 August](https://techreviewafrica.com/news/6784/somalia-boosts-national-ai-readiness-assessment-with-support-from-academia), examining artificial-intelligence policy, data governance and higher-education capacity. No methodology, participant list, score or publication date is stated — so the assessment is, for now, the closest thing the country has to a policy position on the subject.
 <!-- /narrative -->
 ### Innovation ecosystem
 

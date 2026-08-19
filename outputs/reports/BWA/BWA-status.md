@@ -1,15 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: BWA
-ledger_rows: 90
+ledger_rows: 91
 not_held: 11
-record: 34b6b970ad52
+record: 04423b577e00
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (90 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (91 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -32,7 +32,7 @@ The budget is the clearest part. Digital development lines were cut for FY2026/2
 | BoFiNet internet gateway upgrade | [Implemented](https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news) | P100m spent; the Gaborone exchange point relocated |
 | BoFiNet Local Access Projects 2025/26 | [Implemented](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/) | Completed, reported 2026-08-14 |
 | BTC rural satellite connectivity programme | [Implemented](https://itweb.africa/article/btcs-new-reach-extends-to-61-villages-in-botswana/rxP3jqBEWB4MA2ye) | 61 villages connected, 105 further areas in progress |
-| MTC Namibia and BoFiNet cross-border fibre memorandum | [Planned](https://techafricanews.com/2026/02/18/mtc-namibia-and-bofinet-sign-mou-to-strengthen-cross-border-connectivity/) | Memorandum signed in Gaborone |
+| MTC Namibia and BoFiNet cross-border fibre memorandum | [Implemented](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) | Gobabis-Buitepos fibre completed and interconnected with BoFiNet at Charles Hill |
 | Powertel-Paratus fibre corridor | [Implemented, phase 1 only](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V) | Plumtree-Bulawayo section live and carrying traffic |
 | Village Connectivity Project | [Implemented](https://itweb.africa/article/botswana-taps-huawei-for-ai-rural-connectivity/GxwQDq1DOk9MlPVo) | Stated ongoing at an industry congress, May 2026 |
 
@@ -101,6 +101,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 | Citizen Wallet | [Planned](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/) | Presented to a rural development council, 2025-09-17 |
 | Instant cross-border payment corridor into Botswana | [Implemented](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) | Corridor went live 2026-03-02 |
 | National payment switch | [Planned](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) | Named inside a P486m ICT allocation sought under the twelfth development plan |
+| Taxi cashless payment and financing partnership | [Implemented](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators) | Unveiled in Gaborone 2026-08-09 |
 
 ### Registries (population, land, address, etc.)
 
@@ -178,7 +179,7 @@ Service delivery is counted in services rather than in use. The government platf
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Botswana-Namibia ICT memorandum of understanding | [Planned, signature announced not confirmed](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/) | Signature announced for 2026-08-06 at Kasane |
+| Botswana-Namibia ICT memorandum of understanding | [Implemented](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) | Signed at Kasane 2026-08-07 |
 | SADC One Network Area roaming | [Implemented](https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/) | Extended to five further SADC states, announced 2026-03-13 |
 | SADC regional internet exchange host bid | [In development](https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk) | Shortlisted to the final two with a Zimbabwean company |
 

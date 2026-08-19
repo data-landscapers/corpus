@@ -1,15 +1,15 @@
 ---
 title: Congo — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-19
 place: COG
-ledger_rows: 81
+ledger_rows: 84
 not_held: 8
-record: 96eef41df07b
+record: bce27dd8521c
 ---
 
 # Congo: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/COG/ledger.csv` (81 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/COG/ledger.csv` (84 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -40,7 +40,7 @@ The money is legible and the delivery is not: the sector vote is [FCFA 30,139,58
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| National data centre | [Implemented, asserted in passing only](https://www.adiac-congo.com/content/intelligence-artificielle-le-congo-pose-les-jalons-dune-regulation-168692) | The minister cited the data centre's inauguration as accomplished at digital-regulation conferences |
+| National data centre | [Implemented, asserted in passing only](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196) | Security operations centre across three sites shown at a ministerial visit 2026-08-10 |
 | Regional data centre feasibility study | [Planned](https://www.adiac-congo.com/content/partenariat-le-ceo-et-long-pratic-saccordent-pour-la-souverainete-numerique-170295) | A centre of excellence and a non-governmental body signed a protocol opening a feasibility study |
 | Sovereign data-centre programme | [Planned](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | A ministerial adviser published a roadmap naming national data centres as one of nine structuring programmes |
 
@@ -86,6 +86,7 @@ Hosting is asserted rather than evidenced. The national data centre was [reporte
 | AfCFTA customs digitalisation concession | [Implemented](https://www.adiac-congo.com/content/zlecaf-la-digitalisation-des-procedures-douanieres-confiee-au-nigerian-bergmans-171160) | A 20-year, US$3.1bn concession signed at Abuja with Nigerian firm Bergmans Security Consultants and Supplies, via its subsidiary AfriTrade CMP, to digitalise customs procedures across 50 African countries |
 | CEMAC interoperable QR-code standard | [Implemented](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | The community standard launched at Douala under an April 2026 regulation |
 | Inter-administration data exchange platform | [Planned](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | Named as one of three digital public infrastructure foundations in the published roadmap |
+| Transparency-code evaluation reporting platform | [Implemented](https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/) | Second evaluation round opened fully digitised, focal-point training completed 2026-07-15 |
 
 ### Digital Identity and CRVS
 
@@ -116,6 +117,7 @@ Hosting is asserted rather than evidenced. The national data centre was [reporte
 |---|---|---|
 | Civil-service payroll platform | [Implemented, three failure modes minuted by its operator](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326) | A finance-ministry working session logged data security, recurrent unavailability and a malfunctioning payslip code |
 | Forest-revenue information system taxation module | [Implemented](https://www.finances.gouv.cg/fr/articles/le-congo-lance-le-module-fiscalit%C3%A9-du-sivl-pour-renforcer-la-tra%C3%A7abilit%C3%A9-et-la-transparence) | The module launched, the first of the system's three functions to deploy |
+| Oyo hospital e-health and laboratory equipment | [Implemented](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/) | Handed over at Oyo 2026-08-07 |
 | Public-transport insurance data platform | [Implemented, adoption voluntary](https://www.finances.gouv.cg/fr/articles/lancement-de-la-plateforme-num%C3%A9rique-sigas-tpv) | The platform launched in Brazzaville under the financial-institutions directorate |
 
 ### Other GovTech and e-Gov
@@ -144,6 +146,7 @@ Hosting is asserted rather than evidenced. The national data centre was [reporte
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Low-orbit satellite broadband regulation | [In development](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) | A regulator delegation completed low-orbit regulatory training in France and met a satellite operator |
+| National mapping institute geospatial data digitisation | [In development](https://www.adiac-congo.com/content/transformation-numerique-lign-et-long-pratic-unissent-leurs-expertises-171185) | Framework partnership signed 2026-08-11 |
 
 <!-- narrative: dpi -->
 The [public-revenue platform went live on 3 August 2026 on the national payments switch](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), reconciled in real time and routed to the treasury, with all taxpayers targeted by end-2026. The treasury single account intended to centralise those receipts was [still being finalised](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) on the day the platform launched. Certified invoicing runs alongside it under [four orders fixing a four-stage homologation, ten-year invoice retention and real-time tax-directorate data access](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf).

@@ -1,20 +1,20 @@
 ---
-title: Congo — progress report, 2025-08-01 to 2026-08-14
-compiled: 2026-08-14
-period: 2025-08-01 to 2026-08-14
+title: Congo — progress report, 2025-08-01 to 2026-08-19
+compiled: 2026-08-19
+period: 2025-08-01 to 2026-08-19
 place: COG
-ledger_rows: 98
+ledger_rows: 101
 not_held: 12
-record: 4b454dcf0e05
+record: af499569b740
 ---
 
-# Congo: progress report, 2025-08-01 to 2026-08-14
+# Congo: progress report, 2025-08-01 to 2026-08-19
 
-*Compiled 2026-08-14 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 98 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-14, 8 did not, 10 carry no stated baseline, and 12 are ***Not held*** at both ends.*
+*Of 101 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-19, 8 did not, 13 carry no stated baseline, and 12 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 96 sources for this place in the window — 35 in the earlier half (2025-08 to 2026-01), 61 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 102 sources for this place in the window — 35 in the earlier half (2025-08 to 2026-01), 67 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ The clearest regression is in statistics: balance-of-payments data collection fe
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Alternative submarine cable connection | Nothing held on the country's submarine position at the window's start | [Reliance on one cable since 2012 established, a switch announced as three weeks away, and one alternative cable delayed](https://www.connectingafrica.com/connectivity/congo-wants-to-connect-to-new-cable-amidst-wacs-failures) | Advanced, no completion on file |
 | Digital transformation acceleration project | A 2025 work plan of just over FCFA 21bn, described by the national coordinator as carrying over 2024 activities begun and not closed | [A 2026 budget of FCFA 21,872,000,000 on three axes — rural connectivity, a multimedia centre and interior-ministry applications — inside a consolidated envelope of EUR 136.5m across a World Bank loan, an EU grant and a European bank loan, to a 2027 horizon](https://www.journaldebrazza.com/congo-plus-de-21-milliards-fcfa-pour-accelerer-la-transformation-numerique/) | Advanced |
@@ -45,27 +45,27 @@ The clearest regression is in statistics: balance-of-payments data collection fe
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
-| National data centre | Works reported suspended at 95% completion over the state's unpaid counterpart tranche | [Described as inaugurated three months later; no inauguration report, opening date, capacity or operator is held, and nothing on the facility since January 2026](https://www.adiac-congo.com/content/intelligence-artificielle-le-congo-pose-les-jalons-dune-regulation-168692) | Advanced, on a single unreported reference |
+| National data centre | Works reported suspended at 95% completion over the state's unpaid counterpart tranche | [Asserted in operation by the state operator, which showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres on 10 August 2026, alongside nationwide fibre connectivity for citizens, businesses and state bodies](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196) | Advanced, on a single unreported reference |
 | Regional data centre feasibility study | Did not exist | [A feasibility study on a regional data centre attached to a gas plant, framed as an energy and digital nexus; experts assessed the site's energy potential](https://www.adiac-congo.com/content/partenariat-le-ceo-et-long-pratic-saccordent-pour-la-souverainete-numerique-170295) | Advanced |
 | Sovereign data-centre programme | No published national data-centre programme distinct from the regional backbone build | [Sovereign hosting and connectivity infrastructure at the two highest tiers, under a five-ambition roadmap delivered by an interministerial task force](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | Advanced |
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Co-regulation accord on shared fibre and pylon infrastructure | The accord announced as imminent, with measures on cable bundling, shorter drops, undergrounding and clean-up schedules adopted | [Unchanged: no signature, text or implementation is held sixteen months on](https://www.adiac-congo.com/content/deploiement-de-la-fibre-optique-vers-une-urbanisation-maitrisee-des-reseaux-163787) | No change |
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Regulator satellite regulatory capacity | Did not exist | [Three-day training on constellations, transmission security, spectrum management and regulatory adaptability, and a strategic meeting on low-orbit and high-altitude platform regulation](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Audit-provider qualification standard | Did not exist | [A consolidated draft setting qualification conditions for bodies authorised to audit information systems nationally: technical competence, independence, integrity, confidentiality and professionalism](https://fr.linkedin.com/posts/anssi-cg_il-sest-tenu-ce-mardi-28-juillet-2026-au-activity-7487929626313486337-A1oT) | Advanced |
 | National cybersecurity strategy | No national cybersecurity strategy held or in preparation | [The tender open with bids due 2026-09-02, scope covering an ecosystem diagnostic, a strategic roadmap, public and private skills development and a standing forum, financed by a European bank through the transformation project](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | Advanced |
@@ -87,22 +87,23 @@ Cybersecurity capability moved on paper only: a strategy neither held nor in pre
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | AfCFTA customs digitalisation concession | Did not exist | [A continental concession signed to harmonise border formalities and enable real-time cargo tracking across 50 African countries, following an earlier-August memorandum at Lagos; the country-by-country rollout schedule and the concessionaire's payment terms are not published, and no Congo-specific participation date or engagement is stated](https://www.adiac-congo.com/content/zlecaf-la-digitalisation-des-procedures-douanieres-confiee-au-nigerian-bergmans-171160) | Advanced |
 | CEMAC interoperable QR-code standard | Did not exist | [Live across the six member states, letting any bank, microfinance or mobile-money application scan any merchant code, routed and settled through the regional switch](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | Advanced |
 | Inter-administration data exchange platform | Nothing on file | [A named roadmap foundation alongside secure digital identity and a national payment network, with no design, budget line, procurement or timetable on file](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | Advanced |
+| Transparency-code evaluation reporting platform | Not held | [In use for the national transparency commission's second round of public-finance transparency-code evaluation, run entirely online for the first time and covering budget years 2023 to 2025, with focal-point training completed in Brazzaville on 15 July 2026 with UNDP support](https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Unique identification number biometric card | Production halted, with 10,506 identity cards and 25,549 number cards uncollected in one city alone, prompting a proximity distribution campaign | [Production relaunched, with the number now the authentication key for the public-revenue platform and for real-time invoice validation, and mandatory for eight economic and five administrative or social formalities](https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu) | Advanced |
 | Secure digital identity framework and wallet | Committed at a July 2025 workshop owned by the interior ministry, with a vendor cited and no legal or institutional framework adopted | [Named again as a foundation in the July 2026 roadmap, with still no legal instrument, no wallet and no pilot on file](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | No change |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | European remittance corridor | Did not exist | [A live corridor from two European countries into the country and its neighbour, targeting the international cost cap, with the payment institution licensed by a European central bank](https://www.wearetech.africa/en/fils-uk/news/tech/belmoney-digipay-launch-instant-transfer-app-for-congo-and-drc) | Advanced |
 | Payment-aggregator licence | Did not exist | [A licensed aggregator operating a unified interface, and the first concrete test of the mobile-money co-regulation question the industry has flagged](https://techafricanews.com/2026/06/16/pawapay-subsidiary-kerry-payments-secures-vas-payment-aggregator-licence-in-congo/) | Advanced |
@@ -111,22 +112,23 @@ Cybersecurity capability moved on paper only: a strategy neither held nor in pre
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Integrated civil-status system | Named as the civil-status reform vehicle at a July 2025 digital-identity workshop with no build state published | [Three modules — birth, marriage, death — plus exceptional-procedure paths validated, with the principal recommendation being that human, material and financial resources for deployment be made available](http://www.finances.gouv.cg/fr/articles/cloture-travaux-SIFEC_200226) | Advanced |
 | National postal addressing | A postal codification decree adopted in council of ministers in July 2025, presented as bringing the country to international postal standards | [The project still held at the regulator, untransferred to the postal operator, with no deployment, code range or address database on file](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823) | Stalled |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Forest-revenue information system taxation module | Did not exist: the system carried no deployed module on the record | [Live and interconnected with the national financial systems, giving real-time visibility of payment notifications and taxes collected, with use compulsory for forest-sector actors on pain of sanction](https://www.finances.gouv.cg/fr/articles/le-congo-lance-le-module-fiscalit%C3%A9-du-sivl-pour-renforcer-la-tra%C3%A7abilit%C3%A9-et-la-transparence) | Advanced |
 | Public-transport insurance data platform | Did not exist | [Live, centralising sector data with real-time transaction visibility, with insurer participation hoped for rather than mandated](https://www.finances.gouv.cg/fr/articles/lancement-de-la-plateforme-num%C3%A9rique-sigas-tpv) | Advanced |
 | Civil-service payroll platform | ***Baseline not held*** | [Running, with three standing user complaints recorded by the ministry that runs it and no remediation date, incident detail or count of affected agents](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326) | ***Baseline not held*** |
+| Oyo hospital e-health and laboratory equipment | Not held | [E-health equipment, a P2-level biosafety laboratory and a secure biomedical-waste management system delivered to the Edith Lucie Bongo Ondimba hospital at Oyo on 7 August 2026 by the Global Fund and UNDP, for early disease detection, patient data management and health-service coordination](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Certified electronic invoicing system | A voluntary pilot group | [Mandatory for every economic agent except the state, local authorities on public-service missions and diplomatic bodies, with four implementing orders fixing homologation, invoice content and fees](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf) | Advanced |
 | Digital roadmap priority services | A 2030 digital strategy reported as nearing adoption with contents not published | [Five ambitions and nine programmes published, delivery placed in an interministerial task force, and civil status, passport, criminal record and company creation committed as digitised priority services within two years](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | Advanced |
@@ -135,28 +137,29 @@ Cybersecurity capability moved on paper only: a strategy neither held nor in pre
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Rural connectivity site commissioning | No site count on file | [20 sites fully operational against a 76-site target for end-2025, with the remainder described as in advanced stages and no updated count published since](https://techafricanews.com/2025/10/15/congo-expands-high-speed-internet-access-with-20-operational-connectivity-sites/) | Advanced |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Local-authority revenue dematerialisation platform | Did not exist on the record | [Three modules validated — a back office, a collection tool for market controllers, and a public web and mobile face — with no deployment at any local authority recorded since](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226) | Advanced |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Balance-of-payments data collection rate | 98% collection for the 2024 balance of payments on a sample of 136 declarants | [41.81% for 2025 as at 2026-04-21, which the national director said must collectively concern us](https://www.adiac-congo.com/content/balance-des-paiements-2026-la-collecte-des-donnees-lancee-169853) | Regressed |
 | Quarterly labour-market and informal-sector survey | Did not exist; earlier surveys produced one-off data only | [In preparation, with the statistics institute and the labour organisation harmonising concepts to international standards and four series of indicators a year planned, a first for the country](https://www.adiac-congo.com/content/statistiques-des-donnees-regulieres-pour-mieux-mesurer-le-marche-du-travail-170792) | Advanced |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Low-orbit satellite broadband regulation | Nothing on file | [Regulatory capacity built and a strategic meeting held; no licence, service launch or authorisation on file at 2026-08-06](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) | Advanced |
+| National mapping institute geospatial data digitisation | Not held | [A framework partnership signed on 11 August 2026 between the national mapping institute and a local non-governmental organisation to digitise, secure and disseminate its geospatial and cartographic holdings, building a shared platform for public, institutional and research access](https://www.adiac-congo.com/content/transformation-numerique-lign-et-long-pratic-unissent-leurs-expertises-171185) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
 Tax and payments are where everything moved. Beyond the invoicing and payment changes, the [forest-revenue system's taxation module went live and interconnected with the national financial systems](https://www.finances.gouv.cg/fr/articles/le-congo-lance-le-module-fiscalit%C3%A9-du-sivl-pour-renforcer-la-tra%C3%A7abilit%C3%A9-et-la-transparence), compulsory for forest-sector actors on pain of sanction; a [public-transport insurance data platform launched with insurer participation hoped for rather than mandated](https://www.finances.gouv.cg/fr/articles/lancement-de-la-plateforme-num%C3%A9rique-sigas-tpv); a [payment aggregator secured a regulator licence](https://techafricanews.com/2026/06/16/pawapay-subsidiary-kerry-payments-secures-vas-payment-aggregator-licence-in-congo/); and a [European remittance corridor went live from two European countries](https://www.wearetech.africa/en/fils-uk/news/tech/belmoney-digipay-launch-instant-transfer-app-for-congo-and-drc).
@@ -170,7 +173,7 @@ Registry work reached validation and stopped there. The [integrated civil-status
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Certified electronic invoicing decree | A voluntary pilot group, with electronic invoicing described by external staff as a component of the tax platform whose implementation was incomplete | [Mandatory for every economic agent except the state, local authorities on public-service missions and diplomatic bodies, with terminals, software and enterprise modules homologated jointly by the tax directorate and the security agency](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf) | Advanced |
 | Electronic-invoicing implementing orders | Did not exist | [A four-stage homologation with a 30-day decision deadline, mandatory cryptographic certification, a penetration test under twelve months old, a sworn no-backdoor attestation, ten-year invoice retention and real-time tax-directorate data access](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf) | Advanced |
@@ -179,7 +182,7 @@ Registry work reached validation and stopped there. The [integrated civil-status
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Ministry digital roadmap and interministerial task force | Did not exist | [Five ambitions and nine programmes, with delivery placed in an interministerial task force under the Prime Minister rather than the ministry acting alone](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | Advanced |
 | National artificial intelligence strategy | Did not exist | [A technical committee with a six-month horizon, eleven deliverables, a budget of FCFA 150m to 200m still to be secured, and a national-languages flagship digitising two languages](https://www.adiac-congo.com/content/intelligence-artificielle-et-langues-nationales-le-congo-lance-les-travaux-de-sa-strategie) | Advanced |
@@ -189,34 +192,34 @@ Registry work reached validation and stopped there. The [integrated civil-status
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Bilateral ICT cooperation memorandum with Namibia | Did not exist | [Approved on the other side, with no scope, sector detail, financing, signature date or Congolese step published](https://neweralive.na/cabinet-approves-ict-agreement-with-congo-endorses-regional-cooperation/) | Advanced |
 | First Central African cybersecurity agencies conference | Did not exist | [Announced, dated and co-organised, with nothing held on whether it convened and no communiqué, recommendation or outcome](https://www.adiac-congo.com/content/afrique-centrale-brazzaville-abritera-en-juin-la-premiere-conference-sur-la-cybersecurite) | Advanced, no outcome on file |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Subscriber identification compliance | Registration mandatory, with a survey of 18 localities finding cards sold pre-activated and without identity documents in twelve named towns and only two localities fully compliant | [The two-month deadline expired around end-2025 and no compliance result, sanction, follow-up survey or extension is on file](https://www.connectingafrica.com/regulation/congo-sets-2-month-deadline-for-sim-registration) | Stalled |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National personal data protection commission | A bill approved in council of ministers in July 2024, with no members appointed and the body not constituted | [Members appointed and a president, vice-president and rapporteur elected, with powers stated as advising, warning and sanctioning](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/) | Advanced |
 | Loi n. 29-2019 on personal data protection | In force with an incomplete institutional framework and no supervisory authority constituted | [In force, its institutional framework completed by a decree of 2025-12-31](https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/) | No change |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | European financing limb of the transformation project | A bank loan agreed December 2022 and a grant agreed December 2023, a consolidated envelope of EUR 136.5m on the bank's figure | [The same envelope, now procuring: a 24-month cybersecurity strategy, training plan and national conferences mission out to open international tender, bids closing 2026-09-02](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | Advanced |
 | European member-state development bank channel | Did not exist | [A channel opened with a member-state development bank under the European gateway programme, on institutional capacity, structuring digital projects, public-service modernisation and the innovation environment; no commitment, sum or timetable named](https://aden.cg/2026/07/23/programme-dbba-la-banque-publique-de-developpement-de-pologne-et-laden-explorent-de-nouvelles-perspectives-de-cooperation-numerique/) | Advanced |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Transparency-code assessment platform | Did not exist; the 2024 exercise was run off-platform and described by the consultant as laborious | [A platform under development to carry the assessments for 2023, 2024 and 2025 online, with focal points designated across the administration](https://www.adiac-congo.com/content/gouvernance-publique-des-recommandations-pour-booster-lapplication-du-code-sur-la) | Advanced |
 
@@ -234,7 +237,7 @@ One enforcement track stalled: the regulator's [two-month subscriber-identificat
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | African artificial intelligence research centre | A state research and training centre created by law in May 2024 with statutes approved in council in July 2025, built with a Chinese counterpart and showcased at a summit | [Integrated into an international alliance, with Russian financing for phases three and four under validation through a debt-conversion mechanism and a university memorandum with a three-year action plan](https://techafricanews.com/2026/04/21/congo-and-russia-strengthen-digital-and-ai-cooperation-during-high-level-meeting/) | Advanced |
 | Digital and AI regulation conferences | Did not exist | [Concluded with priorities for a national strategic framework for digital and artificial-intelligence regulation, capacity-building for regulators and administrations, and a standing public, private and academic collaboration framework; the outputs are recommendations rather than instruments](https://www.adiac-congo.com/content/intelligence-artificielle-le-congo-pose-les-jalons-dune-regulation-168692) | Closed |
@@ -242,14 +245,14 @@ One enforcement track stalled: the regulator's [two-month subscriber-identificat
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | State operator quality certification | Did not exist: no operator held the standard | [Certified](https://techreviewafrica.com/news/4630/congo-telecom-becomes-first-operator-in-republic-of-congo-to-receive-iso-90012015-certification) | Advanced |
 | Regional digital transit-hub bid | ***Baseline not held*** | [Courtesy meetings and investor engagement, with no interconnection agreement, financing commitment or capacity contract on file](https://techreviewafrica.com/news/6002/congo-telecom-reiterates-ambition-to-lead-digital-transit-and-technology-hub-in-central-africa) | ***Baseline not held*** |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Obstetric digital reference project | Did not exist | [Deployed at one health centre using digital connectivity and real-time coordination to manage obstetric emergencies, with stated plans to extend to the two main cities and scale to 50 maternity units nationally](https://techreviewafrica.com/news/5456/mtn-congo-launches-digital-obstetric-reference-project-to-enhance-maternal-healthcare) | Advanced |
 | Ride-hailing and delivery platform entry | Did not exist: a competitor had ceased operations, leaving no major structured digital mobility platform | [Operating in Brazzaville with geolocated taxis, premium vehicles and hourly rentals](https://www.wearetech.africa/en/fils-uk/news/tech/gozem-launches-in-congo-brazzaville-after-30-million-fundraise) | Advanced |
@@ -257,7 +260,7 @@ One enforcement track stalled: the regulator's [two-month subscriber-identificat
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Private telecom network at an oil field | Did not exist, and it is described as the first private network of its kind in the country | [Contracted for five years, with no source recording the network built, commissioned or in service](https://www.connectingafrica.com/connectivity/airtel-congo-wing-wah-to-deploy-private-telecom-network) | Advanced |
 | Joint artificial-intelligence laboratory | ***Baseline not held*** | [An announced component, with no source recording it built, staffed, equipped or operating](https://techafricanews.com/2025/09/18/congo-showcases-digital-infrastructure-gains-and-ai-ambitions-in-xiamen/) | ***Baseline not held*** |
@@ -273,19 +276,19 @@ Commercial activity entered the record from nothing: a [ride-hailing and deliver
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Mobile-internet market observatory | ***Baseline not held*** | [3.757m mobile-internet subscribers at December 2024, up 9.4%, on FCFA 63.569bn of revenue and 90.904bn megabytes of traffic at a weighted FCFA 0.70 a megabyte, against an over-15 population of 3.738m](https://arpce.org/api/publications/rapport-du-marche-linternet-mobile-2024/download) | ***Baseline not held*** |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Universal fund site and multimedia-centre programme | 200 sites connected over three years, about twenty multimedia centres and about fifty libraries, with 2025 targets of at least ten further centres in white zones and 100 connected sites | [Two further towns connected, one with infrastructure comparable to urban facilities, and no updated cumulative site count published](https://techafricanews.com/2026/01/28/congo-advances-digital-inclusion-with-new-connections-in-miaba-and-ehota/) | Advanced |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National cybersecurity training plan | Did not exist | [A 24-month mission bundling the training plan with a national strategy and national conferences, externally financed through the transformation project, with scope covering skills development across public and private actors and no contract value published](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | Advanced |
 | Development-programme cybersecurity course | A five-month certified course, part of a commitment to train 25,000 African young people across 24 countries, the country among them | [Unchanged; no national enrolment, cohort size or completion figure published since](https://www.adiac-congo.com/content/congo-pnud-un-nouveau-volet-de-formation-en-intelligence-artificielle-destine-aux-jeunes) | No change |
@@ -293,7 +296,7 @@ Commercial activity entered the record from nothing: a [ride-hailing and deliver
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National AI strategy technical committee | Did not exist | [A six-month mandate to produce eleven strategic deliverables in three phases, with a central pillar of a structured digital corpus for two national languages and a specific budget of FCFA 150m to 200m still to be secured](https://www.adiac-congo.com/content/intelligence-artificielle-et-langues-nationales-le-congo-lance-les-travaux-de-sa-strategie) | Advanced |
 
@@ -305,7 +308,7 @@ Skills carried the same number for a second year: the transformation project's [
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Digital acceleration project | US$100m committed on a five-year horizon to 2027, a 2025 work plan of just over FCFA 21bn, and a rural site build under way with none reported operational | [20 of 76 sites fully operational at October 2025, a 2026 work plan of FCFA 21.872bn, and a ten-month detailed activity programme to be set by the funder](https://projects.worldbank.org/en/projects-operations/project-detail/P175592) | Advanced |
 | European phase of the transformation project | The European phase officially launched in June 2025 with EUR 36.3m of loan and FCFA 10bn of grant committed and no procurement held | [An open international tender for a 24-month cybersecurity strategy, training plan and national conferences mission, bids closing 2026-09-02, with no contract value published](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | Advanced |
@@ -315,13 +318,13 @@ Skills carried the same number for a second year: the transformation project's [
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Energy and digital nexus protocol | Did not exist | [A signed accord covering energy and digital nexus projects, a regional think tank, and a feasibility study for a regional data centre attached to a gas plant](https://www.adiac-congo.com/content/partenariat-le-ceo-et-long-pratic-saccordent-pour-la-souverainete-numerique-170295) | Advanced |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-14 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Posts, telecommunications and digital economy programme vote | FCFA 23,093,583,163 appropriated for 2025 and revised to FCFA 23,348,037,007 | [FCFA 30,139,589,283 appropriated for 2026, up 30.5%, with no revised figure held](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf) | Advanced |
 | Rectifying finance law 2026 | Expenditure of FCFA 2,320.167bn against revenue of FCFA 2,550.540bn | [Expenditure of FCFA 2,561.069bn against revenue of FCFA 2,778.016bn, for a projected surplus of FCFA 216.947bn](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726) | Advanced |

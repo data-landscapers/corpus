@@ -1,16 +1,16 @@
 ---
 title: Botswana — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: BWA
-ledger_rows: 23
+ledger_rows: 25
 not_held: 11
-record: 2b56264d9366
+record: 09cded0f663a
 ---
 
 # Botswana: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -30,6 +30,8 @@ Two instruments were made rather than reported on: a [national e-waste managemen
 
 <!-- narrative: infrastructure--infra-connect -->
 The [Plumtree-Bulawayo section of a regional fibre corridor went live on 6 July, carrying traffic at 800Gbps equipped on equipment rated over 10Tbps](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V), with a second phase to Livingstone due September 2026. The corridor is stated as a Botswana-Zimbabwe-Zambia route; the live section is inside Zimbabwe and no Botswana segment is dated.
+
+The western corridor did produce a Botswana segment. Alongside the Kasane memorandum the two sides disclosed that [MTC has completed the Gobabis-Buitepos fibre link, now interconnecting with BoFiNet at Charles Hill](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) — described as the first direct cross-border fibre link between the two operators — and costed the Trans-Kalahari Corridor's remaining 4G gaps at about N$52 million across 13 new sites. The two national incident-response teams are also said to be deepening cooperation. No capacity, commissioning date or traffic figure is published for the fibre link.
 
 Domestic access moved on a much smaller scale. The backbone company [completed its 2025/26 local access projects at P43m, taking fibre to Moshupa, Ramotswa/Taung and Thamaga and connecting 191 customers — 68, 66 and 57 across the three — with 210 construction jobs](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/). The customer count is the operator's own and is a count of connections, not of premises passed.
 <!-- /narrative -->
@@ -52,6 +54,11 @@ The facility's power is the unusual part. [On-site gas-fired generation is suppl
 Two identity-layer systems showed capacity problems rather than design problems this month. The public accounts committee was told on 30 July that the [national public key infrastructure has P423m secured, control transferred to the intelligence directorate, and no working system, timeline or accountable owner](https://weekendpost.co.bw/p420-million-digital-bombshell/). On the committee's account Botswana has no certificate-backed identity verification and no recognised electronic-signature layer. The ministry's own headline figure appears as both P420m and P423m in the single account.
 
 On 28 July a parliamentary answer put identity-card replacement delays down to [too few production staff and ageing equipment with frequent breakdowns](https://dailynews.gov.bw/news-detail/92439). The delays have run since the start of 2026 and the answer carries no backlog figure, no restoration date and no equipment-replacement commitment.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+The month's one payments development is commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. The national payment switch and the citizen wallet both remain at Planned.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -84,7 +91,7 @@ On 13 July the regulator and the environment department [launched a national e-w
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-An [ICT memorandum with Namibia was announced for signature at Kasane on 6 August](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/), extending existing roaming and submarine-cable transit cooperation to digital transformation, emerging technologies and cybersecurity. No term, funding, named workstream or data-governance provision is published, and no signed instrument or joint communiqué is held — the account is a trade outlet's report of a ministry statement.
+The [ICT memorandum with Namibia was signed at Kasane on 7 August](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement) between the two ICT ministries, with their operators and regulators present, covering digital transformation, cybersecurity, connectivity and skills development. It had been [announced for signature the day before](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/) as an extension of existing roaming and submarine-cable transit cooperation. The signed instrument itself is not held, and no term, funding or data-governance provision is published; what the two sides did publish alongside it is operational, and is recorded under connectivity below.
 <!-- /narrative -->
 ### Data protection
 

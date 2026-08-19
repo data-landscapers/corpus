@@ -1,16 +1,16 @@
 ---
 title: Burkina Faso — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: BFA
-ledger_rows: 45
+ledger_rows: 46
 not_held: 11
-record: 922201b4ad4d
+record: ebe9bfe3670c
 ---
 
 # Burkina Faso: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -68,11 +68,13 @@ A [pension acts platform was announced as the completion of the pension programm
 
 <!-- narrative: dpi--dpi-govtech -->
 Automated traffic enforcement entered operation at midnight on 1 August after an April pilot, reading plates against the vehicle database, serving fines by message with a link to the national payments rail, and immobilising vehicles for non-payment within a month. It [logged 1,099 offences between midnight and noon that day](https://lefaso.net/spip.php?article148326) and five payments. Neither held account reports a legal basis, retention rule or data-protection authorisation; [the justification given is 15,614 road accidents in 2025](https://lefaso.net/spip.php?article148326). A pension formalities portal also launched on 21 July, presented as improving data exchange between three administrations rather than as a web front end. The Council of Ministers of 23 July separately converted the trade single window's operator into a state company.
+
+The health ministry's accreditation portal, launched on 7 August, arrived with the one thing most of these launches lack — a use figure. It had taken [more than 247 applications since a soft launch in April 2026, of which 39 were validated](https://burkina24.com/2026/08/07/burkina-faso-e-agrement-officiellement-lance-pour-simplifier-les-procedures-administratives-dans-la-sante/) by the day of the official launch. The counts are the ministry's own, and the record does not explain the gap between the two.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
-Citizen service centres stand at [two pilot sites under construction, with architectural studies under way for a further city, eight regional capitals and fifty rural communes](https://lefaso.net/spip.php?article144175), against a state and postal-service contract for twenty spaces over five years. No unit cost and no beneficiary count is published. The first of the pilots [now has a name, Zama Tchey, and was inspected on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/); it is to bring postal, financial and digital services closer to the population.
+Citizen service centres stand at [two pilot sites under construction, with architectural studies under way for a further city, eight regional capitals and fifty rural communes](https://lefaso.net/spip.php?article144175), against a state and postal-service contract for twenty spaces over five years. No unit cost and no beneficiary count is published. The first of the pilots [now has a name, Zama Tchey, and was inspected on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/); it is to bring postal, financial and digital services closer to the population. A second inspection two days later [put the first Maison du citoyen at 20% complete](https://digitalmagazine.bf/2026/08/07/burkina-faso-rapprocher-letat-du-citoyen-deux-infrastructures-numeriques-en-cours-de-construction/), one of twelve structuring digitalisation projects the ministry names, and took in the national fibre backbone's network operations centre on the same visit.
 <!-- /narrative -->
 
 ## Governance and regulation

@@ -1,15 +1,15 @@
 ---
 title: Somalia — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-19
 place: SOM
-ledger_rows: 51
+ledger_rows: 53
 not_held: 10
-record: d12ce6bbf11a
+record: af976d837169
 ---
 
 # Somalia: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SOM/ledger.csv` (51 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/SOM/ledger.csv` (53 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -38,7 +38,7 @@ The unsettled questions are political rather than technical: two member states d
 |---|---|---|
 | Government data-hosting and cloud guidelines | [Planned](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Still at its November 2022 baseline against an April 2028 target |
 | Hormuud data centre estate | [Implemented](https://www.telecompaper.com/news/hormuud-telecom-plans-to-build-more-green-data-centres--1521594) | Operator reported as investing in further solar-powered domestic capacity |
-| National Data Centre, Mogadishu | [In development](https://moct.gov.so/en/h-e-minister-mohamed-adam-moalim-ali-inspects-progress-of-the-national-data-center-construction/) | Reported nearing completion at a ministerial inspection, 6 May 2025 |
+| National Data Centre, Mogadishu | [In development](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure) | Restated as planned by the state minister for communications, 2026-08-07 |
 
 ### Technical Capacity
 
@@ -201,6 +201,8 @@ One regulatory position is aimed outward. The regulator has [asked Meta to delay
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Garad.ai | [Implemented](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure) | Launched 2026-08-07 |
+| National AI readiness assessment | [In development](https://techreviewafrica.com/news/6784/somalia-boosts-national-ai-readiness-assessment-with-support-from-academia) | A university joined the assessment 2026-08-17 |
 | Somali National University AI Centre | [Implemented](https://techafricanews.com/2026/07/20/somali-national-university-launches-ai-centre-to-advance-research-and-digital-innovation/) | Launched by the university, July 2026 |
 | National artificial intelligence policy | ***Not held*** | — |
 
