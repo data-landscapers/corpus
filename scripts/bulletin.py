@@ -47,6 +47,7 @@ from markdown.extensions.toc import slugify
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from home import L1, REGION_NAMES, SUBTOPIC_NAMES, subtopic_label  # noqa: E402
+from copy_lib import copy_md  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -406,14 +407,9 @@ def document(kind: str, rows: list[dict], store: dict, run_date: date,
         body = group_sections(rows, store, "topic", names)
 
     if kind == "country":
-        tail = ["*Each item is summarised once — under a region where it carries one, otherwise "
-                "under the first place its record lists — and cross-referenced from every other "
-                "country and region it touches.*", ""]
+        tail = [copy_md("bulletin", "tail-country"), ""]
     else:
-        tail = ["*Each item is summarised once, under the first topic its record lists, and "
-                "cross-referenced from every other topic it carries. The topic bulletin does not "
-                "subdivide by country; the country bulletin covers the same window place by "
-                "place.*", ""]
+        tail = [copy_md("bulletin", "tail-topic"), ""]
 
     return "\n".join(head + body + (tail if rows else [])).rstrip() + "\n"
 

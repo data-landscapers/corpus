@@ -30,6 +30,7 @@ from pathlib import Path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 import vault_lib  # noqa: E402
+from copy_lib import copy_inline  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -122,7 +123,7 @@ def document_rows(slug_path: str) -> str:
         </div>
       </div>""")
     if not rows:
-        return ('<p class="table-note">No documents are yet published for this topic.</p>')
+        return f'<p class="table-note">{copy_inline("topic", "no-documents")}</p>'
     return "\n".join(rows)
 
 
@@ -201,10 +202,7 @@ TOPIC_BODY = """    <h2 class="section-heading">Documents</h2>
 {rows}
 
     <h2 class="section-heading">How to read these</h2>
-    <p>Both documents are <strong>derived views</strong>. Every paragraph and every table row in
-       them was written for, and checked in, the report of the place it appears under — nothing is
-       written at the topic level, and no fact reaches this page that is not already sourced on the
-       sentence that carries it. Sections are places, in alphabetical order.</p>
+    <p>{how_to_read}</p>
     <p>Where a place has nothing on record for this topic in the period, it has no section: an
        absent heading means no evidence held, not nothing happening. The place&rsquo;s own report
        is the fuller account &mdash; <a href="{base}/#countries">browse by country</a>.</p>
@@ -217,9 +215,7 @@ CATEGORY_BODY = """    <p class="section-intro">{intro}</p>
 {boxes}
     </div>
 
-    <p class="caveat">This is an index, not a report. A Level-1 report would be a composition of
-       the same material one level up, and the taxonomy is a strict single-parent tree, so it can
-       be built later from exactly these documents and costs nothing to defer.</p>
+    <p class="caveat">{category_caveat}</p>
 """
 
 
@@ -267,7 +263,8 @@ def main() -> int:
               e(label[slug]),
               f'<span class="mono">{e(slug)}</span> &nbsp;·&nbsp; {e(cat)} '
               f'&nbsp;·&nbsp; page built {built}',
-              TOPIC_BODY.format(rows=document_rows(path), base=SITE_BASE))
+              TOPIC_BODY.format(rows=document_rows(path), base=SITE_BASE,
+                                how_to_read=copy_inline("topic", "how-to-read")))
         wrote += 1
 
     for key, name in L1.items():
@@ -289,6 +286,7 @@ def main() -> int:
               f'<span class="mono">{key}.*</span> &nbsp;·&nbsp; {len(kids)} topics '
               f'&nbsp;·&nbsp; page built {built}',
               CATEGORY_BODY.format(
+                  category_caveat=copy_inline("topic", "category-caveat"),
                   intro=f"{name} rolls up {len(kids)} topics. Each carries a monthly update and a "
                         f"progress report, compiled place by place from the same base.",
                   boxes=boxes))

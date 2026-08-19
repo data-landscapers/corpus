@@ -69,6 +69,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import status_lib  # noqa: E402
 import vault_lib  # noqa: E402
+from copy_lib import copy_md  # noqa: E402
 
 ROOT = vault_lib.ROOT
 REPORTS = os.path.join(ROOT, "outputs", "reports")
@@ -147,21 +148,10 @@ def stem(value):
     """The part of a status or movement value before its qualifying clause."""
     return (value or "").split(",")[0].strip()
 
-VOCAB = ("**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a "
-         "limited user group or in a controlled environment. *In development* — build or drafting "
-         "under way, not yet operating. *Planned* — announced or provided for, no build or draft on "
-         "record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its "
-         "in-force date. *Under review* — a law or policy currently being reconsidered. "
-         "*Discontinued* — closed or superseded. ***Not held*** — the base carries no "
-         "reliable statement of status; these are the gaps to fill and are listed again at the end.")
-
-MOVE_VOCAB = ("**Movement values.** *Advanced* — a system entered service, a stage was completed or "
-              "an instrument was made. *Stalled* — a stated target passed without delivery. "
-              "*Regressed* — an instrument was withdrawn or neutralised, or a measured position "
-              "worsened. *Closed* — the programme ended. *No change* — the position at both ends is "
-              "the same. ***Baseline not held*** — the base carries no position at the start of the "
-              "period, so no movement can be stated. A value may carry a qualifying clause after a "
-              "comma, as in *Advanced, slipped*.")
+# Both glossaries live in `content/document.md` now (Bill, 2026-08-19). They are markdown
+# on the way into a markdown document, so `copy_md` rather than `copy`.
+VOCAB = copy_md("document", "status-vocab")
+MOVE_VOCAB = copy_md("document", "movement-vocab")
 
 
 def sections(unit):

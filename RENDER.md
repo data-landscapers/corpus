@@ -184,6 +184,25 @@ Per-country finance is separate and already covered by Step 4: `scripts/country.
 
 **The landing layout is still a shell, deliberately.** `finance.py`'s aggregation is real and its numbers are correct; the *landing's* presentation is a placeholder awaiting design — headline totals, by-sector and by-place tables, links down to each country's finance page. It is wired in because a plain page beats a 404, not because it is finished. `all.html` is not in that category: it is finished, and it is where a reader who wants the data itself should be sent.
 
+## The prose
+
+**Every explanatory paragraph the site shows a reader lives in `content/`** *(Bill, 2026-08-19)*, one markdown file per page type, each holding named blocks under `##` headings. `scripts/copy_lib.py` reads them; the builders ask for a block by name.
+
+```bash
+python scripts/copy_lib.py            # what is where: file, key, word count, placeholders
+python scripts/copy_lib.py home       # one file
+```
+
+The reason is editorial, not architectural. This wording is the part of the site most in need of revision and was the part hardest to revise, distributed across eight scripts as string constants with HTML entities in them, where changing a sentence meant reading Python to find it. Nothing about the build needed this; the person writing the sentences did.
+
+Three calls, because there are three kinds of slot. `copy()` returns HTML. `copy_inline()` returns it without the wrapping `<p>`, for a slot that supplies its own — `<p class="section-intro">` and the rest of the classed paragraphs; it raises rather than nesting a `<p>` inside a `<p>` if the block has grown to two paragraphs. `copy_md()` returns the markdown untouched, for `report-render.py` and `bulletin.py`, which emit markdown documents that `render.py` converts later.
+
+**A missing key stops the build.** There is no fallback and no empty string: a page that quietly renders without its explanatory paragraph looks finished and is not, and these are exactly the paragraphs nobody notices are wrong. **Placeholder values arrive pre-formatted** — `{n:,.0f}` is not available inside a content file, because a format spec there puts presentation logic back in the file it was taken out of and fails at build time in what the editor thinks is plain text.
+
+**24 blocks, 931 words, have moved** — the ones carrying no placeholders and no conditional selection. The remaining 39 are still string constants in the builders: 27 carry `{placeholders}` and 9 are branch-selected rather than parameterised (two whole different sentences chosen by a test, singular/plural chains, `report-render.py`'s conditional tail where the closing italic marker depends on the branch). They move the same way when their turn comes; the ones left need a slot or a variant per branch rather than a straight lift.
+
+The move changed no rendered text. The generated HTML differs in two ways only, both verified across every page: source lines that were wrapped in Python are now one long line, and `&mdash;` is now the character `—`.
+
 ## The finance tables
 
 Both the per-country `finance.html` and the all-Africa `all.html` are drawn **in the browser**, by `site/assets/js/datatable.js` reading the published CSV the page already offers for download. Neither page contains a `<tr>` per commitment. This replaced the baked-in table on 2026-08-19; `site/assets/css/datatable.css` holds the styling, kept out of `main.css` because that file is a copy carrying its own provenance marker (`MAIN-CSS-FROM`).

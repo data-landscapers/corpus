@@ -30,6 +30,9 @@ from pathlib import Path
 
 import markdown
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from copy_lib import copy  # noqa: E402
+
 # The edition grammar and the same-day suffix live in `editions.py`, because `country.py`,
 # `topic-page.py` and `finance.py` all read or write editions too (§9).
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -401,21 +404,11 @@ TEMPLATE = """<!DOCTYPE html>
 """
 
 
-REPORT_NOTES = """        <p>Figures are dated because most are time-varying: a figure carries the
-        date it was true, not the date you are reading it. Where the base holds
-        no reliable statement, the document says <strong>Not held</strong> rather
-        than leaving a silence &mdash; those are counted, and listed at the end.</p>
-        <p>This is a dated edition and is not revised after publication. If a
-        figure here has moved, the current edition will say so.</p>"""
-
-BULLETIN_NOTES = """        <p>The bulletin covers what was <em>published</em> in its window, which is not
-        the same as what arrived in it: the corpus acquires in batches, so a
-        record ingested today may carry any publication date. Each item is
-        summarised once and cross-referenced from every other country, region or
-        topic it touches.</p>
-        <p>This page is rewritten at every build and holds only the window named
-        in its byline. It is not an archive; the country, region and topic
-        reports are where a development is kept.</p>"""
+# The two standing notes live in `content/document.md` now (Bill, 2026-08-19): they are
+# reader-facing prose, they appear on every document rendered, and they were the least
+# reachable text on the site for the person whose job is to revise them.
+REPORT_NOTES = copy("document", "report-notes")
+BULLETIN_NOTES = copy("document", "bulletin-notes")
 
 
 def build_document(md_path: Path, edition: str | None, absolute: bool,

@@ -34,7 +34,11 @@ import html
 import json
 from collections import Counter
 from datetime import date
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from copy_lib import copy_inline  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -135,28 +139,9 @@ def subtopic_label(slug: str) -> str:
 # sit in its card, unchanged. Countries is Bill's rewrite, edited straight in
 # site/index.html on 2026-08-11 and copied back here so a rebuild doesn't
 # revert it. Regions had no prior card to draw from, so that paragraph is CC's.
-COUNTRIES_INTRO = (
-    "Each country page contains four reports: A status summary; A breakdown "
-    "of progress recorded over the past twelve months; a summary of news "
-    "reported in the last month; and a financial record of investments or "
-    "commitments made by non-state institutions since 2015."
-)
-REGIONS_INTRO = (
-    "Sources tagged to a region, a bloc or the continent as a whole, rather "
-    "than to a single named country — the African Union, ECOWAS, SADC and "
-    "the other regional bodies, plus the broader continental and cross-"
-    "regional tags. A source is filed under a country whenever it names one; "
-    "these are what is left. Eight groupings are tracked here, from the four "
-    "sub-regions to the continental and global tags."
-)
-TOPICS_INTRO = (
-    "A controlled vocabulary in a strict single-parent tree, so a category "
-    "rolls up to every topic beneath it. A source carries as many topics as "
-    "it evidences, and is counted under each of them. Data protection, "
-    "digital identity, cross-border data flows, connectivity, artificial "
-    "intelligence and the rest. Each topic resolves to the documents that "
-    "evidence it, not to a summary of them."
-)
+# The section intros, the caveats under each set of boxes and the hero standfirst
+# live in `content/home.md` now (Bill, 2026-08-19). `copy_inline` because each
+# sits inside a <p> the template already classes.
 
 csv.field_size_limit(10 ** 9)
 
@@ -265,9 +250,7 @@ def bulletin_section() -> str:
     return (f'\n    <h2 class="section-heading" id="bulletin">Daily bulletin</h2>\n'
             f'    <p class="section-intro">{intro}</p>\n'
             f'    <div class="boxes boxes--regions">\n{boxes}\n    </div>\n'
-            f'    <p class="caveat">The count is the sources in the window, and both bulletins '
-            f'cover the same ones. The corpus acquires in batches, so a quiet bulletin means '
-            f'nothing was published on those two days rather than that nothing arrived.</p>\n')
+            f'    <p class="caveat">{copy_inline("home", "bulletins-caveat")}</p>\n')
 
 
 def topic_boxes(by_topic: dict[str, int]) -> str:
@@ -396,7 +379,7 @@ TEMPLATE = """<!DOCTYPE html>
   <div class="container">
 
     <div class="hero">
-      <p>A living record of digital transformation and data governance across Africa. Compiled from primary sources. Updated daily.</p>
+      <p>{hero}</p>
     </div>
 
 {bulletin}
@@ -405,7 +388,7 @@ TEMPLATE = """<!DOCTYPE html>
     <div class="boxes">
 {countries}
     </div>
-    <p class="caveat">Sources held per country. A source tagged to several countries is counted under each, so these sum to more than the country total above: they measure coverage, not documents.</p>
+    <p class="caveat">{countries_caveat}</p>
 
     <h2 class="section-heading" id="regions">Regions</h2>
     <p class="section-intro">{regions_intro}</p>
@@ -422,13 +405,13 @@ TEMPLATE = """<!DOCTYPE html>
     <p class="caveat">Level-1 categories, rolled up from the {ntopics} topics beneath them. A source carries as many topics as it evidences, so these also sum to more than the total. Click a topic to open its sub-topics.</p>
 
     <h2 class="section-heading" id="finance">Finance</h2>
-    <p class="section-intro section-intro--todo">The finance behind the corpus &mdash; investments, budgets and commitments recorded across the source base. This section is still to be written; content to follow.</p>
+    <p class="section-intro section-intro--todo">{finance_todo}</p>
 
     <h2 class="section-heading" id="catalogue">Catalogue</h2>
-    <p class="section-intro section-intro--todo">The full browse-and-filter view over every source in the corpus. This section is still to be written; content to follow.</p>
+    <p class="section-intro section-intro--todo">{catalogue_todo}</p>
 
     <h2 class="section-heading" id="methodology">Methodology</h2>
-    <p class="section-intro section-intro--todo">How the corpus is built, tagged and kept current &mdash; the taxonomy, the sources and the editions. This section is still to be written; content to follow.</p>
+    <p class="section-intro section-intro--todo">{methodology_todo}</p>
 
     <div class="colophon">
       <strong>About this page</strong>
@@ -498,9 +481,14 @@ def build() -> Path:
         docs_year=f"{s['by_year'].get(this_year, 0):,}",
         docs_month=f"{s['by_month'].get(this_month, 0):,}",
         bulletin=bulletin_section(),
-        countries=country_boxes(by_place), countries_intro=e(COUNTRIES_INTRO),
-        regions=region_boxes(by_place), regions_intro=e(REGIONS_INTRO),
-        topics=topic_boxes(s["by_topic"]), topics_intro=e(TOPICS_INTRO),
+        hero=copy_inline("home", "hero"),
+        countries_caveat=copy_inline("home", "countries-caveat"),
+        finance_todo=copy_inline("home", "finance-todo"),
+        catalogue_todo=copy_inline("home", "catalogue-todo"),
+        methodology_todo=copy_inline("home", "methodology-todo"),
+        countries=country_boxes(by_place), countries_intro=copy_inline("home", "countries-intro"),
+        regions=region_boxes(by_place), regions_intro=copy_inline("home", "regions-intro"),
+        topics=topic_boxes(s["by_topic"]), topics_intro=copy_inline("home", "topics-intro"),
         regional=f"{regional:,}", ntopics=len(s["by_topic"]), script=SCRIPT,
         counts_from=("<code>outputs/catalogue/stats.json</code>, generated "
                      + s.get("generated", "")

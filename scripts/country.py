@@ -60,6 +60,7 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from copy_lib import copy_inline  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -101,17 +102,16 @@ FULL_NAMES = {
 }
 
 KIND = {
-    "status": ("Status report", "A summary of the status of all known systems and instruments"),
-    "monthly": ("Monthly update", "A summary of news reported in the last month"),
-    "progress": ("Twelve-month progress report", "A breakdown of progress recorded over the past twelve months"),
+    "status": ("Status report", copy_inline("country", "report-status")),
+    "monthly": ("Monthly update", copy_inline("country", "report-monthly")),
+    "progress": ("Twelve-month progress report", copy_inline("country", "report-progress")),
 }
 
 # The status report changes shape when `STATUS-INIT` has run on a country: a table of ledger rows
 # becomes a narrative answering 37 questions about where the country actually stands, and the old
 # blurb would describe the wrong document to a reader deciding whether to open it.
-BASELINE_BLURB = ("Where the country stands across 37 questions, with a source for every claim")
+BASELINE_BLURB = copy_inline("country", "report-status-baseline")
 
-# Column definitions for the dictionary the full table offers, from
 # The field dictionary used to be generated here, from a FIELDS list duplicating the
 # schema FINANCE-COMPILE.md defines. Retired 2026-08-19 (Bill): one hand-maintained
 # file at site/metadata/non-state-finance-metadata.csv now serves every table, so the
@@ -131,21 +131,6 @@ def frontmatter(text: str) -> dict:
     head = text[3:text.find("\n---", 3)]
     return {k.strip(): v.strip() for k, v in
             (l.split(":", 1) for l in head.splitlines() if ":" in l)}
-
-
-def fields_csv(cols: list[str]) -> bytes:
-    """The field dictionary for one country's finance CSV, as it is published.
-
-    Built in memory rather than written straight out, because `editions.publish` is what decides
-    whether it is written at all: an edition is cut when the content changes, and the columns
-    move far less often than the rows do."""
-    buf = io.StringIO(newline="")
-    w = csv.writer(buf)
-    w.writerow(["field", "definition", "defined_in"])
-    known = {f[0] for f in FIELDS}
-    w.writerows([f for f in FIELDS if f[0] in cols]
-                + [[c, "", "not documented"] for c in cols if c not in known])
-    return buf.getvalue().encode("utf-8")
 
 
 def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, str]:
@@ -389,7 +374,7 @@ def report_rows(rows: list[dict], iso: str) -> str:
         </div>
       </div>""")
     if not out:
-        return '<p class="table-note">No reports are yet published for this place.</p>'
+        return f'<p class="table-note">{copy_inline("country", "no-reports")}</p>'
     return "\n".join(out)
 
 

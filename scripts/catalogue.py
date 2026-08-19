@@ -24,6 +24,9 @@ from __future__ import annotations
 import csv, json, re, shutil, sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from copy_lib import copy_inline  # noqa: E402
+
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
@@ -181,8 +184,7 @@ STYLE = r"""
 BODY = r"""
 <div class="cat">
   <h1>Catalogue</h1>
-  <p class="lede">Every source held in the base — what it is, who published it, when, and where to read it.
-     Bodies are not republished; each record links to the publisher.</p>
+  <p class="lede">""" + copy_inline("catalogue", "lede") + r"""</p>
   <p class="downloads">Download the whole catalogue:
      <a href="raw-catalogue.csv" download>CSV</a> &nbsp;·&nbsp;
      <a href="raw-catalogue.json" download>JSON</a> &nbsp;— metadata only.</p>
