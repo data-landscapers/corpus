@@ -1,20 +1,20 @@
 ---
-title: Libya — progress report, 2025-08-01 to 2026-08-17
-compiled: 2026-08-17
-period: 2025-08-01 to 2026-08-17
+title: Libya — progress report, 2025-08-01 to 2026-08-19
+compiled: 2026-08-19
+period: 2025-08-01 to 2026-08-19
 place: LBY
-ledger_rows: 77
+ledger_rows: 81
 not_held: 7
-record: 3791f6a7ef86
+record: 1111bf38af61
 ---
 
-# Libya: progress report, 2025-08-01 to 2026-08-17
+# Libya: progress report, 2025-08-01 to 2026-08-19
 
-*Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 77 systems and instruments on this place's ledger, 52 changed position between 2025-08-01 and 2026-08-17, 16 did not, 2 carry no stated baseline, and 7 are ***Not held*** at both ends.*
+*Of 81 systems and instruments on this place's ledger, 52 changed position between 2025-08-01 and 2026-08-19, 16 did not, 6 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 72 sources for this place in the window — 22 in the earlier half (2025-08 to 2026-02), 50 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 77 sources for this place in the window — 22 in the earlier half (2025-08 to 2026-02), 55 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ What did not move: the telecoms licensing dispute, the civil registry's completi
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | 5G network | Did not exist | [One operator live in central Tripoli, countrywide roll-out stated to follow](https://libyaherald.com/2026/01/almadar-mobile-launches-libyas-first-5g-service-in-tripoli-countrywide-roll-out-to-follow-soon/) | Advanced |
 | ARABSAT and LTT satellite capacity agreement | Did not exist | [Agreement announced; capacity on Arabsat-6A at 30.5 degrees east, no commercial terms](https://techafricanews.com/2026/08/07/arabsat-and-ltt-sign-strategic-partnership-to-strengthen-libyas-digital-infrastructure/) | Advanced |
@@ -47,7 +47,7 @@ What did not move: the telecoms licensing dispute, the civil registry's completi
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Central Bank of Libya cyber incident | No disclosed incident | [Systems isolated in June 2026 and a sample of bank data later published on a dark-web site](https://alwasat.ly/news/libya/520951) | Regressed |
 | Interior Ministry cybercrime caseload | 135 cases and 188 devices seized in the first quarter of 2025 | [No figure published since the first quarter of 2025](https://alwasat.ly/news/libya/471949) | No change |
@@ -67,13 +67,13 @@ Huawei ends the period where it began it. [Suspended nationwide on 17 August 202
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | LY-NDEX national data exchange | Did not exist | [Positioned as the state's data-exchange and verification spine for inter-agency information exchange, including AML/CTF compliance; no legal basis, connected-entity count or transaction figure published](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Civil-registry fraud enforcement | No enforcement action on file | [61 family records suspended and 225 national ID numbers and passports revoked (2026-01), 10 numbers cancelled at Al-Marj, forged-number trade reported continuing (2026-04)](https://libyaherald.com/2026/01/61-false-family-records-225-national-id-nos-and-libyan-passports-suspended-legal-proceedings-against-civil-registry-office-conspirators-initiated) | Advanced |
 | LY-DNID national digital identity | Did not exist | [Level 3 (biometric) tier in technical trials with the Central Bank of Libya and several banks, ahead of integration into banking eKYC; part of the Digital Identity Management System for Citizens under the National Digital Transformation Strategy](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/) | Advanced |
@@ -83,7 +83,7 @@ Huawei ends the period where it began it. [Suspended nationwide on 17 August 202
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | E-wallets for resident foreigners | Not permitted | [Permitted on passport and residency, with daily transfer caps](https://alwasat.ly/news/libya/511044) | Advanced |
 | International Visa acceptance on local terminals | Did not exist | [Foreign-currency Visa acceptance live on local POS](https://libyaherald.com/2026/06/central-bank-of-libya-governor-inaugurates-2nd-libya-international-electronic-payment-exhibition-epaix-2026) | Advanced |
@@ -96,16 +96,22 @@ Huawei ends the period where it began it. [Suspended nationwide on 17 August 202
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Unified Economic Number | Did not exist | [Authorised, with a National Council constituted; no timetable, budget or legal basis for the data linkage stated](https://libyaherald.com/2026/07/libyan-government-issues-decision-on-implementation-of-unified-economic-number-project) | Advanced |
 | Unified national database of expatriate workers | Did not exist | [Agreed with a dedicated platform; no authorising instrument, retention limit or oversight body named](https://www.lananews.com/ar/?p=499082) | Advanced |
 | National postal addressing | Phase one under way | [Phase one under way; no completion figure published since](https://libyaobserver.ly/inbrief/libya-launches-postal-addressing-project-tripoli-district) | No change |
 | Unified Social Registry | Draft approved (2025-06) | [Draft approved; no build, budget or timetable published since](https://lana.gov.ly/post.php?lang=en&id=335111) | No change |
 
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+|---|---|---|---|
+| Sustainable Medical Supply Platform | Not held | [In pilot as an AI-enabled national platform for managing pharmaceutical procurement, inventory and distribution toward a unified national medical-supply database, developed with and implemented by NSR International for Information Technology, a subsidiary of the Libyan Foreign Investment Company, for the state importer of the country's medicines](https://libyaherald.com/2026/08/medical-supply-organisation-launches-pilot-sustainable-medical-supply-platform-to-transform-to-an-integrated-national-digital-system) | ***Baseline not held*** |
+
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Electronic Unified Export Window | Did not exist | [354 companies registered and 190 products exported, 66% of orders to Tunisia; no pre-platform baseline published](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/) | Advanced |
 | Libya Experts Forum registration platform | Did not exist | [Ready for launch; data protection instructed but no statute or regulator named](https://lana.gov.ly/post.php?id=362213&lang=en) | Advanced |
@@ -114,16 +120,17 @@ Huawei ends the period where it began it. [Suspended nationwide on 17 August 202
 | Port Trade Service (PTS) vessel-arrival and cargo-manifest system | ***Baseline not held*** | [Receiving vessel arrival notifications and cargo manifests electronically at Tripoli and Al-Khoms, presented as a control on undervalued or banned imports and on currency smuggling through fake trade; no coverage of other ports and no transaction figure published](https://libyaherald.com/2026/08/electronic-service-for-receiving-vessel-arrival-notifications-cargo-manifests-activated-at-tripoli-khoms-ports) | Advanced |
 | Unified Digital System for Chambers of Commerce | Did not exist | [Live; digital certificates of origin and chamber registration with a verification channel for customs](https://libyaherald.com/2026/03/unified-chambers-of-commerce-digital-system-launched-to-develop-electronic-services-within-libyas-chambers-of-commerce) | Advanced |
 | Unified Tax System | Did not exist | [Launched; further platforms stated for 2026](https://libyaherald.com/2025/12/tax-authority-launches-unified-tax-system-and-activation-of-tax-polices-role) | Advanced |
+| Exhibitions and Conferences Platform | Not held | [Launched as the first official specialised system for digitising the exhibitions and conferences sector, providing electronic management of registration, participation and event logistics and building an integrated database of exhibitions, conferences, organisers, participants and visitors](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya) | ***Baseline not held*** |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | BaladiyaBOT municipal digital assistant | Did not exist | [In development and piloting in one municipality](https://libyaherald.com/2026/04/municipality-of-tripoli-centre-announces-the-start-of-the-development-of-baladiyabot) | Advanced |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Electronic-payment value | LD 136bn (2024) | [LD 389bn (2025) and LD 643bn for 1 January to 31 July 2026](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase) | Advanced |
 | POS terminal estate | 150,205 terminals (2024) | [170,149 terminals (February 2026); 2m transactions across 67,000 points in one day collapsed the system (2026-05)](https://libyaherald.com/2026/05/two-million-pos-transactions-in-a-single-day-across-67000-points-cause-collapse-of-e-payment-system-cbl-apologises) | Advanced |
@@ -131,7 +138,7 @@ Huawei ends the period where it began it. [Suspended nationwide on 17 August 202
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National earth-observation satellite | Did not exist | [At design stage; no budget, timetable or launch partner stated](https://www.lananews.com/ar/?p=499199) | Advanced |
 
@@ -149,7 +156,7 @@ Two identity positions did not move: [Project Intilaqa's 97% is still a Septembe
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Comprehensive cybersecurity law | None published | [In drafting on the eastern legislative track](https://alwasat.ly/news/libya/524932) | Advanced |
 | E-payment mandate for state revenue collection | Did not exist | [Treasuries and collecting agencies must accept electronic payment](https://libyaherald.com/2026/03/aldabaiba-government-and-cbl-take-further-actions-to-encourage-increased-e-payments-use-cbl-reduces-new-fx-bureaux-commission) | Advanced |
@@ -157,7 +164,7 @@ Two identity positions did not move: [Project Intilaqa's 97% is still a Septembe
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Government Data Governance Policies | None published | [Applied to the Libyan Zakat Fund as the reference framework for data ownership, integration via LY-NDEX, digital identity verification, the Once-Only Principle and cybersecurity-by-design (2026-04)](https://www.gia.gov.ly/en/2026/02/16/the-general-authority-for-information-presents-its-vision-on-government-data-governance-during-a-cloud-computing-workshop) | Advanced |
 | National Cloud Computing Policy | Did not exist | [Proposal under consultation with ESCWA; framework for hosting government data and services, pressed on state sovereignty over its data; final text not published](https://www.gia.gov.ly/en/2026/01/01/the-general-information-authority-presents-the-proposed-national-cloud-computing-policy-in-collaboration-with-escwa/) | Advanced |
@@ -166,31 +173,33 @@ Two identity positions did not move: [Project Intilaqa's 97% is still a Septembe
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Candidacy for the ITU Council | Did not exist | [Declared and canvassed bilaterally](https://lana.gov.ly/post.php?id=362348&lang=en) | Advanced |
 | Chair of the Arab working group on AI Data and Digital Infrastructure | Did not exist | [Libya holds the chair](https://www.businesstec.news/23334) | Advanced |
 | OZON unified telecoms licence | Granted by the eastern ministry and treated as void by the GTI | [Granted by the eastern ministry and treated as void by the GTI](https://libyareview.com/55614/ozon-company-to-operate-national-telecom-network-in-libya/) | No change |
+| Libya-Tunisia supreme audit cooperation roadmap | Not held | [A phased plan signed by Libya's Audit Bureau and Tunisia's Court of Auditors to activate an existing cooperation agreement, covering exchange of expertise, capacity building, development of digital systems and solutions, and cooperation on artificial intelligence and its governance](https://libyaobserver.ly/news/libya-tunisia-agree-roadmap-strengthen-audit-cooperation) | ***Baseline not held*** |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Prohibition on card-payment surcharges | Did not exist | [Prohibited and enforceable; spreads of up to 20% reported before it](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Tax Police | Not active | [Activated for oversight and compliance](https://libyaherald.com/2025/12/tax-authority-launches-unified-tax-system-and-activation-of-tax-polices-role) | Advanced |
 | Data-protection law | None in force | [None in force; targeted for 2026 by the AI strategy](https://libyaherald.com/2025/10/general-information-authority-makes-its-national-strategy-for-artificial-intelligence-2025-2030-publicly-available) | No change |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | GIA Open Data Platform | Did not exist | [Indicators covering 91 datasets](https://www.gia.gov.ly/en/2026/02/16/the-general-authority-for-information-presents-its-vision-on-government-data-governance-during-a-cloud-computing-workshop) | Advanced |
 | National Committee for the Information for All Programme | Did not exist | [Constituted under the GIA with a proposed roadmap taken](https://technology.ly/en/ltf-supports-ifap-initiative/) | Advanced |
+| National digital mineral map | Not held | [A trial version of a national digital mineral-map system, built on an SQL database covering roughly 1,200 ore and mineral indicators with digital geological maps at 1:250,000, presented as a national information base for exploration, resource management and investment](https://libyaherald.com/2026/08/minister-of-industry-and-minerals-launches-trial-version-of-digital-mineral-map-of-libya-contributing-to-attracting-investment) | ***Baseline not held*** |
 
 <!-- narrative: governance -->
 The licensing dispute did not move. [Law No. 22 of 2010 remains in force](https://lana.gov.ly/post.php?id=339330&lang=ar), Tripoli continues to read it as reserving all licensing to itself, and [the OZON licence granted under it by the eastern ministry remains outstanding and treated as void](https://libyareview.com/55614/ozon-company-to-operate-national-telecom-network-in-libya/).
@@ -206,27 +215,27 @@ Libya also took two external positions it did not hold a year ago: [the chair of
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | AI Ethics Charter | Did not exist | [Adopted; commits the state to justice, transparency and accountability, safeguards individuals' digital rights and centres human decision-making over AI in sensitive sectors](https://lana.gov.ly/post.php?id=358532&lang=en) | Advanced |
 | National Artificial Intelligence Strategy | Published 2025-2030 edition (2025-10) | [2026-2030 edition adopted 2026-06-01; targets include 80% of government entities using AI, 70% national digital-identity activation, 10,000 staff trained, 100 AI startups, 50% of government transactions automated and 70% of paper records digitised (stated targets, not yet measured)](https://libyaherald.com/2025/10/general-information-authority-makes-its-national-strategy-for-artificial-intelligence-2025-2030-publicly-available) | Advanced |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Bank digital-service build-outs with foreign vendors | Did not exist | [Tadamon Bank with JMR Infotech and Seraj Islamic Bank with Network International](https://alwasat.ly/news/economy/516048) | Advanced |
 | Al Itissan Al-Jadeed biometric passport contract in Niger | Contract won (2025-06) | [Contract won; no delivery milestone published since](https://www.biometricupdate.com/202506/libyan-firm-wins-niger-biometric-passport-national-id-contract) | No change |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | LIBIGPT generative-AI system | Did not exist | [Launched as the first domestic generative-AI system](https://libyaherald.com/2025/10/libyas-first-ai-system-libigpt-launched-in-presence-of-minister-of-economy-and-trade) | Advanced |
 
 ### India activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Libya and India cooperation on AI and quantum skills | Did not exist | [Agreed; no programme document or numbers published](https://libyaherald.com/2026/02/libyan-indian-cooperation-to-qualify-national-cadres-in-quantum-computing-and-artificial-intelligence) | Advanced |
 
@@ -240,14 +249,14 @@ The technology sector itself did not move. [Al Itissan Al-Jadeed's Niger contrac
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Cash withdrawal limits at bank branches | Note recall of 2025 deepening the cash shortage | [LD 3,000 per customer, and LD 4,000 in the south, from 9 August 2026](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase) | Regressed |
 | Access for holders of administrative numbers | Protests over exclusion from services gated on the national number (2025-06) | [No published resolution](https://alwasat.ly/news/libya/479250) | No change |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | IsDB cybersecurity and AI-risk training for central bank officials | Did not exist | [Run once; participant numbers, curriculum and standard unstated](https://libyaherald.com/2026/08/isdb-conducts-training-for-cbl-officials-on-sukuk-treasury-operations-and-ai-risk-management/) | Advanced |
 | Professional master's institute in AI and cybersecurity | Did not exist | [Launched by the Ministry of Planning with UNDP](https://alwasat.ly/news/libya/496687) | Advanced |
@@ -255,7 +264,7 @@ The technology sector itself did not move. [Al Itissan Al-Jadeed's Niger contrac
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Higher-education and research cloud platform | Did not exist | [Approved and described by the authority as built on Microsoft 365](https://www.lananews.com/ar/?p=499199) | Advanced |
 

@@ -1,15 +1,15 @@
 ---
 title: Burundi — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: BDI
-ledger_rows: 64
+ledger_rows: 65
 not_held: 10
-record: 7a0901b7e7e8
+record: 5898b27553de
 ---
 
 # Burundi: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/BDI/ledger.csv` (64 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/BDI/ledger.csv` (65 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -81,7 +81,7 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric national identity card | [In development](https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/) | Unveiled as technically ready but awaiting the law or decree governing its use |
-| Digital civil registry platform | [Piloting](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative) | 13 pilot communes operating biometric enrolment, decentralised to zone level, interoperable with health-facility birth and death records |
+| Digital civil registry platform | [Piloting](https://abpinfo.bi/2026/08/13/le-burundi-veut-construire-un-etat-plus-proche-des-citoyens-plus-efficace-et-inclusif/) | Interoperability with health facilities running in 123 facilities, stated by the interior ministry 2026-08-11 |
 
 ### Digital Payments and Fintech
 
@@ -104,6 +104,7 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| CEM/CFP training-centre monitoring tool | [In development](https://burundi-eco.com/un-nouvel-outil-numerique-pour-moderniser-le-suivi-des-cem-et-cfp/) | Tool validated 2026-08-07 |
 | ELMIS/MEDEXIS health supply-chain system | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-advances-health-digitalization-with-broader-elmis-medexis-rollout) | Reached all public and faith-based facilities |
 | Merankabandi social protection on openIMIS | [Implemented](https://openimis.org/blog/burundis-growing-social-protection-system-now-runs-openimis) | Migration completed, covering 1.25m beneficiaries |
 | SIGFP_BI integrated public finance management system | [In development](https://www.digitalbusiness.africa/burundi-le-ministere-des-finances-cite-dans-une-affaire-de-gre-a-gre-pour-des-contrats-informatiques-evalues-a-30-millions-de-dollars/) | Single-source award contested by a non-governmental organisation |

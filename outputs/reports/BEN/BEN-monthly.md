@@ -1,16 +1,16 @@
 ---
 title: Benin — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: BEN
-ledger_rows: 23
+ledger_rows: 24
 not_held: 4
-record: 5f3b16454519
+record: 9187e61973f8
 ---
 
 # Benin: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -41,6 +41,8 @@ Benin is [ranked fourth in Africa on a 2026 internet-freedom assessment](https:/
 
 <!-- narrative: dpi--dpi-exchange -->
 The exchange [recorded more than 138 million requests in total](https://statistiques.xroad.bj/), 32.7m in the preceding thirty days, across 73 members, 176 information systems and 512 services.
+
+A second kind of data exchange entered the record in August, and it is regional rather than national. The BIC-UEMOA credit information bureau held its first Cotonou data forum on 23 July, [reported on 13 August](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux), with the finance ministry framing data quality as the route to cutting credit-approval turnaround to 48 hours. The bureau spans all eight union states with 321 data providers, about 48 million contracts and more than 20 million active borrowers. The figures are the operator's own and union-wide; nothing Benin-specific — coverage, dispute rate or the data-protection basis for the file — is held.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 

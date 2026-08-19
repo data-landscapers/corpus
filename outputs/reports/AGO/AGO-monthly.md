@@ -1,21 +1,23 @@
 ---
 title: Angola — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: AGO
-ledger_rows: 35
+ledger_rows: 37
 not_held: 7
-record: 1cc15347483d
+record: 17231fa0fdb7
 ---
 
 # Angola: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-A nine-day national mobile outage from 28 July dominated the month and tested an architecture that has decrees but no law. The incumbent's network went down at 02:20 and the mobile layer was [restored gradually to 30 July](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/), but the operator dates [the return of every service carried over it to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/); the state had [settled the sale of 15% of that operator the day before](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/). The kwanza [entered the regional settlement system on 27 July](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system). The law arrived at the end of the month: the National Assembly [adopted the cybersecurity bill on 12 August](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/), which is not yet promulgated.
+A nine-day national mobile outage from 28 July dominated the month and tested an architecture that has decrees but no law. The incumbent's network went down at 02:20 and the mobile layer was [restored gradually to 30 July](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/), but the operator dates [the return of every service carried over it to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/); the state had [settled the sale of 15% of that operator the day before](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/). The kwanza [entered the regional settlement system on 27 July](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system).
+
+The law arrived at the end of the month: the National Assembly [adopted the cybersecurity bill on 12 August](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/), which is not yet promulgated and which the opposition and part of civil society [object to over its data-access provisions](https://www.rfi.fr/fr/afrique/20260817-angola-la-loi-sur-la-cybersécurité-adoptée-par-le-parlement-fait-craindre-un-tour-de-vis-sécuritaire) a year before the presidential election. Two days later the President [authorised US$28m and opened tender for a national digital identity and electronic signatures platform](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) sized for 30 million identities.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -53,6 +55,8 @@ A logistics regulator communiqué of 27 July described a single window absorbing
 
 <!-- narrative: dpi--dpi-id -->
 On 28 July the justice ministry [launched an at-home service priced at Kz 250,000](https://angop.ao/noticias/politica/ministerio-da-justica-lanca-servico-de-tratamento-do-bi-ao-domicilio/) for processing and Kz 10,000 for delivery alone, in one province only, the minister justifying the fee as a product of exclusivity.
+
+The single digital identity, named as a workstream since 2024 and as [a component of the US$150m public digital infrastructure contract in June](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/), acquired a price and a procurement. [Despacho Presidencial 300/26 of 13 August authorised US$28m and opened the public tender](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) for a National Digital Identity and Electronic Signatures Platform, specified to support up to 30 million digital identities and to let citizens, firms and public officials use one digital credential for public services, digital contracts, electronic verification of customers and legally valid electronic signatures. No supplier, timetable, or relationship to the earlier contract is stated.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -93,7 +97,11 @@ Five days before that vote, the country's own delegation told a regional forum i
 
 The bill then passed. The National Assembly [adopted it on 12 August by 104 votes to 56](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/), the governing party for and the opposition against with no abstentions, on a text of presidential initiative directed at protecting networks, critical infrastructure and essential services through prevention, detection, incident response and restoration. The penalties are administrative and graduated: [seven to 70 minimum wages for individuals on the lightest infringements, rising to 500 for individuals and 4,000 for legal persons on the most serious](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/). No promulgation, gazette number or entry-into-force date is on file.
 
+What the vote settles and what it leaves open are different things. The law [requires telecommunications operators to transmit any communication whose content is criminal or prejudicial to state security](https://www.rfi.fr/fr/afrique/20260817-angola-la-loi-sur-la-cybersécurité-adoptée-par-le-parlement-fait-craindre-un-tour-de-vis-sécuritaire), and the opposition and part of civil society object that neither the qualifying content nor the circumstances in which a subscriber's personal data reaches the authorities is defined — a lawyer quoted in the same account gives the circulation of a call to demonstrate as an example that might qualify. The vote came a year before the presidential election, days after the online-falsehoods law entered into force, and weeks after the cyberattack on the incumbent operator that the governing party cited for it.
+
 The National Assembly [approved legislative authorisation 166 votes to nil on 30 July](https://www.opais.ao/politica/parlamento-aprova-autorizacao-legislativa-sobre-assinatura-electronica-com-166-votos-a-favor/) for the President to legislate an electronic-signature and digital-certification regime, valid 90 days after publication of the enabling law — so the regime defining an accrediting authority, a root certification entity and the evidential weight of a signature will be an executive instrument, grounded on the insufficiency of two 2011 texts.
+
+The national cybersecurity centre, whose statute was published in December 2025, is still described in the future tense by the minister responsible: on 10 August he [said it would be launched during 2026](https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430) to monitor digital threats, defend critical infrastructure and coordinate incident response.
 <!-- /narrative -->
 ### Data protection
 

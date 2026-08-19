@@ -1,16 +1,16 @@
 ---
 title: Gabon — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: GAB
-ledger_rows: 35
+ledger_rows: 37
 not_held: 27
-record: ee2adff73cfa
+record: e778d062039f
 ---
 
 # Gabon: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -25,7 +25,7 @@ The month's largest event was the entry into service of the Nkok data centre on 
 <!-- narrative: infrastructure--infra-connect -->
 On 27 July the Libreville seminar on space communications closed with eleven recommendations, confirming a hybrid fibre and satellite model on [2,000 km of fibre already deployed](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/).
 
-The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)).
+The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)). It [closed on 8 August with certificates presented after six days of peering, security and sovereignty training](https://agpgabon.ga/numerique-latelier-gabix-reboot-propulse-linterconnexion-locale-au-gabon/); AFRINIC called for a network of trained ambassadors to carry the skills into firms and administrations, and operator representatives named broader institutional buy-in as the task that remains. No participant number and no post-relaunch member count has been published.
 <!-- /narrative -->
 ### Data Storage
 
@@ -53,6 +53,8 @@ An audit that was signed in May reported in August. The state digital agency [de
 
 <!-- narrative: dpi--dpi-exchange -->
 The regional interoperable QR-code standard was launched at Douala on 29 July 2026 under the monetary union regulation of 8 April 2026, in force across all six member states and settled through the regional switch, with the Gabonese scheme as its pilot ([launch](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)). The switch's 2025 figures, presented the following day, were 20.3m transactions worth FCFA 863bn across 153 participants ([figures](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)). On 9 July the central bank acceded to the pan-African payment and settlement system, with member-state banks to be connected by the end of 2026 ([announcement](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
+
+A different kind of exchange went live in August. The airport-security committee [moved its advance passenger information and passenger-name-record system into its operational phase on 14 August](https://agpgabon.ga/gabon-transport-aerien-le-deploiement-du-systeme-api-pnr-entre-dans-sa-phase-operationnelle/), naming Royal Air Maroc lead carrier for IATA-code implementation under the state's convention with SECURIPORT, with border risk-screening the stated purpose. The convention terms, the retention rule for passenger data and any authorisation by the data-protection authority are not held — and the country's biometric-processing prohibition, with the defect already recorded in its derogation, sits alongside it unremarked.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -85,9 +87,11 @@ On 21 July an interministerial committee fixed the terms of a second census of e
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-On 11 July nine civil-society organisations declared the broadcasting authority's social-media suspension unconstitutional, disproportionate and beyond its statutory remit, and demanded its abrogation; they also stated that a bill regulating social media exists and awaits promulgation ([declaration](https://www.gabonreview.com/gabon-cinq-mois-de-silence-numerique-quand-le-remede-devient-le-poison/)). On 17 July the presidential spokesman defended the measure as temporary and conservatory and gave no lifting date. On 25 July an advocacy association presented a report built from two months of consultations, finding no transparent mechanism governing restriction of social networks and recommending revision of the ordinance of 8 April 2026 and greater independence for the broadcasting authority ([report](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/)).
+On 11 July nine civil-society organisations declared the broadcasting authority's social-media suspension unconstitutional, disproportionate and beyond its statutory remit, and demanded its abrogation; they also stated that a bill regulating social media exists and awaits promulgation ([declaration](https://www.gabonreview.com/gabon-cinq-mois-de-silence-numerique-quand-le-remede-devient-le-poison/)). On 17 July the presidential spokesman defended the measure as temporary and conservatory and gave no lifting date. On 25 July an advocacy association presented a report built from two months of consultations, finding no transparent mechanism governing restriction of social networks and recommending revision of the ordinance of 8 April 2026 and greater independence for the broadcasting authority ([report](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/)). On 13 August the national human-rights and democracy council took the opposite side of the same argument, [calling for judicial action against online outrage of the presidency and urging a CEMAC or continental legal framework for cyberspace modelled on the European Union's Digital Services Act](https://agpgabon.ga/gabon-outrage-au-chef-de-letat-la-cndpc-appelle-a-des-mesures-fortes-contre-les-derives-sur-les-reseaux-sociaux).
 
 On 23 July a national workshop validated by consensus five implementing texts on the digitalisation of teaching — two decrees, two orders and a decree creating a basic computing certificate — and forwarded them to the competent authorities with recommendations. They are technically validated and not adopted ([close of the workshop](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/)).
+
+The month's other legislative movement is procedural rather than expressive. A justice ministry commission [submitted a draft Code of Civil Procedure on 11 August](https://agpgabon.ga/gabon-lavant-projet-du-nouveau-code-de-procedure-civile-remis-au-ministre-de-la-justice), a rewrite of the 1977 ordinance running to more than 800 pages that would let procedural filings be made and held electronically, introduce secure digital tools, and harmonise with the OHADA uniform acts. Professional consultation and parliamentary debate are still ahead, and the draft text is not held.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -110,7 +114,7 @@ The suspension of social media has now run [about five months, the Presidency ca
 ### Innovation ecosystem
 
 <!-- narrative: ai-tech--tech-innovate -->
-The open-innovation programme was launched on 14 July 2026 with the employers' federation, addressing a population the organisers put at 150 to 200 start-ups, with pre-selection on 24 July and a final on 4 August ([launch](https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/)); no laureate list has followed the final.
+The open-innovation programme was launched on 14 July 2026 with the employers' federation, addressing a population the organisers put at 150 to 200 start-ups, with pre-selection on 24 July and a final on 4 August ([launch](https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/)). The final was postponed on 6 August after participating start-ups objected to how the edition was organised, and a [revised agenda published on 11 August](https://agpgabon.ga/gabon-numerique-kimba-connect-le-bilan-de-la-premiere-preselection-dresse/) runs pitches to 24 August and moves the final to late September or early October. The same account gives the programme's first participation figures: 155 registered start-ups, 133 of which submitted against its 16 published challenges, and 66 shortlisted. The figures are the organisers' own and no laureate list or selection criteria has been published.
 
 On 4 July, at the data-centre inauguration, the ministry and the facility's operator signed a memorandum giving ministry-supported start-ups professional hosting at preferential rates ([account](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). No rate, eligibility list or take-up figure has been published.
 <!-- /narrative -->

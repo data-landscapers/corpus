@@ -1,16 +1,16 @@
 ---
 title: Burundi — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: BDI
-ledger_rows: 23
+ledger_rows: 24
 not_held: 10
-record: db5f109a5ca7
+record: f8a6c0fd0696
 ---
 
 # Burundi: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -43,12 +43,19 @@ EAC central bank governors, meeting in July 2026 as the Monetary Affairs Committ
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Biometric civil registration is [operating in 13 pilot communes, decentralised to zone level and interoperable with health-facility birth and death records, with a national unique identifier planned on fingerprint and facial biometrics](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative). It is being built onto a base that already reaches most children: [84% of under-fives are registered at birth and 66% hold a birth certificate](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-l-etat-civil-se-numerise-pour-renforcer-l-identite-des-citoyens), cited by government on Africa Civil Registration Day. The gap between the two figures is the one the platform has to close.
+Biometric civil registration is [operating in 13 pilot communes, decentralised to zone level and interoperable with health-facility birth and death records, with a national unique identifier planned on fingerprint and facial biometrics](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative). The health-facility link is the part with numbers behind it: the interior ministry says it has been [piloted since 2023, institutionalised in 2024, and now runs in 123 health facilities where it has recorded more than 52,000 births](https://abpinfo.bi/2026/08/13/le-burundi-veut-construire-un-etat-plus-proche-des-citoyens-plus-efficace-et-inclusif/). No coverage denominator is given for either figure.
+
+It is being built onto a base that already reaches most children: [84% of under-fives are registered at birth and 66% hold a birth certificate](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-l-etat-civil-se-numerise-pour-renforcer-l-identite-des-citoyens), cited by government on Africa Civil Registration Day. The gap between the two figures is the one the platform has to close.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 The same EAC central bank governors [agreed to accelerate the East African Monetary Union roadmap and welcomed progress on the Regional Cross-Border Payment System Master Plan](https://www.rtnb.bi/?mypost?id=529). On their own account the plan's first activities are work plans and resource mobilisation — design, not deployment.
+<!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: dpi--dpi-mis -->
+The one new management system in the window sits outside the state's own stack. A [digital tool for tracking the institutional performance of Burundi's technical and vocational training centres in real time was validated on 7 August](https://burundi-eco.com/un-nouvel-outil-numerique-pour-moderniser-le-suivi-des-cem-et-cfp/), built by CREOP-Jeunes under the EU-backed Umwuga Akazi project. No deployment date, centre count or custodian ministry is stated, so what the tool will be attached to is not yet on the record.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

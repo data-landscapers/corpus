@@ -1,15 +1,15 @@
 ---
 title: Libya — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: LBY
-ledger_rows: 69
+ledger_rows: 73
 not_held: 7
-record: 610124fbbca5
+record: b0f0c52da492
 ---
 
 # Libya: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/LBY/ledger.csv` (69 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/LBY/ledger.csv` (73 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -117,11 +117,18 @@ The Interior Ministry recorded [135 cybercrime cases in the first quarter of 202
 | Unified national database of expatriate workers | [Planned](https://www.lananews.com/ar/?p=499082) | Agreed by the interior and labour ministries 2026-08-03 |
 | Unified Social Registry | [Planned](https://lana.gov.ly/post.php?lang=en&id=335111) | Draft approved by the Prime Minister 2025-06-23 |
 
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Sustainable Medical Supply Platform | [Piloting](https://libyaherald.com/2026/08/medical-supply-organisation-launches-pilot-sustainable-medical-supply-platform-to-transform-to-an-integrated-national-digital-system) | Pilot phase launched 2026-08-17 |
+
 ### Other GovTech and e-Gov
 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic Unified Export Window | [Implemented](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/) | LD 79.5m of exports processed April to July 2026 |
+| Exhibitions and Conferences Platform | [Implemented](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya) | Launched by the economy and trade minister in Tripoli, 2026-08-09 |
 | Libya Experts Forum registration platform | [In development](https://lana.gov.ly/post.php?id=362213&lang=en) | Application reported ready for launch 2026-07-23 |
 | LY-GOVREP government reporting platform | [Implemented](https://libyaherald.com/2026/04/government-reporting-platform-activated-as-a-unified-tool-for-monitoring-performance-and-measuring-achievement-levels-within-public-entities) | Activated as the unified performance-monitoring tool 2026-04-09 |
 | One-Stop Shop for company registration | [Planned](https://libyaherald.com/2026/02/one-stop-shop-system-for-company-registration-to-be-activated-again) | Reactivation meeting 2026-02-16 |
@@ -186,6 +193,7 @@ GIA positions [LY-NDEX as pillar infrastructure for inter-agency exchange](https
 |---|---|---|
 | Candidacy for the ITU Council | [Planned](https://lana.gov.ly/post.php?id=362348&lang=en) | Canvassed at the ATU plenipotentiary in Abuja 2026-07-26 |
 | Chair of the Arab working group on AI Data and Digital Infrastructure | [Implemented](https://www.businesstec.news/23334) | Allocation recorded by the Arab ministers' executive bureau 2026-08-01 |
+| Libya-Tunisia supreme audit cooperation roadmap | [Implemented](https://libyaobserver.ly/news/libya-tunisia-agree-roadmap-strengthen-audit-cooperation) | Roadmap signed in Amman 2026-08-15 on the margins of ARABOSAI's 50th anniversary |
 | OZON unified telecoms licence | [Implemented](https://libyareview.com/55614/ozon-company-to-operate-national-telecom-network-in-libya/) | Effective 2025-03-04 |
 
 ### Standards
@@ -207,6 +215,7 @@ GIA positions [LY-NDEX as pillar infrastructure for inter-agency exchange](https
 |---|---|---|
 | GIA Open Data Platform | [Implemented](https://www.gia.gov.ly/en/2026/02/16/the-general-authority-for-information-presents-its-vision-on-government-data-governance-during-a-cloud-computing-workshop) | Indicators covering 91 datasets (2026-02) |
 | National Committee for the Information for All Programme | [Implemented](https://technology.ly/en/ltf-supports-ifap-initiative/) | Established by Decision No. 50 of 2026; first meeting 2026-07-20 |
+| National digital mineral map | [Piloting](https://libyaherald.com/2026/08/minister-of-industry-and-minerals-launches-trial-version-of-digital-mineral-map-of-libya-contributing-to-attracting-investment) | Trial version launched at the industry and minerals ministry, 2026-08-12 |
 | Access-to-information statute | ***Not held*** | — |
 
 <!-- narrative: governance -->
