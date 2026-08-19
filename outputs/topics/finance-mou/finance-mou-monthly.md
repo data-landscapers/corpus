@@ -1,21 +1,23 @@
 ---
 title: MoUs and other agreements — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: finance.mou
-places: DZA; EGY; GAB; LSO; SYC; TZA; TGO; ZWE
-record: 6d5e8a7e2981
+places: DZA; COD; EGY; GAB; GHA; LSO; RWA; SYC; TZA; TGO; UGA; ZWE
+record: 22d5c95239c0
 ---
 
 # MoUs and other agreements: monthly update, July 2026
 
-*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
 On 26 July Algeria and Oman [discussed digital cooperation](https://www.echoroukonline.com/الجزائر-وسلطنة-عمان-تبحثان-تعزيز-التع) across artificial intelligence, data centres, fintech and space, with the Omani ministry and the Oman Investment Authority offering flexible partnership arrangements. No instrument was concluded at the meeting, so it stands as planned.
+
+## DR Congo
+
+The month's one signed arrangement puts a commercial bank inside the digital ministry's programme. The digital economy ministry and a commercial bank [signed a memorandum on 13 August to modernise the financial sector and accelerate banking inclusion](https://acp.cd/economie/numerique-signature-dun-protocole-daccord-sur-la-modernisation-de-lecosysteme-financier/), covering digital identity and artificial-intelligence integration under the 2019 national digital plan and the 2023 Digital Code. No term, value, workplan or data-protection provision is published — for an arrangement that names digital identity as in scope.
 
 ## Egypt
 
@@ -25,9 +27,17 @@ A professional services firm [signed a memorandum with the IT industry agency on
 
 On 14 July, alongside the open-innovation programme's launch, the state guarantee company signed a credit-guarantee accord to put in place guarantee mechanisms reducing the risk borne by institutions lending to innovative young firms ([account of both accords](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques)) — the first instrument in the base addressed to the cost of capital for Gabonese digital firms. Its terms were not published: no ceiling, coverage ratio, eligibility test, cost or duration, and it carries no envelope.
 
+## Ghana
+
+The country renewed the agreement under which several of its digital customs systems are financed. The [TradeMark Africa country programme memorandum was renewed on 14 August](https://thehighstreetjournal.com/ghana-trademark-africa-deal-targets-higher-exports-regional-market-access/), continuing trade-facilitation and continental-free-trade-readiness work, including digital customs systems at the Akanu-Noepe joint border post and support for more than 1,250 women and small-scale cross-border traders. No financing sum, term or workplan is stated — and the same border post is where a regional dialogue on identity-card and transit-system interoperability was held four days earlier.
+
 ## Lesotho
 
 The development-partner support named at the Blueprint workshop carries no amount; no appropriation, disbursement or training figure was published in the window.
+
+## Rwanda
+
+The month's one agreement is in capital markets. On 7 August the Capital Markets Authority [signed a memorandum with a Nigerian registrar company](https://radiotv10.rw/en/cma-rwanda-partners-with-nigerias-africa-prudential-to-advance-capital-markets-development/) to cooperate on registrar services, securities administration, investor identification, data management and digital capital-markets systems. It follows a study visit in June to that company's digital investor-services model — virtual shareholder meetings, electronic voting and mobile-based investment tracking. No term, value or workplan is published, and nothing in the account addresses the protection of the investor data the cooperation is about.
 
 ## Seychelles
 
@@ -40,6 +50,10 @@ Three external tracks opened in one week, none priced. On 17 July [cooperation f
 ## Togo
 
 The [indicative cooperation programme with Luxembourg for 2026-2031 is in force](https://www.togofirst.com/en/economic-governance/1607-19578-togo-luxembourg-sign-three-agreements-on-development-and-cybersecurity), carrying a digital transformation component inside a package of EUR 78,550,000. The two accounts held date the signing a day apart.
+
+## Uganda
+
+The month's one cross-border approach is exploratory. A ministerial delegation [visited the Ethiopian incumbent operator's headquarters in Addis Ababa on 13 August to explore cooperation on telecommunications infrastructure, digital payments, skills training and technology transfer](https://www.ecofinagency.com/news-digital/1308-48043-uganda-explores-digital-partnership-with-ethiopia-s-ethio-telecom), in support of the national vision and the 2023-2027 digital roadmap. No agreement was signed and no scope, value or timetable is stated.
 
 ## Zimbabwe
 

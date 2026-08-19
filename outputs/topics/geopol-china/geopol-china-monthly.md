@@ -1,15 +1,17 @@
 ---
 title: China activities — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: geopol.china
 places: CPV; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB
-record: ff51a7883cb6
+record: d3fae7f75d50
 ---
 
 # China activities: monthly update, July 2026
 
 *9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Cape Verde
 

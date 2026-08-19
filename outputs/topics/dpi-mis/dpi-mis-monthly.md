@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COD; EGY; ETH; GAB; KEN; LSO; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: a28a48ceda41
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COG; COD; EGY; ETH; GAB; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
+record: 01e8f51c221a
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -33,6 +33,10 @@ In the week of 13 July an [animal disease surveillance dashboard was launched, i
 
 A [pension acts platform was announced as the completion of the pension programme, joining the pension fund, the civil-service directorate and the budget directorate on a single pension file](https://www.laborpresse.net/retraite-des-agents-publics-du-burkina-faso-une-plateforme-ecarfo-dediee-aux-formalites/). No date, budget, vendor or scope is stated.
 
+## Burundi
+
+The one new management system in the window sits outside the state's own stack. A [digital tool for tracking the institutional performance of Burundi's technical and vocational training centres in real time was validated on 7 August](https://burundi-eco.com/un-nouvel-outil-numerique-pour-moderniser-le-suivi-des-cem-et-cfp/), built by CREOP-Jeunes under the EU-backed Umwuga Akazi project. No deployment date, centre count or custodian ministry is stated, so what the tool will be attached to is not yet on the record.
+
 ## Cameroon
 
 Health and education information systems both gained instruments and neither reports a deliverable. A [EUR 8m technical-assistance agreement over 36 months covers the education management information system, the basic-education ministry's mapping platform, interconnection of the education databases and dynamic dashboards](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base); the funder is not stated and the signature date is not published. The [national digital health strategic plan launched on 4 March with an envelope of about FCFA 29bn across eight axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/), and a [pandemic preparedness project was launched](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) with no deliverable reported.
@@ -44,6 +48,10 @@ The independent health regulator launched a pharmaceutical market monitoring sys
 ## Chad
 
 The education management information system is [in use in the higher-education ministry, whose statistics and digitalisation staff were trained between 20 and 25 July](https://www.unesco.org/fr/articles/le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc-pour-ameliorer-la) on questionnaire configuration, data-entry masks, extraction and database validation. No coverage figure or published output is held, and nothing at all is on file for the basic-education ministry. Electronic medical records and interconnection of health facilities remain [exploratory, discussed on a Washington mission with no contract, pilot or system named](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/).
+
+## Congo
+
+Health acquired equipment rather than a system. On 7 August the Global Fund and UNDP [handed over e-health equipment, a P2-level biosafety laboratory and a secure biomedical-waste management system at the Edith Lucie Bongo Ondimba hospital at Oyo](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/), for early disease detection, patient data management and health-service coordination. It is a single site; no value, system name, national rollout or interoperability with any other health system is stated, and it sits beside a civil-service payroll platform whose own operator has minuted three failure modes.
 
 ## DR Congo
 
@@ -61,6 +69,10 @@ A [livestock information system went live on 29 July](https://developmentgateway
 
 On 30 July the education ministry received 1,000 tablets for what the minister described as 148 connected schools ([handover](https://agpgabon.ga/gabon-remise-de-1-000-tablettes-au-ministere-de-leducation-nationale/)).
 
+## Guinea
+
+Health information systems here are being built by private operators rather than by the ministry. A Guinean academy's [Visa Medical hospital-digitisation model is deployed in 19 Guinean hospitals with more than a million users on a self-financed basis, and is being extended to Chad, the Democratic Republic of the Congo and Morocco](https://guineenews.org/2026/08/13/financer-la-digitalisation-des-hopitaux-sans-endetter-letat-le-pari-reussi-dune-healthtech-guineenne-devenue-panafricaine/). Separately, a Guinea-based physician's platform [coordinates blood donation and blood-bank logistics across West Africa](http://www.wearetech.africa/en/fils-uk/tech-stars/esdras-azanmassou-builds-a-connected-network-for-safer-blood-donation), founded in 2022 to stop units expiring at one facility while another is short. Both are private; the figures are their own, and neither account states a ministry relationship, a patient-data protection arrangement or any interoperability with the national health information system, which remains In development.
+
 ## Kenya
 
 Health claims authorisation failed at the counter through the month. A teachers' union raised on 30 July that members were [turned away and billed in cash](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) when the platform failed, one charged Ksh8,500 on 19 July; the Authority answered that the Digital Health Agency runs the system on its behalf.
@@ -70,6 +82,14 @@ An academic review published on 5 August put the child-protection case system on
 ## Lesotho
 
 UNICEF and the Global Partnership for Education [announced support on 23 July](https://techafricanews.com/2026/07/23/unicef-and-gpe-launch-learning-data-dashboard-to-improve-education-in-lesotho/) for a Foundational Literacy and Numeracy Dashboard consolidating Grades 1–3 performance, with tablets for principals in 300 project schools and solar power in 25 cluster learning spaces.
+
+## Liberia
+
+The month's clearest finding about a government system is that it does not exist. The General Auditing Commission found that a [digital lending platform built for the World Bank and IFAD-backed STAR-P project was still undelivered, with US$36,768 paid in full to a savings and loans institution for a system contractually due live by May 2025 and not deployed at the auditor's May 2026 field verification](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). The [same Management Letter, issued on 29 June 2026 for the audit period to 31 October 2025, found no functional project audit committee, a US$27,000 consultancy let without competitive procurement, and an agriculture commercialisation fund's reporting dashboard never formally handed over to the ministry](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). The platform is now recorded as ***Not held*** with a dated search behind it.
+
+## Libya
+
+The state importer of Libya's medicines opened its first digital supply system. On 17 August the Medical Supply Organisation [launched the pilot phase of a Sustainable Medical Supply Platform](https://libyaherald.com/2026/08/medical-supply-organisation-launches-pilot-sustainable-medical-supply-platform-to-transform-to-an-integrated-national-digital-system), developed with and implemented by NSR International for Information Technology, a subsidiary of the Libyan Foreign Investment Company, to manage pharmaceutical procurement, inventory and distribution toward a unified national medical-supply database. No cost, pilot scope or timetable is stated, and what the platform's artificial-intelligence component does is not described.
 
 ## Malawi
 
@@ -138,6 +158,8 @@ On 5 August the education ministry [launched an Education in Emergencies Managem
 ## Tanzania
 
 At the same exhibition the agency described a farmer-records and permits system and a fertiliser monitoring system, with no user counts, spend or timeline given.
+
+The state's own asset record is being enforced rather than built. The finance ministry is [tightening enforcement of the central electronic system for recording and monitoring public assets, citing a hydropower project at about TSh6tn and a railway at about TSh10.6tn](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/), with legal backing through amendments to the Public Finance Act and the Public Assets Management Regulations 2024. No count of assets recorded, entities complying or value reconciled is published, so the two named investments are cited as scale rather than as entries in the system.
 
 ## Tunisia
 

@@ -1,15 +1,15 @@
 ---
 title: Training and skills — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: capacity.training
-places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NGA; RWA; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 557879c9845c
+places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; RWA; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
+record: 43d46c13e5b4
 ---
 
 # Training and skills: monthly update, July 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -116,6 +116,10 @@ On 1 August recruitment opened for the first cohort of a [digital-skills program
 ## Mauritania
 
 The Ministry of Vocational Training [launched a digital-employability project on 23 July](https://www.ami.mr/archives/264918) financed by France's Fonds Équipe France and implemented by Simplon: 2,150 beneficiaries across six cities, about 2,000 of them young people, with a stated focus on women and people with disabilities. It succeeds a programme closed in 2025.
+
+## Mauritius
+
+The incumbent operator opened a national cybersecurity and artificial-intelligence awareness programme for secondary students with the education ministry, [starting on 13 August at the Mahatma Gandhi Institute with about 500 Grade 10 to Grade 12 students drawn from all four education zones](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), and free ten-hour AWS training on offer alongside. A [companion account of the same workshop](https://lexpress.mu/node/561500) describes its content as online risk and responsible use of new technologies. It is an operator-run programme rather than a curriculum change, and no full-year target, budget or evaluation is stated.
 
 ## Morocco
 

@@ -1,15 +1,15 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: finance.budget
-places: BFA; CPV; COG; ETH; GMB; GHA; KEN; MLI; MUS; MOZ; SDN; TUN
-record: d80fba0a6fbf
+places: BFA; CPV; COG; EGY; ETH; GMB; GHA; KEN; MLI; MUS; MOZ; SEN; SDN; TUN
+record: 3cb211eb5741
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, July 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ Parliament [approved the rectificative budget for 2026 on 31 July at CVE 103,888
 ## Congo
 
 Both chambers [adopted the rectifying finance law unanimously and unamended on 23 July](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726), lifting expenditure to FCFA 2,561.069bn against revenue of FCFA 2,778.016bn for a projected surplus of FCFA 216.947bn. [It rests on re-pricing the barrel at US$67 from US$60.3 with output held flat](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726); the first of its four objectives is consolidating public revenue through digitalisation, and no revised figure for the digital vote is published. It was adopted but not gazetted at the date of this issue.
+
+## Egypt
+
+The sector's own money was put before parliament. The planning minister told the House of Representatives that [EGP 13bn of public investment is allocated to the communications and information technology sector in the 2025/26 plan](https://moic.gov.eg/news/2134), against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing. It is a plan allocation rather than an outturn, and the base holds no execution figure against it — nor any published state digital appropriation, which is recorded as ***Not held***.
 
 ## Ethiopia
 
@@ -58,6 +62,10 @@ The 2026-2027 budget's tax and revenue measures as enacted are not held. Three f
 ## Mozambique
 
 The cyber security fund is [provided for in statute from 1 July, with state appropriations named among its revenue lines alongside a flat 1% levy on licensed cybersecurity providers](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244). No line for it appears in the [FY2026 state budget final maps](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais), which were set before the law was published, and the regulator has no capital allocation at all this year. The first budget in which such a line could be expected is FY2027.
+
+## Senegal
+
+The constraint on that deployment is money, and the agency said so itself. On 17 August its director-general said [the agency's 2026 budget had still not been notified](https://aps.sn/kaolack-lanec-accelere-la-digitalisation-de-letat-civil/), and named that as what is holding back the pace of the Kaolack phase — the deployment of the civil-status software and activation of the citizen request platform across Nioro, Ndiedieng and Kaolack between 10 and 20 August. The base holds no appropriation figure for the agency for 2026, which is recorded as a gap.
 
 ## Sudan
 

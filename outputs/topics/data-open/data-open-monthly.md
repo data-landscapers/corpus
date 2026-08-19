@@ -1,17 +1,15 @@
 ---
 title: Open data — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: data.open
-places: BEN; CMR; COG; DJI; GNQ; KEN; LBR; LBY; MDG; MAR; TUN; ZMB; ZWE
-record: 93d2f926f1ba
+places: BEN; CMR; COG; DJI; GNQ; KEN; LBR; LBY; MDG; MAR; NAM; TUN; ZMB; ZWE
+record: 47d4d8c31240
 ---
 
 # Open data: monthly update, July 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Benin
 
@@ -45,6 +43,8 @@ The telecoms regulator's chairman declined at a 30 July press briefing to disclo
 
 On 20 July the [National Committee for the Information for All Programme held its first meeting](https://technology.ly/en/ltf-supports-ifap-initiative/), established under Decision No. (50) of 2026 and chaired by the General Information Authority, taking a proposed roadmap, coordination mechanisms between national entities, and a mandate to represent Libya in regional and international forums.
 
+The month's one dataset is a trial. On 12 August the acting industry and minerals minister [launched the trial version of a national digital mineral map](https://libyaherald.com/2026/08/minister-of-industry-and-minerals-launches-trial-version-of-digital-mineral-map-of-libya-contributing-to-attracting-investment), built on an SQL database covering roughly 1,200 ore and mineral indicators with digital geological maps at 1:250,000, framed as a national information base for exploration, resource management and investment. No access terms, licence or publication date is stated, so it is not yet open data in any sense a reader could test.
+
 ## Madagascar
 
 Madagascar's open data is institution-specific and has no policy over it. The National Assembly runs a [read-only interface serving five parliamentary datasets as JSON and CSV under an open licence, rate-limited to 60 requests a minute, its counters reading 163 deputies, 45 texts and 128 sittings](https://parlement.mg/opendata/). Against that, a [general portal is a reachable landing page with six undated category tiles and four unlinked project cards, naming no issuing institution, dataset count or licence, and credited in its footer only to a private vendor](https://opendata.mg/); the finance ministry's own portal does not resolve. No whole-of-government open-data policy or mandate is held.
@@ -52,6 +52,10 @@ Madagascar's open data is institution-specific and has no policy over it. The Na
 ## Morocco
 
 The open-data portal is operating with four published procedure volumes — [manuals for open-data officers and data managers](https://data.gov.ma/sites/default/files/docs/Open_data_manuel_ROD_Avril%202021.pdf), a [data-inventory methodology](https://www.data.gov.ma/sites/default/files/2023-03/guide_inventaire_1.3_Fev.%202023.pdf) and a [standards and formats manual](https://www.data.gov.ma/sites/default/files/2025-01/Manuel_Standards_Donn%C3%A9es_Open_Data_1.1.pdf) — and published datasets including a [1,028-entry start-up database](https://data.gov.ma/data/dataset/donnees-sur-les-startups). A steering committee of ten bodies was established in December 2019 and a readiness assessment carried out in 2020, whose report remains unheld. The portal's own dataset count, publication statistics and action plan are not held either.
+
+## Namibia
+
+The environment ministry put a data platform where the country has no open-data policy at all. Its [Multilateral Environmental Agreements monitoring and reporting platform launched at N$12m in the week of 7 August](https://neweralive.na/ministry-unveils-n12-million-monitoring-website/), built with UNDP and funded by the Global Environment Facility under a land-governance project, to centralise environmental data for planning, decision-making and national reporting, with the national university as technical and academic partner. No public access, dataset list, licence or publication rule is stated, so on the record held it is a reporting tool rather than open data — and the access-to-information statute that would give a citizen a claim on any of it remains enacted and uncommenced.
 
 ## Tunisia
 

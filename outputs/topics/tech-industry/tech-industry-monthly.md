@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; LBR; MUS; NGA; RWA; ZAF; TGO; ZMB; ZWE
-record: e14b93dd34a4
+record: 15861dcdb5b7
 ---
 
 # ICT Industry: monthly update, July 2026
@@ -50,6 +50,8 @@ A group inaugurated its Middle East and Africa regional headquarters and first g
 Salvador Nguema Funtam took over at GITGE with a new deputy, the outcome of the July selection process.
 
 The consultancy AVANTE brought public institutions, banks and technology firms to the Hotel Anda China in Malabo on 22 July with the backing of the national development agency ANDGE. Panellists included the ministry's director-general for artificial intelligence, GITGE's technical director and BANGE's deputy head of digital and electronic banking.
+
+The base's first record of a national e-commerce platform arrived on 14 August, when the economy ministry and [SelBa24 met to organise the country's first e-commerce and digital-payments seminar-workshop](https://www.guineaecuatorialpress.com/noticias/ministerio_de_economia_y_selba24_impulsan_el_primer_seminario_sobre_comercio_electronico_y_pagos_digitales_en_guinea_ecuatorial), to run simultaneously in Malabo and Bata between September and October and to train SMEs, traders and farmers to open and run free online stores on the platform. Nothing about SelBa24 itself — its ownership, merchant count, transaction volume or launch date — is stated.
 
 ## Eswatini
 

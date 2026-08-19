@@ -1,15 +1,15 @@
 ---
 title: New investments — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: finance.new
-places: AGO; BEN; BFA; TCD; COG; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; STP; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE
-record: 45e86f496b43
+places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; STP; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE
+record: 3c4b02369e84
 ---
 
 # New investments: monthly update, July 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,12 @@ The digital transformation project [shows US$12,220,932 disbursed and three thou
 ## Congo
 
 The European phase of the transformation project, launched in June 2025 with [EUR 36.3m of loan and FCFA 10bn of grant committed](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1), made its first named procurement in July — the same 24-month cybersecurity mission — with no procurement held before now.
+
+## Cote d'Ivoire
+
+The month's one new financing commitment is large and thinly documented. The government has [authorised a United States technology firm to carry out a set of projects strengthening national digital infrastructure, the whole estimated at US$170m, about FCFA 95bn](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/). No signed contract, financing instrument, component list, timetable or procurement route is held for it, and it [sits beside the same firm's US$170m data-centre and border-surveillance package announced from Washington in July](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/), which the record does not distinguish from it.
+
+The African Development Bank's e-government programme is meanwhile the [route by which several of the ministry's digital projects reach the market, through open tenders and calls for expressions of interest](https://digitalmag.ci/services-publics-financements-bad-des-projets-numeriques-en-cote-divoire-appels-doffres-et-avis-a-manifestation-dinteret/), with the winners of the two 30-company support programmes among the intended bidders. No award, value or project list is published.
 
 ## DR Congo
 
@@ -130,3 +136,5 @@ External money made a smaller and vaguer offer. On 11 August the United Kingdom 
 The ICT minister also committed on 29 July to ring-fencing a share of the universal services fund for public-good artificial-intelligence projects, stating no amount ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
 
 Two external commitments arrived in August, and only one of them has a number attached to Zimbabwe. A United Nations contract award of 10 August [puts US$5,947,948 into the supply of ICT equipment to the country](https://www.ungm.org/Public/ContractAward/158535) — an exact figure against a purpose stated as nothing more than ICT equipment, with neither the receiving government body nor the awarded vendor named. The United Kingdom separately [opened expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m to March 2030](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), naming Zimbabwe and Zambia as its first year's focus with South Africa the primary one. No Zimbabwean allocation is stated and no delivery consortium has been chosen.
+
+A third is a conversation. The President met a delegation from an emirate government and a technology company at State House on 8 August to [explore a digitisation partnership for aviation and border security](https://positiveeyenews.co.zw/2026/08/08/zimbabwe-fujairah-explore-digital-security-partnership-to-modernise-border-systems/), aimed at modernising immigration and border-management systems. Talks only, and no instrument, value, scope or data-protection provision is stated for systems that would process traveller data.

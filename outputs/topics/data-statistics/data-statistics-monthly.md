@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: data.statistics
 places: AGO; BEN; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SSD; TUN; UGA; ZWE
-record: cfc984816129
+record: e6f3f6632f22
 ---
 
 # National statistics: monthly update, July 2026
@@ -32,6 +32,10 @@ The statistical record produced the month's other development, and it was an abs
 ## Central African Republic
 
 The statistics institute [deployed enumerator teams nationwide on 20 July, opening six months of collection across about 7,000 households in three two-month waves, entirely by tablet](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques), with a public commitment to statistical secrecy and aggregates only. The field period ends around January 2027; no results date is stated and no prior harmonised survey is held.
+
+Two further statistical operations surfaced in August, both financed by the World Bank. The [third data-cleaning phase of the fourth population and housing census was presented on 6 August](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement), a step toward definitive results from the country's first digital census; cleaning has been running since May 2026, under the HISWACA-SOP2 project with UNFPA as technical partner. No enumeration total or publication date is stated.
+
+The institute also [released the aide-mémoire on rebasing the national accounts to 2019 under SCN 2008](https://www.icasees.org/index.php/actualites/399-icasees-publication-de-laide-memoire-sur-les-travaux-de-rebasage-du-pib-base-2019-selon-le-scn-2008), moving off a 2005 base built on SCN 1993 and drawing on the 2021 agriculture and household living-conditions surveys to widen coverage of agriculture, household consumption, self-build, imputed rent and informal activity. The peer review it records was held in February 2023; what is new is its publication, and the record states no rebased GDP level.
 
 ## Chad
 

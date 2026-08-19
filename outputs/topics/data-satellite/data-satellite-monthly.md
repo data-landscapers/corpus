@@ -1,21 +1,23 @@
 ---
 title: Use of satellite data — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: data.satellite
-places: AGO; EGY; GHA; LBY; NAM; NER; RWA; SYC; SLE; ZMB
-record: 1225b10dd262
+places: AGO; COG; EGY; GHA; LBR; LBY; NAM; NER; RWA; SYC; SLE; ZMB
+record: 1a4d4e5d315c
 ---
 
 # Use of satellite data: monthly update, July 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
 The regulator had licensed a first private reseller of national satellite capacity on 2 July, following 37 firms entering the commercial process by April.
+
+## Congo
+
+The national mapping institute began putting its own holdings into a usable form. On 11 August it [signed a framework partnership with a local non-governmental organisation to digitise, secure and disseminate its geospatial and cartographic data](https://www.adiac-congo.com/content/transformation-numerique-lign-et-long-pratic-unissent-leurs-expertises-171185), building a shared platform for public, institutional and research access. It is a framework agreement rather than a delivered platform: no term, funding, licence or access rule is stated, and nothing says what is currently held or in what form.
 
 ## Egypt
 
@@ -24,6 +26,10 @@ A [trilateral memorandum with Japan's land and agriculture ministries](https://w
 ## Ghana
 
 Two satellite-derived systems were [named as live deployments at a university lecture reported on 10 August](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/): an agricultural information and monitoring system, and a national forest monitoring system paired with a deforestation tracker built toward European deforestation-regulation compliance for cocoa and gold supply chains. Both are named by their builder, and no coverage, accuracy, user or funding figure is published for either.
+
+## Liberia
+
+The Land Authority took the country's geospatial ambition abroad rather than to a budget. At the United Nations' sixteenth global geospatial information management session in August it [sought international partnerships and technical support to build a National Spatial Data Infrastructure](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) — a coordinated geospatial framework for land administration, mapping and national planning. It is an approach for support rather than a programme: no funding, custodian, standard or timetable is stated, and the base still holds no earth-observation or geospatial data programme of any kind.
 
 ## Libya
 

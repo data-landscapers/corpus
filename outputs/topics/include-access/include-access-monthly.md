@@ -1,17 +1,15 @@
 ---
 title: Access to services — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: include.access
-places: AGO; BFA; BDI; CIV; COD; EGY; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bf5eda2f75c1
+places: AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 7f95bf6dc5f6
 ---
 
 # Access to services: monthly update, July 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -36,6 +34,12 @@ On 23 July a state bank and the payroll monitoring committee settled the technic
 ## Egypt
 
 The month's clearest inclusion move was a reopening rather than an extension. From 24 July the state accepted ration-card grievance and data-update forms at 500 post offices on Friday afternoons and Saturday mornings, alongside the online route that had until then been the only channel for appeals against the 2026 eligibility criteria, with a daily adjudication committee, results notified by text message and every case checked against official databases.
+
+## Eswatini
+
+The country's second innovation hub opened at [Macetjeni in the Lubombo region on 7 August, extending digital-skills and small-business support to a rural community](https://times.co.sz/41030/news/empowering-lubombo-macetjeni-ihub-officially-launched/), built by the small enterprise development company with the communications commission and UNDP under a youth empowerment programme, and following the Piggs Peak hub of 2025. No financing figure was disclosed for the facility, and no user, training or enterprise-support count is published for either.
+
+What firms say they need is not more hubs but a network that stays up. At a Mbabane panel on 7 August, logistics, renewable-energy and creator-economy speakers [argued that unreliable connectivity is now a direct cost to business, outweighing any saving from cheaper data](https://independentnews.co.sz/47133/business/reliable-connectivity-now-critical-for-business-growth/), describing real-time fleet tracking, remote solar-system monitoring and social-platform market access as core to operations, and urged investment in rural connectivity to widen economic participation. It is a panel of interested parties, and the base holds no reliability series to test it against.
 
 ## Ethiopia
 
@@ -69,6 +73,10 @@ On 5 August a Central Bank source told Libya Herald that cash distribution to co
 
 The month's only market measurement came from an operator: MVola's director general put the whole Malagasy mobile-money market at [six to seven million active users against a population of about thirty million, with rural areas under-served](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html), and set doubling or tripling that as the five-to-ten-year test.
 
+## Mali
+
+The month's one measure of what connectivity costs a Malian is a comparison with the neighbour. About [1.5GB of mobile data in Bamako buys what 25GB buys in Dakar](https://theafricantribune.info/malis-telecom-costs-surge-while-senegal-thrives-in-data-affordability/) — a ratio of roughly 25 to 1, which critics attribute to weak market oversight by the regulator, the duopoly of the two incumbent operators, and the years since a new operator licence was issued. It is a press comparison rather than a regulator or operator tariff series, and neither the basket nor the date of the prices compared is stated; taken at its own weight it still sits awkwardly against the digital-sovereignty case the same month's fora were built around.
+
 ## Morocco
 
 An operator's sustainability report published on 10 July recorded 6,000 internet boxes refurbished in Morocco during 2025, which the operator put at about EUR 1.5m in savings, within a regional programme that refurbished 164,000 boxes in 2025, up 43% on 2024 ([operator report](https://www.wearetech.africa/fr/fils/actualites/telecom/orange-a-reconditionne-164-000-box-internet-en-2025-en-afrique-et-au-moyen-orient)). The figures are the operator's own and unaudited in the held source.
@@ -77,9 +85,15 @@ An operator's sustainability report published on 10 July recorded 6,000 internet
 
 The central bank's Financial Inclusion Report 2025, reported on 24 July, counted 482,359 financial access points, up 36% on 2024, of which 446,604 were non-bank agents against 315,005 the year before, while automated teller machines fell from 1,391 to 1,383 and card terminals from 35,486 to 32,236 ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). [Mobile money reached 1,313 accounts per thousand adults against 337 bank accounts, and the national Financial Inclusion Index held flat at 36.4 points](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/). [Agent growth was fastest in the least-served provinces, and the report set that against a widening credit gap: women's participation in credit rose from 31% to 34% while men's rose from 59% to 66%, even as women's mobile money holding rose 24%](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/).
 
+August added the price side of the same picture. A standard data package [fell from 9.4% of monthly gross national income per head in 2022 to 2.67% in March 2026](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/), on World Bank Digital Acceleration Project figures released with the coverage map. The basket behind the standard package is not defined in the record held.
+
+What none of these measures reaches is what the money does. A study of 900 households published on 7 August finds that [mobile money improves household welfare through active use rather than account ownership, reducing reliance on own food production and strengthening resilience through remittances, with women gaining financial autonomy and young people using it to stabilise consumption](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0343349). It is a single academic study of a sample, not a national series, and it is the only evidence of outcome the base holds against the access counts above.
+
 ## Namibia
 
 The central bank's deputy governor told the payments association's annual general meeting on 28 July that financial inclusion rose from 78% in 2017 to 86% in 2025, and named continued cash reliance, limited rural access, informal-sector barriers and the digital divide as the persistent constraints ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
+
+Education added a channel built for the same margins. The education ministry and UNICEF [launched a Namibia Learning Passport, a digital and offline learning platform aimed at rural, remote and underserved young people](https://informante.web.na/?p=399266), at the international youth day event in Keetmanshoop. No user target, content catalogue, device requirement or offline distribution route is stated — which matters most for the platform's stated audience, since parliamentary evidence in the same window put schools and clinics in Kavango West as substantially cut off from reliable internet.
 
 ## Niger
 
@@ -101,6 +115,10 @@ Formal financial access was reported at [96% of adults in 2024 against 48% in 20
 
 An [advanced-level digital course for blind and partially sighted people opened on 6 July](https://www.seneweb.com/fr/news/Technologie/informatique-et-intelligence-artificielle-un-programme-pour-renforcer-lemployabilite-des-non-voyants_n_497443.html), on a programme reporting 700 people and twenty trainers trained since its launch. The launch date is not stated, so the cumulative figure has no start point.
 
+## Seychelles
+
+The same survey puts a number on demand for open government, which the Access to Information Act reform has been drafted against since November 2025 without a Bill reaching Parliament. [62% say the public should have access to government information, against 25% who say it is for officials only](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/); support is strongest where the information is fiscal — [84% for district-administration budgets and 82% for bids and contracts on government projects](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) — and falls to 47% for the salaries of district administrators and teachers.
+
 ## Sierra Leone
 
 Financial inclusion is put at [about 40% of adults for 2025](https://thefintechtimes.com/rebuilding-financial-services-through-fintech-in-sierra-leone/). It is a named analyst's assessment rather than an official series, and the base holds no state measurement to set beside it.
@@ -108,6 +126,8 @@ Financial inclusion is put at [about 40% of adults for 2025](https://thefintecht
 ## South Africa
 
 The South African Social Security Agency [set 350,000 grant reviews for 2026/27](https://www.sundaytimes.timeslive.co.za/news/2026-07-21-government-to-review-350000-social-grants-in-bid-to-save-r15bn-and-curb-fraud/) against a projected R1.5bn saving, while beneficiaries flagged from September 2025 [reported continued non-payment](https://www.timeslive.co.za/news/south-africa/2026-07-30-sassa-fraud-crackdown-delays-payments-for-thousands/). An account of the digitalised grants system published on 25 July set out the [bank-account means test applied across eight grants](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/), which remains in operation under appeal, with the Supreme Court of Appeal hearing set for 25 August 2026. Gold Cards were confirmed to [cease functioning after 31 August](https://iol.co.za/thepost/news/2026-07-24-deadline-looms-your-sassa-gold-cards-will-no-longer-work-after-august-31/); the position of beneficiaries who miss the deadline was not stated.
+
+One cooperation arrangement addressed a group the grants system serves and the data rarely describes. South Africa and China [agreed a seven-point plan on disability-inclusive data, universal design and artificial-intelligence-enabled assistive technology](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion), anchored in a proposed centre of excellence working with the national statistics office. No instrument, funding, timetable or data-sharing arrangement is published for cooperation that names the statistics office as a partner.
 
 ## South Sudan
 
@@ -131,6 +151,8 @@ At a readiness inspection on 27 July, [six of nineteen planned one-stop service 
 
 An [ICT hub for persons with disabilities was commissioned in Kasese](https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills), reported on 1 August, offering computer literacy, vocational skills and digital-empowerment programmes and open to the wider community. No commitment value was published, so the base carries no finance record for it.
 
+The commercial route to a connected device is credit. Buy-now-pay-later schemes run by five providers [put smartphones in the hands of more than 500,000 Ugandans in a year, against about 22% of Ugandans using mobile internet despite 96% network coverage, with financed devices costing 30 to 50% more than the cash price](https://pctechmag.com/2026/08/can-device-financing-solve-the-problem-of-smartphone-penetration/). It is a trade analysis rather than a regulator series, and no default, repossession or total-cost-of-credit figure is published for the schemes.
+
 ## Zambia
 
 The same 27 July account puts financial inclusion at 80.1% of adults in 2025, with mobile money use at 76.2% ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)).
@@ -140,3 +162,5 @@ The same 27 July account puts financial inclusion at 80.1% of adults in 2025, wi
 The health minister told the National Assembly on 17 July that more than 400 health facilities had received satellite kits with 300 more to be added, but that subscriptions had not been paid because the fees were too high ([National Assembly account](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription)).
 
 At a payments conference on 24 July a research firm reported that 95% of transport payments remain cash, that 56% of respondents found digital systems complicated with people with disabilities particularly affected ([conference account](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/)).
+
+A media institute's August review sets the country's headline connectivity figure against what it costs. It records [internet penetration at 84.55% on the regulator's fourth-quarter 2025 data, many households spending more than 10% of income to be online against the United Nations' 2% benchmark, and only 62% of the population with reliable electricity](https://zimbabwe.misa.org/2026/08/16/internet-affordability-and-access-in-zimbabwe/), and asks whether the 2026-2030 artificial-intelligence strategy can be delivered on those foundations. The penetration figure counts active subscriptions rather than individual users, which is the gap the affordability finding sits in.

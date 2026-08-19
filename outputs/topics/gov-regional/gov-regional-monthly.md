@@ -1,15 +1,15 @@
 ---
 title: Regional collaboration — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: gov.regional
-places: DZA; BEN; BWA; BDI; CAF; COM; COG; EGY; GNQ; GAB; GMB; GHA; GNB; LBR; LBY; MWI; MLI; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; TUN; UGA; ZMB; ZWE
-record: b02155524ca2
+places: DZA; BEN; BWA; BDI; CAF; COM; COG; EGY; GNQ; GAB; GMB; GHA; GNB; LBR; LBY; MDG; MWI; MLI; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
+record: 7cfccec81c76
 ---
 
 # Regional collaboration: monthly update, July 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -25,7 +25,7 @@ Benin [co-leads a six-country francophone West African framework on artificial-i
 
 ## Botswana
 
-An [ICT memorandum with Namibia was announced for signature at Kasane on 6 August](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/), extending existing roaming and submarine-cable transit cooperation to digital transformation, emerging technologies and cybersecurity. No term, funding, named workstream or data-governance provision is published, and no signed instrument or joint communiqué is held — the account is a trade outlet's report of a ministry statement.
+The [ICT memorandum with Namibia was signed at Kasane on 7 August](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement) between the two ICT ministries, with their operators and regulators present, covering digital transformation, cybersecurity, connectivity and skills development. It had been [announced for signature the day before](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/) as an extension of existing roaming and submarine-cable transit cooperation. The signed instrument itself is not held, and no term, funding or data-governance provision is published; what the two sides did publish alongside it is operational, and is recorded under connectivity below.
 
 ## Burundi
 
@@ -77,6 +77,12 @@ On 26 July a delegation from the communications authority [attended the African 
 
 On 1 August the executive bureau of the Council of Arab Ministers of Communications and Information, meeting in Tunisia, [recorded Libya as chair of the Arab working group on AI Data and Digital Infrastructure](https://www.businesstec.news/23334), one of six groups under the Arab Permanent Committee on Artificial Intelligence and Emerging Technologies.
 
+On 15 August, on the margins of ARABOSAI's fiftieth-anniversary ceremony in Amman, Libya's Audit Bureau and Tunisia's Court of Auditors [signed a roadmap to activate an existing cooperation agreement](https://libyaobserver.ly/news/libya-tunisia-agree-roadmap-strengthen-audit-cooperation), covering exchange of expertise, capacity building, development of digital systems and solutions, and cooperation on artificial intelligence and its governance. No phase dates, budget or workplan is published.
+
+## Madagascar
+
+Madagascar attached itself to three external arrangements in twelve days, none of which it wrote. The Council of Ministers [approved joining a China-initiated international network against cybercrime on 4 August](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/), mobilising the foreign affairs, justice, public-security, digital-development and gendarmerie ministries for cross-border cooperation on online fraud; no founding text, membership list, data-sharing rule or safeguard on what is exchanged is held. Around 15 August it also [signed the United Nations Convention against Cybercrime and joined the World AI Cooperation Organization](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the account citing Interpol findings that artificial-intelligence-enabled fraud is outpacing African states' response capacity. An [editorial the same week](https://newsmada.com/2026/08/13/quand-larnaque-passe-par-lecran/) frames the turn toward Beijing on fraud as inseparable from the country's digital-transformation and investment ambitions. None of the three is evidenced by an instrument the base holds, and the country still has no national artificial-intelligence strategy of its own.
+
 ## Malawi
 
 The regulator and UNDP [named priorities in exploratory discussions — national identity integration with SIM verification, responsible artificial intelligence, stronger data protection and secondary-school digital skills drawing on the universal service fund](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). No memorandum, funding figure or timetable is stated.
@@ -97,7 +103,9 @@ Cabinet approved a memorandum on information technology cooperation with the Rep
 
 Namibia joined four other governments as a founding partner of a pan-African African-language artificial-intelligence initiative launched at a continental telecommunications conference in Abuja on 24 July ([launch account](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/)). Namibia's stated commitment is ministerial support rather than a named contribution, and the ICT minister is one of eight Africans on a 44-member international commission ([conference account](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/)).
 
-A memorandum with Botswana was [announced for signature by the two ICT ministers on 6 August at Kasane](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/), extending cooperation that already covers reduced cross-border roaming charges and Namibian transit to submarine cable capacity into digital transformation, emerging technologies and cybersecurity. No term, funding, named workstream or data-governance provision is published, and the base holds the announcement rather than a signature.
+The memorandum with Botswana was signed. The two ICT ministries, with their operators and regulators, [signed at Kasane on 7 August, covering digital transformation, cybersecurity, connectivity and skills development](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement), and published operational detail alongside it: [the Trans-Kalahari Corridor's remaining 4G gaps costed at about N$52 million across 13 new sites, and the Gobabis-Buitepos fibre link completed and interconnecting with the Botswana backbone company at Charles Hill](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) — the first direct cross-border fibre link between the two operators — with the two incident-response teams said to be deepening cooperation. The signed instrument itself is not held, and no term, funding or data-governance provision is published.
+
+India is the other bilateral track. At the [fourth joint trade committee in New Delhi on 12 August the two governments advanced cybersecurity and digital-economy cooperation](https://cajnewsafrica.com/2026/08/12/namibia-solidifies-cybersecurity-digital-ties-with-india/), building on a memorandum the two heads of government signed in July 2025 and against bilateral trade put at more than US$592m in 2025/26. That memorandum's text is not held either.
 
 ## Niger
 
@@ -129,6 +137,14 @@ Regionally, Senegal became [one of 29 founding states of an intergovernmental AI
 
 The connection to the Pan-African Payment and Settlement System is [a target for before the end of 2026 rather than a concluded arrangement](https://www.hiiraan.com/news4/2026/Jul/205808/somalia_to_expand_instant_payment_system_linking_banks_and_mobile_money_platform.aspx).
 
+## South Sudan
+
+The one regional move in the window is a pledge without a workplan. On 12 August the minister [visited the African Telecommunications Union's Nairobi headquarters and pledged deeper collaboration on infrastructure, capacity building and standardisation](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building). No workplan, contribution or membership status is stated, and it sits alongside the payment-system bill validated the same month with East African Community and Bank of Uganda backing — the substantive regional support in this record runs through that bill rather than through the union.
+
+## Togo
+
+The corridor the country sits on is the subject of the month's regional work. A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to accelerate free movement along the Abidjan-Lagos corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu). No deployment figure, timetable or data-protection arrangement for the shared border and transit data is stated, and the reaffirmation is of commitments the base has held for some time rather than of anything newly delivered.
+
 ## Tunisia
 
 Tunisia took a [2027-2030 seat on the African Telecommunications Union's administrative council on 24 July 2026](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071), giving it a vote on continental direction across digital transformation, artificial intelligence and cybersecurity. What it intends to press for is not reported.
@@ -146,3 +162,5 @@ A [Zambian was elected Secretary-General of the African Telecommunications Union
 ## Zimbabwe
 
 A Rwandan immigration delegation toured two border posts on 29 July under a 2024 bilateral memorandum ([visit account](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/)).
+
+Harare then hosted the regional attempt to write common rules for the thing all these systems run on. Southern African regulators, data-protection authorities and artificial-intelligence task forces [met for a three-day workshop to harmonise national data-governance rules](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), anchored to the African Union data policy framework, a continental data governance blueprint, the regional data strategy and a UNESCO toolkit, with the convening body noting that only 1% of data-centre capacity sits within Africa. No outcome document, commitment or timetable from it is held.

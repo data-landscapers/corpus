@@ -1,15 +1,15 @@
 ---
 title: Public debate and participation in policymaking — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: gov.discourse
-places: BEN; BFA; BDI; TCD; CIV; COD; EGY; GAB; GIN; LBR; MLI; MUS; RWA; STP; SEN; UGA; ZMB
-record: 0d064d79f2ac
+places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; GAB; GHA; GIN; LBR; MLI; MUS; RWA; STP; SEN; SYC; TGO; UGA; ZMB
+record: 766c2a2ccddf
 ---
 
 # Public debate and participation in policymaking: monthly update, July 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ The same organic law creating the merged communications and data-protection auth
 ## Burundi
 
 ABUCO's [same 28 July statement](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) proposed a convening — états généraux bringing public authorities, operators, regulators and consumer organisations into one forum — as its remedy, the only instrument a consumer body can reach for; no response from government or operators is on file, and no convening date is stated.
+
+## Cameroon
+
+The state set itself a public venue for the question its record does not answer. The posts and telecommunications ministry is [hosting the 2026 national Internet Governance Forum in Yaounde from 18 to 20 August](https://afriqueitnews.com/crypto-et-web3/cameroun-fgi-2026-place-donnee-coeur-futurs-services-publics-numeriques/), on the theme of moving from fragmentation to interoperability and positioning data as the foundation of interoperable digital public infrastructure, with a plenary on a possible national data-governance strategic framework. The base holds no government interoperability layer and no data-governance framework, so the plenary's subject is an absence rather than an instrument. What is held is a preview: no programme document, participant list or prior edition, and no outcome.
 
 ## Chad
 
@@ -45,6 +49,12 @@ Two administrative reforms are stated and neither is dated. The head of the Coun
 
 The suspension of social media has now run [about five months, the Presidency calling it temporary and conservatory](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/), with no lifting date given. [Nine civil-society organisations call it unconstitutional and beyond the authority's remit and demand abrogation](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/). The decision's text is not held; its February start is inferred from a five-month count and, independently, from an operator's half-year filing, so the date carries month precision only.
 
+## Ghana
+
+The statistical service put a number on what digitisation is being asked to fix. Its governance series records citizens reporting demands for unofficial payments [rising from 51% in the first half of 2025 to 69% in the second](https://asaaseradio.com/gss-calls-for-digitalisation-fee-transparency-to-curb-rising-bribe-demands/), and the service names digitalisation, fee transparency and public education as its response, citing a marked fall in bribery at the passport office after digitisation and saying the Office of the Chief of Staff has directed the ten institutions the series flagged as high-risk to report back on remediation. The passport-office comparison is asserted without a before-and-after figure, and the series measures reported demands rather than cases proven.
+
+The same week the ministry took the governance argument outward and inward at once: it [convened an Accra workshop with a policy-monitoring organisation and a trade endowment on digital governance, regulatory coordination and international digital-trade engagement](https://www.linkedin.com/posts/ministry-of-communication-digital-technology-and-innovations-b4a9b7256_mocdti-partners-digital-policy-alert-to-strengthen-activity-7491943506979250176-6l2o), framed against the national artificial-intelligence strategy, the coders programme and the continental digital trade protocol; and its deputy minister [urged information-management professionals to secure and better manage government data as artificial-intelligence use grows](https://asaaseradio.com/govt-strengthens-public-data-management-amid-rising-ai-use/). Neither produces an instrument, and the national data strategy has been In development since 2024.
+
 ## Guinea
 
 Neither the regulator ARPT, the operators nor the internet service providers issued an explanation for the social-media restriction. The precedent is on the record rather than inferred: under the post-coup transition a government spokesman owned a three-month digital cut and said that in Guinea the internet is not a right.
@@ -53,6 +63,8 @@ Neither the regulator ARPT, the operators nor the internet service providers iss
 
 On 30 July the Anti-Corruption Commission [confirmed it had forwarded a complaint about the telecoms traffic-monitoring arrangement to its investigation unit](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html). No evidence has been publicly produced and no findings made.
 
+The month's one channel built to hear from the public rather than about it was relaunched by donors. UNICEF and UNFPA [relaunched the U-Report youth feedback platform on 13 August](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/), with Irish embassy support and under a joint programme with the government, giving young people an encrypted SMS channel to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters. The channel runs on one operator's SIM cards, which bounds who can take part.
+
 ## Mali
 
 The same 3 August the cybercrime pole [sentenced Chahana Takiou to 12 months with six suspended](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac) on a charge of undermining the credit of the state through the judicial institution, over remarks at a Bamako media forum in June 2026 arguing that journalists should be tried under press-offence law.
@@ -60,6 +72,8 @@ The same 3 August the cybercrime pole [sentenced Chahana Takiou to 12 months wit
 ## Mauritius
 
 The month's sharpest domestic contribution was an argument about priority. A [named analyst published on 2 August](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867) the case that contract enforcement rather than technology limits growth, citing the World Bank's 2025 indicators — 42.2 on ease of commercial dispute resolution against Singapore's 73.3 — and more than 70,000 cases pending at end-2025. Its digital prescription is digitalised case management alongside a small-claims process. Analysis, not evidence.
+
+The month's other forum was external in origin. At the national Internet Governance Forum, founded by the Halley Movement, the [Blockchain for Good Alliance and the exchange Bybit met the Vice President and the ICT minister](https://www.newswire.ca/news-releases/blockchain-for-good-alliance-and-bybit-join-the-mauritius-internet-governance-forum-to-advance-digital-trust-for-small-island-states-812258483.html) to discuss artificial intelligence, cybersecurity and digital-trust frameworks for small island developing states. The record held is the visiting alliance's own press release; no forum programme, outcome document or attendance figure is held.
 
 ## Rwanda
 
@@ -72,6 +86,16 @@ The internet governance forum convened in Kigali on 30 July under the domain reg
 ## Senegal
 
 A ministry legal adviser stated that the state has [worked on social-media regulation since 2024](https://lesoleil.sn/actualites/technologie/reseaux-sociaux-et-intelligence-artificielle-luniversite-cheikh-ahmadoul-khadim-ucak-au-chevet-des-defis-communautaires-lies-au-numerique/) with no bill or timetable named.
+
+## Seychelles
+
+[Parliament amended the Seychelles Broadcasting Corporation Act in June 2026](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/), transferring greater power over the appointment and dismissal of the public broadcaster's board from the independent Constitutional Appointments Authority to the President. The base holds no primary text of the amendment; what it holds is Afrobarometer's August dispatch, which reports it citing Broadcast Media Africa and the International Press Institute, and sets it against the survey it was publishing.
+
+That survey, fielded in 2025, finds [45% of Seychellois calling the media somewhat or completely free, down from 51% in 2022, with 52% saying it is not very or not at all free](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) — a decline recorded on a media environment that Reporters Without Borders ranked 35th globally in 2026, up ten places. Appetite for oversight is not in doubt: [78% want the media to investigate government mistakes and corruption constantly, and 85% back the right to publish without government interference](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/).
+
+## Togo
+
+The regulator spent August on the road rather than on rules. Its [seventh national consumer-sensitisation tour ran from 3 to 28 August with consumer associations and operators](https://atop.tg/bassar-telecommunications-les-consommateurs-sensibilises-sur-leurs-droits-et-obligations/), briefing operators and association leaders on electronic-communications rights and, at Bassar, on preventing mobile-money fraud. At the Kara leg on 6 August, [local officials asked the regulator to widen its remit to all economic operators](https://atop.tg/kozah-communications-electroniques-larcep-edifie-les-consommateurs-de-kozah-assoli-et-binah-sur-leurs-droits-et-obligations/) — a request to be regulated more, not less, and the clearest signal in the record of what consumers think the alternative is. No attendance figure, complaint volume or outcome measure for the tour is published.
 
 ## Uganda
 
@@ -86,3 +110,5 @@ The month's set-piece was a convening rather than a decision: [Internet Governan
 The same Postal and Courier Services Bill consultation — the only open public call for written comment on a Zambian instrument the wiki holds for the whole window — closed three days after the call for written submissions was reported, with no submission count, published response or consultation report held.
 
 On 1 August the Human Rights Commission disclosed that its case review meeting had considered 105 alleged violations linked to the election period, of which 62 were resolved administratively.
+
+The election itself, on 13 August, produced the fullest external account of the country's digital systems the base holds. Observer missions recorded a [hybrid digital and manual voter-registration system with an online pre-registration portal, logging 8,786,300 registered voters, up 25% since 2021](https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf). A domestic coalition [found election-day process largely transparent but flagged an online-only accreditation system that blocked 11 accredited monitors, and the electoral commission's refusal to share the voters register](https://www.zambiamonitor.com/churches-group-rates-conduct-of-august-general-elections/). The European mission found online free expression unduly curtailed under the 2025 Cyber Security Act amid arrests for speech offences, and a regional media institute [recorded a journalist detained for two weeks under the Cyber Crimes Act and judged the access-to-information law and decriminalised defamation paper victories undermined by the two 2025 statutes](https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/). These are preliminary statements; no final report, government response or commission account of the accreditation and register decisions is held.

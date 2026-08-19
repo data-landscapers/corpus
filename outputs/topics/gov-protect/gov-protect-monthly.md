@@ -1,17 +1,15 @@
 ---
 title: Data protection — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: gov.protect
-places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 080cb725d414
+places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 9c780cdfa187
 ---
 
 # Data protection: monthly update, July 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -57,13 +55,19 @@ Data protection has an authority that does not exist and a population whose serv
 
 The next day ESCCOM, as the data protection authority, [began validating draft advisory guidelines on the lawful processing of personal health data](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/) at Ezulwini, with the health ministry, providers, insurers, pharmacies and medical aid schemes. They will be published as a regulatory instrument under the Data Protection Act 2022, covering collection, retention, sharing, breach notification, cloud services and patient rights. The commission disclosed that it has concluded a complaint over a practitioner's unlawful disclosure of a patient's information.
 
+In August the same rule-making reached a second sector and produced a ranking. A week-long workshop [validated draft sector data-protection guidelines and produced a proposed whistle-blower-protection framework, with the regulator naming the financial sector as the leading source of personal-data breaches](https://times.co.sz/41235/news/financial-sector-tops-customer-information-leaks/) — through misdirected statements and invoices, and cybersecurity incidents exposing customer records. No breach count, penalty or enforcement action is published behind the ranking, and the draft guidelines are not held.
+
 ## Ethiopia
 
 The Development Bank [adopted an information disclosure policy classifying client credit information permanently non-disclosable](https://www.thereporterethiopia.com/52220/), alongside legal case files, strategy papers, security protocols and third-party contracts, where disclosure could cause substantial harm to the Bank, its stakeholders or the national interest. The Bank may also decline a request that would require it to create a record it does not already hold. No instrument number, gazette reference or appeal mechanism is stated.
 
+## Gambia
+
+The body that carries both of the country's information statutes surfaced in the record for the first time this window, and it surfaced as a recipient of support rather than as a regulator acting. The Information Commission, responsible for the Access to Information Act 2021 and the Personal Data Protection and Privacy Act 2025, is [receiving UNFPA-funded support under the Peacebuilding Fund's Public Accountability Project to build a communication strategy raising public awareness of both statutes](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia). No budget, staffing, caseload or enforcement record for the commission is held, and awareness-raising support is not evidence of capacity to enforce.
+
 ## Ghana
 
-The regulator's own enforcement record did not change. The action framed as a data-privacy violation in the month was taken by the central bank.
+The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the base holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. No payment, appeal or remediation record follows it.
 
 ## Guinea
 
@@ -107,6 +111,8 @@ On 4 August an opposition member told a newspaper that with no data-protection s
 
 On 28–29 July the Federal High Court [upheld the data-protection commission's power](https://leadership.ng/court-strengthens-ndpc-oversight-of-pos-agents-banks-telcos-data-controllers/) to designate and register controllers and processors of major importance, dismissing a suit that had sought to place PoS agents outside the class; the commission immediately directed every unregistered entity to register. The judgment is not held and its delivery date is unestablished. The commission then used the power: on 13 August it [opened a forensic investigation into a federal university, a bank and a technology vendor over the alleged use of students' personal data to open bank accounts without consent](https://dailytrust.com/ndpc-investigates-varsity-bank-over-data-violations/). No finding or penalty has followed.
 
+Its other August move was institutional rather than adversarial: the commission and the securities regulator [agreed to deepen collaboration on data-protection compliance in the capital market](https://techeconomy.ng/ndpc-sec-strengthen-collaboration-on-data-protection-and-investor-privacy), the commission's head visiting the regulator in Abuja and being invited to its compliance summit. No memorandum, joint supervisory arrangement, compliance standard or enforcement commitment is stated.
+
 ## Senegal
 
 The data-protection reform reached a [finalisation workshop for the bill and its implementing decree, rewritten against the data and AI strategies](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/), with no adoption date or published text.
@@ -147,6 +153,12 @@ On 14 August the ICT ministry launched a [three-year child online-safety campaig
 
 The data-protection regulator exists and travels; nothing in the base shows it acting. It joined a multi-sectoral delegation to the continental identity conference, and on 31 July [nine civil society organisations asked it to examine the source of the contact list behind SMS messages sent to social cash transfer beneficiaries](https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/) before the 13 August election. No response from the Office is on the record. No registration count, enforcement decision, fine, breach notification, guidance note or annual report is held for it at any date. The Data Protection Act 2021 remains in force and was [named by the information ministry on 18 July as one of three instruments regulating online communications, cybersecurity and personal data](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/); the reported Cabinet intention to repeal it has produced nothing on the record in sixteen months.
 
+What is being built for it is a system rather than a case. The World Bank-financed acceleration project [opened tender on 10 August, closing 21 August, for a digital data-protection compliance management system to serve the Commission](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498), to integrate with the government service bus and payment gateway and to meet ISO/IEC 27001, ISO/IEC 27701 and WCAG 2.1 AA, alongside a [parallel tender to review the national data-protection guidelines and compliance frameworks](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461500). Tenders rather than awards, and neither states a value, a delivery date, or the caseload the system would manage.
+
 ## Zimbabwe
 
 Certification of every data protection officer is required under the same 26 July notice, at US$1,250 for a Zimbabwean ([notice account](https://www.techzim.co.zw/2026/07/potraz-starts-data-protection-inspections-on-1-september-here-is-what-it-means-for-you/)).
+
+August brought the objections. Healthcare providers and the medical association [objected to the data-controller licensing regime as applied to them — roughly US$300 a year plus a mandatory data protection officer — calling it costly and duplicative of existing health-professions regulation](https://www.newsday.co.zw/thestandard/news/article/200059372/doctors-decry-exhorbitant-new-data-levies) ahead of the September inspections, and a published analysis [argued the regulator's threshold-based licensing model is disproportionately burdensome for small entities](https://www.techzim.co.zw/2026/08/why-our-data-protection-regulations-need-review/) against the risk-based approach of the European regulation it is compared with. The statutory instrument's fee schedule is not held, and no licence count, exemption or regulator response to the objections is on record.
+
+Two further protection questions surfaced without a regulator attached. The anti-corruption commission is [investigating cyber-enabled fraud across three state digital systems](https://technomag.co.zw/zacc-probes-cyber-fraud-in-vid-licences-netone-airtime-and-zimra-systems/): suspected manipulation of the driver-licensing platform, a US$150m diversion of state mobile-operator airtime with a criminal case pending and asset forfeiture completed, and a scheme crediting more than ZiG55m and US$260,000 of fictitious prepayments on the revenue authority's customs platform. And the National Child Online Protection Policy 2026-2030, [approved by Cabinet in June, has no reporting route, responder training or funded rollout on record](https://www.newsday.co.zw/opinion-analysis/article/200059225/protecting-zimbabwes-children-online-will-take-more-than-a-policy) — which is what a published analysis argues will decide whether it protects anyone.

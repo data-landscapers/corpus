@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: dpi.registry
-places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GHA; GIN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: 29e4ac0751c4
+places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
+record: 1a452be352b7
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -55,6 +55,8 @@ The minister recorded on 10 July that the [regulator has run the postal addressi
 
 Civil-registry software is [installed with hardware in every municipal and sub-prefecture civil-status centre for digital recording of births, marriages and deaths, financed by the European Union](https://www.aip.ci/cote-divoire-aip-digitalisation-de-letat-civil-les-sous-prefets-du-goh-mobilises-pour-accompagner-la-reforme-de-loneci/). Supervision is assigned to sub-prefects rather than to registrars, and the reform is framed as anti-fraud rather than as access.
 
+The identification office marked African Civil Registration Day by putting figures and hardware behind the access side of it. The national civil-status system now [covers 699 centres and has digitised more than four million records, and on 11 August the office handed 283 digital birth-registration terminals to health workers in the Tonkpi region](https://www.koaci.com/index.php/article/2026/08/12/cote-divoire/societe/cote-divoire-operation-zero-enfant-invisible-loneci-deploie-283-terminaux-numeriques-dans-le-tonkpi-pour-garantir-lidentite-des-la-naissance_199500.html) to link maternities directly to civil-registry offices, under a programme it calls zero invisible child. The counts are the office's own, and no registration-rate outcome is attached to them.
+
 ## Djibouti
 
 The same 23 July account reports [birth, marriage and death archives being digitised in parallel](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/) with the identity-stack work above, staffing and archive space again the named constraints and no date given.
@@ -62,6 +64,10 @@ The same 23 July account reports [birth, marriage and death archives being digit
 ## DR Congo
 
 Business formalisation was inspected on 28 July: the portal proposes a legal form and tracks a file in real time and the application [issues sole-trader attestations in under 48 hours, while full online company creation is not possible](https://actualite.cd/2026/07/28/formalisation-des-entreprises-en-rdc-daniel-mukoko-samba-mise-sur-le-numerique-pour).
+
+Two further registers were announced as part of a financial-sector package rather than as builds. A [modernised credit-risk registry and an electronic movable-collateral registry are to be built with the central bank, alongside a new deposit-guarantee fund](https://acp.cd/business/rdc-la-banque-mondiale-annonce-des-reformes-pour-faciliter-le-financement-des-pme/), in a World Bank programme to expand financing for small and medium firms that also carries a rollout of 10,000 point-of-sale terminals and agent networks. No instrument, custodian, timetable or access rule is stated for either registry, and no data-protection provision is reported for the credit file.
+
+The registry ground also drew a vendor. A Kenyan platform operator [pitched the digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing its own deployments in Malawi and South Sudan; the minister asked officials to continue talks toward a partnership. It is a sales meeting, and the claims in it are the vendor's.
 
 ## Egypt
 
@@ -71,6 +77,10 @@ On 4 August the state-land regularisation platform was reported at [more than 30
 
 On identity, a proposal to [require DNA testing before issuing birth certificates was costed at about E126m a year, roughly 46% of the Home Affairs budget](https://times.co.sz/38899/news/dna-plan-could-swallow-e126m-of-home-affairs-budget/) — about E4,300 per test across about 29,400 births.
 
+## Gambia
+
+The country published its first unified land policy, and it is the month's clearest statement of intent about a public register. The [National Land Policy 2026-2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1), alongside new Certificates of Customary Ownership, and carries a costed ten-year implementation roadmap. It is a mandate rather than a build: no supplier, budget line, custodian or start date is stated for either system, and no data-protection provision for the land record is reported — in a year in which the Personal Data Protection and Privacy Act 2025 came into force.
+
 ## Ghana
 
 Business registration is [in pilot for end-to-end filing from name search to certification with no physical submission](https://amchamghana.org/2026/07/23/amcham-ghana-engages-registrar-general-on-digital-transformation-and-business-registration-reforms/), integrating with national identification for verification, with a companion beneficial-ownership verification service piloting with banks on a subscription basis. Launch is given only as the coming months.
@@ -79,9 +89,13 @@ Business registration is [in pilot for end-to-end filing from name search to cer
 
 The [terms of reference for the RETSSM movable-collateral registry, opened 27 July under IDA Credit No. 74440GN](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf), set the objective as guaranteeing the availability, security, reliability and adoption of an operational registry — with the first work package finalising the institutional, legal and regulatory provisions it needs to function at all.
 
+The register that already works stopped working for the most basic reason there is. A civil-registration officer in Ratoma said on 7 August that the [secured paper the digital birth certificate is printed on had run out, leaving communes across Conakry and beyond unable to issue extracts for about a month](https://www.guinee360.com/07/08/2026/sans-papiers-securises-il-ne-peut-pas-y-avoir-dextraits-amadou-konia-camara-explique-lorigine-de-la-penurie/); his own commune processes all applicants regardless of home commune and holds reserve stock for urgent cases such as exam-result travel and medical need. No ministry statement, restocking date or national count of affected communes is held, and the absence is now recorded as a gap. Officials marking African civil-registration day three days later [named information gaps and material shortages as the remaining barriers to civil-status access](https://www.guinee360.com/10/08/2026/guinee-manque-dinformations-contraintes-materielles-les-freins-a-lacces-a-letat-civil/), the identification office's director general calling for tighter integration between health, civil-registration and statistical systems.
+
 ## Liberia
 
 Speaking on 21 July, the Posts and Telecommunications Minister said [rollout of a national digital postal address system had begun across all fifteen counties](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date or budget line given.
+
+The central bank is preparing a register of a different kind. It announced on 14 August that it is [extending the 2010 movable-assets collateral registry to cover immovable property such as land, buildings and fixed machinery](https://elbcnews.com/2026/08/14/central-bank-of-liberia-prepares-to-launch-collateral-registry/), as part of a wider financial-sector reform. No launch date, registration volume, fee schedule or relationship to the land registry is stated.
 
 ## Libya
 
@@ -105,9 +119,11 @@ The business and intellectual property authority [offers online name search, nam
 
 ## Niger
 
-The [WURI-Niger account records that 66% of births are declared](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/); the territorial administration ministry [put the figure at 79% against 53.48% in 2022](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) at the launch of the population register's enrolment tour. The two are differently based and the record does not reconcile them.
+Three differently based birth-registration series are now on record and none is reconciled to another. The [WURI-Niger account records that 66% of births are declared](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/); the territorial administration ministry [put the figure at 79% against 53.48% in 2022](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) at the launch of the population register's enrolment tour and restated it [at Dosso on 14 August](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/); and the same ministry [gave 80% in 2026 against 60% in 2023](https://anp.ne/tahoua-lancement-des-activites-commemoratives-de-la-journee-africaine-de-letat-civil-et-des-statistiques-de-letat/) at the African civil-registration day five days earlier.
 
-That tour is the register's first public campaign. It [opened at Tahoua on 11 August to make the governing legal texts and the intermediate enrolment operations known](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/), under the World Bank-financed identification programme and alongside rollout of the regional biometric identity card and passport.
+That day also produced the first count of how far registration has been computerised: UNICEF's Tahoua office said it had [contributed to computerising 68% of communes nationwide](https://anp.ne/tahoua-lancement-des-activites-commemoratives-de-la-journee-africaine-de-letat-civil-et-des-statistiques-de-letat/), and put the Tahoua region's own registration rate up from 69% to 75%, with four communes still uncovered. It is UNICEF's account of its own contribution; no ministry count is held.
+
+The register's public campaign ran through the window. It [opened at Tahoua on 11 August](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) to make the governing legal texts and the intermediate enrolment operations known, and was [launched officially at Dosso on 14 August](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/), where the interior ministry set out the statutory basis — ordonnance n°2026-21 on the civil-status regime, décret n°2026-242 creating the ANEI and décret n°2026-243 approving its statutes — and described the register as a central secure database assigning each citizen a unique identifier, interoperable with civil-status management, the biometric national card and travel documents.
 
 Also on 29 July, the Diffa regional civil-status directorate reported [173,109 birth certificates issued between July 2023 and July 2026](https://anp.ne/mise-en-oeuvre-du-programme-de-la-refondation-a-diffa-plus-de-173-000-actes-de-naissance-delivres-entre-juillet-2023-et-juillet-2026/), of which 109,382 were timely declarations, with the timely rate rising from 56% in 2022 to 88.04% in 2025.
 
@@ -130,6 +146,12 @@ The civil register acquired an outside account of what it now carries. Case stud
 ## Senegal
 
 On 28 July an audit mission [launched across 74 communes, 59 already audited and fifteen selected on risk analysis](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html); no findings are stated. On 30 July the mines ministry and the deposits fund [signed a convention commissioning professional cards and a nationwide database of artisanal gold miners](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-senegal-numerise-lorpaillage-pour-juguler-une-perte-annuelle-de-plus-de-614-millions), with no enrolment target, host or data-protection provision reported.
+
+## Sierra Leone
+
+The registry the state has least of is the one for deaths. The national public health agency [opened supplier engagement on 7 August for an Integrated National Digital Mortality Surveillance, Registration and Certification System](https://sierraloaded.sl/health/npha-advances-digital-mortality-system/), with the health ministry and the civil registration authority, aligned to WHO ICD-11 and built on a national health information hub established in January 2026 — against a gap in which only 13.4% of deaths are fully registered. No cost, supplier, timetable or coverage target is stated.
+
+Two days later the civil registration authority and its partners marked African civil-registration day by [calling for an integrated, decentralised, digital birth-to-death registration system, with UNICEF costing US$1.16m of strengthening needs over three years](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/), and the electoral commission and the central bank naming the 2028 elections and financial inclusion as what depends on it. What a citizen pays for the document at the end of that chain is contested: a civil-society account [questions whether people can afford the national identity card at NLe140 now that it is central to linking identity numbers to SIM registration](https://www.linkedin.com/posts/citizens-barray_freeid-identity-telecommunications-activity-7492303807360679936-U3Br).
 
 ## South Africa
 

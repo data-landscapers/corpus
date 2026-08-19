@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: dfbd18d16b55
+record: 776b42ac5c4a
 ---
 
 # Connectivity: monthly update, July 2026
@@ -26,6 +26,8 @@ On 23 July a state-owned telecoms arm [commercially launched an enterprise fifth
 ## Botswana
 
 The [Plumtree-Bulawayo section of a regional fibre corridor went live on 6 July, carrying traffic at 800Gbps equipped on equipment rated over 10Tbps](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V), with a second phase to Livingstone due September 2026. The corridor is stated as a Botswana-Zimbabwe-Zambia route; the live section is inside Zimbabwe and no Botswana segment is dated.
+
+The western corridor did produce a Botswana segment. Alongside the Kasane memorandum the two sides disclosed that [MTC has completed the Gobabis-Buitepos fibre link, now interconnecting with BoFiNet at Charles Hill](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) — described as the first direct cross-border fibre link between the two operators — and costed the Trans-Kalahari Corridor's remaining 4G gaps at about N$52 million across 13 new sites. The two national incident-response teams are also said to be deepening cooperation. No capacity, commissioning date or traffic figure is published for the fibre link.
 
 Domestic access moved on a much smaller scale. The backbone company [completed its 2025/26 local access projects at P43m, taking fibre to Moshupa, Ramotswa/Taung and Thamaga and connecting 191 customers — 68, 66 and 57 across the three — with 210 construction jobs](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/). The customer count is the operator's own and is a count of connections, not of premises passed.
 
@@ -123,7 +125,7 @@ The incumbent closed its financial year with [data and internet at 31.1% of reve
 
 On 27 July the Libreville seminar on space communications closed with eleven recommendations, confirming a hybrid fibre and satellite model on [2,000 km of fibre already deployed](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/).
 
-The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)).
+The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)). It [closed on 8 August with certificates presented after six days of peering, security and sovereignty training](https://agpgabon.ga/numerique-latelier-gabix-reboot-propulse-linterconnexion-locale-au-gabon/); AFRINIC called for a network of trained ambassadors to carry the skills into firms and administrations, and operator representatives named broader institutional buy-in as the task that remains. No participant number and no post-relaunch member count has been published.
 
 ## Ghana
 
@@ -144,6 +146,8 @@ The Communications Authority introduced a [Communications Equipment Distributor 
 Satellite capacity ran out in the country's densest markets. The operator [suspended new sign-ups across seven counties](https://techweez.com/2026/07/08/starlink-kenya-waitlist-capacity-counties/) in early July, diverting orders to a deposit-backed waitlist. On 4 August the second mobile operator said its direct-to-cell pilot had completed and it awaits regulatory approval; the interference audit opened in March has produced no published finding.
 
 Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/) on 29 July 2026, integrating the Tanzanian backbone with the Mombasa submarine landings. The London Internet Exchange [added a regional cloud provider to its Nairobi hub](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb) in July, reaching 55 or more connected networks on combined traffic of 330 Gbps.
+
+The largest procurement in the window is a surveillance build sold as traffic management. The roads authority is out to tender on [Nairobi's Intelligent Transport System Phase II at Ksh10bn, about US$83.8m, covering CCTV, e-police monitoring and vehicle-detection systems at 60 junctions on a 30-month design-build contract financed by a South Korean development loan](https://www.kenyans.co.ke/news/126063-kura-expands-nairobis-ksh10b-smart-traffic-project-phase-ii), with the bid deadline pushed back two weeks to 19 August. No data-protection authorisation, retention rule or oversight arrangement for the cameras and detection systems is reported, and no award has been made.
 
 ## Liberia
 
@@ -201,7 +205,9 @@ The transitional reduction of mobile interconnection tariff asymmetry took effec
 
 ## Mozambique
 
-The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since.
+The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since. A [second account of the launch](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/) names the two suppliers and sets the portal alongside World Bank project figures on affordability, recorded under inclusion below.
+
+The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023. No buyer, share, valuation, timetable or treatment of the debt is stated.
 
 ## Namibia
 
@@ -251,6 +257,8 @@ Herotel, a domestic provider with more than 350,000 customers, was [named Amazon
 
 Cape Town's municipal planning tribunal [approved two Equinix data centres](https://www.moneyweb.co.za/news/ai/giant-data-centres-get-the-first-green-light-from-cape-town-tribunal/) over objections from three civil-society organisations; the application disclosed neither water nor electricity demand, both deferred to the site development plan. Reuters put the planned load at about 170MW. NTT Data South Africa confirmed it had [sold seven facilities and leased them back](https://www.itweb.co.za/article/itweb-tv-ntt-data-sa-prioritises-services-over-data-centre-ownership/DZQ58vV8m4aMzXy2). Google held its first African cloud summit in Johannesburg and announced an Eastern Cape exchange port; the President welcomed hyperscaler commitments while [stating that government is building its own cloud through the CSIR](https://mybroadband.co.za/news/cloud-hosting/656975-south-africa-building-its-own-cloud-infrastructure-says-ramaphosa.html).
 
+One date the state does not have is the oldest. The communications department [told parliament that no date has been set for the analogue television switch-off](https://techcentral.co.za/still-no-end-in-sight-to-south-africas-digital-migration-saga/284937/), sixteen years past the original 2010 deadline, with estimates of households still dependent on analogue ranging from about 500,000 on one civil-society account to between 2.2m and 4.5m on two others. The record reconciles none of them, and the absence of a date is now carried as a gap.
+
 ## South Sudan
 
 The regulator completed the second stage of its tariff exchange-rate adjustment effective midnight on 26 July 2026; phase one had taken effect on 26 June. MTN South Sudan, Zain South Sudan and Digitel all [raised voice, data and SMS charges, citing inflation, fuel costs, network maintenance paid in foreign currency and depreciation of the South Sudanese pound](https://www.eyeradio.org/you-will-pay-more-for-calls-data-from-tonight-as-second-tariff-adjustment-takes-effect/), running base stations largely on diesel generators for want of grid power. Neither the regulator nor the operators [disclosed the revised rates or said whether further phases will follow](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/), and the regulator maintains this is a revision of the exchange rate used to calculate charges rather than a tariff increase.
@@ -265,6 +273,8 @@ The minister inspected the national backbone at Mpwapwa on 24 July. The network 
 
 On 29 July the Kenyan and Tanzanian ministers [launched a terrestrial fibre link across the border, integrating the national backbone with submarine cable capacity](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/). No capacity, cost or financing was stated, and the base does not reconcile it against the 2025 connection on the route.
 
+A separate tower programme reported its own reach to Parliament on 15 August: a [TZS 126bn, 758-tower project — TZS 55bn from the World Bank and TZS 71bn from the universal service fund — has connected 8.5 million people across 1,400 villages](https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/), in the same report that records 14,826 data controllers and processors registered with the data protection commission by June 2026. The ministry gives no count of towers completed against the 758 planned, and no measure of service uptake in the villages it says are connected.
+
 ## Togo
 
 The Council of Ministers [authorised a five-year renewable licence for Internet-of-Things networks](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) on 4 August, distinct from the incumbent mobile and internet authorisations; the decree authorises the grant rather than recording it, and no licence number, fee, coverage obligation or ownership of the licensee is published. Separately, [capacity was added on a second submarine system for route diversity](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) after three multi-country West African outages in twenty-eight months — a pan-regional arrangement in which Togo is one of eleven places named and no Togo-specific capacity, price or route figure appears.
@@ -272,6 +282,8 @@ The Council of Ministers [authorised a five-year renewable licence for Internet-
 ## Tunisia
 
 A measurement study of North African 5G published on [3 August 2026](https://www.ookla.com/articles/5g-north-africa-2026), cited rather than absorbed, reports the Tunisian 5G median down 30% from launch by month six and the combined 4G and 5G median below the pre-launch baseline, while fixed-wireless lines rose to 319,554 by May 2026 under the regulator's 30 Mbps obligation. Nothing published bears on the submarine cables, data centres or satellite licensing.
+
+The one physical build to move was a stalled one. The grands projets commission [ordered immediate procurement to complete the Cite Numerique d'Ennahli technology park](https://www.lapresse.tn/2026/08/10/grands-projets-acceleration-de-lextension-de-la-centrale-de-borj-el-amri-et-de-deux-projets-hospitalier-et-numerique/) at a review session chaired by the Prime Minister on 10 August, alongside unrelated power-station and hospital projects. No cost, completion date, occupancy plan or account of why the park was incomplete is stated.
 
 ## Uganda
 

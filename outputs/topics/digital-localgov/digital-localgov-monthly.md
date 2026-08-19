@@ -1,19 +1,19 @@
 ---
 title: Digitalisation of sub-national government — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: digital.localgov
-places: BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; TZA; ZMB; ZWE
-record: 602ec489b960
+places: BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; TZA; TGO; ZMB; ZWE
+record: 2eba13a83572
 ---
 
 # Digitalisation of sub-national government: monthly update, July 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Burkina Faso
 
-Citizen service centres stand at [two pilot sites under construction, with architectural studies under way for a further city, eight regional capitals and fifty rural communes](https://lefaso.net/spip.php?article144175), against a state and postal-service contract for twenty spaces over five years. No unit cost and no beneficiary count is published. The first of the pilots [now has a name, Zama Tchey, and was inspected on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/); it is to bring postal, financial and digital services closer to the population.
+Citizen service centres stand at [two pilot sites under construction, with architectural studies under way for a further city, eight regional capitals and fifty rural communes](https://lefaso.net/spip.php?article144175), against a state and postal-service contract for twenty spaces over five years. No unit cost and no beneficiary count is published. The first of the pilots [now has a name, Zama Tchey, and was inspected on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/); it is to bring postal, financial and digital services closer to the population. A second inspection two days later [put the first Maison du citoyen at 20% complete](https://digitalmagazine.bf/2026/08/07/burkina-faso-rapprocher-letat-du-citoyen-deux-infrastructures-numeriques-en-cours-de-construction/), one of twelve structuring digitalisation projects the ministry names, and took in the national fibre backbone's network operations centre on the same visit.
 
 ## Cameroon
 
@@ -65,6 +65,8 @@ Windhoek's council [adopted a ten-year smart-city strategy on 15 June, handed ov
 
 Enugu [opened free digital storefronts, company-registration support, digital-trade training and payment enablement to 1,000 state businesses](https://itpulse.com.ng/enugu-launches-tradex-programme-to-support-1000-smes-with-digital-trade/) with Afreximbank's trade platform; cost, funder and selection method are unstated.
 
+Anambra began the second phase of its own state strategy, [expanding its OneGov platform to digitise government services and formalise small and medium enterprises](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/); the platform [logged about 14,000 visits over three weeks in July](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/) despite limited publicity. Visits are not registrations or transactions, and no service count, formalisation figure or cost is stated. A development agency separately [reaffirmed its support for the state's youth digital-skills programmes](https://von.gov.ng/undp-reaffirms-partnership-with-anambra-digital-economy/).
+
 Cross River's executive council [approved phase one of a facial- and plate-recognition network](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) specified with Huawei and implemented through its local partner, covering Calabar intersections and government precincts, coastal communities and waterways, the Ikang Expressway and Carnival routes, against a stated baseline of under 10% analogue coverage of the metropolis and nothing in five other named towns. The [claimed gains are emergency response falling from over 45 minutes to under twelve and 120 technician jobs](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/); no lawful basis, retention rule or oversight arrangement for the face and plate data appears anywhere in the announcement.
 
 ## Somalia
@@ -74,6 +76,10 @@ Hirshabelle put [tariff-loaded card terminals at its border checkpoints, reporte
 ## Tanzania
 
 A [constituency digitalisation strategy opened on 4 August with 20 computers and two printers valued at TZS 100m donated by a consumer lender](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047), starting with the education department's administration, inter-departmental communication and examination coordination, with secondary schools stated next and ward offices in phases over three to four years. It was announced by the ICT minister in the constituency she represents, and no funding is disclosed for any phase beyond the donated equipment.
+
+## Togo
+
+A commune of Greater Lome began building the kind of register a municipality has not had. Golfe 2 [launched a georeferenced census of households, businesses and taxpayers on 11 August, running to 10 October](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal), to build a secure municipal database under the communes federation's digitalisation push and the 2023-2027 communal development plan. No data-protection basis, custodian, retention rule or access arrangement is stated for a file that ties households, businesses and tax position to a location.
 
 ## Zambia
 

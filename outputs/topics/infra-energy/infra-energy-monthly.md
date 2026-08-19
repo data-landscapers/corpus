@@ -1,17 +1,15 @@
 ---
 title: Energy — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: infra.energy
-places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; MWI; MUS; MOZ; UGA; ZWE
-record: be4581d9f4f9
+places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; MWI; MUS; MOZ; SLE; UGA; ZWE
+record: b99dd9c8c5d1
 ---
 
 # Energy: monthly update, July 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Botswana
 
@@ -52,6 +50,10 @@ Cabinet also [approved for signature a memorandum with Saudi Arabia](https://www
 ## Mozambique
 
 The same data centre draws on grid, photovoltaic and generator supply ([inauguration account](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/)).
+
+## Sierra Leone
+
+The constraint under everything else eased slightly. A World Bank-funded [40MW solar-plus-storage project at Lungi and Newton became fully operational, commissioned in July 2026 and projected to raise the electricity access rate toward 36%](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts) and to ease the outages that interrupt telecommunications and digital services. The access projection is the project's own; no generation outturn, grid-availability series or measured effect on network uptime is held, so the connection between the plant and the services it is said to protect is asserted rather than shown.
 
 ## Uganda
 

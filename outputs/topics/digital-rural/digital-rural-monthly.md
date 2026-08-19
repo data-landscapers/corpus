@@ -1,21 +1,23 @@
 ---
 title: Rural digital data capture — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: digital.rural
-places: EGY; MWI; MLI; NER; NGA; TGO; ZMB; ZWE
-record: a2bc049c4493
+places: EGY; SWZ; MWI; MLI; NER; NGA; SLE; TGO; ZMB; ZWE
+record: 97abccd77e93
 ---
 
 # Rural digital data capture: monthly update, July 2026
 
-*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Egypt
 
 The rural fibre programme reports [about 5 million lines across more than 1,250 of 1,450 phase-one villages](https://itweb.africa/article/egypt-deepens-world-bank-digital-partnership/Pero3qZ31RYvQb6m) in 52 markazes across 20 governorates, with 75% of village service complexes connected. No completion date for the remaining 200 villages is stated anywhere held, and [a 2024 account of the same programme uses a 4,500-village denominator](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) the base does not reconcile with the 1,450 above.
+
+## Eswatini
+
+Rural data collection got hardware rather than a system. The agriculture ministry [handed 40 tablets and 4 laptops, valued at E313,504, to agricultural extension officers on 10 August](https://eswatinipositivenews.online/agriculture-minister-hands-over-e313-504-digital-gadgets-to-boost-agricultural-extension-services/) under an IFAD and Green Climate Fund-backed project, for real-time crop, livestock and weather reporting by officers working with smallholder farmers across all four regions. No officer total, data platform, reporting standard or custodian for the collected field data is stated, so what the reports feed into is not on the record.
 
 ## Malawi
 
@@ -35,6 +37,10 @@ The communications minister told the President on 4 August that [deployment of a
 
 [Talks on artificial intelligence for smallholder farmers are exploratory](https://itweb.africa/article/cisco-explores-ai-for-nigeria-farmers/nWJadMbNDjyMbjO1): no programme, funding, timeline or counterparty ministry is named.
 
+## Sierra Leone
+
+The agriculture ministry is [finalising an upgraded interactive voice response platform, reported 98% complete, to give farmers direct access to ministry officials](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) under the national food-security agenda. Voice is the right channel for the users it names, and the account states no launch date, language coverage, call volume or cost — [98% complete](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) being the ministry's own description of a system nobody outside it has used.
+
 ## Togo
 
 The Council of Ministers [amended the spectrum-royalty decree to price satellite and machine-to-machine traffic](https://actu-togo.tg/2026/07/31/numerique-le-togo-ajuste-sa-reglementation-pour-soutenir-linnovation-et-la-connectivite/) on 30 July, so specialised operators can establish and rural connectivity extend. The amending text and its rates were unpublished at 31 July, and the parent decree is held only as an image scan, so the baseline rates cannot be read either.
@@ -46,3 +52,5 @@ Satellite kits [connected a rural health clinic and two primary schools in Moomb
 ## Zimbabwe
 
 The ICT minister told the National Assembly on 17 July that the universal services fund currently covers satellite-kit subscriptions only for digital centres and schools, and only for one year ([National Assembly account](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription)).
+
+Schools are where the terminals have gone. The education minister told the Senate that [11,500 satellite terminals have been distributed to schools — 8,000 to those with no wireless network and 3,500 to those already connected — with more than 1,300 institutions still to reach and a target of internet connectivity, solar power and national-grid access at every school by December 2026](https://www.263chat.com/govt-targets-internet-solar-power-for-every-school-by-year-end/), alongside a cabinet commitment of 3% of GDP to research and innovation. The counts and the target are the minister's own; no school total, verification of installed and working terminals, or recurrent connectivity cost is stated — and the same fund that bought them pays a subscription for one year only.

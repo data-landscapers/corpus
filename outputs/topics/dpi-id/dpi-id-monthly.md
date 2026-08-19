@@ -1,21 +1,27 @@
 ---
 title: Digital Identity and CRVS — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: dpi.id
-places: AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: 0c3730117a78
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 7209b04b87e8
 ---
 
 # Digital Identity and CRVS: monthly update, July 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+The unified national digital identity is being used as a single sign-on, and the record's first evidence of that is a sectoral one. On 12 August the sports ministry [integrated its platforms into the national services portal so that holders of the credential reach its WADHIFATI platform without registering again](https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/). The credential is issued by the Haut Commissariat a la Numerisation; no enrolment count, assurance level, governing instrument or data-protection basis for it is held, so what a reader can establish is that it works across two systems, not how many people hold it or on what legal footing.
 
 ## Angola
 
 On 28 July the justice ministry [launched an at-home service priced at Kz 250,000](https://angop.ao/noticias/politica/ministerio-da-justica-lanca-servico-de-tratamento-do-bi-ao-domicilio/) for processing and Kz 10,000 for delivery alone, in one province only, the minister justifying the fee as a product of exclusivity.
+
+The single digital identity, named as a workstream since 2024 and as [a component of the US$150m public digital infrastructure contract in June](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/), acquired a price and a procurement. [Despacho Presidencial 300/26 of 13 August authorised US$28m and opened the public tender](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) for a National Digital Identity and Electronic Signatures Platform, specified to support up to 30 million digital identities and to let citizens, firms and public officials use one digital credential for public services, digital contracts, electronic verification of customers and legally valid electronic signatures. No supplier, timetable, or relationship to the earlier contract is stated.
 
 ## Botswana
 
@@ -29,7 +35,9 @@ The Council of Ministers of 30 July also [adopted the decree organising mass reg
 
 ## Burundi
 
-Biometric civil registration is [operating in 13 pilot communes, decentralised to zone level and interoperable with health-facility birth and death records, with a national unique identifier planned on fingerprint and facial biometrics](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative). It is being built onto a base that already reaches most children: [84% of under-fives are registered at birth and 66% hold a birth certificate](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-l-etat-civil-se-numerise-pour-renforcer-l-identite-des-citoyens), cited by government on Africa Civil Registration Day. The gap between the two figures is the one the platform has to close.
+Biometric civil registration is [operating in 13 pilot communes, decentralised to zone level and interoperable with health-facility birth and death records, with a national unique identifier planned on fingerprint and facial biometrics](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative). The health-facility link is the part with numbers behind it: the interior ministry says it has been [piloted since 2023, institutionalised in 2024, and now runs in 123 health facilities where it has recorded more than 52,000 births](https://abpinfo.bi/2026/08/13/le-burundi-veut-construire-un-etat-plus-proche-des-citoyens-plus-efficace-et-inclusif/). No coverage denominator is given for either figure.
+
+It is being built onto a base that already reaches most children: [84% of under-fives are registered at birth and 66% hold a birth certificate](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-l-etat-civil-se-numerise-pour-renforcer-l-identite-des-citoyens), cited by government on Africa Civil Registration Day. The gap between the two figures is the one the platform has to close.
 
 ## Cameroon
 
@@ -67,13 +75,19 @@ The identity programme supplied most of the month's movement: a [joint venture w
 
 At the same 24 July launch of a three-year strategic plan, its deputy director in the capital named premature integration as the year's main obstacle and its founding director general conceded the platform remains intertwined with decades-old institutional systems of undefined standards. The identity layer meanwhile acquired a corporate owner: the Faydaverse digital-public-infrastructure enterprise was inaugurated on 4 August as a state-owned enterprise under Ethiopian Investment Holdings, on a platform [reported at over 190 million authentications performed and 150 enterprises integrated for biometric checks](https://www.biometricupdate.com/202603/ethiopias-digital-id-joins-sovereign-wealth-fund-as-weekly-enrollments-reach-1m). No governing instrument, board or commercial model for the enterprise is published.
 
+Four days later that enterprise set out where the credential goes next. Its wallet is [to carry academic transcripts, professional licences, healthcare records, property titles and financial-compliance and know-your-customer data beyond the core government credentials it holds today](https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/), and the enterprise says it is exporting identity services as an implementation partner in Mozambique and Zambia. The plan and the export claims are its own; no timetable, consent model, data-controller arrangement or regulatory approval for the additional credential types is stated.
+
+What is not on the record is the counterweight. A published critique argues the system [risks becoming an instrument of mass profiling in the absence of independent data-protection impact assessments, meaningful citizen rights and legal limits on state access](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), against 46.5m registrations by July 2026, up from 16.4m in June 2025, and a 90m target. The base holds no such assessment, no redress mechanism and no statutory access limit, and that absence is now recorded as a gap.
+
 ## Gambia
 
 The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. No enrolment or issuance figure has been published since, so its reach is unestablished.
 
 ## Ghana
 
-The identity regulator publicised amendment regulations on 16 July that had come into force on 9 June, and the interior minister then set the enforcement date: banks, telecoms operators, hospitals, schools, insurers and agencies have [a three-month transition from 27 July to 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate with the verification service, on a sanctions ladder running to suspension of access and licence withdrawal. Verification tied to SIM registration is explicitly excluded, with no timetable announced. The first paid round-the-clock identity centre opened on 1 August with all services attracting approved charges and no fee schedule published.
+The identity regulator publicised amendment regulations on 16 July that had come into force on 9 June, and the interior minister then set the enforcement date: banks, telecoms operators, hospitals, schools, insurers and agencies have [a three-month transition from 27 July to 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate with the verification service, on a sanctions ladder running to suspension of access and licence withdrawal. Verification tied to SIM registration is explicitly excluded, with no timetable announced.
+
+The first paid round-the-clock identity centre opened on 1 August with all services attracting approved charges and no fee schedule published; by 13 August the agency described the Labone centre as [running registration on three shifts around the clock](https://thehighstreetjournal.com/nia-adopts-three-shift-system-for-24-hour-ghana-card-registration/), presented as part of the government's wider 24-hour economy programme. No throughput or staffing figure is published, and the base holds no equivalent extension of the free daytime service.
 
 ## Guinea
 
@@ -87,6 +101,12 @@ Government is [procuring a system to cut identity-card issuance to ten days and 
 
 Two identity systems met the courts instead. The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
 
+## Liberia
+
+The identity build reached the last step before a signature. The National Identification Registry says [procurement of an Austrian firm to build a new biometric identification system under a public-private partnership is complete, and the concession agreement is with the President ahead of legislative ratification](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/). Mass enrolment has been suspended since 23 June 2025, so the country has been more than a year without one. No concession value, term, revenue model or data-protection provision is published.
+
+A second identity register is being built outside the state entirely. On 16 August the commercial motorcycle and tricycle riders' union and a private digital services company [signed a memorandum to build a digital identity, GPS tracking and a rider database](https://www.thenewdawnliberia.com/motorcycle-union-digital-liberia-sign-deal-to-track-riders-combat-theft/), aimed at curbing vehicle theft and linking informal-sector riders to formal financial and government services. It covers continuous location tracking of a working population, and no data-protection basis, custodian, retention rule or consent mechanism is reported for it.
+
 ## Libya
 
 The national digital identity's [biometric tier is in technical trials with the central bank and several banks, ahead of integration into banking know-your-customer checks](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/). The [same system is named differently in the authority's own April and July releases](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/), which is the only naming the base has for it.
@@ -98,6 +118,8 @@ On 27 July the interior ministry reviewed the first phase of adult biometric reg
 ## Malawi
 
 The registration bureau reported on 13 July 2026 that more than 13.5 million people hold a national digital identity, with over 150,000 enrolled between April and June, 53% of them women ([registration bureau](https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view)). On 6 July it named the forthcoming mobile credential and set its launch for September 2026 ([registration bureau](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1)). On 5 August a separate blockchain-enabled wallet built by the United Nations Development Programme was stated to be in pilot ahead of nationwide rollout; neither announcement names the other.
+
+Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The individual fee levels and their previous values are not carried in the record held, so the size of the increase is not established — but the charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the same month the bureau reported approaching universal coverage.
 
 ## Mali
 
@@ -145,6 +167,8 @@ The social registry has run an appeals process since it opened in early 2024, an
 
 Consolidated agency data at 17 July records [437 of 629 civil-status centres fully deployed, 112 of them running the citizen-facing service](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI); on 13 July the agency reported [15.3m records loaded](https://apanews.net/senegals-anec-digitizes-more-than-15-million-birth-records/).
 
+Deployment moved again in August, and the agency put a frame around it. At African Civil Registration Day in Kaolack on 10 August it [launched phase four of its remediation plan and put deployment at 74% of centres, up from 70% five days earlier, with the citizen request platform live in 189 communes](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), phase four extending to Kaffrine and Tambacounda; its director-general described civil registration as an instrument of sovereignty.
+
 ## Sierra Leone
 
 Identity took three public positions in four days. MoCTI [convened a national dialogue on digital identity and digital public infrastructure on 5 August](https://mocti.gov.sl/sierra-leone-advances-national-dialogue-on-digital-identity-and-digital-public-infrastructure/), describing it as the first of a series and as the beginning of the policy work rather than its result. A private-sector consultation the following day settled two specifications: the register being built on is [MOSIP-based, and the credentials envisaged under the Bhutan National Digital Identity and SIGN Foundation partnership are W3C-compliant verifiable credentials](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework). On 7 August the NCRA Director-General told the consultation that [the biometric register already covers about 93% of the population with a unique National Identification Number and a live eKYC platform, and that the Authority's own MOSIP pilot is complete but unfunded for full implementation](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) — and warned against parallel identity systems being built alongside it.
@@ -163,6 +187,10 @@ On 29 July the Western Cape High Court [held four categories of exclusion in the
 
 Home Affairs reported that its electronic travel authorisation had [refused more than 5,500 travellers](https://www.sundaytimes.timeslive.co.za/news/2026-07-28-home-affairs-to-expand-digital-visa-system-after-blocking-5500-travellers/) since October 2025. It then left the pilot: the system [went live at OR Tambo, Cape Town, King Shaka and Lanseria from 12 August, with 6,126 fraudulent applications rejected — put at 2.8% of pilot submissions — and full visa-type rollout targeted by year-end](https://www.itweb.co.za/article/digital-travel-system-takes-off-at-four-sa-airports/O2rQGqAERbnqd1ea). The department publishes no statistical series, and the four rejection counts it has given this year rest on bases that do not reconcile.
 
+By mid-August the branch channel had a locator of its own. The department [launched a My Home Affairs Online portal on 17 August to help citizens find a participating branch, putting the network at 372 branches and more than half a million users to date](https://www.biometricupdate.com/202608/south-africa-advances-broader-digital-identity-and-public-services-ecosystem), and framing it with the electronic travel authorisation as a building block of the national digital public infrastructure roadmap. Its own downtime statement a week earlier put the branch count above 408; the two are not reconciled. The travel authorisation itself [drew industry questions over its R500 fee and the adequacy of consultation](https://www.tourismupdate.com/article/schreiber-faces-industry-questions-over-eta) after its airport launch.
+
+The draft digital-identity regulations drew their sharpest technical criticism yet. A published argument holds that they [under-specify verifier authentication, transparency about the purpose of a request, and enforcement of data minimisation](https://it-online.co.za/2026/08/11/share-doesnt-mean-surrender-when-it-comes-to-digital-id/), and urges binding rules requiring a requesting party to prove who it is, state why it is asking, and log every share — so that accountability falls on institutions rather than on the citizen who consented.
+
 ## South Sudan
 
 The World Bank published its ID4D country diagnostic on 22 July 2026, putting [close to 90% of the population without any government-recognised identification](https://www.worldbank.org/en/news/feature/2026/07/22/in-the-worlds-youngest-nation-how-do-you-prove-you-exist). It records that obtaining the Nationality Certificate, the prerequisite for the identity card, requires costly age assessments or blood tests and travel to centralised offices, so most people acquire neither.
@@ -170,6 +198,16 @@ The World Bank published its ID4D country diagnostic on 22 July 2026, putting [c
 On 28 July the civil-registry directorate's plan also included [a digital national identity card to be issued to every citizen aged 18 and over as the gateway to bank accounts](https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/), delivery running through the health, justice and interior ministries with unnamed partners. It is [stated as intent only](https://www.eyeradio.org/government-to-adopt-modern-digital-birth-death-and-marriage-records-system/): no law, budget, timetable, vendor or platform is named.
 
 The directorate says a [new-generation passport will be introduced in August 2027](https://www.eyeradio.org/south-sudan-to-issue-new-passports-with-10-year-validity-and-eac-passport-in-2027/), moving the holder's occupation off the printed page into the digital system; raising ordinary validity from five to ten years, and issuing the East African Community passport, would each require amending the passport act, and no legislative timetable is given. It also [received 37,500 further passport booklets, putting stock at enough to sustain issuance to December 2026](https://www.eyeradio.org/over-37000-new-passport-booklets-arrive-stocks-to-last-until-december-officical/) with processing at about three days, and in Greater Yei [over 4,000 national identity cards began being collected on 13 July](https://www.onecitizendaily.com/index.php/2026/07/13/thousand-begin-collecting-national-identity-cards-in-greater-yei/).
+
+The directorate changed hands on 9 August, and both officeholders put numbers on the record. The outgoing director [put stock at about 32,000 passport booklets and 172,000 national identity cards, alongside 100 new mobile registration kits, a Nairobi memorandum toward an integrated civil registration system, and adult passport validity extended to ten years](https://www.sudanspost.com/outgoing-immigration-chief-says-he-tackled-passport-id-card-shortages/) — claims made at his own handover about his own tenure. His successor [put annual applicants above one million and delays at about a month](https://www.radiotamazuj.org/en/news/article/new-immigration-chief-pledges-faster-corruption-free-services), pledging faster and corruption-free issuance.
+
+The largest registration actually carried out in the window was not the state's. The migration agency ran a [biometric registration and re-registration exercise across the Malakal protection-of-civilians site, the Bulakat transit centre and the Bentiu displacement camp, serving about 160,000 people between April and June](https://reliefweb.int/report/south-sudan/south-sudan-community-feedback-referral-analysis-april-june-2026), and its community-feedback data records an 1,100% rise in queries over the quarter, driven almost entirely by that exercise. No data-controller arrangement, retention rule, consent record or relationship to the national identity system is stated for it.
+
+## Sudan
+
+The national digital identity system acquired a use case that makes it consequential, and the consequence lands on bank accounts. On 12 August the central bank [ordered banks to suspend and freeze customer accounts not updated by 30 September](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/), under anti-money-laundering and counter-terrorist-financing data-verification requirements. Five days later it [extended the deadline to the end of 2026 and named the rollout of the national digital identity system as the route by which customers are to update their data](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/).
+
+Bankers [backed the directive as necessary for the banking system's soundness while warning that freezing non-compliant accounts risks financial exclusion amid war-driven displacement and lost documentation](https://sudanhorizon.com/bankers-customer-data-updates-essential-but-flexibility-needed-for-financial-inclusion/). The directive text is not held; no count of accounts affected, no exception for displaced customers without documents and no appeal route is stated. Nor is any enrolment figure held for the identity system itself — so account continuity is being tied to a credential whose coverage is unmeasured, which is the exclusion risk the base recorded before it launched.
 
 ## Tanzania
 
@@ -185,6 +223,8 @@ The health identifier's provenance became public on [27 July 2026](https://www.a
 
 The identity authority put its own constraint on the record on 7 August: it is [operating at 70% of its approved workforce, with 25 districts served by a single member of staff and two board seats vacant](https://allafrica.com/stories/202608070683.html). The figures were given to the internal affairs minister alongside a request for a permanent headquarters and additional wage funding.
 
+Four days later the Auditor General's account of the same authority reached the press, and it puts a size on the consequence. As at late October 2025 [17 million citizens were still awaiting national identity cards, only 0.2% of first-time applicants had been cleared for printing, the staff vacancy rate stood at 26% and identity renewal faced a UGX256.8bn funding shortfall](https://redpepper.co.ug/id-nightmare-ugandans-curse-nira-over-r-nile-like-long-queues-confusing-collection-points-rejected-new-ids/150319/) — reported amid cross-district queue chaos over collection of new cards. The figures are ten months old at publication, and the authority publishes no current backlog series against which to test them.
+
 ## Zambia
 
 Nothing published in the window moves the identity position. The most recent enrolment statement remains about 1.5 million of about 20 million people, roughly 7.5%, restated on 27 July ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)), and biometric card issuance remains deferred until after the 13 August election.
@@ -192,3 +232,5 @@ Nothing published in the window moves the identity position. The most recent enr
 ## Zimbabwe
 
 A deputy registrar general told a meeting of African registrars general on 24 July that electronic passport enrolment centres operate in ten districts, eight provincial centres and one abroad, with seven-day issuance away from the capital ([meeting account](https://www.zbcnews.co.zw/african-registrars-look-to-replicate-zimbabwes-e-passport-success/)).
+
+The registration end of the same estate is being rebuilt with donor money. [Ten civil registry sub-offices across eight districts are being computerised, digitalised and solar-powered under a China-funded project with UNICEF](https://newziana.co.zw/unicef-government-move-to-digitise-birth-registration-services/), to widen birth-registration access in underserved communities through mobile registration and outreach alongside existing water, sanitation and nutrition platforms. No value, timetable, district list or birth-registration baseline is stated, so there is nothing to measure the effect against.

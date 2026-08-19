@@ -1,17 +1,15 @@
 ---
 title: Innovation ecosystem — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: tech.innovate
-places: DZA; BDI; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
-record: 7c6a1043d2c3
+places: DZA; BDI; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
+record: eee16eb4a985
 ---
 
 # Innovation ecosystem: monthly update, July 2026
 
-*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -37,13 +35,17 @@ A government communiqué of 3 August confirmed that the [Startup Act implementin
 
 Egypt [led the continent in the first half of 2026 with US$327m raised, US$183m of it equity](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/), after a 2025 in which one tracker counted US$378.95m across 43 startups, second to Nigeria for a second year, funded ventures falling 15.7% as the average raise rose to US$8.81m. A competing tracker's half-year figures for 2025 exceed twice that full-year total, and neither states its inclusion rules.
 
+## Eritrea
+
+On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self-organised software collective that has released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) — literacy, puzzle, cultural-heritage and arithmetic tools built to the national curriculum — and set out a plan to extend them to Eritrea's eight other national languages. It is the first non-state software effort the base holds for Eritrea. No download count, distribution channel or funding source is stated, and the account is the state broadcaster's own.
+
 ## Eswatini
 
 [Digital transformation was named a priority of the Eswatini-Taiwan relationship](https://independentnews.co.sz/47014/business/digital-innovation-take-centre-stage-on-eswatini-taiwan-cooperation/) at a leaders' meeting in Taipei, with no instrument, figure or implementing agency named; the meeting's own date is not established.
 
 ## Gabon
 
-The open-innovation programme was launched on 14 July 2026 with the employers' federation, addressing a population the organisers put at 150 to 200 start-ups, with pre-selection on 24 July and a final on 4 August ([launch](https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/)); no laureate list has followed the final.
+The open-innovation programme was launched on 14 July 2026 with the employers' federation, addressing a population the organisers put at 150 to 200 start-ups, with pre-selection on 24 July and a final on 4 August ([launch](https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/)). The final was postponed on 6 August after participating start-ups objected to how the edition was organised, and a [revised agenda published on 11 August](https://agpgabon.ga/gabon-numerique-kimba-connect-le-bilan-de-la-premiere-preselection-dresse/) runs pitches to 24 August and moves the final to late September or early October. The same account gives the programme's first participation figures: 155 registered start-ups, 133 of which submitted against its 16 published challenges, and 66 shortlisted. The figures are the organisers' own and no laureate list or selection criteria has been published.
 
 On 4 July, at the data-centre inauguration, the ministry and the facility's operator signed a memorandum giving ministry-supported start-ups professional hosting at preferential rates ([account](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). No rate, eligibility list or take-up figure has been published.
 

@@ -1,15 +1,15 @@
 ---
 title: Standards — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: gov.standards
-places: DZA; BEN; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GHA; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA
-record: fbb4384d6563
+places: DZA; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GHA; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA
+record: 409fec990a5d
 ---
 
 # Standards: monthly update, July 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,12 @@ Interoperability gained its rules and its gatekeeper in the same month. The [con
 ## Cape Verde
 
 The Prime Minister told Parliament during the State of the Nation debate on 31 July 2026 that the statistics institute had produced falsified data, and announced an independent evaluation to establish alleged interference and manipulation. On 3 August the institute's board rejected the allegations clearly, firmly and categorically, and said it was available to receive any external evaluation mission or peer review, undertaking to supply all technical documentation ([both accounts](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949)). Nothing is established about the evaluation's terms of reference, who conducts it, when it reports, or whether its findings will be published. The dispute is not new — anonymous technicians raised it in August 2025 and the institute rejected it in September 2025 — and the two accounts remain unreconciled.
+
+## Central African Republic
+
+Enforcement of the satellite-access rule moved from communiqué to the street. On 12 August the regulator [began a control operation across Bangui — Damala, Benz-Vi and Miskine, and the Don Bosco and Marabéna roundabouts — to identify internet-access points absent from its own registers](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), on the digital economy minister's instruction. The ministry's estimate is [about 3,000 Starlink users in the country against 200 registered with the regulator](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), and the operation is to extend progressively to provincial cities.
+
+Two of the operators visited said they had not been told registration was required and undertook to regularise. No register total is published, so the ratio stands on the ministry's own account.
 
 ## Cote d'Ivoire
 

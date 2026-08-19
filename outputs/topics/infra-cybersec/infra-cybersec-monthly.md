@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 subject: infra.cybersec
-places: AGO; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 58811cda27e8
+places: AGO; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 137b212d8de9
 ---
 
 # Cybersecurity: monthly update, July 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -37,9 +37,15 @@ EAC central bank governors, meeting in July 2026 as the Monetary Affairs Committ
 
 A [fourth loan tranche of FCFA 39.2bn for intelligent urban video surveillance was authorised by decree](https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveillance-urbaine/), bringing FCFA 150.8bn mobilised over eight years across three Chinese lenders. The first phase's borrower was the defence ministry, and the two accounts held give different amounts and dates for it. No camera count, coverage area, retention rule or oversight arrangement is published for any tranche.
 
+The month also produced the base's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
+
 ## Cape Verde
 
 The surveillance programme moved to a third phase on foreign money. China [made about EUR 9.3m available as non-reimbursable assistance for phase three of the Cidade Segura project](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/), the implementation agreement signed in the week to 15 August by the interior minister and the Chinese ambassador at the National Police Command Centre in Praia, and stated as reinforcing the technological and operational capacity of the security forces and supporting criminal investigation. [Phase three covers command centres, data centres and wireless base stations at Assomada, Tarrafal de Santiago and Porto Novo, and expanded video surveillance in Praia and Mindelo](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/). No camera count, retention rule, data-protection authorisation or oversight arrangement is published for this phase or the two before it.
+
+## Chad
+
+The window's one cyber measure is a loss figure, and it comes from research rather than from the state. A comparative study of online job scams [puts the average loss for a Chadian victim at 58,000 FCFA per incident, against 132,000 FCFA in Cameroon](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds the Chadian cases to be predominantly localised SMS and voice phishing — 70% of respondents — where the Cameroonian pattern is WhatsApp-based social engineering linked to Nigerian networks. It is a survey of respondents rather than a reported-crime series, and neither a sample size nor a national loss total is carried in the record held. Chad has no computer emergency response team and no adopted cybersecurity strategy, so there is nothing on the state's side of this to compare it against.
 
 ## Congo
 
@@ -121,6 +127,8 @@ PAFIID reported on 8 July that the Central Bank's AI-supported reputation-protec
 
 Two cyber measures moved. The [July omnibus would empower the central bank to establish a cyber threat intelligence sharing platform](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) and to require financial institutions, and others it specifies, to participate — the clearest instance of mandatory threat-intelligence sharing in primary legislation on this record. At a [workshop on 29 July](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993) the postal operator began being wired into the Universal Postal Union's global postal threat-sharing centre, with the ICT minister naming ISO/IEC 27001 as the standard he wants adopted.
 
+August supplied the first figure for what any of this is against: [more than 4,000 reported cyber incidents in Mauritius since January 2026](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), given at the launch of the schools awareness programme. No reporting body, definition or comparable earlier period is named with it.
+
 ## Morocco
 
 The [national cybersecurity strategy to 2030 is now held in full: four pillars — governance, cyberspace resilience, capacity development and regional cooperation — with 11 objectives, 26 initiatives and 60 actions](https://www.dgssi.gov.ma/sites/default/files/publications/pdf/2024-10/Strat%C3%A9gie%20Nationale%20de%20Cybers%C3%A9curit%C3%A9%202030.pdf), succeeding the first strategy of 2012. Its workforce commitments carry no numbers, and [a separate held source dates a national cybersecurity strategy to 2023 with US$100m earmarked and an agency created](https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031) — whether the two are the same instrument is not established.
@@ -159,13 +167,17 @@ The National Communications Authority [launched a National Cybersecurity Risk Ma
 
 Two independent readings of the year both point at the same thing. The financial regulator's fourth regulatory actions report records [140 public warnings and R2.89bn in penalties on 76 persons for the year to March](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ), most warnings concerning unregistered providers promoting investment offerings on social media and about a fifth involving impersonation of licensed institutions, the regulator and its own staff among them. [Over R2bn of that total is a single deepfake-advertising matter](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ), whose debarment and penalty reconsiderations were still pending at the report date. Separately a forensics firm puts [attacker dwell time at 18 days in 2025, with some intrusions running start to finish inside a day](https://www.itweb.co.za/article/ransomware-gangs-intensify-attacks-in-sa/lLn147mQzxP7J6Aa), attributed to ransomware-as-a-service and automated reconnaissance. It is one firm's caseload rather than a national series, and a shorter dwell time is faster execution, not better defence.
 
+The state's answer to its own exposure is a training tender. The public service and administration department is [tendering to build a training programme for departmental information security officers across the public sector](https://www.itweb.co.za/article/top-ict-tenders-dpsa-targets-info-security-officer-training/WnpNgM21Zx87VrGd), to implement the directive on public service information security. No officer count, curriculum, budget or compliance deadline under that directive is stated.
+
 ## Sudan
 
 [The Council of Ministers reviewed a draft Cybersecurity Law on 6 August 2026](https://sudantribune.net/article/317108), alongside draft Data and AI and Digital Transformation laws, and sent all three back for further study; no text has been published for any of them. A Sudanese delegation separately told an Arab-experts meeting in Tunis on 30 July that the country's cybercrime provisions are drafted to prevail over any conflicting law, reasoned on state sovereignty — a claim not yet reconciled with the draft law's own unsettled status.
 
 ## Tanzania
 
-One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228). No national seizure, deregistration or prosecution series is held against which to read it.
+One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228).
+
+August gave the national series the earlier account lacked. The regulator told Parliament it had [blocked 39,117 fraud-linked phone numbers and 6,118 domains and applications in the 2025/26 financial year, removed 7,311 violating accounts and submitted 56 security-incident reports to the police](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/); and it [identified 7,334 mobile lines linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter](https://www.thecitizen.co.tz/tanzania/business/government-telecoms-join-forces-to-combat-growing-mobile-fraud-5553640), with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. Blocking is not prosecution: [56 incident reports stand against 39,117 numbers blocked](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/), and no conviction or restitution figure is held.
 
 ## Togo
 
@@ -173,7 +185,9 @@ The cyber institutions are in place and the record of what they do is thin. [The
 
 ## Tunisia
 
-The national cybersecurity agency [warned on 30 July 2026 of an SMS phishing campaign](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151319-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86) built on fake unpaid-traffic-fine notices sent from foreign numbers, carrying links to counterfeit platforms that harvest banking and personal data. Its advice was to distrust unsolicited messages, and its offered test was that Tunisian government sites use only the national domain. The lure borrows the credibility of the state's own digitised payment channels; the response on record carries no takedown power and names no data-protection authority.
+The national cybersecurity agency [warned on 30 July 2026 of an SMS phishing campaign](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151319-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86) built on fake unpaid-traffic-fine notices sent from foreign numbers, carrying links to counterfeit platforms that harvest banking and personal data. Its advice was to distrust unsolicited messages, and its offered test was that Tunisian government sites use only the national domain. The lure borrows the credibility of the state's own digitised payment channels; the response on record carries no takedown power and names no data-protection authority. A [second alert on 14 August](https://www.lapresse.tn/2026/08/14/tentatives-de-piratage-des-comptes-facebook-lansc-appelle-a-la-vigilance/) warned of a surge in social-media account takeovers worked through SMS and email verification-code social engineering.
+
+The scale behind the alerts was published on 7 August: [57,430 cyberattacks recorded in the first half of 2025, and ransomware cases up 140% to 37,076 in 2024](https://www.leconomistemaghrebin.com/2026/08/07/cyberattaques-tunisie-explosion-ransomwares/), on interior ministry and agency figures, as the government finalised a National Cybersecurity Strategy 2026-2030 aimed at critical-infrastructure resilience and skills. The two figures cover different periods and are not a series; no definition of a recorded attack and no incident-reporting obligation behind the count is stated.
 
 ## Uganda
 
