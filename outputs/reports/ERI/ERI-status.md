@@ -1,15 +1,15 @@
 ---
 title: Eritrea — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-19
 place: ERI
-ledger_rows: 11
+ledger_rows: 12
 not_held: 4
-record: 637e070f11de
+record: 4e377255e375
 ---
 
 # Eritrea: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/ERI/ledger.csv` (11 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/ERI/ledger.csv` (12 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -88,6 +88,12 @@ The one governance development on record is a [Bank of Eritrea legal notice](htt
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Eri-Chat offline AI app | [Implemented](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/) | Q&A profile of developer Naod Goitom Isaac; app launched April 2025, showcased at Asmara UN Day event, Oct 2025 |
+
+### Innovation ecosystem
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Shambko Apps Group Tigrinya-language applications | [Implemented](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) | Five applications released, described in a 2026-08-15 interview |
 
 <!-- narrative: ai-tech -->
 The base holds one concrete AI/innovation data point: [Eri-Chat](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/), an offline artificial-intelligence mobile application built by a Ministry of Information software developer and launched in April 2025, storing conversation data only on the user's device. It was showcased to ambassadors and UN officials at Asmara's UN Day event in October 2025; it remains English-only, its developer citing insufficient training data for Eritrea's other languages.

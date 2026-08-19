@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: NER
 ledger_rows: 56
 not_held: 3
-record: b3d7491c6327
+record: bddacd0b8dd7
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/NER/ledger.csv` (56 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/NER/ledger.csv` (56 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -90,7 +90,7 @@ The regulator has real-time visibility of the networks it supervises, through a 
 | AES biometric national identity card | [Implemented](https://www.lesahel.org/carte-nationale-didentite-biometrique-aes-lancement-de-lenrolement-de-masse-sous-le-signe-de-la-souverainete-numerique/) | Mass enrolment from 25 April 2026 across Niamey's 20 commissariats |
 | AES biometric passport | [Implemented](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html) | Enrolment opened 2026-07-16 with the president the first enrollee |
 | AES harmonised travel and identity document specifications | [Implemented](https://bamada.net/libre-circulation-dans-laes-validation-des-passeports-et-cartes-didentite-harmonises-par-les-ministres-de-la-securite) | Validated by the three security ministers at Bamako |
-| Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques | [Implemented](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Created by decrets n2026-242 and n2026-243 of 2026-04-22 |
+| Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques | [Implemented](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/) | Created by decret n°2026-242 of 2026-04-22, its statutes approved by decret n°2026-243 |
 | MOSIP open-source identity pilot | [Piloting](https://www.biometricupdate.com/202502/bioenable-powers-niger-pilot-for-mosip-based-national-digital-id) | More than 3,000 enrolled across four communes |
 | WURI-Niger identification programme | [Implemented](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Restructured to the Refondation programme |
 
@@ -110,7 +110,7 @@ The regulator has real-time visibility of the networks it supervises, through a 
 | Filingue birth-certificate pilot | [Piloting](https://www.biometricupdate.com/202505/niger-starts-pilot-under-wuri-project-to-issue-birth-certificates-to-21k-under-fives) | Targeting 21,202 under-fives |
 | National Civil Register | [In development](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Instituted by ordonnance n2026-21 of 2026-04-22 |
 | National Nationality Register | [In development](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Instituted by ordonnance n2026-21 of 2026-04-22 |
-| National Population Register | [In development](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | National tour on the legal texts and enrolment launched at Tahoua 2026-08-11 |
+| National Population Register | [In development](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/) | National civil-status and identification awareness tour officially launched at Dosso 2026-08-14, after the Tahoua leg |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 

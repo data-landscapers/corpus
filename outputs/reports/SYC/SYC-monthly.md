@@ -1,21 +1,21 @@
 ---
 title: Seychelles — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: SYC
-ledger_rows: 18
+ledger_rows: 22
 not_held: 6
-record: d66004838f67
+record: 9893748404ba
 ---
 
 # Seychelles: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Sixteen rows moved between 1 July and 11 August 2026. The National Assembly approved accession to the Budapest Convention on Cybercrime; Airtel switched on commercial 5G and Starlink began commercial service; and Cabinet approved a National AI in Education Framework, a Foreign Exchange Act amendment, UNOOSA accession and Multidimensional Vulnerability Index measures in a single 22 July sitting. India's NPCI signed a UPI memorandum during Prime Minister Modi's visit, and the Seychelles Revenue Commission advanced e-invoicing procurement to its final stage.
+Twenty-two rows fall in the window from 1 July to 19 August 2026. The National Assembly approved accession to the Budapest Convention on Cybercrime; Airtel switched on commercial 5G and Starlink began commercial service; and Cabinet approved a National AI in Education Framework, a Foreign Exchange Act amendment, UNOOSA accession and Multidimensional Vulnerability Index measures in a single 22 July sitting. India's NPCI signed a UPI memorandum during Prime Minister Modi's visit, and the Seychelles Revenue Commission advanced e-invoicing procurement to its final stage. In August the record turned to institutions and to what the public makes of them: the National Institute for Science, Technology and Innovation was described as reinstated under the Office of the Vice-President, and an Afrobarometer survey found perceived media freedom down six points since 2022, two months after Parliament moved appointment power over the public broadcaster's board to the President.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -59,12 +59,19 @@ Cabinet approved accession to the UN Committee on the Peaceful Uses of Outer Spa
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Cabinet approved measures to operationalise the Multidimensional Vulnerability Index on 22 July 2026, naming "enhanced data and institutional capacity" and alignment of planning and budgeting frameworks as the instruments, with no implementation detail yet given. [President Herminie restated a "fully digitalised e-government by 2030" target on 4 August](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles), while receiving Malta's first High Commissioner's credentials and naming bilateral technical cooperation as the route under discussion.
+Cabinet approved measures to operationalise the Multidimensional Vulnerability Index on 22 July 2026, naming "enhanced data and institutional capacity" and alignment of planning and budgeting frameworks as the instruments, with no implementation detail yet given. [President Herminie restated a "fully digitalised e-government by 2030" target on 4 August](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles), while receiving Malta's first High Commissioner's credentials and naming bilateral technical cooperation as the route under discussion. On 10 August the institution meant to carry that work was described as back in place: [the National Institute for Science, Technology and Innovation has been reinstated, its Secretariat sitting under the Office of the Vice-President](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) after five years in which it was closed and its functions folded into a ministry division. Its Secretary of State puts its near-term focus on technological innovation in government procedures and on accelerating the digitalisation of public-service delivery. No commencement notice for the NISTI Act 2025 is on record, so the body is described as functioning without the statute behind it being shown to be in force.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 [AUDA-NEPAD launched its Programme for African Developing Island Economies at the AU's STC Ministerial Segment in Abidjan on 24 July 2026](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies), adopting a ministerial communique covering seven island states including Seychelles on a 2026–2031 roadmap that names digital transformation one of six pillars, alongside partners Korea, AfDB, the regional economic communities and the Indian Ocean Commission.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+[Parliament amended the Seychelles Broadcasting Corporation Act in June 2026](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/), transferring greater power over the appointment and dismissal of the public broadcaster's board from the independent Constitutional Appointments Authority to the President. The base holds no primary text of the amendment; what it holds is Afrobarometer's August dispatch, which reports it citing Broadcast Media Africa and the International Press Institute, and sets it against the survey it was publishing.
+
+That survey, fielded in 2025, finds [45% of Seychellois calling the media somewhat or completely free, down from 51% in 2022, with 52% saying it is not very or not at all free](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) — a decline recorded on a media environment that Reporters Without Borders ranked 35th globally in 2026, up ten places. Appetite for oversight is not in doubt: [78% want the media to investigate government mistakes and corruption constantly, and 85% back the right to publish without government interference](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/).
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -77,6 +84,11 @@ Cabinet approved measures to operationalise the Multidimensional Vulnerability I
 
 ## Inclusion and capacity
 
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The same survey puts a number on demand for open government, which the Access to Information Act reform has been drafted against since November 2025 without a Bill reaching Parliament. [62% say the public should have access to government information, against 25% who say it is for officials only](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/); support is strongest where the information is fiscal — [84% for district-administration budgets and 82% for bids and contracts on government projects](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) — and falls to 47% for the salaries of district administrators and teachers.
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: inclusion--capacity-training -->

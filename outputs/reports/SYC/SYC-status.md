@@ -1,15 +1,15 @@
 ---
 title: Seychelles — digital transformation and data governance status report
-compiled: 2026-08-14
+compiled: 2026-08-19
 place: SYC
-ledger_rows: 48
+ledger_rows: 50
 not_held: 6
-record: df43f5eaed5f
+record: 9f29c416f75b
 ---
 
 # Seychelles: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/SYC/ledger.csv` (48 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/SYC/ledger.csv` (50 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -148,6 +148,7 @@ Digital identity has not moved since 2024: [SeyID's two-tier credential](https:/
 |---|---|---|
 | 'Fully digitalised e-government by 2030' target | [Planned, restated](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles) | President Herminie reaffirmed the target while receiving Malta's first High Commissioner's credentials, exploring bilateral technical cooperation |
 | Multidimensional Vulnerability Index (MVI) operationalisation | [Planned](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Cabinet approved national measures naming enhanced data and institutional capacity and alignment of planning/budgeting frameworks as the instruments |
+| National Institute for Science, Technology and Innovation (the body) | [Implemented, reinstated](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) | Reinstated with its Secretariat under the Office of the Vice-President, described 2026-08-10 |
 
 ### Regional collaboration
 
@@ -161,6 +162,12 @@ Digital identity has not moved since 2024: [SeyID's two-tier credential](https:/
 |---|---|---|
 | Data Protection Act 2023 (Act 24 of 2023) | [Enacted, in force in full](https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf) | s.56(1)'s 18-month transition (from the 22 Dec 2023 commencement) elapsed; controllers/processors now subject to the Act in full |
 | Information Commission (data-protection authority) | [Implemented, enforcement-capacity gap documented](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf) | InfoCom's ATIA reform whitepaper names 'no clear power to enforce its orders' as its own most urgent weakness |
+
+### Public debate and participation in policymaking
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Appointment and dismissal power over the SBC board | [Implemented](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) | Seychelles Broadcasting Corporation Act amended by Parliament, June 2026 |
 
 ### EU activities
 

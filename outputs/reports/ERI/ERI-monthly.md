@@ -1,21 +1,21 @@
 ---
 title: Eritrea — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: ERI
-ledger_rows: 2
+ledger_rows: 3
 not_held: 5
-record: 59efabdf6613
+record: b720a886aee3
 ---
 
 # Eritrea: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two developments were recorded between 1 July and 11 August 2026, in a base whose reporting outlets are limited to Eritrea's Ministry of Information (Shabait) and the diaspora/opposition outlet Awate.com. [The Bank of Eritrea issued a legal notice](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/) around 30 June ordering all cash held outside banks deposited by 31 July or the account-holder faces legal action. [Starlink's own coverage-availability map continued to show no planned launch date for Eritrea](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) as of 17 July, one of seven African states, all in the north or the Horn, in that position.
+Three developments were recorded between 1 July and 19 August 2026, in a base whose reporting outlets are limited to Eritrea's Ministry of Information (Shabait) and the diaspora/opposition outlet Awate.com. [The Bank of Eritrea issued a legal notice](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/) around 30 June ordering all cash held outside banks deposited by 31 July or the account-holder faces legal action. [Starlink's own coverage-availability map continued to show no planned launch date for Eritrea](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) as of 17 July, one of seven African states, all in the north or the Horn, in that position. And on 15 August the information ministry [interviewed Shambko Apps Group, a self-organised software collective that has released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) built to the national curriculum, with a stated plan to extend to Eritrea's eight other national languages.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -32,4 +32,12 @@ Two developments were recorded between 1 July and 11 August 2026, in a base whos
 
 <!-- narrative: governance--gov-legislate -->
 [The Eritrean government issued a legal notice around 30 June 2026](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/), reported by the diaspora/opposition outlet Awate.com with the notice's text embedded, ordering individuals and institutions to deposit cash held outside banks by 31 July 2026 "or face legal action." The notice defines neither an "excessive amount" nor an enforcement mechanism; Awate's commentary — attributed opposition framing, not neutral fact — links the measure to memories of Eritrea's 2015 currency changeover and argues it will fall hardest on a largely cash-based, under-banked population with limited rural bank access.
+<!-- /narrative -->
+
+## Artificial intelligence and the technology sector
+
+### Innovation ecosystem
+
+<!-- narrative: ai-tech--tech-innovate -->
+On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self-organised software collective that has released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) — literacy, puzzle, cultural-heritage and arithmetic tools built to the national curriculum — and set out a plan to extend them to Eritrea's eight other national languages. It is the first non-state software effort the base holds for Eritrea. No download count, distribution channel or funding source is stated, and the account is the state broadcaster's own.
 <!-- /narrative -->

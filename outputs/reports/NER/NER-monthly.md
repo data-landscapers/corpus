@@ -1,21 +1,21 @@
 ---
 title: Niger — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: NER
-ledger_rows: 24
+ledger_rows: 25
 not_held: 4
-record: 0f668c8a6880
+record: 838e2f9d456b
 ---
 
 # Niger: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two threads run through the window. The identity programme moved from card to travel document and from decree to build: [passport enrolment opened on 16 July](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html), the [restructured WURI project was set out with its three statutory registers and its new agency](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/), and a [technical mission went to Burkina Faso to study its identification stack](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/).
+Two threads run through the window. The identity programme moved from card to travel document and from decree to build: [passport enrolment opened on 16 July](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html), the [restructured WURI project was set out with its three statutory registers and its new agency](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/), a [technical mission went to Burkina Faso to study its identification stack](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/), and in August the population register's awareness tour took the statutory texts to the regions, [officially launched at Dosso on 14 August](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/).
 
 The second is administrative consolidation onto state platforms: the [integrated human resources and payroll system was presented with its first digitisation figures](https://www.lesahel.org/conseil-consultatif-de-la-refondation-la-ministre-aissatou-abdoulaye-tondi-explique-aux-conseillers-le-sigrhep/), and [student grants are to be routed through the Treasury's own application](https://anp.ne/niger-plusieurs-reformes-engagees-pour-ameliorer-le-secteur-de-lenseignement-superieur-et-les-performances-de-lanab/).
 <!-- /narrative -->
@@ -45,9 +45,11 @@ On 29 July the higher education minister said the grants agency reform consists 
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-The [WURI-Niger account records that 66% of births are declared](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/); the territorial administration ministry [put the figure at 79% against 53.48% in 2022](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) at the launch of the population register's enrolment tour. The two are differently based and the record does not reconcile them.
+Three differently based birth-registration series are now on record and none is reconciled to another. The [WURI-Niger account records that 66% of births are declared](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/); the territorial administration ministry [put the figure at 79% against 53.48% in 2022](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) at the launch of the population register's enrolment tour and restated it [at Dosso on 14 August](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/); and the same ministry [gave 80% in 2026 against 60% in 2023](https://anp.ne/tahoua-lancement-des-activites-commemoratives-de-la-journee-africaine-de-letat-civil-et-des-statistiques-de-letat/) at the African civil-registration day five days earlier.
 
-That tour is the register's first public campaign. It [opened at Tahoua on 11 August to make the governing legal texts and the intermediate enrolment operations known](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/), under the World Bank-financed identification programme and alongside rollout of the regional biometric identity card and passport.
+That day also produced the first count of how far registration has been computerised: UNICEF's Tahoua office said it had [contributed to computerising 68% of communes nationwide](https://anp.ne/tahoua-lancement-des-activites-commemoratives-de-la-journee-africaine-de-letat-civil-et-des-statistiques-de-letat/), and put the Tahoua region's own registration rate up from 69% to 75%, with four communes still uncovered. It is UNICEF's account of its own contribution; no ministry count is held.
+
+The register's public campaign ran through the window. It [opened at Tahoua on 11 August](https://anp.ne/lancement-a-tahoua-dune-tournee-nationale-de-vulgarisation-des-textes-juridiques-et-des-operations-denregistrement-intermediaire-au-registre-national-de-la-population/) to make the governing legal texts and the intermediate enrolment operations known, and was [launched officially at Dosso on 14 August](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/), where the interior ministry set out the statutory basis — ordonnance n°2026-21 on the civil-status regime, décret n°2026-242 creating the ANEI and décret n°2026-243 approving its statutes — and described the register as a central secure database assigning each citizen a unique identifier, interoperable with civil-status management, the biometric national card and travel documents.
 
 Also on 29 July, the Diffa regional civil-status directorate reported [173,109 birth certificates issued between July 2023 and July 2026](https://anp.ne/mise-en-oeuvre-du-programme-de-la-refondation-a-diffa-plus-de-173-000-actes-de-naissance-delivres-entre-juillet-2023-et-juillet-2026/), of which 109,382 were timely declarations, with the timely rate rising from 56% in 2022 to 88.04% in 2025.
 
