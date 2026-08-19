@@ -171,6 +171,23 @@ function widths(doc, box) {
   });
   check('nine rows in ten read in three lines or fewer', missed.length === 0, missed.join(', '));
   if (atCeiling.length) console.log(`        clamped by the ceiling: ${atCeiling.join(', ')} — these are the click-into columns`);
+
+  /* No word is broken across lines. Counting lines does not on its own catch this:
+   * a cell holding the single word "Connectivity" satisfies a three-line rule by
+   * breaking after "Connectivit", which is not fitting. Link columns are exempt —
+   * a URL is one unbreakable word and break-all is right for it. */
+  const links = (box.dataset.links || '').split(',').map(s => s.trim()).filter(Boolean);
+  const broken = [];
+  dataCols.forEach((w, i) => {
+    if (links.includes(cols[i])) return;
+    if (w - pad >= 500) return;          // at the ceiling: break-word is all that is left
+    let longest = 0, word = '';
+    rows.forEach(tr => tr.cells[i + 1].textContent.split(/[\s\/]+/).forEach(t => {
+      if (m(t) > longest) { longest = m(t); word = t; }
+    }));
+    if (longest > w - pad) broken.push(`${cols[i] || i} "${word}" needs ${Math.ceil(longest)}px in ${Math.round(w - pad)}px`);
+  });
+  check('no column is narrower than its longest word', broken.length === 0, broken.join('; '));
 }
 
 /* The row expander: what the columns leave out has to actually be in it. */

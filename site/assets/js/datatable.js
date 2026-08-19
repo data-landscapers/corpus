@@ -51,8 +51,8 @@
    So v2 measures the text and decides the widths itself, then fixes them:
 
      - Column widths are computed from the data (`columnWidth`), sized so that
-       every cell fits in three lines, floored by the header's own longest word
-       and by MIN_W, and capped at MAX_W. The
+       every cell fits in three lines and no word is broken, floored by the
+       header's own longest word and by MIN_W, and capped at MAX_W. The
        table is then `table-layout: fixed` with an explicit <colgroup>, which the
        header and body tables share — identical widths by construction, so they
        cannot drift apart the way v1's measure-after-render sync could.
@@ -255,23 +255,38 @@
      in front of them, and it truncates exactly the rows most worth reading — the
      long ones. Horizontal scrolling is the cheaper cost.
 
-     Two floors sit under it: MIN_W, below which a column reads as a sliver, and
-     the header's own longest word, so a label never stacks one letter per line.
+     Three floors sit under it. MIN_W, below which a column reads as a sliver. The
+     header's own longest word, so a label never stacks one letter per line. And
+     **the longest word in the data**, because counting lines is not on its own
+     enough: a cell holding the single word "Connectivity" satisfies a three-line
+     rule perfectly well by breaking after "Connectivit", which is not what anyone
+     means by fitting *(Bill, 2026-08-19 — the `sector` column, one character
+     short)*. A word is the unit that must not be broken; the line count governs
+     what happens between words. Link columns are exempt, because a URL is one
+     unbreakable word 180 characters long and `word-break: break-all` is the
+     correct treatment for it.
      The ceiling MAX_W is the one place truncation survives, and on this data it
      binds on `description` alone — 518 characters in a median row, which at three
      lines wants 2,600px, a column wider than the screen it would be read on. So
      description is clamped at the ceiling and carried in full in the detail panel
      as well, and every other column shows everything it holds. */
-  function columnWidth(header, values, mText, mHead, pad) {
+  function columnWidth(header, values, mText, mHead, pad, breakAnywhere) {
     var headMin = mHead(longestWord(header.replace(/_/g, ' '))) + 18;   // + sort arrow
     var spaceW = mText(' ');
 
-    var cells = [], step = Math.max(1, Math.ceil(values.length / 400));
+    var cells = [], wordFloor = 0, step = Math.max(1, Math.ceil(values.length / 400));
     for (var i = 0; i < values.length; i += step) {
       if (!values[i]) continue;
       var words = String(values[i]).split(/\s+/).filter(Boolean);
-      cells.push({ w: words, m: words.map(mText) });
+      var widths = words.map(mText);
+      cells.push({ w: words, m: widths });
+      if (!breakAnywhere) {
+        for (var j = 0; j < widths.length; j++) {
+          if (widths[j] > wordFloor) wordFloor = widths[j];
+        }
+      }
     }
+    wordFloor = wordFloor ? wordFloor + 1 : 0;     // a pixel of slack for hinting
     if (!cells.length) return Math.ceil(Math.max(MIN_W, headMin) + pad);
 
     function share(width) {
@@ -291,7 +306,7 @@
       }
       lo = hi;
     }
-    return Math.ceil(Math.max(lo, headMin, MIN_W) + pad);
+    return Math.ceil(Math.min(MAX_W, Math.max(lo, headMin, wordFloor, MIN_W)) + pad);
   }
 
   /* ── one table ────────────────────────────────────────────────────────── */
@@ -508,7 +523,7 @@
 
         var widths = cols.map(function (ci) {
           var w = columnWidth(headers[ci], rows.map(function (r) { return display(ci, r[ci]); }),
-                              mText, mHead, pad);
+                              mText, mHead, pad, !!linkCols[ci]);
           return minColW ? Math.max(w, minColW) : w;      // data-min-col-width is a floor
         });
         var total = widths.reduce(function (a, b) { return a + b; }, CARET_W);

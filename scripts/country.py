@@ -52,7 +52,6 @@ from __future__ import annotations
 
 import csv
 import html
-import io
 import re
 import shutil
 import sys
@@ -72,6 +71,11 @@ CATALOGUE_DIR = SITE / "catalogue"
 SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
 FINANCE_CUTOFF = 2022  # years before this are aggregated into one pivot column
+
+# The one field dictionary for every non-state finance table, in `site/metadata/`.
+# Hand-maintained by Bill; nothing here writes it, and a build that cannot find it
+# should say so rather than quietly link a 404.
+METADATA_CSV = "non-state-finance-metadata.csv"
 
 # ISO3 -> full country name, from lookups/countries.csv (see module docstring
 # and osint-corpus-exchange/notes-for-osint.md #9). Two entries carry proper accents the source CSV
@@ -108,31 +112,13 @@ KIND = {
 BASELINE_BLURB = ("Where the country stands across 37 questions, with a source for every claim")
 
 # Column definitions for the dictionary the full table offers, from
-# FINANCE-COMPILE.md § "CSV export". Two columns the CSV carries are not
-# described there — see osint-corpus-exchange/notes-for-osint.md #7 — and are marked as read off
-# the data.
-FIELDS = [
-    ("recipient_country", "ISO-3 code of the country the commitment is tagged to. The join key.", "FINANCE-COMPILE.md"),
-    ("start_year", "Year the commitment starts, or the year it was announced where no start is stated.", "FINANCE-COMPILE.md"),
-    ("end_year", "Year the commitment ends, where one is stated.", "FINANCE-COMPILE.md"),
-    ("financier", "Canonical financier name, resolved from financier_slug. Never key analysis on this field.", "FINANCE-COMPILE.md"),
-    ("sector", "Subject slug's display name, from the wiki taxonomy.", "FINANCE-COMPILE.md"),
-    ("instrument", "Loan, grant, equity, guarantee or other form the money takes.", "FINANCE-COMPILE.md"),
-    ("commitment_usd_m", "Amount committed, US$ millions, converted from the announcing party's own currency at a dated rate.", "FINANCE-COMPILE.md"),
-    ("amount_basis", "What the figure is: commitment, disbursement, or other.", "read off the data"),
-    ("amount_quality", "How firm the figure is: exact, rounded, estimated, reported, imputed, stated.", "read off the data"),
-    ("status", "Status of the commitment as last reported — approved, launched, signed, completed.", "FINANCE-COMPILE.md"),
-    ("title", "Record title: financier, what, and year.", "FINANCE-COMPILE.md"),
-    ("description", "The full record block, including quoted source text.", "FINANCE-COMPILE.md"),
-    ("beneficiary_type", "Government, private sector, civil society or other.", "FINANCE-COMPILE.md"),
-    ("recipient_organisation", "Name of the receiving organisation, where stated.", "FINANCE-COMPILE.md"),
-    ("original_amount", "The amount as announced, in the currency announced.", "FINANCE-COMPILE.md"),
-    ("project_id", "Financier's own project identifier, where one is published.", "FINANCE-COMPILE.md"),
-    ("iati_activity_id", "IATI activity identifier, where the financier publishes to IATI.", "FINANCE-COMPILE.md"),
-    ("url", "The publisher's own link to the source the record was read from.", "FINANCE-COMPILE.md"),
-    ("financier_slug", "Canonical financier identifier. The key to group or join financiers on.", "FINANCE-COMPILE.md"),
-    ("record", "Slug of the wiki record this row was compiled from.", "FINANCE-COMPILE.md"),
-]
+# The field dictionary used to be generated here, from a FIELDS list duplicating the
+# schema FINANCE-COMPILE.md defines. Retired 2026-08-19 (Bill): one hand-maintained
+# file at site/metadata/non-state-finance-metadata.csv now serves every table, so the
+# schema is stated once rather than in fifty-four generated copies plus a Python list
+# that had already drifted from its stated authority — its definitions for instrument,
+# status and beneficiary_type each cited FINANCE-COMPILE.md for vocabularies that file
+# does not contain.
 
 csv.field_size_limit(10 ** 9)
 
@@ -163,7 +149,7 @@ def fields_csv(cols: list[str]) -> bytes:
 
 
 def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, str]:
-    """Publish the country's finance CSV and its field dictionary as dated editions (§9).
+    """Publish the country's finance CSV as a dated edition (§9).
 
     **The finance CSVs are editions; the catalogue is not** *(Bill, 2026-08-18)*. These are a
     compiled finding of ours that a reader may quote a figure out of, so they carry the same
@@ -171,15 +157,17 @@ def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, 
     only when the content changes, and no undated URL for a citation to slip off. The catalogue
     is a browse index over other people's records, and nobody cites it as of a date.
 
-    **The two are dated independently.** The dictionary describes the *columns*, which move far
-    less often than the rows, so pinning it to the data's edition would cut an identical copy of
-    it every time one deal was added. A dictionary cut in August still describes a September
-    edition's columns correctly, and its own date says when it last moved."""
+    **The per-country field dictionary is not written any more** *(Bill, 2026-08-19)*. Fifty-four
+    `{ISO3}-nonstate-fields-{edition}.csv` files described one schema fifty-four times, and a
+    schema described in fifty-four places is a schema that will eventually disagree with itself.
+    One file now serves every non-state finance table — `site/metadata/{METADATA_CSV}`, which is
+    Bill's and hand-maintained, not generated — and every page links it. It carries no edition
+    date because it is not a finding: it is the description of a shape, and describing the same
+    shape again in September is not a new edition of anything."""
     data, _ = editions.publish(
         (OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv").read_bytes(),
         out_dir, f"{iso}-nonstate", ".csv")
-    fields, _ = editions.publish(fields_csv(cols), out_dir, f"{iso}-nonstate-fields", ".csv")
-    return {"csv_name": data.name, "fields_name": fields.name,
+    return {"csv_name": data.name, "fields_name": f"../../metadata/{METADATA_CSV}",
             "csv_edition": editions.edition_of(data.stem) or ""}
 
 
@@ -583,7 +571,7 @@ FINANCE = """<!DOCTYPE html>
         <a class="btn" href="{fields_name}" download>&darr; Metadata</a>
       </div>
       <noscript>
-        <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="{fields_name}">{fields_name}</a> says what each column means.</p>
+        <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and the <a href="{fields_name}">field dictionary</a> says what each column means.</p>
       </noscript>
     </div>
 
@@ -594,7 +582,7 @@ FINANCE = """<!DOCTYPE html>
         <dt>Edition</dt><dd class="mono">{csv_edition}</dd>
         <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, retained as published and never revised</dd>
         <dt>Source</dt><dd><code>outputs/non-state-finance/{iso}-nonstate.csv</code>, compiled by the finance pass</dd>
-        <dt>Fields</dt><dd><a href="{fields_name}">{fields_name}</a> &mdash; what each column means</dd>
+        <dt>Fields</dt><dd><a href="{fields_name}">non-state-finance-metadata.csv</a> &mdash; what each column means. One dictionary for every country&rsquo;s table, not a copy per country</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
@@ -678,12 +666,26 @@ def build(iso: str) -> list[Path]:
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             **csv_names, **common), encoding="utf-8")
         written.append(out_dir / "finance.html")
-        written += [out_dir / csv_names["csv_name"], out_dir / csv_names["fields_name"]]
+        written.append(out_dir / csv_names["csv_name"])
 
     return written
 
 
+def check_metadata() -> None:
+    """The field dictionary is Bill's file, not a build product, so the build cannot
+    make one if it is missing — it can only refuse to link a 404. Every finance page
+    points at it, so an absence here is 54 broken links, and worth stopping for."""
+    p = SITE / "metadata" / METADATA_CSV
+    if not p.exists():
+        raise SystemExit(
+            f"country.py: {p.relative_to(CORPUS)} is missing.\n"
+            "  Every country's finance page links it as the field dictionary for the\n"
+            "  non-state finance CSV. It is hand-maintained and not generated, so put\n"
+            "  it back rather than expecting a rebuild to restore it.")
+
+
 def main() -> int:
+    check_metadata()
     ensure_catalogue_csv()
     isos = sys.argv[1:] or sorted(
         d.name for d in (OUTPUTS / "reports").iterdir()
