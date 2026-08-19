@@ -1,16 +1,16 @@
 ---
 title: Eswatini — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: SWZ
-ledger_rows: 27
+ledger_rows: 31
 not_held: 9
-record: 19afe3f272c2
+record: a64e581bcb93
 ---
 
 # Eswatini: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -49,6 +49,16 @@ Cross-border, an account published on 21 July established two things by implicat
 <!-- narrative: dpi--dpi-registry -->
 On identity, a proposal to [require DNA testing before issuing birth certificates was costed at about E126m a year, roughly 46% of the Home Affairs budget](https://times.co.sz/38899/news/dna-plan-could-swallow-e126m-of-home-affairs-budget/) — about E4,300 per test across about 29,400 births.
 <!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+The state's auditor put artificial intelligence at the centre of its own next four years. The Auditor-General [launched a strategic plan for 2026 to 2030 naming artificial intelligence and digital transformation as the route to stronger public-sector accountability, urging more than 80 audit officers to adopt them](https://techafricanews.com/2026/08/17/eswatini-auditor-general-urges-oag-staff-to-embrace-ai-and-digital-transformation/), developed with the INTOSAI Development Initiative and the African organisation of English-speaking supreme audit institutions. The plan text is not held, and no tool, data access, assurance standard or safeguard for audit use of artificial intelligence is stated — in a country whose national artificial-intelligence strategy is recorded as ***Not held***.
+<!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: dpi--digital-rural -->
+Rural data collection got hardware rather than a system. The agriculture ministry [handed 40 tablets and 4 laptops, valued at E313,504, to agricultural extension officers on 10 August](https://eswatinipositivenews.online/agriculture-minister-hands-over-e313-504-digital-gadgets-to-boost-agricultural-extension-services/) under an IFAD and Green Climate Fund-backed project, for real-time crop, livestock and weather reporting by officers working with smallholder farmers across all four regions. No officer total, data platform, reporting standard or custodian for the collected field data is stated, so what the reports feed into is not on the record.
+<!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
@@ -81,6 +91,8 @@ Asked on 4 August how online publications comply with the data-protection law, t
 
 <!-- narrative: governance--gov-protect -->
 The next day ESCCOM, as the data protection authority, [began validating draft advisory guidelines on the lawful processing of personal health data](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/) at Ezulwini, with the health ministry, providers, insurers, pharmacies and medical aid schemes. They will be published as a regulatory instrument under the Data Protection Act 2022, covering collection, retention, sharing, breach notification, cloud services and patient rights. The commission disclosed that it has concluded a complaint over a practitioner's unlawful disclosure of a patient's information.
+
+In August the same rule-making reached a second sector and produced a ranking. A week-long workshop [validated draft sector data-protection guidelines and produced a proposed whistle-blower-protection framework, with the regulator naming the financial sector as the leading source of personal-data breaches](https://times.co.sz/41235/news/financial-sector-tops-customer-information-leaks/) — through misdirected statements and invoices, and cybersecurity incidents exposing customer records. No breach count, penalty or enforcement action is published behind the ranking, and the draft guidelines are not held.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -121,6 +133,13 @@ On 22 July the [She Powers Africa Digital Academy launched virtually](https://ti
 
 <!-- narrative: inclusion--include-divides -->
 On 6 August the [Macetjeni Integrated Business, Employment and Innovation Hub was launched in the Lubombo Region](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/), the second after Pigg's Peak, established by the Small Enterprises Development Company with ESCCOM and UNDP. A third hub is in preparation for Shiselweni, with no start date, provider or cohort size given.
+<!-- /narrative -->
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The country's second innovation hub opened at [Macetjeni in the Lubombo region on 7 August, extending digital-skills and small-business support to a rural community](https://times.co.sz/41030/news/empowering-lubombo-macetjeni-ihub-officially-launched/), built by the small enterprise development company with the communications commission and UNDP under a youth empowerment programme, and following the Piggs Peak hub of 2025. No financing figure was disclosed for the facility, and no user, training or enterprise-support count is published for either.
+
+What firms say they need is not more hubs but a network that stays up. At a Mbabane panel on 7 August, logistics, renewable-energy and creator-economy speakers [argued that unreliable connectivity is now a direct cost to business, outweighing any saving from cheaper data](https://independentnews.co.sz/47133/business/reliable-connectivity-now-critical-for-business-growth/), describing real-time fleet tracking, remote solar-system monitoring and social-platform market access as core to operations, and urged investment in rural connectivity to widen economic participation. It is a panel of interested parties, and the base holds no reliability series to test it against.
 <!-- /narrative -->
 ### Training and skills
 

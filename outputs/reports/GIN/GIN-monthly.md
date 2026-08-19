@@ -1,16 +1,16 @@
 ---
 title: Guinea — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: GIN
-ledger_rows: 31
-not_held: 13
-record: f0ce397df451
+ledger_rows: 37
+not_held: 14
+record: fef4259d9a8e
 ---
 
 # Guinea: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -44,6 +44,8 @@ The cybersecurity statute of 2016 is held and cannot be read: the agency [publis
 
 <!-- narrative: dpi--dpi-exchange -->
 On 24 July, ONECI [signed a memorandum with NG Tech Innovation for a national interoperability and identity-verification platform over the RNPP](https://horoya.net/2026/07/25/guinee-loneci-et-ng-tech-innovation-sallient-pour-moderniser-lidentification-et-letat-civil/), under the Diama Djigui programme, before the elections director-general and Conakry's mayors. No value, duration or scope was disclosed and the text is not public.
+
+A second exchange was constituted in August, in the one domain where the state has a reason to move data between four ministries at once. The [national One Health platform's steering committee was activated on 14 August, with the health, higher education, environment and livestock ministries signing a protocol agreement](https://www.guinee114.com/2026/08/14/securite-sanitaire-la-guinee-active-sa-plateforme-nationale-une-seule-sante/) for shared data, joint epidemiological surveillance and coordinated response to zoonotic and environmental risk. No platform build, data-sharing rule, custodian or protection standard for the shared health and animal data is stated — which is the shape a [published commentary the same week](https://fr.linkedin.com/posts/mory-cisse-7a7a13134_guin%C3%A9e-num%C3%A9rique-protectiondesdonn%C3%A9es-activity-7492277329944141824-JNks) argues runs through the whole estate: sectoral platforms in health, policing and civil registry still siloed a decade after the 2016 cybersecurity and data-protection law and more than a year after the April 2025 decree creating the unique identifier, with no independent, operational data-protection authority and no sovereignty over hosting or system audits.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -61,11 +63,20 @@ On 10 August the territorial administration minister [put birth registration at 
 
 <!-- narrative: dpi--dpi-registry -->
 The [terms of reference for the RETSSM movable-collateral registry, opened 27 July under IDA Credit No. 74440GN](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf), set the objective as guaranteeing the availability, security, reliability and adoption of an operational registry — with the first work package finalising the institutional, legal and regulatory provisions it needs to function at all.
+
+The register that already works stopped working for the most basic reason there is. A civil-registration officer in Ratoma said on 7 August that the [secured paper the digital birth certificate is printed on had run out, leaving communes across Conakry and beyond unable to issue extracts for about a month](https://www.guinee360.com/07/08/2026/sans-papiers-securises-il-ne-peut-pas-y-avoir-dextraits-amadou-konia-camara-explique-lorigine-de-la-penurie/); his own commune processes all applicants regardless of home commune and holds reserve stock for urgent cases such as exam-result travel and medical need. No ministry statement, restocking date or national count of affected communes is held, and the absence is now recorded as a gap. Officials marking African civil-registration day three days later [named information gaps and material shortages as the remaining barriers to civil-status access](https://www.guinee360.com/10/08/2026/guinee-manque-dinformations-contraintes-materielles-les-freins-a-lacces-a-letat-civil/), the identification office's director general calling for tighter integration between health, civil-registration and statistical systems.
+<!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: dpi--dpi-mis -->
+Health information systems here are being built by private operators rather than by the ministry. A Guinean academy's [Visa Medical hospital-digitisation model is deployed in 19 Guinean hospitals with more than a million users on a self-financed basis, and is being extended to Chad, the Democratic Republic of the Congo and Morocco](https://guineenews.org/2026/08/13/financer-la-digitalisation-des-hopitaux-sans-endetter-letat-le-pari-reussi-dune-healthtech-guineenne-devenue-panafricaine/). Separately, a Guinea-based physician's platform [coordinates blood donation and blood-bank logistics across West Africa](http://www.wearetech.africa/en/fils-uk/tech-stars/esdras-azanmassou-builds-a-connected-network-for-safer-blood-donation), founded in 2022 to stop units expiring at one facility while another is short. Both are private; the figures are their own, and neither account states a ministry relationship, a patient-data protection arrangement or any interoperability with the national health information system, which remains In development.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The treasury [began rolling out Œil du Trésor](https://mediaguinee.com/2026/07/gestion-des-fonds-publics-avec-transparence-le-tresor-public-accelere-la-digitalisation-a-travers-la-plateforme-oeil-du-tresor/), a platform for prefectural treasurers to submit and track fund calls. No cost, vendor or completion date was disclosed.
+
+Two more of the administration's own paper processes went onto systems in August. [GEME, an electronic system for managing state mission orders, was launched on 13 August](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/) to control costs and improve accountability; no custodian, coverage, cost baseline or saving target is stated. The next day the President said he would [personally oversee GEDA, the decrees-and-orders management tool](https://guineenews.org/2026/08/14/decrets-et-arretes-mamadi-doumbouya-reprend-personnellement-les-commandes-de-geda/), to speed administrative processing, tying it to accelerating the Simandou 2040 programme. Personal oversight by the head of state is not an institutional control, and no throughput figure or publication rule is stated for either system.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 

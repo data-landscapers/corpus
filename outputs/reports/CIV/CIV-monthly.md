@@ -1,16 +1,16 @@
 ---
 title: Cote d'Ivoire — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: CIV
-ledger_rows: 53
+ledger_rows: 58
 not_held: 10
-record: bbbf8dd2f3b3
+record: dca6d98140a0
 ---
 
 # Cote d'Ivoire: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -44,6 +44,8 @@ The cyber agency [commissioned the national public key infrastructure](https://w
 
 <!-- narrative: dpi--dpi-exchange -->
 The minister told an information-systems seminar on 21 and 22 July that the first services onto the interoperability platform [had been chosen largely by volunteering rather than against user priorities](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite), against targets of 100 services online by end-2026 and 700 within three years. No count of services in production has been published. Fourteen migration bodies met on 30 July to [co-design a single collection and profiling tool for returning migrants](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) and a roadmap for transferring their data into one directorate; no legal basis, data-protection safeguard or timetable for pooling personal data across fourteen bodies is stated.
+
+The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -59,11 +61,15 @@ A private schools federation signed a convention on 21 July putting fee collecti
 
 <!-- narrative: dpi--dpi-registry -->
 Civil-registry software is [installed with hardware in every municipal and sub-prefecture civil-status centre for digital recording of births, marriages and deaths, financed by the European Union](https://www.aip.ci/cote-divoire-aip-digitalisation-de-letat-civil-les-sous-prefets-du-goh-mobilises-pour-accompagner-la-reforme-de-loneci/). Supervision is assigned to sub-prefects rather than to registrars, and the reform is framed as anti-fraud rather than as access.
+
+The identification office marked African Civil Registration Day by putting figures and hardware behind the access side of it. The national civil-status system now [covers 699 centres and has digitised more than four million records, and on 11 August the office handed 283 digital birth-registration terminals to health workers in the Tonkpi region](https://www.koaci.com/index.php/article/2026/08/12/cote-divoire/societe/cote-divoire-operation-zero-enfant-invisible-loneci-deploie-283-terminaux-numeriques-dans-le-tonkpi-pour-garantir-lidentite-des-la-naissance_199500.html) to link maternities directly to civil-registry offices, under a programme it calls zero invisible child. The counts are the office's own, and no registration-rate outcome is attached to them.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 All 39 first-instance tribunals were [connected to the justice platform on 29 June 2026](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien), completing an arc that began with a two-court pilot in January 2025; nationality certificates and criminal-record extracts are now issued digitally nationwide. The account describes this as completing phase one, with no phase-two scope or date. The regulator's compliance platform [went live on 2 July 2026](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire), slipping from a 25 June date, replacing about a hundred physical files a month with online submission, real-time tracking and traceability for conformity, processing authorisations and video-surveillance authorisations. It was built over two years and piloted by the identification office and the treasury.
+
+August turned to the supply side and to the state's own paperwork. The ministry [launched Ivoire GovTech Lab on 29 July, publishing government digitalisation projects for direct bidding by start-ups and small firms](https://iafrica.com/cote-divoire-opens-applications-for-30-company-tech-support-programme-as-ai-adoption-becomes-a-ministry-pillar/), opened applications for two 30-company support programmes, and set out a 2026-2028 roadmap naming artificial-intelligence adoption among seven strategic pillars; no project list, budget or award record for the lab is published. Separately the electronic-signature programme run by the public service ministry, which already covers the civil service, the tax administration and the construction and mining ministries, [reached the commerce ministry, whose leadership began enrolling on 12 August](https://digitalmag.ci/digitalisation-en-cote-divoire-le-ministere-du-commerce-integre-la-signature-electronique/). No certificate authority, standard, enrolment total or statement of legal effect is held for it.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -72,6 +78,8 @@ All 39 first-instance tribunals were [connected to the justice platform on 29 Ju
 
 <!-- narrative: governance--gov-legislate -->
 The cyber-security agency is [operating a national security operations centre, a public-administration security-officer network, the national public key infrastructure and auditor certification against the state reference framework](https://fr.apanews.net/technologies/rci-lanssi-lance-la-pki-pour-une-souverainete-numerique/), resting on the 2013 electronic transactions law whose 2014 and 2016 implementing decrees are the stated legal basis for that infrastructure — the only Ivorian digital statute the base can name implementing decrees for. Against that, [no Ivorian artificial-intelligence statute is published](https://cipit.strathmore.edu/wp-content/uploads/2026/07/AIIPin-Africa-Final.pdf): governance runs entirely through non-binding strategy instruments, with the draft cybersecurity strategy the only binding-track vehicle extending state scope to it.
+
+The one place where a statute is acquiring machinery is consumer redress. The regulator [consulted operators, internet service providers and consumer associations on 13 and 14 August on a draft procedure for handling consumer complaints about electronic communications services](https://techreviewafrica.com/news/6772/artci-consults-stakeholders-on-new-consumer-complaint-handling-procedure), implementing the 2024 electronic communications law. No draft text, adoption date or redress standard is held.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -142,4 +150,14 @@ Outside the service, a German-funded accelerator closed a three-month cohort on 
 
 <!-- narrative: inclusion--capacity-research -->
 The cyber agency and a technology school validated curricula for two cyber-security master's degrees on 28 July, with enrolment stated for the September 2026 academic year and no intake size or funding published.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The month's one new financing commitment is large and thinly documented. The government has [authorised a United States technology firm to carry out a set of projects strengthening national digital infrastructure, the whole estimated at US$170m, about FCFA 95bn](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/). No signed contract, financing instrument, component list, timetable or procurement route is held for it, and it [sits beside the same firm's US$170m data-centre and border-surveillance package announced from Washington in July](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/), which the record does not distinguish from it.
+
+The African Development Bank's e-government programme is meanwhile the [route by which several of the ministry's digital projects reach the market, through open tenders and calls for expressions of interest](https://digitalmag.ci/services-publics-financements-bad-des-projets-numeriques-en-cote-divoire-appels-doffres-et-avis-a-manifestation-dinteret/), with the winners of the two 30-company support programmes among the intended bidders. No award, value or project list is published.
 <!-- /narrative -->

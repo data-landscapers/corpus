@@ -1,15 +1,15 @@
 ---
 title: Guinea — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: GIN
-ledger_rows: 86
+ledger_rows: 92
 not_held: 13
-record: ce1fb987d3eb
+record: 8d3a37636291
 ---
 
 # Guinea: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/GIN/ledger.csv` (86 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/GIN/ledger.csv` (92 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -81,6 +81,7 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 |---|---|---|
 | GovStack interoperability layer (WARDIP) | [In development](https://techreviewafrica.com/news/4820/guinea-launches-govstack-workshop-to-advance-digital-public-services) | GovStack workshop held under the World Bank WARDIP project |
 | National interoperability and identity-verification platform (ONECI / NG Tech Innovation) | [Planned](https://horoya.net/2026/07/25/guinee-loneci-et-ng-tech-innovation-sallient-pour-moderniser-lidentification-et-letat-civil/) | Memorandum of understanding signed in Conakry, 24 July 2026 |
+| National One Health platform | [In development](https://www.guinee114.com/2026/08/14/securite-sanitaire-la-guinee-active-sa-plateforme-nationale-une-seule-sante/) | Steering committee activated and protocol signed 2026-08-14 |
 
 ### Digital Identity and CRVS
 
@@ -114,18 +115,23 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 | Registre national des personnes physiques (RNPP) | [Implemented](https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/) | DGE-ONECI convention institutionalised RNPP-to-roll data sharing |
 | Registre Social Unifie (RSU) | [Implemented](https://fdsi.gov.gn/wp-content/uploads/2025/01/Presentation-RSU_FDSI_2025.pdf) | Created by Decree D/2019/271 of 1 October 2019 |
 | RETSSM movable-collateral electronic registry | [In development](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf) | Rescue consultancy tendered under WARDIP, opening 27 July and closing 17 August 2026 |
+| Secured paper supply for digital birth certificates | ***Not held, searched 2026-08-07 - communes report a nationwide stockout with no restocking date published*** | Stockout reported as running about a month, 2026-08-07 |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Ayooka blood-supply coordination platform | [Implemented](http://www.wearetech.africa/en/fils-uk/tech-stars/esdras-azanmassou-builds-a-connected-network-for-safer-blood-donation) | Founded 2022, described 2026-08-17 |
 | SNIS health information system interoperability | [In development](https://guineenews.org/2025/11/27/interoperabilite-tenue-dun-atelier-cle-pour-la-modernisation-du-systeme-dinformation-sanitaire-en-guinee) | Conakry workshop with the Health Ministry; REC maternite register piloted in 15 centres |
+| Visa Medical hospital digitisation | [Implemented](https://guineenews.org/2026/08/13/financer-la-digitalisation-des-hopitaux-sans-endetter-letat-le-pari-reussi-dune-healthtech-guineenne-devenue-panafricaine/) | Expansion beyond Guinea announced 2026-08-13 |
 
 ### Other GovTech and e-Gov
 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | eCNSS online social contributions | [Implemented](https://mediaguinee.com/2025/07/modernisation-de-la-gestion-des-cotisations-sociales-la-cnss-lance-la-plateforme-ecnss/) | Launched, carrying ~60% of contribution receipts |
+| GEDA decrees and orders management tool | [Implemented](https://guineenews.org/2026/08/14/decrets-et-arretes-mamadi-doumbouya-reprend-personnellement-les-commandes-de-geda/) | Presidential oversight announced 2026-08-14 |
+| GEME state mission-order system | [Implemented](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/) | Launched 2026-08-13 |
 | Guichet Unique des Services Publics (GUSP) | [In development](https://mediaguinee.com/2026/03/modernisation-de-ladministration-vers-le-deploiement-dun-guichet-unique-des-services-publics/) | Guinea-Azerbaijan partnership agreed to build it on the ASAN model |
 | Journal Officiel numerique | [Implemented](https://mediaguinee.com/2025/06/digitalisation-le-journal-officiel-passe-au-numerique-une-innovation-du-secretariat-general-du-gouvernemente/) | Free online legal gazette carrying 1,100+ journals and 6,000+ texts |
 | LANDAYA industrial-permits platform | [Implemented](https://mediaguinee.com/2026/01/industrie-dre-diaka-sidibe-lance-landaya-pour-fluidifier-la-relation-entre-letat-et-les-promoteurs-industriels/) | Industrial licences issued in 72 hours; successor to PLAGED |
@@ -368,6 +374,7 @@ The [ministry's review of 2025 reported more than 10,000 people trained in digit
 | Public research programme in digital or data science | A public research programme, university research centre mandate or published research output in digital or data science. | 2026-08-09 |
 | Digital literacy programme or measurement | A digital-literacy programme document, or a published measurement of digital literacy. | 2026-08-09 |
 | Domestic budget appropriation for digital transformation | The Loi de finances or its annexes showing appropriation lines for MCENI, ANDE, ANSSI or the Digital Sovereignty Fund. | 2026-08-09 |
+| Secured paper supply for digital birth certificates | a ministry or civil-registration agency statement on the stockout with a restocking date, a procurement record for the secured paper, or a count of communes able to issue extracts | 2026-08-07 |
 
 <!-- narrative: gaps -->
 One of the not-held rows is a governing instrument open sources describe as coming without the wiki holding it — a national AI strategy. Most of the rest are absences of any source: satellite data, rural digital services, an open-data portal, Chinese and Indian digital cooperation, Gulf-state investment, public research, digital literacy, a startup act and the domestic budget appropriation, which bears on every other section. Two are of a different kind: a licensing decision on Starlink and a legal basis for the platform restriction are things the state would have published had it made them, so the absence is itself the finding.

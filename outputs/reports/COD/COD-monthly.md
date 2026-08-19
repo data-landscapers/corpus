@@ -1,16 +1,16 @@
 ---
 title: DR Congo — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: COD
-ledger_rows: 39
+ledger_rows: 41
 not_held: 13
-record: 0517b5f73121
+record: fd12caf46e15
 ---
 
 # DR Congo: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -65,6 +65,10 @@ A card-network executive confirmed on 2 July a [live use case settling mobile-wa
 
 <!-- narrative: dpi--dpi-registry -->
 Business formalisation was inspected on 28 July: the portal proposes a legal form and tracks a file in real time and the application [issues sole-trader attestations in under 48 hours, while full online company creation is not possible](https://actualite.cd/2026/07/28/formalisation-des-entreprises-en-rdc-daniel-mukoko-samba-mise-sur-le-numerique-pour).
+
+Two further registers were announced as part of a financial-sector package rather than as builds. A [modernised credit-risk registry and an electronic movable-collateral registry are to be built with the central bank, alongside a new deposit-guarantee fund](https://acp.cd/business/rdc-la-banque-mondiale-annonce-des-reformes-pour-faciliter-le-financement-des-pme/), in a World Bank programme to expand financing for small and medium firms that also carries a rollout of 10,000 point-of-sale terminals and agent networks. No instrument, custodian, timetable or access rule is stated for either registry, and no data-protection provision is reported for the credit file.
+
+The registry ground also drew a vendor. A Kenyan platform operator [pitched the digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing its own deployments in Malawi and South Sudan; the minister asked officials to continue talks toward a partnership. It is a sales meeting, and the claims in it are the vendor's.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
@@ -97,6 +101,8 @@ The digital code is being applied to speech. On 15 August the justice minister [
 
 <!-- narrative: governance--gov-policy -->
 Experts validated the [sectoral digital economy policy 2026-2030 on 21 and 22 July, subject to completing the costing, indicators and institutional responsibilities](https://www.mediacongo.net/article-actualite-165910_economie_numerique_les_experts_valident_le_projet_de_politique_sectorielle_2026_2030.html). A restitution workshop on 29 and 30 July presented a ten-dimension maturity diagnostic and named the [instruments to be articulated: the digital and data strategies, the AI strategy, the identity platform, the sovereign cloud, a certification authority and a cybersecurity agency](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/), plus a rule barring AI platform deployment without data quality, auditability and human supervision.
+
+The connectivity side of that framework acquired numbers in August. The universal service fund [published a National Connectivity Strategy 2026-2035 built on a shared-infrastructure model led by a tower company, and signed subsidy agreements with the four mobile operators to extend service to 40 underserved localities covering about 258,000 people](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html), against a target of 3,000 localities and 16 million people by 2030. The strategy text is not held, and neither the subsidy amounts, the tower company nor the selection rule for the first 40 localities is stated.
 <!-- /narrative -->
 ### Standards
 
@@ -166,4 +172,9 @@ The employment office launched a [portal and mobile application in July](https:/
 
 <!-- narrative: finance--finance-new -->
 A development fund committed [US$32.8m into an upsized US$179m senior secured facility on 5 August](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/), funding 728 new passive towers to take the network to 1,800, 70% of them rural, with solar and battery upgrades. [The same lender committed US$30m to the same borrower in 2023, when the network stood at 1,072 active towers](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/).
+<!-- /narrative -->
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+The month's one signed arrangement puts a commercial bank inside the digital ministry's programme. The digital economy ministry and a commercial bank [signed a memorandum on 13 August to modernise the financial sector and accelerate banking inclusion](https://acp.cd/economie/numerique-signature-dun-protocole-daccord-sur-la-modernisation-de-lecosysteme-financier/), covering digital identity and artificial-intelligence integration under the 2019 national digital plan and the 2023 Digital Code. No term, value, workplan or data-protection provision is published — for an arrangement that names digital identity as in scope.
 <!-- /narrative -->
