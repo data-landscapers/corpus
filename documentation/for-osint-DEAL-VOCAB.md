@@ -1,30 +1,28 @@
 # DEAL-VOCAB.md
 
-*(Written in Corpus 2026-08-19 for copying to the OSINT repo root as `DEAL-VOCAB.md`. The three lookup files it refers to are in Corpus `lookups/` and go to `C:\OSINT\lookups\` unchanged. Delete this italic note on the way across.)*
+*(Written in Corpus 2026-08-19 for copying to the OSINT repo root as `DEAL-VOCAB.md`. The four lookup files it refers to are in Corpus `lookups/` and go to `C:\OSINT\lookups\` unchanged. Delete this italic note on the way across.)*
 
 Three fields in every `## Deal record` — **Instrument**, **Status**, **Beneficiary type** — have never had a controlled vocabulary, and 1,260 records have been written to whatever the source happened to say. The result is 115 distinct instruments, 24 statuses and 53 beneficiary types, three of them driving filter dropdowns on the public site. This file establishes the vocabularies, states the rules for writing the three fields, and specifies the pass that brings the existing records into line.
 
 ## 1. The vocabularies
 
-**`lookups/deal-instrument-map.csv`, `lookups/deal-status-map.csv` and `lookups/deal-beneficiary-type-map.csv` are the authority.** Each holds `value, definition, source_value, review, note`, and **the distinct set of values in the first column is the vocabulary** — there is no second list to keep in step with it, which is the point: a vocabulary held apart from its mapping is a vocabulary that will disagree with it.
+**`lookups/deal-vocabs.csv` is the authority on what may be written.** One file for all three fields — `field, sort order, value, definition` — so a value is added or reworded in one place and the fields do not drift apart in style as they would across three files. `sort order` is the order the values should appear in on a page or in a filter, which is the lifecycle for status and rough likelihood elsewhere, not the alphabet.
 
-The `definition` column repeats for every row carrying the same value. That redundancy is deliberate — a writer looking up what to put in a cell reads one line and has both the value and what it means, and there is no second place for the definition to drift to.
+**Three map files say what an old wording becomes**: `lookups/deal-instrument-map.csv`, `lookups/deal-status-map.csv`, `lookups/deal-beneficiary-type-map.csv`, each `value, source_value, review, note`. They are remediation, not vocabulary — after the backswing their job is only to catch a legacy wording arriving late from IATI or a re-ingest.
+
+**The two must agree, and something should check it**: every `value` a map produces must exist in `deal-vocabs.csv` for that field. Thirty-two values, three maps; today they agree exactly.
 
 - **Instrument** — Bond, Buyer's Credit, Commercial Loan, Concessional Loan, Equity, Grant, Guarantee, Joint Venture, Line of Credit, Mezzanine, MoU, PPP, Self Funded, Technical Assistance, Unknown.
 - **Status** — Pipeline, Approved, Active, Closed, Cancelled, Suspended, Unknown.
 - **Beneficiary type** — Public Sector, Private Sector, NGO, Multilateral, Research, Fund, Multi-stakeholder, Individuals, PPP, Unknown.
 
-A row with a `source_value` is a **mapping**: that wording, wherever it appears, becomes that value. A row with a blank `source_value` and `VOCAB` in `review` **declares a value nothing maps to yet** — `Cancelled` and `Suspended` are there because the IATI driver will produce them and the vocabulary should not have to be extended in a hurry when it does. A row with a blank value and `REVIEW` is a wording nobody has ruled on; eight instrument values are in that state.
+A row in a map is a **mapping**: that wording, wherever it appears, becomes that value. A row whose value is blank and whose `review` reads `REVIEW` is a wording nobody has ruled on — eight instrument values are in that state and none in the other two.
 
-**Definitions, because the value names do not carry them.**
+**The definitions are in `deal-vocabs.csv`, not repeated here.** Fifteen instruments, seven statuses, ten beneficiary types, one line each. Restating them in this file would be the same mistake the vocabulary exists to fix: two places to change and one of them forgotten.
 
-*Instrument.* **Grant** — no repayment expected, including donations, prizes and non-reimbursable assistance. **Concessional Loan** — softer than market: below-market interest, long maturity, a grace period, or a service charge in place of interest; **IDA credits belong here**. **Commercial Loan** — market terms, including syndicated and senior debt, IBRD lending, and development-policy loans to non-IDA borrowers. **Line of Credit** — a facility drawn against up to a limit. **Buyer's Credit** — finance to the buyer so it may pay the supplier, including export finance. **Bond** — debt raised as a tradeable security. **Guarantee** — a commitment to meet another's obligation on default; no money moves unless called. **Equity** — money for an ownership stake, any round, including limited-partner commitments to a fund. **Mezzanine** — subordinated or convertible debt. **Joint Venture** — a jointly owned vehicle. **PPP** — concession, BOT or similar, private finance and operation of a public asset for a term. **Self Funded** — the recipient's own balance sheet; a funding *source* rather than an instrument, kept because the distinction is worth counting. **Technical Assistance** — expertise or advisory, cash figure or not. **MoU** — *an agreement is on record and its instrument is not*; use only where the source states an agreement and does not state how money moves, never as shorthand for unclear. **Unknown** — the source does not state it.
+Four of them carry a rule rather than a description, and those are in §2 below — `Concessional Loan` takes IDA credits, `MoU` is only for an agreement whose instrument is genuinely unstated, `Unknown` is not the same as blank, and `Fund` is deliberately not `Private Sector`.
 
-*Status.* **Pipeline** — proposed, identified or under negotiation; nothing committed. **Approved** — committed, approved or signed, not yet operating. **Active** — operating: implementation under way, facility inaugurated, activities launched, funds disbursing. **Closed** — finished or fully disbursed, and IATI's finalisation stage. **Cancelled** — abandoned before completion. **Suspended** — halted. **Unknown** — not stated.
-
-*Beneficiary type.* **Public Sector** — government at any level, ministry, agency, programme, state-owned enterprise. **Private Sector** — a company receiving on its own account. **NGO** — non-governmental or civil society, including not-for-profit membership and industry associations. **Multilateral** — the AU, a regional economic community, an intergovernmental body. **Research** — university, research institute, think tank. **Fund** — an investment vehicle that will on-invest; one step removed from the ultimate recipient, which is why it is not Private Sector. **Multi-stakeholder** — several types together where no one of them is the beneficiary; a genuine consortium, not a failure to classify. **Individuals** — people rather than organisations. **PPP** — a public-private vehicle receiving as one party. **Unknown** — not stated.
-
-**`PPP` appears in two vocabularies and means a different thing in each** — an instrument in one, a recipient in the other. That is deliberate and worth knowing.
+**`PPP` appears in two of the three vocabularies and means a different thing in each** — an instrument in one, a recipient in the other. That is deliberate and worth knowing before someone tries to merge them.
 
 ## 2. Rules for writing a deal record
 
@@ -50,13 +48,13 @@ A row with a `source_value` is a **mapping**: that wording, wherever it appears,
 
 **Where the original wording carried more than the new value does, move that text to `## Notes` in the same edit.** This is the whole of the difference between a mapping pass and a data loss. Roughly 78 records are in that class — the annotated World Bank instrument corrections and the sentence-length values.
 
-**Step 2 — the eight unruled instruments.** `5G spectrum licences`, `Spectrum award (410 MHz)`, `Investment under NTRA data-centre licence`, `Procurement contract award`, `Program-for-Results (PforR)`, `Mixed`, `Funding + technology + technical support`, `Standard loan (IATI finance-type 421)`. Each needs its source read and a ruling: a value from the vocabulary, a new vocabulary value, or — for the spectrum and procurement cases — a decision that these are not deals at all. Record the ruling as a new row in the map.
+**Step 2 — the eight unruled instruments.** `5G spectrum licences`, `Spectrum award (410 MHz)`, `Investment under NTRA data-centre licence`, `Procurement contract award`, `Program-for-Results (PforR)`, `Mixed`, `Funding + technology + technical support`, `Standard loan (IATI finance-type 421)`. Each needs its source read and a ruling: a value from the vocabulary, a new vocabulary value, or — for the spectrum and procurement cases — a decision that these are not deals at all. Record the ruling as a new row in the map, and in `deal-vocabs.csv` too if it needs a value that is not there yet.
 
 **Step 3 — the blanks.** 41, 50 and 75 records respectively. Each is either `Unknown` or a value the source does state and nobody extracted. The second kind is worth finding; the first is a one-word edit.
 
 **Step 4 — verify.** Re-run the compile and check the distinct counts in `outputs/non-state-finance/all-nonstate.csv`: instrument 115 → 15, status 24 → 7, beneficiary type 53 → 10, and no blanks in any of the three. A value outside the vocabulary after the pass is a bug in the pass, not a new vocabulary member.
 
-**Step 5 — hold the line.** Add the three fields to whatever lint reads a deal record, testing membership of the first column of the map file. Without it the base is 1,260 records from where it started; the vocabulary only stays true if something checks.
+**Step 5 — hold the line.** Add the three fields to whatever lint reads a deal record, testing membership of `deal-vocabs.csv` for that field. Without it the base is 1,260 records from where it started; the vocabulary only stays true if something checks.
 
 ## 4. What this does not settle
 
