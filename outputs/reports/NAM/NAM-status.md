@@ -1,15 +1,15 @@
 ---
 title: Namibia — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: NAM
-ledger_rows: 113
+ledger_rows: 117
 not_held: 12
-record: 23d426595632
+record: 73adff9d1587
 ---
 
 # Namibia: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/NAM/ledger.csv` (113 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/NAM/ledger.csv` (117 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -210,7 +210,7 @@ Namibia's statistics system rests on parallel plans. The National Strategy for t
 |---|---|---|
 | Namibia's seat on an international artificial-intelligence commission | [Implemented](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/) | The ICT minister named among the commission's members |
 | Namibia-Angola information technology and media memorandum | [Implemented](https://techafricanews.com/2026/06/11/namibia-and-angola-join-forces-to-accelerate-digital-transformation/) | Signed at the opening of a technology forum in Luanda |
-| Namibia-Botswana information and communications technology memorandum | [Planned, signature announced](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/) | Signature announced for 2026-08-06 at Kasane |
+| Namibia-Botswana information and communications technology memorandum | [Implemented](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) | Signed at Kasane 2026-08-07 |
 | Namibia-Republic of Congo information technology memorandum | [Planned](https://neweralive.na/cabinet-approves-ict-agreement-with-congo-endorses-regional-cooperation/) | Cabinet approved and authorised signature, announced 2026-07-23 |
 | Pan-African language artificial-intelligence initiative | [In development](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/) | Launched at a continental telecommunications conference with Namibia's ICT ministry a named partner |
 | Ratification of the continental convention on cyber security and personal data protection | ***Not held*** | — |
@@ -240,6 +240,7 @@ Namibia's statistics system rests on parallel plans. The National Strategy for t
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Access to Information Act 8 of 2022 and the Information Commissioner | [Enacted, not commenced](http://www.lac.org.na/laws/2022/7986.pdf) | Information Commissioner and Deputy Information Commissioner appointment regulations gazetted 2024-12-09 (signed 2024-11-15); the Act itself remains not commenced |
+| Multilateral Environmental Agreements monitoring and reporting platform | [Implemented](https://neweralive.na/ministry-unveils-n12-million-monitoring-website/) | Launched in the week of 2026-08-07 |
 | National open data policy or government portal | ***Not held*** | — |
 
 <!-- narrative: governance -->
@@ -260,6 +261,7 @@ Regulations for appointing an Information Commissioner and Deputy were gazetted 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Artificial-intelligence agricultural monitoring contract | [Implemented](https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/) | One-year contract reported 2026-08-17 |
 | Artificial-intelligence readiness assessment | [Implemented](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | Completed by the research council with the education ministry and an international body |
 | Artificial-intelligence working group of the research council | [Implemented](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | A multi-stakeholder platform with science, data and skills technical advisory committees |
 | Indigenous-language voice-data repository | [In development](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs) | Reported under construction 2026-08-13 |
@@ -297,6 +299,7 @@ Regulations for appointing an Information Commissioner and Deputy were gazetted 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| India bilateral cybersecurity and digital-economy cooperation | [In development](https://cajnewsafrica.com/2026/08/12/namibia-solidifies-cybersecurity-digital-ties-with-india/) | Fourth joint trade committee, New Delhi, 2026-08-12 |
 | PARAM HPC cluster at NUST | [In development](https://inceit.nust.na/param-hpc) | Specification published on an undated page, captured 2026-08-09; described as a 5-node PARAM cluster to be deployed at NUST |
 
 ### Gulf/UAE activities
@@ -329,6 +332,7 @@ Namibia's opening move with the Gulf is a proposal, not an instrument: at a Nami
 |---|---|---|
 | 100% telecommunications coverage by 2030 | [Planned](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030) | Target set 2025-06-03 for 2030 |
 | Free internet for schools and clinics under new towers | [Implemented](https://itweb.africa/article/namibian-schools-clinics-to-get-free-internet/PmxVEMKEdwzvQY85) | Seven years' free access confirmed at a ministerial staff meeting |
+| Namibia Learning Passport | [Implemented](https://informante.web.na/?p=399266) | Launched at the 2026 International Youth Day event, Keetmanshoop |
 
 ### Literacy
 

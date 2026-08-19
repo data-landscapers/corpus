@@ -1,20 +1,20 @@
 ---
-title: Egypt — progress report, 2025-08-01 to 2026-08-17
-compiled: 2026-08-17
-period: 2025-08-01 to 2026-08-17
+title: Egypt — progress report, 2025-08-01 to 2026-08-19
+compiled: 2026-08-19
+period: 2025-08-01 to 2026-08-19
 place: EGY
-ledger_rows: 180
+ledger_rows: 185
 not_held: 54
-record: 74d41ce9f117
+record: cf5a35d80a5b
 ---
 
-# Egypt: progress report, 2025-08-01 to 2026-08-17
+# Egypt: progress report, 2025-08-01 to 2026-08-19
 
-*Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 180 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-17, 19 did not, 39 carry no stated baseline, and 54 are ***Not held*** at both ends.*
+*Of 185 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-19, 19 did not, 44 carry no stated baseline, and 54 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 164 sources for this place in the window — 40 in the earlier half (2025-08 to 2026-02), 124 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 180 sources for this place in the window — 40 in the earlier half (2025-08 to 2026-02), 140 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -30,7 +30,7 @@ That last figure needs reading carefully. The base carries no connection count f
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | 5G and aggregate mobile download speeds | 5G median 110.5 Mbps on launch day and 106.80 Mbps in month one; pre-launch 4G baseline 32.8 Mbps; combined 4G and 5G median 37.68 Mbps | [5G median about 89 Mbps at month six; combined 4G and 5G median 34.77 Mbps, below the pre-launch baseline, with 4G down 17%](https://www.ookla.com/articles/5g-north-africa-2026) | Regressed |
 | Active international submarine cable systems landing in Egypt | 13 systems landing on the eastern coast with a stated plan to expand to 18 (2024-11-18, operator-reported) | [About 15 active international systems, the largest concentration in Africa (2025-11)](https://ir.te.eg/en/CorporateNews/PressRelease/211/Telecom-Egypt-s-Regional-Data-Hub-2-Awarded-Tier-III-Design-Certification) | Advanced |
@@ -44,7 +44,7 @@ That last figure needs reading carefully. The base carries no connection count f
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Telecom Egypt Regional Data Hub 2 | Tier III design-certified, estimated IT load 4.6 MW against the first hub's 2.5 MW, completion expected end-2025 | [Unchanged in the base; no held source states it entered service, and the stated end-2025 completion date has passed](https://ir.te.eg/en/CorporateNews/PressRelease/211/Telecom-Egypt-s-Regional-Data-Hub-2-Awarded-Tier-III-Design-Certification) | Stalled, entry into service not confirmed |
 | East Cairo Logistics Park data-centre campus IT load | No prior reading is held | [25 MW operating with plans to expand to 45 MW](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | ***Baseline not held*** |
@@ -53,13 +53,13 @@ That last figure needs reading carefully. The base carries no connection count f
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Renergy green hydrogen and solar project, El-Tor | Did not exist | [About 127 sq km with 4 km of Red Sea frontage, EUR 5m of technical studies completed over two years, two phases targeting 160,000 then 400,000 tonnes a year of liquid green hydrogen wholly for export to Europe; put forward as the power source for the proposed Sinai data centre](https://gate.ahram.org.eg/News/5579894.aspx) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | ITU Global Cybersecurity Index standing | 100% of index points on the 2023-2024 index, among the top 12 countries globally (reported 2025-02-18) | [The same standing restated on 2026-06-10, among 12 states in the first tier at 100%](https://en.amwalalghad.com/egypt-achieves-100-score-on-global-cybersecurity-index) | No change |
 | EG-CERT national computer emergency readiness centre | The base carries no dated position on the centre at 2025-08-01 | [Operating under the telecommunications regulator, with capability development under way using AI techniques against cyber threats; no incident statistics, mandate document, budget or reporting obligation is held](https://gate.ahram.org.eg/News/5670246.aspx) | ***Baseline not held*** |
@@ -78,7 +78,7 @@ Data-centre policy arrived without data-centre figures: a national strategy went
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Digital treasury of reusable verified documents | The base carries no position at 2025-08-01 | [An operating model set and applied to a number of government services for gradual expansion, its first output the registration certificate as a verified reusable digital document consumed by the shop-licensing service, implementing the once-only principle](https://gate.ahram.org.eg/News/5813424.aspx) | Advanced |
 | Digital trust services, e-signature and e-seal | The base carries no position at 2025-08-01 | [E-signature and e-seal live and integrated with digital identity, with remote e-signature stated as expanding across government services and the digital post box system stated as being finalised](https://gate.ahram.org.eg/News/5813424.aspx) | ***Baseline not held*** |
@@ -86,7 +86,7 @@ Data-centre policy arrived without data-centre figures: a national strategy went
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Haweya national digital financial identity | Did not exist | [Mobile app registering face and fingerprint biometrics plus a digital signature, enabling remote bank-account opening at 37 banks, document verification and SIM purchase](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion) | Advanced |
 | MOIEG-PASS biometric authentication platform | Did not exist | [Android pilot in which users scan the national ID card and complete facial recognition to authenticate for a selected number of government services, with scaling to be decided on the pilot's outcome](https://english.ahram.org.eg/News/562383.aspx) | Advanced |
@@ -94,11 +94,11 @@ Data-centre policy arrived without data-centre figures: a national strategy went
 | Private eKYC and e-signature licence for the non-bank financial sector | Not licensed; no authorisation for private eKYC or digital contracting in the non-bank financial sector is held | [Lending, investment and insurance companies under the financial regulator may create digital IDs, run biometric and non-biometric checks against national-ID and mobile-registry databases, and execute legally binding e-contracts; the licensee reports over 25m verifications a year](https://www.biometricupdate.com/202508/digified-licensed-to-offer-digital-kyc-e-signature-services-in-egypt) | Advanced |
 | Automated civil-registry kiosks | 16 mall-based machines across six governorates and Cairo Airport, issuing birth, death, marriage and divorce certificates and national-ID application forms on fingerprint or facial verification, paid in cash | [Same; no expansion, transaction count or withdrawal is recorded in the window](https://blogs.realestate.gov.eg/civil-registry-machines-in-egypt) | No change |
 | Electronic birth and death registration | The base carries no statement on electronic civil registration coverage at 2025-08-01 | [The health ministry and associated bodies are stated to have taken electronic registration of births and deaths nationwide, credited with faster and more accurate demographic monitoring](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444) | ***Baseline not held*** |
-| Mobile line registration regime | The base carries no position on mobile line registration at 2025-08-01 | [The regulator is tightening subscriber-registration rules and expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry, and has referred the four mobile operators to the prosecution after lines were found registered to people without their knowledge; it is advancing a unified national digital-identity project alongside. Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case exposed](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) | ***Baseline not held*** |
+| Mobile line registration regime | The base carries no position on mobile line registration at 2025-08-01 | [The regulator is tightening subscriber-registration rules and expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry, and is advancing a unified national digital-identity project alongside. On 10 August 2026 it referred all four mobile operators to the Public Prosecution over lines registered without customers' knowledge, ordered them to halt new activations on corporate registration systems, contact every existing corporate-line holder to re-register in person by a deadline with unclaimed lines cancelled, and accelerate biometric verification in their applications, warning that non-compliance would cost them sale and activation rights. Public take-up of the regulator's own line-checking service reached 5 million registrations in a week, roughly doubling its user base to about 12 million. Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case exposed](https://english.ahram.org.eg/NewsContent/1/2/574745/Egypt/Society/-mln-Egyptians-turn-to-SIM-verification-service-in.aspx) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Card and acceptance stock | Debit cards 26.4m and POS terminals 228,000 at end-2024; national scheme cards 43.5m at end-2024 | [Debit cards 29.1m at about 40% of the card market, prepaid 34.3m, credit about 7m; over 26,000 ATMs and about 275,000 POS terminals, with national scheme cards still stated at 43.5m from end-2024](https://www.elwatannews.com/news/details/8325979) | Advanced |
 | Direct carrier billing licence for government payments | Did not exist; no carrier-billing licence for person-to-government payments had been issued | [Citizens may pay utility bills, traffic fines and civil-registry charges from mobile balance or the monthly mobile bill](https://tpaymobile.com/tpay-secures-license-to-offer-direct-mobile-payments-for-government-services-in-egypt) | Advanced |
@@ -109,17 +109,18 @@ Data-centre policy arrived without data-centre figures: a national strategy went
 | InstaPay transfer pricing | Priced at 0.1% with a minimum of EGP 0.50 and a maximum of EGP 20 since 2025-04-01, plus EGP 0.50 for balance enquiry beyond ten free monthly requests | [Unchanged; no central-bank decision altering the schedule is held](https://gate.ahram.org.eg/News/5145456.aspx) | No change |
 | Pan-African Payment and Settlement System, Cairo headquarters | Operating from Cairo, connecting the real-time gross settlement systems of participating African central banks, with 25 large commercial banks connected in 2022 | [Same; no Egyptian participation, volume or value figure has been published in anything the wiki holds](https://www.trade.gov/market-intelligence/pan-african-payment-and-settlement-system) | No change |
 | Mobile wallet accounts and value | No wallet account or value figure earlier than June 2025 is held | [Over 55.5m wallet accounts transacting about EGP 1.8tn to June 2025, growth telco-led through the three operators' wallet products](https://www.elwatannews.com/news/details/8325979) | ***Baseline not held*** |
+| State digital-finance operator acquisition of a non-bank lender | Not held | [The state digital financial infrastructure operator agreed the full acquisition of an Egyptian non-bank lender to small and medium firms, extending its own infrastructure into direct lending](https://www.zawya.com/en/press-release/companies-news/efg-hermes-advises-efinance-on-strategic-acquisition-of-tamweely-financial-services-430407) | ***Baseline not held*** |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National Platform for Regularising State Lands | The base carries no position at 2025-08-01, and the commencement date of the 2025 law that introduced the platform is not established | [More than 302,000 applications received against about 1,700 contracts drawn up, 350 plots recovered and compensation collected on about 300 applications, with governorate committees still doing inspection, survey and measurement](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179) | ***Baseline not held*** |
 | Rashid state-owned companies platform | The base carries no position at 2025-08-01 | [A national platform to enumerate and classify every company the state owns or holds a stake in, with hosting, secure storage and compute for its AI applications supplied under protocol; the applications analyse and monitor the financial and operating performance of the state's corporate portfolio](https://gate.ahram.org.eg/News/5849412.aspx) | ***Baseline not held*** |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | DHIS2 national health information system | Did not exist | [Open-source platform live under the national digital health priorities 2025-2029, with first-year use covering over 180,000 consultations for emergency evacuees across 189 sites, nutrition screening for about 20,000 refugee children, school-health screening for over 100,000 children and tuberculosis follow-up for 7,500 cases at 57 centres](https://dhis2.org/egypt-launches-dhis2-in-health-information-system) | Advanced |
 | Social insurance 95-service online catalogue | 95 electronic services undertaken within six months from 2026-02-08, opening with a first phase of 40 | [The 40-service first tranche restated as forthcoming at the point the six-month window falls due; against roughly 170 insurance services in all, only three concern pension entitlement and payment and the rest still require an office visit](https://gate.ahram.org.eg/News/5882131.aspx) | Stalled |
@@ -129,7 +130,7 @@ Data-centre policy arrived without data-centre figures: a national strategy went
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | African Financial Stability Committee digital portal | Did not exist; the committee had no public platform of its own | [A platform carrying the committee's objectives, mandate and organisational structure, its member central banks, its meeting calendar and its two working groups, and the publication channel for the African Financial Stability Report, working-group reports, studies and technical papers; content maintained by the committee secretariat](https://english.ahram.org.eg/NewsContent/3/1239/573958/Business/Tech/CBE,-African-central-banks-association-launch-digi.aspx) | Advanced |
 | Digital Egypt platform | About 170 services (2024), 8.1m registered users, 7.8m transactions and enquiries in 2024 | [242 services and about 20m transactions since the start of 2026, with 73 services exclusive to the platform and other digital channels](https://gate.ahram.org.eg/News/5813424.aspx) | Advanced |
@@ -139,31 +140,33 @@ Data-centre policy arrived without data-centre figures: a national strategy went
 | Unified Government Services Card | Did not exist; the data-update form on the portal and the mobile app were launched officially in September 2025 | [One card bundling health insurance, food subsidy, the cash grant and fertiliser subsidy, linked to postal accounts, with lost-card replacement, suspension and mobile-number change services live and 41,500 supply families in the Port Said pilot; the supply ministry has confirmed it intends to route food-subsidy delivery through the card's shared identity and payments rails, with no national rollout date published](https://techafricanews.com/2026/08/11/egypt-advances-government-services-card-to-drive-digital-public-services/) | Advanced |
 | Egyptian Tax Authority electronic system | In operation since January 2021, spanning returns, e-invoices, e-receipts, registration, payments, automated audit, refunds, exemptions, appeals and enforced collection | [Same coverage, with named defects on the record: historic credit balances never migrated so companies holding credits are shown as debtors; audit offices demanding paper copies of documents already on the authority's databases; the automated audit form unable to request documents mid-audit; files moved to appeal committees on timer expiry; some payments unevidenceable, creating phantom debts; and government bodies not always issuing e-invoices while the private sector is compelled to](https://www.alborsaanews.com/2026/07/29/1982823) | No change |
 | Economic Entities Platform | The base carries no position at 2025-08-01 | [Announced as a single digital gateway through which investors would establish companies, obtain approvals and licences and complete government procedures electronically by connecting with all relevant authorities; no build stage, launch date, budget or governing instrument is stated](https://www.dailynewsegypt.com/2026/08/03/government-develops-digital-integration-to-accelerate-companies-capital-increases-investment-minister/) | ***Baseline not held*** |
+| Real-estate registration and notarisation digitisation for investors | Not held | [A cooperation protocol signed between the justice and investment ministries to digitise real-estate registration and notarisation services for investors, aiming to shorten company-incorporation procedures through the justice ministry's registration and notarisation sector and the investment authority](https://sis.gov.eg/en/media-center/news/justice-investment-ministries-sign-pact-to-digitize-investor-services/) | ***Baseline not held*** |
 | Unified Digital Justice Strategy | Baseline not held | [Signed by the justice ministry and the heads of every judicial body, launching a shared judicial-data platform built with a foreign vendor and setting out three phases covering remote litigation, cybersecurity and artificial-intelligence-enabled services; no text, timetable, budget or data-protection arrangement is published](https://gate.ahram.org.eg/News/5887141.aspx) | ***Baseline not held*** |
+| Unified Government Complaints System caseload | Not held | [About 229,000 complaints, requests and inquiries handled in July 2026 - 84% referred to the responsible authority, 14% closed and the rest under review - with governorates taking 17% of referrals, nine of them handling 74% of that share, and government agencies and universities a further 16%](https://sis.gov.eg/en/media-center/news/pm-reviews-efforts-of-unified-complaints-system-to-enhance-efficiency-response-to-citizens/) | ***Baseline not held*** |
 | Unified investment-licensing platform | The base carries no position at 2025-08-01 | [A single electronic window offering 460 licences, approvals and permits from 41 government issuing bodies, with electronic fee payment, real-time tracking and licences issued within 20 working days where documents are complete](https://gate.ahram.org.eg/News/5482679.aspx) | ***Baseline not held*** |
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Decent Life rural fibre programme | 856 of 1,450 phase-one villages connected at end-2024, up from 267 at end-2023 | [More than 1,250 of 1,450 phase-one villages across 52 markazes in 20 governorates, about 5 million fibre lines, 75% of village service complexes connected](https://www.youm7.com/story/2026/6/30/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D9%84%D9%805-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%B7-%D9%81%D9%89-1250/7465834) | Advanced |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Public shop licensing on Digital Egypt | Did not exist as a digital service | [A single national platform for the whole licensing process, with standardised procedures, real-time tracking, a maximum three-month approval time, immediate temporary operating permits, electronic licence issuance and deemed approval where an authority fails to respond; fees unified across participating agencies with the interior ministry cutting its own by 50%](https://techafricanews.com/2026/07/29/egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform/) | Advanced |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | 2027 Population, Housing and Establishments Census | The base carries no position at 2025-08-01 | [Designed as a register-based exercise building central statistical registers of buildings, households, individuals and establishments by matching electronic field enumeration against digital registers and state databases, keyed on the unified national property number; the property-wealth map and secure electronic data exchange are to be finalised before a presidential decree authorises the count](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323) | ***Baseline not held*** |
 | National labour-market data platform | The base carries no position at 2025-08-01 | [A Senate proposal for a national platform integrating databases and forecasting future skills demand, welcomed by the minister, who pointed to the ministry's own forthcoming digital labour platform; no launch date, budget, governing instrument or lead body is established for either, and the two are not stated to be the same thing](https://www.masrawy.com/news/news_egypt/details/2026/7/28/3024561/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82) | ***Baseline not held*** |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Egypt-Japan water, artificial intelligence and satellite-data cooperation | The base carries no position at 2025-08-01 | [Memorandum with Japan's land and agriculture ministries covering technical missions, joint research and the application of AI and digital models to monitoring water structures and reducing flood risk; Egypt intends to use Japan's satellite rainfall product to monitor rainfall across Nile basin states and improve hydrological forecasting](https://www.youm7.com/story/2026/8/2/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D9%84/7499442) | ***Baseline not held*** |
 
@@ -179,7 +182,7 @@ Identity multiplied without being counted. Three biometric channels launched ins
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Child national ID card proposal | Not on record | [A member's proposal for a national identity card for children carrying a photograph from age five, requiring amendment of the Child Law, discussed at two workshops; recommendations included a unified national child-data platform, a full biometric identification system for children, and linkage between health, education and other government databases. No bill has been tabled](https://www.youm7.com/story/2026/4/19/%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A%D8%A9-%D8%AA%D8%B9%D9%82%D8%AF-%D9%88%D8%B1%D8%B4%D8%AA%D9%8A-%D8%B9%D9%85%D9%84-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%B1%D9%82%D9%85-%D9%82%D9%88%D9%85%D9%8A/7382985) | Advanced, a member's proposal only |
 | Electronic service of judicial notices | Not on record | [The postal service's digital postbox becomes the official platform for electronic delivery of judicial notices to individuals, companies and institutions, bound to the user's national identification number and carrying identity verification, electronic signatures and seals, encryption, delivery timestamps and correspondence tracking, so that a registered electronic message has the same legal validity as registered paper mail](https://techafricanews.com/2026/08/05/egypt-post-and-supreme-judicial-council-digitise-judicial-notices-with-bareedi/) | Advanced |
@@ -194,7 +197,7 @@ Identity multiplied without being counted. Three biometric channels launched ins
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Digital Egypt service-coverage targets | The platform was in operation; the base's last count before the window is more than 170 e-government services (2024-09-30), and no target series is on record | [The minister set out 242 services at 2026-07-21, a target of over 270 by end-2026 and about 450 by 2030, under a legislation and governance pillar alongside digital transformation, technology localisation, digital infrastructure and capacity building](https://www.undp.org/egypt/stories/5-facts-you-need-know-about-digital-public-infrastructure) | Advanced |
 | National data-centre strategy | Did not exist | [Under preparation, framed around data localisation, a regional storage and processing hub, digital sovereignty and digital-services exports, and reaffirmed by Cabinet on 2026-07-05 and by the minister on 2026-07-21; no publication date, draft text or governing instrument is held](https://gate.ahram.org.eg/News/5722522.aspx) | Advanced |
@@ -203,20 +206,21 @@ Identity multiplied without being counted. Three biometric channels launched ins
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Chairmanship of the Arab AI governance and quantum working groups | Did not exist. The Arab Permanent Committee for AI and Emerging Technologies was created by a ministerial resolution at a session Egypt hosted in January 2026 and held its first founding meeting in May 2026 | [Egypt chairs the AI Governance Working Group, whose remit is a guidance framework for AI governance, technical tools and mechanisms for activating the Arab Charter for AI Ethics, and the Quantum Computing Working Group, whose remit is an Arab quantum strategy and quantum-cybersecurity deployment](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/) | Advanced |
 | UN E-Government Development Index position | 95th of 193 with a score of 0.6699 on the 2024 index, inside the global top 100 but below Egypt's 2010 peak of 86th | [The same 2024 figure; no later reading is held at 2026-08-06](https://www.ecofinagency.com/telecom/2309-45916-south-africa-mauritius-and-tunisia-lead-e-government-progress-in-africa) | No change |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Transfer-pricing guidance | The approved guide dates from 2018 and has not been revised despite successive changes to the legislation and to international standards | [Unchanged. The chair of a chamber of commerce tax committee told a financial daily the file needs urgent intervention, and appeal committees have begun relying on statutory provisions requiring a minister-approved guide, with the result that some transfer-pricing penalties have been cancelled](https://www.alborsaanews.com/2026/07/29/1982823) | No change |
+| Sustainable Finance Taxonomy | Not held | [Under development by an inter-ministerial working group formed by the central bank with the finance, investment, environment and financial-regulatory authorities, ahead of official issuance](https://www.zawya.com/en/economy/egypts-cbe-forms-inter-ministerial-working-group-to-develop-sustainable-finance-taxonomy-423226) | ***Baseline not held*** |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Data-protection compliance guidelines and templates | Did not exist; no regulator guidance is recorded in the base before 2026 | [Ten guidelines published, covering consent, lawful bases of processing, electronic direct marketing, the data protection officer, officer categories, data users, principles, records of processing activities, licences and permits, and privacy notices, together with breach-notification and records templates](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Advanced |
 | Personal Data Protection Law 151 of 2020 | In force since 2020 but never operationalised, with no executive regulations issued | [Operationalised by the Executive Regulations; the law's obligations on purpose limitation, approvals, cross-border transfer licensing, data-protection officer appointment, 72-hour breach notification and guardian consent for under-15s become enforceable from 2026-11-01 at the end of a one-year grace period](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl) | Advanced |
@@ -225,20 +229,20 @@ Identity multiplied without being counted. Three biometric channels launched ins
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Council of State digital transformation plan | The base carries no record that the administrative-justice branch had a digitisation programme | [The head of the Council of State told a meeting of administrative-court circuit presidents that the Council continues to implement an integrated digital transformation plan, developing its information infrastructure and adopting current technology to speed litigation; no named system, date, figure or deliverable is stated](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) | ***Baseline not held*** |
 | VAT credit-refund period reduction | The base carries no earlier statement of the refund period or of the proposal | [A proposed cut of the credit-refund period to four months for taxpayers and three for small and medium enterprises is still awaiting its legislative steps; a tax association board member added that the reduction will not meet its objects unless the operational problems obstructing proof of balances are resolved first](https://www.alborsaanews.com/2026/07/29/1982823) | ***Baseline not held*** |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Cloud sovereignty cooperation with SAP | The base carries no statement of Egypt's position on sovereignty over data hosted on European vendor platforms | [The ICT minister met the vendor's regional president to discuss expanding outsourcing operations and investment, cooperation on cloud computing to support Egypt's push for greater sovereignty over data and applications hosted on those platforms, AI rollout, and a joint study of labour-market demand; no agreement, value or timetable is stated](https://techafricanews.com/2026/03/31/egypt-and-sap-deepen-ties-to-boost-ai-cloud-and-outsourcing-growth/) | ***Baseline not held*** |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | World Bank GovTech Maturity Index position | 69th globally with a maturity score of 0.751 on the 2022 index; Group B at 0.649 in 2020 | [22nd globally with a score of 0.911 in the top band on the 2025 index, a rise of 47 places, with core government systems 0.916, digital service delivery 0.962, citizen engagement 0.896 and enablers 0.869](https://gate.ahram.org.eg/News/5356100.aspx) | Advanced |
 | National Open Data Policy | The base carries no statement of the policy's existence or content at 2025-08-01 | [The minister named the launch of the open data policy among the policies and legislation supporting digital transformation; no date of adoption, text, issuing instrument, dataset inventory or national portal is established](https://gate.ahram.org.eg/News/5356100.aspx) | ***Baseline not held*** |
@@ -255,7 +259,7 @@ Several instruments went from nothing to a stated intention. Cabinet agreed on 2
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Egyptian Center for Responsible AI | Did not exist | [Established inside the ICT ministry to support safe AI use within government bodies and to develop regulatory models; no mandate document, budget, staffing or output is held](https://gate.ahram.org.eg/News/5670246.aspx) | Advanced |
 | National Council for AI, Quantum Computing and Emerging Technologies | The National Council for Artificial Intelligence, created 2019, with an AI remit; the base records no quantum or emerging-technology mandate | [Remit widened to AI, quantum computing and emerging technologies, and the council is stated to be preparing a national quantum-computing strategy; no decree, membership list or date for the rename is held](https://gate.ahram.org.eg/News/5670246.aspx) | Advanced, rename date not stated |
@@ -266,7 +270,7 @@ Several instruments went from nothing to a stated intention. Cabinet agreed on 2
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Electronics and handset localisation programme | 3 million handsets produced in 2024 | [10 million handsets produced by end-2025, with ministerial targets of more than 15 million during 2026, a 30 million capacity by 2028 and local content of about 45%](https://gate.ahram.org.eg/News/5814629.aspx) | Advanced |
 | ICT sector growth and share of GDP | Sector growth of 15.2% in FY2022/23 contributing 5.1% of GDP, up from 4.4% in FY2019/20, with US$4.2bn of investment (reported 2025-11-21) | [Growth of 20.3% in the third quarter of the last fiscal year, described as the sector's highest rate, and a GDP contribution of about 6%, targeted at 8% by 2030](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) | Advanced |
@@ -279,7 +283,7 @@ Several instruments went from nothing to a stated intention. Cabinet agreed on 2
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Egyptian startup venture funding | 51 Egyptian startups funded in 2024, the highest count in Africa | [US$378.95m across 43 funded startups in 2025 on one tracker's count, 23.2% of the African total and second to Nigeria for a second year, with the number of funded ventures falling 15.7% and average raise rising to US$8.81m from US$6.12m; Egypt then led the continent in H1 2026 with US$327m raised, US$183m of it equity](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | Advanced, deal count falling |
 | InfiniLink | Independent Cairo deep-tech semiconductor startup in a state venture portfolio | [Acquired, delivering a reported 400% return to the state venture investor; no consideration, retained-operations or headcount detail is held](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Closed, acquired |
@@ -287,14 +291,14 @@ Several instruments went from nothing to a stated intention. Cabinet agreed on 2
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Google AI Pro free student subscriptions | Did not exist | [A company-announced free one-year subscription for college students, to begin in the coming weeks from 2025-09-22 in Egypt and seven other African countries; no confirmation of launch, uptake figure or end date is held](https://developingtelecoms.com/telecom-technology/data-centres-networks/19091-google-plans-to-build-four-subsea-cable-connectivity-hubs-for-africa.html) | Advanced |
 | Mediterranean capacity partnership with Cisco | Announced before the window opened, as the activation of Mediterranean subsea capacity on the 2Africa system, framed around demand from cloud and AI services | [No later source updates the arrangement's status, capacity or commercial terms](https://gate.ahram.org.eg/News/5081510.aspx) | No change |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Fibre-to-the-room service with Telecom Egypt | Did not exist; the source presents the service as a first for Egypt | [Commercial launch of in-home fibre-to-the-room with the incumbent's consumer brand; no coverage, subscriber, tariff or contract-value figure is stated](https://gate.ahram.org.eg/News/5660818.aspx) | Advanced |
 | Chinese-supplied smart-city surveillance in Egypt | A United States firm's safe-city package recorded as adopted in Egypt (2023-09-27); Chinese supply into Egypt was not separately established | [Egypt is one of eleven countries where Chinese firms were found to supply smart-city surveillance equipment, and one of the states where Chinese banks financed such systems; Cairo's New Administrative Capital is listed with multiple named vendors. No Egyptian contract, value, camera count or command-centre detail is held](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/) | No change, new mapping evidence only |
@@ -302,7 +306,7 @@ Several instruments went from nothing to a stated intention. Cabinet agreed on 2
 
 ### India activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | India-Egypt technology cooperation | The base held no source at all on India-Egypt technology cooperation at 2025-08-01 | [The two industry ministers agreed a joint study of priority sectors for industrial and investment integration, to be prepared by Egyptian authorities with Invest India and covering market needs, value chains, joint manufacturing, incentives and tariff and non-tariff barriers, with financial technology among the named priority sectors; they discussed linking the two countries' payment systems and settling bilateral trade in local currencies, and Egypt proposed an Egyptian-Indian industrial integration platform matching companies on joint production, component exchange and supplier development](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/) | ***Baseline not held*** |
 
@@ -318,13 +322,13 @@ The outsourcing sector converted commitments into buildings: a memorandum signed
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Presidential initiative on digital accessibility of government websites | The base carries no accessibility tooling or standard before this date | [A toolbar on every page of the ministry site offering screen-reader compatibility, keyboard-only navigation, text enlargement, contrast switching, font and line-spacing changes, reading-focus highlighting, animation suppression, cursor enlargement and link highlighting, executed by the ministry's academy for persons with disabilities, whose mandate is to propagate the standards to other government bodies](https://gate.ahram.org.eg/News/5882651.aspx) | ***Baseline not held*** |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Financial inclusion rate, adults 15 and over | 76.3% of adults at June 2025, against 27.4% in 2016 | [79% at end-June 2026, 56.4 million active accounts of a 71.4 million eligible population, counting bank accounts, postal accounts, mobile wallets and prepaid cards; women 72.5% against 19.1% in 2016 and ages 15-35 58% against 36.3% in 2020, with a Second National Financial Inclusion Strategy for 2026-2030 in development](https://techafricanews.com/2026/08/11/egypts-financial-inclusion-rate-reaches-79-as-active-accounts-hit-56-4-million/) | Advanced |
 | Ration-card grievance data update at post offices | Did not exist; appeals against the 2026 eligibility criteria ran through the Digital Egypt platform only | [Data-update forms accepted at 500 post offices on Friday afternoons and Saturday mornings alongside the online route, with a daily adjudication committee, results notified by SMS, and every case checked against the state's official databases](https://www.elwatannews.com/news/details/8325610) | Advanced |
@@ -333,13 +337,13 @@ The outsourcing sector converted commitments into buildings: a memorandum signed
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Digital financial literacy barrier to mobile money | No Egyptian digital-literacy measure is on file at 2025-08-01 | [Among Egyptians aware of mobile money but holding no account, not knowing how to use the service affects 21% of women and 15% of men](https://www.ecofinagency.com/news-digital/3103-54286-mobile-money-in-africa-strong-growth-but-adoption-still-falls-short) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | AI Capacity Building Initiative for Universities | Running since 2022 under a ministry agreement with a technology vendor, with three rounds completed and no cumulative figure published at 2025-08-01 | [Fourth round trained 1,090 students from 10 public, national and private universities producing 445 projects, plus a renewable-energy hackathon of 105 students in 21 teams; cumulative since 2022 reported as 2,710 students and 763 projects](https://gate.ahram.org.eg/News/5882834.aspx) | Advanced |
 | Cybersecurity SuperHero Academy | Two editions delivered, whose combined intake the national telecommunications institute states the third edition's target roughly matches; the base carries no dates or intake figures for them | [Third edition targeting more than 6,000 trainees across 17 governorates in three age-banded stages from age 8 upward, delivered through institute premises and innovation centres, with the national emergency readiness centre, the regulator and two technology partners](https://gate.ahram.org.eg/News/5725761.aspx) | Advanced |
@@ -359,7 +363,7 @@ Training rose where it is counted by programme and stalled where it is counted n
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Blnk consumer lending facility | Did not exist | [US$12.5m Series A equity led by a domestic venture fund with three development and regional investors, plus US$24.6m in local-currency debt from three Egyptian banks, against a point-of-sale lending network of more than 3,000 merchants](https://techcabal.com/2026/06/08/egypts-blnk-raises-37-million-to-expand-lending/) | Advanced |
 | Egypt Startup Charter and unified financing initiative | A government framework in preparation, with a stated unified financing initiative of EGP 50bn to support 5,000 startups and help 500 of them attract more than US$1m each, against targets of US$5bn in investment over five years and 500,000 jobs; no launch, appropriation, disbursement or governing instrument on file (2025-12-19) | [The Startup Label certification is issuing under the Charter: UMAMI E-Learning Solutions named as one of the first Egyptian companies awarded the Startup Label Certificate, assessed on innovation, technological reliance, scalability and investment readiness; no cumulative certification count, and no appropriation or disbursement figure for the stated EGP 50bn financing initiative, is held](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Advanced |
@@ -371,12 +375,18 @@ Training rose where it is counted by programme and stalled where it is counted n
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Central bank memorandum with Afreximbank on a pan-African Gold Bank | Did not exist | [At feasibility-study stage, to assess technical, commercial and regulatory requirements for a Gold Bank sited in a designated free zone in Egypt, scoped to include an internationally accredited refinery, secure vaulting and associated financial and trading services](https://www.cbe.org.eg/en/news-publications/news/2025/12/30/08/37/gold-bank-programme-in-egypt) | Advanced |
 | Fawry point-of-sale integration partnership | Did not exist | [An integration connecting the payments company's acceptance terminals with a point-of-sale software provider's system, targeting hospitality, retail chains and hypermarkets](https://techafricanews.com/2026/07/21/fawry-partners-with-crystal-mind-to-integrate-pos-and-digital-payments/) | Advanced |
 | Memorandum on a regional IT outsourcing delivery centre | Did not exist | [A framework for expanding the firm's operations in Egypt and establishing a regional outsourcing delivery centre serving Middle East and North Africa clients in business consulting, risk management, cybersecurity, digital engineering, data analytics, AI and business platforms, stated as creating more than 1,000 jobs over three years](https://techafricanews.com/2026/07/06/ey-mena-chooses-egypt-for-regional-it-outsourcing-delivery-center/) | Advanced |
 | Central bank cooperation with Eswatini | The base carries no dated position on the relationship at 2025-08-01, though prior cooperation on capital standards, financial inclusion, small-business finance and climate-related risk is described | [Eswatini seeking to draw on Egypt's continental payment-system accession experience, with Egypt also offering its currency-circulation system, its currency printing house and banking institute training programmes](https://techafricanews.com/2026/07/21/egypt-and-eswatini-central-banks-deepen-cooperation-on-digital-payments-and-banking/) | ***Baseline not held*** |
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+|---|---|---|---|
+| ICT sector public investment | Not held | [EGP 13bn of public investment allocated to the communications and information technology sector in the 2025/26 plan, against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing](https://moic.gov.eg/news/2134) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
 State investment in the sector is stated only in dollars by ministers, at more than US$6bn since 2019 ([ministry account](https://techafricanews.com/2026/06/02/egypt-invests-over-6-billion-in-telecom-infrastructure-and-digital-connectivity-development-since-2019/)), and no Egyptian budget document supports any appropriation figure in this report.

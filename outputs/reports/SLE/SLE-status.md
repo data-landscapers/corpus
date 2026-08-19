@@ -1,15 +1,15 @@
 ---
 title: Sierra Leone — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: SLE
-ledger_rows: 63
+ledger_rows: 68
 not_held: 11
-record: b2f3edbf5d8d
+record: b0cb366541ec
 ---
 
 # Sierra Leone: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (63 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (68 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -47,6 +47,12 @@ Connectivity is the constraint the state names itself: [about US$400m invested a
 | National Data Centre at NatCA headquarters | [Implemented](https://www.slena.gov.sl/post/sierra-leone-s-president-julius-maada-bio-commissions-natca-hq-reinforces-commitment-to-digital-inn) | Commissioned by President Bio, 17 April 2026 |
 | NCRA Tier III data centre | [Implemented](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) | Reported operating by the NCRA Director-General, 7 August 2026 |
 | Orange Bo backup data centre | [Implemented](https://statehouse.gov.sl/2025/11/29/sierra-leones-president-julius-maada-bio-opens-orange-sierra-leone-data-centre-reaffirms-governments-commitment-to-enabling-private-investment/) | Opened by President Bio, 29 November 2025 |
+
+### Energy
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| RESPITE solar and storage plant | [Implemented](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts) | Fully operational, commissioned July 2026 |
 
 ### Technical Capacity
 
@@ -107,6 +113,7 @@ Cybersecurity institutions are ahead of the record about them. The regulator [co
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Integrated National Digital Mortality Surveillance, Registration and Certification System | [In development](https://sierraloaded.sl/health/npha-advances-digital-mortality-system/) | Supplier engagement opened 2026-08-07 |
 | National Digital Farmer Registry | [In development](http://thesatellitenews.com/index.php/de/announcements/23-news-articles/1730-with-the-national-id-system-for-nin-ncra-ministry-of-agriculture-partner-on-national-digital-farmer-registry-integration) | Integration with the NIN system agreed with the Ministry of Agriculture, May 2025 |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
@@ -120,6 +127,14 @@ Cybersecurity institutions are ahead of the record about them. The regulator [co
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Electronic government procurement platform | [Planned](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | Bilateral cooperation on e-procurement deepened, reported 2026-08-12 |
+| National Monitoring and Evaluation Information System | [In development](https://apanews.net/namea-highlights-achievements-in-sierra-leone-project-oversight/) | Expansion described by the agency's director-general, 2026-08-14 |
+| SierraSeat audit management information system | [In development](https://sierraleoneconcordtimes.com/audit-service-conducts-sierraseat-post-configuration-training/) | Post-configuration training completed 3-5 August 2026 |
+
+### Rural digital data capture
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Agricultural interactive voice response platform | [In development](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) | Reported 98% complete, 2026-08-14 |
 
 ### Digitalisation of sub-national government
 

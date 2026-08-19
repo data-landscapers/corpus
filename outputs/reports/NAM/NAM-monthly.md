@@ -1,16 +1,16 @@
 ---
 title: Namibia — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: NAM
-ledger_rows: 47
+ledger_rows: 51
 not_held: 12
-record: ce338a5e04c2
+record: b97606629ffa
 ---
 
 # Namibia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -110,12 +110,19 @@ Cabinet approved a memorandum on information technology cooperation with the Rep
 
 Namibia joined four other governments as a founding partner of a pan-African African-language artificial-intelligence initiative launched at a continental telecommunications conference in Abuja on 24 July ([launch account](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/)). Namibia's stated commitment is ministerial support rather than a named contribution, and the ICT minister is one of eight Africans on a 44-member international commission ([conference account](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/)).
 
-A memorandum with Botswana was [announced for signature by the two ICT ministers on 6 August at Kasane](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/), extending cooperation that already covers reduced cross-border roaming charges and Namibian transit to submarine cable capacity into digital transformation, emerging technologies and cybersecurity. No term, funding, named workstream or data-governance provision is published, and the base holds the announcement rather than a signature.
+The memorandum with Botswana was signed. The two ICT ministries, with their operators and regulators, [signed at Kasane on 7 August, covering digital transformation, cybersecurity, connectivity and skills development](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement), and published operational detail alongside it: [the Trans-Kalahari Corridor's remaining 4G gaps costed at about N$52 million across 13 new sites, and the Gobabis-Buitepos fibre link completed and interconnecting with the Botswana backbone company at Charles Hill](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) — the first direct cross-border fibre link between the two operators — with the two incident-response teams said to be deepening cooperation. The signed instrument itself is not held, and no term, funding or data-governance provision is published.
+
+India is the other bilateral track. At the [fourth joint trade committee in New Delhi on 12 August the two governments advanced cybersecurity and digital-economy cooperation](https://cajnewsafrica.com/2026/08/12/namibia-solidifies-cybersecurity-digital-ties-with-india/), building on a memorandum the two heads of government signed in July 2025 and against bilateral trade put at more than US$592m in 2025/26. That memorandum's text is not held either.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 On 4 August an opposition member told a newspaper that with no data-protection statute in force there is no legal definition of a data controller and no rules governing cross-border transfer, that the constitutional privacy provision has no enabling statute, and asked parliament to compel disclosure of the smart-city agreements, annexures, contractors, data architecture and lifetime operating costs ([member's account](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/)). A gazette notice withdrawing existing identity documents is otherwise covered in this month's summary; it has no separate drafted narrative here.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: governance--data-open -->
+The environment ministry put a data platform where the country has no open-data policy at all. Its [Multilateral Environmental Agreements monitoring and reporting platform launched at N$12m in the week of 7 August](https://neweralive.na/ministry-unveils-n12-million-monitoring-website/), built with UNDP and funded by the Global Environment Facility under a land-governance project, to centralise environmental data for planning, decision-making and national reporting, with the national university as technical and academic partner. No public access, dataset list, licence or publication rule is stated, so on the record held it is a reporting tool rather than open data — and the access-to-information statute that would give a citizen a claim on any of it remains enacted and uncommenced.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -124,6 +131,8 @@ On 4 August an opposition member told a newspaper that with no data-protection s
 
 <!-- narrative: ai-tech--tech-ai -->
 The month's artificial-intelligence work is language work. The development programme's account of 13 August records [an indigenous-language voice-data repository being built through its AI sprint with the national science and technology university](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). No language count, corpus size, licence or release date is stated, and the question a speech corpus raises above all others — who owns the recorded voices, and on what terms they may train a model — is not addressed in the account.
+
+The state's own first artificial-intelligence contract asks the same question of a different dataset, and answers part of it. A [one-year contract with a United States firm at N$39.5m, about US$2.4m, introduces satellite imagery, remote sensing and artificial-intelligence monitoring of mahangu, maize, sorghum, cowpea and wheat](https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/); the agriculture ministry says Namibia retains ownership of the satellite and crop data generated and will receive model and skills transfer. The award drew public objection over transparency and local participation, and no procurement route, tender record or text of the data-ownership and transfer terms is published.
 <!-- /narrative -->
 ### China activities
 
@@ -142,4 +151,6 @@ A [five-node high-performance computing cluster is specified for deployment at t
 
 <!-- narrative: inclusion--include-access -->
 The central bank's deputy governor told the payments association's annual general meeting on 28 July that financial inclusion rose from 78% in 2017 to 86% in 2025, and named continued cash reliance, limited rural access, informal-sector barriers and the digital divide as the persistent constraints ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
+
+Education added a channel built for the same margins. The education ministry and UNICEF [launched a Namibia Learning Passport, a digital and offline learning platform aimed at rural, remote and underserved young people](https://informante.web.na/?p=399266), at the international youth day event in Keetmanshoop. No user target, content catalogue, device requirement or offline distribution route is stated — which matters most for the platform's stated audience, since parliamentary evidence in the same window put schools and clinics in Kavango West as substantially cut off from reliable internet.
 <!-- /narrative -->

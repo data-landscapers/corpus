@@ -1,16 +1,16 @@
 ---
 title: Sierra Leone — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: SLE
-ledger_rows: 28
+ledger_rows: 33
 not_held: 11
-record: dbdff0c23fae
+record: bf9a0068b23e
 ---
 
 # Sierra Leone: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -31,6 +31,11 @@ The health ministry [launched Starlink service at the Julius Maada Bio Paediatri
 
 <!-- narrative: infrastructure--infra-store -->
 The same 7 August account states the biometric register runs on a Tier III data centre, as reported by the NCRA Director-General ([consultation account](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/)).
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: infrastructure--infra-energy -->
+The constraint under everything else eased slightly. A World Bank-funded [40MW solar-plus-storage project at Lungi and Newton became fully operational, commissioned in July 2026 and projected to raise the electricity access rate toward 36%](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts) and to ease the outages that interrupt telecommunications and digital services. The access projection is the project's own; no generation outturn, grid-availability series or measured effect on network uptime is held, so the connection between the plant and the services it is said to protect is asserted rather than shown.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -59,6 +64,13 @@ A re-platforming of the national payment rails — real-time gross settlement an
 
 The same 4 August ministerial statement [disclosed about 390 Orange mobile-money fraud complaints logged in 2026 to date and more than 18,000 police requests for subscriber data answered](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
 <!-- /narrative -->
+### Registries (population, land, address, etc.)
+
+<!-- narrative: dpi--dpi-registry -->
+The registry the state has least of is the one for deaths. The national public health agency [opened supplier engagement on 7 August for an Integrated National Digital Mortality Surveillance, Registration and Certification System](https://sierraloaded.sl/health/npha-advances-digital-mortality-system/), with the health ministry and the civil registration authority, aligned to WHO ICD-11 and built on a national health information hub established in January 2026 — against a gap in which only 13.4% of deaths are fully registered. No cost, supplier, timetable or coverage target is stated.
+
+Two days later the civil registration authority and its partners marked African civil-registration day by [calling for an integrated, decentralised, digital birth-to-death registration system, with UNICEF costing US$1.16m of strengthening needs over three years](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/), and the electoral commission and the central bank naming the 2028 elections and financial inclusion as what depends on it. What a citizen pays for the document at the end of that chain is contested: a civil-society account [questions whether people can afford the national identity card at NLe140 now that it is central to linking identity numbers to SIM registration](https://www.linkedin.com/posts/citizens-barray_freeid-identity-telecommunications-activity-7492303807360679936-U3Br).
+<!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
@@ -68,6 +80,13 @@ A digital health programme covering electronic medical records, disease surveill
 
 <!-- narrative: dpi--dpi-govtech -->
 The National Public Procurement Authority [sent a delegation to Liberia on 6-7 August to study that country's electronic government procurement system](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html). No Sierra Leonean platform, procurement decision or timetable follows from it on the record. The visit was reported on 12 August as [a deepening of bilateral cooperation between the two countries' regulators and procurement authorities on digital transformation and procurement transparency](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), which restates the same event rather than adding a commitment.
+
+Two systems the state watches itself with did move. The audit service's [management information system entered final user-acceptance testing after post-configuration training on 3 to 5 August](https://sierraleoneconcordtimes.com/audit-service-conducts-sierraseat-post-configuration-training/), built with World Bank funding by customising a platform of the African organisation of English-speaking supreme audit institutions, before it is declared operational. And the monitoring and evaluation agency is [expanding its information system for real-time remote tracking of the 100 to 250 public projects launched each year](https://apanews.net/namea-highlights-achievements-in-sierra-leone-project-oversight/). Neither account states a cost, a go-live date, or whether any of the tracked data reaches the public.
+<!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: dpi--digital-rural -->
+The agriculture ministry is [finalising an upgraded interactive voice response platform, reported 98% complete, to give farmers direct access to ministry officials](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) under the national food-security agenda. Voice is the right channel for the users it names, and the account states no launch date, language coverage, call volume or cost — [98% complete](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) being the ministry's own description of a system nobody outside it has used.
 <!-- /narrative -->
 ### Use of satellite data
 

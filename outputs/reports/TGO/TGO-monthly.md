@@ -1,16 +1,16 @@
 ---
 title: Togo — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: TGO
-ledger_rows: 29
+ledger_rows: 34
 not_held: 39
-record: b831dde8c19c
+record: 39d955e9c659
 ---
 
 # Togo: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -35,6 +35,11 @@ The cyber institutions are in place and the record of what they do is thin. [The
 
 ## Digital public infrastructure
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+The tax authority closed the paper route into the land record. From 17 August 2026 [digital submission of land parcel plans is mandatory through its single land window, ending paper filing by surveyors registered with the professional order](https://www.otr.tg/index.php/fr/blog/avis-communiques/1611-communique-n-005-2026-otr-cg-ci-dccf-relatif-aux-depots-des-dossiers-de-plans-parcellaires-en-ligne.html). No fallback channel, fee schedule, submission volume or data-protection basis for the cadastral record is stated — and the country's own national interoperability and data-exchange framework remains ***Not held***, so this is a single authority's window rather than a piece of a shared layer.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -55,6 +60,11 @@ Two government systems advanced without either being shown in production. [Docum
 <!-- narrative: dpi--digital-rural -->
 The Council of Ministers [amended the spectrum-royalty decree to price satellite and machine-to-machine traffic](https://actu-togo.tg/2026/07/31/numerique-le-togo-ajuste-sa-reglementation-pour-soutenir-linnovation-et-la-connectivite/) on 30 July, so specialised operators can establish and rural connectivity extend. The amending text and its rates were unpublished at 31 July, and the parent decree is held only as an image scan, so the baseline rates cannot be read either.
 <!-- /narrative -->
+### Digitalisation of sub-national government
+
+<!-- narrative: dpi--digital-localgov -->
+A commune of Greater Lome began building the kind of register a municipality has not had. Golfe 2 [launched a georeferenced census of households, businesses and taxpayers on 11 August, running to 10 October](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal), to build a secure municipal database under the communes federation's digitalisation push and the 2023-2027 communal development plan. No data-protection basis, custodian, retention rule or access arrangement is stated for a file that ties households, businesses and tax position to a location.
+<!-- /narrative -->
 
 ## Governance and regulation
 
@@ -68,6 +78,11 @@ The Council of Ministers [amended the spectrum-royalty decree to price satellite
 <!-- narrative: governance--gov-policy -->
 The [government roadmap for 2026-2031 is in force](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) with headline targets of a doubling of gross domestic product per head and poverty below 15 per cent. The text is not held, no digital chapter or digital target is on record, and the three sectoral tracks at its private-sector workshop of 30 July were agro-industry, logistics and transport, and energy — none of them digital. The [regulator's head was elected president of the West African regulators' association](https://www.togofirst.com/en/trombinoscope-uk/3107-19753-michel-yaovi-galley-head-of-arcep-togo) at the assembly Togo hosted in April.
 <!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+The corridor the country sits on is the subject of the month's regional work. A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to accelerate free movement along the Abidjan-Lagos corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu). No deployment figure, timetable or data-protection arrangement for the shared border and transit data is stated, and the reaffirmation is of commitments the base has held for some time rather than of anything newly delivered.
+<!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
@@ -77,6 +92,11 @@ The same Council of Ministers session of 30 July [adopted a decree instituting a
 
 <!-- narrative: governance--gov-protect -->
 The data-protection body is [operating with thirty-two certified corporate correspondents by June 2026](https://www.togofirst.com/fr/tic/2506-19349-protection-des-donnees-l-ipdcp-forme-ses-premiers-correspondants-pour-renforcer-la-conformite-des-entreprises) and [a second international forum convened at Lome in July](https://www.togofirst.com/en/itc/2907-19717-data-protection-experts-convene-in-lome-for-international-forum). Its organisation decree is still not held.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The regulator spent August on the road rather than on rules. Its [seventh national consumer-sensitisation tour ran from 3 to 28 August with consumer associations and operators](https://atop.tg/bassar-telecommunications-les-consommateurs-sensibilises-sur-leurs-droits-et-obligations/), briefing operators and association leaders on electronic-communications rights and, at Bassar, on preventing mobile-money fraud. At the Kara leg on 6 August, [local officials asked the regulator to widen its remit to all economic operators](https://atop.tg/kozah-communications-electroniques-larcep-edifie-les-consommateurs-de-kozah-assoli-et-binah-sur-leurs-droits-et-obligations/) — a request to be regulated more, not less, and the clearest signal in the record of what consumers think the alternative is. No attendance figure, complaint volume or outcome measure for the tour is published.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

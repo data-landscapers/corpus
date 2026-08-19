@@ -1,16 +1,16 @@
 ---
 title: Egypt — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: EGY
-ledger_rows: 73
+ledger_rows: 78
 not_held: 54
-record: 1a837b63e818
+record: bdc0589cd169
 ---
 
 # Egypt: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -54,6 +54,8 @@ Identity gained a second biometric front end and a liability problem in the same
 
 <!-- narrative: dpi--dpi-pay -->
 Two things moved on the payment rails. The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). And factoring, where the platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
+
+The operator that builds the state's payment infrastructure also became a lender. On 13 August it [agreed the full acquisition of an Egyptian non-bank lender to small and medium firms](https://www.zawya.com/en/press-release/companies-news/efg-hermes-advises-efinance-on-strategic-acquisition-of-tamweely-financial-services-430407), extending its own infrastructure into direct lending. No consideration is disclosed in the records held, and neither states any separation between running government payment rails and holding a lending book that runs on them.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -70,7 +72,11 @@ The social insurance authority reported on 3 August that it had served 8,621,000
 <!-- narrative: dpi--dpi-govtech -->
 Two further services opened: the Public Prosecution began returning, through the national digital identity system, criminal judgments registered against an enquirer's own national number, and digital visa-on-arrival began at Cairo International on 1 August, with an issuance fee charged on top of the visa fee.
 
-The judiciary signed for a platform of its own. On 11 August the justice minister and the heads of every judicial body [signed a Unified Digital Justice Strategy and launched a shared judicial-data platform](https://gate.ahram.org.eg/News/5887141.aspx), built with a foreign vendor and set out in three phases covering remote litigation, cybersecurity and artificial-intelligence-enabled services. No text, timetable, budget or data-protection arrangement is published, and the vendor's contract value and procurement route are not stated. The [unified government services card, integrating food-subsidy and civil-service delivery into one platform, was reviewed by the supply and communications ministers the day before](https://itweb.africa/article/egypt-accelerates-govt-digitisation-push/JBwErvn3WDP76Db2), on database sharing and technical integration.
+The judiciary signed for a platform of its own. On 11 August the justice minister and the heads of every judicial body [signed a Unified Digital Justice Strategy and launched a shared judicial-data platform](https://gate.ahram.org.eg/News/5887141.aspx), built with a foreign vendor and set out in three phases covering remote litigation, cybersecurity and artificial-intelligence-enabled services. No text, timetable, budget or data-protection arrangement is published, and the vendor's contract value and procurement route are not stated. The President returned to the same programme on 17 August, [directing that digital-sovereignty and cybersecurity standards be maintained for litigant data at a review of the City of Justice digital-court project](https://sis.gov.eg/en/media-center/news/president-el-sisi-stresses-need-to-continue-efforts-to-advance-judicial-system/), alongside justice ministry e-notarisation partnerships with two state banks. A direction is not a standard: none is named, and none is published.
+
+The [unified government services card, integrating food-subsidy and civil-service delivery into one platform, was reviewed by the supply and communications ministers the day before](https://itweb.africa/article/egypt-accelerates-govt-digitisation-push/JBwErvn3WDP76Db2), on database sharing and technical integration. The state's own complaints channel gave its monthly figures: [about 229,000 complaints, requests and inquiries handled in July, 84% referred on to the responsible authority and 14% closed](https://sis.gov.eg/en/media-center/news/pm-reviews-efforts-of-unified-complaints-system-to-enhance-efficiency-response-to-citizens/), with governorates taking 17% of referrals and nine of them handling 74% of that share. Referral is not resolution, and no outcome or resolution time is published behind it.
+
+Investors are to get their own digitised path through the land record. A [cooperation protocol signed on 13 August between the justice and investment ministries would digitise real-estate registration and notarisation services for investors](https://sis.gov.eg/en/media-center/news/justice-investment-ministries-sign-pact-to-digitize-investor-services/), to shorten company incorporation. No protocol text, timetable or service list is published, and land-registration coverage for everyone else remains ***Not held***.
 <!-- /narrative -->
 ### Rural digital data capture
 
@@ -177,4 +183,9 @@ The data-centre position moved by cancellation. [Telecom Egypt's board withdrew 
 
 <!-- narrative: finance--finance-mou -->
 A professional services firm [signed a memorandum with the IT industry agency on 6 July for a regional outsourcing delivery centre](https://techafricanews.com/2026/07/06/ey-mena-chooses-egypt-for-regional-it-outsourcing-delivery-center/), stated to create more than 1,000 jobs over three years, with no investment sum, site or opening date given.
+<!-- /narrative -->
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+The sector's own money was put before parliament. The planning minister told the House of Representatives that [EGP 13bn of public investment is allocated to the communications and information technology sector in the 2025/26 plan](https://moic.gov.eg/news/2134), against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing. It is a plan allocation rather than an outturn, and the base holds no execution figure against it — nor any published state digital appropriation, which is recorded as ***Not held***.
 <!-- /narrative -->
