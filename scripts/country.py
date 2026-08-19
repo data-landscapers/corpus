@@ -573,6 +573,7 @@ FINANCE = """<!DOCTYPE html>
       data-filters="financier, sector, instrument, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
+      data-detail="description"
       data-sort="start_year:desc"
       data-empty="No commitment matches those filters.">
       <div class="dt-controls">

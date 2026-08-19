@@ -128,10 +128,12 @@ function widths(doc, box) {
       body.length === cols.length + 1, `${body.length} cols for ${cols.length} columns`);
   }
   const dataCols = body.slice(1);
+  const td0 = doc.querySelector('.dt-body td');
+  const cellPad = (parseFloat(doc.defaultView.getComputedStyle(td0).paddingLeft) || 0) * 2;
   check('no column is a sliver', Math.min(...dataCols) >= 66,
     `narrowest ${Math.min(...dataCols)}px`);
-  check('no column runs away', Math.max(...dataCols) <= 400,
-    `widest ${Math.max(...dataCols)}px`);
+  check('no column exceeds the ceiling', Math.max(...dataCols) <= 500 + cellPad + 1,
+    `widest ${Math.max(...dataCols)}px against MAX_W 500 + ${cellPad} padding`);
 
   const total = body.reduce((a, b) => a + b, 0);
   const declared = parseFloat(doc.querySelector('.dt-body').style.width);
@@ -184,11 +186,16 @@ async function expander(doc, box) {
   check('clicking a row opens a detail panel', det && det.classList.contains('dt-detail'));
 
   const cols = (box.dataset.cols || '').split(',').map(s => s.trim()).filter(Boolean);
+  const also = (box.dataset.detail || '').split(',').map(s => s.trim()).filter(Boolean);
   if (cols.length && det) {
     const shown = [...det.querySelectorAll('dt')].map(d => d.textContent);
     check('the panel holds fields the columns leave out', shown.length > 0, `${shown.length} fields`);
-    check('and does not repeat the columns',
-      !shown.some(f => cols.includes(f)), shown.filter(f => cols.includes(f)).join(', '));
+    // A column may appear in the panel too, but only by being named in data-detail:
+    // `description` is clamped in the table and has to be readable somewhere.
+    const repeats = shown.filter(f => cols.includes(f) && !also.includes(f));
+    check('and repeats a column only where data-detail asks it to',
+      repeats.length === 0, repeats.join(', '));
+    also.forEach(f => check(`data-detail carried ${f} into the panel`, shown.includes(f)));
     check('the panel spans the whole table',
       +det.querySelector('td').getAttribute('colspan') === cols.length + 1);
   }

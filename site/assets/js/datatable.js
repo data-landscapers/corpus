@@ -14,6 +14,7 @@
           data-numeric="commitment_usd_m,start_year"  sort these as numbers
           data-links="url"                         render these as links
           data-labels='{"recipient_country":{"ZAF":"South Africa"}}'
+          data-detail="description"                also show these in the row panel
           data-sort="start_year:desc"              initial sort
           data-empty="No commitment matches those filters.">
        <div class="dt-controls">
@@ -64,9 +65,10 @@
   'use strict';
 
   var ZWSP = '​';        // zero-width space: lets a header wrap at its underscores
-  var LINES = 3;          // target depth: the p90 cell should fit in this many lines
+  var LINES = 3;          // no cell should need more than this many lines
+  var FIT = 1;            // ...and this share of a column's cells must manage it
   var MIN_W = 66;         // px, before padding — narrower than this reads as a sliver
-  var MAX_W = 280;        // px; a column wider than this is a column to click into
+  var MAX_W = 500;        // px, the ceiling; only a column that cannot fit reaches it
 
   /* ── CSV ──────────────────────────────────────────────────────────────── */
   function parseCSV(text) {
@@ -192,18 +194,26 @@
 
   /* The width one column should get.
 
-     The rule is stated as the thing actually wanted — *most rows should read in
-     three lines or fewer* — and solved for, rather than approximated by a
-     character count. For each candidate width the sampled cells are wrapped and
-     their lines counted; the answer is the narrowest width at which nine cells in
-     ten come in at or under LINES. Binary search over [MIN_W, MAX_W], because the
-     share fitting rises monotonically with width.
+     The rule is stated as the thing actually wanted — *no cell should need more
+     than three lines* — and solved for, rather than approximated by a character
+     count. For each candidate width the sampled cells are wrapped and their lines
+     counted; the answer is the narrowest width at which FIT of them come in at or
+     under LINES. Binary search over [MIN_W, MAX_W], because the share fitting
+     rises monotonically with width.
+
+     FIT is 1: **a column is sized for its longest cell, not its typical one**
+     *(Bill, 2026-08-19, replacing the 90th percentile v2 shipped with)*. Sizing to
+     the ninth decile is sizing for the average reader rather than for the record
+     in front of them, and it truncates exactly the rows most worth reading — the
+     long ones. Horizontal scrolling is the cheaper cost.
 
      Two floors sit under it: MIN_W, below which a column reads as a sliver, and
      the header's own longest word, so a label never stacks one letter per line.
-     The ceiling MAX_W is what makes `description` a clamped column and a click,
-     rather than a column half the table wide — no width would have satisfied it,
-     and pretending otherwise is what pushed v1's rows to fifteen lines deep. */
+     The ceiling MAX_W is the one place truncation survives, and on this data it
+     binds on `description` alone — 518 characters in a median row, which at three
+     lines wants 2,600px, a column wider than the screen it would be read on. So
+     description is clamped at the ceiling and carried in full in the detail panel
+     as well, and every other column shows everything it holds. */
   function columnWidth(header, values, mText, mHead, pad) {
     var headMin = mHead(longestWord(header.replace(/_/g, ' '))) + 18;   // + sort arrow
     var spaceW = mText(' ');
@@ -225,11 +235,11 @@
     }
 
     var lo = MIN_W, hi = MAX_W;
-    if (share(hi) < 0.9) lo = hi;                       // no width satisfies it
+    if (share(hi) < FIT) lo = hi;                       // no width satisfies it
     else {
       for (var k = 0; k < 9 && hi - lo > 4; k++) {
         var mid = (lo + hi) / 2;
-        if (share(mid) >= 0.9) hi = mid; else lo = mid;
+        if (share(mid) >= FIT) hi = mid; else lo = mid;
       }
       lo = hi;
     }
@@ -264,8 +274,15 @@
         var cols = wanted.length
           ? wanted.map(function (c) { return findCol(headers, c); }).filter(function (i) { return i > -1; })
           : headers.map(function (_, i) { return i; });
-        var hidden = headers.map(function (_, i) { return i; })
-          .filter(function (i) { return cols.indexOf(i) === -1; });
+        /* What the detail panel shows: every field the columns leave out, plus any
+           named in `data-detail`. A column can be in both — `description` is
+           clamped at the ceiling in the table and needs somewhere to be read in
+           full, and that somewhere is the panel it is already opening. */
+        var alsoDetail = list(container.dataset.detail)
+          .map(function (c) { return findCol(headers, c); })
+          .filter(function (i) { return i > -1; });
+        var detailCols = headers.map(function (_, i) { return i; })
+          .filter(function (i) { return cols.indexOf(i) === -1 || alsoDetail.indexOf(i) > -1; });
 
         var numeric = {};
         list(container.dataset.numeric).forEach(function (c) {
@@ -481,7 +498,7 @@
            gets to stay narrow enough to read without the record losing anything:
            what is not in a column is one click below it, not absent. */
         function detailHtml(row) {
-          var dl = hidden.map(function (ci) {
+          var dl = detailCols.map(function (ci) {
             var v = row[ci];
             if (!v) return '';
             return '<dt>' + esc(headers[ci]) + '</dt><dd>'
