@@ -1,0 +1,135 @@
+/* ============================================================
+   datatable.css — the .dl-datatable component (assets/js/datatable.js)
+   Kept out of main.css deliberately: main.css is a copy carrying its own
+   provenance marker (MAIN-CSS-FROM), and appending to it would break that.
+   Reuses main.css's variables and its table.data-table rules.
+   ============================================================ */
+
+.dl-datatable {
+  --dt-top: 0px;                      /* set by the script from the sticky chrome */
+  margin: 2rem 0;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: white;
+}
+
+/* ── Controls bar ── */
+.dl-datatable .dt-controls {
+  position: sticky;
+  top: var(--dt-top);
+  z-index: 30;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.7rem 1rem;
+  border-bottom: 1px solid var(--rule);
+  border-radius: 3px 3px 0 0;
+  background: var(--paper-warm);
+}
+
+.dl-datatable .dt-title {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-right: 0.3rem;
+}
+
+.dl-datatable .dt-filter,
+.dl-datatable .dt-search {
+  font-family: var(--serif);
+  font-size: 0.78rem;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  background: white;
+  color: var(--ink);
+  outline: none;
+  max-width: 13rem;
+}
+
+.dl-datatable .dt-filter:focus,
+.dl-datatable .dt-search:focus { border-color: var(--accent); }
+.dl-datatable .dt-search { min-width: 9rem; }
+
+.dl-datatable .dt-count {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  white-space: nowrap;
+  margin-left: auto;
+}
+
+.dl-datatable .dt-controls .btn { padding: 0.3rem 0.75rem; font-size: 0.7rem; white-space: nowrap; }
+
+/* ── Header / body split.
+   The header is a second table outside the scroll container: position:sticky on
+   a th inside overflow-x:auto sticks to the container, which never scrolls
+   vertically, so it does not stick at all. ── */
+.dl-datatable .dt-head-scroll {
+  position: sticky;
+  top: calc(var(--dt-top) + 3.1rem);   /* below the controls bar */
+  z-index: 20;
+  overflow: hidden;
+  background: var(--paper-warm);
+  border-bottom: 2px solid var(--accent);
+}
+
+.dl-datatable .dt-body-scroll { overflow-x: auto; }
+
+.dl-datatable table.data-table { width: auto; min-width: 100%; table-layout: auto; }
+.dl-datatable table.dt-head { margin: 0; }
+
+.dl-datatable table.data-table thead th {
+  border-bottom: none;
+  vertical-align: bottom;
+  white-space: normal;
+  word-break: break-word;
+  min-width: 5rem;
+  box-sizing: border-box;
+}
+
+.dl-datatable table.data-table thead th.num { text-align: right; }
+.dl-datatable table.data-table td { white-space: normal; vertical-align: top; max-width: 34rem; }
+.dl-datatable table.data-table td.num { text-align: right; font-family: var(--mono); font-size: 0.72rem; }
+.dl-datatable table.data-table tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-warm) 45%, white); }
+.dl-datatable table.data-table tbody tr:hover { background: color-mix(in srgb, var(--accent) 7%, white); }
+.dl-datatable table.data-table td a { word-break: break-all; }
+
+.dl-datatable tr.dt-none td {
+  padding: 1.6rem 1rem;
+  text-align: center;
+  color: var(--ink-faint);
+  font-size: 0.85rem;
+}
+
+/* ── Clamped cells: click to expand ── */
+.dl-datatable .dt-clip {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  cursor: pointer;
+  border-bottom: 1px dotted var(--ink-faint);
+}
+.dl-datatable .dt-clip--open { display: block; -webkit-line-clamp: unset; border-bottom: none; }
+
+/* ── Messages ── */
+.dl-datatable .dt-msg {
+  padding: 1.4rem 1rem;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+}
+.dl-datatable .dt-msg--err { color: var(--accent-dk); }
+
+.dl-datatable noscript p {
+  padding: 1.2rem 1rem;
+  font-size: 0.85rem;
+  color: var(--ink-light);
+}
+
+@media (max-width: 720px) {
+  .dl-datatable .dt-count { margin-left: 0; }
+  .dl-datatable .dt-head-scroll { top: calc(var(--dt-top) + 5.6rem); }
+}
