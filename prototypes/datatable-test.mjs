@@ -11,9 +11,8 @@
  * matching its name, a filter naming a column that is not there, a colgroup the
  * two tables disagree about.
  *
- * Add a page by adding a `suite(...)` line at the foot. ZAF alone while the
- * column-width work is in flight (Bill, 2026-08-19); put all.html back when it
- * is rebuilt on the same component.
+ * Add a page by adding a `suite(...)` line at the foot. Two today: one country's
+ * finance table, and the all-Africa table on the Finance page.
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -284,6 +283,7 @@ async function interactions(doc, want, opts) {
 }
 
 await suite("site/countries/ZAF/finance.html", { linkCol: true, labelled: false });
+await suite("site/finance/index.html", { linkCol: true, labelled: true });
 
 console.log(failures ? `\n${failures} failure(s)` : '\nall checks passed');
 process.exit(failures ? 1 : 0);
