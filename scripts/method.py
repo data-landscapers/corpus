@@ -26,6 +26,7 @@ from datetime import date
 from pathlib import Path
 
 import markdown
+from chrome_lib import chrome, foot  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONTENT = CORPUS / "content" / "method.md"
@@ -34,45 +35,9 @@ OUT = CORPUS / "site" / "method"
 SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
 
-CHROME = """  <header class="site-header">
-    <div class="site-header__inner">
-      <a href="{main}/" class="site-logo">
-        <img src="../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
-        <span class="site-logo__text">Data Landscapers
-          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
-        </span>
-      </a>
-      <nav class="site-nav" aria-label="Main navigation">
-        <a href="{base}/" class="active">Corpus</a>
-        <a href="{main}/writing/">Writing</a>
-        <a href="{main}/lab/">Lab</a>
-        <a href="{main}/portfolio/">Portfolio</a>
-        <a href="{main}/about/">About</a>
-        <a href="{main}/contact/">Contact</a>
-      </nav>
-    </div>
-  </header>
+CHROME = chrome('method', depth=1)
 
-  <nav class="corpus-nav" aria-label="Corpus navigation">
-    <div class="corpus-nav__inner">
-      <a href="{base}/#countries">Countries</a>
-      <a href="{base}/#regions">Regions</a>
-      <a href="{base}/#topics">Topics</a>
-      <a href="{base}/finance/">Finance</a>
-      <a href="{base}/catalogue/">Catalogue</a>
-      <a href="{base}/method/" class="active">Method</a>
-    </div>
-  </nav>""".format(base=SITE_BASE, main=MAIN_SITE)
-
-FOOT = """  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
-      <div class="site-footer__links">
-        <a href="{main_site}/">data-landscapers.io</a>
-        <a href="{base}/method/">Method</a>
-      </div>
-    </div>
-  </footer>""".format(year=date.today().year, main_site=MAIN_SITE, base=SITE_BASE)
+FOOT = foot(depth=1)
 
 PAGE = """<!DOCTYPE html>
 <html lang="en">

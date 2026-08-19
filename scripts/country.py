@@ -61,6 +61,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
+from chrome_lib import chrome, foot  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -380,46 +381,9 @@ def report_rows(rows: list[dict], iso: str) -> str:
 
 # ── chrome (site header/footer — matches scripts/home.py exactly) ────
 
-CHROME = """  <header class="site-header">
-    <div class="site-header__inner">
-      <a href="{main_site}/" class="site-logo">
-        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
-        <span class="site-logo__text">Data Landscapers
-          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
-        </span>
-      </a>
-      <nav class="site-nav" aria-label="Main navigation">
-        <a href="{base}/" class="active">Corpus</a>
-        <a href="{main_site}/writing/">Writing</a>
-        <a href="{main_site}/lab/">Lab</a>
-        <a href="{main_site}/portfolio/">Portfolio</a>
-        <a href="{main_site}/about/">About</a>
-        <a href="{main_site}/contact/">Contact</a>
-        <a href="{main_site}/search/">Search</a>
-      </nav>
-    </div>
-  </header>
+CHROME = chrome("countries", depth=2)
 
-  <nav class="corpus-nav" aria-label="Corpus navigation">
-    <div class="corpus-nav__inner">
-      <a href="{base}/#countries" class="active">Countries</a>
-      <a href="{base}/#regions">Regions</a>
-      <a href="{base}/#topics">Topics</a>
-      <a href="{base}/finance/">Finance</a>
-      <a href="{base}/catalogue/">Catalogue</a>
-      <a href="{base}/method/">Method</a>
-    </div>
-  </nav>"""
-
-FOOT = """  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
-      <div class="site-footer__links">
-        <a href="{main_site}/">data-landscapers.io</a>
-        <a href="{base}/method/">Method</a>
-      </div>
-    </div>
-  </footer>"""
+FOOT = foot(depth=2)
 
 
 COUNTRY = """<!DOCTYPE html>
@@ -612,8 +576,7 @@ def build(iso: str) -> list[Path]:
     common = dict(
         base=SITE_BASE, main_site=MAIN_SITE, iso=iso, name=name,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
-        chrome=CHROME.format(base=SITE_BASE, main_site=MAIN_SITE),
-        foot=FOOT.format(base=SITE_BASE, main_site=MAIN_SITE, year=built[:4]),
+        chrome=CHROME, foot=FOOT,
         built=built, fin_n=len(fin),
     )
 

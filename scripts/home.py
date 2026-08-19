@@ -39,6 +39,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
+from chrome_lib import chrome  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -334,37 +335,7 @@ TEMPLATE = """<!DOCTYPE html>
 <body>
 <div class="site-wrap">
 
-  <header class="site-header">
-    <div class="site-header__inner">
-      <a href="{main_site}/" class="site-logo">
-        <img src="assets/logo.png" alt="Data Landscapers" class="site-logo__img">
-        <span class="site-logo__text">Data Landscapers
-          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
-        </span>
-      </a>
-      <nav class="site-nav" aria-label="Main navigation">
-        <a href="{base}/" class="active">Corpus</a>
-        <a href="{main_site}/writing/">Writing</a>
-        <a href="{main_site}/lab/">Lab</a>
-        <a href="{main_site}/portfolio/">Portfolio</a>
-        <a href="{main_site}/about/">About</a>
-        <a href="{main_site}/contact/">Contact</a>
-        <a href="{main_site}/search/">Search</a>
-      </nav>
-    </div>
-  </header>
-
-  <nav class="corpus-nav" aria-label="Corpus navigation">
-    <div class="corpus-nav__inner">
-      <a href="{base}/#bulletin">Bulletin</a>
-      <a href="{base}/#countries">Countries</a>
-      <a href="{base}/#regions">Regions</a>
-      <a href="{base}/#topics">Topics</a>
-      <a href="{base}/finance/">Finance</a>
-      <a href="{base}/catalogue/">Catalogue</a>
-      <a href="{base}/method/">Method</a>
-    </div>
-  </nav>
+{chrome}
 
   <div class="stat-bar">
     <div class="stat-bar__inner">
@@ -472,6 +443,7 @@ def build() -> Path:
         docs_year=f"{s['by_year'].get(this_year, 0):,}",
         docs_month=f"{s['by_month'].get(this_month, 0):,}",
         bulletin=bulletin_section(),
+        chrome=chrome(None, depth=0, bulletin=True),
         hero=copy_inline("home", "hero"),
         countries_caveat=copy_inline("home", "countries-caveat"),
         countries=country_boxes(by_place), countries_intro=copy_inline("home", "countries-intro"),

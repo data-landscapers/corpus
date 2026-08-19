@@ -37,6 +37,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy  # noqa: E402
+from chrome_lib import chrome, foot  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -115,32 +116,9 @@ def load_finance(sdir: Path) -> dict:
 
 
 # --- site chrome (Finance active). Kept in step with scripts/catalogue.py. -----
-CHROME = """  <header class="site-header">
-    <div class="site-header__inner">
-      <a href="{main}/" class="site-logo"><img src="../assets/logo.png" alt="Data Landscapers" class="site-logo__img"></a>
-      <nav class="site-nav" aria-label="Main navigation"><a href="{base}/" class="active">Corpus</a></nav>
-    </div>
-  </header>
-  <nav class="corpus-nav" aria-label="Corpus navigation">
-    <div class="corpus-nav__inner">
-      <a href="{base}/#countries">Countries</a>
-      <a href="{base}/#regions">Regions</a>
-      <a href="{base}/#topics">Topics</a>
-      <a href="{base}/finance/" class="active">Finance</a>
-      <a href="{base}/catalogue/">Catalogue</a>
-      <a href="{base}/method/">Method</a>
-    </div>
-  </nav>""".format(base=SITE_BASE, main=MAIN_SITE)
+CHROME = chrome('finance', depth=1)
 
-FOOT = """  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
-      <div class="site-footer__links">
-        <a href="{main_site}/">data-landscapers.io</a>
-        <a href="{base}/method/">Method</a>
-      </div>
-    </div>
-  </footer>""".format(year=date.today().year, main_site=MAIN_SITE, base=SITE_BASE)
+FOOT = foot(depth=1)
 
 
 PAGE = """<!DOCTYPE html>
@@ -168,6 +146,8 @@ PAGE = """<!DOCTYPE html>
     <div class="country-head">
       <h1>Finance</h1>
     </div>
+
+{page_intro}
 
     <h2 class="section-heading" id="non-state">Non-state finance</h2>
     <div class="country-head__meta">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
@@ -247,6 +227,7 @@ def render(agg: dict, names: dict, csv_name: str) -> str:
     return PAGE.format(
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
         csv_name=csv_name, labels=labels, metadata=METADATA_CSV,
+        page_intro=indent(copy("finance", "page-intro")),
         non_state_intro=indent(copy("finance", "non-state-intro")),
         table_note=indent(copy("finance", "non-state-table-note")),
         budgets_intro=indent(copy("finance", "budgets-intro")),

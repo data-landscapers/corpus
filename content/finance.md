@@ -6,6 +6,12 @@ The first block is what a reader meets before 1,257 rows of commitments, and it 
 
 Draft wording. This is the part to rewrite.
 
+## page-intro
+
+Who is paying for Africa's digital transformation, and on what terms. This page holds what the base can say about that: every commitment from a financier other than the state, and — when there is something to show — what governments are committing from their own budgets.
+
+The two are not comparable quantities and are not presented as one. External finance is announced, and announcements are public; domestic spending is budgeted, and budget documents are neither uniform nor easy to read against each other. Putting them in the same table would imply a like-for-like the sources cannot support.
+
 ## non-state-intro
 
 Money committed to Africa's digital sector by financiers other than the state: development finance institutions, foundations, vendors, operators and private investors. One row per commitment, each tagged to a single recipient country, so the figures sum without double-counting.
