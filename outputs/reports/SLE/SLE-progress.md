@@ -3,18 +3,18 @@ title: Sierra Leone — progress report, 2025-08-01 to 2026-08-19
 compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 place: SLE
-ledger_rows: 75
+ledger_rows: 76
 not_held: 11
-record: c90653834279
+record: b123583bed37
 ---
 
 # Sierra Leone: progress report, 2025-08-01 to 2026-08-19
 
 *Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 75 systems and instruments on this place's ledger, 35 changed position between 2025-08-01 and 2026-08-19, 15 did not, 14 carry no stated baseline, and 11 are ***Not held*** at both ends.*
+*Of 76 systems and instruments on this place's ledger, 36 changed position between 2025-08-01 and 2026-08-19, 15 did not, 14 carry no stated baseline, and 11 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 69 sources for this place in the window — 13 in the earlier half (2025-10 to 2026-02), 56 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 70 sources for this place in the window — 13 in the earlier half (2025-10 to 2026-02), 57 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -58,6 +58,7 @@ Over the twelve months to 9 August 2026 Sierra Leone added physical and institut
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | NaTCA consumer education campaign on online fraud | Did not exist | [Advisory campaign running; no rule-making, SIM-swap control, operator obligation or complaint remedy announced alongside it (2026-07)](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/) | Advanced |
+| Operator scam-alert reporting tool | Did not exist | [A mobile operator's reporting channel for suspected fraud against its mobile-money service, reached on a *505# USSD short code, an online form or a 111 call, and presented as customer protection alongside the wallet's transfer, bill-payment, savings and credit services](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/) | Advanced |
 | Regulator response to the 2026 cybersecurity incidents | Did not exist | [Coordinated response announced with no attribution, no named affected service, no incident count, no start date and no severity assessment (2026-07)](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/) | Advanced |
 | Cyber Security and Crime Act 2021 | In force (2025-07) | [In force and unamended; no prosecution under it is reported in the base (2026-07)](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/) | No change |
 | National Cyber Security Coordination Centre (NC3) | ***Baseline not held*** | [Operating and named in the government's fraud response; no founding instrument, mandate or budget held (2026-08)](https://mocti.gov.sl/mocti-and-partners-train-civil-servants-on-cybersecurity-artificial-intelligence-and-emerging-technologies/) | ***Baseline not held*** |

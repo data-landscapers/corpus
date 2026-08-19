@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-19
 place: SEN
 ledger_rows: 107
 not_held: 13
-record: 73fa91a9efaa
+record: 0e536aa06cbf
 ---
 
 # Senegal: progress report, 2025-08-01 to 2026-08-19
@@ -14,7 +14,7 @@ record: 73fa91a9efaa
 
 *Of 107 systems and instruments on this place's ledger, 58 changed position between 2025-08-01 and 2026-08-19, 18 did not, 18 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 167 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-01), 140 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 168 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-01), 141 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -164,7 +164,7 @@ The fiscal stamp shows both ends of the same move: the digital stamp went from n
 
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
-| Critical-infrastructure protection legal framework | None held | [A bill on the protection of critical information infrastructure and digital security was presented to the National Assembly’s intercommission on 2026-08-13 and examined by its committees, proposing a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk, alongside local hosting of public data, service continuity and personal-data protection; it sits under the state’s technology-deal agenda. No adoption date, gazette reference or text is published](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) | Advanced |
+| Critical-infrastructure protection legal framework | None held | [A bill on the protection of critical information infrastructure and digital security was presented to the National Assembly's intercommission on 2026-08-13 and examined by its committees. On the ministry's account it grades obligations by risk — ordinary networks and systems on standard requirements, critical infrastructure on enhanced ones covering monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — and would establish a National Cybersecurity Authority, a national computer emergency response team, sectoral teams and cybersecurity operations services. The ministry also states an industrial objective: accredited service providers, domestic firms and skilled employment created by the compliance requirement itself. It sits under the state's technology-deal agenda. No adoption date, gazette reference or text is published](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/) | Advanced |
 | Décret n. 2026-807 on classified defence procurement | Did not exist | [In force; contracts and partnerships concerning critical information infrastructure are an enumerated ground for defence classification, gatekept by a presidency-chaired commission, with silence after fifteen days counting as refusal](https://www.vie-publique.sn/docs/edd007aa-28af-47e6-abd1-db8714394ba3/JO-7904-du-29-avril-2026.pdf) | Advanced |
 | Startup Act and labelling process | The implementing decree adopted; labelling not yet running | [The labelling process launched](https://lesoleil.sn/actualites/economie/un-an-apres-son-lancement-le-new-deal-technologique-commence-a-germer/) | Advanced |
 | Bill on a media and social-network regulator | A draft unveiled, entering the legislative process | [Unchanged in held material](https://techreviewafrica.com/news/1958/senegal-introduces-draft-law-to-establish-a-new-media-regulatory-authority) | No change, no source since 2025-01-24 |

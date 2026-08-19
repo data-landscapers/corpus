@@ -2,14 +2,14 @@
 title: Sierra Leone — digital transformation and data governance status report
 compiled: 2026-08-19
 place: SLE
-ledger_rows: 68
+ledger_rows: 69
 not_held: 11
-record: b0cb366541ec
+record: 8b31e7974583
 ---
 
 # Sierra Leone: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (68 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (69 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -67,6 +67,7 @@ Connectivity is the constraint the state names itself: [about US$400m invested a
 | Cyber Security and Crime Act 2021 | [Implemented](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/) | Six offences mapped onto the mobile-money scam in a published legal analysis, 23 July 2026 |
 | NaTCA consumer education campaign on online fraud | [Implemented](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/) | Campaign set out by the Director-General, 28 July 2026 |
 | National Cyber Security Coordination Centre (NC3) | [Implemented](https://mocti.gov.sl/mocti-and-partners-train-civil-servants-on-cybersecurity-artificial-intelligence-and-emerging-technologies/) | Named as a delivery partner in the senior civil service cyber and AI training, March 2026 |
+| Operator scam-alert reporting tool | [Implemented](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/) | Launched 2026-08-18 |
 | Regulator response to the 2026 cybersecurity incidents | [In development](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/) | NaTCA public notice confirming ongoing incidents, 30 July 2026 |
 
 <!-- narrative: infrastructure -->

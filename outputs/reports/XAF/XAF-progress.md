@@ -3,18 +3,18 @@ title: Africa — progress report, 2025-08-01 to 2026-08-19
 compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 place: XAF
-ledger_rows: 74
+ledger_rows: 76
 not_held: 3
-record: 05b846d9b856
+record: 5cb6a401396f
 ---
 
 # Africa: progress report, 2025-08-01 to 2026-08-19
 
 *Compiled 2026-08-19 from the Data Landscapers source base. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 74 bodies, instruments and systems on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-19, 10 did not, 27 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 76 bodies, instruments and systems on this place's ledger, 36 changed position between 2025-08-01 and 2026-08-19, 10 did not, 27 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 527 sources for this place in the window — 66 in the earlier half (2025-08 to 2026-01), 461 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 532 sources for this place in the window — 66 in the earlier half (2025-08 to 2026-01), 466 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -157,6 +157,7 @@ The Union's non-binding data instrument acquired a rough measure of its reach. A
 | Body, instrument or system | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Reported cybercrime losses across the continent | About US$192m reported (2024) | [About US$484m reported, more than double the 2024 figure, drawn from 36 member countries, with artificial intelligence involved in 55% of surveyed 2025 cybercrime cases and deepfake incidents up sevenfold between the second and fourth quarters of 2024; against that, only 8% of intelligence analysts are recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools, and a single Ugandan deepfake investment scam is put at over US$2m of losses](https://www.linfodrome.com/international/124117-cybermenace-en-afrique-l-ia-impliquee-dans-plus-d-un-crime-sur-deux-interpol) | Regressed |
+| Vendor-measured attack volume across the continent | None published | [African organisations averaged 3,237 attacks a week in July 2026 against a global average of 2,336, behind Latin America at 3,561 and Asia-Pacific at 3,316; Angola was highest of the African markets broken out at 5,714, then Nigeria at 4,975, Kenya at 2,915 and South Africa at 2,195. Ransomware victims were up 87% year on year and the continent posted the world's highest phishing rate at 1 in 106 emails](https://techtrends.africa/ransomware-attacks-double-year-over-year/) | Advanced |
 
 ### Data Exchange
 
@@ -197,6 +198,8 @@ PAPSS moved most. The Bank of Central African States [acceded on 2026-07-11](htt
 Cross-border data exchange advanced twice over. Smart Africa [took SADX into a technical mission at Kigali](https://techreviewafrica.com/news/5165/) with Rwanda, Benin and Ghana in April 2026, on trust chains, interface contracts and incident response. The AfCFTA Secretariat's ADAPT, a system of the same purpose, [was launched five days after SADX was announced](https://data-landscapers.com/2026/05/28/building-same-road-twice/) in November 2025, on Data Landscapers' account. Neither has a live exchange on the record.
 
 The one continental system that entered service is Africa CDC's [Central Data Repository](https://africacdc.org/news-item/africa-cdc-establishes-central-data-repository-to-strengthen-public-health-surveillance/), launched on 2026-01-28, a federated store of national surveillance, laboratory and programme data in which member states retain ownership of their data. A second, smaller one arrived in August: a university research network [launched an open-source analyser comparing identity and data-protection laws across more than 50 African countries](https://www.africa.engineering.cmu.edu/news/2026/08/11-demystifying-african-id.html), built as a retrieval-augmented chatbot and stated as intended to help states harmonise their frameworks. No usage figure, governance arrangement or maintenance commitment accompanies it.
+
+What those systems run against was measured twice this window by parties with an interest in the answer. Alongside the reported-loss figures collected from member countries, a security vendor [put African organisations at 3,237 attacks a week in July against a global average of 2,336, with ransomware victims up 87% year on year and the continent's phishing rate the world's highest at 1 in 106 emails](https://techtrends.africa/ransomware-attacks-double-year-over-year/) — Angola highest of the markets it broke out at 5,714, then Nigeria, Kenya and South Africa. It is one vendor's telemetry from its own installed base, on an undisclosed sample and denominator, and it is a different series from the loss figures, not a check on them.
 
 The layer's own use figures were restated rather than measured afresh: an industry association's data, cited on 2026-08-12, [puts 416 million Africans on mobile internet in 2025 generating US$240bn of economic value, or 7.8% of continental GDP](https://www.wearetech.africa/fr/fils/actualites/tech/empreinte-numerique-ce-que-nos-usages-en-ligne-revelent-de-nous). The value is a modelled figure of the association's own, reaching the base through a secondary account.
 <!-- /narrative -->
@@ -273,6 +276,7 @@ The Korean channel widened at the same time. The continental development bank [c
 
 | Body, instrument or system | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
+| Foundation call for AI in family planning | Did not exist | [A private foundation opened a call for proposals using artificial intelligence to widen access to digital contraception information across sub-Saharan Africa, offering up to US$500,000 a project, with applications closing on 25 August 2026](https://www.wearetech.africa/fr/fils/breves/breves-une/la-fondation-gates-offre-jusqu-a-500-000-pour-l-utilisation-de-l-ia-dans-le-planning-familial) | Advanced |
 | Hewlett Foundation grant to BudgIT (general operating support) | Did not exist | [US$1,000,000 committed (US$500,000 disbursed) as general operating support to BudgIT's budget-transparency and civic-tech work](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-06832-GRA) | Advanced |
 | Hewlett Foundation grant to BudgIT (learning systems and communications) | Did not exist | [US$50,000 committed and fully disbursed to strengthen BudgIT's learning systems and strategic communications](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-07008-GRA) | Advanced |
 | Hewlett Foundation grant to Cenfri (digital transformation programme) | Did not exist | [US$300,000 committed (US$150,000 disbursed) to renew Cenfri's work on digital transformation and its link to evidence-informed policymaking across Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-06784-GRA) | Advanced |
@@ -302,6 +306,8 @@ What raised money in August raised it on markets rather than from pledges. A con
 Private money moved on narrower objects. A private-capital fund [put US$12m into a provider of application-to-person messaging operating across 35 African countries through 15 operator partnerships](https://www.africaprivateequitynews.com/p/bluepeak-private-capital-fund-ii) — one-time passwords, transaction alerts and delivery updates, which is to say the rails a great deal of the continent's payment estate actually runs on. Philanthropic and corporate money went to language: [26 projects covering more than 50 African languages, dialects and sign languages across 47 countries were selected on 14 August, each awardee eligible for up to US$250,000 in cash and US$400,000 in compute credits](https://iafrica.com/lingua-africa-funds-26-projects-covering-50-african-languages-tied-to-health-farming-and-justice-use-cases/), against health, agriculture and justice use cases. No single total is published for it, so the programme can only be bounded from its per-award ceiling.
 
 The accelerator layer published a claim rather than a commitment: a technology company said startups from its African programmes [had raised more than US$1bn cumulatively since 2017, at a survival rate it puts above 90%](https://techeconomy.ng/google-backed-startups-hit-1bn-funding-milestone-with-90-survival-rate). It is the company's own figure, with no cohort list, no definition of survival and no source for the failure rate it is set against.
+
+One call opened at the end of the window: a private foundation [offered up to US$500,000 a project for artificial intelligence widening access to digital contraception information across sub-Saharan Africa, closing on 25 August](https://www.wearetech.africa/fr/fils/breves/breves-une/la-fondation-gates-offre-jusqu-a-500-000-pour-l-utilisation-de-l-ia-dans-le-planning-familial). No envelope total, grant count or decision date accompanies it, so the ceiling is the only figure the call can be bounded by.
 
 The Union's own finances bound what it can carry: members fund [about 22 to 25 per cent of its budget](https://www.theafricareport.com/419860/afdb-says-africa-must-fund-its-own-growth-as-aid-model-frays/) a decade after the 2016 Kigali Decision, and its institutional systems are built with World Bank money — a tender of 2026-07-27 for wireless infrastructure at its headquarters [runs under the BIASHARA 2063 project](https://au.int/en/bid/supply-and-installation-wireless-infrastructure-solution-african-union-commission-headquarters), whose envelope and results framework are not held. Against that, the AfCFTA Secretariat [puts the requirement for digital trade at more than 700 data centres](https://isds.bilaterals.org/africa-s-digital-trade-push) against about 220 on the continent, on its own estimate.
 <!-- /narrative -->
