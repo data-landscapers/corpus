@@ -6,7 +6,12 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Status build
+- [ ] **Status build**
+	Return to running country inits at the end of the week if tokens still available
+- [ ] **OSINT Finance controlled vocabs**
+	Status, Beneficiary type and Instrument all need controlled vocabularies and a back swing.
+- [ ] **OSINT finance descriptions**
+	Backswing to remove wikilinks - and rule to stop this happening.
 
 
 ## Next
@@ -14,6 +19,8 @@ kanban-plugin: board
 - [ ] Check pdf and csv dates
 - [ ] Catalogue output on site
 - [ ] Methodology for site
+- [ ] **All Finance page**
+	Home menu should go to own page with space for my text at the top.
 
 
 ## Processing
