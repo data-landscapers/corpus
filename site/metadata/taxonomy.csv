@@ -1,0 +1,39 @@
+﻿Sort order,Key,Level 1,Level 2
+1,gov.policy,Governance,Strategies plans and policies
+2,gov.legislate,Governance,Legislation and regulation
+3,gov.protect,Governance,Data protection
+4,gov.regional,Governance,Regional collaboration
+5,gov.standards,Governance,Standards
+6,gov.discourse,Governance,Public debate and participation in policymaking
+7,finance.budget,Finance,Domestic budget appropriations and expenditure
+8,finance.mou,Finance,MoUs and other agreements
+9,finance.new,Finance,New investments
+10,infra.connect,ICT Infrastructure,Connectivity
+11,infra.store,ICT Infrastructure,Data Storage
+12,infra.energy,ICT Infrastructure,Energy
+13,infra.capacity,ICT Infrastructure,Technical Capacity
+14,infra.cybersec,ICT Infrastructure,Cybersecurity
+15,dpi.exchange,DPI,Data Exchange
+16,dpi.id,DPI,Digital Identity and CRVS
+17,dpi.pay,DPI,Digital Payments and Fintech
+18,dpi.registry,DPI,Registries
+19,dpi.mis,DPI,Sectoral management information systems
+20,dpi.govtech,DPI,Other GovTech and e-Gov
+21,digital.localgov,Digitalisation,Digitalisation of sub-national government
+22,digital.rural,Digitalisation,Rural digital data capture
+23,tech.ai,Technology,AI
+24,tech.industry,Technology,ICT Industry
+25,tech.innovate,Technology,Innovation ecosystem
+26,capacity.literacy,Capacity,Literacy
+27,capacity.training,Capacity,Training and skills
+28,capacity.research,Capacity,Research institutions
+29,include.access,Inclusion,Access to services
+30,include.divides,Inclusion,Digital divides
+31,data.statistics,Data,National statistics
+32,data.open,Data,Open data
+33,data.satellite,Data,Use of satellite data
+34,geopol.usa,Geopolitics,US / hyperscaler activities
+35,geopol.china,Geopolitics,China activities
+36,geopol.eu,Geopolitics,EU activities
+37,geopol.gulf,Geopolitics,Gulf/UAE activities
+38,geopol.india,Geopolitics,India activities
