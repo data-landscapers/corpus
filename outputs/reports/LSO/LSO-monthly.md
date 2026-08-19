@@ -1,23 +1,23 @@
 ---
 title: Lesotho — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: LSO
-ledger_rows: 18
+ledger_rows: 19
 not_held: 2
-record: ab43958738e4
+record: 8fb28db5948f
 ---
 
 # Lesotho: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
 Two things were approved and four institutions were stood up. Project Kobong was [approved and launched at a ceremony hosted by the US Embassy on 31 July 2026](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/), and on 29 July MICSTI and the Lesotho Communications Authority [launched an interim national CSIRT and the inaugural National Cybersecurity Forum](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/), alongside a first Chief Information Security Officer across government and a Security Operations Centre being stood up.
 
-On the payments side, [Tsetela](https://lestimes.com/?p=91054) opened wallet-based investment on 22 July, and Econet Telecom Lesotho and UNDP [signed a memorandum on 28 July](https://lestimes.com/?p=91121) that names a National AI Academy. Drafting of a National Data Value Creation Blueprint [opened at a consultative workshop on 14–15 July](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/).
+On the payments side, [Tsetela](https://lestimes.com/?p=91054) opened wallet-based investment on 22 July, and Econet Telecom Lesotho and UNDP [signed a memorandum on 28 July](https://lestimes.com/?p=91121) that names a National AI Academy. Drafting of a National Data Value Creation Blueprint [opened at a consultative workshop on 14–15 July](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/), and in the window's closing week a [six-ministry workshop in Maseru began drafting a national data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB) with UN and World Bank support.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -26,6 +26,8 @@ On the payments side, [Tsetela](https://lestimes.com/?p=91054) opened wallet-bas
 
 <!-- narrative: infrastructure--infra-store -->
 The Kobong Project was approved and launched on 31 July 2026 at a ceremony hosted by the US Embassy in Maseru, attended by the ministers of energy and mining, of information and communications, and of environment and forestry. [Convalt Energy's chief executive stated capital investment of about US$6.2 billion](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/); the government figure for the project was restated as M100 billion against the M98 billion [announced with the binding agreement of 4 June](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/), with the dollar figure unchanged. The US Chargé d'Affaires described the investment as trade over aid. Construction remains targeted for 2029 and the agreement remains conditional on feasibility, financing, permitting and definitive agreements.
+
+Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025.
 <!-- /narrative -->
 ### Cybersecurity
 

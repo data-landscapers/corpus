@@ -1,16 +1,16 @@
 ---
 title: Djibouti — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: DJI
-ledger_rows: 17
+ledger_rows: 18
 not_held: 10
-record: fbe3ee15bd21
+record: 47e7eee01998
 ---
 
 # Djibouti: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -18,6 +18,8 @@ record: fbe3ee15bd21
 The month's largest item is a memorandum. On 19 July 2026 Djibouti and the Chinese LinkWise Group [signed a protocole d'accord stated at US$1.35bn for a 100 MW AI compute centre, up to 500 MW of renewable generation and an AI special economic zone](https://www.lanation.dj/un-partenariat-strategique-pour-faire-de-djibouti-un-pole-regional-de-linnovation/); four days later the signing minister [set out its terms on the record](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/), including 1,000 hectares of land, guaranteed seawater abstraction for cooling, a policy-stability clause and a tax-exemption period.
 
 Two accounts of the state's own records followed in early August: one [describes 126 years of the Journal officiel published online](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/), the other [police body cameras in routine use](https://www.lanation.dj/la-bodycam-un-bouclier-de-verite-au-service-des-policiers-et-des-citoyens/) with no published instrument governing the footage.
+
+The month closed on the policy side of the same subject: the [national AI strategy is to be launched at a first national forum on 2-3 September](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/), running to 2032 on eight axes, alongside a readiness assessment that scores the country 24.5 out of 100.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -94,6 +96,10 @@ The account of the archive programme published on 3 August also [establishes tha
 On 17 July an upgraded AI weather early-warning system was [handed over at the World AI Conference in Shanghai](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia). Version 2.0 adds observation and autonomous alerting through smart terminals combining satellite, ground data and forecast models, and sharpens forecast resolution to 3 km from 9 km. The first system was supplied by the China Meteorological Administration in July 2025 and entered service in December 2025.
 
 The LinkWise interview of 23 July also [named a cross-border data corridor linking Shanghai to Djibouti among the arrangement's success indicators, alongside full Djiboutian jurisdiction over data natively generated on the territory](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/), with chips specified as NVIDIA H and B series. The memorandum text is not held; the terms are the minister's account.
+
+The national AI strategy that has been in preparation since January acquired a launch date and a shape. It is [to be launched officially at Djibouti's first national AI forum on 2-3 September at the Palais du Peuple](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/), carried by the digital economy ministry and the Secretariat General of the Government with UNESCO and UN ESCWA support, and runs to 2032 on eight axes: ethical AI governance, data and digital infrastructure, education and human capital, economy and employment, social inclusion and gender, strategic sectors, responsible technological infrastructure, and international cooperation. The ministry [convened cross-ministerial focal points on 15 August](https://www.techreviewafrica.com/news/6777/djibouti-intensifies-preparations-for-national-artificial-intelligence-forum) to coordinate it.
+
+The forum will also present the national readiness assessment behind the strategy, which puts Djibouti at [24.5 out of 100 on AI readiness against an ICT development index of 61.6](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/) — the gap the strategy is written against, and one the account attributes to the submarine cables landing in Djibouti and the data centres built around them. Neither the assessment report nor the strategy text is held.
 <!-- /narrative -->
 ### Innovation ecosystem
 

@@ -1,16 +1,16 @@
 ---
 title: Equatorial Guinea — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: GNQ
-ledger_rows: 23
+ledger_rows: 25
 not_held: 6
-record: 1c4a120f598b
+record: 97c71f3fe613
 ---
 
 # Equatorial Guinea: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -43,12 +43,17 @@ Ley 7/2024 of 23 December 2024 creates ANCIC, the National Cybersecurity and Cri
 
 ## Digital public infrastructure
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+The national interoperability framework the World Bank named as absent in 2024 is still absent, and August put a cost on that. At the National Development Agency's directorship handover on 7 August, its outgoing Inspector General [named limited data-sharing by line ministries as the agency's main obstacle](https://www.guineaecuatorialpress.com/noticias/milagrosa_obono_angue_preside_el_acto_oficial_de_entrega_de_despacho_de_la_agencia_nacional_de_desarrollo) to monitoring delivery against the National Sustainable Development Strategy. The agency is the body meant to see across government, and it is describing itself as unable to.
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The Comité Nacional de la Cuenta Única del Tesoro, chaired by the prime minister, [approved a work programme and institutional roadmap](https://www.guineaecuatorialpress.com/noticias/el_gobierno_impulsa_la_implementacion_de_la_cuenta_unica_del_tesoro) at the Presidency on 5 August 2026. The general census of all state bank accounts is complete; the new financial-management model will be built on AMS/X and SINTAG, both already used by the BEAC, interconnected with the Treasury's public-finance systems; and implementation runs in five phases with entry into production in the first quarter of 2027. No cost, implementing agency or supplier is stated.
 
-A GITGE study of the ministries, [reported on 2 July](https://ecofinge.com/un-estudio-de-gitge-revela-una-amplia-brecha-en-la-transformacion-digital-de-los-ministerios-en-guinea-ecuatorial/), put interoperability at about 15%, big data at about 21% and data analysis at about 10%.
+A GITGE study of the ministries, [reported on 2 July](https://ecofinge.com/un-estudio-de-gitge-revela-una-amplia-brecha-en-la-transformacion-digital-de-los-ministerios-en-guinea-ecuatorial/), put interoperability at about 15%, big data at about 21% and data analysis at about 10%. Against that measure, the [Public Administration Institute's launch of its first institutional website on 10 August](https://realequatorialguinea.com/sociedad/inap-sigue-con-su-transformacion-digital-con-el-lanzamiento-de-su-web-para-acercar-sus-servicios-a-la-ciudadania/) — carrying its training offer, calls for applications and publications — is a small step and a fair measure of the starting point.
 <!-- /narrative -->
 ### National statistics
 
@@ -61,7 +66,7 @@ INEGE opened a three-day validation workshop on 27 July at the Ministry of Finan
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The 2024 social media and computer crime law is [in force with its provisions reported in rollout from July, including a bar on social-media access for under-fourteens without parental authorisation](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/); the full text is not held. Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time, with copyright provisions aligned to the Berne Convention and the Bangui Agreement](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published.
+The 2024 social media and computer crime law is [in force with its provisions reported in rollout from July, including a bar on social-media access for under-fourteens without parental authorisation](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/); the full text is not held. Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published. The Chamber of Deputies' own account of the sitting shows it was not presented alone: [a separate Copyright and Related Rights bill went to the chamber the same day](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing Equatorial Guinea's 1997 Berne Convention accession and its 2015 Bangui Agreement obligations under OAPI, so the copyright provisions are a companion instrument rather than part of the audiovisual bill.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -99,6 +104,8 @@ On 7 August 2026 Óscar Ondo Ngomo left the director-generalship of GITGE, which
 Salvador Nguema Funtam took over at GITGE with a new deputy, the outcome of the July selection process.
 
 The consultancy AVANTE brought public institutions, banks and technology firms to the Hotel Anda China in Malabo on 22 July with the backing of the national development agency ANDGE. Panellists included the ministry's director-general for artificial intelligence, GITGE's technical director and BANGE's deputy head of digital and electronic banking.
+
+The base's first record of a national e-commerce platform arrived on 14 August, when the economy ministry and [SelBa24 met to organise the country's first e-commerce and digital-payments seminar-workshop](https://www.guineaecuatorialpress.com/noticias/ministerio_de_economia_y_selba24_impulsan_el_primer_seminario_sobre_comercio_electronico_y_pagos_digitales_en_guinea_ecuatorial), to run simultaneously in Malabo and Bata between September and October and to train SMEs, traders and farmers to open and run free online stores on the platform. Nothing about SelBa24 itself — its ownership, merchant count, transaction volume or launch date — is stated.
 <!-- /narrative -->
 
 ## Inclusion and capacity

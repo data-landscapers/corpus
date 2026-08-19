@@ -1,16 +1,16 @@
 ---
 title: Central African Republic — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: CAF
-ledger_rows: 13
+ledger_rows: 17
 not_held: 19
-record: 34f7baa611da
+record: 4f56c6d6b4b5
 ---
 
 # Central African Republic: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -19,7 +19,9 @@ A month-long mobile outage at a northern town took out voice, data and mobile mo
 
 The government declared the September 2025 memorandum on the incumbent operator's privatisation [in its operational phase on 16 July, with US$150m announced for network modernisation, a data centre and connectivity](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd). Definitive agreements, a steering committee and a schedule are unfinalised, and the figure appears in no appropriation.
 
-The statistics institute [put enumerator teams into the field on 20 July for a harmonised household living-conditions survey](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques) — about 7,000 households, entirely by tablet, over six months.
+August brought two of the record's rarer things: an independent assessment and a working statistical apparatus. The World Bank's public finance review [put digitising the tax administration at up to two points of GDP](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale), and the statistics institute both [advanced the first digital census through its third data-cleaning phase](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement) and [published the aide-mémoire rebasing the national accounts to 2019](https://www.icasees.org/index.php/actualites/399-icasees-publication-de-laide-memoire-sur-les-travaux-de-rebasage-du-pib-base-2019-selon-le-scn-2008), on top of the harmonised household survey it [put into the field on 20 July](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques).
+
+The regulator meanwhile [took its satellite-access rule into the field](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), estimating about 3,000 Starlink users against 200 registered.
 <!-- /narrative -->
 
 ## Infrastructure
@@ -58,6 +60,10 @@ Modernisation works opened at the central treasury accounting agency on 27 July 
 
 <!-- narrative: dpi--data-statistics -->
 The statistics institute [deployed enumerator teams nationwide on 20 July, opening six months of collection across about 7,000 households in three two-month waves, entirely by tablet](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques), with a public commitment to statistical secrecy and aggregates only. The field period ends around January 2027; no results date is stated and no prior harmonised survey is held.
+
+Two further statistical operations surfaced in August, both financed by the World Bank. The [third data-cleaning phase of the fourth population and housing census was presented on 6 August](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement), a step toward definitive results from the country's first digital census; cleaning has been running since May 2026, under the HISWACA-SOP2 project with UNFPA as technical partner. No enumeration total or publication date is stated.
+
+The institute also [released the aide-mémoire on rebasing the national accounts to 2019 under SCN 2008](https://www.icasees.org/index.php/actualites/399-icasees-publication-de-laide-memoire-sur-les-travaux-de-rebasage-du-pib-base-2019-selon-le-scn-2008), moving off a 2005 base built on SCN 1993 and drawing on the 2021 agriculture and household living-conditions surveys to widen coverage of agriculture, household consumption, self-build, imputed rent and informal activity. The peer review it records was held in February 2023; what is new is its publication, and the record states no rebased GDP level.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -67,10 +73,24 @@ The statistics institute [deployed enumerator teams nationwide on 20 July, openi
 <!-- narrative: governance--gov-legislate -->
 The cybersecurity and cybercrime law is unchanged in text and was [named by a commentator in July as the instrument now used against online content](https://corbeaunews-centrafrique.org/des-reseaux-sociaux-a-lintelligence-artificielle-comment-la-vitesse-de-la-technologie-panique-le-regime-obsolete-de-bangui/). That is an opinion column rather than a record of prosecutions, and the statute's own text is still not held.
 <!-- /narrative -->
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The World Bank published a public finance review of the Central African Republic on 2 July 2026, and it puts digitisation at the centre of what it proposes. Against domestic revenue of about [FCFA 187bn, or 10.1% of GDP, in a 2025 budget of about FCFA 385bn](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale), it argues for a rise to 12% in the short and medium term and 15% in the long term, and estimates that [digitising the tax administration alone could raise up to two points of GDP in the short term](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale). Electronic public procurement and a digital cadastre are named among its longer-term recommendations, against [63% of public contracts let by direct award in 2023 and 11% of domestically financed investment executed that year](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale).
+
+It is the first independent assessment the base holds of the ground the government's own public-finances digitalisation plan 2025-2027 covers. That plan's costed operational annex, due in April 2025, is still unpublished.
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 The regional central bank and the payments body [launched an interoperable QR-code standard at Douala on 29 July under an April 2026 regulation](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), binding across the six member states, routed and settled through the regional switch and secured to card-industry standards. [The country's share of regional payment volume was 0.43% in 2024 — the smallest but one, against the largest member state's 65.10% — and no country-specific adoption step is on file](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac). The regional report holds no value figure or account count for the country, so what the standard reaches here cannot be sized.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+Enforcement of the satellite-access rule moved from communiqué to the street. On 12 August the regulator [began a control operation across Bangui — Damala, Benz-Vi and Miskine, and the Don Bosco and Marabéna roundabouts — to identify internet-access points absent from its own registers](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), on the digital economy minister's instruction. The ministry's estimate is [about 3,000 Starlink users in the country against 200 registered with the regulator](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), and the operation is to extend progressively to provincial cities.
+
+Two of the operators visited said they had not been told registration was required and undertook to regularise. No register total is published, so the ratio stands on the ministry's own account.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

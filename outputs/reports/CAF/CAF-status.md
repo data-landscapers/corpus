@@ -1,15 +1,15 @@
 ---
 title: Central African Republic — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: CAF
-ledger_rows: 70
+ledger_rows: 72
 not_held: 14
-record: 71be657c1c38
+record: 1db264497acf
 ---
 
 # Central African Republic: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/CAF/ledger.csv` (70 systems and instruments, 14 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/CAF/ledger.csv` (72 systems and instruments, 14 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -139,7 +139,9 @@ Nothing is built for hosting: the [national Tier III data centre remains unbuilt
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Fourth general population and housing census (RGPH-4) | [In development](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement) | Third data-cleaning phase completed 2026-08-06, ahead of definitive results |
 | Harmonised household living-conditions survey | [Implemented, field collection running](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques) | Enumerator teams deployed nationwide, opening six months of collection |
+| National accounts rebasing to 2019 under SCN 2008 | [Implemented](https://www.icasees.org/index.php/actualites/399-icasees-publication-de-laide-memoire-sur-les-travaux-de-rebasage-du-pib-base-2019-selon-le-scn-2008) | Aide-memoire on the rebasing published by ICASEES 2026-08-07 |
 
 ### Use of satellite data
 
@@ -171,7 +173,7 @@ Below that the layer is missing: no interoperability or data-exchange framework 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | National development plan 2024-2028 | [Implemented](https://mepci-rca.org/2026/02/11/la-digitalisation-des-services-publics-et-la-gouvernance-numerique-du-pnd-2024-2028/) | The governing framework since 2024, with an investors' round table in September 2025 |
-| Public finances digitalisation plan 2025-2027 | [In development](https://oubanguimedias.com/2025/06/20/centrafrique-presentation-du-plan-e-finances-publiques-de-la-rca-de-2025-2027/) | Presented by the finance minister 2025-06-18; a costed operational plan due in April 2025 not published |
+| Public finances digitalisation plan 2025-2027 | [In development](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale) | World Bank public finance review of 2 July 2026 puts tax digitisation at the centre of its revenue roadmap |
 | Universal service fund | [In development](https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026) | Effective implementation named among the regulator's 2026 priorities at its draft-budget session |
 
 ### Regional collaboration

@@ -1,15 +1,15 @@
 ---
 title: Lesotho — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: LSO
-ledger_rows: 60
+ledger_rows: 61
 not_held: 0
-record: 5f21b51641f3
+record: 618ae99c40fa
 ---
 
 # Lesotho: status report
 
-*Compiled 2026-08-14 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (60 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (61 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -42,6 +42,7 @@ An interim national CSIRT [began operating on 29 July 2026](https://www.gov.ls/i
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| National data-centre implementation roadmap | [In development](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB) | Drafting workshop held 17-21 August 2026 in Maseru |
 | Project Kobong hydropower and AI data centre | [Planned](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) | Approved and launched at a ceremony hosted by the US Embassy, 2026-07-31 |
 
 ### Technical Capacity
