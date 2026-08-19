@@ -6,25 +6,25 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Status build
 
 
 ## Next
 
 - [ ] Check pdf and csv dates
-- [ ] Cloudflare and download log
-- [ ] Status build
-- [ ] Finance output on site
 - [ ] Catalogue output on site
 - [ ] Methodology for site
 
 
 ## Processing
 
+- [ ] Finance output on site
 
 
 ## Complete
 
 - [ ] Markdown > PDF
+- [ ] Cloudflare and download log
 - [ ] Topics into Build
 - [ ] Markdown > HTML
 - [ ] BUILD - compile date in YAML
