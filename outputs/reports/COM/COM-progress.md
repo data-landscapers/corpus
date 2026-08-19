@@ -1,20 +1,20 @@
 ---
-title: Comoros — progress report, 2025-08-01 to 2026-08-17
-compiled: 2026-08-17
-period: 2025-08-01 to 2026-08-17
+title: Comoros — progress report, 2025-08-01 to 2026-08-19
+compiled: 2026-08-19
+period: 2025-08-01 to 2026-08-19
 place: COM
 ledger_rows: 117
 not_held: 35
-record: 447c26500413
+record: ab5cc24e8162
 ---
 
-# Comoros: progress report, 2025-08-01 to 2026-08-17
+# Comoros: progress report, 2025-08-01 to 2026-08-19
 
-*Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 117 systems and instruments on this place's ledger, 32 changed position between 2025-08-01 and 2026-08-17, 30 did not, 20 carry no stated baseline, and 35 are ***Not held*** at both ends.*
+*Of 117 systems and instruments on this place's ledger, 32 changed position between 2025-08-01 and 2026-08-19, 30 did not, 20 carry no stated baseline, and 35 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 58 sources for this place in the window — 29 in the earlier half (2025-08 to 2026-02), 29 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 59 sources for this place in the window — 29 in the earlier half (2025-08 to 2026-02), 30 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -28,7 +28,7 @@ Payments are the year's real movement and everything else is preparation. The [n
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Entry fibre tariff | KMF 32,500 a month for the basic fibre offer at 800 GB | [KMF 30,000 a month at 850 GB with unlimited fixed-line calls, plus embedded subscriber-identity migration at KMF 5,000 and a new one at KMF 10,000](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html) | Advanced |
 | Comores Telecom fifth-generation and fixed-wireless service | Live at the Hamramba pilot site at a claimed rate of up to 1 Gbit/s | [Unchanged - no second site, and no coverage or subscriber figure published since launch](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/t%C3%A9l%C3%A9communications-comores-telecom-lance-%C3%A0-son-tour-la-5g-.html) | No change |
@@ -39,7 +39,7 @@ Payments are the year's real movement and everything else is preparation. The [n
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Data centre for the public administration | In service, certified to the third tier with a stated hosting capacity of 44.4 terabits, co-managed by the digital agency and the state cable company | [Unchanged - no capacity utilisation, redundancy arrangement, tenant list or operating-cost figure published in the fourteen months since](https://www.telecompaper.com/news/comoros-completes-construction-of-public-administration-data-centre--1536505) | No change |
 | Primary and backup data centres for the finance ministry | No position held | [Tendered on French development financing, covering structured local and wireless networks, firewalls, intrusion prevention, security event management and two network operations centres; no award, contractor or delivery date is recorded](https://finances.gouv.km/appel-doffre/projet-dappui-aux-systemes-dinformation-de-la-gouvernance-financiere-pagf-si/) | ***Baseline not held*** |
@@ -52,14 +52,14 @@ Little moved, and what did moved on price rather than reach. The entry fibre off
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Government interoperability and data-exchange platform | Provided for in the continental bank project approved 2024-10-01, with nothing built | [Procurement opened, and still nothing built, no supplier, no architecture and no target date on record](https://www.biometricupdate.com/202410/comoros-to-implement-digital-govt-program-with-10m-afdb-grant) | Advanced, procurement only |
 | Study on interfacing the tax system with mobile banking | No position held at the window's opening | [Procured under a French-financed public finance programme; no award, no study and no interface is on record](https://finances.gouv.km/wp-content/uploads/2025/10/AMI-Etude-pour-interfacage-du-paiement-via-Mobil-Banking.docx) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Agence Nationale de l'Etat Civil | Provided for by the law of 27 July 2023, with no implementing decree drafted on record | [Draft decree in island consultation; the agency is not recorded as created](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/vers-un-d%C3%A9cret-d%E2%80%99application-pour-l%E2%80%99agence-nationale-de-l%E2%80%99%C3%A9tat-civil-.html) | Advanced |
 | Biometric passport and national identity card production concession | A build-operate-transfer contract running since 2007, with all Comorian biometric data stored in Belgium and one production machine, at Moroni | [A new supplier, data domiciled in the Comoros, production decentralised to the two other islands, and a polycarbonate laser-engraved data page with a compliant chip](https://alwatwan.net/societe/impression-des-documents-biom%C3%A9triques-i-genkey-remplacera-semlex-%C3%A0-partir-du-mois-d%E2%80%99avril-prochain.html) | Advanced |
@@ -69,7 +69,7 @@ Little moved, and what did moved on price rather than reach. The entry fibre off
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National interoperable payment switch | Awarded to a supplier on 2025-02-16 and not live | [Live from 2025-08-23, connecting commercial banks, microfinance institutions and mobile-money operators](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-deploys-digital-payment-switch) | Advanced |
 | Accession to the Pan-African Payment and Settlement System | Implementation commenced, with commercial banks to begin integrating | [Unchanged - no bank integration, transaction volume or go-live is recorded in the base since 2024-08-23](https://www.afreximbank.com/central-bank-of-comoros-commencement-of-activities-for-the-implementation-of-papss-in-comoros) | No change |
@@ -82,7 +82,7 @@ Little moved, and what did moved on price rather than reach. The entry fibre off
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Civil-registry modernisation programme | A strategic plan for civil-registry modernisation adopted in 2024, with the preliminary study not yet launched | [Study validated, the programme having been launched on the main island on 2025-10-02 and on the third island on 2025-10-10, with French embassy financing and technical support from the children's fund](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/vers-un-%C3%A9tat-civil-num%C3%A9rique-moh%C3%A9li-ouvre-la-voie-%C3%A0-la-modernisation-nationale-.html) | Advanced |
 | National digital agricultural register | No position held at the window's opening | [Named as an objective, with no build, timetable, financier or budget line on record](https://anaden.org/realisations) | ***Baseline not held*** |
@@ -90,14 +90,14 @@ Little moved, and what did moved on price rather than reach. The entry fibre off
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | School records and digital textbook platforms | One platform in pilot phase for online marks, automatic report cards and a unique pupil identifier, and the other a national digital textbook library for pre-primary and primary | [Unchanged - no school count, pupil count, extension milestone or identifier-issuance figure published in the fourteen months since, and the extension is still under study](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/digitalisation-de-l%E2%80%99enseignement-les-comores-passent-%C3%A0-l%E2%80%99%C3%A8re-du-num%C3%A9rique-avec-e-msomo-et-e-shiyo-.html) | No change |
 | Digital data capture in national health campaigns | No position held at the window's opening | [Used once, for a measles and rubella campaign targeting more than 101,000 children across the three islands, with real-time dashboards and maps replacing paper forms; no institutionalisation, no routine system and no second campaign is on record](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-goes-digital-in-measles-rubella-drive-to-vaccinate-101-000-children) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | E-government modernisation project | An Islamic Development Bank commitment of US$6,900,000 recorded 2025-09-23, with nothing procured | [Notice issued, on a loan of 5,000,000 Islamic dinars, about EUR 5,960,000; one component covering a national data centre, an incubator and an orientation centre on the university campus is financed entirely by the African Development Bank and another covering a portal, essential services, an administration payment system and an interoperability platform entirely by the Islamic bank; no domestic appropriation attaches to any component](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais) | Advanced, procurement only |
 | Teleprocedures fiscales | No position held at the window's opening | [The statute is in force under the finance law promulgated 2026-01-16 and the implementing texts are validated, with progressive activation pending and no activation date on file](https://dgi.gouv.km/fr/actualite.php?article_id=93) | Advanced |
@@ -106,14 +106,14 @@ Little moved, and what did moved on price rather than reach. The entry fibre off
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Enquete Agricole Annuelle | No position held at the window's opening | [Sensitisation campaign run across the archipelago's governors, prefects, mayors and village chiefs, and a five-day World Bank-funded (STATCAP) training-of-trainers workshop held for national instructors on survey methodology, questionnaire design and electronic data-collection tools; follows the second General Agricultural Census (RGA-2), results published April 2026, with no first survey round or results date on record](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html) | ***Baseline not held*** |
 | Fifth population and housing census | No position held at the window's opening | [Launched as the first fully digital and geospatial census, with a pilot phase from September 2026 and general enumeration in September 2027; about 60 per cent of the financing still to be mobilised is stated as already secured](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/lancement-du-5%C3%A8me-recensement-g%C3%A9n%C3%A9ral-de-la-population-.html) | ***Baseline not held*** |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Census cartography capability at the statistics institute | No position held at the window's opening | [Cartography staff trained on desktop and online mapping, field survey and dashboard tools, with digital census cartography under way](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-2027-l%E2%80%99inseed-amorce-son-virage-au-num%C3%A9rique-.html) | ***Baseline not held*** |
 
@@ -125,7 +125,7 @@ Payments carried the year. The [switch went live in August 2025](https://www.wea
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Code numerique | Not adopted, the 2024 target already missed | [Not adopted](https://anaden.org/actualites/anaden-information-les-avancees-sur-le-code-numerique) | Stalled |
 | Cybercrime provisions of the penal code | In force, covering technology-specific offences, online intellectual-property infringement, illicit conduct on electronic communications networks and online service-provider liability | [Unchanged; no prosecution, caseload or enforcement figure is on file at either end](https://anaden.org/actualites/anaden-information-les-avancees-sur-le-code-numerique) | No change |
@@ -137,7 +137,7 @@ Payments carried the year. The [switch went live in August 2025](https://www.wea
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Digital agency board of directors | No board on record, the agency operating without constituted governance organs | [Board seated, rules of procedure adopted, chair, vice-chair and rapporteur elected and the 2026 action plan examined](https://alwatwan.net/societe/gouvernance-du-num%C3%A9rique-i-l%E2%80%99anaden-installe-son-conseil-d%E2%80%99administration-et-d%C3%A9voile-ses-priorit%C3%A9s.html) | Advanced |
 | Observatoire national du numerique | Designed in the 2018 strategy as one of three bodies and never created | [Still does not exist, with its establishment now to be paid for by an external loan and no domestic appropriation](https://anaden.org/uploads/media/5e3969272d9f8/strat-comores-numerique-v2-3-compresse.pdf) | No change |
@@ -145,13 +145,13 @@ Payments carried the year. The [switch went live in August 2025](https://www.wea
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Programme for African Developing Island Economies | Did not exist | [Launched with a 2026-2031 roadmap covering the seven African island states, digital transformation one of six pillars and digital public infrastructure, artificial intelligence and automation named as its accelerators; no Comorian component, financing figure or national milestone is stated](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Access catalogue of the state cable company for 2025-2026 | No access-catalogue approval on file | [The catalogue approved, setting the wholesale prices at which a state-owned company sells the country's international connectivity](https://anrtic.km/media/media/avis_decisions/IHJnhQCoMBHNgK4z8b3XJtnOout2856oxqVkrc0B.pdf) | Advanced, baseline not held |
 | Regulator mobile quality-of-service audit | One edition published, measuring both operators against twenty-three quality indicators over three months, with a quarterly bulletin requested by the minister and none produced | [Still one edition; no 2025 or 2026 audit and no quarterly bulletin is on file](https://lagazettedescomores.com/société/présentation-de-l’audit-2024-de-l’anrtic-l’anrtic-évalue-la-qualité-des-services-mobiles-.html) | Stalled |
@@ -160,20 +160,20 @@ Payments carried the year. The [switch went live in August 2025](https://www.wea
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National personal data protection authority | Provided for in law since 2021-06-29 and not constituted | [Still does not exist, its creation financed entirely by external lenders with no domestic appropriation](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law) | No change, stand-up procurement issued |
 | Protection of Personal Data Law | In force, aligned to the European regulation, extraterritorial, with seventy-two-hour breach notification, a mandatory data-protection officer and full data-subject rights, and the national authority not constituted | [Unchanged, the authority's non-existence restated in the procurement notice of 2026-03-12](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law) | No change |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Code de l'information et de la communication, as amended | The 2021 statute in force unamended, at 292 articles | [Amended - twenty-five articles amended and eighteen deleted, with the government's proposed exception to source protection struck on the floor, so source protection is now unqualified](https://alwatwan.net/economie/assembl%C3%A9e-de-l%E2%80%99union-i-le-projet-de-loi-de-finances-2026-adopt%C3%A9-%C3%A0-l%E2%80%99unanimit%C3%A9.html) | Advanced |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | European electronic administration project | Did not exist | [Launched, its stated scope covering a national portfolio of public services, a single online window, dematerialised procedures, inter-ministerial interoperability and strengthening of the data-protection legal framework](https://alwatwan.net/societe/modernisation-de-l%E2%80%99administration-publique-i-lancement-officiel-du-projet-e-administration.html) | Advanced |
 
@@ -185,7 +185,7 @@ The legislative programme did not move in twelve months. The [digital code is no
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Artificial-intelligence preparedness strand of the e-government project | No position held at the window's opening | [In procurement only - to improve cybersecurity and artificial-intelligence preparedness, with no design, budget line or contract award held](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais) | Advanced, baseline not held |
 | National artificial intelligence forum | Did not exist, the source calling it the first edition | [One edition held under ministry patronage with the digital agency, the regulator, the technology association and the university; no second edition, communique or follow-up instrument is held](https://alwatwan.net/societe/intelligence-artificielle-aux-comores-i-le-premier-forum-fait-jaillir-les-d%C3%A9fis-et-les-opportunit%C3%A9s-de-l%E2%80%99ia.html) | Advanced |
@@ -193,13 +193,13 @@ The legislative programme did not move in twelve months. The [digital code is no
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Digital commerce platform | Did not exist | [Live nationally across the three islands and free to professionals to 2026-05-31](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/num%C3%A9rique-komoralink,-une-nouvelle-%C3%A8re-pour-l%E2%80%99%C3%A9conomie-comorienne-.html) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Enterprise resource planning product built in the Comoros | Did not exist | [Launched, with no user, revenue or deployment figure held](https://alwatwan.net/societe/intelligence-artificielle-aux-comores-i-le-premier-forum-fait-jaillir-les-d%C3%A9fis-et-les-opportunit%C3%A9s-de-l%E2%80%99ia.html) | Advanced |
 | Technopole numerique | No record before January 2026, when the project was previewed for 2025 to 2028 | [Pilot running, costed at US$4,090,000, about KMF 1,720,000,000, over 2025 to 2028 with World Bank support, targeting 2,000 Comorians trained with 30 per cent women, five mobile science caravans covering about ninety localities a year and 500 small enterprises; twelve young people have been trained through the supplier partnership, ten of them building projects](https://alwatwan.net/societe/technopole-num%C3%A9rique-un-tremplin-pour-l%E2%80%99avenir-digital-des-jeunes-comoriens.html) | Advanced, baseline not held |
@@ -212,20 +212,20 @@ The sector went from nothing on the record to six positions, all small and all f
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Mobile science caravans | Nothing held at the window's opening; announced 2026-01-24 as five mobile caravans covering about ninety rural localities a year | [Launch under way, with no caravan count, route or start date confirmed since](https://alwatwan.net/societe/technopole-num%C3%A9rique-un-tremplin-pour-l%E2%80%99avenir-digital-des-jeunes-comoriens.html) | Advanced |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Electronic-money accounts and financial-service footprint | No figure held | [669,584 accounts opened of which 29.1 per cent active, an electronic-money float of KMF 2,700,000,000, and nine banks and financial institutions with 175 branches, twenty-six cash machines and 140 decentralised finance branches](https://www.mayottehebdo.com/actualite/economie/comores-lancement-de-nouveaux-systemes-de-paiement/) | ***Baseline not held*** |
 | National banking rate | No figure held | [39 per cent, against a projection of 70 per cent by 2030](https://www.mayottehebdo.com/actualite/economie/comores-lancement-de-nouveaux-systemes-de-paiement/) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Entry to the international artificial-intelligence olympiad | No international talent route on record | [Two pupils of a private school, selected from four shortlisted, with the delegation led by the technology association's secretary-general and funded jointly by the digital agency, its supervising ministry and the association's academy through a programme for emerging nations](https://alwatwan.net/societe/olympiade-internationale-d’ia-i-deux-lycéens-représentent-les-comores-au-kazakhstan.html) | Advanced |
 | Statistical capacity project | A project note describing US$1,500,000 over five years to close the statistical gap, with no delivery held | [A ten-day mapping and field-survey training with external expertise, ahead of the census in 2027](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-2027-l%E2%80%99inseed-amorce-son-virage-au-num%C3%A9rique-.html) | Advanced |
@@ -240,7 +240,7 @@ The inclusion figures arrived during the window and they are not encouraging. El
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Islamic bank project for the digitalisation of the economy | Nothing held | [A grant of US$400,000 and a loan of US$6,500,000, US$6,900,000 in total, with nothing disbursed as at 2026-06-24 against a planned start of 2025-09-23](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-COM1026) | Advanced |
 | China Eximbank concessional loan for network modernisation | CNY 567,000,000 at thirty-year maturity with a five-year grace period and 1 per cent interest, funding a US$81m supplier contract for fibre extension to fifty-seven sites | [Unchanged - no site count delivered, no completion status and no repayment position is held at either end](https://www.aiddata.org/data/global-chinese-development-finance-dataset-version-3) | No change |
@@ -250,14 +250,14 @@ The inclusion figures arrived during the window and they are not encouraging. El
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Card and merchant partnership with a global payment network | Nothing held | [Virtual and physical cards plus merchant solutions through the group's wallet brands across five markets including Comoros](https://techreviewafrica.com/public/news/3303/axian-group-and-mastercard-partner-to-expand-digital-financial-inclusion-across-africa) | Advanced |
 | Protocol with the agriculture chambers on agricultural digitalisation | Signed, its objectives including a national digital agricultural register and building the chambers' digital capacity | [Unchanged, with no dated progress on record](https://anaden.org/realisations) | No change |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Chambre du Numerique transfer line | KMF 73,000,000, transfer only, unchanged through the 2025 rectificative | [KMF 50,000,000, transfer only, the service code having changed with the body unchanged](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) | Regressed |
 | Digital ministry annual vote | KMF 235,315,816 appropriated for 2025 with no capital, revised to KMF 223,337,645 by the rectificative | [KMF 338,724,932 for 2026, up 51.66 per cent on the revised comparator - the third-largest proportional rise in the budget, against a ministry block growing 3.78 per cent - and including the first appropriated state capital line for the ministry in the three-year corpus, at KMF 50,000,000](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf) | Advanced |

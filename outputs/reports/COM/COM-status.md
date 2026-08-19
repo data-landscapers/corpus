@@ -1,15 +1,15 @@
 ---
 title: Comoros — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: COM
 ledger_rows: 111
 not_held: 35
-record: c245a3a7da59
+record: e29a4ac6524d
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (111 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (111 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
