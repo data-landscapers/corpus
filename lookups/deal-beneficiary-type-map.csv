@@ -1,0 +1,54 @@
+beneficiary_type,definition,source_value,review,note
+Fund,"An investment vehicle that will on-invest the money. One step removed from the ultimate recipient, which is why it is not Private Sector.",Fund,ADDED,"30 rows — an investment vehicle, one step removed from the ultimate beneficiary, and worth counting separately for exactly that reason. AFC to Africa-focused tech fund managers; FMO to TIDE Africa II."
+Fund,"An investment vehicle that will on-invest the money. One step removed from the ultimate recipient, which is why it is not Private Sector.",Infrastructure fund,ADDED,BII to the Africa50 Infrastructure Acceleration Fund.
+Individuals,"People rather than organisations — students, entrepreneurs, households.",Individuals / students,CHANGED,"the beneficiary is students, not an organisation. Startup Abuja's student aid programme, NGN 50m to individuals in higher education. `NGO` describes the financier here, not who receives."
+Multi-stakeholder,"Several types together, where no one of them is the beneficiary. A genuine consortium or partnership, not a failure to classify.","African researchers, startups, universities, nonprofits, community organisations",CHANGED,five types in one cell. Research leads but does not describe it. The Gates/Microsoft LINGUA Africa award.
+Multi-stakeholder,"Several types together, where no one of them is the beneficiary. A genuine consortium or partnership, not a failure to classify.",Multi-partner consortium (not yet selected),ADDED,
+Multi-stakeholder,"Several types together, where no one of them is the beneficiary. A genuine consortium or partnership, not a failure to classify.",Multi-stakeholder,ADDED,"25 rows, genuinely multi-party — FCDO Frontier Technologies, the Mastercard Foundation/UNHCR refugee partnership. A real category, not a failure to classify."
+Multi-stakeholder,"Several types together, where no one of them is the beneficiary. A genuine consortium or partnership, not a failure to classify.","Public sector employees, private-sector employees, women, entrepreneurs/SMEs, Ministry of Education, training companies",CHANGED,"six beneficiary types in one cell, only one of which is public sector."
+Multilateral,"A multilateral, regional or continental body — the AU, a regional economic community, an intergovernmental organisation.",Continental alliance,,
+Multilateral,"A multilateral, regional or continental body — the AU, a regional economic community, an intergovernmental organisation.",Continental body,,
+Multilateral,"A multilateral, regional or continental body — the AU, a regional economic community, an intergovernmental organisation.",Multilateral,,
+Multilateral,"A multilateral, regional or continental body — the AU, a regional economic community, an intergovernmental organisation.",Regional economic community,,
+Multilateral,"A multilateral, regional or continental body — the AU, a regional economic community, an intergovernmental organisation.",Regional intergovernmental body,,
+Multilateral,"A multilateral, regional or continental body — the AU, a regional economic community, an intergovernmental organisation.",Regional organisation,,
+NGO,"A non-governmental or civil-society organisation, including not-for-profit membership and industry associations.",Industry association,NOTE,"ICTAM, the ICT Association of Malawi — a membership body of private firms but not-for-profit. `NGO` is the better of the available fits; flagging only because the association case will recur."
+NGO,"A non-governmental or civil-society organisation, including not-for-profit membership and industry associations.",NGO/CS,,
+NGO,"A non-governmental or civil-society organisation, including not-for-profit membership and industry associations.",Non-profit civic-tech organisation,,
+NGO,"A non-governmental or civil-society organisation, including not-for-profit membership and industry associations.",Non-profit data/civil-society organisation,,
+PPP,A public-private vehicle receiving as one party. Distinct from the PPP value in the instrument vocabulary.,Public-private partnership,NOTE,"`PPP` is a structure, not a beneficiary — and it is already a value in the instrument vocabulary. Two facets, one word."
+PPP,A public-private vehicle receiving as one party. Distinct from the PPP value in the instrument vocabulary.,"Public–private (state counterparty, investor-financed)",,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",A2P messaging / digital-communications infrastructure provider,,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Company (non-bank MSME financial services),,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Fintech lender,,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Pan-African tech start-up fund,,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private,,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private / startups,,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private company,,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private company (AI business-intelligence startup),,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private company (data-centre operator),,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private company (fintech),,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private operator,,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private sector,,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private sector (bank),,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Private telecom-tower infrastructure company,,
+Private Sector,"A company, operator, startup or bank receiving on its own account.",Women-led businesses (via unnamed implementing partner),,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government,,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government (agricultural extension system),,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government (ICT equipment supply),,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government (PPP concession),,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government (privatisation mandate),,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government (spectrum licensor) / operator investment,NOTE,the spectrum case again: money flows *to* the state for a licence. Same question as the instrument list's `5G spectrum licences`.
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government (unnamed agency),,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government finance ministries and revenue authorities (six countries),,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government ministry,,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",Government programme,,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",State-owned enterprise,,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",State-owned enterprise (privatisation),,
+Public Sector,"Government at any level — a ministry, agency, programme or state-owned enterprise.",State-owned operator,,
+Research,"A university, research institute or think tank.",Non-profit / university consortium,,
+Research,"A university, research institute or think tank.",Non-profit research/policy organisation,,
+Research,"A university, research institute or think tank.",Non-profit think tank,,
+Research,"A university, research institute or think tank.",Research institution,,
+Research,"A university, research institute or think tank.",Research/academic,,
+Unknown,The source does not state who receives.,,VOCAB,"the instrument and status lists both have one; this list did not, and it has the most blanks of the three at 75 rows."
