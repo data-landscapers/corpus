@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-19
 place: MOZ
 ledger_rows: 62
 not_held: 19
-record: 69f4e12a4f91
+record: d66a27ec35f3
 ---
 
 # Mozambique: monthly update, July 2026

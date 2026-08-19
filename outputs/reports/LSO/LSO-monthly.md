@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-19
 place: LSO
 ledger_rows: 20
 not_held: 2
-record: 02821b23ddf3
+record: 9bf5da501aa1
 ---
 
 # Lesotho: monthly update, July 2026

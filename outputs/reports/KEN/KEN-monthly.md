@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-19
 place: KEN
 ledger_rows: 112
 not_held: 6
-record: 63c1928152b5
+record: 525e6e7c1ccf
 ---
 
 # Kenya: monthly update, July 2026

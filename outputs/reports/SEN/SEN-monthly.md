@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-19
 place: SEN
 ledger_rows: 55
 not_held: 13
-record: 7e4fb010e529
+record: e0bc4042eeed
 ---
 
 # Senegal: monthly update, July 2026

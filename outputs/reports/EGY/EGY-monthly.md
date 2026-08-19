@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-19
 place: EGY
 ledger_rows: 79
 not_held: 54
-record: fa43b5deb7ca
+record: 77f8901abad2
 ---
 
 # Egypt: monthly update, July 2026
