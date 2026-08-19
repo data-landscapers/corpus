@@ -1,16 +1,16 @@
 ---
 title: Nigeria — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: NGA
-ledger_rows: 113
+ledger_rows: 122
 not_held: 8
-record: 339f3fa83730
+record: c07aecda759a
 ---
 
 # Nigeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -79,6 +79,8 @@ A Lagos fibre operator closed the [₦4.05bn first tranche](https://businesspost
 
 <!-- narrative: dpi--dpi-exchange -->
 Nine agencies took bilateral cover under the amended identity Act inside a fortnight, among them [Solid Minerals](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/), [the Presidency](https://www.thisdaylive.com/2026/07/22/shettima-nigerias-digital-transformation-under-tinubu-unrivalled-hails-ongoing-reforms-by-nimc-management/) and [Women Affairs and the Bank of Industry](https://www.thisdaylive.com/2026/07/24/nimc-seals-strategic-partnerships-with-women-affairs-ministry-boi-to-deepen-digital-identity-financial-inclusion/); no account states a lawful basis, consent mechanism or retention rule for the sharing that follows. The [Nigeria Data Exchange now moves personal data between ministries in production](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) behind the Government Service Portal, on the same silence. Against the single-source-of-truth framing, named practitioners [describe the arrangement as federated linkage on a shared identifier](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/), with banks still reconciling by hand. The [National Single Window](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), launched in March, is contested by licensed customs agents who say clearance paperwork has multiplied rather than consolidated.
+
+A state built its own exchange for the most sensitive category of all. Lagos [set out a Smart Health Information Platform on 8 August, to connect patient records, laboratory results and biological data across facilities](https://thesun.ng/lagos-pushes-ai-health-data-to-transform-healthcare-delivery/) and to underpin an artificial-intelligence-driven health system, citing the Ebola and COVID-19 outbreaks as the case for moving off siloed facility records. No legal basis, data-controller arrangement, consent model, retention rule or relationship to the national data-protection regime is stated for it — the same silence the federal exchanges above are described in.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -97,6 +99,10 @@ The central bank then set out what it wants that infrastructure to look like. A 
 Three admission gates opened alongside it. The central bank [opened a second sandbox cohort to virtual-asset and data-enabled firms, applications running 12 to 31 August, and chairs a new Virtual Asset Council with the securities regulator and the revenue service](https://techcabal.com/2026/08/12/cbn-sandbox-for-vasps-fintechs/), against an estimated US$92.1bn transacted in cryptocurrency by Nigerians between July 2024 and June 2025; the securities regulator [admitted two further firms to its incubation programme, taking it to 12 since July](https://techcabal.com/2026/08/14/sec-expands-sandbox-to-yellow-card-blockchain/). Neither publishes a graduation route or licensing outcome. The regulated naira stablecoin [went live on a public blockchain on 12 August](https://techafricanews.com/2026/08/12/nigerias-cngn-stablecoin-goes-live-on-celo-blockchain/), with no supply, holder count or reserve attestation published.
 
 Taxation moved in the other direction. Peer-to-peer and over-the-counter traders [warned on 14 August that the 1.5% virtual-asset stamp duty and the taxes beside it could push activity into unregulated channels](https://techcabal.com/2026/08/14/nigeria-tax-rules-crypto-traders/), the rules having been signed on 31 July. Separately the Lagos State revenue service is [testing whether creator-economy platform payouts are royalties subject to 5% withholding tax, pressing two named platforms to deduct at source](https://techcabal.com/2026/08/14/nigeria-creator-economy-tax/) under the 2025 tax act — the same authority's earlier attempt to make a ride-hailing platform a collection agent being the precedent. No assessment, ruling or judgment is published in either matter.
+
+Two structural changes to the acceptance side arrived in mid-August. A Nigerian payments company [gained direct access to a global card network as a non-bank acquirer](https://businessday.ng/technology/article/teamapt-gains-direct-mastercard-network-access-in-strategic-payments-expansion/), letting it onboard licensed merchants for card acceptance without a bank sponsor; no merchant count, pricing or settlement arrangement is stated, and the base holds no central bank statement on non-bank acquiring. And the channel mix reversed: [ATM transactions rose 6.6% year on year in the first quarter of 2026 with value up 64.6% to NGN26.3tn, while point-of-sale volumes fell 19.9% to 2.92bn](https://techcabal.com/2026/08/17/nigerians-moved-19-4-billion-through-atms/), the agent-banking limits of October 2025 — single-provider terminals, a 70-metre radius rule and a NGN1.2m daily cap — constraining the agent channel as the central bank pushes bank ATM expansion. That is a policy effect rather than a preference shift, and no measure exists of what it did to access in places with no bank branch.
+
+The virtual-asset track kept admitting. Three further firms were [named as admitted to the securities regulator's incubation programme in the week to 17 August](http://www.wearetech.africa/fr/fils/breves/breves-simple/le-nigeria-integre-trois-nouvelles-entreprises-crypto-dans-son-incubateur-virtuel), and a separate account describes the state [coordinating the central bank, the securities regulator, the tax authority and the financial-intelligence agency into a regulatory consortium for virtual assets rather than restricting the sector](https://techcabal.com/2026/08/17/nigerias-plan-for-crypto-and-virtual-assets/), pairing the incubation programme and revised digital-asset capital requirements of NGN2bn for exchanges and custodians with an August virtual-asset tax framework. The counts across accounts overlap and are not reconciled.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -146,6 +152,8 @@ A [diaspora health-workforce registry is described as newly launched](https://fm
 
 <!-- narrative: dpi--digital-localgov -->
 Enugu [opened free digital storefronts, company-registration support, digital-trade training and payment enablement to 1,000 state businesses](https://itpulse.com.ng/enugu-launches-tradex-programme-to-support-1000-smes-with-digital-trade/) with Afreximbank's trade platform; cost, funder and selection method are unstated.
+
+Anambra began the second phase of its own state strategy, [expanding its OneGov platform to digitise government services and formalise small and medium enterprises](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/); the platform [logged about 14,000 visits over three weeks in July](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/) despite limited publicity. Visits are not registrations or transactions, and no service count, formalisation figure or cost is stated. A development agency separately [reaffirmed its support for the state's youth digital-skills programmes](https://von.gov.ng/undp-reaffirms-partnership-with-anambra-digital-economy/).
 <!-- /narrative -->
 ### National statistics
 
@@ -164,11 +172,15 @@ An inclusive-data initiative brought the national statistics office into a five-
 
 <!-- narrative: governance--gov-legislate -->
 On 29 July a claimant won the [first damages award](https://saharareporters.com/2026/08/01/court-slams-stanbicibtc-over-data-privacy-breach-awards-ex-customers-n15million-orders) under the Act — ₦15m, ₦500,000 costs and 10% post-judgment interest — against a bank that kept marketing after consent was withdrawn. Liability rested on three instruments at once. The court also held that personal data must be erased on termination but refused wholesale deletion where statutory banking and anti-money-laundering retention applies.
+
+What the amended identity Act actually says reached the record on 11 August, in a law firm's reading rather than a gazetted text. On that reading the [identity commission becomes the root certification authority for a national public key infrastructure and the national biometric-data repository; use of the national identification number is mandatory across passports, banking, telecommunications and land dealings, while the Act states that proof of identity is not proof of eligibility or of citizenship; and unauthorised database access carries at least NGN10m or five years for an individual and NGN20m for a body corporate](https://www.mondaq.com/nigeria/constitutional-administrative-law/1829270/the-national-identity-management-commission-establishment-act-2026-key-new-provisions). The base does not hold the Act itself, and the commission's own platform capacity for compulsory use across fourteen sectors is separately recorded as not sized for it.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 An [Artificial Intelligence and Cyber Diplomacy Unit sits inside the foreign ministry](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/), coordinating engagement on emerging technologies, established after the 2025 inaugural seminar.
+
+Two coordination bodies were constituted in August, one with a deadline that tells you what it is. The Head of Service [inaugurated an eleven-member technical working committee to coordinate the federal civil service's cabinet-approved digital transformation agenda, tasked with drafting the architecture, roadmap and governance mechanisms within one week](https://www.thisdaylive.com/2026/08/17/hos-inaugurates-technical-working-committee-on-digital-transformation-agenda/) ahead of a steering committee; no terms of reference, budget or publication commitment is stated. And a national strategy for the digital transformation of technical and vocational education was [validated at an Abuja workshop by UNESCO, the education ministry and the technical education board](https://www.thisdaylive.com/2026/08/12/unesco-fg-nbte-seek-human-centred-digital-transformation-of-nigerias-technical-vocational-education-training-system/), which named connectivity, teacher digital competency, financing and coordination as the gaps to close before implementation. Validated is not adopted, and neither text is held.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -179,6 +191,8 @@ Ministers adopted an Abuja declaration on meaningful connectivity.
 
 <!-- narrative: governance--gov-protect -->
 On 28–29 July the Federal High Court [upheld the data-protection commission's power](https://leadership.ng/court-strengthens-ndpc-oversight-of-pos-agents-banks-telcos-data-controllers/) to designate and register controllers and processors of major importance, dismissing a suit that had sought to place PoS agents outside the class; the commission immediately directed every unregistered entity to register. The judgment is not held and its delivery date is unestablished. The commission then used the power: on 13 August it [opened a forensic investigation into a federal university, a bank and a technology vendor over the alleged use of students' personal data to open bank accounts without consent](https://dailytrust.com/ndpc-investigates-varsity-bank-over-data-violations/). No finding or penalty has followed.
+
+Its other August move was institutional rather than adversarial: the commission and the securities regulator [agreed to deepen collaboration on data-protection compliance in the capital market](https://techeconomy.ng/ndpc-sec-strengthen-collaboration-on-data-protection-and-investor-privacy), the commission's head visiting the regulator in Abuja and being invited to its compliance summit. No memorandum, joint supervisory arrangement, compliance standard or enforcement commitment is stated.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -194,6 +208,8 @@ On 28–29 July the Federal High Court [upheld the data-protection commission's 
 Nothing moved on the national AI policy, the risk-based regime inside the digital-economy bill, or the surveillance estate.
 
 The activity was at the state level and abroad. Anambra State [set out a Vision 2030 push on artificial intelligence and paperless government that its own ICT agency says is constrained by weak connectivity and computing capacity](https://www.itweb.africa/article/anambras-2030-ai-push-faces-connectivity-test/RgeVDvPRkVaMKJN3), with no budget, procurement, delivery date or named system published. The federal IT agency [signed two memoranda in Toronto with Canadian firms on financial inclusion, local AI infrastructure, technology transfer and digital skills](https://www.wearetech.africa/fr/fils/actualites/tech/le-nigeria-s-engage-avec-deux-entreprises-canadiennes-pour-renforcer-l-ia-et-la-finance-numerique), and separately [pushed a National Sovereign Cloud initiative against a stated position in which over 85% of workloads run on public cloud largely hosted abroad](https://punchng.com/nigeria-seeks-local-cloud-capacity-to-cut-data-costs/). None of the three carries a value, a timetable or a delivery commitment.
+
+The month's one national artificial-intelligence programme is a vendor's. A platform company [launched an AI Academy with the communications and digital economy ministry, the national skills programme, the artificial-intelligence research centre and a research network](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/), combining a startup pitch competition, skills courses and a six-week developer bootcamp; ten startups are shortlisted to pitch at a Lagos exhibition on 3 September, with [two winners receiving US$5,000 in cash, US$2,000 in the company's own advertising credits and a trip to its summit in Istanbul](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/). No cohort size, curriculum, cost or public accounting of the sponsor's role is stated, and part of the prize is denominated in the sponsor's inventory.
 <!-- /narrative -->
 ### ICT Industry
 

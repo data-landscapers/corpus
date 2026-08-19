@@ -1,20 +1,20 @@
 ---
-title: Nigeria — progress report, 2025-08-01 to 2026-08-17
-compiled: 2026-08-17
-period: 2025-08-01 to 2026-08-17
+title: Nigeria — progress report, 2025-08-01 to 2026-08-19
+compiled: 2026-08-19
+period: 2025-08-01 to 2026-08-19
 place: NGA
-ledger_rows: 233
+ledger_rows: 242
 not_held: 8
-record: 312c3ae5788a
+record: 789f8633e9c2
 ---
 
-# Nigeria: progress report, 2025-08-01 to 2026-08-17
+# Nigeria: progress report, 2025-08-01 to 2026-08-19
 
-*Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 233 systems and instruments on this place's ledger, 139 changed position between 2025-08-01 and 2026-08-17, 54 did not, 32 carry no stated baseline, and 8 are ***Not held*** at both ends.*
+*Of 242 systems and instruments on this place's ledger, 140 changed position between 2025-08-01 and 2026-08-19, 54 did not, 40 carry no stated baseline, and 8 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 578 sources for this place in the window — 89 in the earlier half (2025-08 to 2026-01), 489 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 603 sources for this place in the window — 89 in the earlier half (2025-08 to 2026-01), 514 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -34,7 +34,7 @@ The same year produced a data-localisation directive, a virtual-assets executive
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | IFC financing for Airtel Africa network upgrades | Did not exist | [US$150m for network upgrades](https://techafricanews.com/2026/07/07/ifc-provides-150-million-to-airtel-africa-to-expand-digital-infrastructure/) | Advanced |
 | Mobile and broadband subscriber base | 50% broadband penetration (2025-11) | [157m internet subscribers (2026-05), from 154.3m (2026-04); 188m mobile subscriptions and broadband penetration 55.67% (2026-04)](https://www.vanguardngr.com/2026/06/telecom-subscriptions-rise-to-188m-as-broadband-penetration-hits-55-67/) | Advanced |
@@ -60,7 +60,7 @@ The same year produced a data-localisation directive, a virtual-assets executive
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | 1Government sovereign cloud | Did not exist | [GovDrive, GovMail, GovECMS and GovE-Sign across ministries](https://itweb.africa/article/nigerias-1gov-cloud-helps-reduce-reliance-on-foreign-digital-systems/WnpNgq21aogMVrGd) | Advanced |
 | AFRICLOUD Lagos cloud region | Did not exist | [Full compute region in a carrier-neutral Lagos data centre, the third region alongside Lisbon and Johannesburg](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/) | Advanced |
@@ -81,13 +81,13 @@ The same year produced a data-localisation directive, a virtual-assets executive
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Grid supply to the data-centre estate | ***Baseline not held*** | [The grid has never reliably exceeded 6 GW for about 230m people, roughly 41% availability](https://techmoonshot.com/2026/05/21/africas-data-center-boom/) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Cyber Resilience Framework for communications | Did not exist | [Binding on every licensed provider on a staged compliance clock ending 2027-02-23, with four-hour incident notification, a dedicated cybersecurity budget line, a Chief Information Security Officer and two-year in-country retention of call logs and traffic data](https://techafricanews.com/2026/03/05/ncc-mandates-4-hour-cyber-incident-reporting-for-telecom-operators/) | Advanced |
 | Ministerial Advisory Council on Cybersecurity | Did not exist | [Announced, with no membership or terms of reference published](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) | Advanced |
@@ -98,25 +98,25 @@ The same year produced a data-localisation directive, a virtual-assets executive
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | NCC and Rural Electrification Agency data-sharing MoU | Did not exist | [Electrification and universal-service deployment data overlaid](https://apanews.net/ncc-rea-sign-mou-to-drive-digital-infrastructure-expansion/) | Advanced |
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Cybercrimes (Amendment) Act 2024 | In force (2024) | [In force; lawyers argue it is misapplied against dissent](https://www.vanguardngr.com/2025/08/how-misuse-of-cybercrime-act-cost-nigeria-n1-1trn-in-7-yrs/) | No change |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National Telecommunications Policy rewrite | Did not exist | [First rewrite since 2000, in drafting](https://businessday.ng/technology/article/why-global-hyperscalers-are-avoiding-nigeria/) | Advanced |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | End of pre-registered SIM cards | Did not exist | [Practice ended](https://www.vanguardngr.com/2025/11/ncc-moves-to-end-pre-registered-sim-cards-tighten-telecom-regulations/) | Advanced |
 | National Cloud Computing and Technical Guidelines | Did not exist | [Signed and in force in NITDA’s framing, with implementation beginning immediately in phases and scope, obligations and thresholds unstated because no text is published](https://von.gov.ng/nigeria-unveils-sovereign-cloud-regulatory-frameworks/) | Advanced |
@@ -125,38 +125,38 @@ The same year produced a data-localisation directive, a virtual-assets executive
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | United States fibre and feasibility grants | In place (2025-01) | [US$2m toward the 90,000 km build](https://itweb.africa/article/us-nigeria-ink-2m-deal-to-expand-fibre-optic-network/rxP3jqBE4KpMA2ye) | No change |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | 21st Century and China Mobile sovereign cloud | Did not exist | [A sovereignty push riding partly on a Chinese stack](https://itweb.africa/article/china-mobile-pact-puts-nigeria-step-closer-to-data-sovereignty/KA3Ww7dzwO1qrydZ) | Advanced |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | EU-Nigeria Digital Economy Package | Did not exist | [€45m](https://techafricanews.com/2025/12/12/eu-announces-e45m-investment-to-boost-nigerias-connectivity-and-digital-services/) | Advanced |
 | Finland-Nigeria cyber and digitalisation MoU | Did not exist | [MoU signed](https://itweb.africa/article/finland-nigeria-seal-cyber-pact/KzQenvjywBOqZd2r) | Advanced |
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National Cybersecurity Centre, Bayero University Kano | Operating (2025-05) | [Operating](https://techafricanews.com/2025/05/28/nigeria-takes-bold-step-in-cybersecurity-with-new-national-centre-in-kano/) | No change |
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Rural connectivity programmes | ***Baseline not held*** | [About 3,700 towers to start deploying around October 2026 against 23% of rural communities connected (2025-10)](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/) | Advanced |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Amazon Kuiper landing permit | Did not exist | [Permit granted; no service](https://techafricanews.com/2026/01/15/ncc-grants-landing-permit-to-amazons-project-kuiper-for-satellite-operations-in-nigeria/) | Advanced |
 | Starlink Nigeria service | Second-largest ISP by subscribers | [Orders paused over congestion, later reopened](https://techcabal.com/2025/03/10/starlink-now-nigerias-second) | Regressed |
@@ -165,7 +165,7 @@ The same year produced a data-localisation directive, a virtual-assets executive
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Domestic bond financing of a fibre build | Did not exist | [₦4.05bn of a ₦20bn programme; trivial against the donor and DFI lines](https://tech.africa/dimension-data-nigeria-fibre-bond/) | Advanced |
 
@@ -177,29 +177,30 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | NIMC platform capacity for compulsory NIN use | ***Baseline not held*** | [Servers, databases and networks not sized for compulsory NIN use across 14 sectors](https://punchng.com/pros-cons-of-amended-nimc-act/) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Synthetic identity fraud | ***Baseline not held*** | [AI-generated identity fraud up 192% in Q1 2025 as document forgery fell 80%](https://www.vanguardngr.com/2025/06/identity-theft-nigeria-faces-rising-synthetic-id-threats-despite-fall-in-traditional-fraud-methods/) | ***Baseline not held*** |
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Bilateral MDA integration agreements under the NIMC Act | Did not exist | [Nine agencies took bilateral cover under the new Act](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/) | Advanced |
 | CBN-NCC telecom identity risk management feed | Did not exist | [Banks can check SIM-swap and recycled numbers; fraud fell 51% to ₦25.85bn in 2025](https://techcabal.com/2026/04/21/new-cbn-ncc-opens-telecom-data-to-banks/) | Advanced |
 | Nigeria Data Exchange | Announced (2025-08) | [In production behind the Government Service Portal; the lawful basis is not on record](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-to-launch-national-data-exchange-platform-to-boost-digital-econom) | Advanced |
 | National Single Window | In build (2025-01) | [Launched in March 2026 and contested in operation: licensed customs agents say clearance paperwork has multiplied rather than consolidated, their association calling for the customs service to take over implementation outright and objecting to electronic manifest transmission outside the customs system. No throughput, clearance-time or adoption figure is published](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/) | No change |
 | Integration of the identity register with other government databases | ***Baseline not held*** | [Described by practitioners as federated linkage on a shared identifier, not an integrated ecosystem](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/) | ***Baseline not held*** |
+| Lagos Smart Health Information Platform | Not held | [Being built by Lagos State as a single patient-data platform connecting patient records, laboratory results and biological data across facilities, to underpin an artificial-intelligence-driven health system and population health intelligence, and framed alongside a planned university of medicine and health sciences and a medical and innovation zone; the state cites the Ebola and COVID-19 outbreaks as the case for moving off siloed facility records](https://thesun.ng/lagos-pushes-ai-health-data-to-transform-healthcare-delivery/) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | ICAO Public Key Directory integration | Did not exist | [Passport cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) | Advanced |
 | National Identification Number and the foundational identity register | About 120m registrations (2025-08) | [136m against a target of 180m by 2026-12-31; about 100m still uncaptured](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/) | Advanced |
@@ -211,8 +212,9 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
+| ATM and point-of-sale transaction mix | Point-of-sale volumes growing and ATM use in long decline | [ATM transactions up 6.6% year on year in the first quarter of 2026 with value up 64.6% to NGN26.3tn, about US$19.4bn, while point-of-sale transaction volumes fell 19.9% to 2.92bn - the agent-banking limits imposed in October 2025, single-provider terminals, a 70-metre radius rule and a NGN1.2m daily cap, constraining the agent channel as the central bank pushes bank ATM expansion](https://techcabal.com/2026/08/17/nigerians-moved-19-4-billion-through-atms/) | Regressed |
 | cNGN naira stablecoin | In issue (2025-02) | [Live on a public blockchain from 2026-08-12, the regulated naira stablecoin backed one-to-one, opening lending, payments, remittance and on-chain foreign-exchange use cases; no supply, holder count or reserve attestation is published](https://techafricanews.com/2025/02/10/busha-lists-cngn-expanding-nigerias-digital-economy) | Advanced |
 | Consumer trust in digital payments | 123,918 fraud incidents (2021) | [Fraud losses ₦25.85bn in 2025, down 51% year on year, on 67,518 incidents (2025), with fraud reporting down 34% in Q4 2025](https://techcabal.com/2026/07/29/why-trust-has-become-nigeria-digital-payments-challenge/) | Advanced, on a falling reporting rate |
 | eNaira retail central bank digital currency | Retail CBDC in issue | [Being redesigned toward a wholesale model](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) | Regressed |
@@ -227,12 +229,13 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 | Bank-owned fintech subsidiaries as payments infrastructure | ***Baseline not held*** | [Tier-one banks hold payments infrastructure inside the group rather than at arm's length](https://techtrends.africa/the-rise-of-african-corporate-venture-capital/) | ***Baseline not held*** |
 | Central bank payments system circular | Baseline not held | [Imposes market-structure caps of 25% on card issuing and 15% on acquiring, mandatory localisation of payment data by 1 January 2027, and disclosure of ultimate beneficial owners, on banks, fintechs and payment service providers; an estimated US$850m a year is spent on offshore data hosting and about 90% of Nigerian payment data is currently held abroad](https://businessday.ng/news/legal-business/article/the-central-bank-of-nigerias-new-payments-system-circular-what-banks-fintechs-and-investors-need-to-know/) | ***Baseline not held*** |
 | Central bank regulatory sandbox | Baseline not held | [A second cohort opened to virtual-asset and data-enabled financial technology firms, applications running 12 to 31 August 2026, with the central bank chairing a new Virtual Asset Council alongside the securities regulator and the revenue service; the stated context is an estimated US$92.1bn transacted in cryptocurrency by Nigerians between July 2024 and June 2025](https://techcabal.com/2026/08/12/cbn-sandbox-for-vasps-fintechs/) | ***Baseline not held*** |
-| Securities regulator accelerated regulatory incubation programme | Baseline not held | [Two further virtual-asset firms admitted, taking the programme to 12 firms since July; a separate account records a third firm admitted on 2026-08-13. No graduation route, licensing outcome or supervisory condition is published](https://techcabal.com/2026/08/14/sec-expands-sandbox-to-yellow-card-blockchain/) | ***Baseline not held*** |
+| Non-bank acquirer access to a global card network | Not held | [A Nigerian payments company gained direct access to a global card network as a non-bank acquirer, letting it onboard licensed merchants for card acceptance across online, in-store and mobile channels without a bank sponsor](https://businessday.ng/technology/article/teamapt-gains-direct-mastercard-network-access-in-strategic-payments-expansion/) | ***Baseline not held*** |
+| Securities regulator accelerated regulatory incubation programme | Baseline not held | [Three further virtual-asset firms named as admitted in the week to 2026-08-17 - a payment solutions firm, an access provider and a card issuer - letting them test digital-asset services under supervision, on top of the twelve admitted since July. No graduation route, licensing outcome or supervisory condition is published](http://www.wearetech.africa/fr/fils/breves/breves-simple/le-nigeria-integre-trois-nouvelles-entreprises-crypto-dans-son-incubateur-virtuel) | ***Baseline not held*** |
 | Withholding tax on creator-economy platform payouts | Baseline not held | [The Lagos State Internal Revenue Service is testing whether creator-economy platform payouts are royalties subject to 5% withholding tax and pressing two named platforms to deduct at source under the Nigeria Tax Act 2025; it follows the same authority’s earlier attempt to make a ride-hailing platform a value-added-tax collection agent. No assessment, ruling or judgment is published](https://techcabal.com/2026/08/14/nigeria-creator-economy-tax/) | ***Baseline not held*** |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Electronic civil registration and vital statistics | Platform in rollout (2025-11) | [Nationwide; birth registration about 57% and death under 20%](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/) | Advanced |
 | National alphanumeric digital postcode system | An intention with no date | [A launch date of 2026-10-01 for a unique address per building, with integration to existing government identity databases to follow](https://www.vanguardngr.com/2026/08/fg-to-rollout-90000km-fibre-optic-network-tijani/) | Advanced |
@@ -243,7 +246,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Customs Electronic Cargo Tracking System | Did not exist | [GPS tracking replacing physical escort at a second command](https://www.thisdaylive.com/2026/07/29/ncs-deploys-electronic-cargo-tracking-system-at-ptml/) | Advanced |
 | IPPIS human-resource modules | Did not exist | [Biometric onboarding, payroll and workforce analytics across 508+ agencies](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/) | Advanced |
@@ -253,7 +256,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Ekiti State digital policy and regulatory reform project | Did not exist | [UK FCDO project to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework for the state; value and duration not stated](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/) | Advanced |
 | Government Service Portal | In build (2025) | [Piloting on a four-year KOICA project reported at US$13m](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) | Advanced |
@@ -264,7 +267,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | 7.5% VAT on electronic banking fees | Did not exist | [7.5% VAT on electronic banking fees](https://www.vanguardngr.com/2026/01/fg-directs-banks-fintechs-to-collect-7-5-vat-on-electronic-banking-fees/) | Advanced |
 | CBN payments data-localisation directive | Did not exist | [Binding from 2027-01-01; no power sequencing published](https://complyan.com/nigerias-cbn-data-localisation-directive-what-banks-and-fintechs-must-do-before-2027/) | Advanced |
@@ -279,7 +282,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Payments System Vision 2028 | Did not exist | [A three-year horizon from 2025 baselines of ₦1.2 quadrillion in electronic transactions, carrying 2028 targets of 95% financial inclusion, 5m QR merchant outlets and a 70% cut in fraud losses](https://www.cbn.gov.ng/Out/2026/CCD/Nigeria%20Payments%20System%20Vision%202028.pdf) | Advanced |
 | National DPI framework and the 2027 services target | In development (2025-03) | [Still in development against a 2027 target](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-unveils-plan-for-unified-digital-services-by-2027) | No change |
@@ -287,7 +290,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | AfCFTA ADAPT cross-border DPI pilot | Pilot named (2025-11) | [Nigeria, Kenya and Morocco the first pilots](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) | Advanced |
 | ECOWAS biometric identity card | Did not exist | [In issue](https://thewhistler.ng/nigeria-unveils-ecowas-id-card-to-boost-regional-travel-security/) | Advanced |
@@ -296,7 +299,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Automated AML baseline standards | Did not exist | [In force; the test shifts to governance, integration and explainability](https://techafricanews.com/2026/03/12/cbn-mandates-automated-aml-systems-across-nigerian-financial-institutions/) | Advanced |
 | Crypto trade reporting tied to TIN and NIN | Did not exist | [Trades reported against TIN and NIN, aligned to the OECD framework](https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/) | Advanced |
@@ -307,7 +310,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Ward-level enrolment drive | Did not exist | [Free enrolment in every ward, targeting under-enrolled groups](https://www.biometricupdate.com/202602/nigeria-launches-nationwide-drive-to-boost-digital-id-coverage-improve-inclusion) | Advanced |
 | Diaspora Non-Resident BVN | Live (2025-05) | [Remote diaspora onboarding](https://www.vanguardngr.com/2025/05/cbn-launches-diaspora-bvn-platform/) | No change |
@@ -316,7 +319,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | GovGuide public-services chatbot | Did not exist | [On Meta's Llama in English, Hausa, Igbo and Yoruba](https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/) | Advanced |
 | Mandated AI and machine-learning fraud detection | Did not exist | [AI and machine-learning fraud detection made mandatory](https://techafricanews.com/2026/06/09/nigerias-central-bank-launches-ai-driven-system-to-detect-financial-fraud-in-real-time/) | Advanced |
@@ -324,35 +327,36 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Telco mobile money | ***Baseline not held*** | [Revenue up about 132% in H1 2026, with one airtime-lending product suspended](https://techcabal.com/2026/07/31/mtns-airtime-lending-pause-drags-fintech-revenue/) | ***Baseline not held*** |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | cBrain F2 case-management platform | Did not exist | [Deployed on an assurance that sovereign data stays in Nigeria](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-taps-denmark-s-cbrain-to-accelerate-e-government-reforms) | Advanced |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Diaspora health-workforce registry | Did not exist | [A register standing on no stated legal basis](https://fmino.gov.ng/fg-commends-nigerian-health-professionals-in-diaspora-for-strengthening-healthcare-delivery/) | Advanced |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Enugu smart green schools | 260 schools announced (2024-02) | [Still 260 schools announced, at about ₦1.3-1.5bn each](https://www.thecable.ng/investigation-in-enugu-smart-schools-get-all-attention-but-concerns-remain-over-work-quality-part-ii/) | Stalled |
 | Enugu TradEX Programme | Did not exist | [Free digital storefronts, CAC registration support, digital-trade training and payment enablement open to 1,000 Enugu SMEs; cost, funder and selection method unstated](https://itpulse.com.ng/enugu-launches-tradex-programme-to-support-1000-smes-with-digital-trade/) | Advanced |
 | Benue civil-service digital skilling | Running (2025-03) | [40,000 civil servants](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-benue-state-commits-to-training-40-000-civil-servants-in-digital-skills) | No change |
 | Kaduna compensation and valuation land system | Live (2025-02) | [Live](https://www.thisdaylive.com/2025/02/04/kaduna-unveils-software-to-improve-land-administration) | No change |
 | Lagos digital house-numbering and addressing | Piloting (2025-06) | [Piloting](https://www.wearetech.africa/en/fils-uk/news/nigeria-lagos-unveils-digital-house-numbering-system-to-power-smart-city-vision) | No change |
+| Anambra OneGov state services platform | Not held | [In its second phase, expanding to digitise state government services and formalise small and medium enterprises; the platform logged about 14,000 visits over three weeks in July despite limited publicity](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/) | ***Baseline not held*** |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Make Inclusive Data the Norm initiative | Did not exist | [Widened from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Advanced |
 | Telecoms contribution to GDP | 8.93% of GDP (Q2 2024) | [9.19% of GDP (Q1 2026) for telecommunications and information services, within information and communication at 11.31% of GDP (Q1 2026)](https://www.thisdaylive.com/2026/07/30/telecoms-contribution-to-gdp-grows-from-7-67-to-9-19-in-q1-2026/) | Advanced |
@@ -360,7 +364,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | World Bank ID4D financing | Running (2024-12) | [US$430m; target raised from 148m to 180m](https://documents.worldbank.org/curated/en/099122424123515222/pdf/P167183-7da88040-b609-473f-bc3c-7667ef8f9f33) | No change |
 | App-based retail securities trading | ***Baseline not held*** | [₦2.86tn of retail equity trading January-May 2026, up 138.76%, at 36.22% of activity](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/) | ***Baseline not held*** |
@@ -381,7 +385,7 @@ The one regression is the retail central bank digital currency, Africa's first, 
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | FCCPC competition probe of platforms and AI firms | Did not exist | [Competition law used against uncompensated AI training on Nigerian journalism](https://techmoonshot.com/2026/07/10/why-nigeria-is-investigating-meta-google-x-and-ai-firms/) | Advanced |
 | Framework for Compensation of Consumers | Did not exist | [Automatic airtime credit in listed local government areas, with the qualifying thresholds unpublished](https://www.ncc.gov.ng/frequently-asked-questions/framework-compensation-consumers) | Advanced |
@@ -391,17 +395,20 @@ The one regression is the retail central bank digital currency, Africa's first, 
 | Social-media local-presence bill | Before the assembly (2025-03) | [Through a Senate committee public hearing and into public consultation, with organised support and organised opposition on the record](https://itweb.africa/article/senate-progresses-social-media-legislation/JBwErvn3ogJ76Db2) | Advanced |
 | FCCPC consumer-protection penalty against Meta | Imposed, under appeal (2025) | [Under appeal](https://www.zawya.com/en/economy/africa/nigeria-tests-data-sovereignty-tfwnm5he) | No change |
 | Nigeria Tax Act 2025 and Tax Administration Act 2025 | In force (2025) | [The statutory base for the virtual-asset tax circular](https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/) | No change |
+| NIMC Act 2026 substantive provisions | Not held | [On a law firm's reading of the Act: the identity commission becomes the root certification authority for a national public key infrastructure and the national biometric-data repository; use of the national identification number is made mandatory across passports, banking, telecommunications and land dealings, while the Act states that proof of identity is not proof of eligibility or of citizenship; and unauthorised database access carries penalties of at least NGN10m or five years for an individual and NGN20m for a body corporate](https://www.mondaq.com/nigeria/constitutional-administrative-law/1829270/the-national-identity-management-commission-establishment-act-2026-key-new-provisions) | ***Baseline not held*** |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Draft National Policy on Data and Cloud | In draft (2021) | [Five years a draft, while the localisation question was settled by circular instead](https://techcabal.com/2026/06/17/why-nigerias-ai-future-depends-on-breaking-government-data-silos/) | No change |
 | Artificial Intelligence and Cyber Diplomacy Unit | ***Baseline not held*** | [Unit inside the Ministry of Foreign Affairs coordinating engagement on emerging technologies](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) | ***Baseline not held*** |
+| Federal civil service digital transformation committee | Not held | [An eleven-member technical working committee inaugurated by the Head of Service to coordinate the federal civil service's cabinet-approved digital transformation agenda, tasked with drafting the architecture, roadmap and governance mechanisms within one week, ahead of a steering committee](https://www.thisdaylive.com/2026/08/17/hos-inaugurates-technical-working-committee-on-digital-transformation-agenda/) | ***Baseline not held*** |
+| Strategy for the digital transformation of technical and vocational education | Not held | [Validated at an Abuja workshop by UNESCO, the federal education ministry and the technical education board, which flagged connectivity, teacher digital competency, financing and coordination as the gaps to close before implementation](https://www.thisdaylive.com/2026/08/12/unesco-fg-nbte-seek-human-centred-digital-transformation-of-nigerias-technical-vocational-education-training-system/) | ***Baseline not held*** |
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Abuja Declaration on Meaningful Connectivity | Did not exist | [Adopted with machinery to argue the position at the ITU](https://www.techwithafrica.com/2026/07/29/meaningful-connectivity-africa-atu-pushes-digital-inclusion/) | Advanced |
 | Digital Trade Regulators' Working Group | Did not exist | [Nigeria-led group harmonising market entry, licensing and regulatory cooperation; no output published](https://mediatalkafrica.com/296653/nigerias-oduwole-afcftas-mene-urge-acceleration-of-digital-services-trade-to-unlock-africas-180bn-economy/) | Advanced |
@@ -410,7 +417,7 @@ The one regression is the retail central bank digital currency, Africa's first, 
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | AI-enabled online gender-based violence tracker | Did not exist | [Live, with more than 20,000 verified cases already documented at launch](https://www.thisdaylive.com/2026/08/01/pan-african-womens-day-nigeria-gets-first-ai-enabled-ogbv-tracker-documents-20000-cases/) | Advanced |
 | America First Global Health Strategy MOU | Did not exist | [Signed 2025-12-19; US$1,953,530,560 planned United States support against Nigeria's US$2,975,634,499](https://www.citizen.org/wp-content/uploads/2026-0009QN-Nigeria-Health-12.19.2025.pdf) | Advanced |
@@ -423,6 +430,7 @@ The one regression is the retail central bank digital currency, Africa's first, 
 | United States-Nigeria Specimen Sharing Agreement | Did not exist | [In force 2026-01-18, five-year term renewable once](https://www.citizen.org/wp-content/uploads/64104-Nigeria-Health-Specimen-Sharing-Agreement-12.19.2025.pdf) | Advanced |
 | MultiChoice data-protection penalty | Imposed (2025-07) | [The largest NDPC fine; whether it was paid is not established](https://www.rapdp.org/index.php/en/node/222) | No change |
 | Nigeria Data Protection Act 2023 | In force (2023) | [In force; the Commission sits under ministerial control](https://www.dataphyte.com/topic/technology/who-protects-nigerias-digital-citizens/) | No change |
+| Data protection collaboration with the securities regulator | Not held | [The data protection commission and the securities regulator agreed to deepen collaboration on data-protection compliance in the capital market, the commission's head visiting the regulator in Abuja and being invited to speak at its compliance summit](https://techeconomy.ng/ndpc-sec-strengthen-collaboration-on-data-protection-and-investor-privacy) | ***Baseline not held*** |
 
 <!-- narrative: governance -->
 One position worsened and the rest of the section arrived.
@@ -438,36 +446,37 @@ What arrived: an executive order that creates a coordination council rather than
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Risk-based AI regime in the digital-economy bill | Did not exist | [High-risk systems would face annual impact assessments; the bill is not passed](https://itweb.africa/article/nigeria-plans-to-introduce-ai-regulations/DZQ587V8lQDqzXy2) | Advanced |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Migration of government identity to the .gov.ng domain | Did not exist | [Government identity still exposed on foreign domains](https://www.vanguardngr.com/2026/01/how-foreign-domains-compromise-digital-identity/) | Advanced |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Agent-network microfinance | ***Baseline not held*** | [Agent-network microfinance for microenterprises and the unbanked](https://www.wearetech.africa/fr/fils/tech-stars/rukayat-kolawole-bello-connecte-les-exclus-de-la-banque-au-credit) | ***Baseline not held*** |
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | AI governance framework for tertiary institutions | Did not exist | [NUC framework written and the three tertiary regulators committed to harmonise; the text is not held](https://www.vanguardngr.com/2026/08/naaip-symposium-urges-unified-ai-guardrails-for-nigerian-tertiary-institutions/) | Advanced |
 | N-ATLAS sovereign multilingual model | Did not exist | [Open-source and multimodal across four Nigerian languages, on Llama-3 8B](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-n-atlas-an-ai-language-model-in-yoruba-igbo-hausa-and-nigerian-english) | Advanced |
 | Responsible AI in Finance Hub | Did not exist | [Proposed over an installed base: 87.5% of surveyed fintechs already use AI for fraud detection](https://bitcoinke.io/wp-content/uploads/2026/02/Shaping-the-Future-of-Fintech-in-Nigeria-Central-Bank-of-Nigeria-2025-Fintech-Report-BitKE.pdf) | Advanced |
 | Standing on the responsible-AI and AI-readiness indices | 141st on the Oxford Government AI Readiness Index (2023) | [38th of 135 countries and Africa's highest scorer on the 2026 Global Index on Responsible AI at 45.93, and 72nd on the Oxford Government AI Readiness Index, up from 141st over three years; the responsible-AI index's own conclusion is that holding AI policies is not the same as enforceable oversight or deployed systems](https://iafrica.com/nigeria-tops-africa-on-responsible-ai-governance-index-which-is-not-the-same-as-deploying-ai/) | Advanced |
 | National AI Strategy and the National AI Trust | Approved (2025-02) | [The strategy itself still in development](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives) | No change |
+| AI Academy Nigeria | Not held | [Launched by a platform company with the communications and digital economy ministry, the national skills programme, the artificial-intelligence research centre and a research network, combining a startup pitch competition, artificial-intelligence skills courses and a six-week developer bootcamp; ten startups are shortlisted to pitch at a Lagos technology exhibition on 3 September 2026, with two winners receiving US$5,000 in cash, US$2,000 in the company's advertising credits and a trip to its own summit in Istanbul in November](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/) | ***Baseline not held*** |
 | Anambra State Vision 2030 artificial-intelligence programme | Baseline not held | [A state-level push on artificial intelligence and paperless government, which the state’s own ICT agency says is constrained by weak connectivity and computing capacity; no budget, procurement, delivery date or named system is published](https://www.itweb.africa/article/anambras-2030-ai-push-faces-connectivity-test/RgeVDvPRkVaMKJN3) | ***Baseline not held*** |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Embedded insurance infrastructure | Did not exist | [Open to banks, fintechs, employers and merchants](https://techcabal.com/2026/07/17/meet-the-team-behind-skydd/) | Advanced |
 | Enterprise AI distribution through institutions | Did not exist | [Distributed through universities and professional communities](https://techcabal.com/2026/07/17/decide-targets-workplaces-with-enterprise-ai-rollout-through-cafeone/) | Advanced |
@@ -475,7 +484,7 @@ What arrived: an executive order that creates a coordination council rather than
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Bango food-market price data platform | Did not exist (founded, launched November 2025) | [Crowdsourced food-market price platform with about 2,500 users; extended into direct farmer-to-consumer sales via Shopr by Bango in Abuja; a group-buying feature (Bango Market Day) planned next](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets) | Advanced |
 | Katsina state technology hub | Did not exist | [Planned](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-plans-10bln-tech-hub-in-katsina-to-anchor-national-digital-push) | Advanced |
@@ -486,20 +495,20 @@ What arrived: an executive order that creates a coordination council rather than
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Google AI alliance, research and skilling | Alliance signed (2025-02) | [A five-area alliance plus ₦3bn across five partners](https://itweb.africa/article/nigeria-establishes-google-ai-alliance/kLgB17ezj6GM59N4) | Advanced |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Huawei Lagos innovation centre | Open (2025-05) | [Framed by the minister as a catalyst for tech sovereignty](https://itweb.africa/article/huawei-nigeria-opens-innovation-centre-in-lagos/mYZRXM9g6gWvOgA8) | No change |
 | AI surveillance estate | ***Baseline not held*** | [Above US$470m on facial recognition and number-plate tracking, the continent's largest (2026-03)](https://itweb.africa/article/nigeria-leads-africa-in-470m-ai-surveillance-spend/RgeVDvPRePyMKJN3) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Deep-technology teaching laboratories in a private university | Did not exist | [Planned; lab count, cost and funding not stated](https://itweb.africa/article/nigeria-expands-deep-tech-skills-pipeline/nWJadvbND1yvbjO1) | Advanced |
 | Microsoft AI training commitment | Committed (2025-02) | [US$1 a trainee, which drew feasibility scepticism](https://techcabal.com/2025/02/19/microsoft-pledges-1m) | No change |
@@ -507,13 +516,13 @@ What arrived: an executive order that creates a coordination council rather than
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Cisco AI for smallholder farmers | Did not exist | [Exploratory; no programme, funding, timeline or counterparty ministry named](https://itweb.africa/article/cisco-explores-ai-for-nigeria-farmers/nWJadMbNDjyMbjO1) | Advanced |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Cross River Smart Surveillance Infrastructure Project | Did not exist | [Phase One approved for a Huawei-specified facial-recognition and plate-recognition network feeding a command centre in the Office of the State Security Adviser](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) | Advanced |
 | AI open-contracting platform in three states | Live (2025-02) | [Running in three states](https://www.vanguardngr.com/2025/02/ai-integrated-platform-to-simplify-public-procurement-data-in-plateau-edo-ekiti) | No change |
@@ -522,7 +531,7 @@ What arrived: an executive order that creates a coordination council rather than
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Credit scoring from payment traces | Did not exist | [Scores people without bank accounts from payment traces and sells the output to banks](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/nigeria-s-mathesis-analytics-raises-funding-to-scale-ai-lending) | Advanced |
 
@@ -540,14 +549,14 @@ The surveillance estate carries no baseline the base can state: the largest AI d
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Device affordability | ***Baseline not held*** | [A global memory-chip shortage turning device cost into a divide variable (2026-07)](https://www.vanguardngr.com/2026/07/why-laptops-may-become-more-expensive-in-nigeria/) | ***Baseline not held*** |
 | Gender gap in identity enrolment | ***Baseline not held*** | [38.8% of enrolled NIN holders are women against 61.1% men, a 22.3-point gap (2025-06)](https://www.techcityng.com/the-gender-gap-in-rural-niger-states-digital-identity/) | ***Baseline not held*** |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | GoMed-UNFPA digital self-care platform (University of Lagos) | Did not exist | [Live for UoL students; routes to free contraceptives via Lagos State Ministry of Health/UNFPA supply chain, discreet delivery, SoftLife 247/U-Plan and GoMed pharmacists; expansion to other Lagos campuses planned](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/) | Advanced |
 | Zero-rated access to education platforms | Did not exist | [Every option consulted on requires registration to control access](https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf) | Advanced |
@@ -556,7 +565,7 @@ The surveillance estate carries no baseline the base can state: the largest AI d
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Abuja Centre for Entrepreneurship training-of-trainers programme | Did not exist | [First KOICA-backed cohort of trainers in business management and artificial intelligence, building a trainer pool for the MSME sector; cohort size and cost not stated](https://www.linkedin.com/posts/koica-nigeria_koica-koicanigeria-ace-activity-7491490192424439808-ToJ3) | Advanced |
 | Africa AI Upskilling Programme | Did not exist | [US$1.1m from Google.org to FATE Foundation for a train-the-trainer AI curriculum at 10 Nigerian universities, with the African Institute for Mathematical Sciences](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/) | Advanced |
@@ -581,7 +590,7 @@ The measurements are baselines rather than movements: [rural access at 23% again
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | iDICE debt financing for technology startups | Did not exist | [US$110m of debt financing open](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) | Advanced |
 | Telecoms foreign direct investment | US$107.46m (2021 low) | [US$392.91m in the first nine months of 2025, the strongest since 2019](https://techcabal.com/2026/02/17/telecoms-foreign-investment-rebounds-to-its-highest-level-since-2019/) | Advanced |
