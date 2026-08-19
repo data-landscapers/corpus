@@ -3,18 +3,18 @@ title: South Africa — progress report, 2025-08-01 to 2026-08-19
 compiled: 2026-08-19
 period: 2025-08-01 to 2026-08-19
 place: ZAF
-ledger_rows: 125
+ledger_rows: 129
 not_held: 22
-record: 231ea593f241
+record: a9f3f9e0fd82
 ---
 
 # South Africa: progress report, 2025-08-01 to 2026-08-19
 
 *Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 125 systems and instruments on this place's ledger, 58 changed position between 2025-08-01 and 2026-08-19, 8 did not, 36 carry no stated baseline, and 22 are ***Not held*** at both ends.*
+*Of 129 systems and instruments on this place's ledger, 62 changed position between 2025-08-01 and 2026-08-19, 8 did not, 36 carry no stated baseline, and 22 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 534 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 474 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 545 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 485 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -108,7 +108,7 @@ Announced data-centre capacity and delivered capacity diverged. Pipeline announc
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Digital driving licence | Promised for 2026 | [Nearest dated milestone 2027-03](https://techpoint.africa/insight/techpoint-digest-1253/) | Stalled |
-| Draft Identification Regulations amendments | Did not exist | [Gazetted 2026-05-04; consultation closed](https://www.biometricupdate.com/202605/south-africa-gazettes-digital-id-draft-regulation-seeks-comments) | Advanced |
+| Draft Identification Regulations amendments | Did not exist | [Gazetted 2026-05-04 and the comment period closed on 2026-06-06. A research organisation's submission on the closing day asked the department to suspend the regulations pending a published Digital Identity Policy, an enacted National Identification and Registration Bill and demonstrated compliance with the data-protection Act, on the ground that they create a biometric enrolment, trusted-entity accreditation and real-time verification system with no formal role for the Information Regulator](https://www.biometricupdate.com/202605/south-africa-gazettes-digital-id-draft-regulation-seeks-comments) | Advanced |
 | Electronic travel authorisation | Pilot from 2025-10 | [Live at four airports — OR Tambo, Cape Town, King Shaka and Lanseria — from 2026-08-12, with 6,126 fraudulent applications rejected, put at 2.8% of pilot submissions, and full visa-type rollout targeted by end-2026](https://visasnews.com/en/south-africa-makes-the-eta-the-cornerstone-of-its-visa-reform/) | Advanced |
 | National digital identity (credential and wallet) | "Before the 2029 elections" (2025-12) | [Hosting 2027-03-31; credentials 2027/28](https://www.biometricupdate.com/202605/south-africa-home-affairs-seeks-828m-budget-for-digital-id-biometric-visa-projects) | Stalled |
 
@@ -118,6 +118,7 @@ Announced data-centre capacity and delivered capacity diverged. Pipeline announc
 |---|---|---|---|
 | Capitec-Walletdoc merger conditions | Did not exist | [Behavioural conditions agreed; Tribunal had not ruled at 2026-08-06](https://www.itweb.co.za/article/compcom-approves-capitecs-walletdoc-acquisition/Olx4z7kaoeyq56km) | Advanced |
 | CIPS participation (Standard Bank) | No African bank held CIPS direct-participant status | [Standard Bank live as the first African bank offering CIPS transactions; RMB the settlement currency](https://www.cips.com.cn/en/2025-05/12/article_2025051209014593030.html) | Advanced |
+| Commercial bank technology spending | None published | [One of the large banks put technology spending at R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment following a R2.4bn write-down in 2025; its cost-to-income ratio kept rising through the migration, across a 17-country, 13.4-million-customer footprint](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/) | Advanced |
 | Renminbi Clearing Bank of Africa | Did not exist; CIPS participation only (live 2025-11-20) | [Standard Bank and ICBC jointly authorised as RMB clearing bank for Africa, with operational capacity in the 19 African countries where Standard Bank Group operates](https://corporateandinvestment.standardbank.com/cib/global/who-we-are/about-us/news/standard-bank-becomes-the-first-bank-on-the-continent-authorised-to-clear-renminbi-transactions) | Advanced |
 | ZARU rand-backed stablecoin | Did not exist | [Listed on Luno Global 2026-08-07, quoted against USDT and USDC](https://www.itweb.co.za/article/rand-goes-on-chain-as-zaru-hits-luno-global/xA9PO7NE6RAvo4J8) | Advanced |
 | Payments Ecosystem Modernisation credential and wallet | ***Baseline not held*** | In development (2026-07-31) | ***Baseline not held*** |
@@ -152,6 +153,7 @@ Announced data-centre capacity and delivered capacity diverged. Pipeline announc
 | PayShap | ***Baseline not held*** | [905m transactions by 2026-05](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/) | Advanced |
 | Smart ID and bank-branch channel | 30 branches, five banks (2025-08) | [Smart identity services running at participating bank branches - 372 on the department's own count at 17 August, and over 408 on its downtime statement of 10 August - with more than half a million people having used the channel to date; on 17 August the department launched a My Home Affairs Online portal to help citizens find a participating branch, framed with the electronic travel authorisation as a building block of the national digital public infrastructure roadmap](https://www.biometricupdate.com/202608/south-africa-advances-broader-digital-identity-and-public-services-ecosystem) | Advanced |
 | Smart IDs issued, calendar year | ***Baseline not held*** | [4,002,964 in 2025, +17%](https://www.gov.za/news/media-statements/home-affairs-sets-new-record-delivering-over-four-million-smart-ids-2025-28) | Advanced |
+| VAT modernisation consultation paper | Did not exist | [The revenue service released a VAT Modernisation Consultation Paper proposing a digital VAT model combining electronic invoicing, an interoperability framework and electronic reporting, aimed at moving VAT administration off manual processes and retrospective verification and into the systems businesses already run; it follows a 2023 discussion paper and is stated as building blocks rather than a decided design](https://www.itweb.co.za/article/sars-invites-input-on-vat-modernisation/DZQ58vV8m9NMzXy2) | Advanced |
 | Western Cape Infrastructure Virtual Platform (EVE AI agent) | Did not exist | [Automatically evaluates projects against Treasury rules and ISO 9001 via AI agent EVE; evaluated pipeline of 52 projects worth R132bn, 11 worth over R20bn to be released to market; MoUs signed with Infrastructure South Africa, IFISA, EDC South Africa and UCT](https://www.westerncape.gov.za/infrastructure/article/inaugural-western-cape-infrastructure-ministerial-roundtable-rousing-success) | Advanced |
 | Gauteng online school admissions | In operation since 2016 | [2027 intake opened 2026-08-05](https://www.itweb.co.za/article/gp-education-switches-on-2027-online-admissions/LPwQ5MlbeWpvNgkj) | No change |
 | National Health Insurance information architecture | In force since 2022-10-21 | [In force; no implementation measurement held](https://www.health.gov.za/wp-content/uploads/2022/10/HNSF_Gazette_21_October_2022.pdf) | No change |
@@ -247,6 +249,7 @@ Operation Vulindlela's own reporting changed within the period: a briefing in Ap
 
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
+| Appeal on algorithmic eligibility verification for the SRD grant | None published | [The state is appealing a Pretoria High Court judgment of 23 January 2025 that held several regulations governing the Social Relief of Distress grant unconstitutional and invalid, on a scheme administered online only and screened by an algorithmic verification system that excluded applicants it read as earning above R624.00; the court found the automation unfairly excluded otherwise eligible applicants. An artificial-intelligence governance organisation, represented by a university legal centre, was admitted as a friend of the court in the appeal, which is set down for hearing on 25 August 2026](https://www.globalcenter.ai/news/human-rights-implications-of-using-algorithms-for-social-grants) | Advanced |
 | Automated selection at SARS | ***Baseline not held*** | [100% of verifications, 88.41% of complex audits](https://techcabal.com/2026/07/27/ai-south-africas-taxman/) | Advanced |
 | Proposed AI regulatory institutions | Seven bodies proposed | [Under reconsideration; committee opposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko) | Regressed |
 | SAHPRA AI/ML medical-device requirements | Did not exist | [Issued 2025-09-26; product registration not commenced](https://www.sahpra.org.za/wp-content/uploads/2025/09/MD08-20252026_-SAHPRA-Communication-to-Industry-AI-Medical-devices_Acknowledgements.pdf) | Advanced |
@@ -288,6 +291,7 @@ Funding reversed within the period. South Africa raised [$335.9m across 42 ventu
 | System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National Digital and Future Skills Strategy 2020 | 2020 strategy in force | [Under review; no replacement](https://pmg.org.za/committee-question/39587/) | Stalled |
+| Vendor digital-skills programme in Northern Cape schools | Did not exist | [A networking vendor's academy and a private group agreed with the provincial education department to take networking, cyber security and artificial-intelligence courses into 235 schools, as extracurricular classes for grades 10 to 12 beginning February 2027, inside a global skills-to-jobs programme the vendor states has trained more than 600,000 South Africans](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N) | Advanced |
 | Digital-skills pipeline from school to employment | Baseline not held | [Constrained at both ends: young people entering without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment; the mismatch is found to be structural and not self-correcting (2026-08)](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills) | ***Baseline not held*** |
 | National Competency Framework | ***Baseline not held*** | In development (2026-07-23) | ***Baseline not held*** |
 
