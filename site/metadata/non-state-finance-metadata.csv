@@ -1,0 +1,21 @@
+﻿Column,Definition
+recipient_country,The ISO 3166-1 alpha-3 code for the country
+start_year,"The year in which the finance was approved or committed. In some circumstances this may be a planned, rather than actual, start year."
+end_year,The year in which the financed activity ended or is due to end
+financier,The short or abbreviated name of the institution providing the finance
+sector,This is defined by Data Landscaper's own taxonomy which can be found at https:\\data-landscapers.io\taxonomy
+instrument,"The financial instrument such as grant, loan equity."
+commitment_usd_m,The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates.
+amount_basis,"Commitments are used in this table as data on actual disbursements is often missing. There are a few transactions where only a disbursement, rather than commitment, figure is available. This column records this."
+amount_quality,"Data in this table is collected from a variety of sources, including the press. This column attempts to assess the reliability of the data."
+status,"Whether the contract is pipeline, approved, active or closed"
+title,The title of the investment
+description,A brief description of the investment
+beneficiary_type,"e.g. Government, private sector"
+recipient_organisation,The name of the institution receiving the finance
+original_amount,The amount and currency of the legal commitment
+project_id,"If the financier maintains a public portfolio, this is the Id of their record"
+iati_activity_id,"If the financier publishes their activities to the International Aid Transparency Initiative, this is the unique identifier used in IATI xml data."
+url,A public url referencing the source from which the data in this table has been collected.
+financier_slug,The financier identifier within the Corpus repository
+record,The identifier of the record within the  Corpus repository
