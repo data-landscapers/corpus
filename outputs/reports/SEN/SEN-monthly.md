@@ -1,16 +1,16 @@
 ---
 title: Senegal — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: SEN
-ledger_rows: 53
-not_held: 12
-record: 1b80c7f4ccac
+ledger_rows: 55
+not_held: 13
+record: 7e4fb010e529
 ---
 
 # Senegal: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -55,6 +55,8 @@ A government enterprise-architecture account of 3 August records [platforms stil
 
 <!-- narrative: dpi--dpi-id -->
 Consolidated agency data at 17 July records [437 of 629 civil-status centres fully deployed, 112 of them running the citizen-facing service](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI); on 13 July the agency reported [15.3m records loaded](https://apanews.net/senegals-anec-digitizes-more-than-15-million-birth-records/).
+
+Deployment moved again in August, and the agency put a frame around it. At African Civil Registration Day in Kaolack on 10 August it [launched phase four of its remediation plan and put deployment at 74% of centres, up from 70% five days earlier, with the citizen request platform live in 189 communes](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), phase four extending to Kaffrine and Tambacounda; its director-general described civil registration as an instrument of sovereignty.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -168,4 +170,9 @@ The council of ministers of 29 July [proposed a national research and innovation
 
 <!-- narrative: finance--finance-new -->
 A [US$50m pre-seed and seed fund was announced on a conference stage in Paris on 20 June](https://techcabal.com/2026/07/07/francophone-weekly-by-techcabal-030/), with public capital framed as crowding in private investors. No first close, limited partners, fund manager or deployment is held.
+<!-- /narrative -->
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+The constraint on that deployment is money, and the agency said so itself. On 17 August its director-general said [the agency's 2026 budget had still not been notified](https://aps.sn/kaolack-lanec-accelere-la-digitalisation-de-letat-civil/), and named that as what is holding back the pace of the Kaolack phase — the deployment of the civil-status software and activation of the citizen request platform across Nioro, Ndiedieng and Kaolack between 10 and 20 August. The base holds no appropriation figure for the agency for 2026, which is recorded as a gap.
 <!-- /narrative -->

@@ -1,16 +1,16 @@
 ---
 title: Ethiopia — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: ETH
-ledger_rows: 42
-not_held: 4
-record: da4961e3e970
+ledger_rows: 45
+not_held: 5
+record: c490a0692f42
 ---
 
 # Ethiopia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -67,11 +67,17 @@ At the 24 July launch of a three-year strategic plan, the same meeting disclosed
 The identity programme supplied most of the month's movement: a [joint venture with Safaricom and a local partner](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration) on 6 July to run mass registration across seven regions, and, on 24 July, the operator's own disclosure that it accounts for 69% of all registrations, with more than 4m farmers enrolled through the agriculture ministry and more than 28,000 displaced people through humanitarian partners.
 
 At the same 24 July launch of a three-year strategic plan, its deputy director in the capital named premature integration as the year's main obstacle and its founding director general conceded the platform remains intertwined with decades-old institutional systems of undefined standards. The identity layer meanwhile acquired a corporate owner: the Faydaverse digital-public-infrastructure enterprise was inaugurated on 4 August as a state-owned enterprise under Ethiopian Investment Holdings, on a platform [reported at over 190 million authentications performed and 150 enterprises integrated for biometric checks](https://www.biometricupdate.com/202603/ethiopias-digital-id-joins-sovereign-wealth-fund-as-weekly-enrollments-reach-1m). No governing instrument, board or commercial model for the enterprise is published.
+
+Four days later that enterprise set out where the credential goes next. Its wallet is [to carry academic transcripts, professional licences, healthcare records, property titles and financial-compliance and know-your-customer data beyond the core government credentials it holds today](https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/), and the enterprise says it is exporting identity services as an implementation partner in Mozambique and Zambia. The plan and the export claims are its own; no timetable, consent model, data-controller arrangement or regulatory approval for the additional credential types is stated.
+
+What is not on the record is the counterweight. A published critique argues the system [risks becoming an instrument of mass profiling in the absence of independent data-protection impact assessments, meaningful citizen rights and legal limits on state access](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), against 46.5m registrations by July 2026, up from 16.4m in June 2025, and a 90m target. The base holds no such assessment, no redress mechanism and no statutory access limit, and that absence is now recorded as a gap.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 Payments extended into utilities and tax. Prepaid electricity purchase entered the mobile-money super app on 29 July for smart-meter customers, and a digital tax-payment service for one regional revenue bureau launched on 28 July as the first of a planned series.
+
+The market also drew a new foreign supplier. A South African financial-technology firm [entered the Ethiopian payments market with a local engineering partner on 17 August](https://www.itweb.co.za/article/sybrin-strengthens-east-african-presence-to-support-ethiopias-digital-payments-modernisation/5yONP7Erow8MXWrb), aligning onboarding, fraud-management and workflow-automation tools with the National Digital Payments Strategy 2026-2030. No commitment value, customer or deployment date is disclosed.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 

@@ -1,16 +1,16 @@
 ---
 title: Liberia — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: LBR
-ledger_rows: 27
-not_held: 8
-record: acdeb594988c
+ledger_rows: 33
+not_held: 9
+record: 33c0d932f4c8
 ---
 
 # Liberia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -42,6 +42,13 @@ The Cybercrime Act 2025 [had still not received presidential signature as of 1 J
 
 ## Digital public infrastructure
 
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The identity build reached the last step before a signature. The National Identification Registry says [procurement of an Austrian firm to build a new biometric identification system under a public-private partnership is complete, and the concession agreement is with the President ahead of legislative ratification](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/). Mass enrolment has been suspended since 23 June 2025, so the country has been more than a year without one. No concession value, term, revenue model or data-protection provision is published.
+
+A second identity register is being built outside the state entirely. On 16 August the commercial motorcycle and tricycle riders' union and a private digital services company [signed a memorandum to build a digital identity, GPS tracking and a rider database](https://www.thenewdawnliberia.com/motorcycle-union-digital-liberia-sign-deal-to-track-riders-combat-theft/), aimed at curbing vehicle theft and linking informal-sector riders to formal financial and government services. It covers continuous location tracking of a working population, and no data-protection basis, custodian, retention rule or consent mechanism is reported for it.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -53,6 +60,13 @@ On 28 July the finance minister named the [national electronic payment switch as
 
 <!-- narrative: dpi--dpi-registry -->
 Speaking on 21 July, the Posts and Telecommunications Minister said [rollout of a national digital postal address system had begun across all fifteen counties](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date or budget line given.
+
+The central bank is preparing a register of a different kind. It announced on 14 August that it is [extending the 2010 movable-assets collateral registry to cover immovable property such as land, buildings and fixed machinery](https://elbcnews.com/2026/08/14/central-bank-of-liberia-prepares-to-launch-collateral-registry/), as part of a wider financial-sector reform. No launch date, registration volume, fee schedule or relationship to the land registry is stated.
+<!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: dpi--dpi-mis -->
+The month's clearest finding about a government system is that it does not exist. The General Auditing Commission found that a [digital lending platform built for the World Bank and IFAD-backed STAR-P project was still undelivered, with US$36,768 paid in full to a savings and loans institution for a system contractually due live by May 2025 and not deployed at the auditor's May 2026 field verification](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). The [same Management Letter, issued on 29 June 2026 for the audit period to 31 October 2025, found no functional project audit committee, a US$27,000 consultancy let without competitive procurement, and an agriculture commercialisation fund's reporting dashboard never formally handed over to the ministry](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). The platform is now recorded as ***Not held*** with a dated search behind it.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -60,6 +74,11 @@ Speaking on 21 July, the Posts and Telecommunications Minister said [rollout of 
 The e-procurement platform published its first operating figures on 5 August: [more than 1,200 vendors registered and more than US$400,000 in revenue generated](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/). No contract value transacted, tender count, bidder numbers or share of government procurement passing through the platform is given. Two days later it became an export: Sierra Leone's procurement authority [sent a delegation to Monrovia on 6-7 August to study the implementation](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html), where the executive director dated the national launch to February 2025 after a six-institution pilot and credited the African Development Bank and the World Bank with the backing behind it. A later account of the same visit [records the telecommunications regulator receiving equipment to strengthen its own use of the platform](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), framed as deepening bilateral cooperation on digital transformation and procurement transparency.
 
 Licensing moved off paper in the same week. The telecommunications regulator [put an automated telecom licensing and renewal platform into service](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), letting applicants apply and renew online while keeping in-person service available. No licence count, processing time or fee schedule is published.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: dpi--data-satellite -->
+The Land Authority took the country's geospatial ambition abroad rather than to a budget. At the United Nations' sixteenth global geospatial information management session in August it [sought international partnerships and technical support to build a National Spatial Data Infrastructure](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) — a coordinated geospatial framework for land administration, mapping and national planning. It is an approach for support rather than a programme: no funding, custodian, standard or timetable is stated, and the base still holds no earth-observation or geospatial data programme of any kind.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -88,6 +107,8 @@ The telecoms regulator [fined an operator LRD 4m for issuing a subscriber's SIM 
 
 <!-- narrative: governance--gov-discourse -->
 On 30 July the Anti-Corruption Commission [confirmed it had forwarded a complaint about the telecoms traffic-monitoring arrangement to its investigation unit](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html). No evidence has been publicly produced and no findings made.
+
+The month's one channel built to hear from the public rather than about it was relaunched by donors. UNICEF and UNFPA [relaunched the U-Report youth feedback platform on 13 August](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/), with Irish embassy support and under a joint programme with the government, giving young people an encrypted SMS channel to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters. The channel runs on one operator's SIM cards, which bounds who can take part.
 <!-- /narrative -->
 ### Open data
 

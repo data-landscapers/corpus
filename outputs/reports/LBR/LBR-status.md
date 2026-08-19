@@ -1,15 +1,15 @@
 ---
 title: Liberia — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: LBR
-ledger_rows: 56
+ledger_rows: 61
 not_held: 8
-record: c45f89d392a3
+record: 9085fbf9831d
 ---
 
 # Liberia: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (56 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (61 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -77,8 +77,9 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Commercial motorcycle and tricycle rider registry | [Planned](https://www.thenewdawnliberia.com/motorcycle-union-digital-liberia-sign-deal-to-track-riders-combat-theft/) | Memorandum signed 2026-08-16 |
 | Executive Order 147 (mandatory biometric identity) | [Implemented](https://idtechwire.com/liberia-makes-biometric-id-cards-mandatory-for-citizens-and-residents) | Signed April 2025, making enrolment mandatory for citizens and 90-day residents |
-| National Biometric Identification System (NIR) | [In development](https://www.biometricupdate.com/202605/liberia-restructures-national-id-deal-with-osd-plans-issuance-restart) | Concession restructured with OSD International and an issuance restart planned |
+| National Biometric Identification System (NIR) | [In development](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/) | Procurement of the concessionaire completed; agreement before the President 2026-08-17 |
 | SIM registration linked to the national identity number | [Implemented](https://techpoint.africa/news/liberia-link-national-id-cards-deadline) | Deadline of 10 July 2025 set under the LTA-NIR memorandum of October 2024 |
 
 ### Digital Payments and Fintech
@@ -93,7 +94,14 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Collateral registry | [In development](https://elbcnews.com/2026/08/14/central-bank-of-liberia-prepares-to-launch-collateral-registry/) | Enhanced registry announced 2026-08-14 |
 | National digital postal address system | [In development](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/) | Rollout stated as begun across all fifteen counties, 21 July 2026 |
+
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| STAR-P digital lending platform | ***Not held, searched 2026-08-11 - the state auditor verified in the field that the contracted system was not deployed*** | Management Letter issued 2026-06-29 on the audit period to 2025-10-31 |
 
 ### Other GovTech and e-Gov
 
@@ -115,6 +123,7 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| National Spatial Data Infrastructure | [Planned](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) | Taken to the 16th UN-GGIM session, August 2026 |
 | Earth observation or geospatial data programme | ***Not held*** | — |
 
 <!-- narrative: dpi -->
@@ -161,6 +170,7 @@ Government systems are being coordinated from the centre for the first time. [Ex
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Anti-Corruption Commission complaint against the LTA | [In development](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html) | Complaint forwarded to the Commission's investigation unit, 30 July 2026 |
+| U-Report youth feedback platform | [Implemented](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/) | Relaunched 2026-08-13 |
 
 ### EU activities
 
@@ -279,6 +289,7 @@ External finance is the largest channel funding digital and health-data systems.
 | Indian digital cooperation with Liberia | A bilateral memorandum, a line-of-credit agreement, or an India Stack or ITEC programme document naming Liberia. | not yet probed |
 | Gulf state digital investment in Liberia | An investment agreement, data-centre or connectivity commitment from a Gulf sovereign fund or operator. | not yet probed |
 | Interoperability framework between government registers | The enterprise standards and interoperability rules Executive Order 163 provides for, or a data-sharing instrument between agencies. | not yet probed |
+| STAR-P digital lending platform | a deployment or acceptance record for the contracted platform, a project progress report naming it live, or a recovery of the sum paid | 2026-08-11 |
 
 <!-- narrative: gaps -->
 Eight rows carry no reliable statement of position. Six are subjects the base holds nothing on for Liberia: geospatial and earth-observation programmes, county and city digitalisation, domestic digital research capacity, and European Union, Indian and Gulf state cooperation. Two are documents the record points at without holding: the interoperability framework Executive Order 163 provides for, and any account of the telecoms regulator's own revenue.

@@ -1,20 +1,20 @@
 ---
-title: Liberia — progress report, 2025-08-01 to 2026-08-17
-compiled: 2026-08-17
-period: 2025-08-01 to 2026-08-17
+title: Liberia — progress report, 2025-08-01 to 2026-08-19
+compiled: 2026-08-19
+period: 2025-08-01 to 2026-08-19
 place: LBR
-ledger_rows: 59
-not_held: 8
-record: 405e12172f9b
+ledger_rows: 64
+not_held: 9
+record: 61548fc09923
 ---
 
-# Liberia: progress report, 2025-08-01 to 2026-08-17
+# Liberia: progress report, 2025-08-01 to 2026-08-19
 
-*Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 59 systems and instruments on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-17, 10 did not, 7 carry no stated baseline, and 8 are ***Not held*** at both ends.*
+*Of 64 systems and instruments on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-19, 10 did not, 11 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 72 sources for this place in the window — 23 in the earlier half (2025-08 to 2026-02), 49 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 81 sources for this place in the window — 23 in the earlier half (2025-08 to 2026-02), 58 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -28,7 +28,7 @@ The clearest movement of the twelve months to 9 August 2026 was in payments, whe
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | 5G network services | Did not exist | [Plans stated with investors still being engaged; no spectrum award, licence condition or launch date published (2026-01)](https://www.liberianobserver.com/news/liberia-on-the-verge-of-5g-revolution/article_992b027e-4c8a-4578-bf70-baf2e2eabeeb.html) | Advanced |
 | Second submarine cable landing at Buchanan | One submarine cable in Monrovia; a second landing at Buchanan not yet stated (2025-08) | [Second landing at Buchanan sought, with partial funding stated as sourced and investors still being sought; no landing partner, cost or date published (2026-07)](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/) | Advanced |
@@ -40,14 +40,14 @@ The clearest movement of the twelve months to 9 August 2026 was in payments, whe
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National data centre | Did not exist | [Announced to hold government data domestically; no site, cost, timetable or operator named (2026-07)](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/) | Advanced |
 | Tier III+ data centre at Buchanan | ***Baseline not held*** | [Stated as under development for sovereign hosting of the National Identification Registry and the Liberia Revenue Authority; no operator, cost or completion date published (2026-03)](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Cybersecurity Regulations (LTA-REG-0013-2026) | Did not exist | [Requires telecom providers to store personal data and PII primarily inside Liberia's own territory (s.7.3(A)(v)), establish an in-house Cybersecurity Unit within one year of the effective date (s.7.1), notify the LTA of breaches within 24 hours and customers within 72 hours (s.7.6(A)(ii)), run annual penetration testing and keep security-event logs for at least 12 months (s.7.5), and file tested incident-response and continuity plans; the LTA is to run a sector CERT with a 24/7 hotline (s.8.2). Penalties are revenue-linked (up to US$3,000 plus 0.15% of the preceding year's gross revenue for failing to establish the Unit, escalating to US$25,000 and possible licence suspension) but apply only from one year after the effective date (s.10.7); the s.10.6 penalty escalation ladder is unreadable in both held copies (2026-01)](https://liblaw.org/document/cybersecurity-regulations-lta-reg-0013-2026/) | Advanced |
 | House investigation into the 2026 data breach | Did not exist | [Investigation ordered into an alleged breach of about 2m citizens' data across the revenue, electricity and insurance bodies; no findings published (2026-02)](https://www.liberianobserver.com/news/house-to-probe-data-breach-6-1m-foya-project/article_20b56386-12e0-4c66-b0d8-51bcbf475890.html) | Advanced |
@@ -68,16 +68,17 @@ Cybersecurity gained an investigation and no strategy. The House [ordered a prob
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
-| National Biometric Identification System (NIR) | Mandatory under Executive Order 147, issuance running amid a procurement dispute over a rejected restricted-bid award (2025-08) | [Public-private concession with OSD International to finance enrolment of all about 5.3m people in 18 months, operate and transfer; awaiting legislative ratification, with selection and terms not published (2026-05)](https://www.biometricupdate.com/202605/liberia-restructures-national-id-deal-with-osd-plans-issuance-restart) | Advanced, contested |
+| National Biometric Identification System (NIR) | Mandatory under Executive Order 147, issuance running amid a procurement dispute over a rejected restricted-bid award (2025-08) | [Public-private concession with an Austrian firm to finance enrolment of all about 5.3m people in 18 months, operate and transfer; the registry says procurement is now complete and the concession agreement is with the President ahead of legislative ratification, with selection and terms still unpublished. Mass enrolment has been suspended since 23 June 2025](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/) | Advanced, contested |
 | National identity enrolment | About 740,000 enrolled, under 15% of about 5.3m, at a US$5 card fee (2024-12) | [About 640,000 prior registrants locked out of the system and issuance halted; no updated enrolment figure published (2026-03)](https://fpa.news/liberia-national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/) | Regressed |
 | Executive Order 147 (mandatory biometric identity) | In force, making the identification number the primary credential for banking, health, education and telecoms (2025-08) | [In force and unamended, on a register whose issuance was halted for part of the period (2026-08)](https://idtechwire.com/liberia-makes-biometric-id-cards-mandatory-for-citizens-and-residents) | No change |
 | SIM registration linked to the national identity number | Deadline set and in force (2025-08) | [No compliance figure, enforcement action or revised deadline published since (2026-08)](https://techpoint.africa/news/liberia-link-national-id-cards-deadline) | No change |
+| Commercial motorcycle and tricycle rider registry | Not held | [A memorandum between the riders' union and a private digital services company to build a digital identity, GPS tracking and a rider database for commercial motorcycle and tricycle operators, aimed at curbing vehicle theft and linking informal-sector riders to formal financial and government services](https://www.thenewdawnliberia.com/motorcycle-union-digital-liberia-sign-deal-to-track-riders-combat-theft/) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Interoperable payment fee regime | Did not exist | [A single charge of no more than 1.0% of value from US$1.00 to US$2,000.00 and a flat fee of no more than US$25.00 above it, available 24 hours a day (2026-08)](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) | Advanced |
 | National Electronic Payment Switch | Did not exist | [Provided for as the follow-on to the instant payment pilot, alongside person-to-government payments; no go-live date or budget line published (2026-07)](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) | Advanced |
@@ -85,19 +86,26 @@ Cybersecurity gained an investigation and no strategy. The House [ordered a prob
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National digital postal address system | Did not exist | [Rollout stated as begun in all fifteen counties; no completion date, budget line or addressing standard published (2026-07)](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/) | Advanced |
+| Collateral registry | Not held | [The central bank is preparing an enhanced registry extending the 2010 movable-assets registry to cover immovable property such as land, buildings and fixed machinery, as part of a wider financial-sector reform](https://elbcnews.com/2026/08/14/central-bank-of-liberia-prepares-to-launch-collateral-registry/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Civil Service Agency automated legal power of attorney platform | Did not exist | [In service, tying civil-servant purchases to fingerprint verification against the agency database (2025-12)](https://www.liberianobserver.com/business/csa-goes-live-with-automated-lpa-platform/article_f73f54f9-cac1-4fa6-b5e1-f0d33235505f.html) | Advanced |
 | Electronic government procurement platform | Launched nationally in February 2025 after a pilot with six institutions (2025-08) | [Phase Two equipment distribution begun on 2026-08-05, with the telecommunications regulator receiving equipment to strengthen its use of the platform under bilateral cooperation with Sierra Leone’s procurement authorities reported on 2026-08-12; no transaction count, entity coverage or procurement value is published](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | Advanced |
 | Office of Technology, Digitalization and Innovation (Executive Order 163) | Did not exist | [Established as the whole-of-government coordinator for enterprise standards, interoperability, technical clearance of ICT investments and baseline cybersecurity, with 12 months to draft an institutionalising law (2026-04)](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html) | Advanced |
 | GREAT digital identity and digital government project | Launched at US$30m to fund the enrolment push (2025-03) | [Running, with a US$2m tranche put on hold during the identity system's debt lock; no disbursement total published (2026-03)](https://www.biometricupdate.com/202503/liberia-launches-digital-public-infrastructure-project-with-30m-world-bank-funding) | No change |
 | Automated telecom licensing and renewal platform | Baseline not held | [Rolled out by the telecommunications regulator, letting applicants apply and renew online while in-person service is kept available, as part of a stated shift away from paper-based licensing; no licence count, processing time or fee schedule is published](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system) | ***Baseline not held*** |
+
+### Use of satellite data
+
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+|---|---|---|---|
+| National Spatial Data Infrastructure | Not held | [Taken by the Land Authority to the United Nations' sixteenth global geospatial information management session in New York, where it sought international partnerships and technical support to build a coordinated geospatial framework for land administration, mapping and national planning](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
 Payments is the section that moved. The [instant payment system launched on 16 December 2025 in 73 business days](https://frontpageafricaonline.com/business/economy/liberia-cbl-launches-inclusive-instant-payment-system-ends-era-of-mobile-money-silos/), ending the separation of the two mobile-money networks, and its [fee schedule was published in August 2026](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html). A national switch remains provided for and undated.
@@ -111,14 +119,14 @@ Government systems gained a coordinator and two platforms. [Executive Order 163 
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | LTA licensing and spectrum reform package | Licensing under the Telecommunications Act 2007 unchanged, with no satellite or device rules (2025-08) | [Split of infrastructure and service licences, tower-sharing rules, first satellite regulations, an IMEI regime and repatriation of the .lr country domain announced; none published as instruments (2026-07)](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/) | Advanced |
 | Mobile Money Regulations (Central Bank of Liberia) | In force (2025-08) | [In force and unamended; the interoperable fee schedule of 2026 was approved under it (2026-08)](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf) | No change |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | African Development Bank Country Strategy Paper 2026-2031 | Bank strategy carrying four sectors, ICT among them (2025-08) | [Sectors cut from four to three - transport, energy and skills - with an indicative 2026-2028 programme of UA 129m (US$172.86m, February 2026 conversion), 36.3% unfunded, and no digital lending line (2026-07)](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html) | Regressed, for digital |
 | Digital Liberia national digital strategy 2025-2029 | National ICT Policy and Strategy 2019-2024, already past its stated period (2025-08) | [Eight priority areas across four pillars, including universal connectivity, digital addressing, cybersecurity and data sovereignty; no costing or delivery schedule published (2026-02)](https://techafricanews.com/2026/02/03/liberia-unveils-5-year-digital-liberia-strategy/) | Advanced |
@@ -126,23 +134,24 @@ Government systems gained a coordinator and two platforms. [Executive Order 163 
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | African Telecommunications Union membership | Voting rights withheld over arrears dating back to 1982 (2025-08) | [Arrears waived, current obligations arranged, ratification instrument deposited and voting rights restored (2026-07)](https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/) | Advanced |
 | Liberia-Gambia-Sierra Leone free roaming | In effect, home SIM at local rates across the three countries (2025-08) | [In effect; no traffic or price data published (2026-08)](https://www.telecomreviewafrica.com/articles/general-news/11208-west-african-nations-sign-roaming-agreement-to-cut-telecom-costs/) | No change |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Privacy enforcement against telecom operators | Did not exist; no privacy penalty on record (2025-08) | [LRD 4m fine (US$21,900 at the time, per the source) imposed by the telecoms regulator rather than under data-protection law (2026-06)](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license) | Advanced |
 | Personal Information Act (data protection bill) | Referred to a House committee in June 2025, unpassed, with no national data authority (2025-08) | [Still before the legislature and unpassed, with no data-protection authority in existence (2026-05)](https://www.liberianobserver.com/politics/house-reviews-privacy-data-protection-bill/article_6675211a-e8bc-43c6-8e04-e73cbf26278a.html) | No change |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Anti-Corruption Commission complaint against the LTA | Did not exist | [Under investigation, with no evidence publicly produced and no findings made (2026-07)](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html) | Advanced |
+| U-Report youth feedback platform | Not held | [Relaunched by UNICEF and UNFPA with support from the Irish embassy under a joint programme with the government, giving young people an encrypted SMS channel on one operator's network to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/) | ***Baseline not held*** |
 
 <!-- narrative: governance -->
 The data-protection position is identical at both ends of the window: the [Personal Information Act was before a House committee in June 2025 and remains before the legislature](https://www.liberianobserver.com/politics/house-reviews-privacy-data-protection-bill/article_6675211a-e8bc-43c6-8e04-e73cbf26278a.html), with no data-protection authority in existence, over a period in which the state contracted a foreign firm to hold the population's biometric records. What appeared instead was sectoral enforcement: the [first privacy penalty on record, LRD 4m against Orange Liberia in June 2026](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license), imposed under telecom regulation.
@@ -156,20 +165,20 @@ Regional standing was recovered where domestic transparency was not. Liberia's [
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | CJ Lewis legal-learning artificial intelligence | Did not exist | [In service over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, built by a private law library with OHCHR support (2026-07)](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/) | Advanced |
 | National artificial intelligence priority | Did not exist | [Accepted in principle, conditioned on applications in agriculture, transport and commerce; no policy, institution, budget line or date attached (2026-07)](https://fpa.news/young-liberians-challenge-boakai-on-artificial-intelligence-he-accepted-what-comes-next/) | Advanced |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Smart ports memorandum with HAROPA PORT | Did not exist | [Non-exclusive memorandum covering all four seaports across five areas including automated terminal operations; no commitment amount, implementation date or named system (2026-07)](https://www.thenewdawnliberia.com/npa-french-port-giant-sign-smart-ports-deal/) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Lantern GovTech and Cyber Arena platform | ***Baseline not held*** | [Operating and selected to represent Liberia at the global final, pitched on domestic data custody; the firm projects a US$20m return over five years and plans a domestic security operations centre (2026-07)](https://www.liberianobserver.com/news/lantern-shines-brightest-as-2026-tech-summit-ends/article_14913b31-0736-4a07-bc38-29c6e5f79d54.html) | ***Baseline not held*** |
 | UNIPOD innovation and digital hub | ***Baseline not held*** | [Operating under UNDP Africa's Timbuktoo platform; no commitment amount disclosed (2026-07)](https://fpa.news/undp-reaffirms-commitment-to-liberias-digital-transformation-at-tech-summit/) | ***Baseline not held*** |
@@ -184,26 +193,26 @@ The technology sector's other movement was a memorandum: the port authority's [n
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Internet penetration | 1.84m internet users, 32.4% of a 5.67m population, with about 3.8m offline (2025-01) | [No later national figure published (2026-08)](https://datareportal.com/reports/digital-2025-liberia) | No change |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Account ownership and mobile wallets | 52% account ownership with more than 11m wallets (2024) | [No later figure published (2026-08)](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/) | No change |
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Media and information literacy training for elections | Did not exist | [19 young leaders trained in the first of three sessions, run by UNDP with the elections commission and press union on Canadian funding; no budget disclosed (2026-07)](https://www.undp.org/liberia/press-releases/young-liberians-strengthen-digital-citizenship-and-information-integrity-safeguard-democracy) | Advanced |
 | MOE Digital Learning Platform and Liberia Learns | Did not exist | [In service for Grades 1 to 3 through curriculum-aligned video, audio and radio in local languages, with sign-language interpretation on video lessons (2026-01)](https://techpoint.africa/insight/techpoint-digest-1253/) | Advanced |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | University of Liberia master's programme in artificial intelligence | Did not exist | [Announced as the country's first such programme; no start date, intake or funding amount disclosed (2026-08)](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today) | Advanced |
 
@@ -215,7 +224,7 @@ The one place inclusion moved was education: the Ministry of Education's [digita
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy health data systems funding | Did not exist | [US$26,133,684 planned over 2026-2030 for health data systems including electronic medical records, a laboratory information system, disease surveillance and DHIS2, non-binding and subject to the availability of funds; the signed text commits Liberia to an open-source EMR rolled out to 100% of public health facilities by 2030 and gives the United States audit access to up to 5% of health facilities, with a data-sharing arrangement still to be negotiated and expected to run ten years, but no specimen-sharing or personal-data clause; the memorandum's text was published in March 2026 and then withdrawn, and is the subject of a federal freedom-of-information suit filed 2 April 2026 (2026-04)](https://healthpolicy-watch.news/wp-content/uploads/2025/12/US-Liberia-MOU-2025.pdf) | Advanced |
 | WARDIP2 financing for Liberia | Did not exist | [US$50m committed for broadband, cybersecurity, digital governance and digital payments within a US$137m three-country operation (2026-06)](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) | Advanced |
@@ -237,6 +246,7 @@ Two financing commitments entered the ledger without matching disbursement data.
 | Indian digital cooperation with Liberia | A bilateral memorandum, a line-of-credit agreement, or an India Stack or ITEC programme document naming Liberia. | not yet probed |
 | Gulf state digital investment in Liberia | An investment agreement, data-centre or connectivity commitment from a Gulf sovereign fund or operator. | not yet probed |
 | Interoperability framework between government registers | The enterprise standards and interoperability rules Executive Order 163 provides for, or a data-sharing instrument between agencies. | not yet probed |
+| STAR-P digital lending platform | a deployment or acceptance record for the contracted platform, a project progress report naming it live, or a recovery of the sum paid | 2026-08-11 |
 
 <!-- narrative: gaps -->
 Nine rows carry no position at either end, six of them subjects the base holds nothing on and three documents the record points at without containing. Two of the three are instruments the state has itself said it needs: a national cybersecurity strategy, whose absence the House recorded when it ordered the breach investigation, and the interoperability framework the digital-government order provides for. None was probed within this period; each is carried into the next.

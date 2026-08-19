@@ -1,16 +1,16 @@
 ---
 title: Kenya — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: KEN
-ledger_rows: 107
+ledger_rows: 110
 not_held: 6
-record: 6885f7f69f4d
+record: 34d9b3923963
 ---
 
 # Kenya: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -28,6 +28,8 @@ The Communications Authority introduced a [Communications Equipment Distributor 
 Satellite capacity ran out in the country's densest markets. The operator [suspended new sign-ups across seven counties](https://techweez.com/2026/07/08/starlink-kenya-waitlist-capacity-counties/) in early July, diverting orders to a deposit-backed waitlist. On 4 August the second mobile operator said its direct-to-cell pilot had completed and it awaits regulatory approval; the interference audit opened in March has produced no published finding.
 
 Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/) on 29 July 2026, integrating the Tanzanian backbone with the Mombasa submarine landings. The London Internet Exchange [added a regional cloud provider to its Nairobi hub](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb) in July, reaching 55 or more connected networks on combined traffic of 330 Gbps.
+
+The largest procurement in the window is a surveillance build sold as traffic management. The roads authority is out to tender on [Nairobi's Intelligent Transport System Phase II at Ksh10bn, about US$83.8m, covering CCTV, e-police monitoring and vehicle-detection systems at 60 junctions on a 30-month design-build contract financed by a South Korean development loan](https://www.kenyans.co.ke/news/126063-kura-expands-nairobis-ksh10b-smart-traffic-project-phase-ii), with the bid deadline pushed back two weeks to 19 August. No data-protection authorisation, retention rule or oversight arrangement for the cameras and detection systems is reported, and no award has been made.
 <!-- /narrative -->
 ### Data Storage
 
@@ -60,6 +62,8 @@ A vendor threat report published on 13 August put the exposure at the ordinary e
 
 <!-- narrative: dpi--dpi-exchange -->
 The health ministry issued tender addenda on 27 July 2026 that [make financial, tax, insurance, pension, payroll, laboratory and identity interfaces day-one mandatory](https://health.go.ke/node/2517) for a national public-health enterprise system, and require primary hosting inside an approved Kenyan government or health-sector environment.
+
+The Treasury is building the other kind of exchange — one that looks at the money coming in. It is [rolling out a Development Partners Management Information System, expected to launch before the end of 2026](https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds), to consolidate data on development-partner commitments, disbursements and funded programmes for planning and oversight. No supplier, cost, or statement of whether the consolidated data will be published is reported.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -84,6 +88,8 @@ An academic review published on 5 August put the child-protection case system on
 
 <!-- narrative: dpi--dpi-govtech -->
 The Controller of Budget's report entered July's reading: [1,695 of a target 11,000 services](https://nation.africa/kenya/business/agencies-defy-ruto-s-e-citizen-order-1-695-services-yet-to-be-migrated-5506558) were migrated onto eCitizen in the year to 31 March 2026, against 3,458 the year before, described as a dismal performance.
+
+The platform sells better abroad than it migrates at home. Its operator [pitched the Democratic Republic of the Congo's digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing eCitizen's forty-plus digitised services and existing registry deployments in Malawi and South Sudan; the Congolese minister asked officials to continue talks toward a partnership. The claims are the vendor's own, made in a sales meeting, and the same operating consortium's domestic position remains under challenge.
 <!-- /narrative -->
 
 ## Governance and regulation
