@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,30 +57,22 @@
 
     <p>Every non-state commitment the base holds for Burkina Faso, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="BFA-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Burkina Faso &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">9 rows</span>
-        <a class="btn" href="BFA-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="BFA-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">9 rows</span>
+        <a class="btn" href="BFA-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="BFA-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>BFA</td><td class="num mono">2025</td><td class="num mono"></td><td>Crdi</td><td>AI</td><td>Competitive research grant</td><td class="num mono">1</td><td>commitment</td><td>reported</td><td>Active</td><td>CRDI (IDRC) — CITADEL AI research centre (Burkina Faso), 2025</td><td class="wrapcell">&quot;Le Centre d&#x27;excellence en Intelligence Artificielle pour le Développement (CITADEL) vient de recevoir un financement compétitif international d&#x27;1 million de dollars canadiens … octroyé par le Centre de Recherches pour le Développement International (CRDI) … Oui, une version 2 (CITADEL 2.0) débute en Avril 2025, clairement orientée Recherche/Action.&quot;</td><td>Research institution</td><td>CITADEL / Université Virtuelle du Burkina Faso</td><td>CAD ≈1,000,000 (CITADEL 2.0)</td><td></td><td></td><td><a href="https://lefaso.net/spip.php?article137461">lefaso.net</a></td><td>crdi</td><td>2025-01-01-crdi-bfa-2025-citadel-ai-research-bw03</td></tr>
-<tr><td>BFA</td><td class="num mono">2024</td><td class="num mono">2028</td><td>World Bank</td><td>Connectivity</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">150</td><td>commitment</td><td>exact</td><td>Active</td><td>Burkina Faso Digital Acceleration Project</td><td class="wrapcell">Accelerates digital economy development in Burkina Faso through improved broadband access, digital government services, digital financial services, and digital entrepreneurship support.</td><td>Government</td><td>Burkina Faso</td><td></td><td>P177022</td><td>44000-P177022</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P177022">projects.worldbank.org</a></td><td>world-bank</td><td>2024-01-23-wb-bfa-001-burkina-faso-digital-acceleration-project</td></tr>
-<tr><td>BFA</td><td class="num mono">2022</td><td class="num mono"></td><td>Orange Burkina Faso</td><td>Connectivity</td><td>Public-private partnership</td><td class="num mono">21</td><td>commitment</td><td>reported</td><td></td><td>Orange Burkina Faso — white-zones mobile coverage PPP (phase 1), 2022</td><td class="wrapcell">Under a public-private partnership run by the regulator ARCEP, Orange Burkina Faso was awarded (by tender) implementation of phase 1 of the white-zones (&quot;zones blanches&quot;) coverage programme, installing 183 mobile sites (each ~6 km range) that newly covered about 300 of the 11,000 white zones nationally. ARCEP president Tontama Charles Millogo stated &quot;L&#x27;opérateur a supporté à plus de 60% le coût&quot;; project chief Soumanan Sanou put the phase-1 cost at &quot;un peu plus de 13 milliards F CFA.&quot;</td><td>Public-private partnership</td><td>ARCEP &quot;Service universel&quot; white-zones programme</td><td>XOF ≈13,000,000,000 (phase 1 total cost)</td><td></td><td></td><td><a href="https://www.sidwaya.info/couverture-du-burkina-faso-en-reseau-mobile-environ-300-zones-blanches-rayees-de-la-carte/">sidwaya.info</a></td><td>orange-burkina-faso</td><td>2022-01-01-orange-burkina-faso-bfa-2022-white-zones-mobile-coverage-ppp-bw01</td></tr>
-<tr><td>BFA</td><td class="num mono">2021</td><td class="num mono">2025</td><td>Enabel</td><td>Digital divides</td><td>Grant</td><td class="num mono">3</td><td>commitment</td><td>exact</td><td>Closed</td><td>Digital for Girls and Women \u2014 Burkina Faso</td><td class="wrapcell">D4GW-BFA (Digital for Girls and Women) project aims to give women and men equal opportunities to participate in and contribute to a digital economy. Implemented by Enabel in Burkina Faso (component of a multi-country programme also covering Belgium and Uganda). Budget EUR 2.25M, 2021-2025. Promotes inclusive, rights-based digital transformation including digital skills, digital rights awareness, and gender-sensitive digital policies.</td><td>Government</td><td></td><td>EUR 2,250,000</td><td>BFA22005</td><td>BE-BCE_KBO-0264814354-BFA22005</td><td><a href="https://open.enabel.be/en/evaluation/23/download/96">open.enabel.be</a></td><td>enabel</td><td>2021-01-01-enabel-bfa-d4gw-2021-digital-for-girls-and-women-burkina</td></tr>
-<tr><td>BFA</td><td class="num mono">2021</td><td class="num mono">2026</td><td>United Nations Development Programme (UNDP)</td><td>Training and skills</td><td>Grant</td><td class="num mono">2</td><td>commitment</td><td>exact</td><td>Active</td><td>Transformation digitale inclusive pour acc\u00e9l\u00e9rer les progr\u00e8s vers les ODD (Burkina Faso)</td><td class="wrapcell">Inclusive digital transformation to accelerate progress towards the SDGs in Burkina Faso. Covers digital inclusion, ICT policy, digital economy, and digital skills. Supports Burkina Faso&#x27;s national digital transformation strategy.</td><td>Government</td><td>Government of Burkina Faso</td><td></td><td>125521</td><td>XM-DAC-41114-OUTPUT-00125521</td><td><a href="https://open.undp.org/projects/00125521">open.undp.org</a></td><td>undp</td><td>2021-01-01-undp-bfa-inclusive-digital-2021-transformation-digitale-inclusive-pour-accelerer-les</td></tr>
-<tr><td>BFA</td><td class="num mono">2021</td><td class="num mono"></td><td>Export-Import Bank of China (China Eximbank)</td><td>ICT Industry</td><td>Concessional loan</td><td class="num mono">91</td><td>commitment</td><td>exact</td><td>Active</td><td>China Eximbank provides RMB 560 million government concessional loan for Smart Burkina Faso Project</td><td class="wrapcell">On September 29, 2020, China Eximbank and the Government of Burkina Faso’s Ministry of Security signed an RMB 560 million government concessional loan (GCL) agreement [CHINA EXIMBANK GCL NO (2020) 7 TOTAL NO (699)] for the Smart Burkina Faso Project. The GCL carries a 20-year maturity, a 5-year grace period, and a 1% interest rate. The borrower is expected to used the proceeds of the loan to finance a $80 million (CFA 52,301,810,024) commercial contract (ID# 0Y08541900000) between Burkina Faso&#x27;s Ministry of Security, Huawei Technologies Co, Ltd and China International Telecommunication Construction Corporation.   The purpose of the project is to establish a 650 kilometer fiber optic backbone network that connects various cities and localities in Burkina Faso, establish a 150 kilometer fiber optic network that connects other cities and localities in Burkina Faso, and strengthen public security by installing 900 surveillance cameras and 300 video surveillance sites. Huawei Technologies Co, Ltd and China International Telecommunication Construction Corporation are the contractors responsible for project implementation.  The project officially commenced on July 8, 2021 and it is expected to reach completion within 54 months (January 8, 2026).</td><td>Government</td><td>Burkina Faso Minister of Security</td><td>CNY 560,000,000</td><td>aiddata-gcdf3-86748</td><td></td><td><a href="https://www.imf.org/en/Publications/CR/Issues/2019/01/22/Burkina-Faso-2018-Article-IV-Consultation-First-Review-Under-the-Extended-Credit-Facility-46533">imf.org</a></td><td>china-eximbank</td><td>2020-01-01-eximbank-cn-bfa-002-china-eximbank-provides-rmb-560-million</td></tr>
-<tr><td>BFA</td><td class="num mono">2019</td><td class="num mono">2026</td><td>World Bank</td><td>Digital Payments and Fintech</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">28</td><td>commitment</td><td>exact</td><td>Active</td><td>Burkina Faso Financial Inclusion Support Project \u2014 Digital Payments Component</td><td class="wrapcell">Component 1 ($28.3M of $100M total) of the Financial Inclusion Support Project supports digitization of government payments and digital transformation of microfinance services. Includes G2P digitization, digital financial service channels, and digital MFI transformation in Burkina Faso.</td><td>Government</td><td></td><td></td><td>P164786</td><td></td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P164786">projects.worldbank.org</a></td><td>world-bank</td><td>2019-04-30-wb-bfa-003-burkina-faso-financial-inclusion-support-project</td></tr>
-<tr><td>BFA</td><td class="num mono">2017</td><td class="num mono">2021</td><td>Bank of China</td><td>Connectivity</td><td>Commercial loan</td><td class="num mono">87</td><td>commitment</td><td>exact</td><td>Closed</td><td>Bank of China provides $77.35 million buyer\u2019s credit loan for Phase 1 of National Telecommunications Backbone Project (PBNT)</td><td class="wrapcell">On June 20, 2019, the Shenzhen Branch of Bank of China and the Government of Burkina Faso signed a $77.35 million buyer&#x27;s credit loan agreement for Phase 1 of the National Telecommunications Backbone Project (PBNT). Then, on October 2, 2019, the Government of Burkina Faso authorized the ratification of the credit agreement. The loan carries the following borrowing terms: a 12-year maturity, a 3-year grace period, an interest rate of 6-month LIBOR plus a 2.5% margin, a management fee of 4%, a commitment fee of 0.8%. The loan is also backed by a Sinosure buyer’s credit insurance policy. The total cost of the buyer&#x27;s credit insurance premium $6,843,413.73. Bank of China reportedly agreed to provide 60% of the funding needed for the first phase of PBNT while the other 40% would be provided by BNP Paribas. However, on October 8, 2019, the BNP Paribas announced that it was no longer involved in this project. The borrower was expected to use the proceeds of the Bank of China loan to partially finance a commercial contract that it signed with Huawei Technologies Co., Ltd.  in July 2014.   The purpose of the project is to construct a 307-kilometer fiber optic network linking the capital Ouagadougou and the city of Po, near the Ghanaian border. This fiber optic ‘backbone’ will have a capacity of 1,600 gigabits per second and will ten municipalities. It is parter of a larger, EUR 175 million program to provide 5,740 km of fiber optic coverage in Burkina Faso, at a cost of 175 million euros. Construction began on December 10, 2017.  Phase 1 was completed and officially inaugurated on October 26, 2021.</td><td>Government</td><td>Government of Burkina Faso</td><td></td><td>aiddata-gcdf3-60072</td><td></td><td><a href="https://www.jeuneafrique.com/593265/politique/ambassade-de-chine-au-burkina-pekin-resserre-sa-cooperation-avec-ouagadougou/">jeuneafrique.com</a></td><td>bank-of-china</td><td>2019-01-01-boc-bfa-001-bank-of-china-provides-7735-million</td></tr>
-<tr><td>BFA</td><td class="num mono">2016</td><td class="num mono">2022</td><td>World Bank</td><td>Other GovTech and e-Gov</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">30</td><td>commitment</td><td>exact</td><td>Closed</td><td>Burkina Faso Economic Governance, GovTech and Citizen Engagement Project</td><td class="wrapcell">Strengthens economic governance and citizen engagement in Burkina Faso through GovTech solutions, digital public services, and digital accountability tools.</td><td>Government</td><td>BURKINA FASO Ministry of Territorial Administration and Decentralization (MATD)</td><td></td><td>P155121</td><td>44000-P155121</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P155121">projects.worldbank.org</a></td><td>world-bank</td><td>2016-02-18-wb-bfa-002-burkina-faso-economic-governance-govtech-and</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="BFA-nonstate-2026-08-18.csv">BFA-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="BFA-nonstate-fields-2026-08-18.csv">BFA-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -109,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

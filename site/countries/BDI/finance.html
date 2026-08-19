@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,25 +57,22 @@
 
     <p>Every non-state commitment the base holds for Burundi, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="BDI-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Burundi &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">4 rows</span>
-        <a class="btn" href="BDI-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="BDI-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">4 rows</span>
+        <a class="btn" href="BDI-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="BDI-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>BDI</td><td class="num mono">2026</td><td class="num mono"></td><td>World Bank</td><td>Connectivity</td><td>Public-private partnership (PAFEN)</td><td class="num mono">10</td><td>commitment</td><td>reported</td><td>Active</td><td>World Bank &amp; Lumitel — Burundi PAFEN high-speed internet project, 2026</td><td class="wrapcell">&quot;On March 2, 2026, Lumitel signed the contract for the Project Support to Digital Economy Foundations (PAFEN) at the Ministry of Finance, Budget and Digital Economy headquarters.&quot; &quot;The project is a public-private partnership with a total investment exceeding $10 million, of which the World Bank contributes $4.37 million and Lumitel invests over $5.62 million.&quot; &quot;Over the next 14 months, the project will expand high-speed internet to 86 hills across 14 provinces, benefiting more than 400,000 citizens and connecting nearly 300 schools.&quot; The World Bank provides strategic guidance (reducing the digital divide, digital inclusion); the PAFEN unit coordinates; Lumitel handles technical design, deployment of 2G/4G equipment and operation.</td><td></td><td>Lumitel (operator, BDI)</td><td></td><td></td><td></td><td><a href="https://techafricanews.com/2026/03/04/lumitel-burundi-launches-10m-high-speed-internet-project-across-the-country/">techafricanews.com</a></td><td>world-bank</td><td>2026-01-01-world-bank-bdi-2026-burundi-pafen-lumitel-bw09</td></tr>
-<tr><td>BDI</td><td class="num mono">2024</td><td class="num mono">2028</td><td>World Bank</td><td>Other GovTech and e-Gov</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">42</td><td>commitment</td><td>exact</td><td>Active</td><td>Additional Financing to the Burundi Digital Foundations Project - Modernization of Public Financial Management</td><td class="wrapcell">Additional financing to expand and deepen Burundi&#x27;s digital foundations project, with emphasis on public financial management modernization.</td><td>Government</td><td>Republic of Burundi</td><td></td><td>P180987</td><td></td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P180987">projects.worldbank.org</a></td><td>world-bank</td><td>2024-01-10-wb-bdi-001-additional-financing-to-the-burundi-digital</td></tr>
-<tr><td>BDI</td><td class="num mono">2022</td><td class="num mono">2028</td><td>World Bank</td><td>Connectivity</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">50</td><td>commitment</td><td>exact</td><td>Active</td><td>Burundi Digital Foundations Project</td><td class="wrapcell">Establishes digital foundations in Burundi including broadband connectivity, digital government platforms, cybersecurity, and digital skills.</td><td>Government</td><td>Republic of Burundi</td><td></td><td>P176396</td><td>44000-P176396</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P176396">projects.worldbank.org</a></td><td>world-bank</td><td>2022-06-22-wb-bdi-002-burundi-digital-foundations-project</td></tr>
-<tr><td>BDI</td><td class="num mono">2021</td><td class="num mono">2029</td><td>World Bank</td><td>Digital Payments and Fintech</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">15</td><td>commitment</td><td>imputed</td><td>Active</td><td>Burundi Cash for Jobs Project \u2014 Digital Payment Delivery Component</td><td class="wrapcell">Digital payment delivery sub-component (~$15M imputed of $150M total) of the Burundi Cash for Jobs Project. Supports mobile money and digital transfer mechanisms for cash-for-work payments, including beneficiary registration systems with digital ID verification.</td><td>Government</td><td></td><td></td><td>P175327</td><td></td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P175327">projects.worldbank.org</a></td><td>world-bank</td><td>2021-12-14-wb-bdi-003-burundi-cash-for-jobs-project-digital</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="BDI-nonstate-2026-08-18.csv">BDI-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="BDI-nonstate-fields-2026-08-18.csv">BDI-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -104,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

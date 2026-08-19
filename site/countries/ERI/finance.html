@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,22 +57,22 @@
 
     <p>Every non-state commitment the base holds for Eritrea, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="ERI-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Eritrea &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">1 rows</span>
-        <a class="btn" href="ERI-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="ERI-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">1 rows</span>
+        <a class="btn" href="ERI-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="ERI-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>ERI</td><td class="num mono">2019</td><td class="num mono">2026</td><td>United Nations Development Programme (UNDP)</td><td>Strategies, plans and policies</td><td>Grant</td><td class="num mono">2</td><td>commitment</td><td>exact</td><td>Active</td><td>Economic &amp; Social Data Development Eritrea</td><td class="wrapcell">Produce and disseminate data on key economic indicators related to national accounts, and other key macroeconomic statistics in Eritrea. Strengthens national statistical capacity, data collection, processing, and dissemination systems. Core data infrastructure development.</td><td>Government</td><td>Government of Eritrea / National Statistics Office</td><td></td><td>99544</td><td>XM-DAC-41114-OUTPUT-00099544</td><td><a href="https://open.undp.org/projects/00099544">open.undp.org</a></td><td>undp</td><td>2019-01-01-undp-eri-data-stats-2019-economic-social-data-development-eritrea</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="ERI-nonstate-2026-08-18.csv">ERI-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="ERI-nonstate-fields-2026-08-18.csv">ERI-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -101,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

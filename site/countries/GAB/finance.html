@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,28 +57,22 @@
 
     <p>Every non-state commitment the base holds for Gabon, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="GAB-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Gabon &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">7 rows</span>
-        <a class="btn" href="GAB-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="GAB-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">7 rows</span>
+        <a class="btn" href="GAB-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="GAB-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>GAB</td><td class="num mono">2024</td><td class="num mono"></td><td>Huawei</td><td>Other GovTech and e-Gov</td><td>Memorandum of understanding</td><td class="num mono">234</td><td>commitment</td><td>reported</td><td>Pipeline</td><td>Huawei — Gabon smart-cities MoU, 2024</td><td class="wrapcell">&quot;Gabon also signed an MoU with Huawei for a smart cities project and other digital services; Gabon Media Time reports Huawei pledged to spend at least $234 million.&quot;</td><td>Government</td><td>Government of Gabon</td><td></td><td></td><td></td><td><a href="https://www.biometricupdate.com/202409/gabon-puts-digital-id-at-forefront-of-its-digital-transformation-journey">biometricupdate.com</a></td><td>huawei</td><td>2024-01-01-huawei-gab-2024-gabon-smart-cities-mou-bw01</td></tr>
-<tr><td>GAB</td><td class="num mono">2024</td><td class="num mono">2025</td><td>U.S. Department of State</td><td>Cybersecurity</td><td>Grant</td><td class="num mono">1</td><td>commitment</td><td>exact</td><td>Active</td><td>Cybersecurity in Gabon</td><td class="wrapcell">Cybersecurity capacity building and institutional strengthening in Gabon to strengthen national cybersecurity frameworks, build incident response capabilities, and improve digital resilience.</td><td>Government</td><td>Government of Gabon / Agence Nationale de l&#x27;Infrastructure Numérique et des Fréquences (ANINF)</td><td></td><td>SGB50025GR0014</td><td>US-GOV-11-SGB50025GR0014</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=US-GOV-11-SGB50025GR0014">d-portal.iatistandard.org</a></td><td>us-department-of-state</td><td>2024-01-01-state-gab-cybersecurity-gabon-2024-cybersecurity-in-gabon</td></tr>
-<tr><td>GAB</td><td class="num mono">2021</td><td class="num mono">2026</td><td>MIGA</td><td>Digital Payments and Fintech</td><td>Guarantee</td><td class="num mono">28</td><td>commitment</td><td>exact</td><td>Closed</td><td>Airtel Mobile Money Gabon \u2013 Digital Financial Services Guarantee</td><td class="wrapcell">MIGA political risk guarantee covering The Rise Fund II Aurora S.à r.l. (TPG private equity) equity investment in Airtel Mobile Commerce B.V.&#x27;s subsidiary providing Airtel Money digital financial services in Gabon. Services include mobile wallet (cash-in/cash-out), airtime recharging, bill payments, merchant payments; with international transfers, savings and microloans in some markets. Risks: war and civil disturbance, expropriation, transfer restriction and inconvertibility for up to 5 years.</td><td>Private sector</td><td>Airtel Mobile Commerce</td><td></td><td>MIGA-14896</td><td></td><td><a href="https://www.miga.org/project/airtel-mobile-commerce">miga.org</a></td><td>miga</td><td>2022-01-01-miga-gab-airtel-mobile-money-2022-airtel-mobile-money-gabon-digital-financial</td></tr>
-<tr><td>GAB</td><td class="num mono">2021</td><td class="num mono">2028</td><td>World Bank</td><td>Connectivity</td><td>IBRD loan — not concessional *(corrected from the source&#x27;s &quot;Concessional loan&quot;; World Bank portal records the commitment as IBRD)*</td><td class="num mono">68</td><td>commitment</td><td>exact</td><td>Active</td><td>Digital Gabon Project</td><td class="wrapcell">Supports Gabon&#x27;s digital economy transition through improved connectivity, digital government services, digital financial infrastructure, and ICT sector development.</td><td>Government</td><td>Gabonese Republic</td><td></td><td>P175987</td><td>44000-P175987</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P175987">projects.worldbank.org</a></td><td>world-bank</td><td>2021-07-30-wb-gab-001-digital-gabon-project</td></tr>
-<tr><td>GAB</td><td class="num mono">2017</td><td class="num mono">2023</td><td>World Bank</td><td>Strategies, plans and policies</td><td>IBRD loan — not concessional *(corrected from the source&#x27;s &quot;Concessional loan&quot;; World Bank portal records the commitment as IBRD)*</td><td class="num mono">50</td><td>commitment</td><td>exact</td><td>Closed</td><td>Gabon Statistical Development Project</td><td class="wrapcell">Strengthens statistical capacity of Gabon, fills key data gaps, improves statistical production, and enhances statistical dissemination practices. Supports national accounts modernization, welfare monitoring statistics, agricultural statistics, and dissemination platform development. Includes statistical agency infrastructure modernization and institutional reform of the national statistical system.</td><td>Government</td><td>Gabonese Republic</td><td></td><td>P157473</td><td>44000-P157473</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P157473">projects.worldbank.org</a></td><td>world-bank</td><td>2017-03-30-wb-gab-004-gabon-statistical-development-project</td></tr>
-<tr><td>GAB</td><td class="num mono">2016</td><td class="num mono">2020</td><td>World Bank</td><td>Connectivity</td><td>IBRD loan — not concessional *(corrected from the source&#x27;s &quot;Concessional loan&quot;; World Bank portal records the commitment as IBRD)*</td><td class="num mono">23</td><td>commitment</td><td>exact</td><td>Closed</td><td>Additional Financing CAB4</td><td class="wrapcell">Additional financing for Central African Backbone (CAB4) program extending broadband backbone infrastructure in Gabon and Central Africa.</td><td>Government</td><td></td><td></td><td>P158299</td><td></td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P158299">projects.worldbank.org</a></td><td>world-bank</td><td>2016-06-29-wb-gab-002-additional-financing-cab4</td></tr>
-<tr><td>GAB</td><td class="num mono">2016</td><td class="num mono">2026</td><td>World Bank</td><td>Other GovTech and e-Gov</td><td>IBRD loan — not concessional *(corrected from the source&#x27;s &quot;Concessional loan&quot;; World Bank portal records the commitment as IBRD)*</td><td class="num mono">56</td><td>commitment</td><td>exact</td><td>Active</td><td>eGabon</td><td class="wrapcell">Develops e-government infrastructure in Gabon including digital services, government data center, and digital administrative procedures.</td><td>Government</td><td>Republic of Gabon</td><td></td><td>P132824</td><td>44000-P132824</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P132824">projects.worldbank.org</a></td><td>world-bank</td><td>2016-06-03-wb-gab-003-egabon</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="GAB-nonstate-2026-08-18.csv">GAB-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="GAB-nonstate-fields-2026-08-18.csv">GAB-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -107,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

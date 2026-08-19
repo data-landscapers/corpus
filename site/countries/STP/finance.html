@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,23 +57,22 @@
 
     <p>Every non-state commitment the base holds for São Tomé and Príncipe, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="STP-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">São Tomé and Príncipe &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">2 rows</span>
-        <a class="btn" href="STP-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="STP-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">2 rows</span>
+        <a class="btn" href="STP-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="STP-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>STP</td><td class="num mono">2022</td><td class="num mono">2027</td><td>World Bank</td><td>Connectivity</td><td>IDA grant + GIF *(corrected from the source&#x27;s &quot;Concessional loan&quot;: the September 2025 aide-memoire describes the US$21.8m as an IDA grant plus GIF)*</td><td class="num mono">22</td><td>commitment</td><td>exact</td><td>Active</td><td>Digital Sao Tome and Principe</td><td class="wrapcell">Supports digital economy development in Sao Tome and Principe through improved connectivity, digital public services, and digital skills.</td><td>Government</td><td>Democratic Republic of S�o Tom� and Pr�ncipe</td><td></td><td>P177158</td><td>44000-P177158</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P177158">projects.worldbank.org</a></td><td>world-bank</td><td>2022-06-15-wb-stp-001-digital-sao-tome-and-principe</td></tr>
-<tr><td>STP</td><td class="num mono">2017</td><td class="num mono">2027</td><td>African Development Bank (AfDB)</td><td>Digital Payments and Fintech</td><td>Grant</td><td class="num mono">3</td><td>commitment</td><td>rounded</td><td>Active</td><td>S\u00e3o Tom\u00e9 and Principe - Payments System Infrastructure and Financial Inclusion Project</td><td class="wrapcell">The Payment System and Financial Inclusion Infrastructure Project (PISPIF) aims to make the financial sector more competitive and expand financial inclusion, through the internationalization of the payment system, securing loans and improving the strategic framework and electronic payment instrument...</td><td>Government</td><td></td><td>XDR 2,400,000</td><td>P-ST-H00-002</td><td>46002-P-ST-H00-002</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=46002-P-ST-H00-002">d-portal.iatistandard.org</a></td><td>african-development-bank</td><td>2017-01-01-afdb-stp-001-sao-tome-and-principe---payments</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="STP-nonstate-2026-08-18.csv">STP-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="STP-nonstate-fields-2026-08-18.csv">STP-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -102,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

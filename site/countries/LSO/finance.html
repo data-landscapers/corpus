@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,25 +57,22 @@
 
     <p>Every non-state commitment the base holds for Lesotho, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="LSO-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Lesotho &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">2 rows</span>
-        <a class="btn" href="LSO-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="LSO-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">2 rows</span>
+        <a class="btn" href="LSO-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="LSO-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>LSO</td><td class="num mono">2026</td><td class="num mono"></td><td>Convalt Energy</td><td>Data Storage</td><td>**Binding Memorandum of Agreement** (supersedes an earlier non-binding MoU)</td><td class="num mono">6200</td><td>commitment</td><td>reported (government-stated; not in convalt&#x27;s own release — see notes)</td><td>Pipeline — binding, but subject to feasibility, financing, permitting, regulatory approvals and definitive agreements</td><td>Convalt Energy — Lesotho Kobong hydropower &amp; AI data centre, binding Memorandum of Agreement, 4 June 2026</td><td class="wrapcell">At least **1,200MW** of renewable pumped-storage hydropower in the **Kobong region, Mokhotlong District**, with an integrated green-powered **AI data centre**. A wider partnership announced alongside extends to approximately **4.6GW of solar** (ground-mounted and floating) and up to **4GWh of battery storage** — these sit outside the M98bn agreement figure. Construction targeted for **2029**, subject to mandatory feasibility studies which Convalt is expected to fund. The Lesotho project company is expected to sit within **Convalt International**, a proposed entity to hold Convalt&#x27;s international assets.
-
-Scale, for context, as reported: Lesotho&#x27;s installed generation capacity is about **72MW** and domestic demand about **209MW**; in 2024 it imported **438 GWh** of **970 GWh** consumed, chiefly from Eskom and Mozambique. At 1,200MW the project would cover domestic demand and leave roughly **991MW** for export.</td><td></td><td>Ministry of Energy, Government of Lesotho / Project Kobong</td><td></td><td></td><td></td><td><a href="https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/">lesothotribune.co.ls</a></td><td>convalt-energy</td><td>2026-06-04-convalt-energy-lso-2026-ai-data-centre-mou-bw14</td></tr>
-<tr><td>LSO</td><td class="num mono">2019</td><td class="num mono">2026</td><td>African Development Bank (AfDB)</td><td>Other GovTech and e-Gov</td><td>Commercial loan</td><td class="num mono">14</td><td>commitment</td><td>rounded</td><td>Active</td><td>Lesotho - eGovernment Infrastructure Phase II</td><td class="wrapcell">The second phase of the eGovernment Infrastructure Project is designed to drive digital finance and financial inclusion by improving access to reliable digital Services, particularly among citizens living in rural and unserved areas. This phase II is considered as a logical continuation of phase I, ...</td><td>Government</td><td></td><td>XDR 10,110,000</td><td>P-LS-GB0-003</td><td>46002-P-LS-GB0-003</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=46002-P-LS-GB0-003">d-portal.iatistandard.org</a></td><td>african-development-bank</td><td>2019-01-01-afdb-lso-001-lesotho---egovernment-infrastructure-phase-ii</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="LSO-nonstate-2026-08-18.csv">LSO-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="LSO-nonstate-fields-2026-08-18.csv">LSO-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -104,44 +102,6 @@ Scale, for context, as reported: Lesotho&#x27;s installed generation capacity is
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

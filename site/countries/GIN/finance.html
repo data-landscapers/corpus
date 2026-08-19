@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,26 +57,22 @@
 
     <p>Every non-state commitment the base holds for Guinea, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="GIN-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Guinea &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">5 rows</span>
-        <a class="btn" href="GIN-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="GIN-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">5 rows</span>
+        <a class="btn" href="GIN-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="GIN-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>GIN</td><td class="num mono">2025</td><td class="num mono"></td><td>Export-Import Bank of China (China Eximbank)</td><td>ICT Industry</td><td>Concessional loan</td><td class="num mono">54</td><td>commitment</td><td>exact</td><td>Active</td><td>Guinea Safe City Urban Surveillance and Security Project</td><td class="wrapcell">Concessional loan for deployment of urban surveillance and security management system across 324 sites in 8 Guinean cities, including CCTV cameras, command centers, and urban security management platforms.</td><td>Government</td><td>Government of Guinea / Ministry of Plan and International Cooperation</td><td>CNY 385,329,021</td><td></td><td></td><td><a href="https://enquete224.com/2026/03/14/securite-des-populations-le-gouvernement-guineen-prevoit-linstallation-de-324-sites-de-videosurveillance-dans-huit-villes/ https://cafradar.substack.com/p/guineas-new-safe-city-deal-pushes https://kytisa.com/projet-guinee-safe-city-le-president-promulgue-la-loi-autorisant-le-pret-de-lexim-bank-de-chine-decret/ https://www.africaguinee.com/securite-urbaine-un-pret-chinois-de-54-millions-de-dollars-valide-par-le-president-mamadi-doumbouya/">enquete224.com</a></td><td>china-eximbank</td><td>2025-01-01-eximbank-cn-gin-001-guinea-safe-city-urban-surveillance-and</td></tr>
-<tr><td>GIN</td><td class="num mono">2023</td><td class="num mono">2029</td><td>MIGA</td><td>Digital Payments and Fintech</td><td>Guarantee</td><td class="num mono">27</td><td>commitment</td><td>exact</td><td>Active</td><td>Orange Finances Mobiles Guinee SA \u2013 Mobile Money Guarantee (Sonatel equity)</td><td class="wrapcell">MIGA guarantee covering Sonatel SA (Senegal) equity investment and retained earnings in Orange Finances Mobiles Guinee SA, the mobile money subsidiary in Guinea. Part of the combined Orange Guinea and Guinea Bissau guarantee (EUR 433.7M total). This tranche (PID 15192) covers $26.5M for the mobile money operations. Risks: Expropriation, War and Civil Disturbance, Transfer Restrictions &amp; Currency Inconvertibility. Issued August 2023 (FY2024).</td><td>Private sector</td><td>Orange Finances Mobiles Guinee SA</td><td></td><td>MIGA-15192</td><td></td><td><a href="https://www.miga.org/project/orange-guinea-and-guinea-bissau">miga.org</a></td><td>miga</td><td>2024-01-01-miga-gin-orange-finance-mobile-guinea-2024-orange-finances-mobiles-guinee-sa-mobile</td></tr>
-<tr><td>GIN</td><td class="num mono">2023</td><td class="num mono">2029</td><td>MIGA</td><td>Connectivity</td><td>Guarantee</td><td class="num mono">373</td><td>commitment</td><td>exact</td><td>Active</td><td>Orange Guinea \u2013 Telecoms Operator Guarantee (Sonatel equity)</td><td class="wrapcell">MIGA guarantee of EUR 366.33 million (~$399.7M USD at Dec 2023 rates) issued December 18, 2023, to Sonatel SA (Senegal) covering its equity investments and retained earnings in Orange Guinee SA (telecom subsidiary in Guinea) and Orange Finances Mobiles Guinee SA (mobile money subsidiary). Covers risks of Expropriation, War and Civil Disturbance, and Transfer Restrictions &amp; Currency Inconvertibility for 6 years. Supported by IDA PSW shared first-loss facility. This row covers the Orange Guinee SA (telecoms) component (PID 14395, $373.2M USD).</td><td>Private sector</td><td>Orange Guinee SA</td><td>EUR 366,330,000</td><td>MIGA-14395</td><td></td><td><a href="https://www.miga.org/project/orange-guinea-and-guinea-bissau">miga.org</a></td><td>miga</td><td>2024-01-01-miga-gin-orange-guinea-2024-orange-guinea-telecoms-operator-guarantee-sonatel</td></tr>
-<tr><td>GIN</td><td class="num mono">2023</td><td class="num mono">2028</td><td>USAID</td><td>Innovation ecosystem</td><td>Grant</td><td class="num mono">29</td><td>commitment</td><td>exact</td><td>Active</td><td>Notre Sant\u00e9 - Guinea (Digital Health)</td><td class="wrapcell">USAID Guinea Notre Santé health program with significant digital health components supporting national health information systems, DHIS2 implementation, and health data governance.</td><td>Government</td><td></td><td></td><td></td><td>US-GOV-1-72067523CA00001</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=US-GOV-1-72067523CA00001">d-portal.iatistandard.org</a></td><td>usaid</td><td>2023-01-01-usaid-gin-notre-sant--guinea-2023-notre-sante---guinea-digital-health</td></tr>
-<tr><td>GIN</td><td class="num mono">2023</td><td class="num mono"></td><td>World Bank</td><td>Connectivity</td><td>IDA credit</td><td class="num mono">60</td><td>commitment</td><td>reported</td><td>Approved</td><td>World Bank — WARDIP SOP1, Guinea, 2023</td><td class="wrapcell">Guinea&#x27;s national allocation under the Digital Transformation for Africa / Western Africa Regional Digital Integration Program (DTfA/WARDIP) Series of Projects 1 (PAD4756, Operation ID P176932, 7 November 2023): &quot;IN THE AMOUNT OF US$60.0 MILLION TO THE REPUBLIC OF GUINEA&quot; as an IDA credit. The SOP raises broadband access and usage and advances the West African single digital market. Implementing agency: Ministère de la Poste, des Télécommunications et de l&#x27;Économie Numérique (MPTEN).</td><td>Government</td><td>Republic of Guinea</td><td></td><td>P176932</td><td></td><td><a href="https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf">documents1.worldbank.org</a></td><td>world-bank</td><td>2023-01-01-world-bank-gin-2023-wardip-sop1-guinea-bw01</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="GIN-nonstate-2026-08-18.csv">GIN-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="GIN-nonstate-fields-2026-08-18.csv">GIN-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -105,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

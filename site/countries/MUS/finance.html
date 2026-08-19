@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,23 +57,22 @@
 
     <p>Every non-state commitment the base holds for Mauritius, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="MUS-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Mauritius &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">2 rows</span>
-        <a class="btn" href="MUS-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="MUS-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">2 rows</span>
+        <a class="btn" href="MUS-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="MUS-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>MUS</td><td class="num mono">2024</td><td class="num mono"></td><td>FMO</td><td>Digital Payments and Fintech</td><td>Equity</td><td class="num mono">10</td><td>commitment</td><td>exact</td><td>Active</td><td>FIDO Fintech Digital Credit Series B Ghana Uganda Expansion</td><td class="wrapcell">MASSIF USD 10M direct equity investment in FIDO&#x27;s Series B capital raise. FIDO is a bottom-of-pyramid digital credit fintech operating in Ghana and Uganda, expanding to new African markets. Provides instant digital loans via mobile app with AI-based credit scoring.</td><td>Private sector</td><td>FIDO Micro Credit Ltd</td><td></td><td>fmo-NL-KVK-27078545-FIAD0002369</td><td>NL-KVK-27078545-FIAD0002369</td><td><a href="https://www.iatistandard.org/en/">iatistandard.org</a></td><td>fmo</td><td>2024-01-01-fmo-mus-fido-fintech-digital-credit-2024-fido-fintech-digital-credit-series-b</td></tr>
-<tr><td>MUS</td><td class="num mono">2018</td><td class="num mono"></td><td>Export-Import Bank of China (China Eximbank)</td><td>ICT Industry</td><td>Buyer&#x27;s credit</td><td class="num mono">80</td><td>commitment</td><td>exact</td><td>Active</td><td>China Eximbank provides $73.7 million preferential buyer\u2019s credit for Safe City Project</td><td class="wrapcell">In 2015, Huawei Technologies Co., Ltd. submitted an unsolicited bid to the Government of Mauritius to implement a Safe City Project (SCP). Then, on April 1, 2018, China Eximbank and Mauritius Telecom Ltd — a minority state-owned telecommunications company in Mauritius — signed a preferential buyer’s credit (PBC) agreement worth $73,687,000 for the Safe City Project. The PBC carries a 2% interest rate, a 20-year maturity, and a 7-year grace period.   The Government of Mauritius issued a sovereign guarantee for the loan. The borrower was expected to use the proceeds of the loan to partially finance the cost of commercial contract with Huawei Technologies Co., Ltd., which was signed in December 2017. The loan’s outstanding amount was $22,349,375 on June 30, 2018, $58,963,735 on December 31, 2019, $62,730,781 on December 31, 2020, and $65,050,841 on June 30, 2021.   The Safe City Project involved the installation a CCTV Smart Camera Surveillance System, a Multimedia Radio Trunking System, a Central Watch and Management System, an Integrated Emergency Response Management System, and an Intelligent Command System to enable the Police Department to obtain better intelligence with a view to optimizing responses. The original project scope also included the provision and installation of 4,000 ‘smart cameras’ (intelligent surveillance cameras) in major public areas — specifically, along main roads and motorways, pedestrian walkways and traffic centers — 500 trunking smart handsets, 500 trunking vehicle radios, 4,500 smartphones, and 150 fixed desktop terminals to provide an ‘umbrella’ for public safety in Mauritius. The project’s stated objective was to enhance the security and safety of the public. Police stations in Cote d’Or, St Pierre, La Gaulette, Poudre d’Or, St Pierre and Petit Gabriel in Rodrigues were expected beneficiaries of the equipment and technology.   Huawei Technologies Co., Ltd. was the contractor responsible for project implementation. On August 19, 2019, t</td><td>Government</td><td>Government of Mauritius</td><td></td><td>aiddata-gcdf3-55627</td><td></td><td><a href="http://mof.govmu.org/English/PublishingImages/2019/MOFED%20Annual%20Report%20-%20FY%202017-18.pdf">mof.govmu.org</a></td><td>china-eximbank</td><td>2018-01-01-eximbank-cn-mus-001-china-eximbank-provides-737-million-preferential</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="MUS-nonstate-2026-08-18.csv">MUS-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="MUS-nonstate-fields-2026-08-18.csv">MUS-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -102,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

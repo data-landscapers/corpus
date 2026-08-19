@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,29 +57,22 @@
 
     <p>Every non-state commitment the base holds for Zimbabwe, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="ZWE-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Zimbabwe &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">8 rows</span>
-        <a class="btn" href="ZWE-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="ZWE-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">8 rows</span>
+        <a class="btn" href="ZWE-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="ZWE-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>ZWE</td><td class="num mono">2026</td><td class="num mono"></td><td>UK FCDO</td><td>AI</td><td>Accountable grant</td><td class="num mono"></td><td></td><td>exact (ceiling as published)</td><td>Pipeline (expressions-of-interest stage)</td><td>UK FCDO -- Science and Technology Accelerator-Systems (STA-S), Southern Africa</td><td class="wrapcell">&quot;STA-S: Southern Africa is a 3-year programme worth up to GBP2.5 million, running to March 2030 and starting in the financial year 2026/2027, with up to GBP400,000 allocated for the year ending March 2027... The programme will focus on AI and emerging technologies, digital access and inclusion, climate and energy, health, space, and the wider policy, regulatory and institutional conditions... with a primary focus on South Africa and an initial focus on Zimbabwe and Zambia in Year 1.&quot; Contract signature is expected in 2026 following the EOI process (deadline extended to 26 August 2026).</td><td>Multi-partner consortium (not yet selected)</td><td>unspecified -- open call, not-for-profit-led consortium (South Africa primary; Zimbabwe, Zambia Year 1)</td><td>GBP up to 2,500,000 over 3 years (to March 2030); GBP up to 400,000 for FY2026/27</td><td>(not stated)</td><td></td><td><a href="https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme">gov.uk</a></td><td>uk-fcdo</td><td>2026-08-11-uk-fcdo-xsa-2026-sta-s</td></tr>
-<tr><td>ZWE</td><td class="num mono">2026</td><td class="num mono"></td><td>United Nations Development Programme (UNDP)</td><td>Other GovTech and e-Gov</td><td>Procurement contract award</td><td class="num mono">6</td><td>commitment</td><td>exact</td><td>Active</td><td>UNDP -- ICT equipment procurement contract award, Zimbabwe</td><td class="wrapcell">&quot;PRC0181912 - 500660-3 -- PROCUREMENT OF ICT Equipment TO ZIMBABWE - Outstanding Qty.&quot; Award date 10 August 2026, contract value USD5,947,948, reference 10578255. The awarded vendor is not confirmed in the fetched notice body (an unverified lead names DANOFFICE IT ApS); the recipient government entity is not separately named.</td><td>Government (ICT equipment supply)</td><td>unspecified</td><td>USD 5,947,948</td><td>PRC0181912 / 500660-3</td><td>(not stated)</td><td><a href="https://www.ungm.org/Public/ContractAward/158535">ungm.org</a></td><td>undp</td><td>2026-08-10-undp-zwe-2026-ict-equipment</td></tr>
-<tr><td>ZWE</td><td class="num mono">2023</td><td class="num mono">2027</td><td>Sida</td><td>Training and skills</td><td>Grant</td><td class="num mono">3</td><td>commitment</td><td>rounded</td><td>Active</td><td>Plan International Digital Skills 4 Youth 2023-2026 (Zimbabwe)</td><td class="wrapcell">Plan International Digital Skills for Youth (DS4Y) programme 2023-2026 in Zimbabwe. Equips young people with digital literacy, coding and employability skills to access digital jobs and entrepreneurship opportunities. Targets youth including girls in secondary and vocational education settings.</td><td>Government</td><td></td><td>SEK 36,000,000</td><td></td><td>SE-0-SE-6-15406</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=SE-0-SE-6-15406">d-portal.iatistandard.org</a></td><td>sida</td><td>2023-01-01-sida-zwe-plan-digital-skills-youth-2023-plan-international-digital-skills-4-youth</td></tr>
-<tr><td>ZWE</td><td class="num mono">2021</td><td class="num mono"></td><td>Export-Import Bank of China (China Eximbank)</td><td>Connectivity</td><td>Concessional loan</td><td class="num mono">79</td><td>commitment</td><td>exact</td><td>Active</td><td>China Eximbank provides RMB 485 million government concessional loan for Phase 3 of NetOne Expansion Project (Linked to Project ID#62426, #62416, #62417)</td><td class="wrapcell">On June 1, 2010, China Eximbank and the Government of Zimbabwe signed an RMB 315 million government concessional loan (GCL) agreement for Phase 1 of the NetOne Expansion Project (captured via Project ID#62416). Zimbabwe’s President Robert Mugabe and Wang Gang, a member of the Political Bureau of the CPC Central Committee, witnessed the signing of the loan agreement. The Phase 1 GCL carried the following borrowing terms: a 20 year maturity and a 5 year grace period. However, according to the the 2018 and 2019 Blue Book Estimates of Revenue and Expenditure published by Zimbabwe’s Ministry of Finance and Economic Development, its face value was later revised to RMB 286,080,176.66. The Phase 1 GCL’s amount outstanding (including principal, interest, and arrears) was $42,068,995.10 as of 2021. The Chinese Government also provided an RMB 50 million grant for Phase 1, which is captured via Project ID#62417.    The purpose of Phase 1 was to facilitate the country’s transition to second generation (2G) and third generation (3G) phone technology by expanding the coverage and capacity of NetOne’s network and more than doubling its subscriber base. NetOne Zimbabwe is a company that is wholly owned by the Zimbabwean government. It is one of three mobile phone operators in the country. It used the proceeds of the Phase 1 GCL to purchase equipment from Huawei Technologies and implement network upgrades to wireless broadband stations, while expanding coverage to remote geographic areas lacking service. Its ultimate goal was to reach 7 million subscribers. During Phase 1, a Broadband and Ascot Packet Core Switching Centre in Bulawayo was completed and officially inaugurated on December 7, 2011. By 2012, NetOne had successfully launched mobile broadband and 3G service in Zimbabwe. The geographical areas of the country that received upgraded internet service during Phase 1 included the Southern Region, Matabeleland Province, and Midlands Province. These provinces were reportedly able</td><td>Government</td><td>Government of Zimbabwe</td><td>CNY 485,000,000</td><td>aiddata-gcdf3-52620</td><td></td><td><a href="https://global.factiva.com/redir/default.aspx?P=sa&amp;an=MEWZII0020160805ec850005p&amp;cat=a&amp;ep=ASE">global.factiva.com</a></td><td>china-eximbank</td><td>2019-01-01-eximbank-cn-zwe-002-china-eximbank-provides-rmb-485-million</td></tr>
-<tr><td>ZWE</td><td class="num mono">2018</td><td class="num mono"></td><td>China Ministry of Commerce</td><td>Data Storage</td><td>Grant</td><td class="num mono">17</td><td>commitment</td><td>exact</td><td>Active</td><td>Chinese Government provides RMB 100 million grant for Phase 2 of High-Performance Computing Center Project (linked to projects #62320, #62408)</td><td class="wrapcell">On December 6, 2017, the Chinese Government and the Government of Zimbabwe signed an RMB 100 million grant agreement for Phase 2 of the High-Performance Computing Center Project.  This purpose of this project was to increase the computational capacity of the supercomputer facility (high-performance computing center) at the University of Zimbabwe by nearly 10 times from 36 teraflops per second to over 300.  The project also involves the introduction of new technologies, such as cloud services and cloud computing. Inspur Group — China&#x27;s leading personal computer and server manufacturer — is the contractor responsible for implementation. Project implementation began in 2018.  The Chinese Government provided also provided a RMB 33 million interest-free loan for Phase 1 of this project in 2015, recorded in project #62320.  Another Chinese Government grant was provided in 2018, recorded in project #62408. The Chinese project title is 津巴布韦大学高性能计算中心第二阶段.</td><td>Government</td><td>Government of Zimbabwe</td><td>CNY 100,000,000</td><td>aiddata-gcdf3-62405</td><td></td><td><a href="https://www.crcc.cn/art/2017/12/8/art_549_689068.html">crcc.cn</a></td><td>china-ministry-of-commerce</td><td>2017-01-01-china-mofcom-zwe-002-chinese-government-provides-rmb-100-million</td></tr>
-<tr><td>ZWE</td><td class="num mono">2016</td><td class="num mono">2019</td><td>Export-Import Bank of China (China Eximbank)</td><td>Connectivity</td><td>Buyer&#x27;s credit</td><td class="num mono">111</td><td>commitment</td><td>exact</td><td>Closed</td><td>China Eximbank provides $98.6 million preferential buyer\u2019s credit for Phase 2 of TelOne Broadband Expansion Project</td><td class="wrapcell">On December 1, 2015, China Eximbank and the Government of Zimbabwe signed a $98,617,482 preferential buyer’s credit (PBC) agreement for Phase 2 of the TelOne Broadband Expansion Project. Then, on April 5, 2016, Zimbabwe’s Parliament ratified the PBC agreement. The PBC carries the following borrowing terms: a 2% interest rate, a 20-year maturity, a 5-year grace period, a 0.25% commitment fee, and a 0.25% management fee. The Government of Zimbabwe, in turn, used the proceeds of the PBC to on-lend to TelOne, a state-owned telecommunications company at a 5% interest rate. The ultimate borrower (TelOne) was expected to use the loan proceeds to finance 85% of the cost of its $116.8 million commercial contract with Huawei Technologies Co., Ltd. The remaining 15% was to be directly funded by TelOne. The guarantor of the loan is NetOne (Private) Limited.   The borrower is expected to maintain a minimum cash balance in an escrow account (debt service reserve account) at China Eximbank. The balance of the escrow account was $0 as of December 31, 2016, $4,341,790 as of December 31, 2017, $4,343,991 as of December 31, 2018, ZWL 220,015,319 as of December 31, 2019, ZWL 157,681,155 as of December 31, 2020, ZWL 720,123,439 as of December 31, 2021, and ZWL 1,294,710,690 as of December 31, 2022. In the event that the funds in the escrow account are insufficient to repay the interest and the principal of the loan, the PBC agreement indicates that the extra revenues from an escrow account that was set up for another China Eximbank-financed project (Phase 3 of NetOne Expansion Project, which is captured in Project ID#52620) will be used to settle the TelOne loan.   The borrower is responsible for making 30, equal semiannual repayments between January 21, 2022 and January 21, 2037. The first drawdown (disbursement) took place on March 14, 2017.  Total loan disbursements amounted to $78,630,649 in 2017 and $14,355,910 in 2018. As of September 2019, TelOne reported that the China Eximbank</td><td>Government</td><td>Government of Zimbabwe</td><td></td><td>aiddata-gcdf3-63462</td><td></td><td><a href="https://www.facebook.com/permalink.php?story_fbid=2059012574323134&amp;id=2049750908582634&amp;substory_index=0#">facebook.com</a></td><td>china-eximbank</td><td>2015-01-01-eximbank-cn-zwe-001-china-eximbank-provides-986-million-preferential</td></tr>
-<tr><td>ZWE</td><td class="num mono">2015</td><td class="num mono"></td><td>China Development Bank</td><td>Connectivity</td><td>Commercial loan</td><td class="num mono">337</td><td>commitment</td><td>exact</td><td>Approved</td><td>China Development Bank and ZTE Corporation provided $300 million loan to Econet Wireless Zimbabwe for ICT market consolidation and new services</td><td class="wrapcell">On December 4, 2015, China Development Bank and ZTE (中兴通讯) Corporation provided a $300 million loan to Econet Wireless Zimbabwe for ICT market consolidation and new services.  The terms of the loan and the breakdown of financing between the two financiers are unknown. According to a statement released by Econet Wireless, the parent group Econet Global secured a $500 million from China Development Bank and ZTE.  According to Douglas Mboweni, Econet Wireless Zimbabwe’s CEO, the loan was negotiated at the group level and $300 million from the $500 million facility will be channelled to Econet Zimbabwe.</td><td>Government</td><td>Econet Wireless Zimbabwe</td><td></td><td>aiddata-gcdf3-62603</td><td></td><td><a href="https://www.fin24.com/Tech/Mobile/econet-zim-to-get-300m-from-china-20151204">fin24.com</a></td><td>china-development-bank</td><td>2015-01-01-cdb-zwe-001-china-development-bank-and-zte-corporation</td></tr>
-<tr><td>ZWE</td><td class="num mono">2015</td><td class="num mono">2015</td><td>China Ministry of Commerce</td><td>Data Storage</td><td>Concessional loan</td><td class="num mono">6</td><td>commitment</td><td>exact</td><td>Closed</td><td>Chinese Government provides RMB 33 million interest-free loan for Phase 1 of High-Performance Computing Center Project (Linked to Project ID #62405, #62408)</td><td class="wrapcell">In 2015, the Chinese Government provided an RMB 33 million interest-free loan for Phase 1 of the High Performance Computing Center. This loan was originally intended for the 2015-2017 timeframe but was not actually distributed for unspecified reasons. Then, on April 3, 2018 during President Emmerson Mnangawa&#x27;s visit to China, the two sides signed bilateral cooperation agreements in the fields of economy and technology, agriculture, science and technology, and human resources development. At the time of signing, Zimbabwe was still processing paperwork related to the RMB 33 million transaction from 2015.   This project involved the installation of a supercomputer facility (high-performance computing center) at the University of Zimbabwe. The facility was expected to be used in agriculture, weather forecast, mining, gene technology, and stimulation, and support scientific research in Zimbabwe. The project also involved the training of dozens of Zimbabwean researchers on how to operate the supercomputer.   Inspur Group — China&#x27;s leading personal computer and server manufacturer — and Dameng were both involved in the implementation of the project.  On February 6, 2015, the project was officially completed and and handed over to the University of Zimbabwe.   In 2017, the Chinese Government supported Phase 2 of this project with an RMB 100 million grant (see Project ID #62405). Another Chinese Government grant was provided in 2018 (see Project ID #62408).</td><td>Government</td><td>Government of Zimbabwe</td><td>CNY 33,000,000</td><td>aiddata-gcdf3-62320</td><td></td><td><a href="http://www.china.org.cn/world/Off_the_Wire/2015-02/07/content_34758481.htm">china.org.cn</a></td><td>china-ministry-of-commerce</td><td>2015-01-01-china-mofcom-zwe-001-chinese-government-provides-rmb-33-million</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="ZWE-nonstate-2026-08-18.csv">ZWE-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="ZWE-nonstate-fields-2026-08-18.csv">ZWE-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -108,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

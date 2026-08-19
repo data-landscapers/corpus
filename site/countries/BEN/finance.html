@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,35 +57,22 @@
 
     <p>Every non-state commitment the base holds for Benin, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="BEN-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Benin &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">12 rows</span>
-        <a class="btn" href="BEN-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="BEN-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">12 rows</span>
+        <a class="btn" href="BEN-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="BEN-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>BEN</td><td class="num mono">2026</td><td class="num mono"></td><td>Global Affairs Canada</td><td>Innovation ecosystem</td><td>Grant (not explicitly stated)</td><td class="num mono"></td><td></td><td>exact</td><td>Approved</td><td>Global Affairs Canada -- digital transformation for women-led businesses, Benin</td><td class="wrapcell">&quot;Minister Anand announced a total of approximately $17 million in funding for seven projects in Benin and across West Africa: $5 million to support women-led businesses through digital transformation; $4 million for a project to strengthen the leadership and empowerment of women and girls; approximately $1 million to develop and scale sustainable, inclusive, and locally sourced school meal supplies; $1.5 million to reduce gender disparities in West Africa&#x27;s energy sector; $2 million for ordnance risk education and arms and ammunition management in border areas; $500,000 to strengthen regional border governance and security; and $3 million to advance international police cooperation in West Africa.&quot;
-
-No implementing organisation is named for the digital-transformation line specifically; the other six lines in the same package are out of scope (not digitally specific) and are not recorded here.</td><td>Women-led businesses (via unnamed implementing partner)</td><td>unspecified</td><td>CAD 5,000,000</td><td>(not stated)</td><td></td><td><a href="https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html">canada.ca</a></td><td>global-affairs-canada</td><td>2026-08-07-global-affairs-canada-ben-2026-digital-transformation</td></tr>
-<tr><td>BEN</td><td class="num mono">2026</td><td class="num mono">2027</td><td>BOAD</td><td>Other GovTech and e-Gov</td><td>Standard loan (IATI finance-type 421)</td><td class="num mono">32</td><td>commitment</td><td>stated</td><td>Implementation</td><td>Bénin – Projet d&#x27;appui à la digitalisation des services du Ministère de l&#x27;Economie et des Finances (MEF)</td><td class="wrapcell">Le projet a pour objet de réaliser : i) la modernisation et la mise en redondance du Data Center du Ministère de l&#x27;Economie et des Finances (MEF) ; ii) la modernisation du système d&#x27;information de La Poste du Bénin SA et iii) l&#x27;extension du Système de Gestion de l&#x27;Information du Financement du Développement (SGIFD) et du Système d&#x27;Information des Ressources Humaines (SIRH) de la DGFD.</td><td>Government ministry</td><td>Ministère de l&#x27;Economie et des Finances (MEF)</td><td>XOF 19,500,000,000 (commitment)</td><td></td><td>XM-DAC-46021-2026008</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=XM-DAC-46021-2026008">d-portal.iatistandard.org</a></td><td>boad</td><td>2026-05-19-iati-xm-dac-46021-2026008-benin-mef-digitalisation</td></tr>
-<tr><td>BEN</td><td class="num mono">2026</td><td class="num mono"></td><td>Japan (Government of Japan)</td><td>Use of satellite data</td><td>Grant</td><td class="num mono">2</td><td>commitment</td><td>reported</td><td></td><td>Japan — Benin malaria AI/geospatial project (TICAD), 2026</td><td class="wrapcell">&quot;Benin launched a $2.3 million Japanese-funded project that will combine artificial intelligence, drones and geospatial mapping to strengthen malaria prevention in six pilot municipalities.&quot; &quot;The government launched the Integrated Action for Malaria Prevention project in Cotonou on Tuesday, June 30. Japan is financing the initiative with $2.3 million.&quot; &quot;Geospatial mapping tools and artificial intelligence will analyze environmental data to identify areas with the highest risk of mosquito breeding,&quot; with drones then used to spray WHO-approved larvicides.</td><td></td><td>Government of Benin</td><td></td><td></td><td></td><td><a href="https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria">wearetech.africa</a></td><td>japan</td><td>2026-01-01-japan-ben-2026-malaria-ai-geospatial-bw14</td></tr>
-<tr><td>BEN</td><td class="num mono">2023</td><td class="num mono">2027</td><td>World Bank</td><td>Digital Payments and Fintech</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">10</td><td>commitment</td><td>imputed</td><td>Active</td><td>Benin Social Safety Nets Program \u2014 Digital Payment Infrastructure Component</td><td class="wrapcell">Digital payment and MIS sub-component (~$10M imputed of $100M total) of the Benin Social Safety Nets Program. Finances mobile money payment channels for direct cash transfers, beneficiary management systems, and digital targeting mechanisms for social protection delivery.</td><td>Government</td><td></td><td></td><td>P176680</td><td></td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P176680">projects.worldbank.org</a></td><td>world-bank</td><td>2023-03-24-wb-ben-002-benin-social-safety-nets-program-digital</td></tr>
-<tr><td>BEN</td><td class="num mono">2022</td><td class="num mono">2026</td><td>BMZ</td><td>Strategies, plans and policies</td><td>Grant</td><td class="num mono">7</td><td>commitment</td><td>exact</td><td>Active</td><td>BenInnovation - St\u00e4rkung der digitalen Transformation in Benin BenInnovation- Strengthening the digital tranformation in Benin</td><td class="wrapcell">Ausgangssituation:   Die Regierung Benins hat die Digitalisierung als einen wichtigen Hebel zur Beschleunigung des Wirtschaftswachstums identifiziert. Aus diesem Grund hat sie zahlreiche Reformen eingeleitet, um die Digitalbranche zu strukturieren und „Benin zur digitalen Plattform Westafrikas zu machen. Die Regierung hat bereits erfolgreich die digitale Infrastruktur verbessert, kompetente Institutionen aufgebaut und angemessene Regulierungsinstrumente geschaffen. Dennoch bleibt es eine Herausf</td><td>Government</td><td></td><td>EUR 6,500,000</td><td>DE-1-202122240</td><td>DE-1-202122240</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=DE-1-202122240">d-portal.iatistandard.org</a></td><td>bmz</td><td>2022-01-01-bmz-ben-001-beninnovation---starkung-der-digitalen-transformation</td></tr>
-<tr><td>BEN</td><td class="num mono">2022</td><td class="num mono">2026</td><td>BMZ</td><td>ICT Industry</td><td>Grant</td><td class="num mono">9</td><td>commitment</td><td>exact</td><td>Active</td><td>Support for small and medium-sized enterprises F\u00f6rderung kleiner und mittlerer Unternehmen in Benin</td><td class="wrapcell">Context:   Micro, small and medium-sized enterprises (MSMEs) in Benin have a hard time successfully expanding their business. They often lack knowledge relating to crucial topics such as business planning, product development, marketing and digitalisation. It is also difficult for companies to find and train suitable employees.  There are currently few support and advisory services for MSMEs, and the ones that do exist are often not very helpful. This means that it is hardly possible for busines</td><td>Government</td><td></td><td>EUR 9,000,000</td><td>DE-1-202120426</td><td>DE-1-202120426</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=DE-1-202120426">d-portal.iatistandard.org</a></td><td>bmz</td><td>2022-01-01-bmz-ben-002-support-for-small-and-medium-sized-enterprises</td></tr>
-<tr><td>BEN</td><td class="num mono">2022</td><td class="num mono">2026</td><td>United Nations Development Programme (UNDP)</td><td>ICT Industry</td><td>Grant</td><td class="num mono">3</td><td>commitment</td><td>exact</td><td>Active</td><td>timbuktoo - UAC Innovation Lab (Operationalisation Initiative Timbuktoo, Benin)</td><td class="wrapcell">Le projet timbuktoo-UAC vise à repositionner l&#x27;Université d&#x27;Abomey-Calavi en tant qu&#x27;espace transformateur d&#x27;innovation. Establishes digital innovation and technology research module at UAC, with prototyping labs, tech incubation, entrepreneurship ecosystem. Part of UNDP Africa&#x27;s timbuktoo initiative.</td><td>Government</td><td>University of Abomey-Calavi (UAC)</td><td></td><td>143966</td><td>XM-DAC-41114-OUTPUT-00131875</td><td><a href="https://open.undp.org/projects/00143966">open.undp.org</a></td><td>undp</td><td>2022-01-01-undp-ben-timbuktoo-uac-2022-timbuktoo---uac-innovation-lab-operationalisation</td></tr>
-<tr><td>BEN</td><td class="num mono">2022</td><td class="num mono"></td><td>Export-Import Bank of China (China Eximbank)</td><td>Connectivity</td><td>Concessional loan</td><td class="num mono">38</td><td>commitment</td><td>estimated</td><td>Active</td><td>National Broadband Network Densification Project Phase 2 (PDI2T Phase 2)</td><td class="wrapcell"></td><td>Government</td><td>Agence du Numerique (ADN)</td><td>CNY 265,000,000</td><td></td><td></td><td><a href="https://www.gouv.bj/article/1464/cooperation-sino-beninoise-benin-decroche-22-milliards-densification-reseau-haut-debit/ https://china.aiddata.org/projects/58955/">gouv.bj</a></td><td>china-eximbank</td><td>2021-01-01-press-chn-ben-2021-001-national-broadband-network-densification-project-phase</td></tr>
-<tr><td>BEN</td><td class="num mono">2019</td><td class="num mono">2025</td><td>World Bank</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">100</td><td>commitment</td><td>exact</td><td>Active</td><td>Digital Rural Transformation Project</td><td class="wrapcell">Supports digital rural transformation in Benin through digital agricultural services, rural broadband, digital financial inclusion, and digital skills.</td><td>Government</td><td>Republic of Benin</td><td></td><td>P162599</td><td>44000-P162599</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P162599">projects.worldbank.org</a></td><td>world-bank</td><td>2019-07-01-wb-ben-001-digital-rural-transformation-project</td></tr>
-<tr><td>BEN</td><td class="num mono">2019</td><td class="num mono">2023</td><td>Enabel</td><td>ICT Industry</td><td>Grant</td><td class="num mono">1</td><td>commitment</td><td>rounded</td><td>Closed</td><td>DigiBoost Benin \u2014 Appui au secteur du num\u00e9rique \u00e0 travers des subventions</td><td class="wrapcell">Projet DigiBoost: supports Benin&#x27;s digital sector ecosystem by strengthening and consolidating support structures for digital startups and SMEs. Part of &#x27;Projet d&#x27;appui à la compétitivité de l&#x27;Afrique de l&#x27;Ouest - Volet Benin&#x27;. Provides grants, capacity building and technical support to digital innovation structures. Belgium-financed, implemented by Enabel. Start 2019, closed 2023.</td><td>Government</td><td></td><td>EUR 1,298,961</td><td>BEN170321T</td><td>BE-BCE_KBO-0264814354-BEN170321T</td><td><a href="https://iatiregistry.org/publisher/be-bce_kbo-0264814354">iatiregistry.org</a></td><td>enabel</td><td>2019-01-01-enabel-ben-digiboost-2019-digiboost-benin-appui-au-secteur-du</td></tr>
-<tr><td>BEN</td><td class="num mono">2017</td><td class="num mono">2023</td><td>Millennium Challenge Corporation</td><td>ICT Industry</td><td>Grant</td><td class="num mono">31</td><td>commitment</td><td>rounded</td><td>Closed</td><td>Benin Power Compact \u2014 National Electricity Dispatch Activity (National Distribution Control Center)</td><td class="wrapcell">MCC&#x27;s $391M Benin Power Compact (signed September 2015, entered force June 2017, closed June 2023) included the National Electricity Dispatch Activity ($31.4M), which financed construction of a national electricity distribution dispatch and control center in Akassato, Abomey-Calavi. The center was inaugurated on 22 June 2023. This is the first national dispatch center in Benin, providing centralised supervisory monitoring and remote control of 41 substations across the national distribution grid. Functions include real-time grid supervision, remote switching, fault detection and dispatch — SCADA-type operational technology. The center connects to the national medium-voltage network to reduce outages, improve reliability, and enable smarter grid management. This was part of the Electricity Distribution Project, alongside the Cotonou Grid Strengthening Activity ($145.3M) and Regional Grid Strengthening Activity ($80.6M).</td><td>Government</td><td>Société Béninoise d&#x27;Energie Electrique (SBEE), Government of Benin / MCA-Benin II</td><td></td><td>ben-national-dispatch-activity</td><td></td><td><a href="https://assets.mcc.gov/content/uploads/benin-power-compact-kpi.pdf">assets.mcc.gov</a></td><td>mcc</td><td>2015-01-01-mcc-ben-dispatch-2015-benin-power-compact-national-electricity-dispatch</td></tr>
-<tr><td>BEN</td><td class="num mono">2016</td><td class="num mono">2018</td><td>Export-Import Bank of China (China Eximbank)</td><td>Connectivity</td><td>Concessional loan</td><td class="num mono">89</td><td>commitment</td><td>exact</td><td>Closed</td><td>China Eximbank provides RMB 496 million government concessional loan for Phase 1 of National Broadband Network Project (Linked to Project ID#91638)</td><td class="wrapcell">On April 7, 2015, China Eximbank and the Government of Benin signed an RMB 496 million government concessional loan (GCL) agreement [CHINA EXIMBANK GCL NO.35 (2014) TOTAL NO.(538) No. 1420103052015110579] for Phase 1 of National Broadband Network Project. This loan, which is captured via Project ID#58955, carried the following terms: a 20-year maturity, a 7-year grace period, a 2% interest rate, a 0% default (penalty) interest rate, a 0.25% management fee, and a 0.25% commitment fee. The borrower agreed to deposit project-related revenues in a special account to facilitate repayment. The borrower was expected to use the proceeds of the loan to finance a commercial contract between Benin Telecom S.A. and Huawei Technologies Co., Ltd., which was signed on August 5, 2014.   The purpose of the project was to expand access to high-speed internet, a fiber optic cable, and 4G technology by rehabilitating a 1060 km fiber optic backbone network that runs from Cotonou to Malanville, constructing a 222 km metropolitan fiber optic loop in Cotonou and surrounding areas, and deploying a 974 km high speed fiber optic broadband network with IMS/MPLS core. The project had six components: 1. Reinforcement of 2000 km of fiber optic cable called the ‘National Backbone’. 2. Building a metro network in Cotonou, comprised of almost 24 km of fiber optic cable. 3. Building a FTTx access network by modernizing sub-distributors of 125 Multi-Service Access Nodes (MSAN). 4. Modernizing a 230 km fiber optic cable line. 5. Creating 30 new 4G base stations. 6. Creating another IP Multimedia Subsystem core network. This project also involved the installation of 48 IP/MPLS routers to extend the IP BTS network. Huawei Technologies Co., Ltd. was the contractor responsible for implementation.   A formal groundbreaking ceremony for the project’s first phase was held on November 26, 2015. However, Phase 1 implementation did not commence until December 2016. By March 31, 2018, the project’s first phase ha</td><td>Government</td><td>Government of Benin</td><td>CNY 496,000,000</td><td>aiddata-gcdf3-58955</td><td></td><td><a href="https://www.fmprc.gov.cn/ce/cebenin/chn/zbgx/t1239853.htm">fmprc.gov.cn</a></td><td>china-eximbank</td><td>2015-01-01-eximbank-cn-ben-001-china-eximbank-provides-rmb-496-million</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="BEN-nonstate-2026-08-18.csv">BEN-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="BEN-nonstate-fields-2026-08-18.csv">BEN-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -114,44 +102,6 @@ No implementing organisation is named for the digital-transformation line specif
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

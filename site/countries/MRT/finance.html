@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,31 +57,22 @@
 
     <p>Every non-state commitment the base holds for Mauritania, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="MRT-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Mauritania &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">8 rows</span>
-        <a class="btn" href="MRT-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="MRT-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">8 rows</span>
+        <a class="btn" href="MRT-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="MRT-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>MRT</td><td class="num mono">2026</td><td class="num mono"></td><td>Islamic Development Bank (IsDB)</td><td>Strategies, plans and policies</td><td></td><td class="num mono">50</td><td>commitment</td><td>reported</td><td>Pipeline (principle agreement signed 14 April 2026; financing under negotiation)</td><td>Islamic Development Bank — Mauritania digital-transformation financing, 2026</td><td class="wrapcell">&quot;Mauritanian authorities are negotiating a **$50 million financing deal with the Islamic Development Bank (IsDB)** to support digital transformation; the two parties **signed a principle agreement on Tuesday, 14 April 2026**. The programme covers four areas: digital infrastructure and equipment; cybersecurity; interoperability and system modernisation; and digital skills, connectivity and innovation.&quot;</td><td></td><td>(unspecified</td><td></td><td></td><td></td><td><a href="https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal">wearetech.africa</a></td><td>islamic-development-bank</td><td>2026-01-01-islamic-development-bank-mrt-2026-mauritania-digital-transformation-bw11</td></tr>
-<tr><td>MRT</td><td class="num mono">2025</td><td class="num mono"></td><td>European Investment Bank (EIB)</td><td>Connectivity</td><td></td><td class="num mono">47</td><td>commitment</td><td>reported</td><td></td><td>EIB — Mauritania EllaLink submarine-cable connection, 2025</td><td class="wrapcell">&quot;President Mohamed Ould Cheikh El Ghazouani supervised, on Monday, in Nouadhibou, the launch of the project to connect to the international submarine cable &#x27;EllaLink&#x27;... The cable extends 669 km at sea within Mauritanian territorial waters, directly linking the country to internet networks in Europe and America.&quot;
-
-&quot;The total project cost, financed by the European Investment Bank and supported by the European Union, is estimated at more than €43.5 million, of which €25.6 million is allocated to execution and €17.9 million to maintenance over a 25-year period.&quot;</td><td>Government</td><td>(unspecified</td><td>EUR 43,500,000 (of which €25.6m execution, €17.9m maintenance over 25 years)</td><td></td><td></td><td><a href="https://ami.mr/fr/archives/276234">ami.mr</a></td><td>eib</td><td>2025-01-01-eib-mrt-2025-ellalink-submarine-cable-connection-bw04</td></tr>
-<tr><td>MRT</td><td class="num mono">2024</td><td class="num mono">2027</td><td>BMZ</td><td>Strategies, plans and policies</td><td>Grant</td><td class="num mono">4</td><td>commitment</td><td>exact</td><td>Active</td><td>Promotion of digital transformation (DIGITAL-Y) F\u00f6rderung der digitalen Transformation in Mauretanien - ProDIGIT</td><td class="wrapcell">Context:   Mauritanian society is mainly young, unemployed and affected by multidimensional poverty. Many people do not have sufficient access to public services, for example in the areas of health and education, and have limited employment prospects.  As a desert country with a small population in a fragile region, Mauritania also faces difficulties in attracting foreign investors and digital companies. To address the challenges in their country, the state and the digital sector are developing</td><td>Government</td><td></td><td>EUR 4,000,000</td><td>DE-1-202322394</td><td>DE-1-202322394</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=DE-1-202322394">d-portal.iatistandard.org</a></td><td>bmz</td><td>2024-01-01-bmz-mrt-001-promotion-of-digital-transformation-digital-y-forderung</td></tr>
-<tr><td>MRT</td><td class="num mono">2023</td><td class="num mono"></td><td>World Bank</td><td>Connectivity</td><td>IDA credit</td><td class="num mono">60</td><td>commitment</td><td>reported</td><td>Approved</td><td>World Bank — WARDIP SOP1, Mauritania, 2023</td><td class="wrapcell">Mauritania&#x27;s national allocation under the Digital Transformation for Africa / Western Africa Regional Digital Integration Program (DTfA/WARDIP) Series of Projects 1 (PAD4756, Operation ID P176932, 7 November 2023): &quot;SDR 45.7 MILLION (US$60.0 MILLION EQUIVALENT) TO THE ISLAMIC REPUBLIC OF MAURITANIA&quot; as an IDA credit. Implementing agency: Ministère de la Transition Numérique, de l&#x27;Innovation et de la Modernisation de l&#x27;Administration.</td><td>Government</td><td>Islamic Republic of Mauritania</td><td>XDR 45,700,000</td><td>P176932</td><td></td><td><a href="https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf">documents1.worldbank.org</a></td><td>world-bank</td><td>2023-01-01-world-bank-mrt-2023-wardip-sop1-mauritania-bw01</td></tr>
-<tr><td>MRT</td><td class="num mono">2022</td><td class="num mono"></td><td>European Investment Bank (EIB)</td><td>Connectivity</td><td>Concessional loan</td><td class="num mono">7</td><td>commitment</td><td>imputed</td><td>Active</td><td>MEDUSA SUBMARINE CABLE SYSTEM (SSA COMPONENT - MAURITANIA)</td><td class="wrapcell">MEDUSA (Mediterranean-Equatorial Digital United SEALINK for Africa) submarine cable system. EUR 38.5M EIB loan + EUR 40M EU investment grant. Cable connects Portugal to multiple African countries including Mauritania (SSA). Total cable EUR 342M. This record covers SSA-attributable portion (Mauritania landing). EIB backed with Neighbourhood Investment Platform grant from European Commission.</td><td>Private sector</td><td>Mauritania</td><td>EUR 7,000,000</td><td>20210166</td><td>XM-DAC-918-3-20210166-97191</td><td><a href="https://www.eib.org/en/projects/all/20210166">eib.org</a></td><td>eib</td><td>2022-01-01-eib-mrt-002-medusa-submarine-cable-system-ssa-component</td></tr>
-<tr><td>MRT</td><td class="num mono">2021</td><td class="num mono">2022</td><td>World Bank</td><td>Strategies, plans and policies</td><td>IDA development policy grant *(corrected from the source&#x27;s &quot;Concessional loan&quot;: programme document PGD146 records an IDA development policy grant of SDR 20.8m)*</td><td class="num mono">30</td><td>commitment</td><td>exact</td><td>Closed</td><td>Mauritania 2nd Second Private Sector, Digital, and Human Capital Reform DPF</td><td class="wrapcell">DPF supporting Mauritania&#x27;s private sector digital reforms, digital economy development, and human capital improvements.</td><td>Government</td><td>Islamic Republic of Mauritania</td><td></td><td>P171238</td><td></td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P171238">projects.worldbank.org</a></td><td>world-bank</td><td>2021-07-22-wb-mrt-001-mauritania-2nd-second-private-sector-digital</td></tr>
-<tr><td>MRT</td><td class="num mono">2021</td><td class="num mono"></td><td>China Ministry of Commerce</td><td>ICT Industry</td><td>Grant</td><td class="num mono">15</td><td>commitment</td><td>exact</td><td>Active</td><td>Chinese Government provides MUR 629.4 million grant \u2014 via ETCA \u2014 for Urban Security and Monitoring System Project</td><td class="wrapcell">In 2021, the Chinese Government and the Government of Mauritania signed a grant agreement worth 629,400,000 new ouguiyas (6.294 billion old ouguiyas) for the Urban Security and Monitoring System Project. The grant proceeds were drawn from an Economic and Technical Cooperation Agreement (ETCA), which was previously signed by the parties. The purpose of this project is to construct a new video surveillance system and a Unified Command Center for the General Directorate of National Security in the capital city of Nouakchott. The video surveillance system consists of 316 surveillance cameras that can extend to as many as 1,000 observation points. The command center consists of a two-storey building built on an area of ​​500 square meters, three buildings for three regional security services (in each of the wilayas of Nouakchott), and 34 police station observation posts (including 30 posts in Nouakchott and 4 posts at the entrances to Nouakchott). Zhejiang Post &amp; Telecommunication Construction Co., Ltd. (浙江省邮电工程建设有限公司) is the contractor responsible for implementation. A formal groundbreaking ceremony took place on May 4, 2021. The project was originally scheduled to begin implementation in April 2021 and reach completion in the second half of 2022.</td><td>Government</td><td>Government of Mauritania</td><td>MUR 629,400,000</td><td>aiddata-gcdf3-92077</td><td></td><td><a href="http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm">mr.china-embassy.org</a></td><td>china-ministry-of-commerce</td><td>2021-01-01-china-mofcom-mrt-001-chinese-government-provides-mur-6294-million</td></tr>
-<tr><td>MRT</td><td class="num mono">2020</td><td class="num mono">2025</td><td>European Investment Bank (EIB)</td><td>Connectivity</td><td>Commercial loan</td><td class="num mono">29</td><td>commitment</td><td>exact</td><td>Active</td><td>MAURITANIA COVID-19 RESILIENCE SUBMARINE CABLE</td><td class="wrapcell">EIB loan to finance the submarine cable connecting Mauritania directly to the global internet backbone. Provides first direct high-speed fibre optic link for Mauritania to Europe and West Africa, significantly increasing internet capacity and reducing costs. EUR 25M commitment, signed Dec 2020.</td><td>Private sector</td><td>Mauritania</td><td>EUR 25,000,000</td><td>20190635</td><td>XM-DAC-918-3-20190635-91501</td><td><a href="https://www.eib.org/en/projects/all/20190635">eib.org</a></td><td>eib</td><td>2020-01-01-eib-mrt-001-mauritania-covid-19-resilience-submarine-cable</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="MRT-nonstate-2026-08-18.csv">MRT-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="MRT-nonstate-fields-2026-08-18.csv">MRT-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -110,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

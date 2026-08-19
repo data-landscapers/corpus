@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,23 +57,22 @@
 
     <p>Every non-state commitment the base holds for Botswana, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="BWA-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Botswana &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">2 rows</span>
-        <a class="btn" href="BWA-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="BWA-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">2 rows</span>
+        <a class="btn" href="BWA-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="BWA-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>BWA</td><td class="num mono">2022</td><td class="num mono">2030</td><td>European Union</td><td>Strategies, plans and policies</td><td>Grant</td><td class="num mono">2</td><td>commitment</td><td>rounded</td><td>Active</td><td>EU support to digital transformation in Botswana</td><td class="wrapcell">The overall objective of the support measures is to contribute to the implementation of Botswana¿s development agenda and support EU ¿ Botswana partnership, by promoting dialogue, expertise exchange, communication activities and engagement with civil society, The Action includes two main components: (1) the Cooperation Facility (EUR 1 400 000) targeting capacity development of Government instituti</td><td>Government</td><td></td><td>EUR 1,500,000</td><td>2022600510</td><td>XI-IATI-EC_INTPA-2022-ACT-60893</td><td><a href="https://d-portal.org/ctrack.html#view=act&amp;aid=XI-IATI-EC_INTPA-2022-ACT-60893">d-portal.org</a></td><td>european-union</td><td>2022-01-01-ec-bwa-001-eu-support-to-digital-transformation-in</td></tr>
-<tr><td>BWA</td><td class="num mono">2015</td><td class="num mono">2015</td><td>Unspecified Chinese Government Institution</td><td>Other GovTech and e-Gov</td><td>Grant</td><td class="num mono">3</td><td>commitment</td><td>exact</td><td>Closed</td><td>Chinese Government donates video conferencing equipment to Botswana&#x27;s Ministry of Foreign Affairs and International Cooperation worth $2.8 million</td><td class="wrapcell">On May 22, 2015, China donated video conferencing equipment valued at about $2.8 million to Botswana&#x27;s Ministry of Foreign Affairs and International Cooperation. The equipment was supplied by Huawei and was installed at the ministry headquarters and Botswana&#x27;s high commission in Pretoria, South Africa.</td><td>Government</td><td>Government of Botswana</td><td></td><td>aiddata-gcdf3-52200</td><td></td><td><a href="https://global.factiva.com/redir/default.aspx?P=sa&amp;an=TELAFR0020150527eb5r0005n&amp;cat=a&amp;ep=ASE">global.factiva.com</a></td><td>china-government-unspecified</td><td>2015-01-01-china-other-bwa-001-chinese-government-donates-video-conferencing-equipment</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="BWA-nonstate-2026-08-18.csv">BWA-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="BWA-nonstate-fields-2026-08-18.csv">BWA-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -102,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

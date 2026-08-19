@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,32 +57,22 @@
 
     <p>Every non-state commitment the base holds for Liberia, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="LBR-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Liberia &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">9 rows</span>
-        <a class="btn" href="LBR-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="LBR-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">9 rows</span>
+        <a class="btn" href="LBR-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="LBR-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>LBR</td><td class="num mono">2026</td><td class="num mono">2030</td><td>U.S. Department of State</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td>(not stated)</td><td class="num mono">26</td><td>commitment</td><td>verified</td><td>Pipeline</td><td>U.S. Department of State — Liberia health data systems under the America First Global Health Strategy MOU, 2025</td><td class="wrapcell">&quot;2.5.3 Funding Plan: The U.S. Government intends to provide the following amount of funding for data systems in each of the specified years, subject to the availability of funds: 2026 $8,056,796; 2027 $6,705,396; 2028 $6,517,396; 2029 $2,054,096; 2030 $2,800,000.&quot; In 2026 this includes &quot;$1,654,099 for mSupply, $827,050 for EMR, $1,620,287 for LIS, $620,287 for eIDSR/IDSR and $413,525 for HMIS/DHIS2&quot;; over the term, &quot;$2,676,744 for Electronic Medical Records systems, $2,007,558 for lab information system, $2,007,558 for eIDSR/IDSR $1,338,372 for HMIS/DHIS2 at its national health data warehouse.&quot;
-
-The sum is one line of a wider MOU whose total planned US support is US$124,418,400 against Liberia&#x27;s US$50,725,704 (Appendix 1). It is non-binding: &quot;This MOU is not an international agreement and does not give rise to legal rights and obligations&quot; (6.9), and every figure is &quot;subject to the availability of funds&quot;.</td><td>Government</td><td>Government of Liberia / Ministry of Health</td><td></td><td></td><td></td><td><a href="https://healthpolicy-watch.news/wp-content/uploads/2025/12/US-Liberia-MOU-2025.pdf">healthpolicy-watch.news</a></td><td>us-department-of-state</td><td>2025-12-09-state-lbr-afghs-data-systems-2025-record</td></tr>
-<tr><td>LBR</td><td class="num mono">2025</td><td class="num mono">2030</td><td>World Bank</td><td>Digital Identity and CRVS</td><td></td><td class="num mono">30</td><td>commitment</td><td>reported</td><td>Active</td><td>World Bank — Liberia GREAT digital-ID and digital-government, 2025</td><td class="wrapcell">&quot;Liberia&#x27;s Ministry of Finance and Development Planning launched the Governance Reform Accountability Transformation (GREAT) project on 20 March 2025 in Monrovia. Funded by the World Bank&#x27;s ID Credit Program with $30 million (plus an additional $13m for digital infrastructure), GREAT seeks to enroll at least 2 million Liberians for the national digital ID through the NIR.&quot; Running to November 2030, it also builds a digital-government ecosystem beginning with nine institutions.</td><td>Government</td><td>GREAT project / Ministry of Finance and Development Planning</td><td></td><td></td><td></td><td><a href="https://www.biometricupdate.com/202503/liberia-launches-digital-public-infrastructure-project-with-30m-world-bank-funding">biometricupdate.com</a></td><td>world-bank</td><td>2025-01-01-world-bank-lbr-2025-liberia-great-digital-id-bw03</td></tr>
-<tr><td>LBR</td><td class="num mono">2023</td><td class="num mono">2031</td><td>MIGA</td><td>Connectivity</td><td>Guarantee</td><td class="num mono">81</td><td>commitment</td><td>exact</td><td>Active</td><td>Orange Telecom Project in Liberia \u2013 Expansion Guarantee</td><td class="wrapcell">MIGA guarantee of $81 million to Orange Cote d&#x27;Ivoire Participations (OCIP) covering existing equity investment and future retained earnings for telecom operations and expansion in Orange Liberia Inc., including construction of telecom towers, installation of fiber optic cable, and provision of telecom services and mobile finance services. Risks: Expropriation and War and Civil Disturbance for up to 8 years. Issued September 8, 2023 (FY2024). MIGA&#x27;s first contract in Liberia since 2016.</td><td>Private sector</td><td>Orange Liberia Inc.</td><td></td><td>MIGA-14784</td><td></td><td><a href="https://www.miga.org/press-release/miga-facilitates-expansion-telecom-services-liberia">miga.org</a></td><td>miga</td><td>2024-01-01-miga-lbr-orange-liberia-2024-orange-telecom-project-in-liberia-expansion</td></tr>
-<tr><td>LBR</td><td class="num mono">2023</td><td class="num mono">2026</td><td>African Development Bank (AfDB)</td><td>Digital Payments and Fintech</td><td>Grant</td><td class="num mono">4</td><td>commitment</td><td>rounded</td><td>Active</td><td>Liberia - Payments Infrastructure and Systems Upgrade</td><td class="wrapcell">The proposed project seeks to address the current inefficiencies in two key CBL payment systems, the ACP/ACH and the RTGS, as well as the main and recovery site data centres. The project aims to upgrade the aforementioned systems and infrastructure to acceptable industry standard and facilitate the ...</td><td>Government</td><td></td><td>XDR 2,910,000</td><td>P-LR-H00-008</td><td>46002-P-LR-H00-008</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=46002-P-LR-H00-008">d-portal.iatistandard.org</a></td><td>african-development-bank</td><td>2023-01-01-afdb-lbr-001-liberia---payments-infrastructure-and-systems</td></tr>
-<tr><td>LBR</td><td class="num mono">2022</td><td class="num mono">2024</td><td>USAID</td><td>Connectivity</td><td>Grant</td><td class="num mono">1</td><td>commitment</td><td>exact</td><td>Closed</td><td>Digital Invest DCCP - Liberia</td><td class="wrapcell">USAID Digital Invest DCCP activity supporting digital connectivity and cybersecurity in Liberia. Part of the broader Digital Connectivity and Cybersecurity Partnership.</td><td>Government</td><td></td><td></td><td></td><td>US-GOV-1-7200AA22CA00015</td><td><a href="https://www.usaid.gov/sites/default/files/2023-01/DCCP%20Factsheet.pdf">usaid.gov</a></td><td>usaid</td><td>2022-01-01-usaid-lbr-digital-invest-dccp-2022-digital-invest-dccp---liberia</td></tr>
-<tr><td>LBR</td><td class="num mono">2020</td><td class="num mono">2030</td><td>MIGA</td><td>Energy</td><td>Guarantee</td><td class="num mono">12</td><td>commitment</td><td>exact</td><td>Active</td><td>Escotel Liberia \u2013 Solar Power for Telecom Towers Guarantee</td><td class="wrapcell">MIGA political risk guarantee of $12.06 million to Escotel Mauritius covering its investment in Escotel Liberia Inc., which installs and operates solar-hybrid power systems at ~612 telecom tower sites in Liberia owned/operated by Orange Liberia. Avoids 158,000 tCO2e over the guarantee period. Risks: Transfer Restriction, Expropriation, War and Civil Disturbance for up to 10 years.</td><td>Private sector</td><td>Escotel Liberia Inc.</td><td></td><td>MIGA-14430</td><td></td><td><a href="https://www.miga.org/project/escotel-africa-0">miga.org</a></td><td>miga</td><td>2021-01-01-miga-lbr-escotel-2021-escotel-liberia-solar-power-for-telecom</td></tr>
-<tr><td>LBR</td><td class="num mono">2019</td><td class="num mono">2024</td><td>World Bank</td><td>Other GovTech and e-Gov</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">24</td><td>commitment</td><td>exact</td><td>Closed</td><td>Liberia Public Financial Management Reforms for Institutional Strengthening</td><td class="wrapcell">Improves domestic revenue mobilization systems and strengthens financial control and accountability in public finances of Liberia. Supports IFMIS expansion and upgrade, revenue administration systems, and PFM institutional capacity building. Includes customs management information system enhancements and integrated tax administration system components.</td><td>Government</td><td>Republic of Liberia</td><td></td><td>P165000</td><td>44000-P165000</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P165000">projects.worldbank.org</a></td><td>world-bank</td><td>2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for</td></tr>
-<tr><td>LBR</td><td class="num mono">2016</td><td class="num mono">2020</td><td>USAID</td><td>Connectivity</td><td>Grant</td><td class="num mono">6</td><td>commitment</td><td>rounded</td><td>Closed</td><td>Connectivity for Liberia</td><td class="wrapcell">USAID activity to improve internet connectivity and access in Liberia. Supports broadband infrastructure development and digital inclusion.</td><td>Government</td><td></td><td></td><td></td><td>US-GOV-1-AID-OAA-A-16-00079</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=US-GOV-1-AID-OAA-A-16-00079">d-portal.iatistandard.org</a></td><td>usaid</td><td>2016-01-01-usaid-lbr-connectivity-liberia-2016-connectivity-for-liberia</td></tr>
-<tr><td>LBR</td><td class="num mono">2015</td><td class="num mono">2022</td><td>USAID</td><td>Innovation ecosystem</td><td>Grant</td><td class="num mono">21</td><td>commitment</td><td>rounded</td><td>Closed</td><td>Collaborative Support for Health Systems Strengthening - Liberia</td><td class="wrapcell">USAID Liberia program strengthening health systems including digital health information systems. Supports national HMIS, iHRIS, and electronic data capture for PEPFAR reporting.</td><td>Government</td><td></td><td></td><td></td><td>US-GOV-1-AID-669-C-15-00001</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=US-GOV-1-AID-669-C-15-00001">d-portal.iatistandard.org</a></td><td>usaid</td><td>2015-01-01-usaid-lbr-collaborative-health-2015-collaborative-support-for-health-systems-strengthening</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="LBR-nonstate-2026-08-18.csv">LBR-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="LBR-nonstate-fields-2026-08-18.csv">LBR-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -111,44 +102,6 @@ The sum is one line of a wider MOU whose total planned US support is US$124,418,
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

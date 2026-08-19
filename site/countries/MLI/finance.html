@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,25 +57,22 @@
 
     <p>Every non-state commitment the base holds for Mali, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="MLI-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Mali &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">4 rows</span>
-        <a class="btn" href="MLI-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="MLI-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">4 rows</span>
+        <a class="btn" href="MLI-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="MLI-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>MLI</td><td class="num mono">2025</td><td class="num mono">2032</td><td>International Finance Corporation (IFC)</td><td>Connectivity</td><td>Commercial loan</td><td class="num mono">79</td><td>commitment</td><td>rounded</td><td>Pipeline</td><td>Orange Mali S.A. Telecom Infrastructure Loan</td><td class="wrapcell">IFC is providing a senior unsecured A-loan of up to 70 million equivalent in local currency (FCFA) to Orange Mali S.A., the leading mobile network operator in Mali. Orange Mali provides 2G/3G/4G connectivity, mobile money (Orange Money), and broadband services across Mali. The IFC financing supports network modernisation, 4G expansion, and mobile money infrastructure improvements. The IATI transaction value of $79.29M reflects the USD equivalent of the FCFA-denominated loan amount (approximately €70M).</td><td>Private sector</td><td>Orange Mali S.A.</td><td></td><td>SII-49673</td><td>XM-DAC-903-SII-49673</td><td><a href="https://disclosures.ifc.org/project-detail/SII/49673/orange-mali-sa">disclosures.ifc.org</a></td><td>ifc</td><td>2025-01-01-ifc-mli-001-orange-mali-sa-telecom-infrastructure-loan</td></tr>
-<tr><td>MLI</td><td class="num mono">2024</td><td class="num mono">2024</td><td>e&amp;</td><td>Connectivity</td><td>Equity</td><td class="num mono">256</td><td>commitment</td><td>rounded</td><td>Closed</td><td>Sotelma (Moov Africa Malitel) Mali Telecoms Licence Renewal</td><td class="wrapcell">Maroc Telecom&#x27;s Malian subsidiary Sotelma (operating under Moov Africa Malitel brand) paid XOF 160 billion ($256 million) to renew its telecoms licence in Mali in 2024. This was the single largest component of the MAD 3.549 billion in licence/frequency costs incurred by Moov Africa subsidiaries in 2024. Note: In October 2024, the Mali government subsequently acquired majority control of Sotelma, reportedly taking a 51%+ stake.</td><td>Government</td><td>Sotelma (Moov Africa Malitel)</td><td>XOF 160,000,000,000</td><td></td><td></td><td><a href="https://www.telecomschamber.org/industry-news/maroc-telecoms-investments-in-its-moov-africa-subsidiaries-increased-by-75-in-2024/">telecomschamber.org</a></td><td>e-and</td><td>2024-01-01-eand-mli-sotelma-licence-2024-sotelma-moov-africa-malitel-mali-telecoms</td></tr>
-<tr><td>MLI</td><td class="num mono">2023</td><td class="num mono">2025</td><td>USAID</td><td>Strategies, plans and policies</td><td>Grant</td><td class="num mono">4</td><td>commitment</td><td>rounded</td><td>Active</td><td>Mali Digital Ecosystem Country Assessment (DECA)</td><td class="wrapcell">USAID Digital Ecosystem Country Assessment for Mali examining digital infrastructure, regulatory environment, and digital economy development. Output informs USAID programming.</td><td>Government</td><td></td><td></td><td></td><td>US-GOV-1-72068823LA00001</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=US-GOV-1-72068823LA00001">d-portal.iatistandard.org</a></td><td>usaid</td><td>2023-01-01-usaid-mli-mali-digital-ecosyst-2023-mali-digital-ecosystem-country-assessment-deca</td></tr>
-<tr><td>MLI</td><td class="num mono">2018</td><td class="num mono"></td><td>Export-Import Bank of China (China Eximbank)</td><td>Other GovTech and e-Gov</td><td></td><td class="num mono">187</td><td>commitment</td><td></td><td></td><td>China Eximbank provides RMB 1.134 billion government concessional loan for Mali Digital 2020 Project</td><td class="wrapcell">On September 28, 2018, the Government of Mali and China Eximbank signed an RMB 1.134 billion (XOF 93,790,872,000) government concessional loan (GCL) agreement for the Mali Digital 2020 Project. The borrowing terms of the GCL are unknown. However, it is known that the proceeds of the GCL were to be used by the borrower to finance a commercial contract between the Government of Mali and China International Telecommunications Construction Corporation (CITCC).  The purpose of the project is to lay 817.4 km of intercity fiber optic cable, install twelve OSN 3500 type terminals, install a a GPON (Gigabit Passive Optical Network) urban network with 100 km of fiber optic cable, and install about 50 GPON terminals to interconnect the government institutions. More specifically, the project involves laying fiber optic cables to connecting the cities of Kidal, Gao and Timbuktu to the city of Mopti; laying fiber optic cable along the Gao-Ansongo-Labbezanga-Nigerian border route; laying fiber optic cable along the Kidal-Algerian border route; laying fiber optic cable along the Bamako-Kourémalé-Guinean border route; laying fiber optic cable along the Sevaré – Koro-Burkina Faso border route; establishing a surveillance network made up of 200 cameras and 50 LTE sites; establishing an internal secure communications network for the government; and establishing an electronic identification card system.   CITCC is the contractor responsible for project implementation. In February 2019, Ambassador Zhu Liying visited the construction site and had a discussion with the head of the project team. It is unclear if the project is on track for its 2020 completion date.</td><td></td><td>Government of Mali</td><td></td><td></td><td></td><td><a href="https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0">dropbox.com</a></td><td>china-eximbank</td><td>2018-09-28-eximbank-cn-mli-001-record</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="MLI-nonstate-2026-08-18.csv">MLI-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="MLI-nonstate-fields-2026-08-18.csv">MLI-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -104,44 +102,6 @@
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>

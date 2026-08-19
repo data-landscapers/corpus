@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -56,47 +57,22 @@
 
     <p>Every non-state commitment the base holds for Mozambique, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="MOZ-nonstate-2026-08-18.csv"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">Mozambique &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">12 rows</span>
-        <a class="btn" href="MOZ-nonstate-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="MOZ-nonstate-fields-2026-08-18.csv" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">12 rows</span>
+        <a class="btn" href="MOZ-nonstate-2026-08-18.csv" download>&darr; CSV</a>
+        <a class="btn" href="MOZ-nonstate-fields-2026-08-18.csv" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr><th>recipient_<wbr>country &#8597;</th><th data-sort="num">start_<wbr>year &#8597;</th><th data-sort="num">end_<wbr>year &#8597;</th><th>financier &#8597;</th><th>sector &#8597;</th><th>instrument &#8597;</th><th data-sort="num">commitment_<wbr>usd_<wbr>m &#8597;</th><th>amount_<wbr>basis &#8597;</th><th>amount_<wbr>quality &#8597;</th><th>status &#8597;</th><th>title &#8597;</th><th>description &#8597;</th><th>beneficiary_<wbr>type &#8597;</th><th>recipient_<wbr>organisation &#8597;</th><th>original_<wbr>amount &#8597;</th><th>project_<wbr>id &#8597;</th><th>iati_<wbr>activity_<wbr>id &#8597;</th><th>url &#8597;</th><th>financier_<wbr>slug &#8597;</th><th>record &#8597;</th></tr></thead>
-          <tbody>
-<tr><td>MOZ</td><td class="num mono">2026</td><td class="num mono"></td><td>European Union</td><td>Digital divides</td><td>agreement (signed)</td><td class="num mono"></td><td></td><td>stated commitment</td><td>signed</td><td>EU commits €28 million to Mozambique digital transformation under Global Gateway</td><td class="wrapcell">&quot;Digital transformation has been allocated €28 million, with a particular focus on
-increasing women&#x27;s participation in the digital economy.&quot; One of four Global Gateway
-agreements — clean energy €40m, digital transformation €28m, agricultural businesses and
-sustainable value chains €60m, education and skills €50m — totalling €178 million,
-described by the source as &quot;the signing of four agreements&quot;.
-
-Only the digital transformation slice is recorded here; the energy and agriculture slices
-are out of the wiki&#x27;s scope, and the €50m education and skills line is recorded on the
-prose source rather than as a separate digital record because its stated purpose
-(&quot;to prepare Mozambican students for a digital and sustainable economy&quot;) is not specific
-enough to a digital activity to map cleanly.</td><td>government</td><td>recipient organisation unspecified</td><td>EUR 28,000,000</td><td></td><td></td><td><a href="https://360mozambique.com/economy/markets-finance-eu-and-mozambique-seek-to-take-partnership-to-the-next-level/">360mozambique.com</a></td><td>european-union</td><td>2026-06-09-eu-moz-001-global-gateway-digital-transformation</td></tr>
-<tr><td>MOZ</td><td class="num mono">2026</td><td class="num mono">2030</td><td>U.S. Department of State</td><td>Sectoral management information systems (HMIS, EMIS, etc.)</td><td>(not stated)</td><td class="num mono">83</td><td>commitment</td><td>verified</td><td>Pipeline</td><td>U.S. Department of State — Mozambique health data systems under the America First Global Health Strategy MOU, 2025</td><td class="wrapcell">&quot;2.5.3 Funding Plan: The U.S. Government intends to provide the following amount of funding for data systems in each of the specified years, subject to the availability of funds: 2026 $16,666,385; 2027 $28,230,116; 2028 $18,533,429; 2029 $11,129,710; 2030 $8,512,439.&quot;
-
-The money builds SIS-RME (the integrated electronic medical record absorbing the US-built SESP patient tracking system, transferred to Mozambican management by 2026-06-20), SIS-LAB, the eVIDR outbreak surveillance platform, nSIMAM commodity logistics, a health data exchange due functional by end-2026 and a national health data warehouse due operational by end-2027. &quot;Development of data systems funded by the U.S. Government are expected to be fully led and owned by the Government of Mozambique with technical assistance and workplan oversight by the U.S. Government&quot; (2.5.1). The US reserves the right to &quot;revisit its funding levels&quot; if no mutually acceptable technology roadmap is agreed (2.5.3).
-
-The sum is one line of a wider MOU whose total planned US support is US$1,829,380,000 against Mozambique&#x27;s US$70,573,106 (Appendix 1). Non-binding: &quot;This MOU is not an international agreement&quot; (6.9).</td><td>Government</td><td>Government of Mozambique / Ministry of Health</td><td></td><td></td><td></td><td><a href="https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf">citizen.org</a></td><td>us-department-of-state</td><td>2025-12-15-state-moz-afghs-data-systems-2025-record</td></tr>
-<tr><td>MOZ</td><td class="num mono">2025</td><td class="num mono"></td><td>Export-Import Bank of China (China Eximbank)</td><td>Connectivity</td><td>Commercial loan</td><td class="num mono">200</td><td>commitment</td><td>estimated</td><td>Pipeline</td><td>Tmcel Telecommunications Network Second Expansion Financing</td><td class="wrapcell"></td><td>Government</td><td>Mozambique Telecom SA (Tmcel)</td><td></td><td></td><td></td><td><a href="https://clubofmozambique.com/news/tmcel-secures-us200-million-on-very-good-terms-for-modernisation-and-expansion-151082/">clubofmozambique.com</a></td><td>china-eximbank</td><td>2025-01-01-eximbank-cn-moz-005-tmcel-telecommunications-network-second-expansion-financing</td></tr>
-<tr><td>MOZ</td><td class="num mono">2023</td><td class="num mono">2027</td><td>International Telecommunication Union (ITU)</td><td>Connectivity</td><td>TA</td><td class="num mono">2</td><td>commitment</td><td>estimated</td><td>Active</td><td>Laying the Foundation for VaMoz Digital (Mozambique)</td><td class="wrapcell">ITU is implementing agency for the regulatory and policy component of the EU-funded VaMoz Digital! programme in Mozambique. Project strengthens enabling environment for inclusive digital transformation through: policy and regulatory framework reform; institutional capacity development for telecom regulators; digital skills curriculum; and fostering a digital innovation ecosystem. ITU component (Outcome 1) of broader EUR 10M VaMoz Digital! programme (EU Global Gateway flagship). AICS implements complementary youth digital skills component.</td><td>Government</td><td>Ministry of Communications and Digital Transformation; INTIC</td><td>CHF 2,244,820</td><td>9MOZ23005</td><td></td><td><a href="https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9MOZ23005">itu.int</a></td><td>itu</td><td>2023-01-01-itu-moz-vamoz-digital-2023-laying-the-foundation-for-vamoz-digital</td></tr>
-<tr><td>MOZ</td><td class="num mono">2022</td><td class="num mono">2028</td><td>World Bank</td><td>Connectivity</td><td>IDA credit *(established from PAD4954, 2026-08-09; was &quot;Concessional loan&quot;, source label, unverified — see Notes)*</td><td class="num mono">200</td><td>commitment</td><td>exact</td><td>Active</td><td>Mozambique Digital Acceleration Project</td><td class="wrapcell">Accelerates Mozambique&#x27;s digital economy through expanded broadband access, digital government services, digital financial infrastructure, and digital skills programs.</td><td>Government</td><td>Republic of Mozambique</td><td></td><td>P176459</td><td>44000-P176459</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P176459">projects.worldbank.org</a></td><td>world-bank</td><td>2022-07-15-wb-moz-001-mozambique-digital-acceleration-project</td></tr>
-<tr><td>MOZ</td><td class="num mono">2022</td><td class="num mono">2029</td><td>European Union</td><td>Strategies, plans and policies</td><td>Grant</td><td class="num mono">24</td><td>commitment</td><td>rounded</td><td>Active</td><td>VaMOZ Digital!</td><td class="wrapcell">Mozambique remains one of the bottom ten countries in the world in terms of human development, aggravated by increasing inequality in recent years, including significant gender differences, Gini-coefficient rose to 0.56 (2014/15) from 0.47 (2008/9), placing Mozambique among the most unequal countries in Sub-Saharan Africa, substantial disparities between North and south and urban versus rural area</td><td>Government</td><td></td><td>EUR 22,500,000</td><td>2022600315</td><td>XI-IATI-EC_INTPA-2022-ACT-60671</td><td><a href="https://d-portal.org/ctrack.html#view=act&amp;aid=XI-IATI-EC_INTPA-2022-ACT-60671">d-portal.org</a></td><td>european-union</td><td>2022-01-01-ec-moz-002-vamoz-digital</td></tr>
-<tr><td>MOZ</td><td class="num mono">2022</td><td class="num mono">2030</td><td>European Union</td><td>ICT Industry</td><td>Grant</td><td class="num mono">8</td><td>commitment</td><td>rounded</td><td>Active</td><td>National Control Centre for Energy</td><td class="wrapcell">The country has set ambitious targets for its energy sector: by 2030, universal access as well as 62% of renewable energy in the energy mix, and 20% of solar and wind generation in 2043. However, these targets are hampered by the fact that Mozambique does not have an appropriate control of its electricity grid. The Mozambican power grid currently comprises two independent and unconnected sub-grids</td><td>Government</td><td></td><td>EUR 8,008,000</td><td>2022600215</td><td>XI-IATI-EC_INTPA-2022-ACT-60663</td><td><a href="https://d-portal.org/ctrack.html#view=act&amp;aid=XI-IATI-EC_INTPA-2022-ACT-60663">d-portal.org</a></td><td>european-union</td><td>2022-01-01-ec-moz-007-national-control-centre-for-energy</td></tr>
-<tr><td>MOZ</td><td class="num mono">2021</td><td class="num mono">2027</td><td>World Bank</td><td>Connectivity</td><td>Concessional loan *(source label, unverified — see Notes)*</td><td class="num mono">343</td><td>commitment</td><td>rounded</td><td>Active</td><td>Sustainable Energy and Broadband Access in Rural Mozambique Project</td><td class="wrapcell">Expands rural broadband access and provides sustainable energy in Mozambique through shared infrastructure investment. Supports last-mile broadband connectivity alongside rural electrification.</td><td>Government</td><td>Republic of Mozambique</td><td></td><td>P175295</td><td>44000-P175295</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P175295">projects.worldbank.org</a></td><td>world-bank</td><td>2021-12-14-wb-moz-002-sustainable-energy-and-broadband-access-in</td></tr>
-<tr><td>MOZ</td><td class="num mono">2021</td><td class="num mono">2027</td><td>World Bank</td><td>Other GovTech and e-Gov</td><td>IDA grant *(corrected from the source&#x27;s &quot;Concessional loan&quot;; PAD4298 records a grant of SDR 105m, US$150m equivalent)*</td><td class="num mono">150</td><td>commitment</td><td>exact</td><td>Active</td><td>Digital Governance and Economy Project</td><td class="wrapcell">Supports Mozambique&#x27;s digital governance and economy through improved digital government platforms, broadband infrastructure, and digital financial services.</td><td>Government</td><td>Republic of Mozambique</td><td></td><td>P172350</td><td>44000-P172350</td><td><a href="https://projects.worldbank.org/en/projects-operations/project-detail/P172350">projects.worldbank.org</a></td><td>world-bank</td><td>2021-09-23-wb-moz-003-digital-governance-and-economy-project</td></tr>
-<tr><td>MOZ</td><td class="num mono">2021</td><td class="num mono">2023</td><td>Global Affairs Canada</td><td>Digital Identity and CRVS</td><td>Grant</td><td class="num mono">5</td><td>commitment</td><td>estimated</td><td>Closed</td><td>Vital Statistics in Support of Maternal, Newborn and Child Health \u2014 Mozambique (Phase 2)</td><td class="wrapcell">Phase 2 continuation: accelerates birth and death registration, expands civil registration digital infrastructure, and increases vital statistics data quality in Mozambique to support MNCH outcomes.</td><td>Government</td><td>UNICEF Mozambique</td><td>CAD 6,500,000</td><td>CA-3-P001300002</td><td>CA-3-P001300002</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=CA-3-P001300002">d-portal.iatistandard.org</a></td><td>global-affairs-canada</td><td>2021-01-01-gac-moz-vital-stats-mnch-2021-vital-statistics-in-support-of-maternal</td></tr>
-<tr><td>MOZ</td><td class="num mono">2020</td><td class="num mono"></td><td>Export-Import Bank of China (China Eximbank)</td><td>Connectivity</td><td>Concessional loan</td><td class="num mono">132</td><td>commitment</td><td>rounded</td><td>Active</td><td>Modernization and Expansion of the National Mobile Network (Tmcel)</td><td class="wrapcell">Concessional loan to modernize and expand the national mobile telecommunications network of Tmcel (Mozambique Telecom), the state-owned operator. Includes network expansion across multiple phases to improve mobile coverage and service quality nationwide.</td><td>Government</td><td>Tmcel</td><td></td><td>MZ.071</td><td></td><td><a href="https://www.bu.edu/gdp/files/2022/11/GCI_PB_012_EN_FIN.pdf">bu.edu</a></td><td>china-eximbank</td><td>2020-01-01-eximbank-cn-moz-002-modernization-and-expansion-of-the-national</td></tr>
-<tr><td>MOZ</td><td class="num mono">2017</td><td class="num mono">2023</td><td>Global Affairs Canada</td><td>Digital Identity and CRVS</td><td>Grant</td><td class="num mono">15</td><td>commitment</td><td>estimated</td><td>Closed</td><td>Vital Statistics in Support of Maternal, Newborn and Child Health \u2014 Mozambique (Phase 1)</td><td class="wrapcell">Increases civil and vital registration rates in Mozambique to improve policies and programs that reduce maternal and child mortality. Includes digital registration technology, mobile data platforms, and vital statistics information systems.</td><td>Government</td><td>UNICEF Mozambique</td><td>CAD 19,500,000</td><td>CA-3-D002529001</td><td>CA-3-D002529001</td><td><a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=CA-3-D002529001">d-portal.iatistandard.org</a></td><td>global-affairs-canada</td><td>2017-01-01-gac-moz-vital-stats-mnch-2017-vital-statistics-in-support-of-maternal</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="MOZ-nonstate-2026-08-18.csv">MOZ-nonstate-2026-08-18.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="MOZ-nonstate-fields-2026-08-18.csv">MOZ-nonstate-fields-2026-08-18.csv</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -126,44 +102,6 @@ The sum is one line of a wider MOU whose total planned US support is US$1,829,38
 
 </div>
 
-<script>
-(function () {
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    });
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  });
-
-  var dir = {};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {
-    th.addEventListener('click', function () {
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }
-        return x.localeCompare(y) * s;
-      });
-      rows.forEach(function (r) { tbody.appendChild(r); });
-      document.querySelectorAll('#fin thead th').forEach(function (o) {
-        o.classList.remove('sort-asc', 'sort-desc');
-      });
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    });
-  });
-})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>
