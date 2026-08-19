@@ -28,6 +28,17 @@ Nothing is typed by hand: the counts come from the report frontmatter and the
 catalogue, the report rows from the PDFs in `site/reports/{ISO3}/`, and both
 finance tables from `{ISO3}-nonstate.csv`.
 
+The two finance tables are built differently, on purpose *(2026-08-19)*. The
+sector-by-year pivot on `index.html` is an aggregate of a few dozen cells and is
+rendered here, into the HTML. The full commitment table on `finance.html` is not:
+it is drawn in the browser by `site/assets/js/datatable.js` from the published
+CSV, which is the same file the page already offers for download. Baking it in
+cost 74 KB of HTML for South Africa's 54 rows and gave the reader neither
+sorting-by-column nor filtering; the component gives both, and the all-Africa
+table it is shared with (`scripts/finance.py`) could not be baked in at all at
+1,257 rows. The cost is that `finance.html` shows nothing with JavaScript off,
+which the `<noscript>` block answers with the CSV link.
+
 Country and region names are duplicated from OSINT's `lookups/countries.csv`
 because the build cannot read outside `outputs/` — the same duplication
 `scripts/home.py` already carries, and osint-corpus-exchange/notes-for-osint.md #9 flags it as a
@@ -310,26 +321,12 @@ def pivot(rows: list[dict]) -> str:
       </table>"""
 
 
-def full_rows(rows: list[dict], cols: list[str]) -> str:
-    """Every column of every row, the factsheet's shape. `url` renders as a
-    link on the publisher's own domain, because a bare URL in a cell is
-    unreadable and the domain is the part a reader judges."""
-    out = []
-    for r in rows:
-        tds = []
-        for c in cols:
-            v = r.get(c, "") or ""
-            if c == "url" and v:
-                dom = re.sub(r"^https?://(www\.)?", "", v).split("/")[0]
-                tds.append(f'<td><a href="{e(v)}">{e(dom)}</a></td>')
-            elif c in ("commitment_usd_m", "start_year", "end_year"):
-                tds.append(f'<td class="num mono">{e(v)}</td>')
-            elif c == "description":
-                tds.append(f'<td class="wrapcell">{e(v)}</td>')
-            else:
-                tds.append(f"<td>{e(v)}</td>")
-        out.append("<tr>" + "".join(tds) + "</tr>")
-    return "\n".join(out)
+# `full_rows` retired 2026-08-19: the finance table is now drawn in the browser
+# by assets/js/datatable.js from the published CSV, so the page no longer bakes
+# a <tr> per commitment into its HTML. The rendering rules it carried — `url` as
+# a link, the three numeric columns right-aligned, `description` allowed to wrap
+# — moved to the `data-links`, `data-numeric` and clamp behaviour of the
+# component, which applies them by column name rather than by position.
 
 
 MONTHS = ("January February March April May June July August September "
@@ -551,6 +548,7 @@ FINANCE = """<!DOCTYPE html>
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
 <link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/datatable.css">
 <link rel="icon" href="{favicon}" type="image/svg+xml">
 </head>
 <body>
@@ -569,22 +567,22 @@ FINANCE = """<!DOCTYPE html>
 
     <p>Every non-state commitment the base holds for {name}, every field, exactly as the CSV carries it. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
-    <div class="data-table-wrap">
-      <div class="data-table-controls">
+    <div class="dl-datatable"
+      data-src="{csv_name}"
+      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
         <span class="dt-title">{name} &mdash; non-state finance</span>
-        <input type="search" id="q" placeholder="Search&hellip;" aria-label="Search the table">
-        <span class="data-table-count" id="count">{fin_n} rows</span>
-        <a class="btn" href="{csv_name}" download style="padding:0.35rem 0.9rem;">&darr; Download CSV</a>
-        <a class="btn" href="{fields_name}" download style="padding:0.35rem 0.9rem;">&darr; Download metadata</a>
+        <span class="dt-count">{fin_n} rows</span>
+        <a class="btn" href="{csv_name}" download>&darr; CSV</a>
+        <a class="btn" href="{fields_name}" download>&darr; Metadata</a>
       </div>
-      <div class="data-table-scroll">
-        <table class="data-table" id="fin">
-          <thead><tr>{head}</tr></thead>
-          <tbody>
-{rows}
-          </tbody>
-        </table>
-      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and <a href="{fields_name}">{fields_name}</a> says what each column means.</p>
+      </noscript>
     </div>
 
     <div class="colophon">
@@ -606,45 +604,7 @@ FINANCE = """<!DOCTYPE html>
 
 </div>
 
-<script>
-(function () {{
-  var tbody = document.querySelector('#fin tbody');
-  var rows = Array.prototype.slice.call(tbody.rows);
-  var q = document.getElementById('q'), count = document.getElementById('count');
-  var total = rows.length;
-
-  q.addEventListener('input', function () {{
-    var term = q.value.toLowerCase(), shown = 0;
-    rows.forEach(function (r) {{
-      var ok = !term || r.textContent.toLowerCase().indexOf(term) > -1;
-      r.style.display = ok ? '' : 'none';
-      if (ok) shown++;
-    }});
-    count.textContent = (term ? shown + ' of ' + total : total) + ' rows';
-  }});
-
-  var dir = {{}};
-  document.querySelectorAll('#fin thead th').forEach(function (th, i) {{
-    th.addEventListener('click', function () {{
-      dir[i] = !dir[i];
-      var s = dir[i] ? 1 : -1, num = th.dataset.sort === 'num';
-      rows.sort(function (a, b) {{
-        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
-        if (num) {{
-          var nx = parseFloat(x) , ny = parseFloat(y);
-          return ((isNaN(nx) ? -Infinity : nx) - (isNaN(ny) ? -Infinity : ny)) * s;
-        }}
-        return x.localeCompare(y) * s;
-      }});
-      rows.forEach(function (r) {{ tbody.appendChild(r); }});
-      document.querySelectorAll('#fin thead th').forEach(function (o) {{
-        o.classList.remove('sort-asc', 'sort-desc');
-      }});
-      th.classList.add(dir[i] ? 'sort-asc' : 'sort-desc');
-    }});
-  }});
-}})();
-</script>
+<script src="../../assets/js/datatable.js"></script>
 </body>
 </html>
 """
@@ -711,15 +671,7 @@ def build(iso: str) -> list[Path]:
     written = [out_dir / "index.html"]
 
     if fin:
-        numeric = ("commitment_usd_m", "start_year", "end_year")
-        head = "".join(
-            "<th{}>{} &#8597;</th>".format(
-                ' data-sort="num"' if c in numeric else "",
-                c.replace("_", "_<wbr>"))
-            for c in cols)
         (out_dir / "finance.html").write_text(FINANCE.format(
-            head=head,
-            rows=full_rows(sorted(fin, key=lambda r: r.get("start_year", ""), reverse=True), cols),
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             **csv_names, **common), encoding="utf-8")
