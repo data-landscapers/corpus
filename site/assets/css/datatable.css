@@ -14,13 +14,17 @@
   background: white;
 }
 
-/* A data table is not body text and should not be held to the 980px measure the
-   prose is set to. Break out of the container, centred, up to a sensible ceiling
-   — on a narrow window this resolves to the container width and does nothing. */
+/* A data table is not body text and should not be held to the measure the prose
+   is set to. Break out of the container, centred, up to a sensible ceiling — on a
+   narrow window this resolves to the container width and does nothing.
+
+   The offset is written against 50% of the containing block rather than half of a
+   known column width, so the rule holds in both repos without being told how wide
+   the container is. */
 @media (min-width: 1040px) {
   .dl-datatable {
     width: min(94vw, 1800px);
-    margin-left: calc(490px - min(47vw, 900px));
+    margin-left: calc(50% - min(47vw, 900px));
   }
 }
 

@@ -1,12 +1,22 @@
 ---
 type: doc
 title: CLAUDE.md — Corpus (the public site)
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-19
 ---
 
 # CLAUDE.md — Corpus
 
 This repo holds the Phase 3 public site: design record, prototypes, and whatever is built to serve `outputs/`. `documentation/design.md` is the design record.
+
+**The global `CLAUDE.md` overrides this file** *(Bill, 2026-08-19)*. Committing and pushing, the writing rules, how to talk to Bill, the Cowork sandbox's quirks and the relationship between this repo and `data-landscapers` all live there now, because they are not Corpus's to decide and were drifting out of step with the other repo by being stated here. What is left below is only what is true of Corpus and of nowhere else. If a rule here contradicts the global file, the global file wins and this one is wrong.
+
+## Corpus is an extension of data-landscapers
+
+**They share style and functionality wherever possible** *(Bill, 2026-08-19)*, and the global file carries the rule. Two things follow that are Corpus's own business.
+
+`site/assets/css/main.css` is a copy of the other repo's, and `MAIN-CSS-FROM` holds the commit it came from. The datatable component is the same arrangement: `data-landscapers/assets/shared/` is canonical, Corpus carries a copy at `site/assets/js/datatable.js` and `site/assets/css/datatable.css`, and `site/assets/DATATABLE-FROM` names the commit. **A copy is not sharing unless something notices when it goes stale**, so `scripts/lint-shared-assets.py` compares the bytes and reports drift; it fixes nothing, because copying in either direction is a destructive write on one of two repositories and picking the direction is a judgment about which repo is ahead.
+
+**A change to a shared asset belongs upstream first.** Edit it in `data-landscapers/assets/shared/`, then copy down and update the marker. Editing the Corpus copy in place is how the two versions diverge, and the lint will tell you it happened but not which way round.
 
 ## The OSINT repo is read-only
 
@@ -24,20 +34,6 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 Reading is unrestricted: read any file, grep the whole tree, run read-only git commands, derive whatever the site needs.
 
-## Committing
+## Editions
 
-**Commit after every change, not at the end of a session** *(Bill, 2026-08-06)*. One commit per coherent change, with a terse subject saying what changed. An uncommitted working tree is the one state that is not reversible, and a session that batches its commits leaves everything since the last one at risk together.
-
-**Push what you commit** *(Bill, 2026-08-19)*. The same reasoning one step further: a commit that exists only on this machine is not backed up, and nothing on the other side of the division of labour can see it — CC cannot review what Cowork has not pushed, and vice versa. Push at the end of the working sequence a commit belongs to, not necessarily after every single commit.
-
-**A Cowork session cannot push, and must say so.** Its Linux sandbox has no git credentials and no terminal to prompt on, so `git push` fails with `could not read Username for 'https://github.com'` — anonymous *read* works, which is why `git ls-remote` and `git fetch` are fine and only the push is not. There is no fix available from inside the session: it is not a missing flag, and no connector in the registry covers it. So a Cowork session **ends by saying what is unpushed and naming the commits**, and Bill or a Claude Code session pushes. Not mentioning it is the actual failure — an unpushed commit nobody has been told about is indistinguishable from work that was never done.
-
-**Deletes (Cowork sessions only).** In a Cowork session the sandbox blocks `unlink` on its mount, which does not stop a commit but leaves a stale `.git/HEAD.lock` that then makes *every subsequent* commit fail with `cannot lock ref 'HEAD'`; call `allow_cowork_file_delete` on any path in Corpus once at the start of a Cowork session. This does not apply to Claude Code running on the machine — Corpus is off Dropbox now, and there is no such tool there. The general symptom is still worth knowing either way: if commits start failing mid-session, look for stale `.lock` and `tmp_obj_*` files under `.git/` first.
-
-## Communication with Bill
-
-**Do not use the word "honest" (or "honestly").** *(Bill, 2026-08-13.)* A cross-project preference; promote it to the global `~/.claude/CLAUDE.md` for it to apply everywhere.
-
-## Writing
-
-**One line per paragraph. Never wrap by hand.** Same rule as the wiki, and for the same reason: a hard-wrapped paragraph diffs badly, because changing one word near the start reflows every line after it and the diff shows a rewritten paragraph instead of a changed word. It does not apply where the break carries meaning — frontmatter, code blocks, tables.
+**A published file is never revised.** `RENDER.md` §9 is the full rule and the scripts implement it; what matters here is that the dated CSVs and PDFs under `site/` are citable artefacts, so a rebuild that rewrites one in place has broken something even when the content is identical. `RENDER.md` → *The finance tables* carries the trap this most often springs through, which is line endings under a Cowork build.
