@@ -1,16 +1,16 @@
 ---
 title: Cameroon — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: CMR
-ledger_rows: 32
+ledger_rows: 34
 not_held: 8
-record: 1e2d11409ccb
+record: c6567fd66159
 ---
 
 # Cameroon: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -40,6 +40,8 @@ The state operator spent the month selling capacity it has already built. It [sh
 
 <!-- narrative: infrastructure--infra-cybersec -->
 A [fourth loan tranche of FCFA 39.2bn for intelligent urban video surveillance was authorised by decree](https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveillance-urbaine/), bringing FCFA 150.8bn mobilised over eight years across three Chinese lenders. The first phase's borrower was the defence ministry, and the two accounts held give different amounts and dates for it. No camera count, coverage area, retention rule or oversight arrangement is published for any tranche.
+
+The month also produced the base's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -88,6 +90,11 @@ The fourth population and agriculture census is still in the field: a [complemen
 
 <!-- narrative: governance--gov-policy -->
 An account of 27 July set out where the satellite licence stands: a [draft concession convention and specification finalised by the regulator, the file at the ministry undecided for more than two years, and the 2024 seizure circular still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/). The objections on record are lawful interception, armed-group use, and the incumbent's commercial position.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The state set itself a public venue for the question its record does not answer. The posts and telecommunications ministry is [hosting the 2026 national Internet Governance Forum in Yaounde from 18 to 20 August](https://afriqueitnews.com/crypto-et-web3/cameroun-fgi-2026-place-donnee-coeur-futurs-services-publics-numeriques/), on the theme of moving from fragmentation to interoperability and positioning data as the foundation of interoperable digital public infrastructure, with a plenary on a possible national data-governance strategic framework. The base holds no government interoperability layer and no data-governance framework, so the plenary's subject is an absence rather than an instrument. What is held is a preview: no programme document, participant list or prior edition, and no outcome.
 <!-- /narrative -->
 ### Open data
 

@@ -1,15 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: GMB
-ledger_rows: 62
+ledger_rows: 64
 not_held: 13
-record: 7a2537220353
+record: f366c3e8312c
 ---
 
 # Gambia: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (62 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (64 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -102,6 +102,7 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 |---|---|---|
 | Electronic civil registration and vital statistics | [Implemented](https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia) | Mass birth-registration and health-insurance campaign reached about 1.17m people |
 | Gambia Social Registry | [Implemented](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building) | 203,022 households registered across 40 of 43 districts in two years |
+| National Land Administration System and Land Information System | [Planned](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1) | Mandated by the National Land Policy 2026-2035, published 2026-08-12 |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
@@ -184,6 +185,7 @@ Statistics are the most complete system in the stack. The [fifth labour force su
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Information Commission | [Implemented](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia) | Communication-strategy support agreed 2026-08-17 |
 | Personal Data Protection and Privacy Act 2025 | [Implemented](https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025) | Enacted, ending a legislative process stalled for several years |
 | Data Protection and Privacy Commission | ***Not held*** | — |
 | Legal basis for issuing identity cards outside the country | ***Not held*** | — |

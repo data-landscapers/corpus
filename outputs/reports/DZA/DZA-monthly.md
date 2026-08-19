@@ -1,16 +1,16 @@
 ---
 title: Algeria — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: DZA
-ledger_rows: 22
+ledger_rows: 26
 not_held: 7
-record: 9767cf8aef3b
+record: aed2ed71e9de
 ---
 
 # Algeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -20,6 +20,8 @@ The state inaugurated its own data-centre estate on 5 July and gave administrati
 The Ministry of Foreign Trade and Export Promotion announced on 27 July that from 1 August applications to import services must be lodged, processed and tracked exclusively through a new platform, with [no fallback or assisted channel stated](https://www.echoroukonline.com/وزارة-التجارة-الخارجية-تطلق-منصة-رقمي).
 
 Nothing moved on the ethical-AI law, the domestic instant-payment system or the universal-service build. The National AI Strategy moved after July closed: a [joint inter-ministerial roadmap for deploying artificial intelligence across public services was agreed and reported on 12 August](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), the text of the strategy still unpublished.
+
+August's own additions run the same way — platforms delivered, foundations undeclared. Two more services opened, a [complaints platform for economic operators](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/) and an [Ombudsman videoconference reception to be piloted from September](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/); the unified national digital identity was shown [working as single sign-on for a sectoral platform](https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/); and the interior minister [described his own ministry's vehicle-registration and civil-status digitisation as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/).
 <!-- /narrative -->
 
 ## Infrastructure
@@ -39,6 +41,11 @@ The National Digital Services Centre was inaugurated by President Tebboune on 5 
 
 ## Digital public infrastructure
 
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The unified national digital identity is being used as a single sign-on, and the record's first evidence of that is a sectoral one. On 12 August the sports ministry [integrated its platforms into the national services portal so that holders of the credential reach its WADHIFATI platform without registering again](https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/). The credential is issued by the Haut Commissariat a la Numerisation; no enrolment count, assurance level, governing instrument or data-protection basis for it is held, so what a reader can establish is that it works across two systems, not how many people hold it or on what legal footing.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -59,6 +66,8 @@ The national single window gained a free helpline, 3017, from [29 July](https://
 A second national portal was announced on 24 July: the Ministry of Labour, Employment and Social Security will consolidate its attached bodies behind one electronic portal, reporting [235 services delivered online in 2026-07](https://www.algerie360.com/50-de-demarches-numeriques-supplementaires-dici-decembre-2026-sengage-saihi/) and 97% document digitisation in 2026-04, and targeting 50% more online procedures by December 2026. No interoperability with the national portal is stated.
 
 The services-import platform announced on 27 July becomes the exclusive route from 1 August. Nothing held confirms it in operation.
+
+August added two more, and one admission. The trade ministry's [complaints platform for economic operators went live on 11 August](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/), for remote filing and tracking of concerns about import and export procedures, and the ministry describes it as the fifth platform it has put into service this year. The Ombudsman institution will [pilot a videoconference citizen-reception service from September 2026](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/), to ease access for citizens in remote areas and people with specific needs. Against that, on 10 August the interior minister [ordered his own ministry to accelerate digitisation projects he described as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/), naming vehicle-registration and civil-status services, at a review held under presidential instructions to speed cross-sector interconnection. He does not say in what respect they have stalled, and gives no completion figure or revised timetable.
 <!-- /narrative -->
 
 ## Governance and regulation

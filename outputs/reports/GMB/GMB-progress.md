@@ -1,20 +1,20 @@
 ---
-title: Gambia — progress report, 2025-08-01 to 2026-08-17
-compiled: 2026-08-17
-period: 2025-08-01 to 2026-08-17
+title: Gambia — progress report, 2025-08-01 to 2026-08-19
+compiled: 2026-08-19
+period: 2025-08-01 to 2026-08-19
 place: GMB
-ledger_rows: 67
+ledger_rows: 70
 not_held: 13
-record: 001cb27a3cf7
+record: c906f5aca45f
 ---
 
-# Gambia: progress report, 2025-08-01 to 2026-08-17
+# Gambia: progress report, 2025-08-01 to 2026-08-19
 
-*Compiled 2026-08-17 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 67 systems and instruments on this place's ledger, 29 changed position between 2025-08-01 and 2026-08-17, 17 did not, 8 carry no stated baseline, and 13 are ***Not held*** at both ends.*
+*Of 70 systems and instruments on this place's ledger, 29 changed position between 2025-08-01 and 2026-08-19, 17 did not, 11 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 61 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-02), 34 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 69 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-02), 42 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -30,7 +30,7 @@ What did not move is as consistent. Every register that was already running stay
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | GAMTEL national broadband modernisation PPP | Did not exist | [US$50m partnership signed to take the national backbone from 40 Gbps to 800 Gbps; no completion date, milestone schedule or dalasi figure published (2026-01)](https://techafricanews.com/2026/01/05/gamtel-and-sysroad-sign-50-million-ppp-to-modernize-the-gambias-broadband-network/) | Advanced |
 | Gambia National Broadband Network (China Eximbank loan) | In service under a US$25.9m concessional loan repayable by GAMTEL, with a servicing history of arrears (2017 loan) | [Unchanged on the record; no statement of network condition, utilisation or debt position since 2020](https://www.dropbox.com/s/9yvhtd9i4i0vrs0/cr18197.pdf?dl=0) | No change |
@@ -39,14 +39,14 @@ What did not move is as consistent. Every register that was already running stay
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National Data Centre, Abuko | Did not exist | [State facility in service hosting the national identity management system; no capacity, tier rating or operating cost published (2026-07)](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/) | Advanced |
 | QGroup House data centre | Did not exist; no data centre of any kind on record | [First private data centre in service, built by QGroup and QCell with Huawei as long-term vendor (2026-04)](https://thepoint.gm/africa/gambia/headlines/barrow-inaugurates-qgroup-house-unveils-gambias-first-data-centre) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National cybersecurity agency or incident response team | No position held at the start of the window | [An institutional design on paper: GM-CSIRT operating a national Cybersecurity Centre with a security operations centre inside it, a National Cybersecurity Coordination Directorate, a National Cybersecurity Commission, an advisory board, sectoral focal points and sector CSIRTs, and a police cybercrime response unit. The plan directs that GM-CSIRT be operationalised and strengthened in budget and technology; nothing held states that any of these bodies is standing](https://mocde.gov.gm/wp-content/uploads/2024/02/National-Cybersecurity-Strategy-2022-2026-Final-.pdf) | ***Baseline not held*** |
 
@@ -62,21 +62,21 @@ Satellite access is where the period's clearest non-movement sits. At the start 
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Gambia-Senegal customs data exchange roadmap | Did not exist | [Agreed to install the GAINDE customs system at Karang, Keur Ayib and Selety within three months, deploy SIGMAT transit tracking, exchange customs data by interface once GAINDE is live, replace transit agents with a Single Administrative Document and reactivate the EnCen intelligence platform (2026-07)](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict) | Advanced |
 | National Enterprise Architecture | Did not exist | [Validated as the interoperability blueprint for citizen-centric services; not adopted, funded or implemented on the record (2026-05)](https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Margins ID national identity contract | Did not exist; the standing arrangement was the concession the 2025 State of the Nation address set out to replace (2025-08) | [Eight-year design-build-finance-operate-transfer contract in force, with a 70/30 revenue share, ten-year card validity, free replacement of valid cards and a phase-2 data centre (2026-01)](https://thepoint.gm/africa/gambia/headlines/govt-signs-id-card-deal-with-margins-id-systems-applications-ltd) | Advanced |
 | National Identity Management System (GAM ID) | Did not exist; identity cards were produced under a foreign concession the government had resolved to replace (2025-08) | [Live and issuing instant GAM ID cards from the National Data Centre, with nationwide enrolment opening 4 August 2026 (2026-07)](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/) | Advanced |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | BANTABA 2.0 instant payment system | Did not exist | [First inclusive instant payment system in service, built on Mojaloop and operated by GamSwitch across banks, mobile money, microfinance institutions and fintechs; no transaction volume published (2025-12)](https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system) | Advanced |
 | SUTURA government revenue collection integration | Did not exist | [Memorandum signed to wire a domestically built platform, distributed through GAMPOST, into government revenue collection; no go-live date, volume, fee structure or list of connected banks published, and no text of the memorandum is held (2026-07)](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection) | Advanced |
@@ -86,21 +86,22 @@ Satellite access is where the period's clearest non-movement sits. At the start 
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Electronic civil registration and vital statistics | In service as the interoperability backbone, about 1.17m people registered with a unique national identification number (2024-03) | [Unchanged; the June 2025 commitment to integrate it with identity cards and the passport has produced no published integration milestone (2026-08)](https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia) | No change |
 | Gambia Social Registry | 203,022 households, about 70% of the population, carrying the Nafa cash transfers (2024-04) | [Unchanged; no coverage update published since (2026-08)](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building) | No change |
+| National Land Administration System and Land Information System | Not held | [Mandated by the country's first unified National Land Policy 2026-2035, which requires a digitalised National Land Administration System, a centralised Land Information System and digitised land registration alongside new Certificates of Customary Ownership, backed by a costed ten-year implementation roadmap](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1) | ***Baseline not held*** |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | DHIS2 for Education | ***Baseline not held*** | [Individual learner tracking and school report cards being built on DHIS2 by the basic and secondary education ministry; no coverage figure or go-live date published (2026-05)](https://education.dhis2.org/gambia-data-driven-education) | ***Baseline not held*** |
 | Smart Paper Technology for community health data | ***Baseline not held*** | [In use for community health data capture; no district count or record volume published (2025-12)](https://articles.nigeriahealthwatch.com/smart-paper-technology-is-transforming-community-health-data-capture-in-the-gambia) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Digital Single Window Business Registration System | Did not exist | [Being finalised, with over 350 agricultural enterprises digitally mapped inside a programme reaching more than 4,050 firms; no launch date published (2026-08)](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows) | Advanced |
 | Digitalisation of police records | Did not exist | [Directed by the Inspector General; no system, vendor, budget or timetable published (2026-03)](https://standard.gm/police-must-transition-from-paper-documentation-to-digitalised-mode-igp) | Advanced |
@@ -111,16 +112,17 @@ Satellite access is where the period's clearest non-movement sits. At the start 
 | GRA digital tax invoicing | In service with tamper-proof digital signatures; no coverage or yield figure published (2025-08) | [Named in the finance ministry's account of the reform stack; still no separate coverage or yield figure (2026-07)](https://standard.gm/govt-launches-digital-tax-invoicing-system) | No change |
 | Integrated Financial Management Information System | In service across ministries with revenue and treasury interfaces (2020) | [Unchanged; no statement of coverage or condition since the project closed (2026-08)](https://projects.worldbank.org/en/projects-operations/project-detail/P159000) | No change |
 | Community policing case management and facility mapping | ***Baseline not held*** | [Mobile case-management applications and geographic facility mapping in use under a United Nations Development Programme-backed community policing programme; no case volume published (2026-03)](https://www.undp.org/gambia/stories/essau-gambisara-reimagining-community-policing-across-gambia) | ***Baseline not held*** |
+| Objections to the supplementary voter roll | Not held | [1,600 objections filed against the 2026 supplementary voter roll, on eligibility and residency, being heard by Revising Court Magistrates before the provisional register merges with the 2021 Voter Register ahead of the presidential election](https://thepoint.gm/africa/gambia/headlines/iec-received-1600-objections-in-voter-registration-njie) | ***Baseline not held*** |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Kanifing municipal digital addressing | ***Baseline not held*** | [36,000 properties georeferenced, feeding property-tax billing and waste management in Kanifing Municipality (2025-12)](https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia) | ***Baseline not held*** |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Coordination of official statistics production | No convened process on record | [Producers and users convened by the Central Bank with the International Monetary Fund and the Bureau of Statistics, naming data gaps, inconsistency and inaccessibility as the constraints; no framework or workplan published (2026-07)](https://thepoint.gm/africa/gambia/headlines/cbg-hosts-stakeholders-engagement-on-statistical-data) | Advanced |
 | Gambia Labour Force Survey series | Four rounds published, with no cross-round comparison volume (2025-08) | [Fifth round published with the first systematic comparison across the 2023, 2025 and 2026 rounds, and a sixth round confirmed for later in 2026 (2026-07)](https://www.gbosdata.org/downloads-file/627-the-gambia-labour-force-survey-findings-report) | Advanced |
@@ -142,14 +144,14 @@ Statistics show the clearest measured movement in the ledger. Labour force parti
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Communications Bill 2025 | Not introduced; first reading followed on 19 November 2025 (2025-08) | [Passed second reading and referred to committee, with the Press Union pressing for repeal of the restrictive media laws around it (2026-07)](https://standard.gm/lawmakers-back-bill-to-protect-personal-data-in-digital-age/) | Advanced |
 | State Intelligence Service Bill | Did not exist | [Draft validated, reported to require judicial warrants and oversight for intrusive measures and to give the Assembly review of the Service's budgets and operations; not tabled (2026-07)](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service) | Advanced |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National Cybersecurity Strategy and Action Plan 2022-2026 | In force, on a period running to 2026 (2025-08) | [Unchanged; no successor, mid-term review or implementation report is held, and the plan runs out at the end of 2026 (2026-08)](https://mocde.gov.gm/wp-content/uploads/2024/02/National-Cybersecurity-Strategy-2022-2026-Final-.pdf) | No change |
 | National Data Policy 2025 | Draft, not adopted (2025-08) | [Still a draft; no adoption, gazetting or implementation instrument is held (2026-08)](https://mocde.gov.gm/wp-content/uploads/2025/06/National-Data-Policy-2025-The-Gambia-draft.docx) | No change |
@@ -158,16 +160,17 @@ Statistics show the clearest measured movement in the ledger. Labour force parti
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | ATAF Heads of Tax Administrations Master Class | Did not exist as a Gambian commitment | [Convened by the Gambia Revenue Authority, with the Forum's executive secretary arguing that digital systems deliver only alongside governance reform and pressing for a united African position in the United Nations tax convention negotiations (2026-07)](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1) | Advanced |
 | Senegal-Gambia regulatory cooperation and free roaming agreement | Did not exist | [Signed, covering telecommunications regulatory cooperation and free roaming; no commencement date or tariff published (2026-06)](https://techreviewafrica.com/news/6078/senegal-and-the-gambia-enhance-digital-integration-through-regulatory-cooperation-agreement) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Personal Data Protection and Privacy Act 2025 | No comprehensive data-protection law; the Bill was before the National Assembly (2025-08) | [Enacted, with extraterritorial scope, seven lawful bases, a sensitive-data regime covering genetic, biometric and health data, and rights of access, rectification, erasure and protection from solely automated decisions (2025-12)](https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025) | Advanced |
+| Information Commission | Not held | [Operating as the body responsible for the Access to Information Act 2021 and the Personal Data Protection and Privacy Act 2025, and receiving UNFPA-funded support under the Peacebuilding Fund's Public Accountability Project to build a communication strategy raising public awareness of both statutes](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia) | ***Baseline not held*** |
 
 <!-- narrative: governance -->
 The statute book moved and the policy shelf did not. The Gambia had no comprehensive data-protection law when this period opened; the [Personal Data Protection and Privacy Act was enacted by December 2025](https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025), ending a process that had stalled for several years. The [Communications Bill went from not introduced to sitting with committees](https://standard.gm/lawmakers-back-bill-to-protect-personal-data-in-digital-age/) after a second reading in March 2026, and a [State Intelligence Service Bill that did not exist at the start of the window was validated on 31 July 2026](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service).
@@ -181,13 +184,13 @@ The regional layer is new. The [agreement with Senegal on regulatory cooperation
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | GAMCEL 80% share sale and network modernisation | Sale of 80% of GAMCEL announced to lawmakers at a winning bid of D6.7bn, no agreement signed (2025-12) | [Agreement signed transferring an 80% equity stake to YCELL against a GMD 6.1bn modernisation programme covering 4G and 5G radio access, core, operations and billing systems, hybrid tower power and revenue assurance (2026-07)](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Kalp Foundation Gambia One blockchain platform | Memorandum signed; nothing on record being built (2025-08) | [Unchanged; no build, pilot, funding or withdrawal reported in the nineteen months since (2026-08)](https://itweb.africa/article/the-gambia-signs-blockchain-pact-to-boost-digital-economy/8OKdWqDXbnYqbznQ) | No change |
 | Gambia Digital Innovation Sprint | ***Baseline not held*** | [Held with the National Youth Council, the communications ministry and UNICEF; no follow-on funding or incubation route published (2026-07)](https://thepoint.gm/africa/gambia/national-news/young-gambians-unveil-digital-innovations-to-transform-childrens-lives) | ***Baseline not held*** |
@@ -204,13 +207,13 @@ On artificial intelligence there is nothing to compare. The base carried no Gamb
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Rural women and girls digital rights programme | Did not exist | [400 women and girls trained across four regions, with 40 community broadcasters and 80 peer mentors; the implementer names unreliable internet, high data costs and unreliable electricity as the obstacles to continued practice (2026-07)](https://www.apc.org/en/blog/seeding-change-strengthening-digital-rights-rural-women-and-girls-gambia) | Advanced |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | National Labour Digital Skill programme | Did not exist | [Methodology validated against a target of 280 certified, funded at US$3.35m through the regional digital integration programme; no completion figure published (2025-12)](https://thepoint.gm/africa/gambia/national-news/stakeholders-validate-methodology-labour-digital-skill-dev-report) | Advanced |
 
@@ -222,7 +225,7 @@ Two programmes arrived where nothing existed: a [digital skills methodology vali
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | AfDB digital government project | Pipeline (2025-08) | [Still pipeline; no approval, signature or first disbursement is held (2026-08)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-GM-GB0-002) | No change |
 | Gates Foundation payment system pilot | Closed (2025-08) | [Closed; no evaluation or successor operation is held (2026-08)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DAC-1601-INV-064577) | No change |
@@ -230,7 +233,7 @@ Two programmes arrived where nothing existed: a [digital skills methodology vali
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
 |---|---|---|---|
 | Tax-to-GDP ratio | 9% (2022) | [13% (2025)](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1) | Advanced |
 | Total tax collected | D11bn (2022) | [D25bn (2025), against a D27.5bn target for 2026](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister) | Advanced |

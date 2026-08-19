@@ -1,16 +1,16 @@
 ---
 title: Morocco — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: MAR
-ledger_rows: 32
+ledger_rows: 33
 not_held: 17
-record: b68eca6d8373
+record: 8eab2950cfa8
 ---
 
 # Morocco: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -35,6 +35,8 @@ The transitional reduction of mobile interconnection tariff asymmetry took effec
 
 <!-- narrative: infrastructure--infra-store -->
 The ministry signed a memorandum of understanding with a data-centre power and cooling supplier in Rabat on 27 July, covering digital infrastructure, cloud, artificial intelligence, high-performance computing and data centres. The ministry's own text commits only to exchanged expertise, technical studies and the identification of structuring projects, and attaches no sum; the 50 MW sovereign data centre in Rabat is named as something the cooperation will feed ([ministry communique](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-la-c%C3%A9r%C3%A9monie-de-signature-d%E2%80%99un-m%C3%A9morandum-d%E2%80%99entente-entre-le-minist%C3%A8re-de-la-transition-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-et-vertiv)). Parallel talks were held the same day with two other suppliers on the same ground.
+
+The Dakhla campus acquired a shape without acquiring a date. It is [planned as a green data-centre campus under the Igoudar Numerique programme, one part for the kingdom's sovereign digital needs and another open to private investment, with feasibility studies launched in April 2026](https://northafricapost.com/99498-moroccos-ai-and-data-center-ambitions-take-shape-amid-growing-digital-investment.html). No capacity, cost, operator or commissioning date is held for it, and the same account gives no national facility count that would place it in an estate.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -104,6 +106,14 @@ Morocco holds [no European Union adequacy decision: the Commission's list names 
 
 <!-- narrative: governance--data-open -->
 The open-data portal is operating with four published procedure volumes — [manuals for open-data officers and data managers](https://data.gov.ma/sites/default/files/docs/Open_data_manuel_ROD_Avril%202021.pdf), a [data-inventory methodology](https://www.data.gov.ma/sites/default/files/2023-03/guide_inventaire_1.3_Fev.%202023.pdf) and a [standards and formats manual](https://www.data.gov.ma/sites/default/files/2025-01/Manuel_Standards_Donn%C3%A9es_Open_Data_1.1.pdf) — and published datasets including a [1,028-entry start-up database](https://data.gov.ma/data/dataset/donnees-sur-les-startups). A steering committee of ten bodies was established in December 2019 and a readiness assessment carried out in 2020, whose report remains unheld. The portal's own dataset count, publication statistics and action plan are not held either.
+<!-- /narrative -->
+
+## Artificial intelligence and the technology sector
+
+### AI
+
+<!-- narrative: ai-tech--tech-ai -->
+The one artificial-intelligence figure to move in the window is a ranking rather than a capability. Morocco is placed [87th globally and eighth in the MENA region on an index of government readiness for artificial intelligence, up fourteen places in 2025](https://northafricapost.com/99498-moroccos-ai-and-data-center-ambitions-take-shape-amid-growing-digital-investment.html), which the account attributes to the AI Made in Morocco roadmap and a regional data-for-sustainable-development hub developed with UNDP. The index itself is not named in the record held, so the starting position is derived from the reported change rather than published directly — and neither the roadmap's own founding text nor any progress report against Digital Morocco 2030 is held.
 <!-- /narrative -->
 
 ## Inclusion and capacity

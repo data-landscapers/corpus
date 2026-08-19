@@ -1,16 +1,16 @@
 ---
 title: Gambia — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: GMB
-ledger_rows: 22
+ledger_rows: 25
 not_held: 13
-record: 6f4ea8d7eca0
+record: f6bb34761ec2
 ---
 
 # Gambia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -43,12 +43,19 @@ The [National Identity Management System went live on 1 July 2026](https://stand
 <!-- narrative: dpi--dpi-pay -->
 Government collection acquired a fourth channel. The Office of the Accountant General [signed a memorandum integrating the SUTURA platform into revenue collection](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection), reported on 20 July 2026 — domestically built, distributed through the postal service, alongside the Yonna Wallet arrangement of March 2026. The Deputy Accountant General said several commercial banks are already integrated; the text is not held and no go-live date, volume or fee structure is given.
 <!-- /narrative -->
+### Registries (population, land, address, etc.)
+
+<!-- narrative: dpi--dpi-registry -->
+The country published its first unified land policy, and it is the month's clearest statement of intent about a public register. The [National Land Policy 2026-2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1), alongside new Certificates of Customary Ownership, and carries a costed ten-year implementation roadmap. It is a mandate rather than a build: no supplier, budget line, custodian or start date is stated for either system, and no data-protection provision for the land record is reported — in a year in which the Personal Data Protection and Privacy Act 2025 came into force.
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The revenue authority said on [30 July 2026 that South African and Rwandan customs officials will study its digital excise tax stamp](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), after officials from Nigeria, Senegal and Sierra Leone; the commissioner general attached to it [a claimed 95% reduction in smuggling of excisable goods](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), a figure with no method, made by the authority whose system is being studied. The finance ministry also [named a planned Integrated Tax Administration System](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), with no procurement, vendor or timetable.
 
 The trade ministry said on [4 August 2026 that a Digital Single Window Business Registration System is being finalised](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows), with no launch date.
+
+The electoral commission's digitalisation produced its first published contest figure. At a stakeholders' forum on 7 August the chief electoral officer disclosed [1,600 objections filed against the 2026 supplementary voter roll](https://thepoint.gm/africa/gambia/headlines/iec-received-1600-objections-in-voter-registration-njie), on eligibility and residency, now before Revising Court Magistrates ahead of the provisional register being merged with the 2021 Voter Register. No denominator of supplementary registrations, no outcome of the hearings and no merged register total is held.
 <!-- /narrative -->
 ### National statistics
 
@@ -69,6 +76,11 @@ A second instrument was validated on [31 July 2026: the State Intelligence Servi
 
 <!-- narrative: governance--gov-regional -->
 The revenue authority [hosted the seventh ATAF Heads of Tax Administrations Master Class in Banjul on 23-24 July 2026](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1). The Forum's executive secretary argued from Rwanda, Kenya and Morocco that digital systems deliver only alongside governance reform — "technology alone collects nothing" — and [pressed for a united African position at the United Nations](https://foroyaa.net/african-tax-officials-meet-in-gambia-to-strengthen-revenue-mobilisation/).
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The body that carries both of the country's information statutes surfaced in the record for the first time this window, and it surfaced as a recipient of support rather than as a regulator acting. The Information Commission, responsible for the Access to Information Act 2021 and the Personal Data Protection and Privacy Act 2025, is [receiving UNFPA-funded support under the Peacebuilding Fund's Public Accountability Project to build a communication strategy raising public awareness of both statutes](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia). No budget, staffing, caseload or enforcement record for the commission is held, and awareness-raising support is not evidence of capacity to enforce.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
