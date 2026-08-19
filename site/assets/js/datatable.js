@@ -289,19 +289,45 @@
     var headMin = mHead(longestWord(header.replace(/_/g, ' '))) + 18;   // + sort arrow
     var spaceW = mText(' ');
 
-    var cells = [], wordFloor = 0, step = Math.max(1, Math.ceil(values.length / 400));
+    var cells = [], step = Math.max(1, Math.ceil(values.length / 400));
     for (var i = 0; i < values.length; i += step) {
       if (!values[i]) continue;
       var words = String(values[i]).split(/\s+/).filter(Boolean);
-      var widths = words.map(mText);
-      cells.push({ w: words, m: widths });
-      if (!breakAnywhere) {
-        for (var j = 0; j < widths.length; j++) {
-          if (widths[j] > wordFloor) wordFloor = widths[j];
+      cells.push({ w: words, m: words.map(mText) });
+    }
+
+    /* The word floor is taken over **every** row, not the sample the line-count
+       fit uses. Sampling is sound for a percentile and wrong for a maximum: one
+       long token in an unsampled row is one broken word on the page, and it was
+       exactly that — a `(2026-07-09)` in a `start_year` column otherwise full of
+       bare years — that got through the first version *(2026-08-19)*. Scanning
+       all rows for the longest word by character count is cheap string work; only
+       the handful of candidates are then measured, because character count ranks
+       words well enough to shortlist but not well enough to decide. */
+    var wordFloor = 0;
+    if (!breakAnywhere) {
+      var longest = [];
+      for (var k = 0; k < values.length; k++) {
+        var v = values[k];
+        if (!v) continue;
+        var ws = String(v).split(/[\s\/]+/);
+        for (var n = 0; n < ws.length; n++) {
+          if (longest.length < 6) { longest.push(ws[n]); }
+          else {
+            var minAt = 0;
+            for (var q = 1; q < longest.length; q++) {
+              if (longest[q].length < longest[minAt].length) minAt = q;
+            }
+            if (ws[n].length > longest[minAt].length) longest[minAt] = ws[n];
+          }
         }
       }
+      for (var z = 0; z < longest.length; z++) {
+        var w = mText(longest[z]);
+        if (w > wordFloor) wordFloor = w;
+      }
+      wordFloor += 1;                              // a pixel of slack for hinting
     }
-    wordFloor = wordFloor ? wordFloor + 1 : 0;     // a pixel of slack for hinting
     if (!cells.length) return Math.ceil(Math.max(MIN_W, headMin) + pad);
 
     function share(width) {

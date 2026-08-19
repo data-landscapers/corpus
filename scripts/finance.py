@@ -1,32 +1,32 @@
 #!/usr/bin/env python3
-"""finance.py — the /finance/ landing page (SHELL) and the all-Africa table.
+"""finance.py — the Finance page.
 
     python scripts/finance.py
-      -> site/finance/index.html          the non-state finance landing
-      -> site/finance/all.html            every commitment, all countries, one table
+      -> site/finance/index.html                   the page
       -> site/finance/all-nonstate-{edition}.csv   the full download, a dated edition (§9)
 
-Status: the LANDING is still a SHELL. The aggregation below is real and runnable;
-the landing's LAYOUT is a placeholder for Cowork to design. It exists so the nav
-link `{base}/finance/` (build/country.py, scripts/catalogue.py) stops 404ing and
-so there is a scaffold to flesh out — headline totals, by-sector and by-place
-tables, links down to each country's finance page.
+**One top-level page, two sections** *(Bill, 2026-08-19)*. Non-state finance, which
+has data behind it and carries the whole cross-country table; and national budgets,
+which does not yet and says so. It replaces both the shell landing this file used to
+write and the separate `all.html` the table briefly had — see `render()`.
 
-`all.html` is not a shell *(2026-08-19)*. It is the cross-country counterpart of
-each country's `finance.html`, and uses the same component:
-`site/assets/js/datatable.js` fetches the published CSV and draws the table in
-the browser. That is not a preference here but the only option — 1,257 rows by 20
-columns baked into HTML is a multi-megabyte page, where the CSV it reads instead
-is 1.1 MB and is a file the reader can keep. `recipient_country` is carried as an
-ISO-3 code in the data and shown as a country name in the table, through the
-`data-labels` map built from `outputs/vocab/countries.csv`.
+The table is the cross-country counterpart of each country's `finance.html` and uses
+the same component: `site/assets/js/datatable.js` fetches the published CSV and draws
+it in the browser. That is not a preference but the only option — 1,257 rows by 20
+columns baked into HTML is a multi-megabyte page, where the CSV it reads instead is
+1.1 MB and is a file the reader can keep. `recipient_country` is carried as an ISO-3
+code in the data and shown as a country name in the table, through the `data-labels`
+map built from `outputs/vocab/countries.csv`.
+
+**The prose is in `content/finance.md`**, not here (RENDER.md -> *The prose*).
 
 Reads `outputs/non-state-finance/all-nonstate.csv` (the deduped cross-country
 partition — one row per deal). Vocabularies come from `outputs/vocab/` like the
 catalogue, so the site still reads only `outputs/`.
 
-Non-state only, deliberately: the domestic-budget side lives in the per-country
-`{ISO3}-budget.csv` / `{ISO3}-summary.csv` and is not aggregated here yet (TODO).
+The domestic-budget side lives in the per-country `{ISO3}-budget.csv` /
+`{ISO3}-summary.csv` and is not aggregated here; the *National budgets* block on the
+page says why, and is the thing to change when it is.
 """
 from __future__ import annotations
 import csv, html, json, sys
@@ -36,6 +36,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
+from copy_lib import copy  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -43,6 +44,18 @@ SITE = CORPUS / "site"
 VOCAB = CORPUS / "outputs" / "vocab"
 SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
+
+# The one field dictionary for every non-state finance table (country.py writes the
+# same link). Hand-maintained; nothing generates it.
+METADATA_CSV = "non-state-finance-metadata.csv"
+
+
+def indent(html_block: str, spaces: int = 4) -> str:
+    """A content block sits inside a page whose HTML is indented; matching it keeps
+    the generated source readable, which matters when the thing you are checking is
+    whether a paragraph came out where you meant it to."""
+    pad = " " * spaces
+    return "\n".join(pad + ln if ln.strip() else ln for ln in html_block.splitlines())
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -119,54 +132,25 @@ CHROME = """  <header class="site-header">
     </div>
   </nav>""".format(base=SITE_BASE, main=MAIN_SITE)
 
+FOOT = """  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+      <div class="site-footer__links">
+        <a href="{main_site}/">data-landscapers.io</a>
+        <a href="{base}/method/">Method</a>
+      </div>
+    </div>
+  </footer>""".format(year=date.today().year, main_site=MAIN_SITE, base=SITE_BASE)
 
-def render(agg: dict, names: dict, csv_name: str) -> str:
-    yr = f"{agg['year_min']}–{agg['year_max']}" if agg["year_min"] else "n/a"
-    # SHELL body: headline stats + a top-financiers list. The full design
-    # (by-sector, by-place matrix, links to country finance pages) is TODO.
-    rows = "".join(
-        f"<tr><td>{f}</td><td>US${v:,.0f}m</td></tr>" for f, v in agg["top_financiers"])
-    return f"""<!DOCTYPE html>
+
+PAGE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Non-state finance — Data Landscapers</title>
-<link rel="stylesheet" href="../assets/css/main.css">
-<link rel="stylesheet" href="../assets/css/home.css">
-</head>
-<body>
-{CHROME}
-<main style="max-width:1000px;margin:0 auto;padding:26px 22px 90px">
-  <h1>Non-state finance</h1>
-  <p>Deals financed by non-state actors across the base — {agg['deals']:,} deals,
-     US${agg['total_usd_m']:,.0f}m committed, {agg['financiers']:,} financiers,
-     {agg['places']} recipient countries, {yr}.</p>
-  <p><a href="{csv_name}" download>Download {csv_name}</a> — one row per deal. A dated edition (§9): retained as published, and never revised.</p>
-
-  <p><a class="btn" href="all.html">Browse every commitment as a table &rarr;</a> &mdash; sortable, filterable by country, sector and status.</p>
-
-  <h2>Top financiers by commitment</h2>
-  <table><thead><tr><th>Financier</th><th>Committed</th></tr></thead><tbody>{rows}</tbody></table>
-
-  <!-- TODO (Cowork design): by-sector breakdown; a place matrix linking to each
-       country's finance page; the domestic-budget side; caveats on amount_quality. -->
-</main>
-</body>
-</html>
-"""
-
-
-# --- the all-Africa table. Not a shell: the counterpart of each country's -----
-#     finance.html, sharing site/assets/js/datatable.js.
-ALL = """<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Non-state finance — every commitment — Data Landscapers</title>
-<meta name="description" content="Every non-state commitment to the digital sector across Africa held in the Data Landscapers base, all fields, searchable and downloadable.">
-<link rel="canonical" href="{base}/finance/all.html">
+<title>Finance — Data Landscapers</title>
+<meta name="description" content="Money committed to Africa's digital sector: every non-state commitment held in the Data Landscapers base, searchable and downloadable, plus the state of the domestic budget record.">
+<link rel="canonical" href="{base}/finance/">
 <link rel="stylesheet" href="../assets/css/main.css">
 <link rel="stylesheet" href="../assets/css/home.css">
 <link rel="stylesheet" href="../assets/css/country.css">
@@ -182,25 +166,31 @@ ALL = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <div class="country-head">
-      <div class="crumb"><a href="{base}/finance/">Non-state finance</a> &nbsp;/&nbsp; Every commitment</div>
-      <h1>Every commitment</h1>
-      <div class="country-head__meta">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
+      <h1>Finance</h1>
     </div>
 
-    <p>Every non-state commitment the base holds, across every country, every field, exactly as the CSV carries it. One row per commitment, and each is tagged to one country only, so totals sum without double-counting &mdash; the regional codes are recipients in their own right, not aggregates of the countries beside them. Figures are the amount announced, in the year announced, converted from the announcing party&rsquo;s own currency at a dated rate; they are commitments, not disbursements, and a multi-year commitment sits wholly in its start year. Each country&rsquo;s own table is linked from its <a href="{base}/#countries">country page</a>.</p>
+    <h2 class="section-heading" id="non-state">Non-state finance</h2>
+    <div class="country-head__meta">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
+
+{non_state_intro}
+
+{table_note}
 
     <div class="dl-datatable"
       data-src="{csv_name}"
+      data-cols="recipient_country, start_year, financier, sector, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
       data-filters="recipient_country, sector, status, amount_quality, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-labels="{labels}"
+      data-detail="description"
       data-sort="start_year:desc"
       data-empty="No commitment matches those filters.">
       <div class="dt-controls">
         <span class="dt-title">Africa &mdash; non-state finance</span>
         <span class="dt-count">{deals} rows</span>
         <a class="btn" href="{csv_name}" download>&darr; CSV</a>
+        <a class="btn" href="../metadata/{metadata}" download>&darr; Metadata</a>
       </div>
       <noscript>
         <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field. At {deals} rows it is the one table on this site that could not sensibly be written into the page itself.</p>
@@ -214,13 +204,20 @@ ALL = """<!DOCTYPE html>
         <dt>Edition</dt><dd class="mono">{edition}</dd>
         <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, retained as published and never revised</dd>
         <dt>Source</dt><dd><code>outputs/non-state-finance/all-nonstate.csv</code>, compiled by the finance pass</dd>
+        <dt>Fields</dt><dd><a href="../metadata/{metadata}">{metadata}</a> &mdash; what each column means. The same dictionary every country&rsquo;s finance table uses</dd>
         <dt>Country</dt><dd><code>recipient_country</code> is an ISO-3 code in the file and a country name in the table; the two are the same thing</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
 
+    <h2 class="section-heading" id="budgets">National budgets</h2>
+
+{budgets_intro}
+
   </div>
   </main>
+
+{foot}
 
 </div>
 <script src="../assets/js/datatable.js"></script>
@@ -229,8 +226,16 @@ ALL = """<!DOCTYPE html>
 """
 
 
-def render_all(agg: dict, names: dict, csv_name: str) -> str:
-    """The cross-country table page.
+def render(agg: dict, names: dict, csv_name: str) -> str:
+    """The Finance page: non-state finance with its table, then national budgets
+    with an explanation of why there is nothing under it yet.
+
+    **One page, not two** *(Bill, 2026-08-19)*. The table had its own URL at
+    `all.html` for a few hours; a landing page whose whole job was to link to the
+    thing a reader came for is a click charged for nothing. The headline counts
+    survive the merge because they say how big the table is before a reader
+    scrolls into 1,257 rows; the top-financiers list does not, because it was a
+    finding the table produces by sorting one column.
 
     The label map is the whole of `countries.csv` narrowed to the codes that
     actually appear, so the attribute carries 59 pairs rather than 250 — an
@@ -239,9 +244,12 @@ def render_all(agg: dict, names: dict, csv_name: str) -> str:
     used = {c: names[c] for c in agg["by_place"] if c in names}
     labels = html.escape(json.dumps({"recipient_country": used}, ensure_ascii=False), quote=True)
     yr = f"{agg['year_min']}–{agg['year_max']}" if agg["year_min"] else "n/a"
-    return ALL.format(
-        base=SITE_BASE, main=MAIN_SITE, chrome=CHROME,
-        csv_name=csv_name, labels=labels,
+    return PAGE.format(
+        base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
+        csv_name=csv_name, labels=labels, metadata=METADATA_CSV,
+        non_state_intro=indent(copy("finance", "non-state-intro")),
+        table_note=indent(copy("finance", "non-state-table-note")),
+        budgets_intro=indent(copy("finance", "budgets-intro")),
         deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
         financiers=f"{agg['financiers']:,}", places=agg["places"], yr=yr,
         built=date.today().isoformat(), edition=csv_name.rsplit("-", 1)[-1][:-4],
@@ -259,9 +267,12 @@ def main() -> int:
     csv_path, _ = editions.publish((sdir / "all-nonstate.csv").read_bytes(),
                                    out, "all-nonstate", ".csv")
     (out / "index.html").write_text(render(agg, names, csv_path.name), encoding="utf-8")
-    (out / "all.html").write_text(render_all(agg, names, csv_path.name), encoding="utf-8")
+    stale = out / "all.html"
+    if stale.exists():                 # the table's own page, folded into index.html
+        stale.unlink()
+        print("  removed site/finance/all.html — the table is on the page itself now")
     print(f"finance: {agg['deals']:,} deals, US${agg['total_usd_m']:,.0f}m "
-          f"-> site/finance/index.html (SHELL) + all.html")
+          f"-> site/finance/index.html")
     return 0
 
 

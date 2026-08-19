@@ -360,9 +360,9 @@ TEMPLATE = """<!DOCTYPE html>
       <a href="{base}/#countries">Countries</a>
       <a href="{base}/#regions">Regions</a>
       <a href="{base}/#topics">Topics</a>
-      <a href="{base}/#finance">Finance</a>
-      <a href="{base}/#catalogue">Catalogue</a>
-      <a href="{base}/#methodology">Methodology</a>
+      <a href="{base}/finance/">Finance</a>
+      <a href="{base}/catalogue/">Catalogue</a>
+      <a href="{base}/method/">Method</a>
     </div>
   </nav>
 
@@ -403,15 +403,6 @@ TEMPLATE = """<!DOCTYPE html>
 {topics}
     </div>
     <p class="caveat">Level-1 categories, rolled up from the {ntopics} topics beneath them. A source carries as many topics as it evidences, so these also sum to more than the total. Click a topic to open its sub-topics.</p>
-
-    <h2 class="section-heading" id="finance">Finance</h2>
-    <p class="section-intro section-intro--todo">{finance_todo}</p>
-
-    <h2 class="section-heading" id="catalogue">Catalogue</h2>
-    <p class="section-intro section-intro--todo">{catalogue_todo}</p>
-
-    <h2 class="section-heading" id="methodology">Methodology</h2>
-    <p class="section-intro section-intro--todo">{methodology_todo}</p>
 
     <div class="colophon">
       <strong>About this page</strong>
@@ -483,9 +474,6 @@ def build() -> Path:
         bulletin=bulletin_section(),
         hero=copy_inline("home", "hero"),
         countries_caveat=copy_inline("home", "countries-caveat"),
-        finance_todo=copy_inline("home", "finance-todo"),
-        catalogue_todo=copy_inline("home", "catalogue-todo"),
-        methodology_todo=copy_inline("home", "methodology-todo"),
         countries=country_boxes(by_place), countries_intro=copy_inline("home", "countries-intro"),
         regions=region_boxes(by_place), regions_intro=copy_inline("home", "regions-intro"),
         topics=topic_boxes(s["by_topic"]), topics_intro=copy_inline("home", "topics-intro"),

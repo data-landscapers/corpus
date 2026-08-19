@@ -4,7 +4,7 @@ Section intros and caveats for `site/index.html`, read by `scripts/home.py`.
 
 The `section-intro` blocks are what a reader meets first; the `caveat` blocks sit under the boxes and explain why the numbers do not add up the way an unwary reader would expect them to. Both matter more than their length suggests — this page is the one most people see and the only one that has to explain the shape of the whole corpus.
 
-Three of these still say *content to follow*. That is deliberate and honest while the sections are unwritten; it is not a placeholder anyone forgot.
+Finance, Catalogue and Method left this page on 2026-08-19 and became top-level pages of their own; their intros went with them. What is left here is the three sections home still owns.
 
 ## hero
 
@@ -29,15 +29,3 @@ A controlled vocabulary in a strict single-parent tree, so a category rolls up t
 ## bulletins-caveat
 
 The count is the sources in the window, and both bulletins cover the same ones. The corpus acquires in batches, so a quiet bulletin means nothing was published on those two days rather than that nothing arrived.
-
-## finance-todo
-
-The finance behind the corpus — investments, budgets and commitments recorded across the source base. This section is still to be written; content to follow.
-
-## catalogue-todo
-
-The full browse-and-filter view over every source in the corpus. This section is still to be written; content to follow.
-
-## methodology-todo
-
-How the corpus is built, tagged and kept current — the taxonomy, the sources and the editions. This section is still to be written; content to follow.

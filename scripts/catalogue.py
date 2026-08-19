@@ -25,7 +25,7 @@ import csv, json, re, shutil, sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from copy_lib import copy_inline  # noqa: E402
+from copy_lib import copy  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -135,7 +135,8 @@ STYLE = r"""
   .cat a{color:var(--accent);text-decoration:none}
   .cat a:hover{text-decoration:underline}
   .cat h1{font-size:26px;margin:0 0 6px;letter-spacing:-.01em}
-  .cat .lede{color:var(--muted);font-size:14px;margin:0 0 8px;max-width:60ch}
+  .cat .lede{color:var(--muted);font-size:14px;margin:0 0 8px;max-width:74ch}
+  .cat .lede p{margin:0 0 8px}
   .cat .downloads{font-size:13px;color:var(--muted);margin:0 0 22px}
   .cat .searchrow{display:flex;gap:10px;margin-bottom:18px}
   .cat #q{flex:1;padding:11px 14px;border:1px solid var(--line);border-radius:8px;font-size:15px;background:var(--card);color:var(--ink)}
@@ -184,7 +185,7 @@ STYLE = r"""
 BODY = r"""
 <div class="cat">
   <h1>Catalogue</h1>
-  <p class="lede">""" + copy_inline("catalogue", "lede") + r"""</p>
+  <div class="lede">""" + copy("catalogue", "lede") + r"""</div>
   <p class="downloads">Download the whole catalogue:
      <a href="raw-catalogue.csv" download>CSV</a> &nbsp;·&nbsp;
      <a href="raw-catalogue.json" download>JSON</a> &nbsp;— metadata only.</p>
