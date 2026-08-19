@@ -1,15 +1,15 @@
 ---
 title: Guinea-Bissau — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: GNB
 ledger_rows: 21
 not_held: 1
-record: baf481d783b6
+record: b2bd40e6bfb0
 ---
 
 # Guinea-Bissau: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/GNB/ledger.csv` (21 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/GNB/ledger.csv` (21 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -40,7 +40,7 @@ Guinea-Bissau's international connectivity rests on a single submarine-cable lan
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Interoperability Regulation (public/private digital systems and platforms) | [In development](https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/) | Council of Ministers approves a draft decree on the Regulation on Interoperability of Digital Systems and Platforms for Public and Private Services, alongside separate draft decrees on a National Data Governance and Protection Policy and a National Cybersecurity Strategy |
+| Interoperability Regulation (public/private digital systems and platforms) | [Enacted, in-force date not held](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q) | Government approval of the national interoperability regulation, announced 2026-08-08 by the WARDIP programme in Guinea-Bissau |
 
 ### Digital Identity and CRVS
 
