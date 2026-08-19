@@ -1,16 +1,16 @@
 ---
 title: Mozambique — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: MOZ
-ledger_rows: 56
-not_held: 18
-record: 56076de2ce55
+ledger_rows: 61
+not_held: 19
+record: ab76d0d9a30d
 ---
 
 # Mozambique: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -25,7 +25,9 @@ Three systems entered or extended service in the same five weeks: the National P
 ### Connectivity
 
 <!-- narrative: infrastructure--infra-connect -->
-The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since.
+The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since. A [second account of the launch](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/) names the two suppliers and sets the portal alongside World Bank project figures on affordability, recorded under inclusion below.
+
+The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023. No buyer, share, valuation, timetable or treatment of the debt is stated.
 <!-- /narrative -->
 ### Data Storage
 
@@ -93,6 +95,8 @@ The statistics institute opened enumerator training on 27 July for a census pilo
 Beyond the Constitutional Council ruling, the month's governance record is the institute's own account of the two 2026 statutes, given at a police academy seminar on 23 July: the Cyber Security Law is Law 13/2026 and the Cybercrime Law is Law 14/2026 ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)).
 
 On 28 July the communications minister listed cloud-computing and radio-centre regulations alongside the two 2026 statutes as mandatory for operators of critical infrastructure ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
+
+In August the institute set out what is still missing and what is coming. Its board chairman [said the country has no dedicated artificial-intelligence legislation, and that an Online Copyright Protection Act is in drafting for next year](https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/), naming authorship of artificial-intelligence output and liability for artificial-intelligence training as open questions no law here answers. The absence of an artificial-intelligence statute is now recorded as a gap; the copyright bill has no draft text, scope or introduction date behind it.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -122,6 +126,8 @@ Mozambique signed the agreement establishing the World Artificial Intelligence C
 The Intellectual Property Policy and Strategy 2026-2035, approved by resolution on 30 June and reported on 22 July, mandates a study on the impact of the digital environment and artificial intelligence on the intellectual property framework, including the patentability of inventions made by artificial intelligence, and costs legal and institutional modernisation at 719.6m meticais ([approval account](https://360mozambique.com/development/mozambique-approves-ip-strategy-to-study-ai-patentability-and-digital-rights/)). The resolution and strategy text are not held, and every provision and figure is the reporting agency's reading of the document.
 
 On 28 July the communications minister told the same banking and finance conference that current national infrastructure, data centres included, cannot support more advanced artificial-intelligence models ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
+
+The national strategy behind all of this is still in drafting, and its consultation now includes the market. On 12 August the ICT institute [consulted the largest mobile operator on the proposed strategy at the operator's Maputo premises](https://techreviewafrica.com/news/6792/mozambique-advances-national-ai-strategy-consultations-with-vodacom). No consultation record, respondent list or revised draft is published, and the strategy has not reached the Council of Ministers.
 <!-- /narrative -->
 ### US / hyperscaler activities
 
@@ -142,6 +148,10 @@ The funding aimed at those gaps shrank in the same window. An implementing partn
 
 <!-- narrative: inclusion--include-access -->
 The central bank's Financial Inclusion Report 2025, reported on 24 July, counted 482,359 financial access points, up 36% on 2024, of which 446,604 were non-bank agents against 315,005 the year before, while automated teller machines fell from 1,391 to 1,383 and card terminals from 35,486 to 32,236 ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). [Mobile money reached 1,313 accounts per thousand adults against 337 bank accounts, and the national Financial Inclusion Index held flat at 36.4 points](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/). [Agent growth was fastest in the least-served provinces, and the report set that against a widening credit gap: women's participation in credit rose from 31% to 34% while men's rose from 59% to 66%, even as women's mobile money holding rose 24%](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/).
+
+August added the price side of the same picture. A standard data package [fell from 9.4% of monthly gross national income per head in 2022 to 2.67% in March 2026](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/), on World Bank Digital Acceleration Project figures released with the coverage map. The basket behind the standard package is not defined in the record held.
+
+What none of these measures reaches is what the money does. A study of 900 households published on 7 August finds that [mobile money improves household welfare through active use rather than account ownership, reducing reliance on own food production and strengthening resilience through remittances, with women gaining financial autonomy and young people using it to stabilise consumption](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0343349). It is a single academic study of a sample, not a national series, and it is the only evidence of outcome the base holds against the access counts above.
 <!-- /narrative -->
 ### Training and skills
 

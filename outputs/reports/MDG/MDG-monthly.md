@@ -1,16 +1,16 @@
 ---
 title: Madagascar — monthly update, July 2026
-compiled: 2026-08-14
-period: 2026-07-01 to 2026-08-14
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: MDG
-ledger_rows: 21
+ledger_rows: 26
 not_held: 8
-record: 4a223f340f9c
+record: 51d6c51f4aa3
 ---
 
 # Madagascar: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-14 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -55,6 +55,8 @@ The day after the biometric-registration review, the electoral commission [opene
 On 28 July the national police [presented a free public reporting platform at Anosy](https://midi-madagasikara.mg/police-nationale-une-plateforme-numerique-pour-signaler-les-violences-et-les-disparitions/), six days after the national day of mourning of 24 July that followed a run of kidnappings and killings. Built by the police's own information-systems directorate, it runs 24 hours a day on web and an Android application in Malagasy and French, taking reports of gender-based violence and of disappearances of children, adults and people with albinism. Reports may be filed anonymously, an automatically generated reference number lets a declarant track the file, and reports are triaged by specialist services before routing. Its scope is [explicitly digital](https://www.wearetech.africa/fr/fils/actualites/tech/madagascar-la-police-nationale-numerise-le-signalement-des-violences-et-des-disparitions): online harassment, non-consensual image sharing, sextortion, online defamation and AI-falsified content are reportable categories in their own right. No data controller, retention rule or supervisory authority is named.
 
 On 3 August the higher-education ministry [presented an accreditation platform](https://2424.mg/enseignement-superieur-la-plateforme-habilitation-accreditation-et-equivalence-mise-sur-la-transparence-et-la-digitalisation-des-procedures/) centralising applications for authorisation, accreditation and equivalence and letting an institution track its file. It published its queue with it: 546 applications as at 10 July 2026, of which about 250 are expected at the commission session opening on 21 September 2026.
+
+Two further builds are financed rather than delivered. The Maritime Single Window, centralising port administrative procedures, is [being deployed on more than 3.4bn Indonesian rupiah, about 816m ariary, from Indonesia's international development agency](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/) through the port, maritime and river agency; no go-live date, port coverage or procedure list is stated. And the social-protection fund is [recruiting a consultancy to build a human-resources management ERP under a World Bank-financed project, bids due 26 August](https://www.fid.mg/recrutement-dun-cabinet-pour-la-mise-en-place-dun-logiciel-erp-de-gestion-des-ressources-humaines-grh-du-fid-n-45-ami-fid-logiciel-erp-fsr-26-26-08-2026/), having separately tendered on 7 August for a payroll server under a World Bank contingent emergency response project. Neither tender discloses a value.
 <!-- /narrative -->
 ### National statistics
 
@@ -75,6 +77,11 @@ The same Council [ordered internet service providers to block pornographic sites
 
 <!-- narrative: governance--gov-policy -->
 On 20 July the [Technical Assistance Facility for the Refondation was launched at the Palais d'État d'Iavoloha](https://www.journalmadagascar.com/reforme-administrative-une-nouvelle-facilite-dassistance-technique-pour-la-refondation-lancee-a-madagascar/), requested by the presidency and supported by UNDP, running 2026 to 2030, explicitly including the use of digital tools. Administrations had until end-July to submit proposals [through a dedicated digital platform](https://www.lexpress.mg/2026/07/administration-le-numerique-redynamise.html); a steering committee screens them and selected interventions run three to nine months. 170 focal points were certified in advance.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+Madagascar attached itself to three external arrangements in twelve days, none of which it wrote. The Council of Ministers [approved joining a China-initiated international network against cybercrime on 4 August](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/), mobilising the foreign affairs, justice, public-security, digital-development and gendarmerie ministries for cross-border cooperation on online fraud; no founding text, membership list, data-sharing rule or safeguard on what is exchanged is held. Around 15 August it also [signed the United Nations Convention against Cybercrime and joined the World AI Cooperation Organization](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the account citing Interpol findings that artificial-intelligence-enabled fraud is outpacing African states' response capacity. An [editorial the same week](https://newsmada.com/2026/08/13/quand-larnaque-passe-par-lecran/) frames the turn toward Beijing on fraud as inseparable from the country's digital-transformation and investment ambitions. None of the three is evidenced by an instrument the base holds, and the country still has no national artificial-intelligence strategy of its own.
 <!-- /narrative -->
 ### Open data
 

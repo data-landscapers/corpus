@@ -1,16 +1,16 @@
 ---
 title: Malawi — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-19
+period: 2026-07-01 to 2026-08-19
 place: MWI
-ledger_rows: 45
+ledger_rows: 49
 not_held: 57
-record: 907a6f05df6f
+record: 9491c131dbcf
 ---
 
 # Malawi: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -35,6 +35,8 @@ The gap the licensing round is meant to close acquired figures in August. An ind
 
 <!-- narrative: infrastructure--infra-store -->
 On 3 July the e-government department agreed integration of immigration e-services onto the national exchange platform ([e-government department](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km)).
+
+The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The specific financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
 <!-- /narrative -->
 ### Energy
 
@@ -53,6 +55,8 @@ On 5 August the revenue authority signed an arrangement with its South African c
 
 <!-- narrative: dpi--dpi-id -->
 The registration bureau reported on 13 July 2026 that more than 13.5 million people hold a national digital identity, with over 150,000 enrolled between April and June, 53% of them women ([registration bureau](https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view)). On 6 July it named the forthcoming mobile credential and set its launch for September 2026 ([registration bureau](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1)). On 5 August a separate blockchain-enabled wallet built by the United Nations Development Programme was stated to be in pilot ahead of nationwide rollout; neither announcement names the other.
+
+Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The individual fee levels and their previous values are not carried in the record held, so the size of the increase is not established — but the charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the same month the bureau reported approaching universal coverage.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

@@ -1,15 +1,15 @@
 ---
 title: Madagascar — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-19
 place: MDG
-ledger_rows: 59
+ledger_rows: 64
 not_held: 8
-record: 9654b1cf7cab
+record: fb0a797cd731
 ---
 
 # Madagascar: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/MDG/ledger.csv` (59 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/MDG/ledger.csv` (64 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -98,7 +98,9 @@ Hosting is being built for the identity system rather than for a market: tenders
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Development fund human-resources ERP | [Planned](https://www.fid.mg/recrutement-dun-cabinet-pour-la-mise-en-place-dun-logiciel-erp-de-gestion-des-ressources-humaines-grh-du-fid-n-45-ami-fid-logiciel-erp-fsr-26-26-08-2026/) | Consultancy tender issued, bids due 2026-08-26 |
 | Higher-education accreditation platform | [Implemented](https://2424.mg/enseignement-superieur-la-plateforme-habilitation-accreditation-et-equivalence-mise-sur-la-transparence-et-la-digitalisation-des-procedures/) | Presented at the ministry on 3 August 2026 |
+| Maritime Single Window | [In development](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/) | Indonesian financing of about 816m ariary confirmed 2026-08-07 |
 | Police reporting platform for violence and disappearances | [Implemented](https://midi-madagasikara.mg/police-nationale-une-plateforme-numerique-pour-signaler-les-violences-et-les-disparitions/) | Presented at Anosy on 28 July 2026 by the minister of public security |
 
 ### Digitalisation of sub-national government
@@ -139,7 +141,7 @@ Statistical microdata sits behind a gate rather than in the open: [INSTAT's micr
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Cybercrime bill overhauling the 2014 law | [In development](https://www.agenceecofin.com/actualites-numerique/0907-140040-madagascar-adopte-un-projet-de-loi-pour-moderniser-son-arsenal-contre-la-cybercriminalite) | Adopted by the Council of Ministers, 8 July 2026 |
+| Cybercrime bill overhauling the 2014 law | [In development](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/) | Revision reported alongside signature of the UN Convention against Cybercrime, 2026-08-15 |
 | Dedicated social-media law | [Planned](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes) | Announced by the minister of communication, covering harassment, defamation and disinformation |
 | Electronic signature and interoperability decree | [In development](https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/) | Draft regulatory framework validated at a ministry workshop |
 | Order to block pornographic sites at internet service provider level | [Implemented](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes) | Decision of the Council of Ministers, 8 July 2026, on public-order grounds |
@@ -150,6 +152,13 @@ Statistical microdata sits behind a gate rather than in the open: [INSTAT's micr
 |---|---|---|
 | Plan Strategique Numerique 2023-2028 | [Implemented](https://www.trade.gov/country-commercial-guides/madagascar-digital-economy) | Standing national digital strategy |
 | Technical Assistance Facility for the Refondation | [Implemented](https://www.journalmadagascar.com/reforme-administrative-une-nouvelle-facilite-dassistance-technique-pour-la-refondation-lancee-a-madagascar/) | Launched at the Palais d'Etat d'Iavoloha, running 2026 to 2030 with UNDP support |
+
+### Regional collaboration
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| China-initiated international network against cybercrime | [Implemented](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/) | Council of Ministers approved accession 2026-08-04 |
+| United Nations Convention against Cybercrime | [Planned, signed not ratified](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/) | Signature reported 2026-08-15 |
 
 ### Standards
 
@@ -200,6 +209,7 @@ Open data is institution-specific rather than a coordinated national policy. The
 | ATLAS Umoja African-language AI partnership | [Planned](https://techafricanews.com/2026/07/28/axian-telecom-named-founding-partner-of-atlas-umoja-ai-for-african-language-ai/) | AXIAN Telecom named a founding partner |
 | Customs data and artificial-intelligence centre (CEDIA) | [Implemented](https://midi-madagasikara.mg/douanes-madagascar-un-modele-dans-lutilisation-de-lintelligence-artificielle/) | Launched within the customs administration in May 2025 |
 | Madagascar-Egypt partnership on AI in public administration | [Planned](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/) | Reported by the press with no signature date given |
+| World AI Cooperation Organization membership | [Implemented](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/) | Accession reported 2026-08-15 |
 | National artificial-intelligence strategy | ***Not held*** | Applied AI is in service in customs and civil-record digitisation; no national AI strategy, policy or governing instrument is held |
 
 ### India activities
