@@ -28,6 +28,10 @@ Reading is unrestricted: read any file, grep the whole tree, run read-only git c
 
 **Commit after every change, not at the end of a session** *(Bill, 2026-08-06)*. One commit per coherent change, with a terse subject saying what changed. An uncommitted working tree is the one state that is not reversible, and a session that batches its commits leaves everything since the last one at risk together.
 
+**Push what you commit** *(Bill, 2026-08-19)*. The same reasoning one step further: a commit that exists only on this machine is not backed up, and nothing on the other side of the division of labour can see it — CC cannot review what Cowork has not pushed, and vice versa. Push at the end of the working sequence a commit belongs to, not necessarily after every single commit.
+
+**A Cowork session cannot push, and must say so.** Its Linux sandbox has no git credentials and no terminal to prompt on, so `git push` fails with `could not read Username for 'https://github.com'` — anonymous *read* works, which is why `git ls-remote` and `git fetch` are fine and only the push is not. There is no fix available from inside the session: it is not a missing flag, and no connector in the registry covers it. So a Cowork session **ends by saying what is unpushed and naming the commits**, and Bill or a Claude Code session pushes. Not mentioning it is the actual failure — an unpushed commit nobody has been told about is indistinguishable from work that was never done.
+
 **Deletes (Cowork sessions only).** In a Cowork session the sandbox blocks `unlink` on its mount, which does not stop a commit but leaves a stale `.git/HEAD.lock` that then makes *every subsequent* commit fail with `cannot lock ref 'HEAD'`; call `allow_cowork_file_delete` on any path in Corpus once at the start of a Cowork session. This does not apply to Claude Code running on the machine — Corpus is off Dropbox now, and there is no such tool there. The general symptom is still worth knowing either way: if commits start failing mid-session, look for stale `.lock` and `tmp_obj_*` files under `.git/` first.
 
 ## Communication with Bill
