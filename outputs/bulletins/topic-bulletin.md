@@ -1,16 +1,16 @@
 ---
 type: bulletin
 title: Topic bulletin
-subtitle: sources published 18 and 19 August 2026
-window_start: 2026-08-18
-window_end: 2026-08-19
-items: 42
-compiled: 2026-08-19
+subtitle: sources published 19 and 20 August 2026
+window_start: 2026-08-19
+window_end: 2026-08-20
+items: 44
+compiled: 2026-08-20
 ---
 
 # Topic bulletin
 
-*Compiled 2026-08-19 · 42 sources published 18 and 19 August 2026, across 22 topics.*
+*Compiled 2026-08-20 · 44 sources published 19 and 20 August 2026, across 24 topics.*
 
 ## ICT Infrastructure
 
@@ -20,145 +20,215 @@ compiled: 2026-08-19
 
 The incumbent operator, the telecommunications regulator and a Chinese vendor ran a mobile base station and a data call over upper 6 GHz spectrum, reported at about 1.7 Gbps per user and stated by the operator as the first such trial in Egypt and in Africa. It is a trial: no allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own. *Also under [Network capacity](#network-capacity).*
 
-**[Safaricom Ethiopia Switches On 16 New 4G Sites in Southern Ethiopia](https://techafricanews.com/2026/08/18/safaricom-ethiopia-switches-on-16-new-4g-sites-in-southern-ethiopia/)** — techafricanews.com, 18 August 2026
+**[Satellite Communications Guidelines (LTA-GL-002-2026)](https://lta.gov.lr/wp-content/uploads/2026/03/SATELLITE-COMMUNICATIONS-GUIDELINES.clean_.fv_.2.25.26-FINAL-VERSION.pdf)** — Liberia Telecommunications Authority, 19 August 2026
 
-Ethiopia's second mobile operator switched on 16 fibre-backed 4G sites in the south of the country, around Sawla, Selam Ber, Basketo, Beto and Leha, and reports more than 80 local jobs created. No coverage, capital cost or subscriber figure accompanies the announcement.
+The full text of Liberia's satellite guidelines sets five-year non-geostationary and ten-year geostationary landing rights, a US$250,000 direct-to-device service-provider licence fee with 9% of direct-to-device sales and a 0.5% universal-access contribution, mandatory data-protection and cybersecurity compliance plans, and a twelve-month transition for operators already in the market. *Also under [Legislation](#legislation).*
 
-**[Airtel Africa, Starlink launch satellite-to-mobile service in DRC](https://www.connectingafrica.com/connectivity/airtel-africa-starlink-launch-satellite-to-mobile-service-in-drc)** — Connecting Africa, 18 August 2026
+**[Safaricom Ethiopia Upgrades 67+ Sites to Strengthen Southern Region Network](https://techafricanews.com/2026/08/19/safaricom-ethiopia-upgrades-67-sites-to-strengthen-southern-region-network/)** — Tech Africa News, 19 August 2026
 
-A mobile operator and a satellite constellation took a satellite-to-mobile service commercially live in the Democratic Republic of Congo, which the two companies call the first commercial deployment of the service in Africa: a compatible handset and a clear view of the sky, with no additional equipment. It sits inside a December 2025 agreement to reach all fourteen of the operator's markets by the end of 2026; eligible customers get a free 30-day trial on registration, and no standing tariff or coverage map is published.
+An Ethiopian operator upgraded more than 67 existing sites across nine Southern Region towns to relieve network congestion and power-supply problems, with over 150 local jobs created during the work.
+
+**[LTA Signs New Satellite Framework, Targets Digital Access Across Liberia](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html)** — Liberian Observer, 19 August 2026
+
+Liberia's telecoms regulator signed satellite communications guidelines on 19 August, after a consultation that ran from February to June, opening licensed satellite broadband to the named constellations. The regulator frames it against universal connectivity, mobile money, education and health service goals. *Also under [Legislation](#legislation).*
+
+**[FG to expand internet access for 20m Nigerians in new 3,700 tower deployment](https://guardian.ng/business-services/fg-to-expand-internet-access-for-20m-nigerians-in-new-3700-tower-deployment/)** — The Guardian Nigeria, 19 August 2026
+
+Nigeria said resource mobilisation and contracting are complete for about 3,700 telecommunications towers to be deployed from October, aimed at more than 20 million people in unserved and underserved communities. A first tower is being installed in Delta State, with riverine communities targeted before mid-2027. *Also under [Digital divides](#digital-divides) and [Policy & strategy](#policy-strategy).*
+
+**[Smart Africa and AFRINIC hold talks on internet governance and digital transformation](https://techreviewafrica.com/news/6830/smart-africa-and-afrinic-hold-talks-on-internet-governance-and-digital-transformation)** — Tech Review Africa, 19 August 2026
+
+Summarised under [Regional governance](#regional-governance).
+
+**[Malawi digitises public auction platform](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD)** — ITWeb Africa, 19 August 2026
+
+Summarised under [GovTech](#govtech).
+
+**[46e Sommet de la SADC : Navin Ramgoolam annonce la creation d'un Carrier-Neutral Green Centre](https://lexpress.mu/node/561649)** — L'Express (Maurice), 19 August 2026
+
+Summarised under [Data centres & storage](#data-centres-storage).
 
 ### Cybersecurity
 
-**[Orange Sierra Leone Launches Scam Alert Tool to Combat Fraud](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/)** — techafricanews.com, 18 August 2026
+**[Your Personal Data Could Be Used to Create a Fake Person Using AI, INTERPOL Warns](https://www.kenyans.co.ke/news/126315-your-personal-data-could-be-used-create-fake-person-using-ai-interpol-warns)** — Kenyans.co.ke, 19 August 2026
 
-A mobile operator in Sierra Leone opened a channel for customers to report suspected fraud against its mobile-money service, reached on a *505# short code, an online form or a call to 111. It is the operator's own channel: no report volume, response time, remedy or referral route to the regulator or the police is published, in a market where the regulator has been running consumer warnings since July and no prosecution under the Cyber Security and Crime Act 2021 is on record. *Also under [Payments](#payments).*
+An international police body warned that criminals are combining stolen personal data with AI-generated content to build synthetic identities able to defeat bank, mobile-loan and SIM-registration checks. Kenya's investigations directorate raised the threat at a mentorship programme for new heads of East African bureaus and called for faster cross-border intelligence sharing. *Also under [Data protection](#data-protection).*
 
-**[Ghana Cyber Security Authority Fines EY Ghana GH¢360,000 for Unlicensed Services](https://techafricanews.com/2026/08/18/ghana-cyber-security-authority-fines-ey-ghana-gh360000-for-unlicensed-services/)** — techafricanews.com, 18 August 2026
+**[Journalists facing growing digital threats - Cybersecurity expert warns](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/)** — Ghana Business News (source: GNA), 19 August 2026
 
-Summarised under [Legislation](#legislation).
+A training session at Accra put newsroom devices to journalists as deliberate targets rather than accidental victims, under a national community media cyber capability project. The speaker cited an Angolan journalist's 2024 spyware infection as the regional precedent. *Also under [Training](#training).*
+
+**[Security, digital identity and technology set to spur Tanzania's growth](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/)** — Daily News (Tanzania), 19 August 2026
+
+Summarised under [Digital ID](#digital-id).
+
+**[Amnesty Warns of Right-Wing Argentinian Government's AI-Driven Surveillance State](https://www.commondreams.org/news/amnesty-international-argentina-surveillance)** — Common Dreams, 19 August 2026
+
+Summarised under [Artificial intelligence](#artificial-intelligence).
 
 ### Data centres & storage
 
-**[Konza Technopolis Partners Guodong Network to Accelerate Digital Infrastructure Development](https://techafricanews.com/2026/08/18/konza-technopolis-partners-guodong-network-to-accelerate-digital-infrastructure-development/)** — techafricanews.com, 18 August 2026
+**[Nigeria Begins Sovereign Cloud Certification In October](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/)** — CIO Africa, 19 August 2026
 
-Kenya's Konza Technopolis authority signed a memorandum with a Chinese network communications group covering the planning, investment, financing, design, development and maintenance of cloud, artificial-intelligence, high-performance-computing and smart-city infrastructure at the technopolis, plus knowledge transfer and local capacity building. It is a framework: no project, capacity, site, investment figure or date is stated, and the financing models are themselves stated as still to be explored. *Also under [MoUs & commitments](#mous-commitments).*
+Nigeria's technology agency signed four instruments establishing a national sovereign cloud initiative and will begin certifying cloud and artificial-intelligence infrastructure providers from October. Oversight sits with a new governance committee, and the stated ambition is to serve West and Central Africa. *Also under [Legislation](#legislation) and [Artificial intelligence](#artificial-intelligence).*
 
-**[AWS, Konza team up on hybrid cloud infrastructure](https://itweb.africa/article/aws-konza-team-up-on-hybrid-cloud-infrastructure/dgp45vaBlRg7X9l8)** — ITWeb Africa, 18 August 2026
+**[46e Sommet de la SADC : Navin Ramgoolam annonce la creation d'un Carrier-Neutral Green Centre](https://lexpress.mu/node/561649)** — L'Express (Maurice), 19 August 2026
 
-Kenya's Konza Technopolis authority signed a collaboration agreement with a hyperscaler putting its technical leadership behind an Outpost at the technopolis for hybrid cloud, and establishing a startup and innovation centre of excellence, with certification courses for authority staff and young Kenyans and credits for startups. Five days earlier the same arrangement was on the record as exploratory; the signed version still carries no capacity, site, investment figure or delivery date. *Also under [Training](#training).*
-
-**[Nigeria's new cloud policy puts government at the centre of its cloud market](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/)** — TechCabal, 18 August 2026
-
-Summarised under [Policy & strategy](#policy-strategy).
+Mauritius announced a carrier-neutral green data centre and a digital embassy village at the regional summit, presented as the digital leg of a bid to be a regional hub and gateway. The prime minister also said the government had paid over US$8.2m of arrears left unpaid by its predecessor. *Also under [Connectivity](#connectivity) and [Regional governance](#regional-governance).*
 
 ### Network capacity
+
+**[TÃ¼rkiye unveils national AI action plan for 2026-2030](https://www.turkiyetoday.com/business/turkiye-unveils-national-ai-action-plan-for-2026-2030-3226387)** — TÃ¼rkiye Today, 19 August 2026
+
+Summarised under [Policy & strategy](#policy-strategy).
 
 **[Telecom Egypt tests high-capacity spectrum](https://itweb.africa/article/telecom-egypt-tests-high-capacity-spectrum/RgeVDqPRka37KJN3)** — ITWeb Africa, 19 August 2026
 
 Summarised under [Connectivity](#connectivity).
 
+**[NSFAS gets 30 days to shake-off ICT limitations](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ)** — ITWeb South Africa, 19 August 2026
+
+Summarised under [GovTech](#govtech).
+
 ## Digital public infrastructure
 
 ### GovTech
+
+**[NSFAS gets 30 days to shake-off ICT limitations](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ)** — ITWeb South Africa, 19 August 2026
+
+South Africa's Public Protector gave the student-aid scheme's board 30 days to produce a digital modernisation and systems-integration plan, finding its systems insufficiently integrated with the home affairs, social security and revenue data it needs to verify students. The report records that the scheme cannot resolve 80% of contact-centre queries without internal escalation. *Also under [Data exchange](#data-exchange) and [Network capacity](#network-capacity).*
 
 **[NITDA and NAHCON Partner to Fully Digitise Nigeria’s Hajj Operations](https://techafricanews.com/2026/08/19/nitda-and-nahcon-partner-to-fully-digitise-nigerias-hajj-operations/)** — techafricanews.com, 19 August 2026
 
 Nigeria's IT development agency and the Hajj commission agreed to digitise pilgrimage operations end to end, covering registration, payment verification, flight-manifest management, logistics and real-time pilgrim tracking. The commission disclosed that its own ICT function runs on two developers. The agreement carries no scope document, budget, timetable or procurement. *Also under [Training](#training).*
 
-**[Nigeria Launches Centralised Gateway Portal for Government Services](https://techafricanews.com/2026/08/18/nigeria-launches-centralised-gateway-portal-for-government-services/)** — techafricanews.com, 18 August 2026
+**[Malawi digitises public auction platform](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD)** — ITWeb Africa, 19 August 2026
 
-Nigeria's communications ministry opened services.gov.ng as a single point of access to federal services previously spread across agency websites and offices, covering business registration, trade permits, identity verification, regulatory licensing and government empowerment programmes, and presented partly as a defence against fraudulent look-alike sites. No service count, transaction volume, cost or build attribution is published, and nothing states how it relates to the single sign-on government service portal soft-launched three weeks earlier.
+Malawi is scoping a web-based auctions platform to replace paper government auctions, carrying electronic bid submission, automated ranking, bidder anonymity and digital publication of results. Requirements were gathered at Blantyre under a World Bank-funded project. *Also under [Standards](#standards) and [Connectivity](#connectivity).*
 
-**[Mauritius Launches Online Licensing and Road Tax System for Taxi Operators](https://techafricanews.com/2026/08/18/mauritius-launches-online-licensing-road-tax-system-for-taxi-operators/)** — techafricanews.com, 18 August 2026
+**[Avec Swiftway Shippers, Abubakar Fuseini automatise la gestion du fret](https://www.wearetech.africa/fr/fils/tech-stars/avec-swiftway-shippers-abubakar-fuseini-automatise-la-gestion-du-fret)** — We Are Tech, 19 August 2026
 
-Mauritius opened an online motor vehicle licence system letting taxi operators renew the licence and pay road tax without visiting a post office or a land transport counter, which the ministry says will also build a database of operators. It was opened alongside a website for the operators' welfare fund, whose membership is 6,567 of 7,802 operators, with about 3,000 already on an electronic platform; the authority's underlying system is stated as outdated, with a tender launched to upgrade it.
-
-**[SARS invites input on VAT modernisation](https://www.itweb.co.za/article/sars-invites-input-on-vat-modernisation/DZQ58vV8m9NMzXy2)** — itweb.co.za, 18 August 2026
-
-Summarised under [Policy & strategy](#policy-strategy).
-
-**[Nigeria's new cloud policy puts government at the centre of its cloud market](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/)** — TechCabal, 18 August 2026
-
-Summarised under [Policy & strategy](#policy-strategy).
-
-**[NCC Leases Digital Industrial Park to Enugu Government for 15 Years](https://techafricanews.com/2026/08/18/ncc-leases-digital-industrial-park-to-enugu-government-for-15-years/)** — techafricanews.com, 18 August 2026
-
-Summarised under [Training](#training).
+Summarised under [Innovation](#innovation).
 
 ### Payments
 
-**[Quona Capital — Jem Series A, 2026](https://www.itweb.co.za/article/jem-raises-84m-to-expand-ai-powered-platform/DZQ58MV8mZjvzXy2)** — Quona Capital, 18 August 2026
+**[UnionPay and Standard Bank Expand E-Commerce Acceptance Across Nine African Markets](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/)** — Tech Africa News, 19 August 2026
 
-A fintech investor led a US$8.4m Series A for a South African workforce-management platform that runs over WhatsApp for frontline and deskless workers, with a university fund, a second fund and angel investors participating. The round is recorded as closed equity. *Also under [New investment](#new-investment).*
+A commercial bank and an international card scheme opened online acceptance of that scheme's cards to merchants in nine African markets, settling in local currency, United States dollars or both. Nearly 900 merchants participate across the nine, and no country-level count is given.
 
-**[Mukuru Launches Card in Botswana with Access Bank and Visa](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/)** — techafricanews.com, 18 August 2026
+**[Standard Bank expands UnionPay acceptance](https://itweb.africa/article/standard-bank-expands-unionpay-acceptance/KBpdgvpmBA47LEew)** — ITWeb Africa, 19 August 2026
 
-A remittance operator issued a card on its Botswana wallet through a commercial bank and an international scheme, adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only. No customer count, issuance volume or fee schedule is stated.
+A commercial bank group and an international card scheme expanded online acceptance across nine African markets, letting participating merchants take payments from the scheme's cardholders and settle in local currency, United States dollars or both. It builds on a collaboration the two established in 2024. *Also under [China](#china).*
 
-**[Kuda was the bank of the free. Now it wants to be more.](https://techcabal.com/2026/08/18/kuda-was-the-bank-of-the-free-now-it-wants-to-be-more/)** — TechCabal, 18 August 2026
+**[South Africa Proposes New Rules For Cross-Border Crypto Transactions](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/)** — CIO Africa, 19 August 2026
 
-A Nigerian digital bank set out its largest brand change since launching in 2019, replacing a standalone letter mark with a full wordmark and positioning itself beyond fee-free transfers toward a wider financial-services offering. The reporting sets it against competitors that have also moved past payments into licensed banking; no customer, revenue or licensing figure accompanies the change.
+South Africa's treasury and central bank published a draft manual for cross-border crypto activities, setting authorisation and reporting rules for crypto asset service providers and defining what counts as a cross-border crypto flow. Comments close on 30 September, and it sits alongside capital-flow regulations already in draft. *Also under [Legislation](#legislation).*
 
-**[Jem raises $8.4m to expand AI-powered platform](https://www.itweb.co.za/article/jem-raises-84m-to-expand-ai-powered-platform/DZQ58MV8mZjvzXy2)** — itweb.co.za, 18 August 2026
+**[Sierra Leone : vers une feuille de route contre la fraude liée au mobile money](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money)** — We Are Tech Africa, 19 August 2026
 
-A Cape Town workforce-management company running over WhatsApp raised US$8.4m in a Series A led by a fintech investor, to add time and attendance, rostering, onboarding, employee assistance and credit scoring. It reports more than 250,000 employees across more than 200 companies, revenue growth above 120% over the year and net revenue retention of 124%; the figures are the company's own. *Also under [New investment](#new-investment).*
+Sierra Leone is drafting a roadmap against mobile-money fraud after a two-day workshop brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together. It follows parliamentary pressure over identity-theft scams on one operator's network. *Also under [Policy & strategy](#policy-strategy).*
 
-**[BEAC Launches SYSTAC 2 to Modernise CEMAC’s Retail Payments Infrastructure](https://techafricanews.com/2026/08/18/beac-launches-systac-2-to-modernise-cemacs-retail-payments-infrastructure/)** — techafricanews.com, 18 August 2026
+**[M-PESA Ethiopia Unveils ‘Arada Enhun’ Merchant Campaign to Boost Digital Payments](https://techafricanews.com/2026/08/19/m-pesa-ethiopia-unveils-arada-enhun-merchant-campaign-to-boost-digital-payments/)** — Tech Africa News, 19 August 2026
 
-The Bank of Central African States took a replacement retail payments platform live across CEMAC on 3 August 2026, moving transfers, direct debits, cheques and card payments onto an ISO 20022 message standard with added anti-money-laundering, know-your-customer, regulatory reporting and dispute-resolution capability. It lands ahead of a new regional real-time gross settlement system; no transaction volume, participant count or cost is published. *Also under [Regional governance](#regional-governance).*
+An Ethiopian mobile-money operator opened a 90-day merchant promotion paying up to ETB 1m in prizes to merchants who take more digital payments, built around its scan-to-pay and merchant code services on a single code that accepts payment from other banks and wallets.
 
-**[Afriex Strengthens Cross-Border Payments Infrastructure with New GIB Partnership](https://techafricanews.com/2026/08/18/afriex-strengthens-cross-border-payments-infrastructure-with-new-gib-partnership/)** — techafricanews.com, 18 August 2026
+**[Le Togolais Esso Dong Djafalo interconnecte banques, mobile money et cryptos](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos)** — We Are Tech, 19 August 2026
 
-A cross-border payments platform signed a sponsor and settlement banking partnership effective from the second quarter of 2026, extending a banking network that already runs through banks in Kenya and Nigeria and supporting settlement and dollar-account access across more than 35 countries for its business payments interface. No volume, value or fee figure is stated. *Also under [MoUs & commitments](#mous-commitments).*
+A Togolese financial-technology firm founded in 2024 runs a single platform interconnecting bank transfers, mobile wallets and dollar stablecoins, converting into the naira, shilling, cedi and the CFA francs. It also exposes payment operations to autonomous software agents. *Also under [Innovation](#innovation).*
 
-**[Absa's digital push comes with a 540 million dollar price tag](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/)** — TechCabal, 18 August 2026
+**[Ezeebit Integrates ZARU to Expand Digital Asset Merchant Payments](https://techafricanews.com/2026/08/19/ezeebit-integrates-zaru-to-expand-digital-asset-merchant-payments/)** — Tech Africa News, 19 August 2026
 
-A large South African bank put technology spending at R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment following a R2.4bn write-down in 2025 and a cost-to-income ratio still rising. It is a group figure across a 17-country, 13.4-million-customer footprint, so it bounds the cost of digital migration at one institution rather than for the sector.
+A merchant payments provider integrated a rand-backed digital asset into its infrastructure, letting its commerce partners make and receive payments in it. The issuer's account of growing merchant use carries no transaction count or value.
 
-**[Orange Sierra Leone Launches Scam Alert Tool to Combat Fraud](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/)** — techafricanews.com, 18 August 2026
+**[Lesaka brings data science to SA's spaza economy](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am)** — ITWeb South Africa, 19 August 2026
 
-Summarised under [Cybersecurity](#cybersecurity).
+Summarised under [Industry](#industry).
+
+**[Avec Swiftway Shippers, Abubakar Fuseini automatise la gestion du fret](https://www.wearetech.africa/fr/fils/tech-stars/avec-swiftway-shippers-abubakar-fuseini-automatise-la-gestion-du-fret)** — We Are Tech, 19 August 2026
+
+Summarised under [Innovation](#innovation).
 
 ### Digital ID
 
-**[Liberia advances PPP-backed digital ID rollout with OSD](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd)** — Biometric Update, 18 August 2026
+**[ฝ่ายค้านจับตา TH-AI Passport เปิดลงทะเบียนวันแรก จี้รัฐเปิดสัญญาจัดซื้อจัดจ้าง 1.5 พันล้านบาทให้ตรวจสอบ](https://thestandard.co/ai-pass-data-contract/)** — THE STANDARD, 19 August 2026
 
-Consultations on Liberia's draft concession agreement with the Austrian state printing house have concluded and the agreement has gone to Parliament for approval, the next step toward restarting nationwide biometric enrolment. National identity coverage stands below 15% of a population above five million and mass enrolment has been suspended since June 2025; the registry says it will disclose the terms only once ratification is complete, and officials say issuance will be free for poor first-time applicants. *Also under [MoUs & commitments](#mous-commitments).*
+Thailand's opposition is demanding disclosure of the 1.5bn baht procurement contract behind the AI Pass digital identity, on concerns that personal data may be processed abroad in breach of the contract's own terms of reference. Pre-registration opened as the challenge was made, ahead of a 31 August launch. *Also under [Data protection](#data-protection) and [Public discourse](#public-discourse).*
+
+**[Security, digital identity and technology set to spur Tanzania's growth](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/)** — Daily News (Tanzania), 19 August 2026
+
+Tanzania's home affairs ministry told Parliament that its 2026/27 budget prioritises the national digital identifier's rollout, cybersecurity and institutional capacity, including new district registration offices, a headquarters at Dodoma and cybercrime investigation centres at Dodoma and Zanzibar. No cost line or timetable accompanies the priority. *Also under [Cybersecurity](#cybersecurity) and [Policy & strategy](#policy-strategy).*
+
+### Data exchange
+
+**[NSFAS gets 30 days to shake-off ICT limitations](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ)** — ITWeb South Africa, 19 August 2026
+
+Summarised under [GovTech](#govtech).
 
 ## Governance
 
 ### Policy & strategy
 
-**[SARS invites input on VAT modernisation](https://www.itweb.co.za/article/sars-invites-input-on-vat-modernisation/DZQ58vV8m9NMzXy2)** — itweb.co.za, 18 August 2026
+**[TÃ¼rkiye unveils national AI action plan for 2026-2030](https://www.turkiyetoday.com/business/turkiye-unveils-national-ai-action-plan-for-2026-2030-3226387)** — TÃ¼rkiye Today, 19 August 2026
 
-South Africa's revenue service released a VAT modernisation consultation paper proposing a digital VAT model of electronic invoicing, an interoperability framework and electronic reporting, meant to move VAT administration off manual processes and retrospective verification and into the systems businesses already run. It follows a 2023 discussion paper and is stated as building blocks: the account carries no closing date for comment, implementation timetable, cost or legislative vehicle. *Also under [GovTech](#govtech).*
+Turkiye set out a national artificial-intelligence action plan for 2026 to 2030, targeting a gigawatt of data-centre capacity, US$10bn of mostly private investment through an incentive programme, and literacy training for five million people. *Also under [Artificial intelligence](#artificial-intelligence), [Network capacity](#network-capacity) and [Training](#training).*
 
-**[Nigeria's new cloud policy puts government at the centre of its cloud market](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/)** — TechCabal, 18 August 2026
+**[Sierra Leone : vers une feuille de route contre la fraude liée au mobile money](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money)** — We Are Tech Africa, 19 August 2026
 
-Nigeria's new National Digital Cloud Policy makes cloud the default for new federal systems, with time-bound exemptions assessed by the IT development agency against published criteria and kept in a register, and pools ministry demand through the government infrastructure company into framework agreements bought on a national digital marketplace. It sorts government and regulated data into four levels, from national-security data hosted only in Nigeria to public data with no residency rule, and imposes no general localisation on commercial data; a regulator must apply for a category to be designated sovereign. It supersedes the 2019 cloud policy, whose Cloud First principle the new text says was applied unevenly for want of a coordinating framework. *Also under [Data centres & storage](#data-centres-storage) and [GovTech](#govtech).*
+Summarised under [Payments](#payments).
 
-**[Mozambique Presents National AI Strategy Proposal to Vodacom](https://techafricanews.com/2026/08/18/mozambique-presents-national-ai-strategy-proposal-to-vodacom/)** — techafricanews.com, 18 August 2026
+**[Security, digital identity and technology set to spur Tanzania's growth](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/)** — Daily News (Tanzania), 19 August 2026
 
-Mozambique's ICT institute set out the proposed national artificial-intelligence strategy to the largest mobile operator on 12 August, in a consultation the institute says is running alongside public hearings and sectoral harmonisation. It puts the drafting under the communications ministry with UNESCO and other partners supporting, and gives the strategy three areas: digital inclusion and access to automated public services, private-sector innovation and technology jobs, and ethical and governance frameworks for data security. No consultation record, respondent list or revised draft is published, and the strategy has not reached the Council of Ministers. *Also under [Artificial intelligence](#artificial-intelligence).*
+Summarised under [Digital ID](#digital-id).
 
-**[Lesotho Begins Work on National AI Strategy and Data Centre Blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/)** — techafricanews.com, 18 August 2026
+**[FG to expand internet access for 20m Nigerians in new 3,700 tower deployment](https://guardian.ng/business-services/fg-to-expand-internet-access-for-20m-nigerians-in-new-3700-tower-deployment/)** — The Guardian Nigeria, 19 August 2026
 
-Lesotho's communications ministry opened a five-day workshop in Maseru on 17 August, run with the United Nations in Lesotho, to draft a National AI Strategy and a data-centre blueprint. The deputy prime minister's keynote asked for existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated for either document. *Also under [Artificial intelligence](#artificial-intelligence).*
+Summarised under [Connectivity](#connectivity).
 
 ### Legislation
 
-**[Remote Work And The African Professional: Freedom Or New Exploitation?](https://techtrends.africa/remote-work-and-the-african-professional/)** — techtrends.africa, 18 August 2026
+**[Sebi to soon roll out AI rules with a 'kill switch' for stock market](https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms)** — The Economic Times, 19 August 2026
 
-A trade commentary weighs what remote work has done for professionals in Nigeria, Kenya and South Africa, citing compensation data putting a mid-level Nigerian cloud engineer at eight to ten times local pay on a foreign contract, and Kenyan international rates at US$35 to US$60 an hour against a few hundred shillings domestically. Its argument is that the same wage gap that reverses the talent flow also concentrates leverage with the foreign employer. It is argument over compiled third-party rate data, not a survey. *Also under [Industry](#industry).*
+India's securities regulator plans to require a kill switch and human oversight for artificial-intelligence tools used across the securities market. Tiered guidelines will hold every regulated entity fully responsible for a tool's outputs and data handling, whether it was built in-house or bought in. *Also under [Artificial intelligence](#artificial-intelligence).*
 
-**[Ghana Cyber Security Authority Fines EY Ghana GH¢360,000 for Unlicensed Services](https://techafricanews.com/2026/08/18/ghana-cyber-security-authority-fines-ey-ghana-gh360000-for-unlicensed-services/)** — techafricanews.com, 18 August 2026
+**[Japan to require AI firms to disclose training data](https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/)** — The Japan Times, 19 August 2026
 
-Ghana's Cyber Security Authority fined a Big Four firm's Ghana practice GH¢360,000, three penalties of GH¢120,000, for continuing to provide regulated cybersecurity services without a licence, including to owners of critical information infrastructure, after three directives to comply. It ordered the firm to cease and desist, governance, risk and compliance work included, and stated that reputation and clientele are no exemption and that it will name unlicensed providers publicly. It is the second published enforcement action under the Act in six days. *Also under [Cybersecurity](#cybersecurity).*
+Japan will ask generative artificial-intelligence firms to disclose their training data and collection methods under a non-binding comply-or-explain code, approved by a government expert panel and covering foreign providers operating in the country. *Also under [Artificial intelligence](#artificial-intelligence).*
+
+**[UK 'Open to Discussing' Digital Services Tax With Trump Administration](https://www.politico.eu/article/uk-open-to-discussing-digital-services-tax-with-trump-administration/)** — Politico Europe, 19 August 2026
+
+Summarised under [United States](#united-states).
+
+**[South Africa Proposes New Rules For Cross-Border Crypto Transactions](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/)** — CIO Africa, 19 August 2026
+
+Summarised under [Payments](#payments).
+
+**[Satellite Communications Guidelines (LTA-GL-002-2026)](https://lta.gov.lr/wp-content/uploads/2026/03/SATELLITE-COMMUNICATIONS-GUIDELINES.clean_.fv_.2.25.26-FINAL-VERSION.pdf)** — Liberia Telecommunications Authority, 19 August 2026
+
+Summarised under [Connectivity](#connectivity).
+
+**[Nigeria Begins Sovereign Cloud Certification In October](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/)** — CIO Africa, 19 August 2026
+
+Summarised under [Data centres & storage](#data-centres-storage).
+
+**[Message of Support by Deputy Minister Nel at the SAHRC Online Stakeholder Engagement on Information Integrity and Human Rights](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html)** — Department of Justice and Constitutional Development (South Africa), 19 August 2026
+
+Summarised under [Public discourse](#public-discourse).
 
 **[Malawi Regulator Warns Against Sharing Non-Consensual Intimate Content Online](https://techafricanews.com/2026/08/19/malawi-regulator-warns-against-sharing-non-consensual-intimate-content/)** — techafricanews.com, 19 August 2026
 
 Summarised under [Data protection](#data-protection).
+
+**[LTA Signs New Satellite Framework, Targets Digital Access Across Liberia](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html)** — Liberian Observer, 19 August 2026
+
+Summarised under [Connectivity](#connectivity).
+
+**[AFRINIC's Constitution Is Africa's Next Internet Stress Test](https://circleid.com/posts/afrinics-constitution-is-africas-next-internet-stress-test)** — CircleID, 19 August 2026
+
+Summarised under [Regional governance](#regional-governance).
+
+**['I Couldn't Lose Another Friend': Korean Teen Calls for Social Media Algorithm Rules](https://www.koreatimes.co.kr/southkorea/society/20260819/i-couldnt-lose-another-friend-korean-teen-calls-for-social-media-algorithm-rules)** — The Korea Times, 19 August 2026
+
+Summarised under [Public discourse](#public-discourse).
 
 ### Data protection
 
@@ -166,25 +236,77 @@ Summarised under [Data protection](#data-protection).
 
 Malawi's communications regulator, which holds the data-protection mandate, issued a notice warning that recording, publishing or sharing non-consensual intimate content breaches the Data Protection Act 2024, carrying fines to K20,000,000 and up to five years' imprisonment under section 49, with separate penalties under the electronic transactions and cyber security Act of 2016. It states the law rather than applying it: no case, complaint count or enforcement action accompanies it. *Also under [Legislation](#legislation).*
 
+**[2024 Data Privacy Law: Stakeholders Discuss Benefits, Legal Void](https://cameroon-tribune.cm/article.html/79723/en.html/details_2)** — Cameroon Tribune, 19 August 2026
+
+Cameroonian civil society pressed regulators on the enforcement gaps in the 2024 data protection law at a forum in Yaounde. A legal expert set out the 75-article law's consent, access and erasure rights and penalties reaching 100 million CFA francs, while officials discussed how it is applied in practice. *Also under [Public discourse](#public-discourse).*
+
+**[ฝ่ายค้านจับตา TH-AI Passport เปิดลงทะเบียนวันแรก จี้รัฐเปิดสัญญาจัดซื้อจัดจ้าง 1.5 พันล้านบาทให้ตรวจสอบ](https://thestandard.co/ai-pass-data-contract/)** — THE STANDARD, 19 August 2026
+
+Summarised under [Digital ID](#digital-id).
+
+**[Your Personal Data Could Be Used to Create a Fake Person Using AI, INTERPOL Warns](https://www.kenyans.co.ke/news/126315-your-personal-data-could-be-used-create-fake-person-using-ai-interpol-warns)** — Kenyans.co.ke, 19 August 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+**[Message of Support by Deputy Minister Nel at the SAHRC Online Stakeholder Engagement on Information Integrity and Human Rights](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html)** — Department of Justice and Constitutional Development (South Africa), 19 August 2026
+
+Summarised under [Public discourse](#public-discourse).
+
 ### Regional governance
 
-**[BEAC Launches SYSTAC 2 to Modernise CEMAC’s Retail Payments Infrastructure](https://techafricanews.com/2026/08/18/beac-launches-systac-2-to-modernise-cemacs-retail-payments-infrastructure/)** — techafricanews.com, 18 August 2026
+**[Smart Africa and AFRINIC hold talks on internet governance and digital transformation](https://techreviewafrica.com/news/6830/smart-africa-and-afrinic-hold-talks-on-internet-governance-and-digital-transformation)** — Tech Review Africa, 19 August 2026
 
-Summarised under [Payments](#payments).
+A continental digital alliance met the regional internet registry's board on cooperation in internet governance and digital policy. The talks centred on a proposed council of African internet governance agencies as a coordination platform, and named continental free roaming as an area for future work. *Also under [Connectivity](#connectivity).*
+
+**[AFRINIC's Constitution Is Africa's Next Internet Stress Test](https://circleid.com/posts/afrinics-constitution-is-africas-next-internet-stress-test)** — CircleID, 19 August 2026
+
+A cyberdiplomacy consultant argued that the regional internet registry's second draft constitution deserves member support only if it converts the registry's litigation, disputed elections and receivership paralysis into durable checks against capture. He reversed an earlier position against early reform, saying the article-by-article rationale now gives members enough to test. *Also under [Legislation](#legislation) and [Public discourse](#public-discourse).*
+
+**[46e Sommet de la SADC : Navin Ramgoolam annonce la creation d'un Carrier-Neutral Green Centre](https://lexpress.mu/node/561649)** — L'Express (Maurice), 19 August 2026
+
+Summarised under [Data centres & storage](#data-centres-storage).
+
+### Standards
+
+**[US urged to follow China's lead in treating data as an economic asset](https://www.scmp.com/news/us/economy-trade-business/article/3364489/us-urged-follow-chinas-lead-treating-data-economic-asset)** — South China Morning Post, 19 August 2026
+
+Summarised under [China](#china).
+
+**[Malawi digitises public auction platform](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD)** — ITWeb Africa, 19 August 2026
+
+Summarised under [GovTech](#govtech).
 
 ### Public discourse
 
-**[Mozambique Explores AI’s Role in Driving Cultural and Creative Economy](https://techafricanews.com/2026/08/18/mozambique-explores-ais-role-in-driving-cultural-and-creative-economy/)** — techafricanews.com, 18 August 2026
+**[Message of Support by Deputy Minister Nel at the SAHRC Online Stakeholder Engagement on Information Integrity and Human Rights](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html)** — Department of Justice and Constitutional Development (South Africa), 19 August 2026
 
-Summarised under [Artificial intelligence](#artificial-intelligence).
+South Africa's deputy justice minister told a rights commission engagement that government should not become the custodian of truth on disinformation, while warning against leaving the information environment to private platforms' algorithms. The speech launched the commission's policy brief on information integrity and human rights. *Also under [Legislation](#legislation) and [Data protection](#data-protection).*
+
+**['I Couldn't Lose Another Friend': Korean Teen Calls for Social Media Algorithm Rules](https://www.koreatimes.co.kr/southkorea/society/20260819/i-couldnt-lose-another-friend-korean-teen-calls-for-social-media-algorithm-rules)** — The Korea Times, 19 August 2026
+
+An eighteen-year-old petitioned South Korea's National Assembly for a law obliging social media platforms to police addictive algorithms rather than putting the burden on teenagers, proposing a mandatory protection mode blocking self-harm and violent content for teen accounts, with fines for platforms that do not comply. *Also under [Legislation](#legislation).*
+
+**[ฝ่ายค้านจับตา TH-AI Passport เปิดลงทะเบียนวันแรก จี้รัฐเปิดสัญญาจัดซื้อจัดจ้าง 1.5 พันล้านบาทให้ตรวจสอบ](https://thestandard.co/ai-pass-data-contract/)** — THE STANDARD, 19 August 2026
+
+Summarised under [Digital ID](#digital-id).
+
+**[Zanzibar hosts a three day Data Tamasha Africa 2026](https://ippmedia.co.tz/the-guardian/news/local-news/read/zanzibar-hosts-a-three-day-data-tamasha-africa-2026-2026-08-19-163650)** — The Guardian (Tanzania) / IPP Media, 19 August 2026
+
+Summarised under [Innovation](#innovation).
+
+**[China is Winning the AI Safety Wars](https://nymag.com/intelligencer/article/china-us-ai-regulation.html)** — New York Magazine (Intelligencer), 19 August 2026
+
+Summarised under [China](#china).
+
+**[AFRINIC's Constitution Is Africa's Next Internet Stress Test](https://circleid.com/posts/afrinics-constitution-is-africas-next-internet-stress-test)** — CircleID, 19 August 2026
+
+Summarised under [Regional governance](#regional-governance).
+
+**[2024 Data Privacy Law: Stakeholders Discuss Benefits, Legal Void](https://cameroon-tribune.cm/article.html/79723/en.html/details_2)** — Cameroon Tribune, 19 August 2026
+
+Summarised under [Data protection](#data-protection).
 
 ## Inclusion
-
-### Access
-
-**[Avec Zendawa, Wilfred Chege modernise et facilite le financement des pharmacies](https://www.wearetech.africa/fr/fils/tech-stars/avec-zendawa-wilfred-chege-modernise-et-facilite-le-financement-des-pharmacies)** — wearetech.africa, 18 August 2026
-
-A Kenyan health-technology platform founded in 2022 connects patients to pharmacies for ordering and delivery and remote consultation booking, and gives pharmacies inventory and finance management. It uses pharmacy activity data to help partner lenders assess credit for those pharmacies. The profile carries no user, pharmacy or lending figure. *Also under [Innovation](#innovation).*
 
 ### Digital divides
 
@@ -192,65 +314,119 @@ A Kenyan health-technology platform founded in 2022 connects patients to pharmac
 
 Summarised under [Training](#training).
 
+**[FG to expand internet access for 20m Nigerians in new 3,700 tower deployment](https://guardian.ng/business-services/fg-to-expand-internet-access-for-20m-nigerians-in-new-3700-tower-deployment/)** — The Guardian Nigeria, 19 August 2026
+
+Summarised under [Connectivity](#connectivity).
+
 ## Technology
 
 ### Artificial intelligence
 
-**[Mozambique Explores AI’s Role in Driving Cultural and Creative Economy](https://techafricanews.com/2026/08/18/mozambique-explores-ais-role-in-driving-cultural-and-creative-economy/)** — techafricanews.com, 18 August 2026
+**[Amnesty Warns of Right-Wing Argentinian Government's AI-Driven Surveillance State](https://www.commondreams.org/news/amnesty-international-argentina-surveillance)** — Common Dreams, 19 August 2026
 
-At a national cultural dialogue in Maputo on 14 August, the ICT institute's board president set out artificial intelligence in the creative economy as a question of ethical governance, algorithmic transparency and intellectual property, aligned to the proposed national AI strategy. He also named a National Artificial Intelligence Observatory as expected to support transparency and measure the impact of AI deployment; it exists as a remark, with no establishing instrument, host, membership or funding on the record. *Also under [Public discourse](#public-discourse).*
+A rights organisation reported that Argentina's government has built an artificial-intelligence surveillance apparatus using facial recognition, open-source intelligence tooling and tracking drones. It finds a chilling effect that has cut protest participation and led activists and journalists to censor themselves. *Also under [Cybersecurity](#cybersecurity).*
 
-**[La Fondation Gates offre jusqu’à 500 000 $ pour l’utilisation de l’IA dans le planning familial](https://www.wearetech.africa/fr/fils/breves/breves-une/la-fondation-gates-offre-jusqu-a-500-000-pour-l-utilisation-de-l-ia-dans-le-planning-familial)** — wearetech.africa, 18 August 2026
+**[Zanzibar hosts a three day Data Tamasha Africa 2026](https://ippmedia.co.tz/the-guardian/news/local-news/read/zanzibar-hosts-a-three-day-data-tamasha-africa-2026-2026-08-19-163650)** — The Guardian (Tanzania) / IPP Media, 19 August 2026
 
-A private foundation opened a call for proposals using artificial intelligence to widen access to digital contraception information across sub-Saharan Africa, offering up to US$500,000 a project, with applications closing on 25 August 2026. No envelope total, grant count or decision date is published, so the per-project ceiling is the only figure the call can be bounded by. *Also under [New investment](#new-investment).*
+Summarised under [Innovation](#innovation).
 
-**[African CEOs fear they are not investing enough in AI - Cisco](https://www.connectingafrica.com/ai/african-ceos-fear-they-are-not-investing-enough-in-ai-cisco)** — Connecting Africa, 18 August 2026
-
-A vendor's second annual survey of 2,500 chief executives reports 67% of African respondents fearing their business is under-investing in artificial intelligence, up from 57% a year earlier, with 93% more optimistic about its potential than in 2025 and infrastructure limits named by 48% as the barrier to scaling. It measures stated sentiment among the vendor's survey sample, not investment.
-
-**[Trident Digital Tech and DIG Launch AI Venture Targeting SMEs Across Africa, Asia and Middle East](https://techafricanews.com/2026/08/18/trident-digital-tech-dig-ai-venture-africa-asia-middle-east/)** — techafricanews.com, 18 August 2026
-
-Summarised under [MoUs & commitments](#mous-commitments).
-
-**[Mozambique Presents National AI Strategy Proposal to Vodacom](https://techafricanews.com/2026/08/18/mozambique-presents-national-ai-strategy-proposal-to-vodacom/)** — techafricanews.com, 18 August 2026
+**[TÃ¼rkiye unveils national AI action plan for 2026-2030](https://www.turkiyetoday.com/business/turkiye-unveils-national-ai-action-plan-for-2026-2030-3226387)** — TÃ¼rkiye Today, 19 August 2026
 
 Summarised under [Policy & strategy](#policy-strategy).
 
-**[Lesotho Begins Work on National AI Strategy and Data Centre Blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/)** — techafricanews.com, 18 August 2026
+**[Sebi to soon roll out AI rules with a 'kill switch' for stock market](https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms)** — The Economic Times, 19 August 2026
 
-Summarised under [Policy & strategy](#policy-strategy).
+Summarised under [Legislation](#legislation).
+
+**[Nigeria Begins Sovereign Cloud Certification In October](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/)** — CIO Africa, 19 August 2026
+
+Summarised under [Data centres & storage](#data-centres-storage).
+
+**[Japan to require AI firms to disclose training data](https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/)** — The Japan Times, 19 August 2026
+
+Summarised under [Legislation](#legislation).
+
+**[China is Winning the AI Safety Wars](https://nymag.com/intelligencer/article/china-us-ai-regulation.html)** — New York Magazine (Intelligencer), 19 August 2026
+
+Summarised under [China](#china).
 
 ### Industry
+
+**[Nigeria to earn $41 million from MTN's $406 million dividend payout](https://techcabal.com/2026/08/19/nigeria-to-earn-41-million-from-mtns-406-million-dividend-payout/)** — TechCabal, 19 August 2026
+
+Nigeria stands to receive about US$41m from a US$406m dividend payout by the mobile incumbent, on a calculation from the declared payout and the state's holding. No government confirmation of receipt is on record.
 
 **[MTN Uganda Launches Webphone with Webex for Global Business Connectivity](https://techafricanews.com/2026/08/19/mtn-uganda-launches-webphone-with-webex-for-global-business-connectivity/)** — techafricanews.com, 19 August 2026
 
 MTN Uganda opened a service pairing its telephony with a collaboration platform, letting customers use their Ugandan number while abroad. No price, availability date or subscriber target is stated.
 
-**[Remote Work And The African Professional: Freedom Or New Exploitation?](https://techtrends.africa/remote-work-and-the-african-professional/)** — techtrends.africa, 18 August 2026
+**[Lesaka brings data science to SA's spaza economy](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am)** — ITWeb South Africa, 19 August 2026
 
-Summarised under [Legislation](#legislation).
+A listed South African payments company began selling near-real-time item-level intelligence on the informal retail economy, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers. *Also under [Payments](#payments) and [Statistics](#statistics).*
 
 ### Innovation
 
-**[Le Bénin va accueillir la rencontre annuelle d’AfriLabs en novembre](https://www.wearetech.africa/fr/fils/breves/breves-une/le-benin-va-accueillir-la-rencontre-annuelle-d-afrilabs-en-novembre)** — wearetech.africa, 18 August 2026
+**[Zanzibar hosts a three day Data Tamasha Africa 2026](https://ippmedia.co.tz/the-guardian/news/local-news/read/zanzibar-hosts-a-three-day-data-tamasha-africa-2026-2026-08-19-163650)** — The Guardian (Tanzania) / IPP Media, 19 August 2026
 
-The pan-African innovation-hub network AfriLabs will hold its eleventh annual gathering in Cotonou on 18 to 20 November 2026, the first edition hosted in a Francophone country, drawing on a membership the network puts above 500 hubs. *Also under [Research](#research).*
+A three-day data gathering opened in Zanzibar with more than 300 delegates from over 100 organisations and 30 countries, co-hosted by a Tanzanian data lab and a research organisation with the islands' communications ministry. The minister pitched it as evidence of a bid to become a regional hub for digital innovation and data governance. *Also under [Open data](#open-data), [Artificial intelligence](#artificial-intelligence) and [Public discourse](#public-discourse).*
 
-**[Lancement du Commonwealth Startup Fellowship pour soutenir les jeunes entreprises](https://www.wearetech.africa/fr/fils/breves/breves-une/lancement-du-commonwealth-startup-fellowship-pour-soutenir-les-jeunes-entreprises)** — wearetech.africa, 18 August 2026
+**[These Kenyan startups raised $500 million before shutting down. Where are the founders now?](https://techcabal.com/2026/08/19/500m-raised-shutdown-kenyan-startup-founders-now/)** — TechCabal, 19 August 2026
 
-Summarised under [Training](#training).
+Ten Kenyan startups that between them raised more than US$500m have shut down, entered administration or abandoned their core business over five years, on a traced roll-call built from regulatory and corporate filings. The three largest raised US$123m, more than US$117m and over US$100m, across logistics, commerce, agriculture, finance, energy and manufacturing. *Also under [New investment](#new-investment).*
 
-**[Commonwealth Startup Fellowship Opens: Fully Funded Path From Accra To London For African Founders](https://techtrends.africa/commonwealth-startup-fellowship-opens-fully-funded-path-from-accra-to-london-for-african-founders/)** — techtrends.africa, 18 August 2026
+**[Avec Swiftway Shippers, Abubakar Fuseini automatise la gestion du fret](https://www.wearetech.africa/fr/fils/tech-stars/avec-swiftway-shippers-abubakar-fuseini-automatise-la-gestion-du-fret)** — We Are Tech, 19 August 2026
 
-Summarised under [Training](#training).
+A Ghanaian freight platform founded in 2023 takes booking, cost estimation, secured payment and cargo tracking, and handles customs formalities and border documentation for importers, exporters and online merchants. It uses the transport data it holds to analyse clients' costs, routes and performance. *Also under [GovTech](#govtech) and [Payments](#payments).*
 
-**[Avec Zendawa, Wilfred Chege modernise et facilite le financement des pharmacies](https://www.wearetech.africa/fr/fils/tech-stars/avec-zendawa-wilfred-chege-modernise-et-facilite-le-financement-des-pharmacies)** — wearetech.africa, 18 August 2026
+**[Le Togolais Esso Dong Djafalo interconnecte banques, mobile money et cryptos](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos)** — We Are Tech, 19 August 2026
 
-Summarised under [Access](#access).
+Summarised under [Payments](#payments).
 
-**[Avec Wekraft, le Rwandais Staphord Nkumbuye prépare les enfants aux métiers de demain](https://www.wearetech.africa/fr/fils/tech-stars/avec-wekraft-le-rwandais-staphord-nkumbuye-prepare-les-enfants-aux-metiers-de-demain)** — wearetech.africa, 18 August 2026
+## Geopolitics
 
-Summarised under [Training](#training).
+### United States
+
+**[UK 'Open to Discussing' Digital Services Tax With Trump Administration](https://www.politico.eu/article/uk-open-to-discussing-digital-services-tax-with-trump-administration/)** — Politico Europe, 19 August 2026
+
+The United Kingdom said it is open to discussing American concerns over its digital services tax, after the United States trade representative said a threat of 100% tariffs on countries imposing such taxes was not a bluff. *Also under [Legislation](#legislation).*
+
+**[Will Washington's tech crackdown test fragile US-China truce?](https://www.scmp.com/news/us/article/3364479/will-washingtons-tech-crackdown-test-fragile-us-china-truce)** — South China Morning Post, 19 August 2026
+
+Summarised under [China](#china).
+
+**[US urged to follow China's lead in treating data as an economic asset](https://www.scmp.com/news/us/economy-trade-business/article/3364489/us-urged-follow-chinas-lead-treating-data-economic-asset)** — South China Morning Post, 19 August 2026
+
+Summarised under [China](#china).
+
+**[China urges respect for digital sovereignty in AI race](https://bluewaterhealthyliving.com/news/world-news/china-urges-respect-for-digital-sovereignty-in-ai-race/)** — Reuters (via Blue Water Healthy Living), 19 August 2026
+
+Summarised under [China](#china).
+
+**[China is Winning the AI Safety Wars](https://nymag.com/intelligencer/article/china-us-ai-regulation.html)** — New York Magazine (Intelligencer), 19 August 2026
+
+Summarised under [China](#china).
+
+### China
+
+**[Will Washington's tech crackdown test fragile US-China truce?](https://www.scmp.com/news/us/article/3364479/will-washingtons-tech-crackdown-test-fragile-us-china-truce)** — South China Morning Post, 19 August 2026
+
+The United States communications regulator has become the sharpest instrument of the administration's action against Chinese technology, advancing bans on robots, power inverters, telecoms operators and testing laboratories. Beijing tested the trade truce in the same week with drone-export curbs and sanctions on seven American firms. *Also under [United States](#united-states).*
+
+**[US urged to follow China's lead in treating data as an economic asset](https://www.scmp.com/news/us/economy-trade-business/article/3364489/us-urged-follow-chinas-lead-treating-data-economic-asset)** — South China Morning Post, 19 August 2026
+
+A United States congressional advisory body told Washington to treat data as an economic asset in the way Beijing does, and warned that the standards contest is being lost by default. Its report urges a national data strategy, noting that standards are difficult to revise once adopted and that China designated data a factor of production in 2020. *Also under [United States](#united-states) and [Standards](#standards).*
+
+**[China urges respect for digital sovereignty in AI race](https://bluewaterhealthyliving.com/news/world-news/china-urges-respect-for-digital-sovereignty-in-ai-race/)** — Reuters (via Blue Water Healthy Living), 19 August 2026
+
+China's foreign ministry said it opposes taking sides and forming camps on artificial intelligence, responding to a reported American letter pressing signatories of a United States framework to drop China's competing one. The draft letter is reported to warn the 35 signatories that they cannot hold parallel commitments. *Also under [United States](#united-states).*
+
+**[China is Winning the AI Safety Wars](https://nymag.com/intelligencer/article/china-us-ai-regulation.html)** — New York Magazine (Intelligencer), 19 August 2026
+
+A feature reports China positioning itself as the more responsible power in artificial-intelligence governance at July's world conference, as Washington's deregulatory turn cedes safety-diplomacy ground. It notes that only five of ten Chinese laboratories published safety evaluations this year. *Also under [United States](#united-states), [Artificial intelligence](#artificial-intelligence) and [Public discourse](#public-discourse).*
+
+**[Standard Bank expands UnionPay acceptance](https://itweb.africa/article/standard-bank-expands-unionpay-acceptance/KBpdgvpmBA47LEew)** — ITWeb Africa, 19 August 2026
+
+Summarised under [Payments](#payments).
 
 ## Capacity
 
@@ -264,102 +440,38 @@ Kenya's ICT principal secretary opened a private academy's virtual learning plat
 
 Kenya's Communications Authority set a target of 120,000 people across 19 counties over three years for digital skills training, delivered through the Universal Service Fund's Digital Skilling Project in unserved and underserved areas and tied to the national digital master plan. No budget line, delivery partner, county list or start date accompanies the target, and the fund's own FY2025/26 account is unpublished. *Also under [Digital divides](#digital-divides).*
 
-**[Startup Abuja — Student Aid Programme, 2026](https://www.wearetech.africa/fr/fils/breves/breves-une/startup-abuja-lance-un-programme-de-50-millions-de-nairas-pour-les-etudiants)** — , 18 August 2026
+**[TÃ¼rkiye unveils national AI action plan for 2026-2030](https://www.turkiyetoday.com/business/turkiye-unveils-national-ai-action-plan-for-2026-2030-3226387)** — TÃ¼rkiye Today, 19 August 2026
 
-A private Nigerian accelerator opened applications for a student aid programme of 50 million naira, about US$37,000, covering tuition support, a monthly stipend and paid remote internships for higher-education students. No place count, selection criterion or disbursement schedule is published. *Also under [New investment](#new-investment).*
-
-**[Startup Abuja lance un programme de 50 millions de nairas pour les étudiants](https://www.wearetech.africa/fr/fils/breves/breves-une/startup-abuja-lance-un-programme-de-50-millions-de-nairas-pour-les-etudiants)** — wearetech.africa, 18 August 2026
-
-Applications opened for a 50-million-naira student aid programme run by a private Nigerian accelerator, offering tuition support, a monthly stipend and paid remote internships alongside entrepreneurship training. Applications close on 31 August 2026. *Also under [New investment](#new-investment).*
-
-**[NCC Leases Digital Industrial Park to Enugu Government for 15 Years](https://techafricanews.com/2026/08/18/ncc-leases-digital-industrial-park-to-enugu-government-for-15-years/)** — techafricanews.com, 18 August 2026
-
-Nigeria's communications regulator leased its Enugu digital industrial park and learning centre to the state government for fifteen years, to be run as a talent city and artificial-intelligence institute for skills training, startup incubation, outsourcing and research. It is a federal facility handed to a state rather than a new build; no lease consideration, capacity, occupancy or opening date is published. *Also under [GovTech](#govtech).*
-
-**[Lancement du Commonwealth Startup Fellowship pour soutenir les jeunes entreprises](https://www.wearetech.africa/fr/fils/breves/breves-une/lancement-du-commonwealth-startup-fellowship-pour-soutenir-les-jeunes-entreprises)** — wearetech.africa, 18 August 2026
-
-Applications opened for a six-month Commonwealth Startup Fellowship run by Imperial College London for twenty young companies from eligible Commonwealth countries, several of them African, pairing an intensive training session in Accra with online mentoring and a pitch to international investors in London. The cohort shares an equity-free fund of GBP 35,000, about US$47,000, and applications close on 1 September. *Also under [Innovation](#innovation).*
-
-**[Commonwealth Startup Fellowship Opens: Fully Funded Path From Accra To London For African Founders](https://techtrends.africa/commonwealth-startup-fellowship-opens-fully-funded-path-from-accra-to-london-for-african-founders/)** — techtrends.africa, 18 August 2026
-
-The Commonwealth Scholarship Commission and Imperial College London opened applications for a fully funded startup fellowship pairing a two-week Accra bootcamp with a London investor capstone, with equity-free grants of up to GBP 2,000 per venture for revenue-generating Commonwealth companies. Applications close on 1 September 2026. *Also under [Innovation](#innovation).*
-
-**[Cisco, Hanley Group bring digital skills training to Northern Cape schools](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N)** — itweb.co.za, 18 August 2026
-
-A networking vendor's academy and a private group agreed with South Africa's Northern Cape education department to take networking, cyber security and artificial-intelligence courses into 235 schools, as extracurricular classes for grades 10 to 12 from February 2027. No learner target, cost, funding split or certification pathway is published, and the vendor's claim of more than 600,000 South Africans already trained is its own figure. *Also under [Digital literacy](#digital-literacy).*
-
-**[Avec Wekraft, le Rwandais Staphord Nkumbuye prépare les enfants aux métiers de demain](https://www.wearetech.africa/fr/fils/tech-stars/avec-wekraft-le-rwandais-staphord-nkumbuye-prepare-les-enfants-aux-metiers-de-demain)** — wearetech.africa, 18 August 2026
-
-A Rwandan education-technology company founded in 2022 builds hands-on learning kits and a digital platform pairing children with career mentorship, workplace immersions and progress tracking for schools and families. The profile carries no learner, school or revenue figure. *Also under [Innovation](#innovation).*
-
-**[Airtel Malawi Awards First 25 Tech Scholarships to Students Across 17 Districts](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/)** — techafricanews.com, 18 August 2026
-
-An operator's foundation named the first 25 beneficiaries of its Malawi technology scholarship, drawn from 17 districts and taking eight programmes at the science and technology university, computer systems and cyber security among them. The places were announced at the January launch and are filled seven months later; no continuation beyond the one cohort is stated.
+Summarised under [Policy & strategy](#policy-strategy).
 
 **[NITDA and NAHCON Partner to Fully Digitise Nigeria’s Hajj Operations](https://techafricanews.com/2026/08/19/nitda-and-nahcon-partner-to-fully-digitise-nigerias-hajj-operations/)** — techafricanews.com, 19 August 2026
 
 Summarised under [GovTech](#govtech).
 
-**[AWS, Konza team up on hybrid cloud infrastructure](https://itweb.africa/article/aws-konza-team-up-on-hybrid-cloud-infrastructure/dgp45vaBlRg7X9l8)** — ITWeb Africa, 18 August 2026
+**[Journalists facing growing digital threats - Cybersecurity expert warns](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/)** — Ghana Business News (source: GNA), 19 August 2026
 
-Summarised under [Data centres & storage](#data-centres-storage).
+Summarised under [Cybersecurity](#cybersecurity).
 
-### Research
+## Data
 
-**[Le Bénin va accueillir la rencontre annuelle d’AfriLabs en novembre](https://www.wearetech.africa/fr/fils/breves/breves-une/le-benin-va-accueillir-la-rencontre-annuelle-d-afrilabs-en-novembre)** — wearetech.africa, 18 August 2026
+### Statistics
+
+**[Lesaka brings data science to SA's spaza economy](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am)** — ITWeb South Africa, 19 August 2026
+
+Summarised under [Industry](#industry).
+
+### Open data
+
+**[Zanzibar hosts a three day Data Tamasha Africa 2026](https://ippmedia.co.tz/the-guardian/news/local-news/read/zanzibar-hosts-a-three-day-data-tamasha-africa-2026-2026-08-19-163650)** — The Guardian (Tanzania) / IPP Media, 19 August 2026
 
 Summarised under [Innovation](#innovation).
-
-### Digital literacy
-
-**[Cisco, Hanley Group bring digital skills training to Northern Cape schools](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N)** — itweb.co.za, 18 August 2026
-
-Summarised under [Training](#training).
 
 ## Finance
 
 ### New investment
 
-**[Exits MENA Acquires Avanz Capital Egypt to Expand Private Capital Platform](https://techafricanews.com/2026/08/18/exits-mena-acquires-avanz-capital-egypt-to-expand-private-capital-platform/)** — techafricanews.com, 18 August 2026
+**[These Kenyan startups raised $500 million before shutting down. Where are the founders now?](https://techcabal.com/2026/08/19/500m-raised-shutdown-kenyan-startup-founders-now/)** — TechCabal, 19 August 2026
 
-A regional private-capital firm acquired an Egyptian private-equity manager, rebranding it as it assembles an integrated private-equity and asset-management platform aimed at the country's small and medium enterprise finance market, with initial regulatory approval secured. No consideration is disclosed.
-
-**[Startup Abuja — Student Aid Programme, 2026](https://www.wearetech.africa/fr/fils/breves/breves-une/startup-abuja-lance-un-programme-de-50-millions-de-nairas-pour-les-etudiants)** — , 18 August 2026
-
-Summarised under [Training](#training).
-
-**[Startup Abuja lance un programme de 50 millions de nairas pour les étudiants](https://www.wearetech.africa/fr/fils/breves/breves-une/startup-abuja-lance-un-programme-de-50-millions-de-nairas-pour-les-etudiants)** — wearetech.africa, 18 August 2026
-
-Summarised under [Training](#training).
-
-**[Quona Capital — Jem Series A, 2026](https://www.itweb.co.za/article/jem-raises-84m-to-expand-ai-powered-platform/DZQ58MV8mZjvzXy2)** — Quona Capital, 18 August 2026
-
-Summarised under [Payments](#payments).
-
-**[La Fondation Gates offre jusqu’à 500 000 $ pour l’utilisation de l’IA dans le planning familial](https://www.wearetech.africa/fr/fils/breves/breves-une/la-fondation-gates-offre-jusqu-a-500-000-pour-l-utilisation-de-l-ia-dans-le-planning-familial)** — wearetech.africa, 18 August 2026
-
-Summarised under [Artificial intelligence](#artificial-intelligence).
-
-**[Jem raises $8.4m to expand AI-powered platform](https://www.itweb.co.za/article/jem-raises-84m-to-expand-ai-powered-platform/DZQ58MV8mZjvzXy2)** — itweb.co.za, 18 August 2026
-
-Summarised under [Payments](#payments).
-
-### MoUs & commitments
-
-**[Trident Digital Tech and DIG Launch AI Venture Targeting SMEs Across Africa, Asia and Middle East](https://techafricanews.com/2026/08/18/trident-digital-tech-dig-ai-venture-africa-asia-middle-east/)** — techafricanews.com, 18 August 2026
-
-Trident Digital Tech Holdings and the American firm Digital Innovations Group signed a 50/50 joint venture to take an AI engine to small and medium firms across Asia, the Middle East and Africa, building on Trident's existing Ghana Revenue Authority digital tax platform venture. No investment figure, headcount, first market or launch date is stated. *Also under [Artificial intelligence](#artificial-intelligence).*
-
-**[Liberia advances PPP-backed digital ID rollout with OSD](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd)** — Biometric Update, 18 August 2026
-
-Summarised under [Digital ID](#digital-id).
-
-**[Konza Technopolis Partners Guodong Network to Accelerate Digital Infrastructure Development](https://techafricanews.com/2026/08/18/konza-technopolis-partners-guodong-network-to-accelerate-digital-infrastructure-development/)** — techafricanews.com, 18 August 2026
-
-Summarised under [Data centres & storage](#data-centres-storage).
-
-**[Afriex Strengthens Cross-Border Payments Infrastructure with New GIB Partnership](https://techafricanews.com/2026/08/18/afriex-strengthens-cross-border-payments-infrastructure-with-new-gib-partnership/)** — techafricanews.com, 18 August 2026
-
-Summarised under [Payments](#payments).
+Summarised under [Innovation](#innovation).
 
 *Each item is summarised once, under the first topic its record lists, and cross-referenced from every other topic it carries. The topic bulletin does not subdivide by country; the country bulletin covers the same window place by place.*

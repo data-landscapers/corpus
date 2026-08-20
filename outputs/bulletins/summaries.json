@@ -234,34 +234,224 @@
     "written": "2026-08-19",
     "summary": "A Kenyan health-technology platform founded in 2022 connects patients to pharmacies for ordering and delivery and remote consultation booking, and gives pharmacies inventory and finance management. It uses pharmacy activity data to help partner lenders assess credit for those pharmacies. The profile carries no user, pharmacy or lending figure."
   },
+  "2026-08-19-amnesty-argentina-ai-surveillance-commondreams": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A rights organisation reported that Argentina's government has built an artificial-intelligence surveillance apparatus using facial recognition, open-source intelligence tooling and tracking drones. It finds a chilling effect that has cut protest participation and led activists and journalists to censor themselves."
+  },
+  "2026-08-19-cameroon-tribune-data-privacy-law-2024-discourse": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Cameroonian civil society pressed regulators on the enforcement gaps in the 2024 data protection law at a forum in Yaounde. A legal expert set out the 75-article law's consent, access and erasure rights and penalties reaching 100 million CFA francs, while officials discussed how it is applied in practice."
+  },
+  "2026-08-19-china-digital-sovereignty-ai-race-reuters": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "China's foreign ministry said it opposes taking sides and forming camps on artificial intelligence, responding to a reported American letter pressing signatories of a United States framework to drop China's competing one. The draft letter is reported to warn the 35 signatories that they cannot hold parallel commitments."
+  },
+  "2026-08-19-circleid-afrinic-constitution-internet-stress-test": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A cyberdiplomacy consultant argued that the regional internet registry's second draft constitution deserves member support only if it converts the registry's litigation, disputed elections and receivership paralysis into durable checks against capture. He reversed an earlier position against early reform, saying the article-by-article rationale now gives members enough to test."
+  },
+  "2026-08-19-ghana-journalists-digital-threats-cybersecurity-training": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A training session at Accra put newsroom devices to journalists as deliberate targets rather than accidental victims, under a national community media cyber capability project. The speaker cited an Angolan journalist's 2024 spyware infection as the regional precedent."
+  },
+  "2026-08-19-guardianng-fg-3700-towers-nucap-20m-nigerians": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Nigeria said resource mobilisation and contracting are complete for about 3,700 telecommunications towers to be deployed from October, aimed at more than 20 million people in unserved and underserved communities. A first tower is being installed in Delta State, with riverine communities targeted before mid-2027."
+  },
+  "2026-08-19-india-sebi-ai-rules-kill-switch": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "India's securities regulator plans to require a kill switch and human oversight for artificial-intelligence tools used across the securities market. Tiered guidelines will hold every regulated entity fully responsible for a tool's outputs and data handling, whether it was built in-house or bought in."
+  },
+  "2026-08-19-ippmedia-zanzibar-data-tamasha-africa-2026": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A three-day data gathering opened in Zanzibar with more than 300 delegates from over 100 organisations and 30 countries, co-hosted by a Tanzanian data lab and a research organisation with the islands' communications ministry. The minister pitched it as evidence of a bid to become a regional hub for digital innovation and data governance."
+  },
+  "2026-08-19-itweb-lesaka-data-insights-spaza-economy": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A listed South African payments company began selling near-real-time item-level intelligence on the informal retail economy, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers."
+  },
+  "2026-08-19-itweb-nsfas-30-days-ict-modernisation": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "South Africa's Public Protector gave the student-aid scheme's board 30 days to produce a digital modernisation and systems-integration plan, finding its systems insufficiently integrated with the home affairs, social security and revenue data it needs to verify students. The report records that the scheme cannot resolve 80% of contact-centre queries without internal escalation."
+  },
+  "2026-08-19-japan-ai-training-data-disclosure": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Japan will ask generative artificial-intelligence firms to disclose their training data and collection methods under a non-binding comply-or-explain code, approved by a government expert panel and covering foreign providers operating in the country."
+  },
   "2026-08-19-kenya-120000-digital-skills-training": {
     "published": "2026-08-19",
     "written": "2026-08-19",
     "summary": "Kenya's Communications Authority set a target of 120,000 people across 19 counties over three years for digital skills training, delivered through the Universal Service Fund's Digital Skilling Project in unserved and underserved areas and tied to the national digital master plan. No budget line, delivery partner, county list or start date accompanies the target, and the fund's own FY2025/26 account is unpublished."
+  },
+  "2026-08-19-kenya-interpol-ai-synthetic-identity-warning": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "An international police body warned that criminals are combining stolen personal data with AI-generated content to build synthetic identities able to defeat bank, mobile-loan and SIM-registration checks. Kenya's investigations directorate raised the threat at a mentorship programme for new heads of East African bureaus and called for faster cross-border intelligence sharing."
   },
   "2026-08-19-kenya-siboh-virtual-home-digital-learning": {
     "published": "2026-08-19",
     "written": "2026-08-19",
     "summary": "Kenya's ICT principal secretary opened a private academy's virtual learning platform in Uasin Gishu County, citing alongside it a government rollout of digital learning devices and smartboards to more than 10,000 public junior secondary schools. The school figure is given in a speech and rests on no published outturn."
   },
+  "2026-08-19-korea-times-teen-algorithm-rules": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "An eighteen-year-old petitioned South Korea's National Assembly for a law obliging social media platforms to police addictive algorithms rather than putting the burden on teenagers, proposing a mandatory protection mode blocking self-harm and violent content for teen accounts, with fines for platforms that do not comply."
+  },
+  "2026-08-19-lexpress-mu-sadc-ramgoolam-carrier-neutral-green-centre": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Mauritius announced a carrier-neutral green data centre and a digital embassy village at the regional summit, presented as the digital leg of a bid to be a regional hub and gateway. The prime minister also said the government had paid over US$8.2m of arrears left unpaid by its predecessor."
+  },
+  "2026-08-19-liberia-lta-satellite-communications-framework": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Liberia's telecoms regulator signed satellite communications guidelines on 19 August, after a consultation that ran from February to June, opening licensed satellite broadband to the named constellations. The regulator frames it against universal connectivity, mobile money, education and health service goals."
+  },
+  "2026-08-19-liberia-lta-satellite-communications-guidelines-pdf": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "The full text of Liberia's satellite guidelines sets five-year non-geostationary and ten-year geostationary landing rights, a US$250,000 direct-to-device service-provider licence fee with 9% of direct-to-device sales and a 0.5% universal-access contribution, mandatory data-protection and cybersecurity compliance plans, and a twelve-month transition for operators already in the market."
+  },
   "2026-08-19-macra-malawi-non-consensual-intimate-content": {
     "published": "2026-08-19",
     "written": "2026-08-19",
     "summary": "Malawi's communications regulator, which holds the data-protection mandate, issued a notice warning that recording, publishing or sharing non-consensual intimate content breaches the Data Protection Act 2024, carrying fines to K20,000,000 and up to five years' imprisonment under section 49, with separate penalties under the electronic transactions and cyber security Act of 2016. It states the law rather than applying it: no case, complaint count or enforcement action accompanies it."
+  },
+  "2026-08-19-malawi-digitises-public-auction-platform": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Malawi is scoping a web-based auctions platform to replace paper government auctions, carrying electronic bid submission, automated ranking, bidder anonymity and digital publication of results. Requirements were gathered at Blantyre under a World Bank-funded project."
   },
   "2026-08-19-mtn-uganda-webphone-webex": {
     "published": "2026-08-19",
     "written": "2026-08-19",
     "summary": "MTN Uganda opened a service pairing its telephony with a collaboration platform, letting customers use their Ugandan number while abroad. No price, availability date or subscriber target is stated."
   },
+  "2026-08-19-nigeria-sovereign-cloud-certification-nitda": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Nigeria's technology agency signed four instruments establishing a national sovereign cloud initiative and will begin certifying cloud and artificial-intelligence infrastructure providers from October. Oversight sits with a new governance committee, and the stated ambition is to serve West and Central Africa."
+  },
+  "2026-08-19-nigeria-to-earn-41-million-from-mtns-406-million-dividend-payout": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Nigeria stands to receive about US$41m from a US$406m dividend payout by the mobile incumbent, on a calculation from the declared payout and the state's holding. No government confirmation of receipt is on record."
+  },
   "2026-08-19-nitda-nahcon-digitise-hajj-operations": {
     "published": "2026-08-19",
     "written": "2026-08-19",
     "summary": "Nigeria's IT development agency and the Hajj commission agreed to digitise pilgrimage operations end to end, covering registration, payment verification, flight-manifest management, logistics and real-time pilgrim tracking. The commission disclosed that its own ICT function runs on two developers. The agreement carries no scope document, budget, timetable or procurement."
   },
+  "2026-08-19-nymag-china-winning-ai-safety-wars": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A feature reports China positioning itself as the more responsible power in artificial-intelligence governance at July's world conference, as Washington's deregulatory turn cedes safety-diplomacy ground. It notes that only five of ten Chinese laboratories published safety evaluations this year."
+  },
+  "2026-08-19-politico-uk-us-digital-services-tax": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "The United Kingdom said it is open to discussing American concerns over its digital services tax, after the United States trade representative said a threat of 100% tariffs on countries imposing such taxes was not a bluff."
+  },
+  "2026-08-19-scmp-us-urged-follow-china-data-economic-asset": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A United States congressional advisory body told Washington to treat data as an economic asset in the way Beijing does, and warned that the standards contest is being lost by default. Its report urges a national data strategy, noting that standards are difficult to revise once adopted and that China designated data a factor of production in 2020."
+  },
+  "2026-08-19-scmp-washington-tech-crackdown-china-truce": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "The United States communications regulator has become the sharpest instrument of the administration's action against Chinese technology, advancing bans on robots, power inverters, telecoms operators and testing laboratories. Beijing tested the trade truce in the same week with drone-export curbs and sanctions on seven American firms."
+  },
+  "2026-08-19-sierra-leone-mobile-money-fraud-roadmap": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Sierra Leone is drafting a roadmap against mobile-money fraud after a two-day workshop brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together. It follows parliamentary pressure over identity-theft scams on one operator's network."
+  },
+  "2026-08-19-smart-africa-afrinic-internet-governance-talks": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A continental digital alliance met the regional internet registry's board on cooperation in internet governance and digital policy. The talks centred on a proposed council of African internet governance agencies as a coordination platform, and named continental free roaming as an area for future work."
+  },
+  "2026-08-19-south-africa-cross-border-crypto-rules": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "South Africa's treasury and central bank published a draft manual for cross-border crypto activities, setting authorisation and reporting rules for crypto asset service providers and defining what counts as a cross-border crypto flow. Comments close on 30 September, and it sits alongside capital-flow regulations already in draft."
+  },
+  "2026-08-19-south-africa-sahrc-information-integrity-doj-speech": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "South Africa's deputy justice minister told a rights commission engagement that government should not become the custodian of truth on disinformation, while warning against leaving the information environment to private platforms' algorithms. The speech launched the commission's policy brief on information integrity and human rights."
+  },
+  "2026-08-19-standard-bank-expands-unionpay-acceptance": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A commercial bank group and an international card scheme expanded online acceptance across nine African markets, letting participating merchants take payments from the scheme's cardholders and settle in local currency, United States dollars or both. It builds on a collaboration the two established in 2024."
+  },
+  "2026-08-19-tan-ezeebit-zaru-digital-asset-merchant-payments": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A merchant payments provider integrated a rand-backed digital asset into its infrastructure, letting its commerce partners make and receive payments in it. The issuer's account of growing merchant use carries no transaction count or value."
+  },
+  "2026-08-19-tan-m-pesa-ethiopia-arada-enhun-merchant-campaign": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "An Ethiopian mobile-money operator opened a 90-day merchant promotion paying up to ETB 1m in prizes to merchants who take more digital payments, built around its scan-to-pay and merchant code services on a single code that accepts payment from other banks and wallets."
+  },
+  "2026-08-19-tan-safaricom-ethiopia-67-sites-southern-region": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "An Ethiopian operator upgraded more than 67 existing sites across nine Southern Region towns to relieve network congestion and power-supply problems, with over 150 local jobs created during the work."
+  },
+  "2026-08-19-tan-unionpay-standard-bank-nine-african-markets": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A commercial bank and an international card scheme opened online acceptance of that scheme's cards to merchants in nine African markets, settling in local currency, United States dollars or both. Nearly 900 merchants participate across the nine, and no country-level count is given."
+  },
+  "2026-08-19-tanzania-dira2050-security-digital-identity": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Tanzania's home affairs ministry told Parliament that its 2026/27 budget prioritises the national digital identifier's rollout, cybersecurity and institutional capacity, including new district registration offices, a headquarters at Dodoma and cybercrime investigation centres at Dodoma and Zanzibar. No cost line or timetable accompanies the priority."
+  },
   "2026-08-19-telecom-egypt-6ghz-spectrum-trial": {
     "published": "2026-08-19",
     "written": "2026-08-19",
     "summary": "The incumbent operator, the telecommunications regulator and a Chinese vendor ran a mobile base station and a data call over upper 6 GHz spectrum, reported at about 1.7 Gbps per user and stated by the operator as the first such trial in Egypt and in Africa. It is a trial: no allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own."
+  },
+  "2026-08-19-thailand-ai-pass-data-contract-scrutiny": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Thailand's opposition is demanding disclosure of the 1.5bn baht procurement contract behind the AI Pass digital identity, on concerns that personal data may be processed abroad in breach of the contract's own terms of reference. Pre-registration opened as the challenge was made, ahead of a 31 August launch."
+  },
+  "2026-08-19-these-kenyan-startups-raised-500-million-before-shutting-down": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Ten Kenyan startups that between them raised more than US$500m have shut down, entered administration or abandoned their core business over five years, on a traced roll-call built from regulatory and corporate filings. The three largest raised US$123m, more than US$117m and over US$100m, across logistics, commerce, agriculture, finance, energy and manufacturing."
+  },
+  "2026-08-19-turkiye-today-national-ai-action-plan-2026-2030": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "Turkiye set out a national artificial-intelligence action plan for 2026 to 2030, targeting a gigawatt of data-centre capacity, US$10bn of mostly private investment through an incentive programme, and literacy training for five million people."
+  },
+  "2026-08-19-wearetech-lideflow-esso-dong-djafalo-paiements-transfrontaliers": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A Togolese financial-technology firm founded in 2024 runs a single platform interconnecting bank transfers, mobile wallets and dollar stablecoins, converting into the naira, shilling, cedi and the CFA francs. It also exposes payment operations to autonomous software agents."
+  },
+  "2026-08-19-wearetech-swiftway-shippers-abubakar-fuseini-fret": {
+    "published": "2026-08-19",
+    "written": "2026-08-20",
+    "summary": "A Ghanaian freight platform founded in 2023 takes booking, cost estimation, secured payment and cargo tracking, and handles customs formalities and border documentation for importers, exporters and online merchants. It uses the transport data it holds to analyse clients' costs, routes and performance."
   }
 }
