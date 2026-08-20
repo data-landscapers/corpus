@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-20
 place: MAR
 ledger_rows: 38
 not_held: 17
-record: 0274ee2fee52
+record: 1c4231f1a967
 ---
 
 # Morocco: monthly update, July 2026
@@ -42,7 +42,7 @@ The ministry signed a memorandum of understanding with a data-centre power and c
 The Dakhla campus acquired a shape without acquiring a date. It is [planned as a green data-centre campus under the Igoudar Numerique programme, one part for the kingdom's sovereign digital needs and another open to private investment, with feasibility studies launched in April 2026](https://northafricapost.com/99498-moroccos-ai-and-data-center-ambitions-take-shape-amid-growing-digital-investment.html). No capacity, cost, operator or commissioning date is held for it, and the same account gives no national facility count that would place it in an estate.
 
 
-The compute platform behind that estate acquired a price. A press account citing third-party analysis [puts the Casablanca project at roughly US$1.2bn and up to 500MW, naming a South Korean cloud operator, a chip maker and the platform's developer, with a second renewable-powered project planned for Dakhla](https://en.walaw.press/country/geopolitics/QWSP/articles/morocco_bets_on_data_centers_and_artificial_intelligence_to_strengthen_its_digital_position_in_africa/GPFFXPMLMSMF). Neither figure comes from a filing, and the question the same account raises is whether hosting foreign-operated infrastructure builds a domestic ecosystem.
+The compute platform behind that estate acquired a price. A press account citing third-party analysis [puts the Casablanca project at roughly US$1.2bn and up to 500MW, naming a South Korean cloud operator, a chip maker and the platform's developer, with a second renewable-powered project planned for Dakhla](https://en.walaw.press/country/geopolitics/QWSP/articles/morocco_bets_on_data_centers_and_artificial_intelligence_to_strengthen_its_digital_position_in_africa/GPFFXPMLMSMF). Neither figure comes from a filing, and the question the same account raises is whether hosting foreign-operated infrastructure builds anything domestic beyond the hosting.
 <!-- /narrative -->
 ### Cybersecurity
 
