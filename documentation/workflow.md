@@ -17,7 +17,7 @@ kanban-plugin: board
 - [ ] Check pdf and csv dates
 - [ ] Catalogue output on site
 - [ ] Methodology for site
-- [ ] add ffs to end of sweeps
+- [ ] OSINT: add ffs .bat to end of sweeps
 - [ ] **Set up new CORPUS-OSINT share**
 	Wire in BUILD's acquire
 	New process for Manual addition of content
