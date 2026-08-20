@@ -1,16 +1,16 @@
 ---
 title: Guinea — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: GIN
-ledger_rows: 37
+ledger_rows: 41
 not_held: 14
-record: fef4259d9a8e
+record: a24d4defcb21
 ---
 
 # Guinea: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -58,6 +58,9 @@ On 10 August the territorial administration minister [put birth registration at 
 
 <!-- narrative: dpi--dpi-pay -->
 [NimbaPay opened for operations on 22 July 2026](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/), making banks, electronic-money institutions and microfinance institutions interoperable nationwide. The governor of the central bank [put financial-account access at 4% in 2011 and about 36% in 2024](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/), and named state payments and cross-border payments as the next phases. It was [built in 127 days on Mojaloop open source by Guinéenne de Monétique, with AfricaNenda and Thitsa Works, expressly so that the state retains control of the infrastructure](https://www.ecofinagency.com/news-digital/2807-57779-guinea-launches-nimbapay-its-national-instant-payment-system). The following day the central bank stated that [more than 70% of payments are still made in cash even at merchants already equipped with electronic solutions](https://mediaguinee.com/2026/07/paiements-digitaux-ofmg-la-cciag-et-la-bcrg-engagent-une-demarche-pour-encourager-les-transactions-electroniques-en-guinee/), and named interoperable merchant QR codes and fiscal incentives as workstreams under study. Its [project register records the RTGS migration to ISO 20022 held by unpaid invoices to the supplier CMA and customs clearance, and PAPSS participation with no transaction recorded](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/).
+
+
+The strategy that would order all of this is not yet written. The central bank [advertised a four-month consultancy on 14 August to draft a National Payment Systems and Instruments Strategy for 2027 to 2030](https://fr.linkedin.com/posts/africanenda_africanenda-foundation-et-la-banque-centrale-activity-7494021276999581696-R9o0), with applications closing on the 31st. No text, budget or adoption date exists.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -78,6 +81,11 @@ The treasury [began rolling out Œil du Trésor](https://mediaguinee.com/2026/07
 
 Two more of the administration's own paper processes went onto systems in August. [GEME, an electronic system for managing state mission orders, was launched on 13 August](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/) to control costs and improve accountability; no custodian, coverage, cost baseline or saving target is stated. The next day the President said he would [personally oversee GEDA, the decrees-and-orders management tool](https://guineenews.org/2026/08/14/decrets-et-arretes-mamadi-doumbouya-reprend-personnellement-les-commandes-de-geda/), to speed administrative processing, tying it to accelerating the Simandou 2040 programme. Personal oversight by the head of state is not an institutional control, and no throughput figure or publication rule is stated for either system.
 <!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: dpi--digital-rural -->
+The first rural digital service to reach farmers this month was a private one carried on a state bank's counters. An agritech firm and the state rural bank [launched a first cohort at Conakry on 6 August pairing field sensors, weather alerts and agronomic advice with the bank's network of over 1,000 service points](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/). No cohort size, cost or coverage is stated, and the base still holds no state rural digital-services programme to set beside it.
+<!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
@@ -94,7 +102,12 @@ Two payments instruments are at terms-of-reference stage and neither exists. The
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-A [presidential decree of 27 July 2026 reshuffled the transition government](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/), keeping Mourana Soumah at the Ministère de la Communication, de l'Économie numérique et de l'Innovation, which he has held since the February 2026 merger. Djenabou Touré takes Administration du Territoire et de la Décentralisation, the ministry supervising ONECI and the biometric civil-registration programme; a Djenabou Touré was director-general of elections and attended the ONECI signing three days earlier, and the source does not confirm they are the same person. A World Bank tender published the same week still names the predecessor department, MPTEN, as supervising WARDIP.
+The legislature acquired a standing counterpart to all of this: the National Assembly's ICT committee [held its first working session on 7 August and named mobile money, social-media regulation and network security as its priorities](https://www.avenirguinee.org/2026/08/07/reseaux-sociaux-mobile-money-ntic-les-priorites-de-la-commission-communication-de-lan-devoilees/), to be worked in coordination with the telecommunications ministry; no work programme or timetable is published. A [presidential decree of 27 July 2026 reshuffled the transition government](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/), keeping Mourana Soumah at the Ministère de la Communication, de l'Économie numérique et de l'Innovation, which he has held since the February 2026 merger. Djenabou Touré takes Administration du Territoire et de la Décentralisation, the ministry supervising ONECI and the biometric civil-registration programme; a Djenabou Touré was director-general of elections and attended the ONECI signing three days earlier, and the source does not confirm they are the same person. A World Bank tender published the same week still names the predecessor department, MPTEN, as supervising WARDIP.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The committee meant to make the state's own financial data consistent [sat again on 6 August, three years after it was created to align the accounts with the 2014 international manual](https://financesao.com/guinee-vers-la-modernisation-du-systeme-de-statistiques-des-finances-publiques/). It produces a regular statement of state financial operations and, on the finance ministry's own account, still faces inconsistent data across the Treasury, the central bank and other agencies.
 <!-- /narrative -->
 ### Data protection
 
@@ -104,7 +117,7 @@ The day after NimbaPay opened, the consumer body AGUIDUTEN [set twelve condition
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-Neither the regulator ARPT, the operators nor the internet service providers issued an explanation for the social-media restriction. The precedent is on the record rather than inferred: under the post-coup transition a government spokesman owned a three-month digital cut and said that in Guinea the internet is not a right.
+Neither the regulator ARPT, the operators nor the internet service providers issued an explanation for the social-media restriction, and the silence then had to cover more than a restriction: [a total two-hour national outage on 7 August, across mobile and fibre alike, was traced to the state landing-station operator, whose officials and the regulator both declined to explain it](https://lelynx.net/2026/08/internet-coupe-en-guinee-black-aout-total/). The precedent is on the record rather than inferred: under the post-coup transition a government spokesman owned a three-month digital cut and said that in Guinea the internet is not a right.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

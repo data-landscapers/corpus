@@ -1,15 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: GMB
-ledger_rows: 64
+ledger_rows: 65
 not_held: 13
-record: f366c3e8312c
+record: cd60de5bb140
 ---
 
 # Gambia: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (64 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (65 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -84,7 +84,7 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Margins ID national identity contract | [Implemented](https://thepoint.gm/africa/gambia/headlines/govt-signs-id-card-deal-with-margins-id-systems-applications-ltd) | Signed by the Ministry of Interior with Margins ID Systems Applications, 21 January 2026 |
-| National Identity Management System (GAM ID) | [Implemented](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/) | Launched by President Barrow, 1 July 2026, nationwide enrolment from 4 August 2026 |
+| National Identity Management System (GAM ID) | [Implemented](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/) | Nationwide rollout of ten-year biometric cards launched 2026-08-07 at six centres |
 
 ### Digital Payments and Fintech
 
@@ -162,6 +162,7 @@ Statistics are the most complete system in the stack. The [fifth labour force su
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Access to Information Act | [Implemented, largely unimplemented in practice](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/) | Press union reported implementation ineffective 2026-08-07 |
 | Communications Bill 2025 | [In development](https://standard.gm/lawmakers-back-bill-to-protect-personal-data-in-digital-age/) | Sitting with National Assembly committees after second reading on 2 March 2026 |
 | State Intelligence Service Bill | [In development](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service) | Draft validated at a stakeholder workshop, 31 July 2026 |
 

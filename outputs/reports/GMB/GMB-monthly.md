@@ -1,16 +1,16 @@
 ---
 title: Gambia — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: GMB
-ledger_rows: 25
+ledger_rows: 27
 not_held: 13
-record: f6bb34761ec2
+record: 54c7e6497e53
 ---
 
 # Gambia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -36,7 +36,7 @@ Cross-border exchange moved further than domestic exchange did. At Saly on [16-1
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. No enrolment or issuance figure has been published since, so its reach is unestablished.
+The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. On 7 August the interior ministry [began a nationwide rollout of new ten-year biometric national identity cards, with registration opening simultaneously at six centres](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/), produced with a Ghana-based supplier. No enrolment or issuance figure has been published since launch, so the system's reach is unestablished.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -47,6 +47,9 @@ Government collection acquired a fourth channel. The Office of the Accountant Ge
 
 <!-- narrative: dpi--dpi-registry -->
 The country published its first unified land policy, and it is the month's clearest statement of intent about a public register. The [National Land Policy 2026-2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1), alongside new Certificates of Customary Ownership, and carries a costed ten-year implementation roadmap. It is a mandate rather than a build: no supplier, budget line, custodian or start date is stated for either system, and no data-protection provision for the land record is reported — in a year in which the Personal Data Protection and Privacy Act 2025 came into force.
+
+
+A register the country already runs was disputed in the same week. Opposition parties put it to the electoral commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), a gap the commission attributed to unverified processing outputs. No reconciled figure has been published, and a presidential election is due this year.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -68,7 +71,7 @@ Statistics had the period's clearest institutional step. The Bureau of Statistic
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The Communications Bill 2025 stayed in committee. Two Assembly committees [met the Press Union and the Media Council on 18 July 2026](https://thepoint.gm/africa/gambia/national-news/lawmakers-engaged-over-communication-bill); the Union set out the media laws it wants repealed alongside the bill, and members said they could take stakeholder views into committee but not debate it publicly.
+An Act already in force showed what passing one is worth on its own: the press union reported on 7 August that [most public institutions have yet to appoint the information officers the Access to Information Act requires, and that twenty-one-day requests go unanswered](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/). No government response, compliance count or enforcement action is on record. The Communications Bill 2025, meanwhile, stayed in committee. Two Assembly committees [met the Press Union and the Media Council on 18 July 2026](https://thepoint.gm/africa/gambia/national-news/lawmakers-engaged-over-communication-bill); the Union set out the media laws it wants repealed alongside the bill, and members said they could take stakeholder views into committee but not debate it publicly.
 
 A second instrument was validated on [31 July 2026: the State Intelligence Service Bill](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service), at a workshop attended by the National Security Adviser, the Chief of Defence Staff, the Assembly's defence committee and civil society. The Adviser said the draft prohibits torture, unlawful detention and political targeting, requires judicial warrants and oversight for intrusive measures, and gives the Assembly review of the Service's budgets. Its threat frame is cybercrime, espionage, disinformation and organised crime, so it is where Gambian communications interception would sit. The text is not held, the Bill has not been tabled, and it does not appear in the Assembly's bills library, checked 2026-08-08.
 <!-- /narrative -->

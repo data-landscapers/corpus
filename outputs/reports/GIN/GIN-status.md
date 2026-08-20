@@ -1,15 +1,15 @@
 ---
 title: Guinea — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: GIN
-ledger_rows: 92
+ledger_rows: 96
 not_held: 13
-record: 8d3a37636291
+record: 168a778fe7a0
 ---
 
 # Guinea: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/GIN/ledger.csv` (92 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/GIN/ledger.csv` (96 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -99,6 +99,7 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 |---|---|---|
 | ECOWAS EPSS integrated payment project | [Discontinued](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/) | Withdrawn from the BCRG's 2025 strategic priorities after a single evaluation meeting on 10 July 2024 |
 | National payment switch | [In development](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/) | BCRG-AfricaNenda memorandum signed 5 December 2024 with Guineenne de Monetique |
+| National Payment Systems and Instruments Strategy 2027-2030 | [Planned](https://fr.linkedin.com/posts/africanenda_africanenda-foundation-et-la-banque-centrale-activity-7494021276999581696-R9o0) | Drafting consultancy advertised 2026-08-14, applications close 2026-08-31 |
 | NimbaPay national instant payment system | [Implemented](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/) | Opened for operations 22 July 2026 |
 | PAPSS participation | [Implemented, no transaction recorded](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/) | Participant status with no transaction yet recorded on the platform |
 | Resilient SWIFT infrastructure (BCRG) | [Planned](https://www.bcrg-guinee.org/wp-content/uploads/2026/07/Avis-Swift.pdf) | International tender launched for a resilient SWIFT infrastructure at the BCRG; bids due 31 August 2026 |
@@ -144,6 +145,7 @@ A decree of 30 July 2026 [converted the distance-learning institute ISFAD into t
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Agriculteurs Connectes de Guinee | [Implemented](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/) | First cohort launched at Conakry 2026-08-06 |
 | Rural digital-services programme | ***Not held*** | No dedicated source on file |
 
 ### Digitalisation of sub-national government
@@ -191,6 +193,7 @@ The platform layer is populated, from [TELEMO for procurement](https://techafric
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Ministere de la Communication, de l'Economie numerique et de l'Innovation (MCENI) | [Implemented](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/) | Portfolio held unchanged through the reshuffle of 27 July 2026 |
+| National Assembly ICT committee | [Implemented](https://www.avenirguinee.org/2026/08/07/reseaux-sociaux-mobile-money-ntic-les-priorites-de-la-commission-communication-de-lan-devoilees/) | First working session 2026-08-07 |
 | National Data Governance Strategy | [In development](https://www.ecofinagency.com/news/2606-56858-guinea-begins-work-on-national-data-governance-strategy) | Drafting launched 19 June 2026 under DNTIEN |
 | Simandou 2040 digital pillar | [Implemented](https://smartafrica.org/fr/le-transform-africa-summit-2025-confirme-la-dynamique-continentale-pour-une-afrique-digitale-unie-et-souveraine-depuis-la-guinee) | Pillar 3 launched at Transform Africa Summit 2025, targeting digital at 20% of GDP |
 
@@ -208,6 +211,7 @@ The platform layer is populated, from [TELEMO for procurement](https://techafric
 | System or instrument | Status | Milestone |
 |---|---|---|
 | GovStack technical standards adoption | [In development](https://techreviewafrica.com/news/4820/guinea-launches-govstack-workshop-to-advance-digital-public-services) | Workshop held under WARDIP; no standard adopted on record |
+| Public Finance Statistics Committee | [Implemented](https://financesao.com/guinee-vers-la-modernisation-du-systeme-de-statistiques-des-finances-publiques/) | Relaunched 2026-08-06 |
 
 ### Data protection
 
@@ -220,7 +224,7 @@ The platform layer is populated, from [TELEMO for procurement](https://techafric
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Official explanation of the social-media restriction | ***Not held*** | Operators and ISPs told a consumer-protection union they were compelled to comply but did not name the authority; no government, regulator or legal basis has been published (2026-08-04) |
+| Official explanation of the social-media restriction | ***Not held*** | A total two-hour national outage on 7 August 2026 was traced to the state landing-station operator, whose officials and the regulator declined to explain it (2026-08-12) |
 
 ### EU activities
 
