@@ -230,3 +230,11 @@ The last sentence is the load-bearing one. **The recovery path is real** — Bil
 `CLAUDE.md` → *Be decisive — the bar for asking has moved up* carries the rule. `logs/messages-for-bill.md` went from ten blocks to one, every deletion verified first rather than assumed — among them the question of whether 19 status baselines built before a URL-splitting fix owed a rebuild (they did not: no surviving baseline predates it). Two standing questions were decided in place rather than left open. Its OSINT queue went from 21 open notes to 11, with zero `[CRITICAL]`, and two findings that were never OSINT's moved into `documentation/dpi-data-defects.md` where they belonged.
 
 One defect surfaced during that verification and was fixed rather than reported: `report-register-check.py --unit all` matched a unit literally named `all` and printed a clean pass over nothing — `0 hits, 0 documents outside band, check H: 0` — while the same command with no `--unit` reported 78 documents outside band. **A check that reads nothing must never look like a check that found nothing.** Worth a glance at OSINT's own `--unit`-style arguments for the same shape.
+
+## Bill's standing statement, added to the top of `notes-for-osint.md` (2026-08-20)
+
+*(Parked here because the exchange folder is outside both gits and nothing else versions it.)*
+
+> **https://data-landscapers.io/ and https://corpus.data-landscapers.io/ are a project being developed by a team consisting of Bill, OSINT and CORPUS. We each have our own responsibilities but this is a team effort. Because OSINT spends long periods every day sweeping for new content, Bill will ask CORPUS to streamline the review and specification of outstanding tasks for OSINT. That is the point of this document. It isn't policing - it is the equitable sharing of available resource.**
+>
+> *— Bill, 2026-08-20. Standing statement: it governs every note and does not clear.*
