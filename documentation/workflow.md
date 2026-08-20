@@ -17,11 +17,10 @@ kanban-plugin: board
 - [ ] Check pdf and csv dates
 - [ ] Catalogue output on site
 - [ ] Methodology for site
-- [ ] **All Finance page**
-	Home menu should go to own page with space for my text at the top.
-- [ ] **Finance Controlled vocabs**
-	Fix and backswing
 - [ ] add ffs to end of sweeps
+- [ ] **Set up new CORPUS-OSINT share**
+	Wire in BUILD's acquire
+	New process for Manual addition of content
 
 
 ## Processing
@@ -40,6 +39,10 @@ kanban-plugin: board
 	Run Index fix.
 	Run FFS
 	Resume Sweep
+- [ ] **All Finance page**
+	Home menu should go to own page with space for my text at the top.
+- [ ] **Finance Controlled vocabs**
+	Fix and backswing
 - [ ] **OSINT Finance controlled vocabs**
 	Status, Beneficiary type and Instrument all need controlled vocabularies and a back swing.
 - [ ] Cloudflare and download log
