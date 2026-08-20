@@ -1,16 +1,16 @@
 ---
 title: Liberia — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: LBR
-ledger_rows: 33
+ledger_rows: 36
 not_held: 9
-record: d3f25779442b
+record: 3ec9d4957feb
 ---
 
 # Liberia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -55,6 +55,9 @@ A second identity register is being built outside the state entirely. On 16 Augu
 The central bank's fee schedule for interoperable transfers was reported on 5 August: [1.0% of value from US$1.00 to US$2,000.00 and a flat US$25.00 above that, available 24 hours a day](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html). [The flat cap falls below 1.0% of value above about US$2,500](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) and keeps falling.
 
 On 28 July the finance minister named the [national electronic payment switch as the enabler of a 24-hour economy, with creative-sector support to enter the 2027 budget](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html). No go-live date was given.
+
+
+The central bank also put on record how the system was built. Its own account is that it worked [to a business case rather than to a regulation and stood the system up in 73 days, sequencing government payments first - civil-servant salaries off cheques and into wallets, which gave the integrated mobile-money operators access to float](https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1), against a national target of half of adults holding a bank or wallet account.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -74,6 +77,9 @@ The month's clearest finding about a government system is that it does not exist
 The e-procurement platform published its first operating figures on 5 August: [more than 1,200 vendors registered and more than US$400,000 in revenue generated](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/). No contract value transacted, tender count, bidder numbers or share of government procurement passing through the platform is given. Two days later it became an export: Sierra Leone's procurement authority [sent a delegation to Monrovia on 6-7 August to study the implementation](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html), where the executive director dated the national launch to February 2025 after a six-institution pilot and credited the African Development Bank and the World Bank with the backing behind it. A later account of the same visit [records the telecommunications regulator receiving equipment to strengthen its own use of the platform](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), framed as deepening bilateral cooperation on digital transformation and procurement transparency.
 
 Licensing moved off paper in the same week. The telecommunications regulator [put an automated telecom licensing and renewal platform into service](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), letting applicants apply and renew online while keeping in-person service available. No licence count, processing time or fee schedule is published.
+
+
+A second permit process is following it online. The education ministry says it is [digitising operating permits for private schools after finding schools submitting mismatched teacher-qualification records, and has mapped schools across five counties with donor support to extend the mapping to ten more](https://newspublictrust.com/education-ministry-advances-digital-school-permit-system-while-funding-provided-to-renovate-public-schools). No platform, cost or completion date is named.
 <!-- /narrative -->
 ### Use of satellite data
 
@@ -87,6 +93,9 @@ The Land Authority took the country's geospatial ambition abroad rather than to 
 
 <!-- narrative: governance--gov-legislate -->
 The same package, [set out on 17 July](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/), covers a split of infrastructure and service licences with rural incentives, tower-sharing rules, the country's first satellite regulations, an IMEI anti-theft regime and repatriation of the .lr country domain. None has been published as an instrument.
+
+
+One piece of it is now a signed instrument. The regulator [signed satellite communications guidelines on 19 August, after a consultation that ran from February to June](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html), and the [text sets five-year non-geostationary and ten-year geostationary landing rights, a US$250,000 direct-to-device service-provider licence fee with 9% of direct-to-device sales and a 0.5% universal-access contribution, mandatory data-protection and cybersecurity compliance plans, and a twelve-month transition for operators already here](https://lta.gov.lr/wp-content/uploads/2026/03/SATELLITE-COMMUNICATIONS-GUIDELINES.clean_.fv_.2.25.26-FINAL-VERSION.pdf). No licence has yet been issued under it on the record.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -102,6 +111,9 @@ At the African Telecommunications Union plenipotentiary session in Abuja in July
 
 <!-- narrative: governance--gov-protect -->
 The telecoms regulator [fined an operator LRD 4m for issuing a subscriber's SIM to a third party without authorisation](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/). The penalty came under telecoms powers rather than data-protection law — which is the point, since the Act that would have supplied the latter is unsigned.
+
+
+What the country has agreed to disclose abroad is harder to read than what it enforces at home. A rights organisation's reading of seven American health memoranda [puts Liberia among three that commit to hand over any data requested for an American audit without explicit privacy safeguards, and among two whose data-sharing arrangement is deferred to an unpublished appendix](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements), while naming Liberia as one of two lacking a binding comprehensive data-protection law. The appendix is not published and the Personal Information Act is still a bill.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

@@ -1,16 +1,16 @@
 ---
 title: Namibia — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: NAM
-ledger_rows: 51
+ledger_rows: 55
 not_held: 12
-record: b97606629ffa
+record: 34ac8c9d8e59
 ---
 
 # Namibia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -113,6 +113,9 @@ Namibia joined four other governments as a founding partner of a pan-African Afr
 The memorandum with Botswana was signed. The two ICT ministries, with their operators and regulators, [signed at Kasane on 7 August, covering digital transformation, cybersecurity, connectivity and skills development](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement), and published operational detail alongside it: [the Trans-Kalahari Corridor's remaining 4G gaps costed at about N$52 million across 13 new sites, and the Gobabis-Buitepos fibre link completed and interconnecting with the Botswana backbone company at Charles Hill](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) — the first direct cross-border fibre link between the two operators — with the two incident-response teams said to be deepening cooperation. The signed instrument itself is not held, and no term, funding or data-governance provision is published.
 
 India is the other bilateral track. At the [fourth joint trade committee in New Delhi on 12 August the two governments advanced cybersecurity and digital-economy cooperation](https://cajnewsafrica.com/2026/08/12/namibia-solidifies-cybersecurity-digital-ties-with-india/), building on a memorandum the two heads of government signed in July 2025 and against bilateral trade put at more than US$592m in 2025/26. That memorandum's text is not held either.
+
+
+The regulator also took the chair of something. The southern African regulators' association [opened the first meeting of its legal and policy committee at Windhoek from 10 to 12 August, with artificial-intelligence governance, data governance and protection, digital public infrastructure and regulatory harmonisation on the agenda](https://techreviewafrica.com/news/6684/crasa-legal-and-policy-committee-opens-meeting-on-ai-data-governance-and-regional-ict-regulation). No work programme, output or timetable is published with it.
 <!-- /narrative -->
 ### Data protection
 
@@ -123,6 +126,9 @@ On 4 August an opposition member told a newspaper that with no data-protection s
 
 <!-- narrative: governance--data-open -->
 The environment ministry put a data platform where the country has no open-data policy at all. Its [Multilateral Environmental Agreements monitoring and reporting platform launched at N$12m in the week of 7 August](https://neweralive.na/ministry-unveils-n12-million-monitoring-website/), built with UNDP and funded by the Global Environment Facility under a land-governance project, to centralise environmental data for planning, decision-making and national reporting, with the national university as technical and academic partner. No public access, dataset list, licence or publication rule is stated, so on the record held it is a reporting tool rather than open data — and the access-to-information statute that would give a citizen a claim on any of it remains enacted and uncommenced.
+
+
+A second dataset arrived from outside government altogether. A privately built application [launched nationwide on 14 August taking public reports of more than thirty kinds of infrastructure and service-delivery fault onto a mapped national dataset, with automatic facial and licence-plate redaction](https://www.we.com.na/local-news-we/citymender-namibia-partners-with-windhoek-express-to-build-a-smarter-namibia-nmh015440-4-19157). It is privately held: no user count, arrangement with any authority, or licence for the data is stated, which is the difference between a dataset and an open one.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -153,4 +159,7 @@ A [five-node high-performance computing cluster is specified for deployment at t
 The central bank's deputy governor told the payments association's annual general meeting on 28 July that financial inclusion rose from 78% in 2017 to 86% in 2025, and named continued cash reliance, limited rural access, informal-sector barriers and the digital divide as the persistent constraints ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 
 Education added a channel built for the same margins. The education ministry and UNICEF [launched a Namibia Learning Passport, a digital and offline learning platform aimed at rural, remote and underserved young people](https://informante.web.na/?p=399266), at the international youth day event in Keetmanshoop. No user target, content catalogue, device requirement or offline distribution route is stated — which matters most for the platform's stated audience, since parliamentary evidence in the same window put schools and clinics in Kavango West as substantially cut off from reliable internet.
+
+
+What that looks like in one region was put to the parliamentary ICT committee on 11 August: [21 of Kavango West's 188 schools have workable connectivity, leaving 55,002 learners without digital teaching tools](https://www.nampa.org/text/22988531), and health officials told the same committee that clinics there still struggle with unreliable mobile coverage. The figures are the regional education director's own, and they sit against a target of full telecommunications coverage by 2030.
 <!-- /narrative -->

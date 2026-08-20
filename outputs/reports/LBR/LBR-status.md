@@ -1,15 +1,15 @@
 ---
 title: Liberia — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: LBR
-ledger_rows: 61
+ledger_rows: 64
 not_held: 8
-record: fae8b23ba72b
+record: a58a6944c69d
 ---
 
 # Liberia: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (61 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (64 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -88,7 +88,7 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 |---|---|---|
 | Interoperable payment fee regime | [Implemented](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) | Central bank-approved schedule reported 5 August 2026 |
 | National Electronic Payment Switch | [Planned](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) | Named by the finance minister at a youth town hall, 28 July 2026 |
-| Pay Na-Na inclusive instant payment system | [Implemented](https://frontpageafricaonline.com/business/economy/liberia-cbl-launches-inclusive-instant-payment-system-ends-era-of-mobile-money-silos/) | Launched 16 December 2025 on Mojaloop, in 73 business days |
+| Pay Na-Na inclusive instant payment system | [Implemented](https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1) | Launched 16 December 2025 on Mojaloop, in 73 business days |
 
 ### Registries (population, land, address, etc.)
 
@@ -112,6 +112,7 @@ Unlike the Act, a regulator-made instrument is already in force: the LTA's [Cybe
 | Electronic government procurement platform | [Implemented](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) | Equipment handed to the telecommunications regulator, reported 2026-08-12 |
 | GREAT digital identity and digital government project | [Implemented](https://www.biometricupdate.com/202503/liberia-launches-digital-public-infrastructure-project-with-30m-world-bank-funding) | US$30m World Bank project launched, March 2025 |
 | Office of Technology, Digitalization and Innovation (Executive Order 163) | [Implemented](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html) | Executive Order 163 signed, 22 April 2026 |
+| Private-school operating permit system | [In development](https://newspublictrust.com/education-ministry-advances-digital-school-permit-system-while-funding-provided-to-renovate-public-schools) | Digitisation stated at a government press briefing 2026-08-11 |
 
 ### Digitalisation of sub-national government
 
@@ -142,6 +143,7 @@ Government systems are being coordinated from the centre for the first time. [Ex
 |---|---|---|
 | LTA licensing and spectrum reform package | [In development](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/) | Reform package set out by the board chair, 17 July 2026 |
 | Mobile Money Regulations (Central Bank of Liberia) | [Implemented](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf) | In force as the central bank's mobile-money framework |
+| Satellite Communications Guidelines (LTA-GL-002-2026) | [Implemented](https://lta.gov.lr/wp-content/uploads/2026/03/SATELLITE-COMMUNICATIONS-GUIDELINES.clean_.fv_.2.25.26-FINAL-VERSION.pdf) | Signed 2026-08-19 after consultation from February to June 2026 |
 
 ### Strategies, plans and policies
 
@@ -162,6 +164,7 @@ Government systems are being coordinated from the centre for the first time. [Ex
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Data sharing arrangement under the health memorandum | [Planned, deferred to an unpublished appendix](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | Deferred to an unpublished Appendix 5 |
 | Personal Information Act (data protection bill) | [In development](https://www.liberianobserver.com/politics/house-reviews-privacy-data-protection-bill/article_6675211a-e8bc-43c6-8e04-e73cbf26278a.html) | Recorded as before the legislature at the ID4Africa annual meeting, May 2026 |
 | Privacy enforcement against telecom operators | [Implemented](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license) | Orange Liberia fined LRD 4m for unauthorised issuance of a subscriber's SIM to a third party |
 

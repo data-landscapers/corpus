@@ -1,15 +1,15 @@
 ---
 title: Namibia — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: NAM
-ledger_rows: 117
+ledger_rows: 120
 not_held: 12
-record: 73adff9d1587
+record: 4a9ccd6a2414
 ---
 
 # Namibia: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/NAM/ledger.csv` (117 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/NAM/ledger.csv` (120 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -117,6 +117,7 @@ Cyber incidents are published quarterly. The response team recorded 513,921 vuln
 | Participation in the pan-African payment and settlement system | [Planned, not confirmed](https://www.namibian.com.na/namibia-can-benefit-from-africa-trade-payment-system) | A regional bank targeted central bank sign-up by its Windhoek seminar of 5-8 November 2024 |
 | Payment System Management Act 14 of 2023 | [Implemented](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/94/94193758-e15b-4af9-8321-4801142c82f7.pdf) | In force 2023-08-08 |
 | Transfer of payment-provider licensing to the central bank | [In development](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/) | Announced under a new framework at the payments association's annual general meeting |
+| UnionPay e-commerce acceptance | [Implemented](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Extended to nine African markets 2026-08-19 |
 | Payments association 2025 annual report | ***Not held*** | — |
 
 ### Registries (population, land, address, etc.)
@@ -213,6 +214,7 @@ Namibia's statistics system rests on parallel plans. The National Strategy for t
 | Namibia-Botswana information and communications technology memorandum | [Implemented](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) | Signed at Kasane 2026-08-07 |
 | Namibia-Republic of Congo information technology memorandum | [Planned](https://neweralive.na/cabinet-approves-ict-agreement-with-congo-endorses-regional-cooperation/) | Cabinet approved and authorised signature, announced 2026-07-23 |
 | Pan-African language artificial-intelligence initiative | [In development](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/) | Launched at a continental telecommunications conference with Namibia's ICT ministry a named partner |
+| Regional regulators' legal and policy committee | [Implemented](https://techreviewafrica.com/news/6684/crasa-legal-and-policy-committee-opens-meeting-on-ai-data-governance-and-regional-ict-regulation) | First meeting hosted at Windhoek 10 to 12 August 2026 |
 | Ratification of the continental convention on cyber security and personal data protection | ***Not held*** | — |
 
 ### Data protection
@@ -240,6 +242,7 @@ Namibia's statistics system rests on parallel plans. The National Strategy for t
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Access to Information Act 8 of 2022 and the Information Commissioner | [Enacted, not commenced](http://www.lac.org.na/laws/2022/7986.pdf) | Information Commissioner and Deputy Information Commissioner appointment regulations gazetted 2024-12-09 (signed 2024-11-15); the Act itself remains not commenced |
+| CityMender infrastructure reporting platform | [Implemented](https://www.we.com.na/local-news-we/citymender-namibia-partners-with-windhoek-express-to-build-a-smarter-namibia-nmh015440-4-19157) | Launched nationwide 2026-08-14 |
 | Multilateral Environmental Agreements monitoring and reporting platform | [Implemented](https://neweralive.na/ministry-unveils-n12-million-monitoring-website/) | Launched in the week of 2026-08-07 |
 | National open data policy or government portal | ***Not held*** | — |
 
