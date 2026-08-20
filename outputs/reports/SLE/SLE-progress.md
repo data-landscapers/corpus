@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-20
 place: SLE
 ledger_rows: 79
 not_held: 11
-record: 52a795587857
+record: 25f34e1a5982
 ---
 
 # Sierra Leone: progress report, 2025-08-01 to 2026-08-20
@@ -14,7 +14,7 @@ record: 52a795587857
 
 *Of 79 systems and instruments on this place's ledger, 37 changed position between 2025-08-01 and 2026-08-20, 15 did not, 16 carry no stated baseline, and 11 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 71 sources for this place in the window — 13 in the earlier half (2025-10 to 2026-02), 58 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 72 sources for this place in the window — 13 in the earlier half (2025-10 to 2026-02), 59 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -77,7 +77,7 @@ The state telco found a route out of its balance sheet without capital: Africell
 
 | System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
-| ASYCUDA customs system | In service as the customs declaration system, with no integrity finding on record | [In service, with the anti-corruption commission finding over 300 billion leones lost to backend manipulation - processed customs declarations deliberately deleted and dormant bank-teller profiles used to validate transactions after the account holders had left their institutions - and reasonable grounds to suspect coordinated collusion](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/) | Regressed |
+| ASYCUDA customs system | In service as the customs declaration system, with no integrity finding on record | [In service, with the anti-corruption commission finding over 300 billion leones lost to backend manipulation - processed customs declarations deliberately deleted and dormant bank-teller profiles used to validate transactions after the account holders had left their institutions - and reasonable grounds to suspect coordinated collusion. The commission’s own text puts the mechanism as clearing agents’ payments being unlawfully deleted from the revenue authority’s tax system after the funds had reached government-designated bank accounts, leaving significant discrepancies between what the banks collected and what the system recorded, and suspects revenue-authority staff acting in collusion with tellers at the commercial banks that processed the payments](https://www.linkedin.com/posts/fritong-post_part-1-nras-missing-billions-the-acc-activity-7494064892119998465-bd_y) | Regressed |
 | Government Service Bus and X-Road data exchange layer | World Bank terms of reference for an open-source prototype in the Ministry of Finance data centre; nothing running (2025) | [Data Exchange Layer piloting on X-Road under the Ministry of Finance; no production date, connected agencies or governance rules published (2026-08)](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) | Advanced |
 
 ### Digital Identity and CRVS

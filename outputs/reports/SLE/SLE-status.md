@@ -4,7 +4,7 @@ compiled: 2026-08-20
 place: SLE
 ledger_rows: 72
 not_held: 11
-record: 1c58a0f24330
+record: 57bac222ef0f
 ---
 
 # Sierra Leone: status report
@@ -86,7 +86,7 @@ Cybersecurity institutions are ahead of the record about them. The regulator [co
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| ASYCUDA customs system | [Implemented, integrity failure found by the anti-corruption commission](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/) | Commission report dated 2026-07-10, serialised from 2026-08-17 |
+| ASYCUDA customs system | [Implemented, integrity failure found by the anti-corruption commission](https://www.linkedin.com/posts/fritong-post_part-1-nras-missing-billions-the-acc-activity-7494064892119998465-bd_y) | Commission report dated 2026-07-10, serialised from 2026-08-17 |
 | Government Service Bus and X-Road data exchange layer | [In development](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) | Ministry of Finance reported piloting a Data Exchange Layer on X-Road |
 | Legal basis for data sharing between government registers | ***Not held*** | — |
 

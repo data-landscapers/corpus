@@ -5,14 +5,14 @@ period: 2025-08-01 to 2026-08-20
 place: ZWE
 ledger_rows: 182
 not_held: 9
-record: 587a31ffbf0d
+record: f583c2fd18e9
 ---
 
 # Zimbabwe: progress report, 2025-08-01 to 2026-08-20
 
 *Compiled 2026-08-20 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 182 systems and instruments on this place's ledger, 87 changed position between 2025-08-01 and 2026-08-20, 40 did not, 46 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 182 systems and instruments on this place's ledger, 86 changed position between 2025-08-01 and 2026-08-20, 41 did not, 46 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 149 sources for this place in the window — 28 in the earlier half (2025-08 to 2026-01), 121 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -184,7 +184,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 | System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
-| Local authority electronic services and revenue systems | Not held; the only Zimbabwean object on this subject was a 250-kit handover, with no council follow-up recorded | [Kwekwe City Council bills rates, refuse, sewerage, water and other service charges centrally through the Promun (ERP) package, with each property assigned a unique account number and tariff code; the finance department names "Information Technology and E-Governance" among its five key functions, covering database administration, network security and system workflow; legal basis is the Urban Councils Act s.219 for rates and the Water Act [Chapter 20:22] and Environmental Management Act [Chapter 20:17] for service charges; no user count, collection rate or digital-channel adoption figure published](https://kwekwecity.org.zw/departments/finance/) | Advanced |
+| Local authority electronic services and revenue systems | Most councils lagging in technology on the Auditor-General’s FY2024 audits, with business processes still manual or partially automated, accounting-system modules left unactivated, and most authorities without an enterprise resource planning system for revenue collection and so recognising revenue on a cash basis for want of complete databases; revenue-collection and debt-recovery findings rose from 81 across 51 local authorities to 92 across 60 (2025-06) | [Kwekwe City Council bills rates, refuse, sewerage, water and other service charges centrally through the Promun (ERP) package, with each property assigned a unique account number and tariff code; the finance department names "Information Technology and E-Governance" among its five key functions, covering database administration, network security and system workflow; legal basis is the Urban Councils Act s.219 for rates and the Water Act [Chapter 20:22] and Environmental Management Act [Chapter 20:17] for service charges; no user count, collection rate or digital-channel adoption figure published](https://kwekwecity.org.zw/departments/finance/) | No change, one council documented against an unchanged national picture |
 | Satellite kits for local authorities | 250 kits handed over 2025-07-24, deployment and maintenance left to councils | [No deployment, activation or outcome figure held](https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/) | No change |
 
 ### National statistics
