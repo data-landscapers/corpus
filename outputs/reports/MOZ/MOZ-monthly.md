@@ -1,16 +1,16 @@
 ---
 title: Mozambique — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: MOZ
-ledger_rows: 63
+ledger_rows: 64
 not_held: 19
-record: 15747aac9de3
+record: 4813cba1c85c
 ---
 
 # Mozambique: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -161,6 +161,11 @@ The central bank's Financial Inclusion Report 2025, reported on 24 July, counted
 August added the price side of the same picture. A standard data package [fell from 9.4% of monthly gross national income per head in 2022 to 2.67% in March 2026](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/), on World Bank Digital Acceleration Project figures released with the coverage map. The basket behind the standard package is not defined in the record held.
 
 What none of these measures reaches is what the money does. A study of 900 households published on 7 August finds that [mobile money improves household welfare through active use rather than account ownership, reducing reliance on own food production and strengthening resilience through remittances, with women gaining financial autonomy and young people using it to stabilise consumption](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0343349). It is a single academic study of a sample, not a national series, and it is the only evidence of outcome the base holds against the access counts above.
+<!-- /narrative -->
+### Literacy
+
+<!-- narrative: inclusion--capacity-literacy -->
+The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The base holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
 <!-- /narrative -->
 ### Training and skills
 

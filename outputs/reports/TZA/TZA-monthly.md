@@ -1,16 +1,16 @@
 ---
 title: Tanzania — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: TZA
-ledger_rows: 61
+ledger_rows: 63
 not_held: 13
-record: dd2813d23d6c
+record: 029c7de942bf
 ---
 
 # Tanzania: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -132,6 +132,11 @@ The coordination that did get a name came from outside the state. A [multi-stake
 The data protection commission and the open university [opened a certification programme for data protection officers on 14 July](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/), the university training and assessing and the commission certifying, aimed at government, finance, telecommunications, healthcare, education and technology. It answers the statutory officer duty; no intake number, fee or cohort date was published.
 
 A separate rule pulls in the other direction. Businesses selling on social media must now [display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-new-social-media-tax-rule-for-businesses-sparks-privacy-and-cybersecurity-fears-5555022), and digital creators and online traders have objected that publishing those credentials exposes them to impersonation and fraud (12 August). The objections are those of named creators and traders reported by the paper rather than a regulator finding; no data-protection assessment or redress route is published.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The month's one finding about political speech came from outside the state. A civil-society research organisation [documented online gendered violence against election candidates as cyclical across successive elections in Tanzania and Côte d'Ivoire](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/), timed to a national election period. No regulator, electoral commission or platform publishes a comparable measurement, so the only quantification of the problem the record holds is the researcher's own.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

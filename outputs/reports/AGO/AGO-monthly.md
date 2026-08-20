@@ -1,16 +1,16 @@
 ---
 title: Angola — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: AGO
-ledger_rows: 37
+ledger_rows: 39
 not_held: 7
-record: a0c766b3a5f9
+record: 07da28b51e24
 ---
 
 # Angola: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -71,6 +71,8 @@ Two payment milestones fell within a fortnight. The central bank completed migra
 Identity delivery moved on the printing side. From 1 July all 21 provinces print the identity card locally, ending centralisation at a single production centre, with two to three printers per province planned and a 24-to-48-hour issuance target; one province reports issuance under 24 hours against one to two weeks before June. Against that, [more than 120,000 issued cards were awaiting collection](https://angop.ao/noticias/politica/mais-de-120-mil-bilhetes-de-identidade-aguardam-levantamento-em-todo-o-pais/) nationwide as at 15 July, prompting a civic campaign enlisting churches and traditional authorities.
 
 A single social register was launched in the week ending 25 July with no enrolment target, data-protection basis or governing instrument stated.
+
+The electoral register, updating since 15 June against a universe of 16.7 million citizens, acquired its first national enrolment figure in August and it came from the opposition rather than the administration. Four parties [put the count above 730,000 and demanded an independent audit of the electoral database, alleging administrative discretion, uneven deployment of registration brigades and recurring biometric-system failures](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html), and said the administration refuses to release enrolment statistics disaggregated by province, municipality and commune. At provincial level the Lunda-Norte government [reported over 40,000 residents updated and pressed mining-sector workers to register through the one-stop service desks](https://angop.ao/noticias/politica/governadora-apela-a-actualizacao-dos-dados-eleitorais/). None of the allegations has been adjudicated, and because no official series exists there is nothing to test them against - which is itself the complaint.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 

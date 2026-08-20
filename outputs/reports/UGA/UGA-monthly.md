@@ -1,16 +1,16 @@
 ---
 title: Uganda — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: UGA
-ledger_rows: 60
+ledger_rows: 63
 not_held: 16
-record: 3163fb259838
+record: b698a87afe8a
 ---
 
 # Uganda: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -71,6 +71,11 @@ The scale underneath all of it is in the regulator's quarterly report: [2.55 bil
 
 
 A fourth arrangement opened on 19 August, and it is card rather than wallet: a commercial bank and an international scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Uganda](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both. The merchant count is given for the nine markets together.
+<!-- /narrative -->
+### Registries (population, land, address, etc.)
+
+<!-- narrative: dpi--dpi-registry -->
+The alien register issued its first cards. The identity authority [began issuing Alien ID cards to legally resident foreigners, having enrolled 1,875 since registration opened on 10 June, with the US$100 card required for SIM registration, banking and business access but conferring no vote](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals). About 2m registered foreigners are in scope and roughly 1.95m of them are refugees or asylum-seekers, so ten weeks of enrolment has reached under a tenth of a percent of the population the fee falls on. No waiver, instalment route or alternative for a resident who cannot pay is published, which leaves the card a precondition for a bank account and a SIM with no stated way round it.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
