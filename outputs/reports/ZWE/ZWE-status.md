@@ -1,12 +1,12 @@
 ---
 title: Zimbabwe — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-20
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 125
+sources_cited: 126
 sections_written: 37
 not_established: 3
 acquire_lines: 38
@@ -336,7 +336,7 @@ Money is the one layer where the national system formally reaches down. Zimbabwe
 
 What sub-national government has built for itself is municipal and unconnected. [Harare City Council is rolling out its own Electronic Traffic Management System across the central business district](https://www.newsday.co.zw/local-news/article/200059121/harare-says-ai-traffic-cameras-roll-out-to-improve-road-safety-avoid-entrapment-concerns), using automated detection, evidence capture and e-ticketing against speeding, red-light running, illegal turns and congestion — a system distinct from the national police programme announced the same day (August 2026). Its chief traffic officer has [recommended a non-penal trial phase to fix technical faults, refine signage and test appeals pathways before financial penalties apply](https://www.newsday.co.zw/local-news/article/200059121/harare-says-ai-traffic-cameras-roll-out-to-improve-road-safety-avoid-entrapment-concerns).
 
-Provision for the rest of local government has come as hardware rather than as systems: [the government donated 250 Starlink kits to local authorities](https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/) under its digitisation drive (July 2025).
+Provision for the rest of local government has come as hardware rather than as systems: [the government donated 250 Starlink kits to local authorities](https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/) under its digitisation drive (July 2025). The books underneath are largely unautomated. Auditing the 2024 financial year, the Auditor-General found [most local authorities lagging in technology, their business processes still manual or partially automated, with modules of their accounting systems left unactivated and the resulting late submission of financial statements compromising document retention](https://veritaszim.net/sites/veritas_d/files/Report%20%20of%20the%20Auditor-General%20for%20the%20Year%20Ended%2031%20Dec%202024%20on%20Local%20Authorities.pdf) (June 2025), and [most councils without an enterprise resource planning system for revenue collection, so recognising revenue on a cash basis for want of complete databases and losing revenue as a result](https://veritaszim.net/sites/veritas_d/files/Report%20%20of%20the%20Auditor-General%20for%20the%20Year%20Ended%2031%20Dec%202024%20on%20Local%20Authorities.pdf); [revenue-collection and debt-recovery findings rose from 81 across 51 local authorities to 92 across 60](https://veritaszim.net/sites/veritas_d/files/Report%20%20of%20the%20Auditor-General%20for%20the%20Year%20Ended%2031%20Dec%202024%20on%20Local%20Authorities.pdf).
 
 ## Data
 
