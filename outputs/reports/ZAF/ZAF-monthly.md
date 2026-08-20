@@ -1,16 +1,16 @@
 ---
 title: South Africa — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: ZAF
-ledger_rows: 80
-not_held: 22
-record: 37b61f951ab6
+ledger_rows: 87
+not_held: 23
+record: bd3306ed09c1
 ---
 
 # South Africa: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -35,6 +35,9 @@ One date the state does not have is the oldest. The communications department [t
 
 <!-- narrative: infrastructure--infra-store -->
 The commercial estate is expanding on the operator's own numbers rather than on a published plan. An international operator is [scaling its Johannesburg facility to 24MW and holds a ZAR7.5bn South African expansion budget covering that site plus banked land in Johannesburg and Cape Town](https://www.itweb.co.za/article/equinix-doubles-down-on-joburg-data-centre-expansion/PmxVE7KEObLqQY85), with further build-out held pending demand. No grid connection, water use or municipal approval detail is stated — and a civil-society coalition used the same week to call for deceleration, transparency and public participation in data-centre expansion, which is the argument the absent detail is about.
+
+
+The expansion also drew its first organised objection. A civil-society coalition [submitted concerns to the human rights commission on 10 August calling for a halt on data-centre developments pending transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/). No participation process, commission response or moratorium is on record, which is what makes the objection the only thing here that can be dated.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -107,6 +110,9 @@ Two of the state's own systems produced numbers in August, one improving and one
 The revenue service opened a consultation of its own on 18 August, on a [digital VAT model combining electronic invoicing, an interoperability framework and electronic reporting](https://www.itweb.co.za/article/sars-invites-input-on-vat-modernisation/DZQ58vV8m9NMzXy2), framed as moving VAT administration off manual processes and retrospective verification and into the systems businesses already run. It follows a 2023 discussion paper and is stated as building blocks: the account held carries no closing date for comment, implementation timetable, cost, mandate threshold or legislative vehicle.
 
 The courts project went the other way. On 13 August the justice minister [referred the courts digitisation project to the special investigating unit and the police priority crimes unit, after the contractor holding outsourced records since 2021 denied the department access to its own records at the Master of the High Court in Pretoria](https://www.sanews.gov.za/south-africa/justice-minister-refers-courts-digitisation-project-siu-hawks). No contract value, term, custody arrangement or data-protection provision for those records is held; a department locked out of its own files is a custody failure before it is a procurement one.
+
+
+Two services were told to integrate or to open. The Public Protector [found the student-aid scheme's systems insufficiently integrated with the home affairs, social security and revenue data it needs to verify students, and gave the board 30 days to produce a digital modernisation and systems-integration plan](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ) covering verification interfaces, fraud controls, the elimination of duplicate applications and manual workarounds, case tracking and costed milestones; the [report records that the scheme cannot resolve 80% of contact-centre queries without internal escalation](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ). In the Western Cape the province [opened free access for small businesses to a private funding-matching platform covering over 300 funders and 600 finance products](https://startupmag.co.za/2026/08/western-cape-launches-free-digital-funding-platform-for-small-businesses/), against the platform's own finding that 65.3% of provincial applicants cannot supply their latest financial statements.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -115,6 +121,9 @@ The courts project went the other way. On 13 August the justice minister [referr
 
 <!-- narrative: governance--gov-legislate -->
 The minister [backed the regulator](https://www.itweb.co.za/article/malatsi-backs-consumer-sentiment-on-data-expiry-debate/RgeVDMPRkPJvKJN3) in the review application brought by the two largest mobile operators against the data bundle roll-over rules. The Angolan kwanza became the [second settlement currency on the SADC real-time system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system), the first addition since 2013.
+
+
+Cross-border crypto acquired a draft rulebook. The Treasury and the central bank [published a draft manual for cross-border crypto activities for comment to 30 September, setting authorisation and reporting rules for crypto asset service providers and defining what counts as a cross-border crypto flow](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/), alongside the capital-flow regulations already in draft.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -132,6 +141,14 @@ Parliament's communications committee [prefers strengthening the existing regula
 
 <!-- narrative: governance--gov-protect -->
 The data-protection statute has been enforceable since 2021 and operates as an adequacy model rather than hard localisation: [cross-border transfers are permitted where equivalent protection, consent or contractual necessity applies, with the controller accountable](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/). The [maximum fine is R10m against a measured average breach cost of R44.1m](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/) — the penalty is a fraction of the harm it is meant to deter.
+
+
+The supervisor said plainly what it cannot do. At a webinar on 18 August the regulator [said it has no capability to test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), while the rights commission reframed misuse of personal information as a constitutional harm bearing on dignity, equality and access to services rather than a cybersecurity one. A peer-reviewed review published four days earlier [records South Africa among three of four countries studied that have not signed the continental data convention, and finds all four health-data governance frameworks fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The rights commission put a position on the record about who should arbitrate what is true online. Launching its policy brief on information integrity, [a deputy justice minister said government should not become the custodian of truth on disinformation, while warning against leaving the information environment to private platforms' algorithms](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html), grounding the balance in the constitutional rights to expression, political participation and access to information. It is a brief rather than an instrument, and no legislative proposal follows from it on the record.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -163,6 +180,9 @@ Two smaller items sit at the other end of the same subject. A robotics firm [ope
 
 <!-- narrative: ai-tech--tech-industry -->
 The sector's transformation body lost its chair. The communications minister [replaced the B-BBEE ICT Sector Council's chairperson and appointed an interim chair for six months](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL) on 14 August, after a departmental investigation found the council dysfunctional. The investigation report is not published, and no remedial plan, terms of reference for the interim period or date for a permanent appointment is stated.
+
+
+The informal economy became a data product. A listed payments company [began selling near-real-time item-level intelligence on informal retail, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am). The network figures are the company's own, and no consent basis or data-protection assessment for reselling merchant transaction data is stated.
 <!-- /narrative -->
 
 ## Inclusion and capacity
