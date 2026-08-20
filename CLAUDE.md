@@ -26,6 +26,18 @@ This repo holds the Phase 3 public site: design record, prototypes, and whatever
 
 The reason is the direction of dependency. The site is a derived view of the wiki; a derived view that writes back to its own source destroys the property that makes it derivable. OSINT is also the store of record — the **master** on its own drive, not the `C:\OSINT` mirror — so a mistake there is a data loss, whereas a mistake in Corpus is a rebuild. That the mirror is cheap to restore is not a licence to write to it: a write CC cannot see the fate of is worse than one it is refused.
 
+## Be decisive — the bar for asking has moved up
+
+**Bill is not the bottleneck any of this should route through** *(Bill, 2026-08-20)*. His words: *"We have too many notes for me to keep up with, and many notes create the need for new notes/checks etc. Both OSINT and CORPUS need to be more decisive… We are heading towards a 90% automated solution. If I properly read every note and comment I wouldn't get any work done… I trust you and OSINT. If something goes wrong it will become obvious at some stage — as, for example, me reading the bulletin — and we can fix it then."*
+
+**So take the action, and where it is not CC's to take, decide what should happen and write that.** The analysis behind the decision belongs in `documentation/`, read once by whoever maintains the file, not in the thing Bill opens. A note or message that ends in a question CC could have answered by reading two more files is CC's own work, unfinished — that is what happened on 2026-08-20, when one scope problem produced three notes for OSINT and a decision request for Bill, and the fix was to classify all 45 records and hand over two lists.
+
+**The escalation test is reversibility, not importance.** If a later run can undo it, act now and record it. Reserve Bill's attention for the irreversible and the already-public: evidence loss with no backup, a published page stating something false, a leak of source text, a legal or licensing exposure, a slug reissued under a live citation. `logs/messages-for-bill.md` keeps its existing job — what a run would have asked — but the set of things worth asking is now small, and a run that takes the conservative option and states it plainly is finished, not deferred.
+
+**Notes for OSINT carry `[CRITICAL]`, `[ACT]` or `[FYI]`**, defined in the exchange folder's `notes-for-osint.md` preamble, and the same reversibility test picks the tag. Most of what used to be written as a decision request is an `[ACT]` with the conservative option already taken.
+
+**None of this touches the boundaries.** OSINT stays read-only, the leak gate still stops a run, and a destructive or outward-facing step still gets confirmed. Being decisive is about not deferring judgements CC is competent to make; it is not licence to widen what CC is allowed to touch.
+
 **Everything CC produces goes in Corpus**, including anything about OSINT. If a change is needed *in* OSINT — a corrected path, a stale statement in a process file, a note for the queues — CC writes the finding as a numbered note in **`C:\corpus-osint-xfer
 otes-for-osint.md`** and tells Bill; it does not make the change. Bill actions it in an OSINT session and strikes the note. That file also holds the standing constraints the site depends on, which never clear.
 

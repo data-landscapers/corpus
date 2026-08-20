@@ -50,55 +50,120 @@ last_reviewed: 2026-08-20
 
 **What CORPUS did with it.** `CAF-status.md` states the law's provisions from this primary rather than from the secondary review it would otherwise have rested on, which is the better source under *the better source wins*. Nothing was changed in `C:\OSINT`.
 
-## Notes 30, 31 and 32, as written
+## Note 30, as written (2026-08-20)
 
-**30** (2026-08-20) — **The geographic remit has no clause anywhere in the ingest screen, and `SWEEP-DAILY-OFFLIST.md` Track B deliberately admits worldwide material against a test that is never actually run.** *(Bill's ruling, 2026-08-20, prompted by reading the day's CORPUS bulletin. Nothing has been changed in `C:\OSINT`; the rule below is his and the edits are OSINT's.)*
+*(Supersedes the copies of notes 30, 31 and 32 parked here earlier the same day. All three were collapsed into this one before delivery, on Bill's instruction that notes be decisive; 31 and 32 stand as withdrawn stubs in the exchange file.)*
 
-**The rule, as Bill states it.** The remit is Africa. Non-African material is admissible in **exactly two** cases: a **sovereignty issue** that files under one of the closed `geopol.*` slugs — great-power positioning, rivalry and strategic influence, per the curator ruling of 2026-07-20 — and material treating **the global south generally**, which includes Africa inside its own subject and which the vocabulary already has a code for: `XGL`, labelled *Global/Developing Countries* in `lookups/countries.csv`. Everything else datelined outside Africa is out. **A single non-African country's domestic story is out however transferable the lesson looks.**
+**30** `[ACT]` (2026-08-20, rewritten the same day before delivery) — **The geographic remit has no clause in the ingest screen. Here is the rule, the 23 records to delete, and the 22 to requeue through `new/` so the fixed screen is tested on real items.** *(Bill's ruling and Bill's plan for executing it, 2026-08-20. Notes 31 and 32 were folded into this one before either was delivered — three notes about one problem was the disease, not the diagnosis.)*
 
-**Where the rule falls through today, in three steps.** `SWEEP-DAILY-OFFLIST.md` → *Track B* casts globally on purpose — *"each item earning its place by bearing on Africa's digital-governance position, not by being datelined in Africa … Carry `places: []`"* — and explicitly defers the bearing-on-Africa judgement to ingest, on the stated reasoning that *"a sweep agent judging 'bearing on Africa' from a snippet is worse-placed than ingest reading the full body, so a ~30% ingest-side reject rate on Track B is that design's known cost"*. But `INGEST.md` step 1 and `CLAUDE.md` → *The material* define scope **purely by subject** — *"falls outside data governance and digital transformation"* — with **no geographic clause at all**. So the test the sweep hands off does not exist at the other end. Korea's teen-algorithm debate, Japan's training-data disclosure rule and India's market-regulator AI rules are all unambiguously data governance, and all three pass the only screen that is written down.
+## The rule
 
-**What arrived on 19–20 August, as an illustration rather than a complaint.** Of 50 records in that window, **15 carried no African place**. Six earn their place under the rule above, all six carrying `geopol.*` tags — the Xi visit AI talks, Washington's tech crackdown against the US–China truce, China on digital sovereignty in the AI race, the UK–US digital services tax, *China is Winning the AI Safety Wars*, and a US congressional advisory body urging Washington to treat data as an economic asset. **Nine do not**: Türkiye's national AI action plan (twice, including the *Resmî Gazete* text), Thailand's TH-AI Passport (twice), Korea's teen-algorithm story, Japan's disclosure rule, India's SEBI kill switch, the US FTC's personalised-pricing statement, France's exclusion of OpenAI from auditing its own systems, and Amnesty on Argentina.
+The remit is **Africa**. Non-African material is admissible in **exactly two** cases:
 
-**One of those nine is worth a second look on its own terms.** The France/Mistral item *is* a sovereignty story — a state excluding a US supplier from offensive audits of its own systems, on explicit sovereignty grounds — but it is tagged `tech.ai` and `infra.cybersec`, so it falls out. If material of that shape should be kept, the fix is a **tagging** rule (`geopol.eu` on a European digital-sovereignty act), not an exception to the geographic one. That is a curator question, not CORPUS's.
+1. **a sovereignty issue** filing under one of the closed `geopol.*` slugs — great-power positioning, rivalry and strategic influence, per the curator ruling of 2026-07-20;
+2. **material treating the global south generally**, which includes Africa inside its own subject — the `XGL` place, already labelled *Global/Developing Countries* in `lookups/countries.csv`.
 
-**`XGL` is the second half of the fix and it is currently a dumping ground.** The code means *Global/Developing Countries*, which is exactly Bill's second admissible case. It is being applied instead to mean *no African place*: Türkiye's national AI plan is filed `XGL`, and so are a Spanish press-lawsuit story, an Indian data-protection explainer, the Philippine AI Regulation Act, Sheinbaum on platform regulation, Brazil's AI legal framework and an Iowa attorney-general coalition. **If `XGL` were applied to its own definition the whole rule becomes mechanical** — keep an African place, keep `XGL`, keep anything `geopol.*`, drop the rest — and both sides can check it. That is the single highest-value change in this note.
+**A single non-African country's domestic story is out**, however transferable the lesson looks.
 
-**What CORPUS has done, and its limits.** `scripts/lint-scope.py` now runs as stage 2a of every build and sorts the catalogue three ways: **in** (African place, or a `geopol.*` tag), **XGL unverified** (placed `XGL`, no `geopol.*` tag — admissible if it earns the code, which is a reading of the body no lint can do), and **unaccounted** (none of the above). It **reports and never gates**, because the records are OSINT's and `C:\OSINT` is read-only from CORPUS without exception. It is belts and braces on a rule OSINT owns, not a substitute for it — the screen belongs where the body is read, which is ingest.
+## Why it is not being applied
 
-**31** (2026-08-20) — **196 records already in the base do not account for their geography, and the list is a review list rather than a delete list — the first cut of it put Jumia and Flutterwave in the same bucket as Thailand's passport.** *(Found by `scripts/lint-scope.py` over the CORPUS catalogue, 10,255 records, 2026-08-20. Follows note 30, which carries the rule. CORPUS has changed nothing.)*
+`SWEEP-DAILY-OFFLIST.md` → *Track B* casts globally on purpose and defers the bearing-on-Africa judgement to ingest, on the stated reasoning that *"a sweep agent judging 'bearing on Africa' from a snippet is worse-placed than ingest reading the full body, so a ~30% ingest-side reject rate on Track B is that design's known cost"*. But `INGEST.md` step 1 and `CLAUDE.md` → *The material* define scope **purely by subject** — *"falls outside data governance and digital transformation"* — with **no geographic clause at all**. The test the sweep hands off does not exist at the other end, which is why Japan's training-data rule and Korea's teen-algorithm debate pass: both are unambiguously data governance.
 
-**The counts.** 10,059 records are in remit. **151 are placed `XGL` with no `geopol.*` tag** — admissible only if each genuinely treats the developing world generally. **45 carry no African place, no `XGL` and no `geopol.*` tag.**
+**`XGL` is half the fix.** It currently means *no African place* in practice — Türkiye's national AI plan, a Spanish press lawsuit, the Philippine AI Regulation Act and an Iowa attorney-general coalition all carry it. Applied to its own definition the rule becomes mechanical for both sides: **African place, or `XGL`, or `geopol.*` — else out.**
 
-**The 45 are three different faults, and this is the part worth reading before acting.** A first pass at this reported them as one number and that was wrong:
+## Delete these 23
 
-- **Genuinely out of remit** — roughly 25. Thailand, Korea, Japan, India (four records), Taiwan (two), the Philippines, Malaysia, three US state-level enforcement stories, four EU instruments, the French CNIL note, Argentina. These are the deletions, if deletion is the answer.
-- **African subject, `places` simply empty** — roughly 13, and deleting any of them would lose real material: Jumia's Q2 results and IFC capital raise (five records across three languages), Flutterwave and Caliza on USD accounts for African companies (two), MTN Bayobab's management appointment, Naran's lease-to-own mobility raise, OADC's sovereign AI cloud, *Africa's Real Gold Mine Isn't Underground*, the Africa single-payments-market piece, and an Africa CEPI digital-policy webinar. **These want a `places` value, not removal.**
-- **Should carry `XGL` and do not** — roughly 5: the ITU Global Connectivity Report 2025, the Sparkle/University of Genoa/SubOptic cable programme, the Cybersecurity Tech Accord statement, the tech-workers open letter on AI pacing, and a dark-data paper.
+Single non-African country domestic stories, no sovereignty framing, no African bearing. Verified one by one against title, publisher and facets.
 
-The three boundaries are a reading of each record, which is why the counts above are stated as *roughly* and why CORPUS is not proposing a list. **`python scripts/lint-scope.py --list 60` prints all 45 with slug, title, places and topics**, and `--since YYYY-MM-DD` narrows to recent arrivals on the `ingested` date; it runs against the CORPUS catalogue, which is a pure function of `raw/`.
+```
+2026-08-19-thestar-anutin-th-ai-passport-five-million
+2026-08-19-thailand-ai-pass-data-contract-scrutiny
+2026-08-19-korea-times-teen-algorithm-rules
+2026-08-19-japan-ai-training-data-disclosure
+2026-08-19-india-sebi-ai-rules-kill-switch
+2026-08-19-ftc-personalized-pricing-enforcement-comment
+2026-08-19-amnesty-argentina-ai-surveillance-commondreams
+2026-08-18-medianama-india-digital-competition-bill-market-study
+2026-08-15-india-sebi-digital-kyc-nri-portability
+2026-08-14-washington-state-ag-first-data-privacy-report
+2026-08-14-philippines-national-cybersecurity-agency-bill
+2026-08-14-india-har-ghar-tiranga-data-protection-violations
+2026-08-14-eu-e-evidence-regulation-cross-border-data
+2026-08-14-eu-cyber-resilience-act-draft-standards
+2026-08-13-taiwan-ai-cyberattack-moda-focustaiwan
+2026-08-13-taiwan-ai-assisted-cyberattack-guardian
+2026-08-13-malaysia-national-data-commission-ai-oversight
+2026-08-13-india-supreme-court-high-risk-ai-public-welfare
+2026-08-13-french-cnil-agentic-ai-note
+2026-08-13-california-data-broker-enforcement-locatesmarter
+2026-08-12-us-dhs-thomson-reuters-clear-fourth-amendment-letter
+2026-08-12-eu-ai-act-global-firms-compliance
+2026-08-11-south-korea-pipa-amendment-civil-society-opposition
+```
 
-**A caution about the 151.** That bucket will contain a great deal of legitimate material — *Closing the Adoption Gap: How AI Is Being Built in the Global South* and a Club de Madrid paper on governing global digital public goods both sit in it and both plainly earn `XGL`. It is a set to work through as the code's meaning is tightened (note 30), not a backlog to clear at speed.
+None is cited by anything CORPUS has published: every one of the 45 is absent from every ledger `sources` column and every status baseline, checked before this note was written. So no slug retirement is owed and the standing constraint *A record that leaves `raw/` takes a published citation with it* is not engaged. **Note 4's index question still is** — see *The mechanism* below.
 
-**What CORPUS will not do.** It will not retag or drop rows in its own catalogue to paper over this. `outputs/catalogue/raw-catalogue.csv` is a derived view of `raw/` and is republished at every render; editing it would make the two disagree and hide the finding rather than fix it.
+## Requeue these 22 into `new/`
 
-**32** (2026-08-20) — **There is no clean end-to-end approach to deleting an admitted record, and the specific hole is that a deleted source's URL loses its adjudication and will be re-admitted by a later sweep.** *(Bill's question, 2026-08-20, arising from note 31: "do we have a clean approach across OSINT and CORPUS for deleting records?" Answered from a read of `INGEST.md`, `PRUNE.md`, `scripts/raw-url-index.py` and the CORPUS side. Nothing has been changed anywhere.)*
+Not because they are wrong, but because **re-adjudicating them is the test that the fixed screen works on real items**, which is the whole point of doing it this way rather than hand-correcting the fields. If the rule is right, the first 15 come back with an African place, the next 4 come back as `XGL`, and the last 3 get a ruling that does not exist yet.
 
-**Before admission the story is clean.** `INGEST.md`'s four dispositions are exhaustive, delete is one of them, and it is git-reversible. Nothing here needs changing.
+**Should come back with an African place** — African subject, `places` simply empty. Deleting any of these would lose real material:
 
-**After admission there is no procedure at all.** `PRUNE.md`'s retention register is explicit that it lists *"everything in the vault that ages out, and who does it"*, and **`raw/` is not in it** — by design, since `raw/` is the record. The only affordance is `raw-url-index.py --remove URL`, whose usage line reads *"on retire/replace — a stale row"*, and no pass owns it. So retracting a source is currently an unwritten act.
+```
+2026-08-17-oadc-ai-analytics-intelligence-sovereign-ai-cloud
+2026-08-17-naran-raises-10m-lease-to-own-mobility-africa
+2026-08-17-mtn-digital-infrastructure-bayobab-gm-appointment
+2026-08-17-flutterwave-caliza-usd-accounts-african-companies
+2026-08-17-africas-real-gold-mine-isnt-underground
+2026-08-17-africa-single-payments-market-currencies-divided
+2026-08-15-africa-cepi-digital-policy-webinar
+2026-08-14-what-jumia-s-50-million-raise-says-about-its-path-to-profitability
+2026-08-13-world-bank-s-ifc-invests-25m-in-jumia-to-boost-africa-s-digital-commerce
+2026-08-13-jumia-l-ve-25-millions-usd-aupr-s-de-la-sfi-pour-acc-l-rer-sa-croissance-en-afri
+2026-08-13-flutterwave-and-caliza-partner-to-expand-global-payment-access-for-african-busin
+2026-08-12-jumia-q2-2026-results-ifc-capital-raise
+2026-08-12-ifc-world-bank-jumia-25-million-equity
+2026-08-11-sparkle-the-university-of-genoa-and-the-suboptic-foundation-launch-the-second-le
+2026-08-11-opinion-piece-u00a0diversity-needs-to-start-with-technology-u00a0not-just-the-wo
+```
 
-**The hole, stated precisely.** `lookups/raw-url-index.csv` is *"one row per source in `raw/`"* and `--rebuild` regenerates it from `raw/` frontmatter, so deleting the file removes the URL's `admitted` row. `logs/sweep-url_log.md` — which `INGEST.md` tier 1 reads for `admitted`/`dropped`/`contradiction` adjudications — is pruned to **one rotation** at the close of each night. `logs/drop-list.csv` is the origin screen's and works at **domain** level, not URL level. Put together: **within one rotation of deleting a record, its URL is un-adjudicated**, tier 1 finds no hit, and the next sweep that meets it fetches and admits it again. Deleting the 25 out-of-remit records from note 31 without also recording a negative adjudication is a revolving door, and the second admission looks exactly like a first.
+**Should come back as `XGL`** — genuinely about the developing world or the field as a whole:
 
-**What a clean approach would need, on OSINT's side.** A **retraction disposition** that deletes the file *and* writes a durable `dropped` (or `retired`) adjudication for the URL somewhere that is not pruned — the natural home is a `retired` state in `raw-url-index.csv` itself, since it is the one store that already survives for ever and is already read at tier 1. Whether that is right is OSINT's call; the requirement is that **the negative record must outlive the positive one**.
+```
+2025-11-28-itu-global-connectivity-report-2025
+2026-08-16-dark-data-final
+2026-08-11-cybersecurity-tech-accord-offensive-cyber-statement
+2026-08-10-tech-workers-open-letter-ai-pacing-regulation
+```
 
-**What breaks on the CORPUS side, and what does not.** Derived surfaces self-heal: `raw-catalogue.csv` is rebuilt from `raw/` at every build, and the published `site/catalogue/raw-catalogue.csv` is overwritten rather than dated, so a retracted record leaves the public catalogue at the next render with nothing to do. **Authored surfaces do not self-heal, but they do fail loudly**: ledger `sources` columns hold slugs and status baselines hold URLs in authored prose, and both are covered — `report-render.py` check M (*every row that states a position cites a source that resolves*) and `status-check.py` check A (*every link is held*). A deletion therefore surfaces as a failing check on the next build rather than silently.
+**Need a ruling that does not exist yet** — each is a sovereignty story wearing a non-`geopol` tag, and the ruling wanted is a *tagging* rule (does `geopol.eu` apply to a European digital-sovereignty act?), not an exception to the geographic one:
 
-**But it surfaces as the wrong problem, and this is worth knowing before any bulk deletion.** Those checks report a **broken citation**, not a **retraction**. BUILD's documented repair for a broken link is to find the right URL or strike the claim — so a retracted record reads to the next build as a link that needs mending, and a diligent build may go looking for a replacement for a source that was deliberately removed. If a batch is ever retracted, **the list of retracted slugs should come across the exchange folder with it**, so BUILD can tell the two apart and strike rather than repair.
+```
+2026-08-19-france-mistral-ai-government-cybersecurity-audit
+2026-08-12-etri-explainable-ai-itu-standard
+2026-08-11-anthropic-claude-watermark-eu-ai-act
+```
 
-**And one thing is forward-only by design.** Dated PDF and CSV editions under `site/` are never revised (`documentation/design.md` §9), so an edition that cited a record keeps citing it after retraction. That is correct — a published artefact is what it was when published — but it means **retraction propagates to the live site and never to the archive**, and anyone reasoning about "removing a record" should know that from the start.
+The France item is the clearest case: a state excluding a US supplier from offensive audits of its own systems, on explicit sovereignty grounds, tagged `tech.ai` and `infra.cybersec`.
 
-## Note 33, as written
+## The mechanism — the one thing that will break this if it is skipped
+
+**A deleted or requeued record's URL loses its adjudication, and the next sweep re-admits it.** `lookups/raw-url-index.csv` is *"one row per source in `raw/`"* and `--rebuild` regenerates from `raw/` frontmatter, so moving the file out removes the URL's `admitted` row. `logs/sweep-url_log.md` — which `INGEST.md` tier 1 reads for `admitted`/`dropped`/`contradiction` — is pruned to **one rotation**. `logs/drop-list.csv` is the origin screen's and works at **domain** level. So within one rotation these 45 URLs are un-adjudicated and the sweeps will fetch them again.
+
+Two consequences, opposite ways round:
+
+- **The 23 deletions need a durable negative adjudication**, or they come straight back and the second admission looks exactly like a first. The natural home is a `retired` state in `raw-url-index.csv` itself, since it is the one store that survives for ever and is already read at tier 1. **The requirement is that the negative record outlives the positive one**; the design is OSINT's.
+- **The 22 requeues need their index rows removed** (`raw-url-index.py --remove URL`), or tier 1 drops every one as `DUP-EXACT` before the screen ever sees them and the test silently runs on nothing.
+
+This is the operational half of **note 4**, which has said since 2026-08-13 that a permissioned `raw/` deletion must also clear the slug and asked whether the DB earns its keep. Nothing new is being raised here — it is the same question, now with a batch of 45 about to walk into it.
+
+## What CORPUS has already done
+
+`scripts/lint-scope.py` runs as stage 2a of every build and sorts the catalogue three ways: **in** (African place or `geopol.*` tag), **XGL unverified** (placed `XGL`, no `geopol.*` — admissible if it earns the code, which is a reading no lint can do), **unaccounted** (none of the above). `scripts/bulletin.py` now filters the daily bulletin on the same rule from the same library, so out-of-remit records stop reaching a published page from today. Both **report and never gate**: CORPUS cannot enforce a rule over records it may not write.
+
+Corpus-side scope of the backlog, for context: 10,059 of 10,255 catalogue records are in remit, 151 are `XGL` unverified, 45 are the set above. **The 151 is not a backlog to clear at speed** — it holds *Closing the Adoption Gap: How AI Is Being Built in the Global South* and a Club de Madrid paper on governing global digital public goods, both of which plainly earn the code. It settles itself as `XGL`'s meaning is tightened.
+
+## Note 33, as written (2026-08-20)
 
 **33** (2026-08-20) — **Two `title:` fields are stored mojibake, and both reach a published CORPUS page.** *(Found while adding the bulletin's remit filter, 2026-08-20. Small, and mechanical to fix; raised because CORPUS cannot fix it and both are on live pages.)*
 
