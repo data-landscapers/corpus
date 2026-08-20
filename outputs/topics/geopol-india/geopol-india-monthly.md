@@ -1,10 +1,10 @@
 ---
 title: India activities — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: geopol.india
 places: EGY; NAM
-record: 47bb4cc3d0eb
+record: 8d0867b25a87
 ---
 
 # India activities: monthly update, July 2026

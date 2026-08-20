@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: gov.policy
 places: BEN; BWA; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 50339c22d9f8
+record: a3b39d8f4ee7
 ---
 
 # Strategies, plans and policies: monthly update, July 2026
@@ -87,9 +87,12 @@ The same 27 July Libreville seminar on space communications called for an autono
 
 The government [announced a ten-year artificial-intelligence implementation plan on 29 July](https://thechronicle.com.gh/government-rolls-out-10-year-ai-implementation-roadmap-to-drive-jobs-economic-growth/) with measurable annual milestones, built with United Nations partners.
 
+
+The wider reform the digital pillar sits in reached validation on 12 August: a [five-year, seven-pillar public sector reform strategy was validated at a stakeholder workshop ahead of formal adoption, one pillar being digitalised public-sector systems](http://psrs.gov.gh/index.php/component/content/article/59-stakeholders-validate-national-public-sector-reform-strategy-ii-ahead-of-formal-adoption?Itemid=101&catid=2). No text, budget or adoption date is published.
+
 ## Guinea
 
-A [presidential decree of 27 July 2026 reshuffled the transition government](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/), keeping Mourana Soumah at the Ministère de la Communication, de l'Économie numérique et de l'Innovation, which he has held since the February 2026 merger. Djenabou Touré takes Administration du Territoire et de la Décentralisation, the ministry supervising ONECI and the biometric civil-registration programme; a Djenabou Touré was director-general of elections and attended the ONECI signing three days earlier, and the source does not confirm they are the same person. A World Bank tender published the same week still names the predecessor department, MPTEN, as supervising WARDIP.
+The legislature acquired a standing counterpart to all of this: the National Assembly's ICT committee [held its first working session on 7 August and named mobile money, social-media regulation and network security as its priorities](https://www.avenirguinee.org/2026/08/07/reseaux-sociaux-mobile-money-ntic-les-priorites-de-la-commission-communication-de-lan-devoilees/), to be worked in coordination with the telecommunications ministry; no work programme or timetable is published. A [presidential decree of 27 July 2026 reshuffled the transition government](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/), keeping Mourana Soumah at the Ministère de la Communication, de l'Économie numérique et de l'Innovation, which he has held since the February 2026 merger. Djenabou Touré takes Administration du Territoire et de la Décentralisation, the ministry supervising ONECI and the biometric civil-registration programme; a Djenabou Touré was director-general of elections and attended the ONECI signing three days earlier, and the source does not confirm they are the same person. A World Bank tender published the same week still names the predecessor department, MPTEN, as supervising WARDIP.
 
 ## Kenya
 
@@ -178,6 +181,9 @@ Cabinet approved measures to operationalise the Multidimensional Vulnerability I
 ## Sierra Leone
 
 Delivering a ministerial statement on 4 August after [MPs demanded an explanation for the surge](https://www.sierraleonemonitor.com/parliament-orange-money-scams/), the communications minister [set out education, institutional strengthening and better investigation](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/). No liability rule, refund duty or operator obligation was proposed.
+
+
+The multi-agency answer to mobile-money fraud got a drafting session. A two-day workshop on 18 and 19 August [brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together to draft a roadmap](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money), after parliamentary pressure over identity-theft scams on one operator's network. No roadmap, deadline or funding line has been published.
 
 ## South Africa
 

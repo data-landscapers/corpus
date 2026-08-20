@@ -1,15 +1,17 @@
 ---
 title: US / hyperscaler activities — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: geopol.usa
 places: CMR; CAF; TCD; CIV; SWZ; LSO; MUS; MOZ; SEN; UGA; ZMB; ZWE
-record: 57a9fab4d7ad
+record: 7e5bd5d32bfd
 ---
 
 # US / hyperscaler activities: monthly update, July 2026
 
 *12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Cameroon
 

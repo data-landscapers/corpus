@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: infra.cybersec
 places: AGO; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5cf9eb51ce5f
+record: 131ae425e978
 ---
 
 # Cybersecurity: monthly update, July 2026
@@ -93,6 +93,9 @@ The Cybersecurity Act's licensing regime produced its first published penalties.
 
 The regulator also [held a two-day consultative and validation workshop with UNICEF Ghana on online child sexual exploitation and abuse](https://techafricanews.com/2026/08/13/ghana-strengthens-online-child-protection-with-csa-unicef-initiative/), reviewing the national response and naming coordination and frontline-capacity gaps; no instrument or programme follows from it on the record.
 
+
+It started teaching. A session at Accra on 19 August [put newsroom devices to journalists as deliberate targets rather than accidental victims, citing an Angolan journalist's 2024 spyware infection as the regional precedent](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/). No count of journalists trained under the project has been published.
+
 ## Guinea
 
 The cybersecurity statute of 2016 is held and cannot be read: the agency [publishes it as a 57-page image-only scan with no text layer](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf), so its provisions — reaching cybercrime offences on Guinean territory and offences requiring collection of electronic evidence — are known from the agency's own summary rather than the statute's words.
@@ -153,6 +156,8 @@ The communications regulator [issued a Guidance Note on cybersecurity budgets on
 
 On 30 July the procurement authority and the ministry [floated three routes for buying critical-infrastructure cybersecurity](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) — a three-year standing supplier arrangement, functional specifications, and pooled purchasing — with no timetable or contract value. The state's own diagnosis locates the blockage in procurement, not in budget.
 
+The offence figures the case for all this rests on moved barely at all: national police recorded [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite), reported alongside an international police organisation's estimate of at least US$5bn in Africa-wide losses over the same year. Neither the recording basis nor a clear-up rate is stated.
+
 ## Seychelles
 
 The [National Assembly voted unanimously on 22 July 2026 to approve accession to the Budapest Convention on Cybercrime](https://www.nation.sc/articles/31614/assembly-approves-accession-to-budapest-convention-on-cybercrime), a motion tabled by Hon. Sylvanne Lemiel. The accession itself, an executive act, has not yet followed.
@@ -182,6 +187,9 @@ The state's answer to its own exposure is a training tender. The public service 
 One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228).
 
 August gave the national series the earlier account lacked. The regulator told Parliament it had [blocked 39,117 fraud-linked phone numbers and 6,118 domains and applications in the 2025/26 financial year, removed 7,311 violating accounts and submitted 56 security-incident reports to the police](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/); and it [identified 7,334 mobile lines linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter](https://www.thecitizen.co.tz/tanzania/business/government-telecoms-join-forces-to-combat-growing-mobile-fraud-5553640), with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. Blocking is not prosecution: [56 incident reports stand against 39,117 numbers blocked](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/), and no conviction or restitution figure is held.
+
+
+The same budget statement [provides for cybercrime investigation centres at Dodoma and Zanzibar](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). Nothing is built, sited or staffed on the record, and the country still holds no published national cybersecurity strategy to place them in.
 
 ## Togo
 

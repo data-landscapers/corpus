@@ -1,13 +1,13 @@
 ---
-title: New investments — progress report, 2025-08-01 to 2026-08-19
-compiled: 2026-08-19
-period: 2025-08-01 to 2026-08-19
+title: New investments — progress report, 2025-08-01 to 2026-08-20
+compiled: 2026-08-20
+period: 2025-08-01 to 2026-08-20
 subject: finance.new
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 7931578fa46b
+record: 18227d6ab63a
 ---
 
-# New investments: progress report, 2025-08-01 to 2026-08-19
+# New investments: progress report, 2025-08-01 to 2026-08-20
 
 *55 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,14 +17,14 @@ record: 7931578fa46b
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | African Startup and Young Innovators Financing Fund | Launched (2025-09) | [US$1bn committed; no disbursement held](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups) | Advanced |
 | Algeria Venture and the National Startup Fund | 1,600 microenterprises and 130 startups (mid-2025) | [First exit VOLZ (2025-12); domestic startups raised US$5.3m across two rounds in 2025](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups) | Advanced |
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Civil registration and local governance project | US$250m of financing launched in 2023 across eight provinces and 53 municipalities | [Eleven birth-registration posts rehabilitated in one province with five operating since August 2025, thirteen more nearing completion in another, and mass registration campaigns reaching several thousand people](https://angop.ao/noticias/sociedade/njila-reabilita-postos-de-registos-de-nascimento-no-bie-e-huambo/) | Advanced |
 | Digital acceleration project | A US$300m loan signed 2024-10-11 and effective from 2025-05-08 after a 90-day extension, with US$0 disbursed against it and both World Bank ratings cut to Moderately Unsatisfactory in April 2025 | [US$112.21m of the US$300m disbursed at 10 June 2026, 37.40%, with both World Bank ratings lifted to Moderately Satisfactory and every project outcome indicator reading 0 as at 30 April 2026 against March 2030 targets of 13,500,000 people using broadband internet, 10,000,000 with digitally verifiable identification, 100,000 trained through digital literacy programmes and 400 firms adopting digital technologies; the steering committee separately reports a national broadband stock of 14,743,807 rising to 19.7 million by 2030](https://angop.ao/noticias/politica/projecto-de-aceleracao-digital-abrange-10-milhoes-de-pessoas/) | Advanced, no outcome delivered |
@@ -32,18 +32,18 @@ record: 7931578fa46b
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | WARDIP second-phase regional digital financing | Did not exist | [US$137m for Benin, Liberia and Sierra Leone across three pillars](https://www.biometricupdate.com/202603/new-137m-initiative-to-enable-digital-service-access) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | MEF digitalisation support project (BOAD) | Did not exist | [XOF 19.5bn (US$32.5m) BOAD loan modernising the finance ministry's data centre, La Poste du Benin's information system and the DGFD's SGIFD/SIRH systems, in implementation (2026-05)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026008) | Advanced |
 | Canadian financing for the digital transformation of women-led businesses | Baseline not held | [CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa; no implementing partner, start date or duration is named](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html) | ***Baseline not held*** |
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Botswana Tech Fund | Did not exist | [A GBP 50m target with GBP 10m committed and a GBP 5m first close; tickets GBP 25,000 to 100,000 for the accelerator and GBP 0.5m to 2m for growth](https://botswanatech.com/blog/botswana-tech-fund-launches-with-%C2%A35m-phase-1) | Advanced |
 | Scalar Botswana Innovation Program | Did not exist | [A twelve-month programme for ten climate and digital startups, routed to a US$150m decarbonisation fund](https://techcabal.com/2026/03/17/botswana-to-support-clean-energy-startups/) | Advanced |
@@ -64,7 +64,7 @@ record: 7931578fa46b
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Mobile network expansion syndicated financing | Did not exist | [FCFA 44.884bn for densification, desaturation and extension of the mobile network, framed as accelerating digital inclusion](https://techafricanews.com/2026/01/22/camtel-and-cbc-secure-44-884-billion-fcfa-financing-for-cameroon-mobile-network-expansion/) | Advanced |
 | Operator three-year network capital pledge | US$225m over three years pledged, particularly for the financial-services division | [The same pledge; no disbursement, drawdown or completion figure recorded in the window](https://itweb.africa/article/mtn-cameroon-works-with-camusat-to-expand-network/xnklOqz1wVYM4Ymz) | No change |
@@ -101,7 +101,7 @@ record: 7931578fa46b
 
 ## Comoros
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Islamic bank project for the digitalisation of the economy | Nothing held | [A grant of US$400,000 and a loan of US$6,500,000, US$6,900,000 in total, with nothing disbursed as at 2026-06-24 against a planned start of 2025-09-23](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-COM1026) | Advanced |
 | China Eximbank concessional loan for network modernisation | CNY 567,000,000 at thirty-year maturity with a five-year grace period and 1 per cent interest, funding a US$81m supplier contract for fibre extension to fifty-seven sites | [Unchanged - no site count delivered, no completion status and no repayment position is held at either end](https://www.aiddata.org/data/global-chinese-development-finance-dataset-version-3) | No change |
@@ -111,7 +111,7 @@ record: 7931578fa46b
 
 ## Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital acceleration project | US$100m committed on a five-year horizon to 2027, a 2025 work plan of just over FCFA 21bn, and a rural site build under way with none reported operational | [20 of 76 sites fully operational at October 2025, a 2026 work plan of FCFA 21.872bn, and a ten-month detailed activity programme to be set by the funder](https://projects.worldbank.org/en/projects-operations/project-detail/P175592) | Advanced |
 | European phase of the transformation project | The European phase officially launched in June 2025 with EUR 36.3m of loan and FCFA 10bn of grant committed and no procurement held | [An open international tender for a 24-month cybersecurity strategy, training plan and national conferences mission, bids closing 2026-09-02, with no contract value published](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | Advanced |
@@ -121,7 +121,7 @@ record: 7931578fa46b
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Non-state digital finance stock | ***Baseline not held*** | [US$1.29bn across 24 deals from 2018 to 2026](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Advanced |
 | World Bank inclusive digitalisation programme | Procurement plan covering September 2023 to December 2024 across four components, with no financing agreement concluded | [Phase 1 financed by an IDA credit of FCFA 84,356,070,200 (EUR 128.6m) concluded 2025-10-17 and ratified 2026-02-04, inside a US$330m multiphase envelope running to 2035; Phase 1 is fenced to Abidjan, Yamoussoukro and twelve regions, and allocates US$45m to broadband for public institutions and US$50m to legal and institutional foundations](https://www.bilan.gouv.ci/actualite/19406) | Advanced |
@@ -139,7 +139,7 @@ record: 7931578fa46b
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Eastcastle Debt II (IFC debt facility) | Did not exist | [US$34.35m IFC debt financing proposed for Eastcastle Infrastructure DRC to expand shared telecom tower infrastructure and mobile broadband capacity](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-903-SII-52276) | Advanced |
 | Tower operator investment convention | Did not exist | [More than US$100m committed to extend connectivity in Kinshasa and the provinces, with more than 4,000 jobs stated as already created](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios) | Advanced |
@@ -147,7 +147,7 @@ record: 7931578fa46b
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Blnk consumer lending facility | Did not exist | [US$12.5m Series A equity led by a domestic venture fund with three development and regional investors, plus US$24.6m in local-currency debt from three Egyptian banks, against a point-of-sale lending network of more than 3,000 merchants](https://techcabal.com/2026/06/08/egypts-blnk-raises-37-million-to-expand-lending/) | Advanced |
 | Egypt Startup Charter and unified financing initiative | A government framework in preparation, with a stated unified financing initiative of EGP 50bn to support 5,000 startups and help 500 of them attract more than US$1m each, against targets of US$5bn in investment over five years and 500,000 jobs; no launch, appropriation, disbursement or governing instrument on file (2025-12-19) | [The Startup Label certification is issuing under the Charter: UMAMI E-Learning Solutions named as one of the first Egyptian companies awarded the Startup Label Certificate, assessed on innovation, technological reliance, scalability and investment readiness; no cumulative certification count, and no appropriation or disbursement figure for the stated EGP 50bn financing initiative, is held](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Advanced |
@@ -179,11 +179,11 @@ record: 7931578fa46b
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Ethio Telecom public share offer | Offer closed (2025-02) | [10% distributed through Telebirr](https://www.thereporterethiopia.com/43299/) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digitally enabled pluralistic extension services programme (FAO) | Did not exist | [US$300,000 FAO grant (2026-2028) converting a catalytic start-up initiative into a long-term programme delivering agricultural extension services through digital channels](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888) | Advanced |
 | World Bank Digital ID for Inclusion Project | Running (2023-12) | [US$350m backing registration of refugees and displaced people](https://projects.worldbank.org/en/projects-operations/project-detail/P179040) | No change |
@@ -198,7 +198,7 @@ record: 7931578fa46b
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | AfDB digital government project | Pipeline (2025-08) | [Still pipeline; no approval, signature or first disbursement is held (2026-08)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-GM-GB0-002) | No change |
 | Gates Foundation payment system pilot | Closed (2025-08) | [Closed; no evaluation or successor operation is held (2026-08)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DAC-1601-INV-064577) | No change |
@@ -206,7 +206,7 @@ record: 7931578fa46b
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Electronic road toll concession | Tolls suspended since November 2021; no PPP concession | [20-year PPP between the Ministry of Roads and Highways and an SPV to be established by Rock Africa Limited, for nationwide fully electronic toll collection; no concession value, revenue split, corridor count, build timetable or collection technology stated](https://ghstandard.com/business-news-in-ghana/ghana-economy-news/parliament-approves-20-year-electronic-road-toll-concession/) | Advanced |
 | Digital acceleration project | US$200m committed, with the services portal to add about 16,000 services in the fourth quarter of 2025 | [Still named as a pillar of the digital agenda; the portal target has no delivery statement on file, and US$18.3m had been disbursed](https://projects.worldbank.org/en/projects-operations/project-detail/P176126) | No change |
@@ -215,7 +215,7 @@ record: 7931578fa46b
 
 ## Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | WARDIP-Guinea (Digital Transformation for Africa) | Under implementation; payments-law and Conseil National de Paiement workstreams at terms-of-reference stage | [Under implementation; US$60m credit, RETSSM rescue tendered](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf) | Advanced |
 | Tracked non-state digital-transformation finance | Baseline not held | [US$543m across 5 deals, 2023-2025 (as of 2026-08-06)](https://www.miga.org/project/orange-guinea-and-guinea-bissau) | ***Baseline not held*** |
@@ -230,17 +230,18 @@ record: 7931578fa46b
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Atlas Tower Kenya debt facility (ATK Debt II) | Did not exist | [US$25m IFC debt inside a US$30m multi-currency debt package financing new macro towers and expanded mobile network capacity](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-903-SII-52548) | Advanced |
 | EBRD-Axian Telecom (Yas) senior loan financing, Kenya tranche | Did not exist | [EUR270m total facility across 21 obligors in 8 jurisdictions; committed facility up to EUR170m includes a local-currency tranche of up to EUR20m equivalent in Kenyan shillings funding fibre-infrastructure modernisation in Kenya, plus an uncommitted EUR100m facility for future acquisitions and capex across EBRD's sub-Saharan African countries of operation](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270) | Advanced |
 | IFC Catalytic First Loss Guarantee transactions | Did not exist | [US$24.2m committed across three Kenyan lenders with US$11m of IDA Private Sector Window backing, expected to catalyse about US$144.4m in local-currency lending to micro-enterprises](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first) | Advanced |
 | Kenya Digital Economy Acceleration Project | KSh 3.7bn in the FY2025/26 estimates on a US$390m commitment | [KSh 4.3bn appropriated for FY2026/27, half the entire digital thematic, equipping more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | Advanced |
 | Kenya Digital Economy Acceleration Project disbursement | ***Baseline not held*** | [US$33.93m disbursed of US$390m committed, in year three of an operation closing October 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P170941) | ***Baseline not held*** |
+| MSME lending guarantee facility | ***Baseline not held*** | [A catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional private-sector-window financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses) | ***Baseline not held*** |
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy health data systems funding | Did not exist | [US$26,133,684 planned over 2026-2030 for health data systems including electronic medical records, a laboratory information system, disease surveillance and DHIS2, non-binding and subject to the availability of funds; the signed text commits Liberia to an open-source EMR rolled out to 100% of public health facilities by 2030 and gives the United States audit access to up to 5% of health facilities, with a data-sharing arrangement still to be negotiated and expected to run ten years, but no specimen-sharing or personal-data clause; the memorandum's text was published in March 2026 and then withdrawn, and is the subject of a federal freedom-of-information suit filed 2 April 2026 (2026-04)](https://healthpolicy-watch.news/wp-content/uploads/2025/12/US-Liberia-MOU-2025.pdf) | Advanced |
 | WARDIP2 financing for Liberia | Did not exist | [US$50m committed for broadband, cybersecurity, digital governance and digital payments within a US$137m three-country operation (2026-06)](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) | Advanced |
@@ -259,7 +260,7 @@ record: 7931578fa46b
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Governance to Enable Service Delivery Project | Operating, paying performance-based grants to participating district councils | [Closed on 2026-06-30; its grant mechanism continues under the successor project](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/) | Closed |
 | Inclusive Digital Transformation for Malawi | Running 2024-2028 on a European Union commitment of EUR 2,000,000 and a UNDP commitment of US$5,608,640, covering inclusive digital identity, open-source public systems with human-rights safeguards, and youth digital literacy; the Union separately reported contributing over EUR 10m to the national registration system that underpins it | [Unchanged in commitment; within the window the programme's policy strand reached a validation workshop in Lilongwe for a draft national digital transformation strategy and a draft national AI strategy, both still pre-adoption](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-37646) | No change |
@@ -268,14 +269,14 @@ record: 7931578fa46b
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | AGEFAU conventions with the education and employment ministries | Did not exist | [Signed, committing the fund to connect every secondary, technical and vocational school by end-2027](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/) | Advanced |
 | Agence de Gestion du Fonds d'Acces Universel | Under direct Primature tutelle | [Under direct Primature tutelle, with a new director-general and a revised work programme](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/) | No change |
 
 ## Mauritania
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | WARDIP digital transformation programme | Under implementation, with the national PKI procurement and cloud build outstanding | [The national cloud launched under it; the PKI procurement remains unawarded](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |
 | Digital-Y German cooperation project | Running from January 2025 at EUR 4m | [Running; supporting the standards framework, with no output or completion report published](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202322394) | No change |
@@ -285,14 +286,14 @@ record: 7931578fa46b
 
 ## Mauritius
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | China Eximbank preferential buyer's credit | In force (2025-08) | [Unchanged; no repayment, drawdown or completion statement has been published (2026-08)](http://mof.govmu.org/English/PublishingImages/2019/MOFED%20Annual%20Report%20-%20FY%202017-18.pdf) | No change |
 | Cross-border payments gateway business | ***Baseline not held*** | [One gateway reports its Mauritian entity grew transaction volume by over 300% year on year and merchants by 42%, serving over 150 companies, with exit from the financial action task force grey list credited for the confidence (2025)](https://itweb.africa/article/mauritius-emerges-as-an-african-payments-hub/) | ***Baseline not held*** |
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital Transformation Acceleration Program | Did not exist | [US$250m over five years (MAD 2.34bn at the reporting outlet's 2026-07-22 conversion); conditions for entry into force outstanding](https://www.worldbank.org/en/news/press-release/2026/06/12/two-new-programs-to-advance-morocco-s-digital-transformation-and-climate-resilience) | Advanced |
 | Insurance technology and inclusion programme | Did not exist | [XDR 371,714.70 committed (US$508,015 at the 2026 provisional annual average rate), 2026-2028, executed by the insurance supervisor; total cost US$680,000 of which US$510,000 is grant and US$170,000 counterpart](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MA-H00-029) | Advanced |
@@ -303,7 +304,7 @@ record: 7931578fa46b
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | European Union digital transformation agreement | Did not exist | [EUR 28m signed with a stated focus on women's participation in the digital economy, within a four-agreement package of EUR 178m; recipient organisation unspecified and no disbursement recorded](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en) | Advanced |
 | Mozambique Digital Acceleration Project | US$71.5m of US$200m disbursed (36%), digital components at 14%, implementation progress and components 1 and 2 rated moderately unsatisfactory (2025-06) | [US$83,880,000 disbursed of US$200m (41.67%), from ISR Seq 8 (2026-06-24), up from US$77.5m; Overall Implementation Progress upgraded to Moderately Satisfactory; the data-protection-regulations indicator remains at 0 of a target of 2](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099012626175535228) | Advanced |
@@ -319,7 +320,7 @@ record: 7931578fa46b
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Private mobile network investment | Did not exist | [A live network with N$600,000,000 invested in the year to September 2025, company-reported](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network) | Advanced |
 | Universal service levy | A 2022 notice of intention (Government Gazette 7860, General Notice 342, 25 July 2022) withdrawn 2024-06-21 (Government Gazette 8384, General Notice 291) pending a revised evidence base | [In force from 2024-09-27: levy not exceeding 0.5% of annual turnover per licensee (regulation 4 and Annexure A), a flat N$500 floor for non-profit licensees, invoiced on audited or sworn financial statements and payable within 30 days into the Universal Service Fund; regulation 9 and Annexure B amended the 2018 universal service regulations to let the Fund receive donations or grants, which is what makes the Government of Namibia's committed funding receivable; CRAN's own reply to comments states the Gap Analysis identifies 119 locations that will remain unserved after 700/800 MHz roll-out obligations, of which government funding covers the capital cost of 42](https://www.cran.na/download/cran-uas-report-2024/) | Advanced |
@@ -333,27 +334,27 @@ record: 7931578fa46b
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Domestic bond financing of a fibre build | Did not exist | [₦4.05bn of a ₦20bn programme; trivial against the donor and DFI lines](https://tech.africa/dimension-data-nigeria-fibre-bond/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | World Bank ID4D financing | Running (2024-12) | [US$430m; target raised from 148m to 180m](https://documents.worldbank.org/curated/en/099122424123515222/pdf/P167183-7da88040-b609-473f-bc3c-7667ef8f9f33) | No change |
 | App-based retail securities trading | ***Baseline not held*** | [₦2.86tn of retail equity trading January-May 2026, up 138.76%, at 36.22% of activity](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Credit scoring from payment traces | Did not exist | [Scores people without bank accounts from payment traces and sells the output to banks](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/nigeria-s-mathesis-analytics-raises-funding-to-scale-ai-lending) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | iDICE debt financing for technology startups | Did not exist | [US$110m of debt financing open](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) | Advanced |
 | Telecoms foreign direct investment | US$107.46m (2021 low) | [US$392.91m in the first nine months of 2025, the strongest since 2019](https://techcabal.com/2026/02/17/telecoms-foreign-investment-rebounds-to-its-highest-level-since-2019/) | Advanced |
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital acceleration project, inclusion components | An envelope of about US$200m, 55% complete | [Still 55%, with no updated disbursement or completion figure and the project period ending in 2026](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026) | No change |
 | Regional bank digital acceleration operation | A US$100m commitment with a US$60.5m digital access and inclusion component | [Unchanged; no disbursement figure held at any date and the period closes in 2026](https://www.aiib.org/en/projects/details/2021/approved/Rwanda-Digital-Acceleration-Project-Digital-Investment-for-Recovery-Resilience-and-Connectivity.html) | No change |
@@ -368,7 +369,7 @@ record: 7931578fa46b
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | BOAD digital transformation of public services loan | Did not exist | [XOF 30.9bn (US$51.5m) BOAD loan to accelerate digital transformation of Senegal's public services, 2026-2028; no named agency or specific systems stated](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026028) | Advanced |
 | Digital economy acceleration project | US$150m committed at board approval, scope as approved | [FCFA 95.05bn stated as committed to connectivity, digital public services and regulatory reform, with scope now adding integrated public financial management, cybersecurity capability, a sovereign government cloud and AI use cases](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing) | Advanced |
@@ -388,7 +389,7 @@ record: 7931578fa46b
 
 ## Sierra Leone
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | WARDIP2 regional digital integration operation | Did not exist | [Approved across Benin, Liberia and Sierra Leone, targeting 5.2m people connected and digital skills training for 9,000; the Sierra Leone share is not disclosed (2026-03)](https://techafricanews.com/2026/03/13/world-bank-launches-137m-initiative-to-expand-broadband-and-digital-jobs-in-west-africa) | Advanced |
 | Sierra Leone Innovation Investment Fund | ***Baseline not held*** | [US$150m over five years stated as a mobilisation target, with no amount raised stated (2026-07)](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | ***Baseline not held*** |
@@ -402,7 +403,7 @@ record: 7931578fa46b
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Science and Technology Accelerator-Systems, Southern Africa | Baseline not held | [Up to GBP2.5m over three years to March 2030, of which up to GBP400,000 for 2026/27, covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space; South Africa the primary focus, Zimbabwe and Zambia the first year's](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
 
@@ -421,14 +422,14 @@ record: 7931578fa46b
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Payment-rails credit facility | Did not exist | [US$25m secured and extendable to US$50m, for international remittance and stablecoin corridors](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/) | Advanced |
 | Digital Tanzania Project | US$150m committed for 2021 to 2026, active | [US$150m committed, active](https://projects.worldbank.org/en/projects-operations/project-detail/P160766) | No change |
 
 ## Togo
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Regional unique identification programme, Togolese component | Active, with US$72,000,000 for Togo inside a second-phase envelope of US$273,000,000 | [US$20,000,000 of additional financing signed under the unity pillar of the package](https://www.togofirst.com/en/investments/1707-19593-togo-signs-cfa257-4-billion-in-financing-agreements-for-vision-2040) | Advanced |
 | Togo Digital Acceleration Project | Approved and active with US$100,000,000 committed, targeting about 8,000 public institutions connected and more than a million people with new or improved access | [US$13,992,856 disbursed, 14.0 per cent, against a closing date of 31 January 2030](https://projects.worldbank.org/en/projects-operations/project-detail/P179138) | Advanced |
@@ -449,13 +450,13 @@ record: 7931578fa46b
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Uganda Digital Acceleration Project | Active; free public Wi-Fi launched under it at the DRC border (2025-07-13) | [Active; funding the Tororo, Mbarara and Gulu pilots, and named as the affordable-connectivity vehicle](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations) | No change |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital Zambia Acceleration Project | Appraisal-stage project information document dated 2025-01-20, status pipeline, expected approval 2025-03-27 | [Board-approved grant of SDR 73.9 million, about US$100 million equivalent, in a US$120 million total operation cost including US$20 million commercial financing, implemented by the state ICT institute and closing 2030-10-31; components are broadband US$50m, interoperable and secure platforms US$38m, skills US$5m and management US$7m](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Advanced |
 | Improved Rural Connectivity Project | US$200,000,000 committed in 2017, of which US$141,100,654 disbursed, status active | [Same amounts; the held record gives a closing date of 2025-12-31 while also carrying status active as enriched on 2026-07-21, and no source confirms closure or a final disbursement](https://projects.worldbank.org/en/projects-operations/project-detail/P159330) | No change |
@@ -465,7 +466,7 @@ record: 7931578fa46b
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Ring-fenced fund share for public-good artificial intelligence | Did not exist | [A commitment to ring-fence a share for precision agriculture and smart health diagnostics; no amount, mechanism or date](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
 | Export credit facility for mobile network expansion | CNY 485,000,000 committed, active, no disbursement figure held | [Unchanged](https://global.factiva.com/redir/default.aspx?P=sa&an=MEWZII0020160805ec850005p&cat=a&ep=ASE) | No change |
@@ -481,7 +482,7 @@ record: 7931578fa46b
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-19 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Foundation call for AI in family planning | Did not exist | [A private foundation opened a call for proposals using artificial intelligence to widen access to digital contraception information across sub-Saharan Africa, offering up to US$500,000 a project, with applications closing on 25 August 2026](https://www.wearetech.africa/fr/fils/breves/breves-une/la-fondation-gates-offre-jusqu-a-500-000-pour-l-utilisation-de-l-ia-dans-le-planning-familial) | Advanced |
 | Hewlett Foundation grant to BudgIT (general operating support) | Did not exist | [US$1,000,000 committed (US$500,000 disbursed) as general operating support to BudgIT's budget-transparency and civic-tech work](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-06832-GRA) | Advanced |
@@ -501,13 +502,14 @@ record: 7931578fa46b
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-17 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Botswana Tech Fund | Did not exist | [First phase of GBP 5m against a GBP 50m target, backing pre-seed and growth companies across Southern Africa](https://botswanatech.com/blog/botswana-tech-fund-launches-with-%C2%A35m-phase-1) | Advanced |
+| UK science and technology accelerator programme | ***Baseline not held*** | [A three-year programme of up to GBP2.5m out to expressions of interest, covering artificial intelligence and emerging technologies and digital access and inclusion alongside climate, energy, health and space, with a primary focus on South Africa and a first-year focus on Zimbabwe and Zambia](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-17 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | WARDIP (Western Africa Regional Digital Integration Program) | The first series alone: US$293.00m across four states, ECOWAS, the African Union and Smart Africa | [A second series approved on 2026-03-11 for Benin, Liberia and Sierra Leone, with Liberia's US$50m share signed in June](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |
 | World Bank commitment to the WARDIP series | US$293.00m, the first series (2023-11-07) | [US$430.00m across the two series, after US$137.00m was approved on 2026-03-11](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |

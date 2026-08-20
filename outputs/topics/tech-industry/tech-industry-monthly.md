@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; LBR; MUS; NGA; RWA; ZAF; TGO; ZMB; ZWE
-record: 15861dcdb5b7
+record: b0ab0e12e397
 ---
 
 # ICT Industry: monthly update, July 2026
@@ -83,6 +83,9 @@ The ICT minister [put information technology at about 5.4% of gross domestic pro
 
 Two of five commercial developments this month, neither regulatory: an enterprise arm distributing a spreadsheet-analysis agent through universities and co-working spaces, and a venture-financed skilling company.
 
+
+The state's own return from the sector was put at [about US$41m from an operator dividend payout of US$406m](https://techcabal.com/2026/08/19/nigeria-to-earn-41-million-from-mtns-406-million-dividend-payout/), on a publication's calculation from the declared payout and the state's holding. No government confirmation of receipt is held.
+
 ## Rwanda
 
 The information and communication sector [employed 19,000 workers in the second quarter of 2026 against about 12,000 a year earlier](https://www.ktpress.rw/2026/07/why-tech-is-rwandas-fastest-growing-source-of-new-jobs/) — up 62.6% against 2.7% economy-wide, and still about 0.4% of total employment, against a sector target of 50,000 digital jobs by 2029.
@@ -90,6 +93,9 @@ The information and communication sector [employed 19,000 workers in the second 
 ## South Africa
 
 The sector's transformation body lost its chair. The communications minister [replaced the B-BBEE ICT Sector Council's chairperson and appointed an interim chair for six months](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL) on 14 August, after a departmental investigation found the council dysfunctional. The investigation report is not published, and no remedial plan, terms of reference for the interim period or date for a permanent appointment is stated.
+
+
+The informal economy became a data product. A listed payments company [began selling near-real-time item-level intelligence on informal retail, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am). The network figures are the company's own, and no consent basis or data-protection assessment for reselling merchant transaction data is stated.
 
 ## Togo
 

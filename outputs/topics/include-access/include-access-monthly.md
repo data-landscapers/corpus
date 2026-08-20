@@ -1,15 +1,17 @@
 ---
 title: Access to services — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: include.access
 places: AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7f95bf6dc5f6
+record: d1c295fd3b19
 ---
 
 # Access to services: monthly update, July 2026
 
 *33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -29,7 +31,7 @@ A guarantee arrangement was the month's only committed money in this section. Tw
 
 ## DR Congo
 
-On 23 July a state bank and the payroll monitoring committee settled the technical and organisational terms for [paying civil servants in rural territories, scoped to three named territories and others where no other bank operates](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu). August 2026 was named as a target, with the bank's director-general calling a fixed date premature and the state contract unsigned.
+On 23 July a state bank and the payroll monitoring committee settled the technical and organisational terms for [paying civil servants in rural territories, scoped to three named territories and others where no other bank operates](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu). August 2026 was named as a target, with the bank's director-general calling a fixed date premature and the state contract unsigned. What subscribers pay moved the other way. Users and resellers in Bukavu say a [1GB bundle that ran 48 hours at 1,500 Congolese francs now expires in 24 at the same price](https://laprunellerdc.cd/bukavu-des-usagers-denoncent-la-modification-des-tarifs-des-forfaits-internet/), and a 2GB 48-hour bundle at 2,000 francs has been replaced by 1GB over 72 hours; subscribers across the eastern provinces [report the same pattern across four operators and have asked a consumer body to intervene](https://radiomaendeleo.org/forfaits-internet-les-abonnes-denoncent-une-hausse-des-prix-et-une-reduction-de-la-validite/). Both ends are subscribers' accounts; no operator or regulator has stated anything.
 
 ## Egypt
 
@@ -95,6 +97,9 @@ The central bank's deputy governor told the payments association's annual genera
 
 Education added a channel built for the same margins. The education ministry and UNICEF [launched a Namibia Learning Passport, a digital and offline learning platform aimed at rural, remote and underserved young people](https://informante.web.na/?p=399266), at the international youth day event in Keetmanshoop. No user target, content catalogue, device requirement or offline distribution route is stated — which matters most for the platform's stated audience, since parliamentary evidence in the same window put schools and clinics in Kavango West as substantially cut off from reliable internet.
 
+
+What that looks like in one region was put to the parliamentary ICT committee on 11 August: [21 of Kavango West's 188 schools have workable connectivity, leaving 55,002 learners without digital teaching tools](https://www.nampa.org/text/22988531), and health officials told the same committee that clinics there still struggle with unreliable mobile coverage. The figures are the regional education director's own, and they sit against a target of full telecommunications coverage by 2030.
+
 ## Niger
 
 On 15 July the World Food Programme [inaugurated the Guidan Fasaha community digital centre at Tahoua](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), the second such centre after Diffa, with 100 computers and 50 kW of solar power, funded by Luxembourg and aimed at young people, women and displaced people.
@@ -122,6 +127,9 @@ The same survey puts a number on demand for open government, which the Access to
 ## Sierra Leone
 
 Financial inclusion is put at [about 40% of adults for 2025](https://thefintechtimes.com/rebuilding-financial-services-through-fintech-in-sierra-leone/). It is a named analyst's assessment rather than an official series, and the base holds no state measurement to set beside it.
+
+
+The cost of the handset is being financed rather than reduced. An operator and a commercial bank [opened a 24-month device-financing scheme to individual and business customers, on top of their existing prepaid card relationship](https://www.thewatchnewssl.com/africells-ecobank-boost-digital-inclusion/). No price, interest rate, eligibility test or uptake figure is stated.
 
 ## South Africa
 

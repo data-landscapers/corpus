@@ -1,15 +1,17 @@
 ---
 title: Other GovTech and e-Gov — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: dpi.govtech
-places: DZA; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e0e1dddd6023
+places: DZA; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 11817a452dd5
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -29,7 +31,7 @@ The [justice sector's 2026–2033 plan](https://lematinal.bj/justice-beninoise-d
 
 ## Botswana
 
-The government payroll portal was [taken offline on 22 July, with a privacy notice, an impact assessment, multi-factor authentication and disaster recovery added](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) and no reopening date stated.
+The government payroll portal was [taken offline on 22 July, with a privacy notice, an impact assessment, multi-factor authentication and disaster recovery added](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) and no reopening date stated. Separately, a tax adviser's reading of the new Value Added Tax Act, in force since 1 July, [puts mandatory electronic invoicing among the obligations the Act provides for](https://bw.andersen.com/botswanas-new-tax-rules-take-effect/), which would give the revenue service transaction-level visibility as sales occur. No start date, threshold or scope has been published, and the reading is the adviser's rather than the revenue service's.
 
 ## Burkina Faso
 
@@ -40,6 +42,10 @@ The health ministry's accreditation portal, launched on 7 August, arrived with t
 ## Burundi
 
 The civil-service ministry [put a set of digitisation claims on the record on 31 July and published the constraints against them](https://lerenouveau.bi/administration-publique-des-reformes-strategiques-en-cours-pour-une-administration-plus-efficace-tournee-vers-les-citoyens/), which is the more useful half. The programme covers performance evaluation of public agents, a job-classification scheme, an annual costed work plan used across public institutions, progressive interconnection of administrative services, and one-stop service desks. The ministry itself names archive management as still largely manual, service digitisation as unfinished and working tools as insufficient. Citizens interviewed framed digitisation as a distance problem: fewer journeys for people living far from administrative centres.
+
+## Cameroon
+
+The water utility [began rolling out a centralised commercial platform, WATERIS, with five days of internal training from 10 August](https://lecourrierducameroun.net/2026/08/16/camwater-met-le-cap-sur-la-modernisation-commerciale-et-lexcellence-operationnelle-a-travers-lecosysteme-integre-wateris/), replacing decentralised commercial management with automated meter reading and more electronic payment channels. The account is the director general's; no customer count, cost or completion date is stated.
 
 ## Central African Republic
 
@@ -64,6 +70,10 @@ August turned to the supply side and to the state's own paperwork. The ministry 
 ## Djibouti
 
 On 2 August 2026 the Secrétariat général du Gouvernement and UNDP [signed a letter of accord to digitise the SGG's paper archives](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/) — indexing, scanning, capacity building for national teams, and secure backup at the ANSIE data centre. [It follows a state-funded programme running since 2023 which the parties report has transferred several thousand archive boxes to the National Archives and produced over 200,000 secured digital files for the Presidency](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/). From September 2026 it extends to the audit and integrity institutions — the Chambre des Comptes, the two financial inspectorates, the anti-corruption commission, the public accounts directorate and the human-rights commission. The accord's text, value and duration are not stated.
+
+## DR Congo
+
+The month's only movement in government platforms was a procurement, and not the state's own: Belgium's development agency [opened a tender on 1 August for artificial-intelligence modules to be built into the national employment agency's platform](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf), for job matching aimed at youth unemployment, with offers due on 7 September. No contract value, award or delivery date is on record, and the digital government platform it would sit beside remains at Planned with its target already missed.
 
 ## Egypt
 
@@ -131,6 +141,9 @@ The e-procurement platform published its first operating figures on 5 August: [m
 
 Licensing moved off paper in the same week. The telecommunications regulator [put an automated telecom licensing and renewal platform into service](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), letting applicants apply and renew online while keeping in-person service available. No licence count, processing time or fee schedule is published.
 
+
+A second permit process is following it online. The education ministry says it is [digitising operating permits for private schools after finding schools submitting mismatched teacher-qualification records, and has mapped schools across five counties with donor support to extend the mapping to ten more](https://newspublictrust.com/education-ministry-advances-digital-school-permit-system-while-funding-provided-to-renovate-public-schools). No platform, cost or completion date is named.
+
 ## Libya
 
 On 23 July the Ministry of Labour and Rehabilitation [reported the Libya Experts Forum electronic application ready for launch](https://lana.gov.ly/post.php?id=362213&lang=en), with the minister instructing that the highest standards of data protection and confidentiality be observed. The instruction names no statute, regulator or standard.
@@ -150,6 +163,9 @@ Two further builds are financed rather than delivered. The Maritime Single Windo
 ## Malawi
 
 Passport printing resumed at Mangochi, stated in Parliament on 20 July, where a member said applicants who filed nine months to a year earlier were being overtaken by same-day issuances. The homeland security minister accepted in principle a sequence number assigned at application.
+
+
+A second paper process is being scoped out of existence. The partnership commission and the e-government department [are specifying a web-based auctions platform carrying electronic bid submission, automated ranking, bidder anonymity and digital publication of results](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD), with requirements gathered at Blantyre under a World Bank-funded project. No cost, go-live date or auction volume is stated.
 
 ## Mali
 
@@ -175,6 +191,9 @@ The same omnibus also gives clinical trials a statutory electronic licensing sys
 
 A smaller service went live rather than being provided for. On 18 August the transport and IT ministries [launched an online motor vehicle licence system letting taxi operators renew the licence and pay road tax without visiting a post office or a land transport counter](https://techafricanews.com/2026/08/18/mauritius-launches-online-licensing-road-tax-system-for-taxi-operators/), which the ministry says will also build a database of operators, alongside a website for the operators' welfare fund — 6,567 registered members of 7,802 operators, with about 3,000 already on an electronic platform. The authority's underlying system is stated as outdated and a tender has been launched to upgrade it; no transaction volume, cost or extension beyond taxi operators is published.
 
+
+A smaller service is being taken online with its own figures attached: commercial-weighing oversight, which [verified 12,412 measuring instruments across 4,971 businesses and inspected 4,974 shops in 2025-2026, is moving bookings, payments and certificates onto a new platform](https://maurice-info.mu/2026/08/10/numerisation-des-services-de-metrologie-a-maurice.html). No go-live date or cost is stated.
+
 ## Morocco
 
 An interior ministry circular reported on 25 July abolished 22 administrative certificates and replaced them with sworn declarations, on the ministry's finding that citizens had routinely been made to produce them with no legal basis, and confirmed that only procedures published on the national portal are legally enforceable ([circular account](https://en.hespress.com/142557-morocco-abolishes-22-administrative-certificates-to-streamline-public-services.html)).
@@ -182,6 +201,9 @@ An interior ministry circular reported on 25 July abolished 22 administrative ce
 Switzerland's economic secretariat, the World Bank Group and a Swiss innovation body launched a public-audit innovation challenge in Rabat on 22 July with the general finance inspectorate and the court of audit as institutional users; no budget, award size or timetable was announced ([launch account](https://maroc.ma/fr/actualites/rabat-lancement-de-ledition-2026-du-govtech-innovation-challenge)).
 
 The ombudsman's 2025 annual report, presented on 23 July, gives the counterpoint: 9,958 files opened, up more than 25% year on year, 1,653 settlement decisions, and a mean 815 days to implement a recommendation and 774 days to close a file ending in one ([report account](https://www.lebrief.ma/administration-mediateur-du-royaume-100161011/)). The institution holds that several administrations moved existing steps onto platforms without reworking the underlying process, and attributes repeated demands for the same documents to weak interconnection of administrative databases ([commentary](https://anfaspress.com/news/voir/175464-2026-07-24-03-12-24)).
+
+
+One portal went the other way. The Court of Cassation's site [has been down for more than a week with no official explanation](https://www.alnahar.ma/121842.html), on a bar-association lawyer's account, at a point where the courts increasingly expect rulings to be tracked online. No court or ministry statement is held.
 
 ## Mozambique
 
@@ -240,6 +262,9 @@ Two of the state's own systems produced numbers in August, one improving and one
 The revenue service opened a consultation of its own on 18 August, on a [digital VAT model combining electronic invoicing, an interoperability framework and electronic reporting](https://www.itweb.co.za/article/sars-invites-input-on-vat-modernisation/DZQ58vV8m9NMzXy2), framed as moving VAT administration off manual processes and retrospective verification and into the systems businesses already run. It follows a 2023 discussion paper and is stated as building blocks: the account held carries no closing date for comment, implementation timetable, cost, mandate threshold or legislative vehicle.
 
 The courts project went the other way. On 13 August the justice minister [referred the courts digitisation project to the special investigating unit and the police priority crimes unit, after the contractor holding outsourced records since 2021 denied the department access to its own records at the Master of the High Court in Pretoria](https://www.sanews.gov.za/south-africa/justice-minister-refers-courts-digitisation-project-siu-hawks). No contract value, term, custody arrangement or data-protection provision for those records is held; a department locked out of its own files is a custody failure before it is a procurement one.
+
+
+Two services were told to integrate or to open. The Public Protector [found the student-aid scheme's systems insufficiently integrated with the home affairs, social security and revenue data it needs to verify students, and gave the board 30 days to produce a digital modernisation and systems-integration plan](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ) covering verification interfaces, fraud controls, the elimination of duplicate applications and manual workarounds, case tracking and costed milestones; the [report records that the scheme cannot resolve 80% of contact-centre queries without internal escalation](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ). In the Western Cape the province [opened free access for small businesses to a private funding-matching platform covering over 300 funders and 600 finance products](https://startupmag.co.za/2026/08/western-cape-launches-free-digital-funding-platform-for-small-businesses/), against the platform's own finding that 65.3% of provincial applicants cannot supply their latest financial statements.
 
 ## South Sudan
 

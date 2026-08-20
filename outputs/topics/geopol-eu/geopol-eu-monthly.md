@@ -1,19 +1,23 @@
 ---
 title: EU activities — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: geopol.eu
-places: COG; MLI; MAR; UGA
-record: 5704d4b19b51
+places: COG; KEN; MLI; MAR; UGA
+record: 3a0d55f06724
 ---
 
 # EU activities: monthly update, July 2026
 
-*4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*5 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Congo
 
 An [exploratory session on 14 July opened a channel with a European member-state development bank under the European gateway programme](https://aden.cg/2026/07/23/programme-dbba-la-banque-publique-de-developpement-de-pologne-et-laden-explorent-de-nouvelles-perspectives-de-cooperation-numerique/), with no commitment, sum or timetable named.
+
+## Kenya
+
+A European data-adequacy decision was described as being in prospect, in [a development agency interview that mentions it in passing alongside cross-border identity work](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No application, assessment stage or timetable is stated, and neither the European Commission nor the government has said anything on the record here.
 
 ## Mali
 

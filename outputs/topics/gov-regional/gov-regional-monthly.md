@@ -1,15 +1,15 @@
 ---
 title: Regional collaboration — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: gov.regional
-places: DZA; BEN; BWA; BDI; CAF; COM; COG; EGY; GNQ; GAB; GMB; GHA; GNB; LBR; LBY; MDG; MWI; MLI; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
-record: 7cfccec81c76
+places: DZA; BEN; BWA; BDI; CAF; COM; COG; COD; EGY; GNQ; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
+record: 4478c80ad5da
 ---
 
 # Regional collaboration: monthly update, July 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -19,7 +19,7 @@ Algeria [signed as a founding member of a world artificial-intelligence organisa
 
 ## Benin
 
-The customs administrations of Nigeria, Cameroon and Benin [adopted a joint communiqué on 27 July establishing a trilateral steering committee](https://theinsight.com.ng/nigeria-customs-benin-cameroon-deepen-regional-border-modernisation-at-beitbridge-benchmarking-mission/) to apply a southern African border-modernisation model to the Sèmè-Kraké and Mfum-Ekok corridors, after a benchmarking mission whose technical team included two named private suppliers alongside the three administrations.
+The customs administrations of Nigeria, Cameroon and Benin [adopted a joint communiqué on 27 July establishing a trilateral steering committee](https://theinsight.com.ng/nigeria-customs-benin-cameroon-deepen-regional-border-modernisation-at-beitbridge-benchmarking-mission/) to apply a southern African border-modernisation model to the Sèmè-Kraké and Mfum-Ekok corridors, after a benchmarking mission whose technical team included two named private suppliers alongside the three administrations. Separately, the cross-border digital identity work Benin does through Smart Africa moved from development into a running pilot: [an identity issued in one of Rwanda, Ghana or Benin is now being recognised in the other two](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty), with eighteen further countries said to be joining and no date given for any of them.
 
 Benin [co-leads a six-country francophone West African framework on artificial-intelligence governance](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework), taken to the United Nations global dialogue on 9 July. The framework is in development and no text, timetable or commitment is held.
 
@@ -43,6 +43,10 @@ Comoros was named among the seven states covered by the [Programme for African D
 
 Namibia's cabinet [approved an ICT cooperation memorandum and authorised its minister to sign](https://neweralive.na/cabinet-approves-ict-agreement-with-congo-endorses-regional-cooperation/); no Congolese source, approval step or text is held.
 
+## DR Congo
+
+The [African Telecommunications Union's return to Kinshasa was ratified on 23 July at the union's plenipotentiary conference in Abuja, after the country paid more than US$1.4m in arrears](https://thepanafricanpress.info/one-year-of-suminwa-ii-jose-mpandas-telecom-milestones-in-the-drc/). No date for the move is stated, the arrears figure and the account are the minister's own, and a bid for a seat on the ITU's administrative council for 2027 to 2030 is still pending.
+
 ## Egypt
 
 Egypt took the chairmanship of two Arab working groups on 31 July 2026 — AI governance, whose remit is a guidance framework and mechanisms for activating the Arab Charter for AI Ethics, and quantum computing, whose remit is an Arab quantum strategy and quantum-cybersecurity deployment. The committee was created by an Arab ministerial resolution at a session Egypt hosted in January 2026 and held its first founding meeting at the ICT ministry in May ([election account](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/)).
@@ -63,9 +67,16 @@ The revenue authority [hosted the seventh ATAF Heads of Tax Administrations Mast
 
 Ghana's regional position moved on three fronts, none of them with a text attached. African Union ministers [endorsed continental roll-out of the illicit-financial-flows policy tracker](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) from the six-country pilot Ghana ran over eighteen months, the finance ministry reporting that it contributed to recovering millions of dollars in revenue — with no Ghana-specific score, finding or reform list published. The communications ministry [announced a partnership on digital-policy intelligence and regulatory-analysis tools](https://techafricanews.com/2026/08/10/ghana-ministry-and-digital-policy-alert-partner-to-strengthen-digital-governance/) at an Accra workshop on 10 August, covering the national AI strategy, data-governance work and the coders programme, with no funding, duration or deliverables stated. And the [fintech licence passporting memorandum with Rwanda remains unpublished by either central bank](https://techafricanews.com/2026/07/30/the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs/) eighteen months after signature, so which licence categories are recognised, and on what conditions, is still unestablished.
 
+
+A fourth front does have something running. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated.
+
 ## Guinea-Bissau
 
 [AUDA-NEPAD launched the Programme for African Developing Island Economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) at the Ministerial Segment of the Specialized Technical Committee on Trade, Industry and Minerals in Abidjan on 24 July 2026, covering Guinea-Bissau alongside Cabo Verde, the Comoros, Madagascar, Mauritius, Sao Tome and Principe and Seychelles. A 2026–2031 roadmap groups the seven states under six pillars, including connectivity and AfCFTA integration and digital transformation — with digital public infrastructure, artificial intelligence and automation named as accelerators. Ministers adopted a communique committing to the programme; no Guinea-Bissau-specific national action under it has yet been reported.
+
+## Kenya
+
+The continental data convention still has no Kenyan signature behind it. A peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory and finds all four frameworks fragmented, with weak harmonisation of cross-border transfers and capacity gaps](https://datascience.codata.org/articles/10.5334/dsj-2026-031). That is a finding about the record rather than a change in it: nothing establishes a position either way, and the row is carried as a dated absence.
 
 ## Liberia
 
@@ -93,6 +104,10 @@ On 24 July Mali was [re-elected to the African Telecommunications Union board fo
 
 The same 1 August recommendations also included [a protocol between AES states to harmonise AI governance](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
 
+## Mauritius
+
+The continental internet registry seated here is still without a settled board. One outlet's analysis records that the registry [named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised](https://btw.media/en/afrinic-eight-seat-board-election-result-evidence-gap), and that the appeal court has now [set aside its 2023 appeal for want of corporate authority without ruling on the official receiver's permission or on statutory leave](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided). The chain from election through appointment to quorum is therefore unresolved and the receiver undischarged. No registry statement on the withheld tallies is held.
+
 ## Morocco
 
 Morocco was elected to the African Telecommunications Union's Administrative Council for 2027-2031 at the union's plenipotentiary conference in Abuja on 25 July, with a delegation combining the digital ministry, the regulator and the development agency ([ministry communique](https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031)).
@@ -107,6 +122,9 @@ The memorandum with Botswana was signed. The two ICT ministries, with their oper
 
 India is the other bilateral track. At the [fourth joint trade committee in New Delhi on 12 August the two governments advanced cybersecurity and digital-economy cooperation](https://cajnewsafrica.com/2026/08/12/namibia-solidifies-cybersecurity-digital-ties-with-india/), building on a memorandum the two heads of government signed in July 2025 and against bilateral trade put at more than US$592m in 2025/26. That memorandum's text is not held either.
 
+
+The regulator also took the chair of something. The southern African regulators' association [opened the first meeting of its legal and policy committee at Windhoek from 10 to 12 August, with artificial-intelligence governance, data governance and protection, digital public infrastructure and regulatory harmonisation on the agenda](https://techreviewafrica.com/news/6684/crasa-legal-and-policy-committee-opens-meeting-on-ai-data-governance-and-regional-ict-regulation). No work programme, output or timetable is published with it.
+
 ## Niger
 
 On 30 July a Nigerien technical mission led by the interior ministry's secretary-general was [received in Ouagadougou to study Burkina Faso's identification machinery](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) — the civil-status modernisation directorate, the national identification office, the ICT agency and the WURI project. The delegation covered civil registration, migration, the digital agency, territorial surveillance, biometric-card production, the interior ministry's legal service and the ICT and finance ministries, and reported recommendations on issuing authentic documents and limiting document fraud.
@@ -117,9 +135,15 @@ On 30 July a Nigerien technical mission led by the interior ministry's secretary
 
 Ministers adopted an Abuja declaration on meaningful connectivity.
 
+
+The continental data convention still has no Nigerian signature behind it: a peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory, and finds all four frameworks fragmented with weak harmonisation of cross-border transfers](https://datascience.codata.org/articles/10.5334/dsj-2026-031). That is a finding about the record, carried as a dated absence.
+
 ## Rwanda
 
 Country consultations for a [regional artificial-intelligence framework were held at Kigali on 3 August](https://rwandainspirer.com/rwanda-highlights-ai-policy-progress-as-comesa-seeks-regional-framework/), to feed a study toward a regional strategy, model policy guidelines and model regulatory frameworks; no text or timetable is published, and Rwanda reported unquantified progress on its own national policy. The [bilateral licence passporting memorandum with Ghana remains unpublished by either central bank](https://techafricanews.com/2026/07/30/the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs/) eighteen months after signature, cited as a working precedent with no firm reported as having used it.
+
+
+One piece of regional machinery moved from design into use. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now being recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated for any of it.
 
 ## Sao Tome and Principe
 

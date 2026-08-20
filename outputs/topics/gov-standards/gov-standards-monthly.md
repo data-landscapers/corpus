@@ -1,15 +1,15 @@
 ---
 title: Standards — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: gov.standards
-places: DZA; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GHA; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA
-record: 409fec990a5d
+places: DZA; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA
+record: 155989872b4e
 ---
 
 # Standards: monthly update, July 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -59,9 +59,16 @@ Asked on 4 August how online publications comply with the data-protection law, t
 
 The central bank's [cyber and information security directive is in force](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) as the country's first comprehensive artificial-intelligence governance framework for financial institutions, carrying cloud-security rules, proportionality by size and risk, and mandatory board-level accountability. Against that, the communications minister [named a national data exchange hub again on 29 July](https://gna.org.gh/2026/07/govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth/) as something government plans to establish, with no design, cost or timetable, and without saying whether it revives the system launched in 2009 or replaces it.
 
+## Guinea
+
+The committee meant to make the state's own financial data consistent [sat again on 6 August, three years after it was created to align the accounts with the 2014 international manual](https://financesao.com/guinee-vers-la-modernisation-du-systeme-de-statistiques-des-finances-publiques/). It produces a regular statement of state financial operations and, on the finance ministry's own account, still faces inconsistent data across the Treasury, the central bank and other agencies.
+
 ## Kenya
 
 Two days after introducing the equipment distributor licence, the Communications Authority introduced vendor class-licence rules requiring a twelve-month warranty and three years of retained sales records. The data-protection regulator launched a quality management system on 14 July, phased toward external certification.
+
+
+Two sets of standards arrived, one binding and one draft. The revenue allocation commission [gazetted binding standards for county own-source revenue automation, covering the system lifecycle from procurement to audit and requiring data ownership and portability safeguards to cut vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/); no compliance date, county baseline or enforcement mechanism accompanies them. The pharmacy regulator [published draft guidelines for digital pharmacy services covering telepharmacy, electronic prescribing and digital health records](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/), with no consultation close or adoption date stated.
 
 ## Libya
 

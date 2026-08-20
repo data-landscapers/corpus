@@ -1,15 +1,17 @@
 ---
 title: Data Storage — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; UGA; ZWE
-record: a5292f86ad32
+places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; UGA; ZWE
+record: 31867c9473d8
 ---
 
 # Data Storage: monthly update, July 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -83,6 +85,9 @@ On 4 August the operator building the 44MW Tatu City data centre [moved completi
 
 Two prospective builds at the technopolis went from talk to signature inside five days. On 13 August the authority and a hyperscaler were [exploring a local cloud outpost and a startup and technical centre of excellence](https://techmoran.com/2026/08/13/konza-aws-explore-local-cloud-outpost-and-startup-center-in-kenya/) and the ICT principal secretary [received a Chinese network communications group on broadband, smart cities and digital infrastructure investment](https://techafricanews.com/2026/08/13/kenya-eyes-chinese-investment-in-broadband-smart-cities-and-digital-infrastructure/); by 18 August the authority had [signed a collaboration agreement putting the hyperscaler's technical leadership behind an Outpost for hybrid cloud and a startup and innovation centre of excellence](https://itweb.africa/article/aws-konza-team-up-on-hybrid-cloud-infrastructure/dgp45vaBlRg7X9l8), with certification courses for its staff and for young Kenyans and credits for startups, and [a memorandum with the Chinese group covering the planning, investment, financing, design, development and maintenance of cloud, artificial intelligence, high-performance computing and smart-city infrastructure on the site](https://techafricanews.com/2026/08/18/konza-technopolis-partners-guodong-network-to-accelerate-digital-infrastructure-development/). Neither instrument carries a capacity, a site, an investment figure or a date, and the second states its financing models as still to be explored.
 
+
+A proposal arrived that would sit outside the grid entirely. A foreign firm [has proposed a US$1.5bn offshore data centre at Mombasa, powered by liquefied natural gas and designed to bypass the national grid, and is reported in talks with the government](https://econews.co.ke/2026/08/18/amaco-mombasa-ai-data-centre-kenya/). No capacity, timeline or site is disclosed, and the value and the design intent are the proposing company's own.
+
 ## Lesotho
 
 The Kobong Project was approved and launched on 31 July 2026 at a ceremony hosted by the US Embassy in Maseru, attended by the ministers of energy and mining, of information and communications, and of environment and forestry. [Convalt Energy's chief executive stated capital investment of about US$6.2 billion](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/); the government figure for the project was restated as M100 billion against the M98 billion [announced with the binding agreement of 4 June](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/), with the dollar figure unchanged. The US Chargé d'Affaires described the investment as trade over aid. Construction remains targeted for 2029 and the agreement remains conditional on feasibility, financing, permitting and definitive agreements.
@@ -99,17 +104,31 @@ On 3 July the e-government department agreed integration of immigration e-servic
 
 The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The specific financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
 
+## Mauritania
+
+The national government cloud is close enough to service to be shown off. On 11 August a visiting development-bank vice-president [was briefed at the national data centre on data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). No go-live date, migration scope or capacity figure is stated.
+
+## Mauritius
+
+At the regional summit on 17 August the prime minister announced [a carrier-neutral green data centre and a "Digital Embassy Village"](https://lexpress.mu/node/561649) as the digital leg of a bid to position the country as a regional hub and gateway. No site, capacity, cost, operator or date is stated, which is what separates it from the two data centres already running.
+
 ## Morocco
 
 The ministry signed a memorandum of understanding with a data-centre power and cooling supplier in Rabat on 27 July, covering digital infrastructure, cloud, artificial intelligence, high-performance computing and data centres. The ministry's own text commits only to exchanged expertise, technical studies and the identification of structuring projects, and attaches no sum; the 50 MW sovereign data centre in Rabat is named as something the cooperation will feed ([ministry communique](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-la-c%C3%A9r%C3%A9monie-de-signature-d%E2%80%99un-m%C3%A9morandum-d%E2%80%99entente-entre-le-minist%C3%A8re-de-la-transition-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-et-vertiv)). Parallel talks were held the same day with two other suppliers on the same ground.
 
 The Dakhla campus acquired a shape without acquiring a date. It is [planned as a green data-centre campus under the Igoudar Numerique programme, one part for the kingdom's sovereign digital needs and another open to private investment, with feasibility studies launched in April 2026](https://northafricapost.com/99498-moroccos-ai-and-data-center-ambitions-take-shape-amid-growing-digital-investment.html). No capacity, cost, operator or commissioning date is held for it, and the same account gives no national facility count that would place it in an estate.
 
+
+The compute platform behind that estate acquired a price. A press account citing third-party analysis [puts the Casablanca project at roughly US$1.2bn and up to 500MW, naming a South Korean cloud operator, a chip maker and the platform's developer, with a second renewable-powered project planned for Dakhla](https://en.walaw.press/country/geopolitics/QWSP/articles/morocco_bets_on_data_centers_and_artificial_intelligence_to_strengthen_its_digital_position_in_africa/GPFFXPMLMSMF). Neither figure comes from a filing, and the question the same account raises is whether hosting foreign-operated infrastructure builds anything domestic beyond the hosting.
+
 ## Mozambique
 
 The country's first university-operated data centre was inaugurated on 3 August with about 14 times the storage of the server room it replaces, precision cooling and redundant systems ([inauguration account](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/)). It is World Bank financed with no amount, operation name or project number stated.
 
 A carrier-neutral operator announced on 23 July that a wholesale network will co-locate in its Mozambican and Angolan facilities, with no deployment date, capacity or value stated ([partnership announcement](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/)).
+
+
+It was formally inaugurated eight days later, on 11 August, [sited at the university in recognition of its running of the country-code domain and the internet exchange, and intended to carry artificial-intelligence, cloud and research services](https://uem.mz/uem-inaugura-centro-de-dados/). No capacity, cost or service date accompanies the intention.
 
 ## Namibia
 
@@ -120,6 +139,9 @@ A vendor is building smart-city solutions and a data centre with the ICT and hom
 A Lagos cloud region [entered service on 10 August](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/), the third on its operator's platform alongside Lisbon and Johannesburg and presented around data residency since the Nigeria Data Protection Act took effect — three legal jurisdictions carried on one platform. It joins [about 26 facilities carrying 50 to 56 MW live against some 124 MW installed](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/), Africa's second-largest market after South Africa at about 15% of continental capacity, most of it in Lagos.
 
 The state put its own instrument behind the same argument on 5 August, [signing the regulatory framework for a National Sovereign Cloud Initiative with the state-owned Galaxy Backbone](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl), setting policy, technical and quality requirements for hosting government and business services in the country. It excludes nobody: the stated ask of Google, Microsoft and Amazon is a clearer path to local deployment. The dependence it is aimed at is [more than 85% of national workloads running on public clouds, and 22% of the thousand most-visited sites hosted in Nigeria against a sub-Saharan average of 34%](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl).
+
+
+The sovereign cloud acquired its instruments and a start date. Four were signed on 4 August — [a cloud computing guideline, a cloud technical guideline, a digital infrastructure assurance framework and a cloud investment strategy — with certification of cloud and artificial-intelligence infrastructure providers to begin in October, oversight vested in a new governance committee and a stated ambition to serve West and Central Africa](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/). What certification will require of a provider is not published.
 
 ## Rwanda
 
@@ -136,6 +158,9 @@ The national data centre went backwards in the telling. A facility described at 
 ## South Africa
 
 The commercial estate is expanding on the operator's own numbers rather than on a published plan. An international operator is [scaling its Johannesburg facility to 24MW and holds a ZAR7.5bn South African expansion budget covering that site plus banked land in Johannesburg and Cape Town](https://www.itweb.co.za/article/equinix-doubles-down-on-joburg-data-centre-expansion/PmxVE7KEObLqQY85), with further build-out held pending demand. No grid connection, water use or municipal approval detail is stated — and a civil-society coalition used the same week to call for deceleration, transparency and public participation in data-centre expansion, which is the argument the absent detail is about.
+
+
+The expansion also drew its first organised objection. A civil-society coalition [submitted concerns to the human rights commission on 10 August calling for a halt on data-centre developments pending transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/). No participation process, commission response or moratorium is on record, which is what makes the objection the only thing here that can be dated.
 
 ## Tanzania
 

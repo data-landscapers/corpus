@@ -1,13 +1,13 @@
 ---
-title: Cybersecurity — progress report, 2025-08-01 to 2026-08-19
-compiled: 2026-08-19
-period: 2025-08-01 to 2026-08-19
+title: Cybersecurity — progress report, 2025-08-01 to 2026-08-20
+compiled: 2026-08-20
+period: 2025-08-01 to 2026-08-20
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 50a48c3404c7
+record: 7c5cc82c6061
 ---
 
-# Cybersecurity: progress report, 2025-08-01 to 2026-08-19
+# Cybersecurity: progress report, 2025-08-01 to 2026-08-20
 
 *55 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 50a48c3404c7
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Child online-protection cyber-vigilance cell (green line 1111) | Did not exist | [Cell and green line 1111 operating](https://www.echoroukonline.com/%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AD) | Advanced |
 | MPT-CERT sectoral incident-response centre | Did not exist | [Sectoral CERT operating with KOICA support](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%AF%D8%B4%D9%91%D9%86-%D9%85%D8%B1%D9%83%D8%B2%D8%A7-%D9%84%D9%84%D9%8A%D9%82%D8%B8%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87-%D9%88) | Advanced |
@@ -28,24 +28,24 @@ record: 50a48c3404c7
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cyber-security appropriation | Kz 70.5bn in the 2025 budget, about US$76.4m at the source's stated rate | [Kz 32.3bn in the 2026 budget, about US$35m, still the third-largest item inside the communications programme](https://pti.ao/oge-2026-executivo-reduz-verba-para-a-melhoria-da-posicao-no-indice-global-de-ciberseguranca/) | Regressed |
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | National digital-security stack | In place (2020) | [Coordinated through ASIN and the CNIN, under the Malabo and Budapest conventions](https://fraternite.bj/5eme-edition-du-cyber-africa-forum-les-assises-de-cotonou-pour-le-renforcement-de-la-cybersecurite/) | No change |
 | Attack surface of the online service estate | ***Baseline not held*** | [More than 230 services delivered online, about 40 priority structures under oversight (2026-06)](https://www.lanation.bj/numerique/conference-des-rssi-les-experts-mobilises-pour-une-cybersecurite-plus-resiliente) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | AFIS fingerprint system wired to the regional police exchange | Did not exist | [Connected to the ECOWAS SIPAO police data exchange](https://fraternite.bj/lutte-contre-la-criminalite-au-benin-un-systeme-automatise-didentification-par-empreintes-digitales-inaugure/) | Advanced |
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Liquid Secure360 | Not offered in Botswana (2025-08) | [An integrated security framework and cloud services available to Botswana customers; no customer, revenue or capacity figures](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r) | Advanced |
 | National Cyber Drill | No national cyber drill on file (2025-08) | [A four-day 2026 drill held; the base separately records an inaugural drill in the same season](https://www.mmegi.bw/news/cyber-drill-sounds-alarm-on-ai-iot-and-quantum-threats/news) | Advanced |
@@ -71,7 +71,7 @@ record: 50a48c3404c7
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Device certification guidelines | Did not exist | [Certification guidelines for devices sold in Cameroon, issued under the regulator's digital-safety campaign](https://techafricanews.com/2025/11/10/cameroon-strengthens-digital-safety-campaign-with-device-certification-guidelines/) | Advanced |
 | Intelligent urban video surveillance extension | Three tranches authorised, about FCFA 111.5bn; the first phase delivered 1,500 cameras and 2,000 portable radios | [A fourth tranche of FCFA 39.2bn, bringing FCFA 150.8bn mobilised over eight years across three Chinese lenders](https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveillance-urbaine/) | Advanced |
@@ -109,7 +109,7 @@ record: 50a48c3404c7
 
 ## Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Audit-provider qualification standard | Did not exist | [A consolidated draft setting qualification conditions for bodies authorised to audit information systems nationally: technical competence, independence, integrity, confidentiality and professionalism](https://fr.linkedin.com/posts/anssi-cg_il-sest-tenu-ce-mardi-28-juillet-2026-au-activity-7487929626313486337-A1oT) | Advanced |
 | National cybersecurity strategy | No national cybersecurity strategy held or in preparation | [The tender open with bids due 2026-09-02, scope covering an ecosystem diagnostic, a strategic roadmap, public and private skills development and a standing forum, financed by a European bank through the transformation project](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1) | Advanced |
@@ -119,7 +119,7 @@ record: 50a48c3404c7
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Finance-ministry information-system security appropriations | FCFA 3.268bn for modernising and securing the treasury information system and FCFA 791.9m for the budget information system, FY2025 | [FCFA 1.618bn for the treasury system, roughly halved, against FCFA 841.9m for the budget system, FY2026](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Regressed |
 | National public key infrastructure | The root certification centre was listed as one of the state agency's technical units, with no national root of trust in service | [Sovereign national root at the head of the internationally recognised certificate tree and trust anchor for every certification authority operating in the country, under the 2013 electronic transactions law and its 2014 and 2016 decrees](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/) | Advanced |
@@ -136,14 +136,14 @@ record: 50a48c3404c7
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Child online-safety service | Did not exist | [A subscriber-level filtering service applying preset policies to a child's traffic, blocking adult, illegal, gambling and hate content and social platforms other than one messenger, from 50 units for 30 days](https://actualite.cd/2026/07/17/rdc-africell-lance-kidzonet-pour-renforcer-la-protection-des-enfants-sur-internet) | Advanced |
 | National cybersecurity agency | ***Baseline not held*** | [Named alongside a cybersecurity council, the data-protection authority, the central bank and the telecommunications regulator; whether the agency exists in law, is staffed or is operating is not established](https://acp.cd/economie/numerique-le-gouvernement-veut-une-chaine-de-responsabilite-visible-en-cybersecurite/) | ***Baseline not held*** |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | ITU Global Cybersecurity Index standing | 100% of index points on the 2023-2024 index, among the top 12 countries globally (reported 2025-02-18) | [The same standing restated on 2026-06-10, among 12 states in the first tier at 100%](https://en.amwalalghad.com/egypt-achieves-100-score-on-global-cybersecurity-index) | No change |
 | EG-CERT national computer emergency readiness centre | The base carries no dated position on the centre at 2025-08-01 | [Operating under the telecommunications regulator, with capability development under way using AI techniques against cyber threats; no incident statistics, mandate document, budget or reporting obligation is held](https://gate.ahram.org.eg/News/5670246.aspx) | ***Baseline not held*** |
@@ -165,7 +165,7 @@ record: 50a48c3404c7
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | INSA cybersecurity and sovereign-cloud foundations | Did not exist | [Sovereign cloud and forensic laboratory stated in the strategy, not built](https://www.ena.et/web/eng/digital-ethiopia-2030-launch) | Advanced |
 
@@ -183,15 +183,15 @@ record: 50a48c3404c7
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | National cybersecurity agency or incident response team | No position held at the start of the window | [An institutional design on paper: GM-CSIRT operating a national Cybersecurity Centre with a security operations centre inside it, a National Cybersecurity Coordination Directorate, a National Cybersecurity Commission, an advisory board, sectoral focal points and sector CSIRTs, and a police cybercrime response unit. The plan directs that GM-CSIRT be operationalised and strengthened in budget and technology; nothing held states that any of these bodies is standing](https://mocde.gov.gm/wp-content/uploads/2024/02/National-Cybersecurity-Strategy-2022-2026-Final-.pdf) | ***Baseline not held*** |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
-| Community media cyber capability project | Did not exist | [Czech-funded and implemented with the cyber-security authority and a digital-transformation centre, training about 60 media houses and more than 100 journalists in Accra through August 2026 and in Kumasi in September, and certifying those who complete every session and file a report into a proposed cyber-security press corps](https://www.myjoyonline.com/government-launches-national-community-media-cyber-capability-building-project-to-combat-cybercrime/) | Advanced |
+| Community media cyber capability project | Did not exist | [Czech-funded and implemented with the cyber-security authority and a digital-transformation centre, training about 60 media houses and more than 100 journalists in Accra through August 2026 and in Kumasi in September, and certifying those who complete every session and file a report into a proposed cyber-security press corps; a training session at Accra on 19 August put newsroom devices to journalists as deliberate targets rather than accidental victims, citing an Angolan journalist's 2024 spyware infection as the regional precedent](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/) | Advanced |
 | Critical information infrastructure designation | Did not exist | [The communications minister says all central-bank-licensed entities will soon be designated critical information infrastructure; no instrument, date or designation list published](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) | Advanced |
 | Cross-network mobile-money fraud monitoring | Did not exist | [A centralised real-time layer able to block suspicious transfers as they move between networks, described as under discussion and nothing built](https://www.graphic.com.gh/news/general-news/ghana-news-mtn-partners-stakeholders-to-tackle-cross-network-momo-fraud.html) | Advanced |
 | Commercial AI-driven security operations centre | Operating from May 2025 as a commercial AI-driven security and digital-forensics centre | [Unchanged; no client count, throughput or incident figure published since launch](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-launches-africas-largest-ai-driven-security-centre.amp.html) | No change |
@@ -203,7 +203,7 @@ record: 50a48c3404c7
 
 ## Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | ANSSI (national cybersecurity agency) | Baseline not held | [Established; no published mandate, budget or reporting on file](https://smartafrica.org/get-to-know-the-republic-of-guinea-home-of-transform-africa-summit-2025/) | ***Baseline not held*** |
 | Cybersecurity statute | Not held | [Statute held (Loi L/2016/037/AN, 2016): reaches cybercrime offences on Guinean territory and offences requiring collection of electronic evidence; provisions known only from ANSSI's own summary, as the 57-page scan carries no machine-readable text layer](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf) | ***Baseline not held*** |
@@ -217,7 +217,7 @@ record: 50a48c3404c7
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cyber Space Management appropriation, Vote 1122 | No separately visible cyber appropriation | [KSh 457.2m for Cyber Space Management appropriated in the original FY2026/27 estimates, plus KSh 382m for digital superhighway cybersecurity](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf) | Advanced |
 | Kenya Cyber Resilience Project | Did not exist | [EUR 3m over 36 months, EU-funded, implemented by Expertise France with ESTDEV, hardening critical information infrastructure](https://itweb.africa/article/kenya-launches-project-to-boost-cyber-security/LPp6VMrBjoPMDKQz) | Advanced |
@@ -227,7 +227,7 @@ record: 50a48c3404c7
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Government Chief Information Security Officer | Did not exist | [Appointed, reported as the first such post across government](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | Advanced |
 | Interim national CSIRT (LesComCSIRT) | Did not exist | [Operating on an interim basis, ahead of the statute intended to establish it](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | Advanced |
@@ -236,7 +236,7 @@ record: 50a48c3404c7
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cybersecurity Regulations (LTA-REG-0013-2026) | Did not exist | [Requires telecom providers to store personal data and PII primarily inside Liberia's own territory (s.7.3(A)(v)), establish an in-house Cybersecurity Unit within one year of the effective date (s.7.1), notify the LTA of breaches within 24 hours and customers within 72 hours (s.7.6(A)(ii)), run annual penetration testing and keep security-event logs for at least 12 months (s.7.5), and file tested incident-response and continuity plans; the LTA is to run a sector CERT with a 24/7 hotline (s.8.2). Penalties are revenue-linked (up to US$3,000 plus 0.15% of the preceding year's gross revenue for failing to establish the Unit, escalating to US$25,000 and possible licence suspension) but apply only from one year after the effective date (s.10.7); the s.10.6 penalty escalation ladder is unreadable in both held copies (2026-01)](https://liblaw.org/document/cybersecurity-regulations-lta-reg-0013-2026/) | Advanced |
 | House investigation into the 2026 data breach | Did not exist | [Investigation ordered into an alleged breach of about 2m citizens' data across the revenue, electricity and insurance bodies; no findings published (2026-02)](https://www.liberianobserver.com/news/house-to-probe-data-breach-6-1m-foya-project/article_20b56386-12e0-4c66-b0d8-51bcbf475890.html) | Advanced |
@@ -261,7 +261,7 @@ record: 50a48c3404c7
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | World Bank cybersecurity and data-protection technical assistance | The foundations project's technical assistance ended with that project's closure in October 2024; no successor cybersecurity assistance appears in the base at 2025-08-01 | [A delegation team leader outlined technical assistance and capacity building covering critical-infrastructure security, legal and regulatory frameworks, data-protection systems and regional cybersecurity capability; no amount, financing instrument, duration or workplan is stated](https://techafricanews.com/2026/03/26/malawi-secures-world-bank-backing-to-strengthen-cybersecurity-and-data-protection-frameworks/) | Advanced |
 | Chinese safe-city surveillance package offer | Malawi is the only one of the five countries studied - with Nigeria, Ghana, Morocco and Zambia - to have rejected the safe-city surveillance package offered by Chinese companies | [Unchanged; the base holds no later statement, and no account of who rejected it, when, or on what grounds](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/) | No change |
@@ -269,7 +269,7 @@ record: 50a48c3404c7
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Agence nationale de la Securite des Systemes d'Information | Did not exist | [Created; no budget or staffing published](https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/) | Advanced |
 | Criminal chamber of the national cybercrime pole | Did not exist | [Operational and hearing cases](https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029) | Advanced |
@@ -277,7 +277,7 @@ record: 50a48c3404c7
 
 ## Mauritania
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | National computer emergency response team | Planned | [Planned; no establishing instrument, staffing or premises is on record](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) | No change |
 | National Cybersecurity Strategy 2022-2025 | In its final year, with a CERT planned | [Its period has ended and no successor, evaluation or CERT is on record](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) | No change |
@@ -285,7 +285,7 @@ record: 50a48c3404c7
 
 ## Mauritius
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Critical Information Infrastructure regime | Did not exist; cybercrime was punishable but no framework existed to designate and regulate operators of critical systems (2025-08) | [In force across financial and banking, public service, information technology and broadcasting, energy and water, and transport, with non-compliance carrying up to 25 years' imprisonment and fines up to Rs 2m (2026-06)](https://lexpress.mu/node/558304) | Advanced |
 | Cyber forensic laboratory | Did not exist | [Funded at Rs 13m alongside an information-security management system across the administration; no site, staffing or opening date published (2026-06)](https://lexpress.mu/node/559426) | Advanced |
@@ -295,7 +295,7 @@ record: 50a48c3404c7
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Directive Nationale de la Securite des Systemes d'Information (DNSSI) v2.0 | DNSSI v1.0 in force since 2014 | [v2.0 in force, ISO 27002-structured, covers state bodies and all vital-importance infrastructures; entities given six months to schedule conformity](https://www.dgssi.gov.ma/fr/textes-legislatifs-et-reglementaires/circulaire-du-chef-du-gouvernement-ndeg-22023-du-12-janvier) | Advanced |
 | National Cybersecurity Strategy of 2023 and its implementing texts | Not held | [One instrument, not two: see MAR-infra.cybersec-cybersecurity-strategy-2030 for the full text](https://www.dgssi.gov.ma/sites/default/files/publications/pdf/2024-10/Strat%C3%A9gie%20Nationale%20de%20Cybers%C3%A9curit%C3%A9%202030.pdf) | Advanced |
@@ -304,7 +304,7 @@ record: 50a48c3404c7
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cyber Security Fund | Did not exist | [Provided for at articles 67 to 71 of Law 13/2026, managed by the National Cyber Security Authority and financed by a flat 1% of licensed cybersecurity providers' prior-year gross revenue under article 70(c) together with state appropriations, partner donations and other sources, with sectoral and institutional incident response teams among its beneficiaries at article 69; its operating rules are left to a regulation not yet made under article 67(4), and the statute is not in force until 2026-09-29](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | Advanced |
 | National cyber incident response team | National incident-response capability operating under the 2021 policy, without a statutory basis | [Created in statute and seated in INTIC; INTIC named consolidation of the team the immediate priority in June 2026, and 14 national specialists hold Open CSIRT Foundation SIM3 certification](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/) | Advanced |
@@ -315,7 +315,7 @@ record: 50a48c3404c7
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Banking fraud losses | About N$8.7m a year (2020, central bank) | [N$73.9m for 2025, with N$65m lost between January and October 2025](https://itweb.africa/article/namibia-partners-with-banks-to-combat-fraud/Olx4zMka1eyv56km) | Regressed |
 | Detected vulnerabilities and cyber events | 2,231,970 vulnerabilities and 1.7m attacks over calendar 2025, up about 37% year on year | [513,921 vulnerabilities and 161,547 events in April to June 2026, up 39.8% and 56.7% on the prior quarter](https://www.namibian.com.na/cyber-threats-surge-as-namibia-records-half-a-million-vulnerabilities/) | Regressed |
@@ -340,7 +340,7 @@ record: 50a48c3404c7
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cyber Resilience Framework for communications | Did not exist | [Binding on every licensed provider on a staged compliance clock ending 2027-02-23, with four-hour incident notification, a dedicated cybersecurity budget line, a Chief Information Security Officer and two-year in-country retention of call logs and traffic data](https://techafricanews.com/2026/03/05/ncc-mandates-4-hour-cyber-incident-reporting-for-telecom-operators/) | Advanced |
 | Ministerial Advisory Council on Cybersecurity | Did not exist | [Announced, with no membership or terms of reference published](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) | Advanced |
@@ -349,13 +349,13 @@ record: 50a48c3404c7
 | Nigeria Police Force National Cybercrime Centre | Operating (2025-01) | [₦8.82bn recovered and 751+ arrests in 2024](https://www.wearetech.africa/en/fils-uk/news/nigeria-police-cybercrime-unit-recovers-funds-named-best-in-africa-by-interpol) | No change |
 | Standing committee on fibre as critical national information infrastructure | Baseline not held | [A standing committee formed by the communications regulator with the works and communications ministries and the National Security Adviser’s office, to coordinate protection of fibre designated as critical national information infrastructure; no terms of reference, meeting cycle, budget or enforcement power is published](https://punchng.com/fibre-cuts-hit-5000-as-road-works-intensify/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Synthetic identity fraud | ***Baseline not held*** | [AI-generated identity fraud up 192% in Q1 2025 as document forgery fell 80%](https://www.vanguardngr.com/2025/06/identity-theft-nigeria-faces-rising-synthetic-id-threats-despite-fall-in-traditional-fraud-methods/) | ***Baseline not held*** |
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cyber security centre of excellence | Did not exist | [Operating at a university college with a cyber security academy, an innovation hub and technology labs, with vendor and donor partners](https://itweb.africa/article/rwanda-unveils-cyber-security-centre-of-excellence/kLgB17ez2x4M59N4) | Advanced |
 | Biometric SIM registration regulation | In force, with registration verified against the national biometric database | [The same, with no rollout completion, enrolment or enforcement figure published](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Regulatory_Instruments/ICT_Regulations_and_Guidelines/Regulation_Governing_SIM_Card_Registration_in_Rwanda.pdf) | No change |
@@ -372,9 +372,10 @@ record: 50a48c3404c7
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Procurement route for critical-infrastructure cybersecurity | Did not exist | [Three routes floated — a three-year standing supplier arrangement, functional rather than technical specifications, and pooled purchasing; no timetable, contract value or affected system established](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) | Advanced |
+| Recorded cybercrime offences | 3,902 offences recorded (2024) | [3,794 offences recorded (2025)](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite) | Advanced, marginal |
 | State systems breached | One held state breach on file, its date disputed | [Three: the tax authority in 2025, the identity directorate on 2026-01-19 and the public treasury in May 2026](https://www.connectingafrica.com/cybersecurity/senegal-s-free-internet-plan-could-pose-cybersecurity-risks) | Regressed |
 | ITU Global Cybersecurity Index score | 67.17 out of 100, tier three of four (2024) | [67.17 out of 100, tier three of four; no newer edition held](https://www.wearetech.africa/en/fils-uk/news/senegal-pushes-stronger-cybersecurity-cooperation-to-protect-critical-infrastructure) | No change |
 
@@ -387,7 +388,7 @@ record: 50a48c3404c7
 
 ## Sierra Leone
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | NaTCA consumer education campaign on online fraud | Did not exist | [Advisory campaign running; no rule-making, SIM-swap control, operator obligation or complaint remedy announced alongside it (2026-07)](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/) | Advanced |
 | Operator scam-alert reporting tool | Did not exist | [A mobile operator's reporting channel for suspected fraud against its mobile-money service, reached on a *505# USSD short code, an online form or a 111 call, and presented as customer protection alongside the wallet's transfer, bill-payment, savings and credit services](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/) | Advanced |
@@ -404,7 +405,7 @@ record: 50a48c3404c7
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | FSCA enforcement against online financial harm | 107 public warnings; R119.8m penalties (FY2024/25) | [140 public warnings; R2.89bn penalties on 76 persons (FY2025/26)](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ) | Advanced |
 | Ransomware attacker dwell time | 117 days (2024) | [18 days in 2025 on a digital-forensics firm's own incident statistics, with some intrusions running start to finish inside a day, attributed to ransomware-as-a-service, automated reconnaissance and AI-assisted attacks](https://www.itweb.co.za/article/ransomware-gangs-intensify-attacks-in-sa/lLn147mQzxP7J6Aa) | Advanced |
@@ -426,16 +427,17 @@ record: 50a48c3404c7
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Zanzibar cybersecurity capacity memorandum | Did not exist | [A capacity-building memorandum covering user awareness and specialist skills](https://www.mwananchi.co.tz/mw/zanzibar/wizara-ya-mawasiliano-yawekeza-katika-usalama-wa-mtandao-kuziba-mianya-ya-wahalifu-5492792) | Advanced |
 | ITU Global Cybersecurity Index placement | First tier, top 47 globally | [Unchanged; no later placement is held](https://www.mwananchi.co.tz/mw/habari/kitaifa/kuelekea-uchumi-wa-kidijitali-tanzania-kujiimarisha-usalama-mtandaoni-4998806) | No change |
 | Tanzania Cybersecurity Forum | A fourth edition held | [Unchanged; no fifth edition is on file](https://www.thecitizen.co.tz/tanzania/news/national/experts-back-tanzania-s-cyber-security-push-amid-growing-digital-threats-4998368) | No change |
+| Cybercrime investigation centres | ***Baseline not held*** | [Centres at Dodoma and Zanzibar provided for in the ministry's 2026/27 budget; nothing is built, sited or staffed on the record](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/) | ***Baseline not held*** |
 | SIM-registration fraud enforcement | ***Baseline not held*** | [39,117 fraud-linked phone numbers and 6,118 domains and applications blocked in the 2025/26 financial year, with 7,311 violating accounts removed and 56 security-incident reports submitted to the police; 7,334 mobile lines were linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter, with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. An earlier single investigation had seized 198 SIM cards used in fraud, 88 of them registered by one agent under different names](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/) | ***Baseline not held*** |
 
 ## Togo
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | TogoCyber+ | Not on file at the window's opening; it first appears in a regional cybersecurity working-group report of April 2026 as an initiated programme | [Funded under the Togo-Luxembourg indicative cooperation programme for 2026-2031, to strengthen cybersecurity across digital public services, financial transactions and critical infrastructure and to build incident-response capacity](https://www.togofirst.com/en/economic-governance/1607-19578-togo-luxembourg-sign-three-agreements-on-development-and-cybersecurity) | Advanced |
 | Agence Nationale de la Cybersecurite | Operating - runs the incident response team and the national strategy, and co-runs public campaigns with the data-protection authority | [Unchanged, with its director-general on the record in July 2026](https://www.togofirst.com/fr/formation/0311-17461-protection-des-donnees-3000-jeunes-togolais-formes-aux-bons-reflexes-numeriques) | No change |
@@ -453,7 +455,7 @@ record: 50a48c3404c7
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cyberattack volume | ***Baseline not held*** | [A 60% year-on-year rise, including a UGX 62bn central-bank incident](https://itweb.africa/article/uganda-launches-updated-cybersecurity-framework/LPwQ57lboKAqNgkj) | Regressed |
 | Legitimate pay-TV subscriptions | About 1.65m (2021) | [About 800,000 (2026-03)](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/) | Regressed |
@@ -463,7 +465,7 @@ record: 50a48c3404c7
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cyber Crimes Act No. 4 of 2025 | Assented 8 April 2025, gazetted 15 April 2025, commenced 12 May 2025; the Law Association had moved to mount a legal challenge and the United States embassy had warned its citizens that the regime requires interception of all electronic communications | [Declared fully operational by the information ministry twenty-six days before the 13 August 2026 general election, with warnings that recording, publishing or distributing private communications without authorisation can bring prosecution and compliance obligations extended to financial institutions, telecommunications operators, digital platforms, mobile money providers and e-commerce businesses; no prosecution, charge or conviction count is published](https://www.parliament.gov.zm/sites/default/files/documents/acts/Acts%20No.%204%20of%202025%2C%20The%20Cyber%20Crimes.pdf) | Advanced |
 | Zambia Cyber Security Agency | Provided for by the Cyber Security Act; no operating record, leadership, budget or activity held | [Operating with a named director general, running pre-election outreach urging journalists to learn the cyber laws, and cited by the home affairs permanent secretary as strengthening the response to online scams and AI-enabled trafficking; no budget, staffing, incident count or critical-infrastructure designation list is held; its constitutive provision is now held — section 3(1) of the Cyber Security Act No. 3 of 2025 establishes the Agency in the Office of the President, responsible for administering the Act under the President's general direction, with the Director-General and Deputy Director-General appointed by the President under section 5 (2026-08-09)](https://www.lusakatimes.com/2026/07/15/journalists-urged-to-learn-cybersecurity-laws/) | Advanced |
@@ -476,7 +478,7 @@ record: 50a48c3404c7
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Artificial-intelligence and cybersecurity fusion centre | Did not exist | [Proposed for real-time threat detection; a media rights organisation reports that the strategy sets out no governance structure, no limits on data collection, retention or use, and no route to challenge a threat assessment](https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/) | Advanced |
 | National Child Online Protection Policy | None published | [Reported established; the text is not held and no implementing body, budget or date is on record](https://www.newsday.co.zw/local-news/article/200047300/government-enforces-data-privacy-laws) | Advanced |
@@ -486,27 +488,27 @@ record: 50a48c3404c7
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-19 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Reported cybercrime losses across the continent | About US$192m reported (2024) | [About US$484m reported, more than double the 2024 figure, drawn from 36 member countries, with artificial intelligence involved in 55% of surveyed 2025 cybercrime cases and deepfake incidents up sevenfold between the second and fourth quarters of 2024; against that, only 8% of intelligence analysts are recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools, and a single Ugandan deepfake investment scam is put at over US$2m of losses](https://www.linfodrome.com/international/124117-cybermenace-en-afrique-l-ia-impliquee-dans-plus-d-un-crime-sur-deux-interpol) | Regressed |
 | Vendor-measured attack volume across the continent | None published | [African organisations averaged 3,237 attacks a week in July 2026 against a global average of 2,336, behind Latin America at 3,561 and Asia-Pacific at 3,316; Angola was highest of the African markets broken out at 5,714, then Nigeria at 4,975, Kenya at 2,915 and South Africa at 2,195. Ransomware victims were up 87% year on year and the continent posted the world's highest phishing rate at 1 in 106 emails](https://techtrends.africa/ransomware-attacks-double-year-over-year/) | Advanced |
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-17 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | SADC central-bank frameworks on cyber, climate risk and cross-border crisis management | In drafting by working groups led by Botswana and Zimbabwe | [Finalised and approved, with supervision extended to cloud hosts and payment processors](https://independentnews.co.sz/46874/business/central-banks-rally-to-protect-regional-financial-system-against-new-age-cyber/) | Advanced |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-17 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | SADC Regional CIRT framework | A draft framework of September 2018, unpublished, with no regional incident-response capability operating | [Unchanged; the 2018 draft is still the newest record held](https://www.sadc.int/sites/default/files/2021-06/Media_Statement_SADC_Capacity_Building_Workshop_on_Cyber_Security_and_Cyber_Drill.pdf) | No change |
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-17 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | ECOWAS Regional Cybersecurity Coordination Mechanism | Did not exist | [Establishment approved; no terms of reference, seat, budget or staffing held](https://www.ecowas.int/wp-content/uploads/2026/07/Final-Communique_-ENG.pdf) | Advanced |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-17 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | ECOWAS Information Sharing and Analysis Centre | ***Baseline not held*** | [Named by the Commission as established, as the region's threat-intelligence sharing platform; no founding instrument, membership, feed or published output is held (2026-08)](https://www.ecowas.int/ecowas-advances-regional-cybersecurity-cooperation-through-sim3-auditor-capacity-building-programme/) | ***Baseline not held*** |

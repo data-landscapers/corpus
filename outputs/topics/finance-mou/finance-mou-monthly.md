@@ -1,15 +1,17 @@
 ---
 title: MoUs and other agreements — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: finance.mou
-places: DZA; COD; EGY; GAB; GHA; LSO; RWA; SYC; TZA; TGO; UGA; ZWE
-record: 22d5c95239c0
+places: DZA; COD; EGY; GAB; GHA; KEN; LSO; RWA; SYC; TZA; TGO; UGA; ZWE
+record: a85775e30edc
 ---
 
 # MoUs and other agreements: monthly update, July 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -30,6 +32,10 @@ On 14 July, alongside the open-innovation programme's launch, the state guarante
 ## Ghana
 
 The country renewed the agreement under which several of its digital customs systems are financed. The [TradeMark Africa country programme memorandum was renewed on 14 August](https://thehighstreetjournal.com/ghana-trademark-africa-deal-targets-higher-exports-regional-market-access/), continuing trade-facilitation and continental-free-trade-readiness work, including digital customs systems at the Akanu-Noepe joint border post and support for more than 1,250 women and small-scale cross-border traders. No financing sum, term or workplan is stated — and the same border post is where a regional dialogue on identity-card and transit-system interoperability was held four days earlier.
+
+## Kenya
+
+The judiciary took on a foreign partner for its access-to-justice work. A memorandum [was signed at the Supreme Court on 10 August with a Netherlands justice-innovation institute, with an intergovernmental development-law organisation and the Netherlands embassy participating](https://www.hiil.org/news/hiil-and-kenyas-judiciary-formalise-partnership/), building on the country's own access-to-justice blueprint. No value, term or deliverable is stated. In the same week the chamber of commerce and the council of governors [signed a five-year agreement to harmonise county business licensing and digitise small-enterprise data across all 47 counties](https://www.kenyachamber.or.ke/2026/08/13/kncci-and-cog-sign-landmark-strategic-partnership-to-drive-msme-growth-data-digitization-and-county-led-economic-development/), with no budget, milestone or data-governance arrangement for the pooled data stated.
 
 ## Lesotho
 

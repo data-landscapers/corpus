@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: capacity.training
 places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; RWA; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: ba6ba1840034
+record: 6cf4399fed6f
 ---
 
 # Training and skills: monthly update, July 2026
@@ -158,6 +158,9 @@ The AI Teacher Coach and AI Student Tutor pilots that feed into the AI in Educat
 MoCTI and three other bodies [launched a digital skills programme for civil servants on 10 July 2026, with 1,000 places in year one and stated targets of 3,000 medium-term and 5,000 long-term](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) across six areas including artificial intelligence and cybersecurity, aimed at gaps outside Freetown.
 
 The country held its [first academic exhibition dedicated to Digital Public Goods on 27 July, where 11 student-built solutions were evaluated against the DPG Standard](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent). The curriculum behind it, built with UNICEF, the United Nations University and Limkokwing University, has [taught more than 1,100 students and appointed 14 campus champions across four universities](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent).
+
+
+On the skills side, [eighty young people graduated from a nine-month digital-literacy course at Kenema on 8 August, reporting job retention and promotion](http://www.critiqueecho.com/80-youth-graduate-in-advanced-digital-literacy-as-yad-boosts-employability-in-sierra-leone/). The outcomes are the graduates' own and no tracer study is held.
 
 ## Somalia
 

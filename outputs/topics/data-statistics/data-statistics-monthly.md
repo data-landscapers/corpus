@@ -1,15 +1,15 @@
 ---
 title: National statistics — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: data.statistics
-places: AGO; BEN; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SSD; TUN; UGA; ZWE
-record: e6f3f6632f22
+places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SSD; TUN; UGA; ZWE
+record: fe9bcbb03fcc
 ---
 
 # National statistics: monthly update, July 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,10 @@ The statistics office [launched a census portal and a mobile application on 2 Ju
 ## Benin
 
 The digital agency published these exchange-usage figures on 11 July.
+
+## Botswana
+
+The statistics office and the national university [launched a second Statistics Development Strategy for 2026 to 2030 on 12 August](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy), framed as a roadmap to an agile and responsive statistical system and aligned to the twelfth national development plan. No budget, delivery milestone or indicator set is published with it.
 
 ## Cameroon
 
@@ -88,6 +92,10 @@ On 5 August the Central Bank put [electronic transactions at LD 643 billion for 
 ## Madagascar
 
 The statistics institute runs a [registration-gated platform advertising household surveys for 2020 to 2022, an enterprise survey and census microdata](https://microdata.instat.mg/). The datasets sit behind account registration and were not retrieved, so no dataset documentation, sample size, licence or reuse terms is established beyond the landing page.
+
+## Malawi
+
+The statistical office and the communications regulator [put a Fourth National ICT Survey into the field from August to October across all districts, including the refugee camp at Dzaleka](https://malawidatanews.com/2026/08/14/national-ict-survey-on-the-cards/), covering mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness. No publication date for the results is stated, which is the part that decides whether it informs anything.
 
 ## Mali
 

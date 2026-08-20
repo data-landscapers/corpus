@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COG; COD; EGY; ETH; GAB; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: 01e8f51c221a
+record: e1ba190eba28
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
@@ -39,7 +39,7 @@ The one new management system in the window sits outside the state's own stack. 
 
 ## Cameroon
 
-Health and education information systems both gained instruments and neither reports a deliverable. A [EUR 8m technical-assistance agreement over 36 months covers the education management information system, the basic-education ministry's mapping platform, interconnection of the education databases and dynamic dashboards](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base); the funder is not stated and the signature date is not published. The [national digital health strategic plan launched on 4 March with an envelope of about FCFA 29bn across eight axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/), and a [pandemic preparedness project was launched](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) with no deliverable reported.
+Health and education information systems both gained instruments and neither reports a deliverable. A [EUR 8m technical-assistance agreement over 36 months covers the education management information system, the basic-education ministry's mapping platform, interconnection of the education databases and dynamic dashboards](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base); the funder is not stated and the signature date is not published. The [national digital health strategic plan launched on 4 March with an envelope of about FCFA 29bn across eight axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/), and a [pandemic preparedness project was launched](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) with no deliverable reported. Collection moved where the plans did not: the health ministry [took delivery of nearly 1,000 smartphones on 7 August to run the SCANFORM data-collection system in place of paper forms](https://cameroonpress.com/pres-de-1000-smartphones-pour-accelerer-la-transformation-numerique-du-systeme-de-sante/), across ten regions, 175 health districts and 395 facilities, with over 1,500 health workers to be trained. The counts are the ministry's own and no go-live date is given.
 
 ## Cape Verde
 
@@ -51,7 +51,7 @@ The education management information system is [in use in the higher-education m
 
 ## Congo
 
-Health acquired equipment rather than a system. On 7 August the Global Fund and UNDP [handed over e-health equipment, a P2-level biosafety laboratory and a secure biomedical-waste management system at the Edith Lucie Bongo Ondimba hospital at Oyo](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/), for early disease detection, patient data management and health-service coordination. It is a single site; no value, system name, national rollout or interoperability with any other health system is stated, and it sits beside a civil-service payroll platform whose own operator has minuted three failure modes.
+Health acquired equipment rather than a system. On 7 August the Global Fund and UNDP [handed over e-health equipment, a P2-level biosafety laboratory and a secure biomedical-waste management system at the Edith Lucie Bongo Ondimba hospital at Oyo](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/), for early disease detection, patient data management and health-service coordination. It is a single site; no value, system name, national rollout or interoperability with any other health system is stated, and it sits beside a civil-service payroll platform whose own operator has minuted three failure modes. That platform gained a fourth problem in public: the public service minister [told the Senate on 7 August of fraudulent duplicate payroll numbers and of deceased or retired staff still drawing salaries](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). No count, value or remedy is stated, and the disclosure is the minister's own.
 
 ## DR Congo
 
@@ -63,7 +63,7 @@ The social insurance authority reported on 3 August that it had served 8,621,000
 
 ## Ethiopia
 
-A [livestock information system went live on 29 July](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/), drawing on five priority databases and repositioning animal identification from an export tool to a national asset register — broadened from feedlots to farm level and linked to disease surveillance and vaccination records. The account is the implementer's own, written after four years with a team embedded in the ministry, and is uncorroborated here.
+A [livestock information system went live on 29 July](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/), drawing on five priority databases and repositioning animal identification from an export tool to a national asset register — broadened from feedlots to farm level and linked to disease surveillance and vaccination records. The account is the implementer's own, written after four years with a team embedded in the ministry, and is uncorroborated here. A system that has been running far longer got its evaluation: a journal study published on 10 August [puts a community HIV case-management application in the hands of 950 health workers, with the time to reach case data down from a month to a day and data completeness near 100%](https://www.ghspjournal.org/content/14/1/e2400353). [Ninety-two per cent of mobile accounts and 94% of web accounts were actively used](https://www.ghspjournal.org/content/14/1/e2400353). The figures are the study's and cover deployment since 2017; no national coverage figure or cost is given.
 
 ## Gabon
 

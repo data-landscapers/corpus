@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: dpi.registry
 places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: 1a452be352b7
+record: 8a063e638998
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
@@ -33,7 +33,7 @@ An estate-agency register launched on 21 July with a compulsory card applied for
 
 ## Cameroon
 
-The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target.
+The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target. The one delivery figure on the record for the wider programme comes from outside government: the national human rights commission, [calling for a modernised and interoperable civil registry on 10 August, put birth-certificate cases processed under a World Bank-backed programme at over 49,000](https://kamerinfosplus.com/2026/08/10/etat-civil-la-cdhc-veut-un-systeme-moderne-digitalise-et-accessible-a-tous/).
 
 ## Central African Republic
 
@@ -45,11 +45,11 @@ Civil registration is where Chad's month has both its clearest instrument and it
 
 ## Comoros
 
-The Registre social unique (RSU) reported [62,000 households enrolled as of 10 July 2026](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html), a figure the World Bank's Comoros representative, Amada Aida, called the most complete socio-economic database ever built in the country. The registry was created by decree n°20-090/PR of 23 June 2020 and is intended as the reference base for targeting social-protection programmes. No participation rate against a national household count and no completion date is stated in the account.
+The Registre social unique (RSU) reported [62,000 households enrolled as of 10 July 2026](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html), a figure the World Bank's Comoros representative, Amada Aida, called the most complete socio-economic database ever built in the country. The registry was created by decree n°20-090/PR of 23 June 2020 and is intended as the reference base for targeting social-protection programmes. No participation rate against a national household count and no completion date is stated in the account. The civil-registry programme beside it was priced rather than advanced: a consultant recruited by the children's fund [put the residual financing need for the reform at EUR 9,009,900 at a presentation in Moroni on 14 August](http://comoresdroit.centerblog.net/3012-la-modernisation-de-l-etat-civil-un-chantier-strategique), ahead of an international resource-mobilisation mission and a partners' conference. None of it is committed on the record.
 
 ## Congo
 
-The minister recorded on 10 July that the [regulator has run the postal addressing project for two years and the ministry has not taken it up for deployment](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823), his own framing being that without the handover the work has not had the expected impact.
+The minister recorded on 10 July that the [regulator has run the postal addressing project for two years and the ministry has not taken it up for deployment](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823), his own framing being that without the handover the work has not had the expected impact. The registry that does have a system waiting for it went before the Senate. On 7 August the interior minister [said ministry and municipal staff are themselves among those running networks selling forged civil-status documents, and announced investigations to dismantle them](https://datsoue.news/2026/08/08/congo-etat-civil-jean-olessongo-ondaye-annonce-la-traque-des-reseaux-de-falsification/), naming the integrated civil-status system as the structural fix; the ministers [set out the platform as the way to centralise birth, marriage and death records](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). Its three modules were validated in February and its deployment is still unfunded, so what changed this month is the case made for it rather than its build state.
 
 ## Cote d'Ivoire
 
@@ -80,6 +80,9 @@ On identity, a proposal to [require DNA testing before issuing birth certificate
 ## Gambia
 
 The country published its first unified land policy, and it is the month's clearest statement of intent about a public register. The [National Land Policy 2026-2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1), alongside new Certificates of Customary Ownership, and carries a costed ten-year implementation roadmap. It is a mandate rather than a build: no supplier, budget line, custodian or start date is stated for either system, and no data-protection provision for the land record is reported — in a year in which the Personal Data Protection and Privacy Act 2025 came into force.
+
+
+A register the country already runs was disputed in the same week. Opposition parties put it to the electoral commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), a gap the commission attributed to unverified processing outputs. No reconciled figure has been published, and a presidential election is due this year.
 
 ## Ghana
 
@@ -146,6 +149,8 @@ The civil register acquired an outside account of what it now carries. Case stud
 ## Senegal
 
 On 28 July an audit mission [launched across 74 communes, 59 already audited and fifteen selected on risk analysis](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html); no findings are stated. On 30 July the mines ministry and the deposits fund [signed a convention commissioning professional cards and a nationwide database of artisanal gold miners](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-senegal-numerise-lorpaillage-pour-juguler-une-perte-annuelle-de-plus-de-614-millions), with no enrolment target, host or data-protection provision reported.
+
+The digitisation the audit is measuring has its own figures. The civil-status agency [puts 471 of 629 centres digitised, 43% activation of the citizen portal and 15,352,830 records centralised on pilot data at 13 July](https://directactu.net/2026/08/16/par-matar-ndiaye-dg-de-lanec-avancement-de-la-remediation-nationale-sur-la-digitalisation-de-letat-civil-une-progression-territoriale-structuree-du-lgec-et-de-sama-etat-civil/), with a remediation push at Kaolack from 10 to 20 August before extending to Kaffrine and Tambacounda. The figures are the agency's own and no national completion date is stated; the gap between three quarters of centres digitised and two in five citizens activating the portal is the one the remediation is aimed at.
 
 ## Sierra Leone
 

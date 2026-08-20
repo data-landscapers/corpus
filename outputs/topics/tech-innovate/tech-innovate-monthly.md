@@ -1,15 +1,17 @@
 ---
 title: Innovation ecosystem — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: tech.innovate
 places: DZA; BDI; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
-record: eee16eb4a985
+record: a9dc8f773b36
 ---
 
 # Innovation ecosystem: monthly update, July 2026
 
 *21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -57,6 +59,9 @@ Nothing published bears on artificial intelligence; the one other item is a [you
 
 Two assistive devices are [in pilot with a disability association — smart glasses and an ultrasonic obstacle detector — at a target price of about GH¢2,000 and a 1,500-user target within a year](https://techcabal.com/2026/08/04/assistive-technology-for-african-users/).
 
+
+A freight platform founded in 2023 was profiled on 19 August: it [takes booking, cost estimation, secured payment and cargo tracking, and handles customs formalities and border documentation for importers, exporters and online merchants](https://www.wearetech.africa/fr/fils/tech-stars/avec-swiftway-shippers-abubakar-fuseini-automatise-la-gestion-du-fret). No volume, revenue or customer figure is stated, and the account is a profile rather than a filing.
+
 ## Kenya
 
 Venture funding data published on 27 July put Kenyan startups at [US$126m in the first half of 2026](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/), third in Africa and the weakest half since early 2021, against US$1.04bn across 2025.
@@ -100,3 +105,6 @@ Three innovation programmes were opened or closed. The ICT institute [launched t
 ## Zambia
 
 Three private ventures carry the innovation position, all on their own accounts. A [private hub ran the nine-month pipeline that took a Zambian team to the Geneva global finals](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) of the 2026 artificial-intelligence summit and youth robotics challenge among nearly 50 countries, its chief executive saying the talent pool is real and the investment in research and innovation is not. An [agritech pairs satellite imagery with artificial intelligence to route smallholders into premium markets](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/), operating a virtual warehouse in which buyers specify variety, quality and compliance before planting. And a [roadside-assistance marketplace connects drivers to nearby providers](https://www.wearetech.africa/fr/fils/tech-stars/avec-padue-dalitso-mbewe-connecte-les-automobilistes-en-panne-aux-depanneurs) with in-app messaging and real-time geolocation. No user numbers, revenue, funding or independent evaluation is held for any of the three.
+
+
+A donor-funded accelerator began staffing up: a private hub [called for facilitators and group coaches for a twelve-month incubator running masterclasses, group coaching and access to funding for digital startups](https://bongohive.co.zm/call-for-facilitators-and-group-coaches/). No cohort size, budget or start date is stated, and the government innovation fund the base looked for is still not held.

@@ -1,15 +1,17 @@
 ---
 title: Digitalisation of sub-national government — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: digital.localgov
 places: BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; TZA; TGO; ZMB; ZWE
-record: 2eba13a83572
+record: 397d4f6db569
 ---
 
 # Digitalisation of sub-national government: monthly update, July 2026
 
 *18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Burkina Faso
 
@@ -56,6 +58,9 @@ The results announced on 31 July give the counterpoint. Councils receiving clean
 ## Mali
 
 On 30 July the territorial administration ministry [put digital payment at civil registry centres at about FCFA 200 million between July 2024 and May 2026](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/) and ordered every collectivite to report within 30 days on why the system is underperforming.
+
+
+One commune took the same problem in the other direction. Koutiala [began digitising its fiscal census and financial management, surveying taxable commercial equipment and public-space use and equipping the town hall with financial-management tools](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/), to widen its own-source revenue. It is funded by a foreign embassy and run with a non-governmental organisation, and no budget, timetable or revenue target is stated.
 
 ## Namibia
 

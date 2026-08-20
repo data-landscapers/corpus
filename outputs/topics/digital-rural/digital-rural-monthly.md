@@ -1,15 +1,17 @@
 ---
 title: Rural digital data capture — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: digital.rural
-places: EGY; SWZ; MWI; MLI; NER; NGA; SLE; TGO; ZMB; ZWE
-record: 97abccd77e93
+places: EGY; SWZ; GIN; MWI; MLI; NER; NGA; SLE; TGO; ZMB; ZWE
+record: 293cc1465455
 ---
 
 # Rural digital data capture: monthly update, July 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Egypt
 
@@ -18,6 +20,10 @@ The rural fibre programme reports [about 5 million lines across more than 1,250 
 ## Eswatini
 
 Rural data collection got hardware rather than a system. The agriculture ministry [handed 40 tablets and 4 laptops, valued at E313,504, to agricultural extension officers on 10 August](https://eswatinipositivenews.online/agriculture-minister-hands-over-e313-504-digital-gadgets-to-boost-agricultural-extension-services/) under an IFAD and Green Climate Fund-backed project, for real-time crop, livestock and weather reporting by officers working with smallholder farmers across all four regions. No officer total, data platform, reporting standard or custodian for the collected field data is stated, so what the reports feed into is not on the record.
+
+## Guinea
+
+The first rural digital service to reach farmers this month was a private one carried on a state bank's counters. An agritech firm and the state rural bank [launched a first cohort at Conakry on 6 August pairing field sensors, weather alerts and agronomic advice with the bank's network of over 1,000 service points](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/). No cohort size, cost or coverage is stated, and the base still holds no state rural digital-services programme to set beside it.
 
 ## Malawi
 

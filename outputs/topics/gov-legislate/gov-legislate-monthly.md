@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: gov.legislate
 places: DZA; AGO; BWA; BFA; BDI; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e53da2adca50
+record: 4cabd1525031
 ---
 
 # Legislation and regulation: monthly update, July 2026
@@ -77,6 +77,8 @@ A cabinet meeting chaired by the Prime Minister agreed on 29 July 2026 to review
 
 Nine days earlier a member of parliament had called for a comprehensive standalone digital-privacy bill criminalising the recording and publication of people without consent, imposing takedown duties on platforms and widening investigators' powers to trace anonymous accounts, arguing that the Cybercrime Law and the Penal Code are insufficient in practice. The demand does not refer to the Personal Data Protection Law of 2020 at any point ([demand](https://gate.ahram.org.eg/News/5814479.aspx)).
 
+A third route opened on 10 August, outside both: a party draft, described by its sponsor as [fifty-four articles over seven chapters, would require platforms to appoint a legal representative in the country, register influencers on a national platform, and regulate artificial intelligence, deepfakes, online extortion, gambling and child protection online](https://www.alnaharegypt.com/1191209). It has not been tabled and no text is published.
+
 On 4 August the Ministry of Justice gazetted a deferral of the title-based property register for one Sohag survey section by a year to July 2027.
 
 ## Equatorial Guinea
@@ -109,7 +111,7 @@ The month's other legislative movement is procedural rather than expressive. A j
 
 ## Gambia
 
-The Communications Bill 2025 stayed in committee. Two Assembly committees [met the Press Union and the Media Council on 18 July 2026](https://thepoint.gm/africa/gambia/national-news/lawmakers-engaged-over-communication-bill); the Union set out the media laws it wants repealed alongside the bill, and members said they could take stakeholder views into committee but not debate it publicly.
+An Act already in force showed what passing one is worth on its own: the press union reported on 7 August that [most public institutions have yet to appoint the information officers the Access to Information Act requires, and that twenty-one-day requests go unanswered](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/). No government response, compliance count or enforcement action is on record. The Communications Bill 2025, meanwhile, stayed in committee. Two Assembly committees [met the Press Union and the Media Council on 18 July 2026](https://thepoint.gm/africa/gambia/national-news/lawmakers-engaged-over-communication-bill); the Union set out the media laws it wants repealed alongside the bill, and members said they could take stakeholder views into committee but not debate it publicly.
 
 A second instrument was validated on [31 July 2026: the State Intelligence Service Bill](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service), at a workshop attended by the National Security Adviser, the Chief of Defence Staff, the Assembly's defence committee and civil society. The Adviser said the draft prohibits torture, unlawful detention and political targeting, requires judicial warrants and oversight for intrusive measures, and gives the Assembly review of the Service's budgets. Its threat frame is cybercrime, espionage, disinformation and organised crime, so it is where Gambian communications interception would sit. The text is not held, the Bill has not been tabled, and it does not appear in the Assembly's bills library, checked 2026-08-08.
 
@@ -135,6 +137,9 @@ Cyber cafés acquired licence conditions and then a clarification of them. The r
 
 A separate bill would meter what those records cover. An internet service provider [told Parliament on 14 August that mandatory consumption-based internet billing under the Kenya Information and Communications (Amendment) Bill 2025 could raise costs and create data-privacy risks](https://peopledaily.digital/business/faiba-warns-parliament-new-internet-billing-rules-could-raise-costs-and-threaten-privacy), metering at subscriber level implying retained usage records. No committee report or enactment date is published.
 
+
+The intellectual-property bill acquired its shape in public. Parliament [invited submissions on a draft that would merge the industrial property institute, the copyright board and the anti-counterfeit authority into a single regulator, replace the 2001 and 2008 statutes, and set rules distinguishing AI-assisted from AI-generated inventions](https://www.pulse.co.ke/story/the-intellectual-property-bill-2026-what-kenyan-bloggers-and-tiktokers-need-to-know-2026081618295613444).
+
 ## Lesotho
 
 No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the wiki does not hold.
@@ -142,6 +147,9 @@ No instrument was made, gazetted or brought into force in this window. [Reportin
 ## Liberia
 
 The same package, [set out on 17 July](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/), covers a split of infrastructure and service licences with rural incentives, tower-sharing rules, the country's first satellite regulations, an IMEI anti-theft regime and repatriation of the .lr country domain. None has been published as an instrument.
+
+
+One piece of it is now a signed instrument. The regulator [signed satellite communications guidelines on 19 August, after a consultation that ran from February to June](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html), and the [text sets five-year non-geostationary and ten-year geostationary landing rights, a US$250,000 direct-to-device service-provider licence fee with 9% of direct-to-device sales and a 0.5% universal-access contribution, mandatory data-protection and cybersecurity compliance plans, and a twelve-month transition for operators already here](https://lta.gov.lr/wp-content/uploads/2026/03/SATELLITE-COMMUNICATIONS-GUIDELINES.clean_.fv_.2.25.26-FINAL-VERSION.pdf). No licence has yet been issued under it on the record.
 
 ## Libya
 
@@ -211,6 +219,9 @@ On 29 July a claimant won the [first damages award](https://saharareporters.com/
 
 What the amended identity Act actually says reached the record on 11 August, in a law firm's reading rather than a gazetted text. On that reading the [identity commission becomes the root certification authority for a national public key infrastructure and the national biometric-data repository; use of the national identification number is mandatory across passports, banking, telecommunications and land dealings, while the Act states that proof of identity is not proof of eligibility or of citizenship; and unauthorised database access carries at least NGN10m or five years for an individual and NGN20m for a body corporate](https://www.mondaq.com/nigeria/constitutional-administrative-law/1829270/the-national-identity-management-commission-establishment-act-2026-key-new-provisions). The base does not hold the Act itself, and the commission's own platform capacity for compulsory use across fourteen sectors is separately recorded as not sized for it.
 
+
+The bench put its own view on the record. Fifty-four judicial officers [adopted a communique calling for stricter authentication standards for AI-generated evidence and a review of the digital-evidence, cybercrime and privacy statutes](https://www.vanguardngr.com/2026/08/digicivic-trains-judicial-officers-on-digital-rights/), naming genuine evidence dismissed as AI-fabricated as an emerging problem, questioning whether clicking agreement is meaningful consent, and asking for electronic case management, virtual hearings and privacy-protected judicial platforms. A communique carries no legal force and no legislative response has followed.
+
 ## Senegal
 
 The critical-infrastructure framework that was undated at the end of July reached parliament a fortnight later. A bill on protecting critical information infrastructure and digital security [was presented to the National Assembly's intercommission on 13 August and examined by its committees](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), proposing [a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), alongside [local hosting of public data, service continuity and personal-data protection](https://www.pressafrik.com/Securite-numerique-Bacary-Sarr-participe-a-l-examen-du-projet-de-loi-sur-les-infrastructures-critiques_a309846.html) under the state's technology-deal agenda. Four days later the ministry published its own account of the contents: obligations [graded by risk, with ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — and a National Cybersecurity Authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited service providers, domestic firms and skilled jobs. Every provision is the ministry's description; the text is not held, no adoption date or gazette reference is published, and nothing the bill proposes exists yet.
@@ -228,6 +239,9 @@ Mobile-money fraud reached Parliament. A legal analysis of 23 July found the [Na
 The Electronic Communications Amendment Bill was published, [exempting community networks from licensing](https://www.apc.org/en/news/how-community-connectivity-pioneers-are-changing-south-africas-digital-policy-and-regulation) and mandating spectrum sharing; submissions close on 21 August.
 
 The minister [backed the regulator](https://www.itweb.co.za/article/malatsi-backs-consumer-sentiment-on-data-expiry-debate/RgeVDMPRkPJvKJN3) in the review application brought by the two largest mobile operators against the data bundle roll-over rules. The Angolan kwanza became the [second settlement currency on the SADC real-time system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system), the first addition since 2013.
+
+
+Cross-border crypto acquired a draft rulebook. The Treasury and the central bank [published a draft manual for cross-border crypto activities for comment to 30 September, setting authorisation and reporting rules for crypto asset service providers and defining what counts as a cross-border crypto flow](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/), alongside the capital-flow regulations already in draft.
 
 ## South Sudan
 

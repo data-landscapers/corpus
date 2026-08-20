@@ -1,17 +1,21 @@
 ---
 title: China activities — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: geopol.china
-places: CPV; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB
-record: d3fae7f75d50
+places: DZA; CPV; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB
+record: fccbd9c83361
 ---
 
 # China activities: monthly update, July 2026
 
-*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+The country was named a [founding member, from 16 July, of a 29-country artificial-intelligence organisation headquartered in Shanghai](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/). No instrument of accession, obligation, contribution or programme of work is on the record here.
 
 ## Cape Verde
 

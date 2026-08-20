@@ -1,15 +1,15 @@
 ---
 title: Public debate and participation in policymaking — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: gov.discourse
-places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; GAB; GHA; GIN; LBR; MLI; MUS; RWA; STP; SEN; SYC; TGO; UGA; ZMB
-record: 766c2a2ccddf
+places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; GAB; GHA; GIN; LSO; LBR; MLI; MUS; MAR; RWA; STP; SEN; SYC; ZAF; TGO; UGA; ZMB
+record: e61d7cf5d7d6
 ---
 
 # Public debate and participation in policymaking: monthly update, July 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -57,7 +57,11 @@ The same week the ministry took the governance argument outward and inward at on
 
 ## Guinea
 
-Neither the regulator ARPT, the operators nor the internet service providers issued an explanation for the social-media restriction. The precedent is on the record rather than inferred: under the post-coup transition a government spokesman owned a three-month digital cut and said that in Guinea the internet is not a right.
+Neither the regulator ARPT, the operators nor the internet service providers issued an explanation for the social-media restriction, and the silence then had to cover more than a restriction: [a total two-hour national outage on 7 August, across mobile and fibre alike, was traced to the state landing-station operator, whose officials and the regulator both declined to explain it](https://lelynx.net/2026/08/internet-coupe-en-guinee-black-aout-total/). The precedent is on the record rather than inferred: under the post-coup transition a government spokesman owned a three-month digital cut and said that in Guinea the internet is not a right.
+
+## Lesotho
+
+The state opened a channel for hearing what its digital services are actually like to use: a [public survey opened on 9 August covering access, usability, trust and skills gaps across online applications, digital payments and health and education platforms](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/), run with the United Nations development programme as part of a digital readiness assessment. No closing date, sample target or commitment to publish the results is stated, so what it will settle is not yet knowable.
 
 ## Liberia
 
@@ -74,6 +78,10 @@ The same 3 August the cybercrime pole [sentenced Chahana Takiou to 12 months wit
 The month's sharpest domestic contribution was an argument about priority. A [named analyst published on 2 August](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867) the case that contract enforcement rather than technology limits growth, citing the World Bank's 2025 indicators — 42.2 on ease of commercial dispute resolution against Singapore's 73.3 — and more than 70,000 cases pending at end-2025. Its digital prescription is digitalised case management alongside a small-claims process. Analysis, not evidence.
 
 The month's other forum was external in origin. At the national Internet Governance Forum, founded by the Halley Movement, the [Blockchain for Good Alliance and the exchange Bybit met the Vice President and the ICT minister](https://www.newswire.ca/news-releases/blockchain-for-good-alliance-and-bybit-join-the-mauritius-internet-governance-forum-to-advance-digital-trust-for-small-island-states-812258483.html) to discuss artificial intelligence, cybersecurity and digital-trust frameworks for small island developing states. The record held is the visiting alliance's own press release; no forum programme, outcome document or attendance figure is held.
+
+## Morocco
+
+Simplification is law and is not yet practice. A member's written question to the digital transition ministry put the ombudsman's 2025 finding on the record: [agencies still ask citizens for paper copies of documents the administration already holds electronically, and impose undisclosed extra conditions](https://nichan.ma/361721/), which is what the procedural simplification law was passed to stop. No ministry answer is held. The complaint from the other end is about coverage rather than paperwork: residents of one Sefrou commune [are asking for new or strengthened transmission stations, describing reliable connectivity as a condition of schooling, work and emergency access](https://www.adyare.ma/32404.html).
 
 ## Rwanda
 
@@ -92,6 +100,10 @@ A ministry legal adviser stated that the state has [worked on social-media regul
 [Parliament amended the Seychelles Broadcasting Corporation Act in June 2026](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/), transferring greater power over the appointment and dismissal of the public broadcaster's board from the independent Constitutional Appointments Authority to the President. The base holds no primary text of the amendment; what it holds is Afrobarometer's August dispatch, which reports it citing Broadcast Media Africa and the International Press Institute, and sets it against the survey it was publishing.
 
 That survey, fielded in 2025, finds [45% of Seychellois calling the media somewhat or completely free, down from 51% in 2022, with 52% saying it is not very or not at all free](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) — a decline recorded on a media environment that Reporters Without Borders ranked 35th globally in 2026, up ten places. Appetite for oversight is not in doubt: [78% want the media to investigate government mistakes and corruption constantly, and 85% back the right to publish without government interference](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/).
+
+## South Africa
+
+The rights commission put a position on the record about who should arbitrate what is true online. Launching its policy brief on information integrity, [a deputy justice minister said government should not become the custodian of truth on disinformation, while warning against leaving the information environment to private platforms' algorithms](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html), grounding the balance in the constitutional rights to expression, political participation and access to information. It is a brief rather than an instrument, and no legislative proposal follows from it on the record.
 
 ## Togo
 

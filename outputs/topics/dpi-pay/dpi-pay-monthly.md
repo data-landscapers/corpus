@@ -1,15 +1,17 @@
 ---
 title: Digital Payments and Fintech — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: dpi.pay
 places: DZA; AGO; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 195abe8e6290
+record: 0be34e9c3033
 ---
 
 # Digital Payments and Fintech: monthly update, July 2026
 
 *44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -21,7 +23,7 @@ Two payment milestones fell within a fortnight. The central bank completed migra
 
 ## Botswana
 
-The month's two payments developments are both commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. Nine days later a remittance operator [issued a card on its wallet through a commercial bank and an international scheme](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/), adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only; here too there is no customer count, issuance volume or fee schedule on the record. The national payment switch and the citizen wallet both remain at Planned.
+The month's three payments developments are all commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. Nine days later a remittance operator [issued a card on its wallet through a commercial bank and an international scheme](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/), adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only; here too there is no customer count, issuance volume or fee schedule on the record. A commercial bank and an international card scheme then [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Botswana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Botswana. The national payment switch and the citizen wallet both remain at Planned.
 
 ## Burkina Faso
 
@@ -95,9 +97,15 @@ Enforcement of the digital-credit regime opened. A notice of 20 July recorded th
 
 The dominant operator opened a channel to the next cohort of providers instead. A [three-month fintech accelerator launched on 12 August across Accra, Kumasi and Tamale](https://techafricanews.com/2026/08/17/hubtel-partners-with-momo-fintech-lab-to-back-ghanas-next-fintech-innovators/), with a domestic technology firm as its official technology partner. No cohort size, selection criteria, funding or equity terms are stated.
 
+
+Card acceptance widened from outside the domestic rails. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Ghana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Ghana.
+
 ## Guinea
 
 [NimbaPay opened for operations on 22 July 2026](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/), making banks, electronic-money institutions and microfinance institutions interoperable nationwide. The governor of the central bank [put financial-account access at 4% in 2011 and about 36% in 2024](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/), and named state payments and cross-border payments as the next phases. It was [built in 127 days on Mojaloop open source by Guinéenne de Monétique, with AfricaNenda and Thitsa Works, expressly so that the state retains control of the infrastructure](https://www.ecofinagency.com/news-digital/2807-57779-guinea-launches-nimbapay-its-national-instant-payment-system). The following day the central bank stated that [more than 70% of payments are still made in cash even at merchants already equipped with electronic solutions](https://mediaguinee.com/2026/07/paiements-digitaux-ofmg-la-cciag-et-la-bcrg-engagent-une-demarche-pour-encourager-les-transactions-electroniques-en-guinee/), and named interoperable merchant QR codes and fiscal incentives as workstreams under study. Its [project register records the RTGS migration to ISO 20022 held by unpaid invoices to the supplier CMA and customs clearance, and PAPSS participation with no transaction recorded](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/).
+
+
+The strategy that would order all of this is not yet written. The central bank [advertised a four-month consultancy on 14 August to draft a National Payment Systems and Instruments Strategy for 2027 to 2030](https://fr.linkedin.com/posts/africanenda_africanenda-foundation-et-la-banque-centrale-activity-7494021276999581696-R9o0), with applications closing on the 31st. No text, budget or adoption date exists.
 
 ## Kenya
 
@@ -115,6 +123,9 @@ The central bank's fee schedule for interoperable transfers was reported on 5 Au
 
 On 28 July the finance minister named the [national electronic payment switch as the enabler of a 24-hour economy, with creative-sector support to enter the 2027 budget](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html). No go-live date was given.
 
+
+The central bank also put on record how the system was built. Its own account is that it worked [to a business case rather than to a regulation and stood the system up in 73 days, sequencing government payments first - civil-servant salaries off cheques and into wallets, which gave the integrated mobile-money operators access to float](https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1), against a national target of half of adults holding a bank or wallet account.
+
 ## Libya
 
 On 30 July the Central Bank said it had received July disbursement authorisations from the Ministry of Finance and referred them to the commercial banks for execution through Ratibak Lahzi, putting enrolment at [about 1.7 million public employees, 76%](https://www.lananews.com/ar/?p=498421), and said work continues with the ministry to automate complaint intake and the handling of unexecuted salaries.
@@ -126,6 +137,9 @@ On 3 August MVola's new director general [gave the first account of the platform
 ## Malawi
 
 On 25 July the central bank's expected banknote replacement cost for 2026 was reported at MWK 69.8bn against MWK 50.6bn in 2025, with an economists' association president naming government levies on digital money transfers as a reason cash use persists.
+
+
+Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), which gives the platform operational and governance rules it did not have. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Malawi.
 
 ## Mali
 
@@ -166,6 +180,9 @@ Taxation moved in the other direction. Peer-to-peer and over-the-counter traders
 Two structural changes to the acceptance side arrived in mid-August. A Nigerian payments company [gained direct access to a global card network as a non-bank acquirer](https://businessday.ng/technology/article/teamapt-gains-direct-mastercard-network-access-in-strategic-payments-expansion/), letting it onboard licensed merchants for card acceptance without a bank sponsor; no merchant count, pricing or settlement arrangement is stated, and the base holds no central bank statement on non-bank acquiring. And the channel mix reversed: [ATM transactions rose 6.6% year on year in the first quarter of 2026 with value up 64.6% to NGN26.3tn, while point-of-sale volumes fell 19.9% to 2.92bn](https://techcabal.com/2026/08/17/nigerians-moved-19-4-billion-through-atms/), the agent-banking limits of October 2025 — single-provider terminals, a 70-metre radius rule and a NGN1.2m daily cap — constraining the agent channel as the central bank pushes bank ATM expansion. That is a policy effect rather than a preference shift, and no measure exists of what it did to access in places with no bank branch.
 
 The virtual-asset track kept admitting. Three further firms were [named as admitted to the securities regulator's incubation programme in the week to 17 August](http://www.wearetech.africa/fr/fils/breves/breves-simple/le-nigeria-integre-trois-nouvelles-entreprises-crypto-dans-son-incubateur-virtuel), and a separate account describes the state [coordinating the central bank, the securities regulator, the tax authority and the financial-intelligence agency into a regulatory consortium for virtual assets rather than restricting the sector](https://techcabal.com/2026/08/17/nigerias-plan-for-crypto-and-virtual-assets/), pairing the incubation programme and revised digital-asset capital requirements of NGN2bn for exchanges and custodians with an August virtual-asset tax framework. The counts across accounts overlap and are not reconciled.
+
+
+The rail underneath all of it began to change. The clearing operator [reports 26.55 million transactions worth 1.4 trillion naira across 48 institutions in the early phase of the ISO 20022-compliant stack that replaces the instant-payments system](https://theeagleonline.com.ng/nibss-rolls-out-nps-as-nip-successor/), on a multi-currency platform carrying payments, identity and data together. The figures are the operator's own.
 
 ## Rwanda
 
@@ -217,9 +234,14 @@ A technical meeting in Zanzibar from 7 to 11 July [advanced the governance, comm
 
 August supplied the adoption side of the same picture, from two directions. The government is [promoting affordable-smartphone financing to widen electronic-payment take-up, with active mobile money accounts up 7.5% to 87.05 million and smartphone penetration at 44.74% in June 2026](https://dailynews.co.tz/govt-spurs-e-payments/), as the central bank directs eight business sectors to adopt electronic payment systems within six months from January 2027. And in the countryside an operator's agricultural service [pays crop proceeds straight to farmers' phones, reporting more than TSh150bn paid to farmers in two southern regions in the 2025/26 season and over TSh50bn already in 2026/27](https://dailynews.co.tz/mixx-digital-payments-boost-farmers-incomes-businesses/), covering [more than 2,000 coffee and pigeon-pea farmers in two northern regions](https://www.thecitizen.co.tz/tanzania/news/national/over-2-000-northern-tanzania-farmers-benefit-from-mixx-digital-services-5551992) and [expanding into the southern highlands](https://www.thecitizen.co.tz/tanzania/news/national/mixx-by-yas-eases-payments-for-southern-highlands-farmers-5552008), alongside linked credit and health insurance. Every figure is the operator's own, given at a promotional exhibition at which it also awarded vehicles and phones to loyal users, and no farmer total, fee schedule or default rate on the linked credit is published.
 
+
+Acceptance widened from outside as well. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Tanzania on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Tanzania.
+
 ## Togo
 
 Payments moved on a deadline. Retirement allowances [began paying by bank transfer and mobile money in July](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/), and allowances stop on 31 August for beneficiaries who have not registered payment details; no beneficiary count or registration rate is published, and no alternative is stated for someone without a bank account, a handset or an identity document. The regional [deadline to connect to the instant payment platform moved from 30 June to 30 September](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi), and to 30 June 2027 for microfinance institutions. A [treasury prepaid card was announced](https://www.togofirst.com/en/public-management/2407-19673-togo-plans-prepaid-cards-to-digitize-public-payments) with no timetable and no confirmation that a file has been lodged with the central bank.
+
+The month's other payments development is private and points outward. A domestic financial-technology firm founded in 2024 [runs a single platform interconnecting bank transfers, mobile wallets and dollar stablecoins, converting into the naira, shilling, cedi and the CFA francs, and exposing payment operations to autonomous software agents](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos). No transaction volume, corridor count, licence or customer figure is stated, and the account is a profile rather than a filing.
 
 ## Tunisia
 
@@ -235,14 +257,25 @@ A fourth opened a settlement route rather than a product: a commercial bank [int
 
 The scale underneath all of it is in the regulator's quarterly report: [2.55 billion mobile money transactions in the second quarter of 2026, up from 2.37 billion in the first, on 59.5 million registered subscriptions, with telecommunications revenue at UGX 1.73 trillion](https://www.pulse.ug/story/uganda-mobile-money-transactions-q2-2026081410364799573).
 
+
+A fourth arrangement opened on 19 August, and it is card rather than wallet: a commercial bank and an international scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Uganda](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both. The merchant count is given for the nine markets together.
+
 ## Zambia
 
 On 27 July a vendor manager stated on the record that the National Financial Switch's intended reduction in customer transaction costs has not happened yet, that the central bank is only now focusing on it, and that the electronic clearing house is not yet live on the regional instant-payment scheme ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)).
 
 Retail participation in the securities market is the one digital adoption figure the month produced: registered users of the exchange's mobile trading application [rose to 51,791 in July from 49,611 in June](https://itweb.africa/article/digital-push-powers-zambian-bourse/lLn14MmQzolMJ6Aa). It is the exchange's own count of registered users, not of active traders or funded accounts.
 
+
+The regional rail above the domestic one acquired its rules. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Malawi](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W). No Zambian transaction volume, participant count or fee schedule is published.
+
+Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zambia on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zambia.
+
 ## Zimbabwe
 
 The road authority took handover of an expanded toll plaza on 29 July with two of six lanes reserved for radio-frequency tag holders, a second plaza due the next day and a third under construction, against a stated programme covering all 29 tollgates; the announcement states nothing on retention, access or legal basis for the movement record the tags generate ([handover account](https://263chat.com/zimbabwe-widens-key-tollgates-as-e-toll-era-begins/)).
 
 The switch operator reported interoperable quick-response payments in rollout and participation in a pan-African settlement system, with no merchant, acceptance-point or transaction count ([conference account](https://www.zbcnews.co.zw/electronic-transactions-top-zig1-trillion-as-zimbabwe-deepens-digital-finance/)).
+
+
+Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zimbabwe on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zimbabwe.

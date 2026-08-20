@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d3bffd5fb6f6
+record: ffa8bdfd6d6d
 ---
 
 # Connectivity: monthly update, July 2026
@@ -75,7 +75,7 @@ Two positions describe the same weakness from either end. The country has [relie
 
 A low-orbit satellite operator [went live by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) at XOF 28,746 a month for residential service, with hardware from XOF 148,148, on a twelve-month provisional licence reviewable on service quality. On 31 July the minister said regional satellite capacity would be routed through the universal-service bodies, with a working session on terms due the following week; no terms, tariff or timetable was stated. No 5G launch occurred against the announced July 2026 date. Ministry figures given on 13 July put telecommunications penetration above 130% of population and [about 38,000 km of optical fibre](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation).
 
-On protecting what is already laid, an operator and its vendor [completed a proof of concept in Abidjan that detects vibrations around fibre ducts and classifies them to flag third-party excavation before a cut happens](https://itweb.africa/article/mtn-is-promoting-ai-driven-fibre-cut-sensing-to-reshape-the-resilience-of-digital-infrastructure-in-africa/VgZeyqJlBLV7djX9), on trials run since 2025. The account is vendor-issued and states no commercial deployment, coverage or date.
+On protecting what is already laid, an operator and its vendor [completed a proof of concept in Abidjan that detects vibrations around fibre ducts and classifies them to flag third-party excavation before a cut happens](https://itweb.africa/article/mtn-is-promoting-ai-driven-fibre-cut-sensing-to-reshape-the-resilience-of-digital-infrastructure-in-africa/VgZeyqJlBLV7djX9), on trials run since 2025. The account is vendor-issued and states no commercial deployment, coverage or date. The cable that carries much of the traffic had already failed and been mended: the [2Africa branch into the country came back into service on 2 August after repairs](https://subseacables.blogspot.com/2026/08/2africa-ivory-coast-branch-live-again.html), with WACS repairs expected the week after. Neither the outage's start nor its cause is stated.
 
 ## Djibouti
 
@@ -193,7 +193,7 @@ On 30 July the Semaine du Numerique's opening panel [set a universal connectivit
 
 The regulator's provisional selection for satellite telecommunications licences was [reported on 7 July](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite). Thirteen firms took the dossier and nine bids were submitted across two lots. For mobile personal satellite communications, [BRAINSAT at US$800,000 and VDM at US$50,000 were retained](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite), VDM required to align its offer with BRAINSAT's; for the sale of satellite capacity, [BRAINSAT at US$3 million and Mattel at MRU 6.5 million](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite) were retained on the same condition. No launch date or licence issue is reported, and the operating conditions, licensee obligations and control mechanisms are still to be defined. The account is Agence Ecofin's reading of the regulator's communiqué, which is not held.
 
-The Ministry of Digital Transformation and Administrative Modernisation said on 24 July that [all electronic-communications operators have activated IPv6](https://www.alakhbar.info/6a62c5feac143500012ee215/) across their networks and services, and that the national committee monitoring the transition recorded tangible progress, with one unnamed operator past 15% of subscribers migrated against a 25% end-2026 target. The ministry's stated rationale is sovereignty and security rather than address exhaustion — IPv6 as the precondition for 5G, cloud, internet-of-things and AI services.
+The second operator [launched a commercial 5G network at Nouakchott on 10 August under the digital transformation minister](https://ghabess.net/23385); no coverage, tariff or subscriber figure accompanies it. The Ministry of Digital Transformation and Administrative Modernisation said on 24 July that [all electronic-communications operators have activated IPv6](https://www.alakhbar.info/6a62c5feac143500012ee215/) across their networks and services, and that the national committee monitoring the transition recorded tangible progress, with one unnamed operator past 15% of subscribers migrated against a 25% end-2026 target. The ministry's stated rationale is sovereignty and security rather than address exhaustion — IPv6 as the precondition for 5G, cloud, internet-of-things and AI services.
 
 ## Mauritius
 
@@ -205,11 +205,17 @@ An operator and a vendor placed a dual-band radio configuration into commercial 
 
 The transitional reduction of mobile interconnection tariff asymmetry took effect on 1 July 2026, running to 31 January 2027, with full symmetry from 1 February 2027, recorded in the incumbent's own half-year filing ([operator filing](https://www.iam.ma/documents/66341/0/Maroc+Telecom+-+Rapport+financier+S1+2026+%282%29.pdf/261de29d-cee8-407f-1e28-dbb3a53f985f)).
 
+
+The vendor has since put figures on it: [roughly a kilometre of extra range, an 83% download-speed gain and 3.2 times more concurrent users per site](https://shore.africa/2026/08/12/inwi-partners-huawei/), against a regulator count of 19.4m mobile subscriptions and a 34.04% share for the operator at the end of March. The performance gains are the vendor's own.
+
 ## Mozambique
 
 The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since. A [second account of the launch](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/) names the two suppliers and sets the portal alongside World Bank project figures on affordability, recorded under inclusion below.
 
 The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023. No buyer, share, valuation, timetable or treatment of the debt is stated.
+
+
+The ministry put numbers on how far the connecting has got and how far it is meant to go: [149 localities and 418 schools connected, against a target of at least 300 localities, up to 4,000 schools and around 10,000 new 4G and 5G access points](https://www.agenceecofin.com/actualites-numerique/1808-140924-inclusion-numerique-le-mozambique-veut-connecter-300-localites-aux-services-telecoms). Both ends are the ministry's own and no completion date is given, which leaves a target without a deadline against a rural access rate the regulator itself puts at a quarter of the urban one.
 
 ## Namibia
 
@@ -229,9 +235,15 @@ The backbone programme meanwhile looked outward before it broke ground. Nigerian
 
 On the tower estate, shareholders of the tower company [approved the acquirer's cash buyout of the 75.3% it does not already own](https://techcabal.com/2026/08/11/ihs-towers-profit-hit-by-rising-diesel-and-merger-costs/), the target's first-half revenue rising 8.2% to US$844m while rising Nigerian diesel costs and acquisition charges cut operating income 38%. Federal strategic review of the transaction is the last position the base holds on the state's side.
 
+
+Two build programmes put dates on themselves. The government says resource mobilisation and contracting are complete for [about 3,700 towers to be deployed from October for more than 20 million people in unserved and underserved communities, with the first being installed in Delta State and riverine communities targeted before mid-2027](https://guardian.ng/business-services/fg-to-expand-internet-access-for-20m-nigerians-in-new-3700-tower-deployment/); no contract value or supplier is stated. Where fibre does not reach at all, an operator [now runs nearly a dozen light-beam links across Lagos serving banks, hotels, internet providers and a utility, and plans to extend to Abuja, Ibadan and Kano](https://datacentresafrica.com/taara-and-liquid-use-light-beam-technology-to-expand-data-centre-capacity-to-large-enterprises-in-lagos-nigeria/). A state airport also [activated a multi-gigabit backbone on 8 August over a commercial submarine-fibre network, to carry passenger processing, operations and real-time security monitoring](https://africanpilot.africa/akwa-ibom-victor-attah-internet/).
+
 ## Rwanda
 
 The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the older, second-generation network, expressly conditional on coverage, voice reliability including emergency calls, continuity of mobile money and payments, migration of dependent systems, and the availability of affordable handsets. The technical precondition for the switch-off schedule fell into place days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no completion date given. The source makes no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
+
+
+The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own.
 
 ## Senegal
 

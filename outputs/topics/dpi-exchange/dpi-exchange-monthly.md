@@ -1,15 +1,21 @@
 ---
 title: Data Exchange — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: dpi.exchange
-places: AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: 72721597065f
+places: DZA; AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; ZMB; ZWE
+record: 024e9714661f
 ---
 
 # Data Exchange: monthly update, July 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+Interconnection acquired a deadline before it acquired its rules. A think tank's first digital brief records that the [president gave the sectors one month from 12 July to interconnect through the national data centre](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/), and nothing has been reported against that date. The two referentiels the interoperability decree makes the obligations wait on are still untraced, so the instrument that would carry the interconnection remains unenforceable while the timetable for it has already run.
 
 ## Angola
 
@@ -23,7 +29,7 @@ A second kind of data exchange entered the record in August, and it is regional 
 
 ## Cameroon
 
-On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published.
+On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published. At home the layer that would carry any of this acquired an owner rather than a design: at the opening of the national internet governance forum on 18 August the posts and telecommunications ministry [tasked the state operator CAMTEL with carrying national data and infrastructure interoperability](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/), resting the mandate on its backbone, transmission, access and hosting infrastructure. No instrument, timetable or budget accompanies it.
 
 ## Chad
 
@@ -39,7 +45,7 @@ One exchange did go into use, in the narrow place where the state examines itsel
 
 The minister told an information-systems seminar on 21 and 22 July that the first services onto the interoperability platform [had been chosen largely by volunteering rather than against user priorities](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite), against targets of 100 services online by end-2026 and 700 within three years. No count of services in production has been published. Fourteen migration bodies met on 30 July to [co-design a single collection and profiling tool for returning migrants](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) and a roadmap for transferring their data into one directorate; no legal basis, data-protection safeguard or timetable for pooling personal data across fourteen bodies is stated.
 
-The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held.
+The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held. The board for the cashew sector began the same sequence a step earlier, [launching a producer and plantation census at Korhogo on 11 August](https://affairesetentreprises.ci/2026/08/17/cote-divoire-le-ccak-lance-le-recensement-des-producteurs-danacarde-premiere-etape-vers-une-tracabilite-de-la-filiere/) as the database that any producer card or traceability system would have to stand on; no timetable or budget for it is stated. Across the border, Mali's customs administration told a Bamako roundtable that its [interconnection with Ivorian customs has a transit-goods data pilot running](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/); the account is Mali's, no Ivorian statement is held, and no completion date for the full interconnection is given.
 
 ## Djibouti
 
@@ -91,6 +97,9 @@ The health ministry issued tender addenda on 27 July 2026 that [make financial, 
 
 The Treasury is building the other kind of exchange — one that looks at the money coming in. It is [rolling out a Development Partners Management Information System, expected to launch before the end of 2026](https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds), to consolidate data on development-partner commitments, disbursements and funded programmes for planning and oversight. No supplier, cost, or statement of whether the consolidated data will be published is reported.
 
+
+The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
+
 ## Libya
 
 The government issued [Decision No. 348 of 2026 on 17 July](https://libyaherald.com/2026/07/libyan-government-issues-decision-on-implementation-of-unified-economic-number-project), authorising the Ministry of Economy and Trade to implement the Unified Economic Number as a single national identifier for every registered economic, commercial and investment entity, to be run by linking databases and exchanging information across ministries, agencies and public institutions, under a National Council chaired by the minister. No timetable, budget, vendor or legal basis for the linkage is stated.
@@ -98,6 +107,9 @@ The government issued [Decision No. 348 of 2026 on 17 July](https://libyaherald.
 ## Malawi
 
 On 5 August the revenue authority signed an arrangement with its South African counterpart for real-time customs data exchange, with no go-live date and no published purpose-limitation, retention or reciprocity terms ([signing account](https://itweb.africa/article/malawi-sa-sign-digital-customs-deal/raYAyqorGalMJ38N)).
+
+
+Two days later the South African side notified the update from its end, [publishing the arrangement for automatic exchange of customs information together with a draft rule amendment](https://www.freightnews.co.za/article/international-treaties-agreements-maas-on-customs-update). The rule is still in draft and the go-live date is still unstated.
 
 ## Mali
 
@@ -116,6 +128,9 @@ The companion [Finance Bill, before Parliament from 27 July](https://lexpress.mu
 ## Morocco
 
 A national water digital twin was described publicly on 28 July, to rest on a sovereign national data platform hosted in Morocco and fuse sensor networks, satellite observation and data from the basin agencies, the planning commission and engineering consultancies. The project lead put a first pilot 18 to 24 months away and gave no cost, budget line or procurement route ([project account](https://medias24.com/2026/07/28/jumeau-numerique-de-leau-ce-quil-faut-savoir-sur-ce-pillier-du-pole-tec-1732383/)).
+
+
+A platform already carrying national data went under inspection instead. The health ministry [put its national health-data platform through a security and performance audit running from July to September, covering infrastructure, application, database and cybersecurity on a 170,000 dirham budget](https://santemag.ma/sante-numerique-le-msps-passe-sa-plateforme-nationale-dhis2-au-crible/), with no cyberattack or breach cited as the trigger. No findings are published.
 
 ## Mozambique
 
@@ -136,6 +151,9 @@ A government enterprise-architecture account of 3 August records [platforms stil
 ## Sierra Leone
 
 The finance ministry is [piloting a data exchange layer on X-Road](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/). No production date, list of connected agencies or governance rules is published.
+
+
+The exchange that already carries the state's money was found to be carrying something else. The anti-corruption commission [puts over 300 billion leones lost to backend manipulation of the customs system, with processed declarations deliberately deleted and dormant bank-teller profiles used to validate transactions after the account holders had left their institutions](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/), and reasonable grounds to suspect coordinated collusion. The finding and the figure are the commission's own; no revenue-authority response, prosecution or remediation is on record.
 
 ## Somalia
 

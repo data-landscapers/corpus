@@ -1,15 +1,17 @@
 ---
 title: Use of satellite data — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: data.satellite
 places: AGO; COG; EGY; GHA; LBR; LBY; NAM; NER; RWA; SYC; SLE; ZMB
-record: 1a4d4e5d315c
+record: 05213e8c6bb0
 ---
 
 # Use of satellite data: monthly update, July 2026
 
 *12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 

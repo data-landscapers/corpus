@@ -1,15 +1,17 @@
 ---
 title: Data protection — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: gov.protect
 places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: cdcf000249c2
+record: 28e6ac90f7e7
 ---
 
 # Data protection: monthly update, July 2026
 
 *32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -79,6 +81,9 @@ On 4 August the data-protection regulator published [draft guidance on offshore 
 
 The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) that it is investigating three licensed operators on a complaint dated 19 May 2026, with police requesting its entire record on the licensees back to 2018.
 
+
+The regulator also drew the electoral process inside the Act. The data commissioner [said guidance now binds every organisation touching voter data, from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data), as unsolicited political messaging spreads ahead of the 2027 election. No enforcement action under the guidance is on record.
+
 ## Liberia
 
 The telecoms regulator [fined an operator LRD 4m for issuing a subscriber's SIM to a third party without authorisation](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/). The penalty came under telecoms powers rather than data-protection law — which is the point, since the Act that would have supplied the latter is unsigned.
@@ -115,6 +120,9 @@ On 28–29 July the Federal High Court [upheld the data-protection commission's 
 
 Its other August move was institutional rather than adversarial: the commission and the securities regulator [agreed to deepen collaboration on data-protection compliance in the capital market](https://techeconomy.ng/ndpc-sec-strengthen-collaboration-on-data-protection-and-investor-privacy), the commission's head visiting the regulator in Abuja and being invited to its compliance summit. No memorandum, joint supervisory arrangement, compliance standard or enforcement commitment is stated.
 
+
+A civil-society platform began watching the same election from the data side, [tracking parties' websites and social media for privacy violations and access restrictions, piloted at the 15 August state governorship poll](https://www.nationalrecord.com.ng/citad-launches-pawsom-monitor-to-track-digital-rights-breaches-ahead-of-2027-elections/). No findings from the pilot are published.
+
 ## Senegal
 
 The data-protection reform reached a [finalisation workshop for the bill and its implementing decree, rewritten against the data and AI strategies](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/), with no adoption date or published text.
@@ -126,6 +134,9 @@ The communications minister restated on 22 July the request that Meta [delay the
 ## South Africa
 
 The data-protection statute has been enforceable since 2021 and operates as an adequacy model rather than hard localisation: [cross-border transfers are permitted where equivalent protection, consent or contractual necessity applies, with the controller accountable](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/). The [maximum fine is R10m against a measured average breach cost of R44.1m](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/) — the penalty is a fraction of the harm it is meant to deter.
+
+
+The supervisor said plainly what it cannot do. At a webinar on 18 August the regulator [said it has no capability to test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), while the rights commission reframed misuse of personal information as a constitutional harm bearing on dignity, equality and access to services rather than a cybersecurity one. A peer-reviewed review published four days earlier [records South Africa among three of four countries studied that have not signed the continental data convention, and finds all four health-data governance frameworks fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
 
 ## Sudan
 

@@ -1,15 +1,15 @@
 ---
 title: Digital Identity and CRVS — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: dpi.id
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 05ff0d1fab0f
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 0b6c277a97a4
 ---
 
 # Digital Identity and CRVS: monthly update, July 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -67,7 +67,7 @@ A sector chief in Walikale told the provincial interior division on 23 July that
 
 ## Egypt
 
-Identity gained a second biometric front end and a liability problem in the same month. The central bank governor launched [Haweya, registering face and fingerprint biometrics and enabling remote account opening at 37 banks](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion), and the [national identity application reached a second release adding liveness detection](https://gate.ahram.org.eg/News/5813424.aspx). Neither carries an enrolment count or a governing decree. Against that, the telecommunications regulator [stated that registration alone does not establish criminal liability](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) after lines were found registered to people without their knowledge, after reports of a nineteen-year-old sentenced in absentia to 25 years in a case turning on a line registered in his name in 2024; it says it is revising the rules towards biometric subscriber verification, with no date or target stated. Within a week the revision acquired shape: the regulator [tightened the registration rules, referred the four mobile operators to the prosecution and set a unified national digital-identity project alongside](https://gate.ahram.org.eg/News/5887018.aspx), and is [expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry](https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case). Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case turned on. The health ministry is separately [stated to have taken birth and death registration electronic nationwide](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444), on the development plan's own word and with no coverage rate published.
+Identity gained a second biometric front end and a liability problem in the same month. The central bank governor launched [Haweya, registering face and fingerprint biometrics and enabling remote account opening at 37 banks](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion), and the [national identity application reached a second release adding liveness detection](https://gate.ahram.org.eg/News/5813424.aspx). Neither carries an enrolment count or a governing decree. Against that, the telecommunications regulator [stated that registration alone does not establish criminal liability](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) after lines were found registered to people without their knowledge, after reports of a nineteen-year-old sentenced in absentia to 25 years in a case turning on a line registered in his name in 2024; it says it is revising the rules towards biometric subscriber verification, with no date or target stated. Within a week the revision acquired shape: the regulator [tightened the registration rules, referred the four mobile operators to the prosecution and set a unified national digital-identity project alongside](https://gate.ahram.org.eg/News/5887018.aspx), and is [expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry](https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case). Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case turned on. The scale of the problem showed in the complaint traffic: the regulator [logged over 3,000 line-fraud complaints and 100,000 call-centre inquiries in two days](https://www.egyptindependent.com/egypt-is-cracking-down-on-phone-line-fraud-ntra-assures/), saying it checks each disputed registration against the provider's own records. What the fix itself costs is now being asked in public: a member of parliament [has pressed the government on what institutional framework governs collection, storage and access to the facial-recognition data taken at registration](https://www.egyptindependent.com/mp-raises-concerns-over-egyptian-state-collecting-facial-recognition-data/), and digital-rights researchers argue that [biometric data cannot be reissued once compromised, which makes the protection framework the precondition rather than the sequel](https://www.madamasr.com/en/2026/08/12/feature/society/privacy-chaos-from-fraudulent-sim-registration-to-biometric-data-collection/). The health ministry is separately [stated to have taken birth and death registration electronic nationwide](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444), on the development plan's own word and with no coverage rate published.
 
 ## Ethiopia
 
@@ -81,7 +81,7 @@ What is not on the record is the counterweight. A published critique argues the 
 
 ## Gambia
 
-The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. No enrolment or issuance figure has been published since, so its reach is unestablished.
+The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. On 7 August the interior ministry [began a nationwide rollout of new ten-year biometric national identity cards, with registration opening simultaneously at six centres](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/), produced with a Ghana-based supplier. No enrolment or issuance figure has been published since launch, so the system's reach is unestablished.
 
 ## Ghana
 
@@ -127,6 +127,10 @@ On 21 July an editorial account [set out the E-AES passport's specification](htt
 
 On 24 July the Council of Ministers [adopted a draft ordinance formalising the cahier de recensement](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-29-sgg/), the village-level register from which family record books are issued, replacing Loi n06-023 of 28 June 2006.
 
+## Mauritania
+
+The identity application is now load-bearing, and the month showed what that means. It [carries about 1.5 million citizens and 554,027 remote services, and underpins identity verification for the state services portal's fifteen-plus services and for private financial applications](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) — and a full day of scheduled maintenance on 8 August took all of it down at once. The usage figures are the reporting outlet's; no operator statement on the outage or on redundancy is held.
+
 ## Mauritius
 
 The same omnibus also makes immigration permits issuable in digital form and imposes a digital travel authorisation on visa-exempt arrivals.
@@ -158,6 +162,9 @@ On 27 July an account of the [restructured WURI-Niger project](https://www.lesah
 ## Nigeria
 
 Identity gained infrastructure and kept its gap. The passport became [cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) on 16 July; the identity authority [took the national root certification authority over from NITDA](https://techafricanews.com/2026/07/22/nitda-and-nimc-deepen-partnership-to-accelerate-nigerias-digital-public-infrastructure/) on 21 July; and [V-Pass went live](https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem) for airport security checks and boarding on the number and face biometrics. Registration stands at [136 million against a target of 180 million by 31 December](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/), leaving about 100 million people uncaptured on the information minister's own figure. The root certification authority it took over also created a conflict: the NIMC Act 2026 makes the identity commission the root authority while the [still-pending Digital Economy and E-Governance Bill carries its own electronic-signature provisions](https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/), and which instrument governs digital signatures is unresolved.
+
+
+Two identity systems moved in opposite directions. The federal government [signed a memorandum on 12 August to issue cooperatives a verification number and their members an identity credential, opening a six-month revalidation exercise](https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/), with no cooperative or member count, cost, or link to the foundational register stated. Against that, an observer mission at the state governorship election of 15 August [called for a full post-election technical audit of the biometric voter-accreditation system, for the electoral commission to publish the causes of authentication failures, and for uniform guidance on downloadable voter cards before 2027](https://dailypost.ng/2026/08/16/osun-election-yiaga-africa-calls-for-bvas-audit-improved-security-ahead-2027-polls/). No commission response, failure rate or audit commitment is on record.
 
 ## Rwanda
 
@@ -212,6 +219,9 @@ Bankers [backed the directive as necessary for the banking system's soundness wh
 ## Tanzania
 
 The identity register is the most heavily integrated rail the base holds anywhere, and its coverage is flat. [Over 138 public and private institutions are integrated across banking, insurance and social security](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) — the hardest adoption figure the base carries for any African identity-verification rail. Against that, the register stands at [26.4m registered, 22.3m numbers issued and 20.6m cards physically distributed, about 81% of eligible adults](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) at December 2025: counts up, percentage flat to slightly down against a growing adult denominator. The [gap between numbers issued and cards in citizens' hands is 1.7m](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf), and it did not close over the period.
+
+
+The budget behind it was set out to Parliament on 19 August: the home affairs ministry [put the identifier's rollout among its 2026/27 priorities under the national blueprint, alongside new district registration offices and a headquarters at Dodoma](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). No cost line or timetable accompanies the priority.
 
 ## Tunisia
 

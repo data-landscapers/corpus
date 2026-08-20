@@ -1,40 +1,42 @@
 ---
-title: ICT Industry — progress report, 2025-08-01 to 2026-08-19
-compiled: 2026-08-19
-period: 2025-08-01 to 2026-08-19
+title: ICT Industry — progress report, 2025-08-01 to 2026-08-20
+compiled: 2026-08-20
+period: 2025-08-01 to 2026-08-20
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fcff9b7072e0
+record: d519a837f792
 ---
 
-# ICT Industry: progress report, 2025-08-01 to 2026-08-19
+# ICT Industry: progress report, 2025-08-01 to 2026-08-20
 
 *45 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | FNI national technology hub (with Djezzy, IT-DEV, Inet, Smart Test) | Did not exist | [Agreement signed; no capitalisation, timetable or launch](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-s-state-fund-backs-new-tech-hub-to-modernize-public-sector) | Advanced |
 | Payment-terminal manufacture and servicing (ENIE) | ***Baseline not held*** | [Accredited to install and maintain all payment terminals nationwide regardless of brand; 1.6m terminals produced (2026-05)](https://www.echoroukonline.com/%D8%A8%D8%B7%D9%84%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A5%D9%8A%D9%86%D9%8A-%D8%AA%D9%86%D8%AA%D8%AC-1-6-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%87%D8%A7%D8%B2-%D8%AF) | Advanced |
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Incumbent operator listing | Did not exist | [15% of capital and votes sold for Kz 300.3bn, reported as about US$329m, at 120.72% subscription, creating 11,264 new shareholders](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/) | Advanced |
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Domestic content-verification platform | ***Baseline not held*** | [Checks text, images, audio and video, including AI-generated content](https://www.wearetech.africa/fr/fils/tech-stars/le-beninois-rene-fadonougbo-lutte-contre-la-desinformation-en-ligne) | ***Baseline not held*** |
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | BTCL profit before tax | P266.6m for the year ended 2025-03-31, on revenue of P1.49bn | [P146.2m, down 45%, on revenue of P1.47bn, down 1.6%](https://www.mmegi.bw/business/btc-profit-plunges-as-rising-costs-bite/news) | Regressed |
 
@@ -46,7 +48,7 @@ record: fcff9b7072e0
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Douala smart port digital platform | Did not exist | [A build-operate-transfer concession signed with the port authority on 2025-11-17, with pension-fund equity behind it from March 2026; no investment amount, share or schedule published](https://leconomie.info/douala-smart-port-la-cnps-entre-dans-le-tour-de-table-dinnovendi-data-technologies/) | Advanced |
 | Startup funding raised | ***Baseline not held*** | [Two funded startups raising US$300,000 in 2025, of which US$100,000 was AI, 0.2% of the African AI total](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | ***Baseline not held*** |
@@ -78,20 +80,20 @@ record: fcff9b7072e0
 
 ## Comoros
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital commerce platform | Did not exist | [Live nationally across the three islands and free to professionals to 2026-05-31](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/num%C3%A9rique-komoralink,-une-nouvelle-%C3%A8re-pour-l%E2%80%99%C3%A9conomie-comorienne-.html) | Advanced |
 
 ## Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | State operator quality certification | Did not exist: no operator held the standard | [Certified](https://techreviewafrica.com/news/4630/congo-telecom-becomes-first-operator-in-republic-of-congo-to-receive-iso-90012015-certification) | Advanced |
 | Regional digital transit-hub bid | ***Baseline not held*** | [Courtesy meetings and investor engagement, with no interconnection agreement, financing commitment or capacity contract on file](https://techreviewafrica.com/news/6002/congo-telecom-reiterates-ambition-to-lead-digital-transit-and-technology-hub-in-central-africa) | ***Baseline not held*** |
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Electric ride-hailing fleet | No electric ride-hailing fleet | [100 fully electric vehicles handed to ride-hailing driver-partners, the first half of a 200-vehicle programme on drive-to-own repayment over three years](https://techcabal.com/2026/07/18/gocab-yango/) | Advanced |
 | National industry 4.0 strategy | Strategy handed to the commerce and industry minister, developed with UN industrial-development support on German funding | [Unchanged; no adoption, budget, implementing body or activity on file seventeen months later](https://www.fratmat.info/article/2631919/economie/industrie-40-la-strategie-nationale-remise-au-gouvernement) | No change |
@@ -104,13 +106,13 @@ record: fcff9b7072e0
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Local-content subcontracting enforcement in telecoms | Did not exist | [Two regulators agreed to coordinate, with scope stated beyond telecoms to electronic communications, digital services and electronic commerce; no signed instrument, no inspection conducted and no reporting obligation established](https://actualite.cd/2026/07/23/rdc-larsp-et-larptc-renforcent-leur-cooperation-pour-promouvoir-la-sous-traitance-dans) | Advanced |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Electronics and handset localisation programme | 3 million handsets produced in 2024 | [10 million handsets produced by end-2025, with ministerial targets of more than 15 million during 2026, a 30 million capacity by 2028 and local content of about 45%](https://gate.ahram.org.eg/News/5814629.aspx) | Advanced |
 | ICT sector growth and share of GDP | Sector growth of 15.2% in FY2022/23 contributing 5.1% of GDP, up from 4.4% in FY2019/20, with US$4.2bn of investment (reported 2025-11-21) | [Growth of 20.3% in the third quarter of the last fiscal year, described as the sector's highest rate, and a GDP contribution of about 6%, targeted at 8% by 2030](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) | Advanced |
@@ -137,20 +139,20 @@ record: fcff9b7072e0
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Vodacom change of control over Safaricom | Did not exist | [Completed; the Ethiopian regulatory approval is not on the record](https://techcabal.com/2026/07/27/vodacom-processed-548-billion/) | Advanced |
 | Domestic engineering services firms | ***Baseline not held*** | [One named Addis Ababa engineering services firm, founded 2021 (2026-07)](https://www.wearetech.africa/fr/fils/tech-stars/nebyu-zekariyas-zewde-met-l-ingenierie-tech-ethiopienne-au-service-du-monde) | ***Baseline not held*** |
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | GAMCEL 80% share sale and network modernisation | Sale of 80% of GAMCEL announced to lawmakers at a winning bid of D6.7bn, no agreement signed (2025-12) | [Agreement signed transferring an 80% equity stake to YCELL against a GMD 6.1bn modernisation programme covering 4G and 5G radio access, core, operations and billing systems, hybrid tower power and revenue assurance (2026-07)](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement) | Advanced |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Micro-enterprise tax platform | Did not exist | [Nationwide commercial deployment with the revenue authority, targeting about 530,000 small enterprises onboarded in the first twelve months](https://techafricanews.com/2026/05/25/trident-begins-commercial-rollout-of-ghana-revenue-authority-digital-msme-platform/) | Advanced |
 | Mobile money intellectual-property claim | Did not exist | [Live before the commercial division of the High Court, with the operator saying the claims are without merit and that it will contest fully; no monetary figure pleaded](https://www.connectingafrica.com/mobile-money/clydestone-sues-mtn-ghana-over-mobile-money-ip) | Advanced |
@@ -158,19 +160,19 @@ record: fcff9b7072e0
 
 ## Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cauridor cross-border payments infrastructure | Baseline not held | [Guinea-founded, operating in 36 countries (2026-04)](https://techcabal.com/2026/04/14/cauridor-hires-ex-flutterwave-exec/) | ***Baseline not held*** |
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Private-sector cloud and cybersecurity capacity | ***Baseline not held*** | [One executive workshop on record, on ransomware, cloud security, data sovereignty and immutable backup](https://lestimes.com/?p=90611) | ***Baseline not held*** |
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Smart ports memorandum with HAROPA PORT | Did not exist | [Non-exclusive memorandum covering all four seaports across five areas including automated terminal operations; no commitment amount, implementation date or named system (2026-07)](https://www.thenewdawnliberia.com/npa-french-port-giant-sign-smart-ports-deal/) | Advanced |
 
@@ -183,32 +185,32 @@ record: fcff9b7072e0
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | National Bank of Malawi and ICT Association Innovation Jam | An annual jam run under a six-year bank and association partnership, but no memorandum is on file before 2025-08-01 | [A three-year memorandum committing the bank to mentorship, incubation and technical support for innovators emerging from the annual event, with MWK 75,500,000 given to the 2025 edition held 19-22 November on an artificial-intelligence theme](https://malawi24.com/2025/11/19/k75-5-to-helpm-malawian-young-innovators-turn-ideas-into-thriving-solutions/) | Advanced |
 | ICT services exports | No figure held at 2025-08-01 | [Rose from about US$70m in 2020 to US$154m in 2023, cited by a private-sector managing director as evidence that ICT already earns foreign currency](https://malawi24.com/2026/06/06/malawis-ict-exports-soar-to-k270-billion-amid-forex-solutions/) | ***Baseline not held*** |
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | State shareholding in SOTELMA | 49% state-held with Maroc Telecom in majority control | [56% state-held, Maroc Telecom cut to a minority, licence renewed](https://africa.businessinsider.com/local/lifestyle/17-years-after-privatization-mali-regains-control-of-a-strategic-telecom-asset/lkc81zm) | Advanced |
 
 ## Mauritania
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Mobile operator market | Three licensed operators: Mauritel, Mattel and Chinguitel | [Four, with the new entrant Rimatel licensed alongside the three incumbents](https://techafricanews.com/2026/04/15/mauritania-advances-5g-rollout-as-regulator-names-provisional-winners-for-national-licences/) | Advanced |
 
 ## Mauritius
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | ICT share of gross domestic product | ***Baseline not held*** | [About 5.4% of gross domestic product, against a stated ambition of 10-12% (2026-07)](https://itweb.africa/article/mauritius-launches-ai-readiness-survey/GxwQDM1DPZj7lPVo) | ***Baseline not held*** |
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Oracle regional research and development office, Agadir | Did not exist; a Casablanca research centre was announced in June 2025 with 1,000 jobs claimed | [Office inaugurated by the head of government; no headcount, investment figure or delivery outturn published for the site](https://techreviewafrica.com/news/6122/oracle-inaugurates-regional-rd-office-in-agadir) | Advanced |
 | Renewed offshoring offer and specialised territorial hubs | Not named on file (2025-08) | [Three agreements covering a training incentive, territorial attractiveness and specialised offshoring hubs; a stated 2030 target of 270,000 jobs and nearly MAD 40bn in exports](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-signs-three-deals-to-strengthen-digital-offshoring) | Advanced |
@@ -216,13 +218,13 @@ record: fcff9b7072e0
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital operator licence categories for data centres and cloud platforms | Did not exist | [Announced as an intended extension of the licence categories; no date, draft or instrument](https://techafricanews.com/2026/06/08/mozambique-issues-first-licenses-to-digital-operators-in-major-regulatory-milestone/) | Advanced |
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Space Science and Technology Bill drafting approval | Drafting approved by cabinet; no text published | [Drafting approved; no bill, text or timetable published at 2026-08-06](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | No change |
 
@@ -234,19 +236,20 @@ record: fcff9b7072e0
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Telco mobile money | ***Baseline not held*** | [Revenue up about 132% in H1 2026, with one airtime-lending product suspended](https://techcabal.com/2026/07/31/mtns-airtime-lending-pause-drags-fintech-revenue/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Embedded insurance infrastructure | Did not exist | [Open to banks, fintechs, employers and merchants](https://techcabal.com/2026/07/17/meet-the-team-behind-skydd/) | Advanced |
 | Enterprise AI distribution through institutions | Did not exist | [Distributed through universities and professional communities](https://techcabal.com/2026/07/17/decide-targets-workplaces-with-enterprise-ai-rollout-through-cafeone/) | Advanced |
 | Airtel AI spam detection | Live (2025-03) | [Live](https://itweb.africa/article/airtel-nigeria-launches-ai-spam-alert-service/wbrpO7g2oapvDLZn) | No change |
+| State dividend from the mobile incumbent | ***Baseline not held*** | [About US$41m due to the state from a US$406m operator dividend payout (2026-08)](https://techcabal.com/2026/08/19/nigeria-to-earn-41-million-from-mtns-406-million-dividend-payout/) | ***Baseline not held*** |
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Dominant operator's results | A net loss in the same quarter a year earlier | [Profit after tax of RWF 10.8bn, service revenue up 14.7%, mobile-money monthly active users up 17.3% to 6.2m and fourth-generation population coverage at 94.8%](https://techcabal.com/2026/05/11/data-and-fintech-power-mtn-rwandas-return-to-profitability/) | Advanced |
 | Information and communication sector employment | About 12,000 workers a year earlier | [19,000 workers, up 62.6% year on year against 2.7% economy-wide, still about 0.4% of total employment](https://www.ktpress.rw/2026/07/why-tech-is-rwandas-fastest-growing-source-of-new-jobs/) | Advanced |
@@ -254,7 +257,7 @@ record: fcff9b7072e0
 
 ## Sierra Leone
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Millennium Challenge Corporation compact dispatch centres and SCADA upgrades | Provided for in the compact, transmission and distribution dispatch centres (2024) | [No commissioning, milestone or delivery report published since (2026-08)](https://www.govinfo.gov/content/pkg/FR-2024-10-04/pdf/2024-22902.pdf) | No change |
 
@@ -266,9 +269,10 @@ record: fcff9b7072e0
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | B-BBEE ICT Sector Council | Baseline not held | [The communications minister replaced the council’s chairperson and appointed an interim chair for six months after a departmental investigation found the council dysfunctional; the investigation report is not published, and no remedial plan, terms of reference for the interim period or date for a permanent appointment is stated](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL) | ***Baseline not held*** |
+| Informal-retail transaction data product | ***Baseline not held*** | [A listed payments company sells near-real-time item-level intelligence on the informal retail economy, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am) | ***Baseline not held*** |
 
 ## South Sudan
 
@@ -284,14 +288,14 @@ record: fcff9b7072e0
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital Economy Strategic Framework 2024-2034 | ***Baseline not held*** | [Targets: the ICT share of GDP doubled to 3% by 2029, broadband and internet user penetration at 80% by 2029, digital literacy at 90% by 2029, 80,000 teachers trained by 2028, mobile-money penetration above 70%, at least 1,000 new startups in five years and innovation hubs in all regions](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | ***Baseline not held*** |
 | ICT sector contribution to GDP | ***Baseline not held*** | [About 1.5% for 2022/23, against a target of 3% by 2029; no intervening annual figure is held](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | ***Baseline not held*** |
 
 ## Togo
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital toolbox for very small and medium enterprises | Did not exist | [A live single window carrying a digital-maturity self-assessment, a catalogue of digital solutions, a network of certified advisers and a resource library, under a stated target of 3,000 firms](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme) | Advanced |
 | Fuel marking and traceability system | Did not exist | [Every litre distributed through legal channels carries a molecular marker verifiable at depot, station and roadside, with sanctions running to seizure, fines of FCFA 50,000 to 10,000,000 and closure](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/) | Advanced |
@@ -304,13 +308,13 @@ record: fcff9b7072e0
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | YAS acquisition of Wananchi Group | Wananchi Group independent | [99.63% held by YAS for about US$63m](https://www.independent.co.ug/yas-completes-63m-acquisition-of-parent-company-of-zuku-and-simbanet) | Advanced |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Dot Com Zambia PLC | Not established; the base carries no position on the firm at 2025-08-01 | [A Zambian technology firm founded 2009 providing payment systems, revenue-collection platforms and digital business solutions including electronic tolling and levy collection, described by the technology minister as one of the first local technology firms to list on the securities exchange; no listing date, valuation or capital raised is held](https://techafricanews.com/2026/05/14/zambia-seeks-to-accelerate-digital-economy-through-public-private-collaboration/) | ***Baseline not held*** |
 | Female co-founder and chief executive share of startups | Not established; no Zambia-specific prior-year value is given in the source | [29% of Zambian startups sampled have at least one female co-founder, the highest of any country covered, and 22.6% have a female chief executive; continental context is 19.2% female co-founded against 17.3% in 2024, from a sample of more than 3,000 startups](https://www.connectingafrica.com/women-in-tech/zambia-uganda-lead-in-female-startup-co-founders) | ***Baseline not held*** |
@@ -318,7 +322,7 @@ record: fcff9b7072e0
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Scheme of reconstruction transferring passive infrastructure | Real estate and passive telecommunications infrastructure held by the parent's wholly owned vehicles | [Transferred as a going concern into the separately listed infrastructure company; ownership and control unchanged](https://www.econet.co.zw/wp-content/uploads/2025/12/Econet-Stakeholders-Notice-24-Dec-2025.pdf) | Advanced |
 | Base stations deployed by the infrastructure company | ***Baseline not held*** | [90 new base stations in the quarter; 17% of revenue reinvested into capital projects, on an undisclosed revenue base](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3) | ***Baseline not held*** |

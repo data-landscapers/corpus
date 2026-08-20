@@ -1,15 +1,15 @@
 ---
 title: AI — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 subject: tech.ai
-places: DZA; AGO; BFA; BDI; CMR; CPV; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 693602ace771
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 4b656b33a308
 ---
 
 # AI: monthly update, July 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -26,6 +26,10 @@ Three external events are dated in the month and moved nothing. The Post and Tel
 At a trade fair on 22 July the second operator launched the web version of a subscription artificial-intelligence assistant at Kz 300 a month, replacing a text-message version, pitched at student research; no usage figure or model provenance is published.
 
 The country's permanent representative to the United Nations argued on 31 July that persistent digital disparity keeps developing states out of artificial-intelligence rule-setting, and backed three international governance processes. That is a stated position rather than an instrument.
+
+## Benin
+
+A [four-country comparative study presented on 10 August found no AI-specific legislation in force or in draft in Benin](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), which leaves the 2023-2027 national strategy carrying the field on its own. The same study rates Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance, and finds Burkina Faso's data-protection law the only one of the four to name AI-based processing explicitly.
 
 ## Burkina Faso
 
@@ -149,9 +153,15 @@ The [same keynote recorded a retreat](https://platformafrica.com/2026/07/16/from
 
 The month closed with the state's AI apparatus being measured from outside it. On [27 July the chamber of commerce and two partners launched an adoption, readiness and governance study](https://www.lemauricien.com/le-mauricien/mcci-une-etude-de-marche-sur-ladoption-de-lia-par-les-entreprises/713704/), because there is no clear picture of adoption among Mauritian firms or of what skills exist. The AI City Scheme has no drafted narrative this period.
 
+
+The incumbent operator set out what sits behind that directory. Its chief executive described [a cloud partnership with a hyperscaler, sovereign data centres, a plan to train 50,000 people in artificial-intelligence skills, and a voice model built for Mauritian Creole](https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/), putting the education platform's exam-marking tools at 99% accuracy across the tools introduced. The figures and the claim of a first are the operator's own, given in an interview.
+
 ## Morocco
 
 The one artificial-intelligence figure to move in the window is a ranking rather than a capability. Morocco is placed [87th globally and eighth in the MENA region on an index of government readiness for artificial intelligence, up fourteen places in 2025](https://northafricapost.com/99498-moroccos-ai-and-data-center-ambitions-take-shape-amid-growing-digital-investment.html), which the account attributes to the AI Made in Morocco roadmap and a regional data-for-sustainable-development hub developed with UNDP. The index itself is not named in the record held, so the starting position is derived from the reported change rather than published directly — and neither the roadmap's own founding text nor any progress report against Digital Morocco 2030 is held.
+
+
+The institutional side did move. Four public-interest institutes [were established by publication in the Official Gazette, covering artificial-intelligence research and sovereign systems, education, industrial automation and smart cities](https://en.7news.ma/morocco-ai-institutes/), under the national digital and artificial-intelligence strategies. No budget, staffing or opening date is stated for any of them.
 
 ## Mozambique
 
@@ -190,6 +200,8 @@ On 13 August the ICT ministry [held a two-day working session with a hyperscaler
 ## Senegal
 
 A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The state's own AI build was presented abroad rather than at home: the Senegal AI Factory was [set out to an international AI-process meeting in Tokyo as the main component of the Senegal Digital Factory under the technology strategy's eighth priority programme, covering national AI capability, startups, applied research and training](https://www.pressafrik.com/New-Deal-Technologique-le-Senegal-devoile-la-Senegal-AI-Factory-devant-la-communaute-internationale-a-Tokyo_a309281.html), with no launch date, budget, compute location or partner commitment stated.
+
+What none of it runs under is a statute. A four-country comparative study presented on 10 August [found no AI-specific legislation in force or in draft in Senegal](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), leaving the strategy stack and an ethics committee that is still only planned to carry the field between them.
 
 ## Seychelles
 
@@ -240,6 +252,9 @@ The state's own document surfaced at the end of the window and settles a gap thi
 On 30 July an external policy outlook [recorded Uganda as still developing an artificial-intelligence strategy](https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/) alongside a readiness assessment, sixteen months after the strategy was described as being in its final stages. On 2 August the minister of ICT told the Editors Guild annual general meeting in Jinja that the ministry is [developing a policy to regulate artificial intelligence and social media](https://nilepost.co.ug/news/360765/editors-raise-alarm-over-ai-misuse-journalist-identity-data-protection-gaps); no scope, drafting stage, responsible body, consultation route or timetable was given. Editors at the same meeting raised data-protection exposure from digitised newsroom operations.
 
 A profession got there before the state did. The medical and dental practitioners council [directed medical and dental training schools to integrate artificial intelligence into their curricula, with compliance assessed at future biennial institutional inspections](https://www.newvision.co.ug/category/health/medical-schools-asked-to-integrate-ai-into-tr-NV_238701_082026). No curriculum standard, syllabus, teaching-capacity assessment or funding is attached to the directive, and it lands in a country whose own strategy is still unwritten.
+
+
+What developers here build on is being decided ahead of the strategy. A wire report records a Ugandan developer [building a 31-language model on a Chinese open-weight model rather than an American one, largely on cost](https://www.asiae.co.kr/en/article/2026080708231865765), against a claim in the same report that Chinese open-weight models took 17.1% of global downloads over the year to 15.8% for American ones. Neither figure is independently held here, and no licence terms or evaluation of the model are on record.
 
 ## Zambia
 
