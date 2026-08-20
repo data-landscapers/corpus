@@ -1,15 +1,15 @@
 ---
 title: Lesotho — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: LSO
-ledger_rows: 62
+ledger_rows: 63
 not_held: 0
-record: 788ae1df5ed4
+record: 97645fafb179
 ---
 
 # Lesotho: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (62 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (63 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -185,6 +185,12 @@ Sub-national government has one system on record: Maseru City Council's [Constru
 | Bilateral health agreement with the United States and its data-sharing instrument | [Implemented, text withheld](https://allafrica.com/stories/202601200174.html) | Signed in December 2025, stated at US$364m |
 | Data Protection Act 2011 | [Implemented](https://cenfri.org/articles/african-data-governance-reform-in-an-era-of-reform/) | In force since 2011 |
 | Data Protection Commission | [Planned](https://cenfri.org/articles/african-data-governance-reform-in-an-era-of-reform/) | Provided for by the 2011 Act; no commissioner appointed as at 2026-03-23 |
+
+### Public debate and participation in policymaking
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Public digital services experience survey | [Implemented](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/) | Opened 2026-08-09 |
 
 ### Open data
 

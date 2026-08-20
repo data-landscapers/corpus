@@ -1,15 +1,15 @@
 ---
 title: Mali — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: MLI
-ledger_rows: 70
+ledger_rows: 71
 not_held: 3
-record: ea1654ae2891
+record: 0c0c7d89dbf9
 ---
 
 # Mali: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/MLI/ledger.csv` (70 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/MLI/ledger.csv` (71 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -82,7 +82,7 @@ Two positions are recommendations rather than systems: [a law making SMTD-SA the
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Customs systems interconnection for goods in transit | [In development](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/) | High-level consultation on trade facilitation held in Bamako 2026-08-07 |
+| Customs systems interconnection for goods in transit | [Piloting](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/) | Transit-goods data pilot launched, presented at a Bamako roundtable 2026-08-06 |
 | National public key infrastructure and e-signature services | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Effective deployment recommended at the Semaine du Numerique 2026-08-01 |
 
 ### Digital Identity and CRVS
@@ -133,6 +133,12 @@ Two positions are recommendations rather than systems: [a law making SMTD-SA the
 | Online criminal record and nationality certificate | [Implemented](https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html) | Launched during the Week of Justice February 2026 |
 | SIGIP territorial administration data management | [In development](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) | Presented 2025-09-16 |
 | Sigui-Dolo driving licence and vehicle registration | [Implemented](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) | Presented 2025-09-16 |
+
+### Digitalisation of sub-national government
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Koutiala commune fiscal census and financial management digitisation | [In development](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/) | Presented to the commune 2026-03-06 |
 
 ### National statistics
 

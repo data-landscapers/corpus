@@ -1,16 +1,16 @@
 ---
 title: Mauritania — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: MRT
-ledger_rows: 16
+ledger_rows: 18
 not_held: 4
-record: 7478fcc70b29
+record: 236774c3f13b
 ---
 
 # Mauritania: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -27,7 +27,14 @@ On governance, the Council of Ministers [replaced the decree governing the Unive
 <!-- narrative: infrastructure--infra-connect -->
 The regulator's provisional selection for satellite telecommunications licences was [reported on 7 July](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite). Thirteen firms took the dossier and nine bids were submitted across two lots. For mobile personal satellite communications, [BRAINSAT at US$800,000 and VDM at US$50,000 were retained](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite), VDM required to align its offer with BRAINSAT's; for the sale of satellite capacity, [BRAINSAT at US$3 million and Mattel at MRU 6.5 million](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite) were retained on the same condition. No launch date or licence issue is reported, and the operating conditions, licensee obligations and control mechanisms are still to be defined. The account is Agence Ecofin's reading of the regulator's communiqué, which is not held.
 
-The Ministry of Digital Transformation and Administrative Modernisation said on 24 July that [all electronic-communications operators have activated IPv6](https://www.alakhbar.info/6a62c5feac143500012ee215/) across their networks and services, and that the national committee monitoring the transition recorded tangible progress, with one unnamed operator past 15% of subscribers migrated against a 25% end-2026 target. The ministry's stated rationale is sovereignty and security rather than address exhaustion — IPv6 as the precondition for 5G, cloud, internet-of-things and AI services.
+The second operator [launched a commercial 5G network at Nouakchott on 10 August under the digital transformation minister](https://ghabess.net/23385); no coverage, tariff or subscriber figure accompanies it. The Ministry of Digital Transformation and Administrative Modernisation said on 24 July that [all electronic-communications operators have activated IPv6](https://www.alakhbar.info/6a62c5feac143500012ee215/) across their networks and services, and that the national committee monitoring the transition recorded tangible progress, with one unnamed operator past 15% of subscribers migrated against a 25% end-2026 target. The ministry's stated rationale is sovereignty and security rather than address exhaustion — IPv6 as the precondition for 5G, cloud, internet-of-things and AI services.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: infrastructure--infra-store -->
+
+
+The national government cloud is close enough to service to be shown off. On 11 August a visiting development-bank vice-president [was briefed at the national data centre on data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). No go-live date, migration scope or capacity figure is stated.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -41,6 +48,13 @@ PAFIID reported on 8 July that the Central Bank's AI-supported reputation-protec
 
 <!-- narrative: dpi--dpi-exchange -->
 The digital ministry [opened a two-day workshop on 27 July](https://www.ami.mr/archives/265184) on blockchain in public administration, stating that the sector is building a national data management system to guarantee data quality, security, accessibility and inter-administration integration. UNDP's representative argued that data is strategic infrastructure on a par with roads and energy and that governance transformation, not technology, is the precondition. [Reporting two days later](https://www.ecofinagency.com/news-digital/2907-57833-mauritania-pushes-ahead-with-blockchain-to-modernize-public-services) placed this against a national blockchain policy in consultation since November 2025, with land administration, trade, public procurement and natural-resource management named as target areas; no draft text, adoption date or budget has been published.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+
+
+The identity application is now load-bearing, and the month showed what that means. It [carries about 1.5 million citizens and 554,027 remote services, and underpins identity verification for the state services portal's fifteen-plus services and for private financial applications](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) — and a full day of scheduled maintenance on 8 August took all of it down at once. The usage figures are the reporting outlet's; no operator statement on the outage or on redundancy is held.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 

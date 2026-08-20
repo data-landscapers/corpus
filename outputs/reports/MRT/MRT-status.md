@@ -1,15 +1,15 @@
 ---
 title: Mauritania — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: MRT
 ledger_rows: 57
 not_held: 4
-record: 2ab47431669b
+record: 40b83481317e
 ---
 
 # Mauritania: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/MRT/ledger.csv` (57 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/MRT/ledger.csv` (57 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -29,7 +29,7 @@ Delivery is measured where it is measured at all, and the most useful figure in 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| 5G licences | [Implemented](https://lequotidien.mr/?p=39791) | Chinguitel launched the first commercial 5G network, Nouakchott, 10 August 2026 |
+| 5G licences | [Implemented](https://ghabess.net/23385) | Commercial network launched at Nouakchott 2026-08-10 |
 | ACE submarine cable landing | [Implemented](https://www.agenceecofin.com/actualites-numerique/0505-138141-internet-la-mauritanie-amorce-le-deploiement-de-son-deuxieme-cable-sous-marin) | Sole international cable since 2011 |
 | Chinguitel network modernisation | [Implemented](https://techafricanews.com/2025/11/13/chinguitel-and-huawei-complete-major-network-modernization-across-mauritania/) | Full modernisation completed in Nouakchott with Huawei |
 | EllaLink second submarine cable | [In development](https://ami.mr/fr/archives/294524) | Phase-1 coastal landing completed at Nouadhibou |
@@ -42,7 +42,7 @@ Delivery is measured where it is measured at all, and the most useful figure in 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| National cloud platform | [Implemented](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty) | Launched 29 June 2026 at the Nouakchott National Data Center |
+| National cloud platform | [Implemented](https://alwiam.info/ar/51206) | Data-security testing and migration preparation ahead of go-live, 2026-08-11 |
 | Nouakchott Tier III national data centre | [Implemented](https://www.eib.org/en/press/all/2025-202-inauguration-du-centre-d-hebergement-de-donnees-numeriques-de-nouakchott) | Inaugurated 8 May 2025, EUR 15m EIB-financed and Uptime-certified |
 
 ### Energy
@@ -85,7 +85,7 @@ SOMELEC's [FY2024 procurement plan](https://somelec.mr/sites/default/files/PPPM%
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Biometric SIM identification | [Implemented](https://www.ecofinagency.com/news-digital/1601-51999-mauritania-steps-up-pressure-on-telecom-operators-over-biometric-identification) | Formal notices issued to the three operators, January 2026 |
-| Houwiyeti digital identity application | [Implemented](https://techrek.info/1-5-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%85%d8%b3%d8%aa%d9%81%d9%8a%d8%af-%d9%85%d9%86-%d9%87%d9%88%d9%8a%d8%aa%d9%8a-%d9%85%d8%a4%d8%b4%d8%b1%d8%a7%d8%aa-%d8%aa%d9%83%d8%b4%d9%81/) | Usage indicators reported by ANRPTS at a June 2026 seminar |
+| Houwiyeti digital identity application | [Implemented](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) | A full day of scheduled maintenance took the application down, 2026-08-08 |
 | National Population Register | [Implemented](https://ladepeche.mr/?p=22700) | Register figures given to deputies, June 2026 |
 | National public key infrastructure and certificate management system | [In development](https://beta.mr/files/appls/177.pdf) | Bid deadline moved to 21 July 2026 by a second addendum |
 

@@ -1,16 +1,16 @@
 ---
 title: Mali — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: MLI
-ledger_rows: 41
+ledger_rows: 42
 not_held: 4
-record: 632ee862ae65
+record: 5a9b4096b5e4
 ---
 
 # Mali: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -83,6 +83,9 @@ The same week [recommended an updated universal-access strategy with a white-zon
 
 <!-- narrative: dpi--digital-localgov -->
 On 30 July the territorial administration ministry [put digital payment at civil registry centres at about FCFA 200 million between July 2024 and May 2026](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/) and ordered every collectivite to report within 30 days on why the system is underperforming.
+
+
+One commune took the same problem in the other direction. Koutiala [began digitising its fiscal census and financial management, surveying taxable commercial equipment and public-space use and equipping the town hall with financial-management tools](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/), to widen its own-source revenue. It is funded by a foreign embassy and run with a non-governmental organisation, and no budget, timetable or revenue target is stated.
 <!-- /narrative -->
 ### National statistics
 

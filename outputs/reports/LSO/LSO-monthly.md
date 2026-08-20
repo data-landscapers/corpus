@@ -1,16 +1,16 @@
 ---
 title: Lesotho — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: LSO
-ledger_rows: 20
+ledger_rows: 21
 not_held: 2
-record: 9bf5da501aa1
+record: 8ac2eb0d2cce
 ---
 
 # Lesotho: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -68,6 +68,11 @@ No instrument was made, gazetted or brought into force in this window. [Reportin
 
 <!-- narrative: governance--gov-policy -->
 The month's policy work is a strategy being drafted rather than one adopted. A [National AI Strategy is being written at the same five-day Maseru workshop as the data-centre blueprint, opened on 17 August by the communications ministry with the United Nations in Lesotho](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/), and is distinct from the National AI Policy signed in June. The deputy prime minister's keynote asked for Lesotho's existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated, and nothing beyond the workshop is on the record.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The state opened a channel for hearing what its digital services are actually like to use: a [public survey opened on 9 August covering access, usability, trust and skills gaps across online applications, digital payments and health and education platforms](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/), run with the United Nations development programme as part of a digital readiness assessment. No closing date, sample target or commitment to publish the results is stated, so what it will settle is not yet knowable.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
