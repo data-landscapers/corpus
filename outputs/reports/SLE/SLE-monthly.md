@@ -1,16 +1,16 @@
 ---
 title: Sierra Leone — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: SLE
-ledger_rows: 34
+ledger_rows: 37
 not_held: 11
-record: f33232b28ce2
+record: 560b1508df49
 ---
 
 # Sierra Leone: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -51,6 +51,9 @@ The first tool rather than message came from an operator, not the state. On 18 A
 
 <!-- narrative: dpi--dpi-exchange -->
 The finance ministry is [piloting a data exchange layer on X-Road](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/). No production date, list of connected agencies or governance rules is published.
+
+
+The exchange that already carries the state's money was found to be carrying something else. The anti-corruption commission [puts over 300 billion leones lost to backend manipulation of the customs system, with processed declarations deliberately deleted and dormant bank-teller profiles used to validate transactions after the account holders had left their institutions](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/), and reasonable grounds to suspect coordinated collusion. The finding and the figure are the commission's own; no revenue-authority response, prosecution or remediation is on record.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -111,6 +114,9 @@ Mobile-money fraud reached Parliament. A legal analysis of 23 July found the [Na
 
 <!-- narrative: governance--gov-policy -->
 Delivering a ministerial statement on 4 August after [MPs demanded an explanation for the surge](https://www.sierraleonemonitor.com/parliament-orange-money-scams/), the communications minister [set out education, institutional strengthening and better investigation](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/). No liability rule, refund duty or operator obligation was proposed.
+
+
+The multi-agency answer to mobile-money fraud got a drafting session. A two-day workshop on 18 and 19 August [brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together to draft a roadmap](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money), after parliamentary pressure over identity-theft scams on one operator's network. No roadmap, deadline or funding line has been published.
 <!-- /narrative -->
 ### Standards
 
@@ -132,6 +138,9 @@ DSTI reported on 24 July that its [deepfake and digital-misinformation campaign,
 
 <!-- narrative: inclusion--include-access -->
 Financial inclusion is put at [about 40% of adults for 2025](https://thefintechtimes.com/rebuilding-financial-services-through-fintech-in-sierra-leone/). It is a named analyst's assessment rather than an official series, and the base holds no state measurement to set beside it.
+
+
+The cost of the handset is being financed rather than reduced. An operator and a commercial bank [opened a 24-month device-financing scheme to individual and business customers, on top of their existing prepaid card relationship](https://www.thewatchnewssl.com/africells-ecobank-boost-digital-inclusion/). No price, interest rate, eligibility test or uptake figure is stated.
 <!-- /narrative -->
 ### Training and skills
 
@@ -139,6 +148,9 @@ Financial inclusion is put at [about 40% of adults for 2025](https://thefintecht
 MoCTI and three other bodies [launched a digital skills programme for civil servants on 10 July 2026, with 1,000 places in year one and stated targets of 3,000 medium-term and 5,000 long-term](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) across six areas including artificial intelligence and cybersecurity, aimed at gaps outside Freetown.
 
 The country held its [first academic exhibition dedicated to Digital Public Goods on 27 July, where 11 student-built solutions were evaluated against the DPG Standard](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent). The curriculum behind it, built with UNICEF, the United Nations University and Limkokwing University, has [taught more than 1,100 students and appointed 14 campus champions across four universities](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent).
+
+
+On the skills side, [eighty young people graduated from a nine-month digital-literacy course at Kenema on 8 August, reporting job retention and promotion](http://www.critiqueecho.com/80-youth-graduate-in-advanced-digital-literacy-as-yad-boosts-employability-in-sierra-leone/). The outcomes are the graduates' own and no tracer study is held.
 <!-- /narrative -->
 
 ## Finance

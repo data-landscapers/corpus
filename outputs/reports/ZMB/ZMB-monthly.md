@@ -1,16 +1,16 @@
 ---
 title: Zambia — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: ZMB
-ledger_rows: 60
+ledger_rows: 63
 not_held: 54
-record: 8cb4c1e5e7d4
+record: 7bd6327d8f22
 ---
 
 # Zambia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -59,6 +59,11 @@ Nothing published in the window moves the identity position. The most recent enr
 On 27 July a vendor manager stated on the record that the National Financial Switch's intended reduction in customer transaction costs has not happened yet, that the central bank is only now focusing on it, and that the electronic clearing house is not yet live on the regional instant-payment scheme ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)).
 
 Retail participation in the securities market is the one digital adoption figure the month produced: registered users of the exchange's mobile trading application [rose to 51,791 in July from 49,611 in June](https://itweb.africa/article/digital-push-powers-zambian-bourse/lLn14MmQzolMJ6Aa). It is the exchange's own count of registered users, not of active traders or funded accounts.
+
+
+The regional rail above the domestic one acquired its rules. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Malawi](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W). No Zambian transaction volume, participant count or fee schedule is published.
+
+Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zambia on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zambia.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -148,6 +153,9 @@ The third edition of a continental diversity report puts [29% of Zambian startup
 
 <!-- narrative: ai-tech--tech-innovate -->
 Three private ventures carry the innovation position, all on their own accounts. A [private hub ran the nine-month pipeline that took a Zambian team to the Geneva global finals](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) of the 2026 artificial-intelligence summit and youth robotics challenge among nearly 50 countries, its chief executive saying the talent pool is real and the investment in research and innovation is not. An [agritech pairs satellite imagery with artificial intelligence to route smallholders into premium markets](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/), operating a virtual warehouse in which buyers specify variety, quality and compliance before planting. And a [roadside-assistance marketplace connects drivers to nearby providers](https://www.wearetech.africa/fr/fils/tech-stars/avec-padue-dalitso-mbewe-connecte-les-automobilistes-en-panne-aux-depanneurs) with in-app messaging and real-time geolocation. No user numbers, revenue, funding or independent evaluation is held for any of the three.
+
+
+A donor-funded accelerator began staffing up: a private hub [called for facilitators and group coaches for a twelve-month incubator running masterclasses, group coaching and access to funding for digital startups](https://bongohive.co.zm/call-for-facilitators-and-group-coaches/). No cohort size, budget or start date is stated, and the government innovation fund the base looked for is still not held.
 <!-- /narrative -->
 ### US / hyperscaler activities
 

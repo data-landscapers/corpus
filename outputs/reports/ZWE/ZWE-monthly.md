@@ -1,16 +1,16 @@
 ---
 title: Zimbabwe — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: ZWE
-ledger_rows: 77
+ledger_rows: 78
 not_held: 9
-record: 081e594e52a2
+record: 61e9b708fb91
 ---
 
 # Zimbabwe: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -71,6 +71,9 @@ The registration end of the same estate is being rebuilt with donor money. [Ten 
 The road authority took handover of an expanded toll plaza on 29 July with two of six lanes reserved for radio-frequency tag holders, a second plaza due the next day and a third under construction, against a stated programme covering all 29 tollgates; the announcement states nothing on retention, access or legal basis for the movement record the tags generate ([handover account](https://263chat.com/zimbabwe-widens-key-tollgates-as-e-toll-era-begins/)).
 
 The switch operator reported interoperable quick-response payments in rollout and participation in a pan-African settlement system, with no merchant, acceptance-point or transaction count ([conference account](https://www.zbcnews.co.zw/electronic-transactions-top-zig1-trillion-as-zimbabwe-deepens-digital-finance/)).
+
+
+Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zimbabwe on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zimbabwe.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 

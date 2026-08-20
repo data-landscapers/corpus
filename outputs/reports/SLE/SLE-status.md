@@ -1,15 +1,15 @@
 ---
 title: Sierra Leone — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: SLE
-ledger_rows: 69
+ledger_rows: 72
 not_held: 11
-record: 8b31e7974583
+record: 1c58a0f24330
 ---
 
 # Sierra Leone: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (69 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (72 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -86,6 +86,7 @@ Cybersecurity institutions are ahead of the record about them. The regulator [co
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| ASYCUDA customs system | [Implemented, integrity failure found by the anti-corruption commission](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/) | Commission report dated 2026-07-10, serialised from 2026-08-17 |
 | Government Service Bus and X-Road data exchange layer | [In development](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) | Ministry of Finance reported piloting a Data Exchange Layer on X-Road |
 | Legal basis for data sharing between government registers | ***Not held*** | — |
 
@@ -175,7 +176,7 @@ Sector registers are thinner. The National Digital Farmer Registry has [no enrol
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Multi-agency response to mobile-money fraud | [In development](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/) | Ministerial statement to Parliament, 4 August 2026 |
+| Multi-agency response to mobile-money fraud | [In development](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money) | Two-day national workshop to draft a roadmap, 18 to 19 August 2026 |
 | National Data Protection Policy | [Implemented](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Approved by Cabinet, 21 April 2026 |
 | National Data Strategy | [Implemented](https://dial.global/work/strengthening-national-data-strategy-sierra-leone) | Updated over five months with DIAL support, aligned to the AU Data Policy Framework |
 
@@ -260,6 +261,7 @@ The only industrial application on the ledger is the [dispatch centres and SCADA
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Human intermediation in identity enrolment | [Implemented](https://www.biometricupdate.com/202603/sierra-leones-brokers-of-citizenship-recognized-in-digital-identification-project) | Documented in an ethnographic study published March 2026 |
+| Smartphone financing scheme | [Implemented](https://www.thewatchnewssl.com/africells-ecobank-boost-digital-inclusion/) | Announced 2026-08-05 |
 | Starlink connectivity for universities | [Implemented](https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/) | 12 universities connected through ELCOME SL under the National Broadband Strategy 2023-2028 |
 
 ### Training and skills
@@ -268,6 +270,7 @@ The only industrial application on the ledger is the [dispatch centres and SCADA
 |---|---|---|
 | Civil service digital skills programme | [Implemented](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) | Launched July 2026 with 1,000 places in year one |
 | Digital Public Goods university curriculum | [Implemented](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) | First academic Digital Public Goods exhibition held, 27 July 2026 |
+| Youth digital-literacy programme at Kenema | [Implemented](http://www.critiqueecho.com/80-youth-graduate-in-advanced-digital-literacy-as-yad-boosts-employability-in-sierra-leone/) | Eighty graduated 2026-08-08 |
 
 <!-- narrative: inclusion -->
 Skills work is running at two levels. A [civil service digital skills programme launched in July 2026 with 1,000 places in year one](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) and stated targets of 3,000 and 5,000; in the universities, a curriculum built with UNICEF, the United Nations University and Limkokwing has [taught more than 1,100 students and produced 11 student solutions evaluated against the Digital Public Goods Standard](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent), on campuses whose connectivity is bought from a satellite operator — [12 universities through ELCOME SL](https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/), with no further site count reported.
