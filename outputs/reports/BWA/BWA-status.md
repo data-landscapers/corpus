@@ -4,7 +4,7 @@ compiled: 2026-08-20
 place: BWA
 ledger_rows: 95
 not_held: 11
-record: ed573a421a33
+record: 91be6b868da7
 ---
 
 # Botswana: status report
@@ -100,8 +100,8 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 | Biometric grant payment cards | [Implemented](https://techafricanews.com/2025/05/28/smartswitch-botswana-pioneers-dignified-digital-aid-for-75000-beneficiaries/) | More than 75,000 beneficiaries and 1,200 shops, on a platform accredited by three central banks |
 | Citizen Wallet | [Planned](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/) | Presented to a rural development council, 2025-09-17 |
 | Instant cross-border payment corridor into Botswana | [Implemented](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) | Corridor went live 2026-03-02 |
+| Mukuru Companion Card | [Implemented](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana) | Launched 2026-08-18 |
 | National payment switch | [Planned](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) | Named inside a P486m ICT allocation sought under the twelfth development plan |
-| Remittance wallet payment card | [Implemented](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/) | Launched 2026-08-18 |
 | Taxi cashless payment and financing partnership | [Implemented](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators) | Unveiled in Gaborone 2026-08-09 |
 | UnionPay e-commerce acceptance | [Implemented](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Extended to nine African markets 2026-08-19 |
 

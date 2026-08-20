@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-20
 place: BWA
 ledger_rows: 104
 not_held: 11
-record: d21d11edb1c8
+record: 190493d032a9
 ---
 
 # Botswana: progress report, 2025-08-01 to 2026-08-20
@@ -14,7 +14,7 @@ record: d21d11edb1c8
 
 *Of 104 systems and instruments on this place's ledger, 43 changed position between 2025-08-01 and 2026-08-20, 18 did not, 32 carry no stated baseline, and 11 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 166 sources for this place in the window — 39 in the earlier half (2025-08 to 2026-01), 127 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 167 sources for this place in the window — 39 in the earlier half (2025-08 to 2026-01), 128 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -109,7 +109,7 @@ Two measures did not move at all, and both matter. [International internet traff
 | System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Instant cross-border payment corridor into Botswana | No live regional instant corridor into Botswana | [Live inbound from South Africa and Zimbabwe](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) | Advanced |
-| Remittance wallet payment card | Did not exist | [A card issued on a remittance operator's wallet by a commercial bank on an international scheme, adding ATM withdrawal, in-store payment and domestic online payment to a wallet that previously carried transfer and cash-out only](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/) | Advanced |
+| Mukuru Companion Card | Did not exist | [A Visa-branded card issued against a remittance operator’s wallet balance, adding ATM withdrawal, in-store payment and domestic online payment to a wallet that previously carried transfer and cash-out only; no separate bank account is required, it works across every mobile network in the country, each transaction is PIN-protected with 3D Secure on online purchases, and a lost card can be blocked from the handset. The operator puts the gap it addresses at 38 per cent of adults unbanked against mobile penetration of 164 per cent, or about 4.22 million connections](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana) | Advanced |
 | UnionPay e-commerce acceptance | A Standard Bank and UnionPay collaboration since 2024, with no online acceptance on record | [Online acceptance open to participating merchants, settling in local currency, US dollars or both](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Advanced |
 | Biometric grant payment cards | More than 75,000 beneficiaries and 1,200 shops (2025-05) | [The same figure; no update in the twelve months](https://techafricanews.com/2025/05/28/smartswitch-botswana-pioneers-dignified-digital-aid-for-75000-beneficiaries/) | No change |
 | Citizen Wallet | ***Baseline not held*** | [Announced as a unified wallet for subsidy delivery alongside a cryptographic card; no build, pilot, budget line or date since](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/) | ***Baseline not held*** |
