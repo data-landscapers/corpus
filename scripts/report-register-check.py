@@ -212,7 +212,23 @@ def main():
         return 0
 
     budget = {k: budgets(k) for k in SKELETONS}
-    pattern = os.path.join(REPORTS, args.unit.upper() if args.unit else "*", "*.md")
+
+    # **`--unit all` used to match a unit literally named `all` and report a clean pass over nothing**
+    # *(2026-08-20)*. It printed `register: 0 hit(s); budget: 0 document(s) outside band; check H: 0`
+    # — indistinguishable from a genuinely clean corpus, and the default with no `--unit` at the time
+    # reported 78 documents outside band. A check that reads nothing must never look like a check that
+    # found nothing, so `all` is now the documented synonym for the default and an unknown unit is an
+    # error rather than an empty sweep. `status-check.py` already took `all` this way; the two agree now.
+    unit = (args.unit or "").strip().upper()
+    if unit in ("", "ALL"):
+        pattern = os.path.join(REPORTS, "*", "*.md")
+    else:
+        pattern = os.path.join(REPORTS, unit, "*.md")
+        if not os.path.isdir(os.path.join(REPORTS, unit)):
+            print(f"report-register-check: no unit {unit} under {REPORTS} — "
+                  f"nothing was checked", file=sys.stderr)
+            return 2
+
     flagged = over = uncited = 0
     for path in sorted(glob.glob(pattern)):
         kind = kind_of(path)
