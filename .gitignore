@@ -54,3 +54,6 @@ index/
 # The environment variables CF_ACCOUNT_ID / CF_KV_NAMESPACE_ID / CF_API_TOKEN are the other way
 # of supplying them, and take precedence over this file.
 logs/.cloudflare-kv.json
+
+# OSINT-owned shared drop point — outside Corpus git (CLAUDE.md)
+osint-corpus-exchange/
