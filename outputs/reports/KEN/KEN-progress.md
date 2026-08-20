@@ -3,18 +3,18 @@ title: Kenya — progress report, 2025-08-01 to 2026-08-20
 compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 place: KEN
-ledger_rows: 201
+ledger_rows: 202
 not_held: 7
-record: e01025539f3b
+record: 5d9e689d2777
 ---
 
 # Kenya: progress report, 2025-08-01 to 2026-08-20
 
 *Compiled 2026-08-20 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 201 systems and instruments on this place's ledger, 97 changed position between 2025-08-01 and 2026-08-20, 24 did not, 73 carry no stated baseline, and 7 are ***Not held*** at both ends.*
+*Of 202 systems and instruments on this place's ledger, 98 changed position between 2025-08-01 and 2026-08-20, 25 did not, 72 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 516 sources for this place in the window — 71 in the earlier half (2025-08 to 2026-01), 445 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 518 sources for this place in the window — 71 in the earlier half (2025-08 to 2026-01), 447 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -237,11 +237,12 @@ Two systems stalled against their own stated dates: an education management info
 
 | System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
-| Communications Equipment Vendor Class Licence guidelines | Did not exist | [In force, with a 12-month minimum warranty, returns, after-sales support and record-keeping duties](https://itweb.africa/article/kenya-tightens-consumer-protection-for-device-sales/PmxVE7KEGOrqQY85) | Advanced |
+| Communications Equipment Vendor Class Licence guidelines | Did not exist | [Licence conditions for the category gazetted by the Communications Authority under the Kenya Information and Communications Act after public consultation, effective 30 days from the notice, and published for free download; the vendor rules carry a 12-month minimum warranty, returns, after-sales support and record-keeping duties](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf) | Advanced |
 | ODPC quality management system | Did not exist | [Quality management system launched with World Bank support, with the external certification audit still to come](https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats) | Advanced |
+| Public Communications Access Centre licence | Did not exist | [A licence category created under the revised telecommunications market structure, its conditions gazetted by the Communications Authority after public consultation, effective 30 days from the notice and published for free download on the regulator’s site](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf) | Advanced |
 | ODPC draft guidance notes on biometric and children's data | Issued in draft, with mandatory registration of biometric processors and risk-based age assurance | [Still in draft as far as the base establishes](https://www.biometricupdate.com/202505/kenya-releases-draft-guidance-on-biometrics-age-assurance) | No change |
 | County own-source revenue automation standards | ***Baseline not held*** | [Binding standards gazetted for county own-source revenue automation, covering the system lifecycle from procurement through audit and requiring data ownership and portability safeguards to reduce vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/) | ***Baseline not held*** |
-| Digital pharmacy services guidelines | ***Baseline not held*** | [Draft guidelines published by the pharmacy regulator covering telepharmacy, electronic prescribing and digital health records](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/) | ***Baseline not held*** |
+| Digital pharmacy services guidelines | ***Baseline not held*** | [Second revision of the regulator's guideline in draft, widening the scope of regulation from internet pharmacy services to digital pharmacy services generally - electronic prescription generation, transmission, validation and management, online dispensing, telepharmacy and digital consultation, and digital self-care support - and reaching licensed premises, online providers, telepharmacy providers, digital health platforms, pharmacy chains and third-party technology, hosting, payment and logistics providers; the text carries a 2026 effective date and a 2029 review date, and its approval blocks are unsigned](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/?wpdmdl=14068) | ***Baseline not held*** |
 | EU Global Gateway ICT standards engagement | ***Baseline not held*** | [Cooperation reaffirmed across AI, cybersecurity, digital identity, interoperability and digital governance](https://techafricanews.com/2026/07/27/kenya-and-eu-strengthen-digital-standards-partnership-to-support-digital-superhighway/) | ***Baseline not held*** |
 
 ### Data protection
@@ -259,10 +260,10 @@ Two systems stalled against their own stated dates: an education management info
 | Data Protection Act 2019 | In force, with the Office of the Data Protection Commissioner as statutory regulator | [In force, with the regulator now stretching its cross-border-transfer duties to reach offshore AI processing](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) | No change |
 | ODPC enforcement caseload and penalties | 7,128 complaints received and 215 determinations issued as of March 2025 | [Same statement; no later caseload, determination count or penalty total published](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf) | No change, no later figure published |
 | ODPC five-year privacy plan | Launched at KES 12.6bn over five years | [Launched, with no spend, milestone or progress statement on file since](https://www.standardmedia.co.ke/central/article/2001523499/data-protection-office-launches-sh126-billion-privacy-plan) | No change |
+| Sector guidance on personal data in the electoral process | In force, setting out how the electoral commission, the registrar of political parties, political parties and governance organisations may process personal data for electoral purposes under the Data Protection Act 2019 | [In force, binding every organisation that touches voter data from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and political parties' obligations turning on how they obtained the data](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf) | No change |
 | Audit access under the health memorandum | ***Baseline not held*** | [A rights organisation's reading of the seven signed American health memoranda records all seven as requiring broad audit access, and places Kenya outside both the three committing to hand over any data without explicit privacy safeguards and the five whose text requires unilateral specimen and pathogen-sequencing sharing](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | ***Baseline not held*** |
 | Betting and gaming firms registered with the ODPC | ***Baseline not held*** | [15 of 224 fully registered as both controller and processor, with 185 unregistered and given 40 days or licence cancellation](https://nation.africa/kenya/news/register-or-face-shutdown-kabogo-to-betting-firms-with-children-s-data-5458126) | ***Baseline not held*** |
 | Cybercrime losses, regulator estimate | ***Baseline not held*** | [At least KSh 29bn a year](https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats) | ***Baseline not held*** |
-| Sector guidance on personal data in the electoral process | ***Baseline not held*** | [Issued by the data commissioner, binding every organisation that touches voter data from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and political parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data) | ***Baseline not held*** |
 
 ### EU activities
 
