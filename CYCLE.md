@@ -81,6 +81,8 @@ nothing. On exit 2, write one block in logs/messages-for-bill.md and stop — do
 
 **`logs/.hold-cycle` is the switch to flip before sitting down to work.** While it exists the trigger holds — as it does for `logs/.build-in-progress` and for uncommitted tracked changes — and **it does not advance the watermark**, so the close it held over runs when the file comes out rather than being skipped.
 
+**`--skip` passes a close over without building it, and loses nothing.** `BUILD.md` works off a set difference over slugs rather than a window, so the next close covers a skipped one whole — the only cost is the delay. It is what to run when a night's catch does not earn a cycle, and when a close is superseded by a cycle starting now, where firing would put a build and OSINT's writes over `raw/` at the same moment.
+
 **A cycle run by hand need not call `--done`, and the cost of not doing so is one redundant cycle.** That is deliberate rather than tolerated: *Running unattended* above already establishes that a second whole cycle finds nothing unconsidered, prints `unchanged` across the tree and costs almost nothing, and that the render is idempotent by construction. Paying that occasionally is cheaper than a trigger that infers what a hand-run did from log lines it cannot date precisely against the close.
 
 **`--claim` before, `--done` after, and a claim that never reported done stops the loop.** A cycle that dies leaves the claim outstanding and the next poll exits 2 — `--release` clears it once someone has looked. A poll loop that re-fired on its own failure every twenty-five minutes would be *a job looping on the fault that stopped it*, which *The seam* refuses for the same reason.

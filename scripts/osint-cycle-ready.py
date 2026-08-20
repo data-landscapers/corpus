@@ -37,6 +37,14 @@ so the run happens when the hold clears rather than being lost. Untracked files 
 do not count: a stray file nobody remembers would wedge the trigger for ever, and the state
 this is testing for is *a session is part-way through something*.
 
+**`--skip` passes a close over without building it, and loses nothing** *(2026-08-20)*. `BUILD.md`
+works off a set difference over slugs rather than a window, so a close that is never built is
+covered whole by the next one; the only thing skipping costs is the delay. Two occasions call
+for it: a close whose catch is not worth a cycle — *"sweep-iati never returns much work for
+you"* — and a close superseded by a cycle starting **now**, where firing would put a build and
+OSINT's writes over `raw/` at the same time. The watermark records which of `built` or
+`skipped` put it there, so the log of what Corpus did with each night stays truthful.
+
 **A claim that never reported done is the one state that needs a human.** `--claim` records
 the `End` a run is about to build and `--done` advances the watermark to it. If a claim is
 outstanding and newer than `done`, a cycle started and did not finish, and this exits 2
@@ -45,7 +53,8 @@ looping on the fault that stopped it* — and a poll loop re-firing a failing cy
 twenty minutes is that fault with a clock on it. `--release` clears it once a human has
 looked.
 
-Usage:  python scripts/osint-cycle-ready.py [--claim | --done | --release | --status] [--quiet]
+Usage:  python scripts/osint-cycle-ready.py [--claim | --done | --skip | --release | --status]
+                                            [--quiet]
 Exit:   0 ready (or the bookkeeping flag succeeded), 1 not ready, 2 needs attention.
 """
 from __future__ import annotations
@@ -198,7 +207,10 @@ def decide() -> tuple[int, str, dict]:
     end, day, jobs = close
 
     if done and end <= done:
-        return 1, f"nothing new — newest close {end:%Y-%m-%d %H:%M} (day {day}) already built", {}
+        # Worded off `done_by`, because "already built" over a close that was skipped is the
+        # kind of small untruth a log accumulates until nobody trusts any line in it.
+        was = "passed over" if state.get("done_by") == "skipped" else "already built"
+        return 1, f"nothing new — newest close {end:%Y-%m-%d %H:%M} (day {day}) {was}", {}
 
     flight = in_flight(table)
     if flight:
@@ -223,6 +235,8 @@ def main() -> int:
                        help="on ready, record the close this run is about to build")
     group.add_argument("--done", action="store_true",
                        help="advance the watermark to the outstanding claim")
+    group.add_argument("--skip", action="store_true",
+                       help="advance the watermark past the newest close without building it")
     group.add_argument("--release", action="store_true",
                        help="clear an outstanding claim without advancing the watermark")
     group.add_argument("--status", action="store_true", help="print the watermark and stop")
@@ -246,9 +260,28 @@ def main() -> int:
                 return 2
             state["done"] = state["claimed"]
             state["done_head"] = state.get("claimed_head", "unknown")
+            state["done_by"] = "built"
             state["claimed"] = state["claimed_at"] = state["claimed_head"] = None
             save(state)
             say(f"built through {state['done']} (OSINT {str(state['done_head'])[:12]})")
+            return 0
+
+        if args.skip:
+            state = load()
+            if state.get("claimed"):
+                say(f"a claim on {state['claimed']} is outstanding — --release it first")
+                return 2
+            close = newest_close(rows())
+            if not close:
+                say("no row in the rotation table has ever closed")
+                return 2
+            end, day, _ = close
+            state["done"] = end.strftime(TS)
+            state["done_head"] = mirror_head()
+            state["done_by"] = "skipped"
+            save(state)
+            say(f"skipped — day {day}'s close at {state['done']} will not be built; "
+                "the next close covers it")
             return 0
 
         if args.release:

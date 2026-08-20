@@ -187,6 +187,47 @@ def run() -> int:
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
 
+        # --skip passes a close over and stays passed over, and says which it was.
+        tmp = Path(tempfile.mkdtemp(prefix="cycle-trigger-test-"))
+        try:
+            (tmp / "logs").mkdir()
+            cr.MIRROR, cr.CYCLE_LOG = str(tmp), str(tmp / "logs" / "sweep-cycle_log.md")
+            cr.STATE = str(tmp / ".osint-cycle-seen")
+            cr.HOLD, cr.SENTINEL = str(tmp / ".hold-cycle"), str(tmp / ".build-in-progress")
+            Path(cr.CYCLE_LOG).write_text(table(CLOSED_EARLY), encoding="utf-8")
+
+            sys.argv = ["osint-cycle-ready.py", "--skip"]
+            with redirect_stdout(io.StringIO()):
+                skipped = cr.main()
+            sys.argv = ["osint-cycle-ready.py"]
+            with redirect_stdout(io.StringIO()):
+                after_skip = cr.main()
+            state = json.loads(Path(cr.STATE).read_text(encoding="utf-8"))
+
+            # ...and the next close still fires, which is what makes skipping cost nothing
+            Path(cr.CYCLE_LOG).write_text(table(CLOSED_EARLY, CLOSED_LATE), encoding="utf-8")
+            with redirect_stdout(io.StringIO()):
+                next_close = cr.main()
+
+            ok = (skipped == 0 and after_skip == 1 and next_close == 0
+                  and state.get("done") == "2026-08-20 17:06" and state.get("done_by") == "skipped")
+            failures += not ok
+            print(f"  {'ok  ' if ok else 'FAIL'} --skip passes one close over and the next "
+                  f"still fires (skip {skipped}, after {after_skip}, next {next_close}, "
+                  f"done_by {state.get('done_by')})")
+
+            # A skip must not paper over a claim that never reported done
+            Path(cr.STATE).write_text(json.dumps({"done": "2026-08-20 13:22",
+                                                  "claimed": "2026-08-20 17:06"}), encoding="utf-8")
+            sys.argv = ["osint-cycle-ready.py", "--skip"]
+            with redirect_stdout(io.StringIO()):
+                over_claim = cr.main()
+            failures += over_claim != 2
+            print(f"  {'ok  ' if over_claim == 2 else 'FAIL'} --skip refuses over an outstanding "
+                  f"claim  (expected 2, got {over_claim})")
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
         # A hold defers; it does not consume. The close Bill held over must still be waiting
         # when he takes the hold off, or the night is silently skipped — which is the one way
         # the hold could be worse than having no trigger at all.
