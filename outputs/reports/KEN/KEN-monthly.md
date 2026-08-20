@@ -1,16 +1,16 @@
 ---
 title: Kenya — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: KEN
-ledger_rows: 112
-not_held: 6
-record: 525e6e7c1ccf
+ledger_rows: 124
+not_held: 7
+record: 1825755fe1a0
 ---
 
 # Kenya: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -37,6 +37,9 @@ The largest procurement in the window is a surveillance build sold as traffic ma
 On 4 August the operator building the 44MW Tatu City data centre [moved completion to July 2027](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) from a first-quarter 2027 date.
 
 Two prospective builds at the technopolis went from talk to signature inside five days. On 13 August the authority and a hyperscaler were [exploring a local cloud outpost and a startup and technical centre of excellence](https://techmoran.com/2026/08/13/konza-aws-explore-local-cloud-outpost-and-startup-center-in-kenya/) and the ICT principal secretary [received a Chinese network communications group on broadband, smart cities and digital infrastructure investment](https://techafricanews.com/2026/08/13/kenya-eyes-chinese-investment-in-broadband-smart-cities-and-digital-infrastructure/); by 18 August the authority had [signed a collaboration agreement putting the hyperscaler's technical leadership behind an Outpost for hybrid cloud and a startup and innovation centre of excellence](https://itweb.africa/article/aws-konza-team-up-on-hybrid-cloud-infrastructure/dgp45vaBlRg7X9l8), with certification courses for its staff and for young Kenyans and credits for startups, and [a memorandum with the Chinese group covering the planning, investment, financing, design, development and maintenance of cloud, artificial intelligence, high-performance computing and smart-city infrastructure on the site](https://techafricanews.com/2026/08/18/konza-technopolis-partners-guodong-network-to-accelerate-digital-infrastructure-development/). Neither instrument carries a capacity, a site, an investment figure or a date, and the second states its financing models as still to be explored.
+
+
+A proposal arrived that would sit outside the grid entirely. A foreign firm [has proposed a US$1.5bn offshore data centre at Mombasa, powered by liquefied natural gas and designed to bypass the national grid, and is reported in talks with the government](https://econews.co.ke/2026/08/18/amaco-mombasa-ai-data-centre-kenya/). No capacity, timeline or site is disclosed, and the value and the design intent are the proposing company's own.
 <!-- /narrative -->
 ### Energy
 
@@ -64,6 +67,9 @@ A vendor threat report published on 13 August put the exposure at the ordinary e
 The health ministry issued tender addenda on 27 July 2026 that [make financial, tax, insurance, pension, payroll, laboratory and identity interfaces day-one mandatory](https://health.go.ke/node/2517) for a national public-health enterprise system, and require primary hosting inside an approved Kenyan government or health-sector environment.
 
 The Treasury is building the other kind of exchange — one that looks at the money coming in. It is [rolling out a Development Partners Management Information System, expected to launch before the end of 2026](https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds), to consolidate data on development-partner commitments, disbursements and funded programmes for planning and oversight. No supplier, cost, or statement of whether the consolidated data will be published is reported.
+
+
+The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -104,16 +110,27 @@ On 28 July the Court of Appeal's narrowing of the Computer Misuse and Cybercrime
 Cyber cafés acquired licence conditions and then a clarification of them. The regulator [published the conditions by gazette notice on 7 August, taking effect on 7 September](https://techcabal.com/2026/08/13/kenya-says-cyber-cafes-dont-have-to-track-browsing-history/), requiring customer name and identity number, terminal and session times to be captured and kept at least three years, and [clarified on 13 August that operators need not track customers' browsing history](https://techcabal.com/2026/08/13/kenya-says-cyber-cafes-dont-have-to-track-browsing-history/). An earlier account of the same rules gave the effective date as 14 August; the gazette notice the regulator cites puts it four weeks later.
 
 A separate bill would meter what those records cover. An internet service provider [told Parliament on 14 August that mandatory consumption-based internet billing under the Kenya Information and Communications (Amendment) Bill 2025 could raise costs and create data-privacy risks](https://peopledaily.digital/business/faiba-warns-parliament-new-internet-billing-rules-could-raise-costs-and-threaten-privacy), metering at subscriber level implying retained usage records. No committee report or enactment date is published.
+
+
+The intellectual-property bill acquired its shape in public. Parliament [invited submissions on a draft that would merge the industrial property institute, the copyright board and the anti-counterfeit authority into a single regulator, replace the 2001 and 2008 statutes, and set rules distinguishing AI-assisted from AI-generated inventions](https://www.pulse.co.ke/story/the-intellectual-property-bill-2026-what-kenyan-bloggers-and-tiktokers-need-to-know-2026081618295613444).
 <!-- /narrative -->
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
 A revised Hustler Fund merchant tariff schedule takes effect on 7 August, delivered as voluntary alignment with central bank pricing principles rather than a gazetted rule.
 <!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+The continental data convention still has no Kenyan signature behind it. A peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory and finds all four frameworks fragmented, with weak harmonisation of cross-border transfers and capacity gaps](https://datascience.codata.org/articles/10.5334/dsj-2026-031). That is a finding about the record rather than a change in it: nothing establishes a position either way, and the row is carried as a dated absence.
+<!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 Two days after introducing the equipment distributor licence, the Communications Authority introduced vendor class-licence rules requiring a twelve-month warranty and three years of retained sales records. The data-protection regulator launched a quality management system on 14 July, phased toward external certification.
+
+
+Two sets of standards arrived, one binding and one draft. The revenue allocation commission [gazetted binding standards for county own-source revenue automation, covering the system lifecycle from procurement to audit and requiring data ownership and portability safeguards to cut vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/); no compliance date, county baseline or enforcement mechanism accompanies them. The pharmacy regulator [published draft guidelines for digital pharmacy services covering telepharmacy, electronic prescribing and digital health records](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/), with no consultation close or adoption date stated.
 <!-- /narrative -->
 ### Data protection
 
@@ -121,6 +138,14 @@ Two days after introducing the equipment distributor licence, the Communications
 On 4 August the data-protection regulator published [draft guidance on offshore AI processing](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) requiring a lawful transfer basis, a documented adequacy assessment and a written processing agreement before personal data leaves Kenya; the note itself is not held after two retrievals returned HTTP 404.
 
 The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) that it is investigating three licensed operators on a complaint dated 19 May 2026, with police requesting its entire record on the licensees back to 2018.
+
+
+The regulator also drew the electoral process inside the Act. The data commissioner [said guidance now binds every organisation touching voter data, from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data), as unsolicited political messaging spreads ahead of the 2027 election. No enforcement action under the guidance is on record.
+<!-- /narrative -->
+### EU activities
+
+<!-- narrative: governance--geopol-eu -->
+A European data-adequacy decision was described as being in prospect, in [a development agency interview that mentions it in passing alongside cross-border identity work](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No application, assessment stage or timetable is stated, and neither the European Commission nor the government has said anything on the record here.
 <!-- /narrative -->
 ### Open data
 
@@ -185,6 +210,14 @@ The 117th digital hub was [commissioned in Baringo on 20 July](https://techafric
 Two financings were signed. A [EUR270m facility across 21 obligors in eight jurisdictions was signed on 9 July, its committed portion of up to EUR170m including a local-currency tranche of up to EUR20m equivalent in shillings for fibre modernisation in Kenya](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270), with a further uncommitted EUR100m for future acquisitions and capital expenditure across the lender's sub-Saharan operations. Domestically the digital economy acceleration project [took KSh 4.3bn for the year, half the entire digital thematic, to equip more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262).
 
 On 4 August the development lender committed [US$24.2m across three Kenyan lenders under the first catalytic first-loss guarantee transactions anywhere in Africa](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first), backed by US$11m of concessional private-sector-window money and expected to catalyse about US$144.4m of local-currency lending to micro-enterprises. Only one of the three counterparties is a digital lender; the individual allocations are not disclosed, so what the structure buys in fintech terms cannot be read off the announcement.
+
+
+On the lending side, a guarantee structure was announced on 5 August: [a catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses). The catalysed figure is an expectation rather than a disbursement.
+<!-- /narrative -->
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+The judiciary took on a foreign partner for its access-to-justice work. A memorandum [was signed at the Supreme Court on 10 August with a Netherlands justice-innovation institute, with an intergovernmental development-law organisation and the Netherlands embassy participating](https://www.hiil.org/news/hiil-and-kenyas-judiciary-formalise-partnership/), building on the country's own access-to-justice blueprint. No value, term or deliverable is stated. In the same week the chamber of commerce and the council of governors [signed a five-year agreement to harmonise county business licensing and digitise small-enterprise data across all 47 counties](https://www.kenyachamber.or.ke/2026/08/13/kncci-and-cog-sign-landmark-strategic-partnership-to-drive-msme-growth-data-digitization-and-county-led-economic-development/), with no budget, milestone or data-governance arrangement for the pooled data stated.
 <!-- /narrative -->
 ### Domestic budget appropriations and expenditure
 
