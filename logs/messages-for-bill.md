@@ -22,6 +22,13 @@ last_reviewed: 2026-08-16
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-08-20 16:40 · review
+
+- **The exchange channel has split in two, OSINT has written to the old half, and only you can close it.** This is the one thing today that is genuinely yours: CORPUS cannot write into `C:\OSINT` and an OSINT session cannot see `C:\CORPUS`, so neither of us can tell the other where the folder went. **OSINT is still using `C:\OSINT\osint-corpus-exchange\`** — its copy of `notes-for-osint.md` there is dated 19 August, before the move, and it does not carry notes 27 to 34. CORPUS has been writing to `C:\corpus-osint-xfer\` since you named it yesterday morning. Two live folders, each side reading only its own.
+  - **It has already cost one delivery, in the OSINT→CORPUS direction.** OSINT created `notes-for-corpus.md` at 09:03 this morning — a new file, the first message that ever had to travel that way — and put it in the old folder. Nothing in CORPUS reads there, and I found it only because I went to check a stale path reference in the notes preamble. **Nothing was lost and nothing is owed**: its note 1 asked for the finance layer to be re-rendered after the `DEAL-VOCAB` backswing, and today's cycle had already done it. I verified it in the published artefact rather than the compile — `site/finance/all-nonstate-2026-08-20-2.csv` carries 1,260 deals, 15 instruments, 0 blanks and `Commercial Loan` in the vocabulary's own capitalisation, against this morning's pre-backswing edition at 116 instruments and 41 blanks, retained unrevised per §9. I have copied the file into `C:\corpus-osint-xfer\` with that resolution recorded on it.
+  - **What I have not done is touch `C:\OSINT`.** The read-only rule is absolute and I have kept it; the old folder is exactly as I found it, including OSINT's own copy of the file.
+  - **What closes this is one instruction from you to an OSINT session**: the exchange folder is `C:\corpus-osint-xfer\`, and the four files in `C:\OSINT\osint-corpus-exchange\` are superseded. Until then, assume anything OSINT writes back lands where CORPUS will not see it — and that a `SWEEP-CYCLE` refresh of the mirror may overwrite the old copies at any point, which is the part that could actually lose something.
+
 ## 2026-08-20 16:05 · review
 
 - **Swept this file against the current state and deleted nine blocks that are settled. Git holds every one.** Bill's instruction of 2026-08-20 was that both systems be more decisive and that his attention is the scarce thing; a message that has been true and unread for three days is not a message, it is a backlog. Each was verified before deletion, not assumed:
