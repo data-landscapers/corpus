@@ -1,16 +1,16 @@
 ---
 title: Uganda — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: UGA
-ledger_rows: 58
+ledger_rows: 60
 not_held: 16
-record: 7014db07ed63
+record: 3163fb259838
 ---
 
 # Uganda: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -68,6 +68,9 @@ Three payment arrangements were opened in the month, all private. A [licensed lo
 A fourth opened a settlement route rather than a product: a commercial bank [integrated China's cross-border interbank payment system to offer direct yuan settlement to Ugandan businesses](https://ntv.co.ug/news/uganda-china-tradenew-banking-system-opens-direct-yuan-payments), against imports from China of US$3.3bn in 2025 and exports of US$118m. One bank's service, with no volume, fee or central-bank position stated.
 
 The scale underneath all of it is in the regulator's quarterly report: [2.55 billion mobile money transactions in the second quarter of 2026, up from 2.37 billion in the first, on 59.5 million registered subscriptions, with telecommunications revenue at UGX 1.73 trillion](https://www.pulse.ug/story/uganda-mobile-money-transactions-q2-2026081410364799573).
+
+
+A fourth arrangement opened on 19 August, and it is card rather than wallet: a commercial bank and an international scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Uganda](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both. The merchant count is given for the nine markets together.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -136,6 +139,9 @@ A [technical-assistance tender was published on 31 July, estimated at EUR 938,17
 On 30 July an external policy outlook [recorded Uganda as still developing an artificial-intelligence strategy](https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/) alongside a readiness assessment, sixteen months after the strategy was described as being in its final stages. On 2 August the minister of ICT told the Editors Guild annual general meeting in Jinja that the ministry is [developing a policy to regulate artificial intelligence and social media](https://nilepost.co.ug/news/360765/editors-raise-alarm-over-ai-misuse-journalist-identity-data-protection-gaps); no scope, drafting stage, responsible body, consultation route or timetable was given. Editors at the same meeting raised data-protection exposure from digitised newsroom operations.
 
 A profession got there before the state did. The medical and dental practitioners council [directed medical and dental training schools to integrate artificial intelligence into their curricula, with compliance assessed at future biennial institutional inspections](https://www.newvision.co.ug/category/health/medical-schools-asked-to-integrate-ai-into-tr-NV_238701_082026). No curriculum standard, syllabus, teaching-capacity assessment or funding is attached to the directive, and it lands in a country whose own strategy is still unwritten.
+
+
+What developers here build on is being decided ahead of the strategy. A wire report records a Ugandan developer [building a 31-language model on a Chinese open-weight model rather than an American one, largely on cost](https://www.asiae.co.kr/en/article/2026080708231865765), against a claim in the same report that Chinese open-weight models took 17.1% of global downloads over the year to 15.8% for American ones. Neither figure is independently held here, and no licence terms or evaluation of the model are on record.
 <!-- /narrative -->
 ### Innovation ecosystem
 

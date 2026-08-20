@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-20
 place: MOZ
 ledger_rows: 63
 not_held: 19
-record: ab0e66b10eb6
+record: 15747aac9de3
 ---
 
 # Mozambique: monthly update, July 2026
@@ -121,8 +121,6 @@ The regulator opened a free public device-identity lookup on 4 August, checked a
 <!-- narrative: governance--gov-protect -->
 The same 22 July conference remarks named the personal data protection law as an instrument in preparation, under the same warning that once approved it will place obligations on companies and not only on the state ([ministerial account](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)). Mozambique remained without a data protection law in force, with no tabling or adoption date stated.
 
-
-What the absent law costs showed up in someone else's audit. A rights organisation's reading of seven American health memoranda [puts Mozambique among three that commit to hand over any data requested for an American audit without explicit privacy safeguards, among five whose text requires unilateral sharing of specimens and pathogen-sequencing data, and among two that lack a binding comprehensive data-protection law](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements). The data-sharing agreement itself remains unpublished.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

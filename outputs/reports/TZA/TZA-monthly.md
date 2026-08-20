@@ -1,16 +1,16 @@
 ---
 title: Tanzania — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: TZA
-ledger_rows: 58
+ledger_rows: 61
 not_held: 13
-record: f68c7ea3e2f4
+record: dd2813d23d6c
 ---
 
 # Tanzania: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -51,6 +51,9 @@ The state operator [gave students of a technical institute hands-on training on 
 One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228).
 
 August gave the national series the earlier account lacked. The regulator told Parliament it had [blocked 39,117 fraud-linked phone numbers and 6,118 domains and applications in the 2025/26 financial year, removed 7,311 violating accounts and submitted 56 security-incident reports to the police](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/); and it [identified 7,334 mobile lines linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter](https://www.thecitizen.co.tz/tanzania/business/government-telecoms-join-forces-to-combat-growing-mobile-fraud-5553640), with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. Blocking is not prosecution: [56 incident reports stand against 39,117 numbers blocked](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/), and no conviction or restitution figure is held.
+
+
+The same budget statement [provides for cybercrime investigation centres at Dodoma and Zanzibar](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). Nothing is built, sited or staffed on the record, and the country still holds no published national cybersecurity strategy to place them in.
 <!-- /narrative -->
 
 ## Digital public infrastructure
@@ -64,6 +67,9 @@ The public procurement appeals authority [directed all domestic and internationa
 
 <!-- narrative: dpi--dpi-id -->
 The identity register is the most heavily integrated rail the base holds anywhere, and its coverage is flat. [Over 138 public and private institutions are integrated across banking, insurance and social security](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) — the hardest adoption figure the base carries for any African identity-verification rail. Against that, the register stands at [26.4m registered, 22.3m numbers issued and 20.6m cards physically distributed, about 81% of eligible adults](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) at December 2025: counts up, percentage flat to slightly down against a growing adult denominator. The [gap between numbers issued and cards in citizens' hands is 1.7m](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf), and it did not close over the period.
+
+
+The budget behind it was set out to Parliament on 19 August: the home affairs ministry [put the identifier's rollout among its 2026/27 priorities under the national blueprint, alongside new district registration offices and a headquarters at Dodoma](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). No cost line or timetable accompanies the priority.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -75,6 +81,9 @@ One month in, the price of using the rails became the argument. On 31 July the c
 A technical meeting in Zanzibar from 7 to 11 July [advanced the governance, commercial and risk frameworks for a cross-border instant-payment corridor with Rwanda](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374). No launch date was set.
 
 August supplied the adoption side of the same picture, from two directions. The government is [promoting affordable-smartphone financing to widen electronic-payment take-up, with active mobile money accounts up 7.5% to 87.05 million and smartphone penetration at 44.74% in June 2026](https://dailynews.co.tz/govt-spurs-e-payments/), as the central bank directs eight business sectors to adopt electronic payment systems within six months from January 2027. And in the countryside an operator's agricultural service [pays crop proceeds straight to farmers' phones, reporting more than TSh150bn paid to farmers in two southern regions in the 2025/26 season and over TSh50bn already in 2026/27](https://dailynews.co.tz/mixx-digital-payments-boost-farmers-incomes-businesses/), covering [more than 2,000 coffee and pigeon-pea farmers in two northern regions](https://www.thecitizen.co.tz/tanzania/news/national/over-2-000-northern-tanzania-farmers-benefit-from-mixx-digital-services-5551992) and [expanding into the southern highlands](https://www.thecitizen.co.tz/tanzania/news/national/mixx-by-yas-eases-payments-for-southern-highlands-farmers-5552008), alongside linked credit and health insurance. Every figure is the operator's own, given at a promotional exhibition at which it also awarded vehicles and phones to loyal users, and no farmer total, fee schedule or default rate on the linked credit is published.
+
+
+Acceptance widened from outside as well. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Tanzania on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Tanzania.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 

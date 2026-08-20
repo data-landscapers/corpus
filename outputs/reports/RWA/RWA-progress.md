@@ -1,20 +1,20 @@
 ---
-title: Rwanda — progress report, 2025-08-01 to 2026-08-19
-compiled: 2026-08-19
-period: 2025-08-01 to 2026-08-19
+title: Rwanda — progress report, 2025-08-01 to 2026-08-20
+compiled: 2026-08-20
+period: 2025-08-01 to 2026-08-20
 place: RWA
-ledger_rows: 120
+ledger_rows: 122
 not_held: 9
-record: d75b0e393bb6
+record: 25ec73dcb918
 ---
 
-# Rwanda: progress report, 2025-08-01 to 2026-08-19
+# Rwanda: progress report, 2025-08-01 to 2026-08-20
 
-*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-20 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 120 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-19, 35 did not, 16 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 122 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-20, 35 did not, 18 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 192 sources for this place in the window — 24 in the earlier half (2025-08 to 2026-01), 168 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 194 sources for this place in the window — 24 in the earlier half (2025-08 to 2026-01), 170 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -28,10 +28,10 @@ Not one new Rwandan statute reached the books in the twelve months the base can 
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Country partnership framework | A framework in force for 2021 to 2026 with an indicative US$912m first-cycle allocation | [A nine-year framework prepared but not launched, with job creation the organising objective and no committed envelope on the record](https://www.ktpress.rw/2026/07/world-bank-poised-to-roll-out-new-9-year-rwanda-financing-framework/) | Advanced |
-| Cross-border terrestrial fibre route | Did not exist | [A 2,000 km protected terrestrial route across four countries, live and carrying wholesale traffic with direct interconnection into data centres in each city](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn) | Advanced |
+| Cross-border terrestrial fibre route | Did not exist | [A 2,000 km protected terrestrial route across four countries, live and carrying wholesale traffic with direct interconnection into data centres in each city. Its operator marked a first year in the country in August 2026, describing a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi within a network spanning sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/) | Advanced |
 | Information and communications for development appropriation | RWF 5,395,372,252 domestic against RWF 45.06bn external for 2025/26 | [RWF 4,851,958,667 domestic against RWF 65,798,446,317 external for 2026/27](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | Regressed |
 | Internet penetration | 34% in 2024 rising to 38% at mid-2025 | [42.6% projected for end-2025 with 1.35m households on home internet, and no measured 2026 figure published](https://techcabal.com/2025/06/12/rwanda-internet-penetration-rate/) | Advanced |
 | Mobile and internet subscriptions | 13,194,764 mobile-cellular and 10,064,499 internet subscriptions a year earlier | [14,001,080 mobile-cellular subscriptions at 97.1 per 100 inhabitants and 10,738,906 internet subscriptions](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Statistics/Quarterly_publication/ICT_Sector_Statistics_Report_as_of_the_First_Quarter_2026.pdf) | Advanced |
@@ -48,7 +48,7 @@ Not one new Rwandan statute reached the books in the twelve months the base can 
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Data centre memorandum with a Gulf operator | Did not exist | [A memorandum to jointly invest in an AI-ready Tier III data centre, with no site, capacity, cost, financing or date published](https://techafricanews.com/2026/05/29/broadband-systems-and-oman-data-park-sign-deal-to-expand-rwandas-digital-infrastructure/) | Advanced |
 | Digital investment roadmap | Did not exist | [A ministry roadmap with international partners on policy and regulatory reforms to attract cloud, financial-technology and data-infrastructure investment](https://techafricanews.com/2025/10/30/rwanda-unveils-strategic-digital-fdi-report-to-drive-investment-in-cloud-fintech-and-data-infrastructure/) | Advanced |
@@ -58,13 +58,13 @@ Not one new Rwandan statute reached the books in the twelve months the base can 
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Institute of computing | Did not exist | [An affiliated institute of the national university beside an existing coding academy, offering degrees in artificial intelligence and cyber security, with the first two intakes limited to that academy's graduates](https://www.newtimes.co.rw/article/37884/news/technology/five-things-to-know-about-upcoming-rwanda-institute-of-computing) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cyber security centre of excellence | Did not exist | [Operating at a university college with a cyber security academy, an innovation hub and technology labs, with vendor and donor partners](https://itweb.africa/article/rwanda-unveils-cyber-security-centre-of-excellence/kLgB17ez2x4M59N4) | Advanced |
 | Biometric SIM registration regulation | In force, with registration verified against the national biometric database | [The same, with no rollout completion, enrolment or enforcement figure published](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Regulatory_Instruments/ICT_Regulations_and_Guidelines/Regulation_Governing_SIM_Card_Registration_in_Rwanda.pdf) | No change |
@@ -85,7 +85,7 @@ Everything else accreted detail on a position already held. The 812-school gap i
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | National digital public infrastructure strategy | Did not exist | [A shared foundation of interoperable identity, payments and data-exchange layers treated as public goods](https://www.newtimes.co.rw/article/34011/news/featured/rwanda-launches-digital-public-infrastructure-strategy-to-power-citizen-services-ai) | Advanced |
 | National data-sharing platform | A build under way with a 2026 target and a vendor paired with internal experts | [Still no go-live announcement as at 2026-08-05, with the target year eight months gone](https://www.newtimes.co.rw/article/30040/news/technology/govt-moves-ahead-with-data-sharing-platform-to-go-live-in-2026) | No change |
@@ -93,7 +93,7 @@ Everything else accreted detail on a position already held. The 812-school gap i
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital identity enrolment | None enrolled; registration opened six days after the window's start | [4.4m of about 14m in June 2026, from 2,373,854 in March 2026 and about 1.49m in February](https://www.biometricupdate.com/202606/rwanda-accelerates-biometric-enrollment-ahead-of-digital-id-switch) | Advanced |
 | Imibereho social registry | ***Baseline not held*** | [In service since early 2024 with an appeals process running: 360,000 people challenged their category and 93% of disputed classifications were corrected, disputes tracing largely to stale asset records such as unrecorded land or vehicle sales](https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024) | Advanced |
@@ -103,7 +103,7 @@ Everything else accreted detail on a position already held. The 812-school gap i
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Active mobile money accounts | About 7.44m a year earlier, implied by the reported growth rate | [8,558,024 subscriber lines linked to active mobile money accounts](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Statistics/Quarterly_publication/ICT_Sector_Statistics_Report_as_of_the_First_Quarter_2026.pdf) | Advanced |
 | Bank and mobile-money credit product | Did not exist | [Instant loans of up to RWF 2,000,000 and saving from a mobile money wallet over a short code, with no pricing, interest rate, eligibility rule or volume published](https://taarifa.rw/2026/08/02/bpr-bank-rwanda-and-mtn-momo-rwanda-launch-mofaya-digital-loan-and-savings-solution) | Advanced |
@@ -115,7 +115,7 @@ Everything else accreted detail on a position already held. The 812-school gap i
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Birth-registration completeness | 90.3% in 2024 | [92.9% in 2025 on 356,838 recorded births](https://www.ktpress.rw/2026/04/rwanda-is-counting-everything-and-changing-in-the-process/) | Advanced |
 | Business registration platform | Not fully online | [Incorporation in 24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/) | Advanced |
@@ -125,7 +125,7 @@ Everything else accreted detail on a position already held. The 812-school gap i
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | e-Tracker electronic immunization registry | Did not exist | [Nationwide, near-100% data consistency reported by 2024; facility-level underuse persists at some sites](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full) | Advanced |
 | National health intelligence centre | Launched integrating hospital, health-centre, supply-chain and workforce data | [A real-time hub with national data-to-insight latency cut from about two months to near real-time, expanding toward predictive intelligence](https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care) | No change |
@@ -133,7 +133,7 @@ Everything else accreted detail on a position already held. The 812-school gap i
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Electronic billing machine as an export | Domestically built platforms reported in four other states, with no product-specific buyer list | [Two states adopted, one mid-adoption and two more interested](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy) | Advanced |
 | Electronic procurement platform as an export | Cooperation confined to public-finance and procurement digitisation | [One state co-developing the platform, with health, artificial intelligence, commerce and public-service tracks identified but not signed](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy) | Advanced |
@@ -141,25 +141,25 @@ Everything else accreted detail on a position already held. The 812-school gap i
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | School internet connectivity | 3,082 schools connected in 2023/24, about 62% by late 2024 | [4,184 of 4,996 connected with 812 outstanding, rural at about 27% against urban at about 75%](https://www.ktpress.rw/2026/03/connecting-the-remaining-812-schools-takes-centre-stage-at-edtech-mondays-dialogue/) | Advanced |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Local-government citizen platform | An earlier platform was the incumbent local-government channel | [An AI-powered citizen issue-reporting platform integrating the services portal and civil registration, with no national rollout date](https://www.newtimes.co.rw/article/30507/news/technology/govt-developing-new-digital-system-to-enhance-public-service-delivery) | Advanced |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Statistics programme appropriation | RWF 1,654,449,677 domestic under one ministry for 2025/26 | [RWF 1,419,073,405 domestic under another ministry for 2026/27, against RWF 9,386,979,010 external](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | Regressed |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | National satellite data programme (Planet) | ***Baseline not held*** | [Government agencies, public universities, selected startups and development partners given access to near-daily imagery for agriculture and food-security monitoring, forest health, urban planning and disaster response, managed by the Rwanda Space Agency; no cost, term or data-licence arrangement published](https://itweb.africa/article/planet-and-the-government-of-rwanda-launch-first-of-its-kind-national-satellite-data-program-in-africa/nWJadMbNDxlMbjO1) | ***Baseline not held*** |
 
@@ -177,7 +177,7 @@ The fisc moved the other way. The domestically financed development programme fe
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Draft law on virtual assets | Did not exist | [The rationale approved in principle and referred to committee; not enacted, with no text and no gazette date](https://techafricanews.com/2026/04/01/parliament-approves-draft-law-on-virtual-assets-as-rwanda-strengthens-digital-finance-rules/) | Advanced |
 | Single digital identification law | In force, with nationwide enrolment not yet opened | [Enrolment open and scaling, with banks, hospitals, telecoms operators and government institutions expected to use the new authentication from the sunset date and legacy cards becoming invalid](https://www.newtimes.co.rw/article/34398/news/technology/govt-sets-2027-deadline-for-full-shift-to-digital-id) | Advanced |
@@ -185,7 +185,7 @@ The fisc moved the other way. The domestically financed development programme fe
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Legacy-network retirement plan | None published | [Third-generation service off nationwide from June 2027, with December 2028 the working date for the older network, expressly conditional, and operators running trial shutdowns during 2026](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027) | Advanced |
 | National artificial intelligence agency | Did not exist | [Approved by cabinet to coordinate development, adoption, investment and governance, with structure, operations and implementation timeline still not made public. On 2026-08-17 the ICT ministry said the agency would coordinate shared compute and data-centre capacity for start-ups and researchers, answering early-stage artificial-intelligence firms that had pressed publicly for infrastructure and funding support](https://allafrica.com/stories/202608170713.html) | Advanced |
@@ -195,32 +195,34 @@ The fisc moved the other way. The domestically financed development programme fe
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | COMESA regional AI framework | Did not exist | [Consultation stage only; findings to feed a regional study toward a Regional AI Strategy, Model Policy Guidelines and Model Regulatory Frameworks; no text or timetable published; Rwanda participates as host, reporting unquantified progress on its own national AI policy](https://rwandainspirer.com/rwanda-highlights-ai-policy-progress-as-comesa-seeks-regional-framework/) | Advanced |
 | Bilateral licence passporting memorandum | Signed, with the text unpublished so the licence categories it recognises are unknown | [Still unpublished by either central bank as at 2026-07-30, cited as a working precedent with no firm reported as having used it](https://www.bog.gov.gh/wp-content/uploads/2025/02/PRESS-RELEASE-GHANA-AND-RWANDA-SIGN-A-MEMORANDUM-OF-UNDERSTANDING-MOU.pdf) | No change |
+| Cross-border digital identity pilot | ***Baseline not held*** | [A pilot recognising a digital identity issued in one of Rwanda, Ghana and Benin in the other two, presented as the first step to a single African digital market by 2030, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty) | ***Baseline not held*** |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Electronic-government interoperability framework | None published | [RGEA v2.1, published by RISA and based on TOGAF, in force to govern government-wide ICT architecture standards; distinct from the 2019 dissertation's named 'interoperability framework', which the base still holds no separate instrument for](https://dr.ur.ac.rw/handle/123456789/1229) | Advanced |
 | Cross-border data-exchange conformance | ***Baseline not held*** | [Identification, immigration and technology authorities convened with two other states on trust chains, interface contracts and cross-border verification toward a federated architecture, with no national conformance profile or adoption instrument held](https://techreviewafrica.com/news/5165/) | ***Baseline not held*** |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | United States bilateral health agreement and its data-sharing agreement | Not held | [Signed memorandum with activities running 2026-04-01 to 2030-12-31; section 2.5.2 commits Rwanda to negotiate a further 25-year data-sharing arrangement with no data-owner clause or volume cap, unlike Uganda's equivalent instrument](https://www.citizen.org/wp-content/uploads/Rwanda_Us_Afghs_Mou.pdf) | Advanced |
 | Data protection and privacy law | In force and in its enforcement phase since October 2023, with no published enforcement record | [In force with extraterritorial reach and fines to RWF 5m or 1% of global turnover, still with no enforcement action, fine total or breach register published](https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors) | No change |
 | Data protection appropriation | RWF 130m for 2025/26, down from RWF 150m, with no outturn published | [RWF 130m again for 2026/27, with the 2024/25 outturn now known at RWF 52.71m against RWF 150m enacted, 35.1%, all in the first quarter](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | No change |
 | Data-protection supervisory authority | The supervisory authority, budgeted inside the presidency, in an awareness phase | [A capacity-building phase with more than a hundred public-sector officers trained, authorising every cross-border transfer](https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors) | No change |
 | Registered data controllers and processors | No registry count published | [Still no count of registered controllers or processors, and no enforcement or fine total](https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors) | No change |
+| Data sharing arrangement under the health memorandum | ***Baseline not held*** | [A rights organisation's reading of the seven signed American health memoranda puts Rwanda among three that commit to hand over any data requested for the American audit without explicit privacy safeguards, and among five whose text requires unilateral sharing of specimens and pathogen-sequencing data; all seven require broad audit access](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | ***Baseline not held*** |
 | Privacy compliance score | ***Baseline not held*** | [33% for 2025, level with one neighbour, against 46% for another and a 46% continental average](https://www.unwantedwitness.org/africas-digital-economy-is-expanding-faster-than-its-privacy-protections/) | ***Baseline not held*** |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Internet governance forum | ***Baseline not held*** | [An annual multistakeholder forum run under the domain registry, with nearly 200 people through a school on internet governance and a youth forum](https://rwandainspirer.com/digital-trust-and-ai-oversight-dominate-discussions-at-rwanda-internet-governance-forum/) | ***Baseline not held*** |
 
@@ -236,7 +238,7 @@ Three absences held constant across the whole period and are this section's real
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Bilateral AI memorandum with a North African state | Did not exist | [A framework on responsible development and deployment, digital government, innovation and digital skills, with no funding, deliverable or timeline stated](https://techafricanews.com/2026/07/10/rwanda-and-egypt-deepen-ai-cooperation-with-new-digital-partnership/) | Advanced |
 | Head of state's international AI commission role | Did not exist | [Co-chair of an international commission on artificial intelligence for good, with a remit stated as inclusive governance, expanding access and narrowing the digital divide](https://itweb.africa/article/kagame-co-chairs-global-ai-commission/Kjlyr7wBke9vk6am) | Advanced |
@@ -251,7 +253,7 @@ Three absences held constant across the whole period and are this section's real
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Dominant operator's results | A net loss in the same quarter a year earlier | [Profit after tax of RWF 10.8bn, service revenue up 14.7%, mobile-money monthly active users up 17.3% to 6.2m and fourth-generation population coverage at 94.8%](https://techcabal.com/2026/05/11/data-and-fintech-power-mtn-rwandas-return-to-profitability/) | Advanced |
 | Information and communication sector employment | About 12,000 workers a year earlier | [19,000 workers, up 62.6% year on year against 2.7% economy-wide, still about 0.4% of total employment](https://www.ktpress.rw/2026/07/why-tech-is-rwandas-fastest-growing-source-of-new-jobs/) | Advanced |
@@ -259,7 +261,7 @@ Three absences held constant across the whole period and are this section's real
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Development bank venture debt fund | Did not exist | [The bank is sole committed backer at US$6m, with a further US$3m near-committed and two development institutions in discussion, on uncollateralised cheques at 9 to 12% over six to eight years](https://techcabal.com/2026/08/03/rwanda-debt-6-million/) | Advanced |
 | Financial technology centre | Did not exist | [A one-stop hub under a financial-technology strategy, established by the ministry with an industry chamber, a financial centre, an association and a foreign cooperation agency](https://itweb.africa/article/rwandas-fintech-centre-sets-the-stage-for-growth/mYZRX79gzjLqOgA8) | Advanced |
@@ -269,7 +271,7 @@ Three absences held constant across the whole period and are this section's real
 
 ### India activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Indian-origin technology investment | The capital listed among future edge data-centre sites within a continental plan, with no site, capacity, date or investment figure | [Unchanged; nothing further held as at 2026-08-05](https://www.datacenterdynamics.com/en/marketwatch/nxtra-airtels-leap-into-africas-growing-data-center-market) | No change |
 
@@ -287,7 +289,7 @@ The continental instruments the country hosts have not converted into delivery: 
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Smart-device affordability fund | A design stage with the development bank as financial intermediary, phased pilots and social-category subsidy targeting | [The same design stage, with no market assessment, pilot or disbursement figure held](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026) | No change |
 | Universal access or service fund | In force under a presidential order of 12 May 2023, with each licensee's annual contribution capped at 2.5% of the turnover of each category of regulated service | [The same; the operative rate is a regulatory-board decision not held, and the most recent accounts held remain 2020/21, when Frw 3,828,837,334 was spent against a Frw 6,372,536,516 budget](https://www.minict.gov.rw/index.php?eID=dumpFile&f=71170&t=f&token=b823ce70150c2240be4a87269bc40c9b8a997ef1) | No change |
@@ -295,21 +297,21 @@ The continental instruments the country hosts have not converted into delivery: 
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Accounts per mobile money agent | About 42 accounts per agent a year earlier, implied by the stated growth rates | [About 44 accounts per agent, on 8,558,024 accounts against 195,739 agent lines](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Statistics/Quarterly_publication/ICT_Sector_Statistics_Report_as_of_the_First_Quarter_2026.pdf) | Advanced, agent network lagging |
 | Formal financial access | 48% of adults in 2008 | [96% of adults with formal financial access in 2024, with 68.5% using a mobile wallet but only about 5% holding a bank account](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash) | Advanced |
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital ambassador programme | A US$4.5m phase from 2022 to 2026 active with the information society authority | [The phase concluded with 1,567,034 citizens trained, 1,000 ambassadors and 30 supervisors deployed and five service access points established](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) | Closed, financing phase |
 | National AI literacy teacher programme | ***Baseline not held*** | [More than 5,000 teachers across every district trained in the first phase, as asserted](https://www.linkedin.com/pulse/africas-biggest-ai-risk-isnt-being-left-behind-its-misread-njila-3zj4c/) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Coding academy | Operating on about US$7.9m including a government counterpart, with 118 students across two intakes in September 2021 | [The same financing, now the exclusive admission route into the new computing institute's first two intakes](https://www.minecofin.gov.rw/news-detail/rwanda-coding-academy-receives-frw-71-billion-support-from-koica) | Advanced, becomes sole feeder |
 | Inclusive digital transformation centre | US$275.7m across an endowment and a centre, from 2022 to 2035, targeting 10,000 learners | [Unchanged; no progress figure against the target at any date](https://www.cmu.edu/news/stories/archives/2022/september/carnegie-mellon-university-and-mastercard-foundation-partner-to-drive-youth-led-digital) | No change |
@@ -317,7 +319,7 @@ The continental instruments the country hosts have not converted into delivery: 
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Continental research and education partnership | ***Baseline not held*** | [An advanced technology innovation centre at a public university, recorded active](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) | ***Baseline not held*** |
 
@@ -333,20 +335,20 @@ The clearest single regression is the second mobile-money operator — market sh
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital acceleration project, inclusion components | An envelope of about US$200m, 55% complete | [Still 55%, with no updated disbursement or completion figure and the project period ending in 2026](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026) | No change |
 | Regional bank digital acceleration operation | A US$100m commitment with a US$60.5m digital access and inclusion component | [Unchanged; no disbursement figure held at any date and the period closes in 2026](https://www.aiib.org/en/projects/details/2021/approved/Rwanda-Digital-Acceleration-Project-Digital-Investment-for-Recovery-Resilience-and-Connectivity.html) | No change |
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Capital markets registrar-services memorandum with Africa Prudential | Not held | [Signed between the Capital Markets Authority and a Nigerian registrar company to cooperate on registrar services, securities administration, investor identification, data management and digital capital-markets systems, following a study visit in June 2026 to that company's digital investor-services model of virtual shareholder meetings, electronic voting and mobile-based investment tracking](https://radiotv10.rw/en/cma-rwanda-partners-with-nigerias-africa-prudential-to-advance-capital-markets-development/) | ***Baseline not held*** |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Education technology appropriation, second line | RWF 1,270,347,338 appropriated for 2025/26 | [RWF 832,894,405 for 2026/27, down 34.4% year on year and 74% against 2024/25](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | Regressed |
 | Education technology integration appropriation | RWF 23,522,003,941 appropriated for 2025/26 | [RWF 28,956,710,022 for 2026/27, up 23.1%, with the last outturn at 81.7% of voted](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | Advanced |

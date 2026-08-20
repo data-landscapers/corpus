@@ -1,16 +1,16 @@
 ---
 title: Rwanda — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: RWA
-ledger_rows: 44
+ledger_rows: 46
 not_held: 9
-record: 8f160fa182d9
+record: 4c86e40cb38d
 ---
 
 # Rwanda: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -24,6 +24,9 @@ Two dates were fixed in July. Effective 14 July the central bank [migrated all d
 
 <!-- narrative: infrastructure--infra-connect -->
 The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the older, second-generation network, expressly conditional on coverage, voice reliability including emergency calls, continuity of mobile money and payments, migration of dependent systems, and the availability of affordable handsets. The technical precondition for the switch-off schedule fell into place days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no completion date given. The source makes no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
+
+
+The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own.
 <!-- /narrative -->
 ### Data Storage
 
@@ -90,6 +93,9 @@ The agency meant to hold that ground acquired its first stated function since ca
 
 <!-- narrative: governance--gov-regional -->
 Country consultations for a [regional artificial-intelligence framework were held at Kigali on 3 August](https://rwandainspirer.com/rwanda-highlights-ai-policy-progress-as-comesa-seeks-regional-framework/), to feed a study toward a regional strategy, model policy guidelines and model regulatory frameworks; no text or timetable is published, and Rwanda reported unquantified progress on its own national policy. The [bilateral licence passporting memorandum with Ghana remains unpublished by either central bank](https://techafricanews.com/2026/07/30/the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs/) eighteen months after signature, cited as a working precedent with no firm reported as having used it.
+
+
+One piece of regional machinery moved from design into use. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now being recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated for any of it.
 <!-- /narrative -->
 ### Standards
 

@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-20
 place: LBR
 ledger_rows: 36
 not_held: 9
-record: 3ec9d4957feb
+record: 860404fa22c3
 ---
 
 # Liberia: monthly update, July 2026
@@ -112,8 +112,6 @@ At the African Telecommunications Union plenipotentiary session in Abuja in July
 <!-- narrative: governance--gov-protect -->
 The telecoms regulator [fined an operator LRD 4m for issuing a subscriber's SIM to a third party without authorisation](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/). The penalty came under telecoms powers rather than data-protection law — which is the point, since the Act that would have supplied the latter is unsigned.
 
-
-What the country has agreed to disclose abroad is harder to read than what it enforces at home. A rights organisation's reading of seven American health memoranda [puts Liberia among three that commit to hand over any data requested for an American audit without explicit privacy safeguards, and among two whose data-sharing arrangement is deferred to an unpublished appendix](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements), while naming Liberia as one of two lacking a binding comprehensive data-protection law. The appendix is not published and the Personal Information Act is still a bill.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

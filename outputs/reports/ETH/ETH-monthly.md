@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-20
 place: ETH
 ledger_rows: 46
 not_held: 5
-record: 96c09c097a28
+record: 9166051fd082
 ---
 
 # Ethiopia: monthly update, July 2026
@@ -129,7 +129,7 @@ A National Digital Transformation Council meeting on 30 July restated that the p
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The Development Bank [adopted an information disclosure policy classifying client credit information permanently non-disclosable](https://www.thereporterethiopia.com/52220/), alongside legal case files, strategy papers, security protocols and third-party contracts, where disclosure could cause substantial harm to the Bank, its stakeholders or the national interest. The Bank may also decline a request that would require it to create a record it does not already hold. No instrument number, gazette reference or appeal mechanism is stated. What the state has already agreed to disclose abroad is clearer than what it will disclose at home: a rights organisation's reading of the seven signed United States health memoranda [puts Ethiopia among five whose text requires unilateral sharing of specimens and pathogen-sequencing data, and all seven as requiring broad audit access](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements). The data-sharing arrangement the memorandum provides for is still unnegotiated and no text is published.
+The Development Bank [adopted an information disclosure policy classifying client credit information permanently non-disclosable](https://www.thereporterethiopia.com/52220/), alongside legal case files, strategy papers, security protocols and third-party contracts, where disclosure could cause substantial harm to the Bank, its stakeholders or the national interest. The Bank may also decline a request that would require it to create a record it does not already hold. No instrument number, gazette reference or appeal mechanism is stated.
 <!-- /narrative -->
 ### China activities
 
