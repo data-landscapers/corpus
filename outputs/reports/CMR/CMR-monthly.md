@@ -1,16 +1,16 @@
 ---
 title: Cameroon — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: CMR
-ledger_rows: 34
-not_held: 8
-record: c6567fd66159
+ledger_rows: 38
+not_held: 7
+record: 932aec7aea8a
 ---
 
 # Cameroon: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -49,7 +49,7 @@ The month also produced the base's first measure of what cybercrime costs an ind
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published.
+On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published. At home the layer that would carry any of this acquired an owner rather than a design: at the opening of the national internet governance forum on 18 August the posts and telecommunications ministry [tasked the state operator CAMTEL with carrying national data and infrastructure interoperability](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/), resting the mandate on its backbone, transmission, access and hosting infrastructure. No instrument, timetable or budget accompanies it.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -66,12 +66,17 @@ Payments had the month's densest run. On 9 July the regional central bank [joine
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target.
+The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target. The one delivery figure on the record for the wider programme comes from outside government: the national human rights commission, [calling for a modernised and interoperable civil registry on 10 August, put birth-certificate cases processed under a World Bank-backed programme at over 49,000](https://kamerinfosplus.com/2026/08/10/etat-civil-la-cdhc-veut-un-systeme-moderne-digitalise-et-accessible-a-tous/).
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-Health and education information systems both gained instruments and neither reports a deliverable. A [EUR 8m technical-assistance agreement over 36 months covers the education management information system, the basic-education ministry's mapping platform, interconnection of the education databases and dynamic dashboards](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base); the funder is not stated and the signature date is not published. The [national digital health strategic plan launched on 4 March with an envelope of about FCFA 29bn across eight axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/), and a [pandemic preparedness project was launched](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) with no deliverable reported.
+Health and education information systems both gained instruments and neither reports a deliverable. A [EUR 8m technical-assistance agreement over 36 months covers the education management information system, the basic-education ministry's mapping platform, interconnection of the education databases and dynamic dashboards](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base); the funder is not stated and the signature date is not published. The [national digital health strategic plan launched on 4 March with an envelope of about FCFA 29bn across eight axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/), and a [pandemic preparedness project was launched](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) with no deliverable reported. Collection moved where the plans did not: the health ministry [took delivery of nearly 1,000 smartphones on 7 August to run the SCANFORM data-collection system in place of paper forms](https://cameroonpress.com/pres-de-1000-smartphones-pour-accelerer-la-transformation-numerique-du-systeme-de-sante/), across ten regions, 175 health districts and 395 facilities, with over 1,500 health workers to be trained. The counts are the ministry's own and no go-live date is given.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+The water utility [began rolling out a centralised commercial platform, WATERIS, with five days of internal training from 10 August](https://lecourrierducameroun.net/2026/08/16/camwater-met-le-cap-sur-la-modernisation-commerciale-et-lexcellence-operationnelle-a-travers-lecosysteme-integre-wateris/), replacing decentralised commercial management with automated meter reading and more electronic payment channels. The account is the director general's; no customer count, cost or completion date is stated.
 <!-- /narrative -->
 ### Digitalisation of sub-national government
 

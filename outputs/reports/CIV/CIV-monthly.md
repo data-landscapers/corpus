@@ -1,16 +1,16 @@
 ---
 title: Cote d'Ivoire — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: CIV
-ledger_rows: 58
+ledger_rows: 61
 not_held: 10
-record: dca6d98140a0
+record: 901facf0a255
 ---
 
 # Cote d'Ivoire: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -25,7 +25,7 @@ July brought the trust layer and the market layer within eight days of each othe
 <!-- narrative: infrastructure--infra-connect -->
 A low-orbit satellite operator [went live by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) at XOF 28,746 a month for residential service, with hardware from XOF 148,148, on a twelve-month provisional licence reviewable on service quality. On 31 July the minister said regional satellite capacity would be routed through the universal-service bodies, with a working session on terms due the following week; no terms, tariff or timetable was stated. No 5G launch occurred against the announced July 2026 date. Ministry figures given on 13 July put telecommunications penetration above 130% of population and [about 38,000 km of optical fibre](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation).
 
-On protecting what is already laid, an operator and its vendor [completed a proof of concept in Abidjan that detects vibrations around fibre ducts and classifies them to flag third-party excavation before a cut happens](https://itweb.africa/article/mtn-is-promoting-ai-driven-fibre-cut-sensing-to-reshape-the-resilience-of-digital-infrastructure-in-africa/VgZeyqJlBLV7djX9), on trials run since 2025. The account is vendor-issued and states no commercial deployment, coverage or date.
+On protecting what is already laid, an operator and its vendor [completed a proof of concept in Abidjan that detects vibrations around fibre ducts and classifies them to flag third-party excavation before a cut happens](https://itweb.africa/article/mtn-is-promoting-ai-driven-fibre-cut-sensing-to-reshape-the-resilience-of-digital-infrastructure-in-africa/VgZeyqJlBLV7djX9), on trials run since 2025. The account is vendor-issued and states no commercial deployment, coverage or date. The cable that carries much of the traffic had already failed and been mended: the [2Africa branch into the country came back into service on 2 August after repairs](https://subseacables.blogspot.com/2026/08/2africa-ivory-coast-branch-live-again.html), with WACS repairs expected the week after. Neither the outage's start nor its cause is stated.
 <!-- /narrative -->
 ### Data Storage
 
@@ -45,7 +45,7 @@ The cyber agency [commissioned the national public key infrastructure](https://w
 <!-- narrative: dpi--dpi-exchange -->
 The minister told an information-systems seminar on 21 and 22 July that the first services onto the interoperability platform [had been chosen largely by volunteering rather than against user priorities](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite), against targets of 100 services online by end-2026 and 700 within three years. No count of services in production has been published. Fourteen migration bodies met on 30 July to [co-design a single collection and profiling tool for returning migrants](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) and a roadmap for transferring their data into one directorate; no legal basis, data-protection safeguard or timetable for pooling personal data across fourteen bodies is stated.
 
-The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held.
+The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held. The board for the cashew sector began the same sequence a step earlier, [launching a producer and plantation census at Korhogo on 11 August](https://affairesetentreprises.ci/2026/08/17/cote-divoire-le-ccak-lance-le-recensement-des-producteurs-danacarde-premiere-etape-vers-une-tracabilite-de-la-filiere/) as the database that any producer card or traceability system would have to stand on; no timetable or budget for it is stated. Across the border, Mali's customs administration told a Bamako roundtable that its [interconnection with Ivorian customs has a transit-goods data pilot running](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/); the account is Mali's, no Ivorian statement is held, and no completion date for the full interconnection is given.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
