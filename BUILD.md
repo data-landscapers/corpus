@@ -75,6 +75,10 @@ This writes `outputs/catalogue/`, `outputs/non-state-finance/`, `outputs/budgets
 
 **It reports and never gates**, under *Only the leak gate stops a finished run* above. An out-of-remit record is a work item for OSINT, not a reason to withhold a build of the other ten thousand. Carry the counts in the run's log line; where the arrivals are new, write them into a note for OSINT rather than a message to Bill, because the repair is not Corpus's to make.
 
+**Clearing a deletion means checking every layer, and the first attempt checked two** *(OSINT's `notes-for-corpus.md` note 2, 2026-08-20)*. Before telling OSINT a set of records is safe to delete, Corpus says what it would cost here. Note 30's clearance read the **ledgers** and the **status baselines**, found nothing, and said so — correct as far as it went. But 18 of the 48 records were cited inside OSINT's own `wiki/`, which Corpus reads and reports from, and the 26 deletions left 19 dangling references across eight concept pages. OSINT found and repaired them itself. **The lesson is the method, not the incident**: a clearance that reads only the layers Corpus writes will keep missing the layers Corpus *reads*. Check `wiki/` alongside `outputs/reports/*/ledger.csv` and the baselines, and say which layers were searched rather than reporting a bare *nothing found* — a check that read two of three looks exactly like one that read all of them.
+
+**And the leak was never only at the door.** Those eight concept pages had a settled practice of holding non-African domestic stories as comparators under `[[XGL]]` — self-described in the bullets as *"comparators rather than African news"*. The remit rule retires that practice, which means the arrival counts this lint reports are the smaller half of the problem; the standing stock inside the wiki was the other. That half is OSINT's and is done.
+
 ```bash
 python scripts/lint-scope.py --since {last build's date}   # what the last sweep sent
 python scripts/lint-scope.py                               # the whole backlog
