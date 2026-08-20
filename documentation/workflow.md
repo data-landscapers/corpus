@@ -21,6 +21,17 @@ kanban-plugin: board
 - [ ] Methodology for site
 - [ ] **All Finance page**
 	Home menu should go to own page with space for my text at the top.
+- [ ] **OSINT Speed**
+	Copy across Fable's index fix. 
+	Configure Claude
+	Configure FFS
+	Configure Git
+	Run Index fix.
+	Run FFS
+	Resume Sweep
+- [ ] **Finance Controlled vocabs**
+	Fix and backswing
+- [ ] add ffs to end of sweeps
 
 
 ## Processing
