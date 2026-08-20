@@ -1,16 +1,16 @@
 ---
 title: South Africa — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: ZAF
-ledger_rows: 87
+ledger_rows: 93
 not_held: 23
-record: bd3306ed09c1
+record: ce7cd8bdd3cb
 ---
 
 # South Africa: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -25,7 +25,9 @@ Two spectrum instruments were gazetted, the national artificial-intelligence pol
 <!-- narrative: infrastructure--infra-connect -->
 The [National Radio Frequency Plan 2026](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026), approved by the minister on 2 July, was gazetted on 24 July and realigns the allocation table from 8.3kHz to 3,000GHz to the ITU Radio Regulations and to the SADC and African Telecommunications Union plans. The [IMT Roadmap 2026](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2) was published for consultation the same day; its tables record 794MHz assigned to licensees and 18,831MHz still to be assigned. The regulator's [accompanying statement of an increase from 850MHz to at least 18,588MHz by 2030, and of a 215% rise in high-demand spectrum](https://www.icasa.org.za/news/2026/icasa-publishes-draft-imt-roadmap-and-implementation-plans), does not appear in the gazetted text; the two accounts have not been reconciled. Allocation of the 6GHz band was [deferred pending a feasibility study](https://www.citizen.co.za/news/malatsi-approves-2026-national-radio-frequency-plan/).
 
-Herotel, a domestic provider with more than 350,000 customers, was [named Amazon Leo's South African distributor](https://www.dailymaverick.co.za/article/2026-07-15-herotel-chosen-as-amazon-leo-distributor-in-maziv-race-for-satellite-internet/) for a 2027 launch. Starlink [began service in its 27th African country](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) and remains unlicensed in South Africa; the department told Parliament its draft satellite policy direction was ["of general application and not directed at any specific operator"](https://pmg.org.za/committee-question/39540/). The state-backed [BrainSAT](https://mybroadband.co.za/news/broadband/656335-state-backed-south-african-satellite-internet-and-phone-company-launched.html) venture launched on Emirati infrastructure.
+Herotel, a domestic provider with more than 350,000 customers, was [named Amazon Leo's South African distributor](https://www.dailymaverick.co.za/article/2026-07-15-herotel-chosen-as-amazon-leo-distributor-in-maziv-race-for-satellite-internet/) for a 2027 launch. Starlink [began service in its 27th African country](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) and remains unlicensed in South Africa; the department told Parliament its draft satellite policy direction was ["of general application and not directed at any specific operator"](https://pmg.org.za/committee-question/39540/). The state-backed [BrainSAT](https://mybroadband.co.za/news/broadband/656335-state-backed-south-african-satellite-internet-and-phone-company-launched.html) venture launched on Emirati infrastructure. By 20 August the licensing question had produced three separate moves and no decision: the minister [told the International Space Summit Africa that low-earth-orbit services are part of the country's digital future while conceding that licensing is the regulator's call alone](https://www.itweb.co.za/article/malatsi-backs-leo-operators-as-icasa-calls-the-shots/Gb3BwMWaPAEv2k6V), which leaves his December directive on equity-equivalency schemes unresolved; Starlink's operator [asked the regulator for flat per-licence spectrum fees, blanket terminal licensing and a ten-year minimum licence term](https://techafricanews.com/2026/08/20/spacex-urges-south-africas-icasa-to-rethink-proposed-satellite-spectrum-fees/), and used the same submission to ask for consolidated guidance on the 30% equity threshold; and Amazon's Kenyan subsidiary [applied for a fifteen-year gateway licence next door](https://techafricanews.com/2026/08/20/who-will-control-africas-satellite-internet-layer-starlink-amazon-leo-or-the-carriers/), which is what building out around an unresolved market looks like.
+
+The month's largest infrastructure fact was not the state's. Comsol [began selling wholesale access to a national 5G-only home-broadband network, with resellers owning the customer relationship and the first ISP due live in September](https://www.techcentral.co.za/south-africa-to-get-a-new-national-5g-broadband-network/285080/), its chief executive accepting the description that this is the wholesale open-access network the state spent more than a decade trying to licence and abandoned. It is privately financed, after Nedbank Private Equity's exit in December, and publishes no coverage footprint, site count or wholesale price, so what has entered service cannot be sized.
 
 Cape Town's municipal planning tribunal [approved two Equinix data centres](https://www.moneyweb.co.za/news/ai/giant-data-centres-get-the-first-green-light-from-cape-town-tribunal/) over objections from three civil-society organisations; the application disclosed neither water nor electricity demand, both deferred to the site development plan. Reuters put the planned load at about 170MW. NTT Data South Africa confirmed it had [sold seven facilities and leased them back](https://www.itweb.co.za/article/itweb-tv-ntt-data-sa-prioritises-services-over-data-centre-ownership/DZQ58vV8m4aMzXy2). Google held its first African cloud summit in Johannesburg and announced an Eastern Cape exchange port; the President welcomed hyperscaler commitments while [stating that government is building its own cloud through the CSIR](https://mybroadband.co.za/news/cloud-hosting/656975-south-africa-building-its-own-cloud-infrastructure-says-ramaphosa.html).
 
@@ -202,6 +204,11 @@ The information technology sector education and training authority was [referred
 The pipeline that authority sits in was reviewed on 14 August. A development bank's report with the higher education department, philanthropically funded, finds [the route from school through universities and technical colleges into employment constrained at both ends — young people arriving without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills). Its finding is that the mismatch is structural and will not correct itself. That is a verdict on the strategy already under review on this ledger rather than a new instrument.
 
 One intervention was announced against that pipeline, at the far end of the country and five months out. A networking vendor's academy and a private group agreed with the Northern Cape education department to take [networking, cyber security and artificial-intelligence courses into 235 schools as extracurricular classes for grades 10 to 12 from February 2027](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N), inside a global programme the vendor says has already trained more than 600,000 South Africans. No learner target, cost, funding split, teacher-training provision or certification pathway accompanies it, and the training figure is the vendor's own.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: inclusion--capacity-research -->
+The month's one research measure is about the literature rather than the country. A twenty-year bibliometric review [places South Africa 18th worldwide and the only African country among the twenty most productive sources of digital-privacy research, across 4,760 articles published between 2005 and 2025](https://sajim.co.za/index.php/sajim/article/view/2146). The same review finds refugees, people with disabilities, older people and racial and ethnic minorities notably underrepresented in that literature, so the ranking counts output and not coverage of the populations whose privacy is least protected.
 <!-- /narrative -->
 
 ## Finance

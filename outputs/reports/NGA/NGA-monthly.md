@@ -1,16 +1,16 @@
 ---
 title: Nigeria — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: NGA
-ledger_rows: 136
+ledger_rows: 140
 not_held: 9
-record: 4d6d0324e956
+record: eaf92a2798f2
 ---
 
 # Nigeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -248,6 +248,11 @@ The state's own return from the sector was put at [about US$41m from an operator
 
 <!-- narrative: ai-tech--tech-innovate -->
 [A drive-to-own vehicle financier raised US$250m at a US$2.1bn valuation on 5 August](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/), financing a 42,000-vehicle fleet across fourteen countries against platform earnings — making ride-hailing income the credit-scoring and repayment rail for drivers outside formal banking, a class of alternative-data underwriting no Nigerian instrument addresses. The communications regulator [leased its Digital Industrial Park and Learning Centre to Enugu State for fifteen years](https://www.thisdaylive.com/2026/08/04/ncc-leases-digital-industrial-park-learning-centre-to-enugu/), its executive vice chairman saying that buildings alone do not create innovation; no rent, investment commitment or performance condition is stated. A [crowdsourced food-price platform reports about 2,500 users](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets).
+<!-- /narrative -->
+### US / hyperscaler activities
+
+<!-- narrative: ai-tech--geopol-usa -->
+The month's hyperscaler activity is a renewal rather than a new commitment. Google [gave students at accredited Nigerian universities, polytechnics and colleges of education twelve months of its AI Plus plan free, a subscription it prices at ₦92,400 (US$68.56)](https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/), the second consecutive year of the offer and one of 27 Sub-Saharan rollouts, with eligibility verified through a third-party enrolment-checking platform. No cohort figure is published for Nigeria, and the take-up of the equivalent 2025 offer is not stated, so the programme's reach is unmeasured at both ends.
 <!-- /narrative -->
 ### Training and skills
 
