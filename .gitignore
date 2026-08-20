@@ -1,6 +1,12 @@
 # Editor and tool state — local to a machine, never part of the site.
 .obsidian/
-.claude/
+# `.claude/*` rather than `.claude/`, because git does not descend into an excluded directory
+# and the negation below would never be reached. The exception is the slash commands, which are
+# procedure rather than machine state: `/poll` is how a clean session is pointed at the
+# sweep-cycle trigger, and a rebuilt machine that lost it would have lost the way in to the
+# only automatic thing this repo does (2026-08-20).
+.claude/*
+!.claude/commands/
 
 # FreeFileSync writes one HTML session log per mirror run. Diagnostics, not
 # history — the dated one-liner in logs/mirror_log.md is the record.
