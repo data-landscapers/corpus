@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0231f4f80b39
+record: aa39d1f08785
 ---
 
 # Other GovTech and e-Gov: progress report, 2025-08-01 to 2026-08-20
@@ -504,7 +504,7 @@ record: 0231f4f80b39
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Electronic cargo tracking | Did not exist | [In use, to curb diversion and smuggling (2026-05)](https://eastleighvoice.co.ke/south-sudan/350431/south-sudan-defends-crawford-capital-deal-as-digital-reforms-boost-revenue) | Advanced |
 | Electronic visa portal | Not on record | [In service; US$50 for citizens of Kenya, Uganda, Rwanda and DR Congo and US$100 for Somali, Burundian and Nigerian citizens (2026-07)](https://techcabal.com/2026/07/20/south-sudan-slaps-visa-kenya-rwanda-uganda/) | Advanced |

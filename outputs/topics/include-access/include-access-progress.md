@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: include.access
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: e9e759bf2bf4
+record: 827ffca28f19
 ---
 
 # Access to services: progress report, 2025-08-01 to 2026-08-20
@@ -313,7 +313,7 @@ record: e9e759bf2bf4
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Internet users and penetration | 1.3 million users, 12% penetration (2024) | [1.9 million users, 15.7% penetration (2025)](https://www.eyeradio.org/nca-reports-huge-internet-growth-in-south-sudan/) | Advanced |
 | Mobile data price | About US$23.70 per gigabyte (2025-11) | [Raised twice by exchange-rate adjustment with no revised rate published (2026-07)](https://www.onecitizendaily.com/index.php/2025/11/27/41522/) | Regressed, revised rates unpublished |

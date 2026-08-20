@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 7c5cc82c6061
+record: f02c21becfd7
 ---
 
 # Cybersecurity: progress report, 2025-08-01 to 2026-08-20
@@ -413,7 +413,7 @@ record: 7c5cc82c6061
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital Financial Services Security Lab | Did not exist | [Operating; security-testing mobile payment applications (2026-03)](https://www.eyeradio.org/south-sudan-boosts-mobile-payment-security-with-itu-dfs-lab-training/) | Advanced |
 | National computer security incident response team | Not established (2025-08) | [Not established, unchanged from the November 2022 baseline against an April 2028 target (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | No change |

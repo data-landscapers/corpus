@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: c2d88112479b
+record: 40de663d1b9c
 ---
 
 # Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-20
@@ -430,7 +430,7 @@ record: c2d88112479b
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Full-digitisation decree (Electronic Services Council) | Did not exist | [In force; the January 2026 deadline passed with no compliance report published (2026-08)](https://www.ecofinagency.com/news-digital/1912-51559-south-sudan-orders-full-digitization-of-public-institutions) | Advanced, deadline passed without a compliance report |
 | National e-commerce strategy | None published (2025-08) | [None published, unchanged from the November 2022 baseline against an April 2028 target (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | No change |

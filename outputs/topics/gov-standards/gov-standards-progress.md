@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: gov.standards
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 85d65ddcecab
+record: 72e38e36887d
 ---
 
 # Standards: progress report, 2025-08-01 to 2026-08-20
@@ -164,11 +164,12 @@ record: 85d65ddcecab
 
 | System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
-| Communications Equipment Vendor Class Licence guidelines | Did not exist | [In force, with a 12-month minimum warranty, returns, after-sales support and record-keeping duties](https://itweb.africa/article/kenya-tightens-consumer-protection-for-device-sales/PmxVE7KEGOrqQY85) | Advanced |
+| Communications Equipment Vendor Class Licence guidelines | Did not exist | [Licence conditions for the category gazetted by the Communications Authority under the Kenya Information and Communications Act after public consultation, effective 30 days from the notice, and published for free download; the vendor rules carry a 12-month minimum warranty, returns, after-sales support and record-keeping duties](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf) | Advanced |
 | ODPC quality management system | Did not exist | [Quality management system launched with World Bank support, with the external certification audit still to come](https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats) | Advanced |
+| Public Communications Access Centre licence | Did not exist | [A licence category created under the revised telecommunications market structure, its conditions gazetted by the Communications Authority after public consultation, effective 30 days from the notice and published for free download on the regulator’s site](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf) | Advanced |
 | ODPC draft guidance notes on biometric and children's data | Issued in draft, with mandatory registration of biometric processors and risk-based age assurance | [Still in draft as far as the base establishes](https://www.biometricupdate.com/202505/kenya-releases-draft-guidance-on-biometrics-age-assurance) | No change |
 | County own-source revenue automation standards | ***Baseline not held*** | [Binding standards gazetted for county own-source revenue automation, covering the system lifecycle from procurement through audit and requiring data ownership and portability safeguards to reduce vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/) | ***Baseline not held*** |
-| Digital pharmacy services guidelines | ***Baseline not held*** | [Draft guidelines published by the pharmacy regulator covering telepharmacy, electronic prescribing and digital health records](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/) | ***Baseline not held*** |
+| Digital pharmacy services guidelines | ***Baseline not held*** | [Second revision of the regulator's guideline in draft, widening the scope of regulation from internet pharmacy services to digital pharmacy services generally - electronic prescription generation, transmission, validation and management, online dispensing, telepharmacy and digital consultation, and digital self-care support - and reaching licensed premises, online providers, telepharmacy providers, digital health platforms, pharmacy chains and third-party technology, hosting, payment and logistics providers; the text carries a 2026 effective date and a 2029 review date, and its approval blocks are unsigned](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/?wpdmdl=14068) | ***Baseline not held*** |
 | EU Global Gateway ICT standards engagement | ***Baseline not held*** | [Cooperation reaffirmed across AI, cybersecurity, digital identity, interoperability and digital governance](https://techafricanews.com/2026/07/27/kenya-and-eu-strengthen-digital-standards-partnership-to-support-digital-superhighway/) | ***Baseline not held*** |
 
 ## Lesotho

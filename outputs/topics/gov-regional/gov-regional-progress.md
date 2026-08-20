@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 3acf96b05c8d
+record: 114d26e3db08
 ---
 
 # Regional collaboration: progress report, 2025-08-01 to 2026-08-20
@@ -346,7 +346,7 @@ record: 3acf96b05c8d
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Kenya-South Sudan cross-border digital connectivity memorandum | Did not exist | [Signed as the regional project's first cross-border connectivity memorandum and offered as the template for the remaining bilaterals; no text, capacity or tariff terms published (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Advanced |
 | African Telecommunications Union collaboration | Not held | [Deeper collaboration on infrastructure, capacity building and standardisation pledged at the minister's visit to the union's Nairobi headquarters on 12 August 2026](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building) | ***Baseline not held*** |

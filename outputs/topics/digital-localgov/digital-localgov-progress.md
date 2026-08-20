@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: digital.localgov
 places: DZA; AGO; BFA; CMR; TCD; COG; COD; EGY; SWZ; ETH; GAB; GMB; GIN; KEN; LSO; LBY; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SOM; TZA; TGO; ZMB; ZWE
-record: efa77220105c
+record: e83c34c73382
 ---
 
 # Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-20
@@ -209,5 +209,5 @@ record: efa77220105c
 
 | System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
-| Local authority electronic services and revenue systems | Not held; the only Zimbabwean object on this subject was a 250-kit handover, with no council follow-up recorded | [Kwekwe City Council bills rates, refuse, sewerage, water and other service charges centrally through the Promun (ERP) package, with each property assigned a unique account number and tariff code; the finance department names "Information Technology and E-Governance" among its five key functions, covering database administration, network security and system workflow; legal basis is the Urban Councils Act s.219 for rates and the Water Act [Chapter 20:22] and Environmental Management Act [Chapter 20:17] for service charges; no user count, collection rate or digital-channel adoption figure published](https://kwekwecity.org.zw/departments/finance/) | Advanced |
+| Local authority electronic services and revenue systems | Most councils lagging in technology on the Auditor-General’s FY2024 audits, with business processes still manual or partially automated, accounting-system modules left unactivated, and most authorities without an enterprise resource planning system for revenue collection and so recognising revenue on a cash basis for want of complete databases; revenue-collection and debt-recovery findings rose from 81 across 51 local authorities to 92 across 60 (2025-06) | [Kwekwe City Council bills rates, refuse, sewerage, water and other service charges centrally through the Promun (ERP) package, with each property assigned a unique account number and tariff code; the finance department names "Information Technology and E-Governance" among its five key functions, covering database administration, network security and system workflow; legal basis is the Urban Councils Act s.219 for rates and the Water Act [Chapter 20:22] and Environmental Management Act [Chapter 20:17] for service charges; no user count, collection rate or digital-channel adoption figure published](https://kwekwecity.org.zw/departments/finance/) | No change, one council documented against an unchanged national picture |
 | Satellite kits for local authorities | 250 kits handed over 2025-07-24, deployment and maintenance left to councils | [No deployment, activation or outcome figure held](https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/) | No change |

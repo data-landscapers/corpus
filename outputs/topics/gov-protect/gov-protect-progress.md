@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: gov.protect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: d374e4dcd7da
+record: 46e098cc7946
 ---
 
 # Data protection: progress report, 2025-08-01 to 2026-08-20
@@ -229,10 +229,10 @@ record: d374e4dcd7da
 | Data Protection Act 2019 | In force, with the Office of the Data Protection Commissioner as statutory regulator | [In force, with the regulator now stretching its cross-border-transfer duties to reach offshore AI processing](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) | No change |
 | ODPC enforcement caseload and penalties | 7,128 complaints received and 215 determinations issued as of March 2025 | [Same statement; no later caseload, determination count or penalty total published](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf) | No change, no later figure published |
 | ODPC five-year privacy plan | Launched at KES 12.6bn over five years | [Launched, with no spend, milestone or progress statement on file since](https://www.standardmedia.co.ke/central/article/2001523499/data-protection-office-launches-sh126-billion-privacy-plan) | No change |
+| Sector guidance on personal data in the electoral process | In force, setting out how the electoral commission, the registrar of political parties, political parties and governance organisations may process personal data for electoral purposes under the Data Protection Act 2019 | [In force, binding every organisation that touches voter data from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and political parties' obligations turning on how they obtained the data](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf) | No change |
 | Audit access under the health memorandum | ***Baseline not held*** | [A rights organisation's reading of the seven signed American health memoranda records all seven as requiring broad audit access, and places Kenya outside both the three committing to hand over any data without explicit privacy safeguards and the five whose text requires unilateral specimen and pathogen-sequencing sharing](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | ***Baseline not held*** |
 | Betting and gaming firms registered with the ODPC | ***Baseline not held*** | [15 of 224 fully registered as both controller and processor, with 185 unregistered and given 40 days or licence cancellation](https://nation.africa/kenya/news/register-or-face-shutdown-kabogo-to-betting-firms-with-children-s-data-5458126) | ***Baseline not held*** |
 | Cybercrime losses, regulator estimate | ***Baseline not held*** | [At least KSh 29bn a year](https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats) | ***Baseline not held*** |
-| Sector guidance on personal data in the electoral process | ***Baseline not held*** | [Issued by the data commissioner, binding every organisation that touches voter data from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and political parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data) | ***Baseline not held*** |
 
 ## Lesotho
 
@@ -415,7 +415,7 @@ record: d374e4dcd7da
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Data Protection Bill | No draft on record | [Policy bill drafted with civil-society facilitation; no bill before the Assembly and no statute (2026-08)](https://www.radiotamazuj.org/en/news/article/south-sudan-to-get-data-protection-bill-in-2026-says-minister) | Advanced |
 

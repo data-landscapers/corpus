@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: infra.energy
 places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SLE; SSD; TUN; UGA; ZMB; ZWE
-record: f86f9bf61562
+record: 48000b9f94fc
 ---
 
 # Energy: progress report, 2025-08-01 to 2026-08-20
@@ -171,7 +171,7 @@ record: f86f9bf61562
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | CREI solar-hybrid telecom energy programme | US$5,000,000 committed (2024) | [US$10m committed in total; 490 of 499 MTN sites renovated and coverage reported to have risen from 69% to 80% of the population over three years (2026-02)](https://itweb.africa/article/south-sudan-green-network-gets-5m-boost/) | Advanced |
 

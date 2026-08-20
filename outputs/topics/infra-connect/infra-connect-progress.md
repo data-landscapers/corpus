@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 406332b14864
+record: 93e3711fa524
 ---
 
 # Connectivity: progress report, 2025-08-01 to 2026-08-20
@@ -657,7 +657,7 @@ record: 406332b14864
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Bayobab national and cross-border fibre network | No licensed national backbone operator | [15-year licence effective 16 October 2025; build in execution linking the eastern and western corridors through Juba (2026-03)](https://techafricanews.com/2025/11/25/mtn-digital-infrastructure-secures-15-year-license-to-expand-fibre-network-in-south-sudan/) | Advanced |
 | Mobile coverage extension in Kauto Administrative Area | One site, at Kuron | [One site, at Kuron; four further sites requested and an expected February 2026 extension not delivered (2026-07)](https://www.radiotamazuj.org/en/news/article/kauto-leaders-call-for-urgent-expansion-of-mobile-network-coverage) | Stalled |

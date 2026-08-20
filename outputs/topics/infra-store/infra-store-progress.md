@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: infra.store
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: 7ef55778bcf5
+record: edce87408807
 ---
 
 # Data Storage: progress report, 2025-08-01 to 2026-08-20
@@ -393,7 +393,7 @@ record: 7ef55778bcf5
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Gateway Services and Data Centre Oversight Committee | Did not exist | [Constituted, with a mandate over gateway revenue digitisation and the national data centre (2026-01)](https://www.eyeradio.org/nca-establishes-gateway-and-data-center-oversight-committee) | Advanced |
 | National data centre, Juba | Reported as nearing completion (2025-09) | [Reported as halfway complete (2026-04)](https://www.eyeradio.org/ateny-outlines-s-sudans-digital-transformation-plans-at-nairobi-summit/) | Advanced |

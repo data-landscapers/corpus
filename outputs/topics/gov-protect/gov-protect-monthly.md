@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2026-07-01 to 2026-08-20
 subject: gov.protect
 places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 28e6ac90f7e7
+record: ec19f5324161
 ---
 
 # Data protection: monthly update, July 2026
@@ -82,7 +82,7 @@ On 4 August the data-protection regulator published [draft guidance on offshore 
 The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) that it is investigating three licensed operators on a complaint dated 19 May 2026, with police requesting its entire record on the licensees back to 2018.
 
 
-The regulator also drew the electoral process inside the Act. The data commissioner [said guidance now binds every organisation touching voter data, from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data), as unsolicited political messaging spreads ahead of the 2027 election. No enforcement action under the guidance is on record.
+The regulator also pressed an older instrument into the campaign. The data commissioner [said guidance now binds every organisation touching voter data, from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data), as unsolicited political messaging spreads ahead of the 2027 election. The guidance itself is not new: the Office [issued its Guidance Notes for Electoral Purposes on 29 February 2024, covering the voter register, political parties' member registers and campaign use of personal data under the Data Protection Act 2019](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf). What changed in August is the statement of it, not the rule. No enforcement action under the guidance is on record.
 
 ## Liberia
 

@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: capacity.training
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: 54ea9190dacf
+record: 87fc85c3bf0d
 ---
 
 # Training and skills: progress report, 2025-08-01 to 2026-08-20
@@ -365,12 +365,12 @@ record: 54ea9190dacf
 |---|---|---|---|
 | National Digital and Future Skills Strategy 2020 | 2020 strategy in force | [Under review; no replacement](https://pmg.org.za/committee-question/39587/) | Stalled |
 | Vendor digital-skills programme in Northern Cape schools | Did not exist | [A networking vendor's academy and a private group agreed with the provincial education department to take networking, cyber security and artificial-intelligence courses into 235 schools, as extracurricular classes for grades 10 to 12 beginning February 2027, inside a global skills-to-jobs programme the vendor states has trained more than 600,000 South Africans](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N) | Advanced |
-| Digital-skills pipeline from school to employment | Baseline not held | [Constrained at both ends: young people entering without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment; the mismatch is found to be structural and not self-correcting (2026-08)](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills) | ***Baseline not held*** |
+| Digital-skills pipeline from school to employment | Baseline not held | [Constrained at both ends and structurally so: employers report about 7 per cent of ICT and engineering posts unfilled, with software developers (380), network engineers (285) and ICT security specialists (130) the hardest-to-fill roles, while 44.8 per cent of online vacancy postings ask for transversal digital skills, 30.9 per cent for basic ICT skills and 26.4 per cent for advanced ones; employers attribute the gap 26 per cent to shortfalls in basic-level training, 24 per cent to graduate pipeline throughput and 21 per cent to the pace of technological change (2026-06)](https://documents1.worldbank.org/curated/en/099653207022613768/pdf/IDU-eb3a6d23-36a4-413f-bc1e-458a577684b7.pdf) | ***Baseline not held*** |
 | National Competency Framework | ***Baseline not held*** | In development (2026-07-23) | ***Baseline not held*** |
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital Innovation for Skills and Knowledge programme (Central Equatoria) | Did not exist | [A costed plan; no financier, signed commitment or start date named (2026-07)](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/) | Advanced |
 | Educational Technical Cooperation Project (China) | Committed across two phases | [Committed across two phases; no later implementation record held](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml) | No change |

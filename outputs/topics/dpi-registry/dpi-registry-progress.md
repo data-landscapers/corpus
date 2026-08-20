@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6c0a1d000053
+record: 8f72f58afe20
 ---
 
 # Registries (population, land, address, etc.): progress report, 2025-08-01 to 2026-08-20
@@ -399,7 +399,7 @@ record: 6c0a1d000053
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Centralised civil registration and vital statistics system | Civil Registry Rules and a costed CRVS plan adopted; a birth-registration pilot at Juba Teaching Hospital (2025-12) | [Centralisation announced as intent; no law, budget, timetable, vendor or platform named (2026-07)](https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/) | Advanced |
 | Birth registration coverage | About 10% of births registered (2025-12) | [About 90% of births going unrecorded (2026-07)](https://www.worldbank.org/en/news/feature/2026/07/22/in-the-worlds-youngest-nation-how-do-you-prove-you-exist) | No change |

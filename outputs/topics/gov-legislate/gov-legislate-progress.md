@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: gov.legislate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: 9fda2d364a09
+record: 937627da09b3
 ---
 
 # Legislation and regulation: progress report, 2025-08-01 to 2026-08-20
@@ -508,7 +508,7 @@ record: 9fda2d364a09
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cyber Crimes and Computer Abuse Act 2026 | Did not exist | [In force; the full text was withheld from journalists at signing (2026-02)](https://www.radiotamazuj.org/en/news/article/minister-ateng-defends-cybercrime-law-amid-concerns) | Advanced |
 | ICT Authority | Did not exist | [Being established as a state entity under the ICT ministry while legislation is awaited (2026-08)](https://www.eyeradio.org/govt-set-to-establish-ict-authority-to-regulate-internet-service-providers-ateny/) | Advanced |

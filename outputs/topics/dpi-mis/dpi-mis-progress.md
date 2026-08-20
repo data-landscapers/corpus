@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: 215d205cb2fd
+record: a7992c9582e9
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-20
@@ -347,7 +347,7 @@ record: 215d205cb2fd
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Biometric registration of public servants | Not on record before January 2026 | [US$15m programme in its third phase; data held on a Ministry of Finance server (2026-06)](https://www.onecitizendaily.com/index.php/2026/06/24/government-launches-biometric-registration-exercise-for-organised-forces/) | Advanced |
 | Education in Emergencies Management Information System | Did not exist | [Launched; 12 County Education Departments across six states equipped with solar power, computers and connectivity (2026-08)](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response) | Advanced |

@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: finance.mou
 places: DZA; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MWI; MRT; MAR; RWA; SEN; SYC; SSD; TZA; TGO; UGA; ZMB; ZWE; XAF
-record: d4669044be1e
+record: 1d8935c5a8b5
 ---
 
 # MoUs and other agreements: progress report, 2025-08-01 to 2026-08-20
@@ -168,7 +168,7 @@ record: d4669044be1e
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Air Traffic Management System loan (China Eximbank) | Committed | [Committed; no implementation record held](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) | No change |
 

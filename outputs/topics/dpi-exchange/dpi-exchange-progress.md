@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: db645129bbc3
+record: dcb0d46ef8a3
 ---
 
 # Data Exchange: progress report, 2025-08-01 to 2026-08-20
@@ -326,7 +326,7 @@ record: db645129bbc3
 
 | System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
-| ASYCUDA customs system | In service as the customs declaration system, with no integrity finding on record | [In service, with the anti-corruption commission finding over 300 billion leones lost to backend manipulation - processed customs declarations deliberately deleted and dormant bank-teller profiles used to validate transactions after the account holders had left their institutions - and reasonable grounds to suspect coordinated collusion](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/) | Regressed |
+| ASYCUDA customs system | In service as the customs declaration system, with no integrity finding on record | [In service, with the anti-corruption commission finding over 300 billion leones lost to backend manipulation - processed customs declarations deliberately deleted and dormant bank-teller profiles used to validate transactions after the account holders had left their institutions - and reasonable grounds to suspect coordinated collusion. The commission’s own text puts the mechanism as clearing agents’ payments being unlawfully deleted from the revenue authority’s tax system after the funds had reached government-designated bank accounts, leaving significant discrepancies between what the banks collected and what the system recorded, and suspects revenue-authority staff acting in collusion with tellers at the commercial banks that processed the payments](https://www.linkedin.com/posts/fritong-post_part-1-nras-missing-billions-the-acc-activity-7494064892119998465-bd_y) | Regressed |
 | Government Service Bus and X-Road data exchange layer | World Bank terms of reference for an open-source prototype in the Ministry of Finance data centre; nothing running (2025) | [Data Exchange Layer piloting on X-Road under the Ministry of Finance; no production date, connected agencies or governance rules published (2026-08)](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) | Advanced |
 
 ## Somalia
@@ -348,7 +348,7 @@ record: db645129bbc3
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Real-time gross settlement component | Did not exist | [In use, with uptake reported but no figures published (2026-05)](https://cajnewsafrica.com/2026/05/20/south-sudan-platform-to-digitise-economy-pays-off/) | Advanced |
 
@@ -422,10 +422,10 @@ record: db645129bbc3
 | Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | ADAPT (Africa Digital Access and Public Infrastructure for Trade) | Did not exist | [In pilot in Nigeria, Kenya and Morocco on the Secretary-General's statement to the second Digital Trade Forum; no live exchange, governing instrument or assessment held](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Advanced |
+| AU Digital Agriculture Strategy implementation | Adopted for 2024-2030 with an average agricultural growth target of 6 per cent and an estimated US$165 million continental implementation cost, prioritising national e-agriculture strategies over a uniform regional approach after a 2021 situation analysis covering all 55 member states | [A continental workshop convened regional economic communities, union organs and participating countries to harmonise implementation, seeking interoperable agricultural data platforms, common data governance and alignment of national and regional systems with the continental digital transformation strategy and agriculture reporting](https://au.int/en/pressreleases/20260811/african-union-advances-digital-agriculture-strategy-implementation-across) | Advanced |
 | IGAD SDMX regional statistical-systems capacity-building programme | Did not exist | [Outcome stated as harmonised SDMX Data Structure Definitions and a long-term roadmap institutionalising SDMX across IGAD and its member states under Open Data Portal 2.0; no budget, adoption date or roadmap milestone published](https://igad.int/igad-convenes-capacity-building-programme-to-strengthen-regional-statistical-systems-through-sdmx/) | Advanced |
 | SADX (Smart Africa Data Exchange) | Did not exist | [Unveiled at Conakry on 2025-11-12 and taken into a technical mission with Rwanda, Benin and Ghana on trust chains, interface contracts and incident response; no live exchange held; the alliance and a German development agency say a digital identity issued in one of Rwanda, Ghana or Benin is now recognised in the other two, with eighteen further countries said to be joining, presented as the first step to a single African digital market by 2030](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty) | Advanced |
 | AfCFTA Customs Modernisation Project | ***Baseline not held*** | [A public-private partnership under which Bergmans Security Consultants and Supplies Limited mobilises the financing for customs digital solutions, secure electronic exchange of customs information, coordinated border management, One Stop Border Posts, transit systems, electronic cargo tracking, non-intrusive inspection technology, integrated data centres, multilingual customs portals, risk management and data analytics across participating State Parties; the agreement builds on a memorandum of understanding concluded in July 2026 and nothing is recorded as deployed; a US$3.1bn contract was signed with a Nigerian security consultancy to digitise customs across the 50 member states, aiming at real-time cargo tracking and reduced revenue leakage](https://gfmag.com/economics-policy-regulation/africa-shakes-up-customs-but-trade-problems-persist/) | ***Baseline not held*** |
-| AU Digital Agriculture Strategy implementation | ***Baseline not held*** | [A continental workshop convened regional economic communities, union organs and participating countries to harmonise implementation, seeking interoperable agricultural data platforms, common data governance and alignment of national and regional systems with the continental digital transformation strategy and agriculture reporting](https://au.int/en/pressreleases/20260811/african-union-advances-digital-agriculture-strategy-implementation-across) | ***Baseline not held*** |
 
 ## Southern Africa
 

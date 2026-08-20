@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d519a837f792
+record: 04e2ac23dece
 ---
 
 # ICT Industry: progress report, 2025-08-01 to 2026-08-20
@@ -276,7 +276,7 @@ record: d519a837f792
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | eSIM service | In service | [In service; no take-up figures published](https://www.telecomreviewafrica.com/articles/telecom-operators/4695-mtn-south-sudan-pioneers-esim-technology-redefining-connectivity/) | No change |
 

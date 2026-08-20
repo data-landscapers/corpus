@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: bc43f7df4ce7
+record: d06869be3286
 ---
 
 # Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-20
@@ -462,15 +462,15 @@ record: bc43f7df4ce7
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Identity and passport production machines | Did not exist | [Five systems delivered (2026-05)](https://www.onecitizendaily.com/index.php/2026/05/08/government-procures-5-advanced-machine-systems-for-national-id-and-passport-production/) | Advanced |
 | National Identity Card issuance | 17,400 cards issued to returnees and people at risk of statelessness through the EU and UNHCR project (2024-11) | [Distribution running in Greater Yei; school-based registration for examination candidates launched in Juba, 4 August 2026, with expansion to more schools planned; no national coverage figure published (2026-08)](https://www.onecitizendaily.com/index.php/2026/07/13/thousand-begin-collecting-national-identity-cards-in-greater-yei/) | Advanced |
-| New-generation passport and EAC passport | Did not exist | [Announced intention with no legislative timetable; ordinary validity remains five years (2026-07)](https://www.eyeradio.org/south-sudan-to-issue-new-passports-with-10-year-validity-and-eac-passport-in-2027/) | Advanced |
+| New-generation passport and EAC passport | Did not exist | [Announced intention with no legislative timetable; ordinary validity remains five years, and the immigration directorate has a route rather than a date - a memorandum submitted to the Inspector-General of Police, then the Minister of Interior, then the Council of Ministers, and finally the National Legislative Assembly, because the five-year limit is written into the law (2026-07)](https://www.eyeradio.org/south-sudan-to-issue-new-passports-with-10-year-validity-and-eac-passport-in-2027/) | Advanced |
 | Passport issuance | Severe shortage across every passport category; issuance interrupted | [Issuance running; the outgoing director of immigration and civil registry put stock at about 32,000 passport booklets and 172,000 national identity cards at the 9 August 2026 handover, alongside 100 new mobile registration kits, a Nairobi memorandum toward an integrated civil registration system, and adult passport validity extended to ten years. His successor says over a million people apply each year and that delays run to a month](https://www.sudanspost.com/outgoing-immigration-chief-says-he-tackled-passport-id-card-shortages/) | Advanced |
 | Unified national digital identity system | Did not exist | [Announced as intent only; no law, budget, timetable, vendor or platform named (2026-07)](https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/) | Advanced |
 | Nationality Certificate (Jinsia) | Roughly 10% of the population holds one (2025-12) | [Roughly 10% of the population holds one; no later coverage figure published](https://statelessnessalliance.org/online-marketplace/strengthening-civil-registration-and-ending-statelessness-in-south-sudan) | No change |
-| Displacement-tracking biometric registration | Not held | [A large-scale biometric registration and re-registration exercise run by the migration agency across the Malakal protection-of-civilians site, the Bulakat transit centre and the Bentiu displacement camp, serving about 160,000 people between April and June 2026; the agency's community-feedback data records an 1,100% rise in queries over the quarter, driven almost entirely by the exercise](https://reliefweb.int/report/south-sudan/south-sudan-community-feedback-referral-analysis-april-june-2026) | ***Baseline not held*** |
+| Displacement-tracking biometric registration | Not held | [A large-scale biometric registration and re-registration exercise run by the migration agency across the Malakal protection-of-civilians site, the Bulakat transit centre and the Bentiu displacement camp, serving about 160,000 people between April and June 2026, with the community-feedback information desk used as the primary entry point for registration requests; feedback rose from a baseline of 1,998 to 23,986 pieces in the quarter, 56 per cent of it from women and girls and 17 per cent from vulnerable households, and no referral was recorded as completed or expired because the programming approach changed](https://reliefweb.int/attachments/f69f5563-7a0a-42ba-9885-fa1839a1b4a5/ZM_CFM_2026_SSD_Q2_FINAL.pdf) | ***Baseline not held*** |
 | Personal identity card (Butaka Shakhsia) | Not established | [380,000 cards held by the directorate; required for banking, land and court (2026-01)](https://www.radiotamazuj.org/en/news/article/juba-passport-id-card-issuance-resumes) | ***Baseline not held*** |
 
 ## Sudan

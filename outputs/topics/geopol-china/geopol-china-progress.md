@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: geopol.china
 places: DZA; AGO; BWA; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; KEN; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; UGA; ZMB; ZWE; XAF; XWA
-record: c6ee81bba88f
+record: 85f4d05951e0
 ---
 
 # China activities: progress report, 2025-08-01 to 2026-08-20
@@ -180,7 +180,7 @@ record: c6ee81bba88f
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Huawei re-engagement | No engagement on record since 2014 | [Interest expressed in the national data hub and digital architecture; no agreement, contract or figure (2026-02)](https://itweb.africa/article/huawei-reconnects-with-south-sudan/) | Advanced |
 

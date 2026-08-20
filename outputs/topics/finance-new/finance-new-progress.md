@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: finance.new
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 18227d6ab63a
+record: b80e0a093b05
 ---
 
 # New investments: progress report, 2025-08-01 to 2026-08-20
@@ -409,7 +409,7 @@ record: 18227d6ab63a
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Eastern Africa Regional Digital Integration Project | Under implementation, rated Moderately Unsatisfactory on the development objective and Unsatisfactory on implementation, overall risk High (2025-08) | [US$162m of IDA after a US$10m partial cancellation in Somalia in April 2026; development objective raised to Moderately Satisfactory and implementation to Moderately Unsatisfactory, overall risk lowered to Substantial, with fiduciary and environmental and social risk both staying High (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Advanced |
 | Private-sector investment mobilised under the regional digital project | US$0 against a US$20m target for South Sudan | [US$0 against a US$20m target for South Sudan (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | No change |

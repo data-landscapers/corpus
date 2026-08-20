@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: geopol.usa
 places: AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MUS; MAR; MOZ; NAM; NGA; SEN; SSD; UGA; ZMB; ZWE; XAF
-record: 1eeebfd151ad
+record: 63830ea4bffa
 ---
 
 # US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-20
@@ -168,7 +168,7 @@ record: 1eeebfd151ad
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | United States sanctions on the e-Government contractor | Not sanctioned | [Sanctioned; the concession continues to operate (2026-06)](https://www.sudanspost.com/crawford-denies-75-govt-revenue-retention-amid-mounting-public-scrutiny/) | Advanced |
 

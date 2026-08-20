@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: data.statistics
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SSD; TUN; UGA; ZWE; XSA; XWA
-record: da073894b504
+record: 18efda5d36c2
 ---
 
 # National statistics: progress report, 2025-08-01 to 2026-08-20
@@ -259,7 +259,7 @@ record: da073894b504
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Published national population estimate | 13.2 million (2021) | [About 16.36 million projected to end-2026 and 19.99 million to 2030 (2026-07)](https://www.onecitizendaily.com/index.php/2026/07/23/south-sudans-population-is-projected-to-reach-20-million-by-2030/) | Advanced |
 

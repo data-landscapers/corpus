@@ -4,7 +4,7 @@ compiled: 2026-08-20
 period: 2025-08-01 to 2026-08-20
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 7fd030acfbab
+record: 1e27819f55fc
 ---
 
 # Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-20
@@ -50,7 +50,7 @@ record: 7fd030acfbab
 | System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Instant cross-border payment corridor into Botswana | No live regional instant corridor into Botswana | [Live inbound from South Africa and Zimbabwe](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) | Advanced |
-| Remittance wallet payment card | Did not exist | [A card issued on a remittance operator's wallet by a commercial bank on an international scheme, adding ATM withdrawal, in-store payment and domestic online payment to a wallet that previously carried transfer and cash-out only](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/) | Advanced |
+| Mukuru Companion Card | Did not exist | [A Visa-branded card issued against a remittance operator’s wallet balance, adding ATM withdrawal, in-store payment and domestic online payment to a wallet that previously carried transfer and cash-out only; no separate bank account is required, it works across every mobile network in the country, each transaction is PIN-protected with 3D Secure on online purchases, and a lost card can be blocked from the handset. The operator puts the gap it addresses at 38 per cent of adults unbanked against mobile penetration of 164 per cent, or about 4.22 million connections](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana) | Advanced |
 | UnionPay e-commerce acceptance | A Standard Bank and UnionPay collaboration since 2024, with no online acceptance on record | [Online acceptance open to participating merchants, settling in local currency, US dollars or both](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Advanced |
 | Biometric grant payment cards | More than 75,000 beneficiaries and 1,200 shops (2025-05) | [The same figure; no update in the twelve months](https://techafricanews.com/2025/05/28/smartswitch-botswana-pioneers-dignified-digital-aid-for-75000-beneficiaries/) | No change |
 | Citizen Wallet | ***Baseline not held*** | [Announced as a unified wallet for subsidy delivery alongside a cryptographic card; no build, pilot, budget line or date since](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/) | ***Baseline not held*** |
@@ -525,7 +525,7 @@ record: 7fd030acfbab
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cash payment of tax at revenue offices | Cash accepted at revenue offices and by revenue officers | [Barred; bank deposit and official slip required before a receipt is issued, while digital payment through Capital Pay continues (2026-07)](https://www.eyeradio.org/revenue-authority-changes-tax-payment-process/) | Advanced |
 | Cashless payment for passports and identity documents | Cash accepted | [Cash abolished; digital payment only (2026-01)](https://www.sudanspost.com/south-sudan-introduces-digital-payment-system-for-passports-after-supply-crisis/) | Advanced |
