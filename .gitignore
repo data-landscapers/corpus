@@ -57,3 +57,13 @@ logs/.cloudflare-kv.json
 
 # OSINT-owned shared drop point — outside Corpus git (CLAUDE.md)
 osint-corpus-exchange/
+
+# `osint-cycle-ready.py`'s watermark: the newest sweep-cycle close Corpus has built, and any
+# claim in flight. Untracked for the same reason as the sentinel above — it moves on OSINT's
+# schedule, not on any commit of ours, and a tracked one would dirty the tree on every
+# trigger, which the trigger's own dirty-tree hold would then read as *someone is working*.
+logs/.osint-cycle-seen
+
+# The switch Bill flips when he sits down: while it exists the trigger holds, without
+# advancing its watermark, so the close it held over runs when the file comes out.
+logs/.hold-cycle

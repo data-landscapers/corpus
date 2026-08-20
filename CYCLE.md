@@ -65,6 +65,26 @@ A cycle **finishes**; or it **fails in the build half**, in which case the rende
 
 **Only the third of those leaves a cycle genuinely half-done, and it is not repaired by hand.** `RENDER.md` on its own completes it, and its Step 0 will pass, because the build half accounted for itself. A build with no render is a stale site, not a broken one — the previous render is still being served.
 
+## What starts a cycle — `scripts/osint-cycle-ready.py`
+
+**A cycle is owed when a sweep cycle has closed and Corpus has not built since** *(Bill, 2026-08-20)*. `SWEEP-CYCLE.md` → *Mirror* makes FreeFileSync the night's last act, so a completed cycle refreshes the whole of `C:\OSINT` — but so does a manual FFS run in the middle of an afternoon's work, and the two look identical in every mtime on the disk. **The discriminator is the closed row**, not the copy: the cycle writes `End` into `logs/sweep-cycle_log.md` and commits *before* it mirrors, so `max(End)` advances on a close and on nothing else, and reading a new `End` from the mirror is itself the proof the mirror carried it. `osint-cycle-ready.py` is that judgement and its reasoning; exit **0** ready, **1** not ready, **2** needs a human. **Nothing changed on the OSINT side to make this work** — the signal was already written and already crosses, which is the only version of it that respects the read-only rule instead of routing round it.
+
+**Poll it from a session left open:**
+
+```
+/loop 25m Run `python scripts/osint-cycle-ready.py --claim`. On exit 0, run CYCLE.md end to
+end and finish with `python scripts/osint-cycle-ready.py --done`. On exit 1, stop and say
+nothing. On exit 2, write one block in logs/messages-for-bill.md and stop — do not re-run.
+```
+
+**Every close fires, and there is no minimum interval** *(Bill, 2026-08-20: "until everything is automated i may well be running sweep-cycle twice a day. If I do it is my responsibility to ensure that i don't interfere with your protocol.")*. Each close is a night's evidence genuinely landed in `raw/`, so each earns a build.
+
+**`logs/.hold-cycle` is the switch to flip before sitting down to work.** While it exists the trigger holds — as it does for `logs/.build-in-progress` and for uncommitted tracked changes — and **it does not advance the watermark**, so the close it held over runs when the file comes out rather than being skipped.
+
+**A cycle run by hand need not call `--done`, and the cost of not doing so is one redundant cycle.** That is deliberate rather than tolerated: *Running unattended* above already establishes that a second whole cycle finds nothing unconsidered, prints `unchanged` across the tree and costs almost nothing, and that the render is idempotent by construction. Paying that occasionally is cheaper than a trigger that infers what a hand-run did from log lines it cannot date precisely against the close.
+
+**`--claim` before, `--done` after, and a claim that never reported done stops the loop.** A cycle that dies leaves the claim outstanding and the next poll exits 2 — `--release` clears it once someone has looked. A poll loop that re-fired on its own failure every twenty-five minutes would be *a job looping on the fault that stopped it*, which *The seam* refuses for the same reason.
+
 ## Handing over at the seam
 
 **The seam is the right place to stop for context, and the only one** *(2026-08-17)*. BUILD stage 4 is model authoring across forty-odd units and the log shows it running from twenty minutes to three hours; a session that has just done that has spent a great deal of what it has, and the render half is nine steps of scripted work that deserves a session with room to read its own output.
