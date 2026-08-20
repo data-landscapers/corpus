@@ -72,11 +72,21 @@ def main():
 
     text = open(os.path.join(S.REPORTS, iso, f"{iso}-status.md"), encoding="utf-8").read()
 
+    # One URL, several facts, and the 2024 test is asked of the *source* — so the fact that
+    # speaks for it is the most recently published one. `setdefault` kept whichever happened to
+    # come first in the pool, which decided the question on fact ordering rather than on the
+    # source: `interieur.gouv.cg/carte-nationale-didentite/` carries COG facts published from
+    # 2007 to 2026, and being seen at 2007 first is what kept a live government page cited for a
+    # 2026 fact out of the queue. A source the report reads for current material is current
+    # material whatever else it also establishes, so the newest date wins — and with it the
+    # publisher and title, which describe the same page either way.
     pool = {}
     ppath = os.path.join(S.REPO, "prep", "scope", iso, "pool.json")
     for fact in json.load(open(ppath, encoding="utf-8")):
         for url in [fact["url"]] + list(fact.get("also") or []):
-            pool.setdefault(url, fact)
+            seen = pool.get(url)
+            if seen is None or (fact.get("published") or "") > (seen.get("published") or ""):
+                pool[url] = fact
 
     cat = S.catalogue_urls()
 
