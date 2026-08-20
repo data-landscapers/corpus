@@ -48,6 +48,7 @@ from markdown.extensions.toc import slugify
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from home import L1, REGION_NAMES, SUBTOPIC_NAMES, subtopic_label  # noqa: E402
 from copy_lib import copy_md  # noqa: E402
+from scope_lib import in_remit  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -113,20 +114,41 @@ def facets(value: str) -> list[str]:
     return [v.strip() for v in value.split(";") if v.strip()]
 
 
-def select(run_date: date) -> list[dict]:
-    """Every catalogue record published on the run's date or the day before.
+def select(run_date: date) -> tuple[list[dict], list[dict]]:
+    """The window, split into what is published and what the remit excludes.
 
     Equality on the `published` column does the date-precision work for free: a month-precision
     record carries `2026-01` and a year-precision one `2026`, neither of which can equal a full
-    date, so only records the source itself dated to the day are ever selected."""
+    date, so only records the source itself dated to the day are ever selected.
+
+    **The second filter is the geographic remit** *(Bill, 2026-08-20)*, and until that date there
+    was none: this function took every record in the window, and a record with no place fell into
+    the `UNPLACED` group and was published there. On 19–20 August that put Thailand's national
+    passport scheme, Japan's training-data rule, Korea's teen-algorithm debate and India's
+    market-regulator AI rules into a bulletin about Africa — the topic bulletin being the worse
+    surface of the two, since it has no place dimension at all and filed them under *Digital ID*,
+    *Legislation* and *Public discourse* beside Nigeria's NIN.
+
+    `scope_lib.in_remit()` is the rule and it is not restated here. What matters at this callsite
+    is that **`unverified` counts as in remit**: a record placed `XGL` is published even though
+    nothing here can tell the ITU's global connectivity report from a Türkiye national plan filed
+    under the same code. Excluding them would drop good material to catch bad, and the code's
+    misuse is a tagging fault upstream (notes 30 and 31 for OSINT) rather than something a
+    publishing filter should be guessing at.
+
+    **The excluded rows are returned rather than dropped**, because a filter that removes items
+    silently is the same failure as the missing filter: `--scan` and `--assemble` both say how many
+    the remit turned away, so a day when it turns away a great deal is visible on the run."""
     start, end = window(run_date)
-    rows = []
+    rows, excluded = [], []
     with CATALOGUE.open(encoding="utf-8", newline="") as fh:
         for row in csv.DictReader(fh):
-            if row["published"].strip() in (start, end):
-                rows.append(row)
-    rows.sort(key=lambda r: (r["published"], r["title"].lower()), reverse=True)
-    return rows
+            if row["published"].strip() not in (start, end):
+                continue
+            (rows if in_remit(row) else excluded).append(row)
+    for group in (rows, excluded):
+        group.sort(key=lambda r: (r["published"], r["title"].lower()), reverse=True)
+    return rows, excluded
 
 
 def anchor_place(row: dict) -> str:
@@ -203,7 +225,7 @@ def raw_path(row: dict) -> str:
 
 def scan(run_date: date, as_json: bool) -> int:
     start, end = window(run_date)
-    rows = select(run_date)
+    rows, excluded = select(run_date)
     store = load_store()
     pending = [r for r in rows if r["slug"] not in store]
 
@@ -211,6 +233,7 @@ def scan(run_date: date, as_json: bool) -> int:
         print(json.dumps({
             "window": [start, end],
             "items": len(rows),
+            "out_of_remit": [r["slug"] for r in excluded],
             "pending": [{"slug": r["slug"], "title": r["title"], "publisher": r["publisher"],
                          "published": r["published"], "places": facets(r["places"]),
                          "topics": facets(r["topics"]), "url": r["url"], "raw": raw_path(r)}
@@ -221,6 +244,15 @@ def scan(run_date: date, as_json: bool) -> int:
     print(f"window   {start} to {end}")
     print(f"in scope {len(rows)} record(s); {len(rows) - len(pending)} already summarised, "
           f"{len(pending)} to write")
+    if excluded:
+        # Named, not merely counted. A filter that removes items silently is the same failure
+        # as the missing filter it replaced — and these are the records OSINT owes a place, a
+        # `geopol.*` tag or a deletion (notes 30 and 31), so a run that turns away a lot is
+        # the signal that the upstream screen has slipped again.
+        print(f"remit    {len(excluded)} record(s) in the window carry no African place, "
+              f"no XGL and no geopol.* tag — not published:")
+        for r in excluded:
+            print(f"           {r['slug']}")
     if not rows:
         print("\nNothing published in the window. Run --assemble: both bulletins say so.")
         return 0
@@ -415,7 +447,7 @@ def document(kind: str, rows: list[dict], store: dict, run_date: date,
 
 
 def assemble(run_date: date) -> int:
-    rows = select(run_date)
+    rows, excluded = select(run_date)
     store = load_store()
     missing = [r["slug"] for r in rows if r["slug"] not in store]
     if missing:
@@ -437,6 +469,9 @@ def assemble(run_date: date) -> int:
             continue
         path.write_text(text, encoding="utf-8")
         print(f"written    {path.relative_to(CORPUS)}  ({len(rows)} item(s))")
+
+    if excluded:
+        print(f"remit      {len(excluded)} record(s) in the window excluded by the geographic remit")
 
     kept = prune(store, run_date)
     if len(kept) != len(store):

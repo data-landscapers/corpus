@@ -4,13 +4,13 @@ title: Country bulletin
 subtitle: sources published 19 and 20 August 2026
 window_start: 2026-08-19
 window_end: 2026-08-20
-items: 50
+items: 42
 compiled: 2026-08-20
 ---
 
 # Country bulletin
 
-*Compiled 2026-08-20 · 50 sources published 19 and 20 August 2026, across 20 countries and regions.*
+*Compiled 2026-08-20 · 42 sources published 19 and 20 August 2026, across 20 countries and regions.*
 
 ## Regions
 
@@ -270,10 +270,6 @@ Summarised under [Botswana](#botswana).
 
 ## Not place-specific
 
-**[ฝ่ายค้านจับตา TH-AI Passport เปิดลงทะเบียนวันแรก จี้รัฐเปิดสัญญาจัดซื้อจัดจ้าง 1.5 พันล้านบาทให้ตรวจสอบ](https://thestandard.co/ai-pass-data-contract/)** — THE STANDARD, 19 August 2026
-
-Thailand's opposition is demanding disclosure of the 1.5bn baht procurement contract behind the AI Pass digital identity, on concerns that personal data may be processed abroad in breach of the contract's own terms of reference. Pre-registration opened as the challenge was made, ahead of a 31 August launch.
-
 **[Will Washington's tech crackdown test fragile US-China truce?](https://www.scmp.com/news/us/article/3364479/will-washingtons-tech-crackdown-test-fragile-us-china-truce)** — South China Morning Post, 19 August 2026
 
 The United States communications regulator has become the sharpest instrument of the administration's action against Chinese technology, advancing bans on robots, power inverters, telecoms operators and testing laboratories. Beijing tested the trade truce in the same week with drone-export curbs and sanctions on seven American firms.
@@ -281,22 +277,6 @@ The United States communications regulator has become the sharpest instrument of
 **[UK 'Open to Discussing' Digital Services Tax With Trump Administration](https://www.politico.eu/article/uk-open-to-discussing-digital-services-tax-with-trump-administration/)** — Politico Europe, 19 August 2026
 
 The United Kingdom said it is open to discussing American concerns over its digital services tax, after the United States trade representative said a threat of 100% tariffs on countries imposing such taxes was not a bluff.
-
-**[Sebi to soon roll out AI rules with a 'kill switch' for stock market](https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms)** — The Economic Times, 19 August 2026
-
-India's securities regulator plans to require a kill switch and human oversight for artificial-intelligence tools used across the securities market. Tiered guidelines will hold every regulated entity fully responsible for a tool's outputs and data handling, whether it was built in-house or bought in.
-
-**[Japan to require AI firms to disclose training data](https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/)** — The Japan Times, 19 August 2026
-
-Japan will ask generative artificial-intelligence firms to disclose their training data and collection methods under a non-binding comply-or-explain code, approved by a government expert panel and covering foreign providers operating in the country.
-
-**[FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)** — Federal Trade Commission, 19 August 2026
-
-The United States competition regulator has put out for comment a draft enforcement policy statement on personalised pricing - setting a price from what a company's data says an individual will pay. The statement's position is that the agency cannot ban the practice outright, but that collecting or using personal data for it without telling the customer may itself be an unfair or deceptive practice under the FTC Act. Comments run for 30 days from Federal Register publication; the authorising vote was 2-0.
-
-**[France Taps Mistral AI To Find Flaws In Government Systems](https://www.cointribune.com/en/france-taps-mistral-ai-to-find-flaws-in-government-systems/)** — Cointribune, 19 August 2026
-
-France will use AI tools to probe its own public services for vulnerabilities, and has said which vendors it will not use. Announced after the Council of Ministers on 18 August, the budget minister named sovereign suppliers "such as Mistral" and stated explicitly that this excludes OpenAI, with the work hosted in SecNumCloud-certified data centres under the existing "Our AI" programme. The trigger was a breach of the public finances directorate said to expose personal and tax data of close to 700,000 taxpayers.
 
 **[Exclusive | As Xi's US visit approaches, basic details of planned AI talks remain uncertain](https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain)** — South China Morning Post, 19 August 2026
 
@@ -309,17 +289,5 @@ China's foreign ministry said it opposes taking sides and forming camps on artif
 **[China is Winning the AI Safety Wars](https://nymag.com/intelligencer/article/china-us-ai-regulation.html)** — New York Magazine (Intelligencer), 19 August 2026
 
 A feature reports China positioning itself as the more responsible power in artificial-intelligence governance at July's world conference, as Washington's deregulatory turn cedes safety-diplomacy ground. It notes that only five of ten Chinese laboratories published safety evaluations this year.
-
-**[Anutin backs TH-AI Passport in five million-user push amid scrutiny](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/19/anutin-backs-th-ai-passport-in-five-million-user-push-amid-scrutiny)** — The Star (Malaysia) / The Nation Thailand-ANN, 19 August 2026
-
-Thailand's TH-AI Passport opened pre-registration to 307,425 sign-ups in the first half of its opening day, against a cap of five million users. The prime minister defended the scheme and the digital economy minister rejected reports that the system had collapsed, defending the platform's .net domain as compliant with its terms of reference.
-
-**[Amnesty Warns of Right-Wing Argentinian Government's AI-Driven Surveillance State](https://www.commondreams.org/news/amnesty-international-argentina-surveillance)** — Common Dreams, 19 August 2026
-
-A rights organisation reported that Argentina's government has built an artificial-intelligence surveillance apparatus using facial recognition, open-source intelligence tooling and tracking drones. It finds a chilling effect that has cut protest participation and led activists and journalists to censor themselves.
-
-**['I Couldn't Lose Another Friend': Korean Teen Calls for Social Media Algorithm Rules](https://www.koreatimes.co.kr/southkorea/society/20260819/i-couldnt-lose-another-friend-korean-teen-calls-for-social-media-algorithm-rules)** — The Korea Times, 19 August 2026
-
-An eighteen-year-old petitioned South Korea's National Assembly for a law obliging social media platforms to police addictive algorithms rather than putting the burden on teenagers, proposing a mandatory protection mode blocking self-harm and violent content for teen accounts, with fines for platforms that do not comply.
 
 *Each item is summarised once — under a region where it carries one, otherwise under the first place its record lists — and cross-referenced from every other country and region it touches.*

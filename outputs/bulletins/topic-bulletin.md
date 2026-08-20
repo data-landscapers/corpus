@@ -4,13 +4,13 @@ title: Topic bulletin
 subtitle: sources published 19 and 20 August 2026
 window_start: 2026-08-19
 window_end: 2026-08-20
-items: 50
+items: 42
 compiled: 2026-08-20
 ---
 
 # Topic bulletin
 
-*Compiled 2026-08-20 · 50 sources published 19 and 20 August 2026, across 25 topics.*
+*Compiled 2026-08-20 · 42 sources published 19 and 20 August 2026, across 25 topics.*
 
 ## ICT Infrastructure
 
@@ -61,14 +61,6 @@ A training session at Accra put newsroom devices to journalists as deliberate ta
 **[Security, digital identity and technology set to spur Tanzania's growth](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/)** — Daily News (Tanzania), 19 August 2026
 
 Summarised under [Digital ID](#digital-id).
-
-**[France Taps Mistral AI To Find Flaws In Government Systems](https://www.cointribune.com/en/france-taps-mistral-ai-to-find-flaws-in-government-systems/)** — Cointribune, 19 August 2026
-
-Summarised under [Artificial intelligence](#artificial-intelligence).
-
-**[Amnesty Warns of Right-Wing Argentinian Government's AI-Driven Surveillance State](https://www.commondreams.org/news/amnesty-international-argentina-surveillance)** — Common Dreams, 19 August 2026
-
-Summarised under [Artificial intelligence](#artificial-intelligence).
 
 ### Data centres & storage
 
@@ -158,10 +150,6 @@ Summarised under [Innovation](#innovation).
 
 ### Digital ID
 
-**[ฝ่ายค้านจับตา TH-AI Passport เปิดลงทะเบียนวันแรก จี้รัฐเปิดสัญญาจัดซื้อจัดจ้าง 1.5 พันล้านบาทให้ตรวจสอบ](https://thestandard.co/ai-pass-data-contract/)** — THE STANDARD, 19 August 2026
-
-Thailand's opposition is demanding disclosure of the 1.5bn baht procurement contract behind the AI Pass digital identity, on concerns that personal data may be processed abroad in breach of the contract's own terms of reference. Pre-registration opened as the challenge was made, ahead of a 31 August launch. *Also under [Data protection](#data-protection) and [Public discourse](#public-discourse).*
-
 **[When biometrics meet PKI - Nigeria's next digital identity challenge](https://www.biometricupdate.com/202608/when-biometrics-meet-pki-nigerias-next-digital-identity-challenge)** — Biometric Update, 19 August 2026
 
 Nigeria's identity commission has taken on the national root certification authority under the NIMC Act 2026, and the analysis argues the hard part is reconciling a biometric register with a public-key trust anchor. It puts NIN registrations at 136 million against a 180 million target for the end of 2026, and reads the new role as forcing unresolved choices on remote refresh of biometric templates, device trust and data minimisation, drawing on India, the Philippines, Singapore and the EU wallet framework as comparators. *Also under [Legislation](#legislation).*
@@ -169,10 +157,6 @@ Nigeria's identity commission has taken on the national root certification autho
 **[Security, digital identity and technology set to spur Tanzania's growth](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/)** — Daily News (Tanzania), 19 August 2026
 
 Tanzania's home affairs ministry told Parliament that its 2026/27 budget prioritises the national digital identifier's rollout, cybersecurity and institutional capacity, including new district registration offices, a headquarters at Dodoma and cybercrime investigation centres at Dodoma and Zanzibar. No cost line or timetable accompanies the priority. *Also under [Cybersecurity](#cybersecurity) and [Policy & strategy](#policy-strategy).*
-
-**[Anutin backs TH-AI Passport in five million-user push amid scrutiny](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/19/anutin-backs-th-ai-passport-in-five-million-user-push-amid-scrutiny)** — The Star (Malaysia) / The Nation Thailand-ANN, 19 August 2026
-
-Thailand's TH-AI Passport opened pre-registration to 307,425 sign-ups in the first half of its opening day, against a cap of five million users. The prime minister defended the scheme and the digital economy minister rejected reports that the system had collapsed, defending the platform's .net domain as compliant with its terms of reference. *Also under [Data protection](#data-protection) and [Public discourse](#public-discourse).*
 
 ### Data exchange
 
@@ -201,18 +185,6 @@ Summarised under [Digital ID](#digital-id).
 Summarised under [Connectivity](#connectivity).
 
 ### Legislation
-
-**[Sebi to soon roll out AI rules with a 'kill switch' for stock market](https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms)** — The Economic Times, 19 August 2026
-
-India's securities regulator plans to require a kill switch and human oversight for artificial-intelligence tools used across the securities market. Tiered guidelines will hold every regulated entity fully responsible for a tool's outputs and data handling, whether it was built in-house or bought in. *Also under [Artificial intelligence](#artificial-intelligence).*
-
-**[Japan to require AI firms to disclose training data](https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/)** — The Japan Times, 19 August 2026
-
-Japan will ask generative artificial-intelligence firms to disclose their training data and collection methods under a non-binding comply-or-explain code, approved by a government expert panel and covering foreign providers operating in the country. *Also under [Artificial intelligence](#artificial-intelligence).*
-
-**[FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)** — Federal Trade Commission, 19 August 2026
-
-The United States competition regulator has put out for comment a draft enforcement policy statement on personalised pricing - setting a price from what a company's data says an individual will pay. The statement's position is that the agency cannot ban the practice outright, but that collecting or using personal data for it without telling the customer may itself be an unfair or deceptive practice under the FTC Act. Comments run for 30 days from Federal Register publication; the authorising vote was 2-0. *Also under [Data protection](#data-protection).*
 
 **[When biometrics meet PKI - Nigeria's next digital identity challenge](https://www.biometricupdate.com/202608/when-biometrics-meet-pki-nigerias-next-digital-identity-challenge)** — Biometric Update, 19 August 2026
 
@@ -250,10 +222,6 @@ Summarised under [Connectivity](#connectivity).
 
 Summarised under [Regional governance](#regional-governance).
 
-**['I Couldn't Lose Another Friend': Korean Teen Calls for Social Media Algorithm Rules](https://www.koreatimes.co.kr/southkorea/society/20260819/i-couldnt-lose-another-friend-korean-teen-calls-for-social-media-algorithm-rules)** — The Korea Times, 19 August 2026
-
-Summarised under [Public discourse](#public-discourse).
-
 ### Data protection
 
 **[Malawi Regulator Warns Against Sharing Non-Consensual Intimate Content Online](https://techafricanews.com/2026/08/19/malawi-regulator-warns-against-sharing-non-consensual-intimate-content/)** — techafricanews.com, 19 August 2026
@@ -264,10 +232,6 @@ Malawi's communications regulator, which holds the data-protection mandate, issu
 
 Cameroonian civil society pressed regulators on the enforcement gaps in the 2024 data protection law at a forum in Yaounde. A legal expert set out the 75-article law's consent, access and erasure rights and penalties reaching 100 million CFA francs, while officials discussed how it is applied in practice. *Also under [Public discourse](#public-discourse).*
 
-**[ฝ่ายค้านจับตา TH-AI Passport เปิดลงทะเบียนวันแรก จี้รัฐเปิดสัญญาจัดซื้อจัดจ้าง 1.5 พันล้านบาทให้ตรวจสอบ](https://thestandard.co/ai-pass-data-contract/)** — THE STANDARD, 19 August 2026
-
-Summarised under [Digital ID](#digital-id).
-
 **[Your Personal Data Could Be Used to Create a Fake Person Using AI, INTERPOL Warns](https://www.kenyans.co.ke/news/126315-your-personal-data-could-be-used-create-fake-person-using-ai-interpol-warns)** — Kenyans.co.ke, 19 August 2026
 
 Summarised under [Cybersecurity](#cybersecurity).
@@ -275,14 +239,6 @@ Summarised under [Cybersecurity](#cybersecurity).
 **[Message of Support by Deputy Minister Nel at the SAHRC Online Stakeholder Engagement on Information Integrity and Human Rights](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html)** — Department of Justice and Constitutional Development (South Africa), 19 August 2026
 
 Summarised under [Public discourse](#public-discourse).
-
-**[FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)** — Federal Trade Commission, 19 August 2026
-
-Summarised under [Legislation](#legislation).
-
-**[Anutin backs TH-AI Passport in five million-user push amid scrutiny](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/19/anutin-backs-th-ai-passport-in-five-million-user-push-amid-scrutiny)** — The Star (Malaysia) / The Nation Thailand-ANN, 19 August 2026
-
-Summarised under [Digital ID](#digital-id).
 
 ### Regional governance
 
@@ -314,14 +270,6 @@ Summarised under [GovTech](#govtech).
 
 South Africa's deputy justice minister told a rights commission engagement that government should not become the custodian of truth on disinformation, while warning against leaving the information environment to private platforms' algorithms. The speech launched the commission's policy brief on information integrity and human rights. *Also under [Legislation](#legislation) and [Data protection](#data-protection).*
 
-**['I Couldn't Lose Another Friend': Korean Teen Calls for Social Media Algorithm Rules](https://www.koreatimes.co.kr/southkorea/society/20260819/i-couldnt-lose-another-friend-korean-teen-calls-for-social-media-algorithm-rules)** — The Korea Times, 19 August 2026
-
-An eighteen-year-old petitioned South Korea's National Assembly for a law obliging social media platforms to police addictive algorithms rather than putting the burden on teenagers, proposing a mandatory protection mode blocking self-harm and violent content for teen accounts, with fines for platforms that do not comply. *Also under [Legislation](#legislation).*
-
-**[ฝ่ายค้านจับตา TH-AI Passport เปิดลงทะเบียนวันแรก จี้รัฐเปิดสัญญาจัดซื้อจัดจ้าง 1.5 พันล้านบาทให้ตรวจสอบ](https://thestandard.co/ai-pass-data-contract/)** — THE STANDARD, 19 August 2026
-
-Summarised under [Digital ID](#digital-id).
-
 **[Zanzibar hosts a three day Data Tamasha Africa 2026](https://ippmedia.co.tz/the-guardian/news/local-news/read/zanzibar-hosts-a-three-day-data-tamasha-africa-2026-2026-08-19-163650)** — The Guardian (Tanzania) / IPP Media, 19 August 2026
 
 Summarised under [Innovation](#innovation).
@@ -329,10 +277,6 @@ Summarised under [Innovation](#innovation).
 **[China is Winning the AI Safety Wars](https://nymag.com/intelligencer/article/china-us-ai-regulation.html)** — New York Magazine (Intelligencer), 19 August 2026
 
 Summarised under [China](#china).
-
-**[Anutin backs TH-AI Passport in five million-user push amid scrutiny](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/19/anutin-backs-th-ai-passport-in-five-million-user-push-amid-scrutiny)** — The Star (Malaysia) / The Nation Thailand-ANN, 19 August 2026
-
-Summarised under [Digital ID](#digital-id).
 
 **[AFRINIC's Constitution Is Africa's Next Internet Stress Test](https://circleid.com/posts/afrinics-constitution-is-africas-next-internet-stress-test)** — CircleID, 19 August 2026
 
@@ -364,17 +308,9 @@ Summarised under [Connectivity](#connectivity).
 
 ### Artificial intelligence
 
-**[France Taps Mistral AI To Find Flaws In Government Systems](https://www.cointribune.com/en/france-taps-mistral-ai-to-find-flaws-in-government-systems/)** — Cointribune, 19 August 2026
-
-France will use AI tools to probe its own public services for vulnerabilities, and has said which vendors it will not use. Announced after the Council of Ministers on 18 August, the budget minister named sovereign suppliers "such as Mistral" and stated explicitly that this excludes OpenAI, with the work hosted in SecNumCloud-certified data centres under the existing "Our AI" programme. The trigger was a breach of the public finances directorate said to expose personal and tax data of close to 700,000 taxpayers. *Also under [Cybersecurity](#cybersecurity).*
-
 **[Exclusive | As Xi's US visit approaches, basic details of planned AI talks remain uncertain](https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain)** — South China Morning Post, 19 August 2026
 
 A hoped-for US-China dialogue on AI is still without a venue, a participant list or a scope, days out from Xi Jinping's planned visit to the United States. The report attributes the drift to AI policy being spread across the White House, the intelligence agencies, the science and technology policy office, State, Commerce and Defense, with no decision yet on whether laboratory experts or companies on either side would take part. *Also under [China](#china) and [United States](#united-states).*
-
-**[Amnesty Warns of Right-Wing Argentinian Government's AI-Driven Surveillance State](https://www.commondreams.org/news/amnesty-international-argentina-surveillance)** — Common Dreams, 19 August 2026
-
-A rights organisation reported that Argentina's government has built an artificial-intelligence surveillance apparatus using facial recognition, open-source intelligence tooling and tracking drones. It finds a chilling effect that has cut protest participation and led activists and journalists to censor themselves. *Also under [Cybersecurity](#cybersecurity).*
 
 **[Zanzibar hosts a three day Data Tamasha Africa 2026](https://ippmedia.co.tz/the-guardian/news/local-news/read/zanzibar-hosts-a-three-day-data-tamasha-africa-2026-2026-08-19-163650)** — The Guardian (Tanzania) / IPP Media, 19 August 2026
 
@@ -384,17 +320,9 @@ Summarised under [Innovation](#innovation).
 
 Summarised under [Policy & strategy](#policy-strategy).
 
-**[Sebi to soon roll out AI rules with a 'kill switch' for stock market](https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms)** — The Economic Times, 19 August 2026
-
-Summarised under [Legislation](#legislation).
-
 **[Nigeria Begins Sovereign Cloud Certification In October](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/)** — CIO Africa, 19 August 2026
 
 Summarised under [Data centres & storage](#data-centres-storage).
-
-**[Japan to require AI firms to disclose training data](https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/)** — The Japan Times, 19 August 2026
-
-Summarised under [Legislation](#legislation).
 
 **[China is Winning the AI Safety Wars](https://nymag.com/intelligencer/article/china-us-ai-regulation.html)** — New York Magazine (Intelligencer), 19 August 2026
 

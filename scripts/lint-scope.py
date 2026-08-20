@@ -2,21 +2,10 @@
 r"""
 lint-scope.py — is anything in the catalogue outside the geographic remit?
 
-**The remit is Africa, and it is narrow** *(Bill, 2026-08-20)*. Non-African material
-is admissible in exactly two cases and no others:
-
-  1. **a sovereignty issue** that files under one of the closed `geopol.*` slugs —
-     great-power positioning, rivalry and strategic influence (`taxonomy.md` →
-     *Geopolitics*, curator ruling 2026-07-20); or
-  2. **material treating the global south generally**, which includes Africa inside
-     its own subject — the `XGL` place, whose vocabulary label is already
-     *Global/Developing Countries*.
-
-Everything else datelined outside Africa is out of scope. A single non-African
-country's domestic story is out however good it is, and however transferable the
-lesson looks: Japan's training-data rule, Korea's teen-algorithm debate and India's
-market-regulator AI rules are all digital governance, and none of them is this
-base's subject.
+**The rule itself is `scope_lib.py`** and is not restated here — it has two callers,
+this one and `bulletin.py`, and a remit stated in two files is a remit that will
+eventually be stated two ways. In short: Africa, plus `geopol.*` sovereignty
+material, plus `XGL` material on the global south, and nothing else.
 
 **This reports; it never deletes.** The records are OSINT's — `CLAUDE.md` has the
 read-only rule and the reasoning — and the catalogue Corpus builds from them is a
@@ -67,53 +56,20 @@ import json
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from scope_lib import facets, verdict  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 CATALOGUE = ROOT / "outputs" / "catalogue" / "raw-catalogue.csv"
-COUNTRIES = ROOT / "outputs" / "vocab" / "countries.csv"
-
-GLOBAL_SOUTH = "XGL"
-
-
-def african_codes() -> set[str]:
-    """Every place code the vocabulary holds except `XGL`.
-
-    `countries.csv` is the authority and carries the regions as well as the states —
-    `XAF` Africa, `XSS` Sub-Saharan Africa and the five sub-regions — so this needs
-    no hardcoded list and grows with the vocabulary rather than against it. `XGL`'s
-    own region cell is empty because it sits above `XAF`, which is what marks it out
-    as the one code that is not a place in Africa."""
-    codes = set()
-    with io.open(COUNTRIES, encoding="utf-8-sig", newline="") as fh:
-        for row in csv.DictReader(fh):
-            code = (row.get("iso-3") or "").strip()
-            if code and code != GLOBAL_SOUTH:
-                codes.add(code)
-    return codes
-
-
-def facets(value: str) -> list[str]:
-    return [v.strip() for v in (value or "").split(";") if v.strip()]
-
-
-def verdict(row: dict, african: set[str]) -> str:
-    places = facets(row.get("places", ""))
-    if any(p in african for p in places):
-        return "in"
-    if any(t.startswith("geopol.") for t in facets(row.get("topics", ""))):
-        return "in"
-    if GLOBAL_SOUTH in places:
-        return "unverified"
-    return "unaccounted"
 
 
 def classify(since: str | None) -> dict[str, list[dict]]:
-    african = african_codes()
     buckets: dict[str, list[dict]] = {"in": [], "unverified": [], "unaccounted": []}
     with io.open(CATALOGUE, encoding="utf-8", newline="") as fh:
         for row in csv.DictReader(fh):
             if since and (row.get("ingested") or "").strip() < since:
                 continue
-            buckets[verdict(row, african)].append(row)
+            buckets[verdict(row)].append(row)
     return buckets
 
 
