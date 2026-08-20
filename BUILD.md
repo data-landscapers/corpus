@@ -65,6 +65,23 @@ This writes `outputs/catalogue/`, `outputs/non-state-finance/`, `outputs/budgets
 
 **Stage 2 is now a precondition of stages 4 and 5, not just a sibling of them** *(2026-08-14)*. The report layer resolves every citation through `outputs/catalogue/raw-catalogue.csv` — Corpus's own published table, the one a reader can download — rather than through the index it is built from. So a run that renders reports against a catalogue older than `raw/` would be publishing links from a stale table, and `report-render.py` refuses: it recomputes the catalogue's stamp (records and newest mtime, about a quarter of a second) and raises `vault_lib.StaleCatalogue` naming the repair, which is to run this stage first. Running `--all` as written satisfies it in the right order.
 
+### Stage 2a — the scope lint (belts and braces on a rule OSINT owns)
+
+**The remit is Africa, and non-African material is admissible in exactly two cases** *(Bill, 2026-08-20)*: a **sovereignty** issue that files under one of the closed `geopol.*` slugs, and material treating the **global south generally**, which is what the `XGL` place already means — `countries.csv` labels it *Global/Developing Countries*. A single non-African country's domestic story is out however good it is: Japan's training-data rule, Korea's teen-algorithm debate and India's market-regulator AI rules are all digital governance and none of them is this base's subject.
+
+**Applying that rule is OSINT's job and Corpus cannot do it.** The records are OSINT's, `C:\OSINT` is read-only, and the screen belongs where the body is read. `scripts/lint-scope.py` therefore **notices rather than enforces** — it reads the catalogue stage 2 has just written and sorts every record three ways: **in** (an African place, or a `geopol.*` tag), **XGL unverified** (placed `XGL` with no `geopol.*` tag — admissible if it earns the code, which is a reading of the body a lint cannot do), and **unaccounted** (no African place, not `XGL`, no `geopol.*` tag).
+
+**The unaccounted bucket is a review list and not a delete list, and that was learned from its first run.** It put Jumia's capital raise, Flutterwave's correspondent accounts and MTN Bayobab's management appointment in the same bucket as Thailand's passport — African stories whose `places` field is simply empty, where deleting the record would lose real material. A third group belongs in neither: the ITU Global Connectivity Report and the SubOptic cable programme should carry `XGL` and do not. So the bucket asks *has this record accounted for its geography*, and the answer is one of delete it, place it, or code it `XGL` — each of them OSINT's call.
+
+**It reports and never gates**, under *Only the leak gate stops a finished run* above. An out-of-remit record is a work item for OSINT, not a reason to withhold a build of the other ten thousand. Carry the counts in the run's log line; where the arrivals are new, write them into a note for OSINT rather than a message to Bill, because the repair is not Corpus's to make.
+
+```bash
+python scripts/lint-scope.py --since {last build's date}   # what the last sweep sent
+python scripts/lint-scope.py                               # the whole backlog
+```
+
+`--since` reads the `ingested` column rather than `published`, because the question is what the last sweep sent and a 2019 paper ingested last night is a new arrival.
+
 ## Stage 4 — report update (the ledgers' move; model authoring)
 
 This is the report update. `documentation/report-layer.md` is the spec — Corpus-owned, and the only one; the register below governs the prose. It reads only the sources the ledger has **not** yet considered — a set difference over slugs, not a date window — so an interrupted run resumes cleanly and nothing is re-read.

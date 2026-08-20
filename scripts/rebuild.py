@@ -165,6 +165,25 @@ def snapshot_vocab():
     print(f"  vocab -> outputs/vocab/ ({', '.join(os.listdir(VOCAB))})")
 
 
+def scope_lint():
+    """The geographic remit, checked on the catalogue stage 2 has just written.
+
+    **Belts and braces on a rule OSINT owns** *(Bill, 2026-08-20)*. The remit — Africa,
+    plus `geopol.*` sovereignty material, plus `XGL` material on the global south — is
+    OSINT's to apply at ingest, and Corpus cannot enforce it: the records are OSINT's and
+    `C:\\OSINT` is read-only. What Corpus can do is notice, on the run that admits them,
+    that something arrived carrying no account of its geography at all.
+
+    **It reports and never gates.** `BUILD.md` → *Only the leak gate stops a finished run*
+    is the rule and this is not the leak gate: an out-of-remit record is a work item for
+    OSINT, not a reason to withhold a build of the other ten thousand. A non-zero count
+    goes in the run's log line and, where it is new, into a note for OSINT."""
+    rc = subprocess.run([sys.executable, os.path.join("scripts", "lint-scope.py"), "--list", "5"],
+                        cwd=WORK).returncode
+    if rc == 2:
+        print("  scope lint: no catalogue to read — skipped")
+
+
 def scan_work_order():
     """The report-update gate: which ledgers hold unconsidered sources in raw/.
     Prints the work order; the authoring is the model stage that follows."""
@@ -222,6 +241,7 @@ def main():
         print("stage 1 — vocab snapshot:"); snapshot_vocab()
     if a.all or a.catalogue:
         print("stage 2 — catalogue:"); run("build-catalogue.py")
+        print("stage 2a — scope lint (reports, never gates):"); scope_lint()
     if a.all or a.finance:
         print("stage 3 — finance + budgets (all places):"); run("build-finance-page.py", "--all")
     if a.all or a.scan:
