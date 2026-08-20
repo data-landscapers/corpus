@@ -18,7 +18,7 @@ this prints the opening sentences and says so rather than pretending to judge th
 
 The acquire rule is Bill's, 2026-08-15, and it turns on *held*, not on which intermediary carried
 the source. A cited URL the catalogue does not hold, dated 2024 or later, is a gap in the daily
-sweep and owes a line in `osint-corpus-exchange/africa-acquire.csv`. Dated before 2024 it owes nothing — that is baseline
+sweep and owes a line in the transfer folder's `africa-acquire.csv`. Dated before 2024 it owes nothing — that is baseline
 material, outside the collection perimeter, and OSINT was never going to hold it.
 """
 
@@ -180,7 +180,7 @@ def check_unit(unit, show_openings=False):
     # the publication date of an unheld URL is not in any file here — so what the run gets is the
     # candidate list, with the held/unheld split already made.
     #
-    # The feed is `osint-corpus-exchange/africa-acquire.csv`, one row per source across all 54 countries, and this
+    # The feed is `africa-acquire.csv` in the transfer folder, one row per source across all 54 countries, and this
     # reads only the rows whose `iso3` is the unit under check. It was `{ISO3}-acquire.md` until
     # 2026-08-15; a queue Bill works down wants to be sortable and countable, which 54 markdown
     # tables are not.

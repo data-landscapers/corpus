@@ -34,11 +34,19 @@ DPI_CSV = os.path.join(REPO, "prep", "africa-dpi-data.csv")
 FINANCE_CSV = os.path.join(REPO, "outputs", "non-state-finance", "all-nonstate.csv")
 CATALOGUE_CSV = os.path.join(REPO, "outputs", "catalogue", "raw-catalogue.csv")
 IIAG_CSV = os.path.join(REPO, "lookups", "iiag-profiles.csv")
-# The acquire feed lives in OSINT's exchange folder, not in Corpus. It is the one directory in
-# `C:\OSINT` that Corpus may write to (`CLAUDE.md`), and the feed sits there so an OSINT session
-# can read and mark the same file rather than wait for a copy to be carried across by hand.
-# `OSINT_PATH` overrides the root, matching `rebuild.py`, so a moved repo needs no code change.
-EXCHANGE = os.path.join(os.environ.get("OSINT_PATH", r"C:\OSINT"), "osint-corpus-exchange")
+# The acquire feed sits in a transfer folder outside both repos, which OSINT is given access to,
+# so an OSINT session can read and mark the same file rather than wait for a copy carried across
+# by hand. It was `C:\OSINT\osint-corpus-exchange` until 2026-08-20, on the same reasoning applied
+# one directory further in — a shared drop point inside OSINT, the one place `CLAUDE.md` let
+# Corpus write to. That stopped working when `C:\OSINT` became a **mirror** of a master repo on
+# OSINT's own drive, refreshed after every `SWEEP-CYCLE`: a feed *read* from a mirror reads as
+# empty the moment the mirror is out of step with its master, and a feed *written* to one is
+# discarded at the next sync. Both happened on 2026-08-20 and check FM failed on all 30 baselines
+# for a reason that had nothing to do with the baselines — their counts were right throughout.
+# Outside both repos there is no mirror in the path and no write into OSINT at all, which retires
+# the write exception rather than relocating it.
+# `CORPUS_OSINT_XFER` overrides it, so a move onto a mapped share needs no code change.
+EXCHANGE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
 ACQUIRE_CSV = os.path.join(EXCHANGE, "africa-acquire.csv")
 OUTLINE = os.path.join(REPO, "documentation", "status-outline.md")
 REPORTS = os.path.join(REPO, "outputs", "reports")
@@ -180,7 +188,7 @@ def iiag_urls():
 
 
 def acquire_rows():
-    """The acquire feed, every country. `osint-corpus-exchange/africa-acquire.csv`, written by `status-acquire.py`.
+    """The acquire feed, every country. `africa-acquire.csv` in EXCHANGE, written by `status-acquire.py`.
 
     One file rather than 54 markdown tables, so the queue can be sorted, filtered and counted, and
     read here so the checker and the writer cannot disagree about its shape."""
