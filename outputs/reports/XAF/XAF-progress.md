@@ -5,16 +5,16 @@ period: 2025-08-01 to 2026-08-20
 place: XAF
 ledger_rows: 84
 not_held: 3
-record: f38b26974c94
+record: 079c614b70fb
 ---
 
 # Africa: progress report, 2025-08-01 to 2026-08-20
 
 *Compiled 2026-08-20 from the Data Landscapers source base. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 84 bodies, instruments and systems on this place's ledger, 36 changed position between 2025-08-01 and 2026-08-20, 10 did not, 35 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 84 bodies, instruments and systems on this place's ledger, 37 changed position between 2025-08-01 and 2026-08-20, 10 did not, 34 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 561 sources for this place in the window — 66 in the earlier half (2025-08 to 2026-01), 495 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 562 sources for this place in the window — 66 in the earlier half (2025-08 to 2026-01), 496 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -167,10 +167,10 @@ The Union's non-binding data instrument acquired a rough measure of its reach. A
 | Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | ADAPT (Africa Digital Access and Public Infrastructure for Trade) | Did not exist | [In pilot in Nigeria, Kenya and Morocco on the Secretary-General's statement to the second Digital Trade Forum; no live exchange, governing instrument or assessment held](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Advanced |
+| AU Digital Agriculture Strategy implementation | Adopted for 2024-2030 with an average agricultural growth target of 6 per cent and an estimated US$165 million continental implementation cost, prioritising national e-agriculture strategies over a uniform regional approach after a 2021 situation analysis covering all 55 member states | [A continental workshop convened regional economic communities, union organs and participating countries to harmonise implementation, seeking interoperable agricultural data platforms, common data governance and alignment of national and regional systems with the continental digital transformation strategy and agriculture reporting](https://au.int/en/pressreleases/20260811/african-union-advances-digital-agriculture-strategy-implementation-across) | Advanced |
 | IGAD SDMX regional statistical-systems capacity-building programme | Did not exist | [Outcome stated as harmonised SDMX Data Structure Definitions and a long-term roadmap institutionalising SDMX across IGAD and its member states under Open Data Portal 2.0; no budget, adoption date or roadmap milestone published](https://igad.int/igad-convenes-capacity-building-programme-to-strengthen-regional-statistical-systems-through-sdmx/) | Advanced |
 | SADX (Smart Africa Data Exchange) | Did not exist | [Unveiled at Conakry on 2025-11-12 and taken into a technical mission with Rwanda, Benin and Ghana on trust chains, interface contracts and incident response; no live exchange held; the alliance and a German development agency say a digital identity issued in one of Rwanda, Ghana or Benin is now recognised in the other two, with eighteen further countries said to be joining, presented as the first step to a single African digital market by 2030](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty) | Advanced |
 | AfCFTA Customs Modernisation Project | ***Baseline not held*** | [A public-private partnership under which Bergmans Security Consultants and Supplies Limited mobilises the financing for customs digital solutions, secure electronic exchange of customs information, coordinated border management, One Stop Border Posts, transit systems, electronic cargo tracking, non-intrusive inspection technology, integrated data centres, multilingual customs portals, risk management and data analytics across participating State Parties; the agreement builds on a memorandum of understanding concluded in July 2026 and nothing is recorded as deployed; a US$3.1bn contract was signed with a Nigerian security consultancy to digitise customs across the 50 member states, aiming at real-time cargo tracking and reduced revenue leakage](https://gfmag.com/economics-policy-regulation/africa-shakes-up-customs-but-trade-problems-persist/) | ***Baseline not held*** |
-| AU Digital Agriculture Strategy implementation | ***Baseline not held*** | [A continental workshop convened regional economic communities, union organs and participating countries to harmonise implementation, seeking interoperable agricultural data platforms, common data governance and alignment of national and regional systems with the continental digital transformation strategy and agriculture reporting](https://au.int/en/pressreleases/20260811/african-union-advances-digital-agriculture-strategy-implementation-across) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
