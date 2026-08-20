@@ -36,6 +36,8 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 **Notes for OSINT carry `[CRITICAL]`, `[ACT]` or `[FYI]`**, defined in the exchange folder's `notes-for-osint.md` preamble, and the same reversibility test picks the tag. Most of what used to be written as a decision request is an `[ACT]` with the conservative option already taken.
 
+**Two mechanisms come from OSINT, which was ahead on this.** A finding that **carries its own solution is a task, not a message** — do it and log it (OSINT's housekeeping bar, 2026-08-03). And **`logs/messages-for-bill.md` is capped at five open blocks**: at the cap a run does not write a sixth, it takes the conservative option and logs it, which is how OSINT's ten-note cap converts queue pressure into decisions rather than backlog. A rule nobody counts drifts — that file reached ten blocks and 102 lines with nothing measuring it.
+
 **None of this touches the boundaries.** OSINT stays read-only, the leak gate still stops a run, and a destructive or outward-facing step still gets confirmed. Being decisive is about not deferring judgements CC is competent to make; it is not licence to widen what CC is allowed to touch.
 
 **Everything CC produces goes in Corpus**, including anything about OSINT. If a change is needed *in* OSINT — a corrected path, a stale statement in a process file, a note for the queues — CC writes the finding as a numbered note in **`C:\corpus-osint-xfer

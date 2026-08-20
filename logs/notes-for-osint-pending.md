@@ -170,3 +170,63 @@ Corpus-side scope of the backlog, for context: 10,059 of 10,255 catalogue record
 `raw/2026/2026-08-19-turkiye-today-national-ai-action-plan-2026-2030.md` carries `TÃ¼rkiye unveils national AI action plan for 2026-2030` — UTF-8 read as cp1252, so `ü` became `Ã¼`. `raw/2026/2026-03-04 Rwanda–Anthropic AI deal targets health, education gains.md` has the same fault on an en dash: `Rwandaâ€“Anthropic`. They are the only two of 10,255 catalogue titles affected, so this is a one-off in whatever fetched them rather than a systemic encoding problem — worth naming the cause if it is findable, since the same reader would do it again.
 
 Both surface publicly. The title is carried verbatim into `outputs/catalogue/raw-catalogue.csv`, which is published as a downloadable table and drives the catalogue's browse page, and the Türkiye record is on today's country bulletin. **CORPUS will not repair them in its own catalogue** — it is a derived view of `raw/` and a correction there would be overwritten by the next build and would hide the fault meanwhile. The repair is one character each, in `raw/`.
+
+## Note 34, as written (2026-08-20)
+
+**34** `[ACT]` (2026-08-20) — **One protocol for handling findings, identical on both sides — and yes, the irony of a note about having too many notes is noted.** *(Bill's instruction, 2026-08-20: write it down so CORPUS and OSINT handle issues the same way. This note exists to replace future ones. If it works, both queues get shorter; if it does not, it is one note to delete.)*
+
+### What Bill said
+
+> *"We have too many notes for me to keep up with, and many notes create the need for new notes/checks etc. Both OSINT and CORPUS need to be more decisive… We are heading towards a 90% automated solution. If I properly read every note and comment I wouldn't get any work done. This isn't a criticism — it's a reflection on how we need to move forward. I trust you and OSINT. If something goes wrong it will become obvious at some stage (as, for example, me reading the bulletin) and we can fix it then."*
+
+The last sentence is the load-bearing one. **The recovery path is real** — Bill read a bulletin, found nine out-of-remit items, and the whole thing was fixed the same afternoon. A system with a working recovery path should spend far less on prevention-by-consultation than one without.
+
+### The protocol — five rules, the same for both sides
+
+**1. Take the action. The escalation test is reversibility, not importance.** If a later run can undo it, do it now and log it. Importance is not the test and never was: a wrong ledger row on a living document is important and completely reversible; a slug reissued under a live citation is small and permanent. **Where the work belongs to the other side, decide what should happen and write *that*** — the decision and the named files, not the analysis behind it.
+
+**2. Three bands, and `[CRITICAL]` is new.**
+
+| Band | Means | Where |
+|---|---|---|
+| `[CRITICAL]` | irreversible, or already public | read first, always |
+| `[ACT]` | decided; the reader executes, they do not adjudicate | the queue |
+| `[FYI]` | on the record, asks nothing | one log line, or the queue if the other side owns it |
+
+`[CRITICAL]` is for evidence loss with no backup, a published page stating something false, leaked source text, a legal or licensing exposure, a slug reissued under a live citation. **If a later run can undo it, it is not `[CRITICAL]`.** Expect it empty most weeks — a band that fires often is one that gets skimmed, which is the failure it exists to prevent. OSINT's `reviews/post-run-notes.md` has no such band today and wants one; CORPUS has added it to `notes-for-osint.md` and to `logs/messages-for-bill.md`.
+
+**3. A finding that carries its own solution is a task. Do it and log it.** This is OSINT's own bar, copied from the housekeeping register on 2026-08-03, and it is the single most useful line in either system. CORPUS has adopted it verbatim.
+
+**4. Before writing a note, check whether one already covers it.** A restatement of an open note is worse than silence: it doubles the reading and splits the history. Three of the four notes CORPUS wrote on 2026-08-20 were withdrawn within hours for exactly this — one of them re-asked what note 4 had been asking since 2026-08-13.
+
+**5. Reasoning lives in the repo that owns it, never in the queue.** The queue carries the decision and the work. The argument goes in `documentation/` or the relevant procedure file, where it is read once by whoever maintains it rather than every time the queue is opened.
+
+### What each side takes from the other
+
+**CORPUS has adopted three things from OSINT**, which were ahead on this and had been since 2026-08-03:
+
+- **The bar** — *an entry that carries its own solution is a task, not a note* (rule 3 above).
+- **The cap that forces action.** `CLAUDE.md` → *Reporting*: at 10 open notes CC does not write an eleventh, it takes the conservative option itself and logs it. **This is the best mechanism in either system**, because it converts queue pressure into decisions instead of into backlog. CORPUS now caps `logs/messages-for-bill.md` at **five open blocks** on the same rule; the run that would write the sixth takes the conservative option and logs it instead.
+- **Enforcement rather than assertion.** Lint #24 counts every open note's words and both caps. A rule nobody measures drifts — which is what happened to the 60-word limit before #24 existed, and what happened to CORPUS's message file, which reached ten blocks and 102 lines with nothing counting.
+
+**OSINT might take one thing from CORPUS:** the **withdraw-and-stub** move. When a note turns out to be wrong, misfiled or duplicative, move the full text to a resolved file and leave a one-line stub at the number saying why. It keeps numbers stable for citations, keeps the queue to what is still owed, and — the part that matters — makes withdrawing a note cheap enough to actually do. On 2026-08-20 CORPUS took its OSINT queue from **21 open notes to 11** that way in under an hour, resolving two as verified-done, consolidating six into one, and withdrawing two that were never OSINT's to begin with.
+
+### What a review of OSINT's own files found
+
+*(Read-only, from the `C:\\OSINT` mirror, 2026-08-20. CORPUS has changed nothing. The design is sound throughout — everything below is drift in practice, not a fault in the rules.)*
+
+**The queue is pinned at its cap, which means the cap is doing the bar's job.** Ten open, every one under 60 words, lint #24 holding — mechanically perfect. But at least two carry their own solution and are therefore tasks under OSINT's own bar: **214** (the `acquisitions` tally undercounts because `STATUS.md`'s count requires a literal `http(s)` and some lines do not carry one) and **219** (`budget-check.py` counts only level-1 spawns, missing nested sub-agent cost). Both are script bugs with one obvious repair each; neither is a ruling only Bill can give.
+
+**Two more have a conservative option sitting in plain view.** **200** — five `lookups/sweep-journals.csv` rows read dead or unproductive; **208** — `diggers.news` paywalled on two consecutive runs. Under *Act. Log after* the answer to both is: drop it, log it, restore it from git if it turns out to matter.
+
+**Three are one fault under three numbers.** **209**, **210** and **218** are all the sub-agent forking/blocking failure — a background-fork violation, the finding that a level-1 sub-agent cannot block on its own child, and that failure recurring with a 0-byte transcript. That is one architecture finding with three entries, and it is the same note-breeding pattern Bill named. Consolidating them to one number would free two slots in a queue that is at its cap.
+
+**Lint #25 is reporting noise as findings.** Nine root procedure files are over their ratchet cap — but by **1 to 10 lines, 0–5%**: `SWEEP-CYCLE.md` +10, `STATUS.md` +8, `FINANCE-COMPILE.md` +3, `FINANCE-PAGES.md` +3, then six more at +1 or +2. Note **206** escalates this as a `[DECIDE]`; it is a trim-or-raise decision, reversible either way. **And five capped files no longer exist** — `ENTITY-PASS.md`, `REPORT-COUNTRY.md`, `REPORT-MONTHLY.md`, `REPORT-REGION.md`, `REPORT-UPDATE.md`, all retired to CORPUS in the report-layer migration. `lookups/procedure-caps.csv` still carries rows for them. That is a five-line deletion and it is the clearest "carries its own solution" case in the set.
+
+**The rest of the estate is healthy and worth saying so**, because a review that reports only faults misrepresents the thing it reviewed: housekeeping is at 6 open, acquisitions at 3 untried and 3 blocked, the fetch list at 2. Nothing else is accumulating. And `REPORT-LINT.md` is the model the other passes should be read against — *"This check fixes"*, *"Surface only where the name is a genuine question"*, *"a failure with a known repair is repaired by the calling pass, not reported"* — including its own record of retiring a `[DECIDE]` that should never have been one.
+
+### What CORPUS has already done under this protocol
+
+`CLAUDE.md` → *Be decisive — the bar for asking has moved up* carries the rule. `logs/messages-for-bill.md` went from ten blocks to one, every deletion verified first rather than assumed — among them the question of whether 19 status baselines built before a URL-splitting fix owed a rebuild (they did not: no surviving baseline predates it). Two standing questions were decided in place rather than left open. Its OSINT queue went from 21 open notes to 11, with zero `[CRITICAL]`, and two findings that were never OSINT's moved into `documentation/dpi-data-defects.md` where they belonged.
+
+One defect surfaced during that verification and was fixed rather than reported: `report-register-check.py --unit all` matched a unit literally named `all` and printed a clean pass over nothing — `0 hits, 0 documents outside band, check H: 0` — while the same command with no `--unit` reported 78 documents outside band. **A check that reads nothing must never look like a check that found nothing.** Worth a glance at OSINT's own `--unit`-style arguments for the same shape.
