@@ -69,6 +69,18 @@ development cooperation and project financing (e.g. Japan, Korea, UK or Russia g
 new per-country `geopol` slug is minted on the strength of aid/cooperation activity. (Settles
 ISSUE-014 and ISSUE-017.)
 
+**And a `geopol.*` slug does not by itself carry a non-African record into the base (2026-08-20,
+settling note 30's open tagging question).** The facet names the acting power because the wiki
+tracks that power's positioning **toward Africa and the developing world** — so where a record has
+no African place, it earns the slug only if the positioning *is* the story and its bearing reaches
+beyond the acting power's own borders. A `geopol` power's purely domestic act — an EU member
+state's own procurement rule, a US state's own privacy report, a national regulator's guidance to
+its own market — is that country's domestic story and the place bar in `CLAUDE.md` → *The
+material* rejects it, however cleanly it reads as data governance. Where the act sets a standard,
+precedent or supply condition others must then live with, that is positioning and it earns the
+slug. **The list stays closed**: a power not on it — Korea, Japan, the UK, Russia — has no slug to
+earn, so its domestic story is simply out.
+
 ### Capacity
 - `capacity.literacy` — Literacy
 - `capacity.training` — Training and skills
