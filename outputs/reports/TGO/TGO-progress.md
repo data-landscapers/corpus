@@ -1,20 +1,20 @@
 ---
-title: Togo — progress report, 2025-08-01 to 2026-08-19
-compiled: 2026-08-19
-period: 2025-08-01 to 2026-08-19
+title: Togo — progress report, 2025-08-01 to 2026-08-20
+compiled: 2026-08-20
+period: 2025-08-01 to 2026-08-20
 place: TGO
-ledger_rows: 120
+ledger_rows: 121
 not_held: 39
-record: 0c4ce8b9e43f
+record: 4d1aa59d349a
 ---
 
-# Togo: progress report, 2025-08-01 to 2026-08-19
+# Togo: progress report, 2025-08-01 to 2026-08-20
 
-*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-20 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 120 systems and instruments on this place's ledger, 42 changed position between 2025-08-01 and 2026-08-19, 22 did not, 17 carry no stated baseline, and 39 are ***Not held*** at both ends.*
+*Of 121 systems and instruments on this place's ledger, 42 changed position between 2025-08-01 and 2026-08-20, 22 did not, 18 carry no stated baseline, and 39 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 98 sources for this place in the window — 28 in the earlier half (2025-08 to 2026-02), 70 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 100 sources for this place in the window — 28 in the earlier half (2025-08 to 2026-02), 72 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -28,7 +28,7 @@ Togo spent the year building the plumbing and not adopting the plan. Identity is
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | ECOWAS free-roaming arrangement with Senegal and Benin | Not in force; regional ministers had set full implementation by all operators by end-2025 | [In force - free incoming calls for up to 30 consecutive days, outgoing calls and messages at visited-country local rates, preferential data tariffs, and no surcharge on incoming international traffic](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative) | Advanced, slipped |
 | Licence for E-Space Togo to operate Internet-of-Things networks | Did not exist | [A five-year renewable licence to establish and operate electronic-communications networks for services based on the Internet of Things, distinct from the incumbent mobile and internet authorisations](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) | Advanced |
@@ -38,14 +38,14 @@ Togo spent the year building the plumbing and not adopting the plan. Identity is
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Sovereign private cloud at the Lome Data Centre | Did not exist | [Partnership signed to host and process Togolese firms' data in-country, with cloud and artificial-intelligence services and sub-rack access for firms that cannot afford to rent half a rack](https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center) | Advanced |
 | Lome Data Centre | No statement about the facility on file | [An operating third-tier facility, state-owned, positioned as a West African hub](https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | TogoCyber+ | Not on file at the window's opening; it first appears in a regional cybersecurity working-group report of April 2026 as an initiated programme | [Funded under the Togo-Luxembourg indicative cooperation programme for 2026-2031, to strengthen cybersecurity across digital public services, financial transactions and critical infrastructure and to build incident-response capacity](https://www.togofirst.com/en/economic-governance/1607-19578-togo-luxembourg-sign-three-agreements-on-development-and-cybersecurity) | Advanced |
 | Agence Nationale de la Cybersecurite | Operating - runs the incident response team and the national strategy, and co-runs public campaigns with the data-protection authority | [Unchanged, with its director-general on the record in July 2026](https://www.togofirst.com/fr/formation/0311-17461-protection-des-donnees-3000-jeunes-togolais-formes-aux-bons-reflexes-numeriques) | No change |
@@ -62,7 +62,7 @@ Connectivity gained redundancy and lost none of its concentration. A [second sub
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Tax-exemption platform interfaced to the customs system | Did not exist | [Mandatory for all tax exemption and waiver requests, with automatic transmission into the customs system](https://www.togofirst.com/en/economic-governance/0110-17200-togo-launches-online-platform-for-tax-exemptions-and-waivers) | Advanced |
 | Government electronic-government software licensing agreements | Signed in June 2024, with no deployment reported | [Still no deployment, go-live, pilot result or renewal reported by either side](https://kz.kursiv.media/en/2024-06-20/kazakhstan-wants-to-export-egov-to-africa/) | No change |
@@ -70,14 +70,14 @@ Connectivity gained redundancy and lost none of its concentration. A [second sub
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Numero d'identification unique and the biometric identity card | Enrolment rolling through Golfe and Greater Lome with the Agoe-Nyive phase opening 2025-08-20, and no cumulative national figure published | [More than 6,000,000 holders at 2025-12-31, about 62 per cent of the population and about 75 per cent of the eight-million target, with enrolment reaching the Maritime region in November 2025, Zio in January 2026 and Plateaux-Ouest in May 2026](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025) | Advanced |
 | Unique identification numbers held | No cumulative figure published, stated explicitly at 2025-11-19 | [More than 6,000,000, against a programme target of 8,000,000](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025) | Advanced |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digitised payment of retirement allowances | Did not exist | [Bank transfer and mobile money in use by the retirement allowance management committee for beneficiaries who have registered payment details, with mobile-money numbers registered on the PayHub platform through a freephone line and a dedicated messaging service, and allowances stopping for those who have not registered by 2026-08-31](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/) | Advanced |
 | Gozem Money | Announced about a year earlier and not in service | [A live wallet for bill payment, online purchase, transfer and personal finance, interoperable with bank cards and other Togolese mobile money](https://www.togofirst.com/fr/finance/1510-17308-mobile-money-au-togo-gozem-money-entre-en-service) | Advanced |
@@ -85,12 +85,13 @@ Connectivity gained redundancy and lost none of its concentration. A [second sub
 | WAEMU instant payment platform, Togolese participation | Real-condition tests with a sample of clients from 5 June 2025 and seven Togolese institutions integrated before launch, with the platform not launched | [Six banks authorised to serve the public, and the first mobile wallet joined on 2026-04-14 with interoperable regional transfers and a merchant code](https://www.togofirst.com/fr/finance/0408-16870-togo-7-institutions-financieres-sur-la-plateforme-de-paiements-instantanes-de-la-bceao) | Advanced |
 | Regional guide to electronic-money issuance by public treasuries | In force and not held by the wiki | [In force, and acquired 2026-07-31](https://www.bceao.int/sites/default/files/2021-04/GUIDE%20POUR%20LA%20CONSTITUTION%20DES%20DOSSIERS%20POUR%20L%E2%80%99E%CC%81MISSION%20DE%20LA%20MONNAIE%20E%CC%81LECTRONIQUE%20PAR%20LES%20TRE%CC%81SORS%20PUBLICS%20NATIONAUX.pdf) | No change |
 | Electronic-money accounts | No figure held | [12.55m accounts opened and 6.07m active, an activity rate of 48.35 per cent, with active accounts up 76.87 per cent year on year - the highest rate in the union - across more than 81,000 service points and about 5,800 merchants accepting electronic payment](https://www.togofirst.com/fr/finance/1803-18503-togo-le-nombre-de-comptes-de-monnaie-electronique-a-progresse-de-76-87-en-un-an) | ***Baseline not held*** |
+| Lideflow cross-border payments platform | ***Baseline not held*** | [A single platform interconnecting bank transfers, mobile wallets and dollar stablecoins with conversion into the naira, shilling, cedi and the CFA francs, and exposing payment operations to autonomous software agents](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos) | ***Baseline not held*** |
 | Mobile-money subscribers and transaction value | No figure held | [4.96m subscribers, up 21 per cent year on year, and FCFA 1,398bn transacted in the quarter, up 33 per cent; one wallet holds 58 per cent of subscribers against 42 per cent for the other](https://www.togofirst.com/fr/telecoms/0807-19499-mobile-money-moov-africa-togo-lance-de-nouveaux-services-pour-renforcer-sa-position) | ***Baseline not held*** |
 | Treasury interoperable prepaid card | Nothing on record | [Announced, with issuance limited to recipients of state payments and to those owing taxes; no timetable, no confirmation that a file has been lodged with the central bank, and no commitment amount](https://www.togofirst.com/en/public-management/2407-19673-togo-plans-prepaid-cards-to-digitize-public-payments) | ***Baseline not held*** |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | National birth-registration catch-up campaign | Did not exist; first edition delivered a jugement suppletif and birth certificate to 5,000 vulnerable children | [Second edition targets 6,461 further children across 25 communes (OIF states nearly 7,400), taking the two campaigns' combined total to 11,461](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/) | Advanced |
 | National satellite-positioning correction network | Did not exist | [Twenty-five reference stations delivering centimetre-precision corrections, serving infrastructure mapping, the cadastre, precision agriculture and environmental mapping](https://www.togofirst.com/fr/gouvernance-economique/0304-18635-togo-le-guichet-unique-de-cartographie-des-infrastructures-officiellement-lance) | Advanced |
@@ -101,7 +102,7 @@ Connectivity gained redundancy and lost none of its concentration. A [second sub
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Education management information system | An analytical layer over the school-census collection system since 2021, with an external review of April 2024 finding that a fully accessible and operational system could not yet be claimed | [Working clearly at regional level for teacher allocation, furniture shortages and school-construction priority, and more constrained at inspection level, where the binding constraint is that validated data reaches the system weeks after collection](https://education.dhis2.org/gpe-kix-study-tour/) | No change, constraint restated |
 | Pupil registration number platform | Launched in 2023 and not evidenced in operation | [Unchanged; nothing in the window moves it](https://education.gouv.tg/wp-content/uploads/2025/10/Aide-me%CC%81moire-RSCE_Togo_2025.pdf) | No change |
@@ -109,7 +110,7 @@ Connectivity gained redundancy and lost none of its concentration. A [second sub
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Guichet National du Service Public | Portal live, with civil status available in one commune only | [Civil status in five pilot communes, and twenty-nine energy procedures covering the utility, the rural electrification agency and the sector regulator](https://www.togofirst.com/en/public-services/1712-17829-togo-expands-public-service-digitisation-with-online-civil-registry-platform) | Advanced |
 | Programme for the digitalisation of public administrations | Energy and tourism ministries completed, on dates the base does not establish | [Foreign affairs added, with more than 280 officials trained in cybersecurity and digital tools, plus connectivity, service interconnection, electronic document management and a real-time sector-analysis room](https://www.togofirst.com/fr/tic/0204-18629-togo-le-ministere-des-affaires-etrangeres-amorce-la-digitalisation-de-ses-services) | Advanced |
@@ -118,13 +119,13 @@ Connectivity gained redundancy and lost none of its concentration. A [second sub
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Spectrum royalties for satellite and machine-to-machine services | The 2023 rate schedule in force, with no satellite or machine-to-machine rates | [Amendment adopted to price spectrum use for satellite services and satellite machine-to-machine traffic, so specialised operators can establish and rural connectivity extend; the text and its rates were unpublished at 2026-07-31](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) | Advanced |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Urban addressing in Greater Lome | Not on record | [Databases of coded and named roads and metric address points under construction, with signage plaques and door certification planned](https://www.republicoftogo.com/toutes-les-rubriques/societe/adressage-urbain-effort-de-modernisation) | Advanced |
 | Golfe 2 georeferenced municipal census | Not held | [A georeferenced census of households, businesses and taxpayers launched in the Golfe 2 commune of Greater Lome on 11 August 2026 and running to 10 October, to build a secure municipal database under the communes federation's local-governance digitalisation push and the 2023-2027 communal development plan](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal) | ***Baseline not held*** |
@@ -137,7 +138,7 @@ This is where the year's movement is concentrated. Identity went from no publish
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Anti-money-laundering law of 2025 | The 2018 statute in force, with no risk-based approach and no due diligence on virtual-asset service providers | [The 2025 law adopted, replacing the 2018 statute with a risk-based approach, due diligence extended to virtual-asset service providers and strengthened beneficial-ownership identification](https://www.togofirst.com/en/economic-governance/3012-17892-togo-adopts-new-law-to-strengthen-anti-money-laundering-rules) | Advanced |
 | Decret n 2023-040/PR on electronic-communications fees and royalties | In force as signed, with no satellite or satellite machine-to-machine spectrum royalty rates | [Amended on 2026-07-30 to price spectrum use for satellite services and machine-to-machine traffic; the amending text was unpublished at 2026-07-31](https://arcep.tg/wp-content/uploads/2023/08/Decret-2023-040-fixant-taux-modalites-recouvrements-equipements-radielectriques.pdf) | Advanced |
@@ -146,7 +147,7 @@ This is where the year's movement is concentrated. Identity went from no publish
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Togo Digital 2025-2030 national digital strategy | Drafting procurement launched in May 2025, with the 2020 strategy still operative | [Still no adopted strategy fourteen months into the period it names; a June 2026 enterprise toolbox is framed under the predecessor](https://www.wearetech.africa/fr/fils/actualites/tech/togo-une-nouvelle-strategie-numerique-en-preparation-pour-la-periode-2025-2030) | Stalled |
 | Regulatory authority for electronic communications and posts | Operating under its present director-general | [Operating, its head elected president of the West African regulators' association at the general assembly Togo hosted on 2026-04-22](https://www.togofirst.com/en/trombinoscope-uk/3107-19753-michel-yaovi-galley-head-of-arcep-togo) | No change |
@@ -154,21 +155,21 @@ This is where the year's movement is concentrated. Identity went from no publish
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Transposition of the regional consumer-protection directive | Consultation held in March 2025, with no transposition instrument | [No transposition instrument on record](https://www.togofirst.com/en/economic-governance/2403-15996-togo-adopts-waemu-consumer-protection-framework) | No change |
 | Abidjan-Lagos corridor border interoperability | Not held | [A regional dialogue convened at the Togo-Ghana joint border post on 13 August 2026 to accelerate free movement along the corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu) | ***Baseline not held*** |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Decree instituting a national conformity-assessment mechanism | Did not exist | [Adopted, covering pre-market conformity assessment and traceability for local and imported products](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) | Advanced |
 | Decret n 2026-037/PC approving the national frequency allocation plan | The 2022 decree in force, built on the 2020 edition of the international radio regulations, with the plan undated in the base | [The 2026 decree in force, built on the 2024 edition transposing the 2023 world radiocommunication conference - 197 pages, an explicit civil and military sharing column, and new bands for 5G, high-altitude platforms and inter-satellite links](https://arcep.tg/wp-content/uploads/2026/04/Decret-2026-037-PC-Plan-National-d-Attribution-des-bandes-de-Frequences-radioelectriques-PNAF.pdf) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Cooperation accord between the broadcasting and data-protection authorities | Did not exist | [In force, its operative mechanism being that the broadcasting authority authorises the data-protection authority to access its control and monitoring room](https://cybersecuritymag.africa/la-haac-et-ipdcp-scellent-un-accord-de-cooperation-institutionnelle) | Advanced |
 | Instance de protection des donnees a caractere personnel | Operating from March 2025 on an awareness campaign only, with no certified data-protection officers and no organisation decree | [Operating, with thirty-two certified corporate correspondents by June 2026 and a second international forum convened in July 2026; the organisation decree is still not held](https://www.togofirst.com/fr/tic/2903-16040-numerique-l-instance-de-protection-des-donnees-a-caractere-personnel-demarre-ses-activites) | Advanced |
@@ -176,7 +177,7 @@ This is where the year's movement is concentrated. Identity went from no publish
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | National consumer-rights outreach tour | Not held | [The regulator's seventh national sensitisation tour, running 3 to 28 August 2026 with consumer associations and operators, briefing mobile operators and consumer-association leaders on electronic-communications rights and, at Bassar, on preventing mobile-money fraud; at Kara local officials asked the regulator to widen its remit to all economic operators](https://atop.tg/bassar-telecommunications-les-consommateurs-sensibilises-sur-leurs-droits-et-obligations/) | ***Baseline not held*** |
 
@@ -188,7 +189,7 @@ Instruments were made and their texts were not published. The year brought a [20
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | National-languages speech and translation model project | Did not exist, the project being presented as new in July 2026 | [An open-source collection platform announced, targeting at least fifty hours of validated recordings and 6,000 translated sentence pairs for each of fifty languages](https://www.togofirst.com/fr/culture/1407-19555-au-togo-un-projet-pour-valoriser-les-langues-nationales-via-lintelligence-artificielle) | Advanced |
 | Pan-African African-language artificial-intelligence coalition | Did not exist | [Five founding governments and four private partners, built on an open-sourced national model, with Togo's minister committing support through an international commission](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/) | Advanced |
@@ -196,14 +197,14 @@ Instruments were made and their texts were not published. The year brought a [20
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Digital toolbox for very small and medium enterprises | Did not exist | [A live single window carrying a digital-maturity self-assessment, a catalogue of digital solutions, a network of certified advisers and a resource library, under a stated target of 3,000 firms](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme) | Advanced |
 | Fuel marking and traceability system | Did not exist | [Every litre distributed through legal channels carries a molecular marker verifiable at depot, station and roadside, with sanctions running to seizure, fines of FCFA 50,000 to 10,000,000 and closure](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | TogoTech national digital start-up association | Did not exist, a development agency having recorded that three years earlier no association could represent the digital private sector | [About fifteen member start-ups, with partnership agreements signed with the national cybersecurity operator and a law firm](https://www.togofirst.com/fr/tic/2710-17412-a-lome-lancement-officiel-de-togotech-la-synergie-nationale-des-startups-du-numerique) | Advanced |
 
@@ -215,13 +216,13 @@ Artificial intelligence went from nothing on the record to three announcements a
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Community network at Ati-Akakpe | Announced as imminent and not operating | [Still only an imminent-launch announcement, with no operating record, user count or completion date](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/gouvernance-numerique-connecter-les-zones-oubliees) | No change |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Full-service payment institution licence for a Togolese fintech | Did not exist | [Holds the most complete non-bank licence the central bank issues; only about twenty payment institutions had been licensed across the eight member states by September 2025, after the deadline slipped three times](https://techcabal.com/2026/02/17/francophone-weekly-by-techcabal-012/) | Advanced |
 | Instant international payment service | Did not exist | [Live, with real-time send and receive to and from more than 130 countries, and rollout intended across the bank's thirty-five markets](https://www.togofirst.com/en/finance/3110-17454-ecobank-launches-instant-international-payment-service-in-togo) | Advanced |
@@ -229,20 +230,20 @@ Artificial intelligence went from nothing on the record to three announcements a
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Youth digital-hygiene awareness campaign | No held record of any national digital-literacy programme | [One campaign delivered, with no recurrence, curriculum or follow-on published](https://www.togofirst.com/fr/formation/0311-17461-protection-des-donnees-3000-jeunes-togolais-formes-aux-bons-reflexes-numeriques) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Corporate data-protection correspondents programme | Did not exist | [Thirty-two correspondents certified, drawn from banking, insurance, telecommunications, local government, health, transport and public administration, with a follow-up and continuous-certification arrangement stated as planned](https://www.togofirst.com/fr/tic/2506-19349-protection-des-donnees-l-ipdcp-forme-ses-premiers-correspondants-pour-renforcer-la-conformite-des-entreprises) | Advanced |
 | European support programme for the digital transformation of the economy | Active, with EUR 4,000,000 committed and nothing disbursed | [Unchanged, with no disbursement or output figure published in the window](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-ACT-62421) | No change |
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | District and school data-use project | Running, a three-year project across six African countries including Togo | [In its final phase, concluding November 2026](https://education.dhis2.org/gpe-kix-study-tour/) | No change |
 
@@ -254,7 +255,7 @@ Inclusion moved in the market and not in the state's own programmes. A Togolese 
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Regional unique identification programme, Togolese component | Active, with US$72,000,000 for Togo inside a second-phase envelope of US$273,000,000 | [US$20,000,000 of additional financing signed under the unity pillar of the package](https://www.togofirst.com/en/investments/1707-19593-togo-signs-cfa257-4-billion-in-financing-agreements-for-vision-2040) | Advanced |
 | Togo Digital Acceleration Project | Approved and active with US$100,000,000 committed, targeting about 8,000 public institutions connected and more than a million people with new or improved access | [US$13,992,856 disbursed, 14.0 per cent, against a closing date of 31 January 2030](https://projects.worldbank.org/en/projects-operations/project-detail/P179138) | Advanced |
@@ -267,7 +268,7 @@ Inclusion moved in the market and not in the state's own programmes. A Togolese 
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
 |---|---|---|---|
 | Card and merchant partnership with a global payment network | Did not exist | [Virtual and physical cards plus merchant solutions announced through the group's wallets, with no Togo launch date, volume or fee terms published](https://techreviewafrica.com/public/news/3303/axian-group-and-mastercard-partner-to-expand-digital-financial-inclusion-across-africa) | Advanced |
 | Indicative cooperation programme with Luxembourg for 2026-2031 | Did not exist as a named instrument, with joint projects since 2024 put at about US$56m | [In force, carrying a digital transformation component inside a package of EUR 78,550,000](https://www.togofirst.com/en/economic-governance/1607-19578-togo-luxembourg-sign-three-agreements-on-development-and-cybersecurity) | Advanced |

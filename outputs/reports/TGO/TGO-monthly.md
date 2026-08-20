@@ -1,16 +1,16 @@
 ---
 title: Togo — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: TGO
-ledger_rows: 34
+ledger_rows: 35
 not_held: 39
-record: 39d955e9c659
+record: a66bc28badee
 ---
 
 # Togo: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -44,6 +44,8 @@ The tax authority closed the paper route into the land record. From 17 August 20
 
 <!-- narrative: dpi--dpi-pay -->
 Payments moved on a deadline. Retirement allowances [began paying by bank transfer and mobile money in July](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/), and allowances stop on 31 August for beneficiaries who have not registered payment details; no beneficiary count or registration rate is published, and no alternative is stated for someone without a bank account, a handset or an identity document. The regional [deadline to connect to the instant payment platform moved from 30 June to 30 September](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi), and to 30 June 2027 for microfinance institutions. A [treasury prepaid card was announced](https://www.togofirst.com/en/public-management/2407-19673-togo-plans-prepaid-cards-to-digitize-public-payments) with no timetable and no confirmation that a file has been lodged with the central bank.
+
+The month's other payments development is private and points outward. A domestic financial-technology firm founded in 2024 [runs a single platform interconnecting bank transfers, mobile wallets and dollar stablecoins, converting into the naira, shilling, cedi and the CFA francs, and exposing payment operations to autonomous software agents](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos). No transaction volume, corridor count, licence or customer figure is stated, and the account is a profile rather than a filing.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
