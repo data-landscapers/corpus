@@ -18,7 +18,7 @@ All projects should have these three folders attached; if any is missing, warn m
 - Data-landscapers : `C:\Users\bill\Dropbox\Github\data-landscapers`
 - OSINT : `C:\OSINT`
 
-Cowork and Claude Code have read/write on Corpus and Data-landscapers. **Neither ever writes to OSINT**, with the single exception of `C:\OSINT\osint-corpus-exchange\`; Corpus's own `CLAUDE.md` carries the reasoning and the mechanics.
+Cowork and Claude Code have read/write on Corpus and Data-landscapers. **Neither ever writes to OSINT, and there is no longer an exception** *(2026-08-20)*. What used to be one — a shared folder inside `C:\OSINT` — has moved out of both repositories to `C:\corpus-osint-xfer\`, a git repository of its own that Bill gives OSINT access to. That retires the exception rather than relocating it, because `C:\OSINT` is a **mirror**: a write there is discarded at the next sync, so it was never a delivery. Corpus's own `CLAUDE.md` carries the reasoning and the mechanics, and the share's `README.md` describes what is in it.
 
 ## Corpus is an extension of data-landscapers
 

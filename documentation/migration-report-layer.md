@@ -83,9 +83,11 @@ Mechanism: Corpus writes a machine-readable **request feed** (`logs/requests-for
 
 ## Standing constraints to agree with the colleague
 
-The mirror of the constraints already atop `osint-corpus-exchange/notes-for-osint.md`, now that Corpus depends on OSINT's evidence:
+The mirror of the constraints already atop `C:rpus-osint-xfer
+otes-for-osint.md`, now that Corpus depends on OSINT's evidence:
 
-- `raw/`, `lookups/` and `wiki/` stay git-tracked and committed — an uncommitted tree is the one state a rebuild cannot restore. Corpus reads all three from OSINT's **working tree**, through the workroot junctions, not from `HEAD`. **`index/` is not in the list and is not read at all**: Corpus builds its own from `raw/` and `wiki/`, in its own tree, in about five seconds. An index is a cache of something Corpus can already read, so depending on OSINT's copy bought nothing and cost a build that could be stopped by a maintenance step Corpus is not allowed to run. *(`wiki/` added 2026-08-14, when the status and initialisation processes made it load-bearing; `index/` dropped, and the `HEAD` claim corrected, the same day. `osint-corpus-exchange/notes-for-osint.md` → standing constraints is the full statement.)*
+- `raw/`, `lookups/` and `wiki/` stay git-tracked and committed — an uncommitted tree is the one state a rebuild cannot restore. Corpus reads all three from OSINT's **working tree**, through the workroot junctions, not from `HEAD`. **`index/` is not in the list and is not read at all**: Corpus builds its own from `raw/` and `wiki/`, in its own tree, in about five seconds. An index is a cache of something Corpus can already read, so depending on OSINT's copy bought nothing and cost a build that could be stopped by a maintenance step Corpus is not allowed to run. *(`wiki/` added 2026-08-14, when the status and initialisation processes made it load-bearing; `index/` dropped, and the `HEAD` claim corrected, the same day. `C:rpus-osint-xfer
+otes-for-osint.md` → standing constraints is the full statement.)*
 - Slugs in `raw/` stay stable — a re-slugged source reads as new to Corpus.
 - The hub compile re-derives from `raw/`, not from Corpus's CSVs — no cross-repo build-order dependency.
 - The request feed is honoured on some cadence, or the gaps loop stops draining.
