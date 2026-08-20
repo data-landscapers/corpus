@@ -22,8 +22,7 @@ Status as of 2026-08-12: build code exists and works (pull, render, country page
 
 **OSINT is read-only from this repo, absolutely.** No edits, no new files, no moves, no deletes, no git operations, no running OSINT's own procedure files — not even its log or review-queue files. OSINT is the store of record; a mistake there is data loss, whereas a mistake in Corpus is a rebuild.
 
-If something needs to change *in* OSINT — a stale note, a broken path, a request for a new machine-readable export — write it as a numbered finding in `C:rpus-osint-xfer
-otes-for-osint.md` and tell Bill (or whoever owns OSINT now). Don't make the change yourself. This is stated in `CLAUDE.md` and is the single most important rule in this repo.
+If something needs to change *in* OSINT — a stale note, a broken path, a request for a new machine-readable export — write it as a numbered finding in `C:\corpus-osint-xfer\notes-for-osint.md` and tell Bill (or whoever owns OSINT now). Don't make the change yourself. This is stated in `CLAUDE.md` and is the single most important rule in this repo.
 
 Corpus *reads* OSINT freely: grep the tree, read any file, run read-only git commands. It just never writes.
 
@@ -44,8 +43,7 @@ Then the renderers run over `outputs/` and write `site/`:
 scripts/     the compilers, renderers and templates — the authored code (was build/ pre-2026-08-13)
 site/        rendered artefacts, what is served — generated, overwritten by the next build
 prototypes/  disposable scaffolding, deleted once the real build fully replaces it
-documentation/design.md · C:rpus-osint-xfer
-otes-for-osint.md · CLAUDE.md · documentation/workflow.md
+documentation/design.md · C:\corpus-osint-xfer\notes-for-osint.md · CLAUDE.md · documentation/workflow.md
 ```
 
 The renderers read `outputs/` directly, so there is no second tree and no mapping between two shapes. That was the point of removing `upstream/`: any divergence between a source tree and a mirror of it is a mapping that has to be kept in step by hand, which is exactly the kind of thing that silently rots.
@@ -77,11 +75,9 @@ Full reasoning is in `documentation/design.md` §1; the highlights:
 2. There's no single consolidated, versioned, methodology-documented cross-country dataset — 59 per-country CSVs aren't a citable dataset on their own.
 3. `REPORT-LINT` (a verification pass) doesn't yet cover the reporting layer that the site would be publishing.
 
-These are OSINT-side problems Corpus can't fix directly — they're tracked as unresolved notes 3, 4, 5 in `C:rpus-osint-xfer
-otes-for-osint.md`.
+These are OSINT-side problems Corpus can't fix directly — they're tracked as unresolved notes 3, 4, 5 in `C:\corpus-osint-xfer\notes-for-osint.md`.
 
-## C:rpus-osint-xfer
-otes-for-osint.md — what it is and why it matters
+## C:\corpus-osint-xfer\notes-for-osint.md — what it is and why it matters
 
 This file is the *only* channel for getting a change made in OSINT from a Corpus session. It's numbered, oldest-unresolved-first, and has a **Standing constraints** section at the top — properties of OSINT the site depends on that must never silently change:
 - `outputs/` must stay git-tracked and committed (the build diffs against committed HEAD; a cycle that stops committing it breaks the site with no error).
@@ -96,13 +92,11 @@ As of 2026-08-12 there are 9 open numbered notes (1–9) — worth reading in fu
 - **Commit after every change, not at the end of a session.** One commit per coherent change, terse subject line. An uncommitted tree is the one state that isn't reversible.
 - **This repo lives on Dropbox.** Deletes need permission once per session — the sandbox blocks `unlink` on the Dropbox mount by default, which leaves a stale `.git/HEAD.lock` that then fails *every subsequent* commit with "cannot lock ref 'HEAD'". If commits start failing mid-session, check for stale `.lock` / `tmp_obj_*` files under `.git/` first.
 - `documentation/design.md` is a living design record, revised in place rather than appended to — when a section of it gets built, the runnable part should move to a proper procedure file and the design doc keeps only the reasoning.
-- `documentation/workflow.md` is a lightweight Obsidian kanban board (Backlog / Next / Processing / Complete) — currently near-empty, not a source of truth for project state; treat `documentation/design.md` §6/§7 and `C:rpus-osint-xfer
-otes-for-osint.md` as the actual backlog.
+- `documentation/workflow.md` is a lightweight Obsidian kanban board (Backlog / Next / Processing / Complete) — currently near-empty, not a source of truth for project state; treat `documentation/design.md` §6/§7 and `C:\corpus-osint-xfer\notes-for-osint.md` as the actual backlog.
 
 ## Recommended reading order for a first session
 
 1. `CLAUDE.md` — the rules above, in full and in Bill's own words.
 2. `documentation/design.md` — the full design record: what's settled, content model, the three design commitments, how data reaches the site, editions and verification.
-3. `C:rpus-osint-xfer
-otes-for-osint.md` — the standing constraints and the 9 open notes.
+3. `C:\corpus-osint-xfer\notes-for-osint.md` — the standing constraints and the 9 open notes.
 4. `scripts/*.py` docstrings — each script's header explains what it does and why, in the same voice as the design doc; they're worth reading before changing any of them.

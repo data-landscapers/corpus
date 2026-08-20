@@ -169,8 +169,7 @@ Count the unit's sources per month across the window **before** promising a comp
 
 ## 8. Byproducts — the pass is a defect detector
 
-Forcing every claim through a resolution step finds what nothing else looks for: a source held twice under two slugs, an artefact with no `url:` and therefore uncitable, a closed contradiction confirmed still closed. **Emit them in the run** — as numbered notes in `C:rpus-osint-xfer
-otes-for-osint.md`, since the defects are in OSINT's evidence and Corpus cannot fix them there. They cost nothing to collect while passing and are never found by going looking.
+Forcing every claim through a resolution step finds what nothing else looks for: a source held twice under two slugs, an artefact with no `url:` and therefore uncitable, a closed contradiction confirmed still closed. **Emit them in the run** — as numbered notes in `C:\corpus-osint-xfer\notes-for-osint.md`, since the defects are in OSINT's evidence and Corpus cannot fix them there. They cost nothing to collect while passing and are never found by going looking.
 
 ## 9. Files and versions
 
