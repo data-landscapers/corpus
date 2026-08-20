@@ -4,13 +4,13 @@ title: Country bulletin
 subtitle: sources published 19 and 20 August 2026
 window_start: 2026-08-19
 window_end: 2026-08-20
-items: 44
+items: 50
 compiled: 2026-08-20
 ---
 
 # Country bulletin
 
-*Compiled 2026-08-20 · 44 sources published 19 and 20 August 2026, across 20 countries and regions.*
+*Compiled 2026-08-20 · 50 sources published 19 and 20 August 2026, across 20 countries and regions.*
 
 ## Regions
 
@@ -45,6 +45,10 @@ A commercial bank and an international card scheme opened online acceptance of t
 **[Standard Bank expands UnionPay acceptance](https://itweb.africa/article/standard-bank-expands-unionpay-acceptance/KBpdgvpmBA47LEew)** — ITWeb Africa, 19 August 2026
 
 A commercial bank group and an international card scheme expanded online acceptance across nine African markets, letting participating merchants take payments from the scheme's cardholders and settle in local currency, United States dollars or both. It builds on a collaboration the two established in 2024. *Also under [Ghana](#ghana), [Kenya](#kenya), [Malawi](#malawi), [Namibia](#namibia), [Tanzania](#tanzania), [Uganda](#uganda), [Zambia](#zambia) and [Zimbabwe](#zimbabwe).*
+
+**[Mukuru launches mobile wallet-linked Visa card in Botswana](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana)** — Connecting Africa, 19 August 2026
+
+A remittance operator has launched a Visa-branded Companion Card in Botswana, spending directly from the Mukuru wallet balance with no separate bank account and no transfer between accounts. Each transaction is PIN-protected, online purchases run through 3D Secure, and a lost card can be blocked from the handset. The operator frames the gap it is aimed at as 38 per cent of adults unbanked against mobile penetration of 164 per cent, or about 4.22 million connections.
 
 ### Cameroon
 
@@ -157,6 +161,10 @@ Summarised under [Botswana](#botswana).
 Summarised under [Botswana](#botswana).
 
 ### Nigeria
+
+**[When biometrics meet PKI - Nigeria's next digital identity challenge](https://www.biometricupdate.com/202608/when-biometrics-meet-pki-nigerias-next-digital-identity-challenge)** — Biometric Update, 19 August 2026
+
+Nigeria's identity commission has taken on the national root certification authority under the NIMC Act 2026, and the analysis argues the hard part is reconciling a biometric register with a public-key trust anchor. It puts NIN registrations at 136 million against a 180 million target for the end of 2026, and reads the new role as forcing unresolved choices on remote refresh of biometric templates, device trust and data minimisation, drawing on India, the Philippines, Singapore and the EU wallet framework as comparators.
 
 **[NITDA and NAHCON Partner to Fully Digitise Nigeria’s Hajj Operations](https://techafricanews.com/2026/08/19/nitda-and-nahcon-partner-to-fully-digitise-nigerias-hajj-operations/)** — techafricanews.com, 19 August 2026
 
@@ -282,6 +290,18 @@ India's securities regulator plans to require a kill switch and human oversight 
 
 Japan will ask generative artificial-intelligence firms to disclose their training data and collection methods under a non-binding comply-or-explain code, approved by a government expert panel and covering foreign providers operating in the country.
 
+**[FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)** — Federal Trade Commission, 19 August 2026
+
+The United States competition regulator has put out for comment a draft enforcement policy statement on personalised pricing - setting a price from what a company's data says an individual will pay. The statement's position is that the agency cannot ban the practice outright, but that collecting or using personal data for it without telling the customer may itself be an unfair or deceptive practice under the FTC Act. Comments run for 30 days from Federal Register publication; the authorising vote was 2-0.
+
+**[France Taps Mistral AI To Find Flaws In Government Systems](https://www.cointribune.com/en/france-taps-mistral-ai-to-find-flaws-in-government-systems/)** — Cointribune, 19 August 2026
+
+France will use AI tools to probe its own public services for vulnerabilities, and has said which vendors it will not use. Announced after the Council of Ministers on 18 August, the budget minister named sovereign suppliers "such as Mistral" and stated explicitly that this excludes OpenAI, with the work hosted in SecNumCloud-certified data centres under the existing "Our AI" programme. The trigger was a breach of the public finances directorate said to expose personal and tax data of close to 700,000 taxpayers.
+
+**[Exclusive | As Xi's US visit approaches, basic details of planned AI talks remain uncertain](https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain)** — South China Morning Post, 19 August 2026
+
+A hoped-for US-China dialogue on AI is still without a venue, a participant list or a scope, days out from Xi Jinping's planned visit to the United States. The report attributes the drift to AI policy being spread across the White House, the intelligence agencies, the science and technology policy office, State, Commerce and Defense, with no decision yet on whether laboratory experts or companies on either side would take part.
+
 **[China urges respect for digital sovereignty in AI race](https://bluewaterhealthyliving.com/news/world-news/china-urges-respect-for-digital-sovereignty-in-ai-race/)** — Reuters (via Blue Water Healthy Living), 19 August 2026
 
 China's foreign ministry said it opposes taking sides and forming camps on artificial intelligence, responding to a reported American letter pressing signatories of a United States framework to drop China's competing one. The draft letter is reported to warn the 35 signatories that they cannot hold parallel commitments.
@@ -289,6 +309,10 @@ China's foreign ministry said it opposes taking sides and forming camps on artif
 **[China is Winning the AI Safety Wars](https://nymag.com/intelligencer/article/china-us-ai-regulation.html)** — New York Magazine (Intelligencer), 19 August 2026
 
 A feature reports China positioning itself as the more responsible power in artificial-intelligence governance at July's world conference, as Washington's deregulatory turn cedes safety-diplomacy ground. It notes that only five of ten Chinese laboratories published safety evaluations this year.
+
+**[Anutin backs TH-AI Passport in five million-user push amid scrutiny](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/19/anutin-backs-th-ai-passport-in-five-million-user-push-amid-scrutiny)** — The Star (Malaysia) / The Nation Thailand-ANN, 19 August 2026
+
+Thailand's TH-AI Passport opened pre-registration to 307,425 sign-ups in the first half of its opening day, against a cap of five million users. The prime minister defended the scheme and the digital economy minister rejected reports that the system had collapsed, defending the platform's .net domain as compliant with its terms of reference.
 
 **[Amnesty Warns of Right-Wing Argentinian Government's AI-Driven Surveillance State](https://www.commondreams.org/news/amnesty-international-argentina-surveillance)** — Common Dreams, 19 August 2026
 

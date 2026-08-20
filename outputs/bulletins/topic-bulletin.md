@@ -4,13 +4,13 @@ title: Topic bulletin
 subtitle: sources published 19 and 20 August 2026
 window_start: 2026-08-19
 window_end: 2026-08-20
-items: 44
+items: 50
 compiled: 2026-08-20
 ---
 
 # Topic bulletin
 
-*Compiled 2026-08-20 · 44 sources published 19 and 20 August 2026, across 24 topics.*
+*Compiled 2026-08-20 · 50 sources published 19 and 20 August 2026, across 25 topics.*
 
 ## ICT Infrastructure
 
@@ -61,6 +61,10 @@ A training session at Accra put newsroom devices to journalists as deliberate ta
 **[Security, digital identity and technology set to spur Tanzania's growth](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/)** — Daily News (Tanzania), 19 August 2026
 
 Summarised under [Digital ID](#digital-id).
+
+**[France Taps Mistral AI To Find Flaws In Government Systems](https://www.cointribune.com/en/france-taps-mistral-ai-to-find-flaws-in-government-systems/)** — Cointribune, 19 August 2026
+
+Summarised under [Artificial intelligence](#artificial-intelligence).
 
 **[Amnesty Warns of Right-Wing Argentinian Government's AI-Driven Surveillance State](https://www.commondreams.org/news/amnesty-international-argentina-surveillance)** — Common Dreams, 19 August 2026
 
@@ -128,6 +132,10 @@ South Africa's treasury and central bank published a draft manual for cross-bord
 
 Sierra Leone is drafting a roadmap against mobile-money fraud after a two-day workshop brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together. It follows parliamentary pressure over identity-theft scams on one operator's network. *Also under [Policy & strategy](#policy-strategy).*
 
+**[Mukuru launches mobile wallet-linked Visa card in Botswana](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana)** — Connecting Africa, 19 August 2026
+
+A remittance operator has launched a Visa-branded Companion Card in Botswana, spending directly from the Mukuru wallet balance with no separate bank account and no transfer between accounts. Each transaction is PIN-protected, online purchases run through 3D Secure, and a lost card can be blocked from the handset. The operator frames the gap it is aimed at as 38 per cent of adults unbanked against mobile penetration of 164 per cent, or about 4.22 million connections. *Also under [Access](#access).*
+
 **[M-PESA Ethiopia Unveils ‘Arada Enhun’ Merchant Campaign to Boost Digital Payments](https://techafricanews.com/2026/08/19/m-pesa-ethiopia-unveils-arada-enhun-merchant-campaign-to-boost-digital-payments/)** — Tech Africa News, 19 August 2026
 
 An Ethiopian mobile-money operator opened a 90-day merchant promotion paying up to ETB 1m in prizes to merchants who take more digital payments, built around its scan-to-pay and merchant code services on a single code that accepts payment from other banks and wallets.
@@ -154,9 +162,17 @@ Summarised under [Innovation](#innovation).
 
 Thailand's opposition is demanding disclosure of the 1.5bn baht procurement contract behind the AI Pass digital identity, on concerns that personal data may be processed abroad in breach of the contract's own terms of reference. Pre-registration opened as the challenge was made, ahead of a 31 August launch. *Also under [Data protection](#data-protection) and [Public discourse](#public-discourse).*
 
+**[When biometrics meet PKI - Nigeria's next digital identity challenge](https://www.biometricupdate.com/202608/when-biometrics-meet-pki-nigerias-next-digital-identity-challenge)** — Biometric Update, 19 August 2026
+
+Nigeria's identity commission has taken on the national root certification authority under the NIMC Act 2026, and the analysis argues the hard part is reconciling a biometric register with a public-key trust anchor. It puts NIN registrations at 136 million against a 180 million target for the end of 2026, and reads the new role as forcing unresolved choices on remote refresh of biometric templates, device trust and data minimisation, drawing on India, the Philippines, Singapore and the EU wallet framework as comparators. *Also under [Legislation](#legislation).*
+
 **[Security, digital identity and technology set to spur Tanzania's growth](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/)** — Daily News (Tanzania), 19 August 2026
 
 Tanzania's home affairs ministry told Parliament that its 2026/27 budget prioritises the national digital identifier's rollout, cybersecurity and institutional capacity, including new district registration offices, a headquarters at Dodoma and cybercrime investigation centres at Dodoma and Zanzibar. No cost line or timetable accompanies the priority. *Also under [Cybersecurity](#cybersecurity) and [Policy & strategy](#policy-strategy).*
+
+**[Anutin backs TH-AI Passport in five million-user push amid scrutiny](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/19/anutin-backs-th-ai-passport-in-five-million-user-push-amid-scrutiny)** — The Star (Malaysia) / The Nation Thailand-ANN, 19 August 2026
+
+Thailand's TH-AI Passport opened pre-registration to 307,425 sign-ups in the first half of its opening day, against a cap of five million users. The prime minister defended the scheme and the digital economy minister rejected reports that the system had collapsed, defending the platform's .net domain as compliant with its terms of reference. *Also under [Data protection](#data-protection) and [Public discourse](#public-discourse).*
 
 ### Data exchange
 
@@ -193,6 +209,14 @@ India's securities regulator plans to require a kill switch and human oversight 
 **[Japan to require AI firms to disclose training data](https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/)** — The Japan Times, 19 August 2026
 
 Japan will ask generative artificial-intelligence firms to disclose their training data and collection methods under a non-binding comply-or-explain code, approved by a government expert panel and covering foreign providers operating in the country. *Also under [Artificial intelligence](#artificial-intelligence).*
+
+**[FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)** — Federal Trade Commission, 19 August 2026
+
+The United States competition regulator has put out for comment a draft enforcement policy statement on personalised pricing - setting a price from what a company's data says an individual will pay. The statement's position is that the agency cannot ban the practice outright, but that collecting or using personal data for it without telling the customer may itself be an unfair or deceptive practice under the FTC Act. Comments run for 30 days from Federal Register publication; the authorising vote was 2-0. *Also under [Data protection](#data-protection).*
+
+**[When biometrics meet PKI - Nigeria's next digital identity challenge](https://www.biometricupdate.com/202608/when-biometrics-meet-pki-nigerias-next-digital-identity-challenge)** — Biometric Update, 19 August 2026
+
+Summarised under [Digital ID](#digital-id).
 
 **[UK 'Open to Discussing' Digital Services Tax With Trump Administration](https://www.politico.eu/article/uk-open-to-discussing-digital-services-tax-with-trump-administration/)** — Politico Europe, 19 August 2026
 
@@ -252,6 +276,14 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 Summarised under [Public discourse](#public-discourse).
 
+**[FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)** — Federal Trade Commission, 19 August 2026
+
+Summarised under [Legislation](#legislation).
+
+**[Anutin backs TH-AI Passport in five million-user push amid scrutiny](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/19/anutin-backs-th-ai-passport-in-five-million-user-push-amid-scrutiny)** — The Star (Malaysia) / The Nation Thailand-ANN, 19 August 2026
+
+Summarised under [Digital ID](#digital-id).
+
 ### Regional governance
 
 **[Smart Africa and AFRINIC hold talks on internet governance and digital transformation](https://techreviewafrica.com/news/6830/smart-africa-and-afrinic-hold-talks-on-internet-governance-and-digital-transformation)** — Tech Review Africa, 19 August 2026
@@ -298,6 +330,10 @@ Summarised under [Innovation](#innovation).
 
 Summarised under [China](#china).
 
+**[Anutin backs TH-AI Passport in five million-user push amid scrutiny](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/19/anutin-backs-th-ai-passport-in-five-million-user-push-amid-scrutiny)** — The Star (Malaysia) / The Nation Thailand-ANN, 19 August 2026
+
+Summarised under [Digital ID](#digital-id).
+
 **[AFRINIC's Constitution Is Africa's Next Internet Stress Test](https://circleid.com/posts/afrinics-constitution-is-africas-next-internet-stress-test)** — CircleID, 19 August 2026
 
 Summarised under [Regional governance](#regional-governance).
@@ -307,6 +343,12 @@ Summarised under [Regional governance](#regional-governance).
 Summarised under [Data protection](#data-protection).
 
 ## Inclusion
+
+### Access
+
+**[Mukuru launches mobile wallet-linked Visa card in Botswana](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana)** — Connecting Africa, 19 August 2026
+
+Summarised under [Payments](#payments).
 
 ### Digital divides
 
@@ -321,6 +363,14 @@ Summarised under [Connectivity](#connectivity).
 ## Technology
 
 ### Artificial intelligence
+
+**[France Taps Mistral AI To Find Flaws In Government Systems](https://www.cointribune.com/en/france-taps-mistral-ai-to-find-flaws-in-government-systems/)** — Cointribune, 19 August 2026
+
+France will use AI tools to probe its own public services for vulnerabilities, and has said which vendors it will not use. Announced after the Council of Ministers on 18 August, the budget minister named sovereign suppliers "such as Mistral" and stated explicitly that this excludes OpenAI, with the work hosted in SecNumCloud-certified data centres under the existing "Our AI" programme. The trigger was a breach of the public finances directorate said to expose personal and tax data of close to 700,000 taxpayers. *Also under [Cybersecurity](#cybersecurity).*
+
+**[Exclusive | As Xi's US visit approaches, basic details of planned AI talks remain uncertain](https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain)** — South China Morning Post, 19 August 2026
+
+A hoped-for US-China dialogue on AI is still without a venue, a participant list or a scope, days out from Xi Jinping's planned visit to the United States. The report attributes the drift to AI policy being spread across the White House, the intelligence agencies, the science and technology policy office, State, Commerce and Defense, with no decision yet on whether laboratory experts or companies on either side would take part. *Also under [China](#china) and [United States](#united-states).*
 
 **[Amnesty Warns of Right-Wing Argentinian Government's AI-Driven Surveillance State](https://www.commondreams.org/news/amnesty-international-argentina-surveillance)** — Common Dreams, 19 August 2026
 
@@ -398,6 +448,10 @@ Summarised under [China](#china).
 
 Summarised under [China](#china).
 
+**[Exclusive | As Xi's US visit approaches, basic details of planned AI talks remain uncertain](https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain)** — South China Morning Post, 19 August 2026
+
+Summarised under [Artificial intelligence](#artificial-intelligence).
+
 **[China urges respect for digital sovereignty in AI race](https://bluewaterhealthyliving.com/news/world-news/china-urges-respect-for-digital-sovereignty-in-ai-race/)** — Reuters (via Blue Water Healthy Living), 19 August 2026
 
 Summarised under [China](#china).
@@ -427,6 +481,10 @@ A feature reports China positioning itself as the more responsible power in arti
 **[Standard Bank expands UnionPay acceptance](https://itweb.africa/article/standard-bank-expands-unionpay-acceptance/KBpdgvpmBA47LEew)** — ITWeb Africa, 19 August 2026
 
 Summarised under [Payments](#payments).
+
+**[Exclusive | As Xi's US visit approaches, basic details of planned AI talks remain uncertain](https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain)** — South China Morning Post, 19 August 2026
+
+Summarised under [Artificial intelligence](#artificial-intelligence).
 
 ## Capacity
 
