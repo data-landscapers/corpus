@@ -28,6 +28,10 @@
     </Filter>
     <FolderPairs>
         <Pair>
+            <Left>C:\CORPUS-OSINT-XFER</Left>
+            <Right>D:\CORPUS-OSINT-XFER</Right>
+        </Pair>
+        <Pair>
             <Left>C:\CORPUS</Left>
             <Right>D:\CORPUS</Right>
         </Pair>
