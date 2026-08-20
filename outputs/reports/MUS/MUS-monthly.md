@@ -1,16 +1,16 @@
 ---
 title: Mauritius — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: MUS
-ledger_rows: 32
+ledger_rows: 36
 not_held: 9
-record: 4262c87e834b
+record: 8b1e44a32285
 ---
 
 # Mauritius: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -24,6 +24,11 @@ The month's substance is one document and one event. The omnibus bill introduced
 
 <!-- narrative: infrastructure--infra-connect -->
 The Prime Minister announced on [16 July 2026 that Mauritius will join the America-India Connect subsea cable programme](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). Reporting on [2 August established what sits behind it](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/): a signed non-disclosure agreement, terms still under negotiation, no published timetable. The driver is ageing infrastructure — LION and LION2 still carry most international traffic — and the same account notes that Google already operates a ground station at Baie-du-Jacotet serviced by the state operator, so the cable would deepen a relationship rather than open one.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: infrastructure--infra-store -->
+At the regional summit on 17 August the prime minister announced [a carrier-neutral green data centre and a "Digital Embassy Village"](https://lexpress.mu/node/561649) as the digital leg of a bid to position the country as a regional hub and gateway. No site, capacity, cost, operator or date is stated, which is what separates it from the two data centres already running.
 <!-- /narrative -->
 ### Energy
 
@@ -63,6 +68,9 @@ On cross-border payments the state operator [announced a Mauritius-Seychelles co
 The same omnibus also gives clinical trials a statutory electronic licensing system, with the procedure written into the same Act as the channel.
 
 A smaller service went live rather than being provided for. On 18 August the transport and IT ministries [launched an online motor vehicle licence system letting taxi operators renew the licence and pay road tax without visiting a post office or a land transport counter](https://techafricanews.com/2026/08/18/mauritius-launches-online-licensing-road-tax-system-for-taxi-operators/), which the ministry says will also build a database of operators, alongside a website for the operators' welfare fund — 6,567 registered members of 7,802 operators, with about 3,000 already on an electronic platform. The authority's underlying system is stated as outdated and a tender has been launched to upgrade it; no transaction volume, cost or extension beyond taxi operators is published.
+
+
+A smaller service is being taken online with its own figures attached: commercial-weighing oversight, which [verified 12,412 measuring instruments across 4,971 businesses and inspected 4,974 shops in 2025-2026, is moving bookings, payments and certificates onto a new platform](https://maurice-info.mu/2026/08/10/numerisation-des-services-de-metrologie-a-maurice.html). No go-live date or cost is stated.
 <!-- /narrative -->
 
 ## Governance and regulation
@@ -80,6 +88,11 @@ And on [30 July the ICT minister committed to Electronic Transactions Act amendm
 
 <!-- narrative: governance--gov-policy -->
 At the summit on [16 July the ICT minister committed the government to a National Data Governance Strategy](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/) covering cybersecurity, privacy and children's online safety, with no text or date stated.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+The continental internet registry seated here is still without a settled board. One outlet's analysis records that the registry [named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised](https://btw.media/en/afrinic-eight-seat-board-election-result-evidence-gap), and that the appeal court has now [set aside its 2023 appeal for want of corporate authority without ruling on the official receiver's permission or on statutory leave](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided). The chain from election through appointment to quorum is therefore unresolved and the receiver undischarged. No registry statement on the withheld tallies is held.
 <!-- /narrative -->
 ### Standards
 
@@ -109,6 +122,9 @@ The [AI Registry went live on 9 July 2026](https://journaldudimanche.com/intelli
 The [same keynote recorded a retreat](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/): the schools pilot moved from a student tutor to a teacher assistant after teacher and parent resistance.
 
 The month closed with the state's AI apparatus being measured from outside it. On [27 July the chamber of commerce and two partners launched an adoption, readiness and governance study](https://www.lemauricien.com/le-mauricien/mcci-une-etude-de-marche-sur-ladoption-de-lia-par-les-entreprises/713704/), because there is no clear picture of adoption among Mauritian firms or of what skills exist. The AI City Scheme has no drafted narrative this period.
+
+
+The incumbent operator set out what sits behind that directory. Its chief executive described [a cloud partnership with a hyperscaler, sovereign data centres, a plan to train 50,000 people in artificial-intelligence skills, and a voice model built for Mauritian Creole](https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/), putting the education platform's exam-marking tools at 99% accuracy across the tools introduced. The figures and the claim of a first are the operator's own, given in an interview.
 <!-- /narrative -->
 ### ICT Industry
 

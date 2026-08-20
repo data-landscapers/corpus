@@ -1,16 +1,16 @@
 ---
 title: Mozambique — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: MOZ
-ledger_rows: 62
+ledger_rows: 63
 not_held: 19
-record: d66a27ec35f3
+record: ab0e66b10eb6
 ---
 
 # Mozambique: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -28,6 +28,9 @@ Three systems entered or extended service in the same five weeks: the National P
 The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since. A [second account of the launch](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/) names the two suppliers and sets the portal alongside World Bank project figures on affordability, recorded under inclusion below.
 
 The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023. No buyer, share, valuation, timetable or treatment of the debt is stated.
+
+
+The ministry put numbers on how far the connecting has got and how far it is meant to go: [149 localities and 418 schools connected, against a target of at least 300 localities, up to 4,000 schools and around 10,000 new 4G and 5G access points](https://www.agenceecofin.com/actualites-numerique/1808-140924-inclusion-numerique-le-mozambique-veut-connecter-300-localites-aux-services-telecoms). Both ends are the ministry's own and no completion date is given, which leaves a target without a deadline against a rural access rate the regulator itself puts at a quarter of the urban one.
 <!-- /narrative -->
 ### Data Storage
 
@@ -35,6 +38,9 @@ The incumbent operator's ownership is in play. The government has [formed a tech
 The country's first university-operated data centre was inaugurated on 3 August with about 14 times the storage of the server room it replaces, precision cooling and redundant systems ([inauguration account](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/)). It is World Bank financed with no amount, operation name or project number stated.
 
 A carrier-neutral operator announced on 23 July that a wholesale network will co-locate in its Mozambican and Angolan facilities, with no deployment date, capacity or value stated ([partnership announcement](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/)).
+
+
+It was formally inaugurated eight days later, on 11 August, [sited at the university in recognition of its running of the country-code domain and the internet exchange, and intended to carry artificial-intelligence, cloud and research services](https://uem.mz/uem-inaugura-centro-de-dados/). No capacity, cost or service date accompanies the intention.
 <!-- /narrative -->
 ### Energy
 
@@ -114,6 +120,9 @@ The regulator opened a free public device-identity lookup on 4 August, checked a
 
 <!-- narrative: governance--gov-protect -->
 The same 22 July conference remarks named the personal data protection law as an instrument in preparation, under the same warning that once approved it will place obligations on companies and not only on the state ([ministerial account](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)). Mozambique remained without a data protection law in force, with no tabling or adoption date stated.
+
+
+What the absent law costs showed up in someone else's audit. A rights organisation's reading of seven American health memoranda [puts Mozambique among three that commit to hand over any data requested for an American audit without explicit privacy safeguards, among five whose text requires unilateral sharing of specimens and pathogen-sequencing data, and among two that lack a binding comprehensive data-protection law](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements). The data-sharing agreement itself remains unpublished.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

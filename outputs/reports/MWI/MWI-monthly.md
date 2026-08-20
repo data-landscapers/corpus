@@ -1,16 +1,16 @@
 ---
 title: Malawi — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: MWI
-ledger_rows: 50
+ledger_rows: 54
 not_held: 57
-record: f63be6cb366b
+record: 7d78352c79b6
 ---
 
 # Malawi: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -50,6 +50,9 @@ The minister cited an 8% rise in electricity tariffs and a roughly 144% rise in 
 
 <!-- narrative: dpi--dpi-exchange -->
 On 5 August the revenue authority signed an arrangement with its South African counterpart for real-time customs data exchange, with no go-live date and no published purpose-limitation, retention or reciprocity terms ([signing account](https://itweb.africa/article/malawi-sa-sign-digital-customs-deal/raYAyqorGalMJ38N)).
+
+
+Two days later the South African side notified the update from its end, [publishing the arrangement for automatic exchange of customs information together with a draft rule amendment](https://www.freightnews.co.za/article/international-treaties-agreements-maas-on-customs-update). The rule is still in draft and the go-live date is still unstated.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -62,6 +65,9 @@ Using the system got more expensive. The bureau [raised fees for national identi
 
 <!-- narrative: dpi--dpi-pay -->
 On 25 July the central bank's expected banknote replacement cost for 2026 was reported at MWK 69.8bn against MWK 50.6bn in 2025, with an economists' association president naming government levies on digital money transfers as a reason cash use persists.
+
+
+Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), which gives the platform operational and governance rules it did not have. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Malawi.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -77,6 +83,9 @@ The Electronic Invoicing System [reached 8,552 registered taxpayers by 20 July](
 
 <!-- narrative: dpi--dpi-govtech -->
 Passport printing resumed at Mangochi, stated in Parliament on 20 July, where a member said applicants who filed nine months to a year earlier were being overtaken by same-day issuances. The homeland security minister accepted in principle a sequence number assigned at application.
+
+
+A second paper process is being scoped out of existence. The partnership commission and the e-government department [are specifying a web-based auctions platform carrying electronic bid submission, automated ranking, bidder anonymity and digital publication of results](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD), with requirements gathered at Blantyre under a World Bank-funded project. No cost, go-live date or auction volume is stated.
 <!-- /narrative -->
 ### Rural digital data capture
 
@@ -89,6 +98,11 @@ Applied deployments in the month were single facilities rather than national sys
 Parliament ratified an SDR 58.2m grant for the successor local-government service delivery project on 29 July 2026, covering 32 councils with four entering for the first time, of which US$12.8m funds business-process re-engineering, system assessments and a performance dashboard ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)). The predecessor closed on 30 June.
 
 The results announced on 31 July give the counterpoint. Councils receiving clean audit opinions fell to 18 in 2024/25 from 22 the year before, with one district council receiving an adverse opinion — disclosed at the same event that launched a public real-time dashboard for tracking constituency development spending ([launch account](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/)). No address for that dashboard is established in anything the wiki holds, so it cannot be inspected.
+<!-- /narrative -->
+### National statistics
+
+<!-- narrative: dpi--data-statistics -->
+The statistical office and the communications regulator [put a Fourth National ICT Survey into the field from August to October across all districts, including the refugee camp at Dzaleka](https://malawidatanews.com/2026/08/14/national-ict-survey-on-the-cards/), covering mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness. No publication date for the results is stated, which is the part that decides whether it informs anything.
 <!-- /narrative -->
 
 ## Governance and regulation
