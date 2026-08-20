@@ -1,16 +1,16 @@
 ---
 title: Algeria — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: DZA
-ledger_rows: 26
+ledger_rows: 28
 not_held: 7
-record: aed2ed71e9de
+record: 0489cdb4c7dc
 ---
 
 # Algeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -41,6 +41,11 @@ The National Digital Services Centre was inaugurated by President Tebboune on 5 
 
 ## Digital public infrastructure
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+Interconnection acquired a deadline before it acquired its rules. A think tank's first digital brief records that the [president gave the sectors one month from 12 July to interconnect through the national data centre](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/), and nothing has been reported against that date. The two referentiels the interoperability decree makes the obligations wait on are still untraced, so the instrument that would carry the interconnection remains unenforceable while the timetable for it has already run.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -115,6 +120,11 @@ The state electronics manufacturer was [accredited to install and maintain every
 
 <!-- narrative: ai-tech--tech-innovate -->
 The student start-up conversion scheme reports [673 start-ups, 3,949 patents and 2,339 innovative-project labels between 2022 and July 2026, against a 2030 target of 5,000 labelled products](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/). It lets students convert final-year projects into start-ups or patents and is supported by a prototype-financing scheme and the country's first venture-capital fund. The ministerial order behind it is not held, neither its date nor its text.
+<!-- /narrative -->
+### China activities
+
+<!-- narrative: ai-tech--geopol-china -->
+The country was named a [founding member, from 16 July, of a 29-country artificial-intelligence organisation headquartered in Shanghai](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/). No instrument of accession, obligation, contribution or programme of work is on the record here.
 <!-- /narrative -->
 
 ## Finance

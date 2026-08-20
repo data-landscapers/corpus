@@ -1,16 +1,16 @@
 ---
 title: Ethiopia — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: ETH
-ledger_rows: 45
+ledger_rows: 46
 not_held: 5
-record: c490a0692f42
+record: 96c09c097a28
 ---
 
 # Ethiopia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -82,7 +82,7 @@ The market also drew a new foreign supplier. A South African financial-technolog
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-A [livestock information system went live on 29 July](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/), drawing on five priority databases and repositioning animal identification from an export tool to a national asset register — broadened from feedlots to farm level and linked to disease surveillance and vaccination records. The account is the implementer's own, written after four years with a team embedded in the ministry, and is uncorroborated here.
+A [livestock information system went live on 29 July](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/), drawing on five priority databases and repositioning animal identification from an export tool to a national asset register — broadened from feedlots to farm level and linked to disease surveillance and vaccination records. The account is the implementer's own, written after four years with a team embedded in the ministry, and is uncorroborated here. A system that has been running far longer got its evaluation: a journal study published on 10 August [puts a community HIV case-management application in the hands of 950 health workers, with the time to reach case data down from a month to a day and data completeness near 100%](https://www.ghspjournal.org/content/14/1/e2400353). [Ninety-two per cent of mobile accounts and 94% of web accounts were actively used](https://www.ghspjournal.org/content/14/1/e2400353). The figures are the study's and cover deployment since 2017; no national coverage figure or cost is given.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -129,7 +129,7 @@ A National Digital Transformation Council meeting on 30 July restated that the p
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The Development Bank [adopted an information disclosure policy classifying client credit information permanently non-disclosable](https://www.thereporterethiopia.com/52220/), alongside legal case files, strategy papers, security protocols and third-party contracts, where disclosure could cause substantial harm to the Bank, its stakeholders or the national interest. The Bank may also decline a request that would require it to create a record it does not already hold. No instrument number, gazette reference or appeal mechanism is stated.
+The Development Bank [adopted an information disclosure policy classifying client credit information permanently non-disclosable](https://www.thereporterethiopia.com/52220/), alongside legal case files, strategy papers, security protocols and third-party contracts, where disclosure could cause substantial harm to the Bank, its stakeholders or the national interest. The Bank may also decline a request that would require it to create a record it does not already hold. No instrument number, gazette reference or appeal mechanism is stated. What the state has already agreed to disclose abroad is clearer than what it will disclose at home: a rights organisation's reading of the seven signed United States health memoranda [puts Ethiopia among five whose text requires unilateral sharing of specimens and pathogen-sequencing data, and all seven as requiring broad audit access](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements). The data-sharing arrangement the memorandum provides for is still unnegotiated and no text is published.
 <!-- /narrative -->
 ### China activities
 

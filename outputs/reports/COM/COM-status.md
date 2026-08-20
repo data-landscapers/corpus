@@ -1,15 +1,15 @@
 ---
 title: Comoros — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: COM
 ledger_rows: 111
 not_held: 35
-record: e29a4ac6524d
+record: 64f116bf4d4b
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (111 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (111 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -90,7 +90,7 @@ Infrastructure is thinly evidenced in both directions. The one built asset is th
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Civil-registry modernisation programme | [In development](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/vers-un-%C3%A9tat-civil-num%C3%A9rique-moh%C3%A9li-ouvre-la-voie-%C3%A0-la-modernisation-nationale-.html) | Preliminary-study validation workshop at Moroni |
+| Civil-registry modernisation programme | [In development](http://comoresdroit.centerblog.net/3012-la-modernisation-de-l-etat-civil-un-chantier-strategique) | Resource-mobilisation strategy presented at Moroni 2026-08-14 |
 | National digital agricultural register | [Planned](https://anaden.org/realisations) | Named as an objective of a protocol with the agriculture chambers |
 | Registre social unique | [Implemented](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html) | Sixty-two thousand households registered |
 | Business registry and investment one-stop shop digitisation | ***Not held*** | — |

@@ -1,16 +1,16 @@
 ---
 title: Comoros — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: COM
-ledger_rows: 9
+ledger_rows: 10
 not_held: 35
-record: dbdd597aedd6
+record: d7cb724a3e8b
 ---
 
 # Comoros: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -33,7 +33,7 @@ The connectivity project the agency carries reached the stage before financing. 
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-The Registre social unique (RSU) reported [62,000 households enrolled as of 10 July 2026](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html), a figure the World Bank's Comoros representative, Amada Aida, called the most complete socio-economic database ever built in the country. The registry was created by decree n°20-090/PR of 23 June 2020 and is intended as the reference base for targeting social-protection programmes. No participation rate against a national household count and no completion date is stated in the account.
+The Registre social unique (RSU) reported [62,000 households enrolled as of 10 July 2026](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html), a figure the World Bank's Comoros representative, Amada Aida, called the most complete socio-economic database ever built in the country. The registry was created by decree n°20-090/PR of 23 June 2020 and is intended as the reference base for targeting social-protection programmes. No participation rate against a national household count and no completion date is stated in the account. The civil-registry programme beside it was priced rather than advanced: a consultant recruited by the children's fund [put the residual financing need for the reform at EUR 9,009,900 at a presentation in Moroni on 14 August](http://comoresdroit.centerblog.net/3012-la-modernisation-de-l-etat-civil-un-chantier-strategique), ahead of an international resource-mobilisation mission and a partners' conference. None of it is committed on the record.
 <!-- /narrative -->
 ### National statistics
 
