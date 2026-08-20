@@ -1,16 +1,16 @@
 ---
 title: Nigeria — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: NGA
-ledger_rows: 127
-not_held: 8
-record: 483abc2626ec
+ledger_rows: 136
+not_held: 9
+record: 4d6d0324e956
 ---
 
 # Nigeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -34,6 +34,9 @@ What is built is being cut faster than it is being protected. The regulator [put
 The backbone programme meanwhile looked outward before it broke ground. Nigerian and Burkinabè digital ministries [met in Ouagadougou on 12 August to explore connecting the planned 90,000 km open-access backbone into Burkina Faso](https://www.wearetech.africa/fr/fils/actualites/tech/infrastructures-ia-et-talents-le-burkina-faso-et-le-nigeria-renforcent-leur-cooperation-numerique), with [a stated aim of halving internet costs through it](https://techafricanews.com/2026/08/13/nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50/). Nothing was signed, and physical deployment still stands at 2027 on the project documents.
 
 On the tower estate, shareholders of the tower company [approved the acquirer's cash buyout of the 75.3% it does not already own](https://techcabal.com/2026/08/11/ihs-towers-profit-hit-by-rising-diesel-and-merger-costs/), the target's first-half revenue rising 8.2% to US$844m while rising Nigerian diesel costs and acquisition charges cut operating income 38%. Federal strategic review of the transaction is the last position the base holds on the state's side.
+
+
+Two build programmes put dates on themselves. The government says resource mobilisation and contracting are complete for [about 3,700 towers to be deployed from October for more than 20 million people in unserved and underserved communities, with the first being installed in Delta State and riverine communities targeted before mid-2027](https://guardian.ng/business-services/fg-to-expand-internet-access-for-20m-nigerians-in-new-3700-tower-deployment/); no contract value or supplier is stated. Where fibre does not reach at all, an operator [now runs nearly a dozen light-beam links across Lagos serving banks, hotels, internet providers and a utility, and plans to extend to Abuja, Ibadan and Kano](https://datacentresafrica.com/taara-and-liquid-use-light-beam-technology-to-expand-data-centre-capacity-to-large-enterprises-in-lagos-nigeria/). A state airport also [activated a multi-gigabit backbone on 8 August over a commercial submarine-fibre network, to carry passenger processing, operations and real-time security monitoring](https://africanpilot.africa/akwa-ibom-victor-attah-internet/).
 <!-- /narrative -->
 ### Data Storage
 
@@ -41,6 +44,9 @@ On the tower estate, shareholders of the tower company [approved the acquirer's 
 A Lagos cloud region [entered service on 10 August](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/), the third on its operator's platform alongside Lisbon and Johannesburg and presented around data residency since the Nigeria Data Protection Act took effect — three legal jurisdictions carried on one platform. It joins [about 26 facilities carrying 50 to 56 MW live against some 124 MW installed](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/), Africa's second-largest market after South Africa at about 15% of continental capacity, most of it in Lagos.
 
 The state put its own instrument behind the same argument on 5 August, [signing the regulatory framework for a National Sovereign Cloud Initiative with the state-owned Galaxy Backbone](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl), setting policy, technical and quality requirements for hosting government and business services in the country. It excludes nobody: the stated ask of Google, Microsoft and Amazon is a clearer path to local deployment. The dependence it is aimed at is [more than 85% of national workloads running on public clouds, and 22% of the thousand most-visited sites hosted in Nigeria against a sub-Saharan average of 34%](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl).
+
+
+The sovereign cloud acquired its instruments and a start date. Four were signed on 4 August — [a cloud computing guideline, a cloud technical guideline, a digital infrastructure assurance framework and a cloud investment strategy — with certification of cloud and artificial-intelligence infrastructure providers to begin in October, oversight vested in a new governance committee and a stated ambition to serve West and Central Africa](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/). What certification will require of a provider is not published.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -86,6 +92,9 @@ A state built its own exchange for the most sensitive category of all. Lagos [se
 
 <!-- narrative: dpi--dpi-id -->
 Identity gained infrastructure and kept its gap. The passport became [cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) on 16 July; the identity authority [took the national root certification authority over from NITDA](https://techafricanews.com/2026/07/22/nitda-and-nimc-deepen-partnership-to-accelerate-nigerias-digital-public-infrastructure/) on 21 July; and [V-Pass went live](https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem) for airport security checks and boarding on the number and face biometrics. Registration stands at [136 million against a target of 180 million by 31 December](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/), leaving about 100 million people uncaptured on the information minister's own figure. The root certification authority it took over also created a conflict: the NIMC Act 2026 makes the identity commission the root authority while the [still-pending Digital Economy and E-Governance Bill carries its own electronic-signature provisions](https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/), and which instrument governs digital signatures is unresolved.
+
+
+Two identity systems moved in opposite directions. The federal government [signed a memorandum on 12 August to issue cooperatives a verification number and their members an identity credential, opening a six-month revalidation exercise](https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/), with no cooperative or member count, cost, or link to the foundational register stated. Against that, an observer mission at the state governorship election of 15 August [called for a full post-election technical audit of the biometric voter-accreditation system, for the electoral commission to publish the causes of authentication failures, and for uniform guidance on downloadable voter cards before 2027](https://dailypost.ng/2026/08/16/osun-election-yiaga-africa-calls-for-bvas-audit-improved-security-ahead-2027-polls/). No commission response, failure rate or audit commitment is on record.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -103,6 +112,9 @@ Taxation moved in the other direction. Peer-to-peer and over-the-counter traders
 Two structural changes to the acceptance side arrived in mid-August. A Nigerian payments company [gained direct access to a global card network as a non-bank acquirer](https://businessday.ng/technology/article/teamapt-gains-direct-mastercard-network-access-in-strategic-payments-expansion/), letting it onboard licensed merchants for card acceptance without a bank sponsor; no merchant count, pricing or settlement arrangement is stated, and the base holds no central bank statement on non-bank acquiring. And the channel mix reversed: [ATM transactions rose 6.6% year on year in the first quarter of 2026 with value up 64.6% to NGN26.3tn, while point-of-sale volumes fell 19.9% to 2.92bn](https://techcabal.com/2026/08/17/nigerians-moved-19-4-billion-through-atms/), the agent-banking limits of October 2025 — single-provider terminals, a 70-metre radius rule and a NGN1.2m daily cap — constraining the agent channel as the central bank pushes bank ATM expansion. That is a policy effect rather than a preference shift, and no measure exists of what it did to access in places with no bank branch.
 
 The virtual-asset track kept admitting. Three further firms were [named as admitted to the securities regulator's incubation programme in the week to 17 August](http://www.wearetech.africa/fr/fils/breves/breves-simple/le-nigeria-integre-trois-nouvelles-entreprises-crypto-dans-son-incubateur-virtuel), and a separate account describes the state [coordinating the central bank, the securities regulator, the tax authority and the financial-intelligence agency into a regulatory consortium for virtual assets rather than restricting the sector](https://techcabal.com/2026/08/17/nigerias-plan-for-crypto-and-virtual-assets/), pairing the incubation programme and revised digital-asset capital requirements of NGN2bn for exchanges and custodians with an August virtual-asset tax framework. The counts across accounts overlap and are not reconciled.
+
+
+The rail underneath all of it began to change. The clearing operator [reports 26.55 million transactions worth 1.4 trillion naira across 48 institutions in the early phase of the ISO 20022-compliant stack that replaces the instant-payments system](https://theeagleonline.com.ng/nibss-rolls-out-nps-as-nip-successor/), on a multi-currency platform carrying payments, identity and data together. The figures are the operator's own.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -176,6 +188,9 @@ An inclusive-data initiative brought the national statistics office into a five-
 On 29 July a claimant won the [first damages award](https://saharareporters.com/2026/08/01/court-slams-stanbicibtc-over-data-privacy-breach-awards-ex-customers-n15million-orders) under the Act — ₦15m, ₦500,000 costs and 10% post-judgment interest — against a bank that kept marketing after consent was withdrawn. Liability rested on three instruments at once. The court also held that personal data must be erased on termination but refused wholesale deletion where statutory banking and anti-money-laundering retention applies.
 
 What the amended identity Act actually says reached the record on 11 August, in a law firm's reading rather than a gazetted text. On that reading the [identity commission becomes the root certification authority for a national public key infrastructure and the national biometric-data repository; use of the national identification number is mandatory across passports, banking, telecommunications and land dealings, while the Act states that proof of identity is not proof of eligibility or of citizenship; and unauthorised database access carries at least NGN10m or five years for an individual and NGN20m for a body corporate](https://www.mondaq.com/nigeria/constitutional-administrative-law/1829270/the-national-identity-management-commission-establishment-act-2026-key-new-provisions). The base does not hold the Act itself, and the commission's own platform capacity for compulsory use across fourteen sectors is separately recorded as not sized for it.
+
+
+The bench put its own view on the record. Fifty-four judicial officers [adopted a communique calling for stricter authentication standards for AI-generated evidence and a review of the digital-evidence, cybercrime and privacy statutes](https://www.vanguardngr.com/2026/08/digicivic-trains-judicial-officers-on-digital-rights/), naming genuine evidence dismissed as AI-fabricated as an emerging problem, questioning whether clicking agreement is meaningful consent, and asking for electronic case management, virtual hearings and privacy-protected judicial platforms. A communique carries no legal force and no legislative response has followed.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -190,6 +205,9 @@ The month's substantive instrument is the cloud policy. On 17 August the communi
 
 <!-- narrative: governance--gov-regional -->
 Ministers adopted an Abuja declaration on meaningful connectivity.
+
+
+The continental data convention still has no Nigerian signature behind it: a peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory, and finds all four frameworks fragmented with weak harmonisation of cross-border transfers](https://datascience.codata.org/articles/10.5334/dsj-2026-031). That is a finding about the record, carried as a dated absence.
 <!-- /narrative -->
 ### Data protection
 
@@ -197,6 +215,9 @@ Ministers adopted an Abuja declaration on meaningful connectivity.
 On 28–29 July the Federal High Court [upheld the data-protection commission's power](https://leadership.ng/court-strengthens-ndpc-oversight-of-pos-agents-banks-telcos-data-controllers/) to designate and register controllers and processors of major importance, dismissing a suit that had sought to place PoS agents outside the class; the commission immediately directed every unregistered entity to register. The judgment is not held and its delivery date is unestablished. The commission then used the power: on 13 August it [opened a forensic investigation into a federal university, a bank and a technology vendor over the alleged use of students' personal data to open bank accounts without consent](https://dailytrust.com/ndpc-investigates-varsity-bank-over-data-violations/). No finding or penalty has followed.
 
 Its other August move was institutional rather than adversarial: the commission and the securities regulator [agreed to deepen collaboration on data-protection compliance in the capital market](https://techeconomy.ng/ndpc-sec-strengthen-collaboration-on-data-protection-and-investor-privacy), the commission's head visiting the regulator in Abuja and being invited to its compliance summit. No memorandum, joint supervisory arrangement, compliance standard or enforcement commitment is stated.
+
+
+A civil-society platform began watching the same election from the data side, [tracking parties' websites and social media for privacy violations and access restrictions, piloted at the 15 August state governorship poll](https://www.nationalrecord.com.ng/citad-launches-pawsom-monitor-to-track-digital-rights-breaches-ahead-of-2027-elections/). No findings from the pilot are published.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
@@ -219,6 +240,9 @@ The month's one national artificial-intelligence programme is a vendor's. A plat
 
 <!-- narrative: ai-tech--tech-industry -->
 Two of five commercial developments this month, neither regulatory: an enterprise arm distributing a spreadsheet-analysis agent through universities and co-working spaces, and a venture-financed skilling company.
+
+
+The state's own return from the sector was put at [about US$41m from an operator dividend payout of US$406m](https://techcabal.com/2026/08/19/nigeria-to-earn-41-million-from-mtns-406-million-dividend-payout/), on a publication's calculation from the declared payout and the state's holding. No government confirmation of receipt is held.
 <!-- /narrative -->
 ### Innovation ecosystem
 

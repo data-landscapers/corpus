@@ -8,8 +8,6 @@ kanban-plugin: board
 
 - [ ] **Status build**
 	Return to running country inits at the end of the week if tokens still available
-- [ ] **OSINT Finance controlled vocabs**
-	Status, Beneficiary type and Instrument all need controlled vocabularies and a back swing.
 - [ ] **OSINT finance descriptions**
 	Backswing to remove wikilinks - and rule to stop this happening.
 
@@ -42,6 +40,8 @@ kanban-plugin: board
 	Run Index fix.
 	Run FFS
 	Resume Sweep
+- [ ] **OSINT Finance controlled vocabs**
+	Status, Beneficiary type and Instrument all need controlled vocabularies and a back swing.
 - [ ] Cloudflare and download log
 - [ ] Topics into Build
 - [ ] Markdown > HTML
