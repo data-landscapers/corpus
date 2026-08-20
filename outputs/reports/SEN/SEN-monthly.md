@@ -1,16 +1,16 @@
 ---
 title: Senegal — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: SEN
-ledger_rows: 58
+ledger_rows: 62
 not_held: 14
-record: e4b271ea51e9
+record: 608f51962c51
 ---
 
 # Senegal: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -95,7 +95,7 @@ The statistics agency [hosted the first peer exchange of an inclusive-data initi
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The critical-infrastructure framework that was undated at the end of July reached parliament a fortnight later. A bill on protecting critical information infrastructure and digital security [was presented to the National Assembly's intercommission on 13 August and examined by its committees](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), proposing [a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), alongside [local hosting of public data, service continuity and personal-data protection](https://www.pressafrik.com/Securite-numerique-Bacary-Sarr-participe-a-l-examen-du-projet-de-loi-sur-les-infrastructures-critiques_a309846.html) under the state's technology-deal agenda. Four days later the ministry published its own account of the contents: obligations [graded by risk, with ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — and a National Cybersecurity Authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited service providers, domestic firms and skilled jobs. Every provision is the ministry's description; the text is not held, no adoption date or gazette reference is published, and nothing the bill proposes exists yet.
+The critical-infrastructure framework that was undated at the end of July reached parliament a fortnight later. A bill on protecting critical information infrastructure and digital security [was presented to the National Assembly's intercommission on 13 August and examined by its committees](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), proposing [a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), alongside [local hosting of public data, service continuity and personal-data protection](https://www.pressafrik.com/Securite-numerique-Bacary-Sarr-participe-a-l-examen-du-projet-de-loi-sur-les-infrastructures-critiques_a309846.html) under the state's technology-deal agenda. Four days later the ministry published its own account of the contents: obligations [graded by risk, with ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — and a National Cybersecurity Authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited service providers, domestic firms and skilled jobs. It cleared on 20 August: the National Assembly [adopted law n° 25/2026 unanimously, mandating in-country storage of state-sensitive data, empowering the National Cybersecurity Authority and folding in technology-neutral standards for the AI era and the child-online-protection plan](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html), seven days after it reached the intercommission. In the same debate the Assembly's first vice-president [argued cybersecurity has to become a standing administrative culture, calling for mandatory staff training, professional-only communication channels and minimum device-security standards](https://lesoleil.sn/actualites/technologie/el-malick-ndiaye-nous-devons-faire-de-la-cybersecurite-une-veritable-culture-administrative/) - a description of where the state's own practice stands rather than of what the law requires. Every provision is still the ministry's description; the text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
 <!-- /narrative -->
 ### Strategies, plans and policies
 
@@ -154,6 +154,11 @@ The sovereign cloud is [in testing, with data-centre infrastructure deployed and
 
 ## Inclusion and capacity
 
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The month's one inclusion measure came from the despatch box rather than a survey. Debating the critical-infrastructure bill, the telecommunications minister [told parliament that 40% of Senegalese still have no access to connectivity](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html), citing a 2024 sector diagnosis of coverage gaps and unmet operator obligations. The diagnosis itself is not held, no definition of access accompanies the figure, and it is two years old at the point of its citation.
+<!-- /narrative -->
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
@@ -163,6 +168,11 @@ An [advanced-level digital course for blind and partially sighted people opened 
 
 <!-- narrative: inclusion--capacity-literacy -->
 A digital financial-education project [closed on 15 July](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/) having trained 265 civil-society trainers across twelve organisations. Its comparison platform is left unmaintained, because no implementer can compel tariff data from financial institutions.
+<!-- /narrative -->
+### Training and skills
+
+<!-- narrative: inclusion--capacity-training -->
+Two facts about the state's own capacity arrived in the same week and point opposite ways. The national statistics agency [graduated 60 statisticians - 33 statistician-economists and 27 statistician-analysts, drawn from ten African countries - taking its school's cumulative output past 900 since 2011](https://lesoleil.sn/actualites/education/statistiques-lansd-plaide-pour-le-recrutement-des-diplomes-de-lensae-dans-les-ministeres/), and used the ceremony to press ministries to recruit them into sectoral statistical services: an absorption problem stated rather than measured, since no figure is published for how many of the 900 work in Senegalese public statistics. Against it, the National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). The programme has run for nine years and publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
 <!-- /narrative -->
 ### Research institutions
 

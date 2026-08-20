@@ -1,16 +1,16 @@
 ---
 title: Ghana — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: GHA
-ledger_rows: 96
+ledger_rows: 99
 not_held: 9
-record: a6a504d65c26
+record: f92bfb6f2817
 ---
 
 # Ghana: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -47,7 +47,7 @@ The cable inventory did not move; what moved is the base's reading of it. The re
 <!-- narrative: infrastructure--infra-cybersec -->
 A community-media cyber capability project launched on 3 August, certifying community-radio journalists into a standing press corps.
 
-The Cybersecurity Act's licensing regime produced its first published penalties. The Cyber Security Authority [fined the Office of the Registrar of Companies and Purpleline Solutions a combined GH¢360,000 for breaching the Act's licensing requirements](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html) on 13 August — [GH¢240,000 against the Registrar in two penalties of GH¢120,000 for engaging an unlicensed cybersecurity service provider, and GH¢120,000 against the provider for operating without a licence](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html). One of the two penalised bodies is itself a state registry. Five days later the Authority [fined a Big Four firm's Ghana practice GH¢360,000 — three penalties of GH¢120,000 — for continuing to provide regulated cybersecurity services, including to owners of critical information infrastructure, after three directives to obtain a licence](https://techafricanews.com/2026/08/18/ghana-cyber-security-authority-fines-ey-ghana-gh360000-for-unlicensed-services/), ordering it to cease and desist, governance, risk and compliance work included. The base holds no published penalty under the Act before 13 August, so both actions fall inside six days, and the Authority states it will name unlicensed providers publicly as an enforcement measure.
+The Cybersecurity Act's licensing regime produced its first published penalties. The Cyber Security Authority [fined the Office of the Registrar of Companies and Purpleline Solutions a combined GH¢360,000 for breaching the Act's licensing requirements](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html) on 13 August — [GH¢240,000 against the Registrar in two penalties of GH¢120,000 for engaging an unlicensed cybersecurity service provider, and GH¢120,000 against the provider for operating without a licence](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html). One of the two penalised bodies is itself a state registry. Five days later the Authority [fined a Big Four firm's Ghana practice GH¢360,000 — three penalties of GH¢120,000 — for continuing to provide regulated cybersecurity services, including to owners of critical information infrastructure, after three directives to obtain a licence](https://techafricanews.com/2026/08/18/ghana-cyber-security-authority-fines-ey-ghana-gh360000-for-unlicensed-services/), ordering it to cease and desist, governance, risk and compliance work included. The base holds no published penalty under the Act before 13 August, so both actions fall inside six days, and the Authority states it will name unlicensed providers publicly as an enforcement measure. Neither of the two largest penalties survived the week as announced. The firm's fine was declared [satisfactorily resolved in a joint statement issued the same day](https://www.myjoyonline.com/cyber-security-authority-ey-resolve-satisfactorily-matters-relating-to-licence-fees/), which does not state whether it was paid, reduced or withdrawn; and the Registrar [rejected its own sanction as premature and procedurally unfair, dating a finance-ministry commitment authorisation to 28 November 2025 and its tender to 4 December, before the directive it is said to have breached](https://www.myjoyonline.com/orc-challenges-csa-cybersecurity-sanction-says-penalty-was-premature-and-procedurally-unfair/). A regime whose first week of enforcement produces one settlement without terms and one contested timeline has published a gross figure, not a collected one.
 
 The regulator also [held a two-day consultative and validation workshop with UNICEF Ghana on online child sexual exploitation and abuse](https://techafricanews.com/2026/08/13/ghana-strengthens-online-child-protection-with-csa-unicef-initiative/), reviewing the national response and naming coordination and frontline-capacity gaps; no instrument or programme follows from it on the record.
 
@@ -85,6 +85,11 @@ Card acceptance widened from outside the domestic rails. A commercial bank and a
 
 <!-- narrative: dpi--dpi-registry -->
 Business registration is [in pilot for end-to-end filing from name search to certification with no physical submission](https://amchamghana.org/2026/07/23/amcham-ghana-engages-registrar-general-on-digital-transformation-and-business-registration-reforms/), integrating with national identification for verification, with a companion beneficial-ownership verification service piloting with banks on a subscription basis. Launch is given only as the coming months.
+<!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: dpi--dpi-mis -->
+One sectoral system was assessed rather than built. A Danish-funded gap assessment of the meteorological agency [reported gaps across its ICT infrastructure, digital systems, data governance and cybersecurity framework](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/), presented to the communications ministry in Accra under a bilateral weather and climate cooperation. Neither the assessment text nor any cost, timetable or funding line for the roadmap it recommends is published, so what the month holds is a diagnosis and no commitment to act on it.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -140,7 +145,7 @@ The central bank's [cyber and information security directive is in force](https:
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the base holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. No payment, appeal or remediation record follows it.
+The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the base holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. The registrar has since contested it, [saying the procurement of its network and security operations centre was substantially complete before the tier-one directive was issued](https://www.myjoyonline.com/orc-challenges-csa-cybersecurity-sanction-says-penalty-was-premature-and-procedurally-unfair/); no adjudication of that timeline is held.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
