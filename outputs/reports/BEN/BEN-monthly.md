@@ -1,16 +1,16 @@
 ---
 title: Benin — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: BEN
-ledger_rows: 24
-not_held: 4
-record: 9187e61973f8
+ledger_rows: 26
+not_held: 5
+record: 5ea8b214eb07
 ---
 
 # Benin: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -62,7 +62,7 @@ Two instruments moved in opposite directions on the same problem. A [joint circu
 ### Regional collaboration
 
 <!-- narrative: dpi--gov-regional -->
-The customs administrations of Nigeria, Cameroon and Benin [adopted a joint communiqué on 27 July establishing a trilateral steering committee](https://theinsight.com.ng/nigeria-customs-benin-cameroon-deepen-regional-border-modernisation-at-beitbridge-benchmarking-mission/) to apply a southern African border-modernisation model to the Sèmè-Kraké and Mfum-Ekok corridors, after a benchmarking mission whose technical team included two named private suppliers alongside the three administrations.
+The customs administrations of Nigeria, Cameroon and Benin [adopted a joint communiqué on 27 July establishing a trilateral steering committee](https://theinsight.com.ng/nigeria-customs-benin-cameroon-deepen-regional-border-modernisation-at-beitbridge-benchmarking-mission/) to apply a southern African border-modernisation model to the Sèmè-Kraké and Mfum-Ekok corridors, after a benchmarking mission whose technical team included two named private suppliers alongside the three administrations. Separately, the cross-border digital identity work Benin does through Smart Africa moved from development into a running pilot: [an identity issued in one of Rwanda, Ghana or Benin is now being recognised in the other two](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty), with eighteen further countries said to be joining and no date given for any of them.
 <!-- /narrative -->
 ### Standards
 
@@ -94,6 +94,11 @@ A [US$2.3m malaria programme combining artificial intelligence, drones and geosp
 
 <!-- narrative: ai-tech--gov-regional -->
 Benin [co-leads a six-country francophone West African framework on artificial-intelligence governance](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework), taken to the United Nations global dialogue on 9 July. The framework is in development and no text, timetable or commitment is held.
+<!-- /narrative -->
+### AI
+
+<!-- narrative: ai-tech--tech-ai -->
+A [four-country comparative study presented on 10 August found no AI-specific legislation in force or in draft in Benin](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), which leaves the 2023-2027 national strategy carrying the field on its own. The same study rates Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance, and finds Burkina Faso's data-protection law the only one of the four to name AI-based processing explicitly.
 <!-- /narrative -->
 ### ICT Industry
 

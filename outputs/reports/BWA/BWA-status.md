@@ -1,15 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: BWA
-ledger_rows: 92
+ledger_rows: 95
 not_held: 11
-record: a09012220713
+record: ed573a421a33
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (92 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (95 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -103,6 +103,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 | National payment switch | [Planned](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) | Named inside a P486m ICT allocation sought under the twelfth development plan |
 | Remittance wallet payment card | [Implemented](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/) | Launched 2026-08-18 |
 | Taxi cashless payment and financing partnership | [Implemented](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators) | Unveiled in Gaborone 2026-08-09 |
+| UnionPay e-commerce acceptance | [Implemented](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Extended to nine African markets 2026-08-19 |
 
 ### Registries (population, land, address, etc.)
 
@@ -126,6 +127,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 |---|---|---|
 | 1Gov-1Citizen platform | [Implemented](https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/) | FY2026/27 ministry plan records e-services increased from 33 to 52 |
 | E-Payslip portal | [Discontinued, suspended pending compliance](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) | Directorate statement of 2026-07-22 following the regulator's enforcement notice |
+| Mandatory electronic invoicing | [Planned, provided for by the Value Added Tax Act 2025](https://bw.andersen.com/botswanas-new-tax-rules-take-effect/) | Provided for by the Value Added Tax Act 2025, in force 2026-07-01 |
 | National e-Procurement System | [In development](https://dailynews.gov.bw/news-detail/90620) | Restated at a procurement conference as due at the beginning of 2027 |
 
 ### Digitalisation of sub-national government
@@ -139,6 +141,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Africa Broadband Maps training | [In development](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa) | Subregional geographic-information and data-management training commenced in Botswana |
+| Second Statistics Development Strategy (2026-2030) | [Implemented](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy) | Launched 2026-08-12 |
 | Statistician General | [Implemented](https://www.sundaystandard.info/a-letter-to-dr-khaufelo-lekobane-statistician-general/) | A substantive appointment made October 2025, succeeding an acting holder |
 
 ### Use of satellite data

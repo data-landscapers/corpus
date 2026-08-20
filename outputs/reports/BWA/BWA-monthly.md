@@ -1,16 +1,16 @@
 ---
 title: Botswana — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: BWA
-ledger_rows: 26
+ledger_rows: 29
 not_held: 11
-record: 97ec8eb7fc74
+record: 328d9d9527da
 ---
 
 # Botswana: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -58,7 +58,7 @@ On 28 July a parliamentary answer put identity-card replacement delays down to [
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The month's two payments developments are both commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. Nine days later a remittance operator [issued a card on its wallet through a commercial bank and an international scheme](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/), adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only; here too there is no customer count, issuance volume or fee schedule on the record. The national payment switch and the citizen wallet both remain at Planned.
+The month's three payments developments are all commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. Nine days later a remittance operator [issued a card on its wallet through a commercial bank and an international scheme](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/), adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only; here too there is no customer count, issuance volume or fee schedule on the record. A commercial bank and an international card scheme then [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Botswana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Botswana. The national payment switch and the citizen wallet both remain at Planned.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 
@@ -73,7 +73,12 @@ In the week of 13 July an [animal disease surveillance dashboard was launched, i
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The government payroll portal was [taken offline on 22 July, with a privacy notice, an impact assessment, multi-factor authentication and disaster recovery added](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) and no reopening date stated.
+The government payroll portal was [taken offline on 22 July, with a privacy notice, an impact assessment, multi-factor authentication and disaster recovery added](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) and no reopening date stated. Separately, a tax adviser's reading of the new Value Added Tax Act, in force since 1 July, [puts mandatory electronic invoicing among the obligations the Act provides for](https://bw.andersen.com/botswanas-new-tax-rules-take-effect/), which would give the revenue service transaction-level visibility as sales occur. No start date, threshold or scope has been published, and the reading is the adviser's rather than the revenue service's.
+<!-- /narrative -->
+### National statistics
+
+<!-- narrative: dpi--data-statistics -->
+The statistics office and the national university [launched a second Statistics Development Strategy for 2026 to 2030 on 12 August](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy), framed as a roadmap to an agile and responsive statistical system and aligned to the twelfth national development plan. No budget, delivery milestone or indicator set is published with it.
 <!-- /narrative -->
 
 ## Governance and regulation
