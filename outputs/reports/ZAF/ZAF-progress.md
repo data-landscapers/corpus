@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-20
 place: ZAF
 ledger_rows: 135
 not_held: 23
-record: 978dae71beb0
+record: 689deb85eced
 ---
 
 # South Africa: progress report, 2025-08-01 to 2026-08-20
@@ -14,7 +14,7 @@ record: 978dae71beb0
 
 *Of 135 systems and instruments on this place's ledger, 62 changed position between 2025-08-01 and 2026-08-20, 8 did not, 41 carry no stated baseline, and 23 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 556 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 496 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 558 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 498 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -302,7 +302,7 @@ Funding reversed within the period. South Africa raised [$335.9m across 42 ventu
 |---|---|---|---|
 | National Digital and Future Skills Strategy 2020 | 2020 strategy in force | [Under review; no replacement](https://pmg.org.za/committee-question/39587/) | Stalled |
 | Vendor digital-skills programme in Northern Cape schools | Did not exist | [A networking vendor's academy and a private group agreed with the provincial education department to take networking, cyber security and artificial-intelligence courses into 235 schools, as extracurricular classes for grades 10 to 12 beginning February 2027, inside a global skills-to-jobs programme the vendor states has trained more than 600,000 South Africans](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N) | Advanced |
-| Digital-skills pipeline from school to employment | Baseline not held | [Constrained at both ends: young people entering without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment; the mismatch is found to be structural and not self-correcting (2026-08)](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills) | ***Baseline not held*** |
+| Digital-skills pipeline from school to employment | Baseline not held | [Constrained at both ends and structurally so: employers report about 7 per cent of ICT and engineering posts unfilled, with software developers (380), network engineers (285) and ICT security specialists (130) the hardest-to-fill roles, while 44.8 per cent of online vacancy postings ask for transversal digital skills, 30.9 per cent for basic ICT skills and 26.4 per cent for advanced ones; employers attribute the gap 26 per cent to shortfalls in basic-level training, 24 per cent to graduate pipeline throughput and 21 per cent to the pace of technological change (2026-06)](https://documents1.worldbank.org/curated/en/099653207022613768/pdf/IDU-eb3a6d23-36a4-413f-bc1e-458a577684b7.pdf) | ***Baseline not held*** |
 | National Competency Framework | ***Baseline not held*** | In development (2026-07-23) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
