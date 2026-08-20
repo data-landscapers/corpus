@@ -1,16 +1,16 @@
 ---
 title: DR Congo — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: COD
-ledger_rows: 41
+ledger_rows: 44
 not_held: 13
-record: a68e494b1c74
+record: 6925516dbcca
 ---
 
 # DR Congo: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -75,6 +75,11 @@ The registry ground also drew a vendor. A Kenyan platform operator [pitched the 
 <!-- narrative: dpi--dpi-mis -->
 A seminar opened on 15 July on a [public-enterprise digitalisation plan for 2026-2028](https://rdc-monde.com/rdc-finis-les-circuits-lents-ligf-passe-en-mode-numerique-pour-traquer-la-fraude-et-booster-les-entreprises-publiques/) covering transaction traceability, automated validation circuits and data reconciliation, with no system, budget line or deployment date named.
 <!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+The month's only movement in government platforms was a procurement, and not the state's own: Belgium's development agency [opened a tender on 1 August for artificial-intelligence modules to be built into the national employment agency's platform](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf), for job matching aimed at youth unemployment, with offers due on 7 September. No contract value, award or delivery date is on record, and the digital government platform it would sit beside remains at Planned with its target already missed.
+<!-- /narrative -->
 ### Digitalisation of sub-national government
 
 <!-- narrative: dpi--digital-localgov -->
@@ -103,6 +108,11 @@ The digital code is being applied to speech. On 15 August the justice minister [
 Experts validated the [sectoral digital economy policy 2026-2030 on 21 and 22 July, subject to completing the costing, indicators and institutional responsibilities](https://www.mediacongo.net/article-actualite-165910_economie_numerique_les_experts_valident_le_projet_de_politique_sectorielle_2026_2030.html). A restitution workshop on 29 and 30 July presented a ten-dimension maturity diagnostic and named the [instruments to be articulated: the digital and data strategies, the AI strategy, the identity platform, the sovereign cloud, a certification authority and a cybersecurity agency](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/), plus a rule barring AI platform deployment without data quality, auditability and human supervision.
 
 The connectivity side of that framework acquired numbers in August. The universal service fund [published a National Connectivity Strategy 2026-2035 built on a shared-infrastructure model led by a tower company, and signed subsidy agreements with the four mobile operators to extend service to 40 underserved localities covering about 258,000 people](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html), against a target of 3,000 localities and 16 million people by 2030. The strategy text is not held, and neither the subsidy amounts, the tower company nor the selection rule for the first 40 localities is stated.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+The [African Telecommunications Union's return to Kinshasa was ratified on 23 July at the union's plenipotentiary conference in Abuja, after the country paid more than US$1.4m in arrears](https://thepanafricanpress.info/one-year-of-suminwa-ii-jose-mpandas-telecom-milestones-in-the-drc/). No date for the move is stated, the arrears figure and the account are the minister's own, and a bid for a seat on the ITU's administrative council for 2027 to 2030 is still pending.
 <!-- /narrative -->
 ### Standards
 
@@ -153,7 +163,7 @@ This is the month's clearest movement with both ends dated. The universal servic
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-On 23 July a state bank and the payroll monitoring committee settled the technical and organisational terms for [paying civil servants in rural territories, scoped to three named territories and others where no other bank operates](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu). August 2026 was named as a target, with the bank's director-general calling a fixed date premature and the state contract unsigned.
+On 23 July a state bank and the payroll monitoring committee settled the technical and organisational terms for [paying civil servants in rural territories, scoped to three named territories and others where no other bank operates](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu). August 2026 was named as a target, with the bank's director-general calling a fixed date premature and the state contract unsigned. What subscribers pay moved the other way. Users and resellers in Bukavu say a [1GB bundle that ran 48 hours at 1,500 Congolese francs now expires in 24 at the same price](https://laprunellerdc.cd/bukavu-des-usagers-denoncent-la-modification-des-tarifs-des-forfaits-internet/), and a 2GB 48-hour bundle at 2,000 francs has been replaced by 1GB over 72 hours; subscribers across the eastern provinces [report the same pattern across four operators and have asked a consumer body to intervene](https://radiomaendeleo.org/forfaits-internet-les-abonnes-denoncent-une-hausse-des-prix-et-une-reduction-de-la-validite/). Both ends are subscribers' accounts; no operator or regulator has stated anything.
 <!-- /narrative -->
 ### Literacy
 

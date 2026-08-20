@@ -1,16 +1,16 @@
 ---
 title: Congo — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-20
+period: 2026-07-01 to 2026-08-20
 place: COG
-ledger_rows: 35
+ledger_rows: 37
 not_held: 12
-record: aeff0fd0d203
+record: fdbf00169056
 ---
 
 # Congo: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -64,12 +64,12 @@ On 3 August the [public-revenue platform went live on the national payments swit
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-The minister recorded on 10 July that the [regulator has run the postal addressing project for two years and the ministry has not taken it up for deployment](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823), his own framing being that without the handover the work has not had the expected impact.
+The minister recorded on 10 July that the [regulator has run the postal addressing project for two years and the ministry has not taken it up for deployment](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823), his own framing being that without the handover the work has not had the expected impact. The registry that does have a system waiting for it went before the Senate. On 7 August the interior minister [said ministry and municipal staff are themselves among those running networks selling forged civil-status documents, and announced investigations to dismantle them](https://datsoue.news/2026/08/08/congo-etat-civil-jean-olessongo-ondaye-annonce-la-traque-des-reseaux-de-falsification/), naming the integrated civil-status system as the structural fix; the ministers [set out the platform as the way to centralise birth, marriage and death records](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). Its three modules were validated in February and its deployment is still unfunded, so what changed this month is the case made for it rather than its build state.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-Health acquired equipment rather than a system. On 7 August the Global Fund and UNDP [handed over e-health equipment, a P2-level biosafety laboratory and a secure biomedical-waste management system at the Edith Lucie Bongo Ondimba hospital at Oyo](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/), for early disease detection, patient data management and health-service coordination. It is a single site; no value, system name, national rollout or interoperability with any other health system is stated, and it sits beside a civil-service payroll platform whose own operator has minuted three failure modes.
+Health acquired equipment rather than a system. On 7 August the Global Fund and UNDP [handed over e-health equipment, a P2-level biosafety laboratory and a secure biomedical-waste management system at the Edith Lucie Bongo Ondimba hospital at Oyo](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/), for early disease detection, patient data management and health-service coordination. It is a single site; no value, system name, national rollout or interoperability with any other health system is stated, and it sits beside a civil-service payroll platform whose own operator has minuted three failure modes. That platform gained a fourth problem in public: the public service minister [told the Senate on 7 August of fraudulent duplicate payroll numbers and of deceased or retired staff still drawing salaries](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). No count, value or remedy is stated, and the disclosure is the minister's own.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

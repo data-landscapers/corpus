@@ -1,15 +1,15 @@
 ---
 title: Congo — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-20
 place: COG
 ledger_rows: 84
 not_held: 8
-record: bce27dd8521c
+record: 752e38f18bef
 ---
 
 # Congo: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/COG/ledger.csv` (84 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/COG/ledger.csv` (84 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -108,14 +108,14 @@ Hosting is asserted rather than evidenced. The national data centre was [reporte
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Integrated civil-status system | [In development, software validated and deployment unfunded](http://www.finances.gouv.cg/fr/articles/cloture-travaux-SIFEC_200226) | A three-day final validation workshop closed with seventeen recommendations validated |
+| Integrated civil-status system | [In development, software validated and deployment unfunded](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/) | Presented to the Senate 2026-08-07 as the structural fix for civil-status fraud |
 | National postal addressing | [In development, adopted by decree and not deployed](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823) | The minister recorded that the regulator has run the addressing project for two years and the ministry has not taken it up for deployment at the postal operator |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Civil-service payroll platform | [Implemented, three failure modes minuted by its operator](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326) | A finance-ministry working session logged data security, recurrent unavailability and a malfunctioning payslip code |
+| Civil-service payroll platform | [Implemented, three failure modes minuted by its operator and payroll fraud disclosed to the Senate](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/) | Duplicate payroll numbers and deceased or retired staff still drawing salaries disclosed 2026-08-07 |
 | Forest-revenue information system taxation module | [Implemented](https://www.finances.gouv.cg/fr/articles/le-congo-lance-le-module-fiscalit%C3%A9-du-sivl-pour-renforcer-la-tra%C3%A7abilit%C3%A9-et-la-transparence) | The module launched, the first of the system's three functions to deploy |
 | Oyo hospital e-health and laboratory equipment | [Implemented](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/) | Handed over at Oyo 2026-08-07 |
 | Public-transport insurance data platform | [Implemented, adoption voluntary](https://www.finances.gouv.cg/fr/articles/lancement-de-la-plateforme-num%C3%A9rique-sigas-tpv) | The platform launched in Brazzaville under the financial-institutions directorate |
