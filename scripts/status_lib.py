@@ -84,8 +84,25 @@ def _variants(url):
     A literal parenthesis closes `[text](...)` early, so a held URL containing one is written
     percent-encoded and would otherwise read as a link the base does not hold. `report-render.py`
     -> `link_target()` makes the same allowance for the same reason; this is that rule applied to
-    the two sets that script does not know about."""
-    return {url, url.replace("(", "%28").replace(")", "%29")}
+    the two sets that script does not know about.
+
+    **A trailing slash is not a different document** *(2026-08-21)*. `https://host/path/` and
+    `https://host/path` are the same page to every publisher in this base, and treating them as
+    two cost real work in both directions: **56 of the 2,037 lines in `africa-acquire.csv` asked
+    OSINT to acquire a source it already held**, differing from the held record's URL by that one
+    character — 2.7% of a queue Bill works down by hand, asking for nothing. It also fired the
+    other way, as a false *not held*: CIV's and MAR's status baselines each carried an acquire
+    line for a record in `raw/` all along, and both surfaced only because the record behind them
+    was retired as a duplicate on 2026-08-21 and the citation had to be repointed.
+
+    Both directions are generated rather than normalising to one, because these sets are matched
+    against strings from three sources that do not agree with each other — the catalogue's `url:`
+    field, the AfDB dataset's cells, and whatever an author typed inside a markdown link."""
+    out = set()
+    for u in (url, url.replace("(", "%28").replace(")", "%29")):
+        out.add(u)
+        out.add(u[:-1] if u.endswith("/") else u + "/")
+    return out
 
 
 def dpi_urls():

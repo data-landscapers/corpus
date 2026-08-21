@@ -26,6 +26,9 @@ country and the URL. That is the same rule `status-progress.py` follows for its 
 for the same reason: a file that loses your working state on regeneration is a report, not a
 worksheet.
 
+**And `found` is preserved with them** *(2026-08-21)* — see `STICKY` below. It dates the gap, not
+the run that last wrote the row, so only a row new to this run takes `--compiled`.
+
 The publication date, publisher and title of a cited URL are not in the assembled document, so they
 come from `prep/scope/{ISO3}/pool.json`, which is what stage 1 established about that source.
 """
@@ -44,6 +47,15 @@ COLUMNS = ["iso3", "published", "publisher", "title", "url", "sub_section", "fou
            "status", "notes"]
 MINE = ("status", "notes")          # Bill's columns. This script never writes over them.
 
+# **`found` is sticky: it dates the gap, not the regeneration** *(2026-08-21)*. It used to take
+# `--compiled` on every write, so re-running a country to correct one line restamped every line
+# it already had — which is how CIV's and MAR's 125 rows moved from 2026-08-17 to 2026-08-21 in
+# one afternoon, all of them found four days earlier. Same fault as a `compiled:` date that moves
+# on an unchanged document (`documentation/report-layer.md` §2): a date that can move without the
+# thing it dates having changed is worse than no date, because the queue is worked in the order
+# these imply. A row genuinely new to this run has nothing on file and takes `--compiled`.
+STICKY = ("found",)
+
 
 def existing():
     """Every row on file today, and whatever is in Bill's columns, keyed on (iso3, url)."""
@@ -55,7 +67,8 @@ def existing():
             if not row.get("iso3"):
                 continue
             rows.append(row)
-            kept[(row["iso3"], row.get("url", ""))] = {k: row.get(k, "") for k in MINE}
+            kept[(row["iso3"], row.get("url", ""))] = {
+                k: row.get(k, "") for k in MINE + STICKY if row.get(k, "")}
     return rows, kept
 
 

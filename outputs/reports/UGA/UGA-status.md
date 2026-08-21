@@ -9,7 +9,7 @@ intersections_read: 13
 sources_cited: 206
 sections_written: 37
 not_established: 1
-acquire_lines: 57
+acquire_lines: 55
 ---
 ## ICT Infrastructure
 
