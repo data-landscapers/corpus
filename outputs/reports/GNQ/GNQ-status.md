@@ -1,15 +1,15 @@
 ---
 title: Equatorial Guinea — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-21
 place: GNQ
 ledger_rows: 62
 not_held: 6
-record: 14cd905f9e5a
+record: 0421e70f37dc
 ---
 
 # Equatorial Guinea: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/GNQ/ledger.csv` (62 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/GNQ/ledger.csv` (62 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -133,7 +133,7 @@ New hosting capacity is prospective: the public-finance modernisation project [t
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Fifth population census and first agricultural census | [In development](https://ahoraeg.com/politica/2026/07/28/el-inege-inicia-el-taller-de-validacion-de-los-documentos-estrategicos-del-v-censo-de-poblacion-y-viviendas-y-el-i-censo-general-agropecuario/) | Validation workshop on the project document, 27-29 July 2026 |
+| Fifth population census and first agricultural census | [In development](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/) | Scientific committee validates the strategic documents (2026-08-20) |
 
 <!-- narrative: dpi -->
 The DIP is issued by CNEDOGE with the [most recent figures dating from the 2025 national tour](https://www.guineaecuatorialpress.com/noticias/el_gobierno_quiere_implementar_un_mecanismo_riguroso_de_control_para_la_adquisicion_del_certificado_literal) — 7,670 dossiers obtained and 7,275 processed — and the service was extended in June 2026 with [two provincial offices and online appointment booking](https://ahoraeg.com/sociedad/2026/06/12/cnedoge-inaugura-nuevas-oficinas-en-mongomo-y-ciudad-de-la-paz-para-acercar-los-servicios-documentales-a-la-ciudadania/). A digital identity system was [recommended by the World Bank in 2024](https://www.biometricupdate.com/202407/world-bank-identifies-priority-actions-for-dpi-in-equatorial-guinea) and does not exist; the civil registry behind it remains paper-based, and fraudulent birth certificates are an acknowledged control problem.

@@ -1,15 +1,15 @@
 ---
 title: Djibouti — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-21
 place: DJI
 ledger_rows: 68
 not_held: 10
-record: 33ace7b6160a
+record: 8f6ee0b6f080
 ---
 
 # Djibouti: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/DJI/ledger.csv` (68 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/DJI/ledger.csv` (68 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -205,7 +205,7 @@ Open data is strong on legal publication and thin elsewhere: no dataset inventor
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Cross-border data corridor between Shanghai and Djibouti | [Planned](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/) | Named by the signing minister as a success indicator of the LinkWise memorandum |
-| First national artificial-intelligence strategy | [In development](https://www.techreviewafrica.com/news/6777/djibouti-intensifies-preparations-for-national-artificial-intelligence-forum) | Official launch set for the first national AI forum, 2-3 September 2026 |
+| First national artificial-intelligence strategy | [In development](https://www.lanation.dj/lintelligence-artificielle-ouvre-un-nouveau-champ-pour-la-jeunesse/) | National AI Forum fixed for 2-3 September 2026, at which the strategy is to launch |
 | MAZU-Djibouti AI weather early-warning system | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia) | Version 2.0 handed over on the sidelines of the World AI Conference, Shanghai |
 | Instrument governing artificial-intelligence systems in public use | ***Not held*** | No AI law, decree or procurement rule is held; the strategy in preparation is not an instrument |
 

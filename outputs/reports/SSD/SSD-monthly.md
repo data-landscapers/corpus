@@ -1,16 +1,16 @@
 ---
 title: South Sudan — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: SSD
 ledger_rows: 20
 not_held: 12
-record: 529b3c7954a6
+record: 006660110dd5
 ---
 
 # South Sudan: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -96,6 +96,8 @@ The one regional move in the window is a pledge without a workplan. On 12 August
 
 <!-- narrative: inclusion--include-access -->
 The cost of connection rose for the second time in two months when the [second phase of the tariff exchange-rate adjustment took effect on 26 July 2026](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/), with no revised rates published by the regulator or the operators. Against a baseline of [about US$23.70 per gigabyte in November 2025](https://www.onecitizendaily.com/index.php/2025/11/27/41522/), there is now no published price for mobile data in the country.
+
+Prices completed their third rise of the year and the record still cannot say by how much. Operators [applied the regulator's third and final tariff exchange-rate adjustment phase from midnight on 17 August, raising call and data prices against inflation, currency depreciation and hard-currency access problems](https://www.onecitizendaily.com/index.php/2026/08/20/network-telecommunication-companies-raise-call-and-data-tariffs/). No phase has published its rates. [A 25% cut in December 2025](https://techafricanews.com/2025/12/12/south-sudans-ict-ministry-commends-mtn-for-25-tariff-reduction-urges-further-cuts/) has now been overtaken three times, which leaves affordability in this market a direction of travel with no quantity attached to it.
 <!-- /narrative -->
 ### Training and skills
 

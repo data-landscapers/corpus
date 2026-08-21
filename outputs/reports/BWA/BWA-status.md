@@ -1,15 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-21
 place: BWA
-ledger_rows: 95
+ledger_rows: 96
 not_held: 11
-record: 91be6b868da7
+record: 50f885464abf
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (95 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (96 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -184,6 +184,7 @@ Service delivery is counted in services rather than in use. The government platf
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Botswana-Namibia ICT memorandum of understanding | [Implemented](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) | Signed at Kasane 2026-08-07 |
+| Botswana-South Africa innovation memorandum | [Implemented](https://www.mmegi.bw/business/botswana-sa-strengthen-cross-border-innovation/news) | Signed 2026-08-19 |
 | SADC One Network Area roaming | [Implemented](https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/) | Extended to five further SADC states, announced 2026-03-13 |
 | SADC regional internet exchange host bid | [In development](https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk) | Shortlisted to the final two with a Zimbabwean company |
 

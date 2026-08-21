@@ -1,16 +1,16 @@
 ---
 title: Djibouti — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: DJI
 ledger_rows: 18
 not_held: 10
-record: 47e7eee01998
+record: 5249927d1c72
 ---
 
 # Djibouti: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -76,6 +76,8 @@ On 2 August 2026 the Secrétariat général du Gouvernement and UNDP [signed a l
 
 <!-- narrative: governance--gov-policy -->
 At WSIS 2026 in Geneva on 9 July the communications minister [restated Vision Djibouti 2035 as the frame for a regional technology hub](https://www.lanation.dj/geneve-djibouti-affiche-sa-vision-dun-numerique-inclusif-et-dun-hub-technologique-regional/) and [sought ITU and Smart Africa support for public-service digitalisation and AI capacity](https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-seeks-itu-smart-africa-support-for-telecoms-and-ai-development). No instrument resulted.
+
+The artificial-intelligence strategy acquired a launch date rather than a text. The digital economy ministry [announced the country's first national AI forum for 2-3 September 2026 at Djibouti-Ville, with an AI village at the Palais du Peuple](https://www.lanation.dj/lintelligence-artificielle-ouvre-un-nouveau-champ-pour-la-jeunesse/), framed around a young generation of Djiboutian developers and researchers entering the field. The strategy is stated as complete and set to launch there; its content is still unpublished, so what the month adds is a date and an audience.
 <!-- /narrative -->
 ### Data protection
 

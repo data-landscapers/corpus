@@ -1,20 +1,20 @@
 ---
-title: Zimbabwe — progress report, 2025-08-01 to 2026-08-20
-compiled: 2026-08-20
-period: 2025-08-01 to 2026-08-20
+title: Zimbabwe — progress report, 2025-08-01 to 2026-08-21
+compiled: 2026-08-21
+period: 2025-08-01 to 2026-08-21
 place: ZWE
-ledger_rows: 182
+ledger_rows: 183
 not_held: 9
-record: f583c2fd18e9
+record: b4a17154ff8d
 ---
 
-# Zimbabwe: progress report, 2025-08-01 to 2026-08-20
+# Zimbabwe: progress report, 2025-08-01 to 2026-08-21
 
-*Compiled 2026-08-20 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-21 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 182 systems and instruments on this place's ledger, 86 changed position between 2025-08-01 and 2026-08-20, 41 did not, 46 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 183 systems and instruments on this place's ledger, 86 changed position between 2025-08-01 and 2026-08-21, 41 did not, 47 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 149 sources for this place in the window — 28 in the earlier half (2025-08 to 2026-01), 121 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 150 sources for this place in the window — 28 in the earlier half (2025-08 to 2026-01), 122 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ Thirty rows carry no stated baseline. Zimbabwe's base is markedly thicker after 
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G base stations | 319 (Q3 2025, derived from the regulator's stated increase in Q4) | [379 (Q1 2026); 18.9% population coverage and 0.0% rural coverage (Q4 2025)](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) | Advanced |
 | Cross-border fibre corridor to Zambia | Public-private partnership signed June 2025; no route live | [Phase 1 live at 800 Gbps equipped on equipment rated above 10 Tbps; phase 2 to Livingstone due September 2026; no investment amount disclosed by either party](https://www.newsday.co.zw/local-news/article/200057978/powertel-join-paratus-zimbabwe-to-launch-new-digital-highway) | Advanced |
@@ -53,7 +53,7 @@ Thirty rows carry no stated baseline. Zimbabwe's base is markedly thicker after 
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National data centre ecosystem | None published | [Committed, with a national high-performance computing centre, the state fixed operator and a private operator's data centre named as the spine; no capacity, cost or completion date](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
 | Operator artificial-intelligence service | Did not exist | [Operating, with consulting and Shona-language work and a stated sovereign cloud offer to government; the operator's own announcement places the compute at an affiliated group's facility in South Africa](https://www.techzim.co.zw/2026/04/econet-ai-is-here-and-its-more-than-those-yamurai-ads-weve-been-seeing/) | Advanced |
@@ -65,7 +65,7 @@ Thirty rows carry no stated baseline. Zimbabwe's base is markedly thicker after 
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 100 MW solar farm for the technology park | Announced as part of the 300-hectare park (2025-12-19); nothing on record at 2025-08 | [Phase 1 under construction; phase 1 capacity, cost, financing and completion date all unstated](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3) | Advanced |
 | Artificial-intelligence fuel management on tower sites | Not on record at 2025-08 | [Credited with reducing energy consumption and improving availability and uptime; no percentage, litre, cost or uptime figure published](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3) | Advanced, unquantified |
@@ -75,7 +75,7 @@ Thirty rows carry no stated baseline. Zimbabwe's base is markedly thicker after 
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Equipped international internet bandwidth | 1,586,270 Mbps (Q3 2025) | [1,688,770 Mbps (Q4 2025), up 6.46%; the incumbent holds 68.10%](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) | Advanced |
 | National internet exchange point | Operating and reported to the ITU in 2020; no later statement held | [The Harare Internet Exchange Point, built on a US$200,000 African Union Commission grant and housed in the state fixed operator's exchange building, with every Zimbabwean access provider connected and two international peers (2020-10)](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/2020/contributions/RI2_POTRAZ-Zimbabwe-IXP_RDFAFR2020.pdf) | No change |
@@ -83,13 +83,14 @@ Thirty rows carry no stated baseline. Zimbabwe's base is markedly thicker after 
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Artificial-intelligence and cybersecurity fusion centre | Did not exist | [Proposed for real-time threat detection; a media rights organisation reports that the strategy sets out no governance structure, no limits on data collection, retention or use, and no route to challenge a threat assessment](https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/) | Advanced |
 | National Child Online Protection Policy | None published | [Reported established; the text is not held and no implementing body, budget or date is on record](https://www.newsday.co.zw/local-news/article/200047300/government-enforces-data-privacy-laws) | Advanced |
 | National Cybersecurity Strategy | None published | [In force from October 2025; the strategy text is not held and no implementation milestone since is on record](https://www.newsday.co.zw/local-news/article/200047300/government-enforces-data-privacy-laws) | Advanced |
 | Cyber security and monitoring of interception of communications centre | Operating under the Office of the President, advised by a committee on warrants, with no judicial oversight | [Same; a media rights organisation reported in June 2026 that the centre still has no judicial oversight](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20%26%20Data%20Protection%20Act%20Cap1207%20No%205%20of%202021%20gaz%202022-03-11.pdf) | No change |
 | National computer incident response team | A funded establishment project past its stated end, with no delivery recorded | [The ITU record for project 9ZIM17008, with the ITU as implementing agency, the communications regulator as cooperation agency and a financial scale of CHF 100,000-500,000, carries an empty status field and an achievements field still stating it will be updated on completion; the ICT ministry's own 2025 priority-projects page separately lists establishment of the team (ZW-CIRT) among its seven priorities, aimed at monitoring, detecting and responding to cyber threats, with no completion date or operating status stated](https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9ZIM17008) | No change, record improved |
+| Cyber risk in the payment system, central bank assessment | Baseline not held | [Vulnerabilities flagged by the Reserve Bank in third-party providers, payment channels and digital banking, alongside 36% of deployed card terminals active and 586,605 internet-banking subscribers (2026-08)](https://itweb.africa/article/zimbabwe-flags-cyber-risks-in-digital-payments/6GxRKMYQ1mVMb3Wj) | ***Baseline not held*** |
 
 <!-- narrative: infrastructure -->
 The private group restructured rather than the country rebuilding. Passive infrastructure was transferred as a going concern into a separately listed company in December 2025, which began trading by introduction on 31 March 2026, while the parent left the domestic exchange after 27 years ([pre-listing statement](https://ewzinvestor.com/wp-content/uploads/2026/07/zw-eco-2026-cr-00.pdf)). Ownership and control were unchanged by the transfer.
@@ -103,7 +104,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Health information exchange | ***Baseline not held*** | [Under development to connect laboratory systems, logistics management information systems and DHIS2 to the national electronic medical record; the ministry's ZWCore FHIR implementation guide, a continuous-build draft not yet an authorised publication, defines national FHIR profiles for patient, encounter, organization, location, practitioner and related-person resources and a provisional identifier namespace for the Impilo Patient Health ID; no completion date or coverage figure published](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf) | Advanced |
 | Mandated open interface standards for public-sector platforms | None published | [Commitment stated; no instrument, standard document, scope or date held](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
@@ -112,7 +113,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Cotton farmer biometric registry | Did not exist | [Biometric enrolment of cotton growers to enforce one farmer to one merchant; no enrolment count and no confirmation that field teams were dispatched](https://www.biometricupdate.com/202510/nigeria-zimbabwe-launch-new-farmer-digital-id-initiatives) | Advanced |
 | National digital identity | Issuance announced for July 2025; no official indication of a start date as of 2025-07-15 | [No launch, enrolment or coverage figure held; the home affairs minister restates a goal of online, real-time applications](https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform) | Stalled |
@@ -127,7 +128,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Bank charge caps | Electronic transactions under US$10 or the local-currency equivalent exempt from bank charges since 2024-09-01; no terminal or withdrawal ceiling held | [Cash withdrawals capped at 2%, card terminals at 1.5% capped at US$20, balance-inquiry and cash-deposit fees removed, settlement charges cut to US$0.80](https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits) | Advanced |
 | Central bank digital transformation and financial technology department | Did not exist | [Established to lead financial-technology regulation and deliver the second national financial inclusion strategy; no head, staffing or published output on record since](https://technomag.co.zw/rbz-unveils-dedicated-department-for-digital-transformation-and-fintech-innovation/) | Advanced |
@@ -147,7 +148,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital land administration platform | None published | [A two-week pilot with sixteen conveyancing firms to test validation and reissuance; no pilot outcome, fee schedule or validation count held](https://www.newzimbabwe.com/legal-discussions-with-vengai-madzima-title-deed-validation-and-reissuance-pilot-programme-of-zimbabwe/) | Advanced |
 | Statutory Instrument 76 of 2025 on securitised deeds | Gazetted 2025-07-18; commencement not triggered at 2025-08-01, the regulations only expected to come into effect shortly | [A validation pilot running from a notice of 2026-04-04; the digitisation deadline is now stated as on or around 2027-07-18, dated from publication rather than from a ministerial announcement](https://nehandaradio.com/2025/08/01/avoid-the-rush-avoid-the-risk-how-to-secure-your-property-in-zimbabwe-with-the-new-digital-deed-system) | Advanced |
@@ -157,7 +158,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | E-Health Strategy 2012-2017 | Expired, with no successor held | [Same; the 2012 strategy assessed readiness across seven components and carried chapters on standards and interoperability, data security, archiving and patient privacy, and the base holds no successor](https://cdn.who.int/media/docs/default-source/digital-health-documents/global-observatory-on-digital-health/zwe_ehealth.pdf) | No change |
 | National health management information system | 1,254 of a planned 1,900 health facilities on the national electronic medical record (2025-08) | [1,254 of a planned 1,900 health facilities on the national electronic medical record (2025-08); the platform's own front page, captured 2026-08-08, describes it as "Zimbabwe's National Health Operating System" spanning care-finding, provider verification, medicines and diagnostics directories, virtual care, an AI assistant, and public health notices, run largely without a citizen account and gated by a separate professional-authority check; the record, named Impilo, has been under development since February 2015 and runs alongside long-standing use of DHIS2, including a tracker system for HIV prevention; no facility-coverage figure is stated on the platform's own page](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf) | No change, record improved |
@@ -165,7 +166,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Smart Zimbabwe 2030 master plan | Did not exist | [Eight sector pillars (Smart Government, Smart Cities, Smart Agriculture, Smart Education, Smart Transport, Smart Health, Smart Tourism, Smart Mining) anchored on policy/regulatory, secure shared infrastructure, and skills platforms; names a National Data Centre "operationalized" under Smart Government and records no interoperability between ministries' data centres, systems and databases at the time of writing](https://www.ictministry.gov.zw/assets/documents/Smart%20Zimbabwe%202030%20Master%20Plan.pdf) | Advanced |
 | Government information technology specification standards | Standards reviewed May 2025; connectivity across ministries, departments and agencies named as the hurdle to electronic government | [Version 2.0 held in full: issued May 2025 by the E-Government Technology Unit in the Office of the President and Cabinet, revising Version 1.0 of May 2023, both authored by the E-Government Technology Inter-Agency Committee and approved by the Head of the Unit; the reference standard for all public-sector ICT procurement, effective immediately per the Chief Secretary's foreword; connectivity across ministries, departments and agencies remains the hurdle to electronic government](https://www.newsday.co.zw/local-news/article/200042263/govt-reviews-ict-standards-to-boost-digitalisation) | No change, record improved |
@@ -174,7 +175,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Rural network population coverage | ***Baseline not held*** | [5G reaches 0.0% of the rural population against 18.9% nationally; 3G reaches 73.7%; 4,681 of 13,104 base stations are rural](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) | ***Baseline not held*** |
 | School connectivity and solar programme | Not held | [11,500 satellite terminals distributed to schools - 8,000 to those with no wireless network and a further 3,500 to those already connected - with more than 1,300 institutions still to reach and a stated target of internet connectivity, solar power and national-grid access at every school by December 2026; cabinet has separately committed 3% of GDP to research and innovation under the education framework](https://www.263chat.com/govt-targets-internet-solar-power-for-every-school-by-year-end/) | ***Baseline not held*** |
@@ -182,14 +183,14 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Local authority electronic services and revenue systems | Most councils lagging in technology on the Auditor-General’s FY2024 audits, with business processes still manual or partially automated, accounting-system modules left unactivated, and most authorities without an enterprise resource planning system for revenue collection and so recognising revenue on a cash basis for want of complete databases; revenue-collection and debt-recovery findings rose from 81 across 51 local authorities to 92 across 60 (2025-06) | [Kwekwe City Council bills rates, refuse, sewerage, water and other service charges centrally through the Promun (ERP) package, with each property assigned a unique account number and tariff code; the finance department names "Information Technology and E-Governance" among its five key functions, covering database administration, network security and system workflow; legal basis is the Urban Councils Act s.219 for rates and the Water Act [Chapter 20:22] and Environmental Management Act [Chapter 20:17] for service charges; no user count, collection rate or digital-channel adoption figure published](https://kwekwecity.org.zw/departments/finance/) | No change, one council documented against an unchanged national picture |
 | Satellite kits for local authorities | 250 kits handed over 2025-07-24, deployment and maintenance left to councils | [No deployment, activation or outcome figure held](https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/) | No change |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | ICT access by households and use by individuals survey | The 2020 round the most recent on record | [The 2025 round published, covering all ten provinces](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift) | Advanced |
 | Regulator's abridged sector performance report | A quarterly series published; the Q4 2025 edition then reachable only through partial extraction | [The Q4 2025 edition held in full: internet penetration 84.55%, mobile penetration 107.04%, 366 5G base stations reaching 18.9% of population and 0.0% of rural areas](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) | No change |
@@ -197,7 +198,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National geospatial and earth-observation data programme | A national geospatial and space agency established in 2019; no dataset catalogue held | [The Zimbabwe National Geospatial and Space Agency, established under section 24 of the Research Act by general notice rather than by dedicated statute, and under the science ministry rather than the ICT ministry; no programme document, dataset catalogue or budget held](https://www.veritaszim.net/node/3481) | No change |
 
@@ -213,7 +214,7 @@ The digital identity is the row marked *Stalled*, and the registry beneath it ha
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Local-ownership rule for telecommunications operators and its repeal | Did not exist | [A 75% citizen-ownership floor and a 25% foreign-ownership ceiling for every postal and telecommunications licence, with sworn beneficial-ownership affidavits, 90 days for existing licensees to file a regularisation plan and three years to comply; reported repealed in full by Statutory Instrument 111 of 2026](https://www.veritaszim.net/node/8017) | Closed, gazetted then repealed |
 | Postal and Telecommunications (Amendment) Bill, 2025 | Did not exist | [Gazetted 2025-10-10 and not in force, commencement left to a date the President fixes by statutory instrument; before the Parliamentary Legal Committee at 2026-08-02 with the National Assembly adjourned to 2026-08-18; the replacement section 25 fences the minister's power to direct the regulator, requiring directions to be prospective, of general application and consistent with the Act](https://www.veritaszim.net/sites/veritas_d/files/Postal%20and%20Telecommunications%20Amendment%20Bill.%20H.B.%2010%2C%202025%20.pdf) | Advanced |
@@ -225,7 +226,7 @@ The digital identity is the row marked *Stalled*, and the registry beneath it ha
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Artificial-intelligence ethics framework | Did not exist | [Committed for tabling by end of the first quarter of 2027](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
 | Artificial-intelligence strategy implementation office | Did not exist | [Provided for as the office coordinating execution and monitoring; a legal charter and the recruitment of a director are first-phase roadmap items, and no charter, director, staffing or budget is held](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85) | Advanced |
@@ -239,7 +240,7 @@ The digital identity is the row marked *Stalled*, and the registry beneath it ha
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Zimbabwe-European Union digital or artificial-intelligence cooperation instrument | A 2021-2027 cooperation programme with no digital priority area | [Three priority areas — governance and citizens' rights, green economic growth, and social recovery and human development — with no digital or connectivity area and no digital Team Europe Initiative; EUR 148 million indicative for 2021-2024, digital present only as digital literacy under one expected result](https://international-partnerships.ec.europa.eu/document/download/ae45cfa0-e8f0-49cd-9af7-354849957dd6_en?filename=mip-2021-c2021-9056-zimbabwe-annex_en.pdf) | No change |
 | Zimbabwe-Rwanda memorandum on immigration cooperation | In force from 2024; no recorded activity | [In force; a Rwandan delegation toured two border posts under it on 2026-07-29](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/) | No change |
@@ -247,13 +248,13 @@ The digital identity is the row marked *Stalled*, and the registry beneath it ha
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National artificial-intelligence technical standards | Did not exist | [Proposed; no standard published](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Licensed data controllers | 570 licensed (2025-06-06) | [721 licensed (2025-10-15); no figure published since](https://technomag.co.zw/570-institutions-receive-data-controllers-licences-to-bolster-digital-trust-and-compliance/) | Advanced, no figure since October 2025 |
 | National Data Agency | Did not exist | [Provided for as an autonomous agency regulating data protection and data sharing, alongside a revision of the data protection act; no instrument, funding or commencement date held, and the communications regulator remains the designated data protection authority](https://veritaszim.net/sites/veritas_d/files/Zimbabwe%20National%20Artificial%20Intelligence%20Strategy.pdf) | Advanced |
@@ -267,13 +268,13 @@ The digital identity is the row marked *Stalled*, and the registry beneath it ha
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Public consultation record for the National AI Strategy | None published | [The strategy's own consultation record — a Kadoma draft, then validation at Harare on 2025-08-28, Bulawayo on 2025-09-09 and Masvingo on 2025-09-11; no submission register, participant list or consultation report is held](https://veritaszim.net/sites/veritas_d/files/Zimbabwe%20National%20Artificial%20Intelligence%20Strategy.pdf) | Advanced |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National artificial-intelligence and data platform | Did not exist | [Provided for to supply countrywide datasets, infrastructure and compute, and named in the strategy as Project "Pangolin"; a media rights organisation reported it consolidates fragmented government databases without stated safeguards](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85) | Advanced |
 | Open government data initiative under the strategy | Did not exist | [Announced as a commons for public institutions, industry and researchers to share anonymised datasets, with selected government datasets stated to become publicly accessible within six months of 2026-08-04; no governing rule, dataset list or portal held](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85) | Advanced |
@@ -290,7 +291,7 @@ Against that, the policy layer filled with proposals. The National AI Strategy a
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Artificial-intelligence literacy campaign | Did not exist | [Named in the strategy as the "Nzwisiso.ai" campaign; a media rights organisation reports that local-language terminology is absent, bounding its reach](https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/) | Advanced |
 | Indigenous-language corpora programme | Did not exist | [Committed for Shona, Ndebele and other indigenous languages; the ring-fenced share is unstated](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
@@ -305,21 +306,21 @@ Against that, the policy layer filled with proposals. The National AI Strategy a
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Scheme of reconstruction transferring passive infrastructure | Real estate and passive telecommunications infrastructure held by the parent's wholly owned vehicles | [Transferred as a going concern into the separately listed infrastructure company; ownership and control unchanged](https://www.econet.co.zw/wp-content/uploads/2025/12/Econet-Stakeholders-Notice-24-Dec-2025.pdf) | Advanced |
 | Base stations deployed by the infrastructure company | ***Baseline not held*** | [90 new base stations in the quarter; 17% of revenue reinvested into capital projects, on an undisclosed revenue base](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3) | ***Baseline not held*** |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Central bank innovation hub | Did not exist | [Announced with an open invitation to industry; no location, opening date or governance held](https://technomag.co.zw/rbz-unveils-dedicated-department-for-digital-transformation-and-fintech-innovation/) | Advanced |
 | Central bank regulatory sandbox | ***Baseline not held*** | [Operating; no cohort count, entrant list or graduation record held](https://technomag.co.zw/rbz-unveils-dedicated-department-for-digital-transformation-and-fintech-innovation/) | ***Baseline not held*** |
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Bilateral health cooperation memorandum | Under negotiation; the draft called clearly unbalanced in a December 2025 presidential memo | [Talks ended over long-term United States access to national health data, an attempt to fold in critical minerals, and a bilateral architecture outside the World Health Organization; the United States embassy stated in August 2026 that the conditions were co-investment, financial accountability and the sharing of disease specimens during outbreaks, and that assertions it sought Zimbabweans' personal data are categorically false; about 1.2m people on United States-supported HIV treatment face wind-down. The two accounts were reconciled on 2026-08-09 against the strategy's own model texts, both acquired that day. The model Data Sharing Agreement gives the United States secure, uninterrupted access, expressly including login credentials, to seven national health systems including electronic medical records, for twenty-five years continuing ten years past termination — and in the same clause tells the partner that to the maximum extent practical it should not provide individual level data or personally identifiable information unless there is no other way, the model access role being a viewer role without access to such information. The template memorandum's section 2.1.2 requires physical specimens and related data, including genetic sequence data, of detected pathogens with epidemic potential to be provided within five days of detection for twenty-five years. Both public accounts are therefore supportable on the templates: Harare is describing standing credentialled access to live national systems and specimen transfer, Washington is denying the transfer of identifiable records. Neither template is the Zimbabwe draft, which was never signed and does not exist as a public document](https://www.ecofinagency.com/news/2602-53296-zimbabwe-turns-down-u-s-health-funding-citing-sovereignty-concerns) | Closed |
 | Cloud partner experience centre | Did not exist | [Africa's first such centre, operated by a Zimbabwean-owned group, giving on-continent access to a United States vendor's cloud and artificial-intelligence tools](https://technomag.co.zw/masiyiwa-manyika-put-zimbabwean-capital-talent-at-centre-of-googles-1b-africa-cloud-push/) | Advanced |
@@ -329,14 +330,14 @@ Against that, the policy layer filled with proposals. The National AI Strategy a
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Chinese-supplied city surveillance systems | Deployed without adequate legal oversight | [Deployed without adequate legal oversight, and documented as repurposed against political opposition](https://www.ids.ac.uk/publications/smart-city-surveillance-in-africa-mapping-chinese-ai-surveillance-across-11-countries/) | No change |
 | National data centre, Harare | Operating since February 2021 | [Operating; no current capacity, utilisation or tenancy figure held](https://link.springer.com/article/10.1365/s43439-025-00165-1) | No change |
 
 ### Gulf/UAE activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Coding programme delivered with the United Arab Emirates | ***Baseline not held*** | [Running against a target of 1.5 million people; no enrolment figure, budget, agreement date or completion target held](https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/) | ***Baseline not held*** |
 
@@ -352,7 +353,7 @@ One bilateral position closed. Zimbabwe withdrew from health-funding talks with 
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Household computer ownership | 14.2% of households (2020) | [11.2% (2025); urban 21.2% against rural 4.7%](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift) | Regressed |
 | Household internet access | 50.1% of households (2020) | [75.5% of households (2025); mobile handset ownership 96.4%, rural 94.5%, urban 99.2%](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift) | Advanced |
@@ -360,7 +361,7 @@ One bilateral position closed. Zimbabwe withdrew from health-funding talks with 
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Fixed broadband technology mix | Wireless 41.84% of fixed broadband subscriptions (Q1 2025) | [Wireless 54.54% (Q4 2025); fixed cellular 143,323, copper 87,713, active fibre 86,225](https://www.newsday.co.zw/theindependent/business-digest/article/200055625/over-50-of-zims-fixed-broadband-now-wireless) | Advanced |
 | Free public Wi-Fi hotspot programme | Free Wi-Fi at post offices and community halls under the presidential internet scheme, no count published (2025-07) | [409 hotspots deploying in schools, clinics and public spaces against a stated target of 1,000 by end-2026; no completion count published since](https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/) | Advanced |
@@ -373,7 +374,7 @@ One bilateral position closed. Zimbabwe withdrew from health-funding talks with 
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Artificial-intelligence grand challenge | Did not exist | [Launched 2026-08-04 across agriculture, health, education, financial services, mining and public administration and stated as a recurring programme; POTRAZ reported 738 applications received and 68 projects selected for an August 2026 boot camp in Nyanga, drawn from healthcare, agriculture, public service delivery and financial technology, narrowed to 18 candidates for the next stage; no award or budget published](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) | Advanced |
 | Coding in the secondary curriculum | Did not exist | [The regulator and the innovation hubs directed to scale literacy and embed coding from secondary level upward; no curriculum, date or budget published](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
@@ -384,7 +385,7 @@ One bilateral position closed. Zimbabwe withdrew from health-funding talks with 
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National research programme or research and development expenditure figure | Statutory research council operating since 1986 under the Research Act [Chapter 10:22]; no programme document or R&D expenditure figure previously held | [Research Council of Zimbabwe reported total revenue of ZWL 6234329177 (2023) and ZWG 40614638 (2024); the Council pursued amendment of the Research Act in 2024 partly to establish a National Research Fund and developed a Concept Note for a National Research Policy; no gross domestic expenditure on R&D or R&D-as-share-of-GDP figure is published in either year](https://rcz.ac.zw/uploads/RCZ_2023.pdf) | Advanced |
 
@@ -398,7 +399,7 @@ Free public wireless hotspots went from an unnumbered installation programme to 
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Ring-fenced fund share for public-good artificial intelligence | Did not exist | [A commitment to ring-fence a share for precision agriculture and smart health diagnostics; no amount, mechanism or date](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
 | Export credit facility for mobile network expansion | CNY 485,000,000 committed, active, no disbursement figure held | [Unchanged](https://global.factiva.com/redir/default.aspx?P=sa&an=MEWZII0020160805ec850005p&cat=a&ep=ASE) | No change |
@@ -414,13 +415,13 @@ Free public wireless hotspots went from an unnumbered installation programme to 
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Cross-border fibre public-private partnership | The partnership signed June 2025; no route in service | [Phase 1 live at 800 Gbps equipped; phase 2 due September 2026; no investment amount disclosed by either party](https://www.newsday.co.zw/local-news/article/200057978/powertel-join-paratus-zimbabwe-to-launch-new-digital-highway) | Advanced |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital and information technology appropriation in the 2026 national budget | None published | [Vote 23 appropriates ZiG258,292,000 to ICT ministry policy and administration and ZiG505,225,000 to ICT development and promotion; Vote 18 appropriates ZiG1,470,460,000 to civil registration and ZiG994,652,000 to migration management; ZiG200,000,000 for revenue authority automation was proposed in the 2026 budget statement](https://www.veritaszim.net/sites/veritas_d/files/Appropriation%20Act%202026%2C%20Act%20No.%206%20of%202025.pdf) | Advanced |
 | Citizens budget | Published for the 2025 financial year | [Unchanged; no later round assessed](https://internationalbudget.org/sites/default/files/country-surveys-pdfs/2025/open-budget-survey-zimbabwe-2025-en.pdf) | No change |

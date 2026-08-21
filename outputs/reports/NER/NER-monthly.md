@@ -1,16 +1,16 @@
 ---
 title: Niger — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: NER
 ledger_rows: 25
 not_held: 4
-record: 838e2f9d456b
+record: 3e541b4baa19
 ---
 
 # Niger: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -54,6 +54,8 @@ The register's public campaign ran through the window. It [opened at Tahoua on 1
 Also on 29 July, the Diffa regional civil-status directorate reported [173,109 birth certificates issued between July 2023 and July 2026](https://anp.ne/mise-en-oeuvre-du-programme-de-la-refondation-a-diffa-plus-de-173-000-actes-de-naissance-delivres-entre-juillet-2023-et-juillet-2026/), of which 109,382 were timely declarations, with the timely rate rising from 56% in 2022 to 88.04% in 2025.
 
 On 29 July the foreign minister closed the second diaspora forum by [undertaking to build a bank of priority diaspora projects and a data bank of diaspora experts](https://www.lesahel.org/cloture-de-la-2e-edition-du-forum-de-la-diaspora-a-niamey-des-recommandations-et-des-engagements-formules-pour-le-developpement-economique-et-social-du-pays/); no enabling instrument, custodian, data-protection basis or timetable was named.
+
+The population register's public campaign is running ahead of the register itself. A national civil-status and identification sensitisation tour [reached Tillabéri as its third region](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/), with officials citing the 2026 civil-status ordinance and describing a forthcoming national population register whose first enrolment phase opens at Niamey ahead of a 2027 rollout to other regions. No enrolment target, budget, supplier or start date accompanies it, so the campaign precedes anything a citizen can yet enrol in.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 

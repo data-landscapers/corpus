@@ -1,20 +1,20 @@
 ---
-title: Djibouti — progress report, 2025-08-01 to 2026-08-19
-compiled: 2026-08-19
-period: 2025-08-01 to 2026-08-19
+title: Djibouti — progress report, 2025-08-01 to 2026-08-21
+compiled: 2026-08-21
+period: 2025-08-01 to 2026-08-21
 place: DJI
 ledger_rows: 70
 not_held: 10
-record: 4c2ac8b71238
+record: 3c26f99dfe67
 ---
 
-# Djibouti: progress report, 2025-08-01 to 2026-08-19
+# Djibouti: progress report, 2025-08-01 to 2026-08-21
 
-*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-21 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 70 systems and instruments on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-19, 23 did not, 3 carry no stated baseline, and 10 are ***Not held*** at both ends.*
+*Of 70 systems and instruments on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-21, 23 did not, 3 carry no stated baseline, and 10 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 72 sources for this place in the window — 33 in the earlier half (2025-09 to 2026-01), 39 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 73 sources for this place in the window — 33 in the earlier half (2025-09 to 2026-01), 40 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ Nothing regressed and nothing closed. What did not move carries most of the weig
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | DARE1 southern extension (Mombasa-Mtunzini) | No southern extension on record | [Extension announced; 36 Tbit/s over about 3,200-3,500 km, ready for service 2028](https://www.connectingafrica.com/connectivity/dare1-subsea-cable-to-link-kenya-to-south-africa) | Advanced |
 | Djibouti Digital Foundation and EARDIP domestic fibre rollout | Ali-Sabieh regional hospital connected, over 200 km deployed (2025-06) | [Damerjog in Arta added; stakeholder and grievance workshop covering Djibouti-ville, Balbala and the five interior regions (2025-10)](https://www.lanation.dj/damerjog-entre-dans-lere-du-numerique-grace-au-projet-djibouti-fondement-du-numerique-dfn/) | Advanced |
@@ -44,7 +44,7 @@ Nothing regressed and nothing closed. What did not move carries most of the weig
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | LinkWise AI compute centre and AI Special Economic Zone | Did not exist | [US$1.35bn memorandum signed; no investment protocol, no disbursement, no site (2026-07)](https://www.lanation.dj/un-partenariat-strategique-pour-faire-de-djibouti-un-pole-regional-de-linnovation/) | Advanced |
 | PAIX and Fonds Souverain JIB1 data centre | Joint venture announced, no construction on record | [Unchanged; the stated first phase of 2026 is unverified (as at 2026-07-31)](https://w.media/paix-partners-with-djiboutis-sovereign-fund-to-build-data-centers) | No change |
@@ -52,13 +52,13 @@ Nothing regressed and nothing closed. What did not move carries most of the weig
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Renewable generation for the AI compute zone | Did not exist | [Up to 500 MW provided for in the memorandum; nothing contracted or built (2026-07)](https://www.lanation.dj/un-partenariat-strategique-pour-faire-de-djibouti-un-pole-regional-de-linnovation/) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Autorite Nationale de Cybersecurite (ANC) | No statutory cyber authority; a pre-statutory ANCS label and ANSIE's DSSI | [Autonomous public establishment under the Presidency, operational from December 2025, director-general named](https://www.journalofficiel.dj/texte-juridique/loi-n195-an-25-9eme-l-portant-creation-de-lautorite-nationale-de-cybersecurite/) | Advanced |
 | DJ-CERT national incident response team | No operating team on record | [Operating team of the ANC; placed first in both simulation scenarios at the IGAD exercise (2026-06)](https://www.lanation.dj/lanc-distinguee-lors-de-lexercice-regional-de-cybersecurite/) | Advanced |
@@ -80,7 +80,7 @@ The cybersecurity institutions were the period's clearest advance. The authority
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Prices database and central-administration data-exchange platform | Did not exist | [Ordered by statute on the Direction de l'Execution Budgetaire, to be established with every central-administration department as the counterpart to the central purchasing body created by article 37; no design, delivery date, budget line or operating rule is stated (2025-12)](https://www.journalofficiel.dj/texte-juridique/loi-de-finances-n203-an-25-9eme-l-portant-budget-initial-de-letat-pour-lexercice-2026/) | Advanced |
 | Real-time identity verification for banks and social protection | Did not exist | [In preparation; no date published (2026-07)](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/) | Advanced |
@@ -88,14 +88,14 @@ The cybersecurity institutions were the period's clearest advance. The authority
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Biometric national identity card and Registre national des personnes physiques | No biometric national identity card on record | [Issued nationwide; fingerprints, iris, photograph and electronic signature enrolled against a national identification number (2026-07)](https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/) | Advanced |
 | Mobile ID national digital identity platform | Did not exist | [In service; authentication and electronic signature, biometric data held only by the Interior Ministry (2026-02)](https://www.lanation.dj/identite-numerique-et-mobile-id-une-avancee-strategique-vers-ladministration-de-demain/) | Advanced |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Smart Wallet national digital wallet (Visa, Tech5) | Did not exist | [Memorandum only; nothing in service and no rollout calendar (2025-09)](https://idtechwire.com/djibouti-partners-with-visa-to-develop-national-digital-wallet) | Advanced |
 | D-Money mobile wallet | In service | [In service](https://www.lanation.dj/lancement-de-la-premiere-plateforme-en-ligne-a-djibouti-developpe-par-djibouti-telecom-a-travers-d-money/) | No change |
@@ -103,7 +103,7 @@ The cybersecurity institutions were the period's clearest advance. The authority
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Civil-registry archive digitisation | Not on record | [Under way, with no completion date published (2026-07)](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/) | Advanced |
 | Online company creation platform (ANPI) | Did not exist | [In service; company formation completed without attendance (2026-01)](https://www.lanation.dj/djibouti-lance-sa-plateforme-de-creation-en-ligne-des-entreprises/) | Advanced |
@@ -111,13 +111,13 @@ The cybersecurity institutions were the period's clearest advance. The authority
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Inter-hospital medical record sharing over the DFN fibre | In service at Ali-Sabieh | [In service at Ali-Sabieh; no further site reported](https://www.lanation.dj/ali-sabieh-le-dfn-propulse-lhopital-regional-dans-une-nouvelle-ere-numerique/) | No change |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | ASYCUDAWorld customs clearance (e-Guichet) | In service | [Constituted by statute as the e-Guichet single window under the Direction Generale des Douanes et Droits Indirects, centralising the customs declaration, certificates of origin, licences, freight manifests, control results and sanitary and phytosanitary certificates; the electronic route is obligatory for all economic operators, paper admitted only by derogation on a duly established technical impossibility, duties, taxes and service fees are paid electronically, and the customs and treasury information systems must be interconnected for daily and monthly reconciliation of collected revenue (2025-12)](https://documents.worldbank.org/curated/en/099020224094541999) | Advanced |
 | G2B integrated digital platform | Did not exist | [Design phase launched, on three pillars: a startups portal, the G2B counter and an extension of the one-stop counter (2025-12)](https://techafricanews.com/2025/12/18/djibouti-launches-g2b-digital-platform-to-boost-smes-and-entrepreneurship/) | Advanced |
@@ -125,7 +125,7 @@ The cybersecurity institutions were the period's clearest advance. The authority
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Third national statistics development strategy (SNDS-3, 2025-2029) | Validated; no adoption instrument held | [Validated; no adoption instrument held](https://www.lanation.dj/instad-validation-de-la-troisieme-strategie-nationale-de-developpement-de-la-statistique-2025-2029-snds-3/) | No change |
 
@@ -143,28 +143,28 @@ The trade and customs systems, the statistics strategy and inter-hospital record
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Startup Act (Loi n 179/AN/25) | Did not exist | [In force from promulgation; every operative detail deferred to implementing decrees (2025-12)](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/) | Advanced |
 | Digital Code (eight volumes, about 800 articles) | Adopted 30 June 2025 | [In force; no implementing decree held](https://www.jonesday.com/en/insights/2025/07/national-assembly-of-the-republic-of-djibouti-approves-digital-code) | No change |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | PND-ADEEG 2025-2030 (third National Development Plan) | No adopted successor plan | [Adopted by decree (2026-06)](https://www.adi.dj/article/138724) | Advanced |
 | Vision Djibouti 2035 | In force | [In force](https://www.lanation.dj/geneve-djibouti-affiche-sa-vision-dun-numerique-inclusif-et-dun-hub-technologique-regional/) | No change |
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | United Nations Convention against Cybercrime | Not signed | [Signed; no ratification instrument on file (2025-10)](https://www.ecofinagency.com/news-digital/1211-50395-djibouti-advances-bill-to-create-national-cybersecurity-authority) | Advanced |
 | African Union Malabo Convention | Ratified | [Ratified](https://www.ecofinagency.com/news-digital/1211-50395-djibouti-advances-bill-to-create-national-cybersecurity-authority) | No change |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Police body-worn cameras | Not on record | [In routine use in central Djibouti, with visible wearing and notification protocols and manual or automatic triggers (2026-08)](https://www.lanation.dj/la-bodycam-un-bouclier-de-verite-au-service-des-policiers-et-des-citoyens/) | Advanced |
 | Data-protection regime within the Digital Code (156 articles) | In force | [In force](https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law) | No change |
@@ -172,7 +172,7 @@ The trade and customs systems, the statistics strategy and inter-hospital record
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Djibouti Open Data platform | In service | [In service; no dataset inventory or update policy held](https://www.lanation.dj/systeme-general-de-diffusion-des-donnees-ameliore-sgdd-a-djibouti-lance-sa-page-nationale-recapitulative-des-donnees/) | No change |
 | IMF e-GDDS National Summary Data Page | Published | [Published; no update record held](https://www.lanation.dj/systeme-general-de-diffusion-des-donnees-ameliore-sgdd-a-djibouti-lance-sa-page-nationale-recapitulative-des-donnees/) | No change |
@@ -190,22 +190,22 @@ Open publication of the legal record cannot be scored. [126 years of the Journal
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Cross-border data corridor between Shanghai and Djibouti | Did not exist | [Provided for in the memorandum; nothing built (2026-07)](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/) | Advanced |
-| First national artificial-intelligence strategy | Did not exist | [Complete and set for official launch at Djibouti's first national artificial-intelligence forum on 2-3 September 2026 at the Palais du Peuple, carrying a roadmap to 2032 on eight axes - ethical AI governance, data and digital infrastructure, education and human capital, economy and employment, social inclusion and gender, strategic sectors, responsible technological infrastructure and international cooperation. It is carried by the digital economy ministry and the Secretariat General of the Government with UNESCO and UN ESCWA support, and the ministry convened cross-ministerial focal points on 15 August 2026 to coordinate the forum](https://www.techreviewafrica.com/news/6777/djibouti-intensifies-preparations-for-national-artificial-intelligence-forum) | Advanced |
+| First national artificial-intelligence strategy | Did not exist | [Complete and set for official launch at Djibouti's first national artificial-intelligence forum, now dated 2-3 September 2026 at Djibouti-Ville](https://www.lanation.dj/lintelligence-artificielle-ouvre-un-nouveau-champ-pour-la-jeunesse/) | Advanced |
 | MAZU-Djibouti AI weather early-warning system | First system supplied July 2025, not yet in service | [Version 2.0 in service; forecast resolution 3 km against 9 km, three-day horizon, six-hourly updates (2026-07)](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia) | Advanced |
 | National AI readiness index | Not held | [An estimated 24.5 out of 100 on the national AI readiness diagnostic, described as an emergent level, against an ICT development index of 61.6 attributed to the submarine cables landing in Djibouti and its data centres](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/) | ***Baseline not held*** |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Federation nationale des entreprises du numerique | Did not exist | [Creation reported; no constitution or membership published (2025-12)](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-vers-la-creation-d-une-federation-nationale-des-entreprises-du-numerique) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | LIMO innovation-ecosystem platform | Did not exist | [Launched; no user or service figures published (2026-07)](https://techreviewafrica.com/news/6169/djibouti-unveils-limo-platform-to-accelerate-digital-economy-and-innovation) | Advanced |
 | Regulatory sandbox under the Haut Conseil Superieur de l'Economie Numerique | Did not exist | [Provided for; no implementing decree and no admission on record (2026-07)](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/) | Advanced |
@@ -213,7 +213,7 @@ Open publication of the legal record cannot be scored. [126 years of the Journal
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Industrial and artificial-intelligence cooperation roadmap with China | Did not exist | [Presented; no agreement, instrument or figure (2026-06)](https://www.adi.dj/article/138698) | Advanced |
 
@@ -229,7 +229,7 @@ The domestic sector acquired institutions on paper: the [LIMO platform](https://
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | E-SKILLS Digital Houses | Did not exist | [Announced, with 3,000 to be trained by 2029 at a stated EUR 7m; no site open on record (2026-05)](https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative) | Advanced |
 | Ecole 42 coding school | Did not exist | [Launched as a project; no intake or opening date published (2026-04)](https://techreviewafrica.com/public/news/4771/djibouti-launches-ecole-42-project-to-promote-technological-innovation) | Advanced |
@@ -245,7 +245,7 @@ The only training programme running at both ends is the one for officials, and i
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Startup fund of funds | Did not exist | [Provided for; no implementing decree and no capital committed (2026-07)](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/) | Advanced |
 | Chinese grant for the Urban Security Monitoring System | Committed | [Committed; no implementation record held](https://www.sohu.com/a/257932360_230289) | No change |
@@ -255,7 +255,7 @@ The only training programme running at both ends is the one for officials, and i
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Domestic budget appropriation for digital transformation | Not held | [ANSIE 2026 budget approved at 396,120,056 FDJ, down from 556.7m FDJ in 2025; investment of 108.1m FDJ for application firewalls, an archiving system, datacentre colocation and X-Road support renewal, balance largely staff costs; no separate ICT ministry line or e-government envelope published (2025-12)](https://www.journalofficiel.dj/texte-juridique/loi-de-finances-n203-an-25-9eme-l-portant-budget-initial-de-letat-pour-lexercice-2026/) | Advanced |
 

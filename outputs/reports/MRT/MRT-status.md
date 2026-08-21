@@ -1,15 +1,15 @@
 ---
 title: Mauritania — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-21
 place: MRT
-ledger_rows: 57
+ledger_rows: 58
 not_held: 4
-record: 40b83481317e
+record: 3f71c16fea76
 ---
 
 # Mauritania: status report
 
-*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/MRT/ledger.csv` (57 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/MRT/ledger.csv` (58 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -113,6 +113,7 @@ SOMELEC's [FY2024 procurement plan](https://somelec.mr/sites/default/files/PPPM%
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Digital consular services platform | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad) | Launched 9 July 2026 with a first phase of nine online services |
+| Digitised civil-service recruitment | [Implemented](https://lequotidien.mr/?p=40000&lang=fr) | 390-post competition run digitally from application to examination (2026-08) |
 | Electronic invoicing for public institutions | [Planned](https://www.ami.mr/archives/265398) | Announced by the Finance Minister, 30 July 2026 |
 | Ijraati administrative procedures portal | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-centralizes-800-administrative-procedures-in-new-digital-portal) | Launched consolidating more than 800 administrative procedures |
 | Khdamati remote transactions platform | [Planned](https://ami.mr/fr/archives/300915) | Integration with the Diwan territorial-administration system taken forward with German cooperation 2026-08-13 |

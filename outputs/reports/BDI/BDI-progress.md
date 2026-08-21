@@ -1,20 +1,20 @@
 ---
-title: Burundi — progress report, 2025-08-01 to 2026-08-19
-compiled: 2026-08-19
-period: 2025-08-01 to 2026-08-19
+title: Burundi — progress report, 2025-08-01 to 2026-08-21
+compiled: 2026-08-21
+period: 2025-08-01 to 2026-08-21
 place: BDI
 ledger_rows: 74
 not_held: 10
-record: ada1b7f53b05
+record: d930c7c8043b
 ---
 
-# Burundi: progress report, 2025-08-01 to 2026-08-19
+# Burundi: progress report, 2025-08-01 to 2026-08-21
 
-*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-21 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 74 systems and instruments on this place's ledger, 36 changed position between 2025-08-01 and 2026-08-19, 3 did not, 25 carry no stated baseline, and 10 are ***Not held*** at both ends.*
+*Of 74 systems and instruments on this place's ledger, 36 changed position between 2025-08-01 and 2026-08-21, 3 did not, 25 carry no stated baseline, and 10 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 72 sources for this place in the window — 20 in the earlier half (2025-09 to 2026-02), 52 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 73 sources for this place in the window — 20 in the earlier half (2025-09 to 2026-02), 53 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -30,7 +30,7 @@ Three positions are the same at both ends. The [network's condition](https://www
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | PAFEN rural 4G build | Did not exist | [Lumitel >US$10m for 86 hills across 14 provinces; ONATEL US$5.9m for 92 hills covering 372,035 people](https://techafricanews.com/2026/05/04/burundi-signs-usd-5-9-million-contract-to-expand-rural-network-connectivity/) | Advanced |
 | Mobile and internet network quality | Outages attributed to power, fuel and foreign-exchange shortages (2025-09) | [Degraded; ARCT names power cuts, generator fuel supply, unstable REGIDESO supply, urban bandwidth saturation, ageing transmission equipment and missing masts](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/) | No change |
@@ -41,19 +41,19 @@ Three positions are the same at both ends. The [network's condition](https://www
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National data centre | Baseline not held | [A stated PAFEN priority; no build, site or date on file](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program) | ***Baseline not held*** |
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Powering of mobile base stations | Baseline not held | [At study stage, against a network the regulator says fails mainly on electricity](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Regional financial-system cybersecurity measures | Baseline not held | [Flagged by the governors; no common measure adopted](https://www.rtnb.bi/?mypost?id=529) | ***Baseline not held*** |
 
@@ -69,13 +69,13 @@ Three remedies to the outage problem were named in the window's last week and no
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | EAC cross-border secure data-sharing framework | Did not exist | [Validated; no national implementing instrument on file](https://www.burunditimes.com/eac-backs-secure-data-sharing-framework-to-drive-regional-trade-innovation-and-growth/) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Biometric national identity card | Confirmed not ready for the 2025 voter enrolment | [Technically ready, awaiting a legal instrument; piloted in about a dozen communes](https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/) | Advanced |
 | Digital civil registry platform | Platform unveiled; every citizen to re-register afresh; family-code amendment required | [Biometric enrolment operating in 13 pilot communes, decentralised to zone level; the civil-registry to health-facility link for birth registration, piloted since 2023 and institutionalised in 2024, now runs in 123 health facilities and has recorded more than 52,000 births. A national unique identifier is planned with fingerprint and facial biometrics](https://abpinfo.bi/2026/08/13/le-burundi-veut-construire-un-etat-plus-proche-des-citoyens-plus-efficace-et-inclusif/) | Advanced |
@@ -84,7 +84,7 @@ Three remedies to the outage problem were named in the window's last week and no
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | BurundiPay national instant payment system | Did not exist | [Live; 17 institutions in production of 78 licensed (5 commercial banks, 10 microfinance institutions, 2 payment institutions); about 224,000 users and cumulative transaction volume about BIF 4.29bn (4 August 2026); banks, microfinance and mobile money interoperable on ISO 20022 and USSD at ~1,000 transactions per second](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank) | Advanced |
 | EAC Regional Cross-Border Payment System Master Plan | Baseline not held | [At design stage; governors decided in July 2026 that BurundiPay must interconnect with other EAC members' payment systems; no interconnection timeline or deployment on file](https://www.rtnb.bi/?mypost?id=529) | Advanced |
@@ -96,7 +96,7 @@ Three remedies to the outage problem were named in the window's last week and no
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Electronic land-title register | Land services digitised (2025-06) | [Digitised, with a mandatory fee ordinance objected to on cost and the shortness of its deadline](https://www.iwacu-burundi.org/titres-fonciers-securises-une-mesure-couteuse-et-precipitee/) | Advanced |
 | 2027 electoral register preparation | Baseline not held | [Under way and contested; no biometric card in use](https://www.burunditimes.com/burundi-opposition-parties-challenge-cenis-2027-election-preparations-president-calls-for-parental-dialogue/) | ***Baseline not held*** |
@@ -104,7 +104,7 @@ Three remedies to the outage problem were named in the window's last week and no
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | ELMIS/MEDEXIS health supply-chain system | Partial rollout | [956 facilities and more than 2,000 users](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-advances-health-digitalization-with-broader-elmis-medexis-rollout) | Advanced |
 | Merankabandi social protection on openIMIS | Migration under way | [Running on openIMIS, 1.25m beneficiaries](https://openimis.org/blog/burundis-growing-social-protection-system-now-runs-openimis) | Advanced |
@@ -113,7 +113,7 @@ Three remedies to the outage problem were named in the window's last week and no
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Daily transfer of telepaid taxes | Did not exist | [In force, with a 100% penalty](https://finances.gov.bi/index.php/2025/12/25/projet-de-loi-de-finances-2025-2026-revise-le-gouvernement-defend-des-choix-budgetaires-responsables-devant-le-parlement/) | Advanced |
 | e-KORI online tax platform | Did not exist | [In service for online declaration, payment and, from 4 August 2026, all new taxpayer registration (administrative and commercial, natural and legal persons, cooperatives); commercial registration routed via the Agence de développement du Burundi's easybusiness.bi and cooperative registration via ANACOOP, with biometric enrolment for natural persons](https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/) | Advanced |
@@ -123,13 +123,13 @@ Three remedies to the outage problem were named in the window's last week and no
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Villages Numeriques programme | Baseline not held | [Under way; no completion date or coverage achieved on file](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | ***Baseline not held*** |
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | EAC Statistics Bureau | Did not exist | [Bill endorsed; bureau not on record as established](https://www.burunditimes.com/eala-passes-eac-statistics-bureau-bill-paving-way-for-monetary-union/) | Advanced |
 | Population census | Baseline not held | [12,332,788 residents enumerated (2024 census, preliminary): 5,901,069 men, 6,431,719 women; 75.0% rural (3,077,593 urban, 9,255,195 rural); reported against the five provinces created by the 2023 territorial reform, not the eighteen that preceded it](https://presidence.gov.bi/wp-content/uploads/2025/04/decret-RGPHAE-2024.pdf) | ***Baseline not held*** |
@@ -148,21 +148,21 @@ Registries moved on their own tracks. [Merankabandi completed its migration to o
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Access to information bill | Did not exist | [Scheduled for examination; no text, tabling number, sponsoring ministry or timetable published](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) | Advanced |
 | Anti-money-laundering and counter-terrorist-financing regime | Baseline not held | [Five circulars in force](https://www.burunditimes.com/burundi-modernizes-financial-crime-defense-as-central-bank-issues-new-aml-cft-rules/) | ***Baseline not held*** |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National Data Governance Strategy | Did not exist | [Validated; treats data as a public good](https://www.wearetech.africa/en/fils-uk/news/burundi-adopts-national-data-governance-strategy) | Advanced |
 | Proposed mobile-phone ban for civil servants | Did not exist | [Proposed; no instrument on file](https://www.connectingafrica.com/regulation/burundian-president-seeks-mobile-phone-ban-for-civil-servants) | Advanced, proposal only |
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | EAC One Network Area and Regional Digital Integration protocol | Did not exist | [Joined and ratified](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/) | Advanced |
 | Vietnam-Burundi telecommunications-technology memorandum | Signed November 2024, no digital follow-through reported | [Policy transfer, 50 desktop computer sets and Master's scholarships reported; no monetary commitment](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe) | Advanced, marginal |
@@ -170,7 +170,7 @@ Registries moved on their own tracks. [Merankabandi completed its migration to o
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | ARCT injunctions on value-added-service consent | Did not exist | [Issued; the consumer association reports no significant improvement two months on, and no sanction is on file](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/) | Advanced |
 | Data protection authority | Did not exist | [Provided for by statute; not on record as operating](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/) | Advanced |
@@ -178,7 +178,7 @@ Registries moved on their own tracks. [Merankabandi completed its migration to o
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Etats generaux de la communication | Did not exist | [Proposed; no response from government or operators on file](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) | Advanced |
 
@@ -194,7 +194,7 @@ Two instruments arrived at the very end. An [access-to-information bill reached 
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National AI Strategy 2026-2030 | AI readiness diagnostic run (November 2025) | [Validated: governance and ethics, sovereign cloud and data hubs, education and research, innovation and incubators, human capital and about 15 health and agriculture pilots](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-rolls-out-six-pillar-ai-strategy-to-accelerate-digital-economy) | Advanced |
 | Sovereign cloud and data hubs | Did not exist | [A strategy pillar; no build on record](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-rolls-out-six-pillar-ai-strategy-to-accelerate-digital-economy) | Advanced |
@@ -202,25 +202,25 @@ Two instruments arrived at the very end. An [access-to-information bill reached 
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Lyca Mobile market entry | Did not exist | [Licensed with telecom and e-health plans; no service launch on file](https://www.wearetech.africa/en/fils-uk/news/telecom/lyca-mobile-advances-telecom-and-e-health-plans-in-burundi) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Local AI builds | Baseline not held | [Two named builds; no funding, user base or public deployment on file](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | ***Baseline not held*** |
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | United States health-sector agreement | Did not exist | [US$156m committed over five years](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) | Advanced |
 
 ### India activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | India Stack cooperation | Did not exist | [In talks; nothing signed](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-studies-india-stack-for-digital-identity-and-payment-reforms) | Advanced |
 
@@ -236,25 +236,25 @@ Domestic AI capacity showed itself once, at the [July 2026 workshop](https://en.
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Rural coverage target | Baseline not held | [80% territorial coverage targeted; no achieved figure on file](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | ***Baseline not held*** |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Internet package tariffs | Baseline not held | [More than doubled since January 2025, on the consumer association's account; in some cases doubling or tripling](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Vietnamese training and equipment provision | Scholarships of up to US$10,000 each offered, nothing delivered on record | [50 desktop computer sets and Master's scholarships reported delivered](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe) | Advanced |
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | University and professional research capacity in AI and data | Baseline not held | [One workshop on record; no funded programme](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | ***Baseline not held*** |
 
@@ -266,19 +266,19 @@ Access is the one inclusion measure that moved this period, and it moved against
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | PAFEN Digital Foundations Project | Under implementation | [61% committed; priorities are public-finance modernisation, the national identity card and a national data centre](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program) | Advanced |
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | United States health-sector memorandum | Did not exist | [US$156m over five years](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) | Advanced |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Communications and ICT ministry vote | BIF 43.1bn (FY2023/24) | [BIF 131.7bn (FY2024/25)](https://lerenouveau.bi/assemblee-nationale-le-projet-de-loi-portant-reglement-et-compte-rendu-budgetaire-2024-2025-adopte-a-lunanimite/) | Advanced |
 | General state budget | BIF 5,352bn (FY2025/26) | [Expenditure above BIF 7,020bn against revenue of BIF 6,296.03bn, up 23.76%](https://burundi-eco.com/budget-general-de-letat-exercice-2026-2027-un-budget-de-plus-de-7000-milliards-de-bif-adopte-a-lunanimite/) | Advanced |

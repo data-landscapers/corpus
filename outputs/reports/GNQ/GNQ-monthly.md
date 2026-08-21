@@ -1,16 +1,16 @@
 ---
 title: Equatorial Guinea — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: GNQ
 ledger_rows: 25
 not_held: 6
-record: 97c71f3fe613
+record: defddd874681
 ---
 
 # Equatorial Guinea: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -59,6 +59,8 @@ A GITGE study of the ministries, [reported on 2 July](https://ecofinge.com/un-es
 
 <!-- narrative: dpi--data-statistics -->
 INEGE opened a three-day validation workshop on 27 July at the Ministry of Finance, Budgets and National Planning on the project document, resource-mobilisation advocacy strategy and social-communication strategy for the [fifth population census and the first agricultural census](https://ahoraeg.com/politica/2026/07/28/el-inege-inicia-el-taller-de-validacion-de-los-documentos-estrategicos-del-v-censo-de-poblacion-y-viviendas-y-el-i-censo-general-agropecuario/), with UNFPA and FAO technical support and around fifty representatives of ministries, the National Assembly, the UN system, the AfDB, the World Bank, WHO and CEMAC. Decree 25/2025 of 3 March 2025 authorises both operations; the last population census was in 2015.
+
+Census preparation was validated a second time in four weeks without an enumeration date being set. The scientific committee [validated the project document, the resource-mobilisation strategy and the communication strategy for the fifth population and housing census and the first agricultural census](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/), reading into the record the 2025 decree ordering both operations and the resolution that created the committees. The project document is stated to fix objectives, methodology, timetable and the agricultural sample size; none of it is published, and neither is a date on which anyone will be counted.
 <!-- /narrative -->
 
 ## Governance and regulation

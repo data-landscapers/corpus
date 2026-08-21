@@ -1,15 +1,15 @@
 ---
 title: Sierra Leone — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-21
 place: SLE
 ledger_rows: 72
 not_held: 11
-record: 57bac222ef0f
+record: 02a4d8426fe7
 ---
 
 # Sierra Leone: status report
 
-*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (72 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/SLE/ledger.csv` (72 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -176,7 +176,7 @@ Sector registers are thinner. The National Digital Farmer Registry has [no enrol
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Multi-agency response to mobile-money fraud | [In development](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money) | Two-day national workshop to draft a roadmap, 18 to 19 August 2026 |
+| Multi-agency response to mobile-money fraud | [Implemented](https://techafricanews.com/2026/08/20/sierra-leone-validates-national-roadmap-to-tackle-mobile-and-digital-fraud/) | National roadmap validated at the close of an 18-19 August 2026 workshop |
 | National Data Protection Policy | [Implemented](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Approved by Cabinet, 21 April 2026 |
 | National Data Strategy | [Implemented](https://dial.global/work/strengthening-national-data-strategy-sierra-leone) | Updated over five months with DIAL support, aligned to the AU Data Policy Framework |
 

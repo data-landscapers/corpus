@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-21
 place: NER
 ledger_rows: 56
 not_held: 3
-record: bddacd0b8dd7
+record: b0f99946d80a
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/NER/ledger.csv` (56 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/NER/ledger.csv` (56 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -110,7 +110,7 @@ The regulator has real-time visibility of the networks it supervises, through a 
 | Filingue birth-certificate pilot | [Piloting](https://www.biometricupdate.com/202505/niger-starts-pilot-under-wuri-project-to-issue-birth-certificates-to-21k-under-fives) | Targeting 21,202 under-fives |
 | National Civil Register | [In development](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Instituted by ordonnance n2026-21 of 2026-04-22 |
 | National Nationality Register | [In development](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Instituted by ordonnance n2026-21 of 2026-04-22 |
-| National Population Register | [In development](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/) | National civil-status and identification awareness tour officially launched at Dosso 2026-08-14, after the Tahoua leg |
+| National Population Register | [In development](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/) | Sensitisation tour reaches Tillaberi as its third stop (2026-08-19) |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
