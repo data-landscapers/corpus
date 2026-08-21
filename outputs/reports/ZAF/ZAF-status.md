@@ -1,12 +1,12 @@
 ---
 title: South Africa — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-22
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 214
+sources_cited: 215
 sections_written: 37
 not_established: 1
 acquire_lines: 49
@@ -189,7 +189,7 @@ The regime stops short of the technologies now processing the data. [POPIA's app
 
 [Public perception of freedom of speech in South Africa fell 19.2 points over 2014-2023, to 69.4 out of 100 and 14th of 54 African states, even as the index's measured media freedom score rose](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-za.pdf) (2023). The measured position remains strong: [the Rights sub-category ranks 2nd of 54 at 80.0, with Freedom of Expression and Belief at 92.6](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-za.pdf), and [the Participation sub-category 3rd of 54 at 76.4, with Civil Society Space at 75.9, up 5.1 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-za.pdf).
 
-The channels for having a say are statutory rather than digital. [There is no online public participation platform: the index records 'No' against the indicator and against all five of its sub-measures](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [a right-to-information law is in force but the same index marks 'No' on both sub-measures covering whether the public can actually obtain records and ask for what is not already published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). What works is the gazette and the committee room: [Parliament's call for public contributions on the Electronic Communications Amendment Bill runs to 21 August 2026](https://www.apc.org/en/news/how-community-connectivity-pioneers-are-changing-south-africas-digital-policy-and-regulation), [consultation on the Digital Identity Regulations has closed with comments under evaluation for possible incorporation](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), and [nominations for Information Regulator seats will be published with CVs for public comment on candidate suitability before shortlisting](https://www.itweb.co.za/article/three-candidates-sought-for-inforeg-membership/KA3Wwqdzpon7rydZ).
+The channels for having a say are statutory rather than digital. [There is no online public participation platform: the index records 'No' against the indicator and against all five of its sub-measures](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [a right-to-information law is in force but the same index marks 'No' on both sub-measures covering whether the public can actually obtain records and ask for what is not already published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). What works is the gazette and the committee room: [Parliament's call for written submissions on the Electronic Communications Amendment Bill was extended by a month on 20 August 2026, to 16:00 on 21 September 2026](https://www.parliament.gov.za/press-releases/communications-committee-extends-deadline-public-input-electronic-communications-amendment-bill), [consultation on the Digital Identity Regulations has closed with comments under evaluation for possible incorporation](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), and [nominations for Information Regulator seats will be published with CVs for public comment on candidate suitability before shortlisting](https://www.itweb.co.za/article/three-candidates-sought-for-inforeg-membership/KA3Wwqdzpon7rydZ).
 
 Access to those channels is a skill that has to be taught, and [community network operators have been trained specifically to file submissions on communications regulation](https://www.apc.org/en/news/how-community-connectivity-pioneers-are-changing-south-africas-digital-policy-and-regulation) (2026). Where the estate meets land and resources, objection is local: [there is no national moratorium or binding resource condition on data-centre development, and civil society is arguing that growth this energy-hungry "necessitates a conversation about prioritising"](https://www.sundaytimes.timeslive.co.za/news/2026-07-22-south-africas-data-centre-gold-rush-risks-resource-crunch/) (July 2026), while [objectors to the Cape Town data-centre rezoning may appeal to the municipal Appeal Authority, whose ruling is the City's final administrative decision](https://trendsnafrica.com/equinix-clears-key-rezoning-hurdle-for-landmark-cape-town-hyperscale-data-centre-campus/) (August 2026).
 

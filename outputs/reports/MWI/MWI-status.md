@@ -1,12 +1,12 @@
 ---
 title: Malawi — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-22
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 153
+sources_cited: 154
 sections_written: 37
 not_established: 3
 acquire_lines: 44
@@ -187,7 +187,7 @@ Schooling divides the next generation before the market does: about 900 of Malaw
 ### Access to services
 <!-- include.access -->
 
-More than 885 people [signed a petition in about a day](https://malawi24.com/2026/07/17/hundreds-sign-macra-internet-petition/) in July 2026 asking MACRA to review internet prices, days after the regulator [approved tariff increases well below what the two operators had asked for](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/). The petitioners also want the regulator to [look into data-billing and bundle-depletion practices and publish what it finds](https://malawi24.com/2026/07/17/hundreds-sign-macra-internet-petition/). Industry's ask points the same way: [zero-rate traffic to government portals, and cut VAT and duties on entry-level smartphones](https://times.mw/ict-sector-eyes-policy-enforcement/) (January 2026), so that reaching a public service does not first cost a data bundle.
+Affordability is now a stated government target rather than only an industry ask. The ICT minister [called on 21 August 2026 for the 10 per cent surtax on internet services to be scrapped and the 17.5 per cent VAT on smartphones reviewed, setting a target of lifting mobile internet use from 12.5 per cent to at least 30 per cent by 2030, with MACRA evaluating Universal Service Fund mechanisms to subsidise consumer devices and fund digital-literacy work including a proposed one-tablet-one-student programme](https://www.itweb.africa/article/malawi-targets-smartphone-tax-relief/mQwkoq6Y9DpM3r9A); no budget measure or bill is on record. Industry had asked for the same in January 2026, adding [zero-rating of traffic to government portals](https://times.mw/ict-sector-eyes-policy-enforcement/), so that reaching a public service does not first cost a data bundle. Pressure from below runs the same way: more than 885 people [signed a petition in about a day](https://malawi24.com/2026/07/17/hundreds-sign-macra-internet-petition/) in July 2026 asking MACRA to review internet prices, days after the regulator [approved tariff increases well below what the two operators had asked for](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/), and the petitioners also want it to [look into data-billing and bundle-depletion practices and publish what it finds](https://malawi24.com/2026/07/17/hundreds-sign-macra-internet-petition/).
 
 The gate on the state's own services is the national ID, which is mandatory for [social assistance, including biometric verification of Affordable Inputs Programme beneficiaries](https://www.nrb.gov.mw), and for [opening a bank account](https://www.apc.org/en/news/malawi-dragging-its-feet-filling-legal-gaps-prevent-human-rights-violations). The document itself is not the cost barrier — [first registration and collection are free](https://www.nrb.gov.mw/faqs/) — and adult coverage is now close to universal, so what matters is who cannot obtain one. Refugees at Dzaleka can bank, through a branch opened in the camp, but [a registered SIM for mobile money generally requires a national ID most of them cannot get](https://www.crownagentsbank.com/case-study/advancing-financial-inclusion-for-one-of-the-most-excluded-populations-refugees/) (2024), and [non-nationals may register only on a valid immigration permit](https://www.nrb.gov.mw/faqs/).
 
