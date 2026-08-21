@@ -1,15 +1,15 @@
 ---
 title: Liberia — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-21
 place: LBR
-ledger_rows: 64
+ledger_rows: 65
 not_held: 8
-record: a58a6944c69d
+record: 1775d373564b
 ---
 
 # Liberia: status report
 
-*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (64 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/LBR/ledger.csv` (65 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -48,7 +48,7 @@ What did get built is payments. The central bank's [interoperable instant paymen
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Cybercrime Act 2025 | [In development, passed by the Legislature, awaiting presidential signature](https://www.liberianobserver.com/news/house-to-probe-data-breach-6-1m-foya-project/article_20b56386-12e0-4c66-b0d8-51bcbf475890.html) | Still unsigned by President Boakai as of Senator Moye's public statement, 1 July 2026 |
+| Cybercrime Act 2025 | [Enacted](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees) | Signed into force by the President 2026-08-19 |
 | Cybersecurity Regulations (LTA-REG-0013-2026) | [Implemented](https://liblaw.org/document/cybersecurity-regulations-lta-reg-0013-2026/) | Made by the LTA under the Telecommunications Act 2007, 13 January 2026, effective from the day of publication |
 | House investigation into the 2026 data breach | [In development](https://www.liberianobserver.com/news/house-to-probe-data-breach-6-1m-foya-project/article_20b56386-12e0-4c66-b0d8-51bcbf475890.html) | Investigation ordered by the House, February 2026 |
 | National Cybersecurity Act | [Planned](https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf) | Scheduled for Q3 2025 by the cybersecurity strategy action plan |
@@ -159,13 +159,14 @@ Government systems are being coordinated from the centre for the first time. [Ex
 |---|---|---|
 | African Telecommunications Union membership | [Implemented](https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/) | US$361,151.36 in arrears waived and voting rights restored at the Abuja plenipotentiary session, July 2026 |
 | Liberia-Gambia-Sierra Leone free roaming | [Implemented](https://www.telecomreviewafrica.com/articles/general-news/11208-west-african-nations-sign-roaming-agreement-to-cut-telecom-costs/) | Took effect 2 May 2025 |
+| West African banking supervision and cyber resilience cooperation | [Planned](https://www.liberianobserver.com/business/cbl-governor-calls-for-stronger-regional-banking-supervision-cyber-resilience/article_44277197-862f-4006-b315-bf940e33395c.html) | Central bank governor's call at a CSWAMZ virtual meeting 2026-08-19 |
 
 ### Data protection
 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Data sharing arrangement under the health memorandum | [Planned, deferred to an unpublished appendix](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | Deferred to an unpublished Appendix 5 |
-| Personal Information Act (data protection bill) | [In development](https://www.liberianobserver.com/politics/house-reviews-privacy-data-protection-bill/article_6675211a-e8bc-43c6-8e04-e73cbf26278a.html) | Recorded as before the legislature at the ID4Africa annual meeting, May 2026 |
+| Personal Information Act (data protection bill) | [Enacted](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees) | Signed into force alongside the cybercrime law 2026-08-19 |
 | Privacy enforcement against telecom operators | [Implemented](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license) | Orange Liberia fined LRD 4m for unauthorised issuance of a subscriber's SIM to a third party |
 
 ### Public debate and participation in policymaking

@@ -1,15 +1,15 @@
 ---
 title: Sudan — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-21
 place: SDN
-ledger_rows: 50
+ledger_rows: 51
 not_held: 13
-record: 690f5bdfecc3
+record: 126126dc9361
 ---
 
 # Sudan: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/SDN/ledger.csv` (50 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/SDN/ledger.csv` (51 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -80,7 +80,7 @@ The [Khartoum State data centre was restored and returned to operation in Octobe
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| SUDAPASS (national digital identity) | [Implemented](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/) | Named as the route for the central bank's customer-data update, 2026-08-17 |
+| SUDAPASS (national digital identity) | [Implemented](https://www.biometricupdate.com/202608/sudan-integrates-sudapass-digital-id-with-banking-sector-for-ekyc) | Banking-sector eKYC integration being finalised (2026-08-20) |
 
 ### Digital Payments and Fintech
 
@@ -113,6 +113,7 @@ The [Khartoum State data centre was restored and returned to operation in Octobe
 |---|---|---|
 | Baladna (national e-government platform) | [Implemented, expanding](https://spokesperson-sd.com/ar/archives/38364) | Adopted as the sole national platform for all foreign-trade transactions, permits issuable from any location |
 | Electronic oversight system for public bodies and government companies | [Planned](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) | Announced as forthcoming, 2026-08-10 |
+| Finance ministry platform for public-sector companies and authorities | [Implemented](https://www.suna.sd/posts/finance-ministry-launches-digital-platform-for-public-sector-companies-and-authorities) | Launched 2026-08-19 |
 | Judiciary digital-transformation project | [Planned, contract signed](https://alwatannewssd.com/88831/) | Judicial Authority signed a contract with the National Technical Company, financed by the finance ministry, vetted by the justice ministry's contracts department |
 | Nazaha public procurement platform | [Implemented](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) | Launched, reported 2026-08-12 |
 

@@ -1,16 +1,16 @@
 ---
 title: Ethiopia — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: ETH
-ledger_rows: 46
+ledger_rows: 47
 not_held: 5
-record: 9166051fd082
+record: 0ec39563de3e
 ---
 
 # Ethiopia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -38,6 +38,11 @@ Ethiopia is [named among the markets diversifying Africa's data-centre estate](h
 
 <!-- narrative: infrastructure--infra-energy -->
 The incumbent's renewable programme reached [39.72 MW of installed solar across 190 fully solar-powered sites, 867 hybrid systems and 1,114 lithium-ion storage units](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/), 12.72 MW of it added over the financial year, with diesel generator running time down by up to 40%. The figures are the operator's own and unaudited.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: infrastructure--gov-regional -->
+The regional transit corridor moved from agreement to build. Ethio telecom [entered active deployment of the Horizon Fiber Initiative, with end-to-end solution architecture finalised and site-material procurement complete](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/), on a multi-terabit terrestrial route linking Djibouti's subsea landings through Ethiopia and Sudan to Jeddah. No route length, capacity, cost, in-service date or transit-revenue projection is published, so the regional-hub claim rests on the geography alone — and one of the four territories the route crosses is at war.
 <!-- /narrative -->
 ### Access to services
 

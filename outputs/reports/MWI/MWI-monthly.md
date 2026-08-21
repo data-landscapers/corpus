@@ -1,16 +1,16 @@
 ---
 title: Malawi — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: MWI
-ledger_rows: 54
+ledger_rows: 56
 not_held: 57
-record: 7d78352c79b6
+record: 2374e840e770
 ---
 
 # Malawi: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -153,6 +153,11 @@ On 24 July the Defence Minister stated that the Malawi Defence Force intends to 
 
 <!-- narrative: inclusion--include-divides -->
 The universal service fund is in operation and funded from the regulator's annual budget allocation, and its [director general stated existing funding levels remain insufficient to meet the country's connectivity needs](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). A school connectivity project runs under it and the secondary-school skills work above is stated to draw on it. No income, balance or disbursement figure is held for any year, and the base holds no regulator annual report or fund account at all.
+<!-- /narrative -->
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The first usable figure for how many Malawians are online came from the operators' own trade association rather than from the state. Its report [puts 80% of the population offline despite 87% 4G population coverage, and estimates MWK 1.1 trillion of economic value and 490,000 jobs by 2030 from closing the usage gap](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/), setting out six policy priorities for the government and the regulator. The gap it identifies is usage and not coverage, which is a finding the base had no measurement for; the value estimate is modelled by an interested party, and among the six asks is cutting the mobile-service taxes its members pay. Against it stands [a presidential target of 80% internet usage by 2026](https://itweb.africa/article/malawi-president-orders-digital-revolution/kYbe9MXbob9vAWpG) that has never had a published baseline.
 <!-- /narrative -->
 ### Training and skills
 

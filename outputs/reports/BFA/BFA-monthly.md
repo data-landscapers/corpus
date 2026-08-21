@@ -1,16 +1,16 @@
 ---
 title: Burkina Faso — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: BFA
-ledger_rows: 46
+ledger_rows: 49
 not_held: 11
-record: ebe9bfe3670c
+record: f4d352bb6e3c
 ---
 
 # Burkina Faso: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -85,6 +85,11 @@ Citizen service centres stand at [two pilot sites under construction, with archi
 The Council of Ministers of 23 July restricted recourse to the fast-track procurement route to sovereignty, strategic character, threats to public order or service continuity, and humanitarian consequences of insecurity — at the same sitting that used the route for a schools package of about FCFA 38bn.
 
 On the statute book already in force, a press-freedom organisation [presented a report on 14 August arguing that cybercrime laws in Burkina Faso, Mali, Niger and Guinea are being used against journalists](https://thenationonlineng.net/mfwa-sahel-juntas-weaponising-cybercrime-laws-to-silence-journalists/), and urged repeal of the vague public-order and human-dignity provisions it says carry the prosecutions. The report is an advocacy account; the base holds no case record for it.
+<!-- /narrative -->
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+Policy work this month was procedural rather than substantive. The digital transition ministry [held a CASEM session on what it contributes to the RELANCE 2026-2030 national plan](https://lefaso.net/spip.php?article148658). The plan text, the digital component, any budget line and any target are all unpublished, so what the record holds is that the process is running and not what it is expected to produce.
 <!-- /narrative -->
 ### Data protection
 

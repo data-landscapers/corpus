@@ -1,16 +1,16 @@
 ---
 title: Eswatini — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 place: SWZ
-ledger_rows: 31
+ledger_rows: 32
 not_held: 9
-record: a64e581bcb93
+record: 3f83700e5f31
 ---
 
 # Eswatini: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
