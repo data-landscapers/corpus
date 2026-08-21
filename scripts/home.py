@@ -207,11 +207,20 @@ def country_boxes(by_place: dict[str, int]) -> str:
 
 def region_boxes(by_place: dict[str, int]) -> str:
     """Same shape as country_boxes, over the `X`-prefixed region and bloc
-    codes rather than countries (Bill, 2026-08-11, item 8)."""
+    codes rather than countries (Bill, 2026-08-11, item 8).
+
+    **The box opens the catalogue filtered to that place, not a landing page**
+    *(2026-08-21)*. It used to link `/regions/{code}/`, and nothing has ever
+    written that tree — `country.py` builds the 54 countries and `RENDER.md`
+    Step 4 says in as many words that the regions do not get a country-style
+    page. All eight boxes 404'd on the live home page. The catalogue reads its
+    filter state off the URL hash, so `#places={code}` lands on exactly the
+    records the box is counting, which is also the closer match: the number on
+    the box is a catalogue count, not a report."""
     codes = sorted(c for c in by_place if c.startswith("X"))
     top = max(by_place[c] for c in codes) or 1
     return "\n".join(
-        f'<a class="box" href="{SITE_BASE}/regions/{c}/" title="{c}"'
+        f'<a class="box" href="{SITE_BASE}/catalogue/#places={c}" title="{c}"'
         f' style="--fill:{by_place[c] / top:.3f}">'
         f'<span class="box__k">{e(REGION_NAMES.get(c, c))}</span>'
         f'<span class="box__n">{by_place[c]:,}</span></a>'
