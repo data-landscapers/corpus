@@ -1,13 +1,13 @@
 ---
-title: Standards — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Standards — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: gov.standards
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 6779eb14942d
+record: 55dbd60b3559
 ---
 
-# Standards: progress report, 2025-08-01 to 2026-08-21
+# Standards: progress report, 2025-08-01 to 2026-08-22
 
 *42 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,14 +17,14 @@ record: 6779eb14942d
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | eSIM adoption | No eSIM offer on record | [In development across the operators](https://techafricanews.com/2025/10/15/algeria-moves-toward-esim-integration-to-advance-digital-transformation/) | Advanced |
 | National accreditation and conformity network and its GEOLAB platform | Did not exist | [Network and its GEOLAB platform announced](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ) | Advanced |
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Artificial intelligence readiness score | ***Baseline not held*** | [50.9% of indicators fully ready, 32.7% partially ready and 16% insufficient, with data governance at 47 out of 100 and science-workforce availability at about 12%](https://pti.ao/unesco-conclui-que-angola-esta-preparada-para-adopcao-etica-e-inclusiva-da-ia/) | ***Baseline not held*** |
 
@@ -61,7 +61,7 @@ record: 6779eb14942d
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Regulator quality-of-service monitoring platforms | Sanctions issued off manual inspections, with no dedicated monitoring platform on record | [Platforms in the regulator's hands, with field inspections of three operators at Douala on 13 and 14 April 2026](https://techafricanews.com/2026/01/07/cameroon-strengthens-telecom-oversight-as-trb-receives-qos-monitoring-platforms/) | Advanced |
 
@@ -102,20 +102,20 @@ record: 6779eb14942d
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | State security reference framework auditor certification | ***Baseline not held*** | [Auditor certification running, with 88 certified and a further certification announced for experts bringing information systems into conformity](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | ***Baseline not held*** |
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National classification regime for official documents | Did not exist | [Four levels of classification with access limited to cleared agents, traceability of transmissions, reinforced archiving and a ban on sending sensitive documents over private messaging or unsecured platforms](https://actualite.cd/2026/03/20/rdc-vers-linstitutionnalisation-dun-regime-de-classification-et-de-protection-des) | Advanced |
 | Telecom and postal consumer complaint procedure | ***Baseline not held*** | [A binding escalation path: complain to the operator first and allow a maximum of 30 working days, then refer to the regulator by a free line, an online form or physical filing, with a reasoned opinion undertaken within 30 days](https://progreseco.com/face-aux-abus-de-services-des-telecoms-et-de-la-poste-les-usagers-appeles-a-porter-plainte-aupres-de-larptc/) | ***Baseline not held*** |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Transfer-pricing guidance | The approved guide dates from 2018 and has not been revised despite successive changes to the legislation and to international standards | [Unchanged. The chair of a chamber of commerce tax committee told a financial daily the file needs urgent intervention, and appeal committees have begun relying on statutory provisions requiring a minister-approved guide, with the result that some transfer-pricing penalties have been cancelled](https://www.alborsaanews.com/2026/07/29/1982823) | No change |
 | Sustainable Finance Taxonomy | Not held | [Under development by an inter-ministerial working group formed by the central bank with the finance, investment, environment and financial-regulatory authorities, ahead of official issuance](https://www.zawya.com/en/economy/egypts-cbe-forms-inter-ministerial-working-group-to-develop-sustainable-finance-taxonomy-423226) | ***Baseline not held*** |
@@ -128,7 +128,7 @@ record: 6779eb14942d
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Division of the data-protection mandate | Not stated on the record | [Executive holds policy, ESCCOM holds implementation, enforcement and oversight; no third institution named](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) | Advanced |
 
@@ -148,7 +148,7 @@ record: 6779eb14942d
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Cyber and Information Security Directive 2026 | An earlier directive in force, text and date not held | [In force as the country's first comprehensive AI-governance framework for financial institutions, with cloud-security rules, proportionality by size and risk and mandatory board-level accountability](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) | Advanced |
 | Government data exchange hub | Launched 2009 and stalled on funding and unclear mandates | [Named again by the communications minister as a National Data Exchange Hub government plans to establish for standardised and interoperable sharing between institutions, with no design, cost or timetable stated](https://dial.global/research/national-data-exchange-ghana-case-study/) | Advanced, re-announced |
@@ -162,7 +162,7 @@ record: 6779eb14942d
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Communications Equipment Vendor Class Licence guidelines | Did not exist | [Licence conditions for the category gazetted by the Communications Authority under the Kenya Information and Communications Act after public consultation, effective 30 days from the notice, and published for free download; the vendor rules carry a 12-month minimum warranty, returns, after-sales support and record-keeping duties](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf) | Advanced |
 | ODPC quality management system | Did not exist | [Quality management system launched with World Bank support, with the external certification audit still to come](https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats) | Advanced |
@@ -181,7 +181,7 @@ record: 6779eb14942d
 
 ## Libya
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Prohibition on card-payment surcharges | Did not exist | [Prohibited and enforceable; spreads of up to 20% reported before it](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/) | Advanced |
 
@@ -193,7 +193,7 @@ record: 6779eb14942d
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Copyright society rule on wholly AI-generated works | Did not exist; no rule on the registration of, or royalties for, AI-generated works is on record | [The statutory copyright body will not register works created entirely by artificial intelligence or distribute royalties on them; the rule is known only as reported, with no test stated for how much AI assistance is admissible](https://malawi24.com/2026/07/23/malawi-draws-the-line-on-ai-music/) | Advanced |
 | Blank media levy distribution methodology | No position held at 2025-08-01 | [Distribution rests entirely on records submitted by licensed disc-burning centres of songs customers ask to have copied, not on digital consumption; of roughly MWK 3bn collected in 2026, about MWK 1.44bn, some 48%, reaches rights holders, and tax reconciliation against a rights holder's taxpayer number is not automatic](https://malawi24.com/2026/08/04/ignoring-streaming-boom-cosoma-still-relies-on-cd-burning-data-for-royalty-payouts/) | ***Baseline not held*** |
@@ -219,7 +219,7 @@ record: 6779eb14942d
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Public device-identity verification platform | Did not exist | [Free public lookup against the global device registry held by an industry association; verification only, with no type approval, import control, blocking regime or penalty attached](https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/) | Advanced |
 | Electronic Government Systems Interoperability Regulation | ***Baseline not held*** | [Reviewed, stated to set standards for integrating and managing public information systems](https://techafricanews.com/2025/12/05/mozambique-prioritizes-data-governance-as-cornerstone-of-digital-sovereignty/) | ***Baseline not held*** |
@@ -232,14 +232,14 @@ record: 6779eb14942d
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | End of pre-registered SIM cards | Did not exist | [Practice ended](https://www.vanguardngr.com/2025/11/ncc-moves-to-end-pre-registered-sim-cards-tighten-telecom-regulations/) | Advanced |
 | National Cloud Computing and Technical Guidelines | Did not exist | [Signed and in force in NITDA’s framing, with implementation beginning immediately in phases and scope, obligations and thresholds unstated because no text is published](https://von.gov.ng/nigeria-unveils-sovereign-cloud-regulatory-frameworks/) | Advanced |
 | National Digital Infrastructure Assurance Framework | Did not exist | [Signed, with no published text and no stated assurance obligations, thresholds or commencement date](https://von.gov.ng/nigeria-unveils-sovereign-cloud-regulatory-frameworks/) | Advanced |
 | National Software Quality Assurance Framework | Did not exist | [Tiered risk with WCAG 2.1 AA for citizen-facing platforms; not adopted](https://prnigeria.com/2026/07/30/nitda-launches-national/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Automated AML baseline standards | Did not exist | [In force; the test shifts to governance, integration and explainability](https://techafricanews.com/2026/03/12/cbn-mandates-automated-aml-systems-across-nigerian-financial-institutions/) | Advanced |
 | Crypto trade reporting tied to TIN and NIN | Did not exist | [Trades reported against TIN and NIN, aligned to the OECD framework](https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/) | Advanced |
@@ -248,20 +248,20 @@ record: 6779eb14942d
 | Nigerian Digital Trustmark | Did not exist | [In issue](https://techafricanews.com/2025/10/10/nigeria-launches-digital-trustmark-initiative-to-strengthen-online-safety-and-transparency/) | Advanced |
 | Draft DPI technical standards and the Nigerian DPI Centre | In draft (2025-04) | [Still in draft](https://www.biometricupdate.com/202504/nigerias-it-agency-seeks-feedback-on-draft-technical-standards-for-dpi) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Migration of government identity to the .gov.ng domain | Did not exist | [Government identity still exposed on foreign domains](https://www.vanguardngr.com/2026/01/how-foreign-domains-compromise-digital-identity/) | Advanced |
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Electronic-government interoperability framework | None published | [RGEA v2.1, published by RISA and based on TOGAF, in force to govern government-wide ICT architecture standards; distinct from the 2019 dissertation's named 'interoperability framework', which the base still holds no separate instrument for](https://dr.ur.ac.rw/handle/123456789/1229) | Advanced |
 | Cross-border data-exchange conformance | ***Baseline not held*** | [Identification, immigration and technology authorities convened with two other states on trust chains, interface contracts and cross-border verification toward a federated architecture, with no national conformance profile or adoption instrument held](https://techreviewafrica.com/news/5165/) | ***Baseline not held*** |
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Francophone West African AI governance guidelines | Did not exist | [A common reference framework recommending transparent systems, stronger data protection, skills, bias mitigation, local innovation and digital sovereignty; it complements rather than replaces national strategies](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
 
@@ -273,11 +273,11 @@ record: 6779eb14942d
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | ICT and Media Regulators Forum | ***Baseline not held*** | Implemented (2026-07-31) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Crypto-asset service provider licensing | 300 licences (2025-12-31) | [Licensing of centralised crypto-asset service providers is in force, but the regulator states the model has no purchase on decentralised finance - protocols with no company, board or natural person to hold accountable - and plans to attach obligations elsewhere; no instrument for DeFi is published](https://www.itweb.co.za/article/sas-crypto-rules-hit-decentralised-finance-wall/KA3Ww7dzpmnqrydZ) | No change |
 | AI-in-finance regulatory framework | ***Baseline not held*** | Planned (2026-07-16) | ***Baseline not held*** |
@@ -291,30 +291,30 @@ record: 6779eb14942d
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Government Enterprise Architecture and e-GIF | The 2021 architecture and framework at their five-year mark, renewal not begun (2025-08) | [Renewed documents delivered with the e-Governance Academy and World Bank support; rollout not reported](https://ega.ee/uganda-renewed-digital-government-frameworks/) | Advanced |
 | National Monitoring and Evaluation System reporting quality | ***Baseline not held*** | [Gaps and inconsistencies across agency submissions; the remedy is a working-group meeting and a request for consolidated annual performance reports; no error rate, vote count or remediation date](https://www.publicservice.go.ug/public-sector-transformation-programme-pstp-secretariat-intensifies-efforts-to-improve-the-quality-and-consistency-of-performance-reporting-across-ministries-departments-and-agencies/) | ***Baseline not held*** |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Ministry of Health ICT Standards and Guidelines | In force. The document states that the national electronic health record is the approved patient-level health care information system, in accordance with a circular of 5 April 2006 - the first held primary for that approval | [Unchanged; no revision, replacement or superseding health-data standard is held twelve years after issue, and through the record's migration to fingerprint-based patient identity](https://dspace.unza.zm/server/api/core/bitstreams/d584c52e-dcba-4dec-bd58-910fe11976cb/content) | No change |
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National artificial-intelligence technical standards | Did not exist | [Proposed; no standard published](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Advanced |
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | AFRINIC Constitution (Bylaws) | ***Baseline not held*** | [Fifth version in force since December 2020; the Bylaws Review Committee ran a first consultation from 2026-04-20, extended on 2026-05-08 to close 2026-05-17, and published a draft amended Constitution on 2026-08-04 for a second consultation closing 2026-08-21. It names membership, powers of members, the Nomination Committee and appointment of directors as the most heavily revised provisions, and a new Article 3 would write into the constitution that AFRINIC is the Regional Internet Registry for Africa and the Indian Ocean and that its governance will be periodically reviewed against internationally recognised governance standards. The published-draft milestone slipped about six weeks against the Committee's own indicative timetable while the Special General Members Meeting stayed in September 2026, and no consolidation or analysis of the first round's submissions is published; a second draft was open for comment from 4 to 21 August 2026. Proposed article 9.8 would let a two-thirds board vote revoke the nomination committee and restart an election the board itself had judged to have failed, with the same board defining the failure, deciding the case and triggering the consequence before any independent review; the current rule barring a conflicted director from voting would be dropped and recusal relocated into board policy, which matters because Mauritius company law lets an interested director vote after disclosure unless the constitution says otherwise; article 16 opens a wide advice channel with no register of advice given or received; and article 17.5 would create an acting chief executive office with no maximum term and no stated link to board seat 9 or to removal rules. A cyberdiplomacy consultant who had opposed early constitutional reform argued on 19 August that the article-by-article rationale now gives members enough to test the draft against the failures it is meant to fix](https://circleid.com/posts/afrinics-constitution-is-africas-next-internet-stress-test) | ***Baseline not held*** |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | African Common Proposals for WRC-27 | ***Baseline not held*** | [Preliminary African Common Proposals for WRC-27 and RA-27 are to be consolidated from the recommendations of the African Telecommunications Union's WRC-27 working groups at the third African Preparatory Meeting, Tunis, 7-11 September 2026, co-organised with Tunisia's Agence Nationale des Frequences; no proposal text is published](https://atuuat.africa/wp-content/uploads/2026/07/1-APM27-3_Invitation_Letter.pdf) | ***Baseline not held*** |
 | Continental ICT standardisation alignment | ***Baseline not held*** | [Talks opened on a coordinated continental approach across the standards lifecycle, from development through harmonised adoption and implementation by countries, naming fragmentation and the failure to translate continental and international standards into national frameworks as the problem](https://techreviewafrica.com/news/6809/atu-gist-and-arso-seek-stronger-alignment-of-ict-standards-across-africa) | ***Baseline not held*** |

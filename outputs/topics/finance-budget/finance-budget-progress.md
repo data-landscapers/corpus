@@ -1,13 +1,13 @@
 ---
-title: Domestic budget appropriations and expenditure — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Domestic budget appropriations and expenditure — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: finance.budget
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; RWA; SEN; SDN; TZA; ZMB; ZWE; XAF; XWA
-record: 1bfb7df36d68
+record: 5f6ddaea9c4e
 ---
 
-# Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-21
+# Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-22
 
 *35 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 1bfb7df36d68
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Communications programme appropriation | Kz 229.3bn appropriated for 2025 | [Kz 159.2bn appropriated for 2026, of which fourth-generation expansion is Kz 62.7bn, down 42%, with the third-generation coverage line deleted](https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/) | Regressed |
 | Supplementary credit for identity-card universalisation | Did not exist | [US$218,500,000 of supplementary credit assigned to the justice ministry, released against payment need and treasury availability](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-169-25-de-19-de-setembro/) | Advanced |
@@ -67,7 +67,7 @@ record: 1bfb7df36d68
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Lands ministry cadastre modernisation programme | FCFA 1,567,500,000 appropriated for FY2025, up from FCFA 1,203,574,000 in FY2024 | [FCFA 874,046,000 proposed for FY2026, a 44.2% cut on the FY2025 appropriation and below the FY2024 level](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) | Regressed |
 | Telecommunications ministry digital-ecosystem programme | FCFA 10,330,875,000 plus FCFA 1,037,044,000 appropriated for FY2025, unchanged by the mid-year revising ordinance | [FCFA 19,494,457,000 proposed for FY2026, a 71.5% increase on the FY2025 combined appropriation, at proposed stage only](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) | Advanced |
@@ -123,7 +123,7 @@ record: 1bfb7df36d68
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital ministry appropriation | FCFA 60,780,440,826 voted for FY2025, no outturn | [FCFA 83,275,503,595 voted for FY2026, up 37%, no outturn](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Advanced |
 | FY2024 digital budget execution | None published, the settlement law not yet voted | [FCFA 69,673,862,396 voted, FCFA 54,129,746,061 revised and FCFA 54,052,436,801 spent, 77.6% against the vote and 99.9% against the revision](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf) | Advanced |
@@ -140,7 +140,7 @@ record: 1bfb7df36d68
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital economy section appropriation | FC 60,627,481,411 domestic for FY2025, revised, with no original appropriation published | [FC 81,698,223,741 domestic for FY2026, appropriated](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | Advanced |
 | Posts and telecommunications section appropriation | FC 40,138,356,283 domestic for FY2025, revised | [FC 53,840,917,417 domestic for FY2026, appropriated](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | Advanced |
@@ -149,7 +149,7 @@ record: 1bfb7df36d68
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | ICT sector public investment | Not held | [EGP 13bn of public investment allocated to the communications and information technology sector in the 2025/26 plan, against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing](https://moic.gov.eg/news/2134) | ***Baseline not held*** |
 
@@ -181,14 +181,14 @@ record: 1bfb7df36d68
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Domestic digital-transformation appropriation | ***Baseline not held*** | [GHS 729,947,850 for ICT Infrastructure, Regulation and Capacity Building, of which GHS 591,947,850 is domestically funded, and GHS 100,000,000 for ICT Capacity Development, under the communications ministry's 2026 vote; the domestic figure resolves to GHS 536,745,448 for the information technology agency, GHS 25,346,198 for the cyber-security authority, GHS 17,308,560 for the ICT capacity centre, GHS 9,720,400 for the data-protection regulator and GHS 2,827,244 for the domain registry](https://www.mofep.gov.gh/sites/default/files/budget-statements/Appropriation%20%28%20No.%202%29%20Act%2C%202025%20Act%201163_0.pdf) | ***Baseline not held*** |
 | Multi-year commitment for three revenue platforms | ***Baseline not held*** | [Approved with published benefit projections and no disclosed cost, contract duration or termination terms](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) | ***Baseline not held*** |
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital economy and creative industry thematic allocation | KSh 12.7bn for FY2025/26 | [KSh 8.6bn for FY2026/27, a second consecutive cut from KSh 16.3bn in FY2024/25](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | Regressed |
 | Vote 1122, State Department for ICT and the Digital Economy | KSh 16,188.8m appropriated for FY2025/26 | [KSh 12,763.8m appropriated for FY2026/27, with FY2025/26 itself revised down to KSh 12,215.1m at the first supplementary](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf) | Regressed |
@@ -204,7 +204,7 @@ record: 1bfb7df36d68
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Device assembly allocation to the science and technology university | The base carries no prior-year figure | [MWK 1.1bn allocated for assembling laptops and tablets at the Malawi University of Science and Technology - the nearest digital allocation to schools in that budget, and directed at higher education](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
 | National Birth Registration Campaign appropriation | The base carries no statement of the campaign's cost or funding before 2025-08-01 | [The campaign requires MWK 17.8bn in total to register about 4.6 million children across seven phases in 25 districts; MWK 5.4bn was allocated in the 2025/26 financial year for phases 1 and 2, leaving MWK 12.4bn unfunded](https://malawi24.com/2026/01/16/k17-8bn-push-to-register-4-6-million-children/) | ***Baseline not held*** |
@@ -236,21 +236,21 @@ record: 1bfb7df36d68
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Cyber Security Fund appropriation | Did not exist | [Provided for in statute from 2026-07-01, with state appropriations named among its revenue lines alongside a flat 1% levy on licensed cybersecurity providers; no line for it appears in the FY2026 state budget final maps, which were set before the law was published, and INTIC has no capital allocation at all in FY2026](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244) | Advanced |
 | State budget information technology and digital appropriation lines | ***Baseline not held*** | [FY2026 appropriations: CEDSIF MZN 757,832,010 including MZN 100,000,000 of wholly domestic investment; the civil identification directorate MZN 230,819,650; the statistics institute MZN 211,296,440 centrally with MZN 212,543,130 more across eleven provincial delegations; the e-government institute MZN 93,280,160; INTIC MZN 73,636,370; and the communications and digital transformation ministry's central apparatus MZN 111,260,610 of operating money against a capital budget of MZN 2,637,800,000 that is entirely externally financed. Only CEDSIF and the ministry carry any investment line at all](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais) | ***Baseline not held*** |
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Education technology appropriation, second line | RWF 1,270,347,338 appropriated for 2025/26 | [RWF 832,894,405 for 2026/27, down 34.4% year on year and 74% against 2024/25](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | Regressed |
 | Education technology integration appropriation | RWF 23,522,003,941 appropriated for 2025/26 | [RWF 28,956,710,022 for 2026/27, up 23.1%, with the last outturn at 81.7% of voted](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | Advanced |
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital-sector appropriation | FCFA 16.1bn appropriated for FY2024 under the finance law | [FCFA 31.1bn for FY2025, up 93.2%, within a FCFA 58.4bn ministry envelope](https://www.digitalbusiness.africa/senegal-le-ministere-charge-du-numerique-a-un-budget-de-584-milliards-fcfa-en-2025-contre-427-milliards-fcfa-en-2024/) | Advanced, FY2025 only |
 | Ministry vote and investment allocation for 2026 | A FCFA 58.4bn ministry envelope for FY2025, adopted in committee | [A FCFA 81.06bn ministry vote for FY2026 with FCFA 58.2bn to investment, and stated priorities of universal coverage, free connectivity, a sovereign cloud, biometric digital identity, administrative interoperability and a citizen one-stop shop](https://www.ecofinagency.com/news-digital/0912-51246-senegal-allocates-60-of-2026-digital-ministry-budget-to-investment) | Advanced |
@@ -263,19 +263,19 @@ record: 1bfb7df36d68
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Domestic state appropriation for digital transformation | None established | [Vote 68 proposed at TZS 222,589,451,000 for 2026/27 against TZS 291,533,139,000 approved for 2025/26, split TZS 13.15bn recurrent and TZS 209.44bn development; domestic development finance is unchanged to the shilling at TZS 98.48bn while external development finance falls from TZS 178.57bn to TZS 110.96bn, taking the external share of development spending from 64% to 53%; TZS 147,768,795,247 of the 2025/26 vote had been released by March 2026, 50.6%](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf) | No change, domestic development finance unchanged |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | K255 million digital infrastructure and quality-of-service allocation | No appropriation line found for any earlier year; this is the first domestic budget line the wiki holds for Zambia | [ZMW 255,000,000 approved for upgrading digital infrastructure and quality of service, particularly rural, for fiscal year 2026](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/) | Advanced |
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital and information technology appropriation in the 2026 national budget | None published | [Vote 23 appropriates ZiG258,292,000 to ICT ministry policy and administration and ZiG505,225,000 to ICT development and promotion; Vote 18 appropriates ZiG1,470,460,000 to civil registration and ZiG994,652,000 to migration management; ZiG200,000,000 for revenue authority automation was proposed in the 2026 budget statement](https://www.veritaszim.net/sites/veritas_d/files/Appropriation%20Act%202026%2C%20Act%20No.%206%20of%202025.pdf) | Advanced |
 | Citizens budget | Published for the 2025 financial year | [Unchanged; no later round assessed](https://internationalbudget.org/sites/default/files/country-surveys-pdfs/2025/open-budget-survey-zimbabwe-2025-en.pdf) | No change |
@@ -283,7 +283,7 @@ record: 1bfb7df36d68
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Share of the African Union's budget financed by its own members | About 22 to 25 per cent, a decade after the 2016 Kigali Decision | [Unchanged on the newest figure held; the Union's 2025 programme budget was 77.5 per cent externally funded](https://www.theafricareport.com/419860/afdb-says-africa-must-fund-its-own-growth-as-aid-model-frays/) | No change |
 

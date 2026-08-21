@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; LBR; MUS; NGA; RWA; ZAF; TGO; ZMB; ZWE
-record: 083268ead2b2
+record: 967f68545525
 ---
 
 # ICT Industry: monthly update, July 2026

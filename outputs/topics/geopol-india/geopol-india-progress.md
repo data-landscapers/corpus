@@ -1,13 +1,13 @@
 ---
-title: India activities — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: India activities — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: geopol.india
 places: AGO; BDI; TCD; CIV; EGY; ETH; KEN; LSO; LBY; MOZ; NAM; RWA; ZMB
-record: c70c16631210
+record: ebdbb02225f6
 ---
 
-# India activities: progress report, 2025-08-01 to 2026-08-21
+# India activities: progress report, 2025-08-01 to 2026-08-22
 
 *13 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: c70c16631210
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | India credit line | A US$200m defence credit line, with digital public infrastructure, space technology and capacity building a separate pledge carrying no money | [Unchanged; no contract, vendor or engagement on record, confirmed at a reconcile pass in July 2026](https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-the-joint-press-statement-with-the-president-of-angola/) | No change |
 
@@ -35,13 +35,13 @@ record: c70c16631210
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Technology park | Special economic zone operating since 2004 across more than 600 hectares, seeking US$311m for its plan to 2028, with an Indian export-credit bank the original infrastructure lender | [Same targets, with the raise not established as secured and no Indian commitment reported since; the state portfolio report puts the zone at a first 180-hectare tranche of earthworks, roads and utilities complete, a business hotel built and about ten firms housed, and records the operating company among the digital holdings whose results fell in 2023](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-vitib-seeks-311-mln-to-accelerate-its-development) | No change |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | India-Egypt technology cooperation | The base held no source at all on India-Egypt technology cooperation at 2025-08-01 | [The two industry ministers agreed a joint study of priority sectors for industrial and investment integration, to be prepared by Egyptian authorities with Invest India and covering market needs, value chains, joint manufacturing, incentives and tariff and non-tariff barriers, with financial technology among the named priority sectors; they discussed linking the two countries' payment systems and settling bilateral trade in local currencies, and Egypt proposed an Egyptian-Indian industrial integration platform matching companies on joint production, component exchange and supplier development](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/) | ***Baseline not held*** |
 
@@ -53,7 +53,7 @@ record: c70c16631210
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Kenya-India-Italy sovereign AI partnership | Did not exist | [Targets 100 AI-deployment programmes by 2030 on multilingual low-bandwidth voice AI](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/) | Advanced |
 
@@ -65,13 +65,13 @@ record: c70c16631210
 
 ## Libya
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Libya and India cooperation on AI and quantum skills | Did not exist | [Agreed; no programme document or numbers published](https://libyaherald.com/2026/02/libyan-indian-cooperation-to-qualify-national-cadres-in-quantum-computing-and-artificial-intelligence) | Advanced |
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | India-Mozambique digital or technology cooperation agreement | Not held | [An Information Technology Park delivered under an Indian concessional Line of Credit; the brief states no location, value or completion date for the park](https://www.mea.gov.in/Portal/ForeignRelation/India-Mozambique-April-2025.pdf) | Advanced |
 
@@ -84,12 +84,12 @@ record: c70c16631210
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Indian-origin technology investment | The capital listed among future edge data-centre sites within a continental plan, with no site, capacity, date or investment figure | [Unchanged; nothing further held as at 2026-08-05](https://www.datacenterdynamics.com/en/marketwatch/nxtra-airtels-leap-into-africas-growing-data-center-market) | No change |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Edge data centre plan | The operator's chief executive listed Zambia, alongside four other countries, as a high-potential country where it will create data centres, describing them as future edge locations | [Unchanged; no site, investment figure, capacity or date has been reported since](https://www.datacenterdynamics.com/en/marketwatch/nxtra-airtels-leap-into-africas-growing-data-center-market) | No change |

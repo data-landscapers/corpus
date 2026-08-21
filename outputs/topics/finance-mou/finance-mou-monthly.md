@@ -1,21 +1,25 @@
 ---
 title: MoUs and other agreements — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 subject: finance.mou
-places: DZA; COD; EGY; GAB; GHA; KEN; LSO; RWA; SYC; TZA; TGO; UGA; ZWE
-record: 79b7b2374774
+places: DZA; CIV; COD; EGY; GAB; GHA; KEN; LSO; RWA; SYC; TZA; TGO; UGA; ZWE
+record: f894fb2dc5ee
 ---
 
 # MoUs and other agreements: monthly update, July 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
 On 26 July Algeria and Oman [discussed digital cooperation](https://www.echoroukonline.com/الجزائر-وسلطنة-عمان-تبحثان-تعزيز-التع) across artificial intelligence, data centres, fintech and space, with the Omani ministry and the Oman Investment Authority offering flexible partnership arrangements. No instrument was concluded at the meeting, so it stands as planned.
+
+## Cote d'Ivoire
+
+The month's one agreement is continental in scope and carries no money. An Ivorian mobile operator, an Indian technology company and a continental investment council [signed a five-year memorandum of agreement dated 7 August 2026 and fully executed on 19 August, covering national fibre backbones, 4G and 5G, submarine cable landing stations, internet exchange points, telecom towers, and digital identity, national interoperability, e-government and digital payment platforms](https://enterpriseai.economictimes.indiatimes.com/news/industry/blue-cloud-softech-signs-5-year-africa-pact-for-telecom-digital-infrastructure-projects/133366356). No financial commitment is disclosed and no Ivorian project, site or timetable is named; the memorandum is known only from the Indian party's regulatory filing.
 
 ## DR Congo
 

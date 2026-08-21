@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-22
 place: CIV
 ledger_rows: 63
 not_held: 10
-record: 5547c1e3e344
+record: b0c5b65c524d
 ---
 
 # Cote d'Ivoire: monthly update, July 2026

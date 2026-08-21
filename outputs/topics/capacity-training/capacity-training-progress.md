@@ -1,13 +1,13 @@
 ---
-title: Training and skills — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Training and skills — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: capacity.training
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: 8c7729921b32
+record: f0fa6c06597b
 ---
 
-# Training and skills: progress report, 2025-08-01 to 2026-08-21
+# Training and skills: progress report, 2025-08-01 to 2026-08-22
 
 *51 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 8c7729921b32
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | "7.77" National Digital Empowerment programme | Did not exist | [64,508 registrations across all 58 wilayas, 30% choosing AI](https://techreviewafrica.com/news/5502/algeria-launches-national-digital-empowerment-programme-targeting-citizens-aged-7-to-77) | Advanced |
 | National AI vocational-training programme | Did not exist | [Running with an incubator attached; no cohort size held](https://techreviewafrica.com/news/5172/algeria-launches-artificial-intelligence-training-programme-to-enhance-digital-skills) | Advanced |
@@ -25,7 +25,7 @@ record: 8c7729921b32
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Vendor cybersecurity training commitment | US$25m of a US$170m investment earmarked for a national cybersecurity agency plus vendor academy training | [Unchanged; no trainee count, cohort, curriculum or disbursement published in the fourteen months since](https://techafricanews.com/2025/06/25/cybastion-and-angola-telecom-announce-170m-investment-to-boost-angolas-digital-sovereignty/) | No change |
 | Space-technology training and certification programme | ***Baseline not held*** | [More than 5,600 university students given free satellite access and more than 100 students in a Luanda cohort alongside operators and manufacturers](https://techreviewafrica.com/news/5761/over-5600-university-of-namibe-students-gain-free-internet-access-through-angosat-2) | ***Baseline not held*** |
@@ -67,7 +67,7 @@ record: 8c7729921b32
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | AI workforce target of 60,000 specialists by 2040 | The target unveiled: 60,000 specialists by 2040 including 40% women, 12,000 direct jobs, and 0.8 to 1.2% of GDP | [The strategy still being developed a year on; AI modules in curricula named among ten priorities, with a roadmap tabled but no adoption, budget line or trainee count](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) | Stalled |
 | Operator and higher-education skills partnership | Did not exist | [A memorandum signed 2026-06-03 and 115 internships recruited, in disciplines from telecommunications and cybersecurity to finance and law](https://techafricanews.com/2026/07/22/camtel-and-minesup-launch-115-internship-opportunities-to-boost-youth-employability/) | Advanced |
@@ -110,7 +110,7 @@ record: 8c7729921b32
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Certified cyber-specialist programme | None published | [About 250 trained in the first half of 2026 plus 88 auditors certified, against 500 by year-end and 1,200 in three years](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | Advanced |
 | Digital skills programme with a US vendor | ***Baseline not held*** | [Second annual summer tech camp concluded under the Africa DigiEmpower programme, training hundreds of young people in AI, cybersecurity and digital awareness across 20 Ivorian cities; no cumulative headcount published](https://techafricanews.com/2025/09/19/cybastion-drives-cote-divoires-digital-transformation-with-ambitious-tech-initiatives/) | Advanced |
@@ -130,14 +130,14 @@ record: 8c7729921b32
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Employment and skills platform | Did not exist | [Live: jobseekers register profiles and skills and employers post needs, intended to build a national skills database](https://rdc-monde.com/onem-lancement-dune-application-numerique-mikuba-pour-mieux-cartographier-les-competences-et-les-besoins-des-entreprises/) | Advanced |
 | National digital plan human-capital targets | No numeric national training target is held at the window's start | [250,000 young people to be trained in artificial intelligence, cybersecurity and programming, at least 3,000 in advanced digital skills, about 1,000 teachers in digital literacy and 30,000 cybersecurity jobs, all to 2030](https://www.biometricupdate.com/202601/drc-envisages-a-functional-digital-government-platform-by-march) | Advanced |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | AI Capacity Building Initiative for Universities | Running since 2022 under a ministry agreement with a technology vendor, with three rounds completed and no cumulative figure published at 2025-08-01 | [Fourth round trained 1,090 students from 10 public, national and private universities producing 445 projects, plus a renewable-energy hackathon of 105 students in 21 teams; cumulative since 2022 reported as 2,710 students and 763 projects](https://gate.ahram.org.eg/News/5882834.aspx) | Advanced |
 | Cybersecurity SuperHero Academy | Two editions delivered, whose combined intake the national telecommunications institute states the third edition's target roughly matches; the base carries no dates or intake figures for them | [Third edition targeting more than 6,000 trainees across 17 governorates in three age-banded stages from age 8 upward, delivered through institute premises and innovation centres, with the national emergency readiness centre, the regulator and two technology partners](https://gate.ahram.org.eg/News/5725761.aspx) | Advanced |
@@ -152,7 +152,7 @@ record: 8c7729921b32
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | AI, robotics and cybersecurity training at innovation hubs | Did not exist | [Announced; no start date, provider or cohort size given](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) | Advanced |
 | Digital Eswatini change agents | Did not exist | [In training across ministries](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Advanced |
@@ -173,7 +173,7 @@ record: 8c7729921b32
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital Parliaments Project Africa | Did not exist | [Launched by the POPVOX-DPP Foundation with the House Democracy Partnership; launch cohort of the parliaments of Ghana, Botswana and South Africa, the National Assemblies of the Gambia and Senegal, and the Pan-African Parliament; no funder, budget, duration or work programme stated](https://opemsuo.com/digital-parliaments-project-africa-launched-in-ghana-to-strengthen-legislative-processes/) | Advanced |
 | Education fund and UNESCO AI teacher training programme | Did not exist | [A memorandum to train teachers and instructors in technical and vocational institutions in digital and AI skills, placed under UNESCO's Global Skills Academy and delivered through a three-month master-trainer cascade ending in examinations, with commercial partners named](https://ghanaiantimes.com.gh/getfund-unesco-sign-mou-ai-programme/) | Advanced |
@@ -197,7 +197,7 @@ record: 8c7729921b32
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | HerSpace | Did not exist | [Training 150 justice-sector officials on digital evidence, with no value disclosed](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Advanced |
 | Mastercard Foundation EdTech Fellowship | Eight-month cohorts for growth-stage companies | [Cohort 4 runs 18 months for early-stage companies, offering each up to US$100,000 in equity-free funding and scoped to learners with disabilities, refugee and rural communities, and girls and young women; 36 Kenyan companies since the 2023 launch, on iHUB's figures](https://techafricanews.com/2026/07/29/ihub-selects-12-kenyan-edtech-startups-for-mastercard-foundation-fellowship/) | Advanced |
@@ -223,7 +223,7 @@ record: 8c7729921b32
 
 ## Libya
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | IsDB cybersecurity and AI-risk training for central bank officials | Did not exist | [Run once; participant numbers, curriculum and standard unstated](https://libyaherald.com/2026/08/isdb-conducts-training-for-cbl-officials-on-sukuk-treasury-operations-and-ai-risk-management/) | Advanced |
 | Professional master's institute in AI and cybersecurity | Did not exist | [Launched by the Ministry of Planning with UNDP](https://alwasat.ly/news/libya/496687) | Advanced |
@@ -238,7 +238,7 @@ record: 8c7729921b32
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Airtel Nzeru Connect school programme | Running as Malawi's part of a corporate foundation and UNICEF partnership begun in 2021; the base holds no Malawi-specific school count before 2025-08-01 | [36 schools connected with a further nine scheduled in 2026, ICT laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/) | Advanced |
 | Airtel Nzeru Fund STEM scholarships | Did not exist | [A corporate foundation funds 25 undergraduates from low-income households at the science and technology university, covering tuition, stipend, accommodation, data and a portable Wi-Fi device; the first 25 beneficiaries were named on 18 August 2026, drawn from 17 districts and taking eight programmes including computer systems, cyber security, sustainable energy engineering and metallurgy](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/) | Advanced |
@@ -277,7 +277,7 @@ record: 8c7729921b32
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | European Union education and skills agreement | Did not exist | [EUR 50m signed to prepare Mozambican students for a digital and sustainable future; no recipient organisation, work plan or disbursement named](https://www.eeas.europa.eu/delegations/mozambique/%E2%82%AC178-million-mozambique-%E2%80%93-eu-global-gateway-agreements-boost-clean-energy-digital-inclusion-and_en) | Advanced |
 | Cybersecurity training under the digital acceleration project | ***Baseline not held*** | [14 training actions for 30 INTIC technicians, 2,032 professionals trained across public bodies, private firms and the media, and 14 national SIM3 certifications](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/) | ***Baseline not held*** |
@@ -297,17 +297,17 @@ record: 8c7729921b32
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Diaspora health-workforce registry | Did not exist | [A register standing on no stated legal basis](https://fmino.gov.ng/fg-commends-nigerian-health-professionals-in-diaspora-for-strengthening-healthcare-delivery/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Deep-technology teaching laboratories in a private university | Did not exist | [Planned; lab count, cost and funding not stated](https://itweb.africa/article/nigeria-expands-deep-tech-skills-pipeline/nWJadvbND1yvbjO1) | Advanced |
 | Microsoft AI training commitment | Committed (2025-02) | [US$1 a trainee, which drew feasibility scepticism](https://techcabal.com/2025/02/19/microsoft-pledges-1m) | No change |
 | Talent-export platform partnership | Running (2025-04) | [Running](https://www.wearetech.africa/en/fils-uk/news/public-management/nitda-partners-with-doballi-to-boost-employment-for-nigerian-tech-talents) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Abuja Centre for Entrepreneurship training-of-trainers programme | Did not exist | [First KOICA-backed cohort of trainers in business management and artificial intelligence, building a trainer pool for the MSME sector; cohort size and cost not stated](https://www.linkedin.com/posts/koica-nigeria_koica-koicanigeria-ace-activity-7491490192424439808-ToJ3) | Advanced |
 | Africa AI Upskilling Programme | Did not exist | [US$1.1m from Google.org to FATE Foundation for a train-the-trainer AI curriculum at 10 Nigerian universities, with the African Institute for Mathematical Sciences](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/) | Advanced |
@@ -324,7 +324,7 @@ record: 8c7729921b32
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Coding academy | Operating on about US$7.9m including a government counterpart, with 118 students across two intakes in September 2021 | [The same financing, now the exclusive admission route into the new computing institute's first two intakes](https://www.minecofin.gov.rw/news-detail/rwanda-coding-academy-receives-frw-71-billion-support-from-koica) | Advanced, becomes sole feeder |
 | Inclusive digital transformation centre | US$275.7m across an endowment and a centre, from 2022 to 2035, targeting 10,000 learners | [Unchanged; no progress figure against the target at any date](https://www.cmu.edu/news/stories/archives/2022/september/carnegie-mellon-university-and-mastercard-foundation-partner-to-drive-youth-led-digital) | No change |
@@ -332,7 +332,7 @@ record: 8c7729921b32
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Sovereign-cloud engineer training | Did not exist | [About 100 engineers to be trained in advanced cloud technologies, with infrastructure in testing and training not begun](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/) | Advanced |
 | Young Africa Works Senegal | US$200m committed, the programme running to 2030 | [US$200m committed; no disbursement, beneficiary or mid-term figure is held](https://mastercardfdn.org/en/news/mastercard-foundation-to-enable-three-million-youth-to-access-employment-opportunities-in-senegal/) | No change |
@@ -362,7 +362,7 @@ record: 8c7729921b32
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National Digital and Future Skills Strategy 2020 | 2020 strategy in force | [Under review; no replacement](https://pmg.org.za/committee-question/39587/) | Stalled |
 | Vendor digital-skills programme in Northern Cape schools | Did not exist | [A networking vendor's academy and a private group agreed with the provincial education department to take networking, cyber security and artificial-intelligence courses into 235 schools, as extracurricular classes for grades 10 to 12 beginning February 2027, inside a global skills-to-jobs programme the vendor states has trained more than 600,000 South Africans](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N) | Advanced |
@@ -384,7 +384,7 @@ record: 8c7729921b32
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | ICT workforce training with European partners | Did not exist | [110 participants from public, private and non-governmental institutions, across AI, cybersecurity, personal data protection and emerging technologies](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292) | Advanced |
 | Overseas AI and data-science scholarship placements | Did not exist in the base | [Sixteen graduates studying in one country and 34 expected in another](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | Advanced |
@@ -400,13 +400,13 @@ record: 8c7729921b32
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital skills in the development plan | Did not exist as a statutory commitment | [Artificial intelligence, data analysis, programming and cybersecurity named as the skills base of a digital economy made a pillar of human-capital development; no programme, budget, target or delivery agency is stated (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Judicial training on digital crime and evidence | Did not exist | [A three-day course for judges and magistrates on cybercrime, digital evidence and deepfakes, run with the communications regulator](https://nilepost.co.ug/news/365182/judiciary-steps-up-fight-against-digital-crime-as-judges-magistrates-undergo-ict-training) | Advanced |
 | Young Africa Works in Uganda | US$200m commitment; a target of 4.3m young Ugandans in dignified work by 2030 | [Unchanged; no progress, disbursement or beneficiary figure published in the window](https://mastercardfdn.org/en/news/mastercard-foundation-launches-10-year-plan-to-enable-3-million-young-people-in-uganda-to-access-dignified-work/) | No change |
@@ -414,7 +414,7 @@ record: 8c7729921b32
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital skills and capabilities component | A US$5 million component of an appraisal-stage project, expected approval 2025-03-27, status pipeline | [A US$5 million component of a board-approved US$100 million grant closing 2030-10-31; no training activity, target or delivery under the component is reported](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Advanced |
 | Public officers trained in digital skills and data protection | A decentralised government digital-skills training programme was launched in December 2025; no headcount is recorded | [146 public officers trained in Gwembe, Mazabuka and Siavonga in digital literacy, cybersecurity, data protection, e-government platform use and data management; no cumulative national total is published](https://techafricanews.com/2026/07/20/smart-zambia-trains-146-district-officers-in-southern-province-to-strengthen-digital-skills/) | Advanced |
@@ -422,7 +422,7 @@ record: 8c7729921b32
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Artificial-intelligence grand challenge | Did not exist | [Launched 2026-08-04 across agriculture, health, education, financial services, mining and public administration and stated as a recurring programme; POTRAZ reported 738 applications received and 68 projects selected for an August 2026 boot camp in Nyanga, drawn from healthcare, agriculture, public service delivery and financial technology, narrowed to 18 candidates for the next stage; no award or budget published](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) | Advanced |
 | Coding in the secondary curriculum | Did not exist | [The regulator and the innovation hubs directed to scale literacy and embed coding from secondary level upward; no curriculum, date or budget published](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |

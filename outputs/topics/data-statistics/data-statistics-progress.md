@@ -1,13 +1,13 @@
 ---
-title: National statistics — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: National statistics — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: data.statistics
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SSD; TUN; UGA; ZWE; XSA; XWA
-record: 3356043fad7e
+record: 8cabc0a0a658
 ---
 
-# National statistics: progress report, 2025-08-01 to 2026-08-21
+# National statistics: progress report, 2025-08-01 to 2026-08-22
 
 *40 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,13 +17,13 @@ record: 3356043fad7e
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Published official telecom and digital statistics series | ***Baseline not held*** | [ARPCE annual report for 2024 held; no quarterly observatory or statistics-office series](https://www.arpce.dz/en/file/q6i1l8) | ***Baseline not held*** |
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Census portal and statistics application | Did not exist; census results were available only as reports | [A public portal with demographic, social, economic and housing indicators by geographic level, plus a mobile application carrying macroeconomic series, built by the statistics office's own staff](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/) | Advanced |
 | National statistics development strategy | Did not exist | [A new strategy for the 2026 to 2032 cycle, widening the national statistical system](https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/) | Advanced |
@@ -52,7 +52,7 @@ record: 3356043fad7e
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Fourth population and agriculture census | The last census was in 2005; a pilot ran October to November 2025 | [Still in the field: a complementary period runs 2026-08-01 to 2026-09-15 to complete the identification of households, persons and agricultural holdings missed by the 2026-05-29 close; enumeration ran with 32,059 agents at a budget of FCFA 13.28bn against FCFA 64bn initially projected, and no results are published](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) | Advanced, close slipped to 2026-09-15 |
 | Open SDG indicator platform | Built by the statistics institute in 2024, configuration work through the first half of 2025, not launched | [Launched, publishing development-goal indicator data for public access](https://leconomie.info/open-sdg-une-plateforme-pour-le-suivi-des-odd-au-cameroun/) | Advanced |
@@ -101,14 +101,14 @@ record: 3356043fad7e
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital sector strategic barometer | Did not exist | [Announced to give government figures on firms' scope of activity, turnover, growth and job creation; no operator, methodology or first-issue date stated](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/) | Advanced |
 | Second general population and housing census | ***Baseline not held*** | [The cartographic phase recruiting and enumeration scheduled for July 2027; it would be the first census since 1984](https://actualite.cd/2026/07/11/journee-mondiale-de-la-population-le-rgph-2-au-coeur-de-la-strategie-du-gouvernement) | ***Baseline not held*** |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | 2027 Population, Housing and Establishments Census | The base carries no position at 2025-08-01 | [Designed as a register-based exercise building central statistical registers of buildings, households, individuals and establishments by matching electronic field enumeration against digital registers and state databases, keyed on the unified national property number; the property-wealth map and secure electronic data exchange are to be finalised before a presidential decree authorises the count](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323) | ***Baseline not held*** |
 | National labour-market data platform | The base carries no position at 2025-08-01 | [A Senate proposal for a national platform integrating databases and forecasting future skills demand, welcomed by the minister, who pointed to the ministry's own forthcoming digital labour platform; no launch date, budget, governing instrument or lead body is established for either, and the two are not stated to be the same thing](https://www.masrawy.com/news/news_egypt/details/2026/7/28/3024561/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82) | ***Baseline not held*** |
@@ -127,7 +127,7 @@ record: 3356043fad7e
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | FinScope Consumer Survey | 87% access rate recorded in 2018 | [2026 round in the field, covering access, usage and quality; no fieldwork dates, sample size or publication date given](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/) | Advanced |
 | State of Communications Sector Study 2025/26 | Did not exist | [Under way; no publication date on file](https://times.co.sz/business/readmore.php?bhsadjgfoh=+E2.8m+study+signals+bright+2026+digital+outlook&bvhdgsj=Business+and+Economy&yiphi=2583) | Advanced |
@@ -150,7 +150,7 @@ record: 3356043fad7e
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Quarterly employment statistics | None published | [Still none published, with a methodology requested in July 2026 and no timetable](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/) | No change |
 | Governance Series survey | ***Baseline not held*** | [A six-monthly repeat panel run by the statistical service across all 16 regions, with its third wave published and its findings put by the Government Statistician to remedies that are digital ones, among them digitising public services and publishing official fees](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html) | ***Baseline not held*** |
@@ -169,14 +169,14 @@ record: 3356043fad7e
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | KNBS digital-indicator release | Economic Survey 2025, ICT chapter running to 2024 | [Unchanged; the ICT chapter puts mobile subscriptions at 71.4m and 136.1 per 100 inhabitants in 2024, fixed and wireless internet subscriptions at 57.8m and mobile-money subscriptions at 42.3m, and no 2026 edition or Statistical Abstract is held](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey.pdf) | No change |
 | Safaricom and KNBS mobile-data partnership | ***Baseline not held*** | [Collaboration to explore anonymised aggregated mobile data for population, mobility and socio-economic insight, with no scope, governance terms or start date](https://techafricanews.com/2026/06/08/safaricom-and-knbs-partner-to-harness-mobile-data-for-national-planning/) | ***Baseline not held*** |
 
 ## Libya
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Electronic-payment value | LD 136bn (2024) | [LD 389bn (2025) and LD 643bn for 1 January to 31 July 2026](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase) | Advanced |
 | POS terminal estate | 150,205 terminals (2024) | [170,149 terminals (February 2026); 2m transactions across 67,000 points in one day collapsed the system (2026-05)](https://libyaherald.com/2026/05/two-million-pos-transactions-in-a-single-day-across-67000-points-cause-collapse-of-e-payment-system-cbl-apologises) | Advanced |
@@ -190,7 +190,7 @@ record: 3356043fad7e
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National Payments System Report series | Quarterly and annual series in publication, with the 2024 annual report reported 2025-04-16 | [Series continuing, with a Q2 2025 report reported 2025-11-18 and the 2025 annual report published 2026-03-30](https://times.mw/national-payment-system-registers-growth-in-2024-quarter-3) | No change |
 | Fourth National ICT Survey | ***Baseline not held*** | [In the field across all districts, including the refugee camp at Dzaleka, covering 12,000 households on mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness, with the recruitment of its field staff publicly questioned](https://malawi24.com/2026/08/19/nso-macra-face-questions-over-ict-survey-jobs/) | ***Baseline not held*** |
@@ -212,7 +212,7 @@ record: 3356043fad7e
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | MOZDATA microdata catalogue (INE) | Did not exist | [NADA-style catalogue depositing operations from INE, the education ministry (MINEDH/DIPLAC), the science ministry and the public works ministry; access is licensed, not open](https://mozdata.ine.gov.mz/index.php/catalog) | Advanced |
 | Plano de Melhoria de Qualidade de Dados (PMQD) 2025-2029 | No dedicated data-quality plan | [Five-year plan across facility, district, provincial and central tiers; baseline data-quality index 70% district, 63% facility](https://sisma.misau.gov.mz/wp-content/uploads/2026/03/Plano-de-Melhoria-de-Qualidade-de-Dados-2025-2029.pdf) | Advanced |
@@ -239,7 +239,7 @@ record: 3356043fad7e
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Make Inclusive Data the Norm initiative | Did not exist | [Widened from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Advanced |
 | Telecoms contribution to GDP | 8.93% of GDP (Q2 2024) | [9.19% of GDP (Q1 2026) for telecommunications and information services, within information and communication at 11.31% of GDP (Q1 2026)](https://www.thisdaylive.com/2026/07/30/telecoms-contribution-to-gdp-grows-from-7-67-to-9-19-in-q1-2026/) | Advanced |
@@ -247,13 +247,13 @@ record: 3356043fad7e
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Statistics programme appropriation | RWF 1,654,449,677 domestic under one ministry for 2025/26 | [RWF 1,419,073,405 domestic under another ministry for 2026/27, against RWF 9,386,979,010 external](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf) | Regressed |
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Inclusive-data initiative second phase | Did not exist | [The second phase opened, widening from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Advanced |
 
@@ -265,14 +265,14 @@ record: 3356043fad7e
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Internet use | Not measured on this series | [85.9% of respondents using the internet, 95.4% holding a mobile line, 84.3% a smartphone and 41% a computer, with 70.4% connecting principally over mobile (2026)](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/) | ***Baseline not held*** |
 | Use of online public administration | Not measured on this series | [26.5% of internet users, last of the four uses measured, behind artificial-intelligence applications at 47.9%, e-services at 41.3% and online shopping at 36.9% (2026)](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/) | ***Baseline not held*** |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | 9th Uganda National Household Survey | 8th round findings released May 2025; 9th round not in field | [16 language-matched field teams after fifteen days' training](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey) | Advanced |
 | Labour, Employment, Productivity and Reporting Programme | Did not exist | [An integrated administrative labour-data ecosystem under the Employment Act, against official figures of 12.3% unemployment, 42% labour underutilisation and 88% informality](https://www.newvision.co.ug/category/news/gender-ministry-unveils-initiative-to-address-NV_235563_062026) | Advanced |
@@ -280,7 +280,7 @@ record: 3356043fad7e
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | ICT access by households and use by individuals survey | The 2020 round the most recent on record | [The 2025 round published, covering all ten provinces](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift) | Advanced |
 | Regulator's abridged sector performance report | A quarterly series published; the Q4 2025 edition then reachable only through partial extraction | [The Q4 2025 edition held in full: internet penetration 84.55%, mobile penetration 107.04%, 366 5G base stations reaching 18.9% of population and 0.0% of rural areas](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) | No change |

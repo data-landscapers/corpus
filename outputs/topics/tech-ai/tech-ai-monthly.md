@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5a80c82a5e89
+record: b46832b78420
 ---
 
 # AI: monthly update, July 2026

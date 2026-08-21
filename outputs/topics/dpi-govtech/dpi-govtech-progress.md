@@ -1,13 +1,13 @@
 ---
-title: Other GovTech and e-Gov — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Other GovTech and e-Gov — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 648d43999c06
+record: 3df7b5393ff5
 ---
 
-# Other GovTech and e-Gov: progress report, 2025-08-01 to 2026-08-21
+# Other GovTech and e-Gov: progress report, 2025-08-01 to 2026-08-22
 
 *52 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 648d43999c06
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Apostille e-legalisation platform | Planned on Hague accession (2025-08-25) | [Live; recognition claimed in about 126 states](https://www.elmoudjahid.dz/fr/actualite/legalisation-des-documents-destines-a-l-etranger-l-apostille-desormais-accessible-en-ligne-255359) | Advanced |
 | Dzair Digital Services national portal (single window) | Did not exist | [21 services against targets of 62 by end-2027 and 350 by 2028](https://elhiwar.dz/event/335541/) | Advanced |
@@ -29,7 +29,7 @@ record: 648d43999c06
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital transition agenda | 214 structuring projects | [218 structuring projects across six objectives and seven axes, coordinated by a modernisation institute under the presidency](https://angop.ao/noticias/economia/ministro-defende-reorganizacao-da-administracao-publica-para-modernizacao-do-estado/) | Advanced |
 | Mandatory electronic invoicing | Decreed but not in force, with the start date postponed | [Mandatory for large taxpayers and state suppliers, extending to all registered taxpayers within twelve months, on certified software with real-time transmission and a standard audit format; more than 500 packages registered and 21 certified](https://novojornal.co.ao/economia/detalhe/agt-comeca-a-aplicar-facturacao-electronica-em-1-de-janeiro-de-2026-68608.html) | Advanced |
@@ -81,7 +81,7 @@ record: 648d43999c06
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Electronic visa and consular platform | Entry visas online only | [Visas plus second-generation consular cards and travel documents, across 46 consular posts and two international airports](https://lejour.cm/prestations-consulaires-plus-de-540-mille-visas-delivres-en-trois-ans/) | Advanced |
 | Local-government digitisation programme | Did not exist | [FCFA 92bn announced; no financier, no signed instrument and no start date](https://www.wearetech.africa/en/fils-uk/news/public-management/cameroon-launches-163-million-push-to-digitize-local-governments) | Advanced |
@@ -140,7 +140,7 @@ record: 648d43999c06
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | CERTINUM data-protection compliance platform | Did not exist; compliance and authorisation files handled on paper at about a hundred a month | [Live, with online submission, real-time tracking and traceability for personal-data conformity, processing authorisations and video-surveillance authorisations, built over two years; the regulator's own communique of 3 August 2026 confirms the launch and directs all data controllers, correspondants a la protection and advisory firms onto the platform for their compliance procedures, with no stated cut-off for paper filings, compliance deadline, fee schedule or provision for requests already filed by the old route](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire) | Advanced |
 | e-Justice platform | Ten first-instance tribunals connected | [All 39 first-instance tribunals connected, with nationality certificates and criminal-record extracts issued nationwide](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien) | Advanced |
@@ -160,7 +160,7 @@ record: 648d43999c06
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital government platform | ***Baseline not held*** | [A first-quarter 2026 target set in January 2026; no platform, revised date or announced delay at 2026-08-06](https://www.biometricupdate.com/202601/drc-envisages-a-functional-digital-government-platform-by-march) | Stalled |
 | Employment agency AI job-matching platform | ***Baseline not held*** | [Out to tender for AI modules to be developed, integrated and deployed on the national employment agency's existing digital platform](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf) | ***Baseline not held*** |
@@ -168,7 +168,7 @@ record: 648d43999c06
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | African Financial Stability Committee digital portal | Did not exist; the committee had no public platform of its own | [A platform carrying the committee's objectives, mandate and organisational structure, its member central banks, its meeting calendar and its two working groups, and the publication channel for the African Financial Stability Report, working-group reports, studies and technical papers; content maintained by the committee secretariat](https://english.ahram.org.eg/NewsContent/3/1239/573958/Business/Tech/CBE,-African-central-banks-association-launch-digi.aspx) | Advanced |
 | Digital Egypt platform | About 170 services (2024), 8.1m registered users, 7.8m transactions and enquiries in 2024 | [242 services and about 20m transactions since the start of 2026, with 73 services exclusive to the platform and other digital channels](https://gate.ahram.org.eg/News/5813424.aspx) | Advanced |
@@ -196,7 +196,7 @@ record: 648d43999c06
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Eswatini Revenue Service TaxPal | Did not exist | [In service](https://independentnews.co.sz/14361/science-technology/eswatini-launches-new-apps-to-ease-access-to-government-services/) | Advanced |
 | Google Cloud EMEA memorandum | Signed on or before January 2025, unacknowledged in public | [Established as a cloud-services and e-government framework, not a monetisation deal; no value or term published](https://independentnews.co.sz/42282/business/former-minister-defends-google-mou-calls-for-calm-in-cabinet/) | Advanced |
@@ -239,7 +239,7 @@ record: 648d43999c06
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Cross-border electronic commerce tax platform | Did not exist | [Piloted April 2026 with a named private operator and a first-full-year projection of GH¢3.2bn, which is a projection and not an outturn](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) | Advanced |
 | Customs valuation AI system | Did not exist | [About 366,000 declarations analysed to 2026-07-17, 24% triggering more than one valuation risk indicator, with collections up 17.5% against a 6.3% rise in declared value](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/) | Advanced |
@@ -266,7 +266,7 @@ record: 648d43999c06
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | 2027 election technology appropriation | Sh41.3bn allocated by the Treasury | [Sh74.8bn after Parliament approved Sh33.5bn in additional funding for 2027 election technology](https://nation.africa/kenya/news/politics/50-million-cameras-the-election-kenya-did-not-have-in-1992-5552024) | Advanced |
 | Digital Hubs Programme | 285 of 1,450 ward hubs completed | [Reported at 588 committed Digital Hub sites nationwide against a target of one hub in every ward, with 46 Centres of Excellence and 40 Standard Digital Hubs under construction; procurement of 10,000 locally assembled desktops is complete for the first 100 pilot hubs, a further 10,000 under the Kenya Digital Economy Acceleration Project is in final stages and 2,222 Exchequer-funded machines are being acquired](https://techafricanews.com/2026/08/06/kenya-advances-digital-hubs-programme-with-588-sites-nationwide/) | Advanced |
@@ -305,7 +305,7 @@ record: 648d43999c06
 
 ## Libya
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Electronic Unified Export Window | Did not exist | [354 companies registered and 190 products exported, 66% of orders to Tunisia; no pre-platform baseline published](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/) | Advanced |
 | Libya Experts Forum registration platform | Did not exist | [Ready for launch; data protection instructed but no statute or regulator named](https://lana.gov.ly/post.php?id=362213&lang=en) | Advanced |
@@ -327,7 +327,7 @@ record: 648d43999c06
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Malawi National Electronic Procurement System | Phase 1 of an e-procurement system built under the foundations project, with the procurement authority running electronic procurement under a results-based programme; use not mandatory | [Mandatory nationwide from 2026-04-01 under a March 2026 government directive covering all public entities, with remote submission and registration](https://www.ppda.mw/newsdetail/19) | Advanced |
 | New passport issuance system | A US$29.9m contract awarded in January 2025; transition troubled and a backlog of over 100,000 applications | [Printing resumed at Mangochi; a member told the House that applicants who filed nine months to a year earlier are being overtaken by same-day issuances, holding over 30 unfulfilled receipts](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | Advanced, printing capacity restored |
@@ -385,7 +385,7 @@ record: 648d43999c06
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Citizen Portal | Named in the draft strategy described by the US International Trade Administration (2025-07) | [Prototype being completed, with an experimental phase due between late August and early September 2026; about 140 public services inventoried for gradual integration, beginning with issue and renewal of passports and driving licences; no budget, supplier, authentication method or data-protection arrangement stated](https://mznews.co.mz/en/governo-digitaliza-mais-de-cem-servicos-publicos-com-prioridade-para-passaportes-e-cartas-de-conducao/) | Advanced |
 | CloudGov (INAGE government file storage platform) | Did not exist | [Government-wide storage, sync and share platform in rollout across public-administration institutions; no later account, institution count or usage figure held](https://www.inage.gov.mz/?p=2697) | Advanced |
@@ -411,7 +411,7 @@ record: 648d43999c06
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Ekiti State digital policy and regulatory reform project | Did not exist | [UK FCDO project to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework for the state; value and duration not stated](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/) | Advanced |
 | Government Service Portal | In build (2025) | [Piloting on a four-year KOICA project reported at US$13m](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) | Advanced |
@@ -425,7 +425,7 @@ record: 648d43999c06
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Electronic billing machine as an export | Domestically built platforms reported in four other states, with no product-specific buyer list | [Two states adopted, one mid-adoption and two more interested](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy) | Advanced |
 | Electronic procurement platform as an export | Cooperation confined to public-finance and procurement digitisation | [One state co-developing the platform, with health, artificial intelligence, commerce and public-service tracks identified but not signed](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy) | Advanced |
@@ -440,7 +440,7 @@ record: 648d43999c06
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Citizen single window | Did not exist | [Operational for passport applications, business creation, police-clearance and nationality certificates, with online tracking](https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services) | Advanced |
 | Digital fiscal stamp | Did not exist | [The sole recognised channel nationwide, with QR-coded stamps bought and received remotely and a second access route through a super-app](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique) | Advanced |
@@ -479,7 +479,7 @@ record: 648d43999c06
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Batho Pele AI chatbot | Did not exist | [DPSA-Meta-Juicetel partnership built on Meta's Llama models, providing policy, circular and legislation lookups to citizens and public servants; nine official languages targeted; explicitly decision-support only, with no decision-making authority](https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/) | Advanced |
 | Home Affairs system downtime | 35,426 hours of nationwide system downtime (2024/25) | [13,867 hours in 2025/26, a 61% reduction, with provincial gains ranging from 79% in the Free State to 41% in North West; the population register's own downtime fell from 14,720 to 11,479 hours, a 22% improvement. The department attributes it to the state IT agency moving from a bronze to a silver service level, 226 links migrated to fibre, 182 offices moved to a web service manager and 439 offices running on the identification system](https://pmg.org.za/committee-question/39871/) | Advanced |
@@ -501,7 +501,7 @@ record: 648d43999c06
 | Student-aid scheme systems integration | ***Baseline not held*** | [The Public Protector found the scheme's systems insufficiently integrated with the home affairs, social security and revenue data sources it needs to verify students, and directed a digital modernisation and systems-integration plan within 30 days covering institutional integration, verification interfaces, fraud controls and cyber security, elimination of duplicate applications and manual workarounds, student-facing case tracking and costed milestones](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ) | ***Baseline not held*** |
 | Western Cape funding-matching platform for small business | ***Baseline not held*** | [Free access for micro, small and medium enterprises in the province to a matching platform covering over 300 funders and 600 finance products](https://startupmag.co.za/2026/08/western-cape-launches-free-digital-funding-platform-for-small-businesses/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Digital Transformation of Government Roadmap | ***Baseline not held*** | Implemented (2025-04-03) | ***Baseline not held*** |
 
@@ -527,7 +527,7 @@ record: 648d43999c06
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Sovereign Yield Curve system | ***Baseline not held*** | [In service, letting investors track secondary-market government-security returns against domestic and international alternatives before investing; retail participation stands at 32,631 investors against 897 in 2016](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792) | Advanced |
 | GovTech maturity classification | Top group, 26th globally on the 2022 edition, up from 90th in 2021 | [Top group for extensive maturity, second in Africa and leading East Africa](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-joins-global-leaders-in-digital-government-5325056) | No change, tier retained |
@@ -545,7 +545,7 @@ record: 648d43999c06
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National register of community companies | Did not exist | [Live, covering formation, filings and tracking of ministry responses; the launch disclosed 230 companies created, 15,000 participants, 60 operational and 380 jobs, with personal-data storage described as secure and no legal basis, retention rule or regulator named (2026-07)](https://www.nessma.tv/fr/economie/actu/lancement-du-registre-national-des-societes-communautaires-pour-impulser-le-developpement-local/560812) | Advanced |
 | Online business tax registration | Did not exist; the declaration of existence required a visit to a tax office | [Filed remotely with real-time tracking, correction of the tax file and download of the tax identification card, available at all hours; announced by video capsule rather than by gazette, and the confidentiality assurance names neither an instrument nor a supervisory authority (2026-08)](https://www.lapresse.tn/2026/08/04/patente-en-ligne-la-direction-generale-des-impots-lance-sa-nouvelle-plateforme-numerique/) | Advanced |
@@ -558,7 +558,7 @@ record: 648d43999c06
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Copyright Management System | Did not exist | [In testing, with a September 2026 rollout targeted](https://nilepost.co.ug/news/365418/govt-targets-september-rollout-of-copyright-management-system) | Advanced |
 | Electronic Government Procurement system | 36 entities onboarded (date not published) | [136 entities onboarded and Version 2.0 in service, verifying suppliers automatically against URA, URSB, NIRA and NSSF records; onboarded entities no longer advertise tenders in newspapers and may transact only with registered providers](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026) | Advanced |
@@ -569,7 +569,7 @@ record: 648d43999c06
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Cabinet directive on open-source technology | Did not exist | [Ministries directed to adopt open-source technology in line with digital transformation guidelines, on stated grounds of cost, security, reliability, customisation and avoidance of vendor lock-in; no directive text, circular reference, compliance deadline, exemption regime or monitoring arrangement is held](https://itweb.africa/article/zambias-govt-leans-towards-open-source/KjlyrvwBpprqk6am) | Advanced |
 | Contract Tracking and Management Information System | Did not exist | [In operation for digital submission of government contracts to the Attorney General's Chambers and real-time tracking of approval progress](https://diggers.news/local/2026/07/12/govt-launches-digital-system-to-track-and-manage-contracts/) | Advanced |
@@ -583,7 +583,7 @@ record: 648d43999c06
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Smart Zimbabwe 2030 master plan | Did not exist | [Eight sector pillars (Smart Government, Smart Cities, Smart Agriculture, Smart Education, Smart Transport, Smart Health, Smart Tourism, Smart Mining) anchored on policy/regulatory, secure shared infrastructure, and skills platforms; names a National Data Centre "operationalized" under Smart Government and records no interoperability between ministries' data centres, systems and databases at the time of writing](https://www.ictministry.gov.zw/assets/documents/Smart%20Zimbabwe%202030%20Master%20Plan.pdf) | Advanced |
 | Government information technology specification standards | Standards reviewed May 2025; connectivity across ministries, departments and agencies named as the hurdle to electronic government | [Version 2.0 held in full: issued May 2025 by the E-Government Technology Unit in the Office of the President and Cabinet, revising Version 1.0 of May 2023, both authored by the E-Government Technology Inter-Agency Committee and approved by the Head of the Unit; the reference standard for all public-sector ICT procurement, effective immediately per the Chief Secretary's foreword; connectivity across ministries, departments and agencies remains the hurdle to electronic government](https://www.newsday.co.zw/local-news/article/200042263/govt-reviews-ict-standards-to-boost-digitalisation) | No change, record improved |

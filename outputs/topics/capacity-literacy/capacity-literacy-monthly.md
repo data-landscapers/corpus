@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 subject: capacity.literacy
 places: BEN; BFA; CMR; CIV; COD; GAB; GMB; GHA; KEN; LBR; MOZ; RWA; STP; SEN; TZA; ZMB
-record: 9dfc76580cd2
+record: 1fd79b78d94b
 ---
 
 # Literacy: monthly update, July 2026

@@ -1,13 +1,13 @@
 ---
-title: Rural digital data capture — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Rural digital data capture — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: digital.rural
 places: BDI; CAF; COG; EGY; SWZ; GIN; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; SLE; TGO; ZMB; ZWE
-record: 22eaac7ca4da
+record: 963fef81dfc2
 ---
 
-# Rural digital data capture: progress report, 2025-08-01 to 2026-08-21
+# Rural digital data capture: progress report, 2025-08-01 to 2026-08-22
 
 *18 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -36,13 +36,13 @@ record: 22eaac7ca4da
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Decent Life rural fibre programme | 856 of 1,450 phase-one villages connected at end-2024, up from 267 at end-2023 | [More than 1,250 of 1,450 phase-one villages across 52 markazes in 20 governorates, about 5 million fibre lines, 75% of village service complexes connected](https://www.youm7.com/story/2026/6/30/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D9%84%D9%805-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%B7-%D9%81%D9%89-1250/7465834) | Advanced |
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | USSD access to public services | Did not exist | [Planned for the 2027 rollout](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Advanced |
 | Agricultural extension officer digital devices | Not held | [40 tablets and 4 laptops, valued at E313,504, handed to agricultural extension officers on 10 August 2026 under an IFAD and Green Climate Fund-backed project, for real-time crop, livestock and weather reporting by officers working with smallholder farmers across all four regions](https://eswatinipositivenews.online/agriculture-minister-hands-over-e313-504-digital-gadgets-to-boost-agricultural-extension-services/) | ***Baseline not held*** |
@@ -61,7 +61,7 @@ record: 22eaac7ca4da
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | University AI fertigation facility, Thyolo | Did not exist at 2025-08-01 | [The Malawi University of Science and Technology commissioned an AI-powered fertigation system automating irrigation and fertiliser application from real-time crop-growth data at its Thyolo campus, with an AI-assisted smart tree nursery, under a continental agricultural-universities programme](https://itweb.africa/article/malawi-university-deploys-ai-fertigation-technology/dgp45vaB8W57X9l8) | Advanced |
 | National Agricultural Data Infrastructure | A multi-stakeholder dialogue on national data infrastructure for climate decision-making held in Malawi in September 2023, drawing conclusions on digitising paper records, standardising collection and embedding interoperability; nothing built | [Farmers across 14 districts still use non-interoperable platforms - the meteorological department's, an agricultural NGO's, the government farm input subsidy programme's and a commodity exchange's - logging into each separately; the harmonising framework remains a proposal and a farmer-ID layer on the national register remains an argument, not a system](https://developmentgateway.org/blog/unlocking-the-potential-of-digital-public-infrastructure-for-climate-data-and-agriculture-malawi/) | No change |
@@ -93,17 +93,17 @@ record: 22eaac7ca4da
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Rural connectivity programmes | ***Baseline not held*** | [About 3,700 towers to start deploying around October 2026 against 23% of rural communities connected (2025-10)](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Cisco AI for smallholder farmers | Did not exist | [Exploratory; no programme, funding, timeline or counterparty ministry named](https://itweb.africa/article/cisco-explores-ai-for-nigeria-farmers/nWJadMbNDjyMbjO1) | Advanced |
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | School internet connectivity | 3,082 schools connected in 2023/24, about 62% by late 2024 | [4,184 of 4,996 connected with 812 outstanding, rural at about 27% against urban at about 75%](https://www.ktpress.rw/2026/03/connecting-the-remaining-812-schools-takes-centre-stage-at-edtech-mondays-dialogue/) | Advanced |
 
@@ -121,13 +121,13 @@ record: 22eaac7ca4da
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Satellite terminals in rural public facilities | Kits deployed in underserved public facilities since 2024, year only | [A rural health clinic and two primary schools connected for access to government services through the national portal; no national count of connected facilities published](https://techafricanews.com/2025/09/29/smart-zambia-brings-starlink-internet-to-remote-moomba-chiefdom/) | Advanced |
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Rural network population coverage | ***Baseline not held*** | [5G reaches 0.0% of the rural population against 18.9% nationally; 3G reaches 73.7%; 4,681 of 13,104 base stations are rural](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) | ***Baseline not held*** |
 | School connectivity and solar programme | Not held | [11,500 satellite terminals distributed to schools - 8,000 to those with no wireless network and a further 3,500 to those already connected - with more than 1,300 institutions still to reach and a stated target of internet connectivity, solar power and national-grid access at every school by December 2026; cabinet has separately committed 3% of GDP to research and innovation under the education framework](https://www.263chat.com/govt-targets-internet-solar-power-for-every-school-by-year-end/) | ***Baseline not held*** |

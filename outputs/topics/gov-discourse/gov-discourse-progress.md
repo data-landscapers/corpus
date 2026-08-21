@@ -1,13 +1,13 @@
 ---
-title: Public debate and participation in policymaking — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Public debate and participation in policymaking — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; COD; EGY; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MAR; NAM; NER; RWA; STP; SEN; SYC; ZAF; TZA; TGO; UGA; ZMB; ZWE; XWA
-record: 8a64eb5b903d
+record: ee92d509cb56
 ---
 
-# Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-21
+# Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-22
 
 *31 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -36,7 +36,7 @@ record: 8a64eb5b903d
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Election-period network restrictions | No restriction recorded in the base for the year to 2025-08 | [Four shutdowns recorded in Cameroon in 2025, including election-period restrictions on social platforms](https://www.accessnow.org/internet-shutdowns-2025/) | Regressed |
 | National Internet Governance Forum | Not held | [Held at Yaoundé from 18 to 20 August 2026 on the theme of moving from fragmentation to interoperability, positioning data as the foundation for interoperable digital public infrastructure; no national data-governance framework exists on the record for it to build on](https://www.237online.com/gouvernance-internet-forum-yaounde/) | ***Baseline not held*** |
@@ -63,27 +63,27 @@ record: 8a64eb5b903d
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Consumer grievance platform | Did not exist | [Live application and web platform at FCFA 150 per report, with eight stages from filing through mediation to published reports and sectoral dashboards](https://news.abidjan.net/articles/748737/cote-divoire-lunion-federale-des-consommateurs-lance-my-signal-une-plateforme-numerique-pour-renforcer-la-protection-des-consommateurs) | Advanced |
 | Online gendered violence against election candidates | Baseline not held | [Documented as cyclical across successive elections in a two-country civil-society study, with no state measurement held against it](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/) | ***Baseline not held*** |
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Permanent state-industry consultation framework for the digital sector | Did not exist | [Agreed as a standing mechanism between the ministry and the Reseau des acteurs du numerique after the dispute over the digital-sector tariff; no constituting text, membership or meeting schedule stated](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/) | Advanced |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Council of State digital transformation plan | The base carries no record that the administrative-justice branch had a digitisation programme | [The head of the Council of State told a meeting of administrative-court circuit presidents that the Council continues to implement an integrated digital transformation plan, developing its information infrastructure and adopting current technology to speed litigation; no named system, date, figure or deliverable is stated](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) | ***Baseline not held*** |
 | VAT credit-refund period reduction | The base carries no earlier statement of the refund period or of the proposal | [A proposed cut of the credit-refund period to four months for taxpayers and three for small and medium enterprises is still awaiting its legislative steps; a tax association board member added that the reduction will not meet its objects unless the operational problems obstructing proof of balances are resolved first](https://www.alborsaanews.com/2026/07/29/1982823) | ***Baseline not held*** |
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Public account of the Google memorandum | Not on the record | [Established after a public contradiction between the prime minister and the Attorney-General](https://independentnews.co.sz/42282/business/former-minister-defends-google-mou-calls-for-calm-in-cabinet/) | Advanced |
 
@@ -95,7 +95,7 @@ record: 8a64eb5b903d
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Citizens reporting demands for unofficial payments | 51% of citizens reporting demands (first half of 2025) | [69% of citizens reporting demands (second half of 2025); the statistical service names digitalisation, fee transparency and public education as its response, citing a marked fall in bribery at the passport office after digitisation, and says the Office of the Chief of Staff has directed the ten institutions its series flagged as high-risk to report back on remediation](https://asaaseradio.com/gss-calls-for-digitalisation-fee-transparency-to-curb-rising-bribe-demands/) | Regressed |
 
@@ -146,7 +146,7 @@ record: 8a64eb5b903d
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Internet governance forum | ***Baseline not held*** | [An annual multistakeholder forum run under the domain registry, with nearly 200 people through a school on internet governance and a youth forum](https://rwandainspirer.com/digital-trust-and-ai-oversight-dominate-discussions-at-rwanda-internet-governance-forum/) | ***Baseline not held*** |
 
@@ -158,7 +158,7 @@ record: 8a64eb5b903d
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Social-media regulation workstream | ***Baseline not held*** | [Under way since 2024; no bill, decree or timetable named, and an observatory is a proposal](https://lesoleil.sn/actualites/technologie/reseaux-sociaux-et-intelligence-artificielle-luniversite-cheikh-ahmadoul-khadim-ucak-au-chevet-des-defis-communautaires-lies-au-numerique/) | ***Baseline not held*** |
 
@@ -171,13 +171,13 @@ record: 8a64eb5b903d
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Policy brief on information integrity and human rights | ***Baseline not held*** | [Published by the rights commission, and launched with a deputy justice minister's statement that government should not become the custodian of truth on disinformation while the information environment should not be left to private platforms' algorithms, grounded in sections 16, 19 and 32 of the Constitution](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html) | ***Baseline not held*** |
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Online gendered violence against election candidates | Baseline not held | [Documented as cyclical across successive elections in a two-country civil-society study, with no state measurement held against it](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/) | ***Baseline not held*** |
 
@@ -189,7 +189,7 @@ record: 8a64eb5b903d
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Fourth-cycle Universal Periodic Review | Third-cycle review concluded January 2022 with 273 recommendations, 139 supported and 134 noted; no fourth-cycle submission on file (2025-08) | [Joint submission by CIPESA, APC and WOUGNET filed, seeking repeal of the Computer Misuse Act speech offences, a statutory bar on network disruption, removal of the 12% excise duty on internet data, and statutory independence and fining powers for the Personal Data Protection Office; the review had not been held as at 2026-08-07](https://cipesa.org/wp-content/files/Uganda_UPR_Review.pdf) | Advanced |
 | Judiciary media guidelines issued through ECCMIS | Did not exist (2025-08) | [Prior accreditation required, devices barred from the courtroom, live broadcasting granted case by case; the Law Society asked for the restrictions to be lifted](https://mulengeranews.com/uls-slams-court-restrictions-after-besigye-collapsed-during-treason-trial/) | Advanced |
@@ -197,7 +197,7 @@ record: 8a64eb5b903d
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Public consultation on the Postal Services Act review | Baseline not held | [The ministry invited any member of the public to submit proposals for amendment with justification, closing 2026-07-27, a window of three days from the call reported on 2026-07-24; no submission count, published responses or consultation report is held](https://cajnewsafrica.com/2026/07/24/zambia-expedites-modernisation-of-postal-courier-legislation/) | Closed |
 | Digital systems in the 2026 general election | Not held | [Observer missions to the 13 August 2026 general election recorded a hybrid digital and manual voter-registration system with an online pre-registration portal, logging 8,786,300 registered voters, up 25% since 2021; a domestic coalition found election-day process largely transparent but flagged an online-only accreditation system that blocked 11 accredited monitors and the electoral commission's refusal to share the voters register; the European mission found online free expression unduly curtailed under the 2025 Cyber Security Act amid arrests for speech offences, and a regional media institute recorded a journalist detained for two weeks under the Cyber Crimes Act and judged the access-to-information law and decriminalised defamation paper victories undermined by the two 2025 statutes](https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/) | ***Baseline not held*** |
@@ -206,7 +206,7 @@ record: 8a64eb5b903d
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Public consultation record for the National AI Strategy | None published | [The strategy's own consultation record — a Kadoma draft, then validation at Harare on 2025-08-28, Bulawayo on 2025-09-09 and Masvingo on 2025-09-11; no submission register, participant list or consultation report is held](https://veritaszim.net/sites/veritas_d/files/Zimbabwe%20National%20Artificial%20Intelligence%20Strategy.pdf) | Advanced |
 

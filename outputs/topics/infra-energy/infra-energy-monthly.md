@@ -1,10 +1,10 @@
 ---
 title: Energy — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 subject: infra.energy
 places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; MWI; MUS; MOZ; SLE; UGA; ZWE
-record: 2e612129ef8c
+record: eee785af5775
 ---
 
 # Energy: monthly update, July 2026

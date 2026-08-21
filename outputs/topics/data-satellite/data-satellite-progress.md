@@ -1,13 +1,13 @@
 ---
-title: Use of satellite data — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Use of satellite data — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: data.satellite
 places: DZA; AGO; BWA; BFA; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; LBR; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
-record: 31bf7a2e2116
+record: e0395f5da11a
 ---
 
-# Use of satellite data: progress report, 2025-08-01 to 2026-08-21
+# Use of satellite data: progress report, 2025-08-01 to 2026-08-22
 
 *26 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,13 +17,13 @@ record: 31bf7a2e2116
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Alsat-3A and 3B high-resolution Earth-observation satellites | Did not exist | [Both satellites in orbit, operated with the Ministry of National Defence](https://www.echoroukonline.com/le-general-darmee-said-chanegriha-suit-loperation-de-lancement-du-deuxieme-satellite-alsat-3b) | Advanced |
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Commercial access to the national satellite | In orbit and operated from a national control centre, government use only | [A commercial provider market open, with 37 firms in the commercial arm by April 2026 and a first private licence issued in July 2026](https://www.telecomreviewafrica.com/articles/general-news/13572-angola-launches-commercial-access-to-angosat-2-for-remote-connectivity/) | Advanced |
 | Earth-observation satellite | Financing signed at about EUR 225m in January 2025, with no build kicked off | [Under construction after a March 2026 kick-off, with first ground infrastructure delivered from June 2026 and a design of more than 1,000 high-resolution images a day](https://techreviewafrica.com/news/5427/angola-advances-angeo-1-earth-observation-programme-with-airbus-milestone-validation) | Advanced |
@@ -42,7 +42,7 @@ record: 31bf7a2e2116
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Satellite-and-sampling census enumeration methodology | Did not exist | [Smartphone enumeration combined with satellite imagery and sample estimation, adopted for areas inaccessible through insecurity or isolation](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) | Advanced |
 
@@ -67,19 +67,19 @@ record: 31bf7a2e2116
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Grand Abidjan urban planning geoportal | ***Baseline not held*** | [Under build with Japanese cooperation on three axes including a governance arrangement for managing, sharing and opening the data; the portal itself is not yet built](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance) | ***Baseline not held*** |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Egypt-Japan water, artificial intelligence and satellite-data cooperation | The base carries no position at 2025-08-01 | [Memorandum with Japan's land and agriculture ministries covering technical missions, joint research and the application of AI and digital models to monitoring water structures and reducing flood risk; Egypt intends to use Japan's satellite rainfall product to monitor rainfall across Nile basin states and improve hydrological forecasting](https://www.youm7.com/story/2026/8/2/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D9%84/7499442) | ***Baseline not held*** |
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Government Starlink satellite gateway | Did not exist | [Commissioned](https://techafricanews.com/2026/04/28/eswatini-commissions-starlink-satellite-gateway-to-expand-nationwide-internet-connectivity/) | Advanced |
 | Starlink Business reseller channel | Did not exist | [Operating, with managed hardware, installation and support](https://itweb.africa/article/recently-launched-paratus-eswatini-aims-to-drive-starlink-business-tech-adoption/j5alr7QAOeQ7pYQk) | Advanced |
@@ -92,7 +92,7 @@ record: 31bf7a2e2116
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Ghana Agricultural Information and Monitoring System | ***Baseline not held*** | [Live spatial/agricultural data platform named by BigData Ghana's co-founder as one of three live deployments; no coverage, user or funding figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
 | National Forest Monitoring System and ForestTrace AI deforestation tracker | ***Baseline not held*** | [Live national forest monitoring system paired with the ForestTrace AI deforestation tracker, built toward EU Deforestation Regulation compliance for cocoa and gold supply chains; no coverage or accuracy figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
@@ -105,7 +105,7 @@ record: 31bf7a2e2116
 
 ## Libya
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National earth-observation satellite | Did not exist | [At design stage; no budget, timetable or launch partner stated](https://www.lananews.com/ar/?p=499199) | Advanced |
 
@@ -117,7 +117,7 @@ record: 31bf7a2e2116
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | ANGOSAT-2 connectivity via the Boane earth station | ***Baseline not held*** | [Station integrated and under test; remote terminals not yet activated](https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity) | ***Baseline not held*** |
 | Starlink terminals in disaster response | ***Baseline not held*** | [Donated terminals deployed by the regulator with open access, plus four operator connectivity kits at Boane, Bobole, Manhica and Marracuene](https://clubofmozambique.com/news/starlink-vodacom-bring-hope-to-flood-hit-mozambique/) | ***Baseline not held*** |
@@ -137,7 +137,7 @@ record: 31bf7a2e2116
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Amazon Kuiper landing permit | Did not exist | [Permit granted; no service](https://techafricanews.com/2026/01/15/ncc-grants-landing-permit-to-amazons-project-kuiper-for-satellite-operations-in-nigeria/) | Advanced |
 | Starlink Nigeria service | Second-largest ISP by subscribers | [Orders paused over congestion, later reopened](https://techcabal.com/2025/03/10/starlink-now-nigerias-second) | Regressed |
@@ -146,7 +146,7 @@ record: 31bf7a2e2116
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National satellite data programme (Planet) | ***Baseline not held*** | [Government agencies, public universities, selected startups and development partners given access to near-daily imagery for agriculture and food-security monitoring, forest health, urban planning and disaster response, managed by the Rwanda Space Agency; no cost, term or data-licence arrangement published](https://itweb.africa/article/planet-and-the-government-of-rwanda-launch-first-of-its-kind-national-satellite-data-program-in-africa/nWJadMbNDxlMbjO1) | ***Baseline not held*** |
 
@@ -165,18 +165,18 @@ record: 31bf7a2e2116
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Educational cubesat | Did not exist | [A budget line, with no design, launch date, operator or cost broken out](https://www.mwananchi.co.tz/mw/habari/kitaifa/kairuki-aomba-222-5-bilioni-kamati-yaitaja-tcra-5442016) | Advanced |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Satellite and AI farm traceability platform | No position held at 2025-08-01 | [A Zambian platform pairing satellite imagery with artificial intelligence for smallholder traceability and market matching, built after commercial traceability software quotes ran to thousands of dollars a month, and stated to have changed how thousands of farmers interact with markets in under three years](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/) | ***Baseline not held*** |
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National geospatial and earth-observation data programme | A national geospatial and space agency established in 2019; no dataset catalogue held | [The Zimbabwe National Geospatial and Space Agency, established under section 24 of the Research Act by general notice rather than by dedicated statute, and under the science ministry rather than the ICT ministry; no programme document, dataset catalogue or budget held](https://www.veritaszim.net/node/3481) | No change |

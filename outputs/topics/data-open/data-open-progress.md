@@ -1,13 +1,13 @@
 ---
-title: Open data — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Open data — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 subject: data.open
 places: BEN; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; KEN; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
-record: 0b8e013645b6
+record: 3660859e286f
 ---
 
-# Open data: progress report, 2025-08-01 to 2026-08-21
+# Open data: progress report, 2025-08-01 to 2026-08-22
 
 *22 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -24,7 +24,7 @@ record: 0b8e013645b6
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National open-data policy | Provided for in the roadmap, nothing published | [Provided for in the roadmap, nothing published](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/) | No change |
 | Transparency and good governance code | In force; requires budget-information dissemination and civil-society involvement | [In force; the finance ministry was still running first-contact sensitisation with civil society in April 2026](https://leconomie.info/finances-publiques-la-societe-civile-de-lest-mobilisee-pour-mieux-surveiller-le-budget-citoyen-2026/) | No change |
@@ -45,7 +45,7 @@ record: 0b8e013645b6
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Access to public-interest information programme | Presented as the operational refresh of the 2013 access-to-information law: a portal, a conformity audit tool, a helpline, a mobile application and a monitoring barometer | [Unchanged; no later source on file in the year since](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire) | No change |
 
@@ -59,13 +59,13 @@ record: 0b8e013645b6
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Bill on access to information and transparency in public life | Did not exist | [Admissible and in commission; it sets access as the norm and limitation the exception, applies to public services and some private actors, requires a simple, fast and free request procedure, proactive publication, reasoned refusals and a right of appeal](https://actualite.cd/2026/03/28/assemblee-nationale-la-proposition-de-loi-sur-lacces-linformation-et-la-transparence-de) | Advanced |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | World Bank GovTech Maturity Index position | 69th globally with a maturity score of 0.751 on the 2022 index; Group B at 0.649 in 2020 | [22nd globally with a score of 0.911 in the top band on the 2025 index, a rise of 47 places, with core government systems 0.916, digital service delivery 0.962, citizen engagement 0.896 and enablers 0.869](https://gate.ahram.org.eg/News/5356100.aspx) | Advanced |
 | National Open Data Policy | The base carries no statement of the policy's existence or content at 2025-08-01 | [The minister named the launch of the open data policy among the policies and legislation supporting digital transformation; no date of adoption, text, issuing instrument, dataset inventory or national portal is established](https://gate.ahram.org.eg/News/5356100.aspx) | ***Baseline not held*** |
@@ -78,13 +78,13 @@ record: 0b8e013645b6
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National data marketplace | Did not exist | [Proposed state-run marketplace, more than 1,000 datasets over five years, KSh 396m to build and operate, overseen by a proposed national council](https://nation.africa/kenya/business/state-plans-ecitizen-data-sale-to-boost-revenue--5488496) | Advanced |
 
 ## Libya
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | GIA Open Data Platform | Did not exist | [Indicators covering 91 datasets](https://www.gia.gov.ly/en/2026/02/16/the-general-authority-for-information-presents-its-vision-on-government-data-governance-during-a-cloud-computing-workshop) | Advanced |
 | National Committee for the Information for All Programme | Did not exist | [Constituted under the GIA with a proposed roadmap taken](https://technology.ly/en/ltf-supports-ifap-initiative/) | Advanced |
@@ -100,7 +100,7 @@ record: 0b8e013645b6
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Malawi Low Resource Language Data Trust | Did not exist; no Chichewa language dataset or data trust is on record | [A government initiative assembling licensed Chichewa language content as artificial-intelligence training data and developing core frameworks, supported by the World Bank and the Gates Foundation; no dataset, licence terms, governance structure or release is published](https://techafricanews.com/2026/06/24/malawi-launches-chichewa-ai-initiative-to-drive-digital-inclusion-and-innovation/) | Advanced |
 | Machine-readable access to the electronic voter register | The electoral commission had refused an observer coalition's request for analysable electronic copies of the 2025 and prior voter rolls, holding that the elections statute limits inspection to verification of entries at registration centres and regional offices | [The same position stands; nothing held records a later request, appeal or change of practice, including after the 2025-09-16 elections](https://africabrief.substack.com/p/mec-rejects-observer-coalitions-electronic) | No change |
@@ -141,7 +141,7 @@ record: 0b8e013645b6
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Agrifood sector data portal | Did not exist | [Live and free after registration, centralising regulatory monitoring, market movement, export opportunity and sector-trend data under three public bodies; built inside a German- and EU-financed project with no amount disclosed and no statement of what happens when the project ends (2026-07)](https://www.lapresse.tn/2026/07/26/agroalimentaire-la-tunisie-lance-un-nouveau-portail-pour-aider-les-entreprises-a-mieux-decider/) | Advanced |
 | Aswat Nissa femicide data platform | Did not exist | [A civil-society platform to centralise Tunisia's femicide data, opening the 109 cases documented since January 2018 (30 in 2025, 26 in 2024, 25 in 2023, 23 in 2022) to researchers, media and civil-society organisations; launch set for 12 August 2026, with no state role or public-data reconciliation stated (2026-08)](https://www.wearetech.africa/fr/fils/actualites/tech/tunisie-aswat-nissa-lancera-mercredi-une-plateforme-pour-recenser-les-feminicides) | Advanced |
@@ -149,19 +149,19 @@ record: 0b8e013645b6
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Procurement portal conformance with the infrastructure data standard | ***Baseline not held*** | [26 of 148 data elements published, 17.6%, and 4.2% of required project-level disclosure paths (2025-11)](https://www.newvision.co.ug/category/business/why-govt-is-moving-to-upgrade-procurement-por-NV_222664_022026) | ***Baseline not held*** |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | 2026 Abuja Declaration on Meaningful Connectivity | Did not exist | [Adopted by African telecommunications ministers, defining meaningful connectivity as regular access plus a suitable device, sufficient data and a connection fast enough for video learning and commerce, and committing signatories to review sector-specific taxes and levies, lower taxes on entry-level devices, incentivise local assembly and reduce import tariffs on handsets priced below US$50](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Advanced |
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National artificial-intelligence and data platform | Did not exist | [Provided for to supply countrywide datasets, infrastructure and compute, and named in the strategy as Project "Pangolin"; a media rights organisation reported it consolidates fragmented government databases without stated safeguards](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85) | Advanced |
 | Open government data initiative under the strategy | Did not exist | [Announced as a commons for public institutions, industry and researchers to share anonymised datasets, with selected government datasets stated to become publicly accessible within six months of 2026-08-04; no governing rule, dataset list or portal held](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85) | Advanced |
