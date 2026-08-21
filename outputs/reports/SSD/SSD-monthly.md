@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-21
 place: SSD
 ledger_rows: 20
 not_held: 12
-record: 006660110dd5
+record: 4023069e03c5
 ---
 
 # South Sudan: monthly update, July 2026

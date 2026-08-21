@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-21
 place: XAF
 ledger_rows: 87
 not_held: 3
-record: 3314fba762c2
+record: c77eb161f227
 ---
 
 # Africa: progress report, 2025-08-01 to 2026-08-21

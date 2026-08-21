@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-21
 place: BFA
 ledger_rows: 49
 not_held: 11
-record: f4d352bb6e3c
+record: 7b6b323573c3
 ---
 
 # Burkina Faso: monthly update, July 2026

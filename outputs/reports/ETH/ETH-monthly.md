@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-21
 place: ETH
 ledger_rows: 47
 not_held: 5
-record: 0ec39563de3e
+record: e5805b5fd765
 ---
 
 # Ethiopia: monthly update, July 2026

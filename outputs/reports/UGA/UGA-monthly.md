@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-21
 place: UGA
 ledger_rows: 63
 not_held: 16
-record: b698a87afe8a
+record: 423c6af04fe1
 ---
 
 # Uganda: monthly update, July 2026
