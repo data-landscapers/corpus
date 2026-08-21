@@ -33,9 +33,11 @@ NONSTATE_OUT = "outputs/non-state-finance"     # {ISO3}-nonstate.csv, {ISO3}-sum
 
 # ---------------------------------------------------------------- small helpers
 def taxonomy_labels():
-    """`{slug: label}` from `site/metadata/taxonomy.csv` — the display vocabulary.
+    """`{slug: label}` from Corpus's `lookups/taxonomy.csv` — the display vocabulary.
 
-    Was a regex over `lookups/taxonomy.md` until 2026-08-19. That file is prose as
+    Was a regex over OSINT's `lookups/taxonomy.md` until 2026-08-19. The two now sit
+    under the same directory name in different repositories, so read the extension:
+    `.csv` is Corpus's labels, `.md` is OSINT's vocabulary and its prose. That file is prose as
     well as vocabulary, and the pattern `- \`slug\` — label` matched greedily to the
     end of the line: `dpi.registry`'s entry carries a 558-character ruling about
     where registry material files, and all 558 characters were arriving in the

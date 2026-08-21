@@ -53,7 +53,7 @@ def vocab():
         for r in csv.DictReader(fh):
             places[r["iso-3"]] = r["country-name"]
             regions[r["iso-3"]] = r.get("Region") or ""
-    # Topic labels come from `site/metadata/taxonomy.csv`, not from the vocabulary
+    # Topic labels come from Corpus's `lookups/taxonomy.csv`, not from the vocabulary
     # snapshot (Bill, 2026-08-19). The snapshot is prose as well as vocabulary, and the
     # pattern this used to run over it read `dpi.registry`'s 558-character ruling as the
     # label — which reached this page's own filter list. The slugs are still OSINT's;
