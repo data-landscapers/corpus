@@ -66,6 +66,7 @@ Where two facts in your slice disagree and neither is better sourced or more rec
 A fact that answers four chapters was extracted once and passed to all four, so that the report reads as one record rather than four readings of it.
 
 - `mine: true` — your chapter owns it. **State it in full**, with its figure and its link, where it earns its place.
+- A fact carrying `costated`, and an `owner_slug` naming a sub-section that is not yours, was **promoted** into your chapter because that sub-section owned nothing of its own. It reaches you as `mine: true` and you state it in full like any other. `owner_slug` is where it came from, not a restriction.
 - `mine: false` — another chapter states it in full. You may **refer to it in passing** where your narrative needs it, but **do not restate the figure**. Write *"the identity register's incomplete coverage"*, not *"the 123.9m NINs enrolled (October 2025)"*. Link it if you lean on it.
 
 Without this the population-coverage number appears four times in four voices, which is what makes a report unskimmable.
