@@ -137,6 +137,7 @@ CHROME = """  <header class="site-header">
       </a>
       <nav class="site-nav" aria-label="Main">
         <a href="{base}/">Home</a>
+        <a href="{base}/bulletin/">Bulletin</a>
         <a href="{base}/#countries">Countries</a>
         <a href="{base}/#topics">Topics</a>
         <a href="{base}/catalogue/">Catalogue</a>
