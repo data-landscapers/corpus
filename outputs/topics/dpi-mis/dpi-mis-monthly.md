@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COG; COD; EGY; ETH; GAB; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: e1ba190eba28
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
+record: 1d59f9705d50
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -68,6 +68,10 @@ A [livestock information system went live on 29 July](https://developmentgateway
 ## Gabon
 
 On 30 July the education ministry received 1,000 tablets for what the minister described as 148 connected schools ([handover](https://agpgabon.ga/gabon-remise-de-1-000-tablettes-au-ministere-de-leducation-nationale/)).
+
+## Ghana
+
+One sectoral system was assessed rather than built. A Danish-funded gap assessment of the meteorological agency [reported gaps across its ICT infrastructure, digital systems, data governance and cybersecurity framework](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/), presented to the communications ministry in Accra under a bilateral weather and climate cooperation. Neither the assessment text nor any cost, timetable or funding line for the roadmap it recommends is published, so what the month holds is a diagnosis and no commitment to act on it.
 
 ## Guinea
 

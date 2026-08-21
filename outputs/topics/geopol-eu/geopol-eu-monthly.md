@@ -1,15 +1,17 @@
 ---
 title: EU activities — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: geopol.eu
 places: COG; KEN; MLI; MAR; UGA
-record: 3a0d55f06724
+record: e7a5126bae03
 ---
 
 # EU activities: monthly update, July 2026
 
 *5 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Congo
 

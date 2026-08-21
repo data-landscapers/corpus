@@ -1,15 +1,15 @@
 ---
 title: Strategies, plans and policies — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: gov.policy
-places: BEN; BWA; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: a3b39d8f4ee7
+places: BEN; BWA; BFA; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 51dcede717a3
 ---
 
 # Strategies, plans and policies: monthly update, July 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -22,6 +22,10 @@ Two instruments moved in opposite directions on the same problem. A [joint circu
 ## Botswana
 
 On 13 July the regulator and the environment department [launched a national e-waste management strategy and signed an inter-agency memorandum](https://techreviewafrica.com/news/6284/botswana-launches-national-e-waste-strategy-as-bocra-and-environmental-department-sign-partnership-agreement). No targets, budget, collection volumes or implementation dates were published, and the strategy document itself is not on file.
+
+## Burkina Faso
+
+Policy work this month was procedural rather than substantive. The digital transition ministry [held a CASEM session on what it contributes to the RELANCE 2026-2030 national plan](https://lefaso.net/spip.php?article148658). The plan text, the digital component, any budget line and any target are all unpublished, so what the record holds is that the process is running and not what it is expected to produce.
 
 ## Cameroon
 
@@ -54,6 +58,8 @@ The universal-service agency published its own five-year plan on 11 August. It [
 ## Djibouti
 
 At WSIS 2026 in Geneva on 9 July the communications minister [restated Vision Djibouti 2035 as the frame for a regional technology hub](https://www.lanation.dj/geneve-djibouti-affiche-sa-vision-dun-numerique-inclusif-et-dun-hub-technologique-regional/) and [sought ITU and Smart Africa support for public-service digitalisation and AI capacity](https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-seeks-itu-smart-africa-support-for-telecoms-and-ai-development). No instrument resulted.
+
+The artificial-intelligence strategy acquired a launch date rather than a text. The digital economy ministry [announced the country's first national AI forum for 2-3 September 2026 at Djibouti-Ville, with an AI village at the Palais du Peuple](https://www.lanation.dj/lintelligence-artificielle-ouvre-un-nouveau-champ-pour-la-jeunesse/), framed around a young generation of Djiboutian developers and researchers entering the field. The strategy is stated as complete and set to launch there; its content is still unpublished, so what the month adds is a date and an audience.
 
 ## DR Congo
 

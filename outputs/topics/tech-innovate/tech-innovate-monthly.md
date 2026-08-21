@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: tech.innovate
 places: DZA; BDI; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
-record: a9dc8f773b36
+record: 13baece4fecc
 ---
 
 # Innovation ecosystem: monthly update, July 2026

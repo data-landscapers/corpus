@@ -1,15 +1,15 @@
 ---
 title: Digital divides — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: include.divides
-places: AGO; BWA; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NGA; UGA; ZWE
-record: f7b56ae553a6
+places: AGO; BWA; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NGA; SEN; UGA; ZWE
+record: 585cb3e7e76a
 ---
 
 # Digital divides: monthly update, July 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -68,6 +68,10 @@ The funding aimed at those gaps shrank in the same window. An implementing partn
 A global memory-chip shortage was reported on 29 July as turning device cost into a divide variable in a market that imports nearly every computer it sells.
 
 Nothing moved on the identity gender gap, on rural access, or on the schools programme whose January 2026 completion date passed undelivered.
+
+## Senegal
+
+The month's one inclusion measure came from the despatch box rather than a survey. Debating the critical-infrastructure bill, the telecommunications minister [told parliament that 40% of Senegalese still have no access to connectivity](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html), citing a 2024 sector diagnosis of coverage gaps and unmet operator obligations. The diagnosis itself is not held, no definition of access accompanies the figure, and it is two years old at the point of its citation.
 
 ## Uganda
 

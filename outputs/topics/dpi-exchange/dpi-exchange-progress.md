@@ -1,13 +1,13 @@
 ---
-title: Data Exchange — progress report, 2025-08-01 to 2026-08-20
-compiled: 2026-08-20
-period: 2025-08-01 to 2026-08-20
+title: Data Exchange — progress report, 2025-08-01 to 2026-08-21
+compiled: 2026-08-21
+period: 2025-08-01 to 2026-08-21
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: dcb0d46ef8a3
+record: 3fbf03bf05d3
 ---
 
-# Data Exchange: progress report, 2025-08-01 to 2026-08-20
+# Data Exchange: progress report, 2025-08-01 to 2026-08-21
 
 *53 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,13 +17,13 @@ record: dcb0d46ef8a3
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National interoperability system (Decree 25-320, art. 10) | Did not exist | [Obligations await the two art. 8 referentiels, untraced (2026-07); the president gave a one-month deadline on 12 July for cross-sector interconnection through the national data centre, and no completion has been reported against it](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/) | Advanced |
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Citizen-database interoperability commission | Did not exist | [A commission to stabilise civil-identification and adult-citizen database interoperability, biometrically de-duplicate, update residence and consolidate the electoral base, with a US$275m supplementary credit](https://novojornal.co.ao/politica/detalhe/pr-cria-comissao-liderada-pelo-ministro-de-estado-para-actualizar-dados-dos-cidadaos-maiores-com-prova-de-vida-que-passou-a-ser-obrigatoria-nos-periodos-pre-eleitorais-72374.html) | Advanced |
 | Logistics single window | Did not exist; the port, foreign-trade and customs platforms ran separately | [An integrated ecosystem to absorb three separate agency platforms into one, framed explicitly as a formalisation and tax-base instrument rather than trade facilitation](https://pt.linkedin.com/posts/arccla-angola-68b44027a_jul-vai-contribuir-para-diminui%C3%A7%C3%A3o-de-comerciantes-activity-7487902290780180480-sMdy) | Advanced |
@@ -31,11 +31,11 @@ record: dcb0d46ef8a3
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | SECUROUTE road-enforcement data platform | Did not exist | [Being extended for full interoperability with the national exchange](https://techafricanews.com/2026/01/27/cybastion-advances-digital-government-solutions-supports-benins-securoute-infrastructure-upgrade/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Electronic international waybill | Did not exist | [Live at the Port of Cotonou](https://fraternite.bj/benin-la-lettre-de-voiture-internationale-electronique-au-depart-du-port-officiellement-lancee/) | Advanced |
 | Xroad-BJ national data exchange | Operating (2025-08) | [73 members, 176 information systems, 512 services; 138.17m requests cumulatively](https://statistiques.xroad.bj/) | Advanced, in traffic |
@@ -44,26 +44,26 @@ record: dcb0d46ef8a3
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | SADC Agricultural Information Management System | ***Baseline not held*** | [Existing agricultural systems being assessed for integration; no integration date or committed systems held](https://www.mmegi.bw/news/botswana-moves-to-strengthen-agricultural-data-integration/news) | ***Baseline not held*** |
 | SADC cross-border DPI and federated eKYC framework | ***Baseline not held*** | [Botswana named as one of sixteen participating states; no Botswana-specific integration step, pilot or date held](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries) | ***Baseline not held*** |
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Electronic travel form | Did not exist; airport embarkation and disembarkation forms were completed on paper | [Forms filled online, with the border-police director stating that centralised data opens intelligence uses including movement analysis, anomaly detection and risk profiling](https://www.sidwaya.info/formalites-a-laeroport-la-fiche-de-police-se-remplit-desormais-en-ligne/) | Advanced |
 
 ## Burundi
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | EAC cross-border secure data-sharing framework | Did not exist | [Validated; no national implementing instrument on file](https://www.burunditimes.com/eac-backs-secure-data-sharing-framework-to-drive-regional-trade-innovation-and-growth/) | Advanced |
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National government interoperability layer | Not held | [The posts and telecommunications ministry has tasked the state operator CAMTEL with carrying national data and infrastructure interoperability; no design, timetable or budget published](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/) | Advanced |
 | Trilateral customs steering committee | Did not exist | [The committee established, with commitments to harmonised procedures, digital interoperability and coordinated risk management on two named corridors](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/) | Advanced |
@@ -95,7 +95,7 @@ record: dcb0d46ef8a3
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | e-Administration bank-loan interconnection | Did not exist | [Interconnection under development between the civil-service ministry's information systems and Ivorian banks, through the banking association APBEF-CI, to transfer loan-application supporting documents electronically with electronic-signature authentication in place of paper attestations; scoped to 314,310 civil servants and state agents; builds on SIGFAE, the civil-service management system; no go-live date, cost or contracting party stated](https://connectionivoirienne.net/2026/07/31/fonction-publique-vers-la-fin-des-longues-demarches-pour-obtenir-un-pret-bancaire-en-cote-divoire/) | Advanced |
 | Returning-migrant profiling tool | Did not exist; fourteen migration bodies collecting separately | [Single collection and profiling instrument being co-designed, with a roadmap for transferring the fourteen bodies' data into one directorate](https://www.aip.ci/cote-divoire-aip-des-acteurs-des-dispositifs-migratoires-plaident-pour-une-gouvernance-fondee-sur-des-donnees-fiables/) | Advanced |
@@ -109,7 +109,7 @@ record: dcb0d46ef8a3
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Prices database and central-administration data-exchange platform | Did not exist | [Ordered by statute on the Direction de l'Execution Budgetaire, to be established with every central-administration department as the counterpart to the central purchasing body created by article 37; no design, delivery date, budget line or operating rule is stated (2025-12)](https://www.journalofficiel.dj/texte-juridique/loi-de-finances-n203-an-25-9eme-l-portant-budget-initial-de-letat-pour-lexercice-2026/) | Advanced |
 | Real-time identity verification for banks and social protection | Did not exist | [In preparation; no date published (2026-07)](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/) | Advanced |
@@ -117,14 +117,14 @@ record: dcb0d46ef8a3
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Data-sharing platform and government payment gateway | ***Baseline not held*** | [Specified on paper only: no architecture, pilot, operator or date, and the interoperability framework is itself a consultant deliverable](https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project) | ***Baseline not held*** |
 | National electronic certification authority | ***Baseline not held*** | [Named, not established; a July 2026 interministerial order already prices qualified trust services at US$30,000 foreign and US$10,000 local](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/) | ***Baseline not held*** |
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital treasury of reusable verified documents | The base carries no position at 2025-08-01 | [An operating model set and applied to a number of government services for gradual expansion, its first output the registration certificate as a verified reusable digital document consumed by the shop-licensing service, implementing the once-only principle](https://gate.ahram.org.eg/News/5813424.aspx) | Advanced |
 | Digital trust services, e-signature and e-seal | The base carries no position at 2025-08-01 | [E-signature and e-seal live and integrated with digital identity, with remote e-signature stated as expanding across government services and the digital post box system stated as being finalised](https://gate.ahram.org.eg/News/5813424.aspx) | ***Baseline not held*** |
@@ -132,7 +132,7 @@ record: dcb0d46ef8a3
 
 ## Equatorial Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | I-CEMAC border screening connection | Connected at ten sites under a project running to 2024 | [Connected; no traffic figure for Equatorial Guinea and no successor project on record](https://www.interpol.int/en/How-we-work/Border-management/Projects/Project-I-CEMAC) | No change |
 | National interoperability framework | Absent | [Absent; no framework, standard or governing body has been published since, and at the National Development Agency's directorship handover on 7 August 2026 its outgoing Inspector General named limited data-sharing by line ministries as the agency's main obstacle to monitoring delivery against the National Sustainable Development Strategy](https://www.guineaecuatorialpress.com/noticias/milagrosa_obono_angue_preside_el_acto_oficial_de_entrega_de_despacho_de_la_agencia_nacional_de_desarrollo) | No change |
@@ -145,13 +145,13 @@ record: dcb0d46ef8a3
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Government system interoperability | Baseline not held | [More than half of ministries lack meaningful interoperability or central-repository connectivity](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) | ***Baseline not held*** |
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National data exchange platform | Did not exist | [Approved and paired with a predictive model; not built](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) | Advanced |
 | EthSwitch national switch | ***Baseline not held*** | [Links M-PESA to more than 30 banks and wallets; EthQR across 50,000+ merchants](https://itweb.africa/article/m-pesa-ethiopia-surges-258-as-ethswitch-fuels-growth/) | ***Baseline not held*** |
@@ -174,7 +174,7 @@ record: dcb0d46ef8a3
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Mobile money interoperability | Instant-pay value of GH¢120.1bn in 2023, with the interoperable share of the market not stated | [33.5m transactions worth GH¢6.2bn in June 2026, about 1.3% of total mobile-money value](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/) | Advanced |
 
@@ -194,7 +194,7 @@ record: dcb0d46ef8a3
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Advanced Cargo Declaration system | Did not exist | [In service, moving document lodgement and verification to before loading at the port of export; more than 1,000 applications in the first five days](https://citizen.digital/article/kra-kpa-roll-out-smart-gate-pilot-cargo-system-at-mombasa-port-to-reduce-delays) | Advanced |
 | Smart Gate, Port of Mombasa | Did not exist | [Piloting at one gate, integrating the Integrated Customs Management System with the systems of other government agencies; no cost, vendor, timetable or evaluation criterion published](https://citizen.digital/article/kra-kpa-roll-out-smart-gate-pilot-cargo-system-at-mombasa-port-to-reduce-delays) | Advanced |
@@ -224,7 +224,7 @@ record: dcb0d46ef8a3
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Customs IT connectivity arrangement with South Africa | Legal basis only: a customs mutual administrative assistance agreement negotiated in 2019 on a 2010 memorandum of cooperation, with customs information exchanged manually | [An arrangement signed establishing a secure electronic platform for real-time customs data exchange, aligned to the World Customs Organisation data model, with both authorities agreeing to fast-track implementation; no go-live date, purpose-limitation, retention or reciprocity terms published; the South African revenue service notified the updated arrangement for automatic exchange of customs information on 7 August 2026 and published a draft rule amendment with it](https://www.freightnews.co.za/article/international-treaties-agreements-maas-on-customs-update) | Advanced |
 | Enterprise Service Bus | Not operationalised through 2025; the e-government department's failure to bring it into service left ministries siloed and denied online passport registration and driver's licence payments | [Nothing on file establishes it operating; industry voices in January 2026 were still pressing for all ministries, departments and agencies to be onboarded](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | No change |
@@ -239,20 +239,20 @@ record: dcb0d46ef8a3
 
 ## Mauritania
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National data management system | Did not exist | [Being scoped for inter-administration integration with blockchain proposed as its trust layer, on a national blockchain policy in consultation since November 2025 naming land administration, trade, public procurement and natural-resource management; no draft text, adoption date or budget published](https://www.ami.mr/archives/265184) | Advanced |
 
 ## Mauritius
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Statutory data sharing by the statistics office | Did not exist | [The statistics office would be empowered to share more data with the finance ministry, alongside new declaration duties on public bodies; the bill was before Parliament and its enacting text is not held (2026-07)](https://lexpress.mu/node/560855) | Advanced |
 | e-Government Interoperability Framework | The standing interoperability instrument, dating from 2002 (2025-08) | [Unchanged; no successor framework is held, and the interoperability commitments of the 2025-2029 blueprint have produced no published instrument (2026-08)](https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf) | No change |
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Continental cross-border data exchange pilot | Did not exist; the system was launched November 2025 | [Morocco one of three pilot states, on a distributed-ledger reference architecture owned by the continental trade secretariat](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Advanced |
 | National water digital twin | Did not exist | [A three-layer design resting on a sovereign national data platform hosted in Morocco, fusing sensor networks, satellite observation and data from the basin agencies, the planning commission and engineering consultancies; to be hosted in an engineering school's forthcoming scientific tower](https://medias24.com/2026/07/28/jumeau-numerique-de-leau-ce-quil-faut-savoir-sur-ce-pillier-du-pole-tec-1732383/) | Advanced |
@@ -262,7 +262,7 @@ record: dcb0d46ef8a3
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Portal de Divulgacao de Dados de Infra-estruturas Publicas (IPDP) | Did not exist | [Government open-data portal run by the Fundo de Estradas (UK International Development-supported) publishing road, bridge and infrastructure project data under a Creative Commons licence and the OC4IDS standard](https://www.dadosinfra.co.mz/) | Advanced |
 | Single unified government database | ***Baseline not held*** | [Named as an agency responsibility; no design, scope, host or timetable published](https://www.biometricupdate.com/202603/mozambique-sets-up-agency-to-spearhead-its-digital-transformation-ambitions) | ***Baseline not held*** |
@@ -278,17 +278,17 @@ record: dcb0d46ef8a3
 
 ## Niger
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | West African foundational-ID interoperability strategy | Did not exist | [Validated; no implementation step published](https://www.biometricupdate.com/202508/stakeholders-validate-strategy-on-digital-id-interoperability-in-west-africa) | Advanced |
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | NCC and Rural Electrification Agency data-sharing MoU | Did not exist | [Electrification and universal-service deployment data overlaid](https://apanews.net/ncc-rea-sign-mou-to-drive-digital-infrastructure-expansion/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Bilateral MDA integration agreements under the NIMC Act | Did not exist | [Nine agencies took bilateral cover under the new Act](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/) | Advanced |
 | CBN-NCC telecom identity risk management feed | Did not exist | [Banks can check SIM-swap and recycled numbers; fraud fell 51% to ₦25.85bn in 2025](https://techcabal.com/2026/04/21/new-cbn-ncc-opens-telecom-data-to-banks/) | Advanced |
@@ -299,7 +299,7 @@ record: dcb0d46ef8a3
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National digital public infrastructure strategy | Did not exist | [A shared foundation of interoperable identity, payments and data-exchange layers treated as public goods](https://www.newtimes.co.rw/article/34011/news/featured/rwanda-launches-digital-public-infrastructure-strategy-to-power-citizen-services-ai) | Advanced |
 | National data-sharing platform | A build under way with a 2026 target and a vendor paired with internal experts | [Still no go-live announcement as at 2026-08-05, with the target year eight months gone](https://www.newtimes.co.rw/article/30040/news/technology/govt-moves-ahead-with-data-sharing-platform-to-go-live-in-2026) | No change |
@@ -307,7 +307,7 @@ record: dcb0d46ef8a3
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital agency and health-cover platform interconnection | Did not exist | [The convention signed, with training of service-point managers, joint communication and a monitoring mechanism committed](https://www.seneweb.com/fr/news/Video/sante-et-numerique-senum-sa-et-la-sen-csu-sunissent-pour-faciliter-lacces-a-la-couverture-maladie_n_499241.html) | Advanced |
 | Government enterprise architecture | Did not exist | [A framework being built across policies, processes, data, applications and infrastructure; the diagnostic phase's interim results have been presented, a target architecture proposed, and the inventory of state information systems launched](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy) | Advanced |
@@ -324,7 +324,7 @@ record: dcb0d46ef8a3
 
 ## Sierra Leone
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | ASYCUDA customs system | In service as the customs declaration system, with no integrity finding on record | [In service, with the anti-corruption commission finding over 300 billion leones lost to backend manipulation - processed customs declarations deliberately deleted and dormant bank-teller profiles used to validate transactions after the account holders had left their institutions - and reasonable grounds to suspect coordinated collusion. The commission’s own text puts the mechanism as clearing agents’ payments being unlawfully deleted from the revenue authority’s tax system after the funds had reached government-designated bank accounts, leaving significant discrepancies between what the banks collected and what the system recorded, and suspects revenue-authority staff acting in collusion with tellers at the commercial banks that processed the payments](https://www.linkedin.com/posts/fritong-post_part-1-nras-missing-billions-the-acc-activity-7494064892119998465-bd_y) | Regressed |
 | Government Service Bus and X-Road data exchange layer | World Bank terms of reference for an open-source prototype in the Ministry of Finance data centre; nothing running (2025) | [Data Exchange Layer piloting on X-Road under the Ministry of Finance; no production date, connected agencies or governance rules published (2026-08)](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) | Advanced |
@@ -338,7 +338,7 @@ record: dcb0d46ef8a3
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | MzansiXchange data exchange | One-year pilot launched 2025-10-09 | [Nine months in; extra capacity onboarding](https://www.sanews.gov.za/south-africa/government-launches-mzansixchange-improve-evidence-based-policy) | Advanced, stalling |
 | SAHPRA VigiFlow serious-adverse-event e-reporting pilot | Did not exist | [Pilot open by invitation; no duration or mandatory date published](https://www.sahpra.org.za/document/pilot-project-for-electronic-reporting-of-serious-adverse-events-e-reporting-for-industry-vigiflow-module/) | Advanced |
@@ -348,13 +348,13 @@ record: dcb0d46ef8a3
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Real-time gross settlement component | Did not exist | [In use, with uptake reported but no figures published (2026-05)](https://cajnewsafrica.com/2026/05/20/south-sudan-platform-to-digitise-economy-pays-off/) | Advanced |
 
 ## Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Electronic single window (National Investment Authority) | Did not exist | [Precondition-stage; authority is also still building its first website](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) | Advanced |
 | ASYCUDA customs system (Gezira/Hantoub) | ***Baseline not held*** | [Reactivated at Hantoub only](https://www.suna.sd/posts/aaaad-tshghyl-ntham-alasykoda-balhthyr-algmrky-bgmark-olay-algzyr-astaadada-lantlak-alaaml-algmrky) | No change |
@@ -363,7 +363,7 @@ record: dcb0d46ef8a3
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Appeals module integration with the judiciary | Did not exist | [Announced, with no date attached](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668) | Advanced |
 | Government enterprise service bus | A prime-ministerial joining deadline of 2025-07-30 just passed, with no compliance count held | [External validation as the basis of the top-tier classification; still no compliance count held](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success) | Advanced |
@@ -387,14 +387,14 @@ record: dcb0d46ef8a3
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | UGHub | Used by more than 100 agencies and private entities including banks, insurers and fintechs (2024-06) | [Agency integration 37%, target 73% by FY2029/30; no operational or adoption reporting held since 2024-06](https://techafricanews.com/2026/06/22/nita-u-launches-five-year-digital-strategy-to-increase-e-government-use-in-uganda/) | No change |
 | UGPass | Authentication and e-signature platform; no user or transaction figures at any date | [Unchanged; nothing on file since the deck](https://id4africa.com/2024/ps4/PS4-S2-Uganda-NITA-NIRA-Final.pdf) | No change |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Government Service Bus | Central-government integration layer carrying sixty land e-services and identity and company-registry verification calls; no service or collection totals published | [Over 400 government services onboarded across the service bus, payment gateway, national portal and payment platform, with over K8.8 billion collected cumulatively; extended to eight of 116 local authorities, returning about K21.7 million in the first month](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/MINISTERIAL%20STATEMENT%20-%20Ministry%20of%20Lands.pdf) | Advanced |
 | IDEA Programme regional coordination | Zambia the fifth operation of the multiphase approach approved 2024-06-27, with the regional economic community as coordinator; no forum or governance cadence on file | [Inaugural annual digital forum held in Lusaka 27-29 July 2026 and the third steering committee convened 2026-07-30; Phase I stated as Zambia, the DRC, Malawi and Angola, with three further states preparing under Phase II](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Advanced |
@@ -403,7 +403,7 @@ record: dcb0d46ef8a3
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Health information exchange | ***Baseline not held*** | [Under development to connect laboratory systems, logistics management information systems and DHIS2 to the national electronic medical record; the ministry's ZWCore FHIR implementation guide, a continuous-build draft not yet an authorised publication, defines national FHIR profiles for patient, encounter, organization, location, practitioner and related-person resources and a provisional identifier namespace for the Impilo Patient Health ID; no completion date or coverage figure published](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf) | Advanced |
 | Mandated open interface standards for public-sector platforms | None published | [Commitment stated; no instrument, standard document, scope or date held](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
@@ -412,14 +412,14 @@ record: dcb0d46ef8a3
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | AU Data Policy Framework | In force since February 2022 as the continental reference for data governance, with none of its operative texts drafted | [Unchanged in text; the three operative frameworks it provides for went to validation in December 2025 and none is adopted or published](https://au.int/sites/default/files/documents/42078-doc-DATA-POLICY-FRAMEWORKS-2024-ENG-V2.pdf) | No change |
 | AU Guidelines for Integrating Data Provisions in Protocols on Digital Trade | Issued September 2023 as a reference guide for negotiators integrating data provisions into the AfCFTA Protocol on Digital Trade | [Unchanged; no record is held of its provisions being carried into the Protocol or its annexes](https://au.int/sites/default/files/documents/44807-doc-Guidelines-Integrating-Data-Digital-Trade-ENG-V3_161.pdf) | No change |
 | Smart Africa cross-border data exchange guidelines | Drafted by eleven member states under the Council of African IT Agencies | [No adopted text, signatory list or implementation record held in the year since the drafting session](https://smartafrica.org/smart-africa-mobilises-11-member-states-in-the-kingdom-of-morocco-to-co-create-africas-first-cross-border-data-exchange-guidelines) | No change |
 | Continental data governance frameworks | ***Baseline not held*** | [Three drafts - data categorisation and data sharing, cross-border data flows, and a continental open data strategy - validated with member states and regional economic communities; none submitted to AU policy organs and none published](https://au.int/sites/default/files/pressreleases/45730-pr-PR-_Validation_Workshop_Data_Governance_Rev.pdf) | ***Baseline not held*** |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | ADAPT (Africa Digital Access and Public Infrastructure for Trade) | Did not exist | [In pilot in Nigeria, Kenya and Morocco on the Secretary-General's statement to the second Digital Trade Forum; no live exchange, governing instrument or assessment held](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Advanced |
 | AU Digital Agriculture Strategy implementation | Adopted for 2024-2030 with an average agricultural growth target of 6 per cent and an estimated US$165 million continental implementation cost, prioritising national e-agriculture strategies over a uniform regional approach after a 2021 situation analysis covering all 55 member states | [A continental workshop convened regional economic communities, union organs and participating countries to harmonise implementation, seeking interoperable agricultural data platforms, common data governance and alignment of national and regional systems with the continental digital transformation strategy and agriculture reporting](https://au.int/en/pressreleases/20260811/african-union-advances-digital-agriculture-strategy-implementation-across) | Advanced |
@@ -436,6 +436,6 @@ record: dcb0d46ef8a3
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | SIGMAT (ECOWAS interconnected transit management system) | Operating on major corridors since 2019 | [A forward roadmap presented to the World Customs Organization and deployment agreed at three further border posts; the e-Hub and the regional guarantee system remain roadmap items](https://www.ecowas.int/ecowas-presents-sigmat-at-the-world-customs-organization-2026-technology-conference-in-abu-dhabi/) | Advanced, marginal |

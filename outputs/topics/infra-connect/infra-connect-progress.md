@@ -1,13 +1,13 @@
 ---
-title: Connectivity — progress report, 2025-08-01 to 2026-08-20
-compiled: 2026-08-20
-period: 2025-08-01 to 2026-08-20
+title: Connectivity — progress report, 2025-08-01 to 2026-08-21
+compiled: 2026-08-21
+period: 2025-08-01 to 2026-08-21
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 93e3711fa524
+record: 9f79502f486e
 ---
 
-# Connectivity: progress report, 2025-08-01 to 2026-08-20
+# Connectivity: progress report, 2025-08-01 to 2026-08-21
 
 *57 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 93e3711fa524
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | "All Fiber" national fibre programme (copper phase-out) | Phase-out announced, 2027 target (2025-05) | [3.4m of 7m fixed-internet subscribers on fibre (2026-05)](https://www.echoroukonline.com/%D8%B2%D8%B1%D9%88%D9%82%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85) | Advanced, on subscriber numbers rather than on the phase-out date |
 | 4G base-station expansion (345 new stations, 44 wilayas) | No expansion programme on record | [345 stations across 44 wilayas, toward 4,500 localities by 2027](https://www.ecofinagency.com/news-digital/1802-53004-algeria-s-state-owned-telecom-plans-345-new-4g-stations-nationwide) | Advanced |
@@ -31,9 +31,10 @@ record: 93e3711fa524
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 2Africa Angola branch | Not in service; the cable had berthed but the branch and landing station were still being built | [In service on a US$43m operator-built branch, with 23.6 Tbps of the cable's capacity allocated to Angola, replacing an end-of-life system and one at capacity](https://angop.ao/noticias/economia/unitel-invete-mais-de-40-milhoes-de-dolares-americano-em-fibra-optica/) | Advanced |
+| Africell network in Cabinda | Did not exist | [20 telecom towers installed and satellite backhaul agreed, with commercial voice, data and satellite-linked service stated as starting within days](https://angop.ao/es/noticias/tecnologia/servicos-de-telefonia-movel-africell-chegam-a-cabinda/) | Advanced |
 | Digital terrestrial television transition | Did not exist as a financed project | [About US$10m of foreign financing modernising transmitters at three sites, motivated partly by disaster-alert broadcasting; no progress or switchover date published since](https://itweb.africa/article/angola-gets-10m-from-japan-for-dtt-project/KBpdgvpmlj17LEew) | Advanced |
 | Enterprise 5G service | Phase-one technical specifications being finalised, not commercially launched | [Commercially launched in Cabinda, with Luanda at over 70% city coverage, about US$20m budgeted and every provincial capital targeted by 2027](https://angop.ao/en/noticias/economia/filda-2026-servico-5g-empresarial-da-mercury-chega-a-provincia-de-cabinda/) | Advanced |
 | Equiano capacity through Namibia | Did not exist | [The state operator to receive an initial 1.0 Tbps of dedicated capacity through a Namibian landing, with an option to assume ownership; design, testing, commissioning and handover still to run](https://techafricanews.com/2026/06/15/telecom-namibia-angola-telecom-and-satcab-sign-sarssy-deal-to-deliver-1-tbps-connectivity-across-southern-africa/) | Advanced |
@@ -47,14 +48,14 @@ record: 93e3711fa524
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G networks | One 5G operator (MTN, 2024) | [Two operators, after Moov Africa Bénin](https://techafricanews.com/2026/04/28/benin-enters-the-5g-era-as-moov-africa-benin-launches-high-speed-network-at-novotel-orisha-cotonou/) | Advanced |
 | National fibre backbone | In service | [More than 3,000 km underpinning the service estate](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-sets-2031-horizon-for-new-digital-transformation-roadmap) | No change |
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | MTC Namibia and BoFiNet cross-border fibre memorandum | No agreement on file (2025-08) | [Delivered on its first leg: MTC has completed the Gobabis-Buitepos fibre link, now interconnecting with BoFiNet at Charles Hill, which the two sides describe as the first direct cross-border fibre link between the operators. The remaining 4G gaps along the Trans-Kalahari Corridor are costed at about N$52 million across 13 new sites](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) | Advanced |
 | Powertel-Paratus fibre corridor | Public-private agreement signed June 2025, no route carrying traffic | [Phase 1 live at 800Gbps equipped on equipment rated over 10Tbps; phase 2 Bulawayo-Livingstone due September 2026](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V) | Advanced |
@@ -67,7 +68,7 @@ record: 93e3711fa524
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital planning observatory | Recommended by a 2019 master plan, with ministry work to make it operational since 2023 | [A live geospatial platform on eight functional objectives covering network mapping, infrastructure sharing and duplicate-investment reduction, built to international mapping recommendations](https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-lobservatoire-de-lamenagement-numerique-lance/) | Advanced |
 | Domain-name security extensions | Not deployed | [Cryptographic signing live on the country-code domain's records](https://www.ecofinagency.com/news-digital/0912-51242-burkina-faso-targets-online-trust-with-new-internet-security-measures) | Advanced |
@@ -86,7 +87,7 @@ record: 93e3711fa524
 
 ## Burundi
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | PAFEN rural 4G build | Did not exist | [Lumitel >US$10m for 86 hills across 14 provinces; ONATEL US$5.9m for 92 hills covering 372,035 people](https://techafricanews.com/2026/05/04/burundi-signs-usd-5-9-million-contract-to-expand-rural-network-connectivity/) | Advanced |
 | Mobile and internet network quality | Outages attributed to power, fuel and foreign-exchange shortages (2025-09) | [Degraded; ARCT names power cuts, generator fuel supply, unstable REGIDESO supply, urban bandwidth saturation, ageing transmission equipment and missing masts](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/) | No change |
@@ -97,7 +98,7 @@ record: 93e3711fa524
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Chad border fibre link | A cooperation agreement of May 2025 promised the section within fourteen days | [Not built; the April 2025 memorandum was suspended on digital-sovereignty grounds and the parties told to revise and re-sign](https://www.connectingafrica.com/fiber-networking/chad-tells-operators-to-fast-track-fiber-link-to-cameroon) | Regressed |
 | Fibre backbone Phase IV | Backbone about 12,000 km; no fourth-phase financing authorised | [CNY 1,350,963,161, about FCFA 108.4bn, authorised for a further 4,000 km, a national data centre and regional links to Chad, the Central African Republic and Nigeria](https://leconomie.info/extension-du-reseau-de-fibre-optique-le-cameroun-sendette-a-hauteur-de-108-milliards-de-fcfa-aupres-de-la-chine/) | Advanced |
@@ -168,7 +169,7 @@ record: 93e3711fa524
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G commercial launch | Spectrum re-planned and financial terms settled after a missed 2023 target, with the regulator calling deployment imminent | [Announced for July 2026 in towns above 25,000 inhabitants with all operators said to be equipped; no launch, spectrum award terms or coverage obligation on file](https://techafricanews.com/2026/06/15/cote-divoire-accelerates-digital-push-with-starlink-licence-and-5g-launch/) | Stalled |
 | Deployed optical fibre | 30,303 km deployed nationally | [About 38,000 km, with connectivity reaching nearly one million homes; the state broadband backbone accounts for over 6,600 km](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation) | Advanced |
@@ -187,7 +188,7 @@ record: 93e3711fa524
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | DARE1 southern extension (Mombasa-Mtunzini) | No southern extension on record | [Extension announced; 36 Tbit/s over about 3,200-3,500 km, ready for service 2028](https://www.connectingafrica.com/connectivity/dare1-subsea-cable-to-link-kenya-to-south-africa) | Advanced |
 | Djibouti Digital Foundation and EARDIP domestic fibre rollout | Ali-Sabieh regional hospital connected, over 200 km deployed (2025-06) | [Damerjog in Arta added; stakeholder and grievance workshop covering Djibouti-ville, Balbala and the five interior regions (2025-10)](https://www.lanation.dj/damerjog-entre-dans-lere-du-numerique-grace-au-projet-djibouti-fondement-du-numerique-dfn/) | Advanced |
@@ -199,7 +200,7 @@ record: 93e3711fa524
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Africa Congo Internet Exchange | Established 2023 and operating from a single presence | [A distributed exchange across two carrier-neutral facilities, open to licensed operators, service providers, mobile networks, cloud and content providers](https://itweb.africa/article/distributed-exchange-boosts-drc-connectivity/4r1ly7R9GkLvpmda) | Advanced |
 | DRC mobile subscription and internet-penetration statistics (EACO regional report) | No EACO/ARPTC-sourced figure held | [73.93m mobile subscriptions, 67.8% penetration (from 63.96m/60.5% in 2024); 36.98m mobile-internet subscriptions, 33.9% penetration; mobile-internet revenue US$970.2m in 2025, nearly matching voice revenue; DRC reports no mobile-money transaction value to EACO](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf) | Advanced |
@@ -213,7 +214,7 @@ record: 93e3711fa524
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G and aggregate mobile download speeds | 5G median 110.5 Mbps on launch day and 106.80 Mbps in month one; pre-launch 4G baseline 32.8 Mbps; combined 4G and 5G median 37.68 Mbps | [5G median about 89 Mbps at month six; combined 4G and 5G median 34.77 Mbps, below the pre-launch baseline, with 4G down 17%](https://www.ookla.com/articles/5g-north-africa-2026) | Regressed |
 | Active international submarine cable systems landing in Egypt | 13 systems landing on the eastern coast with a stated plan to expand to 18 (2024-11-18, operator-reported) | [About 15 active international systems, the largest concentration in Africa (2025-11)](https://ir.te.eg/en/CorporateNews/PressRelease/211/Telecom-Egypt-s-Regional-Data-Hub-2-Awarded-Tier-III-Design-Certification) | Advanced |
@@ -228,7 +229,7 @@ record: 93e3711fa524
 
 ## Equatorial Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital Terrestrial Television project | Built but incomplete, with no published switchover date | [Under tender for diagnostic, regularisation, rehabilitation, commissioning and operational transfer, Treasury-financed, with no contract value, deadline or switchover date published](https://ahoraeg.com/politica/2026/07/29/el-gobierno-lanza-una-licitacion-publica-para-el-diagnostico-integral-del-proyecto-de-television-digital-terrestre-tdt/) | Advanced, a diagnostic tender only |
 | Gabon-Equatorial Guinea fibre, roaming and frequency accords | Did not exist | [Signed, covering fibre interconnection, free roaming and frequency coordination; no traffic or tariff figure published](https://techafricanews.com/2025/11/13/historic-fibre-roaming-and-frequency-deals-signed-between-gabon-and-equatorial-guinea/) | Advanced |
@@ -249,7 +250,7 @@ record: 93e3711fa524
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Mbabane smart-city deployment | Did not exist | [Under installation; no completion date published](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) | Advanced |
 | Minimum internet service standard | 2 Mbps minimum | [10 Mbps proposed; the 2 Mbps standard remains in force](https://times.co.sz/39355/technology-today/eswatini-set-for-major-digital-leap/) | Advanced |
@@ -261,7 +262,7 @@ record: 93e3711fa524
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Ethio Telecom network | Nationwide incumbent network (2025-08) | [99.8% coverage (2026-04) on 90.1m subscribers; 215.8bn Birr revenue in FY2025/26 with data and internet 31.1% of it against mobile voice at 23.5%, operating profit 92.9bn Birr](https://techafricanews.com/2026/04/20/ethio-telecom-reaches-99-8-coverage-accelerates-smart-infrastructure-development/) | Advanced, in reach and revenue |
 | Network expansion contracts from MWC 2026 | Did not exist | [Ericsson 1,500 sites and 502 upgrades under the MWC contracts; separately, 879 sites completed under the ZTE programme (462 RAN modernisation, 237 microwave-link upgrades, 103 IP RAN sites), 92% 4G population coverage across ZTE's own network footprint, with 124 new sites, 272 U2100 refarming sites and 115 rural sites still to come](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/) | Advanced |
@@ -292,7 +293,7 @@ record: 93e3711fa524
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G spectrum request for applications | Did not exist | [Eleven lots across 700 MHz, 2.3 GHz and 3 GHz on a US$230m aggregate reserve and 15-year licences, amended in seven places by a consolidated response of 2026-07-31; no award made](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) | Advanced |
 | Annual fibre cuts | About 400 cuts a year in the early fibre-deployment years, undated | [Over 8,000 cuts a year, with one sabotage and roadworks episode disrupting 157 sites](https://www.graphic.com.gh/business/business-news/ghanas-digital-backbone-comes-under-strain.html) | Regressed |
@@ -339,8 +340,9 @@ record: 93e3711fa524
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
+| Amazon Leo gateway licence application | Did not exist | [Applied for: a fifteen-year international gateway operator licence covering a satellite earth station and network control centre, following an earlier network facilities provider application](https://techafricanews.com/2026/08/20/who-will-control-africas-satellite-internet-layer-starlink-amazon-leo-or-the-carriers/) | Advanced |
 | Communications Equipment Distributor licence | Did not exist | [Mandatory before equipment type approval and TradeNet clearance; KSh 1m or three years for non-compliance](https://itweb.africa/article/kenya-introduces-telecom-equipment-licence/6GxRKMYQZbWMb3Wj) | Advanced |
 | LINX Nairobi internet exchange | Operating; peer count not held and combined traffic one-twentieth of current | [55-plus connected networks including TikTok and Starlink; combined Nairobi and Mombasa exchange traffic 330 Gbps, twentyfold in a year](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb) | Advanced |
 | Safaricom 25-year unified licence | Temporary two-year unified permit, historic term ten years | [25-year unified licence consolidating spectrum and authorisations; licence-related costs about US$126.7m in the year to March 2026](https://itweb.africa/article/safaricom-secures-landmark-25-year-licence/VgZeyqJlRgo7djX9) | Advanced |
@@ -365,7 +367,7 @@ record: 93e3711fa524
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G network services | Did not exist | [Plans stated with investors still being engaged; no spectrum award, licence condition or launch date published (2026-01)](https://www.liberianobserver.com/news/liberia-on-the-verge-of-5g-revolution/article_992b027e-4c8a-4578-bf70-baf2e2eabeeb.html) | Advanced |
 | Second submarine cable landing at Buchanan | One submarine cable in Monrovia; a second landing at Buchanan not yet stated (2025-08) | [Second landing at Buchanan sought, with partial funding stated as sourced and investors still being sought; no landing partner, cost or date published (2026-07)](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/) | Advanced |
@@ -405,7 +407,7 @@ record: 93e3711fa524
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Additional mobile operator licensing round | Did not exist; no proposal for a new licensing round appears in the base at 2025-08-01 | [The ICT minister told Parliament that additional operator licences were under consideration, and that the President had authorised the ministry to identify an investor able to roll out a network without delay; no bid timetable, licence terms or spectrum allocation is stated. The minister conceded that foreign-exchange shortages constrain incumbents' equipment imports and that earlier licensees who took spectrum without launching had licences revoked, ending in litigation](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/) | Advanced |
 | Airtel Malawi satellite connectivity plan | Did not exist; no operator satellite position appears in the base at 2025-08-01 | [Interest signalled in satellite connectivity to complement terrestrial networks in hard-to-reach areas and improve resilience; no partner, licence, capital allocation or timetable is stated](https://techafricanews.com/2026/05/22/airtel-malawi-eyes-satellite-connectivity-as-it-boosts-network-expansion-strategy/) | Advanced |
@@ -445,7 +447,7 @@ record: 93e3711fa524
 
 ## Mauritania
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G licences | Did not exist; the process opened on 2 December 2025 | [Four fifteen-year licences to Mauritel, Mattel, Chinguitel and the new entrant Rimatel, bids of MRU 252.6m to 305m plus 5% of revenue; Chinguitel launched the country's first commercial 5G network in Nouakchott on 10 August 2026, no coverage footprint or subscriber figure published The second operator launched its network at Nouakchott on 10 August 2026 under the digital transformation minister; no coverage, tariff or subscriber figure is stated.](https://ghabess.net/23385) | Advanced |
 | EllaLink second submarine cable | Project launched at Nouadhibou in July 2025: 669 km, 200 Gb/s rising to 12 Tbit/s, EIB and EU financed | [Phase-1 coastal landing complete at Nouadhibou, offshore laying scheduled for August 2026 and commissioning expected in the first quarter of 2027](https://ami.mr/fr/archives/294524) | Advanced |
@@ -458,7 +460,7 @@ record: 93e3711fa524
 
 ## Mauritius
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | America-India Connect cable participation | Did not exist | [A prime-ministerial commitment to join, behind which sits a signed non-disclosure agreement and unfinished technical, legal and financial negotiation; no consortium confirmation, landing point, capacity, cost or service date is published (2026-08)](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/) | Advanced |
 | Mauritius Telecom 2026-2029 strategy | Did not exist | [A reported Rs 20bn programme across connectivity, financial services, artificial intelligence and compute, and innovation; no delivery milestone has been published against it (2026-01)](https://lexpress.mu/node/553579) | Advanced |
@@ -468,7 +470,7 @@ record: 93e3711fa524
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G commercial mobile service | Licence tender open, no commercial service (2025-07) | [In service on 3.5 GHz and 700 MHz; 3.2m 5G subscribers, 8.4% of mobile-internet users (regulator, 2026-03)](https://www.hespress.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%86%D8%AA%D8%B1%D9%86%D9%8A%D8%AA-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-5g-%D9%8A%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D9%85%D8%BA-1652175.html) | Advanced |
 | 5G licence specification and coverage obligations | Not held | [Coverage floor: 8 cities plus airports by November 2025, 25% of population by end-2026, 70% by end-2030; terms: maximum 3 licences, 20-year renewable, 50-100MHz at 3GHz plus 2x10MHz at 700MHz, MAD 60m per licence for band reorganisation; corrects the conflicting 45%/85% figure held elsewhere; bidders' own coverage commitments are not disclosed in the report](https://www.anrt.ma/sites/default/files/2025-07/5G-Rapport-instruction.pdf) | Advanced |
@@ -486,7 +488,7 @@ record: 93e3711fa524
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G coverage plan to 2027 and 2030 | None published | [Provincial capitals, special economic zones and main tourist destinations by 2027; all districts and administrative posts by 2030](https://clubofmozambique.com/news/mozambique-president-pledges-5g-for-district-capitals-tourist-zones-in-2027-watch/) | Advanced |
 | 5G licence terms and coverage obligations | Did not exist | [The regulator states the licences carry 710,000 subsidised smartphones - 420,000 4G-capable and 290,000 5G-capable - for low-income users, small and medium enterprises and students on an instalment model, and broadband for at least 3,000 schools and 1,000 community institutions including health centres, with equipment, installation, activation and support included; no deadline, milestone or penalty attaching to a named operator is on record](https://clubofmozambique.com/news/mozambique-incm-awards-5g-licences-to-mobile-operators/) | Advanced |
@@ -522,7 +524,7 @@ record: 93e3711fa524
 
 ## Niger
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Continuous mobile-network monitoring platform | Did not exist | [In service, giving the regulator real-time visibility of operator networks](https://www.lesahel.org/regulation-des-telecommunications-larcep-inaugure-une-plateforme-de-controle-continu-des-reseaux-mobiles/) | Advanced |
 | Domestic national fibre backbone | Did not exist | [2,275 km of fibre across three domestic sections - Niamey-Tillabery, Zinder-Diffa, Agadez-Tahoua - built under an RMB 623.7m (about US$103.8m, constant 2023 dollars) China Eximbank concessional loan signed 2014-01-02, aimed at raising national broadband coverage from 54% to 72%](https://china.aiddata.org/projects/58683/) | Advanced |
@@ -534,7 +536,7 @@ record: 93e3711fa524
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | IFC financing for Airtel Africa network upgrades | Did not exist | [US$150m for network upgrades](https://techafricanews.com/2026/07/07/ifc-provides-150-million-to-airtel-africa-to-expand-digital-infrastructure/) | Advanced |
 | Mobile and broadband subscriber base | 50% broadband penetration (2025-11) | [157m internet subscribers (2026-05), from 154.3m (2026-04); 188m mobile subscriptions and broadband penetration 55.67% (2026-04)](https://www.vanguardngr.com/2026/06/telecom-subscriptions-rise-to-188m-as-broadband-penetration-hits-55-67/) | Advanced |
@@ -562,7 +564,7 @@ record: 93e3711fa524
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Country partnership framework | A framework in force for 2021 to 2026 with an indicative US$912m first-cycle allocation | [A nine-year framework prepared but not launched, with job creation the organising objective and no committed envelope on the record](https://www.ktpress.rw/2026/07/world-bank-poised-to-roll-out-new-9-year-rwanda-financing-framework/) | Advanced |
 | Cross-border terrestrial fibre route | Did not exist | [A 2,000 km protected terrestrial route across four countries, live and carrying wholesale traffic with direct interconnection into data centres in each city. Its operator marked a first year in the country in August 2026, describing a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi within a network spanning sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/) | Advanced |
@@ -590,7 +592,7 @@ record: 93e3711fa524
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 2Africa cable landing station | Landing station built, not in service | [In service: sixteen fibre pairs, 180 Tbps, carrier-neutral open access](https://techafricanews.com/2026/02/23/sonatel-commissions-2africa-submarine-cable-africas-largest-connectivity-project/) | Advanced |
 | EBRD network facility | Did not exist: the bank held no Senegal investment | [A senior facility of up to EUR 270m, EUR 170m committed and EUR 100m uncommitted, for 4G, 5G and accelerated fibre in Senegal and Kenya](https://techtrendske.co.ke/2026/07/13/ebrd-extends-e270m-financing-to-yas-for-kenya-senegal-network-expansion/) | Advanced |
@@ -615,7 +617,7 @@ record: 93e3711fa524
 
 ## Sierra Leone
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | CSquared West Africa backbone and 2Africa West capacity | Backbone reaching Sierra Leone with no independent 2Africa route (2025-07) | [2Africa West capacity added, giving automated rerouting across physically diverse paths (2026-07)](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | Advanced |
 | National fibre backbone (SALCAB) | International capacity reported at 500+ Gbps after the SALCAB privatisation, up from 90 Gbps; no district count published (2025-07) | [Fibre in 14 of 16 districts against about US$400m invested in telecoms, with a 60% usage gap (2026-05)](https://www.connectingafrica.com/connectivity/sierra-leone-invests-400m-in-telecoms-60-usage-gap-remains) | Advanced, marginal |
@@ -636,7 +638,7 @@ record: 93e3711fa524
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Cape Town internet exchange (CINX) | ***Baseline not held*** | [Present at six data-centre locations after going live at two further sites, but still concentrated: one facility holds 87 of the exchange's 122 networks and nearly every 100 Gbps port, against 208 networks and 10,132 Gbps on the more distributed Johannesburg exchange](https://tech.africa/cinx-oadc-cape-town-expansion/) | Advanced |
 | Delivered data-centre load | ~350MW (2024 benchmark) | [~390MW (2025)](https://www.sundaytimes.timeslive.co.za/news/2026-07-22-south-africas-data-centre-gold-rush-risks-resource-crunch/) | Advanced, marginal |
@@ -644,9 +646,11 @@ record: 93e3711fa524
 | Equinix Cape Town land use | ***Baseline not held*** | [Tribunal approval 2026-07-14](https://www.moneyweb.co.za/news/ai/giant-data-centres-get-the-first-green-light-from-cape-town-tribunal/) | Advanced |
 | High-demand spectrum auction | No date | [The 2026 National Radio Frequency Plan targets 1,145 MHz more mid-band spectrum and over 17,250 MHz of mmWave against 794 MHz currently available - roughly 215% more high-demand spectrum cleared for release - but no auction has been scheduled, priced or gazetted](https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/) | Stalled |
 | IMT Roadmap 2026 and draft assignment plans | ***Baseline not held*** | [Out for consultation](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2) | Advanced |
-| LEO satellite licensing framework | Policy direction gazetted 2025-12-12 | [Direction rejected 2026-05](https://pmg.org.za/committee-question/39540/) | Regressed |
+| LEO satellite licensing framework | Policy direction gazetted 2025-12-12 | [Direction rejected 2026-05; the minister publicly backs LEO entry while conceding licensing is the regulator's alone, and the 30% equity requirement stands](https://www.itweb.co.za/article/malatsi-backs-leo-operators-as-icasa-calls-the-shots/Gb3BwMWaPAEv2k6V) | Regressed |
 | National broadband map (DBSA) | None published | [Launched 2026-03-31](https://techcentral.co.za/sa-finally-has-a-broadband-map-and-it-reveals-where-the-gaps-are/279660/) | Advanced |
 | National Radio Frequency Plan 2026 | ***Baseline not held*** | [Gazetted 2026-07-24](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026) | Advanced |
+| National wholesale 5G home-broadband network | Did not exist | [Selling wholesale, 5G-core only, with the first retail ISP due live in September 2026](https://www.techcentral.co.za/south-africa-to-get-a-new-national-5g-broadband-network/285080/) | Advanced |
+| Radio frequency spectrum fees regulations for satellite | Did not exist | [Draft amendment under consultation, with the largest prospective entrant asking for flat per-licence fees and a ten-year minimum term](https://techafricanews.com/2026/08/20/spacex-urges-south-africas-icasa-to-rethink-proposed-satellite-spectrum-fees/) | Advanced |
 | SA Connect phase 2 | Suspended pending rollover (2025-09) | [Declared ended (2026-02)](https://www.itweb.co.za/article/budget-2026-sa-connect-phase-two-comes-to-an-end/Pero3MZ3zXXqQb6m) | Closed |
 | Satellite market entry via section 13 | ***Baseline not held*** | [Amazon Leo–Herotel, 2026-07-15](https://www.dailymaverick.co.za/article/2026-07-15-herotel-chosen-as-amazon-leo-distributor-in-maziv-race-for-satellite-internet/) | Advanced |
 | State Digital Infrastructure Company (network merger) | Road map due FY2025/26 | [Implementation moved to FY2028/29](https://techcentral.co.za/state-broadband-merger-limps-into-a-second-decade/280723/) | Regressed |
@@ -657,20 +661,20 @@ record: 93e3711fa524
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Bayobab national and cross-border fibre network | No licensed national backbone operator | [15-year licence effective 16 October 2025; build in execution linking the eastern and western corridors through Juba (2026-03)](https://techafricanews.com/2025/11/25/mtn-digital-infrastructure-secures-15-year-license-to-expand-fibre-network-in-south-sudan/) | Advanced |
 | Mobile coverage extension in Kauto Administrative Area | One site, at Kuron | [One site, at Kuron; four further sites requested and an expected February 2026 extension not delivered (2026-07)](https://www.radiotamazuj.org/en/news/article/kauto-leaders-call-for-urgent-expansion-of-mobile-network-coverage) | Stalled |
 | National fibre backbone programme (2,400 km via Kenya) | US$9m design budget approved, no route announced (2025-06) | [2,400 km route announced and fibre tendering stated to start in the second half of 2026; no construction start or completion date published (2026-06)](https://techafricanews.com/2025/10/09/south-sudan-announces-2400-km-fiber-optic-network-to-strengthen-digital-infrastructure/) | Advanced |
 | National Spectrum Management and 5G Strategy | Did not exist | [Development launched; no strategy, band plan, auction design or timetable published (2026-07)](https://techafricanews.com/2026/07/20/south-sudan-launches-national-spectrum-management-and-5g-strategy-development/) | Advanced |
-| Telecommunications tariff exchange-rate adjustment | Did not exist | [Two phases applied; neither the revised rates nor the number of remaining phases published (2026-07)](https://www.radiotamazuj.org/en/news/article/nca-adjusts-telecom-tariff-exchange-rate-to-avert-network-collapse) | Advanced |
+| Telecommunications tariff exchange-rate adjustment | Did not exist | [All three phases applied, the third from midnight on 2026-08-17; neither the revised rates nor the cumulative increase is published](https://www.onecitizendaily.com/index.php/2026/08/20/network-telecommunication-companies-raise-call-and-data-tariffs/) | Advanced |
 | MTN South Sudan mobile operator licence | Licensed | [Licensed](https://techafricanews.com/2025/04/14/mtn-secures-15-year-license-to-deepen-digital-footprint-in-south-sudan/) | No change |
 | Regulator's power to order platform blocking | Exercised January 2025; no authorising instrument published | [Exercised January 2025; no authorising instrument published](https://cpj.org/2025/01/south-sudan-blocks-social-media-access-amid-unrest/) | No change |
 | South Sudan International Gateway (SSIGW) | Operated by MGI Communications | [Operated by MGI Communications, now under NCA oversight (2026-01)](https://www.eyeradio.org/nca-establishes-gateway-and-data-center-oversight-committee) | No change |
 
 ## Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Horizon Fiber Initiative (Djibouti-Ethiopia-Sudan corridor) | Memorandum of understanding only (Dec 2024) | [Binding tripartite agreement; ~2,800km corridor, 144 fibre pairs, ~14ms target latency, linking Djibouti subsea landings via Ethiopia to Port Sudan, interconnecting with the existing Port Sudan-Jeddah cable](https://techafricanews.com/2026/02/04/ethio-telecom-djibouti-telecom-and-sudatel-seal-horizon-fiber-cross-border-connectivity-deal/) | Advanced |
 | Starlink satellite internet — regulatory status | Unlicensed since SAF/TPRA import ban (Dec 2023); widely used via smuggled terminals; both SAF and RSF renting/confiscating regionally | [Same regulatory limbo persists; RSF imposed a full local ban and confiscation campaign in Al-Nuhud](https://www.france24.com/en/live-news/20240403-smuggled-starlink-dishes-throw-lifeline-to-some-in-war-torn-sudan) | No change, qualifying clause: core contested-informal status unchanged; new instance of localised enforcement |
@@ -678,7 +682,7 @@ record: 93e3711fa524
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G deployment | 1,255 5G facilities and 30.13% population coverage (2025-12) | [1,804 facilities on 10,084 towers, 32.83% population coverage and 11.04% geographic, with every region holding at least three base stations](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080) | Advanced |
 | Active mobile subscriptions and penetration | 86.77m active subscriptions, 133.3% penetration (2024) | [106.82m active subscriptions, 156.7% penetration, up 23.1% year on year, the second-highest subscription growth rate among EACO's seven member states after South Sudan's 21.7%](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf) | Advanced |
@@ -716,7 +720,7 @@ record: 93e3711fa524
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Active mobile subscriptions | 45.7m active mobile subscriptions (2025-09-30) | [About 47m active SIMs (2026-07)](https://itweb.africa/article/uganda-outlines-next-ict-goals/KzQenqjyXWdMZd2r) | Advanced |
 | Northern Corridor regional satellite | Did not exist | [Feasibility study agreed by Kenya, South Sudan, Uganda and Rwanda](https://www.connectingafrica.com/connectivity/east-african-countries-to-launch-regional-satellite) | Advanced |
@@ -734,7 +738,7 @@ record: 93e3711fa524
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Border-post connectivity upgrade across five trade corridors | No named border-connectivity programme is on the record; gaps at Nakonde, Victoria Falls, Kazungula and Chirundu | [A single national standard announced through the government network - tiered 10 to 100 Mbps, dual links with automatic failover, enterprise-grade firewalls - and an independent network specialist firm commissioned to audit ICT infrastructure at five border posts; no budget, timetable or completion date published](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/) | Advanced |
 | Chanida-Cassacatiza cross-border fibre interconnector | Did not exist; the base records cross-border infrastructure as missing at the January 2025 appraisal | [The national backbone linked to Mozambique's submarine cable network under an operator partnership, with the minister stating Zambia is now fibre-linked to eight neighbours](https://clubofmozambique.com/news/zambia-and-mozambique-launch-fibre-optic-interconnector/) | Advanced |
@@ -754,7 +758,7 @@ record: 93e3711fa524
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 5G base stations | 319 (Q3 2025, derived from the regulator's stated increase in Q4) | [379 (Q1 2026); 18.9% population coverage and 0.0% rural coverage (Q4 2025)](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) | Advanced |
 | Cross-border fibre corridor to Zambia | Public-private partnership signed June 2025; no route live | [Phase 1 live at 800 Gbps equipped on equipment rated above 10 Tbps; phase 2 to Livingstone due September 2026; no investment amount disclosed by either party](https://www.newsday.co.zw/local-news/article/200057978/powertel-join-paratus-zimbabwe-to-launch-new-digital-highway) | Advanced |
@@ -775,15 +779,15 @@ record: 93e3711fa524
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | 2026 Abuja Declaration on Meaningful Connectivity for Africa | Did not exist | [Adopted, committing member states to technology-neutral regulation, continental harmonisation, fair access to spectrum and fibre, shared infrastructure and data governance; the text itself is not published](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Advanced |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Mobile internet users and their measured economic value | Baseline not held | [416 million Africans used mobile internet in 2025, generating a measured US$240bn of economic value, put at 7.8% of continental GDP](https://www.wearetech.africa/fr/fils/actualites/tech/empreinte-numerique-ce-que-nos-usages-en-ligne-revelent-de-nous) | ***Baseline not held*** |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Africa Digital Connectivity Infrastructure Report | ***Baseline not held*** | [Phase 1, Country Pilots, put out as an open consultancy tender at a stated budget of US$165,000, funded jointly by the African Development Bank, the Asian Infrastructure Investment Bank and the Multilateral Cooperation Center for Development Finance; the pilot countries and the terms of reference are not established](https://www.developmentaid.org/tenders/view/1694082/aiib-request-for-proposal-the-africa-digital-connectivity-infrastructure-report-the-project-phase-1) | ***Baseline not held*** |
 
@@ -802,7 +806,7 @@ record: 93e3711fa524
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | CSquared West Africa backbone | Carrying regional traffic on its own subsea and terrestrial routes | [Capacity on the 2Africa West system added for route diversity, after three multi-country outages in 28 months at the Accra, Lagos and Abidjan landing concentration](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | Advanced |
 | EllaLink Mauritania branch | Launched at Nouadhibou in July 2025, with nothing laid | [Coastal landing complete, offshore laying scheduled for August 2026 and commissioning expected in the first quarter of 2027](https://ami.mr/fr/archives/294524) | Advanced |

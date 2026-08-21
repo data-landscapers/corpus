@@ -1,15 +1,15 @@
 ---
 title: Regional collaboration — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: gov.regional
-places: DZA; BEN; BWA; BDI; CAF; COM; COG; COD; EGY; GNQ; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
-record: 4478c80ad5da
+places: DZA; BEN; BWA; BDI; CAF; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
+record: e321b571f68c
 ---
 
 # Regional collaboration: monthly update, July 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -54,6 +54,10 @@ Egypt took the chairmanship of two Arab working groups on 31 July 2026 — AI go
 ## Equatorial Guinea
 
 The Minister of Foreign Affairs [signed the Malabo Convention at Addis Ababa on 28 July 2026](https://www.linkedin.com/posts/au-infrastructure-and-energy_equatorial-guinea-signs-the-malabo-convention-activity-7488275982521565184-ETtI), on the margins of the 49th Ordinary Session of the Executive Council. The AU status list as of 2 February 2026 recorded no signature, no ratification and no deposit for Equatorial Guinea, so the Chamber of Deputies' vote of 25 March 2026 was a domestic authorisation to ratify taken before the country was a signatory; no instrument of ratification is on file.
+
+## Ethiopia
+
+The regional transit corridor moved from agreement to build. Ethio telecom [entered active deployment of the Horizon Fiber Initiative, with end-to-end solution architecture finalised and site-material procurement complete](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/), on a multi-terabit terrestrial route linking Djibouti's subsea landings through Ethiopia and Sudan to Jeddah. No route length, capacity, cost, in-service date or transit-revenue projection is published, so the regional-hub claim rests on the geography alone — and one of the four territories the route crosses is at war.
 
 ## Gabon
 

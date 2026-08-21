@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: data.satellite
 places: AGO; COG; EGY; GHA; LBR; LBY; NAM; NER; RWA; SYC; SLE; ZMB
-record: 05213e8c6bb0
+record: c7fdf5cc5904
 ---
 
 # Use of satellite data: monthly update, July 2026

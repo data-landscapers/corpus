@@ -1,15 +1,15 @@
 ---
 title: US / hyperscaler activities — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: geopol.usa
-places: CMR; CAF; TCD; CIV; SWZ; LSO; MUS; MOZ; SEN; UGA; ZMB; ZWE
-record: 7e5bd5d32bfd
+places: CMR; CAF; TCD; CIV; SWZ; LSO; MUS; MOZ; NGA; SEN; UGA; ZMB; ZWE
+record: 32ebef635ff6
 ---
 
 # US / hyperscaler activities: monthly update, July 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -44,6 +44,10 @@ The summit's other announcements differ in kind. The [Amazon memorandum was exec
 ## Mozambique
 
 The economy minister [met satellite operator representatives to discuss connectivity, digital infrastructure and participation by smaller firms](https://techafricanews.com/2026/07/06/mozambique-explores-strategic-partnership-with-spacex-to-advance-digital-economy/). No agreement, amount or timetable was announced. The operator's service already runs in Mozambique, so this is a government-level engagement rather than market entry.
+
+## Nigeria
+
+The month's hyperscaler activity is a renewal rather than a new commitment. Google [gave students at accredited Nigerian universities, polytechnics and colleges of education twelve months of its AI Plus plan free, a subscription it prices at ₦92,400 (US$68.56)](https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/), the second consecutive year of the offer and one of 27 Sub-Saharan rollouts, with eligibility verified through a third-party enrolment-checking platform. No cohort figure is published for Nigeria, and the take-up of the equivalent 2025 offer is not stated, so the programme's reach is unmeasured at both ends.
 
 ## Senegal
 

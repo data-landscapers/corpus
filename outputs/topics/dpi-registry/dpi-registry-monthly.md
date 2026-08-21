@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: dpi.registry
-places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: 8a063e638998
+places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0628f1755e74
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -18,6 +18,8 @@ record: 8a063e638998
 Identity delivery moved on the printing side. From 1 July all 21 provinces print the identity card locally, ending centralisation at a single production centre, with two to three printers per province planned and a 24-to-48-hour issuance target; one province reports issuance under 24 hours against one to two weeks before June. Against that, [more than 120,000 issued cards were awaiting collection](https://angop.ao/noticias/politica/mais-de-120-mil-bilhetes-de-identidade-aguardam-levantamento-em-todo-o-pais/) nationwide as at 15 July, prompting a civic campaign enlisting churches and traditional authorities.
 
 A single social register was launched in the week ending 25 July with no enrolment target, data-protection basis or governing instrument stated.
+
+The electoral register, updating since 15 June against a universe of 16.7 million citizens, acquired its first national enrolment figure in August and it came from the opposition rather than the administration. Four parties [put the count above 730,000 and demanded an independent audit of the electoral database, alleging administrative discretion, uneven deployment of registration brigades and recurring biometric-system failures](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html), and said the administration refuses to release enrolment statistics disaggregated by province, municipality and commune. At provincial level the Lunda-Norte government [reported over 40,000 residents updated and pressed mining-sector workers to register through the one-stop service desks](https://angop.ao/noticias/politica/governadora-apela-a-actualizacao-dos-dados-eleitorais/). None of the allegations has been adjudicated, and because no official series exists there is nothing to test them against - which is itself the complaint.
 
 ## Benin
 
@@ -132,6 +134,8 @@ Also on 29 July, the Diffa regional civil-status directorate reported [173,109 b
 
 On 29 July the foreign minister closed the second diaspora forum by [undertaking to build a bank of priority diaspora projects and a data bank of diaspora experts](https://www.lesahel.org/cloture-de-la-2e-edition-du-forum-de-la-diaspora-a-niamey-des-recommandations-et-des-engagements-formules-pour-le-developpement-economique-et-social-du-pays/); no enabling instrument, custodian, data-protection basis or timetable was named.
 
+The population register's public campaign is running ahead of the register itself. A national civil-status and identification sensitisation tour [reached Tillabéri as its third region](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/), with officials citing the 2026 civil-status ordinance and describing a forthcoming national population register whose first enrolment phase opens at Niamey ahead of a 2027 rollout to other regions. No enrolment target, budget, supplier or start date accompanies it, so the campaign precedes anything a citizen can yet enrol in.
+
 ## Nigeria
 
 [Civil registration](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/) went nationwide from 1 July on a platform run as a public-private partnership, a private contractor carrying availability and security duties over the register of births and deaths.
@@ -187,6 +191,10 @@ The [second national birth-registration catch-up campaign opened at Agbandi on 3
 The [business register went fully digital with access requiring a digital identity](https://en.africanmanager.com/tunisia-national-business-register-accelerates-digitalization-of-its-services/) for individuals, companies and regulated professions, paper filing discontinued and electronic documents given the same legal value as paper, from 1 July 2026.
 
 At one hospital a first national births-declaration platform had registered 202 births as at 27 July 2026, assigning an identifier automatically at birth and wiring it into civil-status registers and social-affairs platforms.
+
+## Uganda
+
+The alien register issued its first cards. The identity authority [began issuing Alien ID cards to legally resident foreigners, having enrolled 1,875 since registration opened on 10 June, with the US$100 card required for SIM registration, banking and business access but conferring no vote](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals). About 2m registered foreigners are in scope and roughly 1.95m of them are refugees or asylum-seekers, so ten weeks of enrolment has reached under a tenth of a percent of the population the fee falls on. No waiver, instalment route or alternative for a resident who cannot pay is published, which leaves the card a precondition for a bank account and a SIM with no stated way round it.
 
 ## Zambia
 

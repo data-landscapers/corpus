@@ -1,15 +1,15 @@
 ---
 title: Research institutions — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: capacity.research
-places: BDI; CMR; CIV; GNQ; ETH; LBY; MOZ; SEN; SOM; ZMB
-record: c0095d7b66dd
+places: BDI; CMR; CIV; GNQ; ETH; LBY; MOZ; SEN; SOM; ZAF; ZMB
+record: 4c444d4288bd
 ---
 
 # Research institutions: monthly update, July 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -50,6 +50,10 @@ The council of ministers of 29 July [proposed a national research and innovation
 ## Somalia
 
 The Somali National Bureau of Statistics closed a three-day technical workshop on 30 July under a [university research partnership, training researchers from three partner universities in methodology, statistical analysis and scientific writing, and in working with the bureau's own household budget and labour force microdata](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/). It is a pilot funded by the Swiss development agency with no amount stated. What it implies about the constraint is the substantive part: official statistics exist and are being offered to domestic researchers, which puts the limit on evidence-based policy at national analytical capacity rather than at data collection.
+
+## South Africa
+
+The month's one research measure is about the literature rather than the country. A twenty-year bibliometric review [places South Africa 18th worldwide and the only African country among the twenty most productive sources of digital-privacy research, across 4,760 articles published between 2005 and 2025](https://sajim.co.za/index.php/sajim/article/view/2146). The same review finds refugees, people with disabilities, older people and racial and ethnic minorities notably underrepresented in that literature, so the ranking counts output and not coverage of the populations whose privacy is least protected.
 
 ## Zambia
 

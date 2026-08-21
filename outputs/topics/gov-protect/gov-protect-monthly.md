@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: gov.protect
 places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ec19f5324161
+record: 0b3ac6ba2770
 ---
 
 # Data protection: monthly update, July 2026
@@ -69,7 +69,7 @@ The body that carries both of the country's information statutes surfaced in the
 
 ## Ghana
 
-The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the base holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. No payment, appeal or remediation record follows it.
+The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the base holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. The registrar has since contested it, [saying the procurement of its network and security operations centre was substantially complete before the tier-one directive was issued](https://www.myjoyonline.com/orc-challenges-csa-cybersecurity-sanction-says-penalty-was-premature-and-procedurally-unfair/); no adjudication of that timeline is held.
 
 ## Guinea
 

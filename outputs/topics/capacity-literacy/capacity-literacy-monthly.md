@@ -1,15 +1,15 @@
 ---
 title: Literacy — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: capacity.literacy
-places: BEN; BFA; CMR; CIV; COD; GAB; GMB; GHA; KEN; LBR; RWA; STP; SEN; TZA; ZMB
-record: 80c0f06618ec
+places: BEN; BFA; CMR; CIV; COD; GAB; GMB; GHA; KEN; LBR; MOZ; RWA; STP; SEN; TZA; ZMB
+record: 9dfc76580cd2
 ---
 
 # Literacy: monthly update, July 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -52,6 +52,10 @@ The regulator donated computers to a school in Turkana on 30 July, one of 23 ins
 ## Liberia
 
 On 31 July, 19 young leaders took the [first of three media and information literacy sessions in Monrovia, run through the UN electoral support project with the National Elections Commission and the Press Union on Canadian funding](https://www.undp.org/liberia/press-releases/young-liberians-strengthen-digital-citizenship-and-information-integrity-safeguard-democracy). Six external funders and implementers stand behind a programme whose stated purpose is national resilience against misinformation before elections, and no budget figure is disclosed for it.
+
+## Mozambique
+
+The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The base holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
 
 ## Rwanda
 

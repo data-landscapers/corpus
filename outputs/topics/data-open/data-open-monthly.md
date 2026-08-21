@@ -1,10 +1,10 @@
 ---
 title: Open data — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: data.open
 places: BEN; CMR; COG; DJI; GNQ; KEN; LBR; LBY; MDG; MAR; NAM; TUN; ZMB; ZWE
-record: 86515a8e72ae
+record: cf34b6516c42
 ---
 
 # Open data: monthly update, July 2026

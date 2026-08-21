@@ -1,15 +1,15 @@
 ---
 title: Training and skills — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: capacity.training
-places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; RWA; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 6cf4399fed6f
+places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
+record: 8e86c139157c
 ---
 
 # Training and skills: monthly update, July 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -148,6 +148,10 @@ Two smaller items closed the month. The communications regulator [leased its Enu
 The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
 
 Where training did continue it went to the top of the system rather than the bottom. The United Nations development programme's quarterly account of 1 August records [artificial-intelligence trust-and-safety training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf). Participant numbers, curriculum and cost are not stated, and the funder's own newsletter is the only account of it held.
+
+## Senegal
+
+Two facts about the state's own capacity arrived in the same week and point opposite ways. The national statistics agency [graduated 60 statisticians - 33 statistician-economists and 27 statistician-analysts, drawn from ten African countries - taking its school's cumulative output past 900 since 2011](https://lesoleil.sn/actualites/education/statistiques-lansd-plaide-pour-le-recrutement-des-diplomes-de-lensae-dans-les-ministeres/), and used the ceremony to press ministries to recruit them into sectoral statistical services: an absorption problem stated rather than measured, since no figure is published for how many of the 900 work in Senegalese public statistics. Against it, the National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). The programme has run for nine years and publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
 
 ## Seychelles
 

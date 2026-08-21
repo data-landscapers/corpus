@@ -1,15 +1,15 @@
 ---
 title: Public debate and participation in policymaking — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: gov.discourse
-places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; GAB; GHA; GIN; LSO; LBR; MLI; MUS; MAR; RWA; STP; SEN; SYC; ZAF; TGO; UGA; ZMB
-record: e61d7cf5d7d6
+places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; GAB; GHA; GIN; LSO; LBR; MLI; MUS; MAR; RWA; STP; SEN; SYC; ZAF; TZA; TGO; UGA; ZMB
+record: 4079010b4707
 ---
 
 # Public debate and participation in policymaking: monthly update, July 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -104,6 +104,10 @@ That survey, fielded in 2025, finds [45% of Seychellois calling the media somewh
 ## South Africa
 
 The rights commission put a position on the record about who should arbitrate what is true online. Launching its policy brief on information integrity, [a deputy justice minister said government should not become the custodian of truth on disinformation, while warning against leaving the information environment to private platforms' algorithms](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html), grounding the balance in the constitutional rights to expression, political participation and access to information. It is a brief rather than an instrument, and no legislative proposal follows from it on the record.
+
+## Tanzania
+
+The month's one finding about political speech came from outside the state. A civil-society research organisation [documented online gendered violence against election candidates as cyclical across successive elections in Tanzania and Côte d'Ivoire](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/), timed to a national election period. No regulator, electoral commission or platform publishes a comparable measurement, so the only quantification of the problem the record holds is the researcher's own.
 
 ## Togo
 

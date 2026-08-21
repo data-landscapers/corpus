@@ -1,15 +1,15 @@
 ---
 title: Access to services — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: include.access
-places: AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d1c295fd3b19
+places: AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 4cb1c0884139
 ---
 
 # Access to services: monthly update, July 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -74,6 +74,10 @@ On 5 August a Central Bank source told Libya Herald that cash distribution to co
 ## Madagascar
 
 The month's only market measurement came from an operator: MVola's director general put the whole Malagasy mobile-money market at [six to seven million active users against a population of about thirty million, with rural areas under-served](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html), and set doubling or tripling that as the five-to-ten-year test.
+
+## Malawi
+
+The first usable figure for how many Malawians are online came from the operators' own trade association rather than from the state. Its report [puts 80% of the population offline despite 87% 4G population coverage, and estimates MWK 1.1 trillion of economic value and 490,000 jobs by 2030 from closing the usage gap](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/), setting out six policy priorities for the government and the regulator. The gap it identifies is usage and not coverage, which is a finding the base had no measurement for; the value estimate is modelled by an interested party, and among the six asks is cutting the mobile-service taxes its members pay. Against it stands [a presidential target of 80% internet usage by 2026](https://itweb.africa/article/malawi-president-orders-digital-revolution/kYbe9MXbob9vAWpG) that has never had a published baseline.
 
 ## Mali
 
@@ -140,6 +144,8 @@ One cooperation arrangement addressed a group the grants system serves and the d
 ## South Sudan
 
 The cost of connection rose for the second time in two months when the [second phase of the tariff exchange-rate adjustment took effect on 26 July 2026](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/), with no revised rates published by the regulator or the operators. Against a baseline of [about US$23.70 per gigabyte in November 2025](https://www.onecitizendaily.com/index.php/2025/11/27/41522/), there is now no published price for mobile data in the country.
+
+Prices completed their third rise of the year and the record still cannot say by how much. Operators [applied the regulator's third and final tariff exchange-rate adjustment phase from midnight on 17 August, raising call and data prices against inflation, currency depreciation and hard-currency access problems](https://www.onecitizendaily.com/index.php/2026/08/20/network-telecommunication-companies-raise-call-and-data-tariffs/). No phase has published its rates. [A 25% cut in December 2025](https://techafricanews.com/2025/12/12/south-sudans-ict-ministry-commends-mtn-for-25-tariff-reduction-urges-further-cuts/) has now been overtaken three times, which leaves affordability in this market a direction of travel with no quantity attached to it.
 
 ## Tanzania
 

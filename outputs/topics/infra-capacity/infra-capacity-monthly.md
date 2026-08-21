@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-21
+period: 2026-07-01 to 2026-08-21
 subject: infra.capacity
 places: TCD; GHA; GIN; KEN; MOZ; NGA; RWA; SEN; ZAF; TZA
-record: 945f1240667b
+record: 71953e570f77
 ---
 
 # Technical Capacity: monthly update, July 2026
