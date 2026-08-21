@@ -147,10 +147,17 @@ def check_unit(unit, show_openings=False):
     r.check("C", "every time-varying figure is dated", undated, gate=False)
 
     # --- D — no wikilink, no bare repo path ------------------------------------------------
+    # Scanned with the http(s) link targets stripped out. Check D is about an internal address
+    # reaching a reader, and a link target is not prose — a real repo path used as a target still
+    # shows, because only http(s) targets are removed, and check A tests the targets themselves.
+    # Without this, any cited URL with a path segment ending in one of the repo folder names trips
+    # it: WIPO's `…/global-innovation-index/docs-en…` read as a bare `index/` path on SDN,
+    # 2026-08-21, because the lookbehind excludes a word character and a slash but not a hyphen.
+    prose = re.sub(r"\]\((https?://[^)\s]+)\)", "]", S.body(text))
     leaks = []
     for pattern, what in LEAKS:
-        for m in pattern.finditer(S.body(text)):
-            ctx = " ".join(S.body(text)[max(0, m.start() - 40):m.start() + 40].split())
+        for m in pattern.finditer(prose):
+            ctx = " ".join(prose[max(0, m.start() - 40):m.start() + 40].split())
             leaks.append(f"{what}: …{ctx}…")
     r.check("D", "no wikilink or bare repo path", leaks)
 

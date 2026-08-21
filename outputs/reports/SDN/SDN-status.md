@@ -2,293 +2,335 @@
 title: Sudan — digital transformation and data governance status report
 compiled: 2026-08-21
 place: SDN
-ledger_rows: 51
-not_held: 13
-record: 126126dc9361
+region: XEA
+built_by: STATUS-INIT
+hub_last_reviewed: 2026-07-25
+intersections_read: 7
+sources_cited: 105
+sections_written: 37
+not_established: 7
+acquire_lines: 55
 ---
-
-# Sudan: status report
-
-*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/SDN/ledger.csv` (51 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
-
-**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
-
-## Summary of position
-
-<!-- narrative: summary -->
-The base for Sudan is heavily back-loaded — 9 of the last 14 months' sources fall before January 2026, against 46 from January onward — so the picture below is mostly a 2026 one, not evidence that little happened earlier in the war. Three digital authorities (cybersecurity, data and AI, digital transformation) were created by prime-ministerial decree in November 2025, ahead of any primary data-protection law; a package of three draft laws covering the same three domains was sent back to committee by the Council of Ministers on 6 August 2026 with no text yet published for any of them.
-
-Payments infrastructure shows the clearest split between restoration and new build. [Bankak, Bank of Khartoum's mobile-money app, is reported dominant in retail settlement](https://voxdev.org/topic/institutions-political-economy/rebuilding-sudans-digital-infrastructure-amidst-conflict) — driven by cash scarcity and currency collapse rather than technology uptake — while the Central Bank's [national payment switch launched in August 2026 with exactly one bank connected](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips), explicitly framed by the Bank itself as restoration of war-damaged infrastructure rather than a new rail. [SUDAPASS, the national digital identity platform, went live in May 2026](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy) on a population base last counted in the 2008 census, against more than 14 million people displaced by the war.
-
-Thirteen of forty-five ledger rows are ***Not held*** — no compute capacity, satellite-data programme, technical-standards framework, open-data portal, or EU, US, Chinese or Indian digital engagement is on record for Sudan, and neither is any digital-literacy or applied-research programme.
-<!-- /narrative -->
-
-## Infrastructure
+## ICT Infrastructure
 
 ### Connectivity
+<!-- infra.connect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| 4G tower expansion programme | [In development, 60 built / 200 more planned](https://spokesperson-sd.com/ar/archives/38364) | Digital ministry reports 60 4G towers built, with 200 more planned during 2026 |
-| Horizon Fiber Initiative (Djibouti-Ethiopia-Sudan corridor) | [In development, binding agreement signed](https://techafricanews.com/2026/02/04/ethio-telecom-djibouti-telecom-and-sudatel-seal-horizon-fiber-cross-border-connectivity-deal/) | Tripartite binding agreement signed in Djibouti, converting the Dec-2024 MoU |
-| Starlink satellite internet — regulatory status | [Implemented, unlicensed/informal](https://www.france24.com/en/live-news/20240403-smuggled-starlink-dishes-throw-lifeline-to-some-in-war-torn-sudan) | RSF banned and confiscated Starlink devices in Al-Nuhud, West Kordofan, from 2025-11-29 |
+Mobile connections fell from [42.4 per cent of the population in January 2025 to 34.1 per cent by October 2025](https://datareportal.com/reports/digital-2026-sudan), a decline attributed to war damage to the network, while [internet penetration held at 28.7 per cent across both 2025 snapshots](https://datareportal.com/reports/digital-2026-sudan). [Communications blackouts continued across large parts of the country through 2025](https://www.dabangasudan.org/en/all-news/article/communications-blackout-continues-in-large-parts-of-sudan).
+
+The baseline those figures fell from was better than Sudan's wider governance position would suggest. The Ibrahim Index put its [Internet and Computers score at 38.9 of 100 in 2023, 19th of 54 African states after a 12.4-point rise over the decade, against an overall governance rank of 51st](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf); [mobile communications scored 68.3, 27th of 54, one of its ten best measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). The [wider infrastructure sub-category scored 34.2, 32nd of 54 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf), and [public satisfaction with infrastructure was among the country's most deteriorated measures over the same decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [GSMA measured 4G at around half the population and 3G at around seven in ten in 2022](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/wp-content/uploads/2022/06/CoNUA_WhiteNile_R_Web.pdf).
+
+International capacity has never been the binding constraint. [Four submarine systems — EASSy, FALCON, SAS-1 and SAS-2 — land at Port Sudan](https://documents1.worldbank.org/curated/en/099062323175524277/pdf/P176361015e0f50d10b59f0191913079f51.pdf), yet [used international bandwidth measured 245 Mbps in 2019 against a population of 42.8 million](https://documents1.worldbank.org/curated/en/099062323175524277/pdf/P176361015e0f50d10b59f0191913079f51.pdf). The [single exchange point, SIXP, was active with limited participation in 2024](https://pulse.internetsociety.org/en/ixp-tracker/ixp/660/).
+
+What the penetration figures do not show is the terms of access. By March 2026, [shutdowns of land-based internet by the Sudanese Armed Forces had put the online application for humanitarian group cash transfers out of reach across much of the country, with groups in Darfur nominating one member to travel to a town Starlink terminal to file](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf), exposing them to transit risk and to a reseller who may be aligned with a party to the conflict. Getting on the network at all requires the national identity number, since [SIM registration is verified against the national ID platform](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf), and the network itself is [concentrated in Khartoum and a handful of urban centres](https://freedomhouse.org/index.php/country/sudan/freedom-net/2025).
 
 ### Data Storage
+<!-- infra.store -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Khartoum State data centre (1,300 m2) | [Implemented](https://maasader.com/إستعادة-وتشغيل-مركز-بيانات-الدولة-في-الخرطوم) | Restored and operational after technical rehabilitation; equipped for cloud computing, data security and AI-application hosting |
-| Port Sudan alternate National Data Centre | [Planned](https://spokesperson-sd.com/ar/archives/38364) | Announced as one of the digital ministry's future projects |
+Sudan's vehicle and driving-licence records survived the war because they were [backed up at data centres inside the states and outside the country, the traffic police said in July 2026](https://sudantribune.net/article/316412) — naming neither the host country nor the arrangement governing it. Nothing requires them to. There is [no data-localisation or data-residency requirement and no enforceable control over cross-border transfers of government or personal data, the Electronic Transactions Act 2007 and the Cybercrime Act 2007 carrying no residency provisions](https://dataprotection.africa/sudan/).
+
+Commercial hosting inside the country rests on two providers: the [Sudatel data centre in Khartoum, opened in 2015, and colocation capacity from CANARTEL](https://sudani.sd/en/sdc/). There is [no in-country hyperscale cloud region, so workloads are served remotely from distant regions such as Johannesburg](https://inflect.com/datacenters/emea/sudan). Both statements describe assets in a city where [telecommunications data centres have been repeatedly seized and shut down since April 2023](https://www.dabangasudan.org/en/all-news/article/communications-blackout-continues-in-large-parts-of-sudan).
+
+On the government's own estate, the [Ministry of Digital Transformation said in October 2025 that the Khartoum state data centre had been brought back into service and equipped with cloud computing after war damage](https://actumsudan.substack.com/p/sudan-pushes-digital-transformation). What that estate has had to absorb is visible in the national payment switch, which was [out of service through war damage and is being restored one institution at a time](https://sudanhorizon.com/the-national-payment-switch-returns-to-service-a-strategic-step-towards-rebuilding-sudans-digital-payments-ecosystem/) — restoration of damaged infrastructure rather than construction of a new rail.
 
 ### Energy
+<!-- infra.energy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National policy linking digital infrastructure to energy supply | ***Not held*** | — |
+Large parts of the national grid, transformers and thermal generating capacity among them, have been [destroyed, stolen or left non-operational, producing frequent load shedding and in many regions no grid electricity at all, with businesses and households falling back on diesel generators at roughly twenty times the cost per kilowatt-hour of grid power](https://documents1.worldbank.org/curated/en/099080525114035592/pdf/P171810-2a0fc17d-cdec-4a5d-af06-8c0e417f49ea.pdf) (2025). That is the upstream constraint on everything else in this chapter, and a [Bank of Khartoum official names power cuts alongside weak telecommunications as what holds back digital payments](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) (July 2026).
+
+The connection statistics belong to the period before that. [About two-thirds of the population had an electricity connection in 2023](https://tradingeconomics.com/sudan/access-to-electricity-percent-of-population-wb-data.html), with [rural connection rates running roughly thirty points behind urban ones](https://tradingeconomics.com/sudan/access-to-electricity-urban-percent-of-urban-population-wb-data.html). The Ibrahim Index recorded [access to energy at 62.8 of 100 in 2023, 13th of 54 African states and up 19.0 points over the decade, one of Sudan's most improved measures of any kind](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [Renewable sources, principally hydropower from facilities such as the Merowe Dam, supplied the majority of electricity generated in 2021](https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS), a share that has swung widely across the decade with hydropower's output relative to thermal.
+
+Tariffs are nominally trivial where grid power arrives — [residential electricity was priced at under five US cents per kilowatt-hour in December 2025](https://www.globalpetrolprices.com/Sudan/electricity_prices/) — which is what makes the twenty-fold diesel premium the number that describes what supply actually costs.
+
+Off-grid is the part of the sector with a framework behind it. The World Bank and ESMAP scored Sudan's [regulatory arrangements at 61 of 100 for mini-grids and 56 for off-grid systems in 2025](https://rise.esmap.org/country/sudan). [UNDP supports a solar mini-grid programme aimed at drawing in private operators, alongside an off-grid solar market driven mainly by agricultural demand where providers are experimenting with leasing and pay-as-you-go financing, constrained but not halted by the conflict](https://www.undp.org/sudan/projects/promoting-solar-mini-grids-clean-and-reliable-energy-sudan) (2025).
 
 ### Technical Capacity
+<!-- infra.capacity -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Compute or high-performance computing capacity | ***Not held*** | — |
+Sudan's developer base numbers in the low thousands: [committers.top recorded 2,180 GitHub users giving Sudan as their location in 2024](https://committers.top/sudan.html), fed by [universities with dedicated computer science and IT faculties](https://www.neelain.edu.sd/college/Computer), several of them in Khartoum. The identity estate runs on a mix of domestic and foreign capacity — the [civil registry is managed by the General Directorate of Civil Registration, the Cybersecurity Authority says SudaPass is developed and operated by Sudanese professionals, and the National Authority for Digital Certification holds a partnership with the international certificate authority Sectigo for globally trusted certificates](https://sudanevents.com/index.php/2026/05/29/sudanese-cybersecurity-authority-affirms-sudans-sovereignty-over-the-sudapas-platform-and-protection-of-citizens-data/) (2026).
+
+How much an agency can absorb shows in what it counts as progress: the [National Investment Authority described building its own website as a crucial step towards an electronic single window](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) (August 2026).
 
 ### Cybersecurity
+<!-- infra.cybersec -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Draft Cybersecurity Law | [Under review](https://sudantribune.net/article/317108) | Redrafting with the digital transformation ministry reported 2026-08-11 |
-| Sudanese Cybersecurity Authority | [Implemented](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Established by PM decree alongside the Digital Transformation Authority and the Sudanese Data and AI Authority |
+Assurance over the national digital identity platform rests on the word of its own regulator: the [Cybersecurity Authority states that SudaPass undergoes regular security review and testing, with encryption key management and digital certificates administered by the National Authority for Digital Certification under approved controls](https://sudanevents.com/index.php/2026/05/29/sudanese-cybersecurity-authority-affirms-sudans-sovereignty-over-the-sudapas-platform-and-protection-of-citizens-data/) (May 2026), and no independent audit of the platform is on the public record. Sudan sat in the [establishing tier of the ITU's Global Cybersecurity Index in 2024](https://statbase.org/data/sdn-global-cybersecurity-index/).
 
-<!-- narrative: infrastructure -->
-The [Horizon Fiber corridor converted from a December 2024 MoU to a binding tripartite agreement in February 2026](https://techafricanews.com/2026/02/04/ethio-telecom-djibouti-telecom-and-sudatel-seal-horizon-fiber-cross-border-connectivity-deal/) between Djibouti Telecom, Ethio Telecom and Sudatel: a roughly 2,800km, 144-fibre-pair route linking Djibouti's subsea landings through Ethiopia to Port Sudan, interconnecting with the existing Port Sudan–Jeddah cable, with no physical-completion date stated in any of the six accounts held. The digital ministry separately reports 60 4G towers built against a target of 200 more in 2026, with no later source confirming progress. Starlink remains unlicensed and legally informal — the Sudanese authorities banned imports in December 2023 — and [RSF forces confiscated devices and imposed a local ban in Al-Nuhud, West Kordofan, from late November 2025](https://www.france24.com/en/live-news/20240403-smuggled-starlink-dishes-throw-lifeline-to-some-in-war-torn-sudan), even as both SAF and RSF are separately reported renting access to it.
+The institutions meant to carry this work are new: a [digital transformation authority, a data and artificial intelligence authority and a cybersecurity authority were created by prime-ministerial decree in November 2025](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) under the Ministry of Digital Transformation and Communications. What they defend, they defend without a duty to disclose failure: [no breach-notification obligation falls on payment service providers or any other data controller](https://dataprotection.africa/sudan/).
 
-The [Khartoum State data centre was restored and returned to operation in October 2025](https://maasader.com/إستعادة-وتشغيل-مركز-بيانات-الدولة-في-الخرطوم), equipped for cloud computing, data security and AI-application hosting, though the date it went offline is not established; a second, Port Sudan-based national data centre is announced but not yet built. Three digital authorities, including a Sudanese Cybersecurity Authority, were created by decree in November 2025; a draft Cybersecurity Law was sent back to committee on 6 August 2026 with no text published. No compute or high-performance computing capacity, and no policy linking digital infrastructure to energy supply, is on record for Sudan.
-<!-- /narrative -->
-
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
+<!-- dpi.exchange -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| ASYCUDA customs system (Gezira/Hantoub) | [Implemented, single-site reactivation](https://www.suna.sd/posts/aaaad-tshghyl-ntham-alasykoda-balhthyr-algmrky-bgmark-olay-algzyr-astaadada-lantlak-alaaml-algmrky) | Reactivated at Hantoub customs yard after war looting/damage, ahead of resuming formal customs operations |
-| Central bank electronic application system | [In development](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/) | Completion directed by the national economic management committee, 2026-08-11 |
-| Electronic single window (National Investment Authority) | [Planned, precondition-stage](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) | Authority says the window will operate electronically only once all investment-related entities are linked electronically; no list, sequence or date given |
-| National digital agricultural platform | [In development](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/) | Launch described as imminent, 2026-08-10 |
+One government-to-government link has been completed and named: Sudan's Customs Authority [finished a real-time integration of its ASYCUDA system with the Civil Registry in October 2025](https://sudanevents.com/index.php/2025/10/04/customs-authority-completes-digital-integration-of-asycuda-with-civil-registry/), allowing national identity numbers to be checked directly, and it was delivered through the government's Baladna platform.
+
+Baladna is the layer the rest of the state's integration work is being hung on. It [offers services from several ministries in one place](https://baldna.gov.sd/services/2/list/1) — company registration, business-name registration and licensing drawing on the Ministry of Justice, the Ministry of Local Governance, the Ministry of Industry and Trade and the Commercial Registrar, with an exports and imports window reaching customs and banking systems — and on 5 August 2026 a meeting chaired by the finance minister [adopted it as the national channel for all export and import procedures, permits and authorisations](https://sudantribune.net/article/317080). Older machinery runs alongside it: the [Commercial Registrar is required to notify the Tax Chamber monthly](https://tax.gov.sd/en/tax-procedures/) of company registrations, amendments and deregistrations, and the [Tax Authority has an integration project under way](https://tax.gov.sd/en/projects-2/) connecting its core system to other government and financial bodies including Customs, the Civil Registry, the Commercial Registrar and the Central Bank of Sudan (2025).
+
+Most of what has been announced is not yet carrying traffic. The National Investment Authority says its electronic single window [will operate only once all investment-related entities are linked electronically](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/), and has named no entities, no sequence and no date (August 2026); on 11 August 2026 the National Economic Management Committee [directed the finance ministry and the central bank to expedite completion of the central bank's electronic application system](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/). No architecture, standard or timetable [has been published](https://allafrica.com/stories/202608100707.html) for the announced linkage between the Nazaha procurement platform, the budget execution system and Baladna.
+
+<!-- derived -->
+Five separate government digital platforms — an investment single window, the Baladna foreign-trade platform, the Nazaha procurement system, the central bank's electronic application system and an agricultural-financing platform — were announced, adopted or escalated by five different ministries or authorities between 4 and 11 August 2026, and the only stated link between any two of them is Nazaha's claim to connect to Baladna.
+
+Two sectors sit outside the layer entirely. No health data reaches a national exchange, and the one hospital information system on the record, [SudaHealth, runs at state level in Khartoum](https://www.suda.health/) (2026). Humanitarian cash is [coordinated through the multi-partner Sudan Cash Working Group outside government systems](https://www.brookings.edu/articles/digital-infrastructure-for-resilience-fragile-contexts-balancing-state-and-citizen-protection/), with the Humanitarian Aid Commission's presence on Baladna confined to registering and permitting aid agencies (2025). Underneath all of it, [no primary law establishes authority for cross-government data sharing](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) and [no digital public infrastructure policy framework is in place](https://www.undp.org/sites/g/files/zskgke326/files/2025-11/sudan-cpd-2026-2028_30-oct_clean-1_0.pdf) (2025).
 
 ### Digital Identity and CRVS
+<!-- dpi.id -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| SUDAPASS (national digital identity) | [Implemented](https://www.biometricupdate.com/202608/sudan-integrates-sudapass-digital-id-with-banking-sector-for-ekyc) | Banking-sector eKYC integration being finalised (2026-08-20) |
+Sudan [launched SUDAPASS, a unified national digital identity credential, on 21 May 2026](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy), and it is [activated with a passport or national number together with face biometrics](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy) — so the credential is [free](https://sudanhorizon.com/sudan-announces-imminent-launch-of-the-national-digital-id/) to anyone the paper system has already documented, and unavailable to anyone it has not. It was [built with the Civil Registry under the Ministry of Interior and is operated by the National Authority for Digital Certification](https://www.fananews.com/language/en/sudan-launches-national-digital-identity-sudapass-to-enhance-trust-and-digital-transformation/), and sits [under the Baladna programme, implemented jointly by the cybersecurity, e-certification and civil registry bodies](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy).
+
+What the credential unlocks is so far mostly stated rather than shown. It is [designed to give holders e-services, e-transactions and digital signatures](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy), and the Central Bank of Sudan has [named it as the tool meant to ease the compulsory update of bank customer data](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/) — an announcement that [gave no integration detail and no uptake figure for the credential](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/) (August 2026). Its legal footing is the [Electronic Transactions Act 2007 and the 2018 certification regulation](https://www.nadc.gov.sd/en/products/); [no digital identity statute has been enacted](https://www.biometricupdate.com/202602/sudans-planned-national-digital-id-could-strengthen-recovery-push-experts). SudaPass [publishes a privacy policy covering the personal and biometric data it collects, its use, and rights of access, correction, deletion and withdrawal of consent, with no equivalent published framework for the civil registry beneath it](https://sudapass.gov.sd/privacy?lang=en).
+
+That registry is the constraint. Established as a centralised electronic biometric system under the Civil Registration Act 2011 — [identity card mandatory at 16, fingerprints from 12](https://landinfo.no/wp-content/uploads/2023/03/Report-Sudan-Civil-Registration-ID-documents-and-passports-03032023.pdf), records [held digitally against a unique national number](https://landinfo.no/wp-content/uploads/2023/03/Report-Sudan-Civil-Registration-ID-documents-and-passports-03032023.pdf) — it is now [only partially deployed: it continues in army-held areas, biometric registration resumed in White Nile State in mid-2026, registry offices in Rapid Support Forces territory have been looted or destroyed, and registration in Khartoum has all but ceased since April 2023](https://smallwarsjournal.com/2026/06/09/sudans-governance-collapse-struggle-for-civil-authority/). Sudan's civil registration score [fell 50 points over 2014–2023 to 25.0 of 100, 50th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf), the largest ten-year decline on any of the index's Sudan indicators; [birth registration still starts on paper and coverage in Darfur and other peripheries is markedly below the cities](https://www.unicef.org/sudan/stories/q-and-what-birth-registration-why-it-important-children-sudan), with around two-thirds of under-fives registered at the last national survey (2014).
+
+The register and the national number are [for citizens, who must prove nationality directly or through witnessed lineage; refugees and other non-citizens are recorded instead under a separate Foreign Number system run by the Commission for Refugees with UNHCR](https://landinfo.no/wp-content/uploads/2023/03/Report-Sudan-Civil-Registration-ID-documents-and-passports-03032023.pdf), which the Commission [said in 2026 it is reactivating](https://www.fananews.com/language/en/refugees-commission-announces-foreign-number-system-to-strengthen-national-security/). The national number is [required to open a bank account and for know-your-customer checks](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf), and [SIM registration requires the national identity card or number](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf); on the app through which humanitarian cash is paid, [a national ID and a smart device are the account-opening requirement](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf) and therefore the point of exclusion (March 2026).
 
 ### Digital Payments and Fintech
+<!-- dpi.pay -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Al-Asjad payment-switch licence | [Discontinued, licence revoked](https://sudantribune.net/article/315827) | Central Bank revoked the licence days after the platform's launch; no specific breach disclosed |
-| Bankak (Bank of Khartoum mobile money) | [Implemented, dominant by default](https://voxdev.org/topic/institutions-political-economy/rebuilding-sudans-digital-infrastructure-amidst-conflict) | Reported as dominant retail-settlement rail in Khartoum markets, driven by cash scarcity and currency collapse, not technology uptake |
-| Bede digital wallet (Zain) | [Implemented, phase 1 of 3](https://techafricanews.com/2025/04/18/zain-launches-bede-digital-wallet-to-boost-financial-inclusion-in-sudan/) | Launched in Port Sudan; phase 1 covers transfers, airtime, bill payments, merchant purchases, agent cash in/out |
-| Isali / Eisali (electronic government-collection system) | [Implemented, expanding](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) | Named among the reforms behind a stated rise in first-half 2026 revenue |
-| National Instant Payment System / national payment switch (NIPS) | [Implemented, partial (one bank connected)](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips) | Launched live, connecting Omdurman National Bank as first and only participant; first ATM withdrawal completed over the switch |
-| USSD banking service | [Implemented](https://techafricanews.com/2026/03/18/sudan-launches-ussd-banking-services-to-expand-digital-financial-access/) | Rolled out jointly by the digital ministry, Central Bank and telecoms regulator; works without internet access |
+The Central Bank of Sudan [launched the services of the national payment switch on 6 August 2026 with one institution connected](https://www.suna.sd/posts/albnk-almrkzy-ydshn-khdmat-almhol-alkomy) — Omdurman National Bank — marked by a first successful ATM withdrawal over it. The switch is [built and operated by Electronic Banking Services, the central bank's operational arm](https://www.suna.sd/posts/albnk-almrkzy-ydshn-khdmat-almhol-alkomy), had [been out of service through war damage and is returning one institution at a time](https://sudanhorizon.com/the-national-payment-switch-returns-to-service-a-strategic-step-towards-rebuilding-sudans-digital-payments-ecosystem/), and the plan to [connect all operating banks in turn carries no schedule, no ordering and no coverage target](https://www.suna.sd/posts/albnk-almrkzy-ydshn-khdmat-almhol-alkomy). Separately, the central bank [opened a public tender in April 2026 for a National Instant Payments System](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips).
 
-### Registries (population, land, address, etc.)
+What carries the money is one bank's app. Bank of Khartoum's Bankak had [around 7 million users in February 2024, with activations up 85 per cent since the war began](https://www.thenewhumanitarian.org/news-feature/2024/02/07/sudan-war-digital-money-online-banking-apps). Bank apps became the [dominant settlement method in the capital's retail markets under currency depreciation, inflation and cash scarcity rather than through any appetite for the technology](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan), and the channel shows it: [traders without smartphones route their takings through colleagues' accounts, and outages, peak-hour collapse and mistaken transfers are routine](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) (July 2026). Both sides in the war have [used banking-app bans as an instrument of economic warfare](https://www.medameek.com/?p=203706). The app supports [transfers between a customer's own accounts, other banks and mobile-money wallets](https://bankofkhartoum.com/sudan/digital/bankak/bankak-account) and [merchant payments by QR code](https://bankofkhartoum.com/sudan/digital/bankak/pay-qr), and [humanitarian group cash is paid through it into the personal accounts of nominated group members](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf), because informal community groups cannot hold an institutional account (March 2026).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Unified Social Registry | [In development](https://www.suna.sd/posts/lkaaa-ozary-yaazz-althol-alrkmy-oaslah-alkhdm-almdny-nho-dol-mossat-hdyth) | Ministers reviewed progress on a foundational social-protection targeting database |
-| Vehicle registration database (traffic police) | [Implemented, recovering](https://sudantribune.net/article/316412) | Restored register: 2,124,750 registered vehicles, 3,161,599 driving licences; backup data centres built inside the states and abroad |
+Government payment runs well below what it once did. The Sudan Family Support Programme [paid monthly digital transfers to 8.7 million people before its suspension after October 2021](https://openknowledge.worldbank.org/entities/publication/fe4d8c8e-eadb-4717-ac4e-72d34bb2db01), and nothing since operates at that scale. On collection, [customs duties have been taken electronically since at least 2025](https://sudanevents.com/index.php/2025/04/10/sudanese-customs-electronic-payment-a-major-step-toward-digital-transformation-and-financial-inclusion/) and, since April 2026, the finance ministry's [My Payment service lets individuals pay some government dues through banking apps and authorised service points](https://sudanhorizon.com/ministry-of-finance-and-workers-bank-sign-contract-on-my-payment-service/), covering particular revenue streams rather than the range of taxes, fees and charges.
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+The central bank [owns and directly operates the real-time gross settlement system as well as overseeing it, and licenses and supervises the mobile money operators](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf); the settlement system's [business operating rules are published and downloadable without registration](https://cbos.gov.sd/sites/default/files/srag_business_operating_rules.pdf). Consumer protection [rests on scattered instruments with no purpose-built recourse for digital payment channels](https://unctad.org/system/files/non-official-document/CIIEM5_Sudan_en.pdf), and the central bank has [upgraded its financial inclusion directorate with a mandate to formulate a national strategy and a consumer protection framework](https://cbos.gov.sd/en/node/24604/) (2026) — a mandate to write them rather than the documents themselves. The sharpest live question is the [order that every bank update its customers' data or have the account suspended and frozen](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/), which [also requires banks to deploy continuous transaction monitoring](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/), is [being done in branch](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/) in a country of ten million displaced people, and was [extended to the end of 2026 on 17 August 2026](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/); [Bank of Khartoum pushed it to users inside the Bankak app in the week it was issued](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/). Against a base where [11 per cent of adults used mobile money and 2 per cent were formally registered users in 2021](https://documents1.worldbank.org/curated/en/099052625083516656/pdf/P505963-583e32dc-66c6-474f-8862-1d452b2a7d7a.pdf), and where [no accessibility accommodations have been identified in digital payment systems](https://documents1.worldbank.org/curated/en/099052625083516656/pdf/P505963-583e32dc-66c6-474f-8862-1d452b2a7d7a.pdf), the update campaign runs through the one rail people have.
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Afia (health-sector platform) | [Planned, referenced not confirmed live](https://suna.sd/posts/ofd-ozar-alsh-oalsh-alaaalmy-ybhthan-maa-ozar-alatsalat-kht-althol-alrkmy-fy-alktaaa-alshy) | Digital ministry, Health Ministry and WHO met to set a comprehensive health-digital strategy; Afia referenced, WHO urging acceleration |
-| Bayan (national civil-service HR platform) | [Implemented](https://www.sudanakhbar.com/1822457) | Launched as an integrated national HR database for every public employee's record, held by the Civil Service Diwan |
+### Registries
+<!-- dpi.registry -->
+
+Sudan's electoral roll [has not been updated since 2015, when 13,126,989 voters were registered against a voting-age population of 19,667,400](https://www.idea.int/data-tools/data/country?country=212&database_theme=293) — through the 2019 revolution, the 2021 coup and the war since. It was incomplete when it was frozen: the African Union's pre-election assessment recorded [roughly 2.6 million internally displaced people in Darfur left off the roll, parts of which were carried over unverified from the pre-secession 2010 register](http://africanarguments.org/wp-content/uploads/2015/04/AU-Pre-election-Assessment-Mission-Report-Sudan-2015-elections.pdf).
+
+The population register is the one with reach. Officials [put registration at close to nine in ten of the population in 2021, with markedly lower rates among peripheral and displaced populations](https://landinfo.no/wp-content/uploads/2023/03/Report-Sudan-Civil-Registration-ID-documents-and-passports-03032023.pdf). It, the civil register and the identity system are [joined through the unique national number and biometric data introduced in 2011, a linkage intact by design but now working only in government-controlled areas](https://smallwarsjournal.com/2026/06/09/sudans-governance-collapse-struggle-for-civil-authority/). The wiring, in other words, survived better than the territory it covers.
+
+The economic registers are further back. Core company registration [remains largely on paper, the underlying company records were destroyed in the 2023 conflict and are being rebuilt, and the Commercial Registrar is being connected to Baladna](https://sudanevents.com/index.php/2025/04/17/a-sovereign-official-announces-the-recovery-of-data-and-documents-related-to-company-records/) (2025). The Tax Chamber, by contrast, [runs a single taxpayer registration and identification-number system spanning individuals and businesses](https://tax.gov.sd/en/tax-procedures/), covering employees registered for salaries-and-wages tax and businesses registered for VAT (2025). Land is [partially digitised at best: property records in Khartoum were computerised or scanned and shared a common parcel identifier with the cadastral mapping database as two separate linked systems, office capacity varied sharply between states, and rural areas largely lacked formal registers](https://www.doingbusiness.org/content/dam/doingBusiness/country/s/sudan/SDN.pdf) (2019); in Darfur, [around one per cent of customary land is formally registered](https://sudan.un.org/sites/default/files/2021-12/Sudan-PBF2021-Thematic_Brief_5-land_tenure.pdf).
+
+One register claims to have come through the war whole. The traffic police [say the national vehicle database was restored, holding more than two million registered vehicles and over three million driving licences](https://sudantribune.net/article/316412) (July 2026), attributing survival to [backups at data centres inside the states and outside the country](https://sudantribune.net/article/316412), and are [introducing Ansab, a laser-secured vehicle-ownership-transfer platform](https://sudantribune.net/article/316412) intended to counter forgery. Social protection has no comparable base: the [poverty registry behind the safety-net system reached six of eighteen states before 2023 and recorded beneficiaries' national identity numbers only partially](https://ipcid.org/sites/default/files/pub/en/RR53_Social_protection_in_Sudan_system_overview.pdf).
+
+### Sectoral management information systems
+<!-- dpi.mis -->
+
+Sudan's finance minister [set the ministry's priorities on 4 August 2026 as payroll automation, electronic invoicing, tax-base expansion, a digital procurement platform and stronger electronic payment and collection systems](https://www.suna.sd/posts/finance-minister-issues-directives-to-modernize-ministry-performance), with payroll digitalisation described as [being completed in cooperation with other ministries](https://sudanhorizon.com/finance-minister-directs-adoption-of-best-global-systems-for-government-procurement/) and electronic invoicing as [being introduced in the tax sector](https://sudanhorizon.com/finance-minister-directs-adoption-of-best-global-systems-for-government-procurement/).
+
+<!-- derived -->
+That list restates a programme financed a decade earlier: payroll automation and an integrated procurement system are presented as new intentions in August 2026, while an IFMIS integrating the finance ministry with line ministries was already in scope of an African Development Bank-financed project reported in March 2016.
+
+Health information barely reaches the point of care. [Rural primary clinics record patient data on paper, with only a very small number of largely urban private facilities keeping electronic records](https://doi.org/10.59992/ijci.2025.v4n12p2), and the [national DHIS2 aggregate reporting system, which sits above facility level, now covers routine collection in only a handful of states, the rest lost to the war](https://doi.org/10.59992/ijci.2025.v4n12p2) (2025). Even where a digital tool has been rolled out, the paper stage comes first: on the Darfur disease-surveillance tool, [clinic staff tally suspected cases on paper and a surveillance officer submits weekly aggregates electronically](https://doi.org/10.1093/inthealth/ihaf122), so the digital step begins above the clinic.
+
+Education is at a similar level. The [education management information system is coordinated centrally with minimal digital exchange with individual schools, rural primaries compile attendance, enrolment and grades on paper, and pre-war returns lagged 12 to 14 months](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-07-annual-progress-report-gpe-system-capacity-grant-sudan.pdf); a [strengthening initiative under the Transitional Education Plan 2025–2027, including digital mapping of around 26,000 schools, remains at planning, mapping and pilot stage and has not put digital capture into rural schools](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-09-program-document-system-transformation-grant-sudan.pdf). Social protection delivery rests on a [safety-net management information system built with World Bank support — poverty registry, targeting and eligibility, grievance redress, payment and monitoring modules — deployed in six of Sudan's eighteen states before the 2023 conflict, since when assistance delivery has fragmented across conflict-affected regions](https://ipcid.org/sites/default/files/pub/en/RR53_Social_protection_in_Sudan_system_overview.pdf).
+
+The revenue side is where the working systems are. Customs runs ASYCUDA, [now checking identity numbers against the civil registry](https://sudanevents.com/index.php/2025/10/04/customs-authority-completes-digital-integration-of-asycuda-with-civil-registry/), and the [Tax Authority's integration project reaches Customs, the Civil Registry, the Commercial Registrar and the central bank](https://tax.gov.sd/en/projects-2/) (2025). It is building from a low floor: Sudan's [tax and revenue mobilisation score fell 16.8 points over 2014–2023 to 11.4 of 100, 52nd of 54 African states, and budgetary and financial management fell 13.9 points to 33.3, 48th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). Justice has nothing comparable: [rural police stations keep case files, incident reports and detention logs entirely on paper](https://www.state.gov/wp-content/uploads/2024/02/528267_SUDAN-2023-HUMAN-RIGHTS-REPORT-1.pdf).
 
 ### Other GovTech and e-Gov
+<!-- dpi.govtech -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Baladna (national e-government platform) | [Implemented, expanding](https://spokesperson-sd.com/ar/archives/38364) | Adopted as the sole national platform for all foreign-trade transactions, permits issuable from any location |
-| Electronic oversight system for public bodies and government companies | [Planned](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) | Announced as forthcoming, 2026-08-10 |
-| Finance ministry platform for public-sector companies and authorities | [Implemented](https://www.suna.sd/posts/finance-ministry-launches-digital-platform-for-public-sector-companies-and-authorities) | Launched 2026-08-19 |
-| Judiciary digital-transformation project | [Planned, contract signed](https://alwatannewssd.com/88831/) | Judicial Authority signed a contract with the National Technical Company, financed by the finance ministry, vetted by the justice ministry's contracts department |
-| Nazaha public procurement platform | [Implemented](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) | Launched, reported 2026-08-12 |
+Sudan [launched Nazaha, a national digital public-procurement and contracting system, on 12 August 2026](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system), announced with [no coverage figure, no mandatory-use rule for government entities and no contract-value threshold](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system). It is presented as [part of a wider public-finance reform programme covering budget reform and a single treasury account](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system), and three days before the launch the prime minister [reviewed the same list — an e-tendering platform, payroll computerisation, international accounting standards and a treasury single account — against the IMF's HIPC debt-relief roadmap](https://allafrica.com/stories/202608110045.html), which is the clearest account on record of why it recurs.
 
-### Rural digital data capture
+The citizen-facing estate is Baladna, which [added 28 services by February 2026](https://www.telecompaper.com/news/sudanese-e-government-platform-baladna-brings-in-28-new-services--1561335) as the Ministry of Digital Transformation rolled it out. Passports and immigration are [connected to it and run electronic appointment and verification against the national identification number](https://baldna.gov.sd/product/1/details); higher education is [connected with a unified university registration service under development, while basic-education learner records and credentialing are not integrated](https://baldna.gov.sd/product/1/details); [driving licence renewal runs through the traffic police's Salem platform and Baladna, authenticated against the national identity number](https://almashhadalsudani.com/services/149406/). Businesses fare better than citizens: the [Tax Chamber's e-portal lets taxpayers register remotely, obtain an identification number, file and amend returns, view account activity and request clearance certificates, with the electronic payment channel still being activated state by state](https://tax.gov.sd/en/home/). A [unified government employment platform for jobseekers is in final preparation for launch](https://sudan.gov.sd/%d9%88%d8%b2%d9%8a%d8%b1-%d8%b4%d8%a4%d9%88%d9%86-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%aa%d9%82%d9%81-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d8%af/) (2026), and a [comprehensive electronic oversight system for public bodies and government companies is described as nearing completion](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Dedicated rural digital-service programme | ***Not held*** | — |
+Volumes, where any are given, are small. The [Salem renewal service for citizens abroad now runs through embassies in 16 countries, up from six, and has issued 1,519 licences](https://sudantribune.net/article/316412) (July 2026).
 
-### Use of satellite data
+<!-- derived -->
+Those 1,519 licences amount to roughly 0.05 per cent of the 3,161,599 driving licences on the national register (July 2026).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Earth-observation or satellite-data programme | ***Not held*** | — |
+The measured position is early. Sudan scored [0.2759 on the UN E-Government Development Index in 2024, below the African average](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt), its [effective administration score fell 5.8 points over 2014–2023 to 21.5 of 100, 51st of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf), and a study of 18 local government websites found [e-government at an early stage with no integration between institutions](https://learning-gate.com/index.php/2576-8484/article/download/3004/1130/4518). Coordination sits with the Ministry of Digital Transformation and Communications and the [three authorities created by prime-ministerial decree in November 2025](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt), but individual bodies still start from their own foundations: the National Investment Authority [describes building its own website as a crucial step towards its electronic single window](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/).
 
-<!-- narrative: dpi -->
-[SUDAPASS, the national digital identity platform, launched live on 21 May 2026](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy), activating via passport or national number plus face biometrics and run jointly by the cybersecurity authority, the e-certification authority and the civil registry — on a population base last counted in 2008, against more than 14 million people displaced. [Baladna, the national e-government platform, expanded from 28 services at its January 2026 launch](https://spokesperson-sd.com/ar/archives/38364) to 130-plus electronic health services by July and sole national platform for foreign-trade transactions by August, with no coverage or uptake figures published for any tranche. [Bayan, a national civil-service HR platform, launched in August 2026](https://www.sudanakhbar.com/1822457) with no data-protection arrangement disclosed for a database covering every public employee, stood up during an active war.
-
-Payments carry the sharpest contrast between restoration and new build. [Bankak remains the dominant retail-settlement rail](https://voxdev.org/topic/institutions-political-economy/rebuilding-sudans-digital-infrastructure-amidst-conflict), a position the base already flagged as a vulnerability in March 2025; the Central Bank's [national payment switch went live in August 2026 with exactly one bank connected](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips), explicitly described by the Bank as restoration rather than a new rail, while a competing licence, Al-Asjad, was revoked days after its own July 2026 launch. USSD banking and the Isali government-collection platform both expanded through the year — [Isali diffusing state to state and reaching over 90% of transactions in White Nile State on the state's own, unverified figure](https://www.suna.sd/posts/shrak-byn-almaly-obnk-alaamal-alotny-ltkdym-khdm-aysaly). The vehicle-registration database's survival through the war is credited to backup data centres built inside the states and abroad. No earth-observation programme and no dedicated rural digital-service programme, distinct from the tower-expansion effort, is on record.
-<!-- /narrative -->
-
-## Governance and regulation
+## Governance
 
 ### Legislation and regulation
+<!-- gov.legislate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Border-trade legal framework (state-level protocols) | [Under review](https://sudantribune.net/article/317080) | Meeting chaired by the finance minister resolved to review state-to-neighbouring-country trade protocols and refer them to the Council of Ministers, to build a single national legal framework in their place |
-| Draft Digital Transformation Law of 2026 | [Under review](https://sudantribune.net/article/317108) | Redrafting with the digital transformation ministry reported 2026-08-11 |
+Sudan's digital statute book is still the pair of Acts passed in 2007, and the instruments meant to replace it have not moved. Three drafts prepared by the Ministry of Digital Transformation and Communications — a data and artificial intelligence law, a cybersecurity law and a digital transformation law — [were before the Council of Ministers on 6 August 2026, and none had been passed](https://sudantribune.net/article/317108). Any of them would be enacted not by an elected chamber but by [the interim legislative arrangement set out in the Constitutional Document](https://sudantribune.net/article/317108).
+
+What is in force is narrow and old. The [Electronic Transactions Act 2007](https://cyrilla.org/api/files/15895337760832wnwr7jhqe1.pdf) governs electronic signatures and electronic transactions and is one of the two statutes carrying digital identification in the absence of any digital-ID law, while the [Cybercrime Act of 2007, amended in 2020](https://ictpolicyafrica.org/es/document/oi11tiq4rq?page=1), is the principal cybersecurity statute and criminalises unauthorised access to and disclosure of data. Identity rests on the Civil Registration Act 2011, which [makes registration for the national identity card compulsory for citizens aged 16 and above](https://landinfo.no/wp-content/uploads/2023/03/Report-Sudan-Civil-Registration-ID-documents-and-passports-03032023.pdf), with enforcement varying across the country and particularly in conflict-affected areas; the card and number it issues [remain the legal proof of identity](https://landinfo.no/wp-content/uploads/2023/03/Report-Sudan-Civil-Registration-ID-documents-and-passports-03032023.pdf) required for formal employment, banking and other legal purposes.
+
+Everything built since sits outside that statute book rather than inside it. The three digital authorities announced in November 2025 were [created by prime-ministerial decree rather than by legislation](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt), and no data-protection statute has been enacted at all: a [draft data protection bill proposed around 2018 was never passed](https://dataprotection.africa/sudan/).
 
 ### Strategies, plans and policies
+<!-- gov.policy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital Transformation Authority | [Implemented](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Established by PM decree, alongside the Sudanese Data and AI Authority and the Sudanese Cybersecurity Authority |
+Sudan had [no digital public infrastructure policy framework in place as at 2025](https://www.undp.org/sites/g/files/zskgke326/files/2025-11/sudan-cpd-2026-2028_30-oct_clean-1_0.pdf), on the assessment prepared for UNDP's 2026-2028 country programme. What exists instead is an institutional map drawn in November 2025, when [three bodies were created by prime-ministerial decree — the Digital Transformation Authority, the Sudanese Data and Artificial Intelligence Authority and the Sudanese Cybersecurity Authority, all under the Ministry of Digital Transformation and Communications](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt).
+
+The ministry's own published commitment is a [3x3 digital transformation plan setting out three pathways — citizen services, private-sector services and government-sector services — each with named projects and lead ministries](https://www.sudanembassyberlin.com/index.php/de/news-tt/706-ministry-of-digital-transformation-launches-phase-two-of-the-3-3-digital-transformation-plan). Ownership elsewhere is thinner than the announcements suggest. The Central Bank of Sudan's financial inclusion directorate has been [given a mandate to formulate a national financial inclusion strategy and a consumer protection framework](https://cbos.gov.sd/en/node/24604/), which is a commission rather than a document. The finance ministry [set its own priorities in August 2026 as automating payroll, invoicing, procurement and electronic collection](https://www.suna.sd/posts/finance-minister-issues-directives-to-modernize-ministry-performance), with no legal instrument attached to any of them.
+
+The administrative base carrying all of this was weakening well before the war reached its present stage. Sudan scored [29.6 of 100 for overall governance in 2023, 51st of 54 African states and far below the continental average of 49.3](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf), and its [Public Administration score fell 12.0 points over 2014-2023 to 24.2 of 100, 52nd of 54 and the second-largest driver of that overall decline](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). It sat [below the continental average on all 16 of the index's sub-categories and among the bottom ten African states on 13 of them](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf).
+
+### Regional collaboration
+<!-- gov.regional -->
+
+Sudan [signed the African Union's Malabo Convention on Cyber Security and Personal Data Protection in March 2023 and has not ratified it](https://dataprotection.africa/sudan/). Its [Regional Integration score rose 3.8 points over 2014-2023 to 22.0 of 100, 47th of 54 African states, across memberships of COMESA, CEN-SAD and IGAD](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). The national payment rails have [no connectivity outside the country](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf), and in August 2026 the government [resolved to replace its bilateral border-trade protocols with neighbouring states with a single national framework](https://sudantribune.net/article/317080).
 
 ### Standards
+<!-- gov.standards -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National technical standards or interoperability framework | ***Not held*** | — |
+Sudan's flagship platforms of 2026 were launched without a published standard between them. [No architecture, standard or timetable has been published for the announced linkage between the Nazaha procurement platform, the budget execution system and the Baladna trade platform](https://allafrica.com/stories/202608100707.html), announced on 9 August 2026, and the [procurement system launched three days later](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) was presented as bringing the country closer to international standards of governance and financial oversight rather than as implementing any named one.
+
+The most detailed standards claim of the year is a supervisory one. A [Central Bank of Sudan circular dated 30 July 2026 requires every bank to update its customers' account data between 30 July and 30 September 2026, after which unupdated accounts are to be suspended and frozen](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/), on stated anti-money-laundering, counter-terrorist-financing and proliferation-financing grounds; the bank's Field Supervision Department presents the exercise as [compliance with international banking-supervision standards](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/). The same directive requires banks to [deploy technology capable of continuously monitoring account activity and detecting unusual transaction patterns at an early stage](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/), layered onto the data refresh rather than run as a separate programme, and one bank has [pushed the requirement to its customers through the Bankak mobile app](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/). The deadline was [extended to the end of 2026](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/) on 17 August 2026.
+
+Where a published instrument does sit behind a system, it is an older one: electronic certification is governed by the [2018 regulation for certification service providers, under which the National Authority for Digital Certification runs the SudaPass platform](https://www.nadc.gov.sd/en/products/). In public financial management, a [team was formed in August 2026 to adopt reform standards](https://sudanhorizon.com/finance-minister-directs-adoption-of-best-global-systems-for-government-procurement/), without those standards being named.
 
 ### Data protection
+<!-- gov.protect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Bank customer data-update directive | [Implemented](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/) | Deadline extended to end-2026 on 2026-08-17 |
-| Draft Data and Artificial Intelligence Law | [Under review](https://sudantribune.net/article/317108) | Redrafting with the digital transformation ministry reported 2026-08-11 |
+Sudan has never enacted a comprehensive data-protection statute. A [draft data protection bill proposed around 2018 was never passed, and no independent data protection authority has been established](https://dataprotection.africa/sudan/); as at [August 2026 no law governs the collection, holding or use of personal data](https://sudantribune.net/article/317108). The Sudanese Data and Artificial Intelligence Authority [created by decree in November 2025](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) sits inside the communications ministry and is a government data body, not a regulator holding statutory powers over the state's own collection. No regional obligation fills the gap: the African Union's Malabo Convention on Cyber Security and Personal Data Protection was [signed in March 2023 and has not been ratified](https://dataprotection.africa/sudan/).
 
-### EU activities
+What governs personal data is a sectoral patchwork. The Electronic Transactions Act 2007 and the Cybercrime Act 2007 as amended in 2020 criminalise unauthorised access to and disclosure of data but [create no obligation to notify users, a regulator or a data protection authority of a breach](https://dataprotection.africa/sudan/), and neither [imposes a data-residency requirement or any enforceable control over cross-border transfers of government or personal data](https://dataprotection.africa/sudan/). Consumer protection for digital payments rests mainly on the [2013 Regulation on Electronic Fund Transfers, supplemented by the Civil Transactions Act 1984 and the Electronic Transactions Act 2007, with provisions scattered, enforcement inconsistent and no purpose-built recourse mechanism for digital payment channels](https://unctad.org/system/files/non-official-document/CIIEM5_Sudan_en.pdf). Identity decisions reach [no dedicated tribunal or appeals body](https://dataprotection.africa/sudan/) and are challengeable only through the ordinary courts.
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| European Union digital cooperation with Sudan | ***Not held*** | — |
+That base is now carrying compulsory collection at national scale. The [central bank has ordered every bank to compile and update the data held on every customer, and to suspend and freeze the accounts of those who do not](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/) — a condition imposed on licensed banks under anti-money-laundering rules, which [confers no rights on the customers whose data is compelled](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/) — and the [deadline was extended to the end of 2026](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/). [SudaPass](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/), named as the means of completing it, [publishes a privacy policy setting out data-subject rights of access, correction, deletion and withdrawal of consent](https://sudapass.gov.sd/privacy?lang=en), with no supervisory authority to enforce them against. Sudan's [Digital Freedom score stood at 17.0 of 100 in 2023, 49th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf).
 
-### Open data
+### Public debate and participation in policymaking
+<!-- gov.discourse -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Open government data portal | ***Not held*** | — |
+Sudan's digital policy argument is being carried in newspaper columns by individual specialists rather than through any consultative mechanism. In August 2026 an economist [called publicly for the Ministry of Digital Transformation, working with the central bank and key ministries, to impose comprehensive and mandatory automation across government revenue collection, customs, taxes and the gold trade](https://sudanhorizon.com/digital-inclusion-and-automation-the-role-of-the-ministry-of-digital-transformation-and-the-state-in-automating-the-economy-and-combating-corruption/), naming artisanal gold as one of the largest channels moving cash outside the banking system. In July 2026 a named specialist [set out a ten-pillar digital microfinance programme for 2027-2030](https://sudanhorizon.com/microfinance-in-post-war-sudan-3-digital-microfinance-as-sudans-gateway-to-a-more-inclusive-economy/), built around a unified national platform connecting banks, microfinance institutions, fintechs and the payments switch, a unified digital credit registry and a new bank for microfinance and community development.
 
-<!-- narrative: governance -->
-Sudan created three digital-governance institutions by prime-ministerial decree on 5 November 2025 — the Digital Transformation Authority, the Sudanese Cybersecurity Authority and the Sudanese Data and AI Authority — ahead of any primary data-protection statute, a sequencing an external roundup calls "a rare procedural twist" against at least 44 African Union states that already had data-protection laws in force by end-2025. [The Council of Ministers reviewed a package of three draft laws on 6 August 2026](https://sudantribune.net/article/317108) — covering cybersecurity, data and artificial intelligence, and digital transformation — and sent all three back for further study; none has a published text, and the base holds no account connecting the November 2025 institutional decree to the platform-level claims (Baladna, Bayan, SUDAPASS) that followed it.
+The one live public argument over a working digital system has run on financial-inclusion and anti-money-laundering terms rather than privacy ones: bankers [pressed in August 2026 for flexibility in the compulsory customer-data update, arguing that it should be measured by customers retained and updated rather than by accounts closed](https://sudanhorizon.com/bankers-customer-data-updates-essential-but-flexibility-needed-for-financial-inclusion/).
 
-A separate finance-ministry-chaired meeting on 5 August resolved to review state-level border-trade protocols with neighbouring countries and unify them into a single national legal framework, alongside adopting Baladna as the sole platform for foreign-trade transactions — the stated driver is revenue protection rather than service delivery. No national technical-standards or interoperability framework, no open-government-data portal, and no EU digital-cooperation instrument is on record for Sudan.
-<!-- /narrative -->
+Formal participation is where the country scores worst of all. [Participation was its lowest-scoring governance sub-category at 10.5 of 100 in 2023, 53rd of 54 African states and down 4.8 points over the decade, with Deliberative & Participatory Governance at 19.1 and Civil Society Space at 20.0](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). Over the same decade [Media Freedom fell 5.0 points to 27.8 of 100, 51st of 54, while Freedom of Expression & Belief rose 14.6 points to 37.9](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). The register that would underpin any elected voice in policy [has not been updated since 2015](https://www.idea.int/data-tools/data/country?country=212&database_theme=293), through the 2019 revolution, the 2021 coup and the war that followed in 2023.
 
-## Artificial intelligence and the technology sector
+## Inclusion
+
+### Digital divides
+<!-- include.divides -->
+
+The sharpest line of exclusion in Sudan now runs along the front line rather than along any demographic axis: [large areas of Darfur and Kordofan have been left with minimal or no connectivity](https://freedomhouse.org/index.php/country/sudan/freedom-net/2025) as the war destroyed telecommunications infrastructure and blacked out cities including Wad Madani and Khartoum, and [the count of mobile connections fell through 2025](https://datareportal.com/reports/digital-2026-sudan) as that damage accumulated. What survives is [concentrated in Khartoum and a handful of other urban centres](https://freedomhouse.org/index.php/country/sudan/freedom-net/2025), leaving the rural majority on weaker coverage, unreliable maintenance and, where anything reaches them at all, costly satellite alternatives. The urban-rural line here is not a gradient of service quality; in much of the country it is the difference between a network and none.
+
+Against that, the country's measured equality of opportunity had been improving for a decade: [Sudan's Equal Socioeconomic Opportunity score rose 21.7 points over 2014-2023 to 39.2 of 100, 36th of 54 African states (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). That series ends in 2023 and measures the decade to it, not what has happened since.
+
+The gates that now decide who transacts are a national identity document and a smartphone, [both required to open the Bankak account](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf) through which humanitarian cash is paid — so exclusion is built into the channel rather than met at its edge, and the undocumented are cut out at the point of registration rather than the point of payment. In the capital's markets [bank apps have become the dominant way retail trade settles](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan), taken up by people who had never used a digital financial service, under the pressure of currency depreciation and cash scarcity rather than any appetite for the technology; [traders without a smartphone route their takings through a colleague's account](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) in order to trade at all, and mistaken transfers by unfamiliar users are a routine failure of the channel the retail economy now depends on. Adoption arrived at under those conditions measures what has failed, not who has been included.
+
+### Access to services
+<!-- include.access -->
+
+Sudanese bank customers must appear in person to keep their accounts: [the customer-data update is branch-only, with Bankak users prompted in the app to attend a Bank of Khartoum branch](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/) (August 2026), on pain of suspension. [The deadline has since moved to year-end](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/), postponing the freezes rather than the obstacle, and bankers have [warned that freezing accounts on this basis risks mass financial exclusion](https://sudanhorizon.com/bankers-customer-data-updates-essential-but-flexibility-needed-for-financial-inclusion/) given displacement, lost documents and disrupted branches.
+
+[The national digital credential is free, but activating it requires a passport or national identity number already held](https://sudanhorizon.com/sudan-announces-imminent-launch-of-the-national-digital-id/), so it reaches nobody the paper system has not; [the register and the national number are restricted to citizens](https://landinfo.no/wp-content/uploads/2023/03/Report-Sudan-Civil-Registration-ID-documents-and-passports-03032023.pdf), non-citizens going to a separate Foreign Number system [being reactivated in 2026](https://www.fananews.com/language/en/refugees-commission-announces-foreign-number-system-to-strengthen-national-security/). Whether a refugee could open an account or register a SIM turned on the provider's acceptance of the Commission of Refugees card, leaving many [dependent on SIM cards registered in others' names](https://fsdafrica.org/wp-content/uploads/2025/05/22-12-09-Supporting-Digital-Payments-in-Cash-Sudan-Final_v2-KW-2.pdf) (2022).
+
+[The Persons with Disabilities Act 2017 provides a legal basis consistent with the UN Convention, yet no accessibility accommodation — screen readers, voice interfaces, accessible agents or ATMs — has been identified in Sudan's digital payment systems, while hardship limits phone ownership and under-registration of disabled children's births compounds their exclusion](https://documents1.worldbank.org/curated/en/099052625083516656/pdf/P505963-583e32dc-66c6-474f-8862-1d452b2a7d7a.pdf) (2025).
+
+Outside the capital the service often cannot be reached: [army shutdowns of land-based internet have put the online application for humanitarian group cash beyond much of the country, groups in Darfur sending one member to a town's Starlink terminal to file](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf) (March 2026). Social protection has not run at national scale since [the Sudan Family Support Programme's digital transfers were suspended after October 2021](https://openknowledge.worldbank.org/entities/publication/fe4d8c8e-eadb-4717-ac4e-72d34bb2db01); what remains is chiefly humanitarian, [paid into nominated members' personal accounts because informal groups cannot hold their own](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf).
+
+Equality of access itself had been improving: [Sudan's Equal Access to Public Services score rose 25.9 points over 2014-2023 to 36.3 of 100, 31st of 54 African states and its second most improved indicator (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf), measuring the decade to 2023, and distribution rather than level. As at 2013 [the national identity card was accepted but not required for public healthcare](https://www.justice.gov/eoir/page/file/1002811/dl).
+
+## Technology
 
 ### AI
+<!-- tech.ai -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Sudanese Data and Artificial Intelligence Authority | [Implemented](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Established by decree, ahead of any primary data-protection law |
+Sudan has a national authority for artificial intelligence and no artificial intelligence running in government. [Artificial intelligence is not in use in the state's data exchange](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) (2025), and the [data and artificial intelligence authority created by prime-ministerial decree in November 2025](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt), sitting under the Ministry of Digital Transformation and Communications, carries a mandate to plan such capability rather than a system that runs. No national artificial intelligence strategy had been adopted as at August 2026.
+
+Nor is there a statute. The instrument that would govern the field — a combined draft law pairing data and artificial intelligence in one text — [was not advanced when ministers considered it in August 2026](https://sudantribune.net/article/317108). What exists in the meantime is closer to a prospectus than an installation: the [state data centre in Khartoum was returned to service in October 2025](https://actumsudan.substack.com/p/sudan-pushes-digital-transformation) with cloud and artificial-intelligence support systems, and the infrastructure and transport ministry has [put artificial intelligence and transport-management technology to investors as part of post-war reconstruction](https://www.fananews.com/language/en/infrastructure-and-transport-minister-sudan-open-to-smart-arab-partnerships-to-rebuild-transport-sector/) (July 2026). Neither is a deployed service, and none is offered to citizens.
 
 ### ICT Industry
+<!-- tech.industry -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Sudani and Sudatel wartime service continuity | [Implemented, self-reported resilience](https://www.suna.sd/posts/ozyr-alatsalat-oalthol-alrkmy-yshyd-baldor-almhory-lshrk-sodany-fy-daam-msyr-althol-alrkmy) | Digital-transformation minister praised operators Sudani and Sudatel at a Port Sudan business-digital event for keeping services running through the war |
+Sudan's business and labour environment scored [27.2 of 100 in 2023, 51st of 54 African countries, after a decade in which it fell 1.9 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf); business and competition regulations, the component that most directly shapes whether a technology company can be formed and can trade, stood at 33.3 and 49th, while economic diversification at 61.7 and 32nd was the one part of the picture to gain ground over the decade, up 10.3 points.
+
+That is the ground a domestic technology sector has to stand on, and what stands on it is mostly people rather than firms: the country's [software developer community](https://committers.top/sudan.html) is small but active (2024), and no comparable count exists of the companies employing it. The size of the domestic software and services industry, the employment it generates and the share of government technology spending that reaches local suppliers all remain unmeasured as at August 2026.
 
 ### Innovation ecosystem
+<!-- tech.innovate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Start-up or innovation-sector support programme | ***Not held*** | — |
+Sudan's technology ecosystem has reverted to an early stage since fighting began in April 2023, [sustained largely by donor grants rather than by institutional venture capital](https://savannahlabs.org/the-sudanese-fintech-landscape/) (2024). The country sits in the [bottom quartile of the Global Innovation Index 2024, with one identified science and technology cluster](https://www.wipo.int/documents/d/global-innovation-index/docs-en-2024-gii-2024-clusters-top100-ranking.pdf), and the hub layer that would normally sit between grant money and a company runs to a single organisation, [Impact Hub Khartoum](https://online.flippingbook.com/view/574977573) (2024).
+
+## Geopolitics
 
 ### US / hyperscaler activities
+<!-- geopol.usa -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| United States digital-sector engagement with Sudan | ***Not held*** | — |
+No American-financed digital infrastructure, no hyperscaler cloud region or government system running on a US platform, and no bilateral digital agreement with the United States were on the record for Sudan as at August 2026.
 
 ### China activities
+<!-- geopol.china -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Chinese digital investment in Sudan | ***Not held*** | — |
+No Chinese-financed digital infrastructure, network-equipment supply to a Sudanese operator, government system running on a Chinese platform, or bilateral digital cooperation agreement with China was on the record for Sudan as at August 2026.
+
+### EU activities
+<!-- geopol.eu -->
+
+No European digital financing commitment, data-protection adequacy arrangement or European-funded connectivity project was on the record for Sudan as at August 2026.
 
 ### India activities
+<!-- geopol.india -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Indian digital-sector engagement with Sudan | ***Not held*** | — |
+No India Stack-derived deployment in identity, payments or data exchange, and no Indian digital cooperation agreement or training programme, were on the record for Sudan as at August 2026.
 
 ### Gulf/UAE activities
+<!-- geopol.gulf -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Network International-Saudi Sudanese Bank processing agreement | [Implemented](https://techafricanews.com/2026/01/19/network-international-partners-with-saudi-sudanese-bank-to-advance-digital-payments-in-sudan/) | Dubai-based Network International signed a strategic processing agreement for Mastercard-sponsored digital-payment processing, formalised at Cairo ICT 2025 |
+No Gulf-owned data centre, Gulf operator holding in a Sudanese network and no Emirati or Saudi digital financing commitment were on the record for Sudan as at August 2026.
 
-<!-- narrative: ai-tech -->
-The Sudanese Data and Artificial Intelligence Authority was established by the same 5 November 2025 decree as the cybersecurity and digital-transformation authorities, against a reported AI-readiness score of 24.63 out of 100. No AI strategy document, sandbox or guidance note is held for Sudan, in contrast to the strategies an external roundup records for several other African states over the same period. [Dubai-based Network International signed a Mastercard-sponsored processing agreement with Saudi Sudanese Bank in January 2026](https://techafricanews.com/2026/01/19/network-international-partners-with-saudi-sudanese-bank-to-advance-digital-payments-in-sudan/), the base's only Gulf digital-sector instrument, with no transaction volumes or rollout figures given. The digital-transformation minister publicly praised operators Sudani and Sudatel in January 2026 for maintaining service through the war, a ministerial assessment rather than an independent one. No Chinese, Indian, US or domestic start-up/innovation instrument is on record.
-<!-- /narrative -->
-
-## Inclusion and capacity
+## Capacity
 
 ### Literacy
+<!-- capacity.literacy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital-literacy programme or measurement | ***Not held*** | — |
+Sudan gets its children to the end of school and teaches them very little there: over the decade to 2023 its [Education Quality score fell 9.1 points to 13.2 of 100, 49th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf), while over the same years its [Education Completion score rose by that same 9.1 points to 70.4, ninth on the continent and one of the country's four strongest measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). The Education sub-category as a whole barely moved, at 35.7 and 47th.
+
+Digital literacy has not been measured at all. The World Bank's [2022 assessment of Sudan's digital economy found no such data and could record the level only as perceived to be low](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Digital-Economy-RepSudan-jun22.pdf). It matters directly to what the country is now asking of its citizens: bankers and economists reading the [rush onto banking apps that the cash shortage forced](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) name low digital awareness alongside weak telecoms and power cuts as what holds the shift back (July 2026).
+
+The education system's own records show the same split between the top and the bottom of the ladder: [the Ministry of Higher Education and Scientific Research is connected to the Baldna e-government platform](https://baldna.gov.sd/product/1/details), with a unified university registration service being built, while basic-education learner records and credentialing sit outside it entirely (2026).
 
 ### Training and skills
+<!-- capacity.training -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| MTN Sudan Al-Manssa digital-skills programme | [Implemented, single cohort, unrefreshed](https://techafricanews.com/2025/08/18/mtn-sudan-expands-digital-empowerment-drive-with-al-manssa/) | Launched workshops in digital media and online marketing for content creators |
+The tertiary ICT pipeline is real and it is narrow. A small group of long-established universities carry computer science and IT faculties teaching [at bachelor's, master's and doctoral level](https://www.neelain.edu.sd/college/Computer) (2024), and that route is the main one into the profession. Behind it, no measure of the teaching workforce that would supply it was reported for Sudan at all across the decade to 2023, [the single gap in an index that scored the country on everything else](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf).
 
 ### Research institutions
+<!-- capacity.research -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Applied digital-research programme | ***Not held*** | — |
+Sudan registers on the world map of research at exactly one point: the World Intellectual Property Organization's [2024 ranking of leading global science and technology clusters identifies a single cluster in the country](https://www.wipo.int/documents/d/global-innovation-index/docs-en-2024-gii-2024-clusters-top100-ranking.pdf). The institutional base under it is the same handful of universities that does the teaching — [Sudan University of Science and Technology, Al Neelain University, the National University of Sudan and Future University all hold computer science and IT faculties](https://www.neelain.edu.sd/college/Computer) (2024). Research capacity and teaching capacity in Sudan are housed in the same buildings.
 
-<!-- narrative: inclusion -->
-The only capacity-building instrument on record is [MTN Sudan's Al-Manssa programme](https://techafricanews.com/2025/08/18/mtn-sudan-expands-digital-empowerment-drive-with-al-manssa/), digital-media and online-marketing workshops for content creators launched in August 2025, with no participant numbers or later update. Field reporting elsewhere in the base — [CALP Network's account of humanitarian cash transfers routed through Bankak into nominated members' personal accounts](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf), and [Al Jazeera's account of retail-payment failure modes in Khartoum markets](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) — carries the inclusion story for Sudan more than any standalone programme: a Bank of Khartoum official conceded weak telecom infrastructure, power cuts and low digital awareness as the obstacles the shift has not overcome, and an economist quoted in that reporting called the shift to digital payments real but not a transition to a digital economy without stable telecoms, electricity and broader literacy. No dedicated digital-literacy programme or measurement, and no applied digital-research programme, is on record.
-<!-- /narrative -->
+## Digitalisation
+
+### Rural digital data capture
+<!-- digital.rural -->
+
+Sudan's strongest governance score is a rural one: [Rural Market Access stood at 78.7 of 100 in 2023, eighth of 54 African states and up 28.3 points over the decade, the highest-scoring and most improved of the 96 indicators the Ibrahim Index measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf), carrying Rural Economy to 56.6 and 31st place. The same reading has [Rural Representation & Participation up 15.6 points to 63.2 and Rural Land & Water Access down 9.5 points to 29.8, 41st of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf).
+
+None of that rural activity generates a digital record where it happens. [Rural clinics write patient data on paper as patients are seen](https://doi.org/10.59992/ijci.2025.v4n12p2) (2025); [rural schools compile attendance and enrolment on paper, with little exchange between the education management information system and individual schools](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-07-annual-progress-report-gpe-system-capacity-grant-sudan.pdf) (2025); [police case files and detention logs outside the main centres are kept on paper](https://www.state.gov/wp-content/uploads/2024/02/528267_SUDAN-2023-HUMAN-RIGHTS-REPORT-1.pdf). Where a digital step exists it begins above the point of care: [Darfur's mobile disease surveillance](https://doi.org/10.1093/inthealth/ihaf122) submits weekly counts aggregated from paper tally sheets filled in at the clinic (2025). The civil registry is the exception — [fingerprints and photograph taken electronically, mobile units deployed to reach rural areas as at March 2023](https://landinfo.no/wp-content/uploads/2023/03/Report-Sudan-Civil-Registration-ID-documents-and-passports-03032023.pdf), though [birth registration still starts on a paper notice carried to a registry office](https://www.unicef.org/sudan/stories/q-and-what-birth-registration-why-it-important-children-sudan) (2023). Land is barely captured at all: [formal registration reaching a very small fraction of customary land in Darfur](https://sudan.un.org/sites/default/files/2021-12/Sudan-PBF2021-Thematic_Brief_5-land_tenure.pdf) and [rural areas largely without formal registers](https://www.doingbusiness.org/content/dam/doingBusiness/country/s/sudan/SDN.pdf) (2019).
+
+Connectivity and power set the ceiling. [Digital infrastructure is concentrated in Khartoum and a handful of urban centres; the roughly 63 per cent of the population in rural areas has markedly weaker and poorly maintained mobile coverage, and the war has destroyed telecommunications infrastructure, caused prolonged blackouts in Khartoum and Wad Madani, and left large areas of Darfur and Kordofan with minimal or no connectivity, dependent on costly satellite alternatives such as Starlink](https://freedomhouse.org/index.php/country/sudan/freedom-net/2025) (2025). The [off-grid solar market that is growing runs mainly on agricultural demand](https://www.undp.org/sudan/projects/promoting-solar-mini-grids-clean-and-reliable-energy-sudan) (2025), and an [agricultural-financing platform built by the Agricultural Bank with the ministries of agriculture and digital transformation](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/) had been announced but not launched as at 10 August 2026.
+
+### Digitalisation of sub-national government
+<!-- digital.localgov -->
+
+Sub-national digital government in Sudan is a website presence and little else: [local government sites were at an early stage in 2024, with no integration or interoperability between institutions, and the conflict has further cut sub-national digital capacity](https://learning-gate.com/index.php/2576-8484/article/download/3004/1130/4518). The administrative tier below the centre is not uniform territory. [The civil registry runs only where the national authority holds ground — biometric registration resumed in White Nile State in mid-2026, registry offices elsewhere have been looted or destroyed, and civil registration in Khartoum has all but ceased since April 2023](https://smallwarsjournal.com/2026/06/09/sudans-governance-collapse-struggle-for-civil-authority/), so the registers on which a locality office would depend do not exist across much of the country.
+
+## Data
+
+### National statistics
+<!-- data.statistics -->
+
+Sudan has run [neither an agricultural census nor a business census in the past twenty years](https://www.worldbank.org/en/programs/statistical-performance-indicators), leaving the state without a periodic count of its farms or its firms; a population census does fall inside that window, and [three or more health surveys, two agricultural surveys, two labour surveys and one household survey](https://www.worldbank.org/en/programs/statistical-performance-indicators) were run in the ten years to 2023, but no business survey at all.
+
+The World Bank's five statistical performance pillars put [data use, data sources and data infrastructure in the 20-49 per cent band in 2023](https://www.worldbank.org/en/programs/statistical-performance-indicators) — the weakest parts of the system — against [statistical services and statistical products in the 50-69 per cent band](https://www.worldbank.org/en/programs/statistical-performance-indicators). The pattern is of an office that can still produce and publish, on a base of collection that is thinning underneath it.
+
+On the Ibrahim Index, [Capacity of the Statistical System stood at 31.2 of 100 in 2023, 48th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf), a ranking that held even after a 6.1-point rise across the preceding decade. On one of the index's 96 indicators, Human Resources in Education, [no data existed for Sudan at all](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf) — the only measure on which the 2024 index could not score the country.
+
+Administrative records do not close the gap that surveys leave. The [education management information system exchanges almost no data digitally with individual schools](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-07-annual-progress-report-gpe-system-capacity-grant-sudan.pdf), which compile attendance, enrolment and grades on paper, and there is [no systematic measurement of digital literacy](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Digital-Economy-RepSudan-jun22.pdf) of any kind. The Central Bureau of Statistics was nonetheless [still producing monthly inflation figures in June 2026](https://www.medameek.com/?p=203706), three years into the war.
+
+### Open data
+<!-- data.open -->
+
+Sudan's [Accountability & Transparency score fell 7.5 points over the decade to 2023, to 14.5 of 100 and 49th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf), with disclosure of public records at 7.5 (52nd) and accessibility of public records at 10.7 (46th) — the question of whether official information can be obtained at all, answered worse at the end of the decade than at the start.
+
+Individual documents do reach the public without gatekeeping. The [business operating rules for the real-time gross settlement system](https://cbos.gov.sd/sites/default/files/srag_business_operating_rules.pdf) are downloadable from the central bank without registration or a request process, and [SudaPass publishes a privacy policy](https://sudapass.gov.sd/privacy?lang=en) setting out the categories of personal and biometric data it collects and the rights attached to them. Disclosure about the government's own platform rollout has come through [recurring ministry press conferences since late 2025](https://allafrica.com/stories/202602020893.html), at the ministry's own timing and in its own terms.
+
+### Use of satellite data
+<!-- data.satellite -->
+
+No national space or geospatial agency, ground receiving station or geospatial data policy was on the record for Sudan as at August 2026.
 
 ## Finance
 
 ### New investments
+<!-- finance.new -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Khartoum Stock Exchange online-trading system (AfDB PFM project) | [Implemented, historical baseline, unrefreshed since 2016](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/) | Online trading launched on the Khartoum Stock Exchange, financed by the African Development Bank (reported US$34.8m) under its Public Financial and Macroeconomic Management project |
+The Sudan Family Support Project [carried over US$350 million in World Bank and IDA financing](https://documents1.worldbank.org/curated/en/410701602468022759/pdf/Sudan-Sudan-Family-Support-Project.pdf) (2020).
 
-### Domestic budget appropriations and expenditure
+Sudan's Public Financial and Macroeconomic Management project [carried US$34.8m from the African Development Bank](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/) (March 2016), delivered through the Bank's Transitional Support Facility. [Online trading opened on the Khartoum Stock Exchange under it on 24 March 2016](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/), and an [integrated financial management system joining the finance ministry to line ministries was in the project's scope](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Treasury Single Account (TSA) implementation | [In development, commitment reaffirmed](https://sudantribune.net/article/316950) | State minister of finance reaffirmed commitment to implementing the TSA system, at the African Summit for Social Impact (Abuja) |
+### MoUs and other agreements
+<!-- finance.mou -->
 
-<!-- narrative: finance -->
-The [only development-financing instrument on record for Sudan's digital sector is a decade old](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/): the African Development Bank financed the Khartoum Stock Exchange's online-trading system, launched March 2016 at a reported US$34.8m, under a Public Financial and Macroeconomic Management project that also scoped an integrated financial-management system. No later report updates it, and the 2026 PFM directives covering payroll, e-invoicing and e-procurement do not reference it. [The finance ministry reaffirmed a commitment to implementing a Treasury Single Account at the African Summit for Social Impact in Abuja on 2 August 2026](https://sudantribune.net/article/316950), with no target date, phase or coverage given.
-<!-- /narrative -->
-
-## Gaps to fill
-
-| System or instrument | What would settle it | Last probed |
-|---|---|---|
-| National policy linking digital infrastructure to energy supply | A national policy or programme document connecting grid rehabilitation or generation capacity to digital-infrastructure planning. | not yet probed |
-| Compute or high-performance computing capacity | A data-centre, cloud or high-performance computing specification, or a hosting contract for a public system beyond the two named data centres. | not yet probed |
-| Earth-observation or satellite-data programme | A national earth-observation or geospatial-data programme document, or an agency mandate covering satellite data. | not yet probed |
-| Dedicated rural digital-service programme | A programme document or budget line for rural digital-service delivery, distinct from the 4G tower-expansion programme. | not yet probed |
-| National technical standards or interoperability framework | A national interoperability framework, technical standard or e-government architecture document. | not yet probed |
-| Open government data portal | A public-sector open-data portal or policy document. | not yet probed |
-| European Union digital cooperation with Sudan | Any EU or European Investment Bank digital financing, programme or memorandum covering Sudan. | not yet probed |
-| Start-up or innovation-sector support programme | A start-up statute, incubator programme or innovation-fund document. | not yet probed |
-| United States digital-sector engagement with Sudan | Any US government or agency digital-sector financing, programme or memorandum covering Sudan, distinct from the commercial Isali/National Workers Bank rail. | not yet probed |
-| Chinese digital investment in Sudan | Any Chinese financing, contract or memorandum covering Sudanese digital infrastructure. | not yet probed |
-| Indian digital-sector engagement with Sudan | Any Indian government or vendor financing, contract or memorandum covering Sudanese digital infrastructure. | not yet probed |
-| Digital-literacy programme or measurement | A digital-literacy programme document, or a published measurement of digital literacy. | not yet probed |
-| Applied digital-research programme | A university, agency or donor-funded applied digital-research programme document. | not yet probed |
-
-<!-- narrative: gaps -->
-Thirteen of forty-five rows carry no instrument, concentrated in exactly the areas a war economy would be expected to have stopped funding first: compute capacity, satellite data, technical standards, open data, and all four named foreign-engagement blocs (EU, US, China, India) beyond the single Gulf processing agreement and the Chinese/Indian relationships absent entirely. Digital-literacy and applied-research programmes are also unheld. None of the thirteen names a specific document an automated fetch could plausibly retrieve — each is a genuine absence in the record, not a reading gap.
-<!-- /narrative -->
+No digital cooperation agreement, vendor arrangement or bloc-level digital accord was on the record for Sudan as at August 2026.

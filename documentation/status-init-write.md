@@ -100,7 +100,11 @@ Where your slice holds nothing that answers a sub-section, write **one plain sen
 *"No national space or geospatial data policy had been adopted as at {month of the compiled date}."* — yes.
 *"The base holds nothing on satellite data."* / *"No source could be found."* — never.
 
-That sentence carries no link, and that is by design. Keep it to one sentence, two at the very most, or the verification will read it as an unlinked claim. **A guess never appears, and neither does padding.**
+That sentence carries no link, and that is by design.
+
+**This applies to a sub-section with nothing in it, and to nothing else.** Inside a sub-section that does have material, an unestablished sub-question is **dropped, not written**. *“No startup act had been adopted”* looks like the same sentence, but in a section that is otherwise sourced it is an unlinked claim in the middle of linked ones, and the verification fails the whole report on it — which is what happened on LBR, SLE and SDN on 2026-08-21, seven paragraphs between them, every one cut by hand afterwards. The reason it is a claim and not an absence is that nothing in your slice establishes it: the indicator dataset's sourceless negatives are **not held**, not evidence of absence, so an absence drawn from them is a statement you cannot support. If a source in your slice does establish the absence, state it **with its link** like any other fact, and it is not covered by this rule at all.
+
+**Where the sentence is warranted, keep it short**: one sentence, two at the very most, or the verification will read it as an unlinked claim. **A guess never appears, and neither does padding.**
 
 ## Output
 
