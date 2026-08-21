@@ -1,11 +1,11 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 21-08-2026 at 00:05 — Covering sources published on 20 August 2026
-window_start: 2026-08-20
-window_end: 2026-08-21
-items: 50
-compiled: 2026-08-21 00:05
+subtitle: Last updated 21-08-2026 at 23:49 — Covering sources published on 21 August 2026
+window_start: 2026-08-21
+window_end: 2026-08-22
+items: 24
+compiled: 2026-08-21 23:49
 ---
 
 # Bulletin
@@ -27,8 +27,6 @@ compiled: 2026-08-21 00:05
 <span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
-<a href="#data">Data</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
 
@@ -36,492 +34,302 @@ compiled: 2026-08-21 00:05
 
 ### Strategies plans and policies
 
-**[Sierra Leone Validates National Roadmap to Tackle Mobile and Digital Fraud](https://techafricanews.com/2026/08/20/sierra-leone-validates-national-roadmap-to-tackle-mobile-and-digital-fraud/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+**[Nigeria Inaugurates Technical Committee on Sovereign Cloud Initiative](https://von.gov.ng/nigeria-inaugurates-technical-committee-on-sovereign-cloud-initiative/)** — Voice of Nigeria, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Sierra Leone validated a National Roadmap to Combat Mobile and Digital Fraud at the close of a two-day workshop convening the mobile operator, the communications ministry, the telecommunications authority and the central bank on SIM registration, know-your-customer compliance and fraud reporting. The roadmap text, its costing and its timetable are unpublished. The gap it addresses is unchanged: no liability rule, refund duty or reversal mechanism has been proposed, so a defrauded customer's position is where it was. *Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [Cybersecurity](#cybersecurity).*
+Nigeria has inaugurated a Joint Technical Committee on its National Sovereign Cloud Initiative in Abuja, chaired by Budget Office director-general Tanimu Yakubu with NITDA's Kashifu Inuwa Abdullahi as co-chair, to align federal cloud spending, procurement and financing behind the initiative. NITDA put federal IT project submissions for 2023 to 2026 at over N4.2 trillion, of which about N3.89 trillion was identified and more than N400 billion saved through review. *Also under [Data Storage](#data-storage) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*
 
-**[Now, where does it hurt?](https://www.itweb.co.za/article/now-where-does-it-hurt/G98YdqLGNOkMX2PD)** — ITWeb South Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[Malawi targets smartphone tax relief](https://www.itweb.africa/article/malawi-targets-smartphone-tax-relief/mQwkoq6Y9DpM3r9A)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
 
-South Africa's National Health Insurance scheme is in Phase 2, running to 2028, while the Board of Healthcare Funders and the Western Cape government challenge the Act's public-participation process in the Constitutional Court, where judgment has been reserved since May. The health department continues building the national Health Patient Registration System. Providers report that WhatsApp-based telemedicine cuts missed appointments by 10 to 25% and outperforms dedicated applications for adoption, which is a vendor's account of its own market. *Also under [Sectoral management information systems](#sectoral-management-information-systems).*
+Malawi's ICT minister Shadric Namalomba has called for the 10% surtax on internet services to be scrapped and the 17.5% VAT on smartphones reviewed, setting a target of lifting mobile internet use from 12.5% to at least 30% by 2030. The regulator MACRA said it is evaluating Universal Service Fund mechanisms to subsidise consumer devices and fund digital-literacy work, including a proposed one-tablet-one-student programme. *Also under [Digital divides](#digital-divides).*
 
-**[Ghana Opens 2026 National ICT Week, Puts AI and Digital Skills at the Centre](https://techafricanews.com/2026/08/20/ghana-opens-2026-national-ict-week-ai-digital-skills/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
+**[IN Groupe eyes Kenyan market](https://www.itweb.africa/article/in-groupe-eyes-kenyan-market/WnpNgq21Z9DMVrGd)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Ghana opened its 2026 National ICT Week with AI and digital skills at the centre, the deputy minister foregrounding the National AI Strategy launched in April, a UNESCO, UNDP and Japan-backed AI capacity programme for public officials, and the second phase of the One Million Coders Programme. That phase is put at more than 12,000 course completions, the first throughput figure the programme has published, against a target of one million trained by 2030. Completions are not people, and no first-phase total is given beside it. *Also under [AI](#ai) and [Training and skills](#training-and-skills).*
-
-**[El Comité Científico valida los documentos estratégicos del V Censo de Población y del I Agropecuario](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/)** — AHORAEG, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNQ/" title="GNQ">Eq. Guinea</a>
-
-Equatorial Guinea's scientific committee validated the project document, resource-mobilisation strategy and communication strategy for the fifth population and housing census and the first agricultural census, reading into the record the 2025 decree ordering both and the resolution creating the committees. The project document is stated to fix objectives, methodology, timetable and the agricultural sample size. None of it is published, and preparation has now been validated twice in four weeks without an enumeration date. *Also under [National statistics](#national-statistics).*
-
-**[DMI Assessment Highlights ICT, Cybersecurity and Data Gaps at Ghana's GMET](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
-
-A Danish-funded gap assessment of Ghana's Meteorological Agency reported gaps across its ICT infrastructure, digital systems, data governance and cybersecurity framework, presented to the communications ministry in Accra under a bilateral weather and climate cooperation. Neither the assessment text nor any cost, timetable or funding line for the roadmap it recommends is published. *Also under [Sectoral management information systems](#sectoral-management-information-systems) and [Cybersecurity](#cybersecurity).*
-
-**[80% of Malawians Remain Offline Despite Coverage, New GSMA Report Sets Out Six Priorities to Unlock Digital Potential](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
-
-An industry-association report found 80% of Malawians offline despite 87% fourth-generation population coverage, estimating that closing the usage gap could unlock MWK 1.1 trillion in economic value and 490,000 jobs by 2030. It sets out six policy priorities for the government and regulator, including a national digital economy strategy and cuts to mobile-service taxes. The gap it identifies is usage rather than coverage; the value estimate is modelled by an interested party, and one of the six asks is a tax its members pay. *Also under [Digital divides](#digital-divides) and [Digital Payments and Fintech](#digital-payments-and-fintech).*
+Kenya has opened talks with the French secure-identity provider IN Groupe on a national authentication platform that would let citizens reach public and private services through a single digital identity. ICT and Digital Economy Cabinet Secretary William Kabogo Gitau hosted a delegation led by Celine Gouveia in Nairobi and both sides agreed to deepen technical and policy collaboration; no contract, value or timetable was announced. *Also under [Digital Identity and CRVS](#digital-identity-and-crvs), [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [ICT Industry](#ict-industry).*
 
 ### Legislation and regulation
 
-**[Sécurité numérique : l'Assemblée nationale adopte à l'unanimité le projet de loi sur les infrastructures critiques](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html)** — Seneweb, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+**[Nigeria’s Central Bank wants to monitor your stablecoin transactions. Can the plan actually work?](https://techcabal.com/2026/08/21/nigerias-central-bank-wants-to-monitor-stablecoins/)** — TechCabal, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Senegal's National Assembly unanimously adopted law number 25/2026 on the protection of critical information infrastructure and digital security, seven days after the bill reached its intercommission. It mandates in-country storage of state-sensitive data, empowers a National Cybersecurity Authority, and folds in technology-neutral standards for the AI era alongside the child-online-protection plan. No promulgation date, gazette reference or text has been published. *Also under [Cybersecurity](#cybersecurity), [Data Storage](#data-storage) and [AI](#ai).*
+The Central Bank of Nigeria intends to run its own observer nodes on the blockchains carrying approved stablecoins, giving it a real-time view of how the tokens are issued, moved and redeemed rather than relying on what issuers report. The provision sits in its Payments System Vision 2028, which TechCabal reads against Kenya's capital markets regulator tendering for blockchain analytics in June 2026 and an estimated $205 billion of digital-currency flows across Sub-Saharan Africa in the year to June 2025. *Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*
 
-**[SpaceX Urges South Africa's ICASA to Rethink Proposed Satellite Spectrum Fees](https://techafricanews.com/2026/08/20/spacex-urges-south-africas-icasa-to-rethink-proposed-satellite-spectrum-fees/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[Kenya Information and Communication Bill a solution looking for a problem](https://nation.africa/kenya/blogs-opinion/opinion/kenya-information-and-communication-bill-a-solution-looking-for-a-problem-5565386)** — Daily Nation, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-SpaceX filed written representations asking South Africa's regulator to rethink its draft satellite spectrum-fee overhaul, seeking a flat annual licence fee instead of bandwidth-based pricing, charging per licence rather than per earth-station site, blanket licensing for terminals in motion, and a ten-year minimum licence term. The submission, dated 29 June, also asks for consolidated guidance on local-entity requirements and the 30% historically-disadvantaged-group equity threshold. That ties the fee consultation to the ownership question the operator's licensing is already stuck on. *Also under [Connectivity](#connectivity).*
+Writing in the Daily Nation, communications consultant Mutuma Mathiu argued that the Kenya Information and Communication (Amendment) Bill 2025 is surveillance presented as consumer protection: it would oblige internet service providers to fit numbered billing meters, verify subscribers and report meter and billing-system data annually to the Communications Authority, while fixing no price, capping no tariff and mandating no subsidy. He set that against the National Broadband Strategy 2025-2030 target of cutting fixed broadband from 13.4% to 2% of household income. *Also under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking), [Access to services](#access-to-services) and [Connectivity](#connectivity).*
 
-**[Sowore Faults EFCC Over Detention of BUK Student](https://newscentraltv.com/sowore-faults-efcc-over-detention-of-buk-student/)** — News Central TV, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Internet firm warns proposed metered billing could raise costs for Kenyans](https://peopledaily.digital/business/internet-firm-warns-proposed-metered-billing-could-raise-costs-for-kenyans)** — People Daily, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-An opposition presidential candidate publicly criticised Nigeria's financial crimes commission over the detention and prosecution of two people accused of cyberbullying the agency, among them a final-year university student. The prosecutions put a regulator in the position of complainant in an online-speech case. No charge sheet or judicial finding is on the record. *Also under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*
+Liquid Intelligent Technologies told the National Assembly Committee on Communication, Information and Innovation that mandatory metered internet billing under the Kenya Information and Communications (Amendment) Bill No. 9 of 2025 would raise costs, undermine fixed and unlimited packages, and expose businesses to bill shock from automated traffic they did not initiate. It added that tracking usage at that granularity raises data-protection and surveillance concerns. *Also under [Connectivity](#connectivity), [Access to services](#access-to-services) and [Data protection](#data-protection).*
 
-**[Nigeria's SEC wants crypto firms to share transaction data](https://techcabal.com/2026/08/20/nigerias-sec-wants-crypto-firms-to-share-transaction-data/)** — TechCabal, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[CIB Secures Preliminary Approval to Launch yomo Digital Bank in Egypt](https://techafricanews.com/2026/08/21/cib-secures-preliminary-approval-to-launch-yomo-digital-bank-in-egypt/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
 
-Nigeria's securities regulator proposed rules requiring any crypto business serving Nigerian users to register with it, including firms operating from abroad, with minimum capital of 2 billion naira for exchanges and custodians and 200 million naira for virtual-asset service providers. The supervisory core is data rather than capital: the commission could require API-level access to transactional, wallet, custody and settlement records, and reporting of resident and cross-border flows down to wallet addresses, values, timestamps and counterparties. Staking, lending, yield products, liquidity pools, peer-to-peer trading and non-custodial wallets are all pulled inside the perimeter. *Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [Cybersecurity](#cybersecurity).*
-
-**[Network telecommunication companies raise call, and data tariffs](https://www.onecitizendaily.com/index.php/2026/08/20/network-telecommunication-companies-raise-call-and-data-tariffs/)** — One Citizen Daily, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SSD/" title="SSD">South Sudan</a>
-
-South Sudan's operators applied the regulator's third and final tariff exchange-rate adjustment phase from midnight on 17 August, raising call and data prices against inflation, currency depreciation and hard-currency access problems. No phase has published its rates. A 25% cut in December 2025 has now been overtaken three times, which leaves affordability in this market a direction of travel with no quantity attached to it. *Also under [Connectivity](#connectivity) and [Access to services](#access-to-services).*
-
-**[Malatsi backs LEO operators as ICASA calls the shots](https://www.itweb.co.za/article/malatsi-backs-leo-operators-as-icasa-calls-the-shots/Gb3BwMWaPAEv2k6V)** — ITWeb South Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
-
-South Africa's communications minister told a space summit that low-earth-orbit satellite services are part of the country's digital future and that empowerment standards should apply uniformly across the sector, while conceding that licensing decisions are the regulator's alone. That leaves his December directive on equity-equivalency schemes unresolved against the regulator's May position that the law itself would need changing. The 30% ownership requirement stands. *Also under [Connectivity](#connectivity).*
-
-**[Le Liberia adopte les lois sur la cybercriminalité et la protection des données](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees)** — wearetech.africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
-
-Liberia's President signed the country's cybercrime and data protection laws into force on 19 August, ending a delay running since Senate concurrence was communicated to the House in January. No commencement order, implementing regulation or enforcement body is published with either, and no data-protection authority yet exists to administer the second. The ITU's 2024 cybersecurity index still places Liberia in its second-lowest maturity tier. *Also under [Data protection](#data-protection) and [Cybersecurity](#cybersecurity).*
-
-**[El Malick Ndiaye : « Nous devons faire de la cybersécurité une véritable culture administrative »](https://lesoleil.sn/actualites/technologie/el-malick-ndiaye-nous-devons-faire-de-la-cybersecurite-une-veritable-culture-administrative/)** — Le Soleil, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
-
-Senegal's National Assembly first vice-president argued during the critical-infrastructure debate that cybersecurity must become a standing administrative culture rather than a compliance exercise, calling for mandatory staff training, professional-only communication channels and minimum device-security standards. It describes where the state's own practice stands rather than what the new law requires. *Also under [Cybersecurity](#cybersecurity).*
-
-**[Communications par satellite : le Liberia renforce son cadre réglementaire](https://www.agenceecofin.com/actualites-numerique/2008-140947-communications-par-satellite-le-liberia-renforce-son-cadre-reglementaire)** — Agence Ecofin, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
-
-Liberia's telecommunications authority adopted new satellite communications guidelines on 19 August, which it describes as establishing a clear and predictable framework covering national access, consumer protection, quality of service, data protection and spectrum management. The regime sets landing-rights terms and licence fees for direct-to-device service providers. No licence has yet been issued under it. *Also under [Connectivity](#connectivity).*
+The Central Bank of Egypt has given CIB preliminary approval to establish yomo, a digitally native bank, under the digital banks framework Egypt introduced in 2023. yomo now enters technology validation, cybersecurity testing and operational-resilience readiness under newly appointed chief executive Rashwan Hammady, with launch still subject to final regulatory approval. *Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*
 
 ### Data protection
 
-**[Tillabéri/Réformes de l'état civil et de l'identification : Une mission de sensibilisation sillonne la région](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/)** — Le Sahel, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a>
+**[UNITEL Restores Core Mobile Services Nationwide After July Cyberattack](https://techafricanews.com/2026/08/21/unitel-restores-core-mobile-services-nationwide-after-july-cyberattack/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
 
-Niger's civil-status and identification sensitisation tour reached Tillaberi as its third region, with officials citing the 2026 civil-status ordinance and a forthcoming national population register that will assign every citizen a unique identifier. A first enrolment phase is to open at Niamey ahead of a 2027 rollout elsewhere. The campaign precedes anything a citizen can yet enrol in, and no target, budget or start date is published. *Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Registries](#registries).*
+UNITEL has declared its core mobile services fully restored across Angola after the 28 July cyberattack, with only its custom ringback-tone feature still offline. A forensic investigation with independent external experts continues and has so far found no evidence that customer or partner personal data was accessed or shared; affected users are receiving automatic invoice credits or extra service days. *Also under [Cybersecurity](#cybersecurity) and [Connectivity](#connectivity).*
 
-**[Sudan integrates SudaPass digital ID with banking sector for eKYC](https://www.biometricupdate.com/202608/sudan-integrates-sudapass-digital-id-with-banking-sector-for-ekyc)** — Biometric Update, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SDN/" title="SDN">Sudan</a>
-
-Sudan is integrating its SudaPass national digital identity with the banking sector for electronic know-your-customer checks, so banks can verify customers and update account records without a branch visit. The digital transformation ministry and the central bank are finalising it. No enrolment figure has ever been published for the credential, which makes account continuity conditional on coverage nobody has measured, in a country where displacement is mass. *Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Digital Payments and Fintech](#digital-payments-and-fintech).*
-
-**[FG, NGF to states: Implement Data Protection Act or risk trust, investment](https://thesun.ng/fg-ngf-to-states-implement-data-protection-act-or-risk-trust-investment/)** — The Sun (Nigeria), 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
-
-Nigeria's federal government and the Governors' Forum used a two-day workshop in Abuja to urge state governments to implement the Data Protection Act 2023, with the communications ministry naming the 2025 General Application and Implementation Directive as the operational framework across all tiers and asking states to write data-governance roadmaps. States handle civil registration, health, education and land records. The call is an admission that the sub-national tier is not yet compliant.
-
-**[Le Liberia adopte les lois sur la cybercriminalité et la protection des données](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees)** — wearetech.africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+**[Internet firm warns proposed metered billing could raise costs for Kenyans](https://peopledaily.digital/business/internet-firm-warns-proposed-metered-billing-could-raise-costs-for-kenyans)** — People Daily, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
-### Regional collaboration
+### Standards
 
-**[Malawi urges COMESA to target AI investments](https://itweb.africa/article/malawi-urges-comesa-to-target-ai-investments/Pero3MZ3JjeqQb6m)** — ITWeb Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
+**[AI adoption exposes governance gaps as organisations race to keep up](https://www.itweb.co.za/article/ai-adoption-exposes-governance-gaps-as-organisations-race-to-keep-up/GxwQD71DPgBvlPVo)** — ITWeb South Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-Malawi's ICT minister urged COMESA to prioritise AI investment in agriculture, healthcare, climate resilience, education, financial services and regional trade, naming connectivity, digital infrastructure, data quality, skills and cybersecurity policy as the precondition. It was a ministerial statement at a regional workshop in Lilongwe; no bloc decision, envelope or timetable follows it. Malawi's own position, with 80% of the population offline, is the argument for the precondition rather than for the priorities. *Also under [AI](#ai).*
-
-**[Kenya, UK strengthen cybersecurity ties](https://itweb.africa/article/kenya-uk-strengthen-cybersecurity-ties/VgZeyvJlBxKMdjX9)** — ITWeb Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Kenya and the UK are advancing cybersecurity-governance cooperation, with Kenya's ICT ministry planning a dedicated national cybersecurity agency built through technical partnership with the UK's National Cyber Security Centre, alongside AI tools for countering mis- and disinformation. Kenya already established a national cyber security agency in law as an autonomous state corporation, so what the partnership adds to it is not stated. No funding or deliverable accompanies it. *Also under [Cybersecurity](#cybersecurity).*
-
-**[Kenya and UK Review Cybersecurity Partnership to Strengthen Digital Resilience](https://techafricanews.com/2026/08/20/kenya-uk-cybersecurity-partnership-digital-resilience/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Kenyan officials led by the ICT and digital economy principal secretary met the deputy British high commissioner and development-office officials in Nairobi to review progress on the UK-Kenya cyber partnerships. The stated ground covered cyber resilience and the development of Kenya's cybersecurity policies. No envelope, deliverable or timetable is published for the partnership under review. *Also under [Cybersecurity](#cybersecurity).*
+A panel at TrendAI Spark 2026 in Sun City argued that South African organisations are deploying artificial intelligence faster than they can govern it. Eskom's Norbit Williams warned against governing so tightly that the technology cannot be used effectively, while Warwyck Private Bank's Roopesh Mohabeer said security teams need to know what information staff are sending to external platforms and to keep validating what comes back. *Also under [AI](#ai) and [Cybersecurity](#cybersecurity).*
 
 ### Public debate and participation in policymaking
 
-**[ZCSA gets new offices to boost Cyber incident response](https://www.lusakatimes.com/2026/08/20/zcsa-gets-new-offices-to-boost-cyber-incident-response/)** — Lusaka Times, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
-
-Zambia's Cyber Security Agency moved into its own premises, having until now shared government offices where its director general says space limited staff accommodation and key functions. The move is presented as an operational hub for incident response. No staffing figure, budget or incident count is published either side of it, so the constraint is dated rather than measured. *Also under [Cybersecurity](#cybersecurity).*
-
-**[NITDA Urges Nigerian Army to Leverage AI and Data for Modern Warfare](https://techafricanews.com/2026/08/20/nitda-urges-nigerian-army-to-leverage-ai-and-data-for-modern-warfare/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
-
-Nigeria's IT development agency urged the army to treat artificial intelligence and data as strategic assets for intelligence and operational decision-making, its director general also calling for sovereign digital infrastructure in the defence sector to cut reliance on foreign commercial platforms. It is advocacy rather than procurement: no system, budget or programme accompanies it. *Also under [AI](#ai).*
-
-**[NIRA Starts Issuing IDs to Foreign Nationals](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals)** — Nile Post, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
-
-Uganda's identity authority began issuing Alien ID cards to legally resident foreigners, having enrolled 1,875 since registration opened on 10 June. The US$100 card is required for SIM registration, banking and business access and confers no vote. About 2 million registered foreigners are in scope and roughly 1.95 million of them are refugees or asylum-seekers, and no waiver or instalment route is published for a resident who cannot pay. *Also under [Digital Identity and CRVS](#digital-identity-and-crvs).*
-
-**[Mozambique: Create national digital literacy programme for young people – NGO](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/)** — Club of Mozambique, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a>
-
-An NGO used the launch of a UNESCO-organised dialogue series in Maputo to call for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation. Mozambique has no such programme or strategy on the record. A civil-society demand is evidence that none exists rather than a step towards one. *Also under [Literacy](#literacy) and [Digital divides](#digital-divides).*
-
-**[Judiciary Steps Up Fight Against Digital Crime as Judges, Magistrates Undergo ICT Training](https://nilepost.co.ug/news/365182/judiciary-steps-up-fight-against-digital-crime-as-judges-magistrates-undergo-ict-training)** — Nile Post, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
-
-Uganda's judiciary and communications regulator opened a three-day course for judges and magistrates on cybercrime, digital evidence and deepfakes. The regulator puts more than 100 prosecuted communications-related offences behind it since 2018. No cohort size or repeat schedule is published, so whether this reaches the bench as a whole or a single sitting of it is not stated. *Also under [Cybersecurity](#cybersecurity) and [Training and skills](#training-and-skills).*
-
-**[Govt Targets September Rollout of Copyright Management System](https://nilepost.co.ug/news/365418/govt-targets-september-rollout-of-copyright-management-system)** — Nile Post, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
-
-Uganda's government is targeting a September rollout of a new Copyright Management System, with the justice minister saying testing and monitoring are under way and the registration services bureau supporting implementation alongside collective management organisations. No cost, supplier or rights-holder count is published, and nothing states what the system registers or how it pays out. *Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*
-
-**[AI algorithms and the new power of public opinion](https://www.thecitizen.co.tz/tanzania/oped/ai-algorithms-and-the-new-power-of-public-opinion-5564428)** — The Citizen, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
-
-A Tanzanian commentary argues that recommendation algorithms now decide, largely invisibly, which voices dominate public discussion, and that digital crowds are increasingly acting as judges in an environment with almost no regulation. It is opinion rather than measurement: no platform data, moderation figure or Tanzanian regulatory instrument is cited. *Also under [AI](#ai).*
-
-**[Sowore Faults EFCC Over Detention of BUK Student](https://newscentraltv.com/sowore-faults-efcc-over-detention-of-buk-student/)** — News Central TV, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Kenya Information and Communication Bill a solution looking for a problem](https://nation.africa/kenya/blogs-opinion/opinion/kenya-information-and-communication-bill-a-solution-looking-for-a-problem-5565386)** — Daily Nation, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 ## Finance
 
-### MoUs and other agreements
+### New investments
 
-**[AfriLabs s'allie à Eyconet pour connecter les entreprises d'Afrique du Nord aux investisseurs](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrilabs-s-allie-a-eyconet-pour-connecter-les-entreprises-d-afrique-du-nord-aux-investisseurs)** — wearetech.africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DZA/" title="DZA">Algeria</a>
+**[Kenya and KEXIM Advance Talks on Digital Media City Project at Konza Technopolis](https://techafricanews.com/2026/08/21/kenya-and-kexim-advance-talks-on-digital-media-city-project-at-konza-technopolis/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-The AfriLabs innovation-hub network partnered with Eyconet on a platform connecting North African companies to investors. No commitment value, deal target, fee structure or first cohort is published, so what the partnership moves is a channel rather than capital. *Also under [Innovation ecosystem](#innovation-ecosystem).*
+Kenya's ICT and digital economy principal secretary John Tanui received a Korea Eximbank delegation led by executive director Yongjin Jeong after the bank's due-diligence mission at Konza Technopolis, and the two sides agreed next steps on the proposed Digital Media City infrastructure project. They also discussed AI data centres and other technology projects; no commitment figure or financing instrument was given. *Also under [Data Storage](#data-storage) and [Innovation ecosystem](#innovation-ecosystem).*
+
+**[China's Guodong Plans $300 Million Digital Infrastructure Investment in Kenya](https://www.ecofinagency.com/news/2108-58239-china-s-guodong-plans-300-million-digital-infrastructure-investment-in-kenya)** — Ecofin Agency, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+
+Chinese group Guodong plans to invest about KSh 38.8 billion ($300 million) in Kenyan telecommunications towers, smart cities, data centres, fibre networks, cloud infrastructure and green digital technologies, investment promotion principal secretary Abubakar Hassan Abubakar said after a 17 August meeting with a company delegation. The government frames the plan as support for its Digital Superhighway programme and its commitment to lay about 100,000 km of fibre. *Also under [Connectivity](#connectivity) and [China activities](#china-activities).*
+
+**[Afrique du Sud : Yellow boucle une levée de fonds pour accélérer son expansion](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-yellow-boucle-une-levee-de-fonds-pour-accelerer-son-expansion)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Yellow, a Cape Town asset-financing company that sells solar kits and smartphones to low-income households on instalment terms, has closed a funding round to accelerate its expansion across the continent. It reports a million customers in seven countries and a target of ten million users by 2030; neither the investors nor the amount was named. *Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [Access to services](#access-to-services).*
 
 ## ICT Infrastructure
 
 ### Connectivity
 
-**[Who Will Control Africa's Satellite Internet Layer: Starlink, Amazon Leo or the Carriers?](https://techafricanews.com/2026/08/20/who-will-control-africas-satellite-internet-layer-starlink-amazon-leo-or-the-carriers/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a>
+**[Vodacom Tanzania's 10th AGM Highlights 27.7M Customers and 85% Network Investment Growth](https://www.telecomreviewafrica.com/articles/telecom-operators/29096-vodacom-tanzanias-10th-agm-highlights-27-7m-customers-and-85-network-investment-growth/)** — Africa Telecom Review, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
-Amazon Kuiper Kenya has applied for a fifteen-year international gateway operator licence covering a satellite earth station and network control centre, following an earlier network facilities application. The route is wholesale rather than retail: alongside a Herotel-run South African launch and a Vodafone backhaul tie-up, it positions the constellation to sell capacity to carriers rather than terminals to households. Starlink reached 26 African markets and an estimated 300,000 subscribers by mid-2026 on the retail model. *Also under [US / hyperscaler activities](#us-hyperscaler-activities).*
+Vodacom Tanzania told its tenth annual general meeting that it closed the year to 31 March 2026 with 27.7 million customers and capital expenditure up 85.1% to TZS 323.9 billion. It added 444 4G and 25 5G sites, lifting 4G population coverage to 76.3%, reported M-PESA customers up 22.6% and 466 rural sites built since 2013 under the government's rural connectivity programme, and had shareholders approve a TZS 53.5 billion dividend. *Also under [ICT Industry](#ict-industry).*
 
-**[South Africa to get a new national 5G broadband network](https://www.techcentral.co.za/south-africa-to-get-a-new-national-5g-broadband-network/285080/)** — TechCentral, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[Cell C gains 1.3M subscribers, reduces debt](https://www.connectingafrica.com/investment/cell-c-gains-1-3m-subscribers-reduces-debt)** — Connecting Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-Comsol began selling wholesale access to a national 5G-only home-broadband network, with internet providers and virtual operators setting their own pricing and owning the customer relationship, and the first retail provider due live in September. Its chief executive accepted the description that this is the wholesale open-access network the South African state spent more than a decade trying to licence and abandoned. It is privately financed, after a bank private-equity investor's exit in December, and publishes no coverage footprint, site count or wholesale price.
+Cell C added 1.3 million mobile subscribers and cut net debt 64% to R2.02 billion in its first full year as a JSE-listed company, on group revenue of R12.64 billion for the 12 months to 31 May 2026, up 14% year on year. Its wholesale platform now carries 5.7 million MVNO subscribers, which the company puts at an estimated 80-85% of South Africa's MVNO market; it stays the fourth-largest of five mobile operators. *Also under [ICT Industry](#ict-industry).*
 
-**[South Africa shows Africa how to make MVNOs work](https://www.itweb.co.za/article/south-africa-shows-africa-how-to-make-mvnos-work/KA3WwMdzpRevrydZ)** — ITWeb South Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
+**[UNITEL Restores Core Mobile Services Nationwide After July Cyberattack](https://techafricanews.com/2026/08/21/unitel-restores-core-mobile-services-nationwide-after-july-cyberattack/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
 
-An analyst report puts South Africa first on the continent for mobile virtual network operators, at about 4.4 million active SIMs at the end of 2025 and up roughly 43% year on year, forecasting 14.4 million by 2030 on the strength of bank-embedded operators. It projects that South Africa, Nigeria, Kenya and Uganda together will hold 85% of Africa's 39.6 million such subscribers by 2030. The figures are the analyst house's own, with no published definition of an active SIM. *Also under [ICT Industry](#ict-industry).*
+Summarised under [Data protection](#data-protection).
 
-**[Safaricom Ethiopia upgrades 67 sites](https://itweb.africa/article/safaricom-ethiopia-upgrades-67-sites/PmxVEMKEOolvQY85)** — ITWeb Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
-
-Safaricom Ethiopia upgraded more than 67 network sites across nine towns in its Southern Region to address congestion and power-supply problems, alongside new retail outlets it says create more than 150 jobs. The work is to existing sites rather than new coverage, and no before-and-after service measurement is published.
-
-**[Kenya targets Chinese telecoms investment](https://itweb.africa/article/kenya-targets-chinese-telecoms-investment/nWJad7bNDY57bjO1)** — ITWeb Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Kenya's broadcasting and telecommunications department held bilateral talks in Nairobi with a Zhe Jiang Africa Service Centre delegation on ICT investment, connectivity and innovation partnerships. It is the second Chinese courtesy call on the ICT ministry in eight days, after a network-communications group's visit on digital infrastructure. Neither has produced a memorandum, a value or a project. *Also under [China activities](#china-activities).*
-
-**[Fracture numérique : 40 % des Sénégalais toujours sans accès à la connectivité](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html)** — Seneweb, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
-
-Senegal's telecommunications minister told the National Assembly that 40% of the population still lacks access to connectivity, citing a 2024 sector diagnosis of coverage gaps and unmet operator obligations. The diagnosis itself is not published and no definition of access accompanies the figure, which is two years old at the point of its citation. *Also under [Digital divides](#digital-divides).*
-
-**[Ethio telecom Enters Active Deployment of Africa-Middle East Fibre Corridor](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
-
-Ethio telecom entered active deployment of the Horizon Fiber Initiative, the multi-terabit terrestrial corridor linking Djibouti, Ethiopia, Sudan and Saudi Arabia's Jeddah, with end-to-end architecture finalised and site-material procurement complete. A December 2024 memorandum became binding in February 2026. No route length, capacity, cost or in-service date is published, and one of the four territories the route crosses is at war.
-
-**[AI is making Africa's cheapest smartphones harder to afford](https://techcabal.com/2026/08/20/ai-is-making-africas-cheapest-smartphones-harder-to-afford/)** — TechCabal, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
-
-Market researcher Omdia reported African sub-$100 smartphone shipments down 34% year on year in the second quarter of 2026, nearly three million fewer devices, as AI-driven memory and semiconductor demand pushed the continental average selling price up $41 to $202. It forecasts a 26% shipment decline for the year, and puts Nigeria's market down 11% in the quarter as buyers delayed purchases. The stated cause is that vendors can no longer profitably build $75 handsets, in a region where an industry body puts 63% of people offline on cost rather than coverage. *Also under [Access to services](#access-to-services) and [Digital divides](#digital-divides).*
-
-**[SpaceX Urges South Africa's ICASA to Rethink Proposed Satellite Spectrum Fees](https://techafricanews.com/2026/08/20/spacex-urges-south-africas-icasa-to-rethink-proposed-satellite-spectrum-fees/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[Kenya Information and Communication Bill a solution looking for a problem](https://nation.africa/kenya/blogs-opinion/opinion/kenya-information-and-communication-bill-a-solution-looking-for-a-problem-5565386)** — Daily Nation, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
-**[Network telecommunication companies raise call, and data tariffs](https://www.onecitizendaily.com/index.php/2026/08/20/network-telecommunication-companies-raise-call-and-data-tariffs/)** — One Citizen Daily, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SSD/" title="SSD">South Sudan</a>
+**[Internet firm warns proposed metered billing could raise costs for Kenyans](https://peopledaily.digital/business/internet-firm-warns-proposed-metered-billing-could-raise-costs-for-kenyans)** — People Daily, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
-**[Malatsi backs LEO operators as ICASA calls the shots](https://www.itweb.co.za/article/malatsi-backs-leo-operators-as-icasa-calls-the-shots/Gb3BwMWaPAEv2k6V)** — ITWeb South Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[China's Guodong Plans $300 Million Digital Infrastructure Investment in Kenya](https://www.ecofinagency.com/news/2108-58239-china-s-guodong-plans-300-million-digital-infrastructure-investment-in-kenya)** — Ecofin Agency, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-**[Communications par satellite : le Liberia renforce son cadre réglementaire](https://www.agenceecofin.com/actualites-numerique/2008-140947-communications-par-satellite-le-liberia-renforce-son-cadre-reglementaire)** — Agence Ecofin, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
+Summarised under [New investments](#new-investments).
 
 ### Data Storage
 
-**[Transport Ministry Inaugurates Committee on Smart Transport Databank Project](https://von.gov.ng/transport-ministry-inaugurates-committee-on-smart-transport-databank-project/)** — Voice of Nigeria, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Ericsson and MTN Complete MoMo Cloud Migration Across Four African Markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
 
-Nigeria's transport ministry inaugurated an implementation committee for the Smart National Transport Databank, approved in principle at a national transport council in 2012 and now concessioned for twenty years under a design-build-finance-operate-transfer arrangement. The design is at least 250 solar-powered gantries carrying number-plate recognition and RFID, traffic management centres in all 36 states and the federal capital, a main data centre and real-time analytics. It is a vehicle-movement surveillance estate described in transport-planning terms. *Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*
+Ericsson and MTN Group Fintech have completed the migration of MTN's mobile money platform in Eswatini, Ghana, Rwanda and Uganda, moving it off a legacy virtualised environment onto a cloud-native Ericsson Fintech Platform. Ericsson reports cuts of up to 86% in CPU processing and database load and up to 80% in API response times; Cameroon is under way, with Benin, the Republic of the Congo and Zambia in discussion. *Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*
 
-**[L'hébergeur web NairaHost rachète son concurrent KingHost au Nigeria](https://www.wearetech.africa/fr/fils/breves/breves-simple/l-hebergeur-web-nairahost-rachete-son-concurrent-kinghost-au-nigeria)** — wearetech.africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Nigeria Inaugurates Technical Committee on Sovereign Cloud Initiative](https://von.gov.ng/nigeria-inaugurates-technical-committee-on-sovereign-cloud-initiative/)** — Voice of Nigeria, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Nigerian web host NairaHost acquired competitor KingHost, whose brand is to be retained, with the parent company saying it aims to build a broader hosting ecosystem and diversify its server and domain offerings. No transaction value, customer count or capacity figure is published. It is a consolidation in the domestic hosting layer, the part of the stack least visible in national infrastructure statistics. *Also under [ICT Industry](#ict-industry).*
+Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
 
-**[Sécurité numérique : l'Assemblée nationale adopte à l'unanimité le projet de loi sur les infrastructures critiques](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html)** — Seneweb, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+**[Kenya and KEXIM Advance Talks on Digital Media City Project at Konza Technopolis](https://techafricanews.com/2026/08/21/kenya-and-kexim-advance-talks-on-digital-media-city-project-at-konza-technopolis/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Summarised under [Legislation and regulation](#legislation-and-regulation).
+Summarised under [New investments](#new-investments).
 
 ### Cybersecurity
 
-**[Zimbabwe flags cyber risks in digital payments](https://itweb.africa/article/zimbabwe-flags-cyber-risks-in-digital-payments/6GxRKMYQ1mVMb3Wj)** — ITWeb Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a>
+**[Boaz Valkin, l'entrepreneur qui renforce la sécurité des systèmes de paiement](https://www.wearetech.africa/fr/fils/tech-stars/boaz-valkin-l-entrepreneur-qui-renforce-la-securite-des-systemes-de-paiement)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-The Reserve Bank of Zimbabwe used its mid-term monetary policy statement to flag cyber vulnerabilities in third-party providers, payment channels and digital banking, urging AI-assisted fraud detection and the elimination of ghost accounts. No incident count or loss figure accompanies the warning. Its one hard number is about capacity rather than security: only 36% of deployed point-of-sale terminals are active, against 586,605 internet-banking subscribers. *Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*
+Falkin, founded in South Africa in 2024, sells banks, financial institutions and web platforms real-time risk screening of links, messages, phone numbers and payment requests, and watches mobile activity in the background for anomalous behaviour and phishing attempts. Co-founder and chief executive Boaz Valkin also serves as a director and adviser at Moment, a fintech building a pan-African payment network. *Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [Innovation ecosystem](#innovation-ecosystem).*
 
-**[Cybersécurité : Ousmane Sonko annonce des auditions après les récentes attaques](https://www.seneweb.com/fr/news/Politique/cybersecurite-ousmane-sonko-annonce-des-auditions-apres-les-recentes-attaques_n_501983.html)** — Seneweb, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+**[UNITEL Restores Core Mobile Services Nationwide After July Cyberattack](https://techafricanews.com/2026/08/21/unitel-restores-core-mobile-services-nationwide-after-july-cyberattack/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
 
-Senegal's National Assembly president announced hearings into recent cyberattacks, naming the state technical services and the agencies hit, the file-automation directorate and the tax and domains directorate. It came a day after the critical-infrastructure and cybersecurity law's adoption. Neither the number of incidents nor their dates is stated.
+Summarised under [Data protection](#data-protection).
 
-**[Burkina/Cybercriminalité : Les bons réflexes pour renforcer sa sécurité numérique](https://lefaso.net/spip.php?article148724)** — leFaso.net, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a>
+**[AI adoption exposes governance gaps as organisations race to keep up](https://www.itweb.co.za/article/ai-adoption-exposes-governance-gaps-as-organisations-race-to-keep-up/GxwQD71DPgBvlPVo)** — ITWeb South Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-Burkina Faso's cybercrime unit reported 6,367 complaints and 1.872 billion FCFA of losses in 2025, against 3,028 complaints and 1.108 billion FCFA in 2022: complaints more than doubled and losses rose about 69%. The figures were cited at a communications-council digital-security workshop for journalists and web activists held in late July under the 2024 information-systems security law. Nothing states whether reporting propensity, unit capacity or the offence itself is what grew.
-
-**[ZCSA gets new offices to boost Cyber incident response](https://www.lusakatimes.com/2026/08/20/zcsa-gets-new-offices-to-boost-cyber-incident-response/)** — Lusaka Times, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
-
-**[Sécurité numérique : l'Assemblée nationale adopte à l'unanimité le projet de loi sur les infrastructures critiques](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html)** — Seneweb, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-**[Sierra Leone Validates National Roadmap to Tackle Mobile and Digital Fraud](https://techafricanews.com/2026/08/20/sierra-leone-validates-national-roadmap-to-tackle-mobile-and-digital-fraud/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
-
-Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
-
-**[Nigeria's SEC wants crypto firms to share transaction data](https://techcabal.com/2026/08/20/nigerias-sec-wants-crypto-firms-to-share-transaction-data/)** — TechCabal, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-**[Le Liberia adopte les lois sur la cybercriminalité et la protection des données](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees)** — wearetech.africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-**[Kenya, UK strengthen cybersecurity ties](https://itweb.africa/article/kenya-uk-strengthen-cybersecurity-ties/VgZeyvJlBxKMdjX9)** — ITWeb Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Summarised under [Regional collaboration](#regional-collaboration).
-
-**[Kenya and UK Review Cybersecurity Partnership to Strengthen Digital Resilience](https://techafricanews.com/2026/08/20/kenya-uk-cybersecurity-partnership-digital-resilience/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Summarised under [Regional collaboration](#regional-collaboration).
-
-**[Judiciary Steps Up Fight Against Digital Crime as Judges, Magistrates Undergo ICT Training](https://nilepost.co.ug/news/365182/judiciary-steps-up-fight-against-digital-crime-as-judges-magistrates-undergo-ict-training)** — Nile Post, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
-
-**[El Malick Ndiaye : « Nous devons faire de la cybersécurité une véritable culture administrative »](https://lesoleil.sn/actualites/technologie/el-malick-ndiaye-nous-devons-faire-de-la-cybersecurite-une-veritable-culture-administrative/)** — Le Soleil, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-**[DMI Assessment Highlights ICT, Cybersecurity and Data Gaps at Ghana's GMET](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
-
-Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
+Summarised under [Standards](#standards).
 
 ## DPI
 
 ### Digital Identity and CRVS
 
-**[Tanzania pushes CRVS-ID integration as birth registration becomes a DPI layer](https://www.biometricupdate.com/202608/tanzania-pushes-crvs-id-integration-as-birth-registration-becomes-a-dpi-layer)** — Biometric Update, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
+**[IN Groupe eyes Kenyan market](https://www.itweb.africa/article/in-groupe-eyes-kenyan-market/WnpNgq21Z9DMVrGd)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Tanzania is linking its civil registration agency with the national identification authority so that the Jamii Namba is issued from birth. The minister puts birth registration at 68% in 2025 against 55% in 2020, with more than 22 million people holding a national identification number as of April 2026. A week earlier the same minister was reported putting registration at 65%, which is the clearest indication that the figure is quoted rather than published as a series.
-
-**[Governadora apela à actualização dos dados eleitorais](https://angop.ao/noticias/politica/governadora-apela-a-actualizacao-dos-dados-eleitorais/)** — Angop (Angola Press Agency), 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
-
-Lunda-Norte's provincial government urged mining-sector workers to update their electoral registration, reporting over 40,000 residents updated in the province through the one-stop public service desks. The nationwide voter-roll update and proof-of-life exercise runs from 15 June 2026 to 31 March 2027. The electoral administration has published no national enrolment figure since it opened.
-
-**[Tillabéri/Réformes de l'état civil et de l'identification : Une mission de sensibilisation sillonne la région](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/)** — Le Sahel, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a>
-
-Summarised under [Data protection](#data-protection).
-
-**[Sudan integrates SudaPass digital ID with banking sector for eKYC](https://www.biometricupdate.com/202608/sudan-integrates-sudapass-digital-id-with-banking-sector-for-ekyc)** — Biometric Update, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SDN/" title="SDN">Sudan</a>
-
-Summarised under [Data protection](#data-protection).
-
-**[NIRA Starts Issuing IDs to Foreign Nationals](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals)** — Nile Post, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
 
 ### Digital Payments and Fintech
 
-**[More council centres go cashless in Cape Town](https://www.itweb.co.za/article/more-council-centres-go-cashless-in-cape-town/lLn14MmQzbnMJ6Aa)** — ITWeb South Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[RSwitch Takes Digital Finance Campaign to Kigali Communities](https://techafricanews.com/2026/08/21/rswitch-takes-digital-finance-campaign-to-kigali-communities/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-Cape Town is extending its cashless-counter pilot to customer interaction and vehicle licensing offices at Strand, Brackenfell and Kraaifontein from 1 September, building on three offices already running. No figure is published for how many residents at those counters paid in cash beforehand, and nothing is stated about an alternative route for the unbanked, which is the whole of the inclusion question a cashless counter raises. *Also under [Digitalisation of sub-national government](#digitalisation-of-sub-national-government).*
+RSwitch took its #TwagiyeKashiresi financial-inclusion campaign into the Nyabugogo and Gisozi Agakiriro neighbourhoods of Kigali for two days, demonstrating eKash and opening merchant and personal accounts on the spot. The National Bank of Rwanda, the ICT and innovation ministry, the Rwanda ICT Chamber, banks and mobile money operators took part. *Also under [Access to services](#access-to-services) and [Literacy](#literacy).*
 
-**[Zimbabwe flags cyber risks in digital payments](https://itweb.africa/article/zimbabwe-flags-cyber-risks-in-digital-payments/6GxRKMYQ1mVMb3Wj)** — ITWeb Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a>
+**[Nedbank tests next-gen self-service branches](https://www.itweb.co.za/article/nedbank-tests-next-gen-self-service-branches/GxwQDq1DPg6MlPVo)** — ITWeb South Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-Summarised under [Cybersecurity](#cybersecurity).
+Nedbank is piloting mall-based Client Connect Zones that pair self-service kiosks with consultant support, starting at Fleurhoff Mall in late August 2026 with wider deployment flagged for the mid to long term. The bank already runs 581 kiosks handling more than half a million transactions a month across over 60 services, dispensing almost 70% of its instant-issued debit cards, 56% of which go to entry-level clients. *Also under [Access to services](#access-to-services).*
 
-**[Sudan integrates SudaPass digital ID with banking sector for eKYC](https://www.biometricupdate.com/202608/sudan-integrates-sudapass-digital-id-with-banking-sector-for-ekyc)** — Biometric Update, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SDN/" title="SDN">Sudan</a>
+**[La fintech de SalyPay franchit 1,1 million de dollars de transactions via WhatsApp](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-fintech-de-salypay-franchit-1-1-million-de-dollars-de-transactions-via-whatsapp)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Summarised under [Data protection](#data-protection).
+Nigerian fintech Saly AI says its SalyPay platform has passed 20,000 users and NGN 1.5 billion in transactions, which the publisher converts at that day's rate to more than $1.1 million. The service runs transfers and bill payments inside WhatsApp and Telegram, and has added international transactions and dollar virtual cards. *Also under [Innovation ecosystem](#innovation-ecosystem).*
 
-**[Sierra Leone Validates National Roadmap to Tackle Mobile and Digital Fraud](https://techafricanews.com/2026/08/20/sierra-leone-validates-national-roadmap-to-tackle-mobile-and-digital-fraud/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+**[Airtel Money School Pay Expands Digital Fee Payments to 800+ Schools in Tanzania](https://techafricanews.com/2026/08/21/airtel-money-school-pay-expands-digital-fee-payments-to-800-schools-in-tanzania/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
-Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
+Airtel Money School Pay now carries digital school-fee payments for more than 800 schools across 16 Tanzanian regions, with Airtel Tanzania targeting 1,000 schools a year. The service shifts fee collection off cash onto mobile transfers, with real-time payment records and settlement direct to school bank accounts. *Also under [Access to services](#access-to-services).*
 
-**[Nigeria's SEC wants crypto firms to share transaction data](https://techcabal.com/2026/08/20/nigerias-sec-wants-crypto-firms-to-share-transaction-data/)** — TechCabal, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[2026肯尼亚人民币国际使用暨跨境金融合作推介会举行](http://world.people.com.cn/n1/2026/0821/c1002-40783976.html)** — 人民网 (People’s Daily Online), 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+
+Bank of China held a renminbi and cross-border finance event in Nairobi on 20 August with more than 180 participants, at which its Johannesburg branch named KCB, Equity Bank and Diamond Trust Bank as Kenyan renminbi business partners. The bank says it acts as renminbi clearing bank in South Africa, Zambia and Mauritius, holds renminbi correspondent accounts for commercial banks in more than 20 African countries, and provides indirect CIPS access to over 30 African banks. *Also under [China activities](#china-activities).*
+
+**[Nigeria’s Central Bank wants to monitor your stablecoin transactions. Can the plan actually work?](https://techcabal.com/2026/08/21/nigerias-central-bank-wants-to-monitor-stablecoins/)** — TechCabal, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
-**[80% of Malawians Remain Offline Despite Coverage, New GSMA Report Sets Out Six Priorities to Unlock Digital Potential](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
-
-Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
-
-### Registries
-
-**[Tillabéri/Réformes de l'état civil et de l'identification : Une mission de sensibilisation sillonne la région](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/)** — Le Sahel, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a>
-
-Summarised under [Data protection](#data-protection).
-
-### Sectoral management information systems
-
-**[Now, where does it hurt?](https://www.itweb.co.za/article/now-where-does-it-hurt/G98YdqLGNOkMX2PD)** — ITWeb South Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
-
-Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
-
-**[DMI Assessment Highlights ICT, Cybersecurity and Data Gaps at Ghana's GMET](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
-
-Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
-
-### Other GovTech and e-Gov
-
-**[Burkina/Dématérialisation de l'administration : Trois plateformes numériques pour faciliter l'accès aux services administratifs protocolaires et consulaires](https://lefaso.net/spip.php?article148712)** — leFaso.net, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a>
-
-Burkina Faso's foreign affairs ministry launched three digital platforms: a diaspora registration and consular-appointment portal, an E-Protocole system for diplomatic cards, and a consolidated site for the ministry and its 52 missions abroad. No user target, cost or supplier is published, and nothing states whether the consular services previously required attendance in person. *Also under [Access to services](#access-to-services).*
-
-**[Transport Ministry Inaugurates Committee on Smart Transport Databank Project](https://von.gov.ng/transport-ministry-inaugurates-committee-on-smart-transport-databank-project/)** — Voice of Nigeria, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Ericsson and MTN Complete MoMo Cloud Migration Across Four African Markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
 
 Summarised under [Data Storage](#data-storage).
 
-**[Govt Targets September Rollout of Copyright Management System](https://nilepost.co.ug/news/365418/govt-targets-september-rollout-of-copyright-management-system)** — Nile Post, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
+**[CIB Secures Preliminary Approval to Launch yomo Digital Bank in Egypt](https://techafricanews.com/2026/08/21/cib-secures-preliminary-approval-to-launch-yomo-digital-bank-in-egypt/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
 
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+**[Boaz Valkin, l'entrepreneur qui renforce la sécurité des systèmes de paiement](https://www.wearetech.africa/fr/fils/tech-stars/boaz-valkin-l-entrepreneur-qui-renforce-la-securite-des-systemes-de-paiement)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+**[Afrique du Sud : Yellow boucle une levée de fonds pour accélérer son expansion](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-yellow-boucle-une-levee-de-fonds-pour-accelerer-son-expansion)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [New investments](#new-investments).
+
+### Other GovTech and e-Gov
+
+**[Nigeria Inaugurates Technical Committee on Sovereign Cloud Initiative](https://von.gov.ng/nigeria-inaugurates-technical-committee-on-sovereign-cloud-initiative/)** — Voice of Nigeria, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
+
+**[IN Groupe eyes Kenyan market](https://www.itweb.africa/article/in-groupe-eyes-kenyan-market/WnpNgq21Z9DMVrGd)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+
+Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
 
 ## Digitalisation
 
 ### Digitalisation of sub-national government
 
-**[More council centres go cashless in Cape Town](https://www.itweb.co.za/article/more-council-centres-go-cashless-in-cape-town/lLn14MmQzbnMJ6Aa)** — ITWeb South Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[Kenya Breaks Ground for Kikuyu Digital Hub Under Nationwide 100-Hub Plan](https://techafricanews.com/2026/08/21/kenya-breaks-ground-for-kikuyu-digital-hub-under-100-hub-plan/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+Kenya has broken ground on the Kikuyu Centre of Excellence Digital Hub in Kiambu County, the first under a government plan for 100 such hubs across all 47 counties. The completed facility is to hold music and film production studios, Jitume digital skills centres, Kazi hubs, eCitizen service points, a server room and public Wi-Fi zones. *Also under [Access to services](#access-to-services) and [Training and skills](#training-and-skills).*
 
 ## Technology
 
 ### AI
 
-**[L'intelligence artificielle ouvre un nouveau champ pour la jeunesse](https://www.lanation.dj/lintelligence-artificielle-ouvre-un-nouveau-champ-pour-la-jeunesse/)** — La Nation, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DJI/" title="DJI">Djibouti</a>
+**[AI adoption exposes governance gaps as organisations race to keep up](https://www.itweb.co.za/article/ai-adoption-exposes-governance-gaps-as-organisations-race-to-keep-up/GxwQD71DPgBvlPVo)** — ITWeb South Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-Djibouti's digital economy ministry fixed its first national AI forum for 2 to 3 September at Djibouti-Ville, with an AI village at the Palais du Peuple, framed around young Djiboutian developers and researchers entering the field. The national AI strategy is stated as complete and due to launch there. Its content remains unpublished, so what the announcement adds is a date and an audience. *Also under [Training and skills](#training-and-skills) and [Innovation ecosystem](#innovation-ecosystem).*
-
-**[Google is giving Nigerian students a year of free AI access](https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/)** — TechCabal, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
-
-Google gave students at accredited Nigerian universities, polytechnics and colleges of education twelve months of its AI Plus plan free, a subscription it prices at 92,400 naira (US$68.56), with eligibility verified through a third-party enrolment-checking platform. It is the second consecutive year of the offer and one of 27 Sub-Saharan rollouts. No take-up figure is published for Nigeria, this year or last, so the programme's reach is unmeasured at both ends. *Also under [Training and skills](#training-and-skills).*
-
-**[Sécurité numérique : l'Assemblée nationale adopte à l'unanimité le projet de loi sur les infrastructures critiques](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html)** — Seneweb, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-**[NITDA Urges Nigerian Army to Leverage AI and Data for Modern Warfare](https://techafricanews.com/2026/08/20/nitda-urges-nigerian-army-to-leverage-ai-and-data-for-modern-warfare/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
-
-**[Malawi urges COMESA to target AI investments](https://itweb.africa/article/malawi-urges-comesa-to-target-ai-investments/Pero3MZ3JjeqQb6m)** — ITWeb Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
-
-Summarised under [Regional collaboration](#regional-collaboration).
-
-**[Ghana Opens 2026 National ICT Week, Puts AI and Digital Skills at the Centre](https://techafricanews.com/2026/08/20/ghana-opens-2026-national-ict-week-ai-digital-skills/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
-
-Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
-
-**[AI algorithms and the new power of public opinion](https://www.thecitizen.co.tz/tanzania/oped/ai-algorithms-and-the-new-power-of-public-opinion-5564428)** — The Citizen, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Summarised under [Standards](#standards).
 
 ### ICT Industry
 
-**[South Africa shows Africa how to make MVNOs work](https://www.itweb.co.za/article/south-africa-shows-africa-how-to-make-mvnos-work/KA3WwMdzpRevrydZ)** — ITWeb South Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
+**[Vodacom Tanzania's 10th AGM Highlights 27.7M Customers and 85% Network Investment Growth](https://www.telecomreviewafrica.com/articles/telecom-operators/29096-vodacom-tanzanias-10th-agm-highlights-27-7m-customers-and-85-network-investment-growth/)** — Africa Telecom Review, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
 Summarised under [Connectivity](#connectivity).
 
-**[L'hébergeur web NairaHost rachète son concurrent KingHost au Nigeria](https://www.wearetech.africa/fr/fils/breves/breves-simple/l-hebergeur-web-nairahost-rachete-son-concurrent-kinghost-au-nigeria)** — wearetech.africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[IN Groupe eyes Kenyan market](https://www.itweb.africa/article/in-groupe-eyes-kenyan-market/WnpNgq21Z9DMVrGd)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Summarised under [Data Storage](#data-storage).
+Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
+
+**[Cell C gains 1.3M subscribers, reduces debt](https://www.connectingafrica.com/investment/cell-c-gains-1-3m-subscribers-reduces-debt)** — Connecting Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [Connectivity](#connectivity).
 
 ### Innovation ecosystem
 
-**[L'intelligence artificielle ouvre un nouveau champ pour la jeunesse](https://www.lanation.dj/lintelligence-artificielle-ouvre-un-nouveau-champ-pour-la-jeunesse/)** — La Nation, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DJI/" title="DJI">Djibouti</a>
+**[Younes Ahmane mise sur le covoiturage intelligent pour soulager les usagers](https://www.wearetech.africa/fr/fils/tech-stars/younes-ahmane-mise-sur-le-covoiturage-intelligent-pour-soulager-les-usagers)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DZA/" title="DZA">Algeria</a>
 
-Summarised under [AI](#ai).
+Nroho, founded in 2024, matches Algerian drivers and passengers travelling the same route through a mobile application, its algorithms pairing users by destination and departure time. Co-founder and chief executive Younes Ahmane, a student at Algeria's national school of artificial intelligence, frames the platform as an answer to the cost of getting about rather than to congestion.
 
-**[AfriLabs s'allie à Eyconet pour connecter les entreprises d'Afrique du Nord aux investisseurs](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrilabs-s-allie-a-eyconet-pour-connecter-les-entreprises-d-afrique-du-nord-aux-investisseurs)** — wearetech.africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DZA/" title="DZA">Algeria</a>
+**[L'Egyptien Nour El-Assal numérise le recyclage d'huile pour créer des biocarburants](https://www.wearetech.africa/fr/fils/tech-stars/l-egyptien-nour-el-assal-numerise-le-recyclage-d-huile-pour-creer-des-biocarburants)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
 
-Summarised under [MoUs and other agreements](#mous-and-other-agreements).
+Tagaddod, founded in Cairo in 2013, collects used cooking oil and other fats as feedstock for biofuels, and has since 2017 built software and mobile applications for consumers and collectors that map flows, plan collection rounds and trace each step of the supply chain. Chief executive and co-founder Nour El-Assal was selected for the Africa's Business Heroes semi-final in Nairobi on 21 and 22 August.
+
+**[La fintech de SalyPay franchit 1,1 million de dollars de transactions via WhatsApp](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-fintech-de-salypay-franchit-1-1-million-de-dollars-de-transactions-via-whatsapp)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+**[Kenya and KEXIM Advance Talks on Digital Media City Project at Konza Technopolis](https://techafricanews.com/2026/08/21/kenya-and-kexim-advance-talks-on-digital-media-city-project-at-konza-technopolis/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+
+Summarised under [New investments](#new-investments).
+
+**[Boaz Valkin, l'entrepreneur qui renforce la sécurité des systèmes de paiement](https://www.wearetech.africa/fr/fils/tech-stars/boaz-valkin-l-entrepreneur-qui-renforce-la-securite-des-systemes-de-paiement)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [Cybersecurity](#cybersecurity).
 
 ## Capacity
 
 ### Literacy
 
-**[Mozambique: Create national digital literacy programme for young people – NGO](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/)** — Club of Mozambique, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a>
+**[RSwitch Takes Digital Finance Campaign to Kigali Communities](https://techafricanews.com/2026/08/21/rswitch-takes-digital-finance-campaign-to-kigali-communities/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 ### Training and skills
 
-**[Statistiques : l'ANSD plaide pour le recrutement des diplômés de l'ENSAE dans les ministères](https://lesoleil.sn/actualites/education/statistiques-lansd-plaide-pour-le-recrutement-des-diplomes-de-lensae-dans-les-ministeres/)** — Le Soleil, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+**[Kenya Breaks Ground for Kikuyu Digital Hub Under Nationwide 100-Hub Plan](https://techafricanews.com/2026/08/21/kenya-breaks-ground-for-kikuyu-digital-hub-under-100-hub-plan/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Senegal's statistics agency used its school's graduation to press ministries to recruit its output into their sectoral statistical services. The 2026 cohort was 60 graduates, 33 statistician-economists and 27 statistician-analysts drawn from ten African countries, taking cumulative output past 900 since 2011. No figure is published for how many of those 900 work in Senegalese public statistics, so the absorption problem is asserted rather than measured. *Also under [National statistics](#national-statistics).*
-
-**[L'intelligence artificielle ouvre un nouveau champ pour la jeunesse](https://www.lanation.dj/lintelligence-artificielle-ouvre-un-nouveau-champ-pour-la-jeunesse/)** — La Nation, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DJI/" title="DJI">Djibouti</a>
-
-Summarised under [AI](#ai).
-
-**[Judiciary Steps Up Fight Against Digital Crime as Judges, Magistrates Undergo ICT Training](https://nilepost.co.ug/news/365182/judiciary-steps-up-fight-against-digital-crime-as-judges-magistrates-undergo-ict-training)** — Nile Post, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
-
-**[Google is giving Nigerian students a year of free AI access](https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/)** — TechCabal, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
-
-Summarised under [AI](#ai).
-
-**[Ghana Opens 2026 National ICT Week, Puts AI and Digital Skills at the Centre](https://techafricanews.com/2026/08/20/ghana-opens-2026-national-ict-week-ai-digital-skills/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
-
-Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
+Summarised under [Digitalisation of sub-national government](#digitalisation-of-sub-national-government).
 
 ## Inclusion
 
 ### Access to services
 
-**[« Un étudiant, un ordinateur » : l'Assemblée ouvre une enquête sur près de 48 milliards de FCFA](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html)** — Seneweb, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+**[RSwitch Takes Digital Finance Campaign to Kigali Communities](https://techafricanews.com/2026/08/21/rswitch-takes-digital-finance-campaign-to-kigali-communities/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-Senegal's National Assembly voted 129-0 to open a commission of inquiry into the student-computer programme, covering about 48 billion FCFA committed since 2017. The allegations put to it are breaches of the public procurement code, a guarantee fund of some 2 billion FCFA held with a commercial bank, and 800 defective machines stored unused at the country's largest university. The programme has run nine years without publishing a delivery total or a unit cost.
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
-**[Network telecommunication companies raise call, and data tariffs](https://www.onecitizendaily.com/index.php/2026/08/20/network-telecommunication-companies-raise-call-and-data-tariffs/)** — One Citizen Daily, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SSD/" title="SSD">South Sudan</a>
+**[Nedbank tests next-gen self-service branches](https://www.itweb.co.za/article/nedbank-tests-next-gen-self-service-branches/GxwQDq1DPg6MlPVo)** — ITWeb South Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+**[Kenya Information and Communication Bill a solution looking for a problem](https://nation.africa/kenya/blogs-opinion/opinion/kenya-information-and-communication-bill-a-solution-looking-for-a-problem-5565386)** — Daily Nation, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
-**[Burkina/Dématérialisation de l'administration : Trois plateformes numériques pour faciliter l'accès aux services administratifs protocolaires et consulaires](https://lefaso.net/spip.php?article148712)** — leFaso.net, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a>
+**[Kenya Breaks Ground for Kikuyu Digital Hub Under Nationwide 100-Hub Plan](https://techafricanews.com/2026/08/21/kenya-breaks-ground-for-kikuyu-digital-hub-under-100-hub-plan/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+Summarised under [Digitalisation of sub-national government](#digitalisation-of-sub-national-government).
 
-**[AI is making Africa's cheapest smartphones harder to afford](https://techcabal.com/2026/08/20/ai-is-making-africas-cheapest-smartphones-harder-to-afford/)** — TechCabal, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[Internet firm warns proposed metered billing could raise costs for Kenyans](https://peopledaily.digital/business/internet-firm-warns-proposed-metered-billing-could-raise-costs-for-kenyans)** — People Daily, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Summarised under [Connectivity](#connectivity).
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+**[Airtel Money School Pay Expands Digital Fee Payments to 800+ Schools in Tanzania](https://techafricanews.com/2026/08/21/airtel-money-school-pay-expands-digital-fee-payments-to-800-schools-in-tanzania/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+**[Afrique du Sud : Yellow boucle une levée de fonds pour accélérer son expansion](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-yellow-boucle-une-levee-de-fonds-pour-accelerer-son-expansion)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [New investments](#new-investments).
 
 ### Digital divides
 
-**[Mozambique: Create national digital literacy programme for young people – NGO](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/)** — Club of Mozambique, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
-
-**[Fracture numérique : 40 % des Sénégalais toujours sans accès à la connectivité](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html)** — Seneweb, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
-
-Summarised under [Connectivity](#connectivity).
-
-**[AI is making Africa's cheapest smartphones harder to afford](https://techcabal.com/2026/08/20/ai-is-making-africas-cheapest-smartphones-harder-to-afford/)** — TechCabal, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
-
-Summarised under [Connectivity](#connectivity).
-
-**[80% of Malawians Remain Offline Despite Coverage, New GSMA Report Sets Out Six Priorities to Unlock Digital Potential](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
-
-Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
-
-## Data
-
-### National statistics
-
-**[Statistiques : l'ANSD plaide pour le recrutement des diplômés de l'ENSAE dans les ministères](https://lesoleil.sn/actualites/education/statistiques-lansd-plaide-pour-le-recrutement-des-diplomes-de-lensae-dans-les-ministeres/)** — Le Soleil, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
-
-Summarised under [Training and skills](#training-and-skills).
-
-**[El Comité Científico valida los documentos estratégicos del V Censo de Población y del I Agropecuario](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/)** — AHORAEG, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNQ/" title="GNQ">Eq. Guinea</a>
+**[Malawi targets smartphone tax relief](https://www.itweb.africa/article/malawi-targets-smartphone-tax-relief/mQwkoq6Y9DpM3r9A)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
 
 Summarised under [Strategies plans and policies](#strategies-plans-and-policies).
 
 ## Geopolitics
 
-### US / hyperscaler activities
-
-**[Who Will Control Africa's Satellite Internet Layer: Starlink, Amazon Leo or the Carriers?](https://techafricanews.com/2026/08/20/who-will-control-africas-satellite-internet-layer-starlink-amazon-leo-or-the-carriers/)** — Tech Africa News, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a>
-
-Summarised under [Connectivity](#connectivity).
-
 ### China activities
 
-**[Kenya targets Chinese telecoms investment](https://itweb.africa/article/kenya-targets-chinese-telecoms-investment/nWJad7bNDY57bjO1)** — ITWeb Africa, 20 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+**[China's Guodong Plans $300 Million Digital Infrastructure Investment in Kenya](https://www.ecofinagency.com/news/2108-58239-china-s-guodong-plans-300-million-digital-infrastructure-investment-in-kenya)** — Ecofin Agency, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
-Summarised under [Connectivity](#connectivity).
+Summarised under [New investments](#new-investments).
+
+**[2026肯尼亚人民币国际使用暨跨境金融合作推介会举行](http://world.people.com.cn/n1/2026/0821/c1002-40783976.html)** — 人民网 (People’s Daily Online), 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
