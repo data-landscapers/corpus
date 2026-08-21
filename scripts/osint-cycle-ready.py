@@ -163,6 +163,48 @@ def mirror_head() -> str:
         return "unknown"
 
 
+def base_moved(since_head: str) -> str:
+    """How far the base has moved since the commit Corpus last built, as a clause or "".
+
+    **This reports; it never fires** *(2026-08-21)*. A second trigger condition on base
+    movement was considered and rejected: OSINT commits to `raw/` all through its own working
+    day, so a movement trigger would fire mid-session repeatedly — the exact failure the
+    closed-row discriminator was chosen to avoid, and a size threshold only delays it. The
+    close row stays the only thing that starts a cycle.
+
+    What it fixes is that the quiet answer was *too* quiet. On 2026-08-21 this printed
+    `nothing new — newest close 00:14 (day 1) already built` while OSINT's housekeeping had
+    moved 205 files under it: 38 duplicate records retired, an OCR layer put on every
+    image-only PDF in `raw/`, `pdftotext` re-run under UTF-8. Every one of the 38 was cited
+    in Corpus's published layer and `report-render.py`'s check M was already failing on
+    three of them. The trigger was right that no cycle was *owed* and unhelpful about
+    whether one was *wanted*, and answering that took a hand-written diff against `git log`.
+
+    Non-fatal for the same reason as `mirror_head()`, and silent when the diff is empty, so
+    the ordinary quiet answer stays one line."""
+    if not since_head or since_head == "unknown":
+        return ""
+    try:
+        head = mirror_head()
+        if head in ("unknown", since_head):
+            return ""
+        rng = f"{since_head}..{head}"
+        allf = subprocess.run(["git", "-C", MIRROR, "diff", "--name-only", rng],
+                              capture_output=True, text=True, timeout=60)
+        base = subprocess.run(["git", "-C", MIRROR, "diff", "--name-only", rng, "--", "raw", "wiki"],
+                              capture_output=True, text=True, timeout=60)
+        if allf.returncode or base.returncode:
+            return ""
+        n = len([x for x in allf.stdout.splitlines() if x.strip()])
+        nb = len([x for x in base.stdout.splitlines() if x.strip()])
+        if not n:
+            return ""
+        return (f"; the base has moved since: {n} file(s), {nb} of them under raw/ or wiki/ "
+                f"(OSINT {since_head[:8]}..{head[:8]})")
+    except (OSError, subprocess.SubprocessError):
+        return ""
+
+
 def tree_dirty() -> bool:
     """Tracked changes only — see the module docstring on why untracked files do not count."""
     try:
@@ -210,7 +252,8 @@ def decide() -> tuple[int, str, dict]:
         # Worded off `done_by`, because "already built" over a close that was skipped is the
         # kind of small untruth a log accumulates until nobody trusts any line in it.
         was = "passed over" if state.get("done_by") == "skipped" else "already built"
-        return 1, f"nothing new — newest close {end:%Y-%m-%d %H:%M} (day {day}) {was}", {}
+        moved = base_moved(str(state.get("done_head") or ""))
+        return 1, f"nothing new — newest close {end:%Y-%m-%d %H:%M} (day {day}) {was}{moved}", {}
 
     flight = in_flight(table)
     if flight:

@@ -25,6 +25,7 @@ import importlib.util
 import io
 import json
 import shutil
+import subprocess
 import sys
 import tempfile
 from contextlib import redirect_stdout
@@ -254,6 +255,62 @@ def run() -> int:
             print(f"  {'ok  ' if ok else 'FAIL'} a hold defers the close rather than consuming it "
                   f"(held {held}, wrote watermark {wrote_state}, after {after})")
         finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
+        # The "nothing new" line reports base movement — a clause, never a firing condition.
+        # It is here because it is the half of this script nothing else would notice going
+        # quiet: the exit code is 1 either way, so a broken `base_moved` reads exactly like a
+        # base that has not moved. That is the state the clause exists to distinguish.
+        tmp = Path(tempfile.mkdtemp(prefix="cycle-trigger-test-"))
+        try:
+            (tmp / "logs").mkdir()
+            cr.MIRROR, cr.CYCLE_LOG = str(tmp), str(tmp / "logs" / "sweep-cycle_log.md")
+            cr.STATE = str(tmp / ".osint-cycle-seen")
+            cr.HOLD, cr.SENTINEL = str(tmp / ".hold-cycle"), str(tmp / ".build-in-progress")
+            Path(cr.CYCLE_LOG).write_text(table(CLOSED_EARLY), encoding="utf-8")
+
+            def git(*args):
+                return subprocess.run(["git", "-C", str(tmp), *args],
+                                      capture_output=True, text=True)
+
+            git("init", "-q")
+            git("config", "user.email", "t@t")
+            git("config", "user.name", "t")
+            (tmp / "raw").mkdir()
+            (tmp / "raw" / "a.md").write_text("one\n", encoding="utf-8")
+            git("add", "-A")
+            git("commit", "-qm", "first")
+            built_at = git("rev-parse", "HEAD").stdout.strip()
+            (tmp / "raw" / "b.md").write_text("two\n", encoding="utf-8")
+            git("add", "-A")
+            git("commit", "-qm", "housekeeping")
+
+            cr.mirror_head = lambda: git("rev-parse", "HEAD").stdout.strip()
+            Path(cr.STATE).write_text(json.dumps(
+                {"done": "2026-08-20 17:06", "done_head": built_at}), encoding="utf-8")
+            sys.argv = ["osint-cycle-ready.py"]
+            with redirect_stdout(io.StringIO()) as buf:
+                code = cr.main()
+            said = buf.getvalue()
+
+            # ...and it stays silent where the base has not moved at all, so the ordinary
+            # quiet answer is still one line.
+            Path(cr.STATE).write_text(json.dumps(
+                {"done": "2026-08-20 17:06", "done_head": cr.mirror_head()}), encoding="utf-8")
+            with redirect_stdout(io.StringIO()) as quiet_buf:
+                quiet_code = cr.main()
+            quiet = quiet_buf.getvalue()
+
+            ok = (code == 1 and "the base has moved since" in said and "raw/ or wiki/" in said
+                  and quiet_code == 1 and "the base has moved since" not in quiet)
+            failures += not ok
+            print(f"  {'ok  ' if ok else 'FAIL'} a moved base is reported and never fired on "
+                  f"(exit {code}, clause {'the base has moved since' in said}, "
+                  f"quiet {'the base has moved since' not in quiet})")
+            if not ok:
+                print(f"       {said.strip()}")
+        finally:
+            cr.mirror_head = lambda: "0123456789abcdef"
             shutil.rmtree(tmp, ignore_errors=True)
     finally:
         sys.argv = argv
