@@ -43,7 +43,7 @@ Then the renderers run over `outputs/` and write `site/`:
 scripts/     the compilers, renderers and templates — the authored code (was build/ pre-2026-08-13)
 site/        rendered artefacts, what is served — generated, overwritten by the next build
 prototypes/  disposable scaffolding, deleted once the real build fully replaces it
-documentation/design.md · C:\corpus-osint-xfer\notes-for-osint.md · CLAUDE.md · documentation/workflow.md
+documentation/design.md · C:\corpus-osint-xfer\notes-for-osint.md · CLAUDE.md
 ```
 
 The renderers read `outputs/` directly, so there is no second tree and no mapping between two shapes. That was the point of removing `upstream/`: any divergence between a source tree and a mirror of it is a mapping that has to be kept in step by hand, which is exactly the kind of thing that silently rots.
@@ -91,8 +91,8 @@ As of 2026-08-12 there are 9 open numbered notes (1–9) — worth reading in fu
 - **One line per paragraph, never hand-wrapped.** Applies to every file in this repo except frontmatter, code blocks, and tables. Reason: a hard-wrapped paragraph diffs badly — one changed word near the start reflows every following line, so the diff shows a rewritten paragraph instead of a changed word.
 - **Commit after every change, not at the end of a session.** One commit per coherent change, terse subject line. An uncommitted tree is the one state that isn't reversible.
 - **This repo lives on Dropbox.** Deletes need permission once per session — the sandbox blocks `unlink` on the Dropbox mount by default, which leaves a stale `.git/HEAD.lock` that then fails *every subsequent* commit with "cannot lock ref 'HEAD'". If commits start failing mid-session, check for stale `.lock` / `tmp_obj_*` files under `.git/` first.
+- **The backlog is `documentation/design.md` §6/§7 and the exchange share's `notes-for-osint.md`**, and nothing else. Bill keeps a personal kanban under `prep/`, which is untracked and is not project state — do not read it as a work queue, and do not write to it.
 - `documentation/design.md` is a living design record, revised in place rather than appended to — when a section of it gets built, the runnable part should move to a proper procedure file and the design doc keeps only the reasoning.
-- `documentation/workflow.md` is a lightweight Obsidian kanban board (Backlog / Next / Processing / Complete) — currently near-empty, not a source of truth for project state; treat `documentation/design.md` §6/§7 and `C:\corpus-osint-xfer\notes-for-osint.md` as the actual backlog.
 
 ## Recommended reading order for a first session
 
