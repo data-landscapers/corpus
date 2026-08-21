@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-21
 place: DZA
 ledger_rows: 107
 not_held: 7
-record: 8f438b11418c
+record: 909009ab6631
 ---
 
 # Algeria: progress report, 2025-08-01 to 2026-08-21
@@ -14,7 +14,7 @@ record: 8f438b11418c
 
 *Of 107 systems and instruments on this place's ledger, 73 changed position between 2025-08-01 and 2026-08-21, 16 did not, 11 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 185 sources for this place in the window — 54 in the earlier half (2025-08 to 2026-01), 131 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 182 sources for this place in the window — 53 in the earlier half (2025-08 to 2026-01), 129 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -107,7 +107,7 @@ Copper phase-out was in development before the window opened and remains so at i
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
-| AMLAK electronic land-title system | Did not exist | [Nationwide with end-to-end traceability; no coverage figure published](https://www.ecofinagency.com/news-digital/1301-51891-algeria-launches-nationwide-rollout-of-amlak-electronic-land-system) | Advanced |
+| AMLAK electronic land-title system | Did not exist | [Nationwide with end-to-end traceability; no coverage figure published](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-moves-to-electronic-land-titles-with-amlak-system) | Advanced |
 | CNAS electronic health card for the uninsured | Did not exist | [Issuing to the uninsured](https://www.echoroukonline.com/cnas-une-carte-electronique-pour-les-personnes-sans-couverture-sociale) | Advanced |
 | National export-data platform | Did not exist | [Live](https://www.wearetech.africa/en/fils-uk/news/tech/algiers-targets-export-growth-with-national-data-platform) | Advanced |
 | National import-tracking system | Did not exist | [Live](https://www.wearetech.africa/en/fils-uk/news/tech/algiers-tightens-trade-controls-with-new-import-tracking-system) | Advanced |
@@ -160,7 +160,7 @@ Copper phase-out was in development before the window opened and remains so at i
 | Alsat-3A and 3B high-resolution Earth-observation satellites | Did not exist | [Both satellites in orbit, operated with the Ministry of National Defence](https://www.echoroukonline.com/le-general-darmee-said-chanegriha-suit-loperation-de-lancement-du-deuxieme-satellite-alsat-3b) | Advanced |
 
 <!-- narrative: dpi -->
-Most of what this section contains did not exist on the record twelve months ago. The interoperability layer was [constituted by Presidential Decree 25-320 on 30 December 2025](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf), with no predecessor on file. Electronic land titles went to [nationwide rollout in January 2026](https://www.ecofinagency.com/news-digital/1301-51891-algeria-launches-nationwide-rollout-of-amlak-electronic-land-system), and the export-data platform, the import-tracking system, the lawyers' portal, the higher-education platforms, the agricultural and SME information systems and the market-supply monitor all followed between March and June 2026.
+Most of what this section contains did not exist on the record twelve months ago. The interoperability layer was [constituted by Presidential Decree 25-320 on 30 December 2025](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf), with no predecessor on file. Electronic land titles went to [nationwide rollout in January 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-moves-to-electronic-land-titles-with-amlak-system), and the export-data platform, the import-tracking system, the lawyers' portal, the higher-education platforms, the agricultural and SME information systems and the market-supply monitor all followed between March and June 2026.
 
 The apostille platform moved from planned at Hague accession on 25 August 2025 to implemented at launch on 9 July 2026. The Bank of Algeria [joined PAPSS](https://www.afreximbank.com/bank-of-algeria-joins-papss-network-accelerating-financial-integration-in-africa-as-algeria-prepares-to-host-iatf-2025) on 15 August 2025, two weeks into the window.
 

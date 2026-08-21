@@ -4,7 +4,7 @@ compiled: 2026-08-21
 place: BWA
 ledger_rows: 96
 not_held: 11
-record: 50f885464abf
+record: dc72b974d22e
 ---
 
 # Botswana: status report
@@ -320,7 +320,7 @@ Universal service delivers per site and publishes no programme total. Two school
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Orange Botswana and special economic zones memorandum | [Implemented](https://techafricanews.com/2026/03/17/orange-botswana-and-seza-collaboration-to-power-digital-economic-expansion/) | Signed at the operator's head office, reported 2026-03-17 |
+| Orange Botswana and special economic zones memorandum | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/orange-botswana-seza-sign-deal-to-upgrade-digital-infrastructure) | Signed at the operator's head office, reported 2026-03-17 |
 
 ### Domestic budget appropriations and expenditure
 

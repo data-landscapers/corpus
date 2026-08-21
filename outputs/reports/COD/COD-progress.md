@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-21
 place: COD
 ledger_rows: 114
 not_held: 13
-record: b698bd35e8b4
+record: fc428552166e
 ---
 
 # DR Congo: progress report, 2025-08-01 to 2026-08-21
@@ -14,7 +14,7 @@ record: b698bd35e8b4
 
 *Of 114 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-21, 15 did not, 26 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 176 sources for this place in the window — 32 in the earlier half (2025-08 to 2026-01), 144 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 174 sources for this place in the window — 32 in the earlier half (2025-08 to 2026-01), 142 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -167,7 +167,7 @@ Three government systems held still. The [digital government platform passed a f
 | National digital plan 2026-2030 | Did not exist | [A US$1.5bn envelope: US$1bn of treasury investment over five years plus US$500m of external partner support; no finalised published plan document is locatable](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/numerique-la-rdc-annonce-l-operationnalisation-d-un-financement-de-500-millions) | Advanced |
 | Reorganisation of the digital mandate in the 2026 finance law | One section titled posts, telecommunications and new technologies and another titled digital | [The first renamed posts and telecommunications and the second renamed digital economy, with credits moving from FC 145.7bn to FC 55.1bn and from FC 60.6bn to FC 226.7bn](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | Advanced |
 | Sectoral digital economy policy 2026-2030 | Did not exist | [Validated and referred to the Council of Ministers for adoption, on axes covering infrastructure, digital transformation of the administration, the digital economy, innovation and start-ups, cybersecurity, and data governance; not published, not costed and not budgetable](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/) | Advanced |
-| National strategy for mobile and broadband coverage | Baseline not held | [A National Connectivity Strategy 2026-2035 built on a shared-infrastructure model led by a tower company, with subsidy agreements signed with the four mobile operators to extend service to 40 underserved localities covering about 258,000 people, and a target of 3,000 localities and 16 million people by 2030](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html) | ***Baseline not held*** |
+| National strategy for mobile and broadband coverage | Baseline not held | [A National Connectivity Strategy 2026-2035 built on a shared-infrastructure model led by a tower company, with subsidy agreements signed with the four mobile operators to extend service to 40 underserved localities covering about 258,000 people, and a target of 3,000 localities and 16 million people by 2030; the fund's own strategy pages publish the operative selection framework - a 100-point priority index weighting strategic class 30, coverage deficit 20, population density 15, public infrastructure 15, local economic potential 10 and technical-financial feasibility 10, with localities above 60 points classed for immediate deployment - alongside rules confining subsidy to sites where an operator demonstrates a negative return over four years and imposing national roaming between all operators on sites scoring above 70](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html) | ***Baseline not held*** |
 
 ### Regional collaboration
 
@@ -273,7 +273,7 @@ External relationships were the section's real movement, all of them from nothin
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
-| Universal service fund pilot sites | The fund created by law in November 2020 and, per a named civil-society officer, still not available | [Subsidy conventions signed with four operators for a first tranche of 40 localities (about 258,000 people); a national diagnostic published 2026-08-07 finds nearly 3,000 uncovered localities (about 4.3m people) against national coverage of 77% 2G, 68% 3G and 57% 4G (September 2025); a second phase of 300 sites (about 1.8m people) is planned, with a 2030 target of 3,000 localities, 16m people and 100 digital community centres](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) | Advanced |
+| Universal service fund pilot sites | The fund created by law in November 2020 and, per a named civil-society officer, still not available | [Subsidy conventions signed with four operators for a first tranche of 40 localities (about 258,000 people); a national diagnostic published 2026-08-07 finds nearly 3,000 uncovered localities (about 4.3m people) against national coverage of 77% 2G, 68% 3G and 57% 4G (September 2025); a second phase of 300 sites (about 1.8m people) is planned, with a 2030 target of 3,000 localities, 16m people and 100 digital community centres; the fund numbers the first 40 as a preparatory phase 0 drawn from the four operators' own proposals, ten each, and the roughly 300 sites as phase 1, spread across five fund zones and carrying targeted community digital centres for literacy and access](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) | Advanced |
 | Population without mobile coverage | Baseline not held | [About 4.3 million people in nearly 3,000 localities without mobile coverage; national 2G coverage 77%, 3G 68% and 4G 57%, ranging from about 98% in Kinshasa to 14% in Tshuapa and 28% in each of Kwango and Sud-Ubangi (2026-08-07)](https://techafricanews.com/2026/08/14/dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas/) | ***Baseline not held*** |
 
 ### Access to services

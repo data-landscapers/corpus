@@ -1,6 +1,6 @@
 ---
 title: Cote d'Ivoire — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-21
 place: CIV
 region: XWA
 built_by: STATUS-INIT
@@ -9,7 +9,7 @@ intersections_read: 13
 sources_cited: 205
 sections_written: 37
 not_established: 0
-acquire_lines: 61
+acquire_lines: 60
 ---
 ## ICT Infrastructure
 
@@ -133,7 +133,7 @@ Revenue administration is the strongest function on the narrowest base. [Budgeta
 
 The national public service portal is [informational only, assessed at level 1 or 2 of the World Bank's online service maturity scale rather than as transactional, on the GovTech Maturity Index 2025 update](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-What a citizen can actually transact sits on separate platforms, and the fastest-moving of them is justice. [All 39 first-instance tribunals were connected to the e-Justice network on 30 June 2026](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien), seventeen months after [it opened as a two-court pilot at Dabou and Yopougon covering nationality certificates only](https://www.fratmat.info/article/2631299/societe/securisation-et-digitalisation-des-actes-de-justice-le-ministre-sansan-kambile-lance-une-plateforme); [it authenticates users against ONECI's VERIF application](https://trendsnafrica.com/ivory-coast-launches-the-digitalisation-of-its-judicial-services-with-e-justice/). [The dematerialised certificate of nationality is issued online through the identite.ci portal under ONECI's visible electronic seal](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-strengthens-e-services-with-digital-nationality-certificate). [The tax directorate's e-impots portal takes online declaration and payment](https://e-impots.gouv.ci), though [it had registered only about 74,000 users by March 2022, and the tax administration launched an electronic taxpayer census in 2025](https://apif.finances.gouv.ci/index.php?catid=5&id=214&Itemid=230&option=com_content&view=article).
+What a citizen can actually transact sits on separate platforms, and the fastest-moving of them is justice. [All 39 first-instance tribunals were connected to the e-Justice network on 30 June 2026](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien), seventeen months after [it opened as a two-court pilot at Dabou and Yopougon covering nationality certificates only](https://www.fratmat.info/article/2631299/societe/securisation-et-digitalisation-des-actes-de-justice-le-ministre-sansan-kambile-lance-une-plateforme); [it authenticates users against ONECI's VERIF application](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-digitizes-judicial-services-with-e-justice-platform). [The dematerialised certificate of nationality is issued online through the identite.ci portal under ONECI's visible electronic seal](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-strengthens-e-services-with-digital-nationality-certificate). [The tax directorate's e-impots portal takes online declaration and payment](https://e-impots.gouv.ci), though [it had registered only about 74,000 users by March 2022, and the tax administration launched an electronic taxpayer census in 2025](https://apif.finances.gouv.ci/index.php?catid=5&id=214&Itemid=230&option=com_content&view=article).
 
 [La Poste launched MaPoste in January 2026, a digital mailbox backed by the national identification number and the population register that also delivers the identity card to the door](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-launches-maposte-to-digitize-postal-and-administrative-services). [Drivers have been able to see their digital licence and their points balance on a phone since May 2026](https://startupmedias.africa/articles/permis-conduire-numerique-cote-divoire). [A transport-flow platform for operators on the main corridors opened in April 2026](https://www.fratmat.info/article/2641293/economie/fluidite-des-transports-une-nouvelle-plateforme-pour-accompagner-les-acteurs), and [Cybastion is building an enterprise resource planning system and a business-registration platform for the commerce ministry](https://techafricanews.com/2025/09/05/cote-divoire-partners-with-cybastion-to-drive-e-government-reforms-through-digital-solutions/).
 

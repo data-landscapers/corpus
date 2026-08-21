@@ -1,12 +1,12 @@
 ---
 title: Ethiopia — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-21
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 154
+sources_cited: 153
 sections_written: 37
 not_established: 1
 acquire_lines: 67
@@ -265,7 +265,7 @@ What that transition costs is partly answerable already, because Ethiopia has be
 ### China activities
 <!-- geopol.china -->
 
-The vendor relationships that built Ethio Telecom's network are being pushed up the stack into the layers where the data sits. The operator and Huawei are [discussing extending a network-equipment relationship into cloud, AI, cybersecurity, IoT, data-centre services and digital platforms for businesses](https://itweb.africa/article/ethio-telecom-huawei-expand-digital-push/8OKdWqDX2pzqbznQ), together with local software development, solution customisation and system integration (July 2026). The same discussions reach [telebirr, covering integration for payments and e-commerce and the financing of smartphone affordability](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) (July 2026) — which would carry one supplier from the radio network through to the payment instrument and the handset it runs on, inside a state-owned operator that is also the country's dominant mobile money provider.
+The vendor relationships that built Ethio Telecom's network are being pushed up the stack into the layers where the data sits. The operator and Huawei are [discussing extending a network-equipment relationship into cloud, AI, cybersecurity, IoT, data-centre services and digital platforms for businesses](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure), together with local software development, solution customisation and system integration (July 2026). The same discussions reach [telebirr, covering integration for payments and e-commerce and the financing of smartphone affordability](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) (July 2026) — which would carry one supplier from the radio network through to the payment instrument and the handset it runs on, inside a state-owned operator that is also the country's dominant mobile money provider.
 
 On the network itself the work is well ahead of schedule. Ethio Telecom [signed expansion agreements with Ericsson, ZTE, Huawei and Nokia at MWC 2026](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/) (March 2026) under its Next Horizon strategy, and [ZTE has since completed more sites than its agreement covers](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/), across RAN modernisation, microwave-link upgrades and IP RAN (August 2026). The two are also exploring device financing, to turn coverage into handsets, and are working together on renewable-energy supply under Ethio Telecom's Green Operator programme.
 

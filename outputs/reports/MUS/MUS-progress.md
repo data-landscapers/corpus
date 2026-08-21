@@ -5,14 +5,14 @@ period: 2025-08-01 to 2026-08-21
 place: MUS
 ledger_rows: 76
 not_held: 9
-record: f0bbcff9e187
+record: 011d11f0ea32
 ---
 
 # Mauritius: progress report, 2025-08-01 to 2026-08-21
 
 *Compiled 2026-08-21 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 76 systems and instruments on this place's ledger, 41 changed position between 2025-08-01 and 2026-08-21, 14 did not, 12 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 76 systems and instruments on this place's ledger, 42 changed position between 2025-08-01 and 2026-08-21, 14 did not, 11 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 73 sources for this place in the window — 13 in the earlier half (2025-09 to 2026-03), 60 in the later (2026-04 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -162,7 +162,7 @@ The only measured movement in this section belongs to a commercial bank: [cash f
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
-| AFRINIC board and receivership | ***Baseline not held*** | [The continental internet registry, seated in Mauritius, named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised; the appeal court then set aside its 28 September 2023 appeal for lack of corporate authority without ruling on the official receiver's permission or on statutory leave, leaving the authority chain from election through appointment to quorum unresolved and the receiver undischarged](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided) | ***Baseline not held*** |
+| AFRINIC board and receivership | Under an appeal-court order of 15 October 2024 directing the Official Receiver to complete the board election within two months, in substitution for the six months ordered in September 2023; no reconstituted board at the window's start | [The continental internet registry, seated in Mauritius, named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised; the appeal court then set aside its 28 September 2023 appeal for lack of corporate authority without ruling on the official receiver's permission or on statutory leave, leaving the authority chain from election through appointment to quorum unresolved and the receiver undischarged; the appeal court had directed that the reconstitution be completed within two months of its judgment of 15 October 2024, describing it as a matter of utmost urgency, so the September 2025 appointments came some nine months past that deadline](https://www.wilberforce.co.uk/wp-content/uploads/2024/11/african-network-informtion-centre-afrinic-ltd-v-cloud-innovation-ltd-anor-2024-scj-473.pdf) | Advanced, authority chain unresolved |
 
 ### Standards
 

@@ -1,12 +1,12 @@
 ---
 title: Algeria — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-21
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 189
+sources_cited: 188
 sections_written: 37
 not_established: 3
 acquire_lines: 59
@@ -94,7 +94,7 @@ The rule-making machinery was assembled late. [Règlement 26-01 of 31 May 2026 f
 ### Registries
 <!-- dpi.registry -->
 
-[Algeria began a nationwide rollout of the AMLAK electronic land system in January 2026, taking land titles fully electronic](https://www.ecofinagency.com/news-digital/1301-51891-algeria-launches-nationwide-rollout-of-amlak-electronic-land-system), and [a decree of 27 January 2026 formalised an electronic land booklet to replace paper titles progressively](https://algerie-eco.com/2026/01/27/algerie-publication-dun-decret-officialisant-la-mise-en-place-du-livret-foncier-electronique/) — over a base in which [around 60% of private land is not legally registered and holds no title at all](https://arablandinitiative.gltn.net/sites/default/files/2024-08/docs/algeria-land-sector-snapshot.pdf) (2024).
+[Algeria began a nationwide rollout of the AMLAK electronic land system in January 2026, taking land titles fully electronic](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-moves-to-electronic-land-titles-with-amlak-system), and [a decree of 27 January 2026 formalised an electronic land booklet to replace paper titles progressively](https://algerie-eco.com/2026/01/27/algerie-publication-dun-decret-officialisant-la-mise-en-place-du-livret-foncier-electronique/) — over a base in which [around 60% of private land is not legally registered and holds no title at all](https://arablandinitiative.gltn.net/sites/default/files/2024-08/docs/algeria-land-sector-snapshot.pdf) (2024).
 
 [AMLAK has held general survey, land conservation and state-property functions on a single national database since January 2026, and notaries have had direct online access to the cadastral and land databases since an interoperability agreement of August 2025 between the finance ministry, the national assets directorate and the justice ministry](https://lalgerieaujourdhui.dz/transactions-immobilieres-linteroperabilite-au-centre-dun-nouvel-accord/), though [cadastral delimitation is not complete nationwide](https://ecotimesdz.com/modernisation-gestion-foncier-algerie-numerique/) (2025).
 
@@ -160,7 +160,7 @@ The administration expected to deliver it is losing ground on the one long-run m
 ### Regional collaboration
 <!-- gov.regional -->
 
-Algeria has moved from signing continental agendas to convening them: African telecommunications and ICT ministers meeting under the African Telecommunications Union [adopted the Algiers Declaration on African Telecommunications Sovereignty and Integrated Connectivity](https://techreviewafrica.com/news/4639/african-ministers-adopt-algiers-declaration-on-telecommunications-sovereignty-and-connectivity), a continental agenda covering 2026 to 2030, and [Algeria hosted the ministerial meeting that produced it](https://techafricanews.com/2026/03/31/africa-adopts-algiers-declaration-to-strengthen-telecom-sovereignty-and-connectivity/) in March 2026.
+Algeria has moved from signing continental agendas to convening them: African telecommunications and ICT ministers meeting under the African Telecommunications Union [adopted the Algiers Declaration on African Telecommunications Sovereignty and Integrated Connectivity](https://techreviewafrica.com/news/4639/african-ministers-adopt-algiers-declaration-on-telecommunications-sovereignty-and-connectivity), a continental agenda covering 2026 to 2030, and [Algeria hosted the ministerial meeting that produced it](https://techreviewafrica.com/news/4639/african-ministers-adopt-algiers-declaration-on-telecommunications-sovereignty-and-connectivity) in March 2026.
 
 The bilateral track runs in two directions. [Algeria and Tunisia agreed to expand telecommunications and ICT cooperation at the fourth session of their Joint Technical Commission](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/) in June 2026, an established recurring mechanism; [Algeria and Niger agreed to strengthen cooperation on telecommunications and digital development](https://techreviewafrica.com/news/4637/algeria-and-niger-strengthen-cooperation-on-telecommunications-and-digital-development) in March 2026, a southward track alongside the continental role. Northwards, a [memorandum of understanding on telecommunications and postal cooperation was signed with Italy](https://techreviewafrica.com/news/2553/algeria-and-italy-hold-bilateral-cooperation-in-technology-during-presidential-visit) at the fifth Algeria–Italy High-Level Summit in July 2025.
 

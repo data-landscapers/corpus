@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-21
 place: NGA
 ledger_rows: 257
 not_held: 9
-record: afb236426f13
+record: 88b78fa36ef4
 ---
 
 # Nigeria: progress report, 2025-08-01 to 2026-08-21
@@ -14,7 +14,7 @@ record: afb236426f13
 
 *Of 257 systems and instruments on this place's ledger, 147 changed position between 2025-08-01 and 2026-08-21, 54 did not, 46 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 641 sources for this place in the window — 89 in the earlier half (2025-08 to 2026-01), 552 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 640 sources for this place in the window — 89 in the earlier half (2025-08 to 2026-01), 551 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 

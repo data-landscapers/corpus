@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-21
 place: SEN
 ledger_rows: 113
 not_held: 14
-record: 49b0f689816d
+record: 73e83d09bd54
 ---
 
 # Senegal: progress report, 2025-08-01 to 2026-08-21
@@ -14,7 +14,7 @@ record: 49b0f689816d
 
 *Of 113 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-21, 18 did not, 21 carry no stated baseline, and 14 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 174 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-01), 147 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 173 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-01), 146 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -102,7 +102,7 @@ The one position that regressed is the breach count, against an index score unch
 | Civil-status software deployment across centres | 235 of about 400 centres connected and operational, 383 installed (2025-08) | [74% of civil-status centres fully deployed, up from 70% reported five days earlier, with the citizen-facing request service live in 189 communes; the agency launched phase four of its remediation plan on 10 August 2026, extending to Kaffrine and Tambacounda](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/) | Advanced |
 | Civil-status archive digitisation | 20m acts digitised and indexed against a 30m universe, 10m remaining (2025-08) | [Still 20m of 30m; no later national figure is held](https://www.child-identity.org/wp-content/uploads/2025/07/PRESENTATIONETATSENEGAL-Aliou-Sall.pdf) | No change |
 | National identity card production | Issuing; the biometric card made the sole accepted proof of identity for voter registration (2025-02) | [Issuing again from 2026-04-01, with enrolment restarting progressively across centres and overseas missions](https://aps.sn/la-daf-annonce-la-reprise-de-la-confection-des-cartes-nationales-didentite-depuis-le-1er-avril/) | No change, restored after a two-month suspension |
-| Live civil-registration database load | ***Baseline not held*** | [15.3m civil-status records in the live national register](https://apanews.net/senegals-anec-digitizes-more-than-15-million-birth-records/) | ***Baseline not held*** |
+| Live civil-registration database load | ***Baseline not held*** | [15.3m civil-status records in the live national register](https://africabusinessinsight.com/senegal-digitizes-more-than-15-million/) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
@@ -151,7 +151,7 @@ The one position that regressed is the breach count, against an index score unch
 | Inclusive-data initiative second phase | Did not exist | [The second phase opened, widening from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Advanced |
 
 <!-- narrative: dpi -->
-Civil registration moved on deployment and stood still on stock. Centres went [from 235 of about 400 to 437 of 629](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI), regional spread running from 98% to 42%, and [15.3m records are now loaded in the live register](https://apanews.net/senegals-anec-digitizes-more-than-15-million-birth-records/) — a subset of archive stock, not a replacement for it. The [archive figure of 20m acts against 30m did not move](https://www.child-identity.org/wp-content/uploads/2025/07/PRESENTATIONETATSENEGAL-Aliou-Sall.pdf). The [programme closed in June 2026 reporting 26 modern centres, 400 centres interconnected, 1,200 computers, a validated bill and a national civil-status strategy costed at FCFA 68bn](https://aps.sn/le-programme-nekkal-a-permis-dimportantes-avancees-dans-la-modernisation-de-letat-civil-selon-un-responsable/); the bill it validated is still not adopted, and its decree unsigned.
+Civil registration moved on deployment and stood still on stock. Centres went [from 235 of about 400 to 437 of 629](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI), regional spread running from 98% to 42%, and [15.3m records are now loaded in the live register](https://africabusinessinsight.com/senegal-digitizes-more-than-15-million/) — a subset of archive stock, not a replacement for it. The [archive figure of 20m acts against 30m did not move](https://www.child-identity.org/wp-content/uploads/2025/07/PRESENTATIONETATSENEGAL-Aliou-Sall.pdf). The [programme closed in June 2026 reporting 26 modern centres, 400 centres interconnected, 1,200 computers, a validated bill and a national civil-status strategy costed at FCFA 68bn](https://aps.sn/le-programme-nekkal-a-permis-dimportantes-avancees-dans-la-modernisation-de-letat-civil-selon-un-responsable/); the bill it validated is still not adopted, and its decree unsigned.
 
 Card production went out and came back: [suspended by ransomware in February 2026, issuing again from 1 April](https://aps.sn/la-daf-annonce-la-reprise-de-la-confection-des-cartes-nationales-didentite-depuis-le-1er-avril/).
 

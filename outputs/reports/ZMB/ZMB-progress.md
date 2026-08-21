@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-21
 place: ZMB
 ledger_rows: 170
 not_held: 54
-record: b03e7fda4c85
+record: 9e47734a6f7d
 ---
 
 # Zambia: progress report, 2025-08-01 to 2026-08-21
@@ -14,7 +14,7 @@ record: b03e7fda4c85
 
 *Of 170 systems and instruments on this place's ledger, 56 changed position between 2025-08-01 and 2026-08-21, 31 did not, 29 carry no stated baseline, and 54 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 137 sources for this place in the window — 21 in the earlier half (2025-08 to 2026-01), 116 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 136 sources for this place in the window — 21 in the earlier half (2025-08 to 2026-01), 115 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 

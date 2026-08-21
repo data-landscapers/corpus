@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-21
 place: BWA
 ledger_rows: 105
 not_held: 11
-record: 624a937640b2
+record: d3a0818158c0
 ---
 
 # Botswana: progress report, 2025-08-01 to 2026-08-21
@@ -14,7 +14,7 @@ record: 624a937640b2
 
 *Of 105 systems and instruments on this place's ledger, 44 changed position between 2025-08-01 and 2026-08-21, 18 did not, 32 carry no stated baseline, and 11 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 168 sources for this place in the window — 39 in the earlier half (2025-08 to 2026-01), 129 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 165 sources for this place in the window — 38 in the earlier half (2025-08 to 2026-01), 127 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -324,7 +324,7 @@ Access instruments did not move. [Community Wi-Fi is still the single site it wa
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
-| Orange Botswana and special economic zones memorandum | Did not exist | [A framework for connected utilities, smart security, digital platforms and connectivity in special economic zones; no value stated](https://techafricanews.com/2026/03/17/orange-botswana-and-seza-collaboration-to-power-digital-economic-expansion/) | Advanced |
+| Orange Botswana and special economic zones memorandum | Did not exist | [A framework for connected utilities, smart security, digital platforms and connectivity in special economic zones; no value stated](https://www.wearetech.africa/en/fils-uk/news/tech/orange-botswana-seza-sign-deal-to-upgrade-digital-infrastructure) | Advanced |
 
 ### Domestic budget appropriations and expenditure
 
@@ -340,7 +340,7 @@ Access instruments did not move. [Community Wi-Fi is still the single site it wa
 <!-- narrative: finance -->
 The budget is where this window's clearest deltas sit, and four of five run down. Against FY2025/26 appropriations, FY2026/27 gives the [communications ministry ICT project P251,000,000 rather than P369,079,545](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) — a third consecutive cut from P736.6m in FY2024/25 — [research and development P213,700,000 rather than P477,403,718](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf), and [basic education computerisation P253,000,000 rather than P270,000,000](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) on a prior-year outturn of P0. The [largest recurrent line is flat at P587,310,850](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf). Only [higher education computerisation rose, from P3,950,000 fully spent to P16,000,000](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf).
 
-Private capital appeared where public capital withdrew. A [technology fund reached a GBP 5m first close against a GBP 50m target, with GBP 10m committed](https://botswanatech.com/blog/botswana-tech-fund-launches-with-%C2%A35m-phase-1); a [twelve-month programme for ten climate and digital startups launched](https://techcabal.com/2026/03/17/botswana-to-support-clean-energy-startups/), routed to a US$150m decarbonisation fund with no Botswana-specific allocation stated; and a [memorandum on connectivity in special economic zones](https://techafricanews.com/2026/03/17/orange-botswana-and-seza-collaboration-to-power-digital-economic-expansion/) was signed with no value.
+Private capital appeared where public capital withdrew. A [technology fund reached a GBP 5m first close against a GBP 50m target, with GBP 10m committed](https://botswanatech.com/blog/botswana-tech-fund-launches-with-%C2%A35m-phase-1); a [twelve-month programme for ten climate and digital startups launched](https://techcabal.com/2026/03/17/botswana-to-support-clean-energy-startups/), routed to a US$150m decarbonisation fund with no Botswana-specific allocation stated; and a [memorandum on connectivity in special economic zones](https://www.wearetech.africa/en/fils-uk/news/tech/orange-botswana-seza-sign-deal-to-upgrade-digital-infrastructure) was signed with no value.
 <!-- /narrative -->
 
 ## Where the record is thin

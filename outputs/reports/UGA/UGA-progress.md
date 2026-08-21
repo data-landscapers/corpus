@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-21
 place: UGA
 ledger_rows: 148
 not_held: 16
-record: 589344f1e6dd
+record: 2f50138073fd
 ---
 
 # Uganda: progress report, 2025-08-01 to 2026-08-21
@@ -14,7 +14,7 @@ record: 589344f1e6dd
 
 *Of 148 systems and instruments on this place's ledger, 77 changed position between 2025-08-01 and 2026-08-21, 25 did not, 30 carry no stated baseline, and 16 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 237 sources for this place in the window — 48 in the earlier half (2025-08 to 2026-01), 189 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 236 sources for this place in the window — 47 in the earlier half (2025-08 to 2026-01), 189 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -78,7 +78,7 @@ The instruments that did not move are as informative. Uganda's artificial-intell
 <!-- narrative: infrastructure -->
 The clearest twelve-month gain is international capacity Uganda did not build. The [Goma-to-Mombasa route lit in February 2026](https://www.connectingafrica.com/fiber-networking/paratus-lights-up-new-east-africa-fiber-route) and the [Nairobi–Kampala route launched in June with 1 Tbps activated](https://seacom.co.ke/news/seacom-deploys-a-new-high-capacity-nairobikampala-route-to-strengthen-east-africas-digital-backbone) are both commercial builds, as is the [1 Gbps fixed-broadband product launched in May](https://itweb.africa/article/savanna-fibre-uganda-unveils-1-gbps-fixed-broadband/xnklOqz1mAzM4Ymz). The state's own backbone has no delivery, utilisation or completion figure published since Parliament recorded utilisation [under 30% of capacity in December 2023](https://www.parliament.go.ug/documents/3743/hansards-2023-december).
 
-Satellite access travelled from prohibition to conditional licence inside the window: terminals were [disabled on regulatory direction in January 2026](https://techafricanews.com/2026/01/05/starlink-shuts-down-satellite-internet-services-in-uganda-following-regulatory-directive/) and a [five-year operating licence was signed in May](https://www.newvision.co.ug/category/business/starlink-enters-ugandas-telecom-sector-after-NV_233702_052026) requiring a national gateway, a local point of presence, a staffed office and registration of every device.
+Satellite access travelled from prohibition to conditional licence inside the window: terminals were [disabled on regulatory direction in January 2026](https://www.developingtelecoms.com/telecom-technology/satellite-communications-networks/19569-starlink-shuts-down-access-to-its-satellite-internet-service-in-uganda.html) and a [five-year operating licence was signed in May](https://www.newvision.co.ug/category/business/starlink-enters-ugandas-telecom-sector-after-NV_233702_052026) requiring a national gateway, a local point of presence, a staffed office and registration of every device.
 
 Data-centre capacity moved less than announcements suggest. A [sovereign cloud service opened in March 2026](https://www.independent.co.ug/abq-cloud-launches-ugandan-sovereign-cloud-ecosystem) inside an existing colocation building. A Masaka facility promised for late 2025 was [rebased to the first quarter of 2026](https://pctechmag.com/2025/10/centenary-group-set-to-launch-its-green-tier-3-data-centre-in-2026) and no launch is reported. The Karuma supercomputer, announced in 2025 for a 2026 rollout start, has nothing built. No national data-centre capacity figure exists at either end of the window.
 

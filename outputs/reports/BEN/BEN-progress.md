@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-21
 place: BEN
 ledger_rows: 91
 not_held: 5
-record: 1134f3182193
+record: 0b441d2e77f0
 ---
 
 # Benin: progress report, 2025-08-01 to 2026-08-21
@@ -14,7 +14,7 @@ record: 1134f3182193
 
 *Of 91 systems and instruments on this place's ledger, 55 changed position between 2025-08-01 and 2026-08-21, 13 did not, 18 carry no stated baseline, and 5 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 189 sources for this place in the window — 42 in the earlier half (2025-08 to 2026-01), 147 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 188 sources for this place in the window — 41 in the earlier half (2025-08 to 2026-01), 147 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 

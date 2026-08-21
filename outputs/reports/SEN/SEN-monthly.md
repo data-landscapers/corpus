@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-21
 place: SEN
 ledger_rows: 62
 not_held: 14
-record: b11f11b5a683
+record: 571ba8b59fbb
 ---
 
 # Senegal: monthly update, July 2026
@@ -17,7 +17,7 @@ record: b11f11b5a683
 <!-- narrative: summary -->
 The tax authority [withdrew the paper fiscal stamp on 20 July 2026](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique), making the digital service the sole recognised channel. Eight days later a free electronic stamp service [suspended its free tier, citing an administrative decision outside its control](https://lesoleil.sn/actualites/diotali-suspend-son-service-gratuit-de-timbre-fiscal-electronique-et-annonce-le-remboursement-de-ses-usagers/); users state they now pay additional fees for an identical service.
 
-Civil registration published its clearest figures yet: [437 of 629 centres fully deployed](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI) and [15.3m records loaded](https://apanews.net/senegals-anec-digitizes-more-than-15-million-birth-records/). The audit court then [opened a mission across 74 communes covering 2018 to 2025](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html).
+Civil registration published its clearest figures yet: [437 of 629 centres fully deployed](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI) and [15.3m records loaded](https://africabusinessinsight.com/senegal-digitizes-more-than-15-million/). The audit court then [opened a mission across 74 communes covering 2018 to 2025](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html).
 
 Three policy instruments surfaced, none of them readable: an [AI strategy adopted in 2023](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), a [national data strategy cited as adopted](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/), and a [national AI development plan instructed for deployment on 29 July](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026).
 <!-- /narrative -->
@@ -56,7 +56,7 @@ A government enterprise-architecture account of 3 August records [platforms stil
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Consolidated agency data at 17 July records [437 of 629 civil-status centres fully deployed, 112 of them running the citizen-facing service](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI); on 13 July the agency reported [15.3m records loaded](https://apanews.net/senegals-anec-digitizes-more-than-15-million-birth-records/).
+Consolidated agency data at 17 July records [437 of 629 civil-status centres fully deployed, 112 of them running the citizen-facing service](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI); on 13 July the agency reported [15.3m records loaded](https://africabusinessinsight.com/senegal-digitizes-more-than-15-million/).
 
 Deployment moved again in August, and the agency put a frame around it. At African Civil Registration Day in Kaolack on 10 August it [launched phase four of its remediation plan and put deployment at 74% of centres, up from 70% five days earlier, with the citizen request platform live in 189 communes](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), phase four extending to Kaffrine and Tambacounda; its director-general described civil registration as an instrument of sovereignty.
 <!-- /narrative -->
