@@ -1,20 +1,20 @@
 ---
-title: Uganda — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Uganda — progress report, 2025-08-01 to 2026-08-22
+compiled: 2026-08-22
+period: 2025-08-01 to 2026-08-22
 place: UGA
-ledger_rows: 148
+ledger_rows: 149
 not_held: 16
-record: 2f50138073fd
+record: 0334487351f9
 ---
 
-# Uganda: progress report, 2025-08-01 to 2026-08-21
+# Uganda: progress report, 2025-08-01 to 2026-08-22
 
-*Compiled 2026-08-21 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-22 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 148 systems and instruments on this place's ledger, 77 changed position between 2025-08-01 and 2026-08-21, 25 did not, 30 carry no stated baseline, and 16 are ***Not held*** at both ends.*
+*Of 149 systems and instruments on this place's ledger, 77 changed position between 2025-08-01 and 2026-08-22, 25 did not, 31 carry no stated baseline, and 16 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 236 sources for this place in the window — 47 in the earlier half (2025-08 to 2026-01), 189 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 239 sources for this place in the window — 47 in the earlier half (2025-08 to 2026-01), 192 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ The instruments that did not move are as informative. Uganda's artificial-intell
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Active mobile subscriptions | 45.7m active mobile subscriptions (2025-09-30) | [About 47m active SIMs (2026-07)](https://itweb.africa/article/uganda-outlines-next-ict-goals/KzQenqjyXWdMZd2r) | Advanced |
 | Northern Corridor regional satellite | Did not exist | [Feasibility study agreed by Kenya, South Sudan, Uganda and Rwanda](https://www.connectingafrica.com/connectivity/east-african-countries-to-launch-regional-satellite) | Advanced |
@@ -50,7 +50,7 @@ The instruments that did not move are as informative. Uganda's artificial-intell
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | ABQ Cloud sovereign cloud ecosystem | Did not exist | [Operating with Roke Cloud and AfriQloud, priced in local currency, hosted in Raxio's facility](https://www.independent.co.ug/abq-cloud-launches-ugandan-sovereign-cloud-ecosystem) | Advanced |
 | Centenary Group Green Tier 3 data centre, Masaka | Completion promised late 2025 (2025-08-11) | [Rebased to Q1 2026; no launch reported as at 2026-08-06](https://pctechmag.com/2025/10/centenary-group-set-to-launch-its-green-tier-3-data-centre-in-2026) | Stalled |
@@ -60,14 +60,14 @@ The instruments that did not move are as informative. Uganda's artificial-intell
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Karuma surplus power for compute | ***Baseline not held*** | [100MW of surplus pre-transmission power from the 600MW plant, with Nile-water cooling, claimed in the project design](https://www.ecofinagency.com/news-digital/1509-48701-synectics-schneider-to-build-ai-center-in-uganda-starting-2026) | ***Baseline not held*** |
 | MTN Uganda network sites on solar or hydro | ***Baseline not held*** | [45% of network sites on solar or hydro; a 490 kWh solar plant commissioned at headquarters](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Cyberattack volume | ***Baseline not held*** | [A 60% year-on-year rise, including a UGX 62bn central-bank incident](https://itweb.africa/article/uganda-launches-updated-cybersecurity-framework/LPwQ57lboKAqNgkj) | Regressed |
 | Legitimate pay-TV subscriptions | About 1.65m (2021) | [About 800,000 (2026-03)](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/) | Regressed |
@@ -89,14 +89,14 @@ On cybersecurity the record shows an instrument replaced and an instrument struc
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | UGHub | Used by more than 100 agencies and private entities including banks, insurers and fintechs (2024-06) | [Agency integration 37%, target 73% by FY2029/30; no operational or adoption reporting held since 2024-06](https://techafricanews.com/2026/06/22/nita-u-launches-five-year-digital-strategy-to-increase-e-government-use-in-uganda/) | No change |
 | UGPass | Authentication and e-signature platform; no user or transaction figures at any date | [Unchanged; nothing on file since the deck](https://id4africa.com/2024/ps4/PS4-S2-Uganda-NITA-NIRA-Final.pdf) | No change |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Enhanced national ID card | 2014-15 cards expiring end-2025; 100,000 enhanced cards printed (2025-07-16) | [Laser-engraved cards with QR and barcode, ghost image and digital signature in all districts; diaspora issuance opened in Dubai February 2026](https://www.newvision.co.ug/category/news/enhanced-national-ids-dispatched-to-districts-NV_221437_032026) | Advanced |
 | First-time enrolment against target | 5.3m renewals against a 33m combined target; no first-time figure published (2025-07-16) | [6.4m of 17.2m first-time, 37.3%; 14.3m of 15.8m renewals, 90.5%](https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system) | Advanced |
@@ -112,7 +112,7 @@ On cybersecurity the record shows an instrument replaced and an instrument struc
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Airtel Money and Britam insurance distribution | Did not exist | [Motor third-party insurance sold by USSD with a digital sticker issued online; framed by the insurance regulator as narrowing the protection gap](https://techafricanews.com/2026/07/22/airtel-money-uganda-and-britam-partner-to-expand-digital-insurance-and-financial-services/) | Advanced |
 | AKIBA tokenised-asset exchange | Did not exist | [A regulated tokenised-asset exchange to run under the central-bank and capital-markets sandboxes; no licence, launch date or volume published](https://techcabal.com/2026/04/08/global-settlement-holdings-to-acquire-majority-stake-in-akiba/) | Advanced |
@@ -129,11 +129,12 @@ On cybersecurity the record shows an instrument replaced and an instrument struc
 | RTGS replacement and ISO 20022 migration | Set to go live November 2025 (2025-10-06) | [Unchanged; no held source confirms or denies go-live](https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6) | No change, target date passed unverified |
 | Digital shilling CBDC pilot | ***Baseline not held*** | [A bond-backed pilot tied to a special economic zone, financed by tokenised loans; the central bank separately records a CBDC study as planned; no pilot design, date or participant on record](https://techcabal.com/2025/10/08/uganda-digital-infrastructure-karamoja/) | ***Baseline not held*** |
 | Direct yuan settlement through CIPS | Not held | [A commercial bank has opened direct yuan settlement for Ugandan businesses trading with China by integrating China's Cross-Border Interbank Payment System, cutting reliance on the dollar leg; Uganda imported US$3.3bn from China in 2025 against US$118m of exports](https://ntv.co.ug/news/uganda-china-tradenew-banking-system-opens-direct-yuan-payments) | ***Baseline not held*** |
+| Mobile money platform migration to a cloud-native vendor platform | Did not exist | [The dominant operator's mobile money platform moved off a legacy virtualised environment onto a cloud-native vendor fintech platform, the vendor reporting cuts of up to 86% in CPU processing and database load and up to 80% in API response times; the migration completed in Eswatini, Ghana, Rwanda and Uganda, with Cameroon under way and Benin, the Republic of the Congo and Zambia in discussion](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/) | ***Baseline not held*** |
 | PAPSS participation | ***Baseline not held*** | [One commercial bank live, announced by the operator with no go-live date distinct from the announcement, no corridor list, no volumes and no tariff; no held source puts the Bank of Uganda on the system as a settlement participant](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-africasglobalbank-itsallaboutu-activity-7490084196724621313-kD1a) | ***Baseline not held*** |
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Alien registration and Alien Identification Number | Did not exist | [First cards issued, with 1,875 foreigners enrolled in the ten weeks since registration opened, against about 2m registered foreigners in scope; the US$100 card is required for SIM registration, banking and business access but confers no vote](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals) | Advanced |
 | Birth registration drive | Registration system in 112 of 135 districts and 222 of 5,230 birth-handling facilities (2020); certificate holding 32% (2016) | [Community drives of ten or more parents; under-nine-months exempt from biometrics; certificates free under six months then UGX 10,000, 20,000 and 50,000 by age band](https://www.newvision.co.ug/category/news/nira-intensifies-birth-registration-drive-lau-NV_234727_062026) | Advanced |
@@ -143,13 +144,13 @@ On cybersecurity the record shows an instrument replaced and an instrument struc
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | National Laboratory Data Repository | Did not exist | [A one-stop platform linking laboratory information systems to the National Health Data Warehouse for real-time surveillance and planning](https://www.newvision.co.ug/category/health/ugandas-new-lab-data-repository-to-boost-heal-NV_227554_032026) | Advanced |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Copyright Management System | Did not exist | [In testing, with a September 2026 rollout targeted](https://nilepost.co.ug/news/365418/govt-targets-september-rollout-of-copyright-management-system) | Advanced |
 | Electronic Government Procurement system | 36 entities onboarded (date not published) | [136 entities onboarded and Version 2.0 in service, verifying suppliers automatically against URA, URSB, NIRA and NSSF records; onboarded entities no longer advertise tenders in newspapers and may transact only with registered providers](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026) | Advanced |
@@ -160,7 +161,7 @@ On cybersecurity the record shows an instrument replaced and an instrument struc
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | 9th Uganda National Household Survey | 8th round findings released May 2025; 9th round not in field | [16 language-matched field teams after fifteen days' training](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey) | Advanced |
 | Labour, Employment, Productivity and Reporting Programme | Did not exist | [An integrated administrative labour-data ecosystem under the Employment Act, against official figures of 12.3% unemployment, 42% labour underutilisation and 88% informality](https://www.newvision.co.ug/category/news/gender-ministry-unveils-initiative-to-address-NV_235563_062026) | Advanced |
@@ -180,7 +181,7 @@ Two public rails did not move at all. The real-time settlement replacement was s
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Computer Misuse Act ss.11, 23, 26-29 | In force and the state's main tools for prosecuting online speech (2025-08) | [Struck down, together with Penal Code ss.162-163 on criminal libel](https://www.newvision.co.ug/category/news/constitutional-court-nullifies-key-computer-m-NV_230010_042026) | Regressed |
 | Protection of Sovereignty Bill, 2026 | Not on file (2025-08) | [Before joint parliamentary committees in April 2026; described as recently enacted on 2026-08-02, with no assent date, gazette notice or text held](https://www.newvision.co.ug/category/news/bou-governor-atingi-ego-say-sovereignty-bill-NV_232814_052026) | Advanced |
@@ -190,28 +191,28 @@ Two public rails did not move at all. The real-time settlement replacement was s
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | NITA-U Strategic Plan FY2025/26 to FY2029/30 | Did not exist (2025-08) | [Six objectives with targets: e-government use 9.2% to 40%, UGHub coverage of agencies 37% to 73%, national data-centre utilisation 70% to 83%, IT-law compliance 67% to 81% by FY2029/30](https://techafricanews.com/2026/06/22/nita-u-launches-five-year-digital-strategy-to-increase-e-government-use-in-uganda/) | Advanced |
 | UCC telecom taxation reform proposals | Did not exist (2025-08) | [Excise duty on data and airtime 12% to 5%, VAT on mobile data 18% to 14%, duty relief on entry-level 4G and 5G handsets; the ICT ministry states a device-tax-cut paper is ready for cabinet before the end of the quarter, and no measure is adopted](https://www.newvision.co.ug/category/business/ict-ministry-communication-stakeholders-call-NV_238288_082026) | Advanced |
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Uganda's seat on the ATU Administrative Council | No Council seat on file (2025-08) | [One of 25 member states in the Eastern Africa group; Uganda's floor intervention was on implementation reporting under the Union's risk-management framework](https://www.ucc.co.ug/uganda-wins-seat-on-the-african-telecommunications-union-administrative-council/) | Advanced |
 | Harmonised EAC framework for AI and digital-finance regulation | ***Baseline not held*** | [A chair's position only, with no instrument, drafting mandate or date; a regional AI policy roadmap was floated in March 2026](https://observer.ug/business/east-african-central-bankers-push-single-currency-launch-to-2031/) | ***Baseline not held*** |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Government Enterprise Architecture and e-GIF | The 2021 architecture and framework at their five-year mark, renewal not begun (2025-08) | [Renewed documents delivered with the e-Governance Academy and World Bank support; rollout not reported](https://ega.ee/uganda-renewed-digital-government-frameworks/) | Advanced |
 | National Monitoring and Evaluation System reporting quality | ***Baseline not held*** | [Gaps and inconsistencies across agency submissions; the remedy is a working-group meeting and a request for consolidated annual performance reports; no error rate, vote count or remediation date](https://www.publicservice.go.ug/public-sector-transformation-programme-pstp-secretariat-intensifies-efforts-to-improve-the-quality-and-consistency-of-performance-reporting-across-ministries-departments-and-agencies/) | ***Baseline not held*** |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Beera Ku Guard awareness campaign | Did not exist (2025-08) | [Campaign run; no outcome published against either target as at 2026-08-06](https://www.newvision.co.ug/category/news/kampala-data-collection-company-prosecuted-ov-NV_224311_032026) | Advanced |
 | Data Protection and Privacy Act, Cap 97 | One extraterritorial ruling issued, compliance untested (2025-07-18) | [Five corrective orders implemented by a foreign controller, the appeal window expired unused, no fine](https://businesstimesug.com/whatsapp-updates-privacy-policies-after-uganda-data-protection-enforcement/) | Advanced |
@@ -223,7 +224,7 @@ Two public rails did not move at all. The real-time settlement replacement was s
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Fourth-cycle Universal Periodic Review | Third-cycle review concluded January 2022 with 273 recommendations, 139 supported and 134 noted; no fourth-cycle submission on file (2025-08) | [Joint submission by CIPESA, APC and WOUGNET filed, seeking repeal of the Computer Misuse Act speech offences, a statutory bar on network disruption, removal of the 12% excise duty on internet data, and statutory independence and fining powers for the Personal Data Protection Office; the review had not been held as at 2026-08-07](https://cipesa.org/wp-content/files/Uganda_UPR_Review.pdf) | Advanced |
 | Judiciary media guidelines issued through ECCMIS | Did not exist (2025-08) | [Prior accreditation required, devices barred from the courtroom, live broadcasting granted case by case; the Law Society asked for the restrictions to be lifted](https://mulengeranews.com/uls-slams-court-restrictions-after-besigye-collapsed-during-treason-trial/) | Advanced |
@@ -231,14 +232,14 @@ Two public rails did not move at all. The real-time settlement replacement was s
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | EU Delegation funding for a sovereign DPI loan package | Did not exist (2025-08) | [Work with the Ministry of ICT and National Guidance; no amount, instrument or date stated](https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-giz/2026/08/51947.html) | Advanced |
 | EU-EAC DPI Acceleration Mechanism technical assistance | The DEEP programme running since June 2025, no technical-assistance contract let (2025-08) | [Estimated EUR 938,170 over 30 months from 2026-09-15, performed from the EAC office in Arusha; designs tested against the Universal DPI Safeguards Framework and local data-protection and localisation law](https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-giz/2026/08/51947.html) | Advanced |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Procurement portal conformance with the infrastructure data standard | ***Baseline not held*** | [26 of 148 data elements published, 17.6%, and 4.2% of required project-level disclosure paths (2025-11)](https://www.newvision.co.ug/category/business/why-govt-is-moving-to-upgrade-procurement-por-NV_222664_022026) | ***Baseline not held*** |
 
@@ -258,7 +259,7 @@ Against those, the pre-election shutdown directives ordered [tabled to Parliamen
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Ministry of ICT AI Secretariat | Did not exist | [In place, laying groundwork for agriculture, health diagnostics, education and public administration](https://www.newvision.co.ug/category/science/govt-crafts-national-strategy-to-harness-ai-o-NV_229746_062026) | Advanced |
 | National AI Research Cloud | Did not exist | [Local compute and storage for training models; no capacity, cost or user figure published](https://www.newvision.co.ug/category/science/minister-musenero-launches-national-ai-resear-NV_229938_032026) | Advanced |
@@ -272,13 +273,13 @@ Against those, the pre-election shutdown directives ordered [tabled to Parliamen
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | YAS acquisition of Wananchi Group | Wananchi Group independent | [99.63% held by YAS for about US$63m](https://www.independent.co.ug/yas-completes-63m-acquisition-of-parent-company-of-zuku-and-simbanet) | Advanced |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Fintech Fridays Uganda Edition | Did not exist | [A recurring convening platform; no funding, cohort or target attached](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026) | Advanced |
 | Mbale ICT Hub | Did not exist | [A UGX 3bn hub for young women's ICT and entrepreneurship careers; no opening date held](https://www.newvision.co.ug/category/education/mbale-ict-hub-to-boost-employable-skills-acqu-NV_228434_062026) | Advanced |
@@ -292,20 +293,20 @@ Against those, the pre-election shutdown directives ordered [tabled to Parliamen
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
-| United States health-data access agreement | Did not exist | [The signed memorandum caps the data-sharing arrangement at seven years from execution, places it under joint steering-committee governance with the Government of Uganda as data owner, requires prior written authorisation through a Data Sharing Agreement approved by both, binds all data activities to the Data Protection and Privacy Act Cap 97 and the National Data Governance Framework, and has Uganda approve the national health information architecture before any United States-financed investment; planned United States support is US$1,719,960,000 against Uganda's US$577,001,796, including US$113,102,289 for data systems. The MOU only provides for a future Data Sharing Agreement (§2.5.2); ProPublica reported 2026-07-23 that it reviewed that agreement directly and that it grants direct, real-time login access to nine of Uganda's health data systems for seven years, a term matching the MOU's own cap. The agreement's text is unpublished and not held, and no Ugandan or US primary has confirmed or denied ProPublica's account (reconciled 2026-08-10)](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf) | Advanced |
+| United States health-data access agreement | Did not exist | [The signed memorandum caps the data-sharing arrangement at seven years from execution, places it under joint steering-committee governance with the Government of Uganda as data owner, requires prior written authorisation through a Data Sharing Agreement approved by both, binds all data activities to the Data Protection and Privacy Act Cap 97 and the National Data Governance Framework, and has Uganda approve the national health information architecture before any United States-financed investment; planned United States support is US$1,719,960,000 against Uganda's US$577,001,796, including US$113,102,289 for data systems. The MOU only provides for a future Data Sharing Agreement (§2.5.2); ProPublica reported 2026-07-23 that it reviewed that agreement directly and that it grants direct, real-time login access to nine of Uganda's health data systems for seven years, a term matching the MOU's own cap. The agreement's text is unpublished and not held, and no Ugandan or US primary has confirmed or denied ProPublica's account (reconciled 2026-08-10) Eight United States senators wrote to the Secretary of State in the week to 2026-08-19 challenging the arrangement, noting that the Uganda agreement provides up to US$1.7bn in aid for HIV, tuberculosis and malaria among other diseases against direct access to the government's own health data systems, and requesting a briefing and a written answer by the end of August 2026.](https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid) | Advanced |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Centenary Group and Huawei banking partnership | Did not exist | [AI-powered banking, cloud, cybersecurity, data management, data-centre development, staff training and joint research](https://www.newvision.co.ug/category/business/huawei-partnership-pushes-centenary-into-digi-NV_234176_062026) | Advanced |
 | ICT ministry AI-skills memorandum with China exchange | Did not exist | [In place for AI labs, youth skills and a China exchange on smart agriculture; no lab, cohort or disbursement recorded](https://www.newvision.co.ug/category/business/ministry-of-ict-signs-partnership-to-boost-yo-NV_231014_062026) | Advanced |
 
 ### Gulf/UAE activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Tahaluf national ID system contract | ***Baseline not held*** | [A UAE-based supplier is service provider for the new national ID system, with five modules in service](https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system) | ***Baseline not held*** |
 
@@ -321,7 +322,7 @@ The largest change in the country's external technology relationships was not co
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Digital for Girls and Women Uganda | Active; EUR 2.25m, 2021-2025 | [The record still reads active; the stated period has elapsed with no closure, extension or results record held](https://open.enabel.be/en/UGA/2662/p/digital-for-girls-and-women-uga.html) | No change |
@@ -329,7 +330,7 @@ The largest change in the country's external technology relationships was not co
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Gulu Service Uganda Centre | Did not exist | [Under construction with more than 40 workstations; stated completion June 2026, nothing on record as delivered at 2026-08-06](https://www.newvision.co.ug/category/business/construction-of-sh4b-service-uganda-centre-be-NV_229820_062026) | Advanced, slipped |
 | Kasese ICT hub for persons with disabilities | Did not exist | [Operating; computer-literacy training, vocational skills and digital-empowerment programmes, open to the wider community](https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills) | Advanced |
@@ -340,13 +341,13 @@ The largest change in the country's external technology relationships was not co
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Beera Ku Digital skilling programme | 3,000 riders onboarded, Q3 2025 | [Unchanged; no output figure published since Q3 2025](https://www.ucc.co.ug/wp-content/uploads/2025/11/UCC-Market-Report-for-Q3-2025-Sep-2025.pdf) | No change |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Judicial training on digital crime and evidence | Did not exist | [A three-day course for judges and magistrates on cybercrime, digital evidence and deepfakes, run with the communications regulator](https://nilepost.co.ug/news/365182/judiciary-steps-up-fight-against-digital-crime-as-judges-magistrates-undergo-ict-training) | Advanced |
 | Young Africa Works in Uganda | US$200m commitment; a target of 4.3m young Ugandans in dignified work by 2030 | [Unchanged; no progress, disbursement or beneficiary figure published in the window](https://mastercardfdn.org/en/news/mastercard-foundation-launches-10-year-plan-to-enable-3-million-young-people-in-uganda-to-access-dignified-work/) | No change |
@@ -354,7 +355,7 @@ The largest change in the country's external technology relationships was not co
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | KOICA distance-education project, Makerere University | Commitment recorded; US$12.2m, 2025-2030 | [Unchanged; no progress or delivery figure published](https://softpower.ug/muyingo-launches-12-2m-koica-project-to-revolutionise-digital-learning-at-makerere/) | No change |
 
@@ -366,13 +367,13 @@ One-stop service delivery advanced on the government's own July 2026 account fro
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Uganda Digital Acceleration Project | Active; free public Wi-Fi launched under it at the DRC border (2025-07-13) | [Active; funding the Tororo, Mbarara and Gulu pilots, and named as the affordable-connectivity vehicle](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations) | No change |
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
 |---|---|---|---|
 | Ethio Telecom cooperation talks | Not held | [Preliminary: a ministerial delegation visited the Ethiopian incumbent's headquarters to explore cooperation on telecommunications infrastructure, digital payments, skills training and technology transfer in support of the national vision and the 2023-2027 digital roadmap; no agreement was signed](https://www.ecofinagency.com/news-digital/1308-48043-uganda-explores-digital-partnership-with-ethiopia-s-ethio-telecom) | ***Baseline not held*** |
 

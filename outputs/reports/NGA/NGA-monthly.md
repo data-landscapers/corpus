@@ -1,16 +1,16 @@
 ---
 title: Nigeria — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 place: NGA
-ledger_rows: 140
+ledger_rows: 141
 not_held: 9
-record: a146eefb70d6
+record: 86675ace7550
 ---
 
 # Nigeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 

@@ -1,16 +1,16 @@
 ---
 title: Kenya — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 place: KEN
-ledger_rows: 128
+ledger_rows: 131
 not_held: 7
-record: 2c9e6ae82862
+record: 77bd354bc9ec
 ---
 
 # Kenya: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 

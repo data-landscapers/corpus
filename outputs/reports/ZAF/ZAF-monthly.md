@@ -1,16 +1,16 @@
 ---
 title: South Africa — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 place: ZAF
-ledger_rows: 93
+ledger_rows: 95
 not_held: 23
-record: ebc470207743
+record: 6dcde82a0164
 ---
 
 # South Africa: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 

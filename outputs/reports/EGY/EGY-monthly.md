@@ -1,16 +1,16 @@
 ---
 title: Egypt — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 place: EGY
-ledger_rows: 80
+ledger_rows: 81
 not_held: 54
-record: 563a1fb7fd18
+record: 1b9e5d45151c
 ---
 
 # Egypt: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 

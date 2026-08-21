@@ -1,16 +1,16 @@
 ---
 title: Cote d'Ivoire — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 place: CIV
-ledger_rows: 62
+ledger_rows: 63
 not_held: 10
-record: b11e0fa77cba
+record: 5547c1e3e344
 ---
 
 # Cote d'Ivoire: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -160,4 +160,9 @@ The cyber agency and a technology school validated curricula for two cyber-secur
 The month's one new financing commitment is large and thinly documented. The government has [authorised a United States technology firm to carry out a set of projects strengthening national digital infrastructure, the whole estimated at US$170m, about FCFA 95bn](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/). No signed contract, financing instrument, component list, timetable or procurement route is held for it, and it [sits beside the same firm's US$170m data-centre and border-surveillance package announced from Washington in July](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/), which the record does not distinguish from it.
 
 The African Development Bank's e-government programme is meanwhile the [route by which several of the ministry's digital projects reach the market, through open tenders and calls for expressions of interest](https://digitalmag.ci/services-publics-financements-bad-des-projets-numeriques-en-cote-divoire-appels-doffres-et-avis-a-manifestation-dinteret/), with the winners of the two 30-company support programmes among the intended bidders. No award, value or project list is published.
+<!-- /narrative -->
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+The month's one agreement is continental in scope and carries no money. An Ivorian mobile operator, an Indian technology company and a continental investment council [signed a five-year memorandum of agreement dated 7 August 2026 and fully executed on 19 August, covering national fibre backbones, 4G and 5G, submarine cable landing stations, internet exchange points, telecom towers, and digital identity, national interoperability, e-government and digital payment platforms](https://enterpriseai.economictimes.indiatimes.com/news/industry/blue-cloud-softech-signs-5-year-africa-pact-for-telecom-digital-infrastructure-projects/133366356). No financial commitment is disclosed and no Ivorian project, site or timetable is named; the memorandum is known only from the Indian party's regulatory filing.
 <!-- /narrative -->

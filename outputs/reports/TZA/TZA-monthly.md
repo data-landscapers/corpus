@@ -1,16 +1,16 @@
 ---
 title: Tanzania — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-22
+period: 2026-07-01 to 2026-08-22
 place: TZA
-ledger_rows: 63
+ledger_rows: 66
 not_held: 13
-record: acd210ffa80d
+record: ff6061bf99cc
 ---
 
 # Tanzania: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
