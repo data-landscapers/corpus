@@ -217,7 +217,7 @@ Then assemble the document and commit `outputs/bulletins/`:
 python scripts/bulletin.py --assemble
 ```
 
-**`--assemble` leaves the file alone when the body has not moved**, timestamp included. The page states when it was last updated, and a stamp restamped on every run would claim the bulletin had changed when nothing in it had. The comparison is on the body below the frontmatter, which is also the span `render.py` hashes for its edition gate — so the two agree by construction rather than by coincidence.
+**`--assemble` leaves the file alone when the body has not moved**, stamp included. The page states when it was last updated, and a stamp moved on a run that changed nothing would claim the bulletin had. The comparison is on the body below the frontmatter, which is also the span `render.py` hashes for its edition gate — so the two agree by construction rather than by coincidence, and *last updated* means *the ingest whose catch produced what you are reading*.
 
 **The window is publication, not acquisition** *(Bill, 2026-08-17, asked directly and chosen over the alternative)*. An item is in the bulletin when its `published` date is today or yesterday. The corpus acquires in batches — the 2026-08-16 run ingested 184 records carrying publication dates spread across the ten days before it, eleven of them inside a two-day window — so a typical run selects a handful and some select none. **An empty window is a finished bulletin, not a failure and not a thing to widen the window over**: `--assemble` writes the document saying the window was empty and saying why, because a bulletin that is simply absent is indistinguishable from a build that did not run.
 
@@ -227,9 +227,13 @@ python scripts/bulletin.py --assemble
 
 **Everything in a summary is sourced by construction, and that is the only reason the register is satisfied cheaply here.** Each entry opens with the item's title linked to the publisher's own record, so a fact in the sentences beneath it carries its citation two lines up. What that does *not* license is a fact the item does not carry: the summary reports the source, and where the source states a figure the figure is the best thing to put in the sentence. It is Corpus's prose either way — a verbatim sentence lifted from the body is both a register failure and the thing the leak gate exists to catch.
 
-**Detail sits in one place** *(Bill, 2026-08-17)*. An item carrying five topics is summarised once, under the first topic its record lists, and cross-referenced from each of the other four. That is the script's doing, not the drafter's: one summary is written per item and `bulletin.py` decides where it lands.
+**Detail sits in one place** *(Bill, 2026-08-17)*. An item carrying five topics is summarised once and cross-referenced from each of the other four. That is the script's doing, not the drafter's: one summary is written per item and `bulletin.py` decides where it lands.
+
+**The summary lands where the item first appears in the document** *(Bill, 2026-08-21)* — the earliest of its topics in taxonomy order, so every cross-reference points backwards to text the reader has already passed. It used to be the first topic the record listed, which was the same thing while the sections were in facet order and stopped being so when the taxonomy's order took over.
 
 **The sections are `lookups/taxonomy.csv`'s order and its labels** *(Bill, 2026-08-21)*, Level-1 groups and the Level-2 sections inside them, with a nav bar at the head of the document listing the categories this edition reached. Nothing to do here — `taxonomy_lib` is the single vocabulary and the bar is built from the sections that exist.
+
+**The *Last updated* stamp is OSINT's last ingest, read from the mirror** *(Bill, 2026-08-21)* — `logs/ingested_log.md`, via `scripts/osint_lib.py`, a read and nothing more. The run prints which stamp it used; if it says `build clock (mirror unreadable)` the mirror was not there, and the page is stamped with when we ran rather than when the material moved.
 
 **It is its own stage rather than a question asked during stage 4**, which is the opposite of the ruling under *Maintaining the status baseline* and for a reason that does not apply there. Stage 4 iterates by unit over a set difference, so an item already marked considered on an earlier run is never reopened, and an item carrying no place is in no unit's scope at all — a bulletin riding along inside it would silently drop exactly the items a two-day window is most likely to hold. Its only precondition is stage 2: it reads `outputs/catalogue/raw-catalogue.csv` and nothing the report layer writes.
 

@@ -1,12 +1,12 @@
 # The bulletin — design note
 
-*(Built 2026-08-17 from Bill's brief and four decisions taken against it; rewritten 2026-08-21 against `prep/bulletin.md`, a seventeen-point revision that retired half of it. The live procedure is `BUILD.md` stage 7 and `RENDER.md` → The bulletin; this note is the reasoning behind them and the record of what was chosen over what.)*
+*(Built 2026-08-17 from Bill's brief and four decisions taken against it; rewritten 2026-08-21 against `prep/bulletin.md`, a seventeen-point revision that retired half of it, and revised again the same day after he read the built page. The live procedure is `BUILD.md` stage 7 and `RENDER.md` → The bulletin; this note is the reasoning behind them and the record of what was chosen over what.)*
 
 ## What it is
 
 One document, rewritten whenever its content moves, covering the sources **published** on the day of the build and the day before it. It is `outputs/bulletins/corpus-bulletin.md`, and it is served at `https://corpus.data-landscapers.io/bulletin/`.
 
-The taxonomy's Level-1 categories are its sections, each opening onto the Level-2 topics beneath it, both ordered by `lookups/taxonomy.csv`. Each item is summarised **once**, under the first topic its record lists; every other topic it carries holds a cross-reference to that summary. Beside each headline sit the countries the item touches, as boxes linking to those countries' pages.
+The taxonomy's Level-1 categories are its sections, each opening onto the Level-2 topics beneath it, both ordered by `lookups/taxonomy.csv`. Each item is summarised **once**, in the first section it appears in; every other topic it carries holds a cross-reference to that summary. Beside each headline sit the countries the item touches, as boxes linking to those countries' pages.
 
 `scripts/bulletin.py` selects the window, decides where each summary lands and writes the file; the summaries themselves are written by BUILD, one to three sentences each.
 
@@ -30,6 +30,14 @@ There were two documents. They covered the same items over the same window and d
 
 **The compile timestamp is a claim about the content, not about the build.** The page says when it was last updated, so the stamp moves only when the body moves — `--assemble` compares the body below the frontmatter against what is on disk and leaves the file alone when they match. It has to be that span and no other, because it is the span `render.py` hashes to decide whether to cut an edition: a timestamp inside it would make every run look like a change, and the gate would never once fire.
 
+**And the stamp is OSINT's clock, not ours** *(Bill, 2026-08-21, second pass)*. His question was whether the last-updated time could be *the point at which OSINT's last sweep-cycle ran INGEST*, and it can: `logs/ingested_log.md` on the mirror is newest-first and every batch writes a `## YYYY-MM-DD HH:MM (ingest …)` heading. `scripts/osint_lib.py` reads it. The build clock answers *when did we last run*, which on a day when nothing came in is a different claim from *when did your material last move*, and only the second is about the reader.
+
+The rotation table's `End` was the other candidate and is the cruder of the two — 00:14 against ingest's 00:05 on 2026-08-21, because the close comes after. `osint_lib.last_cycle_close()` exists and nothing calls it; it is there so that the comparison can be made again rather than re-derived.
+
+**Where the mirror cannot be read the build clock stands in and the run says so.** A file read from a mirror reads as whatever the last sync left, which is why every reader in `osint_lib` returns `None` rather than guessing, and why `--assemble` prints `— from OSINT ingest` or `— from build clock (mirror unreadable)`. A fallback nobody is told about is a fallback that quietly becomes the normal case.
+
+**The mirror path is now one constant.** `osint-cycle-ready.py` held its own `MIRROR` and this was about to be the second copy; both take it from `osint_lib` now, `CORPUS_OSINT_MIRROR` overriding, which is the arrangement `status_lib.EXCHANGE` already uses for the transfer folder. Reading OSINT is unrestricted (`CLAUDE.md`); writing to it is not, and nothing here writes.
+
 **The shown edition and the filed edition are different strings.** The colophon says `2026-08-21 at 16:31`; the PDF is `corpus-bulletin-2026-08-21.pdf`, with `editions.py`'s same-day sequence if a second is cut. A time in a filename is a space and a colon, which is not a filename on Windows, and changing the edition grammar to carry one would reach every dated artefact the site publishes for the sake of one document's byline.
 
 ## The furniture, and why it was wrong
@@ -41,6 +49,10 @@ Four of Bill's seventeen points are about the page's chrome, and each was a piec
 **The byline said *Edition of 2026-08-21 · sources published 20 and 21 August 2026*.** The subtitle now carries the whole of it and says more: when it was last updated, to the minute, and what window it covers. The edition is still on the page, in the colophon, which is where an edition belongs.
 
 **The standfirst — *Compiled … · 50 sources published …, across 25 topics* — is gone.** It restated the byline with a count of sections attached, and the count of sections is visible in the nav bar directly beneath it.
+
+**The download button says `↓ PDF` and sits level with the byline** *(second pass)*. *Download* is what the arrow already says, and a button on its own line below the byline ended the header on a call to action rather than on what the document is. The row is `flex-wrap: nowrap`: the first attempt let it wrap, which put the button straight back under the byline at every width the byline ran long — and the bulletin's byline always does, since it states both a timestamp and a window. The byline shrinks and wraps inside its own box instead, which is what `min-width: 0` on a flex item is for.
+
+**The category bar is terracotta small caps with middot separators** *(second pass)*. `--accent`, the site's own #c84b2f, because these are the page's own contents rather than site chrome — `.corpus-nav` above it is grey until hovered, which is right for a nav that is the same on every page and wrong for one that describes this document. The middot is the site's separator already, in every report byline and in the footer, so the bar is punctuated the way the rest of the site is rather than in a third style. It is written into the markup as a `<span aria-hidden>` rather than drawn with a CSS `::after`, because an `::after` on the anchor sits *inside* the link: it would underline on hover and be part of the click target.
 
 **The closing italic note is gone**, and with it `content/bulletin.md`, whose only two blocks were the two bulletins' closing notes. It explained the summarise-once discipline and then pointed at the country bulletin, which no longer exists; the discipline is legible from the cross-references themselves.
 
@@ -60,7 +72,13 @@ Four of Bill's seventeen points are about the page's chrome, and each was a piec
 
 **2. The summaries are model-authored.** *(Bill, 2026-08-17, over a scripted listing of titles and links.)* Unchanged. Bounded by keeping what it writes: the window is two days wide and the build runs daily, so nearly every item is selected on two consecutive mornings. `outputs/bulletins/summaries.json` is the store, `--write` is the only way in, and `--scan` asks only where there is none. Without it every item would be summarised twice and worded differently on the two days — worse than the wasted tokens, because both wordings would be published.
 
-**3. Detail sits in one place and everything else points at it.** *(Bill, 2026-08-17.)* Half retired with the country bulletin. What remains is the topic anchor: the first topic the record lists, *first* meaning first in the record's own facet list, which `build-catalogue.py` carries across from the source frontmatter unchanged. The alternative was alphabetical, rejected because alphabetical order is a property of the code rather than of the item.
+**3. Detail sits in one place and everything else points at it.** *(Bill, 2026-08-17.)* Half retired with the country bulletin, and the surviving half re-cut on 2026-08-21.
+
+The anchor was *the first topic the record lists* — first in the record's own facet list, which `build-catalogue.py` carries across from the source frontmatter unchanged. That was chosen over alphabetical order, because alphabetical order is a property of the code rather than of the item, and it worked while the sections were in facet order too: the item's first topic was the first section it appeared in, so every cross-reference pointed backwards.
+
+**Ordering the sections by the taxonomy broke that silently, and the built page showed it immediately.** Governance is the taxonomy's first category and so the first thing a reader meets, and on the first build every item under it opened *Summarised under …* and sent the reader further down the page for the text. The document would not start. So the anchor is now the item's earliest topic **in document order** — `min` over `taxonomy_lib.sort_key` — which restores the property the old rule had by accident and states it as the rule it always was: **the summary goes where the item first appears.**
+
+This is worth keeping in view because it is a class of fault rather than an incident. Two rules agreed for a reason neither of them stated, one changed, and nothing failed — the page rendered, every anchor resolved, the counts were right. The only detector was reading it.
 
 **4. HTML only, no PDF.** Reversed 2026-08-21, above.
 

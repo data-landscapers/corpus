@@ -77,7 +77,13 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # `C:\OSINT` onto `O:\` = `\\bill-vivobook\osint`, and this *is* bill-vivobook, so the share
 # resolves back to a local path. Overridable for the same reason `status_lib.EXCHANGE` is — a
 # move onto a mapped drive should need no code change.
-MIRROR = os.environ.get("CORPUS_OSINT_MIRROR", r"C:\OSINT")
+#
+# **It lives in `osint_lib.py` now** *(2026-08-21)*, because `bulletin.py` needs the mirror too
+# — it takes the bulletin's *last updated* stamp from `logs/ingested_log.md` — and a path to
+# another repository stated in two files is a path that will one day be moved in one of them.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from osint_lib import MIRROR  # noqa: E402
+
 CYCLE_LOG = os.path.join(MIRROR, "logs", "sweep-cycle_log.md")
 
 # Untracked, like `logs/.build-in-progress` and OSINT's own `mirror_log.md`: it changes on

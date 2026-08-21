@@ -29,11 +29,16 @@ that do not have one. Entries age out 30 days after publication, which is 28 day
 window that could cite them.
 
 **Detail sits in one place and everything else points at it** *(Bill, 2026-08-17)*. An item
-carrying five topics is written out once — under the first topic its record lists — and each of
-the other four carries a cross-reference to it. *First* means first in the record's own facet
-list, which `build-catalogue.py` carries across unchanged: often the order the source itself put
-them in, and stable run to run either way. It is preferred to alphabetical order because
-alphabetical order is a property of the code, not of the item.
+carrying five topics is written out once and the other four carry a cross-reference to it.
+
+**The summary goes where the item first appears in the document** *(Bill, 2026-08-21)*, which
+is the topic with the lowest sort order in `lookups/taxonomy.csv`, not the first topic the
+record happens to list. Those were the same rule while the sections were ordered by the record's
+own facet order and came apart the moment the taxonomy's order took over: on 2026-08-21 every
+item under Governance — the taxonomy's first category, and so the first thing a reader meets —
+opened *Summarised under …* and sent them further down the page for the text. A cross-reference
+that points backwards is a cross-reference; one that points forwards is a document that will not
+start.
 
 **The section order is `lookups/taxonomy.csv`'s** *(Bill, 2026-08-21)*, both the Level-1 groups
 and the Level-2 sections inside them, and the labels come from the same file. `taxonomy_lib`'s
@@ -41,12 +46,18 @@ own note said ordering waited on Bill reviewing the pages; for the bulletin he h
 vocabulary rather than two is also what makes the topic nav bar at the head of the document
 agree with the headings it jumps to.
 
-**The compile timestamp moves only when the document does.** The page states when it was last
-updated, and a timestamp restamped on every run would say the bulletin had changed when nothing
-in it had — so `--assemble` compares the body it has just built against the body already on
-disk, and leaves the file, timestamp and all, when they match. That also keeps `render.py`'s
-content gate honest: it hashes the body below the frontmatter, so a timestamp in the frontmatter
-must never be the thing that makes a document look changed.
+**Last updated is OSINT's last ingest, not this script's clock** *(Bill, 2026-08-21)*. The build
+runs after the sweep cycle closes, so the honest answer to *when was this page last updated* is
+the moment the material behind it last moved — `osint_lib.last_ingest()` reads it from the
+mirror's `logs/ingested_log.md`. Where the mirror cannot be read the build clock stands in, and
+the run says so rather than passing one off as the other.
+
+**The stamp moves only when the document does.** A timestamp restamped on every run would say
+the bulletin had changed when nothing in it had, so `--assemble` compares the body it has just
+built against the body already on disk and leaves the file, stamp and all, when they match. So
+*last updated* means *the ingest whose catch produced what you are reading* — which is also what
+keeps `render.py`'s content gate honest, since it hashes the body below the frontmatter and a
+stamp that moved on its own would be a change the gate could not see.
 
 Anchors resolve because `render.py` runs Markdown's `toc` extension, which gives every heading an
 id from the same `slugify` this module imports. Two implementations of that slug is how the links
@@ -67,6 +78,7 @@ from markdown.extensions.toc import slugify
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from home import COUNTRY_NAMES  # noqa: E402
 from scope_lib import in_remit  # noqa: E402
+import osint_lib  # noqa: E402
 import taxonomy_lib  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -170,8 +182,16 @@ def select(run_date: date) -> tuple[list[dict], list[dict]]:
 
 
 def anchor_topic(row: dict) -> str:
+    """Which section carries the summary: the item's earliest topic **in document order**.
+
+    `taxonomy_lib.sort_key` is the document's order, so the minimum over the item's topics is
+    the first heading a reader passing down the page reaches it under. Ties cannot happen — a
+    sort order is unique — but a slug the taxonomy does not carry scores 10,000, so an item
+    tagged only with unknown slugs anchors on the first of them, under *Other*."""
     topics = facets(row["topics"])
-    return topics[0] if topics else UNTOPICED
+    if not topics:
+        return UNTOPICED
+    return min(topics, key=lambda s: (taxonomy_lib.sort_key(s), topics.index(s)))
 
 
 # ── the summary store ──────────────────────────────────────────────
@@ -400,7 +420,14 @@ def topic_nav(groups: list[tuple[str, list[tuple[str, str]]]]) -> list[str]:
     template because only this document knows which categories are in it."""
     if not groups:
         return []
-    links = "\n".join(
+    # The middot separator is the site's own — `Edition of … · …` in every report byline, and
+    # the footer's copyright line — so the bar is punctuated the way the rest of the site is
+    # rather than in a third style. It is written into the markup rather than drawn with a CSS
+    # `::after` because an `::after` on the anchor is *inside* the link: it would underline on
+    # hover and sit inside the click target, and a separator that is clickable is a bug.
+    # `aria-hidden` keeps it out of a screen reader, which should hear a list of categories.
+    sep = '<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>'
+    links = f"\n{sep}\n".join(
         f'<a href="#{slugify(label, "-")}">{label}</a>' for label, _ in groups)
     return ['<nav class="bulletin-nav" aria-label="Categories in this bulletin">',
             links, "</nav>", ""]
@@ -481,6 +508,18 @@ def held_stamp(path: Path) -> str | None:
     return None
 
 
+def stamp_for(now: datetime | None = None) -> tuple[str, str]:
+    """`(YYYY-MM-DD HH:MM, where it came from)`.
+
+    OSINT's last ingest where the mirror can be read, the build clock where it cannot. The
+    source is returned rather than logged here so that `--assemble` can print it: a fallback
+    nobody is told about is a fallback that becomes the normal case without anyone noticing."""
+    ingested = osint_lib.last_ingest()
+    if ingested is not None:
+        return ingested.strftime("%Y-%m-%d %H:%M"), "OSINT ingest"
+    return (now or datetime.now()).strftime("%Y-%m-%d %H:%M"), "build clock (mirror unreadable)"
+
+
 def assemble(run_date: date, now: datetime | None = None) -> int:
     rows, excluded = select(run_date)
     store = load_store()
@@ -496,7 +535,7 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
     names = country_names()
     BULLETINS.mkdir(parents=True, exist_ok=True)
 
-    stamp = (now or datetime.now()).strftime("%Y-%m-%d %H:%M")
+    stamp, source = stamp_for(now)
     text = document(rows, store, run_date, stamp, names)
 
     # The timestamp is the one field that would differ on every run for a document that had not
@@ -509,7 +548,8 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
               f"(last updated {held_stamp(DOCUMENT)})")
     else:
         DOCUMENT.write_text(text, encoding="utf-8")
-        print(f"written    {DOCUMENT.relative_to(CORPUS)}  ({len(rows)} item(s), {stamp})")
+        print(f"written    {DOCUMENT.relative_to(CORPUS)}  ({len(rows)} item(s))")
+        print(f"updated    {stamp}  — from {source}")
 
     if excluded:
         print(f"remit      {len(excluded)} record(s) in the window excluded by the geographic remit")

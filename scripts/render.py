@@ -378,8 +378,10 @@ TEMPLATE = """<!DOCTYPE html>
 
       <header class="article-header">
 {kicker}        <h1 class="article-header__title">{h1}</h1>
-        <div class="article-header__byline" data-edition="{edition}">{byline}</div>
-        <div class="screen-only" style="margin-top:1rem;">{download}</div>
+        <div class="article-header__meta">
+          <div class="article-header__byline" data-edition="{edition}">{byline}</div>
+          <div class="screen-only">{download}</div>
+        </div>
       </header>
 
       <div class="article-body">
@@ -552,9 +554,12 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # hash the file and look the hash up. What is owed instead is that the document says what it
     # is and when it was cut, which is what the rows that remain do. The `Verify` row also named
     # a manifest that was never built, so it had been asking readers to check against nothing.
+    # **The button says `↓ PDF` and sits beside the byline** *(Bill, 2026-08-21)*. *Download* is
+    # what the arrow already says, and a button on its own line below the byline had the header
+    # ending on a call to action rather than on what the document is.
     if pdf:
-        download = (f'\n          <a href="{SITE_BASE}/{rel_pdf}.pdf" class="btn btn--accent" '
-                    f'style="font-size:0.8rem;">&darr; Download PDF</a>\n        ')
+        download = (f'<a href="{SITE_BASE}/{rel_pdf}.pdf" class="btn btn--accent" '
+                    f'style="font-size:0.8rem;">&darr; PDF</a>')
         colophon_rows = f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_pdf}.pdf</dd>"
     else:
         download = ""
