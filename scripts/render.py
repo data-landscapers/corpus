@@ -108,36 +108,8 @@ def frontmatter(text: str) -> tuple[dict, str]:
 
 
 
-def gate_span(meta: dict, body_md: str) -> str:
-    """What `record()` is taken over: the body, plus the bulletin's subtitle.
-
-    **The bulletin is the one document whose frontmatter carries prose the reader sees**
-    *(2026-08-21)*. Everywhere else `subtitle:` is either absent or a fixed string, and the
-    frontmatter is machinery — `compiled:`, `record:` — which is exactly why the digest is
-    taken below it. The bulletin generates its subtitle, and it is the page's byline: *last
-    updated* to the minute and the days the edition covers. A gate blind to it would hold the
-    standing edition while the served page kept a byline the source had already corrected, and
-    report nothing, because from the outside an unchanged document and an unseen change look
-    the same.
-
-    This cannot fire spuriously, which is the only reason it is safe to widen the span. The
-    subtitle moves when the covered days move, and the covered days are derived from the same
-    rows as the body; the one field that moves on its own is the stamp, and `bulletin.py`'s
-    `--assemble` will not write a file whose only difference is that. So the subtitle reaches
-    this function already changed only when the document has genuinely changed.
-
-    It costs one edition once — the bulletin's held `dl-record` was taken over the narrower
-    span and will not match on the next render, so a PDF is cut that would not otherwise have
-    been. That is the same direction `held_edition()` errs in for a page written before the
-    gate existed, and for the same reason."""
-    if meta.get("type") == "bulletin":
-        return meta.get("subtitle", "") + "\n" + body_md
-    return body_md
-
-
 def record(body_md: str) -> str:
-    """The document's content digest — the body, below the frontmatter (`gate_span()` above
-    for the bulletin's one exception).
+    """The document's content digest — the body, below the frontmatter.
 
     **Below the frontmatter is the whole of the trick** (design.md §9). `compiled:` moves
     whenever the file is rewritten and `record:` is a digest of the same content, so a hash
@@ -475,7 +447,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     """
     raw = md_path.read_text(encoding="utf-8")
     meta, body_md = frontmatter(raw)
-    rec = record(gate_span(meta, body_md))
+    rec = record(body_md)
 
     unit, kind = parse_name(md_path)
     # The edition is the date this file was RENDERED, not the date the source was
@@ -534,16 +506,14 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         if rows and not_held else "compiled from the Data Landscapers source base"
     )
 
-    # **The edition a reader is shown and the edition a filename carries are not the same string**
-    # *(Bill, 2026-08-21, asking for the bulletin's edition to carry a time)*. A bulletin can be
-    # rebuilt twice in a day, so the date alone no longer identifies which one you are reading;
-    # `compiled:` carries `YYYY-MM-DD HH:MM` and the colophon shows it. It cannot be the edition
-    # itself, because that goes into a filename — a space and a colon are not a filename on
-    # Windows — so `editions.py`'s grammar is untouched and this is display only.
+    # **The colophon names the file, and the byline names the clock** *(Bill, 2026-08-21, second
+    # ruling)*. The bulletin's Edition row briefly showed `compiled:` to the minute, so that a
+    # bulletin rebuilt twice in a day could be told apart. It cannot show that any more: the
+    # page's byline is now refreshed on every sweep while the dated PDF beside it is cut only
+    # when the material moves, so a colophon showing the clock would name an edition that is not
+    # the file it is offering. `editions.py`'s same-day `-2` suffix already tells two cuts of one
+    # day apart, and it is in the filename, which is what a reader holding a download can see.
     edition_display = edition
-    if kind == "bulletin" and meta.get("compiled"):
-        stamp = meta["compiled"].strip()
-        edition_display = stamp.replace(" ", " at ", 1) if " " in stamp else stamp
 
     # The bulletin's byline is its subtitle and nothing else *(Bill, 2026-08-21)*. Every other
     # document opens "Edition of {date} · {byline}", which the bulletin's own subtitle now says
@@ -677,18 +647,43 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     stylesheet, so a change to `report.css` reaches new editions only — which is what *not
     revised after publication* means when it is taken literally, and it is meant literally.
 
+    **The bulletin is the exception, because it is the one document whose freshness is news**
+    *(Bill, 2026-08-21)*. A sweep that brings in fifty sources of which none carries a date in
+    the bulletin's two-day window has still updated the bulletin: we looked, and nothing was
+    published. A page that goes on saying *last updated the 20th* through that reports neglect
+    where there was work, and the reader cannot tell the two apart. So for `type: bulletin` a
+    held-off render still rewrites the **page**, under the edition it is already holding, and
+    leaves the **PDF** alone. That is not the disagreement the paragraph above forbids: the
+    byline is a claim about the material and moves with the sweep, while the colophon names the
+    dated file it is offering and moves only when the material does. A PDF is a snapshot and is
+    entitled to the stamp it was cut with.
+
     `--edition` and `--force` are deliberate re-cuts and skip the gate. They do not skip §9's
     same-day suffixing, though: a forced re-cut differs from what is already published — that is
     what it is for — so writing it over the published name would change the bytes under a
     citation, which is the failure the suffix exists to prevent."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    rec = record(gate_span(*frontmatter(md_path.read_text(encoding="utf-8"))))
+    meta_head, body_head = frontmatter(md_path.read_text(encoding="utf-8"))
+    rec = record(body_head)
 
     held = None if (edition or force) else held_edition(md_path, out_dir, rec)
     if held is not None:
         html_path = out_dir / f"{stem_html_of(md_path)}.html"
         pdf_path = out_dir / f"{md_path.stem}-{held}.pdf" if pdf else None
         if pdf_path is None or pdf_path.exists():
+            if meta_head.get("type") == "bulletin":
+                # The page is refreshed so the byline is current; the edition passed in is the
+                # one already held, so the download link and the colophon go on naming the PDF
+                # that is there. `rec` is taken over the body, which has not moved, so the gate
+                # holds again next time rather than treating its own refresh as a change.
+                #
+                # Written only where the bytes differ. A refresh that rewrites an identical
+                # page is churn a reader never sees and a diff always does — and on Windows it
+                # is not even identical, since `write_text` translates the line endings, so an
+                # unconditional write would show the whole file as changed on every render.
+                served, _, _, _, _ = build_document(md_path, held, absolute=False, pdf=pdf)
+                if not html_path.exists() or html_path.read_text(encoding="utf-8") != served:
+                    html_path.write_text(served, encoding="utf-8")
             return html_path, pdf_path, False
         # The page names an edition whose PDF is not there — a file deleted by hand, or a run
         # that died between the two writes. Cut it again under **its own** name rather than

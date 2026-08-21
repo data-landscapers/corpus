@@ -94,6 +94,54 @@ def case_frontmatter_only_holds_off(tmp):
     assert not minted, "a frontmatter-only change must not cut an edition"
 
 
+BULLETIN = CORPUS / "outputs" / "bulletins" / "corpus-bulletin.md"
+
+
+def bulletin_fixture(tmp):
+    src_dir, out = tmp / "src", tmp / "out"
+    src_dir.mkdir(parents=True)
+    src = src_dir / BULLETIN.name
+    shutil.copy(BULLETIN, src)
+    html, _, _ = render_mod.render(src, out, pdf=False)
+    return src, out, html
+
+
+def case_the_bulletin_refreshes_its_page_while_holding_its_edition(tmp):
+    """**A moved clock reaches the page and not the PDF** *(Bill, 2026-08-21)*.
+
+    A sweep that admits fifty sources of which none is dated inside the two-day window has
+    still updated the bulletin: we looked, and nothing was published. A page that goes on
+    saying *last updated the 20th* through that reports neglect where there was work. So the
+    gate holds the edition — the news has not moved, and two editions holding the same news
+    under different names is what §9 exists to stop — while the page is rewritten so the byline
+    is current. Both halves are asserted here, because either alone is a fault: no refresh and
+    the page reads as stale, no hold and the bulletin mints a PDF every sweep for ever."""
+    if not BULLETIN.exists():
+        return
+    src, out, html = bulletin_fixture(tmp)
+    text = src.read_text(encoding="utf-8")
+    assert "compiled:" in text and "Last updated" in text, "the fixture must carry both fields"
+    moved = text.replace("Last updated ", "Last updated at some later hour ", 1)
+    src.write_text(moved, encoding="utf-8", newline="")
+
+    _, _, minted = render_mod.render(src, out, pdf=False)
+    assert not minted, "a moved clock must not cut a bulletin edition"
+    assert "Last updated at some later hour" in html.read_text(encoding="utf-8"), \
+        "the refreshed byline never reached the served page"
+
+
+def case_a_report_page_is_not_refreshed_in_place(tmp):
+    """The exception above is the bulletin's alone. Everywhere else the frontmatter is
+    machinery, and a held-off document is left entirely alone, page included."""
+    src, out, html, _ = fixture(tmp)
+    was = html.stat().st_mtime_ns
+    text = src.read_text(encoding="utf-8")
+    src.write_text(text.replace("compiled:", "compiled: 2099-01-01 #", 1),
+                   encoding="utf-8", newline="")
+    render_mod.render(src, out, pdf=False)
+    assert html.stat().st_mtime_ns == was, "a held-off report must not have its page rewritten"
+
+
 def case_missing_pdf_is_repaired_in_place(tmp):
     src, out, html, _ = fixture(tmp, pdf=True)
     edition = edition_of(html)
@@ -154,6 +202,9 @@ CASES = [
     ("an unchanged source cuts nothing and rewrites nothing", case_unchanged_holds_off),
     ("a body that has moved cuts an edition", case_moved_body_cuts),
     ("a frontmatter-only change cuts nothing", case_frontmatter_only_holds_off),
+    ("the bulletin refreshes its page while holding its edition",
+     case_the_bulletin_refreshes_its_page_while_holding_its_edition),
+    ("a report's page is not refreshed in place", case_a_report_page_is_not_refreshed_in_place),
     ("a deleted PDF is re-cut under its own name", case_missing_pdf_is_repaired_in_place),
     ("a published edition survives a same-day re-cut, to the byte", case_a_published_edition_is_never_overwritten),
     ("--force cuts regardless", case_force_overrides),

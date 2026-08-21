@@ -189,11 +189,15 @@ def case_a_subtitle_change_rewrites_the_file(tmp):
     assert "SOME OTHER WORDING" in b.document(), "the corrected byline never reached the file"
 
 
-def case_a_moved_stamp_alone_rewrites_nothing(tmp):
-    """The other direction, and the reason the comparison cannot simply be the whole file.
+def case_a_moved_stamp_is_written_and_named_as_a_check(tmp):
+    """A sweep that published nothing into the window has still updated this document.
 
-    A stamp restamped on every run would say the bulletin had changed when nothing in it had —
-    and `render.py`'s gate would then cut a dated PDF a day for a document nobody touched."""
+    *(Bill, 2026-08-21.)* The stamp used to be suppressed here on the reasoning that the content
+    had not moved — so a sweep that admitted fifty sources, none of them dated inside the
+    window, left the page saying *last updated the 20th* through a night's work. That reports
+    neglect where there was none, and a reader cannot tell it from the real thing. It writes
+    now, and the run calls it a check rather than a write, because *we looked and nothing was
+    published* and *here is what was published* are different things for a run to say."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
     b.stamp("2026-05-14 00:05")
     b.assemble()
@@ -201,43 +205,52 @@ def case_a_moved_stamp_alone_rewrites_nothing(tmp):
 
     b.stamp("2026-05-14 23:59")
     out = b.assemble()
-    assert "unchanged" in out, f"rewrote on a moved clock:\n{out}"
+    assert "checked" in out, f"a moved clock was not reported as a check:\n{out}"
+    assert "23:59" in b.document(), "the new stamp never reached the file"
+    assert before.split("---", 2)[-1] == b.document().split("---", 2)[-1], \
+        "the body moved when only the clock should have"
+
+
+def case_a_still_clock_writes_nothing(tmp):
+    """Nothing moved at all — not the material, not the sweep. The file is left alone."""
+    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
+    b.stamp("2026-05-14 00:05")
+    b.assemble()
+    before = b.document()
+    out = b.assemble()
+    assert "unchanged" in out, out
     assert b.document() == before
-    assert "00:05" in b.document(), "the held stamp must stand"
 
 
-def case_an_unreadable_mirror_is_said_on_a_quiet_run(tmp):
-    """The fallback is announced whether or not the run writes.
+def case_an_unreadable_mirror_is_said_on_every_run(tmp):
+    """The fallback is announced whether or not the material moved.
 
-    A run that writes nothing prints one line, and that line is where an unreadable mirror
-    would otherwise go unmentioned — which is how a fallback becomes the normal case without
-    anyone noticing it had."""
+    `osint_lib`'s whole reason for returning None rather than guessing is that the caller says
+    which it got. A caller that says so only when it happens to have news does not — and a
+    fallback nobody is told about is one that becomes the normal case unnoticed."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
     b.stamp("2026-05-14 00:05")
     b.assemble()
 
     b.stamp(None)
     out = b.assemble()
-    assert "unchanged" in out, out
-    assert "unreadable" in out, f"a quiet run said nothing about the mirror:\n{out}"
+    assert "unreadable" in out, f"the mirror fallback went unsaid:\n{out}"
 
 
-def case_render_gate_sees_the_bulletin_byline(tmp):
-    """`render.py`'s digest must move with the subtitle for a bulletin and for nothing else.
+def case_the_stamp_is_outside_the_edition_digest(tmp):
+    """A moved stamp must not cut a dated PDF, which is why the digest is the body alone.
 
-    Same blind spot as the case above, one layer down: without this the corrected byline lands
-    in `outputs/` and stops there, with the standing edition held and the served page still
-    carrying the old wording."""
-    body = "\n# Bulletin\n\n## Governance\n\nSomething.\n"
-    one = {"type": "bulletin", "subtitle": "Last updated 14-05-2026 at 00:05"}
-    two = {"type": "bulletin", "subtitle": "Last updated 14-05-2026 at 00:05 — Covering 13 May"}
-    assert render_mod.record(render_mod.gate_span(one, body)) != \
-        render_mod.record(render_mod.gate_span(two, body)), "the gate cannot see the byline"
-
-    status = [{"type": "status", "subtitle": s["subtitle"]} for s in (one, two)]
-    assert render_mod.record(render_mod.gate_span(status[0], body)) == \
-        render_mod.record(render_mod.gate_span(status[1], body)), \
-        "only the bulletin widens the span; a report's frontmatter is machinery"
+    The page is refreshed on a held-off render instead — `test_render_gate.py` asserts that
+    half. Without the split, the bulletin would mint an edition every sweep and two consecutive
+    editions would carry the same news under different names, which is what §9 exists to stop."""
+    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
+    b.stamp("2026-05-14 00:05")
+    b.assemble()
+    first = render_mod.record(render_mod.frontmatter(b.document())[1])
+    b.stamp("2026-05-14 23:59")
+    b.assemble()
+    assert render_mod.record(render_mod.frontmatter(b.document())[1]) == first, \
+        "a moved clock changed the edition digest"
 
 
 def case_an_empty_window_is_a_finished_bulletin(tmp):
@@ -377,9 +390,11 @@ CASES = [
     ("every cross-reference points backwards", case_every_cross_reference_points_backwards),
     ("every anchor in the document resolves", case_every_anchor_in_the_document_resolves),
     ("a subtitle change rewrites the file", case_a_subtitle_change_rewrites_the_file),
-    ("a moved stamp alone rewrites nothing", case_a_moved_stamp_alone_rewrites_nothing),
-    ("an unreadable mirror is said on a quiet run", case_an_unreadable_mirror_is_said_on_a_quiet_run),
-    ("render.py's edition gate sees the bulletin's byline", case_render_gate_sees_the_bulletin_byline),
+    ("a moved stamp is written and named as a check",
+     case_a_moved_stamp_is_written_and_named_as_a_check),
+    ("a still clock writes nothing", case_a_still_clock_writes_nothing),
+    ("an unreadable mirror is said on every run", case_an_unreadable_mirror_is_said_on_every_run),
+    ("the stamp is outside the edition digest", case_the_stamp_is_outside_the_edition_digest),
     ("an empty window is a finished bulletin", case_an_empty_window_is_a_finished_bulletin),
     ("the byline states the days in hand", case_the_byline_states_the_days_in_hand),
     ("a missing summary stops the run", case_a_missing_summary_stops_the_run),

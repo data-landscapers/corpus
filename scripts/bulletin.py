@@ -53,13 +53,20 @@ about the reader's material rather than about us is the moment that material las
 mirror's `logs/ingested_log.md`. Where the mirror cannot be read the build clock stands in, and
 the run says so rather than passing one off as the other.
 
-**The stamp moves only when the document does.** A stamp restamped on every run would say the
-bulletin had changed when nothing in it had, so `--assemble` rebuilds the document *with the
-stamp already on disk* and leaves the file alone if that reproduces it exactly. So *last
-updated* means *the ingest whose catch produced what you are reading*, never *the run that last
-rewrote the file*. It has to be that way round for `render.py`'s edition gate as well: the gate
-cuts a dated PDF whenever the content moves, and a stamp that moved on its own would mint an
-edition a day for a document nobody had changed.
+**The stamp moves whenever the material was looked at, even when nothing came of it**
+*(Bill, 2026-08-21)*. A sweep that admits fifty sources of which none carries a publication date
+inside the two-day window has still updated this document: we looked, and nothing was published.
+The stamp was suppressed in that case until Bill's ruling — the file was left alone on the
+reasoning that its content had not moved — and the page then went on saying *last updated the
+20th* through a night's work, which reports neglect where there was none and which a reader
+cannot tell from the real thing.
+
+**What the suppression was protecting is protected somewhere better.** The worry was
+`render.py`'s edition gate: a stamp moving on its own would cut a dated PDF every night for a
+document nobody had changed. The gate digests the body, which the stamp is not in, so it holds
+off exactly as before — and `render.py` now refreshes the bulletin's **page** on a held-off
+render while leaving the **PDF** alone. The byline is a claim about the material and moves with
+the sweep; the dated file is a snapshot and keeps the stamp it was cut with.
 
 Anchors resolve because `render.py` runs Markdown's `toc` extension, which gives every heading an
 id from the same `slugify` this module imports. Two implementations of that slug is how the links
@@ -553,25 +560,32 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
 
     # **Is anything different apart from the stamp?** Asked by rebuilding the document with the
     # stamp already on disk and comparing the whole file: if that reproduces what is there, the
-    # only thing that moved was the clock and the file is left exactly as it is.
+    # only thing that moved was the clock. That is no longer a reason to skip the write — see
+    # the module docstring, and Bill's ruling of 2026-08-21 — but it is still the difference
+    # between *we looked and nothing was published* and *here is what was published*, which are
+    # different things for the run to say.
     #
-    # It was a comparison of the body below the frontmatter until 2026-08-21, on the reasoning
-    # that the stamp lives in the frontmatter and so must be excluded — which excluded the
-    # *whole* frontmatter, and the subtitle is in it. A correction to how the byline is worded
-    # therefore could not reach a document whose body had not changed: the fix ran, reported
-    # `unchanged`, and left the wrong subtitle in place. Normalising the one field that moves on
-    # its own is the narrow version of what that rule was reaching for.
+    # The comparison is the whole file. It was the body below the frontmatter until the same
+    # day, on the reasoning that the stamp lives in the frontmatter and so must be excluded —
+    # which excluded the *whole* frontmatter, and the subtitle is in it. A correction to how the
+    # byline is worded therefore could not reach a document whose body had not changed: the fix
+    # ran, reported `unchanged`, and left the wrong subtitle in place.
     before = DOCUMENT.read_text(encoding="utf-8") if DOCUMENT.exists() else None
     held = held_stamp(DOCUMENT)
-    unchanged = (before is not None and held is not None
-                 and document(rows, store, run_date, held, names) == before)
+    clock_only = (before is not None and held is not None
+                  and document(rows, store, run_date, held, names) == before)
 
     text = document(rows, store, run_date, stamp, names)
-    if unchanged:
-        print(f"unchanged  {DOCUMENT.relative_to(CORPUS)}  (last updated {held})")
+    where = DOCUMENT.relative_to(CORPUS)
+    if text == before:
+        print(f"unchanged  {where}  (last updated {held}; the clock has not moved either)")
     else:
         DOCUMENT.write_text(text, encoding="utf-8")
-        print(f"written    {DOCUMENT.relative_to(CORPUS)}  ({len(rows)} item(s))")
+        if clock_only:
+            print(f"checked    {where}  — nothing published in the window since {held}; "
+                  f"the page now says so")
+        else:
+            print(f"written    {where}  ({len(rows)} item(s))")
         print(f"updated    {stamp}  — from {source}")
 
     # **Said on every run, not only the ones that write.** The mirror being unreadable is a fact
