@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: infra.energy
 places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SLE; SSD; TUN; UGA; ZMB; ZWE
-record: 00dda50e5e72
+record: 6c4062c8bcd5
 ---
 
 # Energy: progress report, 2025-08-01 to 2026-08-21
@@ -127,7 +127,7 @@ record: 00dda50e5e72
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Diesel-to-solar conversion of network sites | Did not exist | [In the loan's scope; no site count published](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) | Advanced |
 

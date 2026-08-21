@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 07aad50c9af9
+record: 648d43999c06
 ---
 
 # Other GovTech and e-Gov: progress report, 2025-08-01 to 2026-08-21
@@ -336,7 +336,7 @@ record: 07aad50c9af9
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Government action monitoring and evaluation system | Did not exist | [Operating and publishing completion rates](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) | Advanced |
 | Government Intranet | None published | [13 services integrated, with a draft decree to make government messaging mandatory](https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535) | Advanced |
@@ -397,7 +397,7 @@ record: 07aad50c9af9
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Legally recognised electronic signatures | Accreditation of service providers under way, deployment targeted February 2026 | [No launch on record at 2026-08-06; the capability is now described as a component of the September 2026 identity card](https://itweb.africa/article/ai-abuse-overshadows-namibias-e-signature-drive/P3gQ2qGAR157nRD1) | Stalled |
 | Digital Government Strategic Roadmap 2024-2026 | In force over its 2024-2026 period; no coverage figure on record | [In force; no digital-identity coverage figure published, and card issuance begins only in September 2026](https://www.telecomreviewafrica.com/articles/features/28266-towards-a-5g-enabled-digitalized-namibia-in-2026/) | No change |

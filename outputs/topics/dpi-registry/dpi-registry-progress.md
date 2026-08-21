@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5e75f3225bf4
+record: 76b5d740f049
 ---
 
 # Registries (population, land, address, etc.): progress report, 2025-08-01 to 2026-08-21
@@ -19,7 +19,7 @@ record: 5e75f3225bf4
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
-| AMLAK electronic land-title system | Did not exist | [Nationwide with end-to-end traceability; no coverage figure published](https://www.ecofinagency.com/news-digital/1301-51891-algeria-launches-nationwide-rollout-of-amlak-electronic-land-system) | Advanced |
+| AMLAK electronic land-title system | Did not exist | [Nationwide with end-to-end traceability; no coverage figure published](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-moves-to-electronic-land-titles-with-amlak-system) | Advanced |
 | CNAS electronic health card for the uninsured | Did not exist | [Issuing to the uninsured](https://www.echoroukonline.com/cnas-une-carte-electronique-pour-les-personnes-sans-couverture-sociale) | Advanced |
 | National export-data platform | Did not exist | [Live](https://www.wearetech.africa/en/fils-uk/news/tech/algiers-targets-export-growth-with-national-data-platform) | Advanced |
 | National import-tracking system | Did not exist | [Live](https://www.wearetech.africa/en/fils-uk/news/tech/algiers-tightens-trade-controls-with-new-import-tracking-system) | Advanced |
@@ -266,7 +266,7 @@ record: 5e75f3225bf4
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Birth registration | 89.5% registration, 747 centres (2025-06) | [No later figure published](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | No change |
 | Death registration | About 20% (2025-06) | [About 20%; no later figure published](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | No change |
@@ -305,7 +305,7 @@ record: 5e75f3225bf4
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Business and intellectual property online registration | Online registration services offered | [Online registration services offered; no transaction or uptake figure published](https://www.bipa.na/) | No change |
 | Civil Registration and Identification Act 13 of 2024 | In force as the statutory basis for a single civil register, a unique identity number and identity-data confidentiality | [Unchanged; read by officials on 2026-07-25 as permitting institutions to accept either the physical card or its digital version, with disclosure conditional on the holder's consent](https://namiblii.org/akn/na/act/2024/13/eng@2024-12-30) | No change |

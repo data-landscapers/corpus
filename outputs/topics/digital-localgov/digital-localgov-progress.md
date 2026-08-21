@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: digital.localgov
 places: DZA; AGO; BFA; CMR; TCD; COG; COD; EGY; SWZ; ETH; GAB; GMB; GIN; KEN; LSO; LBY; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SOM; TZA; TGO; ZMB; ZWE
-record: a6caad614427
+record: c9cc2dc49f6e
 ---
 
 # Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-21
@@ -131,7 +131,7 @@ record: a6caad614427
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital payment at civil registry centres | ***Baseline not held*** | [About FCFA 200m collected between July 2024 and May 2026, with every collectivite ordered to report within 30 days](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/) | ***Baseline not held*** |
 | Koutiala commune fiscal census and financial management digitisation | ***Baseline not held*** | [Surveying taxable commercial equipment and public-space use and equipping the town hall with digital financial-management tools, to widen the commune's own-source revenue](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/) | ***Baseline not held*** |
@@ -145,7 +145,7 @@ record: a6caad614427
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Windhoek People-Centred Smart City Strategy 2026-2036 | Smart-city development under discussion; no strategy, financing or instrument published (2025-09-23) | [Adopted 2026-06-15 and handed over in partnership with UN-Habitat and the United Nations Innovation Technology Accelerator for Cities; the named projects are commercialisation of the city's own fibre-optic network as the digital backbone and a proposed commuter rail linking Windhoek, Katutura and Rehoboth; no funding requirement, implementation timetable or institutional owner is published, and a Chinese contribution to the pilot was acknowledged 2026-07-08](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m) | Advanced |
 

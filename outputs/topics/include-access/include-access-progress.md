@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: include.access
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: efe67e6ca784
+record: 37a57219de82
 ---
 
 # Access to services: progress report, 2025-08-01 to 2026-08-21
@@ -213,7 +213,7 @@ record: efe67e6ca784
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Mobile data affordability against Senegal | Not held | [About 1.5GB of mobile data in Bamako for what buys about 25GB in Dakar, a ratio of roughly 25 to 1, attributed by critics to weak market oversight by the regulator, the duopoly of the two incumbent operators and the years since a new operator licence was issued](https://theafricantribune.info/malis-telecom-costs-surge-while-senegal-thrives-in-data-affordability/) | ***Baseline not held*** |
 
@@ -235,7 +235,7 @@ record: efe67e6ca784
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Financial inclusion rate | 78%, described as current by an industry executive (2025-07) | [86% (2025), with the same 78% dated to 2017](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/) | Advanced, dating unreconciled |
 | Free internet for schools and clinics under new towers | Not on record; 339 schools and 50 health centres reported without adequate connectivity (2025-06) | [Free internet for seven years to schools and clinics under towers built in the previous two years; N$80m in nine radio access network towers over two years](https://itweb.africa/article/namibian-schools-clinics-to-get-free-internet/PmxVEMKEdwzvQY85) | Advanced |

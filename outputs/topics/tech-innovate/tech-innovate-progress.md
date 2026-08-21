@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: tech.innovate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SOM; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: 6da82d232839
+record: 7efde6ec4bc4
 ---
 
 # Innovation ecosystem: progress report, 2025-08-01 to 2026-08-21
@@ -231,7 +231,7 @@ record: 6da82d232839
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | University artificial-intelligence and robotics accelerator | Operating (2025, year precision) | [Operating; supports bachelor's and honours degrees in artificial intelligence and a master's in data science](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | No change |
 | Information technology venture capital fund | ***Baseline not held*** | [Authorised at US$20m; no fund manager, first close, instrument, Namibian-dollar figure or disbursement on file at 2026-08-06](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) | ***Baseline not held*** |

@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: geopol.china
 places: DZA; AGO; BWA; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; KEN; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; UGA; ZMB; ZWE; XAF; XWA
-record: 42f7eb2c987c
+record: 0de1c03a66c9
 ---
 
 # China activities: progress report, 2025-08-01 to 2026-08-21
@@ -99,7 +99,7 @@ record: 42f7eb2c987c
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
-| Ethio Telecom and Huawei enterprise stack | Did not exist | [Scoping only; no value or term disclosed](https://itweb.africa/article/ethio-telecom-huawei-expand-digital-push/8OKdWqDX2pzqbznQ) | Advanced |
+| Ethio Telecom and Huawei enterprise stack | Did not exist | [Scoping only; no value or term disclosed](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) | Advanced |
 | Inspur and Shandong data-centre track | Did not exist | [Planned; no site or value stated](https://techafricanews.com/2026/07/16/ethio-telecom-eyes-strategic-partnership-with-inspur-to-accelerate-digital-transformation/) | Advanced |
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
@@ -126,7 +126,7 @@ record: 42f7eb2c987c
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Foreign supplier of national identity documents | Supplied by Idemia of France | [Supplied by Emptech of China](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move) | Advanced |
 
@@ -144,7 +144,7 @@ record: 42f7eb2c987c
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Chinese contribution to the Windhoek smart city pilot | Did not exist | [CNY 98,000,000 committed, about US$14.4m on the source's 2026 conversion, for digital infrastructure, artificial-intelligence capability and skills under the ten-year city strategy](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m) | Advanced |
 

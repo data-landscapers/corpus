@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: capacity.research
 places: DZA; AGO; BWA; BDI; CMR; COG; CIV; GNQ; ETH; GAB; GHA; LSO; LBY; MDG; MLI; MRT; MAR; MOZ; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE; XSA
-record: 1916d7f48d5a
+record: ba0bf97f2c6f
 ---
 
 # Research institutions: progress report, 2025-08-01 to 2026-08-21
@@ -110,7 +110,7 @@ record: 1916d7f48d5a
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Higher-education and research digital capacity | No long-term national research strategic plan on record and a 1:100 teacher-student ratio at the University of Bamako (2009) | [Universite Numerique du Mali strategic framework and action plan validated; 132,186 students across 16 higher-education institutions and an 81:1 student-teacher ratio against UNESCO's 25:1 norm (2024-05)](https://dg-enseignementsup.ml/wp-content/uploads/2024/10/Document-de-Politique-Nationale-de-ES.pdf) | Advanced |
 

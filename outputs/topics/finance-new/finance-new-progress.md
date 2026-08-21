@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: finance.new
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 8a60bffbe705
+record: 87624851efb8
 ---
 
 # New investments: progress report, 2025-08-01 to 2026-08-21
@@ -269,7 +269,7 @@ record: 8a60bffbe705
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | AGEFAU conventions with the education and employment ministries | Did not exist | [Signed, committing the fund to connect every secondary, technical and vocational school by end-2027](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/) | Advanced |
 | Agence de Gestion du Fonds d'Acces Universel | Under direct Primature tutelle | [Under direct Primature tutelle, with a new director-general and a revised work programme](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/) | No change |
@@ -320,7 +320,7 @@ record: 8a60bffbe705
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Private mobile network investment | Did not exist | [A live network with N$600,000,000 invested in the year to September 2025, company-reported](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network) | Advanced |
 | Universal service levy | A 2022 notice of intention (Government Gazette 7860, General Notice 342, 25 July 2022) withdrawn 2024-06-21 (Government Gazette 8384, General Notice 291) pending a revised evidence base | [In force from 2024-09-27: levy not exceeding 0.5% of annual turnover per licensee (regulation 4 and Annexure A), a flat N$500 floor for non-profit licensees, invoiced on audited or sworn financial statements and payable within 30 days into the Universal Service Fund; regulation 9 and Annexure B amended the 2018 universal service regulations to let the Fund receive donations or grants, which is what makes the Government of Namibia's committed funding receivable; CRAN's own reply to comments states the Gap Analysis identifies 119 locations that will remain unserved after 700/800 MHz roll-out obligations, of which government funding covers the capital cost of 42](https://www.cran.na/download/cran-uas-report-2024/) | Advanced |
@@ -499,6 +499,7 @@ record: 8a60bffbe705
 | Capital raised by startups from a technology company's African accelerators | Baseline not held | [More than US$1bn raised cumulatively since 2017, with a stated survival rate above 90% against a 70-80% failure rate for the wider ecosystem (2026-08)](https://techeconomy.ng/google-backed-startups-hit-1bn-funding-milestone-with-90-survival-rate) | ***Baseline not held*** |
 | Development-finance and infrastructure-fund partnership | Baseline not held | [A British development finance institution and a continental infrastructure fund announced a strengthened partnership to scale infrastructure financing across Africa, connectivity among the named sectors; no commitment amount, fund vehicle, country allocation or timetable is published](https://techafricanews.com/2026/08/13/bii-and-africa50-strengthen-partnership-to-scale-infrastructure-financing-across-africa/) | ***Baseline not held*** |
 | Growth-capital investment in a pan-African messaging infrastructure provider | Baseline not held | [US$12m into a provider of application-to-person messaging — one-time passwords, transaction alerts and delivery updates — operating across 35 African countries through 15 operator partnerships](https://www.africaprivateequitynews.com/p/bluepeak-private-capital-fund-ii) | ***Baseline not held*** |
+| KOICA Youth Leadership Programme | ***Baseline not held*** | [US$34m stated by Korea for a programme coupling public governance and policy development with artificial-intelligence-driven digital government, hosted by the Ghana Institute of Management and Public Administration for 200 participants from Ghana, Nigeria, Cote d'Ivoire, Senegal and Cameroon, in three phases - online training, in-country sessions, and a funded 14-day study visit to Korea for the best performers](https://gna.org.gh/2026/08/koica-programme-trains-african-youth-in-governance-ai/) | ***Baseline not held*** |
 | LINGUA Africa language-model grants | Baseline not held | [26 projects covering more than 50 African languages, dialects and sign languages across 47 countries, each awardee eligible for up to US$250,000 in cash and US$400,000 in compute credits; health, agriculture and justice are the stated use cases](https://iafrica.com/lingua-africa-funds-26-projects-covering-50-african-languages-tied-to-health-farming-and-justice-use-cases/) | ***Baseline not held*** |
 
 ## Southern Africa

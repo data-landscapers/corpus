@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: aa5a4a10d26c
+record: b9d5a42bf761
 ---
 
 # Cybersecurity: progress report, 2025-08-01 to 2026-08-21
@@ -243,7 +243,7 @@ record: aa5a4a10d26c
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Cybercrime Act 2025 | Not in force | [Signed into force on 2026-08-19, seven months after the Legislature passed it and nearly nineteen months after the House's data-breach proceedings](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees) | Advanced |
-| Cybersecurity Regulations (LTA-REG-0013-2026) | Did not exist | [Requires telecom providers to store personal data and PII primarily inside Liberia's own territory (s.7.3(A)(v)), establish an in-house Cybersecurity Unit within one year of the effective date (s.7.1), notify the LTA of breaches within 24 hours and customers within 72 hours (s.7.6(A)(ii)), run annual penetration testing and keep security-event logs for at least 12 months (s.7.5), and file tested incident-response and continuity plans; the LTA is to run a sector CERT with a 24/7 hotline (s.8.2). Penalties are revenue-linked (up to US$3,000 plus 0.15% of the preceding year's gross revenue for failing to establish the Unit, escalating to US$25,000 and possible licence suspension) but apply only from one year after the effective date (s.10.7); the s.10.6 penalty escalation ladder is unreadable in both held copies (2026-01)](https://liblaw.org/document/cybersecurity-regulations-lta-reg-0013-2026/) | Advanced |
+| Cybersecurity Regulations (LTA-REG-0013-2026) | Did not exist | [Requires telecom providers to store personal data and PII primarily inside Liberia's own territory (s.7.3(A)(v)), establish an in-house Cybersecurity Unit within one year of the effective date (s.7.1), notify the LTA of breaches within 24 hours and customers within 72 hours (s.7.6(A)(ii)), run annual penetration testing and keep security-event logs for at least 12 months (s.7.5), and file tested incident-response and continuity plans; the LTA is to run a sector CERT with a 24/7 hotline (s.8.2). Penalties are revenue-linked (up to US$3,000 plus 0.15% of the preceding year's gross revenue for failing to establish the Unit, escalating to US$25,000 and possible licence suspension) but apply only from one year after the effective date (s.10.7); the s.10.6 penalty escalation ladder is unreadable in both held copies (2026-01)](https://lta.gov.lr/wp-content/uploads/2026/02/Cybersecurity-Regulations.pdf) | Advanced |
 | House investigation into the 2026 data breach | Did not exist | [Investigation ordered into an alleged breach of about 2m citizens' data across the revenue, electricity and insurance bodies; no findings published (2026-02)](https://www.liberianobserver.com/news/house-to-probe-data-breach-6-1m-foya-project/article_20b56386-12e0-4c66-b0d8-51bcbf475890.html) | Advanced |
 | National Cybersecurity Act | Scheduled for Q3 2025 by the strategy's action plan, not yet due (2025-08) | [No draft, bill or enactment held; the data governance policy of March 2026 names only the unenacted Personal Data Protection and Privacy Act 2024 and Cybercrime Act 2025 (2026-03)](https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf) | Stalled |
 | National Cybersecurity Council | Scheduled for Q4 2024 by the strategy's action plan, not established (2025-08) | [No constituting instrument, membership or meeting record held (2026-08)](https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf) | Stalled |
@@ -273,7 +273,7 @@ record: aa5a4a10d26c
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Agence nationale de la Securite des Systemes d'Information | Did not exist | [Created; no budget or staffing published](https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/) | Advanced |
 | Criminal chamber of the national cybercrime pole | Did not exist | [Operational and hearing cases](https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029) | Advanced |
@@ -319,7 +319,7 @@ record: aa5a4a10d26c
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Banking fraud losses | About N$8.7m a year (2020, central bank) | [N$73.9m for 2025, with N$65m lost between January and October 2025](https://itweb.africa/article/namibia-partners-with-banks-to-combat-fraud/Olx4zMka1eyv56km) | Regressed |
 | Detected vulnerabilities and cyber events | 2,231,970 vulnerabilities and 1.7m attacks over calendar 2025, up about 37% year on year | [513,921 vulnerabilities and 161,547 events in April to June 2026, up 39.8% and 56.7% on the prior quarter](https://www.namibian.com.na/cyber-threats-surge-as-namibia-records-half-a-million-vulnerabilities/) | Regressed |

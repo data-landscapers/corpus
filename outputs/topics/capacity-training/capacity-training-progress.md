@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: capacity.training
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: dede1ab50301
+record: 8c7729921b32
 ---
 
 # Training and skills: progress report, 2025-08-01 to 2026-08-21
@@ -248,7 +248,7 @@ record: dede1ab50301
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital-skills programme for 15,000 young people | Did not exist | [Recruitment open under a convention with the Association Kabakoo](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0) | Advanced |
 | Teacher-training institute ICT equipment | Did not exist | [Delivered to eight institutes; no maintenance, connectivity or software provision stated](https://www.unesco.org/fr/articles/lunesco-remet-des-equipements-et-materiels-informatiques-au-ministere-de-leducation-nationale-au) | Advanced |
@@ -285,7 +285,7 @@ record: dede1ab50301
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Government technology staff cyber-skills programme | Did not exist | [Cabinet-approved targeted training in cyber hygiene, incident response and threat intelligence; no delivery, budget or cohort reported at 2026-08-06](https://itweb.africa/article/namibia-cabinet-approves-fresh-proposals-to-combat-cyber-crime/5yONPvEraz37XWrb) | Advanced |
 

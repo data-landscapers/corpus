@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: infra.capacity
 places: BWA; CMR; TCD; COG; GNQ; GHA; GIN; KEN; LSO; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; TZA; ZWE; XSA
-record: 884b2f190a8f
+record: ac3e5d09746a
 ---
 
 # Technical Capacity: progress report, 2025-08-01 to 2026-08-21
@@ -94,7 +94,7 @@ record: 884b2f190a8f
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Capacity committed to the Angolan counterpart | None published | [1.0 Tbps initial dedicated transmission capacity on the subsea system, per the signed agreement](https://techafricanews.com/2026/06/15/telecom-namibia-angola-telecom-and-satcab-sign-sarssy-deal-to-deliver-1-tbps-connectivity-across-southern-africa/) | Advanced |
 

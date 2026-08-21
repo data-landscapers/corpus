@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: geopol.gulf
 places: AGO; BWA; BFA; CAF; CIV; COD; SWZ; MLI; MRT; NAM; NER; SDN; UGA; ZWE
-record: e4b6524edb15
+record: b8ff28a66115
 ---
 
 # Gulf/UAE activities: progress report, 2025-08-01 to 2026-08-21
@@ -59,7 +59,7 @@ record: e4b6524edb15
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | e& Partner2Connect digital-infrastructure pledge | Did not exist | [$6bn committed 2024-2026 across 16 markets including Mali and Niger, undivided between them; no Mali-specific allocation published](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | Advanced |
 
@@ -71,7 +71,7 @@ record: e4b6524edb15
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Gulf-state digital or artificial-intelligence cooperation agreement | Did not exist | [Proposed only: a Bilateral Economic Commission with technology transfer, skills development, industrialisation and manufacturing in its remit; the UAE side raised investment protection and double-taxation agreements; no Gulf-state digital, data-centre or artificial-intelligence agreement is published at 2026-08-09](https://www.nipdb.com/post/namibia-and-the-uae-strengthen-trade-and-investment-ties-at-high-level-business-forum) | Advanced |
 

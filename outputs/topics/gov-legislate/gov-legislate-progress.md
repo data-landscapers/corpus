@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: gov.legislate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: f442f39b6d1c
+record: 194c02d1ebbf
 ---
 
 # Legislation and regulation: progress report, 2025-08-01 to 2026-08-21
@@ -331,7 +331,7 @@ record: f442f39b6d1c
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Data-management law | None published | [Recommended; nothing tabled](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Advanced |
 | Platform-content enforcement instruction | Did not exist | [In force as an instruction, built on existing penal and cybercrime provisions with no new statute](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs) | Advanced |
@@ -361,7 +361,7 @@ record: f442f39b6d1c
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital health bill 52.26 | Did not exist | [A 50-article bill adopted and now publicly opposed by doctors; implementing decrees due within 12 months of publication and provider connection within 24 months of the technical decree; text not published](https://www.hespress.com/%d8%a3%d8%b7%d8%a8%d8%a7%d8%a1-%d9%8a%d8%ad%d8%aa%d8%ac%d9%88%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-1793268.html) | Advanced, contested |
-| Digital X.0 framework bill | Did not exist | [With the general secretariat; three pillars — data governance, sectoral digital identity, and interoperability on traceable consent; no text, article count or tabling date on record](https://cadeproject.org/updates/morocco-introduces-digital-x-0-law-to-drive-ai-governance-and-digital-sovereignty) | Advanced, nothing on record since |
+| Digital X.0 framework bill | Did not exist | [With the general secretariat; three pillars — data governance, sectoral digital identity, and interoperability on traceable consent; no text, article count or tabling date on record](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-drafts-landmark-law-to-govern-ai-data-and-digital-identity) | Advanced, nothing on record since |
 | Electoral organic bill 53.25 | Did not exist | [A new article carries two to five years' imprisonment and a fine of MAD 50,000-100,000, with artificial-intelligence tools enumerated as a means of commission on four offences; candidacy filing and proxy voting via a dedicated electronic platform upheld under articles 154/72; new article 51 bis (fabrication, not mere dissemination) punishes AI-enabled election disinformation with 2-5 years and MAD 50,000-100,000, upheld against a press-freedom challenge](https://www.chambredesrepresentants.ma/sites/default/files/loi/Projet_loi_53.25_0.pdf) | Advanced |
 | Organic laws 54.25 on political parties and 55.25 on electoral lists | Not held | [54.25 constitutionally cleared alongside 53.25, promulgation dahir not yet held; 55.25 institutionalises internet-based electoral-roll registration (resident and expatriate) and bars AI tools and social platforms from publishing referendum poll results, committee-adopted across four sessions 12-27 November 2025](https://www.chambredesrepresentants.ma/ar/RapportLec1-5525) | Advanced |
 | Personal data protection law 09-08 | In force, commission supervising (2025-08) | [In force since 2009; a recast bill is now in the legislative circuit per the regulator's own account (no transmission date or text held), described by the regulator as clarification rather than replacement](https://www.trade.gov/country-commercial-guides/morocco-digital-economy) | Advanced |
@@ -383,7 +383,7 @@ record: f442f39b6d1c
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Corporate Laws Bill 2025 | Did not exist | [At Draft 3 and out for public comment: it consolidates and re-enacts the Companies Act with the business and intellectual property authority as registrar, and clause 114 would require every company, and every external company establishing a place of business in Namibia, to keep in Namibia a register of beneficial owners recording each owner's name, date of birth, identity-document number and residential, business, email and postal addresses; company process is routed through the Electronic Transactions Act](https://www.bipa.na/download/law-reform/) | Advanced |
 | Cybercrime Bill | No bill named on the record; enforcement relying on the electronic transactions statute, the communications statute and the penal code | [Named by the minister as being finalised alongside the data protection bill; no draft published and no tabling date given](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A) | Advanced, marginal |

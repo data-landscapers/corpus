@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: finance.budget
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; RWA; SEN; SDN; TZA; ZMB; ZWE; XAF; XWA
-record: f5c1bf43b8a0
+record: 1bfb7df36d68
 ---
 
 # Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-21
@@ -212,7 +212,7 @@ record: f5c1bf43b8a0
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Universal access fund budget | FCFA 41,151,471,000 adopted for 2026 | [Cut 32% to FCFA 27,886,688,000 on 23 July 2026, after 8% of the annual budget was spent in the first half](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/) | Regressed |
 

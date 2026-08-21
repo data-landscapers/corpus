@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: digital.rural
 places: BDI; CAF; COG; EGY; SWZ; GIN; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; SLE; TGO; ZMB; ZWE
-record: 99ebf3eca6b7
+record: 22eaac7ca4da
 ---
 
 # Rural digital data capture: progress report, 2025-08-01 to 2026-08-21
@@ -68,7 +68,7 @@ record: 99ebf3eca6b7
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Rural and white-zone coverage | No white-zone map published | [An updated universal-access strategy with a white-zone map recommended, against a 2030 universal connectivity target](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Advanced |
 
@@ -81,7 +81,7 @@ record: 99ebf3eca6b7
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Satellite connectivity partnership with Angola | A proof of concept under way; discussions began June 2025 | [A pilot commercial agreement between the state fixed operator and Angola's space agency, with full commercial launch targeted after the pilot](https://itweb.africa/article/namibia-angola-ink-satellite-deal-for-regional-connectivity/G98YdqLGjVoMX2PD) | Advanced |
 

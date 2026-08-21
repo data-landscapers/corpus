@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: bf83d3df0a89
+record: 40bbcc060156
 ---
 
 # Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-21
@@ -147,7 +147,7 @@ record: bf83d3df0a89
 | National digital plan 2026-2030 | Did not exist | [A US$1.5bn envelope: US$1bn of treasury investment over five years plus US$500m of external partner support; no finalised published plan document is locatable](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/numerique-la-rdc-annonce-l-operationnalisation-d-un-financement-de-500-millions) | Advanced |
 | Reorganisation of the digital mandate in the 2026 finance law | One section titled posts, telecommunications and new technologies and another titled digital | [The first renamed posts and telecommunications and the second renamed digital economy, with credits moving from FC 145.7bn to FC 55.1bn and from FC 60.6bn to FC 226.7bn](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | Advanced |
 | Sectoral digital economy policy 2026-2030 | Did not exist | [Validated and referred to the Council of Ministers for adoption, on axes covering infrastructure, digital transformation of the administration, the digital economy, innovation and start-ups, cybersecurity, and data governance; not published, not costed and not budgetable](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/) | Advanced |
-| National strategy for mobile and broadband coverage | Baseline not held | [A National Connectivity Strategy 2026-2035 built on a shared-infrastructure model led by a tower company, with subsidy agreements signed with the four mobile operators to extend service to 40 underserved localities covering about 258,000 people, and a target of 3,000 localities and 16 million people by 2030](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html) | ***Baseline not held*** |
+| National strategy for mobile and broadband coverage | Baseline not held | [A National Connectivity Strategy 2026-2035 built on a shared-infrastructure model led by a tower company, with subsidy agreements signed with the four mobile operators to extend service to 40 underserved localities covering about 258,000 people, and a target of 3,000 localities and 16 million people by 2030; the fund's own strategy pages publish the operative selection framework - a 100-point priority index weighting strategic class 30, coverage deficit 20, population density 15, public infrastructure 15, local economic potential 10 and technical-financial feasibility 10, with localities above 60 points classed for immediate deployment - alongside rules confining subsidy to sites where an operator demonstrates a negative return over four years and imposing national roaming between all operators on sites scoring above 70](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html) | ***Baseline not held*** |
 
 ## Egypt
 
@@ -294,7 +294,7 @@ record: bf83d3df0a89
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Conseil national du Numerique | Did not exist | [Recommended; not constituted](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Advanced |
 | Declaration de Ouagadougou on the digital economy | Did not exist | [Adopted, recommending WAEMU governments put digital at the centre of national strategies](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/) | Advanced |
@@ -333,7 +333,7 @@ record: bf83d3df0a89
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Artificial-intelligence legislation | ***Baseline not held*** | [Announced as following the strategy; nothing drafted or tabled](https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r) | ***Baseline not held*** |
 | National artificial-intelligence strategy | ***Baseline not held*** | [Under development through the research council's working group and its technical advisory committees, with consultations begun; no draft published, and the ministry states the strategy is sequenced ahead of legislation](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | ***Baseline not held*** |

@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: data.open
 places: BEN; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; KEN; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
-record: 982544c5c216
+record: 0b8e013645b6
 ---
 
 # Open data: progress report, 2025-08-01 to 2026-08-21
@@ -127,7 +127,7 @@ record: 982544c5c216
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Access to Information Act 8 of 2022 and the Information Commissioner | Gazetted, not in force | [Gazetted and not commenced: section 86 leaves commencement to a date determined by the Minister, no commencement notice is held, and no Information Commissioner has been appointed; appointment machinery was itself gazetted 2024-12-09 under section 6(9), setting five-year Selection Committee terms and a five-member quorum, made ahead of the Act's own commencement, so the annual report required by section 18 cannot yet exist](http://www.lac.org.na/laws/2022/7986.pdf) | Advanced, Act still not commenced |
 | CityMender infrastructure reporting platform | ***Baseline not held*** | [A free application taking public reports of more than thirty kinds of infrastructure and service-delivery fault onto a mapped national dataset, with automatic facial and licence-plate redaction](https://www.we.com.na/local-news-we/citymender-namibia-partners-with-windhoek-express-to-build-a-smarter-namibia-nmh015440-4-19157) | ***Baseline not held*** |

@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 3fbf03bf05d3
+record: 6079dcd23b0b
 ---
 
 # Data Exchange: progress report, 2025-08-01 to 2026-08-21
@@ -232,7 +232,7 @@ record: 3fbf03bf05d3
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National public key infrastructure and e-signature services | None published | [Recommended; no first service named](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Advanced |
 | Customs systems interconnection for goods in transit | Not held | [A pilot exchanging transit-goods data with Ivorian customs is running, framed by the customs administration as cutting fraud and transit delays; no completion date for the full interconnection is given](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/) | ***Baseline not held*** |
@@ -270,7 +270,7 @@ record: 3fbf03bf05d3
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Governmental interoperability solution | Delivered 2016; no operational status published | [No operational status published at 2026-08-06](https://ega.ee/project/governmental-interoperability-in-namibia/) | No change, last statement 2016 |
 | Inter-ministry data-exchange platform | Being deployed | [No record since 2025-09-03](https://www.undp.org/namibia/blog/season-3-namibias-digital-identity-journey-vision-reality) | No change, no later record |

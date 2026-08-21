@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e658b76dcb90
+record: 5aa798766be0
 ---
 
 # ICT Industry: progress report, 2025-08-01 to 2026-08-21
@@ -192,7 +192,7 @@ record: e658b76dcb90
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | State shareholding in SOTELMA | 49% state-held with Maroc Telecom in majority control | [56% state-held, Maroc Telecom cut to a minority, licence renewed](https://africa.businessinsider.com/local/lifestyle/17-years-after-privatization-mali-regains-control-of-a-strategic-telecom-asset/lkc81zm) | Advanced |
 
@@ -224,7 +224,7 @@ record: e658b76dcb90
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Space Science and Technology Bill drafting approval | Drafting approved by cabinet; no text published | [Drafting approved; no bill, text or timetable published at 2026-08-06](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | No change |
 

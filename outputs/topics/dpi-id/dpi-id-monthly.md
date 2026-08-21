@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2026-07-01 to 2026-08-21
 subject: dpi.id
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 32e107ec08da
+record: ac65aafd10c7
 ---
 
 # Digital Identity and CRVS: monthly update, July 2026
@@ -172,7 +172,7 @@ The social registry has run an appeals process since it opened in early 2024, an
 
 ## Senegal
 
-Consolidated agency data at 17 July records [437 of 629 civil-status centres fully deployed, 112 of them running the citizen-facing service](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI); on 13 July the agency reported [15.3m records loaded](https://apanews.net/senegals-anec-digitizes-more-than-15-million-birth-records/).
+Consolidated agency data at 17 July records [437 of 629 civil-status centres fully deployed, 112 of them running the citizen-facing service](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI); on 13 July the agency reported [15.3m records loaded](https://africabusinessinsight.com/senegal-digitizes-more-than-15-million/).
 
 Deployment moved again in August, and the agency put a frame around it. At African Civil Registration Day in Kaolack on 10 August it [launched phase four of its remediation plan and put deployment at 74% of centres, up from 70% five days earlier, with the citizen request platform live in 189 communes](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), phase four extending to Kaffrine and Tambacounda; its director-general described civil registration as an instrument of sovereignty.
 

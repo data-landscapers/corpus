@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 484e1c409a3e
+record: 9ad5859c00f8
 ---
 
 # Regional collaboration: progress report, 2025-08-01 to 2026-08-21
@@ -235,7 +235,7 @@ record: 484e1c409a3e
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | AES protocol on AI governance | Did not exist | [Recommended between the three confederation states; no text](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Advanced |
 | Membership of the African Telecommunications Union board | Board member | [Re-elected for 2027-2031](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) | Advanced, re-elected |
@@ -251,7 +251,7 @@ record: 484e1c409a3e
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
-| AFRINIC board and receivership | ***Baseline not held*** | [The continental internet registry, seated in Mauritius, named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised; the appeal court then set aside its 28 September 2023 appeal for lack of corporate authority without ruling on the official receiver's permission or on statutory leave, leaving the authority chain from election through appointment to quorum unresolved and the receiver undischarged](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided) | ***Baseline not held*** |
+| AFRINIC board and receivership | Under an appeal-court order of 15 October 2024 directing the Official Receiver to complete the board election within two months, in substitution for the six months ordered in September 2023; no reconstituted board at the window's start | [The continental internet registry, seated in Mauritius, named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised; the appeal court then set aside its 28 September 2023 appeal for lack of corporate authority without ruling on the official receiver's permission or on statutory leave, leaving the authority chain from election through appointment to quorum unresolved and the receiver undischarged; the appeal court had directed that the reconstitution be completed within two months of its judgment of 15 October 2024, describing it as a matter of utmost urgency, so the September 2025 appointments came some nine months past that deadline](https://www.wilberforce.co.uk/wp-content/uploads/2024/11/african-network-informtion-centre-afrinic-ltd-v-cloud-innovation-ltd-anor-2024-scj-473.pdf) | Advanced, authority chain unresolved |
 
 ## Morocco
 
@@ -274,7 +274,7 @@ record: 484e1c409a3e
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Namibia's seat on an international artificial-intelligence commission | Did not exist | [The ICT minister is one of eight Africans on a 44-member commission](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/) | Advanced |
 | Namibia-Angola information technology and media memorandum | Did not exist | [Covers joint events, exchange of expertise and cybersecurity; no amount or instrument named](https://techafricanews.com/2026/06/11/namibia-and-angola-join-forces-to-accelerate-digital-transformation/) | Advanced |
@@ -414,8 +414,8 @@ record: 484e1c409a3e
 | Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | AfCFTA Protocol on Digital Trade | Adopted by the AU Assembly in 2024, with a Digital Identity Annex adopted in February 2025 and no implementation forum held | [State parties committed to expedite ratification and domestication under eight calls to action; no ratification count is published with them; the calls carry no enforcement mechanism, no ratification deadline and no named financing](https://www.biometricupdate.com/202607/african-nations-recommit-to-operationalize-afcfta-digital-single-market-framework) | Advanced |
+| AFRINIC governance and receivership | Under an appeal-court order of 15 October 2024 directing the Official Receiver to complete the board election within two months, in substitution for the six months ordered in September 2023; no reconstituted board at the window's start, six months past that deadline | [The regional internet registry named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised; the purported board and the undischarged receiver announced close collaboration from 13 October 2025 without publishing which office could sign, pay or veto, and no court order, delegation, bank mandate or responsibility matrix has been located behind it; the receiver appointed an audit firm on 13 October 2025 to audit three overdue financial years without an annual meeting, with no published appointment date, executed instrument, statutory route, remuneration decision or independence review; ordinary resolutions on US$3.29m of disputed legal spending, put to the June 2026 annual meeting, were still unresolved on the public record 46 days later; six regional members were named to a bylaws review committee without disclosing which constituents each represents; a member's challenge to the board's ratification of a policy draft remains open with an interim application declined and no reasoned merits decision; the appeal court set aside the registry's 2023 appeal for want of corporate authority without ruling on the receiver's permission or on statutory leave; and a governance committee of three elected and two board-appointed voting members was constituted on 17 August 2026 on terms running to the ends of 2027, 2028 and 2029](https://afrinic.net/constitution-of-the-afrinic-governance-committee.html) | Advanced, authority chain unresolved |
 | Algiers Declaration on African Telecommunications Sovereignty and Integrated Connectivity 2026-2030 | Did not exist | [Adopted as a continental position on integrated terrestrial, submarine and satellite infrastructure, local data centres, exchange points and cybersecurity; no work programme or text held](https://techreviewafrica.com/news/4639/african-ministers-adopt-algiers-declaration-on-telecommunications-sovereignty-and-connectivity) | Advanced |
-| AFRINIC governance and receivership | ***Baseline not held*** | [The regional internet registry named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised; the purported board and the undischarged receiver announced close collaboration from 13 October 2025 without publishing which office could sign, pay or veto, and no court order, delegation, bank mandate or responsibility matrix has been located behind it; the receiver appointed an audit firm on 13 October 2025 to audit three overdue financial years without an annual meeting, with no published appointment date, executed instrument, statutory route, remuneration decision or independence review; ordinary resolutions on US$3.29m of disputed legal spending, put to the June 2026 annual meeting, were still unresolved on the public record 46 days later; six regional members were named to a bylaws review committee without disclosing which constituents each represents; a member's challenge to the board's ratification of a policy draft remains open with an interim application declined and no reasoned merits decision; the appeal court set aside the registry's 2023 appeal for want of corporate authority without ruling on the receiver's permission or on statutory leave; and a governance committee of three elected and two board-appointed voting members was constituted on 17 August 2026 on terms running to the ends of 2027, 2028 and 2029](https://afrinic.net/constitution-of-the-afrinic-governance-committee.html) | ***Baseline not held*** |
 
 | Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|

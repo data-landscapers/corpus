@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: data.statistics
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SSD; TUN; UGA; ZWE; XSA; XWA
-record: 2253876fb08f
+record: 3356043fad7e
 ---
 
 # National statistics: progress report, 2025-08-01 to 2026-08-21
@@ -197,7 +197,7 @@ record: 2253876fb08f
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | INSTAT microdata catalogue | None published | [NADA microdata archive under INSTAT's own domain holding 107 studies, led by the 2022 census (RGPH5) and near-annual agricultural surveys since 1996/1997](https://microdata.instat.ml/index.php/catalog/) | Advanced |
 | Mali's share of UEMOA electronic money | 12.1% of Union transaction value (2023) | [11.7% of Union value and 10.7% of volume in 2024, on 18.58% volume growth and 7.29% of accounts opened](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | Advanced, share of the Union down |
@@ -221,7 +221,7 @@ record: 2253876fb08f
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Namibia Statistics Agency Strategic Plan 2022/23-2026/27 | Did not exist | [In force for 2022/23-2026/27: four strategic focus areas - statistical coordination (including National Spatial Data Infrastructure coordination), sustainability (adequate government funding), institutional reform and innovation (including alternative data sources), and professionalism; the plan states funding was relatively adequate until about 2016 and records the population census slipping from August 2021 and again from August 2022 for want of funds](https://nsa.org.na/wp-content/uploads/2024/06/STRATEGIC-PLAN-2022-to-2027-HRE-1.pdf) | Advanced |
 | National strategy for the development of statistics | Did not exist | [In force covering 2023/24-2026/27: four goals - better use of statistics for policy, efficient and effective data processes, a better funded national statistics system, and improved statistical integration with spatial data - resting on ten first-phase sector statistics plans (education, environment, tourism, the revenue authority, child care and protection, health, industrial development, labour, agriculture and the NSA itself); total implementation cost N$58,995,000 over four years off a 2019 baseline, drafted with AfDB, Paris21, UNDP and UNFPA support and stated to be aimed at improving Namibia's World Bank Statistical Capacity Indicator rating](https://nsa.org.na/wp-content/uploads/2024/06/NSDS-Report.pdf) | Advanced |

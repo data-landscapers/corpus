@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 37e09ca66c70
+record: 1d1a221254a7
 ---
 
 # AI: progress report, 2025-08-01 to 2026-08-21
@@ -270,7 +270,7 @@ record: 37e09ca66c70
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Francophone West African AI governance guidelines | Did not exist | [Adopted, led by the advocacy organisation Niyel and announced at the Global Dialogue on AI Governance](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
 | MIA operator AI assistant | Did not exist | [Launched by Moov Africa Malitel](https://www.ecofinagency.com/news-digital/1506-56460-moov-africa-upgrades-fiber-service-amid-rising-internet-use-in-mali) | Advanced |
@@ -315,7 +315,7 @@ record: 37e09ca66c70
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Artificial-intelligence readiness assessment | Completed (2025) | [Completed; the findings were restated by the research council's authors on 2026-02-16](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | No change |
 | Artificial-intelligence working group of the research council | Operating; contributed to the artificial-intelligence readiness assessment | [Operating; runs the national strategy process](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf) | No change |

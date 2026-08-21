@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: geopol.india
 places: AGO; BDI; TCD; CIV; EGY; ETH; KEN; LSO; LBY; MOZ; NAM; RWA; ZMB
-record: 60a8e62ee35a
+record: c70c16631210
 ---
 
 # India activities: progress report, 2025-08-01 to 2026-08-21
@@ -77,7 +77,7 @@ record: 60a8e62ee35a
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | PARAM HPC cluster at NUST | Did not exist | [A 5-node C-DAC PARAM HPC cluster (17.7 TF Rpeak, 5,320 cores, 480 GB memory, 100 TB storage plus 54 TB backup) specified for deployment at NUST, Windhoek, under the India-Namibia Centre of Excellence in Information Technology; no operator, cost or opening date is published, and this is a university research cluster, not a national facility](https://inceit.nust.na/param-hpc) | Advanced |
 | India bilateral cybersecurity and digital-economy cooperation | Not held | [Advanced at the fourth joint trade committee in New Delhi on 12 August 2026, building on a memorandum signed by the two heads of government in July 2025; bilateral trade is put at more than US$592m in 2025/26](https://cajnewsafrica.com/2026/08/12/namibia-solidifies-cybersecurity-digital-ties-with-india/) | ***Baseline not held*** |

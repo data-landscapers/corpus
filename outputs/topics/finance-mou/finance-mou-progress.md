@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: finance.mou
 places: DZA; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MWI; MRT; MAR; RWA; SEN; SYC; SSD; TZA; TGO; UGA; ZMB; ZWE; XAF
-record: a113d410d42c
+record: 06e2bf51c009
 ---
 
 # MoUs and other agreements: progress report, 2025-08-01 to 2026-08-21
@@ -27,7 +27,7 @@ record: a113d410d42c
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
-| Orange Botswana and special economic zones memorandum | Did not exist | [A framework for connected utilities, smart security, digital platforms and connectivity in special economic zones; no value stated](https://techafricanews.com/2026/03/17/orange-botswana-and-seza-collaboration-to-power-digital-economic-expansion/) | Advanced |
+| Orange Botswana and special economic zones memorandum | Did not exist | [A framework for connected utilities, smart security, digital platforms and connectivity in special economic zones; no value stated](https://www.wearetech.africa/en/fils-uk/news/tech/orange-botswana-seza-sign-deal-to-upgrade-digital-infrastructure) | Advanced |
 
 ## Burundi
 

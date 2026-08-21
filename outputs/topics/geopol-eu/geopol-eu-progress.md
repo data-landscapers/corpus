@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: geopol.eu
 places: DZA; BWA; BFA; CPV; CAF; COM; COG; EGY; GHA; GIN; KEN; MLI; MAR; NAM; NER; NGA; UGA; XAF
-record: 585f45ccdd00
+record: 03e61f64b85a
 ---
 
 # EU activities: progress report, 2025-08-01 to 2026-08-21
@@ -85,7 +85,7 @@ record: 585f45ccdd00
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | EU multiannual indicative programme 2021-2027 | EUR 151m committed 2021-2024 for growth and green economy, and human development and youth | [No dedicated 2025-2027 Mali country programme; funded instead from the complex-settings allocation for the central Sahel, with no digital or data-governance activity named in either tranche](https://international-partnerships.ec.europa.eu/countries/mali_en) | Regressed |
 
@@ -98,7 +98,7 @@ record: 585f45ccdd00
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | European Union Multi-Annual Indicative Programme 2021-2027 | In force; EUR 26,000,000 indicative for 2025-2027, with nil for foundational skills education | [In force with no digital priority area: digitalisation is listed as a cross-cutting priority, the named digital offer is support to the Namibian Parliament's e-Parliament blueprint, and the 2025-2027 allocation set at the mid-term review is EUR 26,000,000 - inclusive green growth 20, good governance and gender equality 2, support measures 4, foundational skills education nil](https://international-partnerships.ec.europa.eu/system/files/2022-01/mip-2021-c2021-9055-namibia-annex_en.pdf) | No change |
 

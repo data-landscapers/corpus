@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; COD; EGY; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MAR; NAM; NER; RWA; STP; SEN; SYC; ZAF; TZA; TGO; UGA; ZMB; ZWE; XWA
-record: 6dc6289ce1e3
+record: 8a64eb5b903d
 ---
 
 # Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-21
@@ -114,7 +114,7 @@ record: 6dc6289ce1e3
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Speech prosecutions before the cybercrime pole | None on file | [Chahana Takiou, publication director of 22 septembre, sentenced to 12 months with six suspended](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac) | Regressed |
 
@@ -134,7 +134,7 @@ record: 6dc6289ce1e3
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Published draft and consultation record of the Data Protection Bill | Did not exist | [A dated consultation record: the ministry opened public input on the draft Data Protection Bill on 2022-10-26 with a closing date of 2022-11-30, addressed to two named ministry officers; the ACTION Namibia Coalition filed a submission on the closing date, compiled by ALT Advisory and funded by the Embassy of Finland through IPPR's Democracy Report project; IPPR published the same argument as a public paper on 2022-12-14, arguing the sections on the Supervisory Authority's independence need substantial redrafting and that offences and penalties provisions are undeveloped; no ministry-published list of respondents is held, and no further consultation activity is on record since](https://action-namibia.org/government-seeks-public-input-on-draft-data-protection-bill/) | Advanced |
 

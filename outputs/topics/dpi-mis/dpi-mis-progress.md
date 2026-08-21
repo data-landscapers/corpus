@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: 777e694f3ba5
+record: ae89ed98d02f
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-21
@@ -242,7 +242,7 @@ record: 777e694f3ba5
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National digital health portal | Did not exist | [Live with facility geolocation; power, urban-rural divide and interoperability flagged as obstacles](https://techgriot.co/english/african-tech/2026/07/mali-launches-a-national-digital-portal-to-modernize-healthcare-access/) | Advanced |
 | OpenClinic health information system | Did not exist | [In build; stated to link to the NINA and to mandatory health insurance](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) | Advanced |
@@ -276,7 +276,7 @@ record: 777e694f3ba5
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital Community System for community health workers | None published; the base carried only the national electronic health strategy 2021-2025 | [A mobile application for community health workers in preparation, with phased deployment and paper and digital running in parallel](https://neweralive.na/health-prepares-for-digital-system-rollout/) | Advanced |
 | National Digital Health Policy 2026-2036 | Did not exist | [Launched 2026-02-06 as a ten-year framework developed by the health ministry with World Health Organization technical support, naming interoperability across health information systems, service delivery, governance and evidence-based decision-making as the problem it addresses; no funding, implementation plan or target is published](https://www.afro.who.int/countries/namibia/news/namibia-launches-national-digital-health-policy-advance-equitable-people-centred-healthcare) | Advanced |

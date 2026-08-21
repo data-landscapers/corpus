@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 0810a5fb883d
+record: bf0a6e694b41
 ---
 
 # Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-21
@@ -360,7 +360,7 @@ record: 0810a5fb883d
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Digital pension payment | Mobile pension payment live | [Bank-channel pilot complete and reported ready for phased rollout to other partner banks](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/) | Advanced |
 | Moov Money prepaid Mastercard | Did not exist | [Live, the second telco-led card](https://afrique.le360.ma/economie/gitex-africa-2026-a-marrakech-moov-money-mali-lance-sa-carte-prepayee-co-brandee-en-partenariat-avec_BSK7BUJUVFG2PCVQA4FSPVIXRA/) | Advanced |
@@ -409,7 +409,7 @@ record: 0810a5fb883d
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Declaration of intent on instant payments integration | Did not exist | [Signed to integrate instant payments with the national clearing infrastructure through the interbank settlement system; no deliverables, funding or timetable published](https://techafricanews.com/2026/07/02/bank-of-namibia-ipn-and-namclear-sign-pact-to-strengthen-instant-payments/) | Advanced |
 | Instant Payment Solution | In build; core-banking integration tested and user-acceptance testing under way | [Operational from June 2026 after a live pilot, with a phased national rollout and government-to-person social grants the first use case](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/) | Advanced |
@@ -663,8 +663,9 @@ record: 0810a5fb883d
 |---|---|---|---|
 | Banks and countries connected to PAPSS | 28 banks within nine months of launch, against an ambition of all 500 to 600 African banks (2022) | [28 countries and over 190 banks and financial-technology firms connected, with the Central African central bank acceding in July 2026 and the West African central bank's pilot pending; connecting the EAC, West, Central and Southern African regional systems is put at reaching more than 60% of African countries, and no continent-wide transaction value is published (2026-08)](https://techcabal.com/2026/08/17/africa-is-building-a-single-payments-market-but-its-currencies-remain-divided/) | Advanced |
 | CARICOM Payment and Settlement System (CAPSS) | Did not exist; modelled on PAPSS since CARICOM governors' unanimous October 2023 selection | [Proof of concept complete in two countries; the ECCB Governor says at least two more central banks are needed for the initial pilot; not commercially operational, with settlement, FX, liquidity, AML and interoperability arrangements unresolved](https://www.truthng.com/caricom-prepares-papss-inspired-local-currency-payment-system/) | Advanced |
-| Pan-African Payment and Settlement System (PAPSS) | Operating from January 2022 across West and East African cores, with no Central African central bank participating | [Extended into Central Africa by the BEAC's accession, wired into a national switch in Kenya for the first time, and carrying a wallet-based Nigeria-to-Ghana rail settled in naira](https://www.financialafrik.com/en/2026/07/11/beac-joins-papss-and-accelerates-cross-border-payments-integration-in-central-africa/) | Advanced |
+| Pan-African Payment and Settlement System (PAPSS) | Operating from January 2022 across West and East African cores, with no Central African central bank participating | [Extended into Central Africa by the BEAC's accession, wired into a national switch in Kenya for the first time, and carrying a wallet-based Nigeria-to-Ghana rail settled in naira](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/) | Advanced |
 | PAPSSCARD | Did not exist | [A continental card scheme launched to route African card payments inside the continent rather than through global networks; no issuance, volume or country coverage held](https://www.vanguardngr.com/2026/01/nigerias-papss-cross-border-payments-falls-53-to-n5-6bn/) | Advanced |
+| UnionPay online acceptance through Standard Bank | A collaboration between the two parties dating from 2024, with no merchant count published | [Online-payment acceptance for nearly 900 merchants across Botswana, Ghana, Kenya, Malawi, Namibia, Tanzania, Uganda, Zambia and Zimbabwe, settling in local currency, US dollars or both, against a stated African footprint of about 7 million UnionPay cards issued](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Advanced |
 | Cost of sending money within Africa | Baseline not held | [Put at 8.78% of the amount sent against the SDG target of 3% (2026-08)](https://techcabal.com/2026/08/17/africa-is-building-a-single-payments-market-but-its-currencies-remain-divided/) | ***Baseline not held*** |
 | Stablecoin settlement rails serving African cross-border payments | Not held | [Described by a pan-African payments operator's product chief as moving from speculative use into the plumbing of remittances and business settlement, on the evidence of Mastercard's agreement to acquire BVNK at up to US$1.8bn and Visa's stablecoin-card expansion through Stripe's Bridge into more than 100 countries, African markets among them; a first named African deployment is Flutterwave's tie-up with Caliza offering USD accounts with USDC and USDT conversion](https://techafricanews.com/2026/08/13/flutterwave-and-caliza-partner-to-expand-global-payment-access-for-african-businesses/) | ***Baseline not held*** |
 

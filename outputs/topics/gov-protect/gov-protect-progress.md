@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: gov.protect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 4a5ab7734159
+record: eb8522bb7e8d
 ---
 
 # Data protection: progress report, 2025-08-01 to 2026-08-21
@@ -275,7 +275,7 @@ record: 4a5ab7734159
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Autorite de Protection des Donnees a caractere Personnel | Reviewing about 2,000 declaratory files; one 5m FCFA fine and more than 100 formal notices in 2025 | [More than 1,000 files before a ten-day session, with a Segou regional antenna open](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | Advanced |
 | Mandatory lease-declaration decree | None published | [Draft; no adoption on record](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/) | Advanced |
@@ -323,7 +323,7 @@ record: 4a5ab7734159
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Gazette notice withdrawing existing identity documents | Did not exist | [Named by the home affairs ministry as the instrument that will end the validity of pre-independence cards, older identity documents and current machine-readable cards; not issued](https://informante.web.na/?p=398234) | Advanced |
 | Data-subject rights provisions of the Data Protection Bill | Recorded as removed on a research institute's account; neither draft held | [Established from the drafts themselves: the 2020 version carries Part III, "Rights of the Data Subject", sections 8 to 14, together with Part VII on recourse to the judicial authority and Part VIII on offences and penalties, none of which appears in the 59-page, eight-Part version the ministry published for comment in March 2022, where access and correction survive only as controller obligations at sections 31 and 32](https://www.namibiansun.com/local-news/data-protection-bill-returns-to-parliament2025-08-18167195) | No change |

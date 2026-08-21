@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 66edeb344be6
+record: 2b2bbde2bd5e
 ---
 
 # Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-21
@@ -309,7 +309,7 @@ record: 66edeb344be6
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Cahier de recensement village register | Governed by Loi n06-023 of 28 June 2006 | [Formalised in a draft ordinance replacing the 2006 statute, still a hand-kept village ledger](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-29-sgg/) | Advanced |
 | CIB-AES biometric identity card | Did not exist | [Piloted on Malian soil for Burkinabe residents; no Malian enrolment figure published](https://afriktimes.info/2026/06/02/aes-diaspora-identification-successful-pilot-phase-in-bamako-for-the-instant-production-of-documents/) | Advanced |
@@ -339,7 +339,7 @@ record: 66edeb344be6
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Biometric passport decree 2.26.551 | The 2008 decree regime; address on the biodata page; temporary passports issued | [Four languages including Amazigh, an encrypted chip to international civil aviation standard, the address removed and temporary passports abolished; the current format continues during a transitional period](https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html) | Advanced |
-| Idarati X.0 national digital wallet | Did not exist | [Eight conventions signed and two vendors engaged on architecture; a six-month build stated; binds the social security fund, the road safety agency, the land registry, transport and youth and culture on a card-authenticated core](https://www.ecofinagency.com/news-digital/1302-52886-morocco-launches-next-generation-e-government-platform-idarati-x-0) | Advanced |
+| Idarati X.0 national digital wallet | Did not exist | [Eight conventions signed and two vendors engaged on architecture; a six-month build stated; binds the social security fund, the road safety agency, the land registry, transport and youth and culture on a card-authenticated core](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-strengthens-e-government-architecture-with-idarati-x-0) | Advanced |
 | Mon e-ID digital identity application | In service under Digital Morocco 2030; no user figure held (2025-08) | [2.5m users and over 7m transactions since April 2022 (2025-09); authenticates the national digital wallet (2026-02)](https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks) | Advanced |
 | Online identity-card renewal | Did not exist | [Pre-fill, document upload, residency-certificate tracking and stamp-fee payment online; biometric capture remains in person](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-digitizes-national-id-renewal-process) | Advanced |
 | Electronic national identity card | 4.6m cards issued in 2024; 71 centres at diplomatic missions, 219,408 cards for citizens abroad | [Same 2024 figures; no 2025 or 2026 issuance count held](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024) | No change |
@@ -358,7 +358,7 @@ record: 66edeb344be6
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Electronic identity fee schedule | None published | [Free at the point of issue for first-time applicants, renewals of expired cards, amendments and holders replacing cards carrying errors; a first duplicate costs N$150 and a second N$300](https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/) | Advanced |
 | Electronic identity public awareness campaign | The campaign opened in Khomas; a conference on digital legal identity held in Windhoek 2025-06-26 | [Regional outreach by home affairs with a development agency and the regulator, with a brand ambassador running sessions in local languages](https://neweralive.na/e-ids-outreach-kicks-off-in-omaheke/) | Advanced |
@@ -421,7 +421,7 @@ record: 66edeb344be6
 | Civil-status software deployment across centres | 235 of about 400 centres connected and operational, 383 installed (2025-08) | [74% of civil-status centres fully deployed, up from 70% reported five days earlier, with the citizen-facing request service live in 189 communes; the agency launched phase four of its remediation plan on 10 August 2026, extending to Kaffrine and Tambacounda](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/) | Advanced |
 | Civil-status archive digitisation | 20m acts digitised and indexed against a 30m universe, 10m remaining (2025-08) | [Still 20m of 30m; no later national figure is held](https://www.child-identity.org/wp-content/uploads/2025/07/PRESENTATIONETATSENEGAL-Aliou-Sall.pdf) | No change |
 | National identity card production | Issuing; the biometric card made the sole accepted proof of identity for voter registration (2025-02) | [Issuing again from 2026-04-01, with enrolment restarting progressively across centres and overseas missions](https://aps.sn/la-daf-annonce-la-reprise-de-la-confection-des-cartes-nationales-didentite-depuis-le-1er-avril/) | No change, restored after a two-month suspension |
-| Live civil-registration database load | ***Baseline not held*** | [15.3m civil-status records in the live national register](https://apanews.net/senegals-anec-digitizes-more-than-15-million-birth-records/) | ***Baseline not held*** |
+| Live civil-registration database load | ***Baseline not held*** | [15.3m civil-status records in the live national register](https://africabusinessinsight.com/senegal-digitizes-more-than-15-million/) | ***Baseline not held*** |
 
 ## Seychelles
 

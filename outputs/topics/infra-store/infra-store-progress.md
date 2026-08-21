@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: infra.store
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: c2c317a08546
+record: dd7fce813b78
 ---
 
 # Data Storage: progress report, 2025-08-01 to 2026-08-21
@@ -252,7 +252,7 @@ record: c2c317a08546
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Tier III National Data Centre | Did not exist | [In service, hosting state data and framed to carry mutualised AES infrastructure](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako) | Advanced |
 
@@ -302,7 +302,7 @@ record: c2c317a08546
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | National and public data centre | None published | [A concept note and project proposal directed to the ministry and the Office of the Prime Minister; no site, capacity, cost or date published at 2026-08-06](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) | Advanced, no dates set |
 | Vendor-built national data centre for artificial-intelligence workloads | None published | [A vendor building smart-city solutions and a data centre with the ICT and home affairs ministries; China committed CNY 98,000,000, given by the source as about US$14.4m on 2026-07-08](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m) | Advanced |

@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: data.satellite
 places: DZA; AGO; BWA; BFA; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; LBR; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
-record: e5ec7dc62036
+record: 31bf7a2e2116
 ---
 
 # Use of satellite data: progress report, 2025-08-01 to 2026-08-21
@@ -124,7 +124,7 @@ record: e5ec7dc62036
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Satellite data-receiving ground station | Did not exist | [In operation, Namibia's first such facility, receiving remote-sensing data and operated by fourteen trained Namibians](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | Advanced |
 | Space Science and Technology Bill | Drafting approved in 2025; no text published | [No text or introduction date published at 2026-08-06](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj) | No change, no draft published |

@@ -4,7 +4,7 @@ compiled: 2026-08-21
 period: 2025-08-01 to 2026-08-21
 subject: include.divides
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GHA; GIN; GNB; KEN; LBR; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; TZA; TGO; UGA; ZWE; XAF; XSA
-record: 42b7fcc0d86b
+record: c43528450a68
 ---
 
 # Digital divides: progress report, 2025-08-01 to 2026-08-21
@@ -96,7 +96,7 @@ record: 42b7fcc0d86b
 
 | System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
-| Universal service fund pilot sites | The fund created by law in November 2020 and, per a named civil-society officer, still not available | [Subsidy conventions signed with four operators for a first tranche of 40 localities (about 258,000 people); a national diagnostic published 2026-08-07 finds nearly 3,000 uncovered localities (about 4.3m people) against national coverage of 77% 2G, 68% 3G and 57% 4G (September 2025); a second phase of 300 sites (about 1.8m people) is planned, with a 2030 target of 3,000 localities, 16m people and 100 digital community centres](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) | Advanced |
+| Universal service fund pilot sites | The fund created by law in November 2020 and, per a named civil-society officer, still not available | [Subsidy conventions signed with four operators for a first tranche of 40 localities (about 258,000 people); a national diagnostic published 2026-08-07 finds nearly 3,000 uncovered localities (about 4.3m people) against national coverage of 77% 2G, 68% 3G and 57% 4G (September 2025); a second phase of 300 sites (about 1.8m people) is planned, with a 2030 target of 3,000 localities, 16m people and 100 digital community centres; the fund numbers the first 40 as a preparatory phase 0 drawn from the four operators' own proposals, ten each, and the roughly 300 sites as phase 1, spread across five fund zones and carrying targeted community digital centres for literacy and access](https://actualite.cd/2026/06/02/kongo-central-le-fdsu-lance-ses-premiers-sites-pilotes-de-connectivite-et-pose-les-bases) | Advanced |
 | Population without mobile coverage | Baseline not held | [About 4.3 million people in nearly 3,000 localities without mobile coverage; national 2G coverage 77%, 3G 68% and 4G 57%, ranging from about 98% in Kinshasa to 14% in Tshuapa and 28% in each of Kwango and Sud-Ubangi (2026-08-07)](https://techafricanews.com/2026/08/14/dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas/) | ***Baseline not held*** |
 
 ## Egypt
@@ -180,7 +180,7 @@ record: 42b7fcc0d86b
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Women's digital-training target | Did not exist | [Target set; no interim figure published](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) | Advanced |
 
@@ -201,7 +201,7 @@ record: 42b7fcc0d86b
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
 |---|---|---|---|
 | Regulator sector and market report series | Published; four editions on file, the latest reporting 2023 data | [Published as an irregular series - an earlier Telecommunication Sector Market Report in October 2021, the Telecommunication Sector Market Report 2021 in November 2022, the ICT Sector Market Report 2022 in December 2023 and the ICT Sector Market Report 2023 in November 2024 - built on licensees' audited financial statements and the regulator's own portal data](https://www.cran.na/download/cran-ict-market-sector-report-nov-2024/) | No change |
 | Schools and health facilities without adequate connectivity | 339 schools and 50 health centres lacking adequate connectivity (2025-06) | [No later official figure; a research council account records 65.4% of schools connected in 2023, 1,311 of 2,004](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030) | No change, no later figure published |
