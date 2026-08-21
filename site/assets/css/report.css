@@ -58,16 +58,23 @@
    different voice would read as a different site. It is not that rule reused:
    `.corpus-nav` is sticky, full-bleed and vendored from the website repo, and
    this sits inside the article. */
+/* One rule, under the bar, not three across two elements (Bill, 2026-08-21).
+   The header's own bottom border and this element's top border sat a few
+   millimetres apart with nothing between them; the header's comes off in
+   `.article-header--bulletin` below and the top one comes off here, which
+   leaves the bar sitting directly under the byline and closed by a single
+   line before the first category. */
 .bulletin-nav {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
   gap: 0.4rem 0.75rem;
-  border-top: 1px solid var(--rule);
   border-bottom: 1px solid var(--rule);
-  padding: 0.7rem 0;
+  padding: 0 0 0.7rem;
   margin: 0 0 2rem;
 }
+
+.article-header--bulletin { border-bottom: none; margin-bottom: 1.5rem; padding-bottom: 1.25rem; }
 
 /* Terracotta small caps (Bill, 2026-08-21). The accent is the site's own
    #c84b2f, and these are the page's own contents rather than site chrome, so
@@ -123,7 +130,7 @@
 
 .article-header__meta {
   display: flex;
-  align-items: flex-start;
+  align-items: flex-end;      /* the button's foot on the byline's last line */
   justify-content: space-between;
   flex-wrap: nowrap;
   gap: 1.5rem;

@@ -376,7 +376,7 @@ TEMPLATE = """<!DOCTYPE html>
         <div class="tagline">Mapping Africa&rsquo;s data landscape</div>
       </div>
 
-      <header class="article-header">
+      <header class="article-header{header_mod}">
 {kicker}        <h1 class="article-header__title">{h1}</h1>
         <div class="article-header__meta">
           <div class="article-header__byline" data-edition="{edition}">{byline}</div>
@@ -527,6 +527,13 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     kicker = (f'        <div class="article-header__kicker">{kind_label}</div>\n'
               if kind_label else "")
 
+    # **The bulletin's header carries no closing rule** *(Bill, 2026-08-21)*. `main.css` gives
+    # every `.article-header` a bottom border, and the category bar directly below has a top
+    # border of its own, so the page opened with two horizontal lines a few millimetres apart
+    # and nothing between them. `main.css` is vendored from the website repo and is not ours to
+    # edit, so the header takes a modifier class and `report.css` turns the border off for it.
+    header_mod = " article-header--bulletin" if kind == "bulletin" else ""
+
     css_dir = SITE / "assets" / "css"
     if absolute:
         main_css = (css_dir / "main.css").as_uri()
@@ -579,6 +586,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         colophon_rows=colophon_rows,
         current_row=current_row,
         kicker=kicker,
+        header_mod=header_mod,
         byline=byline,
         edition_display=edition_display,
         colophon_notes=BULLETIN_NOTES if kind == "bulletin" else REPORT_NOTES,

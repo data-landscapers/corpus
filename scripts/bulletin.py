@@ -52,12 +52,12 @@ the moment the material behind it last moved — `osint_lib.last_ingest()` reads
 mirror's `logs/ingested_log.md`. Where the mirror cannot be read the build clock stands in, and
 the run says so rather than passing one off as the other.
 
-**The stamp moves only when the document does.** A timestamp restamped on every run would say
-the bulletin had changed when nothing in it had, so `--assemble` compares the body it has just
-built against the body already on disk and leaves the file, stamp and all, when they match. So
-*last updated* means *the ingest whose catch produced what you are reading* — which is also what
-keeps `render.py`'s content gate honest, since it hashes the body below the frontmatter and a
-stamp that moved on its own would be a change the gate could not see.
+**The stamp moves only when the document does.** A stamp restamped on every run would say the
+bulletin had changed when nothing in it had, so `--assemble` rebuilds the document *with the
+stamp already on disk* and leaves the file alone if that reproduces it exactly. So *last
+updated* means *the ingest whose catch produced what you are reading* — which is also what keeps
+`render.py`'s content gate honest, since it hashes the body below the frontmatter and a stamp
+that moved on its own would be a change the gate could not see.
 
 Anchors resolve because `render.py` runs Markdown's `toc` extension, which gives every heading an
 id from the same `slugify` this module imports. Two implementations of that slug is how the links
@@ -316,6 +316,27 @@ def window_phrase(start: str, end: str, joiner: str = "and") -> str:
     return f"{long_date(start)} {joiner} {long_date(end)}"
 
 
+def covered_phrase(rows: list[dict], start: str, end: str) -> str:
+    """The days the bulletin **actually covers**, which is not always the days it looked at
+    *(Bill, 2026-08-21)*.
+
+    The window is the run's date and the day before it, and the run happens in the small hours:
+    on 2026-08-21 the sweep closed at 00:14 and not one of the fifty items it caught carried a
+    publication date of the 21st. The byline said *published on 20 and 21 August 2026* anyway,
+    which reads as a claim that the 21st was covered and found empty when in truth the day had
+    barely started.
+
+    So the phrase is built from the publication dates in hand. The nominal window still governs
+    *selection* and still appears where the document states an absence — nothing was published
+    on the 20th **or** the 21st is a statement about the window, and needs both days named."""
+    days = sorted({r["published"].strip() for r in rows})
+    if not days:
+        return window_phrase(start, end)      # nothing in hand: the window is all there is to say
+    if len(days) == 1:
+        return long_date(days[0])
+    return window_phrase(days[0], days[-1])
+
+
 def md_escape(text: str) -> str:
     return text.replace("[", "\\[").replace("]", "\\]")
 
@@ -471,7 +492,7 @@ def document(rows: list[dict], store: dict, run_date: date, stamp: str,
     start, end = window(run_date)
     when = datetime.strptime(stamp, "%Y-%m-%d %H:%M")
     subtitle = (f"Last updated {when:%d-%m-%Y} at {when:%H:%M} — "
-                f"Covering sources published on {window_phrase(start, end)}")
+                f"Covering sources published on {covered_phrase(rows, start, end)}")
 
     head = [
         "---",
@@ -488,15 +509,6 @@ def document(rows: list[dict], store: dict, run_date: date, stamp: str,
         "",
     ]
     return "\n".join(head + body_of(rows, store, names, start, end)).rstrip() + "\n"
-
-
-def split_body(text: str) -> str:
-    """Everything below the frontmatter — the span the compile timestamp must not be inside of,
-    and the same span `render.py` hashes for its edition gate."""
-    if not text.startswith("---"):
-        return text
-    end = text.find("\n---", 3)
-    return text if end == -1 else text[end + 4:].lstrip("\n")
 
 
 def held_stamp(path: Path) -> str | None:
@@ -536,16 +548,25 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
     BULLETINS.mkdir(parents=True, exist_ok=True)
 
     stamp, source = stamp_for(now)
-    text = document(rows, store, run_date, stamp, names)
 
-    # The timestamp is the one field that would differ on every run for a document that had not
-    # moved, so the comparison is on the body below the frontmatter. Matching means the file is
-    # left exactly as it is — timestamp included, because *last updated* is a claim about the
-    # content and not about the build.
+    # **Is anything different apart from the stamp?** Asked by rebuilding the document with the
+    # stamp already on disk and comparing the whole file: if that reproduces what is there, the
+    # only thing that moved was the clock and the file is left exactly as it is.
+    #
+    # It was a comparison of the body below the frontmatter until 2026-08-21, on the reasoning
+    # that the stamp lives in the frontmatter and so must be excluded — which excluded the
+    # *whole* frontmatter, and the subtitle is in it. A correction to how the byline is worded
+    # therefore could not reach a document whose body had not changed: the fix ran, reported
+    # `unchanged`, and left the wrong subtitle in place. Normalising the one field that moves on
+    # its own is the narrow version of what that rule was reaching for.
     before = DOCUMENT.read_text(encoding="utf-8") if DOCUMENT.exists() else None
-    if before is not None and split_body(before) == split_body(text):
-        print(f"unchanged  {DOCUMENT.relative_to(CORPUS)}  "
-              f"(last updated {held_stamp(DOCUMENT)})")
+    held = held_stamp(DOCUMENT)
+    unchanged = (before is not None and held is not None
+                 and document(rows, store, run_date, held, names) == before)
+
+    text = document(rows, store, run_date, stamp, names)
+    if unchanged:
+        print(f"unchanged  {DOCUMENT.relative_to(CORPUS)}  (last updated {held})")
     else:
         DOCUMENT.write_text(text, encoding="utf-8")
         print(f"written    {DOCUMENT.relative_to(CORPUS)}  ({len(rows)} item(s))")
