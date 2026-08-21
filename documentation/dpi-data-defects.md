@@ -34,6 +34,37 @@ Under `STATUS-INIT`'s check A — every link is held and resolves — and check 
 
 **So a sourceless negative in this dataset is not evidence of absence and must never be read as one.** Nothing in the cut distinguishes the true absences from the false ones, and a false negative that reaches a baseline is a published statement that a country has no data-protection law when it has had one since 2009. Where the dataset is the only thing saying a country lacks an instrument, the finding is ***Not held***, with a `gaps.csv` line — not an absence.
 
+## A cited source can be a dead one, and nothing in the row says so
+
+*(Found through OSINT's `notes-for-corpus` note 6, 2026-08-21.)*
+
+**Two CAF rows cite `arcep.cf` for Law No. 24.001, and that host serves nothing** — 404 on both
+`arcep.cf` and `www.arcep.cf` when OSINT tested it on 2026-08-20. The rows are
+`id-governance-dpaexists`, whose only source is the dead PDF, and `pay-governance-dataprivacylaw`,
+which carries it second behind a review that does resolve.
+
+**This is a different fault from the two above and worse in one specific way.** The concatenated
+answers and the sourceless negatives are both visible in the cut: a run can see the run-together
+value, and it can see the empty `Source urls`. A sourced row whose source is dead reads exactly
+like a sourced row whose source is live, so the dataset's own most reliable third — the rows that
+carry a URL — contains an unknown number of citations that go nowhere, and nothing in the file
+distinguishes them.
+
+**Nothing here fetches, so no check on this side can find the rest of them.** Check A is set
+membership against the catalogue and check G is resolution through it; both are satisfied by a URL
+that exists as a string. The rule that follows is about drafting rather than checking: **where a
+dataset row is the only thing carrying a claim and its source is a primary document the base has
+never held, prefer a secondary the base does hold, and say in the sentence that it is a secondary
+reading.** `CAF-status.md`'s data-protection section was rewritten to that shape on 2026-08-21
+after it had published the provisions of a law from a link that serves nothing.
+
+**A live 404 dates the absence, not the document** *(OSINT's `ACQUIRE.md`, carried here 2026-08-21)*.
+ARCEP published a full regulatory corpus — six laws, three arretes, a decision and the licensing
+forms — and then replaced its site with a construction page; the Internet Archive's 2026-06-22
+capture holds the tree. So the right conclusion from a dead regulator URL is that the document is
+unfetched, never that it was not published, and any status line concluding that a source publishes
+nothing should be read against that.
+
 ## What this costs, and why the dataset is still used
 
 The `govtech-*` third is largely unusable and the sourceless negatives are unusable in the direction that matters most. What remains — the `iiag-*`, `odin-*`, `stats-*`, `rural-*` families and the sourced `reg-*` rows — carries real, citable, country-specific evidence, and `STATUS-INIT` stage 0's three-agent split (`STATUS-INIT.md` step 5) already partitions the families so a run reads each once. The dataset earns its place on the sourced rows; this file exists so that the rest is skipped knowingly rather than trusted by default.
