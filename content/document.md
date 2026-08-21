@@ -2,6 +2,8 @@
 
 The standing notes that appear on every rendered document, and the two glossaries that explain a report's status and movement values. Read by `scripts/render.py` (the notes, as HTML) and `scripts/report-render.py` (the glossaries, as markdown).
 
+`report-notes` appears on all 241 reports; `bulletin-notes` appears on the bulletin alone, and is the whole of what *About this document* says there — Bill wrote it on 2026-08-21 (`prep/bulletin.md` 15) and it replaced two paragraphs about batch acquisition and what the page is not.
+
 Editing rule: these appear on *every* document of their kind, so a sentence added here is a sentence added several hundred times. Say less rather than more.
 
 ## report-notes
@@ -12,9 +14,7 @@ This is a dated edition and is not revised after publication. If a figure here h
 
 ## bulletin-notes
 
-The bulletin covers what was *published* in its window, which is not the same as what arrived in it: the corpus acquires in batches, so a record ingested today may carry any publication date. Each item is summarised once and cross-referenced from every other country, region or topic it touches.
-
-This page is rewritten at every build and holds only the window named in its byline. It is not an archive; the country, region and topic reports are where a development is kept.
+This bulletin is produced automatically at the end of each data collection sweep but only includes items published on the day cited in the edition, and the previous day. Items published in the last month can be found on the [country pages](https://corpus.data-landscapers.io/#countries). The links to all items stored in the corpus can be found in the [catalogue](https://corpus.data-landscapers.io/catalogue/).
 
 ## status-vocab
 

@@ -228,39 +228,23 @@ def region_boxes(by_place: dict[str, int]) -> str:
 
 
 def bulletin_section() -> str:
-    """The daily bulletin, at the top of the page because it is the one thing here that is about
-    today *(2026-08-17)*.
+    """The bulletin, at the top of the page because it is the one thing here that is about today
+    *(2026-08-17)*.
 
-    Built from the two documents' own frontmatter rather than from a count of its own: the bulletin
-    states the window it covers and how many sources it found, and a second implementation of that
-    would be a second answer. The section is omitted entirely where the documents do not exist —
-    unlike the country and topic boxes, which link ahead of the pages they open (design.md §8),
-    there is nothing here to be accurate *about* until a build has written one."""
-    meta = {}
-    for kind in ("country", "topic"):
-        path = OUTPUTS / "bulletins" / f"{kind}-bulletin.md"
-        if not path.exists():
-            return ""
-        head = {}
-        for line in path.read_text(encoding="utf-8").split("---", 2)[1].splitlines():
-            k, _, v = line.partition(":")
-            head[k.strip()] = v.strip()
-        meta[kind] = head
+    **Heading and one paragraph** *(Bill, 2026-08-21)*. It used to carry two boxes — *By country*
+    and *By topic*, each showing the window's item count — and a caveat under them explaining
+    that both counted the same sources. The country bulletin is retired, which leaves one box
+    counting one document, and a box matrix of one is a link wearing a costume. So the heading
+    is the link, and the paragraph beneath it is the section.
 
-    window = f"{meta['country'].get('window_start', '')} to {meta['country'].get('window_end', '')}"
-    intro =(f"Sources published in the last two days &mdash; {e(window)}. "
-             f"Each item is summarised once and cross-referenced from every other country, "
-             f"region or topic it touches. The bulletin is rewritten at every build and keeps "
-             f"nothing: what it reports is kept by the country, region and topic reports.")
-    boxes = "\n".join(
-        f'<a class="box" href="{SITE_BASE}/bulletins/{kind}-bulletin.html" style="--fill:0.6">'
-        f'<span class="box__k">By {kind}</span>'
-        f'<span class="box__n">{e(meta[kind].get("items", "0"))}</span></a>'
-        for kind in ("country", "topic"))
-    return (f'\n    <h2 class="section-heading" id="bulletin">Daily bulletin</h2>\n'
-            f'    <p class="section-intro">{intro}</p>\n'
-            f'    <div class="boxes boxes--regions">\n{boxes}\n    </div>\n'
-            f'    <p class="caveat">{copy_inline("home", "bulletins-caveat")}</p>\n')
+    The section is omitted entirely where the document does not exist — unlike the country and
+    topic boxes, which link ahead of the pages they open (design.md §8), there is nothing here to
+    be accurate *about* until a build has written one."""
+    if not (OUTPUTS / "bulletins" / "corpus-bulletin.md").exists():
+        return ""
+    return (f'\n    <h2 class="section-heading" id="bulletin">'
+            f'<a href="{SITE_BASE}/bulletin/">Bulletin</a></h2>\n'
+            f'    <p class="section-intro">{copy_inline("home", "bulletin-intro")}</p>\n')
 
 
 def topic_boxes(by_topic: dict[str, int]) -> str:
@@ -452,7 +436,7 @@ def build() -> Path:
         docs_year=f"{s['by_year'].get(this_year, 0):,}",
         docs_month=f"{s['by_month'].get(this_month, 0):,}",
         bulletin=bulletin_section(),
-        chrome=chrome(None, depth=0, bulletin=True),
+        chrome=chrome(None, depth=0),
         hero=copy_inline("home", "hero"),
         countries_caveat=copy_inline("home", "countries-caveat"),
         countries=country_boxes(by_place), countries_intro=copy_inline("home", "countries-intro"),

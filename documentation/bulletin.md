@@ -1,0 +1,73 @@
+# The bulletin — design note
+
+*(Built 2026-08-17 from Bill's brief and four decisions taken against it; rewritten 2026-08-21 against `prep/bulletin.md`, a seventeen-point revision that retired half of it. The live procedure is `BUILD.md` stage 7 and `RENDER.md` → The bulletin; this note is the reasoning behind them and the record of what was chosen over what.)*
+
+## What it is
+
+One document, rewritten whenever its content moves, covering the sources **published** on the day of the build and the day before it. It is `outputs/bulletins/corpus-bulletin.md`, and it is served at `https://corpus.data-landscapers.io/bulletin/`.
+
+The taxonomy's Level-1 categories are its sections, each opening onto the Level-2 topics beneath it, both ordered by `lookups/taxonomy.csv`. Each item is summarised **once**, under the first topic its record lists; every other topic it carries holds a cross-reference to that summary. Beside each headline sit the countries the item touches, as boxes linking to those countries' pages.
+
+`scripts/bulletin.py` selects the window, decides where each summary lands and writes the file; the summaries themselves are written by BUILD, one to three sentences each.
+
+## The 2026-08-21 revision
+
+**The country bulletin is retired, and this is the whole of what changed.** Everything else in Bill's list follows from it or from the page's furniture being wrong.
+
+There were two documents. They covered the same items over the same window and differed only in how they grouped them — one by place, one by topic — so a reader who opened both read every summary twice, and a run that assembled both wrote every summary twice into git. The design note of 2026-08-17 treated that as the point (*"Both cover the same set of items"*) and it was the flaw: the two documents were one document rendered under two indexes, and an index is not a document.
+
+**What the place grouping was actually for survives, on the item.** Each headline now carries a box per African country the record is tagged to, linking to that country's page. A reader who wants Kenya's items no longer reads a second document to find them; they scan for the box, or they go to Kenya's page, which holds a month rather than two days. The boxes are the website's own `.wip-item-card__status--active` component — the green category box on the Lab index — so this is shared markup rather than a Corpus invention, which is what `CLAUDE.md`'s *share style and functionality wherever possible* means in practice.
+
+**Regions get no box, and that is not an oversight.** The `X`-prefixed places are regions, blocs and the global tag, and none of them has a country page to open. A box that 404s is worse than no box, and the region's items are reachable through the catalogue's place filter, which is where the home page's region boxes already send a reader.
+
+**The order is `lookups/taxonomy.csv`'s, and so are the labels.** `taxonomy_lib`'s own note said the ordering waited on Bill reviewing the pages; for the bulletin he has reviewed them. The bulletin previously took both from `home.SUBTOPIC_NAMES`, which is a hand-ordered working copy that predates the CSV — two vocabularies, and the one the site calls canonical was not the one this document used. One consequence is worth stating: the nav bar at the head of the document and the headings it jumps to are generated from the same list, so they cannot disagree.
+
+**The nav bar names only the categories this edition holds.** A two-day window reaches four or five of the ten categories on a quiet day. A fixed bar of ten would be mostly dead jumps, so the bar is built from the sections that exist.
+
+**A record carrying no topic at all now appears, under *Not topic-specific*.** The topic bulletin dropped those records silently while counting them in its own headline figure, so the document could say fifty and show forty-seven. The same applies to a slug the taxonomy does not carry: it gets a section under *Other* rather than vanishing.
+
+**The PDF came back** *(point 17)*, four days after being ruled out. The 2026-08-17 argument was that a bulletin is superseded the next morning and its content is kept by the reports, so a dated PDF archives the same news twice under a worse name. What it missed is that being superseded tomorrow is the reason to want a copy today: every other document on the site can be re-read at its own URL, and this one cannot.
+
+**The compile timestamp is a claim about the content, not about the build.** The page says when it was last updated, so the stamp moves only when the body moves — `--assemble` compares the body below the frontmatter against what is on disk and leaves the file alone when they match. It has to be that span and no other, because it is the span `render.py` hashes to decide whether to cut an edition: a timestamp inside it would make every run look like a change, and the gate would never once fire.
+
+**The shown edition and the filed edition are different strings.** The colophon says `2026-08-21 at 16:31`; the PDF is `corpus-bulletin-2026-08-21.pdf`, with `editions.py`'s same-day sequence if a second is cut. A time in a filename is a space and a colon, which is not a filename on Windows, and changing the edition grammar to carry one would reach every dated artefact the site publishes for the sake of one document's byline.
+
+## The furniture, and why it was wrong
+
+Four of Bill's seventeen points are about the page's chrome, and each was a piece of a report's apparatus that a bulletin had inherited without earning.
+
+**The kicker said DAILY BULLETIN above a title saying Bulletin** — the same word twice, plus a claim about cadence the document does not make. It is written at the end of a collection sweep, not at a time of day. `KIND_LABEL["bulletin"]` is now empty and the element comes out entirely rather than rendering blank.
+
+**The byline said *Edition of 2026-08-21 · sources published 20 and 21 August 2026*.** The subtitle now carries the whole of it and says more: when it was last updated, to the minute, and what window it covers. The edition is still on the page, in the colophon, which is where an edition belongs.
+
+**The standfirst — *Compiled … · 50 sources published …, across 25 topics* — is gone.** It restated the byline with a count of sections attached, and the count of sections is visible in the nav bar directly beneath it.
+
+**The closing italic note is gone**, and with it `content/bulletin.md`, whose only two blocks were the two bulletins' closing notes. It explained the summarise-once discipline and then pointed at the country bulletin, which no longer exists; the discipline is legible from the cross-references themselves.
+
+**`Current edition` came off the colophon.** On a report it points a reader holding a dated PDF back at the live page, which is the entire reason for the row. The bulletin has one page; the row printed its own address back at whoever was already reading it.
+
+**The two standing paragraphs under *About this document* are one paragraph, Bill's**, in `content/document.md` → `bulletin-notes`. They had explained that the corpus acquires in batches and that the page is not an archive; his replacement says what a reader actually needs, which is where to look for anything older — the country pages for the last month, the catalogue for everything.
+
+## What was found on the way
+
+**The bulletin pages had been served unstyled since 2026-08-17.** `render.py` wrote `../../assets/css/main.css` as a constant, which is right for `site/reports/{unit}/` and `site/topics/{slug}/` — the only two trees that existed when the line was written — and one level too high for `site/bulletins/`. Both stylesheets and the logo resolved above `site/` and 404'd. Nothing caught it: a page with no CSS is still a page, and `--no-pdf` meant no PDF was ever cut, which is where the breakage would have been unmissable. The path is now counted from the directory the page lands in.
+
+## The four original decisions, and what is left of them
+
+**1. The window is publication, not acquisition.** *(Bill, 2026-08-17, chosen over *everything ingested since the last build* and over a seven-day window.)* Unchanged, and it is still the choice with the largest consequence. The corpus does not acquire continuously: the 2026-08-16 run ingested 184 records carrying publication dates spread across the ten days before it, of which eleven fell inside a two-day window. So most bulletins are short, some are empty, and a large batch of genuinely new-to-us material goes unreported by them. What the bulletin reports is *what the world published*, not *what we happened to fetch*.
+
+**Which makes the empty bulletin a first-class outcome.** It renders, it says the window was empty, and it says why — that nothing was *published* on those two days, not that nothing arrived. A bulletin simply absent on a quiet day would be indistinguishable from a build that did not run.
+
+**2. The summaries are model-authored.** *(Bill, 2026-08-17, over a scripted listing of titles and links.)* Unchanged. Bounded by keeping what it writes: the window is two days wide and the build runs daily, so nearly every item is selected on two consecutive mornings. `outputs/bulletins/summaries.json` is the store, `--write` is the only way in, and `--scan` asks only where there is none. Without it every item would be summarised twice and worded differently on the two days — worse than the wasted tokens, because both wordings would be published.
+
+**3. Detail sits in one place and everything else points at it.** *(Bill, 2026-08-17.)* Half retired with the country bulletin. What remains is the topic anchor: the first topic the record lists, *first* meaning first in the record's own facet list, which `build-catalogue.py` carries across from the source frontmatter unchanged. The alternative was alphabetical, rejected because alphabetical order is a property of the code rather than of the item.
+
+**4. HTML only, no PDF.** Reversed 2026-08-21, above.
+
+## What it is not
+
+**It is not an archive and does not accumulate.** The document is rewritten in place and holds only the current window; git history holds every prior version, and now so does the dated PDF. The summaries store is pruned 30 days after an item's publication date — 28 days after the last window that could have cited it.
+
+**It is not a record layer.** Nothing here is a position that can move, nothing is checked against a ledger, and nothing downstream derives from it.
+
+**It does not judge relevance.** Every catalogue record published in the window and inside the geographic remit appears. The remit filter (`scope_lib.in_remit`, added 2026-08-20) is not a relevance judgement but a scope one, and the records it turns away are named on the run rather than dropped in silence.

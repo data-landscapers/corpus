@@ -35,6 +35,7 @@ MAIN_SITE = "https://data-landscapers.io"
 # sections of the home page; Finance, Catalogue and Method are pages of their own
 # (Bill, 2026-08-19 — before that the last three were home-page anchors too).
 NAV = [
+    ("Bulletin", f"{SITE_BASE}/bulletin/"),
     ("Countries", f"{SITE_BASE}/#countries"),
     ("Regions", f"{SITE_BASE}/#regions"),
     ("Topics", f"{SITE_BASE}/#topics"),
@@ -53,17 +54,19 @@ def assets(depth: int) -> str:
     return "../" * depth + "assets"
 
 
-def chrome(active: str | None = None, depth: int = 1, bulletin: bool = False) -> str:
+def chrome(active: str | None = None, depth: int = 1) -> str:
     """The masthead and the Corpus nav, ready to drop into a page template.
 
-    `bulletin=True` adds the Bulletin item the home page carries and no other page
-    does, because it links an anchor that only exists there."""
+    **Bulletin is an ordinary nav item now** *(Bill, 2026-08-21)*. It used to be added on the
+    home page alone, behind a `bulletin=True` flag, because it linked `/#bulletin` — an anchor
+    that exists on no other page. It is a page of its own at `/bulletin/` now, so it belongs in
+    the same list as everything else and reaches every page in the site."""
     a = (active or "").strip().lower()
 
     main_links = "\n".join(
         f'        <a href="{MAIN_SITE}/{p}/">{p.capitalize()}</a>' for p in _MAIN_NAV)
 
-    items = ([("Bulletin", f"{SITE_BASE}/#bulletin")] if bulletin else []) + NAV
+    items = NAV
     corpus_links = "\n".join(
         '      <a href="%s"%s>%s</a>'
         % (href, ' class="active"' if label.lower() == a else "", label)

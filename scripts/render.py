@@ -48,11 +48,16 @@ LICENCE, LICENCE_URL = "CC BY 4.0", "https://creativecommons.org/licenses/by/4.0
 ORG = "Bill Anderson / Data Landscapers Ltd"
 COMPANY = "Registered in the UK · Co. No. 16040544"
 
+# The small-caps kicker above the title. **The bulletin has none** *(Bill, 2026-08-21)*: it read
+# "DAILY BULLETIN" above a title reading "Bulletin", which is the same word twice and a claim
+# about cadence the document does not make — it is written at the end of a sweep, not at a time
+# of day. An empty label takes the whole element out rather than leaving a blank line where a
+# kicker used to be.
 KIND_LABEL = {
     "status": "Status report",
     "monthly": "Monthly update",
     "progress": "Twelve-month progress report",
-    "bulletin": "Daily bulletin",
+    "bulletin": "",
 }
 
 # The site's .badge variants, mapped onto the ledger's status vocabulary
@@ -154,6 +159,12 @@ def stem_html_of(path: Path) -> str:
     the wrong filename finds nothing and cuts an edition, which is indistinguishable from
     the outside from a gate working correctly."""
     unit, kind = parse_name(path)
+    # The bulletin is served as a directory index, `/bulletin/`, so its file is `index.html` and
+    # its unit never appears in a URL *(Bill, 2026-08-21)*. It is the only document here with a
+    # readable address rather than a generated one, and it can have one because there is exactly
+    # one of it — every other page is one of 241 and needs its unit in the name to be told apart.
+    if kind == "bulletin":
+        return "index"
     return f"{unit}-{kind}"
 
 
@@ -166,9 +177,9 @@ def tree_of(path: Path) -> str:
     `dpi-pay` are both just units. Anything not recognised renders under `reports/`, which is
     where every document lived before topics existed.
 
-    The bulletins are the one tree with no unit beneath it — there are two documents and they are
-    the whole of it — so they are recognised on the *parent* rather than the grandparent, and
-    `site_rel` below is where that shows up."""
+    The bulletin is the one tree with no unit beneath it — there is one document and it is the
+    whole of it — so it is recognised on the *parent* rather than the grandparent, and `site_rel`
+    below is where that shows up."""
     if path.parent.name.lower() == "bulletins":
         return "bulletins"
     parent = path.parent.parent.name.lower()
@@ -177,11 +188,16 @@ def tree_of(path: Path) -> str:
 
 def site_rel(path: Path) -> str:
     """The document's directory under `site/`, relative — `reports/KEN`, `topics/dpi-pay`,
-    `bulletins`. One function, because the permalink written into the page and the directory the
-    file is written to have to agree and there is no way to notice if they stop."""
+    `bulletin`. One function, because the permalink written into the page and the directory the
+    file is written to have to agree and there is no way to notice if they stop.
+
+    **The bulletin's source directory and its site directory differ by an s** — it is authored
+    into `outputs/bulletins/` and published at `/bulletin/` *(Bill, 2026-08-21)*. The plural was
+    right while there were two of them and is now just the folder the drafts land in; the URL is
+    what a reader types, and there is one bulletin."""
     tree = tree_of(path)
     if tree == "bulletins":
-        return tree
+        return "bulletin"
     unit, _ = parse_name(path)
     return f"{tree}/{unit}"
 
@@ -338,6 +354,7 @@ TEMPLATE = """<!DOCTYPE html>
         </span>
       </a>
       <nav class="site-nav" aria-label="Main navigation">
+        <a href="{site_base}/bulletin/">Bulletin</a>
         <a href="{site_base}/countries/" class="active">Countries</a>
         <a href="{site_base}/regions/">Regions</a>
         <a href="{site_base}/topics/">Topics</a>
@@ -360,9 +377,8 @@ TEMPLATE = """<!DOCTYPE html>
       </div>
 
       <header class="article-header">
-        <div class="article-header__kicker">{kind_label}</div>
-        <h1 class="article-header__title">{h1}</h1>
-        <div class="article-header__byline" data-edition="{edition}">Edition of {edition} &nbsp;·&nbsp; {subtitle}</div>
+{kicker}        <h1 class="article-header__title">{h1}</h1>
+        <div class="article-header__byline" data-edition="{edition}">{byline}</div>
         <div class="screen-only" style="margin-top:1rem;">{download}</div>
       </header>
 
@@ -373,9 +389,8 @@ TEMPLATE = """<!DOCTYPE html>
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">{edition}</dd>
-          <dt>Current edition</dt><dd><a href="{current_url}">{current_url}</a></dd>
-{colophon_rows}
+          <dt>Edition</dt><dd class="edition">{edition_display}</dd>
+{current_row}{colophon_rows}
           <dt>Licence</dt><dd><a href="{licence_url}">{licence}</a></dd>
         </dl>
 {colophon_notes}
@@ -450,8 +465,9 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
 
     # `toc` is here for its ids, not for a table of contents *(2026-08-17)*. It gives every
     # heading an id slugified from its text, which is what makes an in-document link resolve —
-    # the daily bulletin summarises each item once and cross-references it from every other
-    # country or topic it touches, and without ids every one of those links lands nowhere.
+    # the bulletin summarises each item once and cross-references it from every other topic it
+    # touches, and its category bar jumps to the same headings; without ids every one of those
+    # links lands nowhere.
     # `bulletin.py` imports the same `slugify` to build them, so there is one implementation.
     # It is additive for every other document: an id attribute on a heading and nothing else.
     html_body = markdown.markdown(
@@ -474,14 +490,40 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     rel = site_rel(md_path)
     rel_html = f"{rel}/{stem_html}"
     rel_pdf = f"{rel}/{stem_pdf}"
+    # `/bulletin/` rather than `/bulletin/index.html`: the file is an index, so the directory is
+    # the address, and the two are the same page. The one that goes in `<link rel=canonical>` has
+    # to be the one a reader would type or a search engine would keep.
+    url_html = (f"{SITE_BASE}/{rel}/" if stem_html == "index"
+                else f"{SITE_BASE}/{rel_html}.html")
 
     rows, not_held = meta.get("ledger_rows", ""), meta.get("not_held", "")
-    # A document may state its own byline — the bulletins do, since the window is the one thing a
-    # reader needs from the header and no ledger count describes them.
+    # A document may state its own byline — the bulletin does, since the window is the one thing a
+    # reader needs from the header and no ledger count describes it.
     subtitle = meta.get("subtitle") or (
         f"{rows} systems and instruments tracked, {not_held} of them not held"
         if rows and not_held else "compiled from the Data Landscapers source base"
     )
+
+    # **The edition a reader is shown and the edition a filename carries are not the same string**
+    # *(Bill, 2026-08-21, asking for the bulletin's edition to carry a time)*. A bulletin can be
+    # rebuilt twice in a day, so the date alone no longer identifies which one you are reading;
+    # `compiled:` carries `YYYY-MM-DD HH:MM` and the colophon shows it. It cannot be the edition
+    # itself, because that goes into a filename — a space and a colon are not a filename on
+    # Windows — so `editions.py`'s grammar is untouched and this is display only.
+    edition_display = edition
+    if kind == "bulletin" and meta.get("compiled"):
+        stamp = meta["compiled"].strip()
+        edition_display = stamp.replace(" ", " at ", 1) if " " in stamp else stamp
+
+    # The bulletin's byline is its subtitle and nothing else *(Bill, 2026-08-21)*. Every other
+    # document opens "Edition of {date} · {byline}", which the bulletin's own subtitle now says
+    # better and in full — "Last updated … at … — Covering sources published on …". The edition
+    # is still on the page, in the colophon, where an edition belongs.
+    byline = (subtitle if kind == "bulletin"
+              else f"Edition of {edition} &nbsp;·&nbsp; {subtitle}")
+    kind_label = KIND_LABEL.get(kind, kind.title())
+    kicker = (f'        <div class="article-header__kicker">{kind_label}</div>\n'
+              if kind_label else "")
 
     css_dir = SITE / "assets" / "css"
     if absolute:
@@ -489,8 +531,16 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         report_css = (css_dir / "report.css").as_uri()
         logo = (BUILD / "assets" / "logo.png").as_uri()
     else:
-        main_css, report_css = "../../assets/css/main.css", "../../assets/css/report.css"
-        logo = "../../assets/logo.png"
+        # **How far up `assets/` is, counted from the directory the page lands in** — not the
+        # constant `../../` this held until 2026-08-21. That constant was right for the only two
+        # trees that existed when it was written, `reports/{unit}/` and `topics/{slug}/`, and
+        # wrong for the bulletins the moment they arrived: `site/bulletins/` is one level down,
+        # so both stylesheets and the logo resolved above `site/` and the two bulletin pages had
+        # been served unstyled since 2026-08-17. Nothing caught it because a page with no CSS is
+        # a page, and `--no-pdf` meant no PDF was cut where the breakage would have been obvious.
+        up = "../" * len(rel.split("/"))
+        main_css, report_css = f"{up}assets/css/main.css", f"{up}assets/css/report.css"
+        logo = f"{up}assets/logo.png"
 
     # A document rendered without a PDF must not advertise one *(Bill, 2026-08-17)*. The download
     # button and the `This file` row both name a file that was never cut, so they come out
@@ -508,24 +558,36 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         colophon_rows = f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_pdf}.pdf</dd>"
     else:
         download = ""
-        colophon_rows = f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_html}.html</dd>"
+        colophon_rows = f"          <dt>This file</dt><dd>{url_html}</dd>"
+
+    # **`Current edition` comes off the bulletin** *(Bill, 2026-08-21)*. On a report it points a
+    # reader holding a dated PDF at the live page, which is the whole reason the row exists. The
+    # bulletin has one page, that page is the current edition, and the row printed its own
+    # address back at whoever was already on it.
+    current_row = ("" if kind == "bulletin" else
+                   f'          <dt>Current edition</dt>'
+                   f'<dd><a href="{url_html}">{url_html}</a></dd>\n')
 
     doc = TEMPLATE.format(
         title=title,
         download=download,
         colophon_rows=colophon_rows,
+        current_row=current_row,
+        kicker=kicker,
+        byline=byline,
+        edition_display=edition_display,
         colophon_notes=BULLETIN_NOTES if kind == "bulletin" else REPORT_NOTES,
-        description=f"{KIND_LABEL.get(kind, kind)} — {title}. Edition of {edition}.",
+        description=(f"{kind_label} — {title}. Edition of {edition_display}." if kind_label
+                     else f"{title}: {subtitle}"),
         short_title=h1 or title,
         h1=h1 or title,
         subtitle=subtitle,
         body=html_body,
         main_css=main_css, report_css=report_css, logo=logo,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
-        kind_label=KIND_LABEL.get(kind, kind.title()),
         edition=edition,
-        permalink_html=f"{SITE_BASE}/{rel_html}.html",
-        current_url=f"{SITE_BASE}/{rel_html}.html",
+        permalink_html=url_html,
+        current_url=url_html,
         licence=LICENCE, licence_url=LICENCE_URL,
         org=ORG, company=COMPANY, main_site=MAIN_SITE,
         site_base=SITE_BASE, year=edition[:4],
@@ -631,9 +693,11 @@ def main() -> int:
     # explicit --out still wins and still takes {unit} beneath it.
     ap.add_argument("--out", type=Path, default=None)
     ap.add_argument("--edition", default=None)
-    # The daily bulletin is HTML only *(Bill, 2026-08-17)*. A dated PDF is a retained edition of a
-    # document worth citing later; a bulletin is superseded the next morning and its content is
-    # kept by the reports, so cutting one would archive the same news twice under a worse name.
+    # **The bulletin cuts a PDF again** *(Bill, 2026-08-21, `prep/bulletin.md` 17)*, reversing the
+    # HTML-only ruling of 2026-08-17. The reasoning then was that a bulletin is superseded the
+    # next morning, so a dated PDF archives the same news twice; what that missed is that a
+    # superseded document is exactly the one a reader wants a copy of, because the page will not
+    # be showing it tomorrow. The flag stays for a caller that wants a page without one.
     ap.add_argument("--no-pdf", action="store_true", help="write the HTML and no PDF")
     # Escape hatch for the content gate: a template or stylesheet change moves nothing in the
     # source, so nothing would re-render without it. Re-cutting every document is a decision

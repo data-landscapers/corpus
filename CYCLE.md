@@ -18,7 +18,7 @@ last_reviewed: 2026-08-17
 
 ## Why running them together is better than running them apart
 
-**The bulletin is the reason** *(2026-08-17)*. `BUILD.md` stage 7 writes a bulletin over a **two-day publication window**, and the home page's Bulletin section is built from those two documents' frontmatter at `RENDER.md` Step 3. A build whose render comes a day later publishes a bulletin whose window has already moved — well-formed, correctly dated, and describing a window the site is no longer in. Nothing downstream can see that, which is the same shape as every other fault these two runbooks are built around.
+**The bulletin is the reason** *(2026-08-17)*. `BUILD.md` stage 7 writes a bulletin over a **two-day publication window**, rendered at `RENDER.md` Step 2 and linked from the home page at Step 3. A build whose render comes a day later publishes a bulletin whose window has already moved — well-formed, correctly dated, and describing a window the site is no longer in. Nothing downstream can see that, which is the same shape as every other fault these two runbooks are built around.
 
 **`BUILT-FROM` gets tighter, for free.** Step 1 stamps `git rev-parse HEAD`, and in a cycle that HEAD is the build's own final commit. Run apart, HEAD may have moved under an unrelated commit between the two jobs, and the site's provenance stamp then names a tree that is not the one it was cut from.
 

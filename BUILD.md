@@ -195,9 +195,11 @@ Each Level-2 taxonomy slug issues `outputs/topics/{slug}/{slug}-monthly.md` and 
 
 Commit the topic tree. 38 slugs × 2 documents takes the render set from 165 to 241.
 
-## Stage 7 — the daily bulletin (window select; model authoring)
+## Stage 7 — the bulletin (window select; model authoring)
 
-Two documents over a two-day window: `outputs/bulletins/country-bulletin.md` and `outputs/bulletins/topic-bulletin.md`. The design note is `documentation/daily-bulletin.md`.
+One document over a two-day window: `outputs/bulletins/corpus-bulletin.md`, published at `/bulletin/`. The design note is `documentation/bulletin.md`.
+
+**The country bulletin was retired on 2026-08-21** *(Bill, `prep/bulletin.md`)*. It covered the same items as the topic bulletin and differed only in how it grouped them, so a reader who opened both read every summary twice. The place dimension is now on the item — a country box beside each headline, linking to that country's page — which is what the grouping was for, at one click rather than a second document.
 
 ```bash
 python scripts/bulletin.py --scan          # the window, and which items still need a summary
@@ -209,13 +211,15 @@ For **each** item in the work order, read it — `raw/{year}/{slug}.md` from `sc
 python scripts/bulletin.py --write {slug} --text "…"
 ```
 
-Then assemble both documents and commit `outputs/bulletins/`:
+Then assemble the document and commit `outputs/bulletins/`:
 
 ```bash
 python scripts/bulletin.py --assemble
 ```
 
-**The window is publication, not acquisition** *(Bill, 2026-08-17, asked directly and chosen over the alternative)*. An item is in the bulletin when its `published` date is today or yesterday. The corpus acquires in batches — the 2026-08-16 run ingested 184 records carrying publication dates spread across the ten days before it, eleven of them inside a two-day window — so a typical run selects a handful and some select none. **An empty window is a finished bulletin, not a failure and not a thing to widen the window over**: `--assemble` writes both documents saying the window was empty and saying why, because a bulletin that is simply absent is indistinguishable from a build that did not run.
+**`--assemble` leaves the file alone when the body has not moved**, timestamp included. The page states when it was last updated, and a stamp restamped on every run would claim the bulletin had changed when nothing in it had. The comparison is on the body below the frontmatter, which is also the span `render.py` hashes for its edition gate — so the two agree by construction rather than by coincidence.
+
+**The window is publication, not acquisition** *(Bill, 2026-08-17, asked directly and chosen over the alternative)*. An item is in the bulletin when its `published` date is today or yesterday. The corpus acquires in batches — the 2026-08-16 run ingested 184 records carrying publication dates spread across the ten days before it, eleven of them inside a two-day window — so a typical run selects a handful and some select none. **An empty window is a finished bulletin, not a failure and not a thing to widen the window over**: `--assemble` writes the document saying the window was empty and saying why, because a bulletin that is simply absent is indistinguishable from a build that did not run.
 
 **A summary is written once and kept.** The window is two days wide and the build runs daily, so nearly every item is selected twice; `outputs/bulletins/summaries.json` is the store and `--scan` asks only for what is not in it. Entries age out 30 days after publication. So the model stage costs one day's news per run, not two.
 
@@ -223,7 +227,9 @@ python scripts/bulletin.py --assemble
 
 **Everything in a summary is sourced by construction, and that is the only reason the register is satisfied cheaply here.** Each entry opens with the item's title linked to the publisher's own record, so a fact in the sentences beneath it carries its citation two lines up. What that does *not* license is a fact the item does not carry: the summary reports the source, and where the source states a figure the figure is the best thing to put in the sentence. It is Corpus's prose either way — a verbatim sentence lifted from the body is both a register failure and the thing the leak gate exists to catch.
 
-**Detail sits in one place** *(Bill, 2026-08-17)*. An item tagged five countries is summarised once — under a region where it carries one, otherwise under the first place its record lists — and cross-referenced from each of the others; the topic bulletin does the same on the first topic listed and does not subdivide by country. Both are the script's doing, not the drafter's: one summary is written per item and `bulletin.py` decides where it lands.
+**Detail sits in one place** *(Bill, 2026-08-17)*. An item carrying five topics is summarised once, under the first topic its record lists, and cross-referenced from each of the other four. That is the script's doing, not the drafter's: one summary is written per item and `bulletin.py` decides where it lands.
+
+**The sections are `lookups/taxonomy.csv`'s order and its labels** *(Bill, 2026-08-21)*, Level-1 groups and the Level-2 sections inside them, with a nav bar at the head of the document listing the categories this edition reached. Nothing to do here — `taxonomy_lib` is the single vocabulary and the bar is built from the sections that exist.
 
 **It is its own stage rather than a question asked during stage 4**, which is the opposite of the ruling under *Maintaining the status baseline* and for a reason that does not apply there. Stage 4 iterates by unit over a set difference, so an item already marked considered on an earlier run is never reopened, and an item carrying no place is in no unit's scope at all — a bulletin riding along inside it would silently drop exactly the items a two-day window is most likely to hold. Its only precondition is stage 2: it reads `outputs/catalogue/raw-catalogue.csv` and nothing the report layer writes.
 

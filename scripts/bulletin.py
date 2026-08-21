@@ -1,17 +1,25 @@
 #!/usr/bin/env python3
-"""bulletin.py — the daily bulletin: two documents over a two-day window.
+"""bulletin.py — the bulletin: one document over a two-day window.
 
     python scripts/bulletin.py --scan                 what is in the window, and what still needs a summary
     python scripts/bulletin.py --write {slug} --text "…"   record one item's summary (or pipe it on stdin)
-    python scripts/bulletin.py --assemble             write outputs/bulletins/{country,topic}-bulletin.md
+    python scripts/bulletin.py --assemble             write outputs/bulletins/corpus-bulletin.md
     python scripts/bulletin.py --date 2026-08-16 …    run any of the above against another day
 
-**The window is publication, not acquisition** *(Bill, 2026-08-17)*. An item is in the bulletin when
-its `published` date is the run's date or the day before it, and for no other reason. The corpus
-acquires in batches — 184 records landed on 2026-08-16 carrying publication dates spread across the
-ten days before it — so most runs select a handful and some select none. **An empty window is a
-finished bulletin, not a failure**: the document says the window was empty and says why, because a
-silence is indistinguishable from a build that did not run.
+**One document, not two** *(Bill, 2026-08-21, `prep/bulletin.md`)*. The country bulletin is
+retired: it covered the same window as the topic bulletin, item for item, and differed only in
+how it grouped them — so a reader who opened both read every summary twice, and a run that
+assembled both wrote every summary twice. What survives is the topic grouping, renamed simply
+*Bulletin* and published at `/bulletin/`. The place dimension has not been lost; it is now on
+the item, as a country box beside each headline linking to that country's page, which is what
+the country bulletin's grouping was for and is one click rather than a second document.
+
+**The window is publication, not acquisition** *(Bill, 2026-08-17)*. An item is in the bulletin
+when its `published` date is the run's date or the day before it, and for no other reason. The
+corpus acquires in batches — 184 records landed on 2026-08-16 carrying publication dates spread
+across the ten days before it — so most runs select a handful and some select none. **An empty
+window is a finished bulletin, not a failure**: the document says the window was empty and says
+why, because a silence is indistinguishable from a build that did not run.
 
 **A summary is written once and kept.** The window is two days wide and the build runs daily, so
 almost every item is selected twice; re-summarising it the second time would burn the model stage
@@ -20,14 +28,25 @@ is the store, `--write` is the only way into it, and `--scan` asks for summaries
 that do not have one. Entries age out 30 days after publication, which is 28 days after the last
 window that could cite them.
 
-**Detail sits in one place and everything else points at it** *(Bill, 2026-08-17)*. An item tagged
-five countries is written out once — under a region if it carries one, otherwise under the first
-place its record lists — and each of the other four carries a cross-reference to it. The topic
-bulletin does the same on the first topic listed, and does not subdivide by country. *First* means
-first in the record's own facet list, which `build-catalogue.py` carries across unchanged — often
-the order the source itself put them in, and stable run to run either way. It is preferred to
-alphabetical order because alphabetical order is a property of the code, not of the item: it would
-anchor a nine-country regional story under Benin.
+**Detail sits in one place and everything else points at it** *(Bill, 2026-08-17)*. An item
+carrying five topics is written out once — under the first topic its record lists — and each of
+the other four carries a cross-reference to it. *First* means first in the record's own facet
+list, which `build-catalogue.py` carries across unchanged: often the order the source itself put
+them in, and stable run to run either way. It is preferred to alphabetical order because
+alphabetical order is a property of the code, not of the item.
+
+**The section order is `lookups/taxonomy.csv`'s** *(Bill, 2026-08-21)*, both the Level-1 groups
+and the Level-2 sections inside them, and the labels come from the same file. `taxonomy_lib`'s
+own note said ordering waited on Bill reviewing the pages; for the bulletin he has. One
+vocabulary rather than two is also what makes the topic nav bar at the head of the document
+agree with the headings it jumps to.
+
+**The compile timestamp moves only when the document does.** The page states when it was last
+updated, and a timestamp restamped on every run would say the bulletin had changed when nothing
+in it had — so `--assemble` compares the body it has just built against the body already on
+disk, and leaves the file, timestamp and all, when they match. That also keeps `render.py`'s
+content gate honest: it hashes the body below the frontmatter, so a timestamp in the frontmatter
+must never be the thing that makes a document look changed.
 
 Anchors resolve because `render.py` runs Markdown's `toc` extension, which gives every heading an
 id from the same `slugify` this module imports. Two implementations of that slug is how the links
@@ -40,15 +59,15 @@ import argparse
 import csv
 import json
 import sys
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from markdown.extensions.toc import slugify
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from home import L1, REGION_NAMES, SUBTOPIC_NAMES, subtopic_label  # noqa: E402
-from copy_lib import copy_md  # noqa: E402
+from home import COUNTRY_NAMES  # noqa: E402
 from scope_lib import in_remit  # noqa: E402
+import taxonomy_lib  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -56,10 +75,15 @@ BULLETINS = OUTPUTS / "bulletins"
 CATALOGUE = OUTPUTS / "catalogue" / "raw-catalogue.csv"
 COUNTRIES = OUTPUTS / "vocab" / "countries.csv"
 STORE = BULLETINS / "summaries.json"
+DOCUMENT = BULLETINS / "corpus-bulletin.md"
 RAW = CORPUS / "scripts" / ".workroot" / "raw"
 
+SITE_BASE = "https://corpus.data-landscapers.io"
+
 KEEP_DAYS = 30          # how long a written summary is retained after its item's publication date
-UNPLACED = "Not place-specific"
+UNTOPICED = "\x00untopiced"     # section key for a record carrying no topic at all
+UNTOPICED_LABEL = "Not topic-specific"
+OTHER_L1 = "Other"
 
 csv.field_size_limit(10 ** 9)
 
@@ -74,34 +98,30 @@ if hasattr(sys.stderr, "reconfigure"):
 # ── the vocabularies ───────────────────────────────────────────────
 
 def country_names() -> dict[str, str]:
-    """Full names from `outputs/vocab/countries.csv` — Corpus's own snapshot, and the long form
-    rather than the home page's short one: a box the width of a code has to say `DRC`, a bulletin
-    heading does not."""
+    """Full names from `outputs/vocab/countries.csv` — Corpus's own snapshot — with the home
+    page's short forms preferred where it carries one. A country box is the width of a box: it
+    has to say `DRC` rather than *Democratic Republic of the Congo*, which is the same judgement
+    `home.COUNTRY_NAMES` was written for, so it is that list rather than a second one."""
     names = {}
-    with COUNTRIES.open(encoding="utf-8-sig", newline="") as fh:
-        for row in csv.DictReader(fh):
-            names[row["iso-3"].strip()] = row["country-name"].strip()
+    if COUNTRIES.exists():
+        with COUNTRIES.open(encoding="utf-8-sig", newline="") as fh:
+            for row in csv.DictReader(fh):
+                names[row["iso-3"].strip()] = row["country-name"].strip()
+    names.update(COUNTRY_NAMES)
     return names
 
 
-def place_label(code: str, names: dict[str, str]) -> str:
-    if code.startswith("X"):
-        return REGION_NAMES.get(code, code)
-    return names.get(code, code)
-
-
 def topic_label(slug: str) -> str:
-    return subtopic_label(slug)
+    return taxonomy_lib.label(slug)
+
+
+def l1_label(slug: str) -> str:
+    return taxonomy_lib.level1(slug) or OTHER_L1
 
 
 def topic_order() -> list[str]:
-    """Level-2 slugs in the site's own order — `home.SUBTOPIC_NAMES` is grouped by Level-1 and
-    hand-ordered within each group, so it is the ordering the topic tiles already use."""
-    return list(SUBTOPIC_NAMES)
-
-
-def l1_of(slug: str) -> str:
-    return slug.split(".", 1)[0]
+    """Level-2 slugs in `lookups/taxonomy.csv`'s own sort order."""
+    return taxonomy_lib.keys()
 
 
 # ── the window ─────────────────────────────────────────────────────
@@ -122,11 +142,9 @@ def select(run_date: date) -> tuple[list[dict], list[dict]]:
     date, so only records the source itself dated to the day are ever selected.
 
     **The second filter is the geographic remit** *(Bill, 2026-08-20)*, and until that date there
-    was none: this function took every record in the window, and a record with no place fell into
-    the `UNPLACED` group and was published there. On 19–20 August that put Thailand's national
-    passport scheme, Japan's training-data rule, Korea's teen-algorithm debate and India's
-    market-regulator AI rules into a bulletin about Africa — the topic bulletin being the worse
-    surface of the two, since it has no place dimension at all and filed them under *Digital ID*,
+    was none: this function took every record in the window. On 19–20 August that put Thailand's
+    national passport scheme, Japan's training-data rule, Korea's teen-algorithm debate and
+    India's market-regulator AI rules into a bulletin about Africa, filed under *Digital ID*,
     *Legislation* and *Public discourse* beside Nigeria's NIN.
 
     `scope_lib.in_remit()` is the rule and it is not restated here. What matters at this callsite
@@ -151,19 +169,9 @@ def select(run_date: date) -> tuple[list[dict], list[dict]]:
     return rows, excluded
 
 
-def anchor_place(row: dict) -> str:
-    """Which entry carries the detail: a region if the record has one, else the first place it
-    lists, else the unplaced group."""
-    places = facets(row["places"])
-    for p in places:
-        if p.startswith("X"):
-            return p
-    return places[0] if places else UNPLACED
-
-
-def anchor_topic(row: dict) -> str | None:
+def anchor_topic(row: dict) -> str:
     topics = facets(row["topics"])
-    return topics[0] if topics else None
+    return topics[0] if topics else UNTOPICED
 
 
 # ── the summary store ──────────────────────────────────────────────
@@ -254,7 +262,7 @@ def scan(run_date: date, as_json: bool) -> int:
         for r in excluded:
             print(f"           {r['slug']}")
     if not rows:
-        print("\nNothing published in the window. Run --assemble: both bulletins say so.")
+        print("\nNothing published in the window. Run --assemble: the bulletin says so.")
         return 0
     for r in pending:
         print()
@@ -292,18 +300,39 @@ def md_escape(text: str) -> str:
     return text.replace("[", "\\[").replace("]", "\\]")
 
 
-def head_line(row: dict) -> str:
+def country_boxes(row: dict, names: dict[str, str]) -> str:
+    """One box per African country the item is tagged to, linking to that country's page
+    *(Bill, 2026-08-21)*.
+
+    This is the country bulletin's job, done on the item instead of in a second document. Only
+    the country codes: the `X`-prefixed places are regions, blocs and the global tag, none of
+    which has a country page to link to, and a box that 404s is worse than no box.
+
+    The classes are the website's own — `.wip-item-card__status--active`, the green category
+    box the Lab index uses — so the component is shared with data-landscapers.io rather than
+    reinvented here (`main.css` carries it already, vendored). `country-box` adds nothing but
+    spacing, because the Lab's boxes stand at the head of a card and these sit inline at the end
+    of a line."""
+    codes = [c for c in facets(row["places"]) if not c.startswith("X")]
+    return "".join(
+        f'<a class="wip-item-card__status wip-item-card__status--active country-box"'
+        f' href="{SITE_BASE}/countries/{c}/" title="{c}">{names.get(c, c)}</a>'
+        for c in codes)
+
+
+def head_line(row: dict, names: dict[str, str]) -> str:
     return (f"**[{md_escape(row['title'])}]({row['url']})** — {row['publisher']}, "
-            f"{long_date(row['published'])}")
+            f"{long_date(row['published'])} {country_boxes(row, names)}").rstrip()
 
 
 def link_to(label: str) -> str:
     return f"[{label}](#{slugify(label, '-')})"
 
 
-def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bool) -> list[str]:
+def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bool,
+          names: dict[str, str]) -> list[str]:
     """One item in one section. `here` is whether this section is the one carrying the detail."""
-    out = [head_line(row), ""]
+    out = [head_line(row, names), ""]
     if here:
         body = store[row["slug"]]["summary"]
         if others:
@@ -316,114 +345,71 @@ def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bo
     return out
 
 
-def group_sections(rows: list[dict], store: dict, by: str, names: dict[str, str]) -> list[str]:
-    """The body of one bulletin. `by` is `place` or `topic`; the two differ in how the sections are
-    grouped and ordered and in nothing else, which is why one function writes both."""
-    lines: list[str] = []
-
-    if by == "place":
-        def label(code: str) -> str:
-            return place_label(code, names)
-        sections: dict[str, list[tuple[dict, str, str, list[str]]]] = {}
-        for row in rows:
-            codes = facets(row["places"]) or [UNPLACED]
-            anchor = anchor_place(row)
-            for code in codes:
-                others = [label(c) for c in codes if c != code]
-                sections.setdefault(code, []).append((row, anchor, label(anchor), others))
-        regions = sorted((c for c in sections if c.startswith("X")), key=label)
-        countries = sorted((c for c in sections if not c.startswith("X") and c != UNPLACED),
-                           key=label)
-        groups = []
-        if regions:
-            groups.append(("Regions", [(c, label(c)) for c in regions]))
-        if countries:
-            groups.append(("Countries", [(c, label(c)) for c in countries]))
-        if UNPLACED in sections:
-            groups.append((UNPLACED, [(UNPLACED, None)]))
-    else:
-        label = topic_label
-        sections = {}
-        for row in rows:
-            slugs = facets(row["topics"])
-            anchor = anchor_topic(row)
-            for slug in slugs:
-                others = [label(s) for s in slugs if s != slug]
-                sections.setdefault(slug, []).append((row, anchor, label(anchor), others))
-        order = topic_order()
-        rank = {s: i for i, s in enumerate(order)}
-        present = sorted(sections, key=lambda s: (rank.get(s, len(order)), label(s)))
-        groups = []
-        for l1, l1_label in L1.items():
-            members = [(s, label(s)) for s in present if l1_of(s) == l1]
-            if members:
-                groups.append((l1_label, members))
-        rest = [(s, label(s)) for s in present if l1_of(s) not in L1]
-        if rest:
-            groups.append(("Other", rest))
-
-    for group_label, members in groups:
-        lines += [f"## {group_label}", ""]
-        for code, section_label in members:
-            if section_label is not None:
-                lines += [f"### {section_label}", ""]
-            # Summarised items first, cross-references after them: a section that opens with three
-            # pointers to somewhere else reads as having nothing in it. Stable within each half,
-            # so the newest item is still the first thing under the heading.
-            for row, anchor_code, anchor_label, others in sorted(
-                    sections[code], key=lambda item: item[1] != code):
-                lines += entry(row, store, others, anchor_label, here=anchor_code == code)
-    return lines
+def label_of(slug: str) -> str:
+    return UNTOPICED_LABEL if slug == UNTOPICED else topic_label(slug)
 
 
-def document(kind: str, rows: list[dict], store: dict, run_date: date,
-             names: dict[str, str]) -> str:
-    start, end = window(run_date)
-    phrase = window_phrase(start, end)
-    title = "Country bulletin" if kind == "country" else "Topic bulletin"
+def groups_of(rows: list[dict]) -> tuple[dict, list[tuple[str, list[tuple[str, str]]]]]:
+    """The sections, and the Level-1 groups they sit in, both in taxonomy order.
 
-    # The breadth clause counts the sections the items reach. It is written three ways because a
-    # window can be narrow enough to make the ordinary phrasing say "across 0 countries and
-    # regions" — which is true, reads as a fault, and is the normal shape of a quiet day.
-    if kind == "country":
-        breadth = len({c for r in rows for c in facets(r["places"])})
-        counted = ("none of it tagged to a country or region" if breadth == 0
-                   else "one country or region" if breadth == 1
-                   else f"{breadth} countries and regions")
-    else:
-        breadth = len({t for r in rows for t in facets(r["topics"])})
-        counted = ("no topic" if breadth == 0
-                   else "one topic" if breadth == 1
-                   else f"{breadth} topics")
+    Returns `(sections, groups)` where `sections[slug]` is the list of items to write under that
+    Level-2 heading and `groups` is `[(level-1 label, [(slug, label), …]), …]`.
 
-    n = len(rows)
-    if n:
-        across = counted if breadth == 0 and kind == "country" else f"across {counted}"
-        stand = (f"*Compiled {run_date.isoformat()} · {n} source{'s' if n != 1 else ''} published "
-                 f"{phrase}, {across}.*")
-    else:
-        stand = (f"*Compiled {run_date.isoformat()} · no sources published on "
-                 f"{window_phrase(start, end, 'or')}.*")
+    A slug the taxonomy does not carry still gets a section — it is in the corpus and dropping it
+    here would publish a document that silently omits it — grouped under *Other* and sorted after
+    everything the taxonomy knows. A record carrying no topic at all lands in a final
+    *Not topic-specific* group for the same reason: the old topic bulletin dropped those records
+    without saying so, while counting them in its own headline figure."""
+    sections: dict[str, list[tuple[dict, str, str, list[str]]]] = {}
+    for row in rows:
+        slugs = facets(row["topics"]) or [UNTOPICED]
+        anchor = anchor_topic(row)
+        for slug in slugs:
+            others = [label_of(s) for s in slugs if s != slug]
+            sections.setdefault(slug, []).append((row, anchor, label_of(anchor), others))
 
-    head = [
-        "---",
-        "type: bulletin",
-        f"title: {title}",
-        f"subtitle: sources published {phrase}",
-        f"window_start: {start}",
-        f"window_end: {end}",
-        f"items: {n}",
-        f"compiled: {run_date.isoformat()}",
-        "---",
-        "",
-        f"# {title}",
-        "",
-        stand,
-        "",
-    ]
+    order = topic_order()
+    rank = {s: i for i, s in enumerate(order)}
+    present = sorted((s for s in sections if s != UNTOPICED),
+                     key=lambda s: (rank.get(s, len(order)), label_of(s)))
 
+    groups: list[tuple[str, list[tuple[str, str]]]] = []
+    seen: list[str] = []
+    for slug in present:                      # first appearance fixes the Level-1 order, and
+        if l1_label(slug) not in seen:        # taxonomy.csv's sort order fixes first appearance
+            seen.append(l1_label(slug))
+    for l1 in seen:
+        members = [(s, label_of(s)) for s in present if l1_label(s) == l1]
+        if members:
+            groups.append((l1, members))
+    if UNTOPICED in sections:
+        groups.append((UNTOPICED_LABEL, [(UNTOPICED, None)]))
+    return sections, groups
+
+
+def topic_nav(groups: list[tuple[str, list[tuple[str, str]]]]) -> list[str]:
+    """A bar of Level-1 links across the head of the document *(Bill, 2026-08-21)*.
+
+    Only the categories this edition actually holds. A nav item for a category with nothing under
+    it would jump to a heading that is not on the page — the bulletin is a two-day window and on
+    most days it reaches four or five of the ten categories, so a fixed bar would be mostly dead
+    links.
+
+    Raw HTML in the markdown, which `render.py`'s `md_in_html` passes through untouched: this is
+    site chrome rather than prose, so it is markup, and it is here rather than in the page
+    template because only this document knows which categories are in it."""
+    if not groups:
+        return []
+    links = "\n".join(
+        f'<a href="#{slugify(label, "-")}">{label}</a>' for label, _ in groups)
+    return ['<nav class="bulletin-nav" aria-label="Categories in this bulletin">',
+            links, "</nav>", ""]
+
+
+def body_of(rows: list[dict], store: dict, names: dict[str, str], start: str, end: str
+            ) -> list[str]:
     if not rows:
-        body = [
+        return [
             f"No source in the corpus carries a publication date of "
             f"{window_phrase(start, end, 'or')}.",
             "",
@@ -433,26 +419,75 @@ def document(kind: str, rows: list[dict], store: dict, run_date: date,
             "reports, which select on what a record moves rather than on when it was published.",
             "",
         ]
-    elif kind == "country":
-        body = group_sections(rows, store, "place", names)
-    else:
-        body = group_sections(rows, store, "topic", names)
 
-    if kind == "country":
-        tail = [copy_md("bulletin", "tail-country"), ""]
-    else:
-        tail = [copy_md("bulletin", "tail-topic"), ""]
+    sections, groups = groups_of(rows)
+    lines = topic_nav(groups)
+    for group_label, members in groups:
+        lines += [f"## {group_label}", ""]
+        for slug, section_label in members:
+            if section_label is not None:
+                lines += [f"### {section_label}", ""]
+            # Summarised items first, cross-references after them: a section that opens with three
+            # pointers to somewhere else reads as having nothing in it. Stable within each half,
+            # so the newest item is still the first thing under the heading.
+            for row, anchor_slug, anchor_label, others in sorted(
+                    sections[slug], key=lambda item: item[1] != slug):
+                lines += entry(row, store, others, anchor_label, here=anchor_slug == slug,
+                               names=names)
+    return lines
 
-    return "\n".join(head + body + (tail if rows else [])).rstrip() + "\n"
+
+def document(rows: list[dict], store: dict, run_date: date, stamp: str,
+             names: dict[str, str]) -> str:
+    """The whole markdown file. `stamp` is `YYYY-MM-DD HH:MM` — see `assemble()` for why it is
+    passed in rather than read from the clock here."""
+    start, end = window(run_date)
+    when = datetime.strptime(stamp, "%Y-%m-%d %H:%M")
+    subtitle = (f"Last updated {when:%d-%m-%Y} at {when:%H:%M} — "
+                f"Covering sources published on {window_phrase(start, end)}")
+
+    head = [
+        "---",
+        "type: bulletin",
+        "title: Bulletin",
+        f"subtitle: {subtitle}",
+        f"window_start: {start}",
+        f"window_end: {end}",
+        f"items: {len(rows)}",
+        f"compiled: {stamp}",
+        "---",
+        "",
+        "# Bulletin",
+        "",
+    ]
+    return "\n".join(head + body_of(rows, store, names, start, end)).rstrip() + "\n"
 
 
-def assemble(run_date: date) -> int:
+def split_body(text: str) -> str:
+    """Everything below the frontmatter — the span the compile timestamp must not be inside of,
+    and the same span `render.py` hashes for its edition gate."""
+    if not text.startswith("---"):
+        return text
+    end = text.find("\n---", 3)
+    return text if end == -1 else text[end + 4:].lstrip("\n")
+
+
+def held_stamp(path: Path) -> str | None:
+    if not path.exists():
+        return None
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.startswith("compiled:"):
+            return line.split(":", 1)[1].strip()
+    return None
+
+
+def assemble(run_date: date, now: datetime | None = None) -> int:
     rows, excluded = select(run_date)
     store = load_store()
     missing = [r["slug"] for r in rows if r["slug"] not in store]
     if missing:
         print(f"STOP: {len(missing)} item(s) in the window have no summary — "
-              f"the bulletins are not written:", file=sys.stderr)
+              f"the bulletin is not written:", file=sys.stderr)
         for slug in missing:
             print(f"  {slug}", file=sys.stderr)
         print("Run --scan for the work order, then --write each one.", file=sys.stderr)
@@ -460,15 +495,21 @@ def assemble(run_date: date) -> int:
 
     names = country_names()
     BULLETINS.mkdir(parents=True, exist_ok=True)
-    for kind in ("country", "topic"):
-        path = BULLETINS / f"{kind}-bulletin.md"
-        text = document(kind, rows, store, run_date, names)
-        before = path.read_text(encoding="utf-8") if path.exists() else None
-        if before == text:
-            print(f"unchanged  {path.relative_to(CORPUS)}")
-            continue
-        path.write_text(text, encoding="utf-8")
-        print(f"written    {path.relative_to(CORPUS)}  ({len(rows)} item(s))")
+
+    stamp = (now or datetime.now()).strftime("%Y-%m-%d %H:%M")
+    text = document(rows, store, run_date, stamp, names)
+
+    # The timestamp is the one field that would differ on every run for a document that had not
+    # moved, so the comparison is on the body below the frontmatter. Matching means the file is
+    # left exactly as it is — timestamp included, because *last updated* is a claim about the
+    # content and not about the build.
+    before = DOCUMENT.read_text(encoding="utf-8") if DOCUMENT.exists() else None
+    if before is not None and split_body(before) == split_body(text):
+        print(f"unchanged  {DOCUMENT.relative_to(CORPUS)}  "
+              f"(last updated {held_stamp(DOCUMENT)})")
+    else:
+        DOCUMENT.write_text(text, encoding="utf-8")
+        print(f"written    {DOCUMENT.relative_to(CORPUS)}  ({len(rows)} item(s), {stamp})")
 
     if excluded:
         print(f"remit      {len(excluded)} record(s) in the window excluded by the geographic remit")
@@ -488,7 +529,7 @@ def main() -> int:
     ap.add_argument("--json", action="store_true", help="with --scan, machine-readable")
     ap.add_argument("--write", metavar="SLUG", default=None, help="record one item's summary")
     ap.add_argument("--text", default=None, help="the summary (default: read stdin)")
-    ap.add_argument("--assemble", action="store_true", help="write both bulletins")
+    ap.add_argument("--assemble", action="store_true", help="write the bulletin")
     args = ap.parse_args()
 
     run_date = date.fromisoformat(args.date) if args.date else date.today()

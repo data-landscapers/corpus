@@ -4,7 +4,9 @@ Section intros and caveats for `site/index.html`, read by `scripts/home.py`.
 
 The `section-intro` blocks are what a reader meets first; the `caveat` blocks sit under the boxes and explain why the numbers do not add up the way an unwary reader would expect them to. Both matter more than their length suggests — this page is the one most people see and the only one that has to explain the shape of the whole corpus.
 
-Finance, Catalogue and Method left this page on 2026-08-19 and became top-level pages of their own; their intros went with them. What is left here is the three sections home still owns.
+Finance, Catalogue and Method left this page on 2026-08-19 and became top-level pages of their own; their intros went with them. What is left here is the three sections home still owns, plus the two-line Bulletin section at the top.
+
+The Bulletin section is heading, this paragraph and nothing else *(Bill, 2026-08-21)*: the two boxes and the caveat under them went, along with the second bulletin they counted. `bulletin-intro` was a string constant in `home.py` until then, which is why the instruction to leave the editable text and remove the rest did not describe what was there — it is editable here now.
 
 ## hero
 
@@ -26,6 +28,6 @@ Sources tagged to a region, a bloc or the continent as a whole, rather than to a
 
 A controlled vocabulary in a strict single-parent tree, so a category rolls up to every topic beneath it. A source carries as many topics as it evidences, and is counted under each of them. Data protection, digital identity, cross-border data flows, connectivity, artificial intelligence and the rest. Each topic resolves to the documents that evidence it, not to a summary of them.
 
-## bulletins-caveat
+## bulletin-intro
 
-The count is the sources in the window, and both bulletins cover the same ones. The corpus acquires in batches, so a quiet bulletin means nothing was published on those two days rather than that nothing arrived.
+Everything published in the last two days, by topic, with the countries each item touches. Compiled at the end of each collection sweep; a quiet bulletin means nothing was published on those two days, not that nothing arrived.

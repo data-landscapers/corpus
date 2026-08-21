@@ -37,6 +37,13 @@
 .caveat { font-size: 0.76rem; color: var(--ink-faint); line-height: 1.5; margin: 0.5rem 0 0; }
 .section-heading { margin-top: 1.4rem; }
 
+/* The Bulletin heading is a link, because its two boxes came off on 2026-08-21
+ * and the heading is now the only way into the page. It should read as a
+ * heading, not as a link in a heading's clothing — so it takes the heading's
+ * own colour and picks up the accent on hover, like the nav does. */
+.section-heading a { color: inherit; border-bottom: none; }
+.section-heading a:hover { color: var(--accent); border-bottom: none; }
+
 /* Country / region matrix: seven boxes to a row, a touch shorter than before,
  * and a shared min-height so countries and regions line up box-for-box (Bill,
  * 2026-08-13, items 4 and 6). The longest region name ("Sub-Saharan Africa")
