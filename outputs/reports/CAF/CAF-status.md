@@ -1,15 +1,15 @@
 ---
 title: Central African Republic — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-21
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 96
+sources_cited: 95
 sections_written: 37
 not_established: 4
-acquire_lines: 29
+acquire_lines: 28
 ---
 ## ICT Infrastructure
 
@@ -167,7 +167,7 @@ ARCEP acquired [spectrum-monitoring and quality-of-service equipment](https://ww
 
 The Central African Republic has had a data protection law since January 2024 and has no authority to enforce it. [The independent supervisory authority the law required within twelve months of enactment has not been established, and the Ministry of Digital Economy, Posts and Telecommunications acts as interim overseer](https://www.techhiveadvisory.africa/insights/review-of-the-central-african-republic-data-protection-law) (2025); the position had not changed [as at January 2026, with the law in place and the authority it provides for still unappointed](https://dataprotection.africa/central-african-republic).
 
-The statute is a full one on its face. [Law No. 24.001 of January 2024 sets out lawfulness, transparency, purpose-limitation and storage-limitation principles, classifies biometric and genetic data as sensitive, gives data subjects rights of access, rectification and erasure, requires a data protection officer, and mandates the creation of an independent supervisory authority within twelve months](https://arcep.cf/fr/images/documents/reglementation/lois/Loi_24_001_portant_protection_des_donnes_a_caractere_personnel.PDF). Its [territorial scope extends to processing for security, defence and justice purposes, and it exempts purely personal use](https://www.techhiveadvisory.africa/insights/review-of-the-central-african-republic-data-protection-law). The right of access it grants has [no channel behind it through which a person can actually obtain their own identity data](https://www.techhiveadvisory.africa/insights/review-of-the-central-african-republic-data-protection-law).
+The statute is a full one on its face, on a secondary reading of it — the primary text is not held. [Law No. 24.001 of January 2024 is reviewed as setting out lawfulness, transparency, purpose-limitation and storage-limitation principles, classifying biometric and genetic data as sensitive, giving data subjects rights of access, rectification and erasure, requiring a data protection officer, and mandating the creation of an independent supervisory authority within twelve months](https://www.techhiveadvisory.africa/insights/review-of-the-central-african-republic-data-protection-law). Its [territorial scope extends to processing for security, defence and justice purposes, and it exempts purely personal use](https://www.techhiveadvisory.africa/insights/review-of-the-central-african-republic-data-protection-law). The right of access it grants has [no channel behind it through which a person can actually obtain their own identity data](https://www.techhiveadvisory.africa/insights/review-of-the-central-african-republic-data-protection-law).
 
 The exposure the law was written against has not moved much. At appraisal in March 2022 the World Bank recorded [inadequate safeguards for both identification and civil registration data](https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf). Those systems are still not joined: there is [no formal data-sharing framework or interoperability agreement connecting the national identity system, civil registration and the electoral register, and no documented agreements or APIs between them](https://openknowledge.worldbank.org/server/api/core/bitstreams/fde5ba5d-4bb9-5671-94ca-67ee6a832dd3/content) (2025). The credentials themselves are [produced and maintained by foreign vendors](https://greaterinternetfreedom.org/wp-content/uploads/2023/08/BDI_CAR-FINAL-APPROVED-27.06.2023.pdf), the country [imposes no data localisation requirements, so government and commercial data may be stored abroad](https://dataprotection.africa/central-african-republic/), and [registration of every SIM card against an identity document is legally mandatory](https://privacyinternational.org/long-read/3018/timeline-sim-card-registration-laws). Personal data is being collected under obligation, held by contractors, permitted to leave the country, and supervised by nobody.
 
