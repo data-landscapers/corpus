@@ -47,17 +47,19 @@ vocabulary rather than two is also what makes the topic nav bar at the head of t
 agree with the headings it jumps to.
 
 **Last updated is OSINT's last ingest, not this script's clock** *(Bill, 2026-08-21)*. The build
-runs after the sweep cycle closes, so the honest answer to *when was this page last updated* is
-the moment the material behind it last moved — `osint_lib.last_ingest()` reads it from the
+runs after the sweep cycle closes, so the answer to *when was this page last updated* that is
+about the reader's material rather than about us is the moment that material last moved —
+`osint_lib.last_ingest()` reads it from the
 mirror's `logs/ingested_log.md`. Where the mirror cannot be read the build clock stands in, and
 the run says so rather than passing one off as the other.
 
 **The stamp moves only when the document does.** A stamp restamped on every run would say the
 bulletin had changed when nothing in it had, so `--assemble` rebuilds the document *with the
 stamp already on disk* and leaves the file alone if that reproduces it exactly. So *last
-updated* means *the ingest whose catch produced what you are reading* — which is also what keeps
-`render.py`'s content gate honest, since it hashes the body below the frontmatter and a stamp
-that moved on its own would be a change the gate could not see.
+updated* means *the ingest whose catch produced what you are reading*, never *the run that last
+rewrote the file*. It has to be that way round for `render.py`'s edition gate as well: the gate
+cuts a dated PDF whenever the content moves, and a stamp that moved on its own would mint an
+edition a day for a document nobody had changed.
 
 Anchors resolve because `render.py` runs Markdown's `toc` extension, which gives every heading an
 id from the same `slugify` this module imports. Two implementations of that slug is how the links
@@ -571,6 +573,14 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
         DOCUMENT.write_text(text, encoding="utf-8")
         print(f"written    {DOCUMENT.relative_to(CORPUS)}  ({len(rows)} item(s))")
         print(f"updated    {stamp}  — from {source}")
+
+    # **Said on every run, not only the ones that write.** The mirror being unreadable is a fact
+    # about this run either way, and the run most likely to bury it is the quiet one: an
+    # unchanged document prints a single line, and that line is where nobody would look. This
+    # module's whole reason for returning `None` rather than guessing is that the caller says
+    # which it got, and a caller that says so only when it happens to be writing does not.
+    if source != "OSINT ingest":
+        print(f"mirror     {osint_lib.MIRROR} unreadable — no ingest stamp available this run")
 
     if excluded:
         print(f"remit      {len(excluded)} record(s) in the window excluded by the geographic remit")

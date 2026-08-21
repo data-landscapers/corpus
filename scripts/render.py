@@ -108,8 +108,36 @@ def frontmatter(text: str) -> tuple[dict, str]:
 
 
 
+def gate_span(meta: dict, body_md: str) -> str:
+    """What `record()` is taken over: the body, plus the bulletin's subtitle.
+
+    **The bulletin is the one document whose frontmatter carries prose the reader sees**
+    *(2026-08-21)*. Everywhere else `subtitle:` is either absent or a fixed string, and the
+    frontmatter is machinery — `compiled:`, `record:` — which is exactly why the digest is
+    taken below it. The bulletin generates its subtitle, and it is the page's byline: *last
+    updated* to the minute and the days the edition covers. A gate blind to it would hold the
+    standing edition while the served page kept a byline the source had already corrected, and
+    report nothing, because from the outside an unchanged document and an unseen change look
+    the same.
+
+    This cannot fire spuriously, which is the only reason it is safe to widen the span. The
+    subtitle moves when the covered days move, and the covered days are derived from the same
+    rows as the body; the one field that moves on its own is the stamp, and `bulletin.py`'s
+    `--assemble` will not write a file whose only difference is that. So the subtitle reaches
+    this function already changed only when the document has genuinely changed.
+
+    It costs one edition once — the bulletin's held `dl-record` was taken over the narrower
+    span and will not match on the next render, so a PDF is cut that would not otherwise have
+    been. That is the same direction `held_edition()` errs in for a page written before the
+    gate existed, and for the same reason."""
+    if meta.get("type") == "bulletin":
+        return meta.get("subtitle", "") + "\n" + body_md
+    return body_md
+
+
 def record(body_md: str) -> str:
-    """The document's content digest — the body, below the frontmatter.
+    """The document's content digest — the body, below the frontmatter (`gate_span()` above
+    for the bulletin's one exception).
 
     **Below the frontmatter is the whole of the trick** (design.md §9). `compiled:` moves
     whenever the file is rewritten and `record:` is a digest of the same content, so a hash
@@ -447,7 +475,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     """
     raw = md_path.read_text(encoding="utf-8")
     meta, body_md = frontmatter(raw)
-    rec = record(body_md)
+    rec = record(gate_span(meta, body_md))
 
     unit, kind = parse_name(md_path)
     # The edition is the date this file was RENDERED, not the date the source was
@@ -654,7 +682,7 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     what it is for — so writing it over the published name would change the bytes under a
     citation, which is the failure the suffix exists to prevent."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    rec = record(frontmatter(md_path.read_text(encoding="utf-8"))[1])
+    rec = record(gate_span(*frontmatter(md_path.read_text(encoding="utf-8"))))
 
     held = None if (edition or force) else held_edition(md_path, out_dir, rec)
     if held is not None:

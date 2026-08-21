@@ -39,8 +39,8 @@ _INGEST_HEAD = re.compile(r"^##\s+(\d{4}-\d{2}-\d{2} \d{2}:\d{2})\b")
 def last_ingest() -> dt.datetime | None:
     """When OSINT's ingest last admitted anything to `raw/`, from `logs/ingested_log.md`.
 
-    **This is the moment the corpus last moved**, which is the honest answer to *when was this
-    page last updated* — the build clock answers *when did we last run*, and on a day when
+    **This is the moment the corpus last moved**, which is what *when was this page last
+    updated* is asking. The build clock answers *when did we last run*, and on a day when
     nothing came in those are different claims and only one of them is about the reader's
     material.
 
