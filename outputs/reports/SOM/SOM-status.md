@@ -1,309 +1,352 @@
 ---
 title: Somalia — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-21
 place: SOM
-ledger_rows: 53
-not_held: 10
-record: af976d837169
+region: XEA
+built_by: STATUS-INIT
+hub_last_reviewed: 2026-07-23
+intersections_read: 7
+sources_cited: 129
+sections_written: 37
+not_established: 4
+acquire_lines: 46
 ---
-
-# Somalia: status report
-
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/SOM/ledger.csv` (53 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
-
-**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
-
-## Summary of position
-
-<!-- narrative: summary -->
-Somalia is building foundational digital systems from a base of almost nothing, and building them fast. The national identity credential, issued since September 2023, reached [about 2m registrations by April 2026 against a target of 15m by the end of 2029](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx), in a country where [about 85% of an estimated 19.7m people held no legal identity](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx). Payments run the other way round: a private mobile-money system reaching most of the population, into which the state is now inserting a rail — the [instant payment system, live since January 2025](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network), whose mobile-money integration has no published date.
-
-The legal stack is unusually complete for a fragile state. A data-protection Act has been in force since March 2023, its [regulatory framework was adopted in February 2026](https://techafricanews.com/2026/01/08/somalia-advances-digital-governance-with-approval-of-public-data-protection-regulation/), and a [Cybersecurity Law was approved in January 2026](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats).
-
-The unsettled questions are political rather than technical: two member states decline the federal credential, and the compulsory use imposed on it rests on a proclamation that a published legal analysis says the Act does not authorise.
-<!-- /narrative -->
-
-## Infrastructure
+## ICT Infrastructure
 
 ### Connectivity
+<!-- infra.connect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Starlink satellite service | [Implemented](https://www.hiiraan.com/news4/2025/Aug/202463/starlink_launches_in_somalia_bringing_satellite_internet_to_rural_areas_and_narrowing_the_digital_divide.aspx) | Available nationwide from August 2025, four months after licensing |
-| Submarine cable landings and their regulatory framework | [In development](https://www.hiiraan.com/news4/2026/Jun/205487/somalia_ifc_opens_first_technical_working_group_on_submarine_cable_infrastructure.aspx) | First submarine cable landing technical working group opened with the IFC, June 2026 |
+Somalia's mobile network is one of its few genuinely improving national systems and its internet is not: [Mobile Communications is the country's tenth best-scoring indicator on the Ibrahim Index at 45.0 out of 100 in 2023, up 20.8 points over the decade and among its ten most improved measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf), while the same scorecard puts [Internet & Computers at 21.9 out of 100, 43rd of 54, on a decade gain of just 6.1 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf). The broader [Infrastructure sub-category scores 21.5 out of 100, 49th of 54 and below the African average](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf), having moved 6.4 points in ten years.
+
+[About 27.9 per cent of the population used the internet in 2024 on ITU data](https://datahub.itu.int/data/?e=1&i=11624), and [unique mobile subscriber penetration sits below 40 per cent](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2024/05/ME-MENA-2023.pdf), well under the raw subscription count that multi-SIM ownership inflates. The gap is no longer mainly one of network reach. [Hormuud, the dominant operator, said in June 2026 that its 4G network covers more than 70 per cent of the country while around half its own subscriber base still uses feature phones](https://itweb.africa/article/hormuud-anchors-somalias-digital-economy/Olx4zMkaZozv56km), which makes the handset, not the mast, the thing standing between a Somali and the internet.
+
+Satellite has filled part of the rural gap since [Starlink was licensed in April 2025](https://www.hiiraan.com/news4/2025/Apr/201121/starlink_launches_in_somalia_expanding_satellite_internet_to_underserved_regions.aspx), and [AstaanConnect became the first official Somali reseller in September 2025, selling and installing locally on plans from $36.90 a month](https://www.hiiraan.com/news4/2025/Sept/203052/astaanconnect_becomes_somalia_s_first_official_starlink_reseller.aspx). Fixed capacity lands at [Mogadishu, Berbera and Bosaso, but outside the cities last-mile electricity supply constrains what any of it can serve](https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx). Traffic exchange inside the country runs through [an exchange point in Mogadishu operated by SomaliREN, active since 2018](https://af-ix.org/ixps-list).
+
+Two pieces of technical governance moved in 2026. The [National Communications Authority is accelerating national migration to IPv6 under a strategy adopted in February 2025, ahead of IPv4 exhaustion](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-upgrades-digital-infrastructure-to-bypass-global-ipv4-address-depletion), and in June 2026 it opened, with the IFC, [Somalia's first Submarine Cable Landing Technical Working Group, meeting in Nairobi under the IFC Broadband Infrastructure Project](https://www.hiiraan.com/news4/2026/Jun/205487/somalia_ifc_opens_first_technical_working_group_on_submarine_cable_infrastructure.aspx).
 
 ### Data Storage
+<!-- infra.store -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Government data-hosting and cloud guidelines | [Planned](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Still at its November 2022 baseline against an April 2028 target |
-| Hormuud data centre estate | [Implemented](https://www.telecompaper.com/news/hormuud-telecom-plans-to-build-more-green-data-centres--1521594) | Operator reported as investing in further solar-powered domestic capacity |
-| National Data Centre, Mogadishu | [In development](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure) | Restated as planned by the state minister for communications, 2026-08-07 |
+The Somali government says its own data sits abroad. The Ministry of Communications and Technology stated in April 2024 that the National Data Center then being built in Mogadishu would ["eliminate dependencies of national data on international data storage solutions, that is stored outside the country"](https://moct.gov.so/en/the-minister-of-communications-and-technology-toured-the-national-data-center/), and [repeated the rationale in May 2025](https://moct.gov.so/en/h-e-minister-mohamed-adam-moalim-ali-inspects-progress-of-the-national-data-center-construction/). That is the clearest official statement of where the country's public records physically are, and it is an admission rather than a plan.
+
+The facility meant to change it has been a long time arriving. It is [intended as the central repository for the data of all government institutions](https://moct.gov.so/en/the-minister-of-communications-and-technology-toured-the-national-data-center/), and the minister [described construction as nearing completion after a site visit on 6 May 2025, urging the implementing company toward timely and high-quality delivery](https://moct.gov.so/en/h-e-minister-mohamed-adam-moalim-ali-inspects-progress-of-the-national-data-center-construction/). Fifteen months later, on 7 August 2026, [the State Minister for Communications described the centre as planned rather than built](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure).
+
+Onshoring is therefore a stated aim with nothing behind it in law: Somalia [imposes no data localisation requirement and instead runs an adequacy-based cross-border transfer regime](https://dpa.gov.so/guidance-2/) under the Data Protection Act. Nor is there a domestic hyperscale option — [no hyperscale provider operates a region in Somalia, the nearest availability zones being in Bahrain, the UAE and Qatar](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html). The one independently tier-certified facility serving the country is [Wingu Africa's carrier- and cloud-neutral Tier III data centre at Berbera in Somaliland, commissioned in 2021](https://www.ocolo.io/colocation/winguafrica/berbera-somaliland/), outside federal jurisdiction.
+
+Where onshore capacity has appeared, it has come from suppliers and operators rather than from the state's own build. Pakistan's NADRA [delivered data centre infrastructure for the national identification system in March 2025](https://www.nadra.gov.pk/pr-mar-317-2025pakistan-strengthens-support-for-somalias-national-identification-system/), a facility separate from the government centre, and [NIRA holds enrollees' fingerprints and facial images in a centralised database at the Authority's own data centre](https://nira.gov.so/features-snid). Hormuud says it is [investing in solar-powered data centres inside Somalia](https://itweb.africa/article/hormuud-anchors-somalias-digital-economy/Olx4zMkaZozv56km).
+
+### Energy
+<!-- infra.energy -->
+
+Power in Somalia is not scarce so much as unaffordable: electricity [averaged about USD 0.61 per kWh in 2023 and exceeded USD 1 per kWh where supply came from private diesel micro-grids, against roughly USD 0.15 in Kenya and USD 0.06 in Ethiopia](https://www.trade.gov/country-commercial-guides/somalia-energy-and-electricity). That is among the highest tariffs on the continent, and it is the number that decides whether a data centre, a tower site or a clinic terminal can be run at all.
+
+[Around 50.3 per cent of the population had access to electricity in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS), and the national figure hides a split that maps directly onto the digital divide: the National Bureau of Statistics reports [urban access of around 79 per cent against 23.9 per cent in rural areas for 2023](https://nbs.gov.so/wp-content/uploads/2026/01/Progress-in-SDG-Energy-Indicator.pdf), a gap of some 55 percentage points. On the Ibrahim Index, [Access to Energy scores 26.0 out of 100 for 2023, 37th of 54, and has moved 0.5 points in a decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf) — one of Somalia's better placings, and one of its flattest trends.
+
+Supply is still overwhelmingly diesel, with [solar and other renewables a minority of generation in 2023](https://africa-energy-portal.org/aep/country/somalia). The policy response is off-grid: the Ministry of Energy and Water Resources is [developing a National Mini-grid Policy and Regulation with UNDP and GEF support through the Africa Mini-grids Programme, while deployment proceeds through projects including an AfDB-backed solar and grid programme in Bosaso](https://africaminigrids.org/somalia-advances-national-clean-energy-transition-through-amp/). Reliability is measured hardly at all — [no nationally representative measure of outage frequency exists, though the World Bank's Somalia Enterprise Survey, fielded between June and November 2025, collects outage frequency, duration and sales losses](https://microdata.worldbank.org/catalog/8119).
+
+What that costs a digital service shows up at the point of care. In Mogadishu's Electronic Immunization Register, [power cuts and unreliable connectivity mean staff still record on paper and upload later, so the system is not continuously online where it is used (February 2026)](https://www.hiiraan.com/national4/2026/Feb/204540/somalia_expands_digital_public_infrastructure_dpi_for_child_immunization_in_mogadishu_.aspx).
 
 ### Technical Capacity
+<!-- infra.capacity -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National IPv6 migration | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-upgrades-digital-infrastructure-to-bypass-global-ipv4-address-depletion) | Migration accelerated by the regulator and a National IPv6 Centre |
+The largest single improvement Somalia has recorded anywhere on the Ibrahim Index is in running a state: [Public Administration — civil registration, statistical capacity, effective administration, tax and revenue mobilisation and budgetary management — gained 20.1 points over 2014-2023, the biggest movement across all sixteen sub-categories, to reach 30.1 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf). It is still 48th of 54, as is [Effective Administration on 30.7 out of 100 for 2023, itself up 15.9 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf). The direction is real; the starting point was close to nothing.
+
+In-house build has begun to appear alongside the procurement. NIRA's Director-General says HUBIYE, the Certificate Delivery System and the eAqoonsi mobile ID were ["entirely developed by Somali engineers at NIRA"](https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access) — a claim about the application layer, sitting above an identity system whose [core technology and hardware come from Pakistan's NADRA](https://www.biometricupdate.com/202506/somalia-walking-a-thorny-road-to-an-inclusive-national-digital-id-system), the primary technology partner. That is the shape of Somali technical capacity in 2026: Somali teams on the services citizens touch, foreign vendors underneath.
+
+Two domestic technical institutions now anchor specific programmes. A [National IPv6 Center hosted at Jamhuriya University supports the national IPv6 migration (June 2026)](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-upgrades-digital-infrastructure-to-bypass-global-ipv4-address-depletion), giving that work a base inside the country rather than in a consultancy. The national incident-response capability started smaller still, with [45 officials in SOMCIRT's first-phase training (March 2026)](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center).
+
+Outside government, the developer base is thin and self-organised, clustered around communities such as [Dugsiiye and Somalis in Tech](https://github.com/somalisintech).
 
 ### Cybersecurity
+<!-- infra.cybersec -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National Cybersecurity Risk Management Framework | [Implemented](https://techafricanews.com/2026/07/21/somalia-launches-national-cybersecurity-risk-management-framework/) | Launched 21 July 2026, after a national consultation in April |
-| Somalia Computer Incident Response Team (SOMCIRT) | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center) | Opened by the Prime Minister, 7 March 2026 |
+Somalia acquired both a cyber law and a national CERT within six weeks in early 2026. Parliament [approved the Cybersecurity Law on 26 January 2026, giving policy responsibility to the Ministry of Communications and Technology, technical oversight to the National Communications Authority and compliance obligations to critical-infrastructure operators](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats). The [Somalia Computer Incident Response Team, mandated by that law, became operational on 7 March 2026, opened by Prime Minister Hamza Abdi Barre to coordinate prevention, detection and response and to issue national alerts](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center). Before it, the country had scored [37.38 out of 100 in the ITU Global Cybersecurity Index 2024, Tier 4 of five](https://www.itu.int/pub/D-HDB-GCI.01-2024).
 
-<!-- narrative: infrastructure -->
-Starlink was licensed in April 2025 and [available across the country by August, at US$390 for hardware and US$70 a month](https://www.hiiraan.com/news4/2025/Aug/202463/starlink_launches_in_somalia_bringing_satellite_internet_to_rural_areas_and_narrowing_the_digital_divide.aspx), on a full foreign-ownership model accepted without major public debate. Internet users were put at [10.7m, more than half the population, with median fixed download at 18.76 Mbps and mobile data at about US$0.50 per GB](https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx) in October 2025.
+The institutions are in place ahead of the rules they are meant to enforce. Somalia has [no adopted cybersecurity risk-management and compliance framework: the National Communications Authority convened a national consultation in April 2026 to build one, covering risk identification, regulatory compliance and institutional responsibilities](https://www.hiiraan.com/news4/2026/Apr/204984/somalia_launches_national_effort_to_build_cybersecurity_framework.aspx). The [Electronic Transactions and Cybercrime bills remained before Parliament, the latter having completed its first reading in December 2025](https://moct.gov.so/en/%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%A6%F0%9D%97%A7-%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%94%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9A-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%A7%F0%9D%97%9B/), so prosecution of an incident SOMCIRT detects still rests on thinner ground than the defence of it. Breach reporting is the one obligation already in force, under [the Data Protection Act's 72-hour notification duty](https://www.dataguidance.com/sites/default/files/somalia_data_protection_act-2.pdf).
 
-The cables that carry the rest have no regulatory framework. Landings exist at Mogadishu, Berbera and Bosaso, and the regulator [opened a first technical working group with the IFC in June 2026](https://www.hiiraan.com/news4/2026/Jun/205487/somalia_ifc_opens_first_technical_working_group_on_submarine_cable_infrastructure.aspx) on outage management, competition and a framework that is not yet published. Address capacity is being extended through a [national IPv6 migration run with a centre at Jamhuriya University](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-upgrades-digital-infrastructure-to-bypass-global-ipv4-address-depletion), with no adoption percentage published.
+Capability is being bought in from abroad rather than grown. The build-out rests on [cooperation memoranda signed with Turkey on 10 February 2026 and with Malaysia and the UN Office on Drugs and Crime](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center), following the [EU- and German-financed D4D Initiative for Digital Government and Cybersecurity for the Horn of Africa, a EUR 3 million technical assistance programme covering Somalia alongside Kenya and Djibouti that ran to 2025](https://d4daccess.eu/sites/default/files/2024-03/2023-02-03_EN_Factsheet_IDGC_Horn%20of%20Africa.pdf). Assurance work on the state's most sensitive system has been commissioned without reaching the public: the Ministry of Finance [tendered for a firm to assess security at NIRA headquarters and registration centres](https://www.mof.gov.so/sites/default/files/Publications/Terms_of_Reference_Security_Assessment_Firm.pdf), and no results are in the public domain.
 
-Hosting is private. Hormuud [runs the country's working hosting base and states it is investing in further domestic capacity](https://itweb.africa/article/hormuud-anchors-somalias-digital-economy/Olx4zMkaZozv56km). The state's own National Data Centre was [described as nearing completion in May 2025](https://moct.gov.so/en/h-e-minister-mohamed-adam-moalim-ali-inspects-progress-of-the-national-data-center-construction/) and no launch is recorded since; the ministry's stated purpose for it — ending reliance on storage outside the country — is also its statement that government data was held offshore when it spoke. No government data-hosting or cloud guidelines are published: the World Bank's seventh implementation report on the regional digital-integration project records the indicator [still at its November 2022 baseline against an April 2028 target](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt).
-
-Cyber institutions were built within eighteen months. The [incident response team opened on 7 March 2026 with 45 officials in first-phase training](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center), and a [national risk management framework was launched on 21 July 2026](https://techafricanews.com/2026/07/21/somalia-launches-national-cybersecurity-risk-management-framework/) with no compliance deadline or reporting duty attached.
-<!-- /narrative -->
-
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
+<!-- dpi.exchange -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Interoperability between government systems | [In development](https://wardheernews.com/digital-public-infrastructure-dpi-somalia-risks-repeating-old-mistakes-in-a-digital-form/) | Named as the central risk in a domestic analysis and in the DPI summit communique, April 2026 |
+Somalia's Auditor-General found in the 2025 annual audit that [seven government revenue and financial-management systems — business registration, e-tax, road tax, rental income tax, e-visa, non-tax e-revenue and digital financial services collection — are not integrated with the Somali Financial Management Information System](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/), and a separate IT audit of the customs system published in January 2025 found [no integration between customs and the government's other revenue-collection systems](https://oag.gov.so/wp-content/uploads/2025/01/SOMCAS-AUDIT-SUMMARY-converted.pdf). Behind the individual findings sits a structural one: [Somalia has no whole-of-government data exchange platform and no primary legislation establishing authority for cross-government data sharing](https://documents1.worldbank.org/curated/en/099045403212411797/txt/IDU105f167fa1085214f8b1919f141249b1e8fae.txt), so ministries and agencies hold data in their own separate systems with no shared enterprise architecture between them.
+
+What does cross moves point to point rather than through a shared layer. The instant payment system is [built on the ISO 20022 messaging standard](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network), the one national standard in production use, but [integration of the mobile money providers into it remains outstanding, with no published date, leaving the country's dominant payment rails outside the national instant payment system](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) (July 2026).
+
+Most of the joins that would matter are pipeline rather than plumbing. Integration of the digital civil registration system with the national ID, healthcare, immigration and education systems is [under development with UNICEF and German government support and has not been completed](https://www.biometricupdate.com/202508/somalia-rolls-out-digital-crvs-system-on-foundations-laid-with-unicef-support) (2025), and linking the Unified Social Registry to the identity system is [described in government and humanitarian coordination documents as a future goal](https://reliefweb.int/attachments/57fd1c05-6b3f-4612-b5d3-9c3ebe7ad1f5/REVISED%20Somalia%20HCT%20Policy%20on%20Registration%20Targeting%20Data%20Sharing%20and%20Referrals_Oct%202025.pdf) (October 2025). NIRA's Director General acknowledged in June 2025 that [the siloed nature of Somali government databases and the absence of interoperability standards remain a major obstacle](https://www.biometricupdate.com/202506/somalia-walking-a-thorny-road-to-an-inclusive-national-digital-id-system).
+
+Coordination has so far been convened rather than built. Somalia held its [first National Digital Public Infrastructure Summit in Mogadishu on 14-15 February 2026](https://sonna.so/en/mogadishu-to-host-first-national-digital-public-infrastructure-summit), bringing the Central Bank, the National Communications Authority, NIRA and the Data Protection Authority together to map interoperability across the digital estate, and NIRA opened a [National ID and Public Service Integration Working Group with UNDP in June 2026](https://nira.gov.so/news/nira-launches-national-id-and-public-service-integration-working-group). The [Digital Transformation Strategy for 2025-2030](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support) is meant to coordinate all of it, and there is no standalone data exchange strategy.
 
 ### Digital Identity and CRVS
+<!-- dpi.id -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Compulsory use of the national identity credential | [Implemented, contested](https://www.biometricupdate.com/202603/somalia-makes-biometric-digital-id-mandatory-for-inter-state-travel) | Enforced at Aden Adde airport for inter-state travel from March 2026 |
-| eAqoonsi mobile identity application | [Implemented](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx) | More than 50,000 downloads reported, April 2026 |
-| HUBIYE consent-based verification platform | [Implemented](https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access) | Launched with the certificate delivery system and the mobile identity application |
-| Member state participation in the national identity system | [Implemented, not adopted in two member states](https://www.hiiraan.com/news4/2025/Sept/202985/hassan_sheikh_says_10_million_somali_passports_issued_vows_overhaul_of_id_system.aspx) | Puntland operating its own identification authority |
-| National passport | [In development](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/) | Cabinet approved a third-generation e-passport plan, 6 August 2026 |
-| Somali National Identity credential (SNID) | [Implemented](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx) | About 2m registered by April 2026 |
+Around two million Somalis had registered for the national ID by April 2026, but [the eAqoonsi mobile ID app had recorded only about 50,000 downloads and digital activation still requires an in-person visit to a NIRA centre first](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx). The programme is [targeting 15 million issuances by the end of 2029](https://www.biometricupdate.com/202508/somalia-expands-national-id-use-cases-to-meet-15m-issuance-target-by-2029), and at one million enrolments in November 2025 NIRA acknowledged that [about 85 per cent of the population holds no formal identity document](https://www.biometricupdate.com/202511/somalia-to-integrate-more-govt-services-with-national-id-as-issuance-reaches-1m).
+
+The system rests on the [National Identification and Registration Act of March 2023, which created NIRA and set its mandate, eligibility rules and biometric requirements](https://www.biometricupdate.com/202303/somalia-passes-law-to-launch-new-civil-registry-and-national-id); [Pakistan's NADRA supplies the core identity management system and hardware](https://www.biometricupdate.com/202506/somalia-walking-a-thorny-road-to-an-inclusive-national-digital-id-system). The credential is [verified through the consent-based, OTP-driven HUBIYE platform](https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access), to which [more than 24 services had been integrated by November 2025](https://www.biometricupdate.com/202511/somalia-to-integrate-more-govt-services-with-national-id-as-issuance-reaches-1m).
+
+Somalia has made the ID compulsory faster than it has enrolled people. [Enrolment is mandatory for all citizens, and an April 2025 prime ministerial directive requires government and private-sector institutions to integrate the ID into service delivery](https://www.biometricupdate.com/202504/somalia-mandates-use-of-biometric-id-for-govt-private-sector-services); it has since been required [for passports from 1 September 2025, for bank accounts under a Central Bank rule of 29 July 2025, for domestic travel from 1 January 2026, for driver's licences and vehicle registration, and from March 2026 for inter-state travel](https://www.biometricupdate.com/202603/somalia-makes-biometric-digital-id-mandatory-for-inter-state-travel). In September 2025 President Hassan Sheikh Mohamud [ordered every agency and business to use the ID and called it "a national crime" to serve anyone who does not hold one](https://www.hiiraan.com/news4/2025/Sept/202985/hassan_sheikh_says_10_million_somali_passports_issued_vows_overhaul_of_id_system.aspx) — in a federation where [two member states have declined to implement the federal ID at all](https://www.hiiraan.com/news4/2025/Sept/202985/hassan_sheikh_says_10_million_somali_passports_issued_vows_overhaul_of_id_system.aspx).
+
+Civil registration is the weaker half. [Around 3.5 per cent of children under five were registered and 0.3 per cent held a birth certificate](https://www.ecoi.net/en/document/2090364.html) (2020), and Somalia's [civil registration score on the Ibrahim Index for 2023 was 53rd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf). A Unified Digital Civil Registration Service [launched in 19 districts on 10 August 2025, sending births, deaths, marriages and divorces to a central database in real time](https://www.biometricupdate.com/202508/somalia-rolls-out-digital-crvs-system-on-foundations-laid-with-unicef-support), and had [reached around 30 districts and 160 linked hospitals, with more than 28,000 births registered at the point of occurrence](https://www.opencrvs.org/about-us/country-stories/somalia) (2025).
 
 ### Digital Payments and Fintech
+<!-- dpi.pay -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| EVC Plus mobile money | [Implemented](https://www.hiiraan.com/news4/2025/Aug/202622/hormuud_s_evc_plus_earns_gsma_re_certification.aspx) | GSMA Mobile Money re-certified, August 2025 |
-| Somalia Instant Payment System (SIPS) | [Implemented](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) | Central Bank set out the integration sequence, 26 July 2026 |
-| SOMQR national QR payment standard | [Implemented](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) | Linked to the instant payment system as the national standard |
+Somalia's national instant payment system has been live since January 2025, but the rails that carry most of the country's money are still outside it: [integration of the mobile money providers into SIPS remains outstanding, with no published date](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) (July 2026). [Mobile money is worth roughly $8bn a year, about 36 per cent of GDP, across some 650 million transactions annually, built almost entirely by private operators Hormuud and Telesom in the absence of state provision](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/) (January 2026).
 
-### Registries (population, land, address, etc.)
+[SIPS launched in January 2025 as the first nationwide instant payment system, carrying instant transfers from mobile and banking apps and QR payments under a national standard, SOMQR](https://www.fintechfutures.com/instant-real-time-payments/somalia-taps-bpc-to-launch-first-nationwide-instant-payment-system). It is [operated by the Somalia Payment Switch, a joint venture between the Central Bank of Somalia and 13 commercial banks](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network), and it [already carries person-to-person, merchant, government-to-person and person-to-government payments, with business-facing services still in development](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) (July 2026). The Central Bank [signed the Pan-African Payment and Settlement System membership agreement in March 2026 and is undertaking technical onboarding, with Somalia listed as "live soon" rather than live](https://sba.so/somalia-joins-the-pan-african-payment-and-settlement-system-papss/) (June 2026).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Unified digital civil registration system | [Piloting](https://www.opencrvs.org/about-us/country-stories/somalia) | Unified system documented on OpenCRVS, January 2026 |
+Government payment out has almost finished going digital while government collection has not. The [non-formalised, non-security wage bill fell from 36.3 per cent in 2021 to 0.03 per cent by the end of 2025](https://mof.gov.so/sites/default/files/Publications/Wage%20Bill%20Analysis%20Report%20%20End%202025.pdf), so salaries — the dominant government-to-person flow — now move almost entirely through digital channels, against a [2022 Public Financial Management Regulation requiring all public-sector payroll to be paid by electronic funds transfer](https://mof.gov.so/sites/default/files/Publications/-Clean%20English-Public%20Finance%20Management%20Regulation%20.pdf). Sales tax is [deducted automatically from mobile-money merchant accounts through an Electronic Tax Administration System introduced in late 2024, alongside automated road-use and rental-income tax collection](https://mof.gov.so/sites/default/files/Publications/Annual%20Report%20MoF%20-%202024%29.pdf), but [customs duties cleared under the Somali Customs Automated System still require a manual bank receipt and cashier step](https://www.mof.gov.so/sites/default/files/Publications/Business%20Process%20Guide%20for%20the%20Clearance%20of%20Goods%20Through%20the%20Somali%20Customs%20Automated%20System%20%28SOMCAS%29.pdf) (2024).
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+On the private side, [Hormuud's EVC Plus holds GSMA Mobile Money re-certification, one of only about ten platforms worldwide to meet the standard alongside M-PESA and MTN MoMo](https://www.hiiraan.com/news4/2025/Aug/202622/hormuud_s_evc_plus_earns_gsma_re_certification.aspx) (August 2025). Consumer protection rests on the Central Bank's [Mobile Money Regulations as amended in 2021](https://centralbank.gov.so/wp-content/uploads/2025/06/Mobile-Money-Regulation-2020_amended_2021.pdf), with no comprehensive payments statute behind them.
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Electronic Immunization Register | [Piloting](https://www.hiiraan.com/national4/2026/Feb/204540/somalia_expands_digital_public_infrastructure_dpi_for_child_immunization_in_mogadishu_.aspx) | Piloted in 14 Banadir facilities with scaling to more than 80 planned |
+### Registries
+<!-- dpi.registry -->
+
+Biometric voter registration is the register that moved: the National Independent Electoral and Boundaries Commission [registered roughly 919,000 to one million voters in Mogadishu and Banadir between April and September 2025 ahead of November 2025 council elections, and about 216,000 in Galmudug ahead of a vote set for 20 July 2026, with Puntland and Jubaland outside the process](https://somalipublicagenda.org/voter-registration-in-mogadishu-process-public-perceptions-challenges-and-the-way-forward/). It [runs on the commission's own biometric infrastructure, built by contractor NOVA GROUP, and is not integrated with the national ID system or any other government database](https://somalipublicagenda.org/wp-content/uploads/2025/12/Voter-Registration-in-Mogadishu-SPA_Policy_Paper_11_2025_ENGLISH1.pdf) (2025).
+
+The business register is the oldest of the functional registers and the most used. The Ministry of Commerce and Industry has run an [online business registration and licensing portal since March 2022, built with IFC and World Bank support and extended to Jubaland in 2024, which has substantially cut registration and licensing times](https://www.ifc.org/en/stories/2022/going-digital-makes-life-easier-for-somalia-s-business-owners) — against a formal business base the National Bureau of Statistics [counted in its 2024/25 establishment census](https://nbs.gov.so/wp-content/uploads/2026/01/Somalia-Business-Establishment-Analysis-Bookle.pdf).
+
+The [Unified Social Registry is operational and used to target beneficiaries of the Baxnaano cash-transfer programme, combining proxy means testing with a District Distress Index for geographic targeting, though it is only partially rather than fully deployed](https://documents1.worldbank.org/curated/en/099091225094544977/pdf/P171346-464b2c0e-d5b8-4fa1-8de9-4d3ad770e905.pdf) (September 2025), and [linking it to the national identification system is planned but not yet operational](https://reliefweb.int/attachments/57fd1c05-6b3f-4612-b5d3-9c3ebe7ad1f5/REVISED%20Somalia%20HCT%20Policy%20on%20Registration%20Targeting%20Data%20Sharing%20and%20Referrals_Oct%202025.pdf) (October 2025). The Somalia Revenue Directorate [operates a digital tax administration covering both individual income taxpayers and corporate taxpayers, alongside the Somali Customs Automated System](https://www.revenuedirectorate.gov.so/rules-and-regulations) (2025).
+
+Land is the register that does not exist. [Somalia has no unified national digital land or title register: administration is split across customary Xeer, Sharia and statutory traditions, records were largely destroyed during the civil war, and only isolated municipal cadastral and GIS pilots operate, in Garowe, Bosaso and Baidoa](https://arablandinitiative.gltn.net/sites/default/files/2024-12/docs/somalia-land-sector-snapshot.pdf) (December 2024).
+
+### Sectoral management information systems
+<!-- dpi.mis -->
+
+Somalia's Ministry of Finance was [still procuring a fit-for-purpose Integrated Tax Administration System in 2025, tendering an implementation contract after years of World Bank-supported design work, leaving the existing Financial Management Information System providing only basic revenue receipting and taxpayer number generation](https://mof.gov.so/index.php/publications/consultancy-services-development-somalia-integrated-tax-administration-system). Where systems exist they stand apart from one another, as the Auditor-General's [IT audit of the customs system in January 2025](https://oag.gov.so/wp-content/uploads/2025/01/SOMCAS-AUDIT-SUMMARY-converted.pdf) found.
+
+Health is the deepest deployment and still a thin one. The national platform is DHIS2, which [UNICEF and the University of Oslo's HISP Centre agreed in August 2025 to strengthen under a further three-year agreement](https://dhis2.org/unicef-and-hisp-uio-expand-partnership-somalia/). An Electronic Immunization Register built on it [assigns each vaccinated child a unique identifier](https://www.hiiraan.com/national4/2026/Feb/204540/somalia_expands_digital_public_infrastructure_dpi_for_child_immunization_in_mogadishu_.aspx), and has been [piloted in 14 health facilities in Banadir region and is being scaled to more than 80 facilities nationwide](https://www.hiiraan.com/national4/2026/Feb/204540/somalia_expands_digital_public_infrastructure_dpi_for_child_immunization_in_mogadishu_.aspx) (February 2026); the CaafimaadPlus digitalised data system [had by 2026 expanded to more than 40 facilities across nine regions, capturing patient records on handheld devices and feeding them into the federal DHIS2 platform in real time](https://caafimaad-plus.org/partnering-for-a-data-driven-somali-health-system/). Underneath the pilots the process is manual: [rural primary healthcare clinics record patient data on standardised paper registers, with monthly summary forms aggregated by district health information officers into DHIS2 rather than entered at the point of service](https://applications.emro.who.int/docs/9789292742188-eng.pdf) (2026).
+
+Education is further back: [the annual school census is collected on paper questionnaires by enumerators and aggregated upward before entry into the national Education Management Information System, with rural primary schools keeping enrolment and attendance records mainly on paper](https://www.globalpartnership.org/blog/somalia-better-data-management-system-improving-education) (2024). Justice gained a system in 2025: an [Integrated Electronic Case Management System launched on 9 October 2025 with US funding and IDLO support, linking the Criminal Investigation Department, the Attorney General's Office, the Supreme Court, Benadir regional and appeal courts and Mogadishu Central Prison on one digital platform, with deployment phased rather than nationwide](https://sonna.so/en/somalia-launches-groundbreaking-electronic-case-management-system-to-revolutionize-justice-sector/).
+
+Public financial management is where the measured improvement sits: on the Ibrahim Index, [Tax and Revenue Mobilisation rose 22.2 points over 2014-2023 to 34.7 out of 100, 40th of 54, and Budgetary and Financial Management 20.8 points to 37.5, 46th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf).
 
 ### Other GovTech and e-Gov
+<!-- dpi.govtech -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital voter registration | [In development](https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512) | Equipment unveiled by the electoral commission, March 2025 |
-| National job portal | [Implemented](https://www.hiiraan.com/news4/2026/Feb/204522/somalias_national_job_portal_becomes_a_test_case_for_digital_public_infrastructure_dpi.aspx) | Launched as a centralised, domestically hosted platform |
-| National Single Window | [Planned](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx) | Named as planned within the HoA DRIVE Somalia project, 3 August 2026 |
+Somalia scored [0.1468 on the UN E-Government Development Index for 2024, ranking 191st of 193 member states and placing it in the index's low group](https://publicadministration.un.org/egovkb/en-us/reports/un-e-government-survey-2024). What a citizen can transact online is correspondingly thin, and most of what exists is identity verification attached to an in-person service rather than a service delivered online: since June 2025 the Ministry of Transport and Civil Aviation has [required a NIRA-issued national ID card to obtain a driver's licence or register a vehicle, making it the first federal body to enforce the April 2025 directive, though traffic-offence records are not exchanged with other systems](https://www.biometricupdate.com/202506/drivers-licence-obtention-added-to-use-case-list-of-somalias-national-id).
 
-### Rural digital data capture
+The clearest new citizen-facing service is the [Somali National Job Portal for Employment Opportunities, a centralised, domestically hosted platform through which public-sector vacancies are advertised and applied for](https://www.hiiraan.com/news4/2026/Feb/204522/somalias_national_job_portal_becomes_a_test_case_for_digital_public_infrastructure_dpi.aspx) (February 2026).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Rural digital data capture | ***Not held*** | — |
+Paying the state is ahead of filing with it. The Revenue Directorate [offers downloadable personal income, corporate income and withholding tax return forms for manual submission, with no electronic filing linked to the QR payment channel that already accepts tax and fee payments](https://revenuedirectorate.gov.so/domestic-tax-service), while at state level Hirshabelle has [replaced a manual revenue voucher reconciliation cycle of 30 to 45 days with automatic reconciliation in its digitised tax collection system](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem) (July 2026).
 
-### Digitalisation of sub-national government
+The plan for domestic hosting and digital service delivery is set out in the ministry's [eGovernment Strategy for 2025-2029](https://moct.gov.so/en/wp-content/uploads/2025/08/eGovernment-Strategy-2025-2029.pdf), and the National Data Centre meant to carry it was [not yet operational at the responsible minister's site visit in May 2025](https://moct.gov.so/en/h-e-minister-mohamed-adam-moalim-ali-inspects-progress-of-the-national-data-center-construction/). On trade, [no timetable, budget or vendor has been stated for any of Somalia's named trade-facilitation digital systems, including the planned National Single Window](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx) (August 2026).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| SUMER revenue collection terminals (Hirshabelle) | [Implemented](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem) | Tariff-loaded terminals deployed at state border checkpoints |
-
-### Use of satellite data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Earth observation or geospatial data programme | ***Not held*** | — |
-
-<!-- narrative: dpi -->
-Identity is the spine and the fault line. The credential is [issued in three forms — card, mobile application and printable certificate — verified through a consent-based platform built in-house](https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access), and is now [required for passports, bank accounts, driving licences, vehicle registration and domestic travel, enforced for inter-state travel from March 2026](https://www.biometricupdate.com/202603/somalia-makes-biometric-digital-id-mandatory-for-inter-state-travel). Two things about that are unsettled and both are on the record. [Puntland and Jubbaland decline to implement it, Puntland running its own identification authority](https://www.hiiraan.com/news4/2025/Sept/202985/hassan_sheikh_says_10_million_somali_passports_issued_vows_overhaul_of_id_system.aspx) and citing data control, election influence and regional autonomy. And a published legal analysis holds that the [proclamation making use of the credential compulsory exceeds the Act, which confers a right to an identity and imposes no duty to obtain one](https://wardheernews.com/somalias-national-id-and-the-politics-of-proclamation/). The two accounts have not been reconciled. Where the identity data is physically held is a separate open question the base does not settle.
-
-Take-up of the digital form lags the register: [more than 50,000 downloads of the mobile identity against about 2m registrations, with digital activation still requiring an in-person visit](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx). Beneath it, civil registration is [piloted across 19 districts on an open-source platform](https://www.opencrvs.org/about-us/country-stories/somalia); above it, the passport is being replaced, with the [East African Community e-passport cleared in February 2026 and a third-generation plan approved by Cabinet on 6 August 2026](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/).
-
-Payments are where the state is the newcomer. The [instant payment system carries person-to-person, merchant and both directions of government payment on ISO 20022, targeting 14 banks and eight wallet providers](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network), and is operated by a joint venture of the Central Bank and 13 commercial banks. The rail it is joining is [EVC Plus, GSMA re-certified in August 2025 and serving 4.5m daily users](https://www.hiiraan.com/news4/2025/Aug/202622/hormuud_s_evc_plus_earns_gsma_re_certification.aspx).
-
-Service platforms are arriving one at a time: a [domestically hosted national job portal](https://www.hiiraan.com/news4/2026/Feb/204522/somalias_national_job_portal_becomes_a_test_case_for_digital_public_infrastructure_dpi.aspx), an [immunization register in 14 Banadir facilities against about 60% of children recorded as zero-dose](https://www.hiiraan.com/national4/2026/Feb/204540/somalia_expands_digital_public_infrastructure_dpi_for_child_immunization_in_mogadishu_.aspx), and at state level [tariff-loaded revenue terminals in Hirshabelle](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem). What connects them is not established: a domestic analysis names [fragmentation and weak coordination as the central risk](https://wardheernews.com/digital-public-infrastructure-dpi-somalia-risks-repeating-old-mistakes-in-a-digital-form/), and no interoperability standard is published.
-<!-- /narrative -->
-
-## Governance and regulation
+## Governance
 
 ### Legislation and regulation
+<!-- gov.legislate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Cybersecurity Law | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats) | Approved by Parliament, 26 January 2026 |
+Somalia's identity statute gives citizens a right to an identity credential rather than a duty to hold one: [Law No. 009 of 2023 imposes no obligation to obtain an ID and criminalises only fraud and obstruction](https://wardheernews.com/somalias-national-id-and-the-politics-of-proclamation/), which is the ground on which a published legal reading of the September 2025 presidential proclamation ordering universal use argues that it turned a right into an obligation without legislative debate. The chain behind it runs from the [2020 civil registration law to the 2023 Act that created the National Identification and Registration Authority](https://wardheernews.com/somalias-digital-id-a-milestone-on-the-roadmap-towards-effective-governance-and-service-delivery), with the identification and data-protection laws both taking effect in 2023.
+
+Telecommunications rests on the [National Communications Law of 2017](https://moct.gov.so/en/wp-content/uploads/2023/06/National-Communications-law.pdf), which carries the statutory framework for broadband, spectrum management including TV white spaces, and universal access. Beyond it the book thins. As at December 2025 the [Electronic Transactions, Cybersecurity and Cybercrime bills were all still before Parliament, the Cybercrime Bill having just completed its first reading, with none of them enacted](https://moct.gov.so/en/%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%A6%F0%9D%97%A7-%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%94%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9A-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%A7%F0%9D%97%9B/); [Parliament approved the Cybersecurity Law on 26 January 2026](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats). A [technical working group opened in June 2026 to develop a submarine-cable regulatory framework, alongside outage management and competition rules](https://www.hiiraan.com/news4/2026/Jun/205487/somalia_ifc_opens_first_technical_working_group_on_submarine_cable_infrastructure.aspx).
+
+Personal data is the one field with a settled regime, a [cross-sector Data Protection Act having been in force since March 2023](https://dpa.gov.so/assets/legal/act/Somalia%20Data%20Protection%20Act-2.pdf). Compliance with what is already on the books is a separate matter: the [2025 audit recorded 66 legal-compliance breaches by government bodies, including US$18.5m of contracts awarded without following committee procedures](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/).
 
 ### Strategies, plans and policies
+<!-- gov.policy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital Transformation Strategy 2025-2030 | [In development](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support) | Finalisation under way with ITU support, October 2025 |
+Somalia's governing ICT policy has expired and its successor is not adopted. The [National ICT Policy and Strategy 2019-2024](https://moct.gov.so/en/wp-content/uploads/2019/11/National-ICT-Policy-Strategy-2019-2024.pdf) set the country's positions on broadband, cybersecurity, data centres and cloud services, data protection and digital payments; the [Digital Transformation Strategy for 2025-2030 was validated at a national multi-stakeholder workshop in October 2025 with ITU support and was still being finalised](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support), intended to coordinate every national digital initiative, interoperability included, with no separate data exchange strategy beside it. It is drawn as a [single national framework covering education, health, agriculture and finance](https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx).
+
+What the ministries have published in the interval is narrower. The Ministry of Communications and Technology issued an [eGovernment Strategy for 2025-2029](https://moct.gov.so/en/wp-content/uploads/2025/08/eGovernment-Strategy-2025-2029.pdf) in August 2025, carrying the plan for domestic government hosting and digital service delivery.
+
+Delivery is clearest where it has a named owner. Trade facilitation is coordinated by Sadaq Mohamed, National Trade Facilitation Coordinator in the Office of the Prime Minister, and the [National Trade Facilitation Committee held a two-day strategic induction and roadmap workshop in Mogadishu at the end of July 2026](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx), with [nineteen priority legal and policy instruments — rules of origin, competition and consumer protection, special economic zones, intellectual property — mapped and scheduled to run alongside the trade-facilitation digital systems](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx) (August 2026). Against that, [no timetable, budget or vendor has been stated for any of those systems](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx).
+
+The governing capacity these plans sit on is weak and slowly improving. Somalia scores [25.5 out of 100 for overall governance in 2023, 53rd of 54 African states, after a ten-year gain of 6.8 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf), and sits [below the continental average on all sixteen sub-categories, in the bottom ten on thirteen of them, and above the African average on only six of the index's 96 indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf), on a [GDP per capita of USD 643.8 in 2023, 46th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf).
 
 ### Regional collaboration
+<!-- gov.regional -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Connection to the Pan-African Payment and Settlement System | [Planned](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) | Stated by the Central Bank as a target for before the end of 2026 |
+[Regional rules on cross-border data flows and personal data protection were approved at East African Community official level on 24 July 2026](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html) and must still clear the Community's decision-making organs before any partner state, Somalia among them, adopts them; no adoption date has been published. Somalia is inside that process as a [full EAC member since March 2024, one of the bloc's eight partner states](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/).
+
+The monetary track is slower. The [29th Ordinary Meeting of the EAC Monetary Affairs Committee held the single-currency target at 2031 while recording that no partner state has attained all four primary macroeconomic convergence criteria](https://www.eac.int/documents?controller=download&task=download.file&file=84a90aa8-df68-461c-9541-d0e124507d2f&name=29th%20EAC%20MAC%20Communique.pdf.pdf) (July 2026), and the central bank's [membership of the Pan-African Payment and Settlement System is signed but not yet live](https://sba.so/somalia-joins-the-pan-african-payment-and-settlement-system-papss/). Somalia [signed ratification of the African Continental Free Trade Area in early August 2026](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx), the commitment its trade-facilitation systems are being built to serve, and it belongs to [COMESA, CEN-SAD and IGAD, scoring 38.5 out of 100 on regional integration in 2023, 35th of 54 and up 7.6 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf).
+
+The harder border is the internal one. [Puntland and Jubbaland have declined to implement the federal national ID, and Puntland has created its own identification authority, accusing Mogadishu of overreach on data control, election influence and regional autonomy](https://www.hiiraan.com/news4/2025/Sept/202985/hassan_sheikh_says_10_million_somali_passports_issued_vows_overhaul_of_id_system.aspx) (September 2025).
+
+### Standards
+<!-- gov.standards -->
+
+The risk named in Somali analysis is not a failure to digitise but [digitising the existing fragmentation](https://wardheernews.com/digital-public-infrastructure-dpi-somalia-risks-repeating-old-mistakes-in-a-digital-form/), with weak coordination treated as a governance problem calling for role clarity, interoperability standards and accountability rather than more procurement (April 2026). The gap it points at is real: there is [no whole-of-government data exchange platform and no shared government enterprise architecture or interoperability layer](https://documents1.worldbank.org/curated/en/099045403212411797/txt/IDU105f167fa1085214f8b1919f141249b1e8fae.txt), and NIRA's own Director General [acknowledged in June 2025 that siloed databases and the absence of interoperability standards remain a major obstacle](https://www.biometricupdate.com/202506/somalia-walking-a-thorny-road-to-an-inclusive-national-digital-id-system).
+
+Payments are where published standards have actually been adopted, with the instant payment system built on the [ISO 20022 messaging standard](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network), a [national standardised QR code layered on it](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network), and Hormuud's EVC Plus holding [GSMA Mobile Money certification](https://www.hiiraan.com/news4/2025/Aug/202622/hormuud_s_evc_plus_earns_gsma_re_certification.aspx).
+
+In trade, the official charged with delivery has set the [premise that clear mandates and compatible procedures must accompany the digital systems, since automating confusion would move the same problems online](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx) (August 2026).
 
 ### Data protection
+<!-- gov.protect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Data Protection Act (Law 005/2023) | [Implemented](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations) | In effect since 23 March 2023, with implementing regulations reviewed |
-| Data Protection Authority | [Implemented](https://techafricanews.com/2026/06/02/somalia-data-protection-authority-enforces-nationwide-data-compliance-rules/) | First nationwide enforcement step: mandatory registration under Article 32, June 2026 |
-| Regulatory framework for the public data protection law | [Implemented](https://techafricanews.com/2026/01/08/somalia-advances-digital-governance-with-approval-of-public-data-protection-regulation/) | Approved by the Council of Ministers on 8 January 2026 and adopted the following month |
-| Request to delay WhatsApp usernames | [Planned](https://www.hiiraan.com/news4/2026/Jul/205760/why_whatsapp_usernames_could_upset_somalias_antiterror_fight.aspx) | Request made in a regulator statement of 6 July 2026 and restated by the minister on 22 July |
+[In June 2026 Somalia's Data Protection Authority issued a notice under Article 32 of the Data Protection Act requiring all data controllers and processors to complete mandatory registration, and began accepting applications and issuing compliance certificates](https://techafricanews.com/2026/06/02/somalia-data-protection-authority-enforces-nationwide-data-compliance-rules/) — the regulator's first nationwide compliance step.
+
+The statute behind it, [Law No. 005 of 2023, has been in force since 23 March 2023 and is grounded in Article 19 of the 2012 Provisional Constitution](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations). It is a general cross-sector instrument, setting out [lawful bases for processing, data-subject rights, data-protection impact assessment and data-protection-officer duties, and a registration requirement for "controllers of major importance"](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations), alongside [cross-border transfer restrictions and breach notification duties](https://dpa.gov.so/assets/legal/act/Somalia%20Data%20Protection%20Act-2.pdf). [Article 25 gives controllers 72 hours from becoming aware of a breach likely to risk rights and freedoms to notify the Authority, and requires notice to affected individuals where the risk is high](https://www.dataguidance.com/sites/default/files/somalia_data_protection_act-2.pdf), and breaches carry [fines of 2-4% of a controller's worldwide turnover](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations).
+
+The Authority was [inaugurated on 24 February 2024 with power to issue guidelines, investigate, impose fines, register controllers and processors and receive complaints, and has since published implementation guidance and an alternative dispute resolution procedure](https://blog.africadataprotection.org/en/2024/02/26/somalia-inauguration-of-the-data-protection-authority/). Its leadership is [appointed by the executive](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations). The [Council of Ministers approved the regulatory framework operationalising the Act on 8 January 2026, while enforcement capacity remains thin — the Authority completed its first training of public and private institutions only in mid-2026](https://techafricanews.com/2026/01/08/somalia-advances-digital-governance-with-approval-of-public-data-protection-regulation/).
+
+Somalia imposes [no data localisation requirement on personal, government, financial or critical infrastructure data, applying instead an adequacy-based cross-border transfer regime under which controllers assess protection in the receiving jurisdiction or rely on contractual safeguards or consent](https://dpa.gov.so/guidance-2/). Redress runs through general channels only: [the constitutional privacy right and the Act's right to an effective remedy, with no judicial process specific to NIRA or the identity system](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations). In payments, conduct duties rest on the [Central Bank's Mobile Money Regulations as amended in 2021, with no comprehensive payments consumer protection statute or formal redress framework](https://centralbank.gov.so/wp-content/uploads/2025/06/Mobile-Money-Regulation-2020_amended_2021.pdf).
 
 ### Public debate and participation in policymaking
+<!-- gov.discourse -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Public debate on digital policy | ***Not held*** | — |
+Media freedom is among Somalia's ten most deteriorated governance indicators, having [fallen 6.7 points over 2014-2023 to 38.9 out of 100, 44th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf). [Freedom of expression and belief scores 19.3 out of 100 in 2023, 49th of 54, unchanged across the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf), and [digital freedom scores 39.7, 39th of 54, equally flat over the same period](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf) — the online space has neither followed the offline decline nor pulled away from it.
 
-### EU activities
+Consultation happens where a document needs validating rather than where a decision needs testing. The [Digital Transformation Strategy went to a national multi-stakeholder workshop in October 2025](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support), and the National Communications Authority [convened a national consultation in April 2026 to develop a cybersecurity risk-management and compliance framework](https://www.hiiraan.com/news4/2026/Apr/204984/somalia_launches_national_effort_to_build_cybersecurity_framework.aspx). Licensing has moved faster than either: [Starlink's entry was fast-tracked and the company's full foreign-ownership model accepted without local-ownership conditions](https://www.hiiraan.com/news4/2025/Apr/201121/starlink_launches_in_somalia_expanding_satellite_internet_to_underserved_regions.aspx) (2025).
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| European Union digital cooperation with Somalia | ***Not held*** | — |
-
-### Open data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Open government data | ***Not held*** | — |
-
-<!-- narrative: governance -->
-The statute book is ahead of the systems it governs, which is unusual. The [Data Protection Act has been in force since March 2023](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations), carrying data-subject rights and fines of 2 to 4% of worldwide turnover, though it does not define public data, which clouds the regulator's mandate. Its [regulatory framework was approved by the Council of Ministers on 8 January 2026](https://techafricanews.com/2026/01/08/somalia-advances-digital-governance-with-approval-of-public-data-protection-regulation/), and the Authority took its [first nationwide enforcement step in June 2026, requiring all controllers and processors to register](https://techafricanews.com/2026/06/02/somalia-data-protection-authority-enforces-nationwide-data-compliance-rules/) and issuing compliance certificates. No penalty has been issued on the record, and the Authority's independence is qualified by executive appointment and override powers.
-
-The [Cybersecurity Law approved on 26 January 2026](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats) assigns policy to the communications ministry, technical oversight to the regulator and obligations to critical-infrastructure operators, and creates the incident response team that opened six weeks later.
-
-Policy is the piece still open. The [Digital Transformation Strategy 2025-2030 is being finalised with ITU support](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support) and no adopted text is published.
-
-One regulatory position is aimed outward. The regulator has [asked Meta to delay the rollout of WhatsApp usernames](https://www.hiiraan.com/news4/2026/Jul/205760/why_whatsapp_usernames_could_upset_somalias_antiterror_fight.aspx), citing impersonation risk to the mobile-money system and the loss of phone-number traceability; no platform response is on record. Regionally, the Central Bank names a [connection to the Pan-African Payment and Settlement System as a target for before end-2026](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) rather than a concluded arrangement.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
-
-### AI
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Garad.ai | [Implemented](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure) | Launched 2026-08-07 |
-| National AI readiness assessment | [In development](https://techreviewafrica.com/news/6784/somalia-boosts-national-ai-readiness-assessment-with-support-from-academia) | A university joined the assessment 2026-08-17 |
-| Somali National University AI Centre | [Implemented](https://techafricanews.com/2026/07/20/somali-national-university-launches-ai-centre-to-advance-research-and-digital-innovation/) | Launched by the university, July 2026 |
-| National artificial intelligence policy | ***Not held*** | — |
-
-### ICT Industry
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National e-commerce strategy | [Planned](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Still at its November 2022 baseline against an April 2028 target |
-
-### Innovation ecosystem
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National startup network | [Implemented](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/) | Unveiled at the innovation forum in Mogadishu, 22 July 2026 |
-| Regulator partnership with iRise Hub | [Planned](https://techreviewafrica.com/news/6182/somalias-nca-signs-partnership-agreement-with-irise-hub) | Memorandum signed, 30 July 2026 |
-
-### China activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Chinese digital cooperation with Somalia | ***Not held*** | — |
-
-### India activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Indian digital cooperation with Somalia | ***Not held*** | — |
-
-<!-- narrative: ai-tech -->
-The Somali National University [launched an AI centre in July 2026 for research and digital skills](https://techafricanews.com/2026/07/20/somali-national-university-launches-ai-centre-to-advance-research-and-digital-innovation/), with no funding, staffing or research output stated. The base holds no national AI strategy, ministerial mandate or government position. No national e-commerce strategy exists in Somalia, South Sudan or the IGAD region, on the [World Bank's June 2026 report](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) against an April 2028 target.
-
-The innovation layer is donor-built and new. A [national startup network was launched on 22 July 2026 on European Union funding implemented by UNIDO](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/), the project reporting 3,600 applications across three cohorts and more than 200 startups incubated; the same account states intellectual-property legislation is being developed, with no bill or timeline on file. The telecoms regulator has [signed a memorandum with a private innovation hub covering skills, cybersecurity and research](https://techreviewafrica.com/news/6182/somalias-nca-signs-partnership-agreement-with-irise-hub) that carries no figure, term, named deliverable or funder.
-<!-- /narrative -->
-
-## Inclusion and capacity
+## Inclusion
 
 ### Digital divides
+<!-- include.divides -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Smartphone financing programme | [Implemented](https://www.connectingafrica.com/digital-inclusion/hormuud-get-phone-launch-smartphone-financing-program-in-somalia) | Launched by Hormuud with Get-Phone, May 2026 |
+On Somalia's largest network the coverage has run ahead of the handsets needed to use it: [most of Hormuud's network carries 4G while a large part of its subscriber base is still on 2G or feature phones](https://www.connectingafrica.com/digital-inclusion/hormuud-get-phone-launch-smartphone-financing-program-in-somalia) (May 2026), which makes the device rather than network reach the binding constraint on who gets online. The operator's answer is credit rather than coverage: with Get-Phone it is financing smartphones on a $19 deposit and $0.60 to $1.60 a day, repaid through EVC Plus and bundled with 1GB and 40 minutes, aiming at 100,000 handsets across central and southern Somalia by the end of 2026 with Puntland and Somaliland to follow.
+
+The lines drawn by the digital ID rollout run along connectivity and literacy. [Women, the elderly and people with disabilities are the groups most at risk of being left behind](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx), which is why SMS and USSD channels have been urged as an alternative to a smartphone app whose [downloads remain a small fraction of registrations](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx) (April 2026). Displacement and mobility cut across the same rollout: [a very large internally displaced population, a large nomadic one and widely missing breeder documents](https://www.biometricupdate.com/202506/somalia-walking-a-thorny-road-to-an-inclusive-national-digital-id-system) make exclusion its central risk (June 2025).
+
+The older divides have not moved with the technology. [Internet use remains a minority of the population](https://datahub.itu.int/data/?e=1&i=11624) (2024), and Somalia's score on the Ibrahim Index's internet and computers measure [sits in the bottom quarter of the continent](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf) (2023). Electricity, without which none of it works, [reaches rural households at roughly a quarter of the urban rate](https://nbs.gov.so/wp-content/uploads/2026/01/Progress-in-SDG-Energy-Indicator.pdf) (2023). Satellite service has been [available across the whole country since August 2025](https://www.hiiraan.com/news4/2025/Aug/202463/starlink_launches_in_somalia_bringing_satellite_internet_to_rural_areas_and_narrowing_the_digital_divide.aspx), from Mogadishu and Hargeisa to pastoral Shabelle, so the remaining gap in those areas is one of price rather than reach. The statutory hook for closing it, [universal access under the 2017 National Communications Law](https://moct.gov.so/en/wp-content/uploads/2023/06/National-Communications-law.pdf), has been in place throughout.
+
+### Access to services
+<!-- include.access -->
+
+Somalia scores [14.2 out of 100 on equal access to public services and 20.1 on equal socioeconomic opportunity](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf), 50th and 48th of 54 African countries, and the first of those has risen by under two points in a decade (2023). The obstacle is rarely that a service does not exist, but that obtaining it requires a document most people do not hold: [the great majority of Somalis have no formal identity document](https://www.biometricupdate.com/202511/somalia-to-integrate-more-govt-services-with-national-id-as-issuance-reaches-1m) (November 2025), [birth registration has been close to absent](https://www.ecoi.net/en/document/2090364.html) (2020), and even the mobile ID app [requires an in-person visit to a NIRA centre before it can be activated](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx) (April 2026) — centres still being opened district by district [in Mogadishu](https://www.hiiraan.com/news4/2025/Apr/201207/somalia_opens_national_id_center_in_boondheere_to_expand_access_to_services.aspx) (April 2025).
+
+For some groups the document barrier is written into the rules. [Refugees and asylum seekers cannot open a formal bank account in Somalia, because neither the federal anti-money laundering framework nor Somaliland's 2019 AML/CFT Act recognises refugee identity documents as valid customer due diligence evidence](https://reliefweb.int/attachments/09a75838-e186-4ff7-8fb4-300bda077a55/Displaced%20and%20Disconnected%20-%20East%20and%20Horn%20of%20Africa%20and%20Great%20Lakes%20Region.pdf); the 2015 Money Transfer Businesses customer registration regulations leave them tiered access to lower-threshold mobile money accounts, the only formal channel open to them (2022). Provision for disabled users is charitable rather than designed: a diaspora organisation [distributes speaking mobile phones to blind people in Mogadishu](https://sbd-ev.org/en/distribution-of-assistive-technologies-for-blind-people/) to support mobile banking use (2025).
+
+Where a service is reached at all, it is usually over privately built rails. [Formal banking touches a small minority of Somalis while mobile money reaches most of them](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem) (2026), so government charges and [humanitarian cash alike](https://itweb.africa/article/hormuud-anchors-somalias-digital-economy/Olx4zMkaZozv56km) ride on operator infrastructure, and [social assistance is paid into mobile wallets](https://www.ennonline.net/sites/default/files/2024-07/pg_29_baxnaano_integrating_social_protection_health_and_nutrition_in_somalia.pdf) (2024). Cost sorts the rest. Mobile data is [among the cheaper rates in the region](https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx) (2025), but the satellite service that covers the places the networks do not costs [$390 for hardware and $70 a month, or $210 for the mini terminal](https://www.hiiraan.com/news4/2025/Aug/202463/starlink_launches_in_somalia_bringing_satellite_internet_to_rural_areas_and_narrowing_the_digital_divide.aspx) (August 2025), and the electricity to run any of it is [among the most expensive in Africa](https://www.trade.gov/country-commercial-guides/somalia-energy-and-electricity) (2023). The consequences show up in basic services: [most Somali children have received no routine vaccination](https://www.hiiraan.com/national4/2026/Feb/204540/somalia_expands_digital_public_infrastructure_dpi_for_child_immunization_in_mogadishu_.aspx) (2026), the gap the electronic immunization register is being scaled to close.
+
+## Technology
+
+### AI
+<!-- tech.ai -->
+
+Somalia's artificial intelligence effort sits outside government: the [National AI Center, established in October 2024](https://snaic.gov.so/), works on research, education and industry capacity-building rather than on putting AI into state systems. At regional level the East African Community is [developing an AI policy roadmap](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/) intended to cover all eight partner states, Somalia among them, on the argument that East Africa should govern artificial intelligence as a single bloc rather than country by country; it was still under discussion as at March 2026. Somali universities sit inside the same bloc's [German-funded regional AI research and training network](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/eac-obtains-eur5m-for-ai-network-training-youths-2026-08-13-103440), which ran its first student cohort in 2025.
+
+### ICT Industry
+<!-- tech.industry -->
+
+Somalia's [business and competition regulation scores 13.6 out of 100 (2023), 53rd of 54 African countries](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf) despite a ten-point rise over the decade, and the technology industry that has grown inside that environment is a wholly private one. [Hormuud and Telesom built the country's mobile money system in the absence of state provision](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/), and [Hormuud's EVC Plus holds GSMA mobile money re-certification](https://www.hiiraan.com/news4/2025/Aug/202622/hormuud_s_evc_plus_earns_gsma_re_certification.aspx). New product development sits with the operators too: Hormuud's [smartphone financing scheme underwrites customers on telecom credit scoring built from SIM tenure and mobile-money spending rather than formal credit history](https://www.connectingafrica.com/digital-inclusion/hormuud-get-phone-launch-smartphone-financing-program-in-somalia) (May 2026). Outside the operators the domestic software [developer community is small and emerging, organised around groups such as Dugsiiye and Somalis in Tech](https://github.com/somalisintech) (2023).
+
+### Innovation ecosystem
+<!-- tech.innovate -->
+
+Somalia is [not among the 133 economies covered by the Global Innovation Index 2024](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-at-a-glance.html), so the country carries no innovation rank or score at all. What exists on the ground is a small hub network — [iRise Hub, HarHub, Ganacsikaab, Tilmaam i-HUB and SIMAD-iLab](https://www.afrilabs.com/hub_country/somalia/), concentrated in Mogadishu, Hargeisa and Garowe (2022). Commercial tracking [records several hundred Somalia-linked startups, several dozen of which have raised outside funding](https://tracxn.com/d/geographies/somalia/__WEh3XmECZsk5k6RRVw8-L87d5PXr685ETiiFAEIP9zU), with fresh rounds closing in the first quarter of 2026. The public side runs through the World Bank's [SCALED-UP project](https://projects.worldbank.org/en/projects-operations/project-detail/P168115), which supports digital entrepreneurship, digital skills and ICT sector development to 2026.
+
+## Geopolitics
+
+### US / hyperscaler activities
+<!-- geopol.usa -->
+
+Somalia's border management runs on [PISCES, the US-backed biometric screening system](https://www.biometricupdate.com/202603/somalia-makes-biometric-digital-id-mandatory-for-inter-state-travel), which places the record of who crosses the country's frontiers on an American-supplied platform (March 2026). The same reach extends into policing: the FBI's Criminal Justice Information Services division [issued a request for information in January 2025 seeking vendors to run Somalia's police automated biometric identification system at Aden Adde International Airport](https://www.hiiraan.com/news4/2025/Jan/199793/fbi_seeks_vendors_to_support_somalia_s_biometric_identification_system.aspx), Mogadishu's international gateway.
+
+American money also sits under the justice system's case file. Somalia [launched an Integrated Electronic Case Management System on 9 October 2025](https://sonna.so/en/somalia-launches-groundbreaking-electronic-case-management-system-to-revolutionize-justice-sector/), funded by the US Bureau of International Narcotics and Law Enforcement Affairs and implemented with IDLO, linking the Criminal Investigation Department, the Attorney General's Office, the Supreme Court, the Benadir regional and appeal courts and Mogadishu Central Prison on a single digital platform; deployment is phased and does not yet run nationwide.
+
+### China activities
+<!-- geopol.china -->
+
+No Chinese-financed or Chinese-operated digital infrastructure was in place in Somalia as at August 2026.
+
+### EU activities
+<!-- geopol.eu -->
+
+<!-- derived -->
+European public financiers are the most numerous funders of Somalia's digital sector and among the least consequential. Six of the thirteen commitments on record are European — the European Union, Germany's BMZ and GIZ, Sweden's Sida twice and the UK's FCDO — yet between them they account for only about USD 20 million of committed value, a fraction of the World Bank's (August 2026).
+
+The European Union's own commitment, made in 2024, is [EUR 4.5 million, about USD 5 million, to the ICT Support to the Security, Justice, Governance and Accountability Project](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-28075), supplying IT and office equipment to Somali security and justice institutions at federal level and in two to three Federal Member States so that they can digitalise their human, financial and asset management. It runs to 2028.
+
+European support has otherwise arrived regionally rather than nationally. Somalia was one of three countries covered by the [D4D Initiative for Digital Government and Cybersecurity for the Horn of Africa](https://d4daccess.eu/sites/default/files/2024-03/2023-02-03_EN_Factsheet_IDGC_Horn%20of%20Africa.pdf), a EUR 3 million technical assistance programme co-financed by the European Union and Germany's BMZ that ran from 2022 to 2025, with GIZ leading e-government, Expertise France leading cybersecurity and FIIAPP leading change management; the same EUR 3 million covered Kenya and Djibouti alongside Somalia.
+
+### India activities
+<!-- geopol.india -->
+
+India had no digital infrastructure, platform or vendor presence in Somalia as at August 2026.
+
+### Gulf/UAE activities
+<!-- geopol.gulf -->
+
+No Gulf state or Gulf-owned operator held Somali digital infrastructure or a government platform contract as at August 2026.
+
+## Capacity
 
 ### Literacy
+<!-- capacity.literacy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital literacy programmes | ***Not held*** | — |
+Education is Somalia's [worst-scoring governance sub-category, at 10.0 out of 100 for 2023 and last of the 54 African states measured](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf), a place it holds despite an 8.9-point rise over the preceding decade. [Enrolment scores 4.4, ranking 51st, and equality in education 8.8, ranking 53rd](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf) — both among the country's ten weakest indicators of any kind — while education quality is the one component that has moved, from zero to 16.7 over the same ten years (2023).
+
+The systems built on top of that schooling are themselves mostly unread: [rural primary schools keep enrolment and attendance records on paper, and the annual school census is collected on paper questionnaires and aggregated upward before it enters the national education management information system](https://www.globalpartnership.org/blog/somalia-better-data-management-system-improving-education) (2024).
 
 ### Training and skills
+<!-- capacity.training -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Certified cybersecurity training for government ICT staff | [Implemented](https://www.wearetech.africa/en/fils-uk/news/somalia-rolls-out-certified-cybersecurity-program-for-government-ict-staff) | Internationally certified courses run in Mogadishu and Nairobi, March to May 2026 |
-| Fixed asset management training (Somaliland administration) | [Implemented](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/) | Training launched, 4 August 2026 |
+Government ICT staff completed [internationally certified cybersecurity training in incident response, cloud security and auditing, run across Mogadishu and Nairobi between March and May 2026](https://www.wearetech.africa/en/fils-uk/news/somalia-rolls-out-certified-cybersecurity-program-for-government-ict-staff) by the National Communications Authority with the World Bank's SCALED-UP project and the African Advanced Level Telecommunications Institute. Training of this kind arrives attached to particular infrastructure programmes rather than to a skills policy: the same pattern produced the [first-phase cohort of the national incident-response team](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center) (March 2026), the [technical base for IPv6 migration hosted at Jamhuriya University](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-upgrades-digital-infrastructure-to-bypass-global-ipv4-address-depletion) (June 2026), and digital skills as one strand of the [World Bank's SCALED-UP work alongside financial inclusion, entrepreneurship and ICT sector development](https://projects.worldbank.org/en/projects-operations/project-detail/P168115).
+
+Somalia is named among the eight member states of the [East African Community's regional AI research and training network, funded by Germany's BMZ with EUR 5 million and intended to equip 50,000 young people with digital skills alongside an EAC artificial intelligence strategy for 2025-2028](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/eac-obtains-eur5m-for-ai-network-training-youths-2026-08-13-103440) (August 2026). Domestic university provision predates all of it: [Mogadishu University has run a faculty of computer science and information technology since 2003](https://mu.edu.so/fcsit/).
 
 ### Research institutions
+<!-- capacity.research -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| University research partnership on official microdata | [Piloting](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/) | Three-day technical workshop closed with three partner universities, July 2026 |
+Somalia gave knowledge production an institutional home in October 2024, when it established a [National AI Center whose remit is research, education and industry capacity-building](https://snaic.gov.so/) rather than putting artificial intelligence to work inside government systems. What sits beside it is regional rather than national: Somali universities were among those from the eight member states taking part in the 2025 pilot of the [East African Community's AI research and training network, funded by Germany's BMZ with EUR 5 million and running alongside an EAC artificial intelligence strategy for 2025-2028](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/eac-obtains-eur5m-for-ai-network-training-youths-2026-08-13-103440) (August 2026).
 
-<!-- narrative: inclusion -->
-The access constraint named by the operators is the handset rather than the network. A [financing programme launched in May 2026 targets 100,000 affordable smartphones by the end of the year, at a US$19 deposit and US$0.60 to US$1.60 a day repaid over mobile money](https://www.connectingafrica.com/digital-inclusion/hormuud-get-phone-launch-smartphone-financing-program-in-somalia), scored on SIM tenure and spending rather than credit history, with a pilot recording under 4% default.
+## Digitalisation
 
-Capacity work is thin and mostly donor-run. Government ICT staff took [internationally certified cybersecurity courses in Mogadishu and Nairobi between March and May 2026](https://www.wearetech.africa/en/fils-uk/news/somalia-rolls-out-certified-cybersecurity-program-for-government-ict-staff) on World Bank funding, and the statistics bureau ran a [pilot training researchers from three universities on its household budget and labour force microdata](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/) on Swiss funding with no amount stated — which puts the constraint on evidence-based policy at analytical capacity rather than at data collection.
-<!-- /narrative -->
+### Rural digital data capture
+<!-- digital.rural -->
+
+Where the Somali state itself does the recording outside the capital, it records on paper: [rural police stations keep occurrence books, station diaries, crime registers and property registers in hard copy (2025)](https://unsom.unmissions.org/sites/default/files/basic_recruit_curriculum_brc_v31.pdf), and the Somali Police Force's Basic Recruit Curriculum trains officers in police books and forms with no digital tool anywhere in it. Health follows the same pattern. Rural primary healthcare clinics [write patient data onto standardised paper registers for outpatient care, immunisation and maternal and child health, which district health information officers then aggregate into the national DHIS2 system rather than capturing it digitally at the point of service (2026)](https://applications.emro.who.int/docs/9789292742188-eng.pdf). In education the annual school census [is collected on paper questionnaires and aggregated upward before it reaches the national Education Management Information System, though headteachers in schools supported by a Global Partnership for Education programme have been trained to enter student and teacher data into the online EMIS directly (2024)](https://www.globalpartnership.org/blog/somalia-better-data-management-system-improving-education).
+
+Digital capture that does reach rural areas arrives through programmes rather than through the line ministries. A donor-run health programme [now records patient encounters on handheld devices in facilities across several regions and feeds them into the federal DHIS2 platform in real time (2026)](https://caafimaad-plus.org/partnering-for-a-data-driven-somali-health-system/), and the [Unified Digital Civil Registration Service put district registration offices in five federal member states online for births, deaths, marriages and divorces in August 2025](https://www.biometricupdate.com/202508/somalia-rolls-out-digital-crvs-system-on-foundations-laid-with-unicef-support). Agriculture has no comparable system in the field; [e-agriculture has been a stated goal of the National ICT Policy and Strategy since 2019](https://dig.watch/resource/somalian-national-ict-policy-and-strategy-2019-2024). The constraint underneath all of it is power, with [rural electrification far below urban (2023)](https://nbs.gov.so/wp-content/uploads/2026/01/Progress-in-SDG-Energy-Indicator.pdf).
+
+The wider rural picture has been deteriorating on the [Ibrahim Index of African Governance: Rural Land and Water Access is Somalia's most deteriorated indicator, scoring zero out of 100 in 2023 and ranking 45th of 54, while Rural Economy Support stood at 26.5 and 43rd and Rural Representation and Participation at 24.5 and 42nd, unchanged across the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf). Rural Economy is one of only two sub-categories moving against the country's overall improvement.
+
+### Digitalisation of sub-national government
+<!-- digital.localgov -->
+
+The most developed digital system run by a tier of government below the national one is a revenue platform in Hirshabelle. [SUMER, built by the Mogadishu firm Tabaarak ICT, collects border checkpoint revenue through a card terminal that holds the tariff schedule on the device: the officer enters vehicle type, origin and category, the terminal returns the amount due, payment moves over mobile money straight into the government account with no merchant intermediary, and a QR-coded receipt posts to a central system in real time (July 2026)](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem). Holding the tariff on the terminal is the point of it: the amount is not the officer's to set.
+
+What it replaced was physical. [Paper vouchers were carried up to 90km and keyed in by hand, a reconciliation the state's finance minister puts at 30 to 45 days and which remained incomplete, and shilling cash sat 48 hours in the treasury for conversion to dollars before deposit (July 2026)](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem). The state [reports a many-fold rise in collections at equipped checkpoints in the first quarter of 2026 against 2020](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem).
+
+Beyond that, sub-national involvement is participation in national systems rather than systems of the states' own. [Local administrations across the federal member states take part in the digital civil registration pilot in 19 districts, and the Office of the Prime Minister and the communications ministry are working to coordinate federal and state-level activity (2025)](https://www.ecofinagency.com/news-digital/1108-48024-somalia-pilots-19-district-digital-civil-registry-lays-groundwork-for-nationwide-legal-identity). Land is the clearest case of the gap: with no unified national digital land or title register, [municipal cadastral and geographic information pilots run in isolation in Garowe, Bosaso and Baidoa (2024)](https://arablandinitiative.gltn.net/sites/default/files/2024-12/docs/somalia-land-sector-snapshot.pdf), each a town's own arrangement rather than a tier of the state.
+
+## Data
+
+### National statistics
+<!-- data.statistics -->
+
+Somalia's capacity to run a statistical system [rose 29.1 points over the decade to 2023, reaching 35.1 out of 100 and 42nd of 54 African states, the fifth most improved of the 96 indicators the Ibrahim Index tracks for the country](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf). That is movement from close to nothing rather than arrival at a working system. The World Bank records [no population census, no agricultural census and no business census held within twenty years, as at 2023](https://www.worldbank.org/en/programs/statistical-performance-indicators), and on the same measure [no household survey, no health survey and no business survey in the ten years to 2023, alongside one labour survey and two agricultural surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators).
+
+The gap is in collection rather than in what is made of the result. Somalia's [weakest statistical performance pillar by a wide margin is data sources, scoring under 20%, while data products sit in the 50-69% band and data use in the 70-89% band (2023)](https://www.worldbank.org/en/programs/statistical-performance-indicators).
+
+The National Bureau of Statistics has begun filling that gap with instruments of its own: its [Business Establishment Census for 2024/25 identified roughly 48,000 formal business establishments](https://nbs.gov.so/wp-content/uploads/2026/01/Somalia-Business-Establishment-Analysis-Bookle.pdf). It has also been building administrative data-sharing with line ministries, [convening a second Joint Data and Statistics Forum in June 2025 with over 130 government and partner representatives, which produced clearer institutional roles and improved sharing mechanisms](https://nbs.gov.so/second-joint-data-and-statistics-forum/). Users are not yet feeling it: [limited data-sharing platforms is one of the two most cited barriers reported in the bureau's 2025 user satisfaction survey](https://nbs.gov.so/wp-content/uploads/2026/05/Second-User-Satisfaction-Survey-2025.pdf).
+
+What cannot be counted also shapes how Somalia appears elsewhere: the 2024 Ibrahim Index [holds no data for the country on 19 of its 96 indicators, including every one of its 16 public-perception measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf), and vital statistics rest on a civil registration system whose [coverage remains minimal](https://www.opencrvs.org/about-us/country-stories/somalia). The rebuilding is largely externally financed, with [British](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300858/summary) and [African Development Bank](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-SO-KF0-011) commitments to statistical capacity running to 2026.
+
+### Open data
+<!-- data.open -->
+
+Five of the 23 data categories the Open Data Inventory assessed for Somalia in 2024 score zero out of ten — among them banking, energy and crime statistics — meaning [nothing at all was found published to the inventory's coverage and openness criteria](https://odin.opendatawatch.com/data). At the other end, [government finance is the strongest category at 6.5 out of 10, followed by price statistics, the built environment, education facilities and gender statistics at 5.5 each, with nothing reaching 7](https://odin.opendatawatch.com/data).
+
+<!-- derived -->
+Across the 23 categories assessed in 2024 the mean score is 3.7 out of 10, the whole distribution squeezed between a floor of zero and a ceiling of 6.5.
+
+The direction is upward from a near-standing start. Somalia's [disclosure of public records rose 19.1 points over 2014-2023 to 22.1 out of 100, 41st of 54, and accessibility of public records rose 13.2 points to 13.7, 44th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf), leaving both in the bottom quarter of African states after a decade of the fastest improvement either measure has seen.
+
+Where public information does reach the page it comes mostly through audit. The Auditor-General's [2025 annual audit covered 30 projects across 22 bodies financed by the World Bank, African Development Bank and IMF, together 60.1% of the national budget](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/), and published [breaches of legal and procurement procedure by government bodies](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/) alongside them. The limits show in the same document: the audit [could not independently verify the revenue share reported from the Mogadishu port and airport concession, because the underlying records were not available to it](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/). The Central Bank is the steadier publisher, issuing [audited financial statements under IFRS with an independent opinion, and a statistical bulletin each June](https://centralbank.gov.so/wp-content/uploads/2025/05/CBS-2024-Financial-Statement.pdf).
+
+### Use of satellite data
+<!-- data.satellite -->
+
+No national programme for the state's use of earth-observation or geospatial data was in place as at August 2026.
 
 ## Finance
 
 ### New investments
+<!-- finance.new -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Eastern Africa Regional Digital Integration Project, Somalia component | [Implemented, under implementation](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Seventh implementation report; a mid-term review held January to April 2026 raised the development-objective rating from Moderately Unsatisfactory to Moderately Satisfactory |
-| World Bank financing for the digital identity rollout | [Implemented](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative) | Officials put the remaining cost of completing the rollout at about US$125m, January 2026 |
+<!-- derived -->
+No other institution comes close to the World Bank: five of the thirteen digital-sector commitments on record are its own, and about USD 328 million of the roughly USD 354 million committed, around 88 per cent of the Somalia-only total once regional programmes are set aside (August 2026). The thirteen were announced between 2015 and August 2026 and run to 2028, with about USD 189 million for Somalia alone and the rest in three regional programmes. All of it is public money — four concessional loans, every one the World Bank's, six grants and three technical assistance operations, with no equity, commercial lending or guarantees. European financiers hold six of the thirteen but only about USD 20 million of the value (August 2026). Statistical capacity is the largest destination by number, taking four, ahead of government systems with three.
 
-### Domestic budget appropriations and expenditure
+The [SCALED-UP credit of USD 31 million, approved in March 2019](https://projects.worldbank.org/en/projects-operations/project-detail/P168115), and its [USD 70 million additional financing of June 2021](https://projects.worldbank.org/en/projects-operations/project-detail/P174769) run to 2026 across digital skills, financial services and job creation, and digital ID is [a major pillar of the World Bank's SPRING initiative, a programme of over USD 100 million](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative) (December 2025). Somalia is [one of two sovereign borrowers, with South Sudan, under the USD 162 million Eastern Africa Regional Digital Integration Project approved in May 2023](https://projects.worldbank.org/en/projects-operations/project-detail/P176181). Two earlier Bank operations closed in 2023: [a USD 50 million public financial management project](https://projects.worldbank.org/en/projects-operations/project-detail/P151492) that rolled IFMIS out across the federal government, Puntland and Somaliland, and [a USD 15 million trust-funded grant](https://d-portal.org/p?aid=XI-IATI-WBTF-P152358) that built the telecom policy and regulatory environment.
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Domestic budget appropriations for the digital sector | ***Not held*** | — |
+Everyone else works at a tenth of that scale. The European Union committed in 2024 [EUR 4.5 million (about USD 5 million) of IT equipment](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-28075) to security and justice institutions to 2028; Sweden funds [SEK 45 million (about USD 5 million) for the DHIS2 national health information system to 2026](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-13062) and has approved [SEK 20.5 million for the IMF's Somalia Country Fund](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-16842-16842A0101) for 2023-2027; the UK [GBP 3,312,013 (about USD 5 million) for statistical capacity to 2026](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300858/summary); and the African Development Bank [XDR 3.0 million (about USD 4 million) of statistics work to 2026](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-SO-KF0-011).
 
-<!-- narrative: finance -->
-The identity rollout is externally financed and short of money. Digital identity is [a pillar of the World Bank-funded SPRING initiative of more than US$100m](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative), and officials put the remaining cost of completing it at [about US$125m in January 2026](https://idtechwire.com/somalia-estimates-125-million-needed-to-complete-national-digital-id-rollout), with no funding source named. US$10m of Somalia's allocation under the Eastern Africa Regional Digital Integration Project was [cancelled in April 2026](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt), and private-sector investment mobilised under it stands at US$0 against a US$10m target. No domestic appropriation for the sector is held.
-<!-- /narrative -->
+### MoUs and other agreements
+<!-- finance.mou -->
 
-## Gaps to fill
-
-| System or instrument | What would settle it | Last probed |
-|---|---|---|
-| National artificial intelligence policy | An adopted or draft national AI strategy, a ministerial mandate, or a government statement setting an AI position. | not yet probed |
-| Earth observation or geospatial data programme | A national geospatial or earth-observation programme document, or an agency mandate covering satellite data. | not yet probed |
-| Rural digital data capture | A pastoralist, agricultural or rural registry, or a field data-collection programme covering rural populations. | not yet probed |
-| Public debate on digital policy | Published civil-society analysis, a parliamentary debate record, or a consultation response on a digital instrument. | not yet probed |
-| Open government data | An open-data portal, a published dataset release policy, or an agency statement on publishing government data. | not yet probed |
-| Digital literacy programmes | A national digital literacy curriculum, campaign or programme document. | not yet probed |
-| Domestic budget appropriations for the digital sector | The federal appropriation act or budget statement showing the votes for the communications ministry, the regulator and the identity authority. | not yet probed |
-| European Union digital cooperation with Somalia | A Global Gateway or EU delegation announcement, a financing agreement, or a programme document naming Somalia beyond the innovation project already held. | not yet probed |
-| Chinese digital cooperation with Somalia | A bilateral agreement, vendor contract or financing arrangement naming Somalia. | not yet probed |
-| Indian digital cooperation with Somalia | A bilateral memorandum, a line-of-credit agreement, or an India Stack or ITEC programme document naming Somalia. | not yet probed |
-
-<!-- narrative: gaps -->
-Ten rows carry no reliable statement of position. Nine are subjects the base holds nothing on for Somalia: earth-observation and geospatial programmes, rural data capture, open government data, digital literacy, public debate on digital policy, domestic appropriations, and European Union, Chinese and Indian cooperation. The tenth is a national artificial intelligence policy, which the base does not show to exist in any form. Separately, where the national identity data is physically held is a disagreement rather than an absence, and is carried in the wiki's contradictions queue.
-<!-- /narrative -->
+The European framework Somalia signed for digital government and cybersecurity closed in 2025: the [D4D Initiative for Digital Government and Cybersecurity for the Horn of Africa](https://d4daccess.eu/sites/default/files/2024-03/2023-02-03_EN_Factsheet_IDGC_Horn%20of%20Africa.pdf), a EUR 3 million technical assistance programme co-financed by the European Union and Germany's BMZ, ran from 2022 and covered Somalia alongside Kenya and Djibouti, with GIZ leading on e-government, Expertise France on cybersecurity and FIIAPP on change management. What has been signed since is cooperation rather than money: [Somalia's cybersecurity build-out rests on partnerships with Turkey, Malaysia and the UN Office on Drugs and Crime](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center) (March 2026).
