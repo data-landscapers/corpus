@@ -146,7 +146,7 @@ Launched in a single batch so they run concurrently. **No extraction agent write
 ### Stage 3 — the parent assembles
 
 9. **Assemble in outline order** — `python scripts/status-assemble.py {ISO3} --hub-reviewed {date} --intersections {n}`, which reads the chapter drafts, keys sub-sections on the `<!-- slug -->` comment rather than the heading text, and writes `outputs/reports/{ISO3}/{ISO3}-status.md` with its frontmatter counts computed from the assembled document. Where the same fact has surfaced in several chapters, it is stated in full in the one where it is load-bearing and referred to in passing elsewhere; the report does not repeat a figure four times.
-10. **Add the country's rows to `osint-corpus-exchange/africa-acquire.csv`** — `python scripts/status-acquire.py {ISO3} --compiled {date}`, which asks the catalogue of every cited URL and takes the publisher, title and publication date of an unheld one from the pool. See *Conflicts*. Re-run step 9 afterwards so the frontmatter's `acquire_lines` counts the rows that now exist.
+10. **Add the country's rows to `C:\corpus-osint-xfer\africa-acquire.csv`** — `python scripts/status-acquire.py {ISO3} --compiled {date}`, which asks the catalogue of every cited URL and takes the publisher, title and publication date of an unheld one from the pool. See *Conflicts*. Re-run step 9 afterwards so the frontmatter's `acquire_lines` counts the rows that now exist.
 
     **Commit anything else standing in the share before the acquire rows, under its own subject line** *(2026-08-21)*. The share is a shared repository and CC commits for both sides, so a run that stages the whole tree sweeps up whatever the other side left there — a `new-queue/` drop, a note edit — and files it under a subject that says this country's baseline. That is the one thing a shared history is kept for, and it went wrong twice before it was noticed, on SLE and again on SOM. Two commits, not one: the other author's work first, named as theirs, then `africa-acquire.csv` alone. Push immediately after each.
 11. **Verify** — checks A to I below, on the assembled file. Never per agent.
@@ -181,11 +181,11 @@ Launched in a single batch so they run concurrently. **No extraction agent write
 
 - **Held** — nothing is owed. It came through the daily flow or the vault has it anyway.
 - **Not held, dated before 2024** — state the fact, link the URL, and carry on. This is baseline material, outside the collection perimeter and outside OSINT's job. No acquisition is raised.
-- **Not held, dated 2024 or later** — state the fact, link the URL, **and write one line to `osint-corpus-exchange/africa-acquire.csv`**. Recent material is current-awareness material, which the daily flow exists to catch. A 2024-or-later source found here and not held there is a gap in the sweep, not a gap in the baseline, and that is what the line reports. Bill actions the file in an OSINT session.
+- **Not held, dated 2024 or later** — state the fact, link the URL, **and write one line to `C:\corpus-osint-xfer\africa-acquire.csv`**. Recent material is current-awareness material, which the daily flow exists to catch. A 2024-or-later source found here and not held there is a gap in the sweep, not a gap in the baseline, and that is what the line reports. Bill actions the file in an OSINT session.
 
 Framing it on *held* rather than on *arrived through the dataset* is what makes it checkable: the held/not-held split is set membership against the catalogue, which `status-check.py` performs, so the check reports the candidate list rather than the run having to remember where each fact came from.
 
-**One file for all of Africa, not one per country** *(Bill, 2026-08-15)*. The lines accumulate in `osint-corpus-exchange/africa-acquire.csv`, one row per source with the country in a column:
+**One file for all of Africa, not one per country** *(Bill, 2026-08-15)*. The lines accumulate in `C:\corpus-osint-xfer\africa-acquire.csv`, one row per source with the country in a column:
 
 ```
 iso3,published,publisher,title,url,sub_section,found,status,notes
@@ -290,7 +290,7 @@ The order of the campaign follows from that: `logs/status-init-progress.csv` is 
 - **C — every time-varying figure is dated.**
 - **D — no `[[wikilink]]` survives into the output**, and no bare repo path.
 - **E — 37 sub-sections present, in outline order, none empty**, and `finance.budget` absent.
-- **F — every acquire line is dated 2024 or later** and carries date, publisher, title, URL and sub-section. Read from `osint-corpus-exchange/africa-acquire.csv`, filtered to the unit under check.
+- **F — every acquire line is dated 2024 or later** and carries date, publisher, title, URL and sub-section. Read from `C:\corpus-osint-xfer\africa-acquire.csv`, filtered to the unit under check.
 - **G — no apparatus reached the page.** Grep the output for hedges and evidence-talk: *reportedly, apparently, it appears, sources indicate, according to available, it should be noted, however it is unclear, the data suggests, some sources, no source, the base, the dataset, the wiki, conflicting, discrepancy*. Any hit is rewritten or the claim is dropped.
 - **H — every sub-section opens on news.** The first sentence states something a reader who follows the country would not already know. A first sentence that defines a term, restates the question or leads with the oldest fact in the section is rewritten. This one needs a reader, not a grep.
 - **I — as-of honesty** (report-layer check J). The document is never *behind* its newest cited source, and the lag the other way is disclosed rather than judged. *(Corrected 2026-08-15: this said `compiled:` is never **ahead** of its newest cited source, which transcribed report-layer check J's reported half as though it were the gate. It cannot be one — a baseline compiled today from sources published last month is dated ahead of every one of them, which is the normal state of every status report ever written. Check J fails on the opposite direction and reports this one.)* Measured against the held half of the citations only: the AfDB dataset carries the year a value is true of, not the date its source was published.
