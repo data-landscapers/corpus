@@ -416,6 +416,7 @@ TEMPLATE = """<!DOCTYPE html>
   </footer>
 
 </div>
+{page_script}
 </body>
 </html>
 """
@@ -549,6 +550,14 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         main_css, report_css = f"{up}assets/css/main.css", f"{up}assets/css/report.css"
         logo = f"{up}assets/logo.png"
 
+    # The bulletin's country filter *(Bill, 2026-08-21)*. An external file rather than an inline
+    # block: it is 120 lines, it is one page's behaviour, and inlining would put it in the
+    # template every other document is built from. Never in the PDF pass — WeasyPrint runs no
+    # script, so the tag would be a `file://` reference to something that does nothing.
+    page_script = ""
+    if kind == "bulletin" and not absolute:
+        page_script = f'<script src="{up}assets/js/bulletin-filter.js" defer></script>'
+
     # A document rendered without a PDF must not advertise one *(Bill, 2026-08-17)*. The download
     # button and the `This file` row both name a file that was never cut, so they come out
     # together rather than being left to 404.
@@ -585,6 +594,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         current_row=current_row,
         kicker=kicker,
         header_mod=header_mod,
+        page_script=page_script,
         byline=byline,
         edition_display=edition_display,
         colophon_notes=BULLETIN_NOTES if kind == "bulletin" else REPORT_NOTES,
@@ -678,12 +688,17 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
                 # holds again next time rather than treating its own refresh as a change.
                 #
                 # Written only where the bytes differ. A refresh that rewrites an identical
-                # page is churn a reader never sees and a diff always does — and on Windows it
-                # is not even identical, since `write_text` translates the line endings, so an
-                # unconditional write would show the whole file as changed on every render.
+                # page is churn a reader never sees and a diff always does.
+                #
+                # **`newline=""` is what makes that comparison mean anything** *(2026-08-22)*.
+                # Without it Windows translates every `\n` on the way out while the read above
+                # translates every `\r\n` back on the way in, so the two never disagree about
+                # line endings and the file on disk quietly diverges from the one in git — a
+                # 1,205-line diff on a document nothing had changed. Both writes here carry it,
+                # and so does `bulletin.py`.
                 served, _, _, _, _ = build_document(md_path, held, absolute=False, pdf=pdf)
                 if not html_path.exists() or html_path.read_text(encoding="utf-8") != served:
-                    html_path.write_text(served, encoding="utf-8")
+                    html_path.write_text(served, encoding="utf-8", newline="")
             return html_path, pdf_path, False
         # The page names an edition whose PDF is not there — a file deleted by hand, or a run
         # that died between the two writes. Cut it again under **its own** name rather than
@@ -709,7 +724,7 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     for f in (html_path, pdf_path):
         if f is not None and f.exists():
             f.unlink()
-    html_path.write_text(served, encoding="utf-8")
+    html_path.write_text(served, encoding="utf-8", newline="")
 
     if pdf_path is None:
         return html_path, None, True

@@ -76,6 +76,47 @@
 
 .article-header--bulletin { border-bottom: none; margin-bottom: 1.5rem; padding-bottom: 1.25rem; }
 
+/* The country filter, under the category bar. Same control as the Lab index's
+   category filter on data-landscapers.io, and deliberately the same plain
+   <select> rather than a second set of boxes: the bar above it is already a
+   row of links, and two rows of chrome that look alike but behave differently
+   is worse than one row and one form control. `hidden` until the script
+   removes it — see bulletin-filter.js. */
+.bulletin-filter {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  margin: -1rem 0 2rem;
+}
+
+.bulletin-filter label {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+}
+
+.bulletin-filter select {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  padding: 4px 8px;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: #fff;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.bulletin-filter__count { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); }
+
+/* The item wrapper exists for the filter to hold on to and carries no styling
+   of its own; the margins stay on the paragraphs inside it, where they were
+   before it existed. Stated anyway, because a div that looks like it should do
+   something is a div someone will later give something to do. */
+.bulletin-item { display: block; }
+
 /* Terracotta small caps (Bill, 2026-08-21). The accent is the site's own
    #c84b2f, and these are the page's own contents rather than site chrome, so
    they read as the accent everywhere rather than only on hover — which leaves

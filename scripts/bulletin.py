@@ -214,7 +214,8 @@ def load_store() -> dict:
 def save_store(store: dict) -> None:
     BULLETINS.mkdir(parents=True, exist_ok=True)
     ordered = {k: store[k] for k in sorted(store)}
-    STORE.write_text(json.dumps(ordered, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    STORE.write_text(json.dumps(ordered, indent=2, ensure_ascii=False) + "\n",
+                     encoding="utf-8", newline="")   # newline="": see DOCUMENT.write_text below
 
 
 def prune(store: dict, run_date: date) -> dict:
@@ -381,8 +382,20 @@ def link_to(label: str) -> str:
 
 def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bool,
           names: dict[str, str]) -> list[str]:
-    """One item in one section. `here` is whether this section is the one carrying the detail."""
-    out = [head_line(row, names), ""]
+    """One item in one section. `here` is whether this section is the one carrying the detail.
+
+    **Each entry is wrapped in a `.bulletin-item` carrying its country codes** *(Bill,
+    2026-08-21)*, so the country filter has something to hide. `markdown="1"` is what makes the
+    wrapper free: `render.py` runs Markdown's `md_in_html`, which processes the block's contents
+    as markdown rather than passing them through as raw HTML, so the headline and the summary
+    below are written here exactly as they were before the div existed.
+
+    The codes are the same set the boxes are drawn from and are written even when empty — an
+    item with no African country is one the filter should hide the moment a country is chosen,
+    and `data-places=""` says that, where a missing attribute would leave it ambiguous."""
+    codes = " ".join(c for c in facets(row["places"]) if not c.startswith("X"))
+    out = [f'<div class="bulletin-item" data-places="{codes}" markdown="1">', "",
+           head_line(row, names), ""]
     if here:
         body = store[row["slug"]]["summary"]
         if others:
@@ -392,7 +405,7 @@ def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bo
         out += [body, ""]
     else:
         out += [f"Summarised under {link_to(anchor_label)}.", ""]
-    return out
+    return out + ["</div>", ""]
 
 
 def label_of(slug: str) -> str:
@@ -463,6 +476,39 @@ def topic_nav(groups: list[tuple[str, list[tuple[str, str]]]]) -> list[str]:
             links, "</nav>", ""]
 
 
+def country_filter(rows: list[dict], names: dict[str, str]) -> list[str]:
+    """The country filter, after the Lab index's category filter *(Bill, 2026-08-21)*.
+
+    Same control and the same shape — a `<select>` opening on *All countries* — over the
+    countries **this edition holds**, which is the equivalent of the Lab's `map: 'category' |
+    uniq | sort`. Offering all 54 would be a list of which 30 do nothing.
+
+    Two things the Lab's version does not have to deal with. Its list is flat and each entry
+    carries exactly one category, so hiding entries is the whole job; here the entries are
+    nested two deep under headings that have to go when they empty out, and an item can carry
+    several countries or none. That work is in `bulletin-filter.js`, which is why this emits
+    markup and no behaviour.
+
+    **`hidden` until the script removes it.** A `<select>` that filters nothing is worse than no
+    select, and the page is perfectly usable without it — the same progressive-enhancement rule
+    the home page's topic tiles follow. `screen-only` keeps it out of the PDF, where a control
+    is furniture with nothing behind it."""
+    codes = sorted({c for r in rows for c in facets(r["places"]) if not c.startswith("X")},
+                   key=lambda c: names.get(c, c))
+    if len(codes) < 2:
+        return []          # one country, or none: a filter with a single option filters nothing
+    options = "\n".join(
+        f'<option value="{c}">{names.get(c, c)}</option>' for c in codes)
+    return ['<div class="bulletin-filter screen-only" hidden>',
+            '<label for="bulletin-country">Filter by country</label>',
+            '<select id="bulletin-country">',
+            '<option value="">All countries</option>',
+            options,
+            '</select>',
+            '<span class="bulletin-filter__count" aria-live="polite"></span>',
+            '</div>', ""]
+
+
 def body_of(rows: list[dict], store: dict, names: dict[str, str], start: str, end: str
             ) -> list[str]:
     if not rows:
@@ -478,7 +524,7 @@ def body_of(rows: list[dict], store: dict, names: dict[str, str], start: str, en
         ]
 
     sections, groups = groups_of(rows)
-    lines = topic_nav(groups)
+    lines = topic_nav(groups) + country_filter(rows, names)
     for group_label, members in groups:
         lines += [f"## {group_label}", ""]
         for slug, section_label in members:
@@ -580,7 +626,12 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
     if text == before:
         print(f"unchanged  {where}  (last updated {held}; the clock has not moved either)")
     else:
-        DOCUMENT.write_text(text, encoding="utf-8")
+        # `newline=""` or Windows turns every \n into \r\n and the file differs from the one in
+        # git on every line *(2026-08-22)*. It showed up as a 1,205-line diff between a document
+        # CC had just committed and the identical document on disk — `--ignore-cr-at-eol` came
+        # back empty. OSINT logged the same defect the same morning, in its own scripts, for the
+        # same reason: `write_text` defaults to translating line endings.
+        DOCUMENT.write_text(text, encoding="utf-8", newline="")
         if clock_only:
             print(f"checked    {where}  — nothing published in the window since {held}; "
                   f"the page now says so")
