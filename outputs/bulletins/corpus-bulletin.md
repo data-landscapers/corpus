@@ -122,7 +122,7 @@ UNITEL has declared its core mobile services fully restored across Angola after 
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Internet firm warns proposed metered billing could raise costs for Kenyans](https://peopledaily.digital/business/internet-firm-warns-proposed-metered-billing-could-raise-costs-for-kenyans)** — People Daily, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -142,7 +142,7 @@ A panel at TrendAI Spark 2026 in Sun City argued that South African organisation
 
 ### Public debate and participation in policymaking
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Kenya Information and Communication Bill a solution looking for a problem](https://nation.africa/kenya/blogs-opinion/opinion/kenya-information-and-communication-bill-a-solution-looking-for-a-problem-5565386)** — Daily Nation, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -198,7 +198,7 @@ Cell C added 1.3 million mobile subscribers and cut net debt 64% to R2.02 billio
 
 </div>
 
-<div class="bulletin-item" data-places="AGO" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="AGO" markdown="1">
 
 **[UNITEL Restores Core Mobile Services Nationwide After July Cyberattack](https://techafricanews.com/2026/08/21/unitel-restores-core-mobile-services-nationwide-after-july-cyberattack/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
 
@@ -206,7 +206,7 @@ Summarised under [Data protection](#data-protection).
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Kenya Information and Communication Bill a solution looking for a problem](https://nation.africa/kenya/blogs-opinion/opinion/kenya-information-and-communication-bill-a-solution-looking-for-a-problem-5565386)** — Daily Nation, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -214,7 +214,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Internet firm warns proposed metered billing could raise costs for Kenyans](https://peopledaily.digital/business/internet-firm-warns-proposed-metered-billing-could-raise-costs-for-kenyans)** — People Daily, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -222,7 +222,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[China's Guodong Plans $300 Million Digital Infrastructure Investment in Kenya](https://www.ecofinagency.com/news/2108-58239-china-s-guodong-plans-300-million-digital-infrastructure-investment-in-kenya)** — Ecofin Agency, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -240,7 +240,7 @@ Ericsson and MTN Group Fintech have completed the migration of MTN's mobile mone
 
 </div>
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
 **[Nigeria Inaugurates Technical Committee on Sovereign Cloud Initiative](https://von.gov.ng/nigeria-inaugurates-technical-committee-on-sovereign-cloud-initiative/)** — Voice of Nigeria, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
@@ -248,7 +248,7 @@ Summarised under [Strategies plans and policies](#strategies-plans-and-policies)
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Kenya and KEXIM Advance Talks on Digital Media City Project at Konza Technopolis](https://techafricanews.com/2026/08/21/kenya-and-kexim-advance-talks-on-digital-media-city-project-at-konza-technopolis/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -266,7 +266,7 @@ Falkin, founded in South Africa in 2024, sells banks, financial institutions and
 
 </div>
 
-<div class="bulletin-item" data-places="AGO" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="AGO" markdown="1">
 
 **[UNITEL Restores Core Mobile Services Nationwide After July Cyberattack](https://techafricanews.com/2026/08/21/unitel-restores-core-mobile-services-nationwide-after-july-cyberattack/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
 
@@ -274,7 +274,7 @@ Summarised under [Data protection](#data-protection).
 
 </div>
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
 **[AI adoption exposes governance gaps as organisations race to keep up](https://www.itweb.co.za/article/ai-adoption-exposes-governance-gaps-as-organisations-race-to-keep-up/GxwQD71DPgBvlPVo)** — ITWeb South Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
@@ -286,7 +286,7 @@ Summarised under [Standards](#standards).
 
 ### Digital Identity and CRVS
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[IN Groupe eyes Kenyan market](https://www.itweb.africa/article/in-groupe-eyes-kenyan-market/WnpNgq21Z9DMVrGd)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -344,7 +344,7 @@ Bank of China held a renminbi and cross-border finance event in Nairobi on 20 Au
 
 </div>
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
 **[Nigeria’s Central Bank wants to monitor your stablecoin transactions. Can the plan actually work?](https://techcabal.com/2026/08/21/nigerias-central-bank-wants-to-monitor-stablecoins/)** — TechCabal, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
@@ -352,7 +352,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item" data-places="SWZ GHA RWA UGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="SWZ GHA RWA UGA" markdown="1">
 
 **[Ericsson and MTN Complete MoMo Cloud Migration Across Four African Markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
 
@@ -360,7 +360,7 @@ Summarised under [Data Storage](#data-storage).
 
 </div>
 
-<div class="bulletin-item" data-places="EGY" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
 **[CIB Secures Preliminary Approval to Launch yomo Digital Bank in Egypt](https://techafricanews.com/2026/08/21/cib-secures-preliminary-approval-to-launch-yomo-digital-bank-in-egypt/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
 
@@ -368,7 +368,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
 **[Boaz Valkin, l'entrepreneur qui renforce la sécurité des systèmes de paiement](https://www.wearetech.africa/fr/fils/tech-stars/boaz-valkin-l-entrepreneur-qui-renforce-la-securite-des-systemes-de-paiement)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
@@ -376,7 +376,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
 **[Afrique du Sud : Yellow boucle une levée de fonds pour accélérer son expansion](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-yellow-boucle-une-levee-de-fonds-pour-accelerer-son-expansion)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
@@ -386,7 +386,7 @@ Summarised under [New investments](#new-investments).
 
 ### Other GovTech and e-Gov
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
 **[Nigeria Inaugurates Technical Committee on Sovereign Cloud Initiative](https://von.gov.ng/nigeria-inaugurates-technical-committee-on-sovereign-cloud-initiative/)** — Voice of Nigeria, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
@@ -394,7 +394,7 @@ Summarised under [Strategies plans and policies](#strategies-plans-and-policies)
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[IN Groupe eyes Kenyan market](https://www.itweb.africa/article/in-groupe-eyes-kenyan-market/WnpNgq21Z9DMVrGd)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -418,7 +418,7 @@ Kenya has broken ground on the Kikuyu Centre of Excellence Digital Hub in Kiambu
 
 ### AI
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
 **[AI adoption exposes governance gaps as organisations race to keep up](https://www.itweb.co.za/article/ai-adoption-exposes-governance-gaps-as-organisations-race-to-keep-up/GxwQD71DPgBvlPVo)** — ITWeb South Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
@@ -428,7 +428,7 @@ Summarised under [Standards](#standards).
 
 ### ICT Industry
 
-<div class="bulletin-item" data-places="TZA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="TZA" markdown="1">
 
 **[Vodacom Tanzania's 10th AGM Highlights 27.7M Customers and 85% Network Investment Growth](https://www.telecomreviewafrica.com/articles/telecom-operators/29096-vodacom-tanzanias-10th-agm-highlights-27-7m-customers-and-85-network-investment-growth/)** — Africa Telecom Review, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
@@ -436,7 +436,7 @@ Summarised under [Connectivity](#connectivity).
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[IN Groupe eyes Kenyan market](https://www.itweb.africa/article/in-groupe-eyes-kenyan-market/WnpNgq21Z9DMVrGd)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -444,7 +444,7 @@ Summarised under [Strategies plans and policies](#strategies-plans-and-policies)
 
 </div>
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
 **[Cell C gains 1.3M subscribers, reduces debt](https://www.connectingafrica.com/investment/cell-c-gains-1-3m-subscribers-reduces-debt)** — Connecting Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
@@ -470,7 +470,7 @@ Tagaddod, founded in Cairo in 2013, collects used cooking oil and other fats as 
 
 </div>
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
 **[He started Bitoshi as a student with an $11.12 allowance. Now it has 60,000 users](https://techcabal.com/2026/08/22/he-started-bitoshi-as-a-student-with-an-11-12-allowance-now-it-has-60000-users/)** — TechCabal, 22 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
@@ -478,7 +478,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
 **[La fintech de SalyPay franchit 1,1 million de dollars de transactions via WhatsApp](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-fintech-de-salypay-franchit-1-1-million-de-dollars-de-transactions-via-whatsapp)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
@@ -486,7 +486,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Kenya and KEXIM Advance Talks on Digital Media City Project at Konza Technopolis](https://techafricanews.com/2026/08/21/kenya-and-kexim-advance-talks-on-digital-media-city-project-at-konza-technopolis/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -494,7 +494,7 @@ Summarised under [New investments](#new-investments).
 
 </div>
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
 **[Boaz Valkin, l'entrepreneur qui renforce la sécurité des systèmes de paiement](https://www.wearetech.africa/fr/fils/tech-stars/boaz-valkin-l-entrepreneur-qui-renforce-la-securite-des-systemes-de-paiement)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
@@ -506,7 +506,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 ### Literacy
 
-<div class="bulletin-item" data-places="RWA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="RWA" markdown="1">
 
 **[RSwitch Takes Digital Finance Campaign to Kigali Communities](https://techafricanews.com/2026/08/21/rswitch-takes-digital-finance-campaign-to-kigali-communities/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
@@ -516,7 +516,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 ### Training and skills
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Kenya Breaks Ground for Kikuyu Digital Hub Under Nationwide 100-Hub Plan](https://techafricanews.com/2026/08/21/kenya-breaks-ground-for-kikuyu-digital-hub-under-100-hub-plan/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -528,7 +528,7 @@ Summarised under [Digitalisation of sub-national government](#digitalisation-of-
 
 ### Access to services
 
-<div class="bulletin-item" data-places="RWA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="RWA" markdown="1">
 
 **[RSwitch Takes Digital Finance Campaign to Kigali Communities](https://techafricanews.com/2026/08/21/rswitch-takes-digital-finance-campaign-to-kigali-communities/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
@@ -536,7 +536,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
 **[Nedbank tests next-gen self-service branches](https://www.itweb.co.za/article/nedbank-tests-next-gen-self-service-branches/GxwQDq1DPg6MlPVo)** — ITWeb South Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
@@ -544,7 +544,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Kenya Information and Communication Bill a solution looking for a problem](https://nation.africa/kenya/blogs-opinion/opinion/kenya-information-and-communication-bill-a-solution-looking-for-a-problem-5565386)** — Daily Nation, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -552,7 +552,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Kenya Breaks Ground for Kikuyu Digital Hub Under Nationwide 100-Hub Plan](https://techafricanews.com/2026/08/21/kenya-breaks-ground-for-kikuyu-digital-hub-under-100-hub-plan/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -560,7 +560,7 @@ Summarised under [Digitalisation of sub-national government](#digitalisation-of-
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Internet firm warns proposed metered billing could raise costs for Kenyans](https://peopledaily.digital/business/internet-firm-warns-proposed-metered-billing-could-raise-costs-for-kenyans)** — People Daily, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -568,7 +568,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
-<div class="bulletin-item" data-places="TZA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="TZA" markdown="1">
 
 **[Airtel Money School Pay Expands Digital Fee Payments to 800+ Schools in Tanzania](https://techafricanews.com/2026/08/21/airtel-money-school-pay-expands-digital-fee-payments-to-800-schools-in-tanzania/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
@@ -576,7 +576,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
 **[Afrique du Sud : Yellow boucle une levée de fonds pour accélérer son expansion](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-yellow-boucle-une-levee-de-fonds-pour-accelerer-son-expansion)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
@@ -586,7 +586,7 @@ Summarised under [New investments](#new-investments).
 
 ### Digital divides
 
-<div class="bulletin-item" data-places="MWI" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="MWI" markdown="1">
 
 **[Malawi targets smartphone tax relief](https://www.itweb.africa/article/malawi-targets-smartphone-tax-relief/mQwkoq6Y9DpM3r9A)** — ITWeb Africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
 
@@ -598,7 +598,7 @@ Summarised under [Strategies plans and policies](#strategies-plans-and-policies)
 
 ### China activities
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[China's Guodong Plans $300 Million Digital Infrastructure Investment in Kenya](https://www.ecofinagency.com/news/2108-58239-china-s-guodong-plans-300-million-digital-infrastructure-investment-in-kenya)** — Ecofin Agency, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
@@ -606,7 +606,7 @@ Summarised under [New investments](#new-investments).
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[2026肯尼亚人民币国际使用暨跨境金融合作推介会举行](http://world.people.com.cn/n1/2026/0821/c1002-40783976.html)** — 人民网 (People’s Daily Online), 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 

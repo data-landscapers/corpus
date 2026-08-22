@@ -68,8 +68,15 @@
     if (el) { el.hidden = !on; }
   }
 
+  /* Unfiltered, everything shows: the cross-references are part of reading the document top to
+   * bottom, saying an item belongs under this topic too and pointing at where it is written
+   * out. Filtered to one country they are noise — the reader has asked for that country's
+   * items, and a signpost is not an item. So a selection shows summaries only, which also makes
+   * the count the number of items rather than the number of places they are mentioned:
+   * Eswatini's single item appears in two Level-2 sections and was counted twice. */
   function matches(item, code) {
     if (!code) { return true; }
+    if (item.classList.contains('bulletin-item--xref')) { return false; }
     var places = (item.getAttribute('data-places') || '').split(/\s+/);
     return places.indexOf(code) !== -1;
   }

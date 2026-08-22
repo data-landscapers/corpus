@@ -394,7 +394,13 @@ def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bo
     item with no African country is one the filter should hide the moment a country is chosen,
     and `data-places=""` says that, where a missing attribute would leave it ambiguous."""
     codes = " ".join(c for c in facets(row["places"]) if not c.startswith("X"))
-    out = [f'<div class="bulletin-item" data-places="{codes}" markdown="1">', "",
+    # **A cross-reference is marked as one** *(Bill, 2026-08-22)*. Reading the document top to
+    # bottom they earn their place — they say the item belongs here too and point at where it is
+    # written out. Filtered to one country they are noise, and worse than noise in the count:
+    # Eswatini's single item sat in two Level-2 sections, so the filter said two entries and
+    # showed a summary and a signpost to it.
+    cls = "bulletin-item" if here else "bulletin-item bulletin-item--xref"
+    out = [f'<div class="{cls}" data-places="{codes}" markdown="1">', "",
            head_line(row, names), ""]
     if here:
         body = store[row["slug"]]["summary"]
