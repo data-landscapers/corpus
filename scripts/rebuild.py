@@ -7,9 +7,18 @@ The site is two jobs. This is the first.
   JOB 2 (render)       Corpus outputs/                 ->  Corpus site/     (RENDER.md)
 
 Corpus compiles, reports and analyses; OSINT collects and classifies. This driver reads
-OSINT's working tree — raw/, wiki/ and lookups/, through the junctions setup_workroot()
-makes — indexes raw/ and wiki/ into an index of its own, and writes only into Corpus's
-own outputs/. **It never writes to OSINT.**
+raw/, wiki/ and lookups/ through the junctions setup_workroot() makes, indexes raw/ and
+wiki/ into an index of its own, and writes only into Corpus's own outputs/. **It never
+writes to OSINT.**
+
+**What those junctions resolve to is the mirror, not OSINT's working tree** *(corrected
+2026-08-22, `notes-for-corpus.md` note 5)*. Since 2026-08-20 OSINT works on its own
+machine's `C:\\OSINT` and syncs to `O:\\` = `\\\\bill-vivobook\\osint` as the last act of
+`SWEEP-CYCLE`; this is bill-vivobook, so that share resolves back to *this* machine's
+`C:\\OSINT`, which is therefore the mirror's landing point and the only OSINT path Corpus
+can name. `O:\\` is not mapped here and would loop back to the same folder if it were.
+`scripts/lint-osint-freshness.py` is what says how old that copy is — it used to say
+nothing, which is the whole of note 5.
 
 Job 1 has two kinds of work. The deterministic *compiles* below are pure functions of
 raw/ and run here. The *report layer* (ledgers and narrative) and *topics* are model
@@ -31,7 +40,8 @@ Stages
   5. reports    ledger -> outputs/reports/{unit}/*.md  (tables rebuilt, narrative carried)
   6. summary    what was produced
 
-  OSINT_PATH   where OSINT is checked out (default: the mounted OSINT folder)
+  OSINT_PATH   where the OSINT mirror is (legacy alias; CORPUS_OSINT_MIRROR is the name
+               osint_lib and the rest of Corpus use, and supplies the default)
   python scripts/rebuild.py --all                 # vocab + catalogue + finance + scan + summary
   python scripts/rebuild.py --scan                # the report-update work order, only
   python scripts/rebuild.py --all --reports all   # ...and re-render every report's tables
@@ -40,10 +50,19 @@ Stages
 import argparse, csv, glob, json, os, shutil, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import osint_lib  # noqa: E402  — for MIRROR, the one path to OSINT Corpus states
 import vault_lib  # noqa: E402  — for INDEX_ROOTS; see setup_workroot()
 
 CORPUS = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-OSINT = os.environ.get("OSINT_PATH", r"C:\OSINT")
+
+# **One default, three names, and this was the third copy** *(2026-08-22)*. `osint_lib` was
+# made the single constant because `osint-cycle-ready.py` and `bulletin.py` were about to hold
+# two; this file already held a third, under its own `OSINT_PATH`, and a path to another
+# repository stated in three places is one that will one day be moved in two of them.
+# `OSINT_PATH` still wins where it is set — an environment variable that silently stops being
+# read is worse than a second name for it — but the default now comes from `osint_lib.MIRROR`,
+# so `CORPUS_OSINT_MIRROR` moves this along with everything else.
+OSINT = os.environ.get("OSINT_PATH") or osint_lib.MIRROR
 TOOLCHAIN = os.path.join(CORPUS, "scripts")           # all .py live here now
 WORK = os.path.join(CORPUS, "scripts", ".workroot")   # gitignored; symlinks + a view onto outputs
 OUTPUTS = os.path.join(CORPUS, "outputs")

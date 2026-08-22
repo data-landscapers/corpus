@@ -32,7 +32,7 @@ Three further stages are deferred and named at the end: report initialisation fr
 
 ## Prerequisites
 
-- OSINT checked out and readable (`OSINT_PATH`, default `C:\OSINT`). On this machine `raw/` is local, so the scan and renders are fast.
+- The OSINT mirror present and readable at `C:\OSINT` (`CORPUS_OSINT_MIRROR` overrides; `rebuild.py` still honours its older `OSINT_PATH` where that is set). It is a local path, so the scan and renders are fast — and it is a **mirror**, not OSINT's working tree: OSINT works on its own machine and syncs here as `SWEEP-CYCLE`'s last act, so what stage 0's freshness check reports is how old this copy is. `O:\` is OSINT's name for the destination, not a path Corpus can use.
 - Run from the repo root. Commit after each coherent stage.
 - **The index is Corpus's own and needs nothing from OSINT** *(Bill, 2026-08-14)*. It is built into the gitignored workroot at `scripts/.workroot/index/` from `raw/` and `wiki/`, rebuilds itself whenever either moves, and takes about 5 seconds over 12,588 files. Nothing here waits on an OSINT maintenance step, and OSINT's own `index/` is not read at all. If a run ever raises `vault_lib.ForeignIndex` or `EmptyIndex`, it was started from the wrong root — stage 4 and 5 run **from `scripts/.workroot/`**, where `raw/` and `wiki/` resolve; from the repo root there is no base to index and the guard says so rather than writing an empty index.
 
@@ -41,7 +41,14 @@ Three further stages are deferred and named at the end: report initialisation fr
 ```bash
 python -c "import datetime,io; io.open('logs/.build-in-progress','w',encoding='utf-8').write('started {:%Y-%m-%d %H:%M}\n'.format(datetime.datetime.now()))"
 python scripts/log-line.py --start build
+python scripts/lint-osint-freshness.py    # 0 fresh · 1 stale or regressed · 2 nothing readable
 ```
+
+**The third line says how old the evidence is, and does not stop the run** *(2026-08-22, `notes-for-corpus.md` note 5)*. Everything below compiles from the OSINT mirror, and until now nothing said when that mirror last moved. OSINT's `LINT` #19 used to, and retired with OSINT's backup (`documentation/archived/osint-migration.md` R8) — but the pass it watched changed jobs on 2026-08-20 and now supplies *Corpus's copy of the vault* rather than a backup, so what a lapse costs changed with it: not a late backup, but a build, a report and a publish from yesterday's evidence with nothing anywhere saying so. `scripts/lint-osint-freshness.py` reads three clocks off the mirror — the last ingest, the rotation table's newest `End`, and the mirror's `HEAD` commit date — and reports the newest, because none is authoritative alone and an OSINT commit outside a cycle moves only the third.
+
+**Not a gate, deliberately.** A cycle is run by hand, so a quiet stretch is OSINT's schedule rather than a defect, and a build stopped by one would be stopped for no fault. The ceiling (`--max-age-hours`, default 72, the same floor `lint-mirror-freshness.py` puts under the backup) is where a quiet stretch stops being plausible; a `STALE` or `UNREADABLE` line goes in the run's message to Bill and the build continues. The repair is not Corpus's to run either way — it is `FreeFileSync.exe SyncSettings.ffs_batch` on OSINT's machine, and `C:\OSINT` is read-only from here.
+
+**It also catches the fault an age test cannot**: a mirror that has gone *backwards*, checked against the `done` watermark in `logs/.osint-cycle-seen`. A rollback is fresh by every clock and wrong by every record. `scripts/test_osint_freshness.py` proves both fault paths and the unreadable case fire, on the same principle as the leak-gate and mirror-freshness tests — this check will read `ok` for weeks, which is exactly when a broken one goes unnoticed.
 
 **The second line is what puts a duration on the run's log line** *(Bill, 2026-08-17)*. It stamps the clock into the gitignored `logs/.run-start-build`, and the closing call in the ending sequence reads it back and clears it. Run it here, at the top, rather than deriving a start time later: a duration reconstructed at the end of a long session is a recollection, and the reason for logging it at all is to have a measurement. A run that skips this still logs — the line reads `unclocked`, which is the visible version of not knowing.
 
