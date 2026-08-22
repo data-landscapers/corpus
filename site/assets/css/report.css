@@ -113,9 +113,24 @@
 
 /* The item wrapper exists for the filter to hold on to and carries no styling
    of its own; the margins stay on the paragraphs inside it, where they were
-   before it existed. Stated anyway, because a div that looks like it should do
-   something is a div someone will later give something to do. */
-.bulletin-item { display: block; }
+   before it existed. It had a `display: block` here, stated for the sake of
+   saying something — and that one line was the whole of the bug Bill found
+   the same afternoon.
+
+   **An author rule that sets `display` outranks the UA stylesheet's
+   `[hidden] { display: none }`**, whatever its specificity, so `el.hidden =
+   true` silently stopped hiding anything. Selecting Algeria pruned the nav,
+   hid the empty headings, counted one entry — and left all 63 items on the
+   page, because they were the only elements in the document carrying an
+   author `display`. The filter was working; the CSS was quietly refusing it.
+
+   So the attribute is honoured explicitly, for both the elements here that
+   carry a `display` of their own. `.bulletin-filter` is the other, and it had
+   the same fault the other way round: `display: flex` meant its `hidden`
+   start state did nothing, so a browser with JavaScript off would have shown
+   a filter that filters nothing — which is exactly what `hidden` was there to
+   prevent. */
+.bulletin-item[hidden], .bulletin-filter[hidden] { display: none; }
 
 /* Terracotta small caps (Bill, 2026-08-21). The accent is the site's own
    #c84b2f, and these are the page's own contents rather than site chrome, so
