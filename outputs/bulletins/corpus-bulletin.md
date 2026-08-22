@@ -1,11 +1,11 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 21-08-2026 at 23:49 — Covering sources published on 21 August 2026
+subtitle: Last updated 22-08-2026 at 09:35 — Covering sources published on 21 and 22 August 2026
 window_start: 2026-08-21
 window_end: 2026-08-22
-items: 24
-compiled: 2026-08-21 23:49
+items: 25
+compiled: 2026-08-22 09:35
 ---
 
 # Bulletin
@@ -168,6 +168,10 @@ Summarised under [Strategies plans and policies](#strategies-plans-and-policies)
 
 ### Digital Payments and Fintech
 
+**[He started Bitoshi as a student with an $11.12 allowance. Now it has 60,000 users](https://techcabal.com/2026/08/22/he-started-bitoshi-as-a-student-with-an-11-12-allowance-now-it-has-60000-users/)** — TechCabal, 22 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Bitoshi, a Nigerian crypto-payments startup, has reached roughly 60,000 users on a founder's account of building settlement rails around the Central Bank of Nigeria's February 2021 direction that banks and other financial institutions close the accounts of crypto businesses. Denied a bank rail, it paid naira out through an algorithmic queue that dispatched transfers across a pool of vendors, and moved to an automated payment-partner integration only after the CBN lifted the restriction in 2023. The founder puts users at about 100 in 2021 and 10,000 by 2023, and transaction volume at about $100,000 rising to some $5 million after that integration. *Also under [Innovation ecosystem](#innovation-ecosystem).*
+
 **[RSwitch Takes Digital Finance Campaign to Kigali Communities](https://techafricanews.com/2026/08/21/rswitch-takes-digital-finance-campaign-to-kigali-communities/)** — Tech Africa News, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
 RSwitch took its #TwagiyeKashiresi financial-inclusion campaign into the Nyabugogo and Gisozi Agakiriro neighbourhoods of Kigali for two days, demonstrating eKash and opening merchant and personal accounts on the spot. The National Bank of Rwanda, the ICT and innovation ministry, the Rwanda ICT Chamber, banks and mobile money operators took part. *Also under [Access to services](#access-to-services) and [Literacy](#literacy).*
@@ -257,6 +261,10 @@ Nroho, founded in 2024, matches Algerian drivers and passengers travelling the s
 **[L'Egyptien Nour El-Assal numérise le recyclage d'huile pour créer des biocarburants](https://www.wearetech.africa/fr/fils/tech-stars/l-egyptien-nour-el-assal-numerise-le-recyclage-d-huile-pour-creer-des-biocarburants)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
 
 Tagaddod, founded in Cairo in 2013, collects used cooking oil and other fats as feedstock for biofuels, and has since 2017 built software and mobile applications for consumers and collectors that map flows, plan collection rounds and trace each step of the supply chain. Chief executive and co-founder Nour El-Assal was selected for the Africa's Business Heroes semi-final in Nairobi on 21 and 22 August.
+
+**[He started Bitoshi as a student with an $11.12 allowance. Now it has 60,000 users](https://techcabal.com/2026/08/22/he-started-bitoshi-as-a-student-with-an-11-12-allowance-now-it-has-60000-users/)** — TechCabal, 22 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[La fintech de SalyPay franchit 1,1 million de dollars de transactions via WhatsApp](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-fintech-de-salypay-franchit-1-1-million-de-dollars-de-transactions-via-whatsapp)** — wearetech.africa, 21 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
