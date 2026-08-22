@@ -407,7 +407,22 @@ def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bo
         if others:
             joined = ", ".join(link_to(o) for o in others[:-1])
             also = f"{joined} and {link_to(others[-1])}" if joined else link_to(others[-1])
-            body += f" *Also under {also}.*"
+            # **The trailer is a signpost too, and the filter has to be able to take it away**
+            # *(2026-08-22)*. The cross-reference above is hidden under a country selection
+            # because it points at an item rather than being one; this sentence points at the
+            # same places and had been left visible, which cost twice. Its links jump to
+            # Level-2 headings the filter has just hidden — 16 of them dead under Kenya, 4
+            # under Nigeria — and that is the lesser half. Filtered to Kenya a summary read
+            # *Also under Digital Identity and CRVS* while the filter was in the act of
+            # removing that item from Digital Identity and CRVS, so the sentence was untrue
+            # and not merely unclickable.
+            #
+            # A `<span>` rather than a class on the paragraph, because the trailer is the tail
+            # of the summary and the summary stays. No CSS: a span carries no author
+            # `display`, so `el.hidden` is honoured by the UA stylesheet alone — which is the
+            # rule `.bulletin-item[hidden]` exists to restore for the two elements that do.
+            body += (f' <span class="bulletin-item__also">'
+                     f'*Also under {also}.*</span>')
         out += [body, ""]
     else:
         out += [f"Summarised under {link_to(anchor_label)}.", ""]

@@ -114,6 +114,10 @@ This is worth keeping in view because it is a class of fault rather than an inci
 
 **4. HTML only, no PDF.** Reversed 2026-08-21, above.
 
+**And the trailer goes with them** *(2026-08-22)*. A summary carrying several topics ends *Also under X and Y*, and that sentence had been left visible under a selection while the cross-references it names were being hidden. It cost twice. Its links jumped to Level-2 headings the filter had just removed — sixteen of them dead under Kenya, four under Nigeria — which is the same fault the category bar's repunctuation exists to prevent, one element in. And the sentence itself had stopped being true: filtered to Kenya a summary read *Also under Digital Identity and CRVS* at the moment the filter was taking that item out of Digital Identity and CRVS. So the trailer is a `.bulletin-item__also` span and the filter hides it with the item shown, not with the item hidden, because it is the tail of a summary that stays.
+
+**The class of fault is worth naming, because it is the second of its kind here.** The anchor rule and the section order agreed for a reason neither stated, and reordering broke it silently. Here the xref rule and the trailer said the same thing in two forms, one was marked for the filter and the other was prose, and marking the first left the second asserting what the first had stopped asserting. Both were found by reading the built page rather than by anything mechanical, and there is no check that would have caught either.
+
 ## What it is not
 
 **It is not an archive and does not accumulate.** The document is rewritten in place and holds only the current window; git history holds every prior version, and now so does the dated PDF. The summaries store is pruned 30 days after an item's publication date — 28 days after the last window that could have cited it.

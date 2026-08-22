@@ -107,7 +107,19 @@
         s.items.forEach(function (item) {
           var on = matches(item, code);
           show(item, on);
-          if (on) { sectionLive = true; shown++; }
+          if (on) {
+            sectionLive = true;
+            shown++;
+            /* The `Also under …` tail of a summary goes with the cross-references it names.
+             * It is the same signpost in sentence form, and under a selection it was making
+             * two claims that had stopped being true: its links jumped to Level-2 headings
+             * this filter had just hidden, and the sentence said the item appears in sections
+             * it had at that moment been filtered out of. Hidden with the item shown rather
+             * than the item hidden, because it is a tail of the summary and the summary
+             * stays. */
+            var also = item.querySelector('.bulletin-item__also');
+            if (also) { also.hidden = !!code; }
+          }
         });
         show(s.heading, sectionLive);
         if (sectionLive) { groupLive = true; }
