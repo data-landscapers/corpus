@@ -10,13 +10,20 @@ Trigger: **"run the bulletin top-up"**, typed by hand, after OSINT has run `SWEE
 
 `scripts/osint-cycle-ready.py` watches `max(End)` over the rotation table in `logs/sweep-cycle_log.md`. **`SWEEP-BULLETIN.md` advances no high-water mark and never touches that table** — deliberately, so a run at 11:00 cannot shorten tonight's cycle window. So the detector stays at exit 1 through a top-up, which is right twice over: a full `CYCLE.md` is three hours of report authoring over a handful of new records, and firing it at midday would put a build over `raw/` while the day's work is going on.
 
-The signal to read instead is **`sweep/bulletin/manifest-YYYY-MM-DD.md` on the mirror**. Same proof as the cycle's: the manifest is committed before the mirror runs and the mirror is that run's last act, so a manifest visible here cannot have arrived except by an FFS run that started after it was written.
+The signal to read instead is **OSINT's ingest clock, against the stamp the bulletin already carries**.
 
 ```bash
-ls "${CORPUS_OSINT_MIRROR:-/c/OSINT}/sweep/bulletin/manifest-$(date +%F).md"
+python -c "import sys; sys.path.insert(0,'scripts'); import osint_lib; print(osint_lib.last_ingest())"
+grep '^compiled:' outputs/bulletins/corpus-bulletin.md
 ```
 
-Absent means the top-up has not landed and there is nothing to build. Do not run the stage against last night's evidence and stamp it midday — that publishes a fresh clock over stale material, which is the one thing the stamp is supposed to make impossible.
+Newer means there is new material and the run is worth making. Equal means the bulletin is already built off the current ingest and there is nothing to do — which is also the correct answer on a nil morning, where the sweep ran, admitted nothing, and OSINT's clock did not move because its material did not.
+
+**This was `sweep/bulletin/manifest-YYYY-MM-DD.md` until 2026-08-22, and that was wrong the moment OSINT began mirroring after every commit** *(Bill, the same afternoon)*. The original reasoning borrowed the cycle trigger's proof — the artefact is committed before the mirror runs and the mirror is the run's last act, so seeing it here proves the copy carried it. The second half of that stopped being true. Under an after-every-commit mirror the tree is copied at each of `SWEEP-BULLETIN.md`'s two commits, and **the manifest is in the first of them**: `25625b75` at 10:13 carried `new/` and the manifest, and `raw/` did not arrive until `9a1189ee` at 10:17. A check on the manifest would therefore have fired in a four-minute window on a tree where the item was staged and not yet admitted — `--catalogue` would have found nothing, `--scan` nothing to write, and `--assemble` would have stamped the clock and published *we looked and nothing was published today* on the morning something was. A silent wrong answer, which is the exact failure the gate exists to prevent.
+
+**So the gate reads an artefact of the step it is actually waiting for.** `logs/ingested_log.md` is written at the moment of admission, in the ingest commit, and it is already the file `osint_lib` reads for the bulletin's own byline — so the fact that lets the run start is the same fact the page will go on to state, and the two cannot disagree. The general rule is worth keeping past this instance: **a readiness check must key on an artefact of the step it is waiting for, not on one that merely tends to arrive with it.** The manifest was only ever a proxy for *the ingest has run*, and a proxy holds until the thing it stands in for moves.
+
+Do not run the stage against last night's evidence and stamp it midday — that publishes a fresh clock over stale material, which is the one thing the stamp is supposed to make impossible.
 
 ## The run
 
