@@ -1,14 +1,14 @@
 ---
 type: doc
 title: Known defects in prep/africa-dpi-data.csv
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-22
 ---
 
 # Known defects in `prep/africa-dpi-data.csv`
 
 *(**Moved here from the OSINT notes queue on 2026-08-20**, where it had been sitting as note 11 and part of note 15 since 2026-08-15. It was never OSINT's: `prep/africa-dpi-data.csv` is a **Corpus** file holding a third-party dataset, OSINT keeps no copy, and there was nothing there to repair. Recording it here is what the misfiling should have been from the start — `STATUS-INIT` reads this file on every country, so the defects want stating where the next run will meet them.)*
 
-**This is not a defect list to fix.** The data is a third party's and Corpus does not correct it; a correction would be an unsourced claim wearing a dataset's authority. What this file does is tell a `STATUS-INIT` run what it is looking at, so a run neither trusts a bad cell nor spends a second country rediscovering the same fault. Confirmed across **eight countries** — NGA, SEN, TZA, CIV, MAR, EGY, SWZ and one more — which is what makes them structural rather than incidental.
+**This is not a defect list to fix, with one exception that proves the rule.** The data is a third party's and Corpus does not correct it; a correction would be an unsourced claim wearing a dataset's authority. The exception is the **mojibake** below, which is not a claim at all but the third party's own bytes decoded wrongly, and is therefore repaired rather than described. What this file does is tell a `STATUS-INIT` run what it is looking at, so a run neither trusts a bad cell nor spends a second country rediscovering the same fault. Confirmed across **eight countries** — NGA, SEN, TZA, CIV, MAR, EGY, SWZ and one more — which is what makes them structural rather than incidental.
 
 ## The `govtech-*` family — 149 rows a country, one URL
 
@@ -64,6 +64,27 @@ forms — and then replaced its site with a construction page; the Internet Arch
 capture holds the tree. So the right conclusion from a dead regulator URL is that the document is
 unfetched, never that it was not published, and any status line concluding that a source publishes
 nothing should be read against that.
+
+## The mojibake — 92 sequences, repaired, and the one defect here that *was* Corpus's to fix
+
+*(Raised as OSINT's `notes-for-corpus.md` note 7, 2026-08-22, extending its note 4; repaired the same day.)*
+
+**64 rows across 25 countries carried UTF-8 that had been read once as cp1252, every one of them in `Comments`** — `RÃ©fÃ©rentiel GÃ©nÃ©ral`, `Centre Interbancaire de MonÃ©tique`, `sensitive dataâ€”such as child protection`, `Portail National des services publics du BÃ©nin`. 92 mangled sequences in all, 18 distinct, over AGO BEN BFA CAF CIV CMR COG COM CPV GMB GNQ LSO MAR MLI MOZ MRT SEN SLE SOM TCD TGO TUN UGA ZMB ZWE. OSINT's archived copy of the same dataset carried the same fault at 85 rows and 29 countries, so **the mangle is upstream of both copies** and nothing here says which was damaged first or by what.
+
+**This one is repaired, and the rule at the top of this file is not bent by that.** A `govtech-*` boilerplate cell or a sourceless negative is the third party's *claim*, and correcting a claim would be an unsourced assertion wearing a dataset's authority. Mojibake is not a claim — it is the third party's own bytes, decoded wrongly, and the inverse is exact: encode the run back to the bytes it came from and read them as the UTF-8 they always were. Repairing it restores what the source published rather than substituting Corpus's judgment for it, which is why it is the one defect on this page that is fixed rather than described.
+
+**Why it was worth doing rather than noting.** `Comments` is the column `STATUS-INIT` reads and quotes, so a mangled cell reaches a status baseline as a mangled quote — and, before that, **silently fails every grep for the word it mangled**. A row about `África Austral` goes missing from a search for `África Austral` and nothing reports a miss. A defect that hides itself from the check looking for it does not stay on a list.
+
+**Nothing published carried it.** `site/`, `outputs/` and `documentation/` were scanned and are clean — 2,399 files — so no edition states a mangled quote and no re-render is owed. `prep/scope/` did carry it, 166 sequences over 44 per-country cuts, because those are row filters of this file; they were repaired with the same transformation a regeneration would have applied.
+
+**A check now runs, because it will arrive again.** `scripts/lint-mojibake.py` scans `prep/**/*.csv` and `lookups/*.csv`, reports `outputs/` under `--derived`, and repairs under `--fix`:
+
+```bash
+python scripts/lint-mojibake.py                # 0 clean · 1 found · 2 unreadable
+python scripts/lint-mojibake.py --fix          # repair the inputs in place
+```
+
+Two things in it are worth knowing before trusting it. **A run of one character is never touched** — a lone `é` is a letter, and the signature is two or more adjacent high characters that decode as valid UTF-8 *together*; that test is what let it repair 92 sequences in this file while leaving 3,420 correct accented characters and 36 legitimate Portuguese `çã`/`çõ` pairs alone. And **cp1252's five undefined bytes** (`0x81 0x8D 0x8F 0x90 0x9D`) are read back through a latin-1 fallback, without which a strict encoder skips any run containing one and five accented characters survive the repair looking clean — the hole that had been sitting in OSINT's own guard until 2026-08-20. A `.pre-mojibake` copy is written beside any input it rewrites, because `prep/` is gitignored and there is no history to fall back on.
 
 ## What this costs, and why the dataset is still used
 
