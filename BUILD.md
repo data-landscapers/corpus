@@ -199,6 +199,8 @@ Commit the topic tree. 38 slugs × 2 documents takes the render set from 165 to 
 
 One document over a two-day window: `outputs/bulletins/corpus-bulletin.md`, published at `/bulletin/`. The design note is `documentation/bulletin.md`.
 
+**This stage also runs on its own, at midday** *(2026-08-22)*. OSINT's `SWEEP-BULLETIN.md` tops the base up with today's publications late morning, which is material this stage's window reaches and no other stage cares about. `BULLETIN-TOPUP.md` is that run — this stage, one render, no sentinel — and it says why the cycle trigger deliberately does not fire on it.
+
 **The country bulletin was retired on 2026-08-21** *(Bill, `prep/bulletin.md`)*. It covered the same items as the topic bulletin and differed only in how it grouped them, so a reader who opened both read every summary twice. The place dimension is now on the item — a country box beside each headline, linking to that country's page — which is what the grouping was for, at one click rather than a second document.
 
 ```bash
