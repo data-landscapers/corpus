@@ -144,3 +144,34 @@
   select.addEventListener('change', function () { apply(this.value); });
   control.hidden = false;
 })();
+
+/* The mini-archive picker in the colophon — the last week of bulletin PDFs
+ * (documentation/bulletin-archive.md). Separate closure because it is a separate feature and
+ * shares nothing with the filter above; one file because it is one page's behaviour and a
+ * second request costs more than the twenty lines save.
+ *
+ * `render.py` writes the options from `editions.json`, so there is nothing to fetch and the
+ * picker is correct in a local preview as well as on the site. All this adds is the navigation
+ * a <select> cannot do by itself — which is also why it renders `hidden` and is unhidden here:
+ * without the script the reader keeps the current PDF, named two rows above, and is not offered
+ * a control that does nothing.
+ *
+ * Every value is a dated filename resolved against the page's own directory, so §9's *no
+ * undated download URL exists at all* is untouched and nothing here can navigate off-site. */
+(function () {
+  'use strict';
+
+  var picker = document.getElementById('bulletin-editions');
+  if (!picker) { return; }
+
+  picker.addEventListener('change', function () {
+    var file = this.value;
+    /* Belt and braces on a value that should only ever be a filename this build wrote: a
+     * slash, a scheme or a parent segment is not one, and refusing is cheaper than reasoning
+     * about what a page could be made to link to. */
+    if (!file || /[/\\:]/.test(file) || file.indexOf('..') !== -1) { return; }
+    window.location.href = file;
+  });
+
+  picker.hidden = false;
+})();

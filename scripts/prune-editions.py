@@ -97,6 +97,13 @@ _spec = importlib.util.spec_from_file_location(
 ed = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(ed)
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import bulletin_editions as ba  # noqa: E402
+
+# The bulletin's directory, the one document kind this rule treats differently. Matched on the
+# path rather than on the filename so that a scratch tree passed to `--site` behaves the same.
+BULLETIN_DIR = "bulletin"
+
 
 # --------------------------------------------------------------------------- the record
 
@@ -186,8 +193,33 @@ def editions_on_disk(site: Path) -> dict:
     return groups
 
 
-def plan(site: Path, fetched: set[str], today: str, forward_from: str, lag_days: int) -> list[dict]:
-    """What is deletable, and why. Pure: it reads the tree and the record and removes nothing."""
+def is_bulletin(path: Path, site: Path) -> bool:
+    return path.parent.name == BULLETIN_DIR and path.suffix.lower() == ".pdf"
+
+
+def plan(site: Path, fetched: set[str], today: str, forward_from: str, lag_days: int,
+         retention_days: int = ba.RETENTION_DAYS, record_ok: bool = True) -> list[dict]:
+    """What is deletable, and why. Pure: it reads the tree and the record and removes nothing.
+
+    **The bulletin leaves this rule and takes a stated retention window instead. It is not
+    subject to both** (`documentation/bulletin-archive.md`). Condition 5 keeps for ever anything
+    anybody ever fetched; if bulletins merely *gained* a window on top of that, the one-week
+    promise printed in their own colophon would hold for every bulletin except the ones a reader
+    actually took — the files someone cared about would be the files that outlived the policy,
+    and the page would be false in precisely the cases that matter. So the window replaces the
+    download test here; it does not join it.
+
+    That is defensible for the bulletin and for nothing else. It is the one document that is
+    explicitly not an archive (`documentation/bulletin.md` → *What it is not*) and whose content
+    is fully kept elsewhere — the country pages hold a month, the monthly reports hold the month,
+    the catalogue holds every record, git holds every version. A report's superseded edition is
+    the only copy of what that report used to say; a bulletin's is not.
+
+    Of the five conditions the bulletin keeps only the first. It is never the current edition
+    that goes — the live page must always be able to offer its own PDF, even after a quiet month
+    — and the window is measured on the **edition date**, not on supersession, because a bulletin
+    is superseded within hours by its own next cut. A lag from supersession would give each
+    edition a week, but a different week each, and never the week the colophon named."""
     cutoff = dt.date.fromisoformat(today) - dt.timedelta(days=lag_days)
     out = []
     for found in editions_on_disk(site).values():
@@ -199,13 +231,29 @@ def plan(site: Path, fetched: set[str], today: str, forward_from: str, lag_days:
                 row.update(verdict="keep", why="current edition")
                 out.append(row)
                 continue
+            if is_bulletin(path, site):
+                if ba.within_window(_name(key), today, retention_days):
+                    row.update(verdict="keep",
+                               why=f"inside the {retention_days}-day bulletin window")
+                else:
+                    row.update(verdict="delete",
+                               why=f"past the {retention_days}-day bulletin window")
+                out.append(row)
+                continue
             # The successor is the next edition *still on disk*. Where an intervening one was
             # deleted by an earlier run this reads later than the true supersede date, which
             # only ever holds a file back — the safe direction.
             nxt = found[i + 1][0]
             row["superseded_by"] = _name(nxt)
             row["superseded_on"] = nxt[0]
-            if key[0] < forward_from:
+            if not record_ok:
+                # Everything except the bulletin, handled above, needs the download record and
+                # keeps without it. The refusal is per-row rather than per-run so that a machine
+                # with no Cloudflare token still honours the retention the bulletin's own
+                # colophon prints, which is a promise made to a reader and not a housekeeping
+                # preference.
+                row.update(verdict="keep", why="download record not available")
+            elif key[0] < forward_from:
                 row.update(verdict="keep", why="published before the rule")
             elif dt.date.fromisoformat(nxt[0]) > cutoff:
                 row.update(verdict="keep", why=f"superseded within the {lag_days}-day lag")
@@ -258,6 +306,9 @@ def main(argv=None) -> int:
                    help="require a key naming an edition this recent, as proof the record is still written; 0 disables")
     p.add_argument("--min-keys", type=int, default=1,
                    help="refuse to act on a listing shorter than this (default 1)")
+    p.add_argument("--retention-days", type=int, default=ba.RETENTION_DAYS,
+                   help=f"how long a bulletin edition is kept, from its edition date "
+                        f"(default {ba.RETENTION_DAYS}); the number its colophon prints")
     p.add_argument("--keys-from", metavar="FILE",
                    help="read the key list from a file instead of the API (testing)")
     p.add_argument("--today", default=dt.date.today().isoformat(), help="override the run date (testing)")
@@ -272,29 +323,39 @@ def main(argv=None) -> int:
         print(f"PRUNE: no site tree at {site} — nothing to do")
         return 0
 
+    # **A bad record no longer stops the whole run — it stops everything the record governs.**
+    # The bulletin is pruned on a stated window rather than on downloads, so a missing token or
+    # a dead Worker must not silently suspend a retention promise printed on the page. Every
+    # other document keeps, exactly as before, and the reason is printed either way.
+    keys: list[str] = []
+    record_ok, declined = True, ""
     try:
         if args.keys_from:
             keys = [ln.strip() for ln in Path(args.keys_from).read_text(encoding="utf-8").splitlines() if ln.strip()]
         else:
             keys = kv_keys(credentials())
     except Exception as e:                       # noqa: BLE001 — every fault has the same answer
-        print(f"PRUNE: declined, deleted nothing — the download record could not be read ({e})")
-        return 0
+        record_ok, declined = False, f"the download record could not be read ({e})"
 
-    if len(keys) < args.min_keys:
-        print(f"PRUNE: declined, deleted nothing — the download record holds {len(keys)} keys, "
-              f"below the floor of {args.min_keys}. An empty record and a broken Worker look the same.")
-        return 0
+    if record_ok and len(keys) < args.min_keys:
+        record_ok, declined = False, (
+            f"the download record holds {len(keys)} keys, below the floor of {args.min_keys}. "
+            f"An empty record and a broken Worker look the same.")
 
-    if args.liveness_days > 0:
+    if record_ok and args.liveness_days > 0:
         newest = newest_edition_seen(keys)
         floor = (dt.date.fromisoformat(args.today) - dt.timedelta(days=args.liveness_days)).isoformat()
         if newest is None or newest < floor:
-            print(f"PRUNE: declined, deleted nothing — the newest edition in the record is "
-                  f"{newest or 'none'}, older than {floor}. A quiet site and a dead Worker look the same.")
-            return 0
+            record_ok, declined = False, (
+                f"the newest edition in the record is {newest or 'none'}, older than {floor}. "
+                f"A quiet site and a dead Worker look the same.")
 
-    rows = plan(site, fetched_set(keys), args.today, args.forward_from, args.lag_days)
+    if not record_ok:
+        print(f"PRUNE: download-governed retention declined — {declined}")
+        print("       The bulletin's own window is unaffected and is applied below.")
+
+    rows = plan(site, fetched_set(keys), args.today, args.forward_from, args.lag_days,
+                args.retention_days, record_ok=record_ok)
     doomed = [r for r in rows if r["verdict"] == "delete"]
     for r in doomed:
         r["bytes"] = r["path"].stat().st_size
@@ -303,8 +364,7 @@ def main(argv=None) -> int:
     print(f"PRUNE: {len(rows)} editions on disk, {len(keys)} paths in the download record, "
           f"{len(rows) - len(doomed)} kept, {len(doomed)} deletable ({freed / 1e6:.1f} MB)")
     for r in doomed:
-        print(f"  {'delete' if args.apply else 'would delete'}  {r['rel']}  "
-              f"(superseded {r['superseded_on']} by {r['superseded_by']}, never fetched)")
+        print(f"  {'delete' if args.apply else 'would delete'}  {r['rel']}  ({r['why']})")
     if not args.apply:
         if doomed:
             print("Nothing was deleted: run again with --apply.")
@@ -326,6 +386,23 @@ def main(argv=None) -> int:
             return 1
         print(f"PRUNE: deleted {len(gone)} editions, {sum(r['bytes'] for r in gone) / 1e6:.1f} MB, "
               f"recorded in {_under_root(ledger)}")
+
+    # **The party doing the deleting owns the listing** (`documentation/bulletin-archive.md`).
+    # Leaving it to the next render opens a window — between `RENDER.md` Step 6a and whenever
+    # the bulletin next renders — in which the picker offers a file that is gone. Prune is
+    # already writing a ledger, so this is one more write inside an operation it is doing
+    # anyway. Rebuilt rather than edited: the rebuild drops whatever is no longer on disk,
+    # which is the same self-healing pass the renderer runs and needs no list of what went.
+    if any(is_bulletin(r["path"], site) for r in gone):
+        bulletin_dir = site / BULLETIN_DIR
+        try:
+            entries = ba.refreshed(bulletin_dir, args.today, retention_days=args.retention_days)
+            ba.save(bulletin_dir, entries, args.retention_days)
+            print(f"PRUNE: bulletin archive rewritten — {len(entries)} edition(s) listed")
+        except OSError as e:
+            print(f"PRUNE FAIL: deleted the files but could not rewrite "
+                  f"{_under_root(ba.manifest_path(bulletin_dir))} — {e}")
+            return 1
     return 1 if len(gone) != len(doomed) else 0
 
 

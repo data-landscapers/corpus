@@ -1,6 +1,8 @@
 # The bulletin mini-archive — save and prune logic
 
-*(Specified 2026-08-22 for Cowork to implement, from Bill's brief: a facility to download the last week's bulletin PDFs, a dropdown showing date, time and number of entries, and a statement in the site documentation that bulletins are kept for a week and older material is in the monthly reports. What follows is the design and the reasoning; the live procedure will be `RENDER.md` → The bulletin once it ships.)*
+*(Specified 2026-08-22 for Cowork to implement, from Bill's brief: a facility to download the last week's bulletin PDFs, a dropdown showing date, time and number of entries, and a statement in the site documentation that bulletins are kept for a week and older material is in the monthly reports. What follows is the design and the reasoning; the live procedure is `RENDER.md` → The bulletin.)*
+
+**Shipped 2026-08-22.** `scripts/bulletin_editions.py` holds the manifest rules, because it has two writers and a rule with two writers belongs in neither of them. `render.py` writes on cut, `prune-editions.py` rewrites on delete, and `scripts/test_prune_editions.py` carries five new cases over the branch below — including the one that matters, that a **fetched** bulletin past its window still goes. Four departures from this spec, all small, all recorded at the end.
 
 ## Where it is stored — nowhere new, and that is the point
 
@@ -100,6 +102,16 @@ The time is the `compiled` stamp, which is **OSINT's last ingest and not our bui
 **§1 ruled out a version picker** — *"Retain silently, expose only current plus a quiet earlier editions affordance — no version picker to maintain."* This is a version picker, for one document.
 
 It is the right exception, and the reason is the bulletin's alone: **for every other document an earlier edition is a worse version of the same claims, and for the bulletin it is a different day's news.** Nobody needs `KEN-status-2026-08-06.pdf` once the 21st's exists, except to check a citation. The bulletin of the 20th is the only place the 20th's bulletin is, and no later edition supersedes it in the sense §1 assumed. A picker over the reports would be maintenance with no reader behind it; a picker over a week of bulletins is the affordance §1 asked for, in the one place a flat *earlier editions* link would not do the job.
+
+## Four departures from this spec, and why
+
+**1. The listing adopts a PDF on disk that nothing recorded.** The spec says a full listing cannot be rebuilt by walking the directory, and that is right — `compiled` and `items` are in no artefact once the run that cut the file has ended. But the *edition* is in the filename, and the first run after this shipped met eight published bulletin PDFs and an empty manifest, so the picker would have listed one edition and suppressed itself for a week. A file present but unlisted is the same drift as an entry with no file, and the listing should heal both ways. An adopted entry carries the edition and nothing else; `label()` prints the date alone rather than *0 entries*, because a count nobody recorded is not a fact to invent.
+
+**2. The picker is not written into the PDF.** It needs a script to do anything, the PDF runs none, so it would render `hidden` there for ever — leaving a `Retention` row (which belongs in the PDF, and is the point) followed by an `Earlier editions` label with nothing beside it. That is the same fault as the download button that named a file nobody cut, ruled on 2026-08-17. The `Retention` row travels; the control does not.
+
+**3. A picker with one option is not written at all.** Below two editions it would offer only the file `This file` names two rows above.
+
+**4. `prune-editions.py` no longer declines the whole run on a bad download record.** It could not: the spec requires condition 4 *not consulted* for the bulletin, so that retention keeps working on a machine with no Cloudflare token, and the old control flow returned before reaching any decision. The refusal is now per row — everything the record governs keeps, and the run says so; the bulletin window is applied regardless. That is a change to the shared script's shape rather than to its rule, and it fails in the same direction it always did: a missing record protects every file whose protection depends on it.
 
 ## The documentation sentence
 

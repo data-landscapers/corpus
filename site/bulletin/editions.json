@@ -1,0 +1,61 @@
+{
+  "retention_days": 7,
+  "editions": [
+    {
+      "edition": "2026-08-22-7",
+      "file": "corpus-bulletin-2026-08-22-7.pdf",
+      "compiled": "2026-08-22 09:35",
+      "items": 25,
+      "bytes": 313199
+    },
+    {
+      "edition": "2026-08-22-6",
+      "file": "corpus-bulletin-2026-08-22-6.pdf",
+      "compiled": "",
+      "items": 0,
+      "bytes": 302141
+    },
+    {
+      "edition": "2026-08-22-5",
+      "file": "corpus-bulletin-2026-08-22-5.pdf",
+      "compiled": "",
+      "items": 0,
+      "bytes": 312938
+    },
+    {
+      "edition": "2026-08-22-4",
+      "file": "corpus-bulletin-2026-08-22-4.pdf",
+      "compiled": "",
+      "items": 0,
+      "bytes": 312904
+    },
+    {
+      "edition": "2026-08-22-3",
+      "file": "corpus-bulletin-2026-08-22-3.pdf",
+      "compiled": "",
+      "items": 0,
+      "bytes": 312958
+    },
+    {
+      "edition": "2026-08-22-2",
+      "file": "corpus-bulletin-2026-08-22-2.pdf",
+      "compiled": "",
+      "items": 0,
+      "bytes": 302103
+    },
+    {
+      "edition": "2026-08-22",
+      "file": "corpus-bulletin-2026-08-22.pdf",
+      "compiled": "",
+      "items": 0,
+      "bytes": 299408
+    },
+    {
+      "edition": "2026-08-21",
+      "file": "corpus-bulletin-2026-08-21.pdf",
+      "compiled": "",
+      "items": 0,
+      "bytes": 351610
+    }
+  ]
+}

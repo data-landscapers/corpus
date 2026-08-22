@@ -120,7 +120,7 @@ This is worth keeping in view because it is a class of fault rather than an inci
 
 ## What it is not
 
-**It is not an archive and does not accumulate.** The document is rewritten in place and holds only the current window; git history holds every prior version, and now so does the dated PDF. The summaries store is pruned 30 days after an item's publication date — 28 days after the last window that could have cited it.
+**It is not an archive and does not accumulate** — with one bounded exception, `documentation/bulletin-archive.md`, which keeps the last week of dated PDFs and lists them in the colophon. A week is not an archive; it is the affordance for a reader who missed Tuesday. The document itself is still rewritten in place and holds only the current window; git history holds every prior version. The summaries store is pruned 30 days after an item's publication date — 28 days after the last window that could have cited it.
 
 **It is not a record layer.** Nothing here is a position that can move, nothing is checked against a ledger, and nothing downstream derives from it.
 

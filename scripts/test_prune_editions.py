@@ -133,7 +133,7 @@ def case_an_unreadable_record_deletes_nothing(tmp):
                           "--keys-from", str(tmp / "nothing-here.txt")])
     assert code == 0, "a record that cannot be read is a normal outcome, not a fault"
     assert "declined" in out and (tmp / "reports/KEN/KEN-status-2026-08-20.pdf").exists(), \
-        "no record means no deletion — the whole run, not file by file"
+        "no record means no deletion of anything the record governs — which is everything but the bulletin"
 
 
 def case_an_empty_record_deletes_nothing(tmp):
@@ -166,6 +166,71 @@ def case_without_apply_it_deletes_nothing(tmp):
     assert code == 0 and "would delete" in out, out
     assert (tmp / "reports/KEN/KEN-status-2026-08-20.pdf").exists(), \
         "the default run is a report; deleting takes --apply"
+
+
+# --------------------------------------------------------------------------- the bulletin branch
+#
+# The bulletin leaves the download rule and takes a stated retention window instead
+# (`documentation/bulletin-archive.md`). These cases exist because that is the one place in this
+# script where the safe direction is *delete*: the colophon of every bulletin PDF prints the date
+# it is kept until, so a window that quietly stops being applied makes a published promise false.
+
+def case_a_bulletin_inside_its_window_is_kept(tmp):
+    put(tmp, "bulletin/corpus-bulletin-2026-09-26.pdf")
+    put(tmp, "bulletin/corpus-bulletin-2026-09-30.pdf")
+    v = verdicts(tmp)
+    assert v["bulletin/corpus-bulletin-2026-09-26.pdf"][0] == "keep", \
+        "four days old, superseded, never fetched — the window is the only test that applies"
+
+
+def case_a_fetched_bulletin_past_its_window_still_goes(tmp):
+    """The sharp edge, and the whole reason this is a branch rather than a sixth condition."""
+    doomed = put(tmp, "bulletin/corpus-bulletin-2026-09-01.pdf")
+    put(tmp, "bulletin/corpus-bulletin-2026-09-30.pdf")
+    v = verdicts(tmp, keys=["bulletin/corpus-bulletin-2026-09-01.pdf"])
+    assert v[doomed.relative_to(tmp).as_posix()][0] == "delete", \
+        ("a download must not outrank the retention the page printed — otherwise the promise "
+         "holds for every bulletin except the ones a reader actually took")
+
+
+def case_the_current_bulletin_is_never_deleted(tmp):
+    put(tmp, "bulletin/corpus-bulletin-2026-01-05.pdf")
+    v = verdicts(tmp)
+    assert v["bulletin/corpus-bulletin-2026-01-05.pdf"] == ("keep", "current edition"), \
+        "after a quiet month the live page must still be able to offer its own PDF"
+
+
+def case_bulletins_prune_without_a_download_record(tmp):
+    """No Cloudflare token: everything else correctly declines, the bulletin window does not."""
+    doomed = put(tmp, "bulletin/corpus-bulletin-2026-09-01.pdf")
+    put(tmp, "bulletin/corpus-bulletin-2026-09-30.pdf")
+    report = put(tmp, "reports/KEN/KEN-status-2026-08-20.pdf")
+    put(tmp, "reports/KEN/KEN-status-2026-09-25.pdf")
+    ledger = tmp / "ledger.csv"
+    code, out = run_main(["--apply", "--site", str(tmp), "--today", TODAY, "--ledger", str(ledger),
+                          "--keys-from", str(tmp / "no-such-file.txt")])
+    assert code == 0, out
+    assert not doomed.exists(), "the bulletin window does not depend on the download record"
+    assert report.exists(), "everything the record governs still keeps when it cannot be read"
+    assert "declined" in out, out
+
+
+def case_deleting_a_bulletin_rewrites_the_listing(tmp):
+    """The party doing the deleting owns the listing, or the picker offers a file that is gone."""
+    import json
+    doomed = put(tmp, "bulletin/corpus-bulletin-2026-09-01.pdf")
+    current = put(tmp, "bulletin/corpus-bulletin-2026-09-30.pdf")
+    (tmp / "bulletin" / "editions.json").write_text(json.dumps({"retention_days": 7, "editions": [
+        {"edition": "2026-09-30", "file": current.name, "compiled": "2026-09-30 06:00", "items": 9},
+        {"edition": "2026-09-01", "file": doomed.name, "compiled": "2026-09-01 06:00", "items": 4},
+    ]}), encoding="utf-8")
+    code, out = run_main(["--apply", "--site", str(tmp), "--today", TODAY,
+                          "--ledger", str(tmp / "ledger.csv"),
+                          "--keys-from", str(tmp / "none.txt")])
+    assert code == 0 and not doomed.exists(), out
+    listed = json.loads((tmp / "bulletin" / "editions.json").read_text(encoding="utf-8"))
+    names = [e["file"] for e in listed["editions"]]
+    assert names == [current.name], f"the deleted edition must leave the listing too: {names}"
 
 
 # --------------------------------------------------------------------------- the one deletion
@@ -203,6 +268,11 @@ CASES = [
     ("an empty record deletes nothing", case_an_empty_record_deletes_nothing),
     ("a stale record deletes nothing", case_a_stale_record_deletes_nothing),
     ("without --apply it deletes nothing", case_without_apply_it_deletes_nothing),
+    ("a bulletin inside its window is kept", case_a_bulletin_inside_its_window_is_kept),
+    ("a fetched bulletin past its window still goes", case_a_fetched_bulletin_past_its_window_still_goes),
+    ("the current bulletin is never deleted", case_the_current_bulletin_is_never_deleted),
+    ("bulletins prune without a download record", case_bulletins_prune_without_a_download_record),
+    ("deleting a bulletin rewrites the listing", case_deleting_a_bulletin_rewrites_the_listing),
     ("--apply deletes the unfetched edition and records it", case_apply_deletes_and_accounts_for_it),
 ]
 

@@ -132,6 +132,27 @@
    prevent. */
 .bulletin-item[hidden], .bulletin-filter[hidden] { display: none; }
 
+/* The mini-archive picker, in the colophon beside `This file`. Sized to the
+   colophon's own small type rather than to the country filter's: this is
+   reference matter about the document, not a control over its contents.
+
+   It carries no `display` of its own precisely so that its `hidden` start
+   state works — see the note above. The rule is stated anyway, because the
+   next person to give this a `display` will not read that note. */
+.edition-picker[hidden] { display: none; }
+
+.edition-picker {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  max-width: 100%;
+  padding: 2px 6px;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: #fff;
+  color: var(--ink);
+  cursor: pointer;
+}
+
 /* Terracotta small caps (Bill, 2026-08-21). The accent is the site's own
    #c84b2f, and these are the page's own contents rather than site chrome, so
    they read as the accent everywhere rather than only on hover — which leaves

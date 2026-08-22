@@ -37,6 +37,7 @@ from copy_lib import copy  # noqa: E402
 # `topic-page.py` and `finance.py` all read or write editions too (§9).
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402
+import bulletin_editions  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 BUILD = CORPUS / "build"
@@ -449,8 +450,46 @@ REPORT_NOTES = copy("document", "report-notes")
 BULLETIN_NOTES = copy("document", "bulletin-notes")
 
 
+def archive_picker(entries: list[dict], current: str) -> str:
+    """The mini-archive dropdown, for the colophon.
+
+    **In the colophon beside `This file`, not in the header beside `↓ PDF`**
+    (`documentation/bulletin-archive.md`). §1's ruling is *expose only current plus a quiet
+    earlier-editions affordance*, and while the archive reverses the *no version picker* half of
+    that for this one document, *quiet* is still the register. The header row is already
+    `flex-wrap: nowrap` with the byline shrinking inside its own box; a third control there is a
+    layout problem as well as an emphasis one. `This file` already names the dated PDF, which
+    makes *and here are the earlier ones* the sentence that belongs next to it.
+
+    **Every option is a dated URL**, so §9's *no undated download URL exists at all* is
+    untouched. The control renders `hidden` and `bulletin-filter.js` removes the attribute, the
+    same progressive enhancement the country filter uses: with no script the reader has the
+    current PDF and no dead control, which is the right failure.
+    """
+    if len(entries) < 2:
+        # One edition is not an archive, and a picker offering only the file already named two
+        # rows above is furniture.
+        return ""
+    options = "\n".join(
+        f'            <option value="{e["file"]}"'
+        f'{" selected" if e["edition"] == current else ""}>'
+        f'{html_escape(bulletin_editions.label(e))}</option>'
+        for e in entries)
+    return (
+        '          <dt>Earlier editions</dt><dd>\n'
+        '            <select id="bulletin-editions" class="edition-picker" hidden'
+        ' aria-label="Earlier editions of this bulletin">\n'
+        f'{options}\n'
+        '            </select>\n'
+        '          </dd>\n')
+
+
+def html_escape(text: str) -> str:
+    return (text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+
+
 def build_document(md_path: Path, edition: str | None, absolute: bool,
-                   pdf: bool = True) -> tuple[str, str, str, str]:
+                   pdf: bool = True, archive: list[dict] | None = None) -> tuple[str, str, str, str]:
     """Return (html, stem_html, stem_pdf, edition, record) for one report.
 
     `absolute` swaps relative asset paths for file:// URIs. That is the only
@@ -611,6 +650,24 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
                    f'          <dt>Current edition</dt>'
                    f'<dd><a href="{url_html}">{url_html}</a></dd>\n')
 
+    # **The retention promise goes on the PDF, not only on the page** (`bulletin-archive.md`).
+    # A reader who downloads the file may never see the page it came from, and §9's commitment
+    # is that a document says plainly what it is, when it was cut and that it is not revised —
+    # a file that will 404 in a week and does not say so fails that on its own terms, for
+    # exactly the reader §9 was written about. So the row is inside the colophon and travels
+    # into the PDF with everything else, and it names the **date** rather than the interval:
+    # *kept for a week* asks the reader to remember when they downloaded it.
+    if kind == "bulletin" and pdf:
+        until = bulletin_editions.expires_on(edition)
+        current_row += (
+            f'          <dt>Retention</dt><dd>Kept until {until}. Older bulletins: the '
+            f'<a href="{SITE_BASE}/#countries">country pages</a> and the monthly reports.</dd>\n')
+        # **Not in the PDF.** The control needs a script to do anything and the PDF runs none,
+        # so it renders `hidden` there for ever — and a `<dt>Earlier editions</dt>` with nothing
+        # beside it is the same fault as the download button that named a file nobody cut.
+        if not absolute:
+            current_row += archive_picker(archive or [], edition)
+
     doc = TEMPLATE.format(
         title=title,
         download=download,
@@ -699,13 +756,15 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     out_dir.mkdir(parents=True, exist_ok=True)
     meta_head, body_head = frontmatter(md_path.read_text(encoding="utf-8"))
     rec = record(body_head)
+    is_bulletin = meta_head.get("type") == "bulletin"
+    today = date.today().isoformat()
 
     held = None if (edition or force) else held_edition(md_path, out_dir, rec)
     if held is not None:
         html_path = out_dir / f"{stem_html_of(md_path)}.html"
         pdf_path = out_dir / f"{md_path.stem}-{held}.pdf" if pdf else None
         if pdf_path is None or pdf_path.exists():
-            if meta_head.get("type") == "bulletin":
+            if is_bulletin:
                 # The page is refreshed so the byline is current; the edition passed in is the
                 # one already held, so the download link and the colophon go on naming the PDF
                 # that is there. `rec` is taken over the body, which has not moved, so the gate
@@ -720,7 +779,17 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
                 # line endings and the file on disk quietly diverges from the one in git — a
                 # 1,205-line diff on a document nothing had changed. Both writes here carry it,
                 # and so does `bulletin.py`.
-                served, _, _, _, _ = build_document(md_path, held, absolute=False, pdf=pdf)
+                #
+                # **A held-off render writes no manifest entry, because no PDF was cut** — but
+                # it does rebuild the listing, which is how a deletion reaches the picker. The
+                # rebuild drops anything whose file has gone or whose week is up, so the page
+                # this writes offers only editions that are still there. It comes free: the
+                # page was being rewritten anyway (`bulletin-archive.md`).
+                archive = bulletin_editions.refreshed(out_dir, today)
+                if archive != bulletin_editions.load(out_dir).get("editions", []):
+                    bulletin_editions.save(out_dir, archive)
+                served, _, _, _, _ = build_document(md_path, held, absolute=False, pdf=pdf,
+                                                    archive=archive)
                 if not html_path.exists() or html_path.read_text(encoding="utf-8") != served:
                     html_path.write_text(served, encoding="utf-8", newline="")
             return html_path, pdf_path, False
@@ -736,8 +805,20 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
         edition = editions.next_edition(
             out_dir, md_path.stem, date.today().isoformat())
 
+    # The listing the page will show, with the edition being minted folded in. Computed before
+    # the page is built because the picker is rendered into it, and persisted only after
+    # WeasyPrint has actually written the file — a manifest that names a PDF a failed run never
+    # cut would be the one thing this listing must never be, which is wrong about the directory
+    # it describes.
+    archive: list[dict] = []
+    if is_bulletin and pdf and edition:
+        archive = bulletin_editions.refreshed(out_dir, today, adding={
+            "edition": edition, "file": f"{md_path.stem}-{edition}.pdf",
+            "compiled": meta_head.get("compiled", ""),
+            "items": int(meta_head.get("items") or 0), "bytes": 0})
+
     served, stem_html, stem_pdf, edition, _ = build_document(
-        md_path, edition, absolute=False, pdf=pdf)
+        md_path, edition, absolute=False, pdf=pdf, archive=archive)
 
     html_path = out_dir / f"{stem_html}.html"
     pdf_path = out_dir / f"{stem_pdf}.pdf" if pdf else None
@@ -753,9 +834,16 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     if pdf_path is None:
         return html_path, None, True
 
-    for_pdf, _, _, _, _ = build_document(md_path, edition, absolute=True, pdf=True)
+    for_pdf, _, _, _, _ = build_document(md_path, edition, absolute=True, pdf=True,
+                                         archive=archive)
     from weasyprint import HTML  # imported late: only the PDF path needs it
     HTML(string=for_pdf, base_url=str(SITE / "assets" / "css")).write_pdf(pdf_path)
+
+    # Now the file exists, so the entry can carry its real size and the manifest can be trusted.
+    if is_bulletin:
+        bulletin_editions.record_cut(
+            out_dir, edition, pdf_path.name, meta_head.get("compiled", ""),
+            int(meta_head.get("items") or 0), today)
 
     return html_path, pdf_path, True
 
