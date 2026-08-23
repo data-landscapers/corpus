@@ -1,16 +1,16 @@
 ---
 title: Chad — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: TCD
-ledger_rows: 30
+ledger_rows: 33
 not_held: 42
-record: 399f2c4ea127
+record: dfd81ec0da14
 ---
 
 # Chad: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -72,6 +72,11 @@ The third general population and housing census [closed its main enumeration on 
 
 ## Governance and regulation
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the base can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
+<!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
@@ -84,6 +89,11 @@ On 4 August the Haute autorité des médias et de l'audiovisuel [announced](http
 
 <!-- narrative: ai-tech--geopol-usa -->
 Four priority areas were [agreed with the United States — digital infrastructure, satellite connectivity, cybersecurity and digital health — with no instrument signed](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/). A supplier stated its willingness to audit and certify the national data centre, a mandate already held under the tripartite agreement of February 2026. The two accounts give different mission dates, and the [minister flagged United States visa refusals for Chadian technical personnel as a delivery risk](https://www.digitalbusiness.africa/tchad-a-washington-ndjamena-multiplie-les-contacts-avec-starlink-intersystems-et-dautres-geants-technologiques/).
+<!-- /narrative -->
+### China activities
+
+<!-- narrative: ai-tech--geopol-china -->
+The financing that did arrive in the window came from one partner. Chad and China [signed two grant agreements totalling 300 million yuan, in tranches of 100 million and 200 million that the minister of state called immediately mobilisable](https://ecomatin.net/le-tchad-obtient-25-milliards-fcfa-de-la-chine-pour-booster-ses-infrastructures-le-numerique-et-la-formation), for infrastructure and social development with digital technologies supported alongside; and earlier in the week the Chinese ambassador [announced 5,000 scholarships in technology and artificial intelligence](https://camerpressagency.com/tchad-chine-lambition-numerique-se-concretise/). Neither carries a project list, a digital allocation or a timetable, and the local-currency equivalents in circulation differ between outlets on their own conversion dates.
 <!-- /narrative -->
 
 ## Finance

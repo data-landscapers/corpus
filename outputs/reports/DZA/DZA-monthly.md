@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-23
 place: DZA
 ledger_rows: 31
 not_held: 7
-record: 9b68b89eeb23
+record: 6fcecc8380ab
 ---
 
 # Algeria: monthly update, July 2026
@@ -41,7 +41,7 @@ The National Digital Services Centre was inaugurated by President Tebboune on 5 
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-
+The cybersecurity record this window is a warning about the state's own brand rather than about its systems. The Algiers wilaya [told citizens that unlicensed platforms are impersonating its institutions and public enterprises, mostly as fake e-ticketing storefronts built to harvest bank card details and personal data, and directed them to check the domain name before paying and to use only officially approved portals](https://www.algerie360.com/arnaques-en-ligne-la-wilaya-dalger-lance-une-alerte-aux-citoyens/). It is a communique, not an enforcement action: no takedown, prosecution or count of impersonating sites is on record. The exposure it describes tracks the payment figures in the section below — more web merchants and more card use give a counterfeit storefront more to imitate.
 <!-- /narrative -->
 
 ## Digital public infrastructure
