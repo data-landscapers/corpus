@@ -3,9 +3,9 @@ title: Tunisia — monthly update, July 2026
 compiled: 2026-08-23
 period: 2026-07-01 to 2026-08-23
 place: TUN
-ledger_rows: 35
+ledger_rows: 36
 not_held: 9
-record: 8781a3b5f91e
+record: 01f0d4525e57
 ---
 
 # Tunisia: monthly update, July 2026
@@ -48,6 +48,8 @@ The customs estate opened a build rather than a service. The customs administrat
 From 1 July 2026 the mobile identity became a condition of transacting with the state: the [investment authority made it mandatory for all investment-project declarations](https://techafricanews.com/2026/06/26/tunisia-makes-mobile-id-mandatory-for-investment-project-declarations/).
 
 The health identifier's provenance became public on [27 July 2026](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). A ministry adviser confirmed that the identifier built for Covid-19 vaccination, holding records of over 3 million childhood immunisations, was adopted as the national health identifier and bound to the national identity card, the social security number and school and university identifiers. [Roughly 100,000 medical files had been linked](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). On protection of that linked dataset the ministry asserts only that data is stored confidentially and securely.
+
+A second identifier moved a step behind it. At a ministerial session at La Kasbah on 18 August the government decided to [upgrade the social identifier system, digitise social-security cards and services and put interconnected systems in place for real-time data exchange between the social funds, health structures and insured persons](https://www.pm.gov.tn/ar/article/mjls-wzary-19), with drafting of the reform texts to begin immediately. The communique states no timetable, no legal basis for the identifier and no scope.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

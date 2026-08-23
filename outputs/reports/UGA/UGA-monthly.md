@@ -3,9 +3,9 @@ title: Uganda — monthly update, July 2026
 compiled: 2026-08-23
 period: 2026-07-01 to 2026-08-23
 place: UGA
-ledger_rows: 68
+ledger_rows: 69
 not_held: 16
-record: ae07499381bc
+record: 0e6e4eb63e9e
 ---
 
 # Uganda: monthly update, July 2026
@@ -120,6 +120,8 @@ On 30 July the transformation programme secretariat reported that its review of 
 The data protection office's letter of 17 July confirmed compliance with the five orders in its [decision of 20 February 2026](https://adlegalug.com/wp-content/uploads/2026/02/PDPO-Decision-in-Ad-legal-International-Ltd-v-WhatsApp-LLC-Meta-Platforms-Inc.pdf), which had required a data-protection impact assessment, an adequacy assessment, a legitimate-interests assessment and a Uganda-specific privacy notice. The decision imposed no fine and refused the complainant's prayers for cessation of intra-group sharing.
 
 On 14 August the ICT ministry launched a [three-year child online-safety campaign in Kampala with the communications regulator and a private partner](https://www.itweb.africa/article/uganda-commits-to-making-cyber-space-safe-for-minors/dgp45MaBl1kqX9l8). No budget, reach target or evaluation arrangement is published for it, which is the same gap that closed the previous awareness campaign without a measured result.
+
+The sharpest test of the protection regime in the window came from another arm of the state. The revenue authority has [issued more than 1,000 compliance notices since June 2026, and wrote to a commercial bank on 27 July seeking five years of customer bank statements, the directors' personal identity information and the bank-client correspondence](https://www.theeastafrican.co.ke/tea/business-tech/ugandan-revenue-authority-turns-up-heat-on-taxpayers-5561674), under the Tax Procedures Code Act and against a ten-month collection shortfall of Ush1.5 trillion. Nothing from the data protection office is on record about it.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

@@ -3,18 +3,18 @@ title: Tunisia — progress report, 2025-08-01 to 2026-08-23
 compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 place: TUN
-ledger_rows: 75
+ledger_rows: 76
 not_held: 9
-record: c2627e7e8920
+record: 4a48ba4bd346
 ---
 
 # Tunisia: progress report, 2025-08-01 to 2026-08-23
 
 *Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 75 systems and instruments on this place's ledger, 44 changed position between 2025-08-01 and 2026-08-23, 8 did not, 14 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 76 systems and instruments on this place's ledger, 44 changed position between 2025-08-01 and 2026-08-23, 8 did not, 15 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 85 sources for this place in the window — 15 in the earlier half (2025-10 to 2026-02), 70 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 87 sources for this place in the window — 15 in the earlier half (2025-10 to 2026-02), 72 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -85,6 +85,7 @@ Hosting is where a year produced no capacity. Data centres went from an [investm
 | e-Houwiya mobile identity | Live and voluntary, at 200,000 subscribers as of March 2025, with no legal obligation to hold one (2025-08) | [Compulsory for investment-project declarations and for access to the business register from 1 July 2026; no subscriber figure has been published since March 2025 (2026-07)](https://techafricanews.com/2026/06/26/tunisia-makes-mobile-id-mandatory-for-investment-project-declarations/) | Advanced |
 | Identity and travel documents issued through digital services | No published issuance series | [Mobile electronic counters aboard two ferries issued several thousand passports at sea to the returning diaspora, and expatriate-support offices on national territory issued 10,609 official documents](https://www.lapresse.tn/2026/08/18/modernisation-administrative-les-services-numeriques-du-m-i-accelerent-la-delivrance-des-passeports-et-des-pieces-didentite/) | Advanced |
 | National Health Identifier | Did not exist | [In pilot in university hospitals since June 2026, bound to the national identity card, the social security number and school and university identifiers; over 15,000 numbers issued as at 22 June 2026 and roughly 100,000 medical files linked as at 27 July 2026 (2026-07)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109) | Advanced |
+| Identifiant Social Unique (social identifier system) | Baseline not held | [Government decided at a ministerial session on 18 August 2026 to upgrade the social identifier system, digitise social-security cards and services, process claims instantaneously and put interconnected systems in place for real-time data exchange between the social funds, health structures and insured persons, with drafting of the structural-reform texts to begin immediately. No drafting timetable, legal basis for the identifier or scope definition is stated](https://www.pm.gov.tn/ar/article/mjls-wzary-19) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
@@ -176,7 +177,7 @@ Payments standardised without measurable growth on file. The [national label](ht
 
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| Draft organic law on personal data protection | Did not exist | [123 articles across six titles under committee review, introducing a data protection officer role, obliging public institutions to obtain authorisation for any processing, shifting enforcement to financial penalties through a sanctions department, and naming the press, surveillance cameras, algorithms and cross-border transfers as the uncovered domains; not passed (2026-02)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | Advanced |
+| Draft organic law on personal data protection | Did not exist | [123 articles across six titles under committee review, introducing a data protection officer role, obliging public institutions to obtain authorisation for any processing, shifting enforcement to financial penalties through a sanctions department, and naming the press, surveillance cameras, algorithms and cross-border transfers as the uncovered domains; not passed (2026-02)](https://www.arp.tn/loi/project/4237) | Advanced |
 | National authority for personal data protection | Constituted under the 2004 law, with no enforcement action, decision or annual report held (2025-08) | [Unchanged; the sponsors of the replacement bill cite its limited role as the institutional gap the bill exists to close, and it is named in none of the year's new data-concentrating systems (2026-08)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | No change |
 | Organic Law 2004-63 on personal data protection | In force and described by civil society as unfit for the processing the state now does (2025-08) | [Still the governing instrument; a 123-article replacement is in committee and has not passed (2026-08)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | No change |
 

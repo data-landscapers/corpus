@@ -3,18 +3,18 @@ title: Uganda — progress report, 2025-08-01 to 2026-08-23
 compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 place: UGA
-ledger_rows: 151
+ledger_rows: 152
 not_held: 16
-record: 5916e1257c61
+record: de92efd07922
 ---
 
 # Uganda: progress report, 2025-08-01 to 2026-08-23
 
 *Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 151 systems and instruments on this place's ledger, 79 changed position between 2025-08-01 and 2026-08-23, 25 did not, 31 carry no stated baseline, and 16 are ***Not held*** at both ends.*
+*Of 152 systems and instruments on this place's ledger, 79 changed position between 2025-08-01 and 2026-08-23, 25 did not, 32 carry no stated baseline, and 16 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 250 sources for this place in the window — 47 in the earlier half (2025-08 to 2026-01), 203 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 252 sources for this place in the window — 47 in the earlier half (2025-08 to 2026-01), 205 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -222,6 +222,7 @@ Two public rails did not move at all. The real-time settlement replacement was s
 | PDPO orders against Google LLC | Orders issued, the 30-day clock running (2025-07-18) | [No record of registration, a data-protection officer contact or a transfer-framework filing as at 2026-08-06](https://pdpo.go.ug/media/2025/07/Ssekamwa-Frank-3-Ors-vs-Google-LLC-PDPO-Decision-18th-July-2024.pdf) | No change |
 | Be a Cyber Hero child online-safety campaign | Baseline not held | [A three-year campaign on child online safety launched in Kampala, led by the ICT ministry with the communications regulator and a private partner; no budget, reach target or evaluation arrangement is published](https://www.itweb.africa/article/uganda-commits-to-making-cyber-space-safe-for-minors/dgp45MaBl1kqX9l8) | ***Baseline not held*** |
 | Public grasp of data-protection principles | ***Baseline not held*** | [13.6% grasp data-protection principles (2025-12)](https://www.newvision.co.ug/category/news/kampala-data-collection-company-prosecuted-ov-NV_224311_032026) | ***Baseline not held*** |
+| Revenue-authority demands for bank customer information | Baseline not held | [More than 1,000 compliance notices issued to taxpayers since June 2026, and a letter of 27 July 2026 to a commercial bank seeking customer bank statements for December 2020 to December 2025, the directors' personal identity information and the bank-client correspondence, against a 2025/26 collection target of Ush36 trillion, a target of Ush40 trillion for 2026/27 and a ten-month shortfall of Ush1.5 trillion](https://www.theeastafrican.co.ke/tea/business-tech/ugandan-revenue-authority-turns-up-heat-on-taxpayers-5561674) | ***Baseline not held*** |
 
 ### Public debate and participation in policymaking
 

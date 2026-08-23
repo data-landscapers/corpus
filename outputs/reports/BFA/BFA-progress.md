@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-23
 place: BFA
 ledger_rows: 120
 not_held: 11
-record: 76b149ebe8c9
+record: e75c0bfc8b29
 ---
 
 # Burkina Faso: progress report, 2025-08-01 to 2026-08-23
@@ -14,7 +14,7 @@ record: 76b149ebe8c9
 
 *Of 120 systems and instruments on this place's ledger, 71 changed position between 2025-08-01 and 2026-08-23, 12 did not, 26 carry no stated baseline, and 11 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 213 sources for this place in the window — 79 in the earlier half (2025-08 to 2026-01), 134 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 215 sources for this place in the window — 79 in the earlier half (2025-08 to 2026-01), 136 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 

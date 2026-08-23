@@ -3,18 +3,18 @@ title: Ethiopia — progress report, 2025-08-01 to 2026-08-23
 compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 place: ETH
-ledger_rows: 94
+ledger_rows: 95
 not_held: 5
-record: bce746940b74
+record: af041cecaa31
 ---
 
 # Ethiopia: progress report, 2025-08-01 to 2026-08-23
 
 *Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 94 systems and instruments on this place's ledger, 64 changed position between 2025-08-01 and 2026-08-23, 14 did not, 11 carry no stated baseline, and 5 are ***Not held*** at both ends.*
+*Of 95 systems and instruments on this place's ledger, 65 changed position between 2025-08-01 and 2026-08-23, 14 did not, 11 carry no stated baseline, and 5 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 190 sources for this place in the window — 43 in the earlier half (2025-08 to 2026-01), 147 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 193 sources for this place in the window — 44 in the earlier half (2025-08 to 2026-01), 149 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -34,6 +34,7 @@ Ethiopia's foundational layers — the identity, the payments rails, the health 
 |---|---|---|---|
 | Ethio Telecom network | Nationwide incumbent network (2025-08) | [99.8% coverage (2026-04) on 90.1m subscribers; 215.8bn Birr revenue in FY2025/26 with data and internet 31.1% of it against mobile voice at 23.5%, operating profit 92.9bn Birr](https://techafricanews.com/2026/04/20/ethio-telecom-reaches-99-8-coverage-accelerates-smart-infrastructure-development/) | Advanced, in reach and revenue |
 | Network expansion contracts from MWC 2026 | Did not exist | [Ericsson 1,500 sites and 502 upgrades under the MWC contracts; separately, 879 sites completed under the ZTE programme (462 RAN modernisation, 237 microwave-link upgrades, 103 IP RAN sites), 92% 4G population coverage across ZTE's own network footprint, with 124 new sites, 272 U2100 refarming sites and 115 rural sites still to come](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/) | Advanced |
+| Next Horizon: Digital & Beyond 2028 strategy | Did not exist | [A three-year corporate strategy to 2028 carrying six strategic themes, nineteen strategic objectives, four strategic-priority categories and a three-year indicator table, published by the operator on its own site](https://www.ethiotelecom.et/ethio-telecom-announces-its-new-three-year-strategy-next-horizon-digital-beyond-2028-strategy/) | Advanced |
 | Safaricom Ethiopia second network | 10.06m 90-day active customers (2025-06) | [14.7m 90-day active customers; the development financiers diluted to 9.5% and 6.81% with a right to reacquire; more than 67 existing sites upgraded across nine Southern Region towns against congestion and power-supply problems](https://itweb.africa/article/safaricom-ethiopia-upgrades-67-sites/PmxVEMKEOolvQY85) | Advanced |
 | Safaricom regional fibre deployment | Did not exist | [Under construction, Afdera to Mekelle](https://www.thereporterethiopia.com/46234/) | Advanced |
 | teleStream and Zero-Touch Broadband | Did not exist | [Live](https://techafricanews.com/2026/02/23/ethio-telecom-launches-telestream-and-zero-touch-broadband-under-digital-2028-strategy/) | Advanced |

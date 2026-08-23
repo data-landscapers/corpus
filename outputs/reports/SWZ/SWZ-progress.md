@@ -3,18 +3,18 @@ title: Eswatini — progress report, 2025-08-01 to 2026-08-23
 compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 place: SWZ
-ledger_rows: 83
+ledger_rows: 84
 not_held: 8
-record: 52af91576b87
+record: 53ab2b5a4e63
 ---
 
 # Eswatini: progress report, 2025-08-01 to 2026-08-23
 
 *Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 83 systems and instruments on this place's ledger, 49 changed position between 2025-08-01 and 2026-08-23, 8 did not, 18 carry no stated baseline, and 8 are ***Not held*** at both ends.*
+*Of 84 systems and instruments on this place's ledger, 50 changed position between 2025-08-01 and 2026-08-23, 8 did not, 18 carry no stated baseline, and 8 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 75 sources for this place in the window — 18 in the earlier half (2025-08 to 2026-01), 57 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 77 sources for this place in the window — 19 in the earlier half (2025-08 to 2026-01), 58 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -119,7 +119,7 @@ The state's own estate is where the window's most consequential finding sits, an
 |---|---|---|---|
 | Eswatini Revenue Service TaxPal | Did not exist | [In service](https://independentnews.co.sz/14361/science-technology/eswatini-launches-new-apps-to-ease-access-to-government-services/) | Advanced |
 | Google Cloud EMEA memorandum | Signed on or before January 2025, unacknowledged in public | [Established as a cloud-services and e-government framework, not a monetisation deal; no value or term published](https://independentnews.co.sz/42282/business/former-minister-defends-google-mou-calls-for-calm-in-cabinet/) | Advanced |
-| Government In Your Hand citizen application | Launched May 2025, with a reporter able to locate public data on it six weeks later | [In service, ahead of the digital identity and public-key infrastructure it was to rest on](https://independentnews.co.sz/14361/science-technology/eswatini-launches-new-apps-to-ease-access-to-government-services/) | Advanced |
+| Government In Your Hand citizen application | Launched May 2025, with a reporter able to locate public data on it six weeks later | [In service, ahead of the digital identity and public-key infrastructure it was to rest on](https://www.eswatiniobserver.com/pm-denies-firing-ict-minister/) | Advanced |
 | Auditor-General strategic plan 2026-2030 | Not held | [Launched with artificial intelligence and digital transformation named as the route to stronger public-sector accountability, urging more than 80 audit officers to adopt them, and developed with support from the INTOSAI Development Initiative and the African organisation of English-speaking supreme audit institutions](https://techafricanews.com/2026/08/17/eswatini-auditor-general-urges-oag-staff-to-embrace-ai-and-digital-transformation/) | ***Baseline not held*** |
 | National e-Government Strategy | Baseline not held | [Assessment endorsed; no strategy published](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) | ***Baseline not held*** |
 
@@ -240,6 +240,7 @@ Two things were said on the record in the window that had not been before. The [
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Google partnership with Eswatini | Signed on or before January 2025; workspace, AI, digital addressing and youth skills | [Operating and publicly acknowledged; no value or term published](https://www.times.co.sz/news/readmore.php?bhsadjgfoh=Eswatini%E2%80%99s+digital+progress+earns+continental+spotlight&yiphi=4446&bvhdgsj=News) | Advanced |
+| US-Eswatini specimen sharing agreement | Did not exist | [A ten-year agreement under which Eswatini shares specimens, samples, sequencing data and any other associated data on novel and emerging infectious diseases within seven days of a United States request, consents to those specimens and data being passed to up to ten non-US-Government United States entities, and accepts that failure to share could change or discontinue the assistance planned under the underlying memorandum of understanding of 11 December 2025. Either party may terminate on six months' notice, and termination by Eswatini does not affect use of anything already shared](https://www.citizen.org/wp-content/uploads/64101-Eswatini-Health-Specimen-Sharing-Agreement-12.12.2025.pdf) | Advanced |
 
 ### Gulf/UAE activities
 
