@@ -1,15 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-23
 place: BWA
 ledger_rows: 96
 not_held: 11
-record: dc72b974d22e
+record: 798c57e94b68
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (96 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (96 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -30,7 +30,7 @@ The budget is the clearest part. Digital development lines were cut for FY2026/2
 | System or instrument | Status | Milestone |
 |---|---|---|
 | BoFiNet internet gateway upgrade | [Implemented](https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news) | P100m spent; the Gaborone exchange point relocated |
-| BoFiNet Local Access Projects 2025/26 | [Implemented](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/) | Completed, reported 2026-08-14 |
+| BoFiNet Local Access Projects 2025/26 | [Implemented](https://na.co.bw/bofinet-hosts-agm-showcasing-enhanced-accountability-and-value-creation/) | Completion reported 2026-08-16; first integrated report presented at the 2026-08-13 AGM |
 | BTC rural satellite connectivity programme | [Implemented](https://itweb.africa/article/btcs-new-reach-extends-to-61-villages-in-botswana/rxP3jqBEWB4MA2ye) | 61 villages connected, 105 further areas in progress |
 | MTC Namibia and BoFiNet cross-border fibre memorandum | [Implemented](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) | Gobabis-Buitepos fibre completed and interconnected with BoFiNet at Charles Hill |
 | Powertel-Paratus fibre corridor | [Implemented, phase 1 only](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V) | Plumtree-Bulawayo section live and carrying traffic |
@@ -110,7 +110,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Elections Management System | [In development](https://www.sundaystandard.info/electoral-transparency-credibility-and-the-dark-shadow-of-the-evm-in-botswana/) | Developed and under extensive testing; deployment planned for the 2029 general election |
-| Electronic voter registration | [In development](https://botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/IEC.pdf) | P50,000,000 appropriated for FY2026/27; the project may straddle two or three financial years |
+| Electronic voter registration | [In development](https://allafrica.com/stories/202608190305.html) | Electoral-reform package committed to in Parliament, 2026-08-19 |
 | Mandatory SMME registration and national database | [Planned](https://www.mmegi.bw/business/lea-embarks-on-nationwide-smme-registration/news) | Nationwide consultations March to May 2026; the agency lobbying for mandatory registration |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)

@@ -1,16 +1,16 @@
 ---
 title: Benin — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: BEN
-ledger_rows: 27
+ledger_rows: 29
 not_held: 5
-record: ff0acc0b233a
+record: d0ecbc5a5883
 ---
 
 # Benin: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -53,6 +53,11 @@ A second kind of data exchange entered the record in August, and it is regional 
 
 <!-- narrative: dpi--dpi-registry -->
 On 16 July the identity agency's director general set out the birth-registration gap and the single-window remedy at ten maternities.
+<!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: dpi--dpi-mis -->
+The tax directorate's information-system modernisation surfaced in the window only because its funder republished the project sheet. The EUR 2m project [runs from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin), which puts it four months from its stated end. What the sheet does not carry is any statement of what has been delivered — no module, no milestone, no completion status — so the base can date the project and price it, and cannot say whether it is finishing or merely ending.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

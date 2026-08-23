@@ -1,15 +1,15 @@
 ---
 title: Mali — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-23
 place: MLI
-ledger_rows: 71
+ledger_rows: 72
 not_held: 3
-record: 0c0c7d89dbf9
+record: 4672c8bfa325
 ---
 
 # Mali: status report
 
-*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/MLI/ledger.csv` (71 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/MLI/ledger.csv` (72 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -189,6 +189,7 @@ Government's own systems are being wired together: [13 services on the AGETIC in
 |---|---|---|
 | Autorite de Protection des Donnees a caractere Personnel | [Implemented](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | Second 2026 session opened 2026-08-03 with more than 1,000 files |
 | Benin and Mali data-protection cooperation | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-and-mali-enhance-data-protection-cooperation) | Cooperation agreed 2025-04-16 |
+| Data-protection authorisation for DDR beneficiary data | [Implemented](https://gouvernement.ml/protection-des-donnees-personnelles-la-cnddr-et-la-cni-se-forment-aux-enjeux-du-ddr-i/) | Three-day training on the authorised processing, 17-19 August 2026 |
 | Loi n2013-015 on personal data protection | [Implemented](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | In force since 21 May 2013 as amended |
 | Mandatory lease-declaration decree | [In development](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/) | Draft decree before the authority October 2025 |
 
