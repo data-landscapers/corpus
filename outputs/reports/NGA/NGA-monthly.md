@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-23
 place: NGA
 ledger_rows: 145
 not_held: 9
-record: 2efd17202835
+record: 57772c2464e2
 ---
 
 # Nigeria: monthly update, July 2026
