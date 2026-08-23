@@ -1,16 +1,16 @@
 ---
 title: Ghana — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: GHA
-ledger_rows: 101
+ledger_rows: 110
 not_held: 9
-record: 6274a52af7ab
+record: 296fd8cc8c24
 ---
 
 # Ghana: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -153,6 +153,11 @@ The data-protection regulator's own enforcement record did not change; the actio
 The statistical service put a number on what digitisation is being asked to fix. Its governance series records citizens reporting demands for unofficial payments [rising from 51% in the first half of 2025 to 69% in the second](https://asaaseradio.com/gss-calls-for-digitalisation-fee-transparency-to-curb-rising-bribe-demands/), and the service names digitalisation, fee transparency and public education as its response, citing a marked fall in bribery at the passport office after digitisation and saying the Office of the Chief of Staff has directed the ten institutions the series flagged as high-risk to report back on remediation. The passport-office comparison is asserted without a before-and-after figure, and the series measures reported demands rather than cases proven.
 
 The same week the ministry took the governance argument outward and inward at once: it [convened an Accra workshop with a policy-monitoring organisation and a trade endowment on digital governance, regulatory coordination and international digital-trade engagement](https://www.linkedin.com/posts/ministry-of-communication-digital-technology-and-innovations-b4a9b7256_mocdti-partners-digital-policy-alert-to-strengthen-activity-7491943506979250176-6l2o), framed against the national artificial-intelligence strategy, the coders programme and the continental digital trade protocol; and its deputy minister [urged information-management professionals to secure and better manage government data as artificial-intelligence use grows](https://asaaseradio.com/govt-strengthens-public-data-management-amid-rising-ai-use/). Neither produces an instrument, and the national data strategy has been In development since 2024.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: governance--data-open -->
+The one open-data movement in the window is a system that exists and a commitment that cannot pay for it. The fisheries ministry and the national multi-stakeholder group built an online Fisheries Information System, launched at an ocean conference in June 2026, but [inadequate funding is constraining the 2024 Fisheries Transparency Initiative commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/), with the minister pointing to part of a goods-and-services allocation and to unconcluded talks with Norway on reviving a development funding mechanism. A published system with no secured budget behind the disclosure regime is the familiar shape here, and the national open-data instrument remains **Not held**.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
