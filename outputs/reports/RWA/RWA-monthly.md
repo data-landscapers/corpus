@@ -1,16 +1,16 @@
 ---
 title: Rwanda — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: RWA
-ledger_rows: 47
+ledger_rows: 50
 not_held: 9
-record: 68bcfea8e7e5
+record: 9af9d9ec8305
 ---
 
 # Rwanda: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -152,6 +152,11 @@ Where training did continue it went to the top of the system rather than the bot
 
 ## Finance
 
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The month's financing arrived as a parliamentary approval rather than a disbursement. The Chamber of Deputies [approved two financing agreements worth a combined Rwf279 billion, funding national strategy measures that include broadband expansion, a labour market information system linking job seekers to employers, and technology for livestock traceability](https://www.newtimes.co.rw/article/38320/news/finance/mps-approve-rwf279bn-financing-to-boost-job-creation). Three digital lines sit inside one headline number and none of them is separately priced, so the base can record that the money was voted and not what share of it reaches any of the three.
+<!-- /narrative -->
 ### MoUs and other agreements
 
 <!-- narrative: finance--finance-mou -->

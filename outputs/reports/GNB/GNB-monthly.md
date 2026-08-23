@@ -1,16 +1,16 @@
 ---
 title: Guinea-Bissau — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: GNB
-ledger_rows: 4
+ledger_rows: 5
 not_held: 1
-record: 6e0857b9aa2e
+record: 73c67895fe87
 ---
 
 # Guinea-Bissau: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -24,6 +24,11 @@ Three developments were recorded between 1 July and 19 August 2026. [The Institu
 
 <!-- narrative: dpi--dpi-exchange -->
 [The government approved a national interoperability regulation](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q), announced on 8 August 2026 by the World Bank-backed Western Africa Regional Digital Integration Program, which supports the work and presents the framework as Guinea-Bissau's contribution to the regional programme. A draft decree on the interoperability of public and private digital systems had been approved by the Council of Ministers on 10 July 2025 and had not moved since; the announcement names no decree number, no gazettal and no entry-into-force date, and the paired data-governance and cybersecurity decrees approved alongside it in 2025 remain where they were.
+<!-- /narrative -->
+### Registries (population, land, address, etc.)
+
+<!-- narrative: dpi--dpi-registry -->
+The register moved without the electorate changing. The electoral support office [handed the updated register to the elections commission in physical and electronic form for the 30 August referendum, recording 966,152 registered voters — unchanged from the last update](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/), having also [issued 25,146 replacement voter cards in a 30-day nationwide operation from 13 July to 11 August through 51 brigades covering every region](https://ang.gw/gtape-anuncia-emissao-de-25-146-cartoes-do-eleitor-da-2a-via/). So the month's work was replacing credentials rather than adding registrants, and no audit or de-duplication statement accompanies the handover.
 <!-- /narrative -->
 ### National statistics
 

@@ -1,15 +1,15 @@
 ---
 title: Mauritania — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-23
 place: MRT
-ledger_rows: 58
+ledger_rows: 60
 not_held: 4
-record: 3f71c16fea76
+record: dd732a734055
 ---
 
 # Mauritania: status report
 
-*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/MRT/ledger.csv` (58 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/MRT/ledger.csv` (60 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -100,6 +100,7 @@ SOMELEC's [FY2024 procurement plan](https://somelec.mr/sites/default/files/PPPM%
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Biometric driving licences and registration plates | [Planned](https://www.ami.mr/archives/266980) | Ministerial statement of a before-end-2026 target, 2026-08-21 |
 | Unified digital consular registry | [Implemented](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/) | Live for the Riyadh mission's zone of competence |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
@@ -113,6 +114,7 @@ SOMELEC's [FY2024 procurement plan](https://somelec.mr/sites/default/files/PPPM%
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Digital consular services platform | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad) | Launched 9 July 2026 with a first phase of nine online services |
+| Digitised civil service recruitment competition | [Implemented](https://www.ami.mr/archives/266841) | Four-day examination for 390 posts opened 2026-08-18 |
 | Digitised civil-service recruitment | [Implemented](https://lequotidien.mr/?p=40000&lang=fr) | 390-post competition run digitally from application to examination (2026-08) |
 | Electronic invoicing for public institutions | [Planned](https://www.ami.mr/archives/265398) | Announced by the Finance Minister, 30 July 2026 |
 | Ijraati administrative procedures portal | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-centralizes-800-administrative-procedures-in-new-digital-portal) | Launched consolidating more than 800 administrative procedures |

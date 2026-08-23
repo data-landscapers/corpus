@@ -1,15 +1,15 @@
 ---
 title: Guinea-Bissau — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-23
 place: GNB
-ledger_rows: 21
+ledger_rows: 22
 not_held: 1
-record: b2bd40e6bfb0
+record: 487b3a7ac925
 ---
 
 # Guinea-Bissau: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/GNB/ledger.csv` (21 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/GNB/ledger.csv` (22 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -53,6 +53,7 @@ Guinea-Bissau's international connectivity rests on a single submarine-cable lan
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Electoral register update and card replacement | [Implemented](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/) | Register handed to the elections commission 2026-08-18 for the 30 August referendum |
 | SIREC (Integrated System of Citizen Registers and Statistics) | [Piloting](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems) | Ministry of Justice Civil Registration Office (Raul Gomes) describes SIREC digitizing births, deaths and marriages, with UNDP-trained officers, roughly three months into rollout; birth registration remains below 50% (~46% of under-fives) |
 | UNDP Building National ID project (civil-registry books scanning and digitization) | [In development](https://www.undp.org/guinea-bissau/projects/building-national-identification-system-supporting-ministry-justice-scanning-and-digitizing-civil-registry-books-guinea-bissau) | UNDP project, co-financed by the Swiss Confederation, sets up a digitization centre and develops software to recover and digitize paper civil-registry books (births, deaths, marriages, annotations) as the country's main national identity platform |
 

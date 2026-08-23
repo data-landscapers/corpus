@@ -1,16 +1,16 @@
 ---
 title: Mauritania — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: MRT
-ledger_rows: 19
+ledger_rows: 21
 not_held: 4
-record: feb8fc3d8cb0
+record: 53f20a568f57
 ---
 
 # Mauritania: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
