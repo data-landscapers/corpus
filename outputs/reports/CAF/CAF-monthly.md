@@ -1,16 +1,16 @@
 ---
 title: Central African Republic — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: CAF
-ledger_rows: 17
+ledger_rows: 19
 not_held: 19
-record: 4f56c6d6b4b5
+record: 0df2d06d3ff3
 ---
 
 # Central African Republic: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -50,6 +50,11 @@ On 30 July a memorandum was signed at Bangui covering [digital finance and land 
 
 <!-- narrative: dpi--dpi-registry -->
 Against the Bangui memorandum, the cadastre itself has no delivery record: the 2026 medium-term framework carries [FCFA 625,000 for updating the mining cadastre and FCFA 650,000 for a petroleum database](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf), FCFA 1,275,000 between them for the year.
+<!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: dpi--dpi-mis -->
+Health information in the window is a single link run by someone other than the state. A remote hospital [is using telemedicine to reach a global network of healthcare professionals](https://www.doctorswithoutborders.ca/central-african-republic-using-telemedicine-to-tap-into-a-global-network-of-healthcare-professionals/), the service run by an international medical organisation rather than the health ministry. One site is a capability and not yet a system: no case volume, connectivity arrangement or continuity plan is published, so what happens to the link when the organisation leaves is not on record.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

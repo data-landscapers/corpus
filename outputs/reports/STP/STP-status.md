@@ -1,15 +1,15 @@
 ---
 title: Sao Tome and Principe — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-23
 place: STP
-ledger_rows: 48
+ledger_rows: 49
 not_held: 13
-record: b085b88bc715
+record: 6553c54e6856
 ---
 
 # Sao Tome and Principe: status report
 
-*Compiled 2026-08-17 from the Data Landscapers source base, from `outputs/reports/STP/ledger.csv` (48 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/STP/ledger.csv` (49 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -97,6 +97,7 @@ A GoSTP data-centre modernisation programme, covering the digital-ID system's se
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Computing equipment for the tax directorate | [Implemented](https://rstp.st/2026/08/18/pnud-entrega-equipamentos-informaticos-a-direcao-geral-dos-impostos/) | Equipment handed over 2026-08-18 |
 | Portal do Cidadao / Citizen Portal (INIC, beta) | [Piloting, beta](https://rstp.st/2026/03/28/inic-celebra-18o-aniversario-com-lancamento-da-plataforma-portal-do-cidadao/) | Beta launched at INIC's 18th anniversary, funded by World Bank + Co-Develop, CDPI technical advisory |
 | Trade Single Window + ASYFIVE (UNDP-supported) | [Planned, announced](https://www.telanon.info/economia/2026/01/25/51525/stp-prepara-salto-tecnologico-no-comercio-externo-com-novas-plataformas-apoiadas-pela-onu/) | UNDP-backed integrated Port/External-Trade Single Window + ASYFIVE deployment announced |
 

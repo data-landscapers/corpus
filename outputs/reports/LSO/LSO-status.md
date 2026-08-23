@@ -1,15 +1,15 @@
 ---
 title: Lesotho — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-23
 place: LSO
-ledger_rows: 63
+ledger_rows: 64
 not_held: 0
-record: 97645fafb179
+record: 95580e1a0a0b
 ---
 
 # Lesotho: status report
 
-*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (63 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/LSO/ledger.csv` (64 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -113,6 +113,7 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 | Decision Support System for planning and budgeting | [In development](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) | Presented at the MICSTI-NUL review of DPI progress, 2026-02-20 |
 | Foundational Literacy and Numeracy Dashboard | [In development](https://techafricanews.com/2026/07/23/unicef-and-gpe-launch-learning-data-dashboard-to-improve-education-in-lesotho/) | UNICEF and Global Partnership for Education support announced, 2026-07-23 |
 | MISSA social-assistance management information system | [In development](https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and) | Request for proposals closed 12 August 2024 |
+| National monitoring and evaluation reporting capacity | [In development](https://selibeng.com/consultant-to-strengthen-nac-capacity-to-coordinate-national-me-reporting/) | Consultancy advertised 2026-08-16 |
 
 ### Other GovTech and e-Gov
 

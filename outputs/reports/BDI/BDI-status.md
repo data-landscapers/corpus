@@ -1,15 +1,15 @@
 ---
 title: Burundi — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-08-23
 place: BDI
 ledger_rows: 65
 not_held: 10
-record: 5898b27553de
+record: ce92e1db1c0e
 ---
 
 # Burundi: status report
 
-*Compiled 2026-08-19 from the Data Landscapers source base, from `outputs/reports/BDI/ledger.csv` (65 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/BDI/ledger.csv` (65 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -88,7 +88,7 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 | System or instrument | Status | Milestone |
 |---|---|---|
 | BurundiPay national instant payment system | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank) | Public launch 23 April 2026; 17 of 78 licensed institutions live by 4 August 2026 (5 commercial banks, 10 microfinance institutions, 2 payment institutions), with integration mandatory for all licensed institutions by 5 September 2026 under a BIF 1m-per-month-of-delay penalty |
-| EAC Regional Cross-Border Payment System Master Plan | [Planned](https://www.rtnb.bi/?mypost?id=529) | Governors welcomed progress at a Kampala meeting in July 2026 and decided BurundiPay must interconnect with other member states' payment systems; first activities are work plans, priorities and resource mobilisation |
+| EAC Regional Cross-Border Payment System Master Plan | [Planned](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616) | Central bank told the regional governors it expects to join by December 2026 |
 | Mobile-money systems interconnected by BurundiPay | [Implemented](https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/) | Lumicash, Ecocash, E-noti and Cashtel named as the systems it links |
 | PAPSS accession | [Implemented](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/) | BRB acceded to the Pan-African Payment and Settlement System; four Burundian banks authorised to participate (as at 4 August 2026) |
 | Payment switch migration to ISO 20022 | [Implemented](https://www.burunditimes.com/burundi-upgrades-payment-system-to-international-iso-20022-standard/) | Migration completed by the central bank |

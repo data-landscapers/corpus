@@ -1,16 +1,16 @@
 ---
 title: Sao Tome and Principe — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: STP
-ledger_rows: 9
+ledger_rows: 10
 not_held: 13
-record: 9f8d602d539f
+record: 751736cb9ba3
 ---
 
 # Sao Tome and Principe: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -29,6 +29,11 @@ Eight rows moved between 1 July and 11 August 2026. The National Electoral Commi
 
 <!-- narrative: dpi--dpi-mis -->
 [AFAP extended the deadline of tender ref. 45-G](https://www.telanon.info/destaques/2026/08/07/53902/afap-prorroga-a-solicitacao-de-fornecimento-instalacao-treinamento-e-comissionamento-do-novo-sistema-de-informacao-de-gestao-mis-para-a-emae/) on 7 August 2026 for supply, installation, training and commissioning of a new management-information system for EMAE, the state water and electricity utility. The original terms, contract value and new deadline are not stated in the source held — a scanned procurement notice with no text layer, so only the notice's own headline could be read for this pass.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+The month's government-systems movement is hardware. A UN agency [handed computing equipment to the tax directorate under an EU-funded regional programme, to modernise tax administration and the handling of fiscal data](https://rstp.st/2026/08/18/pnud-entrega-equipamentos-informaticos-a-direcao-geral-dos-impostos/). No value is stated for the equipment and no delivery schedule accompanies it, so what the base holds is a donation and an intention rather than a system with a capability attached.
 <!-- /narrative -->
 
 ## Governance and regulation

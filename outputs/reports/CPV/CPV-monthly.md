@@ -1,16 +1,16 @@
 ---
 title: Cape Verde — monthly update, July 2026
-compiled: 2026-08-17
-period: 2026-07-01 to 2026-08-17
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: CPV
-ledger_rows: 16
+ledger_rows: 17
 not_held: 45
-record: 1e819f0d2ba4
+record: 89bd3848c5b9
 ---
 
 # Cape Verde: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-17 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -80,6 +80,11 @@ The Health Minister proposed at a World Health Organization conference in Lisbon
 
 <!-- narrative: ai-tech--tech-industry -->
 The technology park's second phase went to open international tender on 29 July 2026, for supply and installation of facilities equipment and training, procured by the special projects unit in the Ministry of Finance under an African Development Bank loan. [Bids close on 15 September 2026, with a bid security of EUR 25,000](https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/07/1785347487426.pdf) and beneficial-ownership disclosure required of the successful bidder. The contract value is not published, so the tender fixes scope and timetable without sizing them.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: ai-tech--tech-innovate -->
+The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it, and nothing here is yet an instrument the base can track.
 <!-- /narrative -->
 ### China activities
 

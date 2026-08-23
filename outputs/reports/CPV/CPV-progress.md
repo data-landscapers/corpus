@@ -1,20 +1,20 @@
 ---
-title: Cape Verde — progress report, 2025-08-01 to 2026-08-19
-compiled: 2026-08-19
-period: 2025-08-01 to 2026-08-19
+title: Cape Verde — progress report, 2025-08-01 to 2026-08-23
+compiled: 2026-08-23
+period: 2025-08-01 to 2026-08-23
 place: CPV
-ledger_rows: 138
+ledger_rows: 139
 not_held: 45
-record: c9c569fe79ae
+record: 64090839223c
 ---
 
-# Cape Verde: progress report, 2025-08-01 to 2026-08-19
+# Cape Verde: progress report, 2025-08-01 to 2026-08-23
 
-*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 138 systems and instruments on this place's ledger, 46 changed position between 2025-08-01 and 2026-08-19, 42 did not, 5 carry no stated baseline, and 45 are ***Not held*** at both ends.*
+*Of 139 systems and instruments on this place's ledger, 47 changed position between 2025-08-01 and 2026-08-23, 42 did not, 5 carry no stated baseline, and 45 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 90 sources for this place in the window — 32 in the earlier half (2025-08 to 2026-01), 58 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 92 sources for this place in the window — 32 in the earlier half (2025-08 to 2026-01), 60 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -30,7 +30,7 @@ Over the same period the digital ministry's appropriation fell from CVE 369,781,
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | AUDA-NEPAD Programme for African Developing Island Economies | Did not exist | [Launched with a 2026-2031 roadmap covering Cabo Verde and six other island states, on six pillars including connectivity, with digital public infrastructure and artificial intelligence named as accelerators](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
 | Starlink share of the internet market | Zero before January 2025; 0.08% at 2025-03-31 by implication of the reported quarterly gain | [0.2% of internet subscriptions at 2025-06-30, in a market of 484,929 subscriptions, up 0.12 percentage points on the quarter](https://expressodasilhas.cv/economia/2025/09/18/starlink-conquista-02-do-mercado-da-internet-em-9-meses/99028) | Advanced |
@@ -40,20 +40,20 @@ Over the same period the digital ministry's appropriation fell from CVE 369,781,
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | NOSi hosting and cloud service revenue | Housing CVE 27,432,000, IaaS 67,326,000, PaaS 9,431,000 and SaaS 17,085,000 forecast for 2025, CVE 121,274,000 combined | [Housing CVE 26,994,000, IaaS 72,025,000, PaaS 9,359,000 and SaaS 19,116,000 forecast for 2026, CVE 127,494,000 combined and up 5.1%, inside a total forecast down 26%](https://nosi.cv/documents/20121/3107159/PAO_2026.pdf.pdf/5abaf142-22e2-b38a-bc5e-ba6f5ddd5e7d) | Advanced |
 | NOSi Praia data centre | In operation, Tier III certified; RTPE connectivity billed CVE 305,779,000 and protocolled state services CVE 455,964,000 in the year to 2024-12-31 | [Unchanged; NOSi has published no accounts after the FY2024 volume, so no later certification, capacity or utilisation statement is held](https://nosi.cv/documents/20121/3100977/Relat%C3%B3rio%20e%20Contas%20NOSi%20-%202024.pdf/2fe4a66a-1826-4951-4da3-9cce82aef26e) | No change |
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Praia data-centre photovoltaic self-consumption project | Approved, implementation scheduled within the 2025 exercise, aimed at cutting fossil-sourced electricity to at least 35% of the data centre's cost structure | [Unchanged; NOSi's FY2025 accounts are not published, so neither implementation nor any generation figure is established](https://nosi.cv/documents/20121/3100977/Relat%C3%B3rio%20e%20Contas%20NOSi%20-%202024.pdf/2fe4a66a-1826-4951-4da3-9cce82aef26e) | No change |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Security Operations Centre and CSIRT | Provided for by Decreto-Lei 9/2021 but not operating; NOSi funded CSIRT work from its own trading account and no cybersecurity rubric appeared at any grain of the FY2024 budget | [Both bodies operating inside the state's private technological network, built by NOSi with World Bank involvement, the SOC for real-time detection and the CSIRT as a national alert-and-response point](https://expressodasilhas.cv/pais/2025/10/30/governo-reforca-capacidade-de-resposta-a-incidentes-ciberneticos-com-lancamento-de-dois-instrumentos/99687) | Advanced |
 | Cabo Verde-South Korea digital cooperation | A delegation led by the telecommunications and digital-economy directorate had completed a technical mission to South Korea covering data governance, digitisation of public services and cybersecurity; no agreement signed | [Unchanged; no formal agreement is held](https://www.wearetech.africa/en/fils-uk/news/public-management/digital-transformation-cape-verde-moves-closer-to-south-korea) | No change |
@@ -73,7 +73,7 @@ Cybersecurity is where the period's movement is real. A national security operat
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Birth registration coverage | About 91% civil-registration coverage before the linkage reforms, with fragmented systems and weak institutional coordination | [99% birth registration and 100% registration of deaths occurring in health facilities, reached within five years, with a unique identification number issued to every child at birth](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration) | Advanced |
 | Domestic production of security documents | Production and personalisation of the identity card, electronic passport and foreigners' residence permit contracted to Portugal's Imprensa Nacional Casa da Moeda, with over CVE 176 million ratified after the services had been supplied | [Producing on national territory since 2026-05-18; over 1,000 identity cards, the first residence permit and about 50 passports produced by 2026-06-10, against installed capacity of 1,200 cards, 1,200 permits and 2,400 passports a day and annual demand of roughly 80,000, 5,000 and 60,000](https://inforpress.cv/pt/governo-autoriza-despesa-de-mais-de-176-mil-contos-para-documentos-de-identificacao) | Advanced |
@@ -83,13 +83,13 @@ Cybersecurity is where the period's movement is real. A national security operat
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Plataforma Empresa Online | Did not exist | [Beta platform for online company-lifecycle procedures, developed by a private supplier with the registry and notary directorate and resting on interoperability between public systems; no user count, cost or full-launch date published](https://expressodasilhas.cv/pais/2026/03/20/plataforma-empresa-online-reforca-digitalizacao-dos-servicos-publicos-em-cabo-verde/101997) | Advanced |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Health System digitalisation | Did not exist | [Announced: a unique patient identification code granting access to medical history, digital medical records centralised across facilities, and electronic prescriptions, with 24 telemedicine units handed over; no build timetable, cost, vendor or coverage figure published](https://www.inforpress.cv/en/article-6732) | Advanced |
 | SIMFAR pharmaceutical market monitoring system | Did not exist | [Real-time national tracking of the medicines circuit, forecasting stock-outs and triggering replenishment or redistribution, integrated with the customs system to detect illegal imports; no cost, vendor, coverage figure or baseline stock-out rate published](https://www.diarioeconomico.co.mz/2026/07/30/mundo/africa/cabo-verde-lanca-plataforma-para-detectar-entrada-ilegal-de-medicamentos-e-rupturas-de-stock/) | Advanced |
@@ -97,7 +97,7 @@ Cybersecurity is where the period's movement is real. A national security operat
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Election results dissemination system (eleicoes.cv) | NOSi's stated performance was publication of election results within two hours | [The results portal became unreachable from about 19:00 on 2026-05-17 during legislative-election results publication and was restored by about 21:00; an external independent technical and forensic audit is under way, its preliminary indications pointing to technical causes and finding no evidence of external malicious action, with internal conduct still being examined](https://www.anacao.cv/noticia/2026/05/18/legislativas-2026-presidente-do-nosi-pede-desculpas-por-alegado-ciber-ataque-durante-a-divulgacao-dos-resultados-das-eleicoes/) | Regressed |
 | Gov.cv unified services portal | Named as the integrated public-services portal and stated by government as in advanced development (2024-12-18), a named deliverable since 2023; no single portal live | [A single web and app gateway live from 2026-02-24 covering finance, civil registration, identity, tax, higher education, transport and social services, with departmental portals to migrate into it; no count of migrated services published](https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/) | Advanced |
@@ -107,7 +107,7 @@ Cybersecurity is where the period's movement is real. A national security operat
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | IV IDRF household income and expenditure survey | Fieldwork begun December 2022, definitive results unpublished | [Still unpublished at 2026-07-25, so the World Bank microsimulated its July 2026 poverty estimate from the III IDRF of 2015; the statistics institute states an under-reporting of food expenditure was identified and corrected, and that a new fully digital survey was planned for July 2026](https://www.anacao.cv/noticia/2026/07/25/dados-do-banco-mundial-desmascaram-os-do-ine-sobre-a-pobreza-em-cabo-verde/) | Stalled |
 | Parecer do Tribunal de Contas on the Conta Geral do Estado | No audited fiscal account of state spending for any year after 2023 | [Unchanged; the Conta Geral do Estado 2024 was published 2025-09-30 and remains unaudited, so the finest published record of Cabo Verdean digital spending is the executive's own quarterly provisional account](https://www.mf.gov.cv/documents/198414/5884176/Conta+Geral+do+Estado+2024.pdf) | No change |
@@ -127,7 +127,7 @@ One position regressed. The election results portal became unreachable during le
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Diploma on interoperability standards for public-administration systems | Announced for drafting in 2024 under the state-modernisation strategy; no adoption on record | [Unchanged; no evidence the diploma was adopted, two years past its stated year, while interoperability is asserted as a working property of the government portal and the company registry](https://www.governo.cv/ministra-edna-oliveira-ouvida-na-1a-comissao-especializada-no-ambito-da-discussao-na-especialidade-oe2024/) | Stalled |
 | Diploma regulating data governance in the public administration | Announced for drafting in 2024; no adoption on record | [Unchanged; no evidence of adoption at 2026-08-06. A companion diploma on documentary classification, announced in the same statement, is likewise unadopted](https://www.governo.cv/ministra-edna-oliveira-ouvida-na-1a-comissao-especializada-no-ambito-da-discussao-na-especialidade-oe2024/) | Stalled |
@@ -137,7 +137,7 @@ One position regressed. The election results portal became unreachable during le
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data Strategy for Public Administration | Did not exist | [Development process launched with senior officials, the Secretary of State for the Digital Economy, external consultants and European Union representatives; the stated goal is to move government from siloed systems to integrated collection and use of data across departments. No draft, adoption date or lead institution is published](https://techafricanews.com/2026/05/04/cape-verde-launches-national-data-and-ai-strategies-to-modernize-public-administration/) | Advanced |
 | Estrategia Nacional para o 5G | Did not exist; presented as a proposal at TechPark Cabo Verde on 2025-09-10 under the World-Bank-financed Digital Cabo Verde project | [In force by resolution, targeting 90% internet penetration by 2026 and regional digital-hub status by 2030, with the economic impact put by government at more than CVE 77 billion by 2036; no spectrum assignment, licence award or network build is on file](https://www.governo.cv/cabo-verde-apresenta-estrategia-nacional-para-o-5g-e-ambiciona-ser-hub-digital-regional-ate-2030/) | Advanced |
@@ -152,19 +152,19 @@ One position regressed. The election results portal became unreachable during le
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | African Digital Corridor with Nigeria | Did not exist | [Launched in early September 2025 with cooperation priorities of artificial intelligence, youth empowerment and bilateral development. Declared deliverables are training of over 500 secondary students on three islands, STEM tools in Portuguese and teacher training, and a business and innovation mission in Praia in Q4 2025; the base holds no record that either was delivered](https://www.anacao.cv/noticia/2025/09/02/cabo-verde-representado-no-government-leadership-and-ai-summit-na-nigeria/) | Advanced |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Independent evaluation of the Instituto Nacional de Estatistica | Did not exist; the integrity dispute stood as anonymous technicians' allegations of 2025-08-10 against the institute's rejection of 2025-09-17 | [An evaluation ordered by the head of government to establish alleged interference and manipulation of data, which the institute's board said on 2026-08-03 it would host, offering all technical documentation; nothing is established about its terms of reference, who conducts it, when it reports, or whether findings will be published](https://www.anacao.cv/noticia/2025/08/10/estatisticos-alertam-cabo-verdianos-e-parceiros-estao-a-ser-enganados-pelo-ine/) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Comissao Nacional de Proteccao de Dados | Independent supervisory authority operating from 2015-16, with fining powers and referral of possible criminal matters to the public prosecution; a member of the Global Privacy Assembly | [Powers unchanged. The president stated the authority was entering a phase more attentive to digital innovation, and named retention of technical staff as a standing constraint, every technician who started in 2016 having left](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448) | No change |
 | Data-protection commission appropriation | CVE 36,313,115 for FY2025, appropriated inside the National Assembly's own private budget rather than through any ministerial vote, a 3.0% uplift on CVE 35,255,451 for FY2024, with zero own-source revenue in both years | [FY2025 remains the latest established appropriation. Against the fining powers the statute confers, an annual budget of about CVE 36 million is roughly a dozen maximum penalties](https://www.mf.gov.cv/documents/198414/3832853/Lei+que+aprova+o+OE+2024.pdf/b399a0a3-3df2-5dd0-d420-fbf1b1ebcd04?version=1.0&t=1707741905701) | No change |
@@ -173,13 +173,13 @@ One position regressed. The election results portal became unreachable during le
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | EU special partnership digital pillar and Global Gateway package | A digital-transformation pillar and a cybersecurity strand stated as intentions in the FY2024 budget speech, and a EUR 300 million Global Gateway package stated in the FY2025 speech; no signed instrument, allocation or disbursement is held | [Unchanged; no instrument, allocation or disbursement is held for either. European Union representatives took part in the data and AI strategy kick-off of 2026-04-28, and the telecom guarantee resolution of 2026-04-20 invokes Global Gateway framing](https://www.governo.cv/discurso-do-primeiro-ministro-sua-excelencia-dr-jose-ulisses-correia-e-silva-no-debate-orcamento-estado-de-2024-oe2024/) | No change |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Open-data portal | Named as a 2024 deliverable alongside a database of public bodies, an integrated public-services portal and a human-resources database; no delivery on record | [Unchanged; no open-data portal is held two years past its stated year](https://www.governo.cv/ministra-edna-oliveira-ouvida-na-1a-comissao-especializada-no-ambito-da-discussao-na-especialidade-oe2024/) | Stalled |
 | Statistics institute cooperation protocol with the Universidade de Coimbra | Did not exist; the base holds no instrument giving researchers access to Cabo Verdean official statistics | [In force, providing mechanisms for scientific access to statistical data including metadata and anonymised microdata subject to data-protection rules and statistical secrecy, and covering research projects, theses, publications and exchange of expertise; no access portal, request procedure or first dataset is named](https://expressodasilhas.cv/pais/2026/03/29/instituto-nacional-de-estatistica-e-universidade-de-coimbra-reforcam-cooperacao-cientifica-e-estatistica/102102) | Advanced |
@@ -199,7 +199,7 @@ Statistical independence moved from a technicians' allegation to a head-of-gover
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Artificial Intelligence Strategy | None published; a named analyst noted on 2025-04-07 that more than 60 countries had national AI strategies and argued Cabo Verde should adopt one | [Drafting under way, kicked off with senior officials, the Secretary of State for the Digital Economy, external consultants and European Union representatives; the government states the framework will be designed for responsible and ethical use of AI in the public interest. No draft text, timetable or budget is held](https://techafricanews.com/2026/05/04/cape-verde-launches-national-data-and-ai-strategies-to-modernize-public-administration/) | Advanced |
 | Proposal for a CPLP laboratory for artificial intelligence in health | Did not exist as a stated national position | [The Health Minister proposes Cabo Verde as a lusophone laboratory for AI in health, hosting pilot projects integrating AI with telemedicine, and calls for cooperation on skills, digital infrastructure, interoperability and an ethical and regulatory framework. No pilot, partner, budget or instrument is held](https://www.anacao.cv/noticia/2026/07/16/ministro-da-saude-defende-que-inteligencia-artificial-pode-aproximar-os-cuidados-especializados-de-todas-as-ilhas001/) | Advanced |
@@ -207,7 +207,7 @@ Statistical independence moved from a technicians' allegation to a head-of-gover
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cabo Verde Technology Park Phase II | Phase II approved November 2022 at EUR 15.95m total cost with EUR 14.00m of Bank financing; US$2,690,407 disbursed on the financier's record; no procurement milestone held | [Supply, installation of facilities equipment and training put to open international bidding by the special projects unit in the Ministry of Finance, bid security EUR 25,000, electronic bidding permitted, beneficial-ownership disclosure required of the winner; the contract value is not published](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-CV-GB0-004) | Advanced |
 | Safe City Project Phase 2 | RMB 92.5 million Chinese government grant committed 2019 and recorded as running to 2021, extending the Praia video-surveillance network to Sao Vicente, Sal and Boa Vista plus a further 100 poles in Praia, and installing a 4G network for police communications, with Huawei the implementing contractor | [Unchanged; the base holds no statement of the network's operating status, coverage or governance after the financing record's 2021 end year](http://cv.mofcom.gov.cn/article/zxhz/201711/20171102664018.shtml) | No change |
@@ -218,9 +218,10 @@ Statistical independence moved from a technicians' allegation to a head-of-gover
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | RABIDA diaspora initiative | Did not exist | [Launched by Cabo Verde Digital to connect diaspora entrepreneurs, talent and investment to domestic opportunities; the launch event was convened to shape the platform, and its structure and operating model were presented rather than opened. No budget, legal basis, target or timetable is held](https://techreviewafrica.com/news/4532/cabo-verde-unveils-rabida-initiative-to-strengthen-diaspora-engagement-in-digital-economy) | Advanced |
+| University and economy ministry innovation partnership | Did not exist | [The national university and the economy ministry are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego) | Advanced |
 | Cabo Verde Digital | Stated to support 200 young people a year on scholarships, fund about 100 startups with six minimum salaries for two co-founders, and finance attendance at international events | [Unchanged in stated design; it is the implementing body named for the diaspora initiative, the public-sector hackathon and the digital-skills rollout](https://expressodasilhas.cv/eitec/2025/01/15/digital-awards-cabo-verde-anuncia-finalistas-da-sua-primeira-edicao/95141) | No change |
 | Fundacao para a Ciencia, Inovacao e Tecnologia | Provided for by an allocation in the FY2024 budget and not created | [Unchanged; no evidence that the foundation was created is held at 2026-08-06](https://www.governo.cv/discurso-do-primeiro-ministro-sua-excelencia-dr-jose-ulisses-correia-e-silva-no-debate-orcamento-estado-de-2024-oe2024/) | No change, 2024 target passed before the window |
 | Re!nventa hackathon | Running programme in which startups solve challenges set by public and private institutions through hackathons, described as established at 2025-07-31 | [Two-day 2026 edition held for public-sector challenges with national and diaspora participants, supported by the World Bank Group, the digital economy ministry, the telecommunications directorate, Cabo Verde Digital and the national university; four teams recognised](https://www.wearetech.africa/en/fils-uk/news/public-management/cape-verde-ramps-up-digital-start-up-ecosystem-to-boost-economy) | No change |
@@ -228,13 +229,13 @@ Statistical independence moved from a technicians' allegation to a head-of-gover
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Third Millennium Challenge compact | Cabo Verde selected for a third compact, stated as directed at connectivity in transport, services and digital with the African continent | [Unchanged; no compact document, size, signature date or programme detail is held at 2026-08-06](https://www.governo.cv/discurso-de-abertura-do-primeiro-ministro-debate-sobre-o-orcamento-de-estado-para-2025/) | No change |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Huawei partnership with the Government of Cabo Verde | The base carries no statement of a current partnership at the start of the window; the last dated engagement it holds is the 2019 Safe City Phase 2 contract, whose financing record closes in 2021 | [The government describes Huawei as a strategic ICT partner; a delegation was received on 2026-07-29 by the Prime Minister and Finance Minister, the existing partnership was reviewed and a new representative introduced. No agreement, project, sum or timetable is named](https://www.governo.cv/francisco-carvalho-recebe-equipa-da-huawei-para-reforcar-cooperacao-na-transformacao-digital-de-cabo-verde/) | ***Baseline not held*** |
 
@@ -250,14 +251,14 @@ Two objects entered the record from nothing: a diaspora initiative launched in M
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Casa do Cidadao service-fee earmark | CVE 59,437,242 for FY2025 across four sub-lines including a citizen-space community line and a one-stop-shop implementation line, down from CVE 74,817,675 in FY2024 | [CVE 74,050,000 for FY2026 across two sub-lines only, service quality and new technological infrastructure; the total rose while the two lines naming physical and one-stop-shop access disappeared](https://www.mf.gov.cv/documents/198414/3901074/ANEXO+INFORMATIVO_OE_2024_DEFINITIVO.pdf/bf68c237-a941-fb9c-d290-018e20641a01?version=1.0&t=1696269705355) | Regressed, two sub-lines dropped |
 | Fundo de Servico Universal e Desenvolvimento da Sociedade de Informacao | CVE 122,073,633 appropriated for FY2025, financed from operator contributions and the radio-spectrum fee, carried in the earmarked-revenue table and in no organic, functional or economic classification | [CVE 122,073,633 for FY2026, identical to the escudo across FY2024, FY2025 and FY2026 - a fee-financed ceiling rolled forward rather than re-estimated](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf) | No change |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Skodji Digital | Did not exist; the base carries no programme of this kind before January 2026 | [Formally launched in late January 2026 with 1,050 places in a first phase against a stated 3,000-opportunity target, applications closing 2026-02-25 and training running two to six months; funded by the World Bank through the Digital Cabo Verde Project at a reported EUR 400,000. No enrolment, completion or placement figure is held](https://techreviewafrica.com/news/3789/cabo-verde-launches-skodji-digital-programme-to-expand-youth-access-to-global-digital-economy) | Advanced |
 | BOOST.CV | Launched on 2025-07-28 to back 150 young digital entrepreneurs with training, mentoring and project incubation, three days before the window opened | [Unchanged; the base carries no participant, completion, funding or outcome figure after launch](https://www.wearetech.africa/en/fils-uk/news/public-management/cape-verde-ramps-up-digital-start-up-ecosystem-to-boost-economy) | No change |
@@ -272,7 +273,7 @@ Training entered the period as a commitment and left it with no measured output.
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Balcao unico for startups | Did not exist | [Announced as a one-stop shop staffed by newly hired legal, administrative and financing specialists whose function is to route founders to finance instruments that already exist; nothing held gives it a legal instrument, a location, a staff complement, a budget or an opening date](https://www.governo.cv/governo-dispoe-de-cerca-de-10-milhoes-de-contos-para-investir-no-digital-nos-proximos-anos/) | Advanced |
 | E-Governance and Public Financial Management Reform Programme, Phase II | Recorded by the African Development Bank as approved, US$20,071,665 committed for 2025-2026 as a programme-based budget-support operation, with nothing disbursed and no board or signature date on file | [Board-approved on 2025-12-01 at EUR 17.71 million, the Bank's own dual quotation US$20.63 million, and signed on 2025-12-31, published in the Boletim Oficial of 2026-03-17; components are an e-Justice system, a call for technology-park operators, digital-nomad regulation and public-finance modernisation](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-CV-K00-020) | Advanced |
@@ -283,14 +284,14 @@ Training entered the period as a commitment and left it with no measured output.
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | NOSi memorandum of understanding with Angola's public finance IT body | Did not exist; the two bodies had been in contact since 2023 with no instrument on the record | [Memorandum signed in Praia by NOSi's executive administrator and the Angolan body's director-general in the presence of Angola's ambassador, covering cybersecurity, data-centre management, audit and internal control, and customer service](https://expressodasilhas.cv/empresas-negocios/2026/03/06/nosi-e-setic-fp-angola-assinam-memorando-de-entendimento/101749) | Advanced |
 | Protocol on Membership with the Tech Diplomacy Global Institute | Did not exist | [Protocol signed and a Tech Ambassador designated, described by the institute as the second such appointment in Africa; no fee, obligation or term is stated](https://www.techreviewafrica.com/news/4455/cabo-verde-appoints-tech-ambassador-signs-membership-protocol-with-global-institute) | Advanced |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cabo Verde Plataforma Digital e da Inovacao programme | Voted CVE 851,504,207 for FY2025 across treasury, loans and grants, down from CVE 1,828,303,885 in FY2024 | [Voted CVE 513,994,724 for FY2026 with no external borrowing at all; by 2026-03-31 CVE 1,445,586,717 of loans had been reprogrammed into the programme, nearly three times its whole voted total, against 14.7% execution](https://www.mf.gov.cv/documents/198414/3832853/Lei+que+aprova+o+OE+2024.pdf/b399a0a3-3df2-5dd0-d420-fbf1b1ebcd04?version=1.0&t=1707741905701) | Regressed |
 | Ciber Seguranca budget unit | None published; the FY2024 and FY2025 budget volumes carry no cybersecurity rubric at any published grain, five years after the 2021 decree created the national CSIRT, with the money sitting inside NOSi's trading account | [CVE 20,000,000 appropriated as a newly inscribed budget unit under general public services - the first cybersecurity line in the Cabo Verdean budget, at 0.02% of state expenditure, stated in the law's narrative with no table breaking it out](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf) | Advanced |
