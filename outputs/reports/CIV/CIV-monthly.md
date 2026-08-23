@@ -1,16 +1,16 @@
 ---
 title: Cote d'Ivoire — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: CIV
-ledger_rows: 63
+ledger_rows: 66
 not_held: 10
-record: b0c5b65c524d
+record: 72697b2c50ea
 ---
 
 # Cote d'Ivoire: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
