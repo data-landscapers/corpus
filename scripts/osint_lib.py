@@ -22,6 +22,7 @@ from __future__ import annotations
 import datetime as dt
 import os
 import re
+import sys
 
 # Seen from this machine. `SWEEP-CYCLE.md` -> *Mirror* syncs `C:\OSINT` onto `O:\`, and this is
 # the machine that share resolves back to.
@@ -85,17 +86,44 @@ def last_cycle_close() -> dt.datetime | None:
     return best
 
 
+# How far past the clock a stamp may sit and still be believed. The mirror is written by a
+# machine that is not this one, so a stamp a minute or two ahead is skew rather than error;
+# anything further ahead is a claim about work that has not happened yet.
+SKEW = dt.timedelta(minutes=5)
+
+
 def _newest_stamp(path: str, pattern: re.Pattern) -> dt.datetime | None:
+    """The newest stamp in the file, ignoring any that is in the future.
+
+    **The maximum is taken because the file's newest-first ordering is a convention kept by
+    hand**, so a file that has slipped out of order gives a late answer rather than a wrong one.
+    The cost of that is a single mistyped heading outranking every correct one, and on
+    2026-08-23 one did: `ingest-33` ran at 01:12 by `logs/log.md` and was written into
+    `ingested_log.md` as `12:00`, so the bulletin's byline said the page had last been updated
+    four hours into the reader's future. Every other reading of the file was correct and the
+    wrong one won by being the largest.
+
+    A stamp later than now cannot be a moment the material moved, whatever else it is, so it is
+    dropped and the run says so on stderr — the next-newest true reading is a slightly stale
+    answer, which is a different thing from a false one. `SKEW` keeps a stamp written seconds
+    ahead by another machine's clock from being thrown away."""
     if not os.path.exists(path):
         return None
     best = None
+    horizon = dt.datetime.now() + SKEW
     with open(path, encoding="utf-8") as fh:
         for line in fh:
             m = pattern.match(line)
             if not m:
                 continue
             when = _parse(m.group(1))
-            if when and (best is None or when > best):
+            if when is None:
+                continue
+            if when > horizon:
+                print(f"note: {os.path.basename(path)} carries a stamp in the future "
+                      f"({when:%Y-%m-%d %H:%M}) - ignored", file=sys.stderr)
+                continue
+            if best is None or when > best:
                 best = when
     return best
 

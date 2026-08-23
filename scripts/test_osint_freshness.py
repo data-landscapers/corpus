@@ -24,7 +24,7 @@ import json
 import shutil
 import sys
 import tempfile
-from contextlib import redirect_stdout
+from contextlib import redirect_stderr, redirect_stdout
 from pathlib import Path
 
 _here = Path(__file__).resolve().parent
@@ -117,6 +117,53 @@ CASES: list[tuple[str, float | None, tuple[float, ...], float | None, float | No
 ]
 
 
+def ahead(**delta) -> str:
+    """A heading stamped `delta` in the future, as a mistyped one reads."""
+    when = dt.datetime.now() + dt.timedelta(**delta)
+    return f"## {when:%Y-%m-%d %H:%M} (ingest Phase A slice ingest-33)" + chr(10)
+
+
+def stamp_cases() -> int:
+    """`last_ingest()` takes the maximum, so one mistyped heading outranks every correct one.
+
+    2026-08-23: `ingest-33` ran at 01:12 and was written into `ingested_log.md` as `12:00`, and
+    the bulletin byline then told readers the page had last been updated four hours into the
+    reader's future. The reading is dropped and the newest true stamp stands in its place — a
+    slightly stale answer rather than a false one."""
+    failures = 0
+    saved = osint_lib.INGESTED_LOG
+    tmp = Path(tempfile.mkdtemp(prefix="osint-stamp-test-"))
+    try:
+        (tmp / "logs").mkdir()
+        osint_lib.INGESTED_LOG = str(tmp / "logs" / "ingested_log.md")
+        log = Path(osint_lib.INGESTED_LOG)
+        skew = dt.datetime.now() + dt.timedelta(minutes=2)
+
+        cases: list[tuple[str, str, str | None]] = [
+            ("the newest true stamp wins",
+             ingest_log(1.0), stamp(1.0)),
+            ("a stamp four hours into the future is ignored",
+             ahead(hours=4) + ingest_log(1.0), stamp(1.0)),
+            ("skew of a minute or two is believed, not thrown away",
+             f"## {skew:%Y-%m-%d %H:%M} (ingest 33)" + chr(10), skew.strftime(TS)),
+            ("a file of nothing but future stamps reads as unreadable, not as fresh",
+             ahead(days=1), None),
+        ]
+        for name, text, expected in cases:
+            log.write_text(text, encoding="utf-8")
+            with redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()):
+                got = osint_lib.last_ingest()
+            got_s = got.strftime(TS) if got else None
+            ok = got_s == expected
+            failures += not ok
+            verdict = "ok  " if ok else "FAIL"
+            print(f"  {verdict} {name}  (expected {expected}, got {got_s})")
+    finally:
+        osint_lib.INGESTED_LOG = saved
+        shutil.rmtree(tmp, ignore_errors=True)
+    return failures
+
+
 def run() -> int:
     failures = 0
     argv = sys.argv
@@ -161,11 +208,14 @@ def run() -> int:
         (osint_lib.INGESTED_LOG, osint_lib.CYCLE_LOG, osint_lib.MIRROR,
          of.WATERMARK, of.head_committed) = saved
 
+    failures += stamp_cases()
+    total = len(CASES) + 4
+
     print()
     if failures:
-        print(f"{failures} of {len(CASES)} cases FAILED")
+        print(f"{failures} of {total} cases FAILED")
         return 1
-    print(f"all {len(CASES)} cases passed")
+    print(f"all {total} cases passed")
     return 0
 
 
