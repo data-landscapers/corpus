@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: data.open
 places: BEN; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; GHA; KEN; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
-record: 481f793d8896
+record: 3f7b1056d038
 ---
 
 # Open data: progress report, 2025-08-01 to 2026-08-23
@@ -126,7 +126,7 @@ record: 481f793d8896
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cooperation agreement with the anti-corruption authority | Did not exist | [Signed; aims at transparency through advanced information systems and artificial-intelligence tools for corruption-risk prevention](https://techreviewafrica.com/news/5330/morocco-hosts-african-open-government-conference-signs-key-agreements-to-strengthen-transparency-and-digital-governance) | Advanced |
 | National open-data portal | Operating at data.gov.ma with a documented publication procedure since April 2021 (2025-08) | [Operating at data.gov.ma with four published procedure volumes - manuals for Responsables Open Data and Gestionnaires de Donnees (April 2021), a data-inventory methodology v1.3 (February 2023) and a standards and formats manual v1.1 (December 2024) - and published datasets including a 1,028-entry start-up database (2025-01-03); a four-strand action plan (legal, technical, organisational, usage) followed the 2020 assessment; the assessment report itself remains unheld](https://data.gov.ma/sites/default/files/docs/Open_data_manuel_ROD_Avril%202021.pdf) | Advanced |

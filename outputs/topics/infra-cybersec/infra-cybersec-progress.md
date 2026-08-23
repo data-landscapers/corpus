@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: af6eceff6b14
+record: 98fe00471261
 ---
 
 # Cybersecurity: progress report, 2025-08-01 to 2026-08-23
@@ -301,7 +301,7 @@ record: af6eceff6b14
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Directive Nationale de la Securite des Systemes d'Information (DNSSI) v2.0 | DNSSI v1.0 in force since 2014 | [v2.0 in force, ISO 27002-structured, covers state bodies and all vital-importance infrastructures; entities given six months to schedule conformity](https://www.dgssi.gov.ma/fr/textes-legislatifs-et-reglementaires/circulaire-du-chef-du-gouvernement-ndeg-22023-du-12-janvier) | Advanced |
 | National Cybersecurity Strategy of 2023 and its implementing texts | Not held | [One instrument, not two: see MAR-infra.cybersec-cybersecurity-strategy-2030 for the full text](https://www.dgssi.gov.ma/sites/default/files/publications/pdf/2024-10/Strat%C3%A9gie%20Nationale%20de%20Cybers%C3%A9curit%C3%A9%202030.pdf) | Advanced |

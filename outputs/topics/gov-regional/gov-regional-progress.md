@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 4cb168ae4759
+record: 388cca46372e
 ---
 
 # Regional collaboration: progress report, 2025-08-01 to 2026-08-23
@@ -257,7 +257,7 @@ record: 4cb168ae4759
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | African Telecommunications Union Administrative Council seat | Did not exist | [Elected for the 2027-2031 term; the delegation combined the digital ministry, the regulator and the development agency](https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031) | Advanced |
 | Host-country agreement for a continental development agency office | Did not exist | [Agreement signed and approved; the office is not on record as established](https://assabah.ma/928742.html) | Advanced |

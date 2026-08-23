@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2026-07-01 to 2026-08-23
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: 10d2ace341ba
+record: 937acc930a48
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
@@ -85,7 +85,7 @@ Health information systems here are being built by private operators rather than
 
 ## Kenya
 
-Health claims authorisation failed at the counter through the month. A teachers' union raised on 30 July that members were [turned away and billed in cash](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) when the platform failed, one charged Ksh8,500 on 19 July; the Authority answered that the Digital Health Agency runs the system on its behalf.
+Health claims authorisation failed at the counter through the month. A teachers' union raised on 30 July that members were [turned away and billed in cash](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) when the platform failed, one charged Ksh8,500 on 19 July; the Authority answered that the Digital Health Agency runs the system on its behalf. The platform's cost re-entered the record in August: the President denied on 18 August that the state entered a KSh 104bn technology contract, and was reported on 21 August putting [the KSh 104 billion at the total project service fee over ten years rather than a lump-sum government payment](https://www.standardmedia.co.ke/health/health-science/article/2001555827/ruto-state-did-not-pay-sh104b-for-sha-system). The Auditor-General's finding of a KSh 104.9bn procurement, unbudgeted and non-competitive, is not answered by that; no contract text is held.
 
 An academic review published on 5 August put the child-protection case system on the other side of that ledger, [crediting it with cutting duplication and improving real-time coordination between agencies, with recorded cases rising from 20,235 in 2016/17 to 54,583 in 2021/22](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/). The most recent of those figures is four years old, and the system is American-funded — which places it in the same account as the withdrawal recorded under inclusion below.
 

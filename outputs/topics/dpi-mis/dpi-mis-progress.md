@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: cf7e55ca0203
+record: b4a8b8e1279b
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-23
@@ -213,7 +213,7 @@ record: cf7e55ca0203
 |---|---|---|---|
 | Biometric Health Identification | Launched at Kenyatta University hospital 2025-08-04 with 29 biometric devices, operational in all level 4 to 6 public facilities | [Extended to biometric enrolment of dependants aged 7 to 17, each issued a Maisha Namba linked to their health record](https://www.biometricupdate.com/202606/kenya-expands-digital-id-program-to-minors-through-health-sector-rollout) | Advanced |
 | Kenya Education Management Information System | Pilot due July 2025 and full go-live promised by September 2025, with a unique identifier for every child | [No confirmation of go-live, coverage or learner count on file as at 2026-08-05](https://www.biometricupdate.com/202505/kenya-to-harmonize-education-sector-data-through-maisha-namba-id-integration) | Stalled |
-| Social Health Authority claims platform | Operational from October 2024; the Auditor-General found the KSh 104.9bn procurement unbudgeted and non-competitive, with intellectual property ceded to the consortium | [Members turned away and billed in cash when authorisation fails, with the Authority saying the Digital Health Agency runs the system on its behalf; the President denies the state entered a KSh 104bn technology contract at all, saying it pays for services under a 43-system platform](https://www.standardmedia.co.ke/national/article/2001555668/ruto-denies-sh104bn-sha-technology-contract) | Regressed |
+| Social Health Authority claims platform | Operational from October 2024; the Auditor-General found the KSh 104.9bn procurement unbudgeted and non-competitive, with intellectual property ceded to the consortium | [Members turned away and billed in cash when authorisation fails, with the Authority saying the Digital Health Agency runs the system on its behalf; the President denies the state paid KSh 104bn for the platform and puts that figure at the total project service fee over ten years rather than a lump-sum government payment](https://www.standardmedia.co.ke/health/health-science/article/2001555827/ruto-state-did-not-pay-sh104b-for-sha-system) | Regressed |
 | Digital Health Act 2023 and Digital Health Agency | Binding statute in force establishing the Agency and an integrated digital health information system | [Same, with the 2025 regulations added, challenged in the High Court for inadequate public participation and operating under a Court of Appeal stay](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/) | No change |
 | Child Protection Information Management System | Baseline not held | [Recorded cases rising from 20,235 (2016/17) to 54,583 (2021/22), credited with cutting duplication and improving real-time case coordination across agencies](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/) | ***Baseline not held*** |
 | County business licensing harmonisation and MSME data digitisation | ***Baseline not held*** | [A five-year memorandum between the chamber of commerce and the council of governors to harmonise county business licensing and digitise small-enterprise data across all 47 counties, with a national digitisation strategy called for to track growth, output and employment](https://www.kenyachamber.or.ke/2026/08/13/kncci-and-cog-sign-landmark-strategic-partnership-to-drive-msme-growth-data-digitization-and-county-led-economic-development/) | ***Baseline not held*** |
@@ -270,7 +270,7 @@ record: cf7e55ca0203
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Shared medical record | Did not exist | [Full penal chapter now held: article 42 (6-12 months, MAD 50,000-200,000), article 43 (3-12 months, up to MAD 200,000), article 44 (MAD 50,000-300,000 for failure to feed or interconnect), article 45 (3-12 months, MAD 10,000-100,000); a doctors' and clinics' collective opposes it, citing CNSS leaks and attributing a claimed MAD 400m/year CNSS saving to its own communique rather than the bill](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/) | Advanced, contested |
 

@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: gov.protect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 530d39d096e8
+record: f0eb8b6dc4a3
 ---
 
 # Data protection: progress report, 2025-08-01 to 2026-08-23
@@ -307,7 +307,7 @@ record: 530d39d096e8
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data-protection cooperation memorandum with Portugal | Did not exist | [Signed; exchange of information and technical expertise on artificial intelligence, synthetic media and digital violence](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Advanced |
 | Facial-recognition case-by-case authorisation regime | Moratorium in force to 2020-12-30 | [Case-by-case prior-authorisation regime in force, preserving sectoral authorisations D-108-EUS/2020 and D-126-EUS/2020, and conditioning future authorisation on routing through a national trusted-third-party identity system; the CNDP flags controllers building their own biometric databases, sometimes hosted abroad](https://www.cndp.ma/wp-content/uploads/2023/12/CNDP-Dlibration_D-195-EUS-2020-Usage_de_la_reconnaissance_faciale-_20210421.pdf) | Advanced |
@@ -442,7 +442,7 @@ record: 530d39d096e8
 | Certified Data Protection Officer programme | Did not exist | [The university trains and assesses and the commission certifies, targeting government, finance, telecommunications, healthcare, education and technology](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/) | Advanced |
 | Registration and data-protection-officer compliance regime | The registration deadline had expired on 2025-04-30 and commission activity was confined to risk training and awareness | [A fresh registration deadline of 2026-04-08 set by ministerial directive, nationwide compliance inspections announced from 2026-04-09, and a seven-day ultimatum to part-registered bodies, with health and education named as still processing unregistered](https://www.mwananchi.co.tz/mw/habari/kitaifa/wananchi-waonywa-kutoa-taarifa-binafsi-kwa-taasisi-zisizosajiliwa-5494426) | Advanced |
 | Personal Data Protection Act, 2022 | In force, with a supervisory commission, a registration duty, a mandatory officer requirement and a breach-notification duty | [Unchanged text; no amendment and no new regulations recorded in the window](https://www.clydeco.com/en/insights/2026/02/notification-obligations-arising-from-personal-dat) | No change |
-| Tax-credential display rule for social-media businesses | Baseline not held | [Businesses selling on social media must display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages; digital creators and online traders have objected that publishing the credentials exposes them to impersonation and fraud, and no data-protection assessment or redress route is published](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-new-social-media-tax-rule-for-businesses-sparks-privacy-and-cybersecurity-fears-5555022) | ***Baseline not held*** |
+| Tax-credential display rule for social-media businesses | Baseline not held | [Businesses selling on social media must display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages; digital creators and online traders have objected that publishing the credentials exposes them to impersonation and fraud, and no data-protection assessment or redress route is published](https://fbattorneys.co.tz/wp-content/uploads/2026/08/GN-158G-AMENDMENT-OF-THE-TAX-ADMINISTRATION-GENERAL-REGULATIONS-2026-TGPA-1.pdf) | ***Baseline not held*** |
 
 ## Togo
 
@@ -456,7 +456,7 @@ record: 530d39d096e8
 
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| Draft organic law on personal data protection | Did not exist | [123 articles across six titles under committee review, introducing a data protection officer role, obliging public institutions to obtain authorisation for any processing, shifting enforcement to financial penalties through a sanctions department, and naming the press, surveillance cameras, algorithms and cross-border transfers as the uncovered domains; not passed (2026-02)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | Advanced |
+| Draft organic law on personal data protection | Did not exist | [123 articles across six titles under committee review, introducing a data protection officer role, obliging public institutions to obtain authorisation for any processing, shifting enforcement to financial penalties through a sanctions department, and naming the press, surveillance cameras, algorithms and cross-border transfers as the uncovered domains; not passed (2026-02)](https://www.arp.tn/loi/project/4237) | Advanced |
 | National authority for personal data protection | Constituted under the 2004 law, with no enforcement action, decision or annual report held (2025-08) | [Unchanged; the sponsors of the replacement bill cite its limited role as the institutional gap the bill exists to close, and it is named in none of the year's new data-concentrating systems (2026-08)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | No change |
 | Organic Law 2004-63 on personal data protection | In force and described by civil society as unfit for the processing the state now does (2025-08) | [Still the governing instrument; a 123-article replacement is in committee and has not passed (2026-08)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | No change |
 
@@ -471,6 +471,7 @@ record: 530d39d096e8
 | PDPO orders against Google LLC | Orders issued, the 30-day clock running (2025-07-18) | [No record of registration, a data-protection officer contact or a transfer-framework filing as at 2026-08-06](https://pdpo.go.ug/media/2025/07/Ssekamwa-Frank-3-Ors-vs-Google-LLC-PDPO-Decision-18th-July-2024.pdf) | No change |
 | Be a Cyber Hero child online-safety campaign | Baseline not held | [A three-year campaign on child online safety launched in Kampala, led by the ICT ministry with the communications regulator and a private partner; no budget, reach target or evaluation arrangement is published](https://www.itweb.africa/article/uganda-commits-to-making-cyber-space-safe-for-minors/dgp45MaBl1kqX9l8) | ***Baseline not held*** |
 | Public grasp of data-protection principles | ***Baseline not held*** | [13.6% grasp data-protection principles (2025-12)](https://www.newvision.co.ug/category/news/kampala-data-collection-company-prosecuted-ov-NV_224311_032026) | ***Baseline not held*** |
+| Revenue-authority demands for bank customer information | Baseline not held | [More than 1,000 compliance notices issued to taxpayers since June 2026, and a letter of 27 July 2026 to a commercial bank seeking customer bank statements for December 2020 to December 2025, the directors' personal identity information and the bank-client correspondence, against a 2025/26 collection target of Ush36 trillion, a target of Ush40 trillion for 2026/27 and a ten-month shortfall of Ush1.5 trillion](https://www.theeastafrican.co.ke/tea/business-tech/ugandan-revenue-authority-turns-up-heat-on-taxpayers-5561674) | ***Baseline not held*** |
 
 ## Zambia
 

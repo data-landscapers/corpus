@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: finance.budget
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; RWA; SEN; SDN; TZA; ZMB; ZWE; XAF; XWA
-record: 148184c63f30
+record: 124b111aba7e
 ---
 
 # Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-23
@@ -231,7 +231,7 @@ record: 148184c63f30
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital ministry investment appropriation | MAD 1,758.7m investment appropriation (2024), the latest published (2025-08) | [MAD 1,758.7m investment (2024), against MAD 85.8m personnel and MAD 187.8m materiel; no 2025 or 2026 appropriation published](https://www.mmsp.gov.ma/fr/budget-annuel) | No change, no fresher appropriation published |
 

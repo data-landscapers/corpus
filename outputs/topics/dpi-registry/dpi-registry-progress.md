@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: dfa1564fe48d
+record: 92acf1b5d251
 ---
 
 # Registries (population, land, address, etc.): progress report, 2025-08-01 to 2026-08-23
@@ -224,7 +224,7 @@ record: dfa1564fe48d
 
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| National database of qualifications | Did not exist | [A bill proposing a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications harmonised and recognised domestically, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/) | Advanced |
+| National database of qualifications | Did not exist | [A bill proposing a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications harmonised and recognised domestically, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://www.parliament.go.ke/sites/default/files/2026-08/THE%20KENYA%20NATIONAL%20QUALIFICATIONS%20FRAMEWORK%28AMENDMENT%29%20BILL%2C2026.pdf) | Advanced |
 | Online download of birth certificates | Application online through eCitizen, collection required a visit to a registry or Huduma centre | [Certificate downloadable and printable online after application](https://www.kenyans.co.ke/news/124508-kenyans-download-and-print-birth-certificates-online) | Advanced |
 | Ardhisasa land platform | Isiolo live, Mombasa Island blocks the prior week, Marsabit and Baringo named next | [No county-rollout update on file since July 2025; the EU has earmarked EUR 12m for land-registration digitisation tied to the digital identity](https://lands.go.ke/isiolo-county-onboarded-ardhisasa-more-counties-embrace-platform) | No change |
 
@@ -292,7 +292,7 @@ record: dfa1564fe48d
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National population registry and unified social registry | About half the population enrolled (2024-12) | [22 million of 39 million registered and 5 million eligible households served, on a June 2026 account](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems) | Advanced, on a press figure |
 | Registry legal basis, law 72-18 | Not held | [Creates the Registre national de la population and the Registre social unifie, the Identifiant digital civil et social, and the Agence nationale des registres; articles 19/22 carve out defence/security; article 45 defers force to implementing texts](https://faolex.fao.org/docs/pdf/mor204689.pdf) | Advanced |

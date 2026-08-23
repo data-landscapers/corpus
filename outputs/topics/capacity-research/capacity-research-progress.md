@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: capacity.research
 places: DZA; AGO; BWA; BDI; CMR; COG; CIV; GNQ; ETH; GAB; GHA; LSO; LBY; MDG; MLI; MRT; MAR; MOZ; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE; XSA
-record: 0d08b38993aa
+record: 9d04fb6ad4bc
 ---
 
 # Research institutions: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: 0d08b38993aa
 *29 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -122,7 +120,7 @@ record: 0d08b38993aa
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National research, development and innovation support programme (PNARDI) 2025-2028 | In force since 2025-04-07; MAD 1bn committed across four editions to 2028 | [MAD 1bn from a joint higher-education ministry and OCP Group fund across four editions between 2025 and 2028, of which MAD 200m is directed at mobilising Moroccan researchers resident abroad; no digital or artificial-intelligence share is stated; first edition's three named sub-programmes are IBN ALBANNA (R&D), IBN BATTOUTA (young researchers) and NEFZAOUIA (tech transfer); still no award or disbursement record](https://www.maroc.ma/fr/actualites/lancement-officiel-du-programme-national-dappui-la-recherche-developpement-et-linnovation-2025-2028) | Advanced |
 

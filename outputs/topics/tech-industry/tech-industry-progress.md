@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: 66c2e031fe2e
+record: 205a1e4f8469
 ---
 
 # ICT Industry: progress report, 2025-08-01 to 2026-08-23
@@ -211,7 +211,7 @@ record: 66c2e031fe2e
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Oracle regional research and development office, Agadir | Did not exist; a Casablanca research centre was announced in June 2025 with 1,000 jobs claimed | [Office inaugurated by the head of government; no headcount, investment figure or delivery outturn published for the site](https://techreviewafrica.com/news/6122/oracle-inaugurates-regional-rd-office-in-agadir) | Advanced |
 | Renewed offshoring offer and specialised territorial hubs | Not named on file (2025-08) | [Three agreements covering a training incentive, territorial attractiveness and specialised offshoring hubs; a stated 2030 target of 270,000 jobs and nearly MAD 40bn in exports](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-signs-three-deals-to-strengthen-digital-offshoring) | Advanced |

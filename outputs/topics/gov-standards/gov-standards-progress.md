@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: gov.standards
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: b7253d4e584a
+record: 13426e2563bb
 ---
 
 # Standards: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: b7253d4e584a
 *42 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -215,7 +213,7 @@ record: b7253d4e584a
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National data classification guide | ***Baseline not held*** | [Categorises data by sensitivity, with sensitive data required to be stored domestically](https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup) | ***Baseline not held*** |
 

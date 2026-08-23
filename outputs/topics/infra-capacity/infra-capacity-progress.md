@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: infra.capacity
 places: BWA; CMR; TCD; COG; GNQ; GHA; GIN; KEN; LSO; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; TZA; ZWE; XSA
-record: 48e2c37c8879
+record: 2efa48a0f5b2
 ---
 
 # Technical Capacity: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: 48e2c37c8879
 *21 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 
@@ -79,7 +77,7 @@ record: 48e2c37c8879
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Installed national data-centre capacity | 98 MW installed (2020), the state's last measurement | [98 MW installed (2020), of which 14 MW - 14% - was outsourced; no later national figure published to 2026-08-09](https://www.cese.ma/media/2023/10/AvAs71f3-P1.pdf) | No change, no fresher national measurement published |
 

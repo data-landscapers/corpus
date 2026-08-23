@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: capacity.training
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: 0b55527d3633
+record: 347291f924ed
 ---
 
 # Training and skills: progress report, 2025-08-01 to 2026-08-23
@@ -274,7 +274,7 @@ record: 0b55527d3633
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Executive leadership programme in cybersecurity | Did not exist | [A five-day programme for senior officials of African member states, organised by the continental network of cybersecurity authorities and hosted by the general directorate for information systems security; no participant count or budget stated](https://assabah.ma/928742.html) | Advanced |
 | Ministry-Capgemini artificial-intelligence skills memorandum | Did not exist | [Covers skills-building and acculturation across administrations, universities and research centres, support to institute-backed start-ups, and public-service use cases; no sum attached](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-le-maroc-renforce-son-ecosysteme-avec-lappui-de-capgemini) | Advanced |

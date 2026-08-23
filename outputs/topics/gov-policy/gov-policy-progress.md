@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 2ea1ac759a7a
+record: addce3d4b90b
 ---
 
 # Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-23
@@ -321,7 +321,7 @@ record: 2ea1ac759a7a
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cloud First policy | Mandatory default in force; a national cloud observatory scheduled for 2027 (2025) | [Same; the observatory is not established and no later state is on record](https://northafricapost.com/92626-moroccos-cloud-first-policy-transforms-digital-governance-and-economic-strategy.html) | No change |
 | Digital Morocco 2030 | In force; stated targets include a place in the global top 50 for electronic government and 100,000 people trained by 2030 | [In force; a US$250m acceleration programme attached in June 2026; the technology sector was 6.8% of gross domestic product on a 2025 figure](https://www.trade.gov/country-commercial-guides/morocco-digital-economy) | No change |
@@ -332,7 +332,7 @@ record: 2ea1ac759a7a
 |---|---|---|---|
 | Digital Transformation and Innovation Agency | Did not exist | [Operating under the Ministry of Communications and Digital Transformation, with a remit covering interoperability of state platforms, data-centre integration, procurement of information technology and citizen-facing systems](https://www.biometricupdate.com/202603/mozambique-sets-up-agency-to-spearhead-its-digital-transformation-ambitions) | Advanced |
 | Multisectoral Technical Commission for Digital Transformation | Did not exist | [Technical body coordinating and implementing digital transformation across public administration](https://www.biometricupdate.com/202603/mozambique-sets-up-agency-to-spearhead-its-digital-transformation-ambitions) | Advanced |
-| National Cyber Security Strategy 2026-2030 | The National Cyber Security Policy and Implementation Strategy 2021-2025 in force under Resolution 69/2021 | [Under revision, adding safeguards against risks from artificial intelligence that the 2021 policy did not address, with preliminary results of the predecessor's evaluation shared with a donor partner giving technical support to the process; no adoption date, and the predecessor's period ended in 2025](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/) | Advanced, not adopted |
+| National Cyber Security Strategy 2026-2030 | The National Cyber Security Policy and Implementation Strategy 2021-2025 in force under Resolution 69/2021, six pillars and 25 projects to 2025 | [Under revision, adding safeguards against risks from artificial intelligence that the 2021 policy did not address, with preliminary results of the predecessor's evaluation shared with a donor partner giving technical support to the process; no adoption date, and the predecessor's period ended in 2025](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/) | Advanced, not adopted |
 | National Data Governance Policy, Strategy and Action Plan | No national data strategy and no data regulatory authority; government entities followed their own data policies and procedures, with oversight implied across INTIC, INCM, INAGE and CEDSIF (2025-04 to 2025-06) | [Zero Draft 2 is drafted as a Council of Ministers resolution with its number and approval date blank, proposing an independent National Data Governance Council of 11 to 17 members with expert seats appointed by presidential decree subject to a two-thirds confirmation vote of the National Assembly, sitting alongside a national data protection authority the law has not yet created, with four data classification tiers and a jurisdiction claim over data affecting Mozambican citizens and entities wherever located; stated as aligned to the African Union Data Policy Framework of 2022 and integrated into the Five-Year Government Programme 2025-2029; not approved](https://techafricanews.com/2025/12/05/mozambique-prioritizes-data-governance-as-cornerstone-of-digital-sovereignty/) | Advanced, not adopted |
 | National Digital Transformation Strategy | Government drafting a digital transformation strategy, no text published (2025-07) | [Drafting formally launched at the National Conference on Digital Transformation; the ITU reports more than 700 stakeholders engaged across six regional consultations and validation workshops, and the World Bank recorded on 2026-01-16 that the strategy work under its own project had been deprioritised against the ministry's stated preference for implementation over new policy documents; no published strategy at 2026-08-09](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) | No change, in drafting at both ends |
 
@@ -357,7 +357,7 @@ record: 2ea1ac759a7a
 
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| Payments System Vision 2028 | Did not exist | [A three-year horizon from 2025 baselines of ₦1.2 quadrillion in electronic transactions, carrying 2028 targets of 95% financial inclusion, 5m QR merchant outlets and a 70% cut in fraud losses](https://www.cbn.gov.ng/Out/2026/CCD/Nigeria%20Payments%20System%20Vision%202028.pdf) | Advanced |
+| Payments System Vision 2028 | Did not exist | [A three-year horizon from 2025 baselines of ₦1.2 quadrillion in electronic transactions, carrying 2028 targets of 95% financial inclusion, 5m QR merchant outlets and a 70% cut in fraud losses](https://www.cbn.gov.ng/PaymentsSystem/PSV2028.html) | Advanced |
 | National DPI framework and the 2027 services target | In development (2025-03) | [Still in development against a 2027 target](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-unveils-plan-for-unified-digital-services-by-2027) | No change |
 | Presidential Committee on DPI Implementation | Constituted (2025-05) | [Operating](https://www.thisdaylive.com/2025/05/28/fg-inaugurates-presidential-committee-on-implementation-of-digital-public-infrastructure/) | No change |
 
@@ -414,7 +414,7 @@ record: 2ea1ac759a7a
 |---|---|---|---|
 | Multi-agency response to mobile-money fraud | Did not exist | [Validated as a National Roadmap to Combat Mobile and Digital Fraud, on three pillars - public education, institutional strengthening and better data - with the text unpublished](https://techafricanews.com/2026/08/20/sierra-leone-validates-national-roadmap-to-tackle-mobile-and-digital-fraud/) | Advanced |
 | National Data Protection Policy | Did not exist | [Approved, covering collection, processing, storage and sharing of personal data; the text itself is not published (2026-04)](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Advanced |
-| National Data Strategy | Updated and aligned to the African Union Data Policy Framework (2025) | [No implementation report, institutional owner or review date published since (2026-08)](https://dial.global/work/strengthening-national-data-strategy-sierra-leone) | No change |
+| National Data Strategy | Updated and aligned to the African Union Data Policy Framework (2025) | [The strategy document itself, dated January 2023 and issued by the information and communications ministry, is now held; no implementation report, institutional owner or review date has been published since (2026-08)](https://mocti.gov.sl/wp-content/uploads/2024/12/Sierra-Leone-National-Data-Strategy_2023_v1.pdf) | No change |
 
 ## Somalia
 

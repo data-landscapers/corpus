@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2026-07-01 to 2026-08-23
 subject: dpi.registry
 places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1f9ef8e68b86
+record: 23e01595ce17
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
@@ -102,7 +102,7 @@ The register moved without the electorate changing. The electoral support office
 
 ## Kenya
 
-The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the base currently has no instrument for. Nothing is settled: it is a bill, with no enactment date, hosting arrangement or access rule on record.
+The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the base currently has no instrument for. The Bill itself is now on file, [gazetted on 24 July 2026 as National Assembly Bills No. 53](https://www.parliament.go.ke/sites/default/files/2026-08/THE%20KENYA%20NATIONAL%20QUALIFICATIONS%20FRAMEWORK%28AMENDMENT%29%20BILL%2C2026.pdf). Nothing is settled beyond that: it is a bill, with no enactment date, hosting arrangement or access rule on record.
 
 ## Liberia
 

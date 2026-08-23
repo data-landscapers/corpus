@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 7aee951eba6d
+record: fec3bc6674dd
 ---
 
 # AI: progress report, 2025-08-01 to 2026-08-23
@@ -297,7 +297,7 @@ record: 7aee951eba6d
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | AI Made in Morocco roadmap | An "AI first" posture described as emerging alongside the cloud policy (2025, year precision) | [Named at the ministry’s national "AI Made in Morocco" event on 2026-01-12, framed there as consolidating Maroc IA 2030, and repeated at subsequent signings; no published text at 2026-08-09; a trade-press account (2026-01-30) describes ten programmes: trust (Digital X.0 law, framework 2025-26, certification 2027, alignment 2029-30), infrastructure (Move to Cloud 2025-27, 50MW+Benguerir data centre, 500MW green campus), data/interoperability (digital commons platform, 20-API library, once-only), skills (YouCode, Master AI Junior, JobInTech, 2,500 to 14,000 trained), and a national Darija/Amazigh LLM at alpha stage; still no ministry-published document](https://techafricanews.com/2026/03/11/ministry-of-digital-transition-and-administration-reform-highlights-ais-role-in-digital-transformation/) | Advanced |
 | Al-Jazari institutes network | Two regional protocoles d'accord signed - Guelmim-Oued Noun 2025-04-14 and Nador 2025-07-02 - with no statute, budget, site or opening date (2025-08) | [A founding institute, JAZARI ROOT, launched 2026-01-12, and four regional or thematic institutes constituted by protocole or founding agreement - Guelmim-Oued Noun (2025-04-14), Nador (2025-07-02), artificial intelligence and energy transition at Dakhla (2025-11-18) and industry at Fez (2026-03-11); no statute, legal form, campus, budget, governance structure or intake published](https://techafricanews.com/2026/03/11/ministry-of-digital-transition-and-administration-reform-highlights-ais-role-in-digital-transformation/) | Advanced |

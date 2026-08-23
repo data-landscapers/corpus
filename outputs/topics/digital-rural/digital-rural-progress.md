@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: digital.rural
 places: BDI; CAF; COG; EGY; SWZ; GIN; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; SLE; TGO; ZMB; ZWE
-record: 1bffb9091e04
+record: 43509f4a3b0d
 ---
 
 # Rural digital data capture: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: 1bffb9091e04
 *18 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 
@@ -74,7 +72,7 @@ record: 1bffb9091e04
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Mobile identity enrolment units | 80 units, more than 130,000 citizens served (2024) | [Same; no later figure held](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024) | No change |
 | Registry extension to rural and remote areas | Extension via digital and remote applications, targets stated (2024-12) | [Same; the end-2024 target date has passed with no delivery or coverage figure held](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems) | No change |

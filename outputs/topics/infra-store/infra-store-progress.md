@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: infra.store
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: 65020b9e6e6e
+record: 2889d7a10404
 ---
 
 # Data Storage: progress report, 2025-08-01 to 2026-08-23
@@ -273,7 +273,7 @@ record: 65020b9e6e6e
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Icudar Dakhla green data centre | Did not exist | [Planned as a green data-centre campus at Dakhla under the Igoudar Numerique programme, with one part for the kingdom's sovereign digital needs and another open to private investment; feasibility studies were launched in April 2026 and no capacity, cost, operator or commissioning date is held](https://northafricapost.com/99498-moroccos-ai-and-data-center-ambitions-take-shape-amid-growing-digital-investment.html) | Advanced |
 | Local-storage requirement for sensitive data (2021 law) | Not held | [Article 11 mandates exclusive national hosting of sensitive data; article 12 sets outsourcing conditions; article 49 sets a fine of MAD 200,000-400,000 (doubled on repeat); article 53 defers force to implementing texts; 'donnees sensibles' is defined only in the unheld decret 2-15-712](https://www.anrt.ma/sites/default/files/2022-02/loi_05-20_cybersecurite_fr.pdf) | Advanced |
@@ -333,7 +333,7 @@ record: 65020b9e6e6e
 | MTN Sifiso Dabengwa data centre | Live (2025-07) | [4.5 MW Tier III, 780 racks and a naira-priced cloud](https://techpoint.africa/news/mtn-largest-data-centre/) | No change |
 | Open Access Data Centres Lagos expansion | In build (2025-03) | [To 24 MW by 2027, about US$240m](https://techafricanews.com/2025/03/24/open-access-data-centres-to-expand-lagos-facility-to-24mw-by-2027/) | No change |
 | Visa Nigeria data centre | Planned (2025-03) | [Planned](https://www.wearetech.africa/en/fils-uk/news/visa-plans-to-establish-data-centre-in-nigeria-expands-1-billion-investment-portfolio) | No change |
-| Commercial data-centre estate | ***Baseline not held*** | [About 26 facilities, 50-56 MW live against about 124 MW installed (2026-07)](https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center/) | ***Baseline not held*** |
+| Commercial data-centre estate | ***Baseline not held*** | [About 26 facilities, 18 of them commercial colocation, carrying about 50-56 MW of declared live IT capacity and rising to about 124 MW only when operators' design specifications are counted (2026-07); an independent research house measuring capacity active, under lease or readily available for lease puts it at about 28 MW across about 15 live facilities, against about 80 MW at full build and 45 MW in construction (2026-01)](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/) | ***Baseline not held*** |
 | Dependence on foreign public cloud platforms | Baseline not held | [More than 85% of Nigerian workloads on public clouds; 22% of the 1,000 most-accessed sites hosted locally, against a 34% sub-Saharan average (2026-08)](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl) | ***Baseline not held*** |
 
 ## Rwanda

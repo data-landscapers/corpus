@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: 23d1fadf42f1
+record: ea1a80aa39c3
 ---
 
 # Other GovTech and e-Gov: progress report, 2025-08-01 to 2026-08-23
@@ -20,7 +20,7 @@ record: 23d1fadf42f1
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Apostille e-legalisation platform | Planned on Hague accession (2025-08-25) | [Live; recognition claimed in about 126 states](https://www.elmoudjahid.dz/fr/actualite/legalisation-des-documents-destines-a-l-etranger-l-apostille-desormais-accessible-en-ligne-255359) | Advanced |
-| Dzair Digital Services national portal (single window) | Did not exist | [27 services live against targets of 62 by end-2027 and 350 by 2028, six energy-sector services having been integrated in coordination with the energy ministry](https://www.aps.dz/fr/algerie/education-et-technologie/mt1zgj3g-integration-de-six-nouveaux-services-numeriques-relatifs-au-secteur-de-l-energie) | Advanced |
+| Dzair Digital Services national portal (single window) | Did not exist | [27 services live against targets of 62 by end-2027 and 350 by 2028, six energy-sector services having been integrated in coordination with the energy ministry on 2026-08-20: E-SANED and ILTIMESS from the electricity and gas regulator, Fatourati, the national utility's electronic payment service and e-Taqaty, and E-Tarcheed](https://algerie-eco.com/2026/08/21/portail-national-des-services-numeriques-integration-de-six-nouveaux-services-numeriques-relatifs-au-secteur-de-lenergie/) | Advanced |
 | Ministry of Labour single portal for social-security services | No single portal on record | [235 services; 97% document digitisation (2026-04), ministry-reported](https://www.algerie360.com/50-de-demarches-numeriques-supplementaires-dici-decembre-2026-sengage-saihi/) | Advanced |
 | Services-import platform (services.mcepe.gov.dz) | Did not exist | [In operation from 2026-08-01 as the exclusive route for services-import applications](https://www.echoroukonline.com/وزارة-التجارة-الخارجية-تطلق-منصة-رقمي) | Advanced |
 | Bawabatak public-services portal | ***Baseline not held*** | [342 services; its relationship to the newer Dzair portal is not stated](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-launches-dzair-services-to-centralize-public-digital-platforms) | ***Baseline not held*** |
@@ -32,7 +32,7 @@ record: 23d1fadf42f1
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital transition agenda | 214 structuring projects | [218 structuring projects across six objectives and seven axes, coordinated by a modernisation institute under the presidency](https://angop.ao/noticias/economia/ministro-defende-reorganizacao-da-administracao-publica-para-modernizacao-do-estado/) | Advanced |
-| Integrated digital transformation programme for public finances | Did not exist | [A programme authorised by presidential order as a direct award, covering modernisation of finance ministry services on advanced technology and a restructuring of state bodies, framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/) | Advanced |
+| Integrated digital transformation programme for public finances | Did not exist | [A programme authorised by presidential order as a direct award, covering modernisation of finance ministry services on advanced technology and a restructuring of state bodies, framed as raising revenue collection and cutting bureaucracy. Its value is not established: the earlier of the two accounts, whose reporter says he saw the presidential order, gives three different figures in one article](https://valoreconomico.co.ao/artigo/pr-autoriza-2-5-milhoes-de-dolares-para-digitalizar-ministerio-das-financas) | Advanced |
 | Mandatory electronic invoicing | Decreed but not in force, with the start date postponed | [Mandatory for large taxpayers and state suppliers, extending to all registered taxpayers within twelve months, on certified software with real-time transmission and a standard audit format; more than 500 packages registered and 21 certified](https://novojornal.co.ao/economia/detalhe/agt-comeca-a-aplicar-facturacao-electronica-em-1-de-janeiro-de-2026-68608.html) | Advanced |
 | Public key infrastructure | Announced in June 2025 as a ministerial intention, nothing contracted and no legal basis | [Contracted as a component of the US$150m project, with the tax authority already running mandatory electronic invoicing on it in practice](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/) | Advanced |
 
@@ -203,7 +203,7 @@ record: 23d1fadf42f1
 |---|---|---|---|
 | Eswatini Revenue Service TaxPal | Did not exist | [In service](https://independentnews.co.sz/14361/science-technology/eswatini-launches-new-apps-to-ease-access-to-government-services/) | Advanced |
 | Google Cloud EMEA memorandum | Signed on or before January 2025, unacknowledged in public | [Established as a cloud-services and e-government framework, not a monetisation deal; no value or term published](https://independentnews.co.sz/42282/business/former-minister-defends-google-mou-calls-for-calm-in-cabinet/) | Advanced |
-| Government In Your Hand citizen application | Launched May 2025, with a reporter able to locate public data on it six weeks later | [In service, ahead of the digital identity and public-key infrastructure it was to rest on](https://independentnews.co.sz/14361/science-technology/eswatini-launches-new-apps-to-ease-access-to-government-services/) | Advanced |
+| Government In Your Hand citizen application | Launched May 2025, with a reporter able to locate public data on it six weeks later | [In service, ahead of the digital identity and public-key infrastructure it was to rest on](https://www.eswatiniobserver.com/pm-denies-firing-ict-minister/) | Advanced |
 | Auditor-General strategic plan 2026-2030 | Not held | [Launched with artificial intelligence and digital transformation named as the route to stronger public-sector accountability, urging more than 80 audit officers to adopt them, and developed with support from the INTOSAI Development Initiative and the African organisation of English-speaking supreme audit institutions](https://techafricanews.com/2026/08/17/eswatini-auditor-general-urges-oag-staff-to-embrace-ai-and-digital-transformation/) | ***Baseline not held*** |
 | National e-Government Strategy | Baseline not held | [Assessment endorsed; no strategy published](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) | ***Baseline not held*** |
 
@@ -381,7 +381,7 @@ record: 23d1fadf42f1
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Administrative certificates abolished under law 55.19 | Not held (2025-08) | [22 certificates abolished and replaced by sworn declarations](https://en.hespress.com/142557-morocco-abolishes-22-administrative-certificates-to-streamline-public-services.html) | Advanced |
 | Court of Cassation portal | In service as the portal lawyers use to track rulings | [Offline for more than a week with no official explanation, as the courts increasingly rely on digital portals for tracking rulings](https://www.alnahar.ma/121842.html) | Regressed |
@@ -608,4 +608,4 @@ record: 23d1fadf42f1
 
 | Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| Strengthening Tax Administration Capacity Project | Did not exist | [A regional tax administration forum project launched on a grant of 4 million units of account, reported as about US$5.3m, from a development fund's transition support facility](https://inprofiledailynews.com/wataf-launches-afdb-financed-us5-3m-project/) | Advanced |
+| Strengthening Tax Administration Capacity Project | Did not exist | [A regional tax administration forum project financed by a US$5.52m grant from a development fund's transition support facility, with implementation running to 30 July 2030 under a forum-hosted project implementation unit and a multi-stakeholder steering committee](https://www.afdb.org/en/news-and-events/press-releases/african-development-fund-provide-552-million-grant-west-african-tax-administration-forum-boost-domestic-revenue-mobilization-91508) | Advanced |

@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2026-07-01 to 2026-08-23
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; UGA; ZWE
-record: 39a77d67292e
+record: 449b2ebfa8a3
 ---
 
 # Data Storage: monthly update, July 2026
@@ -136,7 +136,7 @@ A vendor is building smart-city solutions and a data centre with the ICT and hom
 
 ## Nigeria
 
-A Lagos cloud region [entered service on 10 August](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/), the third on its operator's platform alongside Lisbon and Johannesburg and presented around data residency since the Nigeria Data Protection Act took effect — three legal jurisdictions carried on one platform. It joins [about 26 facilities carrying 50 to 56 MW live against some 124 MW installed](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/), Africa's second-largest market after South Africa at about 15% of continental capacity, most of it in Lagos.
+A Lagos cloud region [entered service on 10 August](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/), the third on its operator's platform alongside Lisbon and Johannesburg and presented around data residency since the Nigeria Data Protection Act took effect — three legal jurisdictions carried on one platform. It joins [about 26 facilities carrying 50 to 56 MW live](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/), a figure that [reaches some 124 MW only when operators' design specifications are counted rather than declared capacity](https://insights.techcabal.com/can-nigerias-data-centres-power-africas-ai-future/), Africa's second-largest market after South Africa at about 15% of continental capacity, most of it in Lagos.
 
 The state put its own instrument behind the same argument on 5 August, [signing the regulatory framework for a National Sovereign Cloud Initiative with the state-owned Galaxy Backbone](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl), setting policy, technical and quality requirements for hosting government and business services in the country. It excludes nobody: the stated ask of Google, Microsoft and Amazon is a clearer path to local deployment. The dependence it is aimed at is [more than 85% of national workloads running on public clouds, and 22% of the thousand most-visited sites hosted in Nigeria against a sub-Saharan average of 34%](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl).
 

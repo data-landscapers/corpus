@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; COD; EGY; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MAR; NAM; NER; RWA; STP; SEN; SYC; ZAF; TZA; TGO; UGA; ZMB; ZWE; XWA
-record: 1701ff5ab052
+record: 5b5ec75c982c
 ---
 
 # Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: 1701ff5ab052
 *31 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
@@ -128,7 +126,7 @@ record: 1701ff5ab052
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Law 55.19 on procedural simplification | ***Baseline not held*** | [In force, but the ombudsman's 2025 report finds agencies still asking for paper copies of documents already held electronically and imposing undisclosed extra conditions](https://nichan.ma/361721/) | ***Baseline not held*** |
 | Public debate on platform regulation and digital sovereignty | Baseline not held | [Specialists arguing for a law defining platform responsibilities and notice-and-response mechanisms, and against blanket blocking or breaking encryption (2026-08)](https://www.hespress.com/%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b3%d8%a8%d8%aa%d8%a9-%d8%aa%d8%a4%d9%83%d8%af-%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-1792419.html) | ***Baseline not held*** |

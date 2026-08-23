@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 60d4b5ccd09e
+record: c8ca780d79e3
 ---
 
 # Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-23
@@ -338,7 +338,7 @@ record: 60d4b5ccd09e
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Biometric passport decree 2.26.551 | The 2008 decree regime; address on the biodata page; temporary passports issued | [Four languages including Amazigh, an encrypted chip to international civil aviation standard, the address removed and temporary passports abolished; the current format continues during a transitional period](https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html) | Advanced |
 | Idarati X.0 national digital wallet | Did not exist | [Eight conventions signed and two vendors engaged on architecture; a six-month build stated; binds the social security fund, the road safety agency, the land registry, transport and youth and culture on a card-authenticated core](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-strengthens-e-government-architecture-with-idarati-x-0) | Advanced |
@@ -511,6 +511,7 @@ record: 60d4b5ccd09e
 | e-Houwiya mobile identity | Live and voluntary, at 200,000 subscribers as of March 2025, with no legal obligation to hold one (2025-08) | [Compulsory for investment-project declarations and for access to the business register from 1 July 2026; no subscriber figure has been published since March 2025 (2026-07)](https://techafricanews.com/2026/06/26/tunisia-makes-mobile-id-mandatory-for-investment-project-declarations/) | Advanced |
 | Identity and travel documents issued through digital services | No published issuance series | [Mobile electronic counters aboard two ferries issued several thousand passports at sea to the returning diaspora, and expatriate-support offices on national territory issued 10,609 official documents](https://www.lapresse.tn/2026/08/18/modernisation-administrative-les-services-numeriques-du-m-i-accelerent-la-delivrance-des-passeports-et-des-pieces-didentite/) | Advanced |
 | National Health Identifier | Did not exist | [In pilot in university hospitals since June 2026, bound to the national identity card, the social security number and school and university identifiers; over 15,000 numbers issued as at 22 June 2026 and roughly 100,000 medical files linked as at 27 July 2026 (2026-07)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109) | Advanced |
+| Identifiant Social Unique (social identifier system) | Baseline not held | [Government decided at a ministerial session on 18 August 2026 to upgrade the social identifier system, digitise social-security cards and services, process claims instantaneously and put interconnected systems in place for real-time data exchange between the social funds, health structures and insured persons, with drafting of the structural-reform texts to begin immediately. No drafting timetable, legal basis for the identifier or scope definition is stated](https://www.pm.gov.tn/ar/article/mjls-wzary-19) | ***Baseline not held*** |
 
 ## Uganda
 

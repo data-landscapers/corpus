@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2026-07-01 to 2026-08-23
 subject: gov.legislate
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 334293f72840
+record: e2b8f72b6cf6
 ---
 
 # Legislation and regulation: monthly update, July 2026
@@ -240,7 +240,7 @@ Mobile-money fraud reached Parliament. A legal analysis of 23 July found the [Na
 
 ## South Africa
 
-The Electronic Communications Amendment Bill was published, [exempting community networks from licensing](https://www.apc.org/en/news/how-community-connectivity-pioneers-are-changing-south-africas-digital-policy-and-regulation) and mandating spectrum sharing; submissions close on 21 August.
+The Electronic Communications Amendment Bill was published, [exempting electronic communications network services provided on a not-for-profit basis from licensing](https://www.parliament.gov.za/storage/app/media/Bills/2026/B12-2026_Electronic_Communications_AB.pdf) and mandating spectrum sharing; the committee [extended written submissions on 20 August to 16:00 on 21 September](https://www.parliament.gov.za/press-releases/communications-committee-extends-deadline-public-input-electronic-communications-amendment-bill).
 
 The minister [backed the regulator](https://www.itweb.co.za/article/malatsi-backs-consumer-sentiment-on-data-expiry-debate/RgeVDMPRkPJvKJN3) in the review application brought by the two largest mobile operators against the data bundle roll-over rules. The Angolan kwanza became the [second settlement currency on the SADC real-time system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system), the first addition since 2013.
 

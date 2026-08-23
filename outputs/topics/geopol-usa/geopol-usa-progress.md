@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: geopol.usa
 places: AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MUS; MAR; MOZ; NAM; NGA; SEN; SSD; UGA; ZMB; ZWE; XAF
-record: 6a048905c230
+record: 936687e6494c
 ---
 
 # US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: 6a048905c230
 *28 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -91,6 +89,7 @@ record: 6a048905c230
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Google partnership with Eswatini | Signed on or before January 2025; workspace, AI, digital addressing and youth skills | [Operating and publicly acknowledged; no value or term published](https://www.times.co.sz/news/readmore.php?bhsadjgfoh=Eswatini%E2%80%99s+digital+progress+earns+continental+spotlight&yiphi=4446&bvhdgsj=News) | Advanced |
+| US-Eswatini specimen sharing agreement | Did not exist | [A ten-year agreement under which Eswatini shares specimens, samples, sequencing data and any other associated data on novel and emerging infectious diseases within seven days of a United States request, consents to those specimens and data being passed to up to ten non-US-Government United States entities, and accepts that failure to share could change or discontinue the assistance planned under the underlying memorandum of understanding of 11 December 2025. Either party may terminate on six months' notice, and termination by Eswatini does not affect use of anything already shared](https://www.citizen.org/wp-content/uploads/64101-Eswatini-Health-Specimen-Sharing-Agreement-12.12.2025.pdf) | Advanced |
 
 ## Gabon
 
@@ -132,7 +131,7 @@ record: 6a048905c230
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | United States-Morocco Agreement on Scientific and Technical Cooperation | In force under the 2006 agreement as extended by the 2023 protocol | [In force; the protocol's signed pages carry no text layer, so its operative terms and its term of years are not established](https://www.state.gov/morocco-23-728/) | No change |
 

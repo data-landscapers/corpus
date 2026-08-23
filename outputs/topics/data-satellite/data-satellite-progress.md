@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: data.satellite
 places: DZA; AGO; BWA; BFA; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; LBR; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
-record: 548c71a4e542
+record: 50a4fba5c0e9
 ---
 
 # Use of satellite data: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: 548c71a4e542
 *26 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -111,7 +109,7 @@ record: 548c71a4e542
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National earth-observation data programme | Not held | [Mohammed VI A and B satellites (launched 2017, 2018), operated by the Royal Centre for Remote Sensing; earth-observation applications named in water, land use, agriculture and disaster management](https://www.unoosa.org/documents/pdf/copuos/2024/statements/9_Morocco.pdf) | Advanced |
 

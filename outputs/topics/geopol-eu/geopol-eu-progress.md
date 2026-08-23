@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: geopol.eu
 places: DZA; BWA; BFA; CPV; CAF; COM; COG; EGY; GHA; GIN; KEN; MLI; MAR; NAM; NER; NGA; UGA; XAF
-record: 1423326ca061
+record: 299616107e47
 ---
 
 # EU activities: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: 1423326ca061
 *18 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -91,7 +89,7 @@ record: 1423326ca061
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Council of Europe Convention 108 accession | In force; ratified 2019 | [In force; ratified 2019](https://rm.coe.int/16806fdcb3) | No change |
 | European Union adequacy decision for Morocco | No adequacy decision; an intention to seek one reported during 2025 | [No adequacy decision; the Commission's list names sixteen jurisdictions plus one international organisation, none in Africa](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) | No change |

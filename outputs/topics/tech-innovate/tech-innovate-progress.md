@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: tech.innovate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SOM; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: fffd8501b936
+record: a86c9da64192
 ---
 
 # Innovation ecosystem: progress report, 2025-08-01 to 2026-08-23
@@ -226,7 +226,7 @@ record: fffd8501b936
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Artificial-intelligence start-up programme with a technology park | Did not exist | [Announced, offering cloud, connectivity, cybersecurity and business use cases to artificial-intelligence start-ups; no cohort, intake or budget published](https://techafricanews.com/2026/04/09/orange-maroc-partners-technopark-to-accelerate-ai-and-digital-transformation/) | Advanced |
 | Start-ups listed in the digital development agency's database | 1,028 entries (2025-01-03), the latest published (2025-08) | [1,028 entries (2025-01-03), the union of four listing exercises; no later release published to 2026-08-09](https://data.gov.ma/data/dataset/donnees-sur-les-startups) | No change, no fresher release published |

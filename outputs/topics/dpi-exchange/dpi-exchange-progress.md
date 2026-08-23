@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 472c0817660a
+record: f4a4585c6ed2
 ---
 
 # Data Exchange: progress report, 2025-08-01 to 2026-08-23
@@ -199,6 +199,7 @@ record: 472c0817660a
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Advanced Cargo Declaration system | Did not exist | [In service, moving document lodgement and verification to before loading at the port of export; more than 1,000 applications in the first five days](https://citizen.digital/article/kra-kpa-roll-out-smart-gate-pilot-cargo-system-at-mombasa-port-to-reduce-delays) | Advanced |
+| AfCFTA ADAPT cross-border DPI pilot | Did not exist | [One of the first three countries selected to implement shared cross-border rails for identity, payments and trusted data exchange, chosen on a two-stage assessment of political commitment, regulatory alignment, technical capacity, private-sector engagement and the maturity of national digital systems](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) | Advanced |
 | Smart Gate, Port of Mombasa | Did not exist | [Piloting at one gate, integrating the Integrated Customs Management System with the systems of other government agencies; no cost, vendor, timetable or evaluation criterion published](https://citizen.digital/article/kra-kpa-roll-out-smart-gate-pilot-cargo-system-at-mombasa-port-to-reduce-delays) | Advanced |
 | Digital Health (Data Exchange Component) Regulations 2025 | In force from 2025-04-11 | [In force, designating the shared resources of the national health data exchange — the national health data dictionary, client registry, facility registry, health worker registry, the Kenya Health Enterprise Architecture and the national logistics management information system — as critical information infrastructure, and making onboarding and access to those registries fee-bearing; the Health Cabinet Secretary stated on 2026-08-04 that the charge is 2% of each transaction capped at KSh 5,000, payable to the Digital Health Agency](https://new.kenyalaw.org/akn/ke/act/ln/2025/77/eng@2025-04-11) | No change |
 | Development Partners Management Information System | Not held | [Being rolled out by the National Treasury to consolidate data on development-partner commitments, disbursements and funded programmes for planning and oversight, with launch expected before the end of 2026](https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds) | ***Baseline not held*** |
@@ -255,8 +256,9 @@ record: 472c0817660a
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
+| AfCFTA ADAPT cross-border DPI pilot | Did not exist | [One of the first three countries selected to implement shared cross-border rails for identity, payments and trusted data exchange, chosen on a two-stage assessment of political commitment, regulatory alignment, technical capacity, private-sector engagement and the maturity of national digital systems](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) | Advanced |
 | Continental cross-border data exchange pilot | Did not exist; the system was launched November 2025 | [Morocco one of three pilot states, on a distributed-ledger reference architecture owned by the continental trade secretariat](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Advanced |
 | National water digital twin | Did not exist | [A three-layer design resting on a sovereign national data platform hosted in Morocco, fusing sensor networks, satellite observation and data from the basin agencies, the planning commission and engineering consultancies; to be hosted in an engineering school's forthcoming scientific tower](https://medias24.com/2026/07/28/jumeau-numerique-de-leau-ce-quil-faut-savoir-sur-ce-pillier-du-pole-tec-1732383/) | Advanced |
 | Cross-border data exchange guidelines | Drafting convened under Morocco's chairmanship of the continental agency council (2025-07) | [No published guidelines on record at 2026-08-06](https://smartafrica.org/smart-africa-mobilises-11-member-states-in-the-kingdom-of-morocco-to-co-create-africas-first-cross-border-data-exchange-guidelines) | No change |

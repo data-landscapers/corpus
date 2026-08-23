@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: finance.mou
 places: DZA; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MWI; MRT; MAR; RWA; SEN; SYC; SSD; TZA; TGO; UGA; ZMB; ZWE; XAF
-record: 605a8f2fed62
+record: 76684e0a1838
 ---
 
 # MoUs and other agreements: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: 605a8f2fed62
 *31 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -149,7 +147,7 @@ record: 605a8f2fed62
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Ministry-Orange artificial-intelligence memorandum | Did not exist | [Signed at a second artificial-intelligence summit; advances the institutes programme; no sum attached](https://techafricanews.com/2026/06/05/morocco-signs-ai-partnership-with-orange-morocco-to-advance-digital-transformation/) | Advanced |
 | Private 5G platform agreement and laboratory | Did not exist | [A vendor to supply a private 5G platform for an operator laboratory, with a catalogue targeting smart logistics, utilities and energy; no sum attached](https://techafricanews.com/2026/04/08/orange-maroc-and-ericsson-strengthen-collaboration-on-africas-digital-transformation/) | Advanced |

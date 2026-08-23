@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: finance.new
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: d3c98ba5c4e3
+record: 416f9305fe82
 ---
 
 # New investments: progress report, 2025-08-01 to 2026-08-23
@@ -142,7 +142,7 @@ record: d3c98ba5c4e3
 
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| TRANSFORME Lobito corridor additional financing | Did not exist | [A US$200m IDA additional financing for extending the TRANSFORME enterprise project into the Lobito corridor, its loan agreement concluded 22 June 2026 and its ratifying ordinance-law adopted in draft by the Council of Ministers](https://www.transforme.cd/activities/le-gouvernement-adopte-un-financement-additionnel-de-200-millions-usd-pour-l-extension-du-projet-transforme-dans-le-corridor-de-lobito) | Advanced |
+| TRANSFORME Lobito corridor additional financing | Did not exist | [A US$200m IDA additional financing for extending the TRANSFORME enterprise project into the Lobito corridor, made up of a US$176m credit and a US$24m credit, its loan agreement concluded 22 June 2026 and its ratifying ordinance-law adopted in draft by the Council of Ministers. The parent project was approved in 2022 at US$300m, taking TRANSFORME to US$500m](https://documents.worldbank.org/curated/en/099060526154572645/text/BOSIB-992e76f7-bedd-4226-9863-3c1f693154cc.txt) | Advanced |
 
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
@@ -299,7 +299,7 @@ record: d3c98ba5c4e3
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital Transformation Acceleration Program | Did not exist | [US$250m over five years (MAD 2.34bn at the reporting outlet's 2026-07-22 conversion); conditions for entry into force outstanding](https://www.worldbank.org/en/news/press-release/2026/06/12/two-new-programs-to-advance-morocco-s-digital-transformation-and-climate-resilience) | Advanced |
 | Insurance technology and inclusion programme | Did not exist | [XDR 371,714.70 committed (US$508,015 at the 2026 provisional annual average rate), 2026-2028, executed by the insurance supervisor; total cost US$680,000 of which US$510,000 is grant and US$170,000 counterpart](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MA-H00-029) | Advanced |

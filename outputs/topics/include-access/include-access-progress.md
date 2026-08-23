@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: include.access
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: 947527e1ed67
+record: 1b5fec60fa45
 ---
 
 # Access to services: progress report, 2025-08-01 to 2026-08-23
@@ -12,8 +12,6 @@ record: 947527e1ed67
 *44 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -222,7 +220,7 @@ record: 947527e1ed67
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Stratégie nationale d'alphabétisation 2023-2035 | Did not exist | [Strategy running 2023-2035 with a 2023-2027 roadmap; a digital element (strategic choice 8) is named but not established in the French-language text held; citizen-level digital literacy remains an absence](https://www.anlca.gov.ma/sites/default/files/2025-10/Strategie-nationale-d%27alphabetisation-SNA-%281%29_compressed-%281%29.pdf) | Advanced |
 | Internet-box refurbishment | ***Baseline not held*** | [6,000 boxes refurbished in Morocco in 2025 with EUR 1.5m in savings, company-reported](https://www.wearetech.africa/fr/fils/actualites/telecom/orange-a-reconditionne-164-000-box-internet-en-2025-en-afrique-et-au-moyen-orient) | ***Baseline not held*** |

@@ -4,7 +4,7 @@ compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 subject: infra.energy
 places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SLE; SSD; TUN; UGA; ZMB; ZWE
-record: df9a45fb3316
+record: c0630423be3f
 ---
 
 # Energy: progress report, 2025-08-01 to 2026-08-23
@@ -145,7 +145,7 @@ record: df9a45fb3316
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Renewable power supply agreement for the Nexus platform | Up to 500 MW contracted for the full programme (2025-06) | [Same; the ministry's April 2026 communique restates no power-supply figure and gives 36 MW cumulative capacity by end-2027](https://www.prnewswire.com/news-releases/global-consortium-led-by-nexus-core-systems-to-build-ai-factory-powered-by-500-mw-of-renewable-energy-and-next-generation-ai-compute-302485504.html) | No change |
 
