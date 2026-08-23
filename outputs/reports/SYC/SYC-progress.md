@@ -1,20 +1,20 @@
 ---
-title: Seychelles — progress report, 2025-08-01 to 2026-08-19
-compiled: 2026-08-19
-period: 2025-08-01 to 2026-08-19
+title: Seychelles — progress report, 2025-08-01 to 2026-08-23
+compiled: 2026-08-23
+period: 2025-08-01 to 2026-08-23
 place: SYC
-ledger_rows: 52
+ledger_rows: 54
 not_held: 6
-record: 8d488c127bca
+record: 206eb1793953
 ---
 
-# Seychelles: progress report, 2025-08-01 to 2026-08-19
+# Seychelles: progress report, 2025-08-01 to 2026-08-23
 
-*Compiled 2026-08-19 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 52 systems and instruments on this place's ledger, 28 changed position between 2025-08-01 and 2026-08-19, 11 did not, 7 carry no stated baseline, and 6 are ***Not held*** at both ends.*
+*Of 54 systems and instruments on this place's ledger, 30 changed position between 2025-08-01 and 2026-08-23, 11 did not, 7 carry no stated baseline, and 6 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 36 sources for this place in the window — 8 in the earlier half (2025-08 to 2026-01), 28 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 40 sources for this place in the window — 8 in the earlier half (2025-08 to 2026-01), 32 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -30,7 +30,7 @@ Two rows are the exception: the Data Protection Act 2023's transition period had
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Airtel Seychelles 5G network | No 5G service; network being relocated/virtualised into new datacentre (2025-08) | [Commercial 5G live, second operator after CWS](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa) | Advanced |
 | Starlink Seychelles (satellite ISP) | Did not exist | [Live nationally, subscriptions open online, several users already active (2026-07-21/22); 28th of 54 African markets on sale](https://www.nation.sc/articles/29683/starlink-cleared-for-takeoff-in-seychelles) | Advanced |
@@ -39,13 +39,13 @@ Two rows are the exception: the Data Protection Act 2023's transition period had
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Airtel Seychelles data centre (Ericsson turnkey project) | ***Baseline not held*** | [New datacentre as infrastructure basis for the 2026 5G launch; no separate update on datacentre operations since 2021](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Budapest Convention on Cybercrime accession | Did not exist | [Assembly vote passed unanimously; the accession itself, an executive act, still to follow](https://www.nation.sc/articles/31614/assembly-approves-accession-to-budapest-convention-on-cybercrime) | Advanced |
 | National Cybersecurity Coordination Committee | ***Baseline not held*** | [Active as national cyber-coordination body; one documented activity](https://nation.sc/articles/26060/from-headlines-to-algorithms-media-practitioners-explore-ai-with-nccc-and-amps) | ***Baseline not held*** |
@@ -58,20 +58,20 @@ Seychelles gained two networks in the window that did not exist at its opening: 
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Seychelles–AfCFTA–Quest Ghana digital-trade-hub MoU | Did not exist | [MoU established; signing date, venue and terms not established (paywalled lede)](https://www.nation.sc/articles/29842/seychelles-set-to-become-digital-trade-hub-of-afcfta) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | CertExpress (online civil-status certificates) | Live, SCR 50 fee (as stated at launch) | [Unchanged; fee not re-verified since 2024-09](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | No change |
 | SeyID national digital-identity platform | Two-tier structure already in place (2025-08): virtual-only for new work-permit holders since 17 Sep 2024, physical option retained for citizens | [Unchanged; no enrolment or adoption figures ever reported](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | No change |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cheque phase-out (Central Bank of Seychelles, four-stage schedule) | Individual-facing stages running; non-resident stages not yet reached (2025-08) | [SRC introduced cheque thresholds for tax/duties (eff. 13 Jul 2026) as part of a plan to discontinue cheques entirely by 31 Dec 2028](http://www.seychellesnewsagency.com/articles/21244/seychelles-to-phase-out-cheques-for-financial-transactions-from-2025) | Advanced |
 | Foreign Exchange Act 2009 amendment (authorised-dealer perimeter) | Did not exist | [Cabinet approval only; no Bill text, commencement date or transitional provision on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
@@ -81,32 +81,39 @@ Seychelles gained two networks in the window that did not exist at its opening: 
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Registrar General's Office digitalisation (business registration & IP) | Digitalisation praised, unspecified reform commitment (2025-08, already the position) | [Unchanged — no named bill, no date, nothing later on record](https://www.wearetech.africa/en/fils-uk/news/public-management/seychelles-pledges-to-modernize-public-services-through-digital-transformation) | No change |
 | National Addressing and Postcode System (S42 standard) | ***Baseline not held*** | [Cabinet-approved programme run by the Postal Regulator with Lands and Housing, NBS, DICT and the AG's Office; legal framework still in drafting](https://seychellespostalregulator.com/pages/national-addressing-system) | ***Baseline not held*** |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | e-Sanjeevani / e-Office / e-Hospital (India DPI platforms) | Did not exist | [Consultations advancing as reported 2026-08-08; no MoU, pilot or date established](https://www.firstpost.com/opinion/beyond-broad-pledges-indias-tech-sovereignty-push-in-africa-and-asean-14036875.html) | Advanced |
 | Huawei/CWS SMART Education | Did not exist immediately before Aug 2025 | [Live in four schools; no scale-up reported since](https://e.huawei.com/ae/case-studies/industries/commercial-market/2025-seychelles-smart-education-solutions) | Advanced |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Ease of Doing Business one-stop portal | Did not exist | [Portal live since Nov 2025; no confirmation held that the targeted 30 Jun 2026 full rollout was reached](https://www.nrdcompanies.com/insights/seychelles-selects-nrd-companies-to-develop-new-ease-of-doing-business-portal-to-transform-investment-landscape/) | Advanced |
 | egov.sc government portal | Legacy, unrevised portal (2025-08) | [Relaunched portal, single-click access framing](https://techafricanews.com/2026/06/24/seychelles-launches-revamped-egov-portal-to-expand-digital-public-services/) | Advanced |
 | Electronic Case Management System (justice sector) | Did not exist | [Operational online platform for the AG's Office/legal sector — shared calendars, virtual meetings, case-data retrieval, secure chat; financed by the US State Department via UNODC's Global Maritime Crime Programme and UNOPS](https://statehouse.gov.sc/news/7053/president-herminie-officially-launches-electronic-case-management-system-new-digital-platform-marks-significant-step-forward-for-seychelles-legal-affairs-sector) | Advanced |
 | Electronic Certificate of Origin (e-CO) | Did not exist | [Live; traders urged to use it to claim reduced duties under trade agreements](https://www.comesa.int/seychelles-national-launch-of-the-e-co-official-statement-by-the-guest-of-honour-the-principal-secretary-for-trade-ms-natalie-edmond/) | Advanced |
 | Mandatory e-invoicing system (Seychelles Revenue Commission) | Did not exist | [Final-stage procurement; no award, vendor, go-live date or transaction threshold on record](https://www.nation.sc/articles/31652/src-moves-to-final-stage-of-einvoicing-procurement) | Advanced |
+| Social protection delivery platform | Did not exist | [A digital platform for social-protection service delivery whose development began in 2022 on a multilateral recommendation, presented to government agencies, business partners and corporate beneficiaries at a stakeholder meeting](https://nation.sc/articles/31959/asp-connect-modernises-social-protection-delivery) | Advanced |
 | Video-enforcement pilot (automated traffic ticketing, Roche Caiman) | Did not exist | [Eight-week pilot at Roche Caiman, Mahe; permanent adoption to depend on results](https://www.wearetech.africa/fr/fils/actualites/tech/les-seychelles-testent-un-systeme-de-controle-routier-par-video-verbalisation) | Advanced |
+
+### National statistics
+
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+|---|---|---|---|
+| Island states resilience data programme | Did not exist | [National implementation launched of a nine-country African island-states programme backed by a US$4.943 million readiness grant, whose data leg is a standardised approach to institutional readiness, multi-hazard risk assessment and information systems for building pipelines of climate-resilient projects](https://nation.sc/articles/31975/seychelles-advances-climate-resilience) | Advanced |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | UN COPUOS accession / UNOOSA engagement | Did not exist | [Cabinet approval only; accession process and any programme not yet on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
 
@@ -120,14 +127,14 @@ Two India-linked instruments — the UPI memorandum with the Central Bank and th
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | NISTI Act 2025 (National Institute of Science, Technology and Innovation) | Did not exist | [Assented 22 Dec 2025; commences on a date the Minister appoints — no commencement date on record](https://www.gazette.sc/sites/default/files/2025-12/Act%2024%202025%20-%20National%20Institute%20of%20Science%20Technology%20and%20Innovation%20Act.pdf) | Advanced |
 | Access to Information Act 2018 (ATIA) reform | ***Baseline not held*** | [Whitepaper published, drafting targeted end-2025; no Bill text or introduction date on record](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf) | ***Baseline not held*** |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Multidimensional Vulnerability Index (MVI) operationalisation | Did not exist | [Cabinet decision only; no implementation detail, budget or timeline on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
 | National Institute for Science, Technology and Innovation (the body) | Closed shortly after the 2020 election and its functions folded into a ministry division, which the Secretary of State describes as costing the institution its operational independence and much of its technical staff | [Reinstated as the implementation arm for science, technology and innovation policy, its Secretariat sitting under the Office of the Vice-President under a Secretary of State, with a stated near-term focus on technological innovation in government procedures and accelerating the digitalisation of public-service delivery](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) | Advanced |
@@ -135,20 +142,20 @@ Two India-linked instruments — the UPI memorandum with the Central Bank and th
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | AUDA-NEPAD Programme for African Developing Island Economies | Did not exist | [Programme launched, communique adopted; partners include Korea, AfDB, RECs, the Indian Ocean Commission](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data Protection Act 2023 (Act 24 of 2023) | Transition already elapsed and Act binding in full at the 2025-08 baseline | [Unchanged; no source reports any investigation, audit, fine or guidance issued by the Information Commission since](https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf) | No change |
 | Information Commission (data-protection authority) | ***Baseline not held*** | [Designated authority since Dec 2023; enforcement-capacity gap documented Nov 2025; no audit, investigation or fine against any controller reported to date](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf) | ***Baseline not held*** |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Appointment and dismissal power over the SBC board | Vested in the independent Constitutional Appointments Authority | [Greater powers over the appointment and dismissal of the public broadcaster's board transferred to the President by a June 2026 amendment to the SBC Act](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) | Regressed |
 | Perceived media freedom | 51% said the media was somewhat or completely free (2022) | [45% say the media is somewhat or completely free and 52% say it is not very or not at all free (2025 survey), against 78% who want the media to investigate government mistakes and corruption and 85% who back the right to publish without government interference](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) | Regressed |
@@ -161,13 +168,13 @@ The Data Protection Act's compliance transition had already elapsed by the 2025-
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National AI in Education Framework 2026–2030 | Did not exist | [Cabinet-approved, running to 2030; two World Bank pilots already running; the Framework's own text is not held](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Advanced |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Huawei vendor relationship (5G core + SMART Education) | Huawei already CWS's 5G vendor; SMART Education just beginning (2025-08) | [Unchanged — Huawei remains CWS's core vendor; no reported scale-up of SMART Education beyond the four pilot schools](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434) | No change |
 
@@ -179,13 +186,13 @@ The National AI in Education Framework is the period's single largest new object
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Public support for access to government information | Not held | [62% say the public should have access to government information against 25% who say it is for officials only; 84% want district-administration budgets published and 82% want information on bids and contracts, while 47% would publish the salaries of district administrators and teachers](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | AI Student Tutor Programme (World Bank pilot) | Did not exist | [Piloting across four schools](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Advanced |
 | AI Teacher Coach Programme (World Bank pilot) | Did not exist | [Piloting across six schools; to become integral to the national Framework as implementation proceeds](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Advanced |
@@ -198,7 +205,7 @@ Both AI pilot programmes entered the record within the window, alongside the Fra
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Hustle Fund et al. → Fusepay pre-seed | Did not exist | [Round closed; platform launched Nov 2025, Fuse360 AI layer added Jul 2026](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform) | Advanced |
 | TDB → CWS debt refinancing and digital-transformation facility | Active facility, pre-window | [Unchanged; supports CWS's eBill, self-care and online-registration platforms, and Nebula Fintech exploration](https://www.tdbgroup.org/wp-content/uploads/2024/09/TDB-Group-Sustainability-and-Development-Impact-Report-2023.pdf) | No change |
@@ -207,7 +214,7 @@ Both AI pilot programmes entered the record within the window, alongside the Fra
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Mauritius Telecom–Eboo cross-border payments | Did not exist | [Announced at the AllMyT Summit as the first of a planned series of Indian Ocean regional payment announcements; no operational detail, launch date or terms given](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) | Advanced |
 

@@ -1,16 +1,16 @@
 ---
 title: Sierra Leone — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: SLE
-ledger_rows: 37
+ledger_rows: 40
 not_held: 11
-record: 560b1508df49
+record: ce51253dda6b
 ---
 
 # Sierra Leone: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -118,10 +118,20 @@ Delivering a ministerial statement on 4 August after [MPs demanded an explanatio
 
 The multi-agency answer to mobile-money fraud got a drafting session. A two-day workshop on 18 and 19 August [brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together to draft a roadmap](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money), after parliamentary pressure over identity-theft scams on one operator's network. No roadmap, deadline or funding line has been published.
 <!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+Regional health data gained an institutional seat. The health minister [attended the inaugural board meeting of the Health Intelligence Centres for Africa in Addis Ababa with the head of the national health information hub, Sierra Leone being a founding member and sitting on the strategic advisory board](https://sierraloaded.sl/news/health-minister-represents-sierra-leone/). Founding membership is a position the base can state; what it cannot yet state is what the body will do with member states' health data, since no constitutive instrument, budget or data-sharing arrangement is published.
+<!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 The [national open-source software policy for the public sector is in force](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent), approved in 2025. No compliance or adoption reporting has been published against it.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+Data-protection work in the window was training rather than enforcement, and it went to the government's own builders. The communications ministry [took the science and technology directorate's technical team through artificial intelligence and data protection by design, and through its obligations under the cybersecurity statute, the civil registration act and the forthcoming data protection law](https://techreviewafrica.com/news/6855/sierra-leone-trains-government-technical-team-on-ai-and-data-protection-by-design). Training a state team on a law not yet passed is the sequence this section keeps recording: the Data Protection and Right to Access Information Bill is still In development, so the obligations taught are prospective.
 <!-- /narrative -->
 
 ## Artificial intelligence and the technology sector

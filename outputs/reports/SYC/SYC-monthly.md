@@ -1,16 +1,16 @@
 ---
 title: Seychelles — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: SYC
-ledger_rows: 22
+ledger_rows: 24
 not_held: 6
-record: 9893748404ba
+record: 09ec214cf750
 ---
 
 # Seychelles: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -47,6 +47,11 @@ The [National Assembly voted unanimously on 22 July 2026 to approve accession to
 
 <!-- narrative: dpi--dpi-govtech -->
 Vice-President Ahmed Afif [announced an eight-week automated traffic-enforcement pilot for Roche Caiman, Mahe, on 30 July](https://www.wearetech.africa/fr/fils/actualites/tech/les-seychelles-testent-un-systeme-de-controle-routier-par-video-verbalisation), repurposing the public CCTV estate with the Australian firm Acusensus; no data-protection basis for the processing was stated. Permanent adoption depends on the pilot's outcome.
+<!-- /narrative -->
+### National statistics
+
+<!-- narrative: dpi--data-statistics -->
+The statistical work of the window is climate data with a funding line behind it. Seychelles [launched its national implementation of a nine-country African island-states resilience programme, backed by a US$4.943 million readiness grant, whose data leg is a standardised approach to institutional readiness, multi-hazard risk assessment and information systems](https://www.uneca.org/eca-events/national-launch-resislands-initiative-republic-seychelles), the stated purpose being to build pipelines of climate-resilient projects able to reach international finance. The grant figure covers all nine countries; the national share is not published, so the base can date the launch and not size it.
 <!-- /narrative -->
 ### Use of satellite data
 

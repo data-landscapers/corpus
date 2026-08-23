@@ -1,15 +1,15 @@
 ---
 title: Equatorial Guinea — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-23
 place: GNQ
-ledger_rows: 62
+ledger_rows: 64
 not_held: 6
-record: 0421e70f37dc
+record: beebeb12dff4
 ---
 
 # Equatorial Guinea: status report
 
-*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/GNQ/ledger.csv` (62 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/GNQ/ledger.csv` (64 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -152,6 +152,7 @@ The [fifth population census and a first agricultural census](https://ahoraeg.co
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Ley 7/2024 on social media and computer crime | [Implemented](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/) | Enacted 23 December 2024 |
+| Press law revision | [In development](https://realequatorialguinea.com/sociedad/la-actualizacion-de-la-ley-de-prensa-pasa-por-la-lupa-de-la-comision-de-obras-publicas-y-comunicacion-de-la-camara-de-los-diputados/) | Eleven articles adopted in commission 2026-08-18 |
 | Reform of Ley 7/2005 General de Telecomunicaciones | [In development](https://ahoraeg.com/tecnologia/2025/06/04/telecomunicaciones-busca-un-gabinete-especializado-para-liderar-los-trabajos-de-reforma-integral-de-la-ley-de-telecomunicaciones/) | International tender opened for a firm to draft a new law, June 2025 |
 | Reform of the Ley de Prensa y Medios Audiovisuales (1997) | [In development](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes) | Information Minister presented the reform bill to the Chamber of Deputies, 6 August 2026, referred to the Public Works and Communication committee |
 
@@ -217,7 +218,8 @@ Open data amounts to one process. [EITI data collection for the 2024 report](htt
 | System or instrument | Status | Milestone |
 |---|---|---|
 | AVANTE digital transformation forum | [Implemented](https://equacom.news/2026/07/23/avante-impulsa-el-debate-sobre-la-transformacion-digital-para-acelerar-la-diversificacion-economica-de-guinea-ecuatorial/) | Convened at the Hotel Anda China, Malabo, 22 July 2026 |
-| GITGE, the state telecoms infrastructure operator | [Implemented](https://realequatorialguinea.com/tecnologia/gitge-inicia-una-nueva-etapa-con-salvador-nguema-funtam-al-frente-oscar-ha-dejado-el-liston-bastante-alto/) | Handover to a new director-general and deputy, 7 August 2026 |
+| GITGE, the state telecoms infrastructure operator | [Implemented](https://realequatorialguinea.com/tecnologia/la-nueva-directiva-de-gitge-y-huawei-discuten-nuevas-estrategias-de-colaboracion/) | New leadership met its main network supplier 2026-08-18 |
+| OKOUME digital marketplace | [Implemented](https://ahoraeg.com/tecnologia/2026/08/19/okoume-se-presenta-oficialmente-en-malabo-como-nueva-plataforma-digital/) | Formally launched in Malabo 2026-08-19 |
 | SelBa24 national e-commerce platform | [Implemented](https://www.guineaecuatorialpress.com/noticias/ministerio_de_economia_y_selba24_impulsan_el_primer_seminario_sobre_comercio_electronico_y_pagos_digitales_en_guinea_ecuatorial) | Named as the national e-commerce platform in a ministry working meeting, 2026-08-14 |
 
 ### China activities
