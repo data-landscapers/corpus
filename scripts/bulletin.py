@@ -46,12 +46,29 @@ own note said ordering waited on Bill reviewing the pages; for the bulletin he h
 vocabulary rather than two is also what makes the topic nav bar at the head of the document
 agree with the headings it jumps to.
 
-**Last updated is OSINT's last ingest, not this script's clock** *(Bill, 2026-08-21)*. The build
-runs after the sweep cycle closes, so the answer to *when was this page last updated* that is
-about the reader's material rather than about us is the moment that material last moved —
-`osint_lib.last_ingest()` reads it from the
-mirror's `logs/ingested_log.md`. Where the mirror cannot be read the build clock stands in, and
-the run says so rather than passing one off as the other.
+**Last updated is OSINT's clock, not this script's** *(Bill, 2026-08-21)*. The build runs after
+the sweep cycle closes, so the answer to *when was this page last updated* that is about the
+reader's material rather than about us comes from the mirror's `logs/ingested_log.md`. Where the
+mirror cannot be read the build clock stands in, and the run says so rather than passing one off
+as the other.
+
+**And the moment it names is when collection stopped, which is the start of ingest and not the
+end of it** *(Bill, 2026-08-23)*. What the reader is being told is how recent the material is,
+and the honest bound on that is the point after which nothing more could have been caught — the
+end of the last sweep, `SWEEP-COUNTRY-DEEP` on a nightly cycle. Ingest is the step that reads
+what collection staged, so its **start** is the proxy, minutes after the sweep it follows: on
+2026-08-22 the last country-deep batch closed at 23:29 and the first slice ingested at 23:55.
+The *newest* ingest stamp had been the byline and overstated it, because ingest of a night's
+catch runs on for hours after collection has stopped — on 2026-08-23 it read 05:20 for material
+that stopped moving at 23:55 the previous evening. Nothing was collected in those five and a
+half hours; they were spent writing up what already had been. `osint_lib.ingest_started()`.
+
+**The two stamps in the frontmatter answer two questions and are both kept.** `collected_to:` is
+the byline's — when the material stopped moving. `compiled:` stays what it was, the newest ingest
+stamp, and is what the edition picker shows against a dated PDF: not *when did we stop looking*
+but *how late is the newest thing in this cut*, which is the question a reader choosing between
+two cuts of one day is asking. They are minutes apart on a quiet night and hours apart on a busy
+one, and collapsing them would lose one answer to keep the other.
 
 **The stamp moves whenever the material was looked at, even when nothing came of it**
 *(Bill, 2026-08-21)*. A sweep that admits fifty sources of which none carries a publication date
@@ -561,12 +578,14 @@ def body_of(rows: list[dict], store: dict, names: dict[str, str], start: str, en
     return lines
 
 
-def document(rows: list[dict], store: dict, run_date: date, stamp: str,
+def document(rows: list[dict], store: dict, run_date: date, collected: str, compiled: str,
              names: dict[str, str]) -> str:
-    """The whole markdown file. `stamp` is `YYYY-MM-DD HH:MM` — see `assemble()` for why it is
-    passed in rather than read from the clock here."""
+    """The whole markdown file. Both stamps are `YYYY-MM-DD HH:MM` and both are passed in rather
+    than read from a clock here — see `assemble()` for why. `collected` is when the material
+    stopped moving and is what the byline states; `compiled` is the newest ingest and is what the
+    edition picker shows."""
     start, end = window(run_date)
-    when = datetime.strptime(stamp, "%Y-%m-%d %H:%M")
+    when = datetime.strptime(collected, "%Y-%m-%d %H:%M")
     subtitle = (f"Last updated {when:%d-%m-%Y} at {when:%H:%M} — "
                 f"Covering sources published on {covered_phrase(rows, start, end)}")
 
@@ -578,7 +597,8 @@ def document(rows: list[dict], store: dict, run_date: date, stamp: str,
         f"window_start: {start}",
         f"window_end: {end}",
         f"items: {len(rows)}",
-        f"compiled: {stamp}",
+        f"collected_to: {collected}",
+        f"compiled: {compiled}",
         "---",
         "",
         "# Bulletin",
@@ -587,25 +607,33 @@ def document(rows: list[dict], store: dict, run_date: date, stamp: str,
     return "\n".join(head + body_of(rows, store, names, start, end)).rstrip() + "\n"
 
 
-def held_stamp(path: Path) -> str | None:
+def held_stamps(path: Path) -> tuple[str, str] | None:
+    """`(collected_to, compiled)` as the file on disk carries them, or `None` if either is
+    missing — which is what a document written before `collected_to:` existed looks like, and it
+    reads as *no held stamp* so the run rebuilds rather than comparing against half a pair."""
     if not path.exists():
         return None
+    found = {}
     for line in path.read_text(encoding="utf-8").splitlines():
-        if line.startswith("compiled:"):
-            return line.split(":", 1)[1].strip()
+        for key in ("collected_to:", "compiled:"):
+            if line.startswith(key):
+                found[key.rstrip(":")] = line.split(":", 1)[1].strip()
+    if "collected_to" in found and "compiled" in found:
+        return found["collected_to"], found["compiled"]
     return None
 
 
-def stamp_for(now: datetime | None = None) -> tuple[str, str]:
-    """`(YYYY-MM-DD HH:MM, where it came from)`.
+def stamps_for(now: datetime | None = None) -> tuple[str, str, str]:
+    """`(collected_to, compiled, where they came from)`, each `YYYY-MM-DD HH:MM`.
 
-    OSINT's last ingest where the mirror can be read, the build clock where it cannot. The
-    source is returned rather than logged here so that `--assemble` can print it: a fallback
-    nobody is told about is a fallback that becomes the normal case without anyone noticing."""
-    ingested = osint_lib.last_ingest()
-    if ingested is not None:
-        return ingested.strftime("%Y-%m-%d %H:%M"), "OSINT ingest"
-    return (now or datetime.now()).strftime("%Y-%m-%d %H:%M"), "build clock (mirror unreadable)"
+    The start and the end of OSINT's most recent ingest run where the mirror can be read, the
+    build clock for both where it cannot. The source is returned rather than logged here so that
+    `--assemble` can print it: a fallback nobody is told about is a fallback that becomes the
+    normal case without anyone noticing."""
+    started, newest = osint_lib.ingest_started(), osint_lib.last_ingest()
+    if started is not None and newest is not None:
+        return started.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), "OSINT ingest"
+    return ((now or datetime.now()).strftime(osint_lib.TS),) * 2 + ("build clock (mirror unreadable)",)
 
 
 def assemble(run_date: date, now: datetime | None = None) -> int:
@@ -623,7 +651,7 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
     names = country_names()
     BULLETINS.mkdir(parents=True, exist_ok=True)
 
-    stamp, source = stamp_for(now)
+    collected, compiled, source = stamps_for(now)
 
     # **Is anything different apart from the stamp?** Asked by rebuilding the document with the
     # stamp already on disk and comparing the whole file: if that reproduces what is there, the
@@ -638,14 +666,14 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
     # byline is worded therefore could not reach a document whose body had not changed: the fix
     # ran, reported `unchanged`, and left the wrong subtitle in place.
     before = DOCUMENT.read_text(encoding="utf-8") if DOCUMENT.exists() else None
-    held = held_stamp(DOCUMENT)
+    held = held_stamps(DOCUMENT)
     clock_only = (before is not None and held is not None
-                  and document(rows, store, run_date, held, names) == before)
+                  and document(rows, store, run_date, *held, names) == before)
 
-    text = document(rows, store, run_date, stamp, names)
+    text = document(rows, store, run_date, collected, compiled, names)
     where = DOCUMENT.relative_to(CORPUS)
     if text == before:
-        print(f"unchanged  {where}  (last updated {held}; the clock has not moved either)")
+        print(f"unchanged  {where}  (last updated {held[0]}; the clock has not moved either)")
     else:
         # `newline=""` or Windows turns every \n into \r\n and the file differs from the one in
         # git on every line *(2026-08-22)*. It showed up as a 1,205-line diff between a document
@@ -654,11 +682,12 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
         # same reason: `write_text` defaults to translating line endings.
         DOCUMENT.write_text(text, encoding="utf-8", newline="")
         if clock_only:
-            print(f"checked    {where}  — nothing published in the window since {held}; "
+            print(f"checked    {where}  — nothing published in the window since {held[0]}; "
                   f"the page now says so")
         else:
             print(f"written    {where}  ({len(rows)} item(s))")
-        print(f"updated    {stamp}  — from {source}")
+        print(f"updated    {collected}  — collection stopped, from {source} "
+              f"(newest ingest {compiled})")
 
     # **Said on every run, not only the ones that write.** The mirror being unreadable is a fact
     # about this run either way, and the run most likely to bury it is the quiet one: an

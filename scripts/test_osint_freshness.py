@@ -164,6 +164,59 @@ def stamp_cases() -> int:
     return failures
 
 
+def heads(*hours_ago: float) -> str:
+    """An ingest log of nothing but headings, newest first as OSINT writes it."""
+    return "".join(f"## {stamp(h)} (ingest Phase A slice {n})" + chr(10) + chr(10)
+                   for n, h in enumerate(sorted(hours_ago)))
+
+
+def run_start_cases() -> int:
+    """`ingest_started()` is the bulletin's byline: when collection stopped.
+
+    Bill, 2026-08-23. Ingest reads what the night's sweeps staged, so its **start** bounds
+    collection, and it runs on for hours afterwards writing up a catch that has already stopped
+    growing. The cases below are the three ways that reading can go wrong: taking the end of the
+    run, taking the start of a run that is not the current one, and letting one bad heading move
+    the answer."""
+    failures = 0
+    saved = osint_lib.INGESTED_LOG
+    tmp = Path(tempfile.mkdtemp(prefix="osint-run-test-"))
+    try:
+        (tmp / "logs").mkdir()
+        osint_lib.INGESTED_LOG = str(tmp / "logs" / "ingested_log.md")
+        log = Path(osint_lib.INGESTED_LOG)
+
+        # A night's run: slices over five and a half hours, the widest internal gap 75 minutes.
+        night = (7.5, 7.0, 6.5, 6.4, 6.0, 5.5, 4.0, 2.75)
+        cases: list[tuple[str, str, str | None]] = [
+            ("the start of the run, not its newest stamp",
+             heads(*night), stamp(7.5)),
+            ("a 75-minute gap inside a run does not split it",
+             heads(6.0, 4.5), stamp(6.0)),
+            ("yesterday's run is a different run",
+             heads(30.0, 29.0, *night), stamp(7.5)),
+            ("a mistyped late heading extends the tail and cannot move the start",
+             heads(*night, 3.1), stamp(7.5)),
+            ("one heading is a run of one",
+             heads(3.0), stamp(3.0)),
+            ("nothing readable is None, not today",
+             "", None),
+        ]
+        for name, text, expected in cases:
+            log.write_text(text, encoding="utf-8")
+            with redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()):
+                got = osint_lib.ingest_started()
+            got_s = got.strftime(TS) if got else None
+            ok = got_s == expected
+            failures += not ok
+            verdict = "ok  " if ok else "FAIL"
+            print(f"  {verdict} {name}  (expected {expected}, got {got_s})")
+    finally:
+        osint_lib.INGESTED_LOG = saved
+        shutil.rmtree(tmp, ignore_errors=True)
+    return failures
+
+
 def run() -> int:
     failures = 0
     argv = sys.argv
@@ -209,7 +262,8 @@ def run() -> int:
          of.WATERMARK, of.head_committed) = saved
 
     failures += stamp_cases()
-    total = len(CASES) + 4
+    failures += run_start_cases()
+    total = len(CASES) + 4 + 6
 
     print()
     if failures:

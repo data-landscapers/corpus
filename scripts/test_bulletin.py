@@ -99,10 +99,13 @@ class Bench:
                  for r in rows}
         bulletin.save_store(store)
 
-    def stamp(self, when: str | None) -> None:
-        """Pin what `osint_lib.last_ingest()` returns. `None` is an unreadable mirror."""
-        parsed = dt.datetime.strptime(when, "%Y-%m-%d %H:%M") if when else None
-        bulletin.osint_lib.last_ingest = lambda: parsed
+    def stamp(self, when: str | None, started: str | None = None) -> None:
+        """Pin OSINT's ingest clocks. `when` is the newest stamp, which becomes `compiled:`;
+        `started` is when the run began, which becomes the byline and defaults to `when`.
+        `None` is an unreadable mirror, in which case neither is readable."""
+        parse = lambda t: dt.datetime.strptime(t, "%Y-%m-%d %H:%M") if t else None
+        bulletin.osint_lib.last_ingest = lambda: parse(when)
+        bulletin.osint_lib.ingest_started = lambda: parse(started or when)
 
     def assemble(self) -> str:
         out = io.StringIO()
@@ -384,6 +387,42 @@ def case_every_anchor_in_the_document_resolves(tmp):
     assert not missing, f"anchors pointing at no heading: {missing}"
 
 
+def case_the_byline_is_when_collection_stopped_not_when_ingest_finished(tmp):
+    """*Last updated* names the start of the ingest run, and `compiled:` names its end.
+
+    Bill, 2026-08-23: the time on the bulletin should be the moment collection stopped — the end
+    of the night's last sweep — and the start of ingest is the proxy for it, since ingest reads
+    what collection staged. The newest ingest stamp had been the byline, and it runs on for hours
+    after the sweep has finished: on 2026-08-23 it said 05:20 of material that stopped moving at
+    23:55 the evening before, which overstates the page's freshness by five and a half hours.
+    Both facts are kept, because the edition picker asks the other question — how late is the
+    newest thing in this cut."""
+    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
+    b.stamp("2026-05-14 05:20", started="2026-05-13 23:55")
+    b.assemble()
+    text = b.document()
+    assert "Last updated 13-05-2026 at 23:55" in text, \
+        f"the byline did not take the start of the ingest run:\n{text[:400]}"
+    assert "collected_to: 2026-05-13 23:55" in text, "collected_to: is not on the file"
+    assert "compiled: 2026-05-14 05:20" in text, \
+        "compiled: lost the newest ingest, which is what the edition picker shows"
+
+
+def case_a_run_that_only_ingests_later_does_not_move_the_byline(tmp):
+    """More slices written from the same night's catch are not more collection.
+
+    The stamps move apart, `compiled:` follows the newest and the byline does not move at all —
+    which is the whole point of separating them. Nothing was collected in those hours."""
+    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
+    b.stamp("2026-05-14 02:00", started="2026-05-13 23:55")
+    b.assemble()
+    b.stamp("2026-05-14 05:20", started="2026-05-13 23:55")
+    b.assemble()
+    text = b.document()
+    assert "Last updated 13-05-2026 at 23:55" in text, "the byline moved on a later ingest"
+    assert "compiled: 2026-05-14 05:20" in text, "compiled: did not follow the newest ingest"
+
+
 CASES = [
     ("the summary anchors on the earliest topic in document order",
      case_anchor_is_earliest_in_document_order),
@@ -403,6 +442,10 @@ CASES = [
     ("country boxes are countries only", case_country_boxes_are_countries_only),
     ("the nav bar holds only the categories present",
      case_the_nav_bar_holds_only_the_categories_present),
+    ("the byline is when collection stopped, not when ingest finished",
+     case_the_byline_is_when_collection_stopped_not_when_ingest_finished),
+    ("a later ingest of the same catch does not move the byline",
+     case_a_run_that_only_ingests_later_does_not_move_the_byline),
 ]
 
 
@@ -414,7 +457,8 @@ def run() -> int:
         tmp = Path(tempfile.mkdtemp(prefix="bulletin-"))
         bench_saved = {k: getattr(bulletin, k)
                        for k in ("CORPUS", "CATALOGUE", "STORE", "DOCUMENT", "BULLETINS", "RAW")}
-        ingest_saved = bulletin.osint_lib.last_ingest
+        ingest_saved = (bulletin.osint_lib.last_ingest,
+                        bulletin.osint_lib.ingest_started)
         try:
             case(tmp)
             print(f"  ok   {name}")
@@ -425,7 +469,8 @@ def run() -> int:
         finally:
             for k, v in bench_saved.items():
                 setattr(bulletin, k, v)
-            bulletin.osint_lib.last_ingest = ingest_saved
+            (bulletin.osint_lib.last_ingest,
+             bulletin.osint_lib.ingest_started) = ingest_saved
             shutil.rmtree(tmp, ignore_errors=True)
 
     print()

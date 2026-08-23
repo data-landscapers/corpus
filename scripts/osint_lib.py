@@ -56,6 +56,53 @@ def last_ingest() -> dt.datetime | None:
     return _newest_stamp(INGESTED_LOG, _INGEST_HEAD)
 
 
+# How long a quiet stretch has to be before it separates one ingest run from the next. A run is
+# a night's worth of slices written over several hours, so the gaps *inside* one are minutes: on
+# 2026-08-22/23 the widest was 75 minutes (04:05 to 05:20) and the run held 40-odd slices. The
+# gaps *between* runs are the hours OSINT is not sweeping - 9h46m between the 21st's run and the
+# 22nd's top-up, 14h20m between that top-up and the 22nd's nightly. Four hours sits well clear of
+# both, and the failure it courts is merging two runs, which reports an earlier start: stale
+# rather than false, which is the direction everything in this module errs in.
+INGEST_RUN_GAP = dt.timedelta(hours=4)
+
+
+def ingest_started() -> dt.datetime | None:
+    """When OSINT's most recent ingest run **began**, from `logs/ingested_log.md`.
+
+    **This is the bulletin's *Last updated*, because it is the moment collection stopped**
+    *(Bill, 2026-08-23)*. What a reader is being told is *how recent is the material here*, and
+    the honest answer is the point after which nothing more could have been caught - the end of
+    the last sweep, `SWEEP-COUNTRY-DEEP` on a nightly cycle. Ingest is the step that follows
+    collection and reads what it staged, so **the start of ingest is the proxy for the end of
+    collection**, and the two are minutes apart: on 2026-08-22 the last country-deep batch closed
+    at 23:29 and the first slice ingested at 23:55.
+
+    `last_ingest()` - the *newest* stamp - answers a different question and gets it wrong for
+    this one. Ingest of a night's catch runs for hours after collection has finished, so on
+    2026-08-23 it read 05:20 for material that stopped moving at 23:55 the evening before,
+    overstating the freshness of the page by five and a half hours. Nothing was collected in
+    those hours; they were spent writing up what already had been.
+
+    A run is the newest cluster of headings with no gap longer than `INGEST_RUN_GAP` in it, and
+    the answer is the earliest heading in that cluster. Clustering also makes this the more
+    robust of the two readings: a single mistyped heading can only extend a run's tail, where
+    under `last_ingest()`'s maximum it became the answer outright - which is exactly what a
+    header mistyped `12:00` did to this byline on 2026-08-23.
+
+    Returns `None` on the same terms as everything else here: an absent mirror, a missing log or
+    nothing parseable, never a guess.
+    """
+    stamps = _stamps(INGESTED_LOG, _INGEST_HEAD)
+    if not stamps:
+        return None
+    start = stamps[-1]
+    for newer, older in zip(stamps[-1:0:-1], stamps[-2::-1]):
+        if newer - older > INGEST_RUN_GAP:
+            break
+        start = older
+    return start
+
+
 def last_cycle_close() -> dt.datetime | None:
     """When a sweep cycle last closed, from the rotation table's `End` column.
 
@@ -107,9 +154,16 @@ def _newest_stamp(path: str, pattern: re.Pattern) -> dt.datetime | None:
     dropped and the run says so on stderr — the next-newest true reading is a slightly stale
     answer, which is a different thing from a false one. `SKEW` keeps a stamp written seconds
     ahead by another machine's clock from being thrown away."""
+    stamps = _stamps(path, pattern)
+    return stamps[-1] if stamps else None
+
+
+def _stamps(path: str, pattern: re.Pattern) -> list[dt.datetime]:
+    """Every believable stamp in the file, oldest first. Future stamps are dropped here so that
+    both readers get the same view of the file and neither has to remember to filter."""
     if not os.path.exists(path):
-        return None
-    best = None
+        return []
+    found = []
     horizon = dt.datetime.now() + SKEW
     with open(path, encoding="utf-8") as fh:
         for line in fh:
@@ -123,9 +177,8 @@ def _newest_stamp(path: str, pattern: re.Pattern) -> dt.datetime | None:
                 print(f"note: {os.path.basename(path)} carries a stamp in the future "
                       f"({when:%Y-%m-%d %H:%M}) - ignored", file=sys.stderr)
                 continue
-            if best is None or when > best:
-                best = when
-    return best
+            found.append(when)
+    return sorted(found)
 
 
 def _parse(text: str) -> dt.datetime | None:
@@ -137,5 +190,6 @@ def _parse(text: str) -> dt.datetime | None:
 
 if __name__ == "__main__":
     print(f"mirror        {MIRROR}")
+    print(f"ingest began  {ingest_started() or '— not readable'}")
     print(f"last ingest   {last_ingest() or '— not readable'}")
     print(f"last close    {last_cycle_close() or '— not readable'}")

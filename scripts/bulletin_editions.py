@@ -191,8 +191,10 @@ def label(entry: dict) -> str:
     """`Saturday 22 August, 09:35 — 25 entries`.
 
     The time is the `compiled` stamp, which is **OSINT's last ingest and not our build clock**
-    (`documentation/bulletin.md`) — how fresh that edition's material is, which is the question
-    a reader choosing between two cuts of the same day is actually asking. A stamp that will not
+    (`documentation/bulletin.md`) — how late the newest thing in that cut is, which is the
+    question a reader choosing between two cuts of the same day is actually asking. It is
+    deliberately not the document's byline: that names `collected_to:`, when collection stopped,
+    which is the different question *how recent is any of this* (Bill, 2026-08-23). A stamp that will not
     parse degrades to the date alone rather than printing a fragment of one."""
     edition = str(entry.get("edition", ""))
     day = editions.edition_key(edition)[0] or edition[:10]

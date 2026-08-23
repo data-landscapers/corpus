@@ -1,10 +1,11 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 23-08-2026 at 05:20 — Covering sources published on 22 August 2026
+subtitle: Last updated 22-08-2026 at 23:55 — Covering sources published on 22 August 2026
 window_start: 2026-08-22
 window_end: 2026-08-23
 items: 15
+collected_to: 2026-08-22 23:55
 compiled: 2026-08-23 05:20
 ---
 
