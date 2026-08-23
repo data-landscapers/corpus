@@ -1,20 +1,20 @@
 ---
-title: Mauritius — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Mauritius — progress report, 2025-08-01 to 2026-08-23
+compiled: 2026-08-23
+period: 2025-08-01 to 2026-08-23
 place: MUS
-ledger_rows: 76
+ledger_rows: 79
 not_held: 9
-record: 011d11f0ea32
+record: 1704936e2388
 ---
 
-# Mauritius: progress report, 2025-08-01 to 2026-08-21
+# Mauritius: progress report, 2025-08-01 to 2026-08-23
 
-*Compiled 2026-08-21 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 76 systems and instruments on this place's ledger, 42 changed position between 2025-08-01 and 2026-08-21, 14 did not, 11 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 79 systems and instruments on this place's ledger, 45 changed position between 2025-08-01 and 2026-08-23, 14 did not, 11 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 73 sources for this place in the window — 13 in the earlier half (2025-09 to 2026-03), 60 in the later (2026-04 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 81 sources for this place in the window — 13 in the earlier half (2025-09 to 2026-03), 68 in the later (2026-04 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ The one measured movement is somebody else's: a bank's [retail payment figures](
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | America-India Connect cable participation | Did not exist | [A prime-ministerial commitment to join, behind which sits a signed non-disclosure agreement and unfinished technical, legal and financial negotiation; no consortium confirmation, landing point, capacity, cost or service date is published (2026-08)](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/) | Advanced |
 | Mauritius Telecom 2026-2029 strategy | Did not exist | [A reported Rs 20bn programme across connectivity, financial services, artificial intelligence and compute, and innovation; no delivery milestone has been published against it (2026-01)](https://lexpress.mu/node/553579) | Advanced |
@@ -42,7 +42,7 @@ The one measured movement is somebody else's: a bank's [retail payment figures](
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Rose-Belle Tier IV data centre | Not established as the sovereign-hosting anchor (2025-08) | [Certified Tier IV and hosting e-health, the government portal, the Mobile ID wallet, the penalty-points licence system and government artificial-intelligence workloads, giving the ageing Government Online Centre the disaster recovery it lacks (2025-12)](https://lexpress.mu/node/552966) | Advanced |
 | Data-centre estate | Ten operating data centres across Port Louis, Reduit, Arsenal, Quatre Bornes and Rose-Belle, including a carrier-neutral Tier IV-designed site and the internet exchange point (2025-07) | [Unchanged in count; no new facility has been reported since (2026-08)](https://www.telecomreviewafrica.com/articles/features/12397-sublime-seas-to-storage-sphere-mauritius-expands-hyperscale-data-hub/) | No change |
@@ -50,13 +50,13 @@ The one measured movement is somebody else's: a bank's [retail payment figures](
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Saudi Arabia energy and cybersecurity memorandum | Did not exist | [An approval to sign, not a signature: the stated scope puts digital transformation and energy-sector cybersecurity alongside hydrocarbons, with no signing date, term, value or committed system, standard or spend (2026-08)](https://www.lemauricien.com/actualites/societe/energie-un-partenariat-strategique-en-preparation-avec-larabie-saoudite/714051/) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Critical Information Infrastructure regime | Did not exist; cybercrime was punishable but no framework existed to designate and regulate operators of critical systems (2025-08) | [In force across financial and banking, public service, information technology and broadcasting, energy and water, and transport, with non-compliance carrying up to 25 years' imprisonment and fines up to Rs 2m (2026-06)](https://lexpress.mu/node/558304) | Advanced |
 | Cyber forensic laboratory | Did not exist | [Funded at Rs 13m alongside an information-security management system across the administration; no site, staffing or opening date published (2026-06)](https://lexpress.mu/node/559426) | Advanced |
@@ -78,14 +78,14 @@ Satellite is the row that stayed still: the [authorisation regime was in force a
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Statutory data sharing by the statistics office | Did not exist | [The statistics office would be empowered to share more data with the finance ministry, alongside new declaration duties on public bodies; the bill was before Parliament and its enacting text is not held (2026-07)](https://lexpress.mu/node/560855) | Advanced |
 | e-Government Interoperability Framework | The standing interoperability instrument, dating from 2002 (2025-08) | [Unchanged; no successor framework is held, and the interoperability commitments of the 2025-2029 blueprint have produced no published instrument (2026-08)](https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf) | No change |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital travel authorisation and digital permits | Did not exist | [Permits would become issuable in digital, card or paper form and a digital travel authorisation would be imposed on visa-exempt arrivals, applied for electronically and paid before travel; the bill was introduced and not enacted (2026-07)](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Advanced |
 | Mobile ID wallet | In service; no user or issuance figure published (2025-08) | [In service and hosted on the Rose-Belle facility; still no user or issuance figure published (2026-08)](https://www.biometricupdate.com/202409/mauritius-launches-digital-id-wallet-with-thales-tech-for-govt-service-access) | No change |
@@ -93,7 +93,7 @@ Satellite is the row that stayed still: the [authorisation regime was in force a
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Central bank digital onboarding system | Did not exist | [A know-your-customer system for digital onboarding under construction, alongside alignment to the G20 cross-border roadmap and exploratory work on artificial-intelligence fraud detection; no delivery date published (2026-02)](https://lexpress.mu/node/554033) | Advanced |
 | Mauritius-Seychelles payment corridor | Did not exist | [Announced as launched by the operator; no corroborating record from the partner fintech, the Bank of Mauritius or the Central Bank of Seychelles is on file (2026-07)](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) | Advanced |
@@ -106,21 +106,23 @@ Satellite is the row that stayed still: the [authorisation regime was in force a
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Civil registration base | Complete civil-registration base underpinning the identity system (2024) | [Unchanged; no later performance report is held (2026-08)](https://csd.govmu.org/DocumentsList/FINALISED%20ANNUAL%20REPORT%20CSD.pdf) | No change |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | E-Social Security digitisation | Did not exist; the welfare system had run on paper for thirteen years | [10.5m social-benefit documents being digitised into a future platform, with full integration stated at about eighteen months; the system carries about 800,000 payments a month to at least 350,000 beneficiaries (2026-05)](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritius-bets-on-digital-transformation-to-improve-welfare-system-efficiency) | Advanced |
+| Fisheries Information System | Did not exist | [A proposal for a national fisheries information system endorsed at a validation workshop convened by the fisheries ministry, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) | Advanced |
 | eHealth strategy | The standing eHealth instrument, dating from 2015 (2025-08) | [Unchanged; e-health workloads are hosted on the Rose-Belle facility but no successor strategy or delivery report is held (2026-08)](https://health.govmu.org/health/wp-content/uploads/2023/03/eHealth-Strategy-Seamless-Continuity-of-Care-2015.pdf) | No change |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
+| Airport parking management system | A 2013 installation | [A Rs 50 million system with more than 20 licence-plate-recognition cameras, five self-service payment stations and mobile-wallet payment, replacing the 2013 installation and raising exit throughput](https://lexpress.mu/s/un-nouveau-systeme-pour-fluidifier-le-stationnement-561540) | Advanced |
 | e-Gates, e-Visa and e-judiciary | Did not exist as funded commitments | [Funded in the budget alongside a healthcare innovation and artificial-intelligence unit; no procurement, vendor or delivery date published (2026-06)](https://lexpress.mu/node/559426) | Advanced |
 | National electronic licensing system for clinical trials | Did not exist | [Concurrent submission, review and processing of trial applications through a statutory electronic system, with the council and ethics committee empowered to meet virtually and an expedited pathway; the bill was introduced and not enacted (2026-07)](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Advanced |
 | Online motor vehicle licence and road tax system | Did not exist | [Live for taxi operators, who renew the licence and pay road tax online instead of at post offices and land transport authority counters, and which the ministry states will also build a database of operators; launched alongside a website for the operators' welfare fund, whose membership is 6,567 of 7,802 operators, with about 3,000 operators already on an electronic platform](https://techafricanews.com/2026/08/18/mauritius-launches-online-licensing-road-tax-system-for-taxi-operators/) | Advanced |
@@ -140,18 +142,19 @@ The only measured movement in this section belongs to a commercial bank: [cash f
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data Protection Officer Regulations 2026 | Did not exist | [Promulgated, formalising designation, qualifications, independence and reporting duties for data protection officers across public and private sectors, with a six-month compliance window (2026-06)](https://lexpress.mu/s/protection-des-donnees-encadrement-renforce-du-role-des-data-protection-officers-559111) | Advanced |
 | Economic and Financial Measures (Miscellaneous Provisions) Bill | Did not exist | [119 pages amending 58 Acts and repealing one, with staged commencement from 1 September 2026 and several provisions deemed retrospective, carrying the fintech committee, the AI City Scheme, the central bank threat-sharing platform, the virtual-asset solicitation rule and the digital travel authorisation; introduced, not enacted (2026-07)](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Advanced |
 | Electronic Transactions Act amendments | Did not exist as a stated commitment | [Referred to as modernising the digital-commerce framework and consumer protection; no text, timetable or introduction date published (2026-07)](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993) | Advanced |
 | Ministerial notice on online-content sanctions | Did not exist | [A ministry communiqué restating the criminal exposure of online speech and of page administrators who fail to moderate on notice](https://lexpress.mu/s/le-ministere-rappelle-les-sanctions-contre-les-contenus-indesirables-en-ligne-561596) | Advanced |
+| Ministerial warning on prosecuting online speech | None published | [A public communiqué from the ICT ministry warning that online speech can be prosecuted under the Cybersecurity and Cybercrime Act 2021, naming the fake-profile, cyberbullying and undesirable-content offences and defining undesirable content to include material that is deceptive or inaccurate](https://mitci.govmu.org/mitci/wp-content/uploads/2026/08/COMMUNIQUE_social_media.pdf) | Advanced |
 | Social-media identity verification mechanism | Did not exist | [Consultations opened toward a verification mechanism against disinformation, impersonation, defamatory content, scams and child sexual abuse material, citing 2,300 online-harm cases from January to June 2026 and frauds up to Rs 500,000; no draft instrument published (2026-06)](https://lexpress.mu/node/558887) | Advanced |
 | Virtual-asset solicitation rule | Did not exist | [Unlicensed solicitation of investors in Mauritius would be prohibited by any medium, defined to reach targeted or algorithmic advertising, platforms, applications, social media, influencers, affiliates, referral codes, seminars and webinars, with any publicly accessible communication presumed to target Mauritius; introduced, not enacted (2026-07)](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Advanced |
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Data Governance Strategy | Did not exist | [Committed to alongside forthcoming amendments to the Data Protection Act aimed at cybersecurity, privacy and online safety for children; no text, timetable or introduction date is published (2026-07)](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/) | Advanced |
 | National Data Strategy 2025-2029 | Did not exist as a published strategy | [Launched around responsible data governance, cybercrime prevention and online protection of minors, with a memorandum signed between the police, the data-protection office and the national computer emergency team (2026-01)](https://lexpress.mu/node/553938) | Advanced |
@@ -160,19 +163,19 @@ The only measured movement in this section belongs to a commercial bank: [cash f
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | AFRINIC board and receivership | Under an appeal-court order of 15 October 2024 directing the Official Receiver to complete the board election within two months, in substitution for the six months ordered in September 2023; no reconstituted board at the window's start | [The continental internet registry, seated in Mauritius, named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised; the appeal court then set aside its 28 September 2023 appeal for lack of corporate authority without ruling on the official receiver's permission or on statutory leave, leaving the authority chain from election through appointment to quorum unresolved and the receiver undischarged; the appeal court had directed that the reconstitution be completed within two months of its judgment of 15 October 2024, describing it as a matter of utmost urgency, so the September 2025 appointments came some nine months past that deadline](https://www.wilberforce.co.uk/wp-content/uploads/2024/11/african-network-informtion-centre-afrinic-ltd-v-cloud-innovation-ltd-anor-2024-scj-473.pdf) | Advanced, authority chain unresolved |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Model-as-a-service certification work | Did not exist | [Work to define controls and conformance criteria for a certification framework that does not yet exist, with the state operator a founding contributor and co-chair (2026-07)](https://www.telecomtv.com/content/ai/mauritius-telecom-and-tm-forum-pioneer-trusted-model-as-a-service-for-the-ai-native-telco-55907/) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data Protection Office enforcement | Independent office enforcing the 2017 Act, with no published enforcement volume (2025-08) | [About 3,000 enforcement actions a year, 99% resolved amicably, chief data officers mandated, and administrative fines being added by amendment (2026-05)](https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula) | Advanced |
 | European Union adequacy assessment | Not stated as a pursuit (2025-08) | [Being pursued with full alignment of the law to the European regulation; no application date, assessment stage or decision is published (2026-05)](https://www.biometricupdate.com/202605/theres-no-digital-id-without-data-protection-mauritius-privacy-chief) | Advanced |
@@ -181,14 +184,14 @@ The only measured movement in this section belongs to a commercial bank: [cash f
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Mauritius Internet Governance Forum | Not held | [Convening as a national multi-stakeholder forum founded by the Halley Movement; at its 2026 meeting the Blockchain for Good Alliance and the exchange Bybit met the Vice President and the ICT minister to discuss artificial intelligence, cybersecurity and digital-trust frameworks for small island developing states](https://www.newswire.ca/news-releases/blockchain-for-good-alliance-and-bybit-join-the-mauritius-internet-governance-forum-to-advance-digital-trust-for-small-island-states-812258483.html) | ***Baseline not held*** |
 | Public argument on what digital investment is for | ***Baseline not held*** | [The clearest domestic objection on file to the artificial-intelligence-first framing: that contract enforcement rather than technology is the binding constraint, with digitalised case management prescribed alongside a small-claims process and a stronger commercial division rather than instead of them (2026-08)](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867) | ***Baseline not held*** |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Freedom of Information Bill | Did not exist | [Announced as in preparation; no draft, text or timetable has been published in the six months since (2026-08)](https://lexpress.mu/node/553938) | Advanced |
 
@@ -206,23 +209,23 @@ Two commitments were made and not delivered inside the window: a [Freedom of Inf
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | AI City Scheme | Did not exist | [A certified specialised technological and innovation hub promoting artificial intelligence, digital sectors, advanced computing infrastructure and advanced manufacturing, whose certificate carries fiscal incentives, duty exemptions, expedited permits and prescribed property acquisition, with a new AI Founder occupation permit at US$1m invested; introduced, not enacted (2026-07)](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Advanced |
 | Mauritius AI Registry | Did not exist | [Live as a discovery and trust directory of Mauritius-relevant models, agents and skills that does not host or sell what it lists, each entry carrying provider identity, local-context relevance and any institutional validation; the stack is open-sourced and is being offered to other operators (2026-07)](https://journaldudimanche.com/intelligence-artificielle-mauritius-telecom-devoile-airegistry-mu/) | Advanced |
-| National AI Strategy and FAIR guidelines | Did not exist | [Six pillars with guidelines that are vendor-neutral and border-agnostic, governing by impact rather than geography, carrying mandatory bias audits in financial services and gaming and locally-based-representative duties on foreign providers; non-binding but on a legal trajectory (2026-04)](https://lexpress.mu/node/556638) | Advanced |
+| National AI Strategy and FAIR guidelines | Did not exist | [Six pillars with guidelines that are vendor-neutral and border-agnostic, governing by impact rather than geography, carrying mandatory bias audits in financial services and gaming and locally-based-representative duties on foreign providers, non-binding but on a stated legal trajectory; a first AI Innovation Lab was inaugurated at Ebene Cybercity in August 2026 with a memorandum signed at the event, the strategy running 2025-2029 and the AI Unit established in December 2025](https://cajnewsafrica.com/2026/08/21/mauritius-commissions-pioneering-ai-innovation-lab/) | Advanced |
 | Sovereign AI platform and education pilot | Did not exist | [In service as the operator's enterprise platform, with the school pilot deliberately narrowed after teacher and parent resistance from a student tutor to a teacher assistant doing homework correction and exam generation, targeting one per secondary teacher by 2027 (2026-07). The operator's chief executive set out a cloud partnership with a hyperscaler, sovereign data centres and a plan to train 50,000 people in artificial-intelligence skills, and put the education platform's exam-marking tools at 99% accuracy across the tools introduced](https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/) | Advanced |
 | Mauritian Creole voice model | ***Baseline not held*** | [Described by the incumbent operator as the first voice model built for Mauritian Creole](https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/) | ***Baseline not held*** |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | ICT share of gross domestic product | ***Baseline not held*** | [About 5.4% of gross domestic product, against a stated ambition of 10-12% (2026-07)](https://itweb.africa/article/mauritius-launches-ai-readiness-survey/GxwQDM1DPZj7lPVo) | ***Baseline not held*** |
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Amazon Web Services memorandum | Did not exist | [Signed with soft scope covering skills, institutional enablement and a scale pathway for local innovators, with no disclosed value or binding deliverable; the training is to run initially in premises rented for the purpose, with permanent infrastructure only a possibility (2026-08)](https://techreviewafrica.com/news/6321/mauritius-telecoms-allmyt-summit-2026-brings-together-digital-leaders-to-drive-innovation) | Advanced |
 | Hyperscaler infrastructure presence | ***Baseline not held*** | [Google already operates a ground station at Baie-du-Jacotet serviced by the state operator, so the cable commitment would deepen a relationship rather than open one; what is contracted with the hyperscalers so far is skills and confidentiality, not capacity (2026-08)](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/) | ***Baseline not held*** |
@@ -239,13 +242,13 @@ The hyperscaler relationship deepened without becoming capacity: an [Amazon memo
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Rodrigues in the national digital strategy | Did not exist as a national commitment | [A cybersecurity working framework with a Mauritius-based team and a dedicated representative, a youth awareness project, and integration of the national sign-on and super-app through post office agents, building on the regional assembly's own roadmap of 6 May 2026 (2026-05)](https://lexpress.mu/node/558566) | Advanced |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National AI training programme | Did not exist | [A target of 50,000 people trained in one year — 25,000 professionals, 12,000 ninth-grade pupils, 8,000 teachers and 5,000 civil servants — on a Rs 25m platform; no completion or enrolment figure has been published (2026-06)](https://lexpress.mu/node/559426) | Advanced |
 | Schools cybersecurity and AI awareness programme | Not held | [Running as a national awareness programme for secondary students, run by the incumbent operator with the education ministry, opening on 13 August 2026 with about 500 Grade 10 to Grade 12 students across all four education zones and free ten-hour AWS training on offer](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students) | ***Baseline not held*** |
@@ -260,14 +263,14 @@ Sub-national inclusion acquired its first named commitment: a [ministerial missi
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | China Eximbank preferential buyer's credit | In force (2025-08) | [Unchanged; no repayment, drawdown or completion statement has been published (2026-08)](http://mof.govmu.org/English/PublishingImages/2019/MOFED%20Annual%20Report%20-%20FY%202017-18.pdf) | No change |
 | Cross-border payments gateway business | ***Baseline not held*** | [One gateway reports its Mauritian entity grew transaction volume by over 300% year on year and merchants by 42%, serving over 150 companies, with exit from the financial action task force grey list credited for the confidence (2025)](https://itweb.africa/article/mauritius-emerges-as-an-african-payments-hub/) | ***Baseline not held*** |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital and AI measures in the 2026-2027 budget | Did not exist | [Artificial intelligence named 35 times, carrying a 50,000-trainee target, a Rs 25m national learning platform, an investment tax credit of 15% a year over three years, a special economic zone of 83 arpents with preferential data-centre power and thirty-year renewable leases, e-gates, e-visa, e-judiciary and a Rs 13m cyber forensic laboratory (2026-06)](https://lexpress.mu/node/559426) | Advanced |
 

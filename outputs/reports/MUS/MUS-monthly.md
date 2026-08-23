@@ -1,16 +1,16 @@
 ---
 title: Mauritius — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: MUS
-ledger_rows: 37
+ledger_rows: 41
 not_held: 9
-record: a44744f6ca86
+record: db00c2799063
 ---
 
 # Mauritius: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -61,6 +61,11 @@ The same omnibus also makes immigration permits issuable in digital form and imp
 The [omnibus bill of 24 July](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) puts the National Fintech Governance Committee on a statutory footing from 1 September 2026 — minister-chaired, seating the central bank governor, the financial regulator's chief executive, two ministries, the investment board and four private-sector members, empowered to approve sector-wide standards, and expressly not a body corporate. It was announced with the [fintech strategy on 25 June](https://www.wearetech.africa/en/fils-uk/news/tech/mauritius-unveils-national-fintech-strategy-to-modernize-payments) and reached statute within a month.
 
 On cross-border payments the state operator [announced a Mauritius-Seychelles corridor as a launch](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/); no corroborating record from the partner fintech or either central bank is on file. A [South African Reserve Bank spokesperson said on 29 July that Mauritius is among four states considering onboarding to the Southern African settlement system](https://www.centralbanking.com/central-banks/currency/7976492/southern-african-countries-consider-joining-sadc-rtgs) by end-2027 — another central bank's account of Mauritian intent.
+<!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: dpi--dpi-mis -->
+Two sector information systems sit at opposite ends of the same problem this window. A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Meanwhile the health estate shows what happens after a system is built: patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The base holds no delivery figure for either.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
