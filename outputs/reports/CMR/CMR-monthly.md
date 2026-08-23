@@ -1,16 +1,16 @@
 ---
 title: Cameroon — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: CMR
-ledger_rows: 38
+ledger_rows: 41
 not_held: 7
-record: 932aec7aea8a
+record: 6dacb54d860c
 ---
 
 # Cameroon: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -91,6 +91,11 @@ The fourth population and agriculture census is still in the field: a [complemen
 
 ## Governance and regulation
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The one legislative act in the window changes the regulator rather than the rules it applies. A finance ministry order [moved the telecoms regulator from the third to the second category of public establishments, on its average realised budget across the 2022, 2023 and 2024 financial years](https://art.cm/fr/article/lart-accede-a-la-2e-categorie-des-etablissements-publics-la-performance-institutionnelle). The category governs institutional standing and pay structure, so what moved is the regulator's own position in the state rather than any power it holds over the sector. Neither the order text nor the budget figures behind it are published.
+<!-- /narrative -->
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
