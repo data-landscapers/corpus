@@ -1,12 +1,12 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 22-08-2026 at 23:55 — Covering sources published on 22 August 2026
+subtitle: Last updated 23-08-2026 at 10:20 — Covering sources published on 22 and 23 August 2026
 window_start: 2026-08-22
 window_end: 2026-08-23
-items: 15
-collected_to: 2026-08-22 23:55
-compiled: 2026-08-23 05:20
+items: 17
+collected_to: 2026-08-23 10:20
+compiled: 2026-08-23 12:00
 ---
 
 # Bulletin
@@ -32,9 +32,16 @@ compiled: 2026-08-23 05:20
 <select id="bulletin-country">
 <option value="">All countries</option>
 <option value="DZA">Algeria</option>
+<option value="BEN">Benin</option>
+<option value="BFA">Burkina Faso</option>
+<option value="CIV">Côte d'Ivoire</option>
 <option value="ETH">Ethiopia</option>
 <option value="GIN">Guinea</option>
+<option value="GNB">Guinea-Bissau</option>
+<option value="MLI">Mali</option>
+<option value="NER">Niger</option>
 <option value="NGA">Nigeria</option>
+<option value="SEN">Senegal</option>
 <option value="SOM">Somalia</option>
 <option value="ZAF">South Africa</option>
 <option value="TGO">Togo</option>
@@ -90,6 +97,16 @@ Guinea's president fixed by decree the rules for dematerialising public procurem
 **[Cyber security agency warns against hate speech, cyberbullying](https://www.zambiamonitor.com/cyber-security-agency-warns-against-hate-speech-cyberbullying/)** — Zambia Monitor, 22 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
 Zambia's cyber security agency warned publicly of an increase in hate speech, cyberbullying and insulting online content around the recently held general elections, reminding the public that creating, publishing, forwarding, reposting or deliberately amplifying unlawful content may constitute an offence. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity) and [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
+
+</div>
+
+### Regional collaboration
+
+<div class="bulletin-item" data-places="BEN BFA CIV GNB MLI NER SEN TGO" markdown="1">
+
+**[Fonds pour la Transformation Digitale en Afrique de l'Ouest (FTD) - le site du programme BOAD/KfW](https://ftd.boad.org/)** — BOAD (Banque Ouest Africaine de Developpement) / KfW Entwicklungsbank, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BEN/" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNB/" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a>
+
+The West African development bank and its German counterpart put the programme documentation for their Digital Transformation Fund on a standing site, setting out a facility that lends to public administrations across the eight WAEMU states to modernise and secure their information systems. Projects run to a maximum of 24 months against a ceiling of 2,500 million FCFA at a stated 2.2 per cent, with partial state co-financing obligatory and a named focal point in each member state. No date of signature or entry into force is given anywhere on the site, and no country allocation or committed total is published. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov), [New investments](#new-investments) and [Cybersecurity](#cybersecurity).*</span>
 
 </div>
 
@@ -163,6 +180,14 @@ Ethio Telecom's chief executive met the leadership of Italy's state development 
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="BEN BFA CIV GNB MLI NER SEN TGO" markdown="1">
+
+**[Fonds pour la Transformation Digitale en Afrique de l'Ouest (FTD) - le site du programme BOAD/KfW](https://ftd.boad.org/)** — BOAD (Banque Ouest Africaine de Developpement) / KfW Entwicklungsbank, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BEN/" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNB/" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 ## ICT Infrastructure
 
 ### Connectivity
@@ -213,6 +238,14 @@ Summarised under [Public debate and participation in policymaking](#public-debat
 
 ### Cybersecurity
 
+<div class="bulletin-item bulletin-item--xref" data-places="BEN BFA CIV GNB MLI NER SEN TGO" markdown="1">
+
+**[Fonds pour la Transformation Digitale en Afrique de l'Ouest (FTD) - le site du programme BOAD/KfW](https://ftd.boad.org/)** — BOAD (Banque Ouest Africaine de Developpement) / KfW Entwicklungsbank, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BEN/" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNB/" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="SOM" markdown="1">
 
 **[Islamic counter terrorism coalition launches Somalia programme with training for journalists and social media influencers](https://sonna.so/en/article/Islamic-counter-terrorism-coalition-launches-Somalia-programme-with-training-for-journalists)** — Somali National News Agency (SONNA), 22 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SOM/" title="SOM">Somalia</a>
@@ -232,6 +265,14 @@ Summarised under [Data protection](#data-protection).
 ## DPI
 
 ### Data Exchange
+
+<div class="bulletin-item" data-places="ETH" markdown="1">
+
+**[MESOB Center Services - Organizations, Services, Requirements, Fees & Processing Time](https://mesobcenter.et/)** — FDRE MESOB Service, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
+
+Ethiopia's unified public-service platform publishes its own service catalogue, stating 180-plus government services drawn from 23 named institutions among them the customs commission, the health, justice and transport ministries, the food and drug authority and the state telecommunications operator, each listed with its required documents, fee and processing time. The count is an order of magnitude below the more than 2,200 services a government account of August 2026 attributed to the platform, and the base cannot reconcile the two on the same basis. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Access to services](#access-to-services).*</span>
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="UGA" markdown="1">
 
@@ -297,6 +338,22 @@ Summarised under [Strategies plans and policies](#strategies-plans-and-policies)
 
 ### Other GovTech and e-Gov
 
+<div class="bulletin-item bulletin-item--xref" data-places="ETH" markdown="1">
+
+**[MESOB Center Services - Organizations, Services, Requirements, Fees & Processing Time](https://mesobcenter.et/)** — FDRE MESOB Service, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="BEN BFA CIV GNB MLI NER SEN TGO" markdown="1">
+
+**[Fonds pour la Transformation Digitale en Afrique de l'Ouest (FTD) - le site du programme BOAD/KfW](https://ftd.boad.org/)** — BOAD (Banque Ouest Africaine de Developpement) / KfW Entwicklungsbank, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BEN/" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNB/" title="GNB">Guinea-Bissau</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
 **[Nigerian Government Approves NIGCOMSAT-2A, 2B Satellites To Expand Broadband, Strengthen National Security](https://saharareporters.com/2026/08/22/nigerian-government-approves-nigcomsat-2a-2b-satellites-expand-broadband-strengthen)** — Sahara Reporters, 22 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
@@ -346,6 +403,14 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 ## Inclusion
 
 ### Access to services
+
+<div class="bulletin-item bulletin-item--xref" data-places="ETH" markdown="1">
+
+**[MESOB Center Services - Organizations, Services, Requirements, Fees & Processing Time](https://mesobcenter.et/)** — FDRE MESOB Service, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="TUN" markdown="1">
 
