@@ -3,16 +3,16 @@ title: Mauritius — progress report, 2025-08-01 to 2026-08-23
 compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 place: MUS
-ledger_rows: 79
+ledger_rows: 80
 not_held: 9
-record: 1704936e2388
+record: 2cc73e684101
 ---
 
 # Mauritius: progress report, 2025-08-01 to 2026-08-23
 
 *Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 79 systems and instruments on this place's ledger, 45 changed position between 2025-08-01 and 2026-08-23, 14 did not, 11 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 80 systems and instruments on this place's ledger, 45 changed position between 2025-08-01 and 2026-08-23, 15 did not, 11 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 81 sources for this place in the window — 13 in the earlier half (2025-09 to 2026-03), 68 in the later (2026-04 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -151,6 +151,7 @@ The only measured movement in this section belongs to a commercial bank: [cash f
 | Ministerial warning on prosecuting online speech | None published | [A public communiqué from the ICT ministry warning that online speech can be prosecuted under the Cybersecurity and Cybercrime Act 2021, naming the fake-profile, cyberbullying and undesirable-content offences and defining undesirable content to include material that is deceptive or inaccurate](https://mitci.govmu.org/mitci/wp-content/uploads/2026/08/COMMUNIQUE_social_media.pdf) | Advanced |
 | Social-media identity verification mechanism | Did not exist | [Consultations opened toward a verification mechanism against disinformation, impersonation, defamatory content, scams and child sexual abuse material, citing 2,300 online-harm cases from January to June 2026 and frauds up to Rs 500,000; no draft instrument published (2026-06)](https://lexpress.mu/node/558887) | Advanced |
 | Virtual-asset solicitation rule | Did not exist | [Unlicensed solicitation of investors in Mauritius would be prohibited by any medium, defined to reach targeted or algorithmic advertising, platforms, applications, social media, influencers, affiliates, referral codes, seminars and webinars, with any publicly accessible communication presumed to target Mauritius; introduced, not enacted (2026-07)](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Advanced |
+| Cybersecurity and Cybercrime Act 2021 | In force since 2021-12-10 | [In force as Act No. 16 of 2021, gazetted as Legal Supplement 567 to Government Gazette No. 173 of 24 November 2021; it is the statute the ministry's own online-content warnings rest on, carrying the offences of misuse of a fake profile (s.16), cyberbullying (s.17) and failure to moderate undesirable content (s.23) with their penalty scales](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2023/03/act1621.pdf) | No change |
 
 ### Strategies, plans and policies
 

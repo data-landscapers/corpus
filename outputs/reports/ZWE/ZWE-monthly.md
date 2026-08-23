@@ -3,9 +3,9 @@ title: Zimbabwe — monthly update, July 2026
 compiled: 2026-08-23
 period: 2026-07-01 to 2026-08-23
 place: ZWE
-ledger_rows: 82
+ledger_rows: 83
 not_held: 9
-record: 83e46258a511
+record: a4eb8567768f
 ---
 
 # Zimbabwe: monthly update, July 2026
@@ -71,6 +71,8 @@ The registration end of the same estate is being rebuilt with donor money. [Ten 
 The road authority took handover of an expanded toll plaza on 29 July with two of six lanes reserved for radio-frequency tag holders, a second plaza due the next day and a third under construction, against a stated programme covering all 29 tollgates; the announcement states nothing on retention, access or legal basis for the movement record the tags generate ([handover account](https://263chat.com/zimbabwe-widens-key-tollgates-as-e-toll-era-begins/)).
 
 The switch operator reported interoperable quick-response payments in rollout and participation in a pan-African settlement system, with no merchant, acceptance-point or transaction count ([conference account](https://www.zbcnews.co.zw/electronic-transactions-top-zig1-trillion-as-zimbabwe-deepens-digital-finance/)).
+
+The quarter's own numbers came from the central bank rather than from a conference platform. Its report for the quarter ending 30 June puts [electronic transactions at ZiG757.12bn, up 23.71% on the first quarter, on 265.7 million transactions, with real-time gross settlement carrying 67.00% of the value and mobile money 12.96% of it on 236.67 million of the transactions](https://www.rbz.co.zw/documents/nps/quarterly/2026/NPSD_SECOND_QUARTER_REPORT_ACTIVITY_JUNE_2026.pdf) — the same split the base has carried since the fourth quarter of 2025, of a system whose value moves through settlement and whose use is almost entirely mobile.
 
 
 Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zimbabwe on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zimbabwe.

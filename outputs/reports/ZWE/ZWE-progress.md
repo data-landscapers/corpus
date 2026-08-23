@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-23
 place: ZWE
 ledger_rows: 185
 not_held: 9
-record: d9749706819f
+record: dc967c3e1657
 ---
 
 # Zimbabwe: progress report, 2025-08-01 to 2026-08-23
@@ -14,7 +14,7 @@ record: d9749706819f
 
 *Of 185 systems and instruments on this place's ledger, 89 changed position between 2025-08-01 and 2026-08-23, 40 did not, 47 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 156 sources for this place in the window — 28 in the earlier half (2025-08 to 2026-01), 128 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 157 sources for this place in the window — 28 in the earlier half (2025-08 to 2026-01), 129 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -132,7 +132,7 @@ The one position that regressed is the state fixed operator's balance sheet: gov
 |---|---|---|---|
 | Bank charge caps | Electronic transactions under US$10 or the local-currency equivalent exempt from bank charges since 2024-09-01; no terminal or withdrawal ceiling held | [Cash withdrawals capped at 2%, card terminals at 1.5% capped at US$20, balance-inquiry and cash-deposit fees removed, settlement charges cut to US$0.80](https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits) | Advanced |
 | Central bank digital transformation and financial technology department | Did not exist | [Established to lead financial-technology regulation and deliver the second national financial inclusion strategy; no head, staffing or published output on record since](https://technomag.co.zw/rbz-unveils-dedicated-department-for-digital-transformation-and-fintech-innovation/) | Advanced |
-| Central bank national payment systems report | None held; every payment figure in the base previously reached it through press coverage of conference remarks or the monetary policy statement | [The Reserve Bank's Q4 2025 National Payment Systems report held in full: electronic transactions ZiG736.03bn (up 7.78% on Q3), 238.27 million transactions (up 11.83%); mobile money 86.70% of volume but 10.51% of value; RTGS 58.29% of value on 1.20% of volume; US dollar RTGS transactions US$10.84bn (up 14.71%) on 1.75 million transactions](https://www.rbz.co.zw/documents/nps/quarterly/2025/NPSD_FOURTH_QUARTER_REPORT_ACTIVITY_DECEMBER_2025.pdf) | Advanced |
+| Central bank national payment systems report | The Q4 2025 report: electronic transactions ZiG736.03bn on 238.27 million transactions | [The Reserve Bank's Q2 2026 National Payment Systems report held in full: electronic transactions ZiG757.12bn, up 23.71% on the first quarter's ZiG612.00bn, on 265.7 million transactions, up 13.2% from 234.7 million; by value RTGS 67.00%, mobile money 12.96%, internet banking 12.54%, ATMs 3.84% and point-of-sale 3.66%, with mobile money carrying 236.67 million of the transactions](https://www.rbz.co.zw/documents/nps/quarterly/2026/NPSD_SECOND_QUARTER_REPORT_ACTIVITY_JUNE_2026.pdf) | Advanced |
 | Electronic retail transaction value and volume | US$5.93bn in Q2 2025, up 34%, with 152,000 card terminals deployed in the quarter | [511.1 million electronic transactions worth ZiG1.37 trillion in the six months to 2026-06-30](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/) | Advanced |
 | Mobile money and interbank transfer limits | ZiG8,000 per transaction | [ZiG13,000 per transaction with a ZiG50,000 monthly cap, person to person or business](https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits) | Advanced |
 | National payment system value and volume | ZiG241.78 billion across 93.6 million transactions (May 2026) | [ZiG283.58 billion in June 2026, a 17 per cent rise on May, while transaction volumes fell 9 per cent to 85.16 million](https://fingaz.co.zw/2026/08/20/digital-payments-surge-17pct/) | Advanced |

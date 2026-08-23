@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-23
 place: DZA
 ledger_rows: 109
 not_held: 7
-record: eb93b2d772a2
+record: 36193f652e60
 ---
 
 # Algeria: progress report, 2025-08-01 to 2026-08-23
@@ -14,7 +14,7 @@ record: eb93b2d772a2
 
 *Of 109 systems and instruments on this place's ledger, 75 changed position between 2025-08-01 and 2026-08-23, 16 did not, 11 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 192 sources for this place in the window — 53 in the earlier half (2025-08 to 2026-01), 139 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 193 sources for this place in the window — 53 in the earlier half (2025-08 to 2026-01), 140 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -136,7 +136,7 @@ Copper phase-out was in development before the window opened and remains so at i
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Apostille e-legalisation platform | Planned on Hague accession (2025-08-25) | [Live; recognition claimed in about 126 states](https://www.elmoudjahid.dz/fr/actualite/legalisation-des-documents-destines-a-l-etranger-l-apostille-desormais-accessible-en-ligne-255359) | Advanced |
-| Dzair Digital Services national portal (single window) | Did not exist | [27 services live against targets of 62 by end-2027 and 350 by 2028, six energy-sector services having been integrated in coordination with the energy ministry](https://www.aps.dz/fr/algerie/education-et-technologie/mt1zgj3g-integration-de-six-nouveaux-services-numeriques-relatifs-au-secteur-de-l-energie) | Advanced |
+| Dzair Digital Services national portal (single window) | Did not exist | [27 services live against targets of 62 by end-2027 and 350 by 2028, six energy-sector services having been integrated in coordination with the energy ministry on 2026-08-20: E-SANED and ILTIMESS from the electricity and gas regulator, Fatourati, the national utility's electronic payment service and e-Taqaty, and E-Tarcheed](https://algerie-eco.com/2026/08/21/portail-national-des-services-numeriques-integration-de-six-nouveaux-services-numeriques-relatifs-au-secteur-de-lenergie/) | Advanced |
 | Ministry of Labour single portal for social-security services | No single portal on record | [235 services; 97% document digitisation (2026-04), ministry-reported](https://www.algerie360.com/50-de-demarches-numeriques-supplementaires-dici-decembre-2026-sengage-saihi/) | Advanced |
 | Services-import platform (services.mcepe.gov.dz) | Did not exist | [In operation from 2026-08-01 as the exclusive route for services-import applications](https://www.echoroukonline.com/وزارة-التجارة-الخارجية-تطلق-منصة-رقمي) | Advanced |
 | Bawabatak public-services portal | ***Baseline not held*** | [342 services; its relationship to the newer Dzair portal is not stated](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-launches-dzair-services-to-centralize-public-digital-platforms) | ***Baseline not held*** |

@@ -1,20 +1,20 @@
 ---
-title: Morocco — progress report, 2025-08-01 to 2026-08-21
-compiled: 2026-08-21
-period: 2025-08-01 to 2026-08-21
+title: Morocco — progress report, 2025-08-01 to 2026-08-23
+compiled: 2026-08-23
+period: 2025-08-01 to 2026-08-23
 place: MAR
-ledger_rows: 131
+ledger_rows: 132
 not_held: 17
-record: 49a3a72d8adb
+record: 06d27046834c
 ---
 
-# Morocco: progress report, 2025-08-01 to 2026-08-21
+# Morocco: progress report, 2025-08-01 to 2026-08-23
 
-*Compiled 2026-08-21 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 131 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-21, 35 did not, 11 carry no stated baseline, and 17 are ***Not held*** at both ends.*
+*Of 132 systems and instruments on this place's ledger, 69 changed position between 2025-08-01 and 2026-08-23, 35 did not, 11 carry no stated baseline, and 17 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 139 sources for this place in the window — 36 in the earlier half (2025-09 to 2026-02), 103 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 140 sources for this place in the window — 36 in the earlier half (2025-09 to 2026-02), 104 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ Twenty-five rows did not move at all, and nine carry no stated baseline. Morocco
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | 5G commercial mobile service | Licence tender open, no commercial service (2025-07) | [In service on 3.5 GHz and 700 MHz; 3.2m 5G subscribers, 8.4% of mobile-internet users (regulator, 2026-03)](https://www.hespress.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%86%D8%AA%D8%B1%D9%86%D9%8A%D8%AA-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-5g-%D9%8A%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D9%85%D8%BA-1652175.html) | Advanced |
 | 5G licence specification and coverage obligations | Not held | [Coverage floor: 8 cities plus airports by November 2025, 25% of population by end-2026, 70% by end-2030; terms: maximum 3 licences, 20-year renewable, 50-100MHz at 3GHz plus 2x10MHz at 700MHz, MAD 60m per licence for band reorganisation; corrects the conflicting 45%/85% figure held elsewhere; bidders' own coverage commitments are not disclosed in the report](https://www.anrt.ma/sites/default/files/2025-07/5G-Rapport-instruction.pdf) | Advanced |
@@ -50,7 +50,7 @@ Twenty-five rows did not move at all, and nine carry no stated baseline. Morocco
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Icudar Dakhla green data centre | Did not exist | [Planned as a green data-centre campus at Dakhla under the Igoudar Numerique programme, with one part for the kingdom's sovereign digital needs and another open to private investment; feasibility studies were launched in April 2026 and no capacity, cost, operator or commissioning date is held](https://northafricapost.com/99498-moroccos-ai-and-data-center-ambitions-take-shape-amid-growing-digital-investment.html) | Advanced |
 | Local-storage requirement for sensitive data (2021 law) | Not held | [Article 11 mandates exclusive national hosting of sensitive data; article 12 sets outsourcing conditions; article 49 sets a fine of MAD 200,000-400,000 (doubled on repeat); article 53 defers force to implementing texts; 'donnees sensibles' is defined only in the unheld decret 2-15-712](https://www.anrt.ma/sites/default/files/2022-02/loi_05-20_cybersecurite_fr.pdf) | Advanced |
@@ -65,19 +65,19 @@ Twenty-five rows did not move at all, and nine carry no stated baseline. Morocco
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Renewable power supply agreement for the Nexus platform | Up to 500 MW contracted for the full programme (2025-06) | [Same; the ministry's April 2026 communique restates no power-supply figure and gives 36 MW cumulative capacity by end-2027](https://www.prnewswire.com/news-releases/global-consortium-led-by-nexus-core-systems-to-build-ai-factory-powered-by-500-mw-of-renewable-energy-and-next-generation-ai-compute-302485504.html) | No change |
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Installed national data-centre capacity | 98 MW installed (2020), the state's last measurement | [98 MW installed (2020), of which 14 MW - 14% - was outsourced; no later national figure published to 2026-08-09](https://www.cese.ma/media/2023/10/AvAs71f3-P1.pdf) | No change, no fresher national measurement published |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Directive Nationale de la Securite des Systemes d'Information (DNSSI) v2.0 | DNSSI v1.0 in force since 2014 | [v2.0 in force, ISO 27002-structured, covers state bodies and all vital-importance infrastructures; entities given six months to schedule conformity](https://www.dgssi.gov.ma/fr/textes-legislatifs-et-reglementaires/circulaire-du-chef-du-gouvernement-ndeg-22023-du-12-janvier) | Advanced |
 | National Cybersecurity Strategy of 2023 and its implementing texts | Not held | [One instrument, not two: see MAR-infra.cybersec-cybersecurity-strategy-2030 for the full text](https://www.dgssi.gov.ma/sites/default/files/publications/pdf/2024-10/Strat%C3%A9gie%20Nationale%20de%20Cybers%C3%A9curit%C3%A9%202030.pdf) | Advanced |
@@ -96,8 +96,9 @@ Two hosting positions did not move: cloud regions announced in May 2024 for Casa
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
+| AfCFTA ADAPT cross-border DPI pilot | Did not exist | [One of the first three countries selected to implement shared cross-border rails for identity, payments and trusted data exchange, chosen on a two-stage assessment of political commitment, regulatory alignment, technical capacity, private-sector engagement and the maturity of national digital systems](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) | Advanced |
 | Continental cross-border data exchange pilot | Did not exist; the system was launched November 2025 | [Morocco one of three pilot states, on a distributed-ledger reference architecture owned by the continental trade secretariat](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Advanced |
 | National water digital twin | Did not exist | [A three-layer design resting on a sovereign national data platform hosted in Morocco, fusing sensor networks, satellite observation and data from the basin agencies, the planning commission and engineering consultancies; to be hosted in an engineering school's forthcoming scientific tower](https://medias24.com/2026/07/28/jumeau-numerique-de-leau-ce-quil-faut-savoir-sur-ce-pillier-du-pole-tec-1732383/) | Advanced |
 | Cross-border data exchange guidelines | Drafting convened under Morocco's chairmanship of the continental agency council (2025-07) | [No published guidelines on record at 2026-08-06](https://smartafrica.org/smart-africa-mobilises-11-member-states-in-the-kingdom-of-morocco-to-co-create-africas-first-cross-border-data-exchange-guidelines) | No change |
@@ -106,7 +107,7 @@ Two hosting positions did not move: cloud regions announced in May 2024 for Casa
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Biometric passport decree 2.26.551 | The 2008 decree regime; address on the biodata page; temporary passports issued | [Four languages including Amazigh, an encrypted chip to international civil aviation standard, the address removed and temporary passports abolished; the current format continues during a transitional period](https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html) | Advanced |
 | Idarati X.0 national digital wallet | Did not exist | [Eight conventions signed and two vendors engaged on architecture; a six-month build stated; binds the social security fund, the road safety agency, the land registry, transport and youth and culture on a card-authenticated core](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-strengthens-e-government-architecture-with-idarati-x-0) | Advanced |
@@ -117,7 +118,7 @@ Two hosting positions did not move: cloud regions announced in May 2024 for Casa
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Bank Al-Maghrib standalone financial-inclusion measurement report (1st edition) | Did not exist as a separate publication | [Access points per 10,000 adults about 10 (2021) to about 15 (2024); account-holding 53% to 58%; M-Wallets 6.3m to 13.7m; formal savings 33%, formal credit 12% of adults (end-2024); usage, not access, named as the binding constraint](https://www.bkam.ma/content/download/844040/9139542/Rapport%20annuel%20sur%20l'Inclusion%20financière%202024.pdf) | Advanced |
 | National financial inclusion strategy | Not held | [M-Wallets grew 2.44m (2020) to 6.3m (2021, +158%) to 7.7m (2022, +22%) to 10.4m (2023, +35%); adult savings-account penetration 28% (2021) to 38% (2023) against a 20% target (exceeded); 20 M-Wallet offers on record by 2023; formal savings 30%, formal credit 12% of adults; microcredit MAD 8.4bn in 2022 but active clients down 4.9% to 795,000](https://www.bkam.ma/content/download/775636/8670507/SNIF%202021%20VF.pdf) | Advanced |
@@ -125,7 +126,7 @@ Two hosting positions did not move: cloud regions announced in May 2024 for Casa
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National population registry and unified social registry | About half the population enrolled (2024-12) | [22 million of 39 million registered and 5 million eligible households served, on a June 2026 account](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems) | Advanced, on a press figure |
 | Registry legal basis, law 72-18 | Not held | [Creates the Registre national de la population and the Registre social unifie, the Identifiant digital civil et social, and the Agence nationale des registres; articles 19/22 carve out defence/security; article 45 defers force to implementing texts](https://faolex.fao.org/docs/pdf/mor204689.pdf) | Advanced |
@@ -133,13 +134,13 @@ Two hosting positions did not move: cloud regions announced in May 2024 for Casa
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Shared medical record | Did not exist | [Full penal chapter now held: article 42 (6-12 months, MAD 50,000-200,000), article 43 (3-12 months, up to MAD 200,000), article 44 (MAD 50,000-300,000 for failure to feed or interconnect), article 45 (3-12 months, MAD 10,000-100,000); a doctors' and clinics' collective opposes it, citing CNSS leaks and attributing a claimed MAD 400m/year CNSS saving to its own communique rather than the bill](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/) | Advanced, contested |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Administrative certificates abolished under law 55.19 | Not held (2025-08) | [22 certificates abolished and replaced by sworn declarations](https://en.hespress.com/142557-morocco-abolishes-22-administrative-certificates-to-streamline-public-services.html) | Advanced |
 | Court of Cassation portal | In service as the portal lawyers use to track rulings | [Offline for more than a week with no official explanation, as the courts increasingly rely on digital portals for tracking rulings](https://www.alnahar.ma/121842.html) | Regressed |
@@ -153,14 +154,14 @@ Two hosting positions did not move: cloud regions announced in May 2024 for Casa
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Mobile identity enrolment units | 80 units, more than 130,000 citizens served (2024) | [Same; no later figure held](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024) | No change |
 | Registry extension to rural and remote areas | Extension via digital and remote applications, targets stated (2024-12) | [Same; the end-2024 target date has passed with no delivery or coverage figure held](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems) | No change |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National earth-observation data programme | Not held | [Mohammed VI A and B satellites (launched 2017, 2018), operated by the Royal Centre for Remote Sensing; earth-observation applications named in water, land use, agriculture and disaster management](https://www.unoosa.org/documents/pdf/copuos/2024/statements/9_Morocco.pdf) | Advanced |
 
@@ -176,7 +177,7 @@ Against these, the registry's own extension target lapsed. The December 2024 ope
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital health bill 52.26 | Did not exist | [A 50-article bill adopted and now publicly opposed by doctors; implementing decrees due within 12 months of publication and provider connection within 24 months of the technical decree; text not published](https://www.hespress.com/%d8%a3%d8%b7%d8%a8%d8%a7%d8%a1-%d9%8a%d8%ad%d8%aa%d8%ac%d9%88%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-1793268.html) | Advanced, contested |
 | Digital X.0 framework bill | Did not exist | [With the general secretariat; three pillars — data governance, sectoral digital identity, and interoperability on traceable consent; no text, article count or tabling date on record](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-drafts-landmark-law-to-govern-ai-data-and-digital-identity) | Advanced, nothing on record since |
@@ -187,14 +188,14 @@ Against these, the registry's own extension target lapsed. The December 2024 ope
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cloud First policy | Mandatory default in force; a national cloud observatory scheduled for 2027 (2025) | [Same; the observatory is not established and no later state is on record](https://northafricapost.com/92626-moroccos-cloud-first-policy-transforms-digital-governance-and-economic-strategy.html) | No change |
 | Digital Morocco 2030 | In force; stated targets include a place in the global top 50 for electronic government and 100,000 people trained by 2030 | [In force; a US$250m acceleration programme attached in June 2026; the technology sector was 6.8% of gross domestic product on a 2025 figure](https://www.trade.gov/country-commercial-guides/morocco-digital-economy) | No change |
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | African Telecommunications Union Administrative Council seat | Did not exist | [Elected for the 2027-2031 term; the delegation combined the digital ministry, the regulator and the development agency](https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031) | Advanced |
 | Host-country agreement for a continental development agency office | Did not exist | [Agreement signed and approved; the office is not on record as established](https://assabah.ma/928742.html) | Advanced |
@@ -204,13 +205,13 @@ Against these, the registry's own extension target lapsed. The December 2024 ope
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National data classification guide | ***Baseline not held*** | [Categorises data by sensitivity, with sensitive data required to be stored domestically](https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup) | ***Baseline not held*** |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data-protection cooperation memorandum with Portugal | Did not exist | [Signed; exchange of information and technical expertise on artificial intelligence, synthetic media and digital violence](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Advanced |
 | Facial-recognition case-by-case authorisation regime | Moratorium in force to 2020-12-30 | [Case-by-case prior-authorisation regime in force, preserving sectoral authorisations D-108-EUS/2020 and D-126-EUS/2020, and conditioning future authorisation on routing through a national trusted-third-party identity system; the CNDP flags controllers building their own biometric databases, sometimes hosted abroad](https://www.cndp.ma/wp-content/uploads/2023/12/CNDP-Dlibration_D-195-EUS-2020-Usage_de_la_reconnaissance_faciale-_20210421.pdf) | Advanced |
@@ -223,21 +224,21 @@ Against these, the registry's own extension target lapsed. The December 2024 ope
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Law 55.19 on procedural simplification | ***Baseline not held*** | [In force, but the ombudsman's 2025 report finds agencies still asking for paper copies of documents already held electronically and imposing undisclosed extra conditions](https://nichan.ma/361721/) | ***Baseline not held*** |
 | Public debate on platform regulation and digital sovereignty | Baseline not held | [Specialists arguing for a law defining platform responsibilities and notice-and-response mechanisms, and against blanket blocking or breaking encryption (2026-08)](https://www.hespress.com/%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b3%d8%a8%d8%aa%d8%a9-%d8%aa%d8%a4%d9%83%d8%af-%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-1792419.html) | ***Baseline not held*** |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Council of Europe Convention 108 accession | In force; ratified 2019 | [In force; ratified 2019](https://rm.coe.int/16806fdcb3) | No change |
 | European Union adequacy decision for Morocco | No adequacy decision; an intention to seek one reported during 2025 | [No adequacy decision; the Commission's list names sixteen jurisdictions plus one international organisation, none in Africa](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) | No change |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cooperation agreement with the anti-corruption authority | Did not exist | [Signed; aims at transparency through advanced information systems and artificial-intelligence tools for corruption-risk prevention](https://techreviewafrica.com/news/5330/morocco-hosts-african-open-government-conference-signs-key-agreements-to-strengthen-transparency-and-digital-governance) | Advanced |
 | National open-data portal | Operating at data.gov.ma with a documented publication procedure since April 2021 (2025-08) | [Operating at data.gov.ma with four published procedure volumes - manuals for Responsables Open Data and Gestionnaires de Donnees (April 2021), a data-inventory methodology v1.3 (February 2023) and a standards and formats manual v1.1 (December 2024) - and published datasets including a 1,028-entry start-up database (2025-01-03); a four-strand action plan (legal, technical, organisational, usage) followed the 2020 assessment; the assessment report itself remains unheld](https://data.gov.ma/sites/default/files/docs/Open_data_manuel_ROD_Avril%202021.pdf) | Advanced |
@@ -255,7 +256,7 @@ Two host-country agreements were approved by the council of ministers on 9 April
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | AI Made in Morocco roadmap | An "AI first" posture described as emerging alongside the cloud policy (2025, year precision) | [Named at the ministry’s national "AI Made in Morocco" event on 2026-01-12, framed there as consolidating Maroc IA 2030, and repeated at subsequent signings; no published text at 2026-08-09; a trade-press account (2026-01-30) describes ten programmes: trust (Digital X.0 law, framework 2025-26, certification 2027, alignment 2029-30), infrastructure (Move to Cloud 2025-27, 50MW+Benguerir data centre, 500MW green campus), data/interoperability (digital commons platform, 20-API library, once-only), skills (YouCode, Master AI Junior, JobInTech, 2,500 to 14,000 trained), and a national Darija/Amazigh LLM at alpha stage; still no ministry-published document](https://techafricanews.com/2026/03/11/ministry-of-digital-transition-and-administration-reform-highlights-ais-role-in-digital-transformation/) | Advanced |
 | Al-Jazari institutes network | Two regional protocoles d'accord signed - Guelmim-Oued Noun 2025-04-14 and Nador 2025-07-02 - with no statute, budget, site or opening date (2025-08) | [A founding institute, JAZARI ROOT, launched 2026-01-12, and four regional or thematic institutes constituted by protocole or founding agreement - Guelmim-Oued Noun (2025-04-14), Nador (2025-07-02), artificial intelligence and energy transition at Dakhla (2025-11-18) and industry at Fez (2026-03-11); no statute, legal form, campus, budget, governance structure or intake published](https://techafricanews.com/2026/03/11/ministry-of-digital-transition-and-administration-reform-highlights-ais-role-in-digital-transformation/) | Advanced |
@@ -264,7 +265,7 @@ Two host-country agreements were approved by the council of ministers on 9 April
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Oracle regional research and development office, Agadir | Did not exist; a Casablanca research centre was announced in June 2025 with 1,000 jobs claimed | [Office inaugurated by the head of government; no headcount, investment figure or delivery outturn published for the site](https://techreviewafrica.com/news/6122/oracle-inaugurates-regional-rd-office-in-agadir) | Advanced |
 | Renewed offshoring offer and specialised territorial hubs | Not named on file (2025-08) | [Three agreements covering a training incentive, territorial attractiveness and specialised offshoring hubs; a stated 2030 target of 270,000 jobs and nearly MAD 40bn in exports](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-signs-three-deals-to-strengthen-digital-offshoring) | Advanced |
@@ -272,14 +273,14 @@ Two host-country agreements were approved by the council of ministers on 9 April
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Artificial-intelligence start-up programme with a technology park | Did not exist | [Announced, offering cloud, connectivity, cybersecurity and business use cases to artificial-intelligence start-ups; no cohort, intake or budget published](https://techafricanews.com/2026/04/09/orange-maroc-partners-technopark-to-accelerate-ai-and-digital-transformation/) | Advanced |
 | Start-ups listed in the digital development agency's database | 1,028 entries (2025-01-03), the latest published (2025-08) | [1,028 entries (2025-01-03), the union of four listing exercises; no later release published to 2026-08-09](https://data.gov.ma/data/dataset/donnees-sur-les-startups) | No change, no fresher release published |
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | United States-Morocco Agreement on Scientific and Technical Cooperation | In force under the 2006 agreement as extended by the 2023 protocol | [In force; the protocol's signed pages carry no text layer, so its operative terms and its term of years are not established](https://www.state.gov/morocco-23-728/) | No change |
 
@@ -295,14 +296,14 @@ The one measured position in the section is a year stale. Offshoring employment 
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Stratégie nationale d'alphabétisation 2023-2035 | Did not exist | [Strategy running 2023-2035 with a 2023-2027 roadmap; a digital element (strategic choice 8) is named but not established in the French-language text held; citizen-level digital literacy remains an absence](https://www.anlca.gov.ma/sites/default/files/2025-10/Strategie-nationale-d%27alphabetisation-SNA-%281%29_compressed-%281%29.pdf) | Advanced |
 | Internet-box refurbishment | ***Baseline not held*** | [6,000 boxes refurbished in Morocco in 2025 with EUR 1.5m in savings, company-reported](https://www.wearetech.africa/fr/fils/actualites/telecom/orange-a-reconditionne-164-000-box-internet-en-2025-en-afrique-et-au-moyen-orient) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Executive leadership programme in cybersecurity | Did not exist | [A five-day programme for senior officials of African member states, organised by the continental network of cybersecurity authorities and hosted by the general directorate for information systems security; no participant count or budget stated](https://assabah.ma/928742.html) | Advanced |
 | Ministry-Capgemini artificial-intelligence skills memorandum | Did not exist | [Covers skills-building and acculturation across administrations, universities and research centres, support to institute-backed start-ups, and public-service use cases; no sum attached](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-le-maroc-renforce-son-ecosysteme-avec-lappui-de-capgemini) | Advanced |
@@ -310,7 +311,7 @@ The one measured position in the section is a year stale. Offshoring employment 
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National research, development and innovation support programme (PNARDI) 2025-2028 | In force since 2025-04-07; MAD 1bn committed across four editions to 2028 | [MAD 1bn from a joint higher-education ministry and OCP Group fund across four editions between 2025 and 2028, of which MAD 200m is directed at mobilising Moroccan researchers resident abroad; no digital or artificial-intelligence share is stated; first edition's three named sub-programmes are IBN ALBANNA (R&D), IBN BATTOUTA (young researchers) and NEFZAOUIA (tech transfer); still no award or disbursement record](https://www.maroc.ma/fr/actualites/lancement-officiel-du-programme-national-dappui-la-recherche-developpement-et-linnovation-2025-2028) | Advanced |
 
@@ -322,7 +323,7 @@ The measured position added inside the window is an operator's own: 6,000 intern
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital Transformation Acceleration Program | Did not exist | [US$250m over five years (MAD 2.34bn at the reporting outlet's 2026-07-22 conversion); conditions for entry into force outstanding](https://www.worldbank.org/en/news/press-release/2026/06/12/two-new-programs-to-advance-morocco-s-digital-transformation-and-climate-resilience) | Advanced |
 | Insurance technology and inclusion programme | Did not exist | [XDR 371,714.70 committed (US$508,015 at the 2026 provisional annual average rate), 2026-2028, executed by the insurance supervisor; total cost US$680,000 of which US$510,000 is grant and US$170,000 counterpart](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MA-H00-029) | Advanced |
@@ -333,7 +334,7 @@ The measured position added inside the window is an operator's own: 6,000 intern
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Ministry-Orange artificial-intelligence memorandum | Did not exist | [Signed at a second artificial-intelligence summit; advances the institutes programme; no sum attached](https://techafricanews.com/2026/06/05/morocco-signs-ai-partnership-with-orange-morocco-to-advance-digital-transformation/) | Advanced |
 | Private 5G platform agreement and laboratory | Did not exist | [A vendor to supply a private 5G platform for an operator laboratory, with a catalogue targeting smart logistics, utilities and energy; no sum attached](https://techafricanews.com/2026/04/08/orange-maroc-and-ericsson-strengthen-collaboration-on-africas-digital-transformation/) | Advanced |
@@ -341,7 +342,7 @@ The measured position added inside the window is an operator's own: 6,000 intern
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital ministry investment appropriation | MAD 1,758.7m investment appropriation (2024), the latest published (2025-08) | [MAD 1,758.7m investment (2024), against MAD 85.8m personnel and MAD 187.8m materiel; no 2025 or 2026 appropriation published](https://www.mmsp.gov.ma/fr/budget-annuel) | No change, no fresher appropriation published |
 

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-23
 place: AGO
 ledger_rows: 116
 not_held: 7
-record: ef4a8724af9c
+record: b31f5ee559b4
 ---
 
 # Angola: progress report, 2025-08-01 to 2026-08-23
@@ -14,7 +14,7 @@ record: ef4a8724af9c
 
 *Of 116 systems and instruments on this place's ledger, 72 changed position between 2025-08-01 and 2026-08-23, 19 did not, 18 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 241 sources for this place in the window — 48 in the earlier half (2025-08 to 2026-01), 193 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 242 sources for this place in the window — 48 in the earlier half (2025-08 to 2026-01), 194 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -132,7 +132,7 @@ The domestic money went backwards while the international layer advanced. The co
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital transition agenda | 214 structuring projects | [218 structuring projects across six objectives and seven axes, coordinated by a modernisation institute under the presidency](https://angop.ao/noticias/economia/ministro-defende-reorganizacao-da-administracao-publica-para-modernizacao-do-estado/) | Advanced |
-| Integrated digital transformation programme for public finances | Did not exist | [A programme authorised by presidential order as a direct award, covering modernisation of finance ministry services on advanced technology and a restructuring of state bodies, framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/) | Advanced |
+| Integrated digital transformation programme for public finances | Did not exist | [A programme authorised by presidential order as a direct award, covering modernisation of finance ministry services on advanced technology and a restructuring of state bodies, framed as raising revenue collection and cutting bureaucracy. Its value is not established: the earlier of the two accounts, whose reporter says he saw the presidential order, gives three different figures in one article](https://valoreconomico.co.ao/artigo/pr-autoriza-2-5-milhoes-de-dolares-para-digitalizar-ministerio-das-financas) | Advanced |
 | Mandatory electronic invoicing | Decreed but not in force, with the start date postponed | [Mandatory for large taxpayers and state suppliers, extending to all registered taxpayers within twelve months, on certified software with real-time transmission and a standard audit format; more than 500 packages registered and 21 certified](https://novojornal.co.ao/economia/detalhe/agt-comeca-a-aplicar-facturacao-electronica-em-1-de-janeiro-de-2026-68608.html) | Advanced |
 | Public key infrastructure | Announced in June 2025 as a ministerial intention, nothing contracted and no legal basis | [Contracted as a component of the US$150m project, with the tax authority already running mandatory electronic invoicing on it in practice](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/) | Advanced |
 

@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-23
 place: SLE
 ledger_rows: 82
 not_held: 11
-record: 67b0ede81caf
+record: de6f9c70be4e
 ---
 
 # Sierra Leone: progress report, 2025-08-01 to 2026-08-23
@@ -163,7 +163,7 @@ Interoperability advanced from paper to pilot, the Ministry of Finance moving fr
 |---|---|---|---|
 | Multi-agency response to mobile-money fraud | Did not exist | [Validated as a National Roadmap to Combat Mobile and Digital Fraud, on three pillars - public education, institutional strengthening and better data - with the text unpublished](https://techafricanews.com/2026/08/20/sierra-leone-validates-national-roadmap-to-tackle-mobile-and-digital-fraud/) | Advanced |
 | National Data Protection Policy | Did not exist | [Approved, covering collection, processing, storage and sharing of personal data; the text itself is not published (2026-04)](https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/) | Advanced |
-| National Data Strategy | Updated and aligned to the African Union Data Policy Framework (2025) | [No implementation report, institutional owner or review date published since (2026-08)](https://dial.global/work/strengthening-national-data-strategy-sierra-leone) | No change |
+| National Data Strategy | Updated and aligned to the African Union Data Policy Framework (2025) | [The strategy document itself, dated January 2023 and issued by the information and communications ministry, is now held; no implementation report, institutional owner or review date has been published since (2026-08)](https://mocti.gov.sl/wp-content/uploads/2024/12/Sierra-Leone-National-Data-Strategy_2023_v1.pdf) | No change |
 
 ### Regional collaboration
 
