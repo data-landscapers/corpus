@@ -1,16 +1,16 @@
 ---
 title: Kenya — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: KEN
-ledger_rows: 131
+ledger_rows: 136
 not_held: 7
-record: 77bd354bc9ec
+record: f1ceb0ef032f
 ---
 
 # Kenya: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -82,6 +82,11 @@ Two identity systems met the courts instead. The High Court [barred the transpor
 
 <!-- narrative: dpi--dpi-pay -->
 Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator launched a merchant wallet on 3 August.
+<!-- /narrative -->
+### Registries (population, land, address, etc.)
+
+<!-- narrative: dpi--dpi-registry -->
+The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the base currently has no instrument for. Nothing is settled: it is a bill, with no enactment date, hosting arrangement or access rule on record.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 

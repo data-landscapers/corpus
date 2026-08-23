@@ -1,16 +1,16 @@
 ---
 title: Egypt — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: EGY
-ledger_rows: 81
+ledger_rows: 87
 not_held: 54
-record: 1b9e5d45151c
+record: b8ac3ad30f37
 ---
 
 # Egypt: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -128,6 +128,11 @@ Egypt took the chairmanship of two Arab working groups on 31 July 2026 — AI go
 
 <!-- narrative: governance--gov-standards -->
 Transfer-pricing guidance [has not been revised since 2018](https://www.alborsaanews.com/2026/07/29/1982823), and appeal committees relying on the statutory provision requiring a minister-approved guide have cancelled some penalties. The account is a named practitioner's, not the tax authority's.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The month's data-protection movement is an objection rather than a rule. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550). The collection itself is in operation; what the base does not hold is the instrument authorising it, the retention rule or any operator-side safeguard — which is why the objection is the first record here of a practice already running. Parliamentary pressure ran the same way on artificial intelligence, where members [called for deterrent rules to govern it](https://www.algomhor.com/466466), and neither call has yet produced a text.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
