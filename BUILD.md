@@ -265,6 +265,8 @@ python scripts/leak-check.py outputs      # exit 0 = clean; exit 1 = a body leak
 
 If it exits non-zero, **do not commit** — a compiler is wrong; stop and fix it. A leak into public history is permanent (`documentation/design.md` §8), so this is the one check that fails the build rather than warning.
 
+**It reuses what it has already read, and an edit to the gate throws that away** *(2026-08-23)*. `site/` holds 2,242 dated editions across 731 MB and the gate was text-extracting every one of them on every run — a quarter of an hour to re-derive a verdict that §9 guarantees cannot have changed, since a published file is never revised. It now keeps one content digest per clean PDF or HTML page in `logs/.leak-check-cache.json` (untracked) and skips a file whose bytes it has already found clean. Only identical bytes open an entry, so a file that moves is scanned again; the cache stores a digest of `leak-check.py` itself and discards every entry when that changes, so a raised cap or a fixed bug costs one cold pass rather than leaving two thousand files verdicted under rules that no longer exist. **`--no-cache` scans everything regardless** — reach for it when the question is whether the gate is right, not whether today's output is clean. `scripts/test_leak_check.py` proves the safety properties; the speed follows from them.
+
 ## Ending the run — message, gate, log, commit, stand down
 
 **1. Message Bill, if anything is owed him.** Insert a block under the marker in `logs/messages-for-bill.md`: what would have been asked, what the run did instead, what his options are. A run that needed nothing writes nothing there, which is the normal outcome.

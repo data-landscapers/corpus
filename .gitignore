@@ -31,6 +31,13 @@ logs/.build-in-progress
 # on this machine, not history, and the duration it produces is what gets kept.
 logs/.run-start-*
 
+# The leak gate's verdict cache: one content digest per PDF/HTML it has already found clean,
+# plus a digest of the gate's own source so that editing the gate discards the lot. Untracked for
+# the same reason as the two sentinels above - it is a fact about what this machine has already
+# read, not history, and a tracked one would put a 200 KB churn into every commit BUILD and
+# RENDER make. Deleting it costs one slow pass and nothing else.
+logs/.leak-check-cache.json
+
 # Staging is created outside the repo, but belt and braces.
 .pull-staging/
 __pycache__/

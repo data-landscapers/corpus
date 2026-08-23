@@ -3,6 +3,7 @@
 
     python scripts/leak-check.py outputs         # gate outputs/ (BUILD, before commit)
     python scripts/leak-check.py site outputs     # gate both (RENDER, before deploy)
+    python scripts/leak-check.py site --no-cache  # ignore the verdict cache; read every file
     exit 0 = clean, exit 1 = a body was found (and the run must stop)
 
 **Why this exists.** `documentation/design.md` §8 makes this the one check that
@@ -48,7 +49,7 @@ length alone will not catch it there — the marker scan and the CSV/JSON/markdo
 checks upstream of the render are what cover that case.
 """
 from __future__ import annotations
-import csv, json, re, sys
+import csv, datetime as dt, hashlib, json, re, sys
 from html.parser import HTMLParser
 from pathlib import Path
 
@@ -272,14 +273,85 @@ def check_js(path: Path, rel: str) -> list[str]:
     return faults
 
 
+# ── the verdict cache ───────────────────────────────
+#
+# **Why one exists at all** *(2026-08-23, on Bill seeing the gate re-read 2,242 PDFs)*. The
+# expensive formats here are PDF and HTML: `site/` holds 2,242 dated editions across 731 MB, and
+# every one of them was being text-extracted afresh on each BUILD and each RENDER — a quarter of
+# an hour of work to re-derive a verdict that could not have changed. `RENDER.md` §9 is the reason
+# it could not: **a published file is never revised**, so an edition that passed this gate once is
+# bytes that will never move again, and each run after it re-read them to reach the same answer.
+#
+# **The key is the content, not the path and not the clock.** A digest of the file's own bytes
+# cannot be fooled by a rebuild that rewrites a file identically, by a copy, or by a restored
+# mtime; and a file whose bytes *do* move gets a different key and is scanned again, which is
+# wanted anyway — under §9 a changed edition is itself something to look at. Hashing costs one
+# sequential read, where extracting a PDF's text costs orders of magnitude more.
+#
+# **The whole cache is dropped when this file changes.** An entry records *this gate's* verdict,
+# so a raised cap, a widened regex or a fixed bug must not leave two thousand files verdicted
+# under rules that no longer exist. The digest of this source sits beside the entries and a
+# mismatch discards all of them — an edit to the gate costs one cold pass, which is the right
+# price for changing what the gate means.
+#
+# **Only clean verdicts are kept.** A fault stops the run, and the file that gets fixed comes back
+# with different bytes regardless, so there is nothing a cached fault would save.
+CACHE = Path(__file__).resolve().parent.parent / "logs" / ".leak-check-cache.json"
+CACHED_SUFFIXES = {".pdf", ".html", ".htm"}
+CACHE_KEEP_DAYS = 30      # an entry unseen this long is dropped, so deleted editions age out
+
+
+def rules_digest() -> str:
+    """This gate's own bytes. Any edit to it invalidates every entry."""
+    return hashlib.sha256(Path(__file__).read_bytes()).hexdigest()[:16]
+
+
+def file_digest(path: Path) -> str:
+    h = hashlib.sha256()
+    with path.open("rb") as fh:
+        for chunk in iter(lambda: fh.read(1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def load_cache() -> dict:
+    """`{content digest: last-seen date}` — empty if absent, unreadable or stale."""
+    try:
+        data = json.loads(CACHE.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    if not isinstance(data, dict) or data.get("rules") != rules_digest():
+        return {}
+    clean = data.get("clean")
+    return clean if isinstance(clean, dict) else {}
+
+
+def save_cache(clean: dict) -> None:
+    """Never fail the run over the cache: it is an optimisation, and a gate that stops because it
+    could not write a scratch file has confused the two."""
+    cutoff = (dt.date.today() - dt.timedelta(days=CACHE_KEEP_DAYS)).isoformat()
+    kept = {d: seen for d, seen in clean.items() if seen >= cutoff}
+    try:
+        CACHE.parent.mkdir(parents=True, exist_ok=True)
+        CACHE.write_text(json.dumps({"rules": rules_digest(), "clean": kept},
+                                    indent=0, sort_keys=True), encoding="utf-8", newline="")
+    except OSError as exc:
+        print(f"leak-check: could not write the verdict cache ({exc}) — the gate still ran")
+
+
 CHECKERS = {".md": check_markdown, ".csv": check_csv, ".json": check_json,
             ".txt": check_text, ".html": check_html, ".htm": check_html,
             ".pdf": check_pdf, ".js": check_js}
 
 
-def scan(root: Path) -> list[str]:
-    """Every source-body fault under `root`."""
+def scan(root: Path, clean: dict | None = None) -> list[str]:
+    """Every source-body fault under `root`.
+
+    `clean` is the verdict cache, read and updated in place. Passing `None` scans every file,
+    which is what the tests do — a gate proved against a cache it filled itself has proved
+    nothing about the checks."""
     faults: list[str] = []
+    today = dt.date.today().isoformat()
     for path in sorted(root.rglob("*")):
         if not path.is_file():
             continue
@@ -293,25 +365,50 @@ def scan(root: Path) -> list[str]:
             faults.append(f"{rel}: path is under raw/")
             continue
         check = CHECKERS.get(path.suffix.lower())
-        if check:
-            faults.extend(check(path, rel))
+        if not check:
+            continue
+        cacheable = clean is not None and path.suffix.lower() in CACHED_SUFFIXES
+        digest = file_digest(path) if cacheable else None
+        if digest is not None and digest in clean:
+            clean[digest] = today          # seen today, so it does not age out
+            continue
+        found = check(path, rel)
+        faults.extend(found)
+        if digest is not None and not found:
+            clean[digest] = today
     return faults
 
 
 def main() -> int:
-    roots = [Path(a) for a in sys.argv[1:]] or [Path("outputs")]
+    args = sys.argv[1:]
+    # `--no-cache` scans every file whatever the cache holds. Reach for it when the question is
+    # *is the gate itself right*, rather than *is today's output clean*.
+    use_cache = "--no-cache" not in args
+    roots = [Path(a) for a in args if a != "--no-cache"] or [Path("outputs")]
+    clean = load_cache() if use_cache else None
+    reused = len(clean) if clean is not None else 0
+
     faults: list[str] = []
     for root in roots:
         if not root.exists():
             print(f"leak-check: {root} does not exist — skipping")
             continue
-        faults += scan(root)
+        faults += scan(root, clean)
+
+    if clean is not None:
+        save_cache(clean)
+
     if faults:
         print(f"LEAK GATE FAILED — {len(faults)} problem(s); do NOT commit/publish:")
         for f in faults[:40]:
             print("  " + f)
         return 1
-    print(f"leak gate: clean ({', '.join(str(r) for r in roots)})")
+    where = ", ".join(str(r) for r in roots)
+    if clean is None:
+        print(f"leak gate: clean ({where}; cache bypassed, every file scanned)")
+    else:
+        print(f"leak gate: clean ({where}; {reused} PDF/HTML verdict(s) reused, "
+              f"{len(clean) - reused} newly scanned)")
     return 0
 
 

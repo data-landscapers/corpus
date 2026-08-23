@@ -158,6 +158,8 @@ The case that prompted this was `outputs/dev/`, holding internal method notes th
 
 The boundary that matters is bodies, not internal reasoning. This design record and the prototypes sit in the served repo and are therefore public; that is acceptable, and on §3's argument that method is content it is closer to an asset than a cost.
 
+*(**The gate remembers what it has read, added 2026-08-23 on Bill asking why it re-reads 2,242 PDFs a session.** The published tree only grows, and §9 below makes every file in it immutable, so the gate was spending a quarter of an hour per run re-deriving verdicts that could not have moved. It now keys a clean verdict on a digest of the file's own bytes. The thing to be careful of is that a cache on a gate can quietly turn a check into a formality, so the properties held are about trust rather than speed: only identical bytes open an entry, a file that changes is read again, and a digest of the gate's own source is stored alongside so that changing what the gate means discards every verdict it gave under the old meaning. That last one is why the cost of editing the gate is a full cold pass, and why that cost is correct.)*
+
 ## 9. Editions and verification
 
 *(Settled 2026-08-06. The case: a journalist or academic downloads a report in August, cites a figure from it in November, and is asked to stand it up.)*

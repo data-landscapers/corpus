@@ -17,6 +17,7 @@ empty list.)*
 from __future__ import annotations
 
 import importlib.util
+import json
 import shutil
 import sys
 import tempfile
@@ -101,6 +102,85 @@ CASES: list[tuple[str, dict[str, str], bool]] = [
 ]
 
 
+CLEAN_HTML = ("<html><body><p>Kenya has a data-protection statute in force since 2019.</p>"
+              "</body></html>")
+LEAKED_HTML = "<html><body><p>" + ("the verbatim text of someone else's article " * 400) + "</p></body></html>"
+
+
+def cache_cases() -> int:
+    """Prove the verdict cache saves work without ever letting a fault through.
+
+    Added 2026-08-23 with the cache itself. A cache on a **gate** is the one kind of optimisation
+    that can turn a check into a formality, so the properties worth holding are not about speed:
+    an entry may only be opened by identical bytes, a file that moves must be scanned again, and
+    an edit to the gate must throw the lot away. The speed follows from those and needs no test.
+    """
+    failures = 0
+    results: list[tuple[str, bool, str]] = []
+
+    def case(name: str, ok: bool, detail: str = "") -> None:
+        nonlocal failures
+        failures += not ok
+        results.append((name, ok, detail))
+
+    tmp = Path(tempfile.mkdtemp(prefix="gate-cache-test-"))
+    try:
+        page = tmp / "reports" / "KEN" / "KEN-status.html"
+        page.parent.mkdir(parents=True, exist_ok=True)
+
+        # 1. a clean page is scanned once and remembered
+        page.write_text(CLEAN_HTML, encoding="utf-8")
+        clean: dict = {}
+        first = scan(tmp, clean)
+        remembered = len(clean)
+        second = scan(tmp, clean)
+        case("a clean page is scanned once and remembered",
+             not first and not second and remembered == 1 and len(clean) == 1,
+             f"{remembered} entry after the first scan, {len(clean)} after the second")
+
+        # 2. the same path with different bytes is a different key, so it is scanned again
+        page.write_text(LEAKED_HTML, encoding="utf-8")
+        found = scan(tmp, clean)
+        case("a page that changes is scanned again and its fault is caught",
+             bool(found), found[0] if found else "the gate stayed silent")
+
+        # 3. only identical bytes open an entry — stated as a test because it is the trust
+        #    boundary the whole cache rests on
+        planted = {leak_check.file_digest(page): "2026-08-23"}
+        case("an entry is opened by content identity and nothing else",
+             not scan(tmp, planted),
+             "a planted digest for these exact bytes skips them, as designed")
+
+        # 4. an edit to the gate throws every entry away
+        leak_check.CACHE = tmp / "cache.json"
+        leak_check.save_cache({"abc": "2026-08-23"})
+        kept = leak_check.load_cache()
+        stale = json.loads(leak_check.CACHE.read_text(encoding="utf-8"))
+        stale["rules"] = "0000000000000000"
+        leak_check.CACHE.write_text(json.dumps(stale), encoding="utf-8")
+        dropped = leak_check.load_cache()
+        case("an edit to the gate drops every entry",
+             kept == {"abc": "2026-08-23"} and dropped == {},
+             f"held {len(kept)} under its own rules, {len(dropped)} under another's")
+
+        # 5. csv and markdown are never cached, so they are read in full every run
+        page.unlink()
+        (tmp / "ledger.csv").write_text("system,body\neCitizen,short text\n", encoding="utf-8")
+        clean = {}
+        a, b = scan(tmp, clean), scan(tmp, clean)
+        case("csv and markdown are never cached and are refused every time",
+             bool(a) and bool(b) and not clean,
+             f"{len(clean)} cached entr(ies) after two scans of a faulty csv")
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+
+    for name, ok, detail in results:
+        print(f"  {'ok  ' if ok else 'FAIL'} {name}")
+        if detail:
+            print(f"       {detail}")
+    return failures
+
+
 def run() -> int:
     failures = 0
     for name, files, should_pass in CASES:
@@ -127,11 +207,14 @@ def run() -> int:
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
 
+    failures += cache_cases()
+    total = len(CASES) + 5
+
     print()
     if failures:
-        print(f"{failures} of {len(CASES)} cases FAILED")
+        print(f"{failures} of {total} cases FAILED")
         return 1
-    print(f"all {len(CASES)} cases passed")
+    print(f"all {total} cases passed")
     return 0
 
 
