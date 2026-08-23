@@ -1,16 +1,16 @@
 ---
 title: Somalia — monthly update, July 2026
-compiled: 2026-08-19
-period: 2026-07-01 to 2026-08-19
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: SOM
-ledger_rows: 17
+ledger_rows: 19
 not_held: 10
-record: 1e3ce8871916
+record: 3dff318d10f7
 ---
 
 # Somalia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-19 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -47,6 +47,11 @@ Cabinet [approved a third-generation e-passport plan on 6 August](https://shabel
 
 <!-- narrative: dpi--dpi-pay -->
 On 26 July the Central Bank set out how the instant payment system is to reach the whole market: [14 commercial banks and eight mobile money and e-wallet providers once integration completes, on ISO 20022, carrying person-to-person, merchant, government-to-person and person-to-government flows, with business-facing services still in development](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network). The system is operated by the Somalia Payment Switch, a joint venture of the Central Bank and 13 commercial banks, which the Governor described as a deliberate choice over central-bank-run infrastructure. One commitment is stated and undelivered: mobile money integration carries no published date.
+<!-- /narrative -->
+### Sectoral management information systems (HMIS, EMIS, etc.)
+
+<!-- narrative: dpi--dpi-mis -->
+Health information gained a project and a set of funders. The health minister [launched a Pandemic Fund project in Mogadishu to strengthen prevention, preparedness, detection and response for infectious disease and public health emergencies](https://afenet.net/the-minister-of-health-somalia-launched-the-pandemic-fund-project/), with multilateral and regional partners named alongside it. What is not published is the part that would make it a system: no budget, no duration, and no specification of the surveillance and reporting infrastructure the project is meant to build.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

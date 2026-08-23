@@ -1,16 +1,16 @@
 ---
 title: Niger — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: NER
-ledger_rows: 25
+ledger_rows: 28
 not_held: 4
-record: 3e541b4baa19
+record: d1c0b5d4a348
 ---
 
 # Niger: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -105,6 +105,16 @@ On 27 July the regulator's verification campaign opened against the [mises en de
 
 ## Artificial intelligence and the technology sector
 
+### ICT Industry
+
+<!-- narrative: ai-tech--tech-industry -->
+Hardware assembly is the one industrial position with a date attached. A government delegation inspecting the electronics plant at Hamdallaye [put it at 63 per cent complete and due in service by the end of October 2026, to assemble smartphones, computers and tablets](https://www.agenceecofin.com/actualites-numerique/2108-140957-niger-une-usine-locale-d-assemblage-de-smartphones-attendue-d-ici-fin-octobre). A completion percentage and a month are more than most rows in this report carry; what is absent is everything downstream of the building — capacity, cost, ownership and who buys the output.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: ai-tech--tech-innovate -->
+The innovation estate gained a site and not yet a hub. A university at Diffa [was selected through a competitive process to host an innovation hub under a development-bank and UN-backed youth agripreneurship programme, and the workshop validating its project document opened](https://anp.ne/diffa-luniversite-se-dote-dun-unipod-pour-stimuler-linnovation-et-lagripreneuriat-des-jeunes/). A project document at validation is the stage before a budget: none is published, and no opening date is set.
+<!-- /narrative -->
 ### China activities
 
 <!-- narrative: ai-tech--geopol-china -->
@@ -117,4 +127,9 @@ China's newly arrived ambassador [met the vendor's vice-president to discuss dee
 
 <!-- narrative: inclusion--include-access -->
 On 15 July the World Food Programme [inaugurated the Guidan Fasaha community digital centre at Tahoua](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), the second such centre after Diffa, with 100 computers and 50 kW of solar power, funded by Luxembourg and aimed at young people, women and displaced people.
+<!-- /narrative -->
+### Training and skills
+
+<!-- narrative: inclusion--capacity-training -->
+Skills work in the window travelled rather than sat still. The Niger Digital Day caravan [opened its Maradi stage as a two-day youth digital-skills programme its organisers say will run in all eight regions and reach more than 800 young people, with training including artificial intelligence](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/). Coverage and reach are the organisers' own figures and no per-stage completion count is published, so the caravan is on record as a plan being executed rather than as a measured outcome.
 <!-- /narrative -->

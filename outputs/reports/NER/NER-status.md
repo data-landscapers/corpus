@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-23
 place: NER
-ledger_rows: 56
+ledger_rows: 59
 not_held: 3
-record: b0f99946d80a
+record: a0ad760af6eb
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-21 from the Data Landscapers source base, from `outputs/reports/NER/ledger.csv` (56 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/NER/ledger.csv` (59 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -239,6 +239,7 @@ Externally the pattern is neighbour-to-neighbour. Niger [agreed telecommunicatio
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Electronics assembly plant | [In development](https://www.agenceecofin.com/actualites-numerique/2108-140957-niger-une-usine-locale-d-assemblage-de-smartphones-attendue-d-ici-fin-octobre) | 63 per cent complete at a ministerial site inspection, 2026-08-20 |
 | Foreign supplier of national identity documents | [Implemented](https://www.lesahel.org/signature-de-deux-memorandums-dentente-entre-le-gouvernement-nigerien-et-la-societe-libyenne-al-itissal-al-jadeed-vers-une-numerisation-des-passeports-et-de-la-carte-didentite) | Two memoranda signed with Al Itissal Al Jadeed 2025-06-27 |
 
 ### Innovation ecosystem
@@ -246,6 +247,7 @@ Externally the pattern is neighbour-to-neighbour. Niger [agreed telecommunicatio
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Startup ecosystem support | [In development](https://www.lesahel.org/agence-nationale-pour-la-societe-de-linformation-startups-nigeriennes-le-numerique-au-service-dune-economie-plus-resiliente/) | Qwiper, E-Mobility Niger, CodeLoccol and Maria Server named by the digital agency |
+| University innovation hub at Diffa | [Planned](https://anp.ne/diffa-luniversite-se-dote-dun-unipod-pour-stimuler-linnovation-et-lagripreneuriat-des-jeunes/) | Project document validation workshop opened 2026-08-20 |
 
 ### China activities
 
@@ -280,6 +282,7 @@ Two external relationships are now on record. Huawei — present in Niger since 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | AfricaCERT Handshake symposium | [Implemented](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | 13th edition hosted at Niamey July 2025 |
+| Niger Digital Day skills caravan | [Implemented](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/) | Maradi stage opened 2026-08-18 |
 
 <!-- narrative: inclusion -->
 Inclusion runs through community infrastructure. The World Food Programme [opened a second community digital centre at Tahoua in July 2026](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), with 100 computers and 50 kW of solar power, after one at Diffa.

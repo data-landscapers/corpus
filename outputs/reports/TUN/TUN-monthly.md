@@ -1,16 +1,16 @@
 ---
 title: Tunisia — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: TUN
-ledger_rows: 32
+ledger_rows: 35
 not_held: 9
-record: 0670bc5db33f
+record: 8781a3b5f91e
 ---
 
 # Tunisia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -37,6 +37,11 @@ The scale behind the alerts was published on 7 August: [57,430 cyberattacks reco
 
 ## Digital public infrastructure
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+The customs estate opened a build rather than a service. The customs administration [began the execution phase of an integrated electronic rules-of-origin system financed by a bilateral partner, with technical preparation running to 18 September 2026](https://www.lapresse.tn/2026/08/18/douane-ce-nouveau-systeme-electronique-tuniso-coreen-va-changer-la-gestion-des-regles-dorigine/). The dated stage is the preparation, not the go-live: no operating date, trader-facing interface or cost is published.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -82,6 +87,11 @@ The regulator's observatory [published its 2026 survey on 27 July](https://www.l
 
 <!-- narrative: governance--gov-legislate -->
 The [Development Plan 2026-2030 was promulgated on 20 July 2026](https://www.9anoun.tn/fr/kb/jorts/jort-2026-073-5e980/loi-ndeg-2026-16-du-20-juillet-2026-portant-approbation-du-plan-de-developpement-2026-2030-4) by a single-article law, after adoption by the Assembly on 10 July and by the Council of Regions and Districts on 17 July, and is the binding reference for public policy to 2030. Its [three annex volumes are now held](https://www.arp.tn/loi/project/4315): the sectoral volume mentions digital or digitalisation 414 times, artificial intelligence 119, data 72 and cybersecurity 9, makes the digital economy a pillar of human-capital development, and commits to integration into the global digital landscape while preserving digital sovereignty. Every volume held is marked draft, no as-enacted printing has appeared, and whether the promulgated annex differs from the version voted is not established.
+<!-- /narrative -->
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the base can carry is the fact that it met and the framing it used.
 <!-- /narrative -->
 ### Regional collaboration
 
