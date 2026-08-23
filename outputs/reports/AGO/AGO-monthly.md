@@ -1,16 +1,16 @@
 ---
 title: Angola — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: AGO
-ledger_rows: 40
+ledger_rows: 43
 not_held: 7
-record: 253aca380559
+record: 20042553cd69
 ---
 
 # Angola: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -79,6 +79,11 @@ The electoral register, updating since 15 June against a universe of 16.7 millio
 <!-- narrative: dpi--dpi-mis -->
 The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart. No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
 <!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it.
+<!-- /narrative -->
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
@@ -141,6 +146,11 @@ Satellite-based inclusion produced two counts eight days apart on different base
 
 <!-- narrative: inclusion--include-access -->
 Financial inclusion was scored at [51.7% for the first quarter of 2026 against a 65% target for 2027](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/) on 9 July, with banking at about 32% or 5.7 million people and mobile and digital payments up about 56% year on year; the strategy document itself is not held.
+<!-- /narrative -->
+### Literacy
+
+<!-- narrative: inclusion--capacity-literacy -->
+School computing continued to be delivered by installation count. The telecommunications minister [inaugurated a 25-computer laboratory serving 3,051 students at a polytechnic and said the programme behind it had by then installed more than 2,000 computers across 88 schools nationwide](https://angop.ao/noticias/educacao/alunos-do-ipas-ganham-laboratorio-de-informatica/). Both figures are the ministry's own, and the ratio in the one site it named — 25 machines to 3,051 students — is the part of the programme a national total cannot show. No budget, connectivity provision or maintenance arrangement is published.
 <!-- /narrative -->
 
 ## Finance

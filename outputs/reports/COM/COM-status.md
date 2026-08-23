@@ -1,15 +1,15 @@
 ---
 title: Comoros — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-23
 place: COM
 ledger_rows: 111
 not_held: 35
-record: 64f116bf4d4b
+record: cd7f16388a20
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (111 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/COM/ledger.csv` (111 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -133,7 +133,7 @@ Infrastructure is thinly evidenced in both directions. The one built asset is th
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Enquete Agricole Annuelle | [In development](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html) | Sensitisation campaign concluded 2026-08-07 and a training-of-trainers workshop held for national instructors, ahead of the survey's rollout |
-| Fifth population and housing census | [In development](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/lancement-du-5%C3%A8me-recensement-g%C3%A9n%C3%A9ral-de-la-population-.html) | Officially launched 2026-06-05 |
+| Fifth population and housing census | [In development](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-5-lancement-de-la-finalisation-des-outils-m%C3%A9thodologiques-et-num%C3%A9riques-19385.html) | Methodological and digital instruments finalised at a retreat, 10-17 August 2026 |
 | National open-data or statistical dissemination platform | ***Not held*** | — |
 
 ### Use of satellite data

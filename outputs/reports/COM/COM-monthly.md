@@ -1,16 +1,16 @@
 ---
 title: Comoros — monthly update, July 2026
-compiled: 2026-08-20
-period: 2026-07-01 to 2026-08-20
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: COM
-ledger_rows: 10
+ledger_rows: 11
 not_held: 35
-record: d7cb724a3e8b
+record: 9417242ef2dd
 ---
 
 # Comoros: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-20 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 

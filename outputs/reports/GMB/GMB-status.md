@@ -1,15 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-23
 place: GMB
-ledger_rows: 65
+ledger_rows: 67
 not_held: 13
-record: cd60de5bb140
+record: 732acccd54e2
 ---
 
 # Gambia: status report
 
-*Compiled 2026-08-20 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (65 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (67 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -115,6 +115,7 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Civil servant and pensioner verification exercise | [Implemented, provincial round suspended](https://gambiaj.com/economy/policy/gambia-halts-up-country-civil-servant-verification-exercise-over-technical-challenges/) | Up-country round suspended 2026-08-17 |
 | Community policing case management and facility mapping | [Implemented](https://www.undp.org/gambia/stories/essau-gambisara-reimagining-community-policing-across-gambia) | Programme documented from Essau to Gambisara, March 2026 |
 | Digital excise tax stamp | [Implemented](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/) | In operation; study visits by South African and Rwandan customs announced 30 July 2026 |
 | Digital Single Window Business Registration System | [In development](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows) | Trade minister stated the system is being finalised, 4 August 2026 |
@@ -163,6 +164,7 @@ Statistics are the most complete system in the stack. The [fifth labour force su
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Access to Information Act | [Implemented, largely unimplemented in practice](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/) | Press union reported implementation ineffective 2026-08-07 |
+| Broadcasting and online content regulatory framework | [In development](https://www.voicegambia.com/le-ministre-de-linformation-exhorte-les-medias-a-proteger-les-enfants-vulnerables-dans-leurs-reportages/) | Child-protection provisions set out by the information minister 2026-08-16 |
 | Communications Bill 2025 | [In development](https://standard.gm/lawmakers-back-bill-to-protect-personal-data-in-digital-age/) | Sitting with National Assembly committees after second reading on 2 March 2026 |
 | State Intelligence Service Bill | [In development](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service) | Draft validated at a stakeholder workshop, 31 July 2026 |
 
