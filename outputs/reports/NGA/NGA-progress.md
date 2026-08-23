@@ -3,18 +3,18 @@ title: Nigeria — progress report, 2025-08-01 to 2026-08-23
 compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 place: NGA
-ledger_rows: 262
+ledger_rows: 263
 not_held: 9
-record: fc7d675258b2
+record: 577991794110
 ---
 
 # Nigeria: progress report, 2025-08-01 to 2026-08-23
 
 *Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 262 systems and instruments on this place's ledger, 151 changed position between 2025-08-01 and 2026-08-23, 54 did not, 47 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 263 systems and instruments on this place's ledger, 151 changed position between 2025-08-01 and 2026-08-23, 54 did not, 48 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 665 sources for this place in the window — 89 in the earlier half (2025-08 to 2026-01), 576 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 672 sources for this place in the window — 93 in the earlier half (2025-08 to 2026-01), 579 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -57,6 +57,7 @@ The same year produced a data-localisation directive, a virtual-assets executive
 | Akwa Ibom airport internet backbone | ***Baseline not held*** | [A multi-gigabit backbone activated at the state's international airport over a commercial submarine-fibre network, intended to carry passenger processing, operations and real-time security monitoring](https://africanpilot.africa/akwa-ibom-victor-attah-internet/) | ***Baseline not held*** |
 | Fibre cuts from road works | Baseline not held | [More than 5,000 fibre-optic cable cuts from road works in the first half of 2026, on the regulator’s own count](https://punchng.com/fibre-cuts-hit-5000-as-road-works-intensify/) | ***Baseline not held*** |
 | Free-space optical links in Lagos | ***Baseline not held*** | [Close to twelve licence-exempt optical links across Lagos, on the companies' own account; the operator puts nearly a dozen light-beam links in service across Lagos over two years, serving banks, hotels, internet providers and a utility beyond fibre's reach, with plans to extend to Abuja, Ibadan and Kano](https://datacentresafrica.com/taara-and-liquid-use-light-beam-technology-to-expand-data-centre-capacity-to-large-enterprises-in-lagos-nigeria/) | ***Baseline not held*** |
+| Length of the national fibre backbone | Baseline not held | [30,000 km of terrestrial fibre deployed against the 120,000 km the national blueprint requires, with the financier's appraisal stating flatly that there is no national backbone network; the same financier's Board-approval statement frames the BRIDGE programme as laying over 90,000 km and extending the backbone from 35,000 km to 125,000 km](https://documents1.worldbank.org/curated/en/099091125121538069/txt/BOSIB-f3e6411b-ac7d-490f-a0ef-af1e4a6d1a28.txt) | ***Baseline not held*** |
 | Telecoms sector capital expenditure | ***Baseline not held*** | [About ₦2.13tn invested in 2025 with about ₦1.86tn planned for 2026, on the operators’ association’s own figures](https://www.thisdaylive.com/2026/08/06/telcos-call-for-policy-consistency-regulatory-certainty-to-boost-telecoms-investment/) | ***Baseline not held*** |
 | Universal communication access tower deployment | ***Baseline not held*** | [About 3,700 towers to be deployed from October 2026 for more than 20 million people in unserved and underserved communities, with a first tower being installed in Delta State and riverine communities targeted before mid-2027](https://guardian.ng/business-services/fg-to-expand-internet-access-for-20m-nigerians-in-new-3700-tower-deployment/) | ***Baseline not held*** |
 | Utilisation of the deployed fibre backbone | ***Baseline not held*** | [About 101,000 km built, bypassing some 130m Nigerians (2026-07)](https://businessday.ng/technology/article/how-nigeria-built-101000km-of-fibre-that-bypasses-130m-nigerians/) | ***Baseline not held*** |
@@ -79,7 +80,7 @@ The same year produced a data-localisation directive, a virtual-assets executive
 | MTN Sifiso Dabengwa data centre | Live (2025-07) | [4.5 MW Tier III, 780 racks and a naira-priced cloud](https://techpoint.africa/news/mtn-largest-data-centre/) | No change |
 | Open Access Data Centres Lagos expansion | In build (2025-03) | [To 24 MW by 2027, about US$240m](https://techafricanews.com/2025/03/24/open-access-data-centres-to-expand-lagos-facility-to-24mw-by-2027/) | No change |
 | Visa Nigeria data centre | Planned (2025-03) | [Planned](https://www.wearetech.africa/en/fils-uk/news/visa-plans-to-establish-data-centre-in-nigeria-expands-1-billion-investment-portfolio) | No change |
-| Commercial data-centre estate | ***Baseline not held*** | [About 26 facilities, 50-56 MW live against about 124 MW installed (2026-07)](https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center/) | ***Baseline not held*** |
+| Commercial data-centre estate | ***Baseline not held*** | [About 26 facilities, 18 of them commercial colocation, carrying about 50-56 MW of declared live IT capacity and rising to about 124 MW only when operators' design specifications are counted (2026-07); an independent research house measuring capacity active, under lease or readily available for lease puts it at about 28 MW across about 15 live facilities, against about 80 MW at full build and 45 MW in construction (2026-01)](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/) | ***Baseline not held*** |
 | Dependence on foreign public cloud platforms | Baseline not held | [More than 85% of Nigerian workloads on public clouds; 22% of the 1,000 most-accessed sites hosted locally, against a 34% sub-Saharan average (2026-08)](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl) | ***Baseline not held*** |
 
 ### Energy
@@ -294,7 +295,7 @@ Satellite broadband regressed. The largest provider had become Nigeria's second-
 
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| Payments System Vision 2028 | Did not exist | [A three-year horizon from 2025 baselines of ₦1.2 quadrillion in electronic transactions, carrying 2028 targets of 95% financial inclusion, 5m QR merchant outlets and a 70% cut in fraud losses](https://www.cbn.gov.ng/Out/2026/CCD/Nigeria%20Payments%20System%20Vision%202028.pdf) | Advanced |
+| Payments System Vision 2028 | Did not exist | [A three-year horizon from 2025 baselines of ₦1.2 quadrillion in electronic transactions, carrying 2028 targets of 95% financial inclusion, 5m QR merchant outlets and a 70% cut in fraud losses](https://www.cbn.gov.ng/PaymentsSystem/PSV2028.html) | Advanced |
 | National DPI framework and the 2027 services target | In development (2025-03) | [Still in development against a 2027 target](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-unveils-plan-for-unified-digital-services-by-2027) | No change |
 | Presidential Committee on DPI Implementation | Constituted (2025-05) | [Operating](https://www.thisdaylive.com/2025/05/28/fg-inaugurates-presidential-committee-on-implementation-of-digital-public-infrastructure/) | No change |
 

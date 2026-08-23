@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-23
 place: XAF
 ledger_rows: 95
 not_held: 3
-record: ced2c977761d
+record: 93b44fa62bf7
 ---
 
 # Africa: progress report, 2025-08-01 to 2026-08-23
@@ -14,7 +14,7 @@ record: ced2c977761d
 
 *Of 95 bodies, instruments and systems on this place's ledger, 43 changed position between 2025-08-01 and 2026-08-23, 10 did not, 39 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 588 sources for this place in the window — 66 in the earlier half (2025-08 to 2026-01), 522 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 606 sources for this place in the window — 70 in the earlier half (2025-08 to 2026-01), 536 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 

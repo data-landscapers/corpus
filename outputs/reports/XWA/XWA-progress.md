@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-23
 place: XWA
 ledger_rows: 49
 not_held: 2
-record: 7c6b5c17a83f
+record: ad44a5a22957
 ---
 
 # West Africa: progress report, 2025-08-01 to 2026-08-23
@@ -14,7 +14,7 @@ record: 7c6b5c17a83f
 
 *Of 49 bodies, instruments and systems on this place's ledger, 34 changed position between 2025-08-01 and 2026-08-23, 3 did not, 10 carry no stated baseline, and 2 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 118 sources for this place in the window — 19 in the earlier half (2025-08 to 2026-01), 99 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 121 sources for this place in the window — 19 in the earlier half (2025-08 to 2026-01), 102 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -162,7 +162,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 | Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| Strengthening Tax Administration Capacity Project | Did not exist | [A regional tax administration forum project launched on a grant of 4 million units of account, reported as about US$5.3m, from a development fund's transition support facility](https://inprofiledailynews.com/wataf-launches-afdb-financed-us5-3m-project/) | Advanced |
+| Strengthening Tax Administration Capacity Project | Did not exist | [A regional tax administration forum project financed by a US$5.52m grant from a development fund's transition support facility, with implementation running to 30 July 2030 under a forum-hosted project implementation unit and a multi-stakeholder steering committee](https://www.afdb.org/en/news-and-events/press-releases/african-development-fund-provide-552-million-grant-west-african-tax-administration-forum-boost-domestic-revenue-mobilization-91508) | Advanced |
 
 ### Access to services
 

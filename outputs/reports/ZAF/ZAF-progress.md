@@ -3,18 +3,18 @@ title: South Africa — progress report, 2025-08-01 to 2026-08-23
 compiled: 2026-08-23
 period: 2025-08-01 to 2026-08-23
 place: ZAF
-ledger_rows: 144
+ledger_rows: 145
 not_held: 23
-record: 63a4c9a32509
+record: 53c85ddb1107
 ---
 
 # South Africa: progress report, 2025-08-01 to 2026-08-23
 
 *Compiled 2026-08-23 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 144 systems and instruments on this place's ledger, 69 changed position between 2025-08-01 and 2026-08-23, 8 did not, 43 carry no stated baseline, and 23 are ***Not held*** at both ends.*
+*Of 145 systems and instruments on this place's ledger, 70 changed position between 2025-08-01 and 2026-08-23, 8 did not, 43 carry no stated baseline, and 23 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 589 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 529 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 594 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 534 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -45,7 +45,7 @@ Most stated delivery dates in the period moved.
 | National broadband map (DBSA) | None published | [Launched 2026-03-31](https://techcentral.co.za/sa-finally-has-a-broadband-map-and-it-reveals-where-the-gaps-are/279660/) | Advanced |
 | National Radio Frequency Plan 2026 | ***Baseline not held*** | [Gazetted 2026-07-24](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026) | Advanced |
 | National wholesale 5G home-broadband network | Did not exist | [Selling wholesale, 5G-core only, with the first retail ISP due live in September 2026](https://www.techcentral.co.za/south-africa-to-get-a-new-national-5g-broadband-network/285080/) | Advanced |
-| Radio frequency spectrum fees regulations for satellite | Did not exist | [Draft amendment under consultation, with the largest prospective entrant asking for flat per-licence fees and a ten-year minimum term](https://techafricanews.com/2026/08/20/spacex-urges-south-africas-icasa-to-rethink-proposed-satellite-spectrum-fees/) | Advanced |
+| Radio frequency spectrum fees regulations for satellite | Did not exist | [Draft amendment under consultation, with the largest prospective entrant asking for flat per-licence fees and a ten-year minimum term](https://www.icasa.org.za/uploads/files/Space-X_Redacted.pdf) | Advanced |
 | SA Connect phase 2 | Suspended pending rollover (2025-09) | [Declared ended (2026-02)](https://www.itweb.co.za/article/budget-2026-sa-connect-phase-two-comes-to-an-end/Pero3MZ3zXXqQb6m) | Closed |
 | Satellite market entry via section 13 | ***Baseline not held*** | [Amazon Leo–Herotel, 2026-07-15](https://www.dailymaverick.co.za/article/2026-07-15-herotel-chosen-as-amazon-leo-distributor-in-maziv-race-for-satellite-internet/) | Advanced |
 | State Digital Infrastructure Company (network merger) | Road map due FY2025/26 | [Implementation moved to FY2028/29](https://techcentral.co.za/state-broadband-merger-limps-into-a-second-decade/280723/) | Regressed |
@@ -80,7 +80,7 @@ Most stated delivery dates in the period moved.
 
 | System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| Electronic Communications Amendment Bill | ***Baseline not held*** | [Tabled by the Minister of Communications and Digital Technologies on 2026-04-20; it would empower the local-government minister to make a national standard by-law on rapid deployment of electronic communications networks, introduce a use-it-or-share-it principle for spectrum, regulate roaming and mobile virtual network operator services, improve the facilities-leasing framework, provide for wholesale pricing rules and strengthen competition regulation. Written submissions were extended by one month on 2026-08-20, to 16:00 on 2026-09-21, superseding the 2026-08-21 deadline](https://www.parliament.gov.za/press-releases/communications-committee-extends-deadline-public-input-electronic-communications-amendment-bill) | Advanced |
+| Electronic Communications Amendment Bill | ***Baseline not held*** | [Tabled by the Minister of Communications and Digital Technologies on 2026-04-20; it would empower the local-government minister to make a national standard by-law on rapid deployment of electronic communications networks, introduce a use-it-or-share-it principle for spectrum, regulate roaming and mobile virtual network operator services, improve the facilities-leasing framework, provide for wholesale pricing rules and strengthen competition regulation. The Bill was published with its explanatory summary and prior notice of introduction in Government Gazette No. 54548 of 20 April 2026, and introduced and referred to the Portfolio Committee on Communications and Digital Technologies on 22 April 2026. Written submissions were extended by one month on 2026-08-20, to 16:00 on 2026-09-21, superseding the 2026-08-21 deadline](https://www.parliament.gov.za/press-releases/communications-committee-extends-deadline-public-input-electronic-communications-amendment-bill) | Advanced |
 
 ### Strategies, plans and policies
 
@@ -196,6 +196,7 @@ Blocked identity numbers fell by 7,129 in roughly seven months, from 384,189 to 
 |---|---|---|---|
 | Capital Flow Management Regulations and Crypto Asset Manual | Did not exist | [Both in draft; manual comments to end-September 2026; the Treasury and the central bank published a draft crypto asset manual for cross-border activities for comment to 30 September 2026, setting authorisation and reporting rules for crypto asset service providers and defining cross-border crypto flows](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/) | Advanced |
 | Copyright Amendment Bill | ***Baseline not held*** | [Constitutional Court ruling 2026-06](https://sajim.co.za/index.php/sajim/article/view/2112) | Advanced |
+| Draft Electoral Code of Conduct on Countering Disinformation | Did not exist | [A draft code published by the Electoral Commission under section 88 of the Local Government: Municipal Electoral Act 27 of 2000 for the local government elections, out for written comment to 22 July 2026. It carries no commencement date and no standalone sanction: paragraph 14 makes a contravention a breach sanctionable under the Act](https://www.gov.za/sites/default/files/gcis_document/202607/54925gon3995.pdf) | Advanced |
 | End-user and Subscriber Service Charter Amendment Regulations | In consultation | [Gazetted 2026-01-23; under review application](https://www.icasa.org.za/uploads/files/End-user-and-subscriber-Service-Charter-Amendment-Regulations-2025.pdf) | Advanced, litigated |
 | Operation Vulindlela reporting | 80% of initiatives on track (2026-04) | ["Uneven and slower than anticipated"](https://www.itweb.co.za/article/operation-vulindlelas-digital-transformation-gathers-pace/lLn14MmQRQAMJ6Aa) | Regressed |
 | POPIA enforcement notices | None held | [Three notices, May–June 2026](https://www.mondaq.com/southafrica/contracts-and-commercial-law/1797238/landmark-ruling-for-private-bodies-under-paia-information-regulators-enforcement-notice-against-mining-house) | Advanced |

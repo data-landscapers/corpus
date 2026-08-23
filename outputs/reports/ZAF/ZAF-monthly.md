@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-23
 place: ZAF
 ledger_rows: 97
 not_held: 23
-record: 41bbf6a2f67b
+record: b275e8694a91
 ---
 
 # South Africa: monthly update, July 2026
@@ -56,7 +56,7 @@ The state's answer to its own exposure is a training tender. The public service 
 ### Legislation and regulation
 
 <!-- narrative: infrastructure--gov-legislate -->
-The Electronic Communications Amendment Bill was published, [exempting community networks from licensing](https://www.apc.org/en/news/how-community-connectivity-pioneers-are-changing-south-africas-digital-policy-and-regulation) and mandating spectrum sharing; submissions close on 21 August.
+The Electronic Communications Amendment Bill was published, [exempting electronic communications network services provided on a not-for-profit basis from licensing](https://www.parliament.gov.za/storage/app/media/Bills/2026/B12-2026_Electronic_Communications_AB.pdf) and mandating spectrum sharing; the committee [extended written submissions on 20 August to 16:00 on 21 September](https://www.parliament.gov.za/press-releases/communications-committee-extends-deadline-public-input-electronic-communications-amendment-bill).
 <!-- /narrative -->
 
 ## Digital public infrastructure

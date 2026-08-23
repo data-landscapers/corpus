@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-23
 place: KEN
 ledger_rows: 136
 not_held: 7
-record: f1ceb0ef032f
+record: 4e17026dc62e
 ---
 
 # Kenya: monthly update, July 2026
@@ -86,12 +86,12 @@ Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://
 ### Registries (population, land, address, etc.)
 
 <!-- narrative: dpi--dpi-registry -->
-The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the base currently has no instrument for. Nothing is settled: it is a bill, with no enactment date, hosting arrangement or access rule on record.
+The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the base currently has no instrument for. The Bill itself is now on file, [gazetted on 24 July 2026 as National Assembly Bills No. 53](https://www.parliament.go.ke/sites/default/files/2026-08/THE%20KENYA%20NATIONAL%20QUALIFICATIONS%20FRAMEWORK%28AMENDMENT%29%20BILL%2C2026.pdf). Nothing is settled beyond that: it is a bill, with no enactment date, hosting arrangement or access rule on record.
 <!-- /narrative -->
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
 <!-- narrative: dpi--dpi-mis -->
-Health claims authorisation failed at the counter through the month. A teachers' union raised on 30 July that members were [turned away and billed in cash](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) when the platform failed, one charged Ksh8,500 on 19 July; the Authority answered that the Digital Health Agency runs the system on its behalf.
+Health claims authorisation failed at the counter through the month. A teachers' union raised on 30 July that members were [turned away and billed in cash](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) when the platform failed, one charged Ksh8,500 on 19 July; the Authority answered that the Digital Health Agency runs the system on its behalf. The platform's cost re-entered the record in August: the President denied on 18 August that the state entered a KSh 104bn technology contract, and was reported on 21 August putting [the KSh 104 billion at the total project service fee over ten years rather than a lump-sum government payment](https://www.standardmedia.co.ke/health/health-science/article/2001555827/ruto-state-did-not-pay-sh104b-for-sha-system). The Auditor-General's finding of a KSh 104.9bn procurement, unbudgeted and non-competitive, is not answered by that; no contract text is held.
 
 An academic review published on 5 August put the child-protection case system on the other side of that ledger, [crediting it with cutting duplication and improving real-time coordination between agencies, with recorded cases rising from 20,235 in 2016/17 to 54,583 in 2021/22](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/). The most recent of those figures is four years old, and the system is American-funded — which places it in the same account as the withdrawal recorded under inclusion below.
 <!-- /narrative -->
