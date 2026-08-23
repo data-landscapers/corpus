@@ -1,16 +1,16 @@
 ---
 title: Algeria — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: DZA
-ledger_rows: 29
+ledger_rows: 31
 not_held: 7
-record: 8d972cab201b
+record: 9b68b89eeb23
 ---
 
 # Algeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -37,6 +37,11 @@ On 23 July the Council of Government examined draft executive decrees renewing t
 
 <!-- narrative: infrastructure--infra-store -->
 The National Digital Services Centre was inaugurated by President Tebboune on 5 July: [two active-active sites at Mohammadia and Blida](https://www.elmoudjahid.dz/fr/actualite/infrastructure-inedite-et-premiere-du-genre-a-travers-le-pays-le-centre-national-des-services-numeriques-inaugure-255075), built by Huawei to Uptime Tier III design, with 99.98% availability claimed by the operator. On 12 July administrations were ordered to interconnect to it [within one month](https://www.wearetech.africa/en/fils-uk/news/algeria-sets-one-month-deadline-for-government-data-center-integration). The national sovereign cloud is hosted there; no service catalogue and no tenant list is held, which is why its position is recorded without a baseline rather than as an advance.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: infrastructure--infra-cybersec -->
+
 <!-- /narrative -->
 
 ## Digital public infrastructure
