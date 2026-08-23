@@ -1,17 +1,15 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: finance.budget
 places: BFA; CPV; COG; EGY; ETH; GMB; GHA; KEN; MLI; MUS; MOZ; SEN; SDN; TUN
-record: 730cc5081ee7
+record: 1122c24500e8
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, July 2026
 
 *14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Burkina Faso
 

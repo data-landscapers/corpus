@@ -1,15 +1,15 @@
 ---
 title: Data Exchange — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: dpi.exchange
-places: DZA; AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: 093a8d365769
+places: DZA; AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB; ZWE
+record: 7f844ffa33b8
 ---
 
 # Data Exchange: monthly update, July 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -178,6 +178,10 @@ The public procurement appeals authority [directed all domestic and internationa
 ## Togo
 
 The tax authority closed the paper route into the land record. From 17 August 2026 [digital submission of land parcel plans is mandatory through its single land window, ending paper filing by surveyors registered with the professional order](https://www.otr.tg/index.php/fr/blog/avis-communiques/1611-communique-n-005-2026-otr-cg-ci-dccf-relatif-aux-depots-des-dossiers-de-plans-parcellaires-en-ligne.html). No fallback channel, fee schedule, submission volume or data-protection basis for the cadastral record is stated — and the country's own national interoperability and data-exchange framework remains ***Not held***, so this is a single authority's window rather than a piece of a shared layer.
+
+## Tunisia
+
+The customs estate opened a build rather than a service. The customs administration [began the execution phase of an integrated electronic rules-of-origin system financed by a bilateral partner, with technical preparation running to 18 September 2026](https://www.lapresse.tn/2026/08/18/douane-ce-nouveau-systeme-electronique-tuniso-coreen-va-changer-la-gestion-des-regles-dorigine/). The dated stage is the preparation, not the go-live: no operating date, trader-facing interface or cost is published.
 
 ## Zambia
 

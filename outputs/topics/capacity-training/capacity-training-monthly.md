@@ -1,15 +1,15 @@
 ---
 title: Training and skills — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: capacity.training
-places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 4454df624691
+places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
+record: 5ad4837cd226
 ---
 
 # Training and skills: monthly update, July 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -128,6 +128,10 @@ The ministry signed a memorandum with a consultancy in Rabat on 17 July 2026 cov
 ## Mozambique
 
 The institute reported on 23 July that under the World Bank-funded acceleration project 14 training actions had benefited 30 of its technicians and 2,032 professionals from public bodies, private firms and the media had received cyber-security training, with 14 national specialists holding an international incident-response certification ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)). The period those cumulative figures cover is not stated.
+
+## Niger
+
+Skills work in the window travelled rather than sat still. The Niger Digital Day caravan [opened its Maradi stage as a two-day youth digital-skills programme its organisers say will run in all eight regions and reach more than 800 young people, with training including artificial intelligence](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/). Coverage and reach are the organisers' own figures and no per-stage completion count is published, so the caravan is on record as a plan being executed rather than as a measured outcome.
 
 ## Nigeria
 

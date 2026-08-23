@@ -1,17 +1,15 @@
 ---
 title: Gulf/UAE activities — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: geopol.gulf
 places: BWA; CAF; SWZ; MRT
-record: 95a9df13cc4d
+record: a7de0fc47752
 ---
 
 # Gulf/UAE activities: monthly update, July 2026
 
 *4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 

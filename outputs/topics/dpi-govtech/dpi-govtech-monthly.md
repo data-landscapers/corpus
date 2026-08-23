@@ -1,15 +1,15 @@
 ---
 title: Other GovTech and e-Gov — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: dpi.govtech
-places: DZA; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e42273132815
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: b452da44b20f
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
 
-*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*50 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ A second national portal was announced on 24 July: the Ministry of Labour, Emplo
 The services-import platform announced on 27 July becomes the exclusive route from 1 August. Nothing held confirms it in operation.
 
 August added two more, and one admission. The trade ministry's [complaints platform for economic operators went live on 11 August](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/), for remote filing and tracking of concerns about import and export procedures, and the ministry describes it as the fifth platform it has put into service this year. The Ombudsman institution will [pilot a videoconference citizen-reception service from September 2026](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/), to ease access for citizens in remote areas and people with specific needs. Against that, on 10 August the interior minister [ordered his own ministry to accelerate digitisation projects he described as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/), naming vehicle-registration and civil-status services, at a review held under presidential instructions to speed cross-sector interconnection. He does not say in what respect they have stalled, and gives no completion figure or revised timetable.
+
+## Angola
+
+The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it.
 
 ## Benin
 
@@ -230,6 +234,10 @@ Two more federal fronts opened in the same week. The communications ministry [la
 The government's services portal was reported on 30 July as carrying [more than 600 services, of which more than 240 are paid, across 4,000 agents](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy). The same account records the stack being sold abroad: two neighbours have adopted the electronic billing machine, a third is mid-adoption, and one state has taken the electronic procurement platform and is co-developing it. No revenue or contract value is disclosed for any adoption.
 
 On 20 July an information society authority and a West African digital ministry identified artificial intelligence, electronic health and electronic commerce as areas to explore around that procurement platform — areas identified, nothing signed.
+
+## Sao Tome and Principe
+
+The month's government-systems movement is hardware. A UN agency [handed computing equipment to the tax directorate under an EU-funded regional programme, to modernise tax administration and the handling of fiscal data](https://rstp.st/2026/08/18/pnud-entrega-equipamentos-informaticos-a-direcao-geral-dos-impostos/). No value is stated for the equipment and no delivery schedule accompanies it, so what the base holds is a donation and an intention rather than a system with a capability attached.
 
 ## Senegal
 

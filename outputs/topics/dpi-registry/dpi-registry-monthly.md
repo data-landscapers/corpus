@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: dpi.registry
-places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 13068aa22eee
+places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 1f9ef8e68b86
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -95,6 +95,14 @@ Business registration is [in pilot for end-to-end filing from name search to cer
 The [terms of reference for the RETSSM movable-collateral registry, opened 27 July under IDA Credit No. 74440GN](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf), set the objective as guaranteeing the availability, security, reliability and adoption of an operational registry — with the first work package finalising the institutional, legal and regulatory provisions it needs to function at all.
 
 The register that already works stopped working for the most basic reason there is. A civil-registration officer in Ratoma said on 7 August that the [secured paper the digital birth certificate is printed on had run out, leaving communes across Conakry and beyond unable to issue extracts for about a month](https://www.guinee360.com/07/08/2026/sans-papiers-securises-il-ne-peut-pas-y-avoir-dextraits-amadou-konia-camara-explique-lorigine-de-la-penurie/); his own commune processes all applicants regardless of home commune and holds reserve stock for urgent cases such as exam-result travel and medical need. No ministry statement, restocking date or national count of affected communes is held, and the absence is now recorded as a gap. Officials marking African civil-registration day three days later [named information gaps and material shortages as the remaining barriers to civil-status access](https://www.guinee360.com/10/08/2026/guinee-manque-dinformations-contraintes-materielles-les-freins-a-lacces-a-letat-civil/), the identification office's director general calling for tighter integration between health, civil-registration and statistical systems.
+
+## Guinea-Bissau
+
+The register moved without the electorate changing. The electoral support office [handed the updated register to the elections commission in physical and electronic form for the 30 August referendum, recording 966,152 registered voters — unchanged from the last update](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/), having also [issued 25,146 replacement voter cards in a 30-day nationwide operation from 13 July to 11 August through 51 brigades covering every region](https://ang.gw/gtape-anuncia-emissao-de-25-146-cartoes-do-eleitor-da-2a-via/). So the month's work was replacing credentials rather than adding registrants, and no audit or de-duplication statement accompanies the handover.
+
+## Kenya
+
+The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the base currently has no instrument for. Nothing is settled: it is a bill, with no enactment date, hosting arrangement or access rule on record.
 
 ## Liberia
 

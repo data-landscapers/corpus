@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: d784bac0fbba
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
+record: 10d2ace341ba
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -22,6 +22,8 @@ A pilot arrived on 30 July: SEAAL signed an MoU with OTEC and Omantel for [autom
 The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart. No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
 
 ## Benin
+
+The tax directorate's information-system modernisation surfaced in the window only because its funder republished the project sheet. The EUR 2m project [runs from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin), which puts it four months from its stated end. What the sheet does not carry is any statement of what has been delivered — no module, no milestone, no completion status — so the base can date the project and price it, and cannot say whether it is finishing or merely ending.
 
 A [US$2.3m malaria programme combining artificial intelligence, drones and geospatial mapping reports incidence down 38% and mortality down 39% across 2022 to 2024](https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria), on Japanese financing. The reductions are the programme's own account and no independent evaluation is held.
 
@@ -44,6 +46,10 @@ Health and education information systems both gained instruments and neither rep
 ## Cape Verde
 
 The independent health regulator launched a pharmaceutical market monitoring system on 29 July 2026, tracking the national medicines circuit in real time, forecasting stock-outs and triggering replenishment or redistribution across the archipelago, and integrated with the customs system to detect illegal imports. The regulator states it will support development of electronic prescribing and feed its medicines-authorisation function. No cost, vendor, coverage figure or baseline stock-out rate was published, and the wiki holds no first-party document for it, only a wire report a week after launch.
+
+## Central African Republic
+
+Health information in the window is a single link run by someone other than the state. A remote hospital [is using telemedicine to reach a global network of healthcare professionals](https://www.doctorswithoutborders.ca/central-african-republic-using-telemedicine-to-tap-into-a-global-network-of-healthcare-professionals/), the service run by an international medical organisation rather than the health ministry. One site is a capability and not yet a system: no case volume, connectivity arrangement or continuity plan is published, so what happens to the link when the organisation leaves is not on record.
 
 ## Chad
 
@@ -105,6 +111,10 @@ On 8 July the health ministry [launched the national digital health portal](http
 
 The same 27 July ministry field visit documented a Bamako hospital running registration, laboratory, consultation and pharmacy on a single unique patient identifier.
 
+## Mauritius
+
+Two sector information systems sit at opposite ends of the same problem this window. A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Meanwhile the health estate shows what happens after a system is built: patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The base holds no delivery figure for either.
+
 ## Morocco
 
 The same 50-article digital health bill adopted in the government council on 22 July 2026 creates a shared medical record and a national health identifier under a new digitisation agency ([bill account](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/)).
@@ -146,6 +156,10 @@ In health, a [mortality and cause-of-death analysis tool was trained out on 20 a
 ## Sierra Leone
 
 A digital health programme covering electronic medical records, disease surveillance and telemedicine across 300 facilities [began with satellite connectivity at the first of them on 27 July](https://sierraloaded.sl/health/austin-demby-launches-starlink-internet/). One facility of three hundred is the whole of the deployment so far, and [neither account of the launch gives cost, funder, procurement route, contract term or any data-residency arrangement for public health traffic carried by a foreign satellite operator](https://ayvnews.com/health-minister-unveils-starlink-internet-at-jmb-pediatric-excellence-hospital/).
+
+## Somalia
+
+Health information gained a project and a set of funders. The health minister [launched a Pandemic Fund project in Mogadishu to strengthen prevention, preparedness, detection and response for infectious disease and public health emergencies](https://afenet.net/the-minister-of-health-somalia-launched-the-pandemic-fund-project/), with multilateral and regional partners named alongside it. What is not published is the part that would make it a system: no budget, no duration, and no specification of the surveillance and reporting infrastructure the project is meant to build.
 
 ## South Africa
 

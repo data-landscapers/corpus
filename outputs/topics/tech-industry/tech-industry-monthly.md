@@ -1,15 +1,15 @@
 ---
 title: ICT Industry — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: tech.industry
-places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; LBR; MUS; NGA; RWA; ZAF; TGO; ZMB; ZWE
-record: 967f68545525
+places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; LBR; MUS; NER; NGA; RWA; ZAF; TGO; ZMB; ZWE
+record: 898027455c1c
 ---
 
 # ICT Industry: monthly update, July 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -76,6 +76,10 @@ The port authority signed a [non-exclusive smart-ports memorandum with HAROPA PO
 ## Mauritius
 
 The ICT minister [put information technology at about 5.4% of gross domestic product against an ambition of 10-12%](https://itweb.africa/article/mauritius-launches-ai-readiness-survey/GxwQDM1DPZj7lPVo). The two accounts name different third partners.
+
+## Niger
+
+Hardware assembly is the one industrial position with a date attached. A government delegation inspecting the electronics plant at Hamdallaye [put it at 63 per cent complete and due in service by the end of October 2026, to assemble smartphones, computers and tablets](https://www.agenceecofin.com/actualites-numerique/2108-140957-niger-une-usine-locale-d-assemblage-de-smartphones-attendue-d-ici-fin-octobre). A completion percentage and a month are more than most rows in this report carry; what is absent is everything downstream of the building — capacity, cost, ownership and who buys the output.
 
 ## Nigeria
 

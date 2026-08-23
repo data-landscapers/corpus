@@ -1,13 +1,13 @@
 ---
-title: Data Storage — progress report, 2025-08-01 to 2026-08-22
-compiled: 2026-08-22
-period: 2025-08-01 to 2026-08-22
+title: Data Storage — progress report, 2025-08-01 to 2026-08-23
+compiled: 2026-08-23
+period: 2025-08-01 to 2026-08-23
 subject: infra.store
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: 2e43ca505bbd
+record: 65020b9e6e6e
 ---
 
-# Data Storage: progress report, 2025-08-01 to 2026-08-22
+# Data Storage: progress report, 2025-08-01 to 2026-08-23
 
 *52 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 2e43ca505bbd
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Digital Services Centre (Mohammadia and Blida, active-active) | Did not exist | [Two active-active sites; administrations ordered to interconnect within a month (2026-07-12)](https://www.echoroukonline.com/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%A8%D9%88%D9%86-%D9%8A%D9%8F%D8%AF%D8%B4%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%AE%D8%AF%D9%85) | Advanced |
 | National sovereign cloud | Did not exist | [Live on the national centre; no service catalogue or tenant list](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-opens-dual-data-center-infrastructure-to-support-digital-government) | Advanced |
@@ -26,7 +26,7 @@ record: 2e43ca505bbd
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Commercial data centre | Did not exist; the country had no Tier III commercial data centre | [Operating at up to 3 MW and more than 800 racks over 19,000 square metres on US$30m, near the cable landings, with a plan to exceed 7 MW within five years](https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/) | Advanced |
 | Government data centre | Under construction at about 75% complete, operation expected in the first half of 2026 | [Operating at 6,225 square metres, Tier III design, 208 racks and 1,040 kW live in a modular design of about 336-rack capacity, reported at about US$89m](https://angop.ao/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/) | Advanced |
@@ -35,14 +35,14 @@ record: 2e43ca505bbd
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Sovereign cloud and national cyber authority | Did not exist | [Recommended only; neither exists](https://fraternite.bj/securite-nationale-et-transformation-numerique-ce-que-propose-lexpert-ale-abdel-farid/) | Advanced |
 | National data centre | In operation | [Operating; no capacity, tier or tenancy figure held](https://fraternite.bj/5eme-edition-du-cyber-africa-forum-les-assises-de-cotonou-pour-le-renforcement-de-la-cybersecurite/) | No change |
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data-localisation amendment to the Data Protection Act | No localisation amendment proposed on file (2025-08) | [A stated intention to compel businesses to store data in Botswana; no bill, draft or date on file at 2026-08-06](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news) | Advanced |
 | Digital Delta Data Centre | Built but not certified and not launched (2025-08) | [In operation, Tier III certified and carrier-neutral, state-owned through BoFiNet, offering storage, hosting and exchange](https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center) | Advanced |
@@ -52,7 +52,7 @@ record: 2e43ca505bbd
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data repatriation programme | Not announced; the twelve programmes including this one were unveiled in August 2025 | [A localisation doctrine in force with 120 platforms inventoried, migration into the two national data centres begun and completion targeted before end-2026, the inventory expressly still incomplete](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/) | Advanced |
 | Domestic commercial hosting provider | Did not exist; no wholly domestic commercial hosting provider on record | [Operating with more than 600 domain names, more than 196 web hostings and 98% availability at launch, offering services from domain registration through virtual and dedicated servers to colocation](https://www.aib.media/burkina-souverainete-numerique-ika-cloud-le-premier-hebergeur-100-local-des-donnees/) | Advanced |
@@ -63,27 +63,27 @@ record: 2e43ca505bbd
 
 ## Burundi
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National data centre | Baseline not held | [A stated PAFEN priority; no build, site or date on file](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program) | ***Baseline not held*** |
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National data-centre consolidation policy | Concentrate state resources on one or two national backup centres rather than multiplying public facilities | [The same position; no instrument, site or appropriation on record since](https://leconomie.info/high-tech-les-problemes-auxquels-font-face-les-datacenters/) | No change |
 | Zamengoe Data Centre | ***Baseline not held*** | [In operation, Tier III certified and tourable; the central bank inspected it with a view to hosting in December 2025 and a second prospective tenant was shown round on 2026-08-13](https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde) | ***Baseline not held*** |
 
 ## Cape Verde
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | NOSi hosting and cloud service revenue | Housing CVE 27,432,000, IaaS 67,326,000, PaaS 9,431,000 and SaaS 17,085,000 forecast for 2025, CVE 121,274,000 combined | [Housing CVE 26,994,000, IaaS 72,025,000, PaaS 9,359,000 and SaaS 19,116,000 forecast for 2026, CVE 127,494,000 combined and up 5.1%, inside a total forecast down 26%](https://nosi.cv/documents/20121/3107159/PAO_2026.pdf.pdf/5abaf142-22e2-b38a-bc5e-ba6f5ddd5e7d) | Advanced |
 | NOSi Praia data centre | In operation, Tier III certified; RTPE connectivity billed CVE 305,779,000 and protocolled state services CVE 455,964,000 in the year to 2024-12-31 | [Unchanged; NOSi has published no accounts after the FY2024 volume, so no later certification, capacity or utilisation statement is held](https://nosi.cv/documents/20121/3100977/Relat%C3%B3rio%20e%20Contas%20NOSi%20-%202024.pdf/2fe4a66a-1826-4951-4da3-9cce82aef26e) | No change |
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Government secure interconnection network | Did not exist | [A dedicated network of five microwave-relay sites interconnecting ministries; no contract, site list, financing or timetable held](https://www.agenceecofin.com/actualites-numerique/2705-138800-la-centrafrique-modernise-l-infrastructure-numerique-de-son-administration-avec-huawei) | Advanced |
 | Incumbent operator privatisation | Did not exist; the prior rescue, agreed in November 2020 and needing EUR 20m, was never funded | [An operational phase declared, with definitive takeover agreements, a joint steering committee and a deployment schedule still to be established and the deal structure undisclosed](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) | Advanced |
@@ -91,21 +91,21 @@ record: 2e43ca505bbd
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Data Centre | Under construction and described as at an advanced stage, with inauguration called forthcoming at a ministerial site visit of 2025-01-07 | [Building and equipment complete, with a security audit and certification against critical-infrastructure standards outstanding; still not inaugurated](https://techafricanews.com/2026/02/06/adetic-ansice-and-techso-group-join-forces-to-protect-chads-digital-infrastructure) | Advanced, inauguration still not held |
 | One hundred government micro-data centres | No position held | [Provided for and to be interconnected with the national data centre, with no count deployed, site list, cost or schedule](https://techafricanews.com/2026/02/06/adetic-ansice-and-techso-group-join-forces-to-protect-chads-digital-infrastructure) | ***Baseline not held*** |
 
 ## Comoros
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data centre for the public administration | In service, certified to the third tier with a stated hosting capacity of 44.4 terabits, co-managed by the digital agency and the state cable company | [Unchanged - no capacity utilisation, redundancy arrangement, tenant list or operating-cost figure published in the fourteen months since](https://www.telecompaper.com/news/comoros-completes-construction-of-public-administration-data-centre--1536505) | No change |
 | Primary and backup data centres for the finance ministry | No position held | [Tendered on French development financing, covering structured local and wireless networks, firewalls, intrusion prevention, security event management and two network operations centres; no award, contractor or delivery date is recorded](https://finances.gouv.km/appel-doffre/projet-dappui-aux-systemes-dinformation-de-la-gouvernance-financiere-pagf-si/) | ***Baseline not held*** |
 
 ## Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National data centre | Works reported suspended at 95% completion over the state's unpaid counterpart tranche | [Asserted in operation by the state operator, which showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres on 10 August 2026, alongside nationwide fibre connectivity for citizens, businesses and state bodies](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196) | Advanced, on a single unreported reference |
 | Regional data centre feasibility study | Did not exist | [A feasibility study on a regional data centre attached to a gas plant, framed as an energy and digital nexus; experts assessed the site's energy potential](https://www.adiac-congo.com/content/partenariat-le-ceo-et-long-pratic-saccordent-pour-la-souverainete-numerique-170295) | Advanced |
@@ -113,7 +113,7 @@ record: 2e43ca505bbd
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | GPU Cloud Africa | Announced February 2025 as the first sovereign GPU AI hosting platform in Abidjan and Douala, service from the second quarter of 2025 | [No launch, capacity, pricing or customer on file as at 2026-08-05](https://itweb.africa/content/mYZRXv9g4nEMOgA8) | Stalled |
 | National Data Centre | Sovereign data centre at the core of the digital city project, construction reported begun May 2025, no financing figure held | [US$170m US export-credit-financed project formally authorised, scope now a sovereign national data centre, a government digitisation platform and a smart-border surveillance system; no site, capacity or completion date stated](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Advanced |
@@ -130,7 +130,7 @@ record: 2e43ca505bbd
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National data centre appropriation | No national data-centre appropriation is established at the window's start | [Appropriated in the enacted 2026 budget; no procurement, site, operator, specification or execution evidence is held](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf) | Advanced |
 | Raxio group committed capital | US$350m committed capital | [US$380m committed capital, with six times as much power contracted in the first half of 2026 as in the first half of 2025](https://tech.africa/raxio-380m-committed-capital/) | Advanced |
@@ -140,7 +140,7 @@ record: 2e43ca505bbd
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Telecom Egypt Regional Data Hub 2 | Tier III design-certified, estimated IT load 4.6 MW against the first hub's 2.5 MW, completion expected end-2025 | [Unchanged in the base; no held source states it entered service, and the stated end-2025 completion date has passed](https://ir.te.eg/en/CorporateNews/PressRelease/211/Telecom-Egypt-s-Regional-Data-Hub-2-Awarded-Tier-III-Design-Certification) | Stalled, entry into service not confirmed |
 | East Cairo Logistics Park data-centre campus IT load | No prior reading is held | [25 MW operating with plans to expand to 45 MW](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | ***Baseline not held*** |
@@ -149,27 +149,27 @@ record: 2e43ca505bbd
 
 ## Equatorial Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Government primary and backup data centres | Data-economy actions including data centres validated with the World Bank (2025-12) | [Tender published for a primary data centre in Malabo and a solar-powered backup in Bata for storage, processing and backup of public financial data](https://realequatorialguinea.com/economia/el-proyecto-de-apoyo-a-la-modernizacion-de-las-finanzas-publicas-lanza-una-licitacion-para-equipar-centros-de-datos-en-malabo-y-bata/) | Advanced |
 | ZEEDE-GE digital economic zone at Djibloho | Did not exist | [Under evaluation as a digital zone around AI, big data and high-performance data centres; no instrument, site or investment figure published](https://realequatorialguinea.com/destacado/politica/telecomunicaciones-evalua-la-creacion-de-una-zona-economica-exclusiva-digital-en-djibloho/) | Advanced |
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Data Centre | Operating; no capacity, tenant, uptime tier or utilisation disclosed | [Operating and named a structural concentration risk; still no capacity, tenant, uptime tier or utilisation on file](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) | No change |
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Wingu Cloud Exchange in-country cloud | Did not exist | [Compute, Kubernetes and storage priced in birr, hybrid with Azure and AWS](https://www.connectingafrica.com/cloud-networking/wingu-africa-debuts-cloud-exchange-platform-in-ethiopia) | Advanced |
 | Data-centre estate | ***Baseline not held*** | [Named among the markets diversifying Africa's estate, against South Africa's 60%+ share (2026-07)](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | ***Baseline not held*** |
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | ANINF-ST Digital framework memorandum | Did not exist | [In force - covers secure digital infrastructure, cloud, cybersecurity, digital identity, e-government and local training; no workplan, value or deliverable published](https://leconomie.info/developpement-de-lia-le-minpostel-visite-le-datacenter-de-st-digital/) | Advanced |
 | Gabonese Tier III rack capacity | No Gabonese data centre in service | [92 racks and 1 MW in service from 2026-07-03, with a further 160 racks and over 1 MW due end-November to early-December 2026](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push) | Advanced |
@@ -180,14 +180,14 @@ record: 2e43ca505bbd
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Data Centre, Abuko | Did not exist | [State facility in service hosting the national identity management system; no capacity, tier rating or operating cost published (2026-07)](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/) | Advanced |
 | QGroup House data centre | Did not exist; no data centre of any kind on record | [First private data centre in service, built by QGroup and QCell with Huawei as long-term vendor (2026-04)](https://thepoint.gm/africa/gambia/headlines/barrow-inaugurates-qgroup-house-unveils-gambias-first-data-centre) | Advanced |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital Realty Accra data centre | Did not exist | [Commissioned at up to 1.7 MW IT load and 500 racks, carrier-neutral and connected to a subsea landing](https://www.ecofinagency.com/news-digital/0411-50093-digital-realty-expands-african-footprint-with-new-data-center-in-ghana) | Advanced |
 | National AI Compute Centre | Did not exist | [US$250m announced by the President at the 2026-04-24 strategy launch, the larger of two dollar commitments totalling US$270m made that day; no site, operator, procurement route or date](https://www.graphic.com.gh/news/general-news/ghana-news-president-unveils-270m-national-ai-strategy-250m-computing-centre-20m-implementation-fund-earmarked-to-create-africas-ai-hub.html) | Advanced |
@@ -198,14 +198,14 @@ record: 2e43ca505bbd
 
 ## Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Tier III data centre | Did not exist | [In service, Uptime Tier III certified](https://www.ecofinagency.com/news-digital/0409-48427-guinea-opens-tier-3-national-data-center-to-strengthen-digital-transition) | Advanced |
 | Sovereign management of the .gn ccTLD | Not under national management | [Under national management](https://techafricanews.com/2025/09/05/guinea-launches-national-domain-gn-and-unveils-first-tier-iii-data-center) | Advanced |
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Airtel Nxtra data centre, Tatu City | Announced 44MW at Tatu City, ground not yet broken | [44MW in two phases, US$150m, dedicated 135 MVA substation in the Tatu City special economic zone with on-site solar](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) | Advanced, slipped |
 | Baobab Cloud sovereign public cloud | Did not exist | [Shilling billing, zero egress, 99.9% service level and in-country data residency, hosted at iXAfrica NBOX1](https://techafricanews.com/2026/05/22/ixafrica-data-centres-and-baobab-cloud-services-launch-sovereign-public-cloud-platform-in-kenya/) | Advanced |
@@ -221,27 +221,27 @@ record: 2e43ca505bbd
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Project Kobong hydropower and AI data centre | Did not exist | [Approved, on a binding Memorandum of Agreement of 4 June 2026 covering at least 1,200MW of pumped storage and a green-powered AI data centre at Mokhotlong, conditional on feasibility, financing, permitting and definitive agreements, with construction targeted for 2029](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) | Advanced |
 | National data-centre implementation roadmap | Not held | [In drafting at a five-day, six-ministry workshop that opened in Maseru on 17 August 2026 and runs to 21 August, organised by the communications ministry with the United Nations in Lesotho and coordinated by the UN Office for Digital and Emerging Technologies, alongside a National AI Strategy drafted in the same room; it covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) | ***Baseline not held*** |
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National data centre | Did not exist | [Announced to hold government data domestically; no site, cost, timetable or operator named (2026-07)](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/) | Advanced |
 | Tier III+ data centre at Buchanan | ***Baseline not held*** | [Stated as under development for sovereign hosting of the National Identification Registry and the Liberia Revenue Authority; no operator, cost or completion date published (2026-03)](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf) | ***Baseline not held*** |
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National data centres (Tsimbazaza and Iavoloha) | Tenders opened for rehabilitation of the main data centre and the identity-card personalisation centre (2025-12) | [Two renewable-powered centres confirmed as securing the identity system; no commissioning date published (2026-06)](https://www.ecofinagency.com/news-digital/2406-56771-madagascar-world-bank-review-progress-on-543-million-digital-transformation-projects) | Advanced |
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Boma Lathu National Data Exchange Platform | Delivered as a data-exchange platform under the foundations project alongside a new national data centre; government institutions still shared citizen data by email, USB and paper | [In use by the revenue authority and the registration bureau, hosted on locally managed servers, with 25 e-services being onboarded and the immigration department integrating while retaining data ownership](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | Advanced |
 | Commercial data centre, Lilongwe | Did not exist; commercial local hosting capacity is not recorded in the base at 2025-08-01 | [In operation offering commercial local hosting, positioned against the foreign-currency cost and data-ownership exposure of offshore hosting and welcomed by the e-government department; capacity, tier and pricing not stated](https://malawi24.com/2026/05/01/sparc-moves-to-end-malawis-reliance-on-offshore-data/) | Advanced |
@@ -252,20 +252,20 @@ record: 2e43ca505bbd
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Tier III National Data Centre | Did not exist | [In service, hosting state data and framed to carry mutualised AES infrastructure](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako) | Advanced |
 
 ## Mauritania
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National cloud platform | Did not exist | [Launched to host government data and services domestically and centralise public IT; no migration timeline, capacity or cost disclosed As at 11 August 2026 the donor-funded national government cloud was in data-security testing and migration preparation ahead of go-live.](https://alwiam.info/ar/51206) | Advanced |
 | Nouakchott Tier III national data centre | In service, operated by International Mauritania Telecom | [In service; no capacity, utilisation or migration figure has been published since](https://www.eib.org/en/press/all/2025-202-inauguration-du-centre-d-hebergement-de-donnees-numeriques-de-nouakchott) | No change |
 
 ## Mauritius
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Rose-Belle Tier IV data centre | Not established as the sovereign-hosting anchor (2025-08) | [Certified Tier IV and hosting e-health, the government portal, the Mobile ID wallet, the penalty-points licence system and government artificial-intelligence workloads, giving the ageing Government Online Centre the disaster recovery it lacks (2025-12)](https://lexpress.mu/node/552966) | Advanced |
 | Data-centre estate | Ten operating data centres across Port Louis, Reduit, Arsenal, Quatre Bornes and Rose-Belle, including a carrier-neutral Tier IV-designed site and the internet exchange point (2025-07) | [Unchanged in count; no new facility has been reported since (2026-08)](https://www.telecomreviewafrica.com/articles/features/12397-sublime-seas-to-storage-sphere-mauritius-expands-hyperscale-data-hub/) | No change |
@@ -288,7 +288,7 @@ record: 2e43ca505bbd
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | AFR-IX network deployment in Raxio Mozambique | Did not exist | [AFR-IX to co-locate its network in Raxio's Mozambique and Angola facilities for regional and international connectivity and local traffic routing; no deployment date, capacity or value stated](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/) | Advanced |
 | Universidade Eduardo Mondlane data centre | Did not exist; the university ran a server room | [In service, with about 14 times the storage of the server room it replaces, precision cooling, redundant systems, environmental monitoring, hardened physical security and grid, photovoltaic and generator supply; designated to help underpin the .mz domain and the internet exchange point. Inaugurated on 11 August 2026, sited at the university in recognition of its management of the country-code domain and the internet exchange, and intended to carry artificial-intelligence, cloud and research services](https://uem.mz/uem-inaugura-centro-de-dados/) | Advanced |
@@ -302,7 +302,7 @@ record: 2e43ca505bbd
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National and public data centre | None published | [A concept note and project proposal directed to the ministry and the Office of the Prime Minister; no site, capacity, cost or date published at 2026-08-06](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) | Advanced, no dates set |
 | Vendor-built national data centre for artificial-intelligence workloads | None published | [A vendor building smart-city solutions and a data centre with the ICT and home affairs ministries; China committed CNY 98,000,000, given by the source as about US$14.4m on 2026-07-08](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m) | Advanced |
@@ -311,13 +311,13 @@ record: 2e43ca505bbd
 
 ## Niger
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Tier III national data centre | Targeted for delivery by 30 September 2025 | [Provisionally accepted in Niamey on 14 November 2025, Tier III level, linked to the backbone by an 88 km urban fibre loop](https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/) | Advanced, slipped |
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | 1Government sovereign cloud | Did not exist | [GovDrive, GovMail, GovECMS and GovE-Sign across ministries](https://itweb.africa/article/nigerias-1gov-cloud-helps-reduce-reliance-on-foreign-digital-systems/WnpNgq21aogMVrGd) | Advanced |
 | AFRICLOUD Lagos cloud region | Did not exist | [Full compute region in a carrier-neutral Lagos data centre, the third region alongside Lisbon and Johannesburg](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/) | Advanced |
@@ -338,9 +338,9 @@ record: 2e43ca505bbd
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
-| Data centre memorandum with a Gulf operator | Did not exist | [A memorandum to jointly invest in an AI-ready Tier III data centre, with no site, capacity, cost, financing or date published](https://techafricanews.com/2026/05/29/broadband-systems-and-oman-data-park-sign-deal-to-expand-rwandas-digital-infrastructure/) | Advanced |
+| Data centre memorandum with a Gulf operator | Did not exist | [Two memoranda to jointly invest in AI-ready Tier III data centres with Gulf operators, the later one announced in the week to 19 August 2026, with no site, capacity, cost, financing or date published for either](https://www.datacenterdynamics.com/en/news/omantels-otech-signs-mou-to-build-data-center-in-rwanda/) | Advanced |
 | Digital investment roadmap | Did not exist | [A ministry roadmap with international partners on policy and regulatory reforms to attract cloud, financial-technology and data-infrastructure investment](https://techafricanews.com/2025/10/30/rwanda-unveils-strategic-digital-fdi-report-to-drive-investment-in-cloud-fintech-and-data-infrastructure/) | Advanced |
 | Hybrid cloud deployment | Did not exist | [A hyperscaler hybrid-cloud deployment live with a delivery partner, the government and the information society authority, the first in the region and third on the continent](https://www.montjalinews.org/2026/04/17/amazon-web-services-launches-outposts-in-rwanda/) | Advanced |
 | Data centre and cloud service directives | In force since 2023 | [The same; the directives' own text carries no date on its face and no compliance or enforcement record is published](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf) | No change |
@@ -348,13 +348,13 @@ record: 2e43ca505bbd
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | GoSTP data-centre modernisation (incl. digital-ID data centre/DR tender) | Three options costed, decision pending, high risk flagged at current sea-level site | [AFAP tender issued for servers + DR, implementing the TIER III/cloud recommendation](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | Advanced |
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cloud residency zones in operator data centres | Operating: data-residency zones inside in-country operator data centres | [Operating; no expansion, region upgrade or usage figure reported](https://www.mobileeurope.co.uk/orange-and-aws-partner-to-deliver-cloud-services-in-morocco-and-senegal/) | No change |
 | Diamniadio national data centre | In operation, with a server-localisation requirement in force | [In operation; no capacity, utilisation or migration-completion figure held](https://africachinainitiative.georgetown.edu/research-working-group/blog-posts/huawei-helping-or-hindering-african-countries-secure-their-data-sovereignty-2/) | No change |
@@ -364,13 +364,13 @@ record: 2e43ca505bbd
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Airtel Seychelles data centre (Ericsson turnkey project) | ***Baseline not held*** | [New datacentre as infrastructure basis for the 2026 5G launch; no separate update on datacentre operations since 2021](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa) | ***Baseline not held*** |
 
 ## Sierra Leone
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National Data Centre at NatCA headquarters | Ten-storey building under construction since 2015, not commissioned (2025-07) | [Commissioned, housing the National Data Centre and network operations and co-locating NaTCA with MoCTI (2026-04)](https://www.slena.gov.sl/post/sierra-leone-s-president-julius-maada-bio-commissions-natca-hq-reinforces-commitment-to-digital-inn) | Advanced |
 | Orange Bo backup data centre | Did not exist; one commercial data centre in Freetown (2018) | [EUR 23m disaster-recovery replica of the Freetown facility in service, alongside a US$50m network modernisation (2025-11)](https://statehouse.gov.sl/2025/11/29/sierra-leones-president-julius-maada-bio-opens-orange-sierra-leone-data-centre-reaffirms-governments-commitment-to-enabling-private-investment/) | Advanced |
@@ -378,7 +378,7 @@ record: 2e43ca505bbd
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Government data-hosting and cloud guidelines | None published | [None published (2026-06-16)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | No change |
 | Hormuud data centre estate | 11 data centres of about 10 MWh, the working private hosting base (2024-12) | [Further domestic capacity stated as under investment; no updated site count or load figure published (2026-06)](https://www.telecompaper.com/news/hormuud-telecom-plans-to-build-more-green-data-centres--1521594) | No change |
@@ -386,14 +386,15 @@ record: 2e43ca505bbd
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
+| Rights commission inquiry into data-centre expansion | Did not exist | [The national human rights commission is scrutinising the country's data-centre expansion, with environmental groups warning that the infrastructure required to power the state's artificial-intelligence ambitions carries costs that have not been accounted for](https://www.businessday.co.za/business-times/2026-08-22-the-hidden-cost-of-sas-ai-boom/) | Advanced |
 | Teraco CT2, Cape Town | ***Baseline not held*** | [+32MW to 50MW, 2025-11](https://techafricanews.com/2025/11/10/teraco-expands-cape-town-ct2-data-centre-to-50mw-boosting-africas-hyperscale-capacity/) | Advanced |
 | Johannesburg data-centre expansion | Not held | [An international operator is scaling its Johannesburg facility to 24MW and holds a ZAR7.5bn South African expansion budget covering that site plus banked land in Johannesburg and Cape Town, with further build-out held pending demand](https://www.itweb.co.za/article/equinix-doubles-down-on-joburg-data-centre-expansion/PmxVE7KEObLqQY85) | ***Baseline not held*** |
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Gateway Services and Data Centre Oversight Committee | Did not exist | [Constituted, with a mandate over gateway revenue digitisation and the national data centre (2026-01)](https://www.eyeradio.org/nca-establishes-gateway-and-data-center-oversight-committee) | Advanced |
 | National data centre, Juba | Reported as nearing completion (2025-09) | [Reported as halfway complete (2026-04)](https://www.eyeradio.org/ateny-outlines-s-sudans-digital-transformation-plans-at-nairobi-summit/) | Advanced |
@@ -401,14 +402,14 @@ record: 2e43ca505bbd
 
 ## Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Khartoum State data centre (1,300 m2) | Non-operational (date it went down not established) | [Restored and operating, qualified to host government systems centrally](https://maasader.com/إستعادة-وتشغيل-مركز-بيانات-الدولة-في-الخرطوم) | Advanced |
 | Port Sudan alternate National Data Centre | Did not exist | [Announced as planned; not built as of 2026-07-20](https://spokesperson-sd.com/ar/archives/38364) | Advanced |
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | International submarine cables landing | Two (2021-03) | [Three cables on the regulator's count; the minister separately stated four landing stations in July 2026](https://dailynews.co.tz/communications-sector-surges-400pc/) | Advanced |
 | Local cloud exchange platform | Did not exist | [A locally hosted private cloud with in-country data residency, local-currency pricing, carrier-neutral peering and hybrid connections to two global providers](https://dailynews.co.tz/wingu-africa-launches-wcx-in-tanzania/) | Advanced |
@@ -420,14 +421,14 @@ record: 2e43ca505bbd
 
 ## Togo
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Sovereign private cloud at the Lome Data Centre | Did not exist | [Partnership signed to host and process Togolese firms' data in-country, with cloud and artificial-intelligence services and sub-rack access for firms that cannot afford to rent half a rack](https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center) | Advanced |
 | Lome Data Centre | No statement about the facility on file | [An operating third-tier facility, state-owned, positioned as a West African hub](https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center) | ***Baseline not held*** |
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Data centres as a state investment priority | Named one of two core priorities at the Investment Authority's 22nd Strategic Council, with recommendations to modernise data-protection law, expand renewables and create a cloud special economic zone (2025-10) | [Carried as a named project line in the statutory development plan alongside artificial intelligence and digitalisation, with no budget line, no sequencing and no delivery agency stated (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
 | SoleCrypt Bizerte data centre | Did not exist | [A 20 MW artificial-intelligence data centre planned at the landing point of three subsea cables, to be powered from the developer's own 60 MW solar site; the memorandum is non-binding and no financing, permit or construction start is published (2026-02)](https://www.datacenterdynamics.com/en/news/solecrypt-plans-20mw-solar-powered-data-center-in-bizerte-tunisia/) | Advanced |
@@ -435,7 +436,7 @@ record: 2e43ca505bbd
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | ABQ Cloud sovereign cloud ecosystem | Did not exist | [Operating with Roke Cloud and AfriQloud, priced in local currency, hosted in Raxio's facility](https://www.independent.co.ug/abq-cloud-launches-ugandan-sovereign-cloud-ecosystem) | Advanced |
 | Centenary Group Green Tier 3 data centre, Masaka | Completion promised late 2025 (2025-08-11) | [Rebased to Q1 2026; no launch reported as at 2026-08-06](https://pctechmag.com/2025/10/centenary-group-set-to-launch-its-green-tier-3-data-centre-in-2026) | Stalled |
@@ -445,14 +446,14 @@ record: 2e43ca505bbd
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Memorandum of understanding on a national AI data centre | Did not exist | [Memorandum for AI infrastructure, sovereign cloud hosting, digital public infrastructure for 25 ministries, a co-invested national data centre keeping critical data in-country, and about 5,000 young Zambians trained over three years; no value, site, capacity, timetable or co-investment split is disclosed](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership) | Advanced |
 | Zambia National Data Centre and backup facilities | Main national data centre in Lusaka managed by the regulator, about 450 sq m with 72 server cabinets, a power room, monitoring room and two outdoor diesel generators, plus 400 sq m and 600 sq m backup facilities at the state operator's switch offices, built under a US$65,468,016.48 China Eximbank loan signed March 2015 | [Unchanged; no capacity, utilisation, uptime, expansion or refresh figure has been published since](http://www.mof.gov.zm/?wpfb_dl=50) | No change |
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National data centre ecosystem | None published | [Committed, with a national high-performance computing centre, the state fixed operator and a private operator's data centre named as the spine; no capacity, cost or completion date](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/) | Advanced |
 | Operator artificial-intelligence service | Did not exist | [Operating, with consulting and Shona-language work and a stated sovereign cloud offer to government; the operator's own announcement places the compute at an affiliated group's facility in South Africa](https://www.techzim.co.zw/2026/04/econet-ai-is-here-and-its-more-than-those-yamurai-ads-weve-been-seeing/) | Advanced |
@@ -464,7 +465,7 @@ record: 2e43ca505bbd
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-22 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Sovereign AI cloud on edge data centres | Did not exist | [Announced: AI processing units hosted inside an African edge data-centre network, sold as locally-hosted enterprise AI](https://techeconomy.ng/ai-analytics-intelligence-partners-with-oadc-to-advance-cloud-solutions) | Advanced |
 | Data centres the AfCFTA Secretariat states digital trade requires | ***Baseline not held*** | [More than 700, against about 220 on the continent, on the Secretary General's statement at Marrakech](https://isds.bilaterals.org/africa-s-digital-trade-push) | ***Baseline not held*** |

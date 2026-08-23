@@ -1,15 +1,15 @@
 ---
 title: National statistics — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: data.statistics
-places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SSD; TUN; UGA; ZWE
-record: b5e2261a6e50
+places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; TUN; UGA; ZWE
+record: a6698a17069d
 ---
 
 # National statistics: monthly update, July 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -126,6 +126,10 @@ An inclusive-data initiative brought the national statistics office into a five-
 ## Senegal
 
 The statistics agency [hosted the first peer exchange of an inclusive-data initiative's second phase in Dakar, widening it from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm). The exchange's exact dates are not published, so the position carries month precision only.
+
+## Seychelles
+
+The statistical work of the window is climate data with a funding line behind it. Seychelles [launched its national implementation of a nine-country African island-states resilience programme, backed by a US$4.943 million readiness grant, whose data leg is a standardised approach to institutional readiness, multi-hazard risk assessment and information systems](https://www.uneca.org/eca-events/national-launch-resislands-initiative-republic-seychelles), the stated purpose being to build pipelines of climate-resilient projects able to reach international finance. The grant figure covers all nine countries; the national share is not published, so the base can date the launch and not size it.
 
 ## South Sudan
 

@@ -1,15 +1,15 @@
 ---
 title: Data protection — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: gov.protect
-places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3cc800268e83
+places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: cacc14739b3e
 ---
 
 # Data protection: monthly update, July 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -52,6 +52,10 @@ On 4 August 2026 the state daily *La Nation* [described the Police Nationale and
 ## DR Congo
 
 Data protection has an authority that does not exist and a population whose service does not reach it. The [national data protection authority is still not created](https://acp.cd/economie/numerique-le-gouvernement-veut-une-chaine-de-responsabilite-visible-en-cybersecurite/), named again in July as a link in the cybersecurity chain after the minister said in March that structuring a professional network precedes it — two years of the same finding, running alongside a twenty-year exclusive foreign concession over citizens' identity data. In the east, [Baraka and Fizi have had telecoms and internet cut for months amid operations near Epupu, and humanitarian organisations' satellite kits were seized on the Baraka mayor's order](http://congorassure.com/societe/2026/08/03/sud-kivu-francine-kaliba-plaide-pour-le-retablissement-de-la-connexion-baraka), closing the last backup channel. It is reported as war damage and fuel-access failure rather than an ordered restriction, and no licensing or administrative decision for occupied territory is held.
+
+## Egypt
+
+The month's data-protection movement is an objection rather than a rule. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550). The collection itself is in operation; what the base does not hold is the instrument authorising it, the retention rule or any operator-side safeguard — which is why the objection is the first record here of a practice already running. Parliamentary pressure ran the same way on artificial intelligence, where members [called for deterrent rules to govern it](https://www.algomhor.com/466466), and neither call has yet produced a text.
 
 ## Eswatini
 
@@ -126,6 +130,10 @@ A civil-society platform began watching the same election from the data side, [t
 ## Senegal
 
 The data-protection reform reached a [finalisation workshop for the bill and its implementing decree, rewritten against the data and AI strategies](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/), with no adoption date or published text.
+
+## Sierra Leone
+
+Data-protection work in the window was training rather than enforcement, and it went to the government's own builders. The communications ministry [took the science and technology directorate's technical team through artificial intelligence and data protection by design, and through its obligations under the cybersecurity statute, the civil registration act and the forthcoming data protection law](https://techreviewafrica.com/news/6855/sierra-leone-trains-government-technical-team-on-ai-and-data-protection-by-design). Training a state team on a law not yet passed is the sequence this section keeps recording: the Data Protection and Right to Access Information Bill is still In development, so the obligations taught are prospective.
 
 ## Somalia
 

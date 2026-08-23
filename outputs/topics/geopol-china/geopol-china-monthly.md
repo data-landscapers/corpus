@@ -1,17 +1,15 @@
 ---
 title: China activities — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: geopol.china
-places: DZA; CPV; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB
-record: 13998b635bbe
+places: DZA; CPV; TCD; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB
+record: 9793f2d5ce35
 ---
 
 # China activities: monthly update, July 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -20,6 +18,10 @@ The country was named a [founding member, from 16 July, of a 29-country artifici
 ## Cape Verde
 
 On 29 July the Prime Minister and Finance Minister received a Huawei delegation, reviewed what the government describes as a strategic ICT partnership and were introduced to a new country representative. No agreement, project, sum or timetable was named; what the account records is access and continuity rather than a transaction. The last dated Chinese technology commitment the wiki holds for Cape Verde closed in 2021.
+
+## Chad
+
+The financing that did arrive in the window came from one partner. Chad and China [signed two grant agreements totalling 300 million yuan, in tranches of 100 million and 200 million that the minister of state called immediately mobilisable](https://ecomatin.net/le-tchad-obtient-25-milliards-fcfa-de-la-chine-pour-booster-ses-infrastructures-le-numerique-et-la-formation), for infrastructure and social development with digital technologies supported alongside; and earlier in the week the Chinese ambassador [announced 5,000 scholarships in technology and artificial intelligence](https://camerpressagency.com/tchad-chine-lambition-numerique-se-concretise/). Neither carries a project list, a digital allocation or a timetable, and the local-currency equivalents in circulation differ between outlets on their own conversion dates.
 
 ## DR Congo
 

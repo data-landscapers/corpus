@@ -1,13 +1,13 @@
 ---
-title: Digital Payments and Fintech — progress report, 2025-08-01 to 2026-08-22
-compiled: 2026-08-22
-period: 2025-08-01 to 2026-08-22
+title: Digital Payments and Fintech — progress report, 2025-08-01 to 2026-08-23
+compiled: 2026-08-23
+period: 2025-08-01 to 2026-08-23
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: f5e9fb2efe50
+record: 4fbcf13f22cf
 ---
 
-# Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-22
+# Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-23
 
 *55 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,19 +17,20 @@ record: f5e9fb2efe50
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital-bank licensing (Instruction 02-2025) and KYC (Instruction 04-2026) | Did not exist | [Licensing plus a binding KYC instruction for AML/CTF](https://www.elmoudjahid.dz/fr/actualite/dispositif-kyc-la-banque-d-algerie-prepare-une-nouvelle-instruction-251312) | Advanced |
 | Interbank card payments and the terminal estate (CIB, Edahabia) | Fewer than 10% of merchants with a terminal | [22m+ cards, 104,000+ terminals, 4,713 ATMs (2026-03); DZD 939bn in 2025, up 46%](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-s-electronic-payment-market-surpasses-22-million-cards) | Advanced, in volume; merchant acceptance unchanged |
 | National Payments Committee (Reglement 26-01) | Created by Law 23-09, no operating framework published | [Composition and working arrangements set; the national payments strategy is not drafted and no annual report is published (2026-08)](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3) | Advanced |
 | PAPSS membership (Bank of Algeria) | Did not exist | [Member; no transaction volume held](https://www.afreximbank.com/bank-of-algeria-joins-papss-network-accelerating-financial-integration-in-africa-as-algeria-prepares-to-host-iatf-2025) | Advanced |
+| Web merchants accepting electronic payment | Fewer than 1,000 web merchants connected | [More than 1,000 web merchants connected at the end of June 2026, alongside reported growth in online payments, mobile payment and acceptance of card terminals in physical shops over the first half of 2026](https://alger16.dz/?p=65795) | Advanced |
 | Domestic instant payment system (Bank of Algeria) | Announced (2024-10) | [No launch date held](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-to-launch-instant-payment-system-for-faster-more-efficient-transactions) | No change |
 | DZ MOB PAY QR mobile payment | Announced, not confirmed live | [Still unconfirmed; the source is year-precision](https://al24news.dz/en/algeria-set-to-launch-mobile-payment-system-dz-mob-pay-in-january-2025) | No change |
 | Tabioucom fiscal-stamp-duty e-payment platform | Live (2024-08) | [Live](https://algeriainvest.com/premium-news/une-plateforme-numerique-pour-le-paiement-des-droits-de-timbres-fiscaux) | No change |
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Instant payment scheme | 35m transfers and Kz 590bn over 2025 across 22 banking and non-banking institutions | [Wallet-led and concentrated, with the largest wallet at 52.2% of transfers, more than 12.3m registered accounts and about 24.8m active payment keys, and 66.4% of transfers under Kz 10,000](https://angop.ao/noticias/economia/paypay-ultrapassa-1-6-milhoes-de-transferencias-mensais-no-kwik/) | Advanced |
 | Kwanza as a regional settlement currency | Not a settlement currency; the regional system had cleared in one currency since 2013 | [The second settlement currency in the system's history, against 2025 trade and interbank flows with the other fourteen member states of about US$3.77bn across nine currencies](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Advanced |
@@ -38,7 +39,7 @@ record: f5e9fb2efe50
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cashless motorway tolls | Did not exist | [Cashless tolling live](https://fraternite.bj/siratpay-le-paiement-numerique-simplifie-les-peages-au-benin/) | Advanced |
 | Mobile money | Operating (2024) | [11.65m active accounts; one operator holds about 51% of accounts and 83% of revenue](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | Advanced, in accounts; concentration unchanged |
@@ -47,7 +48,7 @@ record: f5e9fb2efe50
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Instant cross-border payment corridor into Botswana | No live regional instant corridor into Botswana | [Live inbound from South Africa and Zimbabwe](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) | Advanced |
 | Mukuru Companion Card | Did not exist | [A Visa-branded card issued against a remittance operator’s wallet balance, adding ATM withdrawal, in-store payment and domestic online payment to a wallet that previously carried transfer and cash-out only; no separate bank account is required, it works across every mobile network in the country, each transaction is PIN-protected with 3D Secure on online purchases, and a lost card can be blocked from the handset. The operator puts the gap it addresses at 38 per cent of adults unbanked against mobile penetration of 164 per cent, or about 4.22 million connections](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana) | Advanced |
@@ -59,7 +60,7 @@ record: f5e9fb2efe50
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Certified electronic invoice | A 2017 paper standard was the traceability instrument; no electronic certified invoice existed | [A certified electronic invoice in operation, with control modules for firms already running invoicing software and invoicing units for those that do not](https://www.sidwaya.info/modernisation-de-ladministration-fiscale-la-facture-electronique-certifiee-officiellement-lancee/) | Advanced |
 | National payments platform | Government payments by application, web and short code, covering stamp duty, taxes and duties | [The same, plus payment links for automated traffic fines, with vehicle immobilisation for non-payment within a month](https://lefaso.net/spip.php?article148326) | Advanced |
@@ -68,19 +69,19 @@ record: f5e9fb2efe50
 
 ## Burundi
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | BurundiPay national instant payment system | Did not exist | [Live; 17 institutions in production of 78 licensed (5 commercial banks, 10 microfinance institutions, 2 payment institutions); about 224,000 users and cumulative transaction volume about BIF 4.29bn (4 August 2026); banks, microfinance and mobile money interoperable on ISO 20022 and USSD at ~1,000 transactions per second](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank) | Advanced |
-| EAC Regional Cross-Border Payment System Master Plan | Baseline not held | [At design stage; governors decided in July 2026 that BurundiPay must interconnect with other EAC members' payment systems; no interconnection timeline or deployment on file](https://www.rtnb.bi/?mypost?id=529) | Advanced |
+| EAC Regional Cross-Border Payment System Master Plan | Baseline not held | [The central bank has told the region's monetary affairs committee it expects to be inside the East African Payment System by December 2026, having migrated its real-time gross settlement infrastructure to the ISO 20022 standard, and has separately begun connecting the domestic banking sector to the COMESA regional payment and settlement system through technical training for local banks, the post office and the central bank](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616) | Advanced |
 | Mobile-money systems interconnected by BurundiPay | Not interoperable | [Lumicash, Ecocash, E-noti and Cashtel interoperable](https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/) | Advanced |
 | Payment switch migration to ISO 20022 | Not migrated | [Migrated](https://www.burunditimes.com/burundi-upgrades-payment-system-to-international-iso-20022-standard/) | Advanced |
-| Electronic invoicing machines delivered | 500 of 10,000 ordered delivered (2024-12) | [500 of 10,000 ordered delivered](https://lerenouveau.bi/assemblee-nationale-le-projet-de-loi-portant-reglement-et-compte-rendu-budgetaire-2024-2025-adopte-a-lunanimite/) | No change |
+| Electronic invoicing machines delivered | 500 of 10,000 ordered delivered (2024-12) | [Electronic invoicing machines in use but reported by traders in one province to stop working whenever the power does, halting sales and invoice issuance with every outage, with operators of weak literacy or digital skills reported to struggle](https://abpinfo.bi/2026/08/20/les-coupures-delectricite-compliquent-la-facturation-electronique-des-commercants-a-karusi/) | No change |
 | Cash share of digital-payment value | Baseline not held | [Deposits and withdrawals ~45% of value; ~1.6m of 7.6m mobile wallets active (Q2 2025)](https://www.burunditimes.com/burundi-digital-payments-see-growth-but-cash-still-dominates/) | ***Baseline not held*** |
 | PAPSS accession | Baseline not held | [Acceded; four Burundian banks authorised to participate in PAPSS](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/) | ***Baseline not held*** |
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | CEMAC interoperable QR-code standard | Did not exist | [Any bank, microfinance or mobile-money application can scan any merchant code across the six member states, routed and settled through the regional switch](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | Advanced |
 | Central bank membership of the pan-African settlement system | The regional central bank not a participant | [The system extended to all six member states and 72m people, taking the network to 28 countries and sixteen switches](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/) | Advanced |
@@ -92,7 +93,7 @@ record: f5e9fb2efe50
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Electricity bill payment over mobile money | Did not exist | [State electricity bills payable over one operator's mobile-money service, launched officially on 2026-08-04 for subscribers including those in Bambari, Berberati, Sibut, Bouar and Beloko; no tariff, transaction fee, volume, revenue share or exclusivity term disclosed](https://oubanguimedias.com/2026/08/07/centrafrique-telecel-et-enerca-signent-un-partenariat-pour-digitaliser-le-paiement-des-factures-delectricite/) | Advanced |
 | Gulf-state digital finance and land-banking memorandum | Did not exist | [Covering digital finance and land banking, presented as mobilising investment for infrastructure while modernising land administration; no commitment figure, disbursement schedule or governance arrangement stated](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) | Advanced |
@@ -101,7 +102,7 @@ record: f5e9fb2efe50
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Electronic payment terminals delivered | None delivered on record | [Three thousand delivered, with no deployment schedule, target sites or per-agency allocation stated](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/) | Advanced |
 | Exclusive electronic state-payment regime | Mandated for budget year 2026 - exclusively bank or mobile payments, with cash and cheques out | [The same commitment restated with a 2027 start date; nothing in the base shows the 2026 mandate operating](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/) | Stalled |
@@ -117,7 +118,7 @@ record: f5e9fb2efe50
 
 ## Comoros
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | National interoperable payment switch | Awarded to a supplier on 2025-02-16 and not live | [Live from 2025-08-23, connecting commercial banks, microfinance institutions and mobile-money operators](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-deploys-digital-payment-switch) | Advanced |
 | Accession to the Pan-African Payment and Settlement System | Implementation commenced, with commercial banks to begin integrating | [Unchanged - no bank integration, transaction volume or go-live is recorded in the base since 2024-08-23](https://www.afreximbank.com/central-bank-of-comoros-commencement-of-activities-for-the-implementation-of-papss-in-comoros) | No change |
@@ -130,7 +131,7 @@ record: f5e9fb2efe50
 
 ## Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | European remittance corridor | Did not exist | [A live corridor from two European countries into the country and its neighbour, targeting the international cost cap, with the payment institution licensed by a European central bank](https://www.wearetech.africa/en/fils-uk/news/tech/belmoney-digipay-launch-instant-transfer-app-for-congo-and-drc) | Advanced |
 | Payment-aggregator licence | Did not exist | [A licensed aggregator operating a unified interface, and the first concrete test of the mobile-money co-regulation question the industry has flagged](https://techafricanews.com/2026/06/16/pawapay-subsidiary-kerry-payments-secures-vas-payment-aggregator-licence-in-congo/) | Advanced |
@@ -139,7 +140,7 @@ record: f5e9fb2efe50
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cross-network mobile-money transfer app | Did not exist | [Private app moving funds directly between mobile-money networks, live in six West African countries with instant cross-border transfers](https://www.wearetech.africa/fr/fils/tech-stars/avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile) | Advanced |
 | Fourth electronic-money licence | Three licensed electronic-money institutions | [Four, with a locally built wallet issued by the new licensee](https://www.fratmat.info/article/2637099/economie/inclusion-financieremonnaie-electronique-la-cote-divoire-enregistre-un-4e-etablissement) | Advanced |
@@ -160,7 +161,7 @@ record: f5e9fb2efe50
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Card-and-wallet interoperability service | Did not exist | [Live since the fourth quarter of 2025, and now the rail on which a stablecoin settlement use case runs](https://visa-inc.africa-newsroom.com/press/visa-pay-launches-to-expand-access-to-digital-payments-across-the-democratic-republic-of-the-congo-drc) | Advanced |
 | Microfinance and cooperative digitalisation platform | Did not exist | [Scope is core banking, enterprise resource planning and card modules, 10,000 payment terminals with biometric authentication, chip cards, and connection of microfinance institutions and cooperatives to the national switch across 145 territories; nothing deployed on file](https://actualite.cd/2026/04/16/rdc-le-projet-transforme-appuie-la-digitalisation-des-imf-et-coopec) | Advanced |
@@ -172,7 +173,7 @@ record: f5e9fb2efe50
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Card and acceptance stock | Debit cards 26.4m and POS terminals 228,000 at end-2024; national scheme cards 43.5m at end-2024 | [Debit cards 29.1m at about 40% of the card market, prepaid 34.3m, credit about 7m; over 26,000 ATMs and about 275,000 POS terminals, with national scheme cards still stated at 43.5m from end-2024](https://www.elwatannews.com/news/details/8325979) | Advanced |
 | Direct carrier billing licence for government payments | Did not exist; no carrier-billing licence for person-to-government payments had been issued | [Citizens may pay utility bills, traffic fines and civil-registry charges from mobile balance or the monthly mobile bill](https://tpaymobile.com/tpay-secures-license-to-offer-direct-mobile-payments-for-government-services-in-egypt) | Advanced |
@@ -188,7 +189,7 @@ record: f5e9fb2efe50
 
 ## Equatorial Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | BANGE MOBILE GE | Did not exist | [Live; no user or transaction figure published](https://realequatorialguinea.com/economia/bange-lanza-bange-mobile-ge-la-nueva-app-que-facilita-pagos-y-servicios-financieros-en-guinea-ecuatorial/) | Advanced |
 | National ATM and point-of-sale deployment plan | A plan launched in May 2025, with connectivity named by banks and GITGE as the binding constraint | [Banks pressed to expand ATM, point-of-sale and card issuance for VAT control and tourism; no deployment count published](https://realequatorialguinea.com/destacado/politica/nguema-obiang-mangue-exige-a-la-banca-ampliar-cajeros-y-tpv-para-reducir-el-uso-de-efectivo/) | Advanced, with no delivery figure |
@@ -198,7 +199,7 @@ record: f5e9fb2efe50
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Comparative benchmark of bank charges | Did not exist | [Recommended, benchmarked against SACU and Common Monetary Area banks](https://times.co.sz/39920/news/cbe-called-to-probe-bank-charges/) | Advanced |
 | National FinTech Strategy 2025-2030 | Did not exist | [In force, targeting 500,000 e-KYC users and 80% interoperability by 2028](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=FinTech+to+reduce+cash+reliance&bvhdgsj=Business+and+Economy&yiphi=2077) | Advanced |
@@ -212,8 +213,9 @@ record: f5e9fb2efe50
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
+| Digital transactions at the dominant state bank | No transaction series held for the bank | [3.48 billion digital transactions worth more than 22 trillion birr in the 2025/26 fiscal year, put at about 70 per cent of the value of national digital financial transactions, with the bank moving its information-systems architecture to an AI-supported zero-trust model](https://capitalethiopia.com/2026/08/16/ai-driven-cyber-threats-raise-alarm-for-ethiopias-financial-sector/) | Advanced |
 | EthioPay national instant payment system | Did not exist | [Account-to-account and wallet-to-wallet across 32 banks and 12 microfinance institutions](https://www.bpcbt.com/ethiopia-instant-payments-smartvista) | Advanced |
 | EthSwitch and Mastercard international acceptance | Did not exist | [International acceptance through EthSwitch](https://shega.co/ethswitch-15-year-vision-mastercard) | Advanced |
 | M-PESA Ethiopia | Operating since 2023-08, before switch integration | [2.58m monthly active users and 89,877 registered merchants (2026-06); about 2% of Safaricom Ethiopia's service revenue, against 45.6% in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles) | Advanced, marginal in revenue |
@@ -227,7 +229,7 @@ record: f5e9fb2efe50
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | e-tax declaration and payment portal | The revenue platform live since April 2024, with no online declaration portal announced | [Online declaration and payment portal live](http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots) | Advanced |
 | GIMACPAY | 14.5m transactions worth about FCFA 710bn (2024) | [20.3m transactions worth FCFA 863bn across 153 participants (2025)](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025) | Advanced |
@@ -239,7 +241,7 @@ record: f5e9fb2efe50
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | BANTABA 2.0 instant payment system | Did not exist | [First inclusive instant payment system in service, built on Mojaloop and operated by GamSwitch across banks, mobile money, microfinance institutions and fintechs; no transaction volume published (2025-12)](https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system) | Advanced |
 | SUTURA government revenue collection integration | Did not exist | [Memorandum signed to wire a domestically built platform, distributed through GAMPOST, into government revenue collection; no go-live date, volume, fee structure or list of connected banks published, and no text of the memorandum is held (2026-07)](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection) | Advanced |
@@ -249,7 +251,7 @@ record: f5e9fb2efe50
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Active mobile money users, dominant operator | ***Baseline not held*** | [19.3m at 31 December 2025 against 18.3m at 30 June 2026, with neither source stating the definition](https://mtn.com.gh/wp-content/uploads/2026/08/Scancom-PLC-MTN-Ghana-H1-2026-Results.pdf) | Regressed, basis not established |
 | Digital credit service provider regime | Did not exist | [A September 2025 directive in force from 1 November 2025, with applications from that month, the deadline elapsed and twenty unlicensed apps named on 2026-08-03](https://www.bog.gov.gh/wp-content/uploads/2026/07/Notice-No.22-BOG-SEC-GOV-2026-UNLICENSED-DIGITAL-CREDIT-SERVICES-PROVIDERS-1.pdf) | Advanced |
@@ -260,6 +262,7 @@ record: f5e9fb2efe50
 | Pan-African payment system participation | A fintech-routed connection live under a six-month central-bank pilot | [National gateway designated, a second bank live in-app, and a naira corridor from February 2026](https://www.citinewsroom.com/2026/07/gcb-bank-papss-deepen-partnership-to-accelerate-africas-cross-border-payments-revolution/) | Advanced |
 | Registered and active mobile-money wallets | 76.4m registered wallets in June 2025 | [84.6m registered and 26.4m active at 90 days in June 2026, with wallet float at a record GH¢40bn from GH¢28.9bn, and one million registered agents of whom 546,000 are active](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/) | Advanced |
 | Renminbi settlement access | Did not exist | [Direct settlement in renminbi from cedi accounts, in real time or batch, without correspondent-bank intermediation](https://www.myjoyonline.com/stanbic-bank-becomes-first-bank-in-ghana-to-offer-direct-chinese-yuan-settlement-via-cips/) | Advanced |
+| Telecel Cash agent loyalty scheme | Did not exist | [A commission structure paying agents more for higher transacted value, launched before more than 400 mobile money agents and retailers](https://www.citinewsroom.com/2026/08/telecel-rolls-out-agent-loyalty-scheme-to-strengthen-mobile-money-ecosystem/) | Advanced |
 | UnionPay e-commerce acceptance | A Standard Bank and UnionPay collaboration since 2024, with no online acceptance on record | [Online acceptance open to participating merchants, settling in local currency, US dollars or both](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Advanced |
 | Register of licensed digital credit providers | Did not exist | [Still unpublished, with a twenty-name blacklist of unlicensed apps published instead](https://www.bog.gov.gh/wp-content/uploads/2026/07/Notice-No.22-BOG-SEC-GOV-2026-UNLICENSED-DIGITAL-CREDIT-SERVICES-PROVIDERS-1.pdf) | No change |
 | Annual small-business financing gap | Baseline not held | [Put at US$4.8bn a year by the central bank, which proposes digital transaction data as the underwriting route to close it (2026-08)](https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html) | ***Baseline not held*** |
@@ -269,7 +272,7 @@ record: f5e9fb2efe50
 
 ## Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Adults with a financial account | 4% (2011) | [~36% (2024), stated by the governor 2026-07-22](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/) | Advanced |
 | Licensed electronic-money institutions | 6 (2024) | [11 (2025-11)](https://www.ecofinagency.com/news-finances/0711-50255-guinea-plans-mobile-payment-system-to-ease-cash-shortage) | Advanced |
@@ -286,13 +289,13 @@ record: f5e9fb2efe50
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Electronic-money active accounts (UEMOA/BCEAO reporting) | Not held in the base | [Active e-money accounts up 33.28% in 2024; Guinea-Bissau holds 1.94% of UEMOA accounts opened, about 0.7%/1% of regional transaction volume/value, via 2 e-money issuing initiatives nationally (of 69 across the union)](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | ***Baseline not held*** |
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Airtel Money Bizna Wallet | Did not exist | [Dedicated business wallet, free to fund, with half of transaction fees returned as in-wallet cashback, on a 10.9% mobile-money share](https://techcabal.com/2026/08/03/airtel-targets-kenyas-small-businesses-as-mobile-money-war-shifts-to-merchants/) | Advanced |
 | Hustler Fund repayment through Bonga Points | Did not exist | [Five loyalty points settle one shilling — a privately issued loyalty balance converting into public-money recovery at a rate the issuer sets](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) | Advanced |
@@ -307,7 +310,7 @@ record: f5e9fb2efe50
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | M-Pesa Lesotho (VCL Financial Services) | Operated inside Vodacom Lesotho | [Operating as VCL Financial Services, a separately constituted entity, with 14,000 agents (2026-06)](https://itweb.africa/article/vodacom-lesotho-invests-40m-to-supercharge-connectivity/P3gQ2qGAJZZ7nRD1) | Advanced |
 | Renminbi settlement access through CIPS | Did not exist | [Available through Standard Bank, one of five markets added beyond South Africa](https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/) | Advanced |
@@ -318,7 +321,7 @@ record: f5e9fb2efe50
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Interoperable payment fee regime | Did not exist | [A single charge of no more than 1.0% of value from US$1.00 to US$2,000.00 and a flat fee of no more than US$25.00 above it, available 24 hours a day (2026-08)](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) | Advanced |
 | National Electronic Payment Switch | Did not exist | [Provided for as the follow-on to the instant payment pilot, alongside person-to-government payments; no go-live date or budget line published (2026-07)](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) | Advanced |
@@ -326,7 +329,7 @@ record: f5e9fb2efe50
 
 ## Libya
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | E-wallets for resident foreigners | Not permitted | [Permitted on passport and residency, with daily transfer caps](https://alwasat.ly/news/libya/511044) | Advanced |
 | International Visa acceptance on local terminals | Did not exist | [Foreign-currency Visa acceptance live on local POS](https://libyaherald.com/2026/06/central-bank-of-libya-governor-inaugurates-2nd-libya-international-electronic-payment-exhibition-epaix-2026) | Advanced |
@@ -340,7 +343,7 @@ record: f5e9fb2efe50
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Airtel Money and Baobab Bank integration | Did not exist | [Bidirectional wallet-to-account transfers over USSD and the bank's application (2026-07)](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/) | Advanced |
 | AXIAN Digibank and Fintech | Mobile money operator | [Digital-bank strategy announced across five markets, serving about 500,000 merchants a month (2025-11)](https://techcabal.com/2025/11/26/axian-rebrands-fintech-cluster/) | Advanced |
@@ -350,7 +353,7 @@ record: f5e9fb2efe50
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Central bank banknote replacement cost | MWK 50.6bn spent replacing worn banknotes (2025 actual) | [MWK 69.8bn expected in 2026, about 38% higher; an economists' association president named government levies on digital money transfers as a reason cash use persists](https://malawi24.com/2026/07/25/cash-habit-puts-pressure-on-malawis-currency-system/) | Regressed |
 | Mobile money integration with the agricultural marketing corporation | Did not exist at 2025-08-01 | [Mobile money integrated into the corporation's operations so farmers are paid directly into mobile wallets and customers pay electronically for commodities across its national market and depot network; no volume, value or farmer count is held](https://itweb.africa/article/airtel-digitises-malawian-farmer-payments/JN1gPvOAE4DMjL6m) | Advanced |
@@ -364,7 +367,7 @@ record: f5e9fb2efe50
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital pension payment | Mobile pension payment live | [Bank-channel pilot complete and reported ready for phased rollout to other partner banks](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/) | Advanced |
 | Moov Money prepaid Mastercard | Did not exist | [Live, the second telco-led card](https://afrique.le360.ma/economie/gitex-africa-2026-a-marrakech-moov-money-mali-lance-sa-carte-prepayee-co-brandee-en-partenariat-avec_BSK7BUJUVFG2PCVQA4FSPVIXRA/) | Advanced |
@@ -374,14 +377,14 @@ record: f5e9fb2efe50
 
 ## Mauritania
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | PAMIF financial infrastructure modernisation | Financial inclusion at 21% in 2019-20 | [Financial inclusion at 55% in 2026 on the financier's own account, with BMCI transfers rising from 5,000 in the whole of 2023 to 94,000 in the second half of 2025; a second phase targets a fintech ecosystem](https://www.afdb.org/en/success-stories/mauritania-finance-track-modern-age-92328) | Advanced |
 | Tax on electronic transactions | Did not exist | [In force at 0.1% on electronic transactions above MRU 5,000 and 10% on agent commissions, collected at source](https://invest-time.com/2026/01/17/mauritanie-budget-2026-taxe-electro/) | Advanced |
 
 ## Mauritius
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Central bank digital onboarding system | Did not exist | [A know-your-customer system for digital onboarding under construction, alongside alignment to the G20 cross-border roadmap and exploratory work on artificial-intelligence fraud detection; no delivery date published (2026-02)](https://lexpress.mu/node/554033) | Advanced |
 | Mauritius-Seychelles payment corridor | Did not exist | [Announced as launched by the operator; no corroborating record from the partner fintech, the Bank of Mauritius or the Central Bank of Seychelles is on file (2026-07)](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) | Advanced |
@@ -402,7 +405,7 @@ record: f5e9fb2efe50
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Biometric identity and access management in the national payments switch | A single national bank deployment (2025-05) | [Deployment into the national payments switch under way](https://idtechwire.com/bio-key-and-runlevel-deploy-biometric-iam-across-mozambiques-national-payments-network/) | Advanced |
 | METIX daily transfers | Did not exist (2025-08) | [More than 11,000 a day, a tripling since production entry in March 2026](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/) | Advanced |
@@ -413,7 +416,7 @@ record: f5e9fb2efe50
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Declaration of intent on instant payments integration | Did not exist | [Signed to integrate instant payments with the national clearing infrastructure through the interbank settlement system; no deliverables, funding or timetable published](https://techafricanews.com/2026/07/02/bank-of-namibia-ipn-and-namclear-sign-pact-to-strengthen-instant-payments/) | Advanced |
 | Instant Payment Solution | In build; core-banking integration tested and user-acceptance testing under way | [Operational from June 2026 after a live pilot, with a phased national rollout and government-to-person social grants the first use case](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/) | Advanced |
@@ -430,7 +433,7 @@ record: f5e9fb2efe50
 
 ## Niger
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Bank-to-wallet interoperability | Did not exist | [Live between Banque Atlantique accounts and mobile wallets](https://www.lesahel.org/communique-de-presse-niger-banque-atlantique-et-nita-renforcent-linteroperabilite-entre-services-bancaires-et-paiement-mobile/) | Advanced |
 | Identity-fee payment kiosks | Did not exist | [Live at enrolment sites, issuing receipts for the enrolment file](https://www.actuniger.com/societe/21937-carte-nationale-didentite-biometrique-cnib-avec-nita-les-demarches-simplifiees-pour-regler-ses-frais-et-se-faire-enroler-en-toute-serenite.html) | Advanced |
@@ -438,7 +441,7 @@ record: f5e9fb2efe50
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | ATM and point-of-sale transaction mix | Point-of-sale volumes growing and ATM use in long decline | [ATM transactions up 6.6% year on year in the first quarter of 2026 with value up 64.6% to NGN26.3tn, about US$19.4bn, while point-of-sale transaction volumes fell 19.9% to 2.92bn - the agent-banking limits imposed in October 2025, single-provider terminals, a 70-metre radius rule and a NGN1.2m daily cap, constraining the agent channel as the central bank pushes bank ATM expansion](https://techcabal.com/2026/08/17/nigerians-moved-19-4-billion-through-atms/) | Regressed |
 | cNGN naira stablecoin | In issue (2025-02) | [Live on a public blockchain from 2026-08-12, the regulated naira stablecoin backed one-to-one, opening lending, payments, remittance and on-chain foreign-exchange use cases; no supply, holder count or reserve attestation is published](https://techafricanews.com/2025/02/10/busha-lists-cngn-expanding-nigerias-digital-economy) | Advanced |
@@ -462,7 +465,7 @@ record: f5e9fb2efe50
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Active mobile money accounts | About 7.44m a year earlier, implied by the reported growth rate | [8,558,024 subscriber lines linked to active mobile money accounts](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Statistics/Quarterly_publication/ICT_Sector_Statistics_Report_as_of_the_First_Quarter_2026.pdf) | Advanced |
 | Bank and mobile-money credit product | Did not exist | [Instant loans of up to RWF 2,000,000 and saving from a mobile money wallet over a short code, with no pricing, interest rate, eligibility rule or volume published](https://taarifa.rw/2026/08/02/bpr-bank-rwanda-and-mtn-momo-rwanda-launch-mofaya-digital-loan-and-savings-solution) | Advanced |
@@ -475,13 +478,13 @@ record: f5e9fb2efe50
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-17 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | BCSTP FinTech Sandbox | ***Baseline not held*** | [Five-phase incubator running; one entrant piloting phone-based/USSD transfers usable without internet](https://rstp.st/2025/06/03/banco-central-lanca-iniciativa-sandbox-para-promover-inclusao-de-servicos-financeiros-digitais-em-stp/) | No change |
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digital payment share on the Dakar rapid-transit network | 10% of payments digital, the prior figure undated in the source | [39% of payments digital (2026-07)](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network) | Advanced |
 | Share of regional mobile-money transaction volume | 22.7% of union transaction volume (2023) | [24.1% of union volume, the largest share, and 30.2% of transaction value, with the union's highest volume growth](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | Advanced |
@@ -489,7 +492,7 @@ record: f5e9fb2efe50
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cheque phase-out (Central Bank of Seychelles, four-stage schedule) | Individual-facing stages running; non-resident stages not yet reached (2025-08) | [SRC introduced cheque thresholds for tax/duties (eff. 13 Jul 2026) as part of a plan to discontinue cheques entirely by 31 Dec 2028](http://www.seychellesnewsagency.com/articles/21244/seychelles-to-phase-out-cheques-for-financial-transactions-from-2025) | Advanced |
 | Foreign Exchange Act 2009 amendment (authorised-dealer perimeter) | Did not exist | [Cabinet approval only; no Bill text, commencement date or transitional provision on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
@@ -499,7 +502,7 @@ record: f5e9fb2efe50
 
 ## Sierra Leone
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Afrimoney prepaid Visa card (Africell, with Ecobank) | Did not exist | [Prepaid card in service, issued against the Afrimoney wallet (2026-05)](https://sierraloaded.sl/business/afrimoney-prepaid-visa-card-launched-sierra-leone/) | Advanced |
 | Flot payments platform and chatbot (Open Hub) | Did not exist | [In service with multi-channel card and mobile-money acceptance and a no-code store builder (2026-04)](https://owlpress-sl.com/fintech-firm-open-hub-launches-flot-platform-boost-digital-payments-sierra-leone/) | Advanced |
@@ -512,7 +515,7 @@ record: f5e9fb2efe50
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-19 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | EVC Plus mobile money | Operating as the dominant private rail, uncertified in the current cycle (2025-08) | [Re-certified against about 300 criteria, one of about ten platforms worldwide to hold it, serving 4.5m daily users and used by more than 145 aid organisations (2025-08)](https://www.hiiraan.com/news4/2025/Aug/202622/hormuud_s_evc_plus_earns_gsma_re_certification.aspx) | Advanced |
 | Somalia Instant Payment System (SIPS) | Live since January 2025 with seven institutions, operated on a commercial switching platform (2025-08) | [Carrying person-to-person, merchant, government-to-person and person-to-government flows on ISO 20022, targeting 14 commercial banks and eight mobile money and e-wallet providers; mobile money integration has no published date (2026-07)](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) | Advanced |
@@ -520,7 +523,7 @@ record: f5e9fb2efe50
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Capitec-Walletdoc merger conditions | Did not exist | [Behavioural conditions agreed; Tribunal had not ruled at 2026-08-06](https://www.itweb.co.za/article/compcom-approves-capitecs-walletdoc-acquisition/Olx4z7kaoeyq56km) | Advanced |
 | Cashless municipal service offices, Cape Town | Pilot at three offices | [Six offices from 1 September 2026, cash no longer accepted at the counter](https://www.itweb.co.za/article/more-council-centres-go-cashless-in-cape-town/lLn14MmQzbnMJ6Aa) | Advanced |
@@ -533,7 +536,7 @@ record: f5e9fb2efe50
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cash payment of tax at revenue offices | Cash accepted at revenue offices and by revenue officers | [Barred; bank deposit and official slip required before a receipt is issued, while digital payment through Capital Pay continues (2026-07)](https://www.eyeradio.org/revenue-authority-changes-tax-payment-process/) | Advanced |
 | Cashless payment for passports and identity documents | Cash accepted | [Cash abolished; digital payment only (2026-01)](https://www.sudanspost.com/south-sudan-introduces-digital-payment-system-for-passports-after-supply-crisis/) | Advanced |
@@ -544,7 +547,7 @@ record: f5e9fb2efe50
 
 ## Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Al-Asjad payment-switch licence | Licensed, launched in Port Sudan with a Sovereignty Council representative present | [Licence revoked; unconfirmed press reports the firm was incorporated only in late 2025 with a Dubai branch](https://sudantribune.net/article/315827) | Closed |
 | National Instant Payment System / national payment switch (NIPS) | Public tender open for a software-only solution (2026-04-20); by 2026-07-08 contracted to Electronic Banking Services (EBS) but not launched | [Live with exactly one bank connected; explicitly framed by the central bank as restoration of war-damaged infrastructure, not a new build; no schedule for connecting remaining banks](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips) | Advanced |
@@ -555,16 +558,18 @@ record: f5e9fb2efe50
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Active mobile-money accounts | 63.2m active wallets on the regulator's basis (2024-12) | [75.8m active accounts, up 6.7%, on 6.31bn transactions](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) | Advanced |
 | Cross-border instant-payment corridor with Rwanda | Did not exist: an inaugural meeting had been held in November 2025 | [Frameworks advanced for the first regional cross-border instant-payment corridor; no launch date](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374) | Advanced |
 | General price cap on payment charges | Did not exist: no demand on file at 2025-08 | [Publicly demanded by users and analysts one month into the electronic-payment mandate, and rejected](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380) | Closed |
 | Instant payment system throughput | 453m interoperable retail transactions worth TZS 29.82tn (2024) | [651m transactions worth TZS 54.95tn (2025)](https://www.thecitizen.co.tz/tanzania/business/tanzania-steps-up-cash-lite-drive-as-digital-payments-hit-new-highs-5541316) | Advanced |
 | Mandatory electronic payments order | Did not exist | [In force since 2026-07-01, with businesses taking cash at commencement given until 2027-01-01 to comply, and the order prospective only](https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf) | Advanced |
+| Mandatory electronic settlement for named transactions | Did not exist | [A named list of transactions that must be settled electronically under the 2026/27 tax law changes, covering bus rapid transit, ferries, trains, air travel, intercity buses, ride-hailing taxis, toll bridges, parking, shopping malls, gyms, cinemas, fuel stations, conference and function halls, sports grounds, and the rental or purchase of houses](https://ippmedia.co.tz/nipashe/biashara/read/wafanyabiashara-waomba-gharama-nafuu-za-miamala-ya-kielektroniki-2026-08-19-194833) | Advanced |
 | Merchants accepting digital payments | 1,327,803 merchants (2024) | [2,789,455 merchants (2025), a rise of 110.08% the central bank attributes to the TANQR pay number and merchant point-of-sale infrastructure](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026060211494565.pdf) | Advanced |
 | Mobile money core platform upgrade | The prior core, with no throughput specification held | [More than 1,000 transactions a second, a 99.999% availability target and monitoring; 41% of about 76m mobile-money accounts and more than TZS 16tn a month across 600,000 merchants](https://www.tanzaniainvest.com/telecoms/vodacom-new-mpesa-fintech-launch) | Advanced |
 | UnionPay e-commerce acceptance | A Standard Bank and UnionPay collaboration since 2024, with no online acceptance on record | [Online acceptance open to participating merchants, settling in local currency, US dollars or both](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Advanced |
+| Zanzibar electronic receipt mandate | A flat Sh2 million penalty per transaction for failing to issue an electronic receipt | [The penalty cut to a range of Sh200,000 to Sh2 million, the revenue authority stating that the previous fine was not being paid](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-cuts-fines-for-businesses-that-fail-to-issue-e-receipts-5565968) | Regressed |
 | Central bank digital currency | Under study | [Under study, with cryptocurrencies not legal tender and outside the regulatory framework](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | No change |
 | Jamii Malipo | Announced, not built, no launch date | [Announced, not built; no held source gives a launch date or operator confirmation at 2026-08-06](https://www.mawasiliano.go.tz/news/mfumo-wa-jamii-x-change-kuunganisha-mifumo-ya-tehama-ya-kisekta) | No change |
 | Central Electronic Ticketing System | ***Baseline not held*** | [8,126 buses integrated, and more than 21 million passengers ticketed electronically between June 2025 and March 2026](https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/) | ***Baseline not held*** |
@@ -579,7 +584,7 @@ record: f5e9fb2efe50
 
 ## Togo
 
-| System or instrument | At 2025-08-01 | At 2026-08-20 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Digitised payment of retirement allowances | Did not exist | [Bank transfer and mobile money in use by the retirement allowance management committee for beneficiaries who have registered payment details, with mobile-money numbers registered on the PayHub platform through a freephone line and a dedicated messaging service, and allowances stopping for those who have not registered by 2026-08-31](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/) | Advanced |
 | Gozem Money | Announced about a year earlier and not in service | [A live wallet for bill payment, online purchase, transfer and personal finance, interoperable with bank cards and other Togolese mobile money](https://www.togofirst.com/fr/finance/1510-17308-mobile-money-au-togo-gozem-money-entre-en-service) | Advanced |
@@ -593,7 +598,7 @@ record: f5e9fb2efe50
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Kashy wallet (Tunisie Telecom) | Did not exist | [Launched with a licensed payment partner, offering transfers, collections, top-up and cash withdrawal by phone (2026-03)](https://www.assabahnews.tn/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA/142463-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D8%B7%D9%84%D9%82-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%84-%D9%83%D8%A7%D8%B4%D9%8A) | Advanced |
 | Licensed payment service providers | 368 (2024) | [435 (2025)](https://trendsnafrica.com/central-bank-of-tunisia-reports-81-surge-in-mobile-payments-as-tunisia-accelerates-its-digital-transformation-in-2025/) | Advanced |
@@ -603,7 +608,7 @@ record: f5e9fb2efe50
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Airtel Money and Britam insurance distribution | Did not exist | [Motor third-party insurance sold by USSD with a digital sticker issued online; framed by the insurance regulator as narrowing the protection gap](https://techafricanews.com/2026/07/22/airtel-money-uganda-and-britam-partner-to-expand-digital-insurance-and-financial-services/) | Advanced |
 | AKIBA tokenised-asset exchange | Did not exist | [A regulated tokenised-asset exchange to run under the central-bank and capital-markets sandboxes; no licence, launch date or volume published](https://techcabal.com/2026/04/08/global-settlement-holdings-to-acquire-majority-stake-in-akiba/) | Advanced |
@@ -625,11 +630,12 @@ record: f5e9fb2efe50
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Cheque clearing | In use, with a June 2026 stop date reported 2026-01-13; no earlier dated position held | [Being phased out, with the interbank settlement system carrying high-value settlement](https://itweb.africa/article/the-rise-of-cheques-as-kenyas-preferred-payment-method/wbrpOqg2aBXMDLZn) | Advanced |
 | Government revenue collected digitally | K7 billion realised in digital transactions across the four years 2021 to 2025, stated 2026-03-25 | [Over K8.8 billion collected cumulatively through the service bus, payment gateway, portal and payment platform, of which about K21.7 million came from eight councils in the month to 2026-07-23](https://www.zanis.gov.zm/?p=3243) | Advanced |
 | Securities exchange mobile trading app users | 49,611 registered users (June 2026) | [51,791 registered users (July 2026)](https://itweb.africa/article/digital-push-powers-zambian-bourse/lLn14MmQzolMJ6Aa) | Advanced |
+| Social cash transfer disbursement | No disbursement figure held for the programme | [More than K1.4 billion being disbursed to over 1.5 million beneficiary households in the July-August 2026 cycle, redeemable through beneficiaries own payment service providers over four weeks](https://www.zambiamonitor.com/govt-claims-k1-4-billion-to-be-spent-in-july-august-under-social-cash-transfer-programme/) | Advanced |
 | UnionPay e-commerce acceptance | A Standard Bank and UnionPay collaboration since 2024, with no online acceptance on record | [Online acceptance open to participating merchants, settling in local currency, US dollars or both](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Advanced |
 | ZamPay and the Government Electronic Payment Gateway | Named at appraisal as the platform for interoperable digital payments within the digital public infrastructure stack; no collection or channel figures stated | [Collecting over K8.8 billion cumulatively across bank transfer, card, mobile money and cash deposit, extended to eight of 116 local authorities](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Advanced |
 | National Financial Switch | No dated position held at 2025-08-01; the base's only account of the switch is retrospective | [In operation, connecting banks, non-bank financial institutions, payment service providers, fintechs and mobile money operators, carrying wallet-to-bank, bank-to-wallet and merchant payments with a QR industry project under way; the stated aim of lower transaction costs described by a vendor manager as not having happened yet](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8) | ***Baseline not held*** |
@@ -637,13 +643,14 @@ record: f5e9fb2efe50
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-22 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Bank charge caps | Electronic transactions under US$10 or the local-currency equivalent exempt from bank charges since 2024-09-01; no terminal or withdrawal ceiling held | [Cash withdrawals capped at 2%, card terminals at 1.5% capped at US$20, balance-inquiry and cash-deposit fees removed, settlement charges cut to US$0.80](https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits) | Advanced |
 | Central bank digital transformation and financial technology department | Did not exist | [Established to lead financial-technology regulation and deliver the second national financial inclusion strategy; no head, staffing or published output on record since](https://technomag.co.zw/rbz-unveils-dedicated-department-for-digital-transformation-and-fintech-innovation/) | Advanced |
 | Central bank national payment systems report | None held; every payment figure in the base previously reached it through press coverage of conference remarks or the monetary policy statement | [The Reserve Bank's Q4 2025 National Payment Systems report held in full: electronic transactions ZiG736.03bn (up 7.78% on Q3), 238.27 million transactions (up 11.83%); mobile money 86.70% of volume but 10.51% of value; RTGS 58.29% of value on 1.20% of volume; US dollar RTGS transactions US$10.84bn (up 14.71%) on 1.75 million transactions](https://www.rbz.co.zw/documents/nps/quarterly/2025/NPSD_FOURTH_QUARTER_REPORT_ACTIVITY_DECEMBER_2025.pdf) | Advanced |
 | Electronic retail transaction value and volume | US$5.93bn in Q2 2025, up 34%, with 152,000 card terminals deployed in the quarter | [511.1 million electronic transactions worth ZiG1.37 trillion in the six months to 2026-06-30](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/) | Advanced |
 | Mobile money and interbank transfer limits | ZiG8,000 per transaction | [ZiG13,000 per transaction with a ZiG50,000 monthly cap, person to person or business](https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits) | Advanced |
+| National payment system value and volume | ZiG241.78 billion across 93.6 million transactions (May 2026) | [ZiG283.58 billion in June 2026, a 17 per cent rise on May, while transaction volumes fell 9 per cent to 85.16 million](https://fingaz.co.zw/2026/08/20/digital-payments-surge-17pct/) | Advanced |
 | UnionPay e-commerce acceptance | A Standard Bank and UnionPay collaboration since 2024, with no online acceptance on record | [Online acceptance open to participating merchants, settling in local currency, US dollars or both](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Advanced |
 | Zimbabwe Entrepreneurship Exchange (ZEEX) | Did not exist | [A newly approved digital capital-market venue integrating primary-market fundraising, asset tokenisation and secondary-market trading, bringing SMEs, invoice-discounting instruments and tokens into a regulated space; the Zimbabwe Stock Exchange and Lloyd Corporate Capital signed a memorandum of understanding (July 2026) to channel growth capital and blended finance into SMEs heading toward a ZEEX listing, with an initial focus on Bulawayo, Matabeleland and surrounding areas; no capital commitment, target listing count or timetable stated](https://positiveeyenews.co.zw/2026/07/31/zse-and-lloyd-corporate-capital-partner-to-unlock-growth-capital-for-zimbabwes-smes-through-zeex/) | Advanced |
 | Cards issued against cards in use | ***Baseline not held*** | [Hundreds of thousands of cards in the market against about 20,000 in use, per the research firm](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/) | ***Baseline not held*** |
@@ -657,17 +664,17 @@ record: f5e9fb2efe50
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-22 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Association of African Central Banks (AACB) | No decision of the Assembly on continental payment harmonisation held | [A list of 54 decisions, of which decision 21 rules that the Payment Systems Directive for Africa is not to be led by an entity external to central banks and directs its own task force to lead the work](https://aacb.org/sites/default/files/past_event_documents/2025_List%20of%20Decisions_Yaounde_Nov_2025.pdf) | Advanced |
 | COMESA digital retail payments platform | ***Baseline not held*** | [The regional clearing house published the scheme rulebook setting operational and governance rules for instant low-cost cross-border retail payments, and a gender audit and strategy to 2030 drawn from research along the Malawi-Zambia corridor](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W) | ***Baseline not held*** |
 | Unmet trade finance demand | ***Baseline not held*** | [US$74bn to US$100bn of unmet trade finance demand, with commercial banks intermediating about 23% of the continent's trade against 40% over 2011 to 2019, and intra-African trade at US$213.8bn in 2025 (2026-08)](https://www.thisdaylive.com/2026/08/11/pac-research-identifies-digital-innovation-financial-reforms-as-key-to-closing-africas-100bn-trade-finance-gap/) | ***Baseline not held*** |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-22 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Payment Systems Directive for Africa (PSDA) | ***Baseline not held*** | [Directed to be led by central banks rather than an external entity, with the Assembly's own task force on payment system integration to lead harmonisation; no draft directive held](https://aacb.org/sites/default/files/past_event_documents/2025_List%20of%20Decisions_Yaounde_Nov_2025.pdf) | ***Baseline not held*** |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-22 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Banks and countries connected to PAPSS | 28 banks within nine months of launch, against an ambition of all 500 to 600 African banks (2022) | [28 countries and over 190 banks and financial-technology firms connected, with the Central African central bank acceding in July 2026 and the West African central bank's pilot pending; connecting the EAC, West, Central and Southern African regional systems is put at reaching more than 60% of African countries, and no continent-wide transaction value is published (2026-08)](https://techcabal.com/2026/08/17/africa-is-building-a-single-payments-market-but-its-currencies-remain-divided/) | Advanced |
 | CARICOM Payment and Settlement System (CAPSS) | Did not exist; modelled on PAPSS since CARICOM governors' unanimous October 2023 selection | [Proof of concept complete in two countries; the ECCB Governor says at least two more central banks are needed for the initial pilot; not commercially operational, with settlement, FX, liquidity, AML and interoperability arrangements unresolved](https://www.truthng.com/caricom-prepares-papss-inspired-local-currency-payment-system/) | Advanced |
@@ -680,7 +687,7 @@ record: f5e9fb2efe50
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-20 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | COMESA Digital Retail Payments Platform | Did not exist | [Piloting between Malawi and Zambia, targeting settlement costs under 3% of value against about 8%](https://techcabal.com/2025/10/10/comesa-payment-system-trade-local-currencies/) | Advanced |
 | SADC-RTGS | Settling in rand alone since 2013; 15 of 16 members participating | [Second settlement currency live; more than 80 banks, R250.7bn settled a month](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Advanced |
@@ -689,11 +696,11 @@ record: f5e9fb2efe50
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | BCEAO connection obligation for instant-payment participants | Interoperability announced as mandatory from 30 June 2026 | [Banks, e-money issuers and payment institutions have until 30 September 2026 and microfinance institutions until 30 June 2027](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026) | Advanced, slipped |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-21 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
 |---|---|---|---|
 | Institutions connected to PI-SPI | 45 at launch (2025-09-30) | [80 at 2026-07-20, against 74 at the end of December 2025, with the central bank calling uptake gradual and the pace of new connections sharply slowed](https://www.togofirst.com/en/finance/2407-19672-bceao-instant-payment-platform-connects-30-million-users-in-less-than-10-months) | Advanced |
 | PI-SPI (UEMOA interoperable instant-payment platform) | In live testing from August 2025, ahead of a launch set for 30 September 2025 | [In service across the eight member states, free for person-to-person transfers, with banks and mobile money interconnected since May 2026](https://lefaso.net/spip.php?article139887) | Advanced |

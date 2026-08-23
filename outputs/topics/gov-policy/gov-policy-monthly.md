@@ -1,15 +1,15 @@
 ---
 title: Strategies, plans and policies — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: gov.policy
-places: BEN; BWA; BFA; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 46f47855ca33
+places: BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 9d52770de9fd
 ---
 
 # Strategies, plans and policies: monthly update, July 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -40,6 +40,10 @@ A [strategic consultation on the national digital transformation agenda was conv
 The World Bank published a public finance review of the Central African Republic on 2 July 2026, and it puts digitisation at the centre of what it proposes. Against domestic revenue of about [FCFA 187bn, or 10.1% of GDP, in a 2025 budget of about FCFA 385bn](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale), it argues for a rise to 12% in the short and medium term and 15% in the long term, and estimates that [digitising the tax administration alone could raise up to two points of GDP in the short term](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale). Electronic public procurement and a digital cadastre are named among its longer-term recommendations, against [63% of public contracts let by direct award in 2023 and 11% of domestically financed investment executed that year](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale).
 
 It is the first independent assessment the base holds of the ground the government's own public-finances digitalisation plan 2025-2027 covers. That plan's costed operational annex, due in April 2025, is still unpublished.
+
+## Chad
+
+The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the base can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
 
 ## Comoros
 
@@ -208,6 +212,10 @@ The coordination that did get a name came from outside the state. A [multi-stake
 ## Togo
 
 The [government roadmap for 2026-2031 is in force](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) with headline targets of a doubling of gross domestic product per head and poverty below 15 per cent. The text is not held, no digital chapter or digital target is on record, and the three sectoral tracks at its private-sector workshop of 30 July were agro-industry, logistics and transport, and energy — none of them digital. The [regulator's head was elected president of the West African regulators' association](https://www.togofirst.com/en/trombinoscope-uk/3107-19753-michel-yaovi-galley-head-of-arcep-togo) at the assembly Togo hosted in April.
+
+## Tunisia
+
+Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the base can carry is the fact that it met and the framing it used.
 
 ## Uganda
 

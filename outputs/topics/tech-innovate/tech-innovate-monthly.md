@@ -1,15 +1,15 @@
 ---
 title: Innovation ecosystem — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: tech.innovate
-places: DZA; BDI; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
-record: d4c0e0e1bc4e
+places: DZA; BDI; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; NER; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
+record: de8694bebdff
 ---
 
 # Innovation ecosystem: monthly update, July 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,10 @@ The student start-up conversion scheme reports [673 start-ups, 3,949 patents and
 ## Burundi
 
 The workshop's resource-governance session named the [MineGuard mining-intelligence platform](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/), and AfriPrompt was the other local build named — two builds with no funding, user base or public deployment on file.
+
+## Cape Verde
+
+The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it, and nothing here is yet an instrument the base can track.
 
 ## Cote d'Ivoire
 
@@ -75,6 +79,10 @@ Econet Telecom Lesotho and UNDP [signed a memorandum of understanding](https://l
 The technology summit closed on 22 July with [a Monrovia cybersecurity firm winning the national Startup World Cup on a domestic-data-custody pitch](https://www.liberianobserver.com/news/lantern-shines-brightest-as-2026-tech-summit-ends/article_14913b31-0736-4a07-bc38-29c6e5f79d54.html).
 
 UNDP set out its contributions at the summit, adding in its own account of 3 August that its innovation hub sits under its Africa innovation platform.
+
+## Niger
+
+The innovation estate gained a site and not yet a hub. A university at Diffa [was selected through a competitive process to host an innovation hub under a development-bank and UN-backed youth agripreneurship programme, and the workshop validating its project document opened](https://anp.ne/diffa-luniversite-se-dote-dun-unipod-pour-stimuler-linnovation-et-lagripreneuriat-des-jeunes/). A project document at validation is the stage before a budget: none is published, and no opening date is set.
 
 ## Nigeria
 

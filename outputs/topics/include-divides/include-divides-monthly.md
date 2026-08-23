@@ -1,10 +1,10 @@
 ---
 title: Digital divides — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: include.divides
 places: AGO; BWA; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NGA; SEN; UGA; ZWE
-record: 636fa0484106
+record: 17b81c21b779
 ---
 
 # Digital divides: monthly update, July 2026

@@ -1,17 +1,19 @@
 ---
 title: Literacy — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: capacity.literacy
-places: BEN; BFA; CMR; CIV; COD; GAB; GMB; GHA; KEN; LBR; MOZ; RWA; STP; SEN; TZA; ZMB
-record: 1fd79b78d94b
+places: AGO; BEN; BFA; CMR; CIV; COD; GAB; GMB; GHA; KEN; LBR; MOZ; RWA; STP; SEN; TZA; ZMB
+record: 336cf33d48a3
 ---
 
 # Literacy: monthly update, July 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
-*The place reports do not share one window; the period above is the range they span.*
+## Angola
+
+School computing continued to be delivered by installation count. The telecommunications minister [inaugurated a 25-computer laboratory serving 3,051 students at a polytechnic and said the programme behind it had by then installed more than 2,000 computers across 88 schools nationwide](https://angop.ao/noticias/educacao/alunos-do-ipas-ganham-laboratorio-de-informatica/). Both figures are the ministry's own, and the machines-to-students ratio at the one site it named is the part of the programme a national total cannot show. No budget, connectivity provision or maintenance arrangement is published.
 
 ## Benin
 

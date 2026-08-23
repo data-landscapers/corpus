@@ -1,15 +1,15 @@
 ---
 title: New investments — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: finance.new
-places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; STP; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE
-record: ef44b482b89d
+places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE
+record: 827c622008df
 ---
 
 # New investments: monthly update, July 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -40,6 +40,8 @@ The month's one new financing commitment is large and thinly documented. The gov
 The African Development Bank's e-government programme is meanwhile the [route by which several of the ministry's digital projects reach the market, through open tenders and calls for expressions of interest](https://digitalmag.ci/services-publics-financements-bad-des-projets-numeriques-en-cote-divoire-appels-doffres-et-avis-a-manifestation-dinteret/), with the winners of the two 30-company support programmes among the intended bidders. No award, value or project list is published.
 
 ## DR Congo
+
+The concessional pipeline moved a step and stopped short of money. The Council of Ministers [adopted on 14 August the draft ordinance-law ratifying a US$200m IDA additional financing to extend the TRANSFORME enterprise project into the Lobito corridor, on a loan agreement concluded on 22 June](https://www.transforme.cd/activities/le-gouvernement-adopte-un-financement-additionnel-de-200-millions-usd-pour-l-extension-du-projet-transforme-dans-le-corridor-de-lobito), which is an adoption in draft: the ordinance-law is not promulgated and no disbursement is on record. The other financing in the window is already at work — the universal service fund's subsidy conventions with the four mobile operators — and it is counted under coverage rather than here.
 
 A development fund committed [US$32.8m into an upsized US$179m senior secured facility on 5 August](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/), funding 728 new passive towers to take the network to 1,800, 70% of them rural, with solar and battery upgrades. [The same lender committed US$30m to the same borrower in 2023, when the network stood at 1,072 active towers](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/).
 
@@ -103,6 +105,10 @@ A Lagos fibre operator closed the [₦4.05bn first tranche](https://businesspost
 A [credit-scoring business](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/nigeria-s-mathesis-analytics-raises-funding-to-scale-ai-lending) scores people without bank accounts from their payment patterns and sells the output to banks, treating everyday transactional behaviour as the credit file — which extends access to people without bank accounts and makes payment data an underwriting input. Consent, purpose limitation and whether an automated refusal can be contested are not addressed in anything held.
 
 A [US$110m debt facility](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) for technology startups opened for applications on 30 July.
+
+## Rwanda
+
+The month's financing arrived as a parliamentary approval rather than a disbursement. The Chamber of Deputies [approved two financing agreements worth a combined Rwf279 billion, funding national strategy measures that include broadband expansion, a labour market information system linking job seekers to employers, and technology for livestock traceability](https://www.newtimes.co.rw/article/38320/news/finance/mps-approve-rwf279bn-financing-to-boost-job-creation). Three digital lines sit inside one headline number and none of them is separately priced, so the base can record that the money was voted and not what share of it reaches any of the three.
 
 ## Sao Tome and Principe
 

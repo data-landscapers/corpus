@@ -1,15 +1,15 @@
 ---
 title: Open data — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: data.open
-places: BEN; CMR; COG; DJI; GNQ; KEN; LBR; LBY; MDG; MAR; NAM; TUN; ZMB; ZWE
-record: 932e89c047bd
+places: BEN; CMR; COG; DJI; COD; GNQ; GHA; KEN; LBR; LBY; MDG; MAR; NAM; TUN; ZMB; ZWE
+record: 144e3400394d
 ---
 
 # Open data: monthly update, July 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -29,9 +29,17 @@ Focal points were [trained on 14 and 15 July on a platform under development to 
 
 The account of the archive programme published on 3 August also [establishes that 126 years of the Journal officiel are digitised and published online](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/). The account gives no date for when publication began.
 
+## DR Congo
+
+The month's one open-data movement came from the central bank rather than from the state's open-data policy, which the base still does not hold. The bank [relaunched its website on 14 August as a public economic-data portal carrying exchange rates, inflation, interest rates, statistics and indicators, with a currency converter and a search facility](https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel), its governor framing the site as part of a reform whose stated objectives include digitalising payments and automating control processes. It is a publication channel rather than a data release: no machine-readable download, licence or update schedule is stated, and the national data governance strategy remains **Not held**.
+
 ## Equatorial Guinea
 
 [EITI data collection for the 2024 report](https://realequatorialguinea.com/sociedad/inicia-en-malabo-el-taller-para-la-recopilacion-de-datos-del-informe-eiti-guinea-ecuatorial-2024/) opened at Malabo on 30 July as the last outstanding measure before validation of the IMF Staff-Monitored Programme.
+
+## Ghana
+
+The one open-data movement in the window is a system that exists and a commitment that cannot pay for it. The fisheries ministry and the national multi-stakeholder group built an online Fisheries Information System, launched at an ocean conference in June 2026, but [inadequate funding is constraining the 2024 Fisheries Transparency Initiative commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/), with the minister pointing to part of a goods-and-services allocation and to unconcluded talks with Norway on reviving a development funding mechanism. A published system with no secured budget behind the disclosure regime is the familiar shape here, and the national open-data instrument remains **Not held**.
 
 ## Kenya
 

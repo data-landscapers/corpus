@@ -1,10 +1,10 @@
 ---
 title: Standards — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: gov.standards
 places: DZA; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA
-record: 8e3ad36f5639
+record: 952edefdb87a
 ---
 
 # Standards: monthly update, July 2026
@@ -93,6 +93,8 @@ On 27 July the regulator's verification campaign opened against the [mises en de
 ## Nigeria
 
 The technology agency approved a [software quality assurance framework](https://prnigeria.com/2026/07/30/nitda-launches-national/) on 30 July making independent third-party testing a mandatory condition of IT project clearance — full operation is set for Q2 2027 and no licensed testing organisation is yet on file.
+
+The standards move of the month is aimed at the innovation estate rather than at government systems. A draft [National Innovation Hub Standards Framework went to an Abuja validation exercise, giving hubs a self-assessment tool across seven dimensions and about 35 categories and a defined maturity pathway](https://von.gov.ng/nigeria-unveils-innovation-hub-framework-to-boost-digital-economy/), against a count of more than 339 hubs heavily concentrated in Lagos and Abuja — the stated purpose being to make a hub in a state outside those two legible enough to be funded without its founders relocating. At the same workshop the [EU delegation put Team Europe support for the country's digital sector at more than €820m between 2021 and 2027](https://punchng.com/fg-to-begin-90000km-fibre-rollout-in-october-minister/). It is a draft at validation, so what the framework will require of a hub, and who will assess it, is not yet settled.
 
 ## Rwanda
 

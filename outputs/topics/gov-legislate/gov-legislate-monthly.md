@@ -1,15 +1,15 @@
 ---
 title: Legislation and regulation — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: gov.legislate
-places: DZA; AGO; BWA; BFA; BDI; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3484bbc0711e
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 334293f72840
 ---
 
 # Legislation and regulation: monthly update, July 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -44,6 +44,10 @@ On the statute book already in force, a press-freedom organisation [presented a 
 ## Burundi
 
 An [access-to-information bill is on the National Assembly's order paper for the session opened at the Kigobe Congress Palace on 3 August 2026](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/). The first vice-president listed it among the bills the chamber will examine. Article 176 caps ordinary sessions at three months, putting the outer bound for passage in this sitting at roughly end-October 2026. No text, tabling number, sponsoring ministry or timetable was published and no copy is held — the announcement establishes only that the bill exists and is scheduled. Burundi has had no access-to-information statute on file to date.
+
+## Cameroon
+
+The one legislative act in the window changes the regulator rather than the rules it applies. A finance ministry order [moved the telecoms regulator from the third to the second category of public establishments, on its average realised budget across the 2022, 2023 and 2024 financial years](https://art.cm/fr/article/lart-accede-a-la-2e-categorie-des-etablissements-publics-la-performance-institutionnelle). The category governs institutional standing and pay structure, so what moved is the regulator's own position in the state rather than any power it holds over the sector. Neither the order text nor the budget figures behind it are published.
 
 ## Cape Verde
 

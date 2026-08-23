@@ -1,15 +1,15 @@
 ---
 title: Regional collaboration — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: gov.regional
-places: DZA; BEN; BWA; BDI; CAF; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
-record: 17c1ac9b09eb
+places: DZA; BEN; BWA; BDI; CAF; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
+record: b85848f98269
 ---
 
 # Regional collaboration: monthly update, July 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -160,6 +160,10 @@ Regionally, Senegal became [one of 29 founding states of an intergovernmental AI
 ## Seychelles
 
 [AUDA-NEPAD launched its Programme for African Developing Island Economies at the AU's STC Ministerial Segment in Abidjan on 24 July 2026](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies), adopting a ministerial communique covering seven island states including Seychelles on a 2026–2031 roadmap that names digital transformation one of six pillars, alongside partners Korea, AfDB, the regional economic communities and the Indian Ocean Commission.
+
+## Sierra Leone
+
+Regional health data gained an institutional seat. The health minister [attended the inaugural board meeting of the Health Intelligence Centres for Africa in Addis Ababa with the head of the national health information hub, Sierra Leone being a founding member and sitting on the strategic advisory board](https://sierraloaded.sl/news/health-minister-represents-sierra-leone/). Founding membership is a position the base can state; what it cannot yet state is what the body will do with member states' health data, since no constitutive instrument, budget or data-sharing arrangement is published.
 
 ## Somalia
 

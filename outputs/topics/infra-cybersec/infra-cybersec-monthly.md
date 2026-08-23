@@ -1,17 +1,21 @@
 ---
 title: Cybersecurity — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: infra.cybersec
-places: AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 10665ac4cd7b
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 282af4c34d7e
 ---
 
 # Cybersecurity: monthly update, July 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+The cybersecurity record this window is a warning about the state's own brand rather than about its systems. The Algiers wilaya [told citizens that unlicensed platforms are impersonating its institutions and public enterprises, mostly as fake e-ticketing storefronts built to harvest bank card details and personal data, and directed them to check the domain name before paying and to use only officially approved portals](https://www.algerie360.com/arnaques-en-ligne-la-wilaya-dalger-lance-une-alerte-aux-citoyens/). It is a communique, not an enforcement action: no takedown, prosecution or count of impersonating sites is on record. The exposure it describes tracks the payment figures in the section below — more web merchants and more card use give a counterfeit storefront more to imitate.
 
 ## Angola
 

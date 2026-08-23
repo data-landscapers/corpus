@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 subject: digital.rural
 places: EGY; SWZ; GIN; MWI; MLI; NER; NGA; SLE; TGO; ZMB; ZWE
-record: 70f75d54ff4a
+record: 4bfe3de5cf15
 ---
 
 # Rural digital data capture: monthly update, July 2026
