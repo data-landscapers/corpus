@@ -1,16 +1,16 @@
 ---
 title: Nigeria — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: NGA
-ledger_rows: 141
+ledger_rows: 145
 not_held: 9
-record: 86675ace7550
+record: 2efd17202835
 ---
 
 # Nigeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -208,6 +208,11 @@ Ministers adopted an Abuja declaration on meaningful connectivity.
 
 
 The continental data convention still has no Nigerian signature behind it: a peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory, and finds all four frameworks fragmented with weak harmonisation of cross-border transfers](https://datascience.codata.org/articles/10.5334/dsj-2026-031). That is a finding about the record, carried as a dated absence.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The standards move of the month is aimed at the innovation estate rather than at government systems. A draft [National Innovation Hub Standards Framework went to an Abuja validation exercise, giving hubs a self-assessment tool across seven dimensions and about 35 categories and a defined maturity pathway](https://von.gov.ng/nigeria-unveils-innovation-hub-framework-to-boost-digital-economy/), against a count of more than 339 hubs heavily concentrated in Lagos and Abuja — the stated purpose being to make a hub in a state outside those two legible enough to be funded without its founders relocating. At the same workshop the [EU delegation put Team Europe support for the country's digital sector at more than €820m between 2021 and 2027](https://punchng.com/fg-to-begin-90000km-fibre-rollout-in-october-minister/). It is a draft at validation, so what the framework will require of a hub, and who will assess it, is not yet settled.
 <!-- /narrative -->
 ### Data protection
 
