@@ -1,16 +1,16 @@
 ---
 title: Liberia — monthly update, July 2026
-compiled: 2026-08-21
-period: 2026-07-01 to 2026-08-21
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: LBR
-ledger_rows: 38
+ledger_rows: 40
 not_held: 9
-record: 6ab53a95c1d3
+record: f2fd2ac7ec4c
 ---
 
 # Liberia: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-21 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 

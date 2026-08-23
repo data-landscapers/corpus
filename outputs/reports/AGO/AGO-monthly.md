@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-23
 place: AGO
 ledger_rows: 43
 not_held: 7
-record: 20042553cd69
+record: 67fbfa54ea10
 ---
 
 # Angola: monthly update, July 2026
@@ -150,7 +150,7 @@ Financial inclusion was scored at [51.7% for the first quarter of 2026 against a
 ### Literacy
 
 <!-- narrative: inclusion--capacity-literacy -->
-School computing continued to be delivered by installation count. The telecommunications minister [inaugurated a 25-computer laboratory serving 3,051 students at a polytechnic and said the programme behind it had by then installed more than 2,000 computers across 88 schools nationwide](https://angop.ao/noticias/educacao/alunos-do-ipas-ganham-laboratorio-de-informatica/). Both figures are the ministry's own, and the ratio in the one site it named — 25 machines to 3,051 students — is the part of the programme a national total cannot show. No budget, connectivity provision or maintenance arrangement is published.
+School computing continued to be delivered by installation count. The telecommunications minister [inaugurated a 25-computer laboratory serving 3,051 students at a polytechnic and said the programme behind it had by then installed more than 2,000 computers across 88 schools nationwide](https://angop.ao/noticias/educacao/alunos-do-ipas-ganham-laboratorio-de-informatica/). Both figures are the ministry's own, and the machines-to-students ratio at the one site it named is the part of the programme a national total cannot show. No budget, connectivity provision or maintenance arrangement is published.
 <!-- /narrative -->
 
 ## Finance
