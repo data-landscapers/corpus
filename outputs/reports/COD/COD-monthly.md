@@ -1,16 +1,16 @@
 ---
 title: DR Congo — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+compiled: 2026-08-23
+period: 2026-07-01 to 2026-08-23
 place: COD
-ledger_rows: 45
+ledger_rows: 53
 not_held: 13
-record: 2a6083da64b9
+record: b7868dfc1263
 ---
 
 # DR Congo: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -129,6 +129,11 @@ Data protection has an authority that does not exist and a population whose serv
 <!-- narrative: governance--gov-discourse -->
 A [standing consultation mechanism between the ministry and the sector network was agreed at a working session on 6 August](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/), after the dispute over the digital-sector tariff. No constituting text, membership or meeting schedule is stated, and the agreement is known from a communiqué carried by the state news agency.
 <!-- /narrative -->
+### Open data
+
+<!-- narrative: governance--data-open -->
+The month's one open-data movement came from the central bank rather than from the state's open-data policy, which the base still does not hold. The bank [relaunched its website on 14 August as a public economic-data portal carrying exchange rates, inflation, interest rates, statistics and indicators, with a currency converter and a search facility](https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel), its governor framing the site as part of a reform whose stated objectives include digitalising payments and automating control processes. It is a publication channel rather than a data release: no machine-readable download, licence or update schedule is stated, and the national data governance strategy remains **Not held**.
+<!-- /narrative -->
 
 ## Artificial intelligence and the technology sector
 
@@ -151,6 +156,11 @@ A government communiqué of 3 August confirmed that the [Startup Act implementin
 
 <!-- narrative: ai-tech--geopol-china -->
 On 3 July a memorandum was signed with a Chinese supplier for a [2,100 km route — 1,700 km along the Congo River plus nearly 400 km terrestrial — at a stated US$1.5bn, with more than US$400m required for the first phase](https://www.connectingafrica.com/fiber-networking/drc-plans-1-5b-fiber-optic-project-along-congo-river). Both figures are company-reported, and there is no financing close, contract or works.
+<!-- /narrative -->
+### New investments
+
+<!-- narrative: ai-tech--finance-new -->
+The concessional pipeline moved a step and stopped short of money. The Council of Ministers [adopted on 14 August the draft ordinance-law ratifying a US$200m IDA additional financing to extend the TRANSFORME enterprise project into the Lobito corridor, on a loan agreement concluded on 22 June](https://www.transforme.cd/activities/le-gouvernement-adopte-un-financement-additionnel-de-200-millions-usd-pour-l-extension-du-projet-transforme-dans-le-corridor-de-lobito), which is an adoption in draft: the ordinance-law is not promulgated and no disbursement is on record. The other financing in the window is already at work — the universal service fund's subsidy conventions with the four mobile operators — and it is counted under coverage rather than here.
 <!-- /narrative -->
 
 ## Inclusion and capacity
