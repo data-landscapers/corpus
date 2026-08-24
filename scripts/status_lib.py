@@ -48,6 +48,11 @@ IIAG_CSV = os.path.join(REPO, "lookups", "iiag-profiles.csv")
 # `CORPUS_OSINT_XFER` overrides it, so a move onto a mapped share needs no code change.
 EXCHANGE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
 ACQUIRE_CSV = os.path.join(EXCHANGE, "africa-acquire.csv")
+# The other end of the same queue. OSINT's STATUS-ACQUIRE takes a country's rows out of the
+# feed and files them here with a `status` of `staged` or `dropped` and a `closed` date
+# (first run, AGO, 2026-08-24). A row that has left the feed is settled, not forgotten, so
+# both files have to be read to know whether a URL owes an acquisition.
+ACQUIRE_DONE_CSV = os.path.join(EXCHANGE, "acquire-done.csv")
 OUTLINE = os.path.join(REPO, "documentation", "status-outline.md")
 REPORTS = os.path.join(REPO, "outputs", "reports")
 
@@ -212,6 +217,18 @@ def acquire_rows():
     if not os.path.exists(ACQUIRE_CSV):
         return []
     with open(ACQUIRE_CSV, encoding="utf-8-sig", newline="") as fh:
+        return [r for r in csv.DictReader(fh) if r.get("iso3")]
+
+
+def acquire_done_rows():
+    """The closed half of the acquire queue. `acquire-done.csv` in EXCHANGE, written by OSINT.
+
+    Same columns as the feed plus `closed`. Read here so that a row OSINT has settled — staged into
+    its ingest queue, or dropped with a reason — is not read back as a gap by anything on this
+    side: it left `africa-acquire.csv` because it was answered."""
+    if not os.path.exists(ACQUIRE_DONE_CSV):
+        return []
+    with open(ACQUIRE_DONE_CSV, encoding="utf-8-sig", newline="") as fh:
         return [r for r in csv.DictReader(fh) if r.get("iso3")]
 
 

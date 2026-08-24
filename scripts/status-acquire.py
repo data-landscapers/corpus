@@ -111,9 +111,19 @@ def main():
             where.setdefault(url, slug or label)
 
     old_rows, kept = existing()
+
+    # **A row OSINT has closed is not re-queued** *(2026-08-24, the first STATUS-ACQUIRE
+    # round-trip)*. Its process takes a country's rows out of the feed and files them in
+    # `acquire-done.csv`, staged into its ingest queue or dropped with a reason. A re-run here
+    # asks the catalogue, and a staged source is not in the catalogue until the ingest lands — so
+    # without this every closed row comes back, minus the status and notes that settled it, and
+    # the queue Bill works down grows by the work he has already done.
+    closed = {row.get("url", "") for row in S.acquire_done_rows()
+              if row.get("iso3", "").upper() == iso}
+
     mine, unknown = [], []
     for url in sorted(S.links(text)):
-        if url in cat:
+        if url in cat or url in closed:
             continue
         fact = pool.get(url)
         published = (fact or {}).get("published") or ""
@@ -144,7 +154,8 @@ def main():
 
     units = len({r["iso3"] for r in out})
     print(f"{os.path.relpath(OUT, S.REPO)}: {len(mine)} line(s) for {iso}, "
-          f"{len(out)} in all across {units} unit(s)")
+          f"{len(out)} in all across {units} unit(s)"
+          + (f"; {len(closed)} already closed in acquire-done.csv" if closed else ""))
     for u in unknown:
         print(f"  ! no pool record for {u} — date and publisher unknown", file=sys.stderr)
 

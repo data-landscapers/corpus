@@ -191,9 +191,17 @@ def check_unit(unit, show_openings=False):
     # reads only the rows whose `iso3` is the unit under check. It was `{ISO3}-acquire.md` until
     # 2026-08-15; a queue Bill works down wants to be sortable and countable, which 54 markdown
     # tables are not.
+    #
+    # A row OSINT has closed has left the feed for `acquire-done.csv` and is not read back as an
+    # open line: it is not checked for well-formedness — a staged one will appear in the catalogue
+    # once ingested, and reporting *already held — no acquisition is owed* against a line that did
+    # its job is backwards — but its URL still counts as listed, so the note below stops offering
+    # it as something nobody has asked for. First round-trip: AGO, 47 rows, 2026-08-24.
     cat = S.catalogue_urls()
     rows = [row for row in S.acquire_rows() if row.get("iso3", "").upper() == unit]
-    listed, bad_lines = set(), []
+    closed = {row.get("url", "") for row in S.acquire_done_rows()
+              if row.get("iso3", "").upper() == unit}
+    listed, bad_lines = set(closed), []
     for row in rows:
         url, date = row.get("url", ""), row.get("published", "")
         listed.add(url)
@@ -271,13 +279,19 @@ def check_unit(unit, show_openings=False):
     written = sum(1 for s, _, p in secs if p.strip())
     not_est = sum(1 for _, _, p in secs
                   if p.strip() and not S.links(p) and len(S.sentences(p)) <= 2)
+    # `acquire_lines` counts the open feed *and* the closed rows. The frontmatter stamps what the
+    # baseline found, and OSINT answering a line does not un-find the gap that produced it — a
+    # count that fell to zero the day the queue was worked would make every issued report drift
+    # against its own frontmatter for a reason that is not about the report *(2026-08-24)*.
+    owed = len(rows) + len(closed)
     actual = {"sections_written": written, "not_established": not_est,
-              "sources_cited": len(urls), "acquire_lines": len(rows)}
+              "sources_cited": len(urls), "acquire_lines": owed}
     drift = [f"frontmatter {k}: {fm[k]}, document: {v}"
              for k, v in actual.items() if k in fm and fm[k].strip() != str(v)]
     r.check("FM", "frontmatter counts match the document", drift)
     r.note(f"{unit} · sections written {written} of {len(want)} · not established {not_est} "
-           f"· sources cited {len(urls)} · acquire lines {len(rows)}")
+           f"· sources cited {len(urls)} · acquire lines {owed}"
+           + (f" ({len(closed)} closed)" if closed else ""))
     return r
 
 
