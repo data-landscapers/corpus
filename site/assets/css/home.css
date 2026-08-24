@@ -67,16 +67,38 @@
  * documents. The ten Level-1 tiles and the panel each of them opened went
  * with the matrix when it came off the home page — a page of its own prints the
  * whole taxonomy at once, so there is nothing left to expand and no script on
- * the page at all. `.tsub__inner` and `.sbox` outlive them because the row is
- * also what the Level-1 category pages `topic-page.py` writes are made of. */
+ * the page at all. The class names are the panel's and outlived it; the row is
+ * this page's only, now that the category pages have gone too.
+ *
+ * **Four to a row, every box two lines deep** (Bill, 2026-08-24). Auto-fill let
+ * each category set its own column count off its own longest label, so ten rows
+ * of boxes lined up ten different ways down one page — the taxonomy looked
+ * ragged when it is not. Four fixed columns and a two-line minimum give every
+ * box the same footprint whether its label runs to one line or two, which is
+ * what makes the categories comparable at a glance. The minimum is a floor and
+ * not a height: a label that needs a third line at a narrow window gets one. */
 .topic-group { display: flex; align-items: baseline; gap: 0.45rem; margin: 1.7rem 0 0.4rem; font-size: 1rem; }
 .topic-group__k { font-family: var(--mono); font-size: 0.7rem; font-weight: 400; color: var(--ink-faint); }
 .topic-group__n { margin-left: auto; font-family: var(--mono); font-size: 0.72rem; font-weight: 400; color: var(--ink-light); }
-.tsub__inner { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: 4px; padding: 6px; margin-bottom: 4px; background: color-mix(in srgb, var(--accent) 4%, var(--paper)); border: 1px solid var(--rule); border-radius: 3px; }
-.sbox { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
+.tsub__inner { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; padding: 6px; margin-bottom: 4px; background: color-mix(in srgb, var(--accent) 4%, var(--paper)); border: 1px solid var(--rule); border-radius: 3px; }
+/* The count floats rather than sitting beside the label in a flex row, and is
+ * written first in the markup because that is the only order a float can work
+ * in. A flex row makes the label a box, so the count's width comes off *every*
+ * line of it, and at four columns that is 153px for a label of up to 46
+ * characters: three of the taxonomy's labels wrapped to a third line, which is
+ * exactly the raggedness four fixed columns were meant to remove. Floated, the
+ * count is subtracted from the first line only and the rest of the label runs
+ * the full width of the box, which fits all 38 in two lines with room over. */
+.sbox { display: block; min-height: 2.95rem; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
 .sbox:hover { border-color: var(--accent); color: var(--ink); }
 .sbox__l { font-size: 0.78rem; line-height: 1.25; }
-.sbox__n { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-light); white-space: nowrap; }
+.sbox__n { float: right; margin-left: 0.5rem; font-family: var(--mono); font-size: 0.72rem; line-height: 1.35; color: var(--ink-light); white-space: nowrap; }
+
+/* Two columns on a phone rather than four of nothing: the labels are sentences,
+ * not codes, and four of them across 375px wraps every one to four lines. */
+@media (max-width: 700px) {
+  .tsub__inner { grid-template-columns: repeat(2, 1fr); }
+}
 
 .colophon { margin: 3.5rem 0 2rem; padding: 1.25rem 1.5rem; background: var(--paper-warm); border: 1px solid var(--rule); font-size: 0.8rem; }
 .colophon dl { display: grid; grid-template-columns: 9rem 1fr; gap: 0.3rem 1rem; margin: 0.5rem 0 0; }

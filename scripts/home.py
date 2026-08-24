@@ -278,8 +278,12 @@ def topic_grid(by_topic: dict[str, int]) -> str:
         boxes = [
             f'      <a class="sbox" href="{SITE_BASE}/topics/{s.replace(".", "-")}/"'
             f' title="{s}" style="--fill:{by_topic.get(s, 0) / top:.3f}">'
-            f'<span class="sbox__l">{e(taxonomy_lib.label(s))}</span>'
-            f'<span class="sbox__n">{by_topic.get(s, 0):,}</span></a>'
+            # The count precedes the label because it is floated right and a
+            # float only affects the content after it — see home.css. Four boxes
+            # to a row means the label needs every line but the first at full
+            # width, or three of the taxonomy's labels run to three lines.
+            f'<span class="sbox__n">{by_topic.get(s, 0):,}</span>'
+            f'<span class="sbox__l">{e(taxonomy_lib.label(s))}</span></a>'
             for s in slugs]
         out.append(f'    <h3 class="topic-group" id="{k}">{e(name)}'
                    f' <span class="topic-group__k">{k}.*</span>'
