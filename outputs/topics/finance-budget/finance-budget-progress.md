@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: finance.budget
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; RWA; SEN; SDN; TZA; ZMB; ZWE; XAF; XWA
-record: 3e6b54126228
+record: 3f4ef4d8099b
 ---
 
 # Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-24
@@ -17,7 +17,7 @@ record: 3e6b54126228
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Communications programme appropriation | Kz 229.3bn appropriated for 2025 | [Kz 159.2bn appropriated for 2026, of which fourth-generation expansion is Kz 62.7bn, down 42%, with the third-generation coverage line deleted](https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/) | Regressed |
 | Supplementary credit for identity-card universalisation | Did not exist | [US$218,500,000 of supplementary credit assigned to the justice ministry, released against payment need and treasury availability](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-169-25-de-19-de-setembro/) | Advanced |
@@ -67,7 +67,7 @@ record: 3e6b54126228
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Lands ministry cadastre modernisation programme | FCFA 1,567,500,000 appropriated for FY2025, up from FCFA 1,203,574,000 in FY2024 | [FCFA 874,046,000 proposed for FY2026, a 44.2% cut on the FY2025 appropriation and below the FY2024 level](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) | Regressed |
 | Telecommunications ministry digital-ecosystem programme | FCFA 10,330,875,000 plus FCFA 1,037,044,000 appropriated for FY2025, unchanged by the mid-year revising ordinance | [FCFA 19,494,457,000 proposed for FY2026, a 71.5% increase on the FY2025 combined appropriation, at proposed stage only](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) | Advanced |
@@ -149,7 +149,7 @@ record: 3e6b54126228
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Budget allocation for data centres and state AI | None published | [An intended allocation of up to US$860 million a year from the general budget, from FY2026/27 to the end of 2030, for data centres, computing infrastructure, data security and privacy, and artificial-intelligence use inside state-owned companies, on a stated target of 0.10-0.15 per cent of GDP](https://www.egypttelegraph.com/article/272026/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AE%D8%B5%D8%B5-860-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%86%D9%88%D9%8A%D8%A7-%D9%84%D9%85%D8%B1%D8%A7%D9%83%D8%B2) | Advanced |
 | ICT sector public investment | Not held | [EGP 13bn of public investment allocated to the communications and information technology sector in the 2025/26 plan, against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing](https://moic.gov.eg/news/2134) | ***Baseline not held*** |
@@ -205,7 +205,7 @@ record: 3e6b54126228
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Device assembly allocation to the science and technology university | The base carries no prior-year figure | [MWK 1.1bn allocated for assembling laptops and tablets at the Malawi University of Science and Technology - the nearest digital allocation to schools in that budget, and directed at higher education](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
 | National Birth Registration Campaign appropriation | The base carries no statement of the campaign's cost or funding before 2025-08-01 | [The campaign requires MWK 17.8bn in total to register about 4.6 million children across seven phases in 25 districts; MWK 5.4bn was allocated in the 2025/26 financial year for phases 1 and 2, leaving MWK 12.4bn unfunded](https://malawi24.com/2026/01/16/k17-8bn-push-to-register-4-6-million-children/) | ***Baseline not held*** |

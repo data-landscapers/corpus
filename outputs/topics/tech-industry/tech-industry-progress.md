@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: 2a9240969f37
+record: bd7962130577
 ---
 
 # ICT Industry: progress report, 2025-08-01 to 2026-08-24
@@ -24,7 +24,7 @@ record: 2a9240969f37
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Incumbent operator listing | Did not exist | [15% of capital and votes sold for Kz 300.3bn, reported as about US$329m, at 120.72% subscription, creating 11,264 new shareholders](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/) | Advanced |
 
@@ -49,7 +49,7 @@ record: 2a9240969f37
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Douala smart port digital platform | Did not exist | [A build-operate-transfer concession signed with the port authority on 2025-11-17, with pension-fund equity behind it from March 2026; no investment amount, share or schedule published](https://leconomie.info/douala-smart-port-la-cnps-entre-dans-le-tour-de-table-dinnovendi-data-technologies/) | Advanced |
 | Startup funding raised | ***Baseline not held*** | [Two funded startups raising US$300,000 in 2025, of which US$100,000 was AI, 0.2% of the African AI total](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | ***Baseline not held*** |
@@ -74,7 +74,7 @@ record: 2a9240969f37
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Third private mobile operator | Did not exist on file | [Planned only, with nothing on record being licensed](https://techafricanews.com/2025/07/18/chad-launches-1-5b-digital-strategy-to-connect-citizens-by-2030/) | Advanced |
 | Privatisation of the state telecommunications operator | Announced repeatedly since 2014, with the stake offer re-announced in February 2025 and no advisory bank appointed | [Still no advisory bank appointed; the national strategy re-provides for privatisation without changing the position](https://russellsouthwood.substack.com/p/waking-the-dead-slow-road-to-extinction) | No change |
@@ -113,7 +113,7 @@ record: 2a9240969f37
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Electronics and handset localisation programme | 3 million handsets produced in 2024 | [10 million handsets produced by end-2025, with ministerial targets of more than 15 million during 2026, a 30 million capacity by 2028 and local content of about 45%](https://gate.ahram.org.eg/News/5814629.aspx) | Advanced |
 | ICT sector growth and share of GDP | Sector growth of 15.2% in FY2022/23 contributing 5.1% of GDP, up from 4.4% in FY2019/20, with US$4.2bn of investment (reported 2025-11-21) | [Growth of 20.3% in the third quarter of the last fiscal year, described as the sector's highest rate, and a GDP contribution of about 6%, targeted at 8% by 2030](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) | Advanced |
@@ -187,7 +187,7 @@ record: 2a9240969f37
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Bank of Malawi and ICT Association Innovation Jam | An annual jam run under a six-year bank and association partnership, but no memorandum is on file before 2025-08-01 | [A three-year memorandum committing the bank to mentorship, incubation and technical support for innovators emerging from the annual event, with MWK 75,500,000 given to the 2025 edition held 19-22 November on an artificial-intelligence theme](https://malawi24.com/2025/11/19/k75-5-to-helpm-malawian-young-innovators-turn-ideas-into-thriving-solutions/) | Advanced |
 | ICT services exports | No figure held at 2025-08-01 | [Rose from about US$70m in 2020 to US$154m in 2023, cited by a private-sector managing director as evidence that ICT already earns foreign currency](https://malawi24.com/2026/06/06/malawis-ict-exports-soar-to-k270-billion-amid-forex-solutions/) | ***Baseline not held*** |
@@ -274,13 +274,14 @@ record: 2a9240969f37
 
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
+| Cell C financial turnaround | Listed on the exchange November 2025 | [ZAR 12.64bn revenue and ZAR 4.16bn profit after tax; prepaid base past 8 million and the wholesale MVNO base at 5.71 million](https://techafricanews.com/2026/08/24/cell-c-reports-zar-4-16-billion-profit-turnaround-fy26/) | Advanced |
 | Mobile virtual network operator subscriptions | Baseline not held | [About 4.4 million active MVNO SIMs at end-2025 on an analyst count, up about 43% year on year and forecast to reach 14.4 million by 2030; the fourth-largest of the five mobile operators reported 5.7 million MVNO subscribers carried on its own wholesale platform for the 12 months to 2026-05-31, which it put at an estimated 80-85% share of the market](https://www.connectingafrica.com/investment/cell-c-gains-1-3m-subscribers-reduces-debt) | Advanced |
 | B-BBEE ICT Sector Council | Baseline not held | [The communications minister replaced the council’s chairperson and appointed an interim chair for six months after a departmental investigation found the council dysfunctional; the investigation report is not published, and no remedial plan, terms of reference for the interim period or date for a permanent appointment is stated](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL) | ***Baseline not held*** |
 | Informal-retail transaction data product | ***Baseline not held*** | [A listed payments company sells near-real-time item-level intelligence on the informal retail economy, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am) | ***Baseline not held*** |
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | eSIM service | In service | [In service; no take-up figures published](https://www.telecomreviewafrica.com/articles/telecom-operators/4695-mtn-south-sudan-pioneers-esim-technology-redefining-connectivity/) | No change |
 

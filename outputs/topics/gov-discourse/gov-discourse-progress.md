@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; COD; EGY; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MAR; NAM; NER; RWA; STP; SEN; SYC; ZAF; TZA; TGO; UGA; ZMB; ZWE; XWA
-record: 71dad933a8e6
+record: 953de29926ae
 ---
 
 # Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-24
@@ -36,7 +36,7 @@ record: 71dad933a8e6
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Election-period network restrictions | No restriction recorded in the base for the year to 2025-08 | [Four shutdowns recorded in Cameroon in 2025, including election-period restrictions on social platforms](https://www.accessnow.org/internet-shutdowns-2025/) | Regressed |
 | National Internet Governance Forum | Not held | [Held at Yaoundé from 18 to 20 August 2026 on the theme of moving from fragmentation to interoperability, positioning data as the foundation for interoperable digital public infrastructure; no national data-governance framework exists on the record for it to build on](https://www.237online.com/gouvernance-internet-forum-yaounde/) | ***Baseline not held*** |
@@ -49,7 +49,7 @@ record: 71dad933a8e6
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Suspension of applications to create online newspapers | Not held - the base carries no record of the media regulator before 2026-08-03 | [Examination suspended indefinitely, with no published criteria, no end date and no transitional treatment of applications already filed, so existing licensed online outlets are a closed list for the duration](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) | Regressed, baseline not held |
 | Internet shutdown in Lac province | Offline since 2024-10-28, with no restoration recorded | [No restoration, extension or official justification on record, and the base carries nothing on it inside the window](https://lendjampost.com/coupure-dinternet-dans-le-lac-internet-society-tchad-tire-la-sonnette-dalarme/) | No change |
@@ -76,7 +76,7 @@ record: 71dad933a8e6
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Council of State digital transformation plan | The base carries no record that the administrative-justice branch had a digitisation programme | [The head of the Council of State told a meeting of administrative-court circuit presidents that the Council continues to implement an integrated digital transformation plan, developing its information infrastructure and adopting current technology to speed litigation; no named system, date, figure or deliverable is stated](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) | ***Baseline not held*** |
 | VAT credit-refund period reduction | The base carries no earlier statement of the refund period or of the proposal | [A proposed cut of the credit-refund period to four months for taxpayers and three for small and medium enterprises is still awaiting its legislative steps; a tax association board member added that the reduction will not meet its objects unless the operational problems obstructing proof of balances are resolved first](https://www.alborsaanews.com/2026/07/29/1982823) | ***Baseline not held*** |

@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2026-07-01 to 2026-08-24
 subject: data.satellite
 places: AGO; COG; EGY; GHA; LBR; LBY; MOZ; NAM; NER; RWA; SYC; SLE; ZMB
-record: 80deff8acb33
+record: d89479381c94
 ---
 
 # Use of satellite data: monthly update, July 2026
@@ -15,7 +15,7 @@ record: 80deff8acb33
 
 ## Angola
 
-The regulator had licensed a first private reseller of national satellite capacity on 2 July, following 37 firms entering the commercial process by April.
+The regulator [licensed a first private reseller of national satellite capacity on 2 July](https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/), following [37 firms entering the commercial process by April](https://techafricanews.com/2026/04/10/angola-expands-satellite-internet-push-as-37-firms-enter-conecta-project/).
 
 ## Congo
 

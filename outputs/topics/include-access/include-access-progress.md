@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: include.access
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: e5e4dae9ae3d
+record: 9d35c5510394
 ---
 
 # Access to services: progress report, 2025-08-01 to 2026-08-24
@@ -17,7 +17,7 @@ record: e5e4dae9ae3d
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Bancarisation rate | No official rate held; a 2023 industry figure put roughly half of the population unbanked | [About 32% of the population, 5.7 million citizens, in the banking system, targeting 36% and about eight million by 2027](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/) | Advanced |
 | Cash-transfer programme | A US$320m loan building the social registry and government-to-person rails, with more than 247,000 households reached against a 1.6 million family target | [More than 1.3 million households and about 6.5 million citizens reached, with a single social register now the centralised targeting database](https://angop.ao/noticias/sociedade/lancamento-do-cadastro-social-unico-marca-a-semana-social/) | Advanced |
@@ -65,7 +65,7 @@ record: e5e4dae9ae3d
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Internet subscriptions | ***Baseline not held*** | [Over 15m internet subscriptions, 99% of them mobile; data traffic up 26%; fixed teledensity described as extremely low; over 11m active mobile financial services subscribers](https://techafricanews.com/2025/12/09/cameroons-telecom-sector-grows-18-in-2024-driven-by-mobile-and-digital-services/) | ***Baseline not held*** |
 
@@ -78,7 +78,7 @@ record: e5e4dae9ae3d
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Francophone civil registration project, Chadian component | Nothing held at the window's opening | [More than 53,000 children registered in two provinces, with a second phase in preparation](https://www.biometricupdate.com/202508/la-francophonie-supports-birth-registration-efforts-across-central-africa-madagascar) | Advanced |
 | Health-facility-integrated civil registration | More than 120,000 children registered through hospital-based registry offices since 2023, ninety-seven digitised hospital registration points, and more than 180,000 pupils registered in school campaigns | [Unchanged - no update in the window](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | No change |
@@ -117,7 +117,7 @@ record: e5e4dae9ae3d
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Financial inclusion rate, adults 15 and over | 76.3% of adults at June 2025, against 27.4% in 2016 | [79% at end-June 2026, 56.4 million active accounts of a 71.4 million eligible population, counting bank accounts, postal accounts, mobile wallets and prepaid cards; women 72.5% against 19.1% in 2016 and ages 15-35 58% against 36.3% in 2020, with a Second National Financial Inclusion Strategy for 2026-2030 in development](https://techafricanews.com/2026/08/11/egypts-financial-inclusion-rate-reaches-79-as-active-accounts-hit-56-4-million/) | Advanced |
 | Ration-card grievance data update at post offices | Did not exist; appeals against the 2026 eligibility criteria ran through the Digital Egypt platform only | [Data-update forms accepted at 500 post offices on Friday afternoons and Saturday mornings alongside the online route, with a daily adjudication committee, results notified by SMS, and every case checked against the state's official databases](https://www.elwatannews.com/news/details/8325610) | Advanced |
@@ -209,7 +209,7 @@ record: e5e4dae9ae3d
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Internet penetration | Around 24 users per 100 inhabitants against an Eastern and Southern Africa regional average of 28 (appraisal, on a 2022 baseline); a separate 2024 account puts internet access at about 20% of citizens | [80% of Malawians offline despite 87% 4G population coverage, on an industry-association report (2026-08); no state measurement is held, against a presidential target of 80% internet usage by 2026](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/) | ***Baseline not held*** |
 
@@ -318,7 +318,7 @@ record: e5e4dae9ae3d
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Internet users and penetration | 1.3 million users, 12% penetration (2024) | [1.9 million users, 15.7% penetration (2025)](https://www.eyeradio.org/nca-reports-huge-internet-growth-in-south-sudan/) | Advanced |
 | Mobile data price | About US$23.70 per gigabyte (2025-11) | [Raised twice by exchange-rate adjustment with no revised rate published (2026-07)](https://www.onecitizendaily.com/index.php/2025/11/27/41522/) | Regressed, revised rates unpublished |

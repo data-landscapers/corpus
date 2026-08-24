@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: capacity.training
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: fa51d52b3d2f
+record: 6bb57220cac2
 ---
 
 # Training and skills: progress report, 2025-08-01 to 2026-08-24
@@ -25,7 +25,7 @@ record: fa51d52b3d2f
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Vendor cybersecurity training commitment | US$25m of a US$170m investment earmarked for a national cybersecurity agency plus vendor academy training | [Unchanged; no trainee count, cohort, curriculum or disbursement published in the fourteen months since](https://techafricanews.com/2025/06/25/cybastion-and-angola-telecom-announce-170m-investment-to-boost-angolas-digital-sovereignty/) | No change |
 | Space-technology training and certification programme | ***Baseline not held*** | [More than 5,600 university students given free satellite access and more than 100 students in a Luanda cohort alongside operators and manufacturers](https://techreviewafrica.com/news/5761/over-5600-university-of-namibe-students-gain-free-internet-access-through-angosat-2) | ***Baseline not held*** |
@@ -68,7 +68,7 @@ record: fa51d52b3d2f
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | AI workforce target of 60,000 specialists by 2040 | The target unveiled: 60,000 specialists by 2040 including 40% women, 12,000 direct jobs, and 0.8 to 1.2% of GDP | [The strategy still being developed a year on; AI modules in curricula named among ten priorities, with a roadmap tabled but no adoption, budget line or trainee count](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) | Stalled |
 | Operator and higher-education skills partnership | Did not exist | [A memorandum signed 2026-06-03 and 115 internships recruited, in disciplines from telecommunications and cybersecurity to finance and law](https://techafricanews.com/2026/07/22/camtel-and-minesup-launch-115-internship-opportunities-to-boost-youth-employability/) | Advanced |
@@ -87,7 +87,7 @@ record: fa51d52b3d2f
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Refugee digital learning centre | One pilot centre for young refugees and the host community, with extension to other eastern towns stated as an intention | [Unchanged - no extension recorded](https://www.wearetech.africa/fr/fils/breves/breves-simple/tchad-un-centre-d-apprentissage-numerique-inaugure-a-abeche) | No change |
 | Youth digital and financial inclusion training | Nothing held at the window's opening | [One hundred and twenty young people trained in digital tools and financial inclusion, with girls and women prioritised](https://lendjampost.com/tchad-120-jeunes-a-la-maitrise-des-outils-numeriques-et-a-la-sensibilisation-a-linclusion-financiere/) | ***Baseline not held*** |
@@ -140,7 +140,7 @@ record: fa51d52b3d2f
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | AI Capacity Building Initiative for Universities | Running since 2022 under a ministry agreement with a technology vendor, with three rounds completed and no cumulative figure published at 2025-08-01 | [Fourth round trained 1,090 students from 10 public, national and private universities producing 445 projects, plus a renewable-energy hackathon of 105 students in 21 teams; cumulative since 2022 reported as 2,710 students and 763 projects](https://gate.ahram.org.eg/News/5882834.aspx) | Advanced |
 | Cybersecurity SuperHero Academy | Two editions delivered, whose combined intake the national telecommunications institute states the third edition's target roughly matches; the base carries no dates or intake figures for them | [Third edition targeting more than 6,000 trainees across 17 governorates in three age-banded stages from age 8 upward, delivered through institute premises and innovation centres, with the national emergency readiness centre, the regulator and two technology partners](https://gate.ahram.org.eg/News/5725761.aspx) | Advanced |
@@ -243,7 +243,7 @@ record: fa51d52b3d2f
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Airtel Nzeru Connect school programme | Running as Malawi's part of a corporate foundation and UNICEF partnership begun in 2021; the base holds no Malawi-specific school count before 2025-08-01 | [36 schools connected with a further nine scheduled in 2026, ICT laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/) | Advanced |
 | Airtel Nzeru Fund STEM scholarships | Did not exist | [A corporate foundation funds 25 undergraduates from low-income households at the science and technology university, covering tuition, stipend, accommodation, data and a portable Wi-Fi device; the first 25 beneficiaries were named on 18 August 2026, drawn from 17 districts and taking eight programmes including computer systems, cyber security, sustainable energy engineering and metallurgy](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/) | Advanced |
@@ -377,10 +377,11 @@ record: fa51d52b3d2f
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital Innovation for Skills and Knowledge programme (Central Equatoria) | Did not exist | [A costed plan; no financier, signed commitment or start date named (2026-07)](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/) | Advanced |
 | Educational Technical Cooperation Project (China) | Committed across two phases | [Committed across two phases; no later implementation record held](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml) | No change |
+| Mobile-money entrepreneur training programme | None published | [1,225 graduates over a year, with business guidance and seed funding from the partner and digital financial-literacy training from the operator](https://techafricanews.com/2026/08/24/mtn-momo-equips-1225-entrepreneurs-digital-finance-skills/) | ***Baseline not held*** |
 
 ## Sudan
 

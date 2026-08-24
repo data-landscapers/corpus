@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: infra.energy
 places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SLE; SSD; TUN; UGA; ZMB; ZWE
-record: 66d281ceed49
+record: 2955136eba56
 ---
 
 # Energy: progress report, 2025-08-01 to 2026-08-24
@@ -17,7 +17,7 @@ record: 66d281ceed49
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Household access to electricity | 31.9% of households in the 2014 census | [48.6% of households at the 2024 census reference date, 68.9% urban and 8.5% rural](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf) | Advanced |
 | Power Sector Action Plan electrification target | A target of 60% electrification by 2025, from 47% in 2020, still open | [The target year passed, with the only later dated measure a different one and no electrification rate published since the 2020 baseline](https://www.afrobarometer.org/publication/ad664-lack-of-access-connection-to-the-electric-grid-still-plagues-most-rural-residents-in-angola/) | Stalled |
@@ -39,7 +39,7 @@ record: 66d281ceed49
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Douala meter-data centre | Did not exist | [Being built to centralise and secure smart-meter data](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters) | Advanced |
 | Smart-meter rollout | The electricity-reform programme financed in 2024, no meters deployed | [20,000 advanced meters deploying in phases after trials in January and February 2026](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters) | Advanced |
@@ -58,7 +58,7 @@ record: 66d281ceed49
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Instruction to migrate transmission sites to renewable power | Did not exist | [Instruction on record, with no deadline set, no compliance reported and no cost stated](https://www.connectingafrica.com/connectivity/chad-pushes-telcos-for-network-upgrades) | Advanced |
 | Solar mini-grids for five towns | No position held on the second phase; the first phase had already delivered 133,000 individual household solar kits and electrified sixty-one health centres and sixty-two schools in three provinces | [Equipment in manufacture for hybridisation of local grids at five towns, with twelve towns to have solar plants at project end; no delivery confirmation is held](https://lendjampost.com/tchad-des-mini-reseaux-solaires-seront-installes-dans-cinq-villes-dici-juillet-2026/) | ***Baseline not held*** |
@@ -77,7 +77,7 @@ record: 66d281ceed49
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Renergy green hydrogen and solar project, El-Tor | Did not exist | [About 127 sq km with 4 km of Red Sea frontage, EUR 5m of technical studies completed over two years, two phases targeting 160,000 then 400,000 tonnes a year of liquid green hydrogen wholly for export to Europe; put forward as the power source for the proposed Sinai data centre](https://gate.ahram.org.eg/News/5579894.aspx) | Advanced |
 
@@ -120,7 +120,7 @@ record: 66d281ceed49
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Solar-powered coverage extension | Did not exist; no solar or off-grid network-power position appears in the base at 2025-08-01 | [The chief executive stated the operator covers 85% of the population and is working to reach the remaining 15% through cost-effective technologies including solar-powered infrastructure; no site count, capital allocation, target date or partner is stated, and foreign-exchange shortages were named as the operator's biggest challenge](https://times.mw/tnm-turns-30-sets-ambitious-plans/) | Advanced |
 | Electricity tariff increase cited in the 2026 operator tariff applications | No electricity price figure held at 2025-08-01 | [An 8% rise in electricity tariffs, alongside a roughly 144% rise in fuel prices, cited by both mobile operators in support of an average 55% tariff increase application; the regulator approved 22.2% for one and 26% for the other](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/) | ***Baseline not held*** |
@@ -171,7 +171,7 @@ record: 66d281ceed49
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | CREI solar-hybrid telecom energy programme | US$5,000,000 committed (2024) | [US$10m committed in total; 490 of 499 MTN sites renovated and coverage reported to have risen from 69% to 80% of the population over three years (2026-02)](https://itweb.africa/article/south-sudan-green-network-gets-5m-boost/) | Advanced |
 

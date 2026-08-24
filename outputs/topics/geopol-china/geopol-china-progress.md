@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: geopol.china
 places: DZA; AGO; BWA; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; KEN; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; UGA; ZMB; ZWE; XAF; XWA
-record: 316bc08b1d58
+record: 86ab2d4b1a62
 ---
 
 # China activities: progress report, 2025-08-01 to 2026-08-24
@@ -23,7 +23,7 @@ record: 316bc08b1d58
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital-health memorandum with a Chinese vendor | Did not exist | [A four-year scope covering training of about 38,000 health workers, more than 500,000 remote consultations, hospital digitisation, telemedicine and health artificial intelligence; no value, milestones or domestic financing stated](https://angop.ao/noticias/saude/angola-e-huawei-assinam-memorando-para-reforco-da-saude-digital/) | Advanced |
 | Vendor research and development centre | Did not exist | [Intention only, with location under evaluation and investment value undefined, paired with a pledge to train 7,000 people in artificial intelligence and emerging technologies by 2027](https://angop.ao/noticias/politica/huawei-vai-instalar-centro-de-pesquisa-e-desenvolvimento-em-angola-ate-2027/) | Advanced |
@@ -48,7 +48,7 @@ record: 316bc08b1d58
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Chinese grant agreements of August 2026 | Did not exist | [Two grant agreements totalling 300 million yuan, in tranches of 100 million and 200 million described by the minister of state as immediately mobilisable, which the Chinese side says will finance infrastructure and social development while supporting digital technologies](https://www.horonyafinance.com/tchad-la-chine-fait-un-don-de-264-milliards-de-fcfa-pour-financer-des-projets-dinfrastructures-et-de-transformation-numerique/) | Advanced |
 | Chinese technology and AI scholarships | Did not exist | [A programme of 5,000 scholarships in technology and artificial intelligence announced by the Chinese ambassador to the telecommunications and digitalisation minister](https://camerpressagency.com/tchad-chine-lambition-numerique-se-concretise/) | Advanced |
@@ -85,7 +85,7 @@ record: 316bc08b1d58
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Fibre-to-the-room service with Telecom Egypt | Did not exist; the source presents the service as a first for Egypt | [Commercial launch of in-home fibre-to-the-room with the incumbent's consumer brand; no coverage, subscriber, tariff or contract-value figure is stated](https://gate.ahram.org.eg/News/5660818.aspx) | Advanced |
 | Chinese-supplied smart-city surveillance in Egypt | A United States firm's safe-city package recorded as adopted in Egypt (2023-09-27); Chinese supply into Egypt was not separately established | [Egypt is one of eleven countries where Chinese firms were found to supply smart-city surveillance equipment, and one of the states where Chinese banks financed such systems; Cairo's New Administrative Capital is listed with multiple named vendors. No Egyptian contract, value, camera count or command-centre detail is held](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/) | No change, new mapping evidence only |
@@ -123,6 +123,7 @@ record: 316bc08b1d58
 
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
+| FiberHome network partnership | None published | [Student training under way and an East Africa research and development centre planned, framed by the ministry around all-optical networks and 6G readiness](https://www.itweb.africa/article/fiberhome-tour-targets-kenyan-6g/GxwQD71DP96vlPVo) | ***Baseline not held*** |
 | Kenya-China e-commerce cooperation memorandum | ***Baseline not held*** | [Cited as the basis for a delegation to the Silk Road e-commerce matching activity, framed inside the Digital Master Plan](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/) | ***Baseline not held*** |
 | Talks with a Chinese network group on broadband and smart cities | Baseline not held | [Two delegations received in eight days to explore broadband, smart cities and ICT investment; no memorandum, commitment, value or project is stated from either](https://itweb.africa/article/kenya-targets-chinese-telecoms-investment/nWJad7bNDY57bjO1) | ***Baseline not held*** |
 
@@ -182,7 +183,7 @@ record: 316bc08b1d58
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Huawei re-engagement | No engagement on record since 2014 | [Interest expressed in the national data hub and digital architecture; no agreement, contract or figure (2026-02)](https://itweb.africa/article/huawei-reconnects-with-south-sudan/) | Advanced |
 

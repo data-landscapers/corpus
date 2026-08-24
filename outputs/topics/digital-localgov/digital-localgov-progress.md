@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: digital.localgov
 places: DZA; AGO; BFA; CMR; TCD; COG; COD; EGY; SWZ; ETH; GAB; GMB; GIN; KEN; LSO; LBY; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SOM; TZA; TGO; ZMB; ZWE
-record: 76957d3f6ff5
+record: b2a8c0799796
 ---
 
 # Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-24
@@ -23,7 +23,7 @@ record: 76957d3f6ff5
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Provincial document-management system | Did not exist | [Integrated document and archive management for one province with a citizen application for proposals and public-tender tracking, budgeting explicitly around weak internet and power](https://angop.ao/noticias/sociedade/cubango-prepara-transicao-da-administracao-analogica-para-digital-a-partir-de-2026/) | Advanced |
 
@@ -37,13 +37,13 @@ record: 76957d3f6ff5
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Council digitisation coverage | ***Baseline not held*** | [230 councils, about 64% nationally, supported by the ICT agency; 48.6% of North West councils operate functional websites; 335 municipal portals developed and 145 authorities equipped](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/) | ***Baseline not held*** |
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Civil-registry interoperability with the capital municipality | A francophone civil-registration programme running in two provinces, with no municipal interoperability on record | [A commitment to support the capital's digital transition and extend the model to other institutions, with no completion date or scope](https://tribuneechos.com/tchad-lanats-et-loif-sunissent-pour-la-transformation-numerique-de-letat-civil/) | Advanced |
 
@@ -63,7 +63,7 @@ record: 76957d3f6ff5
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Public shop licensing on Digital Egypt | Did not exist as a digital service | [A single national platform for the whole licensing process, with standardised procedures, real-time tracking, a maximum three-month approval time, immediate temporary operating permits, electronic licence issuance and deemed approval where an authority fails to respond; fees unified across participating agencies with the interior ministry cutting its own by 50%](https://techafricanews.com/2026/07/29/egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform/) | Advanced |
 
@@ -120,7 +120,7 @@ record: 76957d3f6ff5
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Blantyre City Council digital revenue collection | Did not exist at 2025-08-01 | [The council partnered a commercial bank to digitise revenue and tax collection and let residents pay for council services electronically, under the acceleration project; the council plans to introduce the systems, and no go-live date or collection figure is held](https://itweb.africa/article/malawis-second-city-digitises-tax-collection/GxwQDq1DYWeMlPVo) | Advanced |
 | Constituency Development Fund real-time dashboard | Did not exist at 2025-08-01 | [A public real-time platform for tracking constituency project implementation and fund spending nationally, launched by the local government ministry (Minister Ben Phiri, 2026-07-31), which states it carries project progress, budgets and locations for more than 2,000 development projects and asks citizens to raise concerns about council implementation through channels on the platform; the Minister of Lands told Parliament on 2026-08-03 that citizens would get real-time data on project status, spending patterns and contractor performance; the launching minister named the President, the Minister of Finance, the Minister of Information and the Office of the President and Cabinet as having real-time access; the same minister stated the platform's currency depends on councils uploading project information manually, warning there would be no excuse for late uploading; no platform address is established in anything held, so none of it can be inspected from the wiki](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/) | Advanced |

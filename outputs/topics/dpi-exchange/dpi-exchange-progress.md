@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 2497d6470d49
+record: 288cdb828570
 ---
 
 # Data Exchange: progress report, 2025-08-01 to 2026-08-24
@@ -23,11 +23,12 @@ record: 2497d6470d49
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Citizen-database interoperability commission | Did not exist | [A commission to stabilise civil-identification and adult-citizen database interoperability, biometrically de-duplicate, update residence and consolidate the electoral base, with a US$275m supplementary credit](https://novojornal.co.ao/politica/detalhe/pr-cria-comissao-liderada-pelo-ministro-de-estado-para-actualizar-dados-dos-cidadaos-maiores-com-prova-de-vida-que-passou-a-ser-obrigatoria-nos-periodos-pre-eleitorais-72374.html) | Advanced |
 | Logistics single window | Did not exist; the port, foreign-trade and customs platforms ran separately | [An integrated ecosystem to absorb three separate agency platforms into one, framed explicitly as a formalisation and tax-base instrument rather than trade facilitation](https://pt.linkedin.com/posts/arccla-angola-68b44027a_jul-vai-contribuir-para-diminui%C3%A7%C3%A3o-de-comerciantes-activity-7487902290780180480-sMdy) | Advanced |
 | Public digital infrastructure contract | Did not exist; no national interoperability platform in service | [US$150m over a twelve-month execution period for a secure-zone critical-computing component hosting the interoperability platform, key-based electronic signatures, digital identity and structured cybersecurity; in execution from 2026-07-31, financed under Despacho Presidencial n.º 38/26 and inscribed in the 2026 public investment programme](https://lidermagazine.ao/revolucao-digital-em-marcha-ima-inicia-projecto-que-vai-mudar-a-administracao-publica/) | Advanced |
+| Tax-compliance certificate interoperability | None published | [Automated inside the tax authority; extension to banks and other state bodies under way](https://forbesafricalusofona.com/agt-garante-interoperabilidade-da-certidao-tributaria-nos-orgaos-do-estado-angolano/) | ***Baseline not held*** |
 
 ## Benin
 
@@ -63,7 +64,7 @@ record: 2497d6470d49
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National government interoperability layer | Not held | [The posts and telecommunications ministry has tasked the state operator CAMTEL with carrying national data and infrastructure interoperability; no design, timetable or budget published](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/) | Advanced |
 | Trilateral customs steering committee | Did not exist | [The committee established, with commitments to harmonised procedures, digital interoperability and coordinated risk management on two named corridors](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/) | Advanced |
@@ -71,7 +72,7 @@ record: 2497d6470d49
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Central bank accession to the Pan-African Payment and Settlement System | The central bank was not a member | [Acceded, with connection of member-state banks and financial institutions targeted for end-2026](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026) | Advanced |
 | Accession to the regional digital integration programme | No position held | [Planned, with no accession date, financing share or named component](https://salaminfo.com/2026/06/02/le-gouvernement-tchadien-et-la-banque-mondiale-accelerent-le-deploiement-des-routes-virtuelles/) | ***Baseline not held*** |
@@ -125,7 +126,7 @@ record: 2497d6470d49
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital treasury of reusable verified documents | The base carries no position at 2025-08-01 | [An operating model set and applied to a number of government services for gradual expansion, its first output the registration certificate as a verified reusable digital document consumed by the shop-licensing service, implementing the once-only principle](https://gate.ahram.org.eg/News/5813424.aspx) | Advanced |
 | Stock exchange and commercial registry data integration | Did not exist | [A cooperation protocol between the stock exchange and the internal trade development authority to integrate the commercial registry and exchange databases, giving the exchange direct access to commercial registry data for listed companies, with a joint executive committee to oversee implementation and data confidentiality](https://www.businessmen-eg.com/en/6166/egyptian-exchange-itda-sign-data-integration-agreement) | Advanced |
@@ -229,7 +230,7 @@ record: 2497d6470d49
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Customs IT connectivity arrangement with South Africa | Legal basis only: a customs mutual administrative assistance agreement negotiated in 2019 on a 2010 memorandum of cooperation, with customs information exchanged manually | [An arrangement signed establishing a secure electronic platform for real-time customs data exchange, aligned to the World Customs Organisation data model, with both authorities agreeing to fast-track implementation; no go-live date, purpose-limitation, retention or reciprocity terms published; the South African revenue service notified the updated arrangement for automatic exchange of customs information on 7 August 2026 and published a draft rule amendment with it](https://www.freightnews.co.za/article/international-treaties-agreements-maas-on-customs-update) | Advanced |
 | Enterprise Service Bus | Not operationalised through 2025; the e-government department's failure to bring it into service left ministries siloed and denied online passport registration and driver's licence payments | [Nothing on file establishes it operating; industry voices in January 2026 were still pressing for all ministries, departments and agencies to be onboarded](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | No change |
@@ -355,7 +356,7 @@ record: 2497d6470d49
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Real-time gross settlement component | Did not exist | [In use, with uptake reported but no figures published (2026-05)](https://cajnewsafrica.com/2026/05/20/south-sudan-platform-to-digitise-economy-pays-off/) | Advanced |
 

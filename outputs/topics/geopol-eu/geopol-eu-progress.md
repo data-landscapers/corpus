@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: geopol.eu
 places: DZA; BWA; BFA; CPV; CAF; COM; COG; EGY; GHA; GIN; KEN; MLI; MAR; NAM; NER; NGA; UGA; XAF
-record: 9bbf31d8d526
+record: 12f2929a0b27
 ---
 
 # EU activities: progress report, 2025-08-01 to 2026-08-24
@@ -61,7 +61,7 @@ record: 9bbf31d8d526
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Cloud sovereignty cooperation with SAP | The base carries no statement of Egypt's position on sovereignty over data hosted on European vendor platforms | [The ICT minister met the vendor's regional president to discuss expanding outsourcing operations and investment, cooperation on cloud computing to support Egypt's push for greater sovereignty over data and applications hosted on those platforms, AI rollout, and a joint study of labour-market demand; no agreement, value or timetable is stated](https://techafricanews.com/2026/03/31/egypt-and-sap-deepen-ties-to-boost-ai-cloud-and-outsourcing-growth/) | ***Baseline not held*** |
 

@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: capacity.literacy
 places: AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; SWZ; GAB; GMB; GHA; KEN; LBR; NAM; RWA; STP; SEN; TZA; TGO; UGA; ZMB
-record: 787b35c02f06
+record: 82d88cb79eb2
 ---
 
 # Literacy: progress report, 2025-08-01 to 2026-08-24
@@ -17,7 +17,7 @@ record: 787b35c02f06
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Ngola Digital school computer laboratories | Did not exist | [More than 2,000 computers installed across 88 schools nationwide on the minister's own count, the latest a 25-computer laboratory serving 3,051 students at a polytechnic](https://angop.ao/noticias/educacao/alunos-do-ipas-ganham-laboratorio-de-informatica/) | Advanced |
 
@@ -41,7 +41,7 @@ record: 787b35c02f06
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital financial-literacy project | Running since June 2024 in Senegal and Cameroon | [Closed on 2026-07-15; a digital financial-services comparison platform left with no funded data-update mechanism, offered to both states and neither reported as having accepted](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/) | Closed |
 | Bank-fee comparison platform | A web and mobile application comparing bank charges and loan costs, commercial banks only | [The same scope; neither committed extension is recorded as landed](https://itweb.africa/article/cameroon-boosts-financial-literacy-with-new-digital-platform/Pero3qZ32EZvQb6m) | No change |
@@ -66,7 +66,7 @@ record: 787b35c02f06
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital financial literacy barrier to mobile money | No Egyptian digital-literacy measure is on file at 2025-08-01 | [Among Egyptians aware of mobile money but holding no account, not knowing how to use the service affects 21% of women and 15% of men](https://www.ecofinagency.com/news-digital/3103-54286-mobile-money-in-africa-strong-growth-but-adoption-still-falls-short) | ***Baseline not held*** |
 
@@ -144,6 +144,7 @@ record: 787b35c02f06
 | Science and ICT education grant | About US$10m committed, active | [About US$10m committed, active](https://medhospafrica.com/2025/08/07/the-revolutionary-role-that-korea-has-played-in-improving-tanzanias-health-and-educational-systems/) | No change |
 | Certified financial educators | ***Baseline not held*** | [1,167 certified financial educators trained and about 155,730 individuals reached](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | ***Baseline not held*** |
 | Digital clubs programme | ***Baseline not held*** | [800 digital clubs established from nursery to university level and funded through the telecoms regulator, alongside its sponsorship of the national schools mathematics olympiad team](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/) | ***Baseline not held*** |
+| Operator-funded school innovation lab | Did not exist | [One lab open, run with a Dar es Salaam technology incubator](https://techafricanews.com/2026/08/24/airtel-launches-fursa-lab-tanzania-school-digital-skills/) | ***Baseline not held*** |
 
 ## Togo
 

@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2026-07-01 to 2026-08-24
 subject: data.statistics
 places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; TUN; UGA; ZWE
-record: 7214b6194861
+record: a32ea80b8e68
 ---
 
 # National statistics: monthly update, July 2026
@@ -15,7 +15,7 @@ record: 7214b6194861
 
 ## Angola
 
-The statistics office [launched a census portal and a mobile application on 2 July](https://angop.ao/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/), both built by its own technical staff, carrying census indicators by geographic level and macroeconomic series; no open-data licence, bulk download or programming interface is stated.
+The statistics office [launched a census portal and a mobile application on 2 July](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/), both built by its own technical staff, carrying census indicators by geographic level and macroeconomic series; no open-data licence, bulk download or programming interface is stated.
 
 ## Benin
 

@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: geopol.usa
 places: AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MUS; MAR; MOZ; NAM; NGA; SEN; SSD; UGA; ZMB; ZWE; XAF
-record: 2a34eaab6509
+record: b237b69cd491
 ---
 
 # US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-24
@@ -17,7 +17,7 @@ record: 2a34eaab6509
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | International wholesale partnership | Did not exist | [Combines the state cable company's three subsea systems with a US network of more than 300 metro markets and 386,000 km of fibre; no value, term or capacity commitment stated](https://itweb.africa/article/angola-cables-uniti-expand-connectivity/LPwQ5MlbngBvNgkj) | Advanced |
 | US cybersecurity and connectivity agreement | US$170m announced with a US$25m first phase, nothing built | [Unchanged; the first phase for a national cybersecurity agency and vendor training, plus an undersea cable, with no disbursement, contract or delivery on record in fourteen months](https://techafricanews.com/2025/06/25/cybastion-and-angola-telecom-announce-170m-investment-to-boost-angolas-digital-sovereignty/) | No change |
@@ -43,7 +43,7 @@ record: 2a34eaab6509
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | CAMTEL and Amazon Web Services approach | Did not exist | [Talks only: no agreement, investment commitment, timeline, or answer on where Cameroonian data would sit](https://www.ecofinagency.com/news-digital/2407-57711-camtel-explores-cloud-ai-partnership-with-amazon-web-services) | Advanced |
 
@@ -61,7 +61,7 @@ record: 2a34eaab6509
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | United States digital work programme | No work programme on file, United States contact being limited to a ministerial meeting with the charge d'affaires on 2025-11-26 | [Four priority areas agreed - digital infrastructure, satellite connectivity, cybersecurity and digital health - with no instrument signed; a supplier stated its willingness to audit and certify the national data centre, a mandate already held by the tripartite agreement of February 2026](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/) | Advanced |
 | Cybersecurity cooperation with the United States infrastructure security agency | Collaboration axes agreed on threat monitoring, engineer training and incident response, with nothing signed | [Unchanged; no source in the window reports any follow-up](https://lendjampost.com/securite-informatique-lansice-et-la-cisa-unissent-leurs-forces-pour-proteger-les-infrastructures-critiques-du-tchad/) | No change |
@@ -81,7 +81,7 @@ record: 2a34eaab6509
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Google AI Pro free student subscriptions | Did not exist | [A company-announced free one-year subscription for college students, to begin in the coming weeks from 2025-09-22 in Egypt and seven other African countries; no confirmation of launch, uptake figure or end date is held](https://developingtelecoms.com/telecom-technology/data-centres-networks/19091-google-plans-to-build-four-subsea-cable-connectivity-hubs-for-africa.html) | Advanced |
 | Mediterranean capacity partnership with Cisco | Announced before the window opened, as the activation of Mediterranean subsea capacity on the 2Africa system, framed around demand from cloud and AI services | [No later source updates the arrangement's status, capacity or commercial terms](https://gate.ahram.org.eg/News/5081510.aspx) | No change |
@@ -169,7 +169,7 @@ record: 2a34eaab6509
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | United States sanctions on the e-Government contractor | Not sanctioned | [Sanctioned; the concession continues to operate (2026-06)](https://www.sudanspost.com/crawford-denies-75-govt-revenue-retention-amid-mounting-public-scrutiny/) | Advanced |
 

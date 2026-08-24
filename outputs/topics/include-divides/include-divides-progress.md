@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: include.divides
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GHA; GIN; GNB; KEN; LBR; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; TZA; TGO; UGA; ZWE; XAF; XSA
-record: 7c974311e19b
+record: 536fca7f81ba
 ---
 
 # Digital divides: progress report, 2025-08-01 to 2026-08-24
@@ -23,7 +23,7 @@ record: 7c974311e19b
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Commercial satellite access programme | Did not exist | [A commercial access hub opened in December 2025, 37 firms in the integration process by April 2026, and a first startup licensed to resell access](https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/) | Advanced |
 | Universal service fund | On statute since 2010 and funded by 1% of telecom operators' gross revenue, with no accounts published | [Unchanged; the fund and its 1% levy remain on statute, it may make non-repayable grants for non-commercial universal-service expansion but is barred from subsidising operating costs, and no accounts, grant or disbursement have been published for any year](https://lex.ao/docs/presidente-da-republica/2010/decreto-presidencial-n-o-264-10-de-26-de-novembro/) | No change |
@@ -59,7 +59,7 @@ record: 7c974311e19b
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Bridging the digital gender divide project | EUR 3m committed, active | [EUR 3m committed, active; no dated progress, output or Cameroon-side figure recorded in the window](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202321883) | No change |
 | Rural connectivity component of the national connectivity project | ***Baseline not held*** | [FCFA 55bn; 328 unserved localities targeted by 2028 in two phases of 120 sites plus an optional 208, with works expected by 2026-12-30](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028) | ***Baseline not held*** |
@@ -101,7 +101,7 @@ record: 7c974311e19b
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Presidential initiative on digital accessibility of government websites | The base carries no accessibility tooling or standard before this date | [A toolbar on every page of the ministry site offering screen-reader compatibility, keyboard-only navigation, text enlargement, contrast switching, font and line-spacing changes, reading-focus highlighting, animation suppression, cursor enlargement and link highlighting, executed by the ministry's academy for persons with disabilities, whose mandate is to propagate the standards to other government bodies](https://gate.ahram.org.eg/News/5882651.aspx) | ***Baseline not held*** |
 
@@ -174,7 +174,7 @@ record: 7c974311e19b
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | School internet connectivity | No national school-connectivity measure before 2025-08-01; the nearest earlier statement is that over 83,000 students across 81 higher-education institutions gained cheaper connectivity through the research network | [85% of Malawi's 9,000 schools have limited or no internet access and about 900 have none at all, with lack of electricity and devices named as the main barriers; the World Bank is separately supporting connection of over 200 schools](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
 | Universal Service Fund | The base carries no statement of the fund's size, income, disbursement or projects before 2025-08-01 | [In operation and funded from the regulator's annual budget allocation, but the Director General stated that existing funding levels remain insufficient to meet the country's connectivity needs; a school connectivity project providing computer equipment runs under the fund, and secondary-school digital-skills work is stated to draw on it. No income, balance or disbursement figure is held for any year The regulator said on 2026-08-21 that it is evaluating Universal Service Fund mechanisms to subsidise consumer devices and to fund digital-literacy work, including a proposed one-tablet-one-student programme.](https://www.itweb.africa/article/malawi-targets-smartphone-tax-relief/mQwkoq6Y9DpM3r9A) | ***Baseline not held*** |

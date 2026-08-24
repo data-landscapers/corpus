@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: geopol.gulf
 places: AGO; BWA; BFA; CAF; CIV; COD; SWZ; MLI; MRT; NAM; NER; SDN; UGA; ZWE
-record: cbd9e80e6554
+record: b4ab2070b9a3
 ---
 
 # Gulf/UAE activities: progress report, 2025-08-01 to 2026-08-24
@@ -17,7 +17,7 @@ record: cbd9e80e6554
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Gulf digital memorandum | In force since December 2021, with the telecommunications ministry attributing the national cloud implementation project to it in February 2023 | [Unchanged; the agreed heads are a three-year digitalisation master plan, public-private-partnership and build-operate-transfer financing and youth digital skills, and no deliverable report, valuation or successor instrument has been published since 2023](https://minttics.gov.ao/ao/noticias/cloud-nacional-reforca-ecossistema-digital-do-pais/) | No change |
 

@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: infra.store
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: c25596a33604
+record: 3a331a36d12a
 ---
 
 # Data Storage: progress report, 2025-08-01 to 2026-08-24
@@ -26,7 +26,7 @@ record: c25596a33604
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Commercial data centre | Did not exist; the country had no Tier III commercial data centre | [Operating at up to 3 MW and more than 800 racks over 19,000 square metres on US$30m, near the cable landings, with a plan to exceed 7 MW within five years](https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/) | Advanced |
 | Government data centre | Under construction at about 75% complete, operation expected in the first half of 2026 | [Operating at 6,225 square metres, Tier III design, 208 racks and 1,040 kW live in a modular design of about 336-rack capacity, reported at about US$89m](https://angop.ao/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/) | Advanced |
@@ -69,7 +69,7 @@ record: c25596a33604
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National data-centre consolidation policy | Concentrate state resources on one or two national backup centres rather than multiplying public facilities | [The same position; no instrument, site or appropriation on record since](https://leconomie.info/high-tech-les-problemes-auxquels-font-face-les-datacenters/) | No change |
 | Zamengoe Data Centre | ***Baseline not held*** | [In operation, Tier III certified and tourable; the central bank inspected it with a view to hosting in December 2025 and a second prospective tenant was shown round on 2026-08-13](https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde) | ***Baseline not held*** |
@@ -91,7 +91,7 @@ record: c25596a33604
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Data Centre | Under construction and described as at an advanced stage, with inauguration called forthcoming at a ministerial site visit of 2025-01-07 | [Building and equipment complete, with a security audit and certification against critical-infrastructure standards outstanding; still not inaugurated](https://techafricanews.com/2026/02/06/adetic-ansice-and-techso-group-join-forces-to-protect-chads-digital-infrastructure) | Advanced, inauguration still not held |
 | One hundred government micro-data centres | No position held | [Provided for and to be interconnected with the national data centre, with no count deployed, site list, cost or schedule](https://techafricanews.com/2026/02/06/adetic-ansice-and-techso-group-join-forces-to-protect-chads-digital-infrastructure) | ***Baseline not held*** |
@@ -140,7 +140,7 @@ record: c25596a33604
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Telecom Egypt Regional Data Hub 2 | Tier III design-certified, estimated IT load 4.6 MW against the first hub's 2.5 MW, completion expected end-2025 | [Unchanged in the base; no held source states it entered service, and the stated end-2025 completion date has passed](https://ir.te.eg/en/CorporateNews/PressRelease/211/Telecom-Egypt-s-Regional-Data-Hub-2-Awarded-Tier-III-Design-Certification) | Stalled, entry into service not confirmed |
 | East Cairo Logistics Park data-centre campus IT load | No prior reading is held | [25 MW operating with plans to expand to 45 MW](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | ***Baseline not held*** |
@@ -241,7 +241,7 @@ record: c25596a33604
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Boma Lathu National Data Exchange Platform | Delivered as a data-exchange platform under the foundations project alongside a new national data centre; government institutions still shared citizen data by email, USB and paper | [In use by the revenue authority and the registration bureau, hosted on locally managed servers, with 25 e-services being onboarded and the immigration department integrating while retaining data ownership](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | Advanced |
 | Commercial data centre, Lilongwe | Did not exist; commercial local hosting capacity is not recorded in the base at 2025-08-01 | [In operation offering commercial local hosting, positioned against the foreign-currency cost and data-ownership exposure of offshore hosting and welcomed by the e-government department; capacity, tier and pricing not stated](https://malawi24.com/2026/05/01/sparc-moves-to-end-malawis-reliance-on-offshore-data/) | Advanced |
@@ -388,14 +388,14 @@ record: c25596a33604
 
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
-| Human rights commission inquiry into data centres | Did not exist | [A stakeholder engagement process opened by the national human rights commission under section 184 of the Constitution and sections 13 and 18 of its own Act, to assess whether the legal, regulatory, environmental, governance and industry frameworks around data centre development meet constitutional obligations and international human rights standards. Written submissions were invited on eleven themes including electricity demand and tariffs, water use and cooling, environmental and climate impact, electronic waste, land use and community participation, data protection and privacy, transparency and accountability, business and human rights due diligence, and equitable access to digital infrastructure, closing 30 July 2026](https://www.sahrc.org.za/index.php/sahrc-media/news-2/item/4479-media-advisory-south-african-human-rights-commission-calls-for-public-submissions-on-data-centres-and-human-rights-in-south-africa) | Advanced |
+| Human rights commission inquiry into data centres | Did not exist | [A stakeholder engagement process opened by the national human rights commission under section 184 of the Constitution and sections 13 and 18 of its own Act, to assess whether the legal, regulatory, environmental, governance and industry frameworks around data centre development meet constitutional obligations and international human rights standards. Written submissions were invited on eleven themes including electricity demand and tariffs, water use and cooling, environmental and climate impact, electronic waste, land use and community participation, data protection and privacy, transparency and accountability, business and human rights due diligence, and equitable access to digital infrastructure, closing 30 July 2026](https://acbio.org.za/corporate-expansion/data-centres-digital-infrastructure-and-human-rights-in-south-africa/) | Advanced |
 | Rights commission inquiry into data-centre expansion | Did not exist | [The national human rights commission is scrutinising the country's data-centre expansion, with environmental groups warning that the infrastructure required to power the state's artificial-intelligence ambitions carries costs that have not been accounted for](https://www.businessday.co.za/business-times/2026-08-22-the-hidden-cost-of-sas-ai-boom/) | Advanced |
 | Teraco CT2, Cape Town | ***Baseline not held*** | [+32MW to 50MW, 2025-11](https://techafricanews.com/2025/11/10/teraco-expands-cape-town-ct2-data-centre-to-50mw-boosting-africas-hyperscale-capacity/) | Advanced |
 | Johannesburg data-centre expansion | Not held | [An international operator is scaling its Johannesburg facility to 24MW and holds a ZAR7.5bn South African expansion budget covering that site plus banked land in Johannesburg and Cape Town, with further build-out held pending demand](https://www.itweb.co.za/article/equinix-doubles-down-on-joburg-data-centre-expansion/PmxVE7KEObLqQY85) | ***Baseline not held*** |
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Gateway Services and Data Centre Oversight Committee | Did not exist | [Constituted, with a mandate over gateway revenue digitisation and the national data centre (2026-01)](https://www.eyeradio.org/nca-establishes-gateway-and-data-center-oversight-committee) | Advanced |
 | National data centre, Juba | Reported as nearing completion (2025-09) | [Reported as halfway complete (2026-04)](https://www.eyeradio.org/ateny-outlines-s-sudans-digital-transformation-plans-at-nairobi-summit/) | Advanced |

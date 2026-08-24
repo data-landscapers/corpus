@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: a6e362746451
+record: e4b2091f4f6c
 ---
 
 # Regional collaboration: progress report, 2025-08-01 to 2026-08-24
@@ -27,7 +27,7 @@ record: a6e362746451
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Bilateral memorandum with a Lusophone regulator | No bilateral with any non-African regulator held | [In force, providing mutual assistance and technical, regulatory and supervisory cooperation](https://www.rapdp.org/en/node/231) | Advanced |
 
@@ -73,7 +73,7 @@ record: a6e362746451
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | CEMAC free roaming | Mandated for delivery by 2026-06-30 | [The deadline passed on 2026-06-30 and the base holds no record of implementation](https://techreviewafrica.com/news/4133) | Stalled |
 | Regional satellite data-residency framework | Did not exist | [Recommended: terrestrial gateways inside the region's jurisdiction, operator-equivalent financial obligations, and citizens' data stored on the continent](https://techreviewafrica.com/news/4133) | Advanced |
@@ -93,7 +93,7 @@ record: a6e362746451
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Position under the African Union Convention on Cyber Security and Personal Data Protection | Signed 2015-06-14, not ratified and not deposited | [Signed 2015-06-14, not ratified and not deposited](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | No change |
 
@@ -128,7 +128,7 @@ record: a6e362746451
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Chairmanship of the Arab AI governance and quantum working groups | Did not exist. The Arab Permanent Committee for AI and Emerging Technologies was created by a ministerial resolution at a session Egypt hosted in January 2026 and held its first founding meeting in May 2026 | [Egypt chairs the AI Governance Working Group, whose remit is a guidance framework for AI governance, technical tools and mechanisms for activating the Arab Charter for AI Ethics, and the Quantum Computing Working Group, whose remit is an Arab quantum strategy and quantum-cybersecurity deployment](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/) | Advanced |
 | UN E-Government Development Index position | 95th of 193 with a score of 0.6699 on the 2024 index, inside the global top 100 but below Egypt's 2010 peak of 86th | [The same 2024 figure; no later reading is held at 2026-08-06](https://www.ecofinagency.com/telecom/2309-45916-south-africa-mauritius-and-tunisia-lead-e-government-progress-in-africa) | No change |
@@ -229,7 +229,7 @@ record: a6e362746451
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Lilongwe Declaration on Collaborative Regulation | Did not exist | [Adopted; anchors to the international regulatory maturity framework, sets six shared principles and seven areas of collaborative action, and treats artificial intelligence, satellite, digital platforms and next-generation networks as one emerging-technology frontier](https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/) | Advanced |
 | COMESA regional AI investment priorities | Baseline not held | [Proposed: agriculture, healthcare, climate resilience, education, financial services and regional trade named as AI investment priorities for the bloc](https://itweb.africa/article/malawi-urges-comesa-to-target-ai-investments/Pero3MZ3JjeqQb6m) | ***Baseline not held*** |
@@ -354,7 +354,7 @@ record: a6e362746451
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Kenya-South Sudan cross-border digital connectivity memorandum | Did not exist | [Signed as the regional project's first cross-border connectivity memorandum and offered as the template for the remaining bilaterals; no text, capacity or tariff terms published (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Advanced |
 | African Telecommunications Union collaboration | Not held | [Deeper collaboration on infrastructure, capacity building and standardisation pledged at the minister's visit to the union's Nairobi headquarters on 12 August 2026](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building) | ***Baseline not held*** |

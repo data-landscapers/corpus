@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: capacity.research
 places: DZA; AGO; BWA; BDI; CMR; COG; CIV; GNQ; ETH; GAB; GHA; LSO; LBY; MDG; MLI; MRT; MAR; MOZ; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE; XSA
-record: 4392db1c8a5a
+record: b83e968fa710
 ---
 
 # Research institutions: progress report, 2025-08-01 to 2026-08-24
@@ -24,7 +24,7 @@ record: 4392db1c8a5a
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Statistical capacity project | A US$60m loan, active from 2022 to 2027, supporting statistics-office modernisation, household surveys and dissemination | [Unchanged; no disbursement, restructuring or results figure on file](https://projects.worldbank.org/en/projects-operations/project-detail/P178043) | No change |
 | Science and technology park | ***Baseline not held*** | [Inaugurated under a US$100m development-bank science and technology project, intended to link academia, research, companies and young entrepreneurs](https://itweb.africa/article/angola-launches-luanda-technology-park/8OKdWqDX2nRqbznQ) | ***Baseline not held*** |
@@ -44,7 +44,7 @@ record: 4392db1c8a5a
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Academic chair in digital governance | Did not exist | [A chair to structure research and training, fund doctoral study and advanced training for regulator staff, governed by a scientific steering committee](https://techafricanews.com/2026/02/11/cameroon-strengthens-digital-transformation-with-university-and-art-partnership/) | Advanced |
 | Sovereign scientific database and digitisation centre | ***Baseline not held*** | [A sovereign scientific database on a dedicated national platform and a centre for the digitisation of scientific and technical information](https://www.cameroon-tribune.cm/articles/11572/en/artificial-intelligence-govt-engages-on-harnessing) | ***Baseline not held*** |

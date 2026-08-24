@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 7a61a618b3a1
+record: 2a6bda084a49
 ---
 
 # Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-24
@@ -24,7 +24,7 @@ record: 7a61a618b3a1
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National cybersecurity council | Did not exist | [Created as a consultative body chaired by the President; no source records it convening and no membership list is on file](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-258-25-de-03-de-dezembro/) | Advanced |
 | National cybersecurity strategy | None published | [In force, approved in Council of Ministers in October 2025 and signed in November, with six strategic objectives and a two-phase legislative reform whose first phase is the bill](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-256-25-de-03-de-dezembro/) | Advanced |
@@ -72,7 +72,7 @@ record: 7a61a618b3a1
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Starlink Cameroon operating licence | Licence refused March 2025; the 2024 customs seizure circular operative | [A draft concession convention and specification finalised by the regulator, the file at the ministry undecided for more than two years, and the seizure circular still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/) | Advanced, unresolved |
 
@@ -101,10 +101,11 @@ record: 7a61a618b3a1
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Economic and social council recommendations on the digital transition | Did not exist | [Recommendations adopted after a plenary session running 5 to 19 August on the public administration facing the digital transition, calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and specialised digital training, and public-private partnerships](https://www.digitalbusiness.africa/tchad-lascese-pronee-par-la-cesce-pour-renforcer-la-connectivite/) | Advanced |
 | Tchad Connexion 2030 | No record at the window's opening | [In force as the umbrella strategy, targeting at least 80 per cent national internet coverage and about 80 per cent mobile penetration by 2030; its regulatory components - reform of the regulator, privatisation of the state operator, a third operator and number portability - have no dated delivery on record](https://techafricanews.com/2025/07/18/chad-launches-1-5b-digital-strategy-to-connect-citizens-by-2030/) | Advanced, baseline not held |
+| National data governance strategy | Did not exist | [Under development with regional-commission and donor support; terms of reference issued by the ministry in April 2026](https://www.uneca.org/eca-events/fr/node/2449) | ***Baseline not held*** |
 
 ## Comoros
 
@@ -154,7 +155,7 @@ record: 7a61a618b3a1
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital Egypt service-coverage targets | The platform was in operation; the base's last count before the window is more than 170 e-government services (2024-09-30), and no target series is on record | [The minister set out 242 services at 2026-07-21, a target of over 270 by end-2026 and about 450 by 2030, under a legislation and governance pillar alongside digital transformation, technology localisation, digital infrastructure and capacity building](https://www.undp.org/egypt/stories/5-facts-you-need-know-about-digital-public-infrastructure) | Advanced |
 | National data-centre strategy | Did not exist | [Under preparation, framed around data localisation, a regional storage and processing hub, digital sovereignty and digital-services exports, and reaffirmed by Cabinet on 2026-07-05 and by the minister on 2026-07-21; no publication date, draft text or governing instrument is held](https://gate.ahram.org.eg/News/5722522.aspx) | Advanced |
@@ -289,7 +290,7 @@ record: 7a61a618b3a1
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Draft National Artificial Intelligence Strategy | Did not exist; regional consultative workshops to develop Malawi's first National AI Strategy were launched in September 2025, after the window opened | [A draft has been through a two-day validation workshop in Lilongwe and a citizen-feedback portal, and a UNESCO readiness assessment report was validated on 2026-07-22 to guide it; the strategy is pre-adoption, with no adoption date on record](https://itweb.africa/article/malawi-initiates-dialogue-on-ai-strategy/WnpNgq21aa2MVrGd) | Advanced |
 | Draft National Digital Transformation Strategy | Did not exist; regional consultative workshops to develop it began in September 2025 alongside the AI strategy | [A draft is in validation and pre-adoption, intended to align with the national development vision and the national digitisation policy; no adoption date is on record at 2026-08-06](https://itweb.africa/article/malawi-initiates-dialogue-on-ai-strategy/WnpNgq21aa2MVrGd) | Advanced |
@@ -441,7 +442,7 @@ record: 7a61a618b3a1
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Full-digitisation decree (Electronic Services Council) | Did not exist | [In force; the January 2026 deadline passed with no compliance report published (2026-08)](https://www.ecofinagency.com/news-digital/1912-51559-south-sudan-orders-full-digitization-of-public-institutions) | Advanced, deadline passed without a compliance report |
 | National e-commerce strategy | None published (2025-08) | [None published, unchanged from the November 2022 baseline against an April 2028 target (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | No change |

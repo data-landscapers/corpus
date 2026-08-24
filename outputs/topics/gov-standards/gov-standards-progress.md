@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: gov.standards
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: cfa09a19567a
+record: 0928a917ac94
 ---
 
 # Standards: progress report, 2025-08-01 to 2026-08-24
@@ -24,7 +24,7 @@ record: cfa09a19567a
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Artificial intelligence readiness score | ***Baseline not held*** | [50.9% of indicators fully ready, 32.7% partially ready and 16% insufficient, with data governance at 47 out of 100 and science-workforce availability at about 12%](https://pti.ao/unesco-conclui-que-angola-esta-preparada-para-adopcao-etica-e-inclusiva-da-ia/) | ***Baseline not held*** |
 
@@ -61,7 +61,7 @@ record: cfa09a19567a
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Regulator quality-of-service monitoring platforms | Sanctions issued off manual inspections, with no dedicated monitoring platform on record | [Platforms in the regulator's hands, with field inspections of three operators at Douala on 13 and 14 April 2026](https://techafricanews.com/2026/01/07/cameroon-strengthens-telecom-oversight-as-trb-receives-qos-monitoring-platforms/) | Advanced |
 
@@ -80,7 +80,7 @@ record: cfa09a19567a
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Strategic regulatory platforms | Did not exist | [Real-time monitoring of data traffic, network performance, infrastructure failures and spectrum use, with oversight of mobile operators, internet providers, satellite signals and very small aperture terminals](https://techafricanews.com/2026/06/19/chad-inaugurates-strategic-regulatory-platforms-to-strengthen-telecom-oversight/) | Advanced |
 | Regulator service-quality audit programme | The programme running, its last recorded enforcement being an August 2023 fine of FCFA 5bn on one operator for deteriorating network quality | [The fifteenth cycle found improved urban signal stability alongside faulty equipment, inadequate maintenance, unstable power supply and some sites entirely offline; operators were reprimanded again in December 2025 and June 2026, with no new fine recorded](https://www.ecofinagency.com/news-digital/1302-52879-chad-plans-50-telecom-sites-50-km-of-fiber-in-n-djamena) | No change |
@@ -115,7 +115,7 @@ record: cfa09a19567a
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Transfer-pricing guidance | The approved guide dates from 2018 and has not been revised despite successive changes to the legislation and to international standards | [Unchanged. The chair of a chamber of commerce tax committee told a financial daily the file needs urgent intervention, and appeal committees have begun relying on statutory provisions requiring a minister-approved guide, with the result that some transfer-pricing penalties have been cancelled](https://www.alborsaanews.com/2026/07/29/1982823) | No change |
 | Sustainable Finance Taxonomy | Not held | [Under development by an inter-ministerial working group formed by the central bank with the finance, investment, environment and financial-regulatory authorities, ahead of official issuance](https://www.zawya.com/en/economy/egypts-cbe-forms-inter-ministerial-working-group-to-develop-sustainable-finance-taxonomy-423226) | ***Baseline not held*** |
@@ -195,7 +195,7 @@ record: cfa09a19567a
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Copyright society rule on wholly AI-generated works | Did not exist; no rule on the registration of, or royalties for, AI-generated works is on record | [The statutory copyright body will not register works created entirely by artificial intelligence or distribute royalties on them; the rule is known only as reported, with no test stated for how much AI assistance is admissible](https://malawi24.com/2026/07/23/malawi-draws-the-line-on-ai-music/) | Advanced |
 | Blank media levy distribution methodology | No position held at 2025-08-01 | [Distribution rests entirely on records submitted by licensed disc-burning centres of songs customers ask to have copied, not on digital consumption; of roughly MWK 3bn collected in 2026, about MWK 1.44bn, some 48%, reaches rights holders, and tax reconciliation against a rights holder's taxpayer number is not automatic](https://malawi24.com/2026/08/04/ignoring-streaming-boom-cosoma-still-relies-on-cd-burning-data-for-royalty-payouts/) | ***Baseline not held*** |

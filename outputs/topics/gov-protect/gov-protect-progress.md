@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: gov.protect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 72da634e31ff
+record: cf8f607177b5
 ---
 
 # Data protection: progress report, 2025-08-01 to 2026-08-24
@@ -26,7 +26,7 @@ record: 72da634e31ff
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Amendment opening electoral data | Did not exist | [Rejected, leaving the citizen databases and the electoral registers closed to parties and citizens](https://angop.ao/noticias/politica/parlamento-rejeita-proposta-sobre-proteccao-de-dados-pessoais/) | Closed |
 | Published data-protection fines | A 2024 sanctions wave published, with no totals held | [Over Kz 600m across two firms, plus a US$115,000 penalty against a hotel in August 2026, following two earlier fines divulged in September 2025](https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b) | Advanced |
@@ -71,7 +71,7 @@ record: 72da634e31ff
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Loi n. 2024/017 on personal data protection | In force; no supervisory authority operating | [In force; no supervisory authority operating, the promulgated text acquired 2026-07-29](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web) | No change |
 | Personal data protection authority | Created in law, not established, unfunded | [Created in law, not established, unfunded](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web) | No change |
@@ -94,7 +94,7 @@ record: 72da634e31ff
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Law on biometric data in judicial procedures | Did not exist | [Adopted, its scope being the collection, processing, retention, use and destruction of biometric data exclusively within judicial and judicial-police procedures](https://tchadinfos.com/2026/04/11/tchad-les-deputes-adoptent-a-une-large-majorite-la-loi-encadrant-les-donnees-biometriques-judiciaires/) | Advanced |
 | Ordonnance n 001/PR/2026 reforming the security and electronic certification agency | A cybersecurity and electronic-certification agency, with no data-protection, artificial-intelligence, drone or video-surveillance remit on record | [A mandate covering cybersecurity, personal-data protection, electronic-transaction security, cybercrime, protection of the national information space, video-surveillance systems, drones, social media, digital services and artificial-intelligence systems, plus a classification of entities of vital digital importance and expanded investigative and enforcement powers](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency) | Advanced |
@@ -141,7 +141,7 @@ record: 72da634e31ff
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Data-protection compliance guidelines and templates | Did not exist; no regulator guidance is recorded in the base before 2026 | [Ten guidelines published, covering consent, lawful bases of processing, electronic direct marketing, the data protection officer, officer categories, data users, principles, records of processing activities, licences and permits, and privacy notices, together with breach-notification and records templates](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Advanced |
 | Face-print collection for mobile line registration | Identity verification for a mobile line without published biometric collection | [Compulsory face-print collection by private operators for mobile line registration, objected to by a member of the Senate's constitutional and legislative affairs committee on the ground that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550) | Regressed |
@@ -273,7 +273,7 @@ record: 72da634e31ff
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Data Protection Authority within the regulator | Designated under the Act but not stood up; the government was tendering advisory and technical consultancy to produce the unit's organogram and governance charter, staffing, operations manual, monitoring and enforcement framework, and a business plan targeting cost recovery within five years | [Operating as a unit inside the regulator with a named head of data protection and a stated implementation framework; no organogram, enforcement record or registration data is published](https://ppda.mw/storage/documents/opentenders/ToRs%20OPERATIONALIZATION_OF_THE_DATA_PROTECTION_Act.pdf) | Advanced |
 | Draft Data Protection Regulations, Guidelines and Registration Fees | No subsidiary data-protection instruments were made; drafting of regulations, codes of practice, guidelines, a priced service list and a scale of fines was still out to tender under an acceleration-project consultancy in October 2025 | [The regulator has published draft regulations, guidelines and a turnover-based registration fee schedule ranging from MWK 50,000 for small and medium enterprises to MWK 7 million for the largest controllers and processors of significant importance, and consulted stakeholders before finalisation; no commencement date is on record](https://itweb.africa/article/malawi-advances-data-protection-framework/xnklOvz14wkq4Ymz) | Advanced |
@@ -322,7 +322,7 @@ record: 72da634e31ff
 
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
-| Data Sharing Agreement under the health memorandum | Did not exist | [Signed by the two governments on the same day as the memorandum and not annexed to it, so neither its term, its pathogen or genetic-sequence scope nor any transfer trigger can be read from the instrument that penalises failure to fulfil it; the State Department briefly posted a subset of the memoranda in March 2026, then removed access and published none of the related agreements, and a suit for their release was unresolved at 2026-04-02. A rights organisation's reading of the seven signed memoranda puts Mozambique among three committing to hand over any data requested for the American audit without explicit privacy safeguards, and among five whose text requires unilateral sharing of specimens and pathogen-sequencing data; it also names Mozambique as lacking a binding comprehensive data-protection law, which is what makes the audit-access provision acute](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | Advanced |
+| Data Sharing Agreement under the health memorandum | Did not exist | [Published: specimens, sequencing data and digital sequence information to be shared within eight working days of a request, subject to approval by the national ethics, biosafety and security authority which shall not be unreasonably withheld, with advance consent to onward sharing with US entities on after-the-fact notice and no cap on recipients](https://www.citizen.org/wp-content/uploads/64103-Mozambique-Health-Specimen-Sharing-Agreement-12.15.2025.pdf) | Advanced |
 | National data protection authority | No data regulatory authority, with INTIC, INCM, INAGE and CEDSIF exercising implied oversight and coordination gaps between them (2025-06); a two-tier commission and agency provided for in the draft law (2025-09) | [Still provided for in the draft only; no authority established. The World Bank recommended creating one in December 2025 and on 2026-01-16 cut the project subcomponent funding cybersecurity and data protection from US$18m to US$11m, stating that operationalising the Data Protection Office had been envisaged over six years and that the remaining project period no longer allows it](https://www.techhiveadvisory.africa/insights/review-of-mozambiques-proposed-personal-data-protection-law) | Stalled |
 | Personal Data Protection Law (draft) | Draft in preparation, no tabling date (2025-04, World Bank diagnostic) | [Still in preparation; the Cabinet submission INTIC planned for June 2026 is not on record, and no tabling or adoption date is stated](https://www.techhiveadvisory.africa/insights/review-of-mozambiques-proposed-personal-data-protection-law) | Stalled |
 | Personal-data breach reporting platform | Did not exist | [Live, taking reports of personal-data breaches, illicit content and cyber incidents](https://itweb.africa/article/mozambique-intros-data-breach-platform/) | Advanced |
@@ -424,7 +424,7 @@ record: 72da634e31ff
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Data Protection Bill | No draft on record | [Policy bill drafted with civil-society facilitation; no bill before the Assembly and no statute (2026-08)](https://www.radiotamazuj.org/en/news/article/south-sudan-to-get-data-protection-bill-in-2026-says-minister) | Advanced |
 

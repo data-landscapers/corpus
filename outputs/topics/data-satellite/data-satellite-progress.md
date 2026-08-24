@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: data.satellite
 places: DZA; AGO; BWA; BFA; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; LBR; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
-record: b4cf9e15bf71
+record: 555f7ccfb11c
 ---
 
 # Use of satellite data: progress report, 2025-08-01 to 2026-08-24
@@ -23,7 +23,7 @@ record: b4cf9e15bf71
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Commercial access to the national satellite | In orbit and operated from a national control centre, government use only | [A commercial provider market open, with 37 firms in the commercial arm by April 2026 and a first private licence issued in July 2026](https://www.telecomreviewafrica.com/articles/general-news/13572-angola-launches-commercial-access-to-angosat-2-for-remote-connectivity/) | Advanced |
 | Earth-observation satellite | Financing signed at about EUR 225m in January 2025, with no build kicked off | [Under construction after a March 2026 kick-off, with first ground infrastructure delivered from June 2026 and a design of more than 1,000 high-resolution images a day](https://techreviewafrica.com/news/5427/angola-advances-angeo-1-earth-observation-programme-with-airbus-milestone-validation) | Advanced |
@@ -42,13 +42,13 @@ record: b4cf9e15bf71
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Satellite-and-sampling census enumeration methodology | Did not exist | [Smartphone enumeration combined with satellite imagery and sample estimation, adopted for areas inaccessible through insecurity or isolation](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) | Advanced |
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Space cooperation protocol with a national space agency | Did not exist | [A memorandum only, covering spectrum and satellite-communications management and remote sensing for resource mapping, with no financing, hardware, date or deliverable; a follow-up delegation visited the digital agency in February 2026](https://tchad24.tv/numerique-le-tchad-et-azercosmos-signent-un-accord-spatial-historique/) | ***Baseline not held*** |
 
@@ -73,7 +73,7 @@ record: b4cf9e15bf71
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Egypt-Japan water, artificial intelligence and satellite-data cooperation | The base carries no position at 2025-08-01 | [Memorandum with Japan's land and agriculture ministries covering technical missions, joint research and the application of AI and digital models to monitoring water structures and reducing flood risk; Egypt intends to use Japan's satellite rainfall product to monitor rainfall across Nile basin states and improve hydrological forecasting](https://www.youm7.com/story/2026/8/2/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D9%84/7499442) | ***Baseline not held*** |
 

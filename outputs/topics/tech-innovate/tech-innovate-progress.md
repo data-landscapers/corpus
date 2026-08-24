@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: tech.innovate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SOM; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: 5cd06f2aa5f9
+record: 1f890bfd8ddc
 ---
 
 # Innovation ecosystem: progress report, 2025-08-01 to 2026-08-24
@@ -26,7 +26,7 @@ record: 5cd06f2aa5f9
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Innovation ranking | 133rd in 2024 | [138th of 139 economies, worse on outputs than inputs, with no cluster in the world's top innovation clusters](https://www.wipo.int/edocs/gii-ranking/2025/ao.pdf) | Regressed |
 | Public-finance innovation lab | Did not exist | [A finance-ministry innovation lab whose first proof of concept was qualified digital signatures in an internally built document system](https://techafricanews.com/2026/03/30/angola-launches-i-lab-to-accelerate-digital-transformation-of-public-finance/) | Advanced |
@@ -62,7 +62,7 @@ record: 5cd06f2aa5f9
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Climate innovation hub | Did not exist | [An incubation and collaboration platform for renewable energy, sustainable agriculture, waste and urban resilience; no budget, cohort or funding figure published](https://www.wearetech.africa/en/fils-uk/news/cameroon-launches-climate-innovation-hub-to-advance-green-tech) | Advanced |
 | Pyramid local software suite | Did not exist | [A browser and mail service available, with a media service still being finalised; two years' build at a stated FCFA 20m and more, hosted on domestic infrastructure](https://leconomie.info/kmr-start-up-hub-lance-pyramid-un-ecosysteme-numerique-camerounais-a-stockage-local/) | Advanced |
@@ -89,7 +89,7 @@ record: 5cd06f2aa5f9
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Telemedan | More than 2,000 users and about 10,000 consultations reported | [Unchanged; no source in the window refreshes it](https://www.wearetech.africa/en/fils-uk/solutions/telemedan-delivers-healthcare-to-rural-chad-through-solar-powered-kiosks) | No change |
 
@@ -139,11 +139,12 @@ record: 5cd06f2aa5f9
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Egyptian startup venture funding | 51 Egyptian startups funded in 2024, the highest count in Africa | [US$378.95m across 43 funded startups in 2025 on one tracker's count, 23.2% of the African total and second to Nigeria for a second year, with the number of funded ventures falling 15.7% and average raise rising to US$8.81m from US$6.12m; Egypt then led the continent in H1 2026 with US$327m raised, US$183m of it equity](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | Advanced, deal count falling |
 | InfiniLink | Independent Cairo deep-tech semiconductor startup in a state venture portfolio | [Acquired, delivering a reported 400% return to the state venture investor; no consideration, retained-operations or headcount detail is held](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Closed, acquired |
 | Stakpak | Independent Egypt-founded AI infrastructure company, founded 2023, bootstrapped for two years, first funding round 2024, operations subsequently relocated to San Francisco | [Absorbed as a talent acquisition; no consideration, structure, asset transfer or team size is disclosed, and whether the entity or its product survives is not established](https://techafricanews.com/2026/07/20/vercel-acquires-talent-behind-egypts-stakpak-to-build-agentic-infrastructure/) | Closed, independent operation ended |
+| Women in Tech Accelerator | None published | [Twelve women-led startups in the 2026 cohort, with USD 35,000 in equity-free grants split between three at the end](https://techafricanews.com/2026/08/24/standard-chartered-foundation-women-in-tech-accelerator-egypt/) | ***Baseline not held*** |
 
 ## Eritrea
 
@@ -218,7 +219,7 @@ record: 5cd06f2aa5f9
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | PayChangu | Operating as a Lilongwe-based payment aggregator founded 2021, connecting mobile money, cards and bank transfers through a single integration | [Same position, with small-business tools stated as interfaces, e-commerce plugins, payment links, invoicing and analytics](https://www.wearetech.africa/en/fils-uk/solutions/malawian-fintech-paychangu-targets-sme-growth-with-unified-payment-infrastructure) | No change |
 | University innovation lab | An active UNDP grant of US$1,880,499 committed 2019 to equip the business and applied sciences university's innovation hub for ideation, prototyping, mentorship and incubation | [Same position; no dated update since the 2019 record, with the scheduled end year falling in 2026 and no closure or extension on file](https://open.undp.org/projects/00131461) | No change |

@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: 8c2ab73dbe20
+record: b23a28ce23f0
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-24
@@ -33,7 +33,7 @@ record: 8c2ab73dbe20
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Education and research network | Did not exist | [A national education and research network presented alongside an executive roadmap for higher-education digital transformation](https://techafricanews.com/2026/05/14/angola-unveils-angoren-network-to-drive-higher-education-digital-transformation/) | Advanced |
 | National education database (MED and Mwango Brain) | Did not exist | [A structured multi-year effort with the education ministry, a continental education association and an in-country technical partner to strengthen the national education database and the capacity to turn statistics into policy, launched at a Luanda event in August 2026 under a five-year, thirty-country data challenge](https://adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems) | Advanced |
@@ -76,7 +76,7 @@ record: 8c2ab73dbe20
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Basic-education information system upgrade | Did not exist | [EUR 8m of technical assistance over 36 months covering the education management information system, the basic-education ministry's WebSIG platform, interconnection of the education databases and dynamic dashboards; nothing reported delivered](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base) | Advanced |
 | National Digital Health Strategic Plan 2026-2030 | The 2020-2024 plan expired, system maturity scored 1.8 out of 5 at evaluation | [Eight strategic axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/) | Advanced |
@@ -101,7 +101,7 @@ record: 8c2ab73dbe20
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Education management information system (StatEduc) | No position held | [In use in the higher-education, research and vocational training ministry, whose statistics and digitalisation staff were trained on questionnaire and database configuration, deployment and updating of data-entry masks, extraction, consistency checking and database validation; no coverage figure or published output is held, and nothing is on file for the basic-education ministry](https://www.unesco.org/fr/articles/le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc-pour-ameliorer-la) | ***Baseline not held*** |
 | Electronic medical records and health-facility interconnection | No position held | [Exploratory only - electronic medical records and interconnection of health facilities discussed, with no contract, pilot or system named](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/) | ***Baseline not held*** |
@@ -145,7 +145,7 @@ record: 8c2ab73dbe20
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | DHIS2 national health information system | Did not exist | [Open-source platform live under the national digital health priorities 2025-2029, with first-year use covering over 180,000 consultations for emergency evacuees across 189 sites, nutrition screening for about 20,000 refugee children, school-health screening for over 100,000 children and tuberculosis follow-up for 7,500 cases at 57 centres](https://dhis2.org/egypt-launches-dhis2-in-health-information-system) | Advanced |
 | Social insurance 95-service online catalogue | 95 electronic services undertaken within six months from 2026-02-08, opening with a first phase of 40 | [The 40-service first tranche restated as forthcoming at the point the six-month window falls due; against roughly 170 insurance services in all, only three concern pension entitlement and payment and the rest still require an office visit](https://gate.ahram.org.eg/News/5882131.aspx) | Stalled |
@@ -236,7 +236,7 @@ record: 8c2ab73dbe20
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Automated human resource and payroll management platform | Did not exist; no government human-resource or payroll system appears in the base at 2025-08-01 | [In pilot before rollout across all ministries, departments, agencies, Parliament, the Judiciary and local councils; no supplier, cost, pilot scale or rollout date is stated, and nothing is stated on how personnel and payroll data is handled under the Data Protection Act 2024](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85) | Advanced |
 | Electronic Invoicing System | Established by the Commissioner General under the amended value added tax statute and announced by public notice on 2025-07-31, with migration off electronic fiscal devices required from 2025-08-02; no registered base published | [Regulations published 2026-01-09, the transition period ended 2026-01-31 after which prior-device invoices no longer support input tax claims, and full enforcement with penalties from 2026-05-01 after the authority rescheduled the rollout](https://www.mra.mw/admin/storage/download_files/1769007736_003%20TRANSITION%20FROM%20ELECTRONIC%20FISCAL%20DEVICES%20TO%20THE%20ELECTRONIC%20INVOICING%20SYSTEM.pdf) | Advanced, enforcement rescheduled |
@@ -357,7 +357,7 @@ record: 8c2ab73dbe20
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Biometric registration of public servants | Not on record before January 2026 | [US$15m programme in its third phase; data held on a Ministry of Finance server (2026-06)](https://www.onecitizendaily.com/index.php/2026/06/24/government-launches-biometric-registration-exercise-for-organised-forces/) | Advanced |
 | Education in Emergencies Management Information System | Did not exist | [Launched; 12 County Education Departments across six states equipped with solar power, computers and connectivity (2026-08)](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response) | Advanced |

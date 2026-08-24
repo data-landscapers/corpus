@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: geopol.india
 places: AGO; BDI; TCD; CIV; EGY; ETH; KEN; LSO; LBY; MOZ; NAM; RWA; ZMB
-record: ae5618829ea5
+record: a6138e5d3fec
 ---
 
 # India activities: progress report, 2025-08-01 to 2026-08-24
@@ -17,7 +17,7 @@ record: ae5618829ea5
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | India credit line | A US$200m defence credit line, with digital public infrastructure, space technology and capacity building a separate pledge carrying no money | [Unchanged; no contract, vendor or engagement on record, confirmed at a reconcile pass in July 2026](https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-the-joint-press-statement-with-the-president-of-angola/) | No change |
 
@@ -29,7 +29,7 @@ record: ae5618829ea5
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Indian digital partnership | Talks only, with no memorandum | [Still no memorandum or instrument on file](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-tchad-explore-un-partenariat-avec-l-inde-dans-le-numerique) | No change |
 
@@ -41,7 +41,7 @@ record: ae5618829ea5
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | India-Egypt technology cooperation | The base held no source at all on India-Egypt technology cooperation at 2025-08-01 | [The two industry ministers agreed a joint study of priority sectors for industrial and investment integration, to be prepared by Egyptian authorities with Invest India and covering market needs, value chains, joint manufacturing, incentives and tariff and non-tariff barriers, with financial technology among the named priority sectors; they discussed linking the two countries' payment systems and settling bilateral trade in local currencies, and Egypt proposed an Egyptian-Indian industrial integration platform matching companies on joint production, component exchange and supplier development](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/) | ***Baseline not held*** |
 

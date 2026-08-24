@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: finance.mou
 places: DZA; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MWI; MRT; MAR; RWA; SEN; SYC; SSD; TZA; TGO; UGA; ZMB; ZWE; XAF
-record: df0a952b2cb2
+record: a5165141484f
 ---
 
 # MoUs and other agreements: progress report, 2025-08-01 to 2026-08-24
@@ -37,7 +37,7 @@ record: df0a952b2cb2
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Master service agreement with Ethio Telecom | Did not exist | [Four workstreams: fintech support, architecture and deployment of a sovereign government cloud, network expansion consultancy and institutional digital culture](https://www.telecomreviewafrica.com/articles/telecom-operators/13523-ethio-telecom-and-camtel-sign-deal-to-drive-cameroons-digital-transformation/) | Advanced |
 
@@ -56,7 +56,7 @@ record: df0a952b2cb2
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital infrastructure partnership with a regional incumbent operator | Not held at the window's opening | [A technical delegation to Chad proposed to scope collaboration on backbone, fourth- and fifth-generation networks, cloud, digital financial services and device access; no memorandum and no value](https://techafricanews.com/2026/03/09/ethio-telecom-and-chad-explore-digital-infrastructure-partnership-at-mwc-barcelona/) | ***Baseline not held*** |
 
@@ -88,7 +88,7 @@ record: df0a952b2cb2
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Central bank memorandum with Afreximbank on a pan-African Gold Bank | Did not exist | [At feasibility-study stage, to assess technical, commercial and regulatory requirements for a Gold Bank sited in a designated free zone in Egypt, scoped to include an internationally accredited refinery, secure vaulting and associated financial and trading services](https://www.cbe.org.eg/en/news-publications/news/2025/12/30/08/37/gold-bank-programme-in-egypt) | Advanced |
 | Fawry point-of-sale integration partnership | Did not exist | [An integration connecting the payments company's acceptance terminals with a point-of-sale software provider's system, targeting hospitality, retail chains and hypermarkets](https://techafricanews.com/2026/07/21/fawry-partners-with-crystal-mind-to-integrate-pos-and-digital-payments/) | Advanced |
@@ -137,7 +137,7 @@ record: df0a952b2cb2
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Vendor investment memorandum | The base carries no proposal, negotiation or announcement before 2025-08-01 | [A proposed US$180m over four years, built round a one-stop digital government platform and a high-speed network linking all 28 districts with ring protection; funding structure, implementation timeline and any agreements reached have not been made public](https://malawi24.com/2026/06/09/malawi-eyes-wider-digital-access-in-180m-huawei-ict-deal/) | ***Baseline not held*** |
 
@@ -175,7 +175,7 @@ record: df0a952b2cb2
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Air Traffic Management System loan (China Eximbank) | Committed | [Committed; no implementation record held](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) | No change |
 

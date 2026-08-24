@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: digital.rural
 places: BDI; CAF; COG; EGY; SWZ; GIN; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; SLE; TGO; ZMB; ZWE
-record: 772eee54a7e1
+record: 1ffb73e30938
 ---
 
 # Rural digital data capture: progress report, 2025-08-01 to 2026-08-24
@@ -36,7 +36,7 @@ record: 772eee54a7e1
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Decent Life rural fibre programme | 856 of 1,450 phase-one villages connected at end-2024, up from 267 at end-2023 | [More than 1,250 of 1,450 phase-one villages across 52 markazes in 20 governorates, about 5 million fibre lines, 75% of village service complexes connected](https://www.youm7.com/story/2026/6/30/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D9%84%D9%805-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%B7-%D9%81%D9%89-1250/7465834) | Advanced |
 
@@ -61,7 +61,7 @@ record: 772eee54a7e1
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | University AI fertigation facility, Thyolo | Did not exist at 2025-08-01 | [The Malawi University of Science and Technology commissioned an AI-powered fertigation system automating irrigation and fertiliser application from real-time crop-growth data at its Thyolo campus, with an AI-assisted smart tree nursery, under a continental agricultural-universities programme](https://itweb.africa/article/malawi-university-deploys-ai-fertigation-technology/dgp45vaB8W57X9l8) | Advanced |
 | National Agricultural Data Infrastructure | A multi-stakeholder dialogue on national data infrastructure for climate decision-making held in Malawi in September 2023, drawing conclusions on digitising paper records, standardising collection and embedding interoperability; nothing built | [Farmers across 14 districts still use non-interoperable platforms - the meteorological department's, an agricultural NGO's, the government farm input subsidy programme's and a commodity exchange's - logging into each separately; the harmonising framework remains a proposal and a farmer-ID layer on the national register remains an argument, not a system](https://developmentgateway.org/blog/unlocking-the-potential-of-digital-public-infrastructure-for-climate-data-and-agriculture-malawi/) | No change |

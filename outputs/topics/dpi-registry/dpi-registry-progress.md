@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4aa24191413e
+record: 507281e5b05d
 ---
 
 # Registries (population, land, address, etc.): progress report, 2025-08-01 to 2026-08-24
@@ -27,7 +27,7 @@ record: 4aa24191413e
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Birth registration coverage | 53.5% overall and 24.8% for children aged nought to four in the 2014 census | [63.0% overall and only 39.2% among children aged nought to four at the 2024 census reference date](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf) | Advanced |
 | Birth registration in maternity wards | Did not exist | [Registry posts in maternity wards so newborns leave registered and issued a first identity card, foreign-funded with UN support](https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/) | Advanced |
@@ -76,7 +76,7 @@ record: 4aa24191413e
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Device import-duty regime by handset identifier | Did not exist | [Importers must declare each device by its identifier through the customs platform and pay duties before network use, with an amnesty for devices connected before 2026-04-01](https://techcabal.com/2026/04/01/cameroon-imei-system-mobile-device-import-duties/) | Advanced |
 | Digital birth certificates | Provided for in the 2024 civil-registration law; none issued | [Routine issuance across ten municipalities in three regions, with the same legal worth as physical certificates](https://www.biometricupdate.com/202601/cameroon-councils-begin-issuance-of-digital-birth-certificates) | Advanced |
@@ -102,7 +102,7 @@ record: 4aa24191413e
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital civil registration | Did not exist as a launched national programme | [Launched, with municipal interoperability work under way from April 2026; no coverage or throughput figure is published](https://lendjampost.com/tchad-letat-civil-numerique-un-pas-decisif-dans-lidentification-des-citoyens/) | Advanced |
 | Moratorium on court fees for supplementary birth judgments | Did not exist | [In force to 2030, the four-year legal suspension inside which the six-month registration campaign runs](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/) | Advanced |
@@ -154,7 +154,7 @@ record: 4aa24191413e
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Platform for Regularising State Lands | The base carries no position at 2025-08-01, and the commencement date of the 2025 law that introduced the platform is not established | [More than 302,000 applications received against about 1,700 contracts drawn up, 350 plots recovered and compensation collected on about 300 applications, with governorate committees still doing inspection, survey and measurement](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179) | ***Baseline not held*** |
 | Rashid state-owned companies platform | The base carries no position at 2025-08-01 | [A national platform to enumerate and classify every company the state owns or holds a stake in, with hosting, secure storage and compute for its AI applications supplied under protocol; the applications analyse and monitor the financial and operating performance of the state's corporate portfolio](https://gate.ahram.org.eg/News/5849412.aspx) | ***Baseline not held*** |
@@ -261,7 +261,7 @@ record: 4aa24191413e
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Birth Registration Campaign | Did not exist; birth registration ran under the National Registration Act with no dedicated campaign on record | [Seven phases across 25 districts using government primary schools as registration centres, targeting about 4.6m unregistered children; MWK 17.8bn required, MWK 5.4bn allocated in FY2025/26 for phases 1 and 2, MWK 12.4bn outstanding](https://malawi24.com/2026/01/16/k17-8bn-push-to-register-4-6-million-children/) | Advanced |
 | Rental income tax property registration drive | Did not exist; announced February 2026, starting in the three main cities with data collectors recruited | [About 8,000 landlords registered for rental income tax, with property-registration exercises running across low- and high-density areas](https://malawi24.com/2026/02/11/mra-clarifies-electronic-invoicing-system-rental-income-tax-amid-public-skepticism/) | Advanced |
@@ -404,7 +404,7 @@ record: 4aa24191413e
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Centralised civil registration and vital statistics system | Civil Registry Rules and a costed CRVS plan adopted; a birth-registration pilot at Juba Teaching Hospital (2025-12) | [Centralisation announced as intent; no law, budget, timetable, vendor or platform named (2026-07)](https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/) | Advanced |
 | Birth registration coverage | About 10% of births registered (2025-12) | [About 90% of births going unrecorded (2026-07)](https://www.worldbank.org/en/news/feature/2026/07/22/in-the-worlds-youngest-nation-how-do-you-prove-you-exist) | No change |

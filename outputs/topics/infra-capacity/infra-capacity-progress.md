@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: infra.capacity
 places: BWA; CMR; TCD; COG; GNQ; GHA; GIN; KEN; LSO; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; TZA; ZWE; XSA
-record: 16d526884d56
+record: 7e3fb8062154
 ---
 
 # Technical Capacity: progress report, 2025-08-01 to 2026-08-24
@@ -23,13 +23,13 @@ record: 16d526884d56
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | IPv6 transition | ***Baseline not held*** | [Stated as essential; no target date, measured national adoption rate or instrument](https://techafricanews.com/2026/06/19/antic-drives-push-for-secure-and-sovereign-internet-at-national-dns-forum-in-cameroon/) | ***Baseline not held*** |
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Information technology equipment transfer to the national police | No position held | [Delivered: seventy-four desktop computers, fifty-nine laptops, 105 surveillance cameras, internet-protocol communication equipment, printers, scanners, copiers, videoconferencing and sound equipment, and everything needed to restore the force's public hotline](https://techgriot.co/english/africa/2026/07/chad-equips-its-national-police-with-new-tech-to-fight-cybercrime/) | ***Baseline not held*** |
 
@@ -72,7 +72,7 @@ record: 16d526884d56
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Artificial intelligence laboratories and innovation hubs | Did not exist; no operator AI laboratory or innovation hub appears in the base at 2025-08-01 | [Announced by the chief executive for establishment in 2026, to let Malawians build AI-driven services; no site, budget, partner or opening date is stated, and nothing on record shows one has opened at 2026-08-06](https://times.mw/tnm-turns-30-sets-ambitious-plans/) | Advanced |
 | Malawi Research and Education Network | Over 83,000 students across 81 institutions gained cheaper connectivity through the network under the foundations project | [Unchanged; the base holds no institutional membership, bandwidth, governance or funding position after project close, and the acceleration project's school and office targets are not described as running through it](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | No change |

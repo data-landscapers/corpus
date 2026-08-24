@@ -4,7 +4,7 @@ compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 subject: data.statistics
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SSD; TUN; UGA; ZWE; XSA; XWA
-record: 24388693b54f
+record: 618a72827dcc
 ---
 
 # National statistics: progress report, 2025-08-01 to 2026-08-24
@@ -23,7 +23,7 @@ record: 24388693b54f
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Census portal and statistics application | Did not exist; census results were available only as reports | [A public portal with demographic, social, economic and housing indicators by geographic level, plus a mobile application carrying macroeconomic series, built by the statistics office's own staff](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/) | Advanced |
 | National statistics development strategy | Did not exist | [A new strategy for the 2026 to 2032 cycle, widening the national statistical system](https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/) | Advanced |
@@ -52,7 +52,7 @@ record: 24388693b54f
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Fourth population and agriculture census | The last census was in 2005; a pilot ran October to November 2025 | [Still in the field: a complementary period runs 2026-08-01 to 2026-09-15 to complete the identification of households, persons and agricultural holdings missed by the 2026-05-29 close; enumeration ran with 32,059 agents at a budget of FCFA 13.28bn against FCFA 64bn initially projected, and no results are published](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) | Advanced, close slipped to 2026-09-15 |
 | Open SDG indicator platform | Built by the statistics institute in 2024, configuration work through the first half of 2025, not launched | [Launched, publishing development-goal indicator data for public access](https://leconomie.info/open-sdg-une-plateforme-pour-le-suivi-des-odd-au-cameroun/) | Advanced |
@@ -76,7 +76,7 @@ record: 24388693b54f
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Third general population and housing census | No census in the field | [Main enumeration closed 2026-08-06 after an extension expressly for sweeps, coverage having been acknowledged incomplete at the original deadline; no results, preliminary or otherwise, are held](https://www.lepaystchad.com/45968-2/) | ***Baseline not held*** |
 
@@ -109,7 +109,7 @@ record: 24388693b54f
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | 2027 Population, Housing and Establishments Census | The base carries no position at 2025-08-01 | [Designed as a register-based exercise building central statistical registers of buildings, households, individuals and establishments by matching electronic field enumeration against digital registers and state databases, keyed on the unified national property number; the property-wealth map and secure electronic data exchange are to be finalised before a presidential decree authorises the count](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323) | ***Baseline not held*** |
 | National labour-market data platform | The base carries no position at 2025-08-01 | [A Senate proposal for a national platform integrating databases and forecasting future skills demand, welcomed by the minister, who pointed to the ministry's own forthcoming digital labour platform; no launch date, budget, governing instrument or lead body is established for either, and the two are not stated to be the same thing](https://www.masrawy.com/news/news_egypt/details/2026/7/28/3024561/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82) | ***Baseline not held*** |
@@ -191,7 +191,7 @@ record: 24388693b54f
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Payments System Report series | Quarterly and annual series in publication, with the 2024 annual report reported 2025-04-16 | [Series continuing, with a Q2 2025 report reported 2025-11-18 and the 2025 annual report published 2026-03-30](https://times.mw/national-payment-system-registers-growth-in-2024-quarter-3) | No change |
 | Fourth National ICT Survey | ***Baseline not held*** | [In the field across all districts, including the refugee camp at Dzaleka, covering 12,000 households on mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness, with the recruitment of its field staff publicly questioned](https://malawi24.com/2026/08/19/nso-macra-face-questions-over-ict-survey-jobs/) | ***Baseline not held*** |
@@ -266,7 +266,7 @@ record: 24388693b54f
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Published national population estimate | 13.2 million (2021) | [About 16.36 million projected to end-2026 and 19.99 million to 2030 (2026-07)](https://www.onecitizendaily.com/index.php/2026/07/23/south-sudans-population-is-projected-to-reach-20-million-by-2030/) | Advanced |
 
