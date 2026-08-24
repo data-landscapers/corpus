@@ -9,8 +9,11 @@
  * what neither main.css nor home.css already carries is here.
  */
 
-.country-head { border-bottom: 1px solid var(--rule); padding-bottom: 1.5rem; margin-bottom: 2rem; }
-.country-head h1 { font-size: 3rem; margin-bottom: 0.35rem; }
+/* The h1 override is gone (2026-08-24): 3rem was a fourth h1 size on a site
+   that now has one, and the page opened on a country name three lines tall.
+   `main.css`'s clamp(1.6rem, 3vw, 2rem) applies. */
+.country-head { border-bottom: 1px solid var(--rule); padding-bottom: 0.9rem; margin-bottom: 1.25rem; }
+.country-head h1 { margin-bottom: 0.25rem; }
 .country-head__meta { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); letter-spacing: 0.03em; }
 
 /* Used by the full non-state-finance table's breadcrumb (finance.html). */
@@ -20,10 +23,10 @@
 /* The shared .stat-bar (main.css) is a full-bleed strip on the home page;
    here it sits inside the content column, so it takes its own border and
    corners rather than the home page's border-bottom-only treatment. */
-.stat-bar { margin: 0 0 2.5rem; border: 1px solid var(--rule); border-radius: 3px; }
+.stat-bar { margin: 0 0 1.5rem; border: 1px solid var(--rule); border-radius: 3px; }
 .stat-bar__inner { gap: 0.35rem 2.5rem; }
 
-.report-row { display: flex; gap: 1.5rem; align-items: center; justify-content: space-between; padding: 1.1rem 0; border-bottom: 1px solid var(--rule); }
+.report-row { display: flex; gap: 1.5rem; align-items: center; justify-content: space-between; padding: 0.8rem 0; border-bottom: 1px solid var(--rule); }
 .report-row:first-of-type { border-top: 1px solid var(--rule); }
 .report-row__kind { font-family: var(--display); font-weight: 700; font-size: 1.12rem; }
 .report-row__blurb { font-size: 0.86rem; color: var(--ink-light); margin-top: 0.1rem; }

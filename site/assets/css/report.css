@@ -38,12 +38,12 @@
    apparatus rather than argument. */
 .report-standfirst {
   font-size: 0.9rem;
-  line-height: 1.6;
+  line-height: 1.5;
   color: var(--ink-light);
   background: var(--paper-warm);
   border-left: 3px solid var(--accent);
-  padding: 1rem 1.25rem;
-  margin: 0 0 1.75rem;
+  padding: 0.75rem 1.25rem;
+  margin: 0 0 1.25rem;
 }
 
 .report-standfirst code { background: rgba(255,255,255,.6); }
@@ -61,20 +61,17 @@
 /* One rule, under the bar, not three across two elements (Bill, 2026-08-21).
    The header's own bottom border and this element's top border sat a few
    millimetres apart with nothing between them; the header's comes off in
-   `.article-header--bulletin` below and the top one comes off here, which
-   leaves the bar sitting directly under the byline and closed by a single
-   line before the first category. */
-.bulletin-nav {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.4rem 0.75rem;
-  border-bottom: 1px solid var(--rule);
-  padding: 0 0 0.7rem;
-  margin: 0 0 2rem;
-}
+   `.article-header--bulletin` below and the top one never existed on
+   `.article-toc`, which leaves the bar sitting directly under the byline and
+   closed by a single line before the first category.
 
-.article-header--bulletin { border-bottom: none; margin-bottom: 1.5rem; padding-bottom: 1.25rem; }
+   **The bar's own styling left this file on 2026-08-24.** It was the first of
+   these bars and Bill picked its treatment, so it became the house idiom for
+   every in-page jump nav and the rules went up to `main.css` as `.article-toc`
+   — where an article's table of contents draws on them too. `.bulletin-nav`
+   survives as a hook and nothing else: `bulletin-filter.js` prunes the bar to
+   the categories a selected country reaches, and that is this page's alone. */
+.article-header--bulletin { border-bottom: none; margin-bottom: 1.25rem; padding-bottom: 0.9rem; }
 
 /* The country filter, under the category bar. Same control as the Lab index's
    category filter on data-landscapers.io, and deliberately the same plain
@@ -87,7 +84,10 @@
   align-items: baseline;
   flex-wrap: wrap;
   gap: 0.5rem 0.75rem;
-  margin: -1rem 0 2rem;
+  /* Pulled up under the bar above it. The negative was -1rem against that bar's
+     old 2rem bottom margin; `.article-toc` closes on 1.25rem, so this follows it
+     down or the filter drifts away from the thing it filters. */
+  margin: -0.5rem 0 1.25rem;
 }
 
 .bulletin-filter label {
@@ -153,27 +153,6 @@
   cursor: pointer;
 }
 
-/* Terracotta small caps (Bill, 2026-08-21). The accent is the site's own
-   #c84b2f, and these are the page's own contents rather than site chrome, so
-   they read as the accent everywhere rather than only on hover — which leaves
-   `--accent-dk` for the hover state. */
-.bulletin-nav a {
-  font-family: var(--mono);
-  font-size: 0.72rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--accent);
-  border: none;
-}
-
-.bulletin-nav a:hover { color: var(--accent-dk); border-bottom: 1px solid currentColor; }
-
-/* The middot between items: the site's own separator, and a sibling of the
-   links rather than an ::after inside one, so it is neither clickable nor
-   underlined on hover. `bulletin.py` writes it, aria-hidden. */
-.bulletin-nav__sep { color: var(--ink-faint); font-size: 0.72rem; line-height: 1; }
-
 /* The country boxes beside a bulletin headline. The box itself is the site's
    own `.wip-item-card__status--active` from main.css — the green category box
    the Lab index uses — and this adds only what putting it inline needs: it was
@@ -223,8 +202,8 @@
   color: var(--ink-light);
   border-top: 1px solid var(--rule);
   border-bottom: 1px solid var(--rule);
-  padding: 0.9rem 0;
-  margin: 0 0 2.25rem;
+  padding: 0.7rem 0;
+  margin: 0 0 1.5rem;
 }
 
 /* --- tables -------------------------------------------------------------- */
@@ -309,8 +288,8 @@ a.badge:hover::after { opacity: 1; }
 /* --- colophon ------------------------------------------------------------ */
 
 .report-colophon {
-  margin-top: 3rem;
-  padding-top: 1.5rem;
+  margin-top: 1.75rem;   /* the house ceiling on a vertical gap */
+  padding-top: 1.25rem;
   border-top: 1px solid var(--rule);
   font-size: 0.82rem;
   line-height: 1.6;

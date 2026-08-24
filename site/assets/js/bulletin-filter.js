@@ -60,8 +60,11 @@
 
   var navLinks = Array.prototype.slice.call(
     document.querySelectorAll('.bulletin-nav a'));
+  // `.article-toc__sep` since 2026-08-24: the bar took the site-wide jump-nav
+  // classes when that idiom moved into main.css. `.bulletin-nav` stays on the
+  // <nav> as this page's own hook, which is what scopes the query.
   var navSeps = Array.prototype.slice.call(
-    document.querySelectorAll('.bulletin-nav__sep'));
+    document.querySelectorAll('.bulletin-nav .article-toc__sep'));
   var count = control.querySelector('.bulletin-filter__count');
 
   function show(el, on) {

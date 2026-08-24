@@ -507,10 +507,18 @@ def topic_nav(groups: list[tuple[str, list[tuple[str, str]]]]) -> list[str]:
     # `::after` because an `::after` on the anchor is *inside* the link: it would underline on
     # hover and sit inside the click target, and a separator that is clickable is a bug.
     # `aria-hidden` keeps it out of a screen reader, which should hear a list of categories.
-    sep = '<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>'
+    #
+    # **The class is `article-toc`, the site-wide one in `main.css`** *(2026-08-24)*. This bar
+    # was the first of its kind and the treatment Bill picked; it is now the house idiom for
+    # every in-page jump nav — an article's contents, a report's section list — so the rules
+    # went up to `main.css` and the private `.bulletin-nav` copy in `report.css` came out.
+    # `bulletin-nav` is kept alongside it as the filter's hook: `bulletin-filter.js` prunes
+    # this bar to the categories a selected country actually reaches, and that behaviour is
+    # this page's alone.
+    sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
     links = f"\n{sep}\n".join(
         f'<a href="#{slugify(label, "-")}">{label}</a>' for label, _ in groups)
-    return ['<nav class="bulletin-nav" aria-label="Categories in this bulletin">',
+    return ['<nav class="article-toc bulletin-nav" aria-label="Categories in this bulletin">',
             links, "</nav>", ""]
 
 
