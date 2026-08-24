@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-24
 place: XWA
 ledger_rows: 52
 not_held: 1
-record: adb7d665de70
+record: bc72ac6ed4b0
 ---
 
 # West Africa: progress report, 2025-08-01 to 2026-08-24
@@ -275,7 +275,6 @@ Equity is the one instrument that moved on its own account. On 9 August the cont
 | Body, instrument or system | What would settle it | Last probed |
 |---|---|---|
 | ECOWAS Statistical Policy and Regional Statistical Programme 2023-2027 | The policy and programme the July 2026 meeting was implementing, and the methodological guides it approved; probed 2026-08-05: neither located as a document; what was found is the World Bank statistics operation financing the work and a 2002-era secretariat programme | 2026-08-05 |
-| Regional digital skills programme of a West African body | A programme document from ECOWAS, the UEMOA Commission or WATRA, as against the national skills components financed under WARDIP; probed 2026-08-05: no regional programme document located; what was found is a training-of-trainers activity in Liberia and a youth AI forum, both single events | 2026-08-05 |
 
 <!-- narrative: gaps -->
 Six named objects carry no position at either end, and each was searched on 2026-08-05. Four searches returned published documents the base does not hold: the region's own digital sector strategy for 2024-2029, the community budget for 2026-2028, WATRA's technical reports, and a headquarters complex China financed for the ECOWAS Commission. These are gaps in this record rather than in the region's activity; acquisition lines have been raised, and none is cited above.
