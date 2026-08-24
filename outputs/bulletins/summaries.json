@@ -944,9 +944,94 @@
     "written": "2026-08-23",
     "summary": "Ethiopia's unified public-service platform publishes its own service catalogue, stating 180-plus government services drawn from 23 named institutions among them the customs commission, the health, justice and transport ministries, the food and drug authority and the state telecommunications operator, each listed with its required documents, fee and processing time. The count is an order of magnitude below the more than 2,200 services a government account of August 2026 attributed to the platform, and the base cannot reconcile the two on the same basis."
   },
+  "2026-08-23-next-wave-kenyan-startups-bootstrapping": {
+    "published": "2026-08-23",
+    "written": "2026-08-24",
+    "summary": "A column arguing that Kenyan founders stopped bootstrapping not from a loss of drive but because a local glut of foreign venture capital made bootstrapping economically irrational, replacing the constraint of early survival with the management of a burn rate. Its charge is that money meant to empower founders domesticated them into well-paid managers of unprofitable logistics subsidies, with Copia, Sendy, Twiga Foods and Lipa Later the cases in view."
+  },
   "2026-08-23-springer-delcros-eu-digital-policy-in-multilateral-fora": {
     "published": "2026-08-23",
     "written": "2026-08-24",
     "summary": "An academic chapter on how the European Union pursues its digital policy through multilateral bodies, arguing that it uses its own regulatory framework and the pull of the single market to shape international standards around privacy, security and human rights. It traces that effort through the G7, G20, WTO and OECD, where the European model meets competing American and Chinese ones, and through the promotion of Data Free Flow with Trust and a collaborative line on AI governance. Only the publisher's abstract is held; the chapter text sits behind a subscriber wall."
+  },
+  "2026-08-24-airtel-fursa-lab-tanzania-digital-skills": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "Airtel Africa Foundation and the Dar Teknohama Business Incubator have opened an Airtel Fursa Lab for digital skills and technology education at Kijitonyama Secondary School, launched by the foundation's head of programmes Esi Prah. No enrolment target, cost, equipment specification or timeline is attached to it."
+  },
+  "2026-08-24-cell-c-fy26-results-techafricanews": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "Cell C reported profit after tax of ZAR 4.16 billion for the year to 31 May 2026, on total revenue of ZAR 12.64 billion and service revenue of ZAR 11.64 billion, with earnings per share of 2,338 cents. Prepaid service revenue grew 9.7% to ZAR 5.51 billion past 8 million subscribers and wholesale revenue 20% to ZAR 1.65 billion as the MVNO base reached 5.71 million; free cash flow was ZAR 1.06 billion."
+  },
+  "2026-08-24-erkkola-data-is-botswanas-new-diamond": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "A named-analyst argument that Statistics Botswana is moving from custodian of data to active enabler of open data, on the evidence of its microdata portal, a move towards SDMX standards and a hackathon run with the Botswana Digital Innovation Hub and Team Europe. It is direct about what the office's own internal reviews found in the way — ambiguous legal language on the portals, non-commercial licensing clauses that disqualify datasets from counting as open, and departments with no incentive to publish timely structured data — and rests the case for urgency on youth unemployment that Statistics Botswana puts at 55.6% for 18-24 year-olds and 38.2% across 15-35. The piece carries no visible publication date and is dated here by retrieval."
+  },
+  "2026-08-24-fiberhome-tour-kenya-6g-itweb": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "At the Nairobi leg of FiberHome's world tour, Kenya's principal secretary for broadcasting and telecommunications Stephen Isaboke said the country would deepen its partnership with the Wuhan-headquartered vendor, citing specialised training for Kenyan students and plans for an East African research and development centre, and framing the work against satellite connectivity, all-optical networks and an eventual move to 6G. FiberHome has operated in Kenya since 2017 and has built segments of the 100,000-kilometre Digital Superhighway; no target, budget or timeline is attached to the intent stated here."
+  },
+  "2026-08-24-frogfoot-fibre-rollout-capital-itweb": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "New investors have subscribed for shares in South African fibre network operator Frogfoot and its Vivica Group sister companies Vox and Hypa, in a transaction implying a combined after-debt equity value of R8.4 billion, with the DNI Consortium the largest shareholder grouping and RMB adviser and funder. The stated purpose is to quadruple Frogfoot's connection rate to 360,000 homes a year within twelve months, aimed at townships and lower-income communities and claimed to create more than 5,000 direct jobs. No subscription amount is disclosed, so the R8.4 billion is a valuation rather than the capital committed."
+  },
+  "2026-08-24-ghana-malawi-digital-cooperation-techafricanews": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "A Malawian delegation led by deputy chief secretary Stuart Ligomeka took a study tour of Ghana's Ministry of Communication, Digital Technology and Innovations, where deputy minister Mohammed Adams Sukparu presented Ghana's work on digital infrastructure, digital identity, cybersecurity, e-government, digital skills and innovation ecosystems. Ligomeka described Ghana as an important reference point for Malawi's own digital transformation and both sides proposed sustained cooperation between their technical teams; no instrument was signed and no programme, budget or timeline was announced."
+  },
+  "2026-08-24-kenya-national-cybersecurity-agency-chair": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "Kenya has named Dr Martin Koyabe the inaugural non-executive chairperson of the board of its National Cybersecurity Agency, announced by ICT and Digital Economy principal secretary John Tanui, who set the new agency against the government's stated ambition to grow the digital economy to 30% of GDP. No other board member, budget or commencement date is named."
+  },
+  "2026-08-24-kenya-virtual-asset-compliance-techcabal": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "An assessment of what Kenya's new virtual asset regime will cost the firms it covers, arguing that licence fees are the smaller part of it beside capital, ring-fencing, audit, cybersecurity and specialist staff. Thresholds are low or absent at the specialist end — no minimum paid-up capital for virtual asset investment advisors, KES 10 million for tokenisation providers, KES 20 million for asset managers and ICO providers — so smaller local firms have a way in while stablecoin issuers and offshore platforms face the heaviest requirements and the closest scrutiny. Businesses have until 4 November to transition."
+  },
+  "2026-08-24-mtn-group-fintech-transactions-330bn-itweb": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "MTN Group's fintech transaction value reached $330.5 billion in the six months to June 2026, up 33.8% in constant currency, on volumes up 17% to 13 billion across 1.4 million active agents and 2.3 million merchants. Advanced services grew 31.8% to make up 37.4% of MoMo revenue, offsetting flatter cash-out and peer-to-peer activity and the suspension of airtime advance in Nigeria, which the group expects to reinstate through four newly onboarded providers. Alongside the results MTN advanced a R6 billion share buyback and its purchase of the rest of IHS Holdings, to close in the second half with 30% of IHS Nigeria sold down to local investors."
+  },
+  "2026-08-24-mtn-growth-outside-south-africa-techcabal": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "MTN's first-half 2026 results put group service revenue up 17.5% in constant currency to R115.3 billion, with the growth concentrated away from home: Ghana, Nigeria, Uganda, Côte d'Ivoire and Cameroon were among the strongest contributors while South Africa managed 1.5%. Data revenue rose 29.2% against 2.4% for voice, the customer base reached 317.7 million, and almost R20 billion of capital expenditure was committed in the half. Nigeria is guided to at least low-20% service-revenue growth and Ghana to the mid-to-upper 30s, against low-to-mid single digits in South Africa."
+  },
+  "2026-08-24-mtn-momo-south-sudan-digital-finance-skills": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "1,225 South Sudanese entrepreneurs have graduated from a year-long digital financial literacy programme run by MTN MoMo with Inkomoko, which paired business guidance and seed funding with training in accepting digital payments, selling airtime and providing cash-in services. UNHCR, the National Chamber of Commerce, the Mastercard Foundation and the Swiss Agency for Development and Cooperation were represented at the graduation."
+  },
+  "2026-08-24-nigeria-fiberone-seven-state-broadband-expansion": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "FiberOne Broadband says it will extend its fibre network into Abeokuta, Edo, Ondo, Delta, Kano and Kaduna before the end of 2026, adding to a footprint in Lagos, Abuja, Port Harcourt, Ilorin and Ibadan. The rollout is paired with community works in Lagos, a free engineering training academy that offers its best trainees employment, and a schools connectivity programme rising from 10 schools in 2025 to 30 in 2026."
+  },
+  "2026-08-24-nigeria-sec-crypto-rules-itweb": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "Nigeria's Securities and Exchange Commission has issued draft rules setting minimum capital at N500 million for digital asset platform operators and real-world asset tokenisation platforms and N200 million for virtual asset service providers, on a N30 million registration fee and a fidelity insurance bond covering at least a quarter of paid-up capital. Operators serving Nigerian residents would have to be locally incorporated with a resident top executive, and no digital asset business could target the market without SEC approval. The article's headline figure of $1.41m does not reconcile with the naira amounts it goes on to give, and is not repeated here."
+  },
+  "2026-08-24-south-africa-icasa-spacex-spectrum-licensing-hearing": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "SpaceX appeared before an ICASA panel on the draft amendments to South Africa's spectrum and spectrum-fee regulations gazetted on 15 May, calling the consultation a marked improvement on the existing regime while pressing the regulator over its delay in licensing the operator. Its pointed request was that ICASA say how the minimum 30% equity stake for historically disadvantaged groups applies to the new gateway and user-terminal licence categories. The source dates the hearing only as “last week”, which places it in the week of 17–21 August without establishing a day."
+  },
+  "2026-08-24-standard-chartered-women-in-tech-egypt": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "Standard Chartered Foundation, Entlaq and Village Capital have opened a second Egyptian cohort of their Women in Tech Accelerator, taking 12 women-led technology start-ups through investment-readiness training and mentorship, with USD 35,000 in equity-free grants to be split between three of them at the close. The 2025 first cohort drew 240 applications and backed 11 start-ups; Entlaq's Women in Entrepreneurship Report 2025 puts the funding gap facing Egyptian women founders at an estimated USD 2.2 billion."
+  },
+  "2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity": {
+    "published": "2026-08-24",
+    "written": "2026-08-24",
+    "summary": "Zanzibar's president Hussein Ali Mwinyi was briefed on TTCL's connectivity work at the state operator's pavilion during the Kizimkazi Festival, covering the National ICT Broadband Backbone's rollout across the islands, the Faiba Mlangoni Kwako fibre-to-the-home service and the National Internet Data Centre's cloud and colocation offering. It is a courtesy visit rather than an announcement: no new investment, target or date is attached to any of it."
   }
 }
