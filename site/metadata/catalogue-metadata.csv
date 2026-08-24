@@ -1,16 +1,16 @@
-﻿slug
-title
-publisher
-author
-published
-date_precision
-places
-topics
-entities
-lens
-body_completeness
-finance
-artefact
-words
-ingested
-url
+﻿published,The date the document was published
+ingested,The date the document was added to Corpus
+title,Title of the document
+publisher,Publisher
+author,"Author, where known"
+places,iso-3 codes for the countries and/or regions covered
+topics,Ids for the Corpus taxonomy used to classify documents. See 
+entities,Tag ids for organisations or people regularly referenced in documents
+words,The length of the document in word count
+finance,A flag indicating whether the document deals with financing
+url,The public url of the original document
+slug,The is of the metadata record in Corpus
+date_precision,"Whether the published date is precise to day, month or year"
+lens,
+body_completeness,
+artefact,
