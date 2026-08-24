@@ -51,7 +51,7 @@ Amnesty International. Doğu Asya Araştırmaları Dergisi	2518
 André Ullrich and Douglas A. Parry	4127
 Angola Strengthens Maritime Domain Awareness	9399
 Anicet Georges Dologuele	4539
-Appraisal-Stage Project Information Document.	1704
+Appraisal-Stage Project Information Document	1704
 Approval. This Document	3503
 Architecture Documentation	5665
 Archivage des Données	9277
@@ -63,14 +63,14 @@ Assistant Director of ICT Dominic Bao	9965
 Associated Unsecured. Donor	1818
 Associação Moçambicana de Doenças Raras	10188
 Assurance Qualité des Données	2625
-Authentication of Documents’	585
+Authentication of Documents	585
 Authorized PROJECT APPRAISAL DOCUMENT	3604
 Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29
 Autorité de Protection des Données Personnelles	1231,759,2807,1026,916,2007
 Autorité de Protection des Données Personnelles. Les	5546
 Autorités de Protection des Données	6252
 Autorités de Protection des Données Personnelles	5842
-Availability of Documents.	7198
+Availability of Documents	7198
 Avenida Professor Doutor Cavaco Silva	4938
 Aviation Civile Internationale Doc	2465
 Aya Douabou	9162
@@ -87,7 +87,7 @@ BRILLIAN DOCTORS PLAZA HOSPITAL Data Controller	7167
 Bahamas and Dominica	9786
 Bamenda. Hon Donald Malomba Esembe	2319
 Benvinda Levi. Documento	2866
-Bidding Document.	8166
+Bidding Document	8166
 Billion US Dollars	5903
 Board Documents	9915,77
 Boost Domestic Revenue PPDA Suspends	3955
@@ -130,7 +130,7 @@ Caractère Personnel. Autorité de Protection des Données	1325,690,2140
 Care Domain	1009
 Care Record CDA Clinical Document Architecture	1009
 Catherine and Donatienne	3852
-Ceiling. Knowledge Doesn't.	10078
+Ceiling. Knowledge Doesn't	10078
 Center Deal Doha Dubai	5322
 Center for Doctoral Studies	2422
 Centrafrique Doubler	1806
@@ -203,12 +203,12 @@ D. G DE FORM. DOCENTE	4209
 DATE CONFLICT PRINTED IN THE DOCUMENT	442
 DATE CONFLICT PRINTED ON THE DOCUMENT	739
 DCCF RELATIF AUX DÉPÔTS DES DOSSIERS	9976
-DE GOUVERNANCE DES DONNEES Art.	4403
+DE GOUVERNANCE DES DONNEES Art	4403
 DECLASSIFICATION DES INFORMATIONS ET DES DOCUMENTS	113
 DELIVERANCE CHURCH DONHOLM Data Controller INST-1383614E208	7167
 DES DOCUMENTS DE VOYAGE ET D'IDENTITE	1967
 DES DOMAINES	8237
-DES DONNEES Art.	4403
+DES DONNEES Art	4403
 DES INFORMATIONS ET DES DOCUMENTS ADMINISTRATIFS	113
 DES SOURCES DE DONNEES ET DU	785
 DIB-U-EEGISTA DEEQAHA DOWLADDA EE	9583
@@ -278,7 +278,7 @@ DONCA MEDICAL CLINIC Data Controller INST-5671794BF89	7167
 DONE AT ADDIS ABABA	762
 DONE BY THE LIBERIA TELECOMMUNICATIONS AUTHORITY	4610
 DONE IN THE CITY OF PAYNESVILLE	10407
-DONNEES A CARACTERE PERSONNEL Art.	436
+DONNEES A CARACTERE PERSONNEL Art	436
 DONNEES FONT L’OBJET D’UN TRAITEMENT Section	436
 DONNEES PERSONNELLES	4867
 DONNÉES Qualité	8637
@@ -395,7 +395,7 @@ Docic	5340
 Dock Labs	6499,44,465,56,47,32
 Docker	2608
 Docker Swarm	6985
-Docket No.	5773
+Docket No	5773
 Docking	7038
 Doclor Nurwe Pharmaollt Pa1110lotlst Clerk	1009
 Docteur	3045,3350,1259
@@ -469,7 +469,6 @@ Document Type	4342
 Document Verification	9431
 Document de Projet	10492
 Document of The World Bank FOR OFFICIAL	1284
-Document.	3502,1
 Document. All	3503
 Document. Any	3502
 Document. Article	3503
@@ -516,18 +515,15 @@ Documents the E&S	1260
 Documents the WARDIP-GB	6269
 DocumentsList	1377
 Documentário	2816
-Dodoma	2867,1,217,1629,1069,5,67,28,10,122,4,64,542,103,193,329,599,15,750,294,241,821,129,361,44,86
+Dodoma	2867,1,217,1629,1069,5,67,28,10,122,4,64,542,103,18,175,329,599,15,750,269,25,241,821,129,361,20,24,86
 Dodoma Akizungumzia	5416
 Dodoma District Commissioner Jabir Shekimweri	10590
 Dodoma Mafunzo	3086
 Dodoma Tanzania. Available	1261
 Dodoma and Arusha. Per	2947
-Dodoma and Zanzibar	6030,716
-Dodoma and Zanzibar.	2867
+Dodoma and Zanzibar	2867,3163,716
 Dodoma and Zanzibar. Liquid	6746
 Dodoma and Zanzibar. Officials	10460
-Dodoma's	10480,110
-Dodoma.	6746,2137
 Dodoma. Ardhi University	8883
 Dodoma. Dr Nungu	9290
 Dodoma. Mfumo	3085
@@ -538,7 +534,7 @@ Doecf	1154
 Doencas	966
 Doenças Tropicais Negligenciadas	10188
 Does AI Sovereignty Actually Mean	9741
-Does Germany’s	6982
+Does Germany	6982
 Does It Mean	10151
 Does It Stand Now	6487
 Does It Take	3907
@@ -546,9 +542,9 @@ Does Mauritius	7252
 Does NAME	582
 Does Nigeria	4045
 Does POPIA Apply	2724
-Does USAID’s	6982
+Does USAID	6982
 Does the NDPA	4861
-Does the U.S.	7750
+Does the U.S	7750
 Doesn't	6432
 Doesn’t. Retrieved	1243
 Dogan	9237
@@ -563,10 +559,9 @@ Doing Business	789,6,1834,770,38,329,55,45,459,408,580,142,234,14,2,102,70,47,21
 Doing Business Cahiers	7655
 Doing Business Portal	6593
 Doing Business. Moçambique	795
-Doing Business’	3437,3942,47
 Doing Business’ Enforcing Contracts	3437,3942,47
 Doing Business’ Getting	3437,3942,47
-Doing Interpretive Research.	5349
+Doing Interpretive Research	5349
 Doing Right and Growth	9102
 Doing for Growth and Doing	10142
 Doing for People	10142
@@ -589,8 +584,7 @@ Dollar-based	9331
 Dollar-pegged	9903
 Dollarisation	9428
 Dollarization	9331
-Dollars	1914,3949
-Dollars.	736
+Dollars	736,1178,3949
 Dollars_	9331
 Dollivest and Dolliveste	9399
 Dolliveste	9399
@@ -601,7 +595,6 @@ Domain	1284,2320,2654,165,116,407
 Domain Compromise	3364
 Domain Controller	34,10687
 Domain Controllers	10721
-Domain Controllers'	10721
 Domain IGs	10100
 Domain Innovation	1009
 Domain Management and Regulation	4487
@@ -623,7 +616,7 @@ Domestic	3,233,482,243,52,230,42,56,436,51,80,154,713,86,722,230,177,270,125,547
 Domestic Capital	7446
 Domestic Consumption Sources	1828
 Domestic Debt Exchange Programme	7695
-Domestic Development Fund.	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,961,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,2249,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Domestic Development Fund	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,961,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,2249,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Domestic Direct Investment	5883
 Domestic Economy	2775
 Domestic Economy Administrative	2775
@@ -642,7 +635,7 @@ Domestic Economy Table	2775
 Domestic Economy Wage Earnings	2775
 Domestic Economy Wholesale	2775
 Domestic Eswatini	2292
-Domestic Excise and Stamp Sales and Duty.	5655
+Domestic Excise and Stamp Sales and Duty	5655
 Domestic Exports1	2775
 Domestic Fixed	2776
 Domestic Fixed Network Traffic	6671
@@ -673,7 +666,7 @@ Domestic Pools Surpass External Flows	5913
 Domestic Product GFCF Gross Fixed Capital	2775
 Domestic Product GHG Greenhouse Gas GNI	6539
 Domestic Product GIPE Government Investment	6946
-Domestic Production of High-Security Credentials Margins’	4791
+Domestic Production of High-Security Credentials Margins	4791
 Domestic Resource Mobilisation Strategy	8358
 Domestic Resource Mobilization	1284,3065
 Domestic Retail Domestic Institutional N'Trillion N'Trillion	6408
@@ -697,10 +690,8 @@ Domiciliary Accounts and Naira Accounts	2841
 Domicílio	8054
 Dominant	236,6598,408,465,276
 Dominant American	5257
-Domination	4259
-Domination’	5044
+Domination	4259,785
 Domingo	4997,333,890,3579,346
-Domingo.	5330
 Domingos Cardoso	5791,1056,233,86,174
 Dominic Cull	5507
 Dominic Edem Hotor	9232
@@ -731,8 +722,7 @@ Don Okoth	10464
 Don Remboursable	235
 Don Remboursable de Natixis	235
 Don Remboursable du Gouvernement	235
-Don Tapscott	6163
-Don Tapscott’s	1243
+Don Tapscott	1243,4920
 Don't	5247,553,458,174,722,290,707,407,1111,84,207
 Donaciones	4209
 Donaciones Interiores	4209
@@ -741,9 +731,7 @@ Donald GONLI	4273
 Donald Gonli	2608
 Donald Kaberuka	562
 Donald Kiirya	6121
-Donald Trump	767,2049,1518,180,521,113,2039,1573,1072
-Donald Trump's	9832
-Donald Trump’s	4127,1089,5513
+Donald Trump	767,2049,1311,207,180,521,113,68,1971,1573,1072,897
 Donate	5044,223,99,52,1069,392,233,35,27,1769
 Donated	34
 Donateurs	1679
@@ -775,7 +763,7 @@ Données Fermées Données Partagées Données Ouvertes	747,1,1236
 Données Mali-Mètre	6959
 Données Personnelles	3356
 Données XML	1984
-Données du HCP.	8891
+Données du HCP	8891
 Données. Par	747
 Donohoe	7397
 Donor	40,650,1,2892,1064,2300,1,661,1790
@@ -788,7 +776,7 @@ Donors Support Civil Society	6948
 Donovan	3791
 Donovan L	3791
 Donzo	9943
-Don’t	582,455,224,425,252,2,4,722,44,8,24,55,23,242,23,1,361,62,249,225,78,38,201,64,23,126,348,229,20,137,169,200,95,97,115,92,99,46,23,133,93,107,15,71,23,138,24,9,204,250,15,46,466,109,1990,838
+Don’t	582,455,224,425,252,2,4,722,44,8,24,55,23,242,23,1,361,62,249,225,78,38,201,64,23,126,348,229,20,137,169,200,95,97,115,92,99,46,23,133,93,107,15,71,23,138,24,9,204,250,15,46,466,109,664,1326,838
 Don’t Automatic Scheduled Upon	1686
 Don’t Call	7777
 Don’t Fence Me	1243
@@ -799,7 +787,6 @@ Don’t Know I-	582
 Don’t Miss Out	3796,1205
 Don’t Miss the Africa Business Convention	4554
 Don’t Want Aid That Runs	6947
-Don’t.	8550
 Doolow	3405
 Doolow Resilience Project	5947
 Door Delivery Pickup Station Order	9984
@@ -808,8 +795,7 @@ Dora Moita	5819
 Dorcas Njoki Ngunju Data Processor INST-378229748F5	7167
 Dorcas Nkomazani	5295
 Doreen Abiero	5276,3488
-Doreen Bogdan-Martin	1634,4631,870,62,31,7,91,343,377
-Doreen Bogdan-Martin.	7174,152
+Doreen Bogdan-Martin	1634,4631,870,39,23,31,7,91,343,377
 Dores Jesus Correia Pinto	430
 Dores Pinto	3601
 Dori Nombre	3396
@@ -824,7 +810,7 @@ Dorothea Kleine	10726
 Dorothy Bisieri Oandah Data Processor INST-944598494D5	7167
 Dorothy Karimi Njiru Data Processor INST-299861EE3E2	7167
 Dorothy Mukasa	3021
-Dorothy Mukasa the Executive Director of Unwanted Witness.	3021
+Dorothy Mukasa the Executive Director of Unwanted Witness	3021
 Dorothy Ssemanda	9041
 Dorsale	1189,3400
 Dorsale Transsaharienne	3967,22,600,417
@@ -841,13 +827,13 @@ Dosso	998,2969,72,5629,486,393
 Dosso. Au	998
 Dossou	766
 Dossou Louis	6252
-Dossou Vincent Sodjinou.	6206
+Dossou Vincent Sodjinou	6206
 Dot Com Zambia PLC	6187
 Dot Com Zambia PLC Chief Executive	6187
 Dot KE Subdomain Registrars	6946
 Dot. Begin	4126
-DotEcon’s	6891
-DotExe Ventures.	4453
+DotEcon	6891
+DotExe Ventures	4453
 Dotación Especial Funcionamiento Ser. Exterior	4209
 Dotación de Fondos	4209
 Dotación de Fondos Especiales	4209
@@ -867,29 +853,25 @@ Dotés	6068
 Dou Al Kaada	8891
 DouIA1	5713
 DouIA2	5713
-Douala	303,36,1026,48,157,236,889,387,75,74,52,15,31,6,77,367,10,196,123,111,106,1499,274,21,281,255,283,651,739,1,27,1,298,358,164,438,1
+Douala	103,200,36,1026,48,157,236,889,387,75,74,52,15,31,6,77,367,10,196,123,111,106,1165,209,125,274,21,281,255,283,651,739,1,27,1,298,358,164,438,1
 Douala Douala Tech Park	3157
 Douala Smart Port	5291
 Douala Workshop Trains SME Support Agencies	5407,676
 Douala and Abidjan	2388
 Douala and Bafoussam	3335,2364
-Douala and Bafoussam.	5699
-Douala's	4108
-Douala-Bonaberi Port.	4108
+Douala-Bonaberi Port	4108
 Douala-Bonabéri	5291
 Douala-Bonabéri. Ce	5291
 Douala-Yaoundé. Ce	4065
 Douala-based	1812
 Douala-centric	6131
-Douala.	103,1310,4077,209
 Douala. Du	9615
 Douala. Il	3724
 Douala. Selon	2393
 Douane	1806,670,4483,2447,607,52,223,113
 Douane. Cet	10401
-Douanes	1305,724,447,515,405,262,591,57,114,1729,126,145,407,1442,404,1192,728,118,1
-Douanes.	5907
-Douanières.	7470
+Douanes	1305,724,447,515,405,262,591,57,114,1487,242,126,145,407,1442,404,1192,728,118,1
+Douanières	7470
 Douar	8891
 Douban	8460
 Doubasso	2342
@@ -897,10 +879,9 @@ Double	2342,5206,1467,1713
 Double Biometric Layer	9390
 Double Floor	9446
 Double Meurtre D'aziz Dabala Et Waly	4960,62,2035
-Double Monetisation of Existing Customers.	6362
+Double Monetisation of Existing Customers	6362
 Double Standard	4258
 Double Tax Agreements	3161,6862
-Double Tax Agreements.	3161
 Double Tax Agreements. ATAF	3161
 Double Taxation Agreements. A DST	3161
 Doubleday Anchor Books. Google Scholar Gran	8460
@@ -932,8 +913,7 @@ Doui Thabet	10021
 Douimis	8797
 Doukari	8604
 Doulicha	8797
-Doumba	5059,3481
-Doumba's	3579,4963
+Doumba	3579,1480,3481,2
 Doumbia Siaka	9716
 Doumbouya	9327,945,260,78
 Doust	8283
@@ -979,7 +959,7 @@ Downloaded	236,7965
 Downloaded Domestic Off Net Minutes	9781
 Downloading	34
 Downloads	2816,3729,2477,40
-Downloads Article Details References Addis Standard.	8671
+Downloads Article Details References Addis Standard	8671
 Downs	7886
 Downs Shoprite Ceres Shoprite Fish Hoek	8999
 Downsized Mass Surveillance	2117
@@ -989,7 +969,6 @@ Dowry	5711
 Doxxing	7712
 Doyen IGE	2966
 Doyin	7446
-Doyin's	7446
 Doynawa	5022
 Dozee	7360
 Doğan	8604
@@ -1041,7 +1020,7 @@ Emerging Technologies C1- Domestic	7548
 Eric Fohlen-Weill Tom Wright Download	8125
 Espinha Dorsal Nacional de Fibra	4436
 Esso Dong Djafalo	10467
-Estate Administrators Dr Douglas Mboweni No.	4896
+Estate Administrators Dr Douglas Mboweni No	4896
 Etat DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
 Etat. Donc	6889
 Etrangers Dossier	3381
@@ -1056,7 +1035,6 @@ FC Kallon Manager Foday Daboh Donates	7814
 FHIR Home Summary Deployment Downloads Artifacts	6666
 FHIR Nomenclature Health Documents Documents	1009
 FR Doc	5773
-FR Doc.	5773
 FUNCTIONINGmobile Does	582
 Federal Negarit Gazette. Done	7538
 Federated Identity. Document Digital	1009
@@ -1069,7 +1047,7 @@ Food Insecurity Domestic Food Production	1828
 Form for Data Capture Remove Metadata and Documents	1009
 Formulation Domestication Monitoring	961
 Foundational Data Domains	3861
-Foundational Data Domains The Policy’s	3861
+Foundational Data Domains The Policy	3861
 Four Documents	10424
 Framework Documents	3861
 Francis Dogo Sam-Yaya	10593
@@ -1106,10 +1084,10 @@ Ghana Domain Name Registry	587,3900,219
 Ghana Domestic Revenue Collection Platform	8368,177
 Ghana Greece Personal Identity Document	10714
 Ghana. Domain	9203
-Global Especial Vivienda Vehículo Domes. Repres.	4209
+Global Especial Vivienda Vehículo Domes. Repres	4209
 Global Fund Now Dominates Zimbabwe Health	6011,985
 Global Trends Shaping Domestic Priorities	4848
-Global Trends Shaping Domestic Priorities Nigeria’s	4848
+Global Trends Shaping Domestic Priorities Nigeria	4848
 Gmail and Docs	3947
 Google Docs	1363
 Governance Document	3503,4544
@@ -1148,14 +1126,14 @@ Home Données	9482
 Hon. Dorothy Ikiara. STATUS OF ROAD	10313
 Hon. James Dorbor Jallah	10550
 Hon. Marc-Alexandre Doumba	8464
-Huawei West Africa President Auguste Dong.	6130
+Huawei West Africa President Auguste Dong	6130
 Huawei. Mamady Doumbouya	10691
 Huawei’s Optical Transmission Domain	3797
 Human Task Document Workflow	1009
 Hundred Million US Dollars	5903
 I. M. DoMrosh. I. M. Doroh	1154
 I. M. Doroh Prof. L. Gwanzura	1154
-I.roMh. Doroh Prof. L. GPrwoaf.nLzu.rGa Ms.	1154
+I.roMh. Doroh Prof. L. GPrwoaf.nLzu.rGa Ms	1154
 ICANN Limitations. RIR Governance Document	3503
 ICAO Doc	2430,35
 ICAO Document	4102
@@ -1170,8 +1148,7 @@ ILO Technical Officer Kossivi Doutowovo	10317
 INTERVIEWED Does NAME	582
 ISBN and DOI	6483
 ITU SG Doreen Bogdan-Martin	7197
-ITU Secretary-General Doreen Bogdan-Martin	1883
-ITU Secretary-General Doreen Bogdan-Martin.	7139,60
+ITU Secretary-General Doreen Bogdan-Martin	1883,5256,60
 Identity Document	8250
 Identity Documents	3602
 Identity Documents and Identification	5533
@@ -1185,7 +1162,7 @@ Instituto Nacional de Saúde Doutor Ricardo Jorge	10188
 Integrated Document Management System	5587,1
 Integrated Population and Secure Documents Management System	2823
 Integration DOA Digital Object Architecture DRC	718
-Inteligência Artificial. Ao Prof. Doutor Eng.	2816
+Inteligência Artificial. Ao Prof. Doutor Eng	2816
 International Journal of Doctoral Studies	9129
 Invitation Documents Documents Add	10235
 Invitation Documents Registration REGISTER HERE Invitations	10235
@@ -1222,6 +1199,7 @@ Joël Dominique Ledaga	6570
 K Hotel de Douala	3779
 KAKOU Dominique	2342
 KE Domain	6671
+KE Domains	6671
 KE Domains SUB-DOMAIN USER Mar-26 Number	6671
 KeHMIS Project Documentation Website. All Rights	10641
 Kenya's Gross Domestic Product	7204
@@ -1229,7 +1207,7 @@ Kenyan Domains	2775
 Kenya’s Domain Name	6946
 Kipkabus Downs Junior School	10313
 Kirsten Donovan	6486
-Korley Klote Asylum Down-Accra.	3386
+Korley Klote Asylum Down-Accra	3386
 Kowoma Marc DOH	7670
 Ksh.4.45 Billion Through the Back Door State	6588
 Kuhifadhi Data Dodoma	6019
@@ -1269,9 +1247,9 @@ Luz Vivienda Vehículo Domest. Repres. Bruto	4209
 Luís Neves Domingos	2816
 Léonard Dossou	2915
 L’Autorité de Protection des Données Personnelles	8746
-M. DMorso.hI. M. Doroh Prof. L.	1154
+M. DMorso.hI. M. Doroh Prof. L	1154
 M. Dominique Kaba	5835
-M. Doroh Prof. L. Gwanzura Prof.	1154
+M. Doroh Prof. L. Gwanzura Prof	1154
 M. Doualeh Saïd Mohamoud. Un	4957
 M. Douglas Carpenter	1189
 M. Doumbia	9716
@@ -1279,6 +1257,7 @@ M. Mamady Doumbouya	3986
 M. R. Domingos	2816
 MANAGEMENT PROFILES Douglas	4896
 MANDAT POUR LA COLLECTE DES DONNEES	785
+MATRIX OF DONORS’ CONTRIBUTIONS	970
 MATRIX OF DONORS’ CONTRIBUTIONS Donor Year	970
 MILLIARDS DE DOLLARS POUR LA MODERNISATION	10476
 MILLION Domestic Courier Traffic Ms	9781
@@ -1290,16 +1269,13 @@ MWh. Domestic	718
 Macroeconomic Impacts of Government Domestic Arrears	1828
 Madoussou Doumbia	7890
 Mali's Autorite de Protection des Donnees	4177
-Mamadi Doumbouya	7901,77,588,761,517,88,455,145,78,83
-Mamadi Doumbouya.	6342
+Mamadi Doumbouya	6342,1559,77,588,761,517,88,455,145,78,83
 Mamadi Doumbouya. Il	7896
 Mamadi Doumbouya. Officials	5713
 Mamady Doumbouya	10379,2,310
-Mamady Doumbouya.	10691
 Management of Dot KE Domain	6946
 Marc Alexandre Doumba	4138,982,2001
 Mark Alexandre Doumba	3032,1,144,134,51,355,408,1118,3059
-Mark Alexandre Doumba.	3717
 Mark Alexandre Doumba. Cette	3362
 Mark-Alexandre Doumba	3311,827,2432,465,939,223,343,1,1
 Mark-Alexandre Doumba. Depuis	6570
@@ -1317,9 +1293,9 @@ Medical Doctor	3791,6196
 Medicine CT Document Metadata Subscription DICOM	1009
 Medicine EMR Document Metadata Subscription EUA	1009
 Member States. Done	7855
-Mensual Mensual Luz Vivienda Vehículo Domest.	4209
+Mensual Mensual Luz Vivienda Vehículo Domest	4209
 Mheshimiwa Dkt. Dotto Mashaka Biteko	2868
-Microsoft Office and Google Docs It’s	6517
+Microsoft Office and Google Docs	6517
 Military Domain	6792,756,670,951
 Minister Mark-Alexandre Doumba	3806,730
 Minister of Local Government Dominique Habimana	3767
@@ -1329,7 +1305,7 @@ Minutes Domestic Mobile	6946
 Mme Nga Ngono Doris Francine	4603
 Moh. Doroh Prof. LP.roGfw. La.nGzuwranzura	1154
 Mohammed Donzo	9943
-Money Cannot Be Downloaded’	8639
+Money Cannot Be Downloaded	8639
 Monitoring System Infrastructure Applications Domain Name	9123
 Monochrome USB Dot	34
 Monsieur Mamadi DOUMBOUYA	9637,1
@@ -1339,14 +1315,13 @@ Monthly Documenting	1988
 Moïse Dossoumou	5546
 Mr. Dominic Bao	2872
 Mr. Dong Wan Koo	10123
-Mr. Dong Wan Koo.	10123
 Mr. Mark-Alexandre Doumba	4536
 Mr. Thiékoro Doumbia	10508
 Ms Doreen Bogdan Martin	958
 Ms Lou Aya Douabou	9162
 Ms. Dorothy Mukasa	3005
 Ms. I. M. Doroh	1554
-Ms. I. M. Doroh Prof. L.	1154
+Ms. I. M. Doroh Prof. L	1154
 Ms. Irene. M. Doroh	1554
 Muriel Dominique Ouédraogo Lefaso.net	5707
 Musk and US President Donald Trump	6183
@@ -1360,7 +1335,7 @@ NCA Director General Rizig Dominic Samuel	4654,2192
 NCC Nigeria and ARTP Senegal. Document	5680
 NITDA and Doballi	2680
 NOUVELLEs DONNÉEs DU HCP	7655
-Nairobi. Don Okoth Don Okoth.	10464
+Nairobi. Don Okoth Don Okoth	10464
 Namibia Shuts The Door On Starlink	6825
 Namibian Dollar	1944,1770
 Namibian Dollar Telecommunication Sector Market Report	1013
@@ -1401,7 +1376,6 @@ Officers Doctors	4260
 Oficina de Tramitación de Documentación de Vehículos	4209
 On-Net Domestic Mobile Voice Traffic	2776
 Online Supplementary Document	1212
-Online Supplementary Document.	1212
 Open Doors Locarno	8755
 Open Doors Porté	8755
 Opening Doors for Zimbabwe’s Gold Producers	8639
@@ -1432,7 +1406,7 @@ Painted Dog Conservation	1554
 Panashe Donzwambeva	2888,32,354,504,1444,877,6,100,680,129,293,115
 Par Arnaud DOUMANHOUN	8163
 Par Dounia Ben Mohamed Après	8140
-Par Parfait Wilfried Douniama.	7345,79
+Par Parfait Wilfried Douniama	7345,79
 Parcels Domestic	6671
 Parfait Wilfried Douniama Notification	1299
 Paschal Donohoe	7397
@@ -1457,21 +1431,17 @@ Pour Mark Alexandre Doumba	3717
 Preamble This Governance Document	3503
 Preparation of Project Documents	1778
 Prequalification Document	1638
-Prequalification Document.	1638
 Prequalification Documents	1638
-President Donald Trump	4447,229,489,122,79,1424,419,1712,106,1041,362
-President Donald Trump’s	5550,967
-President Mamadi Doumbouya	2159,1800
-President Mamadi Doumbouya's	4945
+President Donald Trump	4447,229,489,122,79,184,967,273,419,1712,106,1041,362
+President Mamadi Doumbouya	2159,1800,986
 Presidents Doumbouya	3959
 Presidents Doumbouya and Kagame	4036
 Prima de Domesticidad	4209
 Primas de Domesticidad	4209
 Prischina Dorlicka Poushquine Bianiephe	4135
 Producción de Documentales Cinematográficos	4209
-Prof. Doutor Américo Muchanga	9694
-Prof. Doutor Américo Muchanga.	10140
-Prof. Doutor Eng.	2816
+Prof. Doutor Américo Muchanga	9694,446
+Prof. Doutor Eng	2816
 Prof. Doutor Eng. Lourino Chemane	7736,2404,300
 Prof. Doutor Eng. Lourino Chemane. Na	10140
 Prof. Doutor Engº. Lourino Alberto Chemane	2784
@@ -1497,7 +1467,7 @@ Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
 Project Information Document	761,11,224,197,26,485,549,38,831
 Project Information Documents	5620
-Projet WURI-Benin Donatienne's	3852
+Projet WURI-Benin Donatienne	3852
 Projet de Données Nécessaires	9276
 Proportion of Domestic Electricity Generation	2775
 Proposal for RIR Governance Document	3503
@@ -1523,7 +1493,6 @@ REMEDIES IN CASE OF UNAUTHORISED DONATIONS	3714
 REQUISITE DOCUMENTS	2709
 RIR Governance Document	3502,1,4544
 RIR Governance Document Version	3502
-RIR Governance Document.	8047
 RIR. RIR Governance Document	3503
 RS Cross-Community Cross-Community Document Reliable	1009
 Ransomware Attacks Double	10672
@@ -1602,7 +1571,6 @@ Sistema Integrado de Gestão Documental	4294
 Sistema Nacional de Gestao Documental	570
 Sistema Nacional de Gestão Documental	2434
 Sistema de Emissão de Documentos	2688
-Sistema de Emissão de Documentos.	2688
 Sistema de Gestão de Domínios	1736
 Sistema de Informação de Gestão de Domínios. CV	1736
 Sistema de Nomes de Domínio	6970
@@ -1611,7 +1579,7 @@ Slow Pros Down Next	3279
 Social Tenure Domain Model	1391
 Sonatel. Donc	5022
 Sous Données	747
-South Africa's DocFox and MNDR's	7015
+South Africa's DocFox and MNDR	7015
 South Africa. CEO Brandon Doyle	1054
 South African Passports and Travel Documents Act	5533
 South African Passports and Travel Documents Regulations	5533
@@ -1626,7 +1594,7 @@ Strengthening Domestic Revenue Mobilization	969
 Subdomain Use No. of Domains Percentage	6946
 Sultan de Dosso	10154
 Supporting Documents	6432
-Supporting Documents._.	4439
+Supporting Documents._	4439
 Synthesis Document	9203
 Système Général de Diffusion des Données	3024
 São Domingos	5402
@@ -1658,7 +1626,7 @@ Texte Données	1984
 The... Lifestyle Open Doors	8610
 Thiékoro Doumbia	10500
 Titular de Um Domínio	576
-Tjwao and Doma.	9944
+Tjwao and Doma	9944
 Togo Officiel Documents	8673
 Top Level Domain	576
 Top-Level Domain	2835
@@ -1669,18 +1637,16 @@ U.S. President Donald Trump	5440,3333,1956
 U.S. President Donald Trump and Chinese	8014
 UI Don Calls For Digital Languages	10274
 UN General Assembly. Document	1237
-UN Secretary-General Doreen Bogdan-Martin.	7174
+UN Secretary-General Doreen Bogdan-Martin	7174
 UNHCR Chad Project Lead Mohamed Doumbia	2823
 US Dollar	2775,1123,1349,853,2343
 US Dollar Conversion	3583
 US Dollar. Powering	8265
-US Dollars	1944,8154
-US Dollars.	3132,2442,215,3880,84,207
+US Dollars	1944,1188,2442,215,3880,84,207,138
 US Dollars. Ideal for Civil	5800
 US Dollars. Rather	9878
-US President Donald Trump	4447,1361,454
+US President Donald Trump	4447,766,595,454
 US President Donald Trump and Chinese	10444
-US President Donald Trump’s	5213
 USD United States Dollar	8590
 Un Mamady Doumbouya	10691
 Unit Prices of Principal Domestic Exports	2775
@@ -1691,7 +1657,6 @@ United States Dollar USMCA United States	1243
 United States Dollar-denominated Exit O	4896
 United States Dollars	736,3874,286,1643
 United States Dollars Two Million	4896
-United States Dollars.	4896
 University of Dodoma	8614
 Université de Dosso	3356
 Urban Dominance	6051
@@ -1723,7 +1688,7 @@ WordPress Download Manager JS-triggered	1209
 Working Groups Specifications Document Interoperability	1009
 World Bank Document URL	2889
 World Bank Documents	579,1335,2300,3441
-World Bank Documents API's	980
+World Bank Documents API	980
 World Bank Ease of Doing Business Index	4528
 World Bank Program Appraisal Document	1693
 World Bank Program Document	558
@@ -1743,8 +1708,7 @@ Year-on-Year Off-Net Domestic Mobile Voice Traffic	2776
 Year-on-Year On-Net Domestic Mobile Voice Traffic	2776
 Year-on-Year Total Domestic Mobile Voice Traffic	2776
 Yumnaa Ocks’s Doctorate of Philosophy	8022
-ZA Domain Name Authority	9700
-ZA Domain Name Authority.	10129
+ZA Domain Name Authority	9700,429
 ZIMRA Regional Manager for Domestic Taxes Region	10019
 Zakaria Sawadogo. Docteur	10642
 Zimbabwe Dollars	736,4160

@@ -13,14 +13,13 @@ APN Au	9798
 APPUI AU Des	3396
 AU AI	4689,1605,1819
 AU AI Strategy	5789,1758
-AU AI Working Group.	5302
+AU AI Working Group	5302
 AU Africa Union B2B Business-to-Business BATNA	1243
 AU Agenda	1388,426,597,4586,681
 AU Artificial Intelligence	1257
-AU Assembly	5141,1228
+AU Assembly	5141,1228,773
 AU Assembly Summit	5141
 AU Assembly of Heads of State and Government	7452
-AU Assembly’s	7142
 AU BURKINA FASO Juillet	1801
 AU CAPITAL DE LA SIACE	2342
 AU CHAPITRE DES COMMUNICATIONS	9287
@@ -29,62 +28,52 @@ AU CHAPITRE DES COMMUNICATIONS Sur	8237
 AU CHAPITRE DES MESURES INDIVIDUELLES Le	7843,394
 AU CHAPITRE DES MESURES LEGISLATIVES ET	7843,394,1050,55
 AU CZI ECD GDP HIT HPC	4528
-AU Champion for Artificial Intelligence and Digital Health.	5825
+AU Champion for Artificial Intelligence and Digital Health	5825
 AU Chief AI Scientist	4528
 AU Chief Urges Africa	5910,491
 AU Child Online Safety	1597
 AU Child Online Safety and Empowerment	1597
-AU Child Online Safety and Empowerment Policy.	1814
+AU Child Online Safety and Empowerment Policy	1814
 AU Climate Change and Resilient Development Strategy	1264
-AU Commission	961,282,21,550,108,1136,2034,137,596,544,767,393,663
+AU Commission	961,282,21,333,217,108,1136,1065,969,137,596,544,767,393,663,1277
 AU Commission Chairperson	5302
 AU Commission and Huawei	5302
 AU Commission and UNECA	7529
-AU Commission's	1597,2526
 AU Commission. The Agreement	2117
 AU Commissioner for Infrastructure	7326
 AU Commissioner for Infrastructure and Energy	7326
 AU Commissioner for Political Affairs	7794
-AU Commission’s	9469
 AU Continental AI Strategy	2682,1908,99,353,50,210,556,183,148,78,204,466,15,558
 AU Continental AI Strategy Phase	6937
-AU Continental AI Strategy.	6041
 AU Continental Artificial Intelligence Strategy	4734,1091,469,659,1160
-AU Continental Data Policy Framework	7921
-AU Continental Data Policy Framework.	1779
+AU Continental Data Policy Framework	1779,6142
 AU Continental Data Policy Framework. DPC	1779
 AU Continental Harmonization Strategy	1264
-AU Continental Strategy for SDM.	1264
-AU Continental Strategy's	3859
+AU Continental Strategy	3859
+AU Continental Strategy for SDM	1264
 AU Convention	318,643,1,238,43,21,550,868,347,133,421,3409,556,3172
-AU Convention.	318
-AU Cyber Security Strategy	961
-AU Cyber Security Strategy.	3162
+AU Cyber Security Strategy	961,2201
 AU Cybersecurity and Data Protection Convention	5244
 AU DTS	1264
 AU DTS for Africa	1264
 AU Data	1243
 AU Data Policy	961
-AU Data Policy Framework	961,200,82,124,447,868,376,104,196,237,266,262,301,159,106,613,61,100,623,385,49,338,95,183,393,18,1572,1601
+AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601
 AU Data Policy Framework Simplified Version	3162
 AU Data Policy Framework and Africa Digital	1243
 AU Data Policy Framework and X-Road	10028
 AU Data Policy Framework for Africa. Participation	1161
-AU Data Policy Framework.	1161,82,21,550,2776
-AU Data Policy Framework. African Union.	1243
+AU Data Policy Framework. African Union	1243
 AU Data Policy Framework. Agency	3595
 AU Data Policy Framework. Based	1243
-AU Data Policy Framework. Sierra Leone's	2118
-AU Data Policy Framework’s	1243
+AU Data Policy Framework. Sierra Leone	2118
 AU Declaration of Principles	769
-AU Development Agency- New Partnerships for Africa's	4123
+AU Development Agency- New Partnerships for Africa	4123
 AU Development Agency-NEPAD	5244
 AU Digital Agriculture Strategy	1257,8352
-AU Digital Transformation Strategy	961,282,21,5207,593,169,3487
+AU Digital Transformation Strategy	961,282,21,5105,102,593,169,2376,1111
 AU Digital Transformation Strategy and Agenda	1775
 AU Digital Transformation Strategy for Africa	542
-AU Digital Transformation Strategy's	6369
-AU Digital Transformation Strategy.	9609
 AU Digitalisation Transformation Strategy	1257
 AU Election Observation Mission	5236
 AU Executive Council	961,853,1348,961,611,3354,104,1430
@@ -99,8 +88,6 @@ AU Member States	961,282,571,2309,1121,1227,2691
 AU Member States International Fora	961
 AU Member States Structures PHASE	961
 AU Member States and Regional Organisation	961
-AU Member States.	961,853
-AU Member States’	961
 AU Mission Brussels	1814
 AU NIVEAU DE L’OFFRE	4459
 AU Organs	961,853
@@ -110,7 +97,7 @@ AU Protocol	5878,1800
 AU Regional Internet Exchanges Initiative	578
 AU S- AAGBER	582
 AU SDM	1264
-AU SDM Strategy.	1264
+AU SDM Strategy	1264
 AU STC	9162
 AU SUD DE CASABLANCA-MAROC	8891
 AU Science	1814
@@ -147,8 +134,8 @@ AU and SAA	1264
 AU and SAA PIMs. Component	1264
 AU and SADC	4528
 AU and SADC AI	4528
+AU and Smart Africa	1179
 AU and Smart Africa Alliance	1277
-AU and Smart Africa.	1179
 AU and UNESCO	1965
 AU. Details	1264
 AU. Leading Indicators	4528
@@ -157,9 +144,10 @@ AU_STISA_2025-2034_Strategy_ENGLISH.pdf	6997
 Abidjan AU STC	8865
 Abomey-Calavi. Au	5882
 About the AU Data Policy Framework	4123
-Accelerating AU Member States'	1814
+Accelerating AU Member States	1814
+Activate the AU	3583
 Africa. AU Member States	1814
-African Digital Compact The AU Commission's	1775
+African Digital Compact The AU Commission	1775
 African Union AU Strategy	1243
 African Union Heads of State. The AU	6369
 African Union The AU Data	6520
@@ -246,7 +234,7 @@ Etat. I.7. AU TITRE DU MINISTERE	7670
 Ethiopia AU Commences Validation of Data Governance	4123
 F CFA. Au	3189
 F. AU TITRE DU MINISTERE DE	8321
-FA AU.	1264
+FA AU	1264
 FCFA. Au	3396,2896
 FCFA. Au Nigeria	2280
 FINANCIÈRE DE LA SNDI AU SEIN	2342
@@ -288,10 +276,10 @@ Internet Par ONEP NE Au	8099
 Investissements Au	1682
 Ivoire. Au Niger	4459
 Jovis Omondji Okoth. Au	9758
-Kenya. Ghana. The AU.	6520
+Kenya. Ghana. The AU	6520
 Kinshasa. Au	10291
 Lavanya Choudhary ABBREVIATIONS AND ACRONYMS AU	6539
-Leverage AI for Development AU Member States'	1814
+Leverage AI for Development AU Member States	1814
 Leverage AU Membership	1814
 Linda Bonyo and Rachel Adams. The AU	1814
 Lisa Simrique Singh. Au	5786
@@ -301,8 +289,7 @@ L’UEMOA AU TITRE DE L’ANNÉE	4459
 M. Mathias TRAORÉ. Au	5304
 MESURE INDIVIDUELLE Au	2808
 MESURES INDIVIDUELLES Au	3045
-Malabo Convention and AU Data Policy Framework	6471
-Malabo Convention and AU Data Policy Framework.	1814
+Malabo Convention and AU Data Policy Framework	1814,4657
 Maroc Au	8891
 Media and Information Literacy Policies of AU Member	1814
 Mme Aïssatou Abdoulaye Tondi. Au	8227
@@ -339,7 +326,7 @@ RECOMMANDATIONS LIEES AU METFPA	2966
 RECOMMENDATiONS AU Member States	961
 RECs and AU	1814
 Radio Ergo AU	3405
-Raise AU Member States’	1814
+Raise AU Member States	1814
 Recent AU African Position	1814
 Requests the AU Commission	5825
 Réo. Au	6889
@@ -365,7 +352,6 @@ Strategy. The AU Strategy	1814
 Stéphane Nzeng. Au	8925
 Suisse. Au	8237,1050,55
 Support AU Member States	1814
-Support AU Member States’	1814
 Support for AU ECOWAS and SAA	1264
 Support for AU and ECOWAS	1264
 Sécurité. Au	8322

@@ -10,11 +10,11 @@ Administración Publica Múltiples Nacional	4209
 Administração Nacional de Estradas	1228
 Agencia Nacional de Ciberseguridad	6992
 Agencia Nacional de Desarrollo	9302
-Agencia Nacional de Desarrollo de G.E.	4209
+Agencia Nacional de Desarrollo de G.E	4209
 Agencia Nacional de Desarrollo de Guinea Ecuatorial	1701,2508,3495
 Agencia Nacional de Desarrollo de Guinea Ecuatorial De	4209
 Agencia Nacional de Gestión	4209
-Agencia Nacional de Inversión Privada.	1701
+Agencia Nacional de Inversión Privada	1701
 Agencia Nacional de Investigación Financiera	4209
 Agenda Nacional de Digitalización	10318
 Agência Marítima Nacional	8729
@@ -47,10 +47,8 @@ Autoridade Nacional	10188
 Autoridade Nacional da Segurança Cibernética	6970
 Autoridade Nacional de Comunicações	5404
 Autoridade Nacional de Protecção de Dados	2816,1045
-Autoridade Nacional de Protecção de Dados.	2816
 Autoridade Nacional de Segurança Cibernética	2784,4186
 Autoridade Nacional de Segurança Cibernética de Moçambique	2784
-Autoridade Nacional de Segurança Cibernética.	6970
 Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO IX	6970
 Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO VI	6970
 Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO VII	6970
@@ -81,9 +79,8 @@ COMPUTAÇÃO EM NUVEM Instituto Nacional de Tecnologias	2438
 CONSEJO NAC. PARA EL DESARROLLO ECONÓMICO	4209
 CONSEJO NACIONAL PARA EL DESARROLLO ECONOMICO	4209
 CONSEJO NACIONAL PARA EL DESARROLLO ECONÓMICO	4209
-COORD. GENERAL DE GENERAL DE NAC.	4209
+COORD. GENERAL DE GENERAL DE NAC	4209
 CSIRT Nacional	2784,32,4154,2256
-CSIRT Nacional.	2784,4186
 CSIRT Nacional. SUBSECÇÃO V Operadores de Infra-estruturas	6970
 CSIRT Nacional. SUBSECÇÃO VIII Provedor de Serviços	6970
 Camarade Dr Aboubakar NACANABO	7800
@@ -99,7 +96,6 @@ Centrales Múltiples Nacional	4209
 Centro Nacional	2585,1624,5315
 Centro Nacional Enrique Matala Matomba de Ekuku	4209
 Centro Nacional de Cibersegurança	4146,1,71,5039
-Centro Nacional de Cibersegurança.	4218
 Centro Nacional de Cibersegurança. Por	5272
 Centro Nacional de Cibersegurança. Segundo	4736
 Centro Nacional de Emisión de Documentos Oficiales	1382,2827
@@ -175,8 +171,7 @@ Comisión Nacional de Lucha Contra la Corrupción	4209
 Comisión Nacional de Negociación	8554
 Comisión Nacional de Seguimiento de Coyuntura Macroeconómica	4209
 Comisión Vigilancia Pacto Nacional	4209
-Comissão Eleitoral Nacional	3530,5006
-Comissão Eleitoral Nacional.	5818
+Comissão Eleitoral Nacional	3530,2288,2718
 Comissão Nacional	2953
 Comissão Nacional Eleitoral	6640,3788
 Comissão Nacional da UNESCO	7882
@@ -186,8 +181,8 @@ Comissão Nacional de Fronteiras	5402
 Comissão Nacional de Fronteiras da Guiné-Bissau	5402
 Comissão Nacional de Inteligência Artificial	2816,7735
 Comissão Nacional de Protecção de Dados	1338,742,265
-Comissão Nacional de Protecção de Dados de Cabo Verde.	6568
-Comissão Nacional de Proteção de Dados Av. D.	3079
+Comissão Nacional de Protecção de Dados de Cabo Verde	6568
+Comissão Nacional de Proteção de Dados Av. D	3079
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Comite Nacional de Inclusao Financeira	2138
 Comité Nacional	9065
@@ -215,7 +210,6 @@ Consejo Nacional de Medio Ambiente	1701
 Consejo Nacional de Planificación	1701
 Conselho Nacional	4736
 Conselho Nacional de Cibersegurança	4146,1,71,4662,919
-Conselho Nacional de Cibersegurança.	4146,1
 Conselho Nacional de Electricidade	9226
 Conselho Nacional de Estatística	6619
 Conselho Nacional de Inteligência Artificial	3519
@@ -302,10 +296,9 @@ Estrategia Nacional de Desarrollo Sostenible SISTEMAS DE	1701
 Estrategia Nacional de Desarrollo Sostenible TURBULENCIAS	1701
 Estrategia Nacional de Desarrollo Sostenible V. EJES	1701
 Estrategia Nacional de Seguranca Cibernetica	10440
-Estrategia de Desarrollo Nacional.	1701
+Estrategia de Desarrollo Nacional	1701
 Estratégia Nacional	2125,691,742
-Estratégia Nacional de Cibersegurança	4146,1,71,4662,919
-Estratégia Nacional de Cibersegurança.	3246,900
+Estratégia Nacional de Cibersegurança	3246,900,1,71,4662,919
 Estratégia Nacional de Ciência	2816
 Estratégia Nacional de Desenvolvimento	9694
 Estratégia Nacional de Desenvolvimento da Estatística	6619
@@ -321,7 +314,7 @@ Festival Nacional de Arte	4209
 Festival Nacional de Cine de Guinea Ecuatorial	4209
 Festival Nacional de Teatro de Guinea Ecuatorial	4209
 Finanças. O Instituto Nacional de Tecnologias de Informação	2784
-Fiscalía General Secretario General Comisión Nac.	4209
+Fiscalía General Secretario General Comisión Nac	4209
 Fondo Nacional	4209
 Fondo Nacional de Desarrollo	1701
 Fondo Nacional de Desarrollo FNUAP	1701
@@ -358,7 +351,7 @@ Imprensa Nacional de Moçambique	2816,1458
 Inaugurar Múltiples Nacional	4209
 Incidentes Cibernéticos de Nível Nacional	7736
 Independência Nacional	4040
-Infra-estrutura Nacional de Dados.	2581
+Infra-estrutura Nacional de Dados	2581
 Infra-estruturas Críticas Nacionais	2784
 Infraestructuras de Agua Múltiples Nacional	4209
 Inquérito Nacional de Satisfação	6619
@@ -369,7 +362,7 @@ Instituto Nacional de Conservación	4209
 Instituto Nacional de Enseñanzas Social	4209
 Instituto Nacional de Estadística	8048
 Instituto Nacional de Estadística de Guinea Ecuatorial	4209,6278
-Instituto Nacional de Estadísticas de G.E.	4209
+Instituto Nacional de Estadísticas de G.E	4209
 Instituto Nacional de Estadísticas de Guinea Ecuatorial	4209
 Instituto Nacional de Estatistca ID	9441
 Instituto Nacional de Estatistica ID	9441
@@ -420,7 +413,7 @@ Mapa Nacional de Banda Larga Movel	1526
 Medical Research Council NACI National Advisory	5246
 Medios Informativos Nacionales. Dada	163
 Mercado Digital Nacional de IA	2816
-Mercado Nacional de Comunicaciones Electrónicas.	9543
+Mercado Nacional de Comunicaciones Electrónicas	9543
 Ministerio de Defensa Nacional	6841
 Ministerio de Seguridad Nacional	6841
 Ministre NACANABO. Entre	5304
@@ -436,21 +429,19 @@ Mº SEGURIDAD NACIONAL Cuentas CONCEPTO	4209
 Mº de SEGURIDAD NACIONAL Servicio	4209
 Múltiples Nacional	4209
 Múltiples Nacional Aeropuertos de Malabo	4209
-NACANABO.	5304
+NACANABO	5304
 NACCA	4126
-NACION. AUDITORÍAS PRESIDENTE MISIONES MALABO CONT.	4209
+NACION. AUDITORÍAS PRESIDENTE MISIONES MALABO CONT	4209
 NACIONAL CIBERNÉTICOS Y DE SEGURIDAD LUCHA	4209
 NACIONAL DE ALIMENT. BACHILLER. POLITECNICO DISTRITAL	4209
-NACIONAL Y ACADEMIAS FUERZAS ARMADAS R.	4209
+NACIONAL Y ACADEMIAS FUERZAS ARMADAS R	4209
 NACIONALES DE INVERSIONES	4209
 NACOSTI	2709,1730,3109
 NACOSTI Emerging	7548
 NACOSTI Establish	7548
 NACOSTI National Commission for Science	2775
 NACSA	6355
-NAC’s	7741
 NaCCA	7492
-NaCCA.	7492
 Nac. UNESCO Director General Jefe	4209
 Nacala	3533,6228
 Nacala-Lobito	6775
@@ -463,7 +454,7 @@ Nachiri	9399
 Nachu	10592
 Nacimiento	1701
 Nacionais	2816
-Nacional	4209,1610,643,433,350
+Nacional	2434,1775,1610,643,433,350
 Nacional Adjunto Grupo B Delegado Grupo	4209
 Nacional Adolfo Edjang Nsok Nsomo	4209
 Nacional Sem	6462
@@ -472,11 +463,9 @@ Nacional de Governo Electrónico	2473
 Nacional de Guinea Ecuatorial	4209
 Nacional de Pagamentos	6462
 Nacional de Pagamentos Electrónicos	5169,1293
-Nacional de Pagamentos Electrónicos.	5169
 Nacional de Proteção de Dados	3079
 Nacional de Repoblación Forestal	4209
 Nacional de Riscos Cibernéticos	2784
-Nacional.	2434,4028
 Nacional. Artigo	6462
 Nacional. Local	6462
 Nacional. Operador da Rede	6462
@@ -489,7 +478,6 @@ Naciones Unidas	758,217,726,2508,3839,2439
 Nación	1701,2508
 Nación Ecuatoguineana	1701
 Nación Ecuatoguineana. La Autoridad Tradicional	1701
-Nación.	1701
 Naco Bolote	9222
 Nacoulma	10546
 National AI and NACOSTI	7548
@@ -515,7 +503,7 @@ O Serviço Nacional de Migração	8212
 O Sistema Nacional de Segurança Cibernética	6970
 Observatorio Nacional	1701
 Observatório Nacional de Inteligência Artificial	2816
-Observatório Nacional de Saúde's	966
+Observatório Nacional de Saúde	966
 Oficina Nacional REDD	4209
 Oficina Nacional de Representación	4209
 Oficina Nacional de Turismo	4209
@@ -524,8 +512,7 @@ Ordenes Nacionales	4209
 Ordenes Nacionales Ministro Delegado Diputado Secretario	4209
 Ordenes Nacionales Portavoz Grupo Parlamentario Secretario	4209
 Ordenes Nacionales Secretario de Estado Secretario General	4209
-Orçamento Privativo da Assembleia Nacional	1338,4,747
-Orçamento Privativo da Assembleia Nacional.	2080
+Orçamento Privativo da Assembleia Nacional	1338,4,738,9
 Ousmane Diallo Nacanabo	1950
 Outras Fontes Nacionais	1339,1,1,1,739,2,1,2327,2,1
 PCA da Imprensa Nacional de Cabo Verde	6571
@@ -534,7 +521,6 @@ PNP. La Política Nacional de Población	1701
 POLICIA NACIONAL.- Concepto	4209
 Par SEM Hassan Naciri	8391
 Parlamento Nacional	163,1538
-Parlamento Nacional.	163,1538
 Parlamento Nacional. Esos	9303
 Parlamento Nacional. Los	1701
 Parque Nacional de Malabo	4209
@@ -543,7 +529,7 @@ Parques Nacionales	4209
 Partido Nacional de Salvação de Angola	10428
 Patrimonio Nacional	4209
 País. SUBSECÇÃO III Equipa Nacional de Resposta	6970
-Plan Estadístico Nacional.	1701
+Plan Estadístico Nacional	1701
 Plan Nacional Anual	1701
 Plan Nacional de Cajeros Automáticos	2927
 Plan Nacional de Desarrollo	7703,1
@@ -559,7 +545,7 @@ Plano Estratégico Nacional	7707
 Plano Nacional de Capacitação	1948
 Plano Nacional de Cuidados	1948
 Plano Nacional de Desenvolvimento	438
-Plano Nacional de Digitalização Portuária.	8729
+Plano Nacional de Digitalização Portuária	8729
 Plano Nacional de Frequências	15,2851
 Plano Nacional de Numeração	15
 Plano de Desenvolvimento Nacional	1215,2304,384,391,726,954,2334,952
@@ -574,7 +560,7 @@ Polícia Nacional de Angola	794
 Polícia Nacional de Angola. Artigo	794
 Política Ambiental Nacional	1701
 Política Nacional	1701
-Política Nacional de Cibersegurança.	4147
+Política Nacional de Cibersegurança	4147
 Política Nacional de Governança	3246
 Política Nacional de IA	2816
 Política Nacional de Inteligência Artificial	3519
@@ -583,7 +569,7 @@ Política Nacional de Población PNUD	1701
 Política Nacional de Saúde	7707
 Política Nacional de Segurança Cibernética	795,6941
 Política Nacional de Segurança Cibernética Moçambique	795
-Política Nacional de Vivienda.	1701
+Política Nacional de Vivienda	1701
 Preparação da Realização da Conferência Nacional	2816
 Presidente da Agência Nacional de Protecção	5818
 Presidente da Assembleia Nacional	539,2980
@@ -621,7 +607,6 @@ Red Eléctrica de Múltiples Nacional	4209
 Red Nacional	3179
 Red Nacional Integrada de Transporte	1701
 Red Nacional de Emisoras	4209
-Red Nacional.	3179
 Rede Nacional de Banda Larga	1088,61
 Rede Nacional de Banda Larga. São	2365
 Rede Nacional de CSIRTs	6970
@@ -636,8 +621,7 @@ Reunião Extraordinária da Assembleia Nacional DR Luanda	9705
 Roaming Nacional	2866
 Roaming Nacional Também Pode Beneficiar	9559
 Ruanda A Política Nacional de IA	3519
-Rádio Nacional de Angola	5954,806
-Rádio Nacional de Angola.	5974
+Rádio Nacional de Angola	5954,20,786
 SEGURIDAD NACIONAL	4209
 SOCIAL MILITAR MILITAR MUTILADO NACIONAL MILITAR	4209
 SUBSECÇÃO II Autoridade Nacional de Segurança Cibernética	6970
@@ -656,7 +640,6 @@ Semana Nacional da Estatística. Segundo	4979
 Senhor Presidente da Assembleia Nacional Senhoras	1265,683
 Servicio Geológico Nacional	9303
 Servicio Nacional de Salud	1701
-Servicio Nacional de Salud.	1701
 Serviço Nacional da Contratação Pública	2365
 Serviço Nacional de Contratação	2365
 Serviço Nacional de Contratação Pública. Meick Afonso	6309
@@ -689,8 +672,7 @@ Sistema Nacional de Planificación Territorial	1701
 Sistema Nacional de Protección Social	1701
 Sistema Nacional de Regulação	2816
 Sistema Nacional de Salud	4209
-Sistema Nacional de Saúde	5020,2322,2457
-Sistema Nacional de Saúde.	4754
+Sistema Nacional de Saúde	4754,266,2322,2457
 Sistema Nacional de Segurança Cibernética	6970
 Sistema Nacional de Segurança Cibernética Artigo	6970
 Sistema Nacional de Telecomunicaciones	1701
@@ -699,8 +681,7 @@ Sistema Nacional de Vigilancia	1701
 Sistema Regulatorio Nacional de Medicamentos	4209
 Sistema de Cuentas Nacionales	1701,2508
 Sistema de Segurança Nacional	4146
-Soberania Nacional	4146
-Soberania Nacional.	2816
+Soberania Nacional	2816,1330
 Sociedad El Instituto Nacional de Administración Pública	9524
 Standalone Estratégia Nacional de Saúde Digital	7707
 Strengthen NAC Capacity	10060

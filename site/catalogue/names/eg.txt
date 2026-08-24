@@ -8,7 +8,7 @@ Australia. Egypt	3342
 Avanz Capital Egypt	10264,347
 Avanz Capital Egypt Founded	10264
 B Treasury Bills Interest EGP	5869
-Bank Al Baraka Egypt.	4457
+Bank Al Baraka Egypt	4457
 Bank Al Baraka Egypt. Blnk	6528
 Beyond the Egyptian	6678
 Biometric Update Egypt	5342
@@ -18,21 +18,19 @@ CEO of Vodafone Egypt	5052
 Cameroon Low Low Egypt Conditional Conditional	6593
 Caroline Egesa	6121
 Case of Egypt	226
-Central Bank of Egypt	940,1135,1316,60,506,444,1468,1069,597,1,1203,560,294,31,1041
+Central Bank of Egypt	940,1135,1316,60,506,444,1468,1069,597,1,1203,560,234,60,31,1041
 Central Bank of Egypt Community of African Banking	6938
 Central Bank of Egypt Macroprudential Policy Development	6938
 Central Bank of Egypt Task Force	6938
 Central Bank of Egypt and Afreximbank Sign	4401
-Central Bank of Egypt's	7535,1998
-Central Bank of Egypt.	4401
 Chinese and Egyptian	9238
-Cisco's NCS. Reinforces Egypt's	2309
+Cisco's NCS. Reinforces Egypt	2309
 Co-chair Egriselda López	7320
 Commerce Economy Ecosystem Edtech Egypt Entrepreneurship	5322
 Communauté EGonomique	37
 Connecting Africa Egypt	4974
 Critical Reading of Egypt's E-Government Experience	3271
-Cyprus and Egypt.	1213
+Cyprus and Egypt	1213
 DCDT. The EGDI	1912
 Daily News Egypt	3451
 Data CentersTelecom Egypt	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
@@ -40,7 +38,7 @@ Data Protection. Egypt	4590
 Digital Egypt	1033,869,2056,332,242,810,1416,1431,1111,422
 Digital Egypt Generations	7537
 Digital Egypt Portal	1902
-Drive Digital Economy Growth Egypt’s	6678
+Drive Digital Economy Growth Egypt	6678
 EG-CERT	6569,484
 EG-CERT and Fortinet	7053
 EG.ELC.ACCS.ZS	4127,3986
@@ -49,16 +47,12 @@ EGALITE VENTURES LTD Data Controller INST-487728D552E	7167
 EGALITE VENTURES LTD Data Processor INST-487728D552E	7167
 EGDDS	3968
 EGDI and ITU	6382
-EGDI'	1912
-EGDI's	2529,742
-EGDI.	3042
 EGEE-ICT	350
 EGERTON UNIVERSITY Data Controller INST-2811028BEB0 NAKURU	7167
 EGERTON UNIVERSITY Data Processor INST-2811028BEB0 NAKURU	7167
 EGERTON UNIVERSITY GRADE I-IV STAFF RETIREMENT	7167
 EGERTON UNIVERSITY SACCO SOCIETY LIMITED Data	7167
 EGFAE	4260
-EGFAE.	4260
 EGH Cabinet Secretary Ministry of Information	6432
 EGH Expert Group	582
 EGH PRIME CABINET SECRETARY	4153
@@ -69,13 +63,12 @@ EGM SECURITIES LIMITED Data Controller INST-669464C555C	7167
 EGM of Econet Wireless Zimbabwe Limited	4896
 EGM. All	8939
 EGM. Attendance	4896
-EGM. Because the Company's	8939
+EGM. Because the Company	8939
 EGM. Econet	4896
 EGM. I	4896
 EGNOS	466
 EGP0.50	2657
 EGP20	2657
-EGTC.	1539
 EGTI Expert Group	582
 EGX Chairman Omar Radwan and ITDA Head	10498
 EGX Chairperson Omar Radwan	8770
@@ -97,19 +90,16 @@ Egbedore	10049
 Egbedore LGA	10049
 Egbedore Local Government Area	10049,205
 Egbi and Uzodinma	7907
-Egbi's	7907
 Egbin	10157
 Egbin Power Plant. Egbin	10157
 Egboye	2595
 Egbunike	9129
-Egbunike SMEs.	9129
+Egbunike SMEs	9129
 Egere N	9739
 Egerson	2816
 Egerton University	6946
 Egerton University SACCO Society Limited Data	7167
-Egerton University.	6946
-Egerton-Idehen	10699
-Egerton-Idehen.	5623
+Egerton-Idehen	5623,5076
 Egesa	6121
 Eghovf3BOnoBAQ	5790
 Egieya	8022
@@ -124,7 +114,7 @@ Egline_Samoei	9738
 Eglise	6575
 Egloff	2117
 Egoïsme La	6959
-Egypt	39,122,75,175,23,178,301,36,41,23,25,17,107,81,16,104,271,107,61,12,43,21,12,3,1,8,503,4,50,74,24,50,70,5,37,56,47,26,110,10,97,3,198,5,86,34,38,11,85,29,22,20,2,21,118,122,99,90,73,29,2,16,8,13,6,30,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,60,20,8,2,8,61,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,17,1,1,31,2,108,4,1,59,11,1,36,100,252,43,66,10,1,18,1,1,11,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,94,16,15,58,197,10,50,9,61,143,2,32,139,62,41,24,3,23,99,12,92,53,6,129,90,159,11,103,2,68,1,178,38,49,4
+Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4
 Egypt Adonijah Ndege	3737
 Egypt Aug	3429
 Egypt Bets	6678
@@ -151,7 +141,7 @@ Egypt University of Informatics	1902
 Egypt Ventures. The InfiniLink	4324
 Egypt Vision	1033,8500
 Egypt and Africa. The NTRA	10461
-Egypt and Airtel's	8045
+Egypt and Airtel	8045
 Egypt and Amr Talaat	4628
 Egypt and Cyprus. Making Libya	2837
 Egypt and Djibouti	2677
@@ -159,24 +149,19 @@ Egypt and Eswatini	7536
 Egypt and Eswatini Central Banks Deepen Cooperation	7535
 Egypt and India	9332
 Egypt and Ivory Coast	9733,2
-Egypt and Jordan	6773
-Egypt and Jordan.	3521
-Egypt and Kenya	4972,242,2725
-Egypt and Kenya.	1038
+Egypt and Jordan	3521,3252
+Egypt and Kenya	1038,3934,242,2725
 Egypt and Mauritius	7678
 Egypt and Morocco	2607,4060,1378
 Egypt and Nigeria	4722,480,2402
 Egypt and Orange Egypt	2968,1227
 Egypt and Rwanda	3280
 Egypt and SAP Deepen Ties	5607
-Egypt and South Africa	5623
-Egypt and South Africa.	949,9260
+Egypt and South Africa	949,4674,4586
 Egypt and Tanzania	7506
-Egypt's	161,872,686,175,62,463,429,107,113,203,71,49,60,70,600,103,66,111,95,271,176,31,45,1509,409,460,138,1,1,3,399,140,455,205,89,471,1,171,62,68,23,99,103,2,275,562
 Egypt's AI	6569
 Egypt's CBE	3957,886
-Egypt's DPI	1902,2055
-Egypt's DPI.	2419
+Egypt's DPI	1902,517,1538
 Egypt's East Cairo Logistics Park Data	8045
 Egypt's FRA	4943
 Egypt's Fawry	5869,4209
@@ -198,7 +183,6 @@ Egypt's Startup Charter	9598
 Egypt's University of In-formatics and British	4628
 Egypt's Vision	9598,900
 Egypt--	7548
-Egypt.	2673,669,87,22,132,154,135,278,174,559,89,635,1438,97,283,91,1783,234,257,658,217
 Egypt. About Gebeya Gebeya	8149
 Egypt. About the IDC The Industrial Development	7785
 Egypt. Among	6653
@@ -226,13 +210,12 @@ Egyptian Ambassador	9332
 Egyptian Banking Institute	7535
 Egyptian Banks Company	6938
 Egyptian Charter for Responsible Artificial Intelligence	2958
-Egyptian Currency Printing House.	7536
-Egyptian Exchange	8770,1728
-Egyptian Exchange.	5869
+Egyptian Currency Printing House	7536
+Egyptian Exchange	5869,2901,1728
 Egyptian ICT	4628
 Egyptian Information Technology Institute. Future	7537
-Egyptian Market.	6653
-Egyptian Post’s	5869
+Egyptian Market	6653
+Egyptian Post	5869
 Egyptian Tax Authority	10448
 Egyptian Tax Authority Head Rasha Abdel	10448
 Egyptian Tax Authority. FRA Chair	4943
@@ -246,7 +229,6 @@ Egyptian-Indian	9332
 Egyptian-Indian Joint Trade Committee	9332
 Egyptians	3266,691,1086,1485,2889,688,343,217
 Egyptology_	4432
-Egypt’s	3429,22,873,304,714,265,262,590,69,75,50,25,95,15,209,48,97,934,113,517,64,73,221,268,85,305,105,437,197,28
 Egypt’s Deputy Minister for Digital Transformation	7203
 Egypt’s Financial Regulatory Authority	5869,4395
 Egypt’s ICT	4628
@@ -274,7 +256,7 @@ GPX Egypt	3859
 Gaëlle Matina Egbidi	3821
 GenAI Centre of Excellence and Egypt	8220
 General Manager for Egypt	7516
-Germany and Egypt.	7358
+Germany and Egypt	7358
 Ghana and Egypt	4173,3872,1011
 Government Services Egypt	5342
 Guinea EGDI	3534
@@ -282,18 +264,15 @@ Horn of Africa and Egypt	5138
 Huawei Cloud Strengthens Egypt’s FinTech Ecosystem	6653
 Huawei. Telecom Egypt	10461
 IKEA Egypt	9790
-IKEA Egypt.	9790
-IKEA Egypt’s	9790
 INT. In Egypt	8828
 ITU EGDI	6769
 Identity Card Egypt	10714
 Implement... The Egyptian National Theatre Festival	7322
-Inside Egypt’s	4972
+Inside Egypt	4972
 International Cooperation and Egyptian Expatriates	9299
 Jane Nkechi Egerton-Idehen	5623,5076
 Justice Egonda-Ntende	5422
-Kenya and Egypt	5052,3800
-Kenya and Egypt.	3859
+Kenya and Egypt	3859,1193,3800
 Kenya and Egypt. Algeria	7127
 Libya and Egypt	3306
 Libya and Egypt. The Trans-Saharan Fiber Optic	5006
@@ -303,7 +282,7 @@ MNT-Halan’s EGP	4972
 March. Egypt	7766
 Maroc Egypte Jordanie Koweït Turquie Tunisie	7655
 Mauritius Egypt Rwanda Kenya	9886
-Mauritius and Egypt.	2601
+Mauritius and Egypt	2601
 Merger. At the EGM	8939
 Min Read Telecom Egypt	7425
 Minister of Education Egypt Ms. Awatif Mohamed	2958
@@ -311,14 +290,12 @@ Minister of Supply and Internal Trade. Egypt	9722
 Ministry of Communications and Information Technology Egypt	5607
 Mogadishu HOL Egyptian Troops	3637
 Morocco South Africa Kenya Egypt UMOA	6938
-Morocco and Egypt	4126,1214,1598
-Morocco and Egypt.	5737
+Morocco and Egypt	4126,1214,397,1201
 National Bank of Egypt	4457,2071
-National Bank of Egypt and Banque Misr	10103
-National Bank of Egypt and Banque Misr.	4324
+National Bank of Egypt and Banque Misr	4324,5779
 National E-commerce Strategy for Egypt	226
-Nigcomsat MD Jane Egerton-Idehen.	2294
-Nigeria and Egypt.	5716
+Nigcomsat MD Jane Egerton-Idehen	2294
+Nigeria and Egypt	5716
 Nkechi Egerton-Idehen	5623
 Notice of EGM	4896
 October. Egypt Post	9064
@@ -336,11 +313,10 @@ Rwanda and Egypt	7203
 Rwanda and Egypt Deepen AI Cooperation	7203
 SARB Kenya Egypt Mauritius Cape Verde	6938
 SSA-49. No Egypt	398
-Saudi Arabia and Egypt.	3342
+Saudi Arabia and Egypt	3342
 Series A for Egyptian PropTech	4972
 Seychelles and Egypt	1893
-South Africa and Egypt	6845,1172,835
-South Africa and Egypt.	8033,2044,198,298
+South Africa and Egypt	6845,1172,16,819,1225,198,298
 South Africa. Egypt	3554
 South Sudan Sudan Egypt Morocco East	9616
 South Sudan. Tanzanians and Egyptians	7507
@@ -356,22 +332,19 @@ Telecom Egypt and Nokia	2673
 Telecom Egypt and SubCom	3521
 Telecom Egypt and ZOI	3342
 Telecom Egypt and Zain Omantel International	3342
-Telecom Egypt's	7425
 Telecom Egypt's Regional Data Center Hub	7425
 Telecom Egypt's Regional Data Hub	1956
 Telecom Egypt. Telecom Egypt	10461
-Telecom Egypt’s	10461
 Telecoms Telecom Egypt	10461
 Transfer Secretaries Econet EGM	4896
 Tunisia and Egypt	8828
 UAE and Egypt	9094
 UAE and Egypt. Beyond	9094
-UN EGDI	1890,536,838,111,375,152,64,233,831,89,605,104,1082
-UN EGDI.	2597
+UN EGDI	1890,536,171,667,111,375,152,64,233,831,89,605,104,1082
 UNDP Egypt	1902
 UNICEF Egypt	4767
 URSB and Caroline Egesa	6121
-Uganda and Egypt.	10469
+Uganda and Egypt	10469
 Ugonma Egwuatu	8627
 United Nations’ EG DI	1885
 United Nations’ EGD	1885

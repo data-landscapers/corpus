@@ -16,7 +16,7 @@ ARXIV.2406.15483 Phan	8606
 AU Continental AI Strategy Phase	6937
 AU Member States Structures PHASE	961
 Aayushya Ranjan Phase3 and Sonatel	2827
-Abie Phattie-Jobe and Shikoh Gitau.	5822
+Abie Phattie-Jobe and Shikoh Gitau	5822
 Absa Bank Botswana Regional Head for Physical	9466
 Absa Regional Head for Physical Channels Hazel	9466
 Accelerated Mobile Phone Expansion	3798
@@ -124,7 +124,7 @@ Digital Malawi Program Phase	3072
 Digital Malawi Program Phase I	230
 Digital Pharmacy	9855
 Digital Pharmacy Consultation	9855
-Digital Pharmacy No.	9855
+Digital Pharmacy No	9855
 Digital Pharmacy Platform	9855
 Digital Pharmacy Practice Guideline	9855
 Digital Pharmacy Practice Guidelines	9855
@@ -185,8 +185,8 @@ Goodlife Pharmacy Africa	145
 Goodlife Pharmacy Kenya	145
 Government Infrastructure Phase II	6623
 Government Infrastructure Phase II African Development	333
-Government Infrastructure Project Phase V.	1283
-Governor Dr Phil Mnisi.	4173
+Government Infrastructure Project Phase V	1283
+Governor Dr Phil Mnisi	4173
 Governor Dr. Phil Mnisi	8377
 Guidelines for Digital Pharmacy Services	9855
 Guiding Philosophy	6442
@@ -194,7 +194,7 @@ Guy Philippe Mouyabi	10608
 HUP Pharma	10021
 Health Impact PHC Primary Healthcare	396
 Healthcare and Pharma	9204,332
-Healthcare and Pharmacy.	9430
+Healthcare and Pharmacy	9430
 Healthcare and Pharmacy. The Conference	9420
 HerDigitalFuture Phase Il	9781
 High-Energy Physics	5246
@@ -230,7 +230,7 @@ Indicator Number of PhD	1204
 Infirmier Pharmacie Guérisseur	737
 Infrastructure PDQ International Telecommunication Union PHC	1009
 Infrastructure Project Phase V	1089
-Int J Phys Social Sci.	1261
+Int J Phys Social Sci	1261
 Integrated Food Security Phase Classification	3583
 Integrated Food Security Phase Classification System	3583
 International Pharmaceutical Federation	9855
@@ -251,10 +251,9 @@ KENYA The Pharmacy and Poisons Board	9854
 KOR GHAPOL GEOIND VNMHRV MAR PHPIDN	7655
 KOR PHPPOLGEO INDVNM HRV GHAMARIDN KEN0	7655
 Kabo Phetlhu	10414
-Kamogelo Mowaneng. PIC PHATSIMO KAPENG Botswana's	3761
+Kamogelo Mowaneng. PIC PHATSIMO KAPENG Botswana	3761
 Kash By Phyllis BiroriJohannesburg	7272
-Keabetswe Pheko-Moshagane	10051
-Keabetswe Pheko-Moshagane.	9913
+Keabetswe Pheko-Moshagane	9913,138
 Kenya Bilateral Phase UK FCDO	1466
 Kenya Pharmaceutical Association	9855
 Kenya Pharmaceutical Association MOH Ministry of Health	9855
@@ -326,7 +325,7 @@ National Pharmaceutical Company. The Solar for Health	3385
 National Physical Addressing	1803
 National Physical Addressing Standard	1595
 National Physical Addressing System	3460
-National Registry of Physical Persons.	3852
+National Registry of Physical Persons	3852
 Next Phase of Digital Inclusion Requires	9120
 Nigeria PHC	771
 Ninampongeza Mheshimiwa Dkt. Philip Isdor Mpango	2868
@@ -338,7 +337,6 @@ Offer PhD	958
 Operation Vulindlela Phase	9250
 Operation Vulindlela Phase II	3741,4859
 Operation Vulindlela Phase II Q1	8779
-Operation Vulindlela Phase Two’s	9250
 Operation and Maintenance Phase	1988
 Operation and Maintenance Phase Ensure	1988
 Operation and Maintenance Phase of Agrobusiness Activities	1988
@@ -378,20 +376,19 @@ PHIRASAYPHITHAK	6613
 PHISHING WEBSITE DEFACEMENTS SECURITY BREACH ABNORMAL	9125
 PHM. Tous	2342
 PHMECV	737
-PHONE NO.	2709
+PHONE NO	2709
 PHPIDN0 Coefficient	7655
 PHYLIP	9475
 PHYLogeny Inference Package	9475
 PHYSICAL ADDRESS	2709
 PHYSIQUE	3381
 PIX Captures One-Third of Brazil's Physical Retail	5691
-PNCR Phase II.	3569
+PNCR Phase II	3569
 PROJECT AS PHASE III UNDER	6539
 PSK Pharmaceutical Society of Kenya QMS Quality	9855
 PSK Pharmacology USIU-Africa	9855
 Particle Physics SCOAP	5246
 Ph. D	10
-Ph.D.	10,3644,1080
 PhD Candidate	6487,392
 PhD Fellow	2702,2439
 PhD Information Systems	8603
@@ -406,13 +403,13 @@ PhantomStealer and Vidar. AgentTesla	9830
 Pharaohs	6788
 Phare Coworking	8894
 PharmAccess	186,647
-Pharma	9536
+Pharma	7297,2239
 Pharmaceutical	1988,1873,3590,2509
 Pharmaceutical Ingredients for Africa	9333
 Pharmaceutical Society of Kenya	9855
 Pharmaceuticals	2775
 Pharmaceuticals Regulatory Systems	4349
-Pharmaceuticals and Equipment'	3583
+Pharmaceuticals and Equipment	3583
 Pharmaceuticals and Technologies HTTP Hyper Text Transfer	2775
 Pharmacie	3045,4252,940
 Pharmacie Cabinet	737
@@ -438,9 +435,7 @@ Pharmacy Technicians U.S. Mozambique Mozambique M	4260
 Pharmacy Workers Year U.S. Government	4153
 Pharmacy and Poisons	9855
 Pharmacy and Poisons Act	2709,7145,1
-Pharmacy and Poisons Board	2709,7146
-Pharmacy and Poisons Board's	4153,5701
-Pharma’	7297
+Pharmacy and Poisons Board	2709,1444,5701,1
 Phase	51,3,1,3,1,1,46,16,4,55,1,3,5,3,7,8,20,1,15,1,2,10,3,26,14,2,1,9,4,1,20,2,3,16,2,2,1,57,1,38,43,4,45,1,1,1,82,9,1,1,3,3,5,30,1,26,90,1,52,101,2,8,36,84,65,63,47,25,42,233,32,17,26,10,54,1,63,10,33,4,82,92,139,43,1,134,37,21,164,99,155,46,75,156,14,19,41,30,25,33,363,21,10,64,102,82,666,320,59,36,251,5,48,36,44,101,105,191,21,1,34,13,104,132,16,130,257,10,97,126,272,26,246,325,12,43,332,97,251,251,86,32,32,56,81,10,271,273,273,147,376,160,221,47,127
 Phase Approval FY Indicative	1264
 Phase B	520,65,848,317,97,23,30,87,12,23,208,1106,74,449,1921,1166,35,186,285,742,160,70,166,37,40,254,119,193,339,20
@@ -452,9 +447,8 @@ Phase I The African Development Bank	792,6368
 Phase I and Phase II	128,6818
 Phase I of Malawi National Fibre Backbone	127
 Phase I of Smart Zambia National ICT	59
-Phase I.	302
 Phase I. Representatives	7963
-Phase II	109,84,1,289,416,62,98,95,260,118,22,260,432,4,1471,964,991,179,38,1651,165,254,203,433,1048
+Phase II	109,84,1,289,416,62,98,95,260,118,22,260,432,4,1471,964,991,179,38,136,1515,165,254,203,433,1048
 Phase II African Development Bank	803
 Phase II Bill	1501
 Phase II Contract	8166
@@ -466,10 +460,9 @@ Phase II Plus The RCZ	1154
 Phase II Wood	6029
 Phase II and Phase III	961
 Phase II of AfCFTA	961
-Phase II of Cameroon's	1414
+Phase II of Cameroon	1414
 Phase II of Smart Zambia National ICT	194
 Phase II of Vantage's South Africa	2246,293
-Phase II.	6029,2137
 Phase II. EVENT PHOTOS	7963
 Phase II. Looking	1154
 Phase III	121,241,510,27,160,1101,3516,863,126
@@ -494,10 +487,9 @@ Phase-I Bank of China	311
 Phase1	8606
 Phase1 Group	8606
 Phase113	10157
-Phase132.	10157
-Phase133.	10157
+Phase132	10157
+Phase133	10157
 Phase2	8606
-Phase2.	8606
 Phase2comprisesProcesses5	8606
 Phase3	2827
 Phase3 Telecom	3470
@@ -519,8 +511,7 @@ Phases I-III	1089,61,3323
 Phases Migration Timeline	6432
 Phasing	1257
 Phasing Out the Past	6051
-Phathisani Moyo	2910,350,44,26,199,368,187,111,740,214,240,4,68,1823,98,195,446,10
-Phathisani Moyo.	6616
+Phathisani Moyo	2910,350,44,26,199,368,187,111,740,214,240,4,68,1155,668,98,195,446,10
 Phathiswa Magopeni-Press Council	10729
 Phatudi Kgomo	10102
 Pheeha. SASSA	7500
@@ -555,13 +546,11 @@ Philip Riches KC	1829
 Philip Sauerbaum	961
 Philip Thigo	5239,3022
 Philip Twum	7579
-Philip's	9739
 Philip. Disrupt Africa’s African Tech Startups	9739
 Philipp	6985
 Philippa Coney'. Publication	8074
 Philippe Baudier	7275
 Philippe Baudrier	4707,1229,1,680,590
-Philippe Baudrier.	6617
 Philippe Baudrier. Baudrier	4721
 Philippe Mangou	7805
 Philippe Metzger	7174
@@ -571,8 +560,8 @@ Philippine Identification Card	10714
 Philippine Identification System	10714
 Philippine Statistic Authority. Uh	6985
 Philippine Statistical Authority	6985
-Philippine Statistics Authority.	6985
-Philippines	290,929,1228,211,62,55,172,35,838,268,187,155,245,1,772,464,112,326,21,128,44,70,55,24,157,50,86,23,56,1,46,32,1428,93,327,654,64,642,72,220,71,12
+Philippine Statistics Authority	6985
+Philippines	290,321,608,1228,211,62,55,172,35,838,268,170,17,155,245,1,772,464,112,326,21,128,44,70,55,24,157,50,86,23,56,1,46,32,1428,93,327,654,64,642,72,220,71,12
 Philippines Ericsson	2511
 Philippines Statistical Authority	6985
 Philippines Thailand	2775
@@ -583,7 +572,6 @@ Philippines and Saudi Arabia. South Africa	8208
 Philippines&author	1219
 Philippines' Ninoy Aquino International Airport	4275
 Philippines' PhilSys	10423
-Philippines.	611,3647,2727
 Philippines. Tencent	1140
 Philippines. URL	8991
 Philippines. Uh	6985
@@ -604,7 +592,7 @@ Philosophy and Rhetoric_	5349
 Phiona Nyamutoro	6435
 Phionah Natukunda	3726
 Phiri	5595,437,479,298,1766,368
-Phiri Cawe South Africa’s	5600
+Phiri Cawe South Africa	5600
 Phiri Mambo	8377
 Phishing	1686,1130,2861,2345,1111,664
 Phoca	2779
@@ -621,11 +609,9 @@ Phone Number	8604
 Phone Number Becomes Someone	9738
 Phone and Apple Watch	7303
 Phone and MoMo Sharing Practices	4439
-PhonePe	5124,2472
+PhonePe	5124,1162,1310
 PhonePe and Google Pay	7468
-PhonePe’s	6286
-Phones	34,2742,3987,183,2601,543
-Phones.	4815
+Phones	34,2742,2039,1948,183,2601,543
 Photocopying	7317
 Photocopying Ghana Card	7317
 Photograph	5162,1975,1454,190,469,1284
@@ -640,17 +626,17 @@ Photos Vidéos Autres	4895
 Photoshop	10702
 Photovoltaic	5948
 Photovoltaïque de BOUNDIALI	2342
-Phrank Shaibu.	9400
+Phrank Shaibu	9400
 Phrase Lubega	9102,121
 Phumezo Ntlatywa	10323
 Phuthi Mahanyele-Dabengwa	10212
 Phydelia Abbas	7027
 Phygital	5700
 Phygital Public Infrastructure’ Bridges DPI Theory	5700
+Phyllis	5875
 Phyllis BiroriJohannesburg	3697,1687,800
 Phyllis Kyomuhendo	5875
 Phyllis Wakiaga	9930
-Phyllis’s	5875
 Physical	21,715,487,591,174,3677,14,21,563,803,405,77,1425,10,140,939,533,126
 Physical Access Management	10721
 Physical Address	736,1141
@@ -683,7 +669,7 @@ Physical and Land Use	7548
 Physical and Land Use Plans	7548
 Physicaladdress	736
 Physically	4528,4595
-Physicals for All’	2518
+Physicals for All	2518
 Physician	970
 Physician Assistants Year U.S. Government Liberia	4202
 Physicians	6396
@@ -698,7 +684,7 @@ Plastic Coat Footwear and Shoe Photo-Illustration	6517
 Politique Santé Société Galeries Photos Vidéos	4895
 Portfolio Investment PHC Primary Health Care	2775
 Possessed Photography	5224
-Postal Address Physical Address Fax No.	736
+Postal Address Physical Address Fax No	736
 Pour Philippe Mpalla	8737
 Praia. Phase	8638
 Pre-treatment Phase1comprisesProcesses0	8606
@@ -777,7 +763,7 @@ Standardised XML Phase	8606
 Stanford Encyclopedia of Philosophy	5700
 StoneCo and PhonePe	5124
 Stored for Phase	8606
-Strategic Foundation and Governance Philosophy Zimbabwe’s	4528
+Strategic Foundation and Governance Philosophy Zimbabwe	4528
 Strategic Plan for Pharmaceutical Logistics	4260
 Strengthening Africa's Science Granting Councils Phase	862
 Suame Interchange Phase	8896

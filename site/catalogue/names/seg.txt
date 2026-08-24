@@ -16,7 +16,6 @@ Artur Vera Cruz. Segundo	8536
 Autoridade Nacional da Segurança Cibernética	6970
 Autoridade Nacional de Segurança Cibernética	2784,4186
 Autoridade Nacional de Segurança Cibernética de Moçambique	2784
-Autoridade Nacional de Segurança Cibernética.	6970
 Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO IX	6970
 Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO VI	6970
 Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO VII	6970
@@ -39,11 +38,10 @@ Centro Integrado de Segurança Pública	646,148
 Centro Nacional de Cibersegurança. Segundo	4736
 Centro Nacional de Segurança Cibernética	2784
 Centro de Operações de Segurança	3838
-Ciber Segurança	2089,2321
-Ciber Segurança'	4410,9
+Ciber Segurança	2089,2321,9
 Cidade Segura	8638,1356
 Cidade Segura Project Phase	8638
-Collocation and Infrastructure Sharing Market Segment.	3862
+Collocation and Infrastructure Sharing Market Segment	3862
 Comisión Nac. de Segto. de Coyuntura Macro	4209
 Comisión Nac. de Seguimiento de Coyuntura Macroeconómica	4209
 Comisión Nacional de Seguimiento de Coyuntura Macroeconómica	4209
@@ -62,7 +60,7 @@ Cárcel de Máxima Seguridad	4209
 D.G DE ASUNTOS D.G. DE SEGURIDAD	4209
 D.G DE SEGURIDAD NACIONAL	4209
 D.G DE SEGURIDAD NACIONAL Concepto	4209
-D.G SEG.	4209
+D.G SEG	4209
 D.G. DE DESARROLLO RURAL Y SEGURIDAD	4209
 D.G. DE SEGURIDAD CIUDADANA.- Concepto	4209
 D.G. DE SEGURIDAD Y CLASES PASIVAS.-Concepto	4209
@@ -70,7 +68,6 @@ D.G. DE TRAFICO RODADO Y SEGURIDAD	4209
 D.G. SEG. DE EMPRE. ESTAT. Y	4209
 D.G. SEGURIDAD EXTERIOR	4209
 D.G. URBAN. Y SEG. NORMA	4209
-D.G. URBAN. Y SEG. NORMA.	4209
 DDDC Segole	4083
 DEFENSOR ADJUNTO SEGUNDO	4209
 Delegado Nacional Seguridad	4209
@@ -82,7 +79,7 @@ Director da Divisão de Segurança Cibernética	2784,32
 Divulgação de Riscos de Segurança da IA Crítica	3519
 ESTADO EXTERIOR PRIMERA CEREMONIAS Y SEGURIDAD	4209
 Earth Segment	10407
-Earth Segment Satellite Services.	3641
+Earth Segment Satellite Services	3641
 El Fallah Seghrouchni	8245,231
 Elemento Seguridad Parlamentaria	4209
 Emergências de Segurança	3519
@@ -126,7 +123,6 @@ Instituto Nacional de Seguridad Social	4209,4163
 Institutos Nacionais de Segurança de IA	2816
 Integração de Segu-	539
 Integração de Segurança Pública	539,255
-Integração de Segurança Pública.	539
 Jefe Brigada Inspector de Primera Inspector de Segunda	4209
 Keabetswe Segole	4083,11
 Keabetswe Segole. BoFiNet	5315
@@ -167,7 +163,7 @@ Mobile GSM Segment	3862
 Mobile Segment	3862
 Monsieur Omar Seghrouchni	547,3,18,20
 Mr. Segun Okuneye	8386
-Mrs. Amal El Fallah Seghrouchni.	6140
+Mrs. Amal El Fallah Seghrouchni	6140
 Mº SEGURIDAD NACIONAL Cuentas CONCEPTO	4209
 Mº de SEGURIDAD NACIONAL Servicio	4209
 Mário Oliveira. Segundo	6585
@@ -248,7 +244,7 @@ SEGURANÇA CIBERNÉTICA	2816
 SEGURIDAD	4209
 SEGURIDAD EXTRANJERÍA Y INFORMAC. CRIMINALISTIC INSULAR	4209
 SEGURIDAD NACIONAL	4209
-SEGURIDAD PRESIDENC.	4209
+SEGURIDAD PRESIDENC	4209
 SEGURIDAD REG. CONT. SEGURIDAD SEGURIDAD SEGURIDAD	4209
 SEGUROS Y REASEGUROS.- Concepto	4209
 SPACE SEGMENT	10407
@@ -339,25 +335,21 @@ Seguranca Cibernetica	570
 Segurança	14,1,524,10,245,474,680,489,1,346,32,703,627,128,1389,323,984,978,1310,732
 Segurança Artigo	6462
 Segurança Cibernética	795,1989,32,4154,77,953,2140
-Segurança Cibernética.	2816
 Segurança Cibernética. O	2784
 Segurança Cibernética. Tabela	2816
 Segurança Interna	6970
 Segurança Militar	4147
 Segurança O OE	1265
-Segurança Pública	794,1990
-Segurança Pública.	4274
+Segurança Pública	794,1990,1490
 Segurança Pública. Todos	2784
 Segurança Rodoviária	3899
-Segurança Social	167,3352,556
+Segurança Social	167,3352,556,1646
 Segurança Social Luanda	4075
-Segurança Social.	5721
 Segurança da IA	2816
 Segurança da Informação	2816
 Segurança de Equipamentos	4274
 Segurança de Estado	4147,1064,1759
 Segurança de Redes de Comunicação de Dados	6970
-Segurança.	2784
 Segurança. Artigo	6970
 Segurança. Mais	1265
 Seguridad	163,1538,2508
@@ -367,7 +359,6 @@ Seguridad Parlamentaria	4209
 Seguridad Social	1701,2508,2632,2683
 Seguridad Social Excelentísima	1855
 Seguridad Social Interno	1701
-Seguridad Social.	1701
 Seguridad Socios Económicos	1701
 Seguro	1701,736,1
 Seguro Aviones	4209

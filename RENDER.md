@@ -177,6 +177,12 @@ python scripts/rebuild.py --catalogue                 # BUILD stage 2 + 2b: cata
 python scripts/build-names-index.py --stats           # size profile, writes nothing (from .workroot)
 ```
 
+### Entity display names
+
+`scripts/build-entity-names.py` runs as **BUILD stage 2c**, from the same workroot and over the same bodies, and writes `lookups/entity-names.csv` — a display name for each entity slug, derived by asking which name in a slug's own sources best accounts for it. About 68% of slugs are named; `catalogue.py` prettifies the rest from the slug. The name also joins the search blob, so "National Identification and Registration Authority" finds `nira-uganda`.
+
+**The file is meant to be corrected by hand.** Set a row's `basis` to `hand` and the deriver will never overwrite it. `basis` is otherwise `acronym`, `full` or `partial`, and `sources` is how many of the slug's sources carried the winning name — between them they say how much to trust a row, so a hand pass can start with the weakest. It is Corpus's file, on the same footing as `lookups/taxonomy.csv`: the slugs are OSINT's, how they are written is decided here.
+
 **`outputs/names/` is gitignored; `site/catalogue/names/` is tracked.** The two hold the same 1,889 shards, and tracking both would carry 37 MB twice. The published copy is the one the record needs. `outputs/catalogue/doc-ids.csv` **is** tracked and must stay so — it is the append-only registry that keeps postings stable, and rebuilding it from scratch renumbers every id and rewrites every shard.
 
 **The shards are exempt from §9, and deliberately so.** A published file is never revised because a citation rests on its bytes; nothing cites a shard, and a shard is not a finding but a derived lookup that must track the corpus or it is wrong. So shards are rewritten in place and stale ones are deleted, in both `outputs/names/` and `site/catalogue/names/` — the one place on the site where "never purged" does not apply. Two properties keep that honest rather than merely convenient. Document ids come from `outputs/catalogue/doc-ids.csv`, which is **append-only**, so a slug's id never changes and a shard's bytes move only when its own names move; and both writers compare before writing, so an unchanged shard is not touched and does not appear in the diff. Expect a handful of changed shards per cycle, not nineteen hundred — if a rebuild shows all of them, the id registry has been rewritten rather than appended to, and that is the bug to look for.

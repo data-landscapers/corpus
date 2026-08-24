@@ -21,26 +21,25 @@ CS Ministry of ICT	1245
 CS Murkomen	5711,605
 CS NA Functional	5533
 CS Owalo	1236,2739
+CS Ruku	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265
 CS Ruku Citizen Digital	6192
-CS Ruku's	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265
 CS Sovereign	7774
 CS Sovereign Cable Ship	7774
 CS Treasury. Kindiki	2666
 CS for ICT	6432
-CS for Implementation Plan Defence.	1131
+CS for Implementation Plan Defence	1131
 CS&amp	4706,84,1,3,31,273,1423,655
 CS&author	5242
 CS- Environment	10721
 CS-ISAC	5132
 CS-ISAC CS-ISAC	10721
 CS-ISAC Membership	10721
-CS-ISAC Membership.	10721
 CS-REF Economic and Financial Reform Monitoring Unit	969
 CSA ADVOCATES LLP Data Controller INST-423376E4523	7167
 CSA ADVOCATES LLP Data Processor INST-423376E4523	7167
 CSA Cybersecurity Establishment	4791
 CSA Cybersecurity Service Provider	4791
-CSA Director General Dr. Josiah F.	9211
+CSA Director General Dr. Josiah F	9211
 CSA Director-General Divine Selase Agbeti	10069
 CSA Director-General Dr. Josiah Joekai	4283
 CSA Goes Live	4283
@@ -49,7 +48,6 @@ CSA Rapporteurs	6936
 CSA and EY Ghana	10304,72
 CSA and UNICEF Ghana	9843
 CSA'S STRONG WARNING TO ALL INSTITUTIONS	9728
-CSA's	6936,2275,517,577
 CSA's GH	10304
 CSA-Gh	775
 CSA-UNICEF Initiative	9843
@@ -57,18 +55,13 @@ CSA. Consequently	9728,114
 CSA. Organisations	9728
 CSA. The Authority	10268
 CSA. Under	10268
-CSA’s	9842,227,179
-CSCA.	7777
 CSCA. Note	7777
 CSCAs	7370
 CSCRP	12
-CSCW'	9237
-CSC’s	10252
 CSD Central Supplier Database CSIR Council	5533
 CSD Conseil National de Secours	643
 CSD International Statistical Classification of Diseases	1009
 CSD Minimum Interoperability Standard MHD Multi-Patient	1009
-CSD's	1377
 CSD- R1.2	643
 CSD-JDH	643
 CSD-TEPS	3396
@@ -85,12 +78,11 @@ CSIR Infographic	1938,1
 CSIR Information and Cybersecurity Centre	1940
 CSIR South Africa	5598
 CSIR and NRF	6886
-CSIR's	1938,1,1,6465
 CSIR-INST	4126
 CSIR-INSTI	4126
 CSIR. DO	432,1
 CSIR. The Centre for High Performance Computing	9126
-CSIRT	301,426,273,535,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495
+CSIRT	301,426,273,200,142,89,1,103,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495
 CSIRT Capabilities	5677
 CSIRT Capabilities Strengthening	5677
 CSIRT Computer Security Incident Response Team	6936
@@ -99,7 +91,6 @@ CSIRT Institucional	7736
 CSIRT NCC Technical Task Secured Q2	1777
 CSIRT NCCD	1000
 CSIRT Nacional	2784,32,4154,2256
-CSIRT Nacional.	2784,4186
 CSIRT Nacional. SUBSECÇÃO V Operadores de Infra-estruturas	6970
 CSIRT Nacional. SUBSECÇÃO VIII Provedor de Serviços	6970
 CSIRT Sectorial	6970
@@ -107,15 +98,12 @@ CSIRT da Administração Pública	6970
 CSIRT for The Gambia	1000
 CSIRT-MZ	2816
 CSIRT-improvement	996
-CSIRT.	1200,142,89,1
 CSIRT. New Regulations	4653
 CSIRT. Projecto	3838
 CSIRT.MZ	6970
 CSIRTS	1000,4677,3793
 CSIRTSs	1000
 CSIRTs	961,39,228,307,1281,173,1157,72,435,1024,103,14,1039,103,34,1927,573,1219
-CSIRTs.	6970,1927
-CSIR’s	5533
 CSIR’s USS	6365
 CSIS Africa Program	7588
 CSIS. Artyushina	1243
@@ -136,11 +124,9 @@ CSO Open Days	7784
 CSO Thematic Programme	970
 CSO-Data-governance-620x354.jpeg	6639
 CSO. ER	970
-CSOs Authority.	4126
+CSOs Authority	4126
 CSOs. Civil	789
 CSOs. Four	970
-CSOs’	970
-CSO’s	8513
 CSP CSP CSP	9123
 CSP CSP CSP BCR-	9123
 CSP CSP CSP CCC-	9123
@@ -174,8 +160,6 @@ CSPs MICDE	6432
 CSPs and End User Agreements All	6432
 CSPs and ISPs	3300
 CSPs and MCDAs National Computer and Cybercrime Coordination	6432
-CSPs’	6477
-CSP’s	6432
 CSP’s MICDE	6432
 CSSDOS	7707
 CSSF-funded	861
@@ -190,16 +174,13 @@ CSV. L'API	9480
 CSV. Les	747
 CSV. Vous	747
 CSV23	1984
-CSVs.	1612
 CSWAMZ	10408
 CSWRG	560
 CSilicon	3782
-CSquared	623,62,2499,286,312,77,1385,1321,15,706,1
+CSquared	623,62,2499,286,312,77,1385,1321,15,706,1,738
 CSquared Group	7286
 CSquared and WIOCC	6580
-CSquared's	7286
 CSquared. The Government of Liberia's Network	5244
-CSquared’s	3470,4555
 CSquared’s Group Chief Technology Officer	3470
 CStrauss	5349
 CStudy	5349
@@ -261,7 +242,7 @@ GOK Entities CSPs Entities	6432
 GOK Entities CSPs Identify	6432
 Gambia CSIRT	1000
 Ghanaian CSOs	789
-Ghana’s CSA.	8947
+Ghana’s CSA	8947
 Glo1b.1alTChleouGdloTbranl CsflorumdaTtriaonsformation	10157
 Global Center for AI Governance and CSIS Africa	7588
 Google CSIR Icasa Luzangu Mfupe Paul	6365
@@ -338,7 +319,7 @@ Service Provider CSV Comma-Separated Values CTO	6432
 Service Providers CSR Corporate Social Responsibility	6946
 South Africa. The CSIR	1009
 South African National CSIRT	8897
-Strengthening CSOs'	7784
+Strengthening CSOs	7784
 Study of CSR Engagement	2518
 TECH5 CSO Rob Haslam	1836
 TIMELINES CSP Accreditation Process	6432

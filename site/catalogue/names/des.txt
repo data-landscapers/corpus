@@ -1,5 +1,6 @@
 A- Design-Linked Incentive Number	7548
 A- Design-Linked Incentive Provisions A1- Provisions	7548
+A. SECTEUR DES COMMUNICATIONS ELECTRONIQUES	998
 ABSTRACT Despite	5349
 ACE. Desde	3179
 ACTIVIDADES DESENVOLVIDAS NOS SECTORES PRIVADO	2816
@@ -77,7 +78,7 @@ Agence de Transfert des Technologies Financières	10237
 Agence des Systèmes	2451,184,98,462,1051,1014,2132,1872
 Agence des Télécommunications de Côte	6834,1083
 Agencia Nacional de Desarrollo	9302
-Agencia Nacional de Desarrollo de G.E.	4209
+Agencia Nacional de Desarrollo de G.E	4209
 Agencia Nacional de Desarrollo de Guinea Ecuatorial	1701,2508,3495
 Agencia Nacional de Desarrollo de Guinea Ecuatorial De	4209
 Agenda de Desarrollo	975
@@ -129,7 +130,7 @@ Ausbau des Glasfasernetzes	1533,687
 Austria’s Desert Greener	5948
 Auto-évaluation des Fonctions Publiques	7725
 Automatisation des Fichiers	4924,36
-Automatisation des STAR-UEMOA.	10711
+Automatisation des STAR-UEMOA	10711
 Autorité Malienne de Régulation des Télécommunications	7999
 Autorité Nationale de Sécurité des Systèmes	7668
 Autorité Nationale des Elections	2366
@@ -173,19 +174,18 @@ Banco Africano de Desenvolvimento.AB	9259
 Banco De Desenvolvimento Enfrenta O Desafio	8003
 Banco Nacional de Desarrollo	1701
 Banco de Desarrollo	1701
-Banco de Desarrollo de Guinea Ecuatorial.	1701
+Banco de Desarrollo de Guinea Ecuatorial	1701
 Banco de Desarrollo de Guinea Ecuatorial. Estos	1701
 Banco de Desenvolvimento	8003
 Banco de Desenvolvimento de Angola	144,6708
 Banco de Desenvolvimento de Moçambique	8003
-Banque Centrale des Comores	1854,606,3599,87
-Banque Centrale des Comores.	6045
+Banque Centrale des Comores	1854,606,3585,14,87
 Banque Centrale des Etats	3604,7107
 Banque Mondiale Table des Matières Version	1187
 Banque des Dépôts du Trésor	3396
 Banque des Etats	969,330,4441,155,1368
 Beschleunigung des Wirtschaftswachstums	823
-Best Destination for Business and Investment.	1803
+Best Destination for Business and Investment	1803
 Bol. Des	4589
 Boost Employment for Nigerian Tech Talents Despite	2680
 Bororo. Des	8737
@@ -261,7 +261,7 @@ Centre National des Données Numériques	2266
 Centre de Traitement des Données	4280
 Centres Divisionnaires des Impôts	6163
 Centre’s Design Document	6946
-Challenges Despite Namibia's	5036
+Challenges Despite Namibia	5036
 Chambre des Comptes	8750
 Chambre des Conseillers. Saisine	8891
 Chambre des Représentants	8891
@@ -347,7 +347,6 @@ Conseil des Administrateurs	7655
 Conseil des Ministre. Section Il	37
 Conseil des Ministres	548,199,1,483,350,761,281,115,70,237,146,135,55,15,279,892,1500,1776,394,1050,55,1369
 Conseil des Ministres PRÉSIDENCE DE LA RÉPUBLIQUE	4402
-Conseil des Ministres.	4567
 Conseil des Ministres. Article	1231
 Conseil des Ministres. La	4567
 Conseil des Oulémas	8891
@@ -367,8 +366,7 @@ Coopération des Médias Sino-Africains. Devant	10615
 Correction des Dates	747
 Country Partnership Framework DA Designated Account	1264
 Cour de Répression des Infractions	5478
-Cour des Comptes	1284,398,1714
-Cour des Comptes.	10712
+Cour des Comptes	1284,398,1714,7316
 Cour des Comptes. Article	1231
 Cour des Comptes. Chapitre III	37
 Cover Page Design Desmond Manatsa	520
@@ -397,7 +395,7 @@ DANS TOUS LES MODULATION DES AUDITS	2342
 DCCF RELATIF AUX DÉPÔTS DES DOSSIERS	9976
 DE DESARROLLO GUINEA ECUATORIAL	1701
 DE DESARROLLO SOSTENIBLE	1701
-DE GOUVERNANCE DES DONNEES Art.	4403
+DE GOUVERNANCE DES DONNEES Art	4403
 DE L'ELEVAGE ET DES RESSOURCES HALIEUTIQUES	4402
 DE L'OR ET L'AUGMENTATION DES QUANTITÉS	2342
 DE LA CONFEDERATION DES ETATS DU	1967
@@ -432,7 +430,7 @@ DES DISPOSITIONS GENERALES4 Section	1801
 DES DISPOSITIONS TRANSITDlRES Chapitre	37
 DES DOCUMENTS DE VOYAGE ET D'IDENTITE	1967
 DES DOMAINES	8237
-DES DONNEES Art.	4403
+DES DONNEES Art	4403
 DES Dietary Energy Supply PAGE	2775
 DES DÉPENSES NON ABOUTIES	3396
 DES EAUX ET DE L'ENVIRONNEMENT	2342
@@ -444,7 +442,7 @@ DES ENTREPRISES PUBLIQUES PRÉSENTATION DES VERSIONS	2342
 DES ENTREPRISES SECTEURS PUBLIQUES PRÉSENTATION DES	2342
 DES EXERCICES	3396
 DES FINANCES	2476
-DES FINANCES CHARGE DE L'INDUSTRIE.	6902
+DES FINANCES CHARGE DE L'INDUSTRIE	6902
 DES FREQUENCES RADIOELECTRIQUES	1205
 DES GARANTIES Date	7977
 DES INFORMATIONS ET DES DOCUMENTS ADMINISTRATIFS	113
@@ -487,12 +485,13 @@ DES Scope System Type Binary	7221
 DES Scope System Type Nominal Identifies	7221
 DES TRAVAUX ENGAGES DEPUIS MAI	9277
 DES TÉLÉCOMMUNICATIONS ET DE L’ÉCONOMIE NUMÉRIQUE	2443
+DES UTILISATEURS ET DES OPERATEURS	998
 DES UTILISATEURS ET DES OPERATEURS Traitement	998
 DES VOIES DE RECOURS Section	113
 DESAFIOS DA INTELIGÊNCIA ARTIFICIAL EM MOÇAMBIQUE	2816
 DESAFIOS GLOBAIS DA INTELIGÊNCIA ARTIFICIAL	2816
 DESAI	7167
-DESARR. FOREST..	4209
+DESARR. FOREST	4209
 DESARROLLO SOSTENIBLE	1701
 DESARROLLO TURÍSTICAS Y REGIONAL	4209
 DESCRIPTION OF HOW THE BREACH OCCURRED	2709
@@ -520,8 +519,9 @@ DESIGNEE	4049,1303
 DESIGNWORKS LIMITED Data Processor INST-591994082A1 NAIROBI	7167
 DESIRE RECOVERY AUCTIONEERS Data Controller INST-99861674F95	7167
 DESIRING	4153,64
+DESKTOP SPECIFICATIONS	2779
 DESMA TECH LIMITED Data Controller INST-5793253A546	7167
-DEST Rec.	2966
+DEST Rec	2966
 DESTA	1243
 DESTINY OF HOPE MEDICAL CLINIC Data	7167
 DESTURI	7167
@@ -607,7 +607,6 @@ Desarrollo Sostenible Sistema Tecno-Económico Eje III	1701
 Desarrollo Territorial	1701
 Desarrollo Territorial Agenda Guinea Ecuatorial	1701
 Desarrollo Territorial Sin	1701
-Desarrollo Territorial.	1701
 Desarrollo de Aplicativos	4209
 Desarrollo de Capacidades. Promover la Reforma	1701
 Desarrollo de Singapur	1701
@@ -630,20 +629,20 @@ Describe	1988,1984,1693,128
 Described	2161,1518,825,1834,2042
 Describes	422
 Describing	3405,856,3860,680,328,132
-Describing Liberia's	8574
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,1,1,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,10,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,2,2,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,151,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,8,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,402,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74
+Describing Liberia	8574
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,10,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,151,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,402,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74
 Description ADC	594,2
 Description AFC	240,90,119,593
 Description AFC's Board	4450
 Description AWS	1208
 Description AWS's South Africa Economic Impact	1207
 Description Accelerates	1584
-Description Accelerates Angola's	1770
-Description Accelerates Ghana's	979
-Description Accelerates Kenya's	1201
-Description Accelerates Mozambique's	996
-Description Accelerates Rwanda's	784
-Description Accelerates the Congo Republic's	987
+Description Accelerates Angola	1770
+Description Accelerates Ghana	979
+Description Accelerates Kenya	1201
+Description Accelerates Mozambique	996
+Description Accelerates Rwanda	784
+Description Accelerates the Congo Republic	987
 Description Access Now	1156
 Description Accion Digital Transformation Fund	943
 Description Acheter	1776
@@ -663,16 +662,16 @@ Description AfricaGrow	510,402,1,221
 Description African Development Under Subcomponent	3604
 Description Afrika	694,1
 Description Agence	1291,770,2313
-Description Aggregate of USTDA's	1172
+Description Aggregate of USTDA	1172
 Description Announced	9504
-Description AoJ Computerisation.	1667,977,2996
+Description AoJ Computerisation	1667,977,2996
 Description Appraisal-Stage Project Information Document	1572
 Description Article	1157
 Description Association for Progressive Communications	522,1034
 Description Assurer	3172
 Description At the US	1022
 Description Ausgangssituation	614,1,208,5,224,370,5
-Description Automation.	4101
+Description Automation	4101
 Description Axian Telecom	813,1323
 Description B5-2024	1607
 Description BII	45,1,1,1,194,1,92,274,1,205,1,2,1,231,365,1,1,1,722,1
@@ -697,7 +696,7 @@ Description Component	416,374
 Description Component of FCDO's Somalia Monitoring Programme	650
 Description Components	1003
 Description Comprehensive Integrated ICT Strategy for Africa	187
-Description Computerisation.	1662,12,965,2996
+Description Computerisation	1662,12,965,2996
 Description Concessional	476,6,376,1301,1
 Description Conduct	4485
 Description Connecting	8603
@@ -728,13 +727,13 @@ Description Dairy Association of Zambia Digital Information	295
 Description Das FZ-Vorhaben PROMOGEF	504,399
 Description Das Modul	902
 Description Data Protection And Privacy	1760,1383,3772
-Description Data4Change's	4999
+Description Data4Change	4999
 Description Date Mrs Sheree Shereni	4896
 Description Decree N	302
 Description Deepens	862
 Description Delivers	262
 Description Department of Digital Communications	1672,977,2999
-Description Department of Shared Digital Services.	1673,977,2999
+Description Department of Shared Digital Services	1673,977,2999
 Description Der Verdant Capital Hybrid Fund	692,1
 Description Development	632
 Description Development Fund	2636
@@ -757,7 +756,7 @@ Description Documents	1292,765,2313
 Description Dutch	463
 Description EAIF	516,1,1,196,222,209,1,1,402,1
 Description EBRD Board	1819
-Description ECOWAS's	1177
+Description ECOWAS	1177
 Description EDCF	354,1,281,1,1,212,232
 Description EIB	188,66,218
 Description ENE	1601,1,1,1,1,1,7,2,1,1,1,1278,1,2,1,1,1
@@ -781,7 +780,7 @@ Description Establishes	230,520,243
 Description Evaluation of Swedish	497
 Description Expands	788,411
 Description Expands Digital Opportunity Trust	62
-Description Expands Uganda's	756
+Description Expands Uganda	756
 Description Expansion	1867
 Description Extends RCIP	107
 Description Extends West Africa Regional Communications	221
@@ -791,8 +790,7 @@ Description FMO	198,667
 Description FMO Ventures Program USD	1473
 Description Federal	1406
 Description Federal Ministry of Communications	1545,921,2103
-Description FinDev Canada	1091,3383
-Description FinDev Canada's	263
+Description FinDev Canada	263,828,3383
 Description Financial Sector Deepening Zambia	526
 Description Financing	255,1209,354
 Description Finnfund	197,454,212,229,377
@@ -810,15 +808,14 @@ Description Further	466
 Description GSMA Mobile Industry Leadership	214
 Description German	3604
 Description Goals	1155
-Description Google	673,842
+Description Google	673,1,841
 Description Google CEO Sundar Pichai	776
-Description Google's	674
 Description Google's AI	2209
 Description Government	1732
 Description Government of India Line of Credit	381,307
 Description Grant	464,213,1
-Description Guinea's	1178
-Description Guinea-Bissau's	1180
+Description Guinea	1178
+Description Guinea-Bissau	1180
 Description Helios	887
 Description Hewlett Foundation	495
 Description Huawei	376
@@ -837,13 +834,13 @@ Description Ict Integration In Education	1762,1383,3772
 Description Implementation	852,2311
 Description Improvement	8
 Description Improves	156,10,30,3,28,10,84,105,110,445,1268
-Description Improves Angola's	974
+Description Improves Angola	974
 Description In Kooperation	178
 Description Inclusive	722
 Description Increases	200,6465
-Description Industrial Court-ICT Development.	5644
-Description Information and Communications Technology.	1670,976,1,2998,1
-Description Information and Communications.	1669
+Description Industrial Court-ICT Development	5644
+Description Information and Communications	1669
+Description Information and Communications Technology	1670,976,1,2998,1
 Description Informations-	696,205
 Description InfraCo Africa	1127,400
 Description Intervention	346
@@ -863,47 +860,45 @@ Description LeapFrog Investments and Tana Africa Capital	908
 Description Leveraging	8603
 Description MASSIF	1471
 Description MASSIF USD	1472
-Description MCC's	87,123
+Description MCC	87,123
 Description MCF	385,2,120,1,1,193,207,2,222,407,684
 Description MCF Scholars Program	146,240,317,207
-Description MCWBE Computerisation.	2641,2996
+Description MCWBE Computerisation	2641,2996
 Description MEDUSA	854
-Description MESD Computerisation.	1664
-Description MET Computerisation.	1668,977,2998
-Description MHE Computerisation.	2653
+Description MESD Computerisation	1664
+Description MET Computerisation	1668,977,2998
+Description MHE Computerisation	2653
 Description MIGA	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1
-Description MJCS Computerisation.	2651
-Description MJCS-ICT Development.	5650
-Description MLA Computerisation.	2640,2996
+Description MJCS Computerisation	2651
+Description MJCS-ICT Development	5650
+Description MLA Computerisation	2640,2996
 Description MODERNIZAÇÃO DO ESTADO E DA	1340,743,2330
-Description MSP Computerisation.	1660,977,2995
-Description MTE Computerisation.	2642,2996
-Description MTI Computerisation.	1665
+Description MSP Computerisation	1660,977,2995
+Description MTE Computerisation	2642,2996
+Description MTI Computerisation	1665
 Description MTN Ghana	89,835
 Description MTN Nigeria Communications PLC	925
 Description MTN South Africa	926
 Description Management	804
 Description Maputo Internet Forum	110
 Description Market-centric	625
-Description Maroc Telecom	627,209,1,228
-Description Maroc Telecom's	1441
+Description Maroc Telecom	627,209,1,228,376
 Description Maroc Telecom's Malian	1440
 Description Mastercard	701,836
-Description Mauritania's	1181
+Description Mauritania	1181
 Description Meta	511
 Description Microsoft	388,2135,1981
 Description Mit	383
-Description MoA Computerisation.	1663
-Description MoE Computerisation.	1675
-Description MoF Computerisation.	1661,977,2995
-Description MoH Computerisation.	1666,977,2996
-Description MoHE Computerisation.	5652
-Description MoSA Computerisation.	2654,2999
+Description MoA Computerisation	1663
+Description MoE Computerisation	1675
+Description MoF Computerisation	1661,977,2995
+Description MoH Computerisation	1666,977,2996
+Description MoHE Computerisation	5652
+Description MoSA Computerisation	2654,2999
 Description Mots-clés Fréquence	747
 Description Mozambique	843
-Description Mubadala Investment Company	1136
+Description Mubadala Investment Company	706,430
 Description Mubadala Investment Company LP	1544
-Description Mubadala Investment Company's	706
 Description Multi-Partner Contribution Agreement	1447
 Description Multi-country	802
 Description Multi-donor	886
@@ -935,15 +930,14 @@ Description Number of Shares	4896
 Description O Presidente da República	5046,158
 Description OPHI	206
 Description OPIC	90,57,144,1
-Description OTR Computerisation.	2652
-Description OTR-ICT Development.	5651
+Description OTR Computerisation	2652
+Description OTR-ICT Development	5651
 Description Object	2078,2330,1
-Description Ombuds ICT Development.	5642
+Description Ombuds ICT Development	5642
 Description Omidyar Network	289,1,224
-Description Orange	933,208
+Description Orange	712,221,208
 Description Orange Digital Ventures Africa	515
 Description Orange Money	1142
-Description Orange's	712
 Description Oversees	5186,1,1,1,1,2
 Description Overwhelmingly	1609
 Description PAMSI	1238
@@ -953,9 +947,8 @@ Description PJMF	937,211
 Description PRC0181912	9605
 Description PROGRAMA SISTEMA DE INFORMAÇÃO PARA	1341,743,2330
 Description Paragraph	4164
-Description Partech Africa	391,543,1
+Description Partech Africa	293,98,543,1
 Description Partech Africa and Enza Capital	713
-Description Partech Africa's	293
 Description Partner African	528
 Description PartnerAfrica-Project	2143
 Description Partnership	833
@@ -986,7 +979,7 @@ Description Public	3604
 Description Recettes	2077,2330
 Description Registers	64
 Description Remittance for Development II	1019
-Description Research and Development.	1671,977,2999
+Description Research and Development	1671,977,2999
 Description Review of Electoral Processes	5641
 Description Rockefeller Foundation	392,129,421
 Description Rural Transformation Centres Digital Platform	584
@@ -994,6 +987,7 @@ Description Région Année Valeur Population Gbôklé	747
 Description SIFEM	945,1,1,611,1
 Description SPIDER	93
 Description Science	1756,1384,3772
+Description Second	552,299,429
 Description Section	1285,1,1837,1,1204,56,1
 Description Sector-wide	952
 Description Security	1449
@@ -1013,21 +1007,21 @@ Description Sub-programme	1512
 Description Successor	6754
 Description Support	148,321,129,33
 Description Supports	310,2,52,61,141,426,105,119,252,694,3
-Description Supports Cabo Verde's	583
-Description Supports Cameroon's	773
-Description Supports Chad's	314,1585
+Description Supports Cabo Verde	583
+Description Supports Cameroon	773
+Description Supports Chad	314,1585
 Description Supports Ethiopia	1290
-Description Supports Gabon's	764
-Description Supports Madagascar's	577
-Description Supports Mozambique's	772
-Description Supports Senegal's	1190
-Description Supports Sierra Leone's	997
-Description Supports Somalia's	412
+Description Supports Gabon	764
+Description Supports Madagascar	577
+Description Supports Mozambique	772
+Description Supports Senegal	1190
+Description Supports Sierra Leone	997
+Description Supports Somalia	412
 Description Supports Somalia's ICT	109
-Description Supports Tanzania's	754
-Description Supports Togo's	2047
-Description Supports Western Africa's	1277,4085
-Description Supports the DRC's	1771
+Description Supports Tanzania	754
+Description Supports Togo	2047
+Description Supports Western Africa	1277,4085
+Description Supports the DRC	1771
 Description Supports the Global Financing Facility	63
 Description Swedfund	94,303,551,1,213,1081
 Description TDB	398,552
@@ -1037,7 +1031,7 @@ Description TaxDev	1123
 Description Teraco	1402
 Description The Action	845,232,1,365,9
 Description The Africa Digital Financial Inclusion	4920
-Description The African Union's	1175
+Description The African Union	1175
 Description The April-2026	5660
 Description The Congo Component	117
 Description The Digital Access Programme	649
@@ -1047,7 +1041,7 @@ Description The E-Governance and Public Financial Management	1410,717
 Description The EU	471
 Description The FY2025	2965
 Description The GDD Visibility Tech Sprint	2203
-Description The Gambia's	1179
+Description The Gambia	1179
 Description The Horn of Africa Digital Market	806
 Description The Knowledge Hub	630
 Description The Konza Technopolis	1733
@@ -1059,7 +1053,7 @@ Description The Payment System and Financial Inclusion	175
 Description The Project	1075
 Description The Republic of Cabo Verde	803
 Description The Right	4489
-Description The Smart Africa Alliance's	1182
+Description The Smart Africa Alliance	1182
 Description The Somalia National Statistical Capacity	119
 Description The Strengthening Health Systems and Medical	6594
 Description The Support Programme	7160
@@ -1078,9 +1072,8 @@ Description Two-thirds	5661
 Description UNCDF Better Than Cash Alliance	213
 Description UNCDF Connect Rural Uganda	394
 Description UNCDF Zambia Digital Finance and Services	527
-Description UNDP	1564
+Description UNDP	1563,1
 Description UNDP Inclusive Digital Transformation for Malawi	1562
-Description UNDP's	1563
 Description UNFPA	32
 Description UNICEF	2239
 Description UNICEF Kenya	1164
@@ -1121,7 +1114,7 @@ Description University of Stockholm	20
 Description Update	6423
 Description Verbatim	9039,24,670,429,60,94,16
 Description Visa	1174,1073
-Description Visa Inc.	407
+Description Visa Inc	407
 Description Vodacom Group	733
 Description Vodacom South Africa	957
 Description Vodacom Tanzania PLC	4521
@@ -1142,7 +1135,6 @@ Description of Offences	2775
 Description of Process	1778
 Description of SEP	1778
 Description of Use	34
-Description.	3972
 Description. Recording	4455
 Descriptions	5773
 Descriptive	2948,5428
@@ -1196,7 +1188,7 @@ Desenvolvimento de IA	2816
 Desenvolvimento de Infra-estruturas	3519
 Desenvolvimento de Infra-estruturas Tecnológicas	2816
 Desenvolvimento de Produtos	2816
-Desenvolvimento. Analytics Insight.	2816
+Desenvolvimento. Analytics Insight	2816
 Desenvolvimento. Artigo	167
 Desequilibrios	1701
 Desertification	1988
@@ -1208,7 +1200,7 @@ Design Document	6946
 Design Efficiency Ratios	9123
 Design Engineering and Manufacturing Solutions	3760
 Design HIV	1988
-Design Kernel Theories and Principles.	5700
+Design Kernel Theories and Principles	5700
 Design Ltd	717
 Design Model	8603
 Design Partnership Architects	2342
@@ -1217,7 +1209,7 @@ Design Science Research	7759,1369
 Design Seven	10157
 Design Theory for Dynamic Complexity	5700
 Design University of Fort Hare	9128
-Design and Access for Large Information Spaces.	5700
+Design and Access for Large Information Spaces	5700
 Design and Methodology	2775
 Design and Modelling	2816
 Design for Greater Efficiencies	1264,2340
@@ -1225,9 +1217,8 @@ Design for Greater Efficiencies High Multinational School	3604
 Design of Digital Financial Infrastructure	5700
 Design of International Trade Agreements	1243
 Design&author	2096
-Design'	4790
 Design-Build-Finance-Operate-Transfer	10603
-Design-English-13.03.pdf.	1264
+Design-English-13.03.pdf	1264
 Design11a.6tioDneosf	10157
 DesignModelforaLiveHealthcareConsoleversion0.1	8603
 DesignModelforaLiveHealthcareConsoleversion0.2 Figure	8603
@@ -1235,10 +1226,9 @@ DesignModelforaLiveHealthcareConsoleversion1.0	8603
 Designada Autoridade Reguladora	4274
 Designate	1000,777,37,174,689,47,1137,1816,1932,2548
 Designated	6900,167,2771
-Designated Account	1264,603,1022
+Designated Account	1264,603,1022,3650
 Designated Account A for Components	3604
 Designated Account DPI Development Committee Paper	3604
-Designated Account.	6539
 Designated Accounts	6539
 Designated CISO	10721
 Designated GC-C.S1	10721
@@ -1260,7 +1250,7 @@ Designation of Regulated Data	10157
 Designação	9799
 Designação Descrição	2816
 Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339
-Designee's	22
+Designee	22
 Designer	2668
 Designer de Convivência Humano-Máquina	2816
 Designers	1988,828,6307
@@ -1289,6 +1279,9 @@ Desktop Tablet	582
 Desktops	34
 Desktops TBA	1988
 Desktops for Ministers	2779
+Desktops for Non-Technical Staff	2779
+Desktops for Primary Schools	2779
+Desktops for Technical Staff	2779
 Desludging	1988
 Desmarest	2093
 Desmond Anele Gumbochuma	2920
@@ -1306,24 +1299,23 @@ Despesa	1339,1,1,1,739,2,1,5,1578,744,2,1,5,36,102,84,371,90,1089
 Despesas	167,1175,2247,78,551,2207,1456
 Despesas de Funcionamento	4129
 Despite	11,162,63,79,256,16,131,18,30,5,18,110,62,8,1,242,7,42,3,290,31,52,166,11,4,6,4,23,16,20,16,22,19,28,16,6,3,96,19,5,145,31,14,32,28,16,76,53,26,48,40,51,1,24,7,17,1,18,28,4,53,9,18,31,31,29,10,48,9,20,68,28,1,42,10,14,27,29,129,22,8,43,116,6,5,3,18,6,15,66,23,60,8,77,2,37,129,28,3,27,4,32,5,1,5,1,42,29,3,8,4,16,64,101,25,7,1,6,75,41,54,31,13,23,2,3,9,34,85,16,15,33,30,11,17,23,18,45,16,8,107,24,46,24,2,1,2,69,5,26,16,44,13,11,19,7,4,24,9,3,1,31,4,16,46,11,21,28,20,25,65,9,26,15,16,23,18,40,1,10,99,29,4,30,15,3,30,15,8,48,8,3,47,63,8,4,2,13,34,3,84,4,40,22,34,4,6,64,15,6,3,40,22,12,39,6,26,35,13,72,2,8,1,1,49,12,64,62,16,21,53,8,9,42,17,36,21,1,68,19,7,40,55,40,107,2,54,2,6,31,13,29,4,73,57,35,21,3,49,8,5,48,12,22,29,9,39,26,16,13,53,22,32,28,12,2,8,7,14,42,60,23,42,22,38,1,4,16,116,28,74,13,20,44,107,25,47,4,32,47,32,15,35,33,20,133,8,2,54,23,38,13,5,7,18,8,11,22,24,70,92,9,13,26,22,55,16,41,9,14,19,17,66,23,71,2,66,2,71,8,39,86,29,38,29,11
-Despite Africa's	8263
+Despite Africa	8263
 Despite BEE	9935
 Despite Budget Constraints	965,3804,120,206,68,334,86
-Despite China's	10430
-Despite Crawford's	6776
+Despite China	10430
+Despite Crawford	6776
 Despite European	6477
 Despite Everything If Nigerian	5200
 Despite Expanding Tech Ambitions.md	4159
-Despite Ghana's	8724
-Despite Ghana’s	6936
+Despite Ghana	6936,1788
 Despite M-PESA	4605
 Despite Sierra Leone's Internet	6063
-Despite Starlink's	1887
-Despite Tanzania’s	2857
-Despite Touadéra's	2378
-Despite the DIS’s	8320
+Despite Starlink	1887
+Despite Tanzania	2857
+Despite Touadéra	2378
+Despite the DIS	8320
 Despite the Ebola	10302
-Despite the GRZ’s	1867
+Despite the GRZ	1867
 Despite the Ghana Card	1367
 Despite the Statutory Instruments Act	11
 Despite the Trump	7750
@@ -1333,7 +1325,6 @@ Despitetheseenablingconditions	8602
 Despitethis	8602
 Desporto	539,726,4721
 Desportos	539,2707,273
-Desportos.	539
 Desportos. Resolução	539
 Desposits	10209
 Después	1701,7602
@@ -1516,8 +1507,8 @@ Estrategia Nacional de Desarrollo Sostenible SISTEMAS DE	1701
 Estrategia Nacional de Desarrollo Sostenible TURBULENCIAS	1701
 Estrategia Nacional de Desarrollo Sostenible V. EJES	1701
 Estrategia de Desarrollo	1701
-Estrategia de Desarrollo Autónomo.	1701
-Estrategia de Desarrollo Nacional.	1701
+Estrategia de Desarrollo Autónomo	1701
+Estrategia de Desarrollo Nacional	1701
 Estrategia de Desarrollo Sostenible	1701
 Estrategia de Desarrollo Sostenible de Guinea Ecuatorial	1701
 Estrategia de Desarrollo Territorial	1701
@@ -1531,7 +1522,8 @@ Etudes Approfondies DESS Diplôme	12
 Etudes Bancaires Direction des Enseignements	10237
 Euromed des Conseils	8891
 Evaluation des Politiques Publiques	4599,1146
-Evidence for Usercentric Design. Springer.	2096
+Evidence for Usercentric Design. Springer	2096
+Evolution des Emplois	998
 Evolution des Emplois BANDE PASSANTE INTERNATIONALE	998
 Evolution des Investissements	998
 Examen des Dossiers Programme Résultats	3396
@@ -1590,7 +1582,7 @@ GDP. Despite	9852
 GENERIC SYSTEM DESCRIPTION Global	2913
 GESTION DES RISQUES	2342
 GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE	1701
-GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE IV.	1701
+GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE IV	1701
 GOUVERNANCE DES DONNEES SANITAIRES AU SENEGAL	7804
 GOUVERNANCE OPÉRATIONS EN CAPITAL SIGNATURE DES	2342
 GRAL. DESERVICIOS.- Concepto	4209
@@ -1665,7 +1657,7 @@ IHE Profile IHE Profile Description	1009
 II. DESCRIPTION OF ADDITIONAL FINANCING	1284,1605
 II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180
 II. ESTRATEGIA GLOBAL DE DESARROLLO GUINEA	1701
-II. PROJECT DESCRIPTION	969,295,2340,2935
+II. PROJECT DESCRIPTION	969,295,603,1737,2935
 II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935
 II. RAPPEL DES OBJECTIFS ET RESULTATS	2966
 III. DEROULEMENT DES TRAVAUX DE LA	2966
@@ -1771,7 +1763,7 @@ LA SODEMI Le Conseil des Ministres	2342
 LABELLISATION DES STARTUPS	4567
 LANADA. Le Conseil des Ministres	2342
 LE GOUVERNEMENT MINISTÈRE DES FINANCES	7470
-LEGAL Legal Covenants Sections and Description I.	3562
+LEGAL Legal Covenants Sections and Description I	3562
 LEGAL Legal Covenants Sections and Description KOE	6539
 LEGAL Legal Covenants Sections and Description Schedule	3604
 LISTE DES ACRONYMES	737,3722
@@ -1779,6 +1771,7 @@ LISTE DES ACRONYMES ASMAB Association	4459
 LISTE DES ACRONYMESvii REMERCIEMENTS L	7655
 LISTE DES ENCADRÉS ENCADRÉ	10712
 LISTE DES EQUIPEMENTS HOMOLOGUES N	998
+LISTE DES FIGURES	737
 LISTE DES FIGURES Figure	737,9975
 LISTE DES GRAPHIQUES	4459
 LISTE DES GRAPHIQUES Graphique	4459
@@ -1950,7 +1943,6 @@ Ministère des Affaires Sociales	3351
 Ministère des Eaux	3045
 Ministère des Enseignements	2966
 Ministère des Finances	969,315,13,3,3,1,1,1,1,1,1,1,1,367,274,3,72,1,1,1,1,1,1,1,1,704,69,237,670,420,34,135,1,1,1,1,1,1,1,1,30,21,633,107,368,343,349,738,110,285,1388,2027
-Ministère des Finances'	4342
 Ministère des Infrastructures	1284,2112,2597
 Ministère des Mines	3045
 Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1
@@ -2034,20 +2026,17 @@ ORGANISATION DES JEUX DE HASARD DÉCEMBRE	2342
 OUTRAS DESP. CORRENTES-ORGÃOS EXTERNOS	1338,4,738
 Objective No Reallocations Yes Summary Description	2473
 Objectives The Desk	10157
-Objectivos de Desenvolvimento Sustentável	2816,5066,1378
+Objectivos de Desenvolvimento Sustentável	2816,5066,1378,434
 Objectivos de Desenvolvimento Sustentável da ONU	2816
 Objectivos de Desenvolvimento Sustentável da ONU. Os	8996
-Objectivos de Desenvolvimento Sustentável.	9260,434
 Objetivo de Desenvolvimento Sustentável. Disse	2671
 Objetivos Globales de Desarrollo Sostenible	1701
 Objetivos Globales de Desarrollo Sostenible El Eje	1701
 Objetivos de Desarrollo Sostenible	1701,7180
 Objetivos de Desarrollo Sostenible OIT	1701
-Objetivos de Desarrollo Sostenible.	1701
 Objetivos de Desarrollo Sostenibles	975
 Objetivos de Desenvolvimento Sustentável	2816
 Objetivos de Desenvolvimento Sustentável da ONU. A AI	2816
-Objetivos de Desenvolvimento Sustentável.	2816
 Obligations des Acteurs	746
 Observatoire Marocain des Petites	7655
 Observatoire des Droits	10365
@@ -2230,13 +2219,13 @@ QUIPE DES FORMATEURS La	10237
 Quai des Futurs	3036
 Qualification des Consultants	9744
 Qualité des Services Financiers	6827
-Qualité des Services Financiers du Bénin.	3361
+Qualité des Services Financiers du Bénin	3361
 R Programas de Desarrollo	4209
 RAPPORT ANNUEL SUR L'ÉVOLUTION DES SERVICES	4459
 RAPPORT ANNUEL SUR L’ÉVOLUTION DES SERVICES	4459
 RCA. Pour le Ministre des Finances	1955
 REFERENCE GUIDE STRATEGY DESCRIPTION	6432
-REGEC for Recensement General des Entreprises du Congo.	1828
+REGEC for Recensement General des Entreprises du Congo	1828
 REGULATORY FRAMEWORK DESCRIPTION	1988
 RELATIVE A LA PROTECTION DES DONNEES	436
 RESEARCH DESIGN	1248
@@ -2285,7 +2274,7 @@ RÉSUMÉ DES CHAPITRES SPÉCIAUX DES DERNIÈRES	7655
 Règlement de Passation des Marchés	1649,4334,3356,405
 Règlement des Radiocommunications	5361
 Règlement des Radiocommunications ABBREVIATIONS AFP	5361
-Règlement des Radiocommunications Rec.	5361
+Règlement des Radiocommunications Rec	5361
 Réforme des Finances	10712
 Réforme des Finances Publiques	10400
 Référentiel des Prestataires	8058
@@ -2387,14 +2376,13 @@ Solidarité des Marchés du Bénin BCEAO Banque Centrale	4459
 Sommet des Chefs	2387
 Son Excellence Madame la Vice-Ministre des Finances	7470
 Son Excellence Monsieur le Ministre des Finances	7470
-Son Excellence Monsieur le Ministre des Finances.	7470
 South Africa. Despite	5533
 Spécialiste Passation des Marchés	5370
 Spécialistes des Directions	10237
 Stage Description Number	9237
 Startup Pact and Trade Desk	2871
 Startup. Le Collège des Startups	4567
-Startups Desk.	8008,1459
+Startups Desk	8008,1459
 States. Despite	961
 Statut Responsable Des	2966
 Strategy Description	4528
@@ -2464,7 +2452,7 @@ Thailand’s Destination Thailand	8267
 Theorizing About the Design of Information Infrastructures	5700
 Tier III Design	6419,612,285
 Time-sensitivity Description Strengthening	8603
-Topnet. Despite Tunisie Telecom's	1818
+Topnet. Despite Tunisie Telecom	1818
 Topographie Des	3396
 Traducteur-Interprète. AU CHAPITRE DES COMMUNICATIONS Sur	7843
 Traitement des DNA	3396
@@ -2481,10 +2469,8 @@ UBA. Des	10344
 UI Designers	6832
 UK Age-Appropriate Design Code	6029
 UK’s Age-Appropriate Design Code	7983
-UN DESA	1890,22,471,1133
+UN DESA	1890,3,19,471,1133
 UN DESA Statistics Division	8546
-UN DESA's	1893
-UN DESA.	1912
 UNE GESTION AMÉLIORÉE DES ENJEUX LIÉS	2342
 UNION DES COMORES	5370
 UNION DES COMORES Unité-Solidarité-Développement	3715
@@ -2500,9 +2486,8 @@ Union Internationale des Télécommunications UIT	5361
 Union Nationale des Femmes Djiboutiennes	4402
 Union Socialiste des Forces Populaires	8891
 Union des Banques Arabes	10718
-Union des Comores	743,529,2443,627,44,343,94,703,519,23,2292,926,741
+Union des Comores	743,529,2443,627,44,343,94,703,519,23,2292,926,636,105
 Union des Comores Bureau	3715
-Union des Comores.	9922
 Union des Comores. Elle	743
 Union des Conseils	8891
 Union des MECK	6146
@@ -2547,7 +2532,7 @@ West Africa. Despite	2568
 WhatsApp. Designed	9150
 White Nile and Central Darfur. Despite	6947
 Wirtschaft des Landes	614
-World Bank Data Help Desk.	10714
+World Bank Data Help Desk	10714
 World Bank Environmental and Social Standards Description	1988
 World's Best-Must-Visit Destination	3760
 X Responsable des X	1984

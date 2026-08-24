@@ -34,7 +34,6 @@ C17708 Massra Mohamed Lamin Sabeima	1183
 C19968 Khadijetou Mohamed Fadel Aghdhafna Cheikh	1183
 CEO Abdi Mohamed	8041
 CEO Ahmed Mohamud Yusuf	1998
-CEO Ahmed Mohamud Yusuf.	1998
 CEO Mohale Ralebitso	5052,1660
 Central Bank Governor Abdirahman Mohamed Abdullahi	8024
 Chairman and Chief Executive Officer Moh Damush	6185
@@ -49,7 +48,7 @@ Communications Minister Mohamed Adan Moalim	3637
 Communications Minister Mohamed Aden Mohamud Ali	3774
 Communications Minister Sidi Mohamed Raliou	2569
 Continue Hon. Fatuma Mohammed	10313
-Current MOH's	1219
+Current MOH	1219
 DCI DG Amin Mohamed	10398
 DCI Director Mohammed I. Amin	10398
 DG Mohamed Assalia Boncana	4404
@@ -61,8 +60,8 @@ Deputy Communications Minister Mohammed Adams Sukparu	4137
 Deputy Minister Hon. Mohammed Adam Sukparu	10584
 Deputy Minister Mohammed Adams Sukparu	8767
 Deputy Minister for Home Affairs Ayoub Mohamed	9590
-Description MoH Computerisation.	1666,977,2996
-Description MoHE Computerisation.	5652
+Description MoH Computerisation	1666,977,2996
+Description MoHE Computerisation	5652
 Digital Identity Innovation VP Mohadi Launches	3965,1438,1506
 Director Mr. Mohammed Haji	6946
 Directorate of Policy and Planning MoH	34
@@ -87,11 +86,11 @@ Ethiopian MOH	1824
 Evaluation MoH Ministry of Health MoE Ministry	6539
 Evaluation Officer MoH	34
 Excellency Mohammed B.S. Jallow	7694
-Excellency Vice President Mohammed B.S.	7694
+Excellency Vice President Mohammed B.S	7694
 Exec Chairman Mohamed Mekouar	3473
 Fonds Mohammed VI	8891
 GM Mohanoe Mokhitli	1590
-General Abdirahman Mohamed Turyare.	10701
+General Abdirahman Mohamed Turyare	10701
 General Mohamed Toumba	3127
 Governor Abdirahman Mohamed Abdullahi	7930
 Graham and Mohammad Amir Anwar	10319
@@ -105,7 +104,7 @@ Général de Division Mohamed Toumba	7333,2335
 H.E Dr. Maryan Mohamed Hussein	10477
 H.E. Amb. Gamal Mohamed Hassan	10476
 H.E. Amina J. Mohammed	7452
-H.E. Gaudencio Mohaba Messu.	5001
+H.E. Gaudencio Mohaba Messu	5001
 H.E. Hassan Sheikh Mohamud	4575
 H.E. Minister Mohamed	2800
 H.E. Minister Mohamed Adam Moalim Ali	2800
@@ -180,10 +179,9 @@ Kenya Pharmaceutical Association MOH Ministry of Health	9855
 Khalfan Mohamed Othman	6602,3595
 Khalid Salum Mohamed	3460
 Khalid Salum Mohammed	3458
-King Mohammed VI	1992,3616
-King Mohammed VI's	3272
+King Mohammed VI	1992,1280,2336
 Kouyaté Mohamed	8353
-Kouyaté Mohamed D.	5816
+Kouyaté Mohamed D	5816
 Kur Mohammed Ave	5903
 Lai Mohammed	5215
 Le Béninois Mohamed Salifou	2448
@@ -214,10 +212,9 @@ MOFPED and MOH. Overhead	4217
 MOH Celebrates African CRVS Day Posted	9548
 MOH Ministry of Health MOTIHUD- Ministry of Transport	2775
 MOH Zimbabwe	6666
-MOH Zimbabwe.	6666
 MOH and Digital Health Activity	1824
 MOH and PO-RALG	1261
-MOH and U.S.	4167
+MOH and U.S	4167
 MOH of Ethiopia	1824
 MOH. Community	1219
 MOH. Information	1219
@@ -231,14 +228,12 @@ MOHERST	1000
 MOHERST Specific Objectives	1000
 MOHSS	9485
 MOH_Kenya	5550,2667,166
-MOH’s	1824
 Maat Moulan Mohamed Abdi	6767
 Mahmoud Helmy El-Sherif. Presidential Spokesman Mohamed	10103
 Mahmoud Mohamed and HSF Chairman Abdullahi Nur	10116
 Mahmoud Said Mohamed	3868
 Maj. Gen. Mohammed	10701
-Majesty King Mohammed VI	6101,823
-Majesty King Mohammed VI.	8245
+Majesty King Mohammed VI	6101,823,1321
 Major-General Mohamed Toumba	3128
 Makibinyane Mohapeloa	8598
 Mauritanian President Mohamed Ould El-Ghazaouani	2813
@@ -265,8 +260,7 @@ MoH ICT Unit	34
 MoH Ministry of Health MoHAIS Ministry of Home	1988
 MoH QMS Expert PPB	9855
 MoH User Acceptance	34
-MoH's	34
-MoH's VPN.	34
+MoH's VPN	34
 MoHAIS	1778,89,121,266,37,1271,133
 MoHAIS DA	1867
 MoHAIS Kalumbila Town Council	1867
@@ -277,7 +271,6 @@ MoHAIS PMU	1988
 MoHAIS and DA-B	1867
 MoHAIS and Kalumbila Town Council	1867
 MoHAIS and PMU	1988
-MoHAIS.	1867
 MoHAIS. Membership	1867
 MoHAIS. The PMU	1867
 MoHCC	970,184,400,7875
@@ -297,7 +290,7 @@ Mohale Ralebitso	7840,58
 Mohale's Hoek	309
 Mohamad Ghaddar	10249
 Mohamadi KOANDA	8321
-Mohamed	1004,737,4200,2950,764,68,206,15,731
+Mohamed	1004,737,4200,2856,94,764,68,206,15,252,479
 Mohamed AG AYOYA	1748
 Mohamed Abdallah	5052
 Mohamed Abdallahi Louly	1271
@@ -330,11 +323,10 @@ Mohamed Ali Abdallah	5530
 Mohamed Ali Jalloh Shows The Way	6355
 Mohamed Ali Nasra	2460,3536
 Mohamed Amer	6653
-Mohamed Amine Charar.	1241
+Mohamed Amine Charar	1241
 Mohamed Amine Riahla	6437
 Mohamed Araqab	3286
-Mohamed Assoweh Bouh	1287,3611,77
-Mohamed Assoweh Bouh.	2679
+Mohamed Assoweh Bouh	1287,1392,2219,77
 Mohamed Awad	10582
 Mohamed Bamba Meguett	6719
 Mohamed Bassit	9380
@@ -352,7 +344,7 @@ Mohamed Diaouné	8555
 Mohamed Diaouné. Le	8555
 Mohamed Edhib	10289
 Mohamed El Mehdi Ould Ely Val	10402
-Mohamed El-Hadi Hennachi.	3520
+Mohamed El-Hadi Hennachi	3520
 Mohamed Fadel	1183
 Mohamed Farah	3463
 Mohamed Farid	3429,1514
@@ -411,18 +403,16 @@ Mohamed TARIK	8891
 Mohamed Tidjane KINDA	7670
 Mohamed VI A and B	1735
 Mohamed Wurie Bah	7777
-Mohamed Wurie Bah Esq.	7777
+Mohamed Wurie Bah Esq	7777
 Mohamed Yahya Dah	1183
 Mohamed Youssouf Bathily	10533
 Mohamed-Soilihi	2544
-Mohamed.	10196
-Mohamed...	8797
 MohamedNana BANGOURA	10137
 MohamedNana BANGOURA Tags	10137
 Mohamedade Farouk Nanne	765,418
 Mohammadia	2838,7,4186,21,75,1510,83,1,776
 Mohammadia. Construit	6419
-Mohammed	3388,4064,1677,307
+Mohammed	3388,3560,504,1677,307
 Mohammed Adam Sukparu	3993,5544
 Mohammed Adam Sukparu. Boukary BONKOUNGOU	3993
 Mohammed Adams Sukparu	4757,16,3975,17,182,1287,395
@@ -463,7 +453,6 @@ Mohammed VI A and B	1735
 Mohammed VI Polytechnic University	1814
 Mohammed W	766
 Mohammed&author	766
-Mohammed.	6948
 Mohammedia	8891
 Mohammedia. Ces	8891
 Mohamud Haji Payment	7897
@@ -492,7 +481,7 @@ Mr. Si Mohamed Malik	5270
 Ms. Sally Njiri RMNCAH MoH DHPT	9855
 Muntaka Mohammed-Mubarak	4229,1146,935,1390
 NCRA Director General Mohamed Mubashir Massaquoi	8820,945
-NECTA Executive Secretary Prof Said Mohamed.	10675
+NECTA Executive Secretary Prof Said Mohamed	10675
 NTRA Chairman Mohamed Shamroukh	9827
 Najat Simou Mohamed Mostaghfir Bouchta Boukhlafa	8891
 Ndugu Mohammed Khamis Abdulla	6019
@@ -512,8 +501,7 @@ Par Dr. Mohamed Diallo	2582
 Policy MoH	34
 Pour Daddah Mekhala Mohamed	10402
 Pr. Mohamedade Farouk Nanne	1183
-President Hassan Sheikh Mohamud	1629,1981,5,473,190,651,1046,2870
-President Hassan Sheikh Mohamud's	9242
+President Hassan Sheikh Mohamud	1629,1981,5,473,190,651,1046,2870,397
 President Hassan Sheikh Mohamud's Justice and Solidarity	9242
 President Hassan Sheikh Mohamud’s	3615
 President Mohamed Ould Cheikh El Ghazouani	2154,1201
@@ -524,7 +512,7 @@ Prof. Mohamed	4592
 Prof. Nura Mohamed	4592
 Regional Consultation By Mohamed Djama	10634
 Responsibility for Data MoHAIS Collection Stakeholder	1867
-Rethabile Mohono.	2748
+Rethabile Mohono	2748
 Roopesh Mohabeer	10637
 Rwanda MoH	4781
 S. F. Mohamad	5349
@@ -533,7 +521,6 @@ STP O Representante Especial Mohamed El-Amine	3048,1663,36,1071,200,154
 Sa Majesté le Roi Mohammed VI	5745,2492,654,102
 Sadaq Mohamed	8845
 Safia Ali Mohamed Gadileh	6304
-Safia Ali Mohamed Gadileh.	6304
 Safia Mohamed Ali Gadileh	7022,278
 Said Ally Mohamed	10196
 Salah Al-Din Mohammed Abdelrahim	9587
@@ -554,8 +541,8 @@ Soilahoudine Mohamed. L'initiative	8876
 Soilihi Mohamed Djounaid. Le	3772
 Somali National University President Dr. Mohamed	10116
 Somalia. President Mohamud	2743
+Somcable CEO Mohammed Ibrahim Ahmed	4806
 Somcable CEO Mohammed Ibrahim Ahmed and Ethio	4806
-Somcable CEO Mohammed Ibrahim Ahmed.	4806
 Somcable Chairman Mohamed Said Guedi	4806
 Son Excellence Monsieur Hassan Sheikh Mohamoud	4402
 Speech of Prof. Dr. Mohamed Jemni	2958
@@ -571,7 +558,7 @@ Sudanese Minister of State for Finance Mohamed Nour	9859
 Tamer Mohamed	7540
 Tanzania. By Mohamed Hassan	8214
 TechCabal. Mohammed Bawa	7746
-Telecom Director General Mohammed Assoweh.	3788
+Telecom Director General Mohammed Assoweh	3788
 Territorial Planning Minister Mohamed Lamine Sy	4945
 Thani Mohamed-Soilihi	2544
 Tigist Hamid Mohammed	2878
@@ -586,12 +573,10 @@ VG El Hadj Mohamed Lamine Conté	4330
 VG Mohamed Lamine Conté. Real-time	4337
 Vice President Mohamed Juldeh Jalloh	2395
 Vice-president Dr Mohamed Juldeh Jalloh	4619
-Vodacom Lesotho CEO Mohale Ralebitso	8034
-Vodacom Lesotho CEO Mohale Ralebitso.	8624
+Vodacom Lesotho CEO Mohale Ralebitso	8034,590
 World Cup Xinhua Mohamed Salah	6788
 Yusuf Abas Mohamed	10183
 ZARE K. Mohamed	737
 Zamzam Mohamed Youssouf	3098
 Ziani Mohammed Bachir Rachdi Idriss Ilali	8891
 Zoubeir Mohamed Ahmed	1961
-Zoubeir Mohamed Ahmed.	1961

@@ -13,6 +13,7 @@ BILLION Total Courier Traffic	9781
 BWA Data Traffic	2776
 BWA Traffic Market	2776
 Broadband Traffic	2776
+Broadband Volume of Internet Traffic	2776
 Broadband Volume of Internet Traffic BWA	2776
 Broadband Wireless Access Data Traffic	2776
 Commercial Cargo and Mail Traffic	2775
@@ -161,7 +162,6 @@ Reported Road Traffic Accidents	2775
 Reported Road Traffic Accidents and Persons Killed	2775
 Road Traffic	1988,5857
 Road Traffic Act	7845,320
-Road Traffic Act.	7845
 Road Traffic Infringement Agency	7755
 Road Traffic ZRCP ZEMA	1988
 Road Traffic and Safety Agency	1988
@@ -185,7 +185,6 @@ TRAFIGO SARL	6597
 TRAFSCAN	4813
 Tbps Traffic Milestone	2754
 Telecommunications Traffic Control Regulation	9288
-Telecommunications Traffic Control Regulation.	9288
 Telecommunications Traffic Control Regulations	8742,1
 Telephone Call Traffic	2775
 Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110
@@ -207,11 +206,10 @@ Traffic Safety	1988
 Traffic Safety Council of Zimbabwe	9394
 Traffic Table	2776
 Traffic Traffic	2776
-Traffic Trends MTC’s	1944
+Traffic Trends MTC	1944
 Traffic Trends Network Infrastructure Broadband Speeds	1944
 Traffic and Road Safety The Borrower	1988
 Traffic and Usage	3990,5791
-Traffic.	6000
 Trafficking	5242
 Trafficking Data	1243
 Trafic	9781

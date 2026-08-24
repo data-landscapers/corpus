@@ -13,10 +13,8 @@ LSHTM	4338
 LSO-data.open-portal. IMPORTANT	769
 LSO-digital.localgov-municipal. Both URLs	2674
 LSO-dpi.id-servicepilot	5523
-LSO-gov.standards-standards	5168
-LSO-gov.standards-standards.	1209
-LSO-infra.capacity-hosting	5168
-LSO-infra.capacity-hosting.	309
+LSO-gov.standards-standards	1209,3959
+LSO-infra.capacity-hosting	309,4859
 LSO.md	1200
 LSO60 Lesotho National Digital Transformation Strategy	1370
 LSO61 Lesotho National Digital Policy	1369

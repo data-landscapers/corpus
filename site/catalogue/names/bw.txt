@@ -2,6 +2,7 @@ Average BWA	2776
 BEN BWA BDI CIV ETH KEN	1528
 BEN BWA BDI CPV TCD COG	4912
 BWA Broadband Wireless Access Figure	582
+BWA Data Subscriptions and Penetration	2776
 BWA Data Subscriptions and Penetration BWA Operator	2776
 BWA Data Traffic	2776
 BWA Data Usage	2776
@@ -17,15 +18,12 @@ BWA Subscriptions and Penetration Rate BWA	2776
 BWA Traffic Market	2776
 BWA. MEA-wide	933
 BWASCO WATER AND SEWERAGE PLC Data	7167
-BWA’s	2776
 BWENA MEDICAL SERVICES LTD Data Processor	7167
 BWaheduzzaman	5349
 BWain	5700
 BWalsham	5349
 BWang	4676,1024
-BWashington	5700
-BWashington.	4676
-BWei.	3782
+BWashington	4676,1024
 BWest	3782
 BWest&doi	3782
 BWhat	5700
@@ -39,7 +37,6 @@ BWoods	4676
 BWorks	5700
 BWorld	4676,1024
 BWorld&doi	5700
-BWorld.	4676,1024
 Barala Bwisemene Wilondja Lambert	8752
 Botswana's BW-CIRT	9562
 Broadband Volume of Internet Traffic BWA	2776

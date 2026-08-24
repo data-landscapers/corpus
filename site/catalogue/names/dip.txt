@@ -1,6 +1,6 @@
 AI International Collaboration and Diplomacy	4528
 Advanced Diploma	6832
-African Policymakers and Diplomats.	1814
+African Policymakers and Diplomats	1814
 Artificial Intelligence and Cyber Diplomacy Unit	8982,376
 Aynne Kokas. The Diplomat. Mattoo	1243
 Backdoor Diplomacy	5242
@@ -31,7 +31,6 @@ Detalhes Diploma	13,1,153,263,119,195,8,42
 DiPES	3710,66
 Dip. Law. Secretary-General African Telecommunications Union	8497
 Diplo	2816,4356
-Diplo.	2816
 Diploma	14,153,263,119,195,8,42,2725,87,1,539,1,71,678,1936,114
 Diploma Artigo	167,263,314,8,42
 Diploma As Tecnologias de Informação	15
@@ -51,8 +50,7 @@ Diplomacy Eswatini	4934
 Diplomas	15,6931
 Diplomas Legais	167,372
 Diplomat	4193
-Diplomate	2266
-Diplomate.	4941
+Diplomate	2266,2675
 Diplomates539 Magistrats926 Personnel	1594
 Diplomatic	2667,7829
 Diplomatic Corps	5328,2374,2257
@@ -65,8 +63,8 @@ Diplomatic Drive FCT	4301
 Diplomatic Exchange	7662
 Diplomatic Foundation	5890
 Diplomatic Mission	736
+Diplomatic Relations	3861
 Diplomatic Relations Between Guinea-Bissau and Cape Verde	3768
-Diplomatic Relations.	3861
 Diplomatic and Sovereign Data	3861
 Diplomatie	1876,92,2927,2064,1278,278
 Diplôme	4092,4629
@@ -90,6 +88,7 @@ Foreign Ministry Asks Diplomatic Missions for Staff	10496
 Higher Diploma	6946
 Higher National Diploma	9575,180
 IOC Indian Ocean Dipole IP Internet	2775
+IX- FORMA PROPOSTA PARA O DIPLOMA	3519
 International Diploma	2308
 International Governance and Diplomacy Zimbabwe	4528
 Investment and Diplomatic Engagements	5390
@@ -98,7 +97,7 @@ Kenya AI Diplomacy and Global Governance Roadmap	7548
 LUXOFANIA LA ENCARGADO DE DIPLOMAT. Y	4209
 Le Diplomate	3248
 Los Honorables Diputados	9303
-MISIONES CONSULAR DIÁSPORA REGIONAL MEDIO DIPLOMAT.	4209
+MISIONES CONSULAR DIÁSPORA REGIONAL MEDIO DIPLOMAT	4209
 Modern Diplomacy	3398
 Mr. Dipo Mbewe	34
 NGO and Diplomatic Mission	736
@@ -109,7 +108,7 @@ Numérisation des Diplômes	4002
 OFICINA INFORMAC. DIPLOMAT.- Concepto	4209
 Ordenes Nacionales Ministro Delegado Diputado Secretario	4209
 Other. Technical Diplomatic Mission	736
-PRESIDENTE CAMARA DE LOS DIPUT.	4209
+PRESIDENTE CAMARA DE LOS DIPUT	4209
 Pauvreté DEA Diplôme	12
 Personal Diplomático	4209
 Pleno Senador Autoridad Judicial Militar Diputado	4209
@@ -126,7 +125,7 @@ Presidente Cámara de Dip. Suprema de Justicia	4209
 SERVICIO DIPLOMAT. Y CONSULAR.- Concepto	4209
 Science Diplomacy	4253,100
 Social Media Post Sparks Diplomatic Exchange	4942
-Strategic International Collaboration and Diplomacy.	3760
+Strategic International Collaboration and Diplomacy	3760
 Tallinn Summer School of Cyber Diplomacy	1446
 Tech Diplomacy Global Institute	5454
 Tech Diplomacy and Avenues for Digital Development	5239

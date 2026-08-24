@@ -14,8 +14,7 @@ BIODEX MAPPING LIMITED Data Controller INST-783118696A8	7167
 BIODEX MAPPING LIMITED Data Processor INST-783118696A8	7167
 Bajeti. MPANGO NA MAKADIRIO YA MAPATO	6019
 Banco de Moçambique. Maputo	5169
-Baraza la Mapinduzi	2868
-Baraza la Mapinduzi.	6019
+Baraza la Mapinduzi	2868,3151
 Broadcasting Overview Country Mapping for The Pay-Tv	9781
 Business Model Mapping	9198
 CIUP Pedagogical University of Maputo Informatics Center	4214
@@ -64,14 +63,12 @@ Get Involved The DPI Map	4863
 Global Map The Federal Government of Nigeria	6065
 Google Assistant and Maps	5570
 Google Map	9568
-Google Maps	1363,621,3586,3240
+Google Maps	1363,284,337,3586,3240,32
 Google Maps Contact	3364
-Google Maps and Google Earth.	3782
-Google Maps.	1647,7195
+Google Maps and Google Earth	3782
 Habari. MUHTASARI WA MAKADIRIO YA MAPATO	2868
 Hazard Mapping	6903
-Hospital Central de Maputo	2816
-Hospital Central de Maputo.	10188
+Hospital Central de Maputo	2816,7372
 IPA Província de Maputo	414
 ITU Broadband Mapping	9781
 Implementation Mapping	8376
@@ -91,11 +88,9 @@ MAPUTO	2816,1393
 MPANGO NA MAKADIRIO YA MAPATO NA	2868
 MUHTASARI WA MAKADIRIO YA MAPATO NA	6019
 MaPoste	4664,22
-MaPoste'	4664
 Mahmood and Maple	7008
 Map AI	1814
 Map Africa	4952
-Map Africa'	4952
 Map Estimates Tool	966
 Map GBV	1988
 Map Is TAIS Knowledge Map	5513
@@ -105,13 +100,11 @@ Map of Fibre Optic	8679
 Map of Zambia	1988
 MapAfrica	7784
 MapAfrica Platform	7784
-Mapa C.	4508
+Mapa C	4508
 Mapa E	4129,376,1,1,1,1,1
-Mapa E's	4505,1,3
 Mapa Escolar	4209
 Mapa F	4505,1,4
 Mapa H	4505,1,1,1,1,1
-Mapa H's	4508
 Mapa I	1256,86,3070
 Mapa III	1251,1,1,1,1,1,82,1,1,2,90,648,1,1,1,6,58,1520,744,1,7,593,1179
 Mapa III_ Despesas	5012
@@ -156,7 +149,7 @@ Mapping	1009,819,268,2030,476,74,569,357,821,409,71,645,753,290,122,524,72,879
 Mapping Accountability	5215
 Mapping African Digital Infrastructures	990,1
 Mapping Buildings Even	1363
-Mapping China’s	2518
+Mapping China	2518
 Mapping Chinese AI Surveillance	5508
 Mapping Classification	6432
 Mapping Content Production	226
@@ -188,7 +181,7 @@ Mapsanganhe Leonel Nhavene Inalda Ernesto POSITION	2989
 Mapulanga	2948
 Mapunda M. Tanzania	1261
 Mapunda&volume	1261
-Maputo	12,562,572,81,1,298,201,13,89,399,206,167,33,33,117,32,173,69,349,82,44,630,17,34,291,1,452,1,71,57,27,59,215,166,109,294,109,396,73,17,191,28,4,22,369,513,96,225,43,168,1,173,316,53,472,1,124,47,34,2,8,4,302,211,124,56,6,81,277,48,58
+Maputo	12,562,572,81,1,298,201,13,89,399,206,167,30,3,33,117,32,173,69,349,82,44,630,17,34,291,1,452,1,71,57,27,59,215,166,109,294,109,396,73,17,191,28,4,22,369,513,96,225,43,168,1,173,22,294,53,211,260,1,1,124,47,34,2,8,4,302,211,124,56,6,81,277,48,58
 Maputo Along	9446
 Maputo Caixa Postal	2474
 Maputo City	7679
@@ -198,13 +191,10 @@ Maputo Internet Forum	110
 Maputo Mozambique Either Participant	4260
 Maputo Mozambique Ministerio	4260
 Maputo Port	8754
-Maputo Protocol	3583,4095
-Maputo Protocol'	3583
-Maputo Protocol.	8485
+Maputo Protocol	3583,4095,807
 Maputo Province	5406,1391,876,1034
 Maputo Provincia	1526
 Maputo and Gaza	10219
-Maputo.	2631,3,33,149,3959,1632,558,260,858
 Maputo. IOM	1743
 Maputo. Lusa	8743
 Maputo. Na FACIM	2816
@@ -228,7 +218,7 @@ PNC Tuberculose and Cidade de Maputo	2228
 Paul Mapfumo	520
 Port of Maputo	5247
 Porto de Maputo	10083
-Preliminary Mapping of Data Localisation Measures.	1243
+Preliminary Mapping of Data Localisation Measures	1243
 Professor Paul Mapfumo	520
 Regional Centre for Mapping of Resources for Development	5805
 Regional Map Depicts	2677
@@ -256,8 +246,8 @@ U.S. Embassy Coopera9ao Maputo Maputo Mozambique	10713
 Undated DPI Map	7221,1
 Universidade Pedagógica de Maputo	2816
 Vincent Maposa	10605
-Wi-Fi and Google Maps.	1363
-X-Road World Map.	5700
+Wi-Fi and Google Maps	1363
+X-Road World Map	5700
 XML Mapping	8606
 YouTube and Google Maps	1363
 Zambia Vulnerability Risk Assessment and Mapping Report	1988

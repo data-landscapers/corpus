@@ -7,7 +7,7 @@ AIC Jericho Data Controller INST-8213206ED1B NAIROBI	7167
 Abayomi Jegede	7172
 Abdellah Saaf Jeunes Marocains	8891
 Abubakarr Suleiman Jeng	8611
-Acen Anna and Nafula Jesca.	3005
+Acen Anna and Nafula Jesca	3005
 Actualité Jeff Dean	9620
 Adama Jean Yves Béré	4211
 Adjaba Biwoli Jean Pierre	10379
@@ -36,7 +36,7 @@ Author Adebowale Jeremy Adetayo	9256
 BCEAO Governor Jean-Claude Kassi Brou	7796
 BFS. Je	10259
 Bom Jesus	4044
-Broerse JE.	1219
+Broerse JE	1219
 Bruno Jean Richard ITOUA	3191
 Burkina Faso. Selon Patinde Wendinda Jean	5707
 Bénin. Je	3195
@@ -45,7 +45,7 @@ CEG Bohicon and Lycée des Jeunes Filles	5547
 CEO Cyrus Jentzen	7720
 CEO Jehiel Oliver	6948
 CEO of AMN. Jean-Philippe Gillet	3952
-CEO of Jem.	10279
+CEO of Jem	10279
 CEO of Jenga	10464
 Cameroun. Jean Ateba Onguene	6680
 Caribbean. Moses Jere	8740
@@ -57,7 +57,7 @@ Club Jeun'Action	9814
 Comisario Jefe Superior Capitán de Corbeta Comandante	4209
 Comportements Que Je N'ai Jamais Vus	4960,62,2035
 Conferencia de Jefes de Estado	4209
-Confronting Jenkinson’s	8021
+Confronting Jenkinson	8021
 Congo. Je	8067
 Conseil National de Jeunesse	3356
 Consejero A3 Gobernador Provincial Jefe Militar	4209
@@ -169,7 +169,7 @@ Jean Aholou	1927
 Jean Albert Manigomba	3560
 Jean Ateba Onguene	5065
 Jean Bakomito Gambu	10625
-Jean Bamanisa.	3978
+Jean Bamanisa	3978
 Jean Baptiste Millogo	8247
 Jean Baptiste Ouédraogo. Exploitant	6889
 Jean Bavane Kouika	2559,194,103,19,374,395,1733
@@ -199,7 +199,7 @@ Jean Marc Dewerpe	2323,14
 Jean Marc Hovi	10389
 Jean Marc Ntirushwa	10152,19
 Jean Monnet Actions	970
-Jean N.	5673
+Jean N	5673
 Jean Noël GYENGANI	8321
 Jean Olessongo Ondaye	9405,112
 Jean Parfait Tsé	9054
@@ -214,15 +214,13 @@ Jean Simon Str	8999
 Jean Symphorien NGAMA-PIAULT	5135
 Jean le Roux	10729
 Jean-Andre Gbarssin	1712
-Jean-Baptiste	2765
+Jean-Baptiste	2765,3553
 Jean-Baptiste Koffi	8518
 Jean-Baptiste Leni	10256
-Jean-Baptiste Millogo	6318
-Jean-Baptiste Millogo.	2706
+Jean-Baptiste Millogo	2706,3612
 Jean-Baptiste Millogo. Connectivity-resilience	2706
 Jean-Baptiste ONDAYE STATUTS DE L’AGENCE NATIONALE	1186
 Jean-Baptiste Ondaye	1299
-Jean-Baptiste.	6318
 Jean-Claude Bidogeza	9541
 Jean-Claude Brou	3684
 Jean-Claude Brou. Retour	6084
@@ -232,14 +230,13 @@ Jean-Claude Kassi Brou. Pour	3684
 Jean-Fernand Koena	4127
 Jean-Francis Ahanda	3658,2617,145
 Jean-François Basse	3158
-Jean-François Basse.	3158
 Jean-François Henrotte	5888
 Jean-François Henrotte. Il	5888
 Jean-François Ndongou	24
 Jean-Jacques Bouya	5303
 Jean-Jacques Essome Bell	5065
 Jean-Jacques Kayembe	8524
-Jean-Jacques Paul.	1679
+Jean-Jacques Paul	1679
 Jean-Luc Mugogwa	9059
 Jean-Luc Stalon	1806,8909
 Jean-Luc Zubu	5835
@@ -267,7 +264,7 @@ Jean-Serge Ouattara	9268
 Jean-Serge Ouattara. Opérationnelle	9268
 Jean-Yves Belem	5722
 Jeanette Morwane	8272
-Jeanne N.	9175
+Jeanne N	9175
 Jeconias ADANLE	5927
 Ject.com	1009
 Jeddah	8778
@@ -330,7 +327,6 @@ Jeff Ciamala	9059
 Jeff Koinange's Homes Face Auction Over	9736
 Jeff Merkley of Oregon and Raphael Warnock of Georgia	10446
 Jeff Skoll	560
-Jeff.	6985
 Jefferies	8942
 Jefferson Siamisang	6782
 Jeffery	3791
@@ -342,15 +338,15 @@ Jeffrey M. Olson	9188
 Jegede	7172
 Jehad Alshrafi	7147
 Jehiel Oliver	6948
+Jehovah	2987
 Jehovah's Witness	7151
-Jehovah’s	2987
 Jelagat Kimosop	1814
 Jem Hub	10279
 Jem Series	10316
 Jem's WhatsApp-based	10279
 Jemal	10317
 Jembas	778
-Jembas and Prosecurity.	778
+Jembas and Prosecurity	778
 Jemima Kariuki-Njuguna	6865
 Jemni Director	2958
 Jemutai	6946
@@ -367,8 +363,8 @@ Jennie Cataldo	1038
 Jennie Jaribu	1261
 Jennifer Ambolley	8363
 Jennifer Davis Paguada	10177,81
-Jennifer Hansen.	6135
-Jennifer Onyeagoro	2918,4,11,121,34,29,76,21,67,18,15,102,42,24,41,5,50,4,31,27,29,27,32,15,45,2,7,8,129,19,103,151,12,76,50,217,13,2,77,16,23,19,1,42,25,18,103,90,84,29,34,125,5,20,51,86,28,71,10,161,62,67,12,7,38,92,11,66,8,129,112,167,23,60,135,54,15,28,5,259,16,55,34,53,68,65,36,57,60,5,46,300,139,6,50,2,75
+Jennifer Hansen	6135
+Jennifer Onyeagoro	2918,4,11,121,34,29,76,21,67,18,14,1,102,42,24,41,5,50,4,31,27,29,27,32,15,27,18,2,7,8,129,19,103,151,12,76,50,217,13,2,77,16,23,19,1,42,25,18,103,90,84,29,34,125,5,20,4,47,86,28,71,10,161,46,16,67,12,7,38,92,11,66,8,129,112,167,23,60,135,54,15,28,5,259,16,55,34,53,68,65,36,57,60,5,46,300,139,6,50,2,75
 Jennifer Onyeagoro Addressing	7436
 Jennifer Onyeagoro Delivering	6831
 Jennifer Onyeagoro Discussions	5088,1637
@@ -376,7 +372,7 @@ Jennifer Onyeagoro EMY	5472
 Jennifer Onyeagoro F E	9720,83,30,84
 Jennifer Onyeagoro F E Consumers	9899
 Jennifer Onyeagoro F E Madani Fanta	9920
-Jennifer Onyeagoro F E Representing NITDA’s	9958
+Jennifer Onyeagoro F E Representing NITDA	9958
 Jennifer Onyeagoro Financial	5369
 Jennifer Onyeagoro Hendy	7537
 Jennifer Onyeagoro Looking	7427
@@ -388,7 +384,6 @@ Jennifer Onyeagoro The Wave Money Group	3345
 Jennifer Onyeagoro Under	3648,894
 Jennifer Onyeagoro Welcoming	7562
 Jennifer Onyeagoro Zambia	6229
-Jennifer Onyeagoro.	3313,457,1522,449
 Jennifer Onyeagoro. The Minister	3599
 Jennifer Onyeagoro. Through	3961
 Jennifer Otieno	899
@@ -401,7 +396,7 @@ Jentzen	7720
 Jené Palmer	10570
 Jené Palmer CA	10570
 Jeong	8606
-Jeongetal.	8606
+Jeongetal	8606
 Jepkemei	899
 Jepson	4676
 Jeremi Joslin	6423
@@ -432,7 +427,7 @@ Jesse Jackson	8477
 Jesse Mnyune	8614
 Jesse Moore	7618,1
 Jessica Charles Wade	579
-Jessica Davis Ba.	3486
+Jessica Davis Ba	3486
 Jessica Eni	10571
 Jessica Hauuanga	5086
 Jessica Osborn	226
@@ -476,8 +471,7 @@ Justice. Pour Jean-Marc Pisani	1755
 Juzgado de Instrucción Delegado de Gobierno Jefe de Prensa	4209
 KADJO Aka Jean-Baptiste	2342
 KISM Chairperson Jennifer Cirindi Njiro	10043
-Karamoko Jean Marie Traoré	8733,1812
-Karamoko Jean Marie Traoré.	10567
+Karamoko Jean Marie Traoré	8733,1812,22
 Karamoko Jean Marie Traoré. Il	8733
 Keji Jenifer	4042
 Kinshasa Jean-Philippe Anvam	3512
@@ -531,7 +525,6 @@ Nafula Jesca	3005
 National Startup World Cup. Jentzen	7720
 Natural Resources Marie-May Jeremie	10420
 Neal Jetton	5082,1344,2351
-Neal Jetton's	8777
 Nick Jepson	4676
 ONG Je	6221
 ONIP Jeudi	5078
@@ -549,14 +542,13 @@ Parlamento Jefe Secc. Protocolo	4209
 Parlamento Jefe Servicio Grupo C Jefe	4209
 Parlamento Jefe de Coordinación	4209
 Parlement des Jeunes du Bénin	10089
-Patinde Wendinda Jean Yves Belem.	5707
+Patinde Wendinda Jean Yves Belem	5707
 Pour Dr Jean Noël Bonkoungou	8098
 Pour Jean Luc Mastaki	3611
 Pour Jean Sansan Kambilé	6904
 Pour Jean-Jacques Kayembe	8524
 Pr Jean-Marie DIPAMA	2732
-Prime Minister Rimtalba Jean Emmanuel Ouédraogo	2560,8,917,1263,29,137
-Prime Minister Rimtalba Jean Emmanuel Ouédraogo's	4851
+Prime Minister Rimtalba Jean Emmanuel Ouédraogo	2560,8,917,1263,29,74,63
 Prof. Dr. Mohamed Jemni Director	2958
 Prof. Jennifer Khamasi	5108
 Prof. Jerry John Kponyo	5946
@@ -600,7 +592,7 @@ TEKNOLOJIA YA HABARI MHESHIMIWA JERRY WILLIAM	2868
 TNM Chief Commercial Officer Amon Jere	3349
 Tercera Brigada Jefe Inspector	4209
 Togo First. Pour Jean Sylvestre Nango	3766
-Traductor Embajada A2 Jefe Económico Admón..	4209
+Traductor Embajada A2 Jefe Económico Admón	4209
 Transforme Jeudi	5835
 Transports Jean Ernest Massena Ngalle Bibehe	3680
 U.S. Ambassador Jessica Davis Ba	3608

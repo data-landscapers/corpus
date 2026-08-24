@@ -12,7 +12,7 @@ BEN BWA BDI CPV TCD COG	4912
 BII CPDIF	620
 BII CPDIF Investment	1054
 Banque CPA	5753
-Beifen Electrical CPE-BEI-TQJ-ARCEP- RAS Technology Co.	998
+Beifen Electrical CPE-BEI-TQJ-ARCEP- RAS Technology Co	998
 CAR Central African Republic CPF Country	2889
 CDC Center for Disease Control and Prevetion CPU	34
 CIPP Cost-Benefit Analysis CPF Country Climate	3604
@@ -23,13 +23,11 @@ CP MODIFIE	1323,1,741,1
 CP Market Failures Bill	1478
 CP-ICT	26,1,1
 CP. Au	3396
-CP...................................................	3396
 CPA Amendment Regulations	5865
 CPA HDR	2975
 CPA Marwa	3954
 CPA Moremi Marwa	3954
 CPA Patrick Mwati	6946
-CPA's	5865
 CPC Africa	778
 CPC Central Committee	362
 CPC Central Product	2775
@@ -44,7 +42,6 @@ CPD VV.docx	8726
 CPDIF	610,10,3,62,135,43,83,108,415
 CPDIF Acquisition of Ctrack Africa and Middle East	620
 CPDIF Fund III	620
-CPDIF's	620
 CPDIF.' IFC	685
 CPE-COD-C46-ARCEP-	998
 CPEAO RAPPORT ANNUEL	998
@@ -61,18 +58,14 @@ CPF INDIVIDUAL PENSION SCHEME Data Controller	7167
 CPF Mwamba Trust Fund Data Controller	7167
 CPF Mwamba Trust Fund Data Processor	7167
 CPF Objective	6539
-CPF's	579
 CPFAE	3604
-CPF’s	6539
 CPHRM GROUP LIMITED Data Processor INST-230182B3DB0	7167
 CPI Consumer Price Index CPIMS Child	2775
 CPICs	9105
 CPIDH	3045
 CPIMS	4583,4500
 CPJ Africa	2313
-CPJ Africa Director Angela Quintal.	10097
-CPJ’s	10097
-CPL's	7793,157
+CPJ Africa Director Angela Quintal	10097
 CPL-2026	7825,271
 CPL-26	6488,1074,231,15,75,1,54,12,167,124,562,864
 CPL-26 Ministerial Meeting	8496
@@ -82,16 +75,13 @@ CPLP Celebra	6837
 CPLP de Governação da Internet	2816
 CPLP's Digital Agenda	975
 CPLP-RARAS	10188
-CPLP-RARAS.	10188
 CPLP-wide	10188
-CPLP.	2816,7372
 CPLP. Ao	6571
 CPLP. Brazil and Portugal	10188
 CPLP. Consequently	10188
 CPLP. Fonte	2816
 CPMIS	9083
 CPMP-MTNMA	5983
-CPO's	9629
 CPOD Agrégation	748
 CPOD Oui	748
 CPOD Tous	748
@@ -99,11 +89,9 @@ CPOD. D’autre	748
 CPOD. D’une	748
 CPT2 Data Centres Digital Realty	596
 CPTPP	961,282
-CPTPP.	1243
 CPU CONSULT LIMITED Data Controller INST-49878043DA3	7167
 CPU-Mali	10269
 CPUs News	9629
-CPV's	6027
 CPV-2025-run-2026-08-03.md	1339
 CPV-journals.csv	2945
 CPVs Business	9893
@@ -128,7 +116,7 @@ ENGINEERING CPE-MOT-SLR-ARCEP- Conforme	998
 Edo CP	9876
 FY2024 and FY2025 CPV	1256
 FY2025 CPV	3667,1345
-GHz CPU.	34
+GHz CPU	34
 HF CPE-COD-ENV- Conforme CODAN	998
 Hessen CPV-Code	8546
 Higher Education CPD	6832

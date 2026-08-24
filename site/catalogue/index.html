@@ -150,7 +150,7 @@
   // Expand once, in place: the strings are interned, so this costs array slots
   // rather than 24,891 copies, and every filter below then treats entities
   // exactly like places and topics.
-  var ENTS = D.ents || [], ENTLABEL = {};
+  var ENTS = D.ents || [], ENTLABEL = {}, DERIVED = D.entnames || {};
   (function(){
     // A slug is not a display name — deriving those is stage 2
     // (documentation/catalogue-search.md). Until then the label is the slug,
@@ -178,6 +178,9 @@
                 ltd:1,inc:1,pty:1};
     function cap(w){ return w.charAt(0).toUpperCase() + w.slice(1); }
     for (var i = 0; i < ENTS.length; i++){
+      // A derived name always wins: it is what the sources themselves call the thing,
+      // where the prettifier is only a guess at how to write the slug.
+      if (DERIVED[ENTS[i]]){ ENTLABEL[ENTS[i]] = DERIVED[ENTS[i]]; continue; }
       ENTLABEL[ENTS[i]] = ENTS[i].split('-').map(function(w, ix){
         if (!w) return w;
         if (FUNC[w]) return ix === 0 ? cap(w) : w;
@@ -191,8 +194,15 @@
     r[10] = (r[10] || []).map(function(i){ return ENTS[i]; });
     // Hyphens become spaces in the search blob so "security studies" reaches
     // institute-for-security-studies. Acronym slugs match the acronym, which is
-    // usually what a reader looking for one types anyway.
-    r._s = (r[0] + ' ' + r[1] + ' ' + r[10].join(' ').replace(/-/g, ' ')).toLowerCase();
+    // usually what a reader looking for one types anyway — and the derived display
+    // name goes in alongside, so the expansion finds it too: `nira-uganda` is
+    // reachable by "nira" and by "National Identification and Registration Authority".
+    var alias = '';
+    for (var ei = 0; ei < r[10].length; ei++){
+      var dn = DERIVED[r[10][ei]];
+      if (dn) alias += ' ' + dn;
+    }
+    r._s = (r[0] + ' ' + r[1] + ' ' + r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
     r._y = r[2].slice(0,4);
   });
 

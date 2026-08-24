@@ -4,12 +4,11 @@ A2B LOGISTICS Data Controller INST-179476B174C NAIROBI	7167
 AC.KE Lower and Middle Level Institutions	6671
 ADAMANT LOGISTICS SOLUTIONS LIMITED Data Controller	7167
 ADEPT LOSS ADJUSTERS LIMITED Data Processor	7167
-AFD Sovereign Digital Loan	1043
 AFRINIC Lock-In	9915,77
 AI Citizen Service Assistant for Smart Local	10347
 AI Is Becoming Local AI	6714
 AI Strategy Mandates Local Storage	5403
-AI and Local Languages Become Part of Africa's	8241
+AI and Local Languages Become Part of Africa	8241
 AIC KANAN CHURCH LOCAL CHURCH Data	7167
 AIC LOCHOR ESEKON CHURCH Data Processor	7167
 AIC Lochorai	7167
@@ -68,7 +67,7 @@ Agency Long Term	1161
 Agent Loyalty Scheme	10249
 Aic Namuncha Local Church Data Processor	7167
 Akim Benamara Local	5521
-Albano Lopes Ferreira.	6881
+Albano Lopes Ferreira	6881
 Alerts Regulatory Procurement Loading	9429
 Alfiano Fawwaz Lokopessy	1824
 Algeria's Justice Minister Lotfi Boudjemaa	5039
@@ -122,7 +121,7 @@ Bank Nonperforming Loans	10718
 Banque de Développement Local	4887
 Base Stations Latitude Longitude Configuration Power	736
 Bassem Lotfy	7540,1993
-Bata Lote A.	4209
+Bata Lote A	4209
 Batista Lobo. E	10271
 Beira and Lobito	9959
 Belgique. Lors	5314
@@ -200,7 +199,6 @@ Carolyn Logan	7886
 Case Selection Logic and Scope Cases	7966
 Catalytic First Loss Guarantee	8937,1,141
 Catalytic First Loss Guarantee Program	8938,141
-Catalytic First Loss Guarantee Transactions	8938
 Category HQ Location Digital Africa	4972
 Central African Republic. London	4127
 Central Rift Coast Lower Eastern Mt	7869
@@ -213,7 +211,7 @@ Chief Executive Officer of FSDT. Looking	2857
 Chimène Lougbegnon Bossa	6475
 Choosing Dubai Over London for Headquarters	10010
 Cider Locally	6921
-CitiTrust Savings and Loans.	9650
+CitiTrust Savings and Loans	9650
 City of London	4448,3601,605
 Closer Look	1828,3579,676,1505
 Coast Lower Eastern Lower Eastern Lower	7869
@@ -285,7 +283,7 @@ DWELLING NOT FOUND LOCALITY NAME	582
 Dandelion Logistics Co. Ltd	9781
 Dario Lo Bosco	9971
 Data Localisation	961,5974,2815
-Data Localisation and Regional Digital Trade Nigeria's	9877
+Data Localisation and Regional Digital Trade Nigeria	9877
 Data Localisation the Answer	7471
 Data Localization	1243,107,5082,303,200,536
 Data Localization. CSIS. Zillner	1243
@@ -373,7 +371,7 @@ Elon Musk's Starlink Low	6197
 Elong Long	4209
 Emerging Multilateral Loans	7548
 Empresas Locales	4209
-Enablement of Local Production’	4045
+Enablement of Local Production	4045
 Energy Regulation Board and Longacres Mall	10552
 Engagement Local Aspects of Local	1988
 Enterprise Worldwide Login My Huawei Logout	3511
@@ -404,6 +402,8 @@ Finance Minister Louis Paul Motaze	2918,2701
 Finance Minister Louis-Paul Motazé	6330
 Financing Locally Led Climate Action FM	2775
 Fintech Reform Delivery Secretariat Locate	4848
+First AFD Sovereign Digital Loan	1043
+First Catalytic First Loss Guarantee Transactions	8938
 Fiscalité Locale	10712
 Fixed Office and Service Points Districts Local	8999
 Floor London W1K	4972
@@ -427,7 +427,7 @@ G Low Earth Orbit	7307
 G07 Logging	9237
 GACC's Local Accountability Networks	7457
 GCTs and Local Markets Participants	6947
-GONÇALVES LOURENÇO.	3607
+GONÇALVES LOURENÇO	3607
 GSMA. Longtemps	5891
 Game Lodges1	2775
 Gaolethoo Kgatitswe Location	7671
@@ -513,7 +513,7 @@ ITU Localities	4653
 Ife South Local Government Area	10254
 Impediment for Lower-Literacy Users	5349
 Imperial College London	10251
-Implementation of Logical Framework.	1000
+Implementation of Logical Framework	1000
 Importance of National Data Infrastructure for Low	1264
 Improve Local Delivery of Public Policies	8610,233
 Inaccessibility and Low Maintenance of Medical Data Archive	6948
@@ -537,7 +537,7 @@ Investor HQ Locations	4972
 Ireland. Even London	8263
 Irepodun Local Government Area	10049
 Issuance and Management of Loans	5883
-JOÃO MANUEL GONÇALVES LOURENÇO.	4146,1,71
+JOÃO MANUEL GONÇALVES LOURENÇO	4146,1,71
 JOÃO MANUEL GONÇALVES LOURENÇO. Download Para	430,119,195,8,42
 JOÃO MANUEL GONÇALVES LOURENÇO. ESTATUTO REMUNERATÓRIO	752
 JOÃO MANUEL GONÇALVES LOURENÇO. REGULAMENTO DA	794
@@ -559,11 +559,9 @@ Journal of Local Government Research and Innovation_	2948
 Joy Amulya and Julian Lopez	769
 JoÃão MANUEL GONÇALVES LOURENÇO. Resolução	539
 João Lopes da Silva	5476
-João Lourenço	438,3637,531,35,631,120,29,553,5,1,8,893,3028
-João Lourenço.	5986
+João Lourenço	438,3637,531,35,631,120,29,553,5,1,6,2,893,3028
 João MANUEL GONÇALVES LOURENÇO. Lei	539
-João Manuel Gonçalves Lourenço	3519,2468
-João Manuel Gonçalves Lourenço.	4557
+João Manuel Gonçalves Lourenço	3519,1038,1430
 Julia Love and Davey Alba	7343
 Justice Lotfi Boudjemaâ	6957
 KOE Loan Agreement	6539
@@ -622,14 +620,14 @@ LOMSHA Upgrade	10060
 LONAB	3044
 LONACI	2342
 LONACI-SEM	2342
-LONDA2203'	1658
+LONDA2203	1658
 LONDON	3049,3437
 LONDRES	4209
 LONG TERM Create the Regional Centre of Excellence	5677
 LOPEZ BENITEZ	6613
 LORYNE	2533
 LORYNE De	4589
-LORYNE SA.	3967
+LORYNE SA	3967
 LOS CRÉDITOS PRESUPUESTARIOS CAPÍTULO I	4209
 LOS DERECHOS DE LAS PERSONAS CAPITULO	163
 LOS PRESUPUESTOS CAPITULO I	4209
@@ -664,8 +662,7 @@ Lei Local	2816
 Leo Long	2626
 Libyan Local Investment	434
 Libyan Ministry of Local Government	5948
-Like Loading	7523
-Like Loading...	7471
+Like Loading	7471,52
 Liquid ECG Infraco Broadband Loan	1126
 Liquid Intelligent Technologies Term Loan	1524
 Liquid Telecom South Africa Term Loan	686
@@ -682,18 +679,16 @@ Load-bearing	1592,1007,188,1106,1093,1954,1271,1
 Load-bearing for AGO FY2026	5102
 Load-side	9123
 Loaded	5326
-Loading	1988,3097,3519,2
+Loading	1988,3097,3519,2,434
 Loading Dock	9123
-Loading...	9040
 Loads	1988
 Loan Agreement	1770,144,4625
 Loan Authorization Act	483
 Loan Closing Date	1228,56
 Loan Closing Date Extension	2473
-Loan No.	9603,1
+Loan No	9603,1
 Loan Number	1770,144
 Loan Products Provided	2775
-Loan.	1795,23,1390,3881,500
 Loans	2775,808,131,1258,1142
 Loans Board	2775
 Loans Equity	390
@@ -702,26 +697,22 @@ Loans and Advances1	2775
 Loans and International Development Association	2889
 Lobamba	9527
 Lobamba MP Michael Masilela	7264
-Lobata.	2688
+Lobata	2688
 Lobaye	2366,523,1238
-Lobaye.	4127
 Lobby	958
 Lobczowski	8602
-Lobito	3097,2445,4662
-Lobito Corridor	5247,4677
-Lobito Corridor.	10510
+Lobito	2149,948,2445,4662
+Lobito Corridor	5247,4677,586
 Lobito Le Gouvernement	10204
-Lobito.	2149
 Lobito. Ces	10204
 Lobo SODEMI BHCI TONGON BNI BRVM	2342
 Loboka	4640
 Lobola	5774,499,547,1,222
 LocNet	8161,86,1014
-LocNet’s	8161
 LocNet’s Africa	8161
 Locais	539,3679
 Locais Condicionados	539
-Local	10,5,381,143,34,1,162,53,5,164,51,152,59,64,270,260,4,49,80,41,9,96,366,324,175,93,226,327,255,3,221,43,133,80,492,17,124,25,289,81,27,119,15,28,196,111,9,169,64,16,65,80,52,135,196,68,174,3,27,25,1,119,107,73,132,170,48,190,189,116,117,93,290,7,1,81,135,37,79,68,124,130,8,24,192,53,5,67,14,21,1,33,282,144,41,30,145,168
+Local	10,5,381,143,34,1,162,53,5,164,51,152,59,64,270,264,49,80,41,9,96,366,324,175,93,226,327,255,3,221,43,133,80,492,17,124,25,289,81,27,119,15,28,196,111,9,233,16,65,80,52,50,85,196,68,174,3,27,25,1,119,107,73,132,170,48,190,189,116,117,93,290,7,1,81,135,37,79,68,124,130,8,24,192,53,5,67,14,21,1,33,282,144,41,30,145,168
 Local AI	9921
 Local Access Licence	5872
 Local Access Network Project	5444
@@ -733,22 +724,20 @@ Local Area Networks LBDA Lake Basin	6946
 Local Area Plan	1867,121
 Local Area Plans	1778
 Local Area Plans Sanitation and Kalumbila	1988
-Local Authorities	1988,1063,3205,4370
+Local Authorities	789,1199,1063,3205,4370
 Local Authorities and Councils	8677
-Local Authorities.	3051
 Local Authorities. All Local Authorities	3051
 Local Authorities. Here's Hoping	3332
 Local Authorities. The Local Authorities	3051
-Local Authorities’	789,2262
 Local Authority Performance Assessment	5620,1134,1821
 Local By Sharon Sibindi	6179
-Local Cap.	6921
+Local Cap	6921
 Local Capital	5913
-Local Chairman.	2119
+Local Chairman	2119
 Local Cloud Is Important	7173
 Local Communities Cultural Heritage Relevant Financial	1284
 Local Community Immersion and Advocacy Dialogue	9760
-Local Content Promotion.	958
+Local Content Promotion	958
 Local Council	1988,4268
 Local Council III Vice Chairperson	8589
 Local Councils	2112
@@ -758,7 +747,7 @@ Local Daily	2775
 Local Data Centres and Cloud Ecosystems	4993
 Local Development	7336
 Local Development Research Institute	7211,1553
-Local Development and Environment.	9414
+Local Development and Environment	9414
 Local Development for Jobs	1284
 Local Development. Barrick	1778,210
 Local ESIMs	6891
@@ -767,19 +756,19 @@ Local Economic Growth	970
 Local Economy	6946
 Local Effect	3861
 Local Effect Any	3861
+Local First	1814,4227
 Local Forests	1988
-Local Government	1778,210,638,1500,1407,339,1035,14,189,1261,228,226
+Local Government	1778,210,638,1500,1407,339,1035,14,189,1261,228,53,173
 Local Government Act	1988,5857
 Local Government Area	9110,944
-Local Government Areas	3718,1313,2113,1966,939
+Local Government Areas	3718,1313,2113,1903,63,939
 Local Government Areas of Osun State. Delimitation	10049
-Local Government Areas.	9047
 Local Government Authorities	4301
 Local Government Department	2104
 Local Government Elections	6907,359,248
 Local Government Elections Act	2993
 Local Government Elections. The Electoral Commission	10453
-Local Government Finance Act.	6921
+Local Government Finance Act	6921
 Local Government Finances Act	5883
 Local Government Fiscal Framework	8599
 Local Government Minister Ben Phiri	8741
@@ -790,11 +779,9 @@ Local Government Training Institute	10346
 Local Government Training Institute- The Ministry	10346
 Local Government and Public Works Minister Daniel	8943
 Local Government and Rural Development	1778
-Local Government.	8652
 Local Governments	2531,7626
 Local Governments and Local Council Development Areas	3101
-Local Government’’	5872
-Local Humanitarian Coordination Mechanisms During Crises.	6947
+Local Humanitarian Coordination Mechanisms During Crises	6947
 Local ICTs	6946
 Local ICTs Kenya’s ICT	6946
 Local ID	320
@@ -826,7 +813,7 @@ Local News By Obert Siamilandu	2920
 Local News By PRIDE NYAMUPANGEDENGU and MUSAVENGANA	3778
 Local News By Sharon Sibindi	6205
 Local News By Staff Reporter	2888,4419,1945
-Local News By Staff Reporter Jul.	6244,1
+Local News By Staff Reporter Jul	6244,1
 Local Offices	8999
 Local Online Service Index	1912
 Local Ownership Rule for Telcos	3003,962,1438,1506
@@ -862,8 +849,7 @@ Localise Payments Data	6698
 Localised	899
 Localising	8640
 Localising Data Policies Sovereignty	4583
-Localities	1885,3029,1919
-Localities.	1526
+Localities	1526,359,3029,1919
 Locality	582,9310,1
 Locality Area	582
 Localización Polos de Acuicultura	4209
@@ -880,10 +866,9 @@ Localized Peaks	6051
 Localizing	5145,2326
 Locally	1554,434,1390,3543,2340,437
 Locally Grown Solutions	958
-Locally Led Development.	9642
+Locally Led Development	9642
 Localness of Search Engine Results	226
 Locals	6726
-Local’s	6368
 Locarno	8755
 Locarno Film Festival	8610,233
 Located	3049,171,466,3689,948,1243
@@ -986,13 +971,12 @@ Logística La	1701
 Logística ODS	1701
 Logística Prestadores	6970
 Logística de Angola	8052
-Logística.	1701
 LohMirmand	6258
 Lohan	8603
 Loi L	142,22,69,1,512
 Loi L023	142,92
 Loi N	37,3762,621,2036,1014
-Loi No.	440
+Loi No	440
 Loi Organique	969,2427
 Loi Organique de Loi des Finances	969
 Loi Start-up Act	2875
@@ -1025,23 +1009,22 @@ Lokoja	7632
 Lokossa	3682,2535,4,3689
 Lokossa. Elle	6341
 Lolodorf	2695
-Lolwe.	9739
+Lolwe	9739
 Loly Diouf Guèye	4200
 Lom-et-Djérem	8737
 Lomagugu Khumalo	5126
 Lomanat	8213
 Lome-based	3844
 Lomuro	3583
-Lomé Charter.	8192
+Lomé Charter	8192
 Lomé Data Centre	6446
-Lomé Declaration.	8275
+Lomé Declaration	8275
 Lomé ECOWAS Logistics Depot	6422
 Lomé Forum	8275
 Lomé Reference	5679
 Lomé and Kara	3437,3942,47
 Lomé and Luxembourg	7379
 Lomé for International Forum ITC	8282
-Lomé.	2374,6247
 Lomé. Les	8620
 Lomé. L’initiative	3866
 Lomé. L’objectif	8719
@@ -1053,18 +1036,18 @@ Lona E HS Pe Bes	1885
 Londa	1375,283
 Londa Senegal	2622
 Londolozi	8857
-London	399,354,988,352,419,79,144,271,785,82,556,543,230,55,225,218,163,62,261,281,98,15,519,361,159,44,32,247,107,1,677,299,35,37,30,16,201,4,162,82,9,274,161,120,5,37,1,52,41,26
+London	396,3,354,988,352,419,79,144,271,785,82,553,3,543,230,55,225,31,187,163,62,261,281,98,15,519,361,159,44,32,247,107,1,677,299,35,37,30,16,201,4,162,82,9,43,231,161,120,5,37,1,52,41,26
 London Branch	7198
 London Capstone	10252
 London Court of International Arbitration	2512
 London IPO	6350
 London Internet Exchange	7200,825
-London Internet Exchanges.	7329
+London Internet Exchanges	7329
 London Metal Exchange	10078
 London Metro	6832
 London Pop-Up Registration	7099
 London School of Economics	7174,809
-London School of Economics and Political Science.	5257
+London School of Economics and Political Science	5257
 London Stock Exchange	81,4815,1317,1836
 London Stock Exchange Group	7007
 London and Johannesburg	2731,3071
@@ -1072,24 +1055,21 @@ London's Docklands	3554
 London- and Johannesburg-listed Ninety One Plc	9060
 London-based	5957,3812
 London-based AI	10464
-London.	396,4030,1087,350,2079,107,1095,501
 London. Autonomous	9098
 London. Fifteen	1741
 London. Lee	2948
 London. Moove	9346
 London. Stahl	7278
 London. Yet London	8049
-London’s	8049
 London’s IPO	8049
 Londres	1679
 Londres. Les	10251
 Londuimbali	5721
 Lonestar Cell	4261,3355
 Lonestar Cell MTN	5244
-Lonestar Cell MTN Mobile Money Inc.	9036
+Lonestar Cell MTN Mobile Money Inc	9036
 Lonestar Cell MTN Mobile Money and Orange	9036
-Lonestar Cell MTN and Orange Liberia	5244
-Lonestar Cell MTN and Orange Liberia.	4272
+Lonestar Cell MTN and Orange Liberia	4272,972
 Lonestar Cell. Ali Fakih	4285
 Long Distance Cable Network	3862
 Long ID Processing Times	4439
@@ -1125,7 +1105,7 @@ Long-term	2678,425,480,677,472,18,146,329,1309,1014,100,2222,287
 Long-term Longer	7204
 Long-term National Development Plan	1779
 Long-time African ISP	6834
-Long_Term_Climate_Change_Strategy_of_The_Gambia_Final.pdf.	1264
+Long_Term_Climate_Change_Strategy_of_The_Gambia_Final.pdf	1264
 Longer Invisible	6972
 Longer Whether Users Want Stablecoins	9903
 Longest	6432
@@ -1140,7 +1120,7 @@ Longtemps	3157,189,2132,779,1012,1622
 Longueur	643
 Longueur de Texte	747
 Longview Global	9284
-Loni Prinsloo for Bloomberg.	5628
+Loni Prinsloo for Bloomberg	5628
 Lonto Ndlovu Acting Commissioner Customs	8499
 Lonzetta	8022
 Lonzetta and Hayajneh	8022
@@ -1152,7 +1132,7 @@ Looker	5256
 Looker Studio	5256
 Looking	766,133,62,593,274,112,156,200,208,1,297,31,124,93,20,26,79,117,73,146,18,54,53,161,121,1,1,136,145,332,50,7,86,52,15,7,53,21,24,69,15,31,284,142,171,95,138,183,27,19,14,52,203,302,75,49,6,215,8,36,23,22,147,30,40,78,105,8,99,44,1,119,22,31,154,34,59,45,35,12,28,60,20,54,102,23,2,3,26,69,5,59,9,102,25,102,189,10,29,70,206,83,166,50,53,244,17,51,171,70,15,132,8,3,73,91,71,137,9
 Looking Ahead	3898,950,8
-Looking Ahead For Zimbabwe’s	9030
+Looking Ahead For Zimbabwe	9030
 Looking Ahead In FY27	6100
 Looking Ahead The Circular	9750
 Looking Ahead With the AU Digital Transformation	4590
@@ -1160,8 +1140,7 @@ Lookonchain	4127
 Looks	3103
 Looks Like	9112
 Looming Free Trade Agreements Pose Threats	1243
-Loon’s	3782
-Loop Perspective.	2096
+Loop Perspective	2096
 Loose	571
 Loots	2948
 Lopela Paul Kichoda	3005
@@ -1170,7 +1149,6 @@ Lopeta Paul Kichoda	3005
 Lopin	2342
 Lorato Gaofise. Location	5328
 Lorca	8125
-Lorca's	8125
 Lorcan Neill Journal	9221
 Lord Hodge	1829
 Lord Marhyno Gandou	4996,67,40
@@ -1181,7 +1159,7 @@ Lorena Rivero	1828
 Lorenz	2096,5182
 Lorenz Noe	6337
 Lorenzo	2816
-Lorenzo. A. D.	2816
+Lorenzo. A. D	2816
 Lori Systems	673
 Lormus Bundhoo	10045
 Lorna Hardie	9815
@@ -1235,9 +1213,8 @@ Lotus Bank's Edupartner	7444
 Loubna Tricha	8891
 Loud Colors ApS Lrytas M1-AUB	8530
 Loudima	3770,31
-Louga	58,7211,285,1267
+Louga	58,7211,285,1267,310
 Louga and Diourbel	7289
-Louga.	9131
 Louga. Le Logiciel	9581
 Louingui	6067
 Louis Gbèhounou Vlavonou	2855
@@ -1245,7 +1222,6 @@ Louis Gbèhounou Vlavonou. L'hôtel Azalaï	2842
 Louis Loku Telecommunications	10568
 Louis Manu	10481
 Louis Paul Motaze	2919,7
-Louis Paul Motaze.	2926
 Louis Trichardt	5733
 Louis-Marc Sakala	2764,1041,802,64,127,2476
 Louis-Yves Yinda. Sa	4065
@@ -1253,7 +1229,7 @@ Louise De Maerteleire-Ngo Mboui	3779
 Louise Pierrette Mvono	4125,3416,761,139
 Louise Pierrette Mvono. Les	7541
 Louisette Bassono	5759
-Louisiana.	10143
+Louisiana	10143
 Louisville	9128
 Loukis	2093
 Loukkos. Le	8109
@@ -1267,8 +1243,7 @@ Lounès Bouzegza	10021
 Lounès Bouzegza. Ces	10021
 Louren	9399
 Lourenco's Succession Race Heats Up	9399
-Lourenço	2804
-Lourenço.	6881
+Lourenço	2804,4077
 Lourimi	8378
 Lourino Alberto Chemane	2784,32,7323
 Lourino Chemane	2784,32,2111,103,1301,46,158,243,958,1490,125
@@ -1282,7 +1257,7 @@ Loveira	3407
 Lover’s Walk	3654
 Loving Memory Rosemary Koech	10694
 Low Bandwidth English	9429
-Low Base M-PESA's	8843
+Low Base M-PESA	8843
 Low Carbon Future	6387
 Low Conditional Medium Medium Medium Medium	6593
 Low Density	9437
@@ -1307,14 +1282,12 @@ Low Zambia Low Medium Medium Medium	6593
 Low and Mid Bill	665
 Low and Middle Income Countries	665
 Low- and Middle-Income Countries	6948,2483
-Low- and Middle-Income Countries.	6948
 Low-Band	5245
 Low-Earth	5060,3885
 Low-Earth Orbit	5245
 Low-Earth Orbit Satellites	3063
 Low-Impact	5665
-Low-Income Countries	6318
-Low-Income Countries’’	1828
+Low-Income Countries	1828,4490
 Low-Income Country Debt Sustainability Framework	3604
 Low-Medium	6432
 Low-Middle Income Countries	6948
@@ -1360,8 +1333,8 @@ Loyal	1940
 Loyer	737
 Loyers	2476
 Loyiso Tyira	9935
-Loïc Mbombo.	2366
-Loïc Souop.	6382
+Loïc Mbombo	2366
+Loïc Souop	6382
 Lumumba Loop P. O. Box LG	3386
 Léocadie Loukou Yao	5817
 M Data Centre Loan DFC	462
@@ -1401,13 +1374,13 @@ Marcy Cláudio Lopes	6614
 Marcy Lopes	2581,3407,72,554,26,179,125,22,29,315,745,2,574
 Marcy Lopes. O	6944
 MariaRosa Scarlata and David Lopez-Berzosa	226
-Market Participation Without Local Integration SpaceX's	6467
+Market Participation Without Local Integration SpaceX	6467
 Martin Elia Lomuro	3736
 Martin Lomuro	3583
 Mary Lopes	8057
 Maternal Health Long	1363
 Matjhabeng Local Municipality	7587
-Mattia Fracchia and Francesco Loiacono.	10609
+Mattia Fracchia and Francesco Loiacono	10609
 Mauritius Mauritius Bureau PORT LOUIS	10621
 Mbaye Bashir Lo	4253
 Mbeki Local Design Thinking	6832
@@ -1440,20 +1413,19 @@ Ministries of Health and Child Welfare and Local Government	21
 Ministry of Finance and Planning. Maxwell Melingasuk Loboka	4640
 Ministry of Health Methodology for Data Local	1867
 Ministry of Local	4126
+Ministry of Local Development	8189
 Ministry of Local Development and Environment	8189,1110
-Ministry of Local Development’s	8189
-Ministry of Local Government	395,36,546,535,1,1,264,89,53,68,748,199,1,1554,1458,2890,1508,2
+Ministry of Local Government	395,36,546,535,1,1,264,89,53,68,748,199,1,396,1158,1458,2890,1508,2
 Ministry of Local Government Spokesperson Chimwemwe Njoloma	8931
 Ministry of Local Government and Community Affairs	7814
 Ministry of Local Government and Public Works	3051,5892
 Ministry of Local Government and Rural Development	1988,3632,771,2407
-Ministry of Local Government.	3332
 Ministry of Transport and Logistics	2989,1664,351,5705
 Mobutu. Lors	6390
 Mohamed Abdallahi Louly	1271
 Mohamed Abdallahi Ould Louly	8226
 Monitoring Locations Incident Response Processes Physical	6432
-Moving Beyond Local Data Ownership.	3598
+Moving Beyond Local Data Ownership	3598
 Mozambique. Located	2634
 Mozambique. The Africa Local Public	1740
 Mr. William Loburon	3005
@@ -1462,7 +1434,7 @@ Ms Lou Aya Douabou	9162
 Multilateral Loans	7548
 Munyao Longwe. Efforts	9644
 Munyao Longwe. Five	9644
-Musina Local Municipality’	2093
+Musina Local Municipality	2093
 Mº INTERIOR Y ADMINISTRACION LOCAL Servicio	4209
 Mº INTERIOR Y ADMINISTRACIÓN LOCAL	4209
 Mövenpick Hotel and Residences. Looking	6946
@@ -1481,12 +1453,10 @@ National Local Government Finance Committee	5620,636,498,1821,92
 National Logistic Management Information System	4153
 National Logistics Management Information Services	2709
 National Logistics Management Information Services Platform	2709
-National Logistics Management Information Services Platform.	2709
 National Logistics Management Integrated System	4153
 National Logistics Management System	4153,11
 National Lotteries and Gaming Regulatory Board	9781
 National Lottery Administration	7909
-National Lottery Administration's	7909
 National Lottery Administration_	7909
 National Non-Performing Loan Resolution Conference	9943
 National School of Local Administration	3234
@@ -1550,15 +1520,15 @@ PIMENTEL LOPEZ	6613
 PME Lors	6804
 PORTANT PROMULGATION DE LA LOI L	233
 PRESENTATION DU PROJET DE LOI Ministère	1247
-PRESIDENTE CAMARA DE LOS DIPUT.	4209
+PRESIDENTE CAMARA DE LOS DIPUT	4209
 PROCEDURE FOR LODGING	2709
 PROHIBITION OF DATA LOCALISATION No State	1243
 PROJET DE LOI N	1801
 PROJETS DE LOI ET D'ORDONNANCE	2808
 PROPOSED LOAN	6539
 PROPOSED SOLUTIONS Low	8999
-PROTOCOLO GENDARMERIA LOGISTICA ENSEÑANZA INSPEC.GRAL. GRAL.	4209
-Par Quentin Loubou.	2656,1048,2050,1520
+PROTOCOLO GENDARMERIA LOGISTICA ENSEÑANZA INSPEC.GRAL. GRAL	4209
+Par Quentin Loubou	2656,1048,2050,1520
 Para Raimundo Lopes	6571
 Paradigm Initiative's Londa	1375,1887
 Paradigm Initiative’s LONDA	5215
@@ -1566,8 +1536,7 @@ Parlamento Nacional. Los	1701
 Parliamentary and Local Government Elections	4609
 Patient Location Patient Location Tracking	1009
 Paul M. Love	6997
-Pedro Lopes	2847,98,299,133,39,111,316,113,125,1428
-Pedro Lopes.	3663
+Pedro Lopes	2847,98,299,133,39,111,136,180,113,125,1428
 Pedro Margarida Lourenço Alcides Cambundo Orlanda	4044
 Penetration Test and Load Test	7266
 Pensioners Low	940
@@ -1597,9 +1566,9 @@ Port of Lomé	10203
 Potatoes Locally	6921
 Pour Marc André Loko	7392
 Pour Marc-André Loko	5927
-Preliminary Mapping of Data Localisation Measures.	1243
+Preliminary Mapping of Data Localisation Measures	1243
+President João Lourenço	793
 President João Lourenço and PM Narendra Modi	2804
-President João Lourenço's	793
 President João Lourenço's Dec	793
 President Louren	9399
 President Lourenço	2787
@@ -1615,7 +1584,7 @@ Prof. Doutor Eng. Lourino Chemane	7736,2404,300
 Prof. Doutor Eng. Lourino Chemane. Na	10140
 Prof. Doutor Engº. Lourino Alberto Chemane	2784
 Prof. Doutor Lourino Chemane	9694
-Prof. Dr. Eng. Lourino Chemane.	10141,160
+Prof. Dr. Eng. Lourino Chemane	10141,160
 Professora Doutora Paula Meira Lourenço	3079
 Programa de Conteúdo Local da SASOL	2816
 Project ESMF Bank Environmental Local	1988
@@ -1654,12 +1623,11 @@ Recall and Reverse Logistics Systems	9855
 Rechercher Loi	4420
 Recovered and Loss Averted	2775
 Regional Administration and Local Government	1261,4622
-Regional Administration and Local Government.	1261
 Regulation of Third-Party Logistics Providers	9855
 Regulator Upholds Local Ownership Rules	6785
 Related Articles News LOBAMBA	3331,727,2972,234
 Relevant Traditional Local Communities ESS	1867
-Republic of Cabo Verde Loan No.	8166
+Republic of Cabo Verde Loan No	8166
 Research Data Lockdown	3810
 Resolution of Non-Performing Loans	10408
 Reverse Low Libido	5574,215
@@ -1708,7 +1676,6 @@ Senegal. Looking	5909
 Sergino Lokossou	7797
 Service Delivery Footprint Local Offices	8999
 Serviços Locais	167,4051
-Serviços Locais.	4218
 Shanghai and London. Echoes	8629
 Sheena Lovia Boateng	226
 Shepherd Manhokwe Project Location	1554
@@ -1735,7 +1702,6 @@ Source-confidence Low	2161
 South Africa's Longer-Running Framework South Africa	7786
 South African Local Government	2093
 South African Local Government Association	2093,3779,1883
-South African Local Government’	2093
 South America. Loan	144
 South Sudan Revenue Authority Logo	7912
 South UTM Reference Longitude Latitude Antenna	736
@@ -1792,7 +1758,7 @@ Trixie LohMirmand	2577,3681,2859
 Truecaller Reports Lower Q2 Sales	7427
 Trusted Location May Be the Missing	8825
 Tunisian OGP Local	9022
-Twelve Megawatts of IT Load.	1245
+Twelve Megawatts of IT Load	1245
 Twenty-Four Megawatts of IT Load. Campus	1245
 TÍTULO VI DE LOS GASTOS Y	4209
 U.S. and EU-supported Lobito Corridor	5247
@@ -1805,7 +1771,7 @@ Ultra-Reliable Low-Latency Communications	5675
 Under LOC of USD	2667
 Undersea Optical Transmission System Employing Low	4676
 Underserved Traditional Local Communities	1988
-Unified Login Portal.	8175
+Unified Login Portal	8175
 Uniform Resource Locator	6423
 Union. Low	3583
 Universal Service Fund and CA Staff Loan	6946
@@ -1817,9 +1783,9 @@ Université de Lomé	2966,5654
 Université de Lomé. Opérationnalisation du Centre	2966
 Unmistakably Look	10078
 Uno. Los Nombramientos	4209
-Unwithdrawn Loan Balance.	1914
+Unwithdrawn Loan Balance	1914
 Urban District Councils. Under the EU Local	970
-User Interfaces for Low-Income Countries.	5349
+User Interfaces for Low-Income Countries	5349
 Using Net Total Tax Revenue Log	1828
 Uwezo Fund Loans Disbursement	2775
 VERSIONS ANNOTÉES ET COMMENTÉES DES LOIS	2342
@@ -1848,7 +1814,7 @@ Vu la Loi des Finances N	7470
 Water Department Loses Ksh.22 Billion	2428
 Western Cape Location	8999
 Western Cape Site Locations Site Name	8999
-Whether London’s	8049
+Whether London	8049
 Winning But Losing	5863
 Wireless Local Area Network	3386
 Wise Swazi Lobola	4535
@@ -1863,7 +1829,7 @@ Years Long Term Agreement Basis ITB	2743
 Yenga and Lofa	7452
 Yep. Looks	7065
 York and London	8206,1387
-York and Los Angeles.	9645
+York and Los Angeles	9645
 Youth Enterprise Development Fund Loan Disbursement	2775
 Youth Nominal Value of Loans	940
 ZNBC. Local	2707

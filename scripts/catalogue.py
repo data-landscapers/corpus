@@ -36,20 +36,9 @@ VOCAB = CORPUS / "outputs" / "vocab"
 NAMES = CORPUS / "outputs" / "names"
 DOC_IDS = CORPUS / "outputs" / "catalogue" / "doc-ids.csv"
 
-# Kept in step with `scripts/build-names-index.py` — see the WIN_RESERVED comment there
-# for why a shard key and its filename are not always the same string. Duplicated rather
-# than imported because that module's name carries a hyphen; if a third reader appears,
-# move all three onto a shared helper.
-WIN_RESERVED = {"con", "prn", "aux", "nul"}
+ENTITY_NAMES = CORPUS / "lookups" / "entity-names.csv"
 
-
-def shard_file(key: str) -> str:
-    return (key + "-" if key in WIN_RESERVED else key) + ".txt"
-
-
-def shard_key(filename: str) -> str:
-    stem = filename[:-4] if filename.endswith(".txt") else filename
-    return stem[:-1] if stem.endswith("-") else stem
+from names_lib import shard_file, shard_key  # noqa: E402  — see there for the WIN_RESERVED rule
 SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
 
@@ -227,7 +216,7 @@ SCRIPT = r"""
   // Expand once, in place: the strings are interned, so this costs array slots
   // rather than 24,891 copies, and every filter below then treats entities
   // exactly like places and topics.
-  var ENTS = D.ents || [], ENTLABEL = {};
+  var ENTS = D.ents || [], ENTLABEL = {}, DERIVED = D.entnames || {};
   (function(){
     // A slug is not a display name — deriving those is stage 2
     // (documentation/catalogue-search.md). Until then the label is the slug,
@@ -255,6 +244,9 @@ SCRIPT = r"""
                 ltd:1,inc:1,pty:1};
     function cap(w){ return w.charAt(0).toUpperCase() + w.slice(1); }
     for (var i = 0; i < ENTS.length; i++){
+      // A derived name always wins: it is what the sources themselves call the thing,
+      // where the prettifier is only a guess at how to write the slug.
+      if (DERIVED[ENTS[i]]){ ENTLABEL[ENTS[i]] = DERIVED[ENTS[i]]; continue; }
       ENTLABEL[ENTS[i]] = ENTS[i].split('-').map(function(w, ix){
         if (!w) return w;
         if (FUNC[w]) return ix === 0 ? cap(w) : w;
@@ -268,8 +260,15 @@ SCRIPT = r"""
     r[10] = (r[10] || []).map(function(i){ return ENTS[i]; });
     // Hyphens become spaces in the search blob so "security studies" reaches
     // institute-for-security-studies. Acronym slugs match the acronym, which is
-    // usually what a reader looking for one types anyway.
-    r._s = (r[0] + ' ' + r[1] + ' ' + r[10].join(' ').replace(/-/g, ' ')).toLowerCase();
+    // usually what a reader looking for one types anyway — and the derived display
+    // name goes in alongside, so the expansion finds it too: `nira-uganda` is
+    // reachable by "nira" and by "National Identification and Registration Authority".
+    var alias = '';
+    for (var ei = 0; ei < r[10].length; ei++){
+      var dn = DERIVED[r[10][ei]];
+      if (dn) alias += ' ' + dn;
+    }
+    r._s = (r[0] + ' ' + r[1] + ' ' + r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
     r._y = r[2].slice(0,4);
   });
 
@@ -556,6 +555,15 @@ def main() -> int:
     # request rather than a manifest round-trip and then a shard. The shards
     # themselves are fetched one at a time, on demand, and never by a reader who
     # only browses. See documentation/catalogue-search.md.
+    # Display names for entity slugs (stage 2). Absent slugs fall back to the page's
+    # own prettifier — 64% named today, and the file is meant to be hand-corrected.
+    ent_names = {}
+    if ENTITY_NAMES.exists():
+        with open(ENTITY_NAMES, encoding="utf-8-sig", newline="") as fh:
+            for r in csv.DictReader(fh):
+                if r.get("display"):
+                    ent_names[r["slug"]] = r["display"]
+
     nm = NAMES / "manifest.json"
     names_meta = json.loads(nm.read_text(encoding="utf-8")) if nm.exists() else None
     if names_meta:
@@ -565,8 +573,11 @@ def main() -> int:
         payload_names = None
 
     # packed data the page reads
+    # Only the slugs that *have* a derived name are shipped; the rest are absent and
+    # the page prettifies them, so this costs nothing for the 36% still unnamed.
     payload = {"places": places, "regions": regions, "topics": topics, "cats": cats,
-               "ents": ents, "names": payload_names, "rows": rows}
+               "ents": ents, "entnames": {s: n for s, n in ent_names.items() if s in set(ents)},
+               "names": payload_names, "rows": rows}
     data_js = out_dir / "catalogue-data.js"
     with open(data_js, "w", encoding="utf-8") as fh:
         fh.write("window.CATALOGUE = ")
@@ -622,6 +633,12 @@ def main() -> int:
               f"fetched on demand")
     else:
         print("  names index: not built — run scripts/build-names-index.py")
+    if ent_names:
+        named = sum(1 for e in ents if e in ent_names)
+        print(f"  entity display names: {named:,} of {len(ents):,} "
+              f"({100*named//max(len(ents),1)}%), rest prettified from the slug")
+    else:
+        print("  entity display names: none — run scripts/build-entity-names.py")
     return 0
 
 

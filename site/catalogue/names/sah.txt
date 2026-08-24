@@ -26,7 +26,7 @@ Elhadj Sahabi Moussa	7374
 Eritrea and Western Sahara	4809
 Etats du Sahel	6959,711
 G5 Sahel	643,355
-G5 Sahel CCDR.	1264
+G5 Sahel CCDR	1264
 G5 Sahel Country Climate and Development Report	1264
 G5 Sahel. Celle-ci	998
 G5 Sahel. La	998
@@ -35,15 +35,14 @@ Guideline SAHPGL-MD-03	3651
 Heroes Of The Sahel	3395
 Human Resources for Health SAHPRA South African	396
 IVDs. SAHPRA	3651
-Ivorian Ambassador Alphonse Voho Sahi.	3973
+Ivorian Ambassador Alphonse Voho Sahi	3973
 Jangwa la Sahara	7863
 Kumar Sahu	7759
 LM-07-2023-0072 Sahu	8022
 La Confédération des Etats du Sahel	6959
 Le Pdg de SaH Analytics International	5377
-Le Sahel	3127,2247
+Le Sahel	3127,2247,2333
 Le Sahel Aller	2514,287,536,4,15,39,594,824,1281,484,305,281,19
-Le Sahel.	7707
 Le Sahel. Unfolding	2778
 Les Héros du Sahel	3395
 L’Alliance des Etats du Sahel	6959
@@ -62,21 +61,18 @@ Pays du Sahel	8891
 Plateau-Central Sahel	737
 Regions Sahel	737
 SAH- PRA	8301
-SAH- PRA's	8301
 SAHEL	1967
 SAHPGL-MD-03	3651
 SAHPGL-MD-04	3651
 SAHPRA	396,3255,4650,530
 SAHPRA Classification	3651
-SAHPRA's	3651,4650
+SAHPRA's	8301
 SAHPRA's Classification Guideline	3651
-SAHPRA.	3651
 SAHPRAandRwandaFDA	8301
 SAHRC	6305,4036,349,32,7
 SAHRC Page	10729
 SAHRC Summit	10729
 SAHRC Summit Report	10729
-SAHRC’s	10690
 SAHWANYA-FRODEBU and Convention for Democracy and Prosperity	6122
 SAHYOG	9208
 SSA Sub Saharan Africa UMIC Upper-middle	10714
@@ -85,50 +81,44 @@ Sah Analytics International	2418
 Sah Analytics. Grâce	2418
 Saha and Roknuzzaman	8022
 Sahadun	8606
-Sahara	19,770,110,3214,1923,34,187,3070
+Sahara	19,770,110,3214,1111,28,784,34,187,3070
 Sahara Africa	8376
 Sahara Group	8610,233
 Sahara Reporters	7458
 Sahara. Starlink	5830
 Saharan	766,1120,721,1084,211,435,94,36,769,113,837,281,170,154,1761,1392,502
-Saharan Africa	19,130,87,353,372,61,125,9,2,1,60,29,115,193,421,2,179,83,194,104,56,107,73,170,3,236,1,302,117,178,409,306,17,11,196,251,64,461,36,241,28,140,206,55,123,19,27,1,190,116,205,267,78,31,279,6,3,56,15,182,35,50,490,248,30,372,93,9,27,75,55,171,118,42,19,74,79,16,67,32,66,219,89,147
+Saharan Africa	19,73,57,64,1,22,288,65,354,18,61,125,9,1,1,1,60,29,115,191,2,170,225,15,11,2,179,83,194,104,56,107,73,170,3,236,1,251,46,5,117,178,409,276,30,17,11,196,251,64,461,36,241,28,140,131,75,55,123,19,27,1,190,41,33,42,205,253,14,78,12,19,64,215,6,3,56,15,182,35,50,133,357,248,30,372,93,9,27,51,24,55,171,118,42,19,36,38,30,49,16,67,32,66,219,89,147
 Saharan Africa and South Asia	9653
-Saharan Africa's	6073,531
 Saharan Africa's GDP. Yet	3691
-Saharan Africa.	92,121,1,310,99,320,214,397,172,225,15,192,1278,46,985,30,1000,1140,500,104,83,562,133,1007,645,117
 Saharan Africa. AI	7545
-Saharan Africa. Africa’s	1726
+Saharan Africa. Africa	1726
 Saharan Africa. Airtel Africa	6932
 Saharan Africa. Beyond	6111
 Saharan Africa. Ctrack's IoT	620
 Saharan Africa. Côte	6884
+Saharan Africa. First	623
 Saharan Africa. Fund	454,366,12
 Saharan Africa. Int J Inf Manag	8376
 Saharan Africa. Now	4889
 Saharan Africa. Provides	1557
 Saharan Africa. SAT-3	2677
 Saharan Africa. SSA	93
-Saharan Africa. Stud Health Technol Inform.	8376
-Saharan Africa. The Bank's	9462
+Saharan Africa. Stud Health Technol Inform	8376
+Saharan Africa. The Bank	9462
 Saharan African	215,551,299,147,229,113,172,201,409,44,1411,258,2240,2087,753,506,334
-Saharan Africa’	9969
-Saharan Africa’s	6563,2643,533
 Saharan P2P	8019
-Sahara’s	5224,28
 Sahawal Alidou	10718
 Sahay S. Improving	771
 Sahay&volume	771
 Sahbaker	6259
-Sahel	643,94,52,209,266,704,154,149,106,398,566,15,40,728,683,15,37,365,28,239,458,10,135,535,20,59,11,240,321,53,119,293,49,164,41,404,181,72,631,55,154,56,408,429,158
+Sahel	643,94,52,209,266,704,154,149,106,398,382,184,15,40,728,683,15,37,365,28,239,458,10,135,535,20,59,11,240,321,53,119,293,49,164,41,404,181,72,631,55,154,56,322,86,429,158,68
 Sahel ARGASC Agence de Gestion	6959
 Sahel CARFO Banque Mondiale CBSD Comité	643
 Sahel Digital Corridor	9993
 Sahel Dimanche	998
-Sahel Fig.	6959
+Sahel Fig	6959
 Sahel PIM Personnes	643
 Sahel Sud-Ouest	737
-Sahel's	2271
-Sahel.	643,146,2368,4637,2080,741
 Sahel. Ce	737
 Sahel. La	737
 Sahel. Le Conseil des Ministres	2342
@@ -145,7 +135,6 @@ Sub Saharan Africa Business	5411,2135,58,2857,146
 Sub Saharan Africa European Commission	1455
 Sub Saharan African	6807
 Sub- Saharan Africa	1828,5720
-Sub- Saharan Africa.	1828
 Sub- Saharan Africa. Result	789
 Sud du Sahara	10712
 Sumiko Ogawa and Ratna Sahay	1828

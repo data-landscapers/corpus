@@ -6,7 +6,7 @@ AFRICA BLOOMS LIMITED Data Processor INST-8971433CDB1	7167
 AI for Africa Blueprint	1814,2312
 AWS Public Sector Blog	1207,1
 About Mercy Blogs	5363
-Acesso Blog Inter.	2816
+Acesso Blog Inter	2816
 Action Contre le Blanchiment	4127
 ActuNiger L’hôtel Radisson Blu de Niamey	4657
 Africa Blog Health Sports Entertainment Multimedia	9989
@@ -15,8 +15,7 @@ Africa’s Blueprint	2459
 Alain Ilepi. Blaise ABITA	9293
 Alchemer Blog	7278
 Alger and Blida	7031
-Algiers and Blida	7127
-Algiers and Blida.	7316
+Algiers and Blida	7127,189
 Amazon Elastic Block Store	1729
 Amindeh Blaise Atabong	2301,36,51,531,115,44,155,102,773,1229,253,29,80,594
 Animal Health Regional Blood Safety Laboratories	4153
@@ -72,10 +71,9 @@ BLOSSOM BUSINESS SOLUTIONS LIMITED Data Controller	7167
 BLOSSOM DENTAL CLINIC LTD Data Controller	7167
 BLOSSOM OUT CONSULTANTS LIMITED Data Controller	7167
 BLOX Content Management System	4261
-BLOX Digital.	4261
+BLOX Digital	4261
 BLT.11.099580	771
 BLT.11.099580&	771
-BLT.11.099580.	771
 BLUE CONCEPTS AFRICA COMPANY LIMITED Data	7167
 BLUE DIAMOND INVESTMENTS LIMITED Data Processor	7167
 BLUE EAGLE PRECISION LIMITED Data Processor	7167
@@ -175,7 +173,7 @@ Black-owned	5621
 BlackCat	9384
 BlackRock	1136,7962,46,201
 BlackRock and Franklin Templeton	9706
-BlackRock and Prosus Ventures.	9184
+BlackRock and Prosus Ventures	9184
 Blackbone. Il	5358
 Blackheath	8999
 Blackout	4753
@@ -196,16 +194,14 @@ Blands	3782
 Blank	2396,3046,3681
 Blank G	8460
 Blank Media Levy	8958
-Blank Media Levy.	8958
 Blanket	9794
 Blanket Licence	6891
-Blantyre	446,2842,61,1637,548,14,1261,461,2843,298
+Blantyre	446,2842,61,1637,548,14,1261,461,2841,2,298
 Blantyre City Council	5312,5286
 Blantyre E-mail Address	3678
-Blantyre Government Office Complex and Zomba Government's	127
-Blantyre and Liwonde.	9945
-Blantyre and Zomba.	127
-Blantyre.	10111
+Blantyre Government Office Complex and Zomba Government	127
+Blantyre and Liwonde	9945
+Blantyre and Zomba	127
 Blantyre. Lilongwe	1632
 Blantyre. Malawian President Lazarus Chakw	483
 Blantyre. Support	1704
@@ -221,7 +217,7 @@ Blended	6668,880,924,1023
 Blended Finance Facility	3470
 Blending	2773
 Blerta Cela	6336,2559,160
-Blessed Ndlovu Jun.	6244,1
+Blessed Ndlovu Jun	6244,1
 Blessed Virgin Mary	7845
 Blessing Anolaba	2364
 Blessing Johnette	8038
@@ -232,11 +228,10 @@ Bletchley Declaration	4583
 Bletchley Park	2816
 Bleu and S3NS	6521
 Blewett	5854
-Blida	2838,7,930
-Blida.	6419
+Blida	2838,7,930,2644
 Blida. Fonctionnant	7031
 Blife	3782
-Blight.	3782
+Blight	3782
 Blind	571,328,6047,3575
 Blind Act	8022
 Blinded	5599
@@ -245,7 +240,6 @@ Blis Dental Clinic Limited Data Controller	7167
 Blitta	8718
 Blive	3782
 Bln Tech Hub	3718
-Blnk’s	6528
 Bloated	6205
 Blob Storage	6432
 Blobel	8606
@@ -263,8 +257,7 @@ Block-5	4557
 Block-7	6588
 BlockTower	9367
 BlockTower CEO Vighnesh Patel	9367
-BlockTower’s	9367
-Blockchain	1183,32,16,1038,19,45,14,9,24,65,84,4,11,2,4,12,38,10,6,3,8,49,4,136,285,243,278,30,66,422,265,123,98,430,282,332,124,146,163,149,27,81,98,164,56,209,51,125,238,23,224,249,808,632,469,3,246
+Blockchain	961,222,32,16,1038,19,45,14,9,24,65,84,4,11,2,4,12,38,10,6,3,8,49,4,136,285,243,278,30,66,422,265,123,98,430,282,332,124,146,163,149,27,81,98,164,56,209,51,125,238,23,224,249,808,632,469,3,246
 Blockchain Advisory Group	9170
 Blockchain Africa	9955
 Blockchain Association	8298
@@ -278,10 +271,8 @@ Blockchain Technology Workforce	958
 Blockchain and NFC	2722
 Blockchain for Good Alliance	9658
 Blockchain for Good Alliance and Bybit	9658
-Blockchain for Good Alliance.	9658
 Blockchain-Based Solutions	10718
 Blockchain-based	958,6400,1,1246
-Blockchain.	961
 Blockchain. X	961
 Blockchain.News	4127
 Blockchains	8605,522,1526
@@ -296,8 +287,7 @@ Bloemfontein	1196,7395
 BlogThe Role of Mojaloop	2537
 Blogger-hosted	8015
 Bloggers Association of Kenya	8095,987
-Bloggers of Zambia	9416
-Bloggers of Zambia's	5626
+Bloggers of Zambia	5626,3790
 Bloggers of Zambia- BloggersZM	9082
 Blogs	2816,2404,143,2938
 Blogs Why WhatsApp	5220
@@ -305,7 +295,7 @@ Blong-standing	4676
 Blood	10481
 Blood Collection	2775
 Blood System	4153
-Bloomberg	388,426,924,3,123,113,2,19,545,64,70,736,565,491,152,47,410,39,6,124,117,263,523,100,140,100,650,18,862,1040,556,13
+Bloomberg	388,426,924,3,87,36,113,2,19,545,64,70,736,565,491,152,47,410,39,6,124,117,263,523,100,140,100,650,18,288,574,29,1011,556,13
 Bloomberg Authorities	7343
 Bloomberg Coronation	7343
 Bloomberg IN DEPTH	7343
@@ -318,14 +308,11 @@ Bloomberg USD	7343
 Bloomberg and Data Center Dynamics	6266
 Bloomberg and Lighthouse Reports	1738
 Bloomberg the Dubai-based	7440
-Bloomberg's	2607
-Bloomberg.	388,1440,3536,2082,603
 Bloomberg. ADVERTISEMENT Microsoft	5364
 Bloomberg. Angolan President Hints At Successor	9399
 Bloomberg. Angolan President Seeks New Ruling	9399
 Bloomberg. NIRA	1738
-BloombergNEF. Equinix’s	5628
-Bloomberg’s	8049
+BloombergNEF. Equinix	5628
 Bloomington Book Google Scholar Olusanya J	9739
 Bloomwit Africa	2339
 Bloomwit Africa Monitoring Standard	7445
@@ -341,12 +328,9 @@ Blossom.Matizirofa	9889
 Blow for Chivayo	1817
 Blown	1988
 Blu Analytics DMCC Data Processor INST-90753643274	7167
-Blu Label	9911
+Blu Label	9911,762
 Blu Label Unlimited	9911,711
-Blu Label.	9911
-Blu Label’s	9911,762
 Blu Penguin	3304
-Blu Penguin's	3304
 Blu-X and C-Trade	6938
 Blue Access Ghana Limited	3386
 Blue Book	4101
@@ -365,18 +349,16 @@ Blue Label Telecom	78,1
 Blue Money	2785,743,643,184,1024,320
 Blue Money Les	4355
 Blue Money. C'est	4355
-Blue Money’’	2785
 Blue Moonlight Properties	2307
 Blue Nile	6947,862
 Blue Nile State	7809
-Blue Nile.	7809
 Blue Pacific Guards Limited Data Processor	7167
 Blue Raman	4470,2084
 Blue Ramen	2679
 Blue Store Warda	4271
 Blue Synergy Alpha IC GmbH Boc-Group	8530
 Blue Ventures Conservation Data Controller INST-1216939ED83	7167
-Blue Water Healthy Living's	10373
+Blue Water Healthy Living	10373
 Blue-Neuron Limited Data Controller INST-2124697B219 NAIROBI	7167
 Blue-Neuron Limited Data Processor INST-2124697B219 NAIROBI	7167
 Blue-header-2025.png	1580
@@ -386,8 +368,8 @@ BlueInvest Africa	8673
 BlueOrchard	864,29,1258,2821
 BluePeak	9610,1
 BluePeak Medical Center Data Controller INST-70096884DE1	7167
+BluePeak Private Capital	9610
 BluePeak Private Capital Fund II	9610,1
-BluePeak Private Capital.	9610
 BlueSalt Financial Services	3213
 BlueSalt Financial Services. Mark	3213
 Blueberry Voyage Limited Data Controller INST-307794A3E10	7167
@@ -405,7 +387,6 @@ Blueprint for Public Sector Transformation Once	8367
 Blueprint for Success	9115
 Blueprint for Value Creation Through Data	7063
 Blueprint-for-Mauritius-2025.pdf	5363
-Blueprint.	7362
 Blueprint. Develop	899
 Blueprint. Key	3556
 Blueprints and Reference	9124
@@ -413,14 +394,12 @@ Bluesky	4253,176,1011,1077,1340
 Bluesky Streamline Icon	5440
 Bluestream Capital	8076
 Bluetooth	3922
-Bluetooth.	3922
 Blum and Baraka	3782
 Blume	8436
 Blumenstock	5700,5026
 Blumenstock&publication_year	4439
 Blumer	5349
 Blurring	3615
-Blu’s	9911
 Blyden	7934
 Bouba Nezene Blaise	3412
 Brause and Blank	8460
@@ -431,7 +410,6 @@ Building Block API	6423
 Building Block Components The Building Block	6423
 Building Block for Analysts	6423
 Building Block for Applicants	6423
-Building Block.	6423
 Building Block. CAITA	3272
 Building Block. Developer	6423
 Building Block. Participating CAITA	3272
@@ -440,7 +418,7 @@ Building Blocks Approach for Digital Public	5700
 Building Blocks for Artificial Intelligence	2816
 Building Blocks for Digital Financial Inclusion and Taxation	5244
 Building Blocks. Additional APIs	6423
-Business Digest By Blessed Ndlovu Jun.	6244,1
+Business Digest By Blessed Ndlovu Jun	6244,1
 CAMTEL's Blue Money	4171
 CEO Stephen Blewett	6242,1249
 CIPESA Blog	10246
@@ -452,7 +430,7 @@ Canada’s AI Blueprint Expansion	8629
 Carnegie Endowment for International Peace. A Black	5550
 Ce Livre Blanc	9081
 Central Facility Block	3386
-Check Point Research Blog.	9815
+Check Point Research Blog	9815
 Colombe Blanche	1576
 Control Management BBBEE Broad Based Black	5533
 Cotonou. Blaise Ahouantchédé	2915
@@ -463,7 +441,6 @@ DLP. The DLP Blueprint	899
 DPA Blog	4583
 DYER AND BLAIR INVESTMENT BANK LIMITED	7167
 Dar Blend	3583
-Dar Blend'.	3583
 Data Centre Blueprint	10210,82
 Declaração de Bletchley	2816
 Department of Agriculture Livestock and Blue Economy Data	7167
@@ -476,7 +453,6 @@ Digital Literacy Programme Blueprint	899
 Digital Literacy Programme Blueprint. The DLP	899
 Digital Registries Building Block	6423
 Digital Registries Building Block Specification	6423
-Digital Registries Building Block.	6423
 Digital Registries Building Block. The Digital	6423
 Digital Transformation Blueprint	789,2128,1666,1203
 Dr. Blyden	7934
@@ -484,12 +460,12 @@ Dr. Virág Blazsek	8697
 EAEG2 Maureen P. Blassou Team Member	1284
 Economia Blog	7881
 Eleanor Black and Robyn Richmond	571
-ElementPay Blaise Pascal Gasabira Leads Rwanda's	6887,414
+ElementPay Blaise Pascal Gasabira Leads Rwanda	6887,414
 Emirates International Investment Company. Blnk	4457,2071
 Enter The Green Blood Group	4997
 Estelle Blafond	7681
 Ethiopia. Blended	1561
-Ethiopia. World Bank Blogs.	8671
+Ethiopia. World Bank Blogs	8671
 European Journal of International Law Blog	1243
 Exactly the Block	1866
 Expenditure Recurrent Capital Block Grants	5655
@@ -508,11 +484,9 @@ Gold Customers Active Black Customers DISTRICT	8999
 Google for Startups Black Founders Fund	9321
 Google for Startups Black Founders Fund Africa	674
 Google for Startup’s Black Founders Fund	1363
-Google’s Black Founders Fund	4126
-Google’s Black Founders Fund.	1363
+Google’s Black Founders Fund	1363,2763
 GovStack Building Blocks	6423
 GovStack Building Blocks Specification	5700
-GovStack Building Blocks.	6423
 Governing the Blind Spot	10570
 Government Blockchain Academy	9170
 Government of Mauritius's Digital Transformation Blueprint	2771
@@ -522,7 +496,7 @@ Green Blood Group. Les	4992
 Green Bloods	4997
 H Blue Synergy Docent.Digital Boc-Group	8530
 Health Bloc	5141
-Health Blocs.	5141
+Health Blocs	5141
 House Entebbe Office Block Uganda	9322
 IA A Declaração de Bletchley Park	2816
 IDD04 Blaise Pascal Dushime Team Member	1284
@@ -531,14 +505,12 @@ INCHR Accuses Police of Blocking Access	10405
 India Blueprint for Growth	4444
 Indiana University Bloomington. Aadyaa Maddi	7711
 Information Mediator Building Block	6423
-Information Mediator Building Block.	6423
 Information Mediator Building Block. Client	6423
 Innovative Model Combining Block Farming	848
 Integrated Bluetooth	34
 Internet Governance Blueprint	8343
 Johns Hopkins Bloomberg School of Public Health	1212
-Johns Hopkins Bloomberg School of Public Health.	1212
-Joshua Blumenstock.	4439
+Joshua Blumenstock	4439
 Justice Blueprint	9546
 KENYA Digital Literacy Programme Blueprint	899
 Kenya Digital Economy Blueprint. The BPS	5108
@@ -554,7 +526,7 @@ Libre Blanc	7649
 Lighthouse Reports and Bloomberg	6390
 Livre Blanc	3857,3792,1432
 Local News By Blessed Ndlovu	5222
-Loni Prinsloo for Bloomberg.	5628
+Loni Prinsloo for Bloomberg	5628
 Low Noise Block	6482
 L’Association des Blogueurs de Guinée	8084
 M. Blaise Bienvenu ALI	9277
@@ -568,12 +540,12 @@ Mayor for Blantyre City Council Isaac Jomo	5312
 Meta Blueprint	10133
 Microsoft Azure Blog	411
 Microsoft and BlackRock	2025
-Mike Blakemore.	6948
-Million for Africa Digital Push Bloomberg News.	9060
+Mike Blakemore	6948
+Million for Africa Digital Push Bloomberg News	9060
 Minister’s Strategic Blueprint	2933
 Ministry of Fisheries and Blue Economy. Author	4762
 Ministry's Strategic Blueprint. The Desk	10157
-Mitchell Blaser.	769
+Mitchell Blaser	769
 Mombasa Island Blocks XVI	3374
 Mombasa Island Blocks XVI and XVII	3374
 Monsieur Blehoue Toussaint Damoh	8316
@@ -582,7 +554,7 @@ Mr. Blewett	5136,1106
 Ms Blakemore	7163
 Mya Blue	9739
 NBS Bank and Blantyre City Council	5312
-NFIS II. God Bless Zimbabwe Dr.	940
+NFIS II. God Bless Zimbabwe Dr	940
 NVIDIA Blueprints	5439
 NVIDIA Network Configuration Blueprint	5266
 NVIDIA's Blackwell GPU	3576
@@ -596,10 +568,9 @@ Newsfeed Blnk	6528
 Nigeria Engaging the Sustainability Blind Spots	8258
 Nigeria’s The Black Book	10481
 Nile Blend	3583
-Nile Blend'	3583
 Nine Blue Water Guards	10135
-Nnedi’s Wahala Zone Blog.	9739
-Norrsken22 and Blue Earth Capital.	1140
+Nnedi’s Wahala Zone Blog	9739
+Norrsken22 and Blue Earth Capital	1140
 Norrsken22 and Blue Earth Capital. Norrsken22	1140
 Number of Blood Units Collected	2775
 Nvidia Blackwell	9629
@@ -617,7 +588,6 @@ Postbank Black Card	2626,5230,1143
 Postbank Black Card. Newsclock Squeezeback	8999
 Postbank Black Card. Radio	8999
 Postbank Black Cards	7856
-Postbank Black Cards.	7856
 Pour Blerta Cela	9055
 Practical Building Blocks	8206
 Primary Data Centre and Blantyre	1632
@@ -637,15 +607,14 @@ Reference Black	8436
 Reference Blume2012	8436
 Regions and Economic Blocs	2775
 Registration Building Block	6423
-Registration Building Block.	6423
 Registries Building Block	6423,1780
 Regulatory Blindness	7909
 Related Blog Posts	4442
 Room Block	9031
 RÉFÉRENCES BIBLIOGRAPHIQUES Blanchard	7655
 Scaling Blockchain for Public Good	9170
-Schedule. Blocking	587
 Scott Blacklin	3125
+Second Schedule. Blocking	587
 Security Building Block	6423
 Senegal Constitutional Council Blocks Parliamentary Law	5163
 Shoprite Belhar Shoprite Bellville Shoprite Blue	8999
@@ -657,26 +626,24 @@ Smart Africa’s Blueprint	4126
 Solana Blockchain	4127
 Somnoma Blaise DJIGUEMDE.Au	7670
 South Africa's Broad-Based Black Economic Empowerment	6467
-South Sudan's Bleeding Finances.	3583
+South Sudan's Bleeding Finances	3583
 South Sudan's Dar Blend	3583
 Spectrum MHz of Blocks Available Block	736
 Starlink Blocked From Namibia	6785
-Statistics House Entebbe Office Block.	9322
+Statistics House Entebbe Office Block	9322
 Stephen Blewett	5127,9,388,330,388,916,333,1322
 Strategy and Data Centre Blueprint	10292
 Strengthen Regional Connectivity The Blue Raman	6554
 Sudan's Blue Nile State	7809
 Sylvia Blyden	7934
 Tablets Blackberry Smart Phones	34
-Tanzanias Blueprint for Regulatory Reforms.	635
+Tanzanias Blueprint for Regulatory Reforms	635
 Tony Blair	4126,2218
 Tony Blair Global Institute	6369
 Tony Blair Institute	4046,1279,495,447,10,264
-Tony Blair Institute for Global Change	1965,2081,492,787,942,77,2077,863
-Tony Blair Institute for Global Change.	6344,2077
-Tony Blair Institute for Global Change’s	4126
+Tony Blair Institute for Global Change	1965,2081,80,412,787,942,77,2077,863
 Tony Blair Institute’s Ghana AI Policy	4126
-Tony Commission Blair Institute’s	4126
+Tony Commission Blair Institute	4126
 Transformation Blueprint	4126
 UCL IIPP Blog	5700
 UNDP Resident Representative Blerta Cela	6303,42
@@ -688,11 +655,10 @@ University of Blida	2124
 Unstructured Data Blindspot	3279
 Veronika Blablová	8890
 View Related Blogs View All Niger	10358
-Village Capital and Hatch Blue.	10464
-West Africa and Blue Cloud's	10518
+Village Capital and Hatch Blue	10464
+West Africa and Blue Cloud	10518
 Whistle Blowers and Witness Protection Bill	8681
-World Bank Blogs	8891
-World Bank Blogs.	10714
+World Bank Blogs	8891,1823
 Y BLOQUERIAS EN GENERAL	4209
 Y BLOQUERIAS EN GENERAL TALLERES Y	4209
 York Stock Exchange. Bloomberg	8049

@@ -27,8 +27,8 @@ Daughters of Charity of St Vincent Depaul Data	7167
 Derrière ST Digital	3658,2617,145
 Digitalization and Innovation and ST DIGITAL GABON	7035
 EU ST	9123
-Ethiopia. St Comp Int Dev.	1219
-Extends ST Digital's	1881
+Ethiopia. St Comp Int Dev	1219
+Extends ST Digital	1881
 Extends the ST Digital	1881
 Federal Reserve Bank of St. Louis	8126
 Frames ST Digital	3283
@@ -36,7 +36,7 @@ Gabon ST Digital	3298
 Georges St Family Centre	8999
 Headmistress of St. Monica’s Girls’ School	5802
 Jennifer Onyeagoro ST Digital	3436
-Komora Vocational Training Centre and St. Benedict's	7394
+Komora Vocational Training Centre and St. Benedict	7394
 Le Datacenter de ST Digital	2399
 Libreville Special Economic Zone. ST Digital	7093
 Long St	8999
@@ -47,25 +47,21 @@ ST CENT IPNX	3862
 ST CENT IPNX BIG PICTURE	3862
 ST CENT IPNX INQ.DIGITAL NIGERIA LIMITED	3862
 ST Century	3862
-ST DIGITAL	3418
+ST DIGITAL	3418,3703
 ST DIGITAL GABON	7035
 ST DIGITAL Gabon	7121
-ST DIGITAL's	3418,3703
-ST DIGITAL.	7121
-ST Digital	1697,148,36,507,11,779,105,15,138,222,25,15,3,158,184,2111,121,100,25,20,26,124,10,513,306,2121
+ST Digital	1697,148,36,507,11,779,105,8,7,138,222,25,11,4,3,158,184,2111,121,100,25,20,26,124,10,513,306,2121
 ST Digital Togo	6446
 ST Digital and Cassava	6580
-ST Digital's	3283,8,145,258,2460
 ST Digital's DataCenter	3436
 ST Digital's Douala	3283
-ST Digital.	3291,145
 ST Digital. La	3298
 ST Digital. Le	3298
 ST Digital. Nous	6375
 ST Digital. Pour	2399
 ST Digital. Selon	6655
 ST Engineering	5528
-ST Engineering and Airbus Defence and Space.	6482
+ST Engineering and Airbus Defence and Space	6482
 ST R&D SDGs SGCI SOPs STI	1154
 ST RONGAI PEDIATRIC CLINIC Data Controller	7167
 ST. George's Primary School	10049
@@ -94,8 +90,8 @@ St. Mathews Muromutua School	10313
 St. Monica’s Girls School	5802
 St. Peter’s Rambusi Secondary School	6946
 St. Raphael’s Burangusi	6946
+St. Stephen	3046
 St. Stephen Episcopal Church	3046
-St. Stephen’s	3046
 St. Thomas Aquinas Kalawa Boys Secondary	10313
 T TH E H ST AFO	2776
 Taifa Burkina Opposite St. Dominic	3386

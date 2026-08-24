@@ -2,6 +2,7 @@ A- Renewable Energy Percentage	7548
 A- Renewable Energy Sourcing Criterion A1-	7548
 AFYAPLUS RENAL CENTRE LIMITED Data Controller	7167
 ARCEP Renforcer	998
+AUTRES DEMANDES DE RENOUVELLEMENT	998
 AUTRES DEMANDES DE RENOUVELLEMENT PERMISSIONNAIRE REFERENCE	998
 Activités Réalisées Renforcement Assurer	998
 Administration Renforcement	10712
@@ -117,6 +118,7 @@ Data Processor INST-782691569C2 NAIROBI Kenya Renewed	7167
 Data Processor INST-91665059EAC NAIROBI Kenya Renewed	7167
 Data Processor INST-980101438DC MACHAKOS Kenya Renewed	7167
 Data Processor INST-98856881106 NAIROBI Kenya Renewed	7167
+Develop Renewable Energy and Digital Infrastructure Projects	6529
 EBRD President Odile Renaud-Basso	4650,2579
 ECOWAS Renewable Energy Facility	6422
 ELECTRICIDAD Y ENERGIAS RENOVABLES	4209
@@ -130,7 +132,7 @@ Energia Renovável	1948
 Energías Renovables	4209
 Energías Renovables Excelentísimo	1855
 Environnemental Renforcer	8891
-Federal Government’s Renewed Hope Agenda.	5765
+Federal Government’s Renewed Hope Agenda	5765
 Federal Government’s Renewed Hope Smallholder Support	5765
 Federal Republic ofNigeria's Health Sector Renewal	4301
 Fintech Valu and IKEA Egypt Renew Partnership	9790
@@ -326,7 +328,7 @@ LE SÉNÉGAL RENFORCE SES PARTENARIATS STRATÉGIQUES	7852
 Le Béninois René Fadonougbo	8016
 Le Programme de Renforcement des Capacités du MTFP	1281
 Le Renouveau	6162
-Le Renouveau du Burundi.	6162
+Le Renouveau du Burundi	6162
 Licence Renewal Forms Application for Renewal of Submarine	9109
 License Renewal	5665
 L’ Agence Nationale de Renseignement Financiers	4420
@@ -362,12 +364,10 @@ Periodic Review License Renewal Process Steps	5665
 Power Generation and Renewable Energy	5533
 President Bola Ahmed Tinubu's Renewed Hope	7144,740,2273
 President Bola Ahmed Tinubu’s Renewed Hope	2933,85,36,1671,2729,205,236,2414
-President Bola Tinubu's Renewed Hope Agenda	9755
-President Bola Tinubu's Renewed Hope Agenda.	7883
-President Bola Tinubu’s Renewed Hope Agenda	2318,6103
-President Bola Tinubu’s Renewed Hope Agenda.	8586
+President Bola Tinubu's Renewed Hope Agenda	7883,1872
+President Bola Tinubu’s Renewed Hope Agenda	2318,6103,165
 President France-Albert Rene	9679
-President Renewed Hope Agenda.	7664
+President Renewed Hope Agenda	7664
 President Tinubu’s Renewed Hope Agenda	3018
 President’s Renewed Hope	5067
 Processor INST-1532551F799 NAIROBI Kenya Renewed	7167
@@ -415,6 +415,7 @@ RENAPER F25 Jul	10714
 RENEWAL FORM DP1 POTRAZ	1877
 RENEWAL OF EXPIRED CARDS Beginning	1920
 RENMOZ	6743
+RENOUVELLEMENT	998
 RENOUVELLEMENT PERMISSIONNAIRE REFERENCE DECISION DATE DE	998
 RENOVABLES	4209
 REREC Rural Electrification and Renewable Energy Corporation	2775
@@ -449,7 +450,7 @@ Renew Capital	9056
 Renew In-Law’s Family’s Passports. He Makes	7176
 Renewable	428,290,71,181,848,10,132,2568,368,10,341,553,991,567,44,144,2,2765
 Renewable Energies and Energy Efficiency	789
-Renewable Energies and Ibn Zohr University.	4032
+Renewable Energies and Ibn Zohr University	4032
 Renewable Energy	718,252,3926,1526,1995
 Renewable Energy Business Conference	6743
 Renewable Energy Infrastructure	2234
@@ -459,7 +460,7 @@ Renewable Energy Policy	970
 Renewable Energy Usage	4528
 Renewable Energy Zimbabwe	970
 Renewable Energy and Energy	789
-Renewable Energy and FMCG.	4896
+Renewable Energy and FMCG	4896
 Renewable Energy and Power Systems	4896
 Renewable Feedstocks Table	2775
 Renewable-energy	9719
@@ -476,10 +477,9 @@ Renewals	1554,3400
 Renewed	5533,1634,312,3239
 Renewed Commitment Under	9582
 Renewed Hope	5499,4658
-Renewed Hope Agenda	2394,142,3840,1275,233,1089
+Renewed Hope Agenda	2394,142,2189,1651,1275,233,1089
 Renewed Hope Agenda of President Bola Ahmed	8980,1083
-Renewed Hope Agenda of President Bola Tinubu.	10156
-Renewed Hope Agenda.	4725
+Renewed Hope Agenda of President Bola Tinubu	10156
 Renewed Hope Cooperative Reform	9876
 Renewed Hope Development Plan	10157
 Renewed Hope National Home Grown School	2318

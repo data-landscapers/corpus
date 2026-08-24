@@ -6,9 +6,7 @@ BS-0428-5841 Mob	3386
 BSA GROUP PLC Data Controller INST-359141F532C	7167
 BSA-AIR	4567
 BSA-Air	4567
-BSA-Air.	4567
 BSAGE	5349
-BSB's	6774
 BSC Broadband Systems Corporation CAPEX Capital	718
 BSC Ltd	718
 BSC Rwanda	5606
@@ -19,7 +17,7 @@ BSDs for DTT	6946
 BSDs for DTT FM Broadcasters FY	6946
 BSE Star	7981
 BSG Technologies	10118
-BSG and Technologies.	10118
+BSG and Technologies	10118
 BSIC Burkina	2983
 BSIC Burkina Faso	2983
 BSIC Burkina. Cette	2983
@@ -35,13 +33,13 @@ BSalifu	5349
 BSample	5349
 BSampling	5349
 BSamuelson	5700
-BSandman.	5700
+BSandman	5700
 BSandy	5349
 BSarwar	5349
 BSaturate	5349
 BSaturation	5349
 BSc Electronics	4896
-BScale.	5700
+BScale	5700
 BSchmelzle	5349
 BScholl	5349
 BScience	5349
@@ -53,9 +51,8 @@ BSeeking	5349
 BSerious	5700
 BSeriously	5349
 BService	5349
-BServices	5349
+BServices	5349,351
 BServices&doi	5349
-BServices.	5700
 BShahzad	5349
 BShape	5349
 BShaped	5700
@@ -86,14 +83,14 @@ BSophistication	5349
 BSource	5700
 BSouth	3782
 BSpace&doi	5700
-BSpecification.	5700
+BSpecification	5700
 BSpectrally	4676
 BSport	5349
 BStahl	5349
 BStandards	5349
 BStanford	4676
 BStarosielski	3782,894
-BStatcounter.	3782
+BStatcounter	3782
 BState	5700
 BStates	5700
 BStone	4676
@@ -103,23 +100,21 @@ BStrauss	5349,351
 BStross	3782
 BStructure	5349
 BStudies	4676,673
-BStudies.	4676
 BStudy	5349
 BSubjective	5349
 BSubmarine	3782,894
 BSubsea	4676
 BSuherman	5349
 BSumartono	5349
-BSummary.	5700
+BSummary	5700
 BSummit	5700
 BSuri	5349
 BSustainable	5349
 BSynthesis&doi	5349
 BSystem	4676,673,351
 BSystematic	5349
-BSystems	5349,351
+BSystems	4676,673,351
 BSystems&doi	5349
-BSystems.	4676
 Bergmans Security Consultant and Supplies Limited and Bsmart	8499
 Bsays	3782
 Bscene	3782
@@ -128,14 +123,14 @@ Bsecretly	4676
 Bsecurity	3782,894
 Bsell	3782
 Bservice	3782
-Bservices.	3782
+Bservices	3782
 Bshaped	3782
 Bshift	3782
 Bsign	4676
 Bsilk	4676
 Bstartup	3782
 Bstate-owned	4676
-Bstatecraft.	4676
+Bstatecraft	4676
 Bsteer	4676
 Bstop	3782,894
 Bstorage	4676
@@ -143,7 +138,7 @@ Bstory	3782
 Bstrategy&doi	4676
 Bsubmarine	3782,894
 Bsubsea	3782,894
-Bsummary.	3782
+Bsummary	3782
 GateOfWise and BSC	5049
 Les BSA-AIR	4567
 MYBS and BSP	4932

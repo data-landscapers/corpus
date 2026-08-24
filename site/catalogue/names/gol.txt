@@ -7,7 +7,6 @@ ALLIED GOLD Corpora- ETAT DE COTE	2342
 ARTHUR GOLDSTUCK	3318,1707,183
 Africa's Real Gold Mine Isn't Underground	10078
 African Gold Bank	4401
-African Gold Bank.	4401
 African States GoL Government of Liberia ICT	1777
 Agbaou Gold Operations	2342
 Allied Gold	8755
@@ -30,12 +29,11 @@ Cameroon Tightens Control Over Gold Mines	3768
 Cape Town. King David Golf Club	6486
 Cape Winelands Gold Customers	8999
 Connected Summit Golf Tournament	6946
-D. Goldberg.	5700
+D. Goldberg	5700
 DIPLO Jean-Claude GOLD CORPORATION	2342
 Dangote Sugar and Japaul Gold	7446
 Data Services Market Inquiry. Arthur Goldstuck	8668
 David Goldman	5863
-David Goldman’s	5863
 Diamond and Gold Purchasing Bureau	2889
 Division Golfe de Guinée	8673
 Domestic Gold Purchase Programme. Tanzania	8526
@@ -48,7 +46,6 @@ GOLD CARDS	8999
 GOLF Consulting. La	2270
 Ghana Gold Board	7695
 GoLemon	8198,1297
-GoLemon’s	8198
 Golang-based	4997
 Golaszewski	8022
 Gold Bank	4401
@@ -68,28 +65,24 @@ Golden Age of Strategic PR	7253
 Golden Clinic Complexes	5317
 Golden Cudgel	8460
 Golden Jubilee	6422
-Golden Palm Investments	264
-Golden Palm Investments.	265
+Golden Palm Investments	264,1
 Golden Ratio of Human Resource Management_	4432
 Golden Shield Project	5242,474
 Golden Tulip	3248
 Goldenziel	4676
 Goldman	5863
-Goldman Sachs	5161,659,1969
-Goldman Sachs and Intel. Fusepay’s	4056
-Goldman Sachs’	1363
+Goldman Sachs	1363,3798,659,1969
+Goldman Sachs and Intel. Fusepay	4056
 Goldmedia	9739
 Goldsmith	5242
 Goldstein	8604
-Goldstuck	7382,1112,174,1253
-Goldstuck.	1972,6522
+Goldstuck	1972,5410,1112,174,1253
 Golfe	4267,12,3111,59,2244
 Golfe Prefecture and Greater Lomé	3437
 Golfe de Guinée	8755
 Golfe. Malgré	7655
 Golfo de Guinea	1701
 Golfo de Guinea En	1701
-Golfo de Guinea.	1701
 Golla	8436
 Golshan	7759
 Guerre du GolfeRévolution	7655
@@ -98,19 +91,19 @@ HIRE GOLD MINE Gestion	2342
 Hiré Gold Mine	2342
 Hôtellerie SONAPIE AGBAOU BONIKRO GOLD MINE	2342
 Intel Xeon Gold	9475
-JP Morgan and Goldman Sachs.	4447
+JP Morgan and Goldman Sachs	4447
 Jean Jacques GOLOU	2623
 Jun-26 GOLD CARDS	8999
 Kempinski Gold Coast Hotel	9729
 Lake Victoria Serena Golf Resort	10563
 Ms Golden Haule	8883
 Mshel Homes Hutu Exclusive N-Trillion Golf	2841
-Muthaiga Golf Club. CA Chairperson Ms.	6946
+Muthaiga Golf Club. CA Chairperson Ms	6946
 National View Gold	8999
 OCCIDENTAL GOLD	2342
 Odoo Gold Certified Partner	9533
 Opening Doors for Zimbabwe’s Gold Producers	8639
-Pan-African Gold Bank.	9593
+Pan-African Gold Bank	9593
 Pan-African Gold Bank. Taken	9593
 Percolation Leaching for Artisanal Gold Recovery	1554
 Poste HIRE GOLD MINE IMMSA AIGF	2342

@@ -10,7 +10,7 @@ Agência de Protecção de Dados. Salvo	14
 Ahmed Saleh	8613
 Aji Ali Salatou	5585
 Al Salam Bank Algeria	1343
-Al Salam Rotana Hotel.	8613
+Al Salam Rotana Hotel	8613
 Alhaji Saleh Ahmadu	8499,756
 Ali Salatou Adji	2801
 Alibaba Oracle Huawei NTT Oracle Salesforce	6477
@@ -22,7 +22,7 @@ Alioune Salll	5156
 Amid Gradual Diversification Sales	4972
 Ana Priscila Salomao	1526
 António Salomão Chipanga	9227
-Arqam Yassir Salim of Rehema Wakfu School.	9014
+Arqam Yassir Salim of Rehema Wakfu School	9014
 Atif Saleem. IGI Global Scientific Publishing	6948
 BEIT SALAM	4729
 Bassirou Diomaye Faye-Macky Sall	4899
@@ -30,7 +30,7 @@ Beit Salam	4380
 C10194 Ahmed Salem Mohamedhen Vall Mohamedhen	1183
 Cantidad Total General Salario Bruto F	4209
 Centro de Salud	4209
-Centro de Salud de Annobón.	4209
+Centro de Salud de Annobón	4209
 Centro de Salud de Moka	4209
 Channel Sales	4119
 Chief Sales Marketing Officer	2595
@@ -43,7 +43,7 @@ Covid-19 Boosts Online Retail Sales. Retrieved	1243
 Criminal Act. Saleh	10192
 Customer Device Sales	3487
 D.G. SALUD MENTAL Y ESTUPEFACIENTES.- Concepto.-	4209
-D.G. SALUD PUBL. Y PREVENC. SAN.	4209
+D.G. SALUD PUBL. Y PREVENC. SAN	4209
 DAR ES SALAAM	5925,1503,848,612,126,764,321,278
 DETALLE DE LOS SALARIOS DE FUNCIONARIOS	4209
 DG SALUD	4209
@@ -51,7 +51,7 @@ DR. SALIM K. NOORANI Data Processor	7167
 Daily News DAR ES SALAAM	5771
 Dar-es Salaam	2816
 Decoder Sales Decoder Repairs	1944
-Deed Number Chitepo Salisbury Township.	4896
+Deed Number Chitepo Salisbury Township	4896
 Deputy Prime Minister Salah Ahmed Jama	8845
 Diem Co and Salt Rock City	5621
 Digital Minister Alioune Sall	5985
@@ -60,7 +60,7 @@ Digital Transformation Minister Ahmed Salem Ould	6062
 Diploma Tabela Salarial	752
 Director of Marketing and Sales	9451
 Doctor Salomón Nguema Owono	9303
-Domestic Excise and Stamp Sales and Duty.	5655
+Domestic Excise and Stamp Sales and Duty	5655
 Dr. Abudu Sallam Waiswa	7429,2352
 Dr. Bayero Salih Farah	10603
 Dr. Iziaq Adekunle Salako	7895
@@ -77,7 +77,7 @@ ESCALA SALARIAL DEL PERSONAL DEL SENADO	4209
 ESCALA SALARIAL DEL PERSONAL TRIBUNAL CONSTITUCIONAL	4209
 ESCALA SALARIAL DEL PERSONAL TRIBUNAL DE	4209
 ESCALA Y COMPLEMENTOS SALARIALES	4209
-Edna Salvo Kotey.	3229
+Edna Salvo Kotey	3229
 El Salvador	1851,2276,2722,2482,1383
 El Salvador ORTÉZ	6613
 El Salvador Systems	10714
@@ -87,7 +87,7 @@ Eng. Abdulbasit Salem Al-Baour	7724
 Equipo de Salud Distrital	4209
 FISCALES DE SALAS	4209
 Feed Salone	2872,2404,573
-Feed Salone Agenda.	9965
+Feed Salone Agenda	9965
 Fernandes Salomão David Onísio Soiane Danilo	2989
 Fiscales de Sala	4209
 G. Salah Eddine	10688
@@ -112,7 +112,7 @@ H.E. President Salva Kiir	3736
 H.E. Salimo Valá	8754
 HOL Zahwa Salah Mukhtar	3463
 Hon. Dr. Mohamed Farid Saleh	7142
-Hon. Noah Salakae’s	10151
+Hon. Noah Salakae	10151
 Hon. Salima Monorma Bah	3950
 Honourable Commissioner Janet Ramatoulie Sallah-Njie	8485
 Hormuud Salaam Foundation	10116
@@ -151,7 +151,7 @@ M. Salah Eddine Taleb	7947
 M. Saleh Bourma. Dans	3799
 M. Salifu	5349
 M. Salim Mahamadou Gado	7333
-M. Sall.	5156
+M. Sall	5156
 M. Yacoub Ould Salem Vall	9867
 M.Adji Ali Salatou	3305
 MAGISTRADO-PRESIDENTE DE SALA	4209
@@ -194,7 +194,7 @@ OUEDRAOGO Salifou	2342
 Offers Client Data for Sale	3364
 Oghenere G. Salubi	8022
 Oghenere G. Salubi Received	8022
-Oghenere Salubi.	8022
+Oghenere Salubi	8022
 Olajide Salawu	9739
 Omar Salem Mandouq Director General of E-Learning	2958
 Opinions Salakae Resigns	10151
@@ -221,10 +221,8 @@ Port of Salalah	2405
 Port of Salalah China West Airport Group	2511
 Porto Salvo	4938
 President Macky Sall	647,2951
-President Salva Kiir	4299,379,2769,1631
-President Salva Kiir Mayardit	5107,1174,3305
-President Salva Kiir Mayardit.	6811
-President Salva Kiir's	3583
+President Salva Kiir	3583,716,379,2769,1631
+President Salva Kiir Mayardit	5107,1174,530,2775
 President William Samoei Ruto of Kenya and Salim	1639
 Prev. Saldo	4209
 Programas de Salud Pública	4209
@@ -251,8 +249,7 @@ S.E. M. Sidi Ould Salem	765
 SALAAM	10460
 SALAIRES	1272
 SALAM. Lors	2270
-SALCAB	360
-SALCAB.	3378
+SALCAB	360,3018
 SALCHEV	6613
 SALDRU	2307
 SALES DOS SANTOS	6613
@@ -262,26 +259,24 @@ SALMAN	6613
 SCHIALER SALCEDO	6613
 SENEGAL-SOCIAL-PROTECTION Saly	7701
 SMEsImran Salie	7253
-Sal Rei.	342
+Sal Rei	342
 Sal. O OE	1265
 Sal. Realizada	1948
 Sala de Conferencia de Luba Malabo	4209
 Sala de Inteligência Artificial	8807
 Sala de Servidores	9694
-Salaam	637,177,413,34,989,25,305,138,150,79,41,74,304,143,445,145,288,52,314,165,35,92,45,26,300,95,204,56,12,142,68,22,7,8,16,37,85,303,106,239,26,85,228,103,63,194,761,135,52,64,88,140,133,126,135,201,26,313,89,211,110,361,132
+Salaam	637,177,332,81,34,660,329,25,305,138,149,1,79,41,74,304,94,49,445,145,288,52,314,165,35,92,45,26,300,95,204,56,12,142,68,22,7,8,16,37,85,303,106,239,26,85,228,103,63,194,30,731,135,52,64,88,140,133,126,135,201,26,313,89,211,51,59,96,65,200,132
 Salaam Business School	6816
 Salaam Energy Declaration	2391
 Salaam Institute of Technology	6577,1188
 Salaam International Trade Fair	1803,5223
-Salaam Library’	8022
+Salaam Library	8022
 Salaam Metropolitan Network	9149
 Salaam Regional Manager Mr Robert Kasulo	7026
 Salaam Stock Exchange	6921
 Salaam Telephone House	2868
 Salaam and Mombasa	3954
 Salaam and Mtwara	3533
-Salaam's	5925
-Salaam.	1146,775,946,593,1656,395,504,1243,63,224,1343,801,351,155,65
 Salaam. As Tanzania	4714,2441
 Salaam. Baada	4099
 Salaam. Businesses	8616
@@ -302,9 +297,7 @@ Salaam. Moraes	2816
 Salaam. Newly	9016
 Salaam. Online	9779
 Salaam. Reports	7763
-Salaam. Tanzania	3366,143,1103,1171,247,2435
-Salaam. Tanzania's	6927
-Salaam. Tanzania’s	5385,637,1299,194
+Salaam. Tanzania	3366,143,1103,773,398,239,8,897,394,194,950
 Salaam. Telecommunications	7026
 Salaam. The Jakaya Kikwete Cardiac Institute	7360
 Salaam. The Ministry of Information	1803
@@ -326,7 +319,7 @@ Salako	7895
 Salako Says	7895
 Salalah	3839
 Salam	5349,644
-Salam Mobile.	5033
+Salam Mobile	5033
 Salam Rotana Hotel	8133
 Salamata Odette NIAMBA	8321
 Salamatu Taimako Shamsudeen	10067
@@ -335,7 +328,7 @@ Salamu	2868
 Salangwa	3791
 Salaries	3583,718,206,2,292,732,2338
 Salaries and Benefits	4153
-Salaries and Wages Processing.	9437
+Salaries and Wages Processing	9437
 Salario Base Personal Civil	4209
 Salario Base Personal Militar	4209
 Salarios	4209
@@ -440,7 +433,6 @@ Salubrité Mines	4895
 Salud	1701,2508,3839
 Salud ONG	1701
 Salud Pública	4209
-Salud.	1701
 Salut du Peuple. AU TITRE DE LA	8269
 Salva Kiir	3583
 Salvador Nguema Funtam	9318,1000
@@ -466,7 +458,6 @@ Senator Salisu	6536
 Senator Shuaib Afolabi Salisu	3942,2594
 Senator Shuaib Salisu	7853
 Servicio Nacional de Salud	1701
-Servicio Nacional de Salud.	1701
 Servicios Esenciales de Salud	4209
 Sierratel and SALPOST	6063
 Sistema Nacional de Salud	4209

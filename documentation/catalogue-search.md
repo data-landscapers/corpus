@@ -165,9 +165,25 @@ Four decisions worth keeping in view.
 
 **It degrades to stage 1.** If the fetch fails or `fetch` is absent, the page keeps the in-memory results and loses only the extra matches — verified by stubbing the fetch to fail, which returns exactly the stage-1 count.
 
+## Stage 2 — built 2026-08-24
+
+`scripts/build-entity-names.py` writes `lookups/entity-names.csv`: **4,683 of 6,787 slugs named (68%)** — 4,045 `full`, 361 `acronym`, 277 `partial` — with the remaining 2,104 falling back to the page's prettifier. `catalogue.py` uses the derived name for the facet label, the row chips and the search blob, so `nira-uganda` now reads *National Identification and Registration Authority* and is reachable by typing it.
+
+The extraction is shared with stage 3 rather than rebuilt: `names_lib.py` holds it, and the three readers import it. That module exists because a third reader appeared, which is the point at which duplication stops being cheaper.
+
+**Three scoring lessons, each found by looking at what came out.**
+
+**Strip the place before scoring.** Plain token overlap gave `pura-gambia` → "The Gambia" and `sec-nigeria` → "Nigeria": a country suffix is the least distinguishing part of a slug and was winning on its own. Scoring now runs on the slug's distinguishing tokens, with the place kept only as a tie-break so `bank-of-namibia` still prefers "Bank of Namibia" over "Bank". Those two now give *Public Utilities Regulatory Authority* and *Securities and Exchange Commission*.
+
+**An acronym match must not expand to a place.** `bf` is the initials of "Burkina Faso", so the fix above simply moved the bug: `bf-ministry-digital-transition` derived the country and dropped the ministry. An expansion made entirely of place tokens is now rejected, and that slug falls back to the prettifier — which is honest, and better than a confident wrong answer.
+
+**Thin evidence must be tight evidence — except for acronyms.** 4,074 slugs are tagged by exactly one source, so requiring two sources to agree is not a quality bar but a 78%→25% coverage cut on slugs that can never corroborate. What separates a good single-source derivation from a bad one is how much of the candidate the slug fails to explain: "Bank of Namibia" explains itself, "Draft ODPC Guidance" and "ID for All The Electoral Commission of Uganda" are extraction runs that crossed a heading. So the allowance for unexplained tokens grows with corroboration. Applying that to acronyms was then a mistake of its own — an expansion never contains its own initials, so *every* word is unexplained by construction, and the rule cost `undp` its "United Nations Development Programme" for being four words long while three-word `itu` survived. A threshold that fires on word count while claiming to measure fit is worth catching early.
+
+**The file is meant to be corrected.** `basis` set to `hand` is never overwritten, and `basis` plus `sources` together say how far to trust a row, so a hand pass can start with the weakest. Ownership follows the `lookups/taxonomy.csv` precedent exactly: the slugs are OSINT's, how they are written is decided here.
+
 ## Recommendation
 
 1. ~~**Build stage 1 now.**~~ Done.
 2. ~~**Stage 3 is cleared to build.**~~ Done.
-3. **Stage 2 is now the cheap one**, and it comes next: reuse `build-names-index.py`'s extraction, join it against each slug's tagging sources, score on the non-country tokens, hand-check the ~1,000 slugs with five or more references, and write `lookups/entity-names.csv`. It retires the prettifier in `catalogue.py`.
+3. ~~**Stage 2.**~~ Done — and it did come out cheap, because stage 3's extraction was most of it.
 4. **`design.md` §6 is still open and is now the live constraint.** The browse payload is 1.25 MB gzipped for every reader and heads for roughly 3.2 MB at the 30,000 records projected for spring 2027. The names index is the proof that lazy fetching works on this site; the browse rows are the thing that should use it next.

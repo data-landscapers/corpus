@@ -29,7 +29,7 @@ Divyajeet Mahajan Nil Nil Nil	4896
 Dk Rahma Mahfoudh	10556
 Dr-Ing Ahmat Mbodou Mahamat	9180
 Dr-Ing Ahmat Mbodou Mahamat. Le Directeur	9812
-Dr. Mahadia.	10392
+Dr. Mahadia	10392
 Dramani Mahama	7452
 EXCELLENCY JOHN DRAMANI MAHAMA PRESIDENT	4126
 El Mahdi	10461
@@ -62,15 +62,14 @@ John Mahama	5701
 Justice Minister Mahmoud El Sherif and Minister	9828
 Keyuren Maharaj	9952
 Lamine Zeine Ali Mahaman	4813
-Land Administration Mahmoud Solomon.	9651
+Land Administration Mahmoud Solomon	9651
 Le Dr Haliki Choua Mahamat	5748
 Lesotho MAHLO	6613
 Limane Mahamat	6465,1401,1415,1100
 Liza Maharajan	4214
 L’Hôpital Chahids Mahmoud de Tizi-Ouzou	10021
 M and Maheshwari	2096
-M. Ahmat Mbodou Mahamat	9142,1280
-M. Ahmat Mbodou Mahamat.	8851
+M. Ahmat Mbodou Mahamat	8851,291,1280
 M. Ahmat Mbodou Mahamat. Cette	8851
 M. Ali Mahaman Lamine Zeine	3341
 M. Ali Mahaman Lamine Zeine Le	3341
@@ -125,7 +124,7 @@ Mahari Yihdego	1212
 Mahasen Ali Yagoub and Minister of Digital Transformation	10663
 Mahatma Gandhi	2760
 Mahatma Gandhi Institute	9948
-Mahazoarivo.	4762
+Mahazoarivo	4762
 Mahdi Barouni	10714
 Mahdi Hassani Hamad Ali Director of Education	2958
 Mahdi Lyoubi Detained Ahead	5407,676
@@ -140,8 +139,7 @@ Maheba F RHC	1867
 Maheba G Primary School	1867
 Maheba Markets	1867
 Maheder Gebremedhin	9528
-Mahefa Andriamampiadana	4136,126,81,1652,850,308,146
-Mahefa Andriamampiadana.	7998
+Mahefa Andriamampiadana	4136,126,81,1652,850,308,146,699
 Mahefa Andriamampiadana. Mialisoa Ida	7899
 Mahen Naidu	2591
 Mahendranath Busgopaul	9658
@@ -150,7 +148,7 @@ Maherali	1828
 Mahesh Ghatge	2427
 Maheshwari	2096
 Mahfouf	8604
-Mahia-John Mahiaini.	10464
+Mahia-John Mahiaini	10464
 Mahieu	8436
 Mahikeng	4511,3115
 Mahindra SUVs	2667
@@ -158,15 +156,13 @@ Mahlangu	1248
 Mahlatse M. Shekgola	8021
 Mahlatse M. Shekgola Department of Information Science	8021
 Mahlatse M. Shekgola. Disclaimer	8021
-Mahlatse M. Shekgola’s	8021
 Mahlaule and Others	2307
 Mahmood	8605
 Mahmood H. Hussein	6948
 Mahmood Mamdani	4258
 Mahmood and Maple	7008
 Mahmoud	5855,446,3289
-Mahmoud Badawi	7397
-Mahmoud Badawi.	4532
+Mahmoud Badawi	4532,2865
 Mahmoud Bunkure	5991
 Mahmoud Helmy El-Sherif. Presidential Spokesman Mohamed	10103
 Mahmoud Mohamed and HSF Chairman Abdullahi Nur	10116
@@ -193,7 +189,7 @@ Minister Mahomed	10296
 Minister of Education and Human Resource Dr Mahend	9949
 Minister of Land Transport Mahomed Osman Cassam	10296
 Minister of Security Mahamadou SANA	5758
-Minister of Security Mahamadou Sana.	3925
+Minister of Security Mahamadou Sana	3925
 Mme Djanabou Mahondé	6578
 Mohamed Mahmoud	5855,446
 Monsieur Mahuna Akplogan	6366
@@ -206,11 +202,9 @@ Plácida Maholela	2816
 Pour Mahamoudou Sana	3592
 Pradeep Maharaj	7253
 Première Dame Madame Kadra Mahamoud Haïd	4402
-President John Dramani Mahama	2338,3594,2,12,2417,116
-President John Dramani Mahama's	9179
+President John Dramani Mahama	2338,3594,2,12,2417,116,700
 President John Mahama	7492
 President Mahama	4137,1795,2,1,11,55,1694,2440
-President Mahama's	6001
 Président Mahamat Idriss Deby Itno	6465
 Ramatou Mahamat Houtouin. Elle	9281
 Ramatou Mahamat Houtouin. La	5748,3533

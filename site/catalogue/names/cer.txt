@@ -77,9 +77,8 @@ CERC Coordinating Authority. The CERC	1228
 CERC E&S Risks Finalize TORs for MCTES	2989
 CERC SC	1228
 CERC Steering Committee	1228
-CERC of MDAP.	1228
+CERC of MDAP	1228
 CERC-wide Environmental and Social Safeguards	1228
-CERC.	4653
 CERC. Following CERC	2473
 CERED-HCP	8891
 CERES TECH LIMITED Data Controller INST-30211102FD2	7167
@@ -98,7 +97,6 @@ CERT-GH RFC	775
 CERT-MU	783
 CERT-MZ	1228
 CERT-NG	4861
-CERT.	9695
 CERT.ao	4146,72
 CERT.tg	3866,4396,1208,1105
 CERTIFICATE OF BUSINESS	2709
@@ -111,7 +109,6 @@ CERTMU	4850
 CERTS	5677
 CERTs	1000,228,36,1552,2716,145,749,3190,347,213
 CERTs and Cybersecurity Operations Centres	9964
-CERTs.	5677
 CERVANNA CARE LIMITED Data Controller INST-66209110F70	7167
 CERVIDA	2966
 CGI. Certains	1984
@@ -129,10 +126,8 @@ Cercle de Kéniéba	9287,55
 Cereal Growers Association Data Processor INST-6608837F224	7167
 Cereales	4209
 Cerebras	1639,4772
-Cerebras and Palo Alto Networks.	1843
+Cerebras and Palo Alto Networks	1843
 Cerebras. A G42	6411
-Cerebras’	6411
-Cerebras’s	6411
 Ceremonias	6841
 Ceremonias Excelentísima	1855
 Ceremony	2737,558,245,2547,1808,576
@@ -169,8 +164,7 @@ Certificado de Capacidade Matrimonial. Esta	2688
 Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio Libreta	4209
-Certificado de Registo Criminal	2688
-Certificado de Registo Criminal.	5986
+Certificado de Registo Criminal	2688,3298
 Certificados Digitais	1431,715,2317
 Certificados de Encriptação	794
 Certificat	1706,1339,407,968,1111,686,4,1567,949
@@ -186,10 +180,10 @@ Certificate Authority	5533,58
 Certificate Authority CARA Criminal Assets Recovery	5533
 Certificate Delivery System	2819,1272
 Certificate Management System	5983,963
-Certificate Master’s	1940
+Certificate Master	1940
 Certificate Page	10721
 Certificate Spillage	1988
-Certificate of Acquired Citizenship.	5999,393
+Certificate of Acquired Citizenship	5999,393
 Certificate of Competency	736,7903
 Certificate of Incorporation	736,1252,3550,365,1465
 Certificate of Incorporation Number	1877
@@ -229,9 +223,9 @@ Certification Standard	2889
 Certification WhatsApp Channel Planned Interventions Current	8999
 Certification-leading	3299
 Certification. PCI-DSS	2350
+Certifications	6432
 Certifications Internationales	6163
 Certifications Issued	4528
-Certifications.	6432
 Certificats	5899
 Certificats Internationaux de Transhumance Nombre	3396
 Certificats de Nationalité	3045
@@ -272,7 +266,6 @@ Certiﬁcate of Incorporation	2709
 Certiﬁcation	2709
 Certiﬁcation A Digital Health Solution Vendor	2709
 Certiﬁcation Framework	2709
-Certiﬁcation Framework.	2709
 Cervical Cancer	1363
 Chamber Registration Certificates	10645
 Chartered Certified Accountant	4896
@@ -280,7 +273,7 @@ Circular. Certificated	4896
 Cisco Certified Support Technician	9621
 Collectivité Cercle	9287,55
 Commercial Intra-city Courier Services Certificate	1223
-Community CERC Contingency Emergency Response Component.	969
+Community CERC Contingency Emergency Response Component	969
 Compliance and Certification	4791
 Comprehensive Agriculture Trade Programme. Certain	8550
 Computer Security Incident Response Team CERT	1000
@@ -296,7 +289,7 @@ D1 Certificado de Comercio	4209
 D2 COMERCIO Certificado de Comercio	4209
 D3 COMERCIO Certificado de Comercio	4209
 D3 D3 Certificado de Actualización PE ACTUAL	4209
-DHS CERTIFICATION OF COMPLIANCE NO.	2709
+DHS CERTIFICATION OF COMPLIANCE NO	2709
 DISCLOSURE OF CERTAIN MATTERS IN FINANCIAL	3714
 DPG Awareness and Certification Programme. Partner	7921
 Data Center Certification	1264
@@ -306,7 +299,6 @@ Digify Solutions KShs. Digital Certificate Management	6946
 Digital Certificate	10714
 Director Cereals and Other Produce Regulatory Authority	5883
 Director of CERT-MU	783
-Director of CERT-MU.	783
 Distribution List for Notifications CERT-GH	775
 Dominican Certificate Administration System	10714
 Downs Shoprite Ceres Shoprite Fish Hoek	8999
@@ -325,15 +317,16 @@ Entidades Certificadoras	8309
 Establish Certification	1000
 European Cybersecurity Certification Framework	3787
 Fabio Cerone	2984
-Fire Certificate.	1988
+Fire Certificate	1988
 Firearm Certificate Scam	7312
 Firearm Certificate Scam The Master Builder	7312
+First School Leaving Certificate Examination. Walter	2319
 Forget the Certificates. Let’s Face the Job	9876
 Functions of CERT-MU	783
 Functions of CERT-MU PART VII	783
 GSMA Mobile Money Certification	3463
 Gastos Ejercicios Cerrados	4209
-Global Digital Health Certificate Network.	1455
+Global Digital Health Certificate Network	1455
 Go-Live Ceremony	7973
 Google Career Certificate	1363,1981,3586
 Governmental Electronic Certification Authority	2406
@@ -357,7 +350,7 @@ Institute of Certified Accountants	1964
 Institute of Certified Public Accountants of Kenya	6946,3097
 Institute of Certified Secretaries of Kenya	6946
 Integrated Modern Agricultural Morcellement Certificate	7845
-International Standards Certificates.	6432
+International Standards Certificates	6432
 International Standards Certificates. All	6432
 Issuing of Rates Clearance Certificates	9437
 Joint Ceremony	8192
@@ -365,7 +358,7 @@ Kenya Certificate of Primary Education	2775
 Kenya Certificate of Secondary Education	2775
 Kenya Commercial Bank KCPE Kenya Certificate	2775
 Kinshasa Achieves ISO and PCI DSS Certifications	2350
-LTA CERT.	4610
+LTA CERT	4610
 Le CERT.tg	10575
 Le CERT.tgmission	10575
 Liberia National CERT	5244
@@ -378,7 +371,7 @@ Microsoft CERT-GH	775
 Microsoft Certified	2525
 Ministry of Communications and Digitalisation CERT-GH	775
 Mission Statement CERT-GH	775
-Myth and Ceremony.	5349
+Myth and Ceremony	5349
 NDPR Certified	5665
 NIMC the Root Certification Authority	9880
 Namibia’s Root Certification Authority	8250
@@ -389,8 +382,7 @@ National Certification and Qualification Framework	6747
 National Computer Board Certificate Authority	1379
 National Digital Certification Agency	2578
 National Electronic Certification Authority	6268
-National Root Certification Authority	7561
-National Root Certification Authority.	3299
+National Root Certification Authority	3299,4262
 Nationality Certificate	6115,1529,3070
 Nationality Certificates	4257
 Nationality Certificates and Passports	4257
@@ -432,7 +424,7 @@ Risks of Falling Behind Certainly	7596
 Roaming Cero	3963
 Robert Kahn and Vinton Cerf	1036
 Root Certification Authority	8440,1440
-Root Certification Authority for Nigeria's	10423
+Root Certification Authority for Nigeria	10423
 Root Certification Authority for Nigeria's National Public	8440
 Rota Planning Staff Technical Training and Certifications	9123
 SAQA-approved Further Education and Training Certificate	8077
@@ -440,7 +432,6 @@ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS	7198
 SEQE1. Certains	8891
 SIM3 Auditor Certification	9470
 SOC and CERT	1264
-School Leaving Certificate Examination. Walter	2319
 Security Certifications	6432
 Security Emerging C- Certified	7548
 Security of Data Centres Certifications	6432

@@ -264,6 +264,10 @@ def main():
         # so it belongs to this stage and must follow it. `catalogue.py` (RENDER
         # step 5) then packs the shard keys into the page.
         print("stage 2b — names index:"); run("build-names-index.py")
+        # Display names for entity slugs. Reads the same bodies as 2b and depends on
+        # the same catalogue, so it belongs here; hand corrections in
+        # `lookups/entity-names.csv` survive a rebuild.
+        print("stage 2c — entity display names:"); run("build-entity-names.py")
         print("stage 2a — scope lint (reports, never gates):"); scope_lint()
     if a.all or a.finance:
         print("stage 3 — finance + budgets (all places):"); run("build-finance-page.py", "--all")

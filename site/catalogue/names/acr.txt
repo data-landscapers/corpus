@@ -13,6 +13,7 @@ ADCT TABLEAU DES ACRONYMES AS BM	643
 ANNUAL REPORT ACRONYMS ACTS BDIH BIUST	1554
 ANNUAL REPORT ACRONYMS AGM ACTS BDIH	1154
 ANNUAL REPORT TABLE OF CONTENTS Acronmys	1154
+ANNUAL REPORT TABLE OF CONTENTS Acronyms	1554
 Abbreviations And Acronyms	958
 Abbreviations and Acronyms AfDB African Development Bank	10718
 Accelerate Digital Growth Across Southern Africa	5897
@@ -50,19 +51,18 @@ Across Kenya	5913,1675
 Across Lagos	10704
 Across Lagos and Abuja Fresh	4601
 Across Latin America	8629
-Across Lesaka's	8458
+Across Lesaka	8458
 Across Lusophone Africa	8043
 Across Namibia	9873
 Across Nigeria	5880,4439
 Across Oct	6832
-Across Rwanda	6343
-Across Rwanda’s	6088
+Across Rwanda	6088,255
 Across SSA	836
 Across SSA Orange	1142
 Across South Africa	9155
 Across Southeast Asia	7548
 Across Sub-Saharan Africa	3422,6298
-Across Vodacom's	8037
+Across Vodacom	8037
 Across West Africa	2677
 Across the African	4514,2318
 Across the CPLP	10188
@@ -78,7 +78,6 @@ Acrónimos	2138,3525
 Adobe Acrobat	7204
 Adobe Acrobat Paper Capture	7828
 Adoption of Artificial Intelligence Across the Continent	6948
-Adoption of Artificial Intelligence Across the Continent.	6948
 Advance Digital Inclusion Across Africa	10678
 Advance Digital Inclusion Across Africa Vodacom	2302
 Advance Meaningful Connectivity Across Africa	7950
@@ -101,8 +100,8 @@ CONTENTS Acronyms	9616
 Comparative Analysis Synthesis Across	7966
 Consistently. Across Sub-Saharan Africa	5910
 Contents Acronyms	5246
-Creating Opportunities Across Ghana's Digital Ecosystem.	10585
-Creating Opportunities Across Ghana’s Digital Ecosystem.	8988
+Creating Opportunities Across Ghana's Digital Ecosystem	10585
+Creating Opportunities Across Ghana’s Digital Ecosystem	8988
 Critical Enablers Across	7548
 DNSSEC Validation Across National Internet	4219
 Digital Learning for Schools Across SSA UNICEF	724
@@ -118,7 +117,7 @@ Expand Digital Inclusion Across Rural Zambia	6713
 FEDERAL REPUBLIC OF NIGERIA Acronyms and Abbreviations	10157
 Financial Inclusion Across Africa	8001
 Financial Services Across Region	4194
-Forefront of Environmental Action Across UNDP Namibia's	9873
+Forefront of Environmental Action Across UNDP Namibia	9873
 Fragmentation and Interoperability Across	8013
 GR-3028-CORE Acronym EMI	9123
 Gap Across	7876
@@ -161,7 +160,7 @@ Meta. Acrescentou	4250
 Middle East. Across	4676
 Middle East. Across Africa	4189
 Modernizing Payments Across the Six CEMAC Member	10022
-Morocco. Across Africa’s	5800
+Morocco. Across Africa	5800
 Morten Larsen ABBREVIATIONS AND ACRONYMS AF	2889
 Moçambique. Acreditamos	2816
 NDICE LISTA DE SIGLAS E ACRÓNIMOS	2816
@@ -181,15 +180,15 @@ Payments Across Eastern Africa	3238
 Policy. NATIONAL DIGITAL CLOUD POLICY ACRONYM	10157
 Primary Health Care Services Across	1824
 Rafael Pardo Ostos ABBREVIATIONS AND ACRONYMS	1264
-Reallocation of Funds Across Disbursement Categories.	4653
-Reallocation of Funds Across Subcomponents.	4653
+Reallocation of Funds Across Disbursement Categories	4653
+Reallocation of Funds Across Subcomponents	4653
 SCRYPT Expands Stablecoin Settlement Network Across	7378
 SIGLAS Y ACRÓNIMOS	1701
 SIGLAS Y ACRÓNIMOS PNDS	1701
 SIGLAS Y ACRÓNIMOS SIGLAS Y ACRÓNIMOS	1701
 Scale Infrastructure Financing Across Africa	9803
 Scale Nigeria's Language Model Template Across	8552
-Scale Women-Led Enterprises Across Africa Jordan’s	5322
+Scale Women-Led Enterprises Across Africa Jordan	5322
 Seeks Full Adoption Across MDAs	8632
 Signals Recovery Across Core Businesses	7427
 Similar Agreements Across Africa	5163
@@ -202,6 +201,8 @@ Supporting Diverse Payment Needs Across Markets	8477
 Systems Across Africa TechAfrica News	4225
 TABLE OF CONTENTS LIST OF ACRONYMS	1009,4524
 Table of Contents ABBREVIATIONS AND ACRONYMS	1988
+Table of Contents ACRONYMS	6432
+Table of Contents Abbreviations and Acronyms	10718
 Table of Contents Acronyms	396
 Table of Contents Acronyms and Abbreviations	6832
 Targets Digital Access Across Liberia	10406

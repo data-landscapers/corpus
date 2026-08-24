@@ -97,7 +97,7 @@ UEMOA. Un	5455
 UK United Kingdom UN United Nations	2775
 UN AI	8113
 UN AI Advisory Board	1814
-UN AI Fellow.	8143
+UN AI Fellow	8143
 UN AI Governance for Humanity Lab	9106
 UN AI for Good Summit	7174
 UN ASG	4431
@@ -114,9 +114,7 @@ UN CADRE ORGANISATIONNEL OPTIMISÉ POUR L’ATTEINTE	2342
 UN CRC	1211
 UN Children’s Fund	4545
 UN Classification	9477
-UN Commission	2117,1467,5212,1922
-UN Commission's	6776
-UN Commission.	6776
+UN Commission	2117,1467,3192,2020,1922
 UN Committee	1211,2372
 UN Comtrade	4445
 UN Conference	4127,6591
@@ -126,48 +124,41 @@ UN Cooperation Framework	8754
 UN Council	961
 UN Country Team	10346
 UN Cybercrime Convention	4204,2222
-UN DESA	1890,22,471,1133
+UN DESA	1890,3,19,471,1133
 UN DESA Statistics Division	8546
-UN DESA's	1893
-UN DESA.	1912
 UN Day	3851
 UN Department	961
 UN Department of Economic and Social Affairs	1912
 UN Development Program. The World Bank	9556
 UN Development Programme	400,1,1,320,1,228,1,609,1,1,1,681,2828
 UN Dialogue Namibia	7098
-UN E-Gov Index.	5114
+UN E-Gov Index	5114
 UN E-Government Development Index	1264,626,3,478,3,1211,221,409,84,705
 UN E-Government Survey	1749,156
 UN ECA's Deputy Executive Secretary and Chief	8472
-UN EGDI	1890,536,838,111,375,152,64,233,831,89,605,104,1082
-UN EGDI.	2597
+UN EGDI	1890,536,171,667,111,375,152,64,233,831,89,605,104,1082
 UN ESCWA	4819
 UN Economic Commission	562
-UN Economic Commission for Africa	289,150,522,395,2612,212,2070,417,191,79,60,175
-UN Economic Commission for Africa's	6609
-UN Economic Commission for Africa.	5302
+UN Economic Commission for Africa	289,150,522,395,2612,212,1122,948,359,58,191,79,60,175
 UN Environment Programme	3431,7287
 UN Executive Office	5227
 UN FINANCEMENT A CONSOLIDER Le	10273
+UN First	2117
 UN First Committee	2117
 UN Forum	7060
 UN Foundation	7320
 UN Fundamental Principles	2775
 UN GGE	2117
-UN General Assembly	1038,776,1769,3414,177,939,1600
+UN General Assembly	1038,776,1769,129,3285,177,939,1600
 UN General Assembly Resolution	3583,5045
-UN General Assembly.	3712
 UN General Assembly. Document	1237
 UN Global Compact SDG Innovation Accelerator	8035
 UN Global Dialogue	6386,574,78,11,10,1054
-UN Global Digital Compact	2682,4865,1,373
+UN Global Digital Compact	1862,820,4865,1,373
 UN Global Digital Compact Digital	7548
-UN Global Digital Compact's	1862
 UN Global Principles for Information Integrity	10729
 UN Global Pulse	495,748,2883
 UN Global Pulse Principles	1243
-UN Global Pulse.	1243,2883
 UN Group of Friends for AI Capacity-Building	10215
 UN Group of Governmental Experts	2117
 UN Guidance Note	1243
@@ -176,7 +167,7 @@ UN HDI	1008
 UN Headquarters	9786
 UN Health Industry Foundation	5658
 UN High Commissioner	3583
-UN High Commissioner for Refugees.	4127
+UN High Commissioner for Refugees	4127
 UN Human Development Index	3584
 UN Human Rights Council	3584
 UN Human Rights Office	3584,543
@@ -202,7 +193,6 @@ UN Network	9838
 UN News	9786
 UN News Global	9786
 UN OCHA	3583
-UN OCHA.	3583
 UN OEWG	2117
 UN Office	4810,2137
 UN Office for Digital and Emerging Technologies	7112
@@ -222,9 +212,8 @@ UN REPORTS SERIOUS HUMAN RIGHTS VIOLATIONS	4127
 UN Refugee	899
 UN Refugee Agency	4807
 UN Refugees Agency	2324
-UN Resident Coordinator	2545,6209
+UN Resident Coordinator	2545,3197,3012
 UN Resident Coordinator Let	10210
-UN Resident Coordinator's	5742
 UN Resident Coordinator's Office	7749,2193
 UN SDG	2829
 UN SDGs	7204,3387
@@ -233,25 +222,21 @@ UN SGDs	2319
 UN Scientific Advisory Panel	8629
 UN Scientific Panel	7174
 UN Secretariat	7112
-UN Secretary General	9082
-UN Secretary General's	7242
-UN Secretary General.	1038
+UN Secretary General	1038,6204,1840
 UN Secretary General’s Special Advocate for Inclusive	1486
 UN Secretary of State Mike Pompeo	2117
+UN Secretary-General	7242
 UN Secretary-General António Guterres	2526,7260
-UN Secretary-General Doreen Bogdan-Martin.	7174
+UN Secretary-General Doreen Bogdan-Martin	7174
 UN Secretary-General Kofi Annan	8961
-UN Secretary-General's	7242
 UN Secretary-General’s Special Representative and Head	10409
-UN Security Council	2117,1996,162,941,2236,2683,274,55
+UN Security Council	2117,1467,529,162,941,2236,342,2341,274,55
 UN Security Council Counter-Terrorism Committee Executive	571
 UN Security Council Resolution	7452
-UN Security Council.	3584,4210
 UN Special Rapporteur	7946,1136
 UN Statistical Commission	6337,626
 UN Summit of Futures	1264
-UN Sustainable Development Goals	582,207,1009,2022,4181
-UN Sustainable Development Goals.	7921
+UN Sustainable Development Goals	582,207,1009,2022,4101,80
 UN Sustainable Development Goals. Entities Joint	3583
 UN System	1243
 UN Tax Convention	9162,1173
@@ -263,15 +248,14 @@ UN Treaty	2117
 UN Urges Protection	10025
 UN Women	1407,1038,1138,520,1141,3616,352,1133
 UN Women and UNICEF	8427
-UN Women.	1407
 UN Working Group	7147
-UN and Kepios.	3908
+UN and Kepios	3908
 UN and OFAC	5369
 UN and States Members	3583
 UN. Through	2273
 UNEP UN Environment Programme UNESCO United	1204
-UNEP and UN Habitiat.	3583
-Un Arbre’’	2342
+UNEP and UN Habitiat	3583
+Un Arbre	2342
 Un Bonded ACM Asbestos	1988
 Un Béninois	2403
 Un CP	2975

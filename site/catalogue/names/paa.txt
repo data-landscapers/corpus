@@ -14,7 +14,6 @@ OVF Open Virtualization Format PaaS Platform	6432
 PAA Au	2342
 PAA BNI GUCE CI PETROCI HOLDING	2342
 PAACA	8551
-PAACA's	8551
 PAACAMA	7160,3433
 PAACAMA I	7160
 PAAET	4568
@@ -24,8 +23,7 @@ PAAQET	2966
 PAARIB	10712
 PAASF	1412
 PaaS and IaaS	7786
-PaaS and SaaS	376
-PaaS and SaaS.	2425
+PaaS and SaaS	376,2049
 Paarl	8999
 Pay Paarl Pick	8999
 River Bellville Paarl Mossel Bay Worcester	8999

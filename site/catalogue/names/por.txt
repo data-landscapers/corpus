@@ -3,8 +3,7 @@ ADOPTION DE DÉCRET PORTANT	2342
 AFSC Portal	4103
 ALT PORTANT SECURITE DES SYSTEMES D’INFORMATION	1801
 About The Domestic and Foreign Portfolio Investment	6408
-Abuja and Port Harcourt	6471,595,1141,905
-Abuja and Port Harcourt.	5212,2995
+Abuja and Port Harcourt	5212,1259,595,1141,905
 Administration Management OASIS Portable Document Format	1009
 Advisory Body and Chairwoman of Portugal’s ANACOM	7235
 Africans for Everyone. Ports	7329
@@ -20,7 +19,7 @@ Après Porto-Novo	3682
 Autonomous Port of Cotonou	9043,232
 Autorité des Ports	1287,4706
 Average Share of Trade Finance Portfolio for Small	10718
-BANCO COMERCIAL PORTUGUES S.A.	1829
+BANCO COMERCIAL PORTUGUES S.A	1829
 BIO-key’s PortalGuard IAM	5140
 BOT. Pour le Port Autonome de Douala	5291
 Banco Comercial Português	9832
@@ -28,11 +27,9 @@ Bank Gender Data Portal	3604
 Billion Investment Portfolio	2610
 Billion Investment Portfolio Last	2610
 Border and Port Security	2943,4133,294
-Brazil and Portugal	10188
-Brazil and Portugal.	5615
+Brazil and Portugal	5615,4573
 Burkina Faso Launches Central Portal	6092
 Busan Port Community System	5993
-Busan Port Community System.	5993
 CAI Portail	748
 CNT PORTANT DROIT D’ACCES A L’INFORMATION	113
 CPLP. Brazil and Portugal	10188
@@ -44,6 +41,7 @@ Centro Cultural Português	3530
 Centro Culutal Português	7882
 Centro Nacional de Cibersegurança. Por	5272
 Chairwoman of Portugal's ANACOM and Co-Chair	7199
+Child Pornography	26
 Child Transmission PNG Portable Network Graphics	34
 China and Portuguese-speaking	6361
 Citizen Portal	3284,2442,706,514
@@ -65,7 +63,6 @@ Count of Port-out	3862
 Country Portfolio Performance Review	4840
 County C- Portfolio	7548
 Crowe Portugal	2816
-Crowe Portugal.	2816
 Customs Regulations Roads Rail Ports Power	5247
 DATA PORTALS	9485
 DE GESTION DU PORTEEUILLE DE L’ÉTAT	2342
@@ -90,7 +87,7 @@ Digital Egypt Portal	1902
 Digital Exchange Port	6930
 Direction Générale du Portefeuille	2342
 Directorate of Public Investment and Portfolio Management	6946
-Disability Data Portal.	1264
+Disability Data Portal	1264
 Djibouti Port Community Systems	1288,4705
 Djibouti Ports Community System	9821
 Doing Business Portal	6593
@@ -98,7 +95,7 @@ Domestic and Foreign Portfolio Investment	6408
 Domestic and Foreign Portfolio Investment Report	6408
 Dondo Dry Port	5407,676
 Douala Smart Port	5291
-Douala-Bonaberi Port.	4108
+Douala-Bonaberi Port	4108
 Dry Ports	6422
 Développement Porto-Novo	8713
 E-Payslip Portal	8108
@@ -124,12 +121,12 @@ Expertise Direction du Portefeuille du Secteur	2342
 FAO. Por	8048
 FINANCES PUBLIQUES UN PORTEFEUILLE DIVERSIFIÉ PRÉSENT	2342
 FOREIGN PORTFOLIO PARTICIPATION IN EQUITY TRADING	6408
+First Port Duty Rule. Under	7695
 Fonds de Garantie Partielle de Portefeuille	6827
 Foreign Portfolio Investment Report of Nigerian Exchange	6408
 Foreign Portfolio Report	7446
-Fort Portal	8410
+Fort Portal	8410,551
 Fort Portal City	8410
-Fort Portal.	8961
 France and Portugal	6169
 French and Portuguese	1243
 Fundo Empresarial de Fundação Portuguesa	2816
@@ -144,7 +141,6 @@ Genève. Portée	7282
 Gestion du Portefeuille	2342
 Gov Portal	5642,1189
 Government Portal	1912
-Government Portal.	1912
 Government Procurement Portal	3969
 Government Procurement PortalPPDACoST Uganda Local	3969
 Government Service Portal	506,7615,302,557
@@ -242,8 +238,7 @@ OBJET ET PORTEE DU MARCHE PUBLIC	8643
 OPEN DATA PORTAL AND OTHER INITIATIVES	961
 Olumbe Akinkugbe. The Government Service Portal	8980
 Online Portal for Public Portal	1777
-Open Data Portal	9207
-Open Data Portal.	1161
+Open Data Portal	1161,8046
 Open Doors Porté	8755
 Open Education Resources Portal	6946
 Ordenes Nacionales Portavoz Grupo Parlamentario Secretario	4209
@@ -253,7 +248,6 @@ POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO	4044
 POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO Quadro	4044
 POR UNA GUINEA MEJOR. OBIANG NGUEMA	1855,4986
 PORALG	1261
-PORO.	2342
 PORTAIL OFFICIEL DE LA RÉPUBLIQUE TOGOLAISE	8673
 PORTANT FIXATION DES TAUX DES DROITS	7470
 PORTANT ORGANISATION ET REGLEMENTATION DES	785
@@ -276,12 +270,12 @@ PR1 Port Harcourt	2155
 PTML The Port	8278
 Paises de Lingua Portuguesa Southern African Power	9409
 Parlamento Portavoz Grupo Parlamentario Supervisor Distrital	4209
-Parliament’s ICT Portfolio Committee’s	4535
+Parliament’s ICT Portfolio Committee	4535
 Parliament’s Portfolio Committee	5175,1876,402,2941
 Países Africanos de Língua Oficial Portuguesa P&D	2816
 Países Africanos de Língua Portuguesa	6709
 Países de Língua Portuguesa	2618,198,3752,3,771
-Plano Nacional de Digitalização Portuária.	8729
+Plano Nacional de Digitalização Portuária	8729
 Poder Judicial Dos. Por	4209
 Por Amelia Santander Camarero Revista Real	9524
 Por Anícia Veiga	5154
@@ -312,7 +306,6 @@ Port Autonome de Cotonou. Organisée	6300
 Port Autonome de Douala	5291
 Port Autonome de San-Pedro	2342
 Port Community System	2392,3757
-Port Duty Rule. Under	7695
 Port Elizabeth	10323
 Port Harcourt	2155,1399,375,1945,1002,190,593,1797
 Port Harcourt J Hist Dipl Stud	9739
@@ -321,18 +314,15 @@ Port IPMI Communication	9475
 Port Loko	4619,3195
 Port Louis	3292,567,6437,325
 Port Master	7845
-Port Master.	7845
 Port Said	1213,1096,4322,3747
 Port Secondary Communication	9475
 Port Sudan	1851,886,846,3364
 Port Sudan City	1887
-Port Sudan.	3583
 Port Tape Library	9475
 Port Trade Service	9213
 Port de Conakry	10272
 Port de Cotonou	3639
-Port of Abidjan	7344
-Port of Abidjan.	7430
+Port of Abidjan	7344,86
 Port of Antwerp	10592
 Port of Cotonou	2392
 Port of Durban	10595
@@ -342,7 +332,6 @@ Port of Maputo	5247
 Port of Mombasa	2775,808,4691,1162
 Port of Mombasa Selected Maritime Indicators PAGE	2775
 Port of Mombasa Throughput	2775
-Port of Mombasa.	8274
 Port of Rotterdam	10592
 Port of Salalah	2405
 Port of Salalah China West Airport Group	2511
@@ -363,7 +352,6 @@ Port-Soudan. Doté	4919
 Port-Soudan. La	4919
 Port-Sudan	2737,1901,1366,302
 Port-Sudan-based	4638
-Port.	6806
 PortES	9482
 Portab1i1l.i9ty	10157
 Portability	961,3165,2306,2687,1038
@@ -408,7 +396,6 @@ Portal de T.I	2729,1164,748
 Portal de T.I. A Starlink	2729
 Portal de TI	1088
 Portal for Domestic Violence Survivors Last	2445
-Portal's	8980
 Portal. Official	6493
 PortalGuard	5140
 Portalmktdigital	2816
@@ -440,10 +427,9 @@ Porter&author	1219
 Porteur	4567,2316,1354
 Porteuse	8891
 Portfolio	10,36,196,273,95,2,11,50,12,133,2,12,63,14,40,8,5875,2292
-Portfolio Committee	1613,197,1454,240,98,1458,473,619,44,1973,266,691,1443
+Portfolio Committee	1613,197,1454,240,98,1458,473,619,44,1560,413,266,691,1443
 Portfolio Committee The Director-General	1810
 Portfolio Committee and Parliament	1810
-Portfolio Committee.	7756
 Portfolio Development	4896
 Portfolio Disbursement	5407,676
 Portfolio Investment PHC Primary Health Care	2775
@@ -483,43 +469,37 @@ Ports	1288,3959,1959,759,2430
 Ports Act	7845
 Ports and Free Zones Authority	1287
 Portugais	8755
-Portugal	627,227,2,357,52,325,358,653,17,59,11,128,31,105,52,71,117,165,425,90,57,946,63,314,140,427,381,161,141,276,59,12,350,36,63,25,19,337,667,545,285,223,433,356,190,154,19,163
+Portugal	627,133,94,2,357,52,325,358,148,505,17,59,11,128,31,105,52,71,117,165,425,90,57,946,63,314,140,427,381,161,141,48,228,59,12,350,36,63,25,19,337,667,545,285,223,433,356,190,154,19,163
 Portugal BARBAS	6613
 Portugal Civil ID System	10714
 Portugal and Angola Cables' AngoNAP Fortaleza DC	3075
 Portugal and Cape Town	1363
 Portugal and Morocco Revisit Proposed	965,3924,206
-Portugal and South America	6062
-Portugal and South America.	9496
-Portugal's	9832
-Portugal's SIBS.	9832
+Portugal and South America	6062,3434
+Portugal's SIBS	9832
 Portugal-Nigeria	3782
 Portugal-to-Nigeria	856
-Portugal.	2096,592,128,3734
 Portugal. Desde	4938
 Portugal. E	4938
 Portugal. Jornal Económico	4938
 Portugal. Morocco	2837
 Portugal. Os	6837
-Portugal’s	760,9428
 Portugal’s Atlantic	5252
 Portugal’s Minister for State Reform	8246
 Portugal’s RD	10188
 Portuguesa	2816
-Portuguese	167,14,9,152,88,109,107,98,8,210,1983,130,414,64,1322,377,775,334,795,225,495,10,856,657,35,398,356,282
+Portuguese	167,14,9,152,88,109,107,98,8,210,1983,130,393,21,64,1322,377,775,334,795,225,495,10,856,657,35,398,356,282
 Portuguese Health Ministry	10188
 Portuguese Ministry of Health	10188
-Portuguese National Data Protection Commission.	6361
+Portuguese National Data Protection Commission	6361
 Portuguese Neonatal Screening Program	10188
 Portuguese Republic	6743
-Portuguese Republic.	6743
 Portuguese Space Agency	6628
 Portuguese and English	1526
 Portuguese and Swahili	961
 Portuguese-language	8807,1513,5
 Portuguese-speaking	3075,526,110,1904,2428,2145
 Portuguese-speaking Africa	7752
-Portuguese.	3468
 Portulans Institute	1243
 Portuária	4747,3305,677
 Portuário	8729
@@ -548,7 +528,7 @@ SA-based Digital Exchange Port	7005
 SADC Financial Inclusion Information Portal	1600
 SIRAT SA. Porté	5468
 SOCIÉTÉS DU PORTEFEUILLE SECTORIEL SUR LES	2342
-SOFIGIB Partial Portfolio Guarantee.	416
+SOFIGIB Partial Portfolio Guarantee	416
 SRM MOTOROLA DP2000e Portatif VHF	998
 SSA. Portfolio	335
 SaaS. Portfolio	2233
@@ -559,8 +539,7 @@ Selon le Ministre Porte-parole du Gouvernement	8454
 Senate Portfolio Committee First Quarter Performance	9525
 Service Portal	8458
 Services Portal	1810,305,609,3908
-Services Portal The Information Regulator’s	2724
-Services Portal.	2724
+Services Portal The Information Regulator	2724
 Seychelles Government Portal	6831
 Seychelles Launches Ease of Doing Business Portal	3907
 Shape Malawi’s Digital and AI Future Portal	5098
@@ -568,8 +547,7 @@ Signet Unified Login Portal	8175
 Small Business Portfolio Digital Transformation Strategy	8458
 Smart Port	5291
 Somali National Job Portal	5172
-Somali National Job Portal for Employment Opportunities.	5172
-Somali National Job Portal.	5172
+Somali National Job Portal for Employment Opportunities	5172
 Somalia’s National Job Portal	5172
 Sophos Expands Firewall Portfolio	9830
 Sources AFS AFS CRAN Portal	1944
@@ -581,11 +559,9 @@ São Tomé and Príncipe Launches Citizen Portal	5726
 TMCEL. The Portuguese	7381
 TRENDSNAFRICAAFRICAN NEWS PORTAL Sign	3768
 TaRMS Self-Service Portal	4449
-TaRMS Self-Service Portal.	4449
 Tankiso S. Moloi. Portions	2948
 Tanzania Intergrated Statistical Portal	6019
 Tanzania Ports Authority	5883,2973,1736
-Tanzania Ports Authority.	8856
 Tarrafal de Santiago and Porto Novo	8638
 Technical Project Portfolio Management	4528
 Technology Portals	8208,197,791
@@ -598,22 +574,20 @@ Treasury Portal	2293
 UAS Portal	1847
 UN PORTEFEUILLE DIVERSIFIÉ PRÉSENT DANS TOUS	2342
 UNDP Namibia's Inclusive Green Growth Portfolio	9873
-Unified Login Portal.	8175
+Unified Login Portal	8175
 Universidade Eduardo Mondlane Por	8858
 University of Port Harcourt	8560
 Upcoming Data Center Portfolio	2572
 VOA Portugu	9399
 VOA Português	2816
-VOA Português.	2816
 Vaincrons PORTE-PAROLE DU GOUVERNEMENT COMPTE RENDU	8321
 Velhas Fragilidades de Mocambique Por Amilcar Punja	10551
 Vendor Lock-in Portability Assurance GCSPs	6432
 Verbatim Portuguese	8941
 Visit the Portal	4449
 Voter Portal	7266
-Voter Portal.	7266
 World Bank Portfolio	3604
 Year Gap Portable TB	2857,3026,94
-Youth Portal.	7432
+Youth Portal	7432
 ZIMRA TaRMS Self-Service Portal	4449
 Zam Portal	1249

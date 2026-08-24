@@ -1,7 +1,6 @@
 AI GDP	3859
 AU CZI ECD GDP HIT HPC	4528
-Africa's GDP	1038,1769,4,146,4647,2301,810
-Africa's GDP.	7431
+Africa's GDP	1038,1769,4,146,4474,173,2301,810
 African Banking Assets of GDP	6938
 African Financial Institution Assets of GDP	6938
 African GDP	1814
@@ -21,8 +20,7 @@ DRC’s GDP	4826
 Dar I GDwritIirGa	1154
 Description The GDD Visibility Tech Sprint	2203
 EBN and GD	766
-EU GDPR	961,282,104,1377,832,4880
-EU GDPR.	2806
+EU GDPR	961,282,104,1377,82,750,4880
 EU's GDPR	1652
 EU’s GDPR	961,2331,2201,850
 Economic Co-operation and Development GDPR General Data	6936
@@ -47,7 +45,6 @@ GDAZAfQIPrAArorBW	6423
 GDC and WSIS	7242
 GDD Visibility Tech Sprint and Prototype	2203
 GDF-KSEC	6729
-GDIP's	9788
 GDJF and GSA	6960
 GDP Contribution of Target Sectors	4528
 GDP Expenditure Category	2775
@@ -90,7 +87,7 @@ GDP. Ghana	4905
 GDP. Interest	5202
 GDP. Island	2561
 GDP. Masiyiwa	3596
-GDP. Morocco’s	7655
+GDP. Morocco	7655
 GDP. Participation	6938
 GDP. Projections	236
 GDP. Reviews	4846
@@ -103,7 +100,7 @@ GDP. The Global Crypto Adoption Index	9709
 GDP. The Information and Communication	6325
 GDP. The MSME	940
 GDP. The MSMEs	940
-GDP. The NDPC’s	2799
+GDP. The NDPC	2799
 GDP. The World Bank	2374
 GDP. Though ICT GVA	236
 GDP. Where GDP	236
@@ -111,14 +108,13 @@ GDP. Within	8046
 GDP. Yet Africa	10138
 GDP92	3604
 GDPIR	7981
-GDPR Art.	7685
+GDPR Art	7685
 GDPR Article	7966,2122
 GDPR Articles	8436
 GDPR Cookie Compliance	3907
 GDPR Cookie Consent	3907,2274
 GDPR English	9067
-GDPR The GDPR's	8436
-GDPR's	8436
+GDPR The GDPR	8436
 GDPR-aligned	3325
 GDPR-alignment	1218
 GDPR-based	2363
@@ -130,11 +126,10 @@ GDPR-like	1243,2618
 GDPR-like Data Privacy Laws. Retrieved	1243
 GDPR-related	8436
 GDPR-style	1753
-GDPR.	7081,1267,88
 GDPR. Controller	8436
 GDPR. Data	6055
 GDPR. Frequent	8436
-GDPR. Google's	8436
+GDPR. Google	8436
 GDPR. Netflix's DDP	8436
 GDPR. Notably	8436
 GDPR. Noteworthy	5363
@@ -144,9 +139,7 @@ GDPR. Through	8436
 GDPR. Verbatim	962
 GDPR.EU	1243
 GDPRinterpretive	8436
-GDPR’s	5487,744
 GDPand Inequality	1828
-GDPs.	1264
 GDS Government Digital Service	4214
 GDS.aspx da Silva	8603
 GDS1 Issued	8166
@@ -160,14 +153,13 @@ GdanG51lU4Q&t	4447
 GenAI Generative AI GDP Gross Domestic	1814
 Gender Based Violence GDP Gross Domestic	970
 Ghana’s GDP	789,3337
-Ghana’s GDP.	4126
 Ghana’s GDP. Ghana	4126
 Government-to-Business GDP	5244
 Gross Domestic Product GDP	2775
 Gross Domestic Product GDPR	5244
 Gross Domestic Product GDPR General Data	969,274
 Growth of GDP	2775
-Guinea's GDP.	6349
+Guinea's GDP	6349
 I GDwritIirGawitira Dr C.E.F. Ma	1154
 Insurance Nominal GDP	2775
 International Scene World Real GDP Growth	2775
@@ -184,7 +176,7 @@ Nigeria’s GDP	2417,4755
 Nominal GDP	2775
 Nominal GDP USD	5247
 Non-Oil GDP	1828
-Open_Source_Report.pdf GDPR.EU.	1243
+Open_Source_Report.pdf GDPR.EU	1243
 Private Sector GDP	958
 Ready For Service GDPR General Data	3184,1,1340
 Real GDP	940,888,947,762,1710,408,2040
@@ -202,7 +194,7 @@ South African GDP	1208
 South Sudan's GDP	7749
 Stats SA’s GDP	7751
 Strong GDP	5655
-Sub-Saharan Africa’s GDP.	5247,575
+Sub-Saharan Africa’s GDP	5247,575
 System G2P Government-to-Person GB Gigabyte GDP	969
 Tanzania’s GDP	4714,5878
 Telecommunication GDP Gross Domestic Product GFCF	236

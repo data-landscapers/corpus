@@ -29,7 +29,7 @@ ALLAN KANYI WACHIRA Data Processor INST-114939D8C25	7167
 ANN WANJIKU KARIUKI Data Processor INST-9855362BE84	7167
 ANN WAYUA KARURI Data Processor INST-39879007F06	7167
 ANNE WANJIKU KABERA Data Processor INST-494880208E7	7167
-ATD Kafui Ekouhoho.	1749
+ATD Kafui Ekouhoho	1749
 Abderrahmane Kandila	8891
 Abdou Karim Jallow	6941
 Abdoul Kader Ky. Il	8808
@@ -87,7 +87,6 @@ Amb. Baba Kamara	7452
 Amb. Dr. Mohamed Kadah	9516
 Ambassador Anne Katusiime	7815
 Ambassador Dr. Kadah	8335
-Ambassador Dr. Kadah.	8335
 Ambassador Dr. Mohamed Kadah	8335
 Ambassador John Mirenge and Estelle Kayitesi	4921
 Aminata Kaba	7978
@@ -98,7 +97,7 @@ Anant Kamath	226
 Anaïs Kale-Mea-Kale	10302
 Andrew Karanja	10025
 Andrew Kasujja	9782
-Angela Kairuki.	5788
+Angela Kairuki	5788
 Angellah Jasmine Mbelwa Kairuki	6168
 Angellah Kairuki	6015,15,1075,744,247,788,493,593,407
 Angèle Kandé	8764
@@ -131,7 +130,7 @@ Baptista Eusébio Oreste Kauxique Maganlal Adelino	2989
 Barthélemy KABORE	8321
 Bayero University Kano	10560
 Ben Kamau	10330
-Benedict Kabugi.	8790
+Benedict Kabugi	8790
 Benjamin Kahura Kamau Data Processor INST-9107896F0D4	7167
 Benjamin Kalu	6871
 Blaise Bienvenu ALI Katalikora	7675
@@ -217,7 +216,7 @@ Coach Mohamed Kallon Reacts	7814
 Colonel-Major Abdoul Karimou Hima	7333
 Colonel-major Kaya Issa CISSE. Chargés	8237
 Comments KAMPALA	8730
-Commissioner General’s Office Abigail Kawamba.	9093
+Commissioner General’s Office Abigail Kawamba	9093
 Commissioner of Customs Patrick Kachingwe	9093
 Commissioner of Statistics Shelton Kanyanda	10412
 Committee Chair Eric Muchangi Karemba	8050
@@ -249,7 +248,7 @@ DR. KALEBI LABS	7167
 DRIP KASH INVESTMENT LIMITED Data Controller	7167
 Dadaab and Kakuma	2324
 Dahmani Abderrahmane Kandila Les	8891
-Dan Kasirye.	579
+Dan Kasirye	579
 Dan Katz	9428
 Daniel Kahneman	8380
 Daniel Njoroge Kamande Data Processor INST-28414742164	7167
@@ -341,7 +340,7 @@ Emilian Kayima	315
 Emily Kallaur	4214
 Emmaculate Kassait	5108
 Emmanuel Nwosu and Opeyemi Kareem Edited	6368
-Eng. E. M. Kamusoko and Mr E.	1554
+Eng. E. M. Kamusoko and Mr E	1554
 Eng. Edgar Kamusoko	1554
 Eng. Kezias Kazuba Mwale	7793,157,1820
 Engr. Kezias Kazuba Mwale of Zambia	7883,1
@@ -366,10 +365,11 @@ Fatou Ka	10700
 Fiacre E. Kakpo	4889
 Fiacre E. Kakpo Adapted	8843
 Fiacre Kakpo	8275
-Foreign Affairs Minister Thérèse Kayikwamba Wagner.	2970
+First Lady Kaone Tumalano Boko	7672
+Foreign Affairs Minister Thérèse Kayikwamba Wagner	2970
 Foreign Trade Minister Kamel Rezig	2131
 Former Kabete MP Paul Muite	9545
-Fragile Foundation Kasi Cloud’s	5200
+Fragile Foundation Kasi Cloud	5200
 Francia KARVAR	6613
 Francine Kaliba	8752
 Francis Kajubi	5883
@@ -396,7 +396,7 @@ Gladys Yabré Sunita KABORE	8321
 Godfrey Kabbyanga	3050,6731
 Godfrey Kabbyanga Baluku	6077,2472
 Godfrey Kabera	10652
-Godfrey Kabyanga Minister of State for National Guidance.	3050
+Godfrey Kabyanga Minister of State for National Guidance	3050
 Godfrey Kayigana	8838
 Gordon LaForge and Akash Kapur	4430
 Gouverneur Jean-Claude Kassi Brou	8316
@@ -415,7 +415,7 @@ H.E Robie Kakonge	6227
 H.E. Alhaji Musa Timothy Kabba	7452
 H.E. Chileshe Mpundu Kapwepwe	7963
 H.E. Hon William Kabogo Gitau	6432
-H.E. Kapwepwe.	7963
+H.E. Kapwepwe	7963
 H.E. Paul Kagame	3987
 H.E. President Paul Kagame	6265
 H.E. Robinah Kakonge. Following	6199
@@ -427,14 +427,14 @@ Hamoudi Kalla	8606
 Hannington Karuhanga	5149
 Harare Bulawayo Mutare Gweru Kwekwe Kadoma	9429
 Hashi Energy Rwanda Kamembe	718
-Hasnae El Idrissi and Roland Kangni Kpodar.	1828
+Hasnae El Idrissi and Roland Kangni Kpodar	1828
 Haya Karima	1902,7722
 Hayat Karima	7537
 Head of Corporate Communications Kayode Adegoke	1825
 Helina Bischoff By Opeyemi Kareem	7418
 Hellen Kabajungu	7772
 Henri Marie Kazadi	9408
-Home Affairs Minister Kazembe Kazembe's	1191
+Home Affairs Minister Kazembe Kazembe	1191
 Home Affairs Minister Patrobas Katambi	10460
 Home Affairs and Cultural Heritage Minister Kazembe	3277
 Hon. Angellah Jasmine Mbelwa Kairuki	6168,2843
@@ -447,7 +447,6 @@ Hon. Kalasinga. Hon. Majimbo Kalasinga	10313
 Hon. Kamket	10313
 Hon. Kamket. Hon. Kassait Kamket	10313
 Hon. Kamket. Utaratibu	10313
-Hon. Kamket’s	10313
 Hon. Kangausaru	10502
 Hon. Kargbo	9121
 Hon. Kassait Kamket	10313
@@ -491,8 +490,7 @@ ITU and Kaspersky Lab. Issued	318
 ITWeb Kagame	6265
 Ibadan and Kano. Commenting	9141
 Ibrahim Kalil	3698
-Ibrahim Kalil Konaté	1266,1152,35,566,93,19,66,71,49,169,158,11,3,2,1096,1393,126,145
-Ibrahim Kalil Konaté.	4149
+Ibrahim Kalil Konaté	1266,1152,35,566,93,19,66,71,49,169,158,11,3,2,489,607,1393,126,145
 Ibrahima Kalil Condé	3309,192,4477
 Ibrahima Kalil DIAKITE	10532
 Ibrahima Kalil Diakité	10532
@@ -504,7 +502,7 @@ Idrissa Kaba	4369
 Immaculate Kassait	8794
 Immeuble BAH Kadiatou	7977
 Imo State Command Kaduna State Command	8471
-Imprint Editeur Friedrich-Ebert-Stiftung Faso Kanu BP.	6959
+Imprint Editeur Friedrich-Ebert-Stiftung Faso Kanu BP	6959
 Improve Land Administration The Kaduna Geographic	2355
 India Kamel Galal and Assistant Minister of Industry	9332
 Ingotse Mission Data Controller INST-82956477B37 KAKAMEGA	7167
@@ -513,13 +511,12 @@ Inspector General of Police Douglas Kanja	3320
 Institut DEEN KANU	7670
 Irene Kabura	10462
 Irungu Kang'ata	5110
-Isaac K. Kassouwi	965,725,679,5,9,12,11,29,75,63,191,18,450,12,18,115,596,159,50,33,185,526,80,428,120,337,1543,303,501,1219,443,191,84,51,221,37
+Isaac K. Kassouwi	965,725,679,5,9,12,11,29,75,63,191,18,450,12,18,115,596,159,50,22,11,185,526,80,428,120,337,312,1231,303,501,1219,443,191,84,51,221,37
 Isaac K. Kassouwi Adapted	4875,919,828
 Isaac K. Kassouwi Date	2369,5,858,12,133,596,209,218,475
 Isaac K. Kassouwi Edité	5766,1331
 Isaac K. Kassouwi Lire	7434,3170
 Isaac K. Kassouwi Tarik Dadi Combats	4140
-Isaac K. Kassouwi.	4204,1999
 Isaac K. Kassouwi. Adapted	5421,133,34
 Isaac K. Kassouwi. Date	2383,127,254
 Isaac K. Kassouwi. Edited	3134
@@ -591,7 +588,6 @@ KAGEYO-	718
 KAISI	8789
 KAIST	1733,13,1219,50,1546,1100,769,157
 KAIST Kenya Advanced Institute of Science and Technology	2775
-KAIST.	1733
 KAJIADO Kenya	7167
 KAJIADO Kenya Renewed	7167
 KAKAMEGA Kenya	7167
@@ -608,8 +604,7 @@ KANNI	5022
 KANO FOCUS	8417
 KANTANEN	6613
 KANTIZA Marius	1814
-KAOUN International	2577,3157
-KAOUN International.	9117
+KAOUN International	2577,3157,3383
 KAOUN International. Amine El Mezouaghi	5608
 KAPOETA TOWN Leaders	8213
 KARAGITA Data Controller INST-1058925A5B0 NAKURU Kenya	7167
@@ -652,10 +647,8 @@ Kabare	6703
 Kabarole	6435
 Kabarondo	6703
 Kabaso	10101
-Kabaso.	10101
 Kabbyanga	3050,3027
 Kabelele	8883
-Kabelele.	8883
 Kabelo Adamson. Published	7438
 Kabelo Makwane	5838,1123
 Kabera	10652
@@ -668,7 +661,6 @@ Kabla	5090,2160
 Kabo Phetlhu	10414
 Kabogo	6160,1321,733,356,436,327
 Kabogo Gitau and Rwanda Minister of ICT and Innovation	4030
-Kabogo.	8214
 Kabogo. The CS	8214
 Kabore Junction Bakado	2776
 Kabuchai	10313
@@ -678,7 +670,7 @@ Kabuguru I and Kabuguru II	4941
 Kabum Digital	2816
 Kabuye Kyofa	9223
 Kabwe	5247
-Kabwe and Chingola.	5247
+Kabwe and Chingola	5247
 Kabyanga	6077
 Kabye-Tem	1679
 Kacha	1677
@@ -687,12 +679,11 @@ Kachale	8434
 Kacheliba	10313
 Kachidza	5162
 Kachwanya	8095
-Kachwanya’s	8095
 Kacper Pempel	5618
 Kacyiru	718,4251,4156
 Kacyiru Sector	4941
 Kacyiru Sector Office	4941
-Kadahokwa and Gisuma Water Treatment Plants.	718
+Kadahokwa and Gisuma Water Treatment Plants	718
 Kaddour Rahim	5753
 Kader	7790
 Kader Ouro-Agoro	9973
@@ -714,7 +705,6 @@ Kadoma Draft	4528
 Kadongo Kamu	9781
 Kadotien Soro	9028
 Kadri	9560
-Kadri's	9560
 Kaduna	2355,1936,1222,361,2333
 Kaduna State	670,1685
 Kaduna State Bill	670
@@ -723,11 +713,10 @@ Kaduna Unveils Software	2355
 Kaduna and Sokoto	7895
 Kadzandani	10313
 Kaeane	10082
-Kaeane.	10082
 Kaewkamol	9128
 Kaffrine	58,1153,8370,480,113
 Kafodzidzi-Abrobeano	7695
-Kafue.	10374
+Kafue	10374
 Kafulafuta	4624
 Kagaayi JA	1219
 Kagaayi&author	1219
@@ -756,12 +745,10 @@ Kailahun	5390
 Kaimu Mkurugenzi	7935
 Kainobwisho	2757
 Kaira	7364
-Kaira.	7364
 Kairaba Avenue	6008
 Kairiukstis	7759
 Kairouan	8797,225
-Kairuki	6015,1834,1528
-Kairuki.	8884
+Kairuki	6015,1834,1035,493
 Kairuki. Amesema	7849
 Kairuki. Kwa	6015
 Kais Saïed	5018,5189
@@ -773,18 +760,16 @@ Kaiyatsa	7041
 Kaizen	10044
 Kajab Ebg Services Ltd	3862
 Kajab Engineering Services Ltd	3862
-Kajiado	6573,373
+Kajiado	5923,191,295,107,57,190,33,150,319
 Kajiado County	6946,3367
 Kajiado County Governor Hon. Joseph Ole	6946
 Kajiado North	2457
 Kajiado South and Nairobi	2668
 Kajiado and Murang'a	6733
-Kajiado's	5923,191,295,107,247,33,469
 Kajian Kepustakaan	2093
-Kajo-Keji	2685,2,359,86,80,96,15,119,65,590,447,96,374,93,240,81,578,109,696,438
+Kajo-Keji	1963,722,2,359,86,80,96,15,119,65,590,447,96,374,93,240,81,578,109,696,438
 Kajo-Keji County Trains	2685,2,359,86,176,15,119,65,590,447,96,374,93,240
 Kajo-Keji Evicted	2685,2,359,86,176,15,119,65,590,447,96,374,93,240
-Kajo-Keji.	1963
 Kajsa Osterberg Astrom. FCG Swedish Development	427
 Kajwengye Among	6009
 Kakamega	2775,769,3029,373,622
@@ -824,8 +809,7 @@ Kalenjin and Somali. Ushahidi	9944
 Kalgondin	8321
 Kaliisa	8602
 Kalil Ibrahim Konaté	3218,878
-Kalil Konaté	1266,708,400,5,8,366,103,19,144,467,158,3219,2956
-Kalil Konaté.	3661
+Kalil Konaté	1266,708,400,5,8,366,103,19,144,467,158,17,3202,2956
 Kalil Konaté. Ayant	2387
 Kalil Konaté. Il	2753
 Kalilou Sylla	8072,1903
@@ -845,7 +829,6 @@ Kalonzo Musyoka	7922,1723
 Kalonzo Musyoka Rigathi Gachagua Babu Owino	7869
 Kaloum	3309,6017
 Kalp Foundation	2267
-Kalp Foundation's	2267
 Kaltenbrunner and Reuchel	2093
 Kaltheuner	2518,5339
 Kalulu	3791
@@ -856,19 +839,16 @@ Kalumbila District	1778,89,121
 Kalumbila District Council	1778,210
 Kalumbila District Council Construction	1988
 Kalumbila District Council Poor	1988
-Kalumbila District Council.	1988
 Kalumbila District Council. Component	1988
 Kalumbila District Council. ESMF Justification	1988
 Kalumbila District Council. Ministry of Justice	1988
 Kalumbila District Officials	1778
 Kalumbila District Shilenda	1988
 Kalumbila District of North-Western Province. Component	1988
-Kalumbila District.	1867,121
 Kalumbila District. MoHAIS	1867
 Kalumbila District. Workers	1988
 Kalumbila Town	1988
 Kalumbila Town Council	1778,89,121
-Kalumbila Town Council.	1867,121
 Kalumbila Town Council. The Act	1988
 Kalumbila Town Council. The SPMU	1867
 Kalumbila and Chilanga	6391
@@ -884,18 +864,14 @@ Kamaleddine Faher	8891
 Kamanda	7182
 Kamando	9897,143
 Kamara	158,7294,1368,1360
-Kamara.	10180
 Kamara. Related	10180
-Kamara. The AfDB's	5804
+Kamara. The AfDB	5804
 Kamashangi	718
 Kamatamu	4941
 Kamati	2868,2548,599,4
-Kamati.	6019
 Kamau	9645,685
 Kamau Kaori	9645
 Kamau Thugge	4103,698
-Kamau's	10330
-Kamau.	9645
 Kamba	899,9045
 Kambasu	8661,134
 Kambwa	8434
@@ -912,49 +888,44 @@ Kamil Dybczak	6965,580
 Kamil Idris	3902
 Kaminizi	7628
 Kamlana	9677
-Kamlana.	9677
 Kamninga TM	9349
 Kamoa	6843
 Kamogelo Mowaneng	3761
-Kamogelo Mowaneng. PIC PHATSIMO KAPENG Botswana's	3761
+Kamogelo Mowaneng. PIC PHATSIMO KAPENG Botswana	3761
 Kamonyi	4942
-Kamonyi District.	718
+Kamonyi District	718
 Kamonyi District. Imports	718
 Kamonyi Lake Petroleum Rwanda Runda	718
 Kamonyi. NIDA Director General Josephine Mukesha	4941
 Kamoto	5407,676,760,2846
-Kampala	315,5,251,1155,85,32,178,497,157,1,81,41,16,236,37,198,276,75,64,117,69,53,51,227,5,13,153,175,97,14,13,65,1,165,36,4,1,26,79,49,136,122,23,652,75,93,48,173,141,4,55,56,25,70,64,162,175,21,221,386,59,1,71,21,107,108,102,43,199,23,44,137,311,132,75,354,93,86,199,75,147,7,51,21,181,102,35
+Kampala	315,5,251,711,444,85,32,178,497,157,1,81,41,16,236,37,198,276,75,64,117,69,53,30,21,227,5,13,153,175,97,14,13,65,1,165,36,4,1,26,79,49,136,122,23,264,388,75,93,48,173,141,4,55,56,25,70,64,162,175,21,221,386,59,1,71,21,107,108,102,43,199,23,44,137,311,132,75,354,93,86,119,80,3,72,147,7,51,21,18,163,102,35
 Kampala Chapter	10416
 Kampala Convention	2106,6379
 Kampala Declaration	9609
 Kampala Implementation Guidelines	10257
 Kampala Int Univ	9781
 Kampala Metropolitan Police Area	315
-Kampala Metropolitan Police Area.	315
 Kampala Metropolitan Police Area. The CCTV	315
 Kampala Summit	10257
 Kampala URSB	2757
 Kampala and Addis Ababa	8074
 Kampala and Dar	9016
-Kampala and Gulu.	10599
+Kampala and Gulu	10599
 Kampala and Malaba	2798
 Kampala and Metropolitan Affairs Minister Hajjat Minsa	9900
 Kampala and Nairobi	10312
-Kampala and Nairobi.	10312
 Kampala and Wakiso	4954
-Kampala's	9248,652
 Kampala- Uganda	5113
 Kampala-Entebbe	9388
 Kampala-Entebbe Expressway	3583
 Kampala-based	3065
 Kampala-centric. Developing	2676
 Kampala-listed	5389
-Kampala.	1282,1516,1171,1425,264,977,3348,316,300
 Kampala. Née	8593
 Kampala. Oceng	5394
 Kampala. Representing UCUSAF	9781
 Kampala. UGANDA TO MAP BUILDING SAFETY	10055
-Kampala. URA Commissioner General John R.	4348
+Kampala. URA Commissioner General John R	4348
 Kampala. Whether	7946
 Kampeni	6019
 Kampuni	2868,3151,583,1261
@@ -967,8 +938,8 @@ Kamukunji_cluster.pdf	7573
 Kamuleta	8345
 Kamuntu	9386
 Kamusoko	1554
-Kamusoko Deputy Chairperson Prof. C. E.	1554
-Kamusoko Dr. Eng. E.M. Kamusoko Dr.	1154
+Kamusoko Deputy Chairperson Prof. C. E	1554
+Kamusoko Dr. Eng. E.M. Kamusoko Dr	1154
 Kamusoko Dr. Eng. Loveness Kunaka	1554
 Kamuthe	10728
 Kamuthe and Wabiri Ward	10728
@@ -989,7 +960,7 @@ Kandeh	9765,297
 Kandi	5978,3932
 Kandia Camara	6095,14
 Kandia Camara. Nommé	6144
-Kandil's	8476
+Kandil	8476
 Kandila Moncef Ziani Laila Berbich Otmane	8891
 Kandjoura Dramé. Renforcement	766
 Kandumbu	10465
@@ -1008,7 +979,7 @@ Kang'ata	6394,11
 Kangana	3569
 Kangata	6405
 Kangausaru	10502
-Kange.	5883
+Kange	5883
 Kangema Magistrate	7441,192
 Kangni Kpodar	1828
 Kango	2325
@@ -1019,7 +990,6 @@ Kangundo	10464
 Kangwana	4734
 Kaniama Kasese	8834
 Kaniasso	2342
-Kaniasso.	2342
 Kanifing	3066,6250
 Kanifing Hospital	10062
 Kanifing Municipal Council	4118
@@ -1027,13 +997,12 @@ Kanifing Municipality	4118
 Kanja Sesay The National Civil Registration	9765
 Kankan	3501
 Kanko KAMBIRE	7670
-Kano Focus.	8417
+Kano Focus	8417
 Kano Governor Abba Yusuf	9876
 Kano N2	8207
+Kano State	9576
 Kano State Command Lagos State Command	8471
-Kano State.	9576
 Kano and Kaduna	1681
-Kano.	2933,4133,507,2114
 Kanombe	718
 Kanono Ramashamole	5523,218
 Kanono Ramashande	4636
@@ -1045,7 +1014,7 @@ Kantara Initiative	2318,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,
 Kanter	766
 Kanter&author	766
 Kantigui	5504,3546
-Kanto Kai Okanta	2862,429,1038,1385,6,85,324,2,14,872
+Kanto Kai Okanta	2862,429,1038,1385,6,85,110,214,2,14,61,558,253
 Kanto Kai Okanta Benin	4246
 Kanto Kai Okanta Cabo Verde	6037
 Kanto Kai Okanta Cabo Verde Digital	5509
@@ -1055,7 +1024,6 @@ Kanto Kai Okanta The African Centre	9248
 Kanto Kai Okanta The African Telecommunications	6007
 Kanto Kai Okanta The Botswana Communications	4709
 Kanto Kai Okanta The International Telecommunication	6427
-Kanto Kai Okanta.	5915,291,558
 Kantrowitz	8606
 Kanubah	8860,351,1
 Kanungu	6435
@@ -1089,7 +1057,6 @@ Kapoeta	8213
 Kapsoya Estate	3758
 Kapur	7138
 Kara le Roux	3922
-Kara.	6260
 Kara. Cette	9493
 Kara. Il	2966
 Karabekiroglu	8604
@@ -1101,15 +1068,13 @@ Karahalios K	8460
 Karai Children’s The Authority	6946
 Karamagi	2703
 Karambo	718
-Karamo Diawara.	7978
-Karamo Kaba	7621,109
-Karamo Kaba.	10479
+Karamo Diawara	7978
+Karamo Kaba	7621,109,2749
 Karamo Kaba. Il	7826
 Karamoja	1150,2577,2016,455
 Karamoja Green Industrial and Special Economic Zone	3727
 Karamokho Badiane	2940
-Karamoko Jean Marie Traoré	8733,1812
-Karamoko Jean Marie Traoré.	10567
+Karamoko Jean Marie Traoré	8733,1812,22
 Karamoko Jean Marie Traoré. Il	8733
 Karanfil	1828
 Karang	7512
@@ -1154,11 +1119,9 @@ Karine Brunet	7488
 Karine Oulaté	10389
 Karingi	9162
 Karintseva	8022
-Kariuki	6691,25,549,571
+Kariuki	3391,3300,25,549,571
 Kariuki Mary Wairimu	899
 Kariuki Sh1	7265
-Kariuki's	3391
-Kariuki.	6691,25
 Karl Kohler	1015
 Karl Olutokun Toriola	2563
 Karl Olutokun Toriola Chief Executive Officer	8408
@@ -1202,8 +1165,7 @@ Kaselitz&volume	1219
 Kasenyi	5209
 Kasese	3275,3160,1597,557,72,1120
 Kasese Deputy Town Clerk Zedekiah Kambasu	8661,134
-Kasese District	8589,206
-Kasese District.	8661,134
+Kasese District	8589,72,134
 Kasese Municipal Council	8661,134
 Kasese Town	8589
 Kaseya	2678,2535,243
@@ -1214,7 +1176,6 @@ Kash Mojaloop	2537
 Kash Rwanda	8017
 Kash The National Bank of Rwanda	9046
 Kash Was Designed	8535
-Kash.	2537
 Kash. Even	8758
 Kash. RSwitch	7272
 Kash. Users	8708
@@ -1229,23 +1190,17 @@ Kashifu Inuwa Abdullahi	2680,374,690,2314,631,1735,15,547,131,1,839,467,142,114
 Kashifu Inuwa Abdullahi CCIE Director-General	5665
 Kashifu Inuwa By Justice Okamgba Kindly	9753
 Kashifu Inuwa CCIE	4725
-Kashifu Inuwa.	9671
-Kash’s	4166
 Kasi Cloud	3477,77,1356,290,1176,204,486,263,3176
 Kasi Cloud Datacenters	6376
 Kasi Cloud Datacenters Flags Off West	6376
 Kasi Cloud Datacenters Lagos State Affirms	6376
 Kasi Cloud Datacenters The Kasi Lekki	6376
 Kasi Cloud Is Actually Building	5200
-Kasi Cloud Ltd.	5200
-Kasi Cloud's	4910,5595
-Kasi Cloud’s	5200,1176
+Kasi Cloud Ltd	5200
 Kasi Coud Hyperscale Data Centre	6376
 Kasi Insight	3365
-Kasi Insight's	3365
 Kasi LOS1	6376
 Kasi Lekki Campus	6376
-Kasi's	3365
 Kasija	4217
 Kasilo County MP	1198
 KasoaWinneba	7695
@@ -1254,10 +1209,9 @@ Kaspar Mmuya	6123
 Kaspersen	7174
 Kaspersky	34,2083,222,54,616,103,747,901,547,4595,569
 Kaspersky Internet Security	34
-Kaspersky Labs.	318
+Kaspersky Labs	318
 Kaspersky Security Network	3009,850
 Kaspersky Tatyana Shishkova	9902
-Kaspersky.	3009
 Kaspersky. Pour	2393
 Kassa	3791
 Kassa M	3791
@@ -1267,8 +1221,8 @@ Kassala	6039
 Kassanda Chief	5731
 Kassataya.com	8105
 Kasseh	9943
+Kassem	6947
 Kassem Mnejja	1637,250
-Kassem.	6947
 Kassena-Nankana West District	7165
 Kasserine	9596
 Kasserine. Le	9596
@@ -1317,9 +1271,9 @@ Katika	2710,8,150,218,361,62,590,1916,4,308,298,625,599,562,204
 Katika Mwaka	2868,3151
 Katima Mulilo	9872
 Katiola	8694
-Katiola and Boundiali.	5902
+Katiola and Boundiali	5902
 Katiso Molefe and Carrim. Msibi and Sergeant Fannie	10263
-Katja Ahlfors.	5672
+Katja Ahlfors	5672
 Katjihoro	8819
 Katjiteo	8960
 Katjivive	8960
@@ -1332,19 +1286,16 @@ Katleho	4636
 Katlehong	5744
 Kato Koichi	6591
 Katrin Arnold	8351
-Katsina	3718,2047,1106
+Katsina	3718,2047,1106,690
 Katsina State	3718,2047
 Katsina State Chapter	5765
 Katsina State Governor Malam Dikko Umaru	3718
 Katsina State Hub	3718
-Katsina State’s	5765
-Katsina.	7561
 KatsinaAugust	9876
 Kattel	961,1132,3607
 Katusiime R	6198
 Katutura	3475,3201,2000
 Katutura and Rehoboth	8722
-Katutura and Rehoboth.	8722
 Katuu	8021
 Katzenbach	7966
 Kaufman	2093,5929
@@ -1352,14 +1303,12 @@ Kaula Nhongo	6785
 Kaula Nhongo and Rene Vollgraaff	1979
 Kauli	1921,797
 Kaunda	4038,3832
-Kaunda.	4038
 Kaupa	7870
 Kaupa Defence Minister Feston Kaupa	7870
 Kaura	1828
 Kausik	6948
 Kauto	8213
 Kauto Administrative Area	8213
-Kauto.	8213
 Kavaarpuo	4757,16,3706,2150
 Kavaarpuoaid	10629
 Kavaka	8006
@@ -1374,11 +1323,11 @@ Kavango West Regional Education Director	9665
 Kawaida	2868,3151
 Kawana	8481
 Kawangware	8050
-Kawarizmi.	7015
+Kawarizmi	7015
 Kaweesi	315
 Kawempe Division	4954
 Kawsu Barrow	4359
-Kay-Lyne Wolfenden	2711,769,5,39,137,35,44,24,24,17,76,51,150,11,101,102,281,50,176,114,149,222,94,84,206,85,77,9,54,4,1,7,28,44,21,176,360,108,38,4,64,113,8,188,55,155,52,144,36,13,18,16,18,429,63,34,2492,4,74,1,2,1,2
+Kay-Lyne Wolfenden	2711,769,5,39,137,35,44,23,1,24,17,76,51,150,11,101,102,281,50,16,160,114,149,222,94,84,206,85,77,9,54,4,1,7,28,44,21,8,168,360,108,38,4,64,103,10,8,188,55,155,52,144,36,13,18,16,18,429,63,34,2492,4,74,1,2,1,2
 Kay-Lyne Wolfenden Cybastion Institute of Technology	3441
 Kay-Lyne Wolfenden Developed	6376
 Kay-Lyne Wolfenden Discussions	5917
@@ -1388,7 +1337,6 @@ Kay-Lyne Wolfenden Overall	5755
 Kay-Lyne Wolfenden PactDigital	7251
 Kay-Lyne Wolfenden Priority	3891
 Kay-Lyne Wolfenden The Accelerating Digital Transformation	4963
-Kay-Lyne Wolfenden.	3696,67,42,772,66,645,722,674,171
 Kaya. Des	7916
 Kaya. L'adoption	4399
 Kaya. Les	7915
@@ -1415,11 +1363,9 @@ Kayoola E-Bus	8549
 Kayunga District	3005
 Kayuyu	10436
 Kazakh	1749,8319
-Kazakhstan	1749,641,913,126,194,745,974,19,1289,155,18,26,44,231,838,487,1492,127,362,284
+Kazakhstan	1749,641,913,126,194,745,974,19,1289,155,18,26,44,231,838,487,1492,127,362,202,82
 Kazakhstan Les Comores	8877
 Kazakhstan and Togo	1749
-Kazakhstan's	10068,564
-Kazakhstan.	1749,5144
 Kazakhstan. At Digital Almaty	1749
 Kazakhstan. La	8877
 Kazakhtelecom	9941,691
@@ -1427,19 +1373,17 @@ Kazang	10393
 Kazang Insights	10393
 Kazeem	2117,1665
 Kazeem Ugbodaga	7003
-Kazembe	1191,1625,461,2902
+Kazembe	1191,1625,219,242,761,520,84,1026,183,181,147,77,297
 Kazembe Kazembe	1191,4988
-Kazembe’s	3035,1003,520,84,1026,183,181,224,297
 Kazi Majuu	5160
 Kazin	9739
 Kazis	8283
 Kazungula	5250,3045,857,1172
-Kazungula District’s Game Management Area.	3662
+Kazungula District’s Game Management Area	3662
 Kazungula and Chirundu	9152
 Kazuo Inaba	1828
 Kaïros	8515
-Kaïs Saïed	10065
-Kaïs Saïed.	10013
+Kaïs Saïed	10013,52
 Kaïs Saïed. Elle	9596
 Kaïs Saïed. L'état	10013
 Kenneth Karanja	9645
@@ -1470,11 +1414,10 @@ Kuzindua Kampeni	2868
 L'étape de Kaolack	10174
 L.S.M Kabweza	1872,6274
 L.S.M Kabweza. Carries	1872
-LTA Acting Chair Abdullah L. Kamara.	1910
+LTA Acting Chair Abdullah L. Kamara	1910
 LTA Acting Chairperson Abdullah L. Kamara	1910
 LTA Chairman Abdullah Kamara	2362
 La Kasbah	8998,1015,531
-Lady Kaone Tumalano Boko	7672
 Lagos State and Kasi Cloud	6376
 Lake Kariba	5247
 Lake Kariba Fisheries Research Institute	3025
@@ -1503,8 +1446,7 @@ M. Dominique Kaba	5835
 M. Feycal Kaireh Chirdon	3370
 M. Jean Sansan Kambilé. Cette	3119
 M. Kabura	6742
-M. Kalonji	10475
-M. Kalonji.	8901
+M. Kalonji	8901,1574
 M. Kalonji. Privilégier	8901
 M. Kamuleta	8345
 M. Karim Zidane	4599
@@ -1512,7 +1454,7 @@ M. Soumaila Abdoul Karim	3967,22
 MAJ GEN KAHINDA OTAFIIRE	1844
 MAKUBALIANO YA KUIMARISHA USHIRIKIANO KATIKA UCHUMI	7863
 MBELWA KAIRUKI	6019
-MD Ashfakul Karim Kausik.	6948
+MD Ashfakul Karim Kausik	6948
 MICSTI Principal Secretary Kanono Ramashamole	7161
 MOHAIS and Kalumbila District Council	1988
 MOHAMED KAWAMI HOUSSEINI BEN MOHAMED	4342
@@ -1527,7 +1469,6 @@ MW Chisamba and Kabwe	5247
 MW Kabwe Solar Project	5247
 MW Karuma Hydro Power Plant	3561
 Maake Ka-Ncube	10481
-Maake Ka-Ncube.	10481
 Madame Kadia CISSE	8237
 Madame Magida KARAKI	8321
 Madame Marième Kane DIALLO	8269
@@ -1550,14 +1491,14 @@ Mangochi and Karonga	5620
 Marcellin Kakpa. Et	10327
 Marcellin Mambo Kalubinda	9448
 March. Ms Kairuki	9689
-Margaret Kalo.	7742
+Margaret Kalo	7742
 Mariama Ciré Kaba	7730
 Marie Laure Lepas Kanda	3888
 Market Women Haja Marie Bob Kandeh	9765
 Marvelous Kadzima	10718
 Mary Kansiime	4753
 Mary Karugaba	6493
-Masaiti and Kafulafuta.	5057
+Masaiti and Kafulafuta	5057
 Masayuki Kayahara	5664
 Mashare Constituency Councillor Peter Kashumali	10465
 Mataifa Katika Utafiti	2868
@@ -1584,7 +1525,7 @@ Mercy Kahenda President William Ruto	10661
 Mercy Kainobwisho	6121
 Mercy Kamau	9162
 Mercy Kariuki	7265
-Mercy Wairimu Kariuki.	7265
+Mercy Wairimu Kariuki	7265
 Mh. Kamusoko	1154
 Mhe. Angellah Jasmine Mbelwa Kairuki	7863,1
 Mhe. Kairuki	7863,1
@@ -1600,12 +1541,11 @@ Mida By Opeyemi Kareem	7907
 Migori Kisii Nyamira Narok Kajiado Mt	7869
 Mihasonirina Andrianaivo and Kangni Kpodar	1828
 Minister Angela Kairuki	5788
-Minister Angellah Jasmine Mbelwa Kairuki's	6021
+Minister Angellah Jasmine Mbelwa Kairuki	6021
 Minister Ibrahim Kalil Konaté	4062,9
 Minister Kaba Nialé	4297
 Minister Kairuki	9011,1366
-Minister Kalil Konaté	3261
-Minister Kalil Konaté.	3569
+Minister Kalil Konaté	3261,308
 Minister Kamuntu Pledges Government Support	9386
 Minister Nialé Kaba. Konaté	4096
 Minister of Defence Dr. Feston Kaupa	6813
@@ -1635,7 +1575,7 @@ Monsieur Takanari KAKUDA	8321
 Monsieur Tim Kambwa	6460
 Monsieur Yves KAFANDO	3044
 Monsieur le Ministre Kalil KONATÉ	1598
-Moses Kaggwa.	8559
+Moses Kaggwa	8559
 Moses Kaufa	799
 Moshi Kakoso	6030
 Mr. Gamal Eldin Ahmed A. Karrar	4123
@@ -1653,13 +1593,11 @@ Mr. Maxime Sansan Kambou	6938
 Mr. Stephen Kasaija	3005
 Ms Angellah Kairuki	4714,2714,2261
 Ms Kabura	10462
-Ms Kabura.	10462
 Ms Kadiri	10571
 Ms Kairuki	4714,1316,1075,323,2261
 Ms Kaja Kallas	5499
 Ms Kaoma	10510
 Ms Kariuki	7265
-Ms Kariuki's	7265
 Ms Kaswaga	8908
 Ms Subira Kaswaga	8908
 Ms. Gloria Katuuku	6786
@@ -1698,13 +1636,13 @@ Niwapongeze Mheshimiwa Kassim Majaliwa Majaliwa	2868
 Nixon Kanali	2850,1237,524,1550,64,281,297,678,70,16,141,384,1765,81,298,303
 North Africa By Lina Kacyem	5159
 North West Premier Lazarus Kagiso Mokgosi	7738
-Northern Kafue National Park.	1988
+Northern Kafue National Park	1988
 Ntsima. PIC PHATSIMO KAPENG The Minister	3981
 O Elizabeth Kamutuezu and Saara Pohamba	1016
 Octivius Kahiya	5315
 Officer Mawano Kambeu	6187
 Ol Kalou	2668,74,1016,2434,124,311,160,213,869,1676
-Ol Kalou Comprehensive School.	9545
+Ol Kalou Comprehensive School	9545
 Ol Kalou Jitume Digital Hub	6627
 Ol Kalou Technical and Vocational College	6627
 Ol Kalou. Under	9545
@@ -1714,8 +1652,7 @@ Oliver Kaonga	5162
 Olivier KAFORO	8445
 Omar Kané	3551,1106,1302
 Omusati Oshana Otjozondjupa Zambezi Hardap Kavango	1944
-Opeyemi Kareem	3929,2145,774,717,475
-Opeyemi Kareem.	4277
+Opeyemi Kareem	3929,348,1797,774,717,475
 Opposition Leader Hon. Abdul Kargbo	9121
 Opposition Whip Hon. Abdul Karim Kamara	9121
 Original Research Kaewkamol	9128
@@ -1783,7 +1720,7 @@ Prime Minister Dr. Kamil Idris	9490
 Prime Minister and Committee Head Professor Kamil	9685
 Principal Public Relations Officer Liseli Kanyanga	6391
 Principal Secretary Mr Kanono Ramashamole	5097
-Principal of IPRC Karongi.	718
+Principal of IPRC Karongi	718
 Prinsloo& Kaliisa	8602
 Prioritize Secure Digital Infrastructure KAMPALA	8352
 Procurement and Supplies Unit Mr. Chipalo Kaliki	34
@@ -1799,7 +1736,6 @@ Président du Groupe KAYDAN	6180
 Puot Kang Chol	3583
 Quartier Kaporo	7977
 R. Kattel	5700
-R. Kattel.	5700
 REMERA-KIBAYA VIA KANOMBE	718
 Ramazani and Katembo	9408
 Raylenne Kambua	9937,309
@@ -1808,7 +1744,7 @@ ReconAfrica’s Kavango West	5407,676
 Redington. Katika	3062
 Reference Kazeem2020	2117
 Reference Narayanan and Kapoor2024	8283
-Regional Council Karim Achengli.	6924
+Regional Council Karim Achengli	6924
 Registered Trustees Data Processor INST-89244198CC4 KAKAMEGA	7167
 Related Posts KAMPALA	8730
 Relations Officer Mwala Kalaluka	4378
@@ -1818,27 +1754,25 @@ Representing Katsina State Governor Dikko Radda	5765
 Richard Kafui Amanfu	6936
 Robbie Kakonge	6262
 Robert Kahn and Vinton Cerf	1036
-Robert Karamagi	2710
-Robert Karamagi.	2703
+Robert Karamagi	2703,7
 Robert Karanja	2783,4290,848,733
 Robert Kasande	2757
 Robert Lucien Jean-Claude Kargougou	9401
 Robie Kakonge	6197
-Robinah Kakonge. Starlink's	6264
+Robinah Kakonge. Starlink	6264
 Rodah Kamfwa	9137
 Rodrigue Kafando	9993
 Roundtable Conversation Richard Kafui Amanfu	6936
-Rt. Hon. Justine Kasule Lumumba	9781
-Rt. Hon. Justine Kasule Lumumba Hon.	9781
-Rt. Hon. Justine Kasule Lumumba and Hon.	9781
-Rt. Hon. Justine Kasule Lumumba.	7389
+Rt. Hon. Justine Kasule Lumumba	7389,2392
+Rt. Hon. Justine Kasule Lumumba Hon	9781
+Rt. Hon. Justine Kasule Lumumba and Hon	9781
 Ruto Kalonzo Matiang'i Sifuna Gachagua Babu	7869
 Ruto and Kalonzo	7869
 Rwanda President Paul Kagame	5418
 Rwanda's President Paul Kagame	8113
 Rwandan President Paul Kagame. NCC Executive	8552
 Rwanda’s Paul Kagame	5302
-Rwanda’s President Paul Kagame.	4030
+Rwanda’s President Paul Kagame	4030
 Région de Kayes. Le	9287,55
 République Kaïs Saïed	7767,1231
 SAES3 Kamal M. Siblini Team Member	1284
@@ -1846,7 +1780,7 @@ SAWADOGO Kadsongo	737
 SIV2A12 Kahn	8603
 SOS Kacyiru	4941
 SSRA Kampala Liaison Office	10599
-STIs Kazembe’s	6511,853
+STIs Kazembe	6511,853
 Saeri and Kaufman	8022
 Salaam Regional Manager Mr Robert Kasulo	7026
 Salaam. Kampuni	3062
@@ -1890,7 +1824,7 @@ Simbarashe Crispen Kanyimo	9794
 Simon Mwansa Kapwepwe International Airport	5247
 Sir Dawda Kairaba Jawara International Conference	7823,1491
 Smooth Transition Process Mercy K. Kainobwisho	2757
-So Kasi Cloud’s	5200
+So Kasi Cloud	5200
 Societe Petroliere Kanombe	718
 Société Kalehe	10278
 Solwezi East MP Alex Katakwe	3182
@@ -1899,7 +1833,7 @@ Solwezi and Kalumbila Districts of Northwestern	1988
 Somalia Kahda	5225
 Somaliland Kala Hadashay E-Visa-da	10059
 Son Excellence José Mpanda Kabangu	6460
-Son Excellence Kamel Abdel Hadi Al-Wazir.	4402
+Son Excellence Kamel Abdel Hadi Al-Wazir	4402
 Souleymane KABORE	8321
 South Africa Weighs Karoo Shale Gas	5407,676
 Sport and Arts Kangwa Chileshe	7432
@@ -1916,7 +1850,7 @@ Sudan's Battle for Connection By Kassem Mnejja	1887
 Systems Analyst Mr. Chipopa Kazuma	34
 Séraphin Umba Kapepe	3104
 Séraphin Umba Kapepe. Un	3104
-T Katehwe Ms. I. M.	1554
+T Katehwe Ms. I. M	1554
 T- Kash	6946
 TOGO Karim	737
 TRIBUNE de Albert Kabeya	10163
@@ -1926,8 +1860,7 @@ Takaful and Karama	2419,536
 Tamba Benoît Kamano	7978
 Tamba Benoît Kamano. L'événement	4936
 Tarik Aguizoul Karima Mkika Abdelmaksoud Rachdi	8891
-Tawanda Karombo	4298,1113,745,1390,2915,146
-Tawanda Karombo.	5396
+Tawanda Karombo	4298,1098,15,745,1390,2915,146
 Technology KAPU Kenya Airport Police Unit	2775
 Telecoms Minister Karim Bibi Triki and High	1842
 Tim Kaine of Virginia	10446
@@ -1960,20 +1893,20 @@ Vice President Senator Kashim Shettima	8241
 Vice-President Khumbo Kachali	8575
 Victor Kapiyo	3162,5738
 Victoria Falls and Kazungula	8295
-Vijai Karthigesu.	1729
+Vijai Karthigesu	1729
 Vision KAMPALA	4388,566,1518
 Vodacom Business Director Nguvu Kamando	9897
-Wa. Magwa ADir.CEdnregA.irEC.Mdre. KamusMokso. I. MM.sD.	1154
+Wa. Magwa ADir.CEdnregA.irEC.Mdre. KamusMokso. I. MM.sD	1154
 Waliyu Karimu	10389
 Wassu Gambia Kafo	10314
-Waziri Katambi.	6327
+Waziri Katambi	6327
 Website Management Mr. Andrew Kashoka	34
 Wenzel Kavaka	8006,1660
-Willard Munyoka and Prof. Armstrong Kadyamatimba.	2093
+Willard Munyoka and Prof. Armstrong Kadyamatimba	2093
 William Kabogo	8214,802
 William Kabogo Gitau	5586,378,82,132,2083,309,2065
 William Kabogo Gitau. Kenya	8570
-William Kabogo and China's	10539
+William Kabogo and China	10539
 William Kaunda	4038
 Willie Kanyeki	2940
 Willy Kambwandira	6754,1680

@@ -18,8 +18,7 @@ Cabo TV	6638,25,1
 Category FM Compliance FM Compliance TV	6946
 Central Johannesburg TVET College	6632,95
 Channel One TV	10523
-Channels TV	6499
-Channels TV.	2318
+Channels TV	2318,4181
 Commercial FTA TV	6946
 Commission for TVET	789
 Community FTA TV	6946
@@ -79,7 +78,7 @@ Pay TV Direct-	2776
 Pay TV Direct- To-Home Bouquet	2776
 Pay TV Direct-To-Home Bouquet	236
 Pay TV Operators	6890
-Pay TV Platforms.	718
+Pay TV Platforms	718
 Pay Tv	2776
 Pay Tv Direct-To-	2776
 Per Channels TV	2658
@@ -123,7 +122,7 @@ TV. Títulos	2816
 TVA Taxe	7655
 TVA. Article	7346
 TVA. Le Ministre	9181
-TVC Labs and Opus.	4884
+TVC Labs and Opus	4884
 TVC News	10725
 TVCABO	1526
 TVET Baseline	789
@@ -143,18 +142,16 @@ TVET WIL	6832
 TVET and DE	789
 TVET for Enhanced Youth Skilling and Employability	6948
 TVET-KFW	4126
-TVET-MIS.	9139
+TVET-MIS	9139
 TVET-based	4126
 TVET-industry	789
 TVET-related	6832
 TVET-system	789
-TVET.	789,6043
 TVET. Embed AI	6832
 TVET. Finally	789
 TVET. Ghana’s TVET	789
 TVETA	7548
 TVETs	1264,374,1351,1664,2895,1786
-TVETs.	7548
 Tchad24 TV	4822
 Telephone Bearer Microwave Link TV Bearer	736
 Threats TVET Technical and Vocational Education and Training	4126
@@ -169,4 +166,4 @@ Worker Tvpe	4301
 World TV	5407,676
 World TV Day	4058
 World TV Expands	3437,3942,47
-ZBS and Luntha TV.	9217
+ZBS and Luntha TV	9217

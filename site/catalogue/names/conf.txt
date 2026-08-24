@@ -14,7 +14,7 @@ Accountability Configuration. Stage	8283
 Accountant General’s Conference Hall	7475
 Additional Confirmations	5903
 Addressing the Zimswitch Payments Conference	7880
-Advise the Conference of Regulators and Executive Committee.	5680
+Advise the Conference of Regulators and Executive Committee	5680
 Africa COP Climate Change Conference COVID-19	2775
 Africa Confidential	4127
 Africa Health Agenda International Conference	2678
@@ -30,11 +30,11 @@ African Higher Education Curriculum Conference	10170
 African Ministers Conference	4120
 African Open Government Conference	6101
 African Startup Conference	4277,1548,2613
-African Union Conference Center and Office Complex.	6003
+African Union Conference Center and Office Complex	6003
 Agent Conference	10249
 All Africa Conference of Churches Data Processor	7167
 All Confidential and Classified	3861
-All-Party Conference.	10363
+All-Party Conference	10363
 All-Party Conference. Mr Mohwasa	10363
 Americas Conference	5700
 Angola Banking Conference	6360
@@ -45,7 +45,7 @@ Annual International Conference	2096,2336,917
 Annual Planning Conference	2668
 Annual Residential Address Conference and Postal Services	4953
 Annual Scientific Conference	10523
-Anticipating Conflict.	8202
+Anticipating Conflict	8202
 Aplicativo CONFIN	4209
 Applications Conference	8604
 Appointment and Confirmation	3861
@@ -59,8 +59,7 @@ Base Stations Latitude Longitude Configuration Power	736
 Baseline Configuration	4610
 Baseline Configurations	4610
 Basis Tetrapol Whip UHF-SHF MDN-TET-ATT-ARCEP- Conforme	998
-Biennial Conference	2626
-Biennial Conference.	961
+Biennial Conference	961,1665
 Board of Directors. Confidential	1818
 Botswana Public Service Leadership Conference	9808
 Building Public Confidence Through Responsible AI	8609
@@ -99,11 +98,10 @@ Companies Tribunal Conflicting	3714
 Computers Conference	9237
 Confection	5526
 Confederate States	4859
+Confederation	4394
 Confederation of Financial Institutions- West Africa	1502
 Confederation of Sahel States	2317,809,697,102,776,158
-Confederation of Zimbabwe Industries	4528
-Confederation of Zimbabwe Industries.	1554
-Confederation's	4394
+Confederation of Zimbabwe Industries	1554,2974
 Confederation. Analysts	4394
 Confederazione Svizzera	1243
 Confer	7548
@@ -111,8 +109,7 @@ Conferen	6612
 Conference	325,246,583,942,1487,746,361,137,853,808,50,408,847,91,54,12,1117,170,668,153,85
 Conference Leadership	4528
 Conference Preparatory Committee	6488,1074
-Conference Proceedings	2816
-Conference Proceedings.	1248
+Conference Proceedings	1248,1568
 Conference Room Paper	3583
 Conference Sydney	2521,659,249,939,974,1524,210,294
 Conference The Research Council of Zimbabwe	1154
@@ -124,14 +121,13 @@ Conference of Central African Telecommunications Regulators	5158
 Conference of Financial Institutions	1644
 Conference of Ministers	5789,1208,3719
 Conference of Plenipotentiaries	7669,124,32,58,1,54,12,96,71,124,255,1171
-Conference.	6488,1396
 Conference. Guided	7874
 Conference. Page	9660
 Conference. The Union	7793,90,1,66
 Conference202 Mutsagondo	1248
 Conference202 Nani	1248
 Conferences	961,8944
-Conferences of Plenipotentiaries.	7938
+Conferences of Plenipotentiaries	7938
 Conferencia Económica Nacional CIC	1701
 Conferencia Internacional	6613
 Conferencia Mundial de Radiocomunicaciones	8881
@@ -163,7 +159,7 @@ Confiance Numérique	1247,2129
 Confiança	2138
 Confiança Digital	8487
 Confidence	7611,1111,84,511,996,140,7
-Confidence Building Measures.	2117
+Confidence Building Measures	2117
 Confidence Mr Acheampong	7558
 Confidence and Security	395
 Confidence and Security of Networks and Services	395
@@ -231,7 +227,7 @@ Conflict of Interest Policy	8866
 Conflict of Law Resolution	3861
 Conflict of Laws and Supremacy Provisions	3861
 Conflict-Affected Areas	1066
-Conflict-Affected Situations FY23.	1264
+Conflict-Affected Situations FY23	1264
 Conflict-Sensitive Approaches	6947
 Conflict-of-Interest Policy	6946
 Conflict-phase	8201
@@ -254,15 +250,14 @@ Conforme Vicente Lopes	6895
 Conforme Welt Hunger Channel Master	998
 Conformity	7548
 Conformity Assessment	7548
-Conformité	8885,157
-Conformité.	1185
+Conformité	1185,7700,157
 Conforms	5665
 Conformément	17,291,427,50,213,187,2,1155,214,394,376,1037,57,1,262,1070,206,136,1809,89,894,4,396,55,632,397
 Conforter	8891
 Confronted	9399
 Confronting	3583,3107,3645
 Confronting AI Poverty	10726
-Confronting Jenkinson’s	8021
+Confronting Jenkinson	8021
 Confronté	8822
 Confrontée	6479,895
 Confucius Institutes	2518
@@ -276,7 +271,7 @@ Confédération	1968,409,479,1268,1253,1582,321,53,220,70,47,733,181,72,235,396,
 Confédération AES	7333,220,290
 Confédération Confédération AES	7333
 Confédération Générale des Entreprises du Maroc	8891
-Confédération Helvétique14.	748
+Confédération Helvétique14	748
 Confédération des Etats du Sahel	1967,1,1427,739,2567,182,76,594,117,1138,479,55
 Confédération des Etats du Sahel. Au	1968
 Confédération des Etats du Sahel. Il	7670
@@ -314,7 +309,7 @@ Data Protection Conference	5219
 Data Use and Confidentiality	3972,182
 Data for Policy Conference	2096
 Data for Policy Conference Series	1246
-Data for Policy Conferences.	1246
+Data for Policy Conferences	1246
 Deepen Investor Confidence	10274
 Development Conference	6946
 Dever de Confidencialidade	6462
@@ -345,7 +340,7 @@ Energy Conference	8755
 Ethiopia Digital Payment Conference	8671
 Ethiopian Digital Payment Conference	4198
 European Conference	1248,7989
-European Conference In Information Systems.	1009
+European Conference In Information Systems	1009
 Exhibitions and Conferences Platform	9479
 FCS Fragile and Conflict-affected Situations FI Financial	1264
 FTTH Council Europe Conference	6539
@@ -355,9 +350,7 @@ GHz COR-RAD-MIM- Conforme ARCEP-180521	998
 GHz MSF-UBI-NAN-ARCEP- Conforme	998
 GHz SON-UBI-AF5-ARCEP- Conforme	998
 GHz WHH-UBI-M5-ARCEP- Conforme	998
-General Authority for Exhibitions and Conferences	9479
-General Authority for Exhibitions and Conferences'	9479
-General Authority for Exhibitions and Conferences.	8770
+General Authority for Exhibitions and Conferences	8770,709
 General Conference	6612
 Global Conference	6950
 Global Data Festival and Kenya Space Conference	6729
@@ -384,8 +377,7 @@ IOP Conference Series	7278,1326
 ISACA Kampala Vice President and Conference Chairperson	10416
 IST-Africa Conference and Exhibition	8021
 ITU Conferences	5680
-ITU Plenipotentiary Conference	6488,154,1027,883,93,1111
-ITU Plenipotentiary Conference.	6946,723,124,157
+ITU Plenipotentiary Conference	6488,154,304,723,124,157,602,93,1111
 ITU Plenipotentiary Conference. Maida	7562
 ITU World Radiocommunication Conference	7850,1442
 ITU's World Radiocommunication Conference	8089
@@ -400,8 +392,8 @@ Institute of Peace and Conflict Studies	2518
 Inter-African Conference	6938
 International Anti-Corruption Research Conference	9397
 International Business Conference	4432
-International Conference	226,673,1016,178,3,720,1311,1222,2410,263,7,395,180,2,522,76,33,183,10,106,203,278,65,560
-International Conference Center Bola Ahmed Tinubu.	6488
+International Conference	226,673,1016,178,3,720,1311,1222,2410,263,7,395,180,2,522,76,33,183,10,106,203,278,625
+International Conference Center Bola Ahmed Tinubu	6488
 International Conference Centre	8046
 International Conference Centre Seychelles	10307
 International Conference for E-Democracy and Open Government	2096
@@ -443,7 +435,7 @@ Miatta Conference Centre	10328
 Miatta Conference Hall	5276
 Minister Confidential	3714
 Ministerial Conference	10,2107,3454,4334
-Ministry's Conference Room.	10603
+Ministry's Conference Room	10603
 Missions Conformément	998
 Mobile HF WOR-COD-ENV- Conforme World Vision	998
 Mobile World Conference	5778
@@ -452,12 +444,11 @@ NVIDIA Network Configuration Blueprint	5266
 National Assembly. Confidential	3714
 National Communications Conference	6771,4,22
 National Conference	5030,4546,832
-National Conference of NIRA	10521
 National Culture Conflicts	226
 National Cybersecurity Conference	9695,204,84
 National Data Protection Conference	4773
 National Day of Identity Conference	3703
-National Digital Infrastructure Conference.	10451
+National Digital Infrastructure Conference	10451
 National Digital and Future Skills Conference	1810
 National Economic Conference	3583
 National ID Conference	2279,1812
@@ -479,8 +470,7 @@ Partagez Confiance	743
 PayShap Accelerate Acceptance Conference	6286
 Pelouro de Política Fiscal da Confederação	8003
 Performance and Conformance Monitoring G04 Investigate	9237
-Plenipotentiary Conference	6213,275,1074,314,47,123,195
-Plenipotentiary Conference.	7669
+Plenipotentiary Conference	6213,275,1074,107,207,47,123,195
 Plenipotentiary Conference. Delegates	7884
 Point Configuration	736
 Point Configuration. PART VI Private Radio	736
@@ -491,7 +481,7 @@ Primera Conferencia Económica Nacional	1701
 Principles for Conflict Resolution	3861
 Privacy and Confidentiality	21
 Privacy and Confidentiality Supporting Infrastructure	21
-Private Credit Information Centres Confirms Angola's	3722
+Private Credit Information Centres Confirms Angola	3722
 Procurement At the Suppliers Conference	9781
 Programa de Conferencias de Alto Nivel	4209
 Préambule Conformément	1649
@@ -509,7 +499,7 @@ Rapid Response and Conflict Resolution	3861
 Realização da Conferência Nacional	2816
 ReconAfrica Confirms Gas Beneath the Kalahari Desert	5407,676
 Regime de Confidencialidade	4147
-Regional Conference	1743,7917,637
+Regional Conference	9660,637
 Relai VHF VHF SAM-MOT-SLR-ARCEP- Conforme	998
 Renewable Energy Business Conference	6743
 Research Conference	1264
@@ -527,6 +517,10 @@ Sala de Conferencia de Luba Malabo	4209
 Salle de Conférence	4989,4679
 Scientific Conference and Innovation Expo	6554
 Scientific Health Conference	8614
+Second International Conference	10082
+Second Ministerial Conference	2117
+Second National Conference of NIRA	10521
+Second Regional Conference	1743
 Secure Configuration Baselines	10721
 Security and Confidentiality	5244
 Segunda Conferencia Económica Nacional	1701
@@ -538,7 +532,6 @@ Sir Dawda Kairaba Jawara International Conference	7823,1491
 Sistema Regulador de Conflictos	1701
 Somalia. Conflict	5225
 South Africa Investment Conference	4511,1110
-South Africa Investment Conference.	4511,1110
 South African Investment Conference	5621,531
 South African Journal of Higher Knowledge Conference	9128
 Southern African Development Coordination Conference	9959
@@ -589,9 +582,8 @@ World Radiocommunications Conference	5680
 World Telecommunication Development Conference	4132,4813
 X X Conflict	789
 XII Conferência Científica da UEM	2816
-Xpatweb Annual Global Mobility Conference	7569
+Xpatweb Annual Global Mobility Conference	7569,1681
 Xpatweb Annual Global Mobility Conference Programme	7569
-Xpatweb Annual Global Mobility Conference.	9250
 ZAMBIA’S BUSINESS CONFIDENCE INDEX SCORE	5247
 ZimSwitch Payment Conference	7781
 Zimbabwe Annual Telecommunications Conference	5727

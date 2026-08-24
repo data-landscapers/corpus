@@ -31,7 +31,6 @@ Department of Mineral Resources and Energy	6683
 Desarrollo Minero	4209
 Direction des Mines	235
 Eastern and Western Platinum Mines	6683
-Eastern and Western Platinum Mines.	6683
 Empresa Minera Nacional	4209
 Energy and Mineral Resources	1228
 FCFA Mines SA	2342
@@ -47,7 +46,7 @@ Ivoire Manganèse Mines SA	2342
 KENORLAND MINERALS AFRICA	2342
 KENORLAND MINERALS AFRICA CI SARL	2342
 Konkola Copper Mines and Mopani Copper Mines	5247
-Konkola and Mopani Copper Mines.	5247
+Konkola and Mopani Copper Mines	5247
 Konkola and Mopani Copper Mines.20	5247
 La SOCIETE DES MINES DE FLO-	2342
 La SOCIETE DES MINES DE LA-	2342
@@ -60,18 +59,16 @@ MFPTE MINEDU OBR ARMP New Technical	1284
 MINECOFIN	697,21,52,991,1383
 MINECOFIN Ministry of Public Service and Labour MINEDUC	1204
 MINECOFIN and MINEDUC. Acquired	697
-MINECOFIN's	697
-MINECOFIN's and MINEDUC's	697
+MINECOFIN's and MINEDUC	697
 MINED CLAIM IS REFUTED	3745
 MINEDH	1228,1245,516,6452
 MINEDH Launch	2989
 MINEDH Ministry of Education and Human Development	4214
-MINEDH and CITT.	996
+MINEDH and CITT	996
 MINEDU MININTER Others	1284
 MINEDU-NC	5708
 MINEDUC	697,21,52,434,558,1,1382,1,3771,1,1897
 MINEDUC MINEDUC	1204
-MINEDUC's	697
 MINEDUC. Established	209
 MINEE	6400
 MINEFID	3044,4626,651,2390
@@ -114,16 +111,13 @@ Mines Artisanales	643
 Mines and Energy	5086
 Mines and Mineral Resources	2667
 Mines and Minerals Development Act	1988
-Mines and Minerals Development Act.	1988
 Mines and Technology VRA Volta River Authority	4126
 Mines de Nancy	8484
-Mines.	235
 Mines. Il	9819
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
 Minesec	10379
 Minette Barkhuysen	10538
 Minette Libom Li Likeng	2534,161,168,69,298,3,2,5,58,30,910,31,293,503,2893,547,1750,99
-Minette Libom Li Likeng.	5065
 Minette Libom Li Likeng. Ces	5065
 Minette Libom Li Likeng. Une	2932
 Minette Libom Li LikengCAMTEL	7958
@@ -166,7 +160,7 @@ Recursos Minerais	4147
 Recursos Minerales	1701
 Registro Minero	9303
 Rwanda MINECOFIN	1130
-Rwanda MINECOFIN and KOICA.	286
+Rwanda MINECOFIN and KOICA	286
 SOCIETE DES MINES SMF	2342
 SOCIÉTÉ DES MINES D'ITY Gestion	2342
 SOCIÉTÉ DES MINES DE DAAPLEU DE	2342

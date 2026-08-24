@@ -1,7 +1,8 @@
 ABOUT THIS SERIES	6048
 ACTS SERIES	4247
 ACity Insight Series II	6936
-AGCIH Geneva Governance Series Africa's	8628
+ACity Insight Series II First	6936
+AGCIH Geneva Governance Series Africa	8628
 ARDA TALK Series	4580
 Accès Gutera Inkunga Serivisi	1214
 Amesema Serikali	6602
@@ -10,7 +11,7 @@ Aug Pilot Project for Electronic Reporting of Serious	8831
 Average Series B	4972
 B Series B	4972
 Bandar Seri Iskandar	8022
-Briefs Series.	5700
+Briefs Series	5700
 CBN Fintech Report Policy Insight Series	4848
 CBN Policy Insight Series	4911
 CBN's Policy Insight Series	4928
@@ -33,7 +34,7 @@ GUKOMEZA GUTANGA SERIVISI SERVICE SERVICE Ingingo	1214
 GX Series	3357
 Getting Serious About	5700
 Governance Series	9205
-Governance and Innovation Policy Brief Series.	5700
+Governance and Innovation Policy Brief Series	5700
 Government Accountability Series	3832
 Government's Accountability Series	7492
 Gozem Series B	2135
@@ -41,8 +42,8 @@ Health Informatics Series	8130
 Heritage Series	5247
 Human Rights Law and Serious Violations of International	3583
 I I Manufacturer Make Model Serial	736
-IGAD Youth Peace and Security Series.	10451
-IIPP Working Paper Series.	5700
+IGAD Youth Peace and Security Series	10451
+IIPP Working Paper Series	5700
 INKUNGA ACCESS FUND L’ACCÈS UNIVERSEL SERIVISI	1214
 IOP Conference Series	7278,1326
 Inclusion and Integrity Policy Insight Series	4848
@@ -57,8 +58,7 @@ M Series	265,28,98,138,402,3,613
 M Series A Jun	934
 M Series A. IATI	2141
 M Series A.5	1047
-M Series B	296,415,346,77,2,2,1
-M Series B.	264
+M Series B	264,32,415,346,77,2,2,1
 M Series C	606,324,509
 M Series C for MFS Africa	606
 M. Serigne Ahmadou Bamba SY	8313
@@ -85,7 +85,7 @@ PIN's Digital Policy Engagement Series	3776
 PalmPay Series A USD	605
 Partech Africa Series	293,98,543
 Policy Insight Series	4848,63,17
-Policy Paper Series No.	961
+Policy Paper Series No	961
 Pre Series	10275
 Print Serikali	6327
 Q4. While Series C	4972
@@ -94,7 +94,6 @@ RISK THAT THEY EXPERIENCE SERIOUS IMPACTS	2709
 SERI Law Clinic Tel	2307
 SERIES	4413
 SERIES OF PROJECTS	1264
-SERIES.	4413
 SMART SATA II HDD Serial	34
 Saalam Serikali	1921
 Sabi Series B	1138
@@ -105,33 +104,32 @@ Serial	736
 Serial ATA	34
 Serial ATA-600 Serial ATA	34
 Serial Bus USD United States Dollar	2775
-Serial No.	22
+Serial No	22
 Serial Number of MOH Equipment Model	34
 Serials Librarian	8022
 Serianu	6426
 Series	264,1,28,98,119,19,44,32,77,31,200,17,4,200,6,11,92,120,184,55,1,1,1,1,9,1,694,726,115,8,1165,133,1,390,35,89,216,1,1,1,1,10,12,714,227,373,65,144,278,263,200,4,457,247,512,159,182,58,39,238,901,4,37,148,39
+Series A	4883
 Series A E-Commerce Jun	934
 Series A Series	4972
 Series A and B	4722
 Series A and Series	4972
-Series A and Series B.	4722
+Series A and Series B	4722
 Series A for Chari	4972
 Series A for Egyptian PropTech	4972
 Series A for OmniRetail. Nigerian	2232
-Series A-and-up VCs.	7482
+Series A-and-up VCs	7482
 Series A-grade	7482
-Series A.	4883
 Series A.5	1047
 Series B	264,29,98,420,119,5,122,83,995,16,159,726,869,372,606,89,4036,1456
 Series B for South African	4972
-Series B for Tugende.	935
+Series B for Tugende	935
 Series B. Companies	4972
 Series B. Crosswalk	605
 Series B2	1058,1093,2732,89
 Series B2 for South African InsurTech	4972
 Series B2. Seven	4883
 Series C	606,105,99,8,112,210,288,11,105,679,24,63,772,1242,398,250,718,189,2819,400,46,40,161,1,773,345
-Series C.	711,1536,2725
 Series D	895
 Series E	4554
 Series Editor	7886
@@ -147,7 +145,6 @@ Serikali	1859,62,797,150,194,23,362,62,590,265,23,1029,599,4,308,275,23,296,297,
 Serikali Kupitia Mradi	7218
 Serikali Mtandao	1859,1226,2934,1199
 Serikali Mtumba	6019
-Serikali.	2868,3151
 Serikali. Aidha	2868
 Serikali. Amesema	9376
 Serikali. Hata	8615

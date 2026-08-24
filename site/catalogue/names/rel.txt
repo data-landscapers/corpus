@@ -26,7 +26,7 @@ Armed Forces SARHO Sudanese Agency for Relief	6947
 Asbestos Related Incidences Asbestos	1988
 Assuntos Religiosos	539
 Automated Clearing House Related Indicator	7221
-BOLETÍN RELAC. ESTUDIOS Y Y EVAL.	4209
+BOLETÍN RELAC. ESTUDIOS Y Y EVAL	4209
 Benin Releases First National Cybersecurity Report	3214
 Booklet of AI Use Religious Affairs	4126
 Build Secure and Reliable Biometric National Registry	24
@@ -48,11 +48,10 @@ Century Skills Reliable Infrastructure Robust Accelerators	1204
 Chargé des Relations	3396
 Chief Intergovernmental Fiscal Relations Officer and Chief	6946
 Chieftaincy and Religious Affairs	1514,2976
-Chieftaincy and Religious Affairs.	4490
 Children of God Relief Institute Data Processor	7167
 China-ECOWAS Relations	6003
 Climate Change Related Natural Disasters	1828
-Climate Change Related Natural Disasters Congo’s	1828
+Climate Change Related Natural Disasters Congo	1828
 Climate Related Disasters	2775
 Comissão de Relações Exteriores	539
 Commercial Market Related Products	3511
@@ -71,9 +70,8 @@ Copyright and Related Rights	8647
 Copyright and Related Rights Bill	8490,78,2
 Council of Foreign Relations	8788
 County-Led Economic Development PRESS RELEASE	9852
-Covid Social Relief of Distress.	2307
+Covid Social Relief of Distress	2307
 Covid-19 Social Relief of Distress	2307
-Covid-19 Social Relief of Distress.	2307
 Criminal and Related Matters Act	783,7062
 Criminal and Related Matters Act. Acts	783
 Crisis of Reliability	5854
@@ -111,8 +109,8 @@ Des Sanctions Administratives Relatives	37
 Descarregar Related Items	4711
 Development and Training Related	5756
 Digital Economy and Transparency. Relaunched	2960
+Diplomatic Relations	3861
 Diplomatic Relations Between Guinea-Bissau and Cape Verde	3768
-Diplomatic Relations.	3861
 Directeur des Relations	8269
 Director Press and Public Relations	8087
 Director Press and Public Relations Office	7973
@@ -153,15 +151,17 @@ External Relations	8408
 External Relations Department	3870
 External Relations Minister	4220
 FORPUBLIC RELEASE	4301
-FY2023 RELF.	3706
+FY2023 RELF	3706
 Farmers Face Forced Relocation Zimbabwean	8943
 Financial Intermediaries Not Currently Relevant NOTE	1867,1737,2935
+First Release	7922
+First Release Date of Release	7869
+First Secretary Press and Public Relations	4365
 Flood Relief	8610,233
 Food Crops and Related Items	2775
 Force Public Relations Officer	2269
-Foreign Relations	141,7179
+Foreign Relations	141,4535,2644
 Foreign Relations Senior Fellow Chris McGuire	5257
-Foreign Relations.	4676
 Francs Djibouti TITRE II DISPOSITIONS RELATIVES	4420
 GARDE DES SCEAUX RELATIF A LA	8236
 GMEO2027 Related Project AI	6948
@@ -214,11 +214,10 @@ International Framework Relevance	7548
 International Relations	2626,1803,712,44,13,482
 International Relations Dept. Global Health	10123
 International Relations and French	7418
-International Relations and International Business.	3398
+International Relations and International Business	3398
 Investment Incentive Reliable	10157
 Investor Relations	8408
 Islamic Relief	6947
-Islamic Relief.	6947
 Japan Relations	2626
 Jefe Relaciones Internacionales	4209
 Joyce Onyeagoro Released	7575
@@ -253,7 +252,6 @@ Minister of Justice and Labour Relations	8006
 Ministre des Relations	1231
 Ministry Principal Public Relations Officer	10705
 Ministry of External Relations	4220
-Ministry of External Relations.	4220
 Ministry of Finance and Economic Development. Relevance	4528
 Ministry of Finance's Public Relations Officer	9440
 Ministry of International Relations and Cooperation	9749
@@ -281,9 +279,9 @@ O Relatório Parecer Conjunto da Lei	9257
 O Relatório da União Internacional de Telecomunicações	795
 OPTIONS AND PREFERENTIAL RIGHTS RELATING	4896
 Objectives for Information and Related Technologies	9237
-Office of External Relations and Development.	5404
-Orientations for EU External Economic Relations.	1243
-P1 CNAFGE Relación Servicios Radiocomunicación.	9543
+Office of External Relations and Development	5404
+Orientations for EU External Economic Relations	1243
+P1 CNAFGE Relación Servicios Radiocomunicación	9543
 PART I Offences Relatin	972
 PART II Offences Relatin	972
 PART VI EXTERNAL RELATIONS	3714
@@ -298,7 +296,7 @@ PRESS RELEASE	7369
 PRESS RELEASE CYBER SECURITY AUTHORITY SANCTIONS	9728
 PRESS RELEASE FOR IMMEDIATE RELEASE GHANA	2450
 PRESS RELEASE IMPLEMENTATION OF THE ELECTRONIC	7391
-PRESS RELEASE NO.	1579
+PRESS RELEASE NO	1579
 PRESS RELEASE National ID Program Reestablished	8971
 PROVISION OF RELIABLE INFORMATION	972
 PUBLIC RELATIONS	718
@@ -318,7 +316,7 @@ President's Emergency Plan for AIDS Relief	7750
 President’s Emergency Plan for AIDS Relief	7187,3415
 Press Release	1830,561,286,155,944,1085,441,659,568,669,1137,556,155,304,1126,242
 Press Release AfCFTA DIGITAL TRADE FORUM	7039
-Press Release No.	1579
+Press Release No	1579
 Press Releases	8485
 Press Releases President Bola Ahmed Tinubu	6871
 Press Releases Registries Global Benchmark	3907
@@ -329,7 +327,7 @@ Protocol Relating	5533
 Public Relations	10109
 Public Relations Desk Nairobi	9852
 Public Relations Director	6938
-Public Relations Institute of Southern Africa.	7227
+Public Relations Institute of Southern Africa	7227
 Public Relations Officer	3360
 Public Relations RURA	718
 Public Relations Review	2096
@@ -343,7 +341,7 @@ RELANCE. Les	10125
 RELATED	5618,1521
 RELATED ARTICLES	3962,6100
 RELATED LEGISLATION AND DOCUMENTS	5244
-RELATED MATTERS.	1333
+RELATED MATTERS	1333
 RELATED NEWS Dangote Cement Exports Rise	8178
 RELATED Representing the Secretary	4102
 RELATED STORIES	8202
@@ -479,8 +477,7 @@ Relação	2437
 Relações Exteriores	6537,103,2620,1230
 Relações Humanas	2816
 Relações de Cooperação	4218
-Release	1009,210,5204,426,49,971,53,66,373,1
-Release Date of Release	7869
+Release	1009,210,5204,426,49,971,119,373,1
 Release ID	6480
 Release Journalist Zainab Sodiq	7176
 Release Notes and Changelog	5665
@@ -524,12 +521,11 @@ Reliability	2775,173,1484,2259,1068,1364,5,1,1184
 Reliability Testing	5665
 Reliability and Verifiability	3861
 ReliabilityFayda	5871
-Reliable	21,1183,53,1173,1172,528,398,378,193,145,217,451,139,522,900,164,114,100,240,165,161,370,31,389,54,43,151,119,77,288,133,26,49,114,199,66
+Reliable	21,1183,53,1173,1172,528,398,378,193,145,217,451,139,522,204,420,276,164,114,100,240,165,161,370,31,389,54,43,151,119,77,288,133,26,49,114,199,66
 Reliable Digital Future	6051
 Reliable Information	802
 Reliable Infrastructure	1204
 Reliable Non-invasive Method for Monitoring Pangolin	1154
-Reliable.	6777,420
 Reliable. Secure. Accessible	9478
 Reliable. Verbatim Council-of-Ministers	6902
 Reliance	940,3361,1619,131,781,2,313,401,48,1419
@@ -537,7 +533,7 @@ Reliance Communications	4676
 Reliance Financial Services. Il	8315
 Reliance Foundation	9072
 Reliance Foundation and Gates Foundation	9072
-Reliance Foundation and Microsoft.	9788
+Reliance Foundation and Microsoft	9788
 Reliance Industries	7158
 Reliance Infosystems	9869
 Relief	2307,1407,1451
@@ -550,7 +546,6 @@ Religion News Service and New York Times	6231
 Religious	1877,1169
 Religious Affairs	4126
 Religious Freedom	4154,11,2
-Religious Freedom.	4154
 Reload	9779
 Relocated	7478
 Relocating	7451
@@ -569,13 +564,11 @@ SIS-MA OU RELATORIO DO SECTOR	4260
 SIS-MA OU RELATORO DO SECTOR	4260
 SURVEY OF RELEVANT EMPIRICAL LITERATURE	10
 Safety and Reliability Unintended	2958
-Secretary Press and Public Relations	4365
 Sherloc. Related Indicator	7221
 Social Relevance	1988
 Social Relief of Distress	2307,2486,2039,1078,1979,450
-Social Relief of Distress.	2307
 Social Risks and Impacts Relevant Stakeholder Engagement	1284
-Special COVID-19 Social Relief of Distress Grant.	6832
+Special COVID-19 Social Relief of Distress Grant	6832
 Stakeholder Engagement and Information Disclosure Relevance	1988
 Standards Relevance Given	1867,121,1574,42,2935
 Starlink Mini Kit. Related	7509

@@ -50,11 +50,9 @@ CZUGLERNÉ IVÁNY	6613
 Capítulo IV	1701
 Cemac. Hiondi Nkam IV	3789
 Certifié Tier IV	4422
-Chapitre IV	37
+Chapitre IV	37,5870
 Chapitre IV Procédure	308
-Chapitre IV.	5907
 Chapter IV	3583,3249
-Chapter IV's	6832
 Chapters IV and V	6832
 Chapters IV and VI	6832
 Commune IV	7728
@@ -86,17 +84,17 @@ Estado Eje IV	1701
 Fault Tolerant Tier IV	9123
 Fund IV	10165
 GAHUNDA CHAPTER IV	1214
-GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE IV.	1701
+GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE IV	1701
 Geneva. The Ivorian	7189
 Group III and IV Hazardous Substances	3651
 Helios IV	499
-Helios Investors IV L.P.	499
+Helios Investors IV L.P	499
 Hiondi Nkam IV	4356
 Hub Ivoire Tech	6235
 I. II. III. IV. V. Implementation	4260
 I. II. Ill. IV. Implementation Plan	4217
 I. II. Ill. IV. V. Implementation	4217
-I. II. Ill. IV. V. VI.	4217
+I. II. Ill. IV. V. VI	4217
 ICE IV Project Propels Intra Asia	2677
 III. Benchmark-Objectifs-Impacts IV. Critères	1247
 ITWeb China EXIMBANK Phase IV	4207
@@ -175,7 +173,7 @@ IVk8Fh1J8qBVJpPfXcDx6p39nenTXye	4583
 IVº Recenseamento Geral da População	7666
 IVᵉ Salon	8848
 Ikigega Fonds UMUTWE WA IV	1214
-Indonesian Cable Express IV.	2677
+Indonesian Cable Express IV	2677
 Industrialización. Eje Estratégico IV	1701
 Iva Sitoe	10503
 Ivacalane River	2989
@@ -187,7 +185,7 @@ Ivanisevi	9237
 Iversen MM	1219
 Iversen&author	1219
 Ivoeinretre	4459
-Ivoire	7,203,26,8,1,1,64,2,4,1,21,64,17,1,1,94,36,2,44,26,4,16,5,4,56,1,3,35,42,22,9,16,20,8,29,4,32,4,5,9,18,40,8,31,17,4,76,1,5,5,65,26,21,2,11,24,30,32,34,18,4,22,24,65,7,13,2,24,22,37,12,1,1,48,30,85,2,67,93,167,14,2,1,57,97,30,7,25,2,3,8,12,19,30,5,1,26,54,23,2,23,26,22,52,31,40,5,1,1,15,6,27,14,34,13,6,12,24,20,7,71,10,18,8,7,47,13,19,8,11,7,1,17,10,2,10,1,20,18,13,10,2,7,4,8,1,23,7,24,3,2,19,2,15,26,2,23,9,5,2,6,13,8,1,11,4,2,38,3,40,35,4,18,5,13,6,8,2,1,14,8,6,1,4,4,57,7,18,2,4,73,16,1,53,23,21,13,2,76,7,22,3,15,32,6,1,20,6,7,6,36,15,47,5,62,13,59,19,14,13,77,34,7,37,37,10,12,5,16,9,5,18,17,58,66,9,6,33,3,41,82,28,13,50,18,2,79,80,11,42,4,55,1,20,2,5,8,83,6,44,70,5,1,11,47,12,25,8,23,2,7,1,5,23,22,32,32,5,1,18,48,2,9,3,78,14,17,18,3,2,5,5,10,8,16,7,13,10,1,5,6,2,4,10,24,5,23,5,21,7,9,3,3,12,11,21,8,17,29,22,32,55,3,13,17,9,13,21,11,1,14,2,20,4,2,16,6,20,25,18,18,19,7,9,8,17,12,20,1,20,34,14,7,30,28,2,2,27,1,23,29,18,3,48,19,25,1,26,18,10,11,3,3,7,21,1,19,10,79,7,10,12,57,22,40,60,47,3,1,25,86,12,1,1,29,35,18,1,18,9,22,11,8,41,72,1,1,25,33,19,1,11,14,1,4,84,72,1,15,148,14,1,1,1,92,39,106,88,50,1,1,55,3,61,14,26,1,13,65,22,1,6,24,89,16,28,11,153,35,1,1,21,79,1,14,37,43,85,69,1,53,52,60,2,19,19,16,23,7,61,8,8,5,56,35,50,14,21,2,8,82,29,8,11,69,23,22,10,17,31,20,3,4
+Ivoire	7,203,26,8,1,1,64,2,4,1,21,64,17,1,1,94,36,2,44,26,4,16,5,4,56,1,3,35,42,22,9,16,20,8,29,4,32,4,5,9,18,40,8,31,17,4,76,1,5,5,65,26,21,2,11,24,30,32,34,18,4,22,24,65,7,13,2,24,22,37,12,1,1,48,30,85,2,59,8,16,77,72,95,14,2,1,57,97,30,7,25,2,3,8,1,11,19,24,6,5,1,26,54,23,2,23,26,22,52,31,40,5,1,1,15,6,27,14,34,13,6,12,24,20,7,71,10,18,8,7,47,1,12,19,8,11,7,1,17,10,2,10,1,20,18,13,10,2,7,4,8,1,23,7,3,3,18,3,2,19,2,15,26,2,23,9,5,2,6,13,8,1,11,4,2,38,3,13,27,35,4,18,5,13,6,8,2,1,14,8,6,1,4,4,57,7,18,2,4,73,16,1,53,23,21,13,2,76,7,22,3,15,32,6,1,20,6,7,6,36,15,47,5,5,57,13,59,19,14,13,77,34,7,37,37,10,12,5,16,9,5,18,17,58,66,9,6,33,3,41,52,30,28,13,50,18,2,79,80,11,42,4,55,1,20,1,1,5,8,83,6,44,70,5,1,11,47,12,25,8,23,2,7,1,5,23,22,32,32,5,1,18,48,2,9,3,17,61,14,17,4,14,1,2,2,5,5,10,8,16,7,13,10,1,5,6,2,4,10,24,5,23,5,21,7,4,5,3,3,12,11,21,8,17,27,2,22,32,55,3,13,6,11,9,13,21,11,1,14,2,20,4,2,16,6,20,25,18,18,19,7,9,8,1,16,12,20,1,20,34,14,7,30,28,2,2,27,1,23,29,18,3,48,19,25,1,26,18,10,11,3,3,7,21,1,19,10,79,7,9,1,12,57,22,40,60,47,3,1,25,86,12,1,1,29,35,18,1,18,9,22,11,8,41,72,1,1,25,33,19,1,11,14,1,4,84,72,1,15,148,14,1,1,1,92,39,106,88,50,1,1,55,3,61,14,8,18,1,13,65,22,1,6,24,89,16,28,11,153,35,1,1,21,32,47,1,11,3,37,43,2,83,19,50,1,53,52,60,2,19,19,16,23,7,61,8,8,5,56,23,12,21,29,14,21,2,8,82,29,8,11,69,23,22,10,17,31,20,3,4
 Ivoire Abidjan	419
 Ivoire Accelerates Digital Push	6662
 Ivoire Advances Digital Tourism Strategy	5931
@@ -208,7 +206,7 @@ Ivoire Collaborate	6646
 Ivoire Coltan	2342
 Ivoire Compact	210
 Ivoire Conception	4895
-Ivoire Country Climate Development Report.	3604
+Ivoire Country Climate Development Report	3604
 Ivoire Cyber Africa Forum	3526,841
 Ivoire Côte	5675
 Ivoire Data Center	3482
@@ -262,26 +260,23 @@ Ivoire Plans AI University	6449
 Ivoire Productive	3604
 Ivoire RESULTS ACCELERATION PROGRAM FOR INCLUSIVE	3604
 Ivoire Request	5692
-Ivoire Request.	5692
 Ivoire Request. State	5692
 Ivoire Rockya Fofana Directrice de Cabinet Ministère	10708
 Ivoire Rolls Out Nationwide Financial Service	5817
 Ivoire Rwanda Uganda Zambia. Delivers	689
 Ivoire Réseaux	4895
-Ivoire S.A.	864,29,8382
+Ivoire S.A	864,29,8382
 Ivoire SARL	2342
 Ivoire Second Investment for Growth Development Policy	3604
 Ivoire Secures	2869
 Ivoire Seeks	6678,209,414,23
 Ivoire Sign MoU	4093
 Ivoire Signs AI Partnership	3280
-Ivoire Starlink	3658,2617,145,1089,2870
-Ivoire Starlink's	6710
+Ivoire Starlink	3658,2617,145,290,799,2870
 Ivoire Targets Internet Expansion and Cybersecurity	5457
 Ivoire Tech	3249,19
 Ivoire Tech Footprint	7430
-Ivoire Tech Forum	2808,441,12,7,12,1,3280
-Ivoire Tech Forum''	3019
+Ivoire Tech Forum	2808,211,230,12,7,12,1,3280
 Ivoire Tech Next	8516,775
 Ivoire Tech Next15	1044,8475
 Ivoire Tech Scale UP	8516
@@ -290,7 +285,7 @@ Ivoire Tech Scale-Up	9519
 Ivoire Tech Scale-up	1044,8475
 Ivoire The Ivorian	8131
 Ivoire Togo Benin Burkina Faso Tunisia	418
-Ivoire Tél.	1005
+Ivoire Tél	1005
 Ivoire Unveils	5458
 Ivoire Unveils AI and Data Governance Strategy	2557
 Ivoire Unveils Ambitious Digital Transformation Plan	4096
@@ -299,34 +294,30 @@ Ivoire Youth	3604
 Ivoire Youth Employment and Skills Development Phase	959
 Ivoire Youth Employment and Skills Development Project	959,2645
 Ivoire and ARTCI Sign MoU	3139
-Ivoire and Angola	7259,29
-Ivoire and Angola.	6736
+Ivoire and Angola	6736,523,29
 Ivoire and Benin	8046
 Ivoire and Beyon Connect	4093
 Ivoire and Burkina Faso	7048
 Ivoire and Congo	3197
-Ivoire and Cybastion.	2869
+Ivoire and Cybastion	2869
 Ivoire and ECOWAS	312
 Ivoire and Etisalat Atlantique Togo	4756
-Ivoire and Eutelsat.	5936
+Ivoire and Eutelsat	5936
 Ivoire and German	8894
-Ivoire and Guinea	312,2469
-Ivoire and Guinea.	6688
+Ivoire and Guinea	312,2469,3907
 Ivoire and Hatem Ibrahim Elsoly	4093
 Ivoire and Kenya	9036
-Ivoire and Nigeria	6169
-Ivoire and Nigeria.	6302
+Ivoire and Nigeria	6169,133
 Ivoire and Nigeria. Article	6502
 Ivoire and Senegal	2775
 Ivoire and Seychelles	7509,2719
-Ivoire and Seychelles SpaceX's	7509
+Ivoire and Seychelles SpaceX	7509
 Ivoire and Sierra Leone	4036,3659
 Ivoire and UNDP	6345
 Ivoire and UNDP Launch Digital Training Initiative	6329
 Ivoire and Uganda	6710
 Ivoire for Phase	244,1,71,1
 Ivoire' E-Tourism Platform	6646
-Ivoire's	1576,297,24,77,72,112,191,208,202,1,109,243,19,8,36,86,53,3,212,75,4,18,63,97,307,3,196,5,175,235,49,702,14,89,44,400,29,92,4,15,158,26,7,4,107,114,101,24,24,20,105,182,102,122,103,86,9,1,69,408,154,1204,923
 Ivoire's AI	3175
 Ivoire's AfDB Governor	4096
 Ivoire's Council of Ministers	3052
@@ -337,8 +328,7 @@ Ivoire's First Sovereign Tier III Data	3436
 Ivoire's Minister of Digital Transition Ibrahim Kalil	3655
 Ivoire's Minister of Digital Transition and Digitalization	3655
 Ivoire's Minister of Economy	9162
-Ivoire's Ministry of Commerce and Industry	2157,1385
-Ivoire's Ministry of Commerce and Industry.	2157,1305
+Ivoire's Ministry of Commerce and Industry	2157,1305,80
 Ivoire's Ministry of Digital Economy	3175
 Ivoire's Ministry of Digital Transition	1978,1059,1025
 Ivoire's Ministry of Digital Transition and Digitalisation	4062
@@ -352,13 +342,12 @@ Ivoire's National Development Plan	6336
 Ivoire's National Digital Development Strategy	3280
 Ivoire's National Digital Strategy	3261
 Ivoire's Orange Digital Center	6336
-Ivoire's PKI.	7890
+Ivoire's PKI	7890
 Ivoire's TresorPay	749
 Ivoire's Vice President	7344
 Ivoire-based	4220
 Ivoire-based Afro Mobile SARL	10518
-Ivoire.	1648,510,191,39,54,11,27,77,202,63,278,39,343,47,13,62,22,136,309,22,194,67,273,94,303,581,326,216,90,92,16,58,155,22,11,119,125,49,133,327,86,478,741,387,239,298,59,85,102,463,33
-Ivoire. Adenia's	597
+Ivoire. Adenia	597
 Ivoire. Adm MPPEEP	2342
 Ivoire. Almost	3359
 Ivoire. Although the Government of Côte	3604
@@ -420,7 +409,7 @@ Ivoire. The Caisse des Dépôts	4627
 Ivoire. The Export-Import Bank	3482
 Ivoire. The Ivoirian	7430
 Ivoire. Today	3175
-Ivoire. U.S.	4472,2958
+Ivoire. U.S	4472,2958
 Ivoire. Visa	2630
 Ivoire... Amazon	3658,2617,145
 Ivoire... Dernières	3658,2617,145
@@ -431,13 +420,12 @@ Ivoire.Dans	7807
 Ivoire.JB	8518
 Ivoire.La	7891
 Ivoire19	3604
-Ivoire’s	3604,1087,3382,2125
 Ivoire’s Aid Management Platform	244,1,1,70,1,21,82,1,130,2
 Ivoire’s ICT	3604
 Ivoire’s Jeko	7283
+Ivoire’s Ministry of Interior and Security	245,72
 Ivoire’s Ministry of Interior and Security and China Railway	551
-Ivoire’s Ministry of Interior and Security.	245,72
-Ivoire’s Ministry of National Education and Literacy.	244,72
+Ivoire’s Ministry of National Education and Literacy	244,72
 Ivoire’s National Adaptation Plan	3604
 Ivoire’s National Agency for Information System Security	8073
 Ivoire’s National Energy Compact	3604
@@ -446,26 +434,22 @@ Ivoirians	7430
 Ivoirien	2332,4226,3874
 Ivoiriens	2418,212,123,55,48,75,831,1262,1880,1434,2051
 IvorTech	3175
-IvorTech. It's	3175
-Ivorian	938,365,4,5,3,712,4,5,3,335,80,415,262,44,105,1,33,3,119,168,4,82,11,79,369,71,84,4,5,3,156,155,256,89,492,353,309,67,87,23,26,16,58,46,185,96,154,133,327,165,298,110,41,114,1219,830
+Ivorian	938,365,4,5,3,712,4,5,3,310,25,80,415,262,44,105,1,33,3,119,168,4,82,11,79,369,71,84,4,5,3,156,155,256,89,492,353,309,67,87,23,26,16,58,46,185,96,154,133,327,165,298,110,41,114,1219,830
 Ivorian Agency for Radio Frequency Management	3604
-Ivorian Ambassador Alphonse Voho Sahi.	3973
+Ivorian Ambassador Alphonse Voho Sahi	3973
 Ivorian Centre for Economic and Social Research	3604
 Ivorian Economy Ministry Sets	4284
 Ivorian INS	8072
-Ivorian Insurtech and Jumia Technologies.	4150
+Ivorian Insurtech and Jumia Technologies	4150
 Ivorian Minister	3436
 Ivorian Ministry of Commerce	3786
-Ivorian Ministry of Commerce.	3786
 Ivorian Ministry of Digital Economy	2869
-Ivorian Ministry of Digital Economy.	2869
 Ivorian Ministry of Digital Transition	3701
-Ivorian Press Agency.	7344
+Ivorian Press Agency	7344
 Ivorian Revenue Authority	9162
-Ivorian.	2349
 Ivorians	3604,4,1083
 Ivorienne	10500
-Ivory Coast	244,1,73,471,454,391,13,727,14,372,62,217,92,331,199,40,81,882,10,209,574,418,27,378,1143,2312
+Ivory Coast	244,1,73,471,454,391,13,727,14,372,62,217,92,87,244,199,40,81,882,10,209,574,418,27,378,1143,2312
 Ivory Coast Digital Crossroads	3218
 Ivory Coast Expands E-Justice Platform	5902
 Ivory Coast Eyes Huawei Partnership	6280
@@ -473,9 +457,7 @@ Ivory Coast Launches FCFA	3218
 Ivory Coast Launches Interoperability Platform	3661
 Ivory Coast US	4883
 Ivory Coast and US Strengthen Digital Cooperation	5437
-Ivory Coast and West Africa's	3701
-Ivory Coast's	2374,844,443,2619
-Ivory Coast’s	4664
+Ivory Coast and West Africa	3701
 IvoryTech Forum	3218
 Ivorypay	9956
 Ivy Gacheri	6946
@@ -526,10 +508,9 @@ PART IV Private Network Licences Considerations	736
 PART IVA	7845
 POLICY FOR ICT Section IV IMPLEMENTATION	958
 PT. Perkebunan Nusantara IV Regional III	4432
-Part IV	1,2,23,757,810,395,721,874,4262,931
+Part IV	1,2,23,757,550,260,395,721,874,4262,931
 Part IV HIPSSA	27,1
-Part IV and Part VI.	2727
-Part IV.	1333
+Part IV and Part VI	2727
 Pension PART IV	1220
 Phase IV	1089,61,3323,864,339
 Phase IV Bill	1497
@@ -565,8 +546,7 @@ Section IV Décision	4420
 Section IV Lutte	4420
 Section IV Opérations	17
 Section IV- Application Forms PART	1638
-Section IV.	5773
-Section IV. B.	1264
+Section IV. B	1264
 Section IV. D. VII. RESULTS FRAMEWORK	1264
 Slava Ivashkin	2749
 Société DU CONSEIL D’ADMINISTRATION MAI Ivoirienne	2342

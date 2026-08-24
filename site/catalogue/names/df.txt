@@ -18,12 +18,10 @@ DAC Development Assistance Committee DFI Development	970
 DCP Digital for Tertiary Education Program DFIL	3604
 DE4A Digital Economy for Africa DFIL Disbursement	1264
 DF71FB331569DA5B83B60DC925017278	7147
-DFC FY2021	623,1
-DFC FY2021.	622
+DFC FY2021	622,1,1
 DFC FY2022	831,1
 DFC FY2023	1060,1,1
-DFC FY2024	1436,1
-DFC FY2024.	1435
+DFC FY2024	1435,1,1
 DFC FY24	292
 DFC NOK	707
 DFC PIS	594
@@ -31,14 +29,12 @@ DFC USD	1429
 DFC and Cassava. IFC	1429
 DFC and Finnfund	1515
 DFC and Google. Cassava	1469
-DFC's	594
 DFC-2016-mawingunetwork.pdf	147
 DFC-2022-POAINTERNETKE.pdf	831
 DFC-Backed	1041
 DFC-backed	1820
 DFC-eligible African	462
 DFC-supported	596
-DFCC.	4676
 DFFE-SITA006	7514
 DFI LP	1428
 DFI Phase	487
@@ -46,11 +42,8 @@ DFI Phases I	128
 DFI-backed	10718
 DFI-intermediated	10718
 DFI. Crosswalk	946
-DFIL.	3604
 DFIL. Page	1867
 DFIs Cede Ground	4972
-DFIs'	10718
-DFIs.	819,4029
 DFIs. Access	10718
 DFIs. African DFIs	4972
 DFIs. IHS Towers	90
@@ -65,7 +58,6 @@ DFS Security Lab	5428
 DFS and Digital Platforms Bill	873
 DFS and TPC Mandatory No Pt	736
 DFS. Isku-xirnaan	9583
-DFSP.	10020
 DFSPs	10020
 DFT HEALTH SERVICES LTD Data Controller	7167
 DFT HEALTH SERVICES LTD Data Processor	7167
@@ -127,5 +119,4 @@ Sudan's DFS	5118
 Supporting DFS	484
 TPC and DFS4	736
 TechMoran. DFC	622
-US DFC	595,89,831,50,255,205
-US DFC's	9463
+US DFC	595,89,831,50,255,205,7438

@@ -37,7 +37,7 @@ CI-ENGINEERING Date	2342
 CNRA Date	2342
 COMMENCEMENT DATES AND EFFECTIVE PERIODS	3861
 CONTACT INFORMATION Date	34
-CORRECTS A HELD DATE.	2692
+CORRECTS A HELD DATE	2692
 CRI Date Actual	6928
 Capital Gains Tax Act Description Date	4896
 Central Africa Date	6764
@@ -49,8 +49,7 @@ Closing Period Result Date Result Date	4653
 Collection Date	3861
 Commencement Dates and Effective Periods	3861
 Comoros Date	4868
-Completion Date	1988
-Completion Date.	4896
+Completion Date	1988,2908
 Computer Specifications DATE QUANTITY	34
 Contact Person Designation Email Telephone Date	6432
 Control VERSION DATE AMENDMENT AUTHOR Final	5244
@@ -59,19 +58,18 @@ Covered Date System	3972
 Crawford Date	3583
 Create Date	9854
 Current Cancellation New for Status Currency Date	2473
-DATE APPROXIMATE	2092,2333
-DATE APPROXIMATE.	4434
+DATE APPROXIMATE	2092,2333,9
 DATE APPROXIMATE. Afreximbank	560
 DATE CHECKED AND UPHELD	1703
 DATE CONFLICT PRINTED IN THE DOCUMENT	442
 DATE CONFLICT PRINTED ON THE DOCUMENT	739
-DATE CORRECTED AT INGEST.	5928
+DATE CORRECTED AT INGEST	5928
 DATE COULD NOT BE ESTABLISHED	443,1275
 DATE DE BANDE DE IRC	998
 DATE DE BANDE DE SIGNATURE FREQUENCE	998
 DATE FIX	4964
 DATE FLAG	6782
-DATE IS A PROXY.	5598
+DATE IS A PROXY	5598
 DATE IS PROXY	782,2076
 DATE NOT ESTABLISHED. LinkedIn Pulse	8126
 DATE NOTE	4501,432,734,771,159,379,381
@@ -85,7 +83,6 @@ DATE THE BREACH WAS DISCOVERED	2709
 DATE TRAP	1843,178,518
 DATE TRAP HANDLED	2994,943
 DATE UPGRADED	3726
-DATE.	8043
 DATES	5773
 DE LA LETTRE OBJET DATE DE	998
 DES GARANTIES Date	7977
@@ -126,7 +123,6 @@ Date of Judgment	2307
 Date of Last Update	775
 Date of Publication	6868
 Date-window	6292
-Date.	25,283,427,12,491,298,349,1792,684,1,197,974,247,366,809,2451,61
 Date. Il	747
 Dated	329,113,304,288,160,13,25,9,102,70,157,146,158,1,236,225,194,31,135,6,79,224,302,91,200,102,202,211,108,181,438,7,30,136,315,249,53,62,462,246,299,49,144,29,24,7,1,2382,146,568
 Dated Brent	3583
@@ -138,10 +134,9 @@ Datenpolitiken	456
 Datenschutzbehörde	8436
 Datenschutzbehörde and CRIF	8436
 Datenzentrum	902
-Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,761,546,1,108
+Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,740,21,546,1,108
 Dates Under Review	9022
 Dates of Consultations	1778
-Dates.	8561
 Description Date Mrs Sheree Shereni	4896
 Description Issue Date	8726
 Dividend Record Date	4896
@@ -155,7 +150,6 @@ Econet InfraCo. Record Date for Econet Shareholders	4896
 Effective Date	762,502,20,583,1695,42,1292,1643
 Effective Date This Procl	7538
 Election Date	4896
-Election Date.	4896
 English Date	4896
 Estimated Appraisal Date	2291
 Estimated Appraisal Date Financing Instrument Digital	3456
@@ -169,11 +163,12 @@ FINAL VISIT DAY MONTH DATE	582
 FORM CONTACT INFORMATION Date	34
 Feb-2027 Projected Date for Full Disbursement	2473
 Financing Instrument Estimated Appraisal Date Estimated	1704
+First Release Date of Release	7869
 Foundations for Collaborative Regulation Date	5241
 GSS Data Processing Division Joyce Date	236
 Geneva Date	7059
 Générale Date de Publication	4420
-HAS A DATED FIGURE FOR FY2024.	1251
+HAS A DATED FIGURE FOR FY2024	1251
 HEALTH DATE	1009
 High-level Policy Dialogue. Date	5328
 Hospital Manager Date	8603
@@ -244,11 +239,10 @@ Parliament. Date	2576,784,1890
 Patrice SOKEGBE Date	8196
 PoAspiptiliocannt HSigenaltdure Position Held Date Date	736
 Posting of Authorised Officer of Date Sanitary Authority	7845
-Practicable Date.	4896
+Practicable Date	4896
 Printer Computer Specifications DATE QUANTITY	34
 Production Contract Renewal Date N	9124
 Project’s Effective Date	1264
-Project’s Effective Date.	1264
 Project’s Effective Date. Guinea ESCP	1264
 Proposed Project Implementation Date	1988
 Provincial Manager Date	8603
@@ -260,7 +254,6 @@ Receipt No. Approved Date Approving Officer	736
 Record Date	7198,1741
 Redaction Date	3569,62,1766
 Regional Manager Date	8603
-Release Date of Release	7869
 Report Date	9772
 Republic of Congo Date	5915
 Republic of Zimbabwe. Opening Date	4896
@@ -285,10 +278,9 @@ Service Date	736
 Service Date Application No. Application License	736
 Service Model Start Date End Date	6432
 Settlement Date	4896
-Settlement Date.	4896
 Shelby Brewster Date	6948
 Signature Date	1770,144
-Signature Date.	1914
+Signature........................................... Date	1223
 Stakeholder Working Sessions Session Attendees Date	236
 Stay Dates	9031
 Submission Date	3430

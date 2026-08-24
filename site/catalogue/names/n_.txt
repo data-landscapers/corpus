@@ -23,7 +23,7 @@ Article N	1801
 Athlone Higher- Owned Land N	4896
 Attributes Symbol Example Application Name N	9124
 Australia N	10714
-Aïcha NSANGOU N.	8738
+Aïcha NSANGOU N	8738
 BARIK N. PRASAD	2342
 BRR No N	10714
 BULLETIN OFFICIEL N	308
@@ -42,7 +42,7 @@ C I O N Mensual Mensual	4209
 C TI O M N E	582
 C- Yes Tablet N	582
 C. N. Habitant	8853
-C. N. Olien.	6948
+C. N. Olien	6948
 CARE N CURE HEALTH SERVICE LIMITED	7167
 CEO de N	8002
 CEO of N	8244,232
@@ -63,7 +63,7 @@ Council Cession Industial Site N	4896
 Crédit N	7977
 D N D-	582
 D Yes N	10714
-D. N.	7886
+D. N	7886
 D9510-ZR N	10400
 DECRET N	2625
 DEMOCRATIQUE ET POPULAIRE N	4658
@@ -91,11 +91,11 @@ Décret N	311,2113,275,1721,1894,1156,2617
 E N T I D ITEM	582
 E S P O N D	582
 E T R H N EASTERN	582
-E. N.	7167
+E. N	7167
 EOL Target Date N	9124
 ER N UPP N ER	2776
 ET N	7470
-Edward N. Z.	5700
+Edward N. Z	5700
 Edwards N. Delivering	1219
 Egere N	9739
 Electrical Installations Regulations N	718
@@ -107,16 +107,17 @@ Etat. PP-G N	8321
 Eugenia Moche Namibia's N	8970
 Ezeanochie N	1219
 F- BBH N M- Internet	582
-F. N. H.	8993
+F. N. H	8993
 F25 No N	10714
 Facilities Finance Business Unit Owner N	9124
 Fawry Business Tap N Pay	9533
 Fetene N	3791
+First Street EWZL Owned Shop N	4896
 Fortune N. Jomane Project Location	1554
 G- Glo N- Poor	582
-G. N. N.	8605
+G. N. N	8605
 Gastos de Salario F U N C	4209
-Genevieve N.	2519
+Genevieve N	2519
 Godavery Pension Owned Com- N	4896
 Graniteside EWZL Owned Offices N	4896
 Graphique N	998
@@ -155,17 +156,17 @@ Iraqi National No N	10714
 Ireland N	10714
 Italy N	10714
 Itanyi N	9739
-J. N.	7886
+J. N	7886
 JOURNAL OFFICIEL N	548
-Jean N.	5673
-Jeanne N.	9175
+Jean N	5673
+Jeanne N	9175
 Jeremie N	1219
 Jordan N	10714
 Justice N. Bawole	5349
-Keizer N.	771
+Keizer N	771
 Kraamwinkel N	1219
 L'ARRETE INTERMINISTERIEL N	7470
-L. N No.	2709
+L. N No	2709
 LISTE DES EQUIPEMENTS HOMOLOGUES N	998
 LOI N	1272
 LS N U US B T	1154
@@ -178,24 +179,24 @@ Libya Personal Card No N	10714
 Lithuania N	10714
 Livingstone EWPL Owned Offices N	4896
 Loi N	37,3762,621,2036,1014
-M. N.	8604,67
+M. N	8604,67
 ML4 NASCOP N L M	4153
 MP K A UTSA N B	1154
 Malta N	10714
 Marondera EWZL Owned Shop N	4896
-Marongwe N. Marongwe Dr R.TD.rMRa.Ts.eMkeassPaerokfe. Wsa.	1154
+Marongwe N. Marongwe Dr R.TD.rMRa.Ts.eMkeassPaerokfe. Wsa	1154
 Mars Gweru Mars Owned Offices N	4896
 Mars Mars Owned Offices N	4896
 Masvingo EWZL Owned Switch N	4896
-Mathiyalagan N.	1261
+Mathiyalagan N	1261
 Mbewu N	1219
 Medasys and N	3001
 Microsoft Application Development N	9124
 Minimum N	9446
 Minrex. L’Avenant N	4193
-Mistry N.	771
+Mistry N	771
 Moldova N	10714
-Mpofu Commissioner N. Matshe Dr N.	1154
+Mpofu Commissioner N. Matshe Dr N	1154
 Ms N	6867
 Ms N R Mashabela	6868
 Ms N. Marongwe Dr R.T. Masekesa	1154
@@ -246,29 +247,29 @@ N and N	9123
 N' GO LIMITED Data Controller INST-9891903A3F3	7167
 N' Trillion	6408
 N- ATLAS	6232
-N. A.	961,287,7355,1
-N. A. M.	961
-N. A. O.	7886
-N. B.	1248
-N. C.	2518
+N. A	961,287,7355,1
+N. A. M	961
+N. A. O	7886
+N. B	1248
+N. C	2518
 N. Charles Street Baltimore	1212
 N. Does	7886
-N. E.	3782
+N. E	3782
 N. Edelmann	5349,351
 N. General	7845
 N. Goburdhan	3782
-N. Haug.	5349,351
-N. I.	8605
-N. M.	961,1557
-N. M. F.	8603
-N. M. M.	961
+N. Haug	5349,351
+N. I	8605
+N. M	961,1557
+N. M. F	8603
+N. M. M	961
 N. N. Wekwete Dr. R.T. Masekesa	1554
 N. N. Wekwete Ms N. Marongwe	1154
-N. R.	5349,1483,1773
-N. S.	4676
-N. Tempini.	5700
+N. R	5349,1483,1773
+N. S	4676
+N. Tempini	5700
 N. Wekwete Ms N. Marongwe	1154
-N. van Horen.	10718
+N. van Horen	10718
 NAME OWNER RENTED TYPE ADDRESS N	4896
 NINA Card No N	10714
 National ID Card Morocco No N	10714
@@ -299,7 +300,7 @@ Oman Omani ID Card Yes N	10714
 Orden Cantidad F U N C	4209
 Ordonnance N	548,3251,1171,2500
 Ordonnance-Loi N	7470
-P. N.	5700
+P. N	5700
 PAGE N	6432
 PALEA N	4209
 POSAF ORIENTATION STRATÉGIQUE N	10712
@@ -317,7 +318,7 @@ Production Contract Renewal Date N	9124
 Pyongyang City Resident Card Yes N	10714
 R EFE R E N C	396
 R N I Direção Geral	6530
-R.T. Commissioner N. Matshe Dr N.	1154
+R.T. Commissioner N. Matshe Dr N	1154
 R.T. Masekesa Wekwete Ms N. Marongwe	1154
 RYO PRESIDENTIAL ORDER N	1214
 Refused N	5247
@@ -331,7 +332,7 @@ Responses Increased N	5247
 Rizk N	9739
 Règlement N	8357
 République du Congo N	7152,194,1844
-SILUE N.	2342
+SILUE N	2342
 SOCIETE DE RECHERCHE MINIERE N	998
 STRATEGIQUE N	10712
 Saad N	771
@@ -340,7 +341,6 @@ Soberanía F U N C I	4209
 Sous N	7470
 Spain N	10714
 Stanley House EWZL Owned Guest N	4896
-Street EWZL Owned Shop N	4896
 Sule N	771
 São Tomé and No N	10714
 T N HE A T	582
@@ -355,7 +355,7 @@ Timor-Leste National Identity Card No N	10714
 Tonga National Identity Card No N	10714
 Tuvalu No N	10714
 U N C I O N	4209
-UBOS Executive Director Dr. Chris N.	9024
+UBOS Executive Director Dr. Chris N	9024
 Umar N	771
 Unique National Identity No N	10714
 Usage N	9124
@@ -380,6 +380,6 @@ Willowvale EWZL Owned Switch N	4896
 Willowvale Pension Owned N	4896
 Wirelees Pvt Ltd Cession Willowvale N	4896
 Wu N. Trump	7187
-X. N.	2518
-Y. N.	2518
+X. N	2518
+Y. N	2518
 Zealand N	10714

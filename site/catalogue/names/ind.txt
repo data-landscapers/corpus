@@ -2,7 +2,7 @@ AFD's AI Investment Potential Index	2303
 AFREXIM and Patnasonic Industries Legal Business	9750
 AFRICAN DIATOMITE INDUSTRIES LIMITED Data Controller	7167
 AFRICAN REGIONAL INTEGRATION SYNTHESIZED INDEX	9194
-AI Index.	2816,4244
+AI Index	2816,4244
 AI Indicator	1204
 AI Individuals	4126
 AI Industry	8644
@@ -30,7 +30,7 @@ About the Identity Index	1972
 Absence of Independent Oversight	6512
 Accelerate Regional Industrial Transformation PPM	7020
 Accelerated Industrial Development of Africa	1814
-Accelerating Industrial Intelligence.	2825
+Accelerating Industrial Intelligence	2825
 Acting Director of Private Sector and Industry	10262
 Acting Minister of Industry and Minerals	9862
 Actualización PE C2 INDUSTRIA INSPECCION ANUAL	4209
@@ -71,7 +71,7 @@ Algerian Telephone Industry Company	5901
 All Individual	762
 All Share Index	10
 American Journal of Industrial and Business Management	7759
-Analytics India Mag_.	3598
+Analytics India Mag_	3598
 Angola N.º INDICADORES	4044
 Angola and India	4275
 Aniversário da Independência de São Tomé	6837
@@ -82,7 +82,7 @@ Apparel Performance Indicators	2775
 Applicable Indigenous	1988
 Arrival of Indentured Labourers	7845
 Artificial Intelligence Index Report	2816
-Artificial Intelligence Index Report. Stanford University.	2816
+Artificial Intelligence Index Report. Stanford University	2816
 Association of Ghana Industries	236
 Ataraxis Global Outsourcing AI Readiness Index	7281
 Atlantic and Indian	9768
@@ -94,6 +94,7 @@ Auto-regulação da Indústria	2816
 Automated Clearing House Related Indicator	7221
 Automated Indicator Reporting	4153
 Autonomy Preference Index	8283
+Autorisations Réseaux Indépendants	998
 Autorités Administratives Indépendantes	1231
 B. INDUSTRY FINANCIAL REPORT	3862
 B3 INDUSTRIA Libreta	4209
@@ -110,18 +111,17 @@ Bank of Industry	1128,4371,2369,482
 Bas-Sassandra Indénié-Djuablin	747
 Beluluane Industrial Park	1727,7719
 Beyond Independence	4253
-Billion Indians.	5700
+Billion Indians	5700
 Board NIC National Industrial Credit NIIP	2775
 Body Mass Index	8283
-Brazil and India	3391,1733,420
-Brazil and India.	5124,1548
+Brazil and India	3391,1733,420,1128
 Brazil and India. The Bank	3318
 Brazil and Indonesia. Components	649
 Building Quality Control Index du Cameroun	4325
 Building Zimbabwe’s AI Industry Government	9030
 Bundled Value Index	236
 Burkina Faso INDICE	643
-Burundi Federal Chamber of Commerce and Industry.	9153
+Burundi Federal Chamber of Commerce and Industry	9153
 Burundi Studies India Stack for Digital Identity	6799
 Burundi and India	6799,56
 Burundi and India Explore Partnership	6855
@@ -136,10 +136,10 @@ CHANGES TO PDO-LEVEL INDICATORS Current Indicator	4653
 CHC Council for Scientific and Industrial Research COBIT	1009
 CHUI AUTO SPRING INDUSTRIES LIMITED Data	7167
 CIPS Indirect Participants	2836
-CIPS Indirect Participants.	2836
 CIS Commonwealth of Independent States CNSP Community	6946
 CNII Industry	10721
 COMMUNICATION AUTHORITY OF KENYA Independent Directors	6946
+COMMUNICATIONS INDUSTRY AT A GLANCE	2776
 COMMUNICATIONS INDUSTRY AT A GLANCE2	2776
 COMPANY'S FINANCIALS Independent Financial Advisor	4896
 COMPLY INDUSTRIES LIMITED Data Controller INST-943886BC13C	7167
@@ -150,8 +150,8 @@ CPF INDIVIDUAL PENSION SCHEME Data Controller	7167
 CPI Consumer Price Index CPIMS Child	2775
 CSEA Digital Preparedness Index	5724
 California Tech Industry	9629
-Call for Stronger Industry Collaboration.	6075
-Cameroon's AI Investment Potential Index.	2303
+Call for Stronger Industry Collaboration	6075
+Cameroon's AI Investment Potential Index	2303
 Can the AT50 Index	4561
 Catégorie Indicateur Publication	748
 Central Industry Fraud Desk	4848
@@ -166,8 +166,7 @@ Chemical Industries Education	6832
 Chepkitale Indigenous People Development Project Data	7167
 Chiffre Indicateur	748
 China Industrial Bank	6485
-China and India	4439,533,2270
-China and India.	2775
+China and India	2775,1664,533,2270
 China-West Africa Medical and Health Industry Expo	10630
 China. Social Indicators Research	7886
 Chinese and Indian	6867,1
@@ -199,8 +198,7 @@ Comparison of Telecoms Industry Performance	3862
 Competitive Advantage Industrial	3796,1205
 Components RESULT_FRAME_TBL_ IO Indicator Name PBC	1284
 Components RESULT_FRAME_TBL_IO Indicator Name PBC Baseline	1228
-Confederation of Zimbabwe Industries	4528
-Confederation of Zimbabwe Industries.	1554
+Confederation of Zimbabwe Industries	1554,2974
 Congo Index	1828
 Coninx Industries Limited Data Controller INST-746467CD26B	7167
 Connecting the World Industry Matching Activity	7407
@@ -211,7 +209,7 @@ Construction Industry	2775
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consultant Individuel	5370
-Consumer Awareness Index.	5676
+Consumer Awareness Index	5676
 Consumer Discretionary Industrials Consumer Staples Energy	4972
 Consumer Price Index	2775,808,131,1883,2930,725
 Consumer Price Indices	2775
@@ -244,7 +242,7 @@ D. EMPLOYMENT DISAGGREGATED IN THE INDUSTRY-	3862
 D. Indicateurs	822
 D. Industrial	7845
 D.G. DE INDUSTRIA Y PROTECCION DE	4209
-D.G. DE PESCA INDUSTRIAL Y ORDEN.	4209
+D.G. DE PESCA INDUSTRIAL Y ORDEN	4209
 D2 INDUSTRIA INSPECCION ANUAL	4209
 DANS LES FONCTIONS INDIVIDUELLESA. AU TITRE	7670
 DC Byte Global Index Report	8263
@@ -255,7 +253,6 @@ DPI Indicators for Data Exchange Systems	7222
 DPI Indicators for Digital Identity Systems	7222
 DPI Indicators for Digital Payment Systems	7222
 Dangote Industries	5765
-Dangote Industries’	5765
 Danish Industrialisation Fund for Developing Counties	789
 Data CSIR Council for Scientific and Industrial Research	5246
 Data Center Cost Index	5200
@@ -265,7 +262,6 @@ Data Services MPI Master Patient Index	396
 David Indeje	9648,598
 Declaring Independence	6562
 Deep Learning INDABA	5036
-Deep Learning INDABA.	5036
 Deep Learning Indaba	2732,84,1171,139,127,821,1881,3038
 Deep Learning Indaba ECTIM	2816
 Deep Learning Indaba. VERIFY	5074
@@ -281,7 +277,7 @@ Departments and Agencies Independent	7548
 Desarrollo Económico INDICE Página EXPOSICION DE	4209
 Description GSMA Mobile Industry Leadership	214
 Description Government of India Line of Credit	381,307
-Description Industrial Court-ICT Development.	5644
+Description Industrial Court-ICT Development	5644
 Develop Indigenous Capability and Participation Deepen	10157
 Developing Indicators	1243
 Developing Its AI Industry-https	7548
@@ -289,14 +285,14 @@ Development Association IDB Industrial Development Bank	2775
 Development Goals SPI Statistical Performance Indicator	4214
 Development Index HDP Humanitarian Development Peace	970
 Development Student Industrial Work Experience Scheme	10721
-Development and Management of Indigenous Knowledge Act No.	5246
+Development and Management of Indigenous Knowledge Act No	5246
 Digital Access and Inclusion Revised Indicator Name	4653
 Digital Africa Index	1923,4670
 Digital Entrepreneurship Ecosystem Index	4343
 Digital India Bhashini	7981
 Digital India Bhashini. Part	7981
+Digital Industrial Park	8973
 Digital Industrial Park and Learning Centre	8973,1335
-Digital Industrial Park.	8973
 Digital Industry and Jobs	6539
 Digital Knowledge Economy Index	226
 Digital Life Posted By David Indeje	9547
@@ -316,10 +312,8 @@ Djibouti Office of Industrial and Commercial Assets	6938
 Domestic Indirect	5655
 Driver and Vehicle Licensing Authority. Industry	6177
 Droits Indirects	2971,1449
-Droits Indirects.	4420
 Droits Indirects. II. Ce	4420
-E-Government Development Index	1353,909,248,722,12,290,31,55,92,38,93,130,159,872,550
-E-Government Development Index.	3042,670
+E-Government Development Index	1353,909,248,532,190,12,290,31,55,92,38,93,130,159,872,550
 E-Government Development Index. Chad	3565,567
 E-government Development Index	1749
 ED of Liberia’s Independent Information Commission	6202
@@ -331,7 +325,7 @@ EU Multiannual Indicative Programme	970
 EU Sub-Saharan Africa Regional Multi-Annual Indicative	1528
 EU Zimbabwe National Indicative Programme	970
 EU and Mercosur and India	9832
-EXIM Bank of India.	2667
+EXIM Bank of India	2667
 Earnings and Consumer Price Indices Overview	2775
 Ease of Doing Business Index	4528
 East Africa Banking Industry Outlook	5883
@@ -342,7 +336,7 @@ Econet Heasmen Wireless Pvt Ltd Industrial	4896
 Economic Complexity Index	10157
 Ecosystem Can the AT50 Index	7284,98
 Edelman Trust Index	7445
-Edge India Didn't There's	8206
+Edge India Didn't	8206
 Education Remains the Most Targeted Industry	9815
 Egypt Sudan Pakistan India Nepal Myanmar	418
 Egypt and India	9332
@@ -367,7 +361,7 @@ Entrepreneurship and Industry The Ministry of Investment	3907
 Entrepreneurship and Industry of Seychelles	3907
 Enugu Digital Industrial Park	9117
 Enza Capital. Individual	713
-Era of Industrial Policy.	7548
+Era of Industrial Policy	7548
 Establish Independent Regulatory Bodies	5042
 Establishing Key Performance Indicators	4528
 Establishing Space Industry Development Fund. Entering	1131
@@ -375,7 +369,7 @@ Establishment of Industry Forum	11,576
 Eswatini. The PDO Indicators for Digital Eswatini	6539
 Evident AI Index for Banks	9896
 Exim Bank of India	2760
-Expanding India's	9431
+Expanding India	9431
 Expected Outcome Key Performance Indicators Timeframe	7548
 Expected Output Key Performance Indicators	7548
 Expected Results Indicator Baseline and Targets Means	970
@@ -383,7 +377,7 @@ Expected Results Indicators Baseline	789,181
 Expected Results Indicators Target	789
 Exploitant Propre Indifférent	737
 Export and Import Price Indices	2775
-Export-Import Bank of India.	2760
+Export-Import Bank of India	2760
 Extractive Industries Sector	789
 Extractive Industries Transparency Initiative	170,2719,694,544
 FBS Indicators Economic Survey	2775
@@ -398,7 +392,7 @@ Finance Infrastructure Indicator GDP	5247
 Financial Inclusion Index	7803
 Financial Inclusion Indicators	940
 Financial Independence. An RIR	3503
-Financial Industry Cyber Council.	4073
+Financial Industry Cyber Council	4073
 Financial Industry Regulatory Authority	7857,931
 Financial Industry Security Operations Centre	5532
 Financial Intermediation Services Indirectly	2775
@@ -408,23 +402,21 @@ Financial Stability Index	6938
 Financial Times of India	5801
 Financing Africa's Industrial Transformation	7787
 Finnish Fund for Industrial Cooperation	197,454,212,1,228,377,1
+First Quarter African Prepaid Pricing Index	236
 Fiscalité Indirecte Article	4420
 Food Processing Industry Investigation of Water Tube	1154
 Foundations Banks Other Private Individuals Pension	4972
-Fourth Industrial Revolution	396,32,4,1,525,4,192,89,5,566,279,24,440,212,179,751,162,667,617,82,19,167,439,731,107,142,919,271,108,1000,72,221,253
+Fourth Industrial Revolution	396,32,4,1,153,372,4,192,82,7,5,566,279,24,440,212,179,751,162,667,508,109,82,19,167,439,731,107,142,919,271,108,851,149,72,221,253
 Fourth Industrial Revolution AI	6832
 Fourth Industrial Revolution Final Report	5036
-Fourth Industrial Revolution Final Report.	5036
 Fourth Industrial Revolution PSET	6832
 Fourth Industrial Revolution Rwanda	9574
 Fourth Industrial Revolution and Ministry of ICT	2682,157
-Fourth Industrial Revolution.	962,274,578,3222,3945
 Fourth Industrial Revolution. Guiding Principles	4528
 Fourth Industrial Revolution. Protecting National Data	10681
 Fourth Industrial Revolution. World Economic	6832
-Fourth Industrial Revolution’	586
 France and India	3394,3644
-Freedom House AI Surveillance Index.	121,138,83,133
+Freedom House AI Surveillance Index	121,138,83,133
 Freight CIP Census of Industrial Production CIPI	2775
 French Chamber of Commerce and Industry South Africa	5621
 Frio Industrial	8530
@@ -445,7 +437,7 @@ GSMA’s Digital Africa Index	7825
 GSS Head of Industrial Statistics Section Anthony	236
 Gambia's Independent Electoral Commission	5365
 Ganergy Heavy Industry Group Co. Ltd	3191
-Gaurav Nayyar and Indermit Gill.	9457
+Gaurav Nayyar and Indermit Gill	9457
 Gender Index	643
 General Industry	7343
 Geopolitical Contest India	9431
@@ -454,20 +446,19 @@ Ghana Industries BPO Business Process Outsourcing	236
 Ghana. Individual	582
 Gini Index	1828
 Global AI Index	4528,1173
-Global AI Responsibility Index.	9633
+Global AI Responsibility Index	9633
 Global Crypto Adoption Index	6679,2551,479
-Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,1092,31,69,147,116,158,340,597,171,10,3229,419
+Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419
 Global Cybersecurity Index Report. Geneva	6936
-Global Cybersecurity Index.	4926
 Global Cybersecurity Index. Experts	2703
 Global Cybersecurity Index. Score	1878
 Global Cybersecurity Index. The ITU	3973
 Global Cybersecurity Index. The Information Systems	5307
 Global Cybersecurity Index. The Somali	5338
-Global Cybersecurity Index. The U.S.	3232
+Global Cybersecurity Index. The U.S	3232
 Global Digital Health Index	1824
 Global Financial Inclusion Indicators	1104
-Global Food Security Index.	4528
+Global Food Security Index	4528
 Global Framework of Indicators	3005
 Global Gender Gap Index	789,2667
 Global ICT Index Telecom Review Africa	3219
@@ -483,37 +474,33 @@ Global Leaders Gather for India’s AI Summit	5044
 Global Outsourcing AI Readiness Index	7929
 Global Outsourcing Talent Index	7929
 Global Security Index	2374
-Global South India's	9431
+Global South India	9431
+Global South. India	6386
 Global South. Indian	4676
-Global South. India’s	6386
 Global South. Terra Industries	10199
-Global Startup Ecosystem Index.	2676
+Global Startup Ecosystem Index	2676
 Global Talent Competitiveness Index	4528
 Global Tech Ecosystem Index	7181
 Global Web Index	2586
-Globalised Crime Index'	9399
+Globalised Crime Index	9399
 Goal Thriller Independent	2885,1650,350,49,187,653,25,474,547,1,222
 Good International Industrial Practice	1988
 Good International Industry Practice	1988
 Good International Industry Practice GNI Gross	1818
-Good International Industry Practice.	1988
 Good International Industry Practices	1988
 Good International Industry Practices ZEMA	1988
 Google. India	6411
-Gov Development Index.	1912
+Gov Development Index	1912
 GovTech Maturity Index	4752,210
 Govemment Davelopment Index	1885
-Government AI Readiness Index	2816,1812,482,1285,208,945
-Government AI Readiness Index.	7601
+Government AI Readiness Index	2816,1812,482,1285,208,945,53
 Government AI Readiness Index. Disponível	2816
-Government Development Index	2383,146,171,91,13,7096
-Government Development Index.	3604
+Government Development Index	2383,146,171,91,13,800,6296
 Government Effectiveness Index	2945
 Government Index	1912,1352
 Government of India	2667,1909
 Government of India and Department of Commerce	9749
-Government of India and We-Fi.	5921
-Government of India’s	2667
+Government of India and We-Fi	5921
 Groupe Industriel Babahoum Algérie	4277
 Gvt and Industry	958
 H1’24. Industry	4771
@@ -524,14 +511,13 @@ Hlane At Independent News Eswatini	5799
 Honourable Minister of Industry	7039,103
 Human Capital Index	1353,540,19
 Human Development Index	3583
-Human Development Index.	3583
 Hôtel Indénié	2342
 I. Indicateurs	5928
 ICT Development Index	582,213,1094,381,113,185,7,644,13,539,35,167,105
 ICT Development Index IGF	958
 ICT Household Indicators	3641
 ICT Indicators	582,3059,3305
-ICT Indicators Database.	1248
+ICT Indicators Database	1248
 ICT Industry Awareness and Promotion	958
 ICT Industry Stimuli	958
 ICT for Development Index	318
@@ -596,17 +582,15 @@ INFRACO INDEPENDENT REPORTING ACCOUNTANT'S REPORT	4896
 INSPECCION ANUAL INDUSTRIA Certificado de Actualización PE	4209
 INTIC. Individuals	9351
 IOC Indian Ocean Dipole IP Internet	2775
-IP Indigenous People IPP Indigenous People’s	969
+IP Indigenous People IPP Indigenous People	969
 IPC Indice	7655
 IPv6 Libyan Indian	5592
 IR Fourth Industrial Revolution ADR Alternative	1243
 ISP Internet Service Provider IPP Independent	3184,1,1340
-ITU Global Cybersecurity Index	1374,615,241,179,1397,326,72,9,1567,1510
-ITU Global Cybersecurity Index.	5030
+ITU Global Cybersecurity Index	1374,615,241,179,1397,326,72,9,817,750,1510
 ITU Global Cybersecurity Index. Internet	5119
 ITU ICT Development Index	3410,340
-ITU's Global Cybersecurity Index	2464,2346
-ITU's Global Cybersecurity Index.	3244
+ITU's Global Cybersecurity Index	2464,780,1566
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
 Ibrahim Index of African Governance	5879
 Identity Index	1972
@@ -636,11 +620,10 @@ Indemnification	3714
 Indemnification of Directors	3714
 Indemnity	736
 Indemnity and Insurance Rationale	8866
-Indemnity.	736
 Indemnité	8891
 Indemnizaciones	4209
 Indent	512
-Indep.	1198
+Indep	1198
 Independence	718,502,2166,116,359,1035,2216,62,277,1202,929,731,27,35
 Independence Anniversary. Awoonor	5277
 Independence Anniversary. Going	6831
@@ -654,19 +637,16 @@ Independent Administrator	170
 Independent Advisory Board of Experts	4528
 Independent Assessor	6936
 Independent Associate	6936
-Independent Auditor	4896
-Independent Auditor's	7204
+Independent Auditor	4896,2308
 Independent Audits and Compliance Scorecards	6936
 Independent Beninese	8318
 Independent Broadcasters Association GIFEC Ghana Investment	236
 Independent Broadcasting Authority	9082
 Independent Commission for Peace and National Cohesion	7452
 Independent Communications Authority of SA	5175,437,4517
-Independent Communications Authority of South Africa	926,31,738,115,2,757,368,7,2,1296,490,328,132,406,210,64,118,193,284,424,160,372,404,1,22,130,109,41,31,12,62,366,67,173,76,412,1207
+Independent Communications Authority of South Africa	926,31,738,115,2,757,368,7,2,1296,490,328,132,406,19,191,64,118,193,284,424,160,372,404,1,22,130,109,41,31,12,62,163,203,67,173,76,412,1207
 Independent Communications Authority of South Africa Act	5872,1956
 Independent Communications Authority of South Africa ICT	6832
-Independent Communications Authority of South Africa's	8398
-Independent Communications Authority of South Africa.	5617
 Independent Corrupt Practices and Other Related	10530
 Independent Corrupt Practices and Other Related Offences	10054
 Independent Data Protection Impact Assessments	9600
@@ -689,7 +669,6 @@ Independent Fiscal Councils	1828
 Independent Government Institute Implementing Agency Country	4653
 Independent Information Commission	5244
 Independent Information Commission IIPS	5244
-Independent Information Commission.	5244
 Independent Institute of Education	2307
 Independent International Scientific Panel	5074,1859,105,74,208,358,435,30,237,248
 Independent National Electoral Commission	2670,3452,567,81,406,572,692,547,403,659,5,200,317
@@ -703,12 +682,11 @@ Independent Patriots for Change	1981,8167,411
 Independent Pension Plans IPTV Internet-Protocol Televisions	2775
 Independent Police Investigative Directorate	7096
 Independent Policing Oversight Authority	10313
-Independent Power Producers	718,5774
+Independent Power Producers	408,310,5774
 Independent Power Producers Independent Power Producers	9458
-Independent Power Producers'	408
 Independent Producers Organisation	10481
 Independent Regulatory Authority	718
-Independent Reporting Accountant's	4896
+Independent Reporting Accountant	4896
 Independent Reporting Accountants of Econet	4896
 Independent Review	3861
 Independent Review Mechanism	5574
@@ -722,31 +700,27 @@ Independentemente	2953
 Independently	1326,1,2,1,686,1,2,1,2136,1,2,1,111,257,3664
 Independência Nacional	4040
 Indermit Gill	5598,3427,432
-Index	10,226,377,176,423,31,642,87,722,81,939,2879,255,89,725,1229,583
+Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,1229,583
 Index Country Policy and Institutional Assessment	643
-Index's	6937
-Index.	21
 IndexFair	9317
 Indexation	3381
 Indexes	6982
-Index’	1204
-India	10,192,24,189,146,157,49,14,257,2,14,82,83,6,476,123,197,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,38,69,33,20,88,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,56,37,2,23,77,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,178,34,31,13,63,53,99,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,11,15,6,12,1,26,5,31,1,7,59,11,57,86,16,53,22,101,27,109,60,9,21,74,5,63,20,122,68,60,61,4,91,45,24,4,44,122,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,149,32,44,160,5,69,40,33,113,12,151,30,69,16,169,81,291,13
+India	10,192,24,189,146,157,49,14,257,2,14,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,93,198,13
 India AI	4300
 India AI Action Summit	5044
 India AI Governance Guidelines	9208
 India AI Impact Summit	5044,51,27,94,41,1010,523
-India AI Impact Summit.	5122
 India AI Impact Summit. African	6267
-India AI Impact Summit. Kenya’s	6790
+India AI Impact Summit. Kenya	6790
 India AI Summit	6386
 India AI Summit Intent	5044
-India Actually Got Right It's	8206
+India Actually Got Right	8206
 India Addis Ababa	10516
 India Africa Forum Summit	2667
 India Agri Stack	5267
 India Asia Xpress	4676
 India Blueprint for Growth	4444
-India Brand Equity Foundation.	7548
+India Brand Equity Foundation	7548
 India By Alfred Shilongo	3253
 India Company	2511
 India Connect	5122
@@ -759,13 +733,12 @@ India Georgia Morocco Kenya Ghana Cambodia	7655
 India India’s Tripoli Chargé	4849
 India Indonesia	10714
 India Kamel Galal and Assistant Minister of Industry	9332
-India Meteorological Department’s	4300
+India Meteorological Department	4300
 India PEDNEKAR	6613
 India Pan-African	6472
 India Press Information Bureau	5044
 India SHRIRAM	6613
 India Stack	2831,349,183,28,2309,686,413,100,2532
-India Stack's	6899
 India Stack. The European Union	8046
 India Summit	5366
 India The Star	3774
@@ -777,7 +750,7 @@ India and Angola	2787
 India and Bangladesh	322
 India and Brazil	7548,100
 India and Brazil India and Brazil	3391
-India and Canada.	4132
+India and Canada	4132
 India and China	226,5307
 India and Europe	411,1403
 India and Italy	5095
@@ -785,7 +758,7 @@ India and Italy Launch Trilateral Sovereign AI	5095
 India and Malaysia	4448
 India and Mozambique	2667
 India and Namibia	9749
-India and Nigeria.	322
+India and Nigeria	322
 India and PIX	6668
 India and Pakistan	7145
 India and Rwanda	2338
@@ -793,7 +766,7 @@ India and Saudi Arabia	5035,3360
 India and Singapore	7367
 India and Singapore. Beijing	4676
 India and South Africa	6480,762
-India and South Asia’s	8629
+India and South Asia	8629
 India and Southeast Asia	6909
 India and Sub-Saharan Africa. The Accelerator	9072
 India and TAFINA	9589
@@ -802,11 +775,10 @@ India and UNDP. Capacity Building	2667
 India and Uganda	6202
 India and Zanzibar	7034
 India&author	771,448
-India's	1038,1629,120,4,572,617,279,185,1581,710,64,33,23,44,252,397,48,385,225,49,953,191,32,215,103,666
+India's	8206
 India's AI Impact Summit	5029
-India's Aadhaar	4981,3370
+India's Aadhaar	3980,1001,3370
 India's Aadhaar-	9399
-India's Aadhaar.	3980
 India's Airtel	2133,1433
 India's B2B	9709
 India's DPI	2804,4095,252,830,1450
@@ -818,7 +790,7 @@ India's G20 Presidency	7981
 India's Lines of Credit	3363
 India's MEA	7981
 India's Minister of State for External Affairs	3363
-India's Ministry of Electronics and Information Technology.	3363,2235
+India's Ministry of Electronics and Information Technology	3363,2235
 India's Modular Open Source Identity Platform	2804
 India's QR-code	3363
 India's Reserve Bank	7468
@@ -841,28 +813,26 @@ India-based Centre for Internet and Society. The CIS	4176
 India-based Oil and Natural Gas Corporation	3583
 India-facing	2804
 India-style	5124
-India.	1701,150,816,120,1004,1333,558,18,992,202,52,88,562,1532,204,1184
-India. BMC Health Serv Res.	771
-India. BMJ Innov.	1219
-India. BMJ Open.	3791
+India. BMC Health Serv Res	771
+India. BMJ Innov	1219
+India. BMJ Open	3791
 India. Every	5224
 India. Further	6735
-India. Healthc Inform Res.	8376
-India. Indian J Public Health.	3791
+India. Healthc Inform Res	8376
+India. Indian J Public Health	3791
 India. Indonesia	6935
-India. J Vector Borne Dis.	1219
+India. J Vector Borne Dis	1219
 India. JMIR	1219
 India. KICTANet	2100
-India. PLoS ONE.	3791
-India. PLoS One.	1219
+India. PLoS ONE	3791
+India. PLoS One	1219
 India. Reserve Bank	3318
 India. Social	3791
 India. Thank	2787
-India10.	4848
+India10	4848
 IndiaAI Mission	7151
 IndiaAI Mission. Among	9208
-IndiaStack	5700
-IndiaStack.	5700,992
+IndiaStack	5700,992
 IndiaStack. Everyone	6692
 Indian	2667,53,84,12,547,428,484,25,132,144,273,833,18,103,428,140,15,25,69,212,43,64,56,39,41,210,6,69,349,27,115,270,225,404,332,177,89,124,72,27,209
 Indian AI	7151,830
@@ -872,29 +842,27 @@ Indian Banks and Payments Companies	5124
 Indian Central Leather Research Institute	1554
 Indian Cyber Crime Coordination Centre	9208
 Indian Embassy	4849
-Indian Express's	8921
-Indian Express.	2541
+Indian Express	2541,6380
 Indian Institute of Information Technology	5682
 Indian Institute of Technology Madras Zanzibar	7034
 Indian Law	9640
 Indian Minister of Commerce and Industry	9332
 Indian Minister of Commerce and Industry Piyush Goyal	9332
 Indian Naval Ships	2667
-Indian Ocean	585,778,363,951,602,85,272,92,126,241,353,674,102,28,601,255,107,679,335,136,1,1,879,620,283,1226
+Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226
 Indian Ocean Basin	3636,218
-Indian Ocean Commission.	7795
-Indian Ocean and Africa.	7601
+Indian Ocean Commission	7795
+Indian Ocean and Africa	7601
 Indian Ocean and Atlantic Ocean Intelsat	9455
 Indian Ocean and Central	585
 Indian Ocean and Central Africa	585
 Indian Ocean and WACS	395
-Indian Ocean.	21,4534
 Indian Ocean. Matshepo Sehloho	7509
 Indian Ocean. Through	3292
 Indian Prime Minister Narendra Modi	2791,2253,2322
 Indian SMEs	9332
 Indian Software Product Industry Roundtable	6692
-Indian Supreme Court’s	8776
+Indian Supreme Court	8776
 Indian T20	7242
 Indian Technical and Economic Cooperation	4849
 Indian Technical and Economic Cooperation Indian Ambassador	4849
@@ -907,14 +875,13 @@ Indiana Journal of Global Legal Studies	2096
 Indiana University Bloomington. Aadyaa Maddi	7711
 Indiana University Press	9739
 Indians	2787,3444,461,1289
-India’s	1243,1424,53,223,310,138,1653,51,27,78,500,52,409,225,25,69,212,43,97,209,1901,390
+India’s	415
 India’s Aadhaar	3596,833,419,376,97,379,671,321,904
 India’s Adani Group	6231
 India’s BRICS Chairship	10516
 India’s Big Experiment	5700
 India’s DEPA	7711
 India’s DPI	6386,306
-India’s DPI.	6692
 India’s G20	6386
 India’s India Stack	7175
 India’s Judiciary	8978
@@ -926,10 +893,10 @@ India’s UPI	4848,696,1059,291
 India’s UPI and Brazil’s Pix	3318
 India’s Unified Payment Interface	5700
 India’s Unified Payments Interface	3318,3576,390
-India’s.	415
 India’s.in	4690
 Indicadores	966,1172,3525
 Indicadores de Imunização	966
+Indicadores de Inclusão Financeira	2138
 Indicate	736,3236,2181,2786
 Indicates	7221
 Indicateur	748,574,1,1,740,1,1,2013,1,4811
@@ -967,7 +934,7 @@ Indicator Survey Reports	970
 Indicator Voice Voice	6671
 Indicator WARCIP West African Regional Communications	1000
 Indicator for Monitoring Budget Air Pollution	1988
-Indicators	789,172,9,30,144,674,1786,697,2370,77,595
+Indicators	789,172,9,30,144,674,1786,697,2370,77,595,205
 Indicators Activities Corrective Action Deviation	5245
 Indicators Baseline	4349
 Indicators Indicators	7548
@@ -991,7 +958,6 @@ Indice des Prix des Services Bancaires	5928
 Indice-monia-moroccan-overnight-index-average	8891
 Indicou	9257
 Indien	8234,465,1705,115
-Indien.	10404
 Indien. Le	9028
 Indien. Titus Gachuhi	3242
 Indiensneming	1009
@@ -1029,7 +995,6 @@ Individual Electronic Communications Network and Service	6152
 Individual Electronic Communications Service	6906
 Individual License	762
 Individual License APPENDIX B LIST	762
-Individual License.	762
 Individual Licensee	762
 Individual Licenses	762
 Individual M-Pesa	7898
@@ -1043,36 +1008,28 @@ Individual-level	7112
 Individual-to-Collective Threshold	8283
 Individually	5469,2127,450,1082,271
 Individually Issued Laissez-Passer	9399
-Individuals	582,666,16,366,485,660,183,903,792,147,599,140,12,8,1261,12,1,107,225,56,1,95,35,196,338,50,91,1507,82,459,22,216,97,311
+Individuals	582,666,16,366,485,660,183,646,257,792,147,599,140,12,8,1261,12,1,107,225,56,1,95,35,196,338,50,91,1507,82,459,22,216,97,311
 Individuals Merchants Retail Agents and Category Lite	5687
 Individuals Survey	7521
 Individuals and Businesses Across Africa Wayne Venter	7324
-Individuals.	3604
 Individualsusing the Internet	6946
-Individuals’	582
 Individuelle Collective Propriétaire Prêt	737
 Individus Et Perspectives	8891
 Indo-Aid	7982,1358
 Indo-Pacific	3398,1278,5675
 Indoingso	8602
-Indonesia	226,423,441,734,293,288,370,98,929,630,172,543,219,316,1560,306,183,231,20,148,365,1151,63,118,30,670,187
+Indonesia	226,423,441,734,293,288,370,98,929,457,173,172,543,219,316,704,856,160,146,183,28,203,20,148,365,743,408,63,118,30,670,187
 Indonesia Iran	10714
 Indonesia Malaysia	2775
 Indonesia PUTRI	6613
-Indonesia and Mexico	7569,568,1113,645
-Indonesia and Mexico.	10058,115
+Indonesia and Mexico	7569,568,1113,645,163,115
 Indonesia and Mexico. Between	6868
 Indonesia and Mexico. Tourist	6867,1
 Indonesia and Papua New Guinea	6451
 Indonesia and South Africa	6386
-Indonesia's	4604,3378,1256
-Indonesia.	4259,3143
 Indonesian	2093,5889
-Indonesian Cable Express IV.	2677
-Indonesia’	4432,3327
-Indonesia’s	2775,1657,1954
-Indonésie	6613,1902,825
-Indonésie.	7982
+Indonesian Cable Express IV	2677
+Indonésie	6613,1369,533,825
 Indonésie. Le	9340
 Indoor Building Solution	718
 Indoor Residual	4349
@@ -1120,9 +1077,8 @@ Industrial Relations	5250
 Industrial Relations and Employment Creation	1188
 Industrial Relations and Productivity. Stakeholders	6652
 Industrial Research Africa DHIF Digital Health	396
-Industrial Revolution	1814,279,1503,3,2542,1726
+Industrial Revolution	1814,1782,3,2542,1726
 Industrial Revolution Namibia	5036
-Industrial Revolution Namibia.	5036
 Industrial Revolution Rwanda	1204
 Industrial Tech Park	4622
 Industrial and Commercial Bank of China	78,1,261,158,2338,4039,2845
@@ -1143,7 +1099,7 @@ Industrias	1701,2508
 Industrias Creativas	1701
 Industrias Creativas Ejes Estratégicos Sistemas de Gestión	1701
 Industrias Extractivas	8378
-Industrie	1280,402,194,281,296,592,351,1006,30,166,1551,628,86,792,15,60,38,169,41,259,84,487,83,63,642,223,195
+Industrie	1280,402,194,281,296,592,351,90,916,30,166,1551,628,86,792,15,60,38,169,41,259,84,487,83,63,642,223,195
 Industrie Redevabilité	2514,842
 Industrie de Côte	2418
 Industrie de Maurice	8106
@@ -1153,14 +1109,13 @@ Industrie du Burkina Faso. Je	10259
 Industrie du Bénin	6300
 Industrie du Mali	9865
 Industrie du Maroc	4833
-Industrie.	2157,1329
 Industries	737,2038,1351,960,447,965,2354,1847
 Industries Extractives	4169,4355
 Industries Minières	1682
 Industries and Real Estate	2775
 Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125
 Industry Analysis	10718
-Industry Applications.	6924
+Industry Applications	6924
 Industry Based Learning	1000
 Industry Calls for Urgent Harmonisation	10360
 Industry Change Closing the Books	7055
@@ -1169,7 +1124,6 @@ Industry Enthusiasts	7645
 Industry Financial Report	3862
 Industry Forum	11,576,6349
 Industry Forum Establishment of Industry Forum	11
-Industry Forum.	11
 Industry Group	4972
 Industry Guidelines	6946
 Industry Guidelines for Child Online Protection and Safety	4583
@@ -1182,8 +1136,8 @@ Industry MOOC Massive Open Online Course	4126
 Industry Minister	9332
 Industry Outlook	1243
 Industry Partners Lead Institutions	6936
+Industry Performance	4818
 Industry Performance Monitoring	408
-Industry Performance.	4818
 Industry Players	395,9965
 Industry Report	1264,3968,265,2643,34,340,239
 Industry Sector Environmental Health and Safety Guidelines	1988
@@ -1193,21 +1147,20 @@ Industry Stakeholders. Promote	1777
 Industry Subscription Table	2776
 Industry Technologies	7548
 Industry Traffic	2776
-Industry Trends and Audience Survey.	6946
+Industry Trends and Audience Survey	6946
 Industry X.0	5360
 Industry X.0 and Health Industries	5360
 Industry and Commerce	5360
 Industry and Commerce. Addressing	7436
-Industry and Competition	1009,606,2627,391,1232,967,1186,26,1676
+Industry and Competition	1009,606,2627,391,1232,967,1186,26,1676,215
 Industry and Competition DSM	6832
-Industry and Competition Minister Parks Tau. Friday’s	8044
+Industry and Competition Minister Parks Tau	8044
 Industry and Competition Parks Tau	5621
-Industry and Competition.	9935
 Industry and Competition. Restated	5186
 Industry and Competition. The Bill	5872
 Industry and Cooperative Development	7167
 Industry and Cooperatives	10313
-Industry and Cooperatives and Col Edith Nakalema.	6576
+Industry and Cooperatives and Col Edith Nakalema	6576
 Industry and Innovation	5700
 Industry and Market	5245
 Industry and Market Context	4896
@@ -1259,15 +1212,14 @@ International Industry Practice	1988
 International Labor Organization’s Skills Mismatch Index	4535
 International Mobile Traffic Indicator	6671
 International Standard Industrial Classification	236
-International Telecommunication Union's Global ICT Index.	3973
+International Telecommunication Union's Global ICT Index	3973
 Internes PME Programme Indicatif Multi-Annuel PNDES	643
 Internships and Industrial Attachments	6946
 Introducing the Children's Climate Risk Index	3583
-Invest India.	9332
+Invest India	9332
 Italian and Indonesian	7242
 Ivoire Ministry of Commerce and Industry	2157
-Ivoire's Ministry of Commerce and Industry	2157,1385
-Ivoire's Ministry of Commerce and Industry.	2157,1305
+Ivoire's Ministry of Commerce and Industry	2157,1305,80
 Jazari Industry X.0 Institute	10004
 Jazari Industry X.0 Institute and Jazari Smart	10004
 Jitendra Singh Calls for Next-Generation India	6480
@@ -1307,8 +1259,7 @@ Key Performing Indicators for Konza Technopolis	2775
 Key Points Afreximbank and South Africa’s Industrial	8044
 Kimi K3 Tech Industry US	9629
 King Air Industria	6486,857,930,642
-Kololo Independence Grounds	3065
-Kololo Independence Grounds.	9696
+Kololo Independence Grounds	3065,6631
 Kololo Independence Grounds. UCC E.D Nyombi	9781
 Korea Poland Brazil Croatia Chile India	7655
 L' Inde	3658,2617,145
@@ -1333,7 +1284,7 @@ List of Individuals and Organizations Included	7151
 Local Online Service Index	1912
 Logistics Performance Bank’s Logistic Performance Index	1828
 Lower Indian Ocean Network	2677,615,3379
-Lu-Hai Liang India's	7981
+Lu-Hai Liang India	7981
 Luminosos INDUSTRIA INSPECCION ANUAL	4209
 Luminosos INDUSTRIA INSPECCION ANUAL CULTURA LICENCIA	4209
 M Proposed Alterations New Indicator	4653
@@ -1344,7 +1295,7 @@ MESURE INDIVIDUELLE Au	2808
 MESURES INDIVIDUELLES Au	3045
 MIC Ministry of Industry and Commerce	4214
 MICT SETA Fourth Industrial Revolution	6832
-MIIT Cybersecurity Industry Development Centre's	1827
+MIIT Cybersecurity Industry Development Centre	1827
 MIPROMALO Reports Higher Industrial Activity	965,3804,120,206,68,334,86
 MONITORING AND EVALUATION Definition of Indicators	962
 MONITORING SUCCESS Transition Impact Monitoring Indicators	1818
@@ -1377,8 +1328,7 @@ Mesure Individuelle	2808
 Mesures Individuelles	3045
 Metallurgical Industry	1154
 Metallurgical Industry for Zimbabwe and Botswana	1154
-Mexico and Indonesia	6255
-Mexico and Indonesia.	6196
+Mexico and Indonesia	6196,59
 Mexico and Indonesia. The ETA	5533
 Middle East and India	5138
 Middle East and Indian Ocean. Partner2Connect	1634
@@ -1386,21 +1336,18 @@ Mining Indaba	10592
 Minister Dr Jitendra Singh India	6480
 Minister of Commerce and Industry	10476
 Minister of Industrialisation and Trade	3714
-Minister of Industrialisation and Trade.	3714
 Minister of Industry	7748,673
-Minister of Industry and Commerce	1554,1113,1861
-Minister of Industry and Commerce.	5488
+Minister of Industry and Commerce	1554,1113,1861,960
 Minister of Overseas Indian Affairs	2667
 Minister of State for Industry	7141
 Minister of Trade and Industry Hon. Alpha Ibrahim	8271
-Minister of Trade and Industry Parks Tau.	4242
+Minister of Trade and Industry Parks Tau	4242
 Minister of Trade and Industry William Anyuon Kuol	3583
 Ministerio de Industria	1701
-Ministries of Communication Technologies and Industry.	2475
-Ministry of Commerce and Industry	2157,1,1628,492,6198
+Ministries of Communication Technologies and Industry	2475
+Ministry of Commerce and Industry	2157,1,1628,492,4963,1,1234
 Ministry of Commerce and Industry's Digitalization Program	3786
-Ministry of Commerce and Industry.	9241,1
-Ministry of Commerce and Industry. EXIM's	3441
+Ministry of Commerce and Industry. EXIM	3441
 Ministry of Commerce and Industry. The Export-Import Bank	3441
 Ministry of Education MINICOM Ministry of Trade and Industry	1204
 Ministry of Finance and Industry	2157
@@ -1415,7 +1362,6 @@ Ministry of Industry and Minerals	9862
 Ministry of Industry and Trade	10663
 Ministry of Trade and Industries	10599
 Ministry of Trade and Industry	3583,4688,525
-Ministry of Trade and Industry.	3583
 Ministry of Trade and Industry. Private	5014
 Ministério da Indústria	5046,7,2999
 Mitigate Industrial Disasters Michael Moyo's Ocular	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
@@ -1460,13 +1406,13 @@ Name Direct Interest Indirect Interest	4896
 Name of Indiscriminate	1988
 Namibia and India	9749
 Namibian President Netumbo Nandi-Ndaitwah and Indian Prime	9749
-Natal Indian Congress.	2626
+Natal Indian Congress	2626
 National Communications Authority Index	582
 National Consumer Price Indices and Rates of Inflation	2775
-National Consumer Satisfaction Index.	5676
+National Consumer Satisfaction Index	5676
 National Cyber Security Index	5780
 National Food Security Index	4528
-National Fourth Industrial Revolution Strategy.	7043
+National Fourth Industrial Revolution Strategy	7043
 National Housing Industry Regulatory Commission	8087
 National Independent Electoral Commission	2743
 National Indicator Data Set	396
@@ -1493,15 +1439,15 @@ Nigeria’s Defence Industries Corporation of Nigeria	10200
 Nigeria’s Ministry of Industry	3006
 Non-Core Index	2775
 Notre Dame Global Adaptation Index	969,2487
-Notre Dame Global Adaptation Initiative's Index.	6539
+Notre Dame Global Adaptation Initiative's Index	6539
 Number of Granted Individual Research Licenses	2775
 Number of Individual Research Licenses Granted	2775
 OBJECTIF GLOBAL INDICATEURS D’IMPACT OBJECTIF GLOBAL	10712
 OBJECTIFS SPÉCIFIQUES INDICATEURS D’EFFET Rapports	10712
-OECD Digital Services Trade Restrictiveness Index.	1031
+OECD Digital Services Trade Restrictiveness Index	1031
 OECD ICT Industries ISIC Rev	236
 OECD’s Trade Facilitation Indicators	1828
-OGP’s Inde...	9022
+OGP’s Inde	9022
 OGP’s Independent Reporting Mechanism	9022
 OTR's Commissioner for Customs and Indirect Taxes. Use	3674
 Océan Indien	6883
@@ -1552,7 +1498,7 @@ PROGRAM DESIGN INDICATORS DECISIONS Component	3604
 PROMOCION DE EMPRESAS E INDUSTRIAS	4209
 PROMOCION EMPRESARIAL E INDUSTRIA Servicio	4209
 PROMOCIÓN DE EMPRESAS E INDUSTRIAS	4209
-PROMOCIÓN INDUSTRIAS Y PROTECCIÓN DE GRAL.	4209
+PROMOCIÓN INDUSTRIAS Y PROTECCIÓN DE GRAL	4209
 PROMOVER O SECTOR E A INDÚSTRIA	2125
 PROTECTION OF INDIVIDUALS WITH REGARD	25
 PSPs Scope System Type Binary Indicates	7221
@@ -1566,8 +1512,7 @@ Partnership and Collaboration Index	10550
 Passport Guidance and Case Intelligence OR Indexing	10347
 Patel A. SMARTHealth India	1219
 Payment Card Industry	434
-Payment Card Industry Data Security Standard	2312,38
-Payment Card Industry Data Security Standard.	6938
+Payment Card Industry Data Security Standard	2312,38,4588
 Payments Council of India	5124
 Paystack Index	6848
 Percentage Industry	2775
@@ -1585,7 +1530,7 @@ Performance Indicators and Benchmarking	9855
 Performance Indicators for Deposit Taking SACCOs	2775
 Performance Indicators for General Insurance Business	2775
 Performance Indicators for Life Insurance Business	2775
-Performance Key Indicators for National CIRTs.	318
+Performance Key Indicators for National CIRTs	318
 Performance Metrics Induded	3972
 Performance Metrics and Governance Maturity Indicators	3861
 Petroleum Industry Performance	408
@@ -1613,7 +1558,7 @@ Processor INST-7253202629D NAIROBI India	7167
 Producer Price Index	2775
 Producer Prices Index	2775
 Production Industrielle	9615
-Production Privée Indépendante.	1993
+Production Privée Indépendante	1993
 Programme Indicatif Multi-Annuel	643
 Programme Indicatif Multi-Annuel Régional	643
 Project Development Objective Indicators	1228,56
@@ -1634,12 +1579,11 @@ Quality of Service Key Performance Indicators	9110
 Quantum Indices	2775
 Quantum Indices of Manufacturing Production	2775
 Quantum and Price Indices of Recorded Sales of Agricultural	2775
-Quarter African Prepaid Pricing Index	236
 Quarterly Construction Inputs Price Indices and Inflation	2775
 Quarterly Indicator	6671
 Quarterly Producer Price Index	2775
 Quarterly Variation Indicator	6671
-RECOPILAC. MEDIO AMBIENTE INDUSTRIAL Y GRAL.	4209
+RECOPILAC. MEDIO AMBIENTE INDUSTRIAL Y GRAL	4209
 REPORT OF THE INDEPENDENT REPORTING ACCOUNTANTS	4896
 REPORT OF THE INDEPENDENT TECHNICAL ADVISORY	1679
 RESULTATS ATTENDUS INDICATEURS DE RESULTAT Disponibilité	10712
@@ -1679,7 +1623,7 @@ Revise Individuals	4653
 Revised Indicator Name Baseline Actual	4653
 Revolução Industrial	2816,7735
 Revolução Industrial. Apesar	2816
-Reward Index.	6152
+Reward Index	6152
 Rights of Indigenous Populations	8485
 Road Construction Index	3583
 Role of Industry Industry	4528
@@ -1706,6 +1650,7 @@ Scope Subsystem Type Nominal Indicates	7221
 Scope System Type Binary Indicates	7221
 Scope System Type Categorical Indicates	7221
 Scope System Type Nominal Indicates	7221
+Second Industrial Revolution	2093
 Selected Aviation Industry Indicators	2775
 Selected Aviation Industry Indicators Postal Services	2775
 Selected EPZ Performance Indicators	2775
@@ -1717,7 +1662,7 @@ Selection of Individual Consultant	1243
 Service Delivery Indicator	10188
 Service Industry	5765
 Services Index	1885
-Seychelles and India.	6894
+Seychelles and India	6894
 Sherloc. Related Indicator	7221
 Shishkova. Individual	9902
 Sierra Leone Extractive Industries Technical Assistance	2889
@@ -1736,7 +1681,7 @@ South African Journal of Industrial Engineering	7759
 South Africa’s Independent Communications Authority	6906
 South Atlantic and Indian Ocean	4448
 South India	771
-South Indian SMEs'	9129
+South Indian SMEs	9129
 South Sudan's Human Development Index	3583
 Southern Africa and Indian Ocean Region European	467
 Space Industry	8787
@@ -1796,10 +1741,9 @@ Telecommunication Infrastructure Index	1353
 Telecommunications Industry Association	3604
 Telecommunications Infrastructure Index	1893,19
 Telecoms Industry Active Subscriber Statistics	3862
-Terra Industries	10162,37,1
+Terra Industries	8780,1382,37,1
 Terra Industries Terra's London	10199
 Terra Industries' Nigeria-based	10162
-Terra Industries.	8780
 Times of India	6692
 Tobacco Industry and Marketing Board	3742
 Tobacco Transportation Health Care Materials Industrials	4972
@@ -1811,11 +1755,10 @@ Trade Promotion Agencies and Industry Bodies	5247
 Trade and Industry	1988,1315,1944,5066,315
 Trade and Industry Executive Summary	5247
 Trade and Industry The Ministry of Home Affairs	1988
-Trade and Industry.	5247
 Traditional Indigenous	8868
 Transform Industrial Sites Hicham Zouaoui Revolutionizes	7324
-Transparency International Corruption Index. CAR’s	969
-Transparency International Corruption Perceptions Index.	3584
+Transparency International Corruption Index. CAR	969
+Transparency International Corruption Perceptions Index	3584
 Transparency International's Corruption Perception Index.138	3583
 Transparency International’s Corruption Perception Index	1284
 Trends Reshaping Africa’s Mobile Industry	6714
@@ -1827,7 +1770,7 @@ Type of Service Indicator Baseline Forecast	236
 U.N. E-Government Development Index	5114
 U.S. RTP and India’s UPI	4848
 UK and India	1814,5834
-UN E-Gov Index.	5114
+UN E-Gov Index	5114
 UN E-Government Development Index	1264,626,3,478,3,1211,221,409,84,705
 UN Health Industry Foundation	5658
 UN Human Development Index	3584
@@ -1870,10 +1813,10 @@ Water and Sanitation Indaba	2626
 Water and Sanitation Indicators	2775
 Wellness Index	9045
 West Indian Ocean Cable Company	517,2,439,2824,1211,2073
-West Indian Ocean Cable Company Ltd.	284,216
+West Indian Ocean Cable Company Ltd	284,216
 West Indian Ocean Cable Company. Earlier	2677
 Western Africa. PDO Level Indicators	1264
-Whether India’s	6411
+Whether India	6411
 World Athletics Indoor Championship	2626
 World Athletics Indoor Championships	2626
 World Athletics Indoor Championships.c	2626
@@ -1891,8 +1834,7 @@ World Bank’s Worldwide Governance Indicators	1828
 World Development Indicators	4325
 World Economic Forum’s Network Readiness Index	236
 World Indices	7343
-World Justice Project Rule of Law Index	4528
-World Justice Project Rule of Law Index.	5321
+World Justice Project Rule of Law Index	4528,793
 World Press Freedom Index	9679
 World Wide Industrial	7055
 Worldwide Governance Indicators	8075

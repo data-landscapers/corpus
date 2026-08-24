@@ -28,11 +28,10 @@ CC&author	2096,3146
 CC-BY	6879,2601
 CC-BY-SA	5618
 CC. Em	8745
-CC2024.	5700
+CC2024	5700
 CCA Bank	8356
 CCA-Bank	2130,1649,364
 CCA-Bank Cameroon	2130
-CCA-Bank.	2130,2013
 CCAF and Fii	8074
 CCAK. Un	10096
 CCB-CE	10721
@@ -92,11 +91,8 @@ CCOW Authentication	1009
 CCOW Standard	1009
 CCOW' Patient Master	1009
 CCOs. Previously	1391
-CCP's	8890
 CCP-controlled	10444
-CCPA.	3907
 CCPCJ	2117
-CCPCJ.	2117
 CCS MITUNGUU MEDICAL CLINIC Data Controller	7167
 CCS MITUNGUU MEDICAL CLINIC Data Processor	7167
 CCSRS	6938
@@ -120,9 +116,6 @@ CSP CSP CSP CCC-	9123
 Cameroon's CCA-Bank	2130
 CcHUB	1580,6747,562,1281
 CcHUB Communications	8327
-CcHUB's	8327
-CcHUB.	8327,562
-CcHUB’s	10170
 CcahtiilodnCs	1154
 Cci-CI	2418
 Cctld	2815
@@ -138,8 +131,8 @@ Egypt Egypt ACH System CCAA	6938
 Full CCB-CRD.S1	10721
 Full CCB-CSD.S1 GC-RRA	10721
 Future of Learning Ends. About CcHUB Co-creation	8327
-G5 Sahel CCDR.	1264
-Hub and Nigeria’s CcHUB.	2677
+G5 Sahel CCDR	1264
+Hub and Nigeria’s CcHUB	2677
 IAAS PAAS SAAS CCC-	9123
 ID Financing Instrument Resp CC Req	1284
 Includes CCTV	121,62,64,12,80,2,1,16,117,170,1
@@ -170,12 +163,11 @@ Republic of Zambia CC	9082
 SADC CCBG	6720
 SD. La CCMP-CPP	5907
 Security. A CCTV	315
-Service CCMP.S7 Providers.	10721
+Service CCMP.S7 Providers	10721
 SmartCare Legacy CCPTS	2477
 Standard Operating Procedure CCMP.S6	10721
 TI AN CCRA TERN AL TR	2776
-US CCG	3375
-US CCG's	3001
+US CCG	3001,374
 Uganda Police National CCTV Network Expansion	315
 WB Angola CCDR	800
 World Bank Angola CCDR	800

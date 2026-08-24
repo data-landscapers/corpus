@@ -9,7 +9,7 @@ Algeria Real Time Settle-	6938
 Algeria Sets One-Month Deadline for Government Data	6678,209,414,15,8
 Ange J.A de Berry Quenum Algeria Sets	6678
 Assessment Setting	1824
-Authority. MICT SETA.	6832
+Authority. MICT SETA	6832
 Badejo-Okusanya Set	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Bank for International Settlements	6938,2393,180,198
 Benin Sets	4962
@@ -21,9 +21,8 @@ CBL Director of Payments and Settlements Mothetsi Sekoati	2849
 CENTRAL DEPOSITORY AND SETTLEMENT CORPORATION LIMITED	7167
 COMESA’s Regional Payment and Settlement System	10372
 Call Setup Time	5744
-Casablanca and Settat	3375
-Casablanca and Settat.	10004
-Central Depository and Settlement Corporation.	7567
+Casablanca and Settat	3375,6629
+Central Depository and Settlement Corporation	7567
 Channels Thuso Setsetse	9466
 Check Settlement	6938
 Clearing and Settlement Services	4896
@@ -63,16 +62,13 @@ Gap Alone Set	10015
 Gender Value Set Administrative Gender MaritalStatus	6666
 Ghana Interbank Payment and Settlement Systems	6075,22
 Ghana Interbank Payment and Settlement Systems Limited	982
-Global Settlement Network	5743
-Global Settlement Network.	7578
-Global Settlement Network’s	5743
+Global Settlement Network	5743,1835
 Guidelines for Setting	318
 High Resolution Settlement Layer	1013
 Housing and Human Settlements Development	6123
 Housing and Settlement	1131,1644
 Human Settlements and Land Use Reaseach and Policy	4482
 Human Settlements and Land Use Research and Policy	1514
-Human Settlements and Land Use Research and Policy.	1514
 Implementation Unit RF Results Framework SETIC	1284
 Independent Financial Advisors Settlement	4896
 Information Age SETA	6832
@@ -93,7 +89,6 @@ Khushboo Razdan and Nayan Seth	10445
 Labour Market Intelligence MICT SETA	6832
 Land Settlement Fund	10313
 Land Settlement Fund and Railway Development Fund	10313
-Land Settlement Fund.	10313
 Land Settlements Fund	10313
 Liberian National Police. Set	1777
 Libya. Set	6697
@@ -110,18 +105,15 @@ MICT SETA's Accounting Authority	7622
 MICT SETA-	6832
 MICT SETA-funded	6832
 MICT SETA-funded WBL	6832
-MICT SETA.	6832
 MICT SETA. The National Skills Authority	7622
 MLGRD Human Settlements and Land Use Research	1513
 Madagascar Set	6246,599
 Malawi Interbank Transfer and Settlement System	2299,3532
-Malawi Interbank Transfer and Settlement System.	2299
 Malawi Sets	2922
 Management System and Settlement Distribution Smart Vehicle	4126
 Mauritius Automated Clearing and Settlement System	6938
 Meheba Refuge Settlement Kalumbila District	1988
 Meheba Refugee Settlement	1778,89,121
-Meheba Refugee Settlement.	1778,210
 Meheba Refugee Settlement. Component	1988
 Meheba Settlement	1988
 Meheba Settlement Land	1988
@@ -135,10 +127,9 @@ National Indicator Data Set	396
 National Indicator Data Set Systems DTPS	396
 National Minister of Human Settlements	8564
 Newsfeed Global Settlement Holdings	5743
-Nigeria Inter-Bank Settlement System	2841,894,196,925,116,734,1360,942,703,1041,967
+Nigeria Inter-Bank Settlement System	2841,894,196,917,8,116,734,1360,942,703,1041,967
 Nigeria Inter-Bank Settlement System Instant Payment	7928
 Nigeria Inter-Bank Settlement System Plc	8292
-Nigeria Inter-Bank Settlement System.	4848
 Nigeria Inter-Bank Settlement System. Nigerian	3498
 Nigeria Inter-bank Settlement System	2318
 Nigeria Interbank Settlement System	7179
@@ -199,7 +190,6 @@ SETIC-FP. SETIC-FP	5588
 SETIC-IFC	2383
 SETIC-PIU	1284
 SETIC-PIU Implementing Agency	1284
-SETIC.	1284,1888
 SETIC’s FM	1284
 Senate Session That Set the Tone	9517
 Set Administrative Marital Status Zimbabwe	6666
@@ -212,12 +202,11 @@ Set Up	1204
 Set for November Launch	2510
 Set of Principles for Conducting and Evaluating Interpretive	5349
 Set-up	1000
-Set-up Institutional Governance Framework for Cybersecurity.	1000
+Set-up Institutional Governance Framework for Cybersecurity	1000
 Set. Artículo	163
 Setect	3972
-Setembro	13,417,144,2,219,731,612,678,277,426,8,79,1,433,4,159,2259,390,675,1469,1329
+Setembro	13,417,144,2,219,731,612,678,277,426,8,79,1,433,4,159,2259,390,675,1469,913,416
 Setembro Havendo	576
-Setembro.	9909
 Setembro. Artigo	6462
 Setembro. Na Sessão Plenária	2816
 Sethibe	4432
@@ -230,7 +219,7 @@ Setor de Bambadinca	3246
 Setrag	9631
 Sets Ambitious	4917,1676
 Sets New Priorities Gabon’s Ministry of Digital	8541
-Sets Roadmap for Scaling African Solutions Rwanda's	8674
+Sets Roadmap for Scaling African Solutions Rwanda	8674
 Sets Terminology	6666
 Sets Up Investigative Panel Sierra Leonean	6355
 Setsetse	9466
@@ -247,7 +236,6 @@ Settlement	395,1472,121,2908,359,608
 Settlement Agreement	3962
 Settlement Community	1988
 Settlement Date	4896
-Settlement Date.	4896
 Settlement Fund Trust	10313
 Settlement Fund Trustee	10313
 Settlement Law	969
@@ -280,7 +268,7 @@ Temperatures STBs Set Top Boxes SUA	2775
 Test Environment Setup	5665
 Through the Pan-African Payment and Settlement System	9593
 Togo Sets New Priorities	8610,233
-Tongogara Refugee Settlement.	9794
+Tongogara Refugee Settlement	9794
 US-based Global Settlement Network	3727
 Unique Nuances of Settling	5863
 Updated Set of Principles	3583

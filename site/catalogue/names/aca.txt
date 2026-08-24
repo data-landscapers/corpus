@@ -7,7 +7,6 @@ ACADEMIC CITY	6936
 ACADEMICS DONORS AND VENDORS	9399
 ACAFEJ	9512
 ACAPS	568,5062,291,1017,9,1944
-ACAPS.	5921,1026
 AI Academia	4126
 AI Academy Bill	7853
 AI Academy Nigeria	10133
@@ -23,8 +22,7 @@ Academia A Academia	2816
 Academia Academia	1000,4244
 Academia CSIRTs	2989
 Academia and Research	7548
-Academia and Research Institutions	4528
-Academia and Research Institutions.	1261
+Academia and Research Institutions	1261,3267
 Academia and Scientific Networks	3861
 Academia de Ciências Policiais	7736
 Academia de Sites	6837
@@ -42,10 +40,8 @@ Academic Chair	4991
 Academic City	4126,6258
 Academic City University	6936,3448,311
 Academic City University College	4126
-Academic City University College.	4126
 Academic City University IIPGH Cyber Security	6936
 Academic City University Susanna Otoo	6936
-Academic City University.	6936
 Academic City University. Disclaimer	6936
 Academic City University. Dr Sena Agbodjah	6936
 Academic City University. References Cybersecurity Act	6936
@@ -54,12 +50,11 @@ Academic Conferences International	9237
 Academic Forum	8460
 Academic Journal of Interdisciplinary Studies_	2093
 Academic Lead	5598
-Academic Librarians’	8022
+Academic Librarians	8022
 Academic Press	8130
 Academic and Research Institutions	1261
-Academic and Research Institutions.	1261
 Academics	991,5841,3183
-Academy	1362,2024,311,2124,715,57,122,1138,2018
+Academy	1362,2024,311,2124,715,57,122,231,907,2018
 Academy Award-winning	3711
 Academy Journal of Small Business and Enterprise Development	9129
 Academy SDG Sustainable Development Goal SME	4126
@@ -67,7 +62,6 @@ Academy of Contemporary China and World Studies	1554
 Academy of Management Journal_	5349
 Academy of Science	10451
 Academy of Science of South Africa	5246
-Academy.	6946
 Académica	4209
 Académie	4402,3268,599,1006
 Académie des Sciences du Mali	12
@@ -93,9 +87,8 @@ CITY ROSE ACADEMY LIMITED Data Processor	7167
 CUNY Academic Works	1261
 China Academy of Information and Communications Technology	7174
 China’s Academy of Military Sciences	8510
-Cisco Networking Academy	3134,4345,2142,134,492
+Cisco Networking Academy	2149,948,37,4345,2142,134,492
 Cisco Networking Academy's One Million Learners	8512
-Cisco Networking Academy.	2149,948
 Civic Academy for Africa’s Future	10089
 Cloud Hero and Google Hustle Academy. Google	1590
 Coding Academy	8016
@@ -143,10 +136,10 @@ Hanley Group Academy	10247
 Hanley Group and Cisco Networking Academy	10247
 Head of State. The Simandou Academy	4036
 Heritage International Leadership Academy Ex-PUL President	4261
-Huawei Global Academy.	6541
+Huawei Global Academy	6541
 Huawei ICT Academy	4060,5695
-Huawei ICT Academy Programme.	8560
-Huawei's Global Academy.	10215
+Huawei ICT Academy Programme	8560
+Huawei's Global Academy	10215
 Huawei's ICT Academy	10015
 Huawei’s Global Academy. Zambia and China	10215
 Hustle Academy	1362,1,4402
@@ -159,7 +152,7 @@ International Journal of Academic Research	5349,1929,1851
 Interoperable Europe Academy	6468
 Journal of Academic Science_	5349
 June. Cisco Networking Academy	10247
-KPMG and Tablet Academy.	9202
+KPMG and Tablet Academy	9202
 Kouma Academy	9845
 Language Academy	10451
 Liberia National Police Training Academy	5244
@@ -174,11 +167,11 @@ MTN Skills Academy	6593,1816,1462,271
 Male Academic	9128
 Maxeke Johannesburg Academic Hospital	8603
 Media Academy for Journalism and Communication	9313
-NACIONAL Y ACADEMIAS FUERZAS ARMADAS R.	4209
+NACIONAL Y ACADEMIAS FUERZAS ARMADAS R	4209
 Nairobi Jiu-Jitsu Academy	10464
 Namibia. Academic	5036
 National AI Academy	7853,678
-National AI Governance Academy.	4528
+National AI Governance Academy	4528
 National Research and Academic Network LTA Liberia	1777
 Networking Academy	10247
 Nigerian Academy of Science	7187
@@ -189,7 +182,7 @@ OpenAI Academy	5042,1673
 Ostafrika Academic Center for Digital Innovation	178
 POTRAZ ZIMCHE Academia Parliament Service	958
 Paradigm Initiative’s Digital Rights Academy	7101
-Powers Africa Digital Academy.	7687
+Powers Africa Digital Academy	7687
 President of Academic City University	6936
 Public Sector AI Academies	4528
 RECLUTAM. Y ACADEMIAS- Concepto	4209
@@ -203,7 +196,6 @@ Rising Academies	6232
 Role of Academia Academia	4528
 Rwanda Coding Academy	697,73,6727,409,933
 Rwanda Coding Academy Capacity Development	770
-Rwanda Coding Academy.	697,8142
 Rwanda’s Coding Academy	2702
 SA Legal Academy	8398
 SADA Smart Africa Digital Academy SCMD	1264
@@ -226,7 +218,6 @@ Tech Academy	3608
 U.S. National Academy of Medicine	3651
 UDOM Deputy Vice Chancellor for Academic	8614
 University of Stellenbosch Military Academy	8134
-University of Stellenbosch Military Academy.	8134
 VITIB Académie	1005
 Virtual Privacy Academy	2809
 Y ACADEMÍAS NAVAL	4209

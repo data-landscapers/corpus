@@ -18,7 +18,7 @@ Artificial Intelligence and Bachelor of Science	8839
 Availability and Back	6432
 BAC A SABLE REGLEMENTAIRE	4567
 BAC. La	737
-BACE Group.	4126
+BACE Group	4126
 BACHELOR’S DIARY	9646
 BACKDOORS LIMITED Data Controller INST-801820A4964 MOMBASA	7167
 BACKFILL	1706,18,4,2019
@@ -46,12 +46,12 @@ BAckah	5349
 Bacara	5783
 Bacary Sarr	2478,7412,688
 Baccalauréat	8420
-Baccelerating.	3782
+Baccelerating	3782
 Baccess	3782
 Baccess&doi	3782
 Baccini	1243
 Baccuses	4676
-Bachelor	582,418
+Bachelor	582,418,940,5006,2291
 Bachelor of Accountancy	4896
 Bachelor of Accounting Science	4896
 Bachelor of Arts	5315,1517,114
@@ -71,11 +71,9 @@ Bachelor of Political Science	6946
 Bachelor of Science	6832,114,1893,44
 Bachelor of Science Honours	6832
 Bachelor of Technology	6832
-Bachelor's	9237
 Bachelor's Degree	3678
 Bachelor's of Engineering	4896
 Bachelors	1204
-Bachelor’s	1940,5006
 Bachi	9277
 Bachrach	8283
 Bacias Hidrográficas de S. João Batista	1265
@@ -164,17 +162,16 @@ Building Africa's Digital Backbone	9350
 Building the Backbone Gungadin	7367
 Building the Technical Talent Backbone	10157
 Burundi Launches Real-Time Payments Platform Backed	5971
-Business and Background of Entities.	7198
-Business and Background of Natural Persons.	7198
+Business and Background of Entities	7198
+Business and Background of Natural Persons	7198
 Buy and Lease Back	80
 CONTENTS I. BACKGROUND AND RATIONALE	1284
 Call Ring Back Tone	3862
 Cameroon Baccalaureate Office	4670
 Cameroon Backbone Expansion Project	55
 Cameroon Fiber Optic Transmission Backbone Project	55
-Cameroon Fiber Optic Transmission Backbone Project.	55
 Cameroon Fibre Optic Transmission Backbone Extension	4473
-Can Take That Value Back.	5700
+Can Take That Value Back	5700
 Cash Back	6504
 Central Africa Backbone	117,1147
 Central Africa Fibre-Optic Backbone	174,1541
@@ -211,7 +208,7 @@ Fiber Backbone Deployment	1264
 Fiber Backbone Energy Efficiency Improvements	1264
 Filipinas BACAY	6613
 Forward and Backward	5247
-Fraud Is Holding Back Ghana's	7114,40,8
+Fraud Is Holding Back Ghana	7114,40,8
 Fuel Backup Storage On-site	9446
 Galaxy Backbone	3557,302,1866,746,109,486,1055,302,557,593,98
 Galaxy Backbone Building	5903
@@ -227,8 +224,7 @@ Google Backs AI Innovation Across Africa	8698
 Guinean Backbone Management Society	3089
 Général de Brigade Ibroh Amadou Bacharou	7333
 HNSF BACKWARDS COMPATIBILITY Authenticate	1009
-Holding Back Ghana's Digital Economy	7606
-Holding Back Ghana's Digital Economy.	9075
+Holding Back Ghana's Digital Economy	7606,1469
 I. BACKGROUND AND RATIONALE FOR ADDITIONAL	1284,1605
 I. Background and Purpose Executive Order	5773
 ICANN’S Emergency Back-end Registry Operator	3502
@@ -246,14 +242,13 @@ Ksh.4.45 Billion Through the Back Door State	6588
 Launch ATLAS Umoja Backed	7825
 Line Back	3954,1817,84,268,178,427
 Locations Backu	6432
-M Transmission Backbone Project.	1539
+M Transmission Backbone Project	1539
 M U.S. Backing for Digital Sovereignty	2869
 M. Dhoihirdine Ahamada Bacar	5814
 MDA. Backbone	9123
 MPLS Backbone	10721
 MTN Ghana Backs Phased SIM Re-Registration	5524
 Malawi National Fibre Backbone Project	127
-Malawi National Fibre Backbone Project.	127
 Malawi Secures World Bank Backing	5548
 Manda and Backhouse	2093
 Middle and Back Office	8018
@@ -269,30 +264,27 @@ NATO’s Digital Back End Could Fall	7471
 NITA-U’s National Backbone Infrastructure Phase V	8032
 NITDA and Galaxy Backbone	9573,98,82
 Namazihana Bachoke Patrick	6620
+National Backbone	54
 National Backbone Converged Institutions	958
 National Backbone Fiber	35
 National Backbone Fiber Network Project	5293
 National Backbone Fiber Optic Cable Network	35,9531
 National Backbone Infrastructure	1283,1767,5911
 National Backbone Infrastructure. Reflecting	8961
+National Backbone Network	5445
 National Backbone Network P34	2647
 National Backbone Network P65	5646
-National Backbone Network.	5445
 National Backbone Optical Cable Network and Communication	35,9531
 National Backbone Project	4840
-National Backbone’.	54
 National Data Transmission Backbone Infrastructure	1150,133
 National Fiber Backbone Expansion Feasibility Study	1569
 National Fibre Backbone	6000
 National Fibre Backbone Project	127,213,143
-National Fibre Backbone Project.	483
 National Fibre Backbone Project. The GCL	483
 National Fibre Optic Backbone Infrastructure Project	360
-National Fibre Optic Backbone Infrastructure Project.	360
 National Fibre Optic Backbone Project	10157
 National ICT Backbone	6030
 National ICT Broadband Backbone	1122,1745,2848,68,237,1,1,146,578,359,660,449,935
-National ICT Broadband Backbone.	6022
 National Optic Fibre Backbone Infrastructure	126
 National Optical Fibre Backbone Infrastructure	1164
 National Telecommunications Backbone Project	337
@@ -348,4 +340,4 @@ World Bank Backs Burkina Faso's Nationwide	4963
 Yeah. Back	6985
 Zambia Is Back	5247
 Ziani Mohammed Bachir Rachdi Idriss Ilali	8891
-Zimbabwe’s Digital ICT Backbone.	7036
+Zimbabwe’s Digital ICT Backbone	7036

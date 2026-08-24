@@ -1,7 +1,7 @@
 Acueil Tchad Inauguration	4333
 Africa Inaugurated	7207
 C04 Inadequate	9237
-CMCs and INAGE’s	2989
+CMCs and INAGE	2989
 Cape Verde Inaugurates	2803
 Chad Inaugurates Strategic Regulatory Platforms	6752
 Chief Executive Officer of INACOM	6797
@@ -32,11 +32,8 @@ INAGE	570,426,1477,343,173,69,1156,296,143,4781
 INAGE Desenvolve Sistema de Armazenamento de Arquivos	570
 INAGE National Electronic Government	2473
 INAGE and INITIC	2473
-INAGE and INITIC.	2473
-INAGE and INTIC	772,2217
-INAGE and INTIC.	761
+INAGE and INTIC	761,11,2217
 INAMET	13,1688,7339
-INAMET.	1701
 INAP. La	4402
 INAPEM	2573
 INASA	10188
@@ -87,7 +84,6 @@ Inauguration du HUB	2370
 Inauguração	4250
 Inauguré	7031
 Inavatric	7065
-Inavatric.	7065
 Inteligência Artificial INAGE	2816
 Inversión Extranjera Directa INAP	1701
 Kazuo Inaba	1828

@@ -14,10 +14,10 @@ ACM SIGPLAN Annual Symposium	8606
 ACP Annual Report	254
 ACTUAL CUOTA ANUAL	4209
 ADEA and Angola's Ministry of Education	10359
-ADMVA Y ANTIC.	4209
+ADMVA Y ANTIC	4209
 AEAA Annual Conference	10675
 AENF Annexe	2966
-AFRA Annual Management Meeting.	5755
+AFRA Annual Management Meeting	5755
 AFRINIC Annual General Members Meeting	10079
 AFRINIC Annual General Members' Meeting	585
 AGBOYINOU Angelo	10712
@@ -43,17 +43,14 @@ ANAB SUP	8420
 ANABH	7670,651
 ANACIM	7640
 ANACOM	5404
-ANACOM's	5404
 ANACOOP	9174,336
 ANACoD3	7838
 ANADEC	8901
-ANADEN	324,419,1851,221,20,17,108,40,59,2311,675,2315
+ANADEN	324,419,1851,221,20,17,108,40,59,2311,675,2315,517
 ANADEN INFORMATION	743
 ANADEN Vous	743
 ANADEN of UA	5370
-ANADEN's	324,2636,5917
 ANADEN's DG	324
-ANADEN.	743
 ANADEN. Cette	5370
 ANADEN. Comoros	3059
 ANADEN. Nous	8360
@@ -61,7 +58,6 @@ ANADER	2342
 ANADER Date	2342
 ANAIP	113
 ANAIP Article	113
-ANAIP.	113
 ANAIP. Article	113
 ANAIP. Elle	113
 ANAIP. Il	113
@@ -96,10 +92,8 @@ ANATT	7212
 ANC MP	8272
 ANC MPs	5507
 ANC Module WHAT IS DIGITAL HEALTH	2477
-ANC Visit	2775
-ANC and ANSIE's	4255
+ANC and ANSIE	4255
 ANC and EPI	771
-ANC's	4197,7,51
 ANC-led	7532
 ANCA-CERT	6450
 ANCE Socle	8525
@@ -113,7 +107,6 @@ ANCIC	6992
 ANCIC. GNQ	5525
 ANCIEN S	998
 ANCIENS COMBATTANTS Conseiller	8237
-ANCS.	1989
 ANCY Sécurité	8525
 ANCY. Formation	8525
 ANCy. Pour	3866
@@ -131,16 +124,15 @@ ANDRIAMAMONJIARISON	6613
 ANE ANE ANE ANE PIU PIU	2989
 ANE ANE PIU PIU PIU PIU	2989
 ANE IP	2989
-ANE's	1748,207,1154,365,731,75,259
+ANE's	3109
 ANE's Centre de Traitement des Données	2366
 ANE. M. Agbetse	3109
 ANEC CEC Assurer	3381
-ANEC Director-General's	3381
+ANEC Director-General	3381
 ANEC Facebook	3381
 ANEC Financement	3381
 ANEC Usagers Etats	3381
 ANEC du Sénégal La Digitalisation	3381
-ANEC.	3856
 ANEC. Ainsi	9581
 ANEC. MS	10174
 ANECI	4874
@@ -214,7 +206,6 @@ ANGOTIC-2026	6617,1050
 ANGUI Pascal FAITS MARQUANTS Effectif	2342
 ANI Last Updated	8210
 ANIAD	3494
-ANID.	6134
 ANIJA COMMUNITY MEDICAL HEALTHCARE Data Processor	7167
 ANIMF	5835
 ANINF	1560,606,795,122,42,166,7,64,138,81,136,246,2166,28,622,23,16,1379,1638,2
@@ -222,27 +213,21 @@ ANINF Director General	3291
 ANINF Director General Alberto Mounguengui Moudoki	9837
 ANINF Tower	6779,23
 ANINF and CNAMGS	9837
-ANINF's	3291,3527
 ANINF-ST Digital	3291
 ANINF-ST Partnership Gabon's National Agency for Digital	3291
-ANINF.	6129
 ANIP BJ	2693,2091,28,43
 ANIP DG	3041
 ANIP's Director General	5782
-ANIP.	2697
 ANIP. Ce	3590
 ANIP. En	3590
-ANIP’s	4855
 ANJARWALLA	7167
 ANJENA INTERNATIONAL LIMITED Data Processor INST-40643843A93	7167
 ANJILU MEDICAL SERVICES Data Controller INST-504813570DB	7167
 ANJOY CREDIT LIMITED Data Controller INST-768105A179F	7167
-ANKA's	938
 ANKARA	4209
 ANKARA MEDICAL CENTER LIMITED Data Controller	7167
 ANKICHAR MEDICAL CENTER AND PHARMACY LIMITED	7167
 ANLCA	1049
-ANLCA's	1049
 ANN MWARANIA GAKIRI Data Processor INST-4964778394C	7167
 ANN MWIHAKI WANYOIKE Data Processor INST-536901D3E48	7167
 ANN SEIN WAIRIMU Data Processor INST-994695B1E57	7167
@@ -271,13 +256,13 @@ ANNEXE	998,207,871,2383,800,102,2109,185
 ANNEXE VI	1866,130,52,1,1,1,1,1,907,337,418,665
 ANNEXE-VI	1319,1,1
 ANNEXE-X	1301,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,707,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2260,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-ANNEXE-X.	1301,1,9,7
 ANNEXES	998,245,745,157,821,430,465,598,1196,273,1620,3163
 ANNEXES ANNEX	1243,6305
 ANNEXES Annex	789,1199
 ANNEXES Annexe	998,1968
 ANNEXES I ANNEXE	3396
 ANNEXES MEMBRES DU COMITÉ DE SUPERVISION	10712
+ANNEXES TO OPERATION REPORT	1818
 ANNEXURE	1009,2705,1819
 ANNEXURE B	5533
 ANNEXURE B1	4896
@@ -366,10 +351,11 @@ ANNUAL REPORT Research Council of Zimbabwe	1154
 ANNUAL REPORT Research For Agricultural Excellence	1554
 ANNUAL REPORT Risk Committee Infrastructure Development	1154
 ANNUAL REPORT TABLE OF CONTENTS Acronmys	1154
+ANNUAL REPORT TABLE OF CONTENTS Acronyms	1554
 ANNUAL REPORT THE RESEARCH COUNCIL	1154
 ANNUAL REPORT The Committee	1554
 ANNUAL REPORT The Hominins	1154
-ANNUAL REPORT The RCZ's	1554
+ANNUAL REPORT The RCZ	1554
 ANNUAL REPORT Throughout	1154
 ANNUAL REPORT UZ ZACC ZAS ZERA	1154
 ANNUAL REPORT ZIMBABWE AGRICULTURAL SHOW	1154
@@ -384,7 +370,6 @@ ANO Amoa Antoine	2342
 ANONYMOUS	8726
 ANOTHER POWER GRAB	10581
 ANOVA	1212,1736,5127
-ANOVA.	1212
 ANP-087 Août	9567
 ANP-097 Août	9668
 ANP. Au	2514
@@ -398,18 +383,14 @@ ANPFI Philippe Palenfo	8061
 ANPFI. Créée	8098
 ANPR. Typical	5716
 ANPTIC	6464,1206,1008,43,101,227,460
-ANRMP's	1649
-ANRPTS	765,2111,3107,784
-ANRPTS's	6719
-ANRPTS.	5983
+ANRMP	1649
+ANRPTS	765,2111,3107,736,48
 ANRSI	765
-ANRT's	3896,8
-ANRT.	8828
+ANRT's	3904
 ANRT. Investment	9556
 ANRT. The GSMA	9868
-ANRTIC	324,419,849,351,651,703
+ANRTIC	324,419,849,351,651,703,1045
 ANRTIC Décision N	3297
-ANRTIC's	1592,1705,1045
 ANS Alberto	9799
 ANS. Data	5925
 ANS. Looking	5925
@@ -420,7 +401,6 @@ ANSAH	6613
 ANSARI MEDICAL CLINIC AND LABORATORY Data	7167
 ANSAT	8620
 ANSAT Lire	8673
-ANSD's	6963
 ANSD's Data Center	6963
 ANSD. La	10548
 ANSI INCITS	1009
@@ -428,14 +408,11 @@ ANSI Service	998
 ANSI-TIA	9123
 ANSICE	2314,2611,1,481,4209,196
 ANSICE and ADETIC	4925
-ANSICE.	4926
-ANSICE’s	5407
 ANSIE	4255,147,18
-ANSIE's	4402
 ANSIE's DSSI	4255
 ANSIE. Une	8750
 ANSS. Dr Aminata Camara	4090
-ANSSI	142,22,69,1,201,311,440,105,4,765,1,84,485,54,75,5,332,77,55,237,75,9,55,72,360,177,160,1,586,866,457,317,369,79,104,194,322,13,124,84,1,27,141,13,2,103,160,298,44,1711,143
+ANSSI	142,22,69,1,201,311,440,105,4,765,1,84,485,54,75,5,144,188,77,55,237,75,9,55,72,360,177,160,1,586,866,457,317,369,79,104,194,322,13,124,84,1,27,141,13,2,103,160,298,44,1711,143
 ANSSI Avant	6600
 ANSSI Burkina Faso	8634
 ANSSI CI	7890
@@ -444,11 +421,8 @@ ANSSI Guinée	10532
 ANSSI and ANDE	4036
 ANSSI and CEPICI	4664
 ANSSI and Canal	3540
-ANSSI's	142,22,70,512,440,959,619,144,2918,1143
-ANSSI-CI	7439,450,1,181,105,5
-ANSSI-CI's	7439,366,85
-ANSSI.	7152
-ANSSI. ANSSI's	2759
+ANSSI-CI	7439,366,84,1,181,105,5
+ANSSI. ANSSI	2759
 ANSSI. Article	7152
 ANSSI. Fait	7346
 ANSSI. Le	7152
@@ -474,13 +448,11 @@ ANTIC	1592,1103,963,327,225,9,304,170,10,61,1511,145,318,598,2280,754
 ANTIC Director General Prof. Ebot Ebot	4693,2045
 ANTIC Director General Professor Ebot Ebot	7336
 ANTIC Drives Push for Secure and Sovereign Internet	6738
-ANTIC's	4703,4913
 ANTIC's CIRT	4703
 ANTIC. Cette	4210
 ANTIC. Mais	3985
-ANTICORRUPC.	4209
+ANTICORRUPC	4209
 ANTICORRUPCION	4209
-ANTIC’s	4703
 ANTIDROGAS MILITAR	4209
 ANTIQUE AUCTIONS AGENCIES Data Controller INST-9739624C69E	7167
 ANTIQUE AUCTIONS AGENCIES Data Processor INST-9739624C69E	7167
@@ -495,7 +467,6 @@ ANUAL Ficha	4209
 ANUAL MENSUAL ANUAL MENSUAL A8	4209
 ANUTTC	4125,13
 ANVISA	3651
-ANVT.	8028
 ANY ACTUAL OR POTENTIAL HARM	2709
 ANY OTHER RELEVANT INFORMATION DECLARATION I	2709
 ANY Security Printing	2970,6429,591
@@ -505,7 +476,7 @@ ANYUOLA PRIMECURE HOSPITAL LIMITED Data Processor	7167
 ANZA CLOUD LIMITED Data Controller INST-985923D5FE7	7167
 ANqtz-_6hfNZU63XlphD9lOY1QpDFNa7Ig-k0eZY8xXU8_	9237
 ANstat	3604
-APD Angola's	9105
+APD Angola	9105
 APRÈS LES ANNONCES	8637
 ARCEP RAPPORT ANNUEL	998
 ARCEP-090720 CODAN C-463 Antenne HF	998
@@ -521,8 +492,8 @@ Abubak Haji. Another	10676
 Accord ANADEN	2960
 Accès Internet. RAPPORT ANNUEL	998
 Acen Anna	3005
-Acen Anna and Nafula Jesca.	3005
-Acessado O Antagonista.	2816
+Acen Anna and Nafula Jesca	3005
+Acessado O Antagonista	2816
 Across Anambra	3133
 Act. Any	3714
 Act. Whistle-blowing Another	9628
@@ -549,14 +520,13 @@ Affaires Dr. Melanie Anne Zimmerman	4340,5
 Affordable Medicine Trust and Another	2307
 Afreximbank Annual Report	6938
 Africa Analysis	6832,3705
-Africa Analysis.	6832
 Africa CEO Forum Annual Summit	7596
 Africa Network for Animal Welfare	7167
 Africa Privacy Ai Andersen	6632
 Africa. African Space Industry Annual Report	6467
 Africa. Another	3299
 Africa. Antwi-Gyekyi	9538
-Africa. Combining Anthropic’s	1636
+Africa. Combining Anthropic	1636
 Africa. Mukuru Group CEO Andy Jury	10418
 Africa. The Angolan	4275
 AfricaInvestment Analysis Mobile	5125
@@ -601,7 +571,6 @@ Ana Tomičić ARETE Institute for Sustainable Prosperity	7810
 Ana_headshot_small.png	7590
 Anacarde	10096
 Anaden	2815,2854,2322,886,1045,66
-Anaden.	2815
 Anaden. Pour	2815
 Anadolu	5044,4572
 Anaglyphe	9615
@@ -647,7 +616,7 @@ Analysis of Data Dissemination and Use Practices	1261
 Analysis of Factors	226
 Analysis of Issues Shaping Africa’s Economic	4972
 Analysis of Key Fiscal Ratios	2775
-Analysis of Liberia's	2456
+Analysis of Liberia	2456
 Analysis of Point of Presence	3862
 Analysis of SAQA	6832
 Analysis. Retrieved	7548
@@ -659,7 +628,6 @@ Analysiscommencedwithrepeatedreadingsofthe	8602
 Analyst	1347,1338,2,359,86,176,15,119,65,122,468,285,162,96,374,93,240,768,308,388,127,311
 Analyst Functions	6423
 Analyst I	6423
-Analyst.	6423
 Analyste	747,8868
 Analystes	1187
 Analysts	899,2679,2,45,32,887,124,22,520,5,248,308,170,1,43,76,187,63,22,90,409,1376,379,803,9,747,135,163
@@ -676,12 +644,10 @@ Analytically	7966
 Analytics	1284,2623,2274,1085,68,1794,109,1484
 Analytics Analytics Analytical	6181
 Analytics Centre of Excellence	1590
-Analytics India Mag_.	3598
+Analytics India Mag_	3598
 Analytics Intelligence	10164
 Analytics Intelligence Partners	10164
 Analytics Intelligence and OADC	10164
-Analytics Intelligence's	10164
-Analytics Intelligence.	10164
 Analytics Report	10721
 Analytics and AI Governance Sub-Committee	10343
 AnalyticsSyncHistory1	3907
@@ -695,16 +661,13 @@ Anambra Digital Tribe	10160
 Anambra Governs	9936
 Anambra State	4690,5362,108
 Anambra State Government	10160
-Anambra State Government House.	3133
+Anambra State Government House	3133
 Anambra State ICT Agency	3133,1557,5218,28,116
 Anambra State ICT Agency When Governor	9936
 Anambra State ICT Agency. Anambra State	9908
-Anambra State.	10160
-Anambra's	9908
 AnambraAugust	9876
-Anambra’s	3133,1557,5246
+Anamola	5173
 Anamola Party The Anamola	5173
-Anamola's	5173
 Anand	9237,38
 Ananda Marga Universal Relief Team	7167
 Anane	3791
@@ -727,7 +690,7 @@ Anatole Collinet Makosso	4169
 Anatomical	1988
 Anatomie	4127
 Anatomy	2834
-Anatomy of MTN's	9840
+Anatomy of MTN	9840
 Anattributepairisconsideredsimilarwhen	8606
 Anavid	7482
 Anaxar	3821
@@ -759,11 +722,10 @@ Ancillary	5113
 Ancillary Virtual Asset Service Providers	10155
 Ancrage	765,8126
 Ancrée	4107
-And-Platform-Competition OECD.	961
+And-Platform-Competition OECD	961
 Anda Africa	5875
 Anda China de Malabo	7703
 Anda Usman	4045
-Anda's	5589
 Andah	5277
 Andakia	7106,1199
 Andar	8166
@@ -772,7 +734,7 @@ AndctMivatrikoent	10157
 Andela	335,80,39,7752,1139,665,563
 Anderberg	2093
 Andersen	4763
-Andersen Consulting.	4191
+Andersen Consulting	4191
 Anderson	5349
 Anderson GF	771
 Anderson&author	771
@@ -781,8 +743,8 @@ Andf. Le Programme	2354
 Andhra	1219
 Andhra Pradesh	1219,4463
 Andhum Abdallah	5530
+Andile Ngcaba	6580
 Andile Ngcabas Convergence Partners	10595
-Andile Ngcaba’s	6580
 Andile Solutions	7167
 Andile Tshona	7910
 Ando Naoki	10044
@@ -830,7 +792,7 @@ Andrew Mutha	6971
 Andrew Novoselsky	9777
 Andrew Peters	5475,691
 Andrew Rhys Davies and Evan J. Goldsholle	4127
-Andrew Steane's	9698
+Andrew Steane	9698
 Andrew Tate	3435
 Andrew Tiffin	7545
 Andrew Tiffin Artificial	7545
@@ -839,21 +801,16 @@ Andrew Utulu The Secretary-General	9476
 Andrew Weise. I've	7065
 Andrew Wise	7065
 Andrew Zolli	9544
-Andrew's	7065
-Andrew.	7065
 Andrews	2948
 Andrey Maslov	4433
 Andrianaivo and Kpodar	1828
 Andriani	7886
 Andries Moreteledi Tlhabane	2626
 Andries Nel	8521
-Andries Nel.	8521
 Android	775,588,949,18,1065,587,833,179,25,323,25,1006,382,511,161,735,13,59,163,39,1026,140,1,183,215,448,157,36
 Android App Economy	1363
 Android Registration Client	8175
-Android and Apple.	1869
-Android.	1363
-Android’s	1363
+Android and Apple	1869
 Androutsopoulou	2093
 André Beetge	5569
 André Loureiro	2989
@@ -863,8 +820,7 @@ André Nkualoloki	7115
 André Nkualoloki. Na	7115
 André O. Todjè	6217
 André O. Todjè. Il	6217
-André Pedro	2581,3373
-André Pedro.	3966
+André Pedro	2581,1385,1988
 André Pedro. Orçado	5954
 André Sévo	3361
 André Ullrich and Douglas A. Parry	4127
@@ -874,7 +830,7 @@ Andualem Admassie	6218
 Andualem Mengistu	1828
 Andulo	5721
 Anduril	7147
-Andy Boyd.	6948
+Andy Boyd	6948
 Andy Castle and Nilesh Nawale	2677
 Andy Clarno	571
 Anecdotal	1828,2429
@@ -912,27 +868,22 @@ Angaza Holy Family Community	7167
 Ange Aristide BYLL	1990
 Ange Dany Gakunzi	1579
 Ange Ehourade	3009
-Ange J. A de Berry Quenum	6884,524,1435
+Ange J. A de Berry Quenum	6854,30,9,123,77,77,238,1435
 Ange J. A de Berry Quenum Date	7016,154
 Ange J. A de Berry Quenum Luanda	7324
 Ange J. A de Berry Quenum Nigerian	7301
 Ange J. A de Berry Quenum Posted	7408
 Ange J. A de Berry Quenum Rwanda	6887
-Ange J. A de Berry Quenum.	6854,39,123,77,77
-Ange J.A de BERRY QUENUM	4875,39
+Ange J.A de BERRY QUENUM	4875,39,48
 Ange J.A de BERRY QUENUM Date	4962
-Ange J.A de BERRY QUENUM.	4962
-Ange J.A de Berry Quenum	4977,475,5,7,26,362,240,62,49,77,49,120,24,91,17
+Ange J.A de Berry Quenum	4926,51,444,31,5,7,26,64,2,10,22,264,67,52,121,19,43,49,1,76,49,120,24,91,17,218
 Ange J.A de Berry Quenum Algeria Sets	6678
 Ange J.A de Berry Quenum Date	6092,237
 Ange J.A de Berry Quenum Tarik Dadi	5056,738,146,682
-Ange J.A de Berry Quenum.	4926,495,69,64,2,10,22,264,67,52,140,43,50,595
 Ange J.A de Berry Quenum. Date	6111
-Ange J.A. de BERRY QUENUM	4756
-Ange J.A. de BERRY QUENUM.	4760
-Ange Jason Quenum	4204,80,378,2
+Ange J.A. de BERRY QUENUM	4756,4
+Ange Jason Quenum	3059,75,65,317,452,164,72,80,312,66,2,46
 Ange Jason Quenum Date	3059
-Ange Jason Quenum.	3059,75,65,317,452,164,464,114
 Angebot	503
 Angebote	8546
 Angebotsfristen	8546
@@ -950,7 +901,7 @@ Angela	10
 Angela Ajala	8560
 Angela Davis	4258
 Angela Heinonen	9424
-Angela Kairuki.	5788
+Angela Kairuki	5788
 Angela Kona	9007
 Angela Mensah-Poku	9840
 Angela Mjojo	9820
@@ -958,8 +909,7 @@ Angela Mwanza Data Controller INST-57636712844 KILIFI	7167
 Angela Osoe Gyamerah	6936
 Angela Pascale KOYAKANGUI	5135
 Angela Sere-Ejembi	10
-Angela Wamola	1923,411,1197,1375,424,1384,1111,416,311
-Angela Wamola.	2331
+Angela Wamola	1923,408,3,1197,1375,424,1384,1111,416,311
 Angellah Jasmine Mbelwa Kairuki	6168
 Angellah Kairuki	6015,15,1075,744,247,788,493,593,407
 Angelo Costa	10114,157
@@ -995,19 +945,18 @@ AngoSat	2613
 AngoSat-2	5421
 AngoSat-3	2242,189,182
 AngoSat-II	3555
-Angola	15,129,36,40,71,27,84,22,14,101,22,217,22,162,51,25,1,1,8,98,6,40,23,9,1,2,16,120,20,82,84,98,120,74,26,254,94,88,45,63,33,20,64,15,38,101,30,63,12,4,13,12,5,272,4,37,192,142,16,4,31,36,131,6,19,48,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,153,18,66,152,48,62,68,52,9,31,5,25,33,4,54,41,1,16,6,36,25,54,46,1,26,260,37,42,20,13,1,54,27,104,68,41,27,51,1,102,8,11,31,11,1,54,1,3,2,11,14,7,2,5,12,2,25,1,30,8,7,89,83,14,31,12,57,4,116,125,5,14,34,278,60,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,96,70,16,1,1,4,97,36,125,95,4,27,6,76,33,162,1,90,9,1,1,32,107,100,1,1,92,206,16,144,31,95,10,71,22,171,69,62,224
+Angola	15,129,23,13,40,71,27,84,22,6,8,101,22,84,99,8,26,15,7,162,11,40,25,1,1,8,98,6,40,23,9,1,2,3,13,120,20,82,84,51,47,120,3,71,26,254,28,66,2,25,61,2,43,63,33,20,64,15,30,8,101,30,63,12,4,13,12,5,272,4,37,2,190,142,16,4,31,36,79,52,6,19,11,37,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,23,130,18,66,42,110,48,62,24,44,52,9,31,5,25,33,4,10,44,41,1,16,6,11,25,25,54,45,1,1,26,152,108,37,42,20,11,2,1,54,27,104,1,67,41,27,51,1,102,4,4,11,31,11,1,14,40,1,3,2,11,14,7,2,5,12,2,25,1,17,13,8,7,89,83,14,31,11,1,57,4,109,7,19,106,5,14,34,278,14,46,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,31,65,70,16,1,1,4,97,36,125,95,4,27,6,76,33,44,118,1,90,9,1,1,32,107,100,1,1,92,206,16,144,31,95,10,71,22,171,69,62,180,44
 Angola Avante	7882
 Angola Banking Conference	6360
 Angola Cables	778,233,1580,484,1069,2126,86,224,24,63
 Angola Cables A Angola Cables	6356
 Angola Cables CEO	6604
-Angola Cables S.A.	144
+Angola Cables S.A	144
 Angola Cables and Megaport	2591
 Angola Cables and Safaricom	6580
-Angola Cables'	1011,1580,484,1069,2126,334
 Angola Cables. Carvalho	3075
 Angola Cables. Yet	1647
-Angola Conecta.	8854
+Angola Conecta	8854
 Angola Consulte	9040
 Angola Country Climate and Development Report.pdf	800
 Angola DR Luanda	9260
@@ -1026,7 +975,7 @@ Angola ICT FORUM	6617
 Angola Liderança	1215
 Angola Luanda	4248,1821,1176
 Angola Ministry of Finance	2242
-Angola MoU.	3845
+Angola MoU	3845
 Angola N.º INDICADORES	4044
 Angola National Identity Card	10714
 Angola O	9501
@@ -1035,14 +984,11 @@ Angola Projecto Njila	1176
 Angola SPTR	6938
 Angola Strengthening Statistical Capacity World Bank	974
 Angola Strengthens Maritime Domain Awareness	9399
-Angola Telecom	15,763,437,934,944,4,2829,712,25,1
-Angola Telecom E.P.	2149,948
+Angola Telecom	15,763,437,934,944,4,37,2792,698,14,25,1
+Angola Telecom E.P	2149,948
 Angola Telecom and SATCAB	6638
 Angola Telecom and Satélite	6663
-Angola Telecom's	6663,1
-Angola Telecom's SARSSy Subsea Cable System.	5926
-Angola Telecom.	3134,3490
-Angola Telecom’s	6638
+Angola Telecom's SARSSy Subsea Cable System	5926
 Angola and Brazil. Manufactured	144
 Angola and EDGE Group	9399
 Angola and EDGE Group Near Border Security	9399
@@ -1052,15 +998,13 @@ Angola and Kenya	3867,4630
 Angola and Malawi. The COMESA and Malawi	2712
 Angola and Mozambique	6797,955
 Angola and Mozambique Author	7752
-Angola and Mozambique. Deployment of AFR-IX's	7752
+Angola and Mozambique. Deployment of AFR-IX	7752
 Angola and Namibia	6618,3341
 Angola and Rwanda	1867
 Angola and South Africa	1977,2
 Angola and São Tomé	1599
-Angola and São Tomé and Príncipe.	1599
-Angola and Tanzania.	1147
-Angola'	9399
-Angola's	167,257,6,215,99,8,41,7,173,66,1,106,79,5,370,170,71,280,28,68,25,63,43,63,117,15,30,214,4,13,293,37,2,332,254,123,22,99,240,69,75,32,224,500,315,17,50,100,1,398,55,131,1,293,57,72,28,12,28,17,200,56,171,26,886,23,297,157,499,44,359,101,859
+Angola and São Tomé and Príncipe	1599
+Angola and Tanzania	1147
 Angola's ANGOSAT-2	7262
 Angola's Biometric Border Control Agenda	9399
 Angola's Capital Market Commission	7134
@@ -1079,7 +1023,7 @@ Angola's ICT White Paper	2411
 Angola's ID	1225
 Angola's INFOSI-managed	3555
 Angola's Law	16
-Angola's MPLA'	9399
+Angola's MPLA	9399
 Angola's Minister of Telecommunications	3555,312,11,1560,1158,32,36,133
 Angola's Ministry	9399
 Angola's Ministry of Telecommunications	6482
@@ -1097,7 +1041,6 @@ Angola's Strengthening the National Social Protection System	424
 Angola-France Economic Forum	2242,63
 Angola-relevant	4275
 Angola-specific	171,10017
-Angola.	15,1755,641,132,248,306,39,383,115,211,22,995,244,213,268,180,852,5,961,1009,805,100,1171
 Angola. A Lei	10166
 Angola. AFL	4075,1905
 Angola. ARTIGO	3519
@@ -1124,7 +1067,7 @@ Angola. Segundo António Hou	3692
 Angola. The LEO	3136
 Angola. The National Security Law	9399
 Angola. Um Data Center	5954
-Angola. With Ericsson's	2528
+Angola. With Ericsson	2528
 Angola.Notably	5363
 Angola.Para Cesaltino Miranda	8160
 Angola.Segundo	7667
@@ -1141,8 +1084,8 @@ Angolan Institute of Communications	3450,21,288,25,1134,486,1063
 Angolan Journalist Rwanda Overtakes Uganda	4942
 Angolan Ministry of Telecommunications	1088,1129,1251
 Angolan National Cloud	4104
-Angolan National Data Center.	6636
-Angolan Opposition UNITA Rejects Ruling Party's	9399
+Angolan National Data Center	6636
+Angolan Opposition UNITA Rejects Ruling Party	9399
 Angolan Payment System	4876
 Angolan President João Lourenço	2791,920
 Angolan Public Procurement Annual Report	9399
@@ -1153,8 +1096,6 @@ Angolan State	8056
 Angolan and Rwandan	1867
 Angolano	1215
 Angolans	561,663,6,5283,2369,517
-Angolans'	561
-Angola’s	1647,220,845,2535,116,100,412,110,554,40,57
 Angola’s Gabinete de Gestão	6638
 Angola’s INFOSI	6636
 Angola’s NTD	10188
@@ -1174,12 +1115,9 @@ Angop Mbanza Kongo	5296
 Angop Talatona	3137,3172,301,99
 Angop US-Africa Business Summit	3093
 Angop Uíge	6991
-Angop's	8881,115
 Angop's English	9236
 Angosat Luanda	6610
-Angosat-2	3759,108,2107,636,8,20,2216
-Angosat-2's	3759
-Angosat-2.	6595
+Angosat-2	3759,108,2107,621,15,8,20,2216
 Angosat-3	2242,123,66
 Angotic	5542
 Angovia	2342
@@ -1190,13 +1128,13 @@ Anguédedou	2342
 Angwin	8436
 Angèle Kandé	8764
 Angüe	8192
-Anhui Telecommunications Engineering Co.	182
-Anhui YISHANG Digital Science Co. Ltd.	189
+Anhui Telecommunications Engineering Co	182
+Anhui YISHANG Digital Science Co. Ltd	189
 Anibaba	7907
 Anibaba's MVP	7907
 Anibe Idajili	4794
 Anibel Costa	8729
-Anicet Compaoré.	6497
+Anicet Compaoré	6497
 Anicet Compaoré. Pour	6497
 Anicet Georges Dologuele	4539
 Aniceto de Carvalho	9259
@@ -1217,7 +1155,6 @@ Animé	8403
 Animée	7677
 Aninf	4043,3897,34
 Aninternetserviceproviderwhoenables	972
-Anip.	3591
 Anip. Des	7332
 Anip. Enregistrant	4812
 Anip. La	2403
@@ -1235,13 +1172,13 @@ Aniversário da Independência de São Tomé	6837
 Anja Kaspersen	7174
 Anjana	1766,2910
 Anjouan	2507,54,2465,125,1
-Ankara.	10451
+Ankara	10451
 Ankara. Cet	2808
 Ankara. Il	2808
 Ankish Jain	4127
 Anlièbèdon Gustave	7670
 Anmar Mohamed	8877
-Ann Anthropol Pract.	1219
+Ann Anthropol Pract	1219
 Ann Rogers	1212
 Ann Wangari Njenga Data Processor INST-5133313EF3A	7167
 Ann Wangechi Kamunya Data Processor INST-68056192EA7	7167
@@ -1268,9 +1205,9 @@ Annegret Hilse	6931
 Annejiagye Street Operational P.O Box LG	3386
 Annepeace Alwala	5839
 Annette Mangena	1248
-Annex	789,110,62,1,7,1,218,55,14,7,514,36,4,10,39,121,901,24,76,467,127,21,523,174,282,70,592,242,931,116,5,100,193,106,44,92,7,61,56,170,104,1110,171,877
-Annex A-C.	10714
-Annex A.	7987,1136,1591
+Annex	789,110,62,1,7,1,218,55,14,7,514,36,4,10,39,121,901,24,76,467,127,21,523,174,282,70,592,242,931,116,5,100,193,106,44,92,7,61,56,170,104,1110,171,877,1084
+Annex A	7987,1136,1591
+Annex A-C	10714
 Annex A. Action Plan Implementing Entity	1777
 Annex A. At AUC	1257
 Annex A. Capitalized	7198
@@ -1280,7 +1217,6 @@ Annex B	7850,1089,691,1084
 Annex C	7198
 Annex Careplus MEdical Data Controller INST-724067F63A2	7167
 Annex D	3861,3337,3516
-Annex D.	10714
 Annex D. Estimation Method	10714
 Annex E	3861,6853
 Annex F	3861,3337
@@ -1295,21 +1231,18 @@ Annex National AI Strategies	1814
 Annex Table	1828
 Annex VII	1599,5080
 Annex XI and Protocol	7081
-Annex XIV.	3583
+Annex XIV	3583
 Annex for Early Learning and Basic Education	899
 Annex-Call Health Clinic Data Controller INST-436531FB4AC	7167
-Annex.	10714
 Annex. Republic of Congo	1828
 Annexe	643,104,1,17,233,293,1,1,1,1,1,621,140,1,1,1,1,1,12,892,223,280,427,259,1,1,1,1,1,210,1,1,1,1,1,8,978,1187,1107,1236,1820
-Annexe A.	747
+Annexe A	747
 Annexe B	748
 Annexe III	10400,321
-Annexe.	10711
 Annexed	5679
 Annexes	579,64,122,1013,29,180,1,1442,2248,1,1153,127,183,1294,455
 Annexes A and B	2957,4241
 Annexes A-C	10714
-Annexes A-C.	10714
 Annexes A-D	10714
 Annexes A.1	4840
 Annexes Annex	3861,2971,536
@@ -1325,20 +1258,17 @@ Annexure B2	4896
 Annexure B3	4896
 Annexure B4	4896
 Annexure B5	4896
-Annexure B5.	4896
 Annexure B6	4896
 Annexure B7	4896
 Annexure B8	4896
 Annexure B9	4896
-Annexure D1.	4896
+Annexure D1	4896
 Annexure D2	4896
 Annexure D3	4896
-Annexure D3.	4896
 Annexure D3. Kudenga House TN CyberTech	4896
 Annexure D4	4896
 Annexure D6	4896
 Annexure D7	4896
-Annexure D7.	4896
 Annexure I	10721
 Annexure I GC-C.S4	10721
 Annexure IV	10721
@@ -1351,8 +1281,8 @@ Annexure- Data Protection Policy	10721
 Annexure- V. CM-DS.S2 CM-DS	10721
 Annexure-G	10721
 Annexure-IV CCMP.S8	10721
-Annexure-VI and Annexure-VII.	10721
-Annexure-VII.	10721
+Annexure-VI and Annexure-VII	10721
+Annexure-VII	10721
 Annexure-VII. STANDARDS PILLAR GUIDANCE NOTES ARTIFACTS	10721
 Annexure-VIII	10721
 Annexures	22,987,2705,1182,236,648
@@ -1369,7 +1299,6 @@ Anniversary Launch	6310
 Anniversary of Independence	6831
 Annobón	3179,1030,1027
 Annobón Annobón	4209
-Annobón.	4209
 Annonces Articles	9993
 Annonces Kumy	9325
 Annoncé	6515
@@ -1381,7 +1310,7 @@ Announced AI-specific	6232
 Announced Q4 FY2021	622
 Announced Sep	1540
 Announcement	289,1530,6514,765
-Announcement of Africa's	8654
+Announcement of Africa	8654
 Announcement of Deadline	8999
 Announcement of Dividend	4896
 Announcement-stage	7491
@@ -1414,7 +1343,6 @@ Annual Data Innovation Forum for Africa	961,282,1919
 Annual Development Plans	7548
 Annual Digital Forum	7963,331,41
 Annual Digital Skills Report Card	6832
-Annual Digital Skills Report Card.	6832
 Annual Direct Taxes	5655
 Annual Disability Lecture	4028
 Annual Economic Survey	2775
@@ -1425,8 +1353,7 @@ Annual Establish	6832
 Annual Estimates	7548
 Annual Expert Group Meeting for African Registrars	7879
 Annual Financial Inclusion Report	8135
-Annual Financial Statements	1554,316,1734,110,3490
-Annual Financial Statements.	1554,1856
+Annual Financial Statements	1554,316,1540,194,110,3490
 Annual Forum	1554
 Annual GDP	6027
 Annual General Conference	10390
@@ -1438,22 +1365,18 @@ Annual General Meeting of WATRA	5681
 Annual General Meeting. Safaricom Foundation	7204
 Annual General Member	585,8281
 Annual General Member Meeting	585,8281
-Annual General Member Meeting.	585,8281
 Annual General Members Meeting	585,8281
-Annual General Members Meeting’	585
-Annual General Members' Meeting	8866,639
+Annual General Members' Meeting	8866,639,3
 Annual General Members' Meeting and Special General	8866
-Annual General Members' Meeting.	8866,642
 Annual General Members' Meetings	8866
 Annual General Members' Meetings and Special General	8866
 Annual General Members’ Meeting	585
-Annual General Members’ Meeting.	585
 Annual General Members’ Meeting. Six	585
 Annual General Members’ Meetings	585
 Annual General Members’ Meetings. Minutes	585
-Annual Global Profes.	4209
+Annual Global Profes	4209
 Annual Global Represent. Carestia de Vida	4209
-Annual Governance Report.	8866
+Annual Governance Report	8866
 Annual Government AI	7548
 Annual Gross Revenue	4610
 Annual Growth	7446
@@ -1483,6 +1406,7 @@ Annual Performance	970
 Annual Performance Plan	5533,343,636,171
 Annual Performance Report	1554
 Annual Performance Report. Officials	8469
+Annual Performance Review Retreat. Presenting the Institute	9389
 Annual Plan	5677
 Annual Planning Conference	2668
 Annual Policy Dialogue	6418
@@ -1492,15 +1416,13 @@ Annual Project Data	1284
 Annual Promote	7548
 Annual Public Lecture	9677
 Annual Public Report	4528
-Annual Public Report.	4528
 Annual Reliability and Maintainability Symposium	8130
-Annual Report	718,243,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560
+Annual Report	236,482,243,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560
 Annual Report SCHEDULE	22
 Annual Report UNDP Libya's PEPOL	1390
 Annual Report for FY	6946
 Annual Report for South Sudan	3583
 Annual Report for The Financial	6946
-Annual Report.	236,1318
 Annual Report. The Annual Report	4896
 Annual Report. The Report	1554
 Annual Report. Washington	5700
@@ -1526,7 +1448,6 @@ Annual Trends	2775
 Annual Vendor Lock-in Risk Audit	6432
 Annual Volume of Water Abstracted	2775
 Annual Work Plan	2989,1411
-Annual Work Plan African Development	43
 Annual Work Plan PIU Management and Budget	2989
 Annual Work Plan and Budget	1228,56,5255
 Annual Work Plans and Budgets	3562
@@ -1612,8 +1533,7 @@ Ansut	3404,1620,1793,714
 Ansut-TIC	3404
 Ansut. Il	5024
 Ansuten	10691
-Answer	3874,3066,2662
-Answer.	7471
+Answer	3874,3066,531,2131
 Answer. What Was the Question	7471
 Answering	6056,2109
 Answers	5665
@@ -1622,10 +1542,9 @@ Ansätze	336
 Ant Group	6971,1306
 Ant International	5325,2700
 Antalya	8797
-Antananarivo	4344,2501,308,206
+Antananarivo	481,3863,2501,308,206
 Antananarivo and Fianarantsoa	4047
 Antananarivo-Toamasina	4179
-Antananarivo.	481
 Antananarivo. Ce	4179
 Antarctic Treaty	6997
 Antarctica	4426
@@ -1648,11 +1567,11 @@ Anteriormente	8053
 Antes	549,245,3953,810,2622
 Anthea P. Amadi-Echendu	7278
 Anthem	10611
-Anthem Press.	5700
+Anthem Press	5700
 Anthony Albanese. Avinash Ramtohul	4850
 Anthony Fakiyesi	8640
 Anthony Fakiyesi Cybersecurity	8640
-Anthony Kimery The Netherlands’	8904
+Anthony Kimery The Netherlands	8904
 Anthony L. Fortune	9548
 Anthony Mburu	10246
 Anthony Mburu Blog	10246
@@ -1663,28 +1582,23 @@ Anthony Same Expands African Datacenter Network	6154
 Anthony Samé	6580
 Anthony Simpasa	10718
 Anthony Voscarides	2986
-Anthropic	1636,207,973,1660,229,267,57,19,238,1,77,54,180,573,96,220,180,123,217,53,52,25,14,58,404,606,186,89,16,20,66,48,47,11,57,29,9,18,48,164,142,423,16,208,105,524
+Anthropic	1636,207,973,1660,229,267,57,19,238,1,77,54,180,573,96,220,180,123,217,53,52,25,14,58,404,606,186,89,16,20,66,48,47,11,57,29,9,18,48,27,137,142,94,329,16,208,105,280,244,82
 Anthropic CEO Dario Amodei	9592
 Anthropic Claude	5226,85
 Anthropic Research	7151
 Anthropic and Google	8014
 Anthropic and OpenAI	9284
 Anthropic and OpenAI and Google Meta	9284
-Anthropic and OpenAI. Anthropic’s	6667
-Anthropic and Rwanda.	5286
-Anthropic's	5287,131,1719,14,1739,373,345,593
+Anthropic and OpenAI. Anthropic	6667
+Anthropic and Rwanda	5286
 Anthropic's Claude	6879
 Anthropic's Fable	10430
-Anthropic's Mythos	9284
+Anthropic's Mythos	8014,1270
 Anthropic's Mythos-based	8692
-Anthropic's Mythos.	8014
 Anthropic-Rwanda MoU	5364
-Anthropic.	5048,238,3741
 Anthropic. Ce	8759
 Anthropic. Certain	10430
 Anthropic. Health	5418
-Anthropic’	6171
-Anthropic’s	1636,3650,132,753,96,2227,294,239,894,606
 Anthropic’s AI	5286,885,1266
 Anthropic’s Claude	8510
 Anthropic’s Claude Mythos and Fable	10527
@@ -1757,7 +1671,7 @@ Anticipate	9123
 Anticipated	2989
 Anticipated Waste Generation	1988
 Anticipating	2816
-Anticipating Conflict.	8202
+Anticipating Conflict	8202
 Anticipatory	7451,1531,376
 Anticiper	8891
 Anticipos	4209
@@ -1787,14 +1701,13 @@ Antoine Bessin	8517
 Antoine Boniface	2539
 Antoine Harari	4127
 Antoine Lomba	7685
-Antoine Ngom	7279,1
-Antoine Ngom.	10367
+Antoine Ngom	7279,1,3087
 Antoine Pecqueur	4127
 Antoine Sebera	5356,114,367
 Antoine WAONGO	7670
 Antoinette Manyaga	7116,685
 Anton Carniaux	6471
-Anton Jäger.	10453
+Anton Jäger	10453
 Anton Leicht	5257
 Antoni Baina	4333,5479
 Antonio	236
@@ -1805,7 +1718,7 @@ Antonio Oburu Ondo	9303
 Antonio Oburu Ondo. El	8083
 Antonios	7759
 Antoniu	8605
-Antonius Verheijen.	8755
+Antonius Verheijen	8755
 Antony Blinken	1038
 Antropofagia	9739
 Antropologia	414
@@ -1836,14 +1749,14 @@ Anual	4209,386
 Anunciou	3137
 Anuolu Junction PU	10049
 Anupam Chander	5242
-Anupold.	3689
+Anupold	3689
 Anurag Srivastav	4894
 Anutin Charnvirakul	9968
 Anuual	2775
 Anwani	1921,947,3147,4
 Anwar	226,8903
 Anwar Abu Sitta	3826
-Anwar I.	3791
+Anwar I	3791
 Anwendung	383
 Anxieties	6948
 Anxious	1676,6349
@@ -1879,7 +1792,7 @@ Anyone	11,23,702,1252,150,1904,1376,57,388,526,707,442,239,250,100,579,184,37,52
 Anys W	8606
 Anyserviceproviderwhoknowinglyenables	972
 Anything	700,2475,539,637,2609,25,860,198,395
-Anytime From Now’.	7176
+Anytime From Now	7176
 Anyuon	4668
 Anyway	4676
 Anywhere Unlock	9669,84
@@ -1913,13 +1826,13 @@ Aryemo Anna	3005
 Asbestos Containing Any	1988
 Asignaciones Globales MALABO LUBA ANTONIO DE	4209
 Asin. Marc André Loko	3100
-Ask Me Anything'	9760
+Ask Me Anything	9760
 Ask Viamo Anything	4625
 Assessing the Antecedents	5349
 Assessment of Angola Public Procurement System	9399
 Assistant Inspector General of Police Andrew Felix	315
 Asunta Jong Anel Chieny	4640
-Atlantic and Angola Cables'	3075
+Atlantic and Angola Cables	3075
 Atlantic. Ana Carla Sousa	3075
 Atlantique RAPPORT ANNUEL	998
 Attorney Annual	7548
@@ -1940,7 +1853,7 @@ BAKOUAN André	737
 BCEAO RAPPORT ANNUEL SUR L'ÉVOLUTION DES	4459
 BCEAO RAPPORT ANNUEL SUR L’ÉVOLUTION DES	4459
 BESTNOW ANALYTICS AND TECHNOLOGIES LIMITED Data	7167
-BIOKO SUR ANNOBON C.S.	4209
+BIOKO SUR ANNOBON C.S	4209
 BLANK ANNEXURE B7	4896
 BOAD Raymond ASSOUKROU Analyste	10708
 BREACH OF ANOTHER	2709
@@ -1953,7 +1866,6 @@ Banco Nacional de Angola Governor Manuel Tiago	8019
 Banco de Desenvolvimento de Angola	144,6708
 Banco de Fomento Angola	5589
 Banda Ancha	9543
-Banda Ancha.	9543
 Bande C Annexe	998
 Bank of Tanzania’s National Payment Systems Annual	8888
 Bank of Uganda Integrated Annual Report	10299
@@ -1962,7 +1874,7 @@ Baseline Standards for Automated Anti-Money Laundering	5369
 Bayobab Kenya MD Sylvia Anampiu	2814
 Bd Annakhil	1184
 Belief Capital and SV Angel	10162,37
-Benin During Minister Anita Anand's	9319
+Benin During Minister Anita Anand	9319
 Benin. See Annex D	10714
 Bessin Antoine	9819
 Beyond the WHO and AntuGrow	9944
@@ -2016,16 +1928,16 @@ CDSP Ill Beneficiaries Feature Animations Documentaries	9781
 CEO da Africel Angola	6610
 CEO da Angola Cables	6356
 CEO da Huawei Angola	4754
-CEO of Africell Angola.	778
+CEO of Africell Angola	778
 CEO of Angola Cables	6270
-CHANGES THE ANSWER COMPLETELY.	1795,1413,3881
+CHANGES THE ANSWER COMPLETELY	1795,1413,3881
 CHAPTER FIVE ANALYSIS	3862
 CHAPTER TWO ANALYSIS	3862
 CHIFFRES CLÉS FAITS MARQUANTS Rapport Annuel	2342
 CHRIST IS THE ANSWER MINISTRIES Data	7167
 CIL the Annexe-6	2062
 CIPP Cost-Benefit Analysis CPF Country Climate	3604
-CIPS Participants Announcement No.	2836
+CIPS Participants Announcement No	2836
 CITT ANEP Page	2989
 CMF HACIENDA CMF CUOTA ANUAL CUOTA	4209
 CNAMGS and ANINF	6129
@@ -2034,17 +1946,17 @@ COMMITTEE COMMUNITY MEETINGS PROCEEDINGS AT ANNUAL	585
 COMMUNICATIONS ET ANNONCES	4658
 COMPANY INFORMATION ANNEX	1818
 COMPANY'S OWN ANNOUNCEMENT	9098
-COMPARATIVE PERSPECTIVES Angola's	9399
+COMPARATIVE PERSPECTIVES Angola	9399
 COMPETITION AND ECONOMIC ANALYSIS DEPARTMENT TABLE	3862
 COMPTIA Cyber Security Analyst	1940
 COMPUTER ANTI-VIRUS STANDARDS AND GUIDELINES	34
-CONCLUSION Angola's	9399
+CONCLUSION Angola	9399
 CONGO Annex I. Republic of Congo	1828
 CONGO Annex I. Tax Potential	1828
 CONSTRUCTION MOTOROLA Antenne	998
 COPIES OF ANNUAL FINANCIAL STATEMENTS	3714
 CPEAO RAPPORT ANNUEL	998
-CPJ Africa Director Angela Quintal.	10097
+CPJ Africa Director Angela Quintal	10097
 CRAN Integrated Annual Report	1870,1540
 CRP.3 Annex IV	3583
 CRP.5 Annex	3583
@@ -2070,19 +1982,19 @@ Caribou and Genesis Analytics. Preparing for AI	6948
 Carlton Anosy	3573
 Carlton Anosy. Menée	7995
 Carlyle Group and Anchorage Capital Group	9016
-Carol Ann Browne and Aaron Thiese.	1038
+Carol Ann Browne and Aaron Thiese	1038
 Case Study Analysis Report	7151
 Catégories Android Apple Applications Mobile Applications	9993
-Center for European Policy Analysis.	4617
+Center for European Policy Analysis	4617
 Center for European Policy Analysis. CEPA	4617
 Central Bank of Kenya Annual Report	1349
 Central Bank of Kenya's Annual Report	1349
 Centre for Analytics and Behavioural Change	10729
 Centre for European Policy Analysis	10201
 Centre for Risk Analysis	9769
-Centro de Imprensa Aníbal de Melo.	2729
+Centro de Imprensa Aníbal de Melo	2729
 Centro de Imprensa da Presidência da República de Angola	6995
-Centro de Salud de Annobón.	4209
+Centro de Salud de Annobón	4209
 Certificado de Actualización PE INDUSTRIA INSPECCION ANUAL	4209
 Cf. Annexe	8891
 Chairperson of Icasa's NRFP Council Committee Andrew	8841
@@ -2091,7 +2003,7 @@ Charity Annex Chemist Data Controller INST-529182D34CC	7167
 Chartered Financial Analyst	4896
 Cheikh Anta Diop University	2335
 Chief Enterprise Business Officer Angela Mensah-Poku	9840
-Chief Executive Officer Antoine Sebera.	6388
+Chief Executive Officer Antoine Sebera	6388
 Chief Management Analyst	6946
 Chiffre Chiffre Analyse	748
 Chiffre Chiffre Chiffre Chiffre Chiffre Analyse	748
@@ -2129,7 +2041,7 @@ Company’s Annual General Members’ Meeting	585
 Company’s Annual Report	7198
 Comparative Analysis Synthesis Across	7966
 Comparative Analysis of Field Kitchen	6947
-Comparative Constitutional and Regulatory Analysis’	10270
+Comparative Constitutional and Regulatory Analysis	10270
 Compatible Android	10032
 Competition and Economic Analysis	7110
 Competition and Economic Analysis Department	8709
@@ -2149,7 +2061,7 @@ Congo's ARPCE and ANSSI	2764
 Congo. Sié Antoine-Marie Tioyé	1715
 Constituição da República de Angola	13,1,1,152,263,109,10,195,8,42,2725,88,539,1,71,339,2290
 Contacts Andries Rossouw Africa Energy	7751
-Context for Angola's	171
+Context for Angola	171
 Continental Analysis	1243
 Continued Annual Absorption of Frontline HCWs Year	4260
 Coordenação Teresa Spínola Anália Silva Directoras-Gerais	4044
@@ -2158,10 +2070,10 @@ Count Down Announcements	8999
 Countdown Announcement PR Campaign Mop-up	8999
 Country Analyses And Plans	899
 County Annual	7548
-Cross-Country Data Analysis.	5349
+Cross-Country Data Analysis	5349
 Culture Any Arab	2958
 Currently Android-only	2579
-Cyber Incident Statistics and Comparative Analysis.	9678
+Cyber Incident Statistics and Comparative Analysis	9678
 Cyber Security Authority Annual	6936
 Cyber Threat Analyst	5533
 Cyberbullying Any	783
@@ -2171,7 +2083,7 @@ D Animation	6832
 D Spam Any	972
 D-Day Announcement	8999
 D.G DE MEDICINA DEPORTIVA Y ANTIDOPAJE	4209
-D.G. ANAL.	4209
+D.G. ANAL	4209
 D.G. DE GANAD. SAN. ANIMAL Y	4209
 D2 INDUSTRIA INSPECCION ANUAL	4209
 D2D Annual Revenue Annual Revenue	10407
@@ -2231,8 +2143,7 @@ Daniel Anougba	3249
 Data Aggregation and Analysis	4528
 Data Analysis	4439
 Data Analysis and Integration Stakeholder	7548
-Data Analyst	6832,106
-Data Analyst.	4528
+Data Analyst	4528,2304,106
 Data Analysts	6832
 Data Analytics	3344,5065
 Data Analytics Generative AI	10133
@@ -2243,8 +2154,8 @@ Data Localisation the Answer	7471
 Data Protection and Privacy Regime. Frequency Annual	3604
 Data Science Analytics	6832
 Data Science and Adaptive Analysis	5244
+Data Science and Analytics	9576
 Data Science and Analytics Education	8560
-Data Science and Analytics.	9576
 Data and Analytics	6832
 Data and Analytics Platform	10188
 DataReportal. Analysts	6156
@@ -2259,7 +2170,7 @@ Declaração de Compromisso Antes	6462
 Defeating Ruto Anti-Ruto	7869
 Definition and Analytical Framework	7966
 Demand for Analytical Report	6946
-Denise António.	9260
+Denise António	9260
 Department Annual	7548
 Department of Anthropology	4448
 Department's Annual Performance Plan	6512
@@ -2270,12 +2181,12 @@ Deputy Minister Andries	10729
 Deputy Minister Andries Nel	10729
 Des Pratiques Anticoncurrentielles	37
 Des Pratiques Anticoncurrentielles Article	37
-Description Accelerates Angola's	1770
+Description Accelerates Angola	1770
 Description Announced	9504
-Description Improves Angola's	974
+Description Improves Angola	974
 Description Région Année Valeur Population Gbôklé	747
 Desenvolver Angola	2821
-Desenvolvimento. Analytics Insight.	2816
+Desenvolvimento. Analytics Insight	2816
 Desmond Anele Gumbochuma	2920
 Detailed Analysis	236
 Detailed Risk Analysis and Mitigation Strategies. National	4528
@@ -2286,14 +2197,13 @@ Dieu Béni Anderson Kabou	9279
 Digital Analogue Proposed Frequency Band Proposed	736
 Digital Analysis and Regulation Platform	6342
 Digital Angola	793,8606
-Digital Angola.	9399
 Digital Antitrust	5366
 Digital Economy’s Announcement The National AI	2359
 Digital Governance Analysis	1353
 Digital Health Agency Chief Executive Anthony	10329
 Digital Identity Annex	6352
 Digital Identity Annex. Rather	6352
-Digital Trade and Its Annexes.	7596
+Digital Trade and Its Annexes	7596
 Digitalisation Gap Analysis Assessment	10584
 Digitalização de Angola	1192
 Dina Antoine Administrative Officer	4800
@@ -2307,7 +2217,6 @@ Director General of ANIP	1927
 Director General of Angola's National Space Programme	6628
 Direito Angolano	13,1,153,263,119,195,8,42,2813
 Direitos Humanos de Angola	6995
-Direitos Humanos de Angola.	6995
 Disability Registered Annually1	2775
 Discuss. Another	5822
 Dispute Resolution A. Any	4610
@@ -2334,9 +2243,8 @@ Dr. Andile Ngcaba	3890
 Dr. Andrea Ficchì	2816
 Dr. Andrew Ndonga Data Controller INST-930148F4ED1	7167
 Dr. António Agostinho Neto International Airport	4275
-Dr. António Agostinho Neto International Airport.	4275
 Dr. Folakemi Animashaun	9444
-Dylan Martheze Angela Itzikowitz’s	6998
+Dylan Martheze Angela Itzikowitz	6998
 Déclaration Annuelle Pour	6954
 E BIOKO SUR ANNOBÓN CENTRO SUR	4209
 E-3. Any	7198
@@ -2383,7 +2291,7 @@ Emerging C- Annual	7548
 Emerging Technologies Annexure	4583
 Emerging Technologies C1- Annual	7548
 Emma Ankrah	7699
-Emma Theofelus and Angola's	6618
+Emma Theofelus and Angola	6618
 En Angola	9499,586
 Eng. Antony Lenaiyara	10662
 Enquête Agricole Annuelle. Cette	9286
@@ -2402,7 +2310,6 @@ Esono Angue	5525
 Estado Angolano	14,1,4131
 Estado Angolano. Publicado	15
 Estatuto Orgânico da Agência Angolana de Protecção de Dados	167
-Estatuto Orgânico da Agência Angolana de Protecção de Dados.	167
 Estratégia de Longo Prazo Angola	5020
 Eswatini Economic Policy Analysis and Research Centre	1953,5849
 Eswatini Ministry of Home Affairs Annual Report	1357
@@ -2471,6 +2378,7 @@ Finanças Públicas de Angola	5319
 Finite Element Analysis	9475
 Finite Element Analysis OOFEM Finite Element	9475
 Fire Detection and Suppression Analogue	9446
+First ANC Visit	2775
 Fiscalía Adjunta de Antidrogas	4209
 Fiscalía Titular de Antidrogas	4209
 Focus du Rapport Annuel	8891
@@ -2478,7 +2386,7 @@ Forced Labor Any	1988
 Foreign Affairs Annual	7548
 Forensic Data Analysts	5323
 Forças Armadas Angolanas	14,4133
-Foundations of Economic Analysis.	5700
+Foundations of Economic Analysis	5700
 Founder Anthony Same	6154
 Founder of PACE ANSD's Fode Dieme	6963
 Fragmented Ecosystem Participation. Analysis	4528
@@ -2492,11 +2400,11 @@ Fritz VB. Problem-driven Political Economy Analysis	1261
 Fund Annual	22,7526
 Fórum Anual de Digitalização Inclusiva	7945,214,435
 G Programa de Reforzamiento ANDGE	4209
-G. Annexes.	1218
-GAP Analysis.	1867
+G. Annexes	1218
+GAP Analysis	1867
 GATS Telecommunications Annex	1243
 GBs. Any	1944
-GET Handbook Annex.	1818
+GET Handbook Annex	1818
 GIZ Managing Director Anna Sophie Herken	9632
 GLOSSAIRE Année	2476
 GNIZAKO Bouabré Antoine	2342
@@ -2514,12 +2422,11 @@ Gap Analysis Report	1900
 Garantia da Cidadania Angolana	6995
 Gates Foundation and Anthropic	6171
 Gender Analysis	3604
+General Manager of Angola	5438
 General Manager of Angola Space Program	6173
-General Manager of Angola's	5438
 General Tax Administration Angola	6042
 Generative AI Anxiety	3810
 Genesis Analytics	2205,1577,71,262,1325
-Genesis Analytics.	3782
 Ghana A Xalam Analytics Country Report	3184
 Ghana Anti-Corruption Coalition	7457
 Ghana Revenue Authority Commissioner-General Anthony Sarpong	9729
@@ -2534,7 +2441,6 @@ Global Lead for Tax Data Analytics	10335
 GoMed Nigeria CEO Anthony Edeki	9540
 Google Ads and Google Analytics	3212,2216,578
 Google Analytics	3212,695,1521,578
-Google Analytics.	3212,2216,578
 Google Analytics._gcl_au3	3907
 Google Anaytics	3212,2216,578
 Google Cloud and Anthropic	1636
@@ -2545,8 +2451,7 @@ Government of Angola	645,1,442,61,1093,894,1070,1781,2056,1356
 Government of Angola and Presight	793
 Government of Rwanda and Anthropic	5048,238
 Government. Annual	11,576
-Governo de Angola	1192,3562,1200,641,165,2639,510,705
-Governo de Angola.	9040,196
+Governo de Angola	1192,3562,1200,641,165,2280,196,163,510,705
 Governo de Angola. O	5954
 Governor Aivo Andrianarivelo	2929
 Graham and Mohammad Amir Anwar	10319
@@ -2614,8 +2519,7 @@ IMF Debt Sustainability Analysis	7695
 INDUSTRIA INSPECCION ANUAL	4209
 INDUSTRIA INSPECCION ANUAL ACTUAL	4209
 INDUSTRIA INSPECCION ANUAL INFORMACIÓN Rótulos	4209
-INE Angola	6991
-INE Angola's	4044
+INE Angola	4044,2947
 INFORMACIÓN INSPECCION ANUAL	4209
 INSEED and ANID	1635
 INSPECCION ANUAL	4209
@@ -2637,7 +2541,7 @@ Ilumina Angola	6595
 Iluminar Angola	3906
 Impact Analysis	1000,554
 Impact Analysis Exercise	1554
-Importance of Angola Cables and Uniti Wholesale's	6604
+Importance of Angola Cables and Uniti Wholesale	6604
 In-Depth Analysis Risk	4528
 In-Depth Analysis. Brussels	4676
 Inapplicable Laws Any	7538
@@ -2659,12 +2563,11 @@ Infrastructure Annual Infrastructure Plan	7548
 Infrastructure. Analysis	4528
 Inlingo Networks. Another	4676
 Innovation and Development Annual Report	1554
-Inside Anambra’s	9936
+Inside Anambra	9936
 Insights and Analysis	10028
 Institute for Economic Justice and Another	2307
 Institute for Global Change and Ghana-India Kofi Annan	4126
 Institute of Communications of Angola	718
-Institute of Communications of Angola.	718
 Institution Primary Roles and Responsibilities Anchor	7548
 Institutional Logics Case Analysis	226
 Instituto Angola	1215
@@ -2682,16 +2585,14 @@ Investment Analysis	1244
 Iraq Anggi Septia Irawan	8376
 Isla de Annobón	4209
 Isla de Annobón Annobón	4209
-Ivoire and Angola	7259,29
-Ivoire and Angola.	6736
+Ivoire and Angola	6736,523,29
 J.G. Anderson	8130
 J176 Anum Tessa Avenue	7886
 JURÍDICOS INNOVACIÓN SOCIAL BIOKO SUR ANNOBON	4209
 Jamaican Prime Minister Andrew Holness	9179
 James Antwi	771
 Jaona Harilala Andriamaniraka	8914
-Jornal de Angola	561,654,3996,3643
-Jornal de Angola.	4876
+Jornal de Angola	561,654,3661,335,3643
 Jornalistas Angolanos. Foto	5211
 Jose Carlos Almeida and Antonio	9399
 José António Lopes Semedo	539
@@ -2712,7 +2613,7 @@ Kaye Ann Williams	10481
 Kenya AI Safety Annual	7548
 Kenya Annual Country Report	7548
 Kenya Anywhere Anywhere Provide	6432
-Kenya Copyright Board and Anti-Counterfeit Authority.	10041
+Kenya Copyright Board and Anti-Counterfeit Authority	10041
 Kenya Institute for Public Policy Research and Analysis	8764
 Kenya School of Annual	7548
 Kenya and Angola	3867,11,1926,1046
@@ -2737,7 +2638,7 @@ LTA A. Any Telecommunications Service Provider	4610
 LTE Android	9997,35
 Label Question Answer	10714
 Land Cruiser FJ Opinion By Andrew	6244,1
-Land Use Change Analysis.	7695
+Land Use Change Analysis	7695
 Landscape Analysis and Tool Selection	1824
 Las Anod	2719
 Latest Posts Anthropic	9769
@@ -2747,7 +2648,7 @@ Le Conseil Coton Anacarde Karité	10096
 Le Pdg de SaH Analytics International	5377
 Lead Industry Analyst	8828
 Legal Framework Analysis	7548
-Legal Framework Analysis Kenya's	7548
+Legal Framework Analysis Kenya	7548
 Legal Standing Any	3861
 Leigh Angelo	8563
 Lesotho Communications Authority Annual Report	5168
@@ -2772,7 +2673,7 @@ Luganda and Kinyarwanda. Kenya's AntuGrow	9944
 Luminosos INDUSTRIA INSPECCION ANUAL	4209
 Luminosos INDUSTRIA INSPECCION ANUAL CULTURA LICENCIA	4209
 Luminosos INFORMACIÓN INSPECCION ANUAL CULTURA LICENCIA	4209
-Lunda Norte Angola's	9399
+Lunda Norte Angola	9399
 Léonce Ano	6014
 M'. DFC Annual Report FY2021	462
 M-Pesa. Flutterwave. Andela. As Siyabonga	6808
@@ -2807,18 +2708,16 @@ Madagascar. Analysis	7358
 Madagascar. Announced	3954
 Madame Antoinette Ashley NGUESSO AMBENDET	3326
 Madame Marie Angélique Mame Selbé DIOUF	7641
-Mahefa Andriamampiadana	4136,126,81,1652,850,308,146
-Mahefa Andriamampiadana.	7998
+Mahefa Andriamampiadana	4136,126,81,1652,850,308,146,699
 Mahefa Andriamampiadana. Mialisoa Ida	7899
 Main Reason For Not Supporting Any	7869
 Main Route Antenna Details Make Model	736
 Maka Angola	9399
-Maka Angola.	9399
 Make Model Antenna Power	736
 Makindye-Ssabagabo. Another	9696
 Malawi Politics Analysis	4790
 Malawi and Angola	7963
-Malawi. Angola's	1767
+Malawi. Angola	1767
 Mamadou Angelo Diallo	10272
 Manager Anna Nylander	8094
 Mangaral Koudjal Antoinette	10364,17
@@ -2829,7 +2728,7 @@ Mapie Annobón	4209
 Marc André Loko	3100,50,48,2684,1510
 Marc André Loko. Pour	7392
 Marcory Anoumabo. La	6144
-Mari Cruz Evuna Andeme.	6841
+Mari Cruz Evuna Andeme	6841
 Marie Ange Akpa	1266
 Marie Angélique Mame Selbé Diouf	7701
 Marie Angélique Mame Selbé Diouf. La	7701
@@ -2864,7 +2763,7 @@ Mgr Andrew Nkea Fuanya	6575
 Mhe. Angellah Jasmine Mbelwa Kairuki	7863,1
 Mheshimiwa Anne Kilango Malecela Mbunge	2868
 Michael Bowren and Slant CEO Simon Anderssen	6286
-Michcoma Angola.	9399
+Michcoma Angola	9399
 Michel Anihibié	3350
 Middle Powers Digital Antitrust Efforts	5044
 Migration Information and Data Analysis System	7048
@@ -2875,9 +2774,8 @@ Milagrosa Obono Angüe	8048,2313
 Million Capital Raise Anchored	9735
 Mind AG Anthropic	8530
 Minister Anand	9043,232,44
-Minister Anand's	9275
 Minister Angela Kairuki	5788
-Minister Angellah Jasmine Mbelwa Kairuki's	6021
+Minister Angellah Jasmine Mbelwa Kairuki	6021
 Minister of Health and Another	2307
 Minister of Home Affairs and Another	5533
 Minister of State Anne Désirée Ouloto and Minister	3281
@@ -2890,7 +2788,7 @@ Ministry of Annual	7548
 Ministry of Annual and Global Governance	7548
 Ministry of Ministry of Annual	1777
 Ministério da Saúde de Angola	10188
-Minutes of Annual General Members’	585
+Minutes of Annual General Members	585
 Mme ANZOUMANA	2342
 Mme Anne Marie Konan Payne	3340
 Mme Anne-Rachelle Marcel Inne	3341
@@ -2913,7 +2811,7 @@ Ms. Annette Ssemuwemba	7967
 Ms. Aryemo Anna	3005
 Mário António	10614
 N.º INDICADORES Angola	4044
-NASA Deputy Administrator Matthew Anderson and U.S.	6897
+NASA Deputy Administrator Matthew Anderson and U.S	6897
 NCA and GSS. Any	236
 NCC Annex Office	7747,104
 NCC Annex Office Auditorium	8417
@@ -2951,7 +2849,7 @@ National Social Security Fund Annual Membership	2775
 National Technologies B- Annual	7548
 Navin Anandaraj	4434
 Nedu Ani	6211
-Negocios de Angola.	9399
+Negocios de Angola	9399
 Negotiated Agreement CAGR Compound Annual Growth	1243
 Nelson Mandela Annual Lecture Award	10062
 Nenyi George Andah	5277
@@ -2979,7 +2877,7 @@ Nueva Zelandia ANSELL-BRIDGES	6613
 Number of Annual	7548
 Nurse Anesthetists Year	4202
 Nuvem Nacional de Angola	5979,1
-Nva. Ant.	4209
+Nva. Ant	4209
 O Banco Nacional de Angola	7115,225
 O Conecta Angola	7240
 O Fórum Anual de Digitalização Inclusiva	7945
@@ -2989,13 +2887,11 @@ O Projecto de Aceleração Digital de Angola	8594
 O de Angola	5211
 OCR. Any	142
 ONG. Pour André Todjè	6221
-OS and Android	1846
-OS and Android.	2380
+OS and Android	1846,534
 OTR Année	8673
 Observatoire ANRT	6737
 Observatoires ANRT	6737
 Observação da Terra ANGEO-1	5405
-Observação da Terra ANGEO-1.	5405
 Offences Any	3,2706
 Office Annual	7548
 Officer In-Charge of Anti-Money Laundering Unit	3691
@@ -3007,8 +2903,7 @@ Online Annex B	8436
 Ookla Advanced Analytics Services	4130
 Open Government Partnership. Analysis	4981
 Open-Source Analyst	10729
-OpenAI and Anthropic	8014,496,86,95,336
-OpenAI and Anthropic.	9169,899
+OpenAI and Anthropic	8014,496,86,95,336,142,899
 OpenAI and Anthropic. CafeOne	7396
 OpenAI and Anthropic. Ernest Mwebaze	9263
 Operations Analysts	6832
@@ -3023,7 +2918,6 @@ Original Research Anonymity	9129
 Orçamento da União Europeia António Freitas de Sousa	4938
 Owner of Critical Infrastructure Any	7538
 Oxford Analytica	2518
-Oxford Analytica.	2518
 Oyinsan and Francesco Andreoli	10165
 P180693 Angola Accelerate	6539
 PAD. Annexes	969
@@ -3036,7 +2930,7 @@ PE INSPECCION ANUAL Rótulos	4209
 PIM. Frequency Annual Data	3604
 PIU PIU ANE PIU PIU PIU	2989
 PIU PIU PIU PIU Annex	2989
-POTRAZ Finally Announces Starlink's	1872
+POTRAZ Finally Announces Starlink	1872
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS' MEETINGS	8866
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS’ MEETINGS	585
 PROVINCIAL KIE- PROVINCIAL PROVINCIAL ANÁLISIS SOCIO-	4209
@@ -3050,13 +2944,12 @@ Par Anselme Mbata	4335
 Para Angola	4250,4600
 Paratus Angola	1227
 Parque de Emergencias de Annobón Annobón	4209
-Part of Angola's	645,3040
+Part of Angola	645,3040
 Participants. Any	4217
 Participation Financière Publique Rapport Annuel	2342
 Partido Nacional de Salvação de Angola	10428
 Partido Pacífico Angolano	10428
-Payment Systems Oversight Annual Report	1384,5778
-Payment Systems Oversight Annual Report.	4265
+Payment Systems Oversight Annual Report	1384,2881,2897
 Pea Yoka Antoine	3552
 Peace and Security and H.E. Dr. Géza Andreas	7794
 Pearl Anniversary	7312
@@ -3069,7 +2962,7 @@ Percibir Annual	4209
 Persol Finance and Administrative Manager Jacqueline Anum	236
 Personal Data Any	2958
 Personnel Audit and Skills Gap Analysis	7659
-Peter Agoro and Antony Manyara.	9645
+Peter Agoro and Antony Manyara	9645
 Peter Anomah-Kordieh	10067
 Physical Annual Emerging Technologies Technologies	7548
 Place At Any Table	8644
@@ -3084,8 +2977,6 @@ Police Electronic Crash Records and Analytics	1001
 Policy Analysis	7590
 Policy Analyst	4528
 Policy Analyzer	9618
-Policy Analyzer's	9618
-Policy Analyzer.	9618
 Political Economy Analysis	1261
 Polícia Nacional de Angola	794
 Polícia Nacional de Angola. Artigo	794
@@ -3110,10 +3001,10 @@ President Felix Antoine Tshisekedi Tshilombo	5900
 President of Angola	2787
 President of Angola Your Excellency	2787
 President of Anthropic	1636
-Prime Minister Andy Burnham's	10433
+Prime Minister Andy Burnham	10433
 Primeiro Fórum Anual de Digitalização Inclusiva	8159
 Principal Analyst	8727
-Private Credit Information Centres Confirms Angola's	3722
+Private Credit Information Centres Confirms Angola	3722
 Proceeds of Crime and Anti-Money Laundering Act	8180
 Process Flow Analysis	3005
 Procurador-Geral da República de Angola	4147
@@ -3155,9 +3046,9 @@ Questions Answered	2677
 Quick Answer	6629
 Quiet Energy Transformation Another	6714
 RAPPORT ANNUEL	822,176,7893
+RAPPORT ANNUEL SUR L	4459
 RAPPORT ANNUEL SUR L'ÉVOLUTION DES SERVICES	4459
 RAPPORT ANNUEL SUR LA GESTION DU	2342
-RAPPORT ANNUEL SUR L’	4459
 RAPPORT ANNUEL SUR L’ÉVOLUTION DES SERVICES	4459
 RAS PETROLEUM Envoy X1 Antenne	998
 RD-Connect Genome-Phenome Analysis Platform	10188
@@ -3194,22 +3085,21 @@ Renewal Annual	736
 Report C1- Annual	7548
 Reporting Accountants and Auditors Announcement of Dividend	4896
 Reporting Templates Annual National Surveys Third-Party	4528
-Reporting and Learning and Annexes.	7548
+Reporting and Learning and Annexes	7548
 Repres. Annual Mensual	4209
 Representing the Centre for Analytics and Behavioural Change	10729
 Republic of Angola	974,1317,1915,2333,125,2735
-Republic of Angola and Country Director Albert G.	1770
+Republic of Angola and Country Director Albert G	1770
 Republic of Mozambique. Anonymization	3861
 Republic of South Africa. ANNEXURE D2	4896
-República de Angola	14,153,3980
-República de Angola.	3519
+República de Angola	14,153,3352,628
 Requirement Analysis	5665
 Research Analyst and National Coordinator	9995
 Research Animal Health Level	4153
 Ressources Animales	3396
 Results Report Angola Digital Acceleration Project	2712,3867
 Results and Announces Capital Raise	9735
-Revenue Announcement.	5702
+Revenue Announcement	5702
 Revised Universal Access and Gap Analysis Report	1433,317
 Rhodes University. The Another	9128
 Ribara Analytica	8327,562,1281
@@ -3239,11 +3129,10 @@ Rwanda. Annual	811
 Rwanda. Anthropic's Beneficial Deployments	5048
 Rx Frequency Angles	736
 RÉSUMÉ ANALYTIQUE L	7655
-Rádio Nacional de Angola	5954,806
-Rádio Nacional de Angola.	5974
+Rádio Nacional de Angola	5954,20,786
 Réservation ANSI	998
 S. Figueroa Street Los Angeles	3364
-SADC Anti-money Laundering Task Team.	6720
+SADC Anti-money Laundering Task Team	6720
 SANAP South African National Antarctic Programme	5246
 SANIDAD ANIMAL Y DESARROLLO CAPACITACIÓN INSTITUTO	4209
 SAWADOGO Angèle	737
@@ -3257,12 +3146,12 @@ SIGLES ET ABREVIATIONS ANPE Agence Nationale	12
 SITUATIONAL ANALYSIS	396,7152
 SITUATIONAL ANALYSIS FOR DATA ECONOMY	961
 SLB's Managing Director for Angola	2348
-SME.45 Angola's	9399
+SME.45 Angola	9399
 SMS RAPPORT ANNUEL	998
 SSONIG2PTEECDII CNRA ADCI INIE CI-ENGINEERING ANADER	2342
 STA-S Southern Africa Annex	9630
 SUR ANNOBON SUR	4209
-SV Angel.	10162
+SV Angel	10162
 SV Angel. Terra	10200
 SWOT ANALYSIS	4126
 SWOT ANALYSIS STRENGTHS WEAKNESSES	4126
@@ -3285,6 +3174,7 @@ Scenario Analysis of Africa's AI Trajectory	2957
 School Connectivity Landscape Analysis	5851
 Score Angola	5247
 Score Angola Ghana Kenya Mozambique	5247
+Second Annual Work Plan African Development	43
 Secretaria Adjunta de Antidrogas	4209
 Secretaria Adjunta de Antidrogas Servicio	4209
 Secretaria Titular de Antidrogas	4209
@@ -3292,7 +3182,6 @@ Secretary of State Mari Cruz Evuna Andeme	3496
 Secretary-General António Guterres	8143
 Secretário-Geral António Guterres	2816
 Section A of Annex I	7821
-Section A of Annex I.	7821
 Sector Annual	7548
 Sector Annual AI	7548
 Sector Annual Missions Portfolio AI	7548
@@ -3373,10 +3262,9 @@ Statistical Analysis Software	8604
 Statistics Sweden. ANG	8051
 Stochastic Frontier Analysis	1828
 Strategic Anchors for Fintech Development	4848
-Strategic Management and Business Analytics.	6946
+Strategic Management and Business Analytics	6946
 Stratégies de Croissance Accélérée Analyste des Enjeux	7999
 Strengthen Anti-Corruption Strategies	9397
-Strengthen Anti-Corruption Strategies'	9397
 Strengthened Data Analytics	10550
 Subproject Assessment and Analysis	1988
 Sudan Minister of Finance Announces Full Support	8613
@@ -3393,8 +3281,7 @@ TCO Analysis	6432
 TEKNOLOJIA YA HABARI MHESHIMIWA ANGELLAH JASMINE	6019
 THEMATIC ANALYSIS Policy Insight Series	4848
 TIGER GLOBAL IS NOT NAMED ANYWHERE	9098
-TIS Angola	6694
-TIS Angola.	8879
+TIS Angola	6694,2185
 TIS Tech Angola	6694,8
 TOUADÉRA ANNOUNCES BID FOR THIRD TERM	4127
 TRANSFORMATION ACTION PLAN ANNEX	1818
@@ -3437,12 +3324,12 @@ Treasury Annual	7548
 Treatment Antiretroviral Biosafety Cabinet Biosafety Level	4153
 TrendAI and Anthropic	7137
 Téte António	9260,1230
-U. Anagboso.	5349
+U. Anagboso	5349
 UE Anne Marchal	5303
 ULS Vice President Anthony Asiimwe	4753
 UN Secretary-General António Guterres	2526,7260
 UN Secretary-General Kofi Annan	8961
-UNCDF Annual Report.	8671
+UNCDF Annual Report	8671
 UNESCO South Sudan Education Sector Analysis	3583
 UNHCR Gap Analysis	1867
 UPDATED SITUATIONAL ANALYSIS	5533
@@ -3483,11 +3370,9 @@ Var Année	2342
 Vehículo Domes. Repres. Respons. Soberanía Annual	4209
 Vendor TIS Tech Angola	6694
 Ver Angola	3468,5931
-Ver Angola.	9399
 Victor Anthony	5267
 Voz de Annobón	4209
-WATRA Annual General Meeting	5677
-WATRA Annual General Meeting.	5676
+WATRA Annual General Meeting	5676,1
 WATRA Annual Plan and Programme of Activities	5677
 WB Angola CCDR	800
 WELE NZAS SAN ANTONIO DE PALEA	4209
@@ -3501,9 +3386,8 @@ Website Management Mr. Andrew Kashoka	34
 Whether ANCS	1989
 Wild Animals and Birds Protection Act	7760
 Will Control Everything Anyone Sees	6343
+William Anyuon	5014
 William Anyuon Kuol	4668
-William Anyuon Kuol.	4668
-William Anyuon.	5014
 Wingu Africa CEO Anton Volianskyi	2580
 Wingu Group CEO Anthony Voscarides. Wingu	2988
 World Bank Angola CCDR	800
@@ -3515,20 +3399,17 @@ World Doesn't Need Another UN	7112
 World Malaria Report Annual	4301
 XI. Public Questions and Answers Beginning	5773
 XXIX ANNEXE	3396
-Xalam Analytics	2774,382,28,1,1340,1268
+Xalam Analytics	2774,382,28,1,674,666,1268
 Xalam Analytics LLC	3184,1,1340
 Xalam Analytics Market Brief Companion	2774
-Xalam Analytics.	3859
-Xalam Analytics’	3184,1,1340
 Xavier António Alafo Technical Director Cybersecurity	2989
-Xpatweb Annual Global Mobility Conference	7569
+Xpatweb Annual Global Mobility Conference	7569,1681
 Xpatweb Annual Global Mobility Conference Programme	7569
-Xpatweb Annual Global Mobility Conference.	9250
 Y BASE DE KIE-NTEM ANNOBON INTERPOL	4209
 YEDUGURY S. ANIL REDDY	2342
 Yakan Annick Amani-Koné	9961
 Year Mark Zuckerberg Announces Groundbreaking Update	5390,965,827
-York and Los Angeles.	9645
+York and Los Angeles	9645
 YouTube Popular Categories Android	9993
 Yves Benoît Andecko	9631
 Z Annual	3861
@@ -3537,12 +3418,10 @@ ZEEX. Announced	8626
 ZSE. Any	4896
 Zachary Skidmore Anglo-Tunisian	4933
 Zaire Ant	9399
-Zambia Business Angel Network	8550
-Zambia Business Angel Network.	10510
+Zambia Business Angel Network	8550,1960
 Zambia Mozambique Djibouti Algeria Uganda Angola	6938
 Zimbabwe A Xalam Analytics Country Report	3185
 Zimbabwe Annual Telecommunications Conference	5727
-Zimbabwe Anti-Corruption Commission	970,184,400,7085,336,422
-Zimbabwe Anti-Corruption Commission's	8419
+Zimbabwe Anti-Corruption Commission	970,184,400,6865,220,336,422
 Zimbabwe AntiCorruption Commission	1154,400
 Zimbabwe and Zimbabwe Anti-Corruption Commission MoU	1154

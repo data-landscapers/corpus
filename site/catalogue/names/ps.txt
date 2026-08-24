@@ -3,7 +3,6 @@ Act PPP Public-Private Partnership PSCBC Public	5533
 Adolescent Psychiatry	8604
 Annual Review of Organizational Psy-	8603
 BMC Psychiatry	8671
-BMC Psychiatry.	8671
 Barcelona for PSG	9876
 Burkina Faso's PSSN	7707
 CBN PSV	9570
@@ -24,14 +23,14 @@ DICOM PS3.12	1009
 Digital Platform for Psychological Counseling	5167
 Documentation for PSPs	7222
 EU PSD1	5229
-Education PS Belio Kipsang’	2666
+Education PS Belio Kipsang	2666
 Education Psychology and Public Media	8130
 Educational Psychology Review	8602
 Former PSC	3439,1377,686,62,1198,3,361
 Fourth Industrial Revolution PSET	6832
 GIZ. Rep of PS Mary Kerema	3575
 HMIS and PSU	1261
-Heal Psychol Behav Med.	8376
+Heal Psychol Behav Med	8376
 Hill PS	1219
 Hypertext Preprocessor PS Principal Secretary for ICT	6432
 ICT PS	9334
@@ -40,7 +39,7 @@ IDA20 PSW. Risks	1135
 Idemia PS	2823
 Implementation Unit PSC Public Service Center	969
 Interior PS Raymond Omollo	3983
-J Consult Psychol.	8376
+J Consult Psychol	8376
 Journal of Applied Psychology_	2948
 Journal of Business and Psychology	8460
 Journal of Experimental Psychology	7759
@@ -87,18 +86,15 @@ PS-EEA	737
 PS. Insufficient	10017
 PS2-4-Liberia-NIR-Legal-Framework-and-Mandate.pdf	1373
 PS3.15 Authentication Authentication	1009
-PS4-S2'	1718
+PS4-S2	1718
 PSBs and Microfinance Banks	4848
 PSC Accreditation	5679
 PSC Avaliacao Laboratorial HIV Contem	966
 PSC Project Steering Committee PwD Person	3604
 PSC and PSG	1867
-PSC's	5825
 PSC. Hon. Speaker	10313
-PSC’s	7071
 PSDC Partenariats	643
 PSDGP	2889
-PSDGP.	2889
 PSE Les	2966
 PSE Suivant	2966
 PSE. Il	2966
@@ -117,7 +113,6 @@ PSP. C'est	10515
 PSP. El	8378
 PSPs Retail Mobile App	6938
 PSPs Scope System Type Binary Indicates	7221
-PSPs.	3495,4203
 PSPs. Open	6814
 PSPs. Page	4848
 PSPs. Participants	4848
@@ -125,7 +120,6 @@ PSRSIS	7707
 PSSI Politique de Sécurité du Système	10712
 PSSIE	1238,9281,193
 PSSIE Rapports	10712
-PSSIE.	10519
 PSSIS	7707
 PSSPs	3491,6199
 PSTN Traffic	6000
@@ -155,9 +149,8 @@ Psicoterapeuta de IA	2816
 Psirtisncipal Investigators Gender The RCZFicgounrdeu4c	1154
 Pssie	3106,5779
 Psychological Bulletin	8460
-Psychology	5224,28,63,2444,701,142,526
+Psychology	5224,28,63,34,2410,701,142,526
 Psychology and Education Journal_	4432
-Psychology.	5349
 Psychology_	5349
 Psychometric	8376,753
 Psychosocial	1219,7383

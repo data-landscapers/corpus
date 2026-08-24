@@ -2,8 +2,7 @@ AH KUM LIMITED Data Controller INST-9009970A119	7167
 AH KUM LIMITED Data Processor INST-9009970A119	7167
 Abraham Kuot	2687
 Accelerate Fintech Innovation Jordan Kuwait Bank	5322
-Accra and Kumasi	7695
-Accra and Kumasi.	7158
+Accra and Kumasi	7158,537
 Accra and Kumasi. Beyond	10415
 Adan Kulow Maalin Qaasim	9241
 Adan Kuulow Macalin Qasim	9242
@@ -14,7 +13,7 @@ Aleem Kumi	9977
 Amazon Elastic Kubernetes Service	1729
 Amazon Kuiper	5158,522,1638,3088
 Amazon Kuiper Kenya Limited	10588
-Amazon Kuiper Nigeria Limited.	5212
+Amazon Kuiper Nigeria Limited	5212
 Amazon Kuiper. Participants	5158
 Amazon's Project Kuiper	1887,3325,295,1344,405
 Amazon’s Project Kuiper	3405,3898
@@ -49,12 +48,13 @@ Dr. Bimal Kumar	6423
 Dr. Eng. L. Kunaka	1554
 Dr. Kunle Kakanfo	9444
 E. Dhenhere Dr Eng. L. Kunaka	1154
-E. Kusnadi.	5349
-Eng. L. Kunaka Dr C.E.F.	1154
+E. Kusnadi	5349
+Eng. L. Kunaka Dr C.E.F	1154
 Eng. L. Kunaka Dr I Gwitira	1154
 Esther Kunda	3013,3171,2811,1157,19
 Faraimose Kutadzaushe	7618,1
 Fela Kuti	9739
+First Kurdish Conversational AI Platform	5322
 Fonjock Harris Kunju	9616
 Garang Mayom Kuoc Malek	3583
 Garang Mayom Kuoc Malek and Ruey Majok	3583
@@ -101,7 +101,7 @@ Ku MSF-PRO-NJR-ARCEP- Conforme	998
 Ku UL	6891
 Ku and Ka-band	3759
 KuCoin	5698,4457
-KuCoin Nigeria and Luno.	9955
+KuCoin Nigeria and Luno	9955
 KuCoin and OKX	2826
 KuGompo	8077
 Kuaishou	8277
@@ -122,14 +122,12 @@ Kuanzisha Kamati	6019
 Kubahiriza	1214
 Kubaini	2868
 Kubayi	5808,375,896,426,1016,1373
-Kubernetes	2608,3021,296,1060,3632
+Kubernetes	2608,9,3012,296,1060,3632
 Kubernetes-based	4434
-Kubernetes.	2617
 Kuboresha	2868,3151
 Kuda Premium	10284
 Kudakwashe Dandajena and Mercy Fomundam	1814
-Kudakwashe Mawere’s	8639
-Kuda’s	10284
+Kudakwashe Mawere	8639
 Kudelski IoT	2521
 Kudenga House	4896
 Kudenga House Cell	4896
@@ -167,7 +165,6 @@ Kuhifadhi Data	6015,4
 Kuhifadhi Data Dodoma	6019
 Kuhlmann	2093
 Kuhlmann and Heuberger	2093
-Kuhn’s	8380
 Kuhuisha Mfumo	2868
 Kuhusu	2710,8,2372
 Kuhusu AI	5090
@@ -183,7 +180,7 @@ Kuimarisha Ushiriki	2868,3151
 Kuimarisha Uwekezaji	6019
 Kuiper	4632,1169
 Kuiper Systems LLC	4632
-Kuje Prison.	10560
+Kuje Prison	10560
 Kujenga	2868,7524
 Kujenga Minara	6019
 Kujenga Uwezo	6019
@@ -223,10 +220,8 @@ Kunda	6184,2811,1157,19
 Kundai Ngwena and Swaraj Ram	1814
 Kundi la Wafanyakazi	6019
 Kune Frenchman Robin Reecht	10464
-Kunene	1013,266,665,644,360,1868,46,5603
-Kunene.	8960
+Kunene	1013,266,665,644,360,1868,46,4098,1505
 Kunene. Theofelus	4816
-Kune’s	10464
 Kungu	8948
 Kuni Tyessi	8421
 Kunmi Adepoju	8588
@@ -241,7 +236,6 @@ Kuppan and Divya2025	8283
 Kupulma	7165
 Kur Mohammed Ave	5903
 Kuratibu	2868,3151
-Kurdish Conversational AI Platform	5322
 Kurdistan	2541
 Kurdistan Network	9082
 Kuria West Women Sacco	6946
@@ -263,7 +257,7 @@ Kusche	8283
 Kuscu	7759
 Kusele Sangoni-Diko	5612
 Kushwaha	8605
-Kusile Power Station's	2626
+Kusile Power Station	2626
 Kusimamia	2868,3151
 Kusimamia Hati	6019
 Kusimamia Taasisi	6019
@@ -288,7 +282,7 @@ Kuunganisha Wilaya	2868,3151
 Kuwait	5580,120,1498,3516
 Kuwait ALHAYEN	6613
 Kuwait Civil ID	10714
-Kuwait Finance House Partners With Bahrain’s	5322
+Kuwait Finance House Partners With Bahrain	5322
 Kuwait Kuwait ID System	10714
 Kuwait Launch Lebanon License MENA Meta	5322
 Kuwait Mobile ID	10714
@@ -301,8 +295,8 @@ Kuzindua Kampeni	2868
 Kwa Kuwezesha	6019
 L. Kunaka Dr Eng. L. Kunaka	1154
 L. Kunaka Dr I Gwit	1154
-L. Kunaka Dr I Gwitira DDrrII.	1154
-LESLEY KUFANDADA Jul.	2888,32,354,504,1444,877,6,100,680,129,293,115
+L. Kunaka Dr I Gwitira DDrrII	1154
+LESLEY KUFANDADA Jul	2888,32,354,504,1444,877,6,100,680,129,293,115
 Lydia Kukua Asamoah	10142
 Lydia Kukua Asamoah Reporter	8384
 MAKUBALIANO YA KUIMARISHA USHIRIKIANO KATIKA UCHUMI	7863
@@ -317,13 +311,13 @@ Mark Kiarie and Kevin Kuria	9056,411
 Mark Kur Deng	4042
 Member Attendance Dr. Eng. L. Kunaka	1554
 Miatta E. O. Kuteh	10020
-Minister Agok Makur Kur.	3583
+Minister Agok Makur Kur	3583
 Minister Kubayi	9894
 Minister of Trade and Industry William Anyuon Kuol	3583
 Mmamoloko Kubayi	8521
 Mohamed Al Kuwaiti	2715
 Mohamed Kutubu	7182
-Molo MP Kuria Kimani.	6409
+Molo MP Kuria Kimani	6409
 Monsieur Kuassi Ayikue SATCHIVI Adjoint	10237
 Mr. Claud Kumalija	1261
 Mr. Ken Aseye Kutsoati	3833
@@ -331,7 +325,7 @@ Mr. Leye Kupoluyi	8386
 Mr. Sena Kudjawu	3384
 Ms Shartsi Kutesa Musherure	10299
 Ms. Esther Kunda	9182
-Ms. Kunda.	9182
+Ms. Kunda	9182
 Mtandao Korea Kusini	3447
 Muhammed Kurubally	9312
 Ne Kunda Nlaba.ASS	7882
@@ -341,7 +335,7 @@ Obanua’s Entertainment’s Kumi Bora	9739
 Omaheke and Kunene	2977
 Par Jankay Kujabi BANJUL	10070
 Paul Tirimba and Martin Kungania	899
-Pauline Kuresoi and Wilson Teketi.	6946
+Pauline Kuresoi and Wilson Teketi	6946
 Posta Kusini	6019
 Presidential Delivery Unit Head Ms. Kusobile	6201
 Project Kuiper	4623,9,358,776,35,868,64,570,79,749
@@ -349,7 +343,6 @@ Prossy Kuteesa of Ndejje University	8710
 R. KUJINGA	3025
 Rajesh Kumar Shakya Team Member	1284
 Rauno Kulla	6423
-Rauno Kulla.	6423
 Ravi Kumar	4214
 Reference Kuehn2018	2117
 Reference Kupchan2023	2117
@@ -363,10 +356,10 @@ Secretary of Kuria West Constituency Development Fund	6946
 Serikali Kupitia Mradi	7218
 Service KURA Kenya Urban Roads Authority	2775
 Site Supervisor Kur Deng Kuot	4640
-South Africa. Kuika Watat J.	2948
+South Africa. Kuika Watat J	2948
 Tamale and Kumasi Outer Ring Roads	7695
 Technical Director Sam Kummary	2537
-Thomas Kuhn’s	8380
+Thomas Kuhn	8380
 Thomas Kurian	1636
 Thomas S. Kuhn	8380
 Thursday. Edwin Kumfa Ngalang	10621
@@ -378,7 +371,6 @@ WALTER KUDOYI Data Processor INST-1072651CA3C	7167
 West Khomas Kunene Ohangwena Omaheke Omusati	1013
 West Kunene Omaheke Namibia	1944
 William Anyuon Kuol	4668
-William Anyuon Kuol.	4668
 Wingu Kubernetes	5629
 Z’ITUMANAHO KURI BOSE ISHAKIRO TABLE	1214
 Z’ITUMANAHO KURI BOSE Twebwe	1214

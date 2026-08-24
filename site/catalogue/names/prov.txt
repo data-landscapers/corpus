@@ -57,13 +57,13 @@ Aug-26 Province Western Cape Western Cape	8999
 Authorised Crypto Asset Service Provider	8840
 Authorised Crypto Asset Service Providers	8840
 Autorização Geral Provisória	2701
-A’ Internet Access Provider.	7036
+A’ Internet Access Provider	7036
 Bank of Ghana ISP Internet Service Provider	6936
 Basic Health Care Provision Fund	4301,493
 Basic Healthcare Provision Fund	4301
 Board. Financial Provisions Funds	587
 Broadband Wireless Access Providers	7401
-Broadcasting Service Providers.	10407
+Broadcasting Service Providers	10407
 Bulawayo Metropolitan Province	1248
 Business-to-Business Internet Service Provider	3300
 CAPITALES DE PROVINCIAS CAPITALES DE PROVINCIAS	4209
@@ -73,15 +73,15 @@ CIRMR-CSM.S3 Service Providers	10721
 CLOSED EXAMINATION OF DATA PROVISIONS	1243
 CONFLICT OF LAWS AND SUPREMACY PROVISIONS	3861
 CONSIDERATIONS OF CORE PROVISIONS	1243
-CRM-RA.S6 Assessment Providers'	10721
+CRM-RA.S6 Assessment Providers	10721
 CSA Cybersecurity Service Provider	4791
 CSIRT Nacional. SUBSECÇÃO VIII Provedor de Serviços	6970
 CSPs Content Services Providers CT-OVC Cash	2775
 Caching Provider	26
-Capitales Provinciales.	4209
+Capitales Provinciales	4209
 Chief Executive Officer of Technology Service Providers	6946
 China's Shandong Province	9238
-City of Kigali and All Provinces.	718
+City of Kigali and All Provinces	718
 Civil Magistrado Audiencia Provincial Abogado	4209
 Cloud Service Provide	6432
 Cloud Service Provider	9123
@@ -114,15 +114,13 @@ Copperbelt Province	1867,121,3996,1400
 Copperbelt Provincial Health Director Dr. Charles	7384
 Copperbelt Provincial Health Office	7383
 Copperbelt and Northwestern Provinces	3524
-Copperbelt and Northwestern Provinces.	3524
 Crypto Asset Service Providers	10452
 Cuentas CONCEPTO PROM. EMPRES. EXTERIOR PROVINCIAL	4209
 Cunene Province	9399
 Customer and Provider	9123
 Customers and Providers. Customers	9123
-Cyber Service Provider's	10721
-Cybersecurity Service Provider	10268,108
-Cybersecurity Service Provider.	9842
+Cyber Service Provider	10721
+Cybersecurity Service Provider	9842,426,108
 Cybersecurity Service Provider. Companies	10268
 Cybersecurity Service Provider. Entities	9728
 Cybersecurity Service Providers	9728,111
@@ -137,9 +135,9 @@ DEL. PROV. BIOKO SUR Y ANNOBON	4209
 DEL. PROV. CENTRO SUR	4209
 DEL. PROV. DE BIOKO SUR	4209
 DEL. PROV. KIE NTEM	4209
-DEL. PROV. REG. CONT.	4209
+DEL. PROV. REG. CONT	4209
 DEL. PROV. WELE NZAS	4209
-DELEG. PROV.	4209
+DELEG. PROV	4209
 DELEG. PROVIN. CENTRO SUR	4209
 DELEG. PROVIN. CENTRO SUR.-Concepto	4209
 DELEG. PROVIN. KIE NTEM	4209
@@ -151,7 +149,7 @@ DELEG. PROVINC. BIOKO SUR	4209
 DELEG. PROVINC. CENTRO SUR	4209
 DELEG. PROVINC. KIE NTEM	4209
 DELEG. PROVINC. WELE NZAS	4209
-DELEGAC. PROVINC.	4209
+DELEGAC. PROVINC	4209
 DELEGACION PROVIN. ANNOBON.- Concepto	4209
 DELEGACION PROVIN. BIOKO NORTE.- Concepto	4209
 DELEGACION PROVIN. BIOKO SUR.- Concepto	4209
@@ -161,7 +159,7 @@ DELEGACION PROVIN. KIE NTEM.- Concepto	4209
 DELEGACION PROVIN. LITORAL.- Concepto	4209
 DELEGACION PROVIN. WELE NZAS.- Concepto	4209
 DELEGACION PROVIN. WELW NZAS.- Concepto	4209
-DELEGACION PROVINC.	4209
+DELEGACION PROVINC	4209
 DELEGACION PROVINCIAL ANNOBON	4209
 DELEGACION PROVINCIAL BIOKO SUR	4209
 DELEGACION PROVINCIAL CENTRO SUR	4209
@@ -185,7 +183,6 @@ Development Goal TAPED Trade Agreements Provisions	1243
 Development ISP Internet Service Providers KTRN	718
 Digital Credit Service Providers	7559
 Digital Credit Service Providers Directive	10385
-Digital Credit Service Providers.	7559
 Digital Credit Services Provider	6940
 Digital Credit Services Providers	6940,524,1268
 Digital Credit Services Providers Notice	6940
@@ -202,9 +199,8 @@ E-CSP Electronic Certification Service Provider EMDE	6946
 EABL Provident Fund Data Controller INST-494930800CE	7167
 EMPLOYMENT BY INTERNET ACCESS PROVIDERS	6000
 Eastern Cape Province	6832
-Eastern Cape Provincial Government.	8018
-Eastern Province	4942,664,283,454,183,20,482,2732
-Eastern Province.	5399,4361
+Eastern Cape Provincial Government	8018
+Eastern Province	4942,457,207,283,454,183,20,482,2732
 Electronic Certification Service Providers	6946
 Electronic Payment Service Provider	10418
 Electronic Payment Services Provider	5687
@@ -254,11 +250,10 @@ GENERAL PROVISIONS Protection	3714
 GOBERNADOR PROVINCIAL	4209
 GOBIERNOS PROVINC.REG.CONT.-Concepto	4209
 GOBIERNOS PROVINC.REG.INS.-Concepto	4209
-GRAL. DE POLÍTICA DELEGACION PROV. REG.	4209
-GRAL. REGIONAL PROVINC. PROVINC.	4209
+GRAL. DE POLÍTICA DELEGACION PROV. REG	4209
+GRAL. REGIONAL PROVINC. PROVINC	4209
 GRM Committees Provision	1778
-Gauteng Province	8021
-Gauteng Province’	2948
+Gauteng Province	2948,5073
 Gauteng Provincial Government	5597
 General Provisions Insert	3714
 Geoscience Australia. Provides	345
@@ -286,6 +281,7 @@ Healthcare Providers CEO Forum	10696
 High Commissioner of Koulpélogo Province	4296
 Hospital CEOs and Provincial	8603
 Hospital Provincial	5296
+Hosting Provider	26
 Hosting Service Provider	762
 Hosting Service Provider License	762
 Houet Province Secretary General Sombéniwendé Nikiema	6939
@@ -309,17 +305,16 @@ Identity Provider	1846
 Igbintade Wireless Application Service Providers Association	7776
 Impact of Chinese Tech Provision	2518
 Impilo EMR. PROVISIONAL URL	6666
-Incident Management Service Provider's	10721
+Incident Management Service Provider	10721
 Incident Management Service Providers	10721
 Information Infrastructure Provider CIM Chartered Institute	6946
 Information PMO Provincial Medical Office PMTCT	34
 Information Provided Date	22
 Information Services Provision	8022
-Information Services Provision.	8022
 Infrastructure Providers	6946
 Inhambane Province	1228,3032
 Inspector Provincial	4209
-Intelligence Provider.	5482
+Intelligence Provider	5482
 Intermediary Service Providers	8670
 Intermediate Gross Value Gross Operating Provider	236
 Internal Audit Unit Financial Provisions	587
@@ -329,17 +324,14 @@ Internet Access Providers	578,5422
 Internet Hotspot Provider	3386
 Internet Providers and Subscriptions	2775
 Internet Service Provide	958
-Internet Service Provider	718,2195,473,1664,268,4,222,389,353,79,194,162,177,2871
+Internet Service Provider	718,44,2151,473,1664,268,4,222,389,353,79,194,162,177,2871
 Internet Service Provider Association	10506
 Internet Service Provider Core Network	2913
 Internet Service Provider ITU	958
 Internet Service Provider License	762
-Internet Service Provider.	762
-Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,511,729,77,502,338,1360
+Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360
 Internet Service Providers JSI Joint Statement	1243
-Internet Service Providers.	3862,3373
 Internet Service Providers’ Association	10690
-Internet Service Provider’s	3386
 Internet Services Provider	1872
 Internet. Earth Station Service Provider	10407
 Internet. Provedor Intermediário de Serviço	6970
@@ -352,7 +344,7 @@ Jun-26 Province Western Cape Western Cape	8999
 Justice ISP Internet Service Provider RNP	1000
 KEY DATA PROVISIONS IN RTAS	1243
 KIE- PROVINCIAL PROVINCIAL TOTAL Y MODERNIZACION	4209
-KIE- PROVINCIAL TOTAL ARTESANÍA REGIONAL DISCAP.	4209
+KIE- PROVINCIAL TOTAL ARTESANÍA REGIONAL DISCAP	4209
 Kalumbila District of North-Western Province. Component	1988
 Kenya Anywhere Anywhere Provide	6432
 Kenya. Provides	346
@@ -366,14 +358,13 @@ Licensed Service Providers	236
 Licensing of Cybersecurity Providers	3887
 Licensing of Cybersecurity Service Providers	587,3300
 Licensing of Cybersecurity Service Providers Licensing	587
-Limpopo Province	8604
-Limpopo Province.	2093
+Limpopo Province	2093,6511
 Loan Products Provided	2775
 Local Internet Service Providers	7645
 Luanda Province	3686
 Luapula Province	1867,121,1100
-Luapula Provinces.	6713
-Lunda Norte Province'	9399
+Luapula Provinces	6713
+Lunda Norte Province	9399
 Lusaka Provincial Administration	5247
 MAGISTRADO AUDIENCIA PROVINCIAL	4209
 MISCELLANEOUS PROVISIONS	7845
@@ -381,7 +372,7 @@ Magistrado Audiencia Provincial	4209
 Magistrado Audiencia Provincial Oficial Mayor	4209
 Managed GDC Providers	4434
 Managed Security Service Providers	1636
-Managed Service Provider.	4437
+Managed Service Provider	4437
 Managed Service Provider. Zinzi	1739
 Mapas da Conta Provisória I Trimestre	4411,2,1
 Mapas da Conta Provisória IV Trimestre	2081,2,1
@@ -395,18 +386,17 @@ Medicines Wellness Coverage Providers Loading	9429
 Member of Provincial Parliament	8999
 Mensual PROVINCIAS DISTRITOS Importe Mensual Importe	4209
 Micro Network and Service Provider	9335
-Midlands Province.	362
+Midlands Province	362
 Miscellaneous Provisions	587,3300,3958,149
 Miscellaneous Provisions International	587
 Mobile Network Operators and Internet Service Providers	4661
+Muchinga Province	6104
 Muchinga Province Deputy Permanent Secretary Brian	6104
-Muchinga Province’s	6104
 NFORMATiON REGULATORS Provides	961
 NITDA Indigenous IT Service Providers	5665
 NITDA Indigenous IT Service Providers and Contractors	5665
 Named the Provincial Disaster Management Application System	7574
 National and Provincial Elections	7266,248
-National and Provincial Elections.	7266
 Natureza de Prova de Vida. A Base de Dados	5204,1
 Negotiating Sustainable Development Provisions	1243
 NetAssist Cybersecurity Provider Malaysia	4924
@@ -427,8 +417,8 @@ North-Western Province Permanent Secretary Colonel Grandson	7130
 North-Western Province. The Zambia Refugees and Host	1778
 Northern Cape Province	1206,2
 Northern Province	718,3901
-Northern Province of Zaire.	3980
-Northern and Western Province.	10153
+Northern Province of Zaire	3980
+Northern and Western Province	10153
 Northern and Western Provinces. Mukesha	6546
 Northwestern Province	1867,121
 Northwestern Province and Mayukwayukwa	1988
@@ -459,7 +449,6 @@ POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO	4044
 POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO Quadro	4044
 PRELIMINARY PROVISIONS	2726
 PRESIDENTE AUDIENCIA PROVINCIAL	4209
-PROV.	4209
 PROV. DE INVEST. ADTVA Y	4209
 PROV. SAN PROVINCIAL PROVINCIAL PROVINCIAL DE	4209
 PROV. WELE- PROV. PROV. PROV. BIOKO	4209
@@ -477,7 +466,7 @@ PROVINCIAL	4209
 PROVINCIAL DE PROVINCIAL DE	4209
 PROVINCIAL KIE- PROVINCIAL PROVINCIAL ANÁLISIS SOCIO-	4209
 PROVINCIAL KIE- PROVINCIAL PROVINCIAL TOTAL REGIONAL	4209
-PROVINCIAL PROVINCIAL KIE- PROVINCIAL TOTAL ADMVA.	4209
+PROVINCIAL PROVINCIAL KIE- PROVINCIAL TOTAL ADMVA	4209
 PROVINCIAL PROVINCIAL PROVINCIAL CENTRAL SUPERIOR DE	4209
 PROVINCIAL PROVINCIAL PROVINCIAL PROVINCIAL	4209
 PROVINCIAL PROVINCIAL SAN PROVINCIAL PROVINCIAL DE	4209
@@ -539,9 +528,8 @@ Proven	962,415,2301,755,143,5533
 Proven Playbook For Quitting	4554
 Proven SaaS	6432
 Proven Starlink	6876
-Provenance	24,90,325,153,366,230,75,90,15,322,111,22,3,58,212,14,198,216,84,55,291,113,159,269,356,2,259,36,98,195,2,1,231,167,2,1,1,22,39,62,90,92,72,6,1,1,3,2,1,2,308,56,19,4,87,11,26,32,5,18,53,104,61,1,62,20,83,21,20,154,28,14,14,43,286,215,113,83,7,26,13,143,84,95,467,651
+Provenance	24,90,325,153,366,230,75,90,15,322,111,22,3,58,212,14,198,216,84,55,291,113,159,269,356,2,259,36,98,195,2,1,231,167,2,1,1,22,39,62,90,92,72,6,1,1,3,2,1,2,308,56,19,4,87,11,26,32,5,18,53,104,61,1,62,20,83,21,20,154,28,14,14,43,286,215,113,83,7,26,13,143,84,95,58,409,651
 Provenance Staged	7850
-Provenance.	7606
 Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7
 Provide APIs	6423
 Provide Cloud	6432
@@ -573,8 +561,6 @@ Providers Verify	9429
 Providers and MDAs	10310
 Providers of AI	7855
 Providers of Artificial Intelligence Systems	2958
-Providers'	9123
-Provider’s	9123
 Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5
 Provides ICT	907
 Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68
@@ -582,7 +568,6 @@ Providing CRAC	9123
 Providing Future Solutions Now	1263,1045
 Providing Open Resources	5246
 Providing Personalized Guidance and Assessments	6948
-Providing Personalized Guidance and Assessments.	6948
 ProvidusBank	4771
 Province	940,1000,48,636,5940,39,2,394
 Province Area District Municipality Description of Project	6832
@@ -605,6 +590,7 @@ Provincial Excluding Harare and Bulawayo	736
 Provincial Executive	7738
 Provincial Health Information Systems Committees	396
 Provincial Health Information Systems EMR Electronic	396
+Provincial ICT Officer	9137
 Provincial ICT Officer Joyce Mushiko	9792
 Provincial ICT Officer Joyce Mushiko. Nawa	9792
 Provincial ICT Officer Lusaka	34
@@ -613,7 +599,6 @@ Provincial ICT Officer Mr. John Kabwe	34
 Provincial ICT Officer Mr. Moffat Zulu	34
 Provincial ICT Officer Mr. Richard Tumeo	34
 Provincial ICT Officer Mrs Sheila Mumbi	34
-Provincial ICT Officer.	9137
 Provincial Inspector General Servicios Magistrado Audiencia	4209
 Provincial Magistrado Audiencia Provincia Secretario Consejo	4209
 Provincial Manager Date	8603
@@ -643,15 +628,14 @@ Provision of Upgrades and Maintenance of CA	6946
 Provision. Geneva	10718
 Provisional	2775,92,847,1104,2128
 Provisional Data for Telkom Kenya Limited Table	6671
-Provisional Register of Voters.	10017
-Provisional.	2775
+Provisional Register of Voters	10017
 Provisional. PAGE	2775
 Provisions	546,39,435,134,89,144,2327,95,1087,782,1,1269,600,28,31,670
 Provisions Concerning Closely Held Companies	3714
 Provisions Indeed	5678
 Provisions National Regulatory Authorities	5679
 Provisions for Public AI	7548
-Provisions for Unaffiliated Security Holders.	7198
+Provisions for Unaffiliated Security Holders	7198
 Provisión	1701,2508
 Provocations	8460
 Provost	6936
@@ -662,7 +646,7 @@ Public Data Service Providers	958
 Public Service Commission and Gauteng Provincial Government	4896
 Quality of Service. For Internet Service Providers	9110
 REFERENCE GUIDE TO INTEGRATE DATA PROVISIONS	1243
-REG. REG. REG. DELEGACIÓN PROV. PROV.	4209
+REG. REG. REG. DELEGACIÓN PROV. PROV	4209
 REGIONAL PROVINCIAL Cuentas CONCEPTO DE LA	4209
 RELEVANT PROVISIONS OF THE MEMO	4896
 RESTAURANTES CAPITALES DE PROVINCIAS CAPITALES DE	4209
@@ -676,7 +660,7 @@ Regulation of Third-Party Service Providers	9855
 Regulations Prescribing the Provision of Universal Service	1900
 Report Provides Comprehensive Overview of Digital-ID	4225
 Reporting A. Telecommunications Service Providers	4610
-Requestors and Providers.	3815
+Requestors and Providers	3815
 Results Repository Data Warehouse Provider Registry	21
 Return ISP Internet Service Provider ITU	6539
 Revive Historic Providence Island	10644
@@ -706,8 +690,8 @@ Search Engine Provider	26
 Secretario Audiencia Provincial	4209
 Secretario Fiscalía Audiencia Provincial	4209
 Secretario Fiscalía Audiencia Provincial Secretario Fiscalía	4209
-Secretary for Provincial Affairs'	1154
-Service CCMP.S7 Providers.	10721
+Secretary for Provincial Affairs	1154
+Service CCMP.S7 Providers	10721
 Service Cybersecurity Framework Chain Risk Providers	10721
 Service Provider	3300,562,748,872,1464,3775
 Service Provider CSV Comma-Separated Values CTO	6432
@@ -716,7 +700,6 @@ Service Provider Global Money Week Insurance	940
 Service Provider IT Information Technology KNUST	4126
 Service Provider Jamii Telecommuni-	6946
 Service Provider PayLogic	2276
-Service Provider's	10721
 Service Providers	4610,2336,3775
 Service Providers CSR Corporate Social Responsibility	6946
 Service Providers Data	9123
@@ -726,14 +709,12 @@ Service Providers Registration of Cloud Service Providers	6432
 Service Providers Shall	4610
 Service Providers and NCC	10721
 Service Providers and NCC--shall	10721
-Service Providers and Users.	5676
+Service Providers and Users	5676
 Service Providers of Kenya	6946
-Service Providers'	10721
-Service Providers.	10721
 Service Providers. CIRMR-IReP.S3 CIRMR-IRP	10721
 Service Providers. Each Service Provider	10721
 Service Provision Guidelines	34
-Services Provider.	8980
+Services Provider	8980
 Services Providers	7464
 Servicos Provinciais de Geografia	427
 Serviço Provincial	4979,171
@@ -770,15 +751,12 @@ Taita Providers	6946
 Tanzania Internet Service Providers Association	2580
 Tanzania. Provides	1152
 Technical Connectivity Provider	5201,54
-Technical Connectivity Provider.	5255
 Technology Service Providers of Kenya	6946
 Telecom Providers CAPEX	3862
 Telecommunications Entrance Room Provide	9123
 Telecommunications Service Provider	4610
 Telecommunications Service Provider License	762
-Telecommunications Service Providers	4610
-Telecommunications Service Providers.	5676
-Telecommunications Service Providers’	4610
+Telecommunications Service Providers	4610,1066
 Telecommunications Service Providers’ Disaster Recovery	4610
 Telecommunications Service Providers’ Obligations	4610
 Telecommunications and Internet Service Providers	21
@@ -804,19 +782,17 @@ VSAT Service Provider	10407
 Virtual Asset Service Provider	9311,223,220,121
 Virtual Asset Service Provider Association	9956
 Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404
-Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,831
-Virtual Asset Service Providers Act.	9311
+Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223
 Virtual Asset Service Providers Regulations	7607
 Virtual Internet Service Provider License	762
 Virtual Internet Service Providers	762
 Volet Benin'. Provides	357
 WEAK PROVENANCE	1960
-Water Security and Provision.	2626
+Water Security and Provision	2626
 Western Cape Province	732
 Western Cape Province Broadband Expansion	732
 Western Cape Provincial Minister of Infrastructure Tertuis	8564
-Western Province	697,73,1616,6453
-Western Province.	1867,121
+Western Province	697,73,1097,121,398,6453
 Western Province. Picture	718
 Whistleblower. PART X General Provisions	972
 Wireless Access Providers’ Association	6365
@@ -825,7 +801,7 @@ X PROVINCE Number of Number	2477
 YEAR END TELECOM PROVIDER’S FINANCIAL DATA	3862
 Yomi Arowosafe. Nigeria’s Universal Service Provision	2590
 Zaire Province	3980,5419
-Zambezia Province.	1228
+Zambezia Province	1228
 Zambia’s North-Western Province	7130
 Zimbabwe Province Code System	6666
 Zimbabwe Province Value Set	6666

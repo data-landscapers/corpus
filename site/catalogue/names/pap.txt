@@ -9,7 +9,6 @@ AfDB Liberia Country Strategy Paper	4840,3734
 Africa DIODE Paper	226
 Africa Gov Pap	5242
 Africa White Paper	6948
-Africa White Paper.	6948
 Africa's PAPSS	9179
 African Currency Marketplace and PAPSSCARD	6401
 African Development Bank Country Strategy Paper	8574
@@ -31,16 +30,16 @@ Afrobarometer Working Papers Strauss	7886
 Afrobarometer Working Papers Taking	7886
 Afrobarometer Working Papers Trust	7886
 Afrobarometer Working Papers Wald	7886
-Afrobarometer Working Papers Working Paper No.	7886
-Algeria PAPSS's	3440
+Afrobarometer Working Papers Working Paper No	7886
+Algeria PAPSS	3440
 Alongside PAPSS	6401
 Angola's ICT White Paper	2411
 BCC Governor Dr Younoussa Imani and PAPSS	1854
 BEAC Joins PAPSS	7150
 BEAC's PAPSS	5379
 BIS Papers	5700
-BIS Papers No.	6938
-BUNA and PAPSS.	982
+BIS Papers No	6938
+BUNA and PAPSS	982
 Background Paper	1264
 Best Paper Awards	10642
 Budget Strategy Paper	4932
@@ -78,13 +77,12 @@ Digital Platforms DIODE Paper	226
 Digital Transformation White Paper	10714
 Disabilities and South Africa's White Paper	9767
 Disclosable Restructuring Paper	772,1298
-Discussion Paper No.	5700
-Ditch Its Paper Trail.	10718
+Discussion Paper No	5700
+Ditch Its Paper Trail	10718
 Draft Revised White Paper	5533
-Draft Revised White Paper.	5533
 Draft White Paper	3264
 Earth Sciences But PAPSS	7460
-Economic Opportunities and Legal Challenges. Police Paper.	2816
+Economic Opportunities and Legal Challenges. Police Paper	2816
 Education de Base PAP	737
 Egypt. PAPSS	982
 El Papel	1701
@@ -99,14 +97,13 @@ Fusepay Ushers Out Paper Cheques	4056
 GNU. The Draft Revised White Paper	5533
 Geneva Papers	9237
 Government of National Unity. The White Paper	5533
-House of Parliament. Next Order. PAPERS Hon.	10313
+House of Parliament. Next Order. PAPERS Hon	10313
 ICC White Paper	1243
-ICT White Paper	5421
-ICT White Paper.	2117
+ICT White Paper	2117,3304
 ICT White Paper. In the Summary Report	2117
 ICTD Working Paper	1589
 IDA Project Paper	2780
-IIPP Working Paper Series.	5700
+IIPP Working Paper Series	5700
 IMF Departmental Paper	6965
 IMF Policy Paper	1828
 IMF Working Paper	1828,849
@@ -131,36 +128,33 @@ Monsieur Papa Ibrahima SENGHOR	8269
 Monsieur Papa Samba BA	8269
 Moor Insights Strategy Paper	4434
 NG PAPSS	4771
-National Integrated ICT Policy White Paper	2117,4715
-National Integrated ICT Policy White Paper.	396,6436
-Natl Cent Res Methods Rev Pap.	1219
+National Integrated ICT Policy White Paper	396,1721,4715
+Natl Cent Res Methods Rev Pap	1219
 Nuance PaperPort	34
 O PAPEL DA INTELIGÊNCIA ARTIFICIAL NA	2816
+Onafriq and PAPSS	4901
 Onafriq and PAPSS Launch Africa’s First Instant	4901
-Onafriq and PAPSS’	4901
-Open Data White Paper. Unleashing the Potential.	1243
+Open Data White Paper. Unleashing the Potential	1243
 Order Paper	10313
 Original Paper	7810,156
 PAD5527 INTERNATIONAL DEVELOPMENT ASSOCIATION PROJECT PAPER	1284
 PAP Must	8015
-PAP President	8015
-PAP President's	8012
+PAP President	8012,3
 PAP VLF	1326,1,2,1,686,1,2,1,2136,1,2,1,1
 PAP VLF MISP	4396,2344
-PAP's	8015
 PAP-VLF-MISP	4396
 PAP-VLF-MISP-2026.pdf	4161,235
 PAPEC	1748,618,1914
 PAPEL	7839,2739
 PAPER	7836
 PAPS Parallèlement	8066
-PAPSS	797,185,17,385,470,61,7,1152,366,413,6,244,227,260,133,48,120,10,4,3,293,29,25,185,583,74,39,265,11,526,101,25,86,28,8,274,22,53,1,81,168,69,74,2,35,43,11,20,5,37,1,65,295,114,98,175,324,26,414,79,1,257,546,79,163
+PAPSS	797,185,17,385,470,61,7,1152,366,413,6,244,227,260,133,48,120,10,4,3,293,29,25,185,583,74,39,265,11,526,101,25,78,8,28,8,274,22,53,1,81,168,69,74,2,35,43,11,20,5,37,1,65,295,114,98,175,324,26,414,79,1,257,546,79,163
 PAPSS CANNOT FIX Weak	9593
 PAPSS CEO	3440
 PAPSS CEO Mike Ogbalu	999
 PAPSS CEO Mike Ogbalu III	4771,430
 PAPSS CHANGES THE PAYMENT Traditional	9593
-PAPSS Deputy CEO John Bosco Sebabi.	1854
+PAPSS Deputy CEO John Bosco Sebabi	1854
 PAPSS Developed	7150
 PAPSS Local Currency Settlement System	8081
 PAPSS Management Board	999
@@ -170,17 +164,11 @@ PAPSS and CIPS	9593
 PAPSS and ECOWAS-led	4330
 PAPSS and Interstellar	9593
 PAPSS and Onafriq	7460
-PAPSS'	8081
-PAPSS's	1915,2188,1152,1895,704,227
 PAPSS--would	6938
-PAPSS.	4723,532,3187
 PAPSS. PAPSS CEO Mike Ogbalu III	5201
 PAPSS. Strong	6938
 PAPSSCARD	3440,1331,1630,3192,1125
-PAPSSCARD.	4771,5947
 PAPSSisHere	8829
-PAPSS’	982
-PAPSS’s	7142
 PARIS21 Discussion Paper	7213
 Panama Papers	3279,85
 Pap&title	1219
@@ -202,7 +190,7 @@ Papel	1701
 Paper	970,39,252,567,160,379,2982,133,51,66,273,673,699,8,321,1032,279,94,145,130,146,914
 Paper Handling	34
 Paper Model Name Comments Al-Sharhan	8603
-Paper No.	961
+Paper No	961
 Paper PDF	1006
 Paper Presented	5349
 Paper-Based Credentials	2291,1271
@@ -218,7 +206,7 @@ Paul De Hert and Vagelis Papakonstantinou	8776
 Pesalink and PAPSS	5255
 Policy Paper	586
 Policy Paper PP-38	3681
-Policy Paper Series No.	961
+Policy Paper Series No	961
 Policy Research Working Paper	1264
 Position Paper	4824,4066
 Pour Papa Ousmane Diop	8140
@@ -243,15 +231,14 @@ Selected Issues Paper	1828
 Selected Issues Papers. International Monetary Fund	1828
 Selected Paper Issues	1828
 Session Paper	10313
-Session Paper No.	10313
+Session Paper No	10313
 Sessional Paper	10313
-Sessional Paper No.	899,9414
+Sessional Paper No	899,9414
 Sessional Paper No.1	899
-Sessional Paper.	10313
 Seventh Parliament The PAP President	8015
 Seymour Papert	2816
 Si le Pape	6575
-Small Arms Survey Briefing Paper.	3583
+Small Arms Survey Briefing Paper	3583
 Smart Paper Technology	4338
 South Africa. This White Paper	5533
 Supplementary Order Paper	10313
@@ -268,10 +255,9 @@ WTO Staff Working Papers ERSD-2021-5. World	10718
 West African PAPSS	999
 White Paper	432,1,1684,222,72,215,190,1440,990,287,339,570,54,1771,109,223,2130
 White Paper for NHI Policy	396
-White Paper.	5533
 White Paper. Sets the ICT	2411
 Working Paper	1243,585,3872
-Working Paper No.	7886
+Working Paper No	7886
 Working Paper Series	5700,1522
 Working Papers	1248,7989
 World Bank Project Paper	2780

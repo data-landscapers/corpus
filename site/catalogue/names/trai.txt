@@ -26,7 +26,7 @@ Audit Trail and Node Authentication	1009
 Audit Trail and Node Authentication Clinical Context	1009
 Audit Trails	5665,767
 Authorities SSETA Services Sector Education and Training	6832
-Authority Trail AFRINIC's	9508
+Authority Trail AFRINIC	9508
 B Conduct Training	1988
 BETA CARE TRAINING INSTITUTE LTD Data	7167
 BORABU TECHNICAL TRAINING INSTITUTE Data Controller	7167
@@ -79,7 +79,7 @@ Cybersecurity Training	10721
 Cybersecurity Training and Awareness Tier	10721
 DES UTILISATEURS ET DES OPERATEURS Traitement	998
 DHET Department of Higher Education and Training DIRISA	5246
-DHET. Department of Higher Education and Training.	6832
+DHET. Department of Higher Education and Training	6832
 DHIS2 Training and Implementation	6048
 DLP Training E	899
 DONNEES FONT L’OBJET D’UN TRAITEMENT Section	436
@@ -88,7 +88,6 @@ December. Staff Development and Training Capacity	1554
 Delivery Audit Trails	9855
 Department of Higher Education and Training	5533,50,1249,790,1506,237,1029
 Department of Higher Education and Training DTIC	6832
-Department of Higher Education and Training.	6832
 Deputy Minister of Higher Education and Training Mimmy	5583
 Detailed Audit Trails	5665
 Develop Cybersecurity Education and Profession Training	1000
@@ -103,7 +102,7 @@ Directive Training Requirements All	3861
 Director of Training for South Sudan’s Civil Registry	10317
 Directorate of Industrial Training	6946
 Dispatcher Paramedic Paramedic Trainer Admissions Clerk	8603
-Ditch Its Paper Trail.	10718
+Ditch Its Paper Trail	10718
 Douala Workshop Trains SME Support Agencies	5407,676
 EDUCATION AND TRAINING ACT	6921
 ELDORET AVIATION TRAINING INSTITUTE LIMITED Data	7167
@@ -140,7 +139,7 @@ General and Further Education and Training	1009
 Ghana Tech Lab’s National AI Training	4126
 Ghana Vocational Education and Training Upgrade Project	258
 Governance Training	6946
-Government Training Centre.	506
+Government Training Centre	506
 HIGH Launch the Regional Training Program	5677
 HMIS. Trained	1212
 HOUSE OF TRAINING ATTF LUXEMBOURG	10237
@@ -168,7 +167,7 @@ Judicial Training Institute	10563
 KNQA Training	7548
 Kajo-Keji County Trains	2685,2,359,86,176,15,119,65,590,447,96,374,93,240
 Koibatek Agricultural Training Centre	7480
-Komora Vocational Training Centre and St. Benedict's	7394
+Komora Vocational Training Centre and St. Benedict	7394
 L'objectif du World Model Training	3465
 Large-Scale World Model Training	3465
 Launches Digital Skills Training Programme for Civil	5276
@@ -187,8 +186,7 @@ Media Training	8151
 Medical Training	2775
 Minister of Education and Training Ntoi Rapapa	3149
 Minister of Vocational Training	2790
-Ministry of Education and Training	7773
-Ministry of Education and Training.	3331
+Ministry of Education and Training	3331,4442
 Mission for Training Decision-Makers	10720
 Mobile Training Units	7021
 Mushagashe Vocational Training College	4528
@@ -218,7 +216,7 @@ Proposed Training and Capacity Building Approach	1988
 Proposed Training and Capacity Building Approach S	1988
 Public Resilience Training	4528
 Public Secondary Schools and Teachers Training Colleges	2775
-Public Sector Training Lead.	4528
+Public Sector Training Lead	4528
 Public Service Training College	7182
 Public Summary of Training Content for GPAI	8529
 Quantumnet Training Centre	6008
@@ -247,7 +245,7 @@ Sierra Leone Aligns University Training	8610
 Sita-Department of Higher Education and Training	7096
 South Africa Department of Higher Education and Training	9985
 South Africa's Department of Higher Education and Training	9985
-South Arica Department of Higher Education and Training.	6832
+South Arica Department of Higher Education and Training	6832
 Sports Training and Competitions	6588
 Staff Trained Across Various Categories	6946
 Staff Training	10616
@@ -280,7 +278,6 @@ Technical and Vocational Education Training Institutes	1638
 Technical and Vocational Education and Training	1777,998,1878,2179,116,1621,5,565,63,187,709,365
 Technical and Vocational Education and Training USAf	6832
 Technical and Vocational Training Centers Upgrading Project	258
-Technical and Vocational Training Centers Upgrading Project.	258
 Technician Training	7548
 Threats TVET Technical and Vocational Education and Training	4126
 Trailing	3986,1779,962,998,508,212,58
@@ -295,7 +292,7 @@ Trainee Finance Specialist Finance Specialist ANEP	2989
 Trainer SunHo Sin	10219
 Trainer-of-Trainers	7990
 Trainers	4217,2615,716
-Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,175,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3
+Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,74,101,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3
 Training Accreditation	1877
 Training African	5302
 Training And Research In Kenya	899
@@ -304,7 +301,7 @@ Training Authority BDA	6832
 Training Authority CHE	6832
 Training Authority CHIETA	6832
 Training Based	1988
-Training Center.	3558
+Training Center	3558
 Training Centre	6422,2900
 Training Centre WAEMU West African Economic	2775
 Training College KNBS Kenya National Bureau	2775
@@ -339,7 +336,7 @@ Training and Job Creation Crosswalk	455
 Training and Qualification Center	2807,4
 Training and Skills	1000
 Training and Skills Alignment	6948
-Training and Skills Development.	1243
+Training and Skills Development	1243
 Training and Skills Development. Figure	1243
 Training and Training Providers	6832
 Training of CHWs	1219
@@ -348,7 +345,6 @@ Training of PMU	1988
 Training of Trainers	9139,221
 Training the Governors	5302
 Training-	7548
-Training.	2674
 Training. Statistics	6832
 Training21	1814
 TrainingOfTrainers	9360

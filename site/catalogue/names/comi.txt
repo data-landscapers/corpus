@@ -8,7 +8,6 @@ COMIFAC	4209
 COMIGEM	4127
 COMIGEM COMIGEM	4127
 COMIGEM Minerals and Gems Trading Office	4127
-COMIGEM.	4127
 COMISARIA LOGÍSTICA E NARCÓTICOS Y LABORATORIO	4209
 COMISION INFANTIL Y	4209
 COMITÉS D’AUDIT ET DE GESTION DES	2342
@@ -59,13 +58,11 @@ Comisión de Supervisión Presupuestaria de Alto Nivel Se	4209
 Comissariado Geral de Moçambique	2816
 Comissariado Geral de Moçambique CPLP	2816
 Comissária da UE Jutta Urpilainen	9434
-Comissão	2315,129,1075,11,2027,15,247,3061,378
+Comissão	15,2300,129,1075,11,2027,15,247,3061,378
 Comissão Económica	2816
-Comissão Eleitoral Nacional	3530,5006
-Comissão Eleitoral Nacional.	5818
+Comissão Eleitoral Nacional	3530,2288,2718
 Comissão Especializada	1268,72
 Comissão Europeia	2816
-Comissão Europeia.	2816
 Comissão Executiva	7667,336
 Comissão Executiva da Mercury	6617
 Comissão Inter-americana de Telecomunicações	2816
@@ -79,8 +76,8 @@ Comissão Nacional de Fronteiras	5402
 Comissão Nacional de Fronteiras da Guiné-Bissau	5402
 Comissão Nacional de Inteligência Artificial	2816,7735
 Comissão Nacional de Protecção de Dados	1338,742,265
-Comissão Nacional de Protecção de Dados de Cabo Verde.	6568
-Comissão Nacional de Proteção de Dados Av. D.	3079
+Comissão Nacional de Protecção de Dados de Cabo Verde	6568
+Comissão Nacional de Proteção de Dados Av. D	3079
 Comissão Técnica Multissectorial de Coordenação	10551
 Comissão Técnico-Científica	4274
 Comissão da CEDEAO	8051
@@ -95,7 +92,6 @@ Comissão de Reestruturação	167
 Comissão de Relações Exteriores	539
 Comissão de Serviço	167
 Comissão de Trabalho Especializada	539
-Comissão.	15
 Comissões Municipais Eleitorais	539
 Comissões Provinciais Eleitorais	539
 Comissões de Trabalho Especializadas	539,5252,3089
@@ -140,7 +136,6 @@ Comité de Pilotage	235,6929,561,1681,994,312
 Comité de Pilotage Open Data	747,1,8658
 Comité de Pilotage Open Data. Il	747,1
 Comité de Pilotage Open Data. Un	748
-Comité de Pilotage.	235
 Comité de Pilotage. Le Comité Technique de Coordination	10712
 Comité de Pilotaje	5111,183
 Comité de Politique	2623
@@ -166,7 +161,7 @@ Células Sectoriales Comisión Nacional de Coordinación	4209
 D.C. Comité National Economique	1828
 Events Happening Now No Events Coming	10707
 Finances MEMBRES DU COMITÉ TECHNIQUE Président	10712
-Fiscalía General Secretario General Comisión Nac.	4209
+Fiscalía General Secretario General Comisión Nac	4209
 Gestion du Comité	8269
 La Comisión	4209
 Le Comité	735,2320,4837,64

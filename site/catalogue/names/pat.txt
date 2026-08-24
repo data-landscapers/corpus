@@ -35,7 +35,7 @@ CCOW' Patient Master	1009
 CPA Patrick Mwati	6946
 CREST Pathway	4791
 Cabinet Patrick Kangwa	7223
-Cameroon's PATNUC and DRC's	1725
+Cameroon's PATNUC and DRC	1725
 Claudia Patricia Mosquera Rosero	6963
 Clinical Patient Management System	10188
 Cloud Patching	1940
@@ -54,7 +54,6 @@ Cross-Community Cross-Community Patient HL7 Version	1009
 Cybersecurity Education and Certification Pathways	6936
 CÔTE D’IVOIRE ENGINEERING Gestion Patrimoniale	2342
 D. G. DE PATRIMONIO DEL ESTADO	4209
-D. G. DE PATRIMONIO DEL ESTADO.	4209
 D.G. INFRAESTRUCTURAS SANITARIAS Y PATRI. SAN..-Concepto	4209
 DE CÔTE D’IVOIRE Gestion Patrimoniale	2342
 DE LA CONSTRUCTION DE LA PATRIELe	7670
@@ -63,7 +62,7 @@ DR. MEERA PATEL- CHUDASAMA Data Controller	7167
 DR. PATRICK GITOBU MBURUGU PRIVATE CLINIC	7167
 Data Center Cabling Pathways Datacenter	9123
 Data Services MPI Master Patient Index	396
-Decision-Maker Pathway.	10189
+Decision-Maker Pathway	10189
 Demographic Patterns of Account Ownership	1828
 Demographics Query Patient Demographics Query	1009
 Description PATH-implemented PEPFAR	679
@@ -103,7 +102,7 @@ Gachagua's Most Viable Path	7869
 General Paths of Access All	9123
 Gestion Patrimoniale	2342
 Ghana Health Service Patients’ Charter	4126
-Government of President Dr Patrick Herminie.	9582
+Government of President Dr Patrick Herminie	9582
 Guy Patrick Efoua	6804
 H.E. Dr. Patrick Herminie	10321
 H.E. Patrice Talon	7452
@@ -112,8 +111,7 @@ HL7 FHIR Basic Patient Privacy Consent	1009
 Health Administration and Patient	1877
 Health Compact PDQ Patient Identifier Cross-referencing	1009
 Health Patient Registration Number HPRS Health	396
-Health Patient Registration System	396
-Health Patient Registration System.	10538
+Health Patient Registration System	396,10142
 Henrik Franklin. Creating Pathways for Youth	9197
 High Patronage of His Majesty King Mohammed	5734
 Highway Patrol Unit	3061
@@ -125,7 +123,6 @@ IDs. NRB Principal Secretary Patrick Machika	7041
 INDUSTRIAL PROMOTION SERVICES Gestion Patrimoniale	2342
 IP and Patents Unit Encourage	4126
 Implied Learning Pathway	6948
-Implied Learning Pathway.	6948
 Inclusive Pathways	6948
 Independent Patriots for Change	1981,8167,411
 Infrastructure Gaps and Patriarchy Leave Women	4794
@@ -145,7 +142,7 @@ LA PATRIELe Conseil	7670
 La Patente	6954
 La Patrie	3396
 Label-Switched Path Protection	10721
-Larona Seditse. Pathetic Inc.	2773
+Larona Seditse. Pathetic Inc	2773
 Le Ministère du Patrimoine	2342
 Le PATN	2564,2739,2534
 Le PATNUC	2695
@@ -169,13 +166,12 @@ Ministre du Patrimoine	2342
 Ministère du Patrimoine	2342
 Monsieur Hemery Patrick AKONDJO OLANDZOBO	2738
 Monsieur le Ministre du Patrimoine	2342
-Monsignor Patrick Thawale.	10111
+Monsignor Patrick Thawale	10111
 Mrs. Patience Okala	8421
 Mrs. Patricia Ogungbemi	9755
 Ms Patricia de Lille	10058
-Muhammad Ali Pate	4301,1,3259
-Muhammad Ali Pate.	7187
-N2 Pay and Pathetic Inc.	2773
+Muhammad Ali Pate	4301,1,2885,374
+N2 Pay and Pathetic Inc	2773
 Namazihana Bachoke Patrick	6620
 Net Zero Path	7402
 Nigeria. Pathway Advisors Limited	8186
@@ -191,15 +187,12 @@ PATIMFA. Richer	562
 PATN Cette	1973
 PATN European-phase	853,233
 PATN Steering Committee	987
-PATN's	2854
-PATN.	3763,14
 PATN. Attach	3302
 PATN. Il	6465
 PATN. Progress	3129
 PATN. Une	1973
 PATNUC	2695,1228,600,39,131,71,227
 PATNUC's National Coordinator	4562
-PATNUC.	3923
 PATRIOTIQUE	8321
 PHC Patient Identifier Cross-reference for Mobile PIX	1009
 POLICY OPTIONS AND INSTITUTIONAL PATHWAYS Policy	4848
@@ -218,7 +211,6 @@ Patch Management	10721
 Patch Management Page	10721
 Patch Management Policy Tier	10721
 Patches	10721
-Pate.	7187
 Patel	6241,1037,1850
 Patel A. SMARTHealth India	1219
 Patel Hachitema	9792
@@ -241,7 +233,7 @@ Paterne Koffi	10389
 Path Forward	4130
 Path for Solutions. Vision Statement	3583
 Pathak	5349
-Pathetic Inc.	2773
+Pathetic Inc	2773
 Pathogen	4674,5928
 Pathogen Access and Benefit Sharing	4049,1501
 Pathogen Access and Benefit-Sharing	5456
@@ -304,11 +296,9 @@ Patient-specific	9855
 Patient2Vec	8606
 Patients	21,3583,1031,743,7,1009,757,613,372,469,1250,683,103
 Patients Registered	7322
-Patients'	21
-Patinde Wendinda Jean Yves Belem.	5707
+Patinde Wendinda Jean Yves Belem	5707
 Patki	4432
-Pato la Taifa	6019
-Pato la Taifa.	2868,3151
+Pato la Taifa	2868,3151
 Patouani BATCHAMLA	6260
 Patri	9237
 Patriarchy Meets Broken Infrastructure	4794
@@ -350,8 +340,7 @@ Patrick Mpenge	6116
 Patrick Mundua	10066
 Patrick Munsami	9902
 Patrick Musoko Mbuyi	10436
-Patrick Muyaya	6043,4054
-Patrick Muyaya.	10256
+Patrick Muyaya	6043,4054,159
 Patrick N'Guessan	2418,493,491,2,45,838,1452
 Patrick Namazihana Vendredi	6620
 Patrick Niyodusenga	8758
@@ -405,12 +394,10 @@ Policy Pathways for Enhancing Women’s Economic Participation	8891
 Policy Pathways for Inclusive AI Governance Addressing	8747
 Portable Document Format Patient Demographics Query	1009
 Potential Pathways	4848
-President Dr Patrick Herminie	7760,849,973
-President Dr Patrick Herminie's	7859
+President Dr Patrick Herminie	7760,99,750,973
 President Dr Patrick Herminie's Government	9582
 President Patrice Talon	1724,1346,3314
-President Patrick Herminie's	6831
-President Patrick Herminie’s	6831
+President Patrick Herminie	6831
 Principal Secretary Patrick Machika	10130
 Prof. Doutor José Blaunde Patimale	2816
 Prof. Muhammad Ali Pate	7454
@@ -420,7 +407,7 @@ Professor Prabaht Patnaik	10
 Président Patrice Talon	6366
 Ransomware Breaks the Pattern	9815
 Rare Disease Patient Card	10188
-Ra’eesa Pather and Cheriese Dilrajh for Open Secrets.	7910
+Ra’eesa Pather and Cheriese Dilrajh for Open Secrets	7910
 Reaffirms Path	9735
 Regional Patterns of Content Creation	226
 Reporting and Escalation Pathways	3861

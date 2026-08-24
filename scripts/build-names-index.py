@@ -75,78 +75,11 @@ MIN_QUERY = 3              # the page will not search names on fewer than this
 SPLIT_BYTES = 120_000      # a shard past this is re-cut one character deeper (~40 KB gzipped)
 MAX_WIDTH = 5              # ...but never deeper than this, or the shard count runs away
 
-# Grammatical filler and calendar words, which are capitalised constantly and name
-# nothing. Also the finance records' column vocabulary, which survives the table
-# strip when a driver writes a field on its own line.
-STOP = set("""the a an and but or if for in on at to of by with from as is was are were be been
-it this that these those he she they we you his her their our your there here when where
-while after before during since until because however although also not no yes its which who
-what how why then than both each other some many most more less new two three one first second
-mr mrs dr prof according speaking meanwhile additionally furthermore moreover therefore thus
-read see photo image source share follow subscribe advertisement monday tuesday wednesday
-thursday friday saturday sunday january february march april may june july august september
-october november december value field amount status start end notes total percent recipient
-financier beneficiary instrument commitment enrichment definite active""".split())
-
-# Never used as a shard key. Wider than STOP, because the particles that glue
-# names together — `de`, `van`, `della` — are legitimate parts of a name and must
-# not be trimmed off it, but are useless to key on.
-KEYSTOP = STOP | set("""de du da do das dos del della di la le les el al van von der den
-bin ibn af av ter ten und y e o a i""".split())
-
-NAME = re.compile(r"([A-Z][\w&.'’-]*(?:\s+(?:of|for|and|de|du|da|la|le|des|van|von|the)?"
-                  r"\s*[A-Z][\w&.'’-]*){0,5})")
-FENCE = re.compile(r"```.*?```", re.S)
-TABLE = re.compile(r"(?m)^\s*\|.*$")
-FMLINE = re.compile(r"(?m)^[a-z_]+:\s.*$")
-WORDKEY = re.compile(r"^[a-z]+$")
-
-# Windows reserves these as device names, **with any extension** — `open("aux.txt", "w")`
-# opens the AUX device, succeeds, and writes nothing to disk. So a shard keyed `aux` was
-# silently never written while the manifest went on promising it, and the fault surfaced
-# three steps downstream as `git add` failing on a file that did not exist. A key is
-# escaped with a trailing hyphen in its *filename* only; keys are `[a-z_]+`, so `aux-`
-# cannot collide with a real one. The manifest and the page still speak in bare keys.
-# (COM1-9 and LPT1-9 are reserved too, but keys carry no digits.)
-WIN_RESERVED = {"con", "prn", "aux", "nul"}
-
-
-def shard_file(key: str) -> str:
-    return (key + "-" if key in WIN_RESERVED else key) + ".txt"
-
-
-def shard_key(filename: str) -> str:
-    stem = filename[:-4] if filename.endswith(".txt") else filename
-    return stem[:-1] if stem.endswith("-") else stem
-
-
-def body(text: str) -> str:
-    """Prose only — frontmatter, fenced blocks and pipe tables removed."""
-    if text.startswith("---"):
-        end = text.find("\n---", 3)
-        if end != -1:
-            text = text[end + 4:]
-    return FMLINE.sub(" ", TABLE.sub(" ", FENCE.sub(" ", text)))
-
-
-def names_in(text: str) -> set[str]:
-    out = set()
-    for m in NAME.finditer(body(text)):
-        s = " ".join(m.group(1).split())
-        words = s.split()
-        while words and words[0].lower() in STOP:
-            words = words[1:]
-        while words and words[-1].lower() in STOP:
-            words = words[:-1]
-        if not words:
-            continue
-        s = " ".join(words)
-        if not (4 <= len(s) <= 60):
-            continue
-        if len(words) == 1 and (s.lower() in STOP or len(s) < 5):
-            continue
-        out.add(s)
-    return out
+# Extraction, the stopword sets and the Windows filename rules are shared with
+# `build-entity-names.py` and `catalogue.py`, and live in `names_lib.py` — moved
+# there when the third reader appeared.
+from names_lib import (KEYSTOP, WORDKEY, WIN_RESERVED, shard_file, shard_key,   # noqa: E402
+                       body, names_in)                                          # noqa: E402
 
 
 def doc_ids(slugs: list[str]) -> dict[str, int]:

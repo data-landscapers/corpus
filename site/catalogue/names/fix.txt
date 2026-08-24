@@ -67,6 +67,7 @@ Fixed Data Penetration	2776
 Fixed Data Subscription	2776
 Fixed Data Subscriptions	2776,3895,275
 Fixed Data Subscriptions and Penetration	2776
+Fixed Data Subscriptions and Penetration Rate	2776
 Fixed Data Subscriptions and Penetration Rate Fixed	2776
 Fixed Data and Broadband Services	6671
 Fixed Data and Broadband Subscriptions	6671
@@ -82,6 +83,7 @@ Fixed Internet Subscriptions	718,5953
 Fixed Internet Wu	9781
 Fixed LTE	6000,11,233
 Fixed Line Data Subscriptions	2776
+Fixed Line Data Subscriptions and Penetration	2776
 Fixed Line Data Subscriptions and Penetration Fixed	2776
 Fixed Line Subscriptions	6671
 Fixed Links	6946
@@ -90,7 +92,7 @@ Fixed Mobile Convergence	3258
 Fixed Network	762,2014,3895
 Fixed Network Minute of Use	2776
 Fixed Network Minutes	2776
-Fixed Network Operators.	3862
+Fixed Network Operators	3862
 Fixed Network Planning and Engineering Director	9528
 Fixed Network Services	6671
 Fixed Network Voice Subscription and Penetration Rate	2776
@@ -128,6 +130,7 @@ Fixed VoIP Subscriptions	6000,671
 Fixed VoIP Subscriptions Operator Q3	6000
 Fixed Voice	2776
 Fixed Voice Call Traffic	3862
+Fixed Voice Minute of Use	2776
 Fixed Voice Minute of Use6 Fixed Voice	2776
 Fixed Voice Penetration Rate	2776
 Fixed Voice Service	6946
@@ -144,7 +147,6 @@ Fixed Voice Traffic Total Fixed Voice	2776
 Fixed Wired	3862
 Fixed Wired Internet Market Lags	7110
 Fixed Wired Internet Subscriptions	3862
-Fixed Wired Internet Subscriptions.	3862
 Fixed Wireless	3862,2809
 Fixed Wireless Access	2528,2808,339,325
 Fixed Wireless Access GB	6000
@@ -169,7 +171,7 @@ Fixer	7920,971
 Fixes	998
 Fixes L’évolution	998
 Fixing	9683,26
-Fixing Ghana's	3691
+Fixing Ghana	3691
 Fixing The Nation	6258
 Fixée	2014
 Formation Brute de Capital Fixe	9276
@@ -242,13 +244,12 @@ Quarterly Domestic Fixed Voice Traffic	6671
 Quarterly Variation Fixed	6671
 Retail Tariffs for Mobile and Fixed Telephone Service	718
 Rural Fixed Broadband Wireless Access Systems	736
-Rural Fixed Broadband Wireless Access Systems.	736
 SAMU Niger MOTOROLA Base Fixe VHF	998
 SEZ Special Economic Zone FBB Fixed	3184,1,1340
 SMS AMERICAN TOWERS Fixe	998
 Service Gross Compensation of Consumption of Fixed Taxes	236
 Telecel’s Fixed Broadband	2776
-There’s No Fix for Weeks After FIJ’s	10034,231
+There’s No Fix for Weeks After FIJ	10034,231
 Thousand Fixed Line Subscriptions Devices and Terminals	9781
 TradeSmart Fixed Income EMS Cyber Heroines	7156
 VDSL and Fixed Wireless Access	1818

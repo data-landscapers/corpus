@@ -747,7 +747,7 @@ East Africa Data Controller INST-4911146A91D NAIROBI	7167
 East Africa Data Processor INST-190042FFF42 NAIROBI	7167
 Easycoach Ltd Data Controller INST-9957823C73A NAIROBI	7167
 Edenways Limited Data Processor INST-7128266E44A NAIROBI	7167
-Eight Hundred and Twenty Naira.	3862
+Eight Hundred and Twenty Naira	3862
 Email Nairobi	2313
 Ethiopia’s EAII and Rwanda’s NAIA	6997
 Europe. A Nairobi	8261
@@ -1419,11 +1419,10 @@ KENYA Data Processor INST-7054675D99B NAIROBI Kenya	7167
 KENYA LIMITED Data Controller INST-346927C9F3F NAIROBI	7167
 KENYA LIMITED Data Processor INST-346927C9F3F NAIROBI	7167
 KHANNA LLP Data Controller INST-5437755750D NAIROBI	7167
-KIXP and LINX Nairobi.	6892
+KIXP and LINX Nairobi	6892
 KURA Expands Nairobi's Ksh	9647
 Kajiado South and Nairobi	2668
 Kampala and Nairobi	10312
-Kampala and Nairobi.	10312
 Kenya Builds for East Nairobi	6791
 Kenya Data Controller INST-136186725BA NAIROBI Kenya	7167
 Kenya Data Controller INST-471731BFF3B NAIROBI Kenya	7167
@@ -1561,8 +1560,6 @@ NAIC Success Indicator ZCHPC	4528
 NAICOM	2462,4476
 NAICOM Issues New Licences	9117
 NAICOM Revokes Nigeria Reinsurance’s Licence	9117
-NAICOM’s	2462
-NAIC’s	4528
 NAIMOS	7695,2440
 NAIRA	3862
 NAIROBI	1131,499,885,153,916,41,1286,1002,778,26,1115,2210
@@ -1594,8 +1591,7 @@ Naibu Spika	2868,3151
 Naibu Waziri	2868,3151,583
 Naibu Waziri Mkuu	2868
 Naicker	8583
-Naidoo	4432,3869,290,190
-Naidoo.	8781,1612
+Naidoo	4432,3869,290,190,1612
 NaidooD	6907
 Naidu	9128
 Naija Feminist Media	8713
@@ -1604,18 +1600,15 @@ Naima	5225
 Naima Muse	5225
 Naing Ngan Thar Sisityay Card	10714
 Nair Abakar	5671
-Naira	925,1352,250,1200,135,288,741,10,154,519,215,85,825,1155,74,337,24,941,55,285,1,2,96,82,2,207,742
-Naira Payment Solution.	2287
+Naira	925,1352,250,1200,135,115,173,659,82,10,154,519,215,85,825,1155,74,337,24,941,55,285,1,2,96,82,2,207,742
+Naira Payment Solution	2287
 Naira Wallet Payments	4901
-Naira's	9570
 Naira-backed	9285
 Naira-based	9751
 Naira-denominated	9751,406
-Naira.	3977,832,4761
 NairaHost	10558
-Nairametrics	925,1457,8,287,549,3182,1637,1073
-Nairametrics'	10010
-Nairobi	18,341,29,23,42,118,23,216,1,76,43,71,130,231,1,201,148,14,94,37,66,210,27,357,149,109,231,51,243,100,13,128,25,18,11,1,29,11,52,70,2,99,15,101,112,66,1,285,32,44,13,33,2,159,46,28,94,21,47,1,19,106,116,1,37,14,50,39,133,115,27,54,14,32,147,50,10,34,7,42,40,68,36,11,25,26,2,17,19,8,8,33,9,86,16,61,17,10,74,1,7,3,84,24,24,1,17,40,10,5,2,18,17,25,16,26,40,5,1,8,4,62,61,1,28,2,27,9,37,10,13,8,48,4,5,141,75,29,38,1,19,5,15,20,103,75,12,71,52,63,2,4,60,43,2,12,24,75,11,44,66,56,3,93,71,48,25,6,25,110,73,33,14,16,116,63,109,18,30,97,124,48,41,1,39,7,9,7,38,1,89,19,48,45,9,83,74,60,2,2,43,81,32,11,6,9,14,54,1,1,67,53,11,2,57,18,1,78,16,1,33,15,29,11,6
+Nairametrics	925,1457,8,287,549,3182,1637,1073,892
+Nairobi	18,341,29,23,42,118,23,216,1,76,43,71,130,114,117,1,201,148,14,94,37,66,210,27,357,149,36,73,231,51,243,100,13,128,25,18,11,1,29,11,52,49,21,2,99,15,101,112,66,1,285,32,44,13,33,2,159,46,28,94,21,47,1,19,106,116,1,37,14,50,39,27,95,11,115,27,54,14,32,147,50,10,34,7,42,35,5,68,36,11,25,26,2,17,19,8,8,33,9,44,42,15,1,61,17,10,74,1,7,3,84,24,24,1,17,3,9,28,10,5,2,1,17,17,25,16,26,40,5,1,8,4,53,9,61,1,28,2,27,9,37,10,13,8,48,4,5,141,75,29,38,1,19,5,15,20,103,75,12,71,52,63,2,3,1,60,38,5,2,12,24,75,11,44,66,14,42,3,93,71,48,25,6,25,110,73,33,14,16,116,63,109,18,30,97,124,48,41,1,39,7,9,7,23,15,1,89,19,14,34,45,9,83,74,60,2,2,43,81,32,11,6,9,14,54,1,1,67,53,11,2,57,18,1,78,16,1,26,7,15,29,11,6
 Nairobi AI Forum	5095,5620
 Nairobi AI Forum Partnership	10715
 Nairobi Central Business District	18
@@ -1624,9 +1617,8 @@ Nairobi City	2775,2359
 Nairobi City County	2775
 Nairobi City County Emergency and Fire Department	6946
 Nairobi City Water and Sewerage Company	7548
-Nairobi County	899,1667,4380,602
-Nairobi County.	6274,1943
-Nairobi County. Safaricom CEO Peter Ndegwa.	4978
+Nairobi County	899,1667,3708,672,602,669
+Nairobi County. Safaricom CEO Peter Ndegwa	4978
 Nairobi Deadline for Input Contributions	10235
 Nairobi Declaration	6583
 Nairobi Embassy	10521
@@ -1640,7 +1632,7 @@ Nairobi Intelligent Transportation System Phase	355
 Nairobi Jiu-Jitsu Academy	10464
 Nairobi Kenya	10235
 Nairobi Manifesto	226
-Nairobi Metropolitan Transport Authority.	6946
+Nairobi Metropolitan Transport Authority	6946
 Nairobi Middle Income Group	2775
 Nairobi NBO1	594,1
 Nairobi Nairobi	7074
@@ -1650,21 +1642,19 @@ Nairobi P.O. BOX	5793
 Nairobi Regional Commissioner	4631
 Nairobi Securities Exchange	4978,2226,295,49,19,526,531
 Nairobi Securities Exchange-listed	4561
-Nairobi Securities Exchange.	4978
 Nairobi Securities Exchange. Vodacom	4152
 Nairobi Securities Policy Statement C1-Ventures	7548
 Nairobi Securities Technologies	7548
 Nairobi Senator Edwin Sifuna	8217
 Nairobi Statement	6997
-Nairobi Street Kitchen.	8550
+Nairobi Street Kitchen	8550
 Nairobi Telephone	9855
 Nairobi Time	9647
 Nairobi Upper Income Group	2775
 Nairobi Weekly Brief	2339
 Nairobi Wire	2447
 Nairobi and Cairo	7137
-Nairobi and Johannesburg	6250
-Nairobi and Johannesburg.	6732
+Nairobi and Johannesburg	6250,482
 Nairobi and Juba	7507
 Nairobi and Kampala	6691,25
 Nairobi and Kigali	4563
@@ -1673,9 +1663,8 @@ Nairobi and Lagos	388
 Nairobi and Luanda	3878
 Nairobi and Mombasa	18,5698,1230
 Nairobi and New York-based	10464
-Nairobi's	2517,4055,834,583,99
-Nairobi's Mukuru Affordable Housing Project.	6864
-Nairobi's Mukuru.	6864
+Nairobi's Mukuru	6864
+Nairobi's Mukuru Affordable Housing Project	6864
 Nairobi-KampalaMap-June-Update-FINAL	6691
 Nairobi-KampalaMap-June-Update-FINAL.width-800.png	6691
 Nairobi-Mombasa Road	1638
@@ -1685,16 +1674,14 @@ Nairobi-based Qhala	3712
 Nairobi-based VC	681
 Nairobi-based. Grand Challenges Africa	1148
 Nairobi-to-Mombasa	6471
-Nairobi.	18,1227,118,2374,137,641,46,807,95,501,77,190,27,94,57,62,112,153,9,258,1338,1205,86,138,476,388,27
 Nairobi. A U.S.-Kenya AI	6790
 Nairobi. Accessed	9739
 Nairobi. Building AI-ready	6150
 Nairobi. CNC	8342
-Nairobi. Don Okoth Don Okoth.	10464
+Nairobi. Don Okoth Don Okoth	10464
 Nairobi. EcoCloud	7140
 Nairobi. Effects	2775
-Nairobi. Kenya	6161
-Nairobi. Kenya’s	4561
+Nairobi. Kenya	4561,1600
 Nairobi. Microsoft and G42	9239
 Nairobi. Muli	10464
 Nairobi. Nxtra	2021
@@ -1706,8 +1693,6 @@ Nairobi. Seizing	6729
 Nairobi. South African	3541
 Nairobi. The NSE	8093
 Nairobi. While Oracle	8261
-Nairobi...	2133
-Nairobi’s	2702,73,1788,348,1560,320,3673
 Nairobi’s Kilimani	8550
 Nairobi’s Mathare	4563
 Nairobi’s Safe City	4563
@@ -1717,10 +1702,9 @@ Nairoibi	1363
 Nairtime Nigeria Limited	8587,76
 Naissance	5063,16
 Naissances	5079
-Naivasha	1722,4191,4400
+Naivasha	1245,477,4191,4400
 Naivasha Girls’ Secondary School	10313
 Naivasha Prime Cabinet Secretary Musalia Mudavadi	1245
-Naivasha.	1245,477
 Ndolénodji Alixe Naimbaye	5671
 Nigerian Naira	1929,51,2643,1435,2350,35
 Njoroge Data Processor INST-445591159A6 NAIROBI Kenya	7167
@@ -1880,7 +1864,7 @@ Sevela Naik Mude	2407
 Sixty-One Thousand Five Hundred and One Naira	3862
 Soma Associates Data Processor INST-291364F3F54 NAIROBI	7167
 Sonigra Data Processor INST-79167604162 NAIROBI	7167
-Sport By Naison Bangure Jun.	6244,1
+Sport By Naison Bangure Jun	6244,1
 Suppliers Data Processor INST-829020C3D9D NAIROBI Kenya	7167
 Systems Limited Data Processor INST-5919342C364 NAIROBI	7167
 TOUCHE LLP Data Controller INST-158027558A5 NAIROBI	7167
@@ -1901,13 +1885,12 @@ U.S.A Data Controller INST-897307F8DBF NAIROBI Kenya	7167
 U.S.A Data Processor INST-897307F8DBF NAIROBI Kenya	7167
 USD and Naira	7465
 Uganda and Nairobi	4959
-University of Nairobi	6946,1533
+University of Nairobi	899,6047,1533
 University of Nairobi Language	9679
 University of Nairobi Nairobi	7886
-University of Nairobi.	899,6047
 University of Nairobi. Dr. Kiptoo	6946
 University of Nairobi. Dr. Musangi	6946
-Upper Hill Nairobi.	8383
+Upper Hill Nairobi	8383
 VALUERS LIMITED Data Processor INST-932723CA892 NAIROBI	7167
 VOCA Data Controller INST-2986457104C NAIROBI Kenya	7167
 WILCOCK Data Controller INST-6441911DEC1 NAIROBI Kenya	7167

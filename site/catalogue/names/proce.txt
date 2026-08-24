@@ -454,7 +454,6 @@ Ashley Aryo Digital Data Processor INST-71869421350	7167
 Assessment Procedure	1824
 Attributes Standardisation Process	8606
 Automatic Data Processing	972
-Automatic Data Processing.	972
 Automatic Processing of Personal Data	8776
 Automation of Operational Processes	5677
 Automation of Operational Processes Automation	5677
@@ -1147,13 +1146,12 @@ Company LLP Data Processor INST-7959174FE30 NAIROBI	7167
 Company Limited Data Processor INST-957624ED452 NAIROBI	7167
 Compassion International Inc Data Processor INST-281755F5493	7167
 Compea LTD Data Processor INST-454616C800D NAIROBI	7167
-Complex Processes and Unknown Requirements._.	4439
+Complex Processes and Unknown Requirements._	4439
 Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computer Science and Data Processing	6832
 Computer Vision Robotic Process Automation	4528
 Computerization of Government Procedures	10663
-Conference Proceedings	2816
-Conference Proceedings.	1248
+Conference Proceedings	1248,1568
 Confidential Attributes Symbol Example Process Name	9124
 Consolata Hospital Mathari Data Processor INST-18785613B60	7167
 Consorient Solutions Data Processor INST-603577E4ACE NAIROBI	7167
@@ -1171,8 +1169,7 @@ County Youth and Adolescent Network Data Processor	7167
 Credit Bank Plc Data Processor INST-5006303240E	7167
 Credops Kenya Limited Data Processor INST-458599E2EB7	7167
 Crescent Tech Ltd Data Processor INST-849295FCFA0	7167
-Criminal Procedure Act	3714,509,860
-Criminal Procedure Act.	2307
+Criminal Procedure Act	2307,1407,509,860
 Criminal Procedure Law	9064
 Criminal Procedure and Evidence Act	972,7892
 Cross Border Processing	10157
@@ -1517,7 +1514,7 @@ Dekhat Trading Limited Data Processor INST-5406012D675	7167
 Deliverance Church Olmoran CDC Data Processor	7167
 Department of Agriculture Busia County Data Processor	7167
 Department of Health- Garissa County Data Processor	7167
-Departmental Disciplinary Code and Procedures.	5533
+Departmental Disciplinary Code and Procedures	5533
 Deployment Procedures	5665
 Description Review of Electoral Processes	5641
 Description of Process	1778
@@ -1532,7 +1529,7 @@ Diffusion Processes	10323
 Digital Green Foundation Data Processor INST-8837942E222	7167
 Digital Health Agency Data Processor INST-74526950625	7167
 Digital Media Non-WDT Sacco Data Processor	7167
-Digital Readiness Process.	1953
+Digital Readiness Process	1953
 Diocese of Kitui Data Processor INST-9374307992B KITUI	7167
 Directorate of Liquor Control and Licensing Data Processor	7167
 Dithub Engineering Ltd Data Processor INST-4990499E7B3	7167
@@ -1640,7 +1637,7 @@ El Monitoreo de Proceso	1701
 Eldohub Innovation Center Data Processor INST-123035BFEA4	7167
 Election Process	8866,1048
 Election Process and Election Guidelines	8866
-Electoral Process Act No.	8513
+Electoral Process Act No	8513
 Electoral Processes	10390
 Elgeyo Marakwet County Data Processor INST-1333811DBB9	7167
 Elgeyo Marakwet County Data Processor INST-6413940884C	7167
@@ -1712,10 +1709,10 @@ Hiroshima AI Process	8821
 Homabay County Data Processor INST-47343146BD3 HOMABAY	7167
 Human Resource Policies and Procedures	6946
 I INSTRUÇÃO DO PROCESSO DE AUTORIZAÇÃO	794
-ICT Innovation Programme and Business Process Outsourcing.	1283
+ICT Innovation Programme and Business Process Outsourcing	1283
 ID Processing Errors	4439
 IEC Defends Integrity of Process IEC Vice	9315
-IHE Change Proposal Process.	1009
+IHE Change Proposal Process	1009
 INDIVIDUALS WITH REGARD TO THE PROCESSING	1333
 INTEGRATION WITH ADMINISTRATIVE LAW AND PROCEDURE	3861
 INVESTIGATION PROCEDURES	783
@@ -1906,7 +1903,6 @@ Planning CONSUMER PROCESS Compare	418
 Platform APC Article Processing Charge ARC	5246
 Policies and Procedures GC-PP	10721
 Policy Development Process	585,2918,5363,747
-Policy Development Process.	3503
 Policy Development Process. Public Policy Meeting	585
 Policy Development Process. Such	3503
 Policy Development Processes and ICANN	3503
@@ -1934,6 +1930,7 @@ Procedural	7221,1,744,1647,3,446
 Procedural Controls Security	21
 Procedural Directives	3861
 Procedural Duties	3861
+Procedural Law	26
 Procedural Law Assistance	26
 Procedural Legitimacy	10062
 Procedural Safeguards	2307,1554
@@ -2008,6 +2005,7 @@ Processing Zone EPZA Export Processing Zones	2775
 Processing and Collection	2115
 Processing of Biometric Data	2873
 Processing of Children’s Data	2873
+Processing of Personal Data	27
 Processing of Personal Data Generality	27
 Processo	576,218,7449
 Processo Eleitoral	10114,157
@@ -2187,9 +2185,9 @@ Processos	2228
 Processus	1187,2194,6025,74
 Procesus	6977
 Procurement Process	9274
-Products and Processes.	2595
+Products and Processes	2595
 Project Cycle and E&S Management Procedures	1988
-Project Processing No.	9265
+Project Processing No	9265
 Project Stage E&S E&S Management Procedures	1988
 Proyecto de Digitalización de Procedimientos	4209
 RAMESH MEGHI SHAH Data Processor	7167
@@ -2212,15 +2210,14 @@ Review Process	958
 Review of Electoral Processes	5641
 Revocation Procedure	5665
 Robotic Process Automation	7334,1903
-Rules of Procedure	7081,1404
-Rules of Procedure.	8015
+Rules of Procedure	7081,934,470
 Rwanda Integrated Payments Processing System	6938
 SA-EU Open Science Dialogue Process	5246
 SARIT CENTRE Data Processor INST-35623816A01 NAIROBI	7167
 SECÇÃO I INSTRUÇÃO DO PROCESSO DE	794
 SIPOP Procurement Process	9134
 SMILES CLINIC Data Processor INST-102389934E1 NAIROBI	7167
-SOCIEDAD PROCESOS CUENTAS GRAL. DE REG.	4209
+SOCIEDAD PROCESOS CUENTAS GRAL. DE REG	4209
 SOCIETY LIMITED Data Processor INST-522236DC30F NAIROBI	7167
 SOFTECH LTD Data Processor INST-9063904932D	7167
 SONDU MEDICAL SERVICES LTD Data Processor	7167
@@ -2229,10 +2226,10 @@ STAKEHOLDER ENGAGEMENT PROCESS AND METHODOLOGY	7548
 STEEL LIMITED Data Processor INST-154463FFB18 NAIROBI	7167
 STUDIES LIMITED Data Processor INST-245210F2E08 UASIN	7167
 SUPPLIERS LIMITED Data Processor INST-6964343D087 NAIROBI	7167
-Salaries and Wages Processing.	9437
+Salaries and Wages Processing	9437
 Samson Wanjala Clinic Data Processor	7167
 Secure Remote Processing Guidance	3861
-Securing and Scaling Digital Process.	8386
+Securing and Scaling Digital Process	8386
 Selection and Award Procedure	7401
 Simplification of Administrative Procedures	3375
 Sistema de Processamento	574
@@ -2241,7 +2238,7 @@ Soma Associates Data Processor INST-291364F3F54 NAIROBI	7167
 Sonigra Data Processor INST-79167604162 NAIROBI	7167
 Sources Process	9237
 Specially Permitted Procurement Procedure	2512,3
-Speech and Language Processing. Prentice Hall. JurídicoAI.	2816
+Speech and Language Processing. Prentice Hall. JurídicoAI	2816
 Staff Retirement Benefits Scheme Data Processor	7167
 Standard Copy of Standard Operating Procedures	1988
 Standard Operating Procedure	1000,9721

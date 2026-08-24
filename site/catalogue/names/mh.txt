@@ -7,7 +7,7 @@ Children MHz	998
 Dalumuzi Mhlanga	9222
 Date MHz Mobile Station MHz	736
 Deputy Speaker Madala Mhlanga	7264
-Description MHE Computerisation.	2653
+Description MHE Computerisation	2653
 Digital Mhuri	4528
 GCWALISILE MHLABANE MACETJENI	9423
 GCWALISILE MHLABANE MANZINI	8907
@@ -47,10 +47,10 @@ MHz TDD	925,7903
 MHz Transmission	736
 MHz Wireless Access MHz	736
 MHz and IEM	736
-MHz for IMT.	5245
+MHz for IMT	5245
 MHz of IMT	8841
 MHz of TDD	2405
-MHz-5250.	736
+MHz-5250	736
 MHz-868.6 Non-specific	736
 MHz. Following	8125
 MHz. Morocco	8828
@@ -110,8 +110,7 @@ Mhlambi S	9739
 Mhlanga	4432,2832,1958
 Mhlathuze	2626
 Mhlongo	4743,3016,843
-Mhlongoetal.	8602
-Mhlongo’s	4743
+Mhlongoetal	8602
 Mhona	9394,1108
 Mhosisi Masocha	520
 Mhoudini Yahaya Mode	1996,2390
@@ -132,4 +131,4 @@ Tanzania Mheshimiwa Cleopa David Msuya	2868
 Tx MHz Base Station Tx MHz	736
 UK MHRA	3651
 Ulaya Mhe. Jestas Nyamanga	7935
-Um Mhm.	7065
+Um Mhm	7065
