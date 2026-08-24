@@ -1,0 +1,125 @@
+/* Browse-surface styles — the layout of the catalogue widget and nothing else.
+
+**It carried a palette of its own until 2026-08-24**, and that is what this
+rewrite undoes. `.cat` declared `--ink`, `--faint`, `--line`, `--chip` and,
+worst of them, `--accent:#7a1f2b` — a darker red than the house #c84b2f — and
+because those were declared *on the widget*, every rule inside inherited the
+override and the page came out in a second identity: its own reds, its own
+greys, a px type scale beside the site's rem one, 8px corners against the
+site's 2 and 3, and an 1180px column on a 980px site. `report.css`'s header
+note has forbidden exactly this since it was written; the catalogue simply
+predated anyone checking.
+
+So: no colour here that is not a `:root` token from `main.css`, no font sizes
+for anything the house scale already covers, and no radius off the house pair
+— 2px on controls, 3px on containers. What is left is layout, which is the
+only thing a page-type stylesheet is for (documentation/house-style.md).
+
+It is a file rather than the inline `<style>` block it was until the same day.
+An inline block that holds only layout breaks no rule, but it is the shape the
+identity grew inside once already, and `scripts/catalogue.py` is not where a
+designer looks for the catalogue's CSS.
+ */
+
+.cat{max-width:var(--col-content);margin:0 auto;padding:1.25rem 1.5rem 1.75rem;color:var(--ink)}
+.cat *{box-sizing:border-box}
+/* Links are the house blue. They were terracotta, which is the accent this
+   site reserves for jump navs and apparatus — see main.css `.article-toc`. */
+.cat a:hover{text-decoration:underline}
+.cat h1{margin:0 0 0.3rem;letter-spacing:-.01em}
+/* The lede is body text at body size, and takes whatever width the downloads
+   box leaves it (prep/catalogue.md §1) — it used to be 14px grey capped at
+   74ch, which read as a caption on a page whose first job is to explain what
+   the catalogue is and is not.
+
+   The box is on the **title's** row, not the lede's (Bill, 2026-08-24): the
+   heading and the box are the two things a reader lands on, and starting the
+   box a line lower left a notch of white above it that read as a mistake. So
+   the grid's left column carries h1 and lede together and both columns start
+   at the top. */
+.cat .cathead{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1rem 2rem;
+  align-items:start;margin:0 0 1.25rem}
+.cat .lede{color:var(--ink);font-size:1rem;margin:0}
+.cat .lede p{margin:0 0 0.5rem}
+.cat .lede p:last-child{margin-bottom:0}
+/* The download buttons are `.btn.btn--accent` from main.css and nothing more.
+   The `--terra` local existed only because `.cat` used to shadow `--accent`
+   with a darker red, so the one place that wanted the real terracotta had to
+   smuggle it back in. `.cat` shadows nothing now, so the house button works
+   as written — but the rules are still restated, because `.cat a` beats
+   `.btn--accent` on specificity and would take the colour back. */
+.cat .dlbox{border:1px solid var(--rule);border-radius:3px;background:#fff;
+  padding:0.75rem 1rem 0.6rem;min-width:340px}
+.cat .dlbox table{border-collapse:collapse;width:100%}
+.cat .dlbox th{font-size:0.7rem;font-family:var(--mono);text-transform:uppercase;
+  letter-spacing:.1em;color:var(--ink-faint);font-weight:500;text-align:left;
+  padding:0 0 0.6rem;line-height:1.2}
+.cat .dlbox td{padding:0.25rem 0;font-size:.85rem;color:var(--ink);white-space:nowrap;
+  vertical-align:middle}
+.cat .dlbox td+td{padding-left:0.75rem;width:1%}
+.cat .dlbox .btn{padding:.35rem .9rem;font-size:.78rem;border-width:1.5px;
+  border-radius:2px;display:inline-block;text-decoration:none;
+  font-family:var(--serif);font-weight:600;letter-spacing:.03em;
+  border-style:solid;border-color:var(--accent);color:var(--accent);background:none;
+  cursor:pointer;line-height:1.35;white-space:nowrap;transition:all .15s}
+.cat .dlbox .btn:hover{background:var(--accent);color:#fff;border-color:var(--accent);
+  text-decoration:none}
+.cat .dlbox .btn[disabled]{border-color:var(--rule);color:var(--ink-faint);cursor:default}
+.cat .dlbox .btn[disabled]:hover{background:none;color:var(--ink-faint);border-color:var(--rule)}
+/* The one warning colour on the page, taken from main.css's amber badge
+   rather than invented here. */
+.cat .dlbox .dlmsg{color:#7a5000;font-size:.78rem;line-height:1.45;
+  margin:0.5rem 0 0;max-width:38ch}
+/* The message paragraph is empty almost all the time, and an empty <p> is still
+   a line box — that was the dead strip under the last row of buttons. */
+.cat .dlbox .dlmsg:empty{display:none}
+@media (max-width:860px){.cat .cathead{grid-template-columns:1fr}
+  .cat .dlbox{min-width:0}}
+.cat .searchrow{display:flex;gap:0.5rem;margin-bottom:0.9rem}
+.cat #q{flex:1;padding:0.45rem 0.7rem;border:1px solid var(--rule);border-radius:2px;font-size:0.9rem;background:#fff;color:var(--ink)}
+.cat #q:focus{outline:none;border-color:var(--accent)}
+.cat select.sort{padding:0.45rem 0.6rem;border:1px solid var(--rule);border-radius:2px;background:#fff;font-size:0.82rem;color:var(--ink)}
+.cat .chips{display:flex;flex-wrap:wrap;gap:0.35rem;margin-bottom:0.75rem;min-height:1px}
+.cat .chip{display:inline-flex;align-items:center;gap:0.35rem;background:var(--paper-warm);border:1px solid var(--rule);border-radius:2px;padding:0.15rem 0.5rem;font-size:0.75rem;color:var(--ink-light)}
+.cat .chip b{font-weight:600;color:var(--ink)}
+.cat .chip button{border:0;background:none;cursor:pointer;color:var(--ink-faint);font-size:0.85rem;line-height:1;padding:0}
+.cat .chip button:hover{color:var(--accent)}
+.cat .clearall{font-size:0.75rem;color:var(--accent);cursor:pointer;background:none;border:0;padding:0.2rem}
+/* 210px, not 250: the column came down from 1180px to the site's 980px, and
+   the facet rail had to give the results the difference rather than take it. */
+.cat .cols{display:grid;grid-template-columns:210px minmax(0,1fr);gap:1.75rem;align-items:start}
+.cat .facet{border-bottom:1px solid var(--rule);padding:0 0 0.75rem;margin-bottom:0.75rem}
+.cat .facet:last-child{border-bottom:0}
+.cat .facet h3{font-family:var(--mono);font-size:0.67rem;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-faint);margin:0 0 0.5rem;font-weight:500}
+.cat .ftype{width:100%;padding:0.3rem 0.45rem;border:1px solid var(--rule);border-radius:2px;font-size:0.75rem;margin-bottom:0.4rem;background:#fff;color:var(--ink)}
+.cat .ftype:focus{outline:none;border-color:var(--accent)}
+.cat .opts{max-height:236px;overflow-y:auto;margin:0 -4px}
+.cat .opt{display:flex;align-items:center;gap:0.4rem;padding:0.15rem 0.2rem;border-radius:2px;cursor:pointer;font-size:0.78rem;line-height:1.35}
+.cat .opt:hover{background:var(--paper-warm)}
+.cat .opt input{margin:0;accent-color:var(--accent);flex:none}
+.cat .opt .lbl{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.cat .opt .n{color:var(--ink-faint);font-family:var(--mono);font-size:0.67rem;font-variant-numeric:tabular-nums;flex:none}
+.cat .opt.zero{opacity:.34}
+.cat .grp{font-family:var(--mono);font-size:0.67rem;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-faint);margin:0.5rem 0 0.15rem;padding-left:4px}
+.cat .grp:first-child{margin-top:0}
+.cat .countrow{display:flex;align-items:baseline;justify-content:space-between;gap:0.4rem 1rem;flex-wrap:wrap;margin:0 0 0.6rem}
+.cat .count{font-size:0.82rem;color:var(--ink-light);margin:0}
+.cat .count b{color:var(--ink);font-weight:600}
+.cat .row{border-bottom:1px solid var(--rule);padding:0.75rem 0;display:grid;grid-template-columns:88px minmax(0,1fr);gap:1rem}
+.cat .row .date{color:var(--ink-faint);font-family:var(--mono);font-size:0.72rem;font-variant-numeric:tabular-nums;padding-top:1px}
+.cat .row .ttl{font-size:0.92rem;margin:0 0 0.15rem;line-height:1.4}
+.cat .row .meta{font-size:0.78rem;color:var(--ink-light);margin:0 0 0.3rem}
+.cat .tags{display:flex;flex-wrap:wrap;gap:0.25rem}
+/* The three tag tints are the house badge colours from main.css — grey for a
+   plain facet, blue for a place, green for an entity — not a fourth palette. */
+.cat .tag{background:var(--paper-warm);border:1px solid var(--rule);border-radius:2px;padding:0.05rem 0.4rem;font-size:0.7rem;color:var(--ink-faint);cursor:pointer}
+.cat .tag:hover{border-color:var(--accent);color:var(--accent)}
+.cat .tag.pl{background:#edf3fa;border-color:#9ab8d8;color:#1a4a7a}
+.cat .tag.en{background:#edf7ef;border-color:#a8d5b0;color:#2a6b3a}
+.cat .opts .trunc{font-size:0.7rem;color:var(--ink-faint);padding:0.3rem 4px 2px;font-style:italic}
+.cat .flag{background:#fdf6e0;border:1px solid #f0cc7a;color:#7a5000;border-radius:2px;padding:0.05rem 0.4rem;font-size:0.7rem}
+.cat .empty{padding:1.75rem 0;color:var(--ink-light);font-size:0.9rem}
+.cat .more{margin:1.25rem 0 0;padding:0.5rem 1rem;border:1px solid var(--rule);background:#fff;border-radius:2px;cursor:pointer;font-size:0.82rem;color:var(--ink)}
+.cat .more:hover{border-color:var(--accent);color:var(--accent)}
+.cat .note{margin-top:1.75rem;padding-top:0.9rem;border-top:1px solid var(--rule);font-size:0.75rem;color:var(--ink-faint);max-width:70ch}
+@media (max-width:860px){.cat .cols{grid-template-columns:1fr}}

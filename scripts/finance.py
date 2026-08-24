@@ -243,8 +243,12 @@ def main() -> int:
     out.mkdir(parents=True, exist_ok=True)
     # Published before the page, because the page links it by name, and which name that is
     # depends on whether `publish` cut a new edition or kept the standing one (§9).
-    csv_path, _ = editions.publish((sdir / "all-nonstate.csv").read_bytes(),
-                                   out, "all-nonstate", ".csv")
+    # LF on the way out, for the reason `country.py` sets out at its own `publish` call:
+    # a line-ending difference moves the bytes without moving a value, and would mint an
+    # edition that revises nothing.
+    csv_path, _ = editions.publish(
+        (sdir / "all-nonstate.csv").read_bytes().replace(b"\r\n", b"\n"),
+        out, "all-nonstate", ".csv")
     (out / "index.html").write_text(render(agg, names, csv_path.name), encoding="utf-8")
     stale = out / "all.html"
     if stale.exists():                 # the table's own page, folded into index.html

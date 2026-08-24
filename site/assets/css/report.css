@@ -73,6 +73,30 @@
    the categories a selected country reaches, and that is this page's alone. */
 .article-header--bulletin { border-bottom: none; margin-bottom: 1.25rem; padding-bottom: 0.9rem; }
 
+/* **Compatibility, and it has an expiry date.** `bulletin.py` writes the shared
+   `.article-toc` classes from 2026-08-24, but the bulletin markdown already on
+   disk — and the served page built from it — still carries the old names. Delete
+   the styling and the live bulletin loses its category bar until the next sweep
+   regenerates the source, which is a visible regression in exchange for tidiness.
+   So the old names are carried here as a second selector on the shared rules,
+   duplicating nothing.
+
+   **Retire this block once no bulletin markup uses the old names.** Bulletins are
+   kept a week and regenerated every sweep, so from 2026-08-31 it is dead weight:
+   `grep -rl bulletin-nav__sep outputs/ site/` returning nothing is the test. */
+.bulletin-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 0.75rem;
+  border-bottom: 1px solid var(--rule);
+  padding: 0 0 0.7rem;
+  margin: 0 0 1.25rem;
+}
+.bulletin-nav a { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); border: none; }
+.bulletin-nav a:hover { color: var(--accent-dk); border-bottom: 1px solid currentColor; }
+.bulletin-nav__sep { color: var(--ink-faint); font-size: 0.72rem; line-height: 1; }
+
 /* The country filter, under the category bar. Same control as the Lab index's
    category filter on data-landscapers.io, and deliberately the same plain
    <select> rather than a second set of boxes: the bar above it is already a

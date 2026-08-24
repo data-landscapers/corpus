@@ -63,8 +63,13 @@
   // `.article-toc__sep` since 2026-08-24: the bar took the site-wide jump-nav
   // classes when that idiom moved into main.css. `.bulletin-nav` stays on the
   // <nav> as this page's own hook, which is what scopes the query.
+  //
+  // Both names are matched because this script is served to a page that may have
+  // been built before the rename — the bulletin markdown on disk turns over on
+  // the next sweep, not on deploy. Drop the second selector when the matching
+  // block in report.css goes; they retire together.
   var navSeps = Array.prototype.slice.call(
-    document.querySelectorAll('.bulletin-nav .article-toc__sep'));
+    document.querySelectorAll('.bulletin-nav .article-toc__sep, .bulletin-nav__sep'));
   var count = control.querySelector('.bulletin-filter__count');
 
   function show(el, on) {

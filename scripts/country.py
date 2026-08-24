@@ -150,9 +150,20 @@ def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, 
     Bill's and hand-maintained, not generated — and every page links it. It carries no edition
     date because it is not a finding: it is the description of a shape, and describing the same
     shape again in September is not a new edition of anything."""
-    data, _ = editions.publish(
-        (OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv").read_bytes(),
-        out_dir, f"{iso}-nonstate", ".csv")
+    # **Published with LF endings, whatever the build machine writes** *(2026-08-24)*.
+    # `editions.publish` mints a new edition when the bytes move, and CRLF-vs-LF moves
+    # the bytes without moving a single value. `csv.writer` emits `\r\n`; git on Windows
+    # normalises that away on commit and git on Linux does not, so the compiled source in
+    # `outputs/` and the published copy in `site/` can disagree on line endings alone —
+    # and then *every* run mints an edition for all 54 countries. That is exactly what a
+    # CSS-only rebuild did on 2026-08-24: 53 new dated CSVs, not one of which differed
+    # from its predecessor by a character. §9 says a published file is never revised; it
+    # follows that a new edition has to mean new content, so the comparison must not be
+    # able to see the line endings. Normalising here rather than in `editions.publish`
+    # keeps that function byte-exact for the PDFs it also publishes.
+    src = (OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv").read_bytes()
+    data, _ = editions.publish(src.replace(b"\r\n", b"\n"),
+                               out_dir, f"{iso}-nonstate", ".csv")
     return {"csv_name": data.name, "fields_name": f"../../metadata/{METADATA_CSV}",
             "csv_edition": editions.edition_of(data.stem) or ""}
 
