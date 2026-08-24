@@ -708,7 +708,8 @@ def held_edition(md_path: Path, out_dir: Path, rec: str) -> str | None:
 
 
 def render(md_path: Path, out_dir: Path, edition: str | None = None,
-           pdf: bool = True, force: bool = False) -> tuple[Path, Path | None, bool]:
+           pdf: bool = True, force: bool = False,
+           repage: bool = False) -> tuple[Path, Path | None, bool]:
     """Render the document, or leave its standing edition alone. Returns `(html, pdf, minted)`.
 
     **An edition is cut when the content changes, not when a build runs** (design.md §9). RENDER
@@ -736,6 +737,22 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     dated file it is offering and moves only when the material does. A PDF is a snapshot and is
     entitled to the stamp it was cut with.
 
+    **`--repage` gives every document the mechanism the bulletin has, and only that mechanism**
+    *(Bill, 2026-08-24)*. It rewrites the page under the edition already held and does not go
+    near the PDF, so no edition is minted and no published file is revised. It exists because
+    the paragraph above conflates two things the site treats differently. The dated PDF is the
+    citable artefact and §9 protects its bytes absolutely. The HTML at `AGO-status.html` is an
+    **undated URL** — a view that has always shown whatever the current edition is — and nothing
+    can cite its bytes, because they were never promised to stay still. A change to the site
+    chrome therefore has no business waiting for a document's content to move: the alternative
+    on the day the chrome changed was `--force`, which would have cut 241 new dated PDFs to fix
+    a navigation bar, and leaving 241 served pages carrying a nav with three links to pages that
+    do not exist. Neither is what §9 is for.
+
+    The guard is that the page is rebuilt **from the held edition**, so the byline, the colophon
+    and the download link go on naming the same PDF they named before; and it is written only if
+    the bytes differ, so a run over a document whose chrome has not changed touches nothing.
+
     `--edition` and `--force` are deliberate re-cuts and skip the gate. They do not skip §9's
     same-day suffixing, though: a forced re-cut differs from what is already published — that is
     what it is for — so writing it over the published name would change the bytes under a
@@ -751,7 +768,7 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
         html_path = out_dir / f"{stem_html_of(md_path)}.html"
         pdf_path = out_dir / f"{md_path.stem}-{held}.pdf" if pdf else None
         if pdf_path is None or pdf_path.exists():
-            if is_bulletin:
+            if is_bulletin or repage:
                 # The page is refreshed so the byline is current; the edition passed in is the
                 # one already held, so the download link and the colophon go on naming the PDF
                 # that is there. `rec` is taken over the body, which has not moved, so the gate
@@ -772,9 +789,11 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
                 # rebuild drops anything whose file has gone or whose week is up, so the page
                 # this writes offers only editions that are still there. It comes free: the
                 # page was being rewritten anyway (`bulletin-archive.md`).
-                archive = bulletin_editions.refreshed(out_dir, today)
-                if archive != bulletin_editions.load(out_dir).get("editions", []):
-                    bulletin_editions.save(out_dir, archive)
+                archive: list[dict] = []
+                if is_bulletin:
+                    archive = bulletin_editions.refreshed(out_dir, today)
+                    if archive != bulletin_editions.load(out_dir).get("editions", []):
+                        bulletin_editions.save(out_dir, archive)
                 served, _, _, _, _ = build_document(md_path, held, absolute=False, pdf=pdf,
                                                     archive=archive)
                 if not html_path.exists() or html_path.read_text(encoding="utf-8") != served:
@@ -854,6 +873,11 @@ def main() -> int:
     # (241 editions), which is why it is a flag and not the default.
     ap.add_argument("--force", action="store_true",
                     help="cut a new edition even if the content has not moved")
+    # The counterpart to --force, and the one to reach for after a chrome or stylesheet change:
+    # refresh the served page under the edition already held, touching no PDF and minting
+    # nothing. See render() for why an undated HTML view is not what §9 protects.
+    ap.add_argument("--repage", action="store_true",
+                    help="rewrite the served page under the held edition; no PDF, no new edition")
     args = ap.parse_args()
 
     src = args.markdown if args.markdown.is_absolute() else CORPUS / args.markdown
@@ -864,7 +888,8 @@ def main() -> int:
     rel = site_rel(src)                       # `reports/KEN`, `topics/dpi-pay`, `bulletins`
     out_dir = SITE / rel if args.out is None else args.out / rel.split("/")[-1]
     html_path, pdf_path, minted = render(src, out_dir, args.edition,
-                                         pdf=not args.no_pdf, force=args.force)
+                                         pdf=not args.no_pdf, force=args.force,
+                                         repage=args.repage)
 
     print(f"source   {src.relative_to(CORPUS)}")
     if not minted:
