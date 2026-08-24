@@ -4,32 +4,32 @@ title: Bulletin
 subtitle: Last updated 24-08-2026 at 00:00 — Covering sources published on 23 and 24 August 2026
 window_start: 2026-08-23
 window_end: 2026-08-24
-items: 21
+items: 23
 collected_to: 2026-08-24 00:00
 compiled: 2026-08-24 00:00
 ---
 
 # Bulletin
 
-<nav class="bulletin-nav" aria-label="Categories in this bulletin">
+<nav class="article-toc bulletin-nav" aria-label="Categories in this bulletin">
 <a href="#governance">Governance</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#finance">Finance</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digitalisation">Digitalisation</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
-<span class="bulletin-nav__sep" aria-hidden="true">&middot;</span>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
 
@@ -37,9 +37,11 @@ compiled: 2026-08-24 00:00
 <label for="bulletin-country">Filter by country</label>
 <select id="bulletin-country">
 <option value="">All countries</option>
+<option value="AGO">Angola</option>
 <option value="BEN">Benin</option>
 <option value="BWA">Botswana</option>
 <option value="BFA">Burkina Faso</option>
+<option value="CMR">Cameroon</option>
 <option value="CIV">Côte d'Ivoire</option>
 <option value="EGY">Egypt</option>
 <option value="ETH">Ethiopia</option>
@@ -55,6 +57,7 @@ compiled: 2026-08-24 00:00
 <option value="SSD">South Sudan</option>
 <option value="TZA">Tanzania</option>
 <option value="TGO">Togo</option>
+<option value="UGA">Uganda</option>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
 </div>
@@ -215,6 +218,14 @@ MTN's first-half 2026 results put group service revenue up 17.5% in constant cur
 
 </div>
 
+<div class="bulletin-item" data-places="ZAF NGA GHA UGA CIV CMR" markdown="1">
+
+**[MTN Group Limited — Financial results for the six months ended 30 June 2026](https://senspdf.jse.co.za/documents/2026/JSE/ISSE/MTN/MTNH126.pdf)** — MTN Group Limited (JSE SENS), 24 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CMR/" title="CMR">Cameroon</a>
+
+MTN's own half-year booklet settles a figure its two trade-press accounts disagreed on: active data subscribers rose 9.1% to 179.3 million, not 10.3%, which is the growth in wholesale revenue on the same page. Fintech is the line the group leads on — 13.0 billion transactions in the half carrying US$330.5 billion, up 33.8% in constant currency, on 70.8 million monthly active mobile-money users. Group service revenue was R115.3 billion, up 17.5% in constant currency, with the gains concentrated outside the home market. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [ICT Industry](#ict-industry).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="NGA" markdown="1">
 
 **[FiberOne expands to seven Nigerian states, steps up community investment](https://businessday.ng/technology/article/fiberone-expands-to-seven-nigerian-states-steps-up-community-investment/)** — BusinessDay NG, 24 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
@@ -277,6 +288,14 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 ### Data Exchange
 
+<div class="bulletin-item" data-places="AGO" markdown="1">
+
+**[More than 50,000 taxpayers adhere to electronic invoicing in Angola](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/)** — ANGOP, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
+
+Angola's tax authority has published the first operating figures since electronic invoicing became mandatory in January: 51,245 large taxpayers and state suppliers enrolled by 23 August, having issued 36,341,801 invoices at a daily run-rate near 400,000 and peaking around 700,000. The figures are the collector's own, and the mandate reaches general and simplified-regime taxpayers only in 2027, so this is the compliant half of the base rather than the base. <span class="bulletin-item__also">*Also under [Sectoral management information systems](#sectoral-management-information-systems).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="ETH" markdown="1">
 
 **[MESOB Center Services - Organizations, Services, Requirements, Fees & Processing Time](https://mesobcenter.et/)** — FDRE MESOB Service, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
@@ -319,11 +338,29 @@ Summarised under [Connectivity](#connectivity).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF NGA GHA UGA CIV CMR" markdown="1">
+
+**[MTN Group Limited — Financial results for the six months ended 30 June 2026](https://senspdf.jse.co.za/documents/2026/JSE/ISSE/MTN/MTNH126.pdf)** — MTN Group Limited (JSE SENS), 24 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CMR/" title="CMR">Cameroon</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Kenya’s crypto party is over. Now comes the compliance bill.](https://techcabal.com/2026/08/24/kenya-virtual-asset-marke/)** — TechCabal, 24 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+### Sectoral management information systems
+
+<div class="bulletin-item bulletin-item--xref" data-places="AGO" markdown="1">
+
+**[More than 50,000 taxpayers adhere to electronic invoicing in Angola](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/)** — ANGOP, 23 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
+
+Summarised under [Data Exchange](#data-exchange).
 
 </div>
 
@@ -372,6 +409,14 @@ Summarised under [Connectivity](#connectivity).
 <div class="bulletin-item bulletin-item--xref" data-places="ZAF NGA" markdown="1">
 
 **[MTN is finding its next growth engine outside South Africa](https://techcabal.com/2026/08/24/mtn-is-finding-growth-outside-south-africa/)** — TechCabal, 24 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF NGA GHA UGA CIV CMR" markdown="1">
+
+**[MTN Group Limited — Financial results for the six months ended 30 June 2026](https://senspdf.jse.co.za/documents/2026/JSE/ISSE/MTN/MTNH126.pdf)** — MTN Group Limited (JSE SENS), 24 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CMR/" title="CMR">Cameroon</a>
 
 Summarised under [Connectivity](#connectivity).
 
