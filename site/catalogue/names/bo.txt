@@ -450,7 +450,7 @@ Board for Requirements	6946
 Board of Administration	1382
 Board of BIPA	3714
 Board of Commissioners	8393,562,1390
-Board of Directors	585,151,395,115,308,264,52,49,790,128,604,83,190,1182,499,1006,32,102,403,8,258,108,862,348,49,295,1213,72,399,171
+Board of Directors	585,151,395,115,308,264,52,49,790,128,604,83,190,1182,499,1006,32,102,403,8,258,108,862,348,49,295,1213,72,399,171,16
 Board of Directors of ATDI	5966
 Board of Directors of Afreximbank	4401,3384
 Board of Directors of EBID	9536
@@ -815,6 +815,7 @@ Boost Rwanda	1204
 Boost SME Trade Across Africa	9720
 Boost SMEs and Entrepreneurship	4295
 Boost Service Access	2922
+Boost Students’ Digital Skills Airtel Fursa	10732
 Boost Students’ Employability	8824
 Boost Tax Capacity	1828
 Boost Tech Sector	9989
@@ -845,7 +846,7 @@ Bootcamps	2816
 Booth P	8460
 Bootstrapped	3213
 Bootstrapped and Thriving	7798
-Bootstrapping	7798
+Bootstrapping	7798,2933
 Bootstrapping Made Sense	7798
 Booué	2325
 Bopen	3782

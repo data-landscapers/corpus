@@ -50,7 +50,11 @@ The URL is the citable object because it re-cuts against whatever the catalogue 
 
 ## Where it sits on the page
 
-The whole-catalogue links stay where they were, at the top, with the *metadata only* framing that belongs with them. The selection control appears **next to the result count**, which is where a reader who has just filtered to 136 records is already looking, and only when there is a selection to cut: unfiltered, the selection *is* the catalogue and the links above already offer it, so the control renders nothing rather than duplicating them.
+**Every download is now one box beside the lede** *(Bill, 2026-08-24, `prep/catalogue.md` §10)*, in the site's ordinary `.btn` down-arrow style — three rows, *Whole catalogue* / *This selection* / *Metadata*, CSV and JSON where both exist. That replaces the two arrangements this section previously described: a prose paragraph of links under the lede for the whole file, and a separate control beside the result count for the selection. A reader looking for a download was being asked to know which of the two they wanted before they knew where to look for it.
+
+The one thing the move costs is the *appear when there is something to cut* behaviour, and it is traded rather than lost. The selection buttons are always drawn and are **disabled until a filter or a search narrows the view** — unfiltered, the selection *is* the catalogue and the row above already offers the published, citable files, so a live button there would only duplicate them. A disabled button in a labelled row says the feature exists and what turns it on; a control that renders nothing says neither, which was fine beside a result count and is not fine in a box headed *Downloads*. The hover title carries the reason either way.
+
+*Metadata* is the third row, `site/metadata/catalogue-metadata.csv` — the field list for both the whole-catalogue and the selection downloads, and the same file the reader would otherwise have to guess at.
 
 ## What this does not do
 

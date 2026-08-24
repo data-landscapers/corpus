@@ -185,6 +185,7 @@ China National Space Administration	9816
 China's SpaceSail	8134
 Chinese Spring Festival	7845
 Chinsali Special School	6713
+Chris Forrester SpaceX	10744
 City of Kigali Spokesperson	4941
 Civic Space Monitor	9022
 Civil Society And Specialist Groups	5677
@@ -801,14 +802,14 @@ Radio Frequency Spectrum	762,2346,2764,1034
 Radio Frequency Spectrum Assignment Plan	7828
 Radio Frequency Spectrum Assignment Plans	7980,109
 Radio Frequency Spectrum Dependent Individual License	762
-Radio Frequency Spectrum Fees Regulations	6891,2438,1260
+Radio Frequency Spectrum Fees Regulations	6891,2438,1260,155
 Radio Frequency Spectrum Licence Fees Regulations	6891
 Radio Frequency Spectrum License	762
 Radio Frequency Spectrum Licensee	762
 Radio Frequency Spectrum Licenses	762,5110
 Radio Frequency Spectrum Management	6946
 Radio Frequency Spectrum Management Directive	762
-Radio Frequency Spectrum Regulations	6906,944,130,109,1240
+Radio Frequency Spectrum Regulations	6906,944,130,109,1240,1415
 Radio Frequency Spectrum Usage	762
 Radio Frequency Spectrum Usage Fees Directive	762
 Radio Frequency Spectrum for Individual Licenses	762
@@ -859,6 +860,7 @@ SEZ Special Economic Zone FBB Fixed	3184,1,1340
 SFN Service Financier Numérique SPAME Service	4459
 SIM Cards. In Space	718
 SITE SPONSOR	2284,13,4,72,21,3,65,10,86,28,4,19,190,10,16,25,134,79,190,7,70,41,46,34,30,76,30,47,9,16,38,19,16,322,19,14,524,10,7,509,12,171,64,5,22,3,94,10,19,294,222,108,23,41,281,60,26,6,125,80,6,193,189,9,1,69,2,1,107,3
+SITE SPONSOR Sponsored	10734,9
 SMEs Small and Medium Enterprises SPMU Satellite	1867
 SODE SPFP	2342
 SODE SPFP Majoritaire SPFP	2342
@@ -975,6 +977,7 @@ Schedule of Spectrum Access Fees Spectrum	736
 Second Deputy Speaker of Parliament	5219
 Secondary Spectrum Market	5245
 Sectoral Data Governance Bodies and Specialization	3861
+Secure Your Spot	10731
 Security. Within Special Programmes	6422
 Senate The Honourable Speaker	10210
 Senegal SP1	641
@@ -1058,7 +1061,7 @@ Space24 and Starlink	7051
 Space42	4952,2028
 Space42 and BrainSAT Technologies	6980
 Space42 and Esri	6232
-SpaceX	1585,63,28,19,117,3,2,34,21,15,42,46,1,3,1,6,11,283,89,75,94,15,1,2,13,18,9,90,43,64,4,4,11,125,7,2,278,141,140,370,363,6,25,66,5,5,6,91,105,5,105,255,148,27,69,51,205,21,28,41,5,22,83,5,79,105,132,130,134,2,8,19,1,14,5,1,10,5,1,1,25,26,24,81,47,162,8,32,39,2,11,28,49,27,1,25,40,1,5,1,8,87,51,7,267,25,80,86,253,196,173,656,1,62,21,145,451,51,479,35,196,361
+SpaceX	1585,63,28,19,117,3,2,34,21,15,42,46,1,3,1,6,11,283,89,75,94,15,1,2,13,18,9,90,43,64,4,4,11,125,7,2,278,141,140,370,363,6,25,66,5,5,6,91,105,5,105,255,148,27,69,51,205,21,28,41,5,22,83,5,79,105,132,130,134,2,8,19,1,14,5,1,10,5,1,1,25,26,24,81,47,162,8,32,39,2,11,28,49,27,1,25,40,1,5,1,8,87,51,7,267,25,80,86,253,196,173,656,1,62,21,145,451,51,479,35,196,361,155
 SpaceX CEO	4912,586
 SpaceX CEO Elon Musk	1980
 SpaceX Complete Starlink Mobile Testing	5562
@@ -1161,7 +1164,7 @@ Speaker of Parliament	5935,11,3175
 Speaker of Parliament Segepoh Solomon Thomas	9096
 Speaker's Gallery	10313
 Speaker's Office	7859,2454
-Speakers	2878,1402,3594,480,1432,735,208
+Speakers	2878,1402,3594,480,1432,735,208,12
 Speaker’s Chair	10313
 Speaker’s Gallery	10313
 Speaker’s Suspension Order Sparks Controversy	8352
@@ -1249,6 +1252,7 @@ Special Resolution	585,3129,5152
 Special Resolutions	585
 Special Security Corps for Strategic SME	9399
 Special Session	6488
+Special Statutory Mandate None	10738
 Special Summit	4738
 Special Votes	7266
 Special Yango Offer	3335
@@ -1476,7 +1480,7 @@ Spotify and AWS	7786
 Spotify and X	8436
 Spotify's DDP	8436
 Spotify. Khattaby	5159
-Spotlight	970,2415,742,982,1259,1180,2441
+Spotlight	970,2415,742,982,1259,1180,2441,742
 Spotlight Initiative	970
 Spotlights Page	2367
 Spousal	6357

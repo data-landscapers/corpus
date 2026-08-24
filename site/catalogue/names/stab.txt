@@ -112,8 +112,9 @@ Stable	3184,1117,1378
 Stable Audio	9739
 Stable Glo	6051
 Stable OS	6368
-Stablecoin	5124,739,1597,152,1699,20,378
+Stablecoin	5124,739,1597,152,1699,20,378,1029
 Stablecoin Activity Is Starting	9903
+Stablecoin Issuer Virtual Asset Wallet Provider	10738
 Stablecoin Partnerships	4716
 Stablecoin Use for Cross-Border Transactions	6679
 Stablecoin-based	6397,3506

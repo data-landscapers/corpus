@@ -16,9 +16,34 @@
   .cat a{color:var(--accent);text-decoration:none}
   .cat a:hover{text-decoration:underline}
   .cat h1{font-size:26px;margin:0 0 6px;letter-spacing:-.01em}
-  .cat .lede{color:var(--muted);font-size:14px;margin:0 0 8px;max-width:74ch}
-  .cat .lede p{margin:0 0 8px}
-  .cat .downloads{font-size:13px;color:var(--muted);margin:0 0 22px}
+  /* The lede is body text at body size, and takes whatever width the downloads
+     box leaves it (prep/catalogue.md §1) — it used to be 14px grey capped at
+     74ch, which read as a caption on a page whose first job is to explain what
+     the catalogue is and is not. */
+  .cat .cathead{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:26px 34px;
+    align-items:start;margin:0 0 24px}
+  .cat .lede{color:var(--ink);font-size:1rem;line-height:1.6;margin:0}
+  .cat .lede p{margin:0 0 10px}
+  .cat .lede p:last-child{margin-bottom:0}
+  .cat .dlbox{border:1px solid var(--line);border-radius:8px;background:var(--card);
+    padding:12px 14px;min-width:288px}
+  .cat .dlbox table{border-collapse:collapse}
+  .cat .dlbox th{font-size:11px;font-variant:small-caps;letter-spacing:.07em;
+    color:var(--faint);font-weight:600;text-align:left;padding:0 0 8px}
+  .cat .dlbox td{padding:4px 0;font-size:13px;color:var(--muted);white-space:nowrap;
+    vertical-align:middle}
+  .cat .dlbox td+td{padding-left:10px}
+  .cat .dlbox .btn{padding:.32rem .7rem;font-size:.72rem;border-width:1px;
+    border-radius:2px;display:inline-block;text-decoration:none;
+    font-family:inherit;font-weight:600;letter-spacing:.03em;
+    border-style:solid;border-color:var(--ink);color:var(--ink);background:none;
+    cursor:pointer;line-height:1.3}
+  .cat .dlbox .btn:hover{background:var(--ink);color:var(--card);text-decoration:none}
+  .cat .dlbox .btn[disabled]{border-color:var(--line);color:var(--faint);cursor:default}
+  .cat .dlbox .btn[disabled]:hover{background:none;color:var(--faint)}
+  .cat .dlbox .dlmsg{color:var(--warn);font-size:12.5px;line-height:1.4;
+    margin:8px 0 0;max-width:34ch}
+  @media (max-width:860px){.cat .cathead{grid-template-columns:1fr}}
   .cat .searchrow{display:flex;gap:10px;margin-bottom:18px}
   .cat #q{flex:1;padding:11px 14px;border:1px solid var(--line);border-radius:8px;font-size:15px;background:var(--card);color:var(--ink)}
   .cat #q:focus{outline:none;border-color:var(--accent)}
@@ -42,16 +67,11 @@
   .cat .opt .lbl{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .cat .opt .n{color:var(--faint);font-size:12px;font-variant-numeric:tabular-nums;flex:none}
   .cat .opt.zero{opacity:.34}
-  .cat .grp{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);margin:9px 0 3px;padding-left:4px}
+  .cat .grp{font-size:12.5px;font-variant:small-caps;letter-spacing:.05em;color:var(--faint);margin:9px 0 3px;padding-left:4px}
   .cat .grp:first-child{margin-top:0}
   .cat .countrow{display:flex;align-items:baseline;justify-content:space-between;gap:8px 18px;flex-wrap:wrap;margin:0 0 12px}
   .cat .count{font-size:14px;color:var(--muted);margin:0}
   .cat .count b{color:var(--ink);font-weight:600}
-  .cat .dl{font-size:13px;color:var(--muted)}
-  .cat .dl button{background:none;border:0;padding:0;font:inherit;color:var(--accent);cursor:pointer}
-  .cat .dl button:hover{text-decoration:underline}
-  .cat .dl button[disabled]{color:var(--faint);cursor:default;text-decoration:none}
-  .cat .dl .dlmsg{display:block;color:var(--warn);font-size:12.5px;margin-top:3px;max-width:44ch}
   .cat .row{border-bottom:1px solid var(--line);padding:13px 0;display:grid;grid-template-columns:92px minmax(0,1fr);gap:16px}
   .cat .row .date{color:var(--faint);font-size:13px;font-variant-numeric:tabular-nums;padding-top:1px}
   .cat .row .ttl{font-size:15px;margin:0 0 3px;line-height:1.4}
@@ -60,7 +80,6 @@
   .cat .tag{background:var(--chip);border-radius:4px;padding:2px 7px;font-size:12px;color:#55524c;cursor:pointer}
   .cat .tag:hover{background:#e6e2da}
   .cat .tag.pl{background:#eef1f4;color:#3f4d59}
-  .cat .tag.ln{background:#f4eef0;color:#6b3742}
   .cat .tag.en{background:#eef3ee;color:#3d5442}
   .cat .opts .trunc{font-size:11.5px;color:var(--faint);padding:6px 4px 2px;font-style:italic}
   .cat .flag{background:var(--warnbg);color:var(--warn);border-radius:4px;padding:2px 7px;font-size:12px}
@@ -106,10 +125,32 @@
 
 <div class="cat">
   <h1>Catalogue</h1>
-  <div class="lede"><p>All the reports on this site have been built from the documents listed in this catalogue. No other sources are used. To maintain the site the full text is maintained in a private repository - private because publishing it would involve copyright infringements. The catalogue gives you access to the original, published documents. For details of how the material is classified please go to the Methodology page.</p></div>
-  <p class="downloads">Download the whole catalogue:
-     <a href="raw-catalogue.csv" download>CSV</a> &nbsp;·&nbsp;
-     <a href="raw-catalogue.json" download>JSON</a> &nbsp;— metadata only.</p>
+
+  <div class="cathead">
+    <div class="lede"><p>All the reports on this site have been built from the documents listed in this catalogue. No other sources are used. To maintain the site the full text is maintained in a private repository - private because publishing it would involve copyright infringements. The catalogue gives you access to the original, published documents. For details of how the material is classified please go to the Methodology page.</p></div>
+
+    <!-- The downloads sit beside the lede rather than under it (prep/catalogue.md
+         §10), in the site's own button style: `.btn` with a leading down arrow, the
+         same control every finance table already offers. `This selection` cuts the
+         current filter in the reader's browser and is disabled until there is a
+         selection to cut — unfiltered, the selection *is* the catalogue, and the
+         published files on the row above are the citable ones. -->
+    <div class="dlbox">
+      <table>
+        <tr><th colspan="3">Downloads</th></tr>
+        <tr><td>Whole catalogue</td>
+            <td><a class="btn" href="raw-catalogue.csv" download>&darr; CSV</a></td>
+            <td><a class="btn" href="raw-catalogue.json" download>&darr; JSON</a></td></tr>
+        <tr><td>This selection</td>
+            <td><button class="btn" data-dl="csv" disabled>&darr; CSV</button></td>
+            <td><button class="btn" data-dl="json" disabled>&darr; JSON</button></td></tr>
+        <tr><td>Metadata</td>
+            <td><a class="btn" href="../metadata/catalogue-metadata.csv" download>&darr; CSV</a></td>
+            <td></td></tr>
+      </table>
+      <p class="dlmsg" id="dlmsg"></p>
+    </div>
+  </div>
 
   <div class="searchrow">
     <input id="q" type="search" placeholder="Search titles, publishers, and names inside the sources" autocomplete="off">
@@ -125,7 +166,7 @@
   <div class="cols">
     <aside id="facets"></aside>
     <main>
-      <div class="countrow"><p class="count" id="count"></p><span class="dl" id="dl"></span></div>
+      <div class="countrow"><p class="count" id="count"></p></div>
       <div id="results"></div>
       <button class="more" id="more" hidden>Show more</button>
       <p class="note" id="note"></p>
@@ -148,9 +189,15 @@
 (function(){
   var D = window.CATALOGUE;
   var ROWS = D.rows;
-  var REGION_NAME = {XNA:'North Africa', XWA:'West Africa', XEA:'East Africa',
-    XSA:'Southern Africa', XCA:'Central Africa', XAF:'Africa-wide', XSS:'Sub-Saharan', XHA:'Horn of Africa'};
-  var state = {q:'', places:[], topics:[], lens:[], years:[], ents:[], sort:'new', shown:100};
+  // Region labels come from the place vocabulary itself — every region code is a
+  // row in `countries.csv` with its own name — rather than from a hand-kept map
+  // that had drifted (it carried XHA, which the vocabulary does not, and wrote
+  // XAF and XSS differently from the way the rest of the site does).
+  function regionName(code){ return D.places[code] || code; }
+  // Lens and Named actor are gone from the sidebar (prep/catalogue.md §6, §7).
+  var state = {q:'', places:[], topics:[], years:[], ents:[], sort:'new', shown:100};
+  var FACETS = ['places','topics','ents','years'];   // every filter the state carries
+  var PRE = '<2020';                                  // the pre-2020 year bucket
 
   // Entity slugs arrive dictionary-encoded (field 10 = offsets into D.ents).
   // Expand once, in place: the strings are interned, so this costs array slots
@@ -209,7 +256,12 @@
       if (dn) alias += ' ' + dn;
     }
     r._s = (r[0] + ' ' + r[1] + ' ' + r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
-    r._y = r[2].slice(0,4);
+    // The year facet counts and filters on the *bucket*, not on the year: everything
+    // before 2020 is one option (prep/catalogue.md §8). The base thins out fast going
+    // back, and a column of single-figure years was most of the facet's height for a
+    // handful of records. An undated row has no bucket and no year, as before.
+    var y = r[2].slice(0,4);
+    r._y = y && +y < 2020 ? PRE : y;
   });
 
   // ---- names index (stage 3) -------------------------------------------------
@@ -336,7 +388,7 @@
     // holds when it is opened, and the build date says which cut this file was.
     var f = {};
     if (state.q) f.search = state.q;
-    ['places','topics','ents','lens','years'].forEach(function(k){
+    FACETS.forEach(function(k){
       if (state[k].length) f[k] = state[k].slice();
     });
     if (state.sort !== 'new') f.sort = state.sort;
@@ -380,15 +432,18 @@
   }
 
   function drawDownload(){
-    var el = document.getElementById('dl');
-    // Unfiltered, the selection *is* the catalogue, and the published files are the
-    // citable ones — the paragraph at the top of the page already offers them, so
-    // this control stays out of the way until there is a selection to cut.
-    if (!VIEW.length || VIEW.length === ROWS.length){ el.textContent = ''; return; }
-    if (dlMsg === 'busy'){ el.textContent = 'Preparing the file…'; return; }
-    el.innerHTML = 'Download these ' + VIEW.length.toLocaleString() + ': ' +
-      '<button data-dl="csv">CSV</button> &nbsp;·&nbsp; <button data-dl="json">JSON</button>' +
-      (dlMsg ? '<span class="dlmsg">' + esc(dlMsg) + '</span>' : '');
+    // The two `This selection` buttons live in the downloads box beside the lede and
+    // are always drawn; what changes is whether they are live. Unfiltered, the
+    // selection *is* the catalogue and the row above already offers the published,
+    // citable files — so the buttons go quiet rather than duplicating them.
+    var live = VIEW.length > 0 && VIEW.length < ROWS.length && dlMsg !== 'busy',
+        msg = document.getElementById('dlmsg');
+    document.querySelectorAll('.dlbox button[data-dl]').forEach(function(b){
+      b.disabled = !live;
+      b.title = live ? 'Download these ' + VIEW.length.toLocaleString() + ' records'
+                     : 'Filter or search first — this cuts the selection you are looking at';
+    });
+    msg.textContent = dlMsg === 'busy' ? 'Preparing the file…' : (dlMsg || '');
   }
 
   function passes(r, skip){
@@ -396,7 +451,6 @@
         !(nameHits && r[11] >= 0 && nameHits[r[11]])) return false;
     if (skip !== 'places' && state.places.length && !state.places.some(function(v){return r[3].indexOf(v)>-1;})) return false;
     if (skip !== 'topics' && state.topics.length && !state.topics.some(function(v){return r[4].indexOf(v)>-1;})) return false;
-    if (skip !== 'lens'   && state.lens.length   && !state.lens.some(function(v){return r[5].indexOf(v)>-1;})) return false;
     if (skip !== 'ents'   && state.ents.length   && !state.ents.some(function(v){return r[10].indexOf(v)>-1;})) return false;
     if (skip !== 'years'  && state.years.length  && state.years.indexOf(r._y) === -1) return false;
     return true;
@@ -411,7 +465,11 @@
     }
     return c;
   }
-  function facetBlock(key, title, idx, labels, groups, groupNames, searchable, limit){
+  // `order` is an explicit key sequence when the vocabulary has one of its own —
+  // places by region then name, topics by the taxonomy's sort order. Where it is
+  // absent the facet still falls back to count-descending, which is right for a
+  // vocabulary with no inherent sequence.
+  function facetBlock(key, title, idx, labels, groups, groupNames, searchable, limit, order){
     var c = counts(key, idx);
     var sel = state[key];
     var el = document.createElement('div');
@@ -420,9 +478,10 @@
     if (searchable) h += '<input class="ftype" data-f="' + key + '" placeholder="Filter ' + title.toLowerCase() + '" autocomplete="off">';
     h += '<div class="opts" data-opts="' + key + '"></div>';
     el.innerHTML = h;
-    var keys = Object.keys(labels).filter(function(k){ return c[k] || sel.indexOf(k)>-1; });
-    if (idx === 'y') keys.sort().reverse();
-    else keys.sort(function(a,b){ return (c[b]||0)-(c[a]||0) || labels[a].localeCompare(labels[b]); });
+    var keys = (order || Object.keys(labels)).filter(function(k){
+      return labels[k] !== undefined && (c[k] || sel.indexOf(k) > -1);
+    });
+    if (!order) keys.sort(function(a,b){ return (c[b]||0)-(c[a]||0) || labels[a].localeCompare(labels[b]); });
     var box = el.querySelector('[data-opts]');
     function paint(term){
       // `limit` caps how many options are put in the DOM, not how many can be
@@ -441,7 +500,7 @@
         }
         var n = c[k] || 0;
         html += '<label class="opt' + (n ? '' : ' zero') + '">' +
-          '<input type="checkbox" data-f="' + key + '" value="' + k + '"' + (on ? ' checked' : '') + '>' +
+          '<input type="checkbox" data-f="' + key + '" value="' + att(k) + '"' + (on ? ' checked' : '') + '>' +
           '<span class="lbl" title="' + att(lab) + '">' + esc(lab) + '</span>' +
           '<span class="n">' + n.toLocaleString() + '</span></label>';
         drawn++;
@@ -455,17 +514,70 @@
     }
     return el;
   }
-  function years(){ var o={}; ROWS.forEach(function(r){ if(r._y) o[r._y]=r._y; }); return o; }
+  // ---- the year facet: 2020 onward, newest first, then one pre-2020 bucket -----
+  function yearLabels(){
+    var o = {};
+    ROWS.forEach(function(r){ if (r._y) o[r._y] = r._y === PRE ? '< 2020' : r._y; });
+    return o;
+  }
+  function yearOrder(labels){
+    var ks = Object.keys(labels).filter(function(k){ return k !== PRE; });
+    ks.sort().reverse();
+    if (labels[PRE]) ks.push(PRE);       // the bucket sorts last, whatever it is called
+    return ks;
+  }
+
+  // ---- the country facet: regions first, then region by region ----------------
+  // Sorted by name, never by record count (prep/catalogue.md §2-4). A count-sorted
+  // list reorders itself under the reader every time a box is ticked, and a reader
+  // looking for Kenya is looking alphabetically. Group 1 is REGIONS — every region
+  // and bloc code the vocabulary carries, which are places a source can be tagged to
+  // in their own right — and the country groups follow it alphabetically.
+  var REGIONS_GRP = '@regions';
+  function placeGroups(){
+    var g = {};
+    Object.keys(D.places).forEach(function(k){
+      g[k] = /^X/.test(k) ? REGIONS_GRP : (D.regions[k] || '@none');
+    });
+    return g;
+  }
+  function placeGroupNames(){
+    var n = {}; n[REGIONS_GRP] = 'Regions'; n['@none'] = 'Elsewhere';
+    Object.keys(D.regions).forEach(function(k){
+      var r = D.regions[k]; if (r) n[r] = regionName(r);
+    });
+    return n;
+  }
+  function placeOrder(groups, gnames){
+    var byGrp = {};
+    Object.keys(D.places).forEach(function(k){
+      (byGrp[groups[k]] = byGrp[groups[k]] || []).push(k);
+    });
+    var gs = Object.keys(byGrp).sort(function(a, b){
+      if (a === REGIONS_GRP) return -1;                 // REGIONS always heads the list
+      if (b === REGIONS_GRP) return 1;
+      if (a === '@none') return 1;
+      if (b === '@none') return -1;
+      return (gnames[a] || a).localeCompare(gnames[b] || b);
+    });
+    var out = [];
+    gs.forEach(function(g){
+      byGrp[g].sort(function(a, b){ return D.places[a].localeCompare(D.places[b]); });
+      out = out.concat(byGrp[g]);
+    });
+    return out;
+  }
+
   function drawFacets(){
     var f = document.getElementById('facets');
     var keep = {};
     f.querySelectorAll('.ftype').forEach(function(i){ keep[i.dataset.f] = i.value; });
     f.innerHTML = '';
-    f.appendChild(facetBlock('places','Country', 3, D.places, D.regions, REGION_NAME, true));
-    f.appendChild(facetBlock('topics','Topic', 4, D.topics, D.cats, null, true));
-    f.appendChild(facetBlock('ents','Named actor', 10, ENTLABEL, null, null, true, 150));
-    f.appendChild(facetBlock('lens','Lens', 5, {sovereignty:'Sovereignty', colonialism:'Colonialism'}, null, null, false));
-    f.appendChild(facetBlock('years','Year published', 'y', years(), null, null, false));
+    var pg = placeGroups(), pgn = placeGroupNames(), yl = yearLabels();
+    f.appendChild(facetBlock('places','Country', 3, D.places, pg, pgn, true, 0, placeOrder(pg, pgn)));
+    // Topics in the taxonomy's own order, which carries the Level 1 grouping with it.
+    f.appendChild(facetBlock('topics','Topic', 4, D.topics, D.cats, null, true, 0, D.torder));
+    f.appendChild(facetBlock('years','Year published', 'y', yl, null, null, false, 0, yearOrder(yl)));
     f.querySelectorAll('.ftype').forEach(function(i){
       if (keep[i.dataset.f]) { i.value = keep[i.dataset.f]; i.dispatchEvent(new Event('input')); }
     });
@@ -479,8 +591,7 @@
     state.places.forEach(function(v){ add('places','Country', v, D.places[v]||v); });
     state.topics.forEach(function(v){ add('topics','Topic', v, D.topics[v]||v); });
     state.ents.forEach(function(v){ add('ents','Actor', v, ENTLABEL[v]||v); });
-    state.lens.forEach(function(v){ add('lens','Lens', v, v); });
-    state.years.forEach(function(v){ add('years','Year', v, v); });
+    state.years.forEach(function(v){ add('years','Year', v, v === PRE ? 'before 2020' : v); });
     // `state.q` arrives from the URL fragment via readHash, so it is attacker-supplied
     // on a public page and must be escaped before it reaches innerHTML.
     if (state.q) h += '<span class="chip"><b>Search</b> ' + esc(state.q) + ' <button data-rm="q" data-v="">&times;</button></span>';
@@ -501,8 +612,10 @@
       var tags = '';
       r[3].slice(0,4).forEach(function(p){ tags += '<span class="tag pl" data-add="places" data-v="' + p + '">' + (D.places[p]||p) + '</span>'; });
       r[4].slice(0,4).forEach(function(t){ tags += '<span class="tag" data-add="topics" data-v="' + t + '">' + (D.topics[t]||t) + '</span>'; });
+      // The named-actor *facet* has gone (prep/catalogue.md §7); the tags stay, because
+      // they say what a record is about and clicking one is the "more like this" the
+      // sidebar list never was. The chip above it is how a reader takes it off again.
       r[10].slice(0,3).forEach(function(e){ tags += '<span class="tag en" data-add="ents" data-v="' + e + '">' + esc(ENTLABEL[e]||e) + '</span>'; });
-      r[5].forEach(function(l){ tags += '<span class="tag ln" data-add="lens" data-v="' + l + '">' + l + '</span>'; });
       if (r[9] === 'paywalled') tags += '<span class="flag">paywalled</span>';
       if (r[9] === 'excerpt') tags += '<span class="flag">excerpt only</span>';
       if (r[8]) tags += '<span class="flag">document held</span>';
@@ -532,7 +645,9 @@
   function writeHash(){
     var p = [];
     if (state.q) p.push('q=' + encodeURIComponent(state.q));
-    ['places','topics','ents','lens','years'].forEach(function(k){ if (state[k].length) p.push(k + '=' + state[k].join(',')); });
+    // Encoded, not raw: the pre-2020 bucket's key is `<2020`, and a `<` has no
+    // business travelling naked in a fragment. `readHash` decodes before it splits.
+    FACETS.forEach(function(k){ if (state[k].length) p.push(k + '=' + encodeURIComponent(state[k].join(','))); });
     if (state.sort !== 'new') p.push('sort=' + state.sort);
     history.replaceState(null, '', p.length ? '#' + p.join('&') : location.pathname);
   }
@@ -542,7 +657,10 @@
       var i = kv.indexOf('='), k = kv.slice(0, i), v = decodeURIComponent(kv.slice(i + 1));
       if (k === 'q') { state.q = v.toLowerCase(); document.getElementById('q').value = v; }
       else if (k === 'sort') { state.sort = v; document.getElementById('sort').value = v; }
-      else if (state[k] !== undefined) state[k] = v.split(',').filter(Boolean);
+      // By the facet list, not by "is it a key of state" — `lens` has gone and an old
+      // shared URL still carrying one should be ignored rather than setting a filter
+      // with no control anywhere on the page to take it off again.
+      else if (FACETS.indexOf(k) > -1) state[k] = v.split(',').filter(Boolean);
     });
   }
   function redraw(resetPage){
@@ -566,7 +684,7 @@
       redraw();
     }
     if (t.id === 'clearall'){
-      state.q = ''; state.places = []; state.topics = []; state.lens = []; state.years = []; state.ents = [];
+      state.q = ''; FACETS.forEach(function(k){ state[k] = []; });
       document.getElementById('q').value = ''; refreshNames(); redraw();
     }
     if (t.dataset && t.dataset.add){
@@ -575,7 +693,7 @@
       redraw();
     }
     if (t.id === 'more'){ state.shown += 100; drawResults(); }
-    if (t.dataset && t.dataset.dl){ exportSelection(t.dataset.dl); }
+    if (t.dataset && t.dataset.dl && !t.disabled){ exportSelection(t.dataset.dl); }
   });
   var timer;
   document.getElementById('q').addEventListener('input', function(){

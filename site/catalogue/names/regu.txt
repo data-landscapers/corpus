@@ -25,7 +25,7 @@ ARRANGEMENT OF REGULATIONS REGULATION Preliminary	5687
 ARRANGEMENT OF REGULATIONS Regulation	22
 ARTCI Regulatory Council	7189
 ATU-GSMA African ICT Regulatory Leaders’ Forum	7825
-Accelerated Regulatory Incubation Programme	2826,5638,1491,200,406
+Accelerated Regulatory Incubation Programme	2826,5638,1491,200,406,182
 Accountants’ and Auditors’ Regulatory Authority of Namibia	3714
 Act Amendment Regulations	5865
 Act EPRA Energy and Petroleum Regulatory Authority	7548
@@ -771,9 +771,9 @@ RFS Regulations	6891
 RURA QoS Regulations	718
 RURA's Regulatory Board	563
 Racks Regular Duties and Responsibilities Required Spare	9123
-Radio Frequency Spectrum Fees Regulations	6891,2438,1260
+Radio Frequency Spectrum Fees Regulations	6891,2438,1260,155
 Radio Frequency Spectrum Licence Fees Regulations	6891
-Radio Frequency Spectrum Regulations	6906,944,130,109,1240
+Radio Frequency Spectrum Regulations	6906,944,130,109,1240,1415
 Radio Regulations	11,7816,153,109,84
 Radio Regulations Board	6642
 Radio Regulations No	7850
@@ -1068,6 +1068,7 @@ Regulatory Verification	5665
 Regulatory Watch Initiative	1264
 Regulatory Wheel of Change	961
 Regulatory Window	4848,80
+Regulatory and Corporate Communications Director	10732
 Regulatory and Cost Reality Cost	6876
 Regulatory and Governance	6748
 Regulatory and Industry Response	7334
@@ -1105,6 +1106,7 @@ SADC Harmonised Cybersecurity Legal and Regulatory Framework	26,1,1,934
 SADC ICT Implementing Agencies Communication Regulators	962
 SARS Commissioner and Zimbabwe Procurement Regulator	7055
 SEBI Regulation	4576
+SEC. Regulated	10743
 SEC’s Accelerated Regulatory Incubation Programme	9285,469
 SEC’s Regulatory Incubation Program	2372
 SHiFT AWAY FROM REGULATORY SiLOS	961
@@ -1229,6 +1231,7 @@ VASP Regulations	6699,1135
 VASP Regulations. VALR	9311
 VI. Sequencing and Implementation Regulations	6735
 Virtual Asset Service Providers Regulations	7607
+Virtual Asset Service Providers Regulations. Select	10738
 WAEMU Regulated	6938
 WATRA Harmonized Regulatory Framework	5676
 WHT Regulations	9972

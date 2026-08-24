@@ -482,7 +482,7 @@ Deputy Minister David Yau Yau	5014
 Deputy Minister Dr Sweetbert Mkama	6927
 Deputy Minister Dr. Nomalungelo Gina	6480
 Deputy Minister Hon. Mohammed Adam Sukparu	10584
-Deputy Minister Mohammed Adams Sukparu	8767
+Deputy Minister Mohammed Adams Sukparu	8767,1969
 Deputy Minister Mondli Gungubele	1810
 Deputy Minister Nzuza	6196
 Deputy Minister Nzuza's SARB	2662
@@ -833,6 +833,7 @@ Ghana's Ministry of Finance	9162
 Ghana. The Minister	5375
 Ghanaian Health Minister Kwabena Mintah Akandoh	8479
 Ghana’s Minister	7068
+Ghana’s Ministry of Communication	10736
 Ghana’s Ministry of National Security	358
 Ghandoor. The State Minister	8613
 Gigiri Ministry of Health P.O. Box	4153
@@ -1089,7 +1090,7 @@ Kenya Pharmaceutical Association MOH Ministry of Health	9855
 Kenya School of Government MDAC Ministries	7548
 Kenya's Interior Ministry	6803
 Kenya's Ministry of Education. Starlink	6572
-Kenya's Ministry of Information	6046,473,1031
+Kenya's Ministry of Information	6046,473,1031,3184
 Kenya. Ministry of ICT	899
 Kenyan Ministry of ICT	5584
 Kenyan Prime Minister Raila Odinga	18
@@ -1389,7 +1390,7 @@ Minis-	8891
 Minisitiri	1214
 Minisitiri The Prime Minister	1214
 Minist	1277,8122
-Minister	1,2,8,15,2,208,73,9,78,17,144,16,14,131,18,47,189,289,72,46,156,58,149,102,65,53,37,297,9,2,4,27,25,225,126,1,11,74,29,42,66,52,18,257,26,70,19,5,124,32,15,1,27,16,5,65,45,24,8,80,6,29,19,7,4,75,15,83,6,30,1,12,61,6,17,32,4,6,3,1,8,78,24,28,10,1,28,65,48,29,81,34,29,7,77,41,35,74,15,78,53,3,52,23,55,31,85,51,2,101,40,3,1,26,171,20,5,3,16,4,9,18,67,18,45,11,233,43,4,16,16,52,77,16,3,74,8,21,112,13,96,62,39,14,23,3,50,1,2,97,3,48,26,21,25,32,65,58,3,67,4,55,64,14,122,10,34,22,1,5,48,79,18,23,11,16,84,46,2,60,143,37,96,4,2,71,43,22,1,42,11,93,15,33,261,16,100,1,18,25,32,63,59,30,17,22,42,13,118,8,2,123,34,83,95,14,18,37,181,39,7,137,91,65,26,92,62,70
+Minister	1,2,8,15,2,208,73,9,78,17,144,16,14,131,18,47,189,289,72,46,156,58,149,102,65,53,37,297,9,2,4,27,25,225,126,1,11,74,29,42,66,52,18,257,26,70,19,5,124,32,15,1,27,16,5,65,45,24,8,80,6,29,19,7,4,75,15,83,6,30,1,12,61,6,17,32,4,6,3,1,8,78,24,28,10,1,28,65,48,29,81,34,29,7,77,41,35,74,15,78,53,3,52,23,55,31,85,51,2,101,40,3,1,26,171,20,5,3,16,4,9,18,67,18,45,11,233,43,4,16,16,52,77,16,3,74,8,21,112,13,96,62,39,14,23,3,50,1,2,97,3,48,26,21,25,32,65,58,3,67,4,55,64,14,122,10,34,22,1,5,48,79,18,23,11,16,84,46,2,60,143,37,96,4,2,71,43,22,1,42,11,93,15,33,261,16,100,1,18,25,32,63,59,30,17,22,42,13,118,8,2,123,34,83,95,14,18,37,181,39,7,137,91,65,26,92,62,70,35
 Minister Abdelmadjid Abderahim	6929
 Minister Abdoulaye	3078
 Minister Agok Makur Kur	3583

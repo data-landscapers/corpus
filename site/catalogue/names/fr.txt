@@ -871,7 +871,7 @@ Franco-Italian STMicroelectronics	4617
 Francois	3782
 Francois and George	3782
 Francophone	652,2460,428,9,1505,994,320,649,303,24,138,1637
-Francophone Africa	652,241,1248,320,361,329,6,103,1,1461,332,1294,20,738,44,133,899,545,1965
+Francophone Africa	652,241,1248,320,361,329,6,103,1,1461,332,1294,20,738,44,133,899,545,1965,39
 Francophone Africa App	3905
 Francophone Africa. Already	3905
 Francophone Africa. Held	6348
@@ -881,7 +881,7 @@ Francophone Africa’s EV	6368
 Francophone Association of Data Protection Authorities	6363
 Francophone Forum	7017
 Francophone SSA	652
-Francophone Weekly	3157,1897,105,1209,738,177
+Francophone Weekly	3157,1897,105,1209,738,177,3448
 Francophone West Africa	1061,1080,669,1149,5503,1,812
 Francophone West Africa and East Africa. Beyond	7631
 Francophone West Africa. Digital	929
@@ -1256,6 +1256,11 @@ Fritz VB. Problem-driven Political Economy Analysis	1261
 Fritz&author	771
 Fritz&publication year	1261
 Fritzchens-Fritz GPU-shot-etched-5 4000x2667.jpg	5440
+Frogfoot	10735
+Frogfoot Air	10735
+Frogfoot Rise	10735
+Frogfoot and Hypa	10735
+Frogfoot and Vox	10735
 Fromamongthe	972
 Fromaninformation	8602
 Fromaninformationsystemsperspective	8602
@@ -1811,6 +1816,7 @@ Open Banking Framework	6757
 Open Data Framework	3604
 Open Group Architecture Framework	21
 Open Science Framework	8436
+Openserve and Frogfoot Rise	10735
 Operating Frequency Range	736
 Operation Digital Terrestrial Free-To-Air	2776
 Operation Frequency Range	736
@@ -1924,14 +1930,14 @@ Radio Frequency Spectrum	762,2346,2764,1034
 Radio Frequency Spectrum Assignment Plan	7828
 Radio Frequency Spectrum Assignment Plans	7980,109
 Radio Frequency Spectrum Dependent Individual License	762
-Radio Frequency Spectrum Fees Regulations	6891,2438,1260
+Radio Frequency Spectrum Fees Regulations	6891,2438,1260,155
 Radio Frequency Spectrum Licence Fees Regulations	6891
 Radio Frequency Spectrum License	762
 Radio Frequency Spectrum Licensee	762
 Radio Frequency Spectrum Licenses	762,5110
 Radio Frequency Spectrum Management	6946
 Radio Frequency Spectrum Management Directive	762
-Radio Frequency Spectrum Regulations	6906,944,130,109,1240
+Radio Frequency Spectrum Regulations	6906,944,130,109,1240,1415
 Radio Frequency Spectrum Usage	762
 Radio Frequency Spectrum Usage Fees Directive	762
 Radio Frequency Spectrum for Individual Licenses	762

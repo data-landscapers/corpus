@@ -60,9 +60,13 @@ Fiber-to-the-Home	7110
 Fiber-to-the-Room	6317
 Fiber-to-the-home	5909
 FiberCo and TowerCo	2673
-FiberOne	6749
+FiberHome	10734
+FiberHome World Tour	10734
+FiberOne	6749,3993
+FiberOne Broadband	10742
 FiberOne Broadband Limited	2538
 FiberOne Broadband Ltd	3862
+FiberOne Training Academy	10742
 FiberOne's Consolidation FiberOne Broadband Ltd	6749
 FiberOne's Q3	6749
 Fibers	2868
@@ -108,6 +112,7 @@ Home FttO Fibre	2775
 Horizon Fiber	3788,1104,6,20,1,56,2713,2895
 Horizon Fiber Initiative	4918,17,5648
 Huawei for Fibre-to-the-Home	6864
+Hypa Fibre	10735
 ISP Savanna Fibre	6604
 Infrastructure BoFiNet Completes P43m Fibre Project	9912
 Initiative Horizon Fiber	4919
@@ -186,6 +191,7 @@ Uni Fiber	7620
 Vodafone Fiber Connection Node	580
 Vumatel and Dark Fibre Africa	4150
 Vumatel and Dark Fibre Africa. Cames PIP	10595
+Wuhan-headquartered FiberHome	10734
 Yas Fiber	10590
 Yas Fiber CEO Maxime Woimant	10590
 Yas Fibre	4526,2324

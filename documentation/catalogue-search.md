@@ -123,6 +123,10 @@ Sub-Saharan mobile sits at [15–20 Mbps on average](https://www.connectingafric
 
 On the page: entity slugs join the search blob with hyphens expanded to spaces, a **Named actor** facet sits between Topic and Lens with the type-ahead the places and topics facets already use, rows carry up to three actor chips, and the facet, chips, URL hash and clear-all all behave as the existing facets do. The facet renders at most 150 options into the DOM at a time — the type-ahead searches the whole 6,774 either way — because rendering the full vocabulary on every redraw is what would otherwise make an uncapped list unaffordable.
 
+> **The sidebar facet was removed on 2026-08-24** *(Bill, `prep/catalogue.md` §7; Lens went in the same pass, §6)*. **Nothing else in this document changes** — the search blob, the shards, the dictionary encoding and the row chips are all as described, and the entity filter itself still exists: clicking an actor chip on a row sets it, and the chip row above the results takes it off again. What went is the list of 6,774 checkboxes in the left column, and with it the 150-option DOM cap, which existed only to make that list affordable. The reason is that a search box which already reaches every one of those names by typing is a better front door to them than a scrolling list nobody can scan, and the sidebar's job is the three vocabularies a reader browses *by* — place, topic, year.
+
+
+
 **Measured against the old title-and-publisher search, over the same 10,711 records:**
 
 | search | before | after |

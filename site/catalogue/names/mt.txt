@@ -43,6 +43,7 @@ CEO of MTN Cameroon	3034
 CEO of MTN Côte	3529
 CEO of MTN Ghana	5136,2022
 CEO of MTN Group	5127
+CEO of MTN Group. Increasing	10739
 CEO of MTN Mobile Money Corporation	6601
 CEO of MTN South Africa	1642
 CEO of MTN Uganda	5389,3963
@@ -109,11 +110,13 @@ IBBS MTS	966
 IBBS MTSII	966
 ICASA Auction MTN Group	926
 IHS Holding Limited MTN Group Limited	7198
+IHS Towers. MTN	10740
 ITWeb MTN	5699
 Improved MTN Airtel	6051
 Incoming Fixed International Traffic for MTN	3862
 Introduction and MTN's First Standalone Stand	5752
 Investcom. MTN	2259
+Ivoire and Cameroon. MTN South Africa	10739
 Jabu Mtsweni	5598,553,1
 Jabu Mtsweni and Advocate Lufuno Tshikalange	7757
 Jukwaa la Biashara Mtandao	6019
@@ -264,7 +267,7 @@ MTN Ghana. MTN Ghana	9840
 MTN Ghana’s Mobile Money	8813
 MTN GlobalConnect	1643,1034,1473,843,2336
 MTN GlobalConnect Solutions	1048
-MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,179,329,360
+MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,179,329,360,151
 MTN Group Available	9871
 MTN Group CEO	5569
 MTN Group CEO Ralph Mupita	6563,288,3737
@@ -309,7 +312,8 @@ MTN Is Partnering	8111
 MTN Liberia	4285,3331
 MTN Lonestar Cell Mobile Money	4261
 MTN Mbour	9891
-MTN MoMo	3011,319,133,82,5,798,1361,365,28,266,225,1589,228,214,91,387,1564
+MTN MoMo	3011,319,133,82,5,798,1361,365,28,266,225,1589,228,214,91,387,1564,75
+MTN MoMo Equips	10741
 MTN MoMo Fintech	3507
 MTN MoMo Merchant	8410
 MTN MoMo Rwanda	8682
@@ -382,7 +386,7 @@ MTN Rwanda Ltd and Airtel Rwanda Ltd	718
 MTN Rwandacell	8753
 MTN Rwandacell Plc	718
 MTN Rwandacell Plc License	718
-MTN SA	926,3585,1110
+MTN SA	926,3585,1110,5119
 MTN SA CEO Ferdi Moolman	5621
 MTN SA CEO Ferdi Moolman and South	5621
 MTN SA Foundation	8409,819
@@ -396,7 +400,7 @@ MTN Sifiso Dabengwa DC	6735
 MTN Sifiso Dabengwa Phase	3554
 MTN Skills	6593
 MTN Skills Academy	6593,1816,1462,271
-MTN South Africa	926,5925,775,112,374,297,170,649,1000,13
+MTN South Africa	926,5925,775,112,374,297,170,649,1000,13,498
 MTN South Africa Foundation	7738
 MTN South Africa and ZTE Scale AI-Powered	8112
 MTN South Africa’s Facebook	8579
@@ -454,6 +458,7 @@ MTN's Next Frontier	5752
 MTN's and Equinix's South African	1208
 MTN-GHANA FY-2022 CALL-TRANSCRIPT-1.pdf	924
 MTN-Group-FY-25-Complete-results Booklet.pdf	5569
+MTN. Africa	10739
 MTN. Ce	3876
 MTN. For MTN	9560
 MTN. Graphique	4459
@@ -493,7 +498,7 @@ MTNIT	5457,2432,627
 MTNIT CI	5457,3059
 MTNRA	1536,167,1456,1441,395,750,1,3145,102
 MTN’s AI-enabled	5569
-MTN’s Ambition	9100,1143
+MTN’s Ambition	9100,1143,497
 MTN’s Ayoba	4150
 MTN’s Bayobab	6580
 MTN’s COVID-19	9969
@@ -502,7 +507,7 @@ MTN’s Fixed Data	2776
 MTN’s Guinea	4150
 MTN’s Mazen Mroué	6563
 MTN’s Mission	7558
-MTN’s MoMo	3011,2809,739,1466
+MTN’s MoMo	3011,2809,739,1466,2715
 MTN’s New Frontier	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45
 MTN’s Rooftop Event Centre	2563
 MTN’s South African	9663
@@ -592,6 +597,7 @@ Mtunzini	1647,1874,1,11,26
 Mtuwa	10412
 Mtwara	2868,3860
 Mulinge. MTN Uganda	3330
+Mupita. MTN	10739
 NCA Auction MTN Group	89
 NCA MTN	8025
 NEMISA R318m MTEF	3264
@@ -644,13 +650,16 @@ Serikali Mtumba	6019
 Setting Zone Setting Gender Mt Kenya	7869
 Silindile Mtolo	8467
 Sipho Mtombeni	5892
+Skills MTN MoMo	10741
 Small and Medium Enterprises MTEF Medium Term	1988
 Sophia Mtare	3274
 Sophia Mtare Binga Unicef Zimbabwe	3274
+South Africa MTN	10740
 South Africa's MTN	1997
 South Africa's MTN Group	5937
 South African MTN	4535
 South African-headquartered MTN Group	2259
+South Sudan. MTN Fintech	10741
 South Sudan. MTN South Sudan	2716
 South Sudan’s ICT Ministry Commends MTN	4243
 Standard Bank Group MTN	9720

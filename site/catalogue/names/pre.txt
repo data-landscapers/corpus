@@ -217,6 +217,7 @@ Conselho de Administração da APDO Presidente da República	752
 Constitucional Presidente Comisión Nac. UNESCO Secretario	4209
 Consumer Pre	5865
 Consumer Presented Mode	8357
+Contact the Press Council	10735
 Contadores Prepagos	4209
 Context and Preliminary Findings Mozambique	3058
 Coordinator. President	1777
@@ -1181,7 +1182,7 @@ Prensa de Guinea Ecuatorial	975,5323,1785,289,182,511,237,1,624
 Prensa de Guinea Ecuatorial Aviso	975,5323,1785,289,182,511
 Prentice	7886
 Preocupación	1701
-Prepaid	236,346,431,850,81,832,1086,1960,915,1494,554,99
+Prepaid	236,346,431,850,81,832,1086,1960,915,1494,554,99,1849
 Prepaid Active SIM	1013,931
 Prepaid Active TN Mobile	1013
 Prepaid Cards Mobile Banking Subscribers Internet	4517
@@ -1337,7 +1338,7 @@ Presidency. Standing	5231
 Presidency.156	3583
 Presidency’s Digital Services Unit	3922
 Presidency’s Inter-Ministerial Committee	3922
-President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51
+President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27
 President Abdel Fattah El Sisi	10103
 President Abdelmadjid Tebboune	2406,161,719,67,518,57,267,1112,563,83,1078,285
 President Adama Barrow	6008,218,787,3049
@@ -1534,7 +1535,7 @@ President and CEO of Algeria Telecom	3278
 President and CEO of Biu Capital	9371
 President and CEO of IREX	9641
 President and CEO of MTN Group	5127
-President and Cabinet	395,1159,1225,272,1477
+President and Cabinet	395,1159,1225,272,1477,6208
 President and Cabinet E-Government Technology Unit	2779
 President and Cabinet Following	2779
 President and Cabinet GOVERNMENT OF ZIMBABWE GOVERNMENT	2779
@@ -1709,9 +1710,9 @@ Presión	1701
 Presque	1679,8211
 Press	53,31,5,54,1,2,62,3,29,1,22,1,1,21,3,1,3,1,2,34,17,7,1,21,4,1,4,1,1,1,1,2,1,7,48,54,5,3,1,1,2,1,5,1,1,8,65,1,1,1,9,12,2,7,9,1,1,14,21,1,1,1,9,3,10,4,1,3,1,1,1,2,1,1,11,9,80,22,2,13,6,1,2,2,26,2,2,1,1,2,1,9,1,1,1,2,1,1,1,12,1,2,1,1,1,4,7,5,10,84,2,11,28,9,31,2,1,5,3,1,2,2,1,1,3,5,3,1,1,9,2,86,153,1,24,12,75,4,1,1,13,6,4,3,1,3,1,6,1,16,75,231,255,19,5,1,48,6,3,4,2,2,6,1,1,2,7,280,5,904,964,54,3,8,13,26,4,11,1,5,98,78,112,1246,688,694,111,16,100,21,1001,257,83,41,31,659,849,115
 Press Code of Ethics and Conduct	8917
-Press Council	8917
+Press Council	8917,1818
 Press Council Chairperson Phathiswa Magopeni	10729
-Press Council of South Africa	8917
+Press Council of South Africa	8917,1818
 Press Freedom	2844
 Press Freedom and Democratic Governance	9660,637
 Press Information Bureau	6480
@@ -2086,6 +2087,7 @@ Tahoua Prenant	7374
 Taiwanese President Lai Ching-te	8918
 Take Regarding Presidential Contest	7869
 Tanzania Accountants Association President Godvictor Lyimo	8888
+Tanzania President Mwinyi Reviews TTCL’s Digital	10746
 Tanzanian President Samia Suluhu Hassan	9350
 Tech Policy Press	4429,2016,42,625,359,2775
 Tech Policy Press. Admissible	4259
@@ -2244,6 +2246,7 @@ Zambia Artificial Intelligence Cooperation. Presentations	9379
 Zambia Free Press Initiative	9082
 Zambia Free Press Initiative and Zambian Cyber	9416
 Zambian President	6534
+Zanzibar President of Zanzibar and Chairman	10746
 Zimbabwe Country Risk Premium	4896
 Zimbabwe President Robert Mugabe	225
 Zimbabwe's President Emerson Mnangagwa	5411

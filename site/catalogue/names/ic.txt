@@ -322,7 +322,7 @@ ICAO's Policies	10723
 ICAO-compliant	320,3483,20,545
 ICAO-standard	2796
 ICAR-ADE	1368
-ICASA	926,31,446,206,201,2,757,375,2,318,980,488,328,115,6,11,406,126,61,23,64,180,100,31,284,358,7,74,145,267,105,333,68,3,1,22,130,109,41,1,30,12,62,163,37,482,775,844,53,140
+ICASA	926,31,446,206,201,2,757,375,2,318,980,488,328,115,6,11,406,126,61,23,64,180,100,31,284,358,7,74,145,267,105,333,68,3,1,22,130,109,41,1,30,12,62,163,37,482,775,844,53,140,15
 ICASA Act	4732,1140,1952
 ICASA Auction MTN Group	926
 ICASA Auction Vodacom	957
@@ -812,7 +812,7 @@ ITU ICT-DF CHF	689
 ITU and ICPC	5950
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
 Icann	2815
-Icasa	1695,1242,1305,808,457,95,10,173,148,218,32,182,194,339,405,870,99,329,67,173,928,826
+Icasa	1695,1242,1305,808,457,95,10,173,148,218,32,182,194,339,405,870,99,329,67,173,928,826,149
 Icasa Act	2937
 Icasa BEE	4242
 Icasa CEO Tshiamo Maluleka-Disemelo	5050
@@ -1029,7 +1029,7 @@ National ICT Advisory Committee	395
 National ICT Agency	1000
 National ICT Backbone	6030
 National ICT Blueprint	5363
-National ICT Broadband Backbone	1122,1745,2848,68,237,1,1,146,578,359,660,449,935
+National ICT Broadband Backbone	1122,1745,2848,68,237,1,1,146,578,359,660,449,935,1597
 National ICT Development Strategy ITU	691
 National ICT Development Strategy. Activities	691
 National ICT Infrastructure Master Plan	2867
@@ -1122,7 +1122,7 @@ Principal Secretary State Department for ICT	7548
 Principal Secretary for ICT	5108,2877,109,167,2326
 Principal Secretary for ICT John Tanui	6150
 Principal Secretary for ICT and Digital Economy	5964,1213,2032
-Principal Secretary for ICT and Digital Economy John	9849
+Principal Secretary for ICT and Digital Economy John	9849,888
 Procurement of ICT	5549
 Programme of Action’s ICT	5015
 Project for ICT-Based Business Creation and SME Support	505

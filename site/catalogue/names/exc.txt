@@ -431,7 +431,7 @@ Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362
 Internet Exchanges Points Accra-IX	10037
 Ivoire Internet Exchange	6660
 Johannesburg Internet Exchange	578
-Johannesburg Stock Exchange	2936,1960,1787,763,2256,516,404
+Johannesburg Stock Exchange	2936,1960,1787,763,2256,516,404,111
 Johannesburg Stock Exchange. Holders	9101
 Johannesburg Stock Exchange. Standard Bank	9702
 Julius Maada Bio Paediatric Centre of Excellence	7964
@@ -525,7 +525,7 @@ Nigerian Stock Exchange	10
 Nigerian Stock Exchange Review of Rules	10
 Nigeria’s Data Exchange Platform and Finnish	5518
 Nigeria’s Exclusive Economic Zone	9068
-Nigeria’s Securities and Exchange Commission	8265,1690,606
+Nigeria’s Securities and Exchange Commission	8265,1690,606,182
 Old New Excise Excise	6921
 Operational Excellence	3487
 Orientación de Tierras Excelentísimo	1855
@@ -671,6 +671,7 @@ Victoria Falls Stock Exchange-listed Econet InfraCo	6492
 Victoria Falls Stock Exchange-listed InfraCo	7546
 Victoria Falls Stock Exchange. FINANCIAL INFORMATION	4896
 Victoria Falls Stock Exchange. Publication	4896
+Virtual Asset Exchange Virtual Asset Manager	10738
 West Africa Interconnection Exchange	7329
 West Africa Internet Exchange	7329
 West Africa Media Excellence Awards	10560

@@ -480,7 +480,7 @@ Compagnie Minière du Bafing	2342
 Companhia Santomense de Telecomunicações	2315
 Companhia São-tomense de Telecomunicações	5557
 Companhias	6970
-Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45
+Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101
 Companies API Application Programming Interface	4214
 Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77
 Companies Act and AFRINIC	9506
@@ -838,6 +838,7 @@ Complianc	6432
 Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92
 Compliance Agreements	7994
 Compliance Breaches	5939
+Compliance Burn	10738
 Compliance CRF NCS	10721
 Compliance Checklist	2668
 Compliance Checks	7055
@@ -857,6 +858,7 @@ Compliance Management	10721
 Compliance Mechanisms	1777
 Compliance Notice	3714
 Compliance Notices	1925
+Compliance Officer	10738
 Compliance Officers	7123
 Compliance Order	4610
 Compliance Postal Services	396
@@ -1674,6 +1676,7 @@ IRVM. Comparé	2342
 ISP STAFF COMPOSITION	3862
 ITU Component	285
 ITU’s Publication Composition Service	26,1,1
+ITWeb Editorial Policy Privacy Policy Competition	10735
 ITWeb Sectors Companies About Subscribe Banks	7339
 ITWeb Sectors Companies About Subscribe InfoReg	5806
 ITWeb Sectors Companies About Subscribe Malatsi	7051
@@ -1813,6 +1816,7 @@ Libyan Foreign Investment Company. The MSO	10128
 Libyan International Telecommunications Company	9262
 Libyan Telecommunications Holding Company	4746
 Libyan United International Company	2837
+Licence Fee Annual Compliance Burn KES	10738
 Limitation of Company Powers and Objectives	3714
 Limitation of Company Powers and Objectives PART	3714
 Limited Company SEACOM Sea Sub-Marine Communications	6671
@@ -2319,6 +2323,7 @@ Taxpayer COMPLIED	6921
 Teacher ICT Competency17 Competency TSC CEMASTEA	899
 Teachers Kenya Global Partnership for Education Compact	899
 Tech Venture Capital Belgian Investment Company	454
+TechCabal Tool Kenya VASP Compliance	10738
 Technical Compliance Re-Rating	5130
 Technical Training of Computing Science	21
 Technologies Compute	7548

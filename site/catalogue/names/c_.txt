@@ -231,14 +231,16 @@ Can Cell C	4732
 Cat C	5005
 Catalani C	1219
 Category C	5005,2690
-Cell C	78,1,4653,318,2006,2855,626,85,51
+Cell C	78,1,4653,318,2006,2855,626,85,51,60
 Cell C CEO Jorge Mendes	10622
 Cell C CFO El Kope	10622
 Cell C Group	10622
+Cell C Holdings Limited	10733
 Cell C Initial Submission	4732
 Cell C Limited	78,1
 Cell C Limited South Africa	78,1
 Cell C Mendes	10673
+Cell C Reports ZAR	10733
 Cell C Supplementary Submission	4732
 Cell C and Liquid	5050
 Cell C and Liquid Intelligent Technologies. Vodacom	5050

@@ -577,7 +577,7 @@ Applicant Signature Position Held Date Area	736
 Applicant Signature Position Held Date Official	736
 Applicant Tel	22
 Applicant's Best Price Offer	8582
-Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418
+Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418,51
 Applicants. An Applicant	8582
 Applicants. E. Procedures for Evaluation of Applications	1638
 Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3
@@ -589,6 +589,8 @@ Application Data Classification Primary Data Location	6432
 Application Deadline	9198,5,106,800
 Application Deadline Submission Deadline	9309
 Application Developers	4528
+Application Fee	10738
+Application Fee KES	10738
 Application Fixed Wireless Access Maximum	736
 Application Form	1638,4794
 Application Forms	1638
@@ -1411,6 +1413,7 @@ Jun-2026 Yes Apr	6928
 Junho. Apesar	3603
 KOREK Super App	5786
 Kenya APIYO	6613
+Kenya Appoints Martin Koyabe	10737
 Kenya Apr2025.pdf	4583
 Kenya's Cashlet App	8464
 Kenya's NSE App	6938
