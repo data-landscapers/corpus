@@ -160,7 +160,7 @@ PAGE = """<!DOCTYPE html>
   <main id="main">
   <div class="container">
 
-    <div class="crumb"><a href="{base}/#topics">Topics</a> &nbsp;/&nbsp; {crumb}</div>
+    <div class="crumb"><a href="{base}/topics/">Topics</a> &nbsp;/&nbsp; {crumb}</div>
 
     <div class="country-head">
       <h1>{title}</h1>

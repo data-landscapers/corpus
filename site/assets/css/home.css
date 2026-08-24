@@ -59,28 +59,15 @@
 .box__k { font-family: var(--serif); font-size: 0.8rem; font-weight: 600; line-height: 1.2; }
 .box__n { font-size: 0.7rem; color: var(--ink-light); line-height: 1.2; }
 
-.tboxes { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; margin: 1rem 0 0.5rem; }
-/* .tbox is now a <button> that toggles its sub-topic row, so it takes the
- * button reset; the look is otherwise the old anchor tile. */
-.tbox { display: flex; flex-direction: column; width: 100%; padding: 0.7rem 0.75rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); font: inherit; text-align: left; cursor: pointer; position: relative; -webkit-appearance: none; appearance: none; }
-.tbox:hover { border-color: var(--accent); color: var(--ink); }
-.tbox[aria-expanded="true"] { border-color: var(--accent); }
-.tbox__l { font-size: 0.84rem; line-height: 1.3; padding-right: 0.9rem; }
-.tbox__s { font-family: var(--mono); font-size: 0.66rem; color: var(--ink-faint); margin-top: 0.15rem; }
-.tbox__n { font-family: var(--mono); font-size: 0.9rem; margin-top: 0.4rem; }
-.tbox__x { position: absolute; top: 0.85rem; right: 0.7rem; width: 0; height: 0; border-left: 4px solid transparent; border-right: 4px solid transparent; border-top: 5px solid var(--ink-faint); transition: transform 0.15s; }
-.tbox[aria-expanded="true"] .tbox__x { transform: rotate(180deg); border-top-color: var(--accent); }
-
-/* Sub-topic row: a full-width panel that drops in beneath the tile that opened
- * it (Bill, 2026-08-13, item 7). Progressive enhancement — the panel is plain
- * visible markup, so with no JS every sub-topic link is reachable. When JS is
- * present (the `js` class on <html>) the panels collapse and only the tile the
- * reader expands reopens; `grid-column: 1 / -1` spans the row and pushes the
- * rest of the matrix down. The tile and its panel are adjacent siblings, so the
- * open state is pure CSS driven off `aria-expanded`. */
-.tsub { grid-column: 1 / -1; }
-.js .tsub { display: none; }
-.js .tbox[aria-expanded="true"] + .tsub { display: block; }
+/* Topic matrix, `site/topics/` (Bill, 2026-08-24): an h3 per Level-1 category
+ * carrying its slug stem, and one row of boxes beneath it with the category's
+ * own box first. The ten Level-1 tiles and the panel each of them opened went
+ * with the matrix when it came off the home page — a page of its own prints the
+ * whole taxonomy at once, so there is nothing left to expand and no script on
+ * the page at all. `.tsub__inner` and `.sbox` outlive them because the row is
+ * also what the Level-1 category pages `topic-page.py` writes are made of. */
+.topic-group { margin: 1.7rem 0 0.4rem; font-size: 1rem; }
+.topic-group__k { font-family: var(--mono); font-size: 0.7rem; font-weight: 400; color: var(--ink-faint); margin-left: 0.45rem; }
 .tsub__inner { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: 4px; padding: 6px; margin-bottom: 4px; background: color-mix(in srgb, var(--accent) 4%, var(--paper)); border: 1px solid var(--rule); border-radius: 3px; }
 .sbox { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
 .sbox:hover { border-color: var(--accent); color: var(--ink); }
@@ -93,7 +80,3 @@
 .colophon dl { display: grid; grid-template-columns: 9rem 1fr; gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
 .colophon dt { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
 .colophon dd { margin: 0; }
-
-@media (max-width: 900px) {
-  .tboxes { grid-template-columns: repeat(2, 1fr); }
-}

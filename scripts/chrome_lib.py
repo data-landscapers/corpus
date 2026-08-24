@@ -42,7 +42,11 @@ NAV = [
     # dead links this file's own note warned a private copy would accumulate.
     ("Countries", f"{SITE_BASE}/countries/"),
     ("Regions", f"{SITE_BASE}/#regions"),
-    ("Topics", f"{SITE_BASE}/#topics"),
+    # A page of its own since 2026-08-24 (Bill), the same move the countries
+    # matrix made that morning: `/topics/` held the 48 topic and category
+    # folders and no index, so the one URL a reader would guess 404'd while
+    # every page beneath it resolved.
+    ("Topics", f"{SITE_BASE}/topics/"),
     ("Finance", f"{SITE_BASE}/finance/"),
     ("Catalogue", f"{SITE_BASE}/catalogue/"),
     ("Method", f"{SITE_BASE}/method/"),

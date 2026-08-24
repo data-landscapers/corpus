@@ -138,10 +138,12 @@ This replaces an earlier rule that skipped any monthly carrying an unwritten-nar
 ## Step 3 — build the home page
 
 ```bash
-python scripts/home.py            # -> site/index.html
+python scripts/home.py            # -> site/index.html, site/countries/, site/topics/
 ```
 
 It reads catalogue counts from `outputs/catalogue/`. If `outputs/catalogue/stats.json` does not yet exist it falls back to counting `raw-catalogue.csv` — either is fine.
+
+**One command, three pages** *(Bill, 2026-08-24)*. The 54-box country matrix and the taxonomy matrix are pages of their own now — `site/countries/index.html` and `site/topics/index.html` — and the home page keeps each section's heading, its intro paragraph and a link. They stay in `home.py` because all three are the same object built from the same counts, and splitting them would be three scripts reading one `load_stats()`. The topic page prints the whole taxonomy at once, in `lookups/taxonomy.csv`'s own order and wording, so it is the one page that goes out of date when a subject is added to that file and nothing else changes.
 
 ## Step 4 — build the country, region and topic pages
 

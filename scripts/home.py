@@ -2,13 +2,23 @@
 """home.py — the home page (documentation/design.md §3, §6).
 
     python scripts/home.py   ->  site/index.html
+                             ->  site/countries/index.html   (the 54-box matrix)
+                             ->  site/topics/index.html      (the taxonomy matrix)
 
 Promoted from prototypes/build-home-page.py once the wireframe was agreed;
 revised 2026-08-11 to Bill's numbered change list. The shape, in order: the
 header mirrors data-landscapers.io's own nav with Corpus added on the left;
 a second nav bar for the corpus sections; a highlighted total/this-year/
-this-month stat bar; a two-line statement of what the corpus is; Countries,
-Regions and Topics as heading, intro text and a box matrix each.
+this-month stat bar; a two-line statement of what the corpus is; then
+Countries, Regions and Topics.
+
+**Two of those three sections are now a heading, an intro and a link**
+*(Bill, 2026-08-24)*. The country matrix and the topic matrix each moved to a
+page of their own on the same day, for the same reason: between them they were
+most of two viewports of boxes standing between a reader and everything below.
+They are still built here, from the same `load_stats()` counts, because they
+are the same object at a different address — `build_countries()` and
+`build_topics()` beside `build()`.
 
 **Where the numbers come from.** `REPO-STATUS.md` will write nightly counts
 into `outputs/catalogue/stats.json` (osint-corpus-exchange/notes-for-osint.md #8). Until it does,
@@ -38,6 +48,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import taxonomy_lib  # noqa: E402
 from copy_lib import copy_inline  # noqa: E402
 from chrome_lib import chrome, foot, styles  # noqa: E402
 
@@ -96,45 +107,6 @@ REGION_NAMES = {
     "XGL": "Global", "XNA": "North Africa", "XSA": "Southern Africa",
     "XSS": "Sub-Saharan Africa", "XWA": "West Africa",
 }
-
-# Level-2 display names for the sub-topic rows that open under each topic tile
-# (Bill, 2026-08-13, item 7). Same provenance caveat as L1 above: the canonical
-# labels live in `lookups/taxonomy.md` in OSINT, outside `outputs/`, so these
-# are a provisional working copy derived from the slugs — edit here to match
-# the taxonomy, or fold both into the stats file once it publishes (OSINT #9).
-# A slug with no entry falls back to its own Level-2 segment, title-cased.
-SUBTOPIC_NAMES = {
-    "dpi.govtech": "GovTech", "dpi.pay": "Payments", "dpi.id": "Digital ID",
-    "dpi.exchange": "Data exchange", "dpi.registry": "Registries",
-    "dpi.mis": "Management info systems",
-    "gov.policy": "Policy & strategy", "gov.legislate": "Legislation",
-    "gov.protect": "Data protection", "gov.regional": "Regional governance",
-    "gov.standards": "Standards", "gov.discourse": "Public discourse",
-    "infra.connect": "Connectivity", "infra.cybersec": "Cybersecurity",
-    "infra.store": "Data centres & storage", "infra.energy": "Energy",
-    "infra.capacity": "Network capacity",
-    "finance.new": "New investment", "finance.budget": "Public budgets",
-    "finance.mou": "MoUs & commitments",
-    "tech.ai": "Artificial intelligence", "tech.industry": "Industry",
-    "tech.innovate": "Innovation",
-    "include.access": "Access", "include.divides": "Digital divides",
-    "capacity.training": "Training", "capacity.research": "Research",
-    "capacity.literacy": "Digital literacy",
-    "data.statistics": "Statistics", "data.open": "Open data",
-    "data.satellite": "Satellite & geospatial",
-    "geopol.usa": "United States", "geopol.china": "China",
-    "geopol.eu": "European Union", "geopol.india": "India",
-    "geopol.gulf": "Gulf states",
-    "digital.rural": "Rural digitalisation", "digital.localgov": "Local government",
-}
-
-
-def subtopic_label(slug: str) -> str:
-    """Readable name for a Level-2 slug, falling back to its own segment."""
-    if slug in SUBTOPIC_NAMES:
-        return SUBTOPIC_NAMES[slug]
-    tail = slug.split(".", 1)[-1]
-    return tail.replace("-", " ").replace("_", " ").title()
 
 # Intro copy under each heading. Topics still carries the text that used to
 # sit in its card, unchanged. Countries is Bill's rewrite, edited straight in
@@ -247,63 +219,72 @@ def bulletin_section() -> str:
             f'    <p class="section-intro">{copy_inline("home", "bulletin-intro")}</p>\n')
 
 
-def topic_boxes(by_topic: dict[str, int]) -> str:
-    """Each Level-1 tile is a toggle that opens a full-width row of its Level-2
-    sub-topics beneath it (Bill, 2026-08-13, item 7). The sub-topic boxes link
-    to `/topics/{slug}/` pages whether or not those pages are built yet — the
-    same pull-exhaustively/publish-selectively rule as the country boxes. Since
-    2026-08-14 they are built: `scripts/topic-page.py` writes the landing page
-    each box opens, and the *All {category}* box at the end of the row opens the
-    Level-1 index page it also writes.
+def topic_grid(by_topic: dict[str, int]) -> str:
+    """The topic matrix, for `site/topics/`: an h3 per Level-1 category, and a row
+    of boxes beneath it with the category's own box first.
 
-    The panel is a sibling of its tile inside the same `.tboxes` grid. A hidden
-    panel carries the `hidden` attribute and so is `display:none` and takes no
-    grid space; an open panel spans every column (`grid-column: 1 / -1`), so it
-    lands on the row directly under the tile that opened it and pushes the rest
-    of the matrix down. That keeps the tile matrix a plain CSS grid — the only
-    script is the click handler that flips `hidden` and `aria-expanded`."""
-    roll = Counter()
-    children: dict[str, list[tuple[str, int]]] = {}
-    for slug, n in by_topic.items():
+    **Order, grouping and wording all come from `lookups/taxonomy.csv`**, through
+    `taxonomy_lib` *(Bill, 2026-08-24)* — not from the counts, and not from the
+    label dictionaries this file used to carry for want of anywhere better. The
+    home page's tiles sorted by volume, which is the right answer for a matrix a
+    reader scans for size and the wrong one for a page that *is* the taxonomy: a
+    two-tier vocabulary printed out of its own order is not the vocabulary. It
+    also retires `SUBTOPIC_NAMES` and `L1` as authorities here — they were a
+    working copy of labels that live in the taxonomy file now, and a second copy
+    of a vocabulary is the failure design.md refuses everywhere else.
+
+    **Every subject in the file gets a box, whether or not the base holds one for
+    it.** A topic with nothing on record reads as thin coverage, which is what it
+    is; dropping it would make the page a picture of the corpus rather than of
+    the taxonomy, and the two are different objects. A slug the catalogue holds
+    and the taxonomy does not still gets a box too, after its category's own — the
+    count is real, and a page that silently disagrees with the catalogue is worse
+    than one showing a slug for its own label.
+
+    The first box of each row is the category itself: the roll-up count, opening
+    `/topics/{key}/`, which `topic-page.py` writes. The rest are its Level-2
+    subjects, shaded within the row and opening `/topics/{key-subject}/`. The dot
+    survives in the vocabulary, where it means something, and not in the path,
+    where it reads as an extension — so `dpi.pay` links as `dpi-pay`."""
+    order: list[str] = []
+    groups: dict[str, list[str]] = {}
+
+    def place(slug: str) -> None:
         k = slug.split(".")[0]
-        roll[k] += n
-        children.setdefault(k, []).append((slug, n))
+        if k not in groups:
+            order.append(k)
+            groups[k] = []
+        groups[k].append(slug)
 
-    top = max(roll.values()) or 1
+    for slug in taxonomy_lib.keys():
+        place(slug)
+    for slug in taxonomy_lib.unknown(list(by_topic)):
+        place(slug)
+
     out = []
-    for k, _ in roll.most_common():
-        pid = f"topic-{k}"
-        label = e(L1.get(k, k))
-        tile = (
-            f'<button type="button" class="tbox" aria-expanded="false"'
-            f' aria-controls="{pid}" style="--fill:{roll[k] / top:.3f}">'
-            f'<span class="tbox__l">{label}</span>'
-            f'<span class="tbox__s">{k}.*</span>'
-            f'<span class="tbox__n">{roll[k]:,}</span>'
-            f'<span class="tbox__x" aria-hidden="true"></span></button>'
-        )
-        kids = sorted(children.get(k, []), key=lambda x: -x[1])
-        ktop = max((n for _, n in kids), default=1) or 1
-        # The dot survives in the vocabulary, where it means something, and does not go into a
-        # path, where it reads as an extension — so the link says `dpi-pay`, as the built tree
-        # does. Until 2026-08-14 it said `dpi.pay` and every sub-topic box 404'd; nothing caught
-        # it because nothing was published under either name.
-        subboxes = "\n".join(
-            f'<a class="sbox" href="{SITE_BASE}/topics/{slug.replace(".", "-")}/" title="{slug}"'
-            f' style="--fill:{n / ktop:.3f}">'
-            f'<span class="sbox__l">{e(subtopic_label(slug))}</span>'
-            f'<span class="sbox__n">{n:,}</span></a>'
-            for slug, n in kids)
-        panel = (
-            f'<div class="tsub" id="{pid}" role="region"'
-            f' aria-label="{label} sub-topics">\n'
-            f'<div class="tsub__inner">\n{subboxes}\n'
-            f'<a class="sbox sbox--all" href="{SITE_BASE}/topics/{k}/">'
-            f'<span class="sbox__l">All {label}</span>'
-            f'<span class="sbox__n" aria-hidden="true">&rarr;</span></a>\n'
-            f'</div>\n</div>'
-        )
-        out.append(tile + "\n" + panel)
+    for k in order:
+        slugs = groups[k]
+        name = next((taxonomy_lib.level1(s) for s in slugs if taxonomy_lib.level1(s)),
+                    L1.get(k, k))
+        roll = sum(by_topic.get(s, 0) for s in slugs)
+        top = max((by_topic.get(s, 0) for s in slugs), default=1) or 1
+        boxes = [
+            f'      <a class="sbox sbox--all" href="{SITE_BASE}/topics/{k}/"'
+            f' title="{k}.*">'
+            f'<span class="sbox__l">All {e(name)}</span>'
+            f'<span class="sbox__n">{roll:,}</span></a>'
+        ]
+        boxes += [
+            f'      <a class="sbox" href="{SITE_BASE}/topics/{s.replace(".", "-")}/"'
+            f' title="{s}" style="--fill:{by_topic.get(s, 0) / top:.3f}">'
+            f'<span class="sbox__l">{e(taxonomy_lib.label(s))}</span>'
+            f'<span class="sbox__n">{by_topic.get(s, 0):,}</span></a>'
+            for s in slugs]
+        out.append(f'    <h3 class="topic-group" id="{k}">{e(name)}'
+                   f' <span class="topic-group__k">{k}.*</span></h3>\n'
+                   f'    <div class="tsub__inner">\n'
+                   + "\n".join(boxes)
+                   + '\n    </div>')
     return "\n".join(out)
 
 
@@ -311,7 +292,6 @@ TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script>document.documentElement.classList.add('js');</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Corpus — Data Landscapers</title>
 <meta name="description" content="A living record of digital transformation and data governance across Africa: {docs} sources, country and topic reports, and the finance behind them.">
@@ -357,12 +337,9 @@ TEMPLATE = """<!DOCTYPE html>
     </div>
     <p class="caveat">{regional} sources are tagged to a region or bloc rather than to a country, and are not counted in the Countries figures above.</p>
 
-    <h2 class="section-heading" id="topics">Topics</h2>
+    <h2 class="section-heading" id="topics"><a href="{base}/topics/">Topics</a></h2>
     <p class="section-intro">{topics_intro}</p>
-    <div class="tboxes">
-{topics}
-    </div>
-    <p class="caveat">Level-1 categories, rolled up from the {ntopics} topics beneath them. A source carries as many topics as it evidences, so these also sum to more than the total. Click a topic to open its sub-topics.</p>
+    <p class="section-intro"><a href="{base}/topics/">Browse all {ntopics} topics &rarr;</a></p>
 
     <div class="colophon">
       <strong>About this page</strong>
@@ -387,35 +364,11 @@ TEMPLATE = """<!DOCTYPE html>
   </footer>
 
 </div>
-
-{script}
 </body>
 </html>
 """
 
 
-# Topic tiles: click a Level-1 tile to open a row of its sub-topics beneath it.
-# Progressive enhancement — the panels are plain visible markup, so with no JS
-# every sub-topic link is reachable. The `js` class on <html> (set in <head>
-# before first paint) hands the CSS the collapsed default; from there the only
-# job of this script is to flip `aria-expanded`, which the CSS turns into the
-# open/closed state. One tile open at a time. Kept out of TEMPLATE.format so
-# its braces are not read as format fields.
-SCRIPT = """<script>
-(function () {
-  var tiles = Array.prototype.slice.call(
-    document.querySelectorAll('.tbox[aria-controls]'));
-  tiles.forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      var isOpen = btn.getAttribute('aria-expanded') === 'true';
-      tiles.forEach(function (other) {
-        other.setAttribute('aria-expanded',
-          (other === btn && !isOpen) ? 'true' : 'false');
-      });
-    });
-  });
-})();
-</script>"""
 
 
 # The countries page — the 54-box matrix, moved off the home page on 2026-08-24
@@ -508,9 +461,108 @@ def build_countries() -> Path:
         ncountries=sum(1 for k, v in by_place.items() if not k.startswith("X") and v),
         countries=country_boxes(by_place),
         countries_intro=copy_inline("home", "countries-intro"),
-        countries_caveat=copy_inline("home", "countries-caveat"),
+        countries_caveat=copy_inline("countries", "caveat"),
     )
     out = SITE / "countries"
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "index.html").write_text(doc, encoding="utf-8")
+    return out / "index.html"
+
+
+# The topics page — the taxonomy matrix, moved off the home page on 2026-08-24
+# (Bill), a few hours after the countries matrix and for the same reasons. The
+# home page keeps the heading, `topics-intro` and a link here.
+#
+# **What changed besides its address.** The home page showed ten Level-1 tiles
+# and opened one row of sub-topics at a time, sorted by volume, behind a click.
+# A page of its own has room to print the whole taxonomy at once, so it does:
+# every category, every subject beneath it, in the file's own order, with no
+# JavaScript and nothing hidden. That is also why the tile toggle and its script
+# have gone from this file — there is no longer a matrix on the home page for
+# them to open.
+TOPICS_TEMPLATE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Topics — Data Landscapers</title>
+<meta name="description" content="The Data Landscapers taxonomy: {ntopics} subjects in ten categories, each with the number of primary sources held for it.">
+<link rel="canonical" href="{base}/topics/">
+{styles}
+<link rel="icon" href="{favicon}" type="image/svg+xml">
+<meta property="og:title" content="Topics — Data Landscapers">
+<meta property="og:description" content="The Data Landscapers taxonomy: {ntopics} subjects in ten categories, each with the number of primary sources held for it.">
+<meta property="og:url" content="{base}/topics/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Data Landscapers">
+</head>
+<body>
+<div class="site-wrap">
+
+{chrome}
+
+  <div class="stat-bar">
+    <div class="stat-bar__inner">
+      <span class="stat-bar__label">Primary sources in corpus</span>
+      <span class="stat-bar__item">Total <strong>{docs}</strong></span>
+      <span class="stat-bar__item">Subjects tracked <strong>{ntopics}</strong></span>
+    </div>
+  </div>
+
+  <main id="main">
+  <div class="container">
+
+    <h1>Topics</h1>
+    <p class="section-intro">{topics_intro}</p>
+
+{topics}
+
+    <p class="caveat">{topics_caveat}</p>
+
+    <div class="colophon">
+      <strong>About this page</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">{built}</dd>
+        <dt>Vocabulary</dt><dd class="mono">lookups/taxonomy.csv</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+{foot}
+
+</div>
+</body>
+</html>
+"""
+
+
+def build_topics() -> Path:
+    """`site/topics/index.html` — the taxonomy, with counts, on a page of its own.
+
+    Written into the directory that already holds the 48 topic and category
+    folders `topic-page.py` builds, so `/topics/` resolves and every
+    `/topics/{slug}/` goes on resolving beneath it. `ntopics` counts the
+    taxonomy rather than the catalogue's distinct topics: the page prints a box
+    per subject in the file, so the number in the stat bar and the number of
+    boxes are the same number, which they were not while one counted what had
+    been tagged."""
+    s = load_stats()
+    built = date.today().isoformat()
+    ntopics = len(taxonomy_lib.keys())
+    doc = TOPICS_TEMPLATE.format(
+        base=SITE_BASE, built=built,
+        favicon=f"{MAIN_SITE}/assets/favicon.svg",
+        chrome=chrome("topics", depth=1), foot=foot(depth=1),
+        styles=styles(1, "home.css"),
+        docs=f"{s['documents']:,}", ntopics=ntopics,
+        topics=topic_grid(s["by_topic"]),
+        topics_intro=copy_inline("home", "topics-intro"),
+        topics_caveat=copy_inline("topics", "caveat", n=f"{ntopics}"),
+    )
+    out = SITE / "topics"
     out.mkdir(parents=True, exist_ok=True)
     (out / "index.html").write_text(doc, encoding="utf-8")
     return out / "index.html"
@@ -535,8 +587,8 @@ def build() -> Path:
         hero=copy_inline("home", "hero"),
         countries_intro=copy_inline("home", "countries-intro"),
         regions=region_boxes(by_place), regions_intro=copy_inline("home", "regions-intro"),
-        topics=topic_boxes(s["by_topic"]), topics_intro=copy_inline("home", "topics-intro"),
-        regional=f"{regional:,}", ntopics=len(s["by_topic"]), script=SCRIPT,
+        topics_intro=copy_inline("home", "topics-intro"),
+        regional=f"{regional:,}", ntopics=len(taxonomy_lib.keys()),
         counts_from=("<code>outputs/catalogue/stats.json</code>, generated "
                      + s.get("generated", "")
                      if "source" not in s else
@@ -552,6 +604,7 @@ def build() -> Path:
 if __name__ == "__main__":
     print(build())
     print(build_countries())
+    print(build_topics())
     print("stats file the page will prefer, once REPO-STATUS writes it:")
     print("  outputs/catalogue/stats.json")
     print(STATS_SHAPE)
