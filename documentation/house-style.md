@@ -2,7 +2,9 @@
 
 One style, two sites. data-landscapers.io is the origin; every Corpus page is an application of it, never a variation on it. These rules govern any new page or page type in either repo. The one-time analysis behind them is `house-style-review-2026-08-24.md`.
 
-**Status, 2026-08-24: this describes the target, not the tree.** None of the review's §4 changes has been made. `corpus.css` does not exist yet, `main.css` still carries the Corpus block inline, the lint still checks only the datatable, the type and rhythm values below are the proposed ones rather than the shipped ones, and the main-site nav does not yet link to Corpus. Build a new page to these rules; do not read them as a description of what a page currently does. This paragraph comes out when §4 lands.
+**Status, 2026-08-24: this is the tree, with one exception.** The review's §4 landed the same day — `corpus.css` exists, `main.css` is vendored byte-identical and the lint covers it, every builder takes its chrome and its stylesheet set from `chrome_lib`, the catalogue is on house tokens, and the main-site nav links to Corpus. The figures under *Whitespace* are measured, not proposed.
+
+The exception: **the 165 report pages already published still carry the old chrome**, including a nav with three dead links. `RENDER.md` holds a document whose content has not moved, and `--force` would cut 241 new editions to push a stylesheet through — a decision, not a habit. Each report takes the new chrome at its next natural edition. Nothing else on the site is waiting.
 
 ## Where style lives
 
@@ -37,9 +39,11 @@ Three devices, and no others. A 1px `--rule` separates items and closes headers.
 
 ## Whitespace
 
-Dense but not cramped. Two hard rules and no enumerated scale: **no vertical margin or padding inside a page exceeds 1.75rem**, and adjacent blocks get one gap, not two stacked margins. Prefer 0.25rem steps where a component allows it; the coordinated values are not all on that grid (paragraph margin 0.9rem, `.stat-bar` and `.report-key` 1.5rem, `.report-row` 0.8rem, `corpus-nav` padding 0.45rem) and a false scale that the site's own targets break is worse than none. Floors that keep it readable: prose line-height ≥ 1.45, list-item padding ≥ 0.75rem, table cell padding ≥ 0.28rem 0.45rem.
+Dense but not cramped. Two hard rules and no enumerated scale: **no vertical margin or padding inside a page exceeds 1.75rem**, and adjacent blocks get one gap, not two stacked margins. Prefer 0.25rem steps where a component allows it; the coordinated values are not all on that grid (paragraph margin 0.9rem, `.stat-bar` and `.report-key` 1.5rem, `.report-row` 0.8rem, `corpus-nav` padding 0.45rem) and a false scale that the site's own targets break is worse than none. Floors that keep it readable: prose line-height ≥ 1.45, ruled-list item padding ≥ 0.6rem, table cell padding ≥ 0.28rem 0.45rem.
 
-**The fold budget, checked before a new page type ships:** at 1366×768, the first line of body content sits within 260px of the viewport top; a landing reader sees at least five entries of an index or five paragraphs of an article. If a header block breaks the budget, the header block shrinks — the budget doesn't.
+**The fold budget, checked before a new page type ships:** at 1366×768, **the first line of body content sits within 260px of the viewport top**. That is the rule; it is arithmetic, not judgement, and it is what a header block has to give way to rather than the other way round.
+
+Measured on 2026-08-24, at the values now in `main.css`: an article's first line lands at **258px** (was ~430px), leaving 510px — about 17 lines of prose. The Corpus sticky nav is **37px**. A `/writing/` index entry is ~162px, so **four entries** land above the fold where three did; five is not reachable without cutting the summary line, and the summary is the reason the index is worth reading. Re-run the sum when any of `.site-header__inner` height, `.article-header`'s three values, or the h1 clamp changes — those are the terms.
 
 ## Print
 

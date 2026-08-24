@@ -226,9 +226,13 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 
 /* ── ARTICLE LIST — no tag box on summary ── */
 .article-list { list-style: none; padding: 0; }
-/* 1rem, against a 0.75rem floor: five to six entries land above the fold
-   instead of three (documentation/house-style.md → Whitespace). */
-.article-list__item { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
+/* 0.6rem, which is what `/writing/` and the homepage were already doing with an
+   inline `style` on every item — the overrides are gone and the value lives here,
+   once. It is the house floor for a ruled list: entries are separated by a rule,
+   so they need less air between them than cards would, and this is measured at
+   four entries above the fold on a 1366x768 laptop against three before. Below
+   0.6rem the rule and the text start to touch. */
+.article-list__item { padding: 0.6rem 0; border-bottom: 1px solid var(--rule); }
 .article-list__item:last-child { border-bottom: none; }
 .article-list__meta { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 0.4rem; }
 .article-list__title { font-family: var(--display); font-size: 1.2rem; font-weight: 700; line-height: 1.3; margin-bottom: 0.4rem; }
@@ -240,8 +244,11 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 /* ── ARTICLE PAGE ──
    The title block was 3rem of padding above, 2rem below and a 2.5rem margin
    after that — some 200px before a word of the article, on top of the header.
-   Trimmed to 1.25/1/1.25, which is where the fold budget is won. */
-.article-header { padding: 1.25rem 0 1rem; border-bottom: 1px solid var(--rule); margin-bottom: 1.25rem; }
+   Trimmed to 1.25/0.75/1, which is where the fold budget is won: it puts the
+   first line of an article at ~258px on a 1366x768 laptop, inside the 260px the
+   budget allows (documentation/house-style.md → Whitespace). Raising any of the
+   three breaks that arithmetic, so change them together and re-check. */
+.article-header { padding: 1.25rem 0 0.75rem; border-bottom: 1px solid var(--rule); margin-bottom: 1rem; }
 .article-header__kicker { font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin-bottom: 0.5rem; }
 .article-header__title { font-size: clamp(1.6rem, 3vw, 2rem); line-height: 1.15; margin-bottom: 0.5rem; }
 /* Pinned, every property stated. Never weight 300: the Lato 300-italic web font
@@ -304,7 +311,10 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
 .about-intro { display: grid; grid-template-columns: 1fr 200px; gap: 3rem; padding: 1.75rem 0; border-bottom: 1px solid var(--rule); }
 
 /* ── WIP PAGE ── */
-.wip-item-card { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
+/* Same value as .article-list__item: the Lab list and the writing list are the
+   same device and sat at different paddings only because each page set its own
+   inline. */
+.wip-item-card { padding: 0.6rem 0; border-bottom: 1px solid var(--rule); }
 .wip-item-card__status { display: inline-block; font-family: var(--mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.08em; padding: 0.2rem 0.6rem; border-radius: 2px; margin-bottom: 0.6rem; }
 .wip-item-card__status--active { background: #edf7ef; color: #2a6b3a; border: 1px solid #a8d5b0; }
 .wip-item-card__status--planned { background: var(--paper-warm); color: var(--ink-faint); border: 1px solid var(--rule); }

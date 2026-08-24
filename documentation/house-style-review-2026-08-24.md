@@ -58,7 +58,7 @@ Shared assets change upstream first (global rule): edit in `data-landscapers`, c
 **Corpus:**
 
 5. Copy `main.css` down; update `MAIN-CSS-FROM`. Move the appended Corpus-only block into a new `site/assets/css/corpus.css` loaded after main.css on every corpus page, so the vendored file is byte-identical again — then extend `lint-shared-assets.py` with a `("site/assets/css/MAIN-CSS-FROM", "site/assets/css/main.css", "assets/css/main.css")` row, which the appended block currently makes impossible.
-6. `scripts/render.py` (bulletin + status/monthly/progress reports) and `scripts/topic-page.py` — drop their private chromes and take `chrome_lib.chrome()/foot()`. This alone removes two of the four nav variants, restores the main-site row to the bulletin, reports and topic pages, repoints the logo, and kills the `/data/` and `/regions/` 404s.
+6. `scripts/render.py` (bulletin + status/monthly/progress reports) and `scripts/topic-page.py` — drop their private chromes and take `chrome_lib.chrome()/foot()`. This alone removes two of the four nav variants, restores the main-site row to the bulletin, reports and topic pages, repoints the logo, and kills all three 404s (`/data/`, `/regions/`, `/countries/` — chrome_lib points Countries at `/#countries`).
 7. `scripts/chrome_lib.py` — corpus-nav becomes the sticky row at `top:0` (header un-sticks on corpus pages); item set audited against pages that exist.
 8. `scripts/catalogue.py` — rebuild the page on main.css: delete the `.cat` palette and inline `<style>` block's identity rules, keep only genuine layout (the cathead grid, the downloads box) restated in house tokens; column 980px; radius 3px; h1 on the house scale. The biggest single job in the list.
 9. `scripts/country.py` / `country.css` — h1 3rem → house h1; `.stat-bar` margin 2.5rem → 1.5rem; `.report-row` padding 1.1rem → 0.8rem; `.section-heading` margin 3rem → 1.75rem (in the shared rule).
@@ -66,3 +66,17 @@ Shared assets change upstream first (global rule): edit in `data-landscapers`, c
 11. Editions rule respected: nothing already published under a dated URL is rebuilt; the style arrives with each page's next build, and old PDFs stay as they were (RENDER.md §9).
 
 Nothing here changes content, URLs (beyond removing dead links), or the PDF pipeline's geometry.
+
+## 5 · Implementation record (2026-08-24)
+
+§4 was implemented the same day, in five commits — `6d2e13f`, `bee5606`, `025ba80` in data-landscapers; `c88ca60`, `f8daf63`, `569d1a9` in Corpus. What differs from the plan above, and why:
+
+**Two things the plan did not anticipate.** `topic-page.py` turned out to carry a *fourth* chrome (§2 was corrected for this), and it went onto `chrome_lib` alongside `render.py`. And the stylesheet set was written out in seven page templates, so splitting `corpus.css` out of `main.css` would have been a seven-file edit made in six places and missed in the seventh — `chrome_lib.styles()` now writes it once, with `base=` and `version=` hooks for `render.py`, which is the one builder emitting each document twice (served, and `file://` for WeasyPrint).
+
+**One bug found by doing it.** The item-11 rebuild published 53 new dated non-state CSVs whose content was identical to their predecessors: `editions.publish` mints when the bytes move, and CRLF-vs-LF moves the bytes without moving a value — the Cowork line-ending trap in the global `CLAUDE.md`, reaching an artefact nobody had thought to check. The files were deleted before they were committed, and `country.py` and `finance.py` now normalise to LF at the publish call, so an edition means new content whatever machine builds it. `finance_lib.write_csv`'s docstring has claimed LF endings since it was written and its code never did it; that is the same fault one layer down and is left for a session that can renormalise the 186 tracked files holding CRLF.
+
+**One regression, caught and contained.** Deleting `.bulletin-nav` from `report.css` would have stripped the live bulletin's category bar, because the bulletin markdown on disk turns over on the next sweep rather than on deploy. `report.css` and `bulletin-filter.js` carry both class names for now, each with a dated note saying when to delete the older one.
+
+**The fold budget was 7px out and is now met.** Measured rather than asserted: an article's first line lands at 258px against the 260px rule (~430px before). The index half of the budget was wrong — four entries fit, not five, and five is unreachable without cutting the summary line — so `house-style.md` states four. Finding this also turned up `/writing/` and the homepage setting `padding: 0.6rem` inline on every list item while the class said 1rem; the value moved into the class.
+
+**What is deliberately not done.** The 165 published report pages keep the old chrome and its three dead links until each is re-cut, per `RENDER.md` (`--force` = 241 editions). `content/method.md` was deleted and `content/methodology.md` added by an earlier session, so `method.py` cannot build; that rename is not this work's to finish.
