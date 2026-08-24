@@ -3,18 +3,18 @@ title: South Africa — progress report, 2025-08-01 to 2026-08-24
 compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 place: ZAF
-ledger_rows: 146
+ledger_rows: 148
 not_held: 23
-record: 95d0f6e1f8a3
+record: 90ce069bd25d
 ---
 
 # South Africa: progress report, 2025-08-01 to 2026-08-24
 
 *Compiled 2026-08-24 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 146 systems and instruments on this place's ledger, 71 changed position between 2025-08-01 and 2026-08-24, 8 did not, 43 carry no stated baseline, and 23 are ***Not held*** at both ends.*
+*Of 148 systems and instruments on this place's ledger, 72 changed position between 2025-08-01 and 2026-08-24, 8 did not, 44 carry no stated baseline, and 23 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 594 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 534 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 602 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 542 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -41,7 +41,7 @@ Most stated delivery dates in the period moved.
 | Equinix Cape Town land use | ***Baseline not held*** | [Tribunal approval 2026-07-14](https://www.moneyweb.co.za/news/ai/giant-data-centres-get-the-first-green-light-from-cape-town-tribunal/) | Advanced |
 | High-demand spectrum auction | No date | [The 2026 National Radio Frequency Plan targets 1,145 MHz more mid-band spectrum and over 17,250 MHz of mmWave against 794 MHz currently available - roughly 215% more high-demand spectrum cleared for release - but no auction has been scheduled, priced or gazetted](https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/) | Stalled |
 | IMT Roadmap 2026 and draft assignment plans | ***Baseline not held*** | [Out for consultation](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2) | Advanced |
-| LEO satellite licensing framework | Policy direction gazetted 2025-12-12 | [Direction rejected 2026-05; the minister publicly backs LEO entry while conceding licensing is the regulator's alone, and the 30% equity requirement stands](https://www.itweb.co.za/article/malatsi-backs-leo-operators-as-icasa-calls-the-shots/Gb3BwMWaPAEv2k6V) | Regressed |
+| LEO satellite licensing framework | Policy direction gazetted 2025-12-12 | [Direction rejected 2026-05; the minister publicly backs LEO entry while conceding licensing is the regulator's alone, and the 30% equity requirement stands](https://www.advanced-television.com/2026/08/24/spacex-appeals-to-south-africas-regulator/) | Regressed |
 | National broadband map (DBSA) | None published | [Launched 2026-03-31](https://techcentral.co.za/sa-finally-has-a-broadband-map-and-it-reveals-where-the-gaps-are/279660/) | Advanced |
 | National Radio Frequency Plan 2026 | ***Baseline not held*** | [Gazetted 2026-07-24](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026) | Advanced |
 | National wholesale 5G home-broadband network | Did not exist | [Selling wholesale, 5G-core only, with the first retail ISP due live in September 2026](https://www.techcentral.co.za/south-africa-to-get-a-new-national-5g-broadband-network/285080/) | Advanced |
@@ -58,7 +58,7 @@ Most stated delivery dates in the period moved.
 
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
-| Human rights commission inquiry into data centres | Did not exist | [A stakeholder engagement process opened by the national human rights commission under section 184 of the Constitution and sections 13 and 18 of its own Act, to assess whether the legal, regulatory, environmental, governance and industry frameworks around data centre development meet constitutional obligations and international human rights standards. Written submissions were invited on eleven themes including electricity demand and tariffs, water use and cooling, environmental and climate impact, electronic waste, land use and community participation, data protection and privacy, transparency and accountability, business and human rights due diligence, and equitable access to digital infrastructure, closing 30 July 2026](https://www.sahrc.org.za/index.php/sahrc-media/news-2/item/4479-media-advisory-south-african-human-rights-commission-calls-for-public-submissions-on-data-centres-and-human-rights-in-south-africa) | Advanced |
+| Human rights commission inquiry into data centres | Did not exist | [A stakeholder engagement process opened by the national human rights commission under section 184 of the Constitution and sections 13 and 18 of its own Act, to assess whether the legal, regulatory, environmental, governance and industry frameworks around data centre development meet constitutional obligations and international human rights standards. Written submissions were invited on eleven themes including electricity demand and tariffs, water use and cooling, environmental and climate impact, electronic waste, land use and community participation, data protection and privacy, transparency and accountability, business and human rights due diligence, and equitable access to digital infrastructure, closing 30 July 2026](https://acbio.org.za/corporate-expansion/data-centres-digital-infrastructure-and-human-rights-in-south-africa/) | Advanced |
 | Rights commission inquiry into data-centre expansion | Did not exist | [The national human rights commission is scrutinising the country's data-centre expansion, with environmental groups warning that the infrastructure required to power the state's artificial-intelligence ambitions carries costs that have not been accounted for](https://www.businessday.co.za/business-times/2026-08-22-the-hidden-cost-of-sas-ai-boom/) | Advanced |
 | Teraco CT2, Cape Town | ***Baseline not held*** | [+32MW to 50MW, 2025-11](https://techafricanews.com/2025/11/10/teraco-expands-cape-town-ct2-data-centre-to-50mw-boosting-africas-hyperscale-capacity/) | Advanced |
 | Johannesburg data-centre expansion | Not held | [An international operator is scaling its Johannesburg facility to 24MW and holds a ZAR7.5bn South African expansion budget covering that site plus banked land in Johannesburg and Cape Town, with further build-out held pending demand](https://www.itweb.co.za/article/equinix-doubles-down-on-joburg-data-centre-expansion/PmxVE7KEObLqQY85) | ***Baseline not held*** |
@@ -279,6 +279,7 @@ Operation Vulindlela's own reporting changed within the period: a briefing in Ap
 
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
+| Cell C financial turnaround | Listed on the exchange November 2025 | [ZAR 12.64bn revenue and ZAR 4.16bn profit after tax; prepaid base past 8 million and the wholesale MVNO base at 5.71 million](https://techafricanews.com/2026/08/24/cell-c-reports-zar-4-16-billion-profit-turnaround-fy26/) | Advanced |
 | Mobile virtual network operator subscriptions | Baseline not held | [About 4.4 million active MVNO SIMs at end-2025 on an analyst count, up about 43% year on year and forecast to reach 14.4 million by 2030; the fourth-largest of the five mobile operators reported 5.7 million MVNO subscribers carried on its own wholesale platform for the 12 months to 2026-05-31, which it put at an estimated 80-85% share of the market](https://www.connectingafrica.com/investment/cell-c-gains-1-3m-subscribers-reduces-debt) | Advanced |
 | B-BBEE ICT Sector Council | Baseline not held | [The communications minister replaced the council’s chairperson and appointed an interim chair for six months after a departmental investigation found the council dysfunctional; the investigation report is not published, and no remedial plan, terms of reference for the interim period or date for a permanent appointment is stated](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL) | ***Baseline not held*** |
 | Informal-retail transaction data product | ***Baseline not held*** | [A listed payments company sells near-real-time item-level intelligence on the informal retail economy, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am) | ***Baseline not held*** |
@@ -333,6 +334,7 @@ At the State Information Technology Agency, a Public Service Commission investig
 
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
+| Recapitalisation of the Vivica fibre and telecoms group | None published | [New shares subscribed across Frogfoot, Vox and Hypa at a combined after-debt equity value of R8.4bn, with the rollout to reach 360,000 connected homes a year within 12 months](https://www.itweb.co.za/article/new-capital-quadruples-frogfoots-fibre-rollout/mYZRXv9gVp5MOgA8) | ***Baseline not held*** |
 | Science and Technology Accelerator-Systems, Southern Africa | Baseline not held | [Up to GBP2.5m over three years to March 2030, of which up to GBP400,000 for 2026/27, covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space; South Africa the primary focus, Zimbabwe and Zambia the first year's](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
 
 <!-- narrative: finance -->

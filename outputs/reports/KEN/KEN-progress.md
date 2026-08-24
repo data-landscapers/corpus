@@ -3,18 +3,18 @@ title: Kenya — progress report, 2025-08-01 to 2026-08-24
 compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 place: KEN
-ledger_rows: 214
+ledger_rows: 215
 not_held: 7
-record: 8a358352d584
+record: 87c0c77d6932
 ---
 
 # Kenya: progress report, 2025-08-01 to 2026-08-24
 
 *Compiled 2026-08-24 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 214 systems and instruments on this place's ledger, 108 changed position between 2025-08-01 and 2026-08-24, 24 did not, 75 carry no stated baseline, and 7 are ***Not held*** at both ends.*
+*Of 215 systems and instruments on this place's ledger, 108 changed position between 2025-08-01 and 2026-08-24, 24 did not, 76 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 549 sources for this place in the window — 71 in the earlier half (2025-08 to 2026-01), 478 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 554 sources for this place in the window — 71 in the earlier half (2025-08 to 2026-01), 483 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -77,7 +77,7 @@ Over the twelve months, Kenya's regulatory layer went from empty to fully drafte
 |---|---|---|---|
 | Cyber Space Management appropriation, Vote 1122 | No separately visible cyber appropriation | [KSh 457.2m for Cyber Space Management appropriated in the original FY2026/27 estimates, plus KSh 382m for digital superhighway cybersecurity](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf) | Advanced |
 | Kenya Cyber Resilience Project | Did not exist | [EUR 3m over 36 months, EU-funded, implemented by Expertise France with ESTDEV, hardening critical information infrastructure](https://itweb.africa/article/kenya-launches-project-to-boost-cyber-security/LPp6VMrBjoPMDKQz) | Advanced |
-| National Cyber Security Agency | Did not exist; cyber duties split across KE-CIRT/CC, NC4, law enforcement and sector regulators | [Autonomous state corporation under the Interior Cabinet Secretary; mandate covers critical-infrastructure audit and certification, a National Cyber Security Operations Centre and incident coordination, at about KSh 4bn establishment cost](https://itweb.africa/article/kenya-approves-national-cyber-security-agency/wbrpO7g2QdevDLZn) | Advanced |
+| National Cyber Security Agency | Did not exist; cyber duties split across KE-CIRT/CC, NC4, law enforcement and sector regulators | [Autonomous state corporation under the Interior Cabinet Secretary; mandate covers critical-infrastructure audit and certification, a National Cyber Security Operations Centre and incident coordination, at about KSh 4bn establishment cost; a board is being constituted, the inaugural non-executive chair announced 2026-08-24](https://techafricanews.com/2026/08/24/kenya-appoints-martin-koyabe-inaugural-chair-national-cybersecurity-agency/) | Advanced |
 | president.go.ke | No compromise on record | [Second defacement inside twelve months, with a 5 BTC ransom demand; State House says no evidence of data access, and cause, access vector and attribution are undisclosed](https://itweb.africa/article/kenya-restores-presidential-website-after-cyber-attack/Gb3Bw7WadxLq2k6V) | Regressed |
 | Cyber threat events recorded by the communications regulator | ***Baseline not held*** | [2.35 billion in the quarter to June 2026, chiefly web-application attacks; INTERPOL separately puts Kenya second on the continent for exploitable digital vulnerabilities detected in 2025 at 11.9%, behind South Africa at 43.6% and ahead of Nigeria at 9.1%](https://nation.africa/kenya/business/interpol-ranks-kenya-second-in-africa-for-cyberattacks-5546968) | ***Baseline not held*** |
 | UK-Kenya cyber partnership | Baseline not held | [Running, with a dedicated national cybersecurity agency and counter-disinformation AI tools named as the workstreams; no funding, deliverable or date is stated](https://itweb.africa/article/kenya-uk-strengthen-cybersecurity-ties/VgZeyvJlBxKMdjX9) | ***Baseline not held*** |
@@ -217,7 +217,7 @@ Two systems stalled against their own stated dates: an education management info
 | Technopolis Act | Did not exist | [In force, giving innovation cities including Konza a standalone legal framework with a development authority and a disputes tribunal](https://itweb.africa/article/kenya-enacts-new-law-to-formalise-tech-zones/8OKdWqDXlp6qbznQ) | Advanced |
 | Technopolis Regulations | Did not exist | [Not finalised, with no draft on file](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | Advanced |
 | Virtual Asset Service Providers Act 2025 | Did not exist | [In force, with pre-existing operators given until 2026-11-04 to comply](https://new.kenyalaw.org/akn/ke/act/2025/20) | Advanced |
-| Virtual Asset Service Providers Regulations 2026 | Did not exist | [Gazetted as Legal Notice 134, with joint central bank and capital markets licensing across ten categories, capital by licence class from KES 300m for stablecoin issuance to nil for advisers, and a seizure and freezing framework; Binance, Luno, VALR, Yellow Card, Kotani Pay and Roqqu have said they intend to apply, and the regulators had not announced the application process as at 2026-08-07](https://techcabal.com/2026/08/07/firms-lining-up-for-crypto-licences-in-kenya/) | Advanced |
+| Virtual Asset Service Providers Regulations 2026 | Did not exist | [Gazetted as Legal Notice 134, with joint central bank and capital markets licensing across ten categories, capital by licence class from KES 300m for stablecoin issuance to nil for advisers, and a seizure and freezing framework; Binance, Luno, VALR, Yellow Card, Kotani Pay and Roqqu have said they intend to apply, and the regulators had not announced the application process as at 2026-08-07](https://techcabal.com/2026/08/24/kenya-virtual-asset-marke/) | Advanced |
 | Cyber cafe customer registration and session logging rules | ***Baseline not held*** | [Operators must capture each customer’s name and identity number, the terminal used and session times, and retain the records at least three years, on pain of fines of up to 0.2% of annual turnover with a minimum of about US$3,860. The regulator clarified on 2026-08-13 that the conditions do not require operators to track customers’ browsing history. The licence conditions were published by gazette notice on 2026-08-07 and take effect on 2026-09-07](https://itweb.africa/article/kenya-tightens-cyber-cafe-rules-to-close-identity-gap/6GxRKqYQ1aAqb3Wj) | ***Baseline not held*** |
 | ICT Authority Bill | ***Baseline not held*** | [On the forward legislative list with no text, sponsor or stage on file](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | ***Baseline not held*** |
 | Kenya Intellectual Property Bill | ***Baseline not held*** | [Would merge three agencies into a new authority with an intellectual-property tribunal; the draft would merge the industrial property institute, the copyright board and the anti-counterfeit authority into one regulator, replace the 2001 and 2008 statutes, and set rules distinguishing AI-assisted from AI-generated inventions, with Parliament inviting public submissions](https://www.pulse.co.ke/story/the-intellectual-property-bill-2026-what-kenyan-bloggers-and-tiktokers-need-to-know-2026081618295613444) | ***Baseline not held*** |
@@ -336,6 +336,7 @@ The Data Protection Act itself was not amended. What accumulated on top of it is
 
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
+| FiberHome network partnership | None published | [Student training under way and an East Africa research and development centre planned, framed by the ministry around all-optical networks and 6G readiness](https://www.itweb.africa/article/fiberhome-tour-targets-kenyan-6g/GxwQD71DP96vlPVo) | ***Baseline not held*** |
 | Kenya-China e-commerce cooperation memorandum | ***Baseline not held*** | [Cited as the basis for a delegation to the Silk Road e-commerce matching activity, framed inside the Digital Master Plan](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/) | ***Baseline not held*** |
 | Talks with a Chinese network group on broadband and smart cities | Baseline not held | [Two delegations received in eight days to explore broadband, smart cities and ICT investment; no memorandum, commitment, value or project is stated from either](https://itweb.africa/article/kenya-targets-chinese-telecoms-investment/nWJad7bNDY57bjO1) | ***Baseline not held*** |
 
