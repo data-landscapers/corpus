@@ -1,16 +1,16 @@
 ---
 title: Nigeria — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+compiled: 2026-08-24
+period: 2026-07-01 to 2026-08-24
 place: NGA
-ledger_rows: 145
+ledger_rows: 146
 not_held: 9
-record: 0c94f478ba56
+record: 9541df874072
 ---
 
 # Nigeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-24 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -51,7 +51,7 @@ The sovereign cloud acquired its instruments and a start date. Four were signed 
 ### Cybersecurity
 
 <!-- narrative: infrastructure--infra-cybersec -->
-The communications regulator [issued a Guidance Note on cybersecurity budgets on 7 August](https://techafricanews.com/2026/08/07/ncc-mandates-dedicated-cybersecurity-budgets-for-nigerian-telcos/) under a framework effective since 23 February, adding a dedicated budget line with tracked spend and periodic audit, requiring a Chief Information Security Officer, and restating two-year in-country retention of call logs and traffic data; the compliance clock ends 23 February 2027. Two further bodies are announced and no more: [a Ministerial Advisory Council on Cybersecurity](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) with no membership or terms of reference published, and [a Payment Security Operations Centre](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) set as a 2028 target with no legal basis, funding line or operator named.
+The communications regulator [issued a Guidance Note on cybersecurity budgets on 7 August](https://techafricanews.com/2026/08/07/ncc-mandates-dedicated-cybersecurity-budgets-for-nigerian-telcos/) under a framework effective since 23 February, adding a dedicated budget line with tracked spend and periodic audit, requiring a Chief Information Security Officer, and restating two-year in-country retention of call logs and traffic data; the compliance clock ends 23 February 2027. Two further bodies are announced and no more: [a Ministerial Advisory Council on Cybersecurity](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) with no membership or terms of reference published, and [a Payment Security Operations Centre](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) set as a 2028 target with no legal basis, funding line or operator named. Where staffing did move it moved on a foreign programme: the national cybersecurity coordinator [put a United Kingdom-funded bilateral partnership at more than 90 per cent implemented on 22 August, crediting it with the continent's first four SIM3-certified incident-response auditors at the national coordination centre, a reviewed national incident response plan and maturity frameworks for critical national information infrastructure](https://businessday.ng/news/article/how-nigeria-uk-cyber-alliance-is-countering-ai-driven-threats-financial-crime/). The completion figure is his own, and neither the memorandum nor the programme document is held.
 <!-- /narrative -->
 ### Data Exchange
 
@@ -94,7 +94,7 @@ A state built its own exchange for the most sensitive category of all. Lagos [se
 Identity gained infrastructure and kept its gap. The passport became [cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) on 16 July; the identity authority [took the national root certification authority over from NITDA](https://techafricanews.com/2026/07/22/nitda-and-nimc-deepen-partnership-to-accelerate-nigerias-digital-public-infrastructure/) on 21 July; and [V-Pass went live](https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem) for airport security checks and boarding on the number and face biometrics. Registration stands at [136 million against a target of 180 million by 31 December](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/), leaving about 100 million people uncaptured on the information minister's own figure. The root certification authority it took over also created a conflict: the NIMC Act 2026 makes the identity commission the root authority while the [still-pending Digital Economy and E-Governance Bill carries its own electronic-signature provisions](https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/), and which instrument governs digital signatures is unresolved.
 
 
-Two identity systems moved in opposite directions. The federal government [signed a memorandum on 12 August to issue cooperatives a verification number and their members an identity credential, opening a six-month revalidation exercise](https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/), with no cooperative or member count, cost, or link to the foundational register stated. Against that, an observer mission at the state governorship election of 15 August [called for a full post-election technical audit of the biometric voter-accreditation system, for the electoral commission to publish the causes of authentication failures, and for uniform guidance on downloadable voter cards before 2027](https://dailypost.ng/2026/08/16/osun-election-yiaga-africa-calls-for-bvas-audit-improved-security-ahead-2027-polls/). No commission response, failure rate or audit commitment is on record.
+Two identity systems moved in opposite directions. The federal government [signed a memorandum on 12 August to issue cooperatives a verification number and their members an identity credential, opening a six-month revalidation exercise](https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/), with no cooperative or member count, cost, or link to the foundational register stated. Against that, an observer mission at the state governorship election of 15 August [called for a full post-election technical audit of the biometric voter-accreditation system, for the electoral commission to publish the causes of authentication failures, and for uniform guidance on downloadable voter cards before 2027](https://dailypost.ng/2026/08/16/osun-election-yiaga-africa-calls-for-bvas-audit-improved-security-ahead-2027-polls/). A second observer group reporting on the same poll [named the failure modes — devices that would not boot, delaying one unit's opening to 09:45, fingerprint and facial capture failing on voters, elderly voters recurrently, so that they could not vote at all, slow processing at units of over 1,100 registered voters, an export failure, and one device that stopped altogether](https://blog.nigerianbar.org.ng/wp-content/uploads/2026/08/REPORT-OF-THE-OSUN-STATE-ELECTION-2026.pdf), and asked for the devices to be upgraded before 2027. Both accounts are observers' own, limited to the units their teams visited; no commission response, failure rate or audit commitment is on record.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
