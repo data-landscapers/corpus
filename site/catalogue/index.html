@@ -25,24 +25,33 @@
   .cat .lede{color:var(--ink);font-size:1rem;line-height:1.6;margin:0}
   .cat .lede p{margin:0 0 10px}
   .cat .lede p:last-child{margin-bottom:0}
-  .cat .dlbox{border:1px solid var(--line);border-radius:8px;background:var(--card);
-    padding:12px 14px;min-width:288px}
-  .cat .dlbox table{border-collapse:collapse}
-  .cat .dlbox th{font-size:11px;font-variant:small-caps;letter-spacing:.07em;
-    color:var(--faint);font-weight:600;text-align:left;padding:0 0 8px}
-  .cat .dlbox td{padding:4px 0;font-size:13px;color:var(--muted);white-space:nowrap;
+  /* The download buttons are the site's accent terracotta, the same red the
+     bulletin's `&darr; PDF` button carries (Bill, 2026-08-24). `--terra` is
+     declared here rather than taken from `var(--accent)` because `.cat` shadows
+     that with its own darker red (#7a1f2b) for links and chips — inside this box
+     the site's #c84b2f is what is wanted, and everywhere else on the page it is
+     not. The rules restate `.btn` rather than inheriting main.css's, because
+     `.cat a` is more specific than `.btn--accent` and would win the colour. */
+  .cat .dlbox{--terra:#c84b2f;
+    border:1px solid var(--line);border-radius:8px;background:var(--card);
+    padding:16px 20px;min-width:360px}
+  .cat .dlbox table{border-collapse:collapse;width:100%}
+  .cat .dlbox th{font-size:1.05rem;font-variant:small-caps;letter-spacing:.06em;
+    color:var(--terra);font-weight:700;text-align:left;padding:0 0 12px;line-height:1.2}
+  .cat .dlbox td{padding:5px 0;font-size:.85rem;color:var(--ink);white-space:nowrap;
     vertical-align:middle}
-  .cat .dlbox td+td{padding-left:10px}
-  .cat .dlbox .btn{padding:.32rem .7rem;font-size:.72rem;border-width:1px;
+  .cat .dlbox td+td{padding-left:14px;width:1%}
+  .cat .dlbox .btn{padding:.4rem .95rem;font-size:.78rem;border-width:1.5px;
     border-radius:2px;display:inline-block;text-decoration:none;
-    font-family:inherit;font-weight:600;letter-spacing:.03em;
-    border-style:solid;border-color:var(--ink);color:var(--ink);background:none;
-    cursor:pointer;line-height:1.3}
-  .cat .dlbox .btn:hover{background:var(--ink);color:var(--card);text-decoration:none}
+    font-family:var(--serif);font-weight:600;letter-spacing:.03em;
+    border-style:solid;border-color:var(--terra);color:var(--terra);background:none;
+    cursor:pointer;line-height:1.35;white-space:nowrap;transition:all .15s}
+  .cat .dlbox .btn:hover{background:var(--terra);color:#fff;border-color:var(--terra);
+    text-decoration:none}
   .cat .dlbox .btn[disabled]{border-color:var(--line);color:var(--faint);cursor:default}
-  .cat .dlbox .btn[disabled]:hover{background:none;color:var(--faint)}
-  .cat .dlbox .dlmsg{color:var(--warn);font-size:12.5px;line-height:1.4;
-    margin:8px 0 0;max-width:34ch}
+  .cat .dlbox .btn[disabled]:hover{background:none;color:var(--faint);border-color:var(--line)}
+  .cat .dlbox .dlmsg{color:var(--warn);font-size:.78rem;line-height:1.45;
+    margin:10px 0 0;max-width:38ch}
   @media (max-width:860px){.cat .cathead{grid-template-columns:1fr}}
   .cat .searchrow{display:flex;gap:10px;margin-bottom:18px}
   .cat #q{flex:1;padding:11px 14px;border:1px solid var(--line);border-radius:8px;font-size:15px;background:var(--card);color:var(--ink)}
@@ -184,7 +193,7 @@
     </div>
   </footer>
 
-<script src="catalogue-data.js"></script>
+<script src="catalogue-data.js?v=758f4da9"></script>
 <script>
 (function(){
   var D = window.CATALOGUE;
@@ -343,7 +352,9 @@
     if (fullPending) return fullPending;
     if (!window.fetch || !window.Blob || !window.URL || !URL.createObjectURL)
       return Promise.reject(new Error('unsupported'));
-    fullPending = fetch('raw-catalogue.json')
+    // Content-hashed, like the payload script tag above: an export must not be cut
+    // from a copy of the catalogue the browser cached a build ago.
+    fullPending = fetch('raw-catalogue.json' + (D.rawver || ''))
       .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
       .then(function(d){
         var items = d.items || [], by = {};

@@ -34,6 +34,7 @@ python scripts/bulletin.py --write {slug} --text "…"         # one to three se
 python scripts/bulletin.py --assemble
 python scripts/leak-check.py outputs || exit 1               # the gate, unchanged and not optional
 python scripts/render.py outputs/bulletins/corpus-bulletin.md
+python scripts/catalogue.py                                  # publish the catalogue the bulletin was built off
 python scripts/log-line.py build "bulletin top-up: window N, K new summaries, rendered — ok"
 git add -A && git commit -m "Bulletin top-up: <n> items published today"
 ```
@@ -42,7 +43,9 @@ git add -A && git commit -m "Bulletin top-up: <n> items published today"
 
 **No stage 0 sentinel and no `--start build`.** `logs/.build-in-progress` is the assertion that a *cycle* is part-way through, and `RENDER.md` Step 0 gates on it; a ten-minute run that writes one document has nothing for it to protect, and a sentinel left behind by a crash here would block tonight's cycle over a document that rebuilds itself in full on the next run.
 
-**Nothing else re-renders.** No home page, no catalogue page, no report loop, so `RENDER.md` Step 2's coverage assertion is not in play — it counts a full pass and this is one file. The site catalogue lags a morning behind by design; the bulletin's own links go to publishers' records rather than to catalogue rows, so nothing it publishes points at the gap.
+**The catalogue page is published, and it was not before** *(Bill, 2026-08-24)*. `--catalogue` at the top of the run rebuilds `outputs/catalogue/`, so from that moment the top-up is working off a catalogue the site is not serving — and `scripts/catalogue.py` is what closes that. It used to be left out on the reasoning that *the site catalogue lags a morning behind by design*, which held only while nothing pointed at the gap. It does not hold now: the count on the catalogue page is a published claim about what the base holds, the bulletin published the same morning says otherwise, and the two are a morning apart every day the top-up runs — 10,731 against 10,747 on the day this was noticed. Running the page costs a few seconds and one commit, against a number on the site that is wrong until the next cycle. **The names index is not rebuilt**, so the morning's new records are searchable by title and publisher and not yet by names inside them; that lag is real, bounded and invisible, which is the difference.
+
+**Nothing else re-renders.** No home page, no report loop, so `RENDER.md` Step 2's coverage assertion is not in play — it counts a full pass and this is one document plus one page.
 
 **The dated PDF is `render.py`'s call as always.** A second cut on one day gets `editions.py`'s `-2`; a body that has not moved holds its edition and refreshes only the page, which is the bulletin's own exception at `RENDER.md` → *The bulletin* and exactly the case this run produces on a nil morning.
 

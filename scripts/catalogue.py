@@ -21,7 +21,7 @@ The catalogue carries metadata only — never source bodies. Each record links t
 its publisher (`build-catalogue.py`).
 """
 from __future__ import annotations
-import ast, csv, json, re, shutil, sys
+import ast, csv, hashlib, json, re, shutil, sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -68,6 +68,28 @@ def csv_cols() -> list[str]:
             return [ast.literal_eval(e) for e in node.value.elts]
     raise SystemExit("catalogue: no CSV_COLS in build-catalogue.py — the filtered "
                      "download cannot be built without the column spec")
+
+
+def stamp(path: Path) -> str:
+    """`?v=<8 hex>` over the file's bytes, for a `src` or a `fetch`.
+
+    **The page and its payload are two files and the browser caches them
+    differently** *(Bill, 2026-08-24)*. `index.html` is small and gets revalidated;
+    `catalogue-data.js` is 4.5 MB and does not, so a reader who visited before a
+    rebuild is served a new page driving old data. That failed silently and
+    plausibly rather than loudly: on the day the topic facet gained its taxonomy
+    ordering, the vocabulary carrying the order was in the payload, an older cached
+    payload had no `torder` in it, and the page fell back to sorting by record
+    count — which is a sort, so nothing looked broken; it was simply the sort that
+    had just been removed. The same hazard reaches `raw-catalogue.json`, where a
+    stale copy would mean an export cut from a catalogue the reader is not looking
+    at, and there the wrong answer is a file that leaves the building.
+
+    A **content** hash rather than a build timestamp, so a file that did not change
+    keeps its URL and stays cached — the cost of this is only paid when the bytes
+    actually move. A query string is enough: GitHub Pages serves the file and
+    ignores it (`RENDER.md`), so no filename and no link anywhere else changes."""
+    return "?v=" + hashlib.sha256(path.read_bytes()).hexdigest()[:8]
 
 
 def catalogue_dir() -> Path:
@@ -232,24 +254,33 @@ STYLE = r"""
   .cat .lede{color:var(--ink);font-size:1rem;line-height:1.6;margin:0}
   .cat .lede p{margin:0 0 10px}
   .cat .lede p:last-child{margin-bottom:0}
-  .cat .dlbox{border:1px solid var(--line);border-radius:8px;background:var(--card);
-    padding:12px 14px;min-width:288px}
-  .cat .dlbox table{border-collapse:collapse}
-  .cat .dlbox th{font-size:11px;font-variant:small-caps;letter-spacing:.07em;
-    color:var(--faint);font-weight:600;text-align:left;padding:0 0 8px}
-  .cat .dlbox td{padding:4px 0;font-size:13px;color:var(--muted);white-space:nowrap;
+  /* The download buttons are the site's accent terracotta, the same red the
+     bulletin's `&darr; PDF` button carries (Bill, 2026-08-24). `--terra` is
+     declared here rather than taken from `var(--accent)` because `.cat` shadows
+     that with its own darker red (#7a1f2b) for links and chips — inside this box
+     the site's #c84b2f is what is wanted, and everywhere else on the page it is
+     not. The rules restate `.btn` rather than inheriting main.css's, because
+     `.cat a` is more specific than `.btn--accent` and would win the colour. */
+  .cat .dlbox{--terra:#c84b2f;
+    border:1px solid var(--line);border-radius:8px;background:var(--card);
+    padding:16px 20px;min-width:360px}
+  .cat .dlbox table{border-collapse:collapse;width:100%}
+  .cat .dlbox th{font-size:1.05rem;font-variant:small-caps;letter-spacing:.06em;
+    color:var(--terra);font-weight:700;text-align:left;padding:0 0 12px;line-height:1.2}
+  .cat .dlbox td{padding:5px 0;font-size:.85rem;color:var(--ink);white-space:nowrap;
     vertical-align:middle}
-  .cat .dlbox td+td{padding-left:10px}
-  .cat .dlbox .btn{padding:.32rem .7rem;font-size:.72rem;border-width:1px;
+  .cat .dlbox td+td{padding-left:14px;width:1%}
+  .cat .dlbox .btn{padding:.4rem .95rem;font-size:.78rem;border-width:1.5px;
     border-radius:2px;display:inline-block;text-decoration:none;
-    font-family:inherit;font-weight:600;letter-spacing:.03em;
-    border-style:solid;border-color:var(--ink);color:var(--ink);background:none;
-    cursor:pointer;line-height:1.3}
-  .cat .dlbox .btn:hover{background:var(--ink);color:var(--card);text-decoration:none}
+    font-family:var(--serif);font-weight:600;letter-spacing:.03em;
+    border-style:solid;border-color:var(--terra);color:var(--terra);background:none;
+    cursor:pointer;line-height:1.35;white-space:nowrap;transition:all .15s}
+  .cat .dlbox .btn:hover{background:var(--terra);color:#fff;border-color:var(--terra);
+    text-decoration:none}
   .cat .dlbox .btn[disabled]{border-color:var(--line);color:var(--faint);cursor:default}
-  .cat .dlbox .btn[disabled]:hover{background:none;color:var(--faint)}
-  .cat .dlbox .dlmsg{color:var(--warn);font-size:12.5px;line-height:1.4;
-    margin:8px 0 0;max-width:34ch}
+  .cat .dlbox .btn[disabled]:hover{background:none;color:var(--faint);border-color:var(--line)}
+  .cat .dlbox .dlmsg{color:var(--warn);font-size:.78rem;line-height:1.45;
+    margin:10px 0 0;max-width:38ch}
   @media (max-width:860px){.cat .cathead{grid-template-columns:1fr}}
   .cat .searchrow{display:flex;gap:10px;margin-bottom:18px}
   .cat #q{flex:1;padding:11px 14px;border:1px solid var(--line);border-radius:8px;font-size:15px;background:var(--card);color:var(--ink)}
@@ -350,8 +381,11 @@ BODY = r"""
 </div>
 """
 
+# `{ver}` is substituted at build time — see `stamp()`. The token is a content hash,
+# so an unchanged file keeps its URL and stays cached; a rebuilt one gets a new URL
+# and cannot be served stale.
 SCRIPT = r"""
-<script src="catalogue-data.js"></script>
+<script src="catalogue-data.js{ver}"></script>
 <script>
 (function(){
   var D = window.CATALOGUE;
@@ -510,7 +544,9 @@ SCRIPT = r"""
     if (fullPending) return fullPending;
     if (!window.fetch || !window.Blob || !window.URL || !URL.createObjectURL)
       return Promise.reject(new Error('unsupported'));
-    fullPending = fetch('raw-catalogue.json')
+    // Content-hashed, like the payload script tag above: an export must not be cut
+    // from a copy of the catalogue the browser cached a build ago.
+    fullPending = fetch('raw-catalogue.json' + (D.rawver || ''))
       .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
       .then(function(d){
         var items = d.items || [], by = {};
@@ -936,24 +972,29 @@ def main() -> int:
     # the page prettifies them, so this costs nothing for the 36% still unnamed.
     # `cols` is the download's column spec, ~200 bytes, and it is what lets the page
     # cut a filtered CSV with the same sixteen columns as the published one.
+    # publish the full downloads from the catalogue Corpus built. Before the payload,
+    # because the payload carries the JSON's content hash so the export cannot be cut
+    # from a cached older copy of it (see `stamp`).
+    for name in ("raw-catalogue.csv", "raw-catalogue.json"):
+        shutil.copyfile(cdir / name, out_dir / name)
+
     payload = {"places": places, "regions": regions, "topics": topics, "cats": cats,
                "torder": torder,
                "ents": ents, "entnames": {s: n for s, n in ent_names.items() if s in set(ents)},
-               "names": payload_names, "cols": csv_cols(), "rows": rows}
+               "names": payload_names, "cols": csv_cols(),
+               "rawver": stamp(out_dir / "raw-catalogue.json"), "rows": rows}
     data_js = out_dir / "catalogue-data.js"
     with open(data_js, "w", encoding="utf-8") as fh:
         fh.write("window.CATALOGUE = ")
         json.dump(payload, fh, ensure_ascii=False, separators=(",", ":"))
         fh.write(";")
 
-    # the page
+    # the page. `{ver}` is substituted here rather than through `PAGE.format`, because
+    # SCRIPT is JavaScript and full of braces `format` would try to read.
     html = PAGE.format(favicon=f"{MAIN_SITE}/assets/favicon.svg",
-                       style=STYLE, chrome=CHROME, body=BODY, foot=FOOT, script=SCRIPT)
+                       style=STYLE, chrome=CHROME, body=BODY, foot=FOOT,
+                       script=SCRIPT.replace("{ver}", stamp(data_js)))
     (out_dir / "index.html").write_text(html, encoding="utf-8")
-
-    # publish the full downloads from the catalogue Corpus built
-    for name in ("raw-catalogue.csv", "raw-catalogue.json"):
-        shutil.copyfile(cdir / name, out_dir / name)
 
     # publish the name shards, copying only what changed so an unchanged shard
     # keeps its mtime and stays out of the diff

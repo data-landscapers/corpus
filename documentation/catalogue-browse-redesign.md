@@ -30,6 +30,18 @@ Grouping the regions was the second half of it. The old code grouped each place 
 
 Filter state lives in the URL hash, which is the whole point of it — a filtered view is citable. The consequence of removing a facet is that URLs naming it are still in circulation. `readHash` used to set any key it found that existed on the state object; it now sets only keys in the current facet list, so `#lens=sovereignty` from an old link opens the unfiltered catalogue rather than a filtered one with no control anywhere on the page to unfilter it.
 
+## The payload is content-hashed now, and this is why
+
+The topic ordering above was correct in the built page and wrong on the site, which is the shape of a caching problem rather than a code one. `index.html` is a few kilobytes and gets revalidated; `catalogue-data.js` is 4.5 MB and does not — so a reader who had visited before the rebuild was served the **new page driving the old payload**. The vocabulary carrying the taxonomy order (`torder`) lives in the payload, the old one has no such key, and `facetBlock` falls back to count-descending when no order is passed. It therefore failed as a *plausible* sort rather than as no sort at all, which is why it looked like the change had not been made.
+
+`stamp()` now appends `?v=<8 hex of the file's content>` to the `<script src>` and to the `fetch` of `raw-catalogue.json`. Content, not build time, so a file that did not change keeps its URL and stays cached. The JSON matters more than the page does: a stale payload is a facet in the wrong order, but a stale JSON is an **export cut from a catalogue the reader is not looking at**, and that one leaves the building as a file with a build date on it.
+
+The general shape is worth keeping: **a large asset that a small one depends on for its behaviour has to be versioned, or the two will be served from different builds.** Nothing warns when it happens, and the failure wears the same clothes as an unmade change.
+
+## The catalogue page is published by the bulletin top-up now
+
+`BULLETIN-TOPUP.md` opens with `rebuild.py --catalogue` and did not close with `catalogue.py`, on the reasoning that *the site catalogue lags a morning behind by design*. That was true while nothing pointed at the gap. It stopped being true the moment the page put a record count on itself: on 2026-08-24 the catalogue page said 10,731 while the bulletin published the same morning was built off 10,747, and the two are a morning apart every day the top-up runs. `scripts/catalogue.py` is now the last step of that run, after the leak gate. The names index is deliberately not rebuilt with it — the morning's new records are searchable by title and publisher but not yet by names inside them, which is a bounded lag rather than a wrong published number.
+
 ## Checked
 
 `scripts/test_catalogue_export.py` still passes — the CSV serialiser reproduces `raw-catalogue.csv` byte for byte over all 10,747 rows. Beyond that, a jsdom pass over the built page confirmed on the day: the three facets and their orders, the eight year options with `< 2020` last at 441 records, the pre-2020 filter cutting to 441 rows all dated before 2020, the download buttons disabled unfiltered and live filtered, `#years=%3C2020&places=KEN` reloading to 29 records, a stale `#lens=` URL reloading to the full catalogue, and no lens tags left on any row. That pass is not in the repo — it needs an npm install this tree does not otherwise want, and `catalogue-filtered-download.md` records the same reasoning for the same reason.
