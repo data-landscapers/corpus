@@ -1,24 +1,27 @@
 #!/usr/bin/env python3
-"""topic-page.py — the landing page each topic box on the home page opens.
+"""topic-page.py — the landing page each topic box on the topics page opens.
 
-The home page's Level-1 tiles open a row of Level-2 sub-topic boxes, and every one of those links
-to `/topics/{slug}/`. A directory is not a page: `site/topics/dpi-pay/` holds
-`dpi-pay-monthly.html`, `dpi-pay-progress.html` and their PDFs, and a link to the directory itself
-404s. This writes the `index.html` that makes the link land somewhere — the same shape as a
-country's, and for the same reason: a place to choose a document from, with the two documents,
-their editions and their PDFs on it.
+Every box on `/topics/` links to `/topics/{slug}/`. A directory is not a page: `site/topics/
+dpi-pay/` holds `dpi-pay-monthly.html`, `dpi-pay-progress.html` and their PDFs, and a link to the
+directory itself 404s. This writes the `index.html` that makes the link land somewhere — the same
+shape as a country's, and for the same reason: a place to choose a document from, with the two
+documents, their editions and their PDFs on it.
 
-It also writes an `index.html` for each **Level-1** category, because the sub-topic row ends with
-an *All {category}* box pointing at `/topics/{l1}/`. That page is an **index, not a report**:
-Level-1 roll-up reports are deliberately not built (`documentation/topic-reports.md` — the
-taxonomy is a strict single-parent tree, so a Level-1 report is a later composition of the same
-material and costs nothing to defer). The page says so, and lists the topics beneath it.
+**The Level-1 category pages are not built any more** *(Bill, 2026-08-24)*. There were ten, one per
+category, written because each sub-topic row on the home page ended with an *All {category}* box
+pointing at `/topics/{l1}/`. That box has gone: it was the only link on the topics page that led to
+an index rather than to reports, and Level-1 roll-up reports are deliberately not built
+(`documentation/topic-reports.md` — the taxonomy is a strict single-parent tree, so a Level-1
+report is a later composition of the same material and costs nothing to defer). A page nothing
+links to, which exists to say that the thing it names does not exist, is not worth the ten files;
+`/topics/` itself lists every category and every topic beneath it, which is what those pages were
+for. The ten `site/topics/{l1}/index.html` were deleted in the same change.
 
 Nothing here reads a ledger or a source. It reads what BUILD wrote into `outputs/topics/` and what
 RENDER wrote into `site/topics/`, and links the two together.
 
 Usage:
-  python scripts/topic-page.py            # 38 topic pages + 10 category pages
+  python scripts/topic-page.py            # 38 topic pages
 """
 import os
 import re
@@ -189,16 +192,6 @@ TOPIC_BODY = """    <h2 class="section-heading">Documents</h2>
        is the fuller account &mdash; <a href="{base}/countries/">browse by country</a>.</p>
 """
 
-CATEGORY_BODY = """    <p class="section-intro">{intro}</p>
-
-    <h2 class="section-heading">Topics in this category</h2>
-    <div class="tsub__inner">
-{boxes}
-    </div>
-
-    <p class="caveat">{category_caveat}</p>
-"""
-
 
 def write(path: str, title: str, description: str, crumb: str, meta: str, body: str) -> Path:
     out_dir = SITE / "topics" / path
@@ -247,31 +240,6 @@ def main() -> int:
               f'&nbsp;·&nbsp; page built {built}',
               TOPIC_BODY.format(rows=document_rows(path), base=SITE_BASE,
                                 how_to_read=copy_inline("topic", "how-to-read")))
-        wrote += 1
-
-    for key, name in L1.items():
-        kids = sorted(s for s in label if s.split(".")[0] == key)
-        if not kids:
-            continue
-        # `--fill:0` is not decoration: `.sbox`'s background is
-        # `color-mix(… calc(var(--fill) * 12%) …)`, so an unset `--fill` makes the whole
-        # declaration invalid and the box renders with no background at all. These boxes carry
-        # no count to scale, so zero is the accurate value as well as the working one.
-        boxes = "\n".join(
-            f'      <a class="sbox" href="../{s.replace(".", "-")}/" title="{s}"'
-            f' style="--fill:0">'
-            f'<span class="sbox__l">{e(label[s])}</span>'
-            f'<span class="sbox__n" aria-hidden="true">&rarr;</span></a>' for s in kids)
-        write(key, name,
-              f"{name}: the topics beneath it, each with its own monthly and progress reports.",
-              e(name),
-              f'<span class="mono">{key}.*</span> &nbsp;·&nbsp; {len(kids)} topics '
-              f'&nbsp;·&nbsp; page built {built}',
-              CATEGORY_BODY.format(
-                  category_caveat=copy_inline("topic", "category-caveat"),
-                  intro=f"{name} rolls up {len(kids)} topics. Each carries a monthly update and a "
-                        f"progress report, compiled place by place from the same base.",
-                  boxes=boxes))
         wrote += 1
 
     print(f"topic pages: {wrote} written -> site/topics/")

@@ -237,14 +237,21 @@ def topic_grid(by_topic: dict[str, int]) -> str:
     it.** A topic with nothing on record reads as thin coverage, which is what it
     is; dropping it would make the page a picture of the corpus rather than of
     the taxonomy, and the two are different objects. A slug the catalogue holds
-    and the taxonomy does not still gets a box too, after its category's own — the
-    count is real, and a page that silently disagrees with the catalogue is worse
-    than one showing a slug for its own label.
+    and the taxonomy does not still gets a box too, at the end of its category —
+    the count is real, and a page that silently disagrees with the catalogue is
+    worse than one showing a slug for its own label.
 
-    The first box of each row is the category itself: the roll-up count, opening
-    `/topics/{key}/`, which `topic-page.py` writes. The rest are its Level-2
-    subjects, shaded within the row and opening `/topics/{key-subject}/`. The dot
-    survives in the vocabulary, where it means something, and not in the path,
+    **Only Level-2 subjects get a box** *(Bill, 2026-08-24)*. Each row opened with
+    an *All {category}* box carrying the roll-up, as the home page's sub-topic
+    rows did, and it went to `/topics/{key}/` — which is an index of the topics
+    beneath it and not a report, so every box on the page but that one led to
+    documents. A box that looks like the others and behaves differently is worse
+    than no box: the roll-up is a number, so it is printed in the heading, where
+    nobody will read it as a way in. The category pages `topic-page.py` writes are
+    left alone; nothing links to them from here now.
+
+    Boxes are shaded within their own row and open `/topics/{key-subject}/`. The
+    dot survives in the vocabulary, where it means something, and not in the path,
     where it reads as an extension — so `dpi.pay` links as `dpi-pay`."""
     order: list[str] = []
     groups: dict[str, list[str]] = {}
@@ -269,19 +276,14 @@ def topic_grid(by_topic: dict[str, int]) -> str:
         roll = sum(by_topic.get(s, 0) for s in slugs)
         top = max((by_topic.get(s, 0) for s in slugs), default=1) or 1
         boxes = [
-            f'      <a class="sbox sbox--all" href="{SITE_BASE}/topics/{k}/"'
-            f' title="{k}.*">'
-            f'<span class="sbox__l">All {e(name)}</span>'
-            f'<span class="sbox__n">{roll:,}</span></a>'
-        ]
-        boxes += [
             f'      <a class="sbox" href="{SITE_BASE}/topics/{s.replace(".", "-")}/"'
             f' title="{s}" style="--fill:{by_topic.get(s, 0) / top:.3f}">'
             f'<span class="sbox__l">{e(taxonomy_lib.label(s))}</span>'
             f'<span class="sbox__n">{by_topic.get(s, 0):,}</span></a>'
             for s in slugs]
         out.append(f'    <h3 class="topic-group" id="{k}">{e(name)}'
-                   f' <span class="topic-group__k">{k}.*</span></h3>\n'
+                   f' <span class="topic-group__k">{k}.*</span>'
+                   f'<span class="topic-group__n">{roll:,}</span></h3>\n'
                    f'    <div class="tsub__inner">\n'
                    + "\n".join(boxes)
                    + '\n    </div>')

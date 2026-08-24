@@ -60,21 +60,23 @@
 .box__n { font-size: 0.7rem; color: var(--ink-light); line-height: 1.2; }
 
 /* Topic matrix, `site/topics/` (Bill, 2026-08-24): an h3 per Level-1 category
- * carrying its slug stem, and one row of boxes beneath it with the category's
- * own box first. The ten Level-1 tiles and the panel each of them opened went
+ * carrying its slug stem and its roll-up count, and one row of Level-2 boxes
+ * beneath it. The count sits in the heading rather than in a box of its own
+ * because the category has no report to open — the box that used to lead the
+ * row went to an index page while every other box on the page goes to
+ * documents. The ten Level-1 tiles and the panel each of them opened went
  * with the matrix when it came off the home page — a page of its own prints the
  * whole taxonomy at once, so there is nothing left to expand and no script on
  * the page at all. `.tsub__inner` and `.sbox` outlive them because the row is
  * also what the Level-1 category pages `topic-page.py` writes are made of. */
-.topic-group { margin: 1.7rem 0 0.4rem; font-size: 1rem; }
-.topic-group__k { font-family: var(--mono); font-size: 0.7rem; font-weight: 400; color: var(--ink-faint); margin-left: 0.45rem; }
+.topic-group { display: flex; align-items: baseline; gap: 0.45rem; margin: 1.7rem 0 0.4rem; font-size: 1rem; }
+.topic-group__k { font-family: var(--mono); font-size: 0.7rem; font-weight: 400; color: var(--ink-faint); }
+.topic-group__n { margin-left: auto; font-family: var(--mono); font-size: 0.72rem; font-weight: 400; color: var(--ink-light); }
 .tsub__inner { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: 4px; padding: 6px; margin-bottom: 4px; background: color-mix(in srgb, var(--accent) 4%, var(--paper)); border: 1px solid var(--rule); border-radius: 3px; }
 .sbox { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
 .sbox:hover { border-color: var(--accent); color: var(--ink); }
 .sbox__l { font-size: 0.78rem; line-height: 1.25; }
 .sbox__n { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-light); white-space: nowrap; }
-.sbox--all { background: var(--paper-warm); }
-.sbox--all .sbox__l { color: var(--link); font-weight: 600; }
 
 .colophon { margin: 3.5rem 0 2rem; padding: 1.25rem 1.5rem; background: var(--paper-warm); border: 1px solid var(--rule); font-size: 0.8rem; }
 .colophon dl { display: grid; grid-template-columns: 9rem 1fr; gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
