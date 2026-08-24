@@ -248,7 +248,13 @@ STYLE = r"""
   /* The lede is body text at body size, and takes whatever width the downloads
      box leaves it (prep/catalogue.md §1) — it used to be 14px grey capped at
      74ch, which read as a caption on a page whose first job is to explain what
-     the catalogue is and is not. */
+     the catalogue is and is not.
+
+     The box is on the **title's** row, not the lede's (Bill, 2026-08-24): the
+     heading and the box are the two things a reader lands on, and starting the
+     box a line lower left a notch of white above it that read as a mistake. So
+     the grid's left column carries h1 and lede together and both columns start
+     at the top. */
   .cat .cathead{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:26px 34px;
     align-items:start;margin:0 0 24px}
   .cat .lede{color:var(--ink);font-size:1rem;line-height:1.6;margin:0}
@@ -263,7 +269,7 @@ STYLE = r"""
      `.cat a` is more specific than `.btn--accent` and would win the colour. */
   .cat .dlbox{--terra:#c84b2f;
     border:1px solid var(--line);border-radius:8px;background:var(--card);
-    padding:16px 20px;min-width:360px}
+    padding:14px 20px 12px;min-width:360px}
   .cat .dlbox table{border-collapse:collapse;width:100%}
   .cat .dlbox th{font-size:1.05rem;font-variant:small-caps;letter-spacing:.06em;
     color:var(--terra);font-weight:700;text-align:left;padding:0 0 12px;line-height:1.2}
@@ -281,7 +287,11 @@ STYLE = r"""
   .cat .dlbox .btn[disabled]:hover{background:none;color:var(--faint);border-color:var(--line)}
   .cat .dlbox .dlmsg{color:var(--warn);font-size:.78rem;line-height:1.45;
     margin:10px 0 0;max-width:38ch}
-  @media (max-width:860px){.cat .cathead{grid-template-columns:1fr}}
+  /* The message paragraph is empty almost all the time, and an empty <p> is still
+     a line box — that was the dead strip under the last row of buttons. */
+  .cat .dlbox .dlmsg:empty{display:none}
+  @media (max-width:860px){.cat .cathead{grid-template-columns:1fr}
+    .cat .dlbox{min-width:0}}
   .cat .searchrow{display:flex;gap:10px;margin-bottom:18px}
   .cat #q{flex:1;padding:11px 14px;border:1px solid var(--line);border-radius:8px;font-size:15px;background:var(--card);color:var(--ink)}
   .cat #q:focus{outline:none;border-color:var(--accent)}
@@ -330,10 +340,11 @@ STYLE = r"""
 
 BODY = r"""
 <div class="cat">
-  <h1>Catalogue</h1>
-
   <div class="cathead">
-    <div class="lede">""" + copy("catalogue", "lede") + r"""</div>
+    <div class="cathead__text">
+      <h1>Catalogue</h1>
+      <div class="lede">""" + copy("catalogue", "lede") + r"""</div>
+    </div>
 
     <!-- The downloads sit beside the lede rather than under it (prep/catalogue.md
          §10), in the site's own button style: `.btn` with a leading down arrow, the
