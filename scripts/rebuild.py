@@ -260,6 +260,10 @@ def main():
         print("stage 1 — vocab snapshot:"); snapshot_vocab()
     if a.all or a.catalogue:
         print("stage 2 — catalogue:"); run("build-catalogue.py")
+        # The names index reads the bodies and keys on the catalogue's own slugs,
+        # so it belongs to this stage and must follow it. `catalogue.py` (RENDER
+        # step 5) then packs the shard keys into the page.
+        print("stage 2b — names index:"); run("build-names-index.py")
         print("stage 2a — scope lint (reports, never gates):"); scope_lint()
     if a.all or a.finance:
         print("stage 3 — finance + budgets (all places):"); run("build-finance-page.py", "--all")

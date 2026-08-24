@@ -80,3 +80,12 @@ logs/.osint-cycle-seen
 # The switch Bill flips when he sits down: while it exists the trigger holds, without
 # advancing its watermark, so the close it held over runs when the file comes out.
 logs/.hold-cycle
+
+# The names index as built, before it is published. `build-names-index.py` writes ~1,900
+# shards here and `catalogue.py` copies them to `site/catalogue/names/`, so tracking both
+# would put 37 MB and 3,778 files into the history to hold one artefact twice. The published
+# copy under `site/` is the one the record needs; this is the intermediate that made it, and
+# it rebuilds from `raw/` in about a minute. `outputs/catalogue/doc-ids.csv` is deliberately
+# NOT ignored — it is the append-only registry that keeps the shards stable, and losing it
+# would renumber every posting and rewrite every shard.
+outputs/names/

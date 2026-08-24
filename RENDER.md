@@ -166,7 +166,22 @@ python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.ht
 python scripts/catalogue.py       # -> site/catalogue/index.html, catalogue-data.js, raw-catalogue.{csv,json}
 ```
 
-Expect ~9,400 records. The page carries metadata only; each record links to its publisher. If the place/topic labels look stale, refresh `outputs/vocab/countries.csv` and `outputs/vocab/taxonomy.md` from OSINT's `lookups/` and re-run.
+Expect ~10,700 records. The page carries metadata only; each record links to its publisher. If the place/topic labels look stale, refresh `outputs/vocab/countries.csv` and `outputs/vocab/taxonomy.md` from OSINT's `lookups/` and re-run.
+
+### The names index — build it before the page
+
+`scripts/build-names-index.py` reads the source bodies through the workroot and writes `outputs/names/`: about 208,000 names occurring in the sources, keyed to stable document ids, cut into ~1,900 shards that the catalogue page fetches one at a time when a reader searches. It needs the vault, so **BUILD runs it as stage 2b**, straight after the catalogue it keys against — there is nothing to do here except be aware that `catalogue.py` below expects it to have run, and packs the shard keys into the page and copies the shards to `site/catalogue/names/`.
+
+```bash
+python scripts/rebuild.py --catalogue                 # BUILD stage 2 + 2b: catalogue, then names
+python scripts/build-names-index.py --stats           # size profile, writes nothing (from .workroot)
+```
+
+**`outputs/names/` is gitignored; `site/catalogue/names/` is tracked.** The two hold the same 1,889 shards, and tracking both would carry 37 MB twice. The published copy is the one the record needs. `outputs/catalogue/doc-ids.csv` **is** tracked and must stay so — it is the append-only registry that keeps postings stable, and rebuilding it from scratch renumbers every id and rewrites every shard.
+
+**The shards are exempt from §9, and deliberately so.** A published file is never revised because a citation rests on its bytes; nothing cites a shard, and a shard is not a finding but a derived lookup that must track the corpus or it is wrong. So shards are rewritten in place and stale ones are deleted, in both `outputs/names/` and `site/catalogue/names/` — the one place on the site where "never purged" does not apply. Two properties keep that honest rather than merely convenient. Document ids come from `outputs/catalogue/doc-ids.csv`, which is **append-only**, so a slug's id never changes and a shard's bytes move only when its own names move; and both writers compare before writing, so an unchanged shard is not touched and does not appear in the diff. Expect a handful of changed shards per cycle, not nineteen hundred — if a rebuild shows all of them, the id registry has been rewritten rather than appended to, and that is the bug to look for.
+
+**The leak gate admits them by shape.** `names/*.txt` is checked against `name<TAB>id,id,id` rather than the ordinary 1,000-character line cap, which the posting lists exceed legitimately. That check is *stricter* than the one it replaces — a line of digits and commas cannot be prose — and it is scoped to a `names/` directory, so a plain `.txt` anywhere else still meets the cap.
 
 ## Step 6 — build the non-state finance landing
 

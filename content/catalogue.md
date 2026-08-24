@@ -8,4 +8,4 @@ The filter and empty-state strings are inside the page's JavaScript and have not
 
 ## lede
 
-Every source held in the base — what it is, who published it, when, and where to read it. Bodies are not republished; each record links to the publisher.
+All the reports on this site have been built from the documents listed in this catalogue. No other sources are used. To maintain the site the full text is maintained in a private repository - private because publishing it would involve copyright infringements. The catalogue gives you access to the original, published documents. For details of how the material is classified please go to the Methodology page.

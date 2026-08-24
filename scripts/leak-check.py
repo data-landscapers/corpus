@@ -61,6 +61,7 @@ MAX_PROSE_FIELD = 8000
 MAX_HTML_BLOCK = 8000        # observed max legitimate block 3,238
 MAX_PDF_PAGE = 12000         # observed max legitimate page  5,490
 MAX_MD_LINE = 6000           # observed max legitimate line  2,185 (median 25)
+NAME_FIELD_MAX = 60          # names-index shards: build-names-index.py's extraction cap
 csv.field_size_limit(10 ** 8)
 
 # Frontmatter that only ever belongs to an OSINT source record. Rendered into a
@@ -169,6 +170,35 @@ def check_text(path: Path, rel: str) -> list[str]:
         if len(line) > MAX_FIELD:
             return [f"{rel}: line {n} is {len(line)} chars (cap {MAX_FIELD})"]
     return []
+
+
+SHARD_LINE = re.compile(r"^[^\t]{1,%d}\t\d+(?:,\d+)*$" % NAME_FIELD_MAX)
+
+
+def check_names_shard(path: Path, rel: str) -> list[str]:
+    """A names-index shard: `Name<TAB>id,id,id`, and nothing else on any line.
+
+    These files trip `check_text`'s 1,000-character cap legitimately — a name
+    occurring in nine hundred documents carries a long list of ids — so they need
+    their own admission. **This is a stricter check than the one it replaces, not
+    a relaxed one**, which is the only kind of exemption worth granting: a length
+    cap asks whether a line is suspiciously long, where this asks whether the line
+    could be prose at all, and a line of digits and commas cannot be. The name
+    itself is still capped, at `build-names-index.py`'s own extraction limit.
+
+    The gate's standing warning applies here as it does to the prose columns: the
+    way to keep this honest is to keep the *shape* narrow, never to widen the cap
+    until the gate goes quiet.
+    """
+    faults = []
+    for n, line in enumerate(path.read_text(encoding="utf-8", errors="replace").splitlines(), start=1):
+        if not line:
+            continue
+        if not SHARD_LINE.match(line):
+            faults.append(f"{rel}: line {n} is not `name<TAB>ids` — not a names shard")
+            if len(faults) >= 5:
+                break
+    return faults
 
 
 class _Blocks(HTMLParser):
@@ -363,6 +393,12 @@ def scan(root: Path, clean: dict | None = None) -> list[str]:
         # `site`, false-positive under `site/catalogue`.
         if "raw" in relpath.parts[:-1]:
             faults.append(f"{rel}: path is under raw/")
+            continue
+        # A names-index shard is checked by shape, not by length. Dispatched on the
+        # directory as well as the suffix, so this admits `names/*.txt` and nothing
+        # else — a plain .txt anywhere on the site still meets the ordinary cap.
+        if path.suffix.lower() == ".txt" and "names" in relpath.parts[:-1]:
+            faults.extend(check_names_shard(path, rel))
             continue
         check = CHECKERS.get(path.suffix.lower())
         if not check:

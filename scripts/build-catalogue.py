@@ -85,8 +85,13 @@ def facets(rows):
     for key in ("places", "topics", "lens", "entities"):
         c = Counter(v for r in rows for v in r[key])
         # entities has a long single-reference tail by design (CLAUDE.md ->
-        # Entities); a filter menu wants the ones that actually filter.
-        f[key] = dict(c.most_common(200 if key == "entities" else None))
+        # Entities). This used to be capped at the top 200, for a filter menu
+        # rendered as a list. The browse page renders the entity facet through
+        # the same type-ahead it already uses for 62 places and 38 topics, so
+        # the cap now only hides vocabulary from anyone reading this file —
+        # including a reader checking whether a tag they searched for exists.
+        # Uncapped 2026-08-24 (documentation/catalogue-search.md, stage 1).
+        f[key] = dict(c.most_common())
     f["publisher"] = dict(Counter(r["publisher"] for r in rows if r["publisher"]).most_common())
     f["year"] = dict(sorted(Counter(r["published"][:4] for r in rows if r["published"]).items()))
     f["body_completeness"] = dict(Counter(r["body_completeness"] for r in rows).most_common())
