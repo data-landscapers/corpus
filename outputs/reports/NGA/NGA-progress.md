@@ -3,18 +3,18 @@ title: Nigeria — progress report, 2025-08-01 to 2026-08-24
 compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 place: NGA
-ledger_rows: 264
+ledger_rows: 265
 not_held: 9
-record: ef04520f5eea
+record: 84228a632de5
 ---
 
 # Nigeria: progress report, 2025-08-01 to 2026-08-24
 
 *Compiled 2026-08-24 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 264 systems and instruments on this place's ledger, 152 changed position between 2025-08-01 and 2026-08-24, 54 did not, 48 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 265 systems and instruments on this place's ledger, 152 changed position between 2025-08-01 and 2026-08-24, 54 did not, 49 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 673 sources for this place in the window — 93 in the earlier half (2025-08 to 2026-01), 580 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 681 sources for this place in the window — 93 in the earlier half (2025-08 to 2026-01), 588 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -55,6 +55,7 @@ The same year produced a data-localisation directive, a virtual-assets executive
 | Telecom tariff reset | In force (2025-01) | [In force; the first rise in about 11 years](https://techcabal.com/2025/01/20/ncc-approves-tariff-increase) | No change |
 | Airtel Nigeria retail and distribution network | ***Baseline not held*** | [About 17,200 sites, from about 13,000 three years earlier](https://techcabal.com/2026/07/22/airtel-nigeria-grows-retail-footprint/) | ***Baseline not held*** |
 | Akwa Ibom airport internet backbone | ***Baseline not held*** | [A multi-gigabit backbone activated at the state's international airport over a commercial submarine-fibre network, intended to carry passenger processing, operations and real-time security monitoring](https://africanpilot.africa/akwa-ibom-victor-attah-internet/) | ***Baseline not held*** |
+| FiberOne broadband footprint | None published | [Live in five cities, six further states named for launch before the end of 2026](https://businessday.ng/technology/article/fiberone-expands-to-seven-nigerian-states-steps-up-community-investment/) | ***Baseline not held*** |
 | Fibre cuts from road works | Baseline not held | [More than 5,000 fibre-optic cable cuts from road works in the first half of 2026, on the regulator’s own count](https://punchng.com/fibre-cuts-hit-5000-as-road-works-intensify/) | ***Baseline not held*** |
 | Free-space optical links in Lagos | ***Baseline not held*** | [Close to twelve licence-exempt optical links across Lagos, on the companies' own account; the operator puts nearly a dozen light-beam links in service across Lagos over two years, serving banks, hotels, internet providers and a utility beyond fibre's reach, with plans to extend to Abuja, Ibadan and Kano](https://datacentresafrica.com/taara-and-liquid-use-light-beam-technology-to-expand-data-centre-capacity-to-large-enterprises-in-lagos-nigeria/) | ***Baseline not held*** |
 | Length of the national fibre backbone | Baseline not held | [30,000 km of terrestrial fibre deployed against the 120,000 km the national blueprint requires, with the financier's appraisal stating flatly that there is no national backbone network; the same financier's Board-approval statement frames the BRIDGE programme as laying over 90,000 km and extending the backbone from 35,000 km to 125,000 km](https://documents1.worldbank.org/curated/en/099091125121538069/txt/BOSIB-f3e6411b-ac7d-490f-a0ef-af1e4a6d1a28.txt) | ***Baseline not held*** |
@@ -404,7 +405,7 @@ The one regression is the retail central bank digital currency, Africa's first, 
 | Internet-platform regulation | Rules in force | [Enforcement paused pending a unified digital-economy policy framework](https://www.nigeriacommunicationsweek.com.ng/fg-halts-enforcement-of-new-regulations-on-internet-platforms/) | Regressed |
 | NDPA amendment bill | Did not exist | [Before the assembly](https://saharareporters.com/2026/07/19/rulaac-warns-data-protection-bill-could-give-nigerian-govt-sweeping-powers-over-social) | Advanced |
 | Private enforcement of data-protection rights | Did not exist | [₦15m general damages for marketing after consent was withdrawn](https://saharareporters.com/2026/08/01/court-slams-stanbicibtc-over-data-privacy-breach-awards-ex-customers-n15million-orders) | Advanced |
-| Securities regulator virtual-asset rules | Did not exist | [Proposed: registration for offshore firms serving Nigerians, API-level access to transaction and wallet data, and capital floors up to ₦2bn](https://techcabal.com/2026/08/20/nigerias-sec-wants-crypto-firms-to-share-transaction-data/) | Advanced |
+| Securities regulator virtual-asset rules | Did not exist | [Draft out for comment with thresholds set](https://www.itweb.africa/article/nigeria-sec-toughens-crypto-rules/dgp45vaBlmw7X9l8) | Advanced |
 | Social-media local-presence bill | Before the assembly (2025-03) | [Through a Senate committee public hearing and into public consultation, with organised support and organised opposition on the record](https://itweb.africa/article/senate-progresses-social-media-legislation/JBwErvn3ogJ76Db2) | Advanced |
 | FCCPC consumer-protection penalty against Meta | Imposed, under appeal (2025) | [Under appeal](https://www.zawya.com/en/economy/africa/nigeria-tests-data-sovereignty-tfwnm5he) | No change |
 | Nigeria Tax Act 2025 and Tax Administration Act 2025 | In force (2025) | [The statutory base for the virtual-asset tax circular](https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/) | No change |
