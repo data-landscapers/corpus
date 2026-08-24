@@ -4,7 +4,7 @@ One style, two sites. data-landscapers.io is the origin; every Corpus page is an
 
 **Status, 2026-08-24: this is the tree, with one exception.** The review's §4 landed the same day — `corpus.css` exists, `main.css` is vendored byte-identical and the lint covers it, every builder takes its chrome and its stylesheet set from `chrome_lib`, the catalogue is on house tokens, and the main-site nav links to Corpus. The figures under *Whitespace* are measured, not proposed.
 
-The exception: **the 165 report pages already published still carry the old chrome**, including a nav with three dead links. `RENDER.md` holds a document whose content has not moved, and `--force` would cut 241 new editions to push a stylesheet through — a decision, not a habit. Each report takes the new chrome at its next natural edition. Nothing else on the site is waiting.
+The exception: **the 241 rendered documents already published still carry the old chrome**, including a nav with three dead links. `RENDER.md` holds a document whose content has not moved, and `--force` would cut 241 new editions to push a stylesheet through — a decision, not a habit. Each takes the new chrome at its next natural edition. Nothing else on the site is waiting.
 
 ## Where style lives
 
